@@ -1,12 +1,12 @@
 {
   "description": "Soft songs that gives you a gentle start of the day.",
-  "num_followers": 756,
+  "num_followers": 814,
   "original_name": "Soft Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDI1NDhkMjJkOGRiYWU4MGNhNGI0YTNmNDZlMWFkYjQxNDI3Zjhi",
+  "snapshot_id": "MCxmMmI4NWI3YWNkNTZhNjU1OGRjNDM0Y2ZiYmRkNWEwMDQ2YzA0Zjc2",
   "tracks": [
     {
       "added_at": "2023-02-10 06:37:00",
@@ -203,6 +203,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "I Am Easy to Find",
+        "url": "https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 213373,
+      "name": "Light Years",
+      "url": "https://open.spotify.com/track/2GNj9KRwpxBWgEiPQc3jEj"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "Eastside (with Halsey & Khalid) [Acoustic]",
         "url": "https://open.spotify.com/album/6T3cWvfXW2hSV27SENATUk"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 173004,
       "name": "Eastside (with Halsey & Khalid) - Acoustic",
       "url": "https://open.spotify.com/track/5iQ0Va8Dt5Yky4TXuqO5TF"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "I Am Easy to Find",
-        "url": "https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 213373,
-      "name": "Light Years",
-      "url": "https://open.spotify.com/track/2GNj9KRwpxBWgEiPQc3jEj"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "More & More",
-        "url": "https://open.spotify.com/album/5ASbLWy4g3WyCCuxvnJRvD"
-      },
-      "artists": [
-        {
-          "name": "Finding Hope",
-          "url": "https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg"
-        }
-      ],
-      "duration_ms": 211133,
-      "name": "More & More",
-      "url": "https://open.spotify.com/track/5oYMLJBYRv0I3D5GZEqODA"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "#Covers",
         "url": "https://open.spotify.com/album/4snKT0WGNCbtZ9AESdeWKB"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 192545,
       "name": "It Aint Me",
       "url": "https://open.spotify.com/track/2KsdoMZsL2ajnjjYUWm1ZT"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "More & More",
+        "url": "https://open.spotify.com/album/5ASbLWy4g3WyCCuxvnJRvD"
+      },
+      "artists": [
+        {
+          "name": "Finding Hope",
+          "url": "https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg"
+        }
+      ],
+      "duration_ms": 211133,
+      "name": "More & More",
+      "url": "https://open.spotify.com/track/5oYMLJBYRv0I3D5GZEqODA"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -601,22 +601,6 @@
       "url": "https://open.spotify.com/track/1zx3bRFeIqknq6opwgaw3U"
     },
     {
-      "added_at": "2023-02-24 11:06:00",
-      "album": {
-        "name": "Goddess (Deluxe)",
-        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
-      },
-      "artists": [
-        {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
-        }
-      ],
-      "duration_ms": 281017,
-      "name": "Someone New",
-      "url": "https://open.spotify.com/track/7DF2SSCuHoniuh5sPeMvkv"
-    },
-    {
       "added_at": "2023-02-10 06:37:00",
       "album": {
         "name": "Here With Me - Acoustic",
@@ -631,6 +615,22 @@
       "duration_ms": 164478,
       "name": "Here With Me - Acoustic",
       "url": "https://open.spotify.com/track/0Dc3gJMT5I1NrHsjVywWvI"
+    },
+    {
+      "added_at": "2023-02-24 11:06:00",
+      "album": {
+        "name": "Goddess (Deluxe)",
+        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
+      },
+      "artists": [
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "duration_ms": 281017,
+      "name": "Someone New",
+      "url": "https://open.spotify.com/track/7DF2SSCuHoniuh5sPeMvkv"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Chasing Cars (Acoustic)",
-        "url": "https://open.spotify.com/album/5zeqfd26JaUfCQNMAcNXN2"
-      },
-      "artists": [
-        {
-          "name": "Bailey Rushlow",
-          "url": "https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw"
-        }
-      ],
-      "duration_ms": 236298,
-      "name": "Chasing Cars - Acoustic",
-      "url": "https://open.spotify.com/track/1abgR6pt8VzZRfiQa0KLlS"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "A Few More Hours at YYZ",
         "url": "https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 196067,
       "name": "Easy Tiger",
       "url": "https://open.spotify.com/track/4pHbu3jiGGhJn5shkFPp5Y"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Chasing Cars (Acoustic)",
+        "url": "https://open.spotify.com/album/5zeqfd26JaUfCQNMAcNXN2"
+      },
+      "artists": [
+        {
+          "name": "Bailey Rushlow",
+          "url": "https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw"
+        }
+      ],
+      "duration_ms": 236298,
+      "name": "Chasing Cars - Acoustic",
+      "url": "https://open.spotify.com/track/1abgR6pt8VzZRfiQa0KLlS"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -761,6 +761,22 @@
       "url": "https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY"
     },
     {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Three Flights From Alto Nido",
+        "url": "https://open.spotify.com/album/0ntXTGF1tGttAv0Tr077DH"
+      },
+      "artists": [
+        {
+          "name": "Greg Laswell",
+          "url": "https://open.spotify.com/artist/2Mf99N2VcDEcVuocyBLhyC"
+        }
+      ],
+      "duration_ms": 67746,
+      "name": "Sweet Dream",
+      "url": "https://open.spotify.com/track/7JRJOLKHz88pR0YS4pVCao"
+    },
+    {
       "added_at": "2023-06-23 11:57:00",
       "album": {
         "name": "Can\u2019t Forget You (feat. James Blunt) [Acoustic]",
@@ -783,22 +799,6 @@
       "duration_ms": 145521,
       "name": "Can\u2019t Forget You (feat. James Blunt) - Acoustic",
       "url": "https://open.spotify.com/track/00REq7wkCPg0Cv4uLHUZ25"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Three Flights From Alto Nido",
-        "url": "https://open.spotify.com/album/0ntXTGF1tGttAv0Tr077DH"
-      },
-      "artists": [
-        {
-          "name": "Greg Laswell",
-          "url": "https://open.spotify.com/artist/2Mf99N2VcDEcVuocyBLhyC"
-        }
-      ],
-      "duration_ms": 67746,
-      "name": "Sweet Dream",
-      "url": "https://open.spotify.com/track/7JRJOLKHz88pR0YS4pVCao"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/2tdf8754oMOspLX4s4XAVV"
+      },
+      "artists": [
+        {
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+        }
+      ],
+      "duration_ms": 194129,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/78gNozh0NmyIMgpSOGX7Fz"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "Handwritten",
         "url": "https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 230440,
       "name": "This Is What It Takes",
       "url": "https://open.spotify.com/track/0vW819CC45qQzi1lM9PaAg"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "OK",
-        "url": "https://open.spotify.com/album/6N6OAhnaaEAzXT6nd3kq3A"
-      },
-      "artists": [
-        {
-          "name": "Canyon City",
-          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
-        }
-      ],
-      "duration_ms": 212400,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/2gBYjMXW65daBB1elr68JK"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "OK",
+        "url": "https://open.spotify.com/album/6N6OAhnaaEAzXT6nd3kq3A"
+      },
+      "artists": [
+        {
+          "name": "Canyon City",
+          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
+        }
+      ],
+      "duration_ms": 212400,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/2gBYjMXW65daBB1elr68JK"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "Hey (Acoustic Version)",
         "url": "https://open.spotify.com/album/2ZwzsbOlmqGn7AGgK4pVNC"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 156804,
       "name": "Hey - Acoustic",
       "url": "https://open.spotify.com/track/28vyxr4A3WyiZ9dR1mTIr5"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/2tdf8754oMOspLX4s4XAVV"
-      },
-      "artists": [
-        {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
-        }
-      ],
-      "duration_ms": 194129,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/78gNozh0NmyIMgpSOGX7Fz"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Wait & See",
-        "url": "https://open.spotify.com/album/092lxslMDdtfsPBfQ80vWH"
-      },
-      "artists": [
-        {
-          "name": "Mabes",
-          "url": "https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su"
-        }
-      ],
-      "duration_ms": 213855,
-      "name": "Little Love",
-      "url": "https://open.spotify.com/track/1Pq2zNeHfbEA4phoHXHG5b"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Deny Me",
         "url": "https://open.spotify.com/album/4603uGOYACGfWZho5limbs"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 307620,
       "name": "Deny Me",
       "url": "https://open.spotify.com/track/3PYMrsmgHQfLmXeqeEhY0k"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Wait & See",
+        "url": "https://open.spotify.com/album/092lxslMDdtfsPBfQ80vWH"
+      },
+      "artists": [
+        {
+          "name": "Mabes",
+          "url": "https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su"
+        }
+      ],
+      "duration_ms": 213855,
+      "name": "Little Love",
+      "url": "https://open.spotify.com/track/1Pq2zNeHfbEA4phoHXHG5b"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1643,8 +1643,8 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "I'm On Fire",
-        "url": "https://open.spotify.com/album/0PabAcEXD3IktrddWuZf9f"
+        "name": "I Still Haven't Found What I'm Looking For",
+        "url": "https://open.spotify.com/album/2hfiqE3A9MDiS0VbGhWLYr"
       },
       "artists": [
         {
@@ -1652,9 +1652,9 @@
           "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
         }
       ],
-      "duration_ms": 140130,
-      "name": "I'm On Fire",
-      "url": "https://open.spotify.com/track/3i38IJBfk99KziSacMYO9l"
+      "duration_ms": 163588,
+      "name": "I Still Haven't Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/3pAsI7X41AWYTeH50ryxAs"
     },
     {
       "added_at": "2023-02-10 06:37:00",

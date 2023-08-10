@@ -4,7 +4,7 @@
 
 > 
 
-485 songs - 21 hr 53 min
+488 songs - 22 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -427,6 +427,7 @@
 | [Talkin Like](https://open.spotify.com/track/6atDGm94dfeC7qwmL3TFoq) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s) | [Talkin Like](https://open.spotify.com/album/2TcwUosUrtDDQHi50Z1PCU) | 2:34 | 2022-12-01 |  |
 | [Teach You To Be Lonely](https://open.spotify.com/track/1u3SbjzS20gjIePyLGZmYR) | [Sybyr](https://open.spotify.com/artist/4WVDlzQCHAIWzBP5iZwuOJ) | [Salty Sammy](https://open.spotify.com/album/0lmjWuU4ZrinYP5NW7ip61) | 4:39 | 2022-09-05 | 2023-04-24 |
 | [Teen X Babe](https://open.spotify.com/track/1HYOCC0xTD7ym5oOmP5AKz) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Teen X : Relapsed](https://open.spotify.com/album/1NwCufbDWeIm6nOKGp0Et6) | 1:56 | 2022-03-07 |  |
+| [TELEKINESIS \(feat\. SZA & Future\)](https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 5:53 | 2023-08-07 |  |
 | [Temporary Time](https://open.spotify.com/track/6kGsugpyKSa1m8bTtfZqca) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Lost Files](https://open.spotify.com/album/5SLvT5S6ZthRj2sOqD649Q) | 2:48 | 2022-12-23 | 2023-05-09 |
 | [Temptation](https://open.spotify.com/track/513pwnUHAEGZJKFrReMpE6) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Cold Summer](https://open.spotify.com/album/0TxLAUhKclBHQUoeunGQlq) | 1:36 | 2023-03-06 |  |
 | [Thank You \- Radio Edit](https://open.spotify.com/track/1boN869O5BJIYgX7ANzC4B) | [Jerm](https://open.spotify.com/artist/5JSpdSi1RHQ3KgNovJBJhF), [elijahdior](https://open.spotify.com/artist/6e7qUgEO2fWE5dt2PMXGdB) | [Sapphire.](https://open.spotify.com/album/22HA1nornnauA428zn6gHB) | 1:27 | 2022-08-05 | 2023-04-12 |
@@ -440,6 +441,7 @@
 | [The world is yours](https://open.spotify.com/track/6NL85on1jpM2VuXR23Ix1P) | [Slimesito](https://open.spotify.com/artist/1fqzcp3dzZD1YGQ2RT5pYs) | [Rich slime](https://open.spotify.com/album/2Oe8Vc7miZMoHiB6pr1SXX) | 1:20 | 2022-10-18 | 2023-05-09 |
 | [this is all too familiar ive seen this in a dream](https://open.spotify.com/track/5rW6ZGwODB5YiI0RnecJz9) | [Fulcrum](https://open.spotify.com/artist/6nbidWb6qovzknhOdeExt7) | [this is all too familiar ive seen this in a dream](https://open.spotify.com/album/5I1Je50iwcuXRi2w8yrl2y) | 2:13 | 2022-12-01 | 2023-05-09 |
 | [Thrills](https://open.spotify.com/track/0wfEJScDt8ydT71v5ayG5Z) | [Thrill!](https://open.spotify.com/artist/0roOKxMVHXJjwZLBx3uKr2) | [Thrills](https://open.spotify.com/album/6tOr4Zj2gb8q3x6tqjbjGH) | 1:48 | 2022-12-15 |  |
+| [Through The Wire](https://open.spotify.com/track/4mmkhcEm1Ljy1U9nwtsxUo) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 3:41 | 2023-08-09 |  |
 | [Throw Away](https://open.spotify.com/track/2ML7vSeIZEmOCOiLUmz7Sv) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Monster](https://open.spotify.com/album/6Q3VZtyPCZFMO4cPF4828q) | 5:16 | 2023-02-02 | 2023-04-12 |
 | [Till the A M](https://open.spotify.com/track/3Bu1iBXJ5berdiHAY6CPiP) | [Slimesito](https://open.spotify.com/artist/1fqzcp3dzZD1YGQ2RT5pYs) | [Dedication](https://open.spotify.com/album/3yCR9McIWtVq4LwJSITQSc) | 2:33 | 2023-01-07 | 2023-05-09 |
 | [Time Flow](https://open.spotify.com/track/0bkoFNRkTWZiUP35ZwgnPz) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Lost Files](https://open.spotify.com/album/5SLvT5S6ZthRj2sOqD649Q) | 2:58 | 2022-12-23 | 2023-05-09 |
@@ -449,6 +451,7 @@
 | [Took That Mask Off](https://open.spotify.com/track/1SeB1axwoRD0RHbWB7W8ZQ) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Took That Mask Off](https://open.spotify.com/album/3R0hQHd7YrGeLGSqsDd11p) | 2:18 | 2022-12-30 |  |
 | [Tootheache & Gaslighting!](https://open.spotify.com/track/3x0ObDVWg0iQiZ19v9aaXX) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Golden Child, Chapter 3](https://open.spotify.com/album/09DoaRc2Dcmll2EhYWcWdy) | 2:47 | 2023-04-03 | 2023-05-09 |
 | [Top Off](https://open.spotify.com/track/0HCnj7pfrvshnocOJUFeit) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Season 3 \(Deluxe\)](https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi) | 3:17 | 2022-04-09 |  |
+| [TOPIA TWINS \(feat\. Rob49 & 21 Savage\)](https://open.spotify.com/track/0lodMO0qK83vfPiiD7FMEt) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:43 | 2023-08-07 |  |
 | [Tribe \(with J\. Cole\)](https://open.spotify.com/track/0YAQnYt2oB8OdoaeqnHyTI) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Milky Way](https://open.spotify.com/album/6sDQacCej53Q43vZF9PJ8i) | 3:58 | 2022-09-26 |  |
 | [Trippple H](https://open.spotify.com/track/1ydS1YSLGA9ESh7GROrnWR) | [K Suave](https://open.spotify.com/artist/04a6mc5vUtj2pMzteToeH7), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [Thot Slayer 2](https://open.spotify.com/album/1PrvzRiC3jFGKR0GRSkLz4) | 3:32 | 2022-08-14 | 2023-05-09 |
 | [Turban](https://open.spotify.com/track/4aMxs74PXoQg2SLgjypcvb) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs) | 2:35 | 2021-11-17 | 2023-05-09 |

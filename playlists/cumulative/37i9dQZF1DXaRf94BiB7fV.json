@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Short Round , Artwork: Isu Kim",
+  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: citimall, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -1164,6 +1164,24 @@
       "duration_ms": 245500,
       "name": "Baarish Ka Asar",
       "url": "https://open.spotify.com/track/6J4oLY2GEwOsUgEd50IpKy"
+    },
+    {
+      "album": {
+        "name": "Baarishein",
+        "url": "https://open.spotify.com/album/0391DL7W1ftvUB6K1TO4an"
+      },
+      "artists": [
+        {
+          "name": "Shubham Agrawal",
+          "url": "https://open.spotify.com/artist/0hXmRbCfPzmsKcTkYy0jev"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213671,
+      "name": "Baarishein",
+      "url": "https://open.spotify.com/track/07Nu7WQpx6eKoS3VLprxOR"
     },
     {
       "album": {
@@ -2566,7 +2584,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 235560,
       "name": "Chalte Jaanaa",
       "url": "https://open.spotify.com/track/3NneoN6Z0PxZLiXbxBhjjx"
@@ -2642,7 +2660,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 198979,
       "name": "Chori Chori",
       "url": "https://open.spotify.com/track/4K9QslTTQPeZTJzn61o1rM"
@@ -3652,6 +3670,24 @@
     {
       "album": {
         "name": "Dooriyaan",
+        "url": "https://open.spotify.com/album/1SGNSU53uXAE44EKSTmKAF"
+      },
+      "artists": [
+        {
+          "name": "FearZ",
+          "url": "https://open.spotify.com/artist/28pMYmVYi6dI3wR8aFPS9L"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236571,
+      "name": "Dooriyaan",
+      "url": "https://open.spotify.com/track/1JIgQtS13gsEOKdQsee2F8"
+    },
+    {
+      "album": {
+        "name": "Dooriyaan",
         "url": "https://open.spotify.com/album/2Okc9hbSudtpncMMbTRUv0"
       },
       "artists": [
@@ -4491,6 +4527,24 @@
     },
     {
       "album": {
+        "name": "Floating",
+        "url": "https://open.spotify.com/album/5ODZqLN8RmaQTNskfgHksz"
+      },
+      "artists": [
+        {
+          "name": "Sparsh Dangwal",
+          "url": "https://open.spotify.com/artist/1SClATlfgXE2qlr4FcEhUS"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142344,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/15ucMcZh5GAGcjHxbH3X9S"
+    },
+    {
+      "album": {
         "name": "Flora's Song",
         "url": "https://open.spotify.com/album/7MlApqUlJmf5PZOEfi2Tf4"
       },
@@ -4676,7 +4730,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 147802,
       "name": "From This Day On",
       "url": "https://open.spotify.com/track/5acfp5J8PEffPWQexXlYzi"
@@ -4970,6 +5024,24 @@
       "duration_ms": 145927,
       "name": "Gumsum",
       "url": "https://open.spotify.com/track/0v20x1Yig5Co1VZOCLJbU7"
+    },
+    {
+      "album": {
+        "name": "Guzarish",
+        "url": "https://open.spotify.com/album/6xRVOiJUIWwWFuUoUfAkQV"
+      },
+      "artists": [
+        {
+          "name": "citimall",
+          "url": "https://open.spotify.com/artist/0wnr36mC2ENfSqlGhgAxqU"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193500,
+      "name": "Guzarish",
+      "url": "https://open.spotify.com/track/4dE5eNG3DVTvIZMy4pY4Jr"
     },
     {
       "album": {
@@ -5390,6 +5462,24 @@
       "duration_ms": 218852,
       "name": "Home",
       "url": "https://open.spotify.com/track/5uiswDLthSUVqf8Rk1NnRo"
+    },
+    {
+      "album": {
+        "name": "Hometown",
+        "url": "https://open.spotify.com/album/52yNfEQGfv1dBgFGRa9zet"
+      },
+      "artists": [
+        {
+          "name": "George Haokip",
+          "url": "https://open.spotify.com/artist/70byiBrJdwpYFKP4zlBCie"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160144,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/6RhEbIMGMfzgP87vVnAwjg"
     },
     {
       "album": {
@@ -6628,7 +6718,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 223649,
       "name": "Jahaan",
       "url": "https://open.spotify.com/track/4AEWM5JhXduGreZMOn46ni"
@@ -9337,6 +9427,24 @@
     },
     {
       "album": {
+        "name": "Manzil",
+        "url": "https://open.spotify.com/album/0v7KkDZ3eP22FrD0pjVNL1"
+      },
+      "artists": [
+        {
+          "name": "PrakritTheBand",
+          "url": "https://open.spotify.com/artist/4OCcwHHufomlkNPCtsbcCu"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171845,
+      "name": "Manzil",
+      "url": "https://open.spotify.com/track/3k56uaH3QBqpUyZwvHbwKh"
+    },
+    {
+      "album": {
         "name": "Manzuri",
         "url": "https://open.spotify.com/album/2p4vF4Pgc3yPqFoTZzauAS"
       },
@@ -10770,7 +10878,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 321523,
       "name": "On the wild side",
       "url": "https://open.spotify.com/track/1nPMkWngNytyhVaYlE3YGe"
@@ -10954,7 +11062,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 238222,
       "name": "Out of the Dark",
       "url": "https://open.spotify.com/track/0SSFIYP6iNF6T7nRvzGvqL"
@@ -11628,7 +11736,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 280175,
       "name": "Premika",
       "url": "https://open.spotify.com/track/13jXWUm1P5XIkN1UR476lD"
@@ -12380,7 +12488,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 244551,
       "name": "Roshni",
       "url": "https://open.spotify.com/track/34B0mfxukhsO8T7rsz1YX5"
@@ -12918,6 +13026,24 @@
       "duration_ms": 146666,
       "name": "Same, Familiar",
       "url": "https://open.spotify.com/track/3cspFnyhbCVmwcCNoRVqBb"
+    },
+    {
+      "album": {
+        "name": "Sandesa",
+        "url": "https://open.spotify.com/album/4ReEpnPrFF5NyZQGlpGgJa"
+      },
+      "artists": [
+        {
+          "name": "Avanti Patel",
+          "url": "https://open.spotify.com/artist/4LPRI62WeBuYjw3MA4GTqf"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223304,
+      "name": "Sandesa",
+      "url": "https://open.spotify.com/track/6By28l3OmPVa2tFFgQD0zt"
     },
     {
       "album": {
@@ -14054,6 +14180,24 @@
       "duration_ms": 127500,
       "name": "Summer Crush",
       "url": "https://open.spotify.com/track/5Sy5KenP2IsBVIeElerdT0"
+    },
+    {
+      "album": {
+        "name": "Sun bhi ja",
+        "url": "https://open.spotify.com/album/14weJ3nJ22lqH7P9mTdcDM"
+      },
+      "artists": [
+        {
+          "name": "Dhi Harmony",
+          "url": "https://open.spotify.com/artist/3Thq0cpi3FinFQhr2d8EqY"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214235,
+      "name": "Sun bhi ja",
+      "url": "https://open.spotify.com/track/3w5nZYYT1NtwnPzhMYmZmW"
     },
     {
       "album": {
@@ -15389,6 +15533,24 @@
     },
     {
       "album": {
+        "name": "Tu Shaam aur Chai",
+        "url": "https://open.spotify.com/album/6ozGN0Q1iT85gOGAUw3jQU"
+      },
+      "artists": [
+        {
+          "name": "Shadaab Hashmi",
+          "url": "https://open.spotify.com/artist/6yNEY8VOMEzsD2bQZJdqEl"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151200,
+      "name": "Tu Shaam aur Chai",
+      "url": "https://open.spotify.com/track/4qpvCNIUdfT2ND2HEisUcZ"
+    },
+    {
+      "album": {
         "name": "Tuhi Meri Bhalobasa",
         "url": "https://open.spotify.com/album/7mza7vU0awmeeLUoA3IH8U"
       },
@@ -15578,7 +15740,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 248727,
       "name": "tum/njan",
       "url": "https://open.spotify.com/track/7jnZVWKd2nkAT6Ccm9mmuR"
@@ -16156,7 +16318,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 282222,
       "name": "Waqt Ki Baatein",
       "url": "https://open.spotify.com/track/0yjDNJ0p6KH8SCLb9ZOlFI"
@@ -16662,6 +16824,24 @@
       "duration_ms": 223529,
       "name": "Wrong Number",
       "url": "https://open.spotify.com/track/0CBdB3FuqIvHT0nnqt07yJ"
+    },
+    {
+      "album": {
+        "name": "EASY LOVE",
+        "url": "https://open.spotify.com/album/5Gg0dXnvYc9s0zyOqI3t8N"
+      },
+      "artists": [
+        {
+          "name": "TARRA",
+          "url": "https://open.spotify.com/artist/0zeS3VoQckGiXlZudEnWqx"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223529,
+      "name": "Wrong Number",
+      "url": "https://open.spotify.com/track/4q5EoGs7etgBTpCPPJVCUp"
     },
     {
       "album": {

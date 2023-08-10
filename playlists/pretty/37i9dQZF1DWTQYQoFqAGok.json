@@ -1,12 +1,12 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico en la curadur\u00eda de los expertos Mariana P\u00e9rez,  Juan Carlos Reyes, Erik Montenegro y Jos\u00e9 Enrique Fern\u00e1ndez.",
-  "num_followers": 56964,
+  "num_followers": 56974,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzQ4ZDY4MzMzMTg1MzkzMTgyNDc5ZmI4OTFlMzhlZTg4OGI4MjUx",
+  "snapshot_id": "MCwyM2RjODY2MDVkZWUxNmRmYTQ3Nzk0ZjliNTE0OGExYmYwYTFjZTEy",
   "tracks": [
     {
       "added_at": "2021-07-28 16:44:28",
@@ -615,22 +615,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Ventana espacial",
-        "url": "https://open.spotify.com/album/0sbaxSNpm7Fje9gOx6FhxG"
-      },
-      "artists": [
-        {
-          "name": "Filip y Woppe",
-          "url": "https://open.spotify.com/artist/0M9WmsqRszIYOTIxPfZLgC"
-        }
-      ],
-      "duration_ms": 254720,
-      "name": "Ventana espacial",
-      "url": "https://open.spotify.com/track/3HTcmAbqboUt0io2WCuI34"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Paisaje Gris",
         "url": "https://open.spotify.com/album/4WAskgkj1leGkHgXXobvRG"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 259133,
       "name": "Paisaje Gris",
       "url": "https://open.spotify.com/track/7Fo5vh8oUOsw8LsziLXe60"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Ventana espacial",
+        "url": "https://open.spotify.com/album/0sbaxSNpm7Fje9gOx6FhxG"
+      },
+      "artists": [
+        {
+          "name": "Filip y Woppe",
+          "url": "https://open.spotify.com/artist/0M9WmsqRszIYOTIxPfZLgC"
+        }
+      ],
+      "duration_ms": 254720,
+      "name": "Ventana espacial",
+      "url": "https://open.spotify.com/track/3HTcmAbqboUt0io2WCuI34"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -823,22 +823,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Mi Sentimiento Guerrerense",
-        "url": "https://open.spotify.com/album/6035edQMGEkEvpgomvasDC"
-      },
-      "artists": [
-        {
-          "name": "Guerrero Jazz",
-          "url": "https://open.spotify.com/artist/1e7vAz7CGvceTRGJ4E1Sl6"
-        }
-      ],
-      "duration_ms": 339280,
-      "name": "Por los Caminos del Sur",
-      "url": "https://open.spotify.com/track/5P4gJvoE9ynAgJdAxp8mlt"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Andamos Huyendo",
         "url": "https://open.spotify.com/album/6FJPUB4pLZxCKGUJDgDHQQ"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 291647,
       "name": "Andamos Huyendo",
       "url": "https://open.spotify.com/track/4utJIPfz1GOEnp3KNWkW1J"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Mi Sentimiento Guerrerense",
+        "url": "https://open.spotify.com/album/6035edQMGEkEvpgomvasDC"
+      },
+      "artists": [
+        {
+          "name": "Guerrero Jazz",
+          "url": "https://open.spotify.com/artist/1e7vAz7CGvceTRGJ4E1Sl6"
+        }
+      ],
+      "duration_ms": 339280,
+      "name": "Por los Caminos del Sur",
+      "url": "https://open.spotify.com/track/5P4gJvoE9ynAgJdAxp8mlt"
     },
     {
       "added_at": "2021-07-28 16:44:28",

@@ -1,12 +1,12 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Edgardo Nu\u00f1ez en portada.",
-  "num_followers": 414357,
+  "num_followers": 414517,
   "original_name": "Norte\u00f1o 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzZiNTI4YzIxMWFmMDhiYjBjNTc2NjM0YjZiY2Q3OTkzYjc1ZjU4",
+  "snapshot_id": "MCw0YTI1YWE3YzgwY2ZkNDRjOGM2NGNhYTQ1NGQ0NzM1YzllMDk2OWI1",
   "tracks": [
     {
       "added_at": "2023-08-08 19:12:40",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-08-08 19:12:40",
       "album": {
-        "name": "La 701",
-        "url": "https://open.spotify.com/album/5dJtr2DikQCxBRGlKKdRPI"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 180101,
-      "name": "La 701",
-      "url": "https://open.spotify.com/track/6NKkscuqh2UWR4gzXIF84G"
-    },
-    {
-      "added_at": "2023-08-08 19:12:40",
-      "album": {
         "name": "Malas Decisiones",
         "url": "https://open.spotify.com/album/1SBtatmdkqzCgt16ujwPBZ"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 190671,
       "name": "Hablando Claro (En Vivo)",
       "url": "https://open.spotify.com/track/5hRFjooNvZWb9gdnXjrv2j"
+    },
+    {
+      "added_at": "2023-08-08 19:12:40",
+      "album": {
+        "name": "La 701",
+        "url": "https://open.spotify.com/album/5dJtr2DikQCxBRGlKKdRPI"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 180101,
+      "name": "La 701",
+      "url": "https://open.spotify.com/track/6NKkscuqh2UWR4gzXIF84G"
     },
     {
       "added_at": "2023-08-08 19:12:40",
@@ -791,22 +791,18 @@
     {
       "added_at": "2023-08-08 19:12:40",
       "album": {
-        "name": "Borracho Enamorado",
-        "url": "https://open.spotify.com/album/0sr6urbaaWIMexVmk97TZK"
+        "name": "Nadie Va A Pensar En Ti Mejor Que Yo",
+        "url": "https://open.spotify.com/album/1NsJ6u8jcjsyZi9igmkbqw"
       },
       "artists": [
         {
-          "name": "El Frizian",
-          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
-        },
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+          "name": "Conjunto Rienda Real",
+          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
         }
       ],
-      "duration_ms": 152776,
-      "name": "Borracho Enamorado",
-      "url": "https://open.spotify.com/track/6VcVBZ2b43kiDO6rQxmsYO"
+      "duration_ms": 172018,
+      "name": "Nadie Va A Pensar En Ti Mejor Que Yo",
+      "url": "https://open.spotify.com/track/30eHHpkjMNqb2F0V8nXjbJ"
     },
     {
       "added_at": "2023-08-08 19:12:40",
@@ -827,18 +823,22 @@
     {
       "added_at": "2023-08-08 19:12:40",
       "album": {
-        "name": "Nadie Va A Pensar En Ti Mejor Que Yo",
-        "url": "https://open.spotify.com/album/1NsJ6u8jcjsyZi9igmkbqw"
+        "name": "Borracho Enamorado",
+        "url": "https://open.spotify.com/album/0sr6urbaaWIMexVmk97TZK"
       },
       "artists": [
         {
-          "name": "Conjunto Rienda Real",
-          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
+          "name": "El Frizian",
+          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 172018,
-      "name": "Nadie Va A Pensar En Ti Mejor Que Yo",
-      "url": "https://open.spotify.com/track/30eHHpkjMNqb2F0V8nXjbJ"
+      "duration_ms": 152776,
+      "name": "Borracho Enamorado",
+      "url": "https://open.spotify.com/track/6VcVBZ2b43kiDO6rQxmsYO"
     },
     {
       "added_at": "2023-08-08 19:12:40",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-08-08 19:12:40",
       "album": {
+        "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 193816,
+      "name": "NO SE VA - EN VIVO",
+      "url": "https://open.spotify.com/track/0Y1lSCcxjfyyvmfgMJ1ukA"
+    },
+    {
+      "added_at": "2023-08-08 19:12:40",
+      "album": {
         "name": "Huapango Amor Ranchero",
         "url": "https://open.spotify.com/album/40EvvWuBGio70bkcFLk6Fl"
       },
@@ -1163,22 +1179,6 @@
     {
       "added_at": "2023-08-08 19:12:40",
       "album": {
-        "name": "Enloquecido",
-        "url": "https://open.spotify.com/album/7pm3bU5WKxGhRI5uyfOKuI"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 212915,
-      "name": "Enloquecido",
-      "url": "https://open.spotify.com/track/3T5F6ulZvDzBQwq3wS31xZ"
-    },
-    {
-      "added_at": "2023-08-08 19:12:40",
-      "album": {
         "name": "No Es Mentira (Version Norte\u00f1a)",
         "url": "https://open.spotify.com/album/35qR2ZIduAuMTDDw3KAB69"
       },
@@ -1191,6 +1191,22 @@
       "duration_ms": 200061,
       "name": "No Es Mentira (Version Norte\u00f1a)",
       "url": "https://open.spotify.com/track/0dWSN9JS8vAcnM8a6lxIrB"
+    },
+    {
+      "added_at": "2023-08-08 19:12:40",
+      "album": {
+        "name": "Enloquecido",
+        "url": "https://open.spotify.com/album/7pm3bU5WKxGhRI5uyfOKuI"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 212915,
+      "name": "Enloquecido",
+      "url": "https://open.spotify.com/track/3T5F6ulZvDzBQwq3wS31xZ"
     },
     {
       "added_at": "2023-08-08 19:12:40",
@@ -1223,22 +1239,6 @@
       "duration_ms": 187240,
       "name": "No",
       "url": "https://open.spotify.com/track/024hOV0LnkxDeI8fOtNwAw"
-    },
-    {
-      "added_at": "2023-08-08 19:12:40",
-      "album": {
-        "name": "El Comienzo",
-        "url": "https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 193816,
-      "name": "NO SE VA - EN VIVO",
-      "url": "https://open.spotify.com/track/0Y1lSCcxjfyyvmfgMJ1ukA"
     },
     {
       "added_at": "2023-08-08 19:12:40",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2023-08-08 19:12:40",
       "album": {
-        "name": "El Corrido De Everardo (En Vivo)",
-        "url": "https://open.spotify.com/album/2ckQ5uVNtddHHVofCnSPOv"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 211500,
-      "name": "El Corrido De Everardo - En Vivo",
-      "url": "https://open.spotify.com/track/3rKROLx067SgcAOrZzg2v1"
-    },
-    {
-      "added_at": "2023-08-08 19:12:40",
-      "album": {
         "name": "Culiac\u00e1n Deluxe (En Vivo)",
         "url": "https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 335634,
       "name": "Retropopurr\u00ed (Calles Enlodadas, Pase Y Pase, Dos Pajaritos) (En Vivo)",
       "url": "https://open.spotify.com/track/08NvjgDsn0n0gIFbT3W436"
+    },
+    {
+      "added_at": "2023-08-08 19:12:40",
+      "album": {
+        "name": "El Corrido De Everardo (En Vivo)",
+        "url": "https://open.spotify.com/album/2ckQ5uVNtddHHVofCnSPOv"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 211500,
+      "name": "El Corrido De Everardo - En Vivo",
+      "url": "https://open.spotify.com/track/3rKROLx067SgcAOrZzg2v1"
     },
     {
       "added_at": "2023-08-08 19:12:40",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-08-08 19:12:40",
       "album": {
-        "name": "TE QUIERO",
-        "url": "https://open.spotify.com/album/4JQx52nfJX5YfcEMTs1ceq"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        }
-      ],
-      "duration_ms": 153733,
-      "name": "TE QUIERO",
-      "url": "https://open.spotify.com/track/7r3xWBPAiFNZS7QVxXc3HJ"
-    },
-    {
-      "added_at": "2023-08-08 19:12:40",
-      "album": {
         "name": "Feliz Cumplea\u00f1os Ferxxo",
         "url": "https://open.spotify.com/album/7yyvOT1nCkOMoCAsr2Rid0"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 170266,
       "name": "Feliz Cumplea\u00f1os Ferxxo",
       "url": "https://open.spotify.com/track/0dyggYGK7keiyhNaxo1XLy"
+    },
+    {
+      "added_at": "2023-08-08 19:12:40",
+      "album": {
+        "name": "TE QUIERO",
+        "url": "https://open.spotify.com/album/4JQx52nfJX5YfcEMTs1ceq"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        }
+      ],
+      "duration_ms": 153733,
+      "name": "TE QUIERO",
+      "url": "https://open.spotify.com/track/7r3xWBPAiFNZS7QVxXc3HJ"
     },
     {
       "added_at": "2023-08-08 19:12:40",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-08-08 19:12:40",
       "album": {
-        "name": "Sin Restricciones",
-        "url": "https://open.spotify.com/album/3y8BGx724C7LyKk7qXlyqc"
-      },
-      "artists": [
-        {
-          "name": "La Zenda Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
-        }
-      ],
-      "duration_ms": 163019,
-      "name": "Sin Restricciones",
-      "url": "https://open.spotify.com/track/2ZpLsRQ91fK22gPhXGxx0A"
-    },
-    {
-      "added_at": "2023-08-08 19:12:40",
-      "album": {
         "name": "Hierba Mala Nunca Muere (M\u00fasica Original de la Serie el Se\u00f1or de los Cielos 8)",
         "url": "https://open.spotify.com/album/6gLvcZQeELJuG9Xsy30A6u"
       },
@@ -1695,18 +1679,18 @@
     {
       "added_at": "2023-08-08 19:12:40",
       "album": {
-        "name": "La Invitaci\u00f3n",
-        "url": "https://open.spotify.com/album/1twSxas0ZmG2bUfxEdskZK"
+        "name": "Sin Restricciones",
+        "url": "https://open.spotify.com/album/3y8BGx724C7LyKk7qXlyqc"
       },
       "artists": [
         {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
         }
       ],
-      "duration_ms": 193960,
-      "name": "La Invitaci\u00f3n",
-      "url": "https://open.spotify.com/track/6qUmkshVvCcBeonBiS4Vdz"
+      "duration_ms": 163019,
+      "name": "Sin Restricciones",
+      "url": "https://open.spotify.com/track/2ZpLsRQ91fK22gPhXGxx0A"
     },
     {
       "added_at": "2023-08-08 19:12:40",
@@ -1731,6 +1715,22 @@
     {
       "added_at": "2023-08-08 19:12:40",
       "album": {
+        "name": "La Invitaci\u00f3n",
+        "url": "https://open.spotify.com/album/1twSxas0ZmG2bUfxEdskZK"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 193960,
+      "name": "La Invitaci\u00f3n",
+      "url": "https://open.spotify.com/track/6qUmkshVvCcBeonBiS4Vdz"
+    },
+    {
+      "added_at": "2023-08-08 19:12:40",
+      "album": {
         "name": "Termino Con Lo Nuestro",
         "url": "https://open.spotify.com/album/7eGdxYcXh1DlmUV2hsDCk6"
       },
@@ -1743,38 +1743,6 @@
       "duration_ms": 217409,
       "name": "Termino Con Lo Nuestro",
       "url": "https://open.spotify.com/track/5bT0SVMNlrqJmG9QlBjxOw"
-    },
-    {
-      "added_at": "2023-08-08 19:12:40",
-      "album": {
-        "name": "No Estoy Da\u00f1ado",
-        "url": "https://open.spotify.com/album/05wpjEhLTNLTE0wFPj5nuj"
-      },
-      "artists": [
-        {
-          "name": "La Zenda Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
-        }
-      ],
-      "duration_ms": 176187,
-      "name": "No Estoy Da\u00f1ado",
-      "url": "https://open.spotify.com/track/6Q2P6QZtLvrWE63ggVqfDL"
-    },
-    {
-      "added_at": "2023-08-08 19:12:40",
-      "album": {
-        "name": "LA BATALLA",
-        "url": "https://open.spotify.com/album/5yT4FHuFhmsN7EZkL9xdcb"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        }
-      ],
-      "duration_ms": 185111,
-      "name": "LA BATALLA",
-      "url": "https://open.spotify.com/track/2f6kTXnPoc2xgl9gTvElJ0"
     },
     {
       "added_at": "2023-08-08 19:12:40",
@@ -1795,6 +1763,22 @@
     {
       "added_at": "2023-08-08 19:12:40",
       "album": {
+        "name": "LA BATALLA",
+        "url": "https://open.spotify.com/album/5yT4FHuFhmsN7EZkL9xdcb"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        }
+      ],
+      "duration_ms": 185111,
+      "name": "LA BATALLA",
+      "url": "https://open.spotify.com/track/2f6kTXnPoc2xgl9gTvElJ0"
+    },
+    {
+      "added_at": "2023-08-08 19:12:40",
+      "album": {
         "name": "Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/7pjWprusHoAZTaeVORXMS1"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 238779,
       "name": "Que Te Vaya Bien",
       "url": "https://open.spotify.com/track/1EKGXIvGSPOHRt2wJdMzVN"
+    },
+    {
+      "added_at": "2023-08-08 19:12:40",
+      "album": {
+        "name": "Espejito, Espejito",
+        "url": "https://open.spotify.com/album/6TAv5J6D66aqU1bUTImcpE"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "duration_ms": 160920,
+      "name": "Espejito, Espejito",
+      "url": "https://open.spotify.com/track/2EwUNErhoTaJ2cKklOgok3"
     },
     {
       "added_at": "2023-08-08 19:12:40",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2023-08-08 19:12:40",
       "album": {
-        "name": "Espejito, Espejito",
-        "url": "https://open.spotify.com/album/6TAv5J6D66aqU1bUTImcpE"
-      },
-      "artists": [
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        }
-      ],
-      "duration_ms": 160920,
-      "name": "Espejito, Espejito",
-      "url": "https://open.spotify.com/track/2EwUNErhoTaJ2cKklOgok3"
-    },
-    {
-      "added_at": "2023-08-08 19:12:40",
-      "album": {
         "name": "La Receta Del Corrido",
         "url": "https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 163040,
       "name": "Los Pasajes Del Sera",
       "url": "https://open.spotify.com/track/7fVZVKzWzM7G1Q5jBiMyE5"
+    },
+    {
+      "added_at": "2023-08-08 19:12:40",
+      "album": {
+        "name": "No Estoy Da\u00f1ado",
+        "url": "https://open.spotify.com/album/05wpjEhLTNLTE0wFPj5nuj"
+      },
+      "artists": [
+        {
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+        }
+      ],
+      "duration_ms": 176187,
+      "name": "No Estoy Da\u00f1ado",
+      "url": "https://open.spotify.com/track/6Q2P6QZtLvrWE63ggVqfDL"
     },
     {
       "added_at": "2023-08-08 19:12:40",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2023-08-08 19:12:40",
       "album": {
-        "name": "El Pap\u00e1 De Los Pitufos",
-        "url": "https://open.spotify.com/album/4tCX1DeFaQHlEMKTvPH6D9"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 149946,
-      "name": "El Pap\u00e1 De Los Pitufos",
-      "url": "https://open.spotify.com/track/15gZrMqODqLIm2SPegEHRU"
-    },
-    {
-      "added_at": "2023-08-08 19:12:40",
-      "album": {
         "name": "Yo Seguir\u00e9",
         "url": "https://open.spotify.com/album/2Kgdp5hOSOKuk7X1K1yytR"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 253116,
       "name": "Yo Seguir\u00e9",
       "url": "https://open.spotify.com/track/0wCmsxdleZ6Bx1wnbASzPT"
+    },
+    {
+      "added_at": "2023-08-08 19:12:40",
+      "album": {
+        "name": "El Pap\u00e1 De Los Pitufos",
+        "url": "https://open.spotify.com/album/4tCX1DeFaQHlEMKTvPH6D9"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 149946,
+      "name": "El Pap\u00e1 De Los Pitufos",
+      "url": "https://open.spotify.com/track/15gZrMqODqLIm2SPegEHRU"
     },
     {
       "added_at": "2023-08-08 19:12:40",
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2023-08-08 19:12:40",
       "album": {
-        "name": "Lo Mejor De",
-        "url": "https://open.spotify.com/album/4HzwFCe7YSXPPgjCmQfleP"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Oro",
-          "url": "https://open.spotify.com/artist/5q6hPtWmFpje38EmPPlqHs"
-        }
-      ],
-      "duration_ms": 212140,
-      "name": "Vete a Buscar Aquel",
-      "url": "https://open.spotify.com/track/5aN7yH7kjfOXCC8yLEHKhm"
-    },
-    {
-      "added_at": "2023-08-08 19:12:40",
-      "album": {
         "name": "Mi Persona Favorita",
         "url": "https://open.spotify.com/album/4pF5NjEqkWXMPSbhNZWuPZ"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 169993,
       "name": "Mi Persona Favorita",
       "url": "https://open.spotify.com/track/0SxuYEU9W9gmiQfSacWg7X"
+    },
+    {
+      "added_at": "2023-08-08 19:12:40",
+      "album": {
+        "name": "Lo Mejor De",
+        "url": "https://open.spotify.com/album/4HzwFCe7YSXPPgjCmQfleP"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Oro",
+          "url": "https://open.spotify.com/artist/5q6hPtWmFpje38EmPPlqHs"
+        }
+      ],
+      "duration_ms": 212140,
+      "name": "Vete a Buscar Aquel",
+      "url": "https://open.spotify.com/track/5aN7yH7kjfOXCC8yLEHKhm"
     },
     {
       "added_at": "2023-08-08 19:12:40",
@@ -2127,6 +2127,22 @@
     {
       "added_at": "2023-08-08 19:12:40",
       "album": {
+        "name": "Borrachera Con los Honorables (En Vivo)",
+        "url": "https://open.spotify.com/album/5Js6rpaXDIBbdJA5Xn8AYd"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 188429,
+      "name": "La Boda del Huitlacoche - En Vivo",
+      "url": "https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs"
+    },
+    {
+      "added_at": "2023-08-08 19:12:40",
+      "album": {
         "name": "El Ayer Pas\u00f3",
         "url": "https://open.spotify.com/album/1FPgC4jiuKIiy9ZqJgBZro"
       },
@@ -2159,22 +2175,6 @@
     {
       "added_at": "2023-08-08 19:12:40",
       "album": {
-        "name": "EL INFIERNO",
-        "url": "https://open.spotify.com/album/5zM5b1Ha8HwK6w5xRO4DFf"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        }
-      ],
-      "duration_ms": 217066,
-      "name": "EL INFIERNO",
-      "url": "https://open.spotify.com/track/2DhbJTNWJ4ChxnMEcY0WAq"
-    },
-    {
-      "added_at": "2023-08-08 19:12:40",
-      "album": {
         "name": "No Me Hablen de Amor",
         "url": "https://open.spotify.com/album/05ef9VbIUj8OwNCZSbW8At"
       },
@@ -2195,22 +2195,18 @@
     {
       "added_at": "2023-08-08 19:12:40",
       "album": {
-        "name": "Eres Libre",
-        "url": "https://open.spotify.com/album/76KzDILvX2jA1gSgeeBRnF"
+        "name": "EL INFIERNO",
+        "url": "https://open.spotify.com/album/5zM5b1Ha8HwK6w5xRO4DFf"
       },
       "artists": [
         {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        },
-        {
-          "name": "Grupo Los de Chiwas",
-          "url": "https://open.spotify.com/artist/55UyMd1aJojv9xFEg5cLbR"
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
         }
       ],
-      "duration_ms": 171272,
-      "name": "Eres Libre",
-      "url": "https://open.spotify.com/track/4XaoxWelcmesrOxj8JZOp1"
+      "duration_ms": 217066,
+      "name": "EL INFIERNO",
+      "url": "https://open.spotify.com/track/2DhbJTNWJ4ChxnMEcY0WAq"
     }
   ],
   "unique_name": "Norte\u00f1o 2023",

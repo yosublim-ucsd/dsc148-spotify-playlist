@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Eelke Kleijn
 
-[Spotify](https://open.spotify.com/user/spotify) - 605,419 likes - 89 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 605,614 likes - 89 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 26 | [So Cold](https://open.spotify.com/track/478kvOP37KUNyqRoqy2VEq) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw), [Steand](https://open.spotify.com/artist/2lX40grYVkSFaWX6vWOquI) | [So Cold](https://open.spotify.com/album/4qXOKKdnz5H8EWtLNoThaW) | 3:10 |
 | 27 | [Orbit \- Radio Mix](https://open.spotify.com/track/2DcYimY0tMvZ0hcPtCuw6q) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Branka](https://open.spotify.com/album/3KssGSJxtkbJPUSzy5BbuI) | 3:31 |
 | 28 | [The Ones Above](https://open.spotify.com/track/0o58Mv1QbieAFZ6fcK0K2E) | [Solatic](https://open.spotify.com/artist/61Lu3t06G6EPp61PovXqfm) | [The Ones Above](https://open.spotify.com/album/3e3H8uTya8pSmWItULUmHX) | 7:09 |
-| 29 | [High Dose, No Sleep](https://open.spotify.com/track/6rje1LS6Etoi9mj4UImRsm) | [Andy's Echo](https://open.spotify.com/artist/7AsYa6HcbppsUd6qcYwJew) | [High Dose, No Sleep](https://open.spotify.com/album/7xuuZd255y5z3dAseOZouy) | 7:13 |
+| 29 | [High Dose, No Sleep](https://open.spotify.com/track/3CuCjJQUs92X43QqJhTRub) | [Andy's Echo](https://open.spotify.com/artist/7AsYa6HcbppsUd6qcYwJew) | [High Dose, No Sleep](https://open.spotify.com/album/11VLN5dwP0L8iiX7cu164l) | 7:13 |
 | 30 | [Reminiscent \- HANA Remix](https://open.spotify.com/track/52XOoMMcI3w8xDC0m0j7vW) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [Endless \(Remixed\)](https://open.spotify.com/album/1SDGN8jj5GFx8x9Mqstjjy) | 3:58 |
 | 31 | [Glade](https://open.spotify.com/track/3XVYjhEpqYtWyMvIzCmbIr) | [Cella](https://open.spotify.com/artist/3w7ASanLoAsQcWhd7V9DpJ) | [Glade](https://open.spotify.com/album/7vny3evrD6vE514eBgnnDQ) | 3:01 |
 | 32 | [OPEN YOUR MIND](https://open.spotify.com/track/6zQ2emOrf68vYJiaQxwJNV) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [CRESCENDO](https://open.spotify.com/album/2WAxjTUkv403ujorGiYcOE) | 3:25 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 88 | [2 People](https://open.spotify.com/track/12rtAkfauBC8ISjCYraZgJ) | [Till Von Sein](https://open.spotify.com/artist/5gRHhAWRxjeshuTGcFfEkI) | [2 People](https://open.spotify.com/album/0rHEIqRbetXkYq4D3BTcMv) | 6:14 |
 | 89 | [Fan Bass](https://open.spotify.com/track/1YQi7jqgNeGChvXR3igaXM) | [Tayga](https://open.spotify.com/artist/0i3of4V0ZgVxBGGTGjAqYS) | [Fan Bass](https://open.spotify.com/album/4KLjGoeJlz5z2LyVx1N85E) | 4:09 |
 
-Snapshot ID: `MCw0MGVkNDU5YmY1NDBkMDg5MjA2YzFmMTM0M2Y4ZDA2OTg0MThiMzcz`
+Snapshot ID: `MCwxY2EyNTk1ZGJmNGM0YmI1ZGNkZThkYTJmMDAwMjgxMWZiMzQ1Mjhl`

@@ -4,7 +4,7 @@
 
 > أفضل الأغاني المصرية من قلب مصر إلى العالم🔥🔝\. الغلاف:<a href="https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk?si=1zeHUrwPSTui0vbKualgog"> حمزه نمره </a>
 
-213 songs - 12 hr 24 min
+214 songs - 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,8 @@
 | [MESAMA3EEN](https://open.spotify.com/track/6gg53gW5wlz0jSQmOcqIfY) | [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX), [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI) | [MESAMA3EEN \(Deluxe\)](https://open.spotify.com/album/0F05Bs9oMtCyuAd22o4xKQ) | 3:00 | 2023-01-19 | 2023-05-31 |
 | [Mesh Nadman](https://open.spotify.com/track/3g4p8OgtpxHpEHzEjnRo6J) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Mesh Nadman](https://open.spotify.com/album/5UzHxBDzrASY4c8xUXBbzy) | 2:55 | 2022-04-13 | 2022-12-27 |
 | [Mesytara](https://open.spotify.com/track/7H2uwSkd2mhRKyTOPRDE2L) | [Lamis Kan](https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj) | [Mesytara](https://open.spotify.com/album/26hT0T2WvH4PhIxTLrNnSw) | 2:48 | 2022-08-17 | 2022-10-11 |
-| [Metkatef](https://open.spotify.com/track/7GuwZJyYf09i7Gkg2SXFhD) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Metkatef](https://open.spotify.com/album/3GhZv3MkDK0QYVmVzikjMp) | 3:27 | 2023-07-10 |  |
+| [Metkatef](https://open.spotify.com/track/3YJvA5FwsJdP6jytpPkvFp) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Metkatef](https://open.spotify.com/album/2FuBitU6GXqchhRGmEr6Fa) | 3:27 | 2023-08-08 |  |
+| [Metkatef](https://open.spotify.com/track/7GuwZJyYf09i7Gkg2SXFhD) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Metkatef](https://open.spotify.com/album/3GhZv3MkDK0QYVmVzikjMp) | 3:27 | 2023-07-10 | 2023-08-10 |
 | [Min Awel Dekika](https://open.spotify.com/track/46Q0bzrsZyD2dzZCuLq5R2) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR), [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY) | [Min Awel Dekika](https://open.spotify.com/album/7zDngZE0h5FSTaPm9yhxto) | 4:32 | 2022-05-13 | 2023-01-25 |
 | [Namet Nenna](https://open.spotify.com/track/7pu5c7XiIjyxnbohUJQ0b0) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Namet Nenna](https://open.spotify.com/album/1pWX63oQEUEctHaDU4som3) | 3:21 | 2022-06-28 | 2023-02-14 |
 | [Nazlet Seman](https://open.spotify.com/track/3kvFynFheCVVecaJLKketl) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Awdet El Ebn El Dal](https://open.spotify.com/album/6LF5pyZ6adBuv0jdmgtBwb) | 2:48 | 2023-05-05 | 2023-07-06 |

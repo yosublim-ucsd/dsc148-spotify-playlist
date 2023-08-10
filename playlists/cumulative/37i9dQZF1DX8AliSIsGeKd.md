@@ -4,7 +4,7 @@
 
 > The best new electronic music from Electronica to Techno\. Cover: Eelke Kleijn
 
-2,237 songs - 8 day 8 hr 35 min
+2,238 songs - 8 day 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -872,7 +872,8 @@
 | [Hide](https://open.spotify.com/track/0I8H8HcTJ40dfc0IyYp65F) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Anywhere With You EP](https://open.spotify.com/album/5So0sPYfpNBhyNpvQOjnVi) | 2:46 | 2022-08-04 | 2022-08-19 |
 | [Hide \- Oliver Deutschmann Remix](https://open.spotify.com/track/580c85zK4JmrmYwSII6wiU) | [KIDSØ](https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr), [Oliver Deutschmann](https://open.spotify.com/artist/189aZgqac0fpuq6i8gcTrM) | [Hide \(Oliver Deutschmann Remix\)](https://open.spotify.com/album/0DRm1afATuTfixAqLjNUzn) | 5:44 | 2022-05-20 | 2022-06-03 |
 | [HIGH](https://open.spotify.com/track/7cf2bjFCk73V3WNdnb7dmL) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [HIGH](https://open.spotify.com/album/3tBXAv3cZpJ7lGFQtZiQua) | 3:25 | 2023-02-02 | 2023-02-17 |
-| [High Dose, No Sleep](https://open.spotify.com/track/6rje1LS6Etoi9mj4UImRsm) | [Andy's Echo](https://open.spotify.com/artist/7AsYa6HcbppsUd6qcYwJew) | [High Dose, No Sleep](https://open.spotify.com/album/7xuuZd255y5z3dAseOZouy) | 7:13 | 2023-07-27 |  |
+| [High Dose, No Sleep](https://open.spotify.com/track/3CuCjJQUs92X43QqJhTRub) | [Andy's Echo](https://open.spotify.com/artist/7AsYa6HcbppsUd6qcYwJew) | [High Dose, No Sleep](https://open.spotify.com/album/11VLN5dwP0L8iiX7cu164l) | 7:13 | 2023-08-03 |  |
+| [High Dose, No Sleep](https://open.spotify.com/track/6rje1LS6Etoi9mj4UImRsm) | [Andy's Echo](https://open.spotify.com/artist/7AsYa6HcbppsUd6qcYwJew) | [High Dose, No Sleep](https://open.spotify.com/album/7xuuZd255y5z3dAseOZouy) | 7:13 | 2023-07-27 | 2023-08-10 |
 | [High Street \- Edit](https://open.spotify.com/track/6JYWF4EtFjhwpo4rtRBlTF) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [High Street](https://open.spotify.com/album/1DrCbrC5FRwKaflQW3nhIU) | 4:33 | 2023-04-20 | 2023-05-12 |
 | [High Voltage \- Alex Stein Remix](https://open.spotify.com/track/0YrYceugWIFjMvl9iKEffE) | [Tomas Otero](https://open.spotify.com/artist/0W82YncGEFtIHzKnUKe9Ue), [Alex Stein](https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB) | [High Voltage \(Alex Stein Remix\)](https://open.spotify.com/album/77Sa8vRVAohisGiJxjPM5x) | 4:51 | 2022-12-01 | 2022-12-16 |
 | [Higher](https://open.spotify.com/track/2pW8MxDV77hQvyxjL3tgKi) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [The Remixes](https://open.spotify.com/album/0SI7sJIrvhZtGbUo97t0aX) | 3:36 | 2023-07-20 |  |

@@ -4,7 +4,7 @@
 
 > el nombre lo dice todo.
 
-184 songs - 11 hr 5 min
+185 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Emeycé](https://open.spotify.com/track/6P7Baz3uteblV2zklm39BC) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Emeycé](https://open.spotify.com/album/1l8YtHOLFpLCEmfOpqQXal) | 2:56 | 2023-05-12 |  |
 | [En Cero](https://open.spotify.com/track/51uLQESb4VnYAbs5WtGxho) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [En Cero](https://open.spotify.com/album/6g2Cu0rMNRxTkRovhkGgcq) | 3:43 | 2022-03-22 | 2022-05-13 |
 | [Esclavo de Tus Besos](https://open.spotify.com/track/3g4UyIcQwutiG0TfW32GnX) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Esclavo de Tus Besos](https://open.spotify.com/album/6NzT9eDEkJvnbL2gLcT6ai) | 3:39 | 2023-05-12 |  |
-| [Esperándote](https://open.spotify.com/track/1nfyE13arjOuO54HH0zmqj) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Esperándote](https://open.spotify.com/album/1PEgEtk3DMrUxG6Mkco3Zg) | 3:19 | 2022-03-22 |  |
+| [Esperándote](https://open.spotify.com/track/1nfyE13arjOuO54HH0zmqj) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Esperándote](https://open.spotify.com/album/1PEgEtk3DMrUxG6Mkco3Zg) | 3:19 | 2022-03-22 | 2023-08-10 |
 | [Falta](https://open.spotify.com/track/6lOrOSBGBDZXIQALvs8igt) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d), [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [Falta](https://open.spotify.com/album/6fViyRMZpRfXu93igpXDUc) | 3:10 | 2022-03-22 | 2022-05-13 |
 | [Feliz de Mentira](https://open.spotify.com/track/5Yxlmh4fmu16ivEabEbD9l) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 3:11 | 2022-03-22 | 2022-05-13 |
 | [Ferxxo 100](https://open.spotify.com/track/6ipzb1kHhWIxp1tS0vwqPl) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Ferxxo 100](https://open.spotify.com/album/1qI0hQjYttNGAFzXR4Pu3H) | 2:47 | 2022-07-01 |  |
@@ -167,6 +167,7 @@
 | [Te Extraño](https://open.spotify.com/track/2Jm6Vb7FsOuzg8NVZsNik8) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Te Extraño](https://open.spotify.com/album/1zY8Vg48fVFebEsLarexDO) | 3:49 | 2022-03-22 | 2023-05-13 |
 | [te kiero ver](https://open.spotify.com/track/6K1l7zkN6jFOxsAEgiW8wV) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [te kiero ver](https://open.spotify.com/album/3Rq86WgPd26s4M9xTzieGg) | 2:27 | 2023-04-04 | 2023-05-13 |
 | [TE MATA](https://open.spotify.com/track/3eFL5cxO22TpyjK3wNb27q) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [INTER SHIBUYA \- LA MAFIA](https://open.spotify.com/album/4hUQ4FB9GD5oDmw3XHIr0G) | 1:53 | 2023-04-04 | 2023-06-27 |
+| [Te Necesito](https://open.spotify.com/track/1iYCHzSdZPPoyWuRAJET0l) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Te Necesito](https://open.spotify.com/album/0aTJrqOxUoEpXr4EEyX9Tx) | 3:17 | 2023-08-04 |  |
 | [Te Necesito](https://open.spotify.com/track/74UFJflGMdA46TltO7XPSB) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Te Necesito](https://open.spotify.com/album/6qacH4ed0StQX243TgQITF) | 3:17 | 2022-03-22 | 2023-07-22 |
 | [Te Pienso](https://open.spotify.com/track/2snbAel9GoxA6i6iH0Wvw9) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 2:27 | 2023-04-04 | 2023-04-26 |
 | [TENGO FE](https://open.spotify.com/track/0uLmfXydlSdAJusUjZ02oj) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [TENGO FE](https://open.spotify.com/album/6UPvSRGmjYtS836FC9Nf78) | 2:26 | 2022-03-22 | 2023-04-04 |

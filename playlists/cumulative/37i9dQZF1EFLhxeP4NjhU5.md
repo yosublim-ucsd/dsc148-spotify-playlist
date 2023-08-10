@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48szR2kmia8PcpVpxqI2o1">Gaby Music</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-182 songs - 10 hr 23 min
+183 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Loco Enamorado](https://open.spotify.com/track/0ftNNfxBAJJeN0E7iq27fZ) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Christian Daniel](https://open.spotify.com/artist/2fC8dVxeS2bsfIDvFj1M4V) | [A Cámara Lenta](https://open.spotify.com/album/6m8uWpqYf0g6DnIWw7nu4l) | 4:12 | 2022-06-04 |  |
 | [LOKITA](https://open.spotify.com/track/48mGOtVuxLr7sq8jZpWLxi) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LOKITA](https://open.spotify.com/album/2C5FraiTW9fYi3WQOQytTC) | 3:13 | 2022-10-28 |  |
 | [Los De Siempre](https://open.spotify.com/track/5IsTVBbwSjU38VqJbZNokS) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm) | [Los De Siempre](https://open.spotify.com/album/4PIRLjzQkVZNsb2ZEeIwPQ) | 3:25 | 2022-06-04 |  |
+| [Los Que Son](https://open.spotify.com/track/0drasydwJPcgoLLDXFSMs6) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Los Que Son](https://open.spotify.com/album/15gBPq4jfgreZB7CqnIj0n) | 3:15 | 2023-08-09 |  |
 | [Luna \- \(Remix\)](https://open.spotify.com/track/1thHX5yotz3YQD9IHhv4cG) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Luna \(Remix\)](https://open.spotify.com/album/5wlAC1Tv7ZgriwNX3Zbljg) | 4:02 | 2022-11-24 |  |
 | [Luna \- Remix](https://open.spotify.com/track/5WlEWvMF659xiJir32WFlv) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Luna \(Remix\)](https://open.spotify.com/album/1JDonkuIuFcrSIPGJ9x0aW) | 4:01 | 2022-06-04 | 2022-11-25 |
 | [Luz Apaga](https://open.spotify.com/track/5Q3e16qE1RE5oilN3ukasm) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Luz Apaga](https://open.spotify.com/album/4Xk6SrGHC6vSevAkyTZiLh) | 4:05 | 2022-06-04 |  |

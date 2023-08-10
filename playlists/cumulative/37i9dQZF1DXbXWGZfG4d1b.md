@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-479 songs - 1 day 4 hr 24 min
+480 songs - 1 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,7 +297,7 @@
 | [Moto](https://open.spotify.com/track/1AeMG2TNofR1A8xoJ7Nl5O) | [Las Preguntas](https://open.spotify.com/artist/7sFSNryNgWCJTI1Vao95LP), [Dani Umpi](https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI) | [Estrellas, Piernas y Serpientes](https://open.spotify.com/album/4ji5kipvo6MkhrjVAdboZl) | 3:27 | 2023-07-07 |  |
 | [Multiverso](https://open.spotify.com/track/6fPmHiU0CXGbk2JfljoAe6) | [Portobel](https://open.spotify.com/artist/4D4LYABcCVmUcodiy86goS), [Alfonso El Pintor](https://open.spotify.com/artist/1wGhNVSFMYSNhp0tsvzauZ) | [Preludio](https://open.spotify.com/album/0rKDiwLNpdoJGUAolXyuYU) | 4:21 | 2022-06-03 | 2022-07-27 |
 | [My Way](https://open.spotify.com/track/3UayvXfu3vC36Kzea4uxhT) | [Vera Nois](https://open.spotify.com/artist/2PfumsJv10WNf48i5L6ncG) | [Musicaland](https://open.spotify.com/album/4qD8Iomhwn77qqlhpXlBwD) | 3:35 | 2022-11-11 | 2022-12-06 |
-| [Mágica Intuición](https://open.spotify.com/track/0LyxlEukWhwdDyMuHdAsY8) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Mágica Intuición](https://open.spotify.com/album/667lQQJCy9qQfB5pGI2bYE) | 3:10 | 2023-03-17 |  |
+| [Mágica Intuición](https://open.spotify.com/track/0LyxlEukWhwdDyMuHdAsY8) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Mágica Intuición](https://open.spotify.com/album/667lQQJCy9qQfB5pGI2bYE) | 3:10 | 2023-03-17 | 2023-08-10 |
 | [Máquina del Tiempo](https://open.spotify.com/track/15Y7Dc86Wj6jMnwnuyza7j) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [La Danza de los Principiantes](https://open.spotify.com/album/0609boj0n6y9QvmgeNcUzr) | 4:23 | 2022-06-03 | 2022-07-29 |
 | [Máquina del Tiempo](https://open.spotify.com/track/4WSXSCey336mwrz9e9qt1E) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [La Danza de los Principiantes](https://open.spotify.com/album/1X4eZWyp8zYdzdK1W2aPN1) | 4:23 | 2022-07-15 |  |
 | [Más o Menos Bien](https://open.spotify.com/track/3qItYNPhAFxQp4QLN1pikP) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Dinastía Scorpio](https://open.spotify.com/album/33szFJNdxgVGQa518rOohL) | 4:13 | 2022-06-03 | 2022-07-29 |
@@ -320,6 +320,7 @@
 | [No Pudiste Verlo](https://open.spotify.com/track/5MqdBOl6tcQuoOCj1fSnGh) | [Camperas](https://open.spotify.com/artist/1NfBsale6A7iXgBf0Ig58w) | [Todo Desliza](https://open.spotify.com/album/4CrOToTHThyWV5nrx3bR1e) | 2:09 | 2022-07-15 | 2022-07-28 |
 | [no sé quién soy](https://open.spotify.com/track/6BUWGhSxHTbOb5lv81O41n) | [K4](https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU) | [no sé quién soy](https://open.spotify.com/album/6bDXLYFW8ZzmYBgAdsJIVw) | 2:08 | 2022-09-09 | 2023-06-17 |
 | [No Ves Tal Vez \- Evlay Remix](https://open.spotify.com/track/6u9UrHLwwM51a69QUN9xcF) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ), [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [No Ves Tal Vez \(Evlay Remix\)](https://open.spotify.com/album/0GHjBHc8ZxFE22P9YATmku) | 5:13 | 2023-03-17 | 2023-08-05 |
+| [Nota De Voz](https://open.spotify.com/track/07u8rikTmiY64DkJh1WAv9) | [Los Hermanos Laser](https://open.spotify.com/artist/1G3t1G8HB4X8DIAaix8JaX) | [Nota De Voz](https://open.spotify.com/album/4NaeVyU5avNma2tUY41P8s) | 2:50 | 2023-08-04 |  |
 | [NT al sol](https://open.spotify.com/track/7maIZJiVUL5HBOzjFqOwp0) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31), [Paul Higgs](https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V), [El Mundo Limon](https://open.spotify.com/artist/6ewUKYDx23YcomTOQdDvTB) | [NT al sol](https://open.spotify.com/album/1iI0hU3oBxRKRGs6lprkse) | 3:22 | 2023-03-31 |  |
 | [Nube](https://open.spotify.com/track/0ptdCEFJjqE7hJJrUVz29z) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Como Antes](https://open.spotify.com/album/56qAd8JFUBjW7gdAEQinHT) | 1:10 | 2022-07-15 | 2023-03-03 |
 | [Nube](https://open.spotify.com/track/6016U5kfHuP9AEktlYZfzr) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Como Antes](https://open.spotify.com/album/1pPs1H9wM7IgDpadTkI5dQ) | 1:10 | 2022-07-01 | 2022-07-25 |

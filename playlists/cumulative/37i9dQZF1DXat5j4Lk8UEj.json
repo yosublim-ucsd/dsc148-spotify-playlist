@@ -2330,6 +2330,24 @@
     {
       "album": {
         "name": "My Morning Jacket",
+        "url": "https://open.spotify.com/album/3KKJu9Fa8rKsY7UlfxecRR"
+      },
+      "artists": [
+        {
+          "name": "My Morning Jacket",
+          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222093,
+      "name": "Love Love Love",
+      "url": "https://open.spotify.com/track/01eqfDvkAeItZ8NJNc6f6v"
+    },
+    {
+      "album": {
+        "name": "My Morning Jacket",
         "url": "https://open.spotify.com/album/22cyxRwzn0PuQifvqZVIYl"
       },
       "artists": [
@@ -3958,7 +3976,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 229026,
       "name": "The Storm",
       "url": "https://open.spotify.com/track/0HpS7acFdLHmLc1IFk1cTY"

@@ -1,12 +1,12 @@
 {
   "description": "Dance all night to the best songs ever!",
-  "num_followers": 2620960,
+  "num_followers": 2621351,
   "original_name": "This Is One Direction",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWU3YzM5NDYzNzllZWNlMmZiNjM1NjM3MjI4NTA5N2ZjNTJmMTJj",
+  "snapshot_id": "MCxiYzMyYWNhYTUwMWU3MDc4NDFjMjg1NzBlNmQ3OGI5ODgxOGIzYjFh",
   "tracks": [
     {
       "added_at": "2023-02-14 16:28:06",
@@ -23,6 +23,22 @@
       "duration_ms": 228133,
       "name": "Steal My Girl",
       "url": "https://open.spotify.com/track/2Bs4jQEGMycglOfWPBqrVG"
+    },
+    {
+      "added_at": "2023-02-14 16:28:06",
+      "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/6cunQQ7YZisYOoiFu2ywIq"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 199986,
+      "name": "What Makes You Beautiful",
+      "url": "https://open.spotify.com/track/4cluDES4hQEUhmXj6TXkSo"
     },
     {
       "added_at": "2023-02-14 16:28:06",

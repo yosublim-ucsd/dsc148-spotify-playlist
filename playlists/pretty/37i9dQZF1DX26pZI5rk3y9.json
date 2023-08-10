@@ -1,12 +1,12 @@
 {
   "description": "Stomping Blues Rock for cooking and eating with friends. ",
-  "num_followers": 6044,
+  "num_followers": 6045,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzc4MWIwZTc0OGYxNWY0NDBkMTU5YmNkNzk0ZTJiOWQ5ZTFkNTA4",
+  "snapshot_id": "MCw2ZjhmYTUxZTVhMmVmZDNjZTEyYzYxMWJmNTc4NTJkMmFlOTg5Zjgy",
   "tracks": [
     {
       "added_at": "2023-08-04 12:26:54",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-08-04 12:26:54",
       "album": {
-        "name": "Dirt Woman Blues",
-        "url": "https://open.spotify.com/album/3pEr5QdlF89ufMoOHASyum"
-      },
-      "artists": [
-        {
-          "name": "Gr\u00e1inne Duffy",
-          "url": "https://open.spotify.com/artist/6Uz1iG3enjltFOqqwAhQ2Y"
-        }
-      ],
-      "duration_ms": 247319,
-      "name": "Well Well Well",
-      "url": "https://open.spotify.com/track/7K89YBfukxKcrm4hOVKQpk"
-    },
-    {
-      "added_at": "2023-08-04 12:26:54",
-      "album": {
         "name": "Sneakin' Around",
         "url": "https://open.spotify.com/album/0q55zTFXDDIiyjipipXE5T"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 220869,
       "name": "Sneakin\u2019 Around",
       "url": "https://open.spotify.com/track/57vWrMA0mvme9Ko0jrvEDH"
+    },
+    {
+      "added_at": "2023-08-04 12:26:54",
+      "album": {
+        "name": "Dirt Woman Blues",
+        "url": "https://open.spotify.com/album/3pEr5QdlF89ufMoOHASyum"
+      },
+      "artists": [
+        {
+          "name": "Gr\u00e1inne Duffy",
+          "url": "https://open.spotify.com/artist/6Uz1iG3enjltFOqqwAhQ2Y"
+        }
+      ],
+      "duration_ms": 247319,
+      "name": "Well Well Well",
+      "url": "https://open.spotify.com/track/7K89YBfukxKcrm4hOVKQpk"
     },
     {
       "added_at": "2023-08-04 12:26:54",
@@ -487,22 +487,18 @@
     {
       "added_at": "2023-08-04 12:26:54",
       "album": {
-        "name": "Eric (Long Live The King)",
-        "url": "https://open.spotify.com/album/6TQ4ttvwKNN3L7jiL6nF5h"
+        "name": "Wild Flying Dove",
+        "url": "https://open.spotify.com/album/7CbEruTsoJilsvpQjqoqCI"
       },
       "artists": [
         {
-          "name": "Jack Biilmann",
-          "url": "https://open.spotify.com/artist/0VGhTaOPNUJgUfX7rOmzMX"
-        },
-        {
-          "name": "The Black Tide",
-          "url": "https://open.spotify.com/artist/1NiVVZq6AKDksPwDpeNbwk"
+          "name": "Ida Mae",
+          "url": "https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK"
         }
       ],
-      "duration_ms": 204666,
-      "name": "Eric (Long Live The King)",
-      "url": "https://open.spotify.com/track/4vLWMtNuVkaR3oph9zN8za"
+      "duration_ms": 361005,
+      "name": "Wild Flying Dove",
+      "url": "https://open.spotify.com/track/3mmISWDyxShlW9qizsyIKP"
     },
     {
       "added_at": "2023-08-04 12:26:54",
@@ -523,18 +519,22 @@
     {
       "added_at": "2023-08-04 12:26:54",
       "album": {
-        "name": "Wild Flying Dove",
-        "url": "https://open.spotify.com/album/7CbEruTsoJilsvpQjqoqCI"
+        "name": "Eric (Long Live The King)",
+        "url": "https://open.spotify.com/album/6TQ4ttvwKNN3L7jiL6nF5h"
       },
       "artists": [
         {
-          "name": "Ida Mae",
-          "url": "https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK"
+          "name": "Jack Biilmann",
+          "url": "https://open.spotify.com/artist/0VGhTaOPNUJgUfX7rOmzMX"
+        },
+        {
+          "name": "The Black Tide",
+          "url": "https://open.spotify.com/artist/1NiVVZq6AKDksPwDpeNbwk"
         }
       ],
-      "duration_ms": 361005,
-      "name": "Wild Flying Dove",
-      "url": "https://open.spotify.com/track/3mmISWDyxShlW9qizsyIKP"
+      "duration_ms": 204666,
+      "name": "Eric (Long Live The King)",
+      "url": "https://open.spotify.com/track/4vLWMtNuVkaR3oph9zN8za"
     },
     {
       "added_at": "2023-08-04 12:26:54",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-08-04 12:26:54",
       "album": {
-        "name": "Ain't Giving Up",
-        "url": "https://open.spotify.com/album/7if1zXFGoL0maOFlWKX6yE"
-      },
-      "artists": [
-        {
-          "name": "Chris Duarte",
-          "url": "https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN"
-        }
-      ],
-      "duration_ms": 248555,
-      "name": "Can Opener",
-      "url": "https://open.spotify.com/track/0g9eLW4RaSBuAJU0XtA6nc"
-    },
-    {
-      "added_at": "2023-08-04 12:26:54",
-      "album": {
         "name": "Buffalo Road",
         "url": "https://open.spotify.com/album/29p1rFGBhwEVQf5BYS0heD"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 178893,
       "name": "Buffalo Road",
       "url": "https://open.spotify.com/track/6iSopPflVbtSJjLRCmksfl"
+    },
+    {
+      "added_at": "2023-08-04 12:26:54",
+      "album": {
+        "name": "Ain't Giving Up",
+        "url": "https://open.spotify.com/album/7if1zXFGoL0maOFlWKX6yE"
+      },
+      "artists": [
+        {
+          "name": "Chris Duarte",
+          "url": "https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN"
+        }
+      ],
+      "duration_ms": 248555,
+      "name": "Can Opener",
+      "url": "https://open.spotify.com/track/0g9eLW4RaSBuAJU0XtA6nc"
     },
     {
       "added_at": "2023-08-04 12:26:54",
@@ -751,38 +751,6 @@
     {
       "added_at": "2023-08-04 12:26:54",
       "album": {
-        "name": "A Good Thing",
-        "url": "https://open.spotify.com/album/57syR4Vje7gemU7560rhtl"
-      },
-      "artists": [
-        {
-          "name": "Handsome Jack",
-          "url": "https://open.spotify.com/artist/3LnEknwFnnuoiVxCatyMtr"
-        }
-      ],
-      "duration_ms": 214666,
-      "name": "A Good Thing",
-      "url": "https://open.spotify.com/track/0etGqvLZLSJ99bvh3mluj8"
-    },
-    {
-      "added_at": "2023-08-04 12:26:54",
-      "album": {
-        "name": "Guitar Kingdom",
-        "url": "https://open.spotify.com/album/2usnidWItfepT2FDfqcI6y"
-      },
-      "artists": [
-        {
-          "name": "Dudley Taft",
-          "url": "https://open.spotify.com/artist/0WipTVRit8iEdvcgYS5pqJ"
-        }
-      ],
-      "duration_ms": 200773,
-      "name": "The Great Beyond",
-      "url": "https://open.spotify.com/track/2iuaBaLe5hqMMFjdTySzcq"
-    },
-    {
-      "added_at": "2023-08-04 12:26:54",
-      "album": {
         "name": "Rockabye Motel",
         "url": "https://open.spotify.com/album/1tGugHW3RhB2c3J52Knvdy"
       },
@@ -799,6 +767,22 @@
     {
       "added_at": "2023-08-04 12:26:54",
       "album": {
+        "name": "A Good Thing",
+        "url": "https://open.spotify.com/album/57syR4Vje7gemU7560rhtl"
+      },
+      "artists": [
+        {
+          "name": "Handsome Jack",
+          "url": "https://open.spotify.com/artist/3LnEknwFnnuoiVxCatyMtr"
+        }
+      ],
+      "duration_ms": 214666,
+      "name": "A Good Thing",
+      "url": "https://open.spotify.com/track/0etGqvLZLSJ99bvh3mluj8"
+    },
+    {
+      "added_at": "2023-08-04 12:26:54",
+      "album": {
         "name": "Good Love Goes Bad",
         "url": "https://open.spotify.com/album/0s1mtwlKIxnASFrd442eW9"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 235573,
       "name": "Good Love Goes Bad",
       "url": "https://open.spotify.com/track/4SAdnN5F4nOZW0R1CjwYDv"
+    },
+    {
+      "added_at": "2023-08-04 12:26:54",
+      "album": {
+        "name": "Guitar Kingdom",
+        "url": "https://open.spotify.com/album/2usnidWItfepT2FDfqcI6y"
+      },
+      "artists": [
+        {
+          "name": "Dudley Taft",
+          "url": "https://open.spotify.com/artist/0WipTVRit8iEdvcgYS5pqJ"
+        }
+      ],
+      "duration_ms": 200773,
+      "name": "The Great Beyond",
+      "url": "https://open.spotify.com/track/2iuaBaLe5hqMMFjdTySzcq"
     },
     {
       "added_at": "2023-08-04 12:26:54",
@@ -911,6 +911,30 @@
     {
       "added_at": "2023-08-04 12:26:54",
       "album": {
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/2s0hTPeFcMimcRZ51uBfKE"
+      },
+      "artists": [
+        {
+          "name": "The Lucky Strokes",
+          "url": "https://open.spotify.com/artist/5AwQED6K6NWvl022vZJvUX"
+        },
+        {
+          "name": "Eddie Roberts",
+          "url": "https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI"
+        },
+        {
+          "name": "Shelby Kemp",
+          "url": "https://open.spotify.com/artist/3EmKdszswxAkvRs2XYQPK5"
+        }
+      ],
+      "duration_ms": 255209,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/2JmwjDIFspqdq83Hv77HFv"
+    },
+    {
+      "added_at": "2023-08-04 12:26:54",
+      "album": {
         "name": "Roads Go On Forever",
         "url": "https://open.spotify.com/album/2uUkCyIKlmyuuubILslx2o"
       },
@@ -939,30 +963,6 @@
       "duration_ms": 261665,
       "name": "Porcelain God",
       "url": "https://open.spotify.com/track/1IdVFssKRonucYtUT2cTgb"
-    },
-    {
-      "added_at": "2023-08-04 12:26:54",
-      "album": {
-        "name": "Sweet Dreams",
-        "url": "https://open.spotify.com/album/2s0hTPeFcMimcRZ51uBfKE"
-      },
-      "artists": [
-        {
-          "name": "The Lucky Strokes",
-          "url": "https://open.spotify.com/artist/5AwQED6K6NWvl022vZJvUX"
-        },
-        {
-          "name": "Eddie Roberts",
-          "url": "https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI"
-        },
-        {
-          "name": "Shelby Kemp",
-          "url": "https://open.spotify.com/artist/3EmKdszswxAkvRs2XYQPK5"
-        }
-      ],
-      "duration_ms": 255209,
-      "name": "Sweet Dreams",
-      "url": "https://open.spotify.com/track/2JmwjDIFspqdq83Hv77HFv"
     },
     {
       "added_at": "2023-08-04 12:26:54",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-08-04 12:26:54",
       "album": {
-        "name": "Rag Doll",
-        "url": "https://open.spotify.com/album/2v3CiLH9Kvj8n7HMMq3hF6"
-      },
-      "artists": [
-        {
-          "name": "Jenny Teator",
-          "url": "https://open.spotify.com/artist/5a5Zt3QQWGCfs5nrVxPf7b"
-        }
-      ],
-      "duration_ms": 169841,
-      "name": "Rag Doll",
-      "url": "https://open.spotify.com/track/4iRo9KrAseDp7rhkDqulYT"
-    },
-    {
-      "added_at": "2023-08-04 12:26:54",
-      "album": {
         "name": "Bound To Get The Blues",
         "url": "https://open.spotify.com/album/7qUHJLDYF0b1z3DA2Jm2UR"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 300548,
       "name": "Got To Get Out",
       "url": "https://open.spotify.com/track/2IFYh8DDCzkeeskV6yJmZT"
+    },
+    {
+      "added_at": "2023-08-04 12:26:54",
+      "album": {
+        "name": "Rag Doll",
+        "url": "https://open.spotify.com/album/2v3CiLH9Kvj8n7HMMq3hF6"
+      },
+      "artists": [
+        {
+          "name": "Jenny Teator",
+          "url": "https://open.spotify.com/artist/5a5Zt3QQWGCfs5nrVxPf7b"
+        }
+      ],
+      "duration_ms": 169841,
+      "name": "Rag Doll",
+      "url": "https://open.spotify.com/track/4iRo9KrAseDp7rhkDqulYT"
     },
     {
       "added_at": "2023-08-04 12:26:54",

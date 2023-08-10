@@ -1,12 +1,12 @@
 {
   "description": "Extra van je vrije tijd genieten voor jong en oud.",
-  "num_followers": 80794,
+  "num_followers": 80823,
   "original_name": "Quality Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDc3ZjVmMGQ0YmEyZmE0MDFjMzBkYzRkYWQyN2Y3ZGY4NGZmZmVk",
+  "snapshot_id": "MCw5YmQxMjVlNzgxYTIwZGMwNjZiNDU3MjY4ZjBhNzk2YzRiZTU4YTQ5",
   "tracks": [
     {
       "added_at": "2023-07-20 15:40:53",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "Toulouse Street",
-        "url": "https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm"
-      },
-      "artists": [
-        {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
-        }
-      ],
-      "duration_ms": 227266,
-      "name": "Listen to the Music",
-      "url": "https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
         "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
+        "name": "Toulouse Street",
+        "url": "https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm"
+      },
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        }
+      ],
+      "duration_ms": 227266,
+      "name": "Listen to the Music",
+      "url": "https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "The Lumineers",
-        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 163133,
-      "name": "Ho Hey",
-      "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "No Secrets",
         "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 245200,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
+        "name": "The Lumineers",
+        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 163133,
+      "name": "Ho Hey",
+      "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "Foreigner (Expanded)",
-        "url": "https://open.spotify.com/album/1OU7zJvUfgxxPHgkTClt1M"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 200213,
-      "name": "Cold as Ice",
-      "url": "https://open.spotify.com/track/7vidktgNZFQylTgH1GEnMs"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "Tell Mama",
         "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 156653,
       "name": "I'd Rather Go Blind",
       "url": "https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
+        "name": "Foreigner (Expanded)",
+        "url": "https://open.spotify.com/album/1OU7zJvUfgxxPHgkTClt1M"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "Cold as Ice",
+      "url": "https://open.spotify.com/track/7vidktgNZFQylTgH1GEnMs"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "Grave Dancers Union (2022 Remaster)",
-        "url": "https://open.spotify.com/album/3EFhsxrJoH3yE3r8bHheE6"
-      },
-      "artists": [
-        {
-          "name": "Soul Asylum",
-          "url": "https://open.spotify.com/artist/02da1vDJ2hWqfK7aJL6SJm"
-        }
-      ],
-      "duration_ms": 266560,
-      "name": "Runaway Train (2022 Remaster)",
-      "url": "https://open.spotify.com/track/3TW48DvQ7ChwY1Yy1tkMaP"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "Tracy Chapman",
         "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
       },
@@ -1691,18 +1675,18 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "Back Home Again",
-        "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
+        "name": "Grave Dancers Union (2022 Remaster)",
+        "url": "https://open.spotify.com/album/3EFhsxrJoH3yE3r8bHheE6"
       },
       "artists": [
         {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+          "name": "Soul Asylum",
+          "url": "https://open.spotify.com/artist/02da1vDJ2hWqfK7aJL6SJm"
         }
       ],
-      "duration_ms": 180693,
-      "name": "Annie's Song",
-      "url": "https://open.spotify.com/track/4J0DbyODwZJcmIAiTSJfMF"
+      "duration_ms": 266560,
+      "name": "Runaway Train (2022 Remaster)",
+      "url": "https://open.spotify.com/track/3TW48DvQ7ChwY1Yy1tkMaP"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -1719,6 +1703,22 @@
       "duration_ms": 256733,
       "name": "Two Princes",
       "url": "https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
+        "name": "Back Home Again",
+        "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 180693,
+      "name": "Annie's Song",
+      "url": "https://open.spotify.com/track/4J0DbyODwZJcmIAiTSJfMF"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "The Game (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 163373,
-      "name": "Crazy Little Thing Called Love - Remastered 2011",
-      "url": "https://open.spotify.com/track/35ItUJlMtjOQW3SSiTCrrw"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "Welcome To The Real World",
         "url": "https://open.spotify.com/album/682sQ449vmcJXS2AGIMrsl"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 343933,
       "name": "Broken Wings",
       "url": "https://open.spotify.com/track/78FHUZRbFDCG6VkRAQdFLm"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
+        "name": "The Game (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 163373,
+      "name": "Crazy Little Thing Called Love - Remastered 2011",
+      "url": "https://open.spotify.com/track/35ItUJlMtjOQW3SSiTCrrw"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "Are You Experienced",
-        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 210160,
-      "name": "Hey Joe",
-      "url": "https://open.spotify.com/track/0NWPxcsf5vdjdiFUI8NgkP"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "Odessey and Oracle",
         "url": "https://open.spotify.com/album/6XqM4NINcx3oc7NhOUKxXp"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 214026,
       "name": "Time of the Season - Mono Version",
       "url": "https://open.spotify.com/track/6hleUCx3E4gB2urwRvx1QT"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
+        "name": "Are You Experienced",
+        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 210160,
+      "name": "Hey Joe",
+      "url": "https://open.spotify.com/track/0NWPxcsf5vdjdiFUI8NgkP"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "The Spice Of Life",
-        "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
-      },
-      "artists": [
-        {
-          "name": "Marlena Shaw",
-          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
-        }
-      ],
-      "duration_ms": 177226,
-      "name": "California Soul",
-      "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "No Jacket Required (2016 Remaster)",
         "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
       },
@@ -2403,18 +2387,18 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "Fly Like An Eagle",
-        "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
+        "name": "The Spice Of Life",
+        "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
       },
       "artists": [
         {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+          "name": "Marlena Shaw",
+          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
         }
       ],
-      "duration_ms": 282693,
-      "name": "Fly Like An Eagle",
-      "url": "https://open.spotify.com/track/3e0FzZjTXOUtiJGSClOBrI"
+      "duration_ms": 177226,
+      "name": "California Soul",
+      "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -2431,6 +2415,22 @@
       "duration_ms": 215733,
       "name": "Don't Let Me Down - Remastered 2009",
       "url": "https://open.spotify.com/track/3evG0BIqEFMMP7lVJh1cSf"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
+        "name": "Fly Like An Eagle",
+        "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
+      },
+      "artists": [
+        {
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+        }
+      ],
+      "duration_ms": 282693,
+      "name": "Fly Like An Eagle",
+      "url": "https://open.spotify.com/track/3e0FzZjTXOUtiJGSClOBrI"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -2515,22 +2515,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "Extreme II: Pornograffitti (Deluxe)",
-        "url": "https://open.spotify.com/album/4bQ3DhbAEU6zhWFRhDNF3r"
-      },
-      "artists": [
-        {
-          "name": "Extreme",
-          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
-        }
-      ],
-      "duration_ms": 334000,
-      "name": "More Than Words",
-      "url": "https://open.spotify.com/track/58c8pMaXi3xdpBIVfG6WGC"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "El Camino",
         "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
       },
@@ -2543,6 +2527,22 @@
       "duration_ms": 251266,
       "name": "Little Black Submarines",
       "url": "https://open.spotify.com/track/1PXsUXSM3LF2XNSkmIldPb"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
+        "name": "Extreme II: Pornograffitti (Deluxe)",
+        "url": "https://open.spotify.com/album/4bQ3DhbAEU6zhWFRhDNF3r"
+      },
+      "artists": [
+        {
+          "name": "Extreme",
+          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
+        }
+      ],
+      "duration_ms": 334000,
+      "name": "More Than Words",
+      "url": "https://open.spotify.com/track/58c8pMaXi3xdpBIVfG6WGC"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -2583,22 +2583,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "In the Midnight Hour",
-        "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 157160,
-      "name": "In the Midnight Hour",
-      "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "The Breakthrough",
         "url": "https://open.spotify.com/album/13HYuDhB1soZvHzwoymXoV"
       },
@@ -2615,6 +2599,22 @@
       "duration_ms": 260466,
       "name": "One",
       "url": "https://open.spotify.com/track/3Lk7RWStfLaHG7lXsuS87j"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
+        "name": "In the Midnight Hour",
+        "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
+      },
+      "artists": [
+        {
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+        }
+      ],
+      "duration_ms": 157160,
+      "name": "In the Midnight Hour",
+      "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -2719,22 +2719,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "Silk Degrees",
-        "url": "https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs"
-      },
-      "artists": [
-        {
-          "name": "Boz Scaggs",
-          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
-        }
-      ],
-      "duration_ms": 315640,
-      "name": "Lowdown",
-      "url": "https://open.spotify.com/track/0nlZjTPzW6S9JIESuGfImT"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "Chaos And The Calm",
         "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
       },
@@ -2747,6 +2731,22 @@
       "duration_ms": 238746,
       "name": "Hold Back The River",
       "url": "https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
+        "name": "Silk Degrees",
+        "url": "https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs"
+      },
+      "artists": [
+        {
+          "name": "Boz Scaggs",
+          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
+        }
+      ],
+      "duration_ms": 315640,
+      "name": "Lowdown",
+      "url": "https://open.spotify.com/track/0nlZjTPzW6S9JIESuGfImT"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -2975,22 +2975,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "Graceland (25th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 291200,
-      "name": "Graceland",
-      "url": "https://open.spotify.com/track/51KKQAgYFoJHgVIuJWHdHb"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "Outlandos D'Amour (Remastered 2003)",
         "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
       },
@@ -3003,6 +2987,22 @@
       "duration_ms": 178760,
       "name": "Can't Stand Losing You",
       "url": "https://open.spotify.com/track/6DjKJgwe9c90Bd2iya0fre"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
+        "name": "Graceland (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 291200,
+      "name": "Graceland",
+      "url": "https://open.spotify.com/track/51KKQAgYFoJHgVIuJWHdHb"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -3395,22 +3395,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 164933,
-      "name": "Spooky (Single Version)",
-      "url": "https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "7 Seconds: The Best Of Youssou N'Dour",
         "url": "https://open.spotify.com/album/6Smydx3R0VZPoIdBeOmbFI"
       },
@@ -3431,18 +3415,18 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "Simply the Best",
-        "url": "https://open.spotify.com/album/1ZFC0iOKUp4M16eHXVaeG4"
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA"
       },
       "artists": [
         {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
         }
       ],
-      "duration_ms": 226880,
-      "name": "What's Love Got to Do with It",
-      "url": "https://open.spotify.com/track/6FcQD1qOpqV8NdhY45sKyI"
+      "duration_ms": 164933,
+      "name": "Spooky (Single Version)",
+      "url": "https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -3475,6 +3459,22 @@
       "duration_ms": 198146,
       "name": "Every Kinda People",
       "url": "https://open.spotify.com/track/38E7U60ipLSTVDcPIuVzZw"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
+        "name": "Simply the Best",
+        "url": "https://open.spotify.com/album/1ZFC0iOKUp4M16eHXVaeG4"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 226880,
+      "name": "What's Love Got to Do with It",
+      "url": "https://open.spotify.com/track/6FcQD1qOpqV8NdhY45sKyI"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -3575,22 +3575,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "Givin' It Back",
-        "url": "https://open.spotify.com/album/0xd0GqZYWh9wEA3TuqMy5h"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 223520,
-      "name": "Love the One You're With",
-      "url": "https://open.spotify.com/track/0NnyYBnyStcNKDu7PejLPF"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "Postcards From Heaven",
         "url": "https://open.spotify.com/album/1Pl9C2X0IiwBUyRqAwpbV1"
       },
@@ -3603,6 +3587,22 @@
       "duration_ms": 310333,
       "name": "High",
       "url": "https://open.spotify.com/track/7zB3ZhA5v33pA4rCdKKGqq"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
+        "name": "Givin' It Back",
+        "url": "https://open.spotify.com/album/0xd0GqZYWh9wEA3TuqMy5h"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 223520,
+      "name": "Love the One You're With",
+      "url": "https://open.spotify.com/track/0NnyYBnyStcNKDu7PejLPF"
     },
     {
       "added_at": "2023-07-20 15:40:53",
@@ -3783,22 +3783,6 @@
     {
       "added_at": "2023-07-20 15:40:53",
       "album": {
-        "name": "A Best Of",
-        "url": "https://open.spotify.com/album/0XXuKabaVBTfsWOyudjzCK"
-      },
-      "artists": [
-        {
-          "name": "Sniff 'n' The Tears",
-          "url": "https://open.spotify.com/artist/3EPScT793Qw5hkf8tvVpRV"
-        }
-      ],
-      "duration_ms": 239333,
-      "name": "Driver's Seat",
-      "url": "https://open.spotify.com/track/0NJ2bXPlMzP7MIz2Bmr7g3"
-    },
-    {
-      "added_at": "2023-07-20 15:40:53",
-      "album": {
         "name": "Son Little (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2jGQieA1EggldcxFAiQHjJ"
       },
@@ -3811,6 +3795,22 @@
       "duration_ms": 228000,
       "name": "Lay Down",
       "url": "https://open.spotify.com/track/3x8IsQzb1KhPPo6zNGzzL1"
+    },
+    {
+      "added_at": "2023-07-20 15:40:53",
+      "album": {
+        "name": "A Best Of",
+        "url": "https://open.spotify.com/album/0XXuKabaVBTfsWOyudjzCK"
+      },
+      "artists": [
+        {
+          "name": "Sniff 'n' The Tears",
+          "url": "https://open.spotify.com/artist/3EPScT793Qw5hkf8tvVpRV"
+        }
+      ],
+      "duration_ms": 239333,
+      "name": "Driver's Seat",
+      "url": "https://open.spotify.com/track/0NJ2bXPlMzP7MIz2Bmr7g3"
     },
     {
       "added_at": "2023-07-20 15:40:53",

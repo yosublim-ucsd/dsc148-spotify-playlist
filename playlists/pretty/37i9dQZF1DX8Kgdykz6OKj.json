@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1154024,
+  "num_followers": 1154551,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODBjYjM3NzlmNTU1NDliMWI3NWEyZGQ1NmU0ZWFjNjUyY2Y5ZWFk",
+  "snapshot_id": "MCxiYmU3ODA5NGJlNGVlYjRiZmI0ZDRjY2UxNzZlMTA4MmI1Y2VhZDE1",
   "tracks": [
     {
       "added_at": "2023-08-03 22:00:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Do You Want More?!!!??!",
-        "url": "https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz"
-      },
-      "artists": [
-        {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
-        }
-      ],
-      "duration_ms": 281866,
-      "name": "Mellow My Man",
-      "url": "https://open.spotify.com/track/7v7tFiNePGwLOrB2tAW3kg"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
         "name": "2000",
         "url": "https://open.spotify.com/album/32JCQPzflPiUX9weKyUrFZ"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 220400,
       "name": "A Little Of This",
       "url": "https://open.spotify.com/track/1M3D5FWqKil0eNpKksKBa1"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Do You Want More?!!!??!",
+        "url": "https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz"
+      },
+      "artists": [
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        }
+      ],
+      "duration_ms": 281866,
+      "name": "Mellow My Man",
+      "url": "https://open.spotify.com/track/7v7tFiNePGwLOrB2tAW3kg"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Blowout Comb",
-        "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
-      },
-      "artists": [
-        {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
-        }
-      ],
-      "duration_ms": 260693,
-      "name": "Dog It",
-      "url": "https://open.spotify.com/track/6Mbm86B4joMLyCncLCESCG"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
         "name": "Don't Feed the Birds",
         "url": "https://open.spotify.com/album/0CpFxcoFV9MHFVI7M8a2Qt"
       },
@@ -751,18 +735,18 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Done By The Forces Of Nature",
-        "url": "https://open.spotify.com/album/5FCNQAQLw46CKYbv0n2H6V"
+        "name": "Blowout Comb",
+        "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
       },
       "artists": [
         {
-          "name": "Jungle Brothers",
-          "url": "https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj"
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
         }
       ],
-      "duration_ms": 258933,
-      "name": "Doin' Our Own Dang",
-      "url": "https://open.spotify.com/track/4fuLWKNpY01OLMT9tARnB4"
+      "duration_ms": 260693,
+      "name": "Dog It",
+      "url": "https://open.spotify.com/track/6Mbm86B4joMLyCncLCESCG"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -779,6 +763,22 @@
       "duration_ms": 144140,
       "name": "Guapanese",
       "url": "https://open.spotify.com/track/5BzIsc2VtsEKZ0kjFWPmTD"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Done By The Forces Of Nature",
+        "url": "https://open.spotify.com/album/5FCNQAQLw46CKYbv0n2H6V"
+      },
+      "artists": [
+        {
+          "name": "Jungle Brothers",
+          "url": "https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj"
+        }
+      ],
+      "duration_ms": 258933,
+      "name": "Doin' Our Own Dang",
+      "url": "https://open.spotify.com/track/4fuLWKNpY01OLMT9tARnB4"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "The Rain",
-        "url": "https://open.spotify.com/album/60DtiPQbSHleBcigjwztG9"
-      },
-      "artists": [
-        {
-          "name": "Summers Sons",
-          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
-        }
-      ],
-      "duration_ms": 157603,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/30qvk9d9puwUPqklbQG3KT"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
         "name": "Blowout Comb",
         "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 279373,
       "name": "Jettin'",
       "url": "https://open.spotify.com/track/1BXastKgdI3AiFipVt69Fv"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "The Rain",
+        "url": "https://open.spotify.com/album/60DtiPQbSHleBcigjwztG9"
+      },
+      "artists": [
+        {
+          "name": "Summers Sons",
+          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
+        }
+      ],
+      "duration_ms": 157603,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/30qvk9d9puwUPqklbQG3KT"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1019,30 +1019,6 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "The Feeling",
-        "url": "https://open.spotify.com/album/3vH1qTsY5lbQvkwHH8PwGc"
-      },
-      "artists": [
-        {
-          "name": "Summers Sons",
-          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
-        },
-        {
-          "name": "Turt",
-          "url": "https://open.spotify.com/artist/0VkwWpbd5pxXBYZu3ns9N0"
-        },
-        {
-          "name": "Slim.",
-          "url": "https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH"
-        }
-      ],
-      "duration_ms": 179463,
-      "name": "The Feeling",
-      "url": "https://open.spotify.com/track/2GUVzvrOhwAwTsDrZcyPQU"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
         "name": "Jagged Tooth Crook",
         "url": "https://open.spotify.com/album/192hNpxnuWIEaWZiIJmkNV"
       },
@@ -1083,6 +1059,30 @@
       "duration_ms": 287320,
       "name": "Chapter 7 (feat. Ty)",
       "url": "https://open.spotify.com/track/04fnzAJxtQZFVbn8N3XrQm"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "The Feeling",
+        "url": "https://open.spotify.com/album/3vH1qTsY5lbQvkwHH8PwGc"
+      },
+      "artists": [
+        {
+          "name": "Summers Sons",
+          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
+        },
+        {
+          "name": "Turt",
+          "url": "https://open.spotify.com/artist/0VkwWpbd5pxXBYZu3ns9N0"
+        },
+        {
+          "name": "Slim.",
+          "url": "https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH"
+        }
+      ],
+      "duration_ms": 179463,
+      "name": "The Feeling",
+      "url": "https://open.spotify.com/track/2GUVzvrOhwAwTsDrZcyPQU"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1179,6 +1179,26 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
+        "name": "Speakthru (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/4kYA3PqnQ9nKhMtREJqW0i"
+      },
+      "artists": [
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        },
+        {
+          "name": "Ivan Ave",
+          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
+        }
+      ],
+      "duration_ms": 187175,
+      "name": "Shine Thru",
+      "url": "https://open.spotify.com/track/7oedV61tJa8X3ZPE4egKpy"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
         "name": "Late Night Link",
         "url": "https://open.spotify.com/album/5ROL6IqcFzRv6lm68RzsSo"
       },
@@ -1199,26 +1219,6 @@
       "duration_ms": 194545,
       "name": "Late Night Link",
       "url": "https://open.spotify.com/track/1xa2CuAx4iD2tVq2SNlQG6"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
-        "name": "Speakthru (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/4kYA3PqnQ9nKhMtREJqW0i"
-      },
-      "artists": [
-        {
-          "name": "FloFilz",
-          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
-        },
-        {
-          "name": "Ivan Ave",
-          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
-        }
-      ],
-      "duration_ms": 187175,
-      "name": "Shine Thru",
-      "url": "https://open.spotify.com/track/7oedV61tJa8X3ZPE4egKpy"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "What Am I to Do?",
-        "url": "https://open.spotify.com/album/2e4B1dudmjNKztr1qBEA7N"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        },
-        {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
-        }
-      ],
-      "duration_ms": 244733,
-      "name": "What Am I to Do?",
-      "url": "https://open.spotify.com/track/2HtpC9dJ6jOLa4OMN0nnfj"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
         "name": "IMMORTAL",
         "url": "https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 185298,
       "name": "IMMORTAL",
       "url": "https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "What Am I to Do?",
+        "url": "https://open.spotify.com/album/2e4B1dudmjNKztr1qBEA7N"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        }
+      ],
+      "duration_ms": 244733,
+      "name": "What Am I to Do?",
+      "url": "https://open.spotify.com/track/2HtpC9dJ6jOLa4OMN0nnfj"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
+        "name": "That Jazz",
+        "url": "https://open.spotify.com/album/5fmTUqAxnXPx3UjgV8VYds"
+      },
+      "artists": [
+        {
+          "name": "Coops",
+          "url": "https://open.spotify.com/artist/0sXhBmVgBTDxkQb8CUbhhR"
+        }
+      ],
+      "duration_ms": 188764,
+      "name": "That Jazz",
+      "url": "https://open.spotify.com/track/2fDT3A5tLwiySARQEawvRo"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
         "name": "Can't Let You Go (feat. Nick Grant)",
         "url": "https://open.spotify.com/album/5VSqSiMz865dFXnhhj2fgj"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 193616,
       "name": "Can't Let You Go (feat. Nick Grant)",
       "url": "https://open.spotify.com/track/7FdPNzOaG7FnIXiFm53cq4"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
-        "name": "That Jazz",
-        "url": "https://open.spotify.com/album/5fmTUqAxnXPx3UjgV8VYds"
-      },
-      "artists": [
-        {
-          "name": "Coops",
-          "url": "https://open.spotify.com/artist/0sXhBmVgBTDxkQb8CUbhhR"
-        }
-      ],
-      "duration_ms": 188764,
-      "name": "That Jazz",
-      "url": "https://open.spotify.com/track/2fDT3A5tLwiySARQEawvRo"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1839,26 +1839,22 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Fried",
-        "url": "https://open.spotify.com/album/1K6Ea6TrQfBYpKNFRnpyHD"
+        "name": "DOOM",
+        "url": "https://open.spotify.com/album/5XD7CWEqh5LqE6ltpsnqpl"
       },
       "artists": [
         {
-          "name": "REMI",
-          "url": "https://open.spotify.com/artist/5t69dnux4K2vcJO4VjS39q"
+          "name": "Cap Kendricks",
+          "url": "https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj"
         },
         {
-          "name": "Sensible J",
-          "url": "https://open.spotify.com/artist/1UdDg4tjgYWO4MHzvrgT2U"
-        },
-        {
-          "name": "Lori",
-          "url": "https://open.spotify.com/artist/6LdmIpHktzO8h5Z1nnfeIn"
+          "name": "DJ Access",
+          "url": "https://open.spotify.com/artist/6pgLZsB8Z4kotoAiX8yW3T"
         }
       ],
-      "duration_ms": 228032,
-      "name": "Brain",
-      "url": "https://open.spotify.com/track/4bbSk6i5hBlgcKB7bFZS20"
+      "duration_ms": 136785,
+      "name": "DOOM",
+      "url": "https://open.spotify.com/track/2KMSMtg2MuaO2yQaPhv9PW"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1883,22 +1879,26 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "DOOM",
-        "url": "https://open.spotify.com/album/5XD7CWEqh5LqE6ltpsnqpl"
+        "name": "Fried",
+        "url": "https://open.spotify.com/album/1K6Ea6TrQfBYpKNFRnpyHD"
       },
       "artists": [
         {
-          "name": "Cap Kendricks",
-          "url": "https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj"
+          "name": "REMI",
+          "url": "https://open.spotify.com/artist/5t69dnux4K2vcJO4VjS39q"
         },
         {
-          "name": "DJ Access",
-          "url": "https://open.spotify.com/artist/6pgLZsB8Z4kotoAiX8yW3T"
+          "name": "Sensible J",
+          "url": "https://open.spotify.com/artist/1UdDg4tjgYWO4MHzvrgT2U"
+        },
+        {
+          "name": "Lori",
+          "url": "https://open.spotify.com/artist/6LdmIpHktzO8h5Z1nnfeIn"
         }
       ],
-      "duration_ms": 136785,
-      "name": "DOOM",
-      "url": "https://open.spotify.com/track/2KMSMtg2MuaO2yQaPhv9PW"
+      "duration_ms": 228032,
+      "name": "Brain",
+      "url": "https://open.spotify.com/track/4bbSk6i5hBlgcKB7bFZS20"
     },
     {
       "added_at": "2023-08-03 22:00:00",

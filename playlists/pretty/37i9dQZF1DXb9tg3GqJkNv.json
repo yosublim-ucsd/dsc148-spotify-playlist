@@ -1,12 +1,12 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: TOBi",
-  "num_followers": 6555,
+  "num_followers": 6579,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYWQ5ZjY1Zjk2YzAxZDhiNDcyNGIyMzFmOGM1NmI5MzgxNzQwZTYw",
+  "snapshot_id": "MCw2NWY2ZjQ4MTRkMjE1Y2UwNDdlM2VmYzg2YzEwNTg2ZDBjMmVjNDgx",
   "tracks": [
     {
       "added_at": "2023-08-04 04:01:00",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "Sorry 4 What",
+        "url": "https://open.spotify.com/album/7MUY0WxCmHcgEEeQNjoe8a"
+      },
+      "artists": [
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "duration_ms": 145918,
+      "name": "Why Did I",
+      "url": "https://open.spotify.com/track/6NrB2hKwlyVfFY8qhKc8U6"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "Gardner Express",
         "url": "https://open.spotify.com/album/24nydg8i966CawS06yCtZh"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 171000,
       "name": "Attachments",
       "url": "https://open.spotify.com/track/1SedJ3dLWoCqnPIGeEMUJH"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Sorry 4 What",
-        "url": "https://open.spotify.com/album/7MUY0WxCmHcgEEeQNjoe8a"
-      },
-      "artists": [
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        }
-      ],
-      "duration_ms": 145918,
-      "name": "Why Did I",
-      "url": "https://open.spotify.com/track/6NrB2hKwlyVfFY8qhKc8U6"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1207,22 +1207,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Different Route",
-        "url": "https://open.spotify.com/album/1W8pJAcbgIrU8QSPinu1s2"
+        "name": "Dwayne Carter Flow",
+        "url": "https://open.spotify.com/album/0DN87LYvjreENZHFUCbk6d"
       },
       "artists": [
         {
-          "name": "Roney",
-          "url": "https://open.spotify.com/artist/2nGZqSJU7K5mkZCjxSlu5J"
-        },
-        {
-          "name": "Sick Ppl",
-          "url": "https://open.spotify.com/artist/1SCwj7fCt2DeYIYNQoGxp0"
+          "name": "Nate Husser",
+          "url": "https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4"
         }
       ],
-      "duration_ms": 128000,
-      "name": "Go There",
-      "url": "https://open.spotify.com/track/3BIouEzekdzTJYtR9fmYRA"
+      "duration_ms": 130560,
+      "name": "Dwayne Carter Flow",
+      "url": "https://open.spotify.com/track/570V1YeIjY18g0OgQViBCg"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1263,18 +1259,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Dwayne Carter Flow",
-        "url": "https://open.spotify.com/album/0DN87LYvjreENZHFUCbk6d"
+        "name": "Different Route",
+        "url": "https://open.spotify.com/album/1W8pJAcbgIrU8QSPinu1s2"
       },
       "artists": [
         {
-          "name": "Nate Husser",
-          "url": "https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4"
+          "name": "Roney",
+          "url": "https://open.spotify.com/artist/2nGZqSJU7K5mkZCjxSlu5J"
+        },
+        {
+          "name": "Sick Ppl",
+          "url": "https://open.spotify.com/artist/1SCwj7fCt2DeYIYNQoGxp0"
         }
       ],
-      "duration_ms": 130560,
-      "name": "Dwayne Carter Flow",
-      "url": "https://open.spotify.com/track/570V1YeIjY18g0OgQViBCg"
+      "duration_ms": 128000,
+      "name": "Go There",
+      "url": "https://open.spotify.com/track/3BIouEzekdzTJYtR9fmYRA"
     },
     {
       "added_at": "2023-08-04 04:01:00",

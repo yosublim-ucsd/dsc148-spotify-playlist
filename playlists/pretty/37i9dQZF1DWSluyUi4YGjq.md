@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > Gazing at pedals, soaring celestially high\. Slowdive on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,363 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,711 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 99 | [Become](https://open.spotify.com/track/6MxpGNjoKliUlyW9HbKBrH) | [Launder](https://open.spotify.com/artist/34oS6XgB17t0Gm7623KXLh), [Soko](https://open.spotify.com/artist/4Q3f2YYH4gQxWFS3WY5G3j) | [Happening](https://open.spotify.com/album/1AFBK10RHCuXnHXaTgyonQ) | 3:50 |
 | 100 | [means to an end \(not enough\)](https://open.spotify.com/track/3umsW2c9mVYfLOL1uvMUuM) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [means to an end \(not enough\)](https://open.spotify.com/album/3lSgb650mqEWwBGZB2vwDT) | 4:40 |
 
-Snapshot ID: `MCw2YTBhOTQ4NWU3Yjc3M2VkNTcxNzI3YTg0OTA2ZjRlMTU3NzUxMDgy`
+Snapshot ID: `MCxiNDI3ZmViOWI2YzI3MWQxMDJkZDFlOTNiMzY1ZWE2MjM2MjNhMDJm`

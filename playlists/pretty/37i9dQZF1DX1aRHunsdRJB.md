@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 
 > A playlist driven from the islands, take the front seat as Soca meets Bashment
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,693 likes - 68 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,700 likes - 68 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 20 | [Boss Lady \(Sign Me Up\)](https://open.spotify.com/track/6PR1VSJ3fAnZpRrgIAYgXJ) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Baila Riddim](https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS) | 2:13 |
 | 21 | [Carry On](https://open.spotify.com/track/54tMRvXvmbLSeX4h33d56U) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Pop's Guitar Riddim](https://open.spotify.com/album/6uXnKJxCwFGt9oGtT4fBX2) | 3:57 |
 | 22 | [Issa Snack](https://open.spotify.com/track/6eIdwZaZNpqvh61NudvQre) | [Nessa Preppy](https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT), [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd) | [The Art of Flex](https://open.spotify.com/album/7zecbPVfKMGdOj8wfvXNEL) | 3:03 |
-| 23 | [Dear Promoter](https://open.spotify.com/track/74F3DNzHUSrJ6sNz4YkFWe) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds), [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Dear Promoter](https://open.spotify.com/album/3fiMNWUuR76Xj38ugSEIHe) | 4:04 |
-| 24 | [Tic It & Tac It](https://open.spotify.com/track/1Cy2yw8wrzHpi1UMK8nnL2) | [BoBo](https://open.spotify.com/artist/2ReU09e8cwWdv544qEDTDK) | [Tic It & Tac It](https://open.spotify.com/album/4ZYGqtyawJ66Dsp9C2VR3W) | 2:03 |
-| 25 | [Heaven Passport](https://open.spotify.com/track/3MEO3XzuF79wbokXOnWEJg) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR) | [Heaven Passport](https://open.spotify.com/album/2isP74vOyY08TNii3xoeaZ) | 3:07 |
+| 23 | [Tic It & Tac It](https://open.spotify.com/track/1Cy2yw8wrzHpi1UMK8nnL2) | [BoBo](https://open.spotify.com/artist/2ReU09e8cwWdv544qEDTDK) | [Tic It & Tac It](https://open.spotify.com/album/4ZYGqtyawJ66Dsp9C2VR3W) | 2:03 |
+| 24 | [Heaven Passport](https://open.spotify.com/track/3MEO3XzuF79wbokXOnWEJg) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR) | [Heaven Passport](https://open.spotify.com/album/2isP74vOyY08TNii3xoeaZ) | 3:07 |
+| 25 | [Dear Promoter](https://open.spotify.com/track/74F3DNzHUSrJ6sNz4YkFWe) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds), [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Dear Promoter](https://open.spotify.com/album/3fiMNWUuR76Xj38ugSEIHe) | 4:04 |
 | 26 | [Run Wid It](https://open.spotify.com/track/68rYSuJb2351hhpe4Lzvm4) | [Mr\. Killa](https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq) | [Run Wid It](https://open.spotify.com/album/3FZhpdntOoX90CLSeb2vBG) | 3:11 |
 | 27 | [Demon Girl](https://open.spotify.com/track/6msQvyBUYXUGCTANfYFjer) | [Tommy Lee Sparta](https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh) | [Demon Girl](https://open.spotify.com/album/6hpa86C5a60B5CDjAAXixD) | 3:22 |
 | 28 | [Fattt](https://open.spotify.com/track/5Jbo9fmh94CoGmdvje1HN7) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Caution Riddim](https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte) | 3:13 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 67 | [Feeling It](https://open.spotify.com/track/62pvKYjeztdIXbOoucJQfZ) | [Swappi](https://open.spotify.com/artist/1FXS9zsrivPmCwagsuhPdJ), [Ultimate Rejects](https://open.spotify.com/artist/5XwdTXM2AN5sMV7Su8dUZA) | [Feeling It](https://open.spotify.com/album/40IyjtthaOItYrK8mcASuu) | 4:07 |
 | 68 | [Soak Me Good](https://open.spotify.com/track/0IC3SSV31lfYGQ6thjYcoP) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [The Jakson Bay Project](https://open.spotify.com/album/2Bsph4DDOen4CEGpesiBhl) | 3:19 |
 
-Snapshot ID: `MCw2ZGI4N2Y3OGZiZmM5MTgyZGJjZmJhZTU0NTNlNTQ2MjkxN2NhYmIy`
+Snapshot ID: `MCxhN2I0MDVlNzQ3YTgyZDA5ZWZiN2E1OTkxYTMwMmM5ZDY1MDA2ZDVh`

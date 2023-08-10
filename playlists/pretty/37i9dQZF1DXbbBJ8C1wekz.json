@@ -1,12 +1,12 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o.",
-  "num_followers": 118913,
+  "num_followers": 118950,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWYxYTUyY2EzM2FlMDA0OWUxYzgxN2Y2NDA3ZWNhNTFjN2M3YTc4",
+  "snapshot_id": "MCxjNjRmNmE1NTc1N2EzZmVkZGUwYjc4ZDVlMjRiNmFhOTZjNDZkMjFj",
   "tracks": [
     {
       "added_at": "2023-07-28 03:01:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Avi\u00e3o",
-        "url": "https://open.spotify.com/album/3qB0aw6UmDycNX9pWvyjXf"
-      },
-      "artists": [
-        {
-          "name": "MC Caverinha",
-          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Avi\u00e3o",
-      "url": "https://open.spotify.com/track/3vG5tTQZsAPTDqMiXFhKJy"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "Ca\u00e7ando Tesouro",
         "url": "https://open.spotify.com/album/17NmjYO2JSc0E4bLFhBMQA"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 224262,
       "name": "Ca\u00e7ando Tesouro",
       "url": "https://open.spotify.com/track/4RC7vpeUYzx6kChixUpTNs"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Avi\u00e3o",
+        "url": "https://open.spotify.com/album/3qB0aw6UmDycNX9pWvyjXf"
+      },
+      "artists": [
+        {
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Avi\u00e3o",
+      "url": "https://open.spotify.com/track/3vG5tTQZsAPTDqMiXFhKJy"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
+        "name": "Chega de Falar de Ice",
+        "url": "https://open.spotify.com/album/2Cylgte8uM34hQxgQP74xg"
+      },
+      "artists": [
+        {
+          "name": "Leozin",
+          "url": "https://open.spotify.com/artist/7ALIMskSScecdJr78qvB9V"
+        }
+      ],
+      "duration_ms": 177245,
+      "name": "Chega de Falar de Ice",
+      "url": "https://open.spotify.com/track/7sO4qwDP84KRGKNCbMSn2o"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
         "name": "LONGE DEMAIS",
         "url": "https://open.spotify.com/album/388OrmfCf6uH9hlLRxovk0"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 181875,
       "name": "LONGE DEMAIS",
       "url": "https://open.spotify.com/track/7GojLrZd9lFGVWawPwj4t0"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
-        "name": "Chega de Falar de Ice",
-        "url": "https://open.spotify.com/album/2Cylgte8uM34hQxgQP74xg"
-      },
-      "artists": [
-        {
-          "name": "Leozin",
-          "url": "https://open.spotify.com/artist/7ALIMskSScecdJr78qvB9V"
-        }
-      ],
-      "duration_ms": 177245,
-      "name": "Chega de Falar de Ice",
-      "url": "https://open.spotify.com/track/7sO4qwDP84KRGKNCbMSn2o"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1063,30 +1063,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Menino Ney",
-        "url": "https://open.spotify.com/album/3IWRs9fZhKc4i7lCkqNPHU"
-      },
-      "artists": [
-        {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Dazz",
-          "url": "https://open.spotify.com/artist/0mabpBrWkBHo7UHcyOclit"
-        }
-      ],
-      "duration_ms": 139636,
-      "name": "Menino Ney",
-      "url": "https://open.spotify.com/track/3n7ASTQanOp5milmESBqlt"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "Zero Mancada",
         "url": "https://open.spotify.com/album/4QLHe2XXswsU9cB4gV7zJE"
       },
@@ -1111,6 +1087,30 @@
       "duration_ms": 162717,
       "name": "Zero Mancada",
       "url": "https://open.spotify.com/track/57CVH7IJGRuhClaC8zAWZh"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Menino Ney",
+        "url": "https://open.spotify.com/album/3IWRs9fZhKc4i7lCkqNPHU"
+      },
+      "artists": [
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Dazz",
+          "url": "https://open.spotify.com/artist/0mabpBrWkBHo7UHcyOclit"
+        }
+      ],
+      "duration_ms": 139636,
+      "name": "Menino Ney",
+      "url": "https://open.spotify.com/track/3n7ASTQanOp5milmESBqlt"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1463,30 +1463,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Perfil #84 - Eu Vim de L\u00e1",
-        "url": "https://open.spotify.com/album/1JjmIotWoVrQ8i8ZI1if1R"
-      },
-      "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        }
-      ],
-      "duration_ms": 190113,
-      "name": "Perfil #84 - Eu Vim de L\u00e1",
-      "url": "https://open.spotify.com/track/543Yg40LdcfkZkoxCR0kY9"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "Jordan",
         "url": "https://open.spotify.com/album/6zhfMgOecZi8lRQ43CO3jL"
       },
@@ -1507,6 +1483,30 @@
       "duration_ms": 190153,
       "name": "Jordan",
       "url": "https://open.spotify.com/track/61DpiQz5Jli2KNwJZn6s4r"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Perfil #84 - Eu Vim de L\u00e1",
+        "url": "https://open.spotify.com/album/1JjmIotWoVrQ8i8ZI1if1R"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "duration_ms": 190113,
+      "name": "Perfil #84 - Eu Vim de L\u00e1",
+      "url": "https://open.spotify.com/track/543Yg40LdcfkZkoxCR0kY9"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Blue Pill",
-        "url": "https://open.spotify.com/album/5VJfq0FUY3LG4ZEPfXUzDp"
-      },
-      "artists": [
-        {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        }
-      ],
-      "duration_ms": 141341,
-      "name": "Blue Pill",
-      "url": "https://open.spotify.com/track/6RZdPEKEe2AVxeBHZxPdH9"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "Tipo uma Glock",
         "url": "https://open.spotify.com/album/1ofJDp4DEAf8PHwA15DYTK"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 125156,
       "name": "Tipo uma Glock",
       "url": "https://open.spotify.com/track/0uv71i1waQbyRjZT86Fctu"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Blue Pill",
+        "url": "https://open.spotify.com/album/5VJfq0FUY3LG4ZEPfXUzDp"
+      },
+      "artists": [
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        }
+      ],
+      "duration_ms": 141341,
+      "name": "Blue Pill",
+      "url": "https://open.spotify.com/track/6RZdPEKEe2AVxeBHZxPdH9"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1839,34 +1839,26 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Drink Azul",
-        "url": "https://open.spotify.com/album/7wNuG0zJUQQomWNHXPhWOR"
+        "name": "Modo Trapa\u00e7a",
+        "url": "https://open.spotify.com/album/4zKBStIg0K3ZoPDQHq1IIQ"
       },
       "artists": [
         {
-          "name": "Lil Chainz",
-          "url": "https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB"
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
         },
         {
-          "name": "VMZ",
-          "url": "https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg"
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
         },
         {
-          "name": "MHRAP",
-          "url": "https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87"
-        },
-        {
-          "name": "Jonis",
-          "url": "https://open.spotify.com/artist/12nbzTpTTl5EW9LmNcY7Sn"
-        },
-        {
-          "name": "Daja",
-          "url": "https://open.spotify.com/artist/1oNNEMmzYREXntCGm4kHy9"
+          "name": "Cita",
+          "url": "https://open.spotify.com/artist/3SJnySPOzMoVzk9R59d8Vv"
         }
       ],
-      "duration_ms": 165600,
-      "name": "Drink Azul",
-      "url": "https://open.spotify.com/track/2rIUgXHdMeQb6i8TFKrGOK"
+      "duration_ms": 192000,
+      "name": "Modo Trapa\u00e7a",
+      "url": "https://open.spotify.com/track/3OAOGZwWMzP24qefZmPYWR"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1899,26 +1891,34 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Modo Trapa\u00e7a",
-        "url": "https://open.spotify.com/album/4zKBStIg0K3ZoPDQHq1IIQ"
+        "name": "Drink Azul",
+        "url": "https://open.spotify.com/album/7wNuG0zJUQQomWNHXPhWOR"
       },
       "artists": [
         {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+          "name": "Lil Chainz",
+          "url": "https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB"
         },
         {
-          "name": "Original Quality",
-          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+          "name": "VMZ",
+          "url": "https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg"
         },
         {
-          "name": "Cita",
-          "url": "https://open.spotify.com/artist/3SJnySPOzMoVzk9R59d8Vv"
+          "name": "MHRAP",
+          "url": "https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87"
+        },
+        {
+          "name": "Jonis",
+          "url": "https://open.spotify.com/artist/12nbzTpTTl5EW9LmNcY7Sn"
+        },
+        {
+          "name": "Daja",
+          "url": "https://open.spotify.com/artist/1oNNEMmzYREXntCGm4kHy9"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Modo Trapa\u00e7a",
-      "url": "https://open.spotify.com/track/3OAOGZwWMzP24qefZmPYWR"
+      "duration_ms": 165600,
+      "name": "Drink Azul",
+      "url": "https://open.spotify.com/track/2rIUgXHdMeQb6i8TFKrGOK"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1963,6 +1963,22 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
+        "name": "\u00c9TPM?!",
+        "url": "https://open.spotify.com/album/2LT3aMTtIP0KMyKlMLNkXV"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        }
+      ],
+      "duration_ms": 139014,
+      "name": "Rambo",
+      "url": "https://open.spotify.com/track/35x9qUGtAja78x1LGrO0o6"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
         "name": "Oh Shit",
         "url": "https://open.spotify.com/album/36iSgsN8rz5MpQSXOvBlyU"
       },
@@ -1987,22 +2003,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "\u00c9TPM?!",
-        "url": "https://open.spotify.com/album/2LT3aMTtIP0KMyKlMLNkXV"
-      },
-      "artists": [
-        {
-          "name": "Jovem Dex",
-          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
-        }
-      ],
-      "duration_ms": 139014,
-      "name": "Rambo",
-      "url": "https://open.spotify.com/track/35x9qUGtAja78x1LGrO0o6"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "O Bagulho \u00c9 Trap",
         "url": "https://open.spotify.com/album/7sRNPfZfQ9RB3DtMffLPo3"
       },
@@ -2015,22 +2015,6 @@
       "duration_ms": 192537,
       "name": "Di\u00f1ero",
       "url": "https://open.spotify.com/track/5qEEAaLmldzSSFQjj6eJb3"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
-        "name": "Bad Bad Bad",
-        "url": "https://open.spotify.com/album/0c0TPdWKG5DFewBDhdJxpx"
-      },
-      "artists": [
-        {
-          "name": "Kalli",
-          "url": "https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I"
-        }
-      ],
-      "duration_ms": 154877,
-      "name": "Bad bad bad",
-      "url": "https://open.spotify.com/track/3ybpfJJRAHZL7NKuUwL1EP"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -2055,6 +2039,22 @@
       "duration_ms": 137004,
       "name": "Hortel\u00e3",
       "url": "https://open.spotify.com/track/4hShW5zZGC09Wzam5e76AW"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Bad Bad Bad",
+        "url": "https://open.spotify.com/album/0c0TPdWKG5DFewBDhdJxpx"
+      },
+      "artists": [
+        {
+          "name": "Kalli",
+          "url": "https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I"
+        }
+      ],
+      "duration_ms": 154877,
+      "name": "Bad bad bad",
+      "url": "https://open.spotify.com/track/3ybpfJJRAHZL7NKuUwL1EP"
     },
     {
       "added_at": "2023-07-28 03:01:00",

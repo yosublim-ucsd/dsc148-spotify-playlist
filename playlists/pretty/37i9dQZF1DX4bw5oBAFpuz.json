@@ -1,12 +1,12 @@
 {
   "description": "Ideale muziek voor de werkdag",
-  "num_followers": 31907,
+  "num_followers": 31928,
   "original_name": "Werkdag FM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNWQyMDQ3MjE2Y2ZmZTM0YjQ5N2I0MjdiNzgxMjg1MDg2NTQyZjhi",
+  "snapshot_id": "MCw4MWYzMjM3YTI5NGZhOTAxZTZkMTdlMjIyMmM4OTMxY2ZiZGE2MGMy",
   "tracks": [
     {
       "added_at": "2023-07-20 15:41:20",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-07-20 15:41:20",
       "album": {
-        "name": "Where the Heart Is",
-        "url": "https://open.spotify.com/album/6R4T8gjO7lrbP0bALaRFjG"
-      },
-      "artists": [
-        {
-          "name": "HAEVN",
-          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
-        }
-      ],
-      "duration_ms": 217611,
-      "name": "Where the Heart Is - Single Version",
-      "url": "https://open.spotify.com/track/6z7ilJUz6errwzC7cEoDgm"
-    },
-    {
-      "added_at": "2023-07-20 15:41:20",
-      "album": {
         "name": "Hurts 2B Human",
         "url": "https://open.spotify.com/album/6JKkXVEljQJ1wKbRG5MywC"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 188120,
       "name": "Love Me Anyway (feat. Chris Stapleton)",
       "url": "https://open.spotify.com/track/0pwdJLLVxlJa1lnR9UeMZY"
+    },
+    {
+      "added_at": "2023-07-20 15:41:20",
+      "album": {
+        "name": "Where the Heart Is",
+        "url": "https://open.spotify.com/album/6R4T8gjO7lrbP0bALaRFjG"
+      },
+      "artists": [
+        {
+          "name": "HAEVN",
+          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
+        }
+      ],
+      "duration_ms": 217611,
+      "name": "Where the Heart Is - Single Version",
+      "url": "https://open.spotify.com/track/6z7ilJUz6errwzC7cEoDgm"
     },
     {
       "added_at": "2023-07-20 15:41:20",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-07-20 15:41:20",
       "album": {
-        "name": "Crossroads",
-        "url": "https://open.spotify.com/album/0WxWpSTJASFJofnbr7vA76"
-      },
-      "artists": [
-        {
-          "name": "Tomas Ferdinand",
-          "url": "https://open.spotify.com/artist/04wssUBpRPfy8WOL1JKaLf"
-        }
-      ],
-      "duration_ms": 155884,
-      "name": "Crossroads",
-      "url": "https://open.spotify.com/track/00s6DXiI1QKcmC6Rgpv5rA"
-    },
-    {
-      "added_at": "2023-07-20 15:41:20",
-      "album": {
         "name": "Eyes Closed",
         "url": "https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 203506,
       "name": "Finding Out More",
       "url": "https://open.spotify.com/track/5Ur5a9sA6N9TGUDrQJsTxh"
+    },
+    {
+      "added_at": "2023-07-20 15:41:20",
+      "album": {
+        "name": "Crossroads",
+        "url": "https://open.spotify.com/album/0WxWpSTJASFJofnbr7vA76"
+      },
+      "artists": [
+        {
+          "name": "Tomas Ferdinand",
+          "url": "https://open.spotify.com/artist/04wssUBpRPfy8WOL1JKaLf"
+        }
+      ],
+      "duration_ms": 155884,
+      "name": "Crossroads",
+      "url": "https://open.spotify.com/track/00s6DXiI1QKcmC6Rgpv5rA"
     },
     {
       "added_at": "2023-07-20 15:41:20",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2023-07-20 15:41:20",
       "album": {
-        "name": "What A Day",
-        "url": "https://open.spotify.com/album/3zQ9BOb67wGJtXjjZWGXmn"
-      },
-      "artists": [
-        {
-          "name": "Penny Roox",
-          "url": "https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg"
-        }
-      ],
-      "duration_ms": 226755,
-      "name": "What A Day",
-      "url": "https://open.spotify.com/track/3GHsGDZ0wyEZyGEIK6PcgT"
-    },
-    {
-      "added_at": "2023-07-20 15:41:20",
-      "album": {
         "name": "Rise (Acoustic)",
         "url": "https://open.spotify.com/album/2cvjDszYknCglVHqHc2IOY"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 213630,
       "name": "Rise - Acoustic",
       "url": "https://open.spotify.com/track/4SSS0EPphdDS3CAoVUW05M"
+    },
+    {
+      "added_at": "2023-07-20 15:41:20",
+      "album": {
+        "name": "What A Day",
+        "url": "https://open.spotify.com/album/3zQ9BOb67wGJtXjjZWGXmn"
+      },
+      "artists": [
+        {
+          "name": "Penny Roox",
+          "url": "https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg"
+        }
+      ],
+      "duration_ms": 226755,
+      "name": "What A Day",
+      "url": "https://open.spotify.com/track/3GHsGDZ0wyEZyGEIK6PcgT"
     },
     {
       "added_at": "2023-07-20 15:41:20",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2023-07-20 15:41:20",
       "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/453z5Es9h6XsvPCZWKzYdf"
+      },
+      "artists": [
+        {
+          "name": "Sophia",
+          "url": "https://open.spotify.com/artist/4dI2I5YRyIvaVQksYnx9Zd"
+        }
+      ],
+      "duration_ms": 202986,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/2HEudAZWEH9NsygtkWXs5s"
+    },
+    {
+      "added_at": "2023-07-20 15:41:20",
+      "album": {
         "name": "Beste Zangers 2021 (Joe Buck)",
         "url": "https://open.spotify.com/album/0VcY5kRBSi02BjPs314Aze"
       },
@@ -1863,18 +1879,18 @@
     {
       "added_at": "2023-07-20 15:41:20",
       "album": {
-        "name": "Midnight",
-        "url": "https://open.spotify.com/album/453z5Es9h6XsvPCZWKzYdf"
+        "name": "Mitch James - Deluxe Edition",
+        "url": "https://open.spotify.com/album/2uyhLTwc2V8KeSgysLtXTf"
       },
       "artists": [
         {
-          "name": "Sophia",
-          "url": "https://open.spotify.com/artist/4dI2I5YRyIvaVQksYnx9Zd"
+          "name": "Mitch James",
+          "url": "https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le"
         }
       ],
-      "duration_ms": 202986,
-      "name": "Midnight",
-      "url": "https://open.spotify.com/track/2HEudAZWEH9NsygtkWXs5s"
+      "duration_ms": 185764,
+      "name": "All The Ways To Say Goodbye",
+      "url": "https://open.spotify.com/track/2z641vWISZBjlkCMfkYVW6"
     },
     {
       "added_at": "2023-07-20 15:41:20",
@@ -1899,22 +1915,6 @@
     {
       "added_at": "2023-07-20 15:41:20",
       "album": {
-        "name": "Mitch James - Deluxe Edition",
-        "url": "https://open.spotify.com/album/2uyhLTwc2V8KeSgysLtXTf"
-      },
-      "artists": [
-        {
-          "name": "Mitch James",
-          "url": "https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le"
-        }
-      ],
-      "duration_ms": 185764,
-      "name": "All The Ways To Say Goodbye",
-      "url": "https://open.spotify.com/track/2z641vWISZBjlkCMfkYVW6"
-    },
-    {
-      "added_at": "2023-07-20 15:41:20",
-      "album": {
         "name": "Nobody Just Like You",
         "url": "https://open.spotify.com/album/1T17JPPFnkMa9hd9fkqblx"
       },
@@ -1927,6 +1927,22 @@
       "duration_ms": 164554,
       "name": "Nobody Just Like You",
       "url": "https://open.spotify.com/track/6c1LPZcvGFR61iNceP77q9"
+    },
+    {
+      "added_at": "2023-07-20 15:41:20",
+      "album": {
+        "name": "Flags",
+        "url": "https://open.spotify.com/album/1jKGzq0r9MwXIbyHtQ6hBD"
+      },
+      "artists": [
+        {
+          "name": "Brooke Fraser",
+          "url": "https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN"
+        }
+      ],
+      "duration_ms": 183073,
+      "name": "Something in the Water",
+      "url": "https://open.spotify.com/track/2TcxF4DfNVVEcNBZMJvDUz"
     },
     {
       "added_at": "2023-07-20 15:41:20",
@@ -1963,18 +1979,18 @@
     {
       "added_at": "2023-07-20 15:41:20",
       "album": {
-        "name": "Flags",
-        "url": "https://open.spotify.com/album/1jKGzq0r9MwXIbyHtQ6hBD"
+        "name": "Dance All Over Me",
+        "url": "https://open.spotify.com/album/2UdthZopBNkIeFXEEUg9sQ"
       },
       "artists": [
         {
-          "name": "Brooke Fraser",
-          "url": "https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN"
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
         }
       ],
-      "duration_ms": 183073,
-      "name": "Something in the Water",
-      "url": "https://open.spotify.com/track/2TcxF4DfNVVEcNBZMJvDUz"
+      "duration_ms": 214884,
+      "name": "Dance All Over Me - Acoustic",
+      "url": "https://open.spotify.com/track/0O2oOTckr08VasDGv8m7kc"
     },
     {
       "added_at": "2023-07-20 15:41:20",
@@ -1995,22 +2011,6 @@
     {
       "added_at": "2023-07-20 15:41:20",
       "album": {
-        "name": "Dance All Over Me",
-        "url": "https://open.spotify.com/album/2UdthZopBNkIeFXEEUg9sQ"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 214884,
-      "name": "Dance All Over Me - Acoustic",
-      "url": "https://open.spotify.com/track/0O2oOTckr08VasDGv8m7kc"
-    },
-    {
-      "added_at": "2023-07-20 15:41:20",
-      "album": {
         "name": "Queen For A Day",
         "url": "https://open.spotify.com/album/1Dn1MhYuEOO6eMijYqnKCG"
       },
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2023-07-20 15:41:20",
       "album": {
-        "name": "Looking For Stars",
-        "url": "https://open.spotify.com/album/5JZSvFY37igyGtmIP0yuLW"
-      },
-      "artists": [
-        {
-          "name": "Hooverphonic",
-          "url": "https://open.spotify.com/artist/5EP020iZcwBqHRnJftibXX"
-        }
-      ],
-      "duration_ms": 195493,
-      "name": "Romantic",
-      "url": "https://open.spotify.com/track/6UvHVnBPpxMJrTAFnMK8s2"
-    },
-    {
-      "added_at": "2023-07-20 15:41:20",
-      "album": {
         "name": "If I Don't Love Me",
         "url": "https://open.spotify.com/album/2EJdwuhF2RGZ19TRL4amWt"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 177077,
       "name": "If I Don't Love Me",
       "url": "https://open.spotify.com/track/5SXJLqDXUBoWca08NFyVOd"
+    },
+    {
+      "added_at": "2023-07-20 15:41:20",
+      "album": {
+        "name": "Looking For Stars",
+        "url": "https://open.spotify.com/album/5JZSvFY37igyGtmIP0yuLW"
+      },
+      "artists": [
+        {
+          "name": "Hooverphonic",
+          "url": "https://open.spotify.com/artist/5EP020iZcwBqHRnJftibXX"
+        }
+      ],
+      "duration_ms": 195493,
+      "name": "Romantic",
+      "url": "https://open.spotify.com/track/6UvHVnBPpxMJrTAFnMK8s2"
     },
     {
       "added_at": "2023-07-20 15:41:20",
@@ -2207,22 +2207,6 @@
     {
       "added_at": "2023-07-20 15:41:20",
       "album": {
-        "name": "Beauty Is A Mess",
-        "url": "https://open.spotify.com/album/56G0aPRr7G9paEbEGFlola"
-      },
-      "artists": [
-        {
-          "name": "Haris",
-          "url": "https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki"
-        }
-      ],
-      "duration_ms": 184360,
-      "name": "Fall Apart",
-      "url": "https://open.spotify.com/track/31iIDD0Np4zBqnk5xVXSgf"
-    },
-    {
-      "added_at": "2023-07-20 15:41:20",
-      "album": {
         "name": "Born In A Storm",
         "url": "https://open.spotify.com/album/7i7i0cvJwTsw1ILF6Gy5Lt"
       },
@@ -2235,6 +2219,22 @@
       "duration_ms": 146426,
       "name": "You Don't Have To Stay",
       "url": "https://open.spotify.com/track/2Kt8OMRNO40i42Cxf2KO4H"
+    },
+    {
+      "added_at": "2023-07-20 15:41:20",
+      "album": {
+        "name": "Beauty Is A Mess",
+        "url": "https://open.spotify.com/album/56G0aPRr7G9paEbEGFlola"
+      },
+      "artists": [
+        {
+          "name": "Haris",
+          "url": "https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki"
+        }
+      ],
+      "duration_ms": 184360,
+      "name": "Fall Apart",
+      "url": "https://open.spotify.com/track/31iIDD0Np4zBqnk5xVXSgf"
     },
     {
       "added_at": "2023-07-20 15:41:20",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2023-07-20 15:41:20",
       "album": {
-        "name": "Sanctuary",
-        "url": "https://open.spotify.com/album/4zlJk4dH9eE5wQGOrKvKhs"
-      },
-      "artists": [
-        {
-          "name": "Simon Webbe",
-          "url": "https://open.spotify.com/artist/3P6nMEGXn0hzBlMndKfLQH"
-        }
-      ],
-      "duration_ms": 209655,
-      "name": "No Worries",
-      "url": "https://open.spotify.com/track/0Q95QAw0HKaykvMZA3tMOb"
-    },
-    {
-      "added_at": "2023-07-20 15:41:20",
-      "album": {
         "name": "Hamel",
         "url": "https://open.spotify.com/album/3nBmAlu9hp91II2wl8LvWm"
       },
@@ -2399,6 +2383,22 @@
       "duration_ms": 239106,
       "name": "Breezy",
       "url": "https://open.spotify.com/track/3BsV7QKK1mmN1TN8ItZJCj"
+    },
+    {
+      "added_at": "2023-07-20 15:41:20",
+      "album": {
+        "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/4zlJk4dH9eE5wQGOrKvKhs"
+      },
+      "artists": [
+        {
+          "name": "Simon Webbe",
+          "url": "https://open.spotify.com/artist/3P6nMEGXn0hzBlMndKfLQH"
+        }
+      ],
+      "duration_ms": 209655,
+      "name": "No Worries",
+      "url": "https://open.spotify.com/track/0Q95QAw0HKaykvMZA3tMOb"
     },
     {
       "added_at": "2023-07-20 15:41:20",
@@ -2519,22 +2519,6 @@
     {
       "added_at": "2023-07-20 15:41:20",
       "album": {
-        "name": "Meet You In The Middle",
-        "url": "https://open.spotify.com/album/2UWD7JfYUKklHrdaVN5xGV"
-      },
-      "artists": [
-        {
-          "name": "Orange Skyline",
-          "url": "https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx"
-        }
-      ],
-      "duration_ms": 210760,
-      "name": "Meet You In The Middle",
-      "url": "https://open.spotify.com/track/7KNfqyUKqkIkhHV4Xo5g6K"
-    },
-    {
-      "added_at": "2023-07-20 15:41:20",
-      "album": {
         "name": "Breaking Away (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4JwM6rGlSRICnJk0NRgK9o"
       },
@@ -2547,6 +2531,22 @@
       "duration_ms": 216533,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/3tn88WWmoGXnFelINCXRRw"
+    },
+    {
+      "added_at": "2023-07-20 15:41:20",
+      "album": {
+        "name": "Meet You In The Middle",
+        "url": "https://open.spotify.com/album/2UWD7JfYUKklHrdaVN5xGV"
+      },
+      "artists": [
+        {
+          "name": "Orange Skyline",
+          "url": "https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx"
+        }
+      ],
+      "duration_ms": 210760,
+      "name": "Meet You In The Middle",
+      "url": "https://open.spotify.com/track/7KNfqyUKqkIkhHV4Xo5g6K"
     },
     {
       "added_at": "2023-07-20 15:41:20",
@@ -2615,22 +2615,6 @@
     {
       "added_at": "2023-07-20 15:41:20",
       "album": {
-        "name": "DON.T (Acoustic)",
-        "url": "https://open.spotify.com/album/0EJ0RlKKyvYpMrBEI6ljL7"
-      },
-      "artists": [
-        {
-          "name": "MAXINE",
-          "url": "https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz"
-        }
-      ],
-      "duration_ms": 180859,
-      "name": "DON.T - Acoustic",
-      "url": "https://open.spotify.com/track/0QPLRjYAirGsBwWGXDAh1i"
-    },
-    {
-      "added_at": "2023-07-20 15:41:20",
-      "album": {
         "name": "In The Cold Light of Monday",
         "url": "https://open.spotify.com/album/4dcllgpFwPz84zxxv0sC4i"
       },
@@ -2643,6 +2627,22 @@
       "duration_ms": 227666,
       "name": "Word's Out",
       "url": "https://open.spotify.com/track/5hfI4QZTb4KgGO358YWh6J"
+    },
+    {
+      "added_at": "2023-07-20 15:41:20",
+      "album": {
+        "name": "DON.T (Acoustic)",
+        "url": "https://open.spotify.com/album/0EJ0RlKKyvYpMrBEI6ljL7"
+      },
+      "artists": [
+        {
+          "name": "MAXINE",
+          "url": "https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz"
+        }
+      ],
+      "duration_ms": 180859,
+      "name": "DON.T - Acoustic",
+      "url": "https://open.spotify.com/track/0QPLRjYAirGsBwWGXDAh1i"
     },
     {
       "added_at": "2023-07-20 15:41:20",
@@ -2751,6 +2751,22 @@
     {
       "added_at": "2023-07-20 15:41:20",
       "album": {
+        "name": "New Tattoo",
+        "url": "https://open.spotify.com/album/6YpgMfuRYkPRkgAFij0zK2"
+      },
+      "artists": [
+        {
+          "name": "Brian Dunne",
+          "url": "https://open.spotify.com/artist/3OAxV7SBURDucfRHHQlJ2V"
+        }
+      ],
+      "duration_ms": 211540,
+      "name": "New Tattoo",
+      "url": "https://open.spotify.com/track/0VDKufeuah4nkAPpIdVxz8"
+    },
+    {
+      "added_at": "2023-07-20 15:41:20",
+      "album": {
         "name": "Great Big World",
         "url": "https://open.spotify.com/album/522Og7vcXvS4BI6PKAazYm"
       },
@@ -2775,22 +2791,6 @@
       "duration_ms": 189973,
       "name": "Nothing's Ever Good Enough (feat. Lorr\u00e8n)",
       "url": "https://open.spotify.com/track/0WAuQsfiajy1TuxLuRbWM0"
-    },
-    {
-      "added_at": "2023-07-20 15:41:20",
-      "album": {
-        "name": "New Tattoo",
-        "url": "https://open.spotify.com/album/6YpgMfuRYkPRkgAFij0zK2"
-      },
-      "artists": [
-        {
-          "name": "Brian Dunne",
-          "url": "https://open.spotify.com/artist/3OAxV7SBURDucfRHHQlJ2V"
-        }
-      ],
-      "duration_ms": 211540,
-      "name": "New Tattoo",
-      "url": "https://open.spotify.com/track/0VDKufeuah4nkAPpIdVxz8"
     },
     {
       "added_at": "2023-07-20 15:41:20",
@@ -2859,22 +2859,6 @@
     {
       "added_at": "2023-07-20 15:41:20",
       "album": {
-        "name": "How Would It Feel",
-        "url": "https://open.spotify.com/album/3ZGIUHyrzEsvkE6e6OQAOd"
-      },
-      "artists": [
-        {
-          "name": "Nambyar",
-          "url": "https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9"
-        }
-      ],
-      "duration_ms": 196240,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/52jbePNbsAq0jYQThjKI9y"
-    },
-    {
-      "added_at": "2023-07-20 15:41:20",
-      "album": {
         "name": "Actually, I Can.",
         "url": "https://open.spotify.com/album/0L0JffGJcm2ybbDcd6BJmO"
       },
@@ -2887,6 +2871,22 @@
       "duration_ms": 186838,
       "name": "Lost In You",
       "url": "https://open.spotify.com/track/7ACj74w6uo8Zi2TYZXWk9m"
+    },
+    {
+      "added_at": "2023-07-20 15:41:20",
+      "album": {
+        "name": "How Would It Feel",
+        "url": "https://open.spotify.com/album/3ZGIUHyrzEsvkE6e6OQAOd"
+      },
+      "artists": [
+        {
+          "name": "Nambyar",
+          "url": "https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9"
+        }
+      ],
+      "duration_ms": 196240,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/52jbePNbsAq0jYQThjKI9y"
     },
     {
       "added_at": "2023-07-20 15:41:20",
@@ -2975,22 +2975,6 @@
     {
       "added_at": "2023-07-20 15:41:20",
       "album": {
-        "name": "Hands That I Drew",
-        "url": "https://open.spotify.com/album/5g5i8YVNFQu8SyQPjLTAFZ"
-      },
-      "artists": [
-        {
-          "name": "David Benjamin",
-          "url": "https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW"
-        }
-      ],
-      "duration_ms": 267706,
-      "name": "Hands That I Drew",
-      "url": "https://open.spotify.com/track/0Bf2bX4w9pWz2HGWEZFtjT"
-    },
-    {
-      "added_at": "2023-07-20 15:41:20",
-      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/0ASbLMBmRueltuW4UX2j3A"
       },
@@ -3003,6 +2987,22 @@
       "duration_ms": 212334,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/004ahAHS641tMDChzRvJPj"
+    },
+    {
+      "added_at": "2023-07-20 15:41:20",
+      "album": {
+        "name": "Hands That I Drew",
+        "url": "https://open.spotify.com/album/5g5i8YVNFQu8SyQPjLTAFZ"
+      },
+      "artists": [
+        {
+          "name": "David Benjamin",
+          "url": "https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW"
+        }
+      ],
+      "duration_ms": 267706,
+      "name": "Hands That I Drew",
+      "url": "https://open.spotify.com/track/0Bf2bX4w9pWz2HGWEZFtjT"
     },
     {
       "added_at": "2023-07-20 15:41:20",
@@ -3155,18 +3155,18 @@
     {
       "added_at": "2023-07-20 15:41:20",
       "album": {
-        "name": "Lay Your Weapons Down (Acoustic)",
-        "url": "https://open.spotify.com/album/71nqwuPOUHmVNcrjjkRx9m"
+        "name": "When Summer Ends",
+        "url": "https://open.spotify.com/album/2zzEOdJdCLGPdtd6wsuzlk"
       },
       "artists": [
         {
-          "name": "Ilse DeLange",
-          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
+          "name": "Makelove",
+          "url": "https://open.spotify.com/artist/2BkUVGLsgklRhOsWt4VRKY"
         }
       ],
-      "duration_ms": 205108,
-      "name": "Lay Your Weapons Down - Acoustic",
-      "url": "https://open.spotify.com/track/4b2kDKZCGdWEVrWTwC4uUv"
+      "duration_ms": 211385,
+      "name": "When Summer Ends",
+      "url": "https://open.spotify.com/track/3XvYvC2W5N9kKuiORxekSk"
     },
     {
       "added_at": "2023-07-20 15:41:20",
@@ -3187,18 +3187,18 @@
     {
       "added_at": "2023-07-20 15:41:20",
       "album": {
-        "name": "When Summer Ends",
-        "url": "https://open.spotify.com/album/2zzEOdJdCLGPdtd6wsuzlk"
+        "name": "Lay Your Weapons Down (Acoustic)",
+        "url": "https://open.spotify.com/album/71nqwuPOUHmVNcrjjkRx9m"
       },
       "artists": [
         {
-          "name": "Makelove",
-          "url": "https://open.spotify.com/artist/2BkUVGLsgklRhOsWt4VRKY"
+          "name": "Ilse DeLange",
+          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
         }
       ],
-      "duration_ms": 211385,
-      "name": "When Summer Ends",
-      "url": "https://open.spotify.com/track/3XvYvC2W5N9kKuiORxekSk"
+      "duration_ms": 205108,
+      "name": "Lay Your Weapons Down - Acoustic",
+      "url": "https://open.spotify.com/track/4b2kDKZCGdWEVrWTwC4uUv"
     },
     {
       "added_at": "2023-07-20 15:41:20",
@@ -3355,22 +3355,6 @@
     {
       "added_at": "2023-07-20 15:41:20",
       "album": {
-        "name": "Icarus & The Sun",
-        "url": "https://open.spotify.com/album/7hhml09yFIN79J7iL9uPba"
-      },
-      "artists": [
-        {
-          "name": "Neil Hollyn",
-          "url": "https://open.spotify.com/artist/3xwOjGQV5Pblxa9thjh6w0"
-        }
-      ],
-      "duration_ms": 188204,
-      "name": "Icarus & The Sun",
-      "url": "https://open.spotify.com/track/7KxupcqvShlinKyVDAwNtd"
-    },
-    {
-      "added_at": "2023-07-20 15:41:20",
-      "album": {
         "name": "Up",
         "url": "https://open.spotify.com/album/7uph023JDesQSKkfu4ZqkG"
       },
@@ -3383,6 +3367,22 @@
       "duration_ms": 251230,
       "name": "Up",
       "url": "https://open.spotify.com/track/3SgcV6VhXJ5y0c6cOXAnkM"
+    },
+    {
+      "added_at": "2023-07-20 15:41:20",
+      "album": {
+        "name": "Icarus & The Sun",
+        "url": "https://open.spotify.com/album/7hhml09yFIN79J7iL9uPba"
+      },
+      "artists": [
+        {
+          "name": "Neil Hollyn",
+          "url": "https://open.spotify.com/artist/3xwOjGQV5Pblxa9thjh6w0"
+        }
+      ],
+      "duration_ms": 188204,
+      "name": "Icarus & The Sun",
+      "url": "https://open.spotify.com/track/7KxupcqvShlinKyVDAwNtd"
     },
     {
       "added_at": "2023-07-20 15:41:20",
@@ -3719,22 +3719,6 @@
     {
       "added_at": "2023-07-20 15:41:20",
       "album": {
-        "name": "ROND\u00c9",
-        "url": "https://open.spotify.com/album/7oQWTdzb0SHFhWp5cZZvZv"
-      },
-      "artists": [
-        {
-          "name": "ROND\u00c9",
-          "url": "https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr"
-        }
-      ],
-      "duration_ms": 216544,
-      "name": "Why Do You Care",
-      "url": "https://open.spotify.com/track/4miesggrLA9agA9lusKhV9"
-    },
-    {
-      "added_at": "2023-07-20 15:41:20",
-      "album": {
         "name": "Selfish Ways (Acoustic)",
         "url": "https://open.spotify.com/album/1F4rojYzrIQvsD6xNU1dTC"
       },
@@ -3747,6 +3731,22 @@
       "duration_ms": 160063,
       "name": "Selfish Ways - Acoustic",
       "url": "https://open.spotify.com/track/1nnNyDxDuSW88AP2oh4pQp"
+    },
+    {
+      "added_at": "2023-07-20 15:41:20",
+      "album": {
+        "name": "ROND\u00c9",
+        "url": "https://open.spotify.com/album/7oQWTdzb0SHFhWp5cZZvZv"
+      },
+      "artists": [
+        {
+          "name": "ROND\u00c9",
+          "url": "https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr"
+        }
+      ],
+      "duration_ms": 216544,
+      "name": "Why Do You Care",
+      "url": "https://open.spotify.com/track/4miesggrLA9agA9lusKhV9"
     },
     {
       "added_at": "2023-07-20 15:41:20",
@@ -3815,22 +3815,6 @@
     {
       "added_at": "2023-07-20 15:41:20",
       "album": {
-        "name": "Summer Hits 2011",
-        "url": "https://open.spotify.com/album/0ZyAIkXXHhQZw8uW0A1hyh"
-      },
-      "artists": [
-        {
-          "name": "DI-RECT",
-          "url": "https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q"
-        }
-      ],
-      "duration_ms": 235403,
-      "name": "Young Ones",
-      "url": "https://open.spotify.com/track/1p5rkJjrlNhewXpCNuNwfl"
-    },
-    {
-      "added_at": "2023-07-20 15:41:20",
-      "album": {
         "name": "My Baby Left Me",
         "url": "https://open.spotify.com/album/6m5aYJEffiAF6AnSIdpyPT"
       },
@@ -3843,6 +3827,22 @@
       "duration_ms": 213466,
       "name": "My Baby Left Me",
       "url": "https://open.spotify.com/track/2Pz0nvk2bpxZSfoBFdiZuc"
+    },
+    {
+      "added_at": "2023-07-20 15:41:20",
+      "album": {
+        "name": "Summer Hits 2011",
+        "url": "https://open.spotify.com/album/0ZyAIkXXHhQZw8uW0A1hyh"
+      },
+      "artists": [
+        {
+          "name": "DI-RECT",
+          "url": "https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q"
+        }
+      ],
+      "duration_ms": 235403,
+      "name": "Young Ones",
+      "url": "https://open.spotify.com/track/1p5rkJjrlNhewXpCNuNwfl"
     },
     {
       "added_at": "2023-07-20 15:41:20",
@@ -3863,22 +3863,6 @@
     {
       "added_at": "2023-07-20 15:41:20",
       "album": {
-        "name": "Elba",
-        "url": "https://open.spotify.com/album/5C2h4RDpIKiuRFchSy9oeZ"
-      },
-      "artists": [
-        {
-          "name": "Laura Jansen",
-          "url": "https://open.spotify.com/artist/1Ecagb1V0oVlO0pFKnhYWM"
-        }
-      ],
-      "duration_ms": 236981,
-      "name": "Queen of Elba",
-      "url": "https://open.spotify.com/track/1e402nE03yvaw6YFruqc25"
-    },
-    {
-      "added_at": "2023-07-20 15:41:20",
-      "album": {
         "name": "The Light",
         "url": "https://open.spotify.com/album/5YFH2ZhzYhWltkgmMd1mmU"
       },
@@ -3891,6 +3875,22 @@
       "duration_ms": 217944,
       "name": "The Light",
       "url": "https://open.spotify.com/track/7hz3BdldMUmj81yy2JjYaj"
+    },
+    {
+      "added_at": "2023-07-20 15:41:20",
+      "album": {
+        "name": "Elba",
+        "url": "https://open.spotify.com/album/5C2h4RDpIKiuRFchSy9oeZ"
+      },
+      "artists": [
+        {
+          "name": "Laura Jansen",
+          "url": "https://open.spotify.com/artist/1Ecagb1V0oVlO0pFKnhYWM"
+        }
+      ],
+      "duration_ms": 236981,
+      "name": "Queen of Elba",
+      "url": "https://open.spotify.com/track/1e402nE03yvaw6YFruqc25"
     },
     {
       "added_at": "2023-07-20 15:41:20",

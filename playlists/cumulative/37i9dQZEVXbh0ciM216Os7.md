@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-510 songs - 1 day 9 hr 53 min
+511 songs - 1 day 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -431,11 +431,12 @@
 | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/track/28a0aMV1OKoyNiCJuNsWrY) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/album/67IEDkeGYxOvS2RvcarzrT) | 2:45 | 2023-04-14 | 2023-04-22 |
 | [The Abyss](https://open.spotify.com/track/26wx3uhieXjiQtsvZjCf6f) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu), [JT Cavey](https://open.spotify.com/artist/61VGyKqHM3JViWq8oZE33N) | [Death Below](https://open.spotify.com/album/7sgJqz584wJNJfJaC7S88U) | 4:34 | 2023-03-24 | 2023-04-09 |
 | [The Abyss](https://open.spotify.com/track/45nldnip792IjCInuYENor) | [KNOWER](https://open.spotify.com/artist/7fVp0A6oCMfiQJihMnY0SZ) | [The Abyss](https://open.spotify.com/album/6by0mpt9n2zI3575AUxH0T) | 3:02 | 2023-05-19 | 2023-06-03 |
-| [The Bernie Poop Song](https://open.spotify.com/track/0r7LmGuZoO3K61F2UiFz1X) | [The Odd Man Who Sings About Poop, Puke and Pee](https://open.spotify.com/artist/7zM4smYl6oC7yMLzfpK7I4) | [Superb Name Poop Songs](https://open.spotify.com/album/3diYB1toXMSCOuKivz7zId) | 1:33 | 2023-08-04 |  |
+| [The Bernie Poop Song](https://open.spotify.com/track/0r7LmGuZoO3K61F2UiFz1X) | [The Odd Man Who Sings About Poop, Puke and Pee](https://open.spotify.com/artist/7zM4smYl6oC7yMLzfpK7I4) | [Superb Name Poop Songs](https://open.spotify.com/album/3diYB1toXMSCOuKivz7zId) | 1:33 | 2023-08-04 | 2023-08-10 |
 | [The Cleansing](https://open.spotify.com/track/3Ma0TI2DDjuZtrH2IvYt7D) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Death Below](https://open.spotify.com/album/7sgJqz584wJNJfJaC7S88U) | 7:47 | 2023-04-07 | 2023-04-14 |
 | [The End \(feat\. BABYMETAL\)](https://open.spotify.com/track/0zo2U7fmDP9mu0JpSGlOun) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [The End \(feat\. BABYMETAL\)](https://open.spotify.com/album/6fwby6V70isfpvy9qVWDTa) | 3:07 | 2023-07-14 | 2023-07-22 |
 | [The Esther Poop Song](https://open.spotify.com/track/0aGvAG3QJtkcEMJPlqNDv9) | [The Odd Man Who Sings About Poop, Puke and Pee](https://open.spotify.com/artist/7zM4smYl6oC7yMLzfpK7I4) | [Superb Name Poop Songs](https://open.spotify.com/album/3diYB1toXMSCOuKivz7zId) | 1:54 | 2023-08-04 | 2023-08-09 |
 | [The Falling Sky](https://open.spotify.com/track/22MaTYGutS36j4KOXfqvQn) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [The Falling Sky](https://open.spotify.com/album/3YCJJtpStsr9BbwmgF31qq) | 3:38 | 2023-06-30 | 2023-07-08 |
+| [The Fraoch Poop Song](https://open.spotify.com/track/0u7gTrejb9nKFyn4YIAWAH) | [The Odd Man Who Sings About Poop, Puke and Pee](https://open.spotify.com/artist/7zM4smYl6oC7yMLzfpK7I4) | [Superb Name Poop Songs](https://open.spotify.com/album/3diYB1toXMSCOuKivz7zId) | 1:42 | 2023-08-04 |  |
 | [The Glass](https://open.spotify.com/track/26iWAXoJRiUv9yYzxYBqSv) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 3:49 | 2023-06-02 | 2023-07-02 |
 | [The Good ,Bad, and Ugly](https://open.spotify.com/track/1bCTelTgpZc6cwtwInOYNR) | [WRECKONE](https://open.spotify.com/artist/2K7ZyhxV7cMwxhGcc5Ggpm), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Masta Killa](https://open.spotify.com/artist/0ME1RawvWt3qOJnYnxVqeh), [JHONNY BLAZE](https://open.spotify.com/artist/7MnDyEj0KzJMMCDwOcaD63) | [The Good ,Bad, and Ugly](https://open.spotify.com/album/30lOKgtPxubo3RAmPDbGU0) | 1:57 | 2023-02-17 | 2023-03-11 |
 | [The Grouch \- Demo](https://open.spotify.com/track/4eeRBEPxzI07bjK1cWg8sS) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod \(25th Anniversary Edition\)](https://open.spotify.com/album/4R802IhlcVX7z3m7xyp7zC) | 2:09 | 2023-02-10 | 2023-02-26 |

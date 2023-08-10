@@ -3210,7 +3210,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-09",
+      "date_removed": null,
       "duration_ms": 118194,
       "name": "BRAZILIAN DAN\u00c7A PHONK",
       "url": "https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF"
@@ -4926,7 +4926,7 @@
       ],
       "date_added": "2023-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 243773,
       "name": "Cupid's Chokehold / Breakfast in America",
       "url": "https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK"
@@ -12758,10 +12758,28 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 194484,
       "name": "Me Encanta",
       "url": "https://open.spotify.com/track/5dTguvrgP5Jinz0f5c1HSV"
+    },
+    {
+      "album": {
+        "name": "Me Encanta",
+        "url": "https://open.spotify.com/album/6JzoPdxs6QTBInrDO6qPGD"
+      },
+      "artists": [
+        {
+          "name": "Filtrating",
+          "url": "https://open.spotify.com/artist/1nQSQ5Qyh7ETeJ7GuLwnCS"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195082,
+      "name": "Me Encanta",
+      "url": "https://open.spotify.com/track/4I9rnvKZAQXGph5PGxLcwX"
     },
     {
       "album": {

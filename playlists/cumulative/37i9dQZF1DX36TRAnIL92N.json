@@ -273,6 +273,24 @@
     },
     {
       "album": {
+        "name": "Be a Human",
+        "url": "https://open.spotify.com/album/3s11NDJr64QILeC3PLEoPR"
+      },
+      "artists": [
+        {
+          "name": "Anahit Vardanyan",
+          "url": "https://open.spotify.com/artist/3B0Z2WunAUciyiCc3DsnAa"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422004,
+      "name": "Be a Human",
+      "url": "https://open.spotify.com/track/6kJ9Bl0rey8TfxzuuTFhlM"
+    },
+    {
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N"
       },
@@ -618,7 +636,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 220488,
       "name": "Deep Down",
       "url": "https://open.spotify.com/track/2gyh8uqnB5jkZQT9norbkW"
@@ -908,7 +926,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 348444,
       "name": "Experience",
       "url": "https://open.spotify.com/track/6ewzsniysRplwdDRA7eNdn"
@@ -1140,7 +1158,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 392008,
       "name": "Hercules",
       "url": "https://open.spotify.com/track/56fFmIpNTFTcQSrfCNxeyu"
@@ -1542,10 +1560,28 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 366038,
       "name": "Lonely Traveller",
       "url": "https://open.spotify.com/track/2tfiF1GUsv0z78VraiNU5A"
+    },
+    {
+      "album": {
+        "name": "Love Is Free",
+        "url": "https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172563,
+      "name": "Love Is Free",
+      "url": "https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc"
     },
     {
       "album": {
@@ -1691,6 +1727,32 @@
     },
     {
       "album": {
+        "name": "Mirror Mirror",
+        "url": "https://open.spotify.com/album/4H7KW5AaytIv42LdVTzWKw"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247272,
+      "name": "Mirror Mirror",
+      "url": "https://open.spotify.com/track/0Q3Pb5gMzpFKjIWs9s0inL"
+    },
+    {
+      "album": {
         "name": "Mood",
         "url": "https://open.spotify.com/album/7xbfEwjgUoecDW97keuwbT"
       },
@@ -1810,7 +1872,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 183649,
       "name": "Never Forget",
       "url": "https://open.spotify.com/track/4qq3PGw2BJWBtdTUVwLQkd"
@@ -2625,6 +2687,28 @@
     },
     {
       "album": {
+        "name": "The Abyss",
+        "url": "https://open.spotify.com/album/2qqXh9MaZzgaGfw4PCGtOS"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438750,
+      "name": "The Abyss",
+      "url": "https://open.spotify.com/track/6YUnruRH7cz1pe1YruJrdR"
+    },
+    {
+      "album": {
         "name": "The Age Of Love (Charlotte de Witte & Enrico Sangiuliano Remix) [Charlotte de Witte & Enrico Sangiuliano Remix - Edit]",
         "url": "https://open.spotify.com/album/7CXTNkULXDTd2oHt4S9dp7"
       },
@@ -2717,6 +2801,28 @@
     },
     {
       "album": {
+        "name": "The Cut",
+        "url": "https://open.spotify.com/album/22ylo1GK1Sgr5RPSKYqlFl"
+      },
+      "artists": [
+        {
+          "name": "Slin Bourgh",
+          "url": "https://open.spotify.com/artist/6Okn2ApUQv56TnYTOhCidM"
+        },
+        {
+          "name": "Julien Riess",
+          "url": "https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358617,
+      "name": "The Cut",
+      "url": "https://open.spotify.com/track/5GRWCsi6QkL6n2dsYIxfyo"
+    },
+    {
+      "album": {
         "name": "The Door",
         "url": "https://open.spotify.com/album/66aDv1U1CYdiipT7fS4Z17"
       },
@@ -2772,6 +2878,28 @@
       "duration_ms": 380625,
       "name": "The Second Law of Thermodynamics",
       "url": "https://open.spotify.com/track/6RLQjhD5qpNkFbh3zd7KyK"
+    },
+    {
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/2uDgmgef8WIKFJuzR1RnDg"
+      },
+      "artists": [
+        {
+          "name": "Patrick Scuro",
+          "url": "https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB"
+        },
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/20QjNItuQEZvwXnIy5Va37"
     },
     {
       "album": {
@@ -2924,7 +3052,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 184888,
       "name": "Twisted",
       "url": "https://open.spotify.com/track/2hVKyTO50HPKfVmFas7Fcm"
@@ -3000,6 +3128,24 @@
       "duration_ms": 384545,
       "name": "Usp",
       "url": "https://open.spotify.com/track/0hvQ5NMd7h7BrGr4lAVn3Z"
+    },
+    {
+      "album": {
+        "name": "Veritas",
+        "url": "https://open.spotify.com/album/7fKwFEf1MWzZN6kpuCBPGj"
+      },
+      "artists": [
+        {
+          "name": "Jay Lumen",
+          "url": "https://open.spotify.com/artist/6rxmj7vNEofe96g84qMWoV"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426000,
+      "name": "Veritas",
+      "url": "https://open.spotify.com/track/6KVUpPL8NJSDHt6OYAi2A8"
     },
     {
       "album": {
@@ -3092,7 +3238,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 244615,
       "name": "We All Unite",
       "url": "https://open.spotify.com/track/3RuegyAnJON9JSi916xbQY"

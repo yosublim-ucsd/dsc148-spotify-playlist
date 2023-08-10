@@ -1,12 +1,12 @@
 {
   "description": "Have a fantastic road trip with upbeat songs from your favorite Christian artists!",
-  "num_followers": 88985,
+  "num_followers": 89254,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmJjYjA4MWE1YjlmMGY3ZjViODBkMGEzYzhlMTY2YWU4OGUzNzg0",
+  "snapshot_id": "MCxjYjEyZjNjMzA4NmYwMmUzOWIwMDAxMzQ2M2NhY2VhZGZjMDg0ZmMy",
   "tracks": [
     {
       "added_at": "2023-02-07 17:43:16",
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/5bzKE2XzZchn40hTnpa2bu"
+      },
+      "artists": [
+        {
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+        }
+      ],
+      "duration_ms": 281160,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/0tHv0wC2xV5j7r4e2dxwuW"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
         "name": "Fill This Place (Live)",
         "url": "https://open.spotify.com/album/16CdyumvxDomk04TnJZYe7"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 248854,
       "name": "I'm Listening - Radio Version",
       "url": "https://open.spotify.com/track/5ExBj7cdyNLZ1t5PalfPWa"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
-        "name": "Glory",
-        "url": "https://open.spotify.com/album/5bzKE2XzZchn40hTnpa2bu"
-      },
-      "artists": [
-        {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
-        }
-      ],
-      "duration_ms": 281160,
-      "name": "Glory",
-      "url": "https://open.spotify.com/track/0tHv0wC2xV5j7r4e2dxwuW"
     },
     {
       "added_at": "2023-02-07 17:43:16",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 
 > Filthy bass bangers to soundtrack your sesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,310 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,422 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 45 | [Loca](https://open.spotify.com/track/04ttAGx5UtdhWyhkiOa5Ls) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Loca](https://open.spotify.com/album/0WVC6CKv5i5Hh3OWqXlat8) | 2:14 |
 | 46 | [Voodoo People \- Pendulum Mix](https://open.spotify.com/track/7C0PzxbsQx59DgGVRsquwJ) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB), [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Their Law The Singles 1990 \- 2005](https://open.spotify.com/album/0aZZ90ZakcGFzFiBMKHrCy) | 5:07 |
 | 47 | [Talk To Me](https://open.spotify.com/track/7rPaFoaK4CjcFujFhIWMcO) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Talk To Me](https://open.spotify.com/album/2GcGH4Ad6HLvI8Vr1Pu54K) | 4:26 |
-| 48 | [Party All the Time \(feat\. Kay\)](https://open.spotify.com/track/7xN6f50e0ZdiDehWaVFeZ2) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry) | [Party All the Time \(feat\. Kay\)](https://open.spotify.com/album/026MiiWON7Aei7MKzxCKGC) | 4:26 |
-| 49 | [Shut It Down](https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [Shut It Down](https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B) | 2:58 |
+| 48 | [Shut It Down](https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [Shut It Down](https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B) | 2:58 |
+| 49 | [Party All the Time \(feat\. Kay\)](https://open.spotify.com/track/7xN6f50e0ZdiDehWaVFeZ2) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry) | [Party All the Time \(feat\. Kay\)](https://open.spotify.com/album/026MiiWON7Aei7MKzxCKGC) | 4:26 |
 | 50 | [Want You](https://open.spotify.com/track/3QRE0rMSiI6ceS0ZOxFblB) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Want You](https://open.spotify.com/album/1gwNOFmeMRGzIj2752iJEB) | 4:07 |
 | 51 | [Downers \- Rework](https://open.spotify.com/track/3ZHw4fR70ep2fjqa14RcBi) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Downers \(Rework\)](https://open.spotify.com/album/6wLqsCijGoDRJ1RZYSPqCk) | 3:01 |
 | 52 | [Through It All \- Hedex Remix](https://open.spotify.com/track/5ts712TiZXqdbbkef0mRrI) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t) | [Through It All \(Hedex Remix\)](https://open.spotify.com/album/3g9yPWc8yVPueR4Zk1LPot) | 3:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 74 | [Mash up the Dance \- Kings of the Rollers Remix](https://open.spotify.com/track/3hHgU7QO5ev5R6FZVsPsJZ) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ), [Kings Of The Rollers](https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP) | [Mash up the Dance \(Kings of the Rollers Remix\)](https://open.spotify.com/album/6FS0y1f1pL45RPIWr6kYl0) | 2:57 |
 | 75 | [Deep Blue](https://open.spotify.com/track/1GbOfnbGSjk8d1K5dlXCzX) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Gracie Van Brunt](https://open.spotify.com/artist/61ehajEjCepvX1LehNWtKt) | [Deep Blue](https://open.spotify.com/album/0U1KpiK53T1hSfAKhZC6dS) | 3:35 |
 
-Snapshot ID: `MCxmMjM4YWUwMzkxYzNlZWFkYjQwZDhlNjA5ZmRiY2QxYjc3N2QzMTQw`
+Snapshot ID: `MCw4ZTRjM2NjMWI1ZmJkYWFlMmZjYzllZGMwYWRkNDA3MTJkYWUzZDc0`

@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: First Love is Never Returned
 
-1,004 songs - 2 day 13 hr 46 min
+1,005 songs - 2 day 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Bakemono no Hanashi](https://open.spotify.com/track/4RMXwdVJ4rNwsXravMnTxk) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [Bakemono no Hanashi](https://open.spotify.com/album/4ZBKVAEsiMwctHwoaU1qaj) | 3:25 | 2022-11-30 | 2023-02-15 |
 | [Ball](https://open.spotify.com/track/0AXda5pFbkZJGPEZk5VJud) | [Nagakumo](https://open.spotify.com/artist/3iT7qp7T00Ot50wtDct8gw) | [Ball](https://open.spotify.com/album/1NFiOAGqdZdMfuG1uWeGtP) | 3:53 | 2023-07-11 |  |
 | [Bankroll](https://open.spotify.com/track/1SPqbcSQ1YwORDxbZCouco) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [Bankroll](https://open.spotify.com/album/3C5ywR5fla0iOLyoyBXqKj) | 2:44 | 2022-09-13 | 2022-10-05 |
-| [basement](https://open.spotify.com/track/3MIc6RMb83SodnfE7T5XNU) | [ANORAK!](https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI) | [ANORAK! / DIMWORK Split](https://open.spotify.com/album/104w26GFWkYQErMzsQ8ISZ) | 1:48 | 2023-08-08 |  |
+| [basement](https://open.spotify.com/track/3MIc6RMb83SodnfE7T5XNU) | [ANORAK!](https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI) | [ANORAK! / DIMWORK](https://open.spotify.com/album/104w26GFWkYQErMzsQ8ISZ) | 1:48 | 2023-08-08 |  |
 | [BASH BASH \- feat\. JP THE WAVY & Awich](https://open.spotify.com/track/3du1NqFvvqJhqzssK5GPAB) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [19](https://open.spotify.com/album/284soVdmAHfn5XhcDqSgbm) | 3:07 | 2023-07-25 |  |
 | [because](https://open.spotify.com/track/1IHIdlAm1CyHp9uUrPkYPW) | [キズナ](https://open.spotify.com/artist/3ivoNDU9tOTa2R7XqiIFFk) | [because](https://open.spotify.com/album/3plPzN3X1JvuC9FENL0my9) | 3:36 | 2022-08-02 | 2022-08-26 |
 | [BETTY](https://open.spotify.com/track/1sZMEQ5l9HCmasdqtxd5hY) | [Takumadrops](https://open.spotify.com/artist/469no6YyPirEUGHqqqyINS) | [BETTY](https://open.spotify.com/album/2R4WxFjANEHlSQ1X3abj6N) | 4:19 | 2023-06-29 | 2023-08-09 |
@@ -423,6 +423,7 @@
 | [REACH!](https://open.spotify.com/track/3sVZBZLf3JfnTCHeuX0KeK) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [REACH!](https://open.spotify.com/album/0O6N7EfLklBJ6o4y2J7xb7) | 3:39 | 2022-10-11 | 2023-02-15 |
 | [REAL U](https://open.spotify.com/track/2JypeIwdyi8h4nPDQW37XZ) | [藤田織也](https://open.spotify.com/artist/1gjcLvf9YDsoMiLWQT6spd) | [REAL U](https://open.spotify.com/album/1SkiWJuQFETQaarWcCZTqh) | 3:33 | 2022-07-28 | 2022-10-05 |
 | [Recently](https://open.spotify.com/track/5aq0yvoWqGVusrOr8HDtsf) | [ORCALAND](https://open.spotify.com/artist/2tUNHY1YtygK9HsSboP3w8) | [Travel Notes](https://open.spotify.com/album/6SiRvL6UvQ3uw2FvYwDk8W) | 5:23 | 2022-10-25 | 2022-12-07 |
+| [Rent\-A\-Car](https://open.spotify.com/track/2VvE9W1K2cMPaRsFi7kwLv) | [Yamafutatsu](https://open.spotify.com/artist/75mN0rbQkBImvS8yohWlnP) | [Rent\-A\-Car](https://open.spotify.com/album/3715NHRrk351GtX0NhjkPv) | 3:01 | 2023-08-08 |  |
 | [resist](https://open.spotify.com/track/6khuTEUHWdsmBP0mq4OPUK) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [resist](https://open.spotify.com/album/5Ra8mfJupN7wOuDJaCAdOi) | 3:26 | 2022-12-27 | 2023-03-22 |
 | [Restart?](https://open.spotify.com/track/64INceHue7dl31QMDLLirn) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Restart?](https://open.spotify.com/album/5fdozRgnGyNfx9PQz5wu3h) | 3:24 | 2022-04-14 | 2022-07-27 |
 | [Right or Wrong](https://open.spotify.com/track/21HHgpVHb0ZSWn3lHtcErK) | [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX) | [Right or Wrong](https://open.spotify.com/album/6PobaffeeUAAjz4KJUxsnt) | 2:21 | 2022-08-18 | 2022-08-24 |
@@ -783,7 +784,7 @@
 | [ルーシー](https://open.spotify.com/track/4u2ssD8qpxwayjjghIMX4Z) | [ケプラ](https://open.spotify.com/artist/1vJQ33eLhZQw9PHiHoA8ZJ) | [ルーシー](https://open.spotify.com/album/1zkesL9M2wNq0qQJiIlOId) | 3:32 | 2023-02-21 | 2023-03-22 |
 | [ルーズ](https://open.spotify.com/track/3vflOd9bpb6s39VKACsUnf) | [一寸先闇バンド](https://open.spotify.com/artist/08KCxeR1XesZZqWkgG9Fas) | [ルーズ](https://open.spotify.com/album/12QyZull4BFTOzDbpiISdI) | 3:28 | 2022-07-12 | 2022-08-17 |
 | [レイジー](https://open.spotify.com/track/6g4uuGkIaqT1wrrH7uzEuy) | [Arakezuri](https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd) | [QUINTET](https://open.spotify.com/album/4IYmBLtPsWV9hwGIl5gvHM) | 3:43 | 2023-05-16 | 2023-05-18 |
-| [レンタカー](https://open.spotify.com/track/0eG7zHxyIo0Lk2hJBGb0NG) | [山二つ](https://open.spotify.com/artist/0VmvWJ3kETXL0UFmXYj2lB) | [レンタカー](https://open.spotify.com/album/6iNrTaMzCoWOzByqzkiZxs) | 3:01 | 2023-08-08 |  |
+| [レンタカー](https://open.spotify.com/track/0eG7zHxyIo0Lk2hJBGb0NG) | [山二つ](https://open.spotify.com/artist/0VmvWJ3kETXL0UFmXYj2lB) | [レンタカー](https://open.spotify.com/album/6iNrTaMzCoWOzByqzkiZxs) | 3:01 | 2023-08-08 | 2023-08-10 |
 | [ロックスター](https://open.spotify.com/track/52G3NGUareSbVOKplhjTeF) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ロックスター](https://open.spotify.com/album/3fR1I5UaWbiYzqNdSuEz3w) | 3:59 | 2022-12-13 | 2023-02-15 |
 | [ロマンスリフレクション](https://open.spotify.com/track/5u8cewChWsrfMN56zcQg8U) | [日和陽](https://open.spotify.com/artist/5Madixj1jo0ga1hH3NUSx9) | [ロマンスリフレクション](https://open.spotify.com/album/5hk3wGYeAttmJHoQuM0LOS) | 2:54 | 2023-04-04 | 2023-06-07 |
 | [ワンルーム](https://open.spotify.com/track/1IZjP9p8OvqJ6Niar0KIEK) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [1999](https://open.spotify.com/album/322uTZewuhwVaanjOO92Av) | 5:35 | 2022-07-26 | 2022-08-03 |

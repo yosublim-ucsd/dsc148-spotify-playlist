@@ -1,12 +1,12 @@
 {
   "description": "Tech house technicians, featuring SIDEPIECE",
-  "num_followers": 592721,
+  "num_followers": 592808,
   "original_name": "Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODVjYWVjNDE3N2I4NTFhYWZjMjUwMjdhNzcwZjI5YmM5NWM0MmIy",
+  "snapshot_id": "MCxjMjZmNzc3M2MwNzEzYzRlMDZkYWEzOWU2OGIzOTkwNmFjNGJmNjA5",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Telugu Tech",
-        "url": "https://open.spotify.com/album/4ohWdrUFHI4RKGjoXwwnav"
-      },
-      "artists": [
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        }
-      ],
-      "duration_ms": 201230,
-      "name": "Telugu Tech",
-      "url": "https://open.spotify.com/track/5XyvNxXQYEWf8654gd4zak"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Treat Myself",
         "url": "https://open.spotify.com/album/375uGcYM31zQCKtdDUFBPo"
       },
@@ -955,18 +939,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Samsara / Hangover",
-        "url": "https://open.spotify.com/album/4bgLaGD4Tx5SIKVHik3cNo"
+        "name": "Telugu Tech",
+        "url": "https://open.spotify.com/album/4ohWdrUFHI4RKGjoXwwnav"
       },
       "artists": [
         {
-          "name": "Bleu Clair",
-          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
         }
       ],
-      "duration_ms": 178616,
-      "name": "Samsara",
-      "url": "https://open.spotify.com/track/4U91micKPBG76g9oKoICVk"
+      "duration_ms": 201230,
+      "name": "Telugu Tech",
+      "url": "https://open.spotify.com/track/5XyvNxXQYEWf8654gd4zak"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -999,6 +983,22 @@
       "duration_ms": 164285,
       "name": "In The Air",
       "url": "https://open.spotify.com/track/1d6drNGnLw63kP9Bm8aQtz"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Samsara / Hangover",
+        "url": "https://open.spotify.com/album/4bgLaGD4Tx5SIKVHik3cNo"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        }
+      ],
+      "duration_ms": 178616,
+      "name": "Samsara",
+      "url": "https://open.spotify.com/track/4U91micKPBG76g9oKoICVk"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Throw Your Hands",
+        "url": "https://open.spotify.com/album/3keETtjEnJS2M0AUuNNiZw"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "duration_ms": 191408,
+      "name": "Throw Your Hands",
+      "url": "https://open.spotify.com/track/3qXzSsbqXAKdvuqQs9ngLl"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "VIP Business",
         "url": "https://open.spotify.com/album/6AO4umf1xPVZ9TE1VoO4SC"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 180465,
       "name": "VIP Business",
       "url": "https://open.spotify.com/track/6vSmzEaYNo36DyoNNq0L8M"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Throw Your Hands",
-        "url": "https://open.spotify.com/album/3keETtjEnJS2M0AUuNNiZw"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        }
-      ],
-      "duration_ms": 191408,
-      "name": "Throw Your Hands",
-      "url": "https://open.spotify.com/track/3qXzSsbqXAKdvuqQs9ngLl"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1235,6 +1235,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "I Want Your Soul (Mau P Remix)",
+        "url": "https://open.spotify.com/album/0TmEMpGtt0nhpowS8B8qj3"
+      },
+      "artists": [
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 210826,
+      "name": "I Want Your Soul - Mau P Remix",
+      "url": "https://open.spotify.com/track/0I9Bt9ds5N3NGB2vlI4wrT"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Hello",
         "url": "https://open.spotify.com/album/4qdeHa7hXVujxBUftCIgDh"
       },
@@ -1259,26 +1279,6 @@
       "duration_ms": 141692,
       "name": "Hello",
       "url": "https://open.spotify.com/track/4Sl7FLTwgrbbBaGYEEJ9ee"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "I Want Your Soul (Mau P Remix)",
-        "url": "https://open.spotify.com/album/0TmEMpGtt0nhpowS8B8qj3"
-      },
-      "artists": [
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        },
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 210826,
-      "name": "I Want Your Soul - Mau P Remix",
-      "url": "https://open.spotify.com/track/0I9Bt9ds5N3NGB2vlI4wrT"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "What I Wanted",
-        "url": "https://open.spotify.com/album/03ngckbVjnbKSbm6fJpW3i"
-      },
-      "artists": [
-        {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "What I Wanted",
-      "url": "https://open.spotify.com/track/2Xr65bPe0B0RikUoLdHrdN"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "To The Floor",
         "url": "https://open.spotify.com/album/2IRNGT1YJzVXmjq7FMAGm2"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 181877,
       "name": "To The Floor",
       "url": "https://open.spotify.com/track/55oAMcfhdm4tusQEkWXB2n"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "What I Wanted",
+        "url": "https://open.spotify.com/album/03ngckbVjnbKSbm6fJpW3i"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "What I Wanted",
+      "url": "https://open.spotify.com/track/2Xr65bPe0B0RikUoLdHrdN"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1483,22 +1483,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Meet Me At The Rave",
-        "url": "https://open.spotify.com/album/2wEzHPGyTNbDfF9VhrpFIQ"
+        "name": "Chase The Sun (VIP)",
+        "url": "https://open.spotify.com/album/162y1Nz7mvmRpChNXHQNwu"
       },
       "artists": [
         {
-          "name": "Friendly Fire",
-          "url": "https://open.spotify.com/artist/1JtDSmvj4bVA8pBszG43fK"
-        },
-        {
-          "name": "Max Low",
-          "url": "https://open.spotify.com/artist/1OGrGLXNm7YPutzu0KAYSP"
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
         }
       ],
-      "duration_ms": 163204,
-      "name": "Meet Me At The Rave",
-      "url": "https://open.spotify.com/track/5xPocHaGYDKtxrqOnbWPLF"
+      "duration_ms": 241838,
+      "name": "Chase The Sun - VIP",
+      "url": "https://open.spotify.com/track/5KGDSRODIjVBAN040ovdQw"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1523,6 +1519,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Meet Me At The Rave",
+        "url": "https://open.spotify.com/album/2wEzHPGyTNbDfF9VhrpFIQ"
+      },
+      "artists": [
+        {
+          "name": "Friendly Fire",
+          "url": "https://open.spotify.com/artist/1JtDSmvj4bVA8pBszG43fK"
+        },
+        {
+          "name": "Max Low",
+          "url": "https://open.spotify.com/artist/1OGrGLXNm7YPutzu0KAYSP"
+        }
+      ],
+      "duration_ms": 163204,
+      "name": "Meet Me At The Rave",
+      "url": "https://open.spotify.com/track/5xPocHaGYDKtxrqOnbWPLF"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Vibe With It (feat. The Melody Men)",
         "url": "https://open.spotify.com/album/3Pi1L6L16v5u5sm7d3lPSF"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 175230,
       "name": "Vibe With It (feat. The Melody Men)",
       "url": "https://open.spotify.com/track/35ujkehsna0t7Ns3FE1pzE"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Chase The Sun (VIP)",
-        "url": "https://open.spotify.com/album/162y1Nz7mvmRpChNXHQNwu"
-      },
-      "artists": [
-        {
-          "name": "DANNY AVILA",
-          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
-        }
-      ],
-      "duration_ms": 241838,
-      "name": "Chase The Sun - VIP",
-      "url": "https://open.spotify.com/track/5KGDSRODIjVBAN040ovdQw"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Targa",
-        "url": "https://open.spotify.com/album/2gGsxnuv7r7POARudVVnw4"
-      },
-      "artists": [
-        {
-          "name": "Waterm\u00e4t",
-          "url": "https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W"
-        }
-      ],
-      "duration_ms": 186576,
-      "name": "Targa",
-      "url": "https://open.spotify.com/track/0QN7gdtDObMcnhWTKXqb2O"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "The Treble",
         "url": "https://open.spotify.com/album/0iHPUixpramB60NDP56aar"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 202500,
       "name": "The Treble",
       "url": "https://open.spotify.com/track/3MHJeHVYMEdXsK5e2YV9p5"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Targa",
+        "url": "https://open.spotify.com/album/2gGsxnuv7r7POARudVVnw4"
+      },
+      "artists": [
+        {
+          "name": "Waterm\u00e4t",
+          "url": "https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W"
+        }
+      ],
+      "duration_ms": 186576,
+      "name": "Targa",
+      "url": "https://open.spotify.com/track/0QN7gdtDObMcnhWTKXqb2O"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1719,6 +1719,46 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Dope Eyes",
+        "url": "https://open.spotify.com/album/5TqdiAFhhQEQE2ryPmIDDz"
+      },
+      "artists": [
+        {
+          "name": "Lucky Luke",
+          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
+        },
+        {
+          "name": "TRFN",
+          "url": "https://open.spotify.com/artist/5Wj4v7ri4aDONkGEIuo0zp"
+        },
+        {
+          "name": "Natassa Tsonis",
+          "url": "https://open.spotify.com/artist/6CUwCpmWhoaBWcL1WS647J"
+        }
+      ],
+      "duration_ms": 156402,
+      "name": "Dope Eyes",
+      "url": "https://open.spotify.com/track/7zfOOd6OJU7CB3PPPBvQIZ"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Esta Vaina",
+        "url": "https://open.spotify.com/album/3QgF3YoBLnrEKOT2IWOiuq"
+      },
+      "artists": [
+        {
+          "name": "Truth x Lies",
+          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
+        }
+      ],
+      "duration_ms": 215699,
+      "name": "Esta Vaina",
+      "url": "https://open.spotify.com/track/63CgLY7pJtFU1Oic20tL07"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Hawt (JADED Remix)",
         "url": "https://open.spotify.com/album/5kWj4oN2IaINH1AagjRz6n"
       },
@@ -1775,26 +1815,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Around Me",
-        "url": "https://open.spotify.com/album/74fhAZahEaM6cLlEmVKbCf"
-      },
-      "artists": [
-        {
-          "name": "Tom Budin",
-          "url": "https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt"
-        },
-        {
-          "name": "Castion",
-          "url": "https://open.spotify.com/artist/4xt0qH1NubQexyAzDa9UlR"
-        }
-      ],
-      "duration_ms": 197365,
-      "name": "Around Me",
-      "url": "https://open.spotify.com/track/3vqCl5emqR14MHKxqQAsXH"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Asereje",
         "url": "https://open.spotify.com/album/4fUJlmLWhrty63jBdsrMI4"
       },
@@ -1811,6 +1831,26 @@
       "duration_ms": 156826,
       "name": "Asereje",
       "url": "https://open.spotify.com/track/5uNeepsaxfWN63qmsXkyES"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Around Me",
+        "url": "https://open.spotify.com/album/74fhAZahEaM6cLlEmVKbCf"
+      },
+      "artists": [
+        {
+          "name": "Tom Budin",
+          "url": "https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt"
+        },
+        {
+          "name": "Castion",
+          "url": "https://open.spotify.com/artist/4xt0qH1NubQexyAzDa9UlR"
+        }
+      ],
+      "duration_ms": 197365,
+      "name": "Around Me",
+      "url": "https://open.spotify.com/track/3vqCl5emqR14MHKxqQAsXH"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1835,22 +1875,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/0n2KUCR5NNfKAHEx9jjA3h"
+        "name": "La La La",
+        "url": "https://open.spotify.com/album/1yyYH9ehC041fuy4eujShO"
       },
       "artists": [
         {
-          "name": "Kyle Watson",
-          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
-        },
-        {
-          "name": "Evida",
-          "url": "https://open.spotify.com/artist/7e1DmPCwu27owAEWjpb6dN"
+          "name": "TECH IT DEEP",
+          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
         }
       ],
-      "duration_ms": 205511,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/0gwRJH8pKyrmmAVrKWAI5R"
+      "duration_ms": 176250,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/0kZwdBQo5iJfM9DYsFCYSD"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1875,18 +1911,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Esta Vaina",
-        "url": "https://open.spotify.com/album/3QgF3YoBLnrEKOT2IWOiuq"
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/0n2KUCR5NNfKAHEx9jjA3h"
       },
       "artists": [
         {
-          "name": "Truth x Lies",
-          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        },
+        {
+          "name": "Evida",
+          "url": "https://open.spotify.com/artist/7e1DmPCwu27owAEWjpb6dN"
         }
       ],
-      "duration_ms": 215699,
-      "name": "Esta Vaina",
-      "url": "https://open.spotify.com/track/63CgLY7pJtFU1Oic20tL07"
+      "duration_ms": 205511,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/0gwRJH8pKyrmmAVrKWAI5R"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1911,18 +1951,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "La La La",
-        "url": "https://open.spotify.com/album/1yyYH9ehC041fuy4eujShO"
+        "name": "Living",
+        "url": "https://open.spotify.com/album/5cSslgXPIBdWdvneiyt35H"
       },
       "artists": [
         {
-          "name": "TECH IT DEEP",
-          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
+          "name": "Sunday Scaries",
+          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
+        },
+        {
+          "name": "NOVODOR",
+          "url": "https://open.spotify.com/artist/05Jkv3CdlsPA96MC8ZYLhY"
         }
       ],
-      "duration_ms": 176250,
-      "name": "La La La",
-      "url": "https://open.spotify.com/track/0kZwdBQo5iJfM9DYsFCYSD"
+      "duration_ms": 205186,
+      "name": "Living",
+      "url": "https://open.spotify.com/track/5EdYBFZarevg1JlmzmTYnA"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1963,50 +2007,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Dope Eyes",
-        "url": "https://open.spotify.com/album/5TqdiAFhhQEQE2ryPmIDDz"
-      },
-      "artists": [
-        {
-          "name": "Lucky Luke",
-          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
-        },
-        {
-          "name": "TRFN",
-          "url": "https://open.spotify.com/artist/5Wj4v7ri4aDONkGEIuo0zp"
-        },
-        {
-          "name": "Natassa Tsonis",
-          "url": "https://open.spotify.com/artist/6CUwCpmWhoaBWcL1WS647J"
-        }
-      ],
-      "duration_ms": 156402,
-      "name": "Dope Eyes",
-      "url": "https://open.spotify.com/track/7zfOOd6OJU7CB3PPPBvQIZ"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Living",
-        "url": "https://open.spotify.com/album/5cSslgXPIBdWdvneiyt35H"
-      },
-      "artists": [
-        {
-          "name": "Sunday Scaries",
-          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
-        },
-        {
-          "name": "NOVODOR",
-          "url": "https://open.spotify.com/artist/05Jkv3CdlsPA96MC8ZYLhY"
-        }
-      ],
-      "duration_ms": 205186,
-      "name": "Living",
-      "url": "https://open.spotify.com/track/5EdYBFZarevg1JlmzmTYnA"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Tr\u00e1gatelo",
         "url": "https://open.spotify.com/album/77pIaKUlGjnL7tXbVL7FTI"
       },
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "The Movement",
-        "url": "https://open.spotify.com/album/5XGUdgMXArjFNlckLB5jUC"
-      },
-      "artists": [
-        {
-          "name": "Wade",
-          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
-        }
-      ],
-      "duration_ms": 184921,
-      "name": "The Movement",
-      "url": "https://open.spotify.com/track/7Iv0WsLicswjnu8giaN2Wn"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Body Close",
         "url": "https://open.spotify.com/album/3C1v2E4gAbTbCk71KQJCSH"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 219169,
       "name": "Body Close",
       "url": "https://open.spotify.com/track/6RR5V7V3UGQxNpXDKb7sHH"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "The Movement",
+        "url": "https://open.spotify.com/album/5XGUdgMXArjFNlckLB5jUC"
+      },
+      "artists": [
+        {
+          "name": "Wade",
+          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
+        }
+      ],
+      "duration_ms": 184921,
+      "name": "The Movement",
+      "url": "https://open.spotify.com/track/7Iv0WsLicswjnu8giaN2Wn"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2083,18 +2083,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Magic City (Vip Mix)",
-        "url": "https://open.spotify.com/album/3vbVuoxKhKjsfiaia8a27Q"
+        "name": "Together",
+        "url": "https://open.spotify.com/album/0IGWaTyOw4z04uUdh38QLf"
       },
       "artists": [
         {
-          "name": "Wahlstedt",
-          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "Jay Robinson",
+          "url": "https://open.spotify.com/artist/1Jputnig8fuCuihen6n28Z"
         }
       ],
-      "duration_ms": 171968,
-      "name": "Magic City - Vip Mix",
-      "url": "https://open.spotify.com/track/5ZL7NaGGBDkqvROpy7bikT"
+      "duration_ms": 159154,
+      "name": "Until The Morning",
+      "url": "https://open.spotify.com/track/7jVXCigtfhxDL1mMidhlTl"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2115,22 +2119,50 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/0IGWaTyOw4z04uUdh38QLf"
+        "name": "Magic City (Vip Mix)",
+        "url": "https://open.spotify.com/album/3vbVuoxKhKjsfiaia8a27Q"
       },
       "artists": [
         {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        },
-        {
-          "name": "Jay Robinson",
-          "url": "https://open.spotify.com/artist/1Jputnig8fuCuihen6n28Z"
+          "name": "Wahlstedt",
+          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
         }
       ],
-      "duration_ms": 159154,
-      "name": "Until The Morning",
-      "url": "https://open.spotify.com/track/7jVXCigtfhxDL1mMidhlTl"
+      "duration_ms": 171968,
+      "name": "Magic City - Vip Mix",
+      "url": "https://open.spotify.com/track/5ZL7NaGGBDkqvROpy7bikT"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "I Want You / Windmill",
+        "url": "https://open.spotify.com/album/0LLhmfIp9PjTwBXGUOcDPu"
+      },
+      "artists": [
+        {
+          "name": "Leftwing : Kody",
+          "url": "https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR"
+        }
+      ],
+      "duration_ms": 206769,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/5eNS4osb7X3oIKcguRkr3Z"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Dont Sleep",
+        "url": "https://open.spotify.com/album/29C3mRpDY5Lqxh5X5mlnl9"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        }
+      ],
+      "duration_ms": 156480,
+      "name": "Dont Sleep",
+      "url": "https://open.spotify.com/track/0bmT2MQ4FrBOgWhYr4S8Lj"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2155,38 +2187,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "I Want You / Windmill",
-        "url": "https://open.spotify.com/album/0LLhmfIp9PjTwBXGUOcDPu"
-      },
-      "artists": [
-        {
-          "name": "Leftwing : Kody",
-          "url": "https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR"
-        }
-      ],
-      "duration_ms": 206769,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/5eNS4osb7X3oIKcguRkr3Z"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Make This Mofo",
-        "url": "https://open.spotify.com/album/2Q9YWRVMGeJfJixHfvLJ8i"
-      },
-      "artists": [
-        {
-          "name": "CID",
-          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
-        }
-      ],
-      "duration_ms": 196404,
-      "name": "Make This Mofo",
-      "url": "https://open.spotify.com/track/26L76W2WTYHDTNVj5Lc4d4"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Attracted",
         "url": "https://open.spotify.com/album/7j8l735NUQPSJS2JK8uV1b"
       },
@@ -2207,22 +2207,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "DEEPFAKE",
-        "url": "https://open.spotify.com/album/1nDCAZDIObiigIXZVE82nn"
+        "name": "Make This Mofo",
+        "url": "https://open.spotify.com/album/2Q9YWRVMGeJfJixHfvLJ8i"
       },
       "artists": [
         {
-          "name": "Green Velvet",
-          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
-        },
-        {
-          "name": "Mihalis Safras",
-          "url": "https://open.spotify.com/artist/3m5g6NUg2akZ9Vv9D8GYBf"
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
         }
       ],
-      "duration_ms": 166153,
-      "name": "DEEPFAKE",
-      "url": "https://open.spotify.com/track/67CSegLhAnL2RHPOnaakRs"
+      "duration_ms": 196404,
+      "name": "Make This Mofo",
+      "url": "https://open.spotify.com/track/26L76W2WTYHDTNVj5Lc4d4"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2247,6 +2243,26 @@
       "duration_ms": 365871,
       "name": "Music Is Life - Main Mix",
       "url": "https://open.spotify.com/track/1Wy9vsNoymAlUsr4NpV5C9"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "DEEPFAKE",
+        "url": "https://open.spotify.com/album/1nDCAZDIObiigIXZVE82nn"
+      },
+      "artists": [
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        {
+          "name": "Mihalis Safras",
+          "url": "https://open.spotify.com/artist/3m5g6NUg2akZ9Vv9D8GYBf"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "DEEPFAKE",
+      "url": "https://open.spotify.com/track/67CSegLhAnL2RHPOnaakRs"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2287,22 +2303,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Dont Sleep",
-        "url": "https://open.spotify.com/album/29C3mRpDY5Lqxh5X5mlnl9"
-      },
-      "artists": [
-        {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
-        }
-      ],
-      "duration_ms": 156480,
-      "name": "Dont Sleep",
-      "url": "https://open.spotify.com/track/0bmT2MQ4FrBOgWhYr4S8Lj"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Brisa",
         "url": "https://open.spotify.com/album/3rVW7u5AB3qf6NGGAs2MdY"
       },
@@ -2319,26 +2319,6 @@
       "duration_ms": 165120,
       "name": "Brisa",
       "url": "https://open.spotify.com/track/55D5YIajNyBqrpWCnmXuRr"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Get Down",
-        "url": "https://open.spotify.com/album/3Xgos48pchxDr8bgrUCl6z"
-      },
-      "artists": [
-        {
-          "name": "Cloverdale",
-          "url": "https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB"
-        },
-        {
-          "name": "Hollaphonic",
-          "url": "https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi"
-        }
-      ],
-      "duration_ms": 179136,
-      "name": "Get Down",
-      "url": "https://open.spotify.com/track/7MXy1r5LU9S2KkNyeqVITj"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2367,18 +2347,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Miss Me",
-        "url": "https://open.spotify.com/album/7cYTyU4gB9Ga5WDJ2uFwnX"
+        "name": "Get Down",
+        "url": "https://open.spotify.com/album/3Xgos48pchxDr8bgrUCl6z"
       },
       "artists": [
         {
-          "name": "Deeper Purpose",
-          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
+          "name": "Cloverdale",
+          "url": "https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB"
+        },
+        {
+          "name": "Hollaphonic",
+          "url": "https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi"
         }
       ],
-      "duration_ms": 171250,
-      "name": "Miss Me",
-      "url": "https://open.spotify.com/track/234EvBEkWgXtQhJOi9HSyp"
+      "duration_ms": 179136,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/7MXy1r5LU9S2KkNyeqVITj"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2395,6 +2379,22 @@
       "duration_ms": 153321,
       "name": "Gibberish",
       "url": "https://open.spotify.com/track/7oxqFjliHMXfcGbezxQaWc"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Miss Me",
+        "url": "https://open.spotify.com/album/7cYTyU4gB9Ga5WDJ2uFwnX"
+      },
+      "artists": [
+        {
+          "name": "Deeper Purpose",
+          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
+        }
+      ],
+      "duration_ms": 171250,
+      "name": "Miss Me",
+      "url": "https://open.spotify.com/track/234EvBEkWgXtQhJOi9HSyp"
     },
     {
       "added_at": "2023-08-04 04:00:00",

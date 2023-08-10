@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Eladio Carrión
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,526,787 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,526,842 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 24 | [Glizzy Walk 2.5](https://open.spotify.com/track/3O6dtQDB3MTYFPxlXn7zww) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [Glizzy Walk 2.5](https://open.spotify.com/album/65ebh116sDPSsxm2eXExyK) | 3:44 |
 | 25 | [On Fleek](https://open.spotify.com/track/6plOBNhg7WOoCdtLGAGp43) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [On Fleek](https://open.spotify.com/album/5gbiHT2MGOPDFB5itrI2mG) | 4:37 |
 | 26 | [Amandita](https://open.spotify.com/track/21kXmEReiK9txm4Kv6YP2o) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Amandita](https://open.spotify.com/album/7cO3QkRfOusJQJH8K3vW5P) | 3:43 |
-| 27 | [Party en el Barrio \(feat\. Duki\)](https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Party en el Barrio \(feat\. Duki\)](https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn) | 3:56 |
-| 28 | [Leyenda](https://open.spotify.com/track/3BIOxohEjTEcRRg0VVlNI6) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Las Leyendas Nunca Mueren](https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA) | 3:40 |
+| 27 | [Leyenda](https://open.spotify.com/track/3BIOxohEjTEcRRg0VVlNI6) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Las Leyendas Nunca Mueren](https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA) | 3:40 |
+| 28 | [Party en el Barrio \(feat\. Duki\)](https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Party en el Barrio \(feat\. Duki\)](https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn) | 3:56 |
 | 29 | [Trending Remix \(with Myke Towers\)](https://open.spotify.com/track/7y8wfdPTJT94sIs6LnGDJC) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Trending Remix \(with Myke Towers\)](https://open.spotify.com/album/0I0LtVW3UJjJtXkCJ7RPLO) | 3:45 |
 | 30 | [El Hokage](https://open.spotify.com/track/5GZ4tx6VZxM7V4IQtSJFyx) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 2:05 |
 | 31 | [RONCA FREESTYLE](https://open.spotify.com/track/3XZeOzJ9tqnu58YP6cqApI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LAS QUE NO IBAN A SALIR](https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 49 | [La Mini](https://open.spotify.com/track/4xXPv6ic5Zq1vRvxRFxuo8) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [La Mini](https://open.spotify.com/album/38j8f4kwWyynEWRnc8zEIc) | 3:33 |
 | 50 | [Fendi & Valentino](https://open.spotify.com/track/6zfmaPzczHb0NiXglOxamn) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Sahir](https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh) | [Fendi & Valentino](https://open.spotify.com/album/2aXzhaV9TkNFsmUnkOUBy9) | 4:02 |
 
-Snapshot ID: `MCxhYjc3ODJiNTQyNDc1ZDZlYjc1NmNlZmEzNDU3Mzg4ODY1ODFmMTEx`
+Snapshot ID: `MCwwYWE3YzA4OTA3NTEyMGVlNGNiNjY2M2MyNTAyNTk4ZjljYTY1Njcy`

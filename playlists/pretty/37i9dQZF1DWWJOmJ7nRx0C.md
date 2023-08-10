@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover: Mammoth WVH
 
-[Spotify](https://open.spotify.com/user/spotify) - 924,002 likes - 151 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 924,176 likes - 151 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 150 | [Terminal](https://open.spotify.com/track/4Z9tWNJocirwz6btdF5Ocq) | [Veio](https://open.spotify.com/artist/3QY5DMEgg7H5EAttsSHSSg) | [Terminal](https://open.spotify.com/album/3f0WYqDiUWm4thElxyEoLG) | 3:40 |
 | 151 | [Bad Dog](https://open.spotify.com/track/1owUcE0dWvXZz3766PsJLy) | [Cinnamon Babe](https://open.spotify.com/artist/0U2rJW6ug1KAvcegC2E004) | [Bad Dog](https://open.spotify.com/album/6a8l6w5G7T8xHJeJT7hRo7) | 3:29 |
 
-Snapshot ID: `MCw4YWI5ZWY0ODhlNDY4NzE1ZTZmZTA5MTQ1Yjc0NGQ5YTdhMDNlOGUy`
+Snapshot ID: `MCw0MTYzNTc4ODg4YWFmOTUzOGU2Nzk1YmYyZjVhZTEyMTdiYjJmMWQ2`

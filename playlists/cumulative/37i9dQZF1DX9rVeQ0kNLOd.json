@@ -2258,7 +2258,7 @@
     {
       "album": {
         "name": "wind blows - softly -",
-        "url": "https://open.spotify.com/album/2XPQI1hw4aQKLCXK22o6uW"
+        "url": "https://open.spotify.com/album/6TxFJQgoHoxpcxRqJE1ovS"
       },
       "artists": [
         {
@@ -2273,6 +2273,28 @@
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 149538,
+      "name": "wind blows - softly -",
+      "url": "https://open.spotify.com/track/1muPqbyGs2w8dta3GOTEUv"
+    },
+    {
+      "album": {
+        "name": "wind blows - softly -",
+        "url": "https://open.spotify.com/album/2XPQI1hw4aQKLCXK22o6uW"
+      },
+      "artists": [
+        {
+          "name": "lo-key design",
+          "url": "https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB"
+        },
+        {
+          "name": "Rikuto Nagira",
+          "url": "https://open.spotify.com/artist/1m853g4jSUXHZIrmOZqkPo"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-10",
       "duration_ms": 149538,
       "name": "wind blows - softly -",
       "url": "https://open.spotify.com/track/7yChFpLeFv68tGKEH77gHl"

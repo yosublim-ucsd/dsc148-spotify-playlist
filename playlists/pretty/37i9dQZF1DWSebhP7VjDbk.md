@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSebhP7VjDbk.md) - [plain]
 
 > Playlist oficial da série "De Volta aos 15" estrelando Maisa e Camila Queiroz\. Só na Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,140 likes - 68 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,152 likes - 68 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSebhP7VjDbk.md) - [plain]
 | 24 | [Um Beijo \- Ao Vivo](https://open.spotify.com/track/5sZg4MTcTdGQNwIeXg3r6O) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Ao Vivo No Rio](https://open.spotify.com/album/6ed1a9UMAj76mV1NIj1gJ6) | 3:13 |
 | 25 | [Você Não Sabe o Que é Amor \- Ao Vivo](https://open.spotify.com/track/3VJHy2e3aWxG4cyRh942QG) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Ao Vivo](https://open.spotify.com/album/16TISVZjZU8Y3A0rxpCJgr) | 3:35 |
 | 26 | [Sinais \- Ao Vivo](https://open.spotify.com/track/7EgRqkvNThCaCJB0lhyZH5) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Ao Vivo](https://open.spotify.com/album/16TISVZjZU8Y3A0rxpCJgr) | 3:53 |
-| 27 | [Levo Comigo](https://open.spotify.com/track/6BcqNZ7D3gI0ALivZMAvux) | [ReStarT](https://open.spotify.com/artist/0fnpJQo4aRTZFz8Sf4id6T) | [Restart](https://open.spotify.com/album/6IqdfOX19OBSSxNTTRA5kg) | 3:26 |
+| 27 | [Levo Comigo](https://open.spotify.com/track/6BcqNZ7D3gI0ALivZMAvux) | [Restart](https://open.spotify.com/artist/0fnpJQo4aRTZFz8Sf4id6T) | [Restart](https://open.spotify.com/album/6IqdfOX19OBSSxNTTRA5kg) | 3:26 |
 | 28 | [Tempo Perdido](https://open.spotify.com/track/0pK7xotcYmRlwnJQUTwi17) | [Legião Urbana](https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t) | [Mais Do Mesmo](https://open.spotify.com/album/5d6gRjFshFVzeNcEiX7HGX) | 5:02 |
 | 29 | [Malandragem](https://open.spotify.com/track/1EQ0RjamZKJhSUZmV8uBVs) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh) | [Cássia Eller Em Casa](https://open.spotify.com/album/6T6Vo6ACxuxdFRS3b3uKtY) | 4:10 |
 | 30 | [Better Man](https://open.spotify.com/track/2B98ljvzqpCVgt5reTHq28) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vitalogy](https://open.spotify.com/album/5pd9B3KQWKshHw4lnsSLNy) | 4:28 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSebhP7VjDbk.md) - [plain]
 | 67 | [Aonde Quer Que Eu Vá](https://open.spotify.com/track/0NFVg74sSsdU1gNc9xfpIO) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Arquivo II 1991 \- 2000](https://open.spotify.com/album/00NPVQ0890CmxIQcw61Rd6) | 4:17 |
 | 68 | [Apenas Mais uma de Amor](https://open.spotify.com/track/6YNCE5qtrTa7YcnAOAEsDQ) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Lulu Acústico](https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB) | 3:38 |
 
-Snapshot ID: `MCxjZmE5MTJjZjY1MjRmNWZhOTIwYjExZjI1NWFlOGY5NGI5MzExODVj`
+Snapshot ID: `MCwzODQ3MThjZmE1NzhiZDE2YzRmZTYyZjYxMDA3NDIyOTczNjJiMmFk`

@@ -1,12 +1,12 @@
 {
   "description": "Indie, pop, alternativo... y un poco m\u00e1s all\u00e1. Cover: Buscabulla",
-  "num_followers": 2387,
+  "num_followers": 2412,
   "original_name": "Indie Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjlhNWQ1ZmRlMWUyZGQ3MmE1OTI2NmI1ZjIzNDhkZGI1OWQwNmEw",
+  "snapshot_id": "MCwwZjZiZjJlZmZjZWYwZTM2NjE0YjUyN2U1NmJkZTE2MmExZTQ5YWQ5",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -339,6 +339,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Nacarile",
+        "url": "https://open.spotify.com/album/0pRdkDSMZds1G61wXr2U6i"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 174080,
+      "name": "(Escap\u00e1ndome) de m\u00ed",
+      "url": "https://open.spotify.com/track/3FuzX5N7VSnhSj1x3hQYje"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Ll\u00e9vame",
         "url": "https://open.spotify.com/album/4MUmKDn5xEfGpBo2ihzTJM"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 258523,
       "name": "Ll\u00e9vame",
       "url": "https://open.spotify.com/track/79yN85jSmZsQVkcovCOv3o"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Nacarile",
-        "url": "https://open.spotify.com/album/0pRdkDSMZds1G61wXr2U6i"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 174080,
-      "name": "(Escap\u00e1ndome) de m\u00ed",
-      "url": "https://open.spotify.com/track/3FuzX5N7VSnhSj1x3hQYje"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -679,6 +679,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/69HOtVSMleCuO9fH67qh5U"
+      },
+      "artists": [
+        {
+          "name": "Babywine",
+          "url": "https://open.spotify.com/artist/5DLfGYyYP6BBL0fbh3GuBG"
+        },
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        }
+      ],
+      "duration_ms": 167157,
+      "name": "Veintis\u00e9is",
+      "url": "https://open.spotify.com/track/6AM79PtldyQT9mb1ERTBUz"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Mares\u00eda",
         "url": "https://open.spotify.com/album/5DwISBzdYnnULIlRaie7xV"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 161739,
       "name": "Tu Nunca Has Sentido",
       "url": "https://open.spotify.com/track/0ztfWr6DIlLJKJwGY3pDz6"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/69HOtVSMleCuO9fH67qh5U"
-      },
-      "artists": [
-        {
-          "name": "Babywine",
-          "url": "https://open.spotify.com/artist/5DLfGYyYP6BBL0fbh3GuBG"
-        },
-        {
-          "name": "DJ Nelson",
-          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
-        }
-      ],
-      "duration_ms": 167157,
-      "name": "Veintis\u00e9is",
-      "url": "https://open.spotify.com/track/6AM79PtldyQT9mb1ERTBUz"
     },
     {
       "added_at": "2023-08-04 04:00:00",

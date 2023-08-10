@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,594 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,660 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 42 | [Al Pueblo Le Asusta La Revolución](https://open.spotify.com/track/582Lfqa9mSQO8bXtZImRYl) | [Portavoz](https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg) | [Escribo Rap Con R De Revolucion](https://open.spotify.com/album/4XvUXpek6UQmjm5ig49yL7) | 4:28 |
 | 43 | [Somos Más Americanos](https://open.spotify.com/track/0kBFfb1T2aCkhSJUIo56Mz) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy), [Zack De La Rocha](https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S) | [Tr3s Presents MTV Unplugged Los Tigres Del Norte And Friends](https://open.spotify.com/album/0SzXF8v0Vv3EFeaPY6h9LP) | 4:10 |
 | 44 | [Bloody Bloody Border](https://open.spotify.com/track/7jWnrn6gQVWQ2W3PGNWP08) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Clandestino / Bloody Border](https://open.spotify.com/album/09U5RBDuQaH2Lwzhocwyj6) | 2:53 |
-| 45 | [La Tierra](https://open.spotify.com/track/5R5BUvAO23Z83xvL5wXVOj) | [Ekhymosis](https://open.spotify.com/artist/4gOoiVWzfjPtXK3ohuEy0M) | [Ekhymosis](https://open.spotify.com/album/4EhPQamyGb7l1PnpkBHpjB) | 3:45 |
-| 46 | [Tlatelolco 68](https://open.spotify.com/track/0IpAufJEjttMegWQvxcI2i) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 4:47 |
+| 45 | [Tlatelolco 68](https://open.spotify.com/track/0IpAufJEjttMegWQvxcI2i) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 4:47 |
+| 46 | [La Tierra](https://open.spotify.com/track/5R5BUvAO23Z83xvL5wXVOj) | [Ekhymosis](https://open.spotify.com/artist/4gOoiVWzfjPtXK3ohuEy0M) | [Ekhymosis](https://open.spotify.com/album/4EhPQamyGb7l1PnpkBHpjB) | 3:45 |
 | 47 | [Basta](https://open.spotify.com/track/3sVJ7neCJG5W0QqMqKGVWR) | [Los Vasquez](https://open.spotify.com/artist/3GlN5joOPb7aAQVJLSPpJx) | [De Sur a Norte](https://open.spotify.com/album/76FdMyT3iXTL08O8Bq3z1X) | 3:37 |
 | 48 | [Antipatriarca](https://open.spotify.com/track/49SpHaonnqks7taOwDfV6Z) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Vengo](https://open.spotify.com/album/4AvYh9UIRwjZJYI9X7p8ua) | 3:04 |
 | 49 | [Aquí No Pasa Nada](https://open.spotify.com/track/3fwn1dl9oo9tbUWCGzhJXx) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [El Diablito](https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV) | 4:40 |
@@ -67,13 +67,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 57 | [El Mundo Que Nos Tocó Vivir](https://open.spotify.com/track/1KEi9GBOe3bXTj1WGM282v) | [Chancho En Piedra](https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp) | [Funkybarítico Hedónico Fantástico](https://open.spotify.com/album/3sf4mhDgb8pmUe5lOGaliL) | 4:00 |
 | 58 | [Somos Sur](https://open.spotify.com/track/7Ke2pX91o8sYw220ZY0whv) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz), [Shadia Mansour](https://open.spotify.com/artist/3PaRWHJX1nnmN4kffMGm93) | [Vengo](https://open.spotify.com/album/4AvYh9UIRwjZJYI9X7p8ua) | 3:46 |
 | 59 | [Por Qué No Se Van](https://open.spotify.com/track/2Q81Tu7mnx5g5vfyVPCvCV) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Coleccion Suprema](https://open.spotify.com/album/62mYqA8S00dcrD42jmml86) | 3:02 |
-| 60 | [Los Dinosaurios \- Live](https://open.spotify.com/track/0BWhmRyHvBLMcEJDAos2PD) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Unplugged](https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R) | 3:40 |
-| 61 | [Sobreviviendo](https://open.spotify.com/track/26YfhyustEuuQpTzxp4tdP) | [Victor Heredia](https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X) | [La Historia Del Folklore \(2da Parte\)](https://open.spotify.com/album/1g1sE7jUdBW6QRhZH46JF5) | 5:46 |
+| 60 | [Sobreviviendo](https://open.spotify.com/track/26YfhyustEuuQpTzxp4tdP) | [Victor Heredia](https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X) | [La Historia Del Folklore \(2da Parte\)](https://open.spotify.com/album/1g1sE7jUdBW6QRhZH46JF5) | 5:46 |
+| 61 | [Los Dinosaurios \- Live](https://open.spotify.com/track/0BWhmRyHvBLMcEJDAos2PD) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Unplugged](https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R) | 3:40 |
 | 62 | [Hasta siempre](https://open.spotify.com/track/4f131ZKqnk9SudTFYcnJU7) | [Soledad Bravo](https://open.spotify.com/artist/6wrOOWIlmDTI9G5MSpAuh2) | [Cantos revolucionarios de america latina](https://open.spotify.com/album/2bD2Qk8NESRcHDcMmoHg9k) | 4:30 |
 | 63 | [Resistiré](https://open.spotify.com/track/5wHu5Ht9C8tJ9L6HIxpb9c) | [Fiskales Ad\-Hok](https://open.spotify.com/artist/60bfQT8dq9ykKW6KfIXnE5) | [Fiesta](https://open.spotify.com/album/5VGGdaFaGS8Yd3ZzlWHeGv) | 2:08 |
-| 64 | [El Padre Antonio \- Y El Monaguillo Andres](https://open.spotify.com/track/2iyffU4KcLybIIn7MvkiuH) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Buscando America](https://open.spotify.com/album/3fKfLNe4w7qBIeGOMqXBbu) | 8:03 |
+| 64 | [La chusma inconsciente](https://open.spotify.com/track/47XK3ngp9tfIJNhJ281LBP) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6), [Juan Ayala](https://open.spotify.com/artist/0tP6QVPr0eyylpTyfEXqZn) | [La chusma inconsciente](https://open.spotify.com/album/4TZwxkMgDuNohfTIOQoqpj) | 5:54 |
 | 65 | [El Baile De Los Que Sobran](https://open.spotify.com/track/4RBZ1KDYHFY61CiL0T8VEh) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Ni Por La Razón, Ni Por La Fuerza \(Edición Especial\)](https://open.spotify.com/album/69Zs9jtNOpru1938K1odQi) | 5:42 |
-| 66 | [La chusma inconsciente](https://open.spotify.com/track/47XK3ngp9tfIJNhJ281LBP) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6), [Juan Ayala](https://open.spotify.com/artist/0tP6QVPr0eyylpTyfEXqZn) | [La chusma inconsciente](https://open.spotify.com/album/4TZwxkMgDuNohfTIOQoqpj) | 5:54 |
+| 66 | [El Padre Antonio \- Y El Monaguillo Andres](https://open.spotify.com/track/2iyffU4KcLybIIn7MvkiuH) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Buscando America](https://open.spotify.com/album/3fKfLNe4w7qBIeGOMqXBbu) | 8:03 |
 | 67 | [Clandestino](https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:40 |
 | 68 | [Antifa Dance](https://open.spotify.com/track/3OfJ6ja2JtoQ7SDwNY4MTO) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Antifa Dance](https://open.spotify.com/album/5Ex8ADFhgsJVFkI5eHeQq1) | 2:35 |
 | 69 | [La Marcha De La Bronca](https://open.spotify.com/track/4sUEtsaCvQVIkzMksupERW) | [Pedro Y Pablo](https://open.spotify.com/artist/5YDpwWFLxk3wmHBKqAcfiI) | [Yo Vivo en Esta Ciudad](https://open.spotify.com/album/5rpMRdL6IxV1obCxjf4q5i) | 3:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 99 | [Ellas](https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Ellas](https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY) | 4:44 |
 | 100 | [Su Madre Patria](https://open.spotify.com/track/644qoF650m6xvB8PHPSz1q) | [Edson Velandia](https://open.spotify.com/artist/3ljnYB3ODjEMEJgdHUPMPi), [Adriana Lizcano](https://open.spotify.com/artist/2vITZovJRCRAywLXzKqEje) | [Su Madre Patria](https://open.spotify.com/album/3BlhpwuACPUsR8xSLO8DwW) | 2:16 |
 
-Snapshot ID: `MCw0MmJkZTJlOGRhZjcwM2ZkNDZkYTNiNDFjMDY2YjJhOTE3M2U4Mzcw`
+Snapshot ID: `MCwxMzVhOTU2YzRmMzcwMjhjMDg2Y2ZkODc5Nzk5NmRmYjE4OTFmYmFi`

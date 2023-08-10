@@ -1,12 +1,12 @@
 {
   "description": "Sabah al khair, start your day with extra cardamom and mellow tunes.",
-  "num_followers": 159965,
+  "num_followers": 160055,
   "original_name": "Arabic Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjA2YTQwYTM1M2RiOWJiMjQzYjJmYzQ3ZmZlOGQxZjAzZDJmZDM4",
+  "snapshot_id": "MCwwYjllNThiNDBlZWVmZjM3ZjVlMzNiNDFlZWEzMzFlMjI3YzgwMmFi",
   "tracks": [
     {
       "added_at": "2023-05-30 10:21:10",
@@ -147,22 +147,6 @@
     {
       "added_at": "2023-05-30 10:21:10",
       "album": {
-        "name": "A Vava Inouva",
-        "url": "https://open.spotify.com/album/6DrAbBZLRSPeRjVgxlB1q1"
-      },
-      "artists": [
-        {
-          "name": "Idir",
-          "url": "https://open.spotify.com/artist/73LjFn4z6WTV7MevyPxrRc"
-        }
-      ],
-      "duration_ms": 266760,
-      "name": "A Vava Inouva",
-      "url": "https://open.spotify.com/track/06eEMrvlkBmLLaezDSDcEl"
-    },
-    {
-      "added_at": "2023-05-30 10:21:10",
-      "album": {
         "name": "Craziness - \u0623\u0635\u0627\u0628\u0643 \u0639\u0634\u0642",
         "url": "https://open.spotify.com/album/3n3DCKoWvQdEgrF0GLDHuF"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 291440,
       "name": "Craziness - \u0623\u0635\u0627\u0628\u0643 \u0639\u0634\u0642",
       "url": "https://open.spotify.com/track/4HbQMB4aMPTATNBC1qweUN"
+    },
+    {
+      "added_at": "2023-05-30 10:21:10",
+      "album": {
+        "name": "A Vava Inouva",
+        "url": "https://open.spotify.com/album/6DrAbBZLRSPeRjVgxlB1q1"
+      },
+      "artists": [
+        {
+          "name": "Idir",
+          "url": "https://open.spotify.com/artist/73LjFn4z6WTV7MevyPxrRc"
+        }
+      ],
+      "duration_ms": 266760,
+      "name": "A Vava Inouva",
+      "url": "https://open.spotify.com/track/06eEMrvlkBmLLaezDSDcEl"
     },
     {
       "added_at": "2023-05-30 10:21:10",
@@ -251,22 +251,18 @@
     {
       "added_at": "2023-05-30 10:21:10",
       "album": {
-        "name": "A Girl Within My Soul",
-        "url": "https://open.spotify.com/album/299UA28OE1Nk7AnmUAv2ED"
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/2fJ49tfoV8bE0XEQ7eQXq3"
       },
       "artists": [
         {
-          "name": "Abdulrahman Mohammed",
-          "url": "https://open.spotify.com/artist/1sWV2X7SzXd06hEO2EttHl"
-        },
-        {
-          "name": "Mohab Omer",
-          "url": "https://open.spotify.com/artist/7kluF012Emzsqg6qh2ShAY"
+          "name": "Lena Chamamyan",
+          "url": "https://open.spotify.com/artist/0LH01nWLQote2HIUL87BLc"
         }
       ],
-      "duration_ms": 391386,
-      "name": "A Girl Within My Soul",
-      "url": "https://open.spotify.com/track/2LT201aq632QgRQqLWFN5O"
+      "duration_ms": 241506,
+      "name": "Lamma Bada Yatathana",
+      "url": "https://open.spotify.com/track/3BhgD8Kun1fXSW1KYTfnEO"
     },
     {
       "added_at": "2023-05-30 10:21:10",
@@ -287,18 +283,22 @@
     {
       "added_at": "2023-05-30 10:21:10",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/2fJ49tfoV8bE0XEQ7eQXq3"
+        "name": "A Girl Within My Soul",
+        "url": "https://open.spotify.com/album/299UA28OE1Nk7AnmUAv2ED"
       },
       "artists": [
         {
-          "name": "Lena Chamamyan",
-          "url": "https://open.spotify.com/artist/0LH01nWLQote2HIUL87BLc"
+          "name": "Abdulrahman Mohammed",
+          "url": "https://open.spotify.com/artist/1sWV2X7SzXd06hEO2EttHl"
+        },
+        {
+          "name": "Mohab Omer",
+          "url": "https://open.spotify.com/artist/7kluF012Emzsqg6qh2ShAY"
         }
       ],
-      "duration_ms": 241506,
-      "name": "Lamma Bada Yatathana",
-      "url": "https://open.spotify.com/track/3BhgD8Kun1fXSW1KYTfnEO"
+      "duration_ms": 391386,
+      "name": "A Girl Within My Soul",
+      "url": "https://open.spotify.com/track/2LT201aq632QgRQqLWFN5O"
     },
     {
       "added_at": "2023-05-30 10:21:10",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-05-30 10:21:10",
       "album": {
+        "name": "Dorsaf Hamdani chante Barbara & Fairouz",
+        "url": "https://open.spotify.com/album/1GDQ89kQyz1755fry29kVm"
+      },
+      "artists": [
+        {
+          "name": "Dorsaf Hamdani",
+          "url": "https://open.spotify.com/artist/4U5Hsr79OtYv01I4hOqruF"
+        }
+      ],
+      "duration_ms": 186897,
+      "name": "Al Bint El Chalabeya",
+      "url": "https://open.spotify.com/track/2OxygAH92guaY9kliJboul"
+    },
+    {
+      "added_at": "2023-05-30 10:21:10",
+      "album": {
         "name": "Tributaries: A Remix Album (El B\u00faho Remixes)",
         "url": "https://open.spotify.com/album/7lwzhzgV4j0WKksieLPrAs"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 276299,
       "name": "Shibren - El B\u00faho Remix",
       "url": "https://open.spotify.com/track/0EyVOeAJ3kjfcVkFv2AxxB"
-    },
-    {
-      "added_at": "2023-05-30 10:21:10",
-      "album": {
-        "name": "Dorsaf Hamdani chante Barbara & Fairouz",
-        "url": "https://open.spotify.com/album/1GDQ89kQyz1755fry29kVm"
-      },
-      "artists": [
-        {
-          "name": "Dorsaf Hamdani",
-          "url": "https://open.spotify.com/artist/4U5Hsr79OtYv01I4hOqruF"
-        }
-      ],
-      "duration_ms": 186897,
-      "name": "Al Bint El Chalabeya",
-      "url": "https://open.spotify.com/track/2OxygAH92guaY9kliJboul"
     },
     {
       "added_at": "2023-05-30 10:21:10",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-05-30 10:21:10",
       "album": {
-        "name": "Al Kawn Janni Maak",
-        "url": "https://open.spotify.com/album/5WfAjtVWyItvqpfEYfoZIG"
-      },
-      "artists": [
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        }
-      ],
-      "duration_ms": 135060,
-      "name": "Al Kawn Janni Maak",
-      "url": "https://open.spotify.com/track/0s6Vv5wPxRCsrBMjTSyrcg"
-    },
-    {
-      "added_at": "2023-05-30 10:21:10",
-      "album": {
         "name": "HANNET LEKLOUB",
         "url": "https://open.spotify.com/album/2puCXbeZ2wvKFPa2MGCsql"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 235026,
       "name": "Sucre",
       "url": "https://open.spotify.com/track/6B9scelTq5dAqEQAhScDQq"
+    },
+    {
+      "added_at": "2023-05-30 10:21:10",
+      "album": {
+        "name": "Al Kawn Janni Maak",
+        "url": "https://open.spotify.com/album/5WfAjtVWyItvqpfEYfoZIG"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "duration_ms": 135060,
+      "name": "Al Kawn Janni Maak",
+      "url": "https://open.spotify.com/track/0s6Vv5wPxRCsrBMjTSyrcg"
     },
     {
       "added_at": "2023-05-30 10:21:10",
@@ -1131,38 +1131,6 @@
     {
       "added_at": "2023-05-30 10:21:10",
       "album": {
-        "name": "Bahebek Lelsama",
-        "url": "https://open.spotify.com/album/2426NrM8n5hNONlavrlbkn"
-      },
-      "artists": [
-        {
-          "name": "Aziz Maraka",
-          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
-        }
-      ],
-      "duration_ms": 200826,
-      "name": "Bahebek Lelsama",
-      "url": "https://open.spotify.com/track/6J4xPcKd2BdyCYdCIspKTg"
-    },
-    {
-      "added_at": "2023-05-30 10:21:10",
-      "album": {
-        "name": "Eza",
-        "url": "https://open.spotify.com/album/6ZyBVcuJy1NFAEQJWIA5Iq"
-      },
-      "artists": [
-        {
-          "name": "Nina Abdel Malak",
-          "url": "https://open.spotify.com/artist/4XfkQ6qBTSdds4GqBAlt0E"
-        }
-      ],
-      "duration_ms": 272471,
-      "name": "Khallini Bel Jaw",
-      "url": "https://open.spotify.com/track/514i2jFUpYy26L92YGRSOH"
-    },
-    {
-      "added_at": "2023-05-30 10:21:10",
-      "album": {
         "name": "El Nour",
         "url": "https://open.spotify.com/album/3l39Bl8unEhLRYfIIDyqjF"
       },
@@ -1199,6 +1167,22 @@
     {
       "added_at": "2023-05-30 10:21:10",
       "album": {
+        "name": "Eza",
+        "url": "https://open.spotify.com/album/6ZyBVcuJy1NFAEQJWIA5Iq"
+      },
+      "artists": [
+        {
+          "name": "Nina Abdel Malak",
+          "url": "https://open.spotify.com/artist/4XfkQ6qBTSdds4GqBAlt0E"
+        }
+      ],
+      "duration_ms": 272471,
+      "name": "Khallini Bel Jaw",
+      "url": "https://open.spotify.com/track/514i2jFUpYy26L92YGRSOH"
+    },
+    {
+      "added_at": "2023-05-30 10:21:10",
+      "album": {
         "name": "Ya Bay",
         "url": "https://open.spotify.com/album/2gnn8Mwb6Njbh34OsqvoIh"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 336008,
       "name": "Ween El-Kalam",
       "url": "https://open.spotify.com/track/5FoOlTlC8pzAHV23s7gPqY"
+    },
+    {
+      "added_at": "2023-05-30 10:21:10",
+      "album": {
+        "name": "Bahebek Lelsama",
+        "url": "https://open.spotify.com/album/2426NrM8n5hNONlavrlbkn"
+      },
+      "artists": [
+        {
+          "name": "Aziz Maraka",
+          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
+        }
+      ],
+      "duration_ms": 200826,
+      "name": "Bahebek Lelsama",
+      "url": "https://open.spotify.com/track/6J4xPcKd2BdyCYdCIspKTg"
     },
     {
       "added_at": "2023-05-30 10:21:10",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-05-30 10:21:10",
       "album": {
-        "name": "Ya Bay - Live",
-        "url": "https://open.spotify.com/album/2iz4CRdRylXqvWkYRtznqq"
-      },
-      "artists": [
-        {
-          "name": "Aziz Maraka",
-          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
-        }
-      ],
-      "duration_ms": 370000,
-      "name": "Ya Bay - Live",
-      "url": "https://open.spotify.com/track/7f8Hj1nQ0FnLUjswRiITKl"
-    },
-    {
-      "added_at": "2023-05-30 10:21:10",
-      "album": {
         "name": "Fuqaati (My Bubble)",
         "url": "https://open.spotify.com/album/1BhIR1MRcxHmVp53exP61r"
       },
@@ -1299,22 +1283,6 @@
       "duration_ms": 268502,
       "name": "Fuqaati (My Bubble)",
       "url": "https://open.spotify.com/track/1qvai6uaDWd2z4JeYSlFka"
-    },
-    {
-      "added_at": "2023-05-30 10:21:10",
-      "album": {
-        "name": "\u0639\u0633\u0627\u0641",
-        "url": "https://open.spotify.com/album/4hLQnN3M5nTYN4NU4NG6NM"
-      },
-      "artists": [
-        {
-          "name": "Mohammad Assaf",
-          "url": "https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE"
-        }
-      ],
-      "duration_ms": 290773,
-      "name": "\u0644\u0648\u064a\u0646 \u0628\u0631\u0648\u062d",
-      "url": "https://open.spotify.com/track/4LWO2PSM4751X7J9q82H6D"
     },
     {
       "added_at": "2023-05-30 10:21:10",
@@ -1335,6 +1303,22 @@
     {
       "added_at": "2023-05-30 10:21:10",
       "album": {
+        "name": "\u0639\u0633\u0627\u0641",
+        "url": "https://open.spotify.com/album/4hLQnN3M5nTYN4NU4NG6NM"
+      },
+      "artists": [
+        {
+          "name": "Mohammad Assaf",
+          "url": "https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE"
+        }
+      ],
+      "duration_ms": 290773,
+      "name": "\u0644\u0648\u064a\u0646 \u0628\u0631\u0648\u062d",
+      "url": "https://open.spotify.com/track/4LWO2PSM4751X7J9q82H6D"
+    },
+    {
+      "added_at": "2023-05-30 10:21:10",
+      "album": {
         "name": "Adaysh Kan Fe Nas (Lo-fi remix)",
         "url": "https://open.spotify.com/album/7G1AD6m0P2vgNl22TAj3D4"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 169820,
       "name": "Adaysh Kan Fe Nas - Lo-fi remix",
       "url": "https://open.spotify.com/track/2iuis9F4yWYYxVGwkPLV7c"
+    },
+    {
+      "added_at": "2023-05-30 10:21:10",
+      "album": {
+        "name": "Ya Bay - Live",
+        "url": "https://open.spotify.com/album/2iz4CRdRylXqvWkYRtznqq"
+      },
+      "artists": [
+        {
+          "name": "Aziz Maraka",
+          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
+        }
+      ],
+      "duration_ms": 370000,
+      "name": "Ya Bay - Live",
+      "url": "https://open.spotify.com/track/7f8Hj1nQ0FnLUjswRiITKl"
     },
     {
       "added_at": "2023-05-30 10:21:10",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-05-30 10:21:10",
       "album": {
-        "name": "Life (Acoustic)",
-        "url": "https://open.spotify.com/album/11TZPC3sgwUZukOoGrwfQk"
-      },
-      "artists": [
-        {
-          "name": "Moseqar",
-          "url": "https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH"
-        }
-      ],
-      "duration_ms": 254769,
-      "name": "Life - Acoustic",
-      "url": "https://open.spotify.com/track/24HKZoXy9lp7Yp3G7BlJ8v"
-    },
-    {
-      "added_at": "2023-05-30 10:21:10",
-      "album": {
         "name": "Ll Abad",
         "url": "https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 212476,
       "name": "Ll Abad",
       "url": "https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq"
+    },
+    {
+      "added_at": "2023-05-30 10:21:10",
+      "album": {
+        "name": "Life (Acoustic)",
+        "url": "https://open.spotify.com/album/11TZPC3sgwUZukOoGrwfQk"
+      },
+      "artists": [
+        {
+          "name": "Moseqar",
+          "url": "https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH"
+        }
+      ],
+      "duration_ms": 254769,
+      "name": "Life - Acoustic",
+      "url": "https://open.spotify.com/track/24HKZoXy9lp7Yp3G7BlJ8v"
     },
     {
       "added_at": "2023-05-30 10:21:10",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-05-30 10:21:10",
       "album": {
-        "name": "\u0632\u0647\u0631\u0629 \u0631\u0645\u0627\u0646",
-        "url": "https://open.spotify.com/album/3suV5ivCydSX1Hl1vPlllf"
-      },
-      "artists": [
-        {
-          "name": "Soukayna Jamali",
-          "url": "https://open.spotify.com/artist/6HSYK1Uoe0vnjnAwi9nuap"
-        }
-      ],
-      "duration_ms": 206044,
-      "name": "\u0632\u0647\u0631\u0629 \u0631\u0645\u0627\u0646",
-      "url": "https://open.spotify.com/track/3boWEgROn4eUoNqA4AkKF0"
-    },
-    {
-      "added_at": "2023-05-30 10:21:10",
-      "album": {
         "name": "\u062f\u0628\u0631\u0647\u0627",
         "url": "https://open.spotify.com/album/56RwJOvWAxa6afeJYoWBwx"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 289320,
       "name": "\u062f\u0628\u0631\u0647\u0627",
       "url": "https://open.spotify.com/track/1aFTIheXpBAbSf6ag1AfDl"
+    },
+    {
+      "added_at": "2023-05-30 10:21:10",
+      "album": {
+        "name": "\u0632\u0647\u0631\u0629 \u0631\u0645\u0627\u0646",
+        "url": "https://open.spotify.com/album/3suV5ivCydSX1Hl1vPlllf"
+      },
+      "artists": [
+        {
+          "name": "Soukayna Jamali",
+          "url": "https://open.spotify.com/artist/6HSYK1Uoe0vnjnAwi9nuap"
+        }
+      ],
+      "duration_ms": 206044,
+      "name": "\u0632\u0647\u0631\u0629 \u0631\u0645\u0627\u0646",
+      "url": "https://open.spotify.com/track/3boWEgROn4eUoNqA4AkKF0"
     },
     {
       "added_at": "2023-05-30 10:21:10",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-05-30 10:21:10",
       "album": {
-        "name": "Ella Enta (Live Session)",
-        "url": "https://open.spotify.com/album/4v585gO6VevpUdxqcyvIV3"
-      },
-      "artists": [
-        {
-          "name": "Dana Hourani",
-          "url": "https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6"
-        }
-      ],
-      "duration_ms": 248952,
-      "name": "Ella Enta (Live Session)",
-      "url": "https://open.spotify.com/track/3dyoifUuRTOhUbF4sN3oGd"
-    },
-    {
-      "added_at": "2023-05-30 10:21:10",
-      "album": {
         "name": "Falaytaka Tahlou",
         "url": "https://open.spotify.com/album/4fRMjvfPoNSVNkJT0E4GFm"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 236800,
       "name": "Falaytaka Tahlou",
       "url": "https://open.spotify.com/track/2QC2N9Y3qfyeqFqyizohk6"
+    },
+    {
+      "added_at": "2023-05-30 10:21:10",
+      "album": {
+        "name": "Ella Enta (Live Session)",
+        "url": "https://open.spotify.com/album/4v585gO6VevpUdxqcyvIV3"
+      },
+      "artists": [
+        {
+          "name": "Dana Hourani",
+          "url": "https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6"
+        }
+      ],
+      "duration_ms": 248952,
+      "name": "Ella Enta (Live Session)",
+      "url": "https://open.spotify.com/track/3dyoifUuRTOhUbF4sN3oGd"
     },
     {
       "added_at": "2023-05-30 10:21:10",

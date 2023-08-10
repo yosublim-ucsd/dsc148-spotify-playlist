@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: PROXIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,617 likes - 65 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,665 likes - 65 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 64 | [ชอบคุณนะ \- Unsend](https://open.spotify.com/track/0nKRTd3kTf0xyU9q608e8S) | [Proo Thunwa](https://open.spotify.com/artist/1P15t4uFsvUZCgkTvQqsaj) | [ชอบคุณนะ \(Unsend\)](https://open.spotify.com/album/7GewzqYmhU1NAX5W380oTn) | 2:48 |
 | 65 | [ไม่พิเศษ](https://open.spotify.com/track/0b60FpB5Z8zm829xnET7t3) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [ไม่พิเศษ](https://open.spotify.com/album/5fT12K1hCBKxCxZhqxJAET) | 3:28 |
 
-Snapshot ID: `MCw5OGI5OGFhZWJjYzk1ZDk2NTZmNjhmZDUxMTAyMDY0MDExZjcxZDk2`
+Snapshot ID: `MCxjNTczMmM5ZmVkOTQ4ODM4NzliMmI0OWZkN2FhMDkwNDhiYzNlN2M3`

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0D3bsYM560s.md) - [plain]
 
 > Celebrating the extraordinary women breaking boundaries and keeping tradition alive\. Cover: Rhonda Vincent
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,732 likes - 95 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,749 likes - 95 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Swept Away](https://open.spotify.com/track/0j1lzFyh427bXhDHLeth6q) | [Missy Raines](https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep), [Alison Brown](https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK), [Becky Buller](https://open.spotify.com/artist/51GVpccMzO5rZqCEaePGBv), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Royal Traveller](https://open.spotify.com/album/0O6Nyhc5bVD0iYtEq5J3sZ) | 3:56 |
 | 2 | [Kentucky Borderline](https://open.spotify.com/track/3p1T3tocORKMJOulIOh4zc) | [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT) | [One Step Ahead](https://open.spotify.com/album/6ycDawGWCxbT5dk860MWOE) | 3:32 |
 | 3 | [I've Got That Old Feeling](https://open.spotify.com/track/3W8299AD4n4LAgIr5VGY3X) | [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [I've Got That Old Feeling](https://open.spotify.com/album/1ETt1sfe0PREZLQqsIOAU7) | 2:56 |
-| 4 | [El Dorado](https://open.spotify.com/track/4qL1jujA2oQ2REmXOIonGb) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [El Dorado](https://open.spotify.com/album/01pat6dFkOovUam3FEHaaV) | 4:23 |
+| 4 | [El Dorado](https://open.spotify.com/track/54M6qWsxkihPmM5KBa7LE0) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [City of Gold](https://open.spotify.com/album/3LAherx4Gg7LCOWQo25lBK) | 4:23 |
 | 5 | [Mountain Banjo](https://open.spotify.com/track/2VCeQfecKMpctfC5zdgyWO) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [The Music of Red Dead Redemption 2 \(Original Soundtrack\)](https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW) | 2:41 |
 | 6 | [Crooked Tree](https://open.spotify.com/track/1NlwiyN4GGn3gVgyZ8T5AW) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [Crooked Tree](https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc) | 3:52 |
 | 7 | [Love Train](https://open.spotify.com/track/5vlTEeXibOs10LTl0Ugxkh) | [Dale Ann Bradley](https://open.spotify.com/artist/5GbwZNguC7FpXnQlIrTiXm), [Rebecca Lynn Howard](https://open.spotify.com/artist/12bBoCZdPZbBEq1xHT0heD) | [Love Train](https://open.spotify.com/album/2Xrk8uAG4XkUPuaAmp4tgK) | 3:29 |
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0D3bsYM560s.md) - [plain]
 | 79 | [Saint Elizabeth](https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs) | 3:59 |
 | 80 | [Real Women Drive Trucks](https://open.spotify.com/track/32oTlq7w9VekLge7IonIW4) | [Casey Henry](https://open.spotify.com/artist/1vYxSBhLyy4ZgYAZhMa7OH) | [Real Women Drive Trucks](https://open.spotify.com/album/1jVkyZ198TAQO3pJelwM8p) | 3:45 |
 | 81 | [Can't You Hear Me Calling](https://open.spotify.com/track/23OoEtf6QaQ2HAUMvfldLa) | [Hazel Dickens](https://open.spotify.com/artist/2IEiSF4inDSwzQowcQjdfT), [Alice Gerrard](https://open.spotify.com/artist/3jw7tGSvkcf3nb1LWNnguT) | [Pioneering Women of Bluegrass](https://open.spotify.com/album/47foG5gtaTxSEmEM141ckO) | 3:16 |
-| 82 | [The Hard Way](https://open.spotify.com/track/2nwj84xtWw98wuLbkOR77O) | [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Secrets](https://open.spotify.com/album/6QNcb3Y6yNePv0w5mMPtLJ) | 4:29 |
+| 82 | [The Hard Way](https://open.spotify.com/track/2nwj84xtWw98wuLbkOR77O) | [Rivers Rutherford](https://open.spotify.com/artist/6gFMSNbmoT4vDfNOpCP2rA), [Gordie Sampson](https://open.spotify.com/artist/4WkanTEimYpnh2LSd4OwtB), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Secrets](https://open.spotify.com/album/6QNcb3Y6yNePv0w5mMPtLJ) | 4:29 |
 | 83 | [Transatlantic](https://open.spotify.com/track/5epyQzvH7910hgRpCabGtp) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Kris Drever](https://open.spotify.com/artist/14T0l4AeAGbmAZjpQNdcqk) | [The Apathy Sessions](https://open.spotify.com/album/17KrnzA7mW2Gff5QGxi1rP) | 4:32 |
 | 84 | [I'd Like To Be A Train](https://open.spotify.com/track/3210iZQcMzIBq2mfPDvInF) | [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT) | [Music Is What I See](https://open.spotify.com/album/58dYpoNXLV5SBjDWPjnRJK) | 3:54 |
 | 85 | [Black And White](https://open.spotify.com/track/3s2XiOGkArCBGDiJwDTBmx) | [Cherryholmes](https://open.spotify.com/artist/5kEVfWQGTw0rIDO2Jqq1ww) | [Cherryholmes II Black And White](https://open.spotify.com/album/3GIpi1yxbE6soZNVmk65Lo) | 5:18 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0D3bsYM560s.md) - [plain]
 | 94 | [Still Waters](https://open.spotify.com/track/2V7gZvxlaWRLLr8bh24KJj) | [Jaelee Roberts](https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM) | [Still Waters](https://open.spotify.com/album/1kow6Yag9rCgmQyDmHXWj6) | 2:34 |
 | 95 | [Roses](https://open.spotify.com/track/3FFu0uOEWYckhG3x84G2Tw) | [Jackson Hollow](https://open.spotify.com/artist/2WCHpMBjtoxlCWKb8gedHW) | [Roses](https://open.spotify.com/album/2EfieuernrZzBlyGRh0Vsj) | 4:29 |
 
-Snapshot ID: `MCw0N2E4ODc3ZjZkNjJhNzg2NjE2MjM5NmRiOGU4ZWFlY2JkZjRkM2Vj`
+Snapshot ID: `MCxiYmJjY2JmNWMzOTI3MTY2YjhhNTAwNGQyNDFkNGI2ZDYxNjJmM2Zj`

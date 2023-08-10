@@ -1,12 +1,12 @@
 {
   "description": "New song and hits from your favorite Alternative artists. Cover: Jack White",
-  "num_followers": 68714,
+  "num_followers": 68753,
   "original_name": "Your Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjViOWRjMjRiNmYxZjVhYTdhNGFhMTk1MDI3MjQ3MmQ5NGYxMWM0",
+  "snapshot_id": "MCxkZGMxNzA1OTdlODlhN2QyN2U5ZWIyMjA4NTc2MzRlMDIzZDFlOGFk",
   "tracks": [
     {
       "added_at": "2022-02-04 05:01:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/14Q6NvjUSthc0Xgb5EgtQd"
+      },
+      "artists": [
+        {
+          "name": "MEG MYERS",
+          "url": "https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ"
+        }
+      ],
+      "duration_ms": 284333,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/3kG6GPkDkV2RQTm9QdYN9Z"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
         "name": "I Don\u2019t Live Here Anymore",
         "url": "https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 327546,
       "name": "I Don't Live Here Anymore (feat. Lucius)",
       "url": "https://open.spotify.com/track/5Uou8idst1XJc0F6MRAk5S"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/14Q6NvjUSthc0Xgb5EgtQd"
-      },
-      "artists": [
-        {
-          "name": "MEG MYERS",
-          "url": "https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ"
-        }
-      ],
-      "duration_ms": 284333,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/3kG6GPkDkV2RQTm9QdYN9Z"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 190447,
+      "name": "Up All Night",
+      "url": "https://open.spotify.com/track/28AgTOIZke8nitD0NNeb3G"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
         "name": "Zen (with K.Flay & grandson)",
         "url": "https://open.spotify.com/album/2JQbWWpYG6kKppiD6z2FwL"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 215882,
       "name": "Zen (with K.Flay & grandson)",
       "url": "https://open.spotify.com/track/2loEXJRB5ExGcUHYX365R5"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 190447,
-      "name": "Up All Night",
-      "url": "https://open.spotify.com/track/28AgTOIZke8nitD0NNeb3G"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "A Light for Attracting Attention",
-        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
-      },
-      "artists": [
-        {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
-        }
-      ],
-      "duration_ms": 168172,
-      "name": "You Will Never Work In Television Again",
-      "url": "https://open.spotify.com/track/2ownDSIYHvydbtauGZW4ln"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
         "name": "Kintsugi",
         "url": "https://open.spotify.com/album/6BK3muExDOuk0VnyMn9NVw"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 289160,
       "name": "Black Sun",
       "url": "https://open.spotify.com/track/59FC22eN2Syt9bbv2d6393"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "A Light for Attracting Attention",
+        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        }
+      ],
+      "duration_ms": 168172,
+      "name": "You Will Never Work In Television Again",
+      "url": "https://open.spotify.com/track/2ownDSIYHvydbtauGZW4ln"
     }
   ],
   "unique_name": "Your Alternative",

@@ -4,7 +4,7 @@
 
 > This is Banda Rafaga\. The essential tracks, all in one playlist.
 
-94 songs - 5 hr 19 min
+95 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,8 +53,9 @@
 | [La Niña Bonita](https://open.spotify.com/track/5CoCN3Ll8Ms6vP8cYqWDGO) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Soy de Carne Y Hueso](https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ) | 2:36 | 2023-01-02 |  |
 | [La Otra España \(En Vivo\)](https://open.spotify.com/track/78ZsuXjwAzs0hezu9LYQ5B) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga En Vivo! Vol\. 1](https://open.spotify.com/album/2qUPiJ1BajcT1xtC3fdO4a) | 2:44 | 2022-06-02 | 2022-08-24 |
 | [La Otra España \- En Vivo](https://open.spotify.com/track/6cx3phEMsyfMqRs5RlsGsa) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga En Vivo! , Vol.1](https://open.spotify.com/album/1G3PD5Exsb96cyFrS9MPdS) | 2:44 | 2022-11-16 |  |
+| [Lagrimas Del Corazon](https://open.spotify.com/track/0LdGrH5fhkj2NhMJstqpWM) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Lagrimas Del Corazon](https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo) | 3:51 | 2023-08-09 |  |
 | [Las Medias Negras \- En Vivo](https://open.spotify.com/track/4yPlCcF26zH7EqXHZ9k6xD) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 2:31 | 2022-06-01 | 2022-10-11 |
-| [Lágrimas Del Corazón](https://open.spotify.com/track/3QGhTa9qbJbTqrNdYJMF0z) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Lágrimas Del Corazón](https://open.spotify.com/album/69OJ2MI81EAxVs7alXIX82) | 3:53 | 2022-06-01 |  |
+| [Lágrimas Del Corazón](https://open.spotify.com/track/3QGhTa9qbJbTqrNdYJMF0z) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Lágrimas Del Corazón](https://open.spotify.com/album/69OJ2MI81EAxVs7alXIX82) | 3:53 | 2022-06-01 | 2023-08-10 |
 | [Llegaste A Mi Vida](https://open.spotify.com/track/029iHUnTzyQntyEuWzpnVX) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [LLegaste A Mi Vida](https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb) | 2:58 | 2022-06-01 |  |
 | [Llevame Contigo](https://open.spotify.com/track/78fUf903N8dzejWIZ8NLz3) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Llévame Contigo](https://open.spotify.com/album/4qMiExdPt18UlftnXrZitv) | 2:56 | 2022-09-18 | 2022-09-20 |
 | [Lo Aprendí De Ti](https://open.spotify.com/track/032qb1vSAmnIvg6rz2axRo) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Lágrimas Del Corazón](https://open.spotify.com/album/69OJ2MI81EAxVs7alXIX82) | 3:32 | 2022-06-01 |  |

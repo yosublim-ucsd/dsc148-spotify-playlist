@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock bands/artists in Japan right now! Cover: Quruli\(くるり\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,341 likes - 60 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,521 likes - 60 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [California coconuts](https://open.spotify.com/track/2VAnn7QXr1jXP3GGvpcYhp) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [California coconuts](https://open.spotify.com/album/7na5aZq54qDZblhOiVRnj0) | 3:55 |
+| 1 | [California coconuts](https://open.spotify.com/track/0lNrG9JiNQIrSQJ3vzQdcx) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [California coconuts](https://open.spotify.com/album/6jTHO0OfY0J7FjlokGXzH9) | 3:55 |
 | 2 | [絆ノ奇跡](https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [絆ノ奇跡](https://open.spotify.com/album/1xml9CR90tJdvTESDk4Q4s) | 3:43 |
 | 3 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 |
 | 4 | [Bongiri koiuta](https://open.spotify.com/track/0POtzhZLoUX2bsFatFD4rD) | [SOUTHERN ALL STARS](https://open.spotify.com/artist/6HqHB2AFBXUQHQFN026oYP) | [Bongiri koiuta](https://open.spotify.com/album/7bUQB59SHqlbzJsHg4lRlM) | 4:19 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 59 | [名前を呼ぶよ](https://open.spotify.com/track/5iTyiE1jAfmjorzFLc4Frg) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [名前を呼ぶよ](https://open.spotify.com/album/5UXiAgBDuYMULAVlRNF3it) | 4:37 |
 | 60 | [ジターバグ](https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [BRING YOUR BOARD!!](https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k) | 3:19 |
 
-Snapshot ID: `MCw3NjQ0NGQ4MDFmZjkwZGI1NzBhZTFmYmUyYzI4ZDY2ZTEzM2QwYTNi`
+Snapshot ID: `MCxiYjM5MzNiZDM2ZDI1ZDg5MzM4MTVjYTAwOTZlM2NmY2FmYWMxNjBl`

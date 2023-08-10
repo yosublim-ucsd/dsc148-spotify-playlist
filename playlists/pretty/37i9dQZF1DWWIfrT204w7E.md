@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 
 > Drill scenes connect\. Cover: Tion Wayne
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,413 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,463 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,10 +17,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 | 7 | [GATTI](https://open.spotify.com/track/40mjsnRjCpycdUw3xhS20g) | [JACKBOYS](https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS](https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx) | 3:01 |
 | 8 | [Got It On Me](https://open.spotify.com/track/25zlnOAzbVoOzIeXSvQFf1) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 2:44 |
 | 9 | [Hometown](https://open.spotify.com/track/09aJ1FZotZStzoUgJchhwf) | [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE), [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Kush](https://open.spotify.com/artist/3zBZhGMFBeqdhCdJB60a5g), [Akz](https://open.spotify.com/artist/7uyql7QaJZdpubTRISfvbK), [Rv](https://open.spotify.com/artist/4VylF3B1rKCL5tdOJ8VL8o), [YF](https://open.spotify.com/artist/4qRbNvzOP9UxQIqOIbJMUb), [Kash](https://open.spotify.com/artist/1wDiHQM5CoaSnHrNP3HG5V) | [M.A.R.K](https://open.spotify.com/album/64eGGtowHL74uQ4MnIMZri) | 6:02 |
-| 10 | [NO SNITCHING \(with Dusty Locane\)](https://open.spotify.com/track/07NgzcfZh94EiueKm5KiT4) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [DOUBLE M'S](https://open.spotify.com/album/5jBQATS4iLhsYP7pGhdAcp) | 2:40 |
+| 10 | [Headshot \(feat\. Polo G & Fivio Foreign\)](https://open.spotify.com/track/4eNOLmx8r2IJAVKvBBL1jv) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Destined 2 Win](https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ) | 2:24 |
 | 11 | [In Ha Mood](https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [In Ha Mood](https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW) | 2:09 |
 | 12 | [One Man](https://open.spotify.com/track/71kJnstCbvqaI9H70S9y68) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [One Man](https://open.spotify.com/album/610EHuJKkSztClP2OfxeYy) | 2:30 |
-| 13 | [Headshot \(feat\. Polo G & Fivio Foreign\)](https://open.spotify.com/track/4eNOLmx8r2IJAVKvBBL1jv) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Destined 2 Win](https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ) | 2:24 |
+| 13 | [NO SNITCHING \(with Dusty Locane\)](https://open.spotify.com/track/07NgzcfZh94EiueKm5KiT4) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [DOUBLE M'S](https://open.spotify.com/album/5jBQATS4iLhsYP7pGhdAcp) | 2:40 |
 | 14 | [Off The Grid](https://open.spotify.com/track/6LNoArVBBVZzUTUiAX2aKO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 5:39 |
 | 15 | [Let's Do It \(feat\. Dee Play4Keeps\)](https://open.spotify.com/track/5S3IJ9t7F1ZkyDR7Pjz7oS) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM), [Dee Play4Keeps](https://open.spotify.com/artist/1gocjCamV704bOkNiCMGhA) | [Let's Do It](https://open.spotify.com/album/0WlIxiPWaiMGEJrrp1QFoG) | 2:49 |
 | 16 | [Hot N\*gga](https://open.spotify.com/track/19gEmPjfqSZT0ulDRfjl0m) | [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO) | [Hot N\*gga](https://open.spotify.com/album/5ptl9Sheh9eWaogxFOZ3PV) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 | 49 | [Demons \(feat\. Fivio Foreign & Sosa Geek\)](https://open.spotify.com/track/05aZ9sAU1YXndHv0FMi9iW) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Sosa Geek](https://open.spotify.com/artist/2UyyBkpzN5w3hzZBZGvRZb) | [Dark Lane Demo Tapes](https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK) | 3:24 |
 | 50 | [ROLLIN N CONTROLLIN FREESTYLE](https://open.spotify.com/track/1xqRKo0SDFDO5Jy8yEVD0X) | [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [ROLLIN N CONTROLLIN FREESTYLE](https://open.spotify.com/album/752RRPgpiIBjptbb1BqoRI) | 3:11 |
 
-Snapshot ID: `MCw1ODc1ODk1YWYxYzA1MjIyMDM2ODE3N2U5MDBiMzEzNTY2MGE4OGUx`
+Snapshot ID: `MCw1ZDJmM2Y3ODRiZDE3N2QwOWEyMjEwNmFiY2Q4YzhhMWE4ZDEwNmRk`

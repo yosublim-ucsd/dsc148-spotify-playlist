@@ -4,7 +4,7 @@
 
 > a hardcore home for slowcore fans.
 
-128 songs - 11 hr 38 min
+129 songs - 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Cry Wolf](https://open.spotify.com/track/7wc3vDNk30wsPhq8rsjcdq) | [Lisa Germano](https://open.spotify.com/artist/5TZqjmYL8p9HtJsBKXCxgE) | [Geek the Girl](https://open.spotify.com/album/1yZ4bCBoDk01rxjefcoUzq) | 4:59 | 2021-06-25 |  |
 | [D](https://open.spotify.com/track/2bMMG4vn7pHC20gj8Yb34m) | [Codeine](https://open.spotify.com/artist/60CBjmRpwr02JwAd3Ho25U) | [Frigid Stars](https://open.spotify.com/album/3a7G9BVcIu4T3kf3jQFrk9) | 4:27 | 2021-06-25 |  |
 | [Days Like These](https://open.spotify.com/track/27L8FnjBjOuGrAHeWthYj8) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Days Like These](https://open.spotify.com/album/460w7j52szrH9wsbG0kKgu) | 5:20 | 2021-06-25 | 2022-07-29 |
-| [Days Like These](https://open.spotify.com/track/6KVjO1Wye1FuNdYx0keRkP) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [HEY WHAT](https://open.spotify.com/album/6S6jg2LuEwGdo9iYMSwCBS) | 5:20 | 2021-06-25 |  |
+| [Days Like These](https://open.spotify.com/track/6KVjO1Wye1FuNdYx0keRkP) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [HEY WHAT](https://open.spotify.com/album/6S6jg2LuEwGdo9iYMSwCBS) | 5:20 | 2021-06-25 | 2023-08-10 |
 | [Didn't It Rain](https://open.spotify.com/track/4wCO1K82DldGl4tAYgZcgx) | [Songs: Ohia](https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z) | [Didn't It Rain \(Deluxe Edition\)](https://open.spotify.com/album/5Q3CKS0VEKKJXpGbXvOrLa) | 7:52 | 2021-06-25 |  |
 | [Didn't It Rain](https://open.spotify.com/track/7LVRbiFiUi1XwxcGy7rFdS) | [Songs: Ohia](https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z) | [Didn't It Rain \(Deluxe Edition\)](https://open.spotify.com/album/1pcDNDsUKweDsbxF5aFLvM) | 7:52 | 2021-06-25 | 2022-07-29 |
 | [Digging Shelters](https://open.spotify.com/track/5z0rixDlXqm0iXZ1Zxz3YX) | [Neil Halstead](https://open.spotify.com/artist/3QbwwBVHCVDEDrVpvUcCwj) | [Palindrome Hunches](https://open.spotify.com/album/6nWn2IqFMPLfo5fEi42XOe) | 3:40 | 2021-06-25 |  |
@@ -107,7 +107,8 @@
 | [So Much Water](https://open.spotify.com/track/0J5jztzHjt08li8Lurpi2j) | [Tacoma Radar](https://open.spotify.com/artist/0qhbCDBSjvtKJXyujrFdHP) | [No One Waved Goodbye](https://open.spotify.com/album/3FL15PhmhsId7fKeYS0iVm) | 3:33 | 2021-06-25 |  |
 | [So You Wanna Be A Superhero](https://open.spotify.com/track/1m8BbvwAnub1GHOTRiglRx) | [Carissa's Wierd](https://open.spotify.com/artist/5VnYwYnG7QmpzQtxyubIwh) | [Songs About Leaving](https://open.spotify.com/album/0DUYAw29meoZyNTJIbXKkf) | 3:39 | 2021-06-25 |  |
 | [So You Wanna Be A Superhero](https://open.spotify.com/track/7Ir0hrgKvJfZxLUZT5aAJ8) | [Carissa's Wierd](https://open.spotify.com/artist/5VnYwYnG7QmpzQtxyubIwh) | [They'll Only Miss You When You Leave: Songs 1996\-2003](https://open.spotify.com/album/1AXqWQAJ61VofvU0wgGD70) | 3:39 | 2021-06-25 | 2022-07-29 |
-| [Starting Over](https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp) | [LSD and the Search for God](https://open.spotify.com/artist/2feOOr1Yjovo67byuxvjZv) | [LSD and the Search for God](https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS) | 5:04 | 2021-06-25 |  |
+| [Starting Over](https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp) | [LSD and the Search for God](https://open.spotify.com/artist/2feOOr1Yjovo67byuxvjZv) | [LSD and the Search for God](https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS) | 5:04 | 2021-06-25 | 2023-08-10 |
+| [Stop Waiting](https://open.spotify.com/track/5nSWSCnhIgUDlxK4TX2wtT) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/0rImMICTHs4ayGu4Jzj3Dv) | 6:02 | 2023-08-09 |  |
 | [Sun Drawing](https://open.spotify.com/track/6AtRvRFkhSiP9518S48WBj) | [Movietone](https://open.spotify.com/artist/71ZjnwAyCVUWd6UsMbRtqf) | [Day And Night](https://open.spotify.com/album/64SmrtVEj2HwkQyz2Z9GXf) | 3:57 | 2021-06-25 |  |
 | [Sunflower](https://open.spotify.com/track/5MLBottNJ4s4yL6t9sIryD) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Things We Lost in the Fire](https://open.spotify.com/album/3YWmAFuOtr9YIDdqJ2Gius) | 4:39 | 2021-06-25 |  |
 | [Sweet Unknown](https://open.spotify.com/track/1LpI5TBhhS8VAOebXksrPy) | [The Hope Blister](https://open.spotify.com/artist/0xm0RDlfj87r1uPa7srs33) | [...Smile's OK](https://open.spotify.com/album/2jccmYwkig1OPAeZte5cGi) | 4:17 | 2021-06-25 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Feel good with this positively timeless playlist!",
-  "num_followers": 3602228,
+  "num_followers": 3602663,
   "original_name": "Feelin' Good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDlhZjE0NmRhMDUxNGFlNjFlOGIxYmY3YTJjYWM0YWFmZmRkOWMx",
+  "snapshot_id": "MCxmZWFjZmE1ZGE3ODUyMTBjMDBkMTdiNTIwMjY4MWFmYjU3NjJlYjYw",
   "tracks": [
     {
       "added_at": "2021-10-19 21:36:21",
@@ -701,22 +701,6 @@
       "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
     },
     {
-      "added_at": "2021-12-13 21:17:46",
-      "album": {
-        "name": "Ultimate Collection: Dobie Gray",
-        "url": "https://open.spotify.com/album/4EuAVxsazdEFr5ylShtllS"
-      },
-      "artists": [
-        {
-          "name": "Dobie Gray",
-          "url": "https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV"
-        }
-      ],
-      "duration_ms": 237466,
-      "name": "Drift Away - Single Version",
-      "url": "https://open.spotify.com/track/6hJhVBOnkchxBsDHbLOBJP"
-    },
-    {
       "added_at": "2021-10-19 21:36:21",
       "album": {
         "name": "The Man Who Invented Soul",
@@ -731,6 +715,22 @@
       "duration_ms": 162533,
       "name": "Bring It On Home to Me",
       "url": "https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV"
+    },
+    {
+      "added_at": "2021-12-13 21:17:46",
+      "album": {
+        "name": "Ultimate Collection: Dobie Gray",
+        "url": "https://open.spotify.com/album/4EuAVxsazdEFr5ylShtllS"
+      },
+      "artists": [
+        {
+          "name": "Dobie Gray",
+          "url": "https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV"
+        }
+      ],
+      "duration_ms": 237466,
+      "name": "Drift Away - Single Version",
+      "url": "https://open.spotify.com/track/6hJhVBOnkchxBsDHbLOBJP"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Heat Wave",
-        "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
-      },
-      "artists": [
-        {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
-        }
-      ],
-      "duration_ms": 163053,
-      "name": "(Love Is Like A) Heat Wave",
-      "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Half The City",
         "url": "https://open.spotify.com/album/6BN0KczNzSrfmKoQzd6lMS"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 171266,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/5Z0MrFDEIDB075We9w9276"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Heat Wave",
+        "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "duration_ms": 163053,
+      "name": "(Love Is Like A) Heat Wave",
+      "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Face Your Fear",
-        "url": "https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1"
+        "name": "I Can't Stand the Rain",
+        "url": "https://open.spotify.com/album/67Sjm7EwrWbnnyojmhP4KL"
       },
       "artists": [
         {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+          "name": "Ann Peebles",
+          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
         }
       ],
-      "duration_ms": 177200,
-      "name": "Need Your Love",
-      "url": "https://open.spotify.com/track/3zYQ1KXzqBWRsxIqdVMoYF"
+      "duration_ms": 150400,
+      "name": "I Can't Stand the Rain",
+      "url": "https://open.spotify.com/track/0CcL4kSHKIEwF3IW0BGgb6"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "I Can't Stand the Rain",
-        "url": "https://open.spotify.com/album/67Sjm7EwrWbnnyojmhP4KL"
+        "name": "Face Your Fear",
+        "url": "https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1"
       },
       "artists": [
         {
-          "name": "Ann Peebles",
-          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
         }
       ],
-      "duration_ms": 150400,
-      "name": "I Can't Stand the Rain",
-      "url": "https://open.spotify.com/track/0CcL4kSHKIEwF3IW0BGgb6"
+      "duration_ms": 177200,
+      "name": "Need Your Love",
+      "url": "https://open.spotify.com/track/3zYQ1KXzqBWRsxIqdVMoYF"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Express Yourself",
-        "url": "https://open.spotify.com/album/2aUItMxwVnUJg4btjcUxC5"
-      },
-      "artists": [
-        {
-          "name": "Charles Wright & The Watts 103rd Street Rhythm Band",
-          "url": "https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ"
-        }
-      ],
-      "duration_ms": 233613,
-      "name": "Express Yourself",
-      "url": "https://open.spotify.com/track/4pW3aTX3kAmOaPJfc9UM12"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Where Did Our Love Go",
         "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 163093,
       "name": "Come See About Me",
       "url": "https://open.spotify.com/track/307kcWJQNMdiYYKj1LgClU"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Express Yourself",
+        "url": "https://open.spotify.com/album/2aUItMxwVnUJg4btjcUxC5"
+      },
+      "artists": [
+        {
+          "name": "Charles Wright & The Watts 103rd Street Rhythm Band",
+          "url": "https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ"
+        }
+      ],
+      "duration_ms": 233613,
+      "name": "Express Yourself",
+      "url": "https://open.spotify.com/track/4pW3aTX3kAmOaPJfc9UM12"
     },
     {
       "added_at": "2023-08-03 17:52:54",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
+        "name": "Wild And Peaceful",
+        "url": "https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 279933,
+      "name": "Hollywood Swinging",
+      "url": "https://open.spotify.com/track/6igsoAR6Co9u7Rq3U7mlOD"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
         "name": "The War Years (1941-1947)",
         "url": "https://open.spotify.com/album/3xseO3iLY7v7dL7VP6jpsH"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 160133,
       "name": "It's Only A Paper Moon",
       "url": "https://open.spotify.com/track/373yGkNo74RZgmQgTiR8xK"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Wild And Peaceful",
-        "url": "https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI"
-      },
-      "artists": [
-        {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
-        }
-      ],
-      "duration_ms": 279933,
-      "name": "Hollywood Swinging",
-      "url": "https://open.spotify.com/track/6igsoAR6Co9u7Rq3U7mlOD"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1733,22 +1733,6 @@
       "url": "https://open.spotify.com/track/2OyaNAq8BcGstyzueloqpE"
     },
     {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Too Hot to Handle (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8"
-      },
-      "artists": [
-        {
-          "name": "Heatwave",
-          "url": "https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY"
-        }
-      ],
-      "duration_ms": 303640,
-      "name": "Boogie Nights",
-      "url": "https://open.spotify.com/track/4NTSDu34al733aIuUWVJHo"
-    },
-    {
       "added_at": "2023-03-28 15:59:00",
       "album": {
         "name": "Running Away",
@@ -1763,6 +1747,22 @@
       "duration_ms": 195086,
       "name": "Running Away",
       "url": "https://open.spotify.com/track/34VDj911PQh8B1BXYoOMLq"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Too Hot to Handle (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8"
+      },
+      "artists": [
+        {
+          "name": "Heatwave",
+          "url": "https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY"
+        }
+      ],
+      "duration_ms": 303640,
+      "name": "Boogie Nights",
+      "url": "https://open.spotify.com/track/4NTSDu34al733aIuUWVJHo"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2171,18 +2171,18 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Choice Cuts",
-        "url": "https://open.spotify.com/album/6omfXjVxM6zIroFzyHjNkY"
+        "name": "An American Love Story",
+        "url": "https://open.spotify.com/album/0P2UzaCywB5aWhIplMUryK"
       },
       "artists": [
         {
-          "name": "King Floyd",
-          "url": "https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz"
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
         }
       ],
-      "duration_ms": 184466,
-      "name": "Groove Me",
-      "url": "https://open.spotify.com/track/0gtTfaz5zzbJA28Ypu7k0W"
+      "duration_ms": 172186,
+      "name": "My Guy",
+      "url": "https://open.spotify.com/track/7rUPIW0pQoshbOtysdlWX2"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2207,18 +2207,18 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "An American Love Story",
-        "url": "https://open.spotify.com/album/0P2UzaCywB5aWhIplMUryK"
+        "name": "Choice Cuts",
+        "url": "https://open.spotify.com/album/6omfXjVxM6zIroFzyHjNkY"
       },
       "artists": [
         {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+          "name": "King Floyd",
+          "url": "https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz"
         }
       ],
-      "duration_ms": 172186,
-      "name": "My Guy",
-      "url": "https://open.spotify.com/track/7rUPIW0pQoshbOtysdlWX2"
+      "duration_ms": 184466,
+      "name": "Groove Me",
+      "url": "https://open.spotify.com/track/0gtTfaz5zzbJA28Ypu7k0W"
     },
     {
       "added_at": "2021-10-19 21:36:21",

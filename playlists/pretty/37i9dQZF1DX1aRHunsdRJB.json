@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 9693,
+  "num_followers": 9700,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZGI4N2Y3OGZiZmM5MTgyZGJjZmJhZTU0NTNlNTQ2MjkxN2NhYmIy",
+  "snapshot_id": "MCxhN2I0MDVlNzQ3YTgyZDA5ZWZiN2E1OTkxYTMwMmM5ZDY1MDA2ZDVh",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -403,26 +403,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Dear Promoter",
-        "url": "https://open.spotify.com/album/3fiMNWUuR76Xj38ugSEIHe"
-      },
-      "artists": [
-        {
-          "name": "Voice",
-          "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
-        },
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        }
-      ],
-      "duration_ms": 244578,
-      "name": "Dear Promoter",
-      "url": "https://open.spotify.com/track/74F3DNzHUSrJ6sNz4YkFWe"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Tic It & Tac It",
         "url": "https://open.spotify.com/album/4ZYGqtyawJ66Dsp9C2VR3W"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 187375,
       "name": "Heaven Passport",
       "url": "https://open.spotify.com/track/3MEO3XzuF79wbokXOnWEJg"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Dear Promoter",
+        "url": "https://open.spotify.com/album/3fiMNWUuR76Xj38ugSEIHe"
+      },
+      "artists": [
+        {
+          "name": "Voice",
+          "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
+        },
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        }
+      ],
+      "duration_ms": 244578,
+      "name": "Dear Promoter",
+      "url": "https://open.spotify.com/track/74F3DNzHUSrJ6sNz4YkFWe"
     },
     {
       "added_at": "2022-02-24 18:00:00",

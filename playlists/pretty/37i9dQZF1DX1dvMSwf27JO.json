@@ -1,12 +1,12 @@
 {
   "description": "music to get fly to ",
-  "num_followers": 520427,
+  "num_followers": 520593,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjA5NzdiZjZhOWI4YzliMWQ2NTU2ODE0NzA3Y2Y0ODNkNTNhN2U4",
+  "snapshot_id": "MCwzZTVmZTA1NDliYWFiNTc4YmRhZTBhYjZjYzU5OWJiYThmYzE0ZGIx",
   "tracks": [
     {
       "added_at": "2023-07-28 17:47:19",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-07-28 17:47:19",
       "album": {
+        "name": "Harlem World",
+        "url": "https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy"
+      },
+      "artists": [
+        {
+          "name": "Mase",
+          "url": "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
+        }
+      ],
+      "duration_ms": 203626,
+      "name": "Feel so Good",
+      "url": "https://open.spotify.com/track/7hfRrdFJgFKK3cJ4rmkecE"
+    },
+    {
+      "added_at": "2023-07-28 17:47:19",
+      "album": {
         "name": "4EVA (feat. Pharrell Williams)",
         "url": "https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 190373,
       "name": "4EVA (feat. Pharrell Williams)",
       "url": "https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v"
-    },
-    {
-      "added_at": "2023-07-28 17:47:19",
-      "album": {
-        "name": "Harlem World",
-        "url": "https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy"
-      },
-      "artists": [
-        {
-          "name": "Mase",
-          "url": "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
-        }
-      ],
-      "duration_ms": 203626,
-      "name": "Feel so Good",
-      "url": "https://open.spotify.com/track/7hfRrdFJgFKK3cJ4rmkecE"
     },
     {
       "added_at": "2023-07-28 17:47:19",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-07-28 17:47:19",
       "album": {
-        "name": "fantasize",
-        "url": "https://open.spotify.com/album/0QEZpylv3YWsleH9U0ijWE"
-      },
-      "artists": [
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 150612,
-      "name": "fantasize",
-      "url": "https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3"
-    },
-    {
-      "added_at": "2023-07-28 17:47:19",
-      "album": {
         "name": "Getaway",
         "url": "https://open.spotify.com/album/2WtfCHRb8cy4a2x8vOMVkM"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 180560,
       "name": "intro",
       "url": "https://open.spotify.com/track/6HSTJbYzJCK5jKz7hrsvQh"
+    },
+    {
+      "added_at": "2023-07-28 17:47:19",
+      "album": {
+        "name": "fantasize",
+        "url": "https://open.spotify.com/album/0QEZpylv3YWsleH9U0ijWE"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 150612,
+      "name": "fantasize",
+      "url": "https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3"
     },
     {
       "added_at": "2023-07-28 17:47:19",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-07-28 17:47:19",
       "album": {
-        "name": "Dog Daze",
-        "url": "https://open.spotify.com/album/0APqibgHREHUQyPXOqVzBa"
-      },
-      "artists": [
-        {
-          "name": "Cruza",
-          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
-        }
-      ],
-      "duration_ms": 148058,
-      "name": "Indeed",
-      "url": "https://open.spotify.com/track/1jASJWOio1y6HX9noE7FWi"
-    },
-    {
-      "added_at": "2023-07-28 17:47:19",
-      "album": {
         "name": "Far Away",
         "url": "https://open.spotify.com/album/1pxEdLxLLOV5SJWHHdoDXn"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 104571,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/5a5q1sFcpMoPRk5fRGWq2W"
+    },
+    {
+      "added_at": "2023-07-28 17:47:19",
+      "album": {
+        "name": "Dog Daze",
+        "url": "https://open.spotify.com/album/0APqibgHREHUQyPXOqVzBa"
+      },
+      "artists": [
+        {
+          "name": "Cruza",
+          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
+        }
+      ],
+      "duration_ms": 148058,
+      "name": "Indeed",
+      "url": "https://open.spotify.com/track/1jASJWOio1y6HX9noE7FWi"
     },
     {
       "added_at": "2023-07-28 17:47:19",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-07-28 17:47:19",
       "album": {
-        "name": "U KNOW ME",
-        "url": "https://open.spotify.com/album/3qEmwBehL7PcMyGOa3hnJ2"
-      },
-      "artists": [
-        {
-          "name": "COBRAH",
-          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
-        }
-      ],
-      "duration_ms": 174640,
-      "name": "U KNOW ME",
-      "url": "https://open.spotify.com/track/4lhacsOEAkfReGmzFJhwm2"
-    },
-    {
-      "added_at": "2023-07-28 17:47:19",
-      "album": {
         "name": "Coven Music Session, Vol. 1",
         "url": "https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 58801,
       "name": "60 Seconds",
       "url": "https://open.spotify.com/track/1NNwTBL6vDgSw14UDGWOte"
+    },
+    {
+      "added_at": "2023-07-28 17:47:19",
+      "album": {
+        "name": "U KNOW ME",
+        "url": "https://open.spotify.com/album/3qEmwBehL7PcMyGOa3hnJ2"
+      },
+      "artists": [
+        {
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        }
+      ],
+      "duration_ms": 174640,
+      "name": "U KNOW ME",
+      "url": "https://open.spotify.com/track/4lhacsOEAkfReGmzFJhwm2"
     },
     {
       "added_at": "2023-07-28 17:47:19",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2023-07-28 17:47:19",
       "album": {
-        "name": "Leave It Alone",
-        "url": "https://open.spotify.com/album/73lqd2LyJKLOasSDBdgLH2"
-      },
-      "artists": [
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        },
-        {
-          "name": "Tyler Mann",
-          "url": "https://open.spotify.com/artist/0Le735jx9ovswbNnEB7zDz"
-        }
-      ],
-      "duration_ms": 171111,
-      "name": "Leave It Alone",
-      "url": "https://open.spotify.com/track/0r5Z0wgmOYDWHnhN4f8DtV"
-    },
-    {
-      "added_at": "2023-07-28 17:47:19",
-      "album": {
         "name": "BACKWARDS",
         "url": "https://open.spotify.com/album/51WjoBBCY3wZ8Cbqy8TDrQ"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 106046,
       "name": "BACKWARDS",
       "url": "https://open.spotify.com/track/7zuSn410s3z8Ki7iuO6ZSO"
+    },
+    {
+      "added_at": "2023-07-28 17:47:19",
+      "album": {
+        "name": "Leave It Alone",
+        "url": "https://open.spotify.com/album/73lqd2LyJKLOasSDBdgLH2"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        },
+        {
+          "name": "Tyler Mann",
+          "url": "https://open.spotify.com/artist/0Le735jx9ovswbNnEB7zDz"
+        }
+      ],
+      "duration_ms": 171111,
+      "name": "Leave It Alone",
+      "url": "https://open.spotify.com/track/0r5Z0wgmOYDWHnhN4f8DtV"
     },
     {
       "added_at": "2023-07-28 17:47:19",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2023-07-28 17:47:19",
       "album": {
-        "name": "nice",
-        "url": "https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV"
+        "name": "Leak 04-13 (Bait Ones)",
+        "url": "https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr"
       },
       "artists": [
         {
-          "name": "Amindi",
-          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+          "name": "Jai Paul",
+          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
         }
       ],
-      "duration_ms": 90447,
-      "name": "nice",
-      "url": "https://open.spotify.com/track/37EATWuDC8BUrJ2Kt2JE5Q"
+      "duration_ms": 56880,
+      "name": "chix - Unfinished",
+      "url": "https://open.spotify.com/track/7JZHO1HF2XIIWcPVh0uzlC"
     },
     {
       "added_at": "2023-07-28 17:47:19",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2023-07-28 17:47:19",
       "album": {
-        "name": "Leak 04-13 (Bait Ones)",
-        "url": "https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr"
+        "name": "nice",
+        "url": "https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV"
       },
       "artists": [
         {
-          "name": "Jai Paul",
-          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
         }
       ],
-      "duration_ms": 56880,
-      "name": "chix - Unfinished",
-      "url": "https://open.spotify.com/track/7JZHO1HF2XIIWcPVh0uzlC"
+      "duration_ms": 90447,
+      "name": "nice",
+      "url": "https://open.spotify.com/track/37EATWuDC8BUrJ2Kt2JE5Q"
     },
     {
       "added_at": "2023-07-28 17:47:19",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2023-07-28 17:47:19",
       "album": {
-        "name": "SBTRKT (Deluxe Version)",
-        "url": "https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq"
-      },
-      "artists": [
-        {
-          "name": "SBTRKT",
-          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
-        },
-        {
-          "name": "Roses Gabor",
-          "url": "https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r"
-        }
-      ],
-      "duration_ms": 218146,
-      "name": "Pharaohs",
-      "url": "https://open.spotify.com/track/3G9DXOdZHws7eFslJrJvKY"
-    },
-    {
-      "added_at": "2023-07-28 17:47:19",
-      "album": {
         "name": "FLOOR",
         "url": "https://open.spotify.com/album/7jgZRd9rDFS1FA6PuOj4Mc"
       },
@@ -1455,6 +1435,26 @@
       "duration_ms": 125688,
       "name": "FLOOR",
       "url": "https://open.spotify.com/track/0YsiXEd69QrZK3AVfBAuV9"
+    },
+    {
+      "added_at": "2023-07-28 17:47:19",
+      "album": {
+        "name": "SBTRKT (Deluxe Version)",
+        "url": "https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq"
+      },
+      "artists": [
+        {
+          "name": "SBTRKT",
+          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
+        },
+        {
+          "name": "Roses Gabor",
+          "url": "https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r"
+        }
+      ],
+      "duration_ms": 218146,
+      "name": "Pharaohs",
+      "url": "https://open.spotify.com/track/3G9DXOdZHws7eFslJrJvKY"
     },
     {
       "added_at": "2023-07-28 17:47:19",

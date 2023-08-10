@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ITTpGLyrci.md) - [plain]
 
 > Get the drinks on ice, this one is on us
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,234 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,382 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ITTpGLyrci.md) - [plain]
 | 99 | [Ain't Me Without You](https://open.spotify.com/track/2sYjsgw4R4wJhThhSGlSZS) | [WEISS](https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB) | [Ain't Me Without You](https://open.spotify.com/album/57Y1Qva1WV0As9PPcgjl1x) | 3:50 |
 | 100 | [If You Really Love Me \(How Will I Know\)](https://open.spotify.com/track/5TnF44IQRsopRNa63BEyFd) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [If You Really Love Me \(How Will I Know\)](https://open.spotify.com/album/70gacpgIA2SlF8EqYpu22B) | 3:04 |
 
-Snapshot ID: `MCxmYjhkZGNhZTBhMWE4MjBiMjIwMDBhMWZhNDZhYWEzNTlkODliZTlj`
+Snapshot ID: `MCxjN2Y0ZWI1ZDliZGQ1OWY3MjMzOTQ5YTg5MjcwNjEzYzBlOWUxMGJl`

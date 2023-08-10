@@ -4,14 +4,14 @@
 
 > The cream of today's Country crop\. Cover: Kita Alexander & Morgan Evans
 
-416 songs - 22 hr 48 min
+418 songs - 22 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Til You Can't](https://open.spotify.com/track/4k3lPl8YTKuY8c1HelVnm3) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Human The Double Album](https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb) | 3:44 | 2022-01-21 | 2022-09-09 |
 | [23](https://open.spotify.com/track/4PuAqZlL1tkidkuxfDlLbF) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [23](https://open.spotify.com/album/3i5LIueVgxjgCu1TIZOraP) | 2:59 | 2021-12-30 | 2022-04-01 |
 | [5 Foot 9](https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9](https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr) | 3:09 | 2022-05-26 | 2022-10-28 |
-| [5 Leaf Clover](https://open.spotify.com/track/2RbIoEQeXBoJzWt09eitEI) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [5 Leaf Clover](https://open.spotify.com/album/6Aa81tDuPFATzb61ZQNTmM) | 3:31 | 2023-03-16 |  |
+| [5 Leaf Clover](https://open.spotify.com/track/2RbIoEQeXBoJzWt09eitEI) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [5 Leaf Clover](https://open.spotify.com/album/6Aa81tDuPFATzb61ZQNTmM) | 3:31 | 2023-03-16 | 2023-08-10 |
 | [A Boy That's Into Trucks](https://open.spotify.com/track/4EG8V97vcIWo6PbNcPTdHb) | [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [A Boy That's Into Trucks](https://open.spotify.com/album/28wWwYIM2g1A407gF1iRar) | 3:25 | 2023-06-08 |  |
 | [A Heart Don't Break Like That](https://open.spotify.com/track/2V7KxZ0HTzRVqKkQFOawNO) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj), [Bastian Baker](https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC) | [A Heart Don't Break Like That](https://open.spotify.com/album/0DCDKUtWSJc3KgIG0JjcwT) | 2:59 | 2022-03-17 | 2022-08-12 |
 | [A Little Love Will Fix You Up](https://open.spotify.com/track/55cp9h1BUgjvwDG4v4swHe) | [The Long and Short Of It](https://open.spotify.com/artist/78GEEWDfGY6HjdDG8CLiiI) | [Midnight Choir](https://open.spotify.com/album/0nBWf4xjmKnwmZKZkibL8B) | 2:52 | 2022-08-05 | 2022-10-28 |
@@ -148,7 +148,8 @@
 | [Good One](https://open.spotify.com/track/1zIV0opbIvd7gmFjSZm64X) | [Hurricane Fall](https://open.spotify.com/artist/2PKMFahF0XfzJ3nYQiXcA8) | [Good One](https://open.spotify.com/album/5XaWYXtUEkxfbeNxzOU4Fd) | 2:49 | 2021-12-30 | 2022-04-08 |
 | [Good Things](https://open.spotify.com/track/0n2ZsjzilyRjIyCr7Mcgk7) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/6ap7EgZFWKOCrsGZyAzM9U) | 2:28 | 2021-12-30 | 2022-03-18 |
 | [GOT IT GOOD](https://open.spotify.com/track/4oB0UYdwmvEzwAtJa8D3pF) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [GOT IT GOOD](https://open.spotify.com/album/6YTjgeiAZe31mPENUnSsqF) | 2:53 | 2023-01-26 |  |
-| [Growin' Up and Gettin' Old](https://open.spotify.com/track/6DdPacpAdYkxV8MCzsjaXu) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Growin' Up and Gettin' Old](https://open.spotify.com/album/2tyF3XymQtvSySp5osmr6d) | 3:53 | 2023-01-26 |  |
+| [Growin' Up and Gettin' Old](https://open.spotify.com/track/24Z0qiHUR9cTB4UfGUqCnj) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 3:53 | 2023-08-09 |  |
+| [Growin' Up and Gettin' Old](https://open.spotify.com/track/6DdPacpAdYkxV8MCzsjaXu) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Growin' Up and Gettin' Old](https://open.spotify.com/album/2tyF3XymQtvSySp5osmr6d) | 3:53 | 2023-01-26 | 2023-08-10 |
 | [Growing Old With You](https://open.spotify.com/track/5n4kMW5dn7MHFhXQuJb9zG) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Growing Old With You](https://open.spotify.com/album/161OJ4mZwXGzdeLI2jibXZ) | 3:16 | 2022-02-21 | 2022-09-30 |
 | [Growing Old Young](https://open.spotify.com/track/31gcyn6Mhb8JM26hcSyuk2) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Girl to Girl](https://open.spotify.com/album/1GcSAAAr9e2zcZKucagy5A) | 3:26 | 2021-12-30 | 2022-03-05 |
 | [Half the Man](https://open.spotify.com/track/16IXpCiQHWKKsTulspUpAF) | [Mason & Julez](https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB) | [Half the Man](https://open.spotify.com/album/6J9yFlQhmFK4ehkTkEb4W3) | 3:02 | 2023-06-15 |  |
@@ -219,7 +220,8 @@
 | [Loud](https://open.spotify.com/track/6HbprKptNBhCN1LhN9LGdR) | [Lucy Parle](https://open.spotify.com/artist/27eKSN85oq2n22CKV7grqb) | [Loud](https://open.spotify.com/album/4eELjZmKciGnP1Au7KPw0V) | 3:27 | 2022-05-12 | 2022-07-08 |
 | [Love Doesn't Work Like That](https://open.spotify.com/track/4NnLqBtEQdruA7MV0GMxS6) | [Bryce Sainty](https://open.spotify.com/artist/6FzcOBH2gzC2UyGt6cme0t) | [Love Doesn't Work Like That](https://open.spotify.com/album/4oris4TGRNqeGMxmYekJP8) | 3:31 | 2022-03-31 | 2022-06-17 |
 | [LOVE IS A COWBOY](https://open.spotify.com/track/0syI1uKOPmjaRAdnpC1LUr) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [LOVE IS A COWBOY](https://open.spotify.com/album/2DNSEaiDOlocUHvQn37ylQ) | 2:43 | 2022-07-14 | 2023-01-20 |
-| [Love Like That \(feat\. The Shires\)](https://open.spotify.com/track/4iA14miA1x0Kq86zZIRZpX) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma), [The Shires](https://open.spotify.com/artist/48hCuDf2HUMGTgMhqLfic3) | [Livin' The Dream](https://open.spotify.com/album/79THFfQB6XH5C9zaSnxi3c) | 3:36 | 2023-04-13 |  |
+| [Love Like That \(feat\. The Shires\)](https://open.spotify.com/track/4iA14miA1x0Kq86zZIRZpX) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma), [The Shires](https://open.spotify.com/artist/48hCuDf2HUMGTgMhqLfic3) | [Livin' The Dream](https://open.spotify.com/album/79THFfQB6XH5C9zaSnxi3c) | 3:36 | 2023-04-13 | 2023-08-10 |
+| [Love You Anyway](https://open.spotify.com/track/2kYevr8cbIAH2ha8210Bnz) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 3:49 | 2023-08-09 |  |
 | [Love You Anyway](https://open.spotify.com/track/3qXsX3mYSsD1DmAvc3PE3N) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Love You Anyway](https://open.spotify.com/album/4ettM87GR2TdBLDTTBdfeF) | 3:49 | 2023-02-09 | 2023-05-05 |
 | [Lucky](https://open.spotify.com/track/6DE1vkPkMn2I77360IBb8t) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Come Get Your Wife](https://open.spotify.com/album/5vpynwbpUceBDNOkh9TMR5) | 3:14 | 2023-01-27 | 2023-06-16 |
 | [Lucky](https://open.spotify.com/track/7fqqGL94As2CNyMy54plgo) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/1ZaHS1vWuq7mf7eniVTiFC) | 2:41 | 2023-04-13 | 2023-06-30 |

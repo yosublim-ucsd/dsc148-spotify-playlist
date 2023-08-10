@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWPnggOS86l.md) - [plain]
 
 > Uma viagem no tempo com grandes hits da história do Emo no Brasil\. Foto: Emoponto
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,764 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,765 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWPnggOS86l.md) - [plain]
 | 41 | [Última Canção de Amor](https://open.spotify.com/track/3kLflOI6vXdx8GUdGwZRTJ) | [Hill Valleys](https://open.spotify.com/artist/3wVosBmSz90RTWawTngLeL) | [Rua dos Perdedores, Esquina dos Corações Quebrados](https://open.spotify.com/album/5GF1agGJD07nFCmcuGSFJQ) | 2:41 |
 | 42 | [Entre o Caos e a \(R\)Evolução](https://open.spotify.com/track/6ct49JoiM1g6akHiSuxXmH) | [Black Days](https://open.spotify.com/artist/4KbbbUQ9pZU363ykioVFB0) | [Entre o Caos e a \(R\)Evolução](https://open.spotify.com/album/7CTNki9wsXtQGnnrMt88uX) | 4:46 |
 | 43 | [I Never Fell in Love](https://open.spotify.com/track/6558zhXVNbanGgTTPnUU5s) | [Wacky Kids](https://open.spotify.com/artist/6HhtUddZ2YS2ZXbrpeq9Dq) | [Wacky Generation](https://open.spotify.com/album/74gM8jdFi4osw9ExxoZt41) | 2:38 |
-| 44 | [Levo Comigo](https://open.spotify.com/track/6BcqNZ7D3gI0ALivZMAvux) | [ReStarT](https://open.spotify.com/artist/0fnpJQo4aRTZFz8Sf4id6T) | [Restart](https://open.spotify.com/album/6IqdfOX19OBSSxNTTRA5kg) | 3:26 |
+| 44 | [Levo Comigo](https://open.spotify.com/track/6BcqNZ7D3gI0ALivZMAvux) | [Restart](https://open.spotify.com/artist/0fnpJQo4aRTZFz8Sf4id6T) | [Restart](https://open.spotify.com/album/6IqdfOX19OBSSxNTTRA5kg) | 3:26 |
 | 45 | [Só mais uma vez](https://open.spotify.com/track/0rWn4OID3XS0ynCe3q5mUW) | [B5](https://open.spotify.com/artist/3Suq9dAvF3bHa1NYEbMXpN) | [Novo](https://open.spotify.com/album/3kNRC2TKN1BLGMtBe8Dp66) | 3:17 |
 | 46 | [Asma](https://open.spotify.com/track/6zK9J2D3LAtDqfJmblD2P2) | [Visconde](https://open.spotify.com/artist/0ScxxqjnVMeXYqPl5AavFd) | [Visconde](https://open.spotify.com/album/6XiK7cPd6XqlyiPN7NjTJO) | 3:46 |
 | 47 | [Zé Rico](https://open.spotify.com/track/6wO7hALrBKW5R0j5AbOwer) | [Debate](https://open.spotify.com/artist/5yZRDKk8TfOSxah2NFpnEG) | [EP](https://open.spotify.com/album/4nxp3Q69TuMYntWPhbtBEg) | 3:42 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWPnggOS86l.md) - [plain]
 | 59 | [Voltar a Ser Canção](https://open.spotify.com/track/4As0FVE0RhNu5nKYgHa3dN) | [Dom Pedro](https://open.spotify.com/artist/2dn4iIwTZDvX8suARVjwBs) | [Primeiro](https://open.spotify.com/album/0Q6r6sOigwWud4pXvg8BTH) | 4:04 |
 | 60 | [Olha minha cara](https://open.spotify.com/track/6y1ssXWGsye4VJsSOP50Kt) | [Canto dos Malditos Na Terra do Nunca](https://open.spotify.com/artist/0zpgOZi5pnXnFxanyxowaI) | [Canto dos Malditos Na Terra do Nunca](https://open.spotify.com/album/2O5Q1X14xnEt4AbS2QkbLp) | 3:31 |
 
-Snapshot ID: `MCxmYThmNjRmNmZiM2FiOTMwZWNkOGQyMzllNjdkMjQ3YjJiNTZkNGM3`
+Snapshot ID: `MCw0YTVkMzQ2YTJhMzRjOWZjMDE1ZGNhMjc1OTZhOWNlYmFmYzAzM2I0`

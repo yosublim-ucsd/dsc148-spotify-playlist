@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 
 > Go hard or go home!
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,030 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,056 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 | 49 | [Too Many Lies](https://open.spotify.com/track/2C44bXptVuQcbh7KAEI9UN) | [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE), [LD](https://open.spotify.com/artist/4eQGLO5ExQniSLvj5NjW6m) | [Too Many Lies](https://open.spotify.com/album/6KqC49BW6eS59XkmzHpc71) | 3:19 |
 | 50 | [Call Me A Spartan](https://open.spotify.com/track/3tvtBZEkBPhrusKwj0Bhft) | [Harlem Spartans](https://open.spotify.com/artist/2tdPAMw1puUwZNvRo3Rq4g) | [Call Me A Spartan](https://open.spotify.com/album/0L3E3Q7E8vGe64qn30FuUN) | 3:40 |
 
-Snapshot ID: `MCw3ZDk5ZWQ3MmFkNTY3NzM5OGJjYzdlYmZiOTM3NjUyNjhiYWJmZDBl`
+Snapshot ID: `MCwwNTJkY2QwY2ExMzlhYjc1YTAyODY5NDU2OWUxZDE5YzIzOTY5NTNk`

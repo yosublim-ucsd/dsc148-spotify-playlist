@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Slow J.",
-  "num_followers": 36672,
+  "num_followers": 36697,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OWY2NDZmODQ0M2Y4OTI2MjY3OWQxNjMxOTM1OGU2Y2IxZTdlNzRh",
+  "snapshot_id": "MCwyOWMzMzRmOGMxYzRmOTc4NjIzYTA1ODhhODRlYTdjNGRhNjFmYzEz",
   "tracks": [
     {
       "added_at": "2023-08-03 23:00:00",
@@ -751,6 +751,26 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
+        "name": "Filhos",
+        "url": "https://open.spotify.com/album/16xD2hWPUrnrUrWmzBweXQ"
+      },
+      "artists": [
+        {
+          "name": "Landrick",
+          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
+        },
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "duration_ms": 210337,
+      "name": "Filhos",
+      "url": "https://open.spotify.com/track/7Cyj6YPYU9ax1Ze7GpQXT4"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
         "name": "Salto Alto",
         "url": "https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l"
       },
@@ -763,22 +783,6 @@
       "duration_ms": 219968,
       "name": "Salto Alto",
       "url": "https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
-        "name": "Jony Driver",
-        "url": "https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM"
-      },
-      "artists": [
-        {
-          "name": "Papillon",
-          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
-        }
-      ],
-      "duration_ms": 257500,
-      "name": ".Sais e Minerais",
-      "url": "https://open.spotify.com/track/7AG0yXoN9odePnl0OJ2Mti"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -799,6 +803,22 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
+        "name": "Jony Driver",
+        "url": "https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM"
+      },
+      "artists": [
+        {
+          "name": "Papillon",
+          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
+        }
+      ],
+      "duration_ms": 257500,
+      "name": ".Sais e Minerais",
+      "url": "https://open.spotify.com/track/7AG0yXoN9odePnl0OJ2Mti"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
         "name": "Ngana Zambi",
         "url": "https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 279423,
       "name": "Depois da Chuva",
       "url": "https://open.spotify.com/track/7eJD8Ed4FOCFrtDI5o4kKo"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
-        "name": "Filhos",
-        "url": "https://open.spotify.com/album/16xD2hWPUrnrUrWmzBweXQ"
-      },
-      "artists": [
-        {
-          "name": "Landrick",
-          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
-        },
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        }
-      ],
-      "duration_ms": 210337,
-      "name": "Filhos",
-      "url": "https://open.spotify.com/track/7Cyj6YPYU9ax1Ze7GpQXT4"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Estrela Maior",
-        "url": "https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0"
-      },
-      "artists": [
-        {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
-        }
-      ],
-      "duration_ms": 265011,
-      "name": "Estrela Maior",
-      "url": "https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
         "name": "Efeito",
         "url": "https://open.spotify.com/album/6e0F9bKM9LJSk5X15PFNKO"
       },
@@ -1007,6 +991,22 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
+        "name": "Estrela Maior",
+        "url": "https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0"
+      },
+      "artists": [
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "duration_ms": 265011,
+      "name": "Estrela Maior",
+      "url": "https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
         "name": "Sil\u00eancio",
         "url": "https://open.spotify.com/album/6eE9QWNodTwpLZTJ1SuYK8"
       },
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
+        "name": "Jura",
+        "url": "https://open.spotify.com/album/7ckkZsKrcK4fegh5MhbDif"
+      },
+      "artists": [
+        {
+          "name": "Jimmy P",
+          "url": "https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU"
+        }
+      ],
+      "duration_ms": 172300,
+      "name": "Jura",
+      "url": "https://open.spotify.com/track/23GXQ3JzXWx72SM6eZP1B8"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
         "name": "Situation",
         "url": "https://open.spotify.com/album/4JLFABVMOBpf9Bvaympw9R"
       },
@@ -1043,38 +1059,6 @@
       "duration_ms": 245258,
       "name": "Situation",
       "url": "https://open.spotify.com/track/2jLRkFqxoSVrBy58M2to1D"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
-        "name": "Ngana Zambi",
-        "url": "https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj"
-      },
-      "artists": [
-        {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
-        }
-      ],
-      "duration_ms": 256144,
-      "name": "Backstage",
-      "url": "https://open.spotify.com/track/2tAFUpG2zbv2AINSMRcq1F"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
-        "name": "Jura",
-        "url": "https://open.spotify.com/album/7ckkZsKrcK4fegh5MhbDif"
-      },
-      "artists": [
-        {
-          "name": "Jimmy P",
-          "url": "https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU"
-        }
-      ],
-      "duration_ms": 172300,
-      "name": "Jura",
-      "url": "https://open.spotify.com/track/23GXQ3JzXWx72SM6eZP1B8"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1147,6 +1131,22 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
+        "name": "Ngana Zambi",
+        "url": "https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj"
+      },
+      "artists": [
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "duration_ms": 256144,
+      "name": "Backstage",
+      "url": "https://open.spotify.com/track/2tAFUpG2zbv2AINSMRcq1F"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
         "name": "Musa",
         "url": "https://open.spotify.com/album/3LP4aTOzSQ1ZVVVZ7hV7ck"
       },
@@ -1159,22 +1159,6 @@
       "duration_ms": 212020,
       "name": "Musa",
       "url": "https://open.spotify.com/track/5bNmKRaW9AISMPNeDoz0B3"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
-        "name": "Crime Scene",
-        "url": "https://open.spotify.com/album/0VPCMKPjFSI4x3tsTHh7r7"
-      },
-      "artists": [
-        {
-          "name": "EMMVR",
-          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
-        }
-      ],
-      "duration_ms": 178443,
-      "name": "Crime Scene",
-      "url": "https://open.spotify.com/track/1F5WB5IbKy6EDMs85lWifk"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1223,6 +1207,22 @@
       "duration_ms": 240000,
       "name": "100 Maneiras",
       "url": "https://open.spotify.com/track/6cy6nwunA5nKiqMwnPxsP8"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "Crime Scene",
+        "url": "https://open.spotify.com/album/0VPCMKPjFSI4x3tsTHh7r7"
+      },
+      "artists": [
+        {
+          "name": "EMMVR",
+          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
+        }
+      ],
+      "duration_ms": 178443,
+      "name": "Crime Scene",
+      "url": "https://open.spotify.com/track/1F5WB5IbKy6EDMs85lWifk"
     },
     {
       "added_at": "2023-08-03 23:00:00",

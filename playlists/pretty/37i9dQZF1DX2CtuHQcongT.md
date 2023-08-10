@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CtuHQcongT.md) - [plain]
 
 > Enjoy game music from SEGA classic soundtracks including SONIC, SPACE HARRIER and OutRun\. SEGA名作ゲームサントラの世界へようこそ！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,433 likes - 52 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,459 likes - 52 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CtuHQcongT.md) - [plain]
 | 16 | [Outride a Crisis \- SUPER HANG\-ON](https://open.spotify.com/track/6l8PJ8HKE0KQO2XnySXUwh) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [SUPER HANG\-ON 20th Anniversary Collection\(Bonus Track\)](https://open.spotify.com/album/2oRvdYcPI1qRqsLEvhHo0e) | 5:09 |
 | 17 | [深志桜 Deep Aim Blossoms](https://open.spotify.com/track/381CLWjAogweP7jWVQNdWV) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [戦国大戦 音曲集](https://open.spotify.com/album/05w9O1Kcctsr6ceWNCrqWY) | 3:37 |
 | 18 | [Endeavour \- Theme of Idola Phantasy Star Saga \- Vocals by Shaylee & Florence McNair](https://open.spotify.com/track/3lYzqoQHXDbc2EzhDWqv7N) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [Kenichi Tokoi](https://open.spotify.com/artist/1Y73QxsnDJIhoyNZoB9B9L) | [Idola Phantasy Star Saga Original Soundtrack](https://open.spotify.com/album/1IiIptGbEf5Vo7emB0k4QT) | 6:57 |
-| 19 | [Reach For The Stars \(ソニック カラーズ\)](https://open.spotify.com/track/0YJRrm77eoNPOvnZDiT9Lq) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [Tomoya Ohtani](https://open.spotify.com/artist/0TdhLJ5G2ICGuYTlNOeut3) | [セガ・サウンド・セレクション](https://open.spotify.com/album/7bmU3ZUSgM32Kqx39irYjL) | 4:07 |
+| 19 | [Reach For The Stars \(ソニック カラーズ\)](https://open.spotify.com/track/0YJRrm77eoNPOvnZDiT9Lq) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [Tomoya Ohtani](https://open.spotify.com/artist/0TdhLJ5G2ICGuYTlNOeut3) | [セガ･サウンド･セレクション](https://open.spotify.com/album/7bmU3ZUSgM32Kqx39irYjL) | 4:07 |
 | 20 | [Let's Go Away](https://open.spotify.com/track/2pJtdaXzcBb5UND5uGY5ac) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [セガ・サウンド・セレクション 2](https://open.spotify.com/album/0wVKzzrmdUKlAMcs0P8Y5c) | 4:13 |
 | 21 | [Battle For Justice II](https://open.spotify.com/track/04EzuITyJdEBc0bOeWUEhS) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [Chain Chronicle Original Sound Track](https://open.spotify.com/album/0pAKeQprz6aHrMqdCBZjaO) | 2:41 |
 | 22 | [Blizzard Peaks \- Act1&2 Mix](https://open.spotify.com/track/2aMiCHlsHQ1GdhlbsgwGzE) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [Tomoya Ohtani](https://open.spotify.com/artist/0TdhLJ5G2ICGuYTlNOeut3) | [SONIC RUSH ADVENTURE Original Soundtrack \(Bonus Track Version\)](https://open.spotify.com/album/16Vc29Y6JniVjfHI8Tk8W4) | 3:04 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CtuHQcongT.md) - [plain]
 | 28 | [LAU \- VF2](https://open.spotify.com/track/1B6mh6yvXhpjT8P5X5tVBj) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [Virtua Fighter2 Official Sound](https://open.spotify.com/album/6fk4rJwS8CwCV4YQj64ZRS) | 2:37 |
 | 29 | [Leaf Forest \- Sonic Advance 2](https://open.spotify.com/track/6QKHXG3VxsH9xRfHbJY0NL) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [Teruhiko Nakagawa](https://open.spotify.com/artist/5SNXOOQ9It50YqS1l7ePjT) | [Sonic Sound Station Selection \(Vol.1\)](https://open.spotify.com/album/3NSW5mtIYBAxBrhwOgRB60) | 2:58 |
 | 30 | [Anu Orta Veniya](https://open.spotify.com/track/4fI6mge33CFDf68gDh6NIp) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [Panzer Dragoon Orta Original Soundtrack](https://open.spotify.com/album/3kKsFvmgIeJshU1yQP0Eds) | 5:28 |
-| 31 | [Final Take Off \(アフターバーナーII\)](https://open.spotify.com/track/6gTlZZgfZo3b8Q6LmkGEhN) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [セガ・サウンド・セレクション](https://open.spotify.com/album/7bmU3ZUSgM32Kqx39irYjL) | 4:02 |
+| 31 | [Final Take Off \(アフターバーナーII\)](https://open.spotify.com/track/6gTlZZgfZo3b8Q6LmkGEhN) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [セガ･サウンド･セレクション](https://open.spotify.com/album/7bmU3ZUSgM32Kqx39irYjL) | 4:02 |
 | 32 | [Escape From The City ...for City Escape](https://open.spotify.com/track/5nTgzOZGI5zfhUvhXPIrtg) | [Ted Poley](https://open.spotify.com/artist/1uQyJRZqbvwsUqHgEuIEI9), [Tony Harnell](https://open.spotify.com/artist/6alD2yMb2cpw8pQs4iR6DE) | [SONIC ADVENTURE 2 Original Soundtrack \(20th Anniversary Edition\)](https://open.spotify.com/album/5t2P5xYpjRQ5g58HQ3myn5) | 2:19 |
 | 33 | [Rush a Difficulty \(Turbo Out Run\)](https://open.spotify.com/track/7E14yzVJCH91VYZZaBgStF) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [Out Run \- Original Soundtrack \(Vol\. 1\)](https://open.spotify.com/album/3anhK2YJabXuqEPeHyKWgS) | 3:30 |
 | 34 | [Humming The Bassline](https://open.spotify.com/track/7wbRSCVpZuZP6XWyQrnrDa) | [Hideki Naganuma](https://open.spotify.com/artist/3ULvi5IjU8vjBJW3e8EPLz) | [Jet Set Radio SEGA Original Tracks](https://open.spotify.com/album/3oVKqk9TahxvHpFIUlAEuJ) | 2:54 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CtuHQcongT.md) - [plain]
 | 51 | [Perfect \(SDI\)](https://open.spotify.com/track/4DlR0hUCK9xG6v8rANXvmw) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [SDI & QUARTET SEGA SYSTEM 16 COLLECTION](https://open.spotify.com/album/4mURnEgAm00MbB7e4cTEiJ) | 0:07 |
 | 52 | [LAST WAVE \(Out Run\)](https://open.spotify.com/track/0J2NTnEsa3IjeV7OwsRk7B) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [Out Run \- Original Soundtrack \(Vol\. 1\)](https://open.spotify.com/album/3anhK2YJabXuqEPeHyKWgS) | 1:31 |
 
-Snapshot ID: `MCw1NzJlY2RmMTg4ZWQwMDg2NzdmOWY0YjhmOWVhMjVhOTA4NDA1ZWFk`
+Snapshot ID: `MCxiODkzZDM4NDA5ZGRhNGFmYmFjNjVlYTlkNjI5NjMwM2U0MTgzN2I1`

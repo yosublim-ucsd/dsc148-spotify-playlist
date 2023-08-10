@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4ACddn.md) - [plain]
 
 > This is Lonely The Brave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 922 likes - 28 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 926 likes - 28 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,11 +18,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4ACddn.md) - [plain]
 | 8 | [Black Mire](https://open.spotify.com/track/41TpGLxHszelYWCBZklrsJ) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e) | 4:12 |
 | 9 | [Only You Say It](https://open.spotify.com/track/1InK0K5uVrrwT47a4CMnAC) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Only You Say It](https://open.spotify.com/album/4CMYzNo5XGNoGExI7piQ5O) | 3:20 |
 | 10 | [Victory Line](https://open.spotify.com/track/5ANtXtO9R4gR16Q41yCOtR) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 3:54 |
-| 11 | [Bright Eyes](https://open.spotify.com/track/1NzWx9EnQOdhXYuPwU0iFD) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Hope List](https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92) | 2:57 |
+| 11 | [Your Heavy Heart](https://open.spotify.com/track/1FlChalmUyVX8JVrvcHK4F) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Hope List](https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92) | 3:44 |
 | 12 | [Things Will Matter](https://open.spotify.com/track/3yFZ2FNf3RZMw5e1sJYZve) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter \(Redux\)](https://open.spotify.com/album/5j7moHdW1BoUtjHYjM8FTm) | 2:54 |
 | 13 | [Dust & Bones](https://open.spotify.com/track/11VMKvo0PUGzNwngQ5Ebvn) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e) | 3:34 |
 | 14 | [Deserter](https://open.spotify.com/track/0T7UxrsKjmTnkBLKs4o3Ah) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 3:18 |
-| 15 | [Your Heavy Heart](https://open.spotify.com/track/1FlChalmUyVX8JVrvcHK4F) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Hope List](https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92) | 3:44 |
+| 15 | [Bright Eyes](https://open.spotify.com/track/1NzWx9EnQOdhXYuPwU0iFD) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Hope List](https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92) | 2:57 |
 | 16 | [The Rat](https://open.spotify.com/track/2aEAQBRKqAImOF9rzALVxR) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Rat](https://open.spotify.com/album/7xfgBU8oYPEJ3zuyhBmoJ5) | 4:20 |
 | 17 | [Rattlesnakes](https://open.spotify.com/track/13IILXc2B0KUsIjbaXXudE) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e) | 3:28 |
 | 18 | [Kings of the Mountain](https://open.spotify.com/track/6pOvCv7rA3gkTFtpyDGyiI) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 4:20 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4ACddn.md) - [plain]
 | 27 | [Place Isn't Lost](https://open.spotify.com/track/26h24NAtgkferYRxAgUX0c) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Place Isn't Lost](https://open.spotify.com/album/2GKb0jadpaGEzqyFfxomTk) | 2:58 |
 | 28 | [Collider](https://open.spotify.com/track/4igWyJcAt9X5oXaBiqtuk2) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Collider](https://open.spotify.com/album/4kzEdKsDeBsZDJc29ruaWs) | 3:08 |
 
-Snapshot ID: `MjgxOTE2NzksMDAwMDAwMDBkNThhYWFjZWE0MzA0OTNiNDRkMDY5Y2Y1MDk2MThlNA==`
+Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDAzZGFhNDM0MjlkMmZlMzdiZGEyY2RiNjkyZGUyMWRkMg==`

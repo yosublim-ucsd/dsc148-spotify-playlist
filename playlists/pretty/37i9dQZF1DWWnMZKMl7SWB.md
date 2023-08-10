@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 
 > Bases suaves para inspirarte mientras trabajas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,754 likes - 225 songs - 13 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,768 likes - 225 songs - 13 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 16 | [Runaway](https://open.spotify.com/track/2MfAOSFDDrXMbitZbZoabE) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Chill Fruits Music](https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB) | [Runaway](https://open.spotify.com/album/4kyaFX7xMSbCxWl6hv4CeN) | 1:53 |
 | 17 | [Walking Flames](https://open.spotify.com/track/3JLO3GzdHqAr0KbQnT88oW) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Walking Flames](https://open.spotify.com/album/2GkDoPv9tpc1mvw3Xh9heu) | 4:10 |
 | 18 | [1am in nyc](https://open.spotify.com/track/2g9j3O0YzzeqXqliKaqFZD) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [atlas hour \(beats\)](https://open.spotify.com/album/3SEeS3WVZhevxaJKnHe3GU) | 2:24 |
-| 19 | [Me \(Heavy\)](https://open.spotify.com/track/3MhbnxA1JnksiATu9xyB2c) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:03 |
+| 19 | [Me \(heavy\)](https://open.spotify.com/track/3MhbnxA1JnksiATu9xyB2c) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:03 |
 | 20 | [You Can Have It](https://open.spotify.com/track/1xTo1SwN5FswdeBXyq9Xfa) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [You Can Have It](https://open.spotify.com/album/1aaqe1wHZzy9dO9Altzn3U) | 1:36 |
 | 21 | [you a happiness](https://open.spotify.com/track/2nATgZkBUhNrnx6EsbKoAu) | [E.lementaL](https://open.spotify.com/artist/2d8wfAQVpYHvfumKsfB12Q) | [you a happiness](https://open.spotify.com/album/1vz2l5i4X0BIpDC8s9RMuq) | 5:32 |
 | 22 | [A Good Boi](https://open.spotify.com/track/1sjV7JkBia7Ia2drnlAXVl) | [O\. Cas](https://open.spotify.com/artist/0ojvGNOvlXCd3MUxbXnffM), [Illya Lukyanov](https://open.spotify.com/artist/5ePF2pPizD0HZPo11EhHOB), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [A Good Boi](https://open.spotify.com/album/452q6MFa4eDcwrfcCPMpnj) | 2:39 |
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 224 | [Rose's Thorn](https://open.spotify.com/track/0VCUjtHZm8SRvKLWGzQKBf) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s) | 4:24 |
 | 225 | [A Bird's Call](https://open.spotify.com/track/0zDeGbSeyIloTRHQhTXhys) | [Nebulae](https://open.spotify.com/artist/3UKaTOMvInYrOVb2SXiO9v) | [A Bird's Call](https://open.spotify.com/album/3PD5R09YXs4zCo34UoDmP2) | 3:02 |
 
-Snapshot ID: `MCw5YjIzZTExMjM2ZGU3YjJlMGQ2ZTI1ZTJkZTg1NjAwODJiM2YxYzUz`
+Snapshot ID: `MCxmZDBhOWM1Y2U3NmQ2OTNmZmRmZGIxMmFiMTA1YTkzMmQzZmFiODRj`

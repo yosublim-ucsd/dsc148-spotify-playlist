@@ -4,7 +4,7 @@
 
 > Compare, prenda el carbón y saque la bocina que ya se armó la carnita.
 
-313 songs - 16 hr 58 min
+314 songs - 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [El Tony](https://open.spotify.com/track/3SdIpwt0PjEstHUi1e0d7i) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Daniel Vazquez](https://open.spotify.com/artist/4kh6gKONPBfkCCd818b1PS) | [El Tony](https://open.spotify.com/album/7duHunpgpGBzL1v1xVJIBu) | 2:45 | 2022-06-10 | 2022-06-19 |
 | [El Tóxico](https://open.spotify.com/track/7E9GeFGfjXw9LAI4ay6rsw) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Tóxico](https://open.spotify.com/album/0FbcuKOFPTtZgqAucm31iG) | 2:59 | 2021-12-08 |  |
 | [Ella Baila Sola](https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ella Baila Sola](https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU) | 2:45 | 2023-03-17 | 2023-08-09 |
+| [EN ALTAVOZ](https://open.spotify.com/track/6L2wWlVVD6R2bczNdnSqKr) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Comienzo](https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b) | 2:46 | 2023-08-08 |  |
 | [En Blindadas](https://open.spotify.com/track/5SnT0c4vYrR93Zb7wqEAqo) | [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [En Blindadas](https://open.spotify.com/album/3jyPLQ5JSlA2SlDEgquSvY) | 3:10 | 2023-04-14 |  |
 | [En MI Pancita](https://open.spotify.com/track/1Ya1UL2b1s4GOHzzfyE5fv) | [Lagrimita Y Costel](https://open.spotify.com/artist/1C90Wuaxx8BGEZ6y6TySD7) | [Juntos Por Siempre](https://open.spotify.com/album/6tuXx4Fz56zPmi4GDSNNh0) | 3:25 | 2022-07-18 | 2022-11-13 |
 | [En Realidad](https://open.spotify.com/track/0hicPD6pe5ilVkgMWbRbZS) | [Grupo Abracadabra](https://open.spotify.com/artist/5Tr3Dj96kdzVnRiY3H457O) | [Antología, Vol\. 1](https://open.spotify.com/album/53Twpqi0xB4ZRUACwVtBK2) | 3:41 | 2021-12-08 |  |
@@ -173,7 +174,7 @@
 | [Los Chismes](https://open.spotify.com/track/6HfVKWOKGd8WPq3xgY0GBl) | [Los Nuevos Federales](https://open.spotify.com/artist/0YmG596FAhBHQW7Jnt4ZLZ) | [Chalinazos](https://open.spotify.com/album/0mvbtX5ytCQx09jHfcIxJa) | 3:01 | 2022-06-10 | 2022-07-05 |
 | [Malas Decisiones](https://open.spotify.com/track/2VYutJTaiK3oJursGk9z6a) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Malas Decisiones](https://open.spotify.com/album/1SBtatmdkqzCgt16ujwPBZ) | 3:27 | 2023-04-14 |  |
 | [Mas Que Amigos \- En vivo](https://open.spotify.com/track/2i6er0a1fHBsxibw8g3jNX) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [En Vivo Vol\. One \(En vivo\)](https://open.spotify.com/album/56p8CK0TWqMnwCHN8yqG0N) | 3:07 | 2022-08-05 | 2022-10-06 |
-| [Mas Que Amigos \- En Vivo](https://open.spotify.com/track/5x3RvunGAJ3Ws7r5yhFKeB) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [En Vivo, Vol.1](https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM) | 3:07 | 2022-08-05 |  |
+| [Mas Que Amigos \- En Vivo](https://open.spotify.com/track/5x3RvunGAJ3Ws7r5yhFKeB) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [En Vivo, Vol.1](https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM) | 3:07 | 2022-08-05 | 2023-08-10 |
 | [Me Cansé](https://open.spotify.com/track/3m9Kp9oZxrCQYDeaqBfWsz) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Trabajo Es La Suerte](https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk) | 3:43 | 2021-12-08 | 2023-08-09 |
 | [Me La Avente](https://open.spotify.com/track/2QwMXe5zbqymDZGYsMDVqZ) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/7kTcIz6EDhc8G0QCyvpOpH) | 2:35 | 2021-12-08 | 2022-07-29 |
 | [Me La Avente](https://open.spotify.com/track/3ahvKiNH7l6EpnTnzkZpG1) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI) | 2:35 | 2021-12-08 | 2023-08-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 
 > You can dance or chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,338 likes - 80 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,356 likes - 80 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 14 | [Medicine](https://open.spotify.com/track/7sfpydlJrHpTi533idUuZV) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [PLANT](https://open.spotify.com/artist/2b2PRT5intoFoG9KPB3Nyq) | [Medicine](https://open.spotify.com/album/3CVaImUrMiIWsweWKRPeN0) | 2:38 |
 | 15 | [Easy To Love](https://open.spotify.com/track/0BLxPjFEOG8G1q8AKLuz3V) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Feel Again](https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM) | 2:31 |
 | 16 | [Sweet Harmony](https://open.spotify.com/track/14Hg8gKCCboRLw0yXpcrMV) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Dario Trapani](https://open.spotify.com/artist/3Hr5KIqDswsyQtOoDyJTmM), [Ivan Cappello](https://open.spotify.com/artist/7feK9L4NzDWTVvUlG6rZgR), [Sh3](https://open.spotify.com/artist/5OwncnHbQGwU9RtHWvsFvW) | [Sweet Harmony](https://open.spotify.com/album/6siJjSXj7shJrMIKY1yMzE) | 2:42 |
-| 17 | [Freeze](https://open.spotify.com/track/4X66U6SUjvZqiKYIpCWXnq) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Freeze](https://open.spotify.com/album/3R2mQavCvrDfM3kZL2B8dh) | 8:07 |
-| 18 | [Better Than This](https://open.spotify.com/track/2ZoKeEKH1Y2yp0GJAvNngn) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [Better Than This](https://open.spotify.com/album/3PYlJuHzvfM5OQYfJQlUJS) | 2:36 |
+| 17 | [Better Than This](https://open.spotify.com/track/2ZoKeEKH1Y2yp0GJAvNngn) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [Better Than This](https://open.spotify.com/album/3PYlJuHzvfM5OQYfJQlUJS) | 2:36 |
+| 18 | [Freeze](https://open.spotify.com/track/4X66U6SUjvZqiKYIpCWXnq) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Freeze](https://open.spotify.com/album/3R2mQavCvrDfM3kZL2B8dh) | 8:07 |
 | 19 | [Eyes](https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Eyes](https://open.spotify.com/album/43ZD81KI1vdDZiPoKedtQA) | 4:17 |
 | 20 | [Falling](https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih), [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby) | [Falling](https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS) | 3:17 |
 | 21 | [Rebirth](https://open.spotify.com/track/4Xz2mxHREzWiEr0AyCJuU6) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Hero Baldwin](https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6) | [In Another Lifetime](https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb) | 4:44 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 28 | [Break Up](https://open.spotify.com/track/6oCdAXZVWCaGfHlhRidpAM) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [Pascal Letoublon](https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a) | [Break Up](https://open.spotify.com/album/35VhV8ON5V6UBZSkmo8s01) | 2:37 |
 | 29 | [Forgot How to Love](https://open.spotify.com/track/2DyOstPCEqOJfBA4tcMC6t) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv) | [Forgot How to Love](https://open.spotify.com/album/7oCCiK2qVfJY019T4Wdhgj) | 2:29 |
 | 30 | [Where did you go](https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Where did you go](https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE) | 2:48 |
-| 31 | [Rest Of My Life](https://open.spotify.com/track/03TeqvF26mItybhh9k3wPA) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [Eloi El](https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ) | [Rest Of My Life](https://open.spotify.com/album/46dZ3gViTkdI4tJFQYIkul) | 2:19 |
-| 32 | [Someday \(Latroit Edition\)](https://open.spotify.com/track/6oF66hFngUSqA9lHimenPp) | [Lliam Taylor](https://open.spotify.com/artist/2n01f3fehDpSvUQB3oYFFe), [Latroit](https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK), [Brea](https://open.spotify.com/artist/5nVSKWXkINmkKxSSWfiPwM) | [Someday \(Latroit Edition\)](https://open.spotify.com/album/0imxdkIlwChhIIrJALipXW) | 3:21 |
+| 31 | [Someday \(Latroit Edition\)](https://open.spotify.com/track/6oF66hFngUSqA9lHimenPp) | [Lliam Taylor](https://open.spotify.com/artist/2n01f3fehDpSvUQB3oYFFe), [Latroit](https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK), [Brea](https://open.spotify.com/artist/5nVSKWXkINmkKxSSWfiPwM) | [Someday \(Latroit Edition\)](https://open.spotify.com/album/0imxdkIlwChhIIrJALipXW) | 3:21 |
+| 32 | [Rest Of My Life](https://open.spotify.com/track/03TeqvF26mItybhh9k3wPA) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [Eloi El](https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ) | [Rest Of My Life](https://open.spotify.com/album/46dZ3gViTkdI4tJFQYIkul) | 2:19 |
 | 33 | [Stay A Little Longer](https://open.spotify.com/track/2ccjGxAs64dv32oh45iE91) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Stay A Little Longer](https://open.spotify.com/album/7f6rguPHcD1bVXFT7snazF) | 2:09 |
 | 34 | [Juno Love](https://open.spotify.com/track/7qC70bOUaH16OI6VXuiqGy) | [Nico Morano](https://open.spotify.com/artist/4tgKBxZIclHP0c2Tp8yyyz), [Mewhy](https://open.spotify.com/artist/2haudpnLQ5Kjt6fplURp31) | [Juno Love](https://open.spotify.com/album/2sTtx0M9ePDqz3wpDX7L38) | 7:26 |
 | 35 | [Easy On Me](https://open.spotify.com/track/0AJFIWIHpC8W2YUvEFNoAS) | [Cookie Crumble](https://open.spotify.com/artist/4TwUyusgsQc4Pfr6GlEd5V) | [Easy On Me](https://open.spotify.com/album/3O73IvF4b98mCzFXAbVUQg) | 2:55 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 79 | [See You On The Other Side](https://open.spotify.com/track/1G4bK9Z8JtkXah973WlAGS) | [Mike D' Jais](https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq) | [See You On The Other Side](https://open.spotify.com/album/1epzNdkMhr8ERPKnYyUcqG) | 4:01 |
 | 80 | [Anything](https://open.spotify.com/track/74bv7UX4lmiu5ukPgHOUcY) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [Anything](https://open.spotify.com/album/1UdsVPkJmTx4ITfeVnL8bF) | 2:23 |
 
-Snapshot ID: `MCw0NWQxMTlhZDI2ZTQ4YjE1MzZiNWMwNGY1NjE3MDBjZGE0YmRhNGMx`
+Snapshot ID: `MCwzNzIwZDdiYTE4NDBlMDBhZTlmN2EyMDBhMzk2YjQxYzNkZTgyYjVh`

@@ -4,7 +4,7 @@
 
 > A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers\. \(Cover: aiai\) \(찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요.\)
 
-302 songs - 18 hr 47 min
+304 songs - 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [I Can't Let You Go \(feat\. Space Cowboy\)](https://open.spotify.com/track/7hCtts26L8jf4KxxiNAX4P) | [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg), [Space Cowboy](https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7) | [New Wave City](https://open.spotify.com/album/2ySXEK0kErErlRV7G469GR) | 3:27 | 2023-07-07 |  |
 | [I FEEL LOVE](https://open.spotify.com/track/0waWA2gh4t6dEBXcCHapDE) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [SOUL LADY](https://open.spotify.com/album/16yrp3d9pCJgQK2RMBTtd1) | 3:55 | 2022-05-11 | 2022-07-29 |
 | [I Feel You](https://open.spotify.com/track/1gdTztk1x8HCDlxcSR8vp3) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [REBOOT](https://open.spotify.com/album/6uZUsBaw4hH7TPa60A1W3a) | 3:25 | 2022-05-11 | 2023-08-06 |
+| [I Feel You](https://open.spotify.com/track/4VDY2adUsc1up1nitWztVg) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [REBOOT](https://open.spotify.com/album/3in3RzViPTp3fZo51rmJoB) | 3:25 | 2023-07-13 |  |
 | [I Wish](https://open.spotify.com/track/3YtIeHuvBXkJAyv3twOYCC) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Heng:garæ](https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH) | 3:53 | 2022-07-22 |  |
 | [I Wish](https://open.spotify.com/track/56Ialc7EjXQwdZWLIctijx) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Heng:garæ](https://open.spotify.com/album/3tWstxfjHMtqt2ZsRvhlYy) | 3:53 | 2022-05-11 | 2022-07-29 |
 | [I'll Keep You In My Heart 내 맘에 담을 거예요](https://open.spotify.com/track/1DTLiT0z77rWmBdkOeNs4u) | [uju](https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92) | [Sunday Seoul 선데이서울 Ep.3](https://open.spotify.com/album/2qyuesnAj6Re9a6sy8eA4N) | 3:52 | 2022-05-11 | 2022-07-22 |
@@ -216,7 +217,7 @@
 | [Rewind](https://open.spotify.com/track/6UNRjSjhTNTu4b8fNEhDya) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [REBOOT](https://open.spotify.com/album/6uZUsBaw4hH7TPa60A1W3a) | 3:33 | 2022-05-11 | 2023-08-06 |
 | [Right here.](https://open.spotify.com/track/4ny1oXxI1Y3wVsrgYYFLg7) | [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV), [Rick bridges](https://open.spotify.com/artist/5TmTQv1VaF0VDAmC9eAQ2m) | [Right here.](https://open.spotify.com/album/2aNspd4IBSjrTGH8HxBUTW) | 3:07 | 2022-06-09 | 2022-07-12 |
 | [Rule](https://open.spotify.com/track/3lq58jcmLzwtWkzzR5Ppls) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Animation](https://open.spotify.com/album/678QsdsjapDnh9N9iCeFyp) | 3:27 | 2022-05-11 | 2022-07-29 |
-| [S.O.S](https://open.spotify.com/track/6AFTQ1U8UwAZt1yG1bs9pN) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [S.O.S](https://open.spotify.com/album/2sfzPfHxZZ5zYro4dHuCjF) | 3:20 | 2022-08-12 |  |
+| [S.O.S](https://open.spotify.com/track/6AFTQ1U8UwAZt1yG1bs9pN) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [S.O.S](https://open.spotify.com/album/2sfzPfHxZZ5zYro4dHuCjF) | 3:20 | 2022-08-12 | 2023-08-10 |
 | [SAY SOMETHING](https://open.spotify.com/track/2gagYYY4R8QimbnFqd96ST) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 4:07 | 2022-05-11 |  |
 | [Scent](https://open.spotify.com/track/1QHhyQMvuCrN1xrtLZttxk) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Scent](https://open.spotify.com/album/5ub9WgwYDknUaigTqwnf2G) | 3:31 | 2022-07-04 | 2022-08-12 |
 | [Seaside 깊은 밤 깊은 바다](https://open.spotify.com/track/4n7cF3CwbFpW4m3HwS9kEO) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Rise From The Ashes](https://open.spotify.com/album/0OK6BqDE5hyHR3zSI2POWr) | 3:42 | 2022-05-11 | 2022-07-26 |
@@ -242,7 +243,7 @@
 | [Suddenly \- Digging Club Seoul Version](https://open.spotify.com/track/7Iae3TKL6i9q1U3I7mS372) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Onstage Digging Club Seoul THEME 01](https://open.spotify.com/album/45jJuM9HOtrpzx1k3p1bGd) | 4:12 | 2022-07-22 |  |
 | [Suddenly Digging Club Seoul Version](https://open.spotify.com/track/03Ge4c8LmFTq95vjxc5iYq) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Onstage Digging Club Seoul THEME 01](https://open.spotify.com/album/6TpfVMxQlg9WFYJWIZy7cA) | 4:12 | 2022-05-11 | 2022-07-29 |
 | [summer blossom](https://open.spotify.com/track/3ORowtJPiXrdd42trQVnAH) | [BehindtheMoon](https://open.spotify.com/artist/4BHjuxRl1cKElPbo12BODO) | [summer blossom](https://open.spotify.com/album/2o2I9habr191db2ke30BAx) | 3:28 | 2022-05-11 | 2022-07-28 |
-| [SUMMER LOVE…](https://open.spotify.com/track/0mq5Oh2dRJJLXvI7GwlWRc) | [CSVC](https://open.spotify.com/artist/1rwoW5emVXVussR5078FoK) | [SUMMER LOVE…](https://open.spotify.com/album/08PiCTIK798erEd7joIO7d) | 4:10 | 2023-05-05 |  |
+| [SUMMER LOVE…](https://open.spotify.com/track/0mq5Oh2dRJJLXvI7GwlWRc) | [CSVC](https://open.spotify.com/artist/1rwoW5emVXVussR5078FoK) | [SUMMER LOVE…](https://open.spotify.com/album/08PiCTIK798erEd7joIO7d) | 4:10 | 2023-05-05 | 2023-08-10 |
 | [SUMMER LOVE…](https://open.spotify.com/track/5tVvmlomWtXPTYCirxP5NZ) | [CSVC](https://open.spotify.com/artist/1rwoW5emVXVussR5078FoK) | [SUMMER LOVE…](https://open.spotify.com/album/2cMseEooCLrfoNa8GZ13nu) | 4:10 | 2022-08-12 | 2022-11-13 |
 | [SUMMER LOVE…](https://open.spotify.com/track/2RfnRrDzHrrlHwkNDmhbYU) | [CSVC 치스비치](https://open.spotify.com/artist/3giVZjriL2C3Gn798Eciez), [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht), [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV), [Lovey](https://open.spotify.com/artist/2z72I5D1aakIVygNC7IAQV), [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh) | [SUMMER LOVE…](https://open.spotify.com/album/1gquEqskA7QSxOnxeXZoY8) | 4:10 | 2022-05-11 | 2022-07-29 |
 | [Summer Man \(Monthly Project 2018 July Yoon Jong Shin\)](https://open.spotify.com/track/2foZ12Gccs46hemHwhg0Vx) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Summer Man \(Monthly Project 2018 July Yoon Jong Shin\)](https://open.spotify.com/album/0yEI1Zp07O4nNEKqkNZYME) | 4:29 | 2022-05-11 | 2022-07-20 |
@@ -292,6 +293,7 @@
 | [Your Summer](https://open.spotify.com/track/0lzJ77M1pRbEDtHSRhOeJ3) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [Your Summer](https://open.spotify.com/album/5FNrP2gj78jlYfprsZDTxN) | 4:49 | 2022-06-18 | 2022-08-05 |
 | [YSYB \- Wekeyz Remix](https://open.spotify.com/track/3ZbXFsEy94lGBd81maBGq1) | [Jason Lee](https://open.spotify.com/artist/72VOOoqqtdrD4MP2FMZOlD), [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Sax in the City](https://open.spotify.com/album/2PRcyefHIp6xk5ZwdzMwvR) | 4:48 | 2022-05-11 | 2022-07-29 |
 | [都市女子](https://open.spotify.com/track/1fx1OZ7IFHEqohT2GIN0uB) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [都市女子](https://open.spotify.com/album/3HOdnNDpkFdzt3TamAUm9m) | 3:16 | 2022-05-11 | 2023-08-07 |
+| [都市女子](https://open.spotify.com/track/5KBeit6bMhlgfYwZuDTxoH) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [都市女子](https://open.spotify.com/album/3ntOyPFFZxF6iIjXL3E8by) | 3:17 | 2023-07-13 |  |
 | [그대 Hello](https://open.spotify.com/track/4XFCMuCMB62vIRPRbHEEiX) | [RYEOWOOK](https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo) | [어린왕자 The Little Prince \- The 1st Mini Album](https://open.spotify.com/album/6I6CK3eLNgufEnfz7Se93z) | 3:21 | 2022-06-18 | 2022-07-22 |
 | [마법소녀 Magic girl](https://open.spotify.com/track/6mre9iAnKmOmABGcWKEbsa) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [Bittersweet](https://open.spotify.com/album/0nWcRZpD3gEivKnpnrtdEB) | 3:59 | 2022-05-11 | 2022-07-09 |
 | [무성영화 Silent Movie](https://open.spotify.com/track/1Uw4C5ytMpTT5CNXTtULdI) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [Start of The End](https://open.spotify.com/album/0tETEOounTtE1iBygDvQgz) | 3:20 | 2022-05-11 | 2022-07-29 |

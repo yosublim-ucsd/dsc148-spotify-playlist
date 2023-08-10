@@ -2845,6 +2845,28 @@
     },
     {
       "album": {
+        "name": "Full Speed",
+        "url": "https://open.spotify.com/album/6Uy49ZyfFwVoV6sFM9eiHh"
+      },
+      "artists": [
+        {
+          "name": "Topi",
+          "url": "https://open.spotify.com/artist/6WP0h3qR0awvIWPMvE72F8"
+        },
+        {
+          "name": "hayve",
+          "url": "https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173600,
+      "name": "Full Speed",
+      "url": "https://open.spotify.com/track/22efJ20TrKDfYaawh85fNj"
+    },
+    {
+      "album": {
         "name": "FUNKONAUT",
         "url": "https://open.spotify.com/album/4Y2TV476edG8lB3h6vIKYZ"
       },
@@ -4332,7 +4354,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 163071,
       "name": "lozer",
       "url": "https://open.spotify.com/track/66DiGAO6hsJYfJiYKLBmXc"

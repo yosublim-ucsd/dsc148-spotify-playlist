@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8v8B2bJN6zQ.md) - [plain]
 
 > Música eletrônica para aquele treino de peso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,552 likes - 65 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,609 likes - 65 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8v8B2bJN6zQ.md) - [plain]
 | 64 | [Who Knows](https://open.spotify.com/track/6kLwtwP6LFgkT5AuH6Ke8v) | [Scorsi](https://open.spotify.com/artist/0LQKGvxOXZHDCxuite9zcT) | [Who Knows](https://open.spotify.com/album/2aHDpFLOosTIylUlwg7Uft) | 3:16 |
 | 65 | [Future](https://open.spotify.com/track/32VQjdJsS3EPF9fmIUAIPl) | [Dualmind](https://open.spotify.com/artist/2gNRZGT58XSTrInywjcgil), [Gandolfi B.](https://open.spotify.com/artist/0Js4sdeapMvJ4hB3KDq58J) | [Future](https://open.spotify.com/album/5pVzwUaHFDj7fi0bN3l3Uq) | 1:24 |
 
-Snapshot ID: `MCxjMzAwZGJhMDQ0YTBkNGM2M2VhNTVhOTllZDIxMTdjZjkxYzhkNTMw`
+Snapshot ID: `MCwzMjcwNDE5M2FiZTQ1YTQ1NDI2Y2YwYzFhYzRkOTAxOTllOGFjMmFh`

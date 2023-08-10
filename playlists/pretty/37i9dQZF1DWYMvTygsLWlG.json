@@ -1,12 +1,12 @@
 {
   "description": "Some of the worlds most beautiful love songs.",
-  "num_followers": 2040232,
+  "num_followers": 2040604,
   "original_name": "Love Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjBmZTZiZDA4NGY4ZGFhZGVlNGZjYzViOGNlNmFhYWVlNzRlMjMz",
+  "snapshot_id": "MCxiNTEwZmMwZDQzMWFjMjU4ZThjNjkxODViZjQzODFiYjExZjMyMTky",
   "tracks": [
     {
       "added_at": "2023-06-16 18:09:23",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-06-16 18:09:23",
       "album": {
-        "name": "The Temptations Sing Smokey",
-        "url": "https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"
-    },
-    {
-      "added_at": "2023-06-16 18:09:23",
-      "album": {
         "name": "Only Human (Deluxe)",
         "url": "https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 260285,
       "name": "Dancing On My Own",
       "url": "https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ"
+    },
+    {
+      "added_at": "2023-06-16 18:09:23",
+      "album": {
+        "name": "The Temptations Sing Smokey",
+        "url": "https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"
     },
     {
       "added_at": "2023-06-16 18:09:23",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-06-16 18:09:23",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 179693,
-      "name": "At Last",
-      "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
-    },
-    {
-      "added_at": "2023-06-16 18:09:23",
-      "album": {
         "name": "Into The Light",
         "url": "https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 256173,
       "name": "The Lady In Red",
       "url": "https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO"
+    },
+    {
+      "added_at": "2023-06-16 18:09:23",
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 179693,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
     },
     {
       "added_at": "2023-06-16 18:09:23",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-06-16 18:09:23",
       "album": {
-        "name": "Let's Talk About Love",
-        "url": "https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "My Heart Will Go On - Love Theme from \"Titanic\"",
-      "url": "https://open.spotify.com/track/33LC84JgLvK2KuW43MfaNq"
-    },
-    {
-      "added_at": "2023-06-16 18:09:23",
-      "album": {
         "name": "Lifehouse",
         "url": "https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 274693,
       "name": "You Say",
       "url": "https://open.spotify.com/track/6Up545NUflOiXo8cEraH49"
+    },
+    {
+      "added_at": "2023-06-16 18:09:23",
+      "album": {
+        "name": "Let's Talk About Love",
+        "url": "https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "My Heart Will Go On - Love Theme from \"Titanic\"",
+      "url": "https://open.spotify.com/track/33LC84JgLvK2KuW43MfaNq"
     },
     {
       "added_at": "2023-06-16 18:09:23",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-06-16 18:09:23",
       "album": {
-        "name": "Call Me Irresponsible",
-        "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 212373,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/4T6HLdP6OcAtqC6tGnQelG"
-    },
-    {
-      "added_at": "2023-06-16 18:09:23",
-      "album": {
         "name": "Lean Into It (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 208080,
       "name": "To Be With You - 2021 Remastered",
       "url": "https://open.spotify.com/track/0eifvmNPHWaSh4IKNR4Xva"
+    },
+    {
+      "added_at": "2023-06-16 18:09:23",
+      "album": {
+        "name": "Call Me Irresponsible",
+        "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 212373,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/4T6HLdP6OcAtqC6tGnQelG"
     },
     {
       "added_at": "2023-06-16 18:09:23",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2023-06-16 18:09:23",
       "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/3BGPil8BDPVoDK0lnUPtvb"
-      },
-      "artists": [
-        {
-          "name": "Faith Hill",
-          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
-        }
-      ],
-      "duration_ms": 250546,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/3y4LxiYMgDl4RethdzpmNe"
-    },
-    {
-      "added_at": "2023-06-16 18:09:23",
-      "album": {
         "name": "Paid Vacation",
         "url": "https://open.spotify.com/album/4Rrm9Du0htwyux1jNjsYCx"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 214826,
       "name": "Now And Forever",
       "url": "https://open.spotify.com/track/2V2pxcEfn5zs79sE7qcewA"
+    },
+    {
+      "added_at": "2023-06-16 18:09:23",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/3BGPil8BDPVoDK0lnUPtvb"
+      },
+      "artists": [
+        {
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+        }
+      ],
+      "duration_ms": 250546,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/3y4LxiYMgDl4RethdzpmNe"
     },
     {
       "added_at": "2023-06-16 18:09:23",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2023-06-16 18:09:23",
       "album": {
-        "name": "Dionne (Expanded Edition)",
-        "url": "https://open.spotify.com/album/77WC3SytwaxwNdzWPC1Jn9"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        }
-      ],
-      "duration_ms": 211920,
-      "name": "I'll Never Love This Way Again",
-      "url": "https://open.spotify.com/track/4V3AGIIQeJoBUPaTCLiscB"
-    },
-    {
-      "added_at": "2023-06-16 18:09:23",
-      "album": {
         "name": "Take My Breath Away",
         "url": "https://open.spotify.com/album/1gwQ8OK1YHKpzIxLKuc1MQ"
       },
@@ -2251,6 +2235,22 @@
       "duration_ms": 264213,
       "name": "Take My Breath Away",
       "url": "https://open.spotify.com/track/1hZJcuz9iMoz6tLkFlIaUy"
+    },
+    {
+      "added_at": "2023-06-16 18:09:23",
+      "album": {
+        "name": "Dionne (Expanded Edition)",
+        "url": "https://open.spotify.com/album/77WC3SytwaxwNdzWPC1Jn9"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 211920,
+      "name": "I'll Never Love This Way Again",
+      "url": "https://open.spotify.com/track/4V3AGIIQeJoBUPaTCLiscB"
     },
     {
       "added_at": "2023-06-16 18:09:23",

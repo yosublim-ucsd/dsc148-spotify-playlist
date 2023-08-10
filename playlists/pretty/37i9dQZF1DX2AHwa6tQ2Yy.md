@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 
 > Let the music flow through you...
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,817 likes - 70 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,842 likes - 70 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 65 | [Better Things](https://open.spotify.com/track/4S0TVBmZlqQWjoaFthRlbE) | [Kee'ahn](https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL) | [Better Things](https://open.spotify.com/album/10WziHwO8dTEYnMGsWXQ2C) | 3:42 |
 | 66 | [Good Man](https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Don't Forget to Look Up](https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK) | 3:30 |
 | 67 | [exodus the north star](https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [exodus the north star](https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr) | 3:25 |
-| 68 | [Sweet Lime](https://open.spotify.com/track/6rV9pGgzQwdSzNTFAINfRh) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Sweet Lime](https://open.spotify.com/album/4uJY86Adp7HO3Baczyps3U) | 2:59 |
-| 69 | [High Off You](https://open.spotify.com/track/0Tac3CLKtrgDgoNipYyZaw) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [High Off You](https://open.spotify.com/album/0okhOL15AUDSqpKFi9CHcu) | 3:53 |
+| 68 | [High Off You](https://open.spotify.com/track/0Tac3CLKtrgDgoNipYyZaw) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [High Off You](https://open.spotify.com/album/0okhOL15AUDSqpKFi9CHcu) | 3:53 |
+| 69 | [Sweet Lime](https://open.spotify.com/track/6rV9pGgzQwdSzNTFAINfRh) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Sweet Lime](https://open.spotify.com/album/4uJY86Adp7HO3Baczyps3U) | 2:59 |
 | 70 | [WAY OUT \(feat\. Milan Ring, matt mcwaters, & ?uestlove\)](https://open.spotify.com/track/4MjQCE1rN1xjLLr8xcYFA9) | [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [Milan Ring](https://open.spotify.com/artist/3byro7ByLeWjNoWLAfiq0b), [matt mcwaters](https://open.spotify.com/artist/3jUCC3z6XfyxBbGir9OcHK), [?uestlove](https://open.spotify.com/artist/1h2OVSKRdJHnVqyCKqCLkf) | [WAY OUT \(feat\. Milan Ring, matt mcwaters, & ?uestlove\)](https://open.spotify.com/album/1uggfls8BO7LmNnyhtqpRP) | 3:17 |
 
-Snapshot ID: `MCw5ZTg3NWNjNWM1YjgxYjg0OGQ1MTUwMWQyOWU5OTE1YjkzYjZmYzNi`
+Snapshot ID: `MCxjOWE4MmQxMGVmMTk5MzNjNmI3ZDUyYWFlNzRkODhmMDg0OWQ2MGJj`

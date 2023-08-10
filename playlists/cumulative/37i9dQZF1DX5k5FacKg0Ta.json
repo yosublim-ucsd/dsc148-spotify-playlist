@@ -1496,10 +1496,28 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 273360,
       "name": "Ne H\u00f6lm\u00f6t",
       "url": "https://open.spotify.com/track/2IlAAZBNdZi9g4WKVEvT0O"
+    },
+    {
+      "album": {
+        "name": "Valehtele, maailma ei tule muuttumaan",
+        "url": "https://open.spotify.com/album/3kKegPjUZ3q9q4UJte3apn"
+      },
+      "artists": [
+        {
+          "name": "Saarisalo",
+          "url": "https://open.spotify.com/artist/6IgTXnqCShUIfXhX2eC8Yl"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273360,
+      "name": "Ne H\u00f6lm\u00f6t",
+      "url": "https://open.spotify.com/track/3t7IDoyuwmxJ7zdi0mdjxf"
     },
     {
       "album": {

@@ -588,7 +588,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 200888,
       "name": "Bijli",
       "url": "https://open.spotify.com/track/0sDu8LBWm8Qk9VnQuiuq46"
@@ -730,7 +730,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 188374,
       "name": "CHAMKEELA",
       "url": "https://open.spotify.com/track/7BRB830qcAMXktLRnH9Lle"
@@ -2713,6 +2713,24 @@
     },
     {
       "album": {
+        "name": "Pardes Katenda",
+        "url": "https://open.spotify.com/album/0Vvg3mHBvuZkXTg7rRSLnd"
+      },
+      "artists": [
+        {
+          "name": "Adnan Dhool",
+          "url": "https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167921,
+      "name": "Pardes Katenda",
+      "url": "https://open.spotify.com/track/4IR5cCTkL4DjgJwtSijbjL"
+    },
+    {
+      "album": {
         "name": "Parwana",
         "url": "https://open.spotify.com/album/18Vgb2mQ80ZCoT30040z3p"
       },
@@ -3894,6 +3912,24 @@
       "duration_ms": 225120,
       "name": "Udh Chaliye",
       "url": "https://open.spotify.com/track/0TzvYA85b1yc7cQYPV6ydI"
+    },
+    {
+      "album": {
+        "name": "Under The Stars",
+        "url": "https://open.spotify.com/album/25bhlDywM1xsm2854OPfC1"
+      },
+      "artists": [
+        {
+          "name": "Jawad",
+          "url": "https://open.spotify.com/artist/5KIc7lniuLWhlXVOuhvvN8"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140730,
+      "name": "Under The Stars",
+      "url": "https://open.spotify.com/track/7DOCxixTYTuiSGhgICXXk5"
     },
     {
       "album": {

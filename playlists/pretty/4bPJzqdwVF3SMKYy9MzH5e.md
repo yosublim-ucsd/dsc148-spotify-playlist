@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,790 songs - 4 day 0 hr 58 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,792 songs - 4 day 1 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1798,5 +1798,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1788 | [Self Love \(Spider\-Man: Across the Spider\-Verse\) \(Metro Boomin & Coi Leray\)](https://open.spotify.com/track/0AAMnNeIc6CdnfNU85GwCH) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \(SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE\)](https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ) | 3:09 |
 | 1789 | [Turn Your Phone Off](https://open.spotify.com/track/6htWGNhskc5f0Xke88Vn5z) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [Turn Your Phone Off](https://open.spotify.com/album/2vumYq4zWRAEYa3f0567CL) | 2:56 |
 | 1790 | [MOJABI GHOST](https://open.spotify.com/track/4eMKD8MRroxCqugpsxCCNb) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:52 |
+| 1791 | [stay\_w\_me](https://open.spotify.com/track/6tKUMn27YjNOxxjttkI40A) | [m1v](https://open.spotify.com/artist/5pfVvTVQiPCMClDlE3bj0S) | [stay\_w\_me](https://open.spotify.com/album/6tdL42Aa8sREKhNt4t1oNS) | 2:16 |
+| 1792 | [SMOKE IT OFF!](https://open.spotify.com/track/4mMEvkDeY56be4l7Itb5aZ) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm), [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [SMOKE IT OFF!](https://open.spotify.com/album/4QVkiRbkPGu3KETjFzmf99) | 1:57 |
 
-Snapshot ID: `NjM0LGYzZTRhNjg1YTU2ZDliNmQwNzNjYmM1YjMxNTQ1NzA2NmZmYmRjMGY=`
+Snapshot ID: `NjM2LGVlN2E2MmU3ZTA5NjI3ZGUzZDRhZjgxNmExNGExMjc4NzJlNTNjMWY=`

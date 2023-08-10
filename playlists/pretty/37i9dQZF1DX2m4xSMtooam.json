@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sweet and soothing sound of Bossa nova.",
-  "num_followers": 162836,
+  "num_followers": 163065,
   "original_name": "Bossa Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjgxNDVkYzY2NmQzYTk2MzY1NjlmYjllNThjYTk3MGM5YzY4ODMy",
+  "snapshot_id": "MCw4NmJhNjI4NWFkNDc2MDkyMTllYTk3ODJmZTcwOGUyNWQ4YmQxOGNi",
   "tracks": [
     {
       "added_at": "2023-08-03 22:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Haven't We Met?",
-        "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 301543,
-      "name": "I'm Glad There Is You",
-      "url": "https://open.spotify.com/track/3cqo3iiXecJmN3CbQAAtpn"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
         "name": "Amalgama",
         "url": "https://open.spotify.com/album/3FjlRaBMxQSeGuA0hIYCwN"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 384320,
       "name": "Brisa",
       "url": "https://open.spotify.com/track/5erlLgX315PcOtgu6OkWSd"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Haven't We Met?",
+        "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 301543,
+      "name": "I'm Glad There Is You",
+      "url": "https://open.spotify.com/track/3cqo3iiXecJmN3CbQAAtpn"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Bossa Nova For Beginners",
-        "url": "https://open.spotify.com/album/1pcnT4wosrH8uUmKZBtozX"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 188466,
-      "name": "Sorriu Para Mim",
-      "url": "https://open.spotify.com/track/06baiB3MQP3UaRJjAgd0LG"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
         "name": "Cheek to cheek",
         "url": "https://open.spotify.com/album/712te0ZI1fyrkkI6k8ui6b"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 199299,
       "name": "Vivendo",
       "url": "https://open.spotify.com/track/3l7Pg8bvouSSOspl8Q9UU9"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Bossa Nova For Beginners",
+        "url": "https://open.spotify.com/album/1pcnT4wosrH8uUmKZBtozX"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 188466,
+      "name": "Sorriu Para Mim",
+      "url": "https://open.spotify.com/track/06baiB3MQP3UaRJjAgd0LG"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Bossa Nova Soul Samba (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/4ntjTCmyhwHIsK12RScxRP"
-      },
-      "artists": [
-        {
-          "name": "Ike Quebec",
-          "url": "https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh"
-        }
-      ],
-      "duration_ms": 240266,
-      "name": "Favela - Remastered",
-      "url": "https://open.spotify.com/track/13Y8guAjsfss2WPIINuoYd"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
         "name": "Vespertine",
         "url": "https://open.spotify.com/album/72c9jSI0MR0rtF6JG3w1sR"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 420811,
       "name": "Vespertine",
       "url": "https://open.spotify.com/track/33VG7YhLJLh3VEOtUFDH34"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Bossa Nova Soul Samba (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4ntjTCmyhwHIsK12RScxRP"
+      },
+      "artists": [
+        {
+          "name": "Ike Quebec",
+          "url": "https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh"
+        }
+      ],
+      "duration_ms": 240266,
+      "name": "Favela - Remastered",
+      "url": "https://open.spotify.com/track/13Y8guAjsfss2WPIINuoYd"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "\u00c1guas Do Passado",
-        "url": "https://open.spotify.com/album/62Xpg12xzDi7g9q7Hyf0zp"
-      },
-      "artists": [
-        {
-          "name": "Sara Santos",
-          "url": "https://open.spotify.com/artist/1K83XnIXY2xWu7cyBcOdjr"
-        }
-      ],
-      "duration_ms": 142623,
-      "name": "\u00c1guas Do Passado",
-      "url": "https://open.spotify.com/track/6ulw6HXEydYkLMsVGmXJ5w"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
         "name": "Clear Skies",
         "url": "https://open.spotify.com/album/1lkZ3pXnZoqj9grtpAkdNY"
       },
@@ -1331,18 +1315,18 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Tequila (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7DGv1MKlPZrLkP0HCSDm8I"
+        "name": "\u00c1guas Do Passado",
+        "url": "https://open.spotify.com/album/62Xpg12xzDi7g9q7Hyf0zp"
       },
       "artists": [
         {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+          "name": "Sara Santos",
+          "url": "https://open.spotify.com/artist/1K83XnIXY2xWu7cyBcOdjr"
         }
       ],
-      "duration_ms": 229173,
-      "name": "How Insensitive",
-      "url": "https://open.spotify.com/track/6XrRsEiP7KccIkRgqxcL70"
+      "duration_ms": 142623,
+      "name": "\u00c1guas Do Passado",
+      "url": "https://open.spotify.com/track/6ulw6HXEydYkLMsVGmXJ5w"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1359,6 +1343,22 @@
       "duration_ms": 173306,
       "name": "O Qu\u00e9 e Amar",
       "url": "https://open.spotify.com/track/23yWKIqw0l0oYRYWE2wJpe"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Tequila (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7DGv1MKlPZrLkP0HCSDm8I"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 229173,
+      "name": "How Insensitive",
+      "url": "https://open.spotify.com/track/6XrRsEiP7KccIkRgqxcL70"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
+        "name": "Nara Dez Anos Depois",
+        "url": "https://open.spotify.com/album/14vNVSBK4R5XpKUEUOTjvd"
+      },
+      "artists": [
+        {
+          "name": "Nara Le\u00e3o",
+          "url": "https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3"
+        }
+      ],
+      "duration_ms": 137800,
+      "name": "Medita\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1KcrfXWVdStS6UtSxmzGps"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
         "name": "Praia \u00e0 noite",
         "url": "https://open.spotify.com/album/2qGrmHUuZHRkayn9YdZxH7"
       },
@@ -1603,22 +1619,6 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Nara Dez Anos Depois",
-        "url": "https://open.spotify.com/album/14vNVSBK4R5XpKUEUOTjvd"
-      },
-      "artists": [
-        {
-          "name": "Nara Le\u00e3o",
-          "url": "https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3"
-        }
-      ],
-      "duration_ms": 137800,
-      "name": "Medita\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/1KcrfXWVdStS6UtSxmzGps"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
         "name": "Aquele Frevo Ax\u00e9",
         "url": "https://open.spotify.com/album/5jhcmxv1YOORIADhphS2SE"
       },
@@ -1631,22 +1631,6 @@
       "duration_ms": 232293,
       "name": "Aquele Frevo Ax\u00e9",
       "url": "https://open.spotify.com/track/0Fd5qH2K7UsQh4MU3MB17m"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
-        "name": "day by day",
-        "url": "https://open.spotify.com/album/4mQSSzdJ4EdKxRNx5wF9nB"
-      },
-      "artists": [
-        {
-          "name": "Luca Mundaca",
-          "url": "https://open.spotify.com/artist/7u3L4UZO9IXBElwdUyvAxl"
-        }
-      ],
-      "duration_ms": 259933,
-      "name": "Day by day",
-      "url": "https://open.spotify.com/track/4Wa359eOBiLxHlz5W6Czp6"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1667,6 +1651,22 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
+        "name": "day by day",
+        "url": "https://open.spotify.com/album/4mQSSzdJ4EdKxRNx5wF9nB"
+      },
+      "artists": [
+        {
+          "name": "Luca Mundaca",
+          "url": "https://open.spotify.com/artist/7u3L4UZO9IXBElwdUyvAxl"
+        }
+      ],
+      "duration_ms": 259933,
+      "name": "Day by day",
+      "url": "https://open.spotify.com/track/4Wa359eOBiLxHlz5W6Czp6"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
         "name": "Liljeholmsviken",
         "url": "https://open.spotify.com/album/6wrG9MReEESMfnXLh3daCe"
       },
@@ -1679,22 +1679,6 @@
       "duration_ms": 262408,
       "name": "Liljeholmsviken",
       "url": "https://open.spotify.com/track/3Gw26kNDJHfTtHJQOzI1h4"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
-        "name": "Don't Know Why",
-        "url": "https://open.spotify.com/album/1eOWhe6KSCG5aV9mrhjySq"
-      },
-      "artists": [
-        {
-          "name": "Naira Fonseca",
-          "url": "https://open.spotify.com/artist/7CsiZmusVRzvSxLFk3qrgC"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Don't Know Why",
-      "url": "https://open.spotify.com/track/7v70FdNcR0GkePhz3aQV3n"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1715,6 +1699,22 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
+        "name": "Don't Know Why",
+        "url": "https://open.spotify.com/album/1eOWhe6KSCG5aV9mrhjySq"
+      },
+      "artists": [
+        {
+          "name": "Naira Fonseca",
+          "url": "https://open.spotify.com/artist/7CsiZmusVRzvSxLFk3qrgC"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Don't Know Why",
+      "url": "https://open.spotify.com/track/7v70FdNcR0GkePhz3aQV3n"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
         "name": "Over the Rainbow",
         "url": "https://open.spotify.com/album/4QHX19CSzvmLopSHU6XIiE"
       },
@@ -1731,8 +1731,8 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Nana",
-        "url": "https://open.spotify.com/album/7JXX0EsuHWnOweuAmeb484"
+        "name": "Press\u00e1gio",
+        "url": "https://open.spotify.com/album/7LhUawCpzHAfH4MZ3zBLlb"
       },
       "artists": [
         {
@@ -1740,9 +1740,9 @@
           "url": "https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2"
         }
       ],
-      "duration_ms": 273637,
-      "name": "Nana",
-      "url": "https://open.spotify.com/track/7hZgnIYynYjpYPQ5lcvUXm"
+      "duration_ms": 397571,
+      "name": "Press\u00e1gio",
+      "url": "https://open.spotify.com/track/5BdyZTa9TXXdLfOvvwhgGH"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Take Ten",
-        "url": "https://open.spotify.com/album/67OvvuGokycHO0Quc9HyKZ"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 253133,
-      "name": "The Theme from \"Black Orpheus\"",
-      "url": "https://open.spotify.com/track/0XBDgnZFhL27Y46oVknBPE"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
         "name": "You Fascinate Me So",
         "url": "https://open.spotify.com/album/1As1sRYOnFneZroDvzWGlW"
       },
@@ -1907,22 +1891,6 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Press\u00e1gio",
-        "url": "https://open.spotify.com/album/7LhUawCpzHAfH4MZ3zBLlb"
-      },
-      "artists": [
-        {
-          "name": "Marcio Philomena",
-          "url": "https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2"
-        }
-      ],
-      "duration_ms": 397571,
-      "name": "Press\u00e1gio",
-      "url": "https://open.spotify.com/track/5BdyZTa9TXXdLfOvvwhgGH"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
         "name": "Quarteto Jobim Morelenbaum",
         "url": "https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY"
       },
@@ -1935,6 +1903,38 @@
       "duration_ms": 233499,
       "name": "S\u00f3 Tinha de Ser Com Voc\u00ea",
       "url": "https://open.spotify.com/track/1U2yKTVqJASLKLSCzrwxi7"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Nana",
+        "url": "https://open.spotify.com/album/7JXX0EsuHWnOweuAmeb484"
+      },
+      "artists": [
+        {
+          "name": "Marcio Philomena",
+          "url": "https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2"
+        }
+      ],
+      "duration_ms": 273637,
+      "name": "Nana",
+      "url": "https://open.spotify.com/track/7hZgnIYynYjpYPQ5lcvUXm"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Take Ten",
+        "url": "https://open.spotify.com/album/67OvvuGokycHO0Quc9HyKZ"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 253133,
+      "name": "The Theme from \"Black Orpheus\"",
+      "url": "https://open.spotify.com/track/0XBDgnZFhL27Y46oVknBPE"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1975,6 +1975,22 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
+        "name": "Ondas Cintilantes",
+        "url": "https://open.spotify.com/album/3TzJR9AZiINuZIY2WWvR7A"
+      },
+      "artists": [
+        {
+          "name": "Mabon Clarke Quartet",
+          "url": "https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc"
+        }
+      ],
+      "duration_ms": 178123,
+      "name": "Ondas Cintilantes",
+      "url": "https://open.spotify.com/track/0BaqfOrf4DXXO7oOgbanwm"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
         "name": "Rio Bahia",
         "url": "https://open.spotify.com/album/3cgIE2eEoFouC2oxYghfRg"
       },
@@ -1991,22 +2007,6 @@
       "duration_ms": 148146,
       "name": "Jo\u00e3ozinho Boa Pinta",
       "url": "https://open.spotify.com/track/1cqaZpuQpbrPQGzcnPPHfB"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
-        "name": "Ondas Cintilantes",
-        "url": "https://open.spotify.com/album/3TzJR9AZiINuZIY2WWvR7A"
-      },
-      "artists": [
-        {
-          "name": "Mabon Clarke Quartet",
-          "url": "https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc"
-        }
-      ],
-      "duration_ms": 178123,
-      "name": "Ondas Cintilantes",
-      "url": "https://open.spotify.com/track/0BaqfOrf4DXXO7oOgbanwm"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -2439,6 +2439,22 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
+        "name": "Scintilla",
+        "url": "https://open.spotify.com/album/5NOen6G8sot5tYOayw7UbP"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Vargas Luna",
+          "url": "https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O"
+        }
+      ],
+      "duration_ms": 154137,
+      "name": "Scintilla",
+      "url": "https://open.spotify.com/track/4IvwFo7d9K78CdN4OmnGnw"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
         "name": "O Pato",
         "url": "https://open.spotify.com/album/7s6RlHdAISgk1hgexQa16Q"
       },
@@ -2455,22 +2471,6 @@
       "duration_ms": 193253,
       "name": "O Pato",
       "url": "https://open.spotify.com/track/5ZhOwbrUtDDct1EwPQ5OsA"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
-        "name": "Scintilla",
-        "url": "https://open.spotify.com/album/5NOen6G8sot5tYOayw7UbP"
-      },
-      "artists": [
-        {
-          "name": "Gabriella Vargas Luna",
-          "url": "https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O"
-        }
-      ],
-      "duration_ms": 154137,
-      "name": "Scintilla",
-      "url": "https://open.spotify.com/track/4IvwFo7d9K78CdN4OmnGnw"
     },
     {
       "added_at": "2023-08-03 22:00:00",

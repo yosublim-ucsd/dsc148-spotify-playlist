@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 161156,
+  "num_followers": 161293,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZTQ2YmZiZWExYzY1NWYxNTMxZDQ1OGFlNzIzZDRhMzM5NjMxNjA2",
+  "snapshot_id": "MCw4MTQ4ODM3MzcwNDk1MmI2ZWYyM2NmMjZmMjZkMWVlMWE5OTcwMWQ0",
   "tracks": [
     {
       "added_at": "2023-04-14 01:13:12",
@@ -185,6 +185,38 @@
       "url": "https://open.spotify.com/track/49zWAZOQGNitbu35AwJCuz"
     },
     {
+      "added_at": "2023-06-26 14:17:57",
+      "album": {
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
+      },
+      "artists": [
+        {
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+        }
+      ],
+      "duration_ms": 425036,
+      "name": "attention",
+      "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
+    },
+    {
+      "added_at": "2023-05-22 18:30:22",
+      "album": {
+        "name": "If Only It Was Warmth",
+        "url": "https://open.spotify.com/album/0s5NoPv7HcPo4TvbGwo8VB"
+      },
+      "artists": [
+        {
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+        }
+      ],
+      "duration_ms": 197979,
+      "name": "If Only It Was Warmth",
+      "url": "https://open.spotify.com/track/1wXbDJMiHEO9vfwVJPOBcH"
+    },
+    {
       "added_at": "2022-09-29 00:57:24",
       "album": {
         "name": "Meditations on Crime",
@@ -207,38 +239,6 @@
       "duration_ms": 213159,
       "name": "Crime Seed",
       "url": "https://open.spotify.com/track/5vyoWTsI8hVl9fJHqW2ieb"
-    },
-    {
-      "added_at": "2023-05-22 18:30:22",
-      "album": {
-        "name": "If Only It Was Warmth",
-        "url": "https://open.spotify.com/album/0s5NoPv7HcPo4TvbGwo8VB"
-      },
-      "artists": [
-        {
-          "name": "King Krule",
-          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
-        }
-      ],
-      "duration_ms": 197979,
-      "name": "If Only It Was Warmth",
-      "url": "https://open.spotify.com/track/1wXbDJMiHEO9vfwVJPOBcH"
-    },
-    {
-      "added_at": "2023-06-26 14:17:57",
-      "album": {
-        "name": "humanus",
-        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
-      },
-      "artists": [
-        {
-          "name": "uh",
-          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
-        }
-      ],
-      "duration_ms": 425036,
-      "name": "attention",
-      "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
     },
     {
       "added_at": "2022-09-07 01:02:18",
@@ -369,22 +369,6 @@
       "url": "https://open.spotify.com/track/28rXyBF4c6ziSoiY6QDcZO"
     },
     {
-      "added_at": "2023-06-05 20:56:02",
-      "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
-      },
-      "artists": [
-        {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
-        }
-      ],
-      "duration_ms": 363346,
-      "name": "Makkuroi Mizu",
-      "url": "https://open.spotify.com/track/5TZf5KFfpJ5Vjb39z3QRR5"
-    },
-    {
       "added_at": "2022-07-15 05:42:04",
       "album": {
         "name": "Arkhon",
@@ -399,6 +383,22 @@
       "duration_ms": 204262,
       "name": "Lost",
       "url": "https://open.spotify.com/track/5NIrChwN4QRg8sGrFalgMU"
+    },
+    {
+      "added_at": "2023-06-05 20:56:02",
+      "album": {
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
+      },
+      "artists": [
+        {
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+        }
+      ],
+      "duration_ms": 363346,
+      "name": "Makkuroi Mizu",
+      "url": "https://open.spotify.com/track/5TZf5KFfpJ5Vjb39z3QRR5"
     },
     {
       "added_at": "2023-03-23 20:08:51",
@@ -417,22 +417,6 @@
       "url": "https://open.spotify.com/track/7AN04wyG4AnzJN3cR20CQT"
     },
     {
-      "added_at": "2021-10-15 03:46:13",
-      "album": {
-        "name": "Mouth Full of Glass",
-        "url": "https://open.spotify.com/album/5h35IQUAVzF6dEMEGGagvq"
-      },
-      "artists": [
-        {
-          "name": "Macie Stewart",
-          "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
-        }
-      ],
-      "duration_ms": 215583,
-      "name": "Garter Snake",
-      "url": "https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph"
-    },
-    {
       "added_at": "2023-06-02 01:17:00",
       "album": {
         "name": "The King",
@@ -447,6 +431,22 @@
       "duration_ms": 224524,
       "name": "The King",
       "url": "https://open.spotify.com/track/6aFYhF9iSJv4OCee099HxM"
+    },
+    {
+      "added_at": "2021-10-15 03:46:13",
+      "album": {
+        "name": "Mouth Full of Glass",
+        "url": "https://open.spotify.com/album/5h35IQUAVzF6dEMEGGagvq"
+      },
+      "artists": [
+        {
+          "name": "Macie Stewart",
+          "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
+        }
+      ],
+      "duration_ms": 215583,
+      "name": "Garter Snake",
+      "url": "https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph"
     },
     {
       "added_at": "2022-02-04 15:20:01",
@@ -751,6 +751,22 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
+        "name": "Moot!",
+        "url": "https://open.spotify.com/album/6E2kC2kf3D5iXQDY3KQBgT"
+      },
+      "artists": [
+        {
+          "name": "Moin",
+          "url": "https://open.spotify.com/artist/3HKbW1X4Aj2RZU6ruh3a0e"
+        }
+      ],
+      "duration_ms": 297239,
+      "name": "Right is Alright, Wrong is to Belong",
+      "url": "https://open.spotify.com/track/2AkzUxAscto4cIeJSl2aBt"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
         "name": "High January",
         "url": "https://open.spotify.com/album/3er7U7Xz3YFryjGaFnpKSE"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 266287,
       "name": "Starved for Glamour",
       "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Moot!",
-        "url": "https://open.spotify.com/album/6E2kC2kf3D5iXQDY3KQBgT"
-      },
-      "artists": [
-        {
-          "name": "Moin",
-          "url": "https://open.spotify.com/artist/3HKbW1X4Aj2RZU6ruh3a0e"
-        }
-      ],
-      "duration_ms": 297239,
-      "name": "Right is Alright, Wrong is to Belong",
-      "url": "https://open.spotify.com/track/2AkzUxAscto4cIeJSl2aBt"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -837,6 +837,22 @@
       "url": "https://open.spotify.com/track/343FRF9gbsQRFesy9H2V5M"
     },
     {
+      "added_at": "2023-01-03 01:09:50",
+      "album": {
+        "name": "Time Skiffs",
+        "url": "https://open.spotify.com/album/6GfYRMD52msi3dHjnGpOWv"
+      },
+      "artists": [
+        {
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+        }
+      ],
+      "duration_ms": 470299,
+      "name": "Cherokee",
+      "url": "https://open.spotify.com/track/1qFudtsBIsNMBumicKCVYm"
+    },
+    {
       "added_at": "2023-02-13 19:20:06",
       "album": {
         "name": "Invierno (Remix)",
@@ -861,22 +877,6 @@
       "url": "https://open.spotify.com/track/2cNVGRkB0MdDESK3C0F9le"
     },
     {
-      "added_at": "2023-01-03 01:09:50",
-      "album": {
-        "name": "Time Skiffs",
-        "url": "https://open.spotify.com/album/6GfYRMD52msi3dHjnGpOWv"
-      },
-      "artists": [
-        {
-          "name": "Animal Collective",
-          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
-        }
-      ],
-      "duration_ms": 470299,
-      "name": "Cherokee",
-      "url": "https://open.spotify.com/track/1qFudtsBIsNMBumicKCVYm"
-    },
-    {
       "added_at": "2022-08-31 05:00:32",
       "album": {
         "name": "\u00a1Ay!",
@@ -891,6 +891,26 @@
       "duration_ms": 164598,
       "name": "Dicen",
       "url": "https://open.spotify.com/track/23hHf7aRBMesANVdtp2stv"
+    },
+    {
+      "added_at": "2022-09-09 13:45:31",
+      "album": {
+        "name": "Jolene From Her Own Perspective",
+        "url": "https://open.spotify.com/album/3YCXgNmBuGEvNsWSYubcZj"
+      },
+      "artists": [
+        {
+          "name": "Okay Kaya",
+          "url": "https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb"
+        },
+        {
+          "name": "zannie",
+          "url": "https://open.spotify.com/artist/5b39yaQXUinM6d6KuuLiCd"
+        }
+      ],
+      "duration_ms": 207253,
+      "name": "Jolene From Her Own Perspective",
+      "url": "https://open.spotify.com/track/1X3i5zsOswKJkF7ZmG4uO7"
     },
     {
       "added_at": "2022-08-13 00:53:45",
@@ -929,24 +949,20 @@
       "url": "https://open.spotify.com/track/4rFfeIVPKs1Rgr3ppaerQX"
     },
     {
-      "added_at": "2022-09-09 13:45:31",
+      "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Jolene From Her Own Perspective",
-        "url": "https://open.spotify.com/album/3YCXgNmBuGEvNsWSYubcZj"
+        "name": "Cosmorama",
+        "url": "https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq"
       },
       "artists": [
         {
-          "name": "Okay Kaya",
-          "url": "https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb"
-        },
-        {
-          "name": "zannie",
-          "url": "https://open.spotify.com/artist/5b39yaQXUinM6d6KuuLiCd"
+          "name": "Beautify Junkyards",
+          "url": "https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl"
         }
       ],
-      "duration_ms": 207253,
-      "name": "Jolene From Her Own Perspective",
-      "url": "https://open.spotify.com/track/1X3i5zsOswKJkF7ZmG4uO7"
+      "duration_ms": 258420,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/3SliuInyApsQsaDwCDbbvY"
     },
     {
       "added_at": "2022-02-09 04:04:07",
@@ -981,22 +997,6 @@
       "url": "https://open.spotify.com/track/2cTLouneODFXlosSyN3sxK"
     },
     {
-      "added_at": "2023-06-27 03:02:36",
-      "album": {
-        "name": "Off Planet",
-        "url": "https://open.spotify.com/album/5An8eMki7iyqgQoufrMlI0"
-      },
-      "artists": [
-        {
-          "name": "Django Django",
-          "url": "https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab"
-        }
-      ],
-      "duration_ms": 130808,
-      "name": "The Oh Zone",
-      "url": "https://open.spotify.com/track/1nyMpGw10guuyKFtxLshVl"
-    },
-    {
       "added_at": "2022-11-17 22:51:20",
       "album": {
         "name": "Starry Nights",
@@ -1015,6 +1015,22 @@
       "duration_ms": 205067,
       "name": "Starry Nights",
       "url": "https://open.spotify.com/track/1ijMJdADgg379aghDnIby7"
+    },
+    {
+      "added_at": "2023-06-27 03:02:36",
+      "album": {
+        "name": "Off Planet",
+        "url": "https://open.spotify.com/album/5An8eMki7iyqgQoufrMlI0"
+      },
+      "artists": [
+        {
+          "name": "Django Django",
+          "url": "https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab"
+        }
+      ],
+      "duration_ms": 130808,
+      "name": "The Oh Zone",
+      "url": "https://open.spotify.com/track/1nyMpGw10guuyKFtxLshVl"
     },
     {
       "added_at": "2023-06-26 14:24:59",
@@ -1073,20 +1089,20 @@
       "url": "https://open.spotify.com/track/1S5KEj2FV5TJAoHJaXHmC0"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
+      "added_at": "2022-01-21 20:15:30",
       "album": {
-        "name": "Cosmorama",
-        "url": "https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq"
+        "name": "Songs For Vienna",
+        "url": "https://open.spotify.com/album/5j4EVgx8biIphy8M4InK0a"
       },
       "artists": [
         {
-          "name": "Beautify Junkyards",
-          "url": "https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl"
+          "name": "Cid Rim",
+          "url": "https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s"
         }
       ],
-      "duration_ms": 258420,
-      "name": "Reverie",
-      "url": "https://open.spotify.com/track/3SliuInyApsQsaDwCDbbvY"
+      "duration_ms": 188873,
+      "name": "Feedback Loop",
+      "url": "https://open.spotify.com/track/5LFjp7uFga0wfF7lOSSYYg"
     },
     {
       "added_at": "2022-09-29 00:40:57",
@@ -1103,22 +1119,6 @@
       "duration_ms": 159480,
       "name": "Shining Armor",
       "url": "https://open.spotify.com/track/4yOYFgVepcDq7DFMYXP4bc"
-    },
-    {
-      "added_at": "2022-01-21 20:15:30",
-      "album": {
-        "name": "Songs For Vienna",
-        "url": "https://open.spotify.com/album/5j4EVgx8biIphy8M4InK0a"
-      },
-      "artists": [
-        {
-          "name": "Cid Rim",
-          "url": "https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s"
-        }
-      ],
-      "duration_ms": 188873,
-      "name": "Feedback Loop",
-      "url": "https://open.spotify.com/track/5LFjp7uFga0wfF7lOSSYYg"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1153,22 +1153,6 @@
       "url": "https://open.spotify.com/track/49SiBBu5SZn0lqSFAhgJ5t"
     },
     {
-      "added_at": "2022-03-30 04:28:53",
-      "album": {
-        "name": "Sans oublier",
-        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
-      },
-      "artists": [
-        {
-          "name": "Lysandre",
-          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
-        }
-      ],
-      "duration_ms": 170737,
-      "name": "La Roseraie",
-      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Centre",
@@ -1183,6 +1167,22 @@
       "duration_ms": 280404,
       "name": "Aplomb",
       "url": "https://open.spotify.com/track/2W0eN3BqaBz4WeInKnQmCR"
+    },
+    {
+      "added_at": "2022-03-30 04:28:53",
+      "album": {
+        "name": "Sans oublier",
+        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
+      },
+      "artists": [
+        {
+          "name": "Lysandre",
+          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
+        }
+      ],
+      "duration_ms": 170737,
+      "name": "La Roseraie",
+      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
     },
     {
       "added_at": "2023-01-07 04:00:59",
@@ -1309,22 +1309,6 @@
       "url": "https://open.spotify.com/track/5zwDRRsVri8kOTDwQt9dRU"
     },
     {
-      "added_at": "2023-06-02 00:41:12",
-      "album": {
-        "name": "Music For Film: Women Against The Bomb",
-        "url": "https://open.spotify.com/album/3h5hrCfmIHXQcxZYUnfE85"
-      },
-      "artists": [
-        {
-          "name": "MEMORIALS",
-          "url": "https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP"
-        }
-      ],
-      "duration_ms": 212626,
-      "name": "It's In Our Hands",
-      "url": "https://open.spotify.com/track/7HoJFfvWJMlBfUh0wC0m1L"
-    },
-    {
       "added_at": "2023-01-20 04:21:17",
       "album": {
         "name": "MERCY",
@@ -1359,6 +1343,22 @@
       "duration_ms": 229183,
       "name": "Nothing's Wrong",
       "url": "https://open.spotify.com/track/3g5v5S6Adv3gqPpKuli6Q5"
+    },
+    {
+      "added_at": "2023-06-02 00:41:12",
+      "album": {
+        "name": "Music For Film: Women Against The Bomb",
+        "url": "https://open.spotify.com/album/3h5hrCfmIHXQcxZYUnfE85"
+      },
+      "artists": [
+        {
+          "name": "MEMORIALS",
+          "url": "https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP"
+        }
+      ],
+      "duration_ms": 212626,
+      "name": "It's In Our Hands",
+      "url": "https://open.spotify.com/track/7HoJFfvWJMlBfUh0wC0m1L"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1417,22 +1417,6 @@
       "url": "https://open.spotify.com/track/2gbExwEbhJtlrL9q1d7k9T"
     },
     {
-      "added_at": "2022-08-13 01:40:58",
-      "album": {
-        "name": "NIGHT CRAWLING",
-        "url": "https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm"
-      },
-      "artists": [
-        {
-          "name": "John Cale",
-          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
-        }
-      ],
-      "duration_ms": 293706,
-      "name": "NIGHT CRAWLING",
-      "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
-    },
-    {
       "added_at": "2022-08-19 01:53:48",
       "album": {
         "name": "artclubdiscotheque",
@@ -1451,6 +1435,22 @@
       "duration_ms": 335433,
       "name": "artclubdiscotheque",
       "url": "https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe"
+    },
+    {
+      "added_at": "2022-08-13 01:40:58",
+      "album": {
+        "name": "NIGHT CRAWLING",
+        "url": "https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm"
+      },
+      "artists": [
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        }
+      ],
+      "duration_ms": 293706,
+      "name": "NIGHT CRAWLING",
+      "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
     },
     {
       "added_at": "2022-01-11 00:08:03",
@@ -1633,6 +1633,22 @@
       "url": "https://open.spotify.com/track/52FOa3LKl18XqXzQQCIaXG"
     },
     {
+      "added_at": "2022-08-31 04:56:45",
+      "album": {
+        "name": "Sunset Dreams",
+        "url": "https://open.spotify.com/album/6SSE8rmfK2n5D10pJYBaYX"
+      },
+      "artists": [
+        {
+          "name": "Jane Weaver",
+          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
+        }
+      ],
+      "duration_ms": 215831,
+      "name": "Don't Tell Me I'm Wrong",
+      "url": "https://open.spotify.com/track/4NUBJ6FdoxJWGaLD5IAw5p"
+    },
+    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Hildegard",
@@ -1655,22 +1671,6 @@
       "duration_ms": 186544,
       "name": "Jour 3",
       "url": "https://open.spotify.com/track/0uV87Zea2zf6ZufAnjdx2V"
-    },
-    {
-      "added_at": "2022-08-31 04:56:45",
-      "album": {
-        "name": "Sunset Dreams",
-        "url": "https://open.spotify.com/album/6SSE8rmfK2n5D10pJYBaYX"
-      },
-      "artists": [
-        {
-          "name": "Jane Weaver",
-          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
-        }
-      ],
-      "duration_ms": 215831,
-      "name": "Don't Tell Me I'm Wrong",
-      "url": "https://open.spotify.com/track/4NUBJ6FdoxJWGaLD5IAw5p"
     },
     {
       "added_at": "2022-02-09 04:03:27",

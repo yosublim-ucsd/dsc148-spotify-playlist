@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR2304fzenh.md) - [plain]
 
 > El título says it all, a whole mood!
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,183 likes - 86 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,395 likes - 86 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR2304fzenh.md) - [plain]
 | 70 | [El Buho](https://open.spotify.com/track/20b6XSI5iFhvmis8YwszrL) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Belicos](https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c) | 2:57 |
 | 71 | [Solita \(En Vivo\)](https://open.spotify.com/track/279gdvickeQgmRt3EHBtNg) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Con Los Pies en La Tierra](https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r) | 3:35 |
 | 72 | [Se Va Muriendo Mi Alma](https://open.spotify.com/track/089JwgBFzPhW92N7RmUdNq) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Tirando Party](https://open.spotify.com/album/4Abo4Oityt7ycbQwoRmXvC) | 3:56 |
-| 73 | [Tú No Eres Mi Ex](https://open.spotify.com/track/2OxvUUQwphytpa3KzZR7ns) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Tú No Eres Mi Ex](https://open.spotify.com/album/1BPEunvkDXOHGJEOKEeARt) | 3:54 |
+| 73 | [La Boda del Huitlacoche \- En Vivo](https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Borrachera Con los Honorables \(En Vivo\)](https://open.spotify.com/album/5Js6rpaXDIBbdJA5Xn8AYd) | 3:08 |
 | 74 | [El Niño](https://open.spotify.com/track/3gEolrSD883RXFsgiruxEm) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [El Niño](https://open.spotify.com/album/752bhrEwJA4s5o39zAACNy) | 3:10 |
 | 75 | [Vete Ya](https://open.spotify.com/track/0UkIrDmZ19PFFi6SXx9RBd) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Lo Mejor De Homenaje A Una Vida](https://open.spotify.com/album/4IMIycfVRmQVdtKYeoWqqr) | 2:35 |
-| 76 | [Chuyito y El Mayo \(En Vivo\)](https://open.spotify.com/track/5mXKfidzkpKSdbiTLqXh2G) | [Los Del Arroyo](https://open.spotify.com/artist/43mTldLHocYpIrVrGuY4e4), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Chuyito y El Mayo \(En Vivo\)](https://open.spotify.com/album/0Edi0lLcHczz0XCRtE0MC7) | 3:07 |
-| 77 | [El Plumas](https://open.spotify.com/track/0HPVA8D3dB1VvmCKW7epcN) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Plumas](https://open.spotify.com/album/2m1Z4pRYQopVrLb5jKqNBT) | 2:08 |
-| 78 | [El Alcohol No Funcionó](https://open.spotify.com/track/6iqOmzSElWlh2vHuZsBD29) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [El Alcohol No Funcionó](https://open.spotify.com/album/1R6ktAmL2qtNDWI1Ez1fhb) | 3:30 |
-| 79 | [La Boda del Huitlacoche \- En Vivo](https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Borrachera Con los Honorables \(En Vivo\)](https://open.spotify.com/album/5Js6rpaXDIBbdJA5Xn8AYd) | 3:08 |
+| 76 | [Tú No Eres Mi Ex](https://open.spotify.com/track/2OxvUUQwphytpa3KzZR7ns) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Tú No Eres Mi Ex](https://open.spotify.com/album/1BPEunvkDXOHGJEOKEeARt) | 3:54 |
+| 77 | [Chuyito y El Mayo \(En Vivo\)](https://open.spotify.com/track/5mXKfidzkpKSdbiTLqXh2G) | [Los Del Arroyo](https://open.spotify.com/artist/43mTldLHocYpIrVrGuY4e4), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Chuyito y El Mayo \(En Vivo\)](https://open.spotify.com/album/0Edi0lLcHczz0XCRtE0MC7) | 3:07 |
+| 78 | [El Plumas](https://open.spotify.com/track/0HPVA8D3dB1VvmCKW7epcN) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Plumas](https://open.spotify.com/album/2m1Z4pRYQopVrLb5jKqNBT) | 2:08 |
+| 79 | [El Alcohol No Funcionó](https://open.spotify.com/track/6iqOmzSElWlh2vHuZsBD29) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [El Alcohol No Funcionó](https://open.spotify.com/album/1R6ktAmL2qtNDWI1Ez1fhb) | 3:30 |
 | 80 | [Yo Ya No Vuelvo Contigo \- En Vivo](https://open.spotify.com/track/4dKY6JFNvj2yWzENIL1P6s) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [En Vivo Desde Mi Ranchito](https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs) | 4:00 |
 | 81 | [En Tu Perra Vida](https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [En Tu Perra Vida](https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp) | 3:58 |
 | 82 | [Se Logró](https://open.spotify.com/track/2Uw0BLEO96u70KQSWOc0XZ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 4:27 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR2304fzenh.md) - [plain]
 | 85 | [Ando Bien Pedo](https://open.spotify.com/track/6aGdRGfVl7t9fL6aWbaFGd) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pisteando Con La Regida \(Vol\. 3\)](https://open.spotify.com/album/43VJC0wCb2qkm1KrIdRYqc) | 2:56 |
 | 86 | [El Coco](https://open.spotify.com/track/3b2hRoU8E4NHvoZ7LtwBsa) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pisteando Con La Regida \(Vol\. 3\)](https://open.spotify.com/album/43VJC0wCb2qkm1KrIdRYqc) | 3:54 |
 
-Snapshot ID: `MCwyODUwM2UzMDVkZTgyNmZmYjViZDcyMjEzMzVhYmE4NmI3M2JkNGNl`
+Snapshot ID: `MCxiYTFjODZjNzU4N2M4ZjdiNjk4ZmIxYWE4ODc3ZTgzMTY0MDg0M2Mx`

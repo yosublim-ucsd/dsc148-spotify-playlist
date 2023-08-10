@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Aline Barros
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,421 likes - 80 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,581 likes - 80 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,17 +42,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 32 | [Deus dos Bastidores](https://open.spotify.com/track/5QLGQkK2rfw68Bk0Q1siy9) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm) | [Deus dos Bastidores](https://open.spotify.com/album/0E4HV1PsIP1fNFWhV8rbPW) | 5:32 |
 | 33 | [Eu Não Mereço \(Ao Vivo\)](https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 3:54 |
 | 34 | [Vai Ter Vida Aí](https://open.spotify.com/track/4mQ6f7PV6XaCDRzMtZFoZq) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Vai Ter Vida Aí](https://open.spotify.com/album/1ZozrNvdcx0F6vmowuIuiX) | 4:30 |
-| 35 | [Você Não Vai Parar](https://open.spotify.com/track/6xkJbkLpcamCTkFcXnwO6d) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV) | [Você Não Vai Parar](https://open.spotify.com/album/6cPHowCXcBxq1Fl50vkg6f) | 5:40 |
-| 36 | [A Tenda \(Ao Vivo\)](https://open.spotify.com/track/57y3IxaTKpfNGDEa4OnjGe) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [A Tenda \(Ao Vivo\)](https://open.spotify.com/album/0YhDcP0OUvrRiKn8mrUJA9) | 7:50 |
+| 35 | [A Tenda \(Ao Vivo\)](https://open.spotify.com/track/57y3IxaTKpfNGDEa4OnjGe) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [A Tenda \(Ao Vivo\)](https://open.spotify.com/album/0YhDcP0OUvrRiKn8mrUJA9) | 7:50 |
+| 36 | [Você Não Vai Parar](https://open.spotify.com/track/6xkJbkLpcamCTkFcXnwO6d) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV) | [Você Não Vai Parar](https://open.spotify.com/album/6cPHowCXcBxq1Fl50vkg6f) | 5:40 |
 | 37 | [Sou um Milagre](https://open.spotify.com/track/4aA3PDel1koEbggFsSOVKz) | [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Sou um Milagre](https://open.spotify.com/album/4ZgjRKu5PlGIcAfbWzMNly) | 7:46 |
 | 38 | [Recompensa \(Ao Vivo\)](https://open.spotify.com/track/73DqTcyWoULHoOjmsjYFhd) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Recompensa \(Ao Vivo\)](https://open.spotify.com/album/0vQ7L4VXrnkUnQ7B8nmEdx) | 3:51 |
 | 39 | [Me Deixe Aqui / Tudo Entregarei \- Ao Vivo](https://open.spotify.com/track/4rnKaImzygSRU5PjOElJRa) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Me Deixe Aqui / Tudo Entregarei \(Ao Vivo\)](https://open.spotify.com/album/1XzaVO3g4JZm1G7409Jhmh) | 4:53 |
 | 40 | [Dependente](https://open.spotify.com/track/7ilMa9uRyjoVqqRhAYcsax) | [Amanda Wanessa](https://open.spotify.com/artist/4kvOhoqtLM66VLWfcUv4Hm) | [Dependente](https://open.spotify.com/album/1rlxjSQ6ZCf6isHexFcbDI) | 5:01 |
 | 41 | [Rei do Meu Coração](https://open.spotify.com/track/2LsPqdB1cWSVXxRQ5cKweN) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Rei do Meu Coração](https://open.spotify.com/album/3QhGWtEFA3VAwtgflnLLyT) | 6:00 |
-| 42 | [Tóxico Amor \- Studio Session](https://open.spotify.com/track/0G43SeDBEBwt8XU2jBt1FK) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Tóxico Amor \(Studio Session\)](https://open.spotify.com/album/1YHOs9o07L3oT443Co7CAW) | 3:52 |
+| 42 | [Enquanto a Igreja Ora \(Versão Acústica\)](https://open.spotify.com/track/5PwfEoRObqfeFYMt0gjf1j) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Enquanto a Igreja Ora \(Versão Acústica\)](https://open.spotify.com/album/4xR7lEe74x3j3xuxlOB5BD) | 3:23 |
 | 43 | [Se O Mar Não Se Abrir \(Ao Vivo\)](https://open.spotify.com/track/2hJwuuV6Q9Zd6iWWLgGD0B) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Se O Mar Não Se Abrir \(Ao Vivo\)](https://open.spotify.com/album/0TbWFxlGqVWTbdUkG75tz7) | 5:58 |
-| 44 | [Aos Pés da Cruz \- Ao Vivo](https://open.spotify.com/track/4fVOleOiFwM2INJXDJyR3Y) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Aos Pés da Cruz \(Ao Vivo\)](https://open.spotify.com/album/4jSgL2K7jXwXsHazBKMDuF) | 4:25 |
-| 45 | [Enquanto a Igreja Ora \(Versão Acústica\)](https://open.spotify.com/track/5PwfEoRObqfeFYMt0gjf1j) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Enquanto a Igreja Ora \(Versão Acústica\)](https://open.spotify.com/album/4xR7lEe74x3j3xuxlOB5BD) | 3:23 |
+| 44 | [Tóxico Amor \- Studio Session](https://open.spotify.com/track/0G43SeDBEBwt8XU2jBt1FK) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Tóxico Amor \(Studio Session\)](https://open.spotify.com/album/1YHOs9o07L3oT443Co7CAW) | 3:52 |
+| 45 | [Aos Pés da Cruz \- Ao Vivo](https://open.spotify.com/track/4fVOleOiFwM2INJXDJyR3Y) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Aos Pés da Cruz \(Ao Vivo\)](https://open.spotify.com/album/4jSgL2K7jXwXsHazBKMDuF) | 4:25 |
 | 46 | [O Segredo \(Ao Vivo\)](https://open.spotify.com/track/6p5TC1tF7kFAdWqw8s3rZO) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [O Segredo \(Ao Vivo\)](https://open.spotify.com/album/5ThXMFiKFU63eaOK8nLDpd) | 5:06 |
 | 47 | [Poder Pra Salvar \(Mighty to Save\) \[Ao Vivo Em Los Angeles\]](https://open.spotify.com/track/4ZwerMeMyAbdyY2cBmrcGe) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Poder Pra Salvar \(Mighty to Save\) \[Ao Vivo Em Los Angeles\]](https://open.spotify.com/album/2b0XVRX9gGvngP9Dr5onIz) | 3:43 |
 | 48 | [Porque Ele Vive](https://open.spotify.com/track/1UxXYjUoBikUHg85ij9sIk) | [Vitória Souza](https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j) | [Porque Ele Vive](https://open.spotify.com/album/4YaBiCeYejEfV6gPDx0r6Z) | 5:41 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 79 | [A Ele a Glória / Porque Ele vive \- Live 2020](https://open.spotify.com/track/3RdYctD14VWKn1Zu32kJfs) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Juntos Em Adoração \(Live 2020\)](https://open.spotify.com/album/1yYj9smqcSBfxXuYBQ1XbS) | 6:24 |
 | 80 | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/track/4qs5rB4poxnuCBb5k5Ix5T) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/album/68FpY5H3qrTqpRFY5QQdYW) | 5:09 |
 
-Snapshot ID: `MCxjYjM0NWI2YTRhZjM2YmVhOWZiNmMzZjMyYmEyZTE2OTZjZDAyODgz`
+Snapshot ID: `MCw3ZWVmNjU5MjczNGFjMDQyMjg2MTg0M2ZlZDY0ZGJlZDMwNzQ1Mjdh`

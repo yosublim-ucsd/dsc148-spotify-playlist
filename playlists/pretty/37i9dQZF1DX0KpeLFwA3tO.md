@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: The Story So Far
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,977 likes - 132 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,045 likes - 132 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 61 | [Short Straw](https://open.spotify.com/track/3QJWvFiMtkl4B5bIc8RQRR) | [Popes Of Chillitown](https://open.spotify.com/artist/52TSqCyQNF1RMmTzew0soN) | [Take A Picture](https://open.spotify.com/album/1ChLWmwf2uKugRHKCtxMSM) | 3:38 |
 | 62 | [DOUBT](https://open.spotify.com/track/4yBFWWqcl9WMj5mIv4f8mq) | [Jeff Rosenstock](https://open.spotify.com/artist/0wNZvrIMNUCs24G0wFg2D6) | [DOUBT](https://open.spotify.com/album/41jsygAosEU6edZ06LFBNo) | 4:28 |
 | 63 | [Alameda County Fair](https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Alameda County Fair](https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P) | 2:27 |
-| 64 | [I Believe](https://open.spotify.com/track/2629nMBV0YToedXJ2naMxN) | [A Giant Dog](https://open.spotify.com/artist/0PL9vFj7i7uKg74WpLohnG) | [I Believe](https://open.spotify.com/album/2NkRRWdf1T2Igxv3Y7wUYE) | 3:21 |
+| 64 | [I Believe](https://open.spotify.com/track/329c0F8q0Fra2vx7FQapMw) | [A Giant Dog](https://open.spotify.com/artist/0PL9vFj7i7uKg74WpLohnG) | [A Daydream](https://open.spotify.com/album/4ukJOsBuVDR6ZWGv6gE9kv) | 3:21 |
 | 65 | [Disco 1.5](https://open.spotify.com/track/0xS4zMgCLHUaaC8WRFJkbq) | [Special Interest](https://open.spotify.com/artist/2CYTLJOt91YLe1JLStFu6m) | [Disco 1.5](https://open.spotify.com/album/2NVfjHQr7uyNWGIGFkrPpy) | 1:31 |
 | 66 | [Manic](https://open.spotify.com/track/2ezTz7Az0j90HjRS4vlogZ) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [Manic](https://open.spotify.com/album/3CGo2Y2wCqaSoOUCY06fWg) | 2:41 |
 | 67 | [againagainagain](https://open.spotify.com/track/1KJao1U5lALGcswmhJLzV2) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [againagainagain](https://open.spotify.com/album/3cxnAcVLZaW3tAnIl5pfJB) | 2:35 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 131 | [Plus One](https://open.spotify.com/track/6zi6Oa8jioqPbeqoCbZCkq) | [Speedy Ortiz](https://open.spotify.com/artist/6YHfq8Pg3lZPo1u0PaQ8ob) | [Plus One](https://open.spotify.com/album/3dqTJ8HgLAqqgHE0ou361D) | 3:16 |
 | 132 | [Puppet](https://open.spotify.com/track/4regXvcrxxSaf7ZkwkXr9M) | [PLAIINS](https://open.spotify.com/artist/3gUHDc3I3G1bFRElrj90fR) | [Puppet](https://open.spotify.com/album/3uUgo5qKv6dzfBqvAhZ6KZ) | 2:43 |
 
-Snapshot ID: `MCxlYTU1NWU3MDg2ZWI2ZDFjZDJkZTljZmJlY2YxODZmN2M1MTY2ZmNm`
+Snapshot ID: `MCxjZDgxZTQ5YjUwYzc5MDNjZDg0YjRiNWY5NWY5N2M4ODQ1ZWRhNTY5`

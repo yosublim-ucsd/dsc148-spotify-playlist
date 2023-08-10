@@ -4,7 +4,7 @@
 
 > Les hits du moment sont ici\. Cover : Lartiste
 
-199 songs - 10 hr 55 min
+200 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 | 2022-08-09 | 2023-01-10 |
 | [DRAILL](https://open.spotify.com/track/2UYZDBQ89KYUdU3CspLZJ2) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [DRAILL](https://open.spotify.com/album/4Sx9SrFQdcCD5pSY6bwU8M) | 3:40 | 2022-10-07 | 2023-05-13 |
 | [Dreamers \[Music from the FIFA World Cup Qatar 2022 Official Soundtrack\]](https://open.spotify.com/track/1RDvyOk4WtPCtoqciJwVn8) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Dreamers \[Music from the FIFA World Cup Qatar 2022 Official Soundtrack\]](https://open.spotify.com/album/0gr5OmB74UhoANEXwYT3gE) | 3:21 | 2022-11-28 | 2023-01-07 |
-| [Džanum](https://open.spotify.com/track/2fF8V1O1i1Y8s06FmJHJlz) | [Teya Dora](https://open.spotify.com/artist/5japL3H3OQvvJfhtsNh3eU) | [Džanum](https://open.spotify.com/album/66OKdF2UFS4TC5FToHWL5Y) | 2:54 | 2023-05-19 |  |
+| [Džanum](https://open.spotify.com/track/0P3F6xMn3R1Ja8hjJ1HBTO) | [Teya Dora](https://open.spotify.com/artist/5japL3H3OQvvJfhtsNh3eU) | [Džanum](https://open.spotify.com/album/7sac6tKZQBSIkOC9f0zVvA) | 2:54 | 2023-08-08 |  |
+| [Džanum](https://open.spotify.com/track/2fF8V1O1i1Y8s06FmJHJlz) | [Teya Dora](https://open.spotify.com/artist/5japL3H3OQvvJfhtsNh3eU) | [Džanum](https://open.spotify.com/album/66OKdF2UFS4TC5FToHWL5Y) | 2:54 | 2023-05-19 | 2023-08-10 |
 | [ELGHIRA](https://open.spotify.com/track/5Zqqq0hj7FdMMOmkshNA7X) | [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [ELGHIRA](https://open.spotify.com/album/22yFEfoVOJOtcvD0BHT3bm) | 2:45 | 2023-03-06 | 2023-08-04 |
 | [ELGHIRA](https://open.spotify.com/track/42Vy5zKc5KcUsz5dyGEMQI) | [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [ELGHIRA](https://open.spotify.com/album/51jFeqsDRYtQDse8p4zTL5) | 2:47 | 2022-11-14 | 2023-03-11 |
 | [Emiliana](https://open.spotify.com/track/0vNY7uNEG8El6doRdP21D5) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4rgpbWVXW4xNXfSnKcqYl1) | 2:44 | 2022-05-12 | 2022-07-27 |

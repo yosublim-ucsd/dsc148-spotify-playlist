@@ -1,13 +1,101 @@
 {
   "description": "Fresh jazz by independent artists every Wednesday. Cover: Shunaji Artwork: Joy Yamusangie",
-  "num_followers": 192573,
+  "num_followers": 192790,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDIzYjYwZDIyMDYyOTVlYTY2NjA2MjMxMzQ4NTIzNjQ2ZjFjM2Mz",
+  "snapshot_id": "MCxjYWFkYTkxMDEwOWY1NmY0ZTFmOGYyNmNlZWU0MzJmM2JiMDUyNDIy",
   "tracks": [
+    {
+      "added_at": "2023-08-09 13:10:04",
+      "album": {
+        "name": "Cascades",
+        "url": "https://open.spotify.com/album/0NlmLqiDDjo0dhjvNZo65D"
+      },
+      "artists": [
+        {
+          "name": "Grievous Bodily Calm",
+          "url": "https://open.spotify.com/artist/58OKZUurPOXnGlGNRvoNwL"
+        }
+      ],
+      "duration_ms": 225051,
+      "name": "Yawp!",
+      "url": "https://open.spotify.com/track/4ucg669twDqiGSeK3cz0Xv"
+    },
+    {
+      "added_at": "2023-08-09 13:10:04",
+      "album": {
+        "name": "No Sun",
+        "url": "https://open.spotify.com/album/4kDiQXKytcF7NDG1di0T5q"
+      },
+      "artists": [
+        {
+          "name": "Trap Rabbit",
+          "url": "https://open.spotify.com/artist/66PSCfmOi8qw6DUFrfdDM8"
+        },
+        {
+          "name": "Mariah Del Rio",
+          "url": "https://open.spotify.com/artist/3udMpBvv1kEMp82NCaMrKi"
+        },
+        {
+          "name": "Eric Sherman",
+          "url": "https://open.spotify.com/artist/3UviWqBcUvBvoJiTohicvl"
+        }
+      ],
+      "duration_ms": 221713,
+      "name": "No Sun",
+      "url": "https://open.spotify.com/track/3htwJTNr1DJYsUm2ePJ5h2"
+    },
+    {
+      "added_at": "2023-08-09 13:10:04",
+      "album": {
+        "name": "Still Riding",
+        "url": "https://open.spotify.com/album/6ZraSQyOY4mfwUjVZ3ouVZ"
+      },
+      "artists": [
+        {
+          "name": "Ife Ogunjobi",
+          "url": "https://open.spotify.com/artist/2nkMktddAGCSVHJlsO6eUK"
+        }
+      ],
+      "duration_ms": 238533,
+      "name": "Still Riding",
+      "url": "https://open.spotify.com/track/7ATacGTMLNbr5jnK5hqJiS"
+    },
+    {
+      "added_at": "2023-08-09 13:10:04",
+      "album": {
+        "name": "Into the Mirrorball",
+        "url": "https://open.spotify.com/album/1djecGAzkm9IkIZSfc21Ne"
+      },
+      "artists": [
+        {
+          "name": "FIQTIV",
+          "url": "https://open.spotify.com/artist/4HKdNpQFevxrH3BqPQcgEt"
+        }
+      ],
+      "duration_ms": 182542,
+      "name": "Into the Mirrorball",
+      "url": "https://open.spotify.com/track/79SgeJr7ZywlEiPqRbpSOW"
+    },
+    {
+      "added_at": "2023-08-09 13:10:04",
+      "album": {
+        "name": "Visions of the Night",
+        "url": "https://open.spotify.com/album/2YRJqukw32XVoloJSKHoa2"
+      },
+      "artists": [
+        {
+          "name": "Josef Akin",
+          "url": "https://open.spotify.com/artist/6EdShJCWbCFI4VQb3aKdkg"
+        }
+      ],
+      "duration_ms": 367289,
+      "name": "Visions of the Night",
+      "url": "https://open.spotify.com/track/5xBX9SJAEjSX42dZTW0KXh"
+    },
     {
       "added_at": "2023-07-19 04:00:00",
       "album": {
@@ -1037,22 +1125,6 @@
       "url": "https://open.spotify.com/track/1wqkwHmmgjlmrvfLQPPhwg"
     },
     {
-      "added_at": "2023-05-31 04:00:00",
-      "album": {
-        "name": "Vlad",
-        "url": "https://open.spotify.com/album/2GU1HmnHfu0sq0RhbzrK2c"
-      },
-      "artists": [
-        {
-          "name": "Mika Krstic",
-          "url": "https://open.spotify.com/artist/3fs2IhOduiLzt9jlN7YEC2"
-        }
-      ],
-      "duration_ms": 251697,
-      "name": "Vlad",
-      "url": "https://open.spotify.com/track/5EuHGJnx5aInPpE32L61eF"
-    },
-    {
       "added_at": "2023-06-14 04:00:00",
       "album": {
         "name": "\u8d85\u3072\u3082",
@@ -1299,94 +1371,6 @@
       "duration_ms": 282413,
       "name": "White Runway",
       "url": "https://open.spotify.com/track/6zuiGe5T1RW45DsUzO1c3V"
-    },
-    {
-      "added_at": "2023-05-17 04:00:00",
-      "album": {
-        "name": "Yanagi Ni Kaze (rework)",
-        "url": "https://open.spotify.com/album/6iE2nDaKH19GhJKugJsqcs"
-      },
-      "artists": [
-        {
-          "name": "re:plus",
-          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
-        },
-        {
-          "name": "m.s.t.",
-          "url": "https://open.spotify.com/artist/4tJncS5iiaOS9brNCL589G"
-        }
-      ],
-      "duration_ms": 274572,
-      "name": "Yanagi Ni Kaze - rework",
-      "url": "https://open.spotify.com/track/4klOGFqYxDPRj7Q0mShllc"
-    },
-    {
-      "added_at": "2023-05-17 04:00:00",
-      "album": {
-        "name": "Dancing in the Dusk (Clap! Clap! Remix)",
-        "url": "https://open.spotify.com/album/3Of6o8tJrzGCHNhmfLLDvc"
-      },
-      "artists": [
-        {
-          "name": "Sunb\u00f6rn",
-          "url": "https://open.spotify.com/artist/7293VovtiQo4DOspfUDgXt"
-        },
-        {
-          "name": "Clap! Clap!",
-          "url": "https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF"
-        }
-      ],
-      "duration_ms": 431664,
-      "name": "Dancing in the Dusk - Clap! Clap! Remix",
-      "url": "https://open.spotify.com/track/086EQKkc1JSugaMbrpQYyq"
-    },
-    {
-      "added_at": "2023-05-24 04:00:00",
-      "album": {
-        "name": "I Am, Because You Are",
-        "url": "https://open.spotify.com/album/0iuOHpxqkPyAzEokYTpge5"
-      },
-      "artists": [
-        {
-          "name": "\u6d77\u91ce \u96c5\u5a01",
-          "url": "https://open.spotify.com/artist/21xCR4SZh2XrwLsloXp6vx"
-        }
-      ],
-      "duration_ms": 409520,
-      "name": "I Am, Because You Are",
-      "url": "https://open.spotify.com/track/1wj3FHoR0swq6HCWxiGyeS"
-    },
-    {
-      "added_at": "2023-05-24 04:00:00",
-      "album": {
-        "name": "Taivshral",
-        "url": "https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq"
-      },
-      "artists": [
-        {
-          "name": "Enji",
-          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
-        }
-      ],
-      "duration_ms": 187166,
-      "name": "Taivshral",
-      "url": "https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO"
-    },
-    {
-      "added_at": "2023-05-24 04:00:00",
-      "album": {
-        "name": "Spunky",
-        "url": "https://open.spotify.com/album/6G2n8F5OrMpY7W9W7CEaGh"
-      },
-      "artists": [
-        {
-          "name": "Conrad Schwenke Quartett",
-          "url": "https://open.spotify.com/artist/5HSogDeVBlBOlWUkcAJoSx"
-        }
-      ],
-      "duration_ms": 351515,
-      "name": "Spunky",
-      "url": "https://open.spotify.com/track/0V9UpZ9vnrssMEUqma64en"
     },
     {
       "added_at": "2023-07-12 19:57:20",

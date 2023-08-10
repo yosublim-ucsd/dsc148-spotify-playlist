@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/quintab/\">Quinta Brunson</a>",
-  "num_followers": 41534,
+  "num_followers": 41602,
   "original_name": "Quinta Brunson's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Njc4YTM0MzNmOGQ0YmYyNDdmZjM0MGY0ODVlMWU5MmFiZTg0Y2U1",
+  "snapshot_id": "MCxiNjQ5N2MyODNjN2YyNTA1MTkzNmQ4MDFiNDg4MjRiOTI3MzkyOTFk",
   "tracks": [
     {
       "added_at": "2022-10-01 16:54:27",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/0csi6eQolki4PIS60tBCW5"
-      },
-      "artists": [
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 189400,
-      "name": "Jealous Guy - Live",
-      "url": "https://open.spotify.com/track/7k0lw3bHc5JpqhMRGchjRg"
-    },
-    {
-      "added_at": "2022-10-01 16:54:27",
-      "album": {
         "name": "Puzzle People",
         "url": "https://open.spotify.com/album/2CabyXUOSQqxUaPEw2FrnK"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 174933,
       "name": "I Can't Get Next To You",
       "url": "https://open.spotify.com/track/6aL6pPBaTMGgM558mplSnj"
+    },
+    {
+      "added_at": "2022-10-01 16:54:27",
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/0csi6eQolki4PIS60tBCW5"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 189400,
+      "name": "Jealous Guy - Live",
+      "url": "https://open.spotify.com/track/7k0lw3bHc5JpqhMRGchjRg"
     },
     {
       "added_at": "2022-10-01 16:54:27",

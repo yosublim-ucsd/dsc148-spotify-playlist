@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 
 > عيش أجمل حاله حب 🫶
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,924 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,040 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 | 3 | [Miganinani](https://open.spotify.com/track/0cOmhBrTHMuiwvCNtx20Wd) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Miganinani](https://open.spotify.com/album/5QlJn2n6yvZGYT9uS3FYP1) | 2:47 |
 | 4 | [Kam Sana](https://open.spotify.com/track/1Og247VjsUi4hZIBq6fZEt) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Kam Sana](https://open.spotify.com/album/6yxp3wpvxoafrJ6vhdfG35) | 2:56 |
 | 5 | [اصحى للكلام](https://open.spotify.com/track/2UT9rAvXb95knln6VgVgtT) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [اصحى للكلام](https://open.spotify.com/album/0Fx94IBKPo7V7CCRwIVgH1) | 3:14 |
-| 6 | [Wahshteeny](https://open.spotify.com/track/15dL61n1mPULn6XkY95eRj) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Wahshteeny](https://open.spotify.com/album/5tKmFSot2PxW7tRmrkWQQQ) | 2:28 |
+| 6 | [Wahshteeny](https://open.spotify.com/track/1a92SdpdJ77U1sjEOOi5OC) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Wahshteeny](https://open.spotify.com/album/4TJPiash9AKTQeDA0LvGGr) | 2:28 |
 | 7 | [حكايتنا كملت](https://open.spotify.com/track/61y67cugb9V3cJPhS7IY91) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [حكايتنا كملت](https://open.spotify.com/album/0Su6W3vrDEQcltG8oaAotv) | 4:54 |
 | 8 | [Beat بتمايل على ال](https://open.spotify.com/track/16JY6C92j7cm0LEiuhaN5N) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Beat بتمايل على ال](https://open.spotify.com/album/4Q5agUfE9KBXPt3wuJPz1I) | 4:07 |
 | 9 | [كعبك علي](https://open.spotify.com/track/3fiEw3W3xInUXjyuqFO1S6) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [كعبك علي](https://open.spotify.com/album/1Kgo9nVQn4AwUiaFg3NIFu) | 3:34 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 | 45 | [Ahla Wahda](https://open.spotify.com/track/6zUTQHFa3gsmWyRxZzYe4e) | [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi), [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Ahla Wahda](https://open.spotify.com/album/2NVcbbexvP2V3pDBtvXI6K) | 2:40 |
 | 46 | [Betewhasheiny](https://open.spotify.com/track/0BPqBuNdkz210zBh9AbC4m) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [Tewedny Leih](https://open.spotify.com/album/74Httxkj689OzX0tJeCxP7) | 4:48 |
 | 47 | [Hayaty Msh Tamam](https://open.spotify.com/track/5P1lXXSESjRau7dg9l6egg) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Hayaty Msh Tamam](https://open.spotify.com/album/0zBxKqULhsSAiY3qWbeJMM) | 3:15 |
-| 48 | [Enta Ekhtyar \- From Bhabak Movie](https://open.spotify.com/track/41THKTMbCeKcxnhNj1AeK7) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [بحبك](https://open.spotify.com/album/2BBf2DS8iEOLWD5qUVCBe2) | 4:48 |
-| 49 | [يوم جديد](https://open.spotify.com/track/6sTUXelD4CIOSpyxDBD37D) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [لما بنتولد](https://open.spotify.com/album/5xWWNgZyd88PlUVRBReVaf) | 0:49 |
+| 48 | [يوم جديد](https://open.spotify.com/track/6sTUXelD4CIOSpyxDBD37D) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [لما بنتولد](https://open.spotify.com/album/5xWWNgZyd88PlUVRBReVaf) | 0:49 |
+| 49 | [Enta Ekhtyar \- From Bhabak Movie](https://open.spotify.com/track/41THKTMbCeKcxnhNj1AeK7) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [بحبك](https://open.spotify.com/album/2BBf2DS8iEOLWD5qUVCBe2) | 4:48 |
 | 50 | [Fe Hetta Tanya](https://open.spotify.com/track/6lCoHq4ZBVAVSk83G55nnp) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Fe Hetta Tanya](https://open.spotify.com/album/2BHwb6p6sLzdNRZkepJNtF) | 4:17 |
 
-Snapshot ID: `MCwyNGFlMTI4MDRlYWNhYzIyYmE3OTBlNjJmZjAwMzU5NTRjNjNiNDBi`
+Snapshot ID: `MCw5MzgyMzlmNmM5NDJkYTQ1MzdhODJjMDhiYTRmYzUxNGRmNTY3MWQ2`

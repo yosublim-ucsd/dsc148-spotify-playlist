@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 
 > This is GloRilla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,427 likes - 29 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,439 likes - 29 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,10 +21,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 | 11 | [Ex’s \(Phatnall Remix\) \(with Lil Durk\)](https://open.spotify.com/track/7M3h8JeDhIQIsdQdMrWohi) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Anyways, Life’s Great…Bonus Edition](https://open.spotify.com/album/2IzitJYy4iVenjF1odSFnf) | 3:17 |
 | 12 | [Nut Quick](https://open.spotify.com/track/5HlRNODfFSmMcKJkO3zJzv) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 2:38 |
 | 13 | [JUST SAY THAT \(feat\. GLORILLA\)](https://open.spotify.com/track/1GumJnMqknYzRT9pyGOU7Z) | [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [CRUNKSTAR](https://open.spotify.com/album/6DRGmsZ3SeLptqU9aFEUQV) | 3:35 |
-| 14 | [Set The Tone](https://open.spotify.com/track/0MSe6jp83mHI6jqZqoyeZz) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [Aleza](https://open.spotify.com/artist/0cTIgkgGfLEoAAKV7tJnRz), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Slimeroni](https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq), [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y) | [Set The Tone](https://open.spotify.com/album/7ptT0eB5rLQRUlUAULqJjX) | 3:03 |
+| 14 | [Westside Baby \(Gutta\)](https://open.spotify.com/track/3djbJUX2x2ZVqeoH22tOyN) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Westside Baby \(Gutta\)](https://open.spotify.com/album/4EmV4t1h2uMFlyIkk3qiz6) | 1:49 |
 | 15 | [Don't Know \(GloRidaz Bonus\)](https://open.spotify.com/track/0GBGLP9DxzTzbaeYzGjW48) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…Bonus Edition](https://open.spotify.com/album/2IzitJYy4iVenjF1odSFnf) | 2:32 |
 | 16 | [No More Love](https://open.spotify.com/track/4LDsVBEtxW7Y2liU2wJokp) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 3:10 |
-| 17 | [Westside Baby \(Gutta\)](https://open.spotify.com/track/3djbJUX2x2ZVqeoH22tOyN) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Westside Baby \(Gutta\)](https://open.spotify.com/album/4EmV4t1h2uMFlyIkk3qiz6) | 1:49 |
+| 17 | [Set The Tone](https://open.spotify.com/track/0MSe6jp83mHI6jqZqoyeZz) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [Aleza](https://open.spotify.com/artist/0cTIgkgGfLEoAAKV7tJnRz), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Slimeroni](https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq), [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y) | [Set The Tone](https://open.spotify.com/album/7ptT0eB5rLQRUlUAULqJjX) | 3:03 |
 | 18 | [Bestfrenn \(feat\. GloRilla\)](https://open.spotify.com/track/2c8XhH3CD3Ztja2MIBxILf) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Bestfrenn \(feat\. GloRilla\)](https://open.spotify.com/album/2PH99JWwjb865QK15qvO0m) | 2:18 |
 | 19 | [Gang Nem](https://open.spotify.com/track/6klLjDbLFjIINFcNSkgnTZ) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Gang Nem](https://open.spotify.com/album/3yFLxnWLRK4nUfq4XpU4au) | 2:43 |
 | 20 | [Unh Unh](https://open.spotify.com/track/6NBGEI2cU71eT8wM98bF2d) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 2:49 |
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 | 28 | [You Ain't Shit](https://open.spotify.com/track/5DE3GqkM204y8eS2AAhujh) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [You Ain't Shit](https://open.spotify.com/album/1OacT8jeOurJExUtAUf2M9) | 3:40 |
 | 29 | [Afford Me](https://open.spotify.com/track/6zNYUZJGEs70HIH40SFhYX) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [JaTavia Akiaa](https://open.spotify.com/artist/2zanO9oR7cBRKmEdi4Gzll) | [Afford Me](https://open.spotify.com/album/5Huo9LyxnF12d2aogAGgeQ) | 3:29 |
 
-Snapshot ID: `MjgxOTE2NzksMDAwMDAwMDA4YTI3YWQxMmRlOGYxZGIyYWVkYWFlMGFiN2JkMDM2MA==`
+Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDA5OGFlYTU0ZjI3ZDg5MTRkMmU2YWJkMjBhNjI0YWIwYw==`

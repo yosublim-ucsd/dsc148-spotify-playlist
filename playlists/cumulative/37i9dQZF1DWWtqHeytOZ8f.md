@@ -4,7 +4,7 @@
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-596 songs - 2 day 4 hr 59 min
+597 songs - 2 day 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,6 +384,7 @@
 | [Our New Order](https://open.spotify.com/track/71kdBwFjBFIMn4ZBsFOlYa) | [Verraco](https://open.spotify.com/artist/4GfEnw0dFSSzB9M65k0dA1) | [Grial](https://open.spotify.com/album/0plvaGqOtMeRPkzUwDgd3X) | 4:59 | 2021-10-20 | 2022-07-28 |
 | [Over Oceans](https://open.spotify.com/track/70sv8NcAIJoPsBStnKe61w) | [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf) | [Into Your Hands](https://open.spotify.com/album/7E9kkPd8SwH4aLlcsWLgHN) | 3:45 | 2021-10-20 |  |
 | [Parallel 1](https://open.spotify.com/track/6XOG65nZN3XKmxevGRHZMC) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Parallel](https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT) | 26:46 | 2021-10-20 |  |
+| [Parkstone Melody II](https://open.spotify.com/track/5izeejNRBGeWrmEXTdInry) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK) | [The Four Worlds](https://open.spotify.com/album/5PGejzMhuVOtrA5GbpLJ5F) | 3:04 | 2021-10-20 |  |
 | [Parkstone Melody II](https://open.spotify.com/track/0tczioIF1VjCKg054myaSP) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK) | [Parkstone Melody II](https://open.spotify.com/album/7MThXdf9RkwVOqiR8MtiX2) | 3:21 | 2021-10-20 | 2022-04-21 |
 | [Parlama](https://open.spotify.com/track/3xIQr3xDTB1OayWyjyufec) | [Konduku](https://open.spotify.com/artist/64v9ctTSV0oUJeZTFBoosp) | [Parlama](https://open.spotify.com/album/0jPL6TkST7UH2Zu9hobEpp) | 8:35 | 2021-10-20 | 2022-07-17 |
 | [Path 5 \(delta\)](https://open.spotify.com/track/3izYqkzqnPu8SctUNeyne2) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Grace Davidson](https://open.spotify.com/artist/1J87mxfzE58rZLrRIOx5I5) | [From Sleep](https://open.spotify.com/album/7tP7WLxusDpTi1gf1JFsrT) | 11:14 | 2021-10-20 |  |
@@ -592,7 +593,7 @@
 | [Water Clouds](https://open.spotify.com/track/1D0DFmg1hvqz392xA0Bpw0) | [Ambientalism](https://open.spotify.com/artist/4rwMxvmELuGbLePAk8mQTo), [Stefan Mothander](https://open.spotify.com/artist/72160CrjhDfjsUBloT0qD6) | [Water Clouds](https://open.spotify.com/album/3UZf2I3WUJk7gqq1YRB97Q) | 2:55 | 2021-10-20 | 2022-04-20 |
 | [Water Music](https://open.spotify.com/track/0khyOpw2EeYetwTCoJAzs8) | [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Ultraviolet](https://open.spotify.com/album/37pu0bzxfd75BoBq6jKa7U) | 6:29 | 2021-10-20 |  |
 | [Water Music](https://open.spotify.com/track/6PN8bVP6kjAW6UwqileVWR) | [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Ultraviolet](https://open.spotify.com/album/0dfCsSXhtcdAyW7ODD4Aeu) | 6:29 | 2021-10-20 | 2023-02-02 |
-| [Waves \- Oliver Doerell & Helga Raimondi Rework](https://open.spotify.com/track/5oXGS29Qa8Pv7ITfKLm9X4) | [Vetle Nærø](https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf) | [Waves \(Oliver Doerell & Helga Raimondi Rework\)](https://open.spotify.com/album/5t2W6cCG2GjfC1gRVZv1eB) | 5:14 | 2022-01-20 |  |
+| [Waves \- Oliver Doerell & Helga Raimondi Rework](https://open.spotify.com/track/5oXGS29Qa8Pv7ITfKLm9X4) | [Vetle Nærø](https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf) | [Waves \(Oliver Doerell & Helga Raimondi Rework\)](https://open.spotify.com/album/5t2W6cCG2GjfC1gRVZv1eB) | 5:14 | 2022-01-20 | 2023-08-10 |
 | [Well](https://open.spotify.com/track/630GnYjh9pMw7iO9KrCQIG) | [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [Peel](https://open.spotify.com/album/56le7IdNe67vArpXDjqUOj) | 5:30 | 2021-10-20 | 2022-07-25 |
 | [White Stork](https://open.spotify.com/track/2fC4TDzOjxfz8PDgCrDExM) | [Bossk](https://open.spotify.com/artist/6KPlPSPeF5BndJ7P888uSh) | [Migration](https://open.spotify.com/album/2jkfppW61KLmzyFEYLym63) | 5:55 | 2021-10-20 |  |
 | [XII](https://open.spotify.com/track/7bwAQCGcbEGPPxO5FofTyg) | [Niagara](https://open.spotify.com/artist/7v9653L6WJv9pZKYEKdcDz) | [XII](https://open.spotify.com/album/4UW3yqoGMG5Rq0zNmDdYZw) | 4:31 | 2022-01-21 | 2022-07-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 
 > These women are on the rise and are rocking our worlds right now / Cover: Poppy
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,197 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,258 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 92 | [Shock Value](https://open.spotify.com/track/1qbTtRXFyAxljtCdY5lfZW) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Shock Value](https://open.spotify.com/album/5cVacBIUo7WFhmYgDcdIBk) | 2:31 |
 | 93 | [WHO DIED AND MADE YOU KING?](https://open.spotify.com/track/6PgWRZ1k4DiCnkUK6FvCfV) | [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [WHO DIED AND MADE YOU KING?](https://open.spotify.com/album/43VcEun0Hr5gKPp0YPRbJ8) | 2:23 |
 | 94 | [Got It Bad](https://open.spotify.com/track/5xpFAhYwM5ITYFEW5y5BER) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Got It Bad](https://open.spotify.com/album/6WZd03wQTPEW9drn8GLkDz) | 2:58 |
-| 95 | [Norwegian Wood](https://open.spotify.com/track/0hqwO626QOUFYQjuKSkgOJ) | [Picture Parlour](https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV) | [Norwegian Wood](https://open.spotify.com/album/7awWgs9eg9Us5jQg4nm5Ck) | 3:34 |
+| 95 | [Norwegian Wood](https://open.spotify.com/track/50Wusuhe7GBuOr5xGZlyGe) | [Picture Parlour](https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV) | [Norwegian Wood](https://open.spotify.com/album/4vXzCKpcnI930OU3QNCOLW) | 3:34 |
 | 96 | [Heartstrings](https://open.spotify.com/track/1mbjK97guGHZjDQpvaRqYI) | [Baby Jane](https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI) | [Heartstrings](https://open.spotify.com/album/1fWHWOGtmjZWhK1dZpmmau) | 2:42 |
 | 97 | [Sick](https://open.spotify.com/track/4wBf57Njjl4tKNBGpa39s2) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [Velveteen](https://open.spotify.com/album/20autaRlTtoAUnewO5c12H) | 3:07 |
 | 98 | [Psychopath](https://open.spotify.com/track/7KSAqfQp0BgllQJuimgdye) | [Another Sky](https://open.spotify.com/artist/08p5D6BYuwPqGsFuIDLNFr) | [Psychopath](https://open.spotify.com/album/3AbrCdHe3tzMrsyUMcuiPf) | 3:33 |
 | 99 | [Get with U](https://open.spotify.com/track/5xhXYjfrYlkd9BXPyCjn00) | [NOBRO](https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs) | [Live Your Truth Shred Some Gnar](https://open.spotify.com/album/5Ae3xDGRamEFOSmzdtPGGv) | 3:57 |
 | 100 | [Hijacked](https://open.spotify.com/track/5V4CqymSdvKG5Uj63pPUUV) | [Pure Chlorine](https://open.spotify.com/artist/0XJHYxkjfwYpuIZO8tM6fl) | [Hijacked](https://open.spotify.com/album/2MkQLN7BsCZxhX11P7perM) | 2:55 |
 
-Snapshot ID: `MCw2ZGVlOWNhOWUyNDg0YjZlNWUyZmRiMGNjMzQ0MzJiYmRhY2I1OTY1`
+Snapshot ID: `MCxlNTliM2Q5MzFlYTYxNGQ4MGU4NjU1MjlmMTNkOTYwOGJlOTliNDRi`

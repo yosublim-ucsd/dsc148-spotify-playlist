@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 
 > Romance antigüito en voz de tus artistas pop con Daniel, Me Estás Matando en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,089 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,214 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,11 +87,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 | 77 | [La Copa Rota](https://open.spotify.com/track/4tl5rhoOV51BDiQ4TIfz7o) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [La Copa Rota](https://open.spotify.com/album/3drxZZ3WbobQSPlWE41EKM) | 3:09 |
 | 78 | [Lo Mismo Que Usted](https://open.spotify.com/track/1T1JNTntdgMRIm5XRguVfq) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Trebol \(II\)](https://open.spotify.com/album/6Ui70QofSR8xW4RBe91sY0) | 3:09 |
 | 79 | [Bésame mucho](https://open.spotify.com/track/1AwB8JSmLNu0X76njUpqzz) | [Edna Vazquez](https://open.spotify.com/artist/4GxX2P0gUw7uiWtg8nNOrP), [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Bésame mucho](https://open.spotify.com/album/6dFvBCQkwOJwCWQsSHsFEW) | 4:04 |
-| 80 | [Frenesí \- 2016 Remaster](https://open.spotify.com/track/7HGyyoWiUdLYddj985Aj1C) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Frenesi \(2016 Remaster\)](https://open.spotify.com/album/1D9QdIT6bueT23rSwp0C63) | 3:33 |
-| 81 | [Ódiame](https://open.spotify.com/track/5QBKmig3mYQawgaDJUwYbo) | [Flor Amargo](https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb), [Michelle Rodriguez](https://open.spotify.com/artist/2OhJipX1VIY7Dyba4uGvWb) | [Ódiame](https://open.spotify.com/album/4i56u98co2Jrz0krusaCtt) | 3:13 |
-| 82 | [Te matan los celos](https://open.spotify.com/track/5SR85Imahcv9tZGFjz3MCX) | [Café Quijano](https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z) | [Orígenes: El Bolero Vol.3](https://open.spotify.com/album/3cpEWPCmAkKQunvQmeYP1t) | 3:30 |
-| 83 | [No Olvides Recordarme \- En Vivo](https://open.spotify.com/track/3ANmOzBDhOHsaaxZyoUd4j) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Necesito un Bolero \[\(Edición de Lujo\)\[En Vivo\]\]](https://open.spotify.com/album/5J1eWhVg87VdgaEnN1PlVt) | 3:55 |
-| 84 | [Tanto Amor](https://open.spotify.com/track/2DSBxnRi8Y1Tk4f0Am8pzA) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Tanto Amor](https://open.spotify.com/album/6PpdfncqVG0Hmx5pSIdAQz) | 3:05 |
+| 80 | [Tanto Amor](https://open.spotify.com/track/2DSBxnRi8Y1Tk4f0Am8pzA) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Tanto Amor](https://open.spotify.com/album/6PpdfncqVG0Hmx5pSIdAQz) | 3:05 |
+| 81 | [Frenesí \- 2016 Remaster](https://open.spotify.com/track/7HGyyoWiUdLYddj985Aj1C) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Frenesi \(2016 Remaster\)](https://open.spotify.com/album/1D9QdIT6bueT23rSwp0C63) | 3:33 |
+| 82 | [Ódiame](https://open.spotify.com/track/5QBKmig3mYQawgaDJUwYbo) | [Flor Amargo](https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb), [Michelle Rodriguez](https://open.spotify.com/artist/2OhJipX1VIY7Dyba4uGvWb) | [Ódiame](https://open.spotify.com/album/4i56u98co2Jrz0krusaCtt) | 3:13 |
+| 83 | [Te matan los celos](https://open.spotify.com/track/5SR85Imahcv9tZGFjz3MCX) | [Café Quijano](https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z) | [Orígenes: El Bolero Vol.3](https://open.spotify.com/album/3cpEWPCmAkKQunvQmeYP1t) | 3:30 |
+| 84 | [No Olvides Recordarme \- En Vivo](https://open.spotify.com/track/3ANmOzBDhOHsaaxZyoUd4j) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Necesito un Bolero \[\(Edición de Lujo\)\[En Vivo\]\]](https://open.spotify.com/album/5J1eWhVg87VdgaEnN1PlVt) | 3:55 |
 | 85 | [En la Orilla del Mar](https://open.spotify.com/track/1RYZwlDS2wt1rj0c249X7x) | [Carlos Cuevas](https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL) | [Los Boleros de Oro de la Música Tropical](https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ) | 2:45 |
 | 86 | [Este Terco Corazón \- En Vivo Los Estudios Churubusco México DF/2011](https://open.spotify.com/track/0zWa5MVujd2PUiqRnXxTmU) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Acústico En Vivo](https://open.spotify.com/album/21W89hohyAUqNiLMKGYiZn) | 4:32 |
 | 87 | [Gracias](https://open.spotify.com/track/618mROSwHp4JeTR0E17KPC) | [La Ciencia de Juancho Valencia](https://open.spotify.com/artist/0qEMz90gSP62fGglkNnhg9) | [Enclave de Bolero](https://open.spotify.com/album/3C7x9eBK8VpQY4l6UgIQPy) | 3:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 | 99 | [Almohada](https://open.spotify.com/track/3lL5AiJtpdGe7AYCIwJ5cI) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Celebrando Al Príncipe](https://open.spotify.com/album/2HZkh6ay4cVKa8lxMvDfol) | 4:02 |
 | 100 | [Drume Negrita \- En Vivo Desde Fonobox](https://open.spotify.com/track/2VOi95darUSa1k1p1FwHui) | [Priscilla Félix](https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu) | [Drume Negrita \(Desde Fonobox\) \[En Vivo\]](https://open.spotify.com/album/7JpwHuLixoy7VnWipc4Q7r) | 2:44 |
 
-Snapshot ID: `MCxjM2I3YWU1NTM3NTFiYTkyYzg4ZjYzMmIzZjVmMWY5Y2VjNTI1NzM0`
+Snapshot ID: `MCw4Nzk2OTQ3N2U5YzNhOWVkZjNlMzRlODkxOTQwNjAzZWQxMDBiNGU1`

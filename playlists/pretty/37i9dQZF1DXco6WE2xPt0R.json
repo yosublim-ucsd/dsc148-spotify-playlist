@@ -1,12 +1,12 @@
 {
   "description": "Aquela playlist pra ficar no quentin, gostosin.",
-  "num_followers": 95815,
+  "num_followers": 95855,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjJjNGI1M2NkZWYyNzM2NDJjMjFhMGRhYWI2NTM5MTRhOTljMDlh",
+  "snapshot_id": "MCwwNWMzMDJjZGY2ZWMwYmI4M2RlODE4MDJhNTg3NDlmMTMyOWIzMGMy",
   "tracks": [
     {
       "added_at": "2023-08-04 03:01:00",
@@ -699,26 +699,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Scenic Drive (The Tape)",
-        "url": "https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        }
-      ],
-      "duration_ms": 247426,
-      "name": "Voicemail (feat. Kiana Led\u00e9)",
-      "url": "https://open.spotify.com/track/4hS7b55aChkN6FePTc6CeD"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 234498,
       "name": "Splash (feat. Jhen\u00e9 Aiko & Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/5Ip2VxpYt1dCD7MKmjrw52"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Scenic Drive (The Tape)",
+        "url": "https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "duration_ms": 247426,
+      "name": "Voicemail (feat. Kiana Led\u00e9)",
+      "url": "https://open.spotify.com/track/4hS7b55aChkN6FePTc6CeD"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
+        "name": "Right Back In It",
+        "url": "https://open.spotify.com/album/6LDfHzJYzCoJzKvDSjOFIk"
+      },
+      "artists": [
+        {
+          "name": "Leela James",
+          "url": "https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2"
+        }
+      ],
+      "duration_ms": 222588,
+      "name": "Right Back In It",
+      "url": "https://open.spotify.com/track/6v3SMTdZiexZt12g6rG5v1"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
         "name": "Souled Out",
         "url": "https://open.spotify.com/album/1dfGhmOGPopEReylj0UUDG"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 201869,
       "name": "Obsession (feat. Muni Long) - Remix",
       "url": "https://open.spotify.com/track/5BeLd9BErYOPAsHSFIWK3C"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "Right Back In It",
-        "url": "https://open.spotify.com/album/6LDfHzJYzCoJzKvDSjOFIk"
-      },
-      "artists": [
-        {
-          "name": "Leela James",
-          "url": "https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2"
-        }
-      ],
-      "duration_ms": 222588,
-      "name": "Right Back In It",
-      "url": "https://open.spotify.com/track/6v3SMTdZiexZt12g6rG5v1"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Little Men (Deluxe)",
-        "url": "https://open.spotify.com/album/4j5hckSfZgpxQZ2cMmqVaB"
-      },
-      "artists": [
-        {
-          "name": "Marc E. Bassy",
-          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
-        }
-      ],
-      "duration_ms": 240074,
-      "name": "Crash for a Couple",
-      "url": "https://open.spotify.com/track/4QZftmaKVCq83BdkmnEIna"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Body Music (Deluxe)",
         "url": "https://open.spotify.com/album/3eSysZ5EvnyWZ2naPABIdd"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 277173,
       "name": "Friends To Lovers",
       "url": "https://open.spotify.com/track/2sROAaC8BMV13cn31OLdpF"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Little Men (Deluxe)",
+        "url": "https://open.spotify.com/album/4j5hckSfZgpxQZ2cMmqVaB"
+      },
+      "artists": [
+        {
+          "name": "Marc E. Bassy",
+          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
+        }
+      ],
+      "duration_ms": 240074,
+      "name": "Crash for a Couple",
+      "url": "https://open.spotify.com/track/4QZftmaKVCq83BdkmnEIna"
     },
     {
       "added_at": "2023-08-04 03:01:00",

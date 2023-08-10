@@ -1,12 +1,12 @@
 {
   "description": "Deja que tu coraz\u00f3n se rinda ante la m\u00fasica rom\u00e1ntica de anta\u00f1o.",
-  "num_followers": 520409,
+  "num_followers": 520528,
   "original_name": "Boleros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjhlMTg5OTMzN2ZkNzc4YTlmY2Y2ZDcyZWViY2I3MTk0MTg1ZDU2",
+  "snapshot_id": "MCw1YmVmZWQ3NWNkZDM2ODBiMWEyMGFiMzJkMGQ0MTMzYWY1YTI0MDli",
   "tracks": [
     {
       "added_at": "2022-12-30 18:28:06",
@@ -543,18 +543,18 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Homenaje a Agustin Lara - To\u00f1a La Negra",
-        "url": "https://open.spotify.com/album/050gFZOIdzQRxVHpEIWU3L"
+        "name": "Boleros",
+        "url": "https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj"
       },
       "artists": [
         {
-          "name": "To\u00f1a La Negra",
-          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 197877,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/5hhvxPUnjYZzymr58T5E6H"
+      "duration_ms": 190440,
+      "name": "Tu Voz",
+      "url": "https://open.spotify.com/track/1lQWRMxlvahpRLzrwSIXNH"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -575,18 +575,18 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Boleros",
-        "url": "https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj"
+        "name": "Homenaje a Agustin Lara - To\u00f1a La Negra",
+        "url": "https://open.spotify.com/album/050gFZOIdzQRxVHpEIWU3L"
       },
       "artists": [
         {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+          "name": "To\u00f1a La Negra",
+          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
         }
       ],
-      "duration_ms": 190440,
-      "name": "Tu Voz",
-      "url": "https://open.spotify.com/track/1lQWRMxlvahpRLzrwSIXNH"
+      "duration_ms": 197877,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/5hhvxPUnjYZzymr58T5E6H"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Coleccion Original",
-        "url": "https://open.spotify.com/album/5mwwGVisjZAiAUwLF0IZFC"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc"
-        }
-      ],
-      "duration_ms": 152786,
-      "name": "Esc\u00e1ndalo",
-      "url": "https://open.spotify.com/track/2BOqc30CNk9sp1MHbzBDR3"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
         "name": "Loca Pasi\u00f3n",
         "url": "https://open.spotify.com/album/4WVQo2AHNUJ9L0qUfYosjh"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 171720,
       "name": "Loca Pasi\u00f3n",
       "url": "https://open.spotify.com/track/2b1gRJ1CUtNN3TGThFo1GJ"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
+        "name": "Coleccion Original",
+        "url": "https://open.spotify.com/album/5mwwGVisjZAiAUwLF0IZFC"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc"
+        }
+      ],
+      "duration_ms": 152786,
+      "name": "Esc\u00e1ndalo",
+      "url": "https://open.spotify.com/track/2BOqc30CNk9sp1MHbzBDR3"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Boleros con el Estilo Incomparable de Bienvenido Granda",
-        "url": "https://open.spotify.com/album/06VyVV7TK7mQq9lNjyCmGL"
-      },
-      "artists": [
-        {
-          "name": "Bienvenido Granda",
-          "url": "https://open.spotify.com/artist/4IyPs1rPOAQOnXeqUTjty4"
-        }
-      ],
-      "duration_ms": 164884,
-      "name": "Percal",
-      "url": "https://open.spotify.com/track/4ir4ry2OAgytQbneHVfaRe"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
         "name": "Por Debajo De La Mesa",
         "url": "https://open.spotify.com/album/2QrB02JkL43RYWYkZRVd5B"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 179838,
       "name": "Por Debajo De La Mesa",
       "url": "https://open.spotify.com/track/7APywryIFuLnEQ4daWSeMM"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
+        "name": "Boleros con el Estilo Incomparable de Bienvenido Granda",
+        "url": "https://open.spotify.com/album/06VyVV7TK7mQq9lNjyCmGL"
+      },
+      "artists": [
+        {
+          "name": "Bienvenido Granda",
+          "url": "https://open.spotify.com/artist/4IyPs1rPOAQOnXeqUTjty4"
+        }
+      ],
+      "duration_ms": 164884,
+      "name": "Percal",
+      "url": "https://open.spotify.com/track/4ir4ry2OAgytQbneHVfaRe"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Lamento Borincano",
-        "url": "https://open.spotify.com/album/0TlQhCdYh4J82vXiSoqUzl"
-      },
-      "artists": [
-        {
-          "name": "Daniel Santos",
-          "url": "https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2"
-        }
-      ],
-      "duration_ms": 287320,
-      "name": "Lamento Borincano",
-      "url": "https://open.spotify.com/track/23mmokvWXS4aUpZmUODFBY"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
         "name": "Somos Novios",
         "url": "https://open.spotify.com/album/5pzOJCIXm7y4YucjI04SQI"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 166413,
       "name": "Somos Novios",
       "url": "https://open.spotify.com/track/7yWJtlafh6TTjcljGpSn5B"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
+        "name": "Lamento Borincano",
+        "url": "https://open.spotify.com/album/0TlQhCdYh4J82vXiSoqUzl"
+      },
+      "artists": [
+        {
+          "name": "Daniel Santos",
+          "url": "https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2"
+        }
+      ],
+      "duration_ms": 287320,
+      "name": "Lamento Borincano",
+      "url": "https://open.spotify.com/track/23mmokvWXS4aUpZmUODFBY"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "El Bolerista De Am\u00e9rica",
-        "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
-      },
-      "artists": [
-        {
-          "name": "Felipe Pirela",
-          "url": "https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN"
-        }
-      ],
-      "duration_ms": 189506,
-      "name": "Entre Tu Amor Y Mi Amor",
-      "url": "https://open.spotify.com/track/6eFG41qcmCGHVXRGVkUfIU"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
         "name": "Boleros",
         "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 191794,
       "name": "Ven",
       "url": "https://open.spotify.com/track/65zy1w1ji5H6Vo9fwc9s8M"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
+        "name": "El Bolerista De Am\u00e9rica",
+        "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
+      },
+      "artists": [
+        {
+          "name": "Felipe Pirela",
+          "url": "https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN"
+        }
+      ],
+      "duration_ms": 189506,
+      "name": "Entre Tu Amor Y Mi Amor",
+      "url": "https://open.spotify.com/track/6eFG41qcmCGHVXRGVkUfIU"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -1539,22 +1539,6 @@
       "duration_ms": 161250,
       "name": "No",
       "url": "https://open.spotify.com/track/0C69couVwXQPhHPq2f2gSa"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
-        "name": "Mi Diario Musical",
-        "url": "https://open.spotify.com/album/5WuPlBtWFADzC6Yl9Mvkbx"
-      },
-      "artists": [
-        {
-          "name": "Vicentico Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/6yQZkZC0BnKuZzuO1DAf3J"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Envidia",
-      "url": "https://open.spotify.com/track/6zyuoGGD010ff2BPfyO6xZ"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -1595,6 +1579,22 @@
       "duration_ms": 201021,
       "name": "Luna Orgullosa",
       "url": "https://open.spotify.com/track/48g5wCN9UybV7nhvTVkmvR"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
+        "name": "Mi Diario Musical",
+        "url": "https://open.spotify.com/album/5WuPlBtWFADzC6Yl9Mvkbx"
+      },
+      "artists": [
+        {
+          "name": "Vicentico Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/6yQZkZC0BnKuZzuO1DAf3J"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Envidia",
+      "url": "https://open.spotify.com/track/6zyuoGGD010ff2BPfyO6xZ"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
+        "name": "Pensamiento",
+        "url": "https://open.spotify.com/album/1uuYnEN87b3BkbQlQmbf0F"
+      },
+      "artists": [
+        {
+          "name": "Las Almas Nuevas",
+          "url": "https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Pensamiento",
+      "url": "https://open.spotify.com/track/7GxIlqOjYpmh080KhtOrtE"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
         "name": "Luis Arcar\u00e1z y Gabriel Ru\u00edz",
         "url": "https://open.spotify.com/album/0tzk5gxyBoOlp14Id6TtnB"
       },
@@ -1687,18 +1703,18 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Pensamiento",
-        "url": "https://open.spotify.com/album/1uuYnEN87b3BkbQlQmbf0F"
+        "name": "Ya Te Olvide",
+        "url": "https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ"
       },
       "artists": [
         {
-          "name": "Las Almas Nuevas",
-          "url": "https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt"
+          "name": "Los Amores Recientes",
+          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
         }
       ],
-      "duration_ms": 136000,
-      "name": "Pensamiento",
-      "url": "https://open.spotify.com/track/7GxIlqOjYpmh080KhtOrtE"
+      "duration_ms": 148500,
+      "name": "Ya Te Olvide",
+      "url": "https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -1719,22 +1735,6 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Ya Te Olvide",
-        "url": "https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ"
-      },
-      "artists": [
-        {
-          "name": "Los Amores Recientes",
-          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "Ya Te Olvide",
-      "url": "https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
         "name": "Parece Que Fue Ayer",
         "url": "https://open.spotify.com/album/0S3BS29cQXHPIeKZVHxF64"
       },
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Antonio Badu/Claudio Estrada - Dos Bohemios Romanticos",
-        "url": "https://open.spotify.com/album/0asR4PcGxIQOxjnq5aaekQ"
-      },
-      "artists": [
-        {
-          "name": "Antonio Badu",
-          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
-        }
-      ],
-      "duration_ms": 153946,
-      "name": "Estoy Enamorado",
-      "url": "https://open.spotify.com/track/3Wu69KbLFXHK2g0fiA0MZR"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
         "name": "Luna Lunera",
         "url": "https://open.spotify.com/album/1LHSs9qU9O6bu2OIvav6pr"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 124500,
       "name": "Luna Lunera",
       "url": "https://open.spotify.com/track/119YhbTAwA2txEJNe6Sdjg"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
+        "name": "Antonio Badu/Claudio Estrada - Dos Bohemios Romanticos",
+        "url": "https://open.spotify.com/album/0asR4PcGxIQOxjnq5aaekQ"
+      },
+      "artists": [
+        {
+          "name": "Antonio Badu",
+          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
+        }
+      ],
+      "duration_ms": 153946,
+      "name": "Estoy Enamorado",
+      "url": "https://open.spotify.com/track/3Wu69KbLFXHK2g0fiA0MZR"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "El preso n\u00famero 9 (Remastered)",
-        "url": "https://open.spotify.com/album/7jIILQY6IYM13XKSU7h4lE"
-      },
-      "artists": [
-        {
-          "name": "Trio Calaveras",
-          "url": "https://open.spotify.com/artist/6lS7WlU3MgVuHK0o4TRwSs"
-        }
-      ],
-      "duration_ms": 218432,
-      "name": "La malague\u00f1a - Remastered",
-      "url": "https://open.spotify.com/track/1Ks8E9aDioQVYXXcOcOm2N"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
         "name": "Amor Que Malo Eres",
         "url": "https://open.spotify.com/album/1OKUKlhIVJwedZcUkrBcBB"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 156000,
       "name": "Amor Que Malo Eres",
       "url": "https://open.spotify.com/track/4Xwg1xbEg5Dx4N3PMEisKQ"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
+        "name": "El preso n\u00famero 9 (Remastered)",
+        "url": "https://open.spotify.com/album/7jIILQY6IYM13XKSU7h4lE"
+      },
+      "artists": [
+        {
+          "name": "Trio Calaveras",
+          "url": "https://open.spotify.com/artist/6lS7WlU3MgVuHK0o4TRwSs"
+        }
+      ],
+      "duration_ms": 218432,
+      "name": "La malague\u00f1a - Remastered",
+      "url": "https://open.spotify.com/track/1Ks8E9aDioQVYXXcOcOm2N"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -1987,34 +1987,18 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "RCA 100 A\u00f1os de M\u00fasica",
-        "url": "https://open.spotify.com/album/2q3WtBQFjL3KJ0r4COi8z9"
+        "name": "Boleros Tr\u00edos, Vol. 1",
+        "url": "https://open.spotify.com/album/7d1fCzlEthMIZlopfW6HcA"
       },
       "artists": [
         {
-          "name": "Trio Calaveras",
-          "url": "https://open.spotify.com/artist/6lS7WlU3MgVuHK0o4TRwSs"
+          "name": "Los 3 Paraguayos",
+          "url": "https://open.spotify.com/artist/4d2uAPKUyg1aMWXOnyPibN"
         }
       ],
-      "duration_ms": 167640,
-      "name": "Y H\u00e1blame",
-      "url": "https://open.spotify.com/track/2sg4BfgmcxYqGifkMuKrGj"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
-        "name": "Las Estrellas De La Matancera",
-        "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
-      },
-      "artists": [
-        {
-          "name": "Bienvenido Granda",
-          "url": "https://open.spotify.com/artist/4IyPs1rPOAQOnXeqUTjty4"
-        }
-      ],
-      "duration_ms": 166120,
-      "name": "Micaela",
-      "url": "https://open.spotify.com/track/5X65gbISpAQs5W1woDdD6X"
+      "duration_ms": 188520,
+      "name": "Guantanamera",
+      "url": "https://open.spotify.com/track/2apgz0JhPuDcEslrWzbJ2F"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -2035,18 +2019,34 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Boleros Tr\u00edos, Vol. 1",
-        "url": "https://open.spotify.com/album/7d1fCzlEthMIZlopfW6HcA"
+        "name": "Las Estrellas De La Matancera",
+        "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
       },
       "artists": [
         {
-          "name": "Los 3 Paraguayos",
-          "url": "https://open.spotify.com/artist/4d2uAPKUyg1aMWXOnyPibN"
+          "name": "Bienvenido Granda",
+          "url": "https://open.spotify.com/artist/4IyPs1rPOAQOnXeqUTjty4"
         }
       ],
-      "duration_ms": 188520,
-      "name": "Guantanamera",
-      "url": "https://open.spotify.com/track/2apgz0JhPuDcEslrWzbJ2F"
+      "duration_ms": 166120,
+      "name": "Micaela",
+      "url": "https://open.spotify.com/track/5X65gbISpAQs5W1woDdD6X"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
+        "name": "RCA 100 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/2q3WtBQFjL3KJ0r4COi8z9"
+      },
+      "artists": [
+        {
+          "name": "Trio Calaveras",
+          "url": "https://open.spotify.com/artist/6lS7WlU3MgVuHK0o4TRwSs"
+        }
+      ],
+      "duration_ms": 167640,
+      "name": "Y H\u00e1blame",
+      "url": "https://open.spotify.com/track/2sg4BfgmcxYqGifkMuKrGj"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Despierte Borincano",
-        "url": "https://open.spotify.com/album/0GEnvdTJ28AMxLg9KdePsL"
-      },
-      "artists": [
-        {
-          "name": "Bobby Capo",
-          "url": "https://open.spotify.com/artist/4HtNNYomY2s6l36CdhOqWW"
-        }
-      ],
-      "duration_ms": 255133,
-      "name": "So\u00f1ando Con Puerto Rico",
-      "url": "https://open.spotify.com/track/5fJGJPo1HrdfZHgIYP1UTt"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
         "name": "Agust\u00edn Lara y sus Grandes Int\u00e9rpretes",
         "url": "https://open.spotify.com/album/1UCHaeKP4ZhDqk4s4pDZn0"
       },
@@ -2095,6 +2079,22 @@
       "duration_ms": 179774,
       "name": "Concha Nacar / Limosna",
       "url": "https://open.spotify.com/track/6jrUIPj4VyB9ItLhOMrcSs"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
+        "name": "Despierte Borincano",
+        "url": "https://open.spotify.com/album/0GEnvdTJ28AMxLg9KdePsL"
+      },
+      "artists": [
+        {
+          "name": "Bobby Capo",
+          "url": "https://open.spotify.com/artist/4HtNNYomY2s6l36CdhOqWW"
+        }
+      ],
+      "duration_ms": 255133,
+      "name": "So\u00f1ando Con Puerto Rico",
+      "url": "https://open.spotify.com/track/5fJGJPo1HrdfZHgIYP1UTt"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "La Coleccion Del Siglo",
-        "url": "https://open.spotify.com/album/0hJxKcq8Di5cAYpHDSaOUT"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Carrillo",
-          "url": "https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp"
-        }
-      ],
-      "duration_ms": 126600,
-      "name": "Cancionero",
-      "url": "https://open.spotify.com/track/1CFeovJFkWYcc1PK6zbpvZ"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
         "name": "Boleros Tr\u00edos, Vol. 1",
         "url": "https://open.spotify.com/album/7d1fCzlEthMIZlopfW6HcA"
       },
@@ -2143,6 +2127,22 @@
       "duration_ms": 206586,
       "name": "Cuando Calienta el Sol",
       "url": "https://open.spotify.com/track/10QWn4LLuF3ANQWsoLOOT8"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
+        "name": "La Coleccion Del Siglo",
+        "url": "https://open.spotify.com/album/0hJxKcq8Di5cAYpHDSaOUT"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Carrillo",
+          "url": "https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp"
+        }
+      ],
+      "duration_ms": 126600,
+      "name": "Cancionero",
+      "url": "https://open.spotify.com/track/1CFeovJFkWYcc1PK6zbpvZ"
     },
     {
       "added_at": "2022-12-30 18:28:06",

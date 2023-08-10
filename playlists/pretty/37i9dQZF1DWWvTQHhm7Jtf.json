@@ -1,12 +1,12 @@
 {
   "description": "A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 - Possible Musics'.",
-  "num_followers": 15961,
+  "num_followers": 15979,
   "original_name": "Planetary Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZmQwNWVmMzJmZGYzNjJjNjUwY2YyZTM2NmIwOTFiMjhiOTU2MmYx",
+  "snapshot_id": "MCw1MDRhYjkzYTg2MDI4MmI1MjBhY2E1MmRiNjAyZTEyZDllZTU2Yzlh",
   "tracks": [
     {
       "added_at": "2021-10-20 18:30:26",
@@ -503,22 +503,6 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Tower of Silence",
-        "url": "https://open.spotify.com/album/0emZeMYklVE3LS97rGKN8S"
-      },
-      "artists": [
-        {
-          "name": "Roberto Musci",
-          "url": "https://open.spotify.com/artist/1HSz5qiRNcs8eJ0Sp2LOxw"
-        }
-      ],
-      "duration_ms": 369765,
-      "name": "Nexus On The Beach",
-      "url": "https://open.spotify.com/track/6LMAeSiM6YiiGsfE1G4jUD"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
         "name": "FRKWYS Vol. 15: serenitatem",
         "url": "https://open.spotify.com/album/3c8oJantTYVugv4AyIRhiP"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 431502,
       "name": "Stratum",
       "url": "https://open.spotify.com/track/6yXUaEbzWHCrYYUrw2KTpV"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Tower of Silence",
+        "url": "https://open.spotify.com/album/0emZeMYklVE3LS97rGKN8S"
+      },
+      "artists": [
+        {
+          "name": "Roberto Musci",
+          "url": "https://open.spotify.com/artist/1HSz5qiRNcs8eJ0Sp2LOxw"
+        }
+      ],
+      "duration_ms": 369765,
+      "name": "Nexus On The Beach",
+      "url": "https://open.spotify.com/track/6LMAeSiM6YiiGsfE1G4jUD"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -627,34 +627,22 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Vernal Equinox (Remastered)",
-        "url": "https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy"
+        "name": "Fourth World Vol 1 Possible Musics",
+        "url": "https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9"
       },
       "artists": [
         {
           "name": "Jon Hassell",
           "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        }
-      ],
-      "duration_ms": 127040,
-      "name": "Caracas Night September 11, 1975",
-      "url": "https://open.spotify.com/track/7dUACqKWi92PQti04r4cLO"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Oquo",
-        "url": "https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv"
-      },
-      "artists": [
+        },
         {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Omprovo",
-      "url": "https://open.spotify.com/track/2IGlsC51UCUtQLIaDJuVPg"
+      "duration_ms": 209040,
+      "name": "Delta Rain Dream",
+      "url": "https://open.spotify.com/track/1mMMpiuaPQe9I6RIqtFWql"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -679,18 +667,18 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Kanky\u014d Ongaku: Japanese Ambient, Environmental & New Age Music 1980-1990",
-        "url": "https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr"
+        "name": "Oquo",
+        "url": "https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv"
       },
       "artists": [
         {
-          "name": "Yoshio Ojima",
-          "url": "https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa"
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
         }
       ],
-      "duration_ms": 356520,
-      "name": "Glass Chattering",
-      "url": "https://open.spotify.com/track/6lGHPfFmZGcjNv7tmTYzZ0"
+      "duration_ms": 160000,
+      "name": "Omprovo",
+      "url": "https://open.spotify.com/track/2IGlsC51UCUtQLIaDJuVPg"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -707,6 +695,22 @@
       "duration_ms": 468500,
       "name": "Flying to America",
       "url": "https://open.spotify.com/track/4sWXp7FHiusy8V0b6klQKp"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Kanky\u014d Ongaku: Japanese Ambient, Environmental & New Age Music 1980-1990",
+        "url": "https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr"
+      },
+      "artists": [
+        {
+          "name": "Yoshio Ojima",
+          "url": "https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa"
+        }
+      ],
+      "duration_ms": 356520,
+      "name": "Glass Chattering",
+      "url": "https://open.spotify.com/track/6lGHPfFmZGcjNv7tmTYzZ0"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -763,22 +767,18 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Fourth World Vol 1 Possible Musics",
-        "url": "https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9"
+        "name": "Vernal Equinox (Remastered)",
+        "url": "https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy"
       },
       "artists": [
         {
           "name": "Jon Hassell",
           "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 209040,
-      "name": "Delta Rain Dream",
-      "url": "https://open.spotify.com/track/1mMMpiuaPQe9I6RIqtFWql"
+      "duration_ms": 127040,
+      "name": "Caracas Night September 11, 1975",
+      "url": "https://open.spotify.com/track/7dUACqKWi92PQti04r4cLO"
     },
     {
       "added_at": "2022-03-16 01:06:51",
@@ -795,22 +795,6 @@
       "duration_ms": 316285,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/3OTzXu6oTZNQbZmyU7podJ"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Sketch for Winter IX: Perlita",
-        "url": "https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8"
-      },
-      "artists": [
-        {
-          "name": "Carmen Villain",
-          "url": "https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l"
-        }
-      ],
-      "duration_ms": 316214,
-      "name": "Agua Azul",
-      "url": "https://open.spotify.com/track/6ltgJwPbkprpKTUaysPS0i"
     },
     {
       "added_at": "2021-11-12 02:58:17",
@@ -831,6 +815,22 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
+        "name": "Sketch for Winter IX: Perlita",
+        "url": "https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8"
+      },
+      "artists": [
+        {
+          "name": "Carmen Villain",
+          "url": "https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l"
+        }
+      ],
+      "duration_ms": 316214,
+      "name": "Agua Azul",
+      "url": "https://open.spotify.com/track/6ltgJwPbkprpKTUaysPS0i"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
         "name": "Beyond Contact",
         "url": "https://open.spotify.com/album/5aYn1Q50RPtHWf97O3Wt7i"
       },
@@ -847,22 +847,6 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Children of the Sun",
-        "url": "https://open.spotify.com/album/7JqhSihASq4Jl5SWxeUTdV"
-      },
-      "artists": [
-        {
-          "name": "S A D",
-          "url": "https://open.spotify.com/artist/3iCMhOPsGRUGXAOhHaS6PU"
-        }
-      ],
-      "duration_ms": 285338,
-      "name": "Desert Wax",
-      "url": "https://open.spotify.com/track/1RQBeZgMF37bZaXCXYbfil"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
         "name": "Elaenia",
         "url": "https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 346586,
       "name": "For Marmish",
       "url": "https://open.spotify.com/track/5fxl9rZa5KyzDdw8LDKbTb"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Children of the Sun",
+        "url": "https://open.spotify.com/album/7JqhSihASq4Jl5SWxeUTdV"
+      },
+      "artists": [
+        {
+          "name": "S A D",
+          "url": "https://open.spotify.com/artist/3iCMhOPsGRUGXAOhHaS6PU"
+        }
+      ],
+      "duration_ms": 285338,
+      "name": "Desert Wax",
+      "url": "https://open.spotify.com/track/1RQBeZgMF37bZaXCXYbfil"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -945,22 +945,6 @@
       "url": "https://open.spotify.com/track/63Ra6rlO5ybbsEDWOQ395S"
     },
     {
-      "added_at": "2022-09-21 02:21:27",
-      "album": {
-        "name": "Waypoints",
-        "url": "https://open.spotify.com/album/7niveWSY99Oij26h1PjjBR"
-      },
-      "artists": [
-        {
-          "name": "Hans Berg",
-          "url": "https://open.spotify.com/artist/3HtBPJEDYVtAbTGSpaJ3Hk"
-        }
-      ],
-      "duration_ms": 354645,
-      "name": "The Clearing Pt. 2",
-      "url": "https://open.spotify.com/track/2SCFCNIvWuup7rGr9pUa1C"
-    },
-    {
       "added_at": "2021-10-20 18:30:26",
       "album": {
         "name": "Trans-Millenia Music",
@@ -975,6 +959,22 @@
       "duration_ms": 278533,
       "name": "Virgin Ice",
       "url": "https://open.spotify.com/track/5CmYgfxDfGjUENk5UKhktc"
+    },
+    {
+      "added_at": "2022-09-21 02:21:27",
+      "album": {
+        "name": "Waypoints",
+        "url": "https://open.spotify.com/album/7niveWSY99Oij26h1PjjBR"
+      },
+      "artists": [
+        {
+          "name": "Hans Berg",
+          "url": "https://open.spotify.com/artist/3HtBPJEDYVtAbTGSpaJ3Hk"
+        }
+      ],
+      "duration_ms": 354645,
+      "name": "The Clearing Pt. 2",
+      "url": "https://open.spotify.com/track/2SCFCNIvWuup7rGr9pUa1C"
     },
     {
       "added_at": "2021-10-20 18:30:26",

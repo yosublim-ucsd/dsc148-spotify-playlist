@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5MvQUYjD2Ap5Ga6pD5YN9g">Emily Falvey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-95 songs - 4 hr 52 min
+96 songs - 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Face In The Crowd](https://open.spotify.com/track/4rdl2BHBQ58Q9X4iopHTnx) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Face In The Crowd](https://open.spotify.com/album/6IRQx9Mm5W4BJdKBG6m7Nh) | 2:41 | 2022-11-12 |  |
 | [Fall in Love](https://open.spotify.com/track/6XVbryJY0vzHSNjiATeqnZ) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Backseats and Burnt CDs](https://open.spotify.com/album/1OqREMCBqRnAvoe86lT30y) | 2:49 | 2022-05-29 |  |
 | [Feel Free](https://open.spotify.com/track/7mQECZHQmEBEdXbpaBZNSH) | [Bandēs](https://open.spotify.com/artist/7vcT2s2G1IlCiIP3OBA8Af), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Feel Free](https://open.spotify.com/album/5UjIjX0L2nzxLJdTl12TD2) | 3:22 | 2022-10-02 |  |
-| [Firehazard](https://open.spotify.com/track/4eCMl0kcqO9uQy6vtduGmg) | [Syence](https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Firehazard](https://open.spotify.com/album/7m72310c756Nzu7duj09Ib) | 3:09 | 2022-05-29 |  |
+| [Firehazard](https://open.spotify.com/track/4eCMl0kcqO9uQy6vtduGmg) | [Syence](https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Firehazard](https://open.spotify.com/album/7m72310c756Nzu7duj09Ib) | 3:09 | 2022-05-29 | 2023-08-10 |
+| [Firehazard](https://open.spotify.com/track/53Or0YarAZQT7RfEsI8Qw2) | [Syence](https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Firehazard](https://open.spotify.com/album/5IDO7CyhkJCxHAzSVvmsLE) | 3:09 | 2023-08-09 |  |
 | [Ghost Of My Past](https://open.spotify.com/track/0zDftqIhxEhl9AfGiCvgGh) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Legacy](https://open.spotify.com/album/6NnwmqK1adZp3yXObpoD0W) | 3:36 | 2022-05-29 |  |
 | [Girl Wonder](https://open.spotify.com/track/2g3vOIC3J9uYfSu6yi74rI) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Girl Wonder](https://open.spotify.com/album/4kUyEMsQ4Ho1TkwPln0h6w) | 3:02 | 2022-07-03 | 2022-10-03 |
 | [Girl Wonder](https://open.spotify.com/track/3hNFCHrMfOpjwE6p517XX4) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July \(The Album\)](https://open.spotify.com/album/6Xz5OPkS6RCcmQ1hA7JUaO) | 3:02 | 2022-10-02 |  |

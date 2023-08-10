@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-356 songs - 18 hr 50 min
+357 songs - 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [Persuasive \(with SZA\)](https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Persuasive \(with SZA\)](https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R) | 3:30 | 2022-07-22 | 2022-10-01 |
 | [Pheelz Like Summer](https://open.spotify.com/track/3zX0dMVPyLnut4t7WOPJ5Q) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Pheelz Good EP](https://open.spotify.com/album/1hQyAbUn202fiz5UPVqNnx) | 2:50 | 2023-02-12 | 2023-02-17 |
 | [Playboy](https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI) | 3:27 | 2022-06-24 | 2023-02-11 |
+| [Please Don't Go](https://open.spotify.com/track/5gBfzyPlfJCOq7uUF9IOA0) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Cheekychizzy](https://open.spotify.com/artist/5z6nZumE4lrnP3Nqcqdhz1) | [Please Don't Go](https://open.spotify.com/album/5v7R0bfnMmiFhqkGFGpIFm) | 2:28 | 2023-08-03 |  |
 | [Pour Me a Drink](https://open.spotify.com/track/1ebcm76NK3TarOZBvBRz3P) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [The Brother's Keeper](https://open.spotify.com/album/0g7K5tuXiGzf5K6umuzCRX) | 2:48 | 2022-08-26 | 2023-06-10 |
 | [Pretty](https://open.spotify.com/track/6WdVWpAVtE7CSKophvVSKa) | [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [Pretty](https://open.spotify.com/album/0XvhZJjWZiuvE8tTcsyjnB) | 2:31 | 2022-10-28 | 2023-04-03 |
 | [Pretty Mind](https://open.spotify.com/track/7EsEX8tntGi25knwAAx5jA) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL) | [Pretty Mind](https://open.spotify.com/album/5X2nm4gNZnJW4BO58wY7Zs) | 3:21 | 2023-02-24 | 2023-03-31 |
@@ -335,7 +336,7 @@
 | [Troubling](https://open.spotify.com/track/19xF1y9aEyVSuSR6CaKIsR) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Troubling](https://open.spotify.com/album/6HtXqqGLOWJ9VbtYRBJuJr) | 2:31 | 2023-06-30 | 2023-07-29 |
 | [Trumpet](https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Trumpet](https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m) | 3:08 | 2023-04-20 |  |
 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 | 2022-07-28 | 2022-11-26 |
-| [Undercover Lover](https://open.spotify.com/track/27z7oXTVCZnNL23hPI1cPj) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Twelve XII](https://open.spotify.com/artist/5Xy5YahwMWeQneQEjYnzHi) | [Undercover Lover](https://open.spotify.com/album/11T4lEhgDKLOA6be6OUzfP) | 2:32 | 2023-05-11 |  |
+| [Undercover Lover](https://open.spotify.com/track/27z7oXTVCZnNL23hPI1cPj) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Twelve XII](https://open.spotify.com/artist/5Xy5YahwMWeQneQEjYnzHi) | [Undercover Lover](https://open.spotify.com/album/11T4lEhgDKLOA6be6OUzfP) | 2:32 | 2023-05-11 | 2023-08-10 |
 | [Unpopular Opinion](https://open.spotify.com/track/2VMgrVGZQIomFhkzCpk7aY) | [Bayku](https://open.spotify.com/artist/30Eo3UG8VwGf7b5h60qOlK), [Adina Thembi](https://open.spotify.com/artist/7ujlMMbxQ1lbbBNpYyAU6d) | [Unpopular Opinion](https://open.spotify.com/album/6aGobIl5NY5CGDfxi0Q0jK) | 3:11 | 2022-10-13 | 2022-10-29 |
 | [Unrelatable](https://open.spotify.com/track/6yzoGCk37lkUPvf16ZvInu) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Unrelatable](https://open.spotify.com/album/1GHNWbUWzVVlZ0pn9GXyKd) | 2:40 | 2022-11-04 | 2022-12-09 |
 | [Video Games](https://open.spotify.com/track/1ImmEy1b7WFuFvQmDNnpbr) | [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA), [Karun](https://open.spotify.com/artist/5RDH4iOoVeMAh0ylr16Obe) | [Video Games](https://open.spotify.com/album/6UNRdmz5jH99djUUpdocEe) | 3:36 | 2022-10-28 | 2023-02-12 |

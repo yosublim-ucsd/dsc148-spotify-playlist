@@ -6406,6 +6406,24 @@
     {
       "album": {
         "name": "Metkatef",
+        "url": "https://open.spotify.com/album/2FuBitU6GXqchhRGmEr6Fa"
+      },
+      "artists": [
+        {
+          "name": "Amir Eid",
+          "url": "https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207120,
+      "name": "Metkatef",
+      "url": "https://open.spotify.com/track/3YJvA5FwsJdP6jytpPkvFp"
+    },
+    {
+      "album": {
+        "name": "Metkatef",
         "url": "https://open.spotify.com/album/3GhZv3MkDK0QYVmVzikjMp"
       },
       "artists": [
@@ -6416,7 +6434,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 207411,
       "name": "Metkatef",
       "url": "https://open.spotify.com/track/7GuwZJyYf09i7Gkg2SXFhD"
@@ -9536,6 +9554,24 @@
     {
       "album": {
         "name": "Tayer",
+        "url": "https://open.spotify.com/album/1OYkpatYdj2FS7cvAW4aHy"
+      },
+      "artists": [
+        {
+          "name": "Amir Eid",
+          "url": "https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174857,
+      "name": "Tayer",
+      "url": "https://open.spotify.com/track/0NmkoiRoMdCjJgDB3f6AuD"
+    },
+    {
+      "album": {
+        "name": "Tayer",
         "url": "https://open.spotify.com/album/5KjCWTgMVinKpmGRJXjkI7"
       },
       "artists": [
@@ -9546,7 +9582,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 174857,
       "name": "Tayer",
       "url": "https://open.spotify.com/track/6miRZdknknUzuQYZP3DTJz"
@@ -10128,10 +10164,28 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 148000,
       "name": "Wahshteeny",
       "url": "https://open.spotify.com/track/15dL61n1mPULn6XkY95eRj"
+    },
+    {
+      "album": {
+        "name": "Wahshteeny",
+        "url": "https://open.spotify.com/album/4TJPiash9AKTQeDA0LvGGr"
+      },
+      "artists": [
+        {
+          "name": "Amir Eid",
+          "url": "https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Wahshteeny",
+      "url": "https://open.spotify.com/track/1a92SdpdJ77U1sjEOOi5OC"
     },
     {
       "album": {

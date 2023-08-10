@@ -374,10 +374,32 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 189666,
       "name": "Firehazard",
       "url": "https://open.spotify.com/track/4eCMl0kcqO9uQy6vtduGmg"
+    },
+    {
+      "album": {
+        "name": "Firehazard",
+        "url": "https://open.spotify.com/album/5IDO7CyhkJCxHAzSVvmsLE"
+      },
+      "artists": [
+        {
+          "name": "Syence",
+          "url": "https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf"
+        },
+        {
+          "name": "Emily Falvey",
+          "url": "https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189666,
+      "name": "Firehazard",
+      "url": "https://open.spotify.com/track/53Or0YarAZQT7RfEsI8Qw2"
     },
     {
       "album": {

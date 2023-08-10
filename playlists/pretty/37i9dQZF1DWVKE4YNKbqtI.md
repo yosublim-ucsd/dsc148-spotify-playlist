@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain]
 
 > Little Walter, Junior Wells, James Cotton the finest blues harmonica players.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,257 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,268 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,15 +42,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain]
 | 32 | [Cotton Mouth Man](https://open.spotify.com/track/05OUC91VXFLsMddV7yKaZC) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Cotton Mouth Man](https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS) | 3:47 |
 | 33 | [Don't Bite the Hand That Feeds You](https://open.spotify.com/track/0Gjw2bx2khjm0OueuMFBKL) | [Kim Wilson](https://open.spotify.com/artist/3LkeAX21Tyb0t1CCAP5aq3) | [That's Life](https://open.spotify.com/album/5M8gkXa4AULN9NESM0a4Ii) | 4:16 |
 | 34 | [Need To Make A Dollar](https://open.spotify.com/track/6BIpLmms6hIdSFI3GNTw8J) | [Keith Dunn](https://open.spotify.com/artist/122e3natoyt3KVWHoSxBKL) | [Alone With The Blues](https://open.spotify.com/album/3BhmnjO4QezeG8TVE6dRfJ) | 2:51 |
-| 35 | [Honky Tonk Parts 1 & 2](https://open.spotify.com/track/4PDT7WnrEhcUB83qyY6JG0) | [Jerry "Boogie" McCain](https://open.spotify.com/artist/1sR4V8FLHoKLtkA68DP7do) | [Abolutely the Best: The Complete Jewel Singles 1965\-1972](https://open.spotify.com/album/4Vp7gTydgX0GiYyYOeJ3mJ) | 3:50 |
+| 35 | [Bad Boys Heaven](https://open.spotify.com/track/4xfJSNaQN5eRUL78mor3nj) | [Sugar Blue](https://open.spotify.com/artist/3HojqGF4FshKki7Ku6gPqE) | [Code Blue](https://open.spotify.com/album/6MEW2dr1ze84kOgFtPi4uD) | 9:08 |
 | 36 | [Can't Believe It's This Good](https://open.spotify.com/track/32HudsU4xtWFuNWnmb6XPe) | [JJ Appleton](https://open.spotify.com/artist/5c2q4cX88ZOW2uVL47EKwE), [Jason Ricci](https://open.spotify.com/artist/7EV8gsN4cvguOI67kcnYAN) | [Dirty Memory](https://open.spotify.com/album/2UXZqPLmcmB6aa9T8AJFxn) | 3:37 |
 | 37 | [Callin' All Fools](https://open.spotify.com/track/43J5N4yyxOSCrTZ9PD7dpF) | [Rick Estrin & The Nightcats](https://open.spotify.com/artist/0uo6ltSYsMbp4go8nPQ80U) | [One Wrong Turn](https://open.spotify.com/album/4cJ6p2UKcmZwOSHppR4CXl) | 5:13 |
-| 38 | [Bad Boys Heaven](https://open.spotify.com/track/4xfJSNaQN5eRUL78mor3nj) | [Sugar Blue](https://open.spotify.com/artist/3HojqGF4FshKki7Ku6gPqE) | [Code Blue](https://open.spotify.com/album/6MEW2dr1ze84kOgFtPi4uD) | 9:08 |
+| 38 | [Honky Tonk Parts 1 & 2](https://open.spotify.com/track/4PDT7WnrEhcUB83qyY6JG0) | [Jerry "Boogie" McCain](https://open.spotify.com/artist/1sR4V8FLHoKLtkA68DP7do) | [Abolutely the Best: The Complete Jewel Singles 1965\-1972](https://open.spotify.com/album/4Vp7gTydgX0GiYyYOeJ3mJ) | 3:50 |
 | 39 | [Dog Days of August](https://open.spotify.com/track/5gOxdOaXlIVrM0mlOEJ3hZ) | [Cephas & Wiggins](https://open.spotify.com/artist/40MbAfRt1y7QdeGSkSp4pF), [John Cephas](https://open.spotify.com/artist/39gMpw4vsyl8CLCW6OZx97), [Phil Wiggins](https://open.spotify.com/artist/454ZmfE5h5JeoCksBvEymQ) | [Richmond Blues](https://open.spotify.com/album/3diP0MKxncGd7wi8ZMASFZ) | 4:11 |
 | 40 | [Mood Room Boogie](https://open.spotify.com/track/71Vue1WdbaB8aP79Nmhd76) | [Jerry Portnoy](https://open.spotify.com/artist/6VJN1UE84B6UkKQw0t93BU) | [Down in the Mood Room](https://open.spotify.com/album/1jJumcgFYNfC07qBagJwKL) | 4:13 |
 | 41 | [Sonny's Whoopin' The Doop](https://open.spotify.com/track/5lBRVkZlET9bscUXoeDwuk) | [Sonny Terry](https://open.spotify.com/artist/66hQFpsfaFzK8UbsQofCGv) | [Whoopin'](https://open.spotify.com/album/18VA8US97hZKDnkJQTKfmA) | 4:46 |
-| 42 | [Who's the Fool](https://open.spotify.com/track/6zIZH6unxpNPpOMLFEciiZ) | [Harmonica Shah](https://open.spotify.com/artist/7GtbrsY4LuBDQQO518vwtR) | [Live at the Cove](https://open.spotify.com/album/4ZrX2ckehiYbVGOSBNqbpF) | 5:37 |
-| 43 | [Going Back To Alabama](https://open.spotify.com/track/2qV360qyQrQllFZFzZunXr) | [The Siegel\-Schwall Band](https://open.spotify.com/artist/09y7wEuZOxZyYi8suU6NEo) | [Flash Forward](https://open.spotify.com/album/0cOiCxvkM6EEF9gRKrX2Fv) | 3:39 |
+| 42 | [Going Back To Alabama](https://open.spotify.com/track/2qV360qyQrQllFZFzZunXr) | [The Siegel\-Schwall Band](https://open.spotify.com/artist/09y7wEuZOxZyYi8suU6NEo) | [Flash Forward](https://open.spotify.com/album/0cOiCxvkM6EEF9gRKrX2Fv) | 3:39 |
+| 43 | [Who's the Fool](https://open.spotify.com/track/6zIZH6unxpNPpOMLFEciiZ) | [Harmonica Shah](https://open.spotify.com/artist/7GtbrsY4LuBDQQO518vwtR) | [Live at the Cove](https://open.spotify.com/album/4ZrX2ckehiYbVGOSBNqbpF) | 5:37 |
 | 44 | [Key To The Highway](https://open.spotify.com/track/4wGcFx9voRJ51U989ty9wp) | [Jazz Gillum](https://open.spotify.com/artist/6GFrr6eHPyDtqguamN8vLg) | [Jazz Gillum Vol\. 2 1938\-1941](https://open.spotify.com/album/6wY2gJuBm2BMJHpD1svDN6) | 2:43 |
 | 45 | [Pontiac Blues](https://open.spotify.com/track/7tmwXdsYe2tfm0HCNXQCNT) | [Magic Dick](https://open.spotify.com/artist/1yGvrxUBauXDFNMY14v2xh), [Jay Geils](https://open.spotify.com/artist/1UgjeijAwImO8WTt2WSum0) | [Bluestime](https://open.spotify.com/album/1ZqrooRcmaGlmQptJRKuxu) | 5:19 |
 | 46 | [Harpoventilatin'](https://open.spotify.com/track/0hMR8CTSJLrRjOgoE7apDR) | [Mark Hummel](https://open.spotify.com/artist/6tThEAJKUsHlj0ALfRObEP) | [Harpbreaker](https://open.spotify.com/album/0HGQj36FzCKitSWq3jy2lX) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain]
 | 49 | [You Got It](https://open.spotify.com/track/2RnKaMIWn5HQgkg0wghuir) | [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [Up All Night](https://open.spotify.com/album/3agi8buLixKwrmVNiKPHGN) | 3:14 |
 | 50 | [Do Yo Thang](https://open.spotify.com/track/0DqKUOuX1yVd3H7evlHDkA) | [Lady A](https://open.spotify.com/artist/2nlAGNTrkx2kGJBiIVPDtK) | [Bluez In the Key of Me](https://open.spotify.com/album/6UNgjmue8Up5u72duFsvT9) | 3:25 |
 
-Snapshot ID: `MCxjYmQwOWYzNGJhYjA5ODE4NGMxOTc1MDg4ZGNmZWE4OGMzYjRiZGIz`
+Snapshot ID: `MCwzMjYzMjVmZmFlZWVkZjM2OTZiNjM0NzZmNTUzNjkyYzQ1Nzc3N2Ji`

@@ -4,7 +4,7 @@
 
 > Lagu\-lagu mengsedih yang menyayat hati 😭
 
-92 songs - 6 hr 31 min
+94 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Belum Siap Kehilangan](https://open.spotify.com/track/56Uibq6ur2xwUpSd9biBH1) | [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Belum Siap Kehilangan](https://open.spotify.com/album/07GSDlyuAPsCKtqTmyN80x) | 4:48 | 2022-11-28 | 2023-01-10 |
 | [Berpisah Lebih Indah](https://open.spotify.com/track/5OhSbOu2OuOBlcqT5XR6Xc) | [Raissa Ramadhani](https://open.spotify.com/artist/7F4To7Rp9vdkoaCi70TYD5) | [Berpisah Lebih Indah](https://open.spotify.com/album/2Jb8niTzCRPmE1WaNeJNTz) | 3:57 | 2022-11-28 |  |
 | [Berselang](https://open.spotify.com/track/3e6sQo9DXuqNDLWibQ7zBi) | [Agseisa](https://open.spotify.com/artist/3HB7NpAUWsKvbuw0MQiR53) | [Berselang](https://open.spotify.com/album/4zHpspczwUPgzHqa4ehQJE) | 4:17 | 2023-06-23 | 2023-06-27 |
-| [Bertahan Terluka](https://open.spotify.com/track/62sancAaHEMwPxBuatzaay) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [ASHER](https://open.spotify.com/album/4km2qQIoGCCevm1Qf51OcE) | 4:00 | 2023-02-03 |  |
+| [Bertahan Terluka](https://open.spotify.com/track/62sancAaHEMwPxBuatzaay) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [ASHER](https://open.spotify.com/album/4km2qQIoGCCevm1Qf51OcE) | 4:00 | 2023-02-03 | 2023-08-10 |
 | [Bertahan Terluka](https://open.spotify.com/track/6gNG7O2IlMYUXAcCDwQrPT) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Bertahan Terluka](https://open.spotify.com/album/4UQ6dWSVD4lZUoA6KJzp5d) | 4:00 | 2022-11-28 | 2023-02-05 |
 | [Bertaut](https://open.spotify.com/track/630DpnzdfjdVqv2yLfPbAX) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Selamat Ulang Tahun](https://open.spotify.com/album/75KyCmWatZRvlMcMRed9BG) | 5:15 | 2022-11-28 |  |
 | [Bisa Tanpamu](https://open.spotify.com/track/3uzbpsQAHeRFrdJyNPQ0Kg) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Bisa Tanpamu](https://open.spotify.com/album/4JKw9FV4m0dADxuz7C91eL) | 4:10 | 2023-02-03 | 2023-02-17 |
@@ -74,10 +74,12 @@
 | [Rumah Singgah](https://open.spotify.com/track/3w75Uvn1cojNlBhQoxpVP3) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Rumah Singgah](https://open.spotify.com/album/1shpGa8sRQWZqn9n5jX53o) | 4:06 | 2022-11-28 | 2023-02-06 |
 | [Rumah Singgah](https://open.spotify.com/track/6raMBnVBIvvUngMLyDdzyP) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [ASHER](https://open.spotify.com/album/4km2qQIoGCCevm1Qf51OcE) | 4:06 | 2023-02-03 |  |
 | [Runtuh](https://open.spotify.com/track/6Hii26x3qDErVitnGW8QtO) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW), [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Runtuh](https://open.spotify.com/album/5boeKAXsTkdFlm6OnkQxQW) | 3:43 | 2022-11-28 |  |
+| [Saat Kau Telah Mengerti](https://open.spotify.com/track/22k5lgD5F7Pc7BodEMzDrY) | [Virgoun](https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f) | [Saat Kau Telah Mengerti](https://open.spotify.com/album/2KhCqrXaLVeUNuB8FifMJj) | 4:50 | 2023-08-09 |  |
 | [Sampai Jadi Debu \(Menampilkan Gardika Gigih\)](https://open.spotify.com/track/0ROj512WvJ1eqeELd7MEdJ) | [Banda Neira](https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc) | [Yang Patah Tumbuh, Yang Hilang Berganti](https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa) | 6:48 | 2023-02-03 |  |
 | [Sang Dewi](https://open.spotify.com/track/5fDCy4Hse30ZsjaTUGKVh5) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Sang Dewi](https://open.spotify.com/album/5JO7f6aqA0Tw1vfZuwLr0I) | 4:07 | 2022-11-28 |  |
 | [Seandainya](https://open.spotify.com/track/4zDsTPzY7Nm7rYKvszjKYL) | [Vierra](https://open.spotify.com/artist/1WX2v0BiEW19Vw7xmznLdZ) | [My First Love](https://open.spotify.com/album/7uPbMJWPcITRuvfcllfQ5O) | 4:23 | 2023-02-03 | 2023-06-09 |
 | [Selamat \(Selamat Tinggal\)](https://open.spotify.com/track/1mruWrUwAVe2XkksUQiaHK) | [Virgoun](https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f), [Audy](https://open.spotify.com/artist/611ajYp7fMbkU5CYF08tje) | [Selamat \(Selamat Tinggal\)](https://open.spotify.com/album/6osB48b3PzrABxdspbyYkd) | 5:13 | 2022-11-28 |  |
+| [Semua Tentang Kita](https://open.spotify.com/track/6ULZ6Hw2eYaiq1tlR5thcW) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Taman Langit](https://open.spotify.com/album/3f75vj6VfHVhh4v0Sw6ZzC) | 4:28 | 2023-08-09 |  |
 | [Separuh Aku](https://open.spotify.com/track/0OVcoOK5WVvE6D9CXkopa9) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Seperti Seharusnya](https://open.spotify.com/album/4zQgXju45dVJACZosujFtw) | 4:26 | 2023-07-17 |  |
 | [Sial](https://open.spotify.com/track/6dXiWwFrcGieqnoLYzPNp5) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/6iBh7T1cUR8MPrtly5xugU) | 4:03 | 2023-02-03 |  |
 | [Sisa Rasa](https://open.spotify.com/track/6pmo9ha8iOPZc5lxPU9o8w) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Sisa Rasa](https://open.spotify.com/album/1HWELX1pBJxEArEKKoepuJ) | 4:14 | 2022-11-28 | 2023-08-06 |
@@ -94,7 +96,7 @@
 | [Tampar](https://open.spotify.com/track/2RHm5IDIZ8fYRGzBIo7exV) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Tampar](https://open.spotify.com/album/2lZzryqflrZLO9YDjnlkMz) | 3:22 | 2022-11-28 |  |
 | [Tega](https://open.spotify.com/track/0aD0wrs2WlqnV3l7VXqlfM) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tega](https://open.spotify.com/album/6VbwcSfUBjsGTReD8wTh5Z) | 4:35 | 2023-06-06 |  |
 | [Tentang Sahabat](https://open.spotify.com/track/1FXKs10YxTmwkqHWqfd6md) | [Anneth](https://open.spotify.com/artist/2UHBgxDvOBaIY7hQ8CEAmW), [Betrand Putra Onsu](https://open.spotify.com/artist/6Pu9A4Pe31OK06u1GL8q4c) | [Tentang Sahabat](https://open.spotify.com/album/3L5k73YkWSXL7xKH6Y3ehr) | 3:55 | 2023-06-23 | 2023-06-27 |
-| [Terbangun Sendiri](https://open.spotify.com/track/7igeGZpejfxM7N8RL6xAvI) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Seperti Seharusnya](https://open.spotify.com/album/4zQgXju45dVJACZosujFtw) | 4:33 | 2023-07-06 |  |
+| [Terbangun Sendiri](https://open.spotify.com/track/7igeGZpejfxM7N8RL6xAvI) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Seperti Seharusnya](https://open.spotify.com/album/4zQgXju45dVJACZosujFtw) | 4:33 | 2023-07-06 | 2023-08-10 |
 | [Ternyata Hanya Kamu](https://open.spotify.com/track/1Cm9rVxlCWgGqB3Y3kmJCh) | [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb), [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Ternyata Hanya Kamu](https://open.spotify.com/album/1H0CPGh2BWcQMJ2t8tbOgV) | 4:44 | 2022-11-28 | 2023-04-21 |
 | [Tertawan Hati](https://open.spotify.com/track/3i0h88q1HBtbdIg2bPxs54) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Tertawan Hati](https://open.spotify.com/album/3Je4P8ARv9FvEIcOJJXIKl) | 3:57 | 2022-11-28 |  |
 | [To the Bone](https://open.spotify.com/track/3pCt2wRdBDa2kCisIdHWgF) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Flying Solo](https://open.spotify.com/album/3QUGmEDo4oijL93sKzlsR4) | 5:44 | 2022-11-28 |  |

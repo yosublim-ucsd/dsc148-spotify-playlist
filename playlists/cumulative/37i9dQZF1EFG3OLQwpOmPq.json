@@ -34,10 +34,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 171818,
       "name": "almost",
       "url": "https://open.spotify.com/track/2TqAXfEi2xxvKAd2fCARUL"
+    },
+    {
+      "album": {
+        "name": "almost",
+        "url": "https://open.spotify.com/album/4AVmznFXGlNwaZ8E97xHKL"
+      },
+      "artists": [
+        {
+          "name": "sad alex",
+          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171818,
+      "name": "almost",
+      "url": "https://open.spotify.com/track/2pP9d8G9Hqht3TMPIUWusA"
     },
     {
       "album": {
@@ -176,6 +194,28 @@
     {
       "album": {
         "name": "Bitter",
+        "url": "https://open.spotify.com/album/1cgmIEj8GBEADKYy9FY2md"
+      },
+      "artists": [
+        {
+          "name": "Yoe Mase",
+          "url": "https://open.spotify.com/artist/4IuWSIEfIed8aZb49YA4Cj"
+        },
+        {
+          "name": "sad alex",
+          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197052,
+      "name": "Bitter",
+      "url": "https://open.spotify.com/track/1OHv1Jg30gYtPpifU2kojg"
+    },
+    {
+      "album": {
+        "name": "Bitter",
         "url": "https://open.spotify.com/album/2e4yd8Fv3mYfpaIYeCAfzQ"
       },
       "artists": [
@@ -190,7 +230,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 197052,
       "name": "Bitter",
       "url": "https://open.spotify.com/track/35NDUYJIRkuYsAw7h8Zbrr"
@@ -1078,6 +1118,24 @@
     {
       "album": {
         "name": "mess without u",
+        "url": "https://open.spotify.com/album/2fMYMGrySyyKME1LtgFRkz"
+      },
+      "artists": [
+        {
+          "name": "sad alex",
+          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "mess without u",
+      "url": "https://open.spotify.com/track/3m0MvTmpyAtL6CLhYwfZZg"
+    },
+    {
+      "album": {
+        "name": "mess without u",
         "url": "https://open.spotify.com/album/4cGO1Zt2uM6G97rUIcQIJI"
       },
       "artists": [
@@ -1088,7 +1146,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 194666,
       "name": "mess without u",
       "url": "https://open.spotify.com/track/6jrdQDuG6OiLvbBU7zL1b8"
@@ -1164,10 +1222,32 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 201290,
       "name": "nature",
       "url": "https://open.spotify.com/track/1a8BgdhsbE1a4tZfmKB6Qq"
+    },
+    {
+      "album": {
+        "name": "nature",
+        "url": "https://open.spotify.com/album/0BhmR9aCO6z5Hn59D9LkTE"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "sad alex",
+          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201290,
+      "name": "nature",
+      "url": "https://open.spotify.com/track/6eYYiKMBhutRrtbgqajgWR"
     },
     {
       "album": {

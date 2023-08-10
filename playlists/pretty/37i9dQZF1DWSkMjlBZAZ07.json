@@ -1,12 +1,12 @@
 {
   "description": "Brighten your day with a mix of folksy mood boosters.",
-  "num_followers": 1969888,
+  "num_followers": 1969973,
   "original_name": "Happy Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTgwNjVlMDU4OGMzMThjNTg1YjlmZjMzYjNjMzc3ZTM3MzljNjRj",
+  "snapshot_id": "MCxmYjkzNmI2ZTZlNDFhZWVjMDk3ODU2MWRhMTA3MmRkOWNmMmFjYzJj",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Brazil",
-        "url": "https://open.spotify.com/album/38qaYdCiewb6NrRvVxWTe4"
-      },
-      "artists": [
-        {
-          "name": "Declan McKenna",
-          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
-        }
-      ],
-      "duration_ms": 252306,
-      "name": "Brazil",
-      "url": "https://open.spotify.com/track/5ftdTvmQjjsL23t7jxADfI"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Boys & Girls (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 226186,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Brazil",
+        "url": "https://open.spotify.com/album/38qaYdCiewb6NrRvVxWTe4"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "duration_ms": 252306,
+      "name": "Brazil",
+      "url": "https://open.spotify.com/track/5ftdTvmQjjsL23t7jxADfI"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Good For You",
-        "url": "https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m"
-      },
-      "artists": [
-        {
-          "name": "Houndmouth",
-          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
-        }
-      ],
-      "duration_ms": 194813,
-      "name": "McKenzie",
-      "url": "https://open.spotify.com/track/6FLkXWDTvUc36qYYRhm4jg"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Milo Greene",
         "url": "https://open.spotify.com/album/15wQEsBsbl14I4m1yEuR8w"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 204213,
       "name": "1957",
       "url": "https://open.spotify.com/track/08cXy6KUizaAelYXtcew3w"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Good For You",
+        "url": "https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m"
+      },
+      "artists": [
+        {
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+        }
+      ],
+      "duration_ms": 194813,
+      "name": "McKenzie",
+      "url": "https://open.spotify.com/track/6FLkXWDTvUc36qYYRhm4jg"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Kid",
-        "url": "https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe"
-      },
-      "artists": [
-        {
-          "name": "The Revivalists",
-          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
-        }
-      ],
-      "duration_ms": 208253,
-      "name": "Kid",
-      "url": "https://open.spotify.com/track/24TzmWrz2HHWV3UO5PlvNb"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Seven Sisters",
         "url": "https://open.spotify.com/album/0GIfSimHMHkmbKiRdrLpAQ"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 135560,
       "name": "Either Way",
       "url": "https://open.spotify.com/track/3ihp0qYSN89GBnrgF6GhRh"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Kid",
+        "url": "https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe"
+      },
+      "artists": [
+        {
+          "name": "The Revivalists",
+          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
+        }
+      ],
+      "duration_ms": 208253,
+      "name": "Kid",
+      "url": "https://open.spotify.com/track/24TzmWrz2HHWV3UO5PlvNb"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Peaceful, The World Lays Me Down",
-        "url": "https://open.spotify.com/album/4bzNinbJcnth182w03fSL2"
-      },
-      "artists": [
-        {
-          "name": "Noah And The Whale",
-          "url": "https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP"
-        }
-      ],
-      "duration_ms": 214920,
-      "name": "5 Years Time",
-      "url": "https://open.spotify.com/track/1KlDcHrlDPUJJPmMup3tUp"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Joy'All",
         "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 191280,
       "name": "Puppy and a Truck",
       "url": "https://open.spotify.com/track/3fBnNVgVVGDWWvVMCH6f0z"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Peaceful, The World Lays Me Down",
+        "url": "https://open.spotify.com/album/4bzNinbJcnth182w03fSL2"
+      },
+      "artists": [
+        {
+          "name": "Noah And The Whale",
+          "url": "https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP"
+        }
+      ],
+      "duration_ms": 214920,
+      "name": "5 Years Time",
+      "url": "https://open.spotify.com/track/1KlDcHrlDPUJJPmMup3tUp"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Skinny Dipping & Mimosas",
+        "url": "https://open.spotify.com/album/4yY92T0NRLnppExi4svTOY"
+      },
+      "artists": [
+        {
+          "name": "The 502s",
+          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
+        }
+      ],
+      "duration_ms": 163717,
+      "name": "Skinny Dipping & Mimosas",
+      "url": "https://open.spotify.com/track/76AnTndNpHDAuUqjXrqE4c"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Window Flowers",
         "url": "https://open.spotify.com/album/799tX7gorQNl08X2e6Bdt8"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 238426,
       "name": "Mountain Man",
       "url": "https://open.spotify.com/track/3QnxeNu890sL0Lcfy0iFzQ"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Skinny Dipping & Mimosas",
-        "url": "https://open.spotify.com/album/4yY92T0NRLnppExi4svTOY"
-      },
-      "artists": [
-        {
-          "name": "The 502s",
-          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
-        }
-      ],
-      "duration_ms": 163717,
-      "name": "Skinny Dipping & Mimosas",
-      "url": "https://open.spotify.com/track/76AnTndNpHDAuUqjXrqE4c"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Shabang",
-        "url": "https://open.spotify.com/album/673d0gEuxw2dsPfNFR61gv"
-      },
-      "artists": [
-        {
-          "name": "Scott McMicken and THE EVER-EXPANDING",
-          "url": "https://open.spotify.com/artist/47xDbhx3J0JVT6hnPTIRCc"
-        }
-      ],
-      "duration_ms": 250962,
-      "name": "Diamonds In The Snow",
-      "url": "https://open.spotify.com/track/45FWmYpboXilptta3D9fxD"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "(self-titled)",
         "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 275628,
       "name": "Two of Us On the Run",
       "url": "https://open.spotify.com/track/64xZhGwmnwFyeYWZ4l4wSm"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Shabang",
+        "url": "https://open.spotify.com/album/673d0gEuxw2dsPfNFR61gv"
+      },
+      "artists": [
+        {
+          "name": "Scott McMicken and THE EVER-EXPANDING",
+          "url": "https://open.spotify.com/artist/47xDbhx3J0JVT6hnPTIRCc"
+        }
+      ],
+      "duration_ms": 250962,
+      "name": "Diamonds In The Snow",
+      "url": "https://open.spotify.com/track/45FWmYpboXilptta3D9fxD"
     },
     {
       "added_at": "2023-08-04 04:00:00",

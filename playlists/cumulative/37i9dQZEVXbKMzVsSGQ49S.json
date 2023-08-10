@@ -10928,7 +10928,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-06",
+      "date_removed": null,
       "duration_ms": 222085,
       "name": "HYAENA",
       "url": "https://open.spotify.com/track/0hL9gOw6XBWsygEUcVjxEc"
@@ -12320,7 +12320,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 166635,
       "name": "Jump",
       "url": "https://open.spotify.com/track/287wLomHWpbllx9eIcVIWz"
@@ -14946,7 +14946,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 233499,
       "name": "L\u00edfi\u00f0 er yndislegt",
       "url": "https://open.spotify.com/track/3kfClySQg8DNqklz946TQM"
@@ -15204,6 +15204,24 @@
       "duration_ms": 228253,
       "name": "Maniak",
       "url": "https://open.spotify.com/track/5gDo1P9nL9K3HjROF5DUvZ"
+    },
+    {
+      "album": {
+        "name": "manipulate",
+        "url": "https://open.spotify.com/album/2YsVScwCRySHMBiMbUtKqJ"
+      },
+      "artists": [
+        {
+          "name": "Sawyer Sharbino",
+          "url": "https://open.spotify.com/artist/14QpdaJuUpP81e4ZDyMvuG"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167750,
+      "name": "manipulate",
+      "url": "https://open.spotify.com/track/2kfT9Qy88JOmzz7M3Xq4Ec"
     },
     {
       "album": {
@@ -20376,7 +20394,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 297865,
       "name": "R\u00f3me\u00f3 og J\u00fal\u00eda",
       "url": "https://open.spotify.com/track/53UXY91LLMuISer0X8RsWq"
@@ -23906,7 +23924,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-07",
+      "date_removed": null,
       "duration_ms": 184888,
       "name": "THANK GOD",
       "url": "https://open.spotify.com/track/1PH2MDbcBAU094DlgTIND1"
@@ -24592,7 +24610,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-07",
+      "date_removed": null,
       "duration_ms": 223173,
       "name": "TOPIA TWINS (feat. Rob49 & 21 Savage)",
       "url": "https://open.spotify.com/track/0lodMO0qK83vfPiiD7FMEt"
@@ -28162,7 +28180,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 269815,
       "name": "\u00dear sem hjarta\u00f0 sl\u00e6r (\u00dej\u00f3\u00f0h\u00e1t\u00ed\u00f0arlag 2012)",
       "url": "https://open.spotify.com/track/2lWTuFXXVJJ6VEBbXQqLkF"

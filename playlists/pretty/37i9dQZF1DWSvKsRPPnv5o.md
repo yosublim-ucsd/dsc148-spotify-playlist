@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Zoe Osama
 
-[Spotify](https://open.spotify.com/user/spotify) - 722,557 likes - 74 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 722,629 likes - 74 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 73 | [FOCUSED](https://open.spotify.com/track/3IdXc5Yfz1pdsv5NfbKldV) | [ICECOLDBISHOP](https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4) | [GENERATIONAL CURSE](https://open.spotify.com/album/4eEU0y6UgZnMw4rqSV2xBs) | 4:28 |
 | 74 | [Face No Book \(feat\. Blueface\)](https://open.spotify.com/track/5I6NiyOCQj489SPsP6tWxF) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ) | [Face No Book \(feat\. Blueface\)](https://open.spotify.com/album/1TdBT0hUVIL6wAUmzpAU4g) | 3:03 |
 
-Snapshot ID: `MCwxMzg3ZWI1NzQ2MWRjZDhjNGIxZGI4NjdiYzIwZDc4NmFjYWEzMTZm`
+Snapshot ID: `MCwxNjgxZmFjZDBhMjBmMGY3MzkxNjRkMDQ5MmE3OTdjMTQzYTMzOTA0`

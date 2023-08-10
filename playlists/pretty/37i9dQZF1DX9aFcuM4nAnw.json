@@ -1,12 +1,12 @@
 {
   "description": "Immerse deeper into obscure alternate dimensions... \ud83e\udd87\ud83d\udd2e",
-  "num_followers": 3058,
+  "num_followers": 3061,
   "original_name": "Stranger Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDhjODkzMDA2YzA5OWNiZGM4ZTkzYTVkZTEzZmQzM2VlZjlkNTNl",
+  "snapshot_id": "MCw2ZGY3MjQ4ODA2MWU1NWUzMDc4MjRhZTU1N2ExOTc2ZGU0ZDY3ZWQ1",
   "tracks": [
     {
       "added_at": "2022-07-06 17:58:03",
@@ -535,18 +535,22 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Draconian Poetry",
-        "url": "https://open.spotify.com/album/33wV7dDwlDalTn1ArAcbcp"
+        "name": "Black Corner Den",
+        "url": "https://open.spotify.com/album/10flibooBjjwWKy02B5obV"
       },
       "artists": [
         {
-          "name": "Sephiroth",
-          "url": "https://open.spotify.com/artist/3W7sDTEvCYpE7JpxdyNZeo"
+          "name": "Atrium Carceri",
+          "url": "https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr"
+        },
+        {
+          "name": "Cities Last Broadcast",
+          "url": "https://open.spotify.com/artist/4TiCdaMLVAz0W8GqeZ6jN4"
         }
       ],
-      "duration_ms": 543560,
-      "name": "Now Night Her Course Began",
-      "url": "https://open.spotify.com/track/2uK3MyZTClTtjMaisrbLYE"
+      "duration_ms": 264127,
+      "name": "Prepare the Stage of Night",
+      "url": "https://open.spotify.com/track/2LNvSjqhxh9UBv0rF1PMlR"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -567,22 +571,18 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Black Corner Den",
-        "url": "https://open.spotify.com/album/10flibooBjjwWKy02B5obV"
+        "name": "Draconian Poetry",
+        "url": "https://open.spotify.com/album/33wV7dDwlDalTn1ArAcbcp"
       },
       "artists": [
         {
-          "name": "Atrium Carceri",
-          "url": "https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr"
-        },
-        {
-          "name": "Cities Last Broadcast",
-          "url": "https://open.spotify.com/artist/4TiCdaMLVAz0W8GqeZ6jN4"
+          "name": "Sephiroth",
+          "url": "https://open.spotify.com/artist/3W7sDTEvCYpE7JpxdyNZeo"
         }
       ],
-      "duration_ms": 264127,
-      "name": "Prepare the Stage of Night",
-      "url": "https://open.spotify.com/track/2LNvSjqhxh9UBv0rF1PMlR"
+      "duration_ms": 543560,
+      "name": "Now Night Her Course Began",
+      "url": "https://open.spotify.com/track/2uK3MyZTClTtjMaisrbLYE"
     },
     {
       "added_at": "2022-07-06 17:58:03",

@@ -8659,6 +8659,24 @@
     },
     {
       "album": {
+        "name": "Weight of the World/Kowareta Sekai no Uta - From CrosSing",
+        "url": "https://open.spotify.com/album/6FKSN2j91q6gLEAtnMbEvb"
+      },
+      "artists": [
+        {
+          "name": "Ishikawa Yui",
+          "url": "https://open.spotify.com/artist/0YknJYTpMVMYveiGuchPlQ"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344413,
+      "name": "Weight of the World/Kowareta Sekai no Uta - From CrosSing",
+      "url": "https://open.spotify.com/track/45GCLrLOLkphfCNidiJPG4"
+    },
+    {
+      "album": {
         "name": "Weight of the World/\u58ca\u30ec\u30bf\u4e16\u754c\u30ce\u6b4c - from CrosSing",
         "url": "https://open.spotify.com/album/3RGxbihsJaa9V2dJywra8g"
       },
@@ -8670,7 +8688,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 344413,
       "name": "Weight of the World/\u58ca\u30ec\u30bf\u4e16\u754c\u30ce\u6b4c - from CrosSing",
       "url": "https://open.spotify.com/track/1470Upad2tvXPSsP1mEpFL"

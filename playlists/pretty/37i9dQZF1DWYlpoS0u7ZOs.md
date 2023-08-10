@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > The new wave of rock from the UK & Ireland\. Cover: WARGASM \(UK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,518 likes - 80 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,525 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 27 | [Trust No One](https://open.spotify.com/track/5JWvuCZ6yOJJ4GlbAVjl1v) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [Trust No One](https://open.spotify.com/album/7DhBu788ygCSGB9xnoNBVE) | 3:03 |
 | 28 | [Marching Powder](https://open.spotify.com/track/3dZV4HZQwkw8ktt4SsjBJW) | [Hyphen](https://open.spotify.com/artist/2Ktr0i8RmKTMlBFuqhMkAi) | [Marching Powder](https://open.spotify.com/album/4szROdsy1D6xsuPIa71T6g) | 2:05 |
 | 29 | [Feel for Me](https://open.spotify.com/track/1RLPKYPsBtuOnrSAXAILae) | [Lissy Taylor](https://open.spotify.com/artist/15ZEwlfPIbAiAR20HklpR4) | [Feel for Me](https://open.spotify.com/album/1hPsPaR9azk6Yc7whUkSQP) | 3:22 |
-| 30 | [Norwegian Wood](https://open.spotify.com/track/0hqwO626QOUFYQjuKSkgOJ) | [Picture Parlour](https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV) | [Norwegian Wood](https://open.spotify.com/album/7awWgs9eg9Us5jQg4nm5Ck) | 3:34 |
+| 30 | [Norwegian Wood](https://open.spotify.com/track/50Wusuhe7GBuOr5xGZlyGe) | [Picture Parlour](https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV) | [Norwegian Wood](https://open.spotify.com/album/4vXzCKpcnI930OU3QNCOLW) | 3:34 |
 | 31 | [Russian Roulette](https://open.spotify.com/track/7KIrDWJzJGKx1xlK0tOqiU) | [Liquid State](https://open.spotify.com/artist/5Bn0UxpJyKDg5mpcDOaS3p) | [Russian Roulette](https://open.spotify.com/album/5dSgvHcSr0RE9aXpWD2HZB) | 3:50 |
 | 32 | [Country Life](https://open.spotify.com/track/5Oufn6baCCVbDofy4ScOFL) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Peace of Mind](https://open.spotify.com/album/2Qmk17AdzsXXEcVBP42lW2) | 2:27 |
 | 33 | [Adore Adore Adore](https://open.spotify.com/track/7cbHLDW7Iir9IZKWgHJuuI) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Adore Adore Adore](https://open.spotify.com/album/0hNw5wk6iWSH4wnsCKEMfi) | 2:37 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 79 | [Rip My Calendar](https://open.spotify.com/track/2iREiP77hQ4oR5eS3HpIMN) | [Valerie Rose](https://open.spotify.com/artist/07ti3q3QcT6Xe8eCFNlZlZ) | [Rip My Calendar](https://open.spotify.com/album/6Zpc6socD4ELy4hwiB6kac) | 2:30 |
 | 80 | [Right Time](https://open.spotify.com/track/6ShMhtk1om88amkkiUrpS9) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [Right Time](https://open.spotify.com/album/1VsVEFWRQdn1MtFcjrTUXW) | 4:00 |
 
-Snapshot ID: `MCwyYmRiMmQzNzEwMTllMDk4OThiNmRmYWRlZTg5N2E4Y2VhYjkyOTBl`
+Snapshot ID: `MCw2ZWE4NGJlYjMzYWQ5ZWM4NWY1MTIxYTI0ODM2Y2FiOGRiYmFjNmI3`

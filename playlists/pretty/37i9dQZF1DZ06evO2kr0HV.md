@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kr0HV.md) - [plain]
 
 > This is Esteman\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,959 likes - 51 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,987 likes - 51 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kr0HV.md) - [plain]
 | 50 | [A quién le importa \- Latin Pride Version by Juan Sueiro](https://open.spotify.com/track/1qlUwEvjwotC8lvju3rR3u) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Lucrecia](https://open.spotify.com/artist/2lylnjEoxCfNCh8LU6BQ14), [Edith Salazar](https://open.spotify.com/artist/0WJz68BdO4VBwOom3W15EM), [Karina](https://open.spotify.com/artist/4bCJFFuTF8fuditJEIS1GX), [Amparo Sandino](https://open.spotify.com/artist/3oegWGTjRuLbcou3oSUZ3C), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf), [NAIZA](https://open.spotify.com/artist/64tOF1AuYOTyd0JSDLTyo0), [Luna Manzanares](https://open.spotify.com/artist/6J4O8juzVNrJpZ0PNIGM6E), [Marcos French](https://open.spotify.com/artist/22kjElNe2hsztOI6ORleRc), [Sandra Love](https://open.spotify.com/artist/6G5tquDgGxnfOFjJ2ogXqm), [Juan Sueiro](https://open.spotify.com/artist/0zVeeM7NYxVYxb453RXcL8) | [A quién le importa](https://open.spotify.com/album/1iqyCZETxBHb57Mv4JqG1J) | 4:12 |
 | 51 | [\(Intro\) Milagrosa \- Intro / En Vivo Desde El Teatro Metropólitan](https://open.spotify.com/track/2qnXOUjXw7I1f9Tr6EQvgu) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [En Vivo desde el Teatro Metropólitan](https://open.spotify.com/album/2BDrVcGhof46VC0Bs0EaL4) | 6:15 |
 
-Snapshot ID: `MjgxOTE2NzksMDAwMDAwMDAzMzdiOWNmY2E4NTZlODFiNjFkZTZkYzM4NzA4YWIwNQ==`
+Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDA0NjViZWJlYWIyYTFkY2FmNGQ4MTdlZGM2YjUzMjQ3Yw==`

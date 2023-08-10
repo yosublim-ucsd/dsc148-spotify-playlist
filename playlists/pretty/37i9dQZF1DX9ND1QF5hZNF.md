@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 > Evadez\-vous tout en douceur...
 
-[Spotify](https://open.spotify.com/user/spotify) - 592,905 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 593,041 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 29 | [Paraíso](https://open.spotify.com/track/2qtr6hH2mkhpV1yIY8i2la) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Gardenia](https://open.spotify.com/album/1aUCzIb8C1558x8qlo2gjM) | 3:52 |
 | 30 | [Medusa](https://open.spotify.com/track/63y0uv7hGZd5DU0ESLhPrQ) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC) | [Ramas](https://open.spotify.com/album/0v8v8HAtfJChO5sdRh5EAx) | 4:03 |
 | 31 | [Wild in Secret](https://open.spotify.com/track/2jDNpZI9Ydk25K8qMCjpUc) | [Kadebostany](https://open.spotify.com/artist/3IVrpJxHeUFoYP4H6bxg57), [Valeria Stoica](https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR) | [Play this at my Funerals](https://open.spotify.com/album/1SGpWhYIw9Lc02pDLke3bt) | 2:23 |
-| 32 | [Me \(Heavy\)](https://open.spotify.com/track/3MhbnxA1JnksiATu9xyB2c) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:03 |
+| 32 | [Me \(heavy\)](https://open.spotify.com/track/3MhbnxA1JnksiATu9xyB2c) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:03 |
 | 33 | [Leave My Home](https://open.spotify.com/track/6mp9DV7vsQtdqR35RYSpdz) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Leave My Home](https://open.spotify.com/album/2WMV7jPy8XKRtchqqBCheP) | 3:41 |
 | 34 | [La Plage](https://open.spotify.com/track/3lZcokYiL7reR3j3Lbtfzl) | [Raphael Futura](https://open.spotify.com/artist/2taFLpsy0M58c9GE5vjnsb) | [Riviera](https://open.spotify.com/album/4vMrFjqzYp9DhRRKQ0uDKl) | 3:13 |
 | 35 | [Tender love](https://open.spotify.com/track/1CM16VHSXw4CcvZUPsa8CU) | [Mounika.](https://open.spotify.com/artist/2FdGoGN8SKxgxhUlP9aMDO), [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [I Need Space](https://open.spotify.com/album/6OYxfg1u6ltNaciFUxduEY) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 49 | [Hamacadame](https://open.spotify.com/track/6LRY3cFPXnM9WXKXrKPKJr) | [Ours Samplus](https://open.spotify.com/artist/0XtVN1QaB7vYRpw4qEIRt0), [Tour De Manège](https://open.spotify.com/artist/6NgwMiz1Dwsktnn8p8yujE) | [Special Tropical](https://open.spotify.com/album/57kMxecY2JpHaDVVtq3mnH) | 2:54 |
 | 50 | [Sunsets](https://open.spotify.com/track/0PPdGlXl0Djfmp1IolZpZ1) | [Bequem](https://open.spotify.com/artist/5FIfzVEYEnXc1k7fPVpNZy) | [Sunsets](https://open.spotify.com/album/5w96i0VsQxI1eP8rDLOERy) | 2:32 |
 
-Snapshot ID: `MCxjMDJmOTcwNDk2MzY5ZDkxZDZlNmE2YjVmNmRlMThiYmVkNTU5MTYz`
+Snapshot ID: `MCw3ZGM5MGIwMTZlMjJkNzAyMDA2MmE1YmM4MDYyZThiY2IxMjdiM2M5`

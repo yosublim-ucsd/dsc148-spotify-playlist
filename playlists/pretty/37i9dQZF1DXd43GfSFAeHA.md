@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 
 > A selection of the finest Hip\-Hop tracks from the illest Arab Rappers\. Cover: ZIAD ZAZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,486 likes - 51 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,575 likes - 51 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,24 +32,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 22 | [DAWLETNA](https://open.spotify.com/track/1VteZ9xomF21Idym2C8Xbb) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI), [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W) | [SWITCH](https://open.spotify.com/album/2Qoqb8UvELqy3tSb1hsGI3) | 2:38 |
 | 23 | [6G](https://open.spotify.com/track/5cDw3Icnxb1hB5XGBRzKer) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [6G](https://open.spotify.com/album/6myOlMXXWjwlOrz7xugqnj) | 2:56 |
 | 24 | [S3ib](https://open.spotify.com/track/3Y6NRw8kCkZxMfWDXA4auF) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [S3ib](https://open.spotify.com/album/3AyOnjxyeUuCwoqrkrsVyI) | 3:39 |
-| 25 | [Lamouni](https://open.spotify.com/track/3VjyVm2EOI3bKXmA9BRz7i) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Soufiane Az](https://open.spotify.com/artist/28Q2uRWOQJHFGUy1VBCY04) | [Lamouni](https://open.spotify.com/album/67GW8ttYMQksrL6ER2Ovaf) | 3:22 |
+| 25 | [Babel](https://open.spotify.com/track/2GFTYKi8fUQLUdBrEQcx8b) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Babel](https://open.spotify.com/album/1Xm9f3GltPZRXz87dneSDO) | 4:15 |
 | 26 | [BAHZ](https://open.spotify.com/track/4eEqANCoWtjcegFNqnV3nq) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [BAHZ](https://open.spotify.com/album/3BMutq6UCajylSgdwyF2CQ) | 2:59 |
-| 27 | [Babel](https://open.spotify.com/track/2GFTYKi8fUQLUdBrEQcx8b) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Babel](https://open.spotify.com/album/1Xm9f3GltPZRXz87dneSDO) | 4:15 |
+| 27 | [Lamouni](https://open.spotify.com/track/3VjyVm2EOI3bKXmA9BRz7i) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Soufiane Az](https://open.spotify.com/artist/28Q2uRWOQJHFGUy1VBCY04) | [Lamouni](https://open.spotify.com/album/67GW8ttYMQksrL6ER2Ovaf) | 3:22 |
 | 28 | [ROCKSTAR](https://open.spotify.com/track/6cjGkkdBNvkcFeKk1TQ1jd) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [3](https://open.spotify.com/album/7LNlUUOzPMmdVLFq3wi353) | 3:22 |
 | 29 | [Gezira](https://open.spotify.com/track/2ieg6nYrdrI4Em8nDV3Ddh) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Gezira](https://open.spotify.com/album/7mt8YfjiZViWN7hSqAOEMk) | 3:13 |
 | 30 | [Halloween](https://open.spotify.com/track/37TBQ5Mwx3SldaN03mMUru) | [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI), [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Halloween](https://open.spotify.com/album/0VdD8r7klztbY0Ilng4jxd) | 3:42 |
 | 31 | [Habebi](https://open.spotify.com/track/0KViukFxUz0qvgPoXBahXH) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Big Moe](https://open.spotify.com/artist/0onL6q1ADntaSpByqMhgtA) | [Habebi](https://open.spotify.com/album/3h2E9FqNEQYYr759vIgd0m) | 3:22 |
-| 32 | [Fi Rohak](https://open.spotify.com/track/6unuCQKefI6ZYBWcsZstma) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Fi Rohak](https://open.spotify.com/album/761lWXYS5YD8crXQzOWBvU) | 5:27 |
-| 33 | [Star](https://open.spotify.com/track/6oh7KUImF3IhimOnDfdZmF) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Star](https://open.spotify.com/album/3Q7yif9PiXJUL7ox5EgDxG) | 3:01 |
+| 32 | [SULAIMAN](https://open.spotify.com/track/5nViVFYYfWiciOwxdt8dcJ) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S) | [SULAIMAN](https://open.spotify.com/album/2KdGhrM1yUu2WJpCrxVSfR) | 2:48 |
+| 33 | [Fi Rohak](https://open.spotify.com/track/6unuCQKefI6ZYBWcsZstma) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Fi Rohak](https://open.spotify.com/album/761lWXYS5YD8crXQzOWBvU) | 5:27 |
 | 34 | [AFROTO TYPE BEAT](https://open.spotify.com/track/2wkzNBwQFb6jQPnX8LFaU8) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [3](https://open.spotify.com/album/7LNlUUOzPMmdVLFq3wi353) | 2:37 |
-| 35 | [SULAIMAN](https://open.spotify.com/track/5nViVFYYfWiciOwxdt8dcJ) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S) | [SULAIMAN](https://open.spotify.com/album/2KdGhrM1yUu2WJpCrxVSfR) | 2:48 |
+| 35 | [Star](https://open.spotify.com/track/6oh7KUImF3IhimOnDfdZmF) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Star](https://open.spotify.com/album/3Q7yif9PiXJUL7ox5EgDxG) | 3:01 |
 | 36 | [Saye2 Souq](https://open.spotify.com/track/3qtXvNZ8bNIRfN6aYamUor) | [Eldab3](https://open.spotify.com/artist/6vLkOAl2dLtfh5IDzZaMjh) | [3awdet Eldab3](https://open.spotify.com/album/3JtWRyNJQGsi9naZlMrOQv) | 2:14 |
 | 37 | [Alatif](https://open.spotify.com/track/5EziL9bwKacAPWAQSkl8Wh) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Alatif](https://open.spotify.com/album/12PmJ95M7wML8ievJRi0zx) | 3:16 |
 | 38 | [MI AMORI](https://open.spotify.com/track/36D0CaOIYeAkdt4AkaZeff) | [Begad](https://open.spotify.com/artist/5jcaxl6UTzjWAUWEdldcQl), [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W) | [Karta](https://open.spotify.com/album/4rKKoFTja1ZaQK5QnHXeXn) | 2:07 |
 | 39 | [7abayby](https://open.spotify.com/track/7dc5rPTGzN3WUXO717YWFc) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Mostt](https://open.spotify.com/artist/4xCFJxipdDrobk0MtuV84B) | [7abayby](https://open.spotify.com/album/6j2XnIRR7YziaIoKRURo7x) | 2:36 |
 | 40 | [LILA](https://open.spotify.com/track/5CkDVJBrBjYduZiPtPmgRW) | [SCOOL BOY](https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV) | [LILA](https://open.spotify.com/album/06CGM6DLyWKlbP1YYidQtx) | 2:44 |
-| 41 | [Helma](https://open.spotify.com/track/0xCOet5hB68wGPL66JrUGZ) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Helma](https://open.spotify.com/album/4ffyUt1pfPhGhPytnYaEcx) | 2:43 |
-| 42 | [KALBI](https://open.spotify.com/track/5hUJkjeGR4CCyMmMLt9iLx) | [Shabjdeed](https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95) | [KALBI](https://open.spotify.com/album/52C44WKKnzqgzbnTb5J5pt) | 2:45 |
+| 41 | [KALBI](https://open.spotify.com/track/5hUJkjeGR4CCyMmMLt9iLx) | [Shabjdeed](https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95) | [KALBI](https://open.spotify.com/album/52C44WKKnzqgzbnTb5J5pt) | 2:45 |
+| 42 | [Helma](https://open.spotify.com/track/0xCOet5hB68wGPL66JrUGZ) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Helma](https://open.spotify.com/album/4ffyUt1pfPhGhPytnYaEcx) | 2:43 |
 | 43 | [KHABTA](https://open.spotify.com/track/6p0nEcRHhxqTpEekVYhiPF) | [La mass le vrai](https://open.spotify.com/artist/1HPm1tMewqJhqjGkM7f5vk), [Phobia Isaac](https://open.spotify.com/artist/2q4mJNyOd6lXVRR3DCdci3) | [KHABTA](https://open.spotify.com/album/5WvYOZJbUHnsDF8FNPajiU) | 4:24 |
 | 44 | [Mashi El Hal](https://open.spotify.com/track/3EsdhFv69vVaBAAFlphMYb) | [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu), [Warchieff](https://open.spotify.com/artist/0rKBPvNmQMHFGNf8RCYLt8), [The Synaptik](https://open.spotify.com/artist/3fyyPt5BZ20BkmqVcQV6wS) | [Batn Al Shaer](https://open.spotify.com/album/3TJe6YsGmLSZSsoQKLdcM8) | 2:28 |
 | 45 | [DOPAMINE](https://open.spotify.com/track/2mX3Udxyayq72cbJhlpaho) | [Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv) | [DOPAMINE](https://open.spotify.com/album/29yH3NTWxPeFUpZTfHm0nA) | 2:14 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 50 | [SRT](https://open.spotify.com/track/6heHtvgHYZ4VgmRXYwcjtQ) | [Lil Eazy](https://open.spotify.com/artist/7g2LNiqq1JAYSf1OcZY8NS), [Rissi Tempo](https://open.spotify.com/artist/43xRhVBpsVIj6XqUcpEmA2) | [SRT](https://open.spotify.com/album/2QJOXagj621ALebtT8BKN0) | 3:20 |
 | 51 | [Khalisni](https://open.spotify.com/track/0T1nrCDa8G4pzzW92BgGIp) | [Saud G](https://open.spotify.com/artist/76VXSNBSY5pbsYgMe2dTYZ), [Ahmedoo Biggie](https://open.spotify.com/artist/4srnmX4lNfxOKYNA8gdRMy) | [Khalisni](https://open.spotify.com/album/3gYH2ky5iZ1SaKNveeP378) | 3:09 |
 
-Snapshot ID: `MCxlMDJlMmM4OTI3OTA5NTM2ZTViOTYyYTliN2E2MWQ3YzM2MjdiYTM5`
+Snapshot ID: `MCxmMzI0Y2UzYTg1ZmFhZGMwYTFiNjFhMTEzYjlkMTY0MjZiMDEzNjg1`

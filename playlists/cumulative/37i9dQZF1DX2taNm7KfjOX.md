@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Big Thief
 
-517 songs - 1 day 8 hr 17 min
+518 songs - 1 day 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Ain't That The Way](https://open.spotify.com/track/0g31ynVt7Zy2cmYmTQfyjr) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw) | [Ain't That The Way](https://open.spotify.com/album/1s1n8hW8oWLzTlj2w2nGLn) | 2:53 | 2021-10-22 | 2022-07-29 |
 | [Alabama Haint](https://open.spotify.com/track/3NVGIampibL0YVG3wwaX8G) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Alabama Haint](https://open.spotify.com/album/11cZUoRDf5kWxxfCUjzKHg) | 3:02 | 2022-01-14 |  |
 | [Alaska](https://open.spotify.com/track/3jfYDfrnp0dseGWZfa3jqt) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Alaska](https://open.spotify.com/album/4rFxEoG9PEDkONioOInJhy) | 2:05 | 2022-01-14 | 2022-06-25 |
-| [Ali](https://open.spotify.com/track/4TQYdFRCYW7QH0vwmYYt97) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw) | 3:12 | 2022-06-24 |  |
+| [Ali](https://open.spotify.com/track/4TQYdFRCYW7QH0vwmYYt97) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw) | 3:12 | 2022-06-24 | 2023-08-10 |
 | [Ali](https://open.spotify.com/track/6MIBYuOl9utcgCkhcnwh4K) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Ali](https://open.spotify.com/album/0dA1GAsNyDEHy0uHAkXFzS) | 3:12 | 2022-04-13 | 2022-04-16 |
 | [All Is Well](https://open.spotify.com/track/3KAQ4xe2sR6IiltZw8HSA5) | [Austin Basham](https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA) | [You and Me for Now](https://open.spotify.com/album/5KPl7k36JzLxe4bisDG8S4) | 4:16 | 2022-06-24 |  |
 | [All Is Well](https://open.spotify.com/track/7Mp3Oi6hkTtT9kzGRHb7ie) | [Austin Basham](https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA) | [Linton // Oslo EP](https://open.spotify.com/album/32XXbj5kGVHk56UtDKkenb) | 4:16 | 2022-04-13 | 2022-04-19 |
@@ -376,6 +376,7 @@
 | [Rubberneckers](https://open.spotify.com/track/31fmOjwCmLvL32qFaPNDHj) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Rubberneckers](https://open.spotify.com/album/2AFzBOWIUgWLK5ymINJmn2) | 3:28 | 2022-01-14 | 2022-07-29 |
 | [Rubberneckers](https://open.spotify.com/track/5bFCQlmeLTKT25oga5ltiA) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Quitters](https://open.spotify.com/album/4m0J4ljxRrsHJfXSmjiYUG) | 3:28 | 2022-10-14 | 2023-02-22 |
 | [Rushin' River Valley](https://open.spotify.com/track/5tpp3h5cRMNOH1cXlvpQ7s) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Rushin' River Valley](https://open.spotify.com/album/7loW3vW3nKN9IV9pD9MHlo) | 3:46 | 2023-01-20 | 2023-05-08 |
+| [Rushin' River Valley](https://open.spotify.com/track/7axHflLoQmVH6K28TSnWuu) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [A River Running to Your Heart](https://open.spotify.com/album/2n4dZnB3Iz7wWPdDQO3auX) | 3:46 | 2023-08-04 |  |
 | [Satan](https://open.spotify.com/track/32i4BnsK39hrEtYUpPg4D4) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Satan / Jacob Rose](https://open.spotify.com/album/5nExpRArSDcibPvnuQQc3I) | 3:16 | 2022-02-25 | 2023-04-01 |
 | [Satellite](https://open.spotify.com/track/5r882UNUUII5EKZ9rlVImU) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Satellite](https://open.spotify.com/album/1RzcWepHYgRdm07qC7CFjh) | 2:54 | 2022-06-24 | 2023-07-13 |
 | [Savior Complex](https://open.spotify.com/track/4BNew3AqFCvABdFsYMRiyB) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s) | 4:01 | 2021-10-22 | 2022-04-22 |

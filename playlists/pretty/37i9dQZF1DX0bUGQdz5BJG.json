@@ -1,13 +1,349 @@
 {
   "description": "Music City must-hears. Cover: Peytan Porter",
-  "num_followers": 163782,
+  "num_followers": 163862,
   "original_name": "Next From Nashville",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Nzc1ZGE3NWEzODQ3YTM4NmMwMTI2MDI5NDllMDUxMTFjYTUyYzBk",
+  "snapshot_id": "MCxiYWY0MzU4YjQ1YjQyZTcwMmU4ZjdmMTBkMTI2OTlhYzA2ZjRjMzRi",
   "tracks": [
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "God's Hotel",
+        "url": "https://open.spotify.com/album/6Udk0DCdjx9UVgw1wIg92A"
+      },
+      "artists": [
+        {
+          "name": "Peytan Porter",
+          "url": "https://open.spotify.com/artist/6uB0wKbu8WGThZDsRmDBkT"
+        }
+      ],
+      "duration_ms": 241950,
+      "name": "God's Hotel",
+      "url": "https://open.spotify.com/track/1mpBwrF854nRSTJ2wHfHjO"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Heart On Ice",
+        "url": "https://open.spotify.com/album/2YEQBpaXZYgSLng7MX699K"
+      },
+      "artists": [
+        {
+          "name": "Jon Langston",
+          "url": "https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P"
+        }
+      ],
+      "duration_ms": 174693,
+      "name": "Heart On Ice",
+      "url": "https://open.spotify.com/track/0gkmzt5vzxzT0erzhoo2Ds"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "shot in the dark",
+        "url": "https://open.spotify.com/album/2mb9T1V9feTNeGUNvXycfJ"
+      },
+      "artists": [
+        {
+          "name": "Ashley Cooke",
+          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
+        },
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 183906,
+      "name": "see you around (feat. Nate Smith)",
+      "url": "https://open.spotify.com/track/0ULk55MXcfFwLkCdXTeYCO"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Tennessee's Waiting",
+        "url": "https://open.spotify.com/album/1YvMkfsDEkfxTf7LZzsZ3E"
+      },
+      "artists": [
+        {
+          "name": "King Calaway",
+          "url": "https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE"
+        },
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "duration_ms": 170751,
+      "name": "Let It Flow (feat. Hailey Whitters)",
+      "url": "https://open.spotify.com/track/33PgZWGbFC7cuDnxUwEsPN"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Love Every Minute",
+        "url": "https://open.spotify.com/album/7Mkqjn18c0OK3lA3QnXsOE"
+      },
+      "artists": [
+        {
+          "name": "Johnny Dailey",
+          "url": "https://open.spotify.com/artist/6bXNUXv0KrjvuDVs8skKc7"
+        }
+      ],
+      "duration_ms": 190906,
+      "name": "Living Don't Cost a Lot",
+      "url": "https://open.spotify.com/track/5FaouE0oUkLV2SQbDsBjGh"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Worst In Me",
+        "url": "https://open.spotify.com/album/2lVxm2kp7BtwXPl1VQElSP"
+      },
+      "artists": [
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        }
+      ],
+      "duration_ms": 149973,
+      "name": "Worst In Me",
+      "url": "https://open.spotify.com/track/2jMetr6nF6WLRPzRmGh1Pc"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Kill Me",
+        "url": "https://open.spotify.com/album/7iuVd42Ad5GoLpMw3XvwPT"
+      },
+      "artists": [
+        {
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+        }
+      ],
+      "duration_ms": 163110,
+      "name": "Kill Me",
+      "url": "https://open.spotify.com/track/5pWgfYHRZuNctsKtWGDJ2E"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Sound of You Gone",
+        "url": "https://open.spotify.com/album/0WbLRjZ0z3dhov2EU0zjzf"
+      },
+      "artists": [
+        {
+          "name": "Grace Tyler",
+          "url": "https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH"
+        }
+      ],
+      "duration_ms": 210310,
+      "name": "Sound of You Gone",
+      "url": "https://open.spotify.com/track/1Ezm2kChBPSkNRbeL8zwJV"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Across The Sheets",
+        "url": "https://open.spotify.com/album/7nWjFzbfY7W4FxTAzKfhMu"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "duration_ms": 260959,
+      "name": "Don't Take The Girl",
+      "url": "https://open.spotify.com/track/1MgF4Za06e1KQxzCYqGChf"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Jonesin'",
+        "url": "https://open.spotify.com/album/2UoOn9wHxdZ83THATI9hvB"
+      },
+      "artists": [
+        {
+          "name": "Elvie Shane",
+          "url": "https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j"
+        }
+      ],
+      "duration_ms": 188641,
+      "name": "Jonesin'",
+      "url": "https://open.spotify.com/track/3EY4kYa8rZp2b2pXzdhl0r"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Tie'r Down",
+        "url": "https://open.spotify.com/album/2UdZbgxFn36Nk1RwV1xZ90"
+      },
+      "artists": [
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "duration_ms": 185773,
+      "name": "Tie\u2019r Down",
+      "url": "https://open.spotify.com/track/0r1WSDfnjhB4ljAmKm2u4C"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Always You",
+        "url": "https://open.spotify.com/album/6pmFIOOeqH9zbCn1rq2JCJ"
+      },
+      "artists": [
+        {
+          "name": "Trey Lewis",
+          "url": "https://open.spotify.com/artist/15tTVhFpH8EFXeDgO9xkRO"
+        }
+      ],
+      "duration_ms": 188373,
+      "name": "Always You",
+      "url": "https://open.spotify.com/track/3BVIL8xUbVh1AfeoViJ2ie"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Outta Dirt",
+        "url": "https://open.spotify.com/album/16CEupIepvrJlX6ay6NM9n"
+      },
+      "artists": [
+        {
+          "name": "Rodell Duff",
+          "url": "https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky"
+        },
+        {
+          "name": "George Birge",
+          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
+        }
+      ],
+      "duration_ms": 164412,
+      "name": "Outta Dirt",
+      "url": "https://open.spotify.com/track/0iUAgtPIBPFzAXqdy9sDb5"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Boots, Jeans, & Jesus",
+        "url": "https://open.spotify.com/album/7FVrXxjvf7zhCNBGOw0dJ8"
+      },
+      "artists": [
+        {
+          "name": "Sophia Scott",
+          "url": "https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp"
+        }
+      ],
+      "duration_ms": 157882,
+      "name": "Boots, Jeans, & Jesus",
+      "url": "https://open.spotify.com/track/4S7yZud2fDiFHjgE5YazJm"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Fall In Love With Me",
+        "url": "https://open.spotify.com/album/67JHB0s8c5pbNELuRkl0E8"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        }
+      ],
+      "duration_ms": 195546,
+      "name": "Fall In Love With Me",
+      "url": "https://open.spotify.com/track/56CmYOZ5YNtmuVUtY5W5jF"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Earned It (Sampler)",
+        "url": "https://open.spotify.com/album/4QdR5tUzrT7SBquAJAJHAb"
+      },
+      "artists": [
+        {
+          "name": "Larry Fleet",
+          "url": "https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw"
+        }
+      ],
+      "duration_ms": 163536,
+      "name": "Ain\u2019t Mad At Jesus",
+      "url": "https://open.spotify.com/track/1ZWRFnItc6LzdMrzDg46JV"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Still Picks Up",
+        "url": "https://open.spotify.com/album/2cykFTWC8mGDgYsCiYFudE"
+      },
+      "artists": [
+        {
+          "name": "Shane Profitt",
+          "url": "https://open.spotify.com/artist/4EZVvQwjbt64lridujx2Da"
+        }
+      ],
+      "duration_ms": 189684,
+      "name": "Still Picks Up",
+      "url": "https://open.spotify.com/track/1Sd6RLSrHcZ1NYEBhOotCB"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Honky Tonkin' About",
+        "url": "https://open.spotify.com/album/0NcALFoPC2VFUj05Jsj9zP"
+      },
+      "artists": [
+        {
+          "name": "The Reklaws",
+          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
+        },
+        {
+          "name": "Drake Milligan",
+          "url": "https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR"
+        }
+      ],
+      "duration_ms": 185315,
+      "name": "Honky Tonkin' About",
+      "url": "https://open.spotify.com/track/0mYDmAlfKvnSigoH2h9XbZ"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Pain Killer",
+        "url": "https://open.spotify.com/album/1lSlga0mS2Ejwon1d6MmuQ"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 167173,
+      "name": "Pain Killer",
+      "url": "https://open.spotify.com/track/1Kmx22eXsWnlggH0Aj6wsa"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Ain't Doin' Jack",
+        "url": "https://open.spotify.com/album/1URccwrkhVDXNb8uowWWhk"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "duration_ms": 160680,
+      "name": "Ain't Doin' Jack",
+      "url": "https://open.spotify.com/track/1cF5gDFBHOprIKwzFORNjH"
+    },
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {

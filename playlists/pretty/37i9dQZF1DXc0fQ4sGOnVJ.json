@@ -1,12 +1,12 @@
 {
   "description": "Country rap songs, made to be cranked up. Cover: Brantley Gilbert and Jelly Roll",
-  "num_followers": 149803,
+  "num_followers": 149822,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTRkMzk2MTE3N2RkNzE3NWI4ZjIzNWEwNGE0YWRiYzA5NmNjYjQw",
+  "snapshot_id": "MCxjZTYzODFjZDc4ODJhMzlhOGFkYjNlMTBhOTBjMzVmNzIwY2ZiMDUy",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -771,42 +771,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Tall Boy",
-        "url": "https://open.spotify.com/album/3xiSzk0ObgjDyMpr7SUY4w"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 140128,
-      "name": "Tall Boy",
-      "url": "https://open.spotify.com/track/74g98VNWX3HclMI3JfazVn"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "American Rebelution",
-        "url": "https://open.spotify.com/album/0N5anKkS2ywpioukIuU5YC"
-      },
-      "artists": [
-        {
-          "name": "The Lacs",
-          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
-        },
-        {
-          "name": "Montgomery Gentry",
-          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
-        }
-      ],
-      "duration_ms": 232941,
-      "name": "Jack In My Coke",
-      "url": "https://open.spotify.com/track/149jFcOq3geYOKnwF9DQT7"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "American White Trash",
         "url": "https://open.spotify.com/album/4qr6adlfQSmnuEksitsIYd"
       },
@@ -819,6 +783,22 @@
       "duration_ms": 167392,
       "name": "White Trash",
       "url": "https://open.spotify.com/track/4PQywXtsoLDSJQJe8WpIqv"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Tall Boy",
+        "url": "https://open.spotify.com/album/3xiSzk0ObgjDyMpr7SUY4w"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 140128,
+      "name": "Tall Boy",
+      "url": "https://open.spotify.com/track/74g98VNWX3HclMI3JfazVn"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -843,22 +823,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Blood Red",
-        "url": "https://open.spotify.com/album/3a70N0bVBOpzQfnaMOU3Gk"
-      },
-      "artists": [
-        {
-          "name": "Katie Noel",
-          "url": "https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt"
-        }
-      ],
-      "duration_ms": 157800,
-      "name": "Blood Red",
-      "url": "https://open.spotify.com/track/2Sg4k2Y2N2Ju0YZzCc81VN"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "COUNTRY FUZZ",
         "url": "https://open.spotify.com/album/3X1vz2Rj2Ld3KibvjaNVjV"
       },
@@ -871,6 +835,22 @@
       "duration_ms": 164334,
       "name": "Slow Rollin'",
       "url": "https://open.spotify.com/track/52FOkM2lmc1fXkzj9BULfO"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Blood Red",
+        "url": "https://open.spotify.com/album/3a70N0bVBOpzQfnaMOU3Gk"
+      },
+      "artists": [
+        {
+          "name": "Katie Noel",
+          "url": "https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt"
+        }
+      ],
+      "duration_ms": 157800,
+      "name": "Blood Red",
+      "url": "https://open.spotify.com/track/2Sg4k2Y2N2Ju0YZzCc81VN"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -939,6 +919,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Po-Dunk",
+        "url": "https://open.spotify.com/album/3vNP6j3Vc3hg8ftOsbi4gR"
+      },
+      "artists": [
+        {
+          "name": "Kid Rock",
+          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+        }
+      ],
+      "duration_ms": 271133,
+      "name": "Po-Dunk",
+      "url": "https://open.spotify.com/track/4IYnTLWG9mP1MNeFNjZm7T"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Work That",
         "url": "https://open.spotify.com/album/3wi2k5B4qfXu3EwmTsggjD"
       },
@@ -959,22 +955,6 @@
       "duration_ms": 184382,
       "name": "Work That",
       "url": "https://open.spotify.com/track/4k0Gpz3QD12vVV6XJF7uOy"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Po-Dunk",
-        "url": "https://open.spotify.com/album/3vNP6j3Vc3hg8ftOsbi4gR"
-      },
-      "artists": [
-        {
-          "name": "Kid Rock",
-          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
-        }
-      ],
-      "duration_ms": 271133,
-      "name": "Po-Dunk",
-      "url": "https://open.spotify.com/track/4IYnTLWG9mP1MNeFNjZm7T"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1039,22 +1019,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Southern",
-        "url": "https://open.spotify.com/album/0MyKGDeK3cGq2J2fkSMfhd"
-      },
-      "artists": [
-        {
-          "name": "Katie Noel",
-          "url": "https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt"
-        }
-      ],
-      "duration_ms": 183336,
-      "name": "Southern",
-      "url": "https://open.spotify.com/track/60TduAd1s7rhsqmzXQxk9m"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "If You're Gonna Be Dumb, You Gotta Be Tough (From \"Jackass Forever\")",
         "url": "https://open.spotify.com/album/3FAccrJLTeHLmi87LWMPCd"
       },
@@ -1071,6 +1035,46 @@
       "duration_ms": 210305,
       "name": "If You're Gonna Be Dumb, You Gotta Be Tough (From \"Jackass Forever\")",
       "url": "https://open.spotify.com/track/4nGSexnowpuB3BZ0Zxotru"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Southern",
+        "url": "https://open.spotify.com/album/0MyKGDeK3cGq2J2fkSMfhd"
+      },
+      "artists": [
+        {
+          "name": "Katie Noel",
+          "url": "https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt"
+        }
+      ],
+      "duration_ms": 183336,
+      "name": "Southern",
+      "url": "https://open.spotify.com/track/60TduAd1s7rhsqmzXQxk9m"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "A Hard Working Man (feat. Billy Ray Cyrus & Snoop Dogg)",
+        "url": "https://open.spotify.com/album/4xcTuorr2ywyrsnbzXqTbM"
+      },
+      "artists": [
+        {
+          "name": "Avila Brothers",
+          "url": "https://open.spotify.com/artist/0rK0A2f8enfBGIQghyAOmV"
+        },
+        {
+          "name": "Billy Ray Cyrus",
+          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 167919,
+      "name": "A Hard Working Man (feat. Billy Ray Cyrus & Snoop Dogg)",
+      "url": "https://open.spotify.com/track/0RNHYswDxxq1xooRh3PLza"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1111,46 +1115,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "A Hard Working Man (feat. Billy Ray Cyrus & Snoop Dogg)",
-        "url": "https://open.spotify.com/album/4xcTuorr2ywyrsnbzXqTbM"
-      },
-      "artists": [
-        {
-          "name": "Avila Brothers",
-          "url": "https://open.spotify.com/artist/0rK0A2f8enfBGIQghyAOmV"
-        },
-        {
-          "name": "Billy Ray Cyrus",
-          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 167919,
-      "name": "A Hard Working Man (feat. Billy Ray Cyrus & Snoop Dogg)",
-      "url": "https://open.spotify.com/track/0RNHYswDxxq1xooRh3PLza"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Yeah",
-        "url": "https://open.spotify.com/album/0McuDEqJtphpfw6hgEk5JN"
-      },
-      "artists": [
-        {
-          "name": "Austin Tolliver",
-          "url": "https://open.spotify.com/artist/3mJzTRR6NlyNWYkZ946WgC"
-        }
-      ],
-      "duration_ms": 197666,
-      "name": "Yeah",
-      "url": "https://open.spotify.com/track/2jACYdJzSd2VWwGX5DLqLb"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Goin' Back Down",
         "url": "https://open.spotify.com/album/72SXoGRMGpqVDZSdErzIU6"
       },
@@ -1171,18 +1135,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "STOMP YOUR BOOTS",
-        "url": "https://open.spotify.com/album/6Eu2ZNWz1pL800FFjxyxEZ"
+        "name": "Yeah",
+        "url": "https://open.spotify.com/album/0McuDEqJtphpfw6hgEk5JN"
       },
       "artists": [
         {
-          "name": "YA'BOYZ",
-          "url": "https://open.spotify.com/artist/7vMHsgM6Rlv8loZc594Z9I"
+          "name": "Austin Tolliver",
+          "url": "https://open.spotify.com/artist/3mJzTRR6NlyNWYkZ946WgC"
         }
       ],
-      "duration_ms": 151651,
-      "name": "STOMP YOUR BOOTS",
-      "url": "https://open.spotify.com/track/2di1pqbuFLM3tLsBVPHqdf"
+      "duration_ms": 197666,
+      "name": "Yeah",
+      "url": "https://open.spotify.com/track/2jACYdJzSd2VWwGX5DLqLb"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1199,6 +1163,22 @@
       "duration_ms": 192101,
       "name": "The Dream",
       "url": "https://open.spotify.com/track/7LjenQM99kDj7iwTHdjBg8"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "STOMP YOUR BOOTS",
+        "url": "https://open.spotify.com/album/6Eu2ZNWz1pL800FFjxyxEZ"
+      },
+      "artists": [
+        {
+          "name": "YA'BOYZ",
+          "url": "https://open.spotify.com/artist/7vMHsgM6Rlv8loZc594Z9I"
+        }
+      ],
+      "duration_ms": 151651,
+      "name": "STOMP YOUR BOOTS",
+      "url": "https://open.spotify.com/track/2di1pqbuFLM3tLsBVPHqdf"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1307,22 +1287,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Redneck for Life",
-        "url": "https://open.spotify.com/album/1ypzyztupNqTNsUiEOKyML"
-      },
-      "artists": [
-        {
-          "name": "The Lacs",
-          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
-        }
-      ],
-      "duration_ms": 172848,
-      "name": "Redneck for Life",
-      "url": "https://open.spotify.com/track/2NB5htgkwRdIau2l2wQXEf"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Redneck Rich",
         "url": "https://open.spotify.com/album/2HPDTl7R8lbS0ixXjq8d0Q"
       },
@@ -1387,6 +1351,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Redneck for Life",
+        "url": "https://open.spotify.com/album/1ypzyztupNqTNsUiEOKyML"
+      },
+      "artists": [
+        {
+          "name": "The Lacs",
+          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
+        }
+      ],
+      "duration_ms": 172848,
+      "name": "Redneck for Life",
+      "url": "https://open.spotify.com/track/2NB5htgkwRdIau2l2wQXEf"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Roll With Me (feat. Chris Hurt)",
         "url": "https://open.spotify.com/album/0Z9gSWFPbpjJ9HlADRXnFE"
       },
@@ -1407,6 +1387,30 @@
       "duration_ms": 235416,
       "name": "Roll With Me (feat. Chris Hurt)",
       "url": "https://open.spotify.com/track/4QnytqrOi9fZdqydZIaFDG"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Lethal",
+        "url": "https://open.spotify.com/album/0GbkBN6oG4gtSx5JuFQ9Ci"
+      },
+      "artists": [
+        {
+          "name": "Moccasin Creek",
+          "url": "https://open.spotify.com/artist/0NbK6zi0udNSXMzL7Ekq5T"
+        },
+        {
+          "name": "Tommy Chayne",
+          "url": "https://open.spotify.com/artist/3EuDaf0CO8MR6eH3ax8EHO"
+        },
+        {
+          "name": "Hard Target",
+          "url": "https://open.spotify.com/artist/2YqvF0mZUjjtRyMP4vyGUf"
+        }
+      ],
+      "duration_ms": 231823,
+      "name": "Watch This",
+      "url": "https://open.spotify.com/track/0q8DxBCyj91Wrh1zlmcx5H"
     },
     {
       "added_at": "2023-05-19 04:00:00",

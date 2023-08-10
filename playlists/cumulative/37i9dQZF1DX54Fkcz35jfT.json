@@ -81,7 +81,7 @@
     },
     {
       "album": {
-        "name": "ANORAK! / DIMWORK Split",
+        "name": "ANORAK! / DIMWORK",
         "url": "https://open.spotify.com/album/104w26GFWkYQErMzsQ8ISZ"
       },
       "artists": [
@@ -276,7 +276,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 175532,
       "name": "Dancer in the Dark",
       "url": "https://open.spotify.com/track/4ZOwl7AnpD3SSRQrZdvjBI"
@@ -579,6 +579,24 @@
     },
     {
       "album": {
+        "name": "HiDE and SEEK",
+        "url": "https://open.spotify.com/album/5e4gJZl8oBksBmBmLvM7b3"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217972,
+      "name": "HiDE and SEEK",
+      "url": "https://open.spotify.com/track/2b1DGuCTkavcf22pnv7J1X"
+    },
+    {
+      "album": {
         "name": "PLAYDEAD",
         "url": "https://open.spotify.com/album/0mPlC0jXRvXDqCyUt5VI2b"
       },
@@ -590,7 +608,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 217972,
       "name": "HiDE and SEEK",
       "url": "https://open.spotify.com/track/6PPjUuBlAKwx1V2a74EICX"
@@ -1034,6 +1052,24 @@
       "duration_ms": 235973,
       "name": "NAME",
       "url": "https://open.spotify.com/track/38b2nMKtd1qiVBkULMQti2"
+    },
+    {
+      "album": {
+        "name": "Neppa Mappa",
+        "url": "https://open.spotify.com/album/0q8ovRRn70ximHNiFdd6Fu"
+      },
+      "artists": [
+        {
+          "name": "Happy Heads NANIYORI",
+          "url": "https://open.spotify.com/artist/6jkKuw4J4SWKrPQCcPGEYl"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202480,
+      "name": "Neppa Mappa",
+      "url": "https://open.spotify.com/track/1yk0SSa84LDFar4tcBLVDM"
     },
     {
       "album": {
@@ -1853,6 +1889,24 @@
     },
     {
       "album": {
+        "name": "\u30ae\u30df\u00a5\u30a8\u30f3~Give me yen",
+        "url": "https://open.spotify.com/album/7cO4cBDEdMvJqzk04iye21"
+      },
+      "artists": [
+        {
+          "name": "BACKSHOW",
+          "url": "https://open.spotify.com/artist/3mD0HSVVmh2kNCfbdDlF1D"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185877,
+      "name": "\u30ae\u30df\u00a5\u30a8\u30f3~Give me yen",
+      "url": "https://open.spotify.com/track/4DMxsnb7a1AT1j11z8M4rC"
+    },
+    {
+      "album": {
         "name": "\u30b3\u30a4\u30b3\u30ac\u30ec",
         "url": "https://open.spotify.com/album/71gRqLVrm4OMLRUYXMkWbu"
       },
@@ -2102,7 +2156,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 202480,
       "name": "\u7740\u706b\u7e5a\u4e71\u30d3\u30f3\u30d3\u30f3\u30d3\u30f3",
       "url": "https://open.spotify.com/track/5MSgh1ZQRZVatwmkaVmZJ9"

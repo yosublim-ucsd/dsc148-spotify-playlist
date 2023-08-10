@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QlnUtJCO12.md) - [plain]
 
 > Discover Trinidad & Tobago's rich musical history with these traditional Calypso tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,821 likes - 40 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,862 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QlnUtJCO12.md) - [plain]
 | 10 | [Don't Touch Me Tomato](https://open.spotify.com/track/4T0vtk187B4c75WSc71jeq) | [Calypso Mama](https://open.spotify.com/artist/2t2wB82iIBJwcj0kVkgupy) | [Muriel's Treasure, Vol\. 3: Vintage Calypso from the 1950s & 1960s](https://open.spotify.com/album/1q2ALrnbfYsMdbNAhKPpPX) | 2:14 |
 | 11 | [Taxi Driver](https://open.spotify.com/track/4bvPevGfBIGMujMTwpcXME) | [Small Island Pride](https://open.spotify.com/artist/7ugF6nfdSQf3Lgl58uKeCL) | [Calypso Awakening from the Emory Cook Collection](https://open.spotify.com/album/5IBNyUVIPDVZORyS0nUaRj) | 3:28 |
 | 12 | [Sugar Bum Bum](https://open.spotify.com/track/149qzbNc27hQO3EGqUjGCq) | [Lord Kitchener](https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK) | [Forever Vol.1](https://open.spotify.com/album/50ewdI3akLHpuLJRlTuYgY) | 6:05 |
-| 13 | [The Weed \(Man Pyabba\)](https://open.spotify.com/track/6vFcUp67PGMjZdSKvney6Y) | [Count Lasher](https://open.spotify.com/artist/0J2rvUNb5LPOFUV3aWY6Xl), [Lynn Taitt](https://open.spotify.com/artist/2AOn8ToM1vaab3wtU74ldy), [The Baba Brooks Band](https://open.spotify.com/artist/2CvWN4mkeo5qpINkGALdgQ) | [Independence Jump Up Calypso](https://open.spotify.com/album/2dfghX8adIwzkl4LwWLoRE) | 2:59 |
-| 14 | [Calypsonian Invasion](https://open.spotify.com/track/0oLlOtIYnH5kwSEOJoEarY) | [The Duke Of Iron](https://open.spotify.com/artist/24SUuBMfJRRKPZxkTJ8p81) | [Calypso Carnival \(Remastered\)](https://open.spotify.com/album/3rW38tUEFXgE1YKVkRlZFh) | 3:00 |
+| 13 | [Calypsonian Invasion](https://open.spotify.com/track/0oLlOtIYnH5kwSEOJoEarY) | [The Duke Of Iron](https://open.spotify.com/artist/24SUuBMfJRRKPZxkTJ8p81) | [Calypso Carnival \(Remastered\)](https://open.spotify.com/album/3rW38tUEFXgE1YKVkRlZFh) | 3:00 |
+| 14 | [The Weed \(Man Pyabba\)](https://open.spotify.com/track/6vFcUp67PGMjZdSKvney6Y) | [Count Lasher](https://open.spotify.com/artist/0J2rvUNb5LPOFUV3aWY6Xl), [Lynn Taitt](https://open.spotify.com/artist/2AOn8ToM1vaab3wtU74ldy), [The Baba Brooks Band](https://open.spotify.com/artist/2CvWN4mkeo5qpINkGALdgQ) | [Independence Jump Up Calypso](https://open.spotify.com/album/2dfghX8adIwzkl4LwWLoRE) | 2:59 |
 | 15 | [Brown Skin Girl](https://open.spotify.com/track/5IM2g33UlqKoLjjvgnP0Rp) | [Lord Invader](https://open.spotify.com/artist/1S1XUYadNLS2gkRKSxG1vl) | [Calypso](https://open.spotify.com/album/7zMd2ZyCLK83STGzNxDz5l) | 2:51 |
 | 16 | [Mathilda](https://open.spotify.com/track/58QM6vTydk6LzncOy6EyVX) | [King Radio](https://open.spotify.com/artist/0ju2V8V3UTfxrNCEVPPnnc) | [Calypso \- Best of Trinidad](https://open.spotify.com/album/7IS3bwe2NcqaZBePqAWecb) | 2:41 |
 | 17 | [Carnival Proclamation](https://open.spotify.com/track/5k6fy2tWt4a08ffsOtjuW6) | [Lord Melody](https://open.spotify.com/artist/763Br9i2W8Zy7Qpuog90Ka) | [Lord Melody Sings Calypso](https://open.spotify.com/album/6f8R8HDMPeAnhR5NIoCu8e) | 2:43 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QlnUtJCO12.md) - [plain]
 | 39 | [Woman Is Not The Weaker Sex](https://open.spotify.com/track/2OfEqAYJZalVNH69IBVkYi) | [Atilla](https://open.spotify.com/artist/3RsBkhmkDKitjXca4qArAz) | [Calypso \- Best of Trinidad](https://open.spotify.com/album/7IS3bwe2NcqaZBePqAWecb) | 2:55 |
 | 40 | [Blow Wind Blow](https://open.spotify.com/track/42FHEJKS0K5eEbY5hQLaAj) | [Lionel Belasco](https://open.spotify.com/artist/4cPFaFsaRAuAdh5qhZHCXf) | [Calypso Legends](https://open.spotify.com/album/2hcNJdaOsTyGg9T7c54EBJ) | 3:07 |
 
-Snapshot ID: `MCxmZjI2MjA3YmQ3NTM2OGQzMWYzYWZlZWVhOTNiYjJmMzI2NDUxYmE3`
+Snapshot ID: `MCxkYWRhOTdhZjM3MTU3NTY5MGExZjQ4M2U0MDQxOWU1YzI3MDkwYmY3`

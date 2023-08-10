@@ -4,7 +4,7 @@
 
 > This is La Arrolladora Banda El Limón De Rene Camacho\. The essential tracks, all in one playlist.
 
-51 songs - 2 hr 53 min
+52 songs - 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Más Adelante](https://open.spotify.com/track/56xpQv8NgsV68PPYpEVDr4) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Más Adelante](https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB) | 3:32 | 2023-08-08 |  |
 | [Niña De Mi Corazón](https://open.spotify.com/track/2UZoSuDO0D6y9bW9Z3Hkng) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Todo Depende De Ti](https://open.spotify.com/album/2pPGfPv8AKkeFyTtgHTOUr) | 3:08 | 2023-08-08 |  |
 | [No Me Vengas A Decir](https://open.spotify.com/track/7mhJXOlgjDrdnyh0ZzvJdu) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Irreversible..\. 2012](https://open.spotify.com/album/4j0AeP8UC2H2Qcrjck1haF) | 3:07 | 2023-08-08 |  |
+| [No Supe Cuidarte](https://open.spotify.com/track/3pEV1D789o7rm2wvHdrAF0) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Todo Depende De Ti](https://open.spotify.com/album/2pPGfPv8AKkeFyTtgHTOUr) | 3:20 | 2023-08-09 |  |
 | [Nunca Dudes En Llamarme](https://open.spotify.com/track/2cS7uDj2vfJeUazHoKJnyu) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Nunca Dudes En Llamarme](https://open.spotify.com/album/3fahKcjOep1m0j2jovzx96) | 3:24 | 2023-08-08 |  |
 | [Perdón ¿Por Qué?](https://open.spotify.com/track/05j5qhTcoVl3WTdMVQEOqc) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Simplemente Arrolladora](https://open.spotify.com/album/6WBda3pmvB70QXDRRw1cSv) | 3:07 | 2023-08-08 |  |
 | [Se Les Pelo Baltazar](https://open.spotify.com/track/5SQPSfvwQiu0g3HTOSm7Iv) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Secretos De Mi Memoria](https://open.spotify.com/album/7uiQrtdG9S5vltQrvdK6Ik) | 2:23 | 2023-08-08 |  |
@@ -47,7 +48,7 @@
 | [Secretos De Mi Memoria](https://open.spotify.com/track/09aZzS1QTGtrBx4Ys0xIRr) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Secretos De Mi Memoria](https://open.spotify.com/album/7uiQrtdG9S5vltQrvdK6Ik) | 4:07 | 2023-08-08 |  |
 | [Si Tu Amor No Vuelve](https://open.spotify.com/track/4BU4gDeAJ2BTLWqCs9SRU4) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [La Otra Cara De La Moneda](https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC) | 4:07 | 2023-08-08 |  |
 | [Si Yo Te Contara](https://open.spotify.com/track/1uziiqdJSWCbAINo8s68CX) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Más Adelante](https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB) | 3:45 | 2023-08-08 |  |
-| [Sobre Mis Pies](https://open.spotify.com/track/0bCpwmdqIJhcCkf6P1zNSa) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Y Que Quede Claro](https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk) | 4:08 | 2023-08-08 |  |
+| [Sobre Mis Pies](https://open.spotify.com/track/0bCpwmdqIJhcCkf6P1zNSa) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Y Que Quede Claro](https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk) | 4:08 | 2023-08-08 | 2023-08-10 |
 | [Te Estaré Esperando](https://open.spotify.com/track/3IyUWwRHrMYHNdatyRcCEr) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Más Adelante](https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB) | 4:04 | 2023-08-08 |  |
 | [Tiene Razón La Lógica](https://open.spotify.com/track/24EmEWZb7PM3AtHtvOIcFu) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Calidad Y Cantidad](https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl) | 3:26 | 2023-08-08 |  |
 | [Todo Depende De Ti](https://open.spotify.com/track/1unwIlqSOvwZgB38pG0GlU) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Todo Depende De Ti](https://open.spotify.com/album/2pPGfPv8AKkeFyTtgHTOUr) | 3:17 | 2023-08-08 |  |

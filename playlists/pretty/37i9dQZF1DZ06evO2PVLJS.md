@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PVLJS.md) - [plain]
 
 > This is Vicente Fernández\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 933,449 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 933,834 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PVLJS.md) - [plain]
 | 32 | [Señora de Tal](https://open.spotify.com/track/55pnB5yA9nhyM0IMw3k4tq) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Tahur](https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd) | 3:09 |
 | 33 | [Bohemio de Afición](https://open.spotify.com/track/2UCxVajVSBmExOoUamjtMd) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Entre El Amor Y Yo](https://open.spotify.com/album/3gDr14ItIjCEpR2UJ1wCLU) | 3:26 |
 | 34 | [Nos Estorbo la Ropa](https://open.spotify.com/track/50WauvH7qWK3TeatWSrq2S) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Estatua De Marfil](https://open.spotify.com/album/6dujkPGtA0MrnvMZ0MEZmu) | 3:04 |
-| 35 | [La Misma](https://open.spotify.com/track/6Fh3sBmdvUDb3pO8MjZBaW) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Si No Te Quisiera](https://open.spotify.com/album/1e3v7b33tm3jZfqNKSg5gT) | 3:09 |
+| 35 | [El Cantador](https://open.spotify.com/track/6y8iJP2KfqGUNizBgAVRxG) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Mi Amigo El Tordillo](https://open.spotify.com/album/1SkIUJypyRV6ThRYuwAxES) | 2:47 |
 | 36 | [La Ruleta](https://open.spotify.com/track/1mUKGq3IMIhAIB1LZTaZt0) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Tahur](https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd) | 3:01 |
-| 37 | [El Cantador](https://open.spotify.com/track/6y8iJP2KfqGUNizBgAVRxG) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Mi Amigo El Tordillo](https://open.spotify.com/album/1SkIUJypyRV6ThRYuwAxES) | 2:47 |
+| 37 | [La Misma](https://open.spotify.com/track/6Fh3sBmdvUDb3pO8MjZBaW) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Si No Te Quisiera](https://open.spotify.com/album/1e3v7b33tm3jZfqNKSg5gT) | 3:09 |
 | 38 | [Escuché las Golondrinas](https://open.spotify.com/track/6kRaonmi8YMTCy8LpGfhOy) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Hijo Del Pueblo](https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn) | 3:13 |
 | 39 | [Cruz de Olvido](https://open.spotify.com/track/2vJyNEy7aNXMZomvzn5bJo) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [La Muerte De Un Gallero](https://open.spotify.com/album/63Z87jsEERYnhzD0oqAf0w) | 3:22 |
 | 40 | [Si Te Vas No Hay Lio](https://open.spotify.com/track/5bpu1kq0uHOd5I8B65tSkm) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Mujeres Divinas](https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4) | 2:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PVLJS.md) - [plain]
 | 49 | [Mi Viejo](https://open.spotify.com/track/5jmuiCbNU1SEvFKqMadOZR) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Mi Viejo](https://open.spotify.com/album/6H1Ru58NKY7aNmHNEic44G) | 3:10 |
 | 50 | [La Primera Caricia](https://open.spotify.com/track/7gNiJxQc1qalCS2aH4VNWk) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Hijo Del Pueblo](https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn) | 2:43 |
 
-Snapshot ID: `MjgxOTE2NzksMDAwMDAwMDAxZjIzOWJiOTNlYzFmM2Q2MmE3NTE0MTFhNDc4ZjJiYQ==`
+Snapshot ID: `MjgxOTMwNjYsMDAwMDAwMDA5NmYxNDBkYTgxMjUxYmFjZDdhYWJjMjMyZDkxYjU1MA==`

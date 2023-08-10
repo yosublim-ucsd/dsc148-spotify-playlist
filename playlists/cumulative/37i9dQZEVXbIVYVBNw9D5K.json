@@ -2962,7 +2962,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 161505,
       "name": "Cano",
       "url": "https://open.spotify.com/track/0zQ8vXWLqSyBi5bYebveW1"
@@ -4310,7 +4310,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-09",
+      "date_removed": null,
       "duration_ms": 170666,
       "name": "Enerci",
       "url": "https://open.spotify.com/track/3a8mVeic6p5DdMSbsQXWIx"
@@ -4328,7 +4328,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 170737,
       "name": "Enerci",
       "url": "https://open.spotify.com/track/6OwX9jzYTrJESYoPid6aLN"
@@ -11264,6 +11264,24 @@
       "duration_ms": 188500,
       "name": "Seni Dert Etmeler",
       "url": "https://open.spotify.com/track/10n66m41IGjA2ZulKPK7Ew"
+    },
+    {
+      "album": {
+        "name": "Mesafeler",
+        "url": "https://open.spotify.com/album/3pJ9WVk6gzk3mgNjecQf35"
+      },
+      "artists": [
+        {
+          "name": "Erkin Koray",
+          "url": "https://open.spotify.com/artist/4o3Nv2BAyoZkyGaRXv4rT3"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199173,
+      "name": "Seni Her G\u00f6rd\u00fc\u011f\u00fcmde",
+      "url": "https://open.spotify.com/track/5MAv1RGwsagnfxgzB1nYqz"
     },
     {
       "album": {

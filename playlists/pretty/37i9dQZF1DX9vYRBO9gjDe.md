@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。8月7日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,080 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,125 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [カイホウエクササイズ](https://open.spotify.com/track/2tTPejaBtaPEWcBJtvv9P5) | [あめんぼぷらす](https://open.spotify.com/artist/0KjvTQxR8sppzLt3alI7Sn) | [カイホウエクササイズ](https://open.spotify.com/album/67R2kZJwEfuNipqSUUdNAw) | 3:06 |
 | 50 | [My SunShine](https://open.spotify.com/track/6GKFApM8JUVrYTSxXk2S5w) | [ROCK'A'TRENCH](https://open.spotify.com/artist/1kWzWCT81LMI1c5FpWPc4u) | [My SunShine](https://open.spotify.com/album/2LaW6wQmzkNHZw8hKpLkeA) | 4:28 |
 
-Snapshot ID: `MCw5OWE1YmU4OTk2YmMwZTFmY2MxNWY1Mjg5ODgzMjUzNzM4MjQzNjgx`
+Snapshot ID: `MCwxYTFkZWZlMWRmYmM5ZGQ4MzFjZWU5NjI1NzA5N2M5YTVjZWZkMWEy`

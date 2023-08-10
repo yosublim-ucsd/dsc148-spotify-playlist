@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 6928,
+  "num_followers": 6942,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjhhMGM3NDU3YjJiNTg0MDRkMTIwN2Y0OGRlNmU3MTUzY2NhMjdi",
+  "snapshot_id": "MCw0N2U0MDMwMjY5YTQ2NWUxZTRjN2FiZTIyNmQ5MGZkYjcxYTg2ZmI3",
   "tracks": [
     {
       "added_at": "2023-06-30 05:46:00",
@@ -239,26 +239,6 @@
     {
       "added_at": "2023-06-30 05:46:00",
       "album": {
-        "name": "ALL-YOU-CAN-EAT VOL.1",
-        "url": "https://open.spotify.com/album/3MmERnIFWoyKMAlRnXeJGX"
-      },
-      "artists": [
-        {
-          "name": "Comida Para Llevar",
-          "url": "https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO"
-        },
-        {
-          "name": "Motherflowers",
-          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
-        }
-      ],
-      "duration_ms": 219341,
-      "name": "Que Te Vaya Mal",
-      "url": "https://open.spotify.com/track/55Q02TFgJewHvTLKtrCRJj"
-    },
-    {
-      "added_at": "2023-06-30 05:46:00",
-      "album": {
         "name": "All Night Long",
         "url": "https://open.spotify.com/album/2PuKW3LCrVlfbIY1u4RoMe"
       },
@@ -275,6 +255,26 @@
       "duration_ms": 260156,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho"
+    },
+    {
+      "added_at": "2023-06-30 05:46:00",
+      "album": {
+        "name": "ALL-YOU-CAN-EAT VOL.1",
+        "url": "https://open.spotify.com/album/3MmERnIFWoyKMAlRnXeJGX"
+      },
+      "artists": [
+        {
+          "name": "Comida Para Llevar",
+          "url": "https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO"
+        },
+        {
+          "name": "Motherflowers",
+          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
+        }
+      ],
+      "duration_ms": 219341,
+      "name": "Que Te Vaya Mal",
+      "url": "https://open.spotify.com/track/55Q02TFgJewHvTLKtrCRJj"
     },
     {
       "added_at": "2023-06-30 05:46:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-06-30 05:46:00",
       "album": {
-        "name": "Nene",
-        "url": "https://open.spotify.com/album/0tgy5chY8udqVnwvAoFMBG"
-      },
-      "artists": [
-        {
-          "name": "Mit\u00fa",
-          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
-        }
-      ],
-      "duration_ms": 201700,
-      "name": "Nene",
-      "url": "https://open.spotify.com/track/4072ATOEodtwhvqNn6YZ40"
-    },
-    {
-      "added_at": "2023-06-30 05:46:00",
-      "album": {
         "name": "Ahomale",
         "url": "https://open.spotify.com/album/5T8HiC9DBepOkVyHur3AHe"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 298520,
       "name": "Esto Es Real (8100mg)",
       "url": "https://open.spotify.com/track/5FWW3dZqsqN3ryZqBpsmFS"
+    },
+    {
+      "added_at": "2023-06-30 05:46:00",
+      "album": {
+        "name": "Nene",
+        "url": "https://open.spotify.com/album/0tgy5chY8udqVnwvAoFMBG"
+      },
+      "artists": [
+        {
+          "name": "Mit\u00fa",
+          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
+        }
+      ],
+      "duration_ms": 201700,
+      "name": "Nene",
+      "url": "https://open.spotify.com/track/4072ATOEodtwhvqNn6YZ40"
     },
     {
       "added_at": "2023-06-30 05:46:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-06-30 05:46:00",
       "album": {
+        "name": "Supernatural Love",
+        "url": "https://open.spotify.com/album/5UqBaTISwlVwyjVZJZP8ec"
+      },
+      "artists": [
+        {
+          "name": "Sidestepper",
+          "url": "https://open.spotify.com/artist/6HnF6i8GjIQbRbUmGXvr1B"
+        }
+      ],
+      "duration_ms": 284493,
+      "name": "Fuego Que Te Llama",
+      "url": "https://open.spotify.com/track/5W6rZxS6qNfdGsnify1ctY"
+    },
+    {
+      "added_at": "2023-06-30 05:46:00",
+      "album": {
         "name": "V\u00e1yanse Todos A Mam\u00e1",
         "url": "https://open.spotify.com/album/2wYOAS6qRNW0MVZ6ThpQbC"
       },
@@ -799,22 +815,6 @@
     {
       "added_at": "2023-06-30 05:46:00",
       "album": {
-        "name": "Supernatural Love",
-        "url": "https://open.spotify.com/album/5UqBaTISwlVwyjVZJZP8ec"
-      },
-      "artists": [
-        {
-          "name": "Sidestepper",
-          "url": "https://open.spotify.com/artist/6HnF6i8GjIQbRbUmGXvr1B"
-        }
-      ],
-      "duration_ms": 284493,
-      "name": "Fuego Que Te Llama",
-      "url": "https://open.spotify.com/track/5W6rZxS6qNfdGsnify1ctY"
-    },
-    {
-      "added_at": "2023-06-30 05:46:00",
-      "album": {
         "name": "All Inclusive",
         "url": "https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI"
       },
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-06-30 05:46:00",
       "album": {
-        "name": "Rumbo a Tiera",
-        "url": "https://open.spotify.com/album/3ly8UdrXp9i8tlOiRft6We"
+        "name": "Quiz\u00e1s (La Historia de Nosotros)",
+        "url": "https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7"
       },
       "artists": [
         {
-          "name": "Systema Solar",
-          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
+          "name": "Alex Eugenio",
+          "url": "https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR"
         }
       ],
-      "duration_ms": 212946,
-      "name": "Tumbamurallas",
-      "url": "https://open.spotify.com/track/2IkCZUGLS7o2tkocsMNgC9"
+      "duration_ms": 203761,
+      "name": "Quiz\u00e1s (La Historia de Nosotros)",
+      "url": "https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A"
     },
     {
       "added_at": "2023-06-30 05:46:00",
@@ -863,18 +863,18 @@
     {
       "added_at": "2023-06-30 05:46:00",
       "album": {
-        "name": "Quiz\u00e1s (La Historia de Nosotros)",
-        "url": "https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7"
+        "name": "Rumbo a Tiera",
+        "url": "https://open.spotify.com/album/3ly8UdrXp9i8tlOiRft6We"
       },
       "artists": [
         {
-          "name": "Alex Eugenio",
-          "url": "https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR"
+          "name": "Systema Solar",
+          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
         }
       ],
-      "duration_ms": 203761,
-      "name": "Quiz\u00e1s (La Historia de Nosotros)",
-      "url": "https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A"
+      "duration_ms": 212946,
+      "name": "Tumbamurallas",
+      "url": "https://open.spotify.com/track/2IkCZUGLS7o2tkocsMNgC9"
     },
     {
       "added_at": "2023-06-30 05:46:00",

@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Edgardo Nuñez en portada.
 
-361 songs - 19 hr 30 min
+362 songs - 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Enloquecido](https://open.spotify.com/track/3T5F6ulZvDzBQwq3wS31xZ) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Enloquecido](https://open.spotify.com/album/7pm3bU5WKxGhRI5uyfOKuI) | 3:32 | 2022-09-02 |  |
 | [Enseñame a Olvidar \(En Vivo Desde El Domo Care\)](https://open.spotify.com/track/17NvNZU6xNjXgpFwwGpdhf) | [PALOMAZO NORTEÑO](https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC), [Raúl Hernández](https://open.spotify.com/artist/27eiCnSgvMyOyJAm7sEVOB), [Eliseo Robles](https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y) | [PALOMAZO NORTEÑO \(En Vivo Desde El Domo Care\)](https://open.spotify.com/album/1BdNEO3z0uF5axyODDHoGX) | 4:28 | 2023-06-07 |  |
 | [Eres Ese Algo](https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Al Derecho Y Al Reverso](https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN) | 2:53 | 2022-12-22 |  |
-| [Eres Libre](https://open.spotify.com/track/4XaoxWelcmesrOxj8JZOp1) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2), [Grupo Los de Chiwas](https://open.spotify.com/artist/55UyMd1aJojv9xFEg5cLbR) | [Eres Libre](https://open.spotify.com/album/76KzDILvX2jA1gSgeeBRnF) | 2:51 | 2023-01-27 |  |
+| [Eres Libre](https://open.spotify.com/track/4XaoxWelcmesrOxj8JZOp1) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2), [Grupo Los de Chiwas](https://open.spotify.com/artist/55UyMd1aJojv9xFEg5cLbR) | [Eres Libre](https://open.spotify.com/album/76KzDILvX2jA1gSgeeBRnF) | 2:51 | 2023-01-27 | 2023-08-10 |
 | [Eres Mi Crush](https://open.spotify.com/track/6ICVAdLNgkyd0k30kVDkFi) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Eres Mi Crush](https://open.spotify.com/album/0sK2BZyFjskAQMP7TYBKOp) | 2:41 | 2021-12-17 |  |
 | [Eres un encanto \- En vivo](https://open.spotify.com/track/04xY2a4sWhjc1zCAdFwGSJ) | [Israel Morales](https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW) | [En vivo desde El Potrero](https://open.spotify.com/album/5aUra0wikb6Z7C5lms9DMf) | 3:23 | 2022-12-09 | 2022-12-24 |
 | [Especial](https://open.spotify.com/track/71vXdFRVs79sf3RpU9SowK) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Más Especial](https://open.spotify.com/album/0kU4Vxyjla23phoLSvyoug) | 3:06 | 2022-04-15 | 2022-07-12 |
@@ -176,6 +176,7 @@
 | [La Bachata](https://open.spotify.com/track/6jL2uRZSFjMPwNakVHcES1) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [La Bachata](https://open.spotify.com/album/7cY7BkHL3u4QmvfWSNF1as) | 2:58 | 2023-01-30 |  |
 | [La Bailadora](https://open.spotify.com/track/2l52pr1dzM4fHEhQUMqOAU) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Aclarando la Mente](https://open.spotify.com/album/1g0abe216Yaxv2GNMaaL6L) | 3:25 | 2022-11-04 |  |
 | [LA BATALLA](https://open.spotify.com/track/2f6kTXnPoc2xgl9gTvElJ0) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [LA BATALLA](https://open.spotify.com/album/5yT4FHuFhmsN7EZkL9xdcb) | 3:05 | 2023-07-14 |  |
+| [La Boda del Huitlacoche \- En Vivo](https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Borrachera Con los Honorables \(En Vivo\)](https://open.spotify.com/album/5Js6rpaXDIBbdJA5Xn8AYd) | 3:08 | 2023-08-08 |  |
 | [La Boda Del Huitlacoche \- Live](https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Borrachera Con Los Honorables \(Live\)](https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv) | 3:08 | 2022-04-15 | 2023-08-09 |
 | [La del Pendejo](https://open.spotify.com/track/7DKx66HCif9PZeUh5oNQML) | [Los Herederos De Nuevo León](https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI) | [La del Pendejo](https://open.spotify.com/album/6ilsQw6Zw27ElN7DFxvZnN) | 2:52 | 2022-07-01 | 2022-07-29 |
 | [La Era de Hielo](https://open.spotify.com/track/4R4FuabnmYK4I4D3OrpPTX) | [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF) | [La Era de Hielo](https://open.spotify.com/album/2LHB7Gd2kXnql2xv7TsYOT) | 4:03 | 2022-07-01 | 2022-07-29 |

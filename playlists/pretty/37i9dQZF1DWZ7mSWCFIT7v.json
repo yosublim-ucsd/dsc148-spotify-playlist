@@ -1,12 +1,12 @@
 {
   "description": "time-stretching granular synthesis. ",
-  "num_followers": 91626,
+  "num_followers": 91675,
   "original_name": "bleeps ^ glitches",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGMyMWI2OTY2ZWZhZmY1Zjg5M2NkZjQwNmZjZTZiNzhhZTg0MzUz",
+  "snapshot_id": "MCwzNzJhM2RlN2M3OTFhOWVlMTk4ZjE1Y2FlMjUyNTM2YjI0ZTY1YTUy",
   "tracks": [
     {
       "added_at": "2023-07-28 21:28:53",
@@ -435,6 +435,38 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/6a6QDSVW69j9RM5o0VqwTv"
+      },
+      "artists": [
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        }
+      ],
+      "duration_ms": 209806,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/7tasS3I1UPfb4i1YsNiLst"
+    },
+    {
+      "added_at": "2021-11-25 22:12:36",
+      "album": {
+        "name": "Patterns Of Consciousness",
+        "url": "https://open.spotify.com/album/0NzTh2r6EOk9JDWkRHkeYS"
+      },
+      "artists": [
+        {
+          "name": "Caterina Barbieri",
+          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
+        }
+      ],
+      "duration_ms": 947500,
+      "name": "Gravity that Binds",
+      "url": "https://open.spotify.com/track/7dS9nthl03XLZySLWLuSRh"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
         "name": "Pure, Impure",
         "url": "https://open.spotify.com/album/7C3flv2nzeBoNHVrptYz6o"
       },
@@ -453,22 +485,6 @@
       "url": "https://open.spotify.com/track/4JT4orneDAvaWkjUTuwShZ"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/6a6QDSVW69j9RM5o0VqwTv"
-      },
-      "artists": [
-        {
-          "name": "Jacques Greene",
-          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
-        }
-      ],
-      "duration_ms": 209806,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/7tasS3I1UPfb4i1YsNiLst"
-    },
-    {
       "added_at": "2023-04-15 02:42:19",
       "album": {
         "name": "No Highs",
@@ -483,22 +499,6 @@
       "duration_ms": 511951,
       "name": "Lotus Light",
       "url": "https://open.spotify.com/track/7E5YAVrt11Xkgl0jhXLgAP"
-    },
-    {
-      "added_at": "2021-11-25 22:12:36",
-      "album": {
-        "name": "Patterns Of Consciousness",
-        "url": "https://open.spotify.com/album/0NzTh2r6EOk9JDWkRHkeYS"
-      },
-      "artists": [
-        {
-          "name": "Caterina Barbieri",
-          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
-        }
-      ],
-      "duration_ms": 947500,
-      "name": "Gravity that Binds",
-      "url": "https://open.spotify.com/track/7dS9nthl03XLZySLWLuSRh"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -549,6 +549,22 @@
       "url": "https://open.spotify.com/track/6ls8JBd8DVecHSDZ2ArxsX"
     },
     {
+      "added_at": "2022-07-08 04:56:00",
+      "album": {
+        "name": "Spirit Exit",
+        "url": "https://open.spotify.com/album/5KHpUME9BlHi5Dhf3thJoH"
+      },
+      "artists": [
+        {
+          "name": "Caterina Barbieri",
+          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
+        }
+      ],
+      "duration_ms": 619200,
+      "name": "Knot of Spirit - Synth Version",
+      "url": "https://open.spotify.com/track/3oJPt3XTWFAfISXhJlSI7H"
+    },
+    {
       "added_at": "2022-08-03 03:12:27",
       "album": {
         "name": "Sons Of",
@@ -585,22 +601,6 @@
       "url": "https://open.spotify.com/track/6Yj3LX9pxXCIL4fZTAlYkU"
     },
     {
-      "added_at": "2022-12-20 22:24:39",
-      "album": {
-        "name": "Whatever The Weather",
-        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
-      },
-      "artists": [
-        {
-          "name": "Whatever The Weather",
-          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
-        }
-      ],
-      "duration_ms": 262375,
-      "name": "10\u00b0C",
-      "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Tar (Jan Jelinek Remix)",
@@ -621,6 +621,22 @@
       "url": "https://open.spotify.com/track/05bgEZbUZ9tEwbhfRN8UJC"
     },
     {
+      "added_at": "2022-12-20 22:24:39",
+      "album": {
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "duration_ms": 262375,
+      "name": "10\u00b0C",
+      "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
+    },
+    {
       "added_at": "2023-04-15 02:42:19",
       "album": {
         "name": "FOREVERANDEVERNOMORE (FOREVER VOICELESS EDITION)",
@@ -635,22 +651,6 @@
       "duration_ms": 205906,
       "name": "Ch\u00e9ri - Instrumental",
       "url": "https://open.spotify.com/track/3oBIxCgN5rcjO3WaIiFu0r"
-    },
-    {
-      "added_at": "2022-07-08 04:56:00",
-      "album": {
-        "name": "Spirit Exit",
-        "url": "https://open.spotify.com/album/5KHpUME9BlHi5Dhf3thJoH"
-      },
-      "artists": [
-        {
-          "name": "Caterina Barbieri",
-          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
-        }
-      ],
-      "duration_ms": 619200,
-      "name": "Knot of Spirit - Synth Version",
-      "url": "https://open.spotify.com/track/3oJPt3XTWFAfISXhJlSI7H"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -687,22 +687,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Oquo",
-        "url": "https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 231529,
-      "name": "Oquo Quooon",
-      "url": "https://open.spotify.com/track/7tzV9VZueBi1IrRwrhCgs5"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Homescreen Glow",
         "url": "https://open.spotify.com/album/7w6JZ6HjbBRDxAaCYOoeGr"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 326829,
       "name": "Soft Gaiden",
       "url": "https://open.spotify.com/track/3I6IMWZJ9FkTcUCKBrzlkh"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Oquo",
+        "url": "https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 231529,
+      "name": "Oquo Quooon",
+      "url": "https://open.spotify.com/track/7tzV9VZueBi1IrRwrhCgs5"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -733,6 +733,22 @@
       "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
     },
     {
+      "added_at": "2022-03-29 02:05:38",
+      "album": {
+        "name": "QUAKENBR\u00dcCK [Version]",
+        "url": "https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7"
+      },
+      "artists": [
+        {
+          "name": "Bitchin Bajas",
+          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
+        }
+      ],
+      "duration_ms": 279601,
+      "name": "Quakenbr\u00fcck - version",
+      "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
+    },
+    {
       "added_at": "2022-12-16 01:59:41",
       "album": {
         "name": "Catalog Number Sta122",
@@ -749,20 +765,24 @@
       "url": "https://open.spotify.com/track/1EZryQ41Rf8lFvdFLWErs1"
     },
     {
-      "added_at": "2022-03-29 02:05:38",
+      "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "QUAKENBR\u00dcCK [Version]",
-        "url": "https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7"
+        "name": "Treat Em Right (Boards Of Canada Remix)",
+        "url": "https://open.spotify.com/album/3biP5TpmbP1eQBjnMVo2cm"
       },
       "artists": [
         {
-          "name": "Bitchin Bajas",
-          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
+          "name": "Nevermen",
+          "url": "https://open.spotify.com/artist/09P3wPH0MvtLnhwfbtzrRq"
+        },
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 279601,
-      "name": "Quakenbr\u00fcck - version",
-      "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
+      "duration_ms": 269987,
+      "name": "Treat Em Right - Boards of Canada Remix Instrumental",
+      "url": "https://open.spotify.com/track/3AETAMXWqZTE1ezv2G8bzG"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -815,42 +835,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Treat Em Right (Boards Of Canada Remix)",
-        "url": "https://open.spotify.com/album/3biP5TpmbP1eQBjnMVo2cm"
-      },
-      "artists": [
-        {
-          "name": "Nevermen",
-          "url": "https://open.spotify.com/artist/09P3wPH0MvtLnhwfbtzrRq"
-        },
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 269987,
-      "name": "Treat Em Right - Boards of Canada Remix Instrumental",
-      "url": "https://open.spotify.com/track/3AETAMXWqZTE1ezv2G8bzG"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "These Days Don't Exist",
-        "url": "https://open.spotify.com/album/35KsUlRwLpWdta35Pknegr"
-      },
-      "artists": [
-        {
-          "name": "Nutrition",
-          "url": "https://open.spotify.com/artist/7lAeHqMt2kZ5A81tT9767x"
-        }
-      ],
-      "duration_ms": 225136,
-      "name": "Dream Walk",
-      "url": "https://open.spotify.com/track/7rO0THNPmucJEdOaMhAHgy"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Kelly Lee Owens",
         "url": "https://open.spotify.com/album/0aol42apbylFf2POjiAOeP"
       },
@@ -885,6 +869,38 @@
       "url": "https://open.spotify.com/track/2mVKgtDpXmtrx2mBePRwLc"
     },
     {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "These Days Don't Exist",
+        "url": "https://open.spotify.com/album/35KsUlRwLpWdta35Pknegr"
+      },
+      "artists": [
+        {
+          "name": "Nutrition",
+          "url": "https://open.spotify.com/artist/7lAeHqMt2kZ5A81tT9767x"
+        }
+      ],
+      "duration_ms": 225136,
+      "name": "Dream Walk",
+      "url": "https://open.spotify.com/track/7rO0THNPmucJEdOaMhAHgy"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Panspermia",
+        "url": "https://open.spotify.com/album/4TfQg8g5FV1VvZao3Mj94D"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Panspermia",
+      "url": "https://open.spotify.com/track/6YQ0EXjwQWT263njOeoe8S"
+    },
+    {
       "added_at": "2022-02-25 05:11:21",
       "album": {
         "name": "April Dub",
@@ -903,22 +919,6 @@
       "duration_ms": 260006,
       "name": "April Dub (Koyas Mix)",
       "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Panspermia",
-        "url": "https://open.spotify.com/album/4TfQg8g5FV1VvZao3Mj94D"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Panspermia",
-      "url": "https://open.spotify.com/track/6YQ0EXjwQWT263njOeoe8S"
     },
     {
       "added_at": "2023-03-03 04:14:50",
@@ -1097,22 +1097,6 @@
       "url": "https://open.spotify.com/track/0fTYyY4Egxd86l8Yvvo2Ag"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Auroras",
-        "url": "https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt"
-      },
-      "artists": [
-        {
-          "name": "Aeromancias",
-          "url": "https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw"
-        }
-      ],
-      "duration_ms": 154838,
-      "name": "Boreal",
-      "url": "https://open.spotify.com/track/4SfLJ0ZO8LTbrgxqNKnzys"
-    },
-    {
       "added_at": "2023-01-07 02:10:08",
       "album": {
         "name": "Ultra Truth",
@@ -1127,6 +1111,22 @@
       "duration_ms": 317183,
       "name": "Ultra Truth",
       "url": "https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Auroras",
+        "url": "https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt"
+      },
+      "artists": [
+        {
+          "name": "Aeromancias",
+          "url": "https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw"
+        }
+      ],
+      "duration_ms": 154838,
+      "name": "Boreal",
+      "url": "https://open.spotify.com/track/4SfLJ0ZO8LTbrgxqNKnzys"
     },
     {
       "added_at": "2023-03-03 04:07:38",
@@ -1377,22 +1377,6 @@
       "url": "https://open.spotify.com/track/7i1apjmMHgD3cyaJAoscr5"
     },
     {
-      "added_at": "2022-03-09 04:45:41",
-      "album": {
-        "name": "Amygdala",
-        "url": "https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ"
-      },
-      "artists": [
-        {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
-        }
-      ],
-      "duration_ms": 319047,
-      "name": "Amygdala",
-      "url": "https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Misplaced",
@@ -1409,20 +1393,20 @@
       "url": "https://open.spotify.com/track/3LLih0W5lB0xEAQxSxoBW6"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
+      "added_at": "2022-03-09 04:45:41",
       "album": {
-        "name": "Blinking/Aubades",
-        "url": "https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U"
+        "name": "Amygdala",
+        "url": "https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ"
       },
       "artists": [
         {
-          "name": "rAHHH",
-          "url": "https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki"
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
         }
       ],
-      "duration_ms": 220212,
-      "name": "Aubades",
-      "url": "https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12"
+      "duration_ms": 319047,
+      "name": "Amygdala",
+      "url": "https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1455,6 +1439,22 @@
       "duration_ms": 223750,
       "name": "Summer Places",
       "url": "https://open.spotify.com/track/5soyEYI9op1hiyqEhHbtOQ"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Blinking/Aubades",
+        "url": "https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U"
+      },
+      "artists": [
+        {
+          "name": "rAHHH",
+          "url": "https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki"
+        }
+      ],
+      "duration_ms": 220212,
+      "name": "Aubades",
+      "url": "https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12"
     },
     {
       "added_at": "2023-02-16 00:21:45",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
+        "name": "Toska",
+        "url": "https://open.spotify.com/album/4D39jrL55p5sgjoUmc1Cer"
+      },
+      "artists": [
+        {
+          "name": "Goya",
+          "url": "https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc"
+        }
+      ],
+      "duration_ms": 342005,
+      "name": "Toska",
+      "url": "https://open.spotify.com/track/0HWNPGUqcv98QzbehmGDpv"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
         "name": "FIBS",
         "url": "https://open.spotify.com/album/1s05RP1wmD0p4uGZ7q1xwC"
       },
@@ -1675,26 +1691,6 @@
       "duration_ms": 306794,
       "name": "Calion",
       "url": "https://open.spotify.com/track/0p2mTY5mnZyuWuD9M8O4MT"
-    },
-    {
-      "added_at": "2022-01-12 02:35:30",
-      "album": {
-        "name": "This Is An Advertisement",
-        "url": "https://open.spotify.com/album/3dD5AxY5S7g5j4he0QOSJ9"
-      },
-      "artists": [
-        {
-          "name": "usr/friendly",
-          "url": "https://open.spotify.com/artist/2Tf35i1626AZKiQqUx2xfE"
-        },
-        {
-          "name": "Oketo",
-          "url": "https://open.spotify.com/artist/5JBjc1UhLlvqmifk3WLAFg"
-        }
-      ],
-      "duration_ms": 199666,
-      "name": "Slice of Life",
-      "url": "https://open.spotify.com/track/1Ef4AmovzJ5RhoUOqj1iZn"
     }
   ],
   "unique_name": "bleeps ^ glitches",

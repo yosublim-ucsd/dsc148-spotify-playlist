@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 
 > Productores latinos underground para bailar con audífonos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,567 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,580 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 | 30 | [Esta Noche](https://open.spotify.com/track/2nPpXPgqCAUlmMxjnaaoMG) | [Rodion](https://open.spotify.com/artist/4G12bh08cCVQXa9pO4iIRe), [Alejandro Paz](https://open.spotify.com/artist/58JUcJgPMahuJHcVQM5CNL) | [Esta Noche](https://open.spotify.com/album/4otyeBB3oeu6L7M7tYD1It) | 5:11 |
 | 31 | [10](https://open.spotify.com/track/6ZLJ0s0my4L2RcO2YyNp4D) | [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4) | [Catalog Number Sta122](https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf) | 2:29 |
 | 32 | [Dancehall, Audubon Ballroom](https://open.spotify.com/track/09LNA3vpPg0Zd3ghzTv5BN) | [Kelman Duran](https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd) | [Night in Tijuana](https://open.spotify.com/album/4vKaGMoRdGVu6u6GJyqHTx) | 2:50 |
-| 33 | [Descanse](https://open.spotify.com/track/5sWwuI8g0WyZI3tddeU6WO) | [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Mas Amable](https://open.spotify.com/album/2WpHf0NARcxAamPoMSgCvM) | 4:31 |
-| 34 | [Give It To The Music](https://open.spotify.com/track/4lzBK0eegI0rCCEIPg0sVI) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Give It To The Music](https://open.spotify.com/album/7KNJCJsDEnAdLt9WbJD0Th) | 4:54 |
+| 33 | [Give It To The Music](https://open.spotify.com/track/4lzBK0eegI0rCCEIPg0sVI) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Give It To The Music](https://open.spotify.com/album/7KNJCJsDEnAdLt9WbJD0Th) | 4:54 |
+| 34 | [Descanse](https://open.spotify.com/track/5sWwuI8g0WyZI3tddeU6WO) | [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Mas Amable](https://open.spotify.com/album/2WpHf0NARcxAamPoMSgCvM) | 4:31 |
 | 35 | [Dreamy Hamilton \- Oneironautics Remix](https://open.spotify.com/track/0uVfcsjX9FX0VRU3sn2PyR) | [Arhkota](https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ), [Lubna Maher](https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb), [Oneironautics](https://open.spotify.com/artist/6VYV0dDe760s66s9973L1Q) | [Dreamy Hamilton \(Remixes\)](https://open.spotify.com/album/4X40gozRTAuJrosoKxf9M6) | 5:37 |
 | 36 | [Platano Macho](https://open.spotify.com/track/2JW0Rz7D4q3KxbvsBZrZZv) | [Doble Redoble](https://open.spotify.com/artist/4XJopnM0aD3RN5NWnl6fdT), [Borchi](https://open.spotify.com/artist/1dPeBgMAiuyI2gXcphyNMH), [Asaph Sánchez](https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI), [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [Nzúmbi](https://open.spotify.com/album/76dn7yiHINDA18rFqopGp0) | 3:58 |
 | 37 | [Corrado](https://open.spotify.com/track/0ulKl0MCIn9mYHmxK8DLA2) | [Bufi](https://open.spotify.com/artist/0ckrHQgGWuXzYxRM0jLOZZ), [Kubebe](https://open.spotify.com/artist/05EKr75TBeDGYstwAKRMpH) | [Bufebe](https://open.spotify.com/album/1BU2ah2FQ4SbswByhQonrO) | 5:24 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 | 41 | [Pieles](https://open.spotify.com/track/5kh71E46NXD2ub6OcvFVy5) | [Tyu](https://open.spotify.com/artist/5IToOsTYhrDB6BqOxpWTxM) | [Pieles](https://open.spotify.com/album/6wnljTM7txuqv9nCu2sRAu) | 8:20 |
 | 42 | [Collateral](https://open.spotify.com/track/5JNel3LbbwTMf2ZfwX3SL0) | [Dr Honey](https://open.spotify.com/artist/2ancfz442teYM3RI1zUcNr) | [Collateral](https://open.spotify.com/album/25hxlT3FXHFLHzBBwZOUOV) | 4:31 |
 | 43 | [Mala Hierba](https://open.spotify.com/track/1QjfhdsjAMgXKR78X7NUXr) | [María y José](https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX) | [Mala Hierba](https://open.spotify.com/album/2gUpydA3UPgqBkpjGbCCOy) | 3:35 |
-| 44 | [I Can't Find](https://open.spotify.com/track/6mgPAe08nGJuIrFwCYuJSN) | [The Mechanic](https://open.spotify.com/artist/2WeMFNubmmrJqYYlBwc60I) | [I Can't Find](https://open.spotify.com/album/5Jj04Klsiv5Iw6CzFDRYVe) | 3:44 |
-| 45 | [Cascada](https://open.spotify.com/track/2J3PY2v0k0VI8sYqrFWND5) | [Pepe Mogt](https://open.spotify.com/artist/7m5gWKlKnqR5vRBNXSFJF5) | [Cascada](https://open.spotify.com/album/4STLoeJFhEpmNYniO1SQI0) | 6:45 |
-| 46 | [Lejos](https://open.spotify.com/track/4MuqnWkSBc766XPkFhQU1G) | [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Shika Shika / Botanas](https://open.spotify.com/album/7dejiy33hxqxez4xhOs9Fo) | 3:26 |
+| 44 | [Cascada](https://open.spotify.com/track/2J3PY2v0k0VI8sYqrFWND5) | [Pepe Mogt](https://open.spotify.com/artist/7m5gWKlKnqR5vRBNXSFJF5) | [Cascada](https://open.spotify.com/album/4STLoeJFhEpmNYniO1SQI0) | 6:45 |
+| 45 | [Lejos](https://open.spotify.com/track/4MuqnWkSBc766XPkFhQU1G) | [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Shika Shika / Botanas](https://open.spotify.com/album/7dejiy33hxqxez4xhOs9Fo) | 3:26 |
+| 46 | [I Can't Find](https://open.spotify.com/track/6mgPAe08nGJuIrFwCYuJSN) | [The Mechanic](https://open.spotify.com/artist/2WeMFNubmmrJqYYlBwc60I) | [I Can't Find](https://open.spotify.com/album/5Jj04Klsiv5Iw6CzFDRYVe) | 3:44 |
 | 47 | [Cuerpo Que Flota](https://open.spotify.com/track/4x9kOCgS6h3IBFZPR8asWe) | [Lila Tirando a Violeta](https://open.spotify.com/artist/1ZD9xcoRJKY4ldaV4UuAhx), [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Desire Path](https://open.spotify.com/album/4QMLBkfHh8ZrBLm3HGDx9V) | 3:35 |
 | 48 | [K Royal Con Las de Harina](https://open.spotify.com/track/08V1tV1HjwZeV04MaV9dpQ) | [Dietscha Jung](https://open.spotify.com/artist/6DYNkp4jACOeI3bn2gmKqg) | [Hola](https://open.spotify.com/album/632kGPMnxUSMHTngCCeb4Z) | 2:21 |
 | 49 | [Ananda](https://open.spotify.com/track/4OM2bUjoj6mciwhLxwJG2j) | [Akkan](https://open.spotify.com/artist/2CA2ypghZh6RCxJdPOQ4Ze), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Ananda](https://open.spotify.com/album/458iq3ckasP86d5CoLlyJb) | 4:12 |
-| 50 | [Forerunner](https://open.spotify.com/track/34S6ZJ8rZqheHQxkQMwjde) | [Bertoldi](https://open.spotify.com/artist/4Li9gBuTUcIRons5AtN4yE) | [Ancient Astronauts](https://open.spotify.com/album/5H71MGGEYaVtTOCtHWZvDq) | 6:55 |
+| 50 | [Love is Dancing](https://open.spotify.com/track/1XNXuM7R6Lmk5RdWnfe2S0) | [Suricata](https://open.spotify.com/artist/2xKpXTLYPN7jd325QEb65b) | [Love is Dancing](https://open.spotify.com/album/3yisAaoFw3xGdJF4ZIUrZ8) | 8:26 |
 
-Snapshot ID: `MCxiNzVlYWY4YmQ5MTdiYTJhZDc0MjRlOWNiZjY1MmQ4OGFmYTg4NTZi`
+Snapshot ID: `MCw3YzA2MmExZDk5Njc2ODg5NDQzYmVmMzY5OGM1MDUyYmE5YzM0M2Jk`

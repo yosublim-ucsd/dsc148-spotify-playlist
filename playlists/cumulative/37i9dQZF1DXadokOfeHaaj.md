@@ -4,7 +4,7 @@
 
 > Are you ready for the floor? Cover: Jessica Winter
 
-73 songs - 5 hr 3 min
+74 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Doctor Doctor \- The English Gentlemen Remix](https://open.spotify.com/track/0ksagd1vULVKoXgpw9rPiL) | [Just Jack](https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO), [The English Gentlemen](https://open.spotify.com/artist/1qhOgkoJKicmrmGa33mauL) | [Doctor Doctor \(The English Gentlemen Remix\)](https://open.spotify.com/album/26KMLMWDj5aX1WCNRm3ipz) | 6:16 | 2021-10-28 |  |
 | [Fear](https://open.spotify.com/track/5yIK62xhc1PwxG83kObxZe) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [Non Binary Place](https://open.spotify.com/album/2ZH8IpoBY4rSq3QB6Oez9u) | 3:49 | 2021-10-28 |  |
 | [getforward](https://open.spotify.com/track/1FT8VzkSDfH90Dc9XxjbEL) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [getforward](https://open.spotify.com/album/5j2DVBoeO3YeAPtz9Nyqlg) | 10:00 | 2021-10-28 |  |
-| [Hannah \(The Sun\)](https://open.spotify.com/track/3KffMs30iYfPNYI8epNj5a) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Hannah \(the sun\)](https://open.spotify.com/album/6eep2wtSbpdoAgJcRyublA) | 3:16 | 2021-10-28 |  |
+| [Hannah \(the sun\)](https://open.spotify.com/track/3KffMs30iYfPNYI8epNj5a) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Hannah \(the sun\)](https://open.spotify.com/album/6eep2wtSbpdoAgJcRyublA) | 3:16 | 2021-10-28 |  |
 | [I Can Talk \- Myd Remix](https://open.spotify.com/track/2R5N0kDxOKJl3HjxRrxhdl) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [I Can Talk \(Myd Remix\)](https://open.spotify.com/album/7uTq3a6VR9qZpmw4clwXen) | 3:33 | 2021-10-28 |  |
 | [I Still Love You](https://open.spotify.com/track/5ATro8iHnekyweon2xjf36) | [Origami Human](https://open.spotify.com/artist/6vOoZCnNiawjGeViOSoY1t) | [I Still Love You](https://open.spotify.com/album/2HOO0SKx71DqVJ5exvWTrY) | 2:34 | 2021-10-28 |  |
 | [I Want It \- 1\-800 GIRLS Remix](https://open.spotify.com/track/1IKXUhtnQEG3V4zy43WDK8) | [Tim Ayre](https://open.spotify.com/artist/5iDIPw4XISqyFqD817n4iL), [1\-800 GIRLS](https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ) | [I Want It \(1\-800 GIRLS Remix\)](https://open.spotify.com/album/62iVOIxD7QC5uNiUgT6zF7) | 5:35 | 2021-10-28 |  |
@@ -66,7 +66,8 @@
 | [Rufufus \- Sylvan Esso Remix](https://open.spotify.com/track/6mS5UKJZo37hlMjru7qkfP) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d), [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [We Love Dogs!](https://open.spotify.com/album/1Aus1dFkP2BSyzibCl0HA7) | 4:07 | 2021-10-28 |  |
 | [Shut My Mouth](https://open.spotify.com/track/5cI4oDkASkMmaXxMVNzqKK) | [The Valla](https://open.spotify.com/artist/4YhQHwK37kKWxXGiNbCu1R) | [Shut My Mouth](https://open.spotify.com/album/0mTMooSBjeE2INrKU8AVqf) | 3:26 | 2021-10-28 |  |
 | [Sister Infinity \- Edit](https://open.spotify.com/track/2FmxpCtAKpL2VT7abM5Jeq) | [HARD FEELINGS](https://open.spotify.com/artist/62leN9NRMUgDfPzshm7K5L) | [Sister Infinity](https://open.spotify.com/album/1sDjnXH9RgKCRPi2tczLy7) | 3:19 | 2021-10-28 |  |
-| [So Late \(Goldteeth Remix\)](https://open.spotify.com/track/5FXXRLw5EpDFRrPzAifM8t) | [Patawawa](https://open.spotify.com/artist/5D65DHzw4qysvKA2VJzOtC), [Goldteeth](https://open.spotify.com/artist/0npO8yNUPxsLaomZudHo8w) | [So Late \(Goldteeth Remix\)](https://open.spotify.com/album/6SVRd1EYyIbnGjojfjXY8K) | 2:57 | 2021-10-28 |  |
+| [So Late \(Goldteeth Remix\)](https://open.spotify.com/track/5FXXRLw5EpDFRrPzAifM8t) | [Patawawa](https://open.spotify.com/artist/5D65DHzw4qysvKA2VJzOtC), [Goldteeth](https://open.spotify.com/artist/0npO8yNUPxsLaomZudHo8w) | [So Late \(Goldteeth Remix\)](https://open.spotify.com/album/6SVRd1EYyIbnGjojfjXY8K) | 2:57 | 2021-10-28 | 2023-08-10 |
+| [So Late \- Goldteeth Remix](https://open.spotify.com/track/6W8xk66YHob4Yloy8aArZy) | [Patawawa](https://open.spotify.com/artist/5D65DHzw4qysvKA2VJzOtC), [Gold Teeth](https://open.spotify.com/artist/2xmfCofOQt2Pqcv8Whg6ay) | [So Late \(Goldteeth Remix\)](https://open.spotify.com/album/3bISjcvWbNhblILoMOmVvG) | 2:57 | 2021-10-28 |  |
 | [Start up Nation](https://open.spotify.com/track/32fXe6Ppdj45aop3hsqFtK) | [Keep Dancing Inc](https://open.spotify.com/artist/426htfG7DE5S3kgoVCCJUB) | [Embrace](https://open.spotify.com/album/0HdSPq0RQFpkJiEiYAdKGg) | 3:19 | 2021-10-28 |  |
 | [Still Here](https://open.spotify.com/track/0ohx2z14GguzZPmd3Xn7Xy) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Maybe We Could](https://open.spotify.com/album/3VtEYbEgLnLwJPml2lOYLi) | 3:34 | 2021-10-28 |  |
 | [Talks](https://open.spotify.com/track/1AmZK3O0XYSfY636qTahcW) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [Talks](https://open.spotify.com/album/74CRCBMGYhrTI6ZzX2ARxr) | 4:17 | 2021-10-28 |  |

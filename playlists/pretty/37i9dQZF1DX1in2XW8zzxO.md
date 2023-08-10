@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 
 > Amapiano tracks to fuel your beast mode!
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,813 likes - 79 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,984 likes - 79 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 | 61 | [I Feel Nice](https://open.spotify.com/track/7a8JvM5yHxu3ED2SBQYBJB) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl), [Group Chat](https://open.spotify.com/artist/2bUFkuoX9s0HaQwNLhRCqA), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [I Feel Nice](https://open.spotify.com/album/4tKPkjN78B0HmlmQLXnGqk) | 2:40 |
 | 62 | [Stolen Goods](https://open.spotify.com/track/2cZAgtMdUNsbrmS6wpSu8Q) | [The Lowkeys](https://open.spotify.com/artist/7FlhY1KXkExO3TcdSsJUjQ) | [Stolen Goods](https://open.spotify.com/album/0t5OUH14bARmKQEITo9GX4) | 6:26 |
 | 63 | [Skeem Saam](https://open.spotify.com/track/1TBZRnNUDQ4QLFhKbKDJdQ) | [Konke](https://open.spotify.com/artist/6y5EP3L2WblCQsc8iuGeP9), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Skeem Saam](https://open.spotify.com/album/5yfZNaimM1gCNx7SePxZ21) | 5:58 |
-| 64 | [Salary Salary](https://open.spotify.com/track/2icgqIMkjpToStO1FRAoyj) | [Robot Boii](https://open.spotify.com/artist/66MEUwWMZWL1PlTEHx8Grp), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [Soul Revolver](https://open.spotify.com/artist/1Z4N6qo86BmXMr5SqkHP1r), [Shaun MusiQ](https://open.spotify.com/artist/4GxjM4diRMDmrJgOBSeoBL), [F Teearse](https://open.spotify.com/artist/2CpQzZ1TBz2dTiCpzSrP1Z) | [Salary Salary](https://open.spotify.com/album/4quyAgJ23twffpKkEgfhji) | 6:46 |
+| 64 | [Salary Salary](https://open.spotify.com/track/2icgqIMkjpToStO1FRAoyj) | [Robot Boii](https://open.spotify.com/artist/66MEUwWMZWL1PlTEHx8Grp), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [Soul Revolver](https://open.spotify.com/artist/1Z4N6qo86BmXMr5SqkHP1r), [Shaun MusiQ](https://open.spotify.com/artist/4GxjM4diRMDmrJgOBSeoBL), [Ftears](https://open.spotify.com/artist/0DT7OuytIwr9CjLYdvLHq7) | [Salary Salary](https://open.spotify.com/album/4quyAgJ23twffpKkEgfhji) | 6:46 |
 | 65 | [Sanitizer](https://open.spotify.com/track/3dFpRuEIxuQfm2EHBf4ZVU) | [Dj Karri](https://open.spotify.com/artist/4seQKbHnG8TM3jKeUvHFw1), [Lebzito](https://open.spotify.com/artist/3ZzgC7B3Ggr2jZGWclAY7Q), [BL Zero](https://open.spotify.com/artist/4bu6ZJj5ThDofeVJHPVlwl), [ELK](https://open.spotify.com/artist/2z839qWwCE38uqOqI2QnWa) | [Sanitizer](https://open.spotify.com/album/1dPG0MRY5u8J2e2cw1NPCN) | 6:56 |
 | 66 | [Lorch \(feat\. Semi Tee, Miano & Kammu Dee\)](https://open.spotify.com/track/0HqMsg5QmooAII1GZUvVHA) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Semi Tee](https://open.spotify.com/artist/2mRDgWrF5x7MOS1X1C1UDF), [Miano](https://open.spotify.com/artist/1Xsc9W40JwWXHxlsym2Vpn), [Kammu Dee](https://open.spotify.com/artist/4RZQX1vkRjewMYodn5wZ9F) | [The Return of the Scorpion Kings](https://open.spotify.com/album/3jVIkEFzkl5JuF4cLL1DKq) | 6:14 |
 | 67 | [John Vuli Gate \(feat\. Ntosh Gazi & Colano\)](https://open.spotify.com/track/7IAMurey3mCF73caRZcdOC) | [Mapara A Jazz](https://open.spotify.com/artist/07iC6rj6LOxVbylqwbVPih), [Colano](https://open.spotify.com/artist/02OOc2ZYid4CK1DJF5RXrI), [Ntosh Gazi](https://open.spotify.com/artist/1PVQZbVl2qjnSDoHF1PzQY) | [John Vuli Gate \(feat\. Ntosh Gazi & Colano\)](https://open.spotify.com/album/1MOJaKNs5h3Pz5gA8WAc7r) | 5:55 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 | 78 | [Bulldozer](https://open.spotify.com/track/63aJ6gi41fLZdmd29AMi01) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc) | [Bulldozer](https://open.spotify.com/album/3mmGpsFRLodEWkK3kmBsHt) | 5:01 |
 | 79 | [Bundle of Joy](https://open.spotify.com/track/63HL27uW6RXQq0vjL8XZIe) | [Vigro Deep](https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH) | [Baby Boy 2 Reloaded](https://open.spotify.com/album/1yWI355GWrXToRiwrP6osF) | 7:27 |
 
-Snapshot ID: `MCw5ZDc2YWQ1ODQ4Nzc4YTNiNzQ3OGEwMWNkZWZkNDY5NmNmNTRmNzFj`
+Snapshot ID: `MCxmMTNmYzA1M2M2ZWQ4YjdkY2FmNzhlYjdmNGI4YTVkODRmNzRlYzM2`

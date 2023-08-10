@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1990s. Cover: Jennifer Lopez.",
-  "num_followers": 634003,
+  "num_followers": 634858,
   "original_name": "90s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDRkZDAxNTgxNGU1NWZhNDkzN2JhNTcwZGIzYzFjY2NhN2Q2ZWFm",
+  "snapshot_id": "MCxkZWIxZmRmY2I1NmM3ZWU2OGU4ZGFlZjcwODYzM2FjNmFmYTk0NWI3",
   "tracks": [
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Homebase",
-        "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
-      },
-      "artists": [
-        {
-          "name": "DJ Jazzy Jeff & The Fresh Prince",
-          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
-        }
-      ],
-      "duration_ms": 270973,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "L'Amour Toujours",
         "url": "https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 255546,
       "name": "Bla Bla Bla",
       "url": "https://open.spotify.com/track/04zrPERrSO4CfyargthKJ9"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Homebase",
+        "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
+      },
+      "artists": [
+        {
+          "name": "DJ Jazzy Jeff & The Fresh Prince",
+          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
+        }
+      ],
+      "duration_ms": 270973,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "L'Amour Toujours",
-        "url": "https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV"
-      },
-      "artists": [
-        {
-          "name": "Gigi D'Agostino",
-          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
-        }
-      ],
-      "duration_ms": 285426,
-      "name": "The Riddle",
-      "url": "https://open.spotify.com/track/0ZqveF2rEFlz2oqF2xrriP"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Synkronized",
         "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 331760,
       "name": "Canned Heat",
       "url": "https://open.spotify.com/track/47oS7xB31QQUyPCgHpM3VZ"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "L'Amour Toujours",
+        "url": "https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV"
+      },
+      "artists": [
+        {
+          "name": "Gigi D'Agostino",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        }
+      ],
+      "duration_ms": 285426,
+      "name": "The Riddle",
+      "url": "https://open.spotify.com/track/0ZqveF2rEFlz2oqF2xrriP"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1931,6 +1931,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
+        "name": "'N Sync UK Version",
+        "url": "https://open.spotify.com/album/7K5qlneuWF1CcY6ERzwkLB"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "duration_ms": 200440,
+      "name": "I Want You Back - Radio Edit",
+      "url": "https://open.spotify.com/track/221LRlPHPuevgE1tuUlof9"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
         "name": "It's My Life",
         "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
       },
@@ -1951,18 +1967,18 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "'N Sync UK Version",
-        "url": "https://open.spotify.com/album/7K5qlneuWF1CcY6ERzwkLB"
+        "name": "Experience",
+        "url": "https://open.spotify.com/album/7uSC6NXKlE3zGo0mu8Ik5r"
       },
       "artists": [
         {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
         }
       ],
-      "duration_ms": 200440,
-      "name": "I Want You Back - Radio Edit",
-      "url": "https://open.spotify.com/track/221LRlPHPuevgE1tuUlof9"
+      "duration_ms": 302106,
+      "name": "Out of Space",
+      "url": "https://open.spotify.com/track/6cYJBIE9FC1QAoPw5EhdLA"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1983,22 +1999,6 @@
       "duration_ms": 238360,
       "name": "In The Summertime",
       "url": "https://open.spotify.com/track/726KAdf3k8Ce8W95O38XNI"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
-        "name": "Experience",
-        "url": "https://open.spotify.com/album/7uSC6NXKlE3zGo0mu8Ik5r"
-      },
-      "artists": [
-        {
-          "name": "The Prodigy",
-          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
-        }
-      ],
-      "duration_ms": 302106,
-      "name": "Out of Space",
-      "url": "https://open.spotify.com/track/6cYJBIE9FC1QAoPw5EhdLA"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2071,22 +2071,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Ladies And Gentlemen... The Best Of George Michael",
-        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 388400,
-      "name": "Freedom! '90",
-      "url": "https://open.spotify.com/track/1SKApv6ZfJ9bkUxeRObJEF"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Blacks' Magic",
         "url": "https://open.spotify.com/album/4iCiqnufcdAdTyKrkKGwqR"
       },
@@ -2099,6 +2083,22 @@
       "duration_ms": 213266,
       "name": "Let's Talk About Sex",
       "url": "https://open.spotify.com/track/6hTBP6QLwJdxbKyLlLXrGo"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Ladies And Gentlemen... The Best Of George Michael",
+        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 388400,
+      "name": "Freedom! '90",
+      "url": "https://open.spotify.com/track/1SKApv6ZfJ9bkUxeRObJEF"
     },
     {
       "added_at": "2022-10-11 00:00:00",

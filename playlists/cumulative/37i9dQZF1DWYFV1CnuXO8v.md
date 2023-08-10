@@ -4,7 +4,7 @@
 
 > عيش أجمل حاله حب 🫶
 
-195 songs - 12 hr 10 min
+196 songs - 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,8 @@
 | [Wahdani](https://open.spotify.com/track/7MtjVTe38tcotyQwr7piOX) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Wahdani](https://open.spotify.com/album/3Wwr5T1Xcu9da276ShVYft) | 4:41 | 2023-02-13 | 2023-05-23 |
 | [Waheshni Eh](https://open.spotify.com/track/3dKgDjL69KuoyMNeYfUbWJ) | [Myriam Fares](https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh) | [Nadini](https://open.spotify.com/album/3rShjwnO7rFyMxOdKkuPxg) | 4:11 | 2023-02-13 | 2023-07-13 |
 | [Wahshany Ayamak](https://open.spotify.com/track/3c87CyEFhWPyHoXxvbSBEx) | [Marwa Amin](https://open.spotify.com/artist/7JL7Tu7197ZW87a4yBZhyd) | [Wahshany Ayamak](https://open.spotify.com/album/38OTa1G1FvSC1kROPGajQo) | 4:12 | 2023-02-13 | 2023-02-21 |
-| [Wahshteeny](https://open.spotify.com/track/15dL61n1mPULn6XkY95eRj) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Wahshteeny](https://open.spotify.com/album/5tKmFSot2PxW7tRmrkWQQQ) | 2:28 | 2023-07-17 |  |
+| [Wahshteeny](https://open.spotify.com/track/15dL61n1mPULn6XkY95eRj) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Wahshteeny](https://open.spotify.com/album/5tKmFSot2PxW7tRmrkWQQQ) | 2:28 | 2023-07-17 | 2023-08-10 |
+| [Wahshteeny](https://open.spotify.com/track/1a92SdpdJ77U1sjEOOi5OC) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Wahshteeny](https://open.spotify.com/album/4TJPiash9AKTQeDA0LvGGr) | 2:28 | 2023-08-08 |  |
 | [We Akheeran](https://open.spotify.com/track/4joVFoiSsaXPYo5ef4SFI3) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Eish Besho'ak](https://open.spotify.com/album/59Behg6SoGd5d4U4ljmZDg) | 3:21 | 2023-02-13 | 2023-05-23 |
 | [Ya Bakhto](https://open.spotify.com/track/5AGkEX0nP1Pa9pVshupHBe) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Hany Shaker](https://open.spotify.com/artist/1UwfdbFgehcybbaCoeYJ9o) | [Ya Bakhto](https://open.spotify.com/album/56f5tg6gQvaKKnlqbC5sMG) | 3:54 | 2023-02-13 | 2023-05-23 |
 | [Ya Bakhty Beh](https://open.spotify.com/track/1CEYTW1P2mKpZgxouGDw8f) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [Ya Bakhty Beh](https://open.spotify.com/album/0tFBtGwjlCel82hP0xN1hy) | 3:15 | 2023-02-13 | 2023-05-23 |

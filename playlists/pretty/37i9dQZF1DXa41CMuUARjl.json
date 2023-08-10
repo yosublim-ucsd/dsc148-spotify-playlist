@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Swedish House Mafia.",
-  "num_followers": 447268,
+  "num_followers": 447367,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzA2Y2EyYjMzZDRiN2Q5ZDNkNTc0ZTBlOTJhZmJhOWJlMDY0OGUw",
+  "snapshot_id": "MCxjMjM0OWI4NzZkMzVhMTgwZjNiZjY3NGRiNDIyZDVmNTlmMDM5Yjg2",
   "tracks": [
     {
       "added_at": "2023-08-04 04:01:00",
@@ -669,7 +669,7 @@
         }
       ],
       "duration_ms": 195000,
-      "name": "Sorry - Franky Rizardo Remix",
+      "name": "Sorry (with Madonna) - Franky Rizardo Remix",
       "url": "https://open.spotify.com/track/2BtCQtoNGPo74ChfxACqM2"
     },
     {
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Tongue",
-        "url": "https://open.spotify.com/album/0MkmGLOt30qLXDQRNf5S2s"
-      },
-      "artists": [
-        {
-          "name": "Matisa",
-          "url": "https://open.spotify.com/artist/18YBSDKYgR6so2I94gqUQ9"
-        }
-      ],
-      "duration_ms": 447551,
-      "name": "Brunela",
-      "url": "https://open.spotify.com/track/6U7jhpXZ2ClCSVwvoyvb4R"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "4EVA",
         "url": "https://open.spotify.com/album/3gmWADlKwnnjP8VUzuyTPb"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 319750,
       "name": "I Go, I Go - 2023 Remix",
       "url": "https://open.spotify.com/track/7uDPzaEchHE7NY5yDxJ0lz"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Tongue",
+        "url": "https://open.spotify.com/album/0MkmGLOt30qLXDQRNf5S2s"
+      },
+      "artists": [
+        {
+          "name": "Matisa",
+          "url": "https://open.spotify.com/artist/18YBSDKYgR6so2I94gqUQ9"
+        }
+      ],
+      "duration_ms": 447551,
+      "name": "Brunela",
+      "url": "https://open.spotify.com/track/6U7jhpXZ2ClCSVwvoyvb4R"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "Dusty Showbiz",
+        "url": "https://open.spotify.com/album/5AT9JXNAlwdeYOxocxjfyb"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "duration_ms": 178040,
+      "name": "Dusty Showbiz",
+      "url": "https://open.spotify.com/track/30VJGgRcj2MoyeW7UHQgrO"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "Linx",
         "url": "https://open.spotify.com/album/3JWDZHAoptpYBptxxapIKb"
       },
@@ -1067,38 +1083,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "He Lives In You",
-        "url": "https://open.spotify.com/album/6aWf24aSFwmvWuC8bcQpZN"
-      },
-      "artists": [
-        {
-          "name": "Kronan",
-          "url": "https://open.spotify.com/artist/6AC7fqQQgNwXXpBa5bqyBr"
-        }
-      ],
-      "duration_ms": 152363,
-      "name": "He Lives In You",
-      "url": "https://open.spotify.com/track/7q24DYF9kayy5QMdfodvbE"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Dusty Showbiz",
-        "url": "https://open.spotify.com/album/5AT9JXNAlwdeYOxocxjfyb"
-      },
-      "artists": [
-        {
-          "name": "Sosa UK",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        }
-      ],
-      "duration_ms": 178040,
-      "name": "Dusty Showbiz",
-      "url": "https://open.spotify.com/track/30VJGgRcj2MoyeW7UHQgrO"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Strong",
         "url": "https://open.spotify.com/album/2Auo5VfZ8S8p10J6u5bFbV"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 216562,
       "name": "Strong",
       "url": "https://open.spotify.com/track/3bVrJvRNReqbE2Ow5txo4n"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "He Lives In You",
+        "url": "https://open.spotify.com/album/6aWf24aSFwmvWuC8bcQpZN"
+      },
+      "artists": [
+        {
+          "name": "Kronan",
+          "url": "https://open.spotify.com/artist/6AC7fqQQgNwXXpBa5bqyBr"
+        }
+      ],
+      "duration_ms": 152363,
+      "name": "He Lives In You",
+      "url": "https://open.spotify.com/track/7q24DYF9kayy5QMdfodvbE"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1135,18 +1135,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "In Our Own Way",
-        "url": "https://open.spotify.com/album/0FvlZWhj9GnUosWOfZxkVc"
+        "name": "Bring It Back",
+        "url": "https://open.spotify.com/album/6oMZtThtbHbNCXCVtHos8r"
       },
       "artists": [
         {
-          "name": "EMBRZ",
-          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
+          "name": "Sikdope",
+          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
+        },
+        {
+          "name": "Interupt",
+          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
         }
       ],
-      "duration_ms": 189684,
-      "name": "Start Again",
-      "url": "https://open.spotify.com/track/6AvPvdPQaRlsyrdP7PzeLU"
+      "duration_ms": 177230,
+      "name": "Bring It Back",
+      "url": "https://open.spotify.com/track/35es3y1iNffNsVFMuEfq10"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1175,22 +1179,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Bring It Back",
-        "url": "https://open.spotify.com/album/6oMZtThtbHbNCXCVtHos8r"
+        "name": "In Our Own Way",
+        "url": "https://open.spotify.com/album/0FvlZWhj9GnUosWOfZxkVc"
       },
       "artists": [
         {
-          "name": "Sikdope",
-          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
-        },
-        {
-          "name": "Interupt",
-          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
+          "name": "EMBRZ",
+          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
         }
       ],
-      "duration_ms": 177230,
-      "name": "Bring It Back",
-      "url": "https://open.spotify.com/track/35es3y1iNffNsVFMuEfq10"
+      "duration_ms": 189684,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/6AvPvdPQaRlsyrdP7PzeLU"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Fallen Angel",
-        "url": "https://open.spotify.com/album/2Wl0oj1KwfXL9WFJ5VdhPw"
-      },
-      "artists": [
-        {
-          "name": "KETTAMA",
-          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
-        }
-      ],
-      "duration_ms": 216472,
-      "name": "Fallen Angel",
-      "url": "https://open.spotify.com/track/0PEM0eVuUJxhUA03Cjl0zC"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Darkness (feat. Charlotte Haining)",
         "url": "https://open.spotify.com/album/3ug845ceSwNRYhN9FHw68R"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 173479,
       "name": "Darkness (feat. Charlotte Haining)",
       "url": "https://open.spotify.com/track/1jZZyJCLZfK9H1PZfjH7S7"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/2Wl0oj1KwfXL9WFJ5VdhPw"
+      },
+      "artists": [
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        }
+      ],
+      "duration_ms": 216472,
+      "name": "Fallen Angel",
+      "url": "https://open.spotify.com/track/0PEM0eVuUJxhUA03Cjl0zC"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1300,12 +1300,8 @@
           "url": "https://open.spotify.com/artist/2U33UlGhnPqg3B5xJTn3zm"
         },
         {
-          "name": "Art Morini",
-          "url": "https://open.spotify.com/artist/27A88TT3Npdvs15sQVEFky"
-        },
-        {
-          "name": "Roy Malone",
-          "url": "https://open.spotify.com/artist/0Mry1TcXvK97hkYf7F74zn"
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
         }
       ],
       "duration_ms": 199191,
@@ -1379,6 +1375,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "BOY / if u wanna cry",
+        "url": "https://open.spotify.com/album/79Wtz0l5ubAbkzlRJOk2Ie"
+      },
+      "artists": [
+        {
+          "name": "Ryan Hemsworth",
+          "url": "https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9"
+        }
+      ],
+      "duration_ms": 183204,
+      "name": "BOY",
+      "url": "https://open.spotify.com/track/6Q3z3LmFRjPTBFaLCbsHOd"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "Make You Scream (Dixon & Trikk \u201cTri/xon\u201d Rework)",
         "url": "https://open.spotify.com/album/2t9qkkA68nFt1Yt4qEUmG7"
       },
@@ -1415,22 +1427,6 @@
       "duration_ms": 194400,
       "name": "Thinking Of You - Radio Edit",
       "url": "https://open.spotify.com/track/7vKHG9dbzU3FlAE1VmyBbP"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "BOY / if u wanna cry",
-        "url": "https://open.spotify.com/album/79Wtz0l5ubAbkzlRJOk2Ie"
-      },
-      "artists": [
-        {
-          "name": "Ryan Hemsworth",
-          "url": "https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9"
-        }
-      ],
-      "duration_ms": 183204,
-      "name": "BOY",
-      "url": "https://open.spotify.com/track/6Q3z3LmFRjPTBFaLCbsHOd"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1499,6 +1495,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "Burning",
+        "url": "https://open.spotify.com/album/67AKOKUGQbahJAKvId1zlZ"
+      },
+      "artists": [
+        {
+          "name": "Alice DiMar",
+          "url": "https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN"
+        }
+      ],
+      "duration_ms": 188181,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/4rmRgOSGXkKCR3W3wk7F5R"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "Shiver [Ivory (IT) Remix]",
         "url": "https://open.spotify.com/album/63Zfkd2GRScH4KpLvYMzCb"
       },
@@ -1515,22 +1527,6 @@
       "duration_ms": 380499,
       "name": "Shiver - Ivory (IT) Remix",
       "url": "https://open.spotify.com/track/3iGQ4zDfDWC0lTVb3J72rz"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Burning",
-        "url": "https://open.spotify.com/album/67AKOKUGQbahJAKvId1zlZ"
-      },
-      "artists": [
-        {
-          "name": "Alice DiMar",
-          "url": "https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN"
-        }
-      ],
-      "duration_ms": 188181,
-      "name": "Burning",
-      "url": "https://open.spotify.com/track/4rmRgOSGXkKCR3W3wk7F5R"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1611,22 +1607,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Chop It",
-        "url": "https://open.spotify.com/album/6Lkdwdn7UFhS90L3FOuOW0"
-      },
-      "artists": [
-        {
-          "name": "Whammyboy",
-          "url": "https://open.spotify.com/artist/2agmDswc3FnDFbL0Ey9SKj"
-        }
-      ],
-      "duration_ms": 178407,
-      "name": "Chop It",
-      "url": "https://open.spotify.com/track/40GKAxsKv5kH8JyfYP2EOw"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Tears",
         "url": "https://open.spotify.com/album/7hMZlhA5J4w7qYIJEnk0Rt"
       },
@@ -1643,6 +1623,22 @@
       "duration_ms": 237750,
       "name": "Tears",
       "url": "https://open.spotify.com/track/2dpzs6UBVMvB4zHM6ly1iq"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Chop It",
+        "url": "https://open.spotify.com/album/6Lkdwdn7UFhS90L3FOuOW0"
+      },
+      "artists": [
+        {
+          "name": "Whammyboy",
+          "url": "https://open.spotify.com/artist/2agmDswc3FnDFbL0Ey9SKj"
+        }
+      ],
+      "duration_ms": 178407,
+      "name": "Chop It",
+      "url": "https://open.spotify.com/track/40GKAxsKv5kH8JyfYP2EOw"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1711,6 +1707,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/2wsT5jedDnViFsaN076WES"
+      },
+      "artists": [
+        {
+          "name": "Lilly Ahlberg",
+          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/1IRfa7grmih9KNGuH6RCjJ"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "React",
         "url": "https://open.spotify.com/album/52GLAnWvWq1EOe3GDJUMzl"
       },
@@ -1727,18 +1739,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/2wsT5jedDnViFsaN076WES"
+        "name": "Temperature",
+        "url": "https://open.spotify.com/album/6Pf1ng16MUqpiQ2TA9nXtG"
       },
       "artists": [
         {
-          "name": "Lilly Ahlberg",
-          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
+          "name": "Paluma",
+          "url": "https://open.spotify.com/artist/7vIAu0l7icbujUGaOK8HT4"
         }
       ],
-      "duration_ms": 176250,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/1IRfa7grmih9KNGuH6RCjJ"
+      "duration_ms": 150234,
+      "name": "Temperature",
+      "url": "https://open.spotify.com/track/6t0rJSmrgU8EyA5gI2Np3d"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1759,22 +1771,6 @@
       "duration_ms": 139401,
       "name": "Zaza Man",
       "url": "https://open.spotify.com/track/4RTm9F6bKFyOsxevFVJKPg"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Temperature",
-        "url": "https://open.spotify.com/album/6Pf1ng16MUqpiQ2TA9nXtG"
-      },
-      "artists": [
-        {
-          "name": "Paluma",
-          "url": "https://open.spotify.com/artist/7vIAu0l7icbujUGaOK8HT4"
-        }
-      ],
-      "duration_ms": 150234,
-      "name": "Temperature",
-      "url": "https://open.spotify.com/track/6t0rJSmrgU8EyA5gI2Np3d"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1875,46 +1871,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Dance Now Cry Later",
-        "url": "https://open.spotify.com/album/55I387xUywyKe3Vm3mQ6FF"
-      },
-      "artists": [
-        {
-          "name": "Alex Mali",
-          "url": "https://open.spotify.com/artist/77SLhlrrJKzclwLB9bnRJZ"
-        }
-      ],
-      "duration_ms": 146252,
-      "name": "Dance Now Cry Later",
-      "url": "https://open.spotify.com/track/2XVT2Hd5bQzG4f5gtzoFNV"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Soundz",
-        "url": "https://open.spotify.com/album/192NehmobqA4H5iWjVcN24"
-      },
-      "artists": [
-        {
-          "name": "MOSKA",
-          "url": "https://open.spotify.com/artist/1rVo9h17cHhWerDiZj0yXH"
-        },
-        {
-          "name": "DJ Purple",
-          "url": "https://open.spotify.com/artist/3YlsZ2xZObFy1w5YQYZxx1"
-        },
-        {
-          "name": "Danielle Simeone",
-          "url": "https://open.spotify.com/artist/1XOdntL3KEDu0vWlJb9Ie8"
-        }
-      ],
-      "duration_ms": 241967,
-      "name": "Soundz",
-      "url": "https://open.spotify.com/track/4XSEZnAkfcbxh8ghSwhCYE"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Break From Jersey",
         "url": "https://open.spotify.com/album/42brLpOIaiGtSlsuheWivi"
       },
@@ -1943,6 +1899,46 @@
       "duration_ms": 126240,
       "name": "Shuffle",
       "url": "https://open.spotify.com/track/0HSoyafgVY6nPKNVwzGdZ8"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Soundz",
+        "url": "https://open.spotify.com/album/192NehmobqA4H5iWjVcN24"
+      },
+      "artists": [
+        {
+          "name": "MOSKA",
+          "url": "https://open.spotify.com/artist/1rVo9h17cHhWerDiZj0yXH"
+        },
+        {
+          "name": "DJ Purple",
+          "url": "https://open.spotify.com/artist/3YlsZ2xZObFy1w5YQYZxx1"
+        },
+        {
+          "name": "Danielle Simeone",
+          "url": "https://open.spotify.com/artist/1XOdntL3KEDu0vWlJb9Ie8"
+        }
+      ],
+      "duration_ms": 241967,
+      "name": "Soundz",
+      "url": "https://open.spotify.com/track/4XSEZnAkfcbxh8ghSwhCYE"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Dance Now Cry Later",
+        "url": "https://open.spotify.com/album/55I387xUywyKe3Vm3mQ6FF"
+      },
+      "artists": [
+        {
+          "name": "Alex Mali",
+          "url": "https://open.spotify.com/artist/77SLhlrrJKzclwLB9bnRJZ"
+        }
+      ],
+      "duration_ms": 146252,
+      "name": "Dance Now Cry Later",
+      "url": "https://open.spotify.com/track/2XVT2Hd5bQzG4f5gtzoFNV"
     },
     {
       "added_at": "2023-08-04 04:01:00",

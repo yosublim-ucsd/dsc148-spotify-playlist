@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > só faixa rosa, tem disposição? 🎀 Foto: Mc Soffia
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,925 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,952 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 40 | [Drip do Gaza](https://open.spotify.com/track/697vMFx7zhkhj5uQ8asedp) | [Alinega](https://open.spotify.com/artist/5cuq4MQJ4HGk0JeNrXkpl6), [Calado Beats](https://open.spotify.com/artist/0hOreiY25L5j8Li8HtBBSN) | [Drip do Gaza](https://open.spotify.com/album/416rvMJm3dpl5L6XB0L6q9) | 2:02 |
 | 41 | [Morango no Gin](https://open.spotify.com/track/64AaCofmb0AqrN7vWuXO5c) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Morango no Gin](https://open.spotify.com/album/6nkJrMukU7V3XXfVKLujjA) | 2:29 |
 | 42 | [Gostosa de Air Max](https://open.spotify.com/track/02uKdKnouBOFSqP8aRCUmj) | [Laura Sette](https://open.spotify.com/artist/0MAXbFqd77wekpgo1nNUYc), [Weeze Cooker](https://open.spotify.com/artist/2rgWI1W1YEsU6oeYJLbfWo) | [Gostosa de Air Max](https://open.spotify.com/album/4h9JWqAumE78sOniGFUGg1) | 2:15 |
-| 43 | [Maldita Jersey Club](https://open.spotify.com/track/1httltr7jBLs4PbFpNYZay) | [Kyrios](https://open.spotify.com/artist/4XViqPQHSXzF78Iy8d9DZS), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Maldita Jersey Club](https://open.spotify.com/album/1YxVO4WBkitiMk5SBlXCVT) | 3:22 |
-| 44 | [Sugar Mama](https://open.spotify.com/track/2LZ8dfz3QNxj7qKlj31DBK) | [Dagrace](https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT) | [Sugar Mama](https://open.spotify.com/album/5XStrLbjNWcEC61FXPeKfu) | 1:18 |
+| 43 | [Sugar Mama](https://open.spotify.com/track/2LZ8dfz3QNxj7qKlj31DBK) | [Dagrace](https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT) | [Sugar Mama](https://open.spotify.com/album/5XStrLbjNWcEC61FXPeKfu) | 1:18 |
+| 44 | [Maldita Jersey Club](https://open.spotify.com/track/1httltr7jBLs4PbFpNYZay) | [Kyrios](https://open.spotify.com/artist/4XViqPQHSXzF78Iy8d9DZS), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Maldita Jersey Club](https://open.spotify.com/album/1YxVO4WBkitiMk5SBlXCVT) | 3:22 |
 | 45 | [Betty Boop](https://open.spotify.com/track/46gDGTjG68eRcC9S0EpILt) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [HERvolution](https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt) | [Betty Boop](https://open.spotify.com/album/3Mp7oY9PZbzT8UEQjDUlBK) | 1:50 |
 | 46 | [Fiz Minha Unha](https://open.spotify.com/track/5IYtUJ9foHzJi2CzzARkIe) | [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo), [Pretta Poder](https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c) | [Fiz Minha Unha](https://open.spotify.com/album/55IqlpNBxtJPpfGbWHOayn) | 2:26 |
 | 47 | [TUA BITCH](https://open.spotify.com/track/72BAYk9CRm5tPSFmc33djL) | [Dona Nyna](https://open.spotify.com/artist/6PTL1TJ8Chen7iN4cQFGpQ) | [Tua Bitch](https://open.spotify.com/album/3kGPprFPCsh8G82UfU5nDY) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 49 | [Who Cares?](https://open.spotify.com/track/2KgRLOrzPKSy4ur5DPqzt3) | [Debbys](https://open.spotify.com/artist/1u77sNbUjAaku0o9mcpi6z), [grenier spinz](https://open.spotify.com/artist/0NScuC0UGxFvZ76OlHPIWJ) | [Who Cares?](https://open.spotify.com/album/5RSm9jbk6T7IiTzJWqsjtn) | 1:54 |
 | 50 | [First](https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [First](https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN) | 2:12 |
 
-Snapshot ID: `MCwxOGY1MGFmNGUzODllOWZlYTZlZThmNTBjNmE5MDZhYzBlNGVhNzcz`
+Snapshot ID: `MCw5YmQxNTU2ZjNmODEyZTQ4MDliMzU0OTk5MWMyYTgzNzJmMTQ1OTA4`

@@ -4,7 +4,7 @@
 
 > 2000년대를 수 놓았던 명곡들을 즐겨보세요.
 
-119 songs - 7 hr 38 min
+120 songs - 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,11 +21,12 @@
 | [Bad Girl Good Girl](https://open.spotify.com/track/7kTKAdVVlDxve6Qr7Hm7Qc) | [miss A](https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW) | [A Class](https://open.spotify.com/album/6Ii2g2GfqTzkqtSCpsuA2X) | 3:37 | 2021-03-11 | 2023-08-06 |
 | [Bad Man](https://open.spotify.com/track/119iNERS1h3InUzpC0jtwf) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [N001](https://open.spotify.com/album/02D06vVmtmZOpeK2p3QFQS) | 3:37 | 2021-03-11 | 2023-08-06 |
 | [Be My Baby](https://open.spotify.com/track/4H3nLd4sDY2OBsugvJc0ql) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [Wonder World](https://open.spotify.com/album/1vEiOIYInN3Y2LpvXTcEyK) | 3:31 | 2021-03-11 | 2023-08-07 |
+| [Be My Baby](https://open.spotify.com/track/5GCixDdpW0HcfR8ewmOOcI) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [Wonder World](https://open.spotify.com/album/318RAh1OyVhnegQ7oZ8Fib) | 3:31 | 2021-03-11 |  |
 | [Better Together](https://open.spotify.com/track/07BrAHEuDfgZ3mtHZyCa6u) | [SE7EN](https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV) | [Digital Bounce](https://open.spotify.com/album/3o9MuNv5noRVl9IJL01BK6) | 3:38 | 2021-03-11 |  |
 | [Break Away](https://open.spotify.com/track/3xN3UkMQPosLdU6nldyxjl) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Like The Bible](https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe) | 4:19 | 2021-03-11 |  |
 | [Come Back To Me](https://open.spotify.com/track/4ezlt6ciGxes2ctqphnKVU) | [SE7EN](https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV) | [Just Listen.......](https://open.spotify.com/album/4QoM0VDe5UPOotBYmmcg5U) | 4:06 | 2021-03-11 |  |
 | [Crazy \(feat.Eric\)](https://open.spotify.com/track/2k89RdgmjsrEaZcMbQsLyn) | [Son Dam Bi](https://open.spotify.com/artist/3cCbcs6r1Lma7MfEjyfCGU), [Eric](https://open.spotify.com/artist/3q3HSjyRiHQ0AC5HSrmO4m) | [Son Dam Bi Mini Album vol\. 2](https://open.spotify.com/album/03g00ngaa5I53sAoQiLrQL) | 4:01 | 2021-03-11 |  |
-| [Eurachacha](https://open.spotify.com/track/5WeDiuGjTVQ38Vf2eHUpX3) | [Rumble Fish](https://open.spotify.com/artist/1NyreDKOPoI1XxOv7xnyn2) | [Have A Nice Dream](https://open.spotify.com/album/1gGFPcgK3adJebbw4XnT47) | 4:16 | 2021-03-11 |  |
+| [Eurachacha](https://open.spotify.com/track/5WeDiuGjTVQ38Vf2eHUpX3) | [Rumble Fish](https://open.spotify.com/artist/1NyreDKOPoI1XxOv7xnyn2) | [Have A Nice Dream](https://open.spotify.com/album/1gGFPcgK3adJebbw4XnT47) | 4:16 | 2021-03-11 | 2023-08-10 |
 | [Fly \(feat\. Amin\. J\)](https://open.spotify.com/track/3N17JQ2yJjQTUOt706Uj6h) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Amin\. J](https://open.spotify.com/artist/5xs4WKD1qLTJNSRnX0O4d2) | [Swan Songs](https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6) | 3:21 | 2021-03-11 |  |
 | [Friday Night](https://open.spotify.com/track/7uTLsCiOqNGDgz6TewUMrM) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 2](https://open.spotify.com/album/0HxQ33W72bcEwuJgbMscvK) | 3:33 | 2021-03-11 | 2023-02-02 |
 | [Friday Night](https://open.spotify.com/track/6HW5rmg4NtHTWQExmbh9Wa) | [god](https://open.spotify.com/artist/7h3uRR9CdZGjnAY9stn0es) | [Chapter 2](https://open.spotify.com/album/6qyK6jVYnjx9lX6ywivZ9D) | 3:35 | 2021-03-11 |  |

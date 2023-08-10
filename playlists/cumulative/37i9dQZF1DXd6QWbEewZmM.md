@@ -4,7 +4,7 @@
 
 > \#SadCuhHour gems 🥀🥹
 
-362 songs - 20 hr 40 min
+363 songs - 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [La Tarde](https://open.spotify.com/track/6q0NKpIwLRKy60Fal8dbTP) | [Proximo Nivel](https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94) | [Proximo Nivel](https://open.spotify.com/album/3Mh5n49gD1gafG2e83Emjk) | 3:36 | 2022-07-22 | 2022-09-24 |
 | [La Vi Llorar](https://open.spotify.com/track/3G8WaQkwVSwlcDGRHniG3w) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Cruisin' with Junior H](https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM) | 4:45 | 2022-01-01 |  |
 | [La Única](https://open.spotify.com/track/1h5pJVUM9U1Lt9rIsykiiz) | [Angel Perez](https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe), [Gabino Montalvo](https://open.spotify.com/artist/0ZoDVZuncNiNIsyPkxmvZ6) | [La Única](https://open.spotify.com/album/2Xeg01yBwDBKhOt8QOa1gT) | 3:44 | 2022-01-01 | 2022-07-19 |
-| [La Única](https://open.spotify.com/track/2VlYtG8JEpe0KcfTK5xuOg) | [Angel Perez](https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe), [Gabino Montalvo](https://open.spotify.com/artist/0ZoDVZuncNiNIsyPkxmvZ6) | [Siéntelo a Tu Modo](https://open.spotify.com/album/4tYo4NG8vIT2Ja1wDc2CUD) | 3:44 | 2022-01-01 |  |
+| [La Única](https://open.spotify.com/track/2VlYtG8JEpe0KcfTK5xuOg) | [Angel Perez](https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe), [Gabino Montalvo](https://open.spotify.com/artist/0ZoDVZuncNiNIsyPkxmvZ6) | [Siéntelo a Tu Modo](https://open.spotify.com/album/4tYo4NG8vIT2Ja1wDc2CUD) | 3:44 | 2022-01-01 | 2023-08-10 |
 | [Labios Cereza](https://open.spotify.com/track/64luTJa3lsA4ZvwFyoBcUM) | [David Bernal](https://open.spotify.com/artist/01PvcAK6gaCKljM22XKxTS), [Marco Soriano](https://open.spotify.com/artist/2LPVDi9bhYq2iXQKDbE5Ak) | [Labios Cereza](https://open.spotify.com/album/7wwopAa9IVFw3oDPxn6Zes) | 2:50 | 2022-01-01 | 2022-07-22 |
 | [Labios Rojos](https://open.spotify.com/track/1NPk0Y7AkLvirhSg4oI0bM) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [La Empresa Music Presenta: Volando](https://open.spotify.com/album/5M4aigT49Vo7KHyB29dQjF) | 4:01 | 2022-07-22 |  |
 | [Labios Rojos](https://open.spotify.com/track/24niWFc3cHyW8HrSZ5PJ7R) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [La Empresa Music Presenta: Volando](https://open.spotify.com/album/4D4El43QaxMwXXPBKieDXu) | 4:01 | 2022-01-01 | 2022-07-29 |
@@ -333,6 +333,7 @@
 | [Triste](https://open.spotify.com/track/3KBPBsKy6quP8PvTo81D5W) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV), [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Triste](https://open.spotify.com/album/2CJGDHYWZziHsTzuFZL0W8) | 2:46 | 2022-02-25 | 2022-07-29 |
 | [Tristeza Y Traicion](https://open.spotify.com/track/3otr23EypFovRCjnPODejZ) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Love </3](https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w) | 3:39 | 2023-02-10 |  |
 | [Tristeza Y Traicion](https://open.spotify.com/track/6dRAEG6dmMfP5SS9Vh1s56) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Love </3](https://open.spotify.com/album/6dgBlaN3n2sALXgwzIRmBn) | 3:39 | 2022-01-01 | 2023-02-24 |
+| [Tu \- En Vivo](https://open.spotify.com/track/0qZO3MuMgRecjEfDdnlGVY) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg) | 4:06 | 2023-07-28 |  |
 | [Tu \- Live](https://open.spotify.com/track/64xuDtR4TKUI8JAeZoqndu) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados Vol\. 1 \(Live\)](https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K) | 4:06 | 2022-07-22 | 2023-08-09 |
 | [Tu Mirada](https://open.spotify.com/track/1Ks6qonhq4VOzYvvFPmppi) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Tu Mirada](https://open.spotify.com/album/2lCDLXSdE6An4aVSuvPBPd) | 2:29 | 2022-06-10 | 2023-04-15 |
 | [Tu y La Luna](https://open.spotify.com/track/51BNLmU6HnsVKnJSczJ5Ha) | [Vagancia Indicada](https://open.spotify.com/artist/1W0J2ZsvhXV7OsI7twK1jf) | [Tu y La Luna](https://open.spotify.com/album/3X5syPwNkhU14TB55lmnsv) | 4:27 | 2022-01-01 | 2022-07-25 |

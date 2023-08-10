@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas aconchegantes para aquecer a alma nos dias frios.",
-  "num_followers": 347206,
+  "num_followers": 347280,
   "original_name": "Friozinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjkyMTAzZmRkZjk1YjJjNzY0YjgzNWIyNTBjZWRjYWIyODY3OGM3",
+  "snapshot_id": "MCw1OWQxMzdhMjNhYTY4M2UyMTRkNzM4YzQ1YzBjYWE0MTgxYmFlYWQw",
   "tracks": [
     {
       "added_at": "2023-08-04 03:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "A Star Is Born Soundtrack",
-        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "Always Remember Us This Way",
-      "url": "https://open.spotify.com/track/74iZuPGwyL33VlTr6jTnab"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
         "name": "UNHEALTHY (Deluxe)",
         "url": "https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 205613,
       "name": "YOU & I (feat. Khalid)",
       "url": "https://open.spotify.com/track/3ynJS2jbfoxkDPVrs6wPvJ"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "A Star Is Born Soundtrack",
+        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "Always Remember Us This Way",
+      "url": "https://open.spotify.com/track/74iZuPGwyL33VlTr6jTnab"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/1NmhmrcrG143ODfGk9myHE"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 186514,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
         "name": "I Was / I Am",
         "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 186552,
       "name": "Someone Like You (feat. Joy Oladokun)",
       "url": "https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/1NmhmrcrG143ODfGk9myHE"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 186514,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Daddy\u2019s Eyes",
-        "url": "https://open.spotify.com/album/1b2RyLbUMkbXb62sVIguvY"
-      },
-      "artists": [
-        {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
-        }
-      ],
-      "duration_ms": 182969,
-      "name": "Daddy's Eyes",
-      "url": "https://open.spotify.com/track/726mGvnRdaFnW6dmlOqTBu"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
         "name": "I Follow",
         "url": "https://open.spotify.com/album/49Odx8cys3L27jGmwFMQT6"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 169405,
       "name": "I Follow",
       "url": "https://open.spotify.com/track/4QZYTmGqtEHngxs10Rd9qB"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "Daddy\u2019s Eyes",
+        "url": "https://open.spotify.com/album/1b2RyLbUMkbXb62sVIguvY"
+      },
+      "artists": [
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        }
+      ],
+      "duration_ms": 182969,
+      "name": "Daddy's Eyes",
+      "url": "https://open.spotify.com/track/726mGvnRdaFnW6dmlOqTBu"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Ready",
-        "url": "https://open.spotify.com/album/4VEmS1AQqFKNhCCtmp2R0E"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 181533,
-      "name": "Ready",
-      "url": "https://open.spotify.com/track/1hWi7x6YYkpCt6aRlC2r6R"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
         "name": "just a boy",
         "url": "https://open.spotify.com/album/5suIBFNeA6UKdnwBUGAU7Q"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 184000,
       "name": "REWIND DOIS",
       "url": "https://open.spotify.com/track/7E7cd7fZV1ZsLjBO1rQAeK"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "Ready",
+        "url": "https://open.spotify.com/album/4VEmS1AQqFKNhCCtmp2R0E"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 181533,
+      "name": "Ready",
+      "url": "https://open.spotify.com/track/1hWi7x6YYkpCt6aRlC2r6R"
     },
     {
       "added_at": "2023-08-04 03:00:00",

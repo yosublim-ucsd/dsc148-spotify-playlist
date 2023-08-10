@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5?si=7x4G3Ka2QJyO\_hOjb90eWA">Doja Cat</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,462 likes - 71 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,490 likes - 71 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 20 | [Basha \(feat\. Young Stunna, TOSS & Prvis3\)](https://open.spotify.com/track/3fYJsaw7TO4ZCqyhNeNs5l) | [Visca](https://open.spotify.com/artist/4Ijr6oNjLibby38inghdKO), [Ntwana R](https://open.spotify.com/artist/5JDQiJloYbt3F1A4kdxGA3), [JNR Richi](https://open.spotify.com/artist/5RbVPnshSr962QawMeEGnw), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ), [TOSS](https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9), [Prvis3](https://open.spotify.com/artist/6lUvF9yVTjWlkHmLda4YZg) | [Basha \(feat\. Young Stunna, TOSS & Prvis3\)](https://open.spotify.com/album/55d4Y56ICYzqSaQ0uNbtEZ) | 6:17 |
 | 21 | [She Riding](https://open.spotify.com/track/0O2sNjDOIM6VcLGaeiBpel) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL), [Kvngshad](https://open.spotify.com/artist/0FkFM70iZWwnq8hrtx4xH1) | [She Riding](https://open.spotify.com/album/6S8QYqtzI9IOEvsMtuYZ3w) | 2:37 |
 | 22 | [Bomzão](https://open.spotify.com/track/5cTt87f8djnVPH4mLo2L9G) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [AFRODHIT](https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5) | 3:09 |
-| 23 | [December](https://open.spotify.com/track/0boqQgW7g8MBJuWJznREYq) | [Mzux Maen](https://open.spotify.com/artist/3AqE17ZUeQYdJuQhb1gFZ0), [Nomakhosini](https://open.spotify.com/artist/2KroEihE6rLeggqXnVHRgl), [Siph3](https://open.spotify.com/artist/75e0THMOTFQIx7tcHoq4go), [Black Major](https://open.spotify.com/artist/2GVa3mqeRyxYy8sxDuk2NB) | [December](https://open.spotify.com/album/6pkVIkVlOcg62zNckOzhai) | 5:19 |
+| 23 | [December](https://open.spotify.com/track/0boqQgW7g8MBJuWJznREYq) | [Mzux Maen](https://open.spotify.com/artist/3AqE17ZUeQYdJuQhb1gFZ0), [Nomakhosini](https://open.spotify.com/artist/2KroEihE6rLeggqXnVHRgl), [Siph3](https://open.spotify.com/artist/75e0THMOTFQIx7tcHoq4go), [Blaq Major](https://open.spotify.com/artist/1HGyQR41EokAZE5Dl4PtYc) | [December](https://open.spotify.com/album/6pkVIkVlOcg62zNckOzhai) | 5:19 |
 | 24 | [Insimbi](https://open.spotify.com/track/4hgAosW5zsnd2hdJUdxwxF) | [Deep Narratives](https://open.spotify.com/artist/0H929hRKMr7lbGcVOx4Q4c), [ZVRI](https://open.spotify.com/artist/1or4sxcSSFThb2p8VuK8Sn), [Culoe De Song](https://open.spotify.com/artist/69vFBZxQu4TQ4ZDOI9L6KR) | [Insimbi](https://open.spotify.com/album/3zFtvNJ9HJ6QQ8ZwXlAV0o) | 5:44 |
 | 25 | [Yes God \- Kabza De Small Remix](https://open.spotify.com/track/0e91lgtH2DuTFrXhrukr4h) | [Oscar Mbo](https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX), [KG Smallz](https://open.spotify.com/artist/0AiHL2WtZP5LOxzr28uZjK), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Dearson](https://open.spotify.com/artist/1Xainl2EtdL0XRLDO0tUSD) | [YES GOD](https://open.spotify.com/album/6A2JXe1UgWT5LI18DmG3Tm) | 6:56 |
 | 26 | [Skoloto](https://open.spotify.com/track/4OiMaanKDueqpgtfBvU65n) | [MellowBone](https://open.spotify.com/artist/1Ij7YLGnj8pNM353d7tcb6), [Josiah De Disciple](https://open.spotify.com/artist/0Es1TBdBiQPIdwQWLJelte), [Calvin Shaw](https://open.spotify.com/artist/17WwQrBNn89qqSl5tfD72x), [Log Junior](https://open.spotify.com/artist/37PBMiyH1GdWKncwmqtUvv) | [Skoloto](https://open.spotify.com/album/73EaUUrBhAV5QRjMZ43UUw) | 6:37 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 70 | [Leave This Town](https://open.spotify.com/track/2UJNr5PUzkDpqqLriIJpqK) | [Broke 'n Free](https://open.spotify.com/artist/29zjs2vtld5vxaDuu2VnF5) | [Leave This Town](https://open.spotify.com/album/5JK1A5Cwstbtxyr8kppd96) | 3:21 |
 | 71 | [Last Stand](https://open.spotify.com/track/6Q8CVI78we0VBcoNWjvHCZ) | [Kenny Hughes](https://open.spotify.com/artist/6Y0yxjU9WEv7qauNd39OYL) | [Last Stand](https://open.spotify.com/album/0WP7arJEFFalCREptv9VS0) | 4:49 |
 
-Snapshot ID: `MCw2ZTZjOTc2MWQzZDNkNjcwOTA1MDMyZjM2NzM3ZjBmZGQyOTIwNzk0`
+Snapshot ID: `MCxmOTRlZjkzZDQxOGYxOTgzMzVkZDYyODdkNjdiZDVhOGUxMDY5Mjlk`

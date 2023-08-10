@@ -7876,12 +7876,12 @@
       },
       "artists": [
         {
-          "name": "MC XT Bleck",
-          "url": "https://open.spotify.com/artist/1lR92KhOFNZt5y8iDtlHLx"
-        },
-        {
           "name": "DJ DR",
           "url": "https://open.spotify.com/artist/4qLCLwtpj206EmYNK9WoYj"
+        },
+        {
+          "name": "MC XT Bleck",
+          "url": "https://open.spotify.com/artist/1lR92KhOFNZt5y8iDtlHLx"
         }
       ],
       "date_added": "2023-07-05",
@@ -9672,7 +9672,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-09",
+      "date_removed": null,
       "duration_ms": 188497,
       "name": "Engana Dizendo Que Ama",
       "url": "https://open.spotify.com/track/39xOREhViooEYFpmnKTdrl"
@@ -24842,7 +24842,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 250680,
       "name": "QU\u00cdMICO AMOR",
       "url": "https://open.spotify.com/track/6ptSto28yPKJizAVLbT5Jw"

@@ -4,7 +4,7 @@
 
 > 今日1日を、元気に迎えるためのプレイリスト！
 
-302 songs - 16 hr 43 min
+303 songs - 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [butterflies \(From Barbie The Album\)](https://open.spotify.com/track/0awsZaKWdHDpbayAdfYY0p) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [butterflies \(From Barbie The Album\)](https://open.spotify.com/album/6vrh5MHwmmqW4WYZr4wWfg) | 2:16 | 2023-07-20 | 2023-07-28 |
 | [By The End Of The Night](https://open.spotify.com/track/0tYtfBFJLVn2ITE66FbaLT) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [By The End Of The Night](https://open.spotify.com/album/0cNb1JOALBpKIZtOxxSabq) | 3:08 | 2023-03-23 | 2023-03-31 |
 | [Bye](https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Bye](https://open.spotify.com/album/5mRzjZUa5VfaveaPtPqJBB) | 3:32 | 2023-06-01 | 2023-07-12 |
-| [California coconuts](https://open.spotify.com/track/2VAnn7QXr1jXP3GGvpcYhp) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [California coconuts](https://open.spotify.com/album/7na5aZq54qDZblhOiVRnj0) | 3:55 | 2023-08-08 |  |
+| [California coconuts](https://open.spotify.com/track/0lNrG9JiNQIrSQJ3vzQdcx) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [California coconuts](https://open.spotify.com/album/6jTHO0OfY0J7FjlokGXzH9) | 3:55 | 2023-08-08 |  |
+| [California coconuts](https://open.spotify.com/track/2VAnn7QXr1jXP3GGvpcYhp) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [California coconuts](https://open.spotify.com/album/7na5aZq54qDZblhOiVRnj0) | 3:55 | 2023-08-08 | 2023-08-10 |
 | [Calling Your Name](https://open.spotify.com/track/2V2P7pNMrtgEYHq9styA6u) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Calling Your Name](https://open.spotify.com/album/3vsWNz4RAuJ1eBXdjEosd6) | 1:56 | 2023-06-29 | 2023-07-12 |
 | [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 | 2023-02-14 | 2023-03-01 |
 | [Celestial](https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Celestial](https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29) | 3:29 | 2023-01-31 | 2023-06-03 |

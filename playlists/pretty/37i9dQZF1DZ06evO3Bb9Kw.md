@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bb9Kw.md) - [plain]
 
 > This is Miranda Lambert\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,222 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,235 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bb9Kw.md) - [plain]
 | 49 | [Bramble Rose](https://open.spotify.com/track/3ZM4ulEztk8iVlUJvf42Je) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2), [Mick Jagger](https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Cass County](https://open.spotify.com/album/3FLTH6ZJgA09fSirMfGMhX) | 4:30 |
 | 50 | [Airstream Song](https://open.spotify.com/track/5FXLX6lLO3SWATDIqfTCzz) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Revolution](https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA) | 2:48 |
 
-Snapshot ID: `MjgxOTE2NzksMDAwMDAwMDA4ZWI0M2RkMTdjMTM2NWM0YjcyMmU5Yjg2YWY4ZDM2NQ==`
+Snapshot ID: `MjgxOTMwNjYsMDAwMDAwMDAwM2IxYzNlN2Y3YzRiNmQ3YjA1NTJjZWYxODU1MWM4OQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. grimes
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,601 likes - 85 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,878 likes - 85 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 35 | [MEN ARE TRASH \(WAH WAH\)](https://open.spotify.com/track/1mTllBEUL4B3eispIVxtdO) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [MEN ARE TRASH \(WAH WAH\)](https://open.spotify.com/album/169f0dzayXAYQi9722uM0N) | 2:00 |
 | 36 | [Brat](https://open.spotify.com/track/6RBoDti7RDKjA3HQadiLDy) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [Brat](https://open.spotify.com/album/06LFLzsI6HOJU1E0Lbcgv3) | 3:06 |
 | 37 | [there she goes](https://open.spotify.com/track/3DVVQMU478kCIB9FC3mct5) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q) | [there she goes](https://open.spotify.com/album/0oApyH6CKZ2O6tCVLzGcdL) | 2:42 |
-| 38 | [CIGARETTES](https://open.spotify.com/track/1xJBz9XFCMZJiy6Mc4XrgC) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [CIGARETTES](https://open.spotify.com/album/6iBfLlPGfEmgjF8HG9OkJd) | 2:04 |
+| 38 | [CIGARETTES](https://open.spotify.com/track/3mU9L9qqhMxRbXgMXUncig) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [LOVE + POP](https://open.spotify.com/album/5God4dounbNrQtR8otCSHD) | 2:04 |
 | 39 | [ANGRY ANGRY](https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:16 |
 | 40 | [AmEN! \(feat\. Lil Uzi Vert and Daryl Palumbo of Glassjaw\)](https://open.spotify.com/track/5viZ8CLipufc1Q1NXpMRNN) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Daryl Palumbo](https://open.spotify.com/artist/6GcRo52zMhZXYOsEkMyMrX), [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [AmEN! \(feat\. Lil Uzi Vert and Daryl Palumbo of Glassjaw\)](https://open.spotify.com/album/1n9nqA87ulG7FxxVrpULRA) | 3:09 |
 | 41 | [Sodom & Gomorrah](https://open.spotify.com/track/0cgUUrFj9pOmSKzm4MyfIf) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Sodom & Gomorrah](https://open.spotify.com/album/6fGdCPc7IIJwoJM5wrWpFU) | 3:09 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 84 | [Cops and robbers](https://open.spotify.com/track/7s4EFCLbEw5HUm2lKjnOTW) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Cops and robbers](https://open.spotify.com/album/6yXnKNNgTQ732nJwM5WAXo) | 4:25 |
 | 85 | [anything u want](https://open.spotify.com/track/3PvsmNvUhhIaAeMK2PFe6p) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [anything u want](https://open.spotify.com/album/7nPPo0dyXrRFscTHV4k0yY) | 2:26 |
 
-Snapshot ID: `MCw4OWViZjM1NjFkMmE2ZmQzYzUxNGNkZGVjNzRlNWFmZTRlZDRjOGQ5`
+Snapshot ID: `MCxkN2YyYmU3ZWM5ZDA4ZGRjMGE1ZGViODkyZWI0MDMyOWNkMDc5MTA3`

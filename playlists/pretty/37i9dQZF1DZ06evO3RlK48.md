@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RlK48.md) - [plain]
 
 > This is MUNA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,793 likes - 29 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,818 likes - 29 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RlK48.md) - [plain]
 | 28 | [Around U](https://open.spotify.com/track/7jStM0aMv8WoG91YrrDMbw) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 5:13 |
 | 29 | [Nihilist \- From "Promising Young Woman" Soundtrack](https://open.spotify.com/track/2yCtn6X5xZUjD049EllMFq) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Promising Young Woman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/58gdv0EuhcZ2auHfEBm4mL) | 3:25 |
 
-Snapshot ID: `MjgxOTE2NzksMDAwMDAwMDBjMzUxMjZmMzYyZDdlYzY2OTczYjgyNDNiMDY4N2E1Mw==`
+Snapshot ID: `MjgxOTMwNjYsMDAwMDAwMDA0NjQyNzczMjZiN2M3YjczNWI2MzFmMjUyMjIxZTZiMg==`

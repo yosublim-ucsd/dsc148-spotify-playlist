@@ -1,12 +1,12 @@
 {
   "description": "Vulgo FK e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 212721,
+  "num_followers": 212866,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjJjYjgxY2QxNzdhNGNmZDZmYjQ5ZWU5NzU5N2QyOWUyYzExZWY0",
+  "snapshot_id": "MCxkZjhlNDBmNzQwNDlmZjljOGUzNWFlN2MwYmE4NjBlZWM4OGU4MjIy",
   "tracks": [
     {
       "added_at": "2023-08-04 03:01:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
+        "name": "AFRODHIT",
+        "url": "https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "duration_ms": 144686,
+      "name": "Que Se V\u00e1",
+      "url": "https://open.spotify.com/track/7tSZyaZS1hHZ87RcZ2jAeB"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
         "name": "Ironicamente",
         "url": "https://open.spotify.com/album/0q0t9DKcVtn2UGIGQMaA3I"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 164269,
       "name": "Ironicamente",
       "url": "https://open.spotify.com/track/2OYviBda4XbDw8VaFMCv1T"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "AFRODHIT",
-        "url": "https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        }
-      ],
-      "duration_ms": 144686,
-      "name": "Que Se V\u00e1",
-      "url": "https://open.spotify.com/track/7tSZyaZS1hHZ87RcZ2jAeB"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -799,34 +799,26 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Larga Essa Vida",
-        "url": "https://open.spotify.com/album/4fraCYAYq2B7H3AsennyRp"
+        "name": "Hoje Tem Baile",
+        "url": "https://open.spotify.com/album/318Zwi6JnkpzPwhaKzvW2z"
       },
       "artists": [
         {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
         },
         {
-          "name": "Souza Beats",
-          "url": "https://open.spotify.com/artist/4GKTaVfXG0HMeGvK3g1JTq"
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
         },
         {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        },
-        {
-          "name": "OGBEATZZ",
-          "url": "https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU"
-        },
-        {
-          "name": "Original Quality",
-          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
         }
       ],
-      "duration_ms": 119008,
-      "name": "Larga Essa Vida",
-      "url": "https://open.spotify.com/track/1I7rnx1blEUfgEi9owDD4C"
+      "duration_ms": 238000,
+      "name": "Hoje Tem Baile",
+      "url": "https://open.spotify.com/track/0MSaltm7kJNJ08cJLV4HJp"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -855,26 +847,34 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Hoje Tem Baile",
-        "url": "https://open.spotify.com/album/318Zwi6JnkpzPwhaKzvW2z"
+        "name": "Larga Essa Vida",
+        "url": "https://open.spotify.com/album/4fraCYAYq2B7H3AsennyRp"
       },
       "artists": [
         {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         },
         {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+          "name": "Souza Beats",
+          "url": "https://open.spotify.com/artist/4GKTaVfXG0HMeGvK3g1JTq"
         },
         {
-          "name": "Mc Daniel",
-          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "OGBEATZZ",
+          "url": "https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU"
+        },
+        {
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Hoje Tem Baile",
-      "url": "https://open.spotify.com/track/0MSaltm7kJNJ08cJLV4HJp"
+      "duration_ms": 119008,
+      "name": "Larga Essa Vida",
+      "url": "https://open.spotify.com/track/1I7rnx1blEUfgEi9owDD4C"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -951,50 +951,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "HSEH",
-        "url": "https://open.spotify.com/album/6PBAk2kBNGViZwog68l5XP"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        }
-      ],
-      "duration_ms": 150260,
-      "name": "HSEH",
-      "url": "https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "UM Quebrada Inteligente",
-        "url": "https://open.spotify.com/album/3LLqFXeZt4AdVe9GdBes9y"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        }
-      ],
-      "duration_ms": 162365,
-      "name": "gucci con tacchini!",
-      "url": "https://open.spotify.com/track/3QIA1Kfl592xCUnN6It6Qs"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Povoada (Remix)",
         "url": "https://open.spotify.com/album/0VNGzsaX62aIZjEEMNbwoi"
       },
@@ -1015,6 +971,26 @@
       "duration_ms": 257747,
       "name": "Povoada - Remix",
       "url": "https://open.spotify.com/track/4y1Xc5sjKxBRObrIfXRYpS"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "UM Quebrada Inteligente",
+        "url": "https://open.spotify.com/album/3LLqFXeZt4AdVe9GdBes9y"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "duration_ms": 162365,
+      "name": "gucci con tacchini!",
+      "url": "https://open.spotify.com/track/3QIA1Kfl592xCUnN6It6Qs"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1059,6 +1035,30 @@
       "duration_ms": 208817,
       "name": "Mun R\u00e1",
       "url": "https://open.spotify.com/track/1SXLxcC5SBjYWfN94jIDOc"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "HSEH",
+        "url": "https://open.spotify.com/album/6PBAk2kBNGViZwog68l5XP"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 150260,
+      "name": "HSEH",
+      "url": "https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1147,34 +1147,6 @@
       "duration_ms": 322000,
       "name": "Mente F\u00e9rtil",
       "url": "https://open.spotify.com/track/3pFxWxw0K7BmeMxBVnVHpj"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "Notas",
-        "url": "https://open.spotify.com/album/5JxbFGCIxfZPOPSuSs5GAY"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mc Jean",
-          "url": "https://open.spotify.com/artist/7iT64TaHLjA4wDm53frq3B"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        },
-        {
-          "name": "Piazza",
-          "url": "https://open.spotify.com/artist/5SpE1csYpLIA05aBXqkOuR"
-        }
-      ],
-      "duration_ms": 201951,
-      "name": "Notas",
-      "url": "https://open.spotify.com/track/2AuH6RO1u7PMqCUv8HNg43"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1303,6 +1275,34 @@
       "duration_ms": 135609,
       "name": "Gostosa de Air Max",
       "url": "https://open.spotify.com/track/02uKdKnouBOFSqP8aRCUmj"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Notas",
+        "url": "https://open.spotify.com/album/5JxbFGCIxfZPOPSuSs5GAY"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mc Jean",
+          "url": "https://open.spotify.com/artist/7iT64TaHLjA4wDm53frq3B"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "Piazza",
+          "url": "https://open.spotify.com/artist/5SpE1csYpLIA05aBXqkOuR"
+        }
+      ],
+      "duration_ms": 201951,
+      "name": "Notas",
+      "url": "https://open.spotify.com/track/2AuH6RO1u7PMqCUv8HNg43"
     }
   ],
   "unique_name": "AMPLIFIKA",

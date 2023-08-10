@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,876 likes - 253 songs - 13 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,878 likes - 253 songs - 13 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 87 | [You](https://open.spotify.com/track/6FAsJDkg4y5JSWP9ZMKlDj) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 2:59 |
 | 88 | [Imperfections](https://open.spotify.com/track/2d6wvZdvJ0bGJ4Olfm1lsp) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Courage \(Deluxe Edition\)](https://open.spotify.com/album/0mqNgHFh1NYaxmlMS5IeGc) | 3:59 |
 | 89 | [Muddy Feet \(feat\. Sia\)](https://open.spotify.com/track/1S1WWTuydW6zljNeHOpZXe) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 2:16 |
-| 90 | [RAIN](https://open.spotify.com/track/55PC8EQgaWWrIgP0H2VC6x) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead \(Deluxe\)](https://open.spotify.com/album/3h7X7RcVxhSNLCCxJ7I9ar) | 3:33 |
-| 91 | [Summer Baby](https://open.spotify.com/track/3FyfTh70PkgooRDe4SNP0U) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 2:41 |
+| 90 | [Summer Baby](https://open.spotify.com/track/3FyfTh70PkgooRDe4SNP0U) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 2:41 |
+| 91 | [RAIN](https://open.spotify.com/track/55PC8EQgaWWrIgP0H2VC6x) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead \(Deluxe\)](https://open.spotify.com/album/3h7X7RcVxhSNLCCxJ7I9ar) | 3:33 |
 | 92 | [Island](https://open.spotify.com/track/0lJrPatloYarTbsKciShJu) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:59 |
 | 93 | [Wild Dreams \(feat\. Khalid\)](https://open.spotify.com/track/2cgamRofJ1iWxAHD801DNu) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:06 |
 | 94 | [Lobby](https://open.spotify.com/track/17UMDTqVeX3SqvgKr8kSmF) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Versions of Me \(Deluxe\)](https://open.spotify.com/album/7mJHNN7NNnPBofreezMbef) | 2:37 |
@@ -262,4 +262,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 252 | [Heaven](https://open.spotify.com/track/0t0Dqao4DNlyZkhjA8MLbh) | [Michael Wills](https://open.spotify.com/artist/2EXbEUh36k3Qjh48mcXvpf) | [Fire](https://open.spotify.com/album/7fT0kivs4DxyxoeSk7KphV) | 3:20 |
 | 253 | [Lied on Me](https://open.spotify.com/track/3DUaaUvTEebccVYvlTGBuL) | [Mike Riches Ross](https://open.spotify.com/artist/1EOsdKjjf2PWJf4OgT3pYT) | [Collected Thoughts](https://open.spotify.com/album/7HwchDhCZqyr4Y0XZV1G1T) | 4:31 |
 
-Snapshot ID: `MjgxOTI0NTAsMDAwMDAwMDBlMTc4NjEwNmI3ZWVlMGQ2NWI1ZWE4YjY4MDI1YzJkYQ==`
+Snapshot ID: `MjgxOTM4OTAsMDAwMDAwMDBkZWY1NDAzOWUyOWUzN2IwZmUwYmJiMGQ3ZDA4ODViMw==`

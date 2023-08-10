@@ -2,9 +2,9 @@
 
 ### [Indie Sleaze](https://open.spotify.com/playlist/37i9dQZF1DWVmFSstZWJmo)
 
-> Is "indie sleaze" in the room with us now? ft\. The Dare
+> Is "indie sleaze" in the room with us now? ft\. Master Peace
 
-170 songs - 10 hr 46 min
+171 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Lisztomania](https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 4:01 | 2022-11-10 |  |
 | [Little Secrets](https://open.spotify.com/track/3kb38wezoUA8ki5jPYy3t5) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 3:58 | 2022-11-10 |  |
 | [Locals \(Girls like us\) \[with gabby start\]](https://open.spotify.com/track/2MMHDP5jHn6oNoBJvEA88L) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7), [gabby start](https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9) | [Locals \(Girls like us\) \[with gabby start\]](https://open.spotify.com/album/6iCbxmNk6vmXTGLYInRVJX) | 4:18 | 2023-07-13 |  |
+| [LOO SONG](https://open.spotify.com/track/3F0z2ffuQuc3aTHPI0l2Ku) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [LOO SONG](https://open.spotify.com/album/5WSTzOHLT79yFmXvuh7jZ8) | 2:27 | 2023-08-09 |  |
 | [Make Her Say](https://open.spotify.com/track/7dZAPeA3Of5j5Vaef0DQ6M) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Man On The Moon: The End Of Day \(Deluxe\)](https://open.spotify.com/album/2S8AWAM0nxyFy66YnUfIs3) | 3:36 | 2023-04-14 |  |
 | [Manhattan Loverboy](https://open.spotify.com/track/0oiko2wdimK45R6UE5SxWt) | [Future Punx](https://open.spotify.com/artist/6zHfQ4KauODVU1slfPi7wv) | [This Is Post\-Wave](https://open.spotify.com/album/1ADYR4kZMyrK3CPeoPGw20) | 4:27 | 2023-04-14 | 2023-04-27 |
 | [Maps](https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 3:39 | 2022-11-10 |  |
@@ -130,7 +131,7 @@
 | [Polish Girl](https://open.spotify.com/track/5g3TDpgy1J1woAUVuj21EE) | [Neon Indian](https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er) | [Era Extraña](https://open.spotify.com/album/1S23RKAbHcn3AF2F7ns3sN) | 4:24 | 2023-05-17 |  |
 | [Pop Star](https://open.spotify.com/track/0widrZ6KVNuIPhbM1rWPDR) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Sexy](https://open.spotify.com/album/3KMEvR3Z94dD31r3CEyoiq) | 3:04 | 2022-11-10 |  |
 | [Professional Griefers \- Vocal Mix](https://open.spotify.com/track/2AqazcPtVXn7uhFIyInNNp) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5) | [> album title goes here <](https://open.spotify.com/album/4zksvtV0HswF5ZRJS9QsfX) | 4:03 | 2023-04-14 | 2023-04-27 |
-| [Psychic City \- Classixx Remix](https://open.spotify.com/track/4NWpGwfkWMlA7G2ZpFKDXZ) | [YACHT](https://open.spotify.com/artist/57anmI1X2hXWPrNagFdzZr), [Classixx](https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ) | [See Mystery Lights: Remixes & B\-Sides](https://open.spotify.com/album/7JNgMsuPDrqguKEh5rGaFb) | 4:11 | 2023-08-02 |  |
+| [Psychic City \- Classixx Remix](https://open.spotify.com/track/4NWpGwfkWMlA7G2ZpFKDXZ) | [YACHT](https://open.spotify.com/artist/57anmI1X2hXWPrNagFdzZr), [Classixx](https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ) | [See Mystery Lights: Remixes & B\-Sides](https://open.spotify.com/album/7JNgMsuPDrqguKEh5rGaFb) | 4:11 | 2023-08-02 | 2023-08-10 |
 | [Pursuit Of Happiness \- Extended Steve Aoki Remix](https://open.spotify.com/track/5PX4uS1LqlWEPL69phPVQQ) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Pursuit Of Happiness \[Extended Steve Aoki Remix \(Explicit\)\]](https://open.spotify.com/album/38MFjDPIDJFfLF7IVpe1rv) | 6:13 | 2023-04-14 |  |
 | [Rawnald Gregory Erickson the Second](https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Starfucker](https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ) | 2:53 | 2022-11-10 |  |
 | [Ready For The Floor](https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Made In The Dark](https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ) | 3:54 | 2022-11-10 |  |

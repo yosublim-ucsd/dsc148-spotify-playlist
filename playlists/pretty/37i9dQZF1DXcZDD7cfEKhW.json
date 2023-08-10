@@ -1,12 +1,12 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Aqua",
-  "num_followers": 3426285,
+  "num_followers": 3426708,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjI1Mjc1OWNiOTE2Njc3ZGMyYzQ5MmI3Y2E0YTY2OWJkOWJkZTE5",
+  "snapshot_id": "MCwwMjZlYzA3MjlkZGUyMjNjYTE4YzcxMmYzNzhjMTM5OTU0YWEyNTJl",
   "tracks": [
     {
       "added_at": "2023-08-04 16:18:45",
@@ -503,30 +503,22 @@
     {
       "added_at": "2023-08-04 16:18:45",
       "album": {
-        "name": "New Gold (feat. Tame Impala and Bootie Brown) [Dom Dolla Remix]",
-        "url": "https://open.spotify.com/album/7BVQ5jsPNkmQUnlOU0mg6e"
+        "name": "Lose You (Felix Jaehn Remix)",
+        "url": "https://open.spotify.com/album/2cEfd4AeRYQRRxiT0Q4BHu"
       },
       "artists": [
         {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         },
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        },
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Bootie Brown",
-          "url": "https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d"
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
         }
       ],
-      "duration_ms": 274141,
-      "name": "New Gold (feat. Tame Impala and Bootie Brown) - Dom Dolla Remix",
-      "url": "https://open.spotify.com/track/2c3KCGq6UojB2c8UAFrRON"
+      "duration_ms": 156404,
+      "name": "Lose You - Felix Jaehn Remix",
+      "url": "https://open.spotify.com/track/1YXS5uFWQnwQbN9dmXgYrC"
     },
     {
       "added_at": "2023-08-04 16:18:45",
@@ -551,22 +543,30 @@
     {
       "added_at": "2023-08-04 16:18:45",
       "album": {
-        "name": "Lose You (Felix Jaehn Remix)",
-        "url": "https://open.spotify.com/album/2cEfd4AeRYQRRxiT0Q4BHu"
+        "name": "New Gold (feat. Tame Impala and Bootie Brown) [Dom Dolla Remix]",
+        "url": "https://open.spotify.com/album/7BVQ5jsPNkmQUnlOU0mg6e"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Bootie Brown",
+          "url": "https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d"
         }
       ],
-      "duration_ms": 156404,
-      "name": "Lose You - Felix Jaehn Remix",
-      "url": "https://open.spotify.com/track/1YXS5uFWQnwQbN9dmXgYrC"
+      "duration_ms": 274141,
+      "name": "New Gold (feat. Tame Impala and Bootie Brown) - Dom Dolla Remix",
+      "url": "https://open.spotify.com/track/2c3KCGq6UojB2c8UAFrRON"
     },
     {
       "added_at": "2023-08-04 16:18:45",
@@ -811,6 +811,26 @@
     {
       "added_at": "2023-08-04 16:18:45",
       "album": {
+        "name": "Rise (Sam Feldt Remix)",
+        "url": "https://open.spotify.com/album/3SFLNyzF7aNhJuzkIAxHqg"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        }
+      ],
+      "duration_ms": 162540,
+      "name": "Rise (Sam Feldt Remix)",
+      "url": "https://open.spotify.com/track/2PI3dfxZWkaEpBoCJq56RK"
+    },
+    {
+      "added_at": "2023-08-04 16:18:45",
+      "album": {
         "name": "Numb (Alok Remix)",
         "url": "https://open.spotify.com/album/3wtLFXAFurtpmgn1whn7Uf"
       },
@@ -835,26 +855,6 @@
     {
       "added_at": "2023-08-04 16:18:45",
       "album": {
-        "name": "Rise (Sam Feldt Remix)",
-        "url": "https://open.spotify.com/album/3SFLNyzF7aNhJuzkIAxHqg"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        },
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        }
-      ],
-      "duration_ms": 162540,
-      "name": "Rise (Sam Feldt Remix)",
-      "url": "https://open.spotify.com/track/2PI3dfxZWkaEpBoCJq56RK"
-    },
-    {
-      "added_at": "2023-08-04 16:18:45",
-      "album": {
         "name": "Sinnerman (Sofi Tukker Remix)",
         "url": "https://open.spotify.com/album/4BaT7OuXhqB2KRmHsR07Rj"
       },
@@ -875,26 +875,6 @@
     {
       "added_at": "2023-08-04 16:18:45",
       "album": {
-        "name": "Green Green Grass",
-        "url": "https://open.spotify.com/album/7s2tI5Em7hNCF9vZK6K91Q"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        },
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Green Green Grass - Sam Feldt Remix",
-      "url": "https://open.spotify.com/track/7hRssVtvUSR7WnqzrqOACT"
-    },
-    {
-      "added_at": "2023-08-04 16:18:45",
-      "album": {
         "name": "Never Gonna Not Dance Again (Sam Feldt Remix)",
         "url": "https://open.spotify.com/album/4qxm7mFPzfXYEo5A9LPg5J"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 167419,
       "name": "Never Gonna Not Dance Again - Sam Feldt Remix",
       "url": "https://open.spotify.com/track/1U3VkqNBorp6hxLoM6JlQJ"
+    },
+    {
+      "added_at": "2023-08-04 16:18:45",
+      "album": {
+        "name": "Green Green Grass",
+        "url": "https://open.spotify.com/album/7s2tI5Em7hNCF9vZK6K91Q"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Green Green Grass - Sam Feldt Remix",
+      "url": "https://open.spotify.com/track/7hRssVtvUSR7WnqzrqOACT"
     },
     {
       "added_at": "2023-08-04 16:18:45",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2023-08-04 16:18:45",
       "album": {
-        "name": "Cardboard Box",
-        "url": "https://open.spotify.com/album/7GKgn6QLyZrGQ1atBIfhY0"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        },
-        {
-          "name": "Happi",
-          "url": "https://open.spotify.com/artist/6JboUw8iZP7Ts7fDcVowP4"
-        }
-      ],
-      "duration_ms": 150638,
-      "name": "Cardboard Box - Happi Remix",
-      "url": "https://open.spotify.com/track/3Y9cvPqBb5Dnpc2MpG6f3j"
-    },
-    {
-      "added_at": "2023-08-04 16:18:45",
-      "album": {
         "name": "Moth To A Flame (Adriatique Remix)",
         "url": "https://open.spotify.com/album/0lyIECV269U9MTTCc3gOkC"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 389956,
       "name": "Moth To A Flame (feat. The Weeknd) - Adriatique Remix",
       "url": "https://open.spotify.com/track/1G3kwVs3JHqN5UPiFXcAID"
+    },
+    {
+      "added_at": "2023-08-04 16:18:45",
+      "album": {
+        "name": "Cardboard Box",
+        "url": "https://open.spotify.com/album/7GKgn6QLyZrGQ1atBIfhY0"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        },
+        {
+          "name": "Happi",
+          "url": "https://open.spotify.com/artist/6JboUw8iZP7Ts7fDcVowP4"
+        }
+      ],
+      "duration_ms": 150638,
+      "name": "Cardboard Box - Happi Remix",
+      "url": "https://open.spotify.com/track/3Y9cvPqBb5Dnpc2MpG6f3j"
     },
     {
       "added_at": "2023-08-04 16:18:45",
@@ -1455,6 +1455,26 @@
     {
       "added_at": "2023-08-04 16:18:45",
       "album": {
+        "name": "Say Yes To Heaven (Anyma Remix)",
+        "url": "https://open.spotify.com/album/35ZI8inROOaI4YkvOmCSLq"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "duration_ms": 222076,
+      "name": "Say Yes To Heaven - Anyma Remix",
+      "url": "https://open.spotify.com/track/6YzWNNWyxVGC0eczvuUtmF"
+    },
+    {
+      "added_at": "2023-08-04 16:18:45",
+      "album": {
         "name": "golden hour (R3HAB Remix)",
         "url": "https://open.spotify.com/album/5YfRV1SVXDVwNNf2dmJRyf"
       },
@@ -1555,26 +1575,6 @@
       "duration_ms": 205440,
       "name": "Steal My Clothes (ft. Bea Miller) \u2013 LP Giobbi Remix",
       "url": "https://open.spotify.com/track/6Esm09YZlCd58xR08xT021"
-    },
-    {
-      "added_at": "2023-08-04 16:18:45",
-      "album": {
-        "name": "Say Yes To Heaven (Anyma Remix)",
-        "url": "https://open.spotify.com/album/35ZI8inROOaI4YkvOmCSLq"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        },
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        }
-      ],
-      "duration_ms": 222076,
-      "name": "Say Yes To Heaven - Anyma Remix",
-      "url": "https://open.spotify.com/track/6YzWNNWyxVGC0eczvuUtmF"
     },
     {
       "added_at": "2023-08-04 16:18:45",

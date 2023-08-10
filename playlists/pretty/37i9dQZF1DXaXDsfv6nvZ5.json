@@ -1,12 +1,12 @@
 {
   "description": "The soulful tunes to ease you into your day.",
-  "num_followers": 752484,
+  "num_followers": 752513,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjhlYzAyNDYzMmQ3YzUxMTIxYmVhYjA3YTNhNTMyMTBhZjAyZDE3",
+  "snapshot_id": "MCw0NDZmNWY4Yjk3MjJmNmNlYmFmODJkYTdhMDVkY2Q5M2FjOWUyYjhj",
   "tracks": [
     {
       "added_at": "2023-06-30 04:28:27",
@@ -597,38 +597,6 @@
       "url": "https://open.spotify.com/track/3fPBXNuHlH4N3hmiEzK5y0"
     },
     {
-      "added_at": "2022-09-23 04:06:59",
-      "album": {
-        "name": "SIDE OF YOU",
-        "url": "https://open.spotify.com/album/4bl5UiLHsOJc2OIaO9ugmG"
-      },
-      "artists": [
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        }
-      ],
-      "duration_ms": 165980,
-      "name": "SIDE OF YOU",
-      "url": "https://open.spotify.com/track/1cHBuQf2xa55GghN4eBp1H"
-    },
-    {
-      "added_at": "2023-05-12 05:07:36",
-      "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/4WXVew9ALyRwKJ6Avj7FYM"
-      },
-      "artists": [
-        {
-          "name": "Lee England Jr",
-          "url": "https://open.spotify.com/artist/7FabEcDtzenndrHSHMqyQL"
-        }
-      ],
-      "duration_ms": 183412,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/54CJIU0qCLcjgT5KMgHw9B"
-    },
-    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "Table For Two",
@@ -647,6 +615,38 @@
       "duration_ms": 302240,
       "name": "How Much Can A Heart Take (feat. Yebba)",
       "url": "https://open.spotify.com/track/5SFssNXGjeOxdAnECfgttm"
+    },
+    {
+      "added_at": "2023-05-12 05:07:36",
+      "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/4WXVew9ALyRwKJ6Avj7FYM"
+      },
+      "artists": [
+        {
+          "name": "Lee England Jr",
+          "url": "https://open.spotify.com/artist/7FabEcDtzenndrHSHMqyQL"
+        }
+      ],
+      "duration_ms": 183412,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/54CJIU0qCLcjgT5KMgHw9B"
+    },
+    {
+      "added_at": "2022-09-23 04:06:59",
+      "album": {
+        "name": "SIDE OF YOU",
+        "url": "https://open.spotify.com/album/4bl5UiLHsOJc2OIaO9ugmG"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        }
+      ],
+      "duration_ms": 165980,
+      "name": "SIDE OF YOU",
+      "url": "https://open.spotify.com/track/1cHBuQf2xa55GghN4eBp1H"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -777,26 +777,6 @@
       "url": "https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Collide (From \"Queen & Slim: The Soundtrack\")",
-        "url": "https://open.spotify.com/album/0Y9i5YM95iEHAQpppUN76A"
-      },
-      "artists": [
-        {
-          "name": "Tiana Major9",
-          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 205453,
-      "name": "Collide - From \"Queen & Slim: The Soundtrack\"",
-      "url": "https://open.spotify.com/track/1mEO3xiJqEWXYIdZalDzHR"
-    },
-    {
       "added_at": "2023-04-28 04:00:00",
       "album": {
         "name": "All For You",
@@ -815,6 +795,26 @@
       "duration_ms": 238571,
       "name": "Lying To You",
       "url": "https://open.spotify.com/track/67ngp6fHtPNrUGuGu4cvcm"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Collide (From \"Queen & Slim: The Soundtrack\")",
+        "url": "https://open.spotify.com/album/0Y9i5YM95iEHAQpppUN76A"
+      },
+      "artists": [
+        {
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 205453,
+      "name": "Collide - From \"Queen & Slim: The Soundtrack\"",
+      "url": "https://open.spotify.com/track/1mEO3xiJqEWXYIdZalDzHR"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1129,22 +1129,6 @@
       "url": "https://open.spotify.com/track/05XH6Bl3LxOCc1PsN3SyIj"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Sorrow",
-        "url": "https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT"
-      },
-      "artists": [
-        {
-          "name": "Konyikeh",
-          "url": "https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ"
-        }
-      ],
-      "duration_ms": 140898,
-      "name": "Sorrow",
-      "url": "https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab"
-    },
-    {
       "added_at": "2023-03-03 05:39:26",
       "album": {
         "name": "Variables",
@@ -1163,6 +1147,22 @@
       "duration_ms": 246400,
       "name": "Aged Eyes",
       "url": "https://open.spotify.com/track/0gQbyxRhcMI8SM4eMZpSZF"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Sorrow",
+        "url": "https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT"
+      },
+      "artists": [
+        {
+          "name": "Konyikeh",
+          "url": "https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ"
+        }
+      ],
+      "duration_ms": 140898,
+      "name": "Sorrow",
+      "url": "https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1349,30 +1349,10 @@
       "url": "https://open.spotify.com/track/0uwpYA2e1LrTS9MDS4p9q9"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Crush You",
-        "url": "https://open.spotify.com/album/5tNrzUgxUXtlEmPPPmmbl3"
-      },
-      "artists": [
-        {
-          "name": "Shafiq Husayn",
-          "url": "https://open.spotify.com/artist/0XzVyZOZF7FIsQ7VbBZ9Yy"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 256069,
-      "name": "Crush You",
-      "url": "https://open.spotify.com/track/3AFxrPHW0222y3t4dmHAJI"
-    },
-    {
-      "added_at": "2023-06-30 04:28:27",
-      "album": {
-        "name": "What Love Can Do [Feat. Emily King]",
-        "url": "https://open.spotify.com/album/2jAju7615SAS3Lag8ckUTs"
+        "name": "Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)",
+        "url": "https://open.spotify.com/album/2AS4H3CIUtrIzrK1UbsvWW"
       },
       "artists": [
         {
@@ -1380,13 +1360,17 @@
           "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
         },
         {
-          "name": "Emily King",
-          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
         }
       ],
-      "duration_ms": 230840,
-      "name": "What Love Can Do [Feat. Emily King]",
-      "url": "https://open.spotify.com/track/6U0xzYsrXAyWYA6CmkFSJb"
+      "duration_ms": 299366,
+      "name": "Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)",
+      "url": "https://open.spotify.com/track/04vYVsWbhkQaTLx2kgVNks"
     },
     {
       "added_at": "2023-06-16 06:17:29",
@@ -1409,6 +1393,26 @@
       "url": "https://open.spotify.com/track/77QJgfFBYZQU0zXByezYGs"
     },
     {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Crush You",
+        "url": "https://open.spotify.com/album/5tNrzUgxUXtlEmPPPmmbl3"
+      },
+      "artists": [
+        {
+          "name": "Shafiq Husayn",
+          "url": "https://open.spotify.com/artist/0XzVyZOZF7FIsQ7VbBZ9Yy"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 256069,
+      "name": "Crush You",
+      "url": "https://open.spotify.com/track/3AFxrPHW0222y3t4dmHAJI"
+    },
+    {
       "added_at": "2023-05-26 13:00:09",
       "album": {
         "name": "Midnight Microdose, Vol. 1",
@@ -1423,6 +1427,22 @@
       "duration_ms": 125706,
       "name": "Cocoa",
       "url": "https://open.spotify.com/track/5z4UjNfc0s3mkAR1l8A1cb"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/3jsEUHsf88LQ49JgTq5AHH"
+      },
+      "artists": [
+        {
+          "name": "NNAVY",
+          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
+        }
+      ],
+      "duration_ms": 270031,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh"
     },
     {
       "added_at": "2022-09-30 04:06:57",
@@ -1447,22 +1467,6 @@
       "duration_ms": 314424,
       "name": "Make Me Say It Again, Girl",
       "url": "https://open.spotify.com/track/4hv0hmUjhAqvAPGCHP4EaE"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/3jsEUHsf88LQ49JgTq5AHH"
-      },
-      "artists": [
-        {
-          "name": "NNAVY",
-          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
-        }
-      ],
-      "duration_ms": 270031,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1493,26 +1497,10 @@
       "url": "https://open.spotify.com/track/7mxvuhXGwCU8qmTuQR5rcg"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-06-30 04:28:27",
       "album": {
-        "name": "Don't Think You Ever Loved Me",
-        "url": "https://open.spotify.com/album/7LFx0rToSRheeuvNMdjovz"
-      },
-      "artists": [
-        {
-          "name": "Tyrese",
-          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
-        }
-      ],
-      "duration_ms": 396825,
-      "name": "Don't Think You Ever Loved Me",
-      "url": "https://open.spotify.com/track/3fMDMQEcEFW4LV7P6oay3b"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)",
-        "url": "https://open.spotify.com/album/2AS4H3CIUtrIzrK1UbsvWW"
+        "name": "What Love Can Do [Feat. Emily King]",
+        "url": "https://open.spotify.com/album/2jAju7615SAS3Lag8ckUTs"
       },
       "artists": [
         {
@@ -1520,17 +1508,13 @@
           "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
         },
         {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "Meshell Ndegeocello",
-          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+          "name": "Emily King",
+          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
         }
       ],
-      "duration_ms": 299366,
-      "name": "Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)",
-      "url": "https://open.spotify.com/track/04vYVsWbhkQaTLx2kgVNks"
+      "duration_ms": 230840,
+      "name": "What Love Can Do [Feat. Emily King]",
+      "url": "https://open.spotify.com/track/6U0xzYsrXAyWYA6CmkFSJb"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1547,6 +1531,38 @@
       "duration_ms": 182493,
       "name": "Don't Doubt It",
       "url": "https://open.spotify.com/track/28yYqgatnEJFxN8JOmvxUk"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Don't Think You Ever Loved Me",
+        "url": "https://open.spotify.com/album/7LFx0rToSRheeuvNMdjovz"
+      },
+      "artists": [
+        {
+          "name": "Tyrese",
+          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
+        }
+      ],
+      "duration_ms": 396825,
+      "name": "Don't Think You Ever Loved Me",
+      "url": "https://open.spotify.com/track/3fMDMQEcEFW4LV7P6oay3b"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Bewilderment",
+        "url": "https://open.spotify.com/album/6lhy077vcpLXGOSSCkP3wM"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        }
+      ],
+      "duration_ms": 218783,
+      "name": "Bewilderment",
+      "url": "https://open.spotify.com/track/4qqNPAiQmGVdwxLrfYmYDg"
     },
     {
       "added_at": "2023-06-16 06:17:29",
@@ -1605,22 +1621,6 @@
       "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Bewilderment",
-        "url": "https://open.spotify.com/album/6lhy077vcpLXGOSSCkP3wM"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        }
-      ],
-      "duration_ms": 218783,
-      "name": "Bewilderment",
-      "url": "https://open.spotify.com/track/4qqNPAiQmGVdwxLrfYmYDg"
-    },
-    {
       "added_at": "2022-10-03 05:27:10",
       "album": {
         "name": "Pineapple Cognac",
@@ -1653,20 +1653,20 @@
       "url": "https://open.spotify.com/track/3DU1AMXRg8IkrvAMg6odMt"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2022-08-26 04:46:22",
       "album": {
-        "name": "All I Really Wanna Do",
-        "url": "https://open.spotify.com/album/7uJEue4cTERq6gsqh8WAks"
+        "name": "Thee Sacred Souls",
+        "url": "https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE"
       },
       "artists": [
         {
-          "name": "Devon Gilfillian",
-          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
         }
       ],
-      "duration_ms": 222080,
-      "name": "All I Really Wanna Do",
-      "url": "https://open.spotify.com/track/1SNJRCOuSinxdGq7e4gB7K"
+      "duration_ms": 192800,
+      "name": "Love Comes Easy",
+      "url": "https://open.spotify.com/track/0BCCNCHg7w7RV0JczNwzyP"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1685,20 +1685,20 @@
       "url": "https://open.spotify.com/track/2CF6WekP8rVrRJfQWZDRgf"
     },
     {
-      "added_at": "2022-08-26 04:46:22",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Thee Sacred Souls",
-        "url": "https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE"
+        "name": "All I Really Wanna Do",
+        "url": "https://open.spotify.com/album/7uJEue4cTERq6gsqh8WAks"
       },
       "artists": [
         {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
         }
       ],
-      "duration_ms": 192800,
-      "name": "Love Comes Easy",
-      "url": "https://open.spotify.com/track/0BCCNCHg7w7RV0JczNwzyP"
+      "duration_ms": 222080,
+      "name": "All I Really Wanna Do",
+      "url": "https://open.spotify.com/track/1SNJRCOuSinxdGq7e4gB7K"
     },
     {
       "added_at": "2023-05-05 05:35:01",
@@ -1833,20 +1833,20 @@
       "url": "https://open.spotify.com/track/0KhNmUNDpg3fPrGV0YpvnH"
     },
     {
-      "added_at": "2023-05-05 05:35:01",
+      "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Soul,PRESENT",
-        "url": "https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6"
+        "name": "Desperate Soul",
+        "url": "https://open.spotify.com/album/17xuD9aIF7NINcTmvkEWf4"
       },
       "artists": [
         {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+          "name": "HILLARI",
+          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
         }
       ],
-      "duration_ms": 189826,
-      "name": "WELCOME TO SOUL,PRESENT",
-      "url": "https://open.spotify.com/track/0us7zsn3fg0xjJ4nzNeEHu"
+      "duration_ms": 127826,
+      "name": "Desperate Soul",
+      "url": "https://open.spotify.com/track/5n6pFWEIz6KlcAsZL4J7O3"
     }
   ],
   "unique_name": "Soul Coffee",

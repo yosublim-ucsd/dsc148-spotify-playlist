@@ -1,12 +1,12 @@
 {
   "description": "2012 highlights from the home of indie music.",
-  "num_followers": 75616,
+  "num_followers": 75670,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzZkMWU2NDMyNWFmNzczMzdkNDZmNGU1MTMxYjc3YzQxNmEwNDBl",
+  "snapshot_id": "MCw2YjU0NDA1NDJjN2NhZDM5YjFiMDYzNWViMDYyMTc2NDA3MTNlMjFh",
   "tracks": [
     {
       "added_at": "2022-05-19 08:11:23",
@@ -187,22 +187,18 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Some Nights",
-        "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
+        "name": "Matangi",
+        "url": "https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR"
       },
       "artists": [
         {
-          "name": "fun.",
-          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
-        },
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
         }
       ],
-      "duration_ms": 250626,
-      "name": "We Are Young (feat. Janelle Mon\u00e1e)",
-      "url": "https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD"
+      "duration_ms": 227520,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -223,18 +219,22 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Matangi",
-        "url": "https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR"
+        "name": "Some Nights",
+        "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
       },
       "artists": [
         {
-          "name": "M.I.A.",
-          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+          "name": "fun.",
+          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
+        },
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
         }
       ],
-      "duration_ms": 227520,
-      "name": "Bad Girls",
-      "url": "https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb"
+      "duration_ms": 250626,
+      "name": "We Are Young (feat. Janelle Mon\u00e1e)",
+      "url": "https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 258653,
-      "name": "Myth",
-      "url": "https://open.spotify.com/track/2NfxtzCIrpCmJX5Z2KMdD5"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Jake Bugg",
         "url": "https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 144013,
       "name": "Lightning Bolt",
       "url": "https://open.spotify.com/track/79DO6dBi8936P6EShLB209"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 258653,
+      "name": "Myth",
+      "url": "https://open.spotify.com/track/2NfxtzCIrpCmJX5Z2KMdD5"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/4nYzn3xOXQsltWZ5AIQns7"
+      },
+      "artists": [
+        {
+          "name": "Chairlift",
+          "url": "https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp"
+        }
+      ],
+      "duration_ms": 207306,
+      "name": "I Belong in Your Arms",
+      "url": "https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
         "name": "Mature Themes",
         "url": "https://open.spotify.com/album/08RdKFNm8Cu86FSzlhoAoh"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 287426,
       "name": "Baby",
       "url": "https://open.spotify.com/track/1e4kwCOOIv8OHBHSd3avgQ"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
-        "name": "Something",
-        "url": "https://open.spotify.com/album/4nYzn3xOXQsltWZ5AIQns7"
-      },
-      "artists": [
-        {
-          "name": "Chairlift",
-          "url": "https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp"
-        }
-      ],
-      "duration_ms": 207306,
-      "name": "I Belong in Your Arms",
-      "url": "https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Boys & Girls (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 179653,
-      "name": "I Found You",
-      "url": "https://open.spotify.com/track/2v1L7Mf7mhgBzpAEcGSdfL"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Thinking In Textures",
         "url": "https://open.spotify.com/album/47LO6P3JLMkV8QOMRdJc4M"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 221533,
       "name": "No Diggity",
       "url": "https://open.spotify.com/track/2u6IAPdDmvp3RPbrGdDX8U"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Boys & Girls (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 179653,
+      "name": "I Found You",
+      "url": "https://open.spotify.com/track/2v1L7Mf7mhgBzpAEcGSdfL"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Delta Spirit",
-        "url": "https://open.spotify.com/album/7azn6b0REXVeI7x6I8ebQi"
-      },
-      "artists": [
-        {
-          "name": "Delta Spirit",
-          "url": "https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V"
-        }
-      ],
-      "duration_ms": 219520,
-      "name": "California",
-      "url": "https://open.spotify.com/track/4Y3gLYlV5rD3fhirhWKtei"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Colour Of The Trap",
         "url": "https://open.spotify.com/album/671vYDTGlzYQfsibwLHxNB"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 209106,
       "name": "Rearrange",
       "url": "https://open.spotify.com/track/6f4V3llGPLYgv49ro7vXSE"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Delta Spirit",
+        "url": "https://open.spotify.com/album/7azn6b0REXVeI7x6I8ebQi"
+      },
+      "artists": [
+        {
+          "name": "Delta Spirit",
+          "url": "https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V"
+        }
+      ],
+      "duration_ms": 219520,
+      "name": "California",
+      "url": "https://open.spotify.com/track/4Y3gLYlV5rD3fhirhWKtei"
     }
   ],
   "unique_name": "Best of Indie 2012",

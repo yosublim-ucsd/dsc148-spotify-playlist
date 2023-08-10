@@ -1,12 +1,12 @@
 {
   "description": "Music paying tribute to the Heartland of America.",
-  "num_followers": 234997,
+  "num_followers": 235140,
   "original_name": "Heartland Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OWQ1ZTkzOTE0ZjY4ZTE0MmYxNDdjNDJjZTA4MTc1YmM1MDRiNTZh",
+  "snapshot_id": "MCwzNTJmNjc4ZmMxM2EyMjAzYjFkNzVhMWI5MTk0MjRhZTUxMTU4OWMz",
   "tracks": [
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Country On",
-        "url": "https://open.spotify.com/album/3XgzAqjFk10Vyspx8c7OEm"
+        "name": "Halfway To Heaven (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3yWeEEaC5xs7FgzwRgjm1p"
       },
       "artists": [
         {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
         }
       ],
-      "duration_ms": 236455,
-      "name": "Country On",
-      "url": "https://open.spotify.com/track/1tRxwf8Q0AcshfHuaD86Yt"
+      "duration_ms": 225746,
+      "name": "Kick It In The Sticks",
+      "url": "https://open.spotify.com/track/01ZepwW5W3Z4fwl4bzaHyY"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Halfway To Heaven (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3yWeEEaC5xs7FgzwRgjm1p"
+        "name": "Country On",
+        "url": "https://open.spotify.com/album/3XgzAqjFk10Vyspx8c7OEm"
       },
       "artists": [
         {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 225746,
-      "name": "Kick It In The Sticks",
-      "url": "https://open.spotify.com/track/01ZepwW5W3Z4fwl4bzaHyY"
+      "duration_ms": 236455,
+      "name": "Country On",
+      "url": "https://open.spotify.com/track/1tRxwf8Q0AcshfHuaD86Yt"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "What Makes You Country",
-        "url": "https://open.spotify.com/album/6NUEU1vyIctdAg8IHot8Wy"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 235266,
-      "name": "What Makes You Country",
-      "url": "https://open.spotify.com/track/3bDXhWsPiFTHtrsMg5faL2"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Hard 2 Love",
         "url": "https://open.spotify.com/album/0RnVSSUbSBEjk5MlQZhYYP"
       },
@@ -1435,6 +1419,22 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
+        "name": "What Makes You Country",
+        "url": "https://open.spotify.com/album/6NUEU1vyIctdAg8IHot8Wy"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 235266,
+      "name": "What Makes You Country",
+      "url": "https://open.spotify.com/track/3bDXhWsPiFTHtrsMg5faL2"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
         "name": "Can't Say I Ain't Country",
         "url": "https://open.spotify.com/album/64nhe9s692yKECAoMcEQ8U"
       },
@@ -1447,22 +1447,6 @@
       "duration_ms": 198520,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/7dnDBbHKyJNFXoeVwO8KBY"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Halfway To Heaven (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3yWeEEaC5xs7FgzwRgjm1p"
-      },
-      "artists": [
-        {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
-        }
-      ],
-      "duration_ms": 214826,
-      "name": "Country Must Be Country Wide",
-      "url": "https://open.spotify.com/track/454JIJlQ8GvrCoBvSfq3KA"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1483,6 +1467,22 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
+        "name": "Halfway To Heaven (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3yWeEEaC5xs7FgzwRgjm1p"
+      },
+      "artists": [
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        }
+      ],
+      "duration_ms": 214826,
+      "name": "Country Must Be Country Wide",
+      "url": "https://open.spotify.com/track/454JIJlQ8GvrCoBvSfq3KA"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
         "name": "Playlist: The Very Best Of Lonestar",
         "url": "https://open.spotify.com/album/6FoiXUlfC8amjO8yqmYZM5"
       },
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Maury County Line",
-        "url": "https://open.spotify.com/album/3CJFXeleQ6qvVpYz57KcKy"
-      },
-      "artists": [
-        {
-          "name": "Shane Profitt",
-          "url": "https://open.spotify.com/artist/4EZVvQwjbt64lridujx2Da"
-        }
-      ],
-      "duration_ms": 188736,
-      "name": "How It Oughta Be",
-      "url": "https://open.spotify.com/track/5bA63p1XSVdatb4plUB9fN"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Brett Eldredge",
         "url": "https://open.spotify.com/album/1NUKNYLtePSiZnQj0QeZlo"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 208720,
       "name": "The Long Way",
       "url": "https://open.spotify.com/track/5vuMtXS5kQ7F0o9V9rG1dG"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Maury County Line",
+        "url": "https://open.spotify.com/album/3CJFXeleQ6qvVpYz57KcKy"
+      },
+      "artists": [
+        {
+          "name": "Shane Profitt",
+          "url": "https://open.spotify.com/artist/4EZVvQwjbt64lridujx2Da"
+        }
+      ],
+      "duration_ms": 188736,
+      "name": "How It Oughta Be",
+      "url": "https://open.spotify.com/track/5bA63p1XSVdatb4plUB9fN"
     },
     {
       "added_at": "2023-07-14 04:00:00",

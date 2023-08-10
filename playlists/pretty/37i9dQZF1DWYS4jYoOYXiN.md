@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 
 > We like it like that! Cover: Pete Rodriguez \(Courtesy of Fania\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,750 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,787 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 40 | [Boogaloo Blues](https://open.spotify.com/track/62o0gzaSrLZvdTwlvWkDq5) | [Johnny Colon](https://open.spotify.com/artist/4IQvRKcRuA2mzB6lc2E5Pm) | [Fania Records 60's Gold](https://open.spotify.com/album/23tZQ7L4t76gYwRKx2h9ye) | 5:31 |
 | 41 | [Qué Bueno Boogaloo](https://open.spotify.com/track/4XSsRzYLeNHCOOa12VruGx) | [La Lupe](https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a) | [The Two Sides Of La Lupe](https://open.spotify.com/album/5Hx8oOGVVbHR0mPpKLYmhb) | 2:47 |
 | 42 | [Pata Pata](https://open.spotify.com/track/2C06v7c02nnrZLPCR2TgHO) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [The King](https://open.spotify.com/album/7xgkOmB7syD8a5Srn3Z5va) | 3:15 |
-| 43 | [Afro\-Shingaling](https://open.spotify.com/track/62Ppkk5aUAfSfewhZY1CC8) | [The Latinaires](https://open.spotify.com/artist/4sTXPMY0WxaeBKN4HAXLIj) | [Camel Walk](https://open.spotify.com/album/2Gx9abfQOdoIMggiAxDUof) | 3:57 |
-| 44 | [Micaela](https://open.spotify.com/track/7uOddHRjCk9KE6hDgGB0NG) | [Pete Rodriguez](https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS) | [Fania Signature Vol\. III: Boogaloo](https://open.spotify.com/album/3FZzICWs1LVtzIirWtQLlQ) | 5:24 |
+| 43 | [Micaela](https://open.spotify.com/track/7uOddHRjCk9KE6hDgGB0NG) | [Pete Rodriguez](https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS) | [Fania Signature Vol\. III: Boogaloo](https://open.spotify.com/album/3FZzICWs1LVtzIirWtQLlQ) | 5:24 |
+| 44 | [Afro\-Shingaling](https://open.spotify.com/track/62Ppkk5aUAfSfewhZY1CC8) | [The Latinaires](https://open.spotify.com/artist/4sTXPMY0WxaeBKN4HAXLIj) | [Camel Walk](https://open.spotify.com/album/2Gx9abfQOdoIMggiAxDUof) | 3:57 |
 | 45 | [La Bamba](https://open.spotify.com/track/39DgsVDftJOLDqOdFmX7tf) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Mr\. Watermelon Man](https://open.spotify.com/album/75Yd4kU10gcUGWBinUePWn) | 3:58 |
 | 46 | [Oh Yeah](https://open.spotify.com/track/0Cwx3l6mqlXQFvrIGcjNeP) | [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Greatest Hits](https://open.spotify.com/album/4cqjTLyo6ebSUA2EE9pwrZ) | 3:14 |
 | 47 | [Pow Wow](https://open.spotify.com/track/4BH7lDLLzKPGsF8cmt7p13) | [Manny Corchado & His Orchestra](https://open.spotify.com/artist/2pcuaTPFg6uZVSItPyitfg), [Tito Jiménez](https://open.spotify.com/artist/6x9fpanAwuhr976XEB5IiY) | [Aprovecha el Tiempo](https://open.spotify.com/album/4BaWqzO241fwSJQ1GgUFRP) | 3:33 |
 | 48 | [You Gotta Love Me](https://open.spotify.com/track/6sJrSiOQHLQ8gc4XMwdxyo) | [Johnny Colon](https://open.spotify.com/artist/4IQvRKcRuA2mzB6lc2E5Pm) | [Boogaloo '67](https://open.spotify.com/album/55tvAk5bJExzORKbCbvGg2) | 6:10 |
 | 49 | [Guaguancó Triste](https://open.spotify.com/track/6S22eYfhiqVvlTYeSfZwDj) | [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4), [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [El Bestial Sonido de](https://open.spotify.com/album/75SxVlMzxU5FADaYf12d6f) | 5:23 |
-| 50 | [Guaguancó Raro](https://open.spotify.com/track/2p4JCDisy82i1dhZW4v0Pr) | [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc), [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4) | [Agúzate](https://open.spotify.com/album/2R2Y7hVi5E6mDjepQZYRN4) | 6:21 |
+| 50 | [Llegaron Los Bonches](https://open.spotify.com/track/6ESDtZGTfYuauub8WpFowC) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Volando Bajito](https://open.spotify.com/album/21mczyHRqExR3ZfnG7AjlD) | 3:22 |
 
-Snapshot ID: `MCwzMTkyMDlkY2U0ZWU1N2Q5NmE4NmY0MzM4ZGQ0NzM5ODQ1NGI0Y2Rh`
+Snapshot ID: `MCwzY2Q0YmI3MTZhYzBhMzg1OWU5MzhhYjlhNmE0ZWYwMzk1OWZhNGZm`

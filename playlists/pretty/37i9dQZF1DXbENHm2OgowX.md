@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 
 > wandering the forest as the fog floats through the trees
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,814 likes - 69 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,319 likes - 69 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 55 | [Gold of the Azure \- Marconi Union Remix](https://open.spotify.com/track/3PdFwrtQxYdw0S1urHwKO6) | [Digitonal](https://open.spotify.com/artist/5IRw6qWz0NFImXO3hNOyai), [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Set the Weather Fair: Seasons](https://open.spotify.com/album/3OKHTxMZvKcIhB1tvZTNgq) | 6:36 |
 | 56 | [I filled my Lungs with the Necessary Air, and yelled! \- Ben Lukas Boysen Rework](https://open.spotify.com/track/7wtgsXOuyJb51FbE1bmCwr) | [Simon Goff](https://open.spotify.com/artist/6TsjNI2RRk5DaCbKZK2J90), [Sam Slater](https://open.spotify.com/artist/7CBbqdnpSKylujNPI0h1io), [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER) | [Vale Reworked](https://open.spotify.com/album/2ERvok5IzEmGQl8FXg6fVz) | 7:17 |
 | 57 | [As Bright as the Night](https://open.spotify.com/track/7dTFtjtn0P1SmCDMdgm1DA) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR) | 4:56 |
-| 58 | [hexa](https://open.spotify.com/track/6BWIrKTvVD1w1zB1WhbRmP) | [Maxx](https://open.spotify.com/artist/058CZbsaJmJbRQvDRAAErr) | [hexa](https://open.spotify.com/album/3142OVL5k96lO51q7Hmiqs) | 2:29 |
-| 59 | [Lie Beneath the Stars](https://open.spotify.com/track/1zSuezypJNKfab1FnC83HG) | [Rokkr](https://open.spotify.com/artist/3SbX2Y0sQD6w8KmbJhXQZs) | [Lie Beneath the Stars](https://open.spotify.com/album/4hIXAm8DjhWViiAvruMVaj) | 6:29 |
+| 58 | [Lie Beneath the Stars](https://open.spotify.com/track/1zSuezypJNKfab1FnC83HG) | [Rokkr](https://open.spotify.com/artist/3SbX2Y0sQD6w8KmbJhXQZs) | [Lie Beneath the Stars](https://open.spotify.com/album/4hIXAm8DjhWViiAvruMVaj) | 6:29 |
+| 59 | [hexa](https://open.spotify.com/track/6BWIrKTvVD1w1zB1WhbRmP) | [Maxx](https://open.spotify.com/artist/058CZbsaJmJbRQvDRAAErr) | [hexa](https://open.spotify.com/album/3142OVL5k96lO51q7Hmiqs) | 2:29 |
 | 60 | [Polaroid](https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO) | [Dead Melodies](https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu) | [Murken Hollow](https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q) | 6:57 |
 | 61 | [haunted \(florence slowed version\)](https://open.spotify.com/track/41kZoTblXlap0lNHaQA3Qw) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [haunted \(remixes\)](https://open.spotify.com/album/7x8aZZv6uPClwBoRy3hTmX) | 2:33 |
 | 62 | [Spectral](https://open.spotify.com/track/3U8n9dqqe4louRiL2Sg4fp) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 8:09 |
@@ -76,6 +76,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 66 | [Animism](https://open.spotify.com/track/3rXugDRBIPMHUzLqxA0hg4) | [Violet A\. Foster](https://open.spotify.com/artist/3OKmOc5V850cI1rAjyo9Gi) | [Moments.](https://open.spotify.com/album/0bl0GAtHn9TGtr5Gwxoa4t) | 4:51 |
 | 67 | [Take My Hand](https://open.spotify.com/track/2li1k57BZcIGJrISHXlOmh) | [Luke Taylor](https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR) | [Take My Hand](https://open.spotify.com/album/2KVKBlcWmJ49mhV4wfQ50I) | 2:39 |
 | 68 | [All That's Left Behind](https://open.spotify.com/track/2A03Wj3IOAvZgxHnXoixZI) | [Dead Melodies](https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu) | [Murken Hollow](https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q) | 6:03 |
-| 69 | [As I Came Through the Desert Thus It Was](https://open.spotify.com/track/4CD4XG9zYVs4Ofxz6Dg7Nh) | [The Gentleman Losers](https://open.spotify.com/artist/7e8rT9wPUmfu9ZPC8Mym17) | [Permanently Midnight](https://open.spotify.com/album/6fKbc5u3JkKLYmV4ubvq5b) | 5:15 |
+| 69 | [Safn](https://open.spotify.com/track/2MHKYLzZDWpj2jZDIPVWor) | [Benoît Pioulard](https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl) | [Eidetic](https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI) | 1:10 |
 
-Snapshot ID: `MCw3MzU3MWFlMWFhMzAxMzU1MDVkYTQyY2MxYmNhNWUyYWEyNjMzMTNi`
+Snapshot ID: `MCxjYjUzMmEyYWQ4MWUwMGY1YWE4M2Q4MWM3NGE4NGE3ZGM0MzIxN2Fm`

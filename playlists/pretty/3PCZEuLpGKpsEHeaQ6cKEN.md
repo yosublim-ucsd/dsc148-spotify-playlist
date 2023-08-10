@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The biggest Armada tracks of the moment! \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! \| Updated weekly on Friday \| Cover: D.O.D
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 285,601 likes - 150 songs - 7 hr 52 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 285,605 likes - 150 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 58 | [The Eye Of Ra](https://open.spotify.com/track/0D7xjCd2S8GsCNmRVBha6f) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O) | [Armada Music \- Ibiza 2023](https://open.spotify.com/album/08t2nRgDFFGc8qZq3NntAg) | 3:44 |
 | 59 | [The Jumper \- \[IVY\] Remix](https://open.spotify.com/track/44fD8MJAjzmVFZZpGyVU1Y) | [Hammer House](https://open.spotify.com/artist/7eh776e6NmW68TTYLGd5zA), [\[IVY\]](https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw) | [Armada Music \- Ibiza 2023](https://open.spotify.com/album/08t2nRgDFFGc8qZq3NntAg) | 3:14 |
 | 60 | [Keep On Rising](https://open.spotify.com/track/44VXZoXFVrcR39wKaWZ3nH) | [Gasparian](https://open.spotify.com/artist/6cnP0K1eDHjNJwDQADxGx1), [Tasita D'Mour](https://open.spotify.com/artist/27WSf5DApzcZTVhGJLovzk) | [Armada Music \- Ibiza 2023](https://open.spotify.com/album/08t2nRgDFFGc8qZq3NntAg) | 2:59 |
-| 61 | [Rooftop](https://open.spotify.com/track/7MJg8leBmzOgxAHqFd0Cpv) | [Tensnake & DRAMA](https://open.spotify.com/artist/0DCVhSdizGfQK0xICLJtc7), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Stimulate \(Deluxe\)](https://open.spotify.com/album/1n3V1SMu8hLeccUhgTunwx) | 3:19 |
+| 61 | [Rooftop](https://open.spotify.com/track/7MJg8leBmzOgxAHqFd0Cpv) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Stimulate \(Deluxe\)](https://open.spotify.com/album/1n3V1SMu8hLeccUhgTunwx) | 3:19 |
 | 62 | [Give It Up](https://open.spotify.com/track/6TTbv0T7KQG7q51Q6b5m9n) | [The Good Men](https://open.spotify.com/artist/6i3dwduFX5pMgkijTVRvmX) | [Armada Music \- 20 Years](https://open.spotify.com/album/7wdcl45O0fWwzdm3qM481m) | 3:27 |
 | 63 | [Runaway](https://open.spotify.com/track/4zJrgYb0Ct92InT1cOQ0nP) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Armada Music \- Ibiza 2023](https://open.spotify.com/album/08t2nRgDFFGc8qZq3NntAg) | 3:21 |
 | 64 | [Most Precious Love \- DF’S Future 3000 Mix Edit](https://open.spotify.com/track/5CyGfjX3WHMsCg9zSbXIpu) | [Blaze](https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN), [UDAUFL](https://open.spotify.com/artist/2GTRVovNrpq94MSO7m6VxJ), [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w), [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi) | [Most Precious Love \(Remix\)](https://open.spotify.com/album/4Bjw68lPxhErtwsZqH9NXp) | 3:42 |

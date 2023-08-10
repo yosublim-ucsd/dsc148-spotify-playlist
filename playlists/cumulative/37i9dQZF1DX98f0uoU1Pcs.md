@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Protomartyr
 
-518 songs - 1 day 3 hr 55 min
+519 songs - 1 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,8 @@
 | [Human Condition](https://open.spotify.com/track/2LmFju01RfconFtiqKtmMb) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Makes Me Sick Makes Me Smile](https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx) | 3:50 | 2022-09-30 |  |
 | [Human Crime](https://open.spotify.com/track/1a1Mk18Fh0eba27uRe9fh4) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Human Crime](https://open.spotify.com/album/5t30kYZOvnKjhQPojZMpVi) | 3:07 | 2022-03-14 | 2022-06-11 |
 | [I Am Who I Think You Think I Am](https://open.spotify.com/track/2w1JajdAZoH0tlkABzR1Xv) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [I Am Who I Think You Think I Am](https://open.spotify.com/album/30BPK8DMcoasIQkKiBqwUQ) | 3:37 | 2021-10-07 | 2022-01-08 |
-| [I Believe](https://open.spotify.com/track/2629nMBV0YToedXJ2naMxN) | [A Giant Dog](https://open.spotify.com/artist/0PL9vFj7i7uKg74WpLohnG) | [I Believe](https://open.spotify.com/album/2NkRRWdf1T2Igxv3Y7wUYE) | 3:21 | 2023-07-14 |  |
+| [I Believe](https://open.spotify.com/track/2629nMBV0YToedXJ2naMxN) | [A Giant Dog](https://open.spotify.com/artist/0PL9vFj7i7uKg74WpLohnG) | [I Believe](https://open.spotify.com/album/2NkRRWdf1T2Igxv3Y7wUYE) | 3:21 | 2023-07-14 | 2023-08-10 |
+| [I Believe](https://open.spotify.com/track/329c0F8q0Fra2vx7FQapMw) | [A Giant Dog](https://open.spotify.com/artist/0PL9vFj7i7uKg74WpLohnG) | [A Daydream](https://open.spotify.com/album/4ukJOsBuVDR6ZWGv6gE9kv) | 3:21 | 2023-07-14 |  |
 | [I Can't Drive](https://open.spotify.com/track/5D5YcH3dr3b53fi0F8cVsU) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [I Can't Drive](https://open.spotify.com/album/2G3tEj45E2F3slj2qsVAby) | 4:07 | 2022-03-25 | 2022-08-27 |
 | [I Don't Belong](https://open.spotify.com/track/5cROm5vS1sK0gM3NQL5Gr6) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [I Don't Belong](https://open.spotify.com/album/4No1gKG4RlwBZEShVdOwUW) | 4:31 | 2021-10-07 | 2022-03-12 |
 | [I Don't Want It](https://open.spotify.com/track/2Svk6hoXp983eh8f95Oupd) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [I Don't Want It](https://open.spotify.com/album/1DW7NqqzHq2QdzoDvB5VXm) | 2:15 | 2022-08-26 | 2022-12-10 |

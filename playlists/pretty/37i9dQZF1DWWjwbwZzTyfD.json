@@ -1,12 +1,12 @@
 {
   "description": "The official soundtrack of Nike's NYvsNY, curated by the players. We Outside!",
-  "num_followers": 10590,
+  "num_followers": 10604,
   "original_name": "NYvsNY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzYxOTQzYjNhNGFhZDMyNWM5MGJiNWFmMjE4ZTBkNjgyMzYwNGVj",
+  "snapshot_id": "MCwzNzA4OTdlMmVjZDgyNzNiZjA4OTQ5NWFjNGViYjhiYTNkZmMzZTFh",
   "tracks": [
     {
       "added_at": "2023-07-10 21:55:04",
@@ -193,6 +193,22 @@
       "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
     },
     {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
+        "name": "2014 Forest Hills Drive",
+        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 239266,
+      "name": "Wet Dreamz",
+      "url": "https://open.spotify.com/track/4tqcoej1zPvwePZCzuAjJd"
+    },
+    {
       "added_at": "2023-07-10 21:55:04",
       "album": {
         "name": "Who Told You (feat. Drake)",
@@ -211,22 +227,6 @@
       "duration_ms": 208917,
       "name": "Who Told You (feat. Drake)",
       "url": "https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
-        "name": "2014 Forest Hills Drive",
-        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 239266,
-      "name": "Wet Dreamz",
-      "url": "https://open.spotify.com/track/4tqcoej1zPvwePZCzuAjJd"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -847,18 +847,22 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "2014 Forest Hills Drive",
-        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
+        "name": "Language",
+        "url": "https://open.spotify.com/album/2MsWCeQjZlSfHFjDm5DYR1"
       },
       "artists": [
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "Paperboy Fabe",
+          "url": "https://open.spotify.com/artist/58uK0d4R5Rq4FDUNgNIFeI"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
         }
       ],
-      "duration_ms": 211496,
-      "name": "Love Yourz",
-      "url": "https://open.spotify.com/track/2e3Ea0o24lReQFR4FA7yXH"
+      "duration_ms": 150360,
+      "name": "Language",
+      "url": "https://open.spotify.com/track/4RnvS1tmh1ERhjXX6dxv95"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -879,22 +883,18 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "Language",
-        "url": "https://open.spotify.com/album/2MsWCeQjZlSfHFjDm5DYR1"
+        "name": "2014 Forest Hills Drive",
+        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
       },
       "artists": [
         {
-          "name": "Paperboy Fabe",
-          "url": "https://open.spotify.com/artist/58uK0d4R5Rq4FDUNgNIFeI"
-        },
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 150360,
-      "name": "Language",
-      "url": "https://open.spotify.com/track/4RnvS1tmh1ERhjXX6dxv95"
+      "duration_ms": 211496,
+      "name": "Love Yourz",
+      "url": "https://open.spotify.com/track/2e3Ea0o24lReQFR4FA7yXH"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "CALL DA FIREMAN",
-        "url": "https://open.spotify.com/album/3oDobVNZ3U9BpxOdokk0fL"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 124805,
-      "name": "SHAKE SUMN",
-      "url": "https://open.spotify.com/track/3FhZPYvMGSjFc6boVYKlCv"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
         "name": "Over It",
         "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
       },
@@ -987,22 +971,18 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "Almost Healed",
-        "url": "https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce"
+        "name": "CALL DA FIREMAN",
+        "url": "https://open.spotify.com/album/3oDobVNZ3U9BpxOdokk0fL"
       },
       "artists": [
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
         }
       ],
-      "duration_ms": 160202,
-      "name": "War Bout It (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/4muwDurKeVOB1WBjTVRWlD"
+      "duration_ms": 124805,
+      "name": "SHAKE SUMN",
+      "url": "https://open.spotify.com/track/3FhZPYvMGSjFc6boVYKlCv"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -1023,6 +1003,26 @@
       "duration_ms": 241160,
       "name": "Power Trip (feat. Miguel)",
       "url": "https://open.spotify.com/track/2uwnP6tZVVmTovzX5ELooy"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
+        "name": "Almost Healed",
+        "url": "https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 160202,
+      "name": "War Bout It (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/4muwDurKeVOB1WBjTVRWlD"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -1091,6 +1091,30 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
+        "name": "Just Cause Y'all Waited 2",
+        "url": "https://open.spotify.com/album/3D4bwVn4Wp8Za0Amkyd5I5"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 169531,
+      "name": "3 Headed Goat (feat. Lil Baby & Polo G)",
+      "url": "https://open.spotify.com/track/6Tguhaf2uAe6OjRLsR2Tql"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
         "name": "CALL ME IF YOU GET LOST",
         "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
       },
@@ -1131,30 +1155,6 @@
       "duration_ms": 209811,
       "name": "Tomorrow 2 (with Cardi B)",
       "url": "https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
-        "name": "Just Cause Y'all Waited 2",
-        "url": "https://open.spotify.com/album/3D4bwVn4Wp8Za0Amkyd5I5"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 169531,
-      "name": "3 Headed Goat (feat. Lil Baby & Polo G)",
-      "url": "https://open.spotify.com/track/6Tguhaf2uAe6OjRLsR2Tql"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "The D.O.A. Tape",
-        "url": "https://open.spotify.com/album/5DMfgmlbRD0HeUi5QQgOAD"
+        "name": "Back from the Dead 2",
+        "url": "https://open.spotify.com/album/6uOn9t70gVO6YPU4M65h5g"
       },
       "artists": [
         {
-          "name": "Kay Flock",
-          "url": "https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu"
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
         }
       ],
-      "duration_ms": 124513,
-      "name": "Is Ya Ready",
-      "url": "https://open.spotify.com/track/0KUwCOylcgcDfSyuYNEe3a"
+      "duration_ms": 206654,
+      "name": "Faneto",
+      "url": "https://open.spotify.com/track/7EcE5yCPVZaZut1JqowbcI"
     },
     {
       "added_at": "2023-07-10 21:55:04",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "Back from the Dead 2",
-        "url": "https://open.spotify.com/album/6uOn9t70gVO6YPU4M65h5g"
+        "name": "The D.O.A. Tape",
+        "url": "https://open.spotify.com/album/5DMfgmlbRD0HeUi5QQgOAD"
       },
       "artists": [
         {
-          "name": "Chief Keef",
-          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+          "name": "Kay Flock",
+          "url": "https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu"
         }
       ],
-      "duration_ms": 206654,
-      "name": "Faneto",
-      "url": "https://open.spotify.com/track/7EcE5yCPVZaZut1JqowbcI"
+      "duration_ms": 124513,
+      "name": "Is Ya Ready",
+      "url": "https://open.spotify.com/track/0KUwCOylcgcDfSyuYNEe3a"
     },
     {
       "added_at": "2023-06-27 06:48:40",

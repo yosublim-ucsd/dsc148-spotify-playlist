@@ -4,7 +4,7 @@
 
 > Solo musica italiana indipendente, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:0d8W1CF5vivAV6Fps5ELPZ">PRINCIPE</a>
 
-858 songs - 1 day 18 hr 50 min
+859 songs - 1 day 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [FABIO E LUANA](https://open.spotify.com/track/4n3XhfSgAv19xo3nq18yEr) | [COLLETTIVO](https://open.spotify.com/artist/4RUm8rTe3kvhiQl6QmpWBq) | [FABIO E LUANA](https://open.spotify.com/album/3RScocxIxCDgJdjVJBeLP4) | 3:29 | 2023-05-10 | 2023-06-21 |
 | [Faccine Happy\-Sad](https://open.spotify.com/track/6WN54pxgxvn8lmloRsaDxo) | [Sedici](https://open.spotify.com/artist/1XSigaqCmQp77DUMbf8Fxs) | [Faccine Happy\-Sad](https://open.spotify.com/album/4J1hX6iSLS3xQQ8UhRqyOV) | 2:53 | 2023-04-18 | 2023-05-24 |
 | [FACE](https://open.spotify.com/track/4F2kVTCr769etEgD8uvmeh) | [D'Amore](https://open.spotify.com/artist/0yjjCja9FIK0ROO6HLMiO4) | [FACE](https://open.spotify.com/album/6R3eEigsJw7Jngjbmd0glX) | 2:27 | 2023-03-23 | 2023-05-11 |
+| [FACETIME](https://open.spotify.com/track/6sQFxf7r1RQv9Rc4MAYYrH) | [Red Roses](https://open.spotify.com/artist/3dA6K34y5FCgngffHJTjpY) | [FACETIME](https://open.spotify.com/album/0KgrYKEicvfHzFBIg6Nfpb) | 2:13 | 2023-08-09 |  |
 | [Falcon](https://open.spotify.com/track/0JPKecNKt1bqpupwW6Y5sv) | [Turbetto](https://open.spotify.com/artist/5RMf5E5n45iyMgwo8uQQyA) | [Conigli](https://open.spotify.com/album/0U1OUp04dC2pOBdTxPFHeb) | 2:00 | 2023-05-10 | 2023-06-15 |
 | [FALLO CON ME](https://open.spotify.com/track/0QRtjJJnYPoObj5GuCCNuT) | [Luca Re](https://open.spotify.com/artist/2TvgTSCaWT7JFeVYggKeu8) | [FALLO CON ME](https://open.spotify.com/album/1IZCGIy2qJc5bPXgm4Qhj3) | 2:26 | 2023-05-17 | 2023-07-05 |
 | [Fantasia](https://open.spotify.com/track/1hEsQqngL8iq7IwsoTjB9O) | [Cascate](https://open.spotify.com/artist/7cG5p7UFGDKEZlFE351bX4) | [Fantasia](https://open.spotify.com/album/2RGUJun6AQFdrsZ29xy37C) | 2:49 | 2022-05-05 | 2022-06-03 |
@@ -450,7 +451,7 @@
 | [MAREA](https://open.spotify.com/track/37byGPWlxruY8vVeQlbUWb) | [solomarco](https://open.spotify.com/artist/36TrrSCgFly6NAvktlI5c9) | [MAREA](https://open.spotify.com/album/3WPEmt23OmvcsrY2qcALKf) | 2:22 | 2023-01-26 | 2023-03-03 |
 | [Mariposa](https://open.spotify.com/track/6EvI5xktrT4QArsjKeHJTj) | [FENICE](https://open.spotify.com/artist/4c7S5SAfW8xtGnn8qi4d8D) | [Mariposa](https://open.spotify.com/album/1yusNei6x6kvnULNCxKziu) | 3:07 | 2023-02-24 | 2023-03-15 |
 | [Marta Vive](https://open.spotify.com/track/4mlZkVhL34iUjN6hCNOCrz) | [Bosnia](https://open.spotify.com/artist/4cfHjQPZE1LRHvD38jue82) | [Marta Vive](https://open.spotify.com/album/2F9q47bw1oaRsKcSKFuolu) | 3:17 | 2022-11-24 | 2022-12-01 |
-| [Mata Hari](https://open.spotify.com/track/3UBiQTyckIvc3l4VcwQsgf) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Mata Hari](https://open.spotify.com/album/7ClqenGVqCBqqT25x9vAjm) | 3:47 | 2023-06-20 |  |
+| [Mata Hari](https://open.spotify.com/track/3UBiQTyckIvc3l4VcwQsgf) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Mata Hari](https://open.spotify.com/album/7ClqenGVqCBqqT25x9vAjm) | 3:47 | 2023-06-20 | 2023-08-10 |
 | [McRione](https://open.spotify.com/track/4Bv58XK0LLfMbY4OCYzIEl) | [Fuck Pop](https://open.spotify.com/artist/2EOQo8wyiH2Td1VVXgTKGW), [Ciko](https://open.spotify.com/artist/1avlWZZBKsFFxfgRENccBn), [Inkiostro](https://open.spotify.com/artist/5jeEXySnPyzHkNJ7K7ZcLx), [Mr\. Monty](https://open.spotify.com/artist/657Q410kl1yBPIjwZkzdn0), [Damiank](https://open.spotify.com/artist/0HK1JtedHdz3a76ZpWaEsc), [LowJohn](https://open.spotify.com/artist/4MdghOBjPSyLrz2DHlebGT) | [Fuck Pop](https://open.spotify.com/album/2I9OQRqMr5HCOxId5EbqRV) | 2:48 | 2022-07-29 | 2022-10-14 |
 | [Me ne andrò](https://open.spotify.com/track/40iAktPlUyEcZ31dkmh1RV) | [Maëlys](https://open.spotify.com/artist/4fuZBTq8KLPsKbYPQl0bZZ) | [Me ne andrò](https://open.spotify.com/album/6eR48KyKUasREgbeXHHBnM) | 3:15 | 2023-03-16 | 2023-04-19 |
 | [Mercurio](https://open.spotify.com/track/4V5DQ7DcZgmS5dW9bFCSac) | [Jacopo Planet](https://open.spotify.com/artist/4poKX0fRYCGvuffNIj2f5f) | [Mercurio](https://open.spotify.com/album/5GeDTicAnATrr6MpgBRwCI) | 2:35 | 2022-09-29 | 2022-10-15 |

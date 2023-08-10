@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY93sU2NKZCn.md) - [plain]
 
 > No quieren compromiso, solo quieren bellaquera\. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 930,388 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 929,733 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY93sU2NKZCn.md) - [plain]
 | 32 | [Gatita](https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Gatita](https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs) | 2:33 |
 | 33 | [Solita](https://open.spotify.com/track/7rwX0O3RlxqqIjQM8evm5E) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Solita](https://open.spotify.com/album/27Exjl2H0oI6X0WCzZd7Bk) | 5:11 |
 | 34 | [Caile](https://open.spotify.com/track/6i1g5ZRmJZAkDwBaUZ3f2i) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [L3tra](https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI) | 2:21 |
-| 35 | [XQ TAN SOLA?](https://open.spotify.com/track/5DoGJMtInwrPZrzyKnuqMi) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [XQ TAN SOLA?](https://open.spotify.com/album/3Yd8cEiwelgcJrxPi6YEWE) | 3:20 |
-| 36 | [La Romana](https://open.spotify.com/track/1khmgu0pveJbkbpbkyvcQv) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 5:00 |
+| 35 | [La Romana](https://open.spotify.com/track/1khmgu0pveJbkbpbkyvcQv) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 5:00 |
+| 36 | [XQ TAN SOLA?](https://open.spotify.com/track/5DoGJMtInwrPZrzyKnuqMi) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [XQ TAN SOLA?](https://open.spotify.com/album/3Yd8cEiwelgcJrxPi6YEWE) | 3:20 |
 | 37 | [Donde?](https://open.spotify.com/track/5iaGRmDzm4aPhttaOEK8OD) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [6.5](https://open.spotify.com/album/2ZbIly4Kwg66WvLpagLIc2) | 2:42 |
 | 38 | [LOS CULOS DE MEDALLO](https://open.spotify.com/track/2CvfXjMfoheLIdjlkIBjXA) | [Kapla y Miky](https://open.spotify.com/artist/4dhKkIzf9LXogFL1NXfQc1), [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8) | [LOS CULOS DE MEDALLO](https://open.spotify.com/album/4KM5V40PZLMWbBcrzLlduL) | 2:44 |
 | 39 | [Le Pido a DIOS](https://open.spotify.com/track/4TFNKnMWjcMWzpkSwQrrcu) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [SIXDO](https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa) | 2:45 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY93sU2NKZCn.md) - [plain]
 | 47 | [La Receta](https://open.spotify.com/track/5F9UDD7ZNbmyRFYyb4qF2z) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [La Receta](https://open.spotify.com/album/2KcbwgVZYmXv6Zh0hpY12y) | 2:55 |
 | 48 | [Chulo](https://open.spotify.com/track/3szqC0lxrJdhn3eW6FfFfo) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Chulo](https://open.spotify.com/album/2oDHlQQn8sthDVKO8pJ6eZ) | 2:00 |
 | 49 | [Butakera](https://open.spotify.com/track/60DHrnRAhNJMy4WeEf23NH) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav) | [Butakera](https://open.spotify.com/album/0LmZsaUKBzNRmVt9vC4Rv3) | 2:23 |
-| 50 | [TAMO EN NOTA](https://open.spotify.com/track/2I0aHZjCXh6UjMHIOqugYF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [TAMO EN NOTA](https://open.spotify.com/album/2nMe3lptQDUXDsjIyUcnON) | 3:00 |
+| 50 | [OJOS FERRARI](https://open.spotify.com/track/5yAIrkplUEpMNeojW8Q30o) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:00 |
 
-Snapshot ID: `MCw4YTk2MTg2OTNlOTM5MGUzN2E4YTZlZWNhOTlmZDAzODU5NmQzMTk1`
+Snapshot ID: `MCwwZTQzMGY4NTJmYTU2MzYyOGQ5ZWZjNmY4YmZhNmY4ZDFjZDdjNjUz`

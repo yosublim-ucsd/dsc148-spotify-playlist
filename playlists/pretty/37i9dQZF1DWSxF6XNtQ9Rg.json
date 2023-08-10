@@ -1,12 +1,12 @@
 {
   "description": "Solo hit rap da ascoltare in loop. Cover: Lazza",
-  "num_followers": 187392,
+  "num_followers": 187490,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzExY2Y5ODBlNzBhZDRkM2U3ODBmNTU3ZWQ1YWIxM2UzMjVhZjMw",
+  "snapshot_id": "MCxkZGE2YzhlNzM2MjRhZTJiMDAxYWVlYmI0NDYwOWEwOGE4YmQzOWI3",
   "tracks": [
     {
       "added_at": "2023-07-18 09:14:25",
@@ -811,6 +811,26 @@
     {
       "added_at": "2023-07-18 09:14:25",
       "album": {
+        "name": "Gi\u00f9",
+        "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
+      },
+      "artists": [
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        },
+        {
+          "name": "Nko",
+          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
+        }
+      ],
+      "duration_ms": 198066,
+      "name": "CASA",
+      "url": "https://open.spotify.com/track/2Cp5UNKv8yUO6ng4ZDflRY"
+    },
+    {
+      "added_at": "2023-07-18 09:14:25",
+      "album": {
         "name": "s!r! (feat. Lazza & Sfera Ebbasta)",
         "url": "https://open.spotify.com/album/3FKHKKhVw31wJoYybif80p"
       },
@@ -831,26 +851,6 @@
       "duration_ms": 237701,
       "name": "s!r! (feat. Lazza & Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/3gUzi41YOt3VExeyHSLsMj"
-    },
-    {
-      "added_at": "2023-07-18 09:14:25",
-      "album": {
-        "name": "Gi\u00f9",
-        "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
-      },
-      "artists": [
-        {
-          "name": "Neima Ezza",
-          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
-        },
-        {
-          "name": "Nko",
-          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
-        }
-      ],
-      "duration_ms": 198066,
-      "name": "CASA",
-      "url": "https://open.spotify.com/track/2Cp5UNKv8yUO6ng4ZDflRY"
     },
     {
       "added_at": "2023-07-18 09:14:25",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2023-07-18 09:14:25",
       "album": {
+        "name": "Trap Lovers",
+        "url": "https://open.spotify.com/album/4d4Uj2jua4sNA16D3XX6WW"
+      },
+      "artists": [
+        {
+          "name": "Dark Polo Gang",
+          "url": "https://open.spotify.com/artist/4CuMwzDzEdlUJMEna38VQ0"
+        }
+      ],
+      "duration_ms": 228287,
+      "name": "Cambiare Adesso",
+      "url": "https://open.spotify.com/track/2xjxaKiYssIdDU6DCPpZPt"
+    },
+    {
+      "added_at": "2023-07-18 09:14:25",
+      "album": {
         "name": "MACHETE MIXTAPE 4",
         "url": "https://open.spotify.com/album/5OOd2aAkgZJlYRqYlT1Axz"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 177036,
       "name": "HO PAURA DI USCIRE 2 - prod. Mace",
       "url": "https://open.spotify.com/track/0nFCpnM7nistUWXRZpzOWM"
-    },
-    {
-      "added_at": "2023-07-18 09:14:25",
-      "album": {
-        "name": "Trap Lovers",
-        "url": "https://open.spotify.com/album/4d4Uj2jua4sNA16D3XX6WW"
-      },
-      "artists": [
-        {
-          "name": "Dark Polo Gang",
-          "url": "https://open.spotify.com/artist/4CuMwzDzEdlUJMEna38VQ0"
-        }
-      ],
-      "duration_ms": 228287,
-      "name": "Cambiare Adesso",
-      "url": "https://open.spotify.com/track/2xjxaKiYssIdDU6DCPpZPt"
     },
     {
       "added_at": "2023-07-18 09:14:25",
@@ -1787,26 +1787,18 @@
     {
       "added_at": "2023-07-18 09:14:25",
       "album": {
-        "name": "LA CANZONE NOSTRA \u27c1 (con BLANCO & Salmo)",
-        "url": "https://open.spotify.com/album/2w5HWooasQeHJC4lYspeG3"
+        "name": "Drippin' in Milano",
+        "url": "https://open.spotify.com/album/0yAArQfNMOEnB5G3KvTFcU"
       },
       "artists": [
         {
-          "name": "MACE",
-          "url": "https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1"
-        },
-        {
-          "name": "BLANCO",
-          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
-        },
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
         }
       ],
-      "duration_ms": 237613,
-      "name": "LA CANZONE NOSTRA \u27c1 (con BLANCO & Salmo)",
-      "url": "https://open.spotify.com/track/0aQi1JGO1oKWEmKGfvf8TF"
+      "duration_ms": 159989,
+      "name": "Drippin' in Milano",
+      "url": "https://open.spotify.com/track/1TrjxEcRPHvaLF3saKCSs4"
     },
     {
       "added_at": "2023-07-18 09:14:25",
@@ -1827,18 +1819,26 @@
     {
       "added_at": "2023-07-18 09:14:25",
       "album": {
-        "name": "Drippin' in Milano",
-        "url": "https://open.spotify.com/album/0yAArQfNMOEnB5G3KvTFcU"
+        "name": "LA CANZONE NOSTRA \u27c1 (con BLANCO & Salmo)",
+        "url": "https://open.spotify.com/album/2w5HWooasQeHJC4lYspeG3"
       },
       "artists": [
         {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+          "name": "MACE",
+          "url": "https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1"
+        },
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
         }
       ],
-      "duration_ms": 159989,
-      "name": "Drippin' in Milano",
-      "url": "https://open.spotify.com/track/1TrjxEcRPHvaLF3saKCSs4"
+      "duration_ms": 237613,
+      "name": "LA CANZONE NOSTRA \u27c1 (con BLANCO & Salmo)",
+      "url": "https://open.spotify.com/track/0aQi1JGO1oKWEmKGfvf8TF"
     },
     {
       "added_at": "2023-07-18 09:14:25",

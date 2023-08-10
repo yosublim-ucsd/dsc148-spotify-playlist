@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1OuLNm4mvRAZK11eefmj9Z">Chris Jedi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-197 songs - 11 hr 40 min
+198 songs - 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Llégale](https://open.spotify.com/track/4vK8Kvyw1mabkMXJqbZOZT) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Llégale](https://open.spotify.com/album/2FMRC7RV3fbyyMH1oLsdiB) | 4:13 | 2022-06-04 |  |
 | [LMALO](https://open.spotify.com/track/2mVCV4WihqwFvWtSSfIT5S) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 2:45 | 2022-06-24 |  |
 | [Los De Siempre](https://open.spotify.com/track/5IsTVBbwSjU38VqJbZNokS) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm) | [Los De Siempre](https://open.spotify.com/album/4PIRLjzQkVZNsb2ZEeIwPQ) | 3:25 | 2022-06-04 |  |
+| [Los Que Son](https://open.spotify.com/track/0drasydwJPcgoLLDXFSMs6) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Los Que Son](https://open.spotify.com/album/15gBPq4jfgreZB7CqnIj0n) | 3:15 | 2023-08-09 |  |
 | [Malas Intenciones](https://open.spotify.com/track/4FWhPJjc9FMRCCFc038uEz) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 2:56 | 2022-06-04 |  |
 | [Me Dijeron](https://open.spotify.com/track/17UUYZ290omPaJY4wKeyHh) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 2:50 | 2022-06-04 |  |
 | [Me Gusta](https://open.spotify.com/track/5Xhqh4lwJPtMUTsdBztN1a) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Me Gusta](https://open.spotify.com/album/4IcQ1ni07PmlOenqwf6MgG) | 3:10 | 2022-06-04 |  |

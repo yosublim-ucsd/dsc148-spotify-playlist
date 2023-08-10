@@ -4,7 +4,7 @@
 
 > The highest quality alternative blend ft\. Bethany Cosentino
 
-812 songs - 2 day 1 hr 38 min
+814 songs - 2 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,8 @@
 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2023-01-13 | 2023-05-13 |
 | [Everknown](https://open.spotify.com/track/00YQhkHze8n5oLQdCQdZ4V) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Everknown](https://open.spotify.com/album/1Y7aDjyMGak66mefhptdXx) | 4:25 | 2023-06-23 |  |
 | [Every Chance I Get \(I Want You In The Flesh\)](https://open.spotify.com/track/6nWLyTkbR9xsmmY1jioPTV) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Every Chance I Get \(I Want You In The Flesh\)](https://open.spotify.com/album/3rmzLWCXi8PNt5kVKf9O7D) | 4:08 | 2023-07-18 |  |
-| [Every Day Like the Last](https://open.spotify.com/track/5wC4jZcOC20bvqUL4Aa3ix) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Every Day Like the Last](https://open.spotify.com/album/19rDRo03kiDJAVaNQjMIFQ) | 3:02 | 2023-04-28 |  |
+| [Every Day Like the Last](https://open.spotify.com/track/1iJxsYXQI3uTGlChp7UqMB) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Every Day Like the Last](https://open.spotify.com/album/6C204NEUleEqcKH4igE8ZL) | 3:02 | 2023-07-24 |  |
+| [Every Day Like the Last](https://open.spotify.com/track/5wC4jZcOC20bvqUL4Aa3ix) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Every Day Like the Last](https://open.spotify.com/album/19rDRo03kiDJAVaNQjMIFQ) | 3:02 | 2023-04-28 | 2023-08-10 |
 | [Every Shade of Blue](https://open.spotify.com/track/1cKWyEiGWLXAUTz6jI1d7c) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Every Shade of Blue](https://open.spotify.com/album/4ee1hU8IWOpRMN7GNjZ4Nf) | 3:33 | 2022-01-21 | 2022-02-12 |
 | [Everybody \(feat\. Jenny Lewis\)](https://open.spotify.com/track/4kUTA4ftbqY5uZHJzm0wCL) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S), [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Everybody \(feat\. Jenny Lewis\)](https://open.spotify.com/album/2UJQBQGLVhmnt8qVIVZshO) | 2:58 | 2022-01-07 | 2022-03-05 |
 | [Everybody's Birthday](https://open.spotify.com/track/6E10YI1UfAcoW7gIgCv1v6) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Public Storage](https://open.spotify.com/album/31NBYL6BkDpHgYK7cWl32S) | 2:48 | 2022-01-14 | 2022-04-09 |
@@ -504,7 +505,8 @@
 | [Nowhere To Go](https://open.spotify.com/track/0jvNCLA1OcJzhBzNyFzyhr) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX), [Jake Clemons](https://open.spotify.com/artist/4VohCn5jhUUPDzAEESRUMJ) | [Blink Twice](https://open.spotify.com/album/3Zlv9M4aSDQ3H3iCG9jGEe) | 3:41 | 2022-12-16 | 2023-02-25 |
 | [Nowhere To Go](https://open.spotify.com/track/1luO7FPnPq0tlpxPoZtaKR) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX), [Jake Clemons](https://open.spotify.com/artist/4VohCn5jhUUPDzAEESRUMJ) | [Blink Twice](https://open.spotify.com/album/2XlHq9JtWucrS9qrwMGeOF) | 3:41 | 2022-09-23 | 2022-12-17 |
 | [Nsera](https://open.spotify.com/track/5tAljWXMvPVEnEXq1brzLs) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Nsera](https://open.spotify.com/album/7nKicbwgUgTkE9LTw8wj1B) | 3:02 | 2022-11-18 | 2023-01-21 |
-| [Nu\-Grape](https://open.spotify.com/track/5DLCGocLoRsi3DpQssO60a) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Nu\-Grape](https://open.spotify.com/album/7IfxZlK1wsSudOfoBqQ3sx) | 3:28 | 2023-06-23 |  |
+| [Nu\-Grape](https://open.spotify.com/track/21r46gpVhsV2zvbfK0aXOK) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [20 Years and a Nickel](https://open.spotify.com/album/02bhRp09k7erA3JsN8BHTz) | 3:28 | 2023-07-24 |  |
+| [Nu\-Grape](https://open.spotify.com/track/5DLCGocLoRsi3DpQssO60a) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Nu\-Grape](https://open.spotify.com/album/7IfxZlK1wsSudOfoBqQ3sx) | 3:28 | 2023-06-23 | 2023-08-10 |
 | [NYE](https://open.spotify.com/track/5VWtw1qkaq1lBsgY2lLhNo) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [NYE](https://open.spotify.com/album/0xIg9hAbN6BYXXoEVoMwqX) | 3:10 | 2023-06-02 |  |
 | [Odyssey](https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO) | 3:46 | 2023-07-24 |  |
 | [Odyssey](https://open.spotify.com/track/3ULSfbtXLBo4AehHye9ft9) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/69TTmajR0erSyTATVPd4cK) | 3:46 | 2023-06-23 | 2023-07-28 |

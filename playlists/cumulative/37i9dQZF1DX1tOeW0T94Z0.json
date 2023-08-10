@@ -1170,7 +1170,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-16",
+      "date_removed": null,
       "duration_ms": 226733,
       "name": "La force de comprendre",
       "url": "https://open.spotify.com/track/6qwAZau93JWbbiiuLn38dn"
@@ -2637,6 +2637,28 @@
     },
     {
       "album": {
+        "name": "Its Called Life",
+        "url": "https://open.spotify.com/album/1iEev89vPxB4CXZ59pjjKL"
+      },
+      "artists": [
+        {
+          "name": "Eternia",
+          "url": "https://open.spotify.com/artist/5rBu1wBWucwQGQzH3kLBQu"
+        },
+        {
+          "name": "Freestyle of the Arsonists",
+          "url": "https://open.spotify.com/artist/2iqEFCApLOpLXfAHq8g9uf"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233426,
+      "name": "Understand (if I)",
+      "url": "https://open.spotify.com/track/3lm6bZvg9LnZ8HtWz3YxJe"
+    },
+    {
+      "album": {
         "name": "Keshia Chant\u00e9",
         "url": "https://open.spotify.com/album/2TOZYKbE9i6wz3w2kucTbY"
       },
@@ -2714,6 +2736,28 @@
       "duration_ms": 197720,
       "name": "Valentine 4 Life",
       "url": "https://open.spotify.com/track/1gFDNfa5ig5RDkfm3LHdSt"
+    },
+    {
+      "album": {
+        "name": "Port Authority",
+        "url": "https://open.spotify.com/album/2XQ6iUt1Guqgyqg9hNfJzc"
+      },
+      "artists": [
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Kardinal Offishall",
+          "url": "https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236626,
+      "name": "War",
+      "url": "https://open.spotify.com/track/6V6M93Ape70kdvUl28xGW1"
     },
     {
       "album": {

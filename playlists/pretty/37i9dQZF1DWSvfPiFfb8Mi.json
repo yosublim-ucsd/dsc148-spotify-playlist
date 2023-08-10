@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 217377,
+  "num_followers": 217631,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjhmZDRmNjEzYzUxNmJkM2U0NGExZjNkN2Y1MjZkNTViMDkzNmYy",
+  "snapshot_id": "MCxkMDFkYjdlNDkxMDhjZDg2ZWY4ZmRhODZkYjUzNWU0YThkN2M3MWM4",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Alfa",
-        "url": "https://open.spotify.com/album/4uO8oJ4NuITPSvTnP33EfY"
-      },
-      "artists": [
-        {
-          "name": "Crackazat",
-          "url": "https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As"
-        }
-      ],
-      "duration_ms": 285772,
-      "name": "Alfa",
-      "url": "https://open.spotify.com/track/0Z3a7SIDVOUvZFgr73qq0V"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Into the Ether",
         "url": "https://open.spotify.com/album/5O9uqsd52hAovfkyArK41d"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 191061,
       "name": "Raining in LA",
       "url": "https://open.spotify.com/track/2ZnMtfCwbUgVWIWfmEBHCv"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Alfa",
+        "url": "https://open.spotify.com/album/4uO8oJ4NuITPSvTnP33EfY"
+      },
+      "artists": [
+        {
+          "name": "Crackazat",
+          "url": "https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As"
+        }
+      ],
+      "duration_ms": 285772,
+      "name": "Alfa",
+      "url": "https://open.spotify.com/track/0Z3a7SIDVOUvZFgr73qq0V"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -667,6 +667,22 @@
       "duration_ms": 355480,
       "name": "Poundland Anthem",
       "url": "https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Move Me",
+        "url": "https://open.spotify.com/album/2DPuySW5r1sHgWXD7s4UfE"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 231733,
+      "name": "Move Me",
+      "url": "https://open.spotify.com/track/43tuFT8GAG5mPSktLVcqOY"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -735,22 +751,6 @@
       "duration_ms": 209693,
       "name": "Last Dance",
       "url": "https://open.spotify.com/track/7sYOC9FdWJ2Gf5O8bYuK9t"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Move Me",
-        "url": "https://open.spotify.com/album/2DPuySW5r1sHgWXD7s4UfE"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 231733,
-      "name": "Move Me",
-      "url": "https://open.spotify.com/track/43tuFT8GAG5mPSktLVcqOY"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "All The Things We Say / Move Me",
-        "url": "https://open.spotify.com/album/2ciY9tUIVAM1rEsr9wjXq4"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 231105,
-      "name": "All The Things We Say",
-      "url": "https://open.spotify.com/track/1KH8bxeGwgw1IxtzQUx6m5"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Lucas",
         "url": "https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 198173,
       "name": "Money",
       "url": "https://open.spotify.com/track/34KMYJ2e5ouT1qfOEJgfIe"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "All The Things We Say / Move Me",
+        "url": "https://open.spotify.com/album/2ciY9tUIVAM1rEsr9wjXq4"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 231105,
+      "name": "All The Things We Say",
+      "url": "https://open.spotify.com/track/1KH8bxeGwgw1IxtzQUx6m5"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1095,6 +1095,30 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Inferno (No. 1)",
+        "url": "https://open.spotify.com/album/3mNy09ndnknuV2bBxno7IG"
+      },
+      "artists": [
+        {
+          "name": "Disco Dom",
+          "url": "https://open.spotify.com/artist/3q8DkzC4UfA5lKG1YG4004"
+        },
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        },
+        {
+          "name": "Yung Bae",
+          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
+        }
+      ],
+      "duration_ms": 296453,
+      "name": "Be The One (feat. Yung Bae)",
+      "url": "https://open.spotify.com/track/4mpyalWKRgGgghWqr0DGRr"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Call On Me & Lifetime (Remixes)",
         "url": "https://open.spotify.com/album/1CRH8YfN1l16GxyuuFQn18"
       },
@@ -1131,26 +1155,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Inferno (No. 1)",
-        "url": "https://open.spotify.com/album/3mNy09ndnknuV2bBxno7IG"
+        "name": "Lady Love",
+        "url": "https://open.spotify.com/album/6XGxAqDf3339vdyvHKuUhh"
       },
       "artists": [
         {
-          "name": "Disco Dom",
-          "url": "https://open.spotify.com/artist/3q8DkzC4UfA5lKG1YG4004"
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
         },
         {
-          "name": "Dombresky",
-          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
-        },
-        {
-          "name": "Yung Bae",
-          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
         }
       ],
-      "duration_ms": 296453,
-      "name": "Be The One (feat. Yung Bae)",
-      "url": "https://open.spotify.com/track/4mpyalWKRgGgghWqr0DGRr"
+      "duration_ms": 174524,
+      "name": "Lady Love",
+      "url": "https://open.spotify.com/track/3ACTBfO2gL0RY2a3Eb5kY5"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1199,22 +1219,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Lovin You",
-        "url": "https://open.spotify.com/album/0xxlWA40DcSNiofv6t88yL"
-      },
-      "artists": [
-        {
-          "name": "49th & Main",
-          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
-        }
-      ],
-      "duration_ms": 163930,
-      "name": "Lovin You",
-      "url": "https://open.spotify.com/track/0275ycgPLKr6wXOsRt45vc"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Never Let It Go",
         "url": "https://open.spotify.com/album/1PzFixM8RxL243yEs2kd9Q"
       },
@@ -1227,6 +1231,22 @@
       "duration_ms": 158405,
       "name": "Never Let It Go",
       "url": "https://open.spotify.com/track/1IwaKRghYbdynuLDiCbemP"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Lovin You",
+        "url": "https://open.spotify.com/album/0xxlWA40DcSNiofv6t88yL"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        }
+      ],
+      "duration_ms": 163930,
+      "name": "Lovin You",
+      "url": "https://open.spotify.com/track/0275ycgPLKr6wXOsRt45vc"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1287,26 +1307,6 @@
       "duration_ms": 184918,
       "name": "Emotion",
       "url": "https://open.spotify.com/track/2CiOFdudXTfZfsd1lZqrhR"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Lady Love",
-        "url": "https://open.spotify.com/album/6XGxAqDf3339vdyvHKuUhh"
-      },
-      "artists": [
-        {
-          "name": "Oden & Fatzo",
-          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
-        },
-        {
-          "name": "Camden Cox",
-          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
-        }
-      ],
-      "duration_ms": 174524,
-      "name": "Lady Love",
-      "url": "https://open.spotify.com/track/3ACTBfO2gL0RY2a3Eb5kY5"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Good Night",
+        "url": "https://open.spotify.com/album/0O2Bokijinn4vODXGSb9ge"
+      },
+      "artists": [
+        {
+          "name": "Bamily",
+          "url": "https://open.spotify.com/artist/6oMh7pGcBIgfpdKKUHmJAy"
+        }
+      ],
+      "duration_ms": 277225,
+      "name": "Good Night",
+      "url": "https://open.spotify.com/track/41LjtnwZM4J0tKXnqiNZPM"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Hot Summer Love",
         "url": "https://open.spotify.com/album/2Ut3uBkJ4CPikDtEvtqULb"
       },
@@ -1415,18 +1431,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Good Night",
-        "url": "https://open.spotify.com/album/0O2Bokijinn4vODXGSb9ge"
+        "name": "Stimulate (Deluxe)",
+        "url": "https://open.spotify.com/album/1n3V1SMu8hLeccUhgTunwx"
       },
       "artists": [
         {
-          "name": "Bamily",
-          "url": "https://open.spotify.com/artist/6oMh7pGcBIgfpdKKUHmJAy"
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        },
+        {
+          "name": "Nazzereene",
+          "url": "https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ"
         }
       ],
-      "duration_ms": 277225,
-      "name": "Good Night",
-      "url": "https://open.spotify.com/track/41LjtnwZM4J0tKXnqiNZPM"
+      "duration_ms": 154702,
+      "name": "Mind Talking",
+      "url": "https://open.spotify.com/track/0lJ0a3noMVleqsUHRmIr94"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1539,26 +1559,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Stimulate (Deluxe)",
-        "url": "https://open.spotify.com/album/1n3V1SMu8hLeccUhgTunwx"
-      },
-      "artists": [
-        {
-          "name": "Tensnake",
-          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
-        },
-        {
-          "name": "Nazzereene",
-          "url": "https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ"
-        }
-      ],
-      "duration_ms": 154702,
-      "name": "Mind Talking",
-      "url": "https://open.spotify.com/track/0lJ0a3noMVleqsUHRmIr94"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "To the Stars and Back",
         "url": "https://open.spotify.com/album/5aYIRYfTHseCyXvhGGQHF9"
       },
@@ -1635,34 +1635,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "You're in My System (Dennis Quin Remixes)",
-        "url": "https://open.spotify.com/album/11hmXIEpilxzxlCKjdaK6U"
-      },
-      "artists": [
-        {
-          "name": "Kerri Chandler",
-          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
-        },
-        {
-          "name": "Jerome Sydenham",
-          "url": "https://open.spotify.com/artist/4e7xQaHgOjyFZtSic0Nk9B"
-        },
-        {
-          "name": "Troy Denari",
-          "url": "https://open.spotify.com/artist/2cNKz5QJgfclP9Ay7Okghv"
-        },
-        {
-          "name": "Dennis Quin",
-          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
-        }
-      ],
-      "duration_ms": 351219,
-      "name": "You're in My System - Dennis Quin Club Mix",
-      "url": "https://open.spotify.com/track/1Gak4gX5CGebdBvl8A89fz"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "never worry",
         "url": "https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r"
       },
@@ -1707,6 +1679,34 @@
       "duration_ms": 224813,
       "name": "Free (Do What U Want)",
       "url": "https://open.spotify.com/track/6lVdhbN1xING12E926vWwI"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "You're in My System (Dennis Quin Remixes)",
+        "url": "https://open.spotify.com/album/11hmXIEpilxzxlCKjdaK6U"
+      },
+      "artists": [
+        {
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+        },
+        {
+          "name": "Jerome Sydenham",
+          "url": "https://open.spotify.com/artist/4e7xQaHgOjyFZtSic0Nk9B"
+        },
+        {
+          "name": "Troy Denari",
+          "url": "https://open.spotify.com/artist/2cNKz5QJgfclP9Ay7Okghv"
+        },
+        {
+          "name": "Dennis Quin",
+          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
+        }
+      ],
+      "duration_ms": 351219,
+      "name": "You're in My System - Dennis Quin Club Mix",
+      "url": "https://open.spotify.com/track/1Gak4gX5CGebdBvl8A89fz"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1867,6 +1867,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Love In C Minor (Franc Moody Remix)",
+        "url": "https://open.spotify.com/album/4IKcf685Y9bcGgDYf80AaF"
+      },
+      "artists": [
+        {
+          "name": "Cerrone",
+          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
+        },
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 185400,
+      "name": "Love In C Minor - Franc Moody Remix",
+      "url": "https://open.spotify.com/track/3sfcZAIZW6CK035kWl0mBD"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Fashion",
         "url": "https://open.spotify.com/album/7bW2kZXTYEGUrVvDl1xdlY"
       },
@@ -1879,6 +1899,26 @@
       "duration_ms": 183547,
       "name": "Fashion",
       "url": "https://open.spotify.com/track/2Pm4Sxl4S1iJK38YnFGAFC"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Dunston (Bellaire Remix)",
+        "url": "https://open.spotify.com/album/6ZyTc9CIeuHsPSgg0ypxAI"
+      },
+      "artists": [
+        {
+          "name": "Supertaste",
+          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
+        },
+        {
+          "name": "Bellaire",
+          "url": "https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw"
+        }
+      ],
+      "duration_ms": 213243,
+      "name": "Dunston (Bellaire Remix)",
+      "url": "https://open.spotify.com/track/1un3tgix0qXdcAAT7VYiDx"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1915,46 +1955,6 @@
       "duration_ms": 164501,
       "name": "Rock With Me",
       "url": "https://open.spotify.com/track/18fazLrZ3SjUVNaaAOjlSU"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Love In C Minor (Franc Moody Remix)",
-        "url": "https://open.spotify.com/album/4IKcf685Y9bcGgDYf80AaF"
-      },
-      "artists": [
-        {
-          "name": "Cerrone",
-          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
-        },
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 185400,
-      "name": "Love In C Minor - Franc Moody Remix",
-      "url": "https://open.spotify.com/track/3sfcZAIZW6CK035kWl0mBD"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Dunston (Bellaire Remix)",
-        "url": "https://open.spotify.com/album/6ZyTc9CIeuHsPSgg0ypxAI"
-      },
-      "artists": [
-        {
-          "name": "Supertaste",
-          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
-        },
-        {
-          "name": "Bellaire",
-          "url": "https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw"
-        }
-      ],
-      "duration_ms": 213243,
-      "name": "Dunston (Bellaire Remix)",
-      "url": "https://open.spotify.com/track/1un3tgix0qXdcAAT7VYiDx"
     }
   ],
   "unique_name": "Poolside Disco",

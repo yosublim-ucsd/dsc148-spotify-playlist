@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and energetic music that helps you stay motivated.",
-  "num_followers": 6905933,
+  "num_followers": 6906249,
   "original_name": "Motivation Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDI0Y2VkYjIzMTllMmYzZDQ0OWRhZDE0NjI0OWQ0YzU1MmNiZDMy",
+  "snapshot_id": "MCxkNjkzMTgzYzdiZGU5ZTIzMjU4YzQwMzhjMDQ4MjEyNTRlZGJiZjk5",
   "tracks": [
     {
       "added_at": "2023-08-03 22:00:00",
@@ -647,6 +647,26 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
+        "name": "One in a Million",
+        "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 160529,
+      "name": "One in a Million",
+      "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
         "name": "Edge of Seventeen",
         "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 164042,
       "name": "Edge of Seventeen",
       "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
-        "name": "Big City Life",
-        "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
-      },
-      "artists": [
-        {
-          "name": "Luude",
-          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
-        },
-        {
-          "name": "Mattafix",
-          "url": "https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz"
-        }
-      ],
-      "duration_ms": 146711,
-      "name": "Big City Life",
-      "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -723,6 +723,26 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
+        "name": "Big City Life",
+        "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Mattafix",
+          "url": "https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz"
+        }
+      ],
+      "duration_ms": 146711,
+      "name": "Big City Life",
+      "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
         "name": "Turn On The Lights again.. (feat. Future)",
         "url": "https://open.spotify.com/album/2jiMeC1iUWVYmvXSIiO8ks"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 267946,
       "name": "Turn On The Lights again.. (feat. Future)",
       "url": "https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
-        "name": "One in a Million",
-        "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 160529,
-      "name": "One in a Million",
-      "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
+        "name": "Like Wooh Wooh",
+        "url": "https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb"
+      },
+      "artists": [
+        {
+          "name": "Rnbstylerz",
+          "url": "https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg"
+        }
+      ],
+      "duration_ms": 136189,
+      "name": "Like Wooh Wooh - Radio Edit",
+      "url": "https://open.spotify.com/track/0C9P00gKzHroC3Et2SQylA"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
         "name": "Baby again..",
         "url": "https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 319963,
       "name": "Baby again..",
       "url": "https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
-        "name": "Like Wooh Wooh",
-        "url": "https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb"
-      },
-      "artists": [
-        {
-          "name": "Rnbstylerz",
-          "url": "https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg"
-        }
-      ],
-      "duration_ms": 136189,
-      "name": "Like Wooh Wooh - Radio Edit",
-      "url": "https://open.spotify.com/track/0C9P00gKzHroC3Et2SQylA"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Live Without Love",
-        "url": "https://open.spotify.com/album/2Win77LZ47jEOcVu6HcMhX"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 190476,
-      "name": "Live Without Love",
-      "url": "https://open.spotify.com/track/4V1SO4C2wG9bTq6Cp7yYyA"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
         "name": "Wrong or Right (The Riddle)",
         "url": "https://open.spotify.com/album/7f9y6wyXMLW9NfHHkMtccm"
       },
@@ -1059,22 +1039,6 @@
       "duration_ms": 154620,
       "name": "Wrong or Right (The Riddle)",
       "url": "https://open.spotify.com/track/78VSoe3vn4gR4pYSTBiAXA"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 198805,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1103,6 +1067,42 @@
       "duration_ms": 253433,
       "name": "Turn On The Lights again.. (feat. Future & Fred again..) - Anyma Remix",
       "url": "https://open.spotify.com/track/4ptnQ0kQnN1U1Ig8TSslj6"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Live Without Love",
+        "url": "https://open.spotify.com/album/2Win77LZ47jEOcVu6HcMhX"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 190476,
+      "name": "Live Without Love",
+      "url": "https://open.spotify.com/track/4V1SO4C2wG9bTq6Cp7yYyA"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 198805,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1331,6 +1331,26 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
+        "name": "Hit 'Em Up Style (Oops!)",
+        "url": "https://open.spotify.com/album/5OlOJVvdqUc8BoMMjTGamk"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        },
+        {
+          "name": "James Hurr",
+          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
+        }
+      ],
+      "duration_ms": 159840,
+      "name": "Hit 'Em Up Style (Oops!)",
+      "url": "https://open.spotify.com/track/6s2vYgLML3ClOtlJhYyYKR"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
         "name": "Baby Don't Hurt Me (feat. Anne-Marie & Coi Leray) [Joel Corry Remix]",
         "url": "https://open.spotify.com/album/4ZxoqDQ7tayryB9DFm6jbZ"
       },
@@ -1359,42 +1379,22 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Hit 'Em Up Style (Oops!)",
-        "url": "https://open.spotify.com/album/5OlOJVvdqUc8BoMMjTGamk"
+        "name": "Lavender Haze (Felix Jaehn Remix)",
+        "url": "https://open.spotify.com/album/5h060Rb0cfAGuny0L51zqV"
       },
       "artists": [
         {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         },
         {
-          "name": "James Hurr",
-          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
         }
       ],
-      "duration_ms": 159840,
-      "name": "Hit 'Em Up Style (Oops!)",
-      "url": "https://open.spotify.com/track/6s2vYgLML3ClOtlJhYyYKR"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
-        "name": "Broken (Lost Frequencies Cut)",
-        "url": "https://open.spotify.com/album/2aKRgqvnqmAJ0NxZ6VD9Jc"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Isak Danielson",
-          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
-        }
-      ],
-      "duration_ms": 172790,
-      "name": "Broken - Lost Frequencies Cut",
-      "url": "https://open.spotify.com/track/1C1zuA0hSfyNYFOTUddCzO"
+      "duration_ms": 171562,
+      "name": "Lavender Haze - Felix Jaehn Remix",
+      "url": "https://open.spotify.com/track/2M4tVhRXucLE9M3STv21Yi"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1443,22 +1443,22 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Lavender Haze (Felix Jaehn Remix)",
-        "url": "https://open.spotify.com/album/5h060Rb0cfAGuny0L51zqV"
+        "name": "Broken (Lost Frequencies Cut)",
+        "url": "https://open.spotify.com/album/2aKRgqvnqmAJ0NxZ6VD9Jc"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
         },
         {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+          "name": "Isak Danielson",
+          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
         }
       ],
-      "duration_ms": 171562,
-      "name": "Lavender Haze - Felix Jaehn Remix",
-      "url": "https://open.spotify.com/track/2M4tVhRXucLE9M3STv21Yi"
+      "duration_ms": 172790,
+      "name": "Broken - Lost Frequencies Cut",
+      "url": "https://open.spotify.com/track/1C1zuA0hSfyNYFOTUddCzO"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -1615,26 +1615,6 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Dance With Somebody",
-        "url": "https://open.spotify.com/album/5P3b13kbX6kSjcURHPyqxv"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Benny Bridges",
-          "url": "https://open.spotify.com/artist/4lP1lKWYqNLYWYtnuTh8OF"
-        }
-      ],
-      "duration_ms": 204947,
-      "name": "Dance With Somebody",
-      "url": "https://open.spotify.com/track/0Jmh09aQdMyzpIwnwNwiLS"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
         "name": "2 Die 4 (Jax Jones Midnight Snacks Remix)",
         "url": "https://open.spotify.com/album/3dPFgCq5KuPHjBUdSoRmlX"
       },
@@ -1651,6 +1631,26 @@
       "duration_ms": 155989,
       "name": "2 Die 4 (Jax Jones Midnight Snacks Remix)",
       "url": "https://open.spotify.com/track/49DiBZ3GwhSChqKE6XOkzx"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Dance With Somebody",
+        "url": "https://open.spotify.com/album/5P3b13kbX6kSjcURHPyqxv"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Benny Bridges",
+          "url": "https://open.spotify.com/artist/4lP1lKWYqNLYWYtnuTh8OF"
+        }
+      ],
+      "duration_ms": 204947,
+      "name": "Dance With Somebody",
+      "url": "https://open.spotify.com/track/0Jmh09aQdMyzpIwnwNwiLS"
     },
     {
       "added_at": "2023-08-03 22:00:00",

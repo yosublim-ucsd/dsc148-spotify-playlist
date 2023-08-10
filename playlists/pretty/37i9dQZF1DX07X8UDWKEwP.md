@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 
 > Lo nuevo del mundo tropical\. Cover: Ilegales
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,787 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,812 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 17 | [La Noche Perfecta](https://open.spotify.com/track/7H5YFDcDPy7viAoyVhYwNa) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [La Noche Perfecta](https://open.spotify.com/album/68WN58KU9vJg23y9P15Rwa) | 2:45 |
 | 18 | [Canaima](https://open.spotify.com/track/3W7KwglhgkvB6C6geMbdG0) | [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Canaima](https://open.spotify.com/album/0JJhhN6M64SeDDCIFvA1ok) | 2:29 |
 | 19 | [Tú Y Tú](https://open.spotify.com/track/6gnbz54mNEfB82Tl9pv5Z1) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Tú Y Tú](https://open.spotify.com/album/4kWBOGoMzrHdXf4dGzBPXp) | 3:36 |
-| 20 | [Si Tú Me Quieres](https://open.spotify.com/track/6EjZfW6C5msXQNaf1kquu7) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Si Tú Me Quieres](https://open.spotify.com/album/74rEKU2G8oF2VRMjd14IcY) | 3:24 |
-| 21 | [Sin Fin](https://open.spotify.com/track/4BBTalxG6c1Aoai1x1EA5g) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 3:54 |
+| 20 | [Sin Fin](https://open.spotify.com/track/4BBTalxG6c1Aoai1x1EA5g) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 3:54 |
+| 21 | [Si Tú Me Quieres](https://open.spotify.com/track/6EjZfW6C5msXQNaf1kquu7) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Si Tú Me Quieres](https://open.spotify.com/album/74rEKU2G8oF2VRMjd14IcY) | 3:24 |
 | 22 | [SIN CORAZÓN](https://open.spotify.com/track/3aELj9aOZ14knOMmMbXfZD) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [SEROTONINA](https://open.spotify.com/album/5OoIV5fMI5Wby0UsiLqX9H) | 2:17 |
 | 23 | [En Otra](https://open.spotify.com/track/26XTUfkLRnLR1W2XbjM9pf) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [En Otra](https://open.spotify.com/album/2LfZrUypchm1xCe73gDMsU) | 2:11 |
 | 24 | [Mi Pecadito](https://open.spotify.com/track/5yrbKnKL9mKC61StX948w1) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Mi Pecadito](https://open.spotify.com/album/2YsZcOI0c1Eyo0JlDAGwXD) | 3:17 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 45 | [Si Tu La Ves](https://open.spotify.com/track/04v1ifU5ICftn7GKzaFpl9) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Si Tu La Ves](https://open.spotify.com/album/4YViEFHtIfrWhgV6JTDUNN) | 3:13 |
 | 46 | [Soy](https://open.spotify.com/track/45tE8X8kZn7OXT0gqF8oUC) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Soy](https://open.spotify.com/album/4w7xwOg3peVXmzVheSpDDL) | 4:23 |
 | 47 | [La Historia \- Escalona Nunca Se Había Grabado Así](https://open.spotify.com/track/7gzuhDzLBcR0O1QXskLAdt) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [La Historia \(Escalona Nunca Se Había Grabado Así\)](https://open.spotify.com/album/2wcgOo4KxX9mWenJ4PeuUu) | 4:31 |
-| 48 | [Cuándo](https://open.spotify.com/track/4cQBl4skiG56RMGpu1diV3) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Cuándo](https://open.spotify.com/album/7AFKnMLumDXDJlCr1N3pvp) | 3:26 |
-| 49 | [Desde Otro Malecón](https://open.spotify.com/track/4Kg76Sd4J3tqCN5rHfRb53) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Desde Otro Malecón](https://open.spotify.com/album/7CHIw4LSHWgQbwWZC5rZpO) | 3:09 |
-| 50 | [Mi Confesión](https://open.spotify.com/track/4ogtFmfPM9dRoQpNXVxq78) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O), [Caceres](https://open.spotify.com/artist/2hh9vTDXej21Upds5nlJTn) | [Mi Confesión](https://open.spotify.com/album/0QrjJ4xZ1YOMRglUhSUxSq) | 3:18 |
+| 48 | [Mi Confesión](https://open.spotify.com/track/4ogtFmfPM9dRoQpNXVxq78) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O), [Caceres](https://open.spotify.com/artist/2hh9vTDXej21Upds5nlJTn) | [Mi Confesión](https://open.spotify.com/album/0QrjJ4xZ1YOMRglUhSUxSq) | 3:18 |
+| 49 | [Cuándo](https://open.spotify.com/track/4cQBl4skiG56RMGpu1diV3) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Cuándo](https://open.spotify.com/album/7AFKnMLumDXDJlCr1N3pvp) | 3:26 |
+| 50 | [Ayúdame](https://open.spotify.com/track/2pG8Bmm5lpk38fxeZRkvqT) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [TODO](https://open.spotify.com/album/1ga2yneTMtHivfc7wDKl1W) | 2:44 |
 
-Snapshot ID: `MCw0NjYwYjdhYzU0MWZkY2VjZjA4NDM2YzIwZmVkNzc5NDY4ZmVjYzdj`
+Snapshot ID: `MCxlOWUwOTM0NmQyYjZmZWJmZDkwNWFiZmVlYTc5ZWZhOGNjMTYxYzNl`

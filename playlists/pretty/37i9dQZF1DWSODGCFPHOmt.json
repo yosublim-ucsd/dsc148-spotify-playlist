@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjkxZGI4NTBjNjkzNWJmYzIzYjkzZDQ3OWI4MGI3MzU1ZmE4MDdi",
+  "snapshot_id": "MCxlOWEzNDcwZmU0Njg4OTk1NmI3MThmNjEyNmE3ZDQ5OTM3MDM3ZjE3",
   "tracks": [
     {
       "added_at": "2022-12-22 18:42:12",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
-        "name": "Navidad Sin Ti",
-        "url": "https://open.spotify.com/album/0xJijA9NXeLfb13qavbFS2"
+        "name": "Navidad Con Mariachi",
+        "url": "https://open.spotify.com/album/5F4QkpA6WWE49lnYGQZYDj"
       },
       "artists": [
         {
-          "name": "Mari\u00e1n Oviedo",
-          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 199879,
-      "name": "Navidad Sin Ti",
-      "url": "https://open.spotify.com/track/6JvXDavDKocEvJXRKLDuIm"
+      "duration_ms": 128729,
+      "name": "Jingle Bell Rock - Versi\u00f3n Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/3LrYE8uEeDdO13G07UDRdL"
     },
     {
       "added_at": "2022-12-22 18:42:12",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
+        "name": "Navidad Sin Ti",
+        "url": "https://open.spotify.com/album/0xJijA9NXeLfb13qavbFS2"
+      },
+      "artists": [
+        {
+          "name": "Mari\u00e1n Oviedo",
+          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
+        }
+      ],
+      "duration_ms": 199879,
+      "name": "Navidad Sin Ti",
+      "url": "https://open.spotify.com/track/6JvXDavDKocEvJXRKLDuIm"
+    },
+    {
+      "added_at": "2022-12-22 18:42:12",
+      "album": {
         "name": "La \u00faltima canci\u00f3n",
         "url": "https://open.spotify.com/album/1dn55Gp93D5VmsFCeEJ279"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 156499,
       "name": "Amarga navidad (Ranchera)",
       "url": "https://open.spotify.com/track/0OrGmIMphBPEGj786A1RVO"
-    },
-    {
-      "added_at": "2022-12-22 18:42:12",
-      "album": {
-        "name": "Navidad Con Mariachi",
-        "url": "https://open.spotify.com/album/5F4QkpA6WWE49lnYGQZYDj"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 128729,
-      "name": "Jingle Bell Rock - Versi\u00f3n Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/3LrYE8uEeDdO13G07UDRdL"
     },
     {
       "added_at": "2022-12-22 18:42:12",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
-        "name": "Blanca Navidad",
-        "url": "https://open.spotify.com/album/0zV6NFZnGLuSrfKPQcupTc"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 149276,
-      "name": "Blanca Navidad",
-      "url": "https://open.spotify.com/track/6MM2yVmmVOtPKTDPGmmGy0"
-    },
-    {
-      "added_at": "2022-12-22 18:42:12",
-      "album": {
         "name": "Contigo En Navidad",
         "url": "https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 218000,
       "name": "Dame Un Beso En Noche Buena",
       "url": "https://open.spotify.com/track/4ppNsm9kQu6HvipzQ56T2A"
+    },
+    {
+      "added_at": "2022-12-22 18:42:12",
+      "album": {
+        "name": "Blanca Navidad",
+        "url": "https://open.spotify.com/album/0zV6NFZnGLuSrfKPQcupTc"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 149276,
+      "name": "Blanca Navidad",
+      "url": "https://open.spotify.com/track/6MM2yVmmVOtPKTDPGmmGy0"
     },
     {
       "added_at": "2022-12-22 18:42:12",

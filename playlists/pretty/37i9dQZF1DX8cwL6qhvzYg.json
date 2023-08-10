@@ -1,12 +1,12 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie lo va a cambiar \ud83d\ude0e\ud83d\udc83\ud83c\udffe\ud83d\udd7a\ud83c\udffe",
-  "num_followers": 379745,
+  "num_followers": 379871,
   "original_name": "Fiesta de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMGY5YzlhYTdhN2QwNDgyYTg1OTNlYTM4ZDU3NjdkNDI0MmY2YzI1",
+  "snapshot_id": "MCxkN2M1MjMzNjEwNzBlMWUyZDJmZWVhNDkyOTAxYjZiNGQ1YzRmOTk4",
   "tracks": [
     {
       "added_at": "2023-02-23 23:48:38",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-02-23 23:48:38",
       "album": {
-        "name": "Consejos Gratis",
-        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 122096,
-      "name": "Como Quieras Quiero",
-      "url": "https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p"
-    },
-    {
-      "added_at": "2023-02-23 23:48:38",
-      "album": {
         "name": "Un Sue\u00f1o",
         "url": "https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 225360,
       "name": "Un Sue\u00f1o",
       "url": "https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG"
+    },
+    {
+      "added_at": "2023-02-23 23:48:38",
+      "album": {
+        "name": "Consejos Gratis",
+        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 122096,
+      "name": "Como Quieras Quiero",
+      "url": "https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p"
     },
     {
       "added_at": "2023-02-23 23:48:38",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-02-23 23:48:38",
       "album": {
-        "name": "Destilando Amor",
-        "url": "https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB"
-      },
-      "artists": [
-        {
-          "name": "Aaron Y Su Grupo Ilusion",
-          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
-        }
-      ],
-      "duration_ms": 247893,
-      "name": "Todo Me Gusta De Ti",
-      "url": "https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh"
-    },
-    {
-      "added_at": "2023-02-23 23:48:38",
-      "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 311400,
       "name": "Ven Dev\u00f3rame Otra Vez",
       "url": "https://open.spotify.com/track/2HbmLkHkkI15eES8kpWRuI"
+    },
+    {
+      "added_at": "2023-02-23 23:48:38",
+      "album": {
+        "name": "Destilando Amor",
+        "url": "https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB"
+      },
+      "artists": [
+        {
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+        }
+      ],
+      "duration_ms": 247893,
+      "name": "Todo Me Gusta De Ti",
+      "url": "https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh"
     },
     {
       "added_at": "2023-02-23 23:48:38",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-02-23 23:48:38",
       "album": {
+        "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 193816,
+      "name": "NO SE VA - EN VIVO",
+      "url": "https://open.spotify.com/track/0Y1lSCcxjfyyvmfgMJ1ukA"
+    },
+    {
+      "added_at": "2023-02-23 23:48:38",
+      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/48FUru9enVg1NlLrkZyJW6"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 225720,
       "name": "Suavecito Suavecito",
       "url": "https://open.spotify.com/track/6cKWDVak6o362TElLvwtmU"
-    },
-    {
-      "added_at": "2023-02-23 23:48:38",
-      "album": {
-        "name": "Huapango Amor Ranchero",
-        "url": "https://open.spotify.com/album/40EvvWuBGio70bkcFLk6Fl"
-      },
-      "artists": [
-        {
-          "name": "La Humildad De La Musica Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE"
-        }
-      ],
-      "duration_ms": 199314,
-      "name": "Huapango Amor Ranchero",
-      "url": "https://open.spotify.com/track/4h8xnS3HBT19lpOvOfctS5"
     },
     {
       "added_at": "2023-02-23 23:48:38",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-02-23 23:48:38",
       "album": {
+        "name": "Huapango Amor Ranchero",
+        "url": "https://open.spotify.com/album/40EvvWuBGio70bkcFLk6Fl"
+      },
+      "artists": [
+        {
+          "name": "La Humildad De La Musica Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE"
+        }
+      ],
+      "duration_ms": 199314,
+      "name": "Huapango Amor Ranchero",
+      "url": "https://open.spotify.com/track/4h8xnS3HBT19lpOvOfctS5"
+    },
+    {
+      "added_at": "2023-02-23 23:48:38",
+      "album": {
         "name": "De Parranda Lives Vol. 5",
         "url": "https://open.spotify.com/album/0IbYtGUcmCxEqOenGvcZRh"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 252888,
       "name": "Te Vez Buena",
       "url": "https://open.spotify.com/track/4fTFCw9sUnJFZNrVBecAUn"
-    },
-    {
-      "added_at": "2023-02-23 23:48:38",
-      "album": {
-        "name": "Aqui No Se Sienta Nadie!",
-        "url": "https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 205813,
-      "name": "Brujeria",
-      "url": "https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM"
     },
     {
       "added_at": "2023-02-23 23:48:38",
@@ -1075,6 +1075,22 @@
       "duration_ms": 225213,
       "name": "Las Locuras M\u00edas",
       "url": "https://open.spotify.com/track/78OElpvKKwUnCEoVVtqth5"
+    },
+    {
+      "added_at": "2023-02-23 23:48:38",
+      "album": {
+        "name": "Aqui No Se Sienta Nadie!",
+        "url": "https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 205813,
+      "name": "Brujeria",
+      "url": "https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM"
     },
     {
       "added_at": "2023-02-23 23:48:38",
@@ -1171,22 +1187,6 @@
       "duration_ms": 246733,
       "name": "Que Nadie Sepa Mi Sufrir",
       "url": "https://open.spotify.com/track/746BX8eh7gTFJUaVwF3Hpk"
-    },
-    {
-      "added_at": "2023-02-23 23:48:38",
-      "album": {
-        "name": "El Comienzo",
-        "url": "https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 193816,
-      "name": "NO SE VA - EN VIVO",
-      "url": "https://open.spotify.com/track/0Y1lSCcxjfyyvmfgMJ1ukA"
     },
     {
       "added_at": "2023-02-23 23:48:38",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2023-02-23 23:48:38",
       "album": {
-        "name": "El Aut\u00e9ntico e Imbatible",
-        "url": "https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62"
-      },
-      "artists": [
-        {
-          "name": "Cuarteto Continental de Alberto Marav\u00ed",
-          "url": "https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq"
-        }
-      ],
-      "duration_ms": 208080,
-      "name": "Llorando Se Fue \"Lambada\"",
-      "url": "https://open.spotify.com/track/2X5nEYIzulPNs3abgszxXH"
-    },
-    {
-      "added_at": "2023-02-23 23:48:38",
-      "album": {
         "name": "Gold Collection, Vol.1",
         "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 181968,
       "name": "Sal con Lim\u00f3n",
       "url": "https://open.spotify.com/track/6arEdpIPcdyAPtvPcwZ9YD"
+    },
+    {
+      "added_at": "2023-02-23 23:48:38",
+      "album": {
+        "name": "El Aut\u00e9ntico e Imbatible",
+        "url": "https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62"
+      },
+      "artists": [
+        {
+          "name": "Cuarteto Continental de Alberto Marav\u00ed",
+          "url": "https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq"
+        }
+      ],
+      "duration_ms": 208080,
+      "name": "Llorando Se Fue \"Lambada\"",
+      "url": "https://open.spotify.com/track/2X5nEYIzulPNs3abgszxXH"
     },
     {
       "added_at": "2023-02-23 23:48:38",

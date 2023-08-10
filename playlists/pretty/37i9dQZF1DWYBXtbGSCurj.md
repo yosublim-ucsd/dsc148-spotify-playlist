@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Yunk Vino
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,689 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,851 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [Flow Espacial](https://open.spotify.com/track/4qDT0BeJ7BjatrN9k8AvB4) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Flow Espacial](https://open.spotify.com/album/02bPJTNRLkXeVWQPihqHNX) | 2:45 |
 | 75 | [Coração de Gelo](https://open.spotify.com/track/7nFvKgVumc9FcU97zGjjei) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Manual de Como Amar Errado](https://open.spotify.com/album/7wUbINCiBbmMPH50g1bg3I) | 2:48 |
 
-Snapshot ID: `MCwxNWMxZDg1NmIwMTAzZDUwNmFkOTMwOTU0YWNmZGRkYjNlNjM3YmU0`
+Snapshot ID: `MCw0OTFiNThjNzE5N2QxZTJlZGY5YWVkNzg1MzQ2OWZkODJjZTVmYmEz`

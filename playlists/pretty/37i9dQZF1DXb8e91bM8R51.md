@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 
 > Hip Hop pra fazer os corres da vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,075 likes - 120 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,111 likes - 120 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 | 119 | [SPEND IT](https://open.spotify.com/track/15CaM867TKXMlgiU1wHH62) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [THE HUSTLE CONTINUES](https://open.spotify.com/album/6zFqKeygTGAmLEF2AXCfZO) | 3:18 |
 | 120 | [Pain & Strife \(feat\. Offset\)](https://open.spotify.com/track/5sER6mjVIHvloVenvFbgT1) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 2:37 |
 
-Snapshot ID: `MCxjOGFjMWE2OGMzZDM5M2FjMTNlZjkyYmJmZjdmNjg3YzY0YmE1ZDdi`
+Snapshot ID: `MCw5Zjc1ZTEzNzA4YTE3N2VkNGI4MmFiN2Q4NmY4ZjI3OWQ3ZGFkNmRl`

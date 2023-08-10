@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 
 > Midwest music breaking waves\. Cover: <a href="https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA?si=sa1MczKmTbStHjRz0SIwNg">Babyface Ray</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,178 likes - 57 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,195 likes - 57 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 56 | [OOGIE](https://open.spotify.com/track/2VYLS3j03FZLKIebP7ume9) | [Beamon](https://open.spotify.com/artist/4YdeEI1YlIPMBgxdDNc39K), [Rellim](https://open.spotify.com/artist/5peUHq2Ya8RBqm5GSq16QU) | [OOGIE](https://open.spotify.com/album/5EetXOn0c4hCGfDwy7MD4A) | 2:34 |
 | 57 | [let him cooketh \(No Bev\)](https://open.spotify.com/track/4Je3shjTH5uUyFQJS0Tuvz) | [Your Stepdad](https://open.spotify.com/artist/4l7BJOIRyFkQT9QD96m8tu) | [let him cooketh \(No Bev\)](https://open.spotify.com/album/7A2yxNKZivHUrgV0pHbFwb) | 2:15 |
 
-Snapshot ID: `MCwyYjNhMGIyMjQ2ZmZlYjdlMzVkOWQ0NjZjM2QyYzIxOTI2YjhjMzNm`
+Snapshot ID: `MCwwOTM4YzU0YThkOTU0OTJiOTFhY2U3NDk1ZTA0OGU1ODA2NGU2ZmUz`

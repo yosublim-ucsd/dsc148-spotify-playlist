@@ -4,7 +4,7 @@
 
 > Sing\-along with your favorite songs from Disney Junior shows including new music from SuperKitties!  Watch SuperKitties on Disney Junior, Disney Channel, and Disney+.
 
-190 songs - 4 hr 51 min
+191 songs - 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Busy Puppy \- From "Disney Junior Music: Mickey Mouse Funhouse"](https://open.spotify.com/track/5UHgW9TPd9dg7Zlv2t9kEG) | [Mickey Mouse Funhouse \- Cast](https://open.spotify.com/artist/1Vn7zu8r6zi4pYbSq0XWIS), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Busy Puppy \(From "Disney Junior Music: Mickey Mouse Funhouse"\)](https://open.spotify.com/album/6BjwLQJ85ZQHcAGykqN8lU) | 2:19 | 2022-07-27 |  |
 | [Call of the Guard \(The Lion Guard Theme\)](https://open.spotify.com/track/4RBLAaz2HPM1ZlpUt7PjP2) | [The Lion Guard Chorus](https://open.spotify.com/artist/4P2zfQlM3ILD7rlSE7Eq1P) | [The Lion Guard \(Music from the TV Series\)](https://open.spotify.com/album/1gcdxovxYoZ9xJtIT72FF0) | 1:03 | 2022-03-18 |  |
 | [Captain Dog](https://open.spotify.com/track/4UMC2NPwi3iarOtkmdMmQm) | ["Puppy Dog Pals" Cast](https://open.spotify.com/artist/6XYqhT02pSA6p3BoYe9P63) | [Disney Junior Music: Puppy Dog Pals \- Pup\-tastic Party](https://open.spotify.com/album/3veVX6rvkJ01H7UcpyOIp7) | 1:03 | 2022-03-18 |  |
+| [Cheeeeeeese](https://open.spotify.com/track/3Iga2u1fdZY7tL5UpaQA1B) | [SuperKitties \- Cast](https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: SuperKitties Su\-purr Edition](https://open.spotify.com/album/5RghnhLU5w8Ludol7Bys33) | 1:08 | 2023-08-09 |  |
 | [Chicken Charge](https://open.spotify.com/track/5oXJHQqx59szko8Gl8dElk) | [The Chicken Squad \- Cast](https://open.spotify.com/artist/0IYe9D09F9fIMG0xGbZ2SD) | [Disney Junior Music: The Chicken Squad](https://open.spotify.com/album/0cfgvbtH4oz7PKJI0HZmb8) | 0:47 | 2022-03-18 |  |
 | [Choo Choo Boogie](https://open.spotify.com/track/3dYApvQaaV8P9lBs7WLikO) | [Mickey](https://open.spotify.com/artist/7sWkR5prBNPnBJ4iDmgfrh), [Minnie](https://open.spotify.com/artist/4kc6FNAU1bVjmj4kws7xiZ), [Goofy](https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64), [Donald](https://open.spotify.com/artist/2Xx0gxHzqRTmRhSOPVF8tN), [Daisy](https://open.spotify.com/artist/0JWDwibeuQ4VutQqnyyAax), [Pluto](https://open.spotify.com/artist/4h1QfVKE46WTDiQgrmeuv8), [Pete](https://open.spotify.com/artist/2KwrOBhFnyoNTuPG8Wb2ls), [Clarabelle](https://open.spotify.com/artist/6zhTI5Vojyp8BxG6LaUNwp) | [Disney Junior DJ Shuffle](https://open.spotify.com/album/5OycyaWPgJT6KRRNeQbbkg) | 2:00 | 2022-03-18 |  |
 | [Choo Choo Express](https://open.spotify.com/track/7nr1mMXozxQtPtM1PDCFky) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Mickey Mouse Clubhouse: Meeska, Mooska, Mickey Mouse](https://open.spotify.com/album/3RfXYhZGjcBVWAGxkP5i5L) | 1:58 | 2022-03-18 | 2022-07-29 |

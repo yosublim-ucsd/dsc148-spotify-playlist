@@ -1,12 +1,12 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 678641,
+  "num_followers": 678775,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTdiODc2NjI0ODM5ZmUwOGYzYmFkZmRjNWZiYzM4YzY2NWM1YmU2",
+  "snapshot_id": "MCwzNDI3OGYzODBkZDc2MzcwNTNhZmUzMGI3NmFiYTY3MDg5N2RmYmM5",
   "tracks": [
     {
       "added_at": "2023-07-25 17:32:56",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
+        "name": "Rhymes & Reasons",
+        "url": "https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 147466,
+      "name": "Bitter with the Sweet",
+      "url": "https://open.spotify.com/track/6MBS3ARYYlI4FtYjaTinK5"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
         "name": "You Ain't The Problem (Claptone Remix)",
         "url": "https://open.spotify.com/album/24U03pgag0P2AvPxzbBeH0"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 164714,
       "name": "You Ain't The Problem - Claptone Remix",
       "url": "https://open.spotify.com/track/7BFXQINSdAqgOmMydTGnKG"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
-        "name": "Rhymes & Reasons",
-        "url": "https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv"
-      },
-      "artists": [
-        {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        }
-      ],
-      "duration_ms": 147466,
-      "name": "Bitter with the Sweet",
-      "url": "https://open.spotify.com/track/6MBS3ARYYlI4FtYjaTinK5"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "Coney Island Baby",
-        "url": "https://open.spotify.com/album/3Kawndiz86cIHkPsKtFiKx"
-      },
-      "artists": [
-        {
-          "name": "Lou Reed",
-          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
-        }
-      ],
-      "duration_ms": 159093,
-      "name": "Charley's Girl",
-      "url": "https://open.spotify.com/track/70tBw295bLL8B13Jg3SNUs"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
         "name": "Bar Mediterraneo",
         "url": "https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 200135,
       "name": "Praja Magia",
       "url": "https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
+        "name": "Coney Island Baby",
+        "url": "https://open.spotify.com/album/3Kawndiz86cIHkPsKtFiKx"
+      },
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+        }
+      ],
+      "duration_ms": 159093,
+      "name": "Charley's Girl",
+      "url": "https://open.spotify.com/track/70tBw295bLL8B13Jg3SNUs"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "Wildflower",
-        "url": "https://open.spotify.com/album/6NA59O0ZbOMyiEW3wOADa0"
+        "name": "Life and Life Only",
+        "url": "https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr"
       },
       "artists": [
         {
-          "name": "Octave Lissner",
-          "url": "https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7"
+          "name": "The Heavy Heavy",
+          "url": "https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q"
         }
       ],
-      "duration_ms": 219967,
-      "name": "Corners",
-      "url": "https://open.spotify.com/track/7BnyaLmnTe24kFOL78nMAk"
+      "duration_ms": 266106,
+      "name": "Go Down River",
+      "url": "https://open.spotify.com/track/4V4wsqkdFEQ4weme7FlnNC"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "Life and Life Only",
-        "url": "https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr"
+        "name": "Wildflower",
+        "url": "https://open.spotify.com/album/6NA59O0ZbOMyiEW3wOADa0"
       },
       "artists": [
         {
-          "name": "The Heavy Heavy",
-          "url": "https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q"
+          "name": "Octave Lissner",
+          "url": "https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7"
         }
       ],
-      "duration_ms": 266106,
-      "name": "Go Down River",
-      "url": "https://open.spotify.com/track/4V4wsqkdFEQ4weme7FlnNC"
+      "duration_ms": 219967,
+      "name": "Corners",
+      "url": "https://open.spotify.com/track/7BnyaLmnTe24kFOL78nMAk"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "Les jolies choses",
-        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 222373,
-      "name": "Les jolies choses",
-      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
         "name": "You're so Fine",
         "url": "https://open.spotify.com/album/22kWUpDiarfEBR01M9Oei5"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 242773,
       "name": "O.P. Jebediah",
       "url": "https://open.spotify.com/track/2osA04Ftqanbf9P3uJjTJb"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
+        "name": "Les jolies choses",
+        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 222373,
+      "name": "Les jolies choses",
+      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "Soft Spot",
-        "url": "https://open.spotify.com/album/2NCpqUoUNjA1lUi8ROrexY"
-      },
-      "artists": [
-        {
-          "name": "The California Honeydrops",
-          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
-        }
-      ],
-      "duration_ms": 224626,
-      "name": "Tumblin'",
-      "url": "https://open.spotify.com/track/53XMmw6emHn2NLt4YPPgPi"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
         "name": "Nashville Skyline",
         "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 201133,
       "name": "Tonight I'll Be Staying Here with You",
       "url": "https://open.spotify.com/track/3uHpPWsNDTpbbqedCRoaQU"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
+        "name": "Soft Spot",
+        "url": "https://open.spotify.com/album/2NCpqUoUNjA1lUi8ROrexY"
+      },
+      "artists": [
+        {
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+        }
+      ],
+      "duration_ms": 224626,
+      "name": "Tumblin'",
+      "url": "https://open.spotify.com/track/53XMmw6emHn2NLt4YPPgPi"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "House of FM",
-        "url": "https://open.spotify.com/album/4WilCpAY0oHk9Gxmki8wOI"
+        "name": "This Is My Story",
+        "url": "https://open.spotify.com/album/7m0WOyvRISJQjiHHheGuVs"
       },
       "artists": [
         {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+          "name": "Holy Hive",
+          "url": "https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw"
         }
       ],
-      "duration_ms": 235263,
-      "name": "Losing Touch",
-      "url": "https://open.spotify.com/track/6EshmnAdZGBCA2LYCCX2Uy"
+      "duration_ms": 132750,
+      "name": "This Is My Story",
+      "url": "https://open.spotify.com/track/1SauvELylW5CaydMeG33ib"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
+        "name": "House of FM",
+        "url": "https://open.spotify.com/album/4WilCpAY0oHk9Gxmki8wOI"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 235263,
+      "name": "Losing Touch",
+      "url": "https://open.spotify.com/track/6EshmnAdZGBCA2LYCCX2Uy"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
         "name": "Loving In Stereo",
         "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 194373,
       "name": "Goodbye My Love",
       "url": "https://open.spotify.com/track/0O5H4Mg0iOhvRYsYMCZ07D"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
-        "name": "This Is My Story",
-        "url": "https://open.spotify.com/album/7m0WOyvRISJQjiHHheGuVs"
-      },
-      "artists": [
-        {
-          "name": "Holy Hive",
-          "url": "https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw"
-        }
-      ],
-      "duration_ms": 132750,
-      "name": "This Is My Story",
-      "url": "https://open.spotify.com/track/1SauvELylW5CaydMeG33ib"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "Electric Warrior [Expanded & Remastered]",
-        "url": "https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt"
-      },
-      "artists": [
-        {
-          "name": "T. Rex",
-          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
-        }
-      ],
-      "duration_ms": 220960,
-      "name": "Mambo Sun - 2003 Remaster",
-      "url": "https://open.spotify.com/track/79dQwpXjJ4t3pILysdqFyB"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/7iRIgmwpX7Qv1QUiCQj7pV"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 191039,
       "name": "I Just Want To Talk To You",
       "url": "https://open.spotify.com/track/0amEuqSuEc6YSUSQjhs5Wr"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
+        "name": "Electric Warrior [Expanded & Remastered]",
+        "url": "https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "duration_ms": 220960,
+      "name": "Mambo Sun - 2003 Remaster",
+      "url": "https://open.spotify.com/track/79dQwpXjJ4t3pILysdqFyB"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1687,6 +1687,26 @@
       "duration_ms": 163648,
       "name": "My Boy",
       "url": "https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
+        "name": "Always on My Mind (Acoustic)",
+        "url": "https://open.spotify.com/album/2IXxnl8jWACV3QC8WtyHIt"
+      },
+      "artists": [
+        {
+          "name": "Nan\u00e9",
+          "url": "https://open.spotify.com/artist/2vAUwx2nm0chxnNXkAcHD7"
+        },
+        {
+          "name": "Ley Line",
+          "url": "https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX"
+        }
+      ],
+      "duration_ms": 214820,
+      "name": "Always on My Mind (Acoustic)",
+      "url": "https://open.spotify.com/track/4BzkIjqAMi2MYU5ZJoV9my"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1743,26 +1763,6 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "Always on My Mind (Acoustic)",
-        "url": "https://open.spotify.com/album/2IXxnl8jWACV3QC8WtyHIt"
-      },
-      "artists": [
-        {
-          "name": "Nan\u00e9",
-          "url": "https://open.spotify.com/artist/2vAUwx2nm0chxnNXkAcHD7"
-        },
-        {
-          "name": "Ley Line",
-          "url": "https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX"
-        }
-      ],
-      "duration_ms": 214820,
-      "name": "Always on My Mind (Acoustic)",
-      "url": "https://open.spotify.com/track/4BzkIjqAMi2MYU5ZJoV9my"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
         "name": "Cruisin' To The Parque",
         "url": "https://open.spotify.com/album/4WZY8uTnoLtLPyeROJhAxh"
       },
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "Just Like You Used To",
-        "url": "https://open.spotify.com/album/1KL7kl1XBGuAd5Z3xij3Mg"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 188155,
-      "name": "Just Like You Used To",
-      "url": "https://open.spotify.com/track/7muZRuzw9GrlftSblA5Bkf"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
         "name": "Music and Dreams",
         "url": "https://open.spotify.com/album/7D9LwyfF1jH5nfSgZDYxRO"
       },
@@ -1819,18 +1803,18 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "Walk the Streets of Love",
-        "url": "https://open.spotify.com/album/3CncPOGYwgAd1OW26HSUYD"
+        "name": "Just Like You Used To",
+        "url": "https://open.spotify.com/album/1KL7kl1XBGuAd5Z3xij3Mg"
       },
       "artists": [
         {
-          "name": "Charlie Bereal",
-          "url": "https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa"
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
         }
       ],
-      "duration_ms": 209561,
-      "name": "Walk the Streets of Love",
-      "url": "https://open.spotify.com/track/3pwe1XZL72gTCoeA3SI1eO"
+      "duration_ms": 188155,
+      "name": "Just Like You Used To",
+      "url": "https://open.spotify.com/track/7muZRuzw9GrlftSblA5Bkf"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1851,18 +1835,34 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "Boys, B-Sides & Rarities",
-        "url": "https://open.spotify.com/album/4chIfnAsr94togS7Xnwg2U"
+        "name": "Walk the Streets of Love",
+        "url": "https://open.spotify.com/album/3CncPOGYwgAd1OW26HSUYD"
       },
       "artists": [
         {
-          "name": "Spang Sisters",
-          "url": "https://open.spotify.com/artist/55LV0taR11yxOICTZORibT"
+          "name": "Charlie Bereal",
+          "url": "https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa"
         }
       ],
-      "duration_ms": 156788,
-      "name": "King Prawn The 1st",
-      "url": "https://open.spotify.com/track/0t81ZOuQDXrw45a9mGKC6t"
+      "duration_ms": 209561,
+      "name": "Walk the Streets of Love",
+      "url": "https://open.spotify.com/track/3pwe1XZL72gTCoeA3SI1eO"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
+        "name": "Float Back To You",
+        "url": "https://open.spotify.com/album/3QAqLB0l9c1OD2GG2fsW5F"
+      },
+      "artists": [
+        {
+          "name": "Holy Hive",
+          "url": "https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw"
+        }
+      ],
+      "duration_ms": 231868,
+      "name": "Hypnosis",
+      "url": "https://open.spotify.com/track/3cxqVYtrpDyAC4faMJgB9A"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1883,18 +1883,18 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "Float Back To You",
-        "url": "https://open.spotify.com/album/3QAqLB0l9c1OD2GG2fsW5F"
+        "name": "Boys, B-Sides & Rarities",
+        "url": "https://open.spotify.com/album/4chIfnAsr94togS7Xnwg2U"
       },
       "artists": [
         {
-          "name": "Holy Hive",
-          "url": "https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw"
+          "name": "Spang Sisters",
+          "url": "https://open.spotify.com/artist/55LV0taR11yxOICTZORibT"
         }
       ],
-      "duration_ms": 231868,
-      "name": "Hypnosis",
-      "url": "https://open.spotify.com/track/3cxqVYtrpDyAC4faMJgB9A"
+      "duration_ms": 156788,
+      "name": "King Prawn The 1st",
+      "url": "https://open.spotify.com/track/0t81ZOuQDXrw45a9mGKC6t"
     },
     {
       "added_at": "2023-07-25 17:32:56",

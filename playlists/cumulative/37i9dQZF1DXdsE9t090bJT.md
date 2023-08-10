@@ -4,7 +4,7 @@
 
 > Súbete a la troca ❤️
 
-166 songs - 8 hr 58 min
+167 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Quiero Darte](https://open.spotify.com/track/6EKOb6cc9RXNAMDsF0IMcF) | [Designó](https://open.spotify.com/artist/0U8mxS5KYSDoQTrziRHfL4) | [Sin Sentimientos](https://open.spotify.com/album/3Ap9df5ktY7WttZSz0bTyP) | 2:58 | 2022-02-11 |  |
 | [Quiero Ser](https://open.spotify.com/track/2O97frCXRrFLDV10UeCd9V) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [PDE](https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT) | 3:29 | 2022-02-11 |  |
 | [Qué Bueno Es Tenerte](https://open.spotify.com/track/5tHTGILurH1rAclKt78TQC) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [México de Mi Corazón, Vol\. 2](https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY) | 3:25 | 2022-02-11 | 2023-04-05 |
+| [Qué Más Puedo Pedir \- Bonus Track](https://open.spotify.com/track/2dtwxFjUGeoMO4Y2Zy9sW2) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Inédito](https://open.spotify.com/album/2OsszrrYft2W0pprUj7jyX) | 3:17 | 2023-07-05 |  |
 | [Qué Onda Perdida](https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Qué Onda Perdida](https://open.spotify.com/album/6kbhZqFlf80O9LW2EAWz15) | 3:59 | 2023-04-05 |  |
 | [Quédate Conmigo](https://open.spotify.com/track/1BjQB4vJPolq7ctCnUC59Z) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:13 | 2022-12-07 |  |
 | [Romántico](https://open.spotify.com/track/0wi7Cq9aRlNz8kaHd4UD9u) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [La Nueva R](https://open.spotify.com/album/6ZZzbA0U5oUaLbSC3Xl0H6) | 2:10 | 2022-02-11 | 2023-02-11 |
@@ -144,7 +145,7 @@
 | [Si Quieres](https://open.spotify.com/track/7CWdtbKVwXWgWeWGzZiprW) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Si Quieres](https://open.spotify.com/album/7oX2OUdZkT1pOgOj7pfFRe) | 4:33 | 2022-02-11 | 2023-01-10 |
 | [Solamente Tú](https://open.spotify.com/track/7yc1583SLaSHXCOWnrsdM7) | [Los Gfez](https://open.spotify.com/artist/21oKCrUHWbio1GrIP6zpcF) | [Solamente Tú](https://open.spotify.com/album/5c1RVEFFzV9v0SfcRfuQO4) | 3:53 | 2022-02-11 | 2022-12-08 |
 | [Solo Con Verte](https://open.spotify.com/track/5z4O1H0vFY0Nh4ZMtfgapP) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Que Bendición](https://open.spotify.com/album/5VL90afs1EsezktD44XMIN) | 3:12 | 2022-02-11 |  |
-| [Soy Para Ti](https://open.spotify.com/track/1P5pgQQ1njPjAkvnSJM2kY) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Soy Para Ti](https://open.spotify.com/album/6eRUj25447aaQ7TpYz2iJT) | 2:40 | 2022-02-11 |  |
+| [Soy Para Ti](https://open.spotify.com/track/1P5pgQQ1njPjAkvnSJM2kY) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Soy Para Ti](https://open.spotify.com/album/6eRUj25447aaQ7TpYz2iJT) | 2:40 | 2022-02-11 | 2023-08-10 |
 | [Símbolo Sexual](https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Simbolo Sexual](https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ) | 3:00 | 2023-07-05 |  |
 | [Sólo Me Faltabas Tú](https://open.spotify.com/track/2iczDnKcdpfqxzc5fsFcRP) | [Luciano Luna](https://open.spotify.com/artist/57BbKXJtNatw70ug0uOzQq), [Cuitla Vega](https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I) | [Sólo Me Faltabas Tú](https://open.spotify.com/album/2fn1kCf7XoVAZUP2wZRDv5) | 3:30 | 2022-02-11 | 2022-12-08 |
 | [Tal Vez](https://open.spotify.com/track/7Aiq4g8tSExAM2qUNkiHbZ) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Vibras de Noche](https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG) | 4:30 | 2022-02-11 | 2023-07-06 |

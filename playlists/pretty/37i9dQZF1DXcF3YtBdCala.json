@@ -1,12 +1,12 @@
 {
   "description": "J\u00f3venes y renovadas expresiones de la bella tradici\u00f3n mexicana. Paola Jara en portada. ",
-  "num_followers": 127813,
+  "num_followers": 127825,
   "original_name": "Mariachi Joven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NmI4YjEzZTA4NTYzY2VhOWQ4ZjZkMzk1ZGRkZTBlY2JiMDIyNjkx",
+  "snapshot_id": "MCxmODM1MzEwZDgzZTQ5NDg2MjM2YTNhYTcyNDA3Y2NmNzc4OWUwYzc1",
   "tracks": [
     {
       "added_at": "2023-08-04 06:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 169750,
-      "name": "Decide Qu\u00e9 Somos",
-      "url": "https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
         "name": "Si No Es Muy Tarde (Versi\u00f3n Mariachi)",
         "url": "https://open.spotify.com/album/4NZmU0T1ixQM0xgh3mI0x8"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 241466,
       "name": "Si No Es Muy Tarde - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/2VmXYSPm82hQ0xotthshnU"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 169750,
+      "name": "Decide Qu\u00e9 Somos",
+      "url": "https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
+        "name": "Una Vida",
+        "url": "https://open.spotify.com/album/6U3MLuqsCCTExV3FDDAbpI"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 177893,
+      "name": "Una Vida",
+      "url": "https://open.spotify.com/track/760FIaj8goTswBMMzezp2n"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
         "name": "Peca de Bonita",
         "url": "https://open.spotify.com/album/7bHrAZIx7NRTAh2dLmEPqW"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 147093,
       "name": "Peca de Bonita",
       "url": "https://open.spotify.com/track/1ZcGy0Rdj6boMmWAUoqed9"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "La Despedida",
-        "url": "https://open.spotify.com/album/1OWsLICCRxbyWTZuE3xDvk"
-      },
-      "artists": [
-        {
-          "name": "Pipe Bueno",
-          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
-        }
-      ],
-      "duration_ms": 141756,
-      "name": "La Despedida",
-      "url": "https://open.spotify.com/track/2eBECLFWzlAHqJtEJhm5Ya"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1007,38 +1007,6 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Una Vida",
-        "url": "https://open.spotify.com/album/6U3MLuqsCCTExV3FDDAbpI"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 177893,
-      "name": "Una Vida",
-      "url": "https://open.spotify.com/track/760FIaj8goTswBMMzezp2n"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "Se Disfraz\u00f3",
-        "url": "https://open.spotify.com/album/0e90dEopSeHMvkBdWB2nX8"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 206383,
-      "name": "Se Disfraz\u00f3",
-      "url": "https://open.spotify.com/track/3Z33YVoP5VK4lLjwDR8Yb7"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
         "name": "Fue Tu Culpa",
         "url": "https://open.spotify.com/album/5NOb3XhFyTN9QQcfdjYHWd"
       },
@@ -1055,6 +1023,38 @@
       "duration_ms": 225666,
       "name": "Fue Tu Culpa",
       "url": "https://open.spotify.com/track/7hxPbThnIsDlQQwSCwBNbH"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "La Despedida",
+        "url": "https://open.spotify.com/album/1OWsLICCRxbyWTZuE3xDvk"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "duration_ms": 141756,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/2eBECLFWzlAHqJtEJhm5Ya"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Se Disfraz\u00f3",
+        "url": "https://open.spotify.com/album/0e90dEopSeHMvkBdWB2nX8"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 206383,
+      "name": "Se Disfraz\u00f3",
+      "url": "https://open.spotify.com/track/3Z33YVoP5VK4lLjwDR8Yb7"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1131,22 +1131,18 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Fumo Y Bebo",
-        "url": "https://open.spotify.com/album/0eZyVJO83jcxuJclfwfPoC"
+        "name": "Buscando el Olvido",
+        "url": "https://open.spotify.com/album/49Dk6xhj6vzfkl71ngoMZJ"
       },
       "artists": [
         {
-          "name": "Pipe Bueno",
-          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
-        },
-        {
-          "name": "Pablo Ocampo",
-          "url": "https://open.spotify.com/artist/69wshErE40YE33tpZXbdzK"
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
         }
       ],
-      "duration_ms": 148911,
-      "name": "Fumo Y Bebo",
-      "url": "https://open.spotify.com/track/7gCFWQenmcQN6Sp6kl8RKP"
+      "duration_ms": 152487,
+      "name": "Buscando el Olvido",
+      "url": "https://open.spotify.com/track/56aRaS11MbGV9Co9mOKjdP"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1167,22 +1163,6 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Buscando el Olvido",
-        "url": "https://open.spotify.com/album/49Dk6xhj6vzfkl71ngoMZJ"
-      },
-      "artists": [
-        {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
-        }
-      ],
-      "duration_ms": 152487,
-      "name": "Buscando el Olvido",
-      "url": "https://open.spotify.com/track/56aRaS11MbGV9Co9mOKjdP"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
         "name": "Este Coraz\u00f3n",
         "url": "https://open.spotify.com/album/38nAVrZCvLZG6gGas28yd2"
       },
@@ -1195,38 +1175,6 @@
       "duration_ms": 227605,
       "name": "Este Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2J1DaejaydbQARqL1sj3sr"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "Tu Adi\u00f3s Como Tequila (Versi\u00f3n Mariachi)",
-        "url": "https://open.spotify.com/album/32ZSvVzmVoHGeXeT9JIxRH"
-      },
-      "artists": [
-        {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
-        }
-      ],
-      "duration_ms": 215487,
-      "name": "Tu Adi\u00f3s Como Tequila - Versi\u00f3n Mariachi",
-      "url": "https://open.spotify.com/track/6ByvWKgYeXKxw8WXQzluWi"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "Uno De Cuarenta",
-        "url": "https://open.spotify.com/album/3RTG2z5r6pgDpkwFgTiUgu"
-      },
-      "artists": [
-        {
-          "name": "Pablo Montero",
-          "url": "https://open.spotify.com/artist/5LfXEvzfy6pPUcX1SclyA3"
-        }
-      ],
-      "duration_ms": 157579,
-      "name": "Uno De Cuarenta",
-      "url": "https://open.spotify.com/track/0N0aOurZf0G4hTndgQ9E5Z"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1247,6 +1195,74 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
+        "name": "Fumo Y Bebo",
+        "url": "https://open.spotify.com/album/0eZyVJO83jcxuJclfwfPoC"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        },
+        {
+          "name": "Pablo Ocampo",
+          "url": "https://open.spotify.com/artist/69wshErE40YE33tpZXbdzK"
+        }
+      ],
+      "duration_ms": 148911,
+      "name": "Fumo Y Bebo",
+      "url": "https://open.spotify.com/track/7gCFWQenmcQN6Sp6kl8RKP"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Tu Adi\u00f3s Como Tequila (Versi\u00f3n Mariachi)",
+        "url": "https://open.spotify.com/album/32ZSvVzmVoHGeXeT9JIxRH"
+      },
+      "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        }
+      ],
+      "duration_ms": 215487,
+      "name": "Tu Adi\u00f3s Como Tequila - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/6ByvWKgYeXKxw8WXQzluWi"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/4ygevNEHvsankgq9DTSMba"
+      },
+      "artists": [
+        {
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+        }
+      ],
+      "duration_ms": 175306,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/5qU3ueDwaTS5lFXgKGh1xQ"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Uno De Cuarenta",
+        "url": "https://open.spotify.com/album/3RTG2z5r6pgDpkwFgTiUgu"
+      },
+      "artists": [
+        {
+          "name": "Pablo Montero",
+          "url": "https://open.spotify.com/artist/5LfXEvzfy6pPUcX1SclyA3"
+        }
+      ],
+      "duration_ms": 157579,
+      "name": "Uno De Cuarenta",
+      "url": "https://open.spotify.com/track/0N0aOurZf0G4hTndgQ9E5Z"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
         "name": "Amigos",
         "url": "https://open.spotify.com/album/74Hes6pOqG1u1DN65jg0aV"
       },
@@ -1259,6 +1275,22 @@
       "duration_ms": 168866,
       "name": "Amigos",
       "url": "https://open.spotify.com/track/4uoHAwCca3pR6SCnYA3XPZ"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "La Loter\u00eda",
+        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 186628,
+      "name": "La Loter\u00eda",
+      "url": "https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1279,22 +1311,6 @@
       "duration_ms": 200546,
       "name": "MALAMANTE (en carne viva)",
       "url": "https://open.spotify.com/track/4YQ4KZT0CvKbFJFYPZZedi"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/4ygevNEHvsankgq9DTSMba"
-      },
-      "artists": [
-        {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
-        }
-      ],
-      "duration_ms": 175306,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/5qU3ueDwaTS5lFXgKGh1xQ"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1331,70 +1347,6 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "La Loter\u00eda",
-        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 186628,
-      "name": "La Loter\u00eda",
-      "url": "https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "No Me Rebajo",
-        "url": "https://open.spotify.com/album/5A7ZuC4mInd4SS88MUe3DU"
-      },
-      "artists": [
-        {
-          "name": "La Morra De La Vihuela",
-          "url": "https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi"
-        }
-      ],
-      "duration_ms": 203250,
-      "name": "No Me Rebajo",
-      "url": "https://open.spotify.com/track/67FAoDXB5Q1bxHLuFe7rIi"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "El Mejor Regalo",
-        "url": "https://open.spotify.com/album/63FUo6H8jIIIOAAm231spd"
-      },
-      "artists": [
-        {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
-        }
-      ],
-      "duration_ms": 163381,
-      "name": "El Mejor Regalo",
-      "url": "https://open.spotify.com/track/6KvOWCCY4MHKpeKl49AYAS"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "Dej\u00e9moslo As\u00ed",
-        "url": "https://open.spotify.com/album/68uoaAVX3lfeKD2igm1SX1"
-      },
-      "artists": [
-        {
-          "name": "Sherlyn S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl"
-        }
-      ],
-      "duration_ms": 209026,
-      "name": "Dej\u00e9moslo As\u00ed",
-      "url": "https://open.spotify.com/track/5MKzsXx4mJiVeRoifOyDpg"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
         "name": "Javier Camarena - La Voz de M\u00e9xico",
         "url": "https://open.spotify.com/album/0XGgZddNyq7ueKObEBKpdg"
       },
@@ -1415,6 +1367,54 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
+        "name": "No Me Rebajo",
+        "url": "https://open.spotify.com/album/5A7ZuC4mInd4SS88MUe3DU"
+      },
+      "artists": [
+        {
+          "name": "La Morra De La Vihuela",
+          "url": "https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi"
+        }
+      ],
+      "duration_ms": 203250,
+      "name": "No Me Rebajo",
+      "url": "https://open.spotify.com/track/67FAoDXB5Q1bxHLuFe7rIi"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Dej\u00e9moslo As\u00ed",
+        "url": "https://open.spotify.com/album/68uoaAVX3lfeKD2igm1SX1"
+      },
+      "artists": [
+        {
+          "name": "Sherlyn S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl"
+        }
+      ],
+      "duration_ms": 209026,
+      "name": "Dej\u00e9moslo As\u00ed",
+      "url": "https://open.spotify.com/track/5MKzsXx4mJiVeRoifOyDpg"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "El Mejor Regalo",
+        "url": "https://open.spotify.com/album/63FUo6H8jIIIOAAm231spd"
+      },
+      "artists": [
+        {
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+        }
+      ],
+      "duration_ms": 163381,
+      "name": "El Mejor Regalo",
+      "url": "https://open.spotify.com/track/6KvOWCCY4MHKpeKl49AYAS"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
         "name": "Ese Fui Yo",
         "url": "https://open.spotify.com/album/5SXlCA89GryMFvCtSG9Eom"
       },
@@ -1427,6 +1427,22 @@
       "duration_ms": 162133,
       "name": "Ese Fui Yo",
       "url": "https://open.spotify.com/track/5PK6gIPq56QfTF9DIhWEgR"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Me Cuesta Tanto Olvidarte",
+        "url": "https://open.spotify.com/album/5fokdp1rjaQb5sVgJ7GCqQ"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 173546,
+      "name": "Me Cuesta Tanto Olvidarte",
+      "url": "https://open.spotify.com/track/580BmtkUXvzFMKXfPRMeuK"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1463,22 +1479,6 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Ven Porque Te Necesito",
-        "url": "https://open.spotify.com/album/4S0KgxfZKGheQqeV11vkqX"
-      },
-      "artists": [
-        {
-          "name": "Jary Franco",
-          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
-        }
-      ],
-      "duration_ms": 185560,
-      "name": "Ven Porque Te Necesito",
-      "url": "https://open.spotify.com/track/6pcm2wQRgnXeRUQWT0KPfM"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
         "name": "\u00c9chame A M\u00ed La Culpa",
         "url": "https://open.spotify.com/album/1UzNlPl5CuIzvLqZ9Suv50"
       },
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Me Cuesta Tanto Olvidarte",
-        "url": "https://open.spotify.com/album/5fokdp1rjaQb5sVgJ7GCqQ"
+        "name": "Ven Porque Te Necesito",
+        "url": "https://open.spotify.com/album/4S0KgxfZKGheQqeV11vkqX"
       },
       "artists": [
         {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+          "name": "Jary Franco",
+          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
         }
       ],
-      "duration_ms": 173546,
-      "name": "Me Cuesta Tanto Olvidarte",
-      "url": "https://open.spotify.com/track/580BmtkUXvzFMKXfPRMeuK"
+      "duration_ms": 185560,
+      "name": "Ven Porque Te Necesito",
+      "url": "https://open.spotify.com/track/6pcm2wQRgnXeRUQWT0KPfM"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Soy de Parral",
-        "url": "https://open.spotify.com/album/5dxYagkDKD4Ij1fOxm09WE"
-      },
-      "artists": [
-        {
-          "name": "Nora Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
-        }
-      ],
-      "duration_ms": 205825,
-      "name": "Soy de Parral",
-      "url": "https://open.spotify.com/track/5Rx9uV1CS862Jkqjy4fKqw"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
         "name": "Cuesti\u00f3n De Tiempo",
         "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 185781,
       "name": "Apur\u00e9 Mi Caf\u00e9 - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/543GxK1Fbq64kfhMB4j7Dq"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Soy de Parral",
+        "url": "https://open.spotify.com/album/5dxYagkDKD4Ij1fOxm09WE"
+      },
+      "artists": [
+        {
+          "name": "Nora Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
+        }
+      ],
+      "duration_ms": 205825,
+      "name": "Soy de Parral",
+      "url": "https://open.spotify.com/track/5Rx9uV1CS862Jkqjy4fKqw"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1611,8 +1611,8 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "No Te Dejes Enga\u00f1ar",
-        "url": "https://open.spotify.com/album/5r2bpBBDDMPEenUASbVGME"
+        "name": "Ya Lleg\u00f3 la Echeverr\u00eda...",
+        "url": "https://open.spotify.com/album/6ZNXIAbNoxtVkMuHUbXrfJ"
       },
       "artists": [
         {
@@ -1620,9 +1620,9 @@
           "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
         }
       ],
-      "duration_ms": 193066,
-      "name": "No Te Dejes Enga\u00f1ar",
-      "url": "https://open.spotify.com/track/1DDqAJ6VPBqB8mBi64B7jf"
+      "duration_ms": 206666,
+      "name": "Cosi\u00e9ndome el Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2QInqAwobGfKsrKbJnVf1y"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1695,8 +1695,8 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Ya Lleg\u00f3 la Echeverr\u00eda...",
-        "url": "https://open.spotify.com/album/6ZNXIAbNoxtVkMuHUbXrfJ"
+        "name": "No Te Dejes Enga\u00f1ar",
+        "url": "https://open.spotify.com/album/5r2bpBBDDMPEenUASbVGME"
       },
       "artists": [
         {
@@ -1704,9 +1704,9 @@
           "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
         }
       ],
-      "duration_ms": 206666,
-      "name": "Cosi\u00e9ndome el Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2QInqAwobGfKsrKbJnVf1y"
+      "duration_ms": 193066,
+      "name": "No Te Dejes Enga\u00f1ar",
+      "url": "https://open.spotify.com/track/1DDqAJ6VPBqB8mBi64B7jf"
     },
     {
       "added_at": "2023-08-04 06:00:00",

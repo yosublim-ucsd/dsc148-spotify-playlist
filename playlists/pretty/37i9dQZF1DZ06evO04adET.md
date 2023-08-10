@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04adET.md) - [plain]
 
 > This is Natanael Cano\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,126 likes - 51 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,747 likes - 51 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04adET.md) - [plain]
 | 39 | [Madrid](https://open.spotify.com/track/4At5UqkhN2soNreIhYdx5X) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 3:21 |
 | 40 | [Compa Bladi](https://open.spotify.com/track/6OXDTduxjhhvcuqhapshMR) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Mi Nuevo Yo](https://open.spotify.com/album/6HvpgqHcpyXzAdNIioqIoq) | 2:57 |
 | 41 | [Ninguna Como Ella](https://open.spotify.com/track/14m4h509A1JJojv3eDxUDe) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [A Mis 20](https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR) | 3:20 |
-| 42 | [Verdes Verdes](https://open.spotify.com/track/5UoFolYVqme3NABM96m0cD) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Las 3 Torres](https://open.spotify.com/album/2JC96lAWIMYId0no3JwmxI) | 2:38 |
-| 43 | [F1](https://open.spotify.com/track/6bf11IBgO6k84wRuTSbci2) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [F1](https://open.spotify.com/album/6DWBiI2xUByeqXbRYTu5EL) | 2:34 |
+| 42 | [F1](https://open.spotify.com/track/6bf11IBgO6k84wRuTSbci2) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [F1](https://open.spotify.com/album/6DWBiI2xUByeqXbRYTu5EL) | 2:34 |
+| 43 | [Verdes Verdes](https://open.spotify.com/track/5UoFolYVqme3NABM96m0cD) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Las 3 Torres](https://open.spotify.com/album/2JC96lAWIMYId0no3JwmxI) | 2:38 |
 | 44 | [Kilos De H \(En Vivo\)](https://open.spotify.com/track/2f0k21XMQxO7ekccaAUo25) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Kilos De H \(En Vivo\)](https://open.spotify.com/album/0r6roRDbdIiNwcIZ0CCaLs) | 3:18 |
 | 45 | [Cuento](https://open.spotify.com/track/3MP9oRQ2LVNzgzgS1aRU2d) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 2:49 |
 | 46 | [Así Tocó Mi Vida](https://open.spotify.com/track/2YekzGSNDRlEvRLmvfRZfb) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Así Tocó Mi Vida](https://open.spotify.com/album/58E0nQ2a7axyw3rETsiB9r) | 4:10 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04adET.md) - [plain]
 | 50 | [El De Los Lentes Gucci](https://open.spotify.com/track/3TgelNfEK1DnYrsHOBxaVJ) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [El De Los Lentes Gucci](https://open.spotify.com/album/5mqw31hLMPNEyWN5FYMKGW) | 2:05 |
 | 51 | [Gracias](https://open.spotify.com/track/4lkl1CC0Py1pLOuQ4h2KuV) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Gracias](https://open.spotify.com/album/1nT3wVcqO8lnYICj8jkLiY) | 2:28 |
 
-Snapshot ID: `MjgxOTE2NzksMDAwMDAwMDAxN2VhOTZmNjE1YTc1MTJjNjA5NWMyNmM1NWFkNGU3Yg==`
+Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDBmZTgyZGU0ZjFmMzU0YjNjOTlmZGQxMmJlMGI3ZTAyMA==`

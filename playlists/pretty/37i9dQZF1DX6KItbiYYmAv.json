@@ -1,12 +1,12 @@
 {
   "description": "Hol dir dein Lieblingscaf\u00e9 nach Hause.",
-  "num_followers": 723104,
+  "num_followers": 723200,
   "original_name": "Kaffeehausmusik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjY3YjkyMzk3ZDczOGZiYTQ2MTZhYjRmODY2YjY5NTg3MTJjMTA1",
+  "snapshot_id": "MCw3ZGE3MDdhM2UxMWEwOGFkMzU3MWVkYmJiZDg2YjY1MGVlNjIzMDQ1",
   "tracks": [
     {
       "added_at": "2023-07-21 11:29:56",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 250866,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/2fSIF8CJhoc9CJhF9vJDXp"
-    },
-    {
-      "added_at": "2023-07-21 11:29:56",
-      "album": {
         "name": "Hard Settle, Ain't Troubled",
         "url": "https://open.spotify.com/album/4dslKx4DoHu7LYRZO4AhfR"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 203869,
       "name": "Portland, Maine",
       "url": "https://open.spotify.com/track/12niARgkwxGsklcEwh6GlG"
+    },
+    {
+      "added_at": "2023-07-21 11:29:56",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 250866,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/2fSIF8CJhoc9CJhF9vJDXp"
     },
     {
       "added_at": "2023-07-21 11:29:56",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
-        "name": "Coming Up for Air (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3IJ5RDbQeiWIf7Fo601JwE"
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
       },
       "artists": [
         {
-          "name": "Kodaline",
-          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 232520,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/0My8NPmENHrN5W7OfgZnZJ"
+      "duration_ms": 224400,
+      "name": "Like Gold",
+      "url": "https://open.spotify.com/track/6Od2OWvoT4embWAgIGeFRd"
     },
     {
       "added_at": "2023-07-21 11:29:56",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+        "name": "Coming Up for Air (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3IJ5RDbQeiWIf7Fo601JwE"
       },
       "artists": [
         {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
         }
       ],
-      "duration_ms": 224400,
-      "name": "Like Gold",
-      "url": "https://open.spotify.com/track/6Od2OWvoT4embWAgIGeFRd"
+      "duration_ms": 232520,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/0My8NPmENHrN5W7OfgZnZJ"
     },
     {
       "added_at": "2023-07-21 11:29:56",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
-        "name": "If I Was (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 192053,
-      "name": "I'm on Fire",
-      "url": "https://open.spotify.com/track/14WxdK01IyDl3bumvqufxH"
-    },
-    {
-      "added_at": "2023-07-21 11:29:56",
-      "album": {
         "name": "Something Just Like This",
         "url": "https://open.spotify.com/album/10XBLTxCUvDqAUcKAqxxy7"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 189793,
       "name": "Something Just Like This - Acoustic",
       "url": "https://open.spotify.com/track/6tmwEEqi4o7wpys88d0sqg"
+    },
+    {
+      "added_at": "2023-07-21 11:29:56",
+      "album": {
+        "name": "If I Was (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 192053,
+      "name": "I'm on Fire",
+      "url": "https://open.spotify.com/track/14WxdK01IyDl3bumvqufxH"
     },
     {
       "added_at": "2023-07-21 11:29:56",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
-        "name": "Sense of Home",
-        "url": "https://open.spotify.com/album/1MggtpuaGB0IPfFUYaY40U"
-      },
-      "artists": [
-        {
-          "name": "Harrison Storm",
-          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
-        }
-      ],
-      "duration_ms": 265840,
-      "name": "Sense of Home",
-      "url": "https://open.spotify.com/track/6oImxt6z8HDS56epRgOi0I"
-    },
-    {
-      "added_at": "2023-07-21 11:29:56",
-      "album": {
         "name": "Cherry Tree (2021 Remaster)",
         "url": "https://open.spotify.com/album/5MoABbHznJUM1jwGlJqmLl"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 250760,
       "name": "About Today - 2021 Remaster",
       "url": "https://open.spotify.com/track/2w55zgyrG40D5ppKj4XxdK"
+    },
+    {
+      "added_at": "2023-07-21 11:29:56",
+      "album": {
+        "name": "Sense of Home",
+        "url": "https://open.spotify.com/album/1MggtpuaGB0IPfFUYaY40U"
+      },
+      "artists": [
+        {
+          "name": "Harrison Storm",
+          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
+        }
+      ],
+      "duration_ms": 265840,
+      "name": "Sense of Home",
+      "url": "https://open.spotify.com/track/6oImxt6z8HDS56epRgOi0I"
     },
     {
       "added_at": "2023-07-21 11:29:56",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
-        "name": "Gulag Orkestar",
-        "url": "https://open.spotify.com/album/4yP7cyoeE3F6EyJPZ9v47V"
-      },
-      "artists": [
-        {
-          "name": "Beirut",
-          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
-        }
-      ],
-      "duration_ms": 257480,
-      "name": "Postcards from Italy",
-      "url": "https://open.spotify.com/track/7H0UxIN751StFi2tznmHlg"
-    },
-    {
-      "added_at": "2023-07-21 11:29:56",
-      "album": {
         "name": "Sweetest Thing",
         "url": "https://open.spotify.com/album/4YtmwrjMoeVCcVPMSadTsy"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 218502,
       "name": "Sweetest Thing",
       "url": "https://open.spotify.com/track/696vpg0aBvBxpZAuasmg15"
+    },
+    {
+      "added_at": "2023-07-21 11:29:56",
+      "album": {
+        "name": "Gulag Orkestar",
+        "url": "https://open.spotify.com/album/4yP7cyoeE3F6EyJPZ9v47V"
+      },
+      "artists": [
+        {
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+        }
+      ],
+      "duration_ms": 257480,
+      "name": "Postcards from Italy",
+      "url": "https://open.spotify.com/track/7H0UxIN751StFi2tznmHlg"
     },
     {
       "added_at": "2023-07-21 11:29:56",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
-        "name": "In Deepest Blue (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/6xWGNnipxLJCfRPPB9e9Iy"
-      },
-      "artists": [
-        {
-          "name": "Joshua Hyslop",
-          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
-        }
-      ],
-      "duration_ms": 261640,
-      "name": "The Flood",
-      "url": "https://open.spotify.com/track/5wQci5VCUjdbKnRD61XYwu"
-    },
-    {
-      "added_at": "2023-07-21 11:29:56",
-      "album": {
         "name": "The Secret Life Of Walter Mitty (Music From And Inspired By The Motion Picture)",
         "url": "https://open.spotify.com/album/4zSB5nqKVh9jQcRByMUcMG"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 199426,
       "name": "Don't You Want Me",
       "url": "https://open.spotify.com/track/0bmDpMruiJpzV5eQ92W0Lq"
+    },
+    {
+      "added_at": "2023-07-21 11:29:56",
+      "album": {
+        "name": "In Deepest Blue (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/6xWGNnipxLJCfRPPB9e9Iy"
+      },
+      "artists": [
+        {
+          "name": "Joshua Hyslop",
+          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
+        }
+      ],
+      "duration_ms": 261640,
+      "name": "The Flood",
+      "url": "https://open.spotify.com/track/5wQci5VCUjdbKnRD61XYwu"
     },
     {
       "added_at": "2023-07-21 11:29:56",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
-        "name": "Home Again",
-        "url": "https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 212373,
-      "name": "Home Again",
-      "url": "https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS"
-    },
-    {
-      "added_at": "2023-07-21 11:29:56",
-      "album": {
         "name": "You and Me for Now",
         "url": "https://open.spotify.com/album/5KPl7k36JzLxe4bisDG8S4"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 256680,
       "name": "All Is Well",
       "url": "https://open.spotify.com/track/3KAQ4xe2sR6IiltZw8HSA5"
+    },
+    {
+      "added_at": "2023-07-21 11:29:56",
+      "album": {
+        "name": "Home Again",
+        "url": "https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 212373,
+      "name": "Home Again",
+      "url": "https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS"
     },
     {
       "added_at": "2023-07-21 11:29:56",
@@ -2339,22 +2339,6 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
-        "name": "Drunk On A Flight",
-        "url": "https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq"
-      },
-      "artists": [
-        {
-          "name": "Eloise",
-          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
-        }
-      ],
-      "duration_ms": 168146,
-      "name": "Vanilla Tobacco",
-      "url": "https://open.spotify.com/track/17wRNRiO8LZLP79mf8Fri7"
-    },
-    {
-      "added_at": "2023-07-21 11:29:56",
-      "album": {
         "name": "My Arms Were Always Around You",
         "url": "https://open.spotify.com/album/52s6f0gzHwR6MpgCMCtFQc"
       },
@@ -2367,6 +2351,22 @@
       "duration_ms": 200800,
       "name": "My Arms Were Always Around You",
       "url": "https://open.spotify.com/track/02a2RQEICEzbdPPYh0aLnJ"
+    },
+    {
+      "added_at": "2023-07-21 11:29:56",
+      "album": {
+        "name": "Drunk On A Flight",
+        "url": "https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq"
+      },
+      "artists": [
+        {
+          "name": "Eloise",
+          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
+        }
+      ],
+      "duration_ms": 168146,
+      "name": "Vanilla Tobacco",
+      "url": "https://open.spotify.com/track/17wRNRiO8LZLP79mf8Fri7"
     },
     {
       "added_at": "2023-07-21 11:29:56",
@@ -2387,22 +2387,6 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
-        "name": "Hundred Acres",
-        "url": "https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4"
-      },
-      "artists": [
-        {
-          "name": "S. Carey",
-          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
-        }
-      ],
-      "duration_ms": 213666,
-      "name": "Rose Petals",
-      "url": "https://open.spotify.com/track/2qWuegI1pmesQPRvzgnokk"
-    },
-    {
-      "added_at": "2023-07-21 11:29:56",
-      "album": {
         "name": "EPs 2014 - 2016",
         "url": "https://open.spotify.com/album/3rrSdYF171Zwh3uKUIHuvk"
       },
@@ -2419,18 +2403,18 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
-        "name": "Vacancy",
-        "url": "https://open.spotify.com/album/3HTmh4jyCRfi8wjlxmm8uL"
+        "name": "Hundred Acres",
+        "url": "https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4"
       },
       "artists": [
         {
-          "name": "Aisha Badru",
-          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
+          "name": "S. Carey",
+          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
         }
       ],
-      "duration_ms": 152960,
-      "name": "Waiting Around - Acoustic",
-      "url": "https://open.spotify.com/track/6fWBQnyz8GrH0neN1IsBRc"
+      "duration_ms": 213666,
+      "name": "Rose Petals",
+      "url": "https://open.spotify.com/track/2qWuegI1pmesQPRvzgnokk"
     },
     {
       "added_at": "2023-07-21 11:29:56",
@@ -2447,6 +2431,22 @@
       "duration_ms": 193280,
       "name": "Take on Me",
       "url": "https://open.spotify.com/track/4GkELkyI3VJstSugqnP39K"
+    },
+    {
+      "added_at": "2023-07-21 11:29:56",
+      "album": {
+        "name": "Vacancy",
+        "url": "https://open.spotify.com/album/3HTmh4jyCRfi8wjlxmm8uL"
+      },
+      "artists": [
+        {
+          "name": "Aisha Badru",
+          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
+        }
+      ],
+      "duration_ms": 152960,
+      "name": "Waiting Around - Acoustic",
+      "url": "https://open.spotify.com/track/6fWBQnyz8GrH0neN1IsBRc"
     }
   ],
   "unique_name": "Kaffeehausmusik",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: The Cleverlys
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,264 likes - 135 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,321 likes - 135 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 40 | [In Tall Buildings](https://open.spotify.com/track/56Rzb0EaeMfwhIU2VLygtf) | [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm) | [In Tall Buildings](https://open.spotify.com/album/4PfnntRChUIeOlVkVgzO3D) | 3:28 |
 | 41 | [Steady as She Goes](https://open.spotify.com/track/6yP7UyRK6TVncJSvgaDJnF) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw), [The Sidekicks](https://open.spotify.com/artist/4ZJVFT8xiw3SgQ8dydvWey) | [The Bluegrass Tribute to Jack White](https://open.spotify.com/album/53pPSe9BoDJN8G2SPrOget) | 3:35 |
 | 42 | [Valerie](https://open.spotify.com/track/3wShyyPO8fob86VMwkZOCt) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [City Painted Gold](https://open.spotify.com/album/23MGSQXuPuptLqoWIuQvah) | 4:54 |
-| 43 | [The Hard Way](https://open.spotify.com/track/2nwj84xtWw98wuLbkOR77O) | [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Secrets](https://open.spotify.com/album/6QNcb3Y6yNePv0w5mMPtLJ) | 4:29 |
+| 43 | [The Hard Way](https://open.spotify.com/track/2nwj84xtWw98wuLbkOR77O) | [Rivers Rutherford](https://open.spotify.com/artist/6gFMSNbmoT4vDfNOpCP2rA), [Gordie Sampson](https://open.spotify.com/artist/4WkanTEimYpnh2LSd4OwtB), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Secrets](https://open.spotify.com/album/6QNcb3Y6yNePv0w5mMPtLJ) | 4:29 |
 | 44 | [Take On Me](https://open.spotify.com/track/6xAdFwLNed6786FezhUMVS) | [Love Canon](https://open.spotify.com/artist/6g4kxAF2OVE5eZh2aMMNjJ) | [Greatest Hits Vol\. 2](https://open.spotify.com/album/2WcSVdRwyvMHAnZKq0FvdE) | 3:44 |
 | 45 | [Callin' Baton Rouge](https://open.spotify.com/track/0EoZG0iXT9gLkQGlwReFbM) | [New Grass Revival](https://open.spotify.com/artist/4H2wzhX55UWQ9POEPok5j5) | [Best Of New Grass Revival](https://open.spotify.com/album/0LnekmRkX0aKwAZ33cg387) | 2:40 |
 | 46 | [Rich Girl](https://open.spotify.com/track/6TnbTAr8EtRYR5st0irRoP) | [Shadowgrass](https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE) | [Rich Girl](https://open.spotify.com/album/4hkQNTft7bp3Gd4MyIbjbf) | 3:50 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 134 | [Billie Jean](https://open.spotify.com/track/4YKhIH7BhFErLoV9dgHupm) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Between the Bars](https://open.spotify.com/album/64Z8bWSUBB1Vhox2K5EdBe) | 4:20 |
 | 135 | [Game of Thrones \(Main Theme\)](https://open.spotify.com/track/58KlChZMUnuITA871NPyls) | [Flatt Lonesome](https://open.spotify.com/artist/5m7v6OS8omwyHvXARri5Zh) | [Game of Thrones \(Main Theme\)](https://open.spotify.com/album/4scGLabYRn5ZGwv7ult8jN) | 5:01 |
 
-Snapshot ID: `MCw2MWNkOWU4NTkwZWUxNDJjODYyZTRhMjRlZWQ4MGNiNmQ2YmRiNTlh`
+Snapshot ID: `MCw4MjU2OTllOTVjNDFiYjFiMDNiNTVhMjEwZGNhYTlhZTA2NmIwOGZm`

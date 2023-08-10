@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 
 > A sonic wonderland of mesmerizing tunes...
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,960 likes - 51 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,030 likes - 51 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 | 50 | [Mormor](https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Mormor](https://open.spotify.com/album/6KhdFdT5IkcD2F5YBA5lVN) | 4:00 |
 | 51 | [Butterfly Effect](https://open.spotify.com/track/6pVzSO33n03YNefcafgvzA) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [Butterfly Effect](https://open.spotify.com/album/2vRxyC0FDfmCSc3Xh6c06p) | 3:31 |
 
-Snapshot ID: `MCw4ZWRiOThiMzE2MWMxNTlhOGY2NjQ5MGIxNDAzMjM5Y2EwYmMyNDdj`
+Snapshot ID: `MCxmYjc3MTQxZTBlOThkMTQ0ODUxZjhhOWNlMzUxOWY5M2YxMDBiNGZl`

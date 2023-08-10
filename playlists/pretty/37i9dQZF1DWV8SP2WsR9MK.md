@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 
 > The classic Jazz guitarists and their finest pieces\. Cover: Grant Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,110 likes - 100 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,179 likes - 100 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 49 | [I Found a New Baby](https://open.spotify.com/track/651OpXqL6blBV0KOswQ2yh) | [Charlie Christian](https://open.spotify.com/artist/0WdDpEeDIDmtYh5sqRrdI6) | [The Genius Of The Electric Guitar](https://open.spotify.com/album/4QIxeBZfEtZpUWFbOrMrjV) | 2:54 |
 | 50 | [Softly, As In A Morning Sunrise](https://open.spotify.com/track/3ykGDKAgzbmXhwnG3cEkRH) | [Emily Remler](https://open.spotify.com/artist/2KD1KC9SgUiYueJUmWTnNJ) | [East To Wes](https://open.spotify.com/album/0TLM2OGDvMRvbaFUaXQvzN) | 8:10 |
 | 51 | [My Foolish Heart](https://open.spotify.com/track/0gqWIxTMmUQPucykcPb6IH) | [Johnny Smith](https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q) | [Kaleidoscope](https://open.spotify.com/album/4HpPxBDSrsPQfcM69FME8z) | 3:29 |
-| 52 | [Night And Day](https://open.spotify.com/track/3uydYrCQIkBAi2BG2fgjaF) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [For Django](https://open.spotify.com/album/52hlifh2FGBhx4BQVl2OJD) | 3:44 |
-| 53 | [It's a Blue World](https://open.spotify.com/track/2CXfxQY057JczwoKonH8dl) | [Billy Bauer](https://open.spotify.com/artist/2Stsu7b2rXjs8idU9wjQgf) | [Plectrist](https://open.spotify.com/album/4yXQl7UAIbrszxlYSgEqla) | 4:14 |
+| 52 | [It's a Blue World](https://open.spotify.com/track/2CXfxQY057JczwoKonH8dl) | [Billy Bauer](https://open.spotify.com/artist/2Stsu7b2rXjs8idU9wjQgf) | [Plectrist](https://open.spotify.com/album/4yXQl7UAIbrszxlYSgEqla) | 4:14 |
+| 53 | [Night And Day](https://open.spotify.com/track/3uydYrCQIkBAi2BG2fgjaF) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [For Django](https://open.spotify.com/album/52hlifh2FGBhx4BQVl2OJD) | 3:44 |
 | 54 | [Nimbus](https://open.spotify.com/track/2wpyQnXMfrbwJi2LND6DOY) | [Ralph Towner](https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535), [Jan Garbarek](https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym), [Eberhard Weber](https://open.spotify.com/artist/2BPSfZHtSYon5DKvp95xXT), [Jon Christensen](https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr) | [Solstice](https://open.spotify.com/album/3sKuk1zytR31B2Vdi5d4B0) | 6:25 |
 | 55 | [Samba Em Prelùdio](https://open.spotify.com/track/3eDTDeZHbCv9rWgT6HbysX) | [Gilad Hekselman](https://open.spotify.com/artist/5oNJNBpUU3zRyC8xHwCnQL) | [Homes](https://open.spotify.com/album/4nL9nYWG8k53BwCMM8hCsr) | 7:11 |
 | 56 | [Jean De Fleur \- Rudy Van Gelder Edition / Remastered 1999](https://open.spotify.com/track/6ZniDtZIvYjdYHG8sHh2jD) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Idle Moments](https://open.spotify.com/album/1lDtUlOPGKp56gQ24MvmNG) | 6:49 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 69 | [Polka Dots and Moonbeams](https://open.spotify.com/track/5VRDZxFLIIjGTH2Q33Aq14) | [Lenny Breau](https://open.spotify.com/artist/5ZNvJC7YIhztLqxS58c1or), [Chet Atkins](https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU) | [Standard Brands](https://open.spotify.com/album/2XskO7sdfBIG31loR0X55e) | 5:48 |
 | 70 | [You Go To My Head](https://open.spotify.com/track/73re1KsASRSKXmk0MdhwcT) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Standards Trio: Reflections](https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn) | 3:37 |
 | 71 | [Moonlight In Vermont](https://open.spotify.com/track/73CYjb6oGhV4CqohyR2OVV) | [Jimmy Bruno](https://open.spotify.com/artist/1oTIG44ppYw0nUBqFvZ5Q5) | [Burnin'](https://open.spotify.com/album/0mF2ClZgcgBlyibysq4B5K) | 8:12 |
-| 72 | [Shape Of Things That Are And Were](https://open.spotify.com/track/62AZ6ukR1dxo5F2sbfFQ1L) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The Shape Of Things To Come](https://open.spotify.com/album/5104eCHmSmfLDol9ZDQn0B) | 5:47 |
-| 73 | [Rambler](https://open.spotify.com/track/09AbZLx0X2GsRSXFgEpLKA) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Rambler](https://open.spotify.com/album/1vkLfWBiL2wHMxdGpDCbPC) | 8:12 |
+| 72 | [Rambler](https://open.spotify.com/track/09AbZLx0X2GsRSXFgEpLKA) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Rambler](https://open.spotify.com/album/1vkLfWBiL2wHMxdGpDCbPC) | 8:12 |
+| 73 | [Shape Of Things That Are And Were](https://open.spotify.com/track/62AZ6ukR1dxo5F2sbfFQ1L) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The Shape Of Things To Come](https://open.spotify.com/album/5104eCHmSmfLDol9ZDQn0B) | 5:47 |
 | 74 | [I Never Knew](https://open.spotify.com/track/6Xugk0xzYvSkmH77VL1GwL) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Kenny Burrell & John Coltrane](https://open.spotify.com/album/4BZcEZub79xqoEJwtVNQoY) | 7:02 |
 | 75 | [Have You Met Miss Jones?](https://open.spotify.com/track/10iq9kylUDnPeLJikEdCvl) | [Tal Farlow](https://open.spotify.com/artist/0dIXV3ffgWlMcnywNIy0Wf) | [The Artistry Of Tal Farlow](https://open.spotify.com/album/3DhbpcnuskeHWkCzWAM9cO) | 4:56 |
 | 76 | [For Toddlers Only](https://open.spotify.com/track/19GBMJXq6kXHemriVnEtnC) | [Russell Malone](https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb) | [Jazz Guitar](https://open.spotify.com/album/6mFt5Ao230rf7Dedo8C6mK) | 5:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 99 | [May Dance](https://open.spotify.com/track/7JSzT2mjJgyslo0QyrndSb) | [John Abercrombie](https://open.spotify.com/artist/1OCdpTg8d7Ehpj8B9j4iqa), [Dave Holland](https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Gateway](https://open.spotify.com/album/17BiOpPnez7L0w8r0yRp9Y) | 11:01 |
 | 100 | [Never Will I Marry](https://open.spotify.com/track/4TrYsGEGHFqysMRmkgW548) | [Sam Yahel Trio](https://open.spotify.com/artist/3ISh6Jz1xLIprziBMg5Iuu), [Peter Bernstein](https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu) | [Trio](https://open.spotify.com/album/34rwazvp4s6hULceKvV5MV) | 5:54 |
 
-Snapshot ID: `MCxhYjViN2FkNjgyYWJmZmYxNGVlODc5ZDhhMmQ5MjdkMzNiODc3NmFh`
+Snapshot ID: `MCw0ZjllZTk3NzE1YjRiM2QzNWMwMTAwOWYzYTllMjIxZTc5NGUxZDJm`

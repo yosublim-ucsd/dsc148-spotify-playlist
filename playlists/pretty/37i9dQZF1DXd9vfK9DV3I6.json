@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 272065,
+  "num_followers": 272299,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWZhMWRkZTE2YWZhNjgxNGM5YjUzZjhmYzQ0YmYyODZjODQ4ZjU3",
+  "snapshot_id": "MCw3MGNhMTU2NmQ1YTAzMjEwY2E2MDE4MDM2MmE1NzNjMmIwYTliMzM1",
   "tracks": [
     {
       "added_at": "2023-08-01 07:04:34",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-08-01 07:04:34",
       "album": {
-        "name": "Eldorado",
-        "url": "https://open.spotify.com/album/3yp6o87R2Du2CC75dw2cqc"
-      },
-      "artists": [
-        {
-          "name": "Notre Dame",
-          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
-        }
-      ],
-      "duration_ms": 381639,
-      "name": "Eldorado",
-      "url": "https://open.spotify.com/track/50juFT8u0XDZQ5HO5khhlC"
-    },
-    {
-      "added_at": "2023-08-01 07:04:34",
-      "album": {
         "name": "On My Way",
         "url": "https://open.spotify.com/album/578fRVB7xQHfJ3cEuS6DgZ"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 154277,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/2PkxplmTqGwUlOw0x6bXHY"
+    },
+    {
+      "added_at": "2023-08-01 07:04:34",
+      "album": {
+        "name": "Eldorado",
+        "url": "https://open.spotify.com/album/3yp6o87R2Du2CC75dw2cqc"
+      },
+      "artists": [
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        }
+      ],
+      "duration_ms": 381639,
+      "name": "Eldorado",
+      "url": "https://open.spotify.com/track/50juFT8u0XDZQ5HO5khhlC"
     },
     {
       "added_at": "2023-08-01 07:04:34",
@@ -907,26 +907,6 @@
     {
       "added_at": "2023-08-01 07:04:34",
       "album": {
-        "name": "Moulat Lkhala",
-        "url": "https://open.spotify.com/album/0lBFsisYQ70Sdwvhx0XZH5"
-      },
-      "artists": [
-        {
-          "name": "Eljoee",
-          "url": "https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7"
-        },
-        {
-          "name": "CHAAMA",
-          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Moulat Lkhala",
-      "url": "https://open.spotify.com/track/1wsedoySx3CLh6LwQqgxEO"
-    },
-    {
-      "added_at": "2023-08-01 07:04:34",
-      "album": {
         "name": "Bangladesh",
         "url": "https://open.spotify.com/album/7LBsacPrDzwsZgZcrrHyKl"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 147806,
       "name": "Bangladesh",
       "url": "https://open.spotify.com/track/2vmgBSWj0JLDIfvfqiflGf"
+    },
+    {
+      "added_at": "2023-08-01 07:04:34",
+      "album": {
+        "name": "Moulat Lkhala",
+        "url": "https://open.spotify.com/album/0lBFsisYQ70Sdwvhx0XZH5"
+      },
+      "artists": [
+        {
+          "name": "Eljoee",
+          "url": "https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7"
+        },
+        {
+          "name": "CHAAMA",
+          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Moulat Lkhala",
+      "url": "https://open.spotify.com/track/1wsedoySx3CLh6LwQqgxEO"
     },
     {
       "added_at": "2023-08-01 07:04:34",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-08-01 07:04:34",
       "album": {
+        "name": "Amelia",
+        "url": "https://open.spotify.com/album/0zvW1EeUdL5KWzOTfcGf3f"
+      },
+      "artists": [
+        {
+          "name": "Efemero",
+          "url": "https://open.spotify.com/artist/1L2VE46yd9NmPWDukWhO7D"
+        }
+      ],
+      "duration_ms": 193684,
+      "name": "Amelia",
+      "url": "https://open.spotify.com/track/04v56jvsU9UbDDfW5WgSNj"
+    },
+    {
+      "added_at": "2023-08-01 07:04:34",
+      "album": {
         "name": "Anlar",
         "url": "https://open.spotify.com/album/22JM1qXMlAVy2MDKsdyN6c"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 160575,
       "name": "Love of You (The Violin Song)",
       "url": "https://open.spotify.com/track/5WUl5natjFTSqSljddJqqZ"
-    },
-    {
-      "added_at": "2023-08-01 07:04:34",
-      "album": {
-        "name": "Amelia",
-        "url": "https://open.spotify.com/album/0zvW1EeUdL5KWzOTfcGf3f"
-      },
-      "artists": [
-        {
-          "name": "Efemero",
-          "url": "https://open.spotify.com/artist/1L2VE46yd9NmPWDukWhO7D"
-        }
-      ],
-      "duration_ms": 193684,
-      "name": "Amelia",
-      "url": "https://open.spotify.com/track/04v56jvsU9UbDDfW5WgSNj"
     },
     {
       "added_at": "2023-08-01 07:04:34",
@@ -1867,6 +1867,22 @@
     {
       "added_at": "2023-08-01 07:04:34",
       "album": {
+        "name": "Arabic Nights",
+        "url": "https://open.spotify.com/album/3lHALolj2LuRFOlltZHPap"
+      },
+      "artists": [
+        {
+          "name": "Mehdi Yakin",
+          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Arabic Nights",
+      "url": "https://open.spotify.com/track/1kPOCklYVwTWknsNoUcxkB"
+    },
+    {
+      "added_at": "2023-08-01 07:04:34",
+      "album": {
         "name": "Mikail Aslan - \u00c7em Vano (HVMZA Remix)",
         "url": "https://open.spotify.com/album/0mWKvv4QJX1ne4ZZHL0YPM"
       },
@@ -1883,18 +1899,18 @@
     {
       "added_at": "2023-08-01 07:04:34",
       "album": {
-        "name": "Arabic Nights",
-        "url": "https://open.spotify.com/album/3lHALolj2LuRFOlltZHPap"
+        "name": "Free",
+        "url": "https://open.spotify.com/album/3BauvnAExZD2jboFnhxsK0"
       },
       "artists": [
         {
-          "name": "Mehdi Yakin",
-          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
         }
       ],
-      "duration_ms": 165333,
-      "name": "Arabic Nights",
-      "url": "https://open.spotify.com/track/1kPOCklYVwTWknsNoUcxkB"
+      "duration_ms": 184421,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/4BrDKhq9FEBPBXL8nPOq4u"
     },
     {
       "added_at": "2023-08-01 07:04:34",
@@ -1915,22 +1931,6 @@
       "duration_ms": 262641,
       "name": "Vestido Preto",
       "url": "https://open.spotify.com/track/3eP8ZVZdXc5zqZRlwnb8Vl"
-    },
-    {
-      "added_at": "2023-08-01 07:04:34",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/3BauvnAExZD2jboFnhxsK0"
-      },
-      "artists": [
-        {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
-        }
-      ],
-      "duration_ms": 184421,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/4BrDKhq9FEBPBXL8nPOq4u"
     },
     {
       "added_at": "2023-08-01 07:04:34",

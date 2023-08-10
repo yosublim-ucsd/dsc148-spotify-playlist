@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > Dive into the deep end of the tech house spectrum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,250 likes - 75 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,289 likes - 75 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 33 | [Gehörschadengenerator](https://open.spotify.com/track/3NfeXbPEafvsiPtwq5huQX) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 01](https://open.spotify.com/album/03zo0uqSccDlJjgWfUT5zk) | 8:38 |
 | 34 | [Warning](https://open.spotify.com/track/09fLcyru2xKfVPpN01dL0C) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Warning](https://open.spotify.com/album/3y5fQAMQcXwch8hlHuhzwp) | 5:36 |
 | 35 | [Slim Shady](https://open.spotify.com/track/2ESfTwWgohnkLK1qdWcwrJ) | [Reblok](https://open.spotify.com/artist/42MgQRvz2CdYiI9u46YJNn) | [Slim Shady](https://open.spotify.com/album/4CveQO6BuqOXbUKJboDHaN) | 2:56 |
-| 36 | [The Attention Deficit Track \- Edit](https://open.spotify.com/track/4Quui2la1NwpqLDXUgi5tm) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Jackmaster](https://open.spotify.com/artist/1VQgvnkH9rOB2YkNr1ovuB) | [The Attention Deficit Track](https://open.spotify.com/album/20PFDRbltmy3mHCn7vPl2Y) | 3:48 |
-| 37 | [Dusty Showbiz](https://open.spotify.com/track/30VJGgRcj2MoyeW7UHQgrO) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Dusty Showbiz](https://open.spotify.com/album/5AT9JXNAlwdeYOxocxjfyb) | 2:58 |
+| 36 | [Dusty Showbiz](https://open.spotify.com/track/30VJGgRcj2MoyeW7UHQgrO) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Dusty Showbiz](https://open.spotify.com/album/5AT9JXNAlwdeYOxocxjfyb) | 2:58 |
+| 37 | [The Attention Deficit Track \- Edit](https://open.spotify.com/track/4Quui2la1NwpqLDXUgi5tm) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Jackmaster](https://open.spotify.com/artist/1VQgvnkH9rOB2YkNr1ovuB) | [The Attention Deficit Track](https://open.spotify.com/album/20PFDRbltmy3mHCn7vPl2Y) | 3:48 |
 | 38 | [TAKE ME HIGH](https://open.spotify.com/track/4dzNNV0t2Xn1XmDxEfbMmy) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [TAKE ME HIGH](https://open.spotify.com/album/60JU0EUfjJBHRp5Fb0sZYT) | 3:40 |
-| 39 | [Bionic Boy](https://open.spotify.com/track/7byloGFJ8lO5d7cCxFXOIh) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Bionic Boy](https://open.spotify.com/album/3TZ40t04vfJ9MvEZcdoqsg) | 3:26 |
-| 40 | [Atomic Sun](https://open.spotify.com/track/4npTB0nSyvWZognt9ovoZ5) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Love Me](https://open.spotify.com/album/72WcPNbUc5Zpxj6uyUnk6u) | 4:11 |
+| 39 | [Atomic Sun](https://open.spotify.com/track/4npTB0nSyvWZognt9ovoZ5) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Love Me](https://open.spotify.com/album/72WcPNbUc5Zpxj6uyUnk6u) | 4:11 |
+| 40 | [Bionic Boy](https://open.spotify.com/track/7byloGFJ8lO5d7cCxFXOIh) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Bionic Boy](https://open.spotify.com/album/3TZ40t04vfJ9MvEZcdoqsg) | 3:26 |
 | 41 | [I Am Somebody](https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0) | [Technasia](https://open.spotify.com/artist/0rnKlPis7AQgoIe2NEVWa5) | [I Am Somebody](https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv) | 6:57 |
 | 42 | [Alley Rave](https://open.spotify.com/track/630fy1dTAKtfY1DJXLYyds) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Alley Rave](https://open.spotify.com/album/1yQU83J37P20ynvBDU31Cc) | 6:04 |
 | 43 | [Rudeboi](https://open.spotify.com/track/3oUkoGYPWVxt3NrohcoMHY) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Rudeboi](https://open.spotify.com/album/3aFcW1f1Deq9F7cwJDkbd5) | 3:01 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 52 | [Galactica](https://open.spotify.com/track/6mMSSMNcl1WXtSP5A5tG0u) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Galactica](https://open.spotify.com/album/4qQywGdWd8QiCiND1bwTk3) | 5:10 |
 | 53 | [Picante](https://open.spotify.com/track/5xjNoD2MFDh3YdF0RrBai1) | [Manda Moor](https://open.spotify.com/artist/5TkMEJqmPYr0QRgX6uFOhP) | [Picante EP](https://open.spotify.com/album/1AyirEP5GhX0ZsTrCHJCvE) | 5:44 |
 | 54 | [You & Me](https://open.spotify.com/track/5QQSZ36V2Jsh6jgnc2Bysn) | [Ky William](https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq) | [You & Me](https://open.spotify.com/album/7g0uWDHesKV8s9JvFHRLIS) | 3:41 |
-| 55 | [Lucky Bastard](https://open.spotify.com/track/2hGg0mGHm3A0fqgpfpLwEi) | [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul) | [Lucky Bastard](https://open.spotify.com/album/026hdeEIIpCADMGbXyVlcQ) | 3:05 |
-| 56 | [Superlicious](https://open.spotify.com/track/6YtsfLBQpR23z1GN3IC6Tm) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Superlicious](https://open.spotify.com/album/6JH3t6xNDVN7DY5t15KOAs) | 3:01 |
+| 55 | [Superlicious](https://open.spotify.com/track/6YtsfLBQpR23z1GN3IC6Tm) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Superlicious](https://open.spotify.com/album/6JH3t6xNDVN7DY5t15KOAs) | 3:01 |
+| 56 | [Lucky Bastard](https://open.spotify.com/track/2hGg0mGHm3A0fqgpfpLwEi) | [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul) | [Lucky Bastard](https://open.spotify.com/album/026hdeEIIpCADMGbXyVlcQ) | 3:05 |
 | 57 | [Ready For The Blues](https://open.spotify.com/track/6BTaeh7bxG1O2Jk2mQCqXJ) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Ready For The Blues](https://open.spotify.com/album/3J284h72wbaiRytMtO0qTL) | 5:00 |
 | 58 | [Strung Up](https://open.spotify.com/track/6vOr19HgqGzzCMv040ePVq) | [Sorley](https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj) | [Strung Up](https://open.spotify.com/album/66FblVKMFIsHhvIB6mRt5p) | 3:20 |
 | 59 | [Stutter](https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9) | [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY), [Notelle](https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U) | [Stutter EP](https://open.spotify.com/album/6S3BbGBdXGll07mJj5i6UV) | 3:53 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 64 | [Ole](https://open.spotify.com/track/22u9Mz1YIpNeOgLxiQ7VIe) | [Zilka](https://open.spotify.com/artist/0SoSPYY6c3UihbZfluCvjP) | [Ole](https://open.spotify.com/album/0l4eUj59yCd8EfXuiNCnen) | 2:38 |
 | 65 | [N NIGHT](https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC) | [Wheats](https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF) | [N NIGHT](https://open.spotify.com/album/59dqu4xpSWOarQt4nh9sdg) | 7:34 |
 | 66 | [Music4TheMasses \- Andrea Oliva Remix](https://open.spotify.com/track/1q4SELBOdUcpYPvJp7iwDC) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM), [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Music4TheMasses \(Andrea Oliva Remix\)](https://open.spotify.com/album/3nfx8zp8LAUEQcYBpqdWh9) | 3:07 |
-| 67 | [can't stop the swing.](https://open.spotify.com/track/2mTNrZp8XBLay7hwwcAj81) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [spring '23](https://open.spotify.com/album/0sI5QLNxVfY8SeHGm70RZL) | 6:04 |
-| 68 | [C'mon](https://open.spotify.com/track/3p28zxsE5Ndd9CJUvpUwnC) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6) | [C'mon](https://open.spotify.com/album/1JFfBxteXBD0yGNbfENRdA) | 4:00 |
-| 69 | [Beeper Blowing Up](https://open.spotify.com/track/7DpmpRbrwVMrTWsLt3KVvw) | [LATE NIITE](https://open.spotify.com/artist/6zKFmriYB7K8UC54jtYCAS), [Thomas Garcia](https://open.spotify.com/artist/0pOf0CQbzWVo2rgrH9h0Rq) | [Beeper Blowing Up](https://open.spotify.com/album/5Jfs0kxETh6SAUNFrliOi0) | 3:38 |
-| 70 | [Jump Ship](https://open.spotify.com/track/25jHZWxC5NFkaqT5Hb5uKS) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Jump Ship](https://open.spotify.com/album/5f0oTxXSCY7PlFltoLUssp) | 6:21 |
+| 67 | [C'mon](https://open.spotify.com/track/3p28zxsE5Ndd9CJUvpUwnC) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6) | [C'mon](https://open.spotify.com/album/1JFfBxteXBD0yGNbfENRdA) | 4:00 |
+| 68 | [can't stop the swing.](https://open.spotify.com/track/2mTNrZp8XBLay7hwwcAj81) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [spring '23](https://open.spotify.com/album/0sI5QLNxVfY8SeHGm70RZL) | 6:04 |
+| 69 | [Jump Ship](https://open.spotify.com/track/25jHZWxC5NFkaqT5Hb5uKS) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Jump Ship](https://open.spotify.com/album/5f0oTxXSCY7PlFltoLUssp) | 6:21 |
+| 70 | [Beeper Blowing Up](https://open.spotify.com/track/7DpmpRbrwVMrTWsLt3KVvw) | [LATE NIITE](https://open.spotify.com/artist/6zKFmriYB7K8UC54jtYCAS), [Thomas Garcia](https://open.spotify.com/artist/0pOf0CQbzWVo2rgrH9h0Rq) | [Beeper Blowing Up](https://open.spotify.com/album/5Jfs0kxETh6SAUNFrliOi0) | 3:38 |
 | 71 | [Really Really Hot](https://open.spotify.com/track/21iSZnCRjz9ocvcX5yltFz) | [Eddy M](https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI) | [Really Really Hot](https://open.spotify.com/album/59TTDWb62eoMJfe474JIFD) | 3:52 |
 | 72 | [No Bueno](https://open.spotify.com/track/1BkVnW3EJByz6sbV8csgkL) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [No Bueno](https://open.spotify.com/album/5fTUKANhhWrTFBfDmNbLbe) | 5:50 |
-| 73 | [Narangi](https://open.spotify.com/track/2lzX1kCo8XQJ40B5cZyN9b) | [Amotik](https://open.spotify.com/artist/6EROUCmvQtSuBUkZ9nNOOO) | [XVII](https://open.spotify.com/album/3EECMU6VHbibJD1MjaJMBQ) | 6:34 |
-| 74 | [Honey Bee \- Edit](https://open.spotify.com/track/7KJwlAWtpbQzTGkJSrBbnk) | [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC) | [Honey Bee](https://open.spotify.com/album/6Q5TXCW5VO7fc5pdR1PBtX) | 4:23 |
+| 73 | [Honey Bee \- Edit](https://open.spotify.com/track/7KJwlAWtpbQzTGkJSrBbnk) | [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC) | [Honey Bee](https://open.spotify.com/album/6Q5TXCW5VO7fc5pdR1PBtX) | 4:23 |
+| 74 | [Narangi](https://open.spotify.com/track/2lzX1kCo8XQJ40B5cZyN9b) | [Amotik](https://open.spotify.com/artist/6EROUCmvQtSuBUkZ9nNOOO) | [XVII](https://open.spotify.com/album/3EECMU6VHbibJD1MjaJMBQ) | 6:34 |
 | 75 | [Kill The Soundboy](https://open.spotify.com/track/72AMbEMW0SGjL36DpLuYfY) | [Denney](https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v) | [Kill The Soundboy](https://open.spotify.com/album/19yhnnzXMUkzctGGijNagH) | 6:44 |
 
-Snapshot ID: `MCw4YzU3ZTg2ZmQ1M2ZkOGJmYTVjMmQ1N2YyZjA3MzNiMzgzNzllNGQw`
+Snapshot ID: `MCw4N2YyZGJhNjFmMDc3YTllYjc5NTAyYWZkNzk1ZmU2ZjdkM2M3ZTAx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RenIs.md) - [plain]
 
 > This is Phoenix\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,282 likes - 46 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,306 likes - 46 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RenIs.md) - [plain]
 | 45 | [Fior di Latte](https://open.spotify.com/track/1NJJObY1QxJhs5Xphq837L) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Ti Amo](https://open.spotify.com/album/4CWDyUN5jukEwwc2Fo4xzy) | 4:03 |
 | 46 | [Honeymoon](https://open.spotify.com/track/5dtTD2LIqWk1GsB8y0zDur) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 5:00 |
 
-Snapshot ID: `MjgxOTE2NzksMDAwMDAwMDA1MGQ5MGU3MTllNGQxZjIzYTlmMjQ5NWY5ZThiZWU4MQ==`
+Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDBhOWU5OTIyZmQwOTg4MzYwMmI3Y2QwNmUxMTBlNzYxMw==`

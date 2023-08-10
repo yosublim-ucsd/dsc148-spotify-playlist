@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Nacee",
-  "num_followers": 2827,
+  "num_followers": 2859,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTMzNDM5NDRkMmViMjczZjFlY2FlYTA5YmU0N2EzYzQxNzEzOTJh",
+  "snapshot_id": "MCwxNDA5YzlkNzY0NmE3MDVhNWM1ZjI3NzkxZThlY2YyNzg4OTdiNTc5",
   "tracks": [
     {
       "added_at": "2023-07-13 23:00:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/5mDJhwl6CfbJyiJGnzQ2JJ"
+      },
+      "artists": [
+        {
+          "name": "Manuel Bless",
+          "url": "https://open.spotify.com/artist/2Q5np0NykqxfWBMQXD2zFq"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/5j0qPhoZEPKcfdjsAo9MgD"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
         "name": "Onwanwani",
         "url": "https://open.spotify.com/album/4fbkb0H4gq0FBaour6fnPs"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 513913,
       "name": "Onwanwani",
       "url": "https://open.spotify.com/track/4mb4OvcBCNezU9v4X9Pyv3"
-    },
-    {
-      "added_at": "2023-07-13 23:00:00",
-      "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/5mDJhwl6CfbJyiJGnzQ2JJ"
-      },
-      "artists": [
-        {
-          "name": "Manuel Bless",
-          "url": "https://open.spotify.com/artist/2Q5np0NykqxfWBMQXD2zFq"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/5j0qPhoZEPKcfdjsAo9MgD"
     },
     {
       "added_at": "2023-07-13 23:00:00",

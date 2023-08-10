@@ -2519,6 +2519,24 @@
     },
     {
       "album": {
+        "name": "Amazing",
+        "url": "https://open.spotify.com/album/3kwsmKHXBPvIzVmqpuYNvu"
+      },
+      "artists": [
+        {
+          "name": "Braunsy",
+          "url": "https://open.spotify.com/artist/6NtI2LVlpaN2PryOeSF13u"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176005,
+      "name": "Amazing",
+      "url": "https://open.spotify.com/track/5LmH5s4izwCbFV2ad3snpj"
+    },
+    {
+      "album": {
         "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
         "url": "https://open.spotify.com/album/2x4aShbWkdZ1h8sfO23yZN"
       },
@@ -3458,7 +3476,7 @@
       ],
       "date_added": "2023-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 102855,
       "name": "Azules",
       "url": "https://open.spotify.com/track/5ZWpidWRGBeMCtL5k5mRwc"
@@ -8170,6 +8188,28 @@
       "duration_ms": 189496,
       "name": "Circles",
       "url": "https://open.spotify.com/track/7otM2899LBDzr051hxJqyx"
+    },
+    {
+      "album": {
+        "name": "Unknown",
+        "url": "https://open.spotify.com/album/6a0aWt8Y6CRKnUCq1dljYc"
+      },
+      "artists": [
+        {
+          "name": "Phatg",
+          "url": "https://open.spotify.com/artist/51lwdwFfiqiqnnF9xY4SCk"
+        },
+        {
+          "name": "Tayo Xander",
+          "url": "https://open.spotify.com/artist/0XwQ8MTx9xWiOHqOg6TbcB"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145798,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/4jWH0iiS8CwGX2sQ9q2UTl"
     },
     {
       "album": {
@@ -14902,6 +14942,24 @@
       "duration_ms": 177954,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/2dT2ng9hFxCMjW0sWhKnqP"
+    },
+    {
+      "album": {
+        "name": "Flowers on Fire",
+        "url": "https://open.spotify.com/album/3lg8yYecYjwVQAzg4tDFyC"
+      },
+      "artists": [
+        {
+          "name": "Jabriel",
+          "url": "https://open.spotify.com/artist/3ospfNqVeXbcUbttYxpHLa"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Flowers on Fire",
+      "url": "https://open.spotify.com/track/0qkPx42siPDXy1C2WsLmSg"
     },
     {
       "album": {
@@ -34632,7 +34690,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 153296,
       "name": "RGT",
       "url": "https://open.spotify.com/track/5a6OuYsZsNdynbsRMyrENl"
@@ -37516,7 +37574,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 174985,
       "name": "Snorkel",
       "url": "https://open.spotify.com/track/2WxLRzVS5Pn6YZEGV4gRF9"
@@ -40740,7 +40798,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 164358,
       "name": "Tanto",
       "url": "https://open.spotify.com/track/4sJLcsMdnOSQ5kNm3mLEKi"

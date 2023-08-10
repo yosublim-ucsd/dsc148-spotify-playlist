@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 
 > This is Bruna Karla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,198 likes - 50 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,220 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 | 22 | [Tua Unção](https://open.spotify.com/track/13wblL6thQD5NHLa29j1X4) | [Ministério Nova Jerusalém](https://open.spotify.com/artist/6Eikwdu8Tl78UPdJezEX9g), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I) | [Aba Pai](https://open.spotify.com/album/4DzXvPORyD3JtESzeteFBq) | 8:03 |
 | 23 | [Pai Eu Confiarei](https://open.spotify.com/track/1C1cSdN9oPaKINILtzgqao) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Advogado Fiel](https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri) | 5:31 |
 | 24 | [Aleluya](https://open.spotify.com/track/7EOxhfDRdKdLknVVuyKKQ4) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS) | [Aleluya](https://open.spotify.com/album/58TuxVBW2c8guPlnGptw9c) | 5:34 |
-| 25 | [Deus Está Cuidando de Você](https://open.spotify.com/track/3BXYxSllo4ZsW2yeeSi8pQ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Deus Está Cuidando de Você](https://open.spotify.com/album/7Koc2gllVK7SbTtBymCFjz) | 4:28 |
-| 26 | [Identidade](https://open.spotify.com/track/7LXJorEhjuKbh2xwMp5RaA) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Identidade](https://open.spotify.com/album/6upQvE1kxFNojkaIUmukKb) | 4:27 |
+| 25 | [Identidade](https://open.spotify.com/track/7LXJorEhjuKbh2xwMp5RaA) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Identidade](https://open.spotify.com/album/6upQvE1kxFNojkaIUmukKb) | 4:27 |
+| 26 | [Deus Está Cuidando de Você](https://open.spotify.com/track/3BXYxSllo4ZsW2yeeSi8pQ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Deus Está Cuidando de Você](https://open.spotify.com/album/7Koc2gllVK7SbTtBymCFjz) | 4:28 |
 | 27 | [Que Bom Você Chegou](https://open.spotify.com/track/5huHLhDKhr8AGktePPSowf) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Advogado Fiel](https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri) | 4:26 |
 | 28 | [Aceito o Teu Chamado](https://open.spotify.com/track/1JxseLLcAhM48rfw0pQfYd) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Aceito o Teu Chamado](https://open.spotify.com/album/4dWAoWGTlbC0JdSbODjFpG) | 4:25 |
 | 29 | [Melhor Amigo](https://open.spotify.com/track/2Jl0A8XA5n8wXDTzdKYL9D) | [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Melhor Amigo](https://open.spotify.com/album/04izDnUmcYZ9UUzbQJ7FVU) | 5:35 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 | 41 | [Jamais Deixarei Você](https://open.spotify.com/track/6AfCnl74vwdljXyxwkni83) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Karla Falando de Amor](https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28) | 4:51 |
 | 42 | [O Que Darei a Ti](https://open.spotify.com/track/2EsPqXim2134VnFphor7gG) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Incomparável](https://open.spotify.com/album/0BgFA0t9FPDRMA2QPgVRFU) | 4:58 |
 | 43 | [Deus do Impossível](https://open.spotify.com/track/7wFzsIgT8lkpRM9Fr6RTL4) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Com os Olhos da Fé](https://open.spotify.com/album/2BhLfjpZAEHo39gGsDcenk) | 4:46 |
-| 44 | [Se o Vento Soprar](https://open.spotify.com/track/1KqHoFhNjT3HmiTJGiIjk7) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Creio \(Ao Vivo\)](https://open.spotify.com/album/4FOGQicy3wsOra4zxwxsVQ) | 5:31 |
-| 45 | [Te Entrego Minhas Fraquezas](https://open.spotify.com/track/3SmcPR2zOv0nt1gho6sSBR) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Te Entrego Minhas Fraquezas](https://open.spotify.com/album/30c9YEnEROq0P3eWK5puxI) | 4:44 |
+| 44 | [Te Entrego Minhas Fraquezas](https://open.spotify.com/track/3SmcPR2zOv0nt1gho6sSBR) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Te Entrego Minhas Fraquezas](https://open.spotify.com/album/30c9YEnEROq0P3eWK5puxI) | 4:44 |
+| 45 | [Por Tuas Mãos](https://open.spotify.com/track/41HzNQNqNMQ7CEUoI5avFy) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Aceito o Teu Chamado](https://open.spotify.com/album/4dWAoWGTlbC0JdSbODjFpG) | 4:04 |
 | 46 | [Fé e a Razão](https://open.spotify.com/track/0zWJggve8BGN44iUC5MxLP) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Incomparável](https://open.spotify.com/album/0BgFA0t9FPDRMA2QPgVRFU) | 3:44 |
-| 47 | [Por Tuas Mãos](https://open.spotify.com/track/41HzNQNqNMQ7CEUoI5avFy) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Aceito o Teu Chamado](https://open.spotify.com/album/4dWAoWGTlbC0JdSbODjFpG) | 4:04 |
+| 47 | [Se o Vento Soprar](https://open.spotify.com/track/1KqHoFhNjT3HmiTJGiIjk7) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Creio \(Ao Vivo\)](https://open.spotify.com/album/4FOGQicy3wsOra4zxwxsVQ) | 5:31 |
 | 48 | [Levantamos Tu Nombre](https://open.spotify.com/track/29xdoA7Qz83rm5D0GOhbED) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Levantamos Tu Nombre](https://open.spotify.com/album/2wPoovI5GUgIiOkRQETfde) | 5:50 |
 | 49 | [Agora Eu Tenho Você Comigo](https://open.spotify.com/track/3JAoGcKwkXVRQklnUBT2Gb) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Karla Falando de Amor](https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28) | 4:14 |
 | 50 | [Deus Está Fazendo \(Ao Vivo\)](https://open.spotify.com/track/3rjEgRrgJ1s8XCJpfdTUar) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Deus Está Fazendo \(Ao Vivo\)](https://open.spotify.com/album/0aAy1HPGckNAoAAxkmLCXx) | 4:15 |
 
-Snapshot ID: `MjgxOTE2NzksMDAwMDAwMDA0MzA5OGMzZjE3MmUxOWRkYWU3OTE3ZGY2Y2E0NjlhYw==`
+Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDA3Y2NmNjgxNTI0MTVjZGVjNDI4MDA1MTY1NzMyNDM3OQ==`

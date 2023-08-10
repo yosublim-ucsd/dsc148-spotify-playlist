@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 
 > A different shade of the blues\. Cover: Dan Auerbach
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,920 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,954 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 | 31 | [Kingdom Will Come](https://open.spotify.com/track/2ONh8m8VMZc0uBlxghOTsp) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [Walls](https://open.spotify.com/album/0JQSivRdAZw6cCwtdl3f4I) | 4:58 |
 | 32 | [Shot Down](https://open.spotify.com/track/42vMIdruxaoslgfiyYBuwh) | [Vinny Virgo](https://open.spotify.com/artist/6ltRvKGrFYQoDwAmgYIB3B) | [Shot Down](https://open.spotify.com/album/4RWPMWMElW4byNmBLINBsL) | 3:13 |
 | 33 | [Switchup](https://open.spotify.com/track/4Pt6kY4Q9wxiFj9QJspC1g) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Keep On](https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ) | 2:27 |
-| 34 | [Can't Nobody Stop Us](https://open.spotify.com/track/2vi2Ihuxx5yTU0tLR7AdnZ) | [Bhi Bhiman](https://open.spotify.com/artist/6OukdlNSOR1SoGNF7v0d2C) | [Peace of Mind](https://open.spotify.com/album/4Yqxa1d27Fd6G1lNUpQ9Xq) | 3:14 |
+| 34 | [Can't Nobody Stop Us](https://open.spotify.com/track/6Wkh1qQ7LEK7d4E95iU4Ec) | [Bhi Bhiman](https://open.spotify.com/artist/6OukdlNSOR1SoGNF7v0d2C) | [Peace of Mind](https://open.spotify.com/album/7pj606uTFy3ChmOXdXZBbw) | 3:14 |
 | 35 | [29 Gold Stars](https://open.spotify.com/track/054GuU4u3vY4b5bkU8K9eH) | [Nathan Cavaleri](https://open.spotify.com/artist/0QEsixUqDOVf5JW1moKgdY) | [Demons](https://open.spotify.com/album/6QxlINdqOdpp8FfWJrnzOj) | 2:25 |
 | 36 | [Too Bad](https://open.spotify.com/track/05oXHNdCHGLEIuX1yJItkl) | [Lonesome Shack](https://open.spotify.com/artist/72lMhHXgtmKeNQbfT5QLq3) | [Desert Dreams](https://open.spotify.com/album/2bqcYctFwySiBiEU4Fk31x) | 3:10 |
 | 37 | [Healing Creek](https://open.spotify.com/track/4AsrwPkPDdpzjjdr2SDykN) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [Healing Creek](https://open.spotify.com/album/7dF7ZkpIBrkCMDqFEIEzh6) | 3:11 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 | 74 | [One Thing \(2020\)](https://open.spotify.com/track/3UN865e2RbOp2e5MEaKyH1) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Get That Feeling, Vol\. I](https://open.spotify.com/album/0yGqO8T0PFlvvOEB67SVw8) | 4:06 |
 | 75 | [Quarantine](https://open.spotify.com/track/7gde4dG4lg1LDEVAgwTeYE) | [Brianna Harness](https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ) | [Quarantine](https://open.spotify.com/album/2WjzcRa6XEfaLmYqTMBrEE) | 2:52 |
 
-Snapshot ID: `MCw5NDFmN2NiYTZlN2ExNTU4MjA2YTA3NmM5NzAzYWRkOWZjZjViNmNh`
+Snapshot ID: `MCxkMzg2MzJiZTUwNTg3YjZkMmQ2MmUyMWU4NDExZmZiZTgwYTE0NzMx`

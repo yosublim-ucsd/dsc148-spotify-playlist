@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea",
-  "num_followers": 187127,
+  "num_followers": 187205,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTgxNjUyYmM5NGJiZmRjNzk5ZmY3ZWU3YjgwZmYzODUwMmNlMTYz",
+  "snapshot_id": "MCxlYmFkMjQxZGMxM2QzYTQxOWUxZWNhNDc1OTVlZTYyMGNkNDA0NGRk",
   "tracks": [
     {
       "added_at": "2021-02-12 00:49:35",
@@ -87,22 +87,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "The Aristocrats",
-        "url": "https://open.spotify.com/album/7GKzcJbW0Qernh0Xab1bIf"
-      },
-      "artists": [
-        {
-          "name": "The Aristocrats",
-          "url": "https://open.spotify.com/artist/1V4jsLjkic1Mxvdke86Qth"
-        }
-      ],
-      "duration_ms": 353666,
-      "name": "Bad Asteroid",
-      "url": "https://open.spotify.com/track/5TzCDKy1ZmFZdW8100A8p9"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "I Can See Your House From Here",
         "url": "https://open.spotify.com/album/6rrp2wRfrtYxuHM6N5Uavb"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 259360,
       "name": "The Red One",
       "url": "https://open.spotify.com/track/1P4XzKG2bldGbhg6EO1N23"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "The Aristocrats",
+        "url": "https://open.spotify.com/album/7GKzcJbW0Qernh0Xab1bIf"
+      },
+      "artists": [
+        {
+          "name": "The Aristocrats",
+          "url": "https://open.spotify.com/artist/1V4jsLjkic1Mxvdke86Qth"
+        }
+      ],
+      "duration_ms": 353666,
+      "name": "Bad Asteroid",
+      "url": "https://open.spotify.com/track/5TzCDKy1ZmFZdW8100A8p9"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -761,26 +761,6 @@
       "url": "https://open.spotify.com/track/5F8tuVZJ3271tRNO7IR0uT"
     },
     {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Galaxias",
-        "url": "https://open.spotify.com/album/30utofoN4gEgd6ulk1qXEP"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1o Josele",
-          "url": "https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT"
-        },
-        {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
-        }
-      ],
-      "duration_ms": 236905,
-      "name": "Galaxias (Radio Edit)",
-      "url": "https://open.spotify.com/track/4u8xcocvv2wQ1EN44UYzlt"
-    },
-    {
       "added_at": "2021-10-15 04:01:00",
       "album": {
         "name": "The New Heritage",
@@ -807,6 +787,26 @@
       "duration_ms": 145643,
       "name": "The New Heritage",
       "url": "https://open.spotify.com/track/58Hjh0cpp5V5cFTcQ15Wcr"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Galaxias",
+        "url": "https://open.spotify.com/album/30utofoN4gEgd6ulk1qXEP"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1o Josele",
+          "url": "https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT"
+        },
+        {
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+        }
+      ],
+      "duration_ms": 236905,
+      "name": "Galaxias (Radio Edit)",
+      "url": "https://open.spotify.com/track/4u8xcocvv2wQ1EN44UYzlt"
     },
     {
       "added_at": "2021-10-29 04:02:00",
@@ -861,6 +861,22 @@
       "url": "https://open.spotify.com/track/4XUR0xfOMphdT9qnTb1iG3"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/2757IqIKvgQcKtAxzY3LKM"
+      },
+      "artists": [
+        {
+          "name": "Gecko&Tokage Parade",
+          "url": "https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF"
+        }
+      ],
+      "duration_ms": 209276,
+      "name": "Core",
+      "url": "https://open.spotify.com/track/2KAoF7tEfOercmf6kwvK6k"
+    },
+    {
       "added_at": "2021-04-09 04:01:00",
       "album": {
         "name": "Magnetar (feat. Adam Deitch & Shaun Martin)",
@@ -883,22 +899,6 @@
       "duration_ms": 276293,
       "name": "Magnetar (feat. Adam Deitch & Shaun Martin)",
       "url": "https://open.spotify.com/track/3L3JqFvXR2Y2W9LhG1ZjE9"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/2757IqIKvgQcKtAxzY3LKM"
-      },
-      "artists": [
-        {
-          "name": "Gecko&Tokage Parade",
-          "url": "https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF"
-        }
-      ],
-      "duration_ms": 209276,
-      "name": "Core",
-      "url": "https://open.spotify.com/track/2KAoF7tEfOercmf6kwvK6k"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1237,38 +1237,6 @@
       "url": "https://open.spotify.com/track/3OtqffoS8ktgeZsKp7Bt5h"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Axiom",
-        "url": "https://open.spotify.com/album/33FjWExlzwKy3f8nwV43M1"
-      },
-      "artists": [
-        {
-          "name": "Christian Scott aTunde Adjuah",
-          "url": "https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn"
-        }
-      ],
-      "duration_ms": 653190,
-      "name": "Guinnevere",
-      "url": "https://open.spotify.com/track/3wJ6ua41tikVX68v07Y11V"
-    },
-    {
-      "added_at": "2021-04-09 04:01:00",
-      "album": {
-        "name": "FLY! FLY! FLY!",
-        "url": "https://open.spotify.com/album/7qDI1mOCvT20YELuoRj7yH"
-      },
-      "artists": [
-        {
-          "name": "T-SQUARE",
-          "url": "https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie"
-        }
-      ],
-      "duration_ms": 260866,
-      "name": "Growing Up!",
-      "url": "https://open.spotify.com/track/37hfrm3nKjMQuCXZXuDNYd"
-    },
-    {
       "added_at": "2022-05-20 04:02:00",
       "album": {
         "name": "Dahaga",
@@ -1303,6 +1271,38 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
+        "name": "Axiom",
+        "url": "https://open.spotify.com/album/33FjWExlzwKy3f8nwV43M1"
+      },
+      "artists": [
+        {
+          "name": "Christian Scott aTunde Adjuah",
+          "url": "https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn"
+        }
+      ],
+      "duration_ms": 653190,
+      "name": "Guinnevere",
+      "url": "https://open.spotify.com/track/3wJ6ua41tikVX68v07Y11V"
+    },
+    {
+      "added_at": "2021-04-09 04:01:00",
+      "album": {
+        "name": "FLY! FLY! FLY!",
+        "url": "https://open.spotify.com/album/7qDI1mOCvT20YELuoRj7yH"
+      },
+      "artists": [
+        {
+          "name": "T-SQUARE",
+          "url": "https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie"
+        }
+      ],
+      "duration_ms": 260866,
+      "name": "Growing Up!",
+      "url": "https://open.spotify.com/track/37hfrm3nKjMQuCXZXuDNYd"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
         "name": "Never Ending",
         "url": "https://open.spotify.com/album/0SxjpfNg8pDyOEerHOa9uC"
       },
@@ -1315,6 +1315,22 @@
       "duration_ms": 169000,
       "name": "Never Ending",
       "url": "https://open.spotify.com/track/7pZ48MAPRThhNxPthsNeE1"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Big Fun (2022 Remaster)",
+        "url": "https://open.spotify.com/album/66ubx5B6Q0Vgl7vbvGWP9h"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 1707435,
+      "name": "Go Ahead John (2022 Remaster)",
+      "url": "https://open.spotify.com/track/7dZkodGCc6Z0fTCbB1k5Ue"
     },
     {
       "added_at": "2022-04-08 04:02:00",
@@ -1335,22 +1351,6 @@
       "duration_ms": 230374,
       "name": "Funkdombe - edit",
       "url": "https://open.spotify.com/track/7sOEgNweXVf2N4ae7hzKMU"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Big Fun (2022 Remaster)",
-        "url": "https://open.spotify.com/album/66ubx5B6Q0Vgl7vbvGWP9h"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 1707435,
-      "name": "Go Ahead John (2022 Remaster)",
-      "url": "https://open.spotify.com/track/7dZkodGCc6Z0fTCbB1k5Ue"
     },
     {
       "added_at": "2021-07-23 04:01:00",
@@ -1397,28 +1397,32 @@
       "url": "https://open.spotify.com/track/7nFjBk5Ads8vihepgdOHoJ"
     },
     {
-      "added_at": "2021-04-30 04:01:00",
+      "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Eastern Kaleidoscope",
-        "url": "https://open.spotify.com/album/7pshypV8ORdfWsH22BstvI"
+        "name": "The Chick Corea Elektric Band",
+        "url": "https://open.spotify.com/album/19XYicKUAhG6g8cNcEHjjx"
       },
       "artists": [
         {
-          "name": "Usein Bekirov",
-          "url": "https://open.spotify.com/artist/5jBSBF7Zw8vcx5WeyWBB8Y"
+          "name": "Chick Corea Elektric Band",
+          "url": "https://open.spotify.com/artist/2ReTnNzaUAM6RgKCtlvMPf"
         },
         {
-          "name": "Max Malyshev",
-          "url": "https://open.spotify.com/artist/2RL3ExDPPOHcLBEoVxMhZw"
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
         },
         {
-          "name": "Mike Stern",
-          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
+          "name": "Dave Weckl",
+          "url": "https://open.spotify.com/artist/6h0KtnUiBpkxxjvZZPvNSw"
+        },
+        {
+          "name": "John Patitucci",
+          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
         }
       ],
-      "duration_ms": 384356,
-      "name": "Eastern Kaleidoscope",
-      "url": "https://open.spotify.com/track/0PfyfwL0q82ZcOUiRACsmz"
+      "duration_ms": 339826,
+      "name": "Got A Match?",
+      "url": "https://open.spotify.com/track/5hqqPJuZVQkTtIos7zS6nD"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1447,6 +1451,30 @@
       "duration_ms": 238178,
       "name": "Catch me if you can!",
       "url": "https://open.spotify.com/track/2sdQsMO4eC2Onw3WOOPp6n"
+    },
+    {
+      "added_at": "2021-04-30 04:01:00",
+      "album": {
+        "name": "Eastern Kaleidoscope",
+        "url": "https://open.spotify.com/album/7pshypV8ORdfWsH22BstvI"
+      },
+      "artists": [
+        {
+          "name": "Usein Bekirov",
+          "url": "https://open.spotify.com/artist/5jBSBF7Zw8vcx5WeyWBB8Y"
+        },
+        {
+          "name": "Max Malyshev",
+          "url": "https://open.spotify.com/artist/2RL3ExDPPOHcLBEoVxMhZw"
+        },
+        {
+          "name": "Mike Stern",
+          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
+        }
+      ],
+      "duration_ms": 384356,
+      "name": "Eastern Kaleidoscope",
+      "url": "https://open.spotify.com/track/0PfyfwL0q82ZcOUiRACsmz"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1483,26 +1511,6 @@
       "duration_ms": 466053,
       "name": "Jiriki",
       "url": "https://open.spotify.com/track/1sNuGiLGslnsJH0OqkTFyQ"
-    },
-    {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm"
-      },
-      "artists": [
-        {
-          "name": "Adam Blackstone",
-          "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
-        },
-        {
-          "name": "John Scofield",
-          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
-        }
-      ],
-      "duration_ms": 356243,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/3jlF4rXXNxK8JRMkfwRYcc"
     }
   ],
   "unique_name": "Fusion Fest",

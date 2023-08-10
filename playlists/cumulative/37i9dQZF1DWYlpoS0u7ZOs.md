@@ -4,7 +4,7 @@
 
 > The new wave of rock from the UK & Ireland\. Cover: WARGASM \(UK\)
 
-205 songs - 10 hr 53 min
+206 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,8 @@
 | [Neighbours](https://open.spotify.com/track/6PpGAVANQ6CZ5OSIwA3oBj) | [King No\-One](https://open.spotify.com/artist/6hWReUQlQwLTYlmZ1vltRB) | [Neighbours](https://open.spotify.com/album/3udbFrx4tlFGwZEh4CK3HX) | 2:51 | 2023-01-13 | 2023-06-24 |
 | [Nightlife](https://open.spotify.com/track/6b2mRkThwyuVlw9IYW7aST) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [Nightlife](https://open.spotify.com/album/4ZpE0RfPiMkohY2AHZoUHe) | 3:19 | 2023-03-24 |  |
 | [No Constraint](https://open.spotify.com/track/48x8I9dFZjWn7bJf5j2nnT) | [Public Body](https://open.spotify.com/artist/0afEu0n4WzBeNOdyjfBU6X) | [No Constraint](https://open.spotify.com/album/1asjlY8VeCEXNOuBHS3bhh) | 3:02 | 2023-03-03 |  |
-| [Norwegian Wood](https://open.spotify.com/track/0hqwO626QOUFYQjuKSkgOJ) | [Picture Parlour](https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV) | [Norwegian Wood](https://open.spotify.com/album/7awWgs9eg9Us5jQg4nm5Ck) | 3:34 | 2023-07-06 |  |
+| [Norwegian Wood](https://open.spotify.com/track/0hqwO626QOUFYQjuKSkgOJ) | [Picture Parlour](https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV) | [Norwegian Wood](https://open.spotify.com/album/7awWgs9eg9Us5jQg4nm5Ck) | 3:34 | 2023-07-06 | 2023-08-10 |
+| [Norwegian Wood](https://open.spotify.com/track/50Wusuhe7GBuOr5xGZlyGe) | [Picture Parlour](https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV) | [Norwegian Wood](https://open.spotify.com/album/4vXzCKpcnI930OU3QNCOLW) | 3:34 | 2023-07-28 |  |
 | [Nostalgia \(ft\. Patty Walters\)](https://open.spotify.com/track/7urqfz7paOyKHayDEa7uGC) | [Bleak Soul](https://open.spotify.com/artist/2iMxVnS6Ovd7R0C5kHdo6p), [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [Nostalgia](https://open.spotify.com/album/6K6oiAZS3oOlH9VEAIbL2U) | 3:18 | 2023-03-17 | 2023-04-22 |
 | [Our Love Is Growing \- Single Mix](https://open.spotify.com/track/1UpFjzn7zBmwtrZgyXL63p) | [LIFE](https://open.spotify.com/artist/2NWimAynlyqVUWD4YnJHlC) | [Our Love Is Growing](https://open.spotify.com/album/00TPwByRL8JEFa9aykOuW5) | 3:01 | 2023-01-13 | 2023-02-03 |
 | [Overdrive](https://open.spotify.com/track/707tiOrq4dd0Ytno2G8rBx) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [follow:noise](https://open.spotify.com/album/4qEoK6TngEPWbVIezdE2JN) | 2:57 | 2023-06-08 |  |

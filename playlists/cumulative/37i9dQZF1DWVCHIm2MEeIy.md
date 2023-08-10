@@ -4,7 +4,7 @@
 
 > The dancefloor is the place to be 🪩
 
-302 songs - 1 day 4 hr 17 min
+303 songs - 1 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Affection \- Solomun Remix](https://open.spotify.com/track/2s8y8BLvibdo0EDd085lmL) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [ABRA](https://open.spotify.com/artist/3ZJxEmjYZd5VOqZ8o3aXiL), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Affection \(Solomun Remix\)](https://open.spotify.com/album/5HwBgBjjqpkBAub9oQK2Pm) | 5:12 | 2022-06-24 | 2022-07-31 |
 | [Ahmed](https://open.spotify.com/track/1rIxb5rv6BUWXT6xmLt91x) | [Acid Pauli](https://open.spotify.com/artist/3LHqODf1hGAgZ5LTw1Gf4C) | [Mainacht](https://open.spotify.com/album/1iPW3GbDkNYheqeyWjMDn8) | 6:48 | 2022-06-24 | 2022-10-01 |
 | [Akemie](https://open.spotify.com/track/7681uiIdoVOKhHuwz3z1VJ) | [Kotelett](https://open.spotify.com/artist/2OkHxgCvFhNIP49ie7DMDQ), [Sascha Cawa](https://open.spotify.com/artist/1bneKKlE0IwYyauLPQBDgP) | [Akemie](https://open.spotify.com/album/2d9EbZyGhG3w3W2kQUtOhc) | 7:09 | 2022-05-20 | 2022-06-08 |
-| [Aldebaran](https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X) | [Green Lake Project](https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz) | [Thrust](https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM) | 6:29 | 2023-01-13 |  |
+| [Aldebaran](https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X) | [Green Lake Project](https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz) | [Thrust](https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM) | 6:29 | 2023-01-13 | 2023-08-10 |
 | [Alive](https://open.spotify.com/track/7cn2gHnDem0tI8rZXaBmXp) | [Mainterm](https://open.spotify.com/artist/7f7f9se1wn56qhlAWMT4eI) | [Alive](https://open.spotify.com/album/1QXGtZPuWcFFqaz3IidO7y) | 5:58 | 2022-06-24 | 2022-07-27 |
 | [All I See \- BAUGRUPPE90 Remix](https://open.spotify.com/track/56fgIOoSnJS3yPmxrjKx9c) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV), [BAUGRUPPE90](https://open.spotify.com/artist/6pKJqozqp0jdugOsyFRGMx) | [All I See \(BAUGRUPPE90 Remix\)](https://open.spotify.com/album/1mGR41NcbBasYYAoYJu3Qh) | 6:19 | 2022-04-15 | 2022-05-19 |
 | [All The Little Things](https://open.spotify.com/track/5aZE1JRO2x1YvBQr5ssHK2) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [All The Little Things EP](https://open.spotify.com/album/08VBmpMr5rhtIWx2oI4Pc5) | 6:56 | 2022-04-15 | 2023-01-09 |
@@ -199,6 +199,7 @@
 | [Paradise \- Âme Remix](https://open.spotify.com/track/6m1p8pNdASucv2yWqYeMOs) | [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Paradise \(Âme Remix\)](https://open.spotify.com/album/5TeEwBih6CBovsO6sFYqtb) | 4:04 | 2022-04-15 |  |
 | [Paris](https://open.spotify.com/track/0k4A0wcdZLY0OSQ1ugfi3J) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Paris](https://open.spotify.com/album/2UJpW4aO9nXGEh7arP5uW8) | 3:21 | 2022-04-15 | 2022-04-21 |
 | [Pequeño Amor](https://open.spotify.com/track/6HkeeG8B0QHpjhLfkoT2Ys) | [Pitto](https://open.spotify.com/artist/4qGSmvW1ZXE9qeXUdoFuTG), [Martina Camargo](https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH) | [Back to You](https://open.spotify.com/album/6gEPIRjihArdcdmZ4i2zgo) | 6:06 | 2022-10-29 | 2022-11-15 |
+| [Pequeño Amor](https://open.spotify.com/track/7CV96EHpL4Xd1MXISAQr8O) | [Pitto](https://open.spotify.com/artist/4qGSmvW1ZXE9qeXUdoFuTG), [Martina Camargo](https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH) | [Back to You](https://open.spotify.com/album/6kRoEOzwNU22R0SmjSNd3I) | 6:06 | 2023-06-30 |  |
 | [Petit Matin](https://open.spotify.com/track/0MOwzHYBsXeVkb98ewMMZP) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Petit Matin](https://open.spotify.com/album/0P57bvDYTfxQt9V4ChSvDi) | 7:27 | 2022-04-15 |  |
 | [Picnic](https://open.spotify.com/track/1lfVngSLGVB7016sN7aT4P) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Diytalism EP](https://open.spotify.com/album/6YkBuXdyyWlsSTI1hmcXm3) | 5:38 | 2022-04-15 | 2022-11-20 |
 | [Picnic](https://open.spotify.com/track/4LV2WO47KmDcjOBii078Df) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Diytalism EP](https://open.spotify.com/album/72EwbbBns0GTQlyPQegDc6) | 5:38 | 2023-02-17 | 2023-04-05 |

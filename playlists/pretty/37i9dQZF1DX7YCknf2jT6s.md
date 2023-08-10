@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Keyon Harrold
 
-[Spotify](https://open.spotify.com/user/spotify) - 894,333 likes - 100 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 894,435 likes - 100 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 19 | [Beat Hopper \- The 3rd Session](https://open.spotify.com/track/1x6POqThB0hnrwry79YTPD) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM), [Excursions](https://open.spotify.com/artist/4RlSrid1rrUpTjjAByI99o) | [Beat Hopper \(The 3rd Session\)](https://open.spotify.com/album/0dpa2dZmU9voOtVV8tqdq8) | 4:14 |
 | 20 | [Lean In](https://open.spotify.com/track/0qEYroDLzjD7qexoNrMwtE) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Lean In](https://open.spotify.com/album/22CKhxvPblano1zLKKZTsR) | 5:18 |
 | 21 | [エッグ・オン・ザ・ルーフ](https://open.spotify.com/track/6Cfjbe0yuS82fNIdbFWImO) | [小曽根啓](https://open.spotify.com/artist/6bK6xLnS0wYCNLQlqMqM6M), [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged) | [Egg On The Roof](https://open.spotify.com/album/16P20y7PWqVG3VlknqqK3A) | 7:09 |
-| 22 | [Passage](https://open.spotify.com/track/0xU7UASRnsyuQ2TuyfzkMr) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Passage](https://open.spotify.com/album/6yfB0IKJ42k3NvnUwe05d3) | 9:38 |
+| 22 | [Passage](https://open.spotify.com/track/1RcgSMUt7FW5dZeqpXvaWp) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Tears I Cannot Hide](https://open.spotify.com/album/70bDvVWQoOm0WEFGeyDX9g) | 9:38 |
 | 23 | [Devil Doesn't Dance](https://open.spotify.com/track/1xMSayO9HnbfvyHqqDW5mm) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [Frontier's Edge](https://open.spotify.com/album/3xn1tJ5SQlOHt96ltaKH4P) | 2:46 |
 | 24 | [I Can Say To You \[Feat\. Vanisha Gould\] \- Single Edit](https://open.spotify.com/track/77QJgfFBYZQU0zXByezYGs) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP), [Vanisha Gould](https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag) | [I Can Say To You \[Feat\. Vanisha Gould\]](https://open.spotify.com/album/0cdH5hfYt9f70uLrkiSolC) | 3:37 |
 | 25 | [Wonder](https://open.spotify.com/track/3AniDSYZmzsDI06ENTimiz) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Wonder](https://open.spotify.com/album/0V6u5oyZhB5vx1EJroIXi2) | 2:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [No End](https://open.spotify.com/track/2MJMUvGIN5aidX8rHTsJcH) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [No End](https://open.spotify.com/album/5R1eo5djaopbyuWH3vpJHd) | 2:38 |
 | 100 | [Part VII](https://open.spotify.com/track/6YBlNOhf1CXD3tBS47AgVx) | [Myele Manzanza](https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd), [Lewis Moody](https://open.spotify.com/artist/60ybgvKZRtAZz7WxNMpJaV), [Benjamin Muralt](https://open.spotify.com/artist/5cyLdqGfpPgg8uE1ZiCpwP) | [Focus](https://open.spotify.com/album/4cP6mSCbTaGDtU8Eprv6cm) | 3:12 |
 
-Snapshot ID: `MCw0NGRkZjU3ZmM2MGQ4OGIzZDZmODA2ZWYxMjRjMjA5YjdkZTI4MDY4`
+Snapshot ID: `MCwyNDQ2ZDBiOTU5MzEyNmI1NmVkMGI0OWUzNTY3NTVjZTAxYjlhMGE1`

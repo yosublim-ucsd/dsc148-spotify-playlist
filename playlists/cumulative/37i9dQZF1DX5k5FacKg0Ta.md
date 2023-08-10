@@ -4,7 +4,7 @@
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-128 songs - 11 hr 25 min
+129 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Mountain Man Exit](https://open.spotify.com/track/7xKRYjwpDJHiWBSRNFscJ0) | [Timo Lassy](https://open.spotify.com/artist/12DkoR4cqoY6osVYHmsrAq) | [Mountain Man Exit](https://open.spotify.com/album/2HeNwpxn83O3GoMtIf4EUQ) | 4:31 | 2022-09-02 |  |
 | [Murhatarina](https://open.spotify.com/track/1RexGZx3oC1elDsP1UqiGb) | [Anna Inginmaa](https://open.spotify.com/artist/4OxpklChc2i87gKqKF2Lk7) | [Murhatarina](https://open.spotify.com/album/3w0Jwd36FrbWfN3VQMnu2i) | 3:23 | 2022-09-02 |  |
 | [Myrskyn Jälkeen](https://open.spotify.com/track/40YB7af2XRxHzO8AYThAnQ) | [Eeppi Ursin](https://open.spotify.com/artist/4mZ1U29cyK5MkPefagHlzn) | [My Finnish Soul](https://open.spotify.com/album/6qiOxwnfwtnuVBgwU9NR9l) | 4:30 | 2023-01-27 |  |
-| [Ne Hölmöt](https://open.spotify.com/track/2IlAAZBNdZi9g4WKVEvT0O) | [Saarisalo](https://open.spotify.com/artist/6IgTXnqCShUIfXhX2eC8Yl) | [Ne Hölmöt](https://open.spotify.com/album/0uk6R34azCdrEGPYzWidii) | 4:33 | 2022-09-02 |  |
+| [Ne Hölmöt](https://open.spotify.com/track/2IlAAZBNdZi9g4WKVEvT0O) | [Saarisalo](https://open.spotify.com/artist/6IgTXnqCShUIfXhX2eC8Yl) | [Ne Hölmöt](https://open.spotify.com/album/0uk6R34azCdrEGPYzWidii) | 4:33 | 2022-09-02 | 2023-08-10 |
+| [Ne Hölmöt](https://open.spotify.com/track/3t7IDoyuwmxJ7zdi0mdjxf) | [Saarisalo](https://open.spotify.com/artist/6IgTXnqCShUIfXhX2eC8Yl) | [Valehtele, maailma ei tule muuttumaan](https://open.spotify.com/album/3kKegPjUZ3q9q4UJte3apn) | 4:33 | 2023-06-29 |  |
 | [Neon Light \[And the Sky Was Trans\]](https://open.spotify.com/track/7vFAgpPhAoNXnwVVS4gFOK) | [Linda Fredriksson](https://open.spotify.com/artist/341VCWqMvdMnDP98GjaGYL) | [Neon Light \[And the Sky Was Trans\]](https://open.spotify.com/album/0JpAFFtjeBpAPuzsSds87a) | 5:28 | 2022-09-02 | 2023-05-13 |
 | [Never Call You By Yours \(Mother\)](https://open.spotify.com/track/6H26Mm9CIMrCfJI2jAUb15) | [Signe](https://open.spotify.com/artist/3vltTncSI7lVsRtKnsEDfY) | [Never Call You By Yours \(Mother\)](https://open.spotify.com/album/2dGR3zgJiHUt7VzOS2a6s5) | 4:31 | 2023-05-12 | 2023-06-03 |
 | [Nocturne](https://open.spotify.com/track/0iwtrXQ6hkcuRqSuAhWplA) | [Emma Salokoski](https://open.spotify.com/artist/4lkbQDGu2L3lpSmZnb0b8U), [Jarmo Saari](https://open.spotify.com/artist/37iScztCuS0YBVo4ta3Gcn) | [Nocturne](https://open.spotify.com/album/54j1wZqvFpfXHSdj2joxkF) | 4:30 | 2023-02-17 | 2023-05-13 |

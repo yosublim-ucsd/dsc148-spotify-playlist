@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 
 > El inolvidable sonido del amor nunca había estado tan cerca de ti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,232 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,252 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 | 14 | [Inolvidable](https://open.spotify.com/track/4WWYBTpa9J6A7RZht1LtzW) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [From Tito With Love](https://open.spotify.com/album/3fAbfV4TGbi2El5oFlV1WJ) | 3:13 |
 | 15 | [Me Dices Que Te Vas](https://open.spotify.com/track/3N2a9M6Dm9azoY1YmmSBmu) | [Iván Cruz](https://open.spotify.com/artist/3zQZWNtvXSGkESIkW5Bf2L) | [Sé Que Me Engañaste un Día](https://open.spotify.com/album/6QAmZA5XSfwanx2QdCyxT1) | 3:21 |
 | 16 | [Historia de un Amor](https://open.spotify.com/track/47haQcqBOue2RAsVXER52f) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canta En Español Con Los Panchos](https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w) | 2:30 |
-| 17 | [Mil Cosas](https://open.spotify.com/track/2uJpuids3FAuhAsLjp5Zzm) | [Alberto Beltran](https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R) | [Boleros De Siempre](https://open.spotify.com/album/4fSSeuuh9omsQmCQh0OcpK) | 2:51 |
-| 18 | [El Contragolpe](https://open.spotify.com/track/74f7hfeONxGZH6bVnXIYGW) | [Alci Acosta](https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK) | [Y Siguen Los Éxitos](https://open.spotify.com/album/4yWg278fGlo1SZHEjgLfUI) | 2:33 |
+| 17 | [El Contragolpe](https://open.spotify.com/track/74f7hfeONxGZH6bVnXIYGW) | [Alci Acosta](https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK) | [Y Siguen Los Éxitos](https://open.spotify.com/album/4yWg278fGlo1SZHEjgLfUI) | 2:33 |
+| 18 | [Mil Cosas](https://open.spotify.com/track/2uJpuids3FAuhAsLjp5Zzm) | [Alberto Beltran](https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R) | [Boleros De Siempre](https://open.spotify.com/album/4fSSeuuh9omsQmCQh0OcpK) | 2:51 |
 | 19 | [Me Engañas Mujer](https://open.spotify.com/track/5Sr5Jpy291i4d07B2tWruy) | [Lucho Barrios](https://open.spotify.com/artist/0THtXVjA70xW4Qk9o2YEYh) | [Una Rockola en el Cielo, Vol\. 1](https://open.spotify.com/album/5dcGv6iJb00Ba4YP3xMrRU) | 2:58 |
 | 20 | [El mago y la publicidad](https://open.spotify.com/track/1dYQvx0h201E8yoDtVfpRJ) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk), [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [El mago y la publicidad](https://open.spotify.com/album/49QkpDAcrh01KUfKqljh1o) | 2:20 |
 | 21 | [Mozo Deme Otra Copa](https://open.spotify.com/track/6NwgRRmIOlAdhicVB7T6Xt) | [Iván Cruz](https://open.spotify.com/artist/3zQZWNtvXSGkESIkW5Bf2L) | [Disco de Oro](https://open.spotify.com/album/0AKTrMTiF6tFzOt2oYkwhW) | 4:00 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 | 25 | [Tú Me Haces Falta](https://open.spotify.com/track/4mOmZqz9rjPTqphPiot9WK) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [La Historia De Jose Feliciano](https://open.spotify.com/album/0Nev5wXF40lBeYwjz1syW9) | 2:49 |
 | 26 | [Quizás, Quizás, Quizás](https://open.spotify.com/track/0gKj8QF7esmwphbJe2DZF5) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [El Trío Los Panchos / Por Siempre Boleros](https://open.spotify.com/album/4dJcbMoV2N10NKW9G0bXec) | 2:54 |
 | 27 | [Únicamente Tu](https://open.spotify.com/track/4DTfQauneAY5cjuTMTfSMQ) | [Felipe Pirela](https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN) | [El Bolerista De América](https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT) | 2:35 |
-| 28 | [Total](https://open.spotify.com/track/5nUf759XOaK2vnUws4acJM) | [Bienvenido Granda](https://open.spotify.com/artist/4IyPs1rPOAQOnXeqUTjty4) | [Canta Sus Exitos](https://open.spotify.com/album/7uCFS6G1cwDikioDJhFHO2) | 3:03 |
-| 29 | [Mil Años](https://open.spotify.com/track/5uF6rmLCccjT8C08GUESf4) | [Dino](https://open.spotify.com/artist/7xyshlh8wadJg6dB4SYfPm) | [Boleros & Baladas: Peruvians Sing For The Brokenhearted](https://open.spotify.com/album/2aKXlmYHTdm68pa9Q289Pk) | 4:54 |
+| 28 | [Mil Años](https://open.spotify.com/track/5uF6rmLCccjT8C08GUESf4) | [Dino](https://open.spotify.com/artist/7xyshlh8wadJg6dB4SYfPm) | [Boleros & Baladas: Peruvians Sing For The Brokenhearted](https://open.spotify.com/album/2aKXlmYHTdm68pa9Q289Pk) | 4:54 |
+| 29 | [Total](https://open.spotify.com/track/5nUf759XOaK2vnUws4acJM) | [Bienvenido Granda](https://open.spotify.com/artist/4IyPs1rPOAQOnXeqUTjty4) | [Canta Sus Exitos](https://open.spotify.com/album/7uCFS6G1cwDikioDJhFHO2) | 3:03 |
 | 30 | [Amor De Pobre](https://open.spotify.com/track/7b280q5Y2W7X4a6lNTln2B) | [Lucho Barrios](https://open.spotify.com/artist/0THtXVjA70xW4Qk9o2YEYh) | [Antología 1960 \- 1990 \(Remastered\)](https://open.spotify.com/album/2xAG4UwtVF0U4rG6xLawfx) | 2:12 |
 | 31 | [Mañanas de Carnaval](https://open.spotify.com/track/1TpiHiQiv8TY3Tw0KZKv0V) | [Betty Missiego](https://open.spotify.com/artist/160HajXHxdQFEbwdvDaunP) | [Inolvidable \(Boleros\)](https://open.spotify.com/album/28FSqSrZWqwnzdtBswzkiv) | 3:35 |
 | 32 | [Se Rompio la Cadena](https://open.spotify.com/track/7HO4ZsjFfOy30yhTssf643) | [El Super Trio](https://open.spotify.com/artist/00l3EIgirx9uXQBTn2JMUo) | [Musica...Recuerdo Inolvidable](https://open.spotify.com/album/7pZ3OkH9YbE4zebon4dvhl) | 2:39 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 | 46 | [En El Balcon Aquel](https://open.spotify.com/track/0RG50rC99tTOBv81mcB5Qt) | [Celio Gonzalez](https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y) | [Las Estrellas De La Matancera](https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1) | 2:17 |
 | 47 | [Que Te Vayas Bien](https://open.spotify.com/track/7CG1BiJZwcW1lQomfgbsfm) | [Pedrito Otiniano](https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG) | [Los Triunfadores de la Rockola](https://open.spotify.com/album/7mtgs85XZjFjnnEa5BKHRw) | 3:00 |
 | 48 | [Amor Perdido](https://open.spotify.com/track/6kJrQyiydPbEiAgfU5Phrp) | [Maria Luisa Landin](https://open.spotify.com/artist/6xwRfnFKMKRoHL8LuLNBpf) | [Colección Diamante](https://open.spotify.com/album/1mzaWbfnxIq01Jyi23b96h) | 3:14 |
-| 49 | [Ese Bolero Es Mío](https://open.spotify.com/track/37gfxVderzFMP4zRiFdSPa) | [Felipe Pirela](https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN) | [El Bolerista De América](https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT) | 2:53 |
-| 50 | [Y Después Del Amor](https://open.spotify.com/track/40uK9I0QmVwRaZqS0v1IBq) | [Los Hermanos Castro](https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc) | [50 Años Live](https://open.spotify.com/album/58aXd3xlsqShN3YqfOM3kS) | 5:35 |
+| 49 | [Y Después Del Amor](https://open.spotify.com/track/40uK9I0QmVwRaZqS0v1IBq) | [Los Hermanos Castro](https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc) | [50 Años Live](https://open.spotify.com/album/58aXd3xlsqShN3YqfOM3kS) | 5:35 |
+| 50 | [Ese Bolero Es Mío](https://open.spotify.com/track/37gfxVderzFMP4zRiFdSPa) | [Felipe Pirela](https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN) | [El Bolerista De América](https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT) | 2:53 |
 | 51 | [Corazoncito](https://open.spotify.com/track/4O7oTlSS1fOAmhdXIhRlIU) | [Guiller](https://open.spotify.com/artist/05qMOtzCy90GhGIvelpvaF) | [El Rey de las Cantinas](https://open.spotify.com/album/2B0w9D8Ras1AmoZnp6DZcP) | 3:12 |
 | 52 | [Loca Ansiedad](https://open.spotify.com/track/4ALC5ZxsZDggCppZcqOrNO) | [Raul Lopez](https://open.spotify.com/artist/0WoNXUXKyGZ4gzN2uJgp6S), [Orquesta de Ricaurte Arias](https://open.spotify.com/artist/7wR8LmVjcmGvqdOHZGhWAr) | [Loca Ansiedad](https://open.spotify.com/album/2JGjsZpQxsRZlNobxeLr4s) | 2:55 |
 | 53 | [Escándalo / Luz y Sombra](https://open.spotify.com/track/3L1iwOmLRPkzYLf8IPNZuJ) | [Tania Libertad](https://open.spotify.com/artist/2nvZRZAeuKXzsntCKFHTKh) | [Mucho Corazón](https://open.spotify.com/album/7vJaotg3rgAIezud8FO4QU) | 3:11 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 | 59 | [Lo Que Quiera Lola](https://open.spotify.com/track/6443igXMStgLhDvCveDZfQ) | [Bobby Capo](https://open.spotify.com/artist/4HtNNYomY2s6l36CdhOqWW) | [Canta](https://open.spotify.com/album/3cAzDp7oyxsh1nJiEfWoJr) | 2:46 |
 | 60 | [Sendas Distintas](https://open.spotify.com/track/1dDww9N6QpAVCo8wGLbqjv) | [Trío Los Brillantes](https://open.spotify.com/artist/34IbPLLHZ8mgTheWAToL2S) | [Época de Oro](https://open.spotify.com/album/6XW6Ia3kWV7xtS4r8frSWx) | 3:14 |
 
-Snapshot ID: `MCxlOWVkN2RiMzU1YmYzMzBkYWQ4NTMwODc5NmM0NzRiZWQ0ZjJjNWNj`
+Snapshot ID: `MCwxNTBhYWIxMDViNTc2NDFhZDYzOGNjNDAxNWY2NTBkN2Q2MGUyMzFl`

@@ -4,7 +4,7 @@
 
 > The defining songs of the riot grrrl era, and the bands keeping their spirit alive\. Cover: Sleater\-Kinney
 
-136 songs - 6 hr 39 min
+137 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Celebrity Skin](https://open.spotify.com/track/4xlo4oy4TEoUVEOP7wIGlH) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Femei de zece](https://open.spotify.com/album/7kX2JgtQpRHZMOhrDPb8JP) | 2:42 | 2021-06-11 | 2022-11-13 |
 | [Cents Cents Money Money](https://open.spotify.com/track/4hESSfpi81WtBmaWxQN5b6) | [Blowout](https://open.spotify.com/artist/6JYNcpvRMjgry4ERB6bLLZ) | [No Beer, No Dad](https://open.spotify.com/album/7Am439nHyL7iypSjAIzmP3) | 2:34 | 2021-06-11 | 2022-07-29 |
 | [Cents Cents Money Money](https://open.spotify.com/track/7fTSouGcePc6eJo0I381Hu) | [Blowout](https://open.spotify.com/artist/6JYNcpvRMjgry4ERB6bLLZ) | [No Beer, No Dad \(Redux\)](https://open.spotify.com/album/32J9rARwZWTK6SMggaofZj) | 2:34 | 2021-06-11 |  |
-| [Change](https://open.spotify.com/track/7MKMH83KVivY9v6iiLODQc) | [Cable Ties](https://open.spotify.com/artist/2DHxsgHVEiupQyVWHI1XIW) | [Change](https://open.spotify.com/album/7hP0UgXC1xZWqclmRH6ciz) | 3:57 | 2023-06-02 |  |
+| [Change](https://open.spotify.com/track/6ROa2w2Pw6ThrLdDVSWnfi) | [Cable Ties](https://open.spotify.com/artist/2DHxsgHVEiupQyVWHI1XIW) | [All Her Plans](https://open.spotify.com/album/40apxpu7W5q2csQVcb1XyM) | 3:57 | 2023-06-09 |  |
+| [Change](https://open.spotify.com/track/7MKMH83KVivY9v6iiLODQc) | [Cable Ties](https://open.spotify.com/artist/2DHxsgHVEiupQyVWHI1XIW) | [Change](https://open.spotify.com/album/7hP0UgXC1xZWqclmRH6ciz) | 3:57 | 2023-06-02 | 2023-08-10 |
 | [Cool Schmool](https://open.spotify.com/track/1Ztdel2rhBxoPdRbp9km8z) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Pottymouth \(Remastered\)](https://open.spotify.com/album/0gslg0u8VjLBWPBuInwjsr) | 2:01 | 2021-06-11 |  |
 | [Cool Schmool](https://open.spotify.com/track/5SQhahcpnWJ6AXZ1N4YIvT) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Pottymouth \(Remastered\)](https://open.spotify.com/album/5B3FlfoWVwLazsuELgRcAC) | 2:01 | 2021-06-11 | 2023-04-29 |
 | [Cool Schmool](https://open.spotify.com/track/3piPEvZQsCWNANsNMxH1LU) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Pottymouth](https://open.spotify.com/album/18FoSWsA63ZVL2t859PYv4) | 2:03 | 2021-06-11 | 2022-07-29 |

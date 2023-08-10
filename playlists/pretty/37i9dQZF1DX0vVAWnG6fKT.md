@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 
 > Classic Country from the Legends of the 1940's\.  Where Hillbilly, Texas Swing and Bluegrass came together\. Cover: Ernest Tubb
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,967 likes - 70 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,057 likes - 70 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 16 | [Blue Moon of Kentucky](https://open.spotify.com/track/3x95FfMhVfB3ZNIufQ1IF3) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [The Essential Bill Monroe \(1945\-1949\)](https://open.spotify.com/album/22ZtRsfdL79zD3AW149x98) | 3:00 |
 | 17 | [Take Me Back To Tulsa](https://open.spotify.com/track/74zBjPCZ1juar6yeglInYv) | [Bob Wills & Tommy Duncan with The Texas Playboys](https://open.spotify.com/artist/3yBtUA2dRBtjPmZcwYfPGE) | [Together Again](https://open.spotify.com/album/6t9dBg7mEjCJdCFJY0hQfX) | 2:34 |
 | 18 | [Chattanoogie Shoe Shine Boy \- 1949 Single Version](https://open.spotify.com/track/7Jf323ttHKUnPylFWiaGl3) | [Red Foley](https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9) | [The Country Music Hall Of Fame](https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ) | 2:49 |
-| 19 | [Deep In the Heart of Texas](https://open.spotify.com/track/6QZp4bkCotnIA1ZHayOvXt) | [Gene Autry](https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs) | [The Essential Gene Autry](https://open.spotify.com/album/3P6M5MLTnlE2sngM0iMvV8) | 2:43 |
+| 19 | [Don't Fence Me In](https://open.spotify.com/track/5UsCMdER0Vrh4uFuef4kHA) | [Roy Rogers](https://open.spotify.com/artist/7Fhopp9XWiqrS7oMw0BKjM) | [Presenting Roy Rogers](https://open.spotify.com/album/6Ev7K0Zabn9e8uzx33ALJm) | 2:52 |
 | 20 | [I Want to Be a Cowboy's Sweetheart](https://open.spotify.com/track/0vm8Va7eps0w4DlQ8QWjFd) | [Patsy Montana](https://open.spotify.com/artist/0I9aDRzQdpLnNbMEZM7RHG), [Prairie Ramblers](https://open.spotify.com/artist/6BULiiddM6bpoauWBhCW2W) | [Presenting Patsy Montana](https://open.spotify.com/album/1KDQrtoBwTKtM703tyQJ41) | 3:10 |
 | 21 | [Honky Tonkin'](https://open.spotify.com/track/20aorkzugOSwPcXGZf9eCv) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW), [Drifting Cowboys](https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml) | [Honky Tonkin \(Expanded Undubbed Edition\)](https://open.spotify.com/album/18qEQEBcLbBiDyAW3d73mU) | 2:46 |
-| 22 | [Don't Fence Me In](https://open.spotify.com/track/5UsCMdER0Vrh4uFuef4kHA) | [Roy Rogers](https://open.spotify.com/artist/7Fhopp9XWiqrS7oMw0BKjM) | [Presenting Roy Rogers](https://open.spotify.com/album/6Ev7K0Zabn9e8uzx33ALJm) | 2:52 |
+| 22 | [Deep In the Heart of Texas](https://open.spotify.com/track/6QZp4bkCotnIA1ZHayOvXt) | [Gene Autry](https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs) | [The Essential Gene Autry](https://open.spotify.com/album/3P6M5MLTnlE2sngM0iMvV8) | 2:43 |
 | 23 | [Sixteen Tons](https://open.spotify.com/track/6Jvw3KvzhMnp67v3wLbc6m) | [Merle Travis](https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q) | [The Merle Travis Story](https://open.spotify.com/album/04OriPpEtgl8y4wjO1qzX0) | 2:57 |
 | 24 | [Wildwood Flower](https://open.spotify.com/track/6LXh42hEpcVLKtUgVkiKZi) | [The Carter Family](https://open.spotify.com/artist/0FRIWJYklnmsll5M6h4gUL) | [Can The Circle Be Unbroken: Country Music's First Family](https://open.spotify.com/album/3ZA3cI7M6Z5rsy7kIFGeMd) | 3:15 |
 | 25 | [Tennessee Waltz](https://open.spotify.com/track/2fzQJzCsURVzw4luzqZPcw) | [Roy Acuff](https://open.spotify.com/artist/7heUyuJw3gZftFZRa1rV6M) | [The Essential Roy Acuff](https://open.spotify.com/album/37wOjBhzeA4FAHWk6z7FsM) | 2:54 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 69 | [Slow Poke](https://open.spotify.com/track/0h45YvcNfRRpf5D34vVgOr) | [Pee Wee King & His Golden West Cowboys](https://open.spotify.com/artist/3iywlJzFl8iYgp3112qt31) | [Nippers 50's\-Vol.1](https://open.spotify.com/album/1qtqjUCRgbkkxWkbOKchJq) | 3:00 |
 | 70 | [Rocky Road Blues](https://open.spotify.com/track/59DfC3QV6rESsMJ6AHq4rA) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [The Essential Bill Monroe](https://open.spotify.com/album/3kAqAMODlj5rjUiqtzlrIo) | 2:33 |
 
-Snapshot ID: `MCw2ZGZjYjI4MTViZTEwZjk0YjdiMTMyOWJkOGViMzBlNDQxMTUyZjlm`
+Snapshot ID: `MCxlZTEyNTAxNDJkMzI3Njg1NTdjZGU5NGZjOWRmNTMzNDcwODg5YTdm`

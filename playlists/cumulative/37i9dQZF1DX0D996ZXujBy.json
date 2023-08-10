@@ -757,6 +757,24 @@
     },
     {
       "album": {
+        "name": "1989 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/34OkZVpuzBa9y40DCy0LPR"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195706,
+      "name": "I Know Places",
+      "url": "https://open.spotify.com/track/2zfgVd034GlUvk7LqBHl6u"
+    },
+    {
+      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
@@ -880,6 +898,24 @@
       "duration_ms": 237580,
       "name": "Jump Then Fall (Taylor\u2019s Version)",
       "url": "https://open.spotify.com/track/2m3ObD945KvpE5y9A1eUWm"
+    },
+    {
+      "album": {
+        "name": "reputation",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214320,
+      "name": "King Of My Heart",
+      "url": "https://open.spotify.com/track/7HuBDWi18s4aJM8UFnNheH"
     },
     {
       "album": {

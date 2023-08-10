@@ -1,12 +1,12 @@
 {
   "description": "Belleza y distorsi\u00f3n imaginada por bandas iberoamericanas. Con te vi en un planetario, en portada.",
-  "num_followers": 25377,
+  "num_followers": 25407,
   "original_name": "Shoegaze & Dreampop en espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwM2FmNWNjOWUzOTQ2OWQwY2E0YWU2ZTQ4MTY3YTM5NWFjYTk2OTBj",
+  "snapshot_id": "MCxjOGUxMmEzY2Q2MjVjYjE2NWQ2YTA4MGU1MWM5NzRiMzBkODM0NWIy",
   "tracks": [
     {
       "added_at": "2023-05-05 06:00:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
+        "name": "Ausencia",
+        "url": "https://open.spotify.com/album/4OAE4XgmFZfiqBmu4UbYDG"
+      },
+      "artists": [
+        {
+          "name": "A Rose Dying In The Rain",
+          "url": "https://open.spotify.com/artist/4KmC9Gvitt2Qf7YqWTtCrG"
+        }
+      ],
+      "duration_ms": 100036,
+      "name": "Ansiedad",
+      "url": "https://open.spotify.com/track/57hPi0hmEHQNMhzpyp9E8P"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
         "name": "Morning Sun",
         "url": "https://open.spotify.com/album/5ASteoHCRzSBltEuaP1kmh"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 282169,
       "name": "Osa Polar",
       "url": "https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
-        "name": "Ausencia",
-        "url": "https://open.spotify.com/album/4OAE4XgmFZfiqBmu4UbYDG"
-      },
-      "artists": [
-        {
-          "name": "A Rose Dying In The Rain",
-          "url": "https://open.spotify.com/artist/4KmC9Gvitt2Qf7YqWTtCrG"
-        }
-      ],
-      "duration_ms": 100036,
-      "name": "Ansiedad",
-      "url": "https://open.spotify.com/track/57hPi0hmEHQNMhzpyp9E8P"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
+        "name": "Entre Desiertos EP",
+        "url": "https://open.spotify.com/album/3Qx9fOPVUCHp3CT42Jbvlw"
+      },
+      "artists": [
+        {
+          "name": "Entre Desiertos",
+          "url": "https://open.spotify.com/artist/6EfZlD0Lw7RsNhDMlHH4YL"
+        }
+      ],
+      "duration_ms": 302000,
+      "name": "Poco a Poco",
+      "url": "https://open.spotify.com/track/6PkkpizxjK7tcPU2uiZmiX"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
         "name": "Granada",
         "url": "https://open.spotify.com/album/2ahPIh1leGLmuF1uIU7idK"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 182284,
       "name": "Granada",
       "url": "https://open.spotify.com/track/2PNFx0BBZpmK1uBm9On8tw"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
-        "name": "Entre Desiertos EP",
-        "url": "https://open.spotify.com/album/3Qx9fOPVUCHp3CT42Jbvlw"
-      },
-      "artists": [
-        {
-          "name": "Entre Desiertos",
-          "url": "https://open.spotify.com/artist/6EfZlD0Lw7RsNhDMlHH4YL"
-        }
-      ],
-      "duration_ms": 302000,
-      "name": "Poco a Poco",
-      "url": "https://open.spotify.com/track/6PkkpizxjK7tcPU2uiZmiX"
     },
     {
       "added_at": "2023-05-05 06:00:00",

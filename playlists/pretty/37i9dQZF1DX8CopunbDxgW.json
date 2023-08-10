@@ -1,12 +1,12 @@
 {
   "description": "The best indie dance tracks of the moment. Cover: ODESZA & Yellow House",
-  "num_followers": 861208,
+  "num_followers": 861348,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDVkZmJhZDA5NTI5ODI0ZmNlYjdkZDBkMjUxY2ZmMDUxZTE0MWI0",
+  "snapshot_id": "MCw3ZDRjNGZmYmE5MGYyYmVkZmFhNjcwNmQ3NWNlMTQyYjM1MzMwNjQ2",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -705,20 +705,44 @@
       "url": "https://open.spotify.com/track/7lWdyj9RrMsEN6F0Dl0irE"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Wait For It",
-        "url": "https://open.spotify.com/album/5OeFKQvrsk29Fpt0mYwgRh"
+        "name": "Peach",
+        "url": "https://open.spotify.com/album/1NR1qk73skJHCcxkXUTRCh"
       },
       "artists": [
         {
           "name": "salute",
           "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
         }
       ],
-      "duration_ms": 239668,
-      "name": "Wait For It",
-      "url": "https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC"
+      "duration_ms": 345310,
+      "name": "Peach",
+      "url": "https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Can't Help But Think About You",
+        "url": "https://open.spotify.com/album/4n8C4vGUmvNgpy4DO34Www"
+      },
+      "artists": [
+        {
+          "name": "Lincoln Jesser",
+          "url": "https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG"
+        },
+        {
+          "name": "EMME",
+          "url": "https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs"
+        }
+      ],
+      "duration_ms": 208185,
+      "name": "Can't Help But Think About You",
+      "url": "https://open.spotify.com/track/43noj7erQp0en3LWB5pBF4"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -747,26 +771,6 @@
       "duration_ms": 240156,
       "name": "Winter Solstice - Braxe + Falcon Remix",
       "url": "https://open.spotify.com/track/5Wa4A6bu00160DzJWdyiC7"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Can't Help But Think About You",
-        "url": "https://open.spotify.com/album/4n8C4vGUmvNgpy4DO34Www"
-      },
-      "artists": [
-        {
-          "name": "Lincoln Jesser",
-          "url": "https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG"
-        },
-        {
-          "name": "EMME",
-          "url": "https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs"
-        }
-      ],
-      "duration_ms": 208185,
-      "name": "Can't Help But Think About You",
-      "url": "https://open.spotify.com/track/43noj7erQp0en3LWB5pBF4"
     },
     {
       "added_at": "2023-03-10 15:28:12",
@@ -825,24 +829,20 @@
       "url": "https://open.spotify.com/track/1hEnVkgNq0t9WFO5Smzq5Y"
     },
     {
-      "added_at": "2023-03-31 04:00:00",
+      "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Peach",
-        "url": "https://open.spotify.com/album/1NR1qk73skJHCcxkXUTRCh"
+        "name": "Wait For It",
+        "url": "https://open.spotify.com/album/5OeFKQvrsk29Fpt0mYwgRh"
       },
       "artists": [
         {
           "name": "salute",
           "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
-        },
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
         }
       ],
-      "duration_ms": 345310,
-      "name": "Peach",
-      "url": "https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N"
+      "duration_ms": 239668,
+      "name": "Wait For It",
+      "url": "https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC"
     },
     {
       "added_at": "2023-07-10 13:50:12",
@@ -897,6 +897,22 @@
       "url": "https://open.spotify.com/track/5yxtxZ7IfGO18XHbRJxtkd"
     },
     {
+      "added_at": "2023-07-10 13:50:12",
+      "album": {
+        "name": "Just The Once",
+        "url": "https://open.spotify.com/album/1GdDtwpkl0nQPormpkSiD5"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        }
+      ],
+      "duration_ms": 204899,
+      "name": "Just The Once",
+      "url": "https://open.spotify.com/track/1r6wNQnDUbhqXawf0s2Mlz"
+    },
+    {
       "added_at": "2023-07-14 14:00:00",
       "album": {
         "name": "Dancing By Night",
@@ -915,22 +931,6 @@
       "duration_ms": 220539,
       "name": "Dancing By Night",
       "url": "https://open.spotify.com/track/1NqpeHsy3Q5E5yM0dntvBa"
-    },
-    {
-      "added_at": "2023-07-10 13:50:12",
-      "album": {
-        "name": "Just The Once",
-        "url": "https://open.spotify.com/album/1GdDtwpkl0nQPormpkSiD5"
-      },
-      "artists": [
-        {
-          "name": "Metric",
-          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
-        }
-      ],
-      "duration_ms": 204899,
-      "name": "Just The Once",
-      "url": "https://open.spotify.com/track/1r6wNQnDUbhqXawf0s2Mlz"
     },
     {
       "added_at": "2023-06-05 14:03:29",
@@ -1029,22 +1029,6 @@
       "url": "https://open.spotify.com/track/4qeIlzP0Z1JFXh0AckDcX8"
     },
     {
-      "added_at": "2023-04-21 17:35:52",
-      "album": {
-        "name": "dopamine",
-        "url": "https://open.spotify.com/album/2emZOQ9v8v9csDYeqDWnE3"
-      },
-      "artists": [
-        {
-          "name": "Madelline",
-          "url": "https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL"
-        }
-      ],
-      "duration_ms": 165461,
-      "name": "dopamine - Version Fran\u00e7aise",
-      "url": "https://open.spotify.com/track/4B6eD1nzrz6PNOLMgtT7VX"
-    },
-    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "U Neva",
@@ -1077,40 +1061,20 @@
       "url": "https://open.spotify.com/track/4rMWnKX4szJV3k2FATLdnR"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-04-21 17:35:52",
       "album": {
-        "name": "Can\u2019t Let You Go",
-        "url": "https://open.spotify.com/album/2imS9LbJ227zp5w9I8hgf8"
+        "name": "dopamine",
+        "url": "https://open.spotify.com/album/2emZOQ9v8v9csDYeqDWnE3"
       },
       "artists": [
         {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Little Jet",
-          "url": "https://open.spotify.com/artist/1nviDnP5OhbWuV6jngLYoa"
+          "name": "Madelline",
+          "url": "https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL"
         }
       ],
-      "duration_ms": 173000,
-      "name": "Can\u2019t Let You Go",
-      "url": "https://open.spotify.com/track/3Mi8teeczekyPhn5lgW8li"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "It's Euphoric",
-        "url": "https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69"
-      },
-      "artists": [
-        {
-          "name": "Georgia",
-          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
-        }
-      ],
-      "duration_ms": 221493,
-      "name": "It\u2019s Euphoric",
-      "url": "https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ"
+      "duration_ms": 165461,
+      "name": "dopamine - Version Fran\u00e7aise",
+      "url": "https://open.spotify.com/track/4B6eD1nzrz6PNOLMgtT7VX"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1137,6 +1101,26 @@
       "url": "https://open.spotify.com/track/2TfHuXx68GAVR71kUQttvJ"
     },
     {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Can\u2019t Let You Go",
+        "url": "https://open.spotify.com/album/2imS9LbJ227zp5w9I8hgf8"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Little Jet",
+          "url": "https://open.spotify.com/artist/1nviDnP5OhbWuV6jngLYoa"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Can\u2019t Let You Go",
+      "url": "https://open.spotify.com/track/3Mi8teeczekyPhn5lgW8li"
+    },
+    {
       "added_at": "2023-07-21 04:00:00",
       "album": {
         "name": "All the Good Times Never Die",
@@ -1157,6 +1141,22 @@
       "url": "https://open.spotify.com/track/0c8lmplaH3NgXWus2sVnpM"
     },
     {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "It's Euphoric",
+        "url": "https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69"
+      },
+      "artists": [
+        {
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+        }
+      ],
+      "duration_ms": 221493,
+      "name": "It\u2019s Euphoric",
+      "url": "https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ"
+    },
+    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "Differences",
@@ -1175,26 +1175,6 @@
       "duration_ms": 140806,
       "name": "Differences",
       "url": "https://open.spotify.com/track/5g9Pgt8T9ppNyMtNIGV1pw"
-    },
-    {
-      "added_at": "2023-07-14 14:00:00",
-      "album": {
-        "name": "Let's Break It Down",
-        "url": "https://open.spotify.com/album/1rTS8SMvq0BXmgV3dk2rTL"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        },
-        {
-          "name": "St. Panther",
-          "url": "https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "Let's Break It Down",
-      "url": "https://open.spotify.com/track/29HtjUMEeeAS0y2JdsXhO1"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1221,6 +1201,26 @@
       "url": "https://open.spotify.com/track/4w2PIlbpP4jhc1S9MHUHzb"
     },
     {
+      "added_at": "2023-07-14 14:00:00",
+      "album": {
+        "name": "Let's Break It Down",
+        "url": "https://open.spotify.com/album/1rTS8SMvq0BXmgV3dk2rTL"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        },
+        {
+          "name": "St. Panther",
+          "url": "https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "Let's Break It Down",
+      "url": "https://open.spotify.com/track/29HtjUMEeeAS0y2JdsXhO1"
+    },
+    {
       "added_at": "2023-03-10 15:28:12",
       "album": {
         "name": "Move Me",
@@ -1235,6 +1235,22 @@
       "duration_ms": 231733,
       "name": "Move Me",
       "url": "https://open.spotify.com/track/43tuFT8GAG5mPSktLVcqOY"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Real Cultural Shit",
+        "url": "https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 243759,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS"
     },
     {
       "added_at": "2023-06-30 17:41:56",
@@ -1257,20 +1273,24 @@
       "url": "https://open.spotify.com/track/3HqPsN2UyQAn4QxMJKbs1w"
     },
     {
-      "added_at": "2023-02-24 05:01:00",
+      "added_at": "2023-03-03 18:55:26",
       "album": {
-        "name": "Real Cultural Shit",
-        "url": "https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0"
+        "name": "Lavender Haze (Remixes)",
+        "url": "https://open.spotify.com/album/5LyzI39gkePgpHz38bEQIr"
       },
       "artists": [
         {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
         }
       ],
-      "duration_ms": 243759,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS"
+      "duration_ms": 235932,
+      "name": "Lavender Haze - Jungle Remix",
+      "url": "https://open.spotify.com/track/0ThxqUZ9PwS6n0UT5i1XH6"
     },
     {
       "added_at": "2023-05-05 14:11:14",
@@ -1291,26 +1311,6 @@
       "duration_ms": 212242,
       "name": "Chalk 1.3.3 [2017 Export Wav]",
       "url": "https://open.spotify.com/track/4cNVAgyBsekhIftQjrAdys"
-    },
-    {
-      "added_at": "2023-03-03 18:55:26",
-      "album": {
-        "name": "Lavender Haze (Remixes)",
-        "url": "https://open.spotify.com/album/5LyzI39gkePgpHz38bEQIr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 235932,
-      "name": "Lavender Haze - Jungle Remix",
-      "url": "https://open.spotify.com/track/0ThxqUZ9PwS6n0UT5i1XH6"
     },
     {
       "added_at": "2023-03-10 15:28:12",
@@ -1397,22 +1397,6 @@
       "url": "https://open.spotify.com/track/5KY4shvDTZMZ9wt3piadQ8"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Is U",
-        "url": "https://open.spotify.com/album/4jO5B8uUoYusn8Yb8iSoVo"
-      },
-      "artists": [
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        }
-      ],
-      "duration_ms": 228514,
-      "name": "Is U",
-      "url": "https://open.spotify.com/track/4Z3RGx7Be5plLoIw7i83wX"
-    },
-    {
       "added_at": "2023-04-28 05:14:56",
       "album": {
         "name": "Dummy \u2013 Chrome Sparks Remix",
@@ -1431,6 +1415,22 @@
       "duration_ms": 226908,
       "name": "Dummy \u2013 Chrome Sparks Remix",
       "url": "https://open.spotify.com/track/3VsuqAQ7XXKsygtCGyPzO1"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Is U",
+        "url": "https://open.spotify.com/album/4jO5B8uUoYusn8Yb8iSoVo"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "duration_ms": 228514,
+      "name": "Is U",
+      "url": "https://open.spotify.com/track/4Z3RGx7Be5plLoIw7i83wX"
     },
     {
       "added_at": "2023-04-28 05:14:56",
@@ -1469,6 +1469,22 @@
       "url": "https://open.spotify.com/track/1eMWdrMNzPuGOwsAeKlXBW"
     },
     {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "TANZPARTEI (Mixtape)",
+        "url": "https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "duration_ms": 214545,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/5v44vaBk8hzii64jBFsmUJ"
+    },
+    {
       "added_at": "2023-02-24 05:01:00",
       "album": {
         "name": "Tasty",
@@ -1489,6 +1505,22 @@
       "url": "https://open.spotify.com/track/1mVTQSGoFchL3VVrIa0MeH"
     },
     {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "For Granted",
+        "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 161946,
+      "name": "For Granted",
+      "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
+    },
+    {
       "added_at": "2023-04-28 05:14:56",
       "album": {
         "name": "Replacements (feat. La Roux)",
@@ -1507,38 +1539,6 @@
       "duration_ms": 229960,
       "name": "Replacements (feat. La Roux)",
       "url": "https://open.spotify.com/track/067mO4njSpF7qUEE96lbpH"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "For Granted",
-        "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 161946,
-      "name": "For Granted",
-      "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "TANZPARTEI (Mixtape)",
-        "url": "https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE"
-      },
-      "artists": [
-        {
-          "name": "ATRIP",
-          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
-        }
-      ],
-      "duration_ms": 214545,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/5v44vaBk8hzii64jBFsmUJ"
     },
     {
       "added_at": "2023-06-09 14:15:06",
@@ -1577,6 +1577,22 @@
       "url": "https://open.spotify.com/track/0IngWDycujRx7MPYCqImO0"
     },
     {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Be Quiet, They're Listening",
+        "url": "https://open.spotify.com/album/0EIbZV49z7ETAM1Y2g6PrJ"
+      },
+      "artists": [
+        {
+          "name": "OTR",
+          "url": "https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt"
+        }
+      ],
+      "duration_ms": 237986,
+      "name": "In The Summer",
+      "url": "https://open.spotify.com/track/15wh4sekuZ58WzHW1V33Zi"
+    },
+    {
       "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "Palaces : The Remixes, Pt. 3",
@@ -1601,22 +1617,6 @@
       "url": "https://open.spotify.com/track/6OoLVkHNPsKuPdOBAkhg4r"
     },
     {
-      "added_at": "2023-06-30 17:41:56",
-      "album": {
-        "name": "(I Don't Need A) New Girl",
-        "url": "https://open.spotify.com/album/4TiuZvVjh4Xpti8n3RnFyo"
-      },
-      "artists": [
-        {
-          "name": "Chromeo",
-          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
-        }
-      ],
-      "duration_ms": 273080,
-      "name": "(I Don't Need A) New Girl",
-      "url": "https://open.spotify.com/track/3qHMMDEzTWWayWTEJ84gNk"
-    },
-    {
       "added_at": "2023-05-12 04:00:00",
       "album": {
         "name": "Candle Flame (Opolopo Remix)",
@@ -1637,22 +1637,6 @@
       "url": "https://open.spotify.com/track/6rGww3K64vpXmxa0azKA8L"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Be Quiet, They're Listening",
-        "url": "https://open.spotify.com/album/0EIbZV49z7ETAM1Y2g6PrJ"
-      },
-      "artists": [
-        {
-          "name": "OTR",
-          "url": "https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt"
-        }
-      ],
-      "duration_ms": 237986,
-      "name": "In The Summer",
-      "url": "https://open.spotify.com/track/15wh4sekuZ58WzHW1V33Zi"
-    },
-    {
       "added_at": "2023-07-10 13:50:12",
       "album": {
         "name": "Slugs of Love",
@@ -1667,46 +1651,6 @@
       "duration_ms": 222911,
       "name": "Frisco",
       "url": "https://open.spotify.com/track/10Y0kVI5FFhfPPnfnyEr3Y"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Highlight",
-        "url": "https://open.spotify.com/album/2o7VImHx9FRyTy4gJfSsoP"
-      },
-      "artists": [
-        {
-          "name": "Digitalism",
-          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
-        },
-        {
-          "name": "Softee",
-          "url": "https://open.spotify.com/artist/3uWJaTLnUnp0wZfB5xcdJy"
-        }
-      ],
-      "duration_ms": 219750,
-      "name": "Highlight - Edit",
-      "url": "https://open.spotify.com/track/6Hk8rWDxNUrSL0Paz4LDOF"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Show Me The Money (with Tkay Maidza)",
-        "url": "https://open.spotify.com/album/7L0qZYtIIxyo1B5omj6F4B"
-      },
-      "artists": [
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        }
-      ],
-      "duration_ms": 187058,
-      "name": "Show Me The Money (with Tkay Maidza)",
-      "url": "https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1729,36 +1673,60 @@
       "url": "https://open.spotify.com/track/5TXzZVDo9yl1hc85SBM24m"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "I Been Young",
-        "url": "https://open.spotify.com/album/02uBAyWPtbh8XDDjn7kUUh"
+        "name": "Highlight",
+        "url": "https://open.spotify.com/album/2o7VImHx9FRyTy4gJfSsoP"
       },
       "artists": [
         {
-          "name": "George Clanton",
-          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
+          "name": "Digitalism",
+          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
+        },
+        {
+          "name": "Softee",
+          "url": "https://open.spotify.com/artist/3uWJaTLnUnp0wZfB5xcdJy"
         }
       ],
-      "duration_ms": 299687,
-      "name": "I Been Young",
-      "url": "https://open.spotify.com/track/54rNIPcl3M51J42P1C7NNX"
+      "duration_ms": 219750,
+      "name": "Highlight - Edit",
+      "url": "https://open.spotify.com/track/6Hk8rWDxNUrSL0Paz4LDOF"
     },
     {
-      "added_at": "2023-06-23 04:00:00",
+      "added_at": "2023-06-30 17:41:56",
       "album": {
-        "name": "Tumbling Dice",
-        "url": "https://open.spotify.com/album/5dqQWHakmh0qSdxpML9gbO"
+        "name": "(I Don't Need A) New Girl",
+        "url": "https://open.spotify.com/album/4TiuZvVjh4Xpti8n3RnFyo"
       },
       "artists": [
         {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
         }
       ],
-      "duration_ms": 175991,
-      "name": "Tumbling Dice",
-      "url": "https://open.spotify.com/track/7dkc32UFeMWMIhqpFvBS7H"
+      "duration_ms": 273080,
+      "name": "(I Don't Need A) New Girl",
+      "url": "https://open.spotify.com/track/3qHMMDEzTWWayWTEJ84gNk"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Show Me The Money (with Tkay Maidza)",
+        "url": "https://open.spotify.com/album/7L0qZYtIIxyo1B5omj6F4B"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "duration_ms": 187058,
+      "name": "Show Me The Money (with Tkay Maidza)",
+      "url": "https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp"
     },
     {
       "added_at": "2023-03-10 15:28:12",
@@ -1779,6 +1747,38 @@
       "duration_ms": 207280,
       "name": "No Need 2 Be Sorry, Call Me? (ft. Maverick Sabre)",
       "url": "https://open.spotify.com/track/1DpjVHeNTz2UIXkAd4CBF8"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Tumbling Dice",
+        "url": "https://open.spotify.com/album/5dqQWHakmh0qSdxpML9gbO"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 175991,
+      "name": "Tumbling Dice",
+      "url": "https://open.spotify.com/track/7dkc32UFeMWMIhqpFvBS7H"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "I Been Young",
+        "url": "https://open.spotify.com/album/02uBAyWPtbh8XDDjn7kUUh"
+      },
+      "artists": [
+        {
+          "name": "George Clanton",
+          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
+        }
+      ],
+      "duration_ms": 299687,
+      "name": "I Been Young",
+      "url": "https://open.spotify.com/track/54rNIPcl3M51J42P1C7NNX"
     },
     {
       "added_at": "2023-03-10 15:28:12",
@@ -1817,24 +1817,20 @@
       "url": "https://open.spotify.com/track/7rrPANmUDxWbA9e6rtenLa"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/215YLopesmMe6jOG0hPcMj"
+        "name": "The Pool",
+        "url": "https://open.spotify.com/album/6fMCbvSwgHSnB0BcgVB7m8"
       },
       "artists": [
         {
-          "name": "Tensnake",
-          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
-        },
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+          "name": "Mayer Hawthorne",
+          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
         }
       ],
-      "duration_ms": 209060,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/1hCnHgozKGG5vTlaDG0GU1"
+      "duration_ms": 215893,
+      "name": "The Pool",
+      "url": "https://open.spotify.com/track/0vrk52MOndmqMjtMNYCApR"
     }
   ],
   "unique_name": "metropolis",

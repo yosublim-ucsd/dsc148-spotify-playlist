@@ -1,12 +1,12 @@
 {
   "description": "Your ultimate playlist for the best in Mollywood!\nCover: Thallumala",
-  "num_followers": 65296,
+  "num_followers": 65399,
   "original_name": "Mollywood Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDk2N2VlMzdlMTVmOTM2N2RiYmFkM2I2NzVjNTAxNTI5ZmU2Y2Nk",
+  "snapshot_id": "MCxmNWUyMjg4MWI4OGI4NWRiYWJkNWMwNWU5ZTdhNDJjYmQ2MzM1MmYx",
   "tracks": [
     {
       "added_at": "2022-08-18 06:40:38",
@@ -27,46 +27,6 @@
       "duration_ms": 200000,
       "name": "Manavaalan Thug - From \"Thallumaala\"",
       "url": "https://open.spotify.com/track/0MHiYjjcHNYM9KURa6NveF"
-    },
-    {
-      "added_at": "2023-04-03 05:09:57",
-      "album": {
-        "name": "Ajagajantharam (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0ATmRWQ99XQiT5ctaCFT1q"
-      },
-      "artists": [
-        {
-          "name": "Praseetha Chalakudy",
-          "url": "https://open.spotify.com/artist/0nv6h9cXcWcREAc9yyD0wu"
-        }
-      ],
-      "duration_ms": 202863,
-      "name": "Ollulleru",
-      "url": "https://open.spotify.com/track/5zOOJsiH10rUhnm3ZhGTJU"
-    },
-    {
-      "added_at": "2023-02-13 04:25:09",
-      "album": {
-        "name": "Aadharanjali (From \"Romancham) - Single",
-        "url": "https://open.spotify.com/album/1mqEKGbULaBJ7Rv8r6LTPE"
-      },
-      "artists": [
-        {
-          "name": "Sushin Shyam",
-          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
-        },
-        {
-          "name": "Madhuvanthi Narayan",
-          "url": "https://open.spotify.com/artist/2uKITbMInpFKYeI9ll9fv8"
-        },
-        {
-          "name": "Vinayak Sasikumar",
-          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
-        }
-      ],
-      "duration_ms": 149278,
-      "name": "Aadharanjali (From \"Romancham)",
-      "url": "https://open.spotify.com/track/3jg0GvH2oYHGuy2U7SH4SJ"
     },
     {
       "added_at": "2023-04-03 05:09:57",
@@ -93,6 +53,30 @@
       "url": "https://open.spotify.com/track/3atpk0CnzPpRVbzq3l3EMq"
     },
     {
+      "added_at": "2023-02-13 04:25:09",
+      "album": {
+        "name": "Aadharanjali (From \"Romancham) - Single",
+        "url": "https://open.spotify.com/album/1mqEKGbULaBJ7Rv8r6LTPE"
+      },
+      "artists": [
+        {
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        },
+        {
+          "name": "Madhuvanthi Narayan",
+          "url": "https://open.spotify.com/artist/2uKITbMInpFKYeI9ll9fv8"
+        },
+        {
+          "name": "Vinayak Sasikumar",
+          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
+        }
+      ],
+      "duration_ms": 149278,
+      "name": "Aadharanjali (From \"Romancham)",
+      "url": "https://open.spotify.com/track/3jg0GvH2oYHGuy2U7SH4SJ"
+    },
+    {
       "added_at": "2023-05-15 09:38:30",
       "album": {
         "name": "Sulaikha Manzil (Original Motion Picture Soundtrack)",
@@ -113,44 +97,40 @@
       "url": "https://open.spotify.com/track/3DTtRxqlIhnWKW9WjRQnGj"
     },
     {
-      "added_at": "2023-07-31 07:54:23",
+      "added_at": "2023-02-13 04:25:09",
       "album": {
-        "name": "Adam Joan",
-        "url": "https://open.spotify.com/album/1c0bWXAeQ4tNpIB7Ok3pSo"
+        "name": "Athmave Poo (From \"Romancham\") - Single",
+        "url": "https://open.spotify.com/album/44aS3PHWN0lWZJgqbg0Iai"
       },
       "artists": [
         {
-          "name": "Karthik",
-          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
         },
         {
-          "name": "Deepak Dev",
-          "url": "https://open.spotify.com/artist/5xLhn0Pjced0oiBuLUISr3"
+          "name": "Vinayak Sasikumar",
+          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
         }
       ],
-      "duration_ms": 328542,
-      "name": "Ee Kaattu",
-      "url": "https://open.spotify.com/track/2uddWiAVaH4owVLOHZgjGp"
+      "duration_ms": 216976,
+      "name": "Athmave Poo (From \"Romancham\")",
+      "url": "https://open.spotify.com/track/4AT2lYbyTiXIDc09bIN0V7"
     },
     {
-      "added_at": "2023-07-31 07:45:07",
+      "added_at": "2023-04-03 05:09:57",
       "album": {
-        "name": "Solo (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/743hktib4oAhlPFEtAIDJ4"
+        "name": "Ajagajantharam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0ATmRWQ99XQiT5ctaCFT1q"
       },
       "artists": [
         {
-          "name": "Renuka Arun",
-          "url": "https://open.spotify.com/artist/7vJRDw4tsuuQD9vqJZQRUv"
-        },
-        {
-          "name": "Sooraj S. Kurup",
-          "url": "https://open.spotify.com/artist/0wvji3X9BFRc6KORiVgN8p"
+          "name": "Praseetha Chalakudy",
+          "url": "https://open.spotify.com/artist/0nv6h9cXcWcREAc9yyD0wu"
         }
       ],
-      "duration_ms": 272430,
-      "name": "Sita Kalyanam",
-      "url": "https://open.spotify.com/track/2ZppB7cqsWeEdJgU1TgXxK"
+      "duration_ms": 202863,
+      "name": "Ollulleru",
+      "url": "https://open.spotify.com/track/5zOOJsiH10rUhnm3ZhGTJU"
     },
     {
       "added_at": "2022-06-16 11:57:53",
@@ -173,6 +153,26 @@
       "url": "https://open.spotify.com/track/4BBwON1XG02S4cpYrV10u2"
     },
     {
+      "added_at": "2023-07-31 07:45:07",
+      "album": {
+        "name": "Solo (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/743hktib4oAhlPFEtAIDJ4"
+      },
+      "artists": [
+        {
+          "name": "Renuka Arun",
+          "url": "https://open.spotify.com/artist/7vJRDw4tsuuQD9vqJZQRUv"
+        },
+        {
+          "name": "Sooraj S. Kurup",
+          "url": "https://open.spotify.com/artist/0wvji3X9BFRc6KORiVgN8p"
+        }
+      ],
+      "duration_ms": 272430,
+      "name": "Sita Kalyanam",
+      "url": "https://open.spotify.com/track/2ZppB7cqsWeEdJgU1TgXxK"
+    },
+    {
       "added_at": "2023-07-31 07:54:23",
       "album": {
         "name": "Bangalore Days",
@@ -193,24 +193,24 @@
       "url": "https://open.spotify.com/track/7zxHiMmVLt4LGWpOMqOpUh"
     },
     {
-      "added_at": "2023-02-13 04:25:09",
+      "added_at": "2022-05-17 06:14:03",
       "album": {
-        "name": "Athmave Poo (From \"Romancham\") - Single",
-        "url": "https://open.spotify.com/album/44aS3PHWN0lWZJgqbg0Iai"
+        "name": "Minnal Murali",
+        "url": "https://open.spotify.com/album/3bBt9Y3qQGSDXws5rNSn3x"
       },
       "artists": [
         {
-          "name": "Sushin Shyam",
-          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+          "name": "Marthyan",
+          "url": "https://open.spotify.com/artist/0lOLPZ7YJFRdpjon1K9f4T"
         },
         {
-          "name": "Vinayak Sasikumar",
-          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
         }
       ],
-      "duration_ms": 216976,
-      "name": "Athmave Poo (From \"Romancham\")",
-      "url": "https://open.spotify.com/track/4AT2lYbyTiXIDc09bIN0V7"
+      "duration_ms": 132755,
+      "name": "Thee Minnal",
+      "url": "https://open.spotify.com/track/0MazZtniHdlLigR01rpKEI"
     },
     {
       "added_at": "2023-02-02 06:22:04",
@@ -359,6 +359,26 @@
       "duration_ms": 241475,
       "name": "Thiruvaavaniraavu",
       "url": "https://open.spotify.com/track/5G3hYU6EYSFRX4JsXxR3aF"
+    },
+    {
+      "added_at": "2023-07-31 07:54:23",
+      "album": {
+        "name": "Adam Joan",
+        "url": "https://open.spotify.com/album/1c0bWXAeQ4tNpIB7Ok3pSo"
+      },
+      "artists": [
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Deepak Dev",
+          "url": "https://open.spotify.com/artist/5xLhn0Pjced0oiBuLUISr3"
+        }
+      ],
+      "duration_ms": 328542,
+      "name": "Ee Kaattu",
+      "url": "https://open.spotify.com/track/2uddWiAVaH4owVLOHZgjGp"
     },
     {
       "added_at": "2023-07-31 08:33:41",
@@ -1283,26 +1303,6 @@
       "duration_ms": 376057,
       "name": "Raftaara - From \"Lucifer\"",
       "url": "https://open.spotify.com/track/4BnwmUfcnypLs5EGGCljIR"
-    },
-    {
-      "added_at": "2022-05-17 06:14:03",
-      "album": {
-        "name": "Minnal Murali",
-        "url": "https://open.spotify.com/album/3bBt9Y3qQGSDXws5rNSn3x"
-      },
-      "artists": [
-        {
-          "name": "Marthyan",
-          "url": "https://open.spotify.com/artist/0lOLPZ7YJFRdpjon1K9f4T"
-        },
-        {
-          "name": "Sushin Shyam",
-          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
-        }
-      ],
-      "duration_ms": 132755,
-      "name": "Thee Minnal",
-      "url": "https://open.spotify.com/track/0MazZtniHdlLigR01rpKEI"
     },
     {
       "added_at": "2023-07-31 07:45:07",

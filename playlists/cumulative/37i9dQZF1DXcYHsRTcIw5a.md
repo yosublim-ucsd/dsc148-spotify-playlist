@@ -4,7 +4,7 @@
 
 > Get ready, to do, do rocksteady
 
-95 songs - 4 hr 50 min
+96 songs - 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,8 +40,8 @@
 | [Hold Them](https://open.spotify.com/track/3xSaSNc8AdF0P6MCiYL1Me) | [Roy Shirley](https://open.spotify.com/artist/20SfytGDGLIt4yklvZ38wk) | [Unearthed Gold of Rocksteady Vol\. 2](https://open.spotify.com/album/5enppz5hOX0NQo5Jl8B1kZ) | 2:47 | 2014-12-10 | 2022-07-29 |
 | [Hold Them](https://open.spotify.com/track/5iyyttRc4xFRhKzAu02mtw) | [Roy Shirley](https://open.spotify.com/artist/20SfytGDGLIt4yklvZ38wk) | [Unearthed Gold of Rocksteady Vol\. 2](https://open.spotify.com/album/52WLwJ8y3rQypxuB8z0J5t) | 2:47 | 2022-03-28 |  |
 | [How Long Will It Take](https://open.spotify.com/track/6qV95w6RYTspqNEZEIL8rh) | [Pat Kelly](https://open.spotify.com/artist/5mLxA9ySBmpMnMNvx1bEUi) | [Pat Kelly Sings](https://open.spotify.com/album/0d7jbK1edQRiaR4r33CTvv) | 3:13 | 2022-03-28 |  |
-| [I Want to Go Home](https://open.spotify.com/track/2nlZ72XBv9MQOUKbIaBoiq) | [Derrick Morgan](https://open.spotify.com/artist/2RM3xqQNdhZknQBsyQl3ZM) | [The Trojan: Rocksteady Collection](https://open.spotify.com/album/5qyd5jrhsQhtwyxSZbI9k8) | 2:19 | 2022-03-28 |  |
-| [I Want to Go Home](https://open.spotify.com/track/4c3P8eBnCdNp5yHhVNKEN7) | [Derrick Morgan](https://open.spotify.com/artist/2RM3xqQNdhZknQBsyQl3ZM) | [The Trojan: Rocksteady Collection](https://open.spotify.com/album/4PlCsYKkF8FFTAMtWV4w3P) | 2:21 | 2014-12-10 | 2022-07-29 |
+| [I Want to Go Home](https://open.spotify.com/track/2nlZ72XBv9MQOUKbIaBoiq) | [Derrick Morgan](https://open.spotify.com/artist/2RM3xqQNdhZknQBsyQl3ZM) | [The Trojan: Rocksteady Collection](https://open.spotify.com/album/5qyd5jrhsQhtwyxSZbI9k8) | 2:19 | 2022-03-28 | 2023-08-10 |
+| [I Want to Go Home](https://open.spotify.com/track/4c3P8eBnCdNp5yHhVNKEN7) | [Derrick Morgan](https://open.spotify.com/artist/2RM3xqQNdhZknQBsyQl3ZM) | [The Trojan: Rocksteady Collection](https://open.spotify.com/album/4PlCsYKkF8FFTAMtWV4w3P) | 2:21 | 2014-12-10 |  |
 | [I Wish It Would Rain](https://open.spotify.com/track/6ObXssCmMOmaUdRMoW8Lpg) | [The Techniques](https://open.spotify.com/artist/7aSGHNg5TRgbrzaUclcNAK) | [Treasure Isle Presents: Rock Steady](https://open.spotify.com/album/3nNuXJadrSzqTJKY2jDU94) | 2:22 | 2018-04-23 |  |
 | [In the Summertime](https://open.spotify.com/track/5l3HpuhW2UTa13ouM1ugug) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [The Big Hits](https://open.spotify.com/album/12lWmChSdOo8lMY5kXM17k) | 2:33 | 2022-03-28 |  |
 | [Inna Mi Yard](https://open.spotify.com/track/407r6o2UR7ihF66Iwa5yht) | [Freddie McKay](https://open.spotify.com/artist/6BI5BLDBy5dY19EI2cw1P1) | [King Tubby Meets The Reggae Masters](https://open.spotify.com/album/0tBV1HtGWymEvkbPqt3aSg) | 4:20 | 2022-03-28 | 2022-11-13 |
@@ -65,7 +65,8 @@
 | [Never Found a Girl](https://open.spotify.com/track/7JeKEYyHe1D7IseeOrPSeH) | [Cornell Campbell](https://open.spotify.com/artist/1FOvLj8sNCGHjgueUOVvJi) | [Trojan Lovers Collection](https://open.spotify.com/album/0dqxC81crojSFb0MHjagaQ) | 3:53 | 2014-12-10 | 2022-07-29 |
 | [Never Found a Girl](https://open.spotify.com/track/5OUARD27TGfCPSnuJh9xo7) | [Cornell Campbell](https://open.spotify.com/artist/1FOvLj8sNCGHjgueUOVvJi) | [Trojan Lovers Collection](https://open.spotify.com/album/5EuOQL9gsUcmO3khx4JSCG) | 3:54 | 2022-03-28 |  |
 | [OK Fred](https://open.spotify.com/track/2uFwTMJkdPPjIzXWsNbG2a) | [Errol Dunkley](https://open.spotify.com/artist/228y2DiGvQkteqDD2dUZDD) | [O.K Fred](https://open.spotify.com/album/176NRa0L5If0XRPAUWznDx) | 3:45 | 2014-12-10 |  |
-| [Old Fashioned Way](https://open.spotify.com/track/531hkX8V30OYiB4zfjypy5) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [Everything I Own \- The Definitive Collection](https://open.spotify.com/album/0fkvv6IpX8t20FO0dlIHY3) | 2:33 | 2022-03-28 |  |
+| [Old Fashioned Way](https://open.spotify.com/track/531hkX8V30OYiB4zfjypy5) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [Everything I Own \- The Definitive Collection](https://open.spotify.com/album/0fkvv6IpX8t20FO0dlIHY3) | 2:33 | 2022-03-28 | 2023-08-10 |
+| [Old Fashioned Way](https://open.spotify.com/track/1zaOPo95mhpYL8wH0UYhGP) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [The Hudson Affair: Keith Hudson and Friends](https://open.spotify.com/album/4gjbZ3Nagkak0TevFBiz4c) | 2:35 | 2022-03-28 |  |
 | [Only a Smile](https://open.spotify.com/track/5bwGUv9VP1m4qmvkRNSqIQ) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On the Beach: The Anthology](https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw) | 2:55 | 2022-03-28 |  |
 | [People Get Ready](https://open.spotify.com/track/1acNnmwigfexbebIeR5qoq) | [Slim Smith](https://open.spotify.com/artist/2PuBpv31beJyhHfvXoku41) | [60 Jamaican Songs We Love from the 60s](https://open.spotify.com/album/0RVZOrUAPA5xyuLITASlF3) | 2:37 | 2022-03-28 | 2022-11-13 |
 | [People Get Ready](https://open.spotify.com/track/3KdUOpPFiJ3FuIclPtEZ2P) | [Slim Smith](https://open.spotify.com/artist/2PuBpv31beJyhHfvXoku41) | [Legend Platinum Edition](https://open.spotify.com/album/5Y9KBlTlXLCviXp1HIrjZu) | 2:37 | 2022-03-28 | 2022-08-20 |

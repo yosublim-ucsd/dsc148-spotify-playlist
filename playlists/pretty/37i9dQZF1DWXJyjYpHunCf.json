@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Noah Kahan",
-  "num_followers": 843772,
+  "num_followers": 844057,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDJlMDMyMDNkZTgwNWY2MmY0M2JjZGNmODc3YTRmMjQyZmE5ZDM3",
+  "snapshot_id": "MCw4MGQ4MWU3NmE4OWZlOGZiY2RjODRhNjA2NGFmNDBjZWQxNzhmMDRj",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -759,6 +759,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 224400,
+      "name": "Like Gold",
+      "url": "https://open.spotify.com/track/6Od2OWvoT4embWAgIGeFRd"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "In These Silent Days",
         "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 230098,
       "name": "You and Me On The Rock (feat. Lucius)",
       "url": "https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 224400,
-      "name": "Like Gold",
-      "url": "https://open.spotify.com/track/6Od2OWvoT4embWAgIGeFRd"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "XOXO",
-        "url": "https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf"
-      },
-      "artists": [
-        {
-          "name": "Family and Friends",
-          "url": "https://open.spotify.com/artist/2AmW5LU0vqfHoN2qvghRFe"
-        }
-      ],
-      "duration_ms": 207519,
-      "name": "Amadeus",
-      "url": "https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "How Do We Stay In Love?",
         "url": "https://open.spotify.com/album/4CPmCif9l0FLCp4jRwu8AR"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 159981,
       "name": "How Do We Stay In Love?",
       "url": "https://open.spotify.com/track/57C2Jt6xUTlN9QVrWSimBJ"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf"
+      },
+      "artists": [
+        {
+          "name": "Family and Friends",
+          "url": "https://open.spotify.com/artist/2AmW5LU0vqfHoN2qvghRFe"
+        }
+      ],
+      "duration_ms": 207519,
+      "name": "Amadeus",
+      "url": "https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "We Still Move on Dance Floors",
-        "url": "https://open.spotify.com/album/1sFCdkWltYD4dqN8JxL6tI"
-      },
-      "artists": [
-        {
-          "name": "The Strumbellas",
-          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
-        }
-      ],
-      "duration_ms": 163893,
-      "name": "In This Life",
-      "url": "https://open.spotify.com/track/38wSbAmV7zNBhYqfzv1m9x"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Light Year (feat. Lennon Stella)",
         "url": "https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 188043,
       "name": "Light Year (feat. Lennon Stella)",
       "url": "https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "We Still Move on Dance Floors",
+        "url": "https://open.spotify.com/album/1sFCdkWltYD4dqN8JxL6tI"
+      },
+      "artists": [
+        {
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+        }
+      ],
+      "duration_ms": 163893,
+      "name": "In This Life",
+      "url": "https://open.spotify.com/track/38wSbAmV7zNBhYqfzv1m9x"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1427,6 +1427,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Think I'm Gonna Love You",
+        "url": "https://open.spotify.com/album/0kR1xeEz90V7N6w6R8RxN7"
+      },
+      "artists": [
+        {
+          "name": "Michal Leah",
+          "url": "https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb"
+        },
+        {
+          "name": "Caleb Hearn",
+          "url": "https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj"
+        }
+      ],
+      "duration_ms": 164494,
+      "name": "Think I'm Gonna Love You",
+      "url": "https://open.spotify.com/track/6BEP2k75mE8u8gHdvxV3mn"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Those Younger Days",
         "url": "https://open.spotify.com/album/0onnJgma2xAAFMYr3lUZbs"
       },
@@ -1495,22 +1515,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Call You in the Morning",
-        "url": "https://open.spotify.com/album/3IO0Epg4XkvOaES3dfTCXB"
-      },
-      "artists": [
-        {
-          "name": "Tom Rosenthal",
-          "url": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
-        }
-      ],
-      "duration_ms": 132309,
-      "name": "Call You in the Morning",
-      "url": "https://open.spotify.com/track/6pmtIWAw69AvKnajOPGVtz"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "I'm Alone, No You're Not",
         "url": "https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG"
       },
@@ -1527,6 +1531,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Call You in the Morning",
+        "url": "https://open.spotify.com/album/3IO0Epg4XkvOaES3dfTCXB"
+      },
+      "artists": [
+        {
+          "name": "Tom Rosenthal",
+          "url": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
+        }
+      ],
+      "duration_ms": 132309,
+      "name": "Call You in the Morning",
+      "url": "https://open.spotify.com/track/6pmtIWAw69AvKnajOPGVtz"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Wonderland",
         "url": "https://open.spotify.com/album/3Qg4NwL9X3k6EUDA6bQ5pC"
       },
@@ -1539,26 +1559,6 @@
       "duration_ms": 212818,
       "name": "Wonderland",
       "url": "https://open.spotify.com/track/29Eswc8MgqA24TyhmyM7Lf"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Think I'm Gonna Love You",
-        "url": "https://open.spotify.com/album/0kR1xeEz90V7N6w6R8RxN7"
-      },
-      "artists": [
-        {
-          "name": "Michal Leah",
-          "url": "https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb"
-        },
-        {
-          "name": "Caleb Hearn",
-          "url": "https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj"
-        }
-      ],
-      "duration_ms": 164494,
-      "name": "Think I'm Gonna Love You",
-      "url": "https://open.spotify.com/track/6BEP2k75mE8u8gHdvxV3mn"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Wildflower",
-        "url": "https://open.spotify.com/album/2Re9wrza8ZH46MUah5tILo"
-      },
-      "artists": [
-        {
-          "name": "The National Parks",
-          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
-        }
-      ],
-      "duration_ms": 217966,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/49tW2u59iX2z2thHLkYYo5"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Jade Bird",
         "url": "https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8"
       },
@@ -1647,18 +1631,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Bored",
-        "url": "https://open.spotify.com/album/4cGUztBrBh5uep9lBJYzP3"
+        "name": "Wildflower",
+        "url": "https://open.spotify.com/album/2Re9wrza8ZH46MUah5tILo"
       },
       "artists": [
         {
-          "name": "Sara Kays",
-          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
+          "name": "The National Parks",
+          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
         }
       ],
-      "duration_ms": 166875,
-      "name": "Bored",
-      "url": "https://open.spotify.com/track/3YQtnh00LIhMqimMUjbS6l"
+      "duration_ms": 217966,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/49tW2u59iX2z2thHLkYYo5"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1679,18 +1663,34 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Half Moon Light",
-        "url": "https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1"
+        "name": "Bored",
+        "url": "https://open.spotify.com/album/4cGUztBrBh5uep9lBJYzP3"
       },
       "artists": [
         {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+          "name": "Sara Kays",
+          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
         }
       ],
-      "duration_ms": 229960,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/0C9uaJt51ytJgwiZpRYyGM"
+      "duration_ms": 166875,
+      "name": "Bored",
+      "url": "https://open.spotify.com/track/3YQtnh00LIhMqimMUjbS6l"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Sidelines",
+        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 186826,
+      "name": "Better When We're Falling Apart",
+      "url": "https://open.spotify.com/track/4wRJHQ84OhCSGzdmeOEon4"
     }
   ],
   "unique_name": "Folk Pop",

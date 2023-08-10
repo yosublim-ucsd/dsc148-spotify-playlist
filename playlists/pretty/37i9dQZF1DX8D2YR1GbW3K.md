@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favourites from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,103 likes - 125 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,198 likes - 125 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,10 +110,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 100 | [Unicorn Zombie Apocalypse](https://open.spotify.com/track/4OpPtBlAU2ayk7rS0SyxlM) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG) | [Unicorn Zombie Apocalypse](https://open.spotify.com/album/3LiqvEGAApFWzK3wr0jjQ3) | 4:37 |
 | 101 | [When A Fire Starts To Burn](https://open.spotify.com/track/7qVLZuvzNjyiy3TVtEBwBE) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Settle \(Deluxe\)](https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs) | 4:44 |
 | 102 | [Off The Hook](https://open.spotify.com/track/6jmTQwFzejCurofZDz7x9k) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Off The Hook](https://open.spotify.com/album/4xFL1dccvsB3Hc5OqB7LmW) | 2:57 |
-| 103 | [Bass Cannon](https://open.spotify.com/track/4u3a1nylBxY8siO7Os4t22) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Bass Cannon](https://open.spotify.com/album/2cmBRFSeVDZVTSPyQG9AoF) | 5:09 |
+| 103 | [Resurrection \- Axwell Recut Radio Version](https://open.spotify.com/track/2DAxxGq7ozovsvgmccwHmC) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9) | [Electronic Music Anthology Vol.4 \(by FG\)](https://open.spotify.com/album/7L2ZHZ0BrbnZu3pe4CuisU) | 2:45 |
 | 104 | [Gold \(feat\. Yuna\)](https://open.spotify.com/track/3wjen23Xb9H1kU4V50QyiZ) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Calling All Heroes](https://open.spotify.com/album/1gLPm1bWZFHv6ORBbEmQPM) | 4:17 |
-| 105 | [Liberate](https://open.spotify.com/track/6X0WsSsMMwam5AzVxlUUzo) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Liberate](https://open.spotify.com/album/2oSsWpEK9fWQ400fNDtf47) | 5:13 |
-| 106 | [Resurrection \- Axwell Recut Radio Version](https://open.spotify.com/track/2DAxxGq7ozovsvgmccwHmC) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9) | [Electronic Music Anthology Vol.4 \(by FG\)](https://open.spotify.com/album/7L2ZHZ0BrbnZu3pe4CuisU) | 2:45 |
+| 105 | [Bass Cannon](https://open.spotify.com/track/4u3a1nylBxY8siO7Os4t22) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Bass Cannon](https://open.spotify.com/album/2cmBRFSeVDZVTSPyQG9AoF) | 5:09 |
+| 106 | [Liberate](https://open.spotify.com/track/6X0WsSsMMwam5AzVxlUUzo) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Liberate](https://open.spotify.com/album/2oSsWpEK9fWQ400fNDtf47) | 5:13 |
 | 107 | [Jaguar](https://open.spotify.com/track/0QcwSZWxpePBVSCbfIJUz6) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi) | [Jaguar](https://open.spotify.com/album/2jKVZKviFNCICo24dK6nJ2) | 4:46 |
 | 108 | [Turbulence \- Radio Edit](https://open.spotify.com/track/1QHGUbaQ6nYmVom7Kykge3) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Turbulence](https://open.spotify.com/album/3rdGp0Ba0xlLylMECnr4rS) | 3:48 |
 | 109 | [You're Gonna Love Again](https://open.spotify.com/track/214tNSr4epshNjQ6W2PTLg) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK) | [Collateral](https://open.spotify.com/album/1CZnMTWdD8cApDRm2wLCZp) | 3:21 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 124 | [Raise Your Weapon](https://open.spotify.com/track/7E1b1A3lGsw4ElaeUmDOJn) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Greta Svabo Bech](https://open.spotify.com/artist/3roqeGESPvLgyx6ZmHQTXY) | [5 Years of mau5](https://open.spotify.com/album/0PManGPRcHlL7fZBoQStK2) | 8:22 |
 | 125 | [Million Voices \- Extended Original Mix](https://open.spotify.com/track/70R53Oq9IegG1kwhxo2Lxm) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Million Voices](https://open.spotify.com/album/6yEb0IID8Uc99lvC3QtWD4) | 5:57 |
 
-Snapshot ID: `MCwxZGYyNGVmMWQyMDA4MzVlN2U2M2ZmZGZmOWFmNjRjYjNmZmQ3ZWFi`
+Snapshot ID: `MCxiOTAxYThhZGQ2YTg0ZmI3NTU5ODk1OTc5NjZkNWZmN2Q0MDFlYzll`

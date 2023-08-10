@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Mt\. Joy & Julia Pratt
 
-1,370 songs - 3 day 11 hr 52 min
+1,372 songs - 3 day 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -821,7 +821,8 @@
 | [Nova to Ba](https://open.spotify.com/track/4xoS6oKefBwdVJ1QXOCPkV) | [Dobrotto](https://open.spotify.com/artist/4AZ0VzgkEfNyNiu3Slr0q8), [Yasmin Williams](https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs) | [Nova to Ba](https://open.spotify.com/album/6fo3RQAeGJZgIDdQWeYLwi) | 2:45 | 2022-04-22 | 2022-08-06 |
 | [novembre](https://open.spotify.com/track/30icGaTYAoxKjczSHfoSG2) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [novembre](https://open.spotify.com/album/66VkskaQjFwIhORK51Ke6S) | 3:05 | 2022-12-02 | 2023-04-15 |
 | [Now And The Evermore](https://open.spotify.com/track/4fKidxQ6IdqXjDfI0ad4Bn) | [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Now And The Evermore](https://open.spotify.com/album/0WZT9a4zQJbblTg45aib8W) | 3:36 | 2022-01-21 | 2022-02-19 |
-| [Nu\-Grape](https://open.spotify.com/track/5DLCGocLoRsi3DpQssO60a) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Nu\-Grape](https://open.spotify.com/album/7IfxZlK1wsSudOfoBqQ3sx) | 3:28 | 2023-06-02 |  |
+| [Nu\-Grape](https://open.spotify.com/track/21r46gpVhsV2zvbfK0aXOK) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [20 Years and a Nickel](https://open.spotify.com/album/02bhRp09k7erA3JsN8BHTz) | 3:28 | 2023-08-04 |  |
+| [Nu\-Grape](https://open.spotify.com/track/5DLCGocLoRsi3DpQssO60a) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Nu\-Grape](https://open.spotify.com/album/7IfxZlK1wsSudOfoBqQ3sx) | 3:28 | 2023-06-02 | 2023-08-10 |
 | [Nye](https://open.spotify.com/track/1I0KSR8Fc55Ba67klces7c) | [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [Nye](https://open.spotify.com/album/3Ra97eYeHQXTw2scDmpkm1) | 2:46 | 2022-07-22 | 2022-10-08 |
 | [October \- True Version 2016](https://open.spotify.com/track/1k3BiftucEjtkjeBncytsW) | [George Ogilvie](https://open.spotify.com/artist/56NSAhpJRoeaGi5uyUdYlI) | [October \(True Version 2016\)](https://open.spotify.com/album/4xvQUDqpswFdfWcYT0rHlu) | 6:01 | 2023-01-13 | 2023-04-29 |
 | [Oh, Shadowless](https://open.spotify.com/track/7zSs0FBaSqrrxDQjWoYKd3) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Wild Creatures](https://open.spotify.com/album/0KGcCenSL9QAN9mhonWfx5) | 2:26 | 2022-04-25 | 2022-07-09 |
@@ -993,7 +994,8 @@
 | [Sheep Song](https://open.spotify.com/track/12c743o30lNiAysRaNu29y) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [Sheep Song](https://open.spotify.com/album/0ETbfyLtecs5wGYVpGdo77) | 3:50 | 2023-06-09 |  |
 | [Shell](https://open.spotify.com/track/2DDJuBWHY6SluN5RczGp7L) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Shell](https://open.spotify.com/album/6esFCGuOOIckYOmpFPxpBL) | 2:20 | 2023-07-28 |  |
 | [Shenandoah](https://open.spotify.com/track/0xdBts7Sz03w77g9sCmKzo) | [Mo Lowda & the Humble](https://open.spotify.com/artist/3P3iJ6AlAdlb4tYAu00Fhk) | [Mo Lowda & the Humble](https://open.spotify.com/album/4qyQfforE8s0Vy1iBHEwuq) | 2:10 | 2023-03-03 | 2023-05-20 |
-| [Shinbone](https://open.spotify.com/track/5tqGsvI2mB9k4rA2ELxmLU) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Shinbone](https://open.spotify.com/album/5JzVleyf5QHPPCHOU9DvXl) | 3:46 | 2023-07-14 |  |
+| [Shinbone](https://open.spotify.com/track/5tqGsvI2mB9k4rA2ELxmLU) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Shinbone](https://open.spotify.com/album/5JzVleyf5QHPPCHOU9DvXl) | 3:46 | 2023-07-14 | 2023-08-10 |
+| [Shinbone](https://open.spotify.com/track/5udxaeL6YV0ToIwekTM4Mt) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [20 Years and a Nickel](https://open.spotify.com/album/02bhRp09k7erA3JsN8BHTz) | 3:46 | 2023-08-04 |  |
 | [Shine](https://open.spotify.com/track/00r8JL55INeWH0qQfiEhsl) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Shine](https://open.spotify.com/album/7lqGzEhPHDWg3B24gDavWd) | 3:31 | 2021-12-17 | 2022-03-12 |
 | [Ships](https://open.spotify.com/track/70hYzsENYfqZ5Pvt3NbGQI) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [Ships](https://open.spotify.com/album/3nx4WZOPdnZ4IcHji1MF1h) | 3:44 | 2022-03-08 | 2022-05-07 |
 | [Shit River](https://open.spotify.com/track/5OBg7sNRgDWjHEVw2rdlnc) | [Barney Cortez](https://open.spotify.com/artist/4wKwoVNNPlgxD8JP1P66IA), [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Shit River](https://open.spotify.com/album/6xNx62zrJoPaNQOLXMbP6y) | 3:10 | 2022-07-08 | 2022-12-03 |

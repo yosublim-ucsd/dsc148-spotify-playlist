@@ -2,9 +2,9 @@
 
 ### [Chill Tracks](https://open.spotify.com/playlist/37i9dQZF1DX6VdMW310YC7)
 
-> Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
+> Música <a href="spotify:genre:edm\_dance">dance</a> suave.
 
-1,503 songs - 4 day 7 hr 34 min
+1,504 songs - 4 day 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,7 @@
 | [Can’t Stop Loving You \- Poolside Mix](https://open.spotify.com/track/31jNPoOdc4AXUJRl4ABbfH) | [M\-22](https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw) | [Can’t Stop Loving You \(Poolside Mix\)](https://open.spotify.com/album/10jta1EMIwQXiGbWFQ5yjW) | 3:01 | 2020-05-22 | 2021-03-06 |
 | [Carry On](https://open.spotify.com/track/6l5O6RzzSuCnwTjy9KQrdm) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Carry On](https://open.spotify.com/album/3p9Ovi8isYNXv6g1xgPCm5) | 3:49 | 2022-10-07 | 2022-11-12 |
 | [Cascade](https://open.spotify.com/track/5p6ayj39ygf7W8nkc8mGw4) | [Nyte](https://open.spotify.com/artist/5FAjeD9eW52qvpik9OsnVp) | [Cascade](https://open.spotify.com/album/407UNoBN8fpl7a5KsCLbo4) | 3:34 | 2021-05-07 | 2022-05-21 |
-| [Catch](https://open.spotify.com/track/0avqD9l3aBJnuMDZMyFPwl) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Catch](https://open.spotify.com/album/4rS56AkPxsyz6CH2qwRRQa) | 4:03 | 2023-03-10 |  |
+| [Catch](https://open.spotify.com/track/0avqD9l3aBJnuMDZMyFPwl) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Catch](https://open.spotify.com/album/4rS56AkPxsyz6CH2qwRRQa) | 4:03 | 2023-03-10 | 2023-08-10 |
 | [Catchfire \(Sun Sun Sun\) \(feat\. Anna Leyne\) \- EDX Radio Edit](https://open.spotify.com/track/5rh9SC5MSOZSgRE3jBqQOY) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw), [Anna Leyne](https://open.spotify.com/artist/7GCoz67CzP8geNIXE7lQrb) | [Catchfire \(Sun Sun Sun\) \[feat\. Anna Leyne\] \[EDX Remix\]](https://open.spotify.com/album/6cHhdl3PLqIPkA06JGK35c) | 2:47 | 2020-05-22 | 2020-07-03 |
 | [Catching Eyes](https://open.spotify.com/track/22Vsz6sIdD97KROSX7oAyq) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Catching Eyes](https://open.spotify.com/album/3rR9PxHvLdjXtOsBGUwWHD) | 4:09 | 2023-02-17 |  |
 | [Catching Eyes](https://open.spotify.com/track/2aUYt0CwHeJLrlgi0akUGp) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Catching Eyes](https://open.spotify.com/album/3vyUE4IyiLM471hbKVQ9i2) | 4:09 | 2022-07-01 | 2023-02-14 |
@@ -677,6 +677,7 @@
 | [Interior \- Edit](https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Interior](https://open.spotify.com/album/4xg4jgWhwTgULqHiIdDbML) | 3:48 | 2021-12-10 | 2022-12-29 |
 | [Into \- Mixed](https://open.spotify.com/track/1Z64JbXJY6Ky1RTECjpdF0) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [Colorscapes Volume One](https://open.spotify.com/album/0n2QULhpm9u9GoTSSJja7i) | 1:48 | 2020-03-16 | 2020-07-03 |
 | [Into the Blue \(feat\. Pearl Andersson\)](https://open.spotify.com/track/5LjUA2CYBNR0Rehpv6XryW) | [Jewelz & Sparks](https://open.spotify.com/artist/50kceDjknh0CjwOko7kx7V), [Sarazar](https://open.spotify.com/artist/7fXsYMwApwATorXlTt95LD), [Pearl Andersson](https://open.spotify.com/artist/4EoSEUWlmLpYGHGNBoThiM) | [Into The Blue \(feat\. Pearl Andersson\)](https://open.spotify.com/album/1E5INJCgL6hInOlqqoucWh) | 2:47 | 2020-05-22 | 2020-07-03 |
+| [Into The Sun \- Chill Mix](https://open.spotify.com/track/4bXeqbONCSECKqU3XpA5eT) | [Latroit](https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK), [Pretty Garter](https://open.spotify.com/artist/0ikHknT4cbqziewzUdqn3y), [Charlz](https://open.spotify.com/artist/6HlbdrXWMFHgFdbIDX9Znv) | [Into The Sun \(Chill Mix\)](https://open.spotify.com/album/7ix2yVIJHAdLNqIbTBeKil) | 2:44 | 2023-08-04 |  |
 | [Intro](https://open.spotify.com/track/4bjeltvdBsWvyGDsZ0QwvH) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Brainsugar](https://open.spotify.com/album/2kywoxchFPj8Xa5odjG4GV) | 2:21 | 2020-05-18 | 2021-03-06 |
 | [Invisible](https://open.spotify.com/track/3XWz7JB2j55qgzeoU8fUkh) | [Serra 9](https://open.spotify.com/artist/6DxnNS3uxLFe4JquJzNgmc), [Deviu](https://open.spotify.com/artist/7IGIJ4SYJmJVQNuYLy1XyH), [Phoebe Tsen](https://open.spotify.com/artist/06Bshz3mErx5BEZxwd4gPE) | [Invisible / Run Around](https://open.spotify.com/album/6NelCU5oYRijFvrAZrF0AO) | 3:54 | 2022-12-28 | 2023-01-06 |
 | [Invitation \(feat\. Yade Lauren\)](https://open.spotify.com/track/5t5e19EoXJGGt3l6XNnRgx) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [Invitation \(feat\. Yade Lauren\)](https://open.spotify.com/album/6Omn0WS6Cp0XFFeEtCoATT) | 2:32 | 2020-05-18 | 2020-07-03 |

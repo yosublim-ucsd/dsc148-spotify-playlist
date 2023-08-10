@@ -4,7 +4,7 @@
 
 > Today's Bluegrass and old time favorites\. Cover: Willie Nelson
 
-455 songs - 1 day 3 hr 25 min
+456 songs - 1 day 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,8 @@
 | [East Virginia Blues](https://open.spotify.com/track/7363fdEckvPjd6ThG23SWK) | [Nicholas Edward Williams](https://open.spotify.com/artist/0jDDdsrqjhvoZD0zbPsc6V) | [Folk Songs for Old Times' Sake](https://open.spotify.com/album/1aer0tW0fu6Zv2XPpDQWBv) | 2:59 | 2021-12-17 | 2022-07-22 |
 | [Edges Run](https://open.spotify.com/track/3LTKKY3qb8MmG3ZfJcfR0x) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk) | 3:14 | 2022-07-22 | 2023-08-05 |
 | [Edges Run](https://open.spotify.com/track/3O6NFigtXvVzT0366H88ao) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/42D84lYZPddM4dpDVNpECv) | 3:14 | 2021-12-17 | 2022-07-28 |
-| [El Dorado](https://open.spotify.com/track/4qL1jujA2oQ2REmXOIonGb) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [El Dorado](https://open.spotify.com/album/01pat6dFkOovUam3FEHaaV) | 4:23 | 2023-04-28 |  |
+| [El Dorado](https://open.spotify.com/track/4qL1jujA2oQ2REmXOIonGb) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [El Dorado](https://open.spotify.com/album/01pat6dFkOovUam3FEHaaV) | 4:23 | 2023-04-28 | 2023-08-10 |
+| [El Dorado](https://open.spotify.com/track/54M6qWsxkihPmM5KBa7LE0) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [City of Gold](https://open.spotify.com/album/3LAherx4Gg7LCOWQo25lBK) | 4:23 | 2023-08-04 |  |
 | [EMD](https://open.spotify.com/track/2VLV2108fW3ZwYIAYpZYHb) | [Pinecastle Records](https://open.spotify.com/artist/05ohk4u1CL6VHaZP0VyWMG), [Scott Vestal](https://open.spotify.com/artist/6dnbsL19QVqDqacfrak5IC), [Randy Kohrs](https://open.spotify.com/artist/1u6uhZzou3OAmwvAiOTunN), [Tim Crouch](https://open.spotify.com/artist/1q7fFBA1aUDCQMhpUAIMxb), [Cody Kilby](https://open.spotify.com/artist/128a425UwZIlWs3LTWeRpP), [Byron House](https://open.spotify.com/artist/6lSbVfPSL0Pa9z1fQfTwfE), [Jonah Horton](https://open.spotify.com/artist/7fqInLhy184lhVDLjSKYal) | [EMD](https://open.spotify.com/album/6EvXb5NjFdjQfLGIPttxcF) | 3:49 | 2022-01-07 | 2022-06-19 |
 | [Empty Square](https://open.spotify.com/track/2JJAhyzA35yZa3wnwg6BQT) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [World On The Ground](https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH) | 3:20 | 2021-12-17 | 2022-07-26 |
 | [Engine Trouble](https://open.spotify.com/track/3J2SefFgx68fw3RI2x2OLx) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Hazard & Fate](https://open.spotify.com/album/2QMo0JFkV5YMSDmwDGR4jX) | 4:45 | 2022-07-22 |  |

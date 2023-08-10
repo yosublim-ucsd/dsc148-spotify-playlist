@@ -330,7 +330,7 @@
       ],
       "date_added": "2020-06-05",
       "date_added_asterisk": true,
-      "date_removed": "2023-04-25",
+      "date_removed": null,
       "duration_ms": 352945,
       "name": "Atlas",
       "url": "https://open.spotify.com/track/664jBL8NgKFYdiMK9bnCcz"
@@ -916,7 +916,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 233009,
       "name": "Dreaming (feat. Bruno Major)",
       "url": "https://open.spotify.com/track/6S9f7k7SeqwkId3qaALw0r"
@@ -1026,7 +1026,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 250291,
-      "name": "Faisal (Envelops Me)",
+      "name": "Faisal (envelops me)",
       "url": "https://open.spotify.com/track/1uyQNwG1sFl7etjFTEHlQp"
     },
     {
@@ -1952,7 +1952,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 187125,
-      "name": "Lydia (Please Make It Better)",
+      "name": "Lydia (please make it better)",
       "url": "https://open.spotify.com/track/04yl0gqAhDRZe3MLAncaiD"
     },
     {
@@ -2046,7 +2046,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 183230,
-      "name": "Me (Heavy)",
+      "name": "Me (heavy)",
       "url": "https://open.spotify.com/track/3MhbnxA1JnksiATu9xyB2c"
     },
     {

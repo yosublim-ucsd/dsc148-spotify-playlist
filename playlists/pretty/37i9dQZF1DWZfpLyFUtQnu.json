@@ -1,12 +1,12 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise.",
-  "num_followers": 57530,
+  "num_followers": 57608,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmNiOWFjMzBmYzA5ZmM0MWIxZWNmZGMxMjY1ZjI5MTAwNjdkMjA0",
+  "snapshot_id": "MCw1NGVlNzA1NjA0M2YwZTM5M2FlZjUyZTFmZGU2NzIxOWZhMzgxZjBm",
   "tracks": [
     {
       "added_at": "2023-04-04 13:10:14",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-04-04 13:10:14",
       "album": {
+        "name": "The Songs (Acoustic)",
+        "url": "https://open.spotify.com/album/7p6VMQCrAaiFiRvg5vnUIJ"
+      },
+      "artists": [
+        {
+          "name": "Axelle Red",
+          "url": "https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw"
+        }
+      ],
+      "duration_ms": 231835,
+      "name": "Sensualit\u00e9",
+      "url": "https://open.spotify.com/track/0C9i6dklnUoFcp1jsP03ud"
+    },
+    {
+      "added_at": "2023-04-04 13:10:14",
+      "album": {
         "name": "Best Of & Variations",
         "url": "https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 290226,
       "name": "Sur un pr\u00e9lude de Bach",
       "url": "https://open.spotify.com/track/5zfkEYXMQPXO7usJOPm7cB"
-    },
-    {
-      "added_at": "2023-04-04 13:10:14",
-      "album": {
-        "name": "The Songs (Acoustic)",
-        "url": "https://open.spotify.com/album/7p6VMQCrAaiFiRvg5vnUIJ"
-      },
-      "artists": [
-        {
-          "name": "Axelle Red",
-          "url": "https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw"
-        }
-      ],
-      "duration_ms": 231835,
-      "name": "Sensualit\u00e9",
-      "url": "https://open.spotify.com/track/0C9i6dklnUoFcp1jsP03ud"
     },
     {
       "added_at": "2023-04-04 13:10:14",

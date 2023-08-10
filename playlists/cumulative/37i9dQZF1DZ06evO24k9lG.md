@@ -4,7 +4,7 @@
 
 > This is Binomio de Oro de América\. The essential tracks, all in one playlist.
 
-52 songs - 4 hr 7 min
+53 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Dime Como Te Olvido](https://open.spotify.com/track/3rlwfFCQsq5GYr2XlKRltD) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Haciendo Historia](https://open.spotify.com/album/4KHJDRsqmmLBODEC4ajvmr) | 4:49 | 2022-12-16 |  |
 | [Distintos Destinos](https://open.spotify.com/track/3klDMS8I5WdQMD82aAhbha) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Seguimos Por Lo Alto](https://open.spotify.com/album/5XNXhNFKS5oCCcVWKKKzR0) | 3:41 | 2022-12-16 |  |
 | [El Diario](https://open.spotify.com/track/53Gc3Ruoh4VXdhl7LxxfVF) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Vallenato sin Fronteras](https://open.spotify.com/album/6TQF1j65iXgZu90zgTWCnw) | 4:37 | 2022-12-16 |  |
+| [El Forastero](https://open.spotify.com/track/6uz1ZeeLDnuadYCDXi83aH) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Lo Nuestro](https://open.spotify.com/album/3jUFTOiJjPAVAgCdz2NipN) | 4:55 | 2023-08-09 |  |
 | [Grafiti De Amor](https://open.spotify.com/track/2FHxgJPddTyNKFU8UNXEg8) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Vallenato sin Fronteras](https://open.spotify.com/album/6TQF1j65iXgZu90zgTWCnw) | 4:29 | 2022-12-16 | 2023-05-27 |
 | [Hoy Me Di Cuenta](https://open.spotify.com/track/3jz0yIwy75UoCgyNMwlVT9) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Seguimos Por Lo Alto](https://open.spotify.com/album/5XNXhNFKS5oCCcVWKKKzR0) | 4:54 | 2022-12-16 |  |
 | [Impredecible](https://open.spotify.com/track/0cNy83OqUpNDJ0OfHcoodK) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Impredecible](https://open.spotify.com/album/2SDcMM27B25Z4ZHfkcVqA0) | 4:41 | 2022-12-16 |  |

@@ -4,7 +4,7 @@
 
 > Lo mejor de la nueva\. Foto: legallyrxx
 
-207 songs - 10 hr 49 min
+208 songs - 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Como Nunca](https://open.spotify.com/track/5qaa2uIoOJHpym5V1vgXw4) | [Mati Gómez](https://open.spotify.com/artist/23mC5tLCbMk9zqrR2dFtNE), [Bala](https://open.spotify.com/artist/2NCWhIDKWeV5nF4HpvkxNL) | [Como Nunca](https://open.spotify.com/album/15Pr6sIxq3SuTMqvKoyY2z) | 3:03 | 2022-05-13 | 2022-05-27 |
 | [Como Si Nada](https://open.spotify.com/track/2ECKWYbTPpKvtnKiRiUQqC) | [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Como Si Nada](https://open.spotify.com/album/25baT12B8EsCMIjKVCztUi) | 2:36 | 2022-05-13 |  |
 | [COMO TE VEO](https://open.spotify.com/track/0A2hY1pA45fdkd4TtIyyTN) | [Darho](https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq) | [COMO TE VEO](https://open.spotify.com/album/0Qvobw139ix8zLlfLjjtKC) | 3:26 | 2022-05-13 | 2023-07-22 |
+| [COMO TE VEO](https://open.spotify.com/track/0UhTJB22OyfSp4sbYz0MSa) | [Darho](https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq) | [COMO TE VEO](https://open.spotify.com/album/7JdT4amYapsoKhOvZYT2tE) | 3:26 | 2023-06-29 |  |
 | [Como Ñengo \(feat\. Jota Rosa\)](https://open.spotify.com/track/4xvYZWvfmL7FnWJHZhV1VS) | [Club16](https://open.spotify.com/artist/2MXDat5eYxVcnHht0N2uSF), [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Jota Rosa](https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80) | [Como Ñengo \(feat\. Jota Rosa\)](https://open.spotify.com/album/1D0xvI1Mz6Wv0TpTa6UAhC) | 3:24 | 2022-08-26 |  |
 | [Completa](https://open.spotify.com/track/6UZjOADNdSQOBmi0lafs5B) | [Amesty](https://open.spotify.com/artist/7ydulAijh9CshP34VMrzuy), [Omar K11](https://open.spotify.com/artist/5MgAfWCS0vzouE9lVzwjJy), [Thomaz](https://open.spotify.com/artist/0oJmDwK2QxYDXfkdlTvc4C) | [Completa](https://open.spotify.com/album/4YPZ6oBBlkzgR0tufiBXC3) | 3:14 | 2022-05-13 | 2022-07-28 |
 | [Con To'](https://open.spotify.com/track/3mesqg1ztOmGuZIjQcszCX) | [LASTMONDAY](https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN) | [Con To'](https://open.spotify.com/album/7lpYfSfvsIkfRZphob0YWr) | 2:44 | 2022-10-28 | 2022-11-19 |
@@ -111,7 +112,7 @@
 | [MARGARITA](https://open.spotify.com/track/308riuOIFK07a1PV34B0rt) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [MARGARITA](https://open.spotify.com/album/1eyhaoTknvItzUpYYLmx6S) | 2:08 | 2022-05-13 | 2022-07-25 |
 | [Maria](https://open.spotify.com/track/35v3dtkDxd4WjQrZwPlQXz) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Maria](https://open.spotify.com/album/6jSBlDo6haE2UWMaXwQTY6) | 2:05 | 2023-04-28 |  |
 | [MASOQUISTA](https://open.spotify.com/track/7b9OQbIxgbcAx1szYPCWPT) | [Abril Singer](https://open.spotify.com/artist/0wZ9WDL6cOLiD45dj8eHo1) | [MASOQUISTA](https://open.spotify.com/album/1nxeC19wJ5XHqnGw2JVkSV) | 3:01 | 2022-05-13 | 2022-06-04 |
-| [Me Juquie](https://open.spotify.com/track/7jIcZC9pSpkAuokhCZOtLn) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Me Juquie](https://open.spotify.com/album/7uHa5H6yYjxgh0ek8Tc2Yk) | 2:38 | 2022-05-13 |  |
+| [Me Juquie](https://open.spotify.com/track/7jIcZC9pSpkAuokhCZOtLn) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Me Juquie](https://open.spotify.com/album/7uHa5H6yYjxgh0ek8Tc2Yk) | 2:38 | 2022-05-13 | 2023-08-10 |
 | [Me Pone Mal \- Remix](https://open.spotify.com/track/00i9bEJQVjHAoAxOQNcbzY) | [Mathew](https://open.spotify.com/artist/3d2n85YLj0M861ScqWEhmC), [Eix](https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5), [Lionixx](https://open.spotify.com/artist/0yymwngsR8Fvujwv41ePj9) | [Me Pone Mal \(Remix\)](https://open.spotify.com/album/1a66GtpDwQ8X2WBxrTXr2J) | 3:16 | 2022-05-13 | 2022-07-24 |
 | [Mi Fanatica](https://open.spotify.com/track/4M3UPGNere257tK0Qguga2) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Bayriton](https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [Mi Fanatica](https://open.spotify.com/album/5w21QO36y3jDzjy0QkhduY) | 3:43 | 2022-05-13 |  |
 | [Mi Gata](https://open.spotify.com/track/6J8lLpZoRCmB5pTrnB5jpV) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [El Barto](https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP) | [Mi Gata](https://open.spotify.com/album/3q8hLBzvjSHKczrS3ScvSO) | 3:22 | 2022-05-13 |  |

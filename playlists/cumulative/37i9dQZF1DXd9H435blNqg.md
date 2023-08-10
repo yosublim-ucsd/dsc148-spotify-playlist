@@ -4,7 +4,7 @@
 
 > A different shade of the blues\. Cover: Dan Auerbach
 
-116 songs - 6 hr 31 min
+117 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,8 +21,9 @@
 | [Bulletproof \- Tangle Eye Mix](https://open.spotify.com/track/6iy2u83vc4L95HS3JYxSQs) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Kill Or Be Kind](https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA) | 5:19 | 2021-02-12 |  |
 | [Bump that Mother](https://open.spotify.com/track/5UOyPqtOZwwwGIyp375MyE) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [Up and Rolling](https://open.spotify.com/album/5jEiXH4G09AiHqBkEm2ZMM) | 3:11 | 2021-02-12 |  |
 | [Can't Nobody Stop Us](https://open.spotify.com/track/2rMBpAO4Nyb80MriqR0GuV) | [Bhi Bhiman](https://open.spotify.com/artist/6OukdlNSOR1SoGNF7v0d2C) | [Peace of Mind](https://open.spotify.com/album/1GD79gaA6JEDwdSnWh29vJ) | 3:14 | 2021-02-12 | 2022-07-29 |
-| [Can't Nobody Stop Us](https://open.spotify.com/track/2vi2Ihuxx5yTU0tLR7AdnZ) | [Bhi Bhiman](https://open.spotify.com/artist/6OukdlNSOR1SoGNF7v0d2C) | [Peace of Mind](https://open.spotify.com/album/4Yqxa1d27Fd6G1lNUpQ9Xq) | 3:14 | 2022-08-31 |  |
+| [Can't Nobody Stop Us](https://open.spotify.com/track/2vi2Ihuxx5yTU0tLR7AdnZ) | [Bhi Bhiman](https://open.spotify.com/artist/6OukdlNSOR1SoGNF7v0d2C) | [Peace of Mind](https://open.spotify.com/album/4Yqxa1d27Fd6G1lNUpQ9Xq) | 3:14 | 2022-08-31 | 2023-08-10 |
 | [Can't Nobody Stop Us](https://open.spotify.com/track/3vYpSRPpjAa6meFbsFyCv1) | [Bhi Bhiman](https://open.spotify.com/artist/6OukdlNSOR1SoGNF7v0d2C) | [Peace of Mind](https://open.spotify.com/album/1zVOWqWdzJILGp06SBmTel) | 3:14 | 2021-02-12 | 2023-04-30 |
+| [Can't Nobody Stop Us](https://open.spotify.com/track/6Wkh1qQ7LEK7d4E95iU4Ec) | [Bhi Bhiman](https://open.spotify.com/artist/6OukdlNSOR1SoGNF7v0d2C) | [Peace of Mind](https://open.spotify.com/album/7pj606uTFy3ChmOXdXZBbw) | 3:14 | 2022-08-31 |  |
 | [Can't Stop The Bleeding \(feat\. Gary Clark Jr\. & Gramatik\)](https://open.spotify.com/track/79DQcqdOuzHH5g0fI8KShf) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [Can't Stop The Bleeding \(feat\. Gary Clark Jr\. & Gramatik\)](https://open.spotify.com/album/4G0HVKhUTFI2sqM4CZdN2B) | 4:38 | 2021-02-12 |  |
 | [Chocolate Samurai](https://open.spotify.com/track/4UtHodK1fk12jrvPi2pCcP) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Chocolate Samurai](https://open.spotify.com/album/0iAF0Ac7k0qAZ5AkugkgBX) | 4:55 | 2021-02-12 |  |
 | [Click Click Domino \(feat\. Marcus King\)](https://open.spotify.com/track/4CYl5j3ugKHnfuzilmMxge) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Click Click Domino](https://open.spotify.com/album/4jZkftndOfxPCNaUyeUQfq) | 3:23 | 2022-08-31 |  |

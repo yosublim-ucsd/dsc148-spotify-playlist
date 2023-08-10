@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWwqfy8EHP6.md) - [plain]
 
 > LeeHi's here for you, Hice Creams!
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,038 likes - 67 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,088 likes - 67 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWwqfy8EHP6.md) - [plain]
 | 48 | [Good\-bye Baby \(miss A\)](https://open.spotify.com/track/6ap9rFeRE61g7kuhBJ8pSY) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [SBS K팝 스타 SPECIAL No.3](https://open.spotify.com/album/1t65WXM47FhUyoW4qQa2Yr) | 3:39 |
 | 49 | [Because](https://open.spotify.com/track/6D7LEqbDyCC9FGtXZZ79Dw) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [First Love](https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo) | 4:17 |
 | 50 | [OFFICIAL](https://open.spotify.com/track/6VcH0CquknNzLpI0cmNewJ) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [인크레더블](https://open.spotify.com/artist/0YhDHW8UkDzlw6ZNJtZZXk) | [SEOULITE](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | 3:29 |
-| 51 | [Rolling In The Deep](https://open.spotify.com/track/4CAB7WzQL3cK7BpOGWnONE) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [K팝 스타 SPECIAL No.4](https://open.spotify.com/album/2CFVLRtG7TN232bfi5pmvV) | 4:39 |
+| 51 | [Rolling in the deep \(Adele\)](https://open.spotify.com/track/72jQuoyLGj5tX6XhvlANB6) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SBS K팝 스타 SPECIAL No.4](https://open.spotify.com/album/1uGmaZBEEDXZwNNMHcKPPL) | 4:39 |
 | 52 | [MISSING U](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SEOULITE](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | 4:08 |
 | 53 | [FXXK WIT US](https://open.spotify.com/track/7mIL8AaIEk9OeMqMyJBxAF) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [SEOULITE](https://open.spotify.com/album/4p27GsqUEbfl83iPtt0IcI) | 3:37 |
 | 54 | [Scarecrow](https://open.spotify.com/track/38LCemy4NopfTNkIH423sQ) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Scarecrow](https://open.spotify.com/album/3dk6na7D8EC1eKvZreFLHH) | 4:23 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWwqfy8EHP6.md) - [plain]
 | 56 | [Am I Strange](https://open.spotify.com/track/7zQ3WUdHHU7ORMo7oCrjei) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [First Love](https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo) | 3:35 |
 | 57 | [U Go Girl](https://open.spotify.com/track/3qYgty7NLEqtlp5g3zcaf0) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [K팝 스타 Top 3](https://open.spotify.com/album/2KnJ8hw1rWRdrsnRqo4CQz) | 3:41 |
 | 58 | [On & On \(feat\. Lee Hi\)](https://open.spotify.com/track/2fC4olmcp1E6bVl3PUUUcf) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Reborn](https://open.spotify.com/album/5thIDYwoYFRctQMTN4V6CM) | 4:39 |
-| 59 | [너를 위해](https://open.spotify.com/track/111lT3seN0Pv8o1UyVS1QZ) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SBS K팝 스타 SPECIAL No.1](https://open.spotify.com/album/46KoGLUEOyWGNl40AtJ9es) | 4:34 |
+| 59 | [너를 위해 \(임재범\)](https://open.spotify.com/track/6Jz9hOHzBelNmLS9VBH8e8) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SBS K팝 스타 SPECIAL No\. 1](https://open.spotify.com/album/0PgoKeu5BzbV1bnRNYGqT2) | 4:34 |
 | 60 | [BLUES](https://open.spotify.com/track/4xqloJsOaYurTocR1T3Lb6) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SEOULITE](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | 3:56 |
 | 61 | [Mercy \(Duffy\)](https://open.spotify.com/track/7gQPFz57G4fDsAVMgWsibt) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SBS K팝 스타 SPECIAL No.2](https://open.spotify.com/album/1LXde8OSzesqdDfOgU2DqZ) | 4:01 |
 | 62 | [시간이 흐른뒤](https://open.spotify.com/track/6rxpTJhUS1ki1Iyx56TQNx) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SBS K팝 스타 Top 4](https://open.spotify.com/album/4v99Mj19dKL74LBvNeoDPx) | 3:56 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWwqfy8EHP6.md) - [plain]
 | 66 | [미련한 사랑](https://open.spotify.com/track/2KRm7Iq0GrO3PETShjQbVx) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SBS K팝 스타 Top 7](https://open.spotify.com/album/0PoITVGORG6ZiwsMJub0wE) | 3:37 |
 | 67 | [Don\`t Stop The Music](https://open.spotify.com/track/4GFWSbLd0iJEosvgqvWLxU) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SBS K팝 스타 Top 8](https://open.spotify.com/album/1RxTY8pxYuPtpBscVqHFVJ) | 2:47 |
 
-Snapshot ID: `MCxhYWU0NDEyMjJjYzM0NDM2NWE0ZjY2YWMzZDkzMmNiMWI5NDE1MzJi`
+Snapshot ID: `MCw2ZDlkNDBjOWY3OTliOWJiMDFlODdkNTJkNWY0MzcxNmIzNWNkYjAz`

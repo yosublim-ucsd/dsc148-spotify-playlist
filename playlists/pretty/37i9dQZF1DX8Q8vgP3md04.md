@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 
 > Hit music from Ethiopia's finest.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,735 likes - 60 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,746 likes - 60 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 | 13 | [Birabiroye](https://open.spotify.com/track/63CHnczvavEof74GIzfmp5) | [Betty G](https://open.spotify.com/artist/0DhTQscKk7XJt49yxEyqDV) | [Wegegta](https://open.spotify.com/album/0ZKMte07PAbDkYoMFP500R) | 3:49 |
 | 14 | [Wetat](https://open.spotify.com/track/4bmybzAerSejzAKr5KTJCj) | [Nhatty Man](https://open.spotify.com/artist/12jbtksvQlpVBIFAoLVUQ1) | [Vol ፫](https://open.spotify.com/album/7yRKIIpvDsYHAseBHnon8z) | 3:57 |
 | 15 | [Alena](https://open.spotify.com/track/2L4yROkUCTqOxGAE7i6kst) | [Bisrat Surafel](https://open.spotify.com/artist/0oXAjQZ1LZgOVEqbZKqFKH) | [Alena](https://open.spotify.com/album/0IlHmRP1rWcPy2oSwrroz0) | 4:20 |
-| 16 | [Bel Jalo](https://open.spotify.com/track/7fdcdiAyJqRHeb4XlZnPWK) | [Selamawit Yohannes](https://open.spotify.com/artist/107XXfLHCmU4H5Konxlqg8) | [Bel Jalo](https://open.spotify.com/album/5j7DihU96BB5RahMtS9pKq) | 5:22 |
+| 16 | [Bel Jalo](https://open.spotify.com/track/06ieYukIv45hDz1gaGQCUP) | [Selamawit Yohannes](https://open.spotify.com/artist/107XXfLHCmU4H5Konxlqg8) | [Bel Jalo](https://open.spotify.com/album/0sjuqGgb39JZ2CQf29uIfg) | 5:20 |
 | 17 | [Lageba New](https://open.spotify.com/track/3dUwM1SPDO9WtawRzN1otb) | [Gildo Kassa](https://open.spotify.com/artist/6vL0Hxfu0HWRHF33vKlHIS) | [Lageba New](https://open.spotify.com/album/1cLOZ7hjPx1d5qWUK1ImXY) | 3:37 |
 | 18 | [Keteraraw Mado](https://open.spotify.com/track/3BxMUw1RudApjSG9emnP5K) | [Jano Band](https://open.spotify.com/artist/29rBOow0bKfFfNXRSzZrBm) | [Lerasih New](https://open.spotify.com/album/0uz6rUwEMsK4pHO39fsapv) | 6:22 |
 | 19 | [Debdabew](https://open.spotify.com/track/3SZkTKou5arG4fI4O2krPE) | [Jacky Gosee](https://open.spotify.com/artist/1ZS1gBpPCK7yHhFjwTwxGh) | [Debdabew](https://open.spotify.com/album/6EnCinWmYu4RLO4hHfK593) | 3:59 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 | 59 | [Teywa](https://open.spotify.com/track/1wmNXWGVkLxaJNYWNV8oq5) | [Aman](https://open.spotify.com/artist/10H83AFY6wbiZCiOd8guQR) | [Studio 30 Volume 1](https://open.spotify.com/album/3BGMxmK1XEj84UosGYTk61) | 3:05 |
 | 60 | [Atiyo](https://open.spotify.com/track/1pNBlWJrub3pRPhoTtXf0j) | [Ephrem Amare](https://open.spotify.com/artist/6l7ED7MvvS43jtq5TUMB95) | [Atiyo](https://open.spotify.com/album/55td4C2TUwzbKOMWT12JwV) | 4:50 |
 
-Snapshot ID: `MCw5MWM2MWNlYjkxMjQ3ZjZkODNlYzUxYTEzZWE5ODhiY2U3ZWEyM2Ri`
+Snapshot ID: `MCwxODAyYjk3YTJmYTBkOWI1YjRiN2M1NGE4YWE2OGQwNjg5ODMzNzA2`

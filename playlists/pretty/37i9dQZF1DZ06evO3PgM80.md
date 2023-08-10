@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 
 > This is Julia Vitória\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,824 likes - 37 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,833 likes - 37 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 | 36 | [Hambre Y Sed](https://open.spotify.com/track/4uMXCCRjkxvw0M8qhbtmtp) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Hambre Y Sed](https://open.spotify.com/album/39B0NsZrMpotIGetBEWNPB) | 6:01 |
 | 37 | [Vem Quebra As Barreiras / Come And Tear Down The Walls](https://open.spotify.com/track/1x1svONmCr8vlNnp3vwE2e) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Vem Quebra As Barreiras / Come And Tear Down The Walls](https://open.spotify.com/album/2wQQRNr2M5AkXMTPK6nQ2h) | 6:06 |
 
-Snapshot ID: `MjgxOTE2NzksMDAwMDAwMDA2ODQwM2Y4Njg0MDkxZmVlM2QwMzQ1MmY5ZjhhNTRlZA==`
+Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDA5Yjc0NDVkYjMyMjBlMDZmNDc3N2Y3ZmMwNThmOWE2Ng==`

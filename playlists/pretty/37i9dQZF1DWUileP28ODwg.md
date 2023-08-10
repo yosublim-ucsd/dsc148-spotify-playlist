@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Big Daddy Weave
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,268 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,455 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,12 +63,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 53 | [To Not Worship You](https://open.spotify.com/track/5hPNvjfHsshgegY71cKdhO) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Always Only Jesus](https://open.spotify.com/album/1nBIuyrdndXAXnbldziVyD) | 3:45 |
 | 54 | [Somebody Loves You](https://open.spotify.com/track/6jOrsBdE4gzgnUuwKjhNdy) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Somebody Loves You](https://open.spotify.com/album/0m1sI2WlgWK2RuYEcB0ExO) | 3:11 |
 | 55 | [I Cry Jesus](https://open.spotify.com/track/0FOa9XhfjDffuC270lfFOG) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [I Cry Jesus](https://open.spotify.com/album/4oaP3NFBWzVfEBlOGm05xo) | 3:38 |
-| 56 | [Fight On My Knees](https://open.spotify.com/track/3XHP45ZQGX9aJDwmtSvyXo) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Fight On My Knees](https://open.spotify.com/album/2x0LzPFomEY4AmIF6hm2BZ) | 3:08 |
-| 57 | [How You Love Me](https://open.spotify.com/track/0gsuWWKdj8JjXEto69wKsd) | [Patrick Mayberry](https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo) | [Holy Spirit Come](https://open.spotify.com/album/1J2AR6hhW7PM7rbJk4O3Xq) | 4:03 |
+| 56 | [How You Love Me](https://open.spotify.com/track/0gsuWWKdj8JjXEto69wKsd) | [Patrick Mayberry](https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo) | [Holy Spirit Come](https://open.spotify.com/album/1J2AR6hhW7PM7rbJk4O3Xq) | 4:03 |
+| 57 | [Fight On My Knees](https://open.spotify.com/track/3XHP45ZQGX9aJDwmtSvyXo) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Fight On My Knees](https://open.spotify.com/album/2x0LzPFomEY4AmIF6hm2BZ) | 3:08 |
 | 58 | [You Got Me](https://open.spotify.com/track/5a7XPZGqVmqfua9pWCOYE3) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [You Got Me](https://open.spotify.com/album/3fQVmAZGCWUknLVRg6jo3i) | 2:52 |
-| 59 | [Nail Scarred Hands](https://open.spotify.com/track/4lUzMhab7SAAQBOCxyG1qo) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Nail Scarred Hands](https://open.spotify.com/album/04sRnc4zX3NEI2Raqfx8JD) | 3:12 |
-| 60 | [Me on Your Mind](https://open.spotify.com/track/28WYdGMY9SGNfJ0SarLbxB) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj), [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Me on Your Mind](https://open.spotify.com/album/5TUX13ACKvoUotFkFgrMvV) | 3:59 |
-| 61 | [I'll Fight for You](https://open.spotify.com/track/4XOw2RRfBVFEmJFm4MDGPm) | [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK) | [I'll Fight for You](https://open.spotify.com/album/59GGbgQ7lQ6dk2Jz8ClAsy) | 2:47 |
+| 59 | [I'll Fight for You](https://open.spotify.com/track/4XOw2RRfBVFEmJFm4MDGPm) | [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK) | [I'll Fight for You](https://open.spotify.com/album/59GGbgQ7lQ6dk2Jz8ClAsy) | 2:47 |
+| 60 | [Nail Scarred Hands](https://open.spotify.com/track/4lUzMhab7SAAQBOCxyG1qo) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Nail Scarred Hands](https://open.spotify.com/album/04sRnc4zX3NEI2Raqfx8JD) | 3:12 |
+| 61 | [Me on Your Mind](https://open.spotify.com/track/28WYdGMY9SGNfJ0SarLbxB) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj), [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Me on Your Mind](https://open.spotify.com/album/5TUX13ACKvoUotFkFgrMvV) | 3:59 |
 | 62 | [Jesus at a Distance](https://open.spotify.com/track/1dWpEnUYgYkJHMT7zXKMh4) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Healer \(Deluxe\)](https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4) | 3:49 |
 | 63 | [That's Enough](https://open.spotify.com/track/1ggtVukTS0C2ifnnD7bzhF) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Enough Already](https://open.spotify.com/album/66BLSGfKnG5NnDZGiBstco) | 3:36 |
 | 64 | [Oxygen](https://open.spotify.com/track/2pOzcg0ID39t34si3387GC) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [The Stonebrook Project](https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU) | 3:26 |
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 68 | [Good Feeling \- Radio Version](https://open.spotify.com/track/7L3dULJxns4VDBBgItRVR6) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Good Feeling \(Radio Version\)](https://open.spotify.com/album/3kT4i3tkyT8FmcuAYUPJjJ) | 2:41 |
 | 69 | [I've Got Joy](https://open.spotify.com/track/6tbDvXVbqENripiP4beZpj) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It \(Deluxe Edition\)](https://open.spotify.com/album/40svdUPxmIoge1BkDNWSDw) | 3:38 |
 | 70 | [The Love Of Jesus](https://open.spotify.com/track/4k8bSAKFhD0yatglhMe83j) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [The Love Of Jesus](https://open.spotify.com/album/6HDPuCrm65idSgMvJMIP6c) | 3:04 |
-| 71 | [Yours To Use](https://open.spotify.com/track/5mSNr3VTEa0JuILanLXLTp) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Yours To Use](https://open.spotify.com/album/55aVf2zLzytvTYuhlSsXYH) | 3:26 |
-| 72 | [Good Morning Mercy](https://open.spotify.com/track/0nujijkZ0Msf6eJo1sZ0Mu) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq), [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Good Morning Mercy](https://open.spotify.com/album/7nTRcESGrQ8Qvq9tj6apGc) | 3:10 |
-| 73 | [No Matter What](https://open.spotify.com/track/0OV98BulGkPOoLuO6ADWit) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [Jordan St\. Cyr](https://open.spotify.com/album/0MCDpmEi7dRHtWtW9U4GXC) | 3:08 |
+| 71 | [No Matter What](https://open.spotify.com/track/0OV98BulGkPOoLuO6ADWit) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [Jordan St\. Cyr](https://open.spotify.com/album/0MCDpmEi7dRHtWtW9U4GXC) | 3:08 |
+| 72 | [Yours To Use](https://open.spotify.com/track/5mSNr3VTEa0JuILanLXLTp) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Yours To Use](https://open.spotify.com/album/55aVf2zLzytvTYuhlSsXYH) | 3:26 |
+| 73 | [Good Morning Mercy](https://open.spotify.com/track/0nujijkZ0Msf6eJo1sZ0Mu) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq), [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Good Morning Mercy](https://open.spotify.com/album/7nTRcESGrQ8Qvq9tj6apGc) | 3:10 |
 | 74 | [What I'm Waiting For](https://open.spotify.com/track/6WJ8948zRpfEmUMgxGrAoK) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Clarity](https://open.spotify.com/album/6KwtJ6Sxu6vO45Di4906m7) | 3:48 |
 | 75 | [I Will Carry You \- Radio Version](https://open.spotify.com/track/7d09yra9jPl1CaxUXHWh1b) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [I Will Carry You \(Radio Version\)](https://open.spotify.com/album/086Mrlmlf2kFVvGD2U7clN) | 3:18 |
 | 76 | [Always](https://open.spotify.com/track/1YoIJ1glQCGAxrPJgnoUCI) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Forever](https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22) | 4:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 99 | [Empty Room](https://open.spotify.com/track/7s7tSNcxZdazOLMICialtd) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Empty Room](https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu) | 3:11 |
 | 100 | [Family Is Family](https://open.spotify.com/track/5uKdbMoQogHBf3H4cJkOY4) | [Rhett Walker](https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP) | [Family Is Family](https://open.spotify.com/album/379EFzbHnMqQgxi3via5Mx) | 2:53 |
 
-Snapshot ID: `MCxlYzgyOGU2YjE0ZjY1YWU0MDAwMjU0ZjQ1ZGE4ZDhlMzEwOTZlOTdk`
+Snapshot ID: `MCw0NWViMjhlOWQ0OWYxNWJjZDdiYjRmYTkyOGM3YjI0OTA0YjM4OWVi`

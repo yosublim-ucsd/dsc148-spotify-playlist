@@ -4,7 +4,7 @@
 
 > This is Davido\. The essential tracks, all in one playlist.
 
-110 songs - 6 hr 8 min
+111 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Sweet in the Middle \(feat\. Wurld, Naira Marley & Zlatan\)](https://open.spotify.com/track/2ylO41DTQwQv1QH1mSP3cH) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Wurld](https://open.spotify.com/artist/4LRCMIDhEBEHDp7L207QlK), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 4:08 | 2021-12-28 | 2023-04-10 |
 | [SWING \(feat\. Normani & Davido\)](https://open.spotify.com/track/5KDfDLEaGAQ2uyuzsWByVa) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [QUAVO HUNCHO](https://open.spotify.com/album/2DjfazR5N3TgXBQ7oVALA1) | 5:03 | 2021-12-28 | 2022-10-13 |
 | [The Best \(feat\. Mayorkun\)](https://open.spotify.com/track/0b4OhI29MieZpxusw0HGEJ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [A Better Time](https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD) | 2:51 | 2021-12-28 |  |
+| [The Code \(Extra\)](https://open.spotify.com/track/761npMu9YRxGnFWmmgj871) | [Twist Berry](https://open.spotify.com/artist/0fu28hAwedCorr59aBDusm), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [The Code \(Extra\)](https://open.spotify.com/album/4iEIzHM9sG7yZw3CEJmwxc) | 2:36 | 2023-08-09 |  |
 | [The Money](https://open.spotify.com/track/0nheubP8e9oOMWw1d6Bz85) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [The Money](https://open.spotify.com/album/6fvuVCY2ORKjNdHdR1GOMU) | 3:41 | 2021-12-28 | 2022-10-13 |
 | [The Sound](https://open.spotify.com/track/7IDSOiSUh8XBA8aQf8eAQU) | [DaVido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Uhuru](https://open.spotify.com/artist/55Q9iFoAZojfxnIvg6lDb2), [DJ Buckz](https://open.spotify.com/artist/3Y4R3beJgTc14iwsKbAV7r) | [The Sound](https://open.spotify.com/album/225uzZhNeDhSpbhYc7Tb6e) | 3:41 | 2022-01-03 | 2022-01-05 |
 | [This Your Body](https://open.spotify.com/track/2cJesgQwggcf3ciGuD6Z1I) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [This Your Body](https://open.spotify.com/album/0Zfc7116wUQI37sJxIVPTI) | 3:32 | 2021-12-28 | 2022-10-30 |

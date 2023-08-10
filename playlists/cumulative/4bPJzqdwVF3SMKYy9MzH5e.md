@@ -4,7 +4,7 @@
 
 > 
 
-1,793 songs - 4 day 1 hr 9 min
+1,795 songs - 4 day 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1423,6 +1423,7 @@
 | [Smells Blood](https://open.spotify.com/track/6ZRxnIHvjN0qTVRwz3PLtO) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [DEVILMAN crybaby \(Original Soundtrack\)](https://open.spotify.com/album/05xPgo0O1tujgg6eDzIfxV) | 1:49 | 2023-02-20 |  |
 | [Smells Like Teen Spirit](https://open.spotify.com/track/75aLTVBSGIquqzQ6AkmK3Q) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind](https://open.spotify.com/album/6yaiubHHJy8N8QcHy3julo) | 5:01 | 2021-08-05 |  |
 | [Smile Boyo](https://open.spotify.com/track/6SHTRuxHS9pM3BJsTn4PcU) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Gawk](https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh) | 3:28 | 2022-06-28 |  |
+| [SMOKE IT OFF!](https://open.spotify.com/track/4mMEvkDeY56be4l7Itb5aZ) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm), [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [SMOKE IT OFF!](https://open.spotify.com/album/4QVkiRbkPGu3KETjFzmf99) | 1:57 | 2023-08-09 |  |
 | [Snakeskin](https://open.spotify.com/track/6c3qhnJnDalbbgC7CAijbn) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) | 3:12 | 2022-11-08 |  |
 | [Snap \- Demo](https://open.spotify.com/track/7zBbLVcp8mSQX2EMjSwNp9) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 2:42 | 2023-03-16 |  |
 | [Snitch](https://open.spotify.com/track/7u9OeO6VCardPfzXlB1rJR) | [Reyn Hartley](https://open.spotify.com/artist/4v1IssGK0vWAyG0eK1aY21) | [Snitch](https://open.spotify.com/album/29ImpsW3v1rMS6KJ4H7SSP) | 2:35 | 2021-08-05 |  |
@@ -1462,6 +1463,7 @@
 | [Stargirl Interlude](https://open.spotify.com/track/5gDWsRxpJ2lZAffh5p7K0w) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Starboy](https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB) | 1:51 | 2022-10-11 |  |
 | [Starry Cat](https://open.spotify.com/track/5KsZOcKZuVgu9bUlQtHXbi) | [Starry Cat](https://open.spotify.com/artist/7lKlhPmLxToffa6icA7vk3) | [Starry Cat](https://open.spotify.com/album/3KVP8EcIWaGWXQHq6uYkvA) | 1:41 | 2022-04-09 |  |
 | [Start a Riot](https://open.spotify.com/track/6V81K1OcvYgHEnCA6A2Qx9) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 2:51 | 2021-08-05 |  |
+| [stay\_w\_me](https://open.spotify.com/track/6tKUMn27YjNOxxjttkI40A) | [m1v](https://open.spotify.com/artist/5pfVvTVQiPCMClDlE3bj0S) | [stay\_w\_me](https://open.spotify.com/album/6tdL42Aa8sREKhNt4t1oNS) | 2:16 | 2023-08-09 |  |
 | [STFU!](https://open.spotify.com/track/0HKr9aqzHBsVNnsUCdH4bw) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) | 3:23 | 2022-02-18 |  |
 | [Stigmata Martyr](https://open.spotify.com/track/4dga7PnLJ870cfrXevpMDi) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [In the Flat Field](https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w) | 3:41 | 2022-05-18 |  |
 | [still feel.](https://open.spotify.com/track/4EcYqXGZ1MOl7gBLcRO9Ya) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [still feel.](https://open.spotify.com/album/4RTurpeSKtgEAvSeEehsiO) | 4:07 | 2022-02-04 |  |

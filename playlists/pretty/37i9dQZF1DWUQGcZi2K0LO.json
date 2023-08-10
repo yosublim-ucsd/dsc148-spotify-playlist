@@ -1,12 +1,12 @@
 {
   "description": "Indian Indie songs we loved the most in 2022. Cover - Aditya A #SpotifyWrapped",
-  "num_followers": 11707,
+  "num_followers": 11733,
   "original_name": "The Best of Indie India 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODRmNDMxMWM2ZTRiNWYxN2MxMGY4MzUxODIwYzdhOWIyM2YzM2Iw",
+  "snapshot_id": "MCxjOGVmZTBmZDRmZDE2NzZlMjE0NjQyYjBmY2RjN2Y5NWM1YjZmZWNj",
   "tracks": [
     {
       "added_at": "2023-08-03 08:32:31",
@@ -319,6 +319,26 @@
       "duration_ms": 243310,
       "name": "Waqt Ki Baatein",
       "url": "https://open.spotify.com/track/0cJTjTH3XVTTJh8F4Uq1db"
+    },
+    {
+      "added_at": "2023-08-03 08:32:31",
+      "album": {
+        "name": "Genesis 1:1",
+        "url": "https://open.spotify.com/album/2YhSRDucqtADBF45V9Ak9f"
+      },
+      "artists": [
+        {
+          "name": "Zaeden",
+          "url": "https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2"
+        },
+        {
+          "name": "Hanita Bhambri",
+          "url": "https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n"
+        }
+      ],
+      "duration_ms": 154434,
+      "name": "KTMBK",
+      "url": "https://open.spotify.com/track/4R8VBRb5nKbEfi1EIA2B7p"
     },
     {
       "added_at": "2023-08-03 08:32:31",
@@ -655,6 +675,26 @@
       "duration_ms": 221666,
       "name": "Zakir",
       "url": "https://open.spotify.com/track/6RtnuC14DOUrvpRgS6WMQX"
+    },
+    {
+      "added_at": "2023-08-03 08:32:31",
+      "album": {
+        "name": "Pink Blue",
+        "url": "https://open.spotify.com/album/0qYhqBhpicb2Kl8oB6YziF"
+      },
+      "artists": [
+        {
+          "name": "Tsumyoki",
+          "url": "https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X"
+        },
+        {
+          "name": "Bharg",
+          "url": "https://open.spotify.com/artist/5mUENA9ewpJd5z9KuwOKrd"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Pink Blue",
+      "url": "https://open.spotify.com/track/3dBnKADF2MmLXM9IopV9Bt"
     },
     {
       "added_at": "2023-08-03 08:32:31",

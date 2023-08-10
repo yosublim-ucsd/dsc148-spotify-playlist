@@ -4,7 +4,7 @@
 
 > Get ready for the final season, nerds\. Listen to the music from Never Have I Ever, new episodes now streaming on Netflix.
 
-186 songs - 11 hr 4 min
+187 songs - 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Fruit Sandwich](https://open.spotify.com/track/3LniCDYIPXcWoG4YRDOXHk) | [Aaron Joseph Russo](https://open.spotify.com/artist/5TYkSC09ELxgz8OEgLRzOU) | [Lasagne](https://open.spotify.com/album/7rcd8t2dKyhQ7g7JFomrxy) | 4:27 | 2023-06-08 |  |
 | [Fuzz](https://open.spotify.com/track/5V1QjzMOsM9JpRyPQzt1DD) | [Computer Magic](https://open.spotify.com/artist/6vhyWw7hIpvfIY9tE94mzP) | [Davos](https://open.spotify.com/album/0NqEhR3T1X5Bn27JAymtlo) | 4:14 | 2023-06-08 |  |
 | [Get Loud](https://open.spotify.com/track/1DGBpebtKnV5VMjFCHqlvU) | [Tia P.](https://open.spotify.com/artist/7uFSEV6cpCa34EnVeJ2hE2), [Redwood](https://open.spotify.com/artist/1b5YY39752Emp5AHkBqhrO) | [Operation \- EP](https://open.spotify.com/album/3EcEzBLZfw31bcYne9lC2A) | 2:53 | 2023-06-08 |  |
-| [Girlfriend](https://open.spotify.com/track/4SNREEuOURKbffglbF47yy) | [Dana Vaughns](https://open.spotify.com/artist/6t6MMOVuuyIWNUypPUkHdo) | [Love So Different](https://open.spotify.com/album/6luXQhVc6UGgByxfZWwBxD) | 2:26 | 2023-06-08 |  |
+| [Girlfriend](https://open.spotify.com/track/3Ioy33oxOkq8A6YGxgK6j9) | [Dana Vaughns](https://open.spotify.com/artist/6t6MMOVuuyIWNUypPUkHdo) | [Love So Different](https://open.spotify.com/album/03PAcIcGukFeOg3m9ML9qS) | 2:26 | 2023-06-08 |  |
+| [Girlfriend](https://open.spotify.com/track/4SNREEuOURKbffglbF47yy) | [Dana Vaughns](https://open.spotify.com/artist/6t6MMOVuuyIWNUypPUkHdo) | [Love So Different](https://open.spotify.com/album/6luXQhVc6UGgByxfZWwBxD) | 2:26 | 2023-06-08 | 2023-08-10 |
 | [Gorgeous \(feat\. Confidence Man\)](https://open.spotify.com/track/1PdWDb9vmawKMxxTt9K0Rc) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [NOSSO RITMO](https://open.spotify.com/album/2swjmTUFsCyIzCWZSExdZZ) | 3:41 | 2023-06-08 |  |
 | [Got It Made \(with Ricky Ducati\)](https://open.spotify.com/track/1sslQ7yjZwiOmEVj6DOo2F) | [Møme](https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX), [Ricky Ducati](https://open.spotify.com/artist/66OCo8OcuPNrW6QLfmn7PE) | [Flashback FM](https://open.spotify.com/album/5wX2uxnrx2KpVEz2enYGD2) | 3:53 | 2023-06-08 |  |
 | [Guilty as Charged](https://open.spotify.com/track/7gpjpw4Sf8YEqpxQrrPIh5) | [ONBC](https://open.spotify.com/artist/3zEICURissr70o7Ndd3E2C) | [Travelmate](https://open.spotify.com/album/3pNASoTTBUZak27ZWzZz2q) | 2:43 | 2023-06-08 |  |

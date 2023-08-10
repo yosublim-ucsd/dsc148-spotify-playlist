@@ -252,7 +252,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 198400,
       "name": "About U",
       "url": "https://open.spotify.com/track/6j0aEMAR0VppYk39s1hnw8"
@@ -2088,7 +2088,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 236800,
       "name": "Crashing",
       "url": "https://open.spotify.com/track/18G8jUP2uoOfUG2fspXF3a"
@@ -5142,7 +5142,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 175200,
       "name": "King",
       "url": "https://open.spotify.com/track/0zLwiYqZEwjS4p85V07uOh"
@@ -7142,7 +7142,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 208000,
       "name": "On The Inside",
       "url": "https://open.spotify.com/track/7ADnLRvlp5yDkC5VKvigOO"
@@ -8258,6 +8258,24 @@
       "duration_ms": 137142,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/2fbgpGt8u8ErxMT2cruio8"
+    },
+    {
+      "album": {
+        "name": "Scared To Love Again",
+        "url": "https://open.spotify.com/album/3JWq7zuTNhKFz6DhfSUVDP"
+      },
+      "artists": [
+        {
+          "name": "Aviella",
+          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178560,
+      "name": "Scared To Love Again",
+      "url": "https://open.spotify.com/track/0yadIA9MoZ46fXzRJuoqHk"
     },
     {
       "album": {

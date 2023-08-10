@@ -4,7 +4,7 @@
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea
 
-145 songs - 13 hr 59 min
+146 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Go Ahead John \(2022 Remaster\)](https://open.spotify.com/track/7dZkodGCc6Z0fTCbB1k5Ue) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Big Fun \(2022 Remaster\)](https://open.spotify.com/album/66ubx5B6Q0Vgl7vbvGWP9h) | 28:27 | 2021-02-12 |  |
 | [Goodbye for Now](https://open.spotify.com/track/2ZLAy0dm2u9NmHSG6dbfNe) | [Nathaniel Cross](https://open.spotify.com/artist/31iZhDu1NFs0PVOnvzAk0t) | [The Description Is Not The Described](https://open.spotify.com/album/6pwCh7X6DU4Kv8qaizQykc) | 7:13 | 2022-02-11 | 2023-05-14 |
 | [Got A Match?](https://open.spotify.com/track/7AWlSSW5n7SXpFEWkRm2Wz) | [Chick Corea Elektric Band](https://open.spotify.com/artist/2ReTnNzaUAM6RgKCtlvMPf) | [The Chick Corea Elektric Band](https://open.spotify.com/album/2qkDoQ10ogP4S4tGAtHSZS) | 5:39 | 2021-02-12 | 2022-07-25 |
+| [Got A Match?](https://open.spotify.com/track/5hqqPJuZVQkTtIos7zS6nD) | [Chick Corea Elektric Band](https://open.spotify.com/artist/2ReTnNzaUAM6RgKCtlvMPf), [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq), [Dave Weckl](https://open.spotify.com/artist/6h0KtnUiBpkxxjvZZPvNSw), [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH) | [The Chick Corea Elektric Band](https://open.spotify.com/album/19XYicKUAhG6g8cNcEHjjx) | 5:39 | 2021-02-12 |  |
 | [Growing Up!](https://open.spotify.com/track/02PJJnPoA2IBc8KzfY9oGi) | [T\-SQUARE](https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie) | [Growing Up!](https://open.spotify.com/album/3i45UQm0FWXa4kTRQNDvb6) | 4:20 | 2021-04-09 | 2022-07-27 |
 | [Growing Up!](https://open.spotify.com/track/37hfrm3nKjMQuCXZXuDNYd) | [T\-SQUARE](https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie) | [FLY! FLY! FLY!](https://open.spotify.com/album/7qDI1mOCvT20YELuoRj7yH) | 4:20 | 2021-04-09 |  |
 | [Guinnevere](https://open.spotify.com/track/3wJ6ua41tikVX68v07Y11V) | [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [Axiom](https://open.spotify.com/album/33FjWExlzwKy3f8nwV43M1) | 10:53 | 2021-02-12 |  |
@@ -83,7 +84,7 @@
 | [Level One](https://open.spotify.com/track/6bTRDQpZ9f7WPhr74KtpvO) | [The Eleventh House](https://open.spotify.com/artist/6gYvM7rw3TCx7cJn4ZDXhi) | [Level One](https://open.spotify.com/album/6AtCu7AMCXsLOW8Isemusi) | 3:02 | 2021-02-12 | 2023-04-21 |
 | [Lockdown Boogie](https://open.spotify.com/track/08eipHpqv6jwKnPnG0BO2n) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Quarantena](https://open.spotify.com/album/21Xe9swhDJKMLwmdMPXsSq) | 5:18 | 2021-02-12 | 2022-09-29 |
 | [Lockdown Boogie](https://open.spotify.com/track/44m5C5PwRPijazjXQJESGG) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Lockdown Boogie](https://open.spotify.com/album/2UQzqEK9yKcIZjY4taxUk9) | 5:18 | 2021-02-12 | 2022-07-29 |
-| [Lost](https://open.spotify.com/track/3jlF4rXXNxK8JRMkfwRYcc) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Legacy](https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm) | 5:56 | 2022-09-23 |  |
+| [Lost](https://open.spotify.com/track/3jlF4rXXNxK8JRMkfwRYcc) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Legacy](https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm) | 5:56 | 2022-09-23 | 2023-08-10 |
 | [Magnetar \(feat\. Adam Deitch & Shaun Martin\)](https://open.spotify.com/track/3L3JqFvXR2Y2W9LhG1ZjE9) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Adam Deitch](https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw), [Shaun Martin](https://open.spotify.com/artist/14Im3li8h1ehG6eM3lersk) | [Magnetar \(feat\. Adam Deitch & Shaun Martin\)](https://open.spotify.com/album/7lE7qB2f0S6IL4aUJjKzA4) | 4:36 | 2021-04-09 |  |
 | [Maiden Voyage](https://open.spotify.com/track/16Z4nsb9LKJ7nTt6Oe5R5L) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Alphonso Johnson](https://open.spotify.com/artist/2rNtnZArzMAimcRCnFrwUU), [Land Richards](https://open.spotify.com/artist/5Qd2Lq0Z0tDjL63Dh9KQ84) | [Maiden Voyage](https://open.spotify.com/album/0TpEB6HzKGBqWIYcP90O4M) | 6:41 | 2022-07-22 | 2023-01-25 |
 | [Make Your Move](https://open.spotify.com/track/0soFv0nJyrRbZ1WBZtir0p) | [Tauk](https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O) | [Make Your Move](https://open.spotify.com/album/5EkzlyKKcUJualXXffkZxC) | 4:26 | 2021-08-27 | 2022-07-29 |

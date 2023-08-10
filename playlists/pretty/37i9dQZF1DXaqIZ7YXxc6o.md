@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Nia Archives
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,885 likes - 112 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,881 likes - 112 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 6 | [Bring It Back](https://open.spotify.com/track/35es3y1iNffNsVFMuEfq10) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG), [Interupt](https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I) | [Bring It Back](https://open.spotify.com/album/6oMZtThtbHbNCXCVtHos8r) | 2:57 |
 | 7 | [Desire \(with Sam Smith\)](https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Desire \(with Sam Smith\)](https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C) | 2:59 |
 | 8 | [Atlantis \(Robin Schulz Presents KOPPY\)](https://open.spotify.com/track/5TdnT5EfvkF6K3jHDe7toT) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [KOPPY](https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO) | [Atlantis \(Robin Schulz Presents KOPPY\)](https://open.spotify.com/album/0RNI2RAuIHHNMDF4AuqkKz) | 3:02 |
-| 9 | [More Chi](https://open.spotify.com/track/6by1wPJT2gLlnfrA703YiC) | [Amelia Mae](https://open.spotify.com/artist/2mlEVDENPoAC4gyJ3oVPNs), [Marta Kodo](https://open.spotify.com/artist/4glMWevvVN3XkRvES9Btnb) | [More Chi / Yoorana](https://open.spotify.com/album/0umJeZyBeS64N3lXFhHb78) | 6:32 |
+| 9 | [More Chi](https://open.spotify.com/track/6by1wPJT2gLlnfrA703YiC) | [Amelia Mae](https://open.spotify.com/artist/0eqVO1N0uefempAQJUpFNN), [Marta Kodo](https://open.spotify.com/artist/4glMWevvVN3XkRvES9Btnb) | [More Chi / Yoorana](https://open.spotify.com/album/0umJeZyBeS64N3lXFhHb78) | 6:32 |
 | 10 | [French Tips](https://open.spotify.com/track/5VCYB5UNYkTjuLDYyNYFeb) | [WIIGZ](https://open.spotify.com/artist/0mh9FUIglCeBXhVTYqjhaB) | [French Tips](https://open.spotify.com/album/4saCZxuzwVZhZsCEa1mYeT) | 2:56 |
 | 11 | [Dance With Me](https://open.spotify.com/track/4EMdz0MKKPuIKR8QixkSOm) | [Kevin Kitchen](https://open.spotify.com/artist/1frnLEtoWx5nh5DA2szsUT), [CLUBWRK](https://open.spotify.com/artist/1SBbv5nJw69OqrklyYaaWg) | [Dance With Me](https://open.spotify.com/album/4sxxnU52NlKjVXWLoeAoUa) | 1:54 |
 | 12 | [Spring \(feat\. Riverine\)](https://open.spotify.com/track/4oCjOVKYVwPbi1ufU3uuC1) | [L D R U](https://open.spotify.com/artist/2RnDmyX1zzOkK5Cj9QPhMq), [Fitch](https://open.spotify.com/artist/4R1KJqQAvnwb0ChZWqTege), [Riverine](https://open.spotify.com/artist/6JDUp5zPbGZ5tTHVgf3dbm) | [Spring \(feat\. Riverine\)](https://open.spotify.com/album/2hL3SJp6luM6I3LZbpf4w9) | 3:02 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 111 | [Sweet Disposition \- Ben Renna Remix](https://open.spotify.com/track/7AhqyyZeflvu7VURW4EFI2) | [Fitch](https://open.spotify.com/artist/4R1KJqQAvnwb0ChZWqTege), [Emile Battour](https://open.spotify.com/artist/7LNI86kENOKWF35DjHr4rT), [Ben Renna](https://open.spotify.com/artist/5r6JYWpMM18hqLYIXtdM8p) | [Sweet Disposition \(Ben Renna Remix\)](https://open.spotify.com/album/52KZR73cXdUSLtW5cMeAml) | 4:05 |
 | 112 | [Cascabel \(feat\. Alé Kumá, G4bba\)](https://open.spotify.com/track/54XLaoN02yA172fUlhsXKW) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Stafford Brothers](https://open.spotify.com/artist/1dnbud9cuozLQ86MtrDPFr), [Alé Kumá](https://open.spotify.com/artist/5GcgHApquo93JDlpKJ5lu0), [G4BBA](https://open.spotify.com/artist/1P4pmBbuQwsKKV39MfzGVd) | [Cascabel \(feat\. Alé Kumá, G4bba\)](https://open.spotify.com/album/5QA1TPQekOSmmz2W6nF76m) | 2:31 |
 
-Snapshot ID: `MCxlZTk4ZDE5YTAwMDI0ZWQ3MmY5MGQ0YTUxZWU5ODk5ODNlYzlmMTYx`
+Snapshot ID: `MCxkMGVlYmY3Mzc4NTU3NDM0YzgwMGNmOWZmZGQxMjIxNTFjNjFjMzk1`

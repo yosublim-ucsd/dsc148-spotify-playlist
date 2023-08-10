@@ -1105,6 +1105,24 @@
     },
     {
       "album": {
+        "name": "Subject to Change",
+        "url": "https://open.spotify.com/album/0tUNlUVBHtya0RTVv4Gd6e"
+      },
+      "artists": [
+        {
+          "name": "Katelyn Tarver",
+          "url": "https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160720,
+      "name": "Glad I Got You",
+      "url": "https://open.spotify.com/track/2M3hPwrDVmH6xdeITvfxqe"
+    },
+    {
+      "album": {
         "name": "Subject To Change",
         "url": "https://open.spotify.com/album/0r94JScFZwwTDVTo4YXwpx"
       },
@@ -1134,7 +1152,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 133773,
       "name": "Haunted House",
       "url": "https://open.spotify.com/track/6A6A6VJtMLsPKyHxNlYT5h"

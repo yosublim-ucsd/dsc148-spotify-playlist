@@ -4,7 +4,7 @@
 
 > La psicodelia tropical latinoamericana y sus alucinantes ritmos.
 
-100 songs - 6 hr 21 min
+101 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Me Robaron Mi Runa Mula](https://open.spotify.com/track/5uCqb0M2YZMMvuKiXIf70a) | [Juaneco Y Su Combo](https://open.spotify.com/artist/4sTcgUXJRSvSQHei3ZQUBR) | [El Gran Cacique](https://open.spotify.com/album/6J6cfGUzdbLPKHBUWXFrXJ) | 3:12 | 2021-10-20 |  |
 | [Mi Gran Dolor](https://open.spotify.com/track/3XVA4rOpkLVHtrkCiCxiFh) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Mi Gran Dolor](https://open.spotify.com/album/62iKnAAlp6vwalTBkRCC3Y) | 4:14 | 2023-03-16 |  |
 | [Mi Vida sin tu Amor \(featuring Miño\)](https://open.spotify.com/track/63TFbfWD0zH9Y2tf3uqoRB) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V), [Miño](https://open.spotify.com/artist/4ceRa2fprkKr9byxABIyTf) | [Batuco](https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX) | 5:28 | 2021-10-20 |  |
+| [Mientras Unos Mueren](https://open.spotify.com/track/4Au25kOuJcI84LrekAcikd) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G) | [Pase lo Que Pase](https://open.spotify.com/album/0VpJRPCHSMXQpI1LGJx179) | 3:44 | 2021-10-20 |  |
 | [Mil Versiones](https://open.spotify.com/track/54KcGCuNHyFmL4kzIAr31s) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Mil Versiones](https://open.spotify.com/album/5icUeEDMPIULprCFm2hnh7) | 2:25 | 2021-10-20 |  |
 | [Ninfa de la Villa](https://open.spotify.com/track/4S60MLok7rmgOwRE3vBB0G) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Cosmic Wacho](https://open.spotify.com/album/5sBh9UXGoeqgNCpNVGYQD1) | 3:09 | 2021-10-20 |  |
 | [No Pares Hasta Tener lo Suficiente \(Don't Stop 'til You Get Enough\)](https://open.spotify.com/track/57xHD2Q6xWgwr60WzB72Uw) | [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Los Miticos del Ritmo](https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6) | 2:54 | 2021-10-20 |  |
@@ -100,7 +101,7 @@
 | [Thai Cumbia](https://open.spotify.com/track/4nwvjS6LoAXGtQnvJKJuMY) | [Rolando Bruno](https://open.spotify.com/artist/6lxsLBQooRKATCql5xjXfP) | [Bailazo](https://open.spotify.com/album/190UZl9plvUecfZplaAhRs) | 3:45 | 2021-10-20 |  |
 | [The Link Is About to Die](https://open.spotify.com/track/3lDFlqULROOUzjDtO5iNdU) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Let the Festivities Begin!](https://open.spotify.com/album/4MyJz5sB4YHeKVtlc9gt7x) | 3:48 | 2022-02-15 |  |
 | [Todos tenemos hogar](https://open.spotify.com/track/0TS5b5bVfUtGi2VOimdjIH) | [Los Pirañas](https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq) | [Historia natural](https://open.spotify.com/album/6R4jGvcdmRiF8wL6yqp34N) | 3:43 | 2021-10-20 |  |
-| [Tu y Yo](https://open.spotify.com/track/1JadQMSwfzMBZ9h3ymjPx0) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G), [El Palmas](https://open.spotify.com/artist/607tUX31sF7QoJVbCx3r6Y), [Grupo Almendra](https://open.spotify.com/artist/59wBrEGZ8dlFTu48CxK6AK) | [Color de Trópico \(Compiled By El Dragón Criollo y El Palmas\)](https://open.spotify.com/album/0x29QRFTQuq7LvSwfEDHcz) | 4:28 | 2021-10-20 |  |
+| [Tu y Yo](https://open.spotify.com/track/1JadQMSwfzMBZ9h3ymjPx0) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G), [El Palmas](https://open.spotify.com/artist/607tUX31sF7QoJVbCx3r6Y), [Grupo Almendra](https://open.spotify.com/artist/59wBrEGZ8dlFTu48CxK6AK) | [Color de Trópico \(Compiled By El Dragón Criollo y El Palmas\)](https://open.spotify.com/album/0x29QRFTQuq7LvSwfEDHcz) | 4:28 | 2021-10-20 | 2023-08-10 |
 | [Un Silbido Amoroso](https://open.spotify.com/track/548qXG0DVSXKPuQ51EuvcK) | [Los Wembler's de Iquitos](https://open.spotify.com/artist/09o5k3t1L2ZxhJBnIERJxT) | [Cumbia Beat Volume 1](https://open.spotify.com/album/55Zzh7zGhuAF0YnlpbjV0S) | 2:35 | 2021-10-20 |  |
 | [Un Traguito de Ayahuasca](https://open.spotify.com/track/0rKZ4KpPcZYccV9U0k6Ms9) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Corazón Amazónico](https://open.spotify.com/album/5zHjFssUijXLJqVV27VCgS) | 3:19 | 2021-10-20 |  |
 | [Vaivén](https://open.spotify.com/track/1g1kzzTZN4AIabY9e1WolT) | [Cumbiasound](https://open.spotify.com/artist/1iW2PQWBqrMqT3yNfcHrVv), [José Pereelanga](https://open.spotify.com/artist/7m2kK4kAhIxwRVWaoTQUjO), [Lis Flores Varela](https://open.spotify.com/artist/1J5GfFHQdauwIzc38Wib1C), [Boogie Castillo](https://open.spotify.com/artist/3y7a1cuQlXDJmonftCDqbj) | [Cosas Del Universo](https://open.spotify.com/album/036AR7pZFfjmQ6wX2c2dCk) | 3:57 | 2021-10-20 |  |

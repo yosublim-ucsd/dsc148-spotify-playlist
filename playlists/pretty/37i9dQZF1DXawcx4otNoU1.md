@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 
 > For those cozy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,189 likes - 150 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,304 likes - 150 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,9 +116,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 106 | [Fast Car \- Acoustic](https://open.spotify.com/track/6pZZ4FUkivhTGlVR8FZXE6) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms) | [Greatest Covers Ever](https://open.spotify.com/album/4Q95NiPxJUIr8sT7qRlZts) | 3:37 |
 | 107 | [Love Like This](https://open.spotify.com/track/1CxR9OHSHSxl8kgSl5HViD) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Love Like This](https://open.spotify.com/album/2NqU0KLx0Wp0dYZywmV55z) | 4:10 |
 | 108 | [Crowded Places](https://open.spotify.com/track/6kNMg11e0ApnTmExdayfA1) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Crowded Places](https://open.spotify.com/album/5kBfpqZQEERHLnFCDGoX9D) | 4:22 |
-| 109 | [Always](https://open.spotify.com/track/1omCB9Mch8tYugUptnJ0vw) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Only Ticket Home](https://open.spotify.com/album/6JpQ684RhKhJJK9ZDIDT88) | 4:07 |
-| 110 | [Last One](https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s), [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Last One](https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq) | 3:01 |
-| 111 | [Talk Luv](https://open.spotify.com/track/40rBLdeF1oAdGnX54xAddv) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Talk Luv](https://open.spotify.com/album/33vKJjr5IBomO5PhKQcVAX) | 2:44 |
+| 109 | [Talk Luv](https://open.spotify.com/track/40rBLdeF1oAdGnX54xAddv) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Talk Luv](https://open.spotify.com/album/33vKJjr5IBomO5PhKQcVAX) | 2:44 |
+| 110 | [Always](https://open.spotify.com/track/1omCB9Mch8tYugUptnJ0vw) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Only Ticket Home](https://open.spotify.com/album/6JpQ684RhKhJJK9ZDIDT88) | 4:07 |
+| 111 | [Last One](https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s), [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Last One](https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq) | 3:01 |
 | 112 | [Lips On You](https://open.spotify.com/track/5ezKhlg0ZwDPgOtMCoQt1S) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH) | 3:36 |
 | 113 | [Memories](https://open.spotify.com/track/1PDAEpGPDZ0QGWNt3C5Dck) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Ayra Starr](https://open.spotify.com/album/3drpxIB5lrsy5SOmVCoPwc) | 2:35 |
 | 114 | [Great American Novel](https://open.spotify.com/track/1x8huXwyN6cqXVBcUt5fQR) | [Max Jury](https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi) | [Max Jury](https://open.spotify.com/album/3sGSTThYpx4Udjl0IeuJhZ) | 3:55 |
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 120 | [Can You Take It](https://open.spotify.com/track/0sUY0DLOrt3pNWCkvotmYS) | [Aáyanna](https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P) | [Can You Take It](https://open.spotify.com/album/1yytMQgi7xHVil98HEX1FG) | 3:01 |
 | 121 | [So Close To Magic](https://open.spotify.com/track/6aiss5Ofip4rDM88Fs1Yrg) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [So Close To Magic](https://open.spotify.com/album/0U9mWDHfGU2dOySdeHlQh1) | 3:22 |
 | 122 | [Bridge Back to Your Heart](https://open.spotify.com/track/6jxSnB1k1naHtdJNCdzZqk) | [The Beach](https://open.spotify.com/artist/6xqpdCiMM646Q6nAD5n3vO) | [Bridge Back to Your Heart](https://open.spotify.com/album/0nB2e6ErWY7Lpyup9izYVA) | 4:21 |
-| 123 | [Radio](https://open.spotify.com/track/39wqPXxc7NMh8QvcMhMbYt) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Radio](https://open.spotify.com/album/2fnclztAsDqRkHYH5RXKp0) | 3:10 |
-| 124 | [I'm In Love With You](https://open.spotify.com/track/294dYnMUNXBv5oCbDV5Qxh) | [Endre Nordvik](https://open.spotify.com/artist/13BXjgYUjBzIvo5KgVoDPb) | [Suburb Hero](https://open.spotify.com/album/0LuEYOydWvtw06yEO2x3O6) | 3:47 |
+| 123 | [I'm In Love With You](https://open.spotify.com/track/294dYnMUNXBv5oCbDV5Qxh) | [Endre Nordvik](https://open.spotify.com/artist/13BXjgYUjBzIvo5KgVoDPb) | [Suburb Hero](https://open.spotify.com/album/0LuEYOydWvtw06yEO2x3O6) | 3:47 |
+| 124 | [Radio](https://open.spotify.com/track/39wqPXxc7NMh8QvcMhMbYt) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Radio](https://open.spotify.com/album/2fnclztAsDqRkHYH5RXKp0) | 3:10 |
 | 125 | [May I Have This Dance](https://open.spotify.com/track/3YToI74MpP1RN2b2VYlhMQ) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs) | [May I Have This Dance](https://open.spotify.com/album/3SBGlbJgjLYE0Z9kXuuqxC) | 3:31 |
 | 126 | [Wish I Was Right For You](https://open.spotify.com/track/5IpIv7yNJnuCWQLn7dd1aL) | [jens](https://open.spotify.com/artist/71o1oWpLHVDNbfw7TwXKDg) | [Wish I Was Right For You](https://open.spotify.com/album/33sa2eTt4d7hKrf2mr8lZR) | 3:02 |
 | 127 | [Lifetime](https://open.spotify.com/track/1ih7dEWtBbKpIrNo38Hcbn) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [No Longer in the Suburbs](https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8) | 3:09 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 149 | [Keeper](https://open.spotify.com/track/4eAjYQi1Pcimj01jVl9DFO) | [Furns](https://open.spotify.com/artist/0I0pGHj36QgKwEck9Ijbiy) | [Keeper](https://open.spotify.com/album/6diy4RSh46M4H07eFCSywl) | 4:25 |
 | 150 | [Heights](https://open.spotify.com/track/6AeMqCW8yvsUlPbC2euMON) | [Only Girl](https://open.spotify.com/artist/2ZkQAcKkFO60QQybtXDStt) | [Heights](https://open.spotify.com/album/0XDFAkZ0lguLrmkJlq0bRp) | 3:46 |
 
-Snapshot ID: `MCxhYzllMTY2NDdiYjQ1Yzg4YWQ2MTFhYTc3YWIxYThlNGQ3ZGMyZDM5`
+Snapshot ID: `MCw4YjlkMThjOWZlNDYxNTRmODEzNjhhNDQ4MWEwZjFlYWU2Y2EzNWY3`

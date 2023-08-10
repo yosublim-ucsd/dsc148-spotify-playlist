@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "Arthur's Seat",
+        "url": "https://open.spotify.com/album/0tivgjmanrFMrXzNyvUDXm"
+      },
+      "artists": [
+        {
+          "name": "Ciara Lowry",
+          "url": "https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122235,
+      "name": "Arthur's Seat",
+      "url": "https://open.spotify.com/track/5UfjlAF2bBDdlu5AMjAFUu"
+    },
+    {
+      "album": {
         "name": "Take Me Home Country Roads",
         "url": "https://open.spotify.com/album/6OEnQ0KB5WxipXw6ZtRywI"
       },
@@ -484,7 +502,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 172729,
       "name": "Before You go",
       "url": "https://open.spotify.com/track/3m4gh0NRsAwzyGjPoL2o3s"
@@ -2681,6 +2699,24 @@
     },
     {
       "album": {
+        "name": "Last Days of April",
+        "url": "https://open.spotify.com/album/356KV0cpPpgKnxca5zQNPx"
+      },
+      "artists": [
+        {
+          "name": "Lido Danielle",
+          "url": "https://open.spotify.com/artist/4xfdrrJlyc8m3dJS5W59OP"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171724,
+      "name": "Last Days of April",
+      "url": "https://open.spotify.com/track/1S7CCMZhklFA5qQQ7MpRoi"
+    },
+    {
+      "album": {
         "name": "Last rose of summer",
         "url": "https://open.spotify.com/album/338Nnd99DW3NbpDCQUZK89"
       },
@@ -2998,7 +3034,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 239535,
       "name": "Low Hanging Fruit",
       "url": "https://open.spotify.com/track/4Cjmwt8CPG0zusrNcnavxZ"
@@ -3941,6 +3977,24 @@
     },
     {
       "album": {
+        "name": "Shadow Mountain Road",
+        "url": "https://open.spotify.com/album/3ZZ558auGHvycTNuluHWAn"
+      },
+      "artists": [
+        {
+          "name": "Jaimie Escalera",
+          "url": "https://open.spotify.com/artist/3Cbyi7uVS7E3c4XtlEdS0B"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156565,
+      "name": "Shadow Mountain Road",
+      "url": "https://open.spotify.com/track/0Qku1Xmz1hD569s8avKCYn"
+    },
+    {
+      "album": {
         "name": "Shimmering",
         "url": "https://open.spotify.com/album/5QlqAMPDmZlNYGtb14cgdt"
       },
@@ -4046,6 +4100,24 @@
       "duration_ms": 104852,
       "name": "Skyline",
       "url": "https://open.spotify.com/track/285lEr4h595zVTecy0u7Nf"
+    },
+    {
+      "album": {
+        "name": "Skyward Bound",
+        "url": "https://open.spotify.com/album/1RjGs3V6LFFcKkmrzDrGds"
+      },
+      "artists": [
+        {
+          "name": "Victor Lundberg",
+          "url": "https://open.spotify.com/artist/3aPt0ITiKD1r1GXV3RvOUh"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Skyward Bound",
+      "url": "https://open.spotify.com/track/454UgG5EuBzUCUFWG3xUZ1"
     },
     {
       "album": {
@@ -4244,6 +4316,24 @@
       "duration_ms": 98081,
       "name": "Summer Haze",
       "url": "https://open.spotify.com/track/1IrUtiuz3vvVGBrZBURdMh"
+    },
+    {
+      "album": {
+        "name": "Sunbeam",
+        "url": "https://open.spotify.com/album/2PIMTYAFnWmmoBv1cmfTsd"
+      },
+      "artists": [
+        {
+          "name": "Acusticalia",
+          "url": "https://open.spotify.com/artist/0JsktCrX85DtrZ4PWbs3bv"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172250,
+      "name": "Sunbeam",
+      "url": "https://open.spotify.com/track/5qDr76MRaLPELK9SGKHYu4"
     },
     {
       "album": {
@@ -4474,7 +4564,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 155638,
       "name": "The Harvest's Hand",
       "url": "https://open.spotify.com/track/3Jty4TPeUMF2WJLJ8SzpSx"

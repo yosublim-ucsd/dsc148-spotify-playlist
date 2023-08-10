@@ -445,6 +445,24 @@
     },
     {
       "album": {
+        "name": "BAJALE",
+        "url": "https://open.spotify.com/album/5m1xQXMeyO26kZbNlbed0U"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121469,
+      "name": "BAJALE",
+      "url": "https://open.spotify.com/track/4ByrXojPhe3MLymta2rjGK"
+    },
+    {
+      "album": {
         "name": "Bajo Mundo",
         "url": "https://open.spotify.com/album/4IY2qIObKzq3XBsnlJl5Gf"
       },
@@ -882,6 +900,28 @@
       "duration_ms": 147000,
       "name": "Davirito",
       "url": "https://open.spotify.com/track/5aB65kxjdKGNBTVcZKMNvF"
+    },
+    {
+      "album": {
+        "name": "De Caco",
+        "url": "https://open.spotify.com/album/1p8KNlk3ApRkK1zeZyr8ws"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        },
+        {
+          "name": "Ceky Viciny",
+          "url": "https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174471,
+      "name": "De Caco",
+      "url": "https://open.spotify.com/track/44MR7qM3ze5nhsZWPcaPBd"
     },
     {
       "album": {
@@ -1365,6 +1405,24 @@
     },
     {
       "album": {
+        "name": "EL REY",
+        "url": "https://open.spotify.com/album/7pYauh6QDeM7ntQe3CtCir"
+      },
+      "artists": [
+        {
+          "name": "La Manta",
+          "url": "https://open.spotify.com/artist/3omyT5zHz9QmE63xEk10OV"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158826,
+      "name": "EL REY",
+      "url": "https://open.spotify.com/track/1ENSnQofaPvagAqI8yCrI9"
+    },
+    {
+      "album": {
         "name": "El Toro",
         "url": "https://open.spotify.com/album/77cUCnK4xklADFgpBcJDtk"
       },
@@ -1717,6 +1775,24 @@
     },
     {
       "album": {
+        "name": "Gemelo",
+        "url": "https://open.spotify.com/album/5sjmpKKRv9K5YW6KUNs8oX"
+      },
+      "artists": [
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Gemelo",
+      "url": "https://open.spotify.com/track/7lRoOdRCLZfE5rbSQ9wQz0"
+    },
+    {
+      "album": {
         "name": "SABIDURIA",
         "url": "https://open.spotify.com/album/6paK8J7C7IJSK643aahwkc"
       },
@@ -1970,6 +2046,28 @@
       "duration_ms": 129332,
       "name": "JEFE",
       "url": "https://open.spotify.com/track/7oXh6q6b258IofNFNri24n"
+    },
+    {
+      "album": {
+        "name": "Jovensito",
+        "url": "https://open.spotify.com/album/3maRKa7EnzwZ7gob6X1mRh"
+      },
+      "artists": [
+        {
+          "name": "El Pastor RD",
+          "url": "https://open.spotify.com/artist/4plI4LITOF226K197LazKR"
+        },
+        {
+          "name": "Most Wanted La Familia",
+          "url": "https://open.spotify.com/artist/57yFqDKqy5QnBIBAjy2qz6"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194037,
+      "name": "Jovensito",
+      "url": "https://open.spotify.com/track/5F7jb3hn1SaLfepPW4Kz4Z"
     },
     {
       "album": {
@@ -2556,6 +2654,24 @@
       "duration_ms": 178176,
       "name": "MALA",
       "url": "https://open.spotify.com/track/7iVvmOpIfC7axJSK2oZNIJ"
+    },
+    {
+      "album": {
+        "name": "Mala Vida",
+        "url": "https://open.spotify.com/album/29ZVWs7tzEIWdeofoVBRkI"
+      },
+      "artists": [
+        {
+          "name": "Ropi",
+          "url": "https://open.spotify.com/artist/5jA8xd8U1YGn96aGg4MJah"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162722,
+      "name": "Mala Vida",
+      "url": "https://open.spotify.com/track/08duUXnYu2cYXm2dnMGnUJ"
     },
     {
       "album": {
@@ -3488,7 +3604,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 170920,
       "name": "Po Po Po",
       "url": "https://open.spotify.com/track/1dnlWBC8oXaxzDQWtDxies"
@@ -3510,6 +3626,46 @@
       "duration_ms": 157057,
       "name": "Privity Party",
       "url": "https://open.spotify.com/track/4W07r0nA5Xdg3CySVUmiPL"
+    },
+    {
+      "album": {
+        "name": "Quien Dijo",
+        "url": "https://open.spotify.com/album/71APj7u0enlTCdHalW9tAa"
+      },
+      "artists": [
+        {
+          "name": "Yaisel LM",
+          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
+        },
+        {
+          "name": "Hansel El De La H",
+          "url": "https://open.spotify.com/artist/6gwlllidzu0wkRNkXKGDfG"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124137,
+      "name": "Quien Dijo",
+      "url": "https://open.spotify.com/track/1GlVvjF1q1NkP1gjB6NGTy"
+    },
+    {
+      "album": {
+        "name": "Quiero Money",
+        "url": "https://open.spotify.com/album/6VdYsvTc1Lm9DF5QJle6xy"
+      },
+      "artists": [
+        {
+          "name": "Leo Kapell\u00e1n",
+          "url": "https://open.spotify.com/artist/47c8gAXiVZnKF6VcmznjBb"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176589,
+      "name": "Quiero Money",
+      "url": "https://open.spotify.com/track/7rWorauvcIuzavbD05sqfJ"
     },
     {
       "album": {
@@ -3747,6 +3903,24 @@
     },
     {
       "album": {
+        "name": "Sorprendeme",
+        "url": "https://open.spotify.com/album/0yEsVqPVQDyLWAOxvghL4N"
+      },
+      "artists": [
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Sorprendeme",
+      "url": "https://open.spotify.com/track/2xg6TN2gnemvt19f9W5P4m"
+    },
+    {
+      "album": {
         "name": "Susu",
         "url": "https://open.spotify.com/album/30h62ee5kOBlpi2GH7SQbO"
       },
@@ -3872,6 +4046,28 @@
       "duration_ms": 195699,
       "name": "Tatanita",
       "url": "https://open.spotify.com/track/1YQ0FkvlPz8fDqC1xHxyyb"
+    },
+    {
+      "album": {
+        "name": "Te Estudiamos",
+        "url": "https://open.spotify.com/album/7yY5UUXII2ghOBsoaptppF"
+      },
+      "artists": [
+        {
+          "name": "Dylan",
+          "url": "https://open.spotify.com/artist/6MNDsKmYfRubMvFbKaIZiL"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164709,
+      "name": "Te Estudiamos",
+      "url": "https://open.spotify.com/track/02qjedAfRU0kjEfoCUDg6h"
     },
     {
       "album": {
@@ -4105,6 +4301,28 @@
     },
     {
       "album": {
+        "name": "Tuky Tuky",
+        "url": "https://open.spotify.com/album/0IqcOwV9JrmKJCjZ6umqia"
+      },
+      "artists": [
+        {
+          "name": "Donaty",
+          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
+        },
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134040,
+      "name": "Tuky Tuky",
+      "url": "https://open.spotify.com/track/5paSUPI37gBuTvz7H7Dty0"
+    },
+    {
+      "album": {
         "name": "Un Chin",
         "url": "https://open.spotify.com/album/4G0utAp4MeAOWrgJPkMXrz"
       },
@@ -4314,6 +4532,28 @@
       "duration_ms": 120004,
       "name": "Welo Welo",
       "url": "https://open.spotify.com/track/7eNCn4vHIvDSHlYVYZ33JG"
+    },
+    {
+      "album": {
+        "name": "Wilan ( Prendela A Valor )",
+        "url": "https://open.spotify.com/album/4lUUqfJ1AiYffqRw6ewc8p"
+      },
+      "artists": [
+        {
+          "name": "Mestizo Is Back",
+          "url": "https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH"
+        },
+        {
+          "name": "La Mas Doll",
+          "url": "https://open.spotify.com/artist/0PPgD3dY7wrxsMe021mByK"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132413,
+      "name": "Wilan ( Prendela A Valor )",
+      "url": "https://open.spotify.com/track/6M829ypWCFkmOvM4u7X3kw"
     },
     {
       "album": {

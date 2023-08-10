@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. SPOOKYPBL in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,427 likes - 55 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,456 likes - 55 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 54 | [GUERRA](https://open.spotify.com/track/3jsnqaZI1liYePMnHyhZF4) | [Young Slash](https://open.spotify.com/artist/7ajcXCqrSRoMtviBDVIjqn) | [DRILL LIFE 2 DELUXE](https://open.spotify.com/album/7kC5FpnIJf6y6ZqlNzZ81V) | 1:54 |
 | 55 | [Si$tema](https://open.spotify.com/track/4tuJfPXhIHHkBnpWi0Sj9x) | [Totó Valentino](https://open.spotify.com/artist/4TR1rLViZ0TMo5gdvSVVZr), [Nessuno](https://open.spotify.com/artist/7BMPwaB9s6d7J33bIPp8Z5) | [Si$tema](https://open.spotify.com/album/5EIYPOPAKA8FiVAjVOEicv) | 1:51 |
 
-Snapshot ID: `MCw1YzM2YjEzOGZiZDkwMjk2YzE4YjE4MzQxNDgzNDViOTRmNWUxNmYy`
+Snapshot ID: `MCwyNTcyOWU1MWU5NDJmY2ZhYzk2MGM3MmVlODdmNGU0YzFjZjYwOGRi`

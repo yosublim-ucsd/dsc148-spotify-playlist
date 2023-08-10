@@ -1,12 +1,12 @@
 {
   "description": "Din egen indieklubb! Garanterad dans, dans, dans. #spelashoreline",
-  "num_followers": 60785,
+  "num_followers": 60796,
   "original_name": "Spela Shoreline!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNWI0YThmZTA1NWUwOGU3NDI0YzUwZTc4Yjc5ZjM0OTg5NmY3YzA5",
+  "snapshot_id": "MCwxM2MxNjY1YWZkMWI1NjMyNTEwZTIxYjVhMjJhZGVlODRkYWI3ZDFk",
   "tracks": [
     {
       "added_at": "2021-06-15 09:25:05",
@@ -315,22 +315,6 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
-        "name": "Scouting For Girls (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6kX0sZ1DFl2TE3e7SNJbkV"
-      },
-      "artists": [
-        {
-          "name": "Scouting For Girls",
-          "url": "https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd"
-        }
-      ],
-      "duration_ms": 223813,
-      "name": "She's So Lovely",
-      "url": "https://open.spotify.com/track/0wG4gampO24nC7VKm5pxjg"
-    },
-    {
-      "added_at": "2021-06-15 09:25:05",
-      "album": {
         "name": "The Coral",
         "url": "https://open.spotify.com/album/6Fhnezpt7TKojq1ufkZ5qA"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 141000,
       "name": "Dreaming of You",
       "url": "https://open.spotify.com/track/6ebxt3Iylxe0GcEuUGlIvb"
+    },
+    {
+      "added_at": "2021-06-15 09:25:05",
+      "album": {
+        "name": "Scouting For Girls (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6kX0sZ1DFl2TE3e7SNJbkV"
+      },
+      "artists": [
+        {
+          "name": "Scouting For Girls",
+          "url": "https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd"
+        }
+      ],
+      "duration_ms": 223813,
+      "name": "She's So Lovely",
+      "url": "https://open.spotify.com/track/0wG4gampO24nC7VKm5pxjg"
     },
     {
       "added_at": "2021-06-15 09:25:05",

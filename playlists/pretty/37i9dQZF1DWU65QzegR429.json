@@ -1,12 +1,12 @@
 {
   "description": "Latin music making waves. Cover: Polim\u00e1 Westcoast",
-  "num_followers": 9230,
+  "num_followers": 9240,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMmYyMzlhMTFhNDRhMjI1YjRmZDQ0YjdlODdlMzRmMDJmODFiMDBj",
+  "snapshot_id": "MCw4MTBlYTVjMDA1ZjNjM2JiYTA4OWQ0NjE4MDcwNjYwMTM5M2Q0Yzkx",
   "tracks": [
     {
       "added_at": "2023-07-24 18:55:43",
@@ -123,6 +123,22 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
+        "name": "Feliz",
+        "url": "https://open.spotify.com/album/17AsbbuIO3w4PYPS83SmV8"
+      },
+      "artists": [
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        }
+      ],
+      "duration_ms": 177240,
+      "name": "Feliz",
+      "url": "https://open.spotify.com/track/2mzDRrBn6M6rWX4bGzd1uQ"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
         "name": "Adentro de la Disco (feat. Myke Towers)",
         "url": "https://open.spotify.com/album/2gRPPH31jHTGwhniJINHVr"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 192720,
       "name": "Adentro de la Disco (feat. Myke Towers)",
       "url": "https://open.spotify.com/track/2QJQJEI9WvhqQViGS58gZ7"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
-        "name": "Feliz",
-        "url": "https://open.spotify.com/album/17AsbbuIO3w4PYPS83SmV8"
-      },
-      "artists": [
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        }
-      ],
-      "duration_ms": 177240,
-      "name": "Feliz",
-      "url": "https://open.spotify.com/track/2mzDRrBn6M6rWX4bGzd1uQ"
     },
     {
       "added_at": "2023-07-24 18:55:43",

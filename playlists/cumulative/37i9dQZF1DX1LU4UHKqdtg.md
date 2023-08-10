@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: THE BOYZ
 
-684 songs - 1 day 13 hr 24 min
+685 songs - 1 day 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -551,6 +551,7 @@
 | [Summer Night](https://open.spotify.com/track/4i52t4iun6rR5tpFpFSIBI) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Summer Strike, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/5pjR18FQIZSGmFk7EqzdVF) | 4:28 | 2022-11-24 | 2023-01-25 |
 | [Sunny Road](https://open.spotify.com/track/1T6WV7LI5pfa61PjOVGUGM) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sunny Road](https://open.spotify.com/album/6hKjTW2iYx2CyWUqUfP0Kz) | 3:21 | 2023-04-24 | 2023-06-27 |
 | [Super](https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 10th Mini Album 'FML'](https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I) | 3:20 | 2023-04-24 |  |
+| [Super Bowl \-Japanese ver.\-](https://open.spotify.com/track/74zvsuvIImK08x0SyRdw78) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Super Bowl \-Japanese ver.\-](https://open.spotify.com/album/2jUvXg4evkoQmyM9GU3CN3) | 3:05 | 2023-08-09 |  |
 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 | 2023-07-07 |  |
 | [Supernova \- Japanese Version](https://open.spotify.com/track/04PSKcBV1ad3QEmmnZCn2N) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [Supernova \(Japanese Version\)](https://open.spotify.com/album/1LGfVq98oez1sXNYAazZ2d) | 3:28 | 2023-08-08 |  |
 | [SURRENDER](https://open.spotify.com/track/0CwQeOWyrm26zRfYxqhn7q) | [LEE CHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [SURRENDER](https://open.spotify.com/album/2nbrVdm3DhZjZxEIrL28ox) | 2:50 | 2022-09-06 | 2022-11-01 |

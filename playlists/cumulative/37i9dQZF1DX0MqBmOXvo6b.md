@@ -4,7 +4,7 @@
 
 > Concéntrate al máximo, sin distracciones.
 
-548 songs - 23 hr 24 min
+549 songs - 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [Forsaken Land](https://open.spotify.com/track/3pWlQdfMNp4NabYbPAQcje) | [Lorenzo Balzotti](https://open.spotify.com/artist/3hHeHet790nZ3x8ulsu6tC) | [Forsaken Land](https://open.spotify.com/album/2GrqPpnPembHDXm1cWE4oY) | 3:02 | 2022-07-19 |  |
 | [Fractions](https://open.spotify.com/track/5fPW2jB6YqAUHmbVCDYkCu) | [Alicia Première](https://open.spotify.com/artist/3uADykN9RMDJGAc6mIN4mX) | [Fractions](https://open.spotify.com/album/1Iktq9JUuSzBy3gwkCzHPp) | 3:15 | 2022-06-07 | 2023-08-09 |
 | [franconia](https://open.spotify.com/track/398uIq8oIiP5cdb6zR2bst) | [Klaus Weissmuller](https://open.spotify.com/artist/5KKMMIwKIfrn4Q3x6PGYxf) | [franconia](https://open.spotify.com/album/7wXqijcw1roLeqDgbqSMuK) | 2:11 | 2022-06-07 | 2022-09-24 |
-| [Franklin](https://open.spotify.com/track/1CCaaRbixRWqqHYI6HMlqg) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [Franklin](https://open.spotify.com/album/2eYoxrrloroc4M3lXXs4Sf) | 3:29 | 2022-06-07 |  |
+| [Franklin](https://open.spotify.com/track/1CCaaRbixRWqqHYI6HMlqg) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [Franklin](https://open.spotify.com/album/2eYoxrrloroc4M3lXXs4Sf) | 3:29 | 2022-06-07 | 2023-08-10 |
 | [Free Ground](https://open.spotify.com/track/7q8qkfqoWf64gZPU1vm0LT) | [Lavendle](https://open.spotify.com/artist/4yJMaS2zuoK9RhQWzOE38u) | [Free Ground](https://open.spotify.com/album/7cREA26xmC6RgT0yTYeJPZ) | 2:43 | 2022-06-07 |  |
 | [Frozen Lake](https://open.spotify.com/track/1nhtusu73NEuqOOJTJ8gbc) | [Nsee](https://open.spotify.com/artist/6OXXdblCiAoJnv4kp1jpkm) | [View](https://open.spotify.com/album/0Mdwjh11jzxtsFE29Xw5aU) | 2:01 | 2022-12-22 |  |
 | [Frühlingsbach](https://open.spotify.com/track/5q3d5I3rMvfKAuyDvmBwwe) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Frühlingsbach](https://open.spotify.com/album/08s8yCYnuv2L21WxgomVTb) | 2:51 | 2022-06-07 | 2022-07-20 |
@@ -474,6 +474,7 @@
 | [The Taste of Snow](https://open.spotify.com/track/5k0J9mTY2bypVkJ2pP7acf) | [Piano Melancolía](https://open.spotify.com/artist/6CPafn3p493y60X7Vjs410) | [The Taste of Snow](https://open.spotify.com/album/4kXTcqVDyWXQW8pbxJRN4j) | 2:16 | 2022-06-07 | 2022-11-05 |
 | [the time has come](https://open.spotify.com/track/3c0jigaQuhR3R4c6RGX6Ao) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Freedom](https://open.spotify.com/album/7lUBViasfvFfPgJvxTuXnC) | 2:26 | 2022-06-07 |  |
 | [The Truth](https://open.spotify.com/track/3NPDTMVP9BwvbOQXoGNkV0) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Passageways](https://open.spotify.com/album/557439Fi4P9aWE0MZyy5PV) | 3:27 | 2022-06-07 | 2022-07-20 |
+| [The Way Home](https://open.spotify.com/track/4QB9QRh9xUuqKTXX9JBqyZ) | [Wendie Solomon](https://open.spotify.com/artist/002TmsLOEGkMqhkbb2zWfs) | [The Way Home](https://open.spotify.com/album/089vc1XdbczEThiYnD6AJB) | 2:27 | 2023-08-07 |  |
 | [The Year of Unravelling](https://open.spotify.com/track/0e66Y7BTyvFt5iskJrTVpY) | [Elyse Cloudd](https://open.spotify.com/artist/4Z9Z9Pd1xy1BKq3PgHnpGV) | [The Year of Unravelling](https://open.spotify.com/album/6cqFzCzHOttvioayRM2McD) | 2:08 | 2023-05-19 | 2023-08-08 |
 | [There and Then](https://open.spotify.com/track/1sF09Ih9eA9R7sIsYRMlqg) | [Yelena Delarosa](https://open.spotify.com/artist/3qTAPQWKzfKcA3LEI21B9e) | [There and Then](https://open.spotify.com/album/1dqZlgnGdPTw0JxSXSUBPF) | 1:57 | 2022-06-07 | 2023-07-25 |
 | [Things Unsaid](https://open.spotify.com/track/1HDwUXmzoVXyBV8onqUyUv) | [Marcos Betancourt](https://open.spotify.com/artist/7JjCfmLQHeuWreo08C7hBt) | [Walking Home](https://open.spotify.com/album/7HEfIdgk9TQjlnnroQAgzM) | 2:41 | 2022-06-07 |  |

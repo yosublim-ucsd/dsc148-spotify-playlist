@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: Lay Bankz",
-  "num_followers": 61117,
+  "num_followers": 61164,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzVlNjcxYmM3MDM0MDhlMGNkNGVmMDVmZTdhZTY5YzY5ZThmNjkw",
+  "snapshot_id": "MCw2ZDJlZmM3NzcwYWFiNDM2MDlmYzBlMGUwZjFjNDE3YjM0N2FiZmMw",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -719,6 +719,30 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "German Engineering 1",
+        "url": "https://open.spotify.com/album/04H4TNzWHYqXHczL5Px7pP"
+      },
+      "artists": [
+        {
+          "name": "KitschKrieg",
+          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
+        },
+        {
+          "name": "SFR",
+          "url": "https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr"
+        },
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "duration_ms": 158786,
+      "name": "Trenchezzz (with Nemzzz)",
+      "url": "https://open.spotify.com/track/0CpfrVubPZHWe1EB2qeo3D"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "CTRL",
         "url": "https://open.spotify.com/album/3lg6V1KDuWepNyGt3YSTJ7"
       },
@@ -751,30 +775,6 @@
       "duration_ms": 174635,
       "name": "Leave",
       "url": "https://open.spotify.com/track/6Mqe9RrVtZkucU6LYbFwLo"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "German Engineering 1",
-        "url": "https://open.spotify.com/album/04H4TNzWHYqXHczL5Px7pP"
-      },
-      "artists": [
-        {
-          "name": "KitschKrieg",
-          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
-        },
-        {
-          "name": "SFR",
-          "url": "https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr"
-        },
-        {
-          "name": "Nemzzz",
-          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
-        }
-      ],
-      "duration_ms": 158786,
-      "name": "Trenchezzz (with Nemzzz)",
-      "url": "https://open.spotify.com/track/0CpfrVubPZHWe1EB2qeo3D"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -891,22 +891,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "All I Need (VIP)",
-        "url": "https://open.spotify.com/album/2tfC2UydNyC7Y0jz6FoEKv"
+        "name": "Ziggy Reloaded II",
+        "url": "https://open.spotify.com/album/69j9CVp7HejIYEcMy2Gsil"
       },
       "artists": [
         {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
-        },
-        {
-          "name": "Aviella",
-          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
+          "name": "Ziggy",
+          "url": "https://open.spotify.com/artist/4YNeMA58IPpXjOOUO43kjG"
         }
       ],
-      "duration_ms": 195310,
-      "name": "All I Need - VIP",
-      "url": "https://open.spotify.com/track/7cpnqcFMN6Z7yiSOZyzGMU"
+      "duration_ms": 102187,
+      "name": "Look Back It (Club Mix)",
+      "url": "https://open.spotify.com/track/7lPL2wD5oCwBuqBLJhCFEa"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -927,18 +923,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Ziggy Reloaded II",
-        "url": "https://open.spotify.com/album/69j9CVp7HejIYEcMy2Gsil"
+        "name": "All I Need (VIP)",
+        "url": "https://open.spotify.com/album/2tfC2UydNyC7Y0jz6FoEKv"
       },
       "artists": [
         {
-          "name": "Ziggy",
-          "url": "https://open.spotify.com/artist/4YNeMA58IPpXjOOUO43kjG"
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Aviella",
+          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
         }
       ],
-      "duration_ms": 102187,
-      "name": "Look Back It (Club Mix)",
-      "url": "https://open.spotify.com/track/7lPL2wD5oCwBuqBLJhCFEa"
+      "duration_ms": 195310,
+      "name": "All I Need - VIP",
+      "url": "https://open.spotify.com/track/7cpnqcFMN6Z7yiSOZyzGMU"
     },
     {
       "added_at": "2023-08-04 04:00:00",

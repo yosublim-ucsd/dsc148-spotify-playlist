@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Jaako Eino Kalevi
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,119 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,154 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Find You \(Gerd Janson Remix\)](https://open.spotify.com/track/3Jxo5oojrX6Xmm69sP7T51) | [Mind Enterprises](https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Find You \(Gerd Janson Remix\)](https://open.spotify.com/album/7hW9Z12KBU2Wb5Ikx993eU) | 6:14 |
 | 75 | [All Night \(David Bay Remix\)](https://open.spotify.com/track/2tt9LTPUMpGEjDenQ2bwFI) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX), [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [All Night \(David Bay Remix\)](https://open.spotify.com/album/3ANMqFaekbl9w4qFZj4Pdq) | 3:36 |
 
-Snapshot ID: `MCwzYmQ2MWY2NTEyMWYyZmYwYjJiYTgyNGVkNGY5NGRmMGM1MjZkZDM1`
+Snapshot ID: `MCxjMDBiMzUyMGY2YzJiYzE1ZWM2MjY4YTdjMGJiYmYwOTBlOGIxYzQy`

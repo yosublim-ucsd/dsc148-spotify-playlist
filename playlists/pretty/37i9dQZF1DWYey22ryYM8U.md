@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 
 > Hits con sabor\. Cover: Chayanne
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,978 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,042 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 | 66 | [El Negrito](https://open.spotify.com/track/3OymSyNaXj5AQI6veTh9f2) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [De Menor a Mayor](https://open.spotify.com/album/2e2SQ7KNvfX4B5MinwH4Cs) | 2:56 |
 | 67 | [Nada de Nada](https://open.spotify.com/track/4CX96IInUaO0d6COMz62Qp) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Pa'lla Voy](https://open.spotify.com/album/463Gp4DWFkicvZ3DCfgj0S) | 4:12 |
 | 68 | [Bachatica](https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) | [Bachatica](https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8) | 3:16 |
-| 69 | [Cuándo](https://open.spotify.com/track/4cQBl4skiG56RMGpu1diV3) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Cuándo](https://open.spotify.com/album/7AFKnMLumDXDJlCr1N3pvp) | 3:26 |
-| 70 | [Tuki Tuki](https://open.spotify.com/track/0jtuFuZNhMV142OIXPonEO) | [Pucho Y Tucutu](https://open.spotify.com/artist/6q6sntFmzW5GgUFzAagcrh), [Motiff](https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Tuki Tuki](https://open.spotify.com/album/0dU3EdsJVImaGc9kYRQF9p) | 3:12 |
+| 69 | [Tuki Tuki](https://open.spotify.com/track/0jtuFuZNhMV142OIXPonEO) | [Pucho Y Tucutu](https://open.spotify.com/artist/6q6sntFmzW5GgUFzAagcrh), [Motiff](https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Tuki Tuki](https://open.spotify.com/album/0dU3EdsJVImaGc9kYRQF9p) | 3:12 |
+| 70 | [Cuándo](https://open.spotify.com/track/4cQBl4skiG56RMGpu1diV3) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Cuándo](https://open.spotify.com/album/7AFKnMLumDXDJlCr1N3pvp) | 3:26 |
 | 71 | [Imaginarme Sin Ti](https://open.spotify.com/track/6wLAOahVdeEJxhEOH8byCL) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA) | [Imaginarme Sin Ti](https://open.spotify.com/album/63dvLQWbmgbT9tpmpSumb8) | 3:56 |
 | 72 | [Otra Noche](https://open.spotify.com/track/5i82o3878xCPNCUK8VIeqX) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Otra Noche](https://open.spotify.com/album/202ZNK1Xpb0r72VyHsz23L) | 3:19 |
 | 73 | [La Bendición](https://open.spotify.com/track/4ZxjpNp7yCTxcbnkeyj0i6) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [La 167](https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 | 99 | [Vamo' a Ver Si el Gas Pela \(feat\. Miky Woodz & Marvin Santiago\)](https://open.spotify.com/track/6UhC5S3GcFyHNcD2EX0zvi) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [Marvin Santiago](https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE) | [Vamo' a Ver Si el Gas Pela \(feat\. Miky Woodz & Marvin Santiago\)](https://open.spotify.com/album/6voTsTj7qktcItEfbyV5fH) | 3:04 |
 | 100 | [¿ Y Ahora Qué Hacemos?](https://open.spotify.com/track/3jOpw80FiCU3N49m1CV2zL) | [You Salsa](https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU), [Tony Succar](https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk) | [¿ Y Ahora Qué Hacemos?](https://open.spotify.com/album/3BuFuLP7IIPlu5GqORitBQ) | 4:58 |
 
-Snapshot ID: `MCw5ZmYxNTRiZWQ5MWJlNWM4OTRlN2YyZWI5ODQyZjBjNWRiYmE5NzEz`
+Snapshot ID: `MCw4MzcxNzllZWQ3ZWE0YWE1YzIzYzk5N2VjYzc5YWUzMWRhNThlNmNm`

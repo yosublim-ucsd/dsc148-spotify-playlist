@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: Bennett Coast",
-  "num_followers": 1701976,
+  "num_followers": 1702001,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZmExY2MyY2NiYWE3ZWY1N2Y0Zjk5YjFiODkyYWM2NTRmMzA3YjRl",
+  "snapshot_id": "MCw3MDU3ZDVlNzNjYWRkNDc3MGQyZmI3NGJhMjhkMTJjYmZhMTRlOTcw",
   "tracks": [
     {
       "added_at": "2023-07-07 18:51:45",
@@ -297,6 +297,22 @@
       "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
     },
     {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Peanut Butter & Tears",
+        "url": "https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 225613,
+      "name": "Peanut Butter & Tears",
+      "url": "https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv"
+    },
+    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Beatopia",
@@ -343,22 +359,6 @@
       "duration_ms": 268432,
       "name": "doomsday",
       "url": "https://open.spotify.com/track/4WjxtORnwPavm5PDsAWJEc"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Peanut Butter & Tears",
-        "url": "https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 225613,
-      "name": "Peanut Butter & Tears",
-      "url": "https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -661,6 +661,22 @@
       "url": "https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4"
     },
     {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "We Can Be Anything",
+        "url": "https://open.spotify.com/album/0jTdh2q5QfILFuokmCNyHn"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "duration_ms": 201047,
+      "name": "We Can Be Anything",
+      "url": "https://open.spotify.com/track/2Tuaa6mlnDZ7vJhtdQ8ZSw"
+    },
+    {
       "added_at": "2023-04-07 04:00:00",
       "album": {
         "name": "Bruise",
@@ -707,22 +723,6 @@
       "duration_ms": 147596,
       "name": "Me & Me",
       "url": "https://open.spotify.com/track/3VJqv26NK9cCRXsjDKJOGY"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "We Can Be Anything",
-        "url": "https://open.spotify.com/album/0jTdh2q5QfILFuokmCNyHn"
-      },
-      "artists": [
-        {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
-        }
-      ],
-      "duration_ms": 201047,
-      "name": "We Can Be Anything",
-      "url": "https://open.spotify.com/track/2Tuaa6mlnDZ7vJhtdQ8ZSw"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -791,6 +791,22 @@
     {
       "added_at": "2023-06-30 04:21:00",
       "album": {
+        "name": "There\u2019s no Other",
+        "url": "https://open.spotify.com/album/6Ldj1EkMiTstPg4RRLAg6b"
+      },
+      "artists": [
+        {
+          "name": "Felly",
+          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
+        }
+      ],
+      "duration_ms": 155801,
+      "name": "There\u2019s no Other",
+      "url": "https://open.spotify.com/track/1HHxnVIKnlNnCPnUxsnsXs"
+    },
+    {
+      "added_at": "2023-06-30 04:21:00",
+      "album": {
         "name": "DO IT AGAIN (Official Song of the FIFA Women\u2019s World Cup 2023\u2122)",
         "url": "https://open.spotify.com/album/0ukxOYC2R59uzfIh3cDnub"
       },
@@ -807,38 +823,6 @@
       "duration_ms": 176730,
       "name": "DO IT AGAIN - Official Song of the FIFA Women\u2019s World Cup 2023\u2122",
       "url": "https://open.spotify.com/track/4OfRg5ofn3dNRFihXb0o7j"
-    },
-    {
-      "added_at": "2023-06-30 04:21:00",
-      "album": {
-        "name": "There\u2019s no Other",
-        "url": "https://open.spotify.com/album/6Ldj1EkMiTstPg4RRLAg6b"
-      },
-      "artists": [
-        {
-          "name": "Felly",
-          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
-        }
-      ],
-      "duration_ms": 155801,
-      "name": "There\u2019s no Other",
-      "url": "https://open.spotify.com/track/1HHxnVIKnlNnCPnUxsnsXs"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Everything Is Boring",
-        "url": "https://open.spotify.com/album/3IVFpVQvospcyELiYdMlvX"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 176005,
-      "name": "Everything Is Boring",
-      "url": "https://open.spotify.com/track/0dCdc1vL6N9rbyQ89waSCx"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -893,6 +877,22 @@
       "url": "https://open.spotify.com/track/181PmaC6c39r59gfhDGKdh"
     },
     {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Everything Is Boring",
+        "url": "https://open.spotify.com/album/3IVFpVQvospcyELiYdMlvX"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 176005,
+      "name": "Everything Is Boring",
+      "url": "https://open.spotify.com/track/0dCdc1vL6N9rbyQ89waSCx"
+    },
+    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Lots of Nothing (feat. BENEE)",
@@ -913,22 +913,6 @@
       "url": "https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j"
     },
     {
-      "added_at": "2023-07-07 18:51:45",
-      "album": {
-        "name": "palmtreedays_1644.wav",
-        "url": "https://open.spotify.com/album/2T0C483fPDytj1MQWkFa3T"
-      },
-      "artists": [
-        {
-          "name": "easy life",
-          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
-        }
-      ],
-      "duration_ms": 248093,
-      "name": "palmtreedays_1644.wav",
-      "url": "https://open.spotify.com/track/0kB6xwKamm2Fogar9frsAy"
-    },
-    {
       "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Coping on Unemployment",
@@ -947,18 +931,18 @@
     {
       "added_at": "2023-07-07 18:51:45",
       "album": {
-        "name": "SUNDAY",
-        "url": "https://open.spotify.com/album/5Bv3n1noEkwI5QbRItwuTf"
+        "name": "palmtreedays_1644.wav",
+        "url": "https://open.spotify.com/album/2T0C483fPDytj1MQWkFa3T"
       },
       "artists": [
         {
-          "name": "347aidan",
-          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
+          "name": "easy life",
+          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
         }
       ],
-      "duration_ms": 124133,
-      "name": "SUNDAY",
-      "url": "https://open.spotify.com/track/4StWXtY1kRDuzpl5FZQTae"
+      "duration_ms": 248093,
+      "name": "palmtreedays_1644.wav",
+      "url": "https://open.spotify.com/track/0kB6xwKamm2Fogar9frsAy"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -975,6 +959,38 @@
       "duration_ms": 136828,
       "name": "Sick",
       "url": "https://open.spotify.com/track/2wkCeD6tK0MEubHoVtetAe"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Petals on the Moon",
+        "url": "https://open.spotify.com/album/0o7cc3EnUTcYep5EiFFngs"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "duration_ms": 256945,
+      "name": "Petals on the Moon",
+      "url": "https://open.spotify.com/track/3BmaFHt6q91CmMrA7fLLRC"
+    },
+    {
+      "added_at": "2023-07-07 18:51:45",
+      "album": {
+        "name": "SUNDAY",
+        "url": "https://open.spotify.com/album/5Bv3n1noEkwI5QbRItwuTf"
+      },
+      "artists": [
+        {
+          "name": "347aidan",
+          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
+        }
+      ],
+      "duration_ms": 124133,
+      "name": "SUNDAY",
+      "url": "https://open.spotify.com/track/4StWXtY1kRDuzpl5FZQTae"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1029,22 +1045,6 @@
       "url": "https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Petals on the Moon",
-        "url": "https://open.spotify.com/album/0o7cc3EnUTcYep5EiFFngs"
-      },
-      "artists": [
-        {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
-        }
-      ],
-      "duration_ms": 256945,
-      "name": "Petals on the Moon",
-      "url": "https://open.spotify.com/track/3BmaFHt6q91CmMrA7fLLRC"
-    },
-    {
       "added_at": "2023-06-16 04:00:00",
       "album": {
         "name": "Weightless",
@@ -1077,20 +1077,20 @@
       "url": "https://open.spotify.com/track/0Mrm083tqUaTGUkiluSORf"
     },
     {
-      "added_at": "2023-06-16 04:00:00",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "heavun",
-        "url": "https://open.spotify.com/album/6rIqnMYGM6a1CMD65is0Te"
+        "name": "Harmony House",
+        "url": "https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF"
       },
       "artists": [
         {
-          "name": "hemlocke springs",
-          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
         }
       ],
-      "duration_ms": 191632,
-      "name": "heavun",
-      "url": "https://open.spotify.com/track/2gtEPlDqBTQ0uYMsaQebcH"
+      "duration_ms": 151266,
+      "name": "Balcony",
+      "url": "https://open.spotify.com/track/2JLjlI1OGUSHL32Ex733IB"
     },
     {
       "added_at": "2023-06-30 04:21:00",
@@ -1109,20 +1109,20 @@
       "url": "https://open.spotify.com/track/7jp7cuoSYqBfNNZ2njs4Yv"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Harmony House",
-        "url": "https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF"
+        "name": "heavun",
+        "url": "https://open.spotify.com/album/6rIqnMYGM6a1CMD65is0Te"
       },
       "artists": [
         {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
         }
       ],
-      "duration_ms": 151266,
-      "name": "Balcony",
-      "url": "https://open.spotify.com/track/2JLjlI1OGUSHL32Ex733IB"
+      "duration_ms": 191632,
+      "name": "heavun",
+      "url": "https://open.spotify.com/track/2gtEPlDqBTQ0uYMsaQebcH"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1141,22 +1141,6 @@
       "url": "https://open.spotify.com/track/1WcVAZYGMKdd2cqeDpuDGI"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "2009 TOYOTA",
-        "url": "https://open.spotify.com/album/1K5aIK5fyR6FuA69uSysJ9"
-      },
-      "artists": [
-        {
-          "name": "Thomas Headon",
-          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
-        }
-      ],
-      "duration_ms": 141991,
-      "name": "2009 TOYOTA",
-      "url": "https://open.spotify.com/track/0v0yfan1gz6Cznv0BLXp8Z"
-    },
-    {
       "added_at": "2023-08-02 00:40:55",
       "album": {
         "name": "Euphoric",
@@ -1171,6 +1155,22 @@
       "duration_ms": 169386,
       "name": "Some Things You\u2019ll Never Know",
       "url": "https://open.spotify.com/track/4MAay2lkhRjskJuWlEuB5b"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "2009 TOYOTA",
+        "url": "https://open.spotify.com/album/1K5aIK5fyR6FuA69uSysJ9"
+      },
+      "artists": [
+        {
+          "name": "Thomas Headon",
+          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
+        }
+      ],
+      "duration_ms": 141991,
+      "name": "2009 TOYOTA",
+      "url": "https://open.spotify.com/track/0v0yfan1gz6Cznv0BLXp8Z"
     },
     {
       "added_at": "2023-04-21 04:19:11",
@@ -1221,6 +1221,26 @@
       "url": "https://open.spotify.com/track/3wrgRknQKf58IIEbV4flhx"
     },
     {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Daisy Chain",
+        "url": "https://open.spotify.com/album/2kSOGD37vPRzNroaKKKNxD"
+      },
+      "artists": [
+        {
+          "name": "Pixey",
+          "url": "https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI"
+        },
+        {
+          "name": "Tayo Sound",
+          "url": "https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ"
+        }
+      ],
+      "duration_ms": 166600,
+      "name": "Daisy Chain",
+      "url": "https://open.spotify.com/track/6YDydLu0kWJXAuU6WYcbH2"
+    },
+    {
       "added_at": "2023-07-14 18:19:08",
       "album": {
         "name": "Supermodels",
@@ -1255,22 +1275,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "It's Euphoric",
-        "url": "https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69"
-      },
-      "artists": [
-        {
-          "name": "Georgia",
-          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
-        }
-      ],
-      "duration_ms": 221493,
-      "name": "It\u2019s Euphoric",
-      "url": "https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Joker & Rainbow",
         "url": "https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk"
       },
@@ -1285,24 +1289,20 @@
       "url": "https://open.spotify.com/track/4tpguuBe7cTThXmDCYSJZq"
     },
     {
-      "added_at": "2023-06-16 04:00:00",
+      "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Daisy Chain",
-        "url": "https://open.spotify.com/album/2kSOGD37vPRzNroaKKKNxD"
+        "name": "It's Euphoric",
+        "url": "https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69"
       },
       "artists": [
         {
-          "name": "Pixey",
-          "url": "https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI"
-        },
-        {
-          "name": "Tayo Sound",
-          "url": "https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ"
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
         }
       ],
-      "duration_ms": 166600,
-      "name": "Daisy Chain",
-      "url": "https://open.spotify.com/track/6YDydLu0kWJXAuU6WYcbH2"
+      "duration_ms": 221493,
+      "name": "It\u2019s Euphoric",
+      "url": "https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1381,22 +1381,6 @@
       "url": "https://open.spotify.com/track/4JwFYQF1sT86zKTVDlVKaI"
     },
     {
-      "added_at": "2023-06-30 04:21:00",
-      "album": {
-        "name": "Juliene",
-        "url": "https://open.spotify.com/album/3QReCnRfEfYbqnmsdnFxeU"
-      },
-      "artists": [
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 202382,
-      "name": "Juliene",
-      "url": "https://open.spotify.com/track/7K3YUKGYPFeAb6TbDvHmM2"
-    },
-    {
       "added_at": "2023-04-14 04:00:00",
       "album": {
         "name": "Friends",
@@ -1413,20 +1397,36 @@
       "url": "https://open.spotify.com/track/0BwDF0PRX9skmZ0BUWmLOF"
     },
     {
-      "added_at": "2023-06-16 04:00:00",
+      "added_at": "2023-06-30 04:21:00",
       "album": {
-        "name": "BLOOM",
-        "url": "https://open.spotify.com/album/15WtmLc4a8HGxHMsLPpHaN"
+        "name": "Juliene",
+        "url": "https://open.spotify.com/album/3QReCnRfEfYbqnmsdnFxeU"
       },
       "artists": [
         {
-          "name": "Marc E. Bassy",
-          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
         }
       ],
-      "duration_ms": 206243,
-      "name": "BLOOM",
-      "url": "https://open.spotify.com/track/4UvH9dyjiUBnvC8yb18wik"
+      "duration_ms": 202382,
+      "name": "Juliene",
+      "url": "https://open.spotify.com/track/7K3YUKGYPFeAb6TbDvHmM2"
+    },
+    {
+      "added_at": "2023-04-28 05:05:19",
+      "album": {
+        "name": "You Tear Me Apart",
+        "url": "https://open.spotify.com/album/3R9q0veyA51VYC6w6VMDQt"
+      },
+      "artists": [
+        {
+          "name": "Dev Lemons",
+          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
+        }
+      ],
+      "duration_ms": 177957,
+      "name": "You Tear Me Apart",
+      "url": "https://open.spotify.com/track/1KbCFCEee8ox0OHFH08nbG"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1461,20 +1461,20 @@
       "url": "https://open.spotify.com/track/2v9t4NAYMv9rQbc70VyIuG"
     },
     {
-      "added_at": "2023-04-28 05:05:19",
+      "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "You Tear Me Apart",
-        "url": "https://open.spotify.com/album/3R9q0veyA51VYC6w6VMDQt"
+        "name": "BLOOM",
+        "url": "https://open.spotify.com/album/15WtmLc4a8HGxHMsLPpHaN"
       },
       "artists": [
         {
-          "name": "Dev Lemons",
-          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
+          "name": "Marc E. Bassy",
+          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
         }
       ],
-      "duration_ms": 177957,
-      "name": "You Tear Me Apart",
-      "url": "https://open.spotify.com/track/1KbCFCEee8ox0OHFH08nbG"
+      "duration_ms": 206243,
+      "name": "BLOOM",
+      "url": "https://open.spotify.com/track/4UvH9dyjiUBnvC8yb18wik"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1577,22 +1577,6 @@
       "url": "https://open.spotify.com/track/68SNAUUgO2XwxykrEboEZN"
     },
     {
-      "added_at": "2023-06-30 04:21:00",
-      "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/4hzOeklRpOZNjmwrds8rBP"
-      },
-      "artists": [
-        {
-          "name": "Jesse\u00ae",
-          "url": "https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo"
-        }
-      ],
-      "duration_ms": 208216,
-      "name": "Play",
-      "url": "https://open.spotify.com/track/2oxz3JITNBwqNafgHgNZq0"
-    },
-    {
       "added_at": "2023-06-09 04:00:00",
       "album": {
         "name": "Ascension",
@@ -1607,6 +1591,22 @@
       "duration_ms": 222656,
       "name": "Black Horse",
       "url": "https://open.spotify.com/track/5FF1oWxyDdSLEmqi4pp5mv"
+    },
+    {
+      "added_at": "2023-06-30 04:21:00",
+      "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/4hzOeklRpOZNjmwrds8rBP"
+      },
+      "artists": [
+        {
+          "name": "Jesse\u00ae",
+          "url": "https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo"
+        }
+      ],
+      "duration_ms": 208216,
+      "name": "Play",
+      "url": "https://open.spotify.com/track/2oxz3JITNBwqNafgHgNZq0"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2023-04-21 04:19:11",
       "album": {
+        "name": "Monster Brain",
+        "url": "https://open.spotify.com/album/5jU7sB2508KOa1gXnAtA7h"
+      },
+      "artists": [
+        {
+          "name": "Mia Wray",
+          "url": "https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E"
+        }
+      ],
+      "duration_ms": 217737,
+      "name": "Monster Brain",
+      "url": "https://open.spotify.com/track/4TJbCoFd2cF2HOemoZ2WYG"
+    },
+    {
+      "added_at": "2023-04-21 04:19:11",
+      "album": {
         "name": "Sad to Breathe",
         "url": "https://open.spotify.com/album/0sGBhfoO2V3a2gJejL2Li6"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 214320,
       "name": "Sad to Breathe",
       "url": "https://open.spotify.com/track/1NtoOI83OIXz4NXPj2VaKV"
-    },
-    {
-      "added_at": "2023-06-30 04:21:00",
-      "album": {
-        "name": "Homebody",
-        "url": "https://open.spotify.com/album/6pckUMFCiCaq1EmPQeStKi"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 195720,
-      "name": "Homebody",
-      "url": "https://open.spotify.com/track/5yR57I2TT78WHVCSXdCQaN"
     }
   ],
   "unique_name": "Indie Pop",

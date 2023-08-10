@@ -321,6 +321,24 @@
     },
     {
       "album": {
+        "name": "been a good run",
+        "url": "https://open.spotify.com/album/5boyqYSH73V2p6m9Gvj6Mw"
+      },
+      "artists": [
+        {
+          "name": "Nateki",
+          "url": "https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161460,
+      "name": "been a good run",
+      "url": "https://open.spotify.com/track/60JCvHRlzZwuk3TLnOY8YH"
+    },
+    {
+      "album": {
         "name": "Bicha",
         "url": "https://open.spotify.com/album/7IQIjSO2J0FGKqVzjLg364"
       },
@@ -1360,6 +1378,24 @@
       "duration_ms": 204000,
       "name": "FAMOUS",
       "url": "https://open.spotify.com/track/5yiVXtN9hvGKKxswqWChrU"
+    },
+    {
+      "album": {
+        "name": "Popstar Degenerate",
+        "url": "https://open.spotify.com/album/6WajZMT4XGmHhZ3nfDUFnG"
+      },
+      "artists": [
+        {
+          "name": "Ghostluvme",
+          "url": "https://open.spotify.com/artist/6KtRA9pyDcbDyanI7bfU8W"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162373,
+      "name": "Far Down",
+      "url": "https://open.spotify.com/track/1V3pE4gh4dA3h0KmijMXBD"
     },
     {
       "album": {
@@ -3292,7 +3328,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 272680,
       "name": "Nothing That You Think",
       "url": "https://open.spotify.com/track/4hs1clb6ibEdAOPTRoa39b"
@@ -5141,6 +5177,24 @@
     },
     {
       "album": {
+        "name": "Sad Eyes",
+        "url": "https://open.spotify.com/album/16IKC0p2XMIL52IOMayVWT"
+      },
+      "artists": [
+        {
+          "name": "99HeartBreak",
+          "url": "https://open.spotify.com/artist/5Kx0kw5Q5N9Jut9hGD50xS"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154687,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/1WNmq4aQHuwMrAjwlFE2Ew"
+    },
+    {
+      "album": {
         "name": "Valiant Knight",
         "url": "https://open.spotify.com/album/0DCfvCLlQ8Qq62j407XfLQ"
       },
@@ -5340,7 +5394,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 175400,
       "name": "Way Too Lit",
       "url": "https://open.spotify.com/track/7h6TIAagxDA1F1ava16ly0"
@@ -5412,7 +5466,7 @@
       ],
       "date_added": "2023-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 128582,
       "name": "Woah",
       "url": "https://open.spotify.com/track/4GHDnbYUyqmWqAjpvS72Uo"

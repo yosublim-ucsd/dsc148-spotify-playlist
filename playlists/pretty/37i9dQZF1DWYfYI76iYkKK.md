@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,527 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,550 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 34 | [If Only...](https://open.spotify.com/track/79rFtrqN1JHoZDAnBJ6TwJ) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [If Only...](https://open.spotify.com/album/2PflyuQL0apWi1Mz079F4Y) | 3:07 |
 | 35 | [大海](https://open.spotify.com/track/2PBgXM5T6RGutisj2Nrv5Z) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [大海](https://open.spotify.com/album/1bJZhytOyONPzQcNWW8P88) | 3:31 |
 | 36 | [年輪說](https://open.spotify.com/track/0rkKoFtgXTBSy8MLtwYPmc) | [吳青峰](https://open.spotify.com/artist/5a5vu4RzsAHdKN0aYyblZ8) | [冊葉一:一與一](https://open.spotify.com/album/3rF6e6T98lg8usUISr18oG) | 4:55 |
-| 37 | [無垠](https://open.spotify.com/track/5ZC35wJkNGpel1o15XA4nc) | [NeciKen](https://open.spotify.com/artist/2LzIV2DbLNmH0DG89BNbD6) | [無垠](https://open.spotify.com/album/3NQURJi7uV1HGynSpnONnJ) | 5:40 |
-| 38 | [皆可](https://open.spotify.com/track/5tU8tlGuxmCjNdl5eP9oGR) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [無人知曉](https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju) | 4:30 |
+| 37 | [皆可](https://open.spotify.com/track/5tU8tlGuxmCjNdl5eP9oGR) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [無人知曉](https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju) | 4:30 |
+| 38 | [無垠](https://open.spotify.com/track/5ZC35wJkNGpel1o15XA4nc) | [NeciKen](https://open.spotify.com/artist/2LzIV2DbLNmH0DG89BNbD6) | [無垠](https://open.spotify.com/album/3NQURJi7uV1HGynSpnONnJ) | 5:40 |
 | 39 | [你一定要幸福](https://open.spotify.com/track/3CBAIdEjO75HsYyA3FSeOQ) | [Isaac Yong](https://open.spotify.com/artist/1mQ2qm4xBo0bfl5NcaYdSk) | [你一定要幸福](https://open.spotify.com/album/2k8raxrNWIXPqkajoKqJt3) | 4:30 |
 | 40 | [轻轻\(《长风渡》影视剧主题曲\)](https://open.spotify.com/track/6tExCmPVJ7zc8PPwmz2b8p) | [Jane Zhang](https://open.spotify.com/artist/7qJmFr579WC8MMGj4PiWdu) | [轻轻\(《长风渡》影视剧主题曲\)](https://open.spotify.com/album/2ow2a2CTBCZpDQANUuMabi) | 4:16 |
 | 41 | [願溫柔的你被世界溫柔以待 \- Demo](https://open.spotify.com/track/596QP1necn4XdusdVzB0TW) | [綠繡眼](https://open.spotify.com/artist/7dwt5S8gmrCEnG5WWtbCri) | [願溫柔的你被世界溫柔以待 \(Demo\)](https://open.spotify.com/album/09q2CO9Bw3PFsVC72nS5Pn) | 3:49 |
 | 42 | [輸情歌](https://open.spotify.com/track/0WNodcT2mn3fX8NwsYxCp8) | [J.Sheon](https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9) | [輸情歌](https://open.spotify.com/album/3SfW0yFNbsj6Neyft3zmDV) | 3:44 |
 | 43 | [旅行中忘記](https://open.spotify.com/track/1Of1jcGbCroKpUk7RGJaPA) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL) | [T.I.A.](https://open.spotify.com/album/16FOXa3qlWPHP7MmPj0Ehi) | 3:54 |
 | 44 | [青空未來](https://open.spotify.com/track/7iZy5sCDT5VkqEYBKy0DTU) | [Ashin Chen](https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb) | [青空未來](https://open.spotify.com/album/2giUSFEwapURH56GEtpMaR) | 4:15 |
-| 45 | [Wordless Groans](https://open.spotify.com/track/2cUgbDiOEk6OnxYRJKoGwk) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [Wordless Groans](https://open.spotify.com/album/0pL2KHp15cmfVn9ZWa8ZLW) | 4:59 |
-| 46 | [許我一生 \(電視劇《玉骨遙》片頭曲\)](https://open.spotify.com/track/6xblDj9isDUK1oS4cXuy8j) | [袁婭維](https://open.spotify.com/artist/0CD82FdWwYCYcN8TrcYhIw) | [許我一生 \(電視劇《玉骨遙》片頭曲\)](https://open.spotify.com/album/0VuRLpAiMxDg4NAqUNvRES) | 3:29 |
+| 45 | [許我一生 \(電視劇《玉骨遙》片頭曲\)](https://open.spotify.com/track/6xblDj9isDUK1oS4cXuy8j) | [袁婭維](https://open.spotify.com/artist/0CD82FdWwYCYcN8TrcYhIw) | [許我一生 \(電視劇《玉骨遙》片頭曲\)](https://open.spotify.com/album/0VuRLpAiMxDg4NAqUNvRES) | 3:29 |
+| 46 | [Wordless Groans](https://open.spotify.com/track/2cUgbDiOEk6OnxYRJKoGwk) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [Wordless Groans](https://open.spotify.com/album/0pL2KHp15cmfVn9ZWa8ZLW) | 4:59 |
 | 47 | [其實你並沒那麼孤單](https://open.spotify.com/track/3NpZcmc7txP57fUNcduERB) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [小時候的我們](https://open.spotify.com/album/2GaVDyAX5sgrX5CuWxRhZm) | 3:04 |
 | 48 | [竊笑](https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [藏著並不等於遺忘](https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov) | 3:42 |
 | 49 | [最美的遺憾](https://open.spotify.com/track/7xLHcay4KRCdl9MqXnyrW0) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [Face II 真・裏](https://open.spotify.com/album/6vIFkhNrnRaYLIJOW81PW4) | 4:29 |
 | 50 | [悄悄告訴你](https://open.spotify.com/track/7j34mUd15g3RrhZzVx3CgB) | [Christine Fan](https://open.spotify.com/artist/1q7sCl0vg0EcaFdRz0XDGg) | [悄悄告訴你](https://open.spotify.com/album/42YXL6YhJBbP2ZM4WMUTkC) | 2:16 |
 
-Snapshot ID: `MCxiZjdhZTlmZWY4OGExYjQ3MjY4ZmU5NDkxNTI5YzFlMDE5NTcyMWRi`
+Snapshot ID: `MCw2ZGY1ZTUzZjkwYjUxODgwNGUwYTVhNGM5ZWRkNjQ5YzZkYjJhYmU2`

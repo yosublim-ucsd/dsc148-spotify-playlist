@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00KQQMCcMxZ.md) - [plain]
 
 > Beat distraction and stay on task with these bird sounds to for your \(home\) office workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,939 likes - 38 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,988 likes - 38 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00KQQMCcMxZ.md) - [plain]
 | 29 | [Cuckoo & Other Birds](https://open.spotify.com/track/2oU9jD1FRGW1ocaKLcLeW9) | [Drakir Nature](https://open.spotify.com/artist/3bbyEDM22FIFzuaCTYFonZ) | [Cuckoo & Other Birds](https://open.spotify.com/album/4c5T7nnoDGFjy4eptvyysb) | 3:28 |
 | 30 | [Birds and Creeks](https://open.spotify.com/track/5pSCU0t63yx1nyKYQKyJT8) | [Ruidos de la Selva](https://open.spotify.com/artist/02QfOJ9WoHBZ7SOc016zJ0) | [A Symphony of the Sky](https://open.spotify.com/album/6xLgC9GRpyZtvuBk40x7ft) | 2:19 |
 | 31 | [Park Bird Fountain](https://open.spotify.com/track/3fWN0qCRDDYByi6rGRgEBa) | [Sleep Sounds of Nature](https://open.spotify.com/artist/59FRAcMcsHQupc8lupy5uH) | [Ambient Nature Serenity](https://open.spotify.com/album/6hbt6OWGfes8YpfpZXnMSL) | 3:50 |
-| 32 | [Blackbird Singing](https://open.spotify.com/track/5AeEDodSqlthJpAdWD8hJq) | [Sounds on Earth](https://open.spotify.com/artist/0zAXRELdldn64qrWHARuzn) | [Wonderful Morning](https://open.spotify.com/album/4hq3hq5EBz2T0DmDo4hlFT) | 2:46 |
-| 33 | [Meadow Birds Chirp](https://open.spotify.com/track/5ofgZqm0XOUot0WoftJBSh) | [Dreamy Nature](https://open.spotify.com/artist/2FWlYKW1QxPLTjkk7nRXWd) | [Dreams & Bird Song](https://open.spotify.com/album/1o5iHs6J6fGe5qLD0Nbi88) | 2:24 |
+| 32 | [Meadow Birds Chirp](https://open.spotify.com/track/5ofgZqm0XOUot0WoftJBSh) | [Dreamy Nature](https://open.spotify.com/artist/2FWlYKW1QxPLTjkk7nRXWd) | [Dreams & Bird Song](https://open.spotify.com/album/1o5iHs6J6fGe5qLD0Nbi88) | 2:24 |
+| 33 | [Blackbird Singing](https://open.spotify.com/track/5AeEDodSqlthJpAdWD8hJq) | [Sounds on Earth](https://open.spotify.com/artist/0zAXRELdldn64qrWHARuzn) | [Wonderful Morning](https://open.spotify.com/album/4hq3hq5EBz2T0DmDo4hlFT) | 2:46 |
 | 34 | [Calm Forest Birds](https://open.spotify.com/track/50pHWYGluK6qV5mXU128OK) | [Birdsongst](https://open.spotify.com/artist/013QQQC3ofg6o6fhfyvMiK) | [Neighborhood Birds FX](https://open.spotify.com/album/3RuOVBydoDyDJK3GYjnOM7) | 2:30 |
 | 35 | [Clear Creek](https://open.spotify.com/track/4jQHltMu5EIuktvQYivjbg) | [Lave](https://open.spotify.com/artist/5EA4MDPkAtu1hrHhgM8tWK) | [Clear Creek](https://open.spotify.com/album/7tMxYukzhoL5zCMQQif70L) | 3:20 |
 | 36 | [Swedish Spring Birds](https://open.spotify.com/track/6ugXvYQkWPNSMbw9JDTXmS) | [Aire Vega](https://open.spotify.com/artist/7cAoFd2D0GjQOI14qyK3xB) | [The Forest](https://open.spotify.com/album/1Ayk8zsTe7FfQQbFJ2a1sD) | 2:57 |
 | 37 | [Morning Birds May](https://open.spotify.com/track/37jqgmiDN5ITZtxzQ9FFc0) | [Drakir Nature](https://open.spotify.com/artist/3bbyEDM22FIFzuaCTYFonZ) | [Morning Birds May](https://open.spotify.com/album/0uB5c9Md8U2IKcniqFFkU5) | 2:43 |
-| 38 | [When calm comes](https://open.spotify.com/track/5COk5epl3t3rGjivwQVY9U) | [The Land Seven](https://open.spotify.com/artist/4aV5OhaaDktvyVsYUXUWsQ) | [When Calm Comes](https://open.spotify.com/album/7DFoMVRYA9Mhmp1bqN3gdu) | 2:33 |
+| 38 | [Lake Side Bird Sound](https://open.spotify.com/track/6crMJIJMG0BTz9wTlfnzQG) | [Our Glorious Nature](https://open.spotify.com/artist/2AghMsKtLVXLg6fTdReXc4) | [Lake Side Bird Sound](https://open.spotify.com/album/4HYEHOfBqQCE5yVtphnh3u) | 2:15 |
 
-Snapshot ID: `MCxhZDRiZmJjYTU0MTY0MGQ5Yzg2MWNmMDk2NDdkZjdjZTk5NjY3Mzdi`
+Snapshot ID: `MCwzOGQxOGM0ZTA3ZWRiNzBmZmU1NzUyNjhmMGE4OWZjZjQ2ZmExZGY0`

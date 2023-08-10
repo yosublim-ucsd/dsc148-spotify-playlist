@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 
 > The Official EA Sports FIFA 23 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,301 likes - 104 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,446 likes - 104 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 60 | [Can't Sleep](https://open.spotify.com/track/3tAnmq1vtA2GTYV6xw0BW2) | [VENICE](https://open.spotify.com/artist/61CQzFXZaNgVL2fgXOY5kn) | [Can't Sleep](https://open.spotify.com/album/208ZG5kyKNAb7CzIdlF0UC) | 3:45 |
 | 61 | [Tenía Razón](https://open.spotify.com/track/13byK69wHdWtPt0QdgDPfw) | [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Tenía Razón](https://open.spotify.com/album/3PJCE4qTFbyW9XXFyR0wO9) | 2:53 |
 | 62 | [Rollout \(feat\. Jay Prince, Scrufizzer & Close Counters\)](https://open.spotify.com/track/16Y3IuWraX46DMtrATcIaY) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1), [Close Counters](https://open.spotify.com/artist/1b94FVTCNMq9gU78ByW6iY) | [Rollout](https://open.spotify.com/album/3freFdGNjhuPplhWe9m6Gn) | 3:04 |
-| 63 | [Firepit](https://open.spotify.com/track/598YYFar90QPnyGE3jmgGo) | [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw), [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [Firepit](https://open.spotify.com/album/7tc649AUN4dKzigGFICXR9) | 4:03 |
-| 64 | [So Sick Of Me](https://open.spotify.com/track/7tGr0hPFQcgEy8bwxTVzX8) | [Haich Ber Na](https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd) | [So Sick Of Me](https://open.spotify.com/album/0MXemyihG9VPWoxe8IYgFO) | 2:47 |
+| 63 | [So Sick Of Me](https://open.spotify.com/track/7tGr0hPFQcgEy8bwxTVzX8) | [Haich Ber Na](https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd) | [So Sick Of Me](https://open.spotify.com/album/0MXemyihG9VPWoxe8IYgFO) | 2:47 |
+| 64 | [Firepit](https://open.spotify.com/track/598YYFar90QPnyGE3jmgGo) | [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw), [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [Firepit](https://open.spotify.com/album/7tc649AUN4dKzigGFICXR9) | 4:03 |
 | 65 | [Prettier Than You](https://open.spotify.com/track/61aanGqaF4FFuoNMS9nyHJ) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Prettier Than You](https://open.spotify.com/album/1KoPn0GTKiL2UdC7AUtwkg) | 3:22 |
 | 66 | [Bricks in the Wall](https://open.spotify.com/track/6v3QTxRbJ3azhBhsNsrpPy) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Worlds End FM](https://open.spotify.com/album/14FhzR5HOUxorgSJ55Dr1E) | 3:27 |
 | 67 | [Sunshine](https://open.spotify.com/track/08hSsSeBxyyri4j8cQxXm4) | [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [Sunshine](https://open.spotify.com/album/76bUUVdpVkQIrJif3PQYx2) | 3:38 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 103 | [Leader Of The Pack](https://open.spotify.com/track/1e33JEiunjKdNTVxISYpb6) | [Eliza Legzdina](https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op), [Ruckspin](https://open.spotify.com/artist/4xVxQGaT49dkkLwlcayoXg) | [Leader Of The Pack](https://open.spotify.com/album/6U2V6suDmD5MxMnUYgSxP4) | 3:39 |
 | 104 | [Green Light \(feat\. Kate Wild\) \- Moksi Remix](https://open.spotify.com/track/0CCbpCeGnyoYxzczLw19wQ) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Kate Wild](https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l) | [Green Light \(feat\. Kate Wild\) \[Moksi Remix\]](https://open.spotify.com/album/4Mxc0za7jRSrvLRVV5ZsLD) | 3:10 |
 
-Snapshot ID: `MCwwMWU4YWJlYTc1Yjg1MThjZGQxOTg3MmE5NzYwZDU1MDEyYWQ2ZjU2`
+Snapshot ID: `MCwwOGViYjBjYmM0NWVmNGEyNzczMGE4Y2E5ODVjMzJmZDBkNDc2Nzg3`

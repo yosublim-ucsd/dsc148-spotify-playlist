@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lleva el folclore de M\u00e9xico a donde sea!",
-  "num_followers": 128120,
+  "num_followers": 128141,
   "original_name": "Tradici\u00f3n Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTQ5YzMzYjViY2I2ZWVlMzI3NDY3MWZlMzQ1N2MwMTEyNDQwNjBj",
+  "snapshot_id": "MCxlYzUyNzk0OTZkOTMwNWJkOTM5NDZjOGY4NmZmYWU0NzBiZWNhZTZk",
   "tracks": [
     {
       "added_at": "2023-05-09 18:01:28",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "Antologia Musical 30 Exitos",
-        "url": "https://open.spotify.com/album/3go0mP3PiKN06OCMAcryJ7"
-      },
-      "artists": [
-        {
-          "name": "Los Montanes Del Alamo",
-          "url": "https://open.spotify.com/artist/40KlHX5lSdrxJNQUfpRGVS"
-        }
-      ],
-      "duration_ms": 148986,
-      "name": "El Barrilito",
-      "url": "https://open.spotify.com/track/5iraK9LBoyh99QrC0zAbK4"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
         "name": "Danzones, Mambos y Cha Cha Chas",
         "url": "https://open.spotify.com/album/4PipSu48FG3zqHb249qzgL"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 156906,
       "name": "Las Clases del Cha Cha Cha",
       "url": "https://open.spotify.com/track/0vCBgiJZPjYXwVqVcqy8FR"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
+        "name": "Antologia Musical 30 Exitos",
+        "url": "https://open.spotify.com/album/3go0mP3PiKN06OCMAcryJ7"
+      },
+      "artists": [
+        {
+          "name": "Los Montanes Del Alamo",
+          "url": "https://open.spotify.com/artist/40KlHX5lSdrxJNQUfpRGVS"
+        }
+      ],
+      "duration_ms": 148986,
+      "name": "El Barrilito",
+      "url": "https://open.spotify.com/track/5iraK9LBoyh99QrC0zAbK4"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "Revent\u00f3n Veracruzano Puros \u00c9xitos De..",
-        "url": "https://open.spotify.com/album/3BKmNEqwNSI8bveYxTGhgh"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Alma Jarocha",
-          "url": "https://open.spotify.com/artist/7CFjxWuOYDOXtSUdMNfi5f"
-        }
-      ],
-      "duration_ms": 155933,
-      "name": "Canto A Veracruz",
-      "url": "https://open.spotify.com/track/0MYecQUlzO9dyJ9lRHpEko"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
         "name": "Vamos A La Fiesta",
         "url": "https://open.spotify.com/album/6AkQ14Roz7mOJVi6JRc9gZ"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 165301,
       "name": "Zacazonapan",
       "url": "https://open.spotify.com/track/1JxygrDpw5bLUMQsQqQuPN"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
+        "name": "Revent\u00f3n Veracruzano Puros \u00c9xitos De..",
+        "url": "https://open.spotify.com/album/3BKmNEqwNSI8bveYxTGhgh"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Alma Jarocha",
+          "url": "https://open.spotify.com/artist/7CFjxWuOYDOXtSUdMNfi5f"
+        }
+      ],
+      "duration_ms": 155933,
+      "name": "Canto A Veracruz",
+      "url": "https://open.spotify.com/track/0MYecQUlzO9dyJ9lRHpEko"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -1031,18 +1031,22 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "Huapangos",
-        "url": "https://open.spotify.com/album/5Z6tcNwry8ZIu1uDOdmRYZ"
+        "name": "Por Los Caminos Del Sur",
+        "url": "https://open.spotify.com/album/3mRRUTh4dFWac0WLajq689"
       },
       "artists": [
         {
-          "name": "Aida Cuevas",
-          "url": "https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr"
+          "name": "Costa M\u00eda Orquesta",
+          "url": "https://open.spotify.com/artist/5gr6ZjgBXbZAcIjsHJgwoL"
+        },
+        {
+          "name": "Vania Fortuna",
+          "url": "https://open.spotify.com/artist/573vmSNtAqa0P3uvg4NqzF"
         }
       ],
-      "duration_ms": 227600,
-      "name": "La Malague\u00f1a",
-      "url": "https://open.spotify.com/track/3pXLPRQOIoIovJKNO2Ksf4"
+      "duration_ms": 158000,
+      "name": "Por Los Caminos Del Sur",
+      "url": "https://open.spotify.com/track/7lxSrgCOFBcTlcB6bSjXBS"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -1063,22 +1067,18 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "Por Los Caminos Del Sur",
-        "url": "https://open.spotify.com/album/3mRRUTh4dFWac0WLajq689"
+        "name": "Huapangos",
+        "url": "https://open.spotify.com/album/5Z6tcNwry8ZIu1uDOdmRYZ"
       },
       "artists": [
         {
-          "name": "Costa M\u00eda Orquesta",
-          "url": "https://open.spotify.com/artist/5gr6ZjgBXbZAcIjsHJgwoL"
-        },
-        {
-          "name": "Vania Fortuna",
-          "url": "https://open.spotify.com/artist/573vmSNtAqa0P3uvg4NqzF"
+          "name": "Aida Cuevas",
+          "url": "https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr"
         }
       ],
-      "duration_ms": 158000,
-      "name": "Por Los Caminos Del Sur",
-      "url": "https://open.spotify.com/track/7lxSrgCOFBcTlcB6bSjXBS"
+      "duration_ms": 227600,
+      "name": "La Malague\u00f1a",
+      "url": "https://open.spotify.com/track/3pXLPRQOIoIovJKNO2Ksf4"
     },
     {
       "added_at": "2023-05-09 18:01:28",

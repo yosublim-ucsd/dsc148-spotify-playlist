@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > Mae Stephens en  Meghan Trainor deze week op de cover van Fresh Pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,411 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,420 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 99 | [Only Girl](https://open.spotify.com/track/17fL4slDQP8YopAZHWyiR3) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Only Girl](https://open.spotify.com/album/2Qp5Ode31zeYK4qEP2mctl) | 2:39 |
 | 100 | [I'm Her](https://open.spotify.com/track/4C78UNyMsupEMJrEd9xT9w) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [I'm Her](https://open.spotify.com/album/0rYMn212yRnlEAqb24mNG7) | 2:33 |
 
-Snapshot ID: `MCwwYjQ3OWQxM2IyYjQzNWZhN2I1OThiMzdmMDVkYjRhOGQzM2NlMzg2`
+Snapshot ID: `MCwzYjhlZjlmMDI4OTVmMmMzYWQwOTZhMmZiMTJlYzFkMjM5ZjhjNDM5`

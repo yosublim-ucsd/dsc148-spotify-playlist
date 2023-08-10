@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 
 > Descubre la escena del jazz en México en la curaduría de los expertos Mariana Pérez,  Juan Carlos Reyes, Erik Montenegro y José Enrique Fernández.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,964 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,974 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 33 | [Aquel Incendio](https://open.spotify.com/track/21B1SsKnsjcUTkzRAAUJqy) | [Sara Valenzuela](https://open.spotify.com/artist/2f0Ur2QXNCjpeGEqXZxOYc), [Barney McAll](https://open.spotify.com/artist/1FC0psUheo5L2kUtj53MF9), [Jonathan Maron](https://open.spotify.com/artist/3c1abg4EpGemD4WexcVj6B), [Bill Campbell](https://open.spotify.com/artist/5LPzwY21u7i62eGAb7LcuK) | [Fulgor](https://open.spotify.com/album/3hHdb3FvT0zU1eXrKmQOgS) | 4:06 |
 | 34 | [The Pink Panther](https://open.spotify.com/track/7MBf3mXChOZJW5ZZ8CI9at) | [Pavel Loaria Big Band](https://open.spotify.com/artist/2JrCiD3IZIa2ds3vl6bqkX) | [Pavel Loaria Big Band, Vol\. 1](https://open.spotify.com/album/0nQiE3rJ7zfl10ki3mM7Ff) | 3:53 |
 | 35 | [El Hombre Del Brazo De Oro](https://open.spotify.com/track/5tkkYOcwmoql7pWZC8JXhr) | [Cuco Valtierra](https://open.spotify.com/artist/2b973rD0RqYzSz9161lGIa) | [Bonita](https://open.spotify.com/album/633ctwpYwbwNrsVOWVANrb) | 2:40 |
-| 36 | [Ventana espacial](https://open.spotify.com/track/3HTcmAbqboUt0io2WCuI34) | [Filip y Woppe](https://open.spotify.com/artist/0M9WmsqRszIYOTIxPfZLgC) | [Ventana espacial](https://open.spotify.com/album/0sbaxSNpm7Fje9gOx6FhxG) | 4:14 |
-| 37 | [Paisaje Gris](https://open.spotify.com/track/7Fo5vh8oUOsw8LsziLXe60) | [Jenny Beaujean](https://open.spotify.com/artist/6ex3zdLBHsbn07VkD3Nnq3), [Benjamín García](https://open.spotify.com/artist/25pBtHDlplMjQ9FrFoMcuE) | [Paisaje Gris](https://open.spotify.com/album/4WAskgkj1leGkHgXXobvRG) | 4:19 |
+| 36 | [Paisaje Gris](https://open.spotify.com/track/7Fo5vh8oUOsw8LsziLXe60) | [Jenny Beaujean](https://open.spotify.com/artist/6ex3zdLBHsbn07VkD3Nnq3), [Benjamín García](https://open.spotify.com/artist/25pBtHDlplMjQ9FrFoMcuE) | [Paisaje Gris](https://open.spotify.com/album/4WAskgkj1leGkHgXXobvRG) | 4:19 |
+| 37 | [Ventana espacial](https://open.spotify.com/track/3HTcmAbqboUt0io2WCuI34) | [Filip y Woppe](https://open.spotify.com/artist/0M9WmsqRszIYOTIxPfZLgC) | [Ventana espacial](https://open.spotify.com/album/0sbaxSNpm7Fje9gOx6FhxG) | 4:14 |
 | 38 | [Your Voice](https://open.spotify.com/track/4LITQHkDdxWwLnnBpBb4AT) | [Daniela Escalante](https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd) | [Your Voice](https://open.spotify.com/album/3vjzePmyNJgJTTQ870nU20) | 2:55 |
 | 39 | [Luna Taxqueña \- Jazz Mariachi](https://open.spotify.com/track/3KV4Rqy4xUPFDxtNQ9yTqp) | [Tino Contreras](https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX) | [Jazz Mariachi](https://open.spotify.com/album/3aoFmJGzas336JTwS4DGFh) | 3:31 |
 | 40 | [Trato De Asimilar](https://open.spotify.com/track/69xoMlSZEOEZzoc8yDXe6h) | [DaJuana Band](https://open.spotify.com/artist/3tyMOwvxb3oAZn6QsXx5Nm) | [¡Oh! Mi Amor](https://open.spotify.com/album/7soG2hYnOKk4TyyueaUv7u) | 5:18 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 45 | [Dana \(Cha\-Cha\-Shag\)](https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io) | [Gigio Romero](https://open.spotify.com/artist/6MRKA97PCXQyjehXTNJmbn) | [Electratoaster \- EP](https://open.spotify.com/album/74DdAeaEAK7ruREcSAeFdS) | 4:17 |
 | 46 | [La vida tiene que seguir, amor](https://open.spotify.com/track/5oxORYdAYEhF8yqTCKHrQj) | [Freddy Marichal](https://open.spotify.com/artist/6ZBb42oo1ieaC08giXjJoA), [Nuevas Relaciones, Las](https://open.spotify.com/artist/2baRW1aGPtYJiA8hsTC61c) | [Nuevas Relaciones: Atardecer](https://open.spotify.com/album/6BGjiD39s1ZeHTOEraKnbl) | 6:10 |
 | 47 | [Safo \(La Sacerdotiza Del Amor\)](https://open.spotify.com/track/7FohOjzp6xDJQ14BxlDI9T) | [Tino Contreras](https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX) | [Frente A Frente: Mexican Jazz Jam](https://open.spotify.com/album/3hF6IXgJlQ0gEwHJzVl9fr) | 3:24 |
-| 48 | [Por los Caminos del Sur](https://open.spotify.com/track/5P4gJvoE9ynAgJdAxp8mlt) | [Guerrero Jazz](https://open.spotify.com/artist/1e7vAz7CGvceTRGJ4E1Sl6) | [Mi Sentimiento Guerrerense](https://open.spotify.com/album/6035edQMGEkEvpgomvasDC) | 5:39 |
-| 49 | [Andamos Huyendo](https://open.spotify.com/track/4utJIPfz1GOEnp3KNWkW1J) | [Amanda Tovalin](https://open.spotify.com/artist/5KxINF9FVTlXn05DJB6WBK) | [Andamos Huyendo](https://open.spotify.com/album/6FJPUB4pLZxCKGUJDgDHQQ) | 4:51 |
+| 48 | [Andamos Huyendo](https://open.spotify.com/track/4utJIPfz1GOEnp3KNWkW1J) | [Amanda Tovalin](https://open.spotify.com/artist/5KxINF9FVTlXn05DJB6WBK) | [Andamos Huyendo](https://open.spotify.com/album/6FJPUB4pLZxCKGUJDgDHQQ) | 4:51 |
+| 49 | [Por los Caminos del Sur](https://open.spotify.com/track/5P4gJvoE9ynAgJdAxp8mlt) | [Guerrero Jazz](https://open.spotify.com/artist/1e7vAz7CGvceTRGJ4E1Sl6) | [Mi Sentimiento Guerrerense](https://open.spotify.com/album/6035edQMGEkEvpgomvasDC) | 5:39 |
 | 50 | [Tipitipitín](https://open.spotify.com/track/17QiAjaQ2uGVY7aLEfPmoj) | [Chucho Zarzosa Y Su Conjunto](https://open.spotify.com/artist/5rX3FXPe4kE1fJNCQhlJ3E) | [Jazz](https://open.spotify.com/album/5UlTOip0x8FRlBjf3hSNtv) | 2:37 |
 
-Snapshot ID: `MCxjMzQ4ZDY4MzMzMTg1MzkzMTgyNDc5ZmI4OTFlMzhlZTg4OGI4MjUx`
+Snapshot ID: `MCwyM2RjODY2MDVkZWUxNmRmYTQ3Nzk0ZjliNTE0OGExYmYwYTFjZTEy`

@@ -4,7 +4,7 @@
 
 > 2023年8月\~10月に開催される<a href="https://www.straykidsjapan.com/5stardometour/">Stray Kids 5\-STAR Dome Tour</a>に備えて、プレイリストで予習しよう!
 
-61 songs - 3 hr 15 min
+62 songs - 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Star Lost](https://open.spotify.com/track/1LSHzXAZXQH9R1zSEFF8Hz) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) | 3:35 | 2023-02-28 | 2023-06-27 |
 | [SUPER BOARD](https://open.spotify.com/track/078fJxqEUz0LvbHSM6AoXJ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:05 | 2023-02-28 |  |
 | [Super Bowl](https://open.spotify.com/track/3OhW68CiyfCoeGntozuUMl) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) | 3:03 | 2023-06-26 |  |
+| [Super Bowl \-Japanese ver.\-](https://open.spotify.com/track/74zvsuvIImK08x0SyRdw78) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Super Bowl \-Japanese ver.\-](https://open.spotify.com/album/2jUvXg4evkoQmyM9GU3CN3) | 3:05 | 2023-08-09 |  |
 | [TASTE \(Lee Know, Hyunjin, Felix\)](https://open.spotify.com/track/05ib88vsMeLfwlAfrZyz99) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:36 | 2023-06-26 |  |
 | [THE SOUND](https://open.spotify.com/track/2ovMFHvl5jWOZdhd9hL7uf) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THE SOUND](https://open.spotify.com/album/4ZW5rXkLINHYqH2MIAhkP2) | 3:00 | 2023-02-28 |  |
 | [There](https://open.spotify.com/track/3jHSFa6SJUwp4Za5DNEaCh) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THE SOUND](https://open.spotify.com/album/4ZW5rXkLINHYqH2MIAhkP2) | 3:35 | 2023-06-26 |  |

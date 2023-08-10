@@ -4,7 +4,7 @@
 
 > All new indie rock\. Featuring new music by spill tab.
 
-1,112 songs - 2 day 12 hr 31 min
+1,115 songs - 2 day 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,8 @@
 | [Change Your Mind](https://open.spotify.com/track/45KJZeYbF0N1tezwHWpeiz) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Change Your Mind](https://open.spotify.com/album/22PlF1r7TVJujwnutC9vb1) | 3:57 | 2023-05-19 | 2023-06-03 |
 | [Cherry Red](https://open.spotify.com/track/2vnN9cQLqaXEwShhOcMOxo) | [Richie Quake](https://open.spotify.com/artist/5RmZclxIWvmctw5DNBJyo6) | [Cherry Red](https://open.spotify.com/album/60ZLV64RaCWqJ6XgheBRKt) | 2:39 | 2022-06-10 | 2022-06-25 |
 | [Chloe](https://open.spotify.com/track/4U8VEq1Eu4FdkgIp9xkgMl) | [Quarters of Change](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [Chloe](https://open.spotify.com/album/3YYOxhWOHWlMXIgIUMMl0A) | 4:37 | 2022-05-26 | 2022-07-09 |
-| [CIGARETTES](https://open.spotify.com/track/1xJBz9XFCMZJiy6Mc4XrgC) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [CIGARETTES](https://open.spotify.com/album/6iBfLlPGfEmgjF8HG9OkJd) | 2:04 | 2023-07-21 |  |
+| [CIGARETTES](https://open.spotify.com/track/1xJBz9XFCMZJiy6Mc4XrgC) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [CIGARETTES](https://open.spotify.com/album/6iBfLlPGfEmgjF8HG9OkJd) | 2:04 | 2023-07-21 | 2023-08-10 |
+| [CIGARETTES](https://open.spotify.com/track/3mU9L9qqhMxRbXgMXUncig) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [LOVE + POP](https://open.spotify.com/album/5God4dounbNrQtR8otCSHD) | 2:04 | 2023-07-21 |  |
 | [Circles](https://open.spotify.com/track/4qPXc1ajqVrsYN4geH1SJp) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Circles](https://open.spotify.com/album/17Ufy7sNjGkWJltsGUTFb7) | 3:33 | 2023-07-28 |  |
 | [Clandestino](https://open.spotify.com/track/0aGZXenXxYlbNuJypCHLgT) | [Nitefire](https://open.spotify.com/artist/6sIMsIWHy6VE1bbB1XP7fl) | [\[redacted\]](https://open.spotify.com/album/25TYH4rc3INhrbHtmAxo9q) | 2:46 | 2022-10-14 | 2022-11-12 |
 | [Clear Bones](https://open.spotify.com/track/21NVIBYBZIp7oa0OONZBZo) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Pixel Bath](https://open.spotify.com/album/121Hqnfr9tMBdL0LJuIstL) | 2:46 | 2021-08-10 | 2022-04-20 |
@@ -623,7 +624,8 @@
 | [Lots of Nothing](https://open.spotify.com/track/2WtFN7eLf5gvhJNgwBvGP6) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Here Comes Everybody](https://open.spotify.com/album/5lnbzrucSAV8KKxTDtfvER) | 3:16 | 2022-12-07 | 2023-03-04 |
 | [Lots of Nothing](https://open.spotify.com/track/5A8f466QhliXjJxJ7h6LFB) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Lots of Nothing](https://open.spotify.com/album/2NqlE6CoTzeRYRYMVEab6H) | 3:16 | 2021-06-25 | 2022-04-15 |
 | [Lots of Nothing \(feat\. BENEE\)](https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lots of Nothing \(feat\. BENEE\)](https://open.spotify.com/album/5mndQjQK3k72Mtx9XlDfdI) | 3:13 | 2023-01-13 | 2023-04-01 |
-| [LOVE + POP](https://open.spotify.com/track/1uirjxfV7VpwcQIoB4Z1QH) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL), [YOUR ANGEL](https://open.spotify.com/artist/2TM9SCQxFsKKROUtDpC1yA) | [LOVE + POP](https://open.spotify.com/album/3FJAjZNGNDQDQ4skYueaHo) | 1:33 | 2023-06-23 |  |
+| [LOVE + POP](https://open.spotify.com/track/0jjQAZ5hC7BwDOLe3W947v) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL), [YOUR ANGEL](https://open.spotify.com/artist/2TM9SCQxFsKKROUtDpC1yA) | [LOVE + POP](https://open.spotify.com/album/5God4dounbNrQtR8otCSHD) | 1:33 | 2023-06-23 |  |
+| [LOVE + POP](https://open.spotify.com/track/1uirjxfV7VpwcQIoB4Z1QH) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL), [YOUR ANGEL](https://open.spotify.com/artist/2TM9SCQxFsKKROUtDpC1yA) | [LOVE + POP](https://open.spotify.com/album/3FJAjZNGNDQDQ4skYueaHo) | 1:33 | 2023-06-23 | 2023-08-10 |
 | [Love in the Afternoon](https://open.spotify.com/track/7GdhqmcbfFfTLXVfhysn1Y) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Love in the Afternoon](https://open.spotify.com/album/6N43rFu2J4IktSSQgZyhLL) | 3:30 | 2023-03-10 | 2023-05-06 |
 | [Love Will Get You There](https://open.spotify.com/track/0UgCI5TiOQthbrEVSqHC9j) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Love Will Get You There](https://open.spotify.com/album/4WXV0n8Gk8TlNJHyXAhyWq) | 4:10 | 2022-10-14 | 2023-03-04 |
 | [Low Era](https://open.spotify.com/track/0pLDhq4cKCN5xab9Y3Gg04) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Low Era](https://open.spotify.com/album/1TBlTbuSKgZ0YBY0AoU7yQ) | 4:14 | 2021-08-27 | 2022-04-21 |
@@ -1057,6 +1059,7 @@
 | [Waking Moment](https://open.spotify.com/track/4dAwebeDHSagbjZINLuVAJ) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Waking Moment](https://open.spotify.com/album/2LMEJAyMPLFm9Ptq3VDe96) | 4:17 | 2023-04-21 | 2023-06-03 |
 | [Wannabe \- Spotify Singles](https://open.spotify.com/track/2Nqxtt1W2iSsqKGNL5XsN1) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Wannabe \- Spotify Singles](https://open.spotify.com/album/0NMh7TwL9UkwMowqDLRYMW) | 2:32 | 2022-03-22 | 2022-04-09 |
 | [Warm Blanket](https://open.spotify.com/track/1PZz5Xx3A98S7vQH9HDWpD) | [Worriers](https://open.spotify.com/artist/55Z2PiiE80rBOkkL1wyNPD) | [Warm Blanket](https://open.spotify.com/album/0sIS7juiZ3tedOqliEmxvM) | 3:19 | 2023-04-07 | 2023-05-27 |
+| [Wasted Summers](https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers](https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY) | 2:10 | 2023-08-09 |  |
 | [Watching The Credits](https://open.spotify.com/track/2KbfXyUl8eusGT4pWwKroB) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Watching The Credits](https://open.spotify.com/album/3jRcvMTnKCMfIiA1TevG9s) | 3:15 | 2023-03-31 | 2023-07-01 |
 | [Watching The Credits](https://open.spotify.com/track/71qgKwa2bSdb2gB6Qob5qT) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Watching The Credits](https://open.spotify.com/album/4wcu9s9C12dBnYAvpeK9QY) | 3:15 | 2023-03-31 | 2023-04-30 |
 | [Way Out](https://open.spotify.com/track/4lSiDCGuP4zG8wxynVCLxZ) | [Greer](https://open.spotify.com/artist/39v5154nNeWJGatKDkLGu9) | [Way Out](https://open.spotify.com/album/3BZhfnVEG17baY4InS7Ok2) | 2:50 | 2021-11-19 | 2022-06-10 |
@@ -1090,7 +1093,7 @@
 | [Wild Heart](https://open.spotify.com/track/0pS21h64SdLRwXdG6s2NQC) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Wild Heart](https://open.spotify.com/album/0YHvPJPXebNHPw0vSRA0OI) | 2:57 | 2023-04-07 | 2023-06-17 |
 | [Wings Of Time \- From the Motion Picture Dungeons & Dragons: Honor Among Thieves](https://open.spotify.com/track/6FzhHrUtyl7jWFccWxNFSS) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Wings Of Time \(From the Motion Picture Dungeons & Dragons: Honor Among Thieves\)](https://open.spotify.com/album/65pBo4TdEz2AaxENDqw3qZ) | 2:48 | 2023-03-10 | 2023-05-27 |
 | [Winona](https://open.spotify.com/track/50CrMqvVH178XRNNhhXfTy) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [Winona](https://open.spotify.com/album/29HNHTBfCETetrohUBXJxY) | 2:25 | 2021-06-07 | 2022-06-11 |
-| [Winona](https://open.spotify.com/track/72svIlAUCr5gbM591DQkdJ) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Winona](https://open.spotify.com/album/2cwVHZrQ0eaaiUhCxW7glA) | 4:35 | 2023-05-12 |  |
+| [Winona](https://open.spotify.com/track/72svIlAUCr5gbM591DQkdJ) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Winona](https://open.spotify.com/album/2cwVHZrQ0eaaiUhCxW7glA) | 4:35 | 2023-05-12 | 2023-08-10 |
 | [wish i was dead](https://open.spotify.com/track/16dzo8i1mlh2AkmQ4DhwXH) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [wish i was dead](https://open.spotify.com/album/3B4UmoO1zRScG8X8MSDHy4) | 1:38 | 2022-07-29 | 2022-09-17 |
 | [WISH ME LUCK](https://open.spotify.com/track/3jOguPISqOdYbXW3AEfaIi) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [WISH ME LUCK](https://open.spotify.com/album/2WQyNqZQwbO16FHAr6vVZS) | 3:23 | 2022-12-16 | 2023-04-01 |
 | [Wish We Could Be Friends](https://open.spotify.com/track/70f0GBfQ0y6DZvC3jytr5R) | [Krooked Kings](https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE) | [All Out of Good Days](https://open.spotify.com/album/1SS5zZzp492w5EhFuYzVVl) | 2:31 | 2023-05-12 |  |

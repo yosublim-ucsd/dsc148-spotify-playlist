@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 
 > A música certa para o seu momento de adoração\. Foto: Rebeca Carvalho
 
-[Spotify](https://open.spotify.com/user/spotify) - 974,356 likes - 100 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 974,827 likes - 100 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 47 | [Nada Pode Calar Um Adorador](https://open.spotify.com/track/6oKhFyUz7kapALHaK0oPfR) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Nada Pode Calar Um Adorador](https://open.spotify.com/album/4q13cIdJiccllKtmogMEkT) | 4:52 |
 | 48 | [Senhor dos Exércitos \- Ao Vivo](https://open.spotify.com/track/6zeA7gTkx0Cttexj4XOiHr) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Senhor dos Exércitos \(Ao Vivo\)](https://open.spotify.com/album/3A18e58JoJ0SItSd62SVoG) | 4:41 |
 | 49 | [Meu Maior Desejo](https://open.spotify.com/track/057L1j7QOaDPCJg6q4tNfc) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5), [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe), [Toque no Altar](https://open.spotify.com/artist/3dJ2TE4tV9zYiw1lSkqdG5) | [Meu Maior Desejo](https://open.spotify.com/album/05uKIYNNY5PBsn6pOqVqCN) | 4:16 |
-| 50 | [Você Nasceu Pra Dar Certo](https://open.spotify.com/track/21oPwXcfY81BrGhrr105os) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Você Nasceu Pra Dar Certo](https://open.spotify.com/album/0yW9gXrE07qjNVwIVTWFww) | 4:16 |
-| 51 | [Quero Voltar Pra Casa \- Ao Vivo](https://open.spotify.com/track/1Tox82hir9fKOLRl70XeD3) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Quero Voltar Pra Casa \(Ao Vivo\)](https://open.spotify.com/album/6FIiRvqyMBVUwM5M0H5Bh4) | 6:05 |
+| 50 | [Quero Voltar Pra Casa \- Ao Vivo](https://open.spotify.com/track/1Tox82hir9fKOLRl70XeD3) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Quero Voltar Pra Casa \(Ao Vivo\)](https://open.spotify.com/album/6FIiRvqyMBVUwM5M0H5Bh4) | 6:05 |
+| 51 | [Você Nasceu Pra Dar Certo](https://open.spotify.com/track/21oPwXcfY81BrGhrr105os) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Você Nasceu Pra Dar Certo](https://open.spotify.com/album/0yW9gXrE07qjNVwIVTWFww) | 4:16 |
 | 52 | [Filho \- Ao Vivo](https://open.spotify.com/track/6eX2KGfKHNniRaOmhBCL2p) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Filho \(Ao Vivo\)](https://open.spotify.com/album/33Unmm1Eo3g5QEVIZQXVUn) | 4:05 |
 | 53 | [Foi Deus](https://open.spotify.com/track/47zHQVLf1JANzOYVX2bsVB) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx) | [Foi Deus](https://open.spotify.com/album/1qmmBWIGwBNJR0iWzvy5qo) | 7:33 |
 | 54 | [Águas Purificadoras/Oceanos \- Ao Vivo](https://open.spotify.com/track/7zqF7owVpOCqpCd51iYyUJ) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [John Dias](https://open.spotify.com/artist/3einRPzp7ZMWn7M360r8zc) | [Águas Purificadoras/Oceanos \(Ao Vivo\)](https://open.spotify.com/album/7aOm27XpVLbrF6c5oRRun5) | 6:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 99 | [O Grande Eu Sou](https://open.spotify.com/track/4bvgiKYPehGp4OUSflTPTt) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [O Grande Eu Sou](https://open.spotify.com/album/62QQniKZ3Sw4SAR2s6Er89) | 6:28 |
 | 100 | [Tu és Fiel Senhor / Sou Feliz / Meu Tributo](https://open.spotify.com/track/3GPG1S2vY1ptyCM9VjxrXR) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Tu és Fiel Senhor / Sou Feliz / Meu Tributo \(Ao Vivo\)](https://open.spotify.com/album/0372gytPSbw0SKdWnHU11P) | 5:16 |
 
-Snapshot ID: `MCw2ZGE0MWZmMzExMTJhNzBhYjYwZmYyYWM3NWNhZmFkYzdjZGJlNDE4`
+Snapshot ID: `MCw0ZTVjM2YxMTYwYzk4NDAzYmY4ZjRhZDFhOWVhZWU4MDFjMzViZWUz`

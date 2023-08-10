@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Kareen Guiock\-Thuram
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,359 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,389 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 22 | [Marching Band \(feat\. Masego\)](https://open.spotify.com/track/1wWGkPC7eBVvDZoEhROvGv) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Marching Band \(feat\. Masego\)](https://open.spotify.com/album/7MTqfU7Opx2Z85w4HrFESt) | 4:44 |
 | 23 | [Saturnine](https://open.spotify.com/track/4IQuLra1KorSLrHtkE9llq) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [Everything Is Going to Be OK](https://open.spotify.com/album/0LIjSRLoTlpMB2vHJHX86M) | 4:53 |
 | 24 | [Fuego](https://open.spotify.com/track/5LiuMOK0jzDQS84UXtNOCk) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Jonathan Michel](https://open.spotify.com/artist/2G2WfpJo95sdb8Djp7xzd8), [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z) | [Fuego](https://open.spotify.com/album/6GJ5Knbr4SgwIuwMzgqokl) | 2:35 |
-| 25 | [Funky](https://open.spotify.com/track/0NDvVwfGDzAIw0jKa40dGg) | [Harold López\-Nussa](https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR) | [Tumba la Timba](https://open.spotify.com/album/1LdtoWgNhiJ5ETYj50Fl8x) | 4:11 |
+| 25 | [Funky](https://open.spotify.com/track/2avNbkSi1O37FtlREepKRw) | [Harold López\-Nussa](https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR) | [Hope](https://open.spotify.com/album/1sYm78ZyaQtJESPtajIdze) | 4:11 |
 | 26 | [Just the Beginning](https://open.spotify.com/track/5Kah2gopowr7IVS1ZBEOlo) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Just the Beginning](https://open.spotify.com/album/2UJs0fSUEiBDy9MKcugiQF) | 3:26 |
 | 27 | [Outta the Blue with You](https://open.spotify.com/track/1Un6Xe3Ojn48KPWohouhWj) | [Mathieu Najean](https://open.spotify.com/artist/0uepTu7VvA1dURIYOUGUGx), [Cait Jones](https://open.spotify.com/artist/3wbVZ5KI6HVOWsoV78ECfI), [David Paycha](https://open.spotify.com/artist/4nodgfX2Ns8tPZq6OgHy9W), [Noé Codjia](https://open.spotify.com/artist/5wVgCCd9Tjas35KQdNOHlG), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa), [Édouard Pennes](https://open.spotify.com/artist/0sy0hPMUdzFlHYbGkgwxr2), [Edouard Wallyn](https://open.spotify.com/artist/6oKU1P03f4vPJeSDvCFI44), [Zoot Collectif](https://open.spotify.com/artist/42J8D311zCRXThjHHo1z90) | [Outta the Blue with You](https://open.spotify.com/album/0tVdsxVw1acnmeCIexDSNN) | 3:32 |
 | 28 | [Great Wind](https://open.spotify.com/track/05XH6Bl3LxOCc1PsN3SyIj) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens \(Deluxe\)](https://open.spotify.com/album/1WA44V7P0nv1spaWdsrxD2) | 3:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [King Size Papa](https://open.spotify.com/track/4jUTtGnhdBKqxWQycVgIEh) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [Come On & Get It \(Deluxe Edition\)](https://open.spotify.com/album/544v2wHRMwPAc7frjbukKf) | 3:52 |
 | 50 | [Old Devil Moon](https://open.spotify.com/track/1U5TcgQFBoAei2b82uQCOe) | [Robin Mckelle](https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV) | [Impressions of Ella](https://open.spotify.com/album/6hqp7wdLDkgPkSrDh8VTVO) | 4:19 |
 
-Snapshot ID: `MCw4ZjM0NGE5ZTIwMGE0ZjM4NDM2NjFmNmFmNDc4YzZmZjVjNWEzM2Jh`
+Snapshot ID: `MCw5ZWY0MTA5Mjg3YWY2YmM2NjQzYmIzMzdmYmEwZjdmY2Y3NDY3MjM0`

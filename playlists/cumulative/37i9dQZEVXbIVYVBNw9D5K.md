@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-727 songs - 1 day 12 hr 36 min
+728 songs - 1 day 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [C \- CHORBA](https://open.spotify.com/track/0Xztn8NxTd0KreEFLxI7SX) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE) | [CHORBA](https://open.spotify.com/album/7vRm8wcFeUnw3V46fGc7wg) | 0:54 | 2022-10-15 | 2022-10-20 |
 | [Cakal : İmdat](https://open.spotify.com/track/2vaT7cy28DS0lfMJOXX91S) | [RaidKlein](https://open.spotify.com/artist/2Ch8FjuR5IME08KDhdQ9CG) | [Cakal : İmdat](https://open.spotify.com/album/6zKuK8fUf5kBenRW7bTUVk) | 2:23 | 2022-04-12 | 2022-04-15 |
 | [Caney](https://open.spotify.com/track/6ed4S0as5mj3nSK81HJuyz) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Caney](https://open.spotify.com/album/5XKLNkXQYdHPocjh5JkkIN) | 2:45 | 2023-06-17 |  |
-| [Cano](https://open.spotify.com/track/0zQ8vXWLqSyBi5bYebveW1) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Cano](https://open.spotify.com/album/5LIB6TtN0tsvBevHwi3D9l) | 2:41 | 2023-01-18 |  |
+| [Cano](https://open.spotify.com/track/0zQ8vXWLqSyBi5bYebveW1) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Cano](https://open.spotify.com/album/5LIB6TtN0tsvBevHwi3D9l) | 2:41 | 2023-01-18 | 2023-08-10 |
 | [Canıma Minnet](https://open.spotify.com/track/5mCfj3EpRzSSjm5Y5IMzzz) | [Sakiler](https://open.spotify.com/artist/25gzpFRLdteuie1gW4a4hK) | [Canıma Minnet](https://open.spotify.com/album/2pEJ0Iv7MLynZF0QAFaUfS) | 3:27 | 2022-05-01 | 2022-07-24 |
 | [Canın Sağ Olsun](https://open.spotify.com/track/0mYqW8vhiw9rgwSwB21JQz) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Rast](https://open.spotify.com/artist/0Dl0DuG2pk6VWJ3XLKcvt3) | [Canın Sağ Olsun](https://open.spotify.com/album/6fpX97EwxmnNGNYeBneybh) | 2:59 | 2023-04-22 |  |
 | [CEHENNEM](https://open.spotify.com/track/2ipcDCBzdfj8KCcga2h39C) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Ayaz](https://open.spotify.com/artist/4BNyQQUayFkUOdf2sw9cLY) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 3:28 | 2022-09-10 | 2022-09-15 |
@@ -231,8 +231,8 @@
 | [End Of Time](https://open.spotify.com/track/4ZfVkX9C4WCIOkS9oyGmbN) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL), [Kelvyn Colt](https://open.spotify.com/artist/3VV2TXkXYDYSUvtRRER3Wo) | [End Of Time](https://open.spotify.com/album/5DXmqr0nXw2Gle8A6GYC8c) | 2:55 | 2021-08-15 | 2021-08-16 |
 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Mercury \- Act 1](https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt) | 2:53 | 2022-02-05 | 2022-03-13 |
 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Enemy \(with JID\) \[from the series Arcane League of Legends\]](https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b) | 2:53 | 2021-11-16 | 2022-02-06 |
-| [Enerci](https://open.spotify.com/track/3a8mVeic6p5DdMSbsQXWIx) | [Dilan Polat](https://open.spotify.com/artist/3VN1vaUIJPMBa90eZP2yeB) | [Enerci](https://open.spotify.com/album/7HanPFqztqG1srQ7pNxDwB) | 2:50 | 2023-07-25 | 2023-08-09 |
-| [Enerci](https://open.spotify.com/track/6OwX9jzYTrJESYoPid6aLN) | [Roe571](https://open.spotify.com/artist/5paVawWdXR8wsHrEMDMoA8) | [Enerci](https://open.spotify.com/album/77TNiOGd3L1H8lCmJUkTQK) | 2:50 | 2023-08-08 |  |
+| [Enerci](https://open.spotify.com/track/3a8mVeic6p5DdMSbsQXWIx) | [Dilan Polat](https://open.spotify.com/artist/3VN1vaUIJPMBa90eZP2yeB) | [Enerci](https://open.spotify.com/album/7HanPFqztqG1srQ7pNxDwB) | 2:50 | 2023-07-25 |  |
+| [Enerci](https://open.spotify.com/track/6OwX9jzYTrJESYoPid6aLN) | [Roe571](https://open.spotify.com/artist/5paVawWdXR8wsHrEMDMoA8) | [Enerci](https://open.spotify.com/album/77TNiOGd3L1H8lCmJUkTQK) | 2:50 | 2023-08-08 | 2023-08-10 |
 | [ESCAPE PLAN](https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 2:29 | 2021-11-07 | 2021-11-08 |
 | [Eskisi Gibi](https://open.spotify.com/track/44a3EWRqHiOJEGzWgaX8dd) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7), [Kozmos](https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6) | [Eskisi Gibi](https://open.spotify.com/album/3wn6SfgDifkgzusYoiH5Eg) | 3:06 | 2021-10-21 | 2022-01-08 |
 | [ESTAFURLA](https://open.spotify.com/track/67FQS0mvwg4j5LgdlTwJuc) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [ESTAFURLA](https://open.spotify.com/album/3iyn3IpyDYMy3myhSUWxXz) | 1:38 | 2023-01-21 | 2023-01-27 |
@@ -585,6 +585,7 @@
 | [Sen Varsın Diye](https://open.spotify.com/track/3b8UW227uLkRDvd0w9e1Sw) | [Yüzyüzeyken Konuşuruz](https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU) | [Sen Varsın Diye](https://open.spotify.com/album/06TJC0aOwTlxakxEv8UQNc) | 3:46 | 2021-07-04 | 2022-03-07 |
 | [Senden Yoksun](https://open.spotify.com/track/1wkZE2BMcfLOajVp5eifgN) | [Madrigal](https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd) | [Senden Yoksun](https://open.spotify.com/album/7bGrmrz5TJ8UGuNBD9LfST) | 3:20 | 2022-11-26 | 2022-11-29 |
 | [Seni Dert Etmeler](https://open.spotify.com/track/10n66m41IGjA2ZulKPK7Ew) | [Madrigal](https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd) | [Seni Dert Etmeler](https://open.spotify.com/album/6fpzQNhureiJ6bOS2g2gYj) | 3:08 | 2021-03-27\* | 2023-06-14 |
+| [Seni Her Gördüğümde](https://open.spotify.com/track/5MAv1RGwsagnfxgzB1nYqz) | [Erkin Koray](https://open.spotify.com/artist/4o3Nv2BAyoZkyGaRXv4rT3) | [Mesafeler](https://open.spotify.com/album/3pJ9WVk6gzk3mgNjecQf35) | 3:19 | 2023-08-09 |  |
 | [Seni Kalbimden Kovdum](https://open.spotify.com/track/34pNakIoVQSuTccHUj1m1q) | [Bergen](https://open.spotify.com/artist/0OjAaymO59uGiFmfpJrQpl) | [Yıllar Affetmez](https://open.spotify.com/album/3MEwxwYMEHjElfE7AEnpfd) | 5:19 | 2022-03-14 | 2022-03-18 |
 | [Seni Kendime Sakladım](https://open.spotify.com/track/4TjX6QIQVSD3j2VAxlR2wa) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Seni Kendime Sakladım](https://open.spotify.com/album/2gvskYWFqq1fW8scp1kdsj) | 4:02 | 2021-10-31 | 2021-11-03 |
 | [Seni Kırmışlar](https://open.spotify.com/track/5zALCdtPOOz1SX7uHwp6En) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Sen Böyle Değildin](https://open.spotify.com/album/14KTTy0gQAGWcOLTGkw9hy) | 2:53 | 2022-06-05 | 2022-10-09 |

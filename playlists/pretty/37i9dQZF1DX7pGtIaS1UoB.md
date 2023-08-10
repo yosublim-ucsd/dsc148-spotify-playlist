@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,670 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,687 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,11 +69,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 | 59 | [對面的女孩看過來](https://open.spotify.com/track/51vo4MbGHmzEuW5Nrk6flg) | [Richie Jen](https://open.spotify.com/artist/0zjNCSqeDIxn63crtDx7G2) | [滾石香港黃金十年\-任賢齊精選](https://open.spotify.com/album/5oU6DlroxCeM09n1GnoViL) | 3:09 |
 | 60 | [心动决定](https://open.spotify.com/track/5HACRqAqNYbtDObqji9H0r) | [叶琼琳](https://open.spotify.com/artist/4FDdIfrqDV9VCZS237ozYz), [黃禮格](https://open.spotify.com/artist/3VTDEKywxLJxC3WXJIGVGu) | [心动决定](https://open.spotify.com/album/2RDmFXCdQh0lJOPh67BzTv) | 3:23 |
 | 61 | [在我們的星球眼淚不超過三秒](https://open.spotify.com/track/37U4HQfGjWZpmXVfSbbgdy) | [鄧福如 AFÜ](https://open.spotify.com/artist/7hJBfmab67blVoqZBIAx13) | [在我們的星球眼淚不超過三秒](https://open.spotify.com/album/5yZZ5qRvkPok40amVzuV2l) | 3:29 |
-| 62 | [直球浪漫](https://open.spotify.com/track/55FEIlNSMb4MR7IAG7VNmz) | [Evan Yo](https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV), [K.A咔咔](https://open.spotify.com/artist/6We6C4fsLVl4StYXnNeZJL) | [直球浪漫](https://open.spotify.com/album/3G98Lb3s6ENS5AgcRsSplO) | 3:46 |
-| 63 | [Room For Two](https://open.spotify.com/track/2T7RvLmznqgV8WneaoW4EZ) | [Uriah See](https://open.spotify.com/artist/5G22Efave7oHLo9NG4uofT), [蔡恩雨 Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0) | [Room For Two](https://open.spotify.com/album/4inR4ojKMWTFd5APWMriZO) | 3:30 |
-| 64 | [突然想見你（《鬼之執行長》電視劇插曲）](https://open.spotify.com/track/0GEoPuKjsC0L0fgCcFPhOh) | [劉奕兒](https://open.spotify.com/artist/1NUGlzcnxDPj8nl9iCuh42), [Marcus Chang](https://open.spotify.com/artist/5GTkwiuc6ayldeGjQVAN4n) | [突然想見你（《鬼之執行長》電視劇插曲）](https://open.spotify.com/album/7EFy9C9dPS2f360H56SX4J) | 3:50 |
-| 65 | [取暖 \(新传媒电视剧《只此一家》主题曲\)](https://open.spotify.com/track/6uC4jSmhIlbfVoc0ximADq) | [Tay Kewei](https://open.spotify.com/artist/7CEGCiUDMO8Xr257mqIJl2), [Alfred Sim](https://open.spotify.com/artist/3epKmTu8QPqArqY6gEVfyS) | [取暖 \(新传媒电视剧《只此一家》主题曲\)](https://open.spotify.com/album/7Ho01QKUccrusKrE4hXGLk) | 3:46 |
-| 66 | [愛上未來的你](https://open.spotify.com/track/3bUYcpibCAUQe0O9ZERqTl) | [Will Pan](https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0) | [我的麥克風](https://open.spotify.com/album/4MYmTwirh8mfdWZxVa9mgX) | 4:01 |
+| 62 | [突然想見你（《鬼之執行長》電視劇插曲）](https://open.spotify.com/track/0GEoPuKjsC0L0fgCcFPhOh) | [劉奕兒](https://open.spotify.com/artist/1NUGlzcnxDPj8nl9iCuh42), [Marcus Chang](https://open.spotify.com/artist/5GTkwiuc6ayldeGjQVAN4n) | [突然想見你（《鬼之執行長》電視劇插曲）](https://open.spotify.com/album/7EFy9C9dPS2f360H56SX4J) | 3:50 |
+| 63 | [直球浪漫](https://open.spotify.com/track/55FEIlNSMb4MR7IAG7VNmz) | [Evan Yo](https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV), [K.A咔咔](https://open.spotify.com/artist/6We6C4fsLVl4StYXnNeZJL) | [直球浪漫](https://open.spotify.com/album/3G98Lb3s6ENS5AgcRsSplO) | 3:46 |
+| 64 | [Room For Two](https://open.spotify.com/track/2T7RvLmznqgV8WneaoW4EZ) | [Uriah See](https://open.spotify.com/artist/5G22Efave7oHLo9NG4uofT), [蔡恩雨 Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0) | [Room For Two](https://open.spotify.com/album/4inR4ojKMWTFd5APWMriZO) | 3:30 |
+| 65 | [愛上未來的你](https://open.spotify.com/track/3bUYcpibCAUQe0O9ZERqTl) | [Will Pan](https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0) | [我的麥克風](https://open.spotify.com/album/4MYmTwirh8mfdWZxVa9mgX) | 4:01 |
+| 66 | [取暖 \(新传媒电视剧《只此一家》主题曲\)](https://open.spotify.com/track/6uC4jSmhIlbfVoc0ximADq) | [Tay Kewei](https://open.spotify.com/artist/7CEGCiUDMO8Xr257mqIJl2), [Alfred Sim](https://open.spotify.com/artist/3epKmTu8QPqArqY6gEVfyS) | [取暖 \(新传媒电视剧《只此一家》主题曲\)](https://open.spotify.com/album/7Ho01QKUccrusKrE4hXGLk) | 3:46 |
 | 67 | [海绵宝宝](https://open.spotify.com/track/71dfmgOUiooQLv7ty0utOO) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [海绵宝宝](https://open.spotify.com/album/5W7iavXoJXfMRL9rhTQWCi) | 3:18 |
 | 68 | [一整个爱住你](https://open.spotify.com/track/7qS8UCNhleIWbdiPVntVNm) | [陈一彤](https://open.spotify.com/artist/1QRNCzU7Xci4JwbwqfnD2d) | [一整个爱住你](https://open.spotify.com/album/1dSG6cHr8dCZCLzVvpWmDt) | 3:27 |
 | 69 | [星星都聽懂 \(W劇場《因為你如此耀眼》插曲\)](https://open.spotify.com/track/5uvleLnm4RYiJvoMwZtziI) | [九澤CP](https://open.spotify.com/artist/7JRMSnpii2F9B7JlqRGiYR) | [星星都聽懂](https://open.spotify.com/album/7JBgAdKg5VOiQAf0d0jX0s) | 3:08 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 | 74 | [天气预报](https://open.spotify.com/track/50SGE9aLTkKSDrItBB2Ob4) | [Cindy大蟠桃子](https://open.spotify.com/artist/3bdkqX2OKcnxvqnG5DmBSH) | [天气预报](https://open.spotify.com/album/6UusQKiwOoG9pUQZkzUpGA) | 2:51 |
 | 75 | [心跳的证明](https://open.spotify.com/track/6bw3pxp4Pb5LYdRhpVKp6g) | [不是花火呀](https://open.spotify.com/artist/5CxdR3VSEWjiAa5DabdLVd) | [心跳的证明](https://open.spotify.com/album/6dejStq75Dg4p2u1LCQA7o) | 3:48 |
 
-Snapshot ID: `MCxhMjg2NDMzODAzMGZhYzA4MmIyYmJkZDRiZDU4YWFiY2IzY2RmNzI4`
+Snapshot ID: `MCwxNGNjNTk4YjVlYmY2M2MwMmZiZWUzNzNhMzQ1YTUyOTdiYmUzOWMx`

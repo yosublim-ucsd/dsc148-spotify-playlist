@@ -1,12 +1,12 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 1010926,
+  "num_followers": 1011282,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzJmMTIyMGM3M2ZkOGM5MmI0NzQyNWNmZjVlNWRjYzgxYTQzNjE0",
+  "snapshot_id": "MCw4ZTdiNTgwYjc0NTlkOGYxM2ZiZDViYWE5ZThkNTAyYzJmZGZjMmYy",
   "tracks": [
     {
       "added_at": "2023-08-08 14:55:18",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-08-08 14:55:18",
       "album": {
-        "name": "Things Are Swingin'",
-        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/3aPlQWU07jGgyHaBHVS5TS"
-    },
-    {
-      "added_at": "2023-08-08 14:55:18",
-      "album": {
         "name": "Satchmo Serenades",
         "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 181493,
       "name": "A Kiss To Build A Dream On - Single Version",
       "url": "https://open.spotify.com/track/5y8zb3grlQonjdqd27K39T"
+    },
+    {
+      "added_at": "2023-08-08 14:55:18",
+      "album": {
+        "name": "Things Are Swingin'",
+        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 199600,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/3aPlQWU07jGgyHaBHVS5TS"
     },
     {
       "added_at": "2023-08-08 14:55:18",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-08-08 14:55:18",
       "album": {
-        "name": "Qui ?",
-        "url": "https://open.spotify.com/album/70PEHw90vbLwoHMFBEbI3x"
-      },
-      "artists": [
-        {
-          "name": "Charles Aznavour",
-          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
-        }
-      ],
-      "duration_ms": 139506,
-      "name": "For Me Formidable",
-      "url": "https://open.spotify.com/track/7xx7mUGAPcMd6gGqHzoec9"
-    },
-    {
-      "added_at": "2023-08-08 14:55:18",
-      "album": {
         "name": "The Nat King Cole Story",
         "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
       },
@@ -323,18 +307,18 @@
     {
       "added_at": "2023-08-08 14:55:18",
       "album": {
-        "name": "September In The Rain",
-        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
+        "name": "Qui ?",
+        "url": "https://open.spotify.com/album/70PEHw90vbLwoHMFBEbI3x"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
         }
       ],
-      "duration_ms": 129333,
-      "name": "September In The Rain",
-      "url": "https://open.spotify.com/track/2csA2nDUNR5TfQEn1I7nt4"
+      "duration_ms": 139506,
+      "name": "For Me Formidable",
+      "url": "https://open.spotify.com/track/7xx7mUGAPcMd6gGqHzoec9"
     },
     {
       "added_at": "2023-08-08 14:55:18",
@@ -351,6 +335,22 @@
       "duration_ms": 145933,
       "name": "More - Remastered 2004",
       "url": "https://open.spotify.com/track/7gxW8hMXEUkc1G3m7z9vei"
+    },
+    {
+      "added_at": "2023-08-08 14:55:18",
+      "album": {
+        "name": "September In The Rain",
+        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 129333,
+      "name": "September In The Rain",
+      "url": "https://open.spotify.com/track/2csA2nDUNR5TfQEn1I7nt4"
     },
     {
       "added_at": "2023-08-08 14:55:18",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-08-08 14:55:18",
       "album": {
+        "name": "Nat King Cole Sings George Shearing Plays",
+        "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 165973,
+      "name": "Let There Be Love",
+      "url": "https://open.spotify.com/track/7AL1pxI9IwHoXs98G0T8cC"
+    },
+    {
+      "added_at": "2023-08-08 14:55:18",
+      "album": {
         "name": "Michael Bubl\u00e9",
         "url": "https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 152000,
       "name": "I've Got a Crush On You",
       "url": "https://open.spotify.com/track/0Kp6wskdOWA5U74pbtZ3qQ"
-    },
-    {
-      "added_at": "2023-08-08 14:55:18",
-      "album": {
-        "name": "Nat King Cole Sings George Shearing Plays",
-        "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 165973,
-      "name": "Let There Be Love",
-      "url": "https://open.spotify.com/track/7AL1pxI9IwHoXs98G0T8cC"
     },
     {
       "added_at": "2023-08-08 14:55:18",
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-08-08 14:55:18",
       "album": {
+        "name": "Call Me Irresponsible",
+        "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 269800,
+      "name": "Always on My Mind",
+      "url": "https://open.spotify.com/track/4zKbPdCC2o8726tHh5sEJw"
+    },
+    {
+      "added_at": "2023-08-08 14:55:18",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/7GiFhLj7OY98QpRwmlVUl8"
       },
@@ -535,6 +551,22 @@
     {
       "added_at": "2023-08-08 14:55:18",
       "album": {
+        "name": "Sings For Two In Love",
+        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 113293,
+      "name": "Almost Like Being In Love - Remastered",
+      "url": "https://open.spotify.com/track/6115ks6fGkf7KYRDAi8lNK"
+    },
+    {
+      "added_at": "2023-08-08 14:55:18",
+      "album": {
         "name": "The Ultimate Bobby Darin",
         "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
       },
@@ -551,8 +583,8 @@
     {
       "added_at": "2023-08-08 14:55:18",
       "album": {
-        "name": "Call Me Irresponsible",
-        "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
+        "name": "Michael Bubl\u00e9",
+        "url": "https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2"
       },
       "artists": [
         {
@@ -560,45 +592,9 @@
           "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 269800,
-      "name": "Always on My Mind",
-      "url": "https://open.spotify.com/track/4zKbPdCC2o8726tHh5sEJw"
-    },
-    {
-      "added_at": "2023-08-08 14:55:18",
-      "album": {
-        "name": "Ultimate Sinatra",
-        "url": "https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 204146,
-      "name": "Theme From New York, New York",
-      "url": "https://open.spotify.com/track/4ODWgs1CVAZKDbryEodjiz"
-    },
-    {
-      "added_at": "2023-08-08 14:55:18",
-      "album": {
-        "name": "Skylark (Std. Version)",
-        "url": "https://open.spotify.com/album/46FYQKraT48SZMaZRg7IOP"
-      },
-      "artists": [
-        {
-          "name": "Renee Olstead",
-          "url": "https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB"
-        },
-        {
-          "name": "Chris Botti",
-          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
-        }
-      ],
-      "duration_ms": 283093,
-      "name": "When I Fall in Love (feat. Chris Botti)",
-      "url": "https://open.spotify.com/track/7wwDhqPS3gxRDenfX2GtiT"
+      "duration_ms": 153533,
+      "name": "For Once in My Life",
+      "url": "https://open.spotify.com/track/0aei3EH5p7mzipPPAXxpzq"
     },
     {
       "added_at": "2023-08-08 14:55:18",
@@ -623,18 +619,18 @@
     {
       "added_at": "2023-08-08 14:55:18",
       "album": {
-        "name": "Sings For Two In Love",
-        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
+        "name": "Ultimate Sinatra",
+        "url": "https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 113293,
-      "name": "Almost Like Being In Love - Remastered",
-      "url": "https://open.spotify.com/track/6115ks6fGkf7KYRDAi8lNK"
+      "duration_ms": 204146,
+      "name": "Theme From New York, New York",
+      "url": "https://open.spotify.com/track/4ODWgs1CVAZKDbryEodjiz"
     },
     {
       "added_at": "2023-08-08 14:55:18",
@@ -655,18 +651,22 @@
     {
       "added_at": "2023-08-08 14:55:18",
       "album": {
-        "name": "Michael Bubl\u00e9",
-        "url": "https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2"
+        "name": "Skylark (Std. Version)",
+        "url": "https://open.spotify.com/album/46FYQKraT48SZMaZRg7IOP"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Renee Olstead",
+          "url": "https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB"
+        },
+        {
+          "name": "Chris Botti",
+          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
         }
       ],
-      "duration_ms": 153533,
-      "name": "For Once in My Life",
-      "url": "https://open.spotify.com/track/0aei3EH5p7mzipPPAXxpzq"
+      "duration_ms": 283093,
+      "name": "When I Fall in Love (feat. Chris Botti)",
+      "url": "https://open.spotify.com/track/7wwDhqPS3gxRDenfX2GtiT"
     },
     {
       "added_at": "2023-08-08 14:55:18",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-08-08 14:55:18",
       "album": {
-        "name": "A Swingin' Affair! (Remastered / Expanded Edition)",
-        "url": "https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 194306,
-      "name": "The Lady Is A Tramp - Remastered 1998",
-      "url": "https://open.spotify.com/track/4Z4eU8yoBtBGIQPQrhCFr2"
-    },
-    {
-      "added_at": "2023-08-08 14:55:18",
-      "album": {
         "name": "Swing When You're Winning",
         "url": "https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 197800,
       "name": "Mr Bojangles",
       "url": "https://open.spotify.com/track/0aIXPVVZArfwTOrPYSOaa5"
+    },
+    {
+      "added_at": "2023-08-08 14:55:18",
+      "album": {
+        "name": "Ultimate Sinatra",
+        "url": "https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 274933,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/6lTTzSk1hRrxp4VMwXBp2l"
     },
     {
       "added_at": "2023-08-08 14:55:18",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-08-08 14:55:18",
       "album": {
-        "name": "That Towering Feeling",
-        "url": "https://open.spotify.com/album/00ldnYHO6BnvuNX5RSRQos"
-      },
-      "artists": [
-        {
-          "name": "Vic Damone",
-          "url": "https://open.spotify.com/artist/4seoDLqmOLUf59y72WJP7g"
-        }
-      ],
-      "duration_ms": 118400,
-      "name": "Let's Fall in Love",
-      "url": "https://open.spotify.com/track/5fPxNZYdzcvSMXnJ0zsvZE"
-    },
-    {
-      "added_at": "2023-08-08 14:55:18",
-      "album": {
         "name": "B. G. In Hi Fi",
         "url": "https://open.spotify.com/album/33oCBSZiLbfqyOnTTQ4Tct"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 195533,
       "name": "Stompin At The Savoy",
       "url": "https://open.spotify.com/track/1xUJ1mdLAysxNBtO9w3J2g"
+    },
+    {
+      "added_at": "2023-08-08 14:55:18",
+      "album": {
+        "name": "That Towering Feeling",
+        "url": "https://open.spotify.com/album/00ldnYHO6BnvuNX5RSRQos"
+      },
+      "artists": [
+        {
+          "name": "Vic Damone",
+          "url": "https://open.spotify.com/artist/4seoDLqmOLUf59y72WJP7g"
+        }
+      ],
+      "duration_ms": 118400,
+      "name": "Let's Fall in Love",
+      "url": "https://open.spotify.com/track/5fPxNZYdzcvSMXnJ0zsvZE"
     },
     {
       "added_at": "2023-08-08 14:55:18",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-08-08 14:55:18",
       "album": {
-        "name": "The Complete Dinah Washington On Mercury Vol. 2 (1950-1952)",
-        "url": "https://open.spotify.com/album/2ijZDafBX3xtZSGUkxccZ6"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 182573,
-      "name": "Mad About The Boy",
-      "url": "https://open.spotify.com/track/1c7ELD4W6VyoKTglc4zzUH"
-    },
-    {
-      "added_at": "2023-08-08 14:55:18",
-      "album": {
         "name": "When Harry Met Sally... Music From The Motion Picture",
         "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 147066,
       "name": "I Could Write a Book",
       "url": "https://open.spotify.com/track/2zSnnXvex1yMcPUn4mg27H"
+    },
+    {
+      "added_at": "2023-08-08 14:55:18",
+      "album": {
+        "name": "The Complete Dinah Washington On Mercury Vol. 2 (1950-1952)",
+        "url": "https://open.spotify.com/album/2ijZDafBX3xtZSGUkxccZ6"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 182573,
+      "name": "Mad About The Boy",
+      "url": "https://open.spotify.com/track/1c7ELD4W6VyoKTglc4zzUH"
     },
     {
       "added_at": "2023-08-08 14:55:18",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-08-08 14:55:18",
       "album": {
-        "name": "Amore",
-        "url": "https://open.spotify.com/album/4u2mdmf6P2cTE5M2rhbovR"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 195626,
-      "name": "Dream A Little Dream Of Me - 1998 Remaster",
-      "url": "https://open.spotify.com/track/50zTR9gR9NGol94nv0rZXf"
-    },
-    {
-      "added_at": "2023-08-08 14:55:18",
-      "album": {
         "name": "We Are In Love",
         "url": "https://open.spotify.com/album/6Q2COpAGHfW1BeZrMIIY82"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 154906,
       "name": "Recipe For Love",
       "url": "https://open.spotify.com/track/1xe4IvNW94G8R4KCHrLUt6"
+    },
+    {
+      "added_at": "2023-08-08 14:55:18",
+      "album": {
+        "name": "Amore",
+        "url": "https://open.spotify.com/album/4u2mdmf6P2cTE5M2rhbovR"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 195626,
+      "name": "Dream A Little Dream Of Me - 1998 Remaster",
+      "url": "https://open.spotify.com/track/50zTR9gR9NGol94nv0rZXf"
     },
     {
       "added_at": "2023-08-08 14:55:18",

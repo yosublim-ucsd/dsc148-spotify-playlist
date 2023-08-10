@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Bennett Coast
 
-1,636 songs - 3 day 14 hr 19 min
+1,637 songs - 3 day 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -659,7 +659,7 @@
 | [Home By Now](https://open.spotify.com/track/5nnPrQFYUQijEz4lwMX4dC) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Home By Now](https://open.spotify.com/album/6ua077NQRY18YA0Yhk5rVt) | 4:28 | 2022-06-01 | 2022-08-06 |
 | [Home By Now](https://open.spotify.com/track/5vYaBqOAT6JpZlAD3gO1AO) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:28 | 2022-08-26 | 2023-06-17 |
 | [home2u](https://open.spotify.com/track/6QNnOrCZ0HWmn2pefRxtG9) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [we were so beautiful](https://open.spotify.com/album/2SPNwu2eMczhNIDK1bL3B5) | 2:45 | 2023-07-21 |  |
-| [Homebody](https://open.spotify.com/track/5yR57I2TT78WHVCSXdCQaN) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Homebody](https://open.spotify.com/album/6pckUMFCiCaq1EmPQeStKi) | 3:15 | 2023-06-30 |  |
+| [Homebody](https://open.spotify.com/track/5yR57I2TT78WHVCSXdCQaN) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Homebody](https://open.spotify.com/album/6pckUMFCiCaq1EmPQeStKi) | 3:15 | 2023-06-30 | 2023-08-10 |
 | [homebody](https://open.spotify.com/track/0JVd3a4OYQCFg6MPKDtQTx) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [sucks to see you doing better](https://open.spotify.com/album/5lfELljfy64NbnEZVksAXn) | 3:11 | 2020-11-10 | 2022-07-29 |
 | [homebody](https://open.spotify.com/track/4By9kkp1R1TSmAMckSM3KO) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [sucks to see you doing better \(extended\)](https://open.spotify.com/album/2W8nO4x2KlHc3z3xxe23PW) | 3:11 | 2022-06-17 | 2022-08-06 |
 | [Honey](https://open.spotify.com/track/658qcSLPvoU4IZJhjxPHRo) | [Rook Monroe](https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED) | [Honey](https://open.spotify.com/album/2erYmQSfrlmfOdktVdUcE3) | 2:28 | 2021-02-06 | 2021-10-23 |
@@ -972,6 +972,7 @@
 | [Mona Lisa](https://open.spotify.com/track/2JU0uzd2D1JxsvYsfEwZEe) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Mona Lisa](https://open.spotify.com/album/4HWQr1DMWpRjlLf871CWe5) | 3:33 | 2021-11-12 | 2022-04-21 |
 | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj) | 3:06 | 2023-07-14 |  |
 | [Mona Lisa, Mona Lisa](https://open.spotify.com/track/252G7yirQ4pXj6ZD4T9R2W) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Mona Lisa, Mona Lisa](https://open.spotify.com/album/0PmQqosU37by7LZHObTC8r) | 2:52 | 2022-07-22 | 2022-10-29 |
+| [Monster Brain](https://open.spotify.com/track/4TJbCoFd2cF2HOemoZ2WYG) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Monster Brain](https://open.spotify.com/album/5jU7sB2508KOa1gXnAtA7h) | 3:37 | 2023-04-21 |  |
 | [Monsters](https://open.spotify.com/track/1YsPiKqxgsQjp1KR4Anhlp) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Good Morning Stranger](https://open.spotify.com/album/3WzPTX1IRa5EOAhPYMq1SZ) | 3:44 | 2020-11-10 | 2021-05-25 |
 | [Montage](https://open.spotify.com/track/5spPysUyJk4E2Q1NeOPzMR) | [India Thieriot](https://open.spotify.com/artist/6MuOTOv4gVJpTYFPBb3awg) | [Montage](https://open.spotify.com/album/5wB8X7AQjIlNdvTJNa7woo) | 2:50 | 2023-02-10 | 2023-03-04 |
 | [Moonshine](https://open.spotify.com/track/0Mrm083tqUaTGUkiluSORf) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Moonshine](https://open.spotify.com/album/7dzmDJVRN97PvAHTQZyYBu) | 4:00 | 2023-04-14 |  |

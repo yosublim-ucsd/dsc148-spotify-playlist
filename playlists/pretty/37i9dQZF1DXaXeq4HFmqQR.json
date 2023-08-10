@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompen feat. Paz Court.\nDales PLAY, dales POWER.",
-  "num_followers": 12469,
+  "num_followers": 12467,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTQwZjEwMTE3YzkyNzBjZjY5YzY0MmIzOTEwZTczYjNkYzdhMWZm",
+  "snapshot_id": "MCxkNGYzN2I2NzYwYTAyNDU4ZWRiYzEyNDllMWI1OTQwMDk5M2FlZDA1",
   "tracks": [
     {
       "added_at": "2023-08-02 04:00:00",
@@ -179,22 +179,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Amarte as\u00ed",
-        "url": "https://open.spotify.com/album/1SgZr0SIPsnmptk29udjub"
-      },
-      "artists": [
-        {
-          "name": "Marineros",
-          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
-        }
-      ],
-      "duration_ms": 215596,
-      "name": "Amarte as\u00ed",
-      "url": "https://open.spotify.com/track/5Ux4iUz2HLUWWG7rVAbp3q"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "Vivo imaginando cosas",
         "url": "https://open.spotify.com/album/5xgjARuucedrnidak56nWb"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 242869,
       "name": "Vivo imaginando cosas",
       "url": "https://open.spotify.com/track/1zojNwm9ZUOIRQc74WQuND"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "Amarte as\u00ed",
+        "url": "https://open.spotify.com/album/1SgZr0SIPsnmptk29udjub"
+      },
+      "artists": [
+        {
+          "name": "Marineros",
+          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
+        }
+      ],
+      "duration_ms": 215596,
+      "name": "Amarte as\u00ed",
+      "url": "https://open.spotify.com/track/5Ux4iUz2HLUWWG7rVAbp3q"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Casinaranja",
-        "url": "https://open.spotify.com/album/3oS6bRaKUrgQ71Z65qp6uK"
-      },
-      "artists": [
-        {
-          "name": "Casandra Paz",
-          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
-        }
-      ],
-      "duration_ms": 231154,
-      "name": "Amante",
-      "url": "https://open.spotify.com/track/258wxFPOG9Rc4UdB4u7TP2"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "No Me Detiene (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/02apW9dWBnukLEN0w4JZHs"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 148031,
       "name": "Algo Real - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3KFeZhnUFQTB34gh4kAtcw"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "Casinaranja",
+        "url": "https://open.spotify.com/album/3oS6bRaKUrgQ71Z65qp6uK"
+      },
+      "artists": [
+        {
+          "name": "Casandra Paz",
+          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
+        }
+      ],
+      "duration_ms": 231154,
+      "name": "Amante",
+      "url": "https://open.spotify.com/track/258wxFPOG9Rc4UdB4u7TP2"
     },
     {
       "added_at": "2023-08-02 04:00:00",

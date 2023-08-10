@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 
 > all\-day bops you can always rely on ◡̈
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,453 likes - 107 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,490 likes - 107 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 | 24 | [Lots of Nothing](https://open.spotify.com/track/2WtFN7eLf5gvhJNgwBvGP6) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Here Comes Everybody](https://open.spotify.com/album/5lnbzrucSAV8KKxTDtfvER) | 3:16 |
 | 25 | [When Am I Gonna Lose You](https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Violet Street](https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY) | 4:24 |
 | 26 | [The King](https://open.spotify.com/track/3qs1ozCx271UQqmzC7oNuj) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [The King](https://open.spotify.com/album/27UVPGKePLLUlHX7xDQb7m) | 3:26 |
-| 27 | [Backwards Directions](https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Backwards Directions](https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF) | 3:07 |
-| 28 | [The Kiss Of Venus \(Dominic Fike\)](https://open.spotify.com/track/3gCYle76USfbHa7VDTDg5V) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [The Kiss Of Venus \(Dominic Fike\)](https://open.spotify.com/album/2GtO6b1fzw82cCdbp4CGQv) | 2:23 |
+| 27 | [The Kiss Of Venus \(Dominic Fike\)](https://open.spotify.com/track/3gCYle76USfbHa7VDTDg5V) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [The Kiss Of Venus \(Dominic Fike\)](https://open.spotify.com/album/2GtO6b1fzw82cCdbp4CGQv) | 2:23 |
+| 28 | [Backwards Directions](https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Backwards Directions](https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF) | 3:07 |
 | 29 | [Scarlett](https://open.spotify.com/track/5UqTWnG7YZAbj1SYMvnGsU) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Can You Afford To Lose Me?](https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO) | 3:16 |
 | 30 | [Want Me](https://open.spotify.com/track/3gZyxP7keADPPc8lEJWehW) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Want Me](https://open.spotify.com/album/6TcACn0I4bI5cdehIQvCND) | 4:18 |
 | 31 | [Diet Mountain Dew](https://open.spotify.com/track/21xo9jhNSsYyNk8TRKBkY0) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die](https://open.spotify.com/album/4vXt6IpMcSnqonljffWlMI) | 3:42 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 | 51 | [Buttons](https://open.spotify.com/track/11uXhnPkoGQtk3STW7ItHr) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/4tRInpsZkScWnp3UWcdLTq) | 3:04 |
 | 52 | [Runner](https://open.spotify.com/track/5PmvRPR1SedsWA08jDDgF9) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Runner](https://open.spotify.com/album/5jhIfSbDYyInZbF9c4EauX) | 2:36 |
 | 53 | [80's High School](https://open.spotify.com/track/4NnNGFTcMv5OK1LvIA2Wgw) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Melodrama](https://open.spotify.com/album/4VDue6QekQ9iZZpMTLS7ZX) | 3:22 |
-| 54 | [Selfish Soul](https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Selfish Soul](https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N) | 2:22 |
-| 55 | [Borderline Insane](https://open.spotify.com/track/3G48URkjBTbQLTwW8mz1Po) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Borderline Insane](https://open.spotify.com/album/5Qh5HPMvrJfFujCGAV9GDB) | 2:19 |
+| 54 | [Borderline Insane](https://open.spotify.com/track/3G48URkjBTbQLTwW8mz1Po) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Borderline Insane](https://open.spotify.com/album/5Qh5HPMvrJfFujCGAV9GDB) | 2:19 |
+| 55 | [Selfish Soul](https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Selfish Soul](https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N) | 2:22 |
 | 56 | [Olympus](https://open.spotify.com/track/428djqRa5cPXovbZIYQOIO) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y) | 3:36 |
 | 57 | [friendship](https://open.spotify.com/track/2W4TrsCzGcCCij6bo7O61m) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [soap water](https://open.spotify.com/album/0Vww6cLGJY85mFnFhRZ8Rv) | 2:52 |
 | 58 | [Soul Smile](https://open.spotify.com/track/2OjiYv6QfrMqQ8uQWrRknk) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Soul Smile](https://open.spotify.com/album/0sRQ2kEsxMeeJ5v9cNUn2N) | 4:09 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 | 69 | [Clay Pigeon](https://open.spotify.com/track/1yZyPhdJF5L60qDUeuwojc) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Clay Pigeon](https://open.spotify.com/album/1ACZGErPeFAM92avUZMvZZ) | 2:29 |
 | 70 | [Freedom](https://open.spotify.com/track/5jqIjKNwbiSPgjyfEzv8bH) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Freedom](https://open.spotify.com/album/4VeaoBmW52Nw0tbazyyFEb) | 4:08 |
 | 71 | [Glitter](https://open.spotify.com/track/6afganegJBNs44tGwIOgYQ) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB) | [Glitter](https://open.spotify.com/album/7lgPMiz220ZdI9hachYEvG) | 3:01 |
-| 72 | [omg](https://open.spotify.com/track/6klN3VguUtcDdJcteXxi0X) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [There's Always Going To Be Something](https://open.spotify.com/album/1qjaY5r4U3OcqPfLfIQwxn) | 2:13 |
-| 73 | [buzzkill bummer](https://open.spotify.com/track/1wMBG8bzSjlupviNxOxsyX) | [Vanillaroma](https://open.spotify.com/artist/3tTYiqgqmGlr2tfujTR7P7) | [i run like this](https://open.spotify.com/album/5dTdx1hbSnJtbLnvGajIRc) | 3:02 |
+| 72 | [buzzkill bummer](https://open.spotify.com/track/1wMBG8bzSjlupviNxOxsyX) | [Vanillaroma](https://open.spotify.com/artist/3tTYiqgqmGlr2tfujTR7P7) | [i run like this](https://open.spotify.com/album/5dTdx1hbSnJtbLnvGajIRc) | 3:02 |
+| 73 | [omg](https://open.spotify.com/track/6klN3VguUtcDdJcteXxi0X) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [There's Always Going To Be Something](https://open.spotify.com/album/1qjaY5r4U3OcqPfLfIQwxn) | 2:13 |
 | 74 | [Everything You Want](https://open.spotify.com/track/6siRNZnRBTnuDIHBNCCeZ9) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [WHY NOT](https://open.spotify.com/album/1RoIk52mQZdGkPd0AFw3Kz) | 3:00 |
 | 75 | [HARDCORE HAPPY](https://open.spotify.com/track/3crc8YzKF41WtRIz1HUmC5) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [HARDCORE HAPPY](https://open.spotify.com/album/0TEXITHiEK0QnrcwkicZlG) | 2:49 |
 | 76 | [SYNCOPATE](https://open.spotify.com/track/6s3UHVDqqqNHa1HyynG4VI) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [SYNCOPATE](https://open.spotify.com/album/4jbLhacGYxjKk9wS37eJTL) | 1:58 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 | 86 | [cool guy](https://open.spotify.com/track/5ifM6wdzeM0hLHhqQFea4P) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [cool guy](https://open.spotify.com/album/0llQ8VXp81FgVxnvnyvLIf) | 3:16 |
 | 87 | [IDK About You](https://open.spotify.com/track/7Abvdek4ynLb8dewhwrkqD) | [Nick Mono](https://open.spotify.com/artist/4HyoBuDGnR8bp6TTrrVZ9q) | [The Sun Won't Stay After Summer](https://open.spotify.com/album/4LqvOUjwO0FrMQQSQ8bJmC) | 2:31 |
 | 88 | [Summer Nights](https://open.spotify.com/track/4IjkVrsOEoPYV7FIStLCt7) | [Kean Kavanagh](https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B) | [Summer Nights](https://open.spotify.com/album/4og2scnRvgywQ1B8KpDlpm) | 3:35 |
-| 89 | [Crown](https://open.spotify.com/track/0eejiUWdzDJ0dmy5xpzmId) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Crown](https://open.spotify.com/album/3U4yJ1rULRDNhQweRGVs3L) | 3:44 |
-| 90 | [slow dance partner](https://open.spotify.com/track/0qkdpmnFRbU1h2CzQewHSR) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [forest avenue](https://open.spotify.com/album/5n1cTgcLYpugGWHNQJqAba) | 2:51 |
+| 89 | [slow dance partner](https://open.spotify.com/track/0qkdpmnFRbU1h2CzQewHSR) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [forest avenue](https://open.spotify.com/album/5n1cTgcLYpugGWHNQJqAba) | 2:51 |
+| 90 | [Crown](https://open.spotify.com/track/0eejiUWdzDJ0dmy5xpzmId) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Crown](https://open.spotify.com/album/3U4yJ1rULRDNhQweRGVs3L) | 3:44 |
 | 91 | [dead end](https://open.spotify.com/track/2KyS4sFuKvNYerKxHPyawL) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [dead end](https://open.spotify.com/album/5KxUsfacO5zoYRfxYFQYGl) | 2:20 |
 | 92 | [Cocoa Beach](https://open.spotify.com/track/1uEuKU2y2rjjjLXgZbReh1) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Cocoa Beach](https://open.spotify.com/album/0UVF9tUiKk0RqzUEr3M3WN) | 3:58 |
 | 93 | [Lala](https://open.spotify.com/track/2d7PaI8n3uJv6K4lZtWXLm) | [Life in Sweatpants](https://open.spotify.com/artist/1gz7b6h7Jmh8Ixn8byJmCQ) | [Lala](https://open.spotify.com/album/5UTSNFVplH0puzFLbvBOzM) | 2:54 |
@@ -106,14 +106,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 | 96 | [The Rush](https://open.spotify.com/track/3sBpAPxT5vYbj0haQEr5lA) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [The Rush](https://open.spotify.com/album/4zXVhFAp2JpAv4iUOfEugv) | 3:18 |
 | 97 | [rock n roll](https://open.spotify.com/track/0ZyK2jit7uZJzsiB3zTcRz) | [lil cat](https://open.spotify.com/artist/7mVCfN7owaPtL7NwXLQSNP) | [tunes](https://open.spotify.com/album/2tjpOU5Zh0lOUoRC3JTfT4) | 2:28 |
 | 98 | [i want, doesn't get](https://open.spotify.com/track/04W4goRWBFhucHH5XmHMvt) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [i want, doesn't get](https://open.spotify.com/album/3uN3Syyka3yAaYdfzDPhoi) | 2:31 |
-| 99 | [birth by sleep](https://open.spotify.com/track/3iXPcNi7FjEcqkNgaphySr) | [boyband](https://open.spotify.com/artist/4OxvOPeLvZWDxihwqtOC4D) | [never knows best](https://open.spotify.com/album/41akXQXQLDtiEfVg9vmaSY) | 2:42 |
-| 100 | [Mine](https://open.spotify.com/track/7wJJtzghzNGQiaShvwYgRq) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [Closure & Campari: After Hours](https://open.spotify.com/album/0PO6VGoUkhnPMOcUWT3V2Y) | 3:29 |
-| 101 | [All Alone](https://open.spotify.com/track/4PDsW99c5cADBvydBuQac7) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [Always Tomorrow \(Deluxe Edition\)](https://open.spotify.com/album/5BA2VC4hcCxvSVWvIOjxou) | 2:56 |
-| 102 | [Coming For Ya](https://open.spotify.com/track/5jAfv9Pn47goB2LD67Yimh) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Coming For Ya](https://open.spotify.com/album/0BwHDNebdYqyqJlz4E5EXj) | 3:13 |
+| 99 | [Mine](https://open.spotify.com/track/7wJJtzghzNGQiaShvwYgRq) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [Closure & Campari: After Hours](https://open.spotify.com/album/0PO6VGoUkhnPMOcUWT3V2Y) | 3:29 |
+| 100 | [birth by sleep](https://open.spotify.com/track/3iXPcNi7FjEcqkNgaphySr) | [boyband](https://open.spotify.com/artist/4OxvOPeLvZWDxihwqtOC4D) | [never knows best](https://open.spotify.com/album/41akXQXQLDtiEfVg9vmaSY) | 2:42 |
+| 101 | [Coming For Ya](https://open.spotify.com/track/5jAfv9Pn47goB2LD67Yimh) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Coming For Ya](https://open.spotify.com/album/0BwHDNebdYqyqJlz4E5EXj) | 3:13 |
+| 102 | [All Alone](https://open.spotify.com/track/4PDsW99c5cADBvydBuQac7) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [Always Tomorrow \(Deluxe Edition\)](https://open.spotify.com/album/5BA2VC4hcCxvSVWvIOjxou) | 2:56 |
 | 103 | [cowboys don't have friends](https://open.spotify.com/track/4osFqqGrhw1XevbTWAJwnm) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [Birthdays In July](https://open.spotify.com/album/2kpybYnysuEAN1cOgoU9os) | 2:37 |
 | 104 | [Wayside](https://open.spotify.com/track/2IH2ZVes9PkTRUxlDJj0vm) | [Mac Wetha](https://open.spotify.com/artist/4q1qItmjb9INKQM0F82StP) | [Make It Thru](https://open.spotify.com/album/1VgAvVLtWn1Aoru8eidv5z) | 3:36 |
 | 105 | [Rover](https://open.spotify.com/track/2QMDVQwtZSA4v5oJG7Gg7u) | [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY) | [Town's Dead](https://open.spotify.com/album/6PtpPzTZPYmRQ9EqfGTUYT) | 2:20 |
 | 106 | [Describe Stoke\-on\-Trent](https://open.spotify.com/track/2NfqiJwXzUPUXDCR2IUK2B) | [Jimothy Lacoste](https://open.spotify.com/artist/0sq3OExudqk1vOkbSuc8KW) | [Describe Stoke\-on\-Trent](https://open.spotify.com/album/3Z0LUzNgytpAR3BAJyp2KE) | 3:11 |
 | 107 | [glad ur gone](https://open.spotify.com/track/2CF2KISnfIIOZvzN1xb4VG) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [once the edge has worn off](https://open.spotify.com/album/1UZ0oOTbFYR9DDg0giB1bH) | 4:05 |
 
-Snapshot ID: `MCw0NGNkYzYzYzI3YWNiZDVjZjI1MjBiN2IyY2UyN2U1MGM5ZjYyYjYw`
+Snapshot ID: `MCxiZjg0NTg1NDMxZDRmMDhmNzY1ZDlmNzBmZGQ1Y2JmMjlmZTQxMjc1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70YkMXlJRA6.md) - [plain]
 
 > Deja a tu cuerpo vibrar con el sabor electropical de distintas latitudes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,724 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,768 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70YkMXlJRA6.md) - [plain]
 | 25 | [Mira Bien](https://open.spotify.com/track/0MBhNioCkdEUAusgm0FATa) | [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Mira Bien](https://open.spotify.com/album/09TCMzRYLVe74o9uoEywaU) | 3:27 |
 | 26 | [Métele \- Cesare Remix](https://open.spotify.com/track/5h5Mc6KAFfrVzsP9ENIH0S) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R), [Cesare](https://open.spotify.com/artist/6I00pP9y2ql2aSsviBmf0r) | [Métele \(Cesare Remix\)](https://open.spotify.com/album/07fJL4eGqxwSzvmuYjdKT3) | 4:44 |
 | 27 | [Et ta mère \(Solar Remix\) \[feat\. Reyna Tropical\]](https://open.spotify.com/track/6GMd54cabubG2fdz438cmF) | [Zoufris Maracas](https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD), [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Et ta mère \(Solar Remix\) \[feat\. Reyna Tropical\]](https://open.spotify.com/album/3kzzsWSctX6CVegsmQB1cx) | 3:40 |
-| 28 | [Each Time I Think of You](https://open.spotify.com/track/7vfmLNa6MNKWYQFR4VLmar) | [TÂCHES](https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF) | [Beach Planet Vol\. 1](https://open.spotify.com/album/1v4t4StpwOvJhiaHPWxpjp) | 6:24 |
+| 28 | [Piedras del Sol](https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Piedras del Sol](https://open.spotify.com/album/3WO6xLNgcJeeTG2036qLHd) | 3:42 |
 | 29 | [Sol Clap](https://open.spotify.com/track/1AgPNdwUyMtlvYCPbcf9ta) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Magnetica](https://open.spotify.com/album/4RcIb3FX6H4PLqsjzB9onL) | 3:50 |
-| 30 | [Piedras del Sol](https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Piedras del Sol](https://open.spotify.com/album/3WO6xLNgcJeeTG2036qLHd) | 3:42 |
+| 30 | [Each Time I Think of You](https://open.spotify.com/track/7vfmLNa6MNKWYQFR4VLmar) | [TÂCHES](https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF) | [Beach Planet Vol\. 1](https://open.spotify.com/album/1v4t4StpwOvJhiaHPWxpjp) | 6:24 |
 | 31 | [Que Me Siga \(Malo\)](https://open.spotify.com/track/3tp88MGqFKSLfoieHOfbNC) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Que Me Siga \(Malo\)](https://open.spotify.com/album/6Bs9kozUMUa2Y6YAPgQ9XO) | 3:15 |
 | 32 | [The Caribbean Raver](https://open.spotify.com/track/1CKL36QvlImNhsMAbwhGIQ) | [Pernett](https://open.spotify.com/artist/2ovmrverobmQvD14n5REoU), [The Caribbean Ravers](https://open.spotify.com/artist/48u4Rcx3bbMC5PtUm2AVcd) | [Música Para Pick Up](https://open.spotify.com/album/1XpYE30QnfPWIZxBEgK1Vo) | 4:05 |
 | 33 | [Baile Fodongo](https://open.spotify.com/track/1dlyPfKv2Bl5nYZzpO1VUX) | [Altoparlante](https://open.spotify.com/artist/1KNxS8isGUfOMFXmPNRlIU) | [Baile Fodongo](https://open.spotify.com/album/64c3abWCWgsE90nB69DsPE) | 5:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70YkMXlJRA6.md) - [plain]
 | 49 | [La Niña Grande](https://open.spotify.com/track/0nOay39wPB6N6sNTYnXjrN) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP), [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Escape Plan](https://open.spotify.com/album/1rbwWcHllLmjWUjODSKV4Y) | 3:08 |
 | 50 | [Elelu Tomassita](https://open.spotify.com/track/1RGmt75GiXpnUxM1jYeiCW) | [PAAX \(Tulum\)](https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd) | [El Baile de las Arañas](https://open.spotify.com/album/6BHC6zcjaMC9gilqBS68Tw) | 6:44 |
 
-Snapshot ID: `MCw0YTYzZGI3ZTAyMTJiNDMxOGE0ODA4MzBlMzJlMmVhZjE2OTc2YTQx`
+Snapshot ID: `MCwyMTdiZDBlNjI2NmQ1YzQ4ODM2YmJiZGNmY2E3ZjgzNTE4MmM5YWJj`

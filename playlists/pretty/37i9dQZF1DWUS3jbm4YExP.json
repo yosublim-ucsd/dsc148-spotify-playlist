@@ -1,12 +1,12 @@
 {
   "description": "Groovy sounds from around the world.",
-  "num_followers": 657850,
+  "num_followers": 658226,
   "original_name": "Global Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MGY3MTlmMzQzZTZkNzBjYzgzNDEyNjM1NDQxZWQ1ZTRjNjQzOWIw",
+  "snapshot_id": "MCwxNWE5OWRhMmU2OWMwYmQ2MDk5NzJkNzI2Mjg2NDFkNjgwYzA1OThk",
   "tracks": [
     {
       "added_at": "2023-08-07 16:09:42",
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 342189,
-      "name": "Time (You and I)",
-      "url": "https://open.spotify.com/track/0S3BtG3i5tkQmehJhIhHF3"
+      "duration_ms": 167972,
+      "name": "Pelota",
+      "url": "https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi"
     },
     {
       "added_at": "2023-08-07 16:09:42",
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 167972,
-      "name": "Pelota",
-      "url": "https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi"
+      "duration_ms": 342189,
+      "name": "Time (You and I)",
+      "url": "https://open.spotify.com/track/0S3BtG3i5tkQmehJhIhHF3"
     },
     {
       "added_at": "2023-08-07 16:09:42",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-08-07 16:09:42",
       "album": {
-        "name": "Taivshral",
-        "url": "https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq"
-      },
-      "artists": [
-        {
-          "name": "Enji",
-          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
-        }
-      ],
-      "duration_ms": 187166,
-      "name": "Taivshral",
-      "url": "https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO"
-    },
-    {
-      "added_at": "2023-08-07 16:09:42",
-      "album": {
         "name": "La Cura",
         "url": "https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 181000,
       "name": "La Cura",
       "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
+    },
+    {
+      "added_at": "2023-08-07 16:09:42",
+      "album": {
+        "name": "Taivshral",
+        "url": "https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq"
+      },
+      "artists": [
+        {
+          "name": "Enji",
+          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
+        }
+      ],
+      "duration_ms": 187166,
+      "name": "Taivshral",
+      "url": "https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO"
     },
     {
       "added_at": "2023-08-07 16:09:42",
@@ -847,18 +847,18 @@
     {
       "added_at": "2023-08-07 16:09:42",
       "album": {
-        "name": "Zenzero",
-        "url": "https://open.spotify.com/album/5HOmMSauwz1wlsNNtI7RvO"
+        "name": "Le Fruit Disco",
+        "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
       },
       "artists": [
         {
-          "name": "Il Mago Del Gelato",
-          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
         }
       ],
-      "duration_ms": 250002,
-      "name": "Zenzero",
-      "url": "https://open.spotify.com/track/596eSWS6SoVNLoe9h1CMXn"
+      "duration_ms": 215080,
+      "name": "maracuya massage",
+      "url": "https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh"
     },
     {
       "added_at": "2023-08-07 16:09:42",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-08-07 16:09:42",
       "album": {
+        "name": "Zenzero",
+        "url": "https://open.spotify.com/album/5HOmMSauwz1wlsNNtI7RvO"
+      },
+      "artists": [
+        {
+          "name": "Il Mago Del Gelato",
+          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
+        }
+      ],
+      "duration_ms": 250002,
+      "name": "Zenzero",
+      "url": "https://open.spotify.com/track/596eSWS6SoVNLoe9h1CMXn"
+    },
+    {
+      "added_at": "2023-08-07 16:09:42",
+      "album": {
         "name": "Badala Zamana (Habibi Funk 015)",
         "url": "https://open.spotify.com/album/04Ok581SPH7eTevAKZUeQB"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 190124,
       "name": "Badala Zamana (Habibi Funk 015)",
       "url": "https://open.spotify.com/track/0x267yS2OeozYaFzCyqnx6"
-    },
-    {
-      "added_at": "2023-08-07 16:09:42",
-      "album": {
-        "name": "Le Fruit Disco",
-        "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
-      },
-      "artists": [
-        {
-          "name": "Stuzzi",
-          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
-        }
-      ],
-      "duration_ms": 215080,
-      "name": "maracuya massage",
-      "url": "https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh"
     },
     {
       "added_at": "2023-08-07 16:09:42",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-08-07 16:09:42",
       "album": {
-        "name": "Padremontes",
-        "url": "https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn"
-      },
-      "artists": [
-        {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        }
-      ],
-      "duration_ms": 203778,
-      "name": "Sondiram\u00e1",
-      "url": "https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q"
-    },
-    {
-      "added_at": "2023-08-07 16:09:42",
-      "album": {
         "name": "Sun Khosi",
         "url": "https://open.spotify.com/album/1MZqnwoL3zZjYWSSgGJ3Cb"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 236886,
       "name": "Sun Khosi",
       "url": "https://open.spotify.com/track/0TFR4fugISTa7kMxqY6JJj"
+    },
+    {
+      "added_at": "2023-08-07 16:09:42",
+      "album": {
+        "name": "Padremontes",
+        "url": "https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn"
+      },
+      "artists": [
+        {
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
+        }
+      ],
+      "duration_ms": 203778,
+      "name": "Sondiram\u00e1",
+      "url": "https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q"
     },
     {
       "added_at": "2023-08-07 16:09:42",
@@ -1327,6 +1327,26 @@
     {
       "added_at": "2023-08-07 16:09:42",
       "album": {
+        "name": "Marvin",
+        "url": "https://open.spotify.com/album/0JStflx0reeYHxiTIy0SQO"
+      },
+      "artists": [
+        {
+          "name": "Laurent Bardainne",
+          "url": "https://open.spotify.com/artist/077jd0crcXmExS5nOSDhQw"
+        },
+        {
+          "name": "Tigre d'Eau Douce",
+          "url": "https://open.spotify.com/artist/2J0cbdwUlJkBYkQYIDDU5k"
+        }
+      ],
+      "duration_ms": 235795,
+      "name": "Porsche 944",
+      "url": "https://open.spotify.com/track/6JSkc4vPxHuTqgSuJ2vMu9"
+    },
+    {
+      "added_at": "2023-08-07 16:09:42",
+      "album": {
         "name": "Mal\u00eca",
         "url": "https://open.spotify.com/album/3tm3bhYRjEQ4pig97SQNvu"
       },
@@ -1347,22 +1367,18 @@
     {
       "added_at": "2023-08-07 16:09:42",
       "album": {
-        "name": "Marvin",
-        "url": "https://open.spotify.com/album/0JStflx0reeYHxiTIy0SQO"
+        "name": "Je k'abere",
+        "url": "https://open.spotify.com/album/76qKWyy9uXq3Brpg3kp6c6"
       },
       "artists": [
         {
-          "name": "Laurent Bardainne",
-          "url": "https://open.spotify.com/artist/077jd0crcXmExS5nOSDhQw"
-        },
-        {
-          "name": "Tigre d'Eau Douce",
-          "url": "https://open.spotify.com/artist/2J0cbdwUlJkBYkQYIDDU5k"
+          "name": "Surv",
+          "url": "https://open.spotify.com/artist/2DMOI9FmfrkEXFPLPUi6TQ"
         }
       ],
-      "duration_ms": 235795,
-      "name": "Porsche 944",
-      "url": "https://open.spotify.com/track/6JSkc4vPxHuTqgSuJ2vMu9"
+      "duration_ms": 261167,
+      "name": "Je k'abere",
+      "url": "https://open.spotify.com/track/5wlLdbWUHyaoSwpbQgJSiL"
     },
     {
       "added_at": "2023-08-07 16:09:42",
@@ -1387,54 +1403,6 @@
     {
       "added_at": "2023-08-07 16:09:42",
       "album": {
-        "name": "Yarait (Habibi Funk 022)",
-        "url": "https://open.spotify.com/album/0bSQUOWTCMRlnabhqf3XO3"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Ben Ali",
-          "url": "https://open.spotify.com/artist/6Gej8kFQeKbjY7dS9HXu1w"
-        }
-      ],
-      "duration_ms": 237500,
-      "name": "Yarait - Habibi Funk 022",
-      "url": "https://open.spotify.com/track/3kT4IRS9cw54EmbzUoZez5"
-    },
-    {
-      "added_at": "2023-08-07 16:09:42",
-      "album": {
-        "name": "Je k'abere",
-        "url": "https://open.spotify.com/album/76qKWyy9uXq3Brpg3kp6c6"
-      },
-      "artists": [
-        {
-          "name": "Surv",
-          "url": "https://open.spotify.com/artist/2DMOI9FmfrkEXFPLPUi6TQ"
-        }
-      ],
-      "duration_ms": 261167,
-      "name": "Je k'abere",
-      "url": "https://open.spotify.com/track/5wlLdbWUHyaoSwpbQgJSiL"
-    },
-    {
-      "added_at": "2023-08-07 16:09:42",
-      "album": {
-        "name": "I Can't Get Along Without You",
-        "url": "https://open.spotify.com/album/2O3dAHww2VONqi9uFhBjzZ"
-      },
-      "artists": [
-        {
-          "name": "Vance and Suzzanne",
-          "url": "https://open.spotify.com/artist/6aoquwjUxOgIVS9nVLZxEe"
-        }
-      ],
-      "duration_ms": 400000,
-      "name": "I Can't Get Along Without You",
-      "url": "https://open.spotify.com/track/0cIfVZj2lGNM4yNcQqF7te"
-    },
-    {
-      "added_at": "2023-08-07 16:09:42",
-      "album": {
         "name": "Jaiyede Afro",
         "url": "https://open.spotify.com/album/6qbKpBTwlQw53EjMD0BLs5"
       },
@@ -1455,18 +1423,34 @@
     {
       "added_at": "2023-08-07 16:09:42",
       "album": {
-        "name": "Telenova",
-        "url": "https://open.spotify.com/album/6G5bsMmEOoqAfaJleAMcRn"
+        "name": "Yarait (Habibi Funk 022)",
+        "url": "https://open.spotify.com/album/0bSQUOWTCMRlnabhqf3XO3"
       },
       "artists": [
         {
-          "name": "Zuco 103",
-          "url": "https://open.spotify.com/artist/7m5FwndSbCRd5vJvgviUCA"
+          "name": "Ahmed Ben Ali",
+          "url": "https://open.spotify.com/artist/6Gej8kFQeKbjY7dS9HXu1w"
         }
       ],
-      "duration_ms": 200500,
-      "name": "Aruenda",
-      "url": "https://open.spotify.com/track/5QVFbvZjqNFT8gpQEKCqey"
+      "duration_ms": 237500,
+      "name": "Yarait - Habibi Funk 022",
+      "url": "https://open.spotify.com/track/3kT4IRS9cw54EmbzUoZez5"
+    },
+    {
+      "added_at": "2023-08-07 16:09:42",
+      "album": {
+        "name": "I Can't Get Along Without You",
+        "url": "https://open.spotify.com/album/2O3dAHww2VONqi9uFhBjzZ"
+      },
+      "artists": [
+        {
+          "name": "Vance and Suzzanne",
+          "url": "https://open.spotify.com/artist/6aoquwjUxOgIVS9nVLZxEe"
+        }
+      ],
+      "duration_ms": 400000,
+      "name": "I Can't Get Along Without You",
+      "url": "https://open.spotify.com/track/0cIfVZj2lGNM4yNcQqF7te"
     },
     {
       "added_at": "2023-08-07 16:09:42",
@@ -1507,6 +1491,22 @@
     {
       "added_at": "2023-08-07 16:09:42",
       "album": {
+        "name": "Expansions",
+        "url": "https://open.spotify.com/album/1tMUBZE5cSHtJCn0HT9FaW"
+      },
+      "artists": [
+        {
+          "name": "Bacao Rhythm & Steel Band",
+          "url": "https://open.spotify.com/artist/0sjhSgEkyVa8QRmkkuckJ0"
+        }
+      ],
+      "duration_ms": 151948,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/6pnryYnhE5zBugXN1QxPBg"
+    },
+    {
+      "added_at": "2023-08-07 16:09:42",
+      "album": {
         "name": "Bumay\u00e9 (Voilaaa Disco Remix)",
         "url": "https://open.spotify.com/album/1nSPLTMbhYYw4nR1NefcfB"
       },
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-08-07 16:09:42",
       "album": {
-        "name": "Expansions",
-        "url": "https://open.spotify.com/album/1tMUBZE5cSHtJCn0HT9FaW"
-      },
-      "artists": [
-        {
-          "name": "Bacao Rhythm & Steel Band",
-          "url": "https://open.spotify.com/artist/0sjhSgEkyVa8QRmkkuckJ0"
-        }
-      ],
-      "duration_ms": 151948,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/6pnryYnhE5zBugXN1QxPBg"
-    },
-    {
-      "added_at": "2023-08-07 16:09:42",
-      "album": {
         "name": "Music Save Me (One More Time)",
         "url": "https://open.spotify.com/album/2EULAjFh61Hr4VorEQLCZU"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 256490,
       "name": "How It Goes",
       "url": "https://open.spotify.com/track/2rIzolYxlQr9JoitK2BeC4"
+    },
+    {
+      "added_at": "2023-08-07 16:09:42",
+      "album": {
+        "name": "Telenova",
+        "url": "https://open.spotify.com/album/6G5bsMmEOoqAfaJleAMcRn"
+      },
+      "artists": [
+        {
+          "name": "Zuco 103",
+          "url": "https://open.spotify.com/artist/7m5FwndSbCRd5vJvgviUCA"
+        }
+      ],
+      "duration_ms": 200500,
+      "name": "Aruenda",
+      "url": "https://open.spotify.com/track/5QVFbvZjqNFT8gpQEKCqey"
     },
     {
       "added_at": "2023-08-07 16:09:42",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2023-08-07 16:09:42",
       "album": {
+        "name": "El Fen / Casbah",
+        "url": "https://open.spotify.com/album/4FyMIn7x3MvXhS77CU8gOs"
+      },
+      "artists": [
+        {
+          "name": "Ait Meslayene",
+          "url": "https://open.spotify.com/artist/6UqOmCP26EuPagfWAAGEaI"
+        }
+      ],
+      "duration_ms": 279874,
+      "name": "El Fen",
+      "url": "https://open.spotify.com/track/7mxnjeb6R7jMyKbxGTaB9B"
+    },
+    {
+      "added_at": "2023-08-07 16:09:42",
+      "album": {
         "name": "Late Night Tales: Khruangbin",
         "url": "https://open.spotify.com/album/6G9fIqCsV0qEiBsdwLOACy"
       },
@@ -1591,18 +1607,18 @@
     {
       "added_at": "2023-08-07 16:09:42",
       "album": {
-        "name": "El Fen / Casbah",
-        "url": "https://open.spotify.com/album/4FyMIn7x3MvXhS77CU8gOs"
+        "name": "Under No Nation (Radio Edit)",
+        "url": "https://open.spotify.com/album/6NpZ9v8aJwdLdhhVEJq3Lm"
       },
       "artists": [
         {
-          "name": "Ait Meslayene",
-          "url": "https://open.spotify.com/artist/6UqOmCP26EuPagfWAAGEaI"
+          "name": "Goat",
+          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
         }
       ],
-      "duration_ms": 279874,
-      "name": "El Fen",
-      "url": "https://open.spotify.com/track/7mxnjeb6R7jMyKbxGTaB9B"
+      "duration_ms": 184256,
+      "name": "Under No Nation - Radio Edit",
+      "url": "https://open.spotify.com/track/4FtumUPkZgKXyItJx2telR"
     },
     {
       "added_at": "2023-08-07 16:09:42",
@@ -1623,22 +1639,6 @@
       "duration_ms": 242657,
       "name": "The Ocean",
       "url": "https://open.spotify.com/track/11ZEPoLOymnDqXoc1e98FO"
-    },
-    {
-      "added_at": "2023-08-07 16:09:42",
-      "album": {
-        "name": "Under No Nation (Radio Edit)",
-        "url": "https://open.spotify.com/album/6NpZ9v8aJwdLdhhVEJq3Lm"
-      },
-      "artists": [
-        {
-          "name": "Goat",
-          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
-        }
-      ],
-      "duration_ms": 184256,
-      "name": "Under No Nation - Radio Edit",
-      "url": "https://open.spotify.com/track/4FtumUPkZgKXyItJx2telR"
     },
     {
       "added_at": "2023-08-07 16:09:42",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-08-07 16:09:42",
       "album": {
-        "name": "Mam Yinne Wa",
-        "url": "https://open.spotify.com/album/1reaXBOvF2YSC4iYd2AQ0T"
-      },
-      "artists": [
-        {
-          "name": "Alogte Oho & His Sounds of Joy",
-          "url": "https://open.spotify.com/artist/4rGa6nIVxUyi8xWSwkHDE1"
-        }
-      ],
-      "duration_ms": 235250,
-      "name": "Mam Yinne Wa",
-      "url": "https://open.spotify.com/track/08k6ZsTPo7ws120ty9nvHM"
-    },
-    {
-      "added_at": "2023-08-07 16:09:42",
-      "album": {
         "name": "Eastern Flowers",
         "url": "https://open.spotify.com/album/3MzZNd1GFSCkb40EBv326G"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 204333,
       "name": "Lotus",
       "url": "https://open.spotify.com/track/4Lgp39erLhFmODQ2AnPl2r"
+    },
+    {
+      "added_at": "2023-08-07 16:09:42",
+      "album": {
+        "name": "Mam Yinne Wa",
+        "url": "https://open.spotify.com/album/1reaXBOvF2YSC4iYd2AQ0T"
+      },
+      "artists": [
+        {
+          "name": "Alogte Oho & His Sounds of Joy",
+          "url": "https://open.spotify.com/artist/4rGa6nIVxUyi8xWSwkHDE1"
+        }
+      ],
+      "duration_ms": 235250,
+      "name": "Mam Yinne Wa",
+      "url": "https://open.spotify.com/track/08k6ZsTPo7ws120ty9nvHM"
     },
     {
       "added_at": "2023-08-07 16:09:42",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2023-08-07 16:09:42",
       "album": {
+        "name": "Humans In A Pool",
+        "url": "https://open.spotify.com/album/33KfzSanRdMefeMLLLzBgP"
+      },
+      "artists": [
+        {
+          "name": "Takeshi's Cashew",
+          "url": "https://open.spotify.com/artist/6Fz85Ih5XufwQ1TH4s0pHA"
+        }
+      ],
+      "duration_ms": 338251,
+      "name": "Akihi",
+      "url": "https://open.spotify.com/track/585G4ngYqOUkHfRNyLzsd1"
+    },
+    {
+      "added_at": "2023-08-07 16:09:42",
+      "album": {
         "name": "Pueblo",
         "url": "https://open.spotify.com/album/5s0xBuS6BCFEyJwLrLRJWZ"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 103220,
       "name": "Pueblo",
       "url": "https://open.spotify.com/track/6pR0LSU0EAwvfEa9ocQ1aV"
-    },
-    {
-      "added_at": "2023-08-07 16:09:42",
-      "album": {
-        "name": "Safe Passage",
-        "url": "https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3"
-      },
-      "artists": [
-        {
-          "name": "Gitkin",
-          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
-        }
-      ],
-      "duration_ms": 206684,
-      "name": "Nosotros Tambi\u00e9n",
-      "url": "https://open.spotify.com/track/76xUNVY7llhvudB1jrl21I"
     }
   ],
   "unique_name": "Global Groove",

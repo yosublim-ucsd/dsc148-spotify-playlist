@@ -1,12 +1,12 @@
 {
   "description": "Acoustic and roots music gems. Cover: Trousdale",
-  "num_followers": 2140976,
+  "num_followers": 2140934,
   "original_name": "Infinite Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDhhNDBjMjExYzhiMmY2ZmRjNjFhY2VmNmY1YzYwNTE5YzkwNTU4",
+  "snapshot_id": "MCwzNmQzOGMwMDc3MTJiMjFlZmY5Y2IwNTZmYmYwZWFlNTNmZjI0NTNm",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Seasons of Change",
-        "url": "https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 162106,
-      "name": "Grow into Love",
-      "url": "https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "My Ego Dies At The End",
         "url": "https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 242644,
       "name": "My Ego Dies At The End",
       "url": "https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Seasons of Change",
+        "url": "https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 162106,
+      "name": "Grow into Love",
+      "url": "https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Pharmakon",
+        "url": "https://open.spotify.com/album/3sMj2Pt7MnyhkUPxZtuguI"
+      },
+      "artists": [
+        {
+          "name": "Humbird",
+          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
+        }
+      ],
+      "duration_ms": 155352,
+      "name": "Pharmakon",
+      "url": "https://open.spotify.com/track/4gbWcPHqTZHoq5PrS0iBHq"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "A Pillar of Salt",
         "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 319053,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Pharmakon",
-        "url": "https://open.spotify.com/album/3sMj2Pt7MnyhkUPxZtuguI"
-      },
-      "artists": [
-        {
-          "name": "Humbird",
-          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
-        }
-      ],
-      "duration_ms": 155352,
-      "name": "Pharmakon",
-      "url": "https://open.spotify.com/track/4gbWcPHqTZHoq5PrS0iBHq"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 307534,
-      "name": "Such A Simple Thing - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Living Room Worktapes",
         "url": "https://open.spotify.com/album/4tqIQcOp7So49ZKF4Mzvp3"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 243898,
       "name": "Where You Are - Acoustic",
       "url": "https://open.spotify.com/track/4OrDWRw53W0rp1Lps64OFb"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 307534,
+      "name": "Such A Simple Thing - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Tomb",
-        "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
-      },
-      "artists": [
-        {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
-        }
-      ],
-      "duration_ms": 205657,
-      "name": "You Needed Love, I Needed You",
-      "url": "https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Neptune",
         "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 222293,
       "name": "Spirit Cold",
       "url": "https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Tomb",
+        "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
+      },
+      "artists": [
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "duration_ms": 205657,
+      "name": "You Needed Love, I Needed You",
+      "url": "https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Rivers",
-        "url": "https://open.spotify.com/album/78s3die4I0Q75cp2NKO6sc"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        }
-      ],
-      "duration_ms": 236853,
-      "name": "Rivers",
-      "url": "https://open.spotify.com/track/1dBje6EOpDBLdoKGo94DEa"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "True North",
         "url": "https://open.spotify.com/album/1XGrCmcWifmmiKfpK4nwm2"
       },
@@ -1579,18 +1563,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1jd6rbYgVc4EoGEVhi3QF9"
+        "name": "Rivers",
+        "url": "https://open.spotify.com/album/78s3die4I0Q75cp2NKO6sc"
       },
       "artists": [
         {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
         }
       ],
-      "duration_ms": 193671,
-      "name": "Amsterdam (Recorded at Spotify Studios NYC)",
-      "url": "https://open.spotify.com/track/4nxqNGWbm9RYDFvNhrM9rY"
+      "duration_ms": 236853,
+      "name": "Rivers",
+      "url": "https://open.spotify.com/track/1dBje6EOpDBLdoKGo94DEa"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1607,6 +1591,22 @@
       "duration_ms": 173426,
       "name": "Resentment",
       "url": "https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1jd6rbYgVc4EoGEVhi3QF9"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 193671,
+      "name": "Amsterdam (Recorded at Spotify Studios NYC)",
+      "url": "https://open.spotify.com/track/4nxqNGWbm9RYDFvNhrM9rY"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Build Me Up From Bones",
-        "url": "https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 216173,
-      "name": "Build Me Up From Bones",
-      "url": "https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Good Woman",
         "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 216746,
       "name": "Nothing\u2019s Gonna Happen",
       "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Build Me Up From Bones",
+        "url": "https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 216173,
+      "name": "Build Me Up From Bones",
+      "url": "https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Siren Song",
-        "url": "https://open.spotify.com/album/2muIm4KF0yGt8T630su2Vq"
-      },
-      "artists": [
-        {
-          "name": "The Brother Brothers",
-          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
-        }
-      ],
-      "duration_ms": 183767,
-      "name": "Siren Song",
-      "url": "https://open.spotify.com/track/3nKCmdfFSB49NPGRsfD4wh"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Thinner",
         "url": "https://open.spotify.com/album/0gyb0gR5HiR1kLDXdvGPpA"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 206755,
       "name": "Mud-Stained Dress",
       "url": "https://open.spotify.com/track/0uItDWscT3ytoQY5bPq9US"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Siren Song",
+        "url": "https://open.spotify.com/album/2muIm4KF0yGt8T630su2Vq"
+      },
+      "artists": [
+        {
+          "name": "The Brother Brothers",
+          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
+        }
+      ],
+      "duration_ms": 183767,
+      "name": "Siren Song",
+      "url": "https://open.spotify.com/track/3nKCmdfFSB49NPGRsfD4wh"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Santa Barbara",
-        "url": "https://open.spotify.com/album/24TRZ0557IVU06q4TaYgNI"
-      },
-      "artists": [
-        {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "Santa Barbara",
-      "url": "https://open.spotify.com/track/4yuVmMynbF6qBDsT3w6aXy"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Floating On A Dream",
         "url": "https://open.spotify.com/album/7FpXmkq40ZUE5bm6IEyksa"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 177720,
       "name": "All Is Well [Feat. Joy Williams]",
       "url": "https://open.spotify.com/track/0z1SYbSEYNLoZuxzHMTS6h"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Santa Barbara",
+        "url": "https://open.spotify.com/album/24TRZ0557IVU06q4TaYgNI"
+      },
+      "artists": [
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "Santa Barbara",
+      "url": "https://open.spotify.com/track/4yuVmMynbF6qBDsT3w6aXy"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Heavy",
-        "url": "https://open.spotify.com/album/5eFydEkF3KDCwlOlMBu3KK"
-      },
-      "artists": [
-        {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
-        }
-      ],
-      "duration_ms": 264150,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/2RmH5VLkfdILc6wTK1LWkH"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Age of Apathy",
         "url": "https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo"
       },
@@ -2099,6 +2083,22 @@
       "duration_ms": 212255,
       "name": "Passengers",
       "url": "https://open.spotify.com/track/4DQFYIY3Dg3LwpSAEFWoi2"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/5eFydEkF3KDCwlOlMBu3KK"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "duration_ms": 264150,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/2RmH5VLkfdILc6wTK1LWkH"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2159,6 +2159,22 @@
       "duration_ms": 199384,
       "name": "Cool Girl",
       "url": "https://open.spotify.com/track/51ZW0OUvhcO0uyXR3E68bh"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Age of Apathy",
+        "url": "https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "duration_ms": 210196,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/33O3akLJROZIzHaYbujfUY"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2259,22 +2275,6 @@
       "duration_ms": 186143,
       "name": "Seeing Other People",
       "url": "https://open.spotify.com/track/6P82NfCXl3lLcUNSYEmq1u"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Age of Apathy",
-        "url": "https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo"
-      },
-      "artists": [
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        }
-      ],
-      "duration_ms": 210196,
-      "name": "Phoenix",
-      "url": "https://open.spotify.com/track/33O3akLJROZIzHaYbujfUY"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2399,26 +2399,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "The Great Irish Songbook",
-        "url": "https://open.spotify.com/album/3xlfuV02p2ByzsLj8Rts1P"
-      },
-      "artists": [
-        {
-          "name": "Dervish",
-          "url": "https://open.spotify.com/artist/08DRTASY1wyduMevINkClA"
-        },
-        {
-          "name": "David Gray",
-          "url": "https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV"
-        }
-      ],
-      "duration_ms": 326160,
-      "name": "The West Coast Of Clare",
-      "url": "https://open.spotify.com/track/51iBStlAJlUriO53s93F6l"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Seed of Joy",
         "url": "https://open.spotify.com/album/4ivyT3pP5juItg8Yblaqfn"
       },
@@ -2435,6 +2415,26 @@
       "duration_ms": 210546,
       "name": "Seed of Joy",
       "url": "https://open.spotify.com/track/6kUQwpX1ogl5inar6fE3bx"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "The Great Irish Songbook",
+        "url": "https://open.spotify.com/album/3xlfuV02p2ByzsLj8Rts1P"
+      },
+      "artists": [
+        {
+          "name": "Dervish",
+          "url": "https://open.spotify.com/artist/08DRTASY1wyduMevINkClA"
+        },
+        {
+          "name": "David Gray",
+          "url": "https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV"
+        }
+      ],
+      "duration_ms": 326160,
+      "name": "The West Coast Of Clare",
+      "url": "https://open.spotify.com/track/51iBStlAJlUriO53s93F6l"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2575,22 +2575,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "That's Why (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx"
-      },
-      "artists": [
-        {
-          "name": "Troy Cartwright",
-          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
-        }
-      ],
-      "duration_ms": 177772,
-      "name": "That's Why (Acoustic Version)",
-      "url": "https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Loving Everywhere I Go",
         "url": "https://open.spotify.com/album/2ZCIrBYU8EDHgySjPO5O7c"
       },
@@ -2603,6 +2587,22 @@
       "duration_ms": 282521,
       "name": "Old Soul (acoustic)",
       "url": "https://open.spotify.com/track/6qPdMSH6y9b7khSM3oQJLB"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "That's Why (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx"
+      },
+      "artists": [
+        {
+          "name": "Troy Cartwright",
+          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
+        }
+      ],
+      "duration_ms": 177772,
+      "name": "That's Why (Acoustic Version)",
+      "url": "https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX"
     },
     {
       "added_at": "2023-07-21 04:00:00",

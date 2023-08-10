@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: Khalid
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,272 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,323 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 74 | [Curious \(feat\. Fabolous\)](https://open.spotify.com/track/3ED40EjXiD4plW6UMteKGx) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [1\(800\)HIT\-EAZY: Line 2](https://open.spotify.com/album/6KIxdiACBAewmOLM1YBPYJ) | 3:45 |
 | 75 | [Venus](https://open.spotify.com/track/7id0zfnNZdDIq3dQRCrSDJ) | [JEY](https://open.spotify.com/artist/2wrI86paHc2IIj6VmGOAMG) | [Venus](https://open.spotify.com/album/2KusxJLjxuaiIwK47i4IqJ) | 1:55 |
 
-Snapshot ID: `MCxlZDRiOWNmOTI3YTY1M2E2ZjUyZGY1YjBiMjc4N2VjZTk3NGFlODNh`
+Snapshot ID: `MCxmZjQxYWRmMzkwNmZjZTk0ZTU2ZDEyNjRhMWI0ODg3NTAyNTkwZDlk`

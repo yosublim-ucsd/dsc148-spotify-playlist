@@ -4,7 +4,7 @@
 
 > Celebrating the extraordinary women breaking boundaries and keeping tradition alive\. Cover: Rhonda Vincent
 
-98 songs - 5 hr 34 min
+99 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Dark Skies](https://open.spotify.com/track/6WZhUdMsbYpRuO7VzguKI1) | [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [I've Got That Old Feeling](https://open.spotify.com/album/1ETt1sfe0PREZLQqsIOAU7) | 2:23 | 2023-04-14 |  |
 | [Darlin Corey](https://open.spotify.com/track/01US6qSOiVt2w94P3MbV2G) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Dig](https://open.spotify.com/album/1hUTpdHFjDm365Py5avBU7) | 4:16 | 2023-04-14 |  |
 | [Don't You Know I'm from Here](https://open.spotify.com/track/6TzKeFnvMOgfdzhoVPtanm) | [Brennen Leigh](https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW) | [Don't You Know I'm from Here](https://open.spotify.com/album/3PlfYSxMlOhkLmoSP9mL1P) | 4:22 | 2023-04-14 |  |
-| [El Dorado](https://open.spotify.com/track/4qL1jujA2oQ2REmXOIonGb) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [El Dorado](https://open.spotify.com/album/01pat6dFkOovUam3FEHaaV) | 4:23 | 2023-05-15 |  |
+| [El Dorado](https://open.spotify.com/track/4qL1jujA2oQ2REmXOIonGb) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [El Dorado](https://open.spotify.com/album/01pat6dFkOovUam3FEHaaV) | 4:23 | 2023-05-15 | 2023-08-10 |
+| [El Dorado](https://open.spotify.com/track/54M6qWsxkihPmM5KBa7LE0) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [City of Gold](https://open.spotify.com/album/3LAherx4Gg7LCOWQo25lBK) | 4:23 | 2023-08-04 |  |
 | [Fare Thee Well](https://open.spotify.com/track/5tknxbByvLw6Ocas5Zt37L) | [Lindley Creek](https://open.spotify.com/artist/6vIP2iHsvSVIJmdICjQxeB) | [Fare Thee Well](https://open.spotify.com/album/1czCHSqWNLh8BVLjJHJzya) | 3:06 | 2023-04-14 |  |
 | [Fine Times at Our House](https://open.spotify.com/track/1v0N9HBqKKCJfhCLV9GuIb) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs) | 2:17 | 2023-04-14 |  |
 | [Gentle On My Mind](https://open.spotify.com/track/74WL1tJtovyeOS6Zo4qIX9) | [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Windy City \(Deluxe\)](https://open.spotify.com/album/0ZV0ADSGaNPIt9Avv3H0GG) | 3:34 | 2023-04-14 |  |
@@ -85,7 +86,7 @@
 | [Speakin’ to That Mountain](https://open.spotify.com/track/2k0XpAmKF3Xd7pIrNXtZTJ) | [Becky Buller](https://open.spotify.com/artist/51GVpccMzO5rZqCEaePGBv) | [Crêpe Paper Heart](https://open.spotify.com/album/0FTQoJXH9ny0gOqYnmHXip) | 2:55 | 2023-04-14 |  |
 | [Still Waters](https://open.spotify.com/track/2V7gZvxlaWRLLr8bh24KJj) | [Jaelee Roberts](https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM) | [Still Waters](https://open.spotify.com/album/1kow6Yag9rCgmQyDmHXWj6) | 2:34 | 2023-04-14 |  |
 | [Swept Away](https://open.spotify.com/track/0j1lzFyh427bXhDHLeth6q) | [Missy Raines](https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep), [Alison Brown](https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK), [Becky Buller](https://open.spotify.com/artist/51GVpccMzO5rZqCEaePGBv), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Royal Traveller](https://open.spotify.com/album/0O6Nyhc5bVD0iYtEq5J3sZ) | 3:56 | 2023-04-14 |  |
-| [The Hard Way](https://open.spotify.com/track/2nwj84xtWw98wuLbkOR77O) | [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Secrets](https://open.spotify.com/album/6QNcb3Y6yNePv0w5mMPtLJ) | 4:29 | 2023-04-14 |  |
+| [The Hard Way](https://open.spotify.com/track/2nwj84xtWw98wuLbkOR77O) | [Rivers Rutherford](https://open.spotify.com/artist/6gFMSNbmoT4vDfNOpCP2rA), [Gordie Sampson](https://open.spotify.com/artist/4WkanTEimYpnh2LSd4OwtB), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Secrets](https://open.spotify.com/album/6QNcb3Y6yNePv0w5mMPtLJ) | 4:29 | 2023-04-14 |  |
 | [The Riveter](https://open.spotify.com/track/7d14MiXlkIdknKSfBUv2jq) | [Sami Braman](https://open.spotify.com/artist/3ESdsDgxcy5caRV6Ufcwre) | [Riveter](https://open.spotify.com/album/5meAQIac2yGj2ZzcdhHXlz) | 3:41 | 2023-04-14 |  |
 | [Think Again](https://open.spotify.com/track/72aAmpLIV926IpLXn5bb4R) | [Jaelee Roberts](https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM) | [Think Again](https://open.spotify.com/album/7kkbpcyIoMisqJQCqlsiuZ) | 4:07 | 2023-04-14 |  |
 | [Those Memories of You \- 2015 Remaster](https://open.spotify.com/track/7sdNvO1i0MeKRseYnuebGN) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Trio \(2016 Remaster\)](https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4) | 4:00 | 2023-04-14 |  |

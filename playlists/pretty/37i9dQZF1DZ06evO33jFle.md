@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33jFle.md) - [plain]
 
 > This is Jenni Rivera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,975 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,139 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33jFle.md) - [plain]
 | 49 | [Misión Cumplida](https://open.spotify.com/track/4LMQxOMgUPlugjBlfp2ZK6) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Misión Cumplida](https://open.spotify.com/album/0uQRZ1SvseWfRuu5kl14hc) | 3:11 |
 | 50 | [Engañémoslo \- Versión Mariachi \- Versión Sencillo](https://open.spotify.com/track/6ZtFzzPFSwg6rPPfNIqFJj) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu), [Mariachi Los Reyes](https://open.spotify.com/artist/4F7KkuF7t7TJPJk7mNPIlM) | [Engañémoslo](https://open.spotify.com/album/3WEmQxo46sFb48DUXk8nli) | 3:31 |
 
-Snapshot ID: `MjgxOTE2NzksMDAwMDAwMDBkNGM5MDU5NGZhZmJhYTFlNDRiMTg0NmVjMDE3MjU2Mw==`
+Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDAyZTEyNWM1OGM2YzZmZTgzODMzYWRiNWZhNzUwOTc2ZA==`

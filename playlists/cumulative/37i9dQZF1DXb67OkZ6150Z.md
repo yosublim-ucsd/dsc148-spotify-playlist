@@ -4,7 +4,7 @@
 
 > Discover indie covers\. Cover: Lovejoy
 
-412 songs - 1 day 1 hr 13 min
+414 songs - 1 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Back on the Chain Gang](https://open.spotify.com/track/5mmn8mpZ7EHZOHmuY6GYVP) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [Back on the Chain Gang](https://open.spotify.com/album/3illnzxbEXmB81wVkdrXdD) | 3:51 | 2021-03-12 | 2022-04-18 |
 | [Back To Black](https://open.spotify.com/track/44Z41mjp6AgW2NaXD0OIaP) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Back To Black](https://open.spotify.com/album/594QOTgYUnFesTBYXPHWB7) | 4:02 | 2021-03-12 |  |
 | [Bad Man](https://open.spotify.com/track/5jlechEPcQgjdHgr2t57w8) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Cool Dry Place \(Expanded\)](https://open.spotify.com/album/0BxC9YkHqyPbj5sk9wvJ1m) | 3:38 | 2022-04-01 |  |
-| [Bad News from Home](https://open.spotify.com/track/09r0BhkaegSmwwotdCTEYk) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Bad News from Home](https://open.spotify.com/album/2ai61yElRZv3KdhXa66GkD) | 2:49 | 2022-01-28 |  |
+| [Bad News from Home](https://open.spotify.com/track/09r0BhkaegSmwwotdCTEYk) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Bad News from Home](https://open.spotify.com/album/2ai61yElRZv3KdhXa66GkD) | 2:49 | 2022-01-28 | 2023-08-10 |
 | [Bad Religion](https://open.spotify.com/track/7Kx832x6sRNGRy8o40u7Mr) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Bad Religion / A Pair Of Brown Eyes](https://open.spotify.com/album/2yjZoxPqfpRQyGwuOXo5Rp) | 4:20 | 2021-10-08 | 2022-07-29 |
 | [Bad Romance](https://open.spotify.com/track/4gvspsfveHS7I5Alr2pfp2) | [Veil](https://open.spotify.com/artist/2CZfm09pHpIVkVRW75kmHg) | [Bad Romance](https://open.spotify.com/album/3l9tsAiTVPtgkSEDBhGHUP) | 4:04 | 2021-03-12 | 2022-04-14 |
 | [Bailando](https://open.spotify.com/track/4U2ZR1idYA8HnS53apJTxN) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Bailando](https://open.spotify.com/album/2IhWrFHNfirViEtYfTm0VY) | 3:07 | 2021-08-27 |  |
@@ -95,6 +95,7 @@
 | [Dearly Departed](https://open.spotify.com/track/7ciFh1cZjyZE2gVhjvhsmD) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [Dearly Departed](https://open.spotify.com/album/1T2kgbzp4R7p4Gm06jjfFh) | 5:11 | 2021-07-21 | 2022-04-20 |
 | [del mar county fair 2008](https://open.spotify.com/track/4Zx6WKvQxGhk2UD4huHFBZ) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [del mar county fair 2008](https://open.spotify.com/album/0uPCMgLfg1DpVnsjoVDok9) | 2:54 | 2023-03-17 |  |
 | [Desperado](https://open.spotify.com/track/3fR9wnaW7Cpg8DsUL1CvGS) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Desperado / Born on a Train](https://open.spotify.com/album/49GxzbR4cjgBH5JAeYF9mz) | 3:40 | 2022-02-25 | 2022-07-29 |
+| [Different Now](https://open.spotify.com/track/1J0aTXvZG634UfviOVGMi5) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y), [Chastity Belt](https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK) | [Different Now](https://open.spotify.com/album/7AKbVhsHqz4enFZBTsJe4n) | 4:25 | 2023-08-08 |  |
 | [Don't Be Cruel](https://open.spotify.com/track/4IYTQwLYh1lVHhCC2jBi9S) | [Lo\-Fang](https://open.spotify.com/artist/5EDkJDlRNcMs3ewliB24QA) | [Don't Be Cruel](https://open.spotify.com/album/50mcyygO5E1QoALtPm2ZXH) | 7:06 | 2021-03-12 | 2022-04-20 |
 | [Don't Dream It's Over](https://open.spotify.com/track/3SZ5m5GQyIKIhIoizDGTQg) | [OCTAVIO the Dweeb](https://open.spotify.com/artist/0gqcx73XJbrIif5poxdHqt) | [Dweeb Tapes](https://open.spotify.com/album/5YIN6swBDIybgewMSEpX54) | 3:14 | 2022-08-09 | 2022-10-21 |
 | [Don't Dream It's Over](https://open.spotify.com/track/4odZZeTqMG6QXd9o7r46jU) | [OCTAVIO the Dweeb](https://open.spotify.com/artist/0gqcx73XJbrIif5poxdHqt) | [Don't Dream It's Over](https://open.spotify.com/album/62gB6m2e4ED3yZUrgJ7ox6) | 3:14 | 2021-04-02 | 2022-04-17 |
@@ -174,8 +175,9 @@
 | [I Follow Rivers](https://open.spotify.com/track/3Cs4g3w33H9YEptmg34DQc) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Deaf Heat EP](https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC) | 2:46 | 2021-03-12 | 2022-08-10 |
 | [I Kissed a Boy](https://open.spotify.com/track/4dLrxH2Z74hYw0yWet6wpG) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [I Kissed a Boy](https://open.spotify.com/album/06akyumCnIAtjUQWROLlSv) | 3:02 | 2023-05-05 |  |
 | [I Know \(feat\. Fiona Apple\) \- RISE Recording](https://open.spotify.com/track/3SO5iPrvbgXz2XUwjOExDs) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C), [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [I Know \(feat\. Fiona Apple\) \[RISE Recording\]](https://open.spotify.com/album/476o5Va5ObJpc2u0Jwn19z) | 4:59 | 2021-03-12 | 2022-07-29 |
+| [I Love You \(But You're Boring\)](https://open.spotify.com/track/2zvoxw6eF6Ruif28Mu3JE5) | [Los Campesinos!](https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E) | [I Love You \(But You're Boring\)](https://open.spotify.com/album/5bAGxbsl5q0Rg9XxZP14Yg) | 4:49 | 2023-08-08 |  |
 | [I Try](https://open.spotify.com/track/0YY1xpXpPYL2N8tVwXBITr) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8) | [I Try](https://open.spotify.com/album/5ZwWwcH6Q2xWIJzC1n5WXI) | 2:27 | 2021-08-27 | 2022-08-25 |
-| [i wanna be your girlfriend](https://open.spotify.com/track/0rpsYTdLM9iNgkUGgFhGB8) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [i wanna be your girlfriend](https://open.spotify.com/album/1GLJbv53SbSavS2XKqJttz) | 5:11 | 2022-09-03 |  |
+| [i wanna be your girlfriend](https://open.spotify.com/track/0rpsYTdLM9iNgkUGgFhGB8) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [i wanna be your girlfriend](https://open.spotify.com/album/1GLJbv53SbSavS2XKqJttz) | 5:11 | 2022-09-03 | 2023-08-10 |
 | [i wanna be your girlfriend](https://open.spotify.com/track/1MbEADz2hSkQAM2Yikfr9Y) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [i wanna be your girlfriend](https://open.spotify.com/album/5pIuwcGXWj9Vl2Ohz37XlH) | 5:11 | 2021-04-19 | 2022-10-13 |
 | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/track/10e8OyV77FnTWvWhO1x6n6) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/album/4gQm0leB5zXLbAfqXWMhCp) | 3:31 | 2021-03-12 | 2022-07-28 |
 | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/track/6rqDjmVNJmhQx8EuhADWGA) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/album/3qGl4FvJjw7TBktMSfxiPu) | 3:38 | 2021-03-12 | 2022-07-13 |

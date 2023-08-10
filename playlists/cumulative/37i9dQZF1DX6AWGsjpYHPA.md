@@ -4,7 +4,7 @@
 
 > Hand\-curated cuts from the vault, no record player required.
 
-257 songs - 18 hr 39 min
+258 songs - 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Kısasa Kısas](https://open.spotify.com/track/2GSAfjcioTeJ9kecoC1E5Y) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Kısasa Kısas b/w Erkilet Güzeli](https://open.spotify.com/album/6iHhK9eih54hFVVgdbXdY1) | 3:49 | 2021-12-03 | 2022-07-29 |
 | [L.D.R.A](https://open.spotify.com/track/3dE5JkCceos3FiuQmTKfOx) | [Shire T](https://open.spotify.com/artist/0AIim12jO78DuyyUYbHfAe), [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Wish & Fonda Rae](https://open.spotify.com/artist/4tlwGA9FRTxbAiBTW1rLJc) | [Tomorrow’s People](https://open.spotify.com/album/0qk4ovxWz0en2H2HIqz2wT) | 4:29 | 2021-12-03 | 2022-07-22 |
 | [La femme d'argent](https://open.spotify.com/track/6tEaLXZlN8b71vWV1SSsRf) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a) | 7:06 | 2022-07-21 | 2023-06-02 |
-| [La Perla](https://open.spotify.com/track/4pNlEl7y5pT9f9zFy0oxXb) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [La Perla](https://open.spotify.com/album/4N2nM5QZXYNbWPtxOADiAw) | 5:27 | 2021-12-03 |  |
+| [La Perla](https://open.spotify.com/track/4pNlEl7y5pT9f9zFy0oxXb) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [La Perla](https://open.spotify.com/album/4N2nM5QZXYNbWPtxOADiAw) | 5:27 | 2021-12-03 | 2023-08-10 |
 | [La Perla \- Edit](https://open.spotify.com/track/6CldyxMa4XuHWAhAlaPWmt) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [La Perla](https://open.spotify.com/album/4N2nM5QZXYNbWPtxOADiAw) | 3:46 | 2022-02-25 | 2022-06-23 |
 | [Land Of Honey](https://open.spotify.com/track/1j49Jcm99RNCmFrnRZgliG) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [Flamagra](https://open.spotify.com/album/5WfDyog8yO7ZF8JdJxeZfl) | 3:27 | 2021-12-03 | 2022-05-28 |
 | [Las Oladas](https://open.spotify.com/track/7mYqoUtsl96qQaju5R48M6) | [Ranil](https://open.spotify.com/artist/0apEQnBZNfvpFRL6FRYdef) | [Ranil y Su Conjunto Tropical](https://open.spotify.com/album/46VCQ5waQig1UKzCjHDsdN) | 3:10 | 2021-12-03 | 2022-07-26 |
@@ -166,6 +166,7 @@
 | [Mushroom Abolitionist](https://open.spotify.com/track/5vaBJ81tv092hKGtV7opBv) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Like A Good Old Friend](https://open.spotify.com/album/0S7gwzr5kWmKpEuVdQtqip) | 4:44 | 2021-12-03 | 2022-06-12 |
 | [My Queen Is Albertina Sisulu](https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki) | [Your Queen Is A Reptile](https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5) | 5:14 | 2021-12-03 |  |
 | [Na boca do sol](https://open.spotify.com/track/5oiueCPkJCU9wCmQO5HDTj) | [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Arthur Verocai](https://open.spotify.com/album/4yv17Q486G8QoqM001kFKO) | 2:59 | 2021-12-03 | 2022-02-14 |
+| [Nakamarra](https://open.spotify.com/track/1I0O4q0Pq5x6n9d24Es5uN) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Tawk Tomahawk](https://open.spotify.com/album/3s7dB6EHrYkaWjzfVbZfCo) | 4:34 | 2023-07-18 |  |
 | [Nakamarra](https://open.spotify.com/track/1WCbWyu8mRrOk5Su9yPnkO) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Tawk Tomahawk](https://open.spotify.com/album/54UDcBALhfyaQ67fsSZrkQ) | 4:34 | 2021-12-03 | 2023-08-02 |
 | [Negative Returns \- Four Tet Remix](https://open.spotify.com/track/6keqOTejo6tu2jd4P4BpSa) | [Krust](https://open.spotify.com/artist/6WPeOlm3f3UGoO1l6OPOUO), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Negative Returns \(Four Tet Remix\)](https://open.spotify.com/album/6L1cTp1CSIAvHKU5fF73Fy) | 5:33 | 2021-12-03 | 2022-02-22 |
 | [Nightrider](https://open.spotify.com/track/0i7jazn1Rtp51KPM4iSs6z) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Nightrider](https://open.spotify.com/album/4u5C68CzGi223ErII6MD3l) | 5:00 | 2021-12-03 |  |

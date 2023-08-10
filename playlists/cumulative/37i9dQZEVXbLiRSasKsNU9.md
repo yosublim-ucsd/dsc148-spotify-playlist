@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-1,736 songs - 3 day 20 hr 35 min
+1,737 songs - 3 day 20 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1303,6 +1303,7 @@
 | [Roman Picisan](https://open.spotify.com/track/47SkuKc4Po0JInI0JTtO61) | [Hanin Dhiya](https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW), [Ahmad Dhani](https://open.spotify.com/artist/2TSeIynP2u22bqZOgKkbZm) | [Roman Picisan](https://open.spotify.com/album/44cPwHYWVAm8DQruNmojpu) | 5:01 | 2021-12-28 | 2021-12-30 |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-08-24 | 2022-11-20 |
 | [Romantic Homicide](https://open.spotify.com/track/4jonEzO6nIIBt5xPGsyOA0) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/2VOw1TVu3PduPt9LYd3eF2) | 2:12 | 2022-08-16 | 2022-08-25 |
+| [ROMANTİK](https://open.spotify.com/track/3730z7N28rvWW4PpSXR7PY) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [ROMANTİK](https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB) | 2:17 | 2023-08-09 |  |
 | [Ron Artest](https://open.spotify.com/track/4Wlz0HsHZlJy0NDK2h6jq6) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Ron Artest](https://open.spotify.com/album/0RagVxXFPT0sjyuev19HQJ) | 2:33 | 2023-02-13 | 2023-02-19 |
 | [Rosas](https://open.spotify.com/track/7zjECGi00rudm6tSNJkSi1) | [Nica del Rosario](https://open.spotify.com/artist/2zgF783l4A3tMjr081z1wt), [Gab Pangilinan](https://open.spotify.com/artist/6nPFY72thfLl97kQS2KuCs) | [Rosas](https://open.spotify.com/album/53VhaVCwFuQvFRsWkeNnCK) | 4:33 | 2022-05-10 | 2022-05-29 |
 | [Rover](https://open.spotify.com/track/3WUyu94psXrYV6HZbXgcFA) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Rover \- The 3rd Mini Album](https://open.spotify.com/album/5gzd4IZ9KTwW6Hhgll1K7U) | 2:54 | 2023-04-04 | 2023-04-20 |
@@ -1606,7 +1607,7 @@
 | [V16](https://open.spotify.com/track/1FwZHWFat13A1XookoEtI3) | [Martinwhite](https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T) | [V16](https://open.spotify.com/album/1NYH6nfQS1yuB2PHEHIgtz) | 1:59 | 2022-08-08 | 2022-09-12 |
 | [Vai Novinha Ah Ah Ah](https://open.spotify.com/track/3Nvzs0cJbLwhXPPlI8xzpC) | [Dyamante DJ](https://open.spotify.com/artist/3i7Bn2SoEkRVEGkdz9o6Yu) | [Ritmo dos Crias](https://open.spotify.com/album/1rpZ5lbh30fimLCZvcyh0f) | 2:03 | 2023-06-24 | 2023-07-19 |
 | [Vai Soltando Pancadão \- Beat do Pica Pau Maluco](https://open.spotify.com/track/2pEnQImOCJiCTvDv3Lu3aE) | [DJ Santos MEC](https://open.spotify.com/artist/3gFraZSNZQpoQ704aHC0Ev), [MC Tilbita](https://open.spotify.com/artist/6H2IOr8ZJ3LMbxrVPRMiQL), [MC Alequinho](https://open.spotify.com/artist/3dMVoraROonQpHTN4S7l2e) | [Vai Soltando Pancadão \- Beat do Pica Pau Maluco](https://open.spotify.com/album/7AVAzg0DN8Shw2yKofxBQM) | 2:46 | 2023-02-28 | 2023-03-08 |
-| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-07-25 |  |
+| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-07-25 | 2023-08-10 |
 | [Vampiro](https://open.spotify.com/track/6bTdZ7xfKp3NqqADJ8HLyj) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Vampiro](https://open.spotify.com/album/2Czm8l03F67WEzX8MDruyy) | 4:10 | 2022-04-26 | 2022-04-29 |
 | [Van Mij Zijn](https://open.spotify.com/track/3oFKhY9iW9S0iA9OHO9tN6) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo) | [Van Mij Zijn](https://open.spotify.com/album/4umTGjL6WgGnfoJWgz1uHe) | 2:46 | 2022-09-08 | 2022-09-15 |
 | [Varaha Roopam Daiva Va Rishtam](https://open.spotify.com/track/10XG8WGYgiQRBmbEaffnfi) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5), [Sai Vignesh](https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS) | [Kantara \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ANhkyLkujmP1HbDrMCvfM) | 4:36 | 2022-10-28 | 2022-11-13 |

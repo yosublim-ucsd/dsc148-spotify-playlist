@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 
 > Real rap music from the golden era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,981,233 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,983,687 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 | 4 | [It Was A Good Day](https://open.spotify.com/track/2qOm7ukLyHUXWyR4ZWLwxA) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [The Predator](https://open.spotify.com/album/71HM1CMYWeZzws8pyiEn46) | 4:20 |
 | 5 | [Hypnotize \- 2014 Remaster](https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Life After Death \(2014 Remastered Edition\)](https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB) | 3:49 |
 | 6 | [Ambitionz Az A Ridah](https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 4:38 |
-| 7 | [Killing Me Softly With His Song](https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Score \(Expanded Edition\)](https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb) | 4:58 |
-| 8 | [No Diggity](https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ) | [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Queen Pen](https://open.spotify.com/artist/0VbIlorLz3I5SEtIsc5vAr) | [Another Level](https://open.spotify.com/album/2zGZLQiFl9UubtrVmtIkbi) | 5:04 |
+| 7 | [No Diggity](https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ) | [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Queen Pen](https://open.spotify.com/artist/0VbIlorLz3I5SEtIsc5vAr) | [Another Level](https://open.spotify.com/album/2zGZLQiFl9UubtrVmtIkbi) | 5:04 |
+| 8 | [Killing Me Softly With His Song](https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Score \(Expanded Edition\)](https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb) | 4:58 |
 | 9 | [The Next Episode](https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 2:41 |
 | 10 | [You Know How We Do It](https://open.spotify.com/track/2Ih217RCGAmyQR68Nn7Cqo) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Lethal Injection](https://open.spotify.com/album/7JlCbNWZszAdVKZdtHFQ5p) | 3:52 |
 | 11 | [Juicy \- 2005 Remaster](https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Ready to Die \(The Remaster\)](https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2) | 5:02 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 | 62 | [1st of Tha Month](https://open.spotify.com/track/1dF5Y2dd7Wm4wZKvVjWBpr) | [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg) | [E\. 1999 Eternal](https://open.spotify.com/album/3r25XjxAmLMOhOWoV6X8N9) | 5:14 |
 | 63 | [Keep Their Heads Ringin'](https://open.spotify.com/track/7jIujRjK5JKNrMCcAvYUTN) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [Friday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/28jbQJCBOGrZHnrkTb6uw5) | 5:05 |
 | 64 | [Full Clip](https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [Full Clip: A Decade Of Gang Starr](https://open.spotify.com/album/0TMIeuykc2gfMc68YGppoh) | 3:37 |
-| 65 | [Gangsta Nation](https://open.spotify.com/track/65iyI1iybyv5ecsfBHSdUf) | [Westside Connection](https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt) | [Terrorist Threats](https://open.spotify.com/album/2fsMp83A31t6nqp1TvV7OB) | 4:53 |
-| 66 | [Who Shot Ya? \- 2005 Remaster](https://open.spotify.com/track/2KFg8kjYy0rYjWsXGhEQHN) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Ready to Die \(The Remaster\)](https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2) | 5:19 |
+| 65 | [Who Shot Ya? \- 2005 Remaster](https://open.spotify.com/track/2KFg8kjYy0rYjWsXGhEQHN) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Ready to Die \(The Remaster\)](https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2) | 5:19 |
+| 66 | [Gangsta Nation](https://open.spotify.com/track/65iyI1iybyv5ecsfBHSdUf) | [Westside Connection](https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt) | [Terrorist Threats](https://open.spotify.com/album/2fsMp83A31t6nqp1TvV7OB) | 4:53 |
 | 67 | [Rosa Parks](https://open.spotify.com/track/0shK5iZQppbHPQYiy60xs9) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 5:24 |
 | 68 | [Summertime](https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Homebase](https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh) | 4:30 |
 | 69 | [Nas Is Like](https://open.spotify.com/track/3gY6tiCNsuVi6s8kPV6aQg) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [I Am...](https://open.spotify.com/album/4UhEjfIRx4tE1XRY21vwNa) | 3:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 | 99 | [Hip\-Hop](https://open.spotify.com/track/2HoDr1yVksl19omOhc1zWy) | [Dead Prez](https://open.spotify.com/artist/2UBt0GWBuPVXlPisRvWzlD) | [Let's Get Free](https://open.spotify.com/album/7gXuElmegVReY7imkb5bf8) | 3:34 |
 | 100 | [Bring The Pain](https://open.spotify.com/track/3F3R4uyTMkX9jRCEVVmdz6) | [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Tical](https://open.spotify.com/album/26RDYvX2sIuiEUhqVPkNaf) | 3:09 |
 
-Snapshot ID: `MCxlYmM2M2MzZTg0YTBmMzBjNmUxNjYyZGMzMWNiNzM0ZTQ3NDdkNmVi`
+Snapshot ID: `MCxjYjIxN2Q0MDU5YzEzODM3MTIwNzhhMjQ3ZWMxZjVjYWI3ZTc5YjU3`

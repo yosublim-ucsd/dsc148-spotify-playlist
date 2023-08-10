@@ -1,12 +1,12 @@
 {
   "description": "The hip-hop party soundtrack of summer, past and present.",
-  "num_followers": 10519,
+  "num_followers": 10558,
   "original_name": "Dear Summer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmY4NzZhNDE4YzQ4YWY1MTQ2MmYyZWQ2OTk1ZTUzYjA5Y2QyMjk1",
+  "snapshot_id": "MCxkNjRkOTMwM2Y2NjRlZjYyNzEzZGZiY2I4MjY4ZmZkZWJlNzYwMzMw",
   "tracks": [
     {
       "added_at": "2023-07-07 04:00:00",
@@ -929,20 +929,24 @@
       "url": "https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa"
     },
     {
-      "added_at": "2023-07-07 04:00:00",
+      "added_at": "2023-08-07 04:00:00",
       "album": {
-        "name": "CALL DA FIREMAN",
-        "url": "https://open.spotify.com/album/3oDobVNZ3U9BpxOdokk0fL"
+        "name": "JEALOUSY (feat. Cardi B)",
+        "url": "https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL"
       },
       "artists": [
         {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 124805,
-      "name": "SHAKE SUMN",
-      "url": "https://open.spotify.com/track/3FhZPYvMGSjFc6boVYKlCv"
+      "duration_ms": 174466,
+      "name": "JEALOUSY (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj"
     }
   ],
   "unique_name": "Dear Summer",

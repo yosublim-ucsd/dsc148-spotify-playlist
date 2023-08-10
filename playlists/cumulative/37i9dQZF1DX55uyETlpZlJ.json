@@ -302,7 +302,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 210484,
       "name": "Barede Na",
       "url": "https://open.spotify.com/track/1GiJHRuSGenOtOaTCD4qIJ"
@@ -810,6 +810,32 @@
       "duration_ms": 202682,
       "name": "Hey Sanchari",
       "url": "https://open.spotify.com/track/5EFBhOebY0wOUibTgQH5TN"
+    },
+    {
+      "album": {
+        "name": "Hogey",
+        "url": "https://open.spotify.com/album/1xEgorMZd60Bof9x0cdqaM"
+      },
+      "artists": [
+        {
+          "name": "A Spike",
+          "url": "https://open.spotify.com/artist/79GVJtxSgPhsDutR2w5C5c"
+        },
+        {
+          "name": "Loud Silence",
+          "url": "https://open.spotify.com/artist/7rpgKYrHf6PqwG0ancMOVl"
+        },
+        {
+          "name": "Hi-Polar",
+          "url": "https://open.spotify.com/artist/5r1MeyZN01dQ963hBaTChW"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Hogey",
+      "url": "https://open.spotify.com/track/1dpbtaXrFGTlXL2HVxAFWz"
     },
     {
       "album": {
@@ -1990,6 +2016,24 @@
       "duration_ms": 266403,
       "name": "Nee Saniha",
       "url": "https://open.spotify.com/track/53F1QXJzhN3mpHU0Q2JOnz"
+    },
+    {
+      "album": {
+        "name": "Neeli Modagalu",
+        "url": "https://open.spotify.com/album/4WVkXb39DguSdjVxf8cotL"
+      },
+      "artists": [
+        {
+          "name": "Ashwamedha Karthik",
+          "url": "https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262381,
+      "name": "Neeli Modagalu",
+      "url": "https://open.spotify.com/track/2685mgG3FA17n55sR9p59k"
     },
     {
       "album": {

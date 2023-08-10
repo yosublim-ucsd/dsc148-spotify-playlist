@@ -4,7 +4,7 @@
 
 > This is ZZ Top\. The essential tracks, all in one playlist.
 
-78 songs - 4 hr 49 min
+79 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A Fool for Your Stockings](https://open.spotify.com/track/0NmxhwG2NwLhY6iCJIfGWA) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [One Foot in the Blues](https://open.spotify.com/album/0etWjNu0rvWYY3fUMacV14) | 4:16 | 2022-10-17 | 2023-07-22 |
 | [Apologies to Pearly](https://open.spotify.com/track/03AILJKNtXyZmvZV06yIsW) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rio Grande Mud](https://open.spotify.com/album/4M9bA8YsjIlZOg2wD0BmsM) | 2:39 | 2023-04-22 | 2023-06-24 |
 | [Arrested for Driving While Blind](https://open.spotify.com/track/5NR2RuQ5rQplGLaKS7ZwAu) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tejas](https://open.spotify.com/album/3fI0aQIkLZEDk5a8EhzlAn) | 3:06 | 2022-10-12 |  |
-| [Asleep in the Desert \- Instrumental](https://open.spotify.com/track/0ukb39j9T97cToQVbxnn9a) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tejas](https://open.spotify.com/album/3fI0aQIkLZEDk5a8EhzlAn) | 3:29 | 2022-09-17 |  |
+| [Asleep in the Desert \- Instrumental](https://open.spotify.com/track/0ukb39j9T97cToQVbxnn9a) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tejas](https://open.spotify.com/album/3fI0aQIkLZEDk5a8EhzlAn) | 3:29 | 2022-09-17 | 2023-08-10 |
 | [Bad Girl \- 2008 Remaster](https://open.spotify.com/track/6xjNioXsWUYOduKYUrjuEX) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw) | 3:22 | 2022-09-30 | 2023-03-26 |
 | [Balinese \- 2005 Remaster](https://open.spotify.com/track/1r6wqKNFYQbookhQtQz0uW) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO) | 2:36 | 2023-03-09 |  |
 | [Bar\-B\-Q](https://open.spotify.com/track/5ondtkwlkDYxPagDIm8JsK) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rio Grande Mud](https://open.spotify.com/album/4M9bA8YsjIlZOg2wD0BmsM) | 3:25 | 2022-09-17 | 2022-10-13 |
@@ -32,6 +32,7 @@
 | [Dirty Dog \- 2008 Remaster](https://open.spotify.com/track/1RLc2ojStMvkdkM00owYkm) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw) | 4:06 | 2022-09-20 | 2022-09-22 |
 | [Doubleback](https://open.spotify.com/track/57JtOe7GSDOWbIB71EOCNj) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Recycler](https://open.spotify.com/album/0WbYC0Gc9DFh35DhzDwR1k) | 3:56 | 2022-09-17 |  |
 | [Down Brownie](https://open.spotify.com/track/0aipmEKEVMfYccmS4CQa6C) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rio Grande Mud](https://open.spotify.com/album/4M9bA8YsjIlZOg2wD0BmsM) | 2:30 | 2023-04-27 | 2023-05-23 |
+| [El Diablo](https://open.spotify.com/track/5I4TQ0g8A3H4fubtRr8uiy) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tejas](https://open.spotify.com/album/3fI0aQIkLZEDk5a8EhzlAn) | 4:21 | 2023-08-09 |  |
 | [Francine](https://open.spotify.com/track/1dzfGr4PZ5npvdv6DWvycB) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rio Grande Mud](https://open.spotify.com/album/4M9bA8YsjIlZOg2wD0BmsM) | 3:33 | 2022-09-17 |  |
 | [Gimme All Your Lovin'](https://open.spotify.com/track/251LsIzSjWnlnxvWYLCucN) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [The Very Baddest of ZZ Top](https://open.spotify.com/album/4ADUZQ1pM9r9f49MX8cUdl) | 3:31 | 2022-09-30 |  |
 | [Gimme All Your Lovin'](https://open.spotify.com/track/0OBwxFLu6Yj61s2OagYbgY) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw) | 4:01 | 2022-09-18 |  |

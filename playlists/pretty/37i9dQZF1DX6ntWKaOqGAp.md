@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: Official髭男dism
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,246 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,474 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Chessboard](https://open.spotify.com/track/6AXTD0tYIpbONDaTOlM7C8) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Chessboard](https://open.spotify.com/album/6PNn3RbQ258Zd6OyyLDa5K) | 5:21 |
-| 2 | [燈](https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [燈](https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz) | 3:58 |
+| 1 | [Chessboard](https://open.spotify.com/track/4iXhDPO4JBOkARTdtAmdAH) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Chessboard](https://open.spotify.com/album/6gWANFbojnrmrdNDfr4ka0) | 5:21 |
+| 2 | [燈](https://open.spotify.com/track/7jtXjZ3JViUo9M3ogYAapO) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [i 触れる SAD UFO](https://open.spotify.com/album/39l5XqHOxUnSvkyToqhtIt) | 3:59 |
 | 3 | [怪獣のサイズ](https://open.spotify.com/track/6RCM11KBFLJUtRcKG8l796) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [怪獣のサイズ](https://open.spotify.com/album/2e12G3Csy88WQeCNXRYVQo) | 3:30 |
 | 4 | [Future is Yours](https://open.spotify.com/track/2HPLnsjFWrBe3X2DcUEAVb) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [Future is Yours](https://open.spotify.com/album/0ydm0gjxuNauzHArr4Hztt) | 4:26 |
 | 5 | [VANILLA SKY](https://open.spotify.com/track/3ps5WSAXrgvjN4IxIPchsV) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI), [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [VANILLA SKY](https://open.spotify.com/album/7kaCg3NQesrLpfsOEGMCQd) | 2:47 |
@@ -28,12 +28,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 18 | [Miss You feat\. Vernon of SEVENTEEN](https://open.spotify.com/track/6MrNcToqeejjpYcstmKBHi) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [Miss You feat\. Vernon of SEVENTEEN](https://open.spotify.com/album/0PGpaBslmhcCA0O9KvBcqW) | 3:04 |
 | 19 | [夏恋注意報](https://open.spotify.com/track/1AB5STSw5kjkOSmie1dkYb) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [夏恋注意報](https://open.spotify.com/album/2YPfXFSP0eiV5W0WnVyJUM) | 4:49 |
 | 20 | [scorpion.](https://open.spotify.com/track/3JGeI4YN3Luqsvo0EXjXND) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [scorpion.](https://open.spotify.com/album/572kvsrM2Jb4EmO93m65Om) | 2:43 |
-| 21 | [HiDE and SEEK](https://open.spotify.com/track/6PPjUuBlAKwx1V2a74EICX) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/0mPlC0jXRvXDqCyUt5VI2b) | 3:37 |
+| 21 | [HiDE and SEEK](https://open.spotify.com/track/2b1DGuCTkavcf22pnv7J1X) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [HiDE and SEEK](https://open.spotify.com/album/5e4gJZl8oBksBmBmLvM7b3) | 3:37 |
 | 22 | [Summer Ghost](https://open.spotify.com/track/7GsURClW23nEe0UX4hKW3z) | [I Don't Like Mondays.](https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF) | [Summer Ghost](https://open.spotify.com/album/3Pv50hUUVfvuN1ajFxYjBF) | 3:42 |
 | 23 | [Feeling](https://open.spotify.com/track/4vAbUiv5byAtNdencSeaRn) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ANTENNA](https://open.spotify.com/album/3j7aiYai9ezbvxVCgrd2mb) | 2:24 |
 | 24 | [ボーイズ ドント クライ](https://open.spotify.com/track/2oZM29QXfk0Oi6d15PjoSp) | [YOAKE](https://open.spotify.com/artist/0psEe4IooMjolOPMrz9A5M) | [ボーイズ ドント クライ](https://open.spotify.com/album/2ukBR6yPc7n60KjGcXxy0V) | 3:01 |
 | 25 | [プロミスザスター ’23](https://open.spotify.com/track/7KqTlO3F2ADdDbKZvbl3Yc) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [BiSH THE BEST](https://open.spotify.com/album/31ogU6hrmcIquFGKu9zcX3) | 4:29 |
-| 26 | [California coconuts](https://open.spotify.com/track/2VAnn7QXr1jXP3GGvpcYhp) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [California coconuts](https://open.spotify.com/album/7na5aZq54qDZblhOiVRnj0) | 3:55 |
+| 26 | [California coconuts](https://open.spotify.com/track/0lNrG9JiNQIrSQJ3vzQdcx) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [California coconuts](https://open.spotify.com/album/6jTHO0OfY0J7FjlokGXzH9) | 3:55 |
 | 27 | [VICTOSPIN](https://open.spotify.com/track/27BZgUvxWTBoiOXBoAxNn3) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [ENIGMASIS](https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT) | 4:20 |
 | 28 | [BLUE SUMMERTIME BLUES](https://open.spotify.com/track/3q7ZMjN5YmRlpXFEMWtXeA) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [BLUE SUMMERTIME BLUES](https://open.spotify.com/album/5LOEXezau5aKQhGP8OW7Ry) | 3:50 |
 | 29 | [蛍](https://open.spotify.com/track/2U93Qos9BlyUeGU68SRAF7) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [蛍](https://open.spotify.com/album/6nHk2AOBDEv4KNDfbQCPgS) | 4:00 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 91 | [Hyper Vacation](https://open.spotify.com/track/5dUg5ysqf9UIErEZKUQFpF) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [Hyper Vacation](https://open.spotify.com/album/4Y6C0DexG8y8SCarKrhANy) | 2:08 |
 | 92 | [少年セゾン](https://open.spotify.com/track/6mhif68sfKzj8Tp4nEKEWY) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [少年セゾン](https://open.spotify.com/album/08uVRPJ95oNwUI2TyHUim2) | 3:43 |
 | 93 | [リカ](https://open.spotify.com/track/5iPPyvEn7BcWw34aGKGd6W) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [リカ](https://open.spotify.com/album/5luFrHAHn4fb5r7KhdoYlE) | 3:36 |
-| 94 | [着火繚乱ビンビンビン](https://open.spotify.com/track/5MSgh1ZQRZVatwmkaVmZJ9) | [Happy Heads NANIYORI](https://open.spotify.com/artist/6jkKuw4J4SWKrPQCcPGEYl) | [着火繚乱ビンビンビン](https://open.spotify.com/album/1qA3RuMk75Hu8DcBcy9UTs) | 3:22 |
+| 94 | [Neppa Mappa](https://open.spotify.com/track/1yk0SSa84LDFar4tcBLVDM) | [Happy Heads NANIYORI](https://open.spotify.com/artist/6jkKuw4J4SWKrPQCcPGEYl) | [Neppa Mappa](https://open.spotify.com/album/0q8ovRRn70ximHNiFdd6Fu) | 3:22 |
 | 95 | [and](https://open.spotify.com/track/0XmaSIhZAwrHEoOyQuW2TF) | [Bentham](https://open.spotify.com/artist/0H2jVxlNYBooHvrB3J8RGu) | [and](https://open.spotify.com/album/0YG9XCu9mKNg8EE96CRRH1) | 3:59 |
 | 96 | [独りの夜は \- album ver.](https://open.spotify.com/track/7LhK3a6HGN58KTXCGJUl5h) | [OYAT](https://open.spotify.com/artist/0btudUX9PgqqXZuRtdjpSh) | [Parade](https://open.spotify.com/album/2C6DtEFcfhc7QNJRQebDrr) | 3:43 |
 | 97 | [PEGASUS](https://open.spotify.com/track/4jw5Peb2XRx0cTYUZAPIkv) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [PEGASUS](https://open.spotify.com/album/1yCRkc8QiR6z5ekv0oCO1F) | 2:52 |
 | 98 | [Fast Life](https://open.spotify.com/track/5xaenX98UD9kFUYOR1H18c) | [QUBIT](https://open.spotify.com/artist/02Xm23NCqdYlyFnpcTfdmI) | [Fast Life](https://open.spotify.com/album/52afF0eQk1076aLxoXXYhF) | 3:50 |
 | 99 | [両想い](https://open.spotify.com/track/3zw6TA1Fn8A5rVm1DlSS8I) | [fusen](https://open.spotify.com/artist/3vOolRilmDxcJJENFu8mWu) | [両想い](https://open.spotify.com/album/4iWLok3YkjDIRL6FYJLzad) | 3:36 |
-| 100 | [幽霊街と逆説](https://open.spotify.com/track/18cwYEaLXZZqDjZBkBJQgW) | [Hello Sleepwalkers](https://open.spotify.com/artist/12CmFAwzxYnVtJgnzIysvm) | [幽霊街と逆説](https://open.spotify.com/album/1VoEjv46m3RcBz1JGp75Pn) | 3:31 |
+| 100 | [Yureigai To Gyakusetsu](https://open.spotify.com/track/2nhjP3RjbfZQgSIQk1elzZ) | [Hello Sleepwalkers](https://open.spotify.com/artist/12CmFAwzxYnVtJgnzIysvm) | [Yureigai To Gyakusetsu](https://open.spotify.com/album/0whu8sWSEyuODpfsg8Q8Go) | 3:31 |
 
-Snapshot ID: `MCw2ODhiYjY5NjlkYzUyM2EzNDNmMzExN2Q5NDU1NWQ1NGZlNTRkYWM3`
+Snapshot ID: `MCw0Njk3YzBjN2U3NDYyZGQ2ZmMyZjI2ZmNkZTIxNWViMzJmN2ExNmVh`

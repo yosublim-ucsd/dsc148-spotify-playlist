@@ -1,12 +1,12 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 38459,
+  "num_followers": 38477,
   "original_name": "Tropiloco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzY2U3Y2I1MjY1N2I4OTQzMWVmM2Q5Y2M4OTg1ZmZlNDMwZjk0YTc2",
+  "snapshot_id": "MCw1ODVjNDVkYzc4YmRhNDAwMDg1NzEzYjQ2YjcxNjg3M2IxY2YzYzIx",
   "tracks": [
     {
       "added_at": "2023-06-30 15:09:39",
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/2Zcv2Vk65xi37T7AT2qcDJ"
     },
     {
-      "added_at": "2023-01-02 20:03:21",
+      "added_at": "2022-02-15 01:43:41",
       "album": {
         "name": "Let the Festivities Begin!",
         "url": "https://open.spotify.com/album/4MyJz5sB4YHeKVtlc9gt7x"
@@ -104,9 +104,9 @@
           "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
         }
       ],
-      "duration_ms": 202133,
-      "name": "Pista (Fresh Start)",
-      "url": "https://open.spotify.com/track/34DOledEvD7igMMVEWbaEO"
+      "duration_ms": 228360,
+      "name": "The Link Is About to Die",
+      "url": "https://open.spotify.com/track/3lDFlqULROOUzjDtO5iNdU"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -213,7 +213,7 @@
       "url": "https://open.spotify.com/track/66IrwRUKnmMPiYpBfEGYCm"
     },
     {
-      "added_at": "2022-02-15 01:43:41",
+      "added_at": "2023-01-02 20:03:21",
       "album": {
         "name": "Let the Festivities Begin!",
         "url": "https://open.spotify.com/album/4MyJz5sB4YHeKVtlc9gt7x"
@@ -224,9 +224,9 @@
           "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
         }
       ],
-      "duration_ms": 228360,
-      "name": "The Link Is About to Die",
-      "url": "https://open.spotify.com/track/3lDFlqULROOUzjDtO5iNdU"
+      "duration_ms": 202133,
+      "name": "Pista (Fresh Start)",
+      "url": "https://open.spotify.com/track/34DOledEvD7igMMVEWbaEO"
     },
     {
       "added_at": "2022-07-14 15:31:28",
@@ -327,22 +327,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Padremontes",
-        "url": "https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn"
-      },
-      "artists": [
-        {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        }
-      ],
-      "duration_ms": 203778,
-      "name": "Sondiram\u00e1",
-      "url": "https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Batuco",
         "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 328680,
       "name": "Mi Vida sin tu Amor (featuring Mi\u00f1o)",
       "url": "https://open.spotify.com/track/63TFbfWD0zH9Y2tf3uqoRB"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Padremontes",
+        "url": "https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn"
+      },
+      "artists": [
+        {
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
+        }
+      ],
+      "duration_ms": 203778,
+      "name": "Sondiram\u00e1",
+      "url": "https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q"
     },
     {
       "added_at": "2023-03-23 22:04:18",
@@ -427,26 +427,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Frente Cumbiero Meets Mad Professor",
-        "url": "https://open.spotify.com/album/1dnal49FIWH19CsWYjYMOV"
-      },
-      "artists": [
-        {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        },
-        {
-          "name": "Mad Professor",
-          "url": "https://open.spotify.com/artist/3hbnUwHvxyFxeJ9veCzOE7"
-        }
-      ],
-      "duration_ms": 263933,
-      "name": "Chucusteady",
-      "url": "https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Noche de Amor",
         "url": "https://open.spotify.com/album/1NvVlQFSVOjr7w0Jh18VZ6"
       },
@@ -487,6 +467,26 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
+        "name": "Frente Cumbiero Meets Mad Professor",
+        "url": "https://open.spotify.com/album/1dnal49FIWH19CsWYjYMOV"
+      },
+      "artists": [
+        {
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
+        },
+        {
+          "name": "Mad Professor",
+          "url": "https://open.spotify.com/artist/3hbnUwHvxyFxeJ9veCzOE7"
+        }
+      ],
+      "duration_ms": 263933,
+      "name": "Chucusteady",
+      "url": "https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
         "name": "Sonido Amazonico",
         "url": "https://open.spotify.com/album/0p5Iiuaj58qCxzMYqgP7B1"
       },
@@ -499,6 +499,22 @@
       "duration_ms": 319720,
       "name": "Popcorn Andino",
       "url": "https://open.spotify.com/track/7kkijB89vc5uGbG1WhUFZu"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Safe Passage",
+        "url": "https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3"
+      },
+      "artists": [
+        {
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+        }
+      ],
+      "duration_ms": 206684,
+      "name": "Nosotros Tambi\u00e9n",
+      "url": "https://open.spotify.com/track/76xUNVY7llhvudB1jrl21I"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -519,22 +535,6 @@
       "duration_ms": 162581,
       "name": "Vampiro Sabanero",
       "url": "https://open.spotify.com/track/4D4k64jUrH85Iy6liEuQsi"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Safe Passage",
-        "url": "https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3"
-      },
-      "artists": [
-        {
-          "name": "Gitkin",
-          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
-        }
-      ],
-      "duration_ms": 206684,
-      "name": "Nosotros Tambi\u00e9n",
-      "url": "https://open.spotify.com/track/76xUNVY7llhvudB1jrl21I"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -591,22 +591,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Cera Perdida",
-        "url": "https://open.spotify.com/album/4G4lWdQ2QmExgywdumu7Fh"
-      },
-      "artists": [
-        {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        }
-      ],
-      "duration_ms": 189892,
-      "name": "Jaley Jaley",
-      "url": "https://open.spotify.com/track/5Q2kmykzh6TUFBBqskiHjK"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Mucho Gusto",
         "url": "https://open.spotify.com/album/5cBEcSpfpxeFyPZTqNg5X6"
       },
@@ -619,6 +603,38 @@
       "duration_ms": 317375,
       "name": "Yo Bailo Sola",
       "url": "https://open.spotify.com/track/6swdsm8ovYxcm5a8mgye0F"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Qui\u00e9n Es Qui\u00e9n",
+        "url": "https://open.spotify.com/album/7irXgfKsuVDuAoZl7pxx2Q"
+      },
+      "artists": [
+        {
+          "name": "Olaya Sound System",
+          "url": "https://open.spotify.com/artist/6sVCc3GjCgPU7Vk56h8Zi3"
+        }
+      ],
+      "duration_ms": 279373,
+      "name": "Desaparecer",
+      "url": "https://open.spotify.com/track/5bqVSvkVpqq9UavaeDpIgP"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Cera Perdida",
+        "url": "https://open.spotify.com/album/4G4lWdQ2QmExgywdumu7Fh"
+      },
+      "artists": [
+        {
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
+        }
+      ],
+      "duration_ms": 189892,
+      "name": "Jaley Jaley",
+      "url": "https://open.spotify.com/track/5Q2kmykzh6TUFBBqskiHjK"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -655,22 +671,6 @@
       "duration_ms": 255227,
       "name": "Aguaepanela Fant\u00e1stica",
       "url": "https://open.spotify.com/track/4dD12G5mBLuZX59OInpwYt"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Qui\u00e9n Es Qui\u00e9n",
-        "url": "https://open.spotify.com/album/7irXgfKsuVDuAoZl7pxx2Q"
-      },
-      "artists": [
-        {
-          "name": "Olaya Sound System",
-          "url": "https://open.spotify.com/artist/6sVCc3GjCgPU7Vk56h8Zi3"
-        }
-      ],
-      "duration_ms": 279373,
-      "name": "Desaparecer",
-      "url": "https://open.spotify.com/track/5bqVSvkVpqq9UavaeDpIgP"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -777,6 +777,22 @@
       "url": "https://open.spotify.com/track/6O8QYW20bbKpo4csMPjflw"
     },
     {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Historia natural",
+        "url": "https://open.spotify.com/album/6R4jGvcdmRiF8wL6yqp34N"
+      },
+      "artists": [
+        {
+          "name": "Los Pira\u00f1as",
+          "url": "https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq"
+        }
+      ],
+      "duration_ms": 223488,
+      "name": "Todos tenemos hogar",
+      "url": "https://open.spotify.com/track/0TS5b5bVfUtGi2VOimdjIH"
+    },
+    {
       "added_at": "2023-03-16 23:13:46",
       "album": {
         "name": "Mi Gran Dolor",
@@ -829,38 +845,6 @@
       "url": "https://open.spotify.com/track/0BSUr05Fnpjian9GvLfwgJ"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Historia natural",
-        "url": "https://open.spotify.com/album/6R4jGvcdmRiF8wL6yqp34N"
-      },
-      "artists": [
-        {
-          "name": "Los Pira\u00f1as",
-          "url": "https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq"
-        }
-      ],
-      "duration_ms": 223488,
-      "name": "Todos tenemos hogar",
-      "url": "https://open.spotify.com/track/0TS5b5bVfUtGi2VOimdjIH"
-    },
-    {
-      "added_at": "2023-03-31 17:32:57",
-      "album": {
-        "name": "Kristina",
-        "url": "https://open.spotify.com/album/5BCwHTPb0MVFbxsxtJtdIT"
-      },
-      "artists": [
-        {
-          "name": "Sanje",
-          "url": "https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx"
-        }
-      ],
-      "duration_ms": 238221,
-      "name": "Kristina",
-      "url": "https://open.spotify.com/track/4uBAgsspUqFD9mzDebn7uV"
-    },
-    {
       "added_at": "2022-06-02 20:16:05",
       "album": {
         "name": "Paganismo",
@@ -879,6 +863,22 @@
       "duration_ms": 231840,
       "name": "Cumbia Triste",
       "url": "https://open.spotify.com/track/2NagSRAuRKhczwC1hUhtB1"
+    },
+    {
+      "added_at": "2023-03-31 17:32:57",
+      "album": {
+        "name": "Kristina",
+        "url": "https://open.spotify.com/album/5BCwHTPb0MVFbxsxtJtdIT"
+      },
+      "artists": [
+        {
+          "name": "Sanje",
+          "url": "https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx"
+        }
+      ],
+      "duration_ms": 238221,
+      "name": "Kristina",
+      "url": "https://open.spotify.com/track/4uBAgsspUqFD9mzDebn7uV"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -913,22 +913,6 @@
       "url": "https://open.spotify.com/track/1rRR2kteGIoimfFex15wKu"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "5 Star Motel",
-        "url": "https://open.spotify.com/album/3H6GQSl4t96oYi50JQAr90"
-      },
-      "artists": [
-        {
-          "name": "Gitkin",
-          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
-        }
-      ],
-      "duration_ms": 200858,
-      "name": "Canci\u00f3n del Rey",
-      "url": "https://open.spotify.com/track/0PNi7Zc85t4fwPvhgegc3Y"
-    },
-    {
       "added_at": "2023-04-12 23:55:07",
       "album": {
         "name": "Sue\u00f1o EP",
@@ -943,6 +927,22 @@
       "duration_ms": 231013,
       "name": "Octopus",
       "url": "https://open.spotify.com/track/0DiWyh4VhRKg6VXqcaVA0o"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "5 Star Motel",
+        "url": "https://open.spotify.com/album/3H6GQSl4t96oYi50JQAr90"
+      },
+      "artists": [
+        {
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+        }
+      ],
+      "duration_ms": 200858,
+      "name": "Canci\u00f3n del Rey",
+      "url": "https://open.spotify.com/track/0PNi7Zc85t4fwPvhgegc3Y"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
+        "name": "Canoga Madness",
+        "url": "https://open.spotify.com/album/6KP257UWJsfOnJ5stxJ2MC"
+      },
+      "artists": [
+        {
+          "name": "Mestizo Beat",
+          "url": "https://open.spotify.com/artist/15Jjcp8FbI1GWwMxb5xkns"
+        }
+      ],
+      "duration_ms": 207093,
+      "name": "El Camino Del Caballo",
+      "url": "https://open.spotify.com/track/3EY95RjI4HbKXgUJqMmgu6"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
         "name": "Baile Bucanero",
         "url": "https://open.spotify.com/album/4DrEI2T7ihZsJl6sNEDa6Y"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 193920,
       "name": "Mamita Santa",
       "url": "https://open.spotify.com/track/6NwPLDzVZuoBvCDmipbjCR"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Canoga Madness",
-        "url": "https://open.spotify.com/album/6KP257UWJsfOnJ5stxJ2MC"
-      },
-      "artists": [
-        {
-          "name": "Mestizo Beat",
-          "url": "https://open.spotify.com/artist/15Jjcp8FbI1GWwMxb5xkns"
-        }
-      ],
-      "duration_ms": 207093,
-      "name": "El Camino Del Caballo",
-      "url": "https://open.spotify.com/track/3EY95RjI4HbKXgUJqMmgu6"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1223,6 +1223,22 @@
       "duration_ms": 199680,
       "name": "Un Traguito de Ayahuasca",
       "url": "https://open.spotify.com/track/0rKZ4KpPcZYccV9U0k6Ms9"
+    },
+    {
+      "added_at": "2023-03-28 05:33:43",
+      "album": {
+        "name": "Sue\u00f1o EP",
+        "url": "https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR"
+      },
+      "artists": [
+        {
+          "name": "Malphino",
+          "url": "https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Strange Salsa",
+      "url": "https://open.spotify.com/track/0m2wxPnFcPOjKnoj5AmQJR"
     },
     {
       "added_at": "2022-06-22 16:48:57",
@@ -1309,22 +1325,6 @@
       "url": "https://open.spotify.com/track/09V3pHWcxfC2Cf00loUtWj"
     },
     {
-      "added_at": "2023-03-28 05:33:43",
-      "album": {
-        "name": "Sue\u00f1o EP",
-        "url": "https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR"
-      },
-      "artists": [
-        {
-          "name": "Malphino",
-          "url": "https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Strange Salsa",
-      "url": "https://open.spotify.com/track/0m2wxPnFcPOjKnoj5AmQJR"
-    },
-    {
       "added_at": "2021-10-20 15:37:42",
       "album": {
         "name": "Bailazo",
@@ -1339,6 +1339,22 @@
       "duration_ms": 225546,
       "name": "Thai Cumbia",
       "url": "https://open.spotify.com/track/4nwvjS6LoAXGtQnvJKJuMY"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/27SOPYyLOq2RWnzPx6pW4d"
+      },
+      "artists": [
+        {
+          "name": "XIXA",
+          "url": "https://open.spotify.com/artist/00TFWY9PfTDEgsptXLrl1e"
+        }
+      ],
+      "duration_ms": 206430,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/52Ntzc7mUEEH5ilCz7MYpF"
     },
     {
       "added_at": "2023-02-14 03:09:22",
@@ -1379,22 +1395,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/27SOPYyLOq2RWnzPx6pW4d"
-      },
-      "artists": [
-        {
-          "name": "XIXA",
-          "url": "https://open.spotify.com/artist/00TFWY9PfTDEgsptXLrl1e"
-        }
-      ],
-      "duration_ms": 206430,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/52Ntzc7mUEEH5ilCz7MYpF"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Sonido Amazonico",
         "url": "https://open.spotify.com/album/0p5Iiuaj58qCxzMYqgP7B1"
       },
@@ -1407,22 +1407,6 @@
       "duration_ms": 242306,
       "name": "Primavera en la Selva",
       "url": "https://open.spotify.com/track/4hLkkCMgDmve1pRdqtHL1R"
-    },
-    {
-      "added_at": "2022-03-11 03:28:26",
-      "album": {
-        "name": "Teniente Harina (Cumbia Manifiesto, Pt. 2)",
-        "url": "https://open.spotify.com/album/3DpKcXVDBjNm7QvhOUd6Wq"
-      },
-      "artists": [
-        {
-          "name": "Mexican Institute Of Sound",
-          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
-        }
-      ],
-      "duration_ms": 141882,
-      "name": "Teniente Harina - Cumbia Manifiesto, Pt. 2",
-      "url": "https://open.spotify.com/track/6U6gOELlEzLMDYcBY3FQFf"
     },
     {
       "added_at": "2023-02-28 04:34:35",
@@ -1439,6 +1423,22 @@
       "duration_ms": 280822,
       "name": "Shake & Bake",
       "url": "https://open.spotify.com/track/24a7pZ4U6ISIY7NXLNnaWm"
+    },
+    {
+      "added_at": "2022-03-11 03:28:26",
+      "album": {
+        "name": "Teniente Harina (Cumbia Manifiesto, Pt. 2)",
+        "url": "https://open.spotify.com/album/3DpKcXVDBjNm7QvhOUd6Wq"
+      },
+      "artists": [
+        {
+          "name": "Mexican Institute Of Sound",
+          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
+        }
+      ],
+      "duration_ms": 141882,
+      "name": "Teniente Harina - Cumbia Manifiesto, Pt. 2",
+      "url": "https://open.spotify.com/track/6U6gOELlEzLMDYcBY3FQFf"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1617,38 +1617,6 @@
       "url": "https://open.spotify.com/track/5ze6zmZ1sEIIFPSvrNi75n"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Cumbia siglo XXI",
-        "url": "https://open.spotify.com/album/6s91YTFJHq3LWDRMC4QOvp"
-      },
-      "artists": [
-        {
-          "name": "Meridian Brothers",
-          "url": "https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow"
-        }
-      ],
-      "duration_ms": 197066,
-      "name": "Cumbia del Picham\u00e1n",
-      "url": "https://open.spotify.com/track/5WjRThnwydfhzybQStKVaI"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Los Miticos del Ritmo",
-        "url": "https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6"
-      },
-      "artists": [
-        {
-          "name": "Los Miticos Del Ritmo",
-          "url": "https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu"
-        }
-      ],
-      "duration_ms": 212746,
-      "name": "Otro Muerde el Polvo (Another One Bites the Dust)",
-      "url": "https://open.spotify.com/track/6v5qsDOyBIoVELFdppFWfD"
-    },
-    {
       "added_at": "2022-02-12 05:43:00",
       "album": {
         "name": "Cumbia del Metr\u00f3nomo",
@@ -1667,26 +1635,50 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Color de Tr\u00f3pico (Compiled By El Drag\u00f3n Criollo y El Palmas)",
-        "url": "https://open.spotify.com/album/0x29QRFTQuq7LvSwfEDHcz"
+        "name": "Los Miticos del Ritmo",
+        "url": "https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6"
+      },
+      "artists": [
+        {
+          "name": "Los Miticos Del Ritmo",
+          "url": "https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu"
+        }
+      ],
+      "duration_ms": 212746,
+      "name": "Otro Muerde el Polvo (Another One Bites the Dust)",
+      "url": "https://open.spotify.com/track/6v5qsDOyBIoVELFdppFWfD"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Cumbia siglo XXI",
+        "url": "https://open.spotify.com/album/6s91YTFJHq3LWDRMC4QOvp"
+      },
+      "artists": [
+        {
+          "name": "Meridian Brothers",
+          "url": "https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow"
+        }
+      ],
+      "duration_ms": 197066,
+      "name": "Cumbia del Picham\u00e1n",
+      "url": "https://open.spotify.com/track/5WjRThnwydfhzybQStKVaI"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Pase lo Que Pase",
+        "url": "https://open.spotify.com/album/0VpJRPCHSMXQpI1LGJx179"
       },
       "artists": [
         {
           "name": "El Drag\u00f3n Criollo",
           "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
-        },
-        {
-          "name": "El Palmas",
-          "url": "https://open.spotify.com/artist/607tUX31sF7QoJVbCx3r6Y"
-        },
-        {
-          "name": "Grupo Almendra",
-          "url": "https://open.spotify.com/artist/59wBrEGZ8dlFTu48CxK6AK"
         }
       ],
-      "duration_ms": 268607,
-      "name": "Tu y Yo",
-      "url": "https://open.spotify.com/track/1JadQMSwfzMBZ9h3ymjPx0"
+      "duration_ms": 224284,
+      "name": "Mientras Unos Mueren",
+      "url": "https://open.spotify.com/track/4Au25kOuJcI84LrekAcikd"
     },
     {
       "added_at": "2022-11-18 17:45:57",

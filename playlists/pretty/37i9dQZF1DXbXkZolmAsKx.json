@@ -1,12 +1,12 @@
 {
   "description": "The best Ambient tracks from 2010 to 2019. ",
-  "num_followers": 5221,
+  "num_followers": 5243,
   "original_name": "Ambient 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NGVhYmEyMzgzZDIyODM2OWRmYWU5ZDc4MDA4ZWU2Y2RmNGY3ODAx",
+  "snapshot_id": "MCwxYTgwZGJjZTkwODRmNGQyYTA2NzY0MmZmYmFmN2U5NThiOTExZjk2",
   "tracks": [
     {
       "added_at": "2023-06-07 15:21:34",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "In Arboreal Whispering",
-        "url": "https://open.spotify.com/album/7hHtQmDjx7srb9fyMueT4s"
-      },
-      "artists": [
-        {
-          "name": "Hakobune",
-          "url": "https://open.spotify.com/artist/5tbEjgs7Twqh89pq5Ef161"
-        }
-      ],
-      "duration_ms": 249159,
-      "name": "Intransigence",
-      "url": "https://open.spotify.com/track/4eMOIEdYGXThAxGb7SdNZd"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Reassemblage",
         "url": "https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 426786,
       "name": "Spherule",
       "url": "https://open.spotify.com/track/1zc4Z207PHoigtQsnRrdxG"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "In Arboreal Whispering",
+        "url": "https://open.spotify.com/album/7hHtQmDjx7srb9fyMueT4s"
+      },
+      "artists": [
+        {
+          "name": "Hakobune",
+          "url": "https://open.spotify.com/artist/5tbEjgs7Twqh89pq5Ef161"
+        }
+      ],
+      "duration_ms": 249159,
+      "name": "Intransigence",
+      "url": "https://open.spotify.com/track/4eMOIEdYGXThAxGb7SdNZd"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -983,26 +983,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/4josdBWbgaRcF4bEh7U7v4"
-      },
-      "artists": [
-        {
-          "name": "Ben Lukas Boysen",
-          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
-        },
-        {
-          "name": "Sebastian Plano",
-          "url": "https://open.spotify.com/artist/7epYP6gVqTvHaKG7iSMAzr"
-        }
-      ],
-      "duration_ms": 214668,
-      "name": "Opening",
-      "url": "https://open.spotify.com/track/7H3bUCNluOOnkBx5yQ9NwU"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "The Best Driving Music in the World Ever",
         "url": "https://open.spotify.com/album/2E4QO6JYQJmaFrgyfHp5Xj"
       },
@@ -1015,6 +995,22 @@
       "duration_ms": 250341,
       "name": "We Search for the Lights",
       "url": "https://open.spotify.com/track/0z30jZ574qEpAiqWRmE9y4"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Narkopop",
+        "url": "https://open.spotify.com/album/4JQ2igmQEWUihSRzWgTiCF"
+      },
+      "artists": [
+        {
+          "name": "GAS",
+          "url": "https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX"
+        }
+      ],
+      "duration_ms": 292333,
+      "name": "Narkopop 1",
+      "url": "https://open.spotify.com/track/1C9OEukFkuCc67GlGhxyIP"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1035,18 +1031,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Narkopop",
-        "url": "https://open.spotify.com/album/4JQ2igmQEWUihSRzWgTiCF"
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/4josdBWbgaRcF4bEh7U7v4"
       },
       "artists": [
         {
-          "name": "GAS",
-          "url": "https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX"
+          "name": "Ben Lukas Boysen",
+          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
+        },
+        {
+          "name": "Sebastian Plano",
+          "url": "https://open.spotify.com/artist/7epYP6gVqTvHaKG7iSMAzr"
         }
       ],
-      "duration_ms": 292333,
-      "name": "Narkopop 1",
-      "url": "https://open.spotify.com/track/1C9OEukFkuCc67GlGhxyIP"
+      "duration_ms": 214668,
+      "name": "Opening",
+      "url": "https://open.spotify.com/track/7H3bUCNluOOnkBx5yQ9NwU"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Narkopop",
+        "url": "https://open.spotify.com/album/4JQ2igmQEWUihSRzWgTiCF"
+      },
+      "artists": [
+        {
+          "name": "GAS",
+          "url": "https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX"
+        }
+      ],
+      "duration_ms": 249700,
+      "name": "Narkopop 4",
+      "url": "https://open.spotify.com/track/2tGpokv3FSp8boalBuLMF6"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Schaum",
         "url": "https://open.spotify.com/album/58F8DIOgoFQoY112kj6sLP"
       },
@@ -1139,6 +1155,22 @@
       "duration_ms": 517151,
       "name": "Walking in a spiral towards the house: Side C",
       "url": "https://open.spotify.com/track/6VAQq0NST9DpWDc7zretjm"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Fire Light",
+        "url": "https://open.spotify.com/album/2fj4Z9IkqS9SK3lOeeHrY3"
+      },
+      "artists": [
+        {
+          "name": "Darshan Ambient",
+          "url": "https://open.spotify.com/artist/711EaFigHKV5CTbjIYWswu"
+        }
+      ],
+      "duration_ms": 207529,
+      "name": "So Close",
+      "url": "https://open.spotify.com/track/3kZKCUgtVv8NuzgobobYk9"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1179,22 +1211,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Narkopop",
-        "url": "https://open.spotify.com/album/4JQ2igmQEWUihSRzWgTiCF"
-      },
-      "artists": [
-        {
-          "name": "GAS",
-          "url": "https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX"
-        }
-      ],
-      "duration_ms": 249700,
-      "name": "Narkopop 4",
-      "url": "https://open.spotify.com/track/2tGpokv3FSp8boalBuLMF6"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Low Distance",
         "url": "https://open.spotify.com/album/7eA7lexsBpvgs17la5jRc0"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 227458,
       "name": "Faded Earth",
       "url": "https://open.spotify.com/track/5d6YkxTsmw6isMtqsw8vzh"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Fire Light",
-        "url": "https://open.spotify.com/album/2fj4Z9IkqS9SK3lOeeHrY3"
-      },
-      "artists": [
-        {
-          "name": "Darshan Ambient",
-          "url": "https://open.spotify.com/artist/711EaFigHKV5CTbjIYWswu"
-        }
-      ],
-      "duration_ms": 207529,
-      "name": "So Close",
-      "url": "https://open.spotify.com/track/3kZKCUgtVv8NuzgobobYk9"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "After its own death / Walking in a spiral towards the house",
-        "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
-      },
-      "artists": [
-        {
-          "name": "Nivhek",
-          "url": "https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl"
-        }
-      ],
-      "duration_ms": 748623,
-      "name": "Walking in a spiral towards the house: Side D",
-      "url": "https://open.spotify.com/track/4F8HlqT6gkJDytZwMwhtGE"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "chapter",
         "url": "https://open.spotify.com/album/6ngt1QPHyq3rCaYdffI03e"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 287843,
       "name": "soft rime",
       "url": "https://open.spotify.com/track/5ueoXRkvTrIq9rGYCGRdwu"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "After its own death / Walking in a spiral towards the house",
+        "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
+      },
+      "artists": [
+        {
+          "name": "Nivhek",
+          "url": "https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl"
+        }
+      ],
+      "duration_ms": 748623,
+      "name": "Walking in a spiral towards the house: Side D",
+      "url": "https://open.spotify.com/track/4F8HlqT6gkJDytZwMwhtGE"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "We Will Always Be",
-        "url": "https://open.spotify.com/album/2KJckZyq63Ok27GBdGcO1c"
-      },
-      "artists": [
-        {
-          "name": "Windy & Carl",
-          "url": "https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq"
-        }
-      ],
-      "duration_ms": 364253,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/4Vpk6njMa2XRc72cDtzCic"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "The Last of Our Time Together",
         "url": "https://open.spotify.com/album/3AyLgph2cuxoHXY2WndeQc"
       },
@@ -1539,6 +1523,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "We Will Always Be",
+        "url": "https://open.spotify.com/album/2KJckZyq63Ok27GBdGcO1c"
+      },
+      "artists": [
+        {
+          "name": "Windy & Carl",
+          "url": "https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq"
+        }
+      ],
+      "duration_ms": 364253,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/4Vpk6njMa2XRc72cDtzCic"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Curious Things",
         "url": "https://open.spotify.com/album/2Kq9ej2SCW6z0lt9Yyx8uF"
       },
@@ -1567,6 +1567,22 @@
       "duration_ms": 558877,
       "name": "Diminishing Emotion",
       "url": "https://open.spotify.com/track/1XU6OAnMHZAAAZFK07bzOy"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Living With Yourself",
+        "url": "https://open.spotify.com/album/0AT7IX2DuUhYyAaHDtNzWx"
+      },
+      "artists": [
+        {
+          "name": "Mark McGuire",
+          "url": "https://open.spotify.com/artist/2w7aH9RfRWfODKlj0WI8By"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Two Different People",
+      "url": "https://open.spotify.com/track/2pujZjrKfMS9clMZi5GqLt"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1603,6 +1619,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Vantaa",
+        "url": "https://open.spotify.com/album/0BkzBQPjWNStV6pdt45inP"
+      },
+      "artists": [
+        {
+          "name": "Vladislav Delay",
+          "url": "https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9"
+        }
+      ],
+      "duration_ms": 490500,
+      "name": "Luotasi",
+      "url": "https://open.spotify.com/track/68Eikbn8ceLITopH0JDKqx"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "It All Falls Apart",
         "url": "https://open.spotify.com/album/72ulSF7sPtSsSelZ7nX9Bg"
       },
@@ -1619,22 +1651,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Living With Yourself",
-        "url": "https://open.spotify.com/album/0AT7IX2DuUhYyAaHDtNzWx"
-      },
-      "artists": [
-        {
-          "name": "Mark McGuire",
-          "url": "https://open.spotify.com/artist/2w7aH9RfRWfODKlj0WI8By"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Two Different People",
-      "url": "https://open.spotify.com/track/2pujZjrKfMS9clMZi5GqLt"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "American Woman (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7AH6mWK8xurDA3D16PJIn1"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 106643,
       "name": "Search Party",
       "url": "https://open.spotify.com/track/1DrPfngDvjmj1JPh9BtfGP"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Vantaa",
-        "url": "https://open.spotify.com/album/0BkzBQPjWNStV6pdt45inP"
-      },
-      "artists": [
-        {
-          "name": "Vladislav Delay",
-          "url": "https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9"
-        }
-      ],
-      "duration_ms": 490500,
-      "name": "Luotasi",
-      "url": "https://open.spotify.com/track/68Eikbn8ceLITopH0JDKqx"
     },
     {
       "added_at": "2023-06-07 15:21:34",

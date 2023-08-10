@@ -1,12 +1,12 @@
 {
   "description": "Male artists singing about love.",
-  "num_followers": 733740,
+  "num_followers": 733883,
   "original_name": "In the Arms of a Woman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTViMjZkNzFkZTJiYTE1MWRhNGEwOWE5MzJjZjdiOGUxMDUzZDM3",
+  "snapshot_id": "MCxjODZiMWFmNWFlYTI0Yzg2Y2UxZmQ5ODkxNzk2NDNkMzViZTUyYWE5",
   "tracks": [
     {
       "added_at": "2022-08-26 12:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 290573,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "No Brakes",
         "url": "https://open.spotify.com/album/65Uo74eW8L3zXUxSOlSm6H"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 269760,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/1Qrdlkgg9I4J7r3P4kZNwr"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 290573,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Welcome To The Real World",
-        "url": "https://open.spotify.com/album/682sQ449vmcJXS2AGIMrsl"
-      },
-      "artists": [
-        {
-          "name": "Mr. Mister",
-          "url": "https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ"
-        }
-      ],
-      "duration_ms": 343933,
-      "name": "Broken Wings",
-      "url": "https://open.spotify.com/track/78FHUZRbFDCG6VkRAQdFLm"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Promises And Lies",
         "url": "https://open.spotify.com/album/0B0RuH2PSWoEkIvi75xY5d"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 207440,
       "name": "(I Can't Help) Falling In Love With You",
       "url": "https://open.spotify.com/track/7ojJ4XvqBhBcteM0zjMebT"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Welcome To The Real World",
+        "url": "https://open.spotify.com/album/682sQ449vmcJXS2AGIMrsl"
+      },
+      "artists": [
+        {
+          "name": "Mr. Mister",
+          "url": "https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ"
+        }
+      ],
+      "duration_ms": 343933,
+      "name": "Broken Wings",
+      "url": "https://open.spotify.com/track/78FHUZRbFDCG6VkRAQdFLm"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Teaser And The Firecat (Remastered 2021)",
-        "url": "https://open.spotify.com/album/7ez8WRX4sGhKHZryJPJCNg"
-      },
-      "artists": [
-        {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
-        }
-      ],
-      "duration_ms": 199453,
-      "name": "Morning Has Broken - Remastered 2021",
-      "url": "https://open.spotify.com/track/5y8d8RHvxb0KiTa9Nq0xWp"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Say You Won't Let Go",
         "url": "https://open.spotify.com/album/0BL67dR6x0CPU7B7J9P8qC"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 211240,
       "name": "Say You Won't Let Go",
       "url": "https://open.spotify.com/track/1Pw5C4N6Fn5E4mGCxmbbVa"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Teaser And The Firecat (Remastered 2021)",
+        "url": "https://open.spotify.com/album/7ez8WRX4sGhKHZryJPJCNg"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "duration_ms": 199453,
+      "name": "Morning Has Broken - Remastered 2021",
+      "url": "https://open.spotify.com/track/5y8d8RHvxb0KiTa9Nq0xWp"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 234106,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Nilsson Schmilsson",
         "url": "https://open.spotify.com/album/3EfpOFKjotrMQTFTnxrXaB"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 258026,
       "name": "She's The One",
       "url": "https://open.spotify.com/track/4lO57zZGFcj7vSY4QhfVDq"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 234106,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2259,22 +2259,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Nothing Really Matters",
-        "url": "https://open.spotify.com/album/4thfd5IORYpYB83wxnQAQ0"
-      },
-      "artists": [
-        {
-          "name": "Mr. Probz",
-          "url": "https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT"
-        }
-      ],
-      "duration_ms": 222041,
-      "name": "Nothing Really Matters",
-      "url": "https://open.spotify.com/track/4fGbdX3qUTOS8Kpsc8hQT6"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "The Best of Luther Vandross The Best of Love",
         "url": "https://open.spotify.com/album/5rrSO0mgkVmZF1qjPn0TKD"
       },
@@ -2287,6 +2271,22 @@
       "duration_ms": 323000,
       "name": "Here and Now",
       "url": "https://open.spotify.com/track/042pmCix7CPth3l3X28jl1"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Nothing Really Matters",
+        "url": "https://open.spotify.com/album/4thfd5IORYpYB83wxnQAQ0"
+      },
+      "artists": [
+        {
+          "name": "Mr. Probz",
+          "url": "https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT"
+        }
+      ],
+      "duration_ms": 222041,
+      "name": "Nothing Really Matters",
+      "url": "https://open.spotify.com/track/4fGbdX3qUTOS8Kpsc8hQT6"
     },
     {
       "added_at": "2022-08-26 12:00:00",

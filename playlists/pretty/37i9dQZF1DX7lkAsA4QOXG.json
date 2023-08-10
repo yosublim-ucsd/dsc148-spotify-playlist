@@ -1,12 +1,12 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Jamie Cullum",
-  "num_followers": 109270,
+  "num_followers": 109349,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzk2ZDVkMzA2YjQ5ODYxN2FhOWI4ZTM5ZGU3MTA2YmI3ZWQzYjcz",
+  "snapshot_id": "MCxlMWI1MjM4ZDc1ZDhjYmRkMDExM2I2YzkxZTgyYWUxM2QyOTU1OTE5",
   "tracks": [
     {
       "added_at": "2023-06-21 10:58:17",
@@ -267,38 +267,6 @@
     {
       "added_at": "2023-06-21 10:58:17",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 160280,
-      "name": "Mrs. Robinson",
-      "url": "https://open.spotify.com/track/0RYJnTy9kC4KreZKEGRDdd"
-    },
-    {
-      "added_at": "2023-06-21 10:58:17",
-      "album": {
-        "name": "Wallflower",
-        "url": "https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 197146,
-      "name": "California Dreamin'",
-      "url": "https://open.spotify.com/track/14IV6ycAWxurGj5KvHtNAT"
-    },
-    {
-      "added_at": "2023-06-21 10:58:17",
-      "album": {
         "name": "4 Wheel Drive",
         "url": "https://open.spotify.com/album/6HHbIMi4Hk5wyjGVm4jZb2"
       },
@@ -327,6 +295,22 @@
     {
       "added_at": "2023-06-21 10:58:17",
       "album": {
+        "name": "Wallflower",
+        "url": "https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 197146,
+      "name": "California Dreamin'",
+      "url": "https://open.spotify.com/track/14IV6ycAWxurGj5KvHtNAT"
+    },
+    {
+      "added_at": "2023-06-21 10:58:17",
+      "album": {
         "name": "I Still Haven't Found What I'm Looking For",
         "url": "https://open.spotify.com/album/6DIhteXyU6TqzXu6mdwuzO"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 205502,
       "name": "I Still Haven't Found What I'm Looking For",
       "url": "https://open.spotify.com/track/3URt3hJlLJEJFwBNBIyOGY"
+    },
+    {
+      "added_at": "2023-06-21 10:58:17",
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 160280,
+      "name": "Mrs. Robinson",
+      "url": "https://open.spotify.com/track/0RYJnTy9kC4KreZKEGRDdd"
     },
     {
       "added_at": "2023-06-21 10:58:17",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-06-21 10:58:17",
       "album": {
-        "name": "You Should Have Told Me",
-        "url": "https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ"
-      },
-      "artists": [
-        {
-          "name": "Ellen Andersson",
-          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
-        }
-      ],
-      "duration_ms": 232253,
-      "name": "You've Got a Friend in Me",
-      "url": "https://open.spotify.com/track/2QQteyYAiR8PKRdIQtT5hz"
-    },
-    {
-      "added_at": "2023-06-21 10:58:17",
-      "album": {
         "name": "The Many Facets of George Shearing",
         "url": "https://open.spotify.com/album/0TP4AAOdv1UszCHzTRXxK1"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 296000,
       "name": "Here, There and Everywhere",
       "url": "https://open.spotify.com/track/2hOd88IAX1JT3EfktlSp4D"
+    },
+    {
+      "added_at": "2023-06-21 10:58:17",
+      "album": {
+        "name": "You Should Have Told Me",
+        "url": "https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ"
+      },
+      "artists": [
+        {
+          "name": "Ellen Andersson",
+          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
+        }
+      ],
+      "duration_ms": 232253,
+      "name": "You've Got a Friend in Me",
+      "url": "https://open.spotify.com/track/2QQteyYAiR8PKRdIQtT5hz"
     },
     {
       "added_at": "2023-06-21 10:58:17",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-06-21 10:58:17",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/5NaIn42BHM4s814EXBSolu"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 152813,
-      "name": "Blowin' In The Wind",
-      "url": "https://open.spotify.com/track/6jKnINtSHvjyz7jgw0pJnx"
-    },
-    {
-      "added_at": "2023-06-21 10:58:17",
-      "album": {
         "name": "Your Mother Should Know: Brad Mehldau Plays The Beatles",
         "url": "https://open.spotify.com/album/6w9YYlUOAu5gtirkVUZQFT"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 148120,
       "name": "For No One",
       "url": "https://open.spotify.com/track/1fszxlX9SnaiWOZvIEjGFq"
+    },
+    {
+      "added_at": "2023-06-21 10:58:17",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/5NaIn42BHM4s814EXBSolu"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 152813,
+      "name": "Blowin' In The Wind",
+      "url": "https://open.spotify.com/track/6jKnINtSHvjyz7jgw0pJnx"
     },
     {
       "added_at": "2023-06-21 10:58:17",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-06-21 10:58:17",
       "album": {
-        "name": "Viva la Vida",
-        "url": "https://open.spotify.com/album/0eCt4jdobrtQrWnR3dKy8G"
-      },
-      "artists": [
-        {
-          "name": "The Holly Molly Trio",
-          "url": "https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ"
-        }
-      ],
-      "duration_ms": 159541,
-      "name": "Viva la Vida",
-      "url": "https://open.spotify.com/track/6PsbpkLgClv0zb8l5PM6zz"
-    },
-    {
-      "added_at": "2023-06-21 10:58:17",
-      "album": {
         "name": "Live at the Village Vanguard",
         "url": "https://open.spotify.com/album/3UJbQf5jRzsa1B6mad1gVB"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 432915,
       "name": "Car Wash",
       "url": "https://open.spotify.com/track/6esuuSi7EMHUUpAwiE2su4"
+    },
+    {
+      "added_at": "2023-06-21 10:58:17",
+      "album": {
+        "name": "Viva la Vida",
+        "url": "https://open.spotify.com/album/0eCt4jdobrtQrWnR3dKy8G"
+      },
+      "artists": [
+        {
+          "name": "The Holly Molly Trio",
+          "url": "https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ"
+        }
+      ],
+      "duration_ms": 159541,
+      "name": "Viva la Vida",
+      "url": "https://open.spotify.com/track/6PsbpkLgClv0zb8l5PM6zz"
     },
     {
       "added_at": "2023-06-21 10:58:17",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-06-21 10:58:17",
       "album": {
-        "name": "What's It All About?",
-        "url": "https://open.spotify.com/album/7H6c6F19uEEhjjLpDhufoh"
-      },
-      "artists": [
-        {
-          "name": "Ellas Kapell",
-          "url": "https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb"
-        }
-      ],
-      "duration_ms": 262573,
-      "name": "In My Life",
-      "url": "https://open.spotify.com/track/0XzpDgmYTLiStmuNhU4rWx"
-    },
-    {
-      "added_at": "2023-06-21 10:58:17",
-      "album": {
         "name": "Everybody Loves Angels",
         "url": "https://open.spotify.com/album/2KVy7tButMpXOxtlRxeuYm"
       },
@@ -1663,18 +1647,18 @@
     {
       "added_at": "2023-06-21 10:58:17",
       "album": {
-        "name": "River: The Joni Letters (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3POVQYTvE1DYjlLWulZpTR"
+        "name": "What's It All About?",
+        "url": "https://open.spotify.com/album/7H6c6F19uEEhjjLpDhufoh"
       },
       "artists": [
         {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+          "name": "Ellas Kapell",
+          "url": "https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb"
         }
       ],
-      "duration_ms": 458160,
-      "name": "Both Sides Now",
-      "url": "https://open.spotify.com/track/2MMhpRPmQYXk7xm7KHgWoq"
+      "duration_ms": 262573,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/0XzpDgmYTLiStmuNhU4rWx"
     },
     {
       "added_at": "2023-06-21 10:58:17",
@@ -1691,6 +1675,22 @@
       "duration_ms": 148800,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/1mScOKklx8m8FvNcarYHOs"
+    },
+    {
+      "added_at": "2023-06-21 10:58:17",
+      "album": {
+        "name": "River: The Joni Letters (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3POVQYTvE1DYjlLWulZpTR"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 458160,
+      "name": "Both Sides Now",
+      "url": "https://open.spotify.com/track/2MMhpRPmQYXk7xm7KHgWoq"
     },
     {
       "added_at": "2023-06-21 10:58:17",
@@ -1815,38 +1815,6 @@
     {
       "added_at": "2023-06-21 10:58:17",
       "album": {
-        "name": "Oliver Nelson Plays Michelle",
-        "url": "https://open.spotify.com/album/4gpVcA06Od08ym7LDyQ0qw"
-      },
-      "artists": [
-        {
-          "name": "Oliver Nelson",
-          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
-        }
-      ],
-      "duration_ms": 162480,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/6c6XaTu2VM32NHxtYZUWMY"
-    },
-    {
-      "added_at": "2023-06-21 10:58:17",
-      "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/5IDEw0lSO7uTBsk8dWRQac"
-      },
-      "artists": [
-        {
-          "name": "Jacob Karlzon",
-          "url": "https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM"
-        }
-      ],
-      "duration_ms": 292498,
-      "name": "I Still Haven't Found What I'm Looking For",
-      "url": "https://open.spotify.com/track/1W6p8Y996nO7Pd1JYEZIb6"
-    },
-    {
-      "added_at": "2023-06-21 10:58:17",
-      "album": {
         "name": "A Modern Songbook",
         "url": "https://open.spotify.com/album/1AXxMgXOJfn5Qdnz7V9y1H"
       },
@@ -1867,6 +1835,22 @@
       "duration_ms": 411893,
       "name": "Fields of Gold - Live",
       "url": "https://open.spotify.com/track/1vAO8K5hBp5TollswpLnXX"
+    },
+    {
+      "added_at": "2023-06-21 10:58:17",
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/5IDEw0lSO7uTBsk8dWRQac"
+      },
+      "artists": [
+        {
+          "name": "Jacob Karlzon",
+          "url": "https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM"
+        }
+      ],
+      "duration_ms": 292498,
+      "name": "I Still Haven't Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/1W6p8Y996nO7Pd1JYEZIb6"
     },
     {
       "added_at": "2023-06-21 10:58:17",
@@ -2043,22 +2027,6 @@
     {
       "added_at": "2023-06-21 10:58:17",
       "album": {
-        "name": "Timeless Tales [For Changing Times]",
-        "url": "https://open.spotify.com/album/0yioztetjswvCXmqn91t0s"
-      },
-      "artists": [
-        {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
-        }
-      ],
-      "duration_ms": 526533,
-      "name": "Eleanor Rigby",
-      "url": "https://open.spotify.com/track/4q5KE7ma9YYDNg18K3KKyU"
-    },
-    {
-      "added_at": "2023-06-21 10:58:17",
-      "album": {
         "name": "As an Unperfect Actor (Nine Shakespeare Sonnets)",
         "url": "https://open.spotify.com/album/28TO5COQrry3X4i8amGonZ"
       },
@@ -2079,6 +2047,22 @@
       "duration_ms": 210593,
       "name": "When Most I Wink - Sonnet 43",
       "url": "https://open.spotify.com/track/7Lo8oj9nSXy6DWCpbd4mGb"
+    },
+    {
+      "added_at": "2023-06-21 10:58:17",
+      "album": {
+        "name": "Timeless Tales [For Changing Times]",
+        "url": "https://open.spotify.com/album/0yioztetjswvCXmqn91t0s"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        }
+      ],
+      "duration_ms": 526533,
+      "name": "Eleanor Rigby",
+      "url": "https://open.spotify.com/track/4q5KE7ma9YYDNg18K3KKyU"
     },
     {
       "added_at": "2023-06-21 10:58:17",
@@ -2199,22 +2183,6 @@
     {
       "added_at": "2023-06-21 10:58:17",
       "album": {
-        "name": "A Day In The Life: Impressions Of Pepper",
-        "url": "https://open.spotify.com/album/6rWvJJR3Hocji9Tgs1arq4"
-      },
-      "artists": [
-        {
-          "name": "The JuJu Exchange",
-          "url": "https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV"
-        }
-      ],
-      "duration_ms": 289653,
-      "name": "A Day In The Life",
-      "url": "https://open.spotify.com/track/1P2vPz7FqmxdSAnSloCWc8"
-    },
-    {
-      "added_at": "2023-06-21 10:58:17",
-      "album": {
         "name": "Ink on a Pin - A Celebration of Joni Mitchell",
         "url": "https://open.spotify.com/album/62dQ3hNEiWLBOCJLHILChk"
       },
@@ -2227,6 +2195,22 @@
       "duration_ms": 232522,
       "name": "Chelsea Morning",
       "url": "https://open.spotify.com/track/0KIqkIvNZcS5pBzkHHvFt1"
+    },
+    {
+      "added_at": "2023-06-21 10:58:17",
+      "album": {
+        "name": "A Day In The Life: Impressions Of Pepper",
+        "url": "https://open.spotify.com/album/6rWvJJR3Hocji9Tgs1arq4"
+      },
+      "artists": [
+        {
+          "name": "The JuJu Exchange",
+          "url": "https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV"
+        }
+      ],
+      "duration_ms": 289653,
+      "name": "A Day In The Life",
+      "url": "https://open.spotify.com/track/1P2vPz7FqmxdSAnSloCWc8"
     },
     {
       "added_at": "2023-06-21 10:58:17",
@@ -2363,6 +2347,22 @@
     {
       "added_at": "2023-06-21 10:58:17",
       "album": {
+        "name": "Sealed with a Kiss",
+        "url": "https://open.spotify.com/album/3WCTl9gYGQqyLtKIiVLtuj"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        }
+      ],
+      "duration_ms": 196113,
+      "name": "Sealed with a Kiss",
+      "url": "https://open.spotify.com/track/2JzWC2BLboCvHxfUTWovJA"
+    },
+    {
+      "added_at": "2023-06-21 10:58:17",
+      "album": {
         "name": "East/West",
         "url": "https://open.spotify.com/album/3osIJ2ulRYsz7FMAw1AG3E"
       },
@@ -2379,6 +2379,38 @@
     {
       "added_at": "2023-06-21 10:58:17",
       "album": {
+        "name": "Lieb Plays the Beatles",
+        "url": "https://open.spotify.com/album/2jSCnq7vrAR0DO3qLdKjEr"
+      },
+      "artists": [
+        {
+          "name": "The David Liebman Trio",
+          "url": "https://open.spotify.com/artist/7ntUblw92fCVpMIjkM1TXh"
+        },
+        {
+          "name": "Dave Liebman",
+          "url": "https://open.spotify.com/artist/429bUEZe2Hq5QJvO2CmhLn"
+        },
+        {
+          "name": "John Ruocco",
+          "url": "https://open.spotify.com/artist/6tyFjAhvbV2tt8urz1THok"
+        },
+        {
+          "name": "Eric Ineke",
+          "url": "https://open.spotify.com/artist/5rBQKpKypyVegQLtS7APtx"
+        },
+        {
+          "name": "Marius Beets",
+          "url": "https://open.spotify.com/artist/5OdTxtGUOXe9h3UhPti9pK"
+        }
+      ],
+      "duration_ms": 261853,
+      "name": "Julia",
+      "url": "https://open.spotify.com/track/1RTmc5oW1VmWUaUh80IZzo"
+    },
+    {
+      "added_at": "2023-06-21 10:58:17",
+      "album": {
         "name": "Falling Grace",
         "url": "https://open.spotify.com/album/0cZvmhCqP7PftLmvEqKpeE"
       },
@@ -2391,22 +2423,6 @@
       "duration_ms": 223373,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/04ialTCPs63fRkmNq9XbOU"
-    },
-    {
-      "added_at": "2023-06-21 10:58:17",
-      "album": {
-        "name": "Sealed with a Kiss",
-        "url": "https://open.spotify.com/album/3WCTl9gYGQqyLtKIiVLtuj"
-      },
-      "artists": [
-        {
-          "name": "Armel Dupas Trio",
-          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
-        }
-      ],
-      "duration_ms": 196113,
-      "name": "Sealed with a Kiss",
-      "url": "https://open.spotify.com/track/2JzWC2BLboCvHxfUTWovJA"
     },
     {
       "added_at": "2023-06-21 10:58:17",
@@ -2459,38 +2475,6 @@
       "duration_ms": 369876,
       "name": "Optimistic",
       "url": "https://open.spotify.com/track/3OmhKVNesWJ2BGF7UaLx7C"
-    },
-    {
-      "added_at": "2023-06-21 10:58:17",
-      "album": {
-        "name": "Lieb Plays the Beatles",
-        "url": "https://open.spotify.com/album/2jSCnq7vrAR0DO3qLdKjEr"
-      },
-      "artists": [
-        {
-          "name": "The David Liebman Trio",
-          "url": "https://open.spotify.com/artist/7ntUblw92fCVpMIjkM1TXh"
-        },
-        {
-          "name": "Dave Liebman",
-          "url": "https://open.spotify.com/artist/429bUEZe2Hq5QJvO2CmhLn"
-        },
-        {
-          "name": "John Ruocco",
-          "url": "https://open.spotify.com/artist/6tyFjAhvbV2tt8urz1THok"
-        },
-        {
-          "name": "Eric Ineke",
-          "url": "https://open.spotify.com/artist/5rBQKpKypyVegQLtS7APtx"
-        },
-        {
-          "name": "Marius Beets",
-          "url": "https://open.spotify.com/artist/5OdTxtGUOXe9h3UhPti9pK"
-        }
-      ],
-      "duration_ms": 261853,
-      "name": "Julia",
-      "url": "https://open.spotify.com/track/1RTmc5oW1VmWUaUh80IZzo"
     },
     {
       "added_at": "2023-06-21 10:58:17",
@@ -2707,6 +2691,22 @@
       "duration_ms": 225335,
       "name": "Exile",
       "url": "https://open.spotify.com/track/1FOYXwmCeH2CCgEKAdnBGw"
+    },
+    {
+      "added_at": "2023-06-21 10:58:17",
+      "album": {
+        "name": "Chimes Of Freedom: The Songs Of Bob Dylan Honoring 50 Years Of Amnesty International",
+        "url": "https://open.spotify.com/album/1SB9SD66SM04dm8wZdLatY"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 229493,
+      "name": "Simple Twist Of Fate",
+      "url": "https://open.spotify.com/track/2eQwEOTPoOVe5gVWFdRQHv"
     }
   ],
   "unique_name": "Jazz Covers",

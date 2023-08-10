@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie\. Cover: Siddhartha & Emmanuel Horvilleur
 
-427 songs - 23 hr 48 min
+428 songs - 23 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,7 +363,7 @@
 | [Sunshine](https://open.spotify.com/track/6C7p3BcxCK9aTgAI87o3LW) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Sunshine](https://open.spotify.com/album/74sh4vrghtKQ7J2Ws6aZYX) | 3:53 | 2023-03-17 | 2023-04-29 |
 | [tal vez el amor](https://open.spotify.com/track/28HWPrCDObbNmNwLH92hKZ) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz), [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [tal vez el amor](https://open.spotify.com/album/5qu0izFsk48Fo3vIvfJqu0) | 3:33 | 2023-01-13 | 2023-03-25 |
 | [Talk Too Much](https://open.spotify.com/track/1klV5fgwM7BJYN01s8WYAm) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Talk Too Much](https://open.spotify.com/album/2nCLBUPR0M5n5jX0vkWN66) | 3:17 | 2022-11-24 | 2023-01-11 |
-| [Tampoco Poco](https://open.spotify.com/track/56Qv2bKbDBp7I2iKgmUV47) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Tampoco Poco](https://open.spotify.com/album/75vq0NL98i4o6WZzqVjt2r) | 3:00 | 2023-05-12 |  |
+| [Tampoco Poco](https://open.spotify.com/track/56Qv2bKbDBp7I2iKgmUV47) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Tampoco Poco](https://open.spotify.com/album/75vq0NL98i4o6WZzqVjt2r) | 3:00 | 2023-05-12 | 2023-08-10 |
 | [Tarde](https://open.spotify.com/track/7D4se6J5kxfuJUF6BeTo71) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Me cansé de hacer canciones \(que no salgan si no estoy llorando\)](https://open.spotify.com/album/3BQJmgCqlUfOy6dfRytlsw) | 3:19 | 2022-08-11 | 2022-12-10 |
 | [te alejas](https://open.spotify.com/track/3ZUNkZgE697qrnRCBZZOBz) | [andremustdie](https://open.spotify.com/artist/6J3J7gELfiEqZIiW7gVNrw), [El Otro Polo](https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2) | [te alejas](https://open.spotify.com/album/2QBBsysSCOI2tmHqvNBG7j) | 4:58 | 2022-01-10 | 2022-07-26 |
 | [TE EXTRAÑO Y LO SIENTO...](https://open.spotify.com/track/6OSN2N61BWdYlozr5cywFK) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [TE EXTRAÑO Y LO SIENTO...](https://open.spotify.com/album/5nq42mfjwHfY2tFGWhn6mP) | 3:49 | 2023-04-21 | 2023-06-17 |
@@ -421,6 +421,7 @@
 | [vulnerable](https://open.spotify.com/track/41iIfXRMk0pS2K1N1Y0j6C) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [FDA](https://open.spotify.com/album/6DlORJmquAxLQ3UALhbkcn) | 2:39 | 2023-08-04 |  |
 | [Wacha Checa](https://open.spotify.com/track/6jLWCKkuqRS9zKd0PcdvdN) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Wacha Checa](https://open.spotify.com/album/72q9OpG5SNz6dZeT6gFVKY) | 3:37 | 2023-07-28 |  |
 | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/track/1Qu24vc8msUVLcMZWa4k1x) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Apolonio](https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7) | 4:07 | 2021-11-18 | 2022-09-07 |
+| [Wasted Summers](https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers](https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY) | 2:10 | 2023-08-09 |  |
 | [Waterproof](https://open.spotify.com/track/3n9kLQTgbU3JIBEe44QyKm) | [Camila Orantes](https://open.spotify.com/artist/4SuUIMrRCRGq38QUiXCpuv), [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Waterproof](https://open.spotify.com/album/5C6qFvIfAku7LCBCd0z8ka) | 3:05 | 2023-04-07 | 2023-06-16 |
 | [Where We Can't See](https://open.spotify.com/track/612UlRjogF7bkGgVamQhKT) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Where We Can't See](https://open.spotify.com/album/6WLlYL5Pd3H4tQBxcRhTOZ) | 2:45 | 2022-01-10 | 2022-08-20 |
 | [XO](https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Last Spa on Earth](https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB) | 3:05 | 2022-12-30 | 2023-05-20 |

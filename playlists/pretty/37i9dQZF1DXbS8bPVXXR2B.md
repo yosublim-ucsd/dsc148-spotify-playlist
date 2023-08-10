@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 
 > We just wanna rock you all night long.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,937 likes - 100 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,040 likes - 100 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 33 | [Going Back to My Roots](https://open.spotify.com/track/6PFsub5iIJwrBb8qBRqmiV) | [Richie Havens](https://open.spotify.com/artist/4Qk0lWGeXydDvfrDufDQ9p) | [Connections](https://open.spotify.com/album/7ycG05oTUchKzHEEfNrpef) | 5:03 |
 | 34 | [Icare](https://open.spotify.com/track/67OcVGdHgzLykVUbaXwVYv) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf), [Bertrand Burgalat](https://open.spotify.com/artist/2JzpIUoj6kZ8r11iE46yq7) | [Icare](https://open.spotify.com/album/3xQhF7EoL5DS0DceUsG8Fv) | 3:42 |
 | 35 | [Looking Up to You](https://open.spotify.com/track/5YPIX0GlnaAxaJBFJydMT4) | [Michael Wycoff](https://open.spotify.com/artist/03WrOkxi8Ktm2tBYI1Z7vV) | [Love Conquers All \(Expanded Edition\)](https://open.spotify.com/album/0CqVEdJUYqyHp1rlI07Fab) | 5:20 |
-| 36 | [Just a Touch of Love](https://open.spotify.com/track/1abbmCW62dP7ag10VjQBz4) | [Slave](https://open.spotify.com/artist/5mtKpqeeaFavW15yIX4h5e) | [Just A Touch Of Love](https://open.spotify.com/album/1KGJvJwBNbDpMW29QdW7qg) | 6:32 |
-| 37 | [Slave To The Rhythm \- Hot Blooded Version](https://open.spotify.com/track/3di2SUB3jU1v5HPQCkc84L) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Private Life: The Compass Point Sessions](https://open.spotify.com/album/4UEvfbWLPms6KlEVr8USjf) | 8:18 |
+| 36 | [Slave To The Rhythm \- Hot Blooded Version](https://open.spotify.com/track/3di2SUB3jU1v5HPQCkc84L) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Private Life: The Compass Point Sessions](https://open.spotify.com/album/4UEvfbWLPms6KlEVr8USjf) | 8:18 |
+| 37 | [Just a Touch of Love](https://open.spotify.com/track/1abbmCW62dP7ag10VjQBz4) | [Slave](https://open.spotify.com/artist/5mtKpqeeaFavW15yIX4h5e) | [Just A Touch Of Love](https://open.spotify.com/album/1KGJvJwBNbDpMW29QdW7qg) | 6:32 |
 | 38 | [You Could Be More As You Are](https://open.spotify.com/track/1z4wF1YNe3FphOqyD2eRqY) | [Saâda Bonaire](https://open.spotify.com/artist/7y1XjJQEGtFmh1MNyWU6cg) | [Saâda Bonaire](https://open.spotify.com/album/0POnlLnYjmV7QIGKgmx1W8) | 5:56 |
 | 39 | [Voices Inside My Head](https://open.spotify.com/track/0Jvn32u7plWgz5YQk6OoSo) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Zenyatta Mondatta \(Remastered 2003\)](https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ) | 3:53 |
 | 40 | [I Zimbra \- 2005 Remaster](https://open.spotify.com/track/2zdlkG9g5Mt0alUdqn7s3D) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music \(Deluxe Version\)](https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo) | 3:08 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 69 | [Get It Right](https://open.spotify.com/track/0Q3vW513PoBhndb8MszDP2) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Get It Right \(Expanded Edition\)](https://open.spotify.com/album/1P5mbihG8FF4vfu3hhiMVH) | 6:15 |
 | 70 | [Missing You](https://open.spotify.com/track/06hANyT8h4lWypiU6PJPrR) | [Larry Heard](https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz) | [Charles Webster \- Coast2Coast](https://open.spotify.com/album/0J3maXTgCWzdpFC3CQs6MO) | 6:36 |
 | 71 | [Let's Start The Dance](https://open.spotify.com/track/5kzro4mOcjwXuugRc6nzm7) | [Bohannon](https://open.spotify.com/artist/3opvWF0Koer2VPIJVOqnU6) | [Summertime Groove](https://open.spotify.com/album/5bAjY7MUnLDqp563OZVInB) | 5:52 |
-| 72 | [Enjoy Your Life](https://open.spotify.com/track/5Vh1ehh1HL9WyHNUZwh7Ov) | [Oby Onyioha](https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm) | 6:16 |
-| 73 | [Watchin' Out](https://open.spotify.com/track/7AaIWnkDOZFDpZBcW0r6ZQ) | [Split Decision Band](https://open.spotify.com/artist/4XEEn0HMV7zxiOm6B5DVLf) | [Watchin' Out](https://open.spotify.com/album/51UXHJ2YydaTSxJXoczKVz) | 3:15 |
+| 72 | [Watchin' Out](https://open.spotify.com/track/7AaIWnkDOZFDpZBcW0r6ZQ) | [Split Decision Band](https://open.spotify.com/artist/4XEEn0HMV7zxiOm6B5DVLf) | [Watchin' Out](https://open.spotify.com/album/51UXHJ2YydaTSxJXoczKVz) | 3:15 |
+| 73 | [Enjoy Your Life](https://open.spotify.com/track/5Vh1ehh1HL9WyHNUZwh7Ov) | [Oby Onyioha](https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm) | 6:16 |
 | 74 | [Sweet Power of Your Embrace](https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M) | [James Mason](https://open.spotify.com/artist/6HC9gScXpsScEq3Cgq5UvZ) | [Rhythm Of Life](https://open.spotify.com/album/2mv1fpeMeseWyD0MIjKxe1) | 5:26 |
 | 75 | [Found a Cure \- 12" Disco Mix](https://open.spotify.com/track/3HfVnWKGvJnqb7Xonl8lvw) | [Ashford & Simpson](https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi) | [Hits, Remixes and Rarities: The Warner Brothers Years](https://open.spotify.com/album/6CyWY15jDZy4sP82bLe5dY) | 7:03 |
 | 76 | [On and On](https://open.spotify.com/track/4d0UM1L06EmBBc9c8Ulv5R) | [Harvey Mason](https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT) | [M.V.P\. \(Expanded Edition\)](https://open.spotify.com/album/0749f8G3xK1yPfkgY1u5ia) | 5:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 99 | [Saturday Jam](https://open.spotify.com/track/2JsvvaTZKsBVO1gHSXwamD) | [Benedek](https://open.spotify.com/artist/0VGUa1xtVL7g1srvyzbY7t), [K\-Maxx](https://open.spotify.com/artist/5RSuS2evjc9IGjLJUt1iZR), [Sasac](https://open.spotify.com/artist/0ZfeJXXkQPkG21bGk3NTLt), [Turquoise Summers](https://open.spotify.com/artist/3m8JJr3ASeNiSHK85P4o4z), [Buscrates 16 Bit Ensemble](https://open.spotify.com/artist/2w04ct5AHBWI3AxA6PbuEb), [East Liberty Quarters](https://open.spotify.com/artist/4vJ4MIyanwJLkDECKh0Dik), [Henning](https://open.spotify.com/artist/5ppN1E00CZsVGCmTlAOtQO), [TONI CLARKE](https://open.spotify.com/artist/6vyhMj9yU8TGz3VfHfzNsB) | [Raw Silk Vol\. 1](https://open.spotify.com/album/4J8COrwRuMK2CQGNp9353D) | 4:11 |
 | 100 | [Dancing in Outer Space](https://open.spotify.com/track/0OYKPDicsx5rFpScHnWIoH) | [Atmosfear](https://open.spotify.com/artist/1DqpAdUZXDlOEUHdiawMJF) | [Dancing in Outer Space](https://open.spotify.com/album/4MF1H26SPWJ74EcEpkg11r) | 9:37 |
 
-Snapshot ID: `MCw4ZGExODEwZTg3ODJmZmQ5NzNlODljNWRlMmIyM2NjMjBjYzY4YzRh`
+Snapshot ID: `MCw3YzU0ZDM0MDgwZmZhMzY0NjQ1YjE5ODYwNDY3YzdjZGVmNGY4MTdm`

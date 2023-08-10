@@ -1,12 +1,12 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 17684,
+  "num_followers": 17724,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODYwYjAzOTI2YTU2YTQ4MDFhYTM4NTFhMjJmYWI1ZWI3OWY1ZjY2",
+  "snapshot_id": "MCxjN2RjZTQyZWVmMDkxODgwZTk3YzBmNTNkMjVjNzUwOTA4ZWU3NDZl",
   "tracks": [
     {
       "added_at": "2023-08-03 23:00:00",
@@ -395,22 +395,18 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Buga (Lo Lo Lo)",
-        "url": "https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h"
+        "name": "Ojapiano",
+        "url": "https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e"
       },
       "artists": [
         {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+          "name": "KCee",
+          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
         }
       ],
-      "duration_ms": 183103,
-      "name": "Buga (Lo Lo Lo)",
-      "url": "https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA"
+      "duration_ms": 168421,
+      "name": "Ojapiano",
+      "url": "https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -431,18 +427,22 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Ojapiano",
-        "url": "https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e"
+        "name": "Buga (Lo Lo Lo)",
+        "url": "https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h"
       },
       "artists": [
         {
-          "name": "KCee",
-          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
         }
       ],
-      "duration_ms": 168421,
-      "name": "Ojapiano",
-      "url": "https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3"
+      "duration_ms": 183103,
+      "name": "Buga (Lo Lo Lo)",
+      "url": "https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -639,18 +639,18 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Shu-Peru",
-        "url": "https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps"
+        "name": "Sharpally",
+        "url": "https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg"
       },
       "artists": [
         {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 139377,
-      "name": "Shu-Peru",
-      "url": "https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L"
+      "duration_ms": 163361,
+      "name": "Sharpally",
+      "url": "https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -671,18 +671,18 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Sharpally",
-        "url": "https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg"
+        "name": "Shu-Peru",
+        "url": "https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps"
       },
       "artists": [
         {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
         }
       ],
-      "duration_ms": 163361,
-      "name": "Sharpally",
-      "url": "https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ"
+      "duration_ms": 139377,
+      "name": "Shu-Peru",
+      "url": "https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -715,26 +715,6 @@
       "duration_ms": 159100,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/3ceZIRUX8m8qFFcnEDkj2K"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
-        "name": "Cough",
-        "url": "https://open.spotify.com/album/0H0fVt4IgYrsTJGfWxPJfx"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 177680,
-      "name": "Cough",
-      "url": "https://open.spotify.com/track/2SggWVBRvkOmtQRfbKh6sV"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -843,6 +823,22 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
+        "name": "No Days Off",
+        "url": "https://open.spotify.com/album/4xyQuZ8oTJ7ZhdiWBwtVnS"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "duration_ms": 195668,
+      "name": "No Days Off",
+      "url": "https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
         "name": "Ijo (Laba Laba)",
         "url": "https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH"
       },
@@ -859,18 +855,22 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "No Days Off",
-        "url": "https://open.spotify.com/album/4xyQuZ8oTJ7ZhdiWBwtVnS"
+        "name": "Cough",
+        "url": "https://open.spotify.com/album/0H0fVt4IgYrsTJGfWxPJfx"
       },
       "artists": [
         {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         }
       ],
-      "duration_ms": 195668,
-      "name": "No Days Off",
-      "url": "https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy"
+      "duration_ms": 177680,
+      "name": "Cough",
+      "url": "https://open.spotify.com/track/2SggWVBRvkOmtQRfbKh6sV"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -907,26 +907,6 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Disturbing U",
-        "url": "https://open.spotify.com/album/052AhHjQkjepRKQeE6vdjc"
-      },
-      "artists": [
-        {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 151304,
-      "name": "Disturbing U",
-      "url": "https://open.spotify.com/track/1QVJ9U10mJncHAyHVXkFNZ"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
         "name": "Grit & Lust",
         "url": "https://open.spotify.com/album/4se56vUQlf2nGZHynfAkTZ"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 153523,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/14nSbMQqRo1BxshIjprVDO"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "Disturbing U",
+        "url": "https://open.spotify.com/album/052AhHjQkjepRKQeE6vdjc"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 151304,
+      "name": "Disturbing U",
+      "url": "https://open.spotify.com/track/1QVJ9U10mJncHAyHVXkFNZ"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "All Over You / Mon B\u00e9b\u00e9",
-        "url": "https://open.spotify.com/album/6jUDD4gmGow8JAj1rL9Wl0"
-      },
-      "artists": [
-        {
-          "name": "Guchi",
-          "url": "https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9"
-        }
-      ],
-      "duration_ms": 140246,
-      "name": "All Over You",
-      "url": "https://open.spotify.com/track/4p5x9gioMn5CYZCuRGo1Kz"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
         "name": "Peace of Mind",
         "url": "https://open.spotify.com/album/2JVeQNTDzn9CePwaPqiS01"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 171683,
       "name": "Peace of Mind",
       "url": "https://open.spotify.com/track/7grcWNFVuikupo8Q4hJ9E8"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "All Over You / Mon B\u00e9b\u00e9",
+        "url": "https://open.spotify.com/album/6jUDD4gmGow8JAj1rL9Wl0"
+      },
+      "artists": [
+        {
+          "name": "Guchi",
+          "url": "https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9"
+        }
+      ],
+      "duration_ms": 140246,
+      "name": "All Over You",
+      "url": "https://open.spotify.com/track/4p5x9gioMn5CYZCuRGo1Kz"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/1OGZU2zmK6x0UnM3yeZ4lR"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
         "name": "Elon Musk (Remix)",
         "url": "https://open.spotify.com/album/2ZSLKoKXOUxbCjX7QjWJkV"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 204107,
       "name": "Elon Musk - Remix",
       "url": "https://open.spotify.com/track/68KDqjQ5T2gS0Pk47Somna"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Apollo",
-      "url": "https://open.spotify.com/track/1OGZU2zmK6x0UnM3yeZ4lR"
     }
   ],
   "unique_name": "Keep Fit Club ",

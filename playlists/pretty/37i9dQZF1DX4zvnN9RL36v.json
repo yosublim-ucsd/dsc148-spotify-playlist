@@ -1,12 +1,12 @@
 {
   "description": "\ub0b4 \ub9c8\uc74c\uc744 \ub178\ub7ab\ub9d0\uc774 \uc54c\uc544\uc904 \ub54c.",
-  "num_followers": 5669,
+  "num_followers": 5673,
   "original_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTdlZTY5NjBkYTAwMDM2NWFkMzZkY2IyNDA1MDAyZjQxZDgyNjZm",
+  "snapshot_id": "MCw4Y2NkZjU2NzkwOTBmYzEzZGY4ZDFkOGJjZWZmMmQ4Nzc3MTNkZGFk",
   "tracks": [
     {
       "added_at": "2023-05-02 09:09:27",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "3.0",
-        "url": "https://open.spotify.com/album/42dd15HniCOYITYPuW5z2P"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 252800,
-      "name": "\uc2a4\ud1a0\ucee4 Stalker",
-      "url": "https://open.spotify.com/track/2xms6U7ngGDBYJ4RnRTPyz"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
         "name": "Blooming Period",
         "url": "https://open.spotify.com/album/0j200gVJhL56SoTrYXytx3"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 206467,
       "name": "Toy",
       "url": "https://open.spotify.com/track/68ABnHNR4y2COQa4eaM6PS"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/42dd15HniCOYITYPuW5z2P"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 252800,
+      "name": "\uc2a4\ud1a0\ucee4 Stalker",
+      "url": "https://open.spotify.com/track/2xms6U7ngGDBYJ4RnRTPyz"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "The Forbidden Marriage, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0l0tL7F4yLUwG3Ms2ivBsI"
-      },
-      "artists": [
-        {
-          "name": "EUNHA",
-          "url": "https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk"
-        }
-      ],
-      "duration_ms": 213823,
-      "name": "Do You Know That",
-      "url": "https://open.spotify.com/track/4EjqDwJRJUfalKsIMfhjMt"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
         "name": "Shouldn't Have\u2026",
         "url": "https://open.spotify.com/album/663N3uMMM5eAj8Fh6KCvny"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 212761,
       "name": "Shouldn't Have\u2026",
       "url": "https://open.spotify.com/track/328QkpGncEcQWJj6NSCqDJ"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "The Forbidden Marriage, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0l0tL7F4yLUwG3Ms2ivBsI"
+      },
+      "artists": [
+        {
+          "name": "EUNHA",
+          "url": "https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk"
+        }
+      ],
+      "duration_ms": 213823,
+      "name": "Do You Know That",
+      "url": "https://open.spotify.com/track/4EjqDwJRJUfalKsIMfhjMt"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -687,18 +687,18 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "4X4",
-        "url": "https://open.spotify.com/album/33VSRiAN7EjjGEmPZDNkV7"
+        "name": "Subtitle",
+        "url": "https://open.spotify.com/album/6o0BLd2crZG1yXqFX6HWVH"
       },
       "artists": [
         {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+          "name": "Western Kite",
+          "url": "https://open.spotify.com/artist/3Ut5D9lZhPzIdAnInEltxw"
         }
       ],
-      "duration_ms": 247496,
-      "name": "\uc21c\uc774 Sooni - I'm your fanatic girl",
-      "url": "https://open.spotify.com/track/6nodmyYwTeJJdixDD0GIg4"
+      "duration_ms": 194508,
+      "name": "\uc9dd\uc0ac\ub791 Zzak Sarang",
+      "url": "https://open.spotify.com/track/4byD6wDh7z54vwLjXIAfEa"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -715,6 +715,22 @@
       "duration_ms": 264921,
       "name": "Love Me Once Again",
       "url": "https://open.spotify.com/track/44n3xQ51XIOAGCMve5zh92"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "4X4",
+        "url": "https://open.spotify.com/album/33VSRiAN7EjjGEmPZDNkV7"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "duration_ms": 247496,
+      "name": "\uc21c\uc774 Sooni - I'm your fanatic girl",
+      "url": "https://open.spotify.com/track/6nodmyYwTeJJdixDD0GIg4"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -751,22 +767,6 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "One-sided love",
-        "url": "https://open.spotify.com/album/2mnjRuCNcTfR1PkNUxJAbw"
-      },
-      "artists": [
-        {
-          "name": "Sogaksogak",
-          "url": "https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ"
-        }
-      ],
-      "duration_ms": 190586,
-      "name": "One-sided love",
-      "url": "https://open.spotify.com/track/5hGGFQG9xk0pugYkOntWH2"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
         "name": "Seoul Vibes Pt.6",
         "url": "https://open.spotify.com/album/1yod6TfvhiqSdqnMkq6q5J"
       },
@@ -783,6 +783,22 @@
       "duration_ms": 203339,
       "name": "Eul (feat. Jehwwn)",
       "url": "https://open.spotify.com/track/0rs5yeJDBlpT63BB5R7MzY"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "One-sided love",
+        "url": "https://open.spotify.com/album/2mnjRuCNcTfR1PkNUxJAbw"
+      },
+      "artists": [
+        {
+          "name": "Sogaksogak",
+          "url": "https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ"
+        }
+      ],
+      "duration_ms": 190586,
+      "name": "One-sided love",
+      "url": "https://open.spotify.com/track/5hGGFQG9xk0pugYkOntWH2"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -815,22 +831,6 @@
       "duration_ms": 223258,
       "name": "Loving You is Loving Me",
       "url": "https://open.spotify.com/track/3cEJ1hsDcIELeduLDttZLd"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
-        "name": "Afraid To Say I Love You",
-        "url": "https://open.spotify.com/album/3W0HGM1NBblqIrhMMLoiDx"
-      },
-      "artists": [
-        {
-          "name": "THE ADE",
-          "url": "https://open.spotify.com/artist/60ftnqC2sZGUXDqElMPvTy"
-        }
-      ],
-      "duration_ms": 205797,
-      "name": "Afraid To Say I Love You",
-      "url": "https://open.spotify.com/track/5q3q7ZIRq7EoCK3kpsfRpz"
     }
   ],
   "unique_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",

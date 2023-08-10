@@ -2532,10 +2532,28 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 148000,
       "name": "Wahshteeny",
       "url": "https://open.spotify.com/track/15dL61n1mPULn6XkY95eRj"
+    },
+    {
+      "album": {
+        "name": "Wahshteeny",
+        "url": "https://open.spotify.com/album/4TJPiash9AKTQeDA0LvGGr"
+      },
+      "artists": [
+        {
+          "name": "Amir Eid",
+          "url": "https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Wahshteeny",
+      "url": "https://open.spotify.com/track/1a92SdpdJ77U1sjEOOi5OC"
     },
     {
       "album": {

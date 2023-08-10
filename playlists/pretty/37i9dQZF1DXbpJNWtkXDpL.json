@@ -1,12 +1,12 @@
 {
   "description": "De Culiac\u00e1n, Sinaloa, para el mundo... La Receta en RADAR M\u00e9xico. ",
-  "num_followers": 72270,
+  "num_followers": 72297,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxN2JiNTQ4NWIyNDBkN2JhOWQzYTFhMWVmYWE4ODM1ZDcyNzBkMTZi",
+  "snapshot_id": "MCxkMGNkNmQ4ZDNiOTQwYTU1NDEwYTllZWNmNDA5YjcxNTgyNjgyN2Zl",
   "tracks": [
     {
       "added_at": "2023-08-08 19:30:29",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-08-08 19:30:29",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/6n20YXCHsJZZTSd89n3uP1"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Monta\u00f1o",
-          "url": "https://open.spotify.com/artist/23L3bzvIziNKZw42P3lwsH"
-        }
-      ],
-      "duration_ms": 233404,
-      "name": "La Octava Maravilla - En Vivo",
-      "url": "https://open.spotify.com/track/0gQDxHSXOICEXjTFkl1UMb"
-    },
-    {
-      "added_at": "2023-08-08 19:30:29",
-      "album": {
         "name": "SUCCESS #3",
         "url": "https://open.spotify.com/album/1ZhiB9hSNLi2jtm7SEMNXt"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 180579,
       "name": "WGV",
       "url": "https://open.spotify.com/track/78lggLFAvRq51V0Y68PD5c"
+    },
+    {
+      "added_at": "2023-08-08 19:30:29",
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/6n20YXCHsJZZTSd89n3uP1"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Monta\u00f1o",
+          "url": "https://open.spotify.com/artist/23L3bzvIziNKZw42P3lwsH"
+        }
+      ],
+      "duration_ms": 233404,
+      "name": "La Octava Maravilla - En Vivo",
+      "url": "https://open.spotify.com/track/0gQDxHSXOICEXjTFkl1UMb"
     },
     {
       "added_at": "2023-08-08 19:30:29",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-08-08 19:30:29",
       "album": {
+        "name": "La Receta Del Corrido",
+        "url": "https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 200573,
+      "name": "Apenas Es Martes",
+      "url": "https://open.spotify.com/track/1RXb99lIyj8RYACt13yg8M"
+    },
+    {
+      "added_at": "2023-08-08 19:30:29",
+      "album": {
         "name": "Aqui Ando En El Caloron (En Vivo)",
         "url": "https://open.spotify.com/album/58YRNZZq0vxANqr6g0DBjn"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 232820,
       "name": "Aqui Ando En El Caloron - En Vivo",
       "url": "https://open.spotify.com/track/6iWEkJ9tItZaAj4ezqswrl"
-    },
-    {
-      "added_at": "2023-08-08 19:30:29",
-      "album": {
-        "name": "La Receta Del Corrido",
-        "url": "https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 200573,
-      "name": "Apenas Es Martes",
-      "url": "https://open.spotify.com/track/1RXb99lIyj8RYACt13yg8M"
     },
     {
       "added_at": "2023-08-08 19:30:29",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-08-08 19:30:29",
       "album": {
+        "name": "La Invitaci\u00f3n",
+        "url": "https://open.spotify.com/album/1twSxas0ZmG2bUfxEdskZK"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 193960,
+      "name": "La Invitaci\u00f3n",
+      "url": "https://open.spotify.com/track/6qUmkshVvCcBeonBiS4Vdz"
+    },
+    {
+      "added_at": "2023-08-08 19:30:29",
+      "album": {
         "name": "Tirando Flow Sesh #9",
         "url": "https://open.spotify.com/album/2zB3LXzrfi3FoNI4kPLgtO"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 187297,
       "name": "Tirando Flow Sesh #9",
       "url": "https://open.spotify.com/track/1eIr2ASXWFEgjhQQflPZTe"
-    },
-    {
-      "added_at": "2023-08-08 19:30:29",
-      "album": {
-        "name": "La Invitaci\u00f3n",
-        "url": "https://open.spotify.com/album/1twSxas0ZmG2bUfxEdskZK"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 193960,
-      "name": "La Invitaci\u00f3n",
-      "url": "https://open.spotify.com/track/6qUmkshVvCcBeonBiS4Vdz"
     },
     {
       "added_at": "2023-08-08 19:30:29",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-08-08 19:30:29",
       "album": {
+        "name": "Cartier en Mano",
+        "url": "https://open.spotify.com/album/1nXeA6b9XN2vuMBHX4AdlL"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        }
+      ],
+      "duration_ms": 155818,
+      "name": "Cartier en Mano",
+      "url": "https://open.spotify.com/track/3cL0YHP6FIE3fWIujhdGCu"
+    },
+    {
+      "added_at": "2023-08-08 19:30:29",
+      "album": {
         "name": "Pensamientos Grandes",
         "url": "https://open.spotify.com/album/4z3q8XT5a2F91iMH9BIKYf"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 243472,
       "name": "Pensamientos Grandes",
       "url": "https://open.spotify.com/track/59ENQOCMamUD6WdUN54mcW"
-    },
-    {
-      "added_at": "2023-08-08 19:30:29",
-      "album": {
-        "name": "Cartier en Mano",
-        "url": "https://open.spotify.com/album/1nXeA6b9XN2vuMBHX4AdlL"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        }
-      ],
-      "duration_ms": 155818,
-      "name": "Cartier en Mano",
-      "url": "https://open.spotify.com/track/3cL0YHP6FIE3fWIujhdGCu"
     },
     {
       "added_at": "2023-08-08 19:30:29",

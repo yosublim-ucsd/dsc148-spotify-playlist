@@ -1,12 +1,12 @@
 {
   "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol #IndieTropical \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Foudeqush y Jesse Baez en portada.",
-  "num_followers": 33429,
+  "num_followers": 33460,
   "original_name": "tropic.alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjN2I4ZTVkODBmMmJmYTVmODI3MTliOTQ1OTBkMjIwNmEzZjNlMzg1",
+  "snapshot_id": "MCxjYTgwNjY4ZTZiZjM1MTQ5YWNmZWMzMmUyYTQ5NzRiMGM1YmFmODgw",
   "tracks": [
     {
       "added_at": "2023-05-05 23:46:53",
@@ -357,24 +357,24 @@
       "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
     },
     {
-      "added_at": "2023-06-01 16:51:17",
+      "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "RAMA",
-        "url": "https://open.spotify.com/album/5wC4ACPfltMaoWe9bTwPq5"
+        "name": "La Matanza",
+        "url": "https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6"
       },
       "artists": [
         {
-          "name": "Mercedes Nasta",
-          "url": "https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH"
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
         },
         {
-          "name": "Rodrigo Blanco",
-          "url": "https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK"
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
         }
       ],
-      "duration_ms": 307882,
-      "name": "Rama",
-      "url": "https://open.spotify.com/track/40Qrc6OlhCPokKfigR987S"
+      "duration_ms": 201562,
+      "name": "La Matanza",
+      "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
     },
     {
       "added_at": "2023-05-08 20:19:13",
@@ -397,24 +397,24 @@
       "url": "https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK"
     },
     {
-      "added_at": "2023-05-05 23:46:53",
+      "added_at": "2023-06-01 16:51:17",
       "album": {
-        "name": "La Matanza",
-        "url": "https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6"
+        "name": "RAMA",
+        "url": "https://open.spotify.com/album/5wC4ACPfltMaoWe9bTwPq5"
       },
       "artists": [
         {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+          "name": "Mercedes Nasta",
+          "url": "https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH"
         },
         {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+          "name": "Rodrigo Blanco",
+          "url": "https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK"
         }
       ],
-      "duration_ms": 201562,
-      "name": "La Matanza",
-      "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
+      "duration_ms": 307882,
+      "name": "Rama",
+      "url": "https://open.spotify.com/track/40Qrc6OlhCPokKfigR987S"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Harta",
-        "url": "https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 185083,
-      "name": "Harta",
-      "url": "https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
         "name": "Nacarile",
         "url": "https://open.spotify.com/album/0pRdkDSMZds1G61wXr2U6i"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 236200,
       "name": "traguito",
       "url": "https://open.spotify.com/track/523LPmnALvNfHfmxRXkVw6"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "Harta",
+        "url": "https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 185083,
+      "name": "Harta",
+      "url": "https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
+        "name": "Noest\u00e1saqu\u00ed",
+        "url": "https://open.spotify.com/album/4VzKvONEXBcKfAKZ4xXuiY"
+      },
+      "artists": [
+        {
+          "name": "Caramelo Haze",
+          "url": "https://open.spotify.com/artist/63btBAdiJLk3iSRmKeR6Qi"
+        }
+      ],
+      "duration_ms": 202066,
+      "name": "Window Seat",
+      "url": "https://open.spotify.com/track/5rpxuwiJIMouwlIodvNhJr"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
         "name": "Camino al Mar",
         "url": "https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 252574,
       "name": "Dibujos De Mi Alma",
       "url": "https://open.spotify.com/track/1GXm4Dv2NiM8QLui2l4Wls"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
-        "name": "Noest\u00e1saqu\u00ed",
-        "url": "https://open.spotify.com/album/4VzKvONEXBcKfAKZ4xXuiY"
-      },
-      "artists": [
-        {
-          "name": "Caramelo Haze",
-          "url": "https://open.spotify.com/artist/63btBAdiJLk3iSRmKeR6Qi"
-        }
-      ],
-      "duration_ms": 202066,
-      "name": "Window Seat",
-      "url": "https://open.spotify.com/track/5rpxuwiJIMouwlIodvNhJr"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -777,6 +777,22 @@
       "url": "https://open.spotify.com/track/0TjNcJLSuyWByX7IjYYYs9"
     },
     {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "City of Mirrors",
+        "url": "https://open.spotify.com/album/6HdgU5FwmqGs0JfKXT7IZ3"
+      },
+      "artists": [
+        {
+          "name": "Dos Santos",
+          "url": "https://open.spotify.com/artist/12Av6pjGrpX0wfTTyXNsyP"
+        }
+      ],
+      "duration_ms": 148093,
+      "name": "Glorieta",
+      "url": "https://open.spotify.com/track/0n0pCIWwd6Fz7ZJWdlWfnH"
+    },
+    {
       "added_at": "2023-05-09 00:13:28",
       "album": {
         "name": "Que He Sacado Con Quererte",
@@ -795,22 +811,6 @@
       "duration_ms": 236135,
       "name": "Que He Sacado Con Quererte",
       "url": "https://open.spotify.com/track/4WkJ0HrLkijOsZnBQRiBKZ"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
-        "name": "City of Mirrors",
-        "url": "https://open.spotify.com/album/6HdgU5FwmqGs0JfKXT7IZ3"
-      },
-      "artists": [
-        {
-          "name": "Dos Santos",
-          "url": "https://open.spotify.com/artist/12Av6pjGrpX0wfTTyXNsyP"
-        }
-      ],
-      "duration_ms": 148093,
-      "name": "Glorieta",
-      "url": "https://open.spotify.com/track/0n0pCIWwd6Fz7ZJWdlWfnH"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
+        "name": "Kristina",
+        "url": "https://open.spotify.com/album/5BCwHTPb0MVFbxsxtJtdIT"
+      },
+      "artists": [
+        {
+          "name": "Sanje",
+          "url": "https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx"
+        }
+      ],
+      "duration_ms": 238221,
+      "name": "Kristina",
+      "url": "https://open.spotify.com/track/4uBAgsspUqFD9mzDebn7uV"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
         "name": "Piedras del Sol",
         "url": "https://open.spotify.com/album/3WO6xLNgcJeeTG2036qLHd"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 222426,
       "name": "Piedras del Sol",
       "url": "https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
-        "name": "Kristina",
-        "url": "https://open.spotify.com/album/5BCwHTPb0MVFbxsxtJtdIT"
-      },
-      "artists": [
-        {
-          "name": "Sanje",
-          "url": "https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx"
-        }
-      ],
-      "duration_ms": 238221,
-      "name": "Kristina",
-      "url": "https://open.spotify.com/track/4uBAgsspUqFD9mzDebn7uV"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
+        "name": "Los Estimados",
+        "url": "https://open.spotify.com/album/30sX3OfIDl2WB1DwbtHqlB"
+      },
+      "artists": [
+        {
+          "name": "Tati Falco",
+          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
+        }
+      ],
+      "duration_ms": 277589,
+      "name": "Los Estimados",
+      "url": "https://open.spotify.com/track/4YiUEZRZL8Ns7pseiazQZa"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
         "name": "Amuleto",
         "url": "https://open.spotify.com/album/1U6e6MPp6JaQ9lFo6YJyKp"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 191150,
       "name": "Amuleto",
       "url": "https://open.spotify.com/track/5vpCo7GpBJmc8RWkOZyvtI"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
-        "name": "Los Estimados",
-        "url": "https://open.spotify.com/album/30sX3OfIDl2WB1DwbtHqlB"
-      },
-      "artists": [
-        {
-          "name": "Tati Falco",
-          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
-        }
-      ],
-      "duration_ms": 277589,
-      "name": "Los Estimados",
-      "url": "https://open.spotify.com/track/4YiUEZRZL8Ns7pseiazQZa"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Levante la Mano (Remixes)",
-        "url": "https://open.spotify.com/album/5sOze0dpm9v0UtFiRFW5HS"
-      },
-      "artists": [
-        {
-          "name": "Centavrvs",
-          "url": "https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo"
-        },
-        {
-          "name": "Tonga Conga",
-          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Levante la Mano (Tonga Conga Remix)",
-      "url": "https://open.spotify.com/track/631PEGUWU0kD8sNCh6AmOK"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
         "name": "Negro Santo",
         "url": "https://open.spotify.com/album/7gY74f6iO834wnj0Pf2wZW"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 267111,
       "name": "Negro Santo",
       "url": "https://open.spotify.com/track/6OiuCieqfbEMBHQPZo0j3Q"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "Levante la Mano (Remixes)",
+        "url": "https://open.spotify.com/album/5sOze0dpm9v0UtFiRFW5HS"
+      },
+      "artists": [
+        {
+          "name": "Centavrvs",
+          "url": "https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo"
+        },
+        {
+          "name": "Tonga Conga",
+          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Levante la Mano (Tonga Conga Remix)",
+      "url": "https://open.spotify.com/track/631PEGUWU0kD8sNCh6AmOK"
     },
     {
       "added_at": "2023-05-05 23:46:53",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Mujer Cebra en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,513 likes - 51 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,520 likes - 51 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 50 | [Bonzo](https://open.spotify.com/track/6xLNAU5BHGakPZBsbZH6as) | [Oslo Ovnies](https://open.spotify.com/artist/3KSBsxMjBEZCxmrj0GEWJI) | [Bonzo](https://open.spotify.com/album/2g0tauYCtBaS4PXlPDimxv) | 3:43 |
 | 51 | [Stereo Vital](https://open.spotify.com/track/1t484V2K3TSee2FGCch5PZ) | [Dorez M](https://open.spotify.com/artist/72no2hwywYffBTsoDVbgVO) | [Stereo Vital](https://open.spotify.com/album/0J9QRxJWO9XOl4CwyuY5V8) | 4:02 |
 
-Snapshot ID: `MCw1MmY3MGI4MDM1ZGU0MTFlMzMxMzZkN2RhOGY3YzNjZGRiMzRmMTEz`
+Snapshot ID: `MCwzODRkNWQyMTlhODg2N2VmODA3NjE3OTgxNWE4ZjRkODhiZDEzNjNh`

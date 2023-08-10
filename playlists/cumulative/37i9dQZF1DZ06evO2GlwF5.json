@@ -1543,6 +1543,24 @@
     },
     {
       "album": {
+        "name": "Driving in the silence",
+        "url": "https://open.spotify.com/album/5KKm1v4tLs6WzwdgAaCg5h"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343433,
+      "name": "\u6975\u591c",
+      "url": "https://open.spotify.com/track/6mihFZmv9q0bm1lzJJA0bS"
+    },
+    {
+      "album": {
         "name": "\u72ec\u767d\u2192\u8e8d\u52d5 <FGO\u76e4>",
         "url": "https://open.spotify.com/album/7hQknpgVxMUHWacI0toBrQ"
       },

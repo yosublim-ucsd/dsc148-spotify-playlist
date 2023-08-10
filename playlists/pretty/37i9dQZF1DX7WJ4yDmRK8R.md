@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 
 > This is the best of ska, new and classic\. Cover: Jeff Rosenstock
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,479 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,579 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 16 | [Same In The End](https://open.spotify.com/track/3kGt9uxpJzKTxwp2uJHrU5) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 2:36 |
 | 17 | [007 \(Shanty Town\)](https://open.spotify.com/track/7LOAChK8Lkj8ZdF1LuhNWP) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe), [ACES](https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG) | [007 Shanty Town](https://open.spotify.com/album/5lJvmBzHTq7POLabCLvzOm) | 2:32 |
 | 18 | [Take On Me](https://open.spotify.com/track/7IfckgnBsIdP4XE4tfWEDN) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [The Best Of Us For The Rest Of Us](https://open.spotify.com/album/1U7jVocQwP0iF7eQP0wmUI) | 3:19 |
-| 19 | [Funky Kingston](https://open.spotify.com/track/26WPI2aksB9XdqmeLfca5z) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Funky Kingston](https://open.spotify.com/album/7a341nZsSfwyBsq1tMPETz) | 4:55 |
+| 19 | [Sound System \- 2007 Remaster](https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy \(2007 Remaster\)](https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m) | 2:14 |
 | 20 | [A Message to You Rudy \(feat.Emi\)](https://open.spotify.com/track/3FadiVpEMwNKcbKgQI7jse) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O), [Emi](https://open.spotify.com/artist/2SzGAO81tsXVg709p6xjIZ) | [A Message to You Rudy \(feat.Emi\)](https://open.spotify.com/album/4L8DFXliPn6NMIXz0JqgND) | 4:12 |
 | 21 | [The Science of Selling Yourself Short](https://open.spotify.com/track/1iD0a0plhO55cWEJa5UGcZ) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Anthem](https://open.spotify.com/album/2Csf9jkWwwusFvIW7DppX7) | 3:06 |
-| 22 | [Sound System \- 2007 Remaster](https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy \(2007 Remaster\)](https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m) | 2:14 |
+| 22 | [Funky Kingston](https://open.spotify.com/track/26WPI2aksB9XdqmeLfca5z) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Funky Kingston](https://open.spotify.com/album/7a341nZsSfwyBsq1tMPETz) | 4:55 |
 | 23 | [Gangsters \- 2015 Remaster](https://open.spotify.com/track/5PLkbN1xEJ3KoF1tyqjpfZ) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [The Specials \(Deluxe Version\)](https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE) | 2:50 |
 | 24 | [Mirror In the Bathroom](https://open.spotify.com/track/3LUhdkixxrrqv3nfNfkINe) | [The English Beat](https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N) | [I Just Can't Stop It \(Remastered\)](https://open.spotify.com/album/08zjJfP4f6cXGxscvztbvh) | 3:10 |
 | 25 | [She Got Arrested](https://open.spotify.com/track/2MWC3IWfhh3IteOUPbtogB) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Say It Out Loud](https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs) | 3:25 |
@@ -80,12 +80,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 70 | [On & On & On](https://open.spotify.com/track/66UiVrGhYHHyfJlE1g8y61) | [Catch 22](https://open.spotify.com/artist/1xgA0hENxpykh3AxlMBjlT) | [Keasbey Nights](https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a) | 3:14 |
 | 71 | [On and On](https://open.spotify.com/track/7M86b1WHyyGFkKO3XO1uwb) | [Mustard Plug](https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu) | [In Black And White](https://open.spotify.com/album/423bYBpPMVSCvSfLr8DSdn) | 2:17 |
 | 72 | [Lost Again](https://open.spotify.com/track/2fCV2Wko0b4ToipDJS6yun) | [Dance Hall Crashers](https://open.spotify.com/artist/7cIsuRDa9Q68n6Ui6GZsVj) | [Honey I'm Homely](https://open.spotify.com/album/1ykysjJVAuKPL3bpTxv6oX) | 3:23 |
-| 73 | [Enjoy Yourself](https://open.spotify.com/track/2gXudOFrHDzj7D2JqbcFWm) | [Prince Buster](https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB) | [Tutti Frutti](https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm) | 3:05 |
-| 74 | [Future Version](https://open.spotify.com/track/5xzf2RsrHJwbrlVUQYE5jr) | [Nana Grizol](https://open.spotify.com/artist/7FPO7WTShHCXnmVv7lhhZM) | [South Somewhere Else](https://open.spotify.com/album/0I2o0Ivz3uo7LxwWdM2AtO) | 1:35 |
+| 73 | [Future Version](https://open.spotify.com/track/5xzf2RsrHJwbrlVUQYE5jr) | [Nana Grizol](https://open.spotify.com/artist/7FPO7WTShHCXnmVv7lhhZM) | [South Somewhere Else](https://open.spotify.com/album/0I2o0Ivz3uo7LxwWdM2AtO) | 1:35 |
+| 74 | [Enjoy Yourself](https://open.spotify.com/track/2gXudOFrHDzj7D2JqbcFWm) | [Prince Buster](https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB) | [Tutti Frutti](https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm) | 3:05 |
 | 75 | [Random I Am](https://open.spotify.com/track/2XvrtH6BIVyCr6tLhOvIAt) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [For Monkeys](https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE) | 2:40 |
 | 76 | [House Of Fun](https://open.spotify.com/track/4SactOQQV5J66VtQRVOBGC) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Madness](https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw) | 3:00 |
-| 77 | [Let's Do Rock Steady](https://open.spotify.com/track/0FkBWszH9H2y7TxH899416) | [The Bodysnatchers](https://open.spotify.com/artist/4A8i0BB8EcWKijB9T54QRV) | [Let's Do Rock Steady](https://open.spotify.com/album/1mnzdkXqugo6pnz3O0GRNO) | 2:54 |
-| 78 | [I Don't Love You Anymore](https://open.spotify.com/track/4IhBMMgZkrQybTajYXtmVE) | [Bomb the Music Industry!](https://open.spotify.com/artist/7mmU5GuOoyxoBAgOZkSVj7) | [Get Warmer](https://open.spotify.com/album/2kGge9kVEDKWLMb4YsrmIs) | 4:42 |
+| 77 | [I Don't Love You Anymore](https://open.spotify.com/track/4IhBMMgZkrQybTajYXtmVE) | [Bomb the Music Industry!](https://open.spotify.com/artist/7mmU5GuOoyxoBAgOZkSVj7) | [Get Warmer](https://open.spotify.com/album/2kGge9kVEDKWLMb4YsrmIs) | 4:42 |
+| 78 | [Let's Do Rock Steady](https://open.spotify.com/track/0FkBWszH9H2y7TxH899416) | [The Bodysnatchers](https://open.spotify.com/artist/4A8i0BB8EcWKijB9T54QRV) | [Let's Do Rock Steady](https://open.spotify.com/album/1mnzdkXqugo6pnz3O0GRNO) | 2:54 |
 | 79 | [Wasted Days](https://open.spotify.com/track/5z8lvQDJPOl8A7RkTOdJWQ) | [The Slackers](https://open.spotify.com/artist/2QRPuDfRA9LtoeGFaMikmK) | [Wasted Days](https://open.spotify.com/album/6Gsk2nUl219al8pzo8TNWB) | 4:08 |
 | 80 | [Apparition](https://open.spotify.com/track/1yC2n0cfsyIASjIKD0EZ3H) | [Rx Bandits](https://open.spotify.com/artist/47bGK00zHXcGlUWfrE0dvi) | […And The Battle Begun](https://open.spotify.com/album/0bjJmoZgV7ijmlMwvF0Oij) | 3:39 |
 | 81 | [El Coo Cooi](https://open.spotify.com/track/4AMsCO7FOmlvEX4TdNFgxV) | [Voodoo Glow Skulls](https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw) | [Firme](https://open.spotify.com/album/4x1jK4f9XAu4dhFk3NCqsD) | 2:37 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 96 | [I Bet They're Asleep In New York](https://open.spotify.com/track/1xxJeDob3k09GfNsDFm1tc) | [Call Me Malcolm](https://open.spotify.com/artist/6WZUGL4ioInlABxJ0GAPAU) | [Me, Myself and Something Else](https://open.spotify.com/album/4Ce185NtrqYpLPwOkK5r1b) | 4:34 |
 | 97 | [No Place Like \(Not Being\) Home](https://open.spotify.com/track/4EJXrKHEbQp63JiMHUN4I3) | [The Frights](https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX) | [Hypochondriac](https://open.spotify.com/album/6uDqold3P9I1IKn2XuwZem) | 4:00 |
 | 98 | [Lost It](https://open.spotify.com/track/0BvtEvt2oftqEAwOLl4ujT) | [The Hippos](https://open.spotify.com/artist/6glQCSuzgkNeB7oVMIkiYi) | [Heads Are Gonna Roll](https://open.spotify.com/album/1ShvLX5xWw2wwvBMu3ENWn) | 2:24 |
-| 99 | [When The Wall Falls](https://open.spotify.com/track/2j6BvBYHuvlHHRx33sDG7X) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts) | 2:45 |
-| 100 | [Wisdom Teeth](https://open.spotify.com/track/01yfHEZFw4VmtehjDTWyht) | [Popes Of Chillitown](https://open.spotify.com/artist/52TSqCyQNF1RMmTzew0soN) | [To the Moon](https://open.spotify.com/album/0SqDdH5Oo9LKquzteXwBXf) | 5:43 |
+| 99 | [Wisdom Teeth](https://open.spotify.com/track/01yfHEZFw4VmtehjDTWyht) | [Popes Of Chillitown](https://open.spotify.com/artist/52TSqCyQNF1RMmTzew0soN) | [To the Moon](https://open.spotify.com/album/0SqDdH5Oo9LKquzteXwBXf) | 5:43 |
+| 100 | [When The Wall Falls](https://open.spotify.com/track/2j6BvBYHuvlHHRx33sDG7X) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts) | 2:45 |
 
-Snapshot ID: `MCwyYThmZmJkMTZiMWZmOWQ5ZDZjYTU1NTk2OGM3MDViYmZiYzQxZjAx`
+Snapshot ID: `MCw0ZGYxYTQyNThmYWM0YjM5Yzg3NDUzNDk4NGMxZDZjNGZiYTg0MGZh`

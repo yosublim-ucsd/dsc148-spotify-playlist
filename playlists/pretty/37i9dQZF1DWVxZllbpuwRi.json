@@ -1,12 +1,12 @@
 {
   "description": "Aqui o ver\u00e3o dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!",
-  "num_followers": 627932,
+  "num_followers": 627909,
   "original_name": "Ver\u00e3o Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzQ3ODdlODFjN2YwZjlhN2FkZDc1MWJjYTlhYzU3Yjc1ZWUyMWI3",
+  "snapshot_id": "MCxlN2RhMTY4NDhhNzUzNTNmNjM2MzczYTg2MjhlMTVlYjE5NWE1MTM4",
   "tracks": [
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "Live in the Moment",
+        "url": "https://open.spotify.com/album/2Zx5mrlkb70Qjh1RYEI4Pn"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 193507,
+      "name": "Live in the Moment",
+      "url": "https://open.spotify.com/track/0gQCDyX45XutyPdt5EWafa"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "Oh Child",
         "url": "https://open.spotify.com/album/0FyKwRPv0vtwLP2rApCyoU"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 195261,
       "name": "Oh Child",
       "url": "https://open.spotify.com/track/2xw9PXlt8IaCWZjfpJ2HPL"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
-        "name": "Live in the Moment",
-        "url": "https://open.spotify.com/album/2Zx5mrlkb70Qjh1RYEI4Pn"
-      },
-      "artists": [
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 193507,
-      "name": "Live in the Moment",
-      "url": "https://open.spotify.com/track/0gQCDyX45XutyPdt5EWafa"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "Carita Linda",
+        "url": "https://open.spotify.com/album/74MzjPeqHE1Hl1rfjbsess"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "duration_ms": 199026,
+      "name": "Carita Linda",
+      "url": "https://open.spotify.com/track/3nEpf7LfISOfV1lxtAD6ks"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "besitos, cu\u00eddate",
         "url": "https://open.spotify.com/album/3kfb4ye7atyQ1mEoI5Lecu"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 173427,
       "name": "narcisa",
       "url": "https://open.spotify.com/track/4fvIO9UsmmJM2b8gWCzsOg"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
-        "name": "Carita Linda",
-        "url": "https://open.spotify.com/album/74MzjPeqHE1Hl1rfjbsess"
-      },
-      "artists": [
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        }
-      ],
-      "duration_ms": 199026,
-      "name": "Carita Linda",
-      "url": "https://open.spotify.com/track/3nEpf7LfISOfV1lxtAD6ks"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1939,34 +1939,6 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "MAMACITA (remixes)",
-        "url": "https://open.spotify.com/album/2lp5TTSc5rQcb8RAtI0Owq"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Karol Conk\u00e1",
-          "url": "https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge"
-        },
-        {
-          "name": "Rafinha RSQ",
-          "url": "https://open.spotify.com/artist/4Fdcah41ppKa37zPM0sA1h"
-        }
-      ],
-      "duration_ms": 138439,
-      "name": "MAMACITA (Rafinha RSQ remix) (feat. Rafinha RSQ)",
-      "url": "https://open.spotify.com/track/7kDbReexSaT5kuJrPeKSpE"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
         "name": "Make It Hot",
         "url": "https://open.spotify.com/album/7l9LzzyPayF2hvDuznaofC"
       },
@@ -2023,6 +1995,34 @@
       "duration_ms": 190819,
       "name": "Who We Are",
       "url": "https://open.spotify.com/track/1u0MAhOBrWIkAKOf8ssiaU"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
+        "name": "MAMACITA (remixes)",
+        "url": "https://open.spotify.com/album/2lp5TTSc5rQcb8RAtI0Owq"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Karol Conk\u00e1",
+          "url": "https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge"
+        },
+        {
+          "name": "Rafinha RSQ",
+          "url": "https://open.spotify.com/artist/4Fdcah41ppKa37zPM0sA1h"
+        }
+      ],
+      "duration_ms": 138439,
+      "name": "MAMACITA (Rafinha RSQ remix) (feat. Rafinha RSQ)",
+      "url": "https://open.spotify.com/track/7kDbReexSaT5kuJrPeKSpE"
     },
     {
       "added_at": "2023-02-17 03:00:00",

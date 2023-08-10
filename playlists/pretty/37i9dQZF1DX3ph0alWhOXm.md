@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ph0alWhOXm.md) - [plain]
 
 > There's no such thing as "too much fun." Let these country songs keep the party going!
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,649 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,714 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ph0alWhOXm.md) - [plain]
 | 74 | [Too Much Fun](https://open.spotify.com/track/38CnG9HxpVtqXVqpESBr6H) | [Daryle Singletary](https://open.spotify.com/artist/1mQ9wgWshECdFsDbT7ATzT) | [Daryle Singletary](https://open.spotify.com/album/6d8s6lmfqYvcrp4GC5n6E0) | 2:45 |
 | 75 | [YOU'RE DRUNK, GO HOME](https://open.spotify.com/track/0XVBahLtPyfg5m1LxPxRTd) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:55 |
 
-Snapshot ID: `MCwyNjlmZDcyMjcyYWZhYWM4YjQ3ZjdmOWI1YjMwOWEwNTYzNmZiZDkx`
+Snapshot ID: `MCw3NjMwM2E3OTg2MzM5YzkyOWQ1NzdhNmE3ODk4ZWNjMTgwYWRhM2Fi`

@@ -668,7 +668,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 155133,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/2q6fYv8J39MSzGRBbQpTIh"
@@ -708,6 +708,24 @@
       "duration_ms": 308506,
       "name": "I'm Alright",
       "url": "https://open.spotify.com/track/5CQftpQA5NjF1aZbuZvXuR"
+    },
+    {
+      "album": {
+        "name": "For the Children (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5CVLuGM12kmx16qR4rGy2u"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250333,
+      "name": "If You Have Faith",
+      "url": "https://open.spotify.com/track/3vbpYCQ1hVpzPTRAXX7KPT"
     },
     {
       "album": {

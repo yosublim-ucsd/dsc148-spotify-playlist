@@ -1,12 +1,12 @@
 {
   "description": "Take a world tour on the club floor. \nCover: DJ Swisha",
-  "num_followers": 29453,
+  "num_followers": 29471,
   "original_name": "Global Club Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDFjOTVhOGRhZDZkY2ZhMTkyNmIzMTI2OGY3YTk5OWIxZjJhM2Vj",
+  "snapshot_id": "MCwwYTYxN2JjNDUxNDQzZmNmNTBlM2RmYWMxMzA3NzAyNzAxOGYyYzYx",
   "tracks": [
     {
       "added_at": "2023-08-04 15:30:29",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2023-08-04 15:30:29",
       "album": {
-        "name": "(Respectfully)",
-        "url": "https://open.spotify.com/album/0DvxMb8aQvBZJWfQ5ndkmG"
-      },
-      "artists": [
-        {
-          "name": "DJ Swisha",
-          "url": "https://open.spotify.com/artist/3rnWXUmpJQJzzP3TIoqp8H"
-        },
-        {
-          "name": "Kush Jones",
-          "url": "https://open.spotify.com/artist/5ifmtTvKK5Pfk6K1b0eHZm"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "(Respectfully)",
-      "url": "https://open.spotify.com/track/7tdGheXhPIHEvolLpfBHzq"
-    },
-    {
-      "added_at": "2023-08-04 15:30:29",
-      "album": {
         "name": "Give It 2 Em (Remix)",
         "url": "https://open.spotify.com/album/2TzG1D0BvG7p1V5VT30UiK"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 120333,
       "name": "Give It 2 Em - Remix",
       "url": "https://open.spotify.com/track/2tAnY41RqXmq1nUlvq9CBw"
+    },
+    {
+      "added_at": "2023-08-04 15:30:29",
+      "album": {
+        "name": "(Respectfully)",
+        "url": "https://open.spotify.com/album/0DvxMb8aQvBZJWfQ5ndkmG"
+      },
+      "artists": [
+        {
+          "name": "DJ Swisha",
+          "url": "https://open.spotify.com/artist/3rnWXUmpJQJzzP3TIoqp8H"
+        },
+        {
+          "name": "Kush Jones",
+          "url": "https://open.spotify.com/artist/5ifmtTvKK5Pfk6K1b0eHZm"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "(Respectfully)",
+      "url": "https://open.spotify.com/track/7tdGheXhPIHEvolLpfBHzq"
     },
     {
       "added_at": "2023-08-04 15:30:29",
@@ -1235,42 +1235,22 @@
     {
       "added_at": "2023-08-04 15:30:29",
       "album": {
-        "name": "Wicked (feat. Eliza Legzdina)",
-        "url": "https://open.spotify.com/album/3SGr4NHccCw3UI1tiuhIpK"
+        "name": "Nzinga",
+        "url": "https://open.spotify.com/album/4dhFtoUePedlReYxPgrMFY"
       },
       "artists": [
         {
-          "name": "lau.ra",
-          "url": "https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn"
+          "name": "Karen Nyame KG",
+          "url": "https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz"
         },
         {
-          "name": "Eliza Legzdina",
-          "url": "https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op"
+          "name": "Toya Delazy",
+          "url": "https://open.spotify.com/artist/4I0iGnuW9JgdWr6WsFIHj5"
         }
       ],
-      "duration_ms": 157674,
-      "name": "Wicked (feat. Eliza Legzdina)",
-      "url": "https://open.spotify.com/track/6Bhdiee45ytzB8b2tgHdzR"
-    },
-    {
-      "added_at": "2023-08-04 15:30:29",
-      "album": {
-        "name": "We from Baltimore",
-        "url": "https://open.spotify.com/album/1UMcvxPkNlYSv6I2WpNkRN"
-      },
-      "artists": [
-        {
-          "name": "CalvoMusic",
-          "url": "https://open.spotify.com/artist/2bq46AC8MbKxNRve4AKEEo"
-        },
-        {
-          "name": "Charles",
-          "url": "https://open.spotify.com/artist/4vo52QgWlbFrUbKoh2uXk3"
-        }
-      ],
-      "duration_ms": 131391,
-      "name": "Bitch We from Baltimore",
-      "url": "https://open.spotify.com/track/1ofE8ysdx2yRlfk21hqipf"
+      "duration_ms": 157870,
+      "name": "Nzinga",
+      "url": "https://open.spotify.com/track/1RzyaDFK6Rz9iufIZISW5n"
     },
     {
       "added_at": "2023-08-04 15:30:29",
@@ -1295,22 +1275,42 @@
     {
       "added_at": "2023-08-04 15:30:29",
       "album": {
-        "name": "Nzinga",
-        "url": "https://open.spotify.com/album/4dhFtoUePedlReYxPgrMFY"
+        "name": "We from Baltimore",
+        "url": "https://open.spotify.com/album/1UMcvxPkNlYSv6I2WpNkRN"
       },
       "artists": [
         {
-          "name": "Karen Nyame KG",
-          "url": "https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz"
+          "name": "CalvoMusic",
+          "url": "https://open.spotify.com/artist/2bq46AC8MbKxNRve4AKEEo"
         },
         {
-          "name": "Toya Delazy",
-          "url": "https://open.spotify.com/artist/4I0iGnuW9JgdWr6WsFIHj5"
+          "name": "Charles",
+          "url": "https://open.spotify.com/artist/4vo52QgWlbFrUbKoh2uXk3"
         }
       ],
-      "duration_ms": 157870,
-      "name": "Nzinga",
-      "url": "https://open.spotify.com/track/1RzyaDFK6Rz9iufIZISW5n"
+      "duration_ms": 131391,
+      "name": "Bitch We from Baltimore",
+      "url": "https://open.spotify.com/track/1ofE8ysdx2yRlfk21hqipf"
+    },
+    {
+      "added_at": "2023-08-04 15:30:29",
+      "album": {
+        "name": "Wicked (feat. Eliza Legzdina)",
+        "url": "https://open.spotify.com/album/3SGr4NHccCw3UI1tiuhIpK"
+      },
+      "artists": [
+        {
+          "name": "lau.ra",
+          "url": "https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn"
+        },
+        {
+          "name": "Eliza Legzdina",
+          "url": "https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op"
+        }
+      ],
+      "duration_ms": 157674,
+      "name": "Wicked (feat. Eliza Legzdina)",
+      "url": "https://open.spotify.com/track/6Bhdiee45ytzB8b2tgHdzR"
     },
     {
       "added_at": "2023-08-04 15:30:29",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2023-08-04 15:30:29",
       "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/4hiwTcr6euYZh55T4gzM4U"
-      },
-      "artists": [
-        {
-          "name": "Robbie Rivera",
-          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
-        },
-        {
-          "name": "SHE KORO",
-          "url": "https://open.spotify.com/artist/2PKIAthFgvNwzMFMm7i75s"
-        }
-      ],
-      "duration_ms": 178652,
-      "name": "Banter",
-      "url": "https://open.spotify.com/track/3u3eiXFxCifcIQnsgcmv43"
-    },
-    {
-      "added_at": "2023-08-04 15:30:29",
-      "album": {
         "name": "Switch",
         "url": "https://open.spotify.com/album/4Pmn6tJdfbu69sv4vMQxVC"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 166500,
       "name": "Switch",
       "url": "https://open.spotify.com/track/30c9tBMcRT1FnRXA8NvVVT"
+    },
+    {
+      "added_at": "2023-08-04 15:30:29",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/4hiwTcr6euYZh55T4gzM4U"
+      },
+      "artists": [
+        {
+          "name": "Robbie Rivera",
+          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
+        },
+        {
+          "name": "SHE KORO",
+          "url": "https://open.spotify.com/artist/2PKIAthFgvNwzMFMm7i75s"
+        }
+      ],
+      "duration_ms": 178652,
+      "name": "Banter",
+      "url": "https://open.spotify.com/track/3u3eiXFxCifcIQnsgcmv43"
     },
     {
       "added_at": "2023-08-04 15:30:29",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-08-04 15:30:29",
       "album": {
-        "name": "Tighten Up",
-        "url": "https://open.spotify.com/album/3veDY7nOtuBTTbzD3SQDX3"
-      },
-      "artists": [
-        {
-          "name": "Tre Oh Fie",
-          "url": "https://open.spotify.com/artist/6cA0eTMEit4fD6ZbTNoG4p"
-        }
-      ],
-      "duration_ms": 123650,
-      "name": "Tighten Up",
-      "url": "https://open.spotify.com/track/1lZr19oQWX6GwbaqmqCSlT"
-    },
-    {
-      "added_at": "2023-08-04 15:30:29",
-      "album": {
         "name": "Wash Yo Handz",
         "url": "https://open.spotify.com/album/6NyZuJXVfaw3yg6jh8rjkY"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 118282,
       "name": "Wash Yo Handz",
       "url": "https://open.spotify.com/track/0r1zuvTrYEXOSYw6vv2zZB"
+    },
+    {
+      "added_at": "2023-08-04 15:30:29",
+      "album": {
+        "name": "Tighten Up",
+        "url": "https://open.spotify.com/album/3veDY7nOtuBTTbzD3SQDX3"
+      },
+      "artists": [
+        {
+          "name": "Tre Oh Fie",
+          "url": "https://open.spotify.com/artist/6cA0eTMEit4fD6ZbTNoG4p"
+        }
+      ],
+      "duration_ms": 123650,
+      "name": "Tighten Up",
+      "url": "https://open.spotify.com/track/1lZr19oQWX6GwbaqmqCSlT"
     },
     {
       "added_at": "2023-08-04 15:30:29",
@@ -1659,42 +1659,18 @@
     {
       "added_at": "2023-08-04 15:30:29",
       "album": {
-        "name": "Get Freaky",
-        "url": "https://open.spotify.com/album/4Lmx3PGRf7tIRest0Wdxaa"
+        "name": "Pepper Dem",
+        "url": "https://open.spotify.com/album/1gsMY3akSiEcBidWJm4tVi"
       },
       "artists": [
         {
-          "name": "TateKo",
-          "url": "https://open.spotify.com/artist/0mvV3dQKJObqwGdWszYW3K"
-        },
-        {
-          "name": "Da Yo Boyz",
-          "url": "https://open.spotify.com/artist/5hfqwT02GtAzIfY2Ea5lAp"
+          "name": "Magugu",
+          "url": "https://open.spotify.com/artist/6zfXNcgsqAJvIgEqWcX9hL"
         }
       ],
-      "duration_ms": 178872,
-      "name": "Get Freaky",
-      "url": "https://open.spotify.com/track/5gugAjAxDTPulzcCfDUu3c"
-    },
-    {
-      "added_at": "2023-08-04 15:30:29",
-      "album": {
-        "name": "Lonely in Tokyo (Remixes Part 1)",
-        "url": "https://open.spotify.com/album/5ypIwKiSA3pUmMeT3QttoM"
-      },
-      "artists": [
-        {
-          "name": "MIREI",
-          "url": "https://open.spotify.com/artist/7Lb6KifoVBVM3cAXiDvirw"
-        },
-        {
-          "name": "Bianca Oblivion",
-          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
-        }
-      ],
-      "duration_ms": 176572,
-      "name": "Lonely in Tokyo - Bianca Oblivion Club Remix",
-      "url": "https://open.spotify.com/track/4nFTdm00nqHN0TKT39QnsE"
+      "duration_ms": 193500,
+      "name": "Pepper Dem",
+      "url": "https://open.spotify.com/track/1KiXz5SBg7cAdzWSCwc90h"
     },
     {
       "added_at": "2023-08-04 15:30:29",
@@ -1735,18 +1711,42 @@
     {
       "added_at": "2023-08-04 15:30:29",
       "album": {
-        "name": "Pepper Dem",
-        "url": "https://open.spotify.com/album/1gsMY3akSiEcBidWJm4tVi"
+        "name": "Get Freaky",
+        "url": "https://open.spotify.com/album/4Lmx3PGRf7tIRest0Wdxaa"
       },
       "artists": [
         {
-          "name": "Magugu",
-          "url": "https://open.spotify.com/artist/6zfXNcgsqAJvIgEqWcX9hL"
+          "name": "TateKo",
+          "url": "https://open.spotify.com/artist/0mvV3dQKJObqwGdWszYW3K"
+        },
+        {
+          "name": "Da Yo Boyz",
+          "url": "https://open.spotify.com/artist/5hfqwT02GtAzIfY2Ea5lAp"
         }
       ],
-      "duration_ms": 193500,
-      "name": "Pepper Dem",
-      "url": "https://open.spotify.com/track/1KiXz5SBg7cAdzWSCwc90h"
+      "duration_ms": 178872,
+      "name": "Get Freaky",
+      "url": "https://open.spotify.com/track/5gugAjAxDTPulzcCfDUu3c"
+    },
+    {
+      "added_at": "2023-08-04 15:30:29",
+      "album": {
+        "name": "Lonely in Tokyo (Remixes Part 1)",
+        "url": "https://open.spotify.com/album/5ypIwKiSA3pUmMeT3QttoM"
+      },
+      "artists": [
+        {
+          "name": "MIREI",
+          "url": "https://open.spotify.com/artist/7Lb6KifoVBVM3cAXiDvirw"
+        },
+        {
+          "name": "Bianca Oblivion",
+          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
+        }
+      ],
+      "duration_ms": 176572,
+      "name": "Lonely in Tokyo - Bianca Oblivion Club Remix",
+      "url": "https://open.spotify.com/track/4nFTdm00nqHN0TKT39QnsE"
     },
     {
       "added_at": "2023-08-04 15:30:29",
@@ -1955,30 +1955,6 @@
     {
       "added_at": "2023-08-04 15:30:29",
       "album": {
-        "name": "I Like The Gangstas",
-        "url": "https://open.spotify.com/album/2B4uGRwT5w8s73dsq2nj3e"
-      },
-      "artists": [
-        {
-          "name": "Beautiful Perfection",
-          "url": "https://open.spotify.com/artist/60yXqNTmZSg8FOSV1SDXeX"
-        },
-        {
-          "name": "Lady Jaey",
-          "url": "https://open.spotify.com/artist/56SELiCX9CqEaCocPs3rsJ"
-        },
-        {
-          "name": "Lean Baltimore",
-          "url": "https://open.spotify.com/artist/4iKDfx6KwQj7unFZ5FBcx7"
-        }
-      ],
-      "duration_ms": 153317,
-      "name": "I Like The Gangstas",
-      "url": "https://open.spotify.com/track/4emERQBWLwVutRtgygswTU"
-    },
-    {
-      "added_at": "2023-08-04 15:30:29",
-      "album": {
         "name": "De Todo Se Aprende (Remix)",
         "url": "https://open.spotify.com/album/2vOPkeXVZOiIXhr0HG7ceQ"
       },
@@ -2023,6 +1999,30 @@
       "duration_ms": 258000,
       "name": "Gbadolite - DJ P2N Remix",
       "url": "https://open.spotify.com/track/6Si27A4FgyHshNoPktd02V"
+    },
+    {
+      "added_at": "2023-08-04 15:30:29",
+      "album": {
+        "name": "I Like The Gangstas",
+        "url": "https://open.spotify.com/album/2B4uGRwT5w8s73dsq2nj3e"
+      },
+      "artists": [
+        {
+          "name": "Beautiful Perfection",
+          "url": "https://open.spotify.com/artist/60yXqNTmZSg8FOSV1SDXeX"
+        },
+        {
+          "name": "Lady Jaey",
+          "url": "https://open.spotify.com/artist/56SELiCX9CqEaCocPs3rsJ"
+        },
+        {
+          "name": "Lean Baltimore",
+          "url": "https://open.spotify.com/artist/4iKDfx6KwQj7unFZ5FBcx7"
+        }
+      ],
+      "duration_ms": 153317,
+      "name": "I Like The Gangstas",
+      "url": "https://open.spotify.com/track/4emERQBWLwVutRtgygswTU"
     },
     {
       "added_at": "2023-08-04 15:30:29",

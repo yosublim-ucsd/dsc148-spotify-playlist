@@ -385,6 +385,24 @@
     },
     {
       "album": {
+        "name": "Care About Me",
+        "url": "https://open.spotify.com/album/2xALPBccgQ8Ya0Jj59oMJs"
+      },
+      "artists": [
+        {
+          "name": "Anish Kumar",
+          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213076,
+      "name": "Care About Me",
+      "url": "https://open.spotify.com/track/2jUKbo2J6SALFDp0KsUNYU"
+    },
+    {
+      "album": {
         "name": "Love Wars",
         "url": "https://open.spotify.com/album/4kWcGJM5TK7eM5SdSDNH4o"
       },
@@ -1554,7 +1572,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 281718,
       "name": "Ma quale idea - Myd Remix (Club Edit)",
       "url": "https://open.spotify.com/track/5nxeRnW9Y7oAXuZJzHmy7n"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 806,792 likes - 85 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 808,622 likes - 85 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 22 | [ユートピア](https://open.spotify.com/track/2ALfxGK9zPIkTvJbCjkSeI) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [ユートピア](https://open.spotify.com/album/5sHVrMHdMBPBTkQtq3ka4V) | 4:32 |
 | 23 | [Endroll](https://open.spotify.com/track/4tIjuLDto2gLGFrQOvU8kS) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [Endroll](https://open.spotify.com/album/4zjPemaiw8mM2dtnTQCGVR) | 2:54 |
 | 24 | [Sign\(Piano Ballad ver.\)](https://open.spotify.com/track/2KaXMZRDtSzim8axS9QlnP) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Sign\(Piano Ballad ver.\)](https://open.spotify.com/album/2oTn5ps7LuAA8BJ1qO52L5) | 5:08 |
-| 25 | [Weight of the World/壊レタ世界ノ歌 \- from CrosSing](https://open.spotify.com/track/1470Upad2tvXPSsP1mEpFL) | [石川由依](https://open.spotify.com/artist/3Fbj6asAxpJaUNc725YhHt) | [Weight of the World/壊レタ世界ノ歌 \- from CrosSing](https://open.spotify.com/album/3RGxbihsJaa9V2dJywra8g) | 5:44 |
+| 25 | [Weight of the World/Kowareta Sekai no Uta \- From CrosSing](https://open.spotify.com/track/45GCLrLOLkphfCNidiJPG4) | [Ishikawa Yui](https://open.spotify.com/artist/0YknJYTpMVMYveiGuchPlQ) | [Weight of the World/Kowareta Sekai no Uta \- From CrosSing](https://open.spotify.com/album/6FKSN2j91q6gLEAtnMbEvb) | 5:44 |
 | 26 | [sugar](https://open.spotify.com/track/3mG5g11Zf4U2BRidQZSHaj) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [sugar](https://open.spotify.com/album/43ifcO1K5HZsufvpomPkh5) | 3:47 |
 | 27 | [WHO ARE ME？](https://open.spotify.com/track/0GNW0n51GebjUm7rNkAheS) | [峯田茉優](https://open.spotify.com/artist/6upQVPtLKJ0PQJRsw9LiRy) | [WHO ARE ME？](https://open.spotify.com/album/0Osc6NIlI0TOSsIE1ncgmq) | 3:00 |
 | 28 | [bloomin'](https://open.spotify.com/track/7IGV9PfdVzqhdol3lgtnIs) | [Liyuu](https://open.spotify.com/artist/3KEJMe6WtlsRJP9qR3Juqn) | [bloomin'](https://open.spotify.com/album/0kRxrSqr36nVM58sq8vOPz) | 4:09 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [LIES GOES ON \- TVsize](https://open.spotify.com/track/5UB5NtHsXFA4DK7gqOsIra) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6) | [LIES GOES ON \(TVsize\)](https://open.spotify.com/album/3hwjiYR55oCUeQZRmw0OG7) | 1:29 |
 | 85 | [Kakuriyo](https://open.spotify.com/track/5AcpugY3aqM57SLVuTC3If) | [luz](https://open.spotify.com/artist/1i3YSQOJCGYeNKbSjEhqO9) | [Kakuriyo](https://open.spotify.com/album/6G2dCzjkvQTfdS1AtpXCSx) | 3:53 |
 
-Snapshot ID: `MCxhYTdmN2IyN2IyYjEzODU3YjM1YzdmM2UxOWI0YTYxY2JkNDY3OTU4`
+Snapshot ID: `MCxkOTRkMTFiYTAyMDYyMTNiNWI5YjA0YWJjOWM3NjUxY2M5NzFmYzdj`

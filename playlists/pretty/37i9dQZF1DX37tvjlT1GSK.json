@@ -1,12 +1,12 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Chacho y Su Vagancia en portada. ",
-  "num_followers": 736366,
+  "num_followers": 736520,
   "original_name": "Sierre\u00f1o 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYmFkNTRjZTlhYmM1ZTg3MDE0OTdjZWJjNGUxYmVjMGI5YWY4YThi",
+  "snapshot_id": "MCw2ZDRkMWU5YzlkNjM3ZjM3NGQzMWY3NDBlMzA2OTQ1MmZmYTlmZjU0",
   "tracks": [
     {
       "added_at": "2023-08-04 06:00:00",
@@ -275,8 +275,8 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "PRC",
-        "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
       "artists": [
         {
@@ -284,13 +284,13 @@
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         },
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 184066,
-      "name": "PRC",
-      "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
+      "duration_ms": 163551,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/3RA55zrRkyPK8Fd86hrMy8"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -423,8 +423,8 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "G\u00c9NESIS",
-        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+        "name": "PRC",
+        "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
       },
       "artists": [
         {
@@ -432,13 +432,13 @@
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         },
         {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 163551,
-      "name": "LUNA",
-      "url": "https://open.spotify.com/track/3RA55zrRkyPK8Fd86hrMy8"
+      "duration_ms": 184066,
+      "name": "PRC",
+      "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -863,18 +863,22 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Te Deseo Lo Mejor",
-        "url": "https://open.spotify.com/album/3TJYqNwsxy6on2wKnQSOUc"
+        "name": "El Amor De Tu Vida",
+        "url": "https://open.spotify.com/album/5ZgM7Cd76zsjHVZuqESNj9"
       },
       "artists": [
         {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Tony Melendez",
+          "url": "https://open.spotify.com/artist/2xtVF7p8OnfvOmTExIoknF"
         }
       ],
-      "duration_ms": 140235,
-      "name": "Te Deseo Lo Mejor",
-      "url": "https://open.spotify.com/track/5ZyUe1pOBYblWLN2E3xJXu"
+      "duration_ms": 163223,
+      "name": "El Amor De Tu Vida",
+      "url": "https://open.spotify.com/track/7AWgHNS16hOhmiyPIRRcmC"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -899,22 +903,18 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "El Amor De Tu Vida",
-        "url": "https://open.spotify.com/album/5ZgM7Cd76zsjHVZuqESNj9"
+        "name": "Te Deseo Lo Mejor",
+        "url": "https://open.spotify.com/album/3TJYqNwsxy6on2wKnQSOUc"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Tony Melendez",
-          "url": "https://open.spotify.com/artist/2xtVF7p8OnfvOmTExIoknF"
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
         }
       ],
-      "duration_ms": 163223,
-      "name": "El Amor De Tu Vida",
-      "url": "https://open.spotify.com/track/7AWgHNS16hOhmiyPIRRcmC"
+      "duration_ms": 140235,
+      "name": "Te Deseo Lo Mejor",
+      "url": "https://open.spotify.com/track/5ZyUe1pOBYblWLN2E3xJXu"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
+        "name": "Dame Amor",
+        "url": "https://open.spotify.com/album/5ahfnUbjVFr0dxwZYJLcHs"
+      },
+      "artists": [
+        {
+          "name": "Officialalex425",
+          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
+        }
+      ],
+      "duration_ms": 209062,
+      "name": "Dame Amor",
+      "url": "https://open.spotify.com/track/5pzdnCfGS2uz5XjXx6gem3"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
         "name": "Triste",
         "url": "https://open.spotify.com/album/2CJGDHYWZziHsTzuFZL0W8"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 166124,
       "name": "Triste",
       "url": "https://open.spotify.com/track/3KBPBsKy6quP8PvTo81D5W"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "Dame Amor",
-        "url": "https://open.spotify.com/album/5ahfnUbjVFr0dxwZYJLcHs"
-      },
-      "artists": [
-        {
-          "name": "Officialalex425",
-          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
-        }
-      ],
-      "duration_ms": 209062,
-      "name": "Dame Amor",
-      "url": "https://open.spotify.com/track/5pzdnCfGS2uz5XjXx6gem3"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Las Preferidas, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/08nFf278FBOyxTEssZx2LR"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 182909,
-      "name": "El Rapido",
-      "url": "https://open.spotify.com/track/3IDvZQYop4XSaTZHw4H5hK"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
         "name": "Tres Botes",
         "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 195117,
       "name": "Inventame - En Vivo",
       "url": "https://open.spotify.com/track/0nvXL0x4NISFWRoLNfZK4U"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Las Preferidas, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/08nFf278FBOyxTEssZx2LR"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 182909,
+      "name": "El Rapido",
+      "url": "https://open.spotify.com/track/3IDvZQYop4XSaTZHw4H5hK"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1559,6 +1559,30 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
+        "name": "Buenas Rachas",
+        "url": "https://open.spotify.com/album/18pfoIprtoyL7UZ0r5aJ2e"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 153655,
+      "name": "Buenas Rachas",
+      "url": "https://open.spotify.com/track/3Tsa2DGBB3HkNk27J7nsnI"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
         "name": "EL KARMA",
         "url": "https://open.spotify.com/album/7xiQoNQkpoMzZJuvdrewcf"
       },
@@ -1591,46 +1615,6 @@
       "duration_ms": 211198,
       "name": "Perro Abandonado",
       "url": "https://open.spotify.com/track/2Xibft7dpTSCS9EQk5mQs0"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "Las Preferidas, Vol. 2 (En vivo)",
-        "url": "https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 188917,
-      "name": "Yo Te Necesito - En vivo",
-      "url": "https://open.spotify.com/track/6Yjh5hEKRWoQRM3ltyBOIt"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "Buenas Rachas",
-        "url": "https://open.spotify.com/album/18pfoIprtoyL7UZ0r5aJ2e"
-      },
-      "artists": [
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 153655,
-      "name": "Buenas Rachas",
-      "url": "https://open.spotify.com/track/3Tsa2DGBB3HkNk27J7nsnI"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1671,22 +1655,18 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Le Compre Casa A Mi Ama",
-        "url": "https://open.spotify.com/album/1DNXHL4tTugdaeGBow9s5x"
+        "name": "Las Preferidas, Vol. 2 (En vivo)",
+        "url": "https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D"
       },
       "artists": [
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
         }
       ],
-      "duration_ms": 204437,
-      "name": "Le Compre Casa A Mi Ama",
-      "url": "https://open.spotify.com/track/0BeBLgI1gpn9rJHqcUjJSX"
+      "duration_ms": 188917,
+      "name": "Yo Te Necesito - En vivo",
+      "url": "https://open.spotify.com/track/6Yjh5hEKRWoQRM3ltyBOIt"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1727,6 +1707,26 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
+        "name": "Le Compre Casa A Mi Ama",
+        "url": "https://open.spotify.com/album/1DNXHL4tTugdaeGBow9s5x"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 204437,
+      "name": "Le Compre Casa A Mi Ama",
+      "url": "https://open.spotify.com/track/0BeBLgI1gpn9rJHqcUjJSX"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
         "name": "Volumen 5 (En Vivo)",
         "url": "https://open.spotify.com/album/6I6MZLLhr6CJHqFxtozUMQ"
       },
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Noches De Verano",
-        "url": "https://open.spotify.com/album/25FCfNQGfRwwAVCOfIm9yy"
-      },
-      "artists": [
-        {
-          "name": "Proximo Nivel",
-          "url": "https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Efecto Al Corazon",
-      "url": "https://open.spotify.com/track/467uh81a8AkjzFd77ly5M0"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
         "name": "Dinero F\u00e1cil",
         "url": "https://open.spotify.com/album/42WWFPXfmtFFMLmdEeYEFZ"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 224442,
       "name": "Quiero Llorar y No Puedo",
       "url": "https://open.spotify.com/track/3ezRmGfcXnuEA4ryylr6Jk"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Noches De Verano",
+        "url": "https://open.spotify.com/album/25FCfNQGfRwwAVCOfIm9yy"
+      },
+      "artists": [
+        {
+          "name": "Proximo Nivel",
+          "url": "https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Efecto Al Corazon",
+      "url": "https://open.spotify.com/track/467uh81a8AkjzFd77ly5M0"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "El Fantasma Sin Limites",
-        "url": "https://open.spotify.com/album/20DBzLmBV3sbpgST1u1575"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 173132,
-      "name": "Aguanta Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/7iUHkEl7p5ooN0Kq2IrmwH"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
         "name": "Sobran Motivos",
         "url": "https://open.spotify.com/album/1hMkbq5j73T1z3nfUz4stQ"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 235224,
       "name": "Sobran Motivos",
       "url": "https://open.spotify.com/track/7k6ljvd7ny9AUHWEFBrBFa"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "El Fantasma Sin Limites",
+        "url": "https://open.spotify.com/album/20DBzLmBV3sbpgST1u1575"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 173132,
+      "name": "Aguanta Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7iUHkEl7p5ooN0Kq2IrmwH"
     },
     {
       "added_at": "2023-08-04 06:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Illuminating Asian artists everywhere. Cover: Mitski.",
-  "num_followers": 274510,
+  "num_followers": 274514,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZmY0NzgyZTYwM2Y3YzJjNTg3MzllMmZlZTAzOWFmMDU0MTYwMTNj",
+  "snapshot_id": "MCw0OTU4ZGJmODllNjRmYWM3MjM2NjFjMzg2YmUwZTY4ZWQ2MDk3ZGQ0",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "TGIF",
+        "url": "https://open.spotify.com/album/0aNeBf2SZFAUOYuyCBPU0c"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 171240,
+      "name": "TGIF",
+      "url": "https://open.spotify.com/track/3horUXBBgEyTEAxfeT9c0P"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Oceans & Engines",
         "url": "https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9"
       },
@@ -907,18 +923,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "TGIF",
-        "url": "https://open.spotify.com/album/0aNeBf2SZFAUOYuyCBPU0c"
+        "name": "Peanut Butter & Tears",
+        "url": "https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I"
       },
       "artists": [
         {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
         }
       ],
-      "duration_ms": 171240,
-      "name": "TGIF",
-      "url": "https://open.spotify.com/track/3horUXBBgEyTEAxfeT9c0P"
+      "duration_ms": 225613,
+      "name": "Peanut Butter & Tears",
+      "url": "https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -939,18 +955,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Peanut Butter & Tears",
-        "url": "https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I"
+        "name": "Trauma",
+        "url": "https://open.spotify.com/album/2wYh1adQn0CaWPlJMHFo56"
       },
       "artists": [
         {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
         }
       ],
-      "duration_ms": 225613,
-      "name": "Peanut Butter & Tears",
-      "url": "https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv"
+      "duration_ms": 163253,
+      "name": "Trauma",
+      "url": "https://open.spotify.com/track/48JqgW96LVIcrE4umJweWw"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -995,22 +1011,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "READY TO BE",
-        "url": "https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 181680,
-      "name": "SET ME FREE (ENG)",
-      "url": "https://open.spotify.com/track/6bkTxw6m6vl8Oc3xtKBXN0"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Drink!",
         "url": "https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n"
       },
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Trauma",
-        "url": "https://open.spotify.com/album/2wYh1adQn0CaWPlJMHFo56"
+        "name": "READY TO BE",
+        "url": "https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ"
       },
       "artists": [
         {
-          "name": "BoyWithUke",
-          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
         }
       ],
-      "duration_ms": 163253,
-      "name": "Trauma",
-      "url": "https://open.spotify.com/track/48JqgW96LVIcrE4umJweWw"
+      "duration_ms": 181680,
+      "name": "SET ME FREE (ENG)",
+      "url": "https://open.spotify.com/track/6bkTxw6m6vl8Oc3xtKBXN0"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1423,6 +1423,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Don't Look Down (feat. BANKS)",
+        "url": "https://open.spotify.com/album/1tBi2zMsVkQYk8VBkdCNnu"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "duration_ms": 205423,
+      "name": "Don't Look Down (feat. BANKS)",
+      "url": "https://open.spotify.com/track/0NUsMgXjITsbxk5WC4aleu"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Gotta Get Back (feat. Pink Sweat$)",
         "url": "https://open.spotify.com/album/1jdmu8Za7AUiiHTOi6u5tO"
       },
@@ -1459,22 +1479,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "van gogh",
-        "url": "https://open.spotify.com/album/0Bnp7EKyjTpMfezafM4wHi"
-      },
-      "artists": [
-        {
-          "name": "lullaboy",
-          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
-        }
-      ],
-      "duration_ms": 173540,
-      "name": "van gogh",
-      "url": "https://open.spotify.com/track/4bLCfhmTsNuZo3oQXviIA7"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "i like red",
         "url": "https://open.spotify.com/album/2DYmZa0uuVkUGdwqjNTJNj"
       },
@@ -1487,6 +1491,22 @@
       "duration_ms": 122500,
       "name": "i like red",
       "url": "https://open.spotify.com/track/3GQ4GdXU8wBbPqBcKDTJ65"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "van gogh",
+        "url": "https://open.spotify.com/album/0Bnp7EKyjTpMfezafM4wHi"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        }
+      ],
+      "duration_ms": 173540,
+      "name": "van gogh",
+      "url": "https://open.spotify.com/track/4bLCfhmTsNuZo3oQXviIA7"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1527,26 +1547,6 @@
       "duration_ms": 173308,
       "name": "One Last Dance (feat. Milky Day)",
       "url": "https://open.spotify.com/track/1ebn8pmLr7RDAzrBaIpsw8"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Don't Look Down (feat. BANKS)",
-        "url": "https://open.spotify.com/album/1tBi2zMsVkQYk8VBkdCNnu"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
-        }
-      ],
-      "duration_ms": 205423,
-      "name": "Don't Look Down (feat. BANKS)",
-      "url": "https://open.spotify.com/track/0NUsMgXjITsbxk5WC4aleu"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Same Energy",
-        "url": "https://open.spotify.com/album/7wLUa7Te2hgRruz9hFIeGc"
-      },
-      "artists": [
-        {
-          "name": "KILLY",
-          "url": "https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD"
-        }
-      ],
-      "duration_ms": 151067,
-      "name": "Same Energy",
-      "url": "https://open.spotify.com/track/4wBGgXXCq5pjwgkiI7evhw"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Good In Me",
         "url": "https://open.spotify.com/album/7kRF85QX88b5aPkxE2jbRX"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 148027,
       "name": "Good In Me",
       "url": "https://open.spotify.com/track/1JuUVeHRjVl081qqccxySe"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Same Energy",
+        "url": "https://open.spotify.com/album/7wLUa7Te2hgRruz9hFIeGc"
+      },
+      "artists": [
+        {
+          "name": "KILLY",
+          "url": "https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD"
+        }
+      ],
+      "duration_ms": 151067,
+      "name": "Same Energy",
+      "url": "https://open.spotify.com/track/4wBGgXXCq5pjwgkiI7evhw"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Ballroom Extravaganza",
+        "url": "https://open.spotify.com/album/0rbFTWzM6EtmYd61kpV1ke"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 189946,
+      "name": "Ballroom Extravaganza",
+      "url": "https://open.spotify.com/track/1KoAKmbSdx172NnEn6rV9F"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Hungry Heart ft. Hayley Kiyoko",
         "url": "https://open.spotify.com/album/6aRMTwvizxU03QnudEZ8Hu"
       },
@@ -1831,22 +1847,6 @@
       "duration_ms": 182918,
       "name": "Hungry Heart ft. Hayley Kiyoko",
       "url": "https://open.spotify.com/track/6JqJ2DMu7B2PddAdNAVmYy"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Ballroom Extravaganza",
-        "url": "https://open.spotify.com/album/0rbFTWzM6EtmYd61kpV1ke"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 189946,
-      "name": "Ballroom Extravaganza",
-      "url": "https://open.spotify.com/track/1KoAKmbSdx172NnEn6rV9F"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2071,22 +2071,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "The Hard Way",
-        "url": "https://open.spotify.com/album/1pwQ5Oq7QvtT1QAIoZDRJM"
-      },
-      "artists": [
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        }
-      ],
-      "duration_ms": 212933,
-      "name": "The Hard Way",
-      "url": "https://open.spotify.com/track/1QLMHSO8A6DXPRTxFGJEnG"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "BTSTU (Edit)",
         "url": "https://open.spotify.com/album/1y2SUIU3BjdIsBsdTRJtBe"
       },
@@ -2099,6 +2083,38 @@
       "duration_ms": 209493,
       "name": "BTSTU - Edit",
       "url": "https://open.spotify.com/track/5hqVCLyCQJA24IupqEEmvL"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "playing tricks",
+        "url": "https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz"
+      },
+      "artists": [
+        {
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 184257,
+      "name": "playing tricks",
+      "url": "https://open.spotify.com/track/6zaayoVlfFp5YmQArKWkRG"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "The Hard Way",
+        "url": "https://open.spotify.com/album/1pwQ5Oq7QvtT1QAIoZDRJM"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "duration_ms": 212933,
+      "name": "The Hard Way",
+      "url": "https://open.spotify.com/track/1QLMHSO8A6DXPRTxFGJEnG"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2119,22 +2135,6 @@
       "duration_ms": 206829,
       "name": "Blacklist (with Matisyahu)",
       "url": "https://open.spotify.com/track/0kVOU70xhm28oEWKISQftL"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "playing tricks",
-        "url": "https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz"
-      },
-      "artists": [
-        {
-          "name": "thuy",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 184257,
-      "name": "playing tricks",
-      "url": "https://open.spotify.com/track/6zaayoVlfFp5YmQArKWkRG"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2279,6 +2279,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "1st Gen",
+        "url": "https://open.spotify.com/album/5mjG6OSGmGU6hfnx8sIJIg"
+      },
+      "artists": [
+        {
+          "name": "Shuba",
+          "url": "https://open.spotify.com/artist/3Uios5Yyv4i8EBs9H3DUY5"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "1st Gen",
+      "url": "https://open.spotify.com/track/3XQRNLKg7TiICuPpJCEVrA"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Window",
         "url": "https://open.spotify.com/album/5PtBmayc1Rf9a9bqrj43cW"
       },
@@ -2395,22 +2411,6 @@
       "duration_ms": 151384,
       "name": "Lost Cause",
       "url": "https://open.spotify.com/track/1OEIMV580Xj8BeyeFB8fvl"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "1st Gen",
-        "url": "https://open.spotify.com/album/5mjG6OSGmGU6hfnx8sIJIg"
-      },
-      "artists": [
-        {
-          "name": "Shuba",
-          "url": "https://open.spotify.com/artist/3Uios5Yyv4i8EBs9H3DUY5"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "1st Gen",
-      "url": "https://open.spotify.com/track/3XQRNLKg7TiICuPpJCEVrA"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2539,6 +2539,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Any Other Way",
+        "url": "https://open.spotify.com/album/7C5Y9bh4Y8G5sw3bB2bquM"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 168209,
+      "name": "Any Other Way",
+      "url": "https://open.spotify.com/track/0GLeMtCBYkh98BqwO5BN7b"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "FIRST CLASS (feat. The Crane)",
         "url": "https://open.spotify.com/album/02xnWnxfcuIKgAXpj1qsx9"
       },
@@ -2555,22 +2571,6 @@
       "duration_ms": 184512,
       "name": "FIRST CLASS (feat. The Crane)",
       "url": "https://open.spotify.com/track/3ksUlJXEkMyLt7Tm4sC2aq"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Any Other Way",
-        "url": "https://open.spotify.com/album/7C5Y9bh4Y8G5sw3bB2bquM"
-      },
-      "artists": [
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        }
-      ],
-      "duration_ms": 168209,
-      "name": "Any Other Way",
-      "url": "https://open.spotify.com/track/0GLeMtCBYkh98BqwO5BN7b"
     },
     {
       "added_at": "2023-08-04 04:00:00",

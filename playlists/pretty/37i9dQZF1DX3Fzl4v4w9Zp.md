@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Lukas Nelson and Promise of the Real
 
-[Spotify](https://open.spotify.com/user/spotify) - 615,434 likes - 149 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 615,544 likes - 149 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 17 | [The Returner](https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [The Returner](https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i) | 3:50 |
 | 18 | [Roman Candle](https://open.spotify.com/track/7B3ospxtMq2QWIJmwoeF0H) | [Israel Nash](https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7) | [Roman Candle](https://open.spotify.com/album/5Iue2ftvsBde2EScRcUMhD) | 4:02 |
 | 19 | [Southern Star](https://open.spotify.com/track/4O6pTiXCFeuLE8fBz3LWGf) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Southern Star](https://open.spotify.com/album/5SoDgEyUeO6DcS88kOuR0d) | 3:06 |
-| 20 | [Nu\-Grape](https://open.spotify.com/track/2ld5XaRQcHaZX0cYWvXRSN) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Shinbone](https://open.spotify.com/album/5JzVleyf5QHPPCHOU9DvXl) | 3:28 |
+| 20 | [Nu\-Grape](https://open.spotify.com/track/21r46gpVhsV2zvbfK0aXOK) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [20 Years and a Nickel](https://open.spotify.com/album/02bhRp09k7erA3JsN8BHTz) | 3:28 |
 | 21 | [Playin' On The Tracks](https://open.spotify.com/track/4YCwBjIphmO1L4eTWbAk0n) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Playin' On The Tracks](https://open.spotify.com/album/5k3jXuGsFWOIOfsXtP63Wp) | 2:39 |
 | 22 | [Last American Summer](https://open.spotify.com/track/75YFljzpMBKPICS0UhktL3) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Last American Summer](https://open.spotify.com/album/1ELbgyymPeozN3fYiKIZEJ) | 3:51 |
 | 23 | [Dancing in the Sky](https://open.spotify.com/track/1M0POGmdV86bx026Ky2ip8) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Dancing in the Sky](https://open.spotify.com/album/7yesav1UJgVC74RFifnzM9) | 3:06 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 148 | [\(Remember Me\) I'm the One Who Loves You](https://open.spotify.com/track/4DSG3Jl9MHt7EQRR9louzF) | [Watkins Family Hour](https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj), [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [\(Remember Me\) I'm the One Who Loves You](https://open.spotify.com/album/6mSs7MCOo0rv9f25WMfFnn) | 3:00 |
 | 149 | [All My Love Is Coming Back To Me](https://open.spotify.com/track/3Nc53UVSUBvYjuhuNouvfi) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [All My Love Is Coming Back To Me](https://open.spotify.com/album/01OzeCOUrUoaCXMu9rvq9f) | 3:29 |
 
-Snapshot ID: `MCw5MzkwZjM3YTRmNTIzYThjOGY5MTFhNjdmOTIxNzkyYTRmMDE3YzFj`
+Snapshot ID: `MCw2MDkzYzgxYmEzMWFlMjVhNzNmMWIwZjg3MDhjODA2N2RhM2Y3M2I0`

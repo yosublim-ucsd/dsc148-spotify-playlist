@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 > Raise a voice and testify with African gospel music\.  Cover: <a href="https://open.spotify.com/artist/5qFXImbm1GaGfNFSMM7BvJ?si=9aBnF9JhRByul6TZkrEVFQ">Josh Thee Artist</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,609 likes - 50 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,641 likes - 50 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 | 44 | [There's an Overflow](https://open.spotify.com/track/5pccP1TA1WGNrYXAHF8xNU) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [There's an Overflow](https://open.spotify.com/album/7bCb9oOr3rwnZ5YHJbwTBm) | 8:10 |
 | 45 | [My Trust Is in You](https://open.spotify.com/track/3n5ZcqA96LtnDICLZ5rqFY) | [David G](https://open.spotify.com/artist/3UxYGkc2hubOZsZuLAR7Ri) | [Yahweh](https://open.spotify.com/album/0Ai0IfdEIuJCMgkHUDEZAy) | 3:35 |
 | 46 | [Miracle Worker \(feat\. Nathaniel Bassey\)](https://open.spotify.com/track/7lbzZjOuAP1SgdbBntWENT) | [Glowreeyah Braimah](https://open.spotify.com/artist/4xn29UFDYZE3V9knQ2JSh1), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [The Expression](https://open.spotify.com/album/1DTO9Qm1Cx2nVKzMbuwrMm) | 4:50 |
-| 47 | [Mowanbe \(Mo wa’nbe\)](https://open.spotify.com/track/0oONxPIqh6mWrFoS7jBiPq) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [Mowanbe \(Mo wa’nbe\)](https://open.spotify.com/album/7LFJV2qkgIxxGugI4VvP2T) | 2:30 |
-| 48 | [No One Like You](https://open.spotify.com/track/1B6d6tSoQTZyYalEFVu86p) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [No One Like You](https://open.spotify.com/album/2319omaa3ftdBNLmmQmGuf) | 5:17 |
+| 47 | [No One Like You](https://open.spotify.com/track/1B6d6tSoQTZyYalEFVu86p) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [No One Like You](https://open.spotify.com/album/2319omaa3ftdBNLmmQmGuf) | 5:17 |
+| 48 | [Mowanbe \(Mo wa’nbe\)](https://open.spotify.com/track/0oONxPIqh6mWrFoS7jBiPq) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [Mowanbe \(Mo wa’nbe\)](https://open.spotify.com/album/7LFJV2qkgIxxGugI4VvP2T) | 2:30 |
 | 49 | [Na You Dey Reign](https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:27 |
 | 50 | [He Fights For Me](https://open.spotify.com/track/5vQM35aV3Q7tXdITJgc8wi) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Grace Omosebi](https://open.spotify.com/artist/0MjHUPDq9KVCCqjAcTdVRQ), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq) | [HEAVEN HAS COME](https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz) | 6:19 |
 
-Snapshot ID: `MCwxYTQyYjlmYTFlNmQ1MjI3ZGRhOWFmYjgzZDQ3Yzc1YzU3Y2I4MTY0`
+Snapshot ID: `MCxiOTllMTFmZDJiYjQzNzNmNmQ0NTZmYTNiOTZiMGRlMjdhODFiY2Vi`

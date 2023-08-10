@@ -1,12 +1,12 @@
 {
   "description": "A playback of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624\">Mood Ring</a>\u2019s all-stars. Cover: Idman",
-  "num_followers": 5834,
+  "num_followers": 5848,
   "original_name": "R&B Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTBiYWFhY2EyZDQ4M2I5YWQyZjc0Mjc4NTRkNjg2YzE1NDY2MWE2",
+  "snapshot_id": "MCw1ZTlmZDdlZWIxYzk4YzVlODE4Y2MwNmM3MjQ5YTI5NzVjMzY2Njc4",
   "tracks": [
     {
       "added_at": "2023-08-03 03:59:29",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-08-03 03:59:29",
       "album": {
+        "name": "Talk Luv",
+        "url": "https://open.spotify.com/album/33vKJjr5IBomO5PhKQcVAX"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "duration_ms": 164468,
+      "name": "Talk Luv",
+      "url": "https://open.spotify.com/track/40rBLdeF1oAdGnX54xAddv"
+    },
+    {
+      "added_at": "2023-08-03 03:59:29",
+      "album": {
         "name": "Last One",
         "url": "https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 181823,
       "name": "Last One",
       "url": "https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM"
-    },
-    {
-      "added_at": "2023-08-03 03:59:29",
-      "album": {
-        "name": "Talk Luv",
-        "url": "https://open.spotify.com/album/33vKJjr5IBomO5PhKQcVAX"
-      },
-      "artists": [
-        {
-          "name": "Zeina",
-          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
-        }
-      ],
-      "duration_ms": 164468,
-      "name": "Talk Luv",
-      "url": "https://open.spotify.com/track/40rBLdeF1oAdGnX54xAddv"
     },
     {
       "added_at": "2023-08-03 03:59:29",

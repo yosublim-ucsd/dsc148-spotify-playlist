@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > it's a generation ⛓ ft\. LØLØ
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,839 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,929 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 79 | [\(NOT A\) LOVE SONG](https://open.spotify.com/track/4pbi40zXUCSQG3azxkag79) | [The Tyne](https://open.spotify.com/artist/5o5dFyK0UODK3sYQp5ao8V), [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [\(NOT A\) LOVE SONG](https://open.spotify.com/album/5ALQdJdsSKZikDNs6Br7VN) | 2:47 |
 | 80 | [Alright](https://open.spotify.com/track/6ZBr8E9XczoqgMRXyXUe6b) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Alright](https://open.spotify.com/album/2xawjrCCEKSTSxOg6VkPe9) | 3:22 |
 
-Snapshot ID: `MCw0M2MxZWZhNmQ4NDJlMzY2NDRkZmJiOGFjNDBlMTRiNjMyYWRlMTZi`
+Snapshot ID: `MCwxMmMzYWMyNGI2MGVmZGRjM2QyODkxMTcwYjM1MjdhMWI1ZTRhYmZj`

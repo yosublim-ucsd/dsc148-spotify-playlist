@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 
 > A collection of <a href="https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283">Northern Bars</a>’ finest\. Cover: TOBi
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,555 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,579 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 22 | [Twin Flame](https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Twin Flame](https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy) | 3:52 |
 | 23 | [B.B\. King Freestyle \(with Drake\)](https://open.spotify.com/track/6EW1fwOk4JHmTZKINZsyjB) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [B.B\. King Freestyle](https://open.spotify.com/album/4Epq84TTM5hHH5jI78R271) | 3:42 |
 | 24 | [Dead Or Alive](https://open.spotify.com/track/6ekV6MGnPTuCOnjB4VcWGc) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [Dead Or Alive](https://open.spotify.com/album/3TDEhWhq4igbjoquhj8NOp) | 3:14 |
-| 25 | [Attachments](https://open.spotify.com/track/1SedJ3dLWoCqnPIGeEMUJH) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Taliban Glizzy](https://open.spotify.com/artist/2J4wmwS5YSjQKzEEM7AiJh) | [Gardner Express](https://open.spotify.com/album/24nydg8i966CawS06yCtZh) | 2:51 |
-| 26 | [Why Did I](https://open.spotify.com/track/6NrB2hKwlyVfFY8qhKc8U6) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Sorry 4 What](https://open.spotify.com/album/7MUY0WxCmHcgEEeQNjoe8a) | 2:25 |
+| 25 | [Why Did I](https://open.spotify.com/track/6NrB2hKwlyVfFY8qhKc8U6) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Sorry 4 What](https://open.spotify.com/album/7MUY0WxCmHcgEEeQNjoe8a) | 2:25 |
+| 26 | [Attachments](https://open.spotify.com/track/1SedJ3dLWoCqnPIGeEMUJH) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Taliban Glizzy](https://open.spotify.com/artist/2J4wmwS5YSjQKzEEM7AiJh) | [Gardner Express](https://open.spotify.com/album/24nydg8i966CawS06yCtZh) | 2:51 |
 | 27 | [Lil Boat](https://open.spotify.com/track/3Zcv9IeYgCvEhxFTfsduaQ) | [88GLAM](https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl) | [88GLAM2](https://open.spotify.com/album/1BgPkFMgud3lmEc6enZsjd) | 3:00 |
 | 28 | [Killamonjaro](https://open.spotify.com/track/537l7spEsGg6aWl6Y9eKAs) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [Killamonjaro](https://open.spotify.com/album/7IXOHbcGCzApTTInOsIbCB) | 2:58 |
 | 29 | [100 Rounds](https://open.spotify.com/track/5sJwRlYM8Wg9vGrfe0FNTO) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [100 Rounds](https://open.spotify.com/album/405f18dnyh3ElPJj1tkshp) | 2:12 |
@@ -72,10 +72,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 62 | [NightmareZ](https://open.spotify.com/track/6VY3ID6avXR4EyraG6SDKz) | [Duvy](https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy) | [NightmareZ](https://open.spotify.com/album/2Penu08dmmkH4PNmevsh4c) | 1:49 |
 | 63 | [WOO!](https://open.spotify.com/track/5vYn0idAvSminM8fdyTB1U) | [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT) | [HOOD AVANT\-GARDE \(Deluxe\)](https://open.spotify.com/album/7MP5EdHUb1PxYW5SYv440k) | 2:48 |
 | 64 | [JUNGLE](https://open.spotify.com/track/2XHUkLHYKnkBzV4xppzeOx) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [BECAUSE WE'RE ALIVE](https://open.spotify.com/album/6wZMRN2p4tG53w6ixx16wS) | 2:34 |
-| 65 | [Go There](https://open.spotify.com/track/3BIouEzekdzTJYtR9fmYRA) | [Roney](https://open.spotify.com/artist/2nGZqSJU7K5mkZCjxSlu5J), [Sick Ppl](https://open.spotify.com/artist/1SCwj7fCt2DeYIYNQoGxp0) | [Different Route](https://open.spotify.com/album/1W8pJAcbgIrU8QSPinu1s2) | 2:08 |
+| 65 | [Dwayne Carter Flow](https://open.spotify.com/track/570V1YeIjY18g0OgQViBCg) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4) | [Dwayne Carter Flow](https://open.spotify.com/album/0DN87LYvjreENZHFUCbk6d) | 2:10 |
 | 66 | [Vallie Mode](https://open.spotify.com/track/6c9JGhWjQgGydAxlS49f8Y) | [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [Vallie Mode](https://open.spotify.com/album/0y1MaVOQk1jI3VTHlKQ6uN) | 2:28 |
 | 67 | [My Town \(feat\. Giggs\)](https://open.spotify.com/track/41l1RaDtTRnSPsy22JUFVC) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [no long talk.](https://open.spotify.com/album/3RIerAmfvbXRl9uFX3UZyT) | 3:18 |
-| 68 | [Dwayne Carter Flow](https://open.spotify.com/track/570V1YeIjY18g0OgQViBCg) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4) | [Dwayne Carter Flow](https://open.spotify.com/album/0DN87LYvjreENZHFUCbk6d) | 2:10 |
+| 68 | [Go There](https://open.spotify.com/track/3BIouEzekdzTJYtR9fmYRA) | [Roney](https://open.spotify.com/artist/2nGZqSJU7K5mkZCjxSlu5J), [Sick Ppl](https://open.spotify.com/artist/1SCwj7fCt2DeYIYNQoGxp0) | [Different Route](https://open.spotify.com/album/1W8pJAcbgIrU8QSPinu1s2) | 2:08 |
 | 69 | [Priceless](https://open.spotify.com/track/2Ai10rvOZla3w0GZXuuFSp) | [Robin Banks](https://open.spotify.com/artist/46qgq6hZewSGvjR5kmT3jE), [FB](https://open.spotify.com/artist/5bDOWnyQ73utiM8fCtv1Ar) | [Priceless](https://open.spotify.com/album/3IkBPsHdtfjTozntH3W9ek) | 4:32 |
 | 70 | [Job Done](https://open.spotify.com/track/30TjGnttNF0xb14fZwf6pC) | [LocoCity](https://open.spotify.com/artist/3F8zBQBtVl3lb2bEQHBFou) | [Save Yourself](https://open.spotify.com/album/3PTji8JGoC9hdONYRuZQPA) | 2:19 |
 | 71 | [Repeat](https://open.spotify.com/track/3KFef9uMAxT4gyS2fEi9vd) | [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm), [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d) | [Repeat](https://open.spotify.com/album/5tUI7R1lHw5Lk6nUENIgtG) | 3:28 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 74 | [Don't Dance](https://open.spotify.com/track/5pPjRodJAYNwVXSRekq40W) | [Pengz](https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc) | [Don't Dance](https://open.spotify.com/album/20cF35OrxFwHvEnnJqvWCX) | 3:17 |
 | 75 | [BURN EVERYTHING](https://open.spotify.com/track/3Bcphu5Gi1NdhMKAwx2yIj) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Ye](https://open.spotify.com/artist/7F8mOnK6NxES96O7SiGlLt) | [BURN EVERYTHING](https://open.spotify.com/album/5wb97Ic2ukhlspPZAC29ow) | 2:49 |
 
-Snapshot ID: `MCxmYWQ5ZjY1Zjk2YzAxZDhiNDcyNGIyMzFmOGM1NmI5MzgxNzQwZTYw`
+Snapshot ID: `MCw2NWY2ZjQ4MTRkMjE1Y2UwNDdlM2VmYzg2YzEwNTg2ZDBjMmVjNDgx`

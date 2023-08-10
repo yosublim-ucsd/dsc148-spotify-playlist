@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,607 likes - 1,174 songs - 3 day 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,647 likes - 1,174 songs - 3 day 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -502,7 +502,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 492 | [Abraka](https://open.spotify.com/track/4xlEdOHK6wyW4kNbCChrzR) | [The Funkees](https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J) | [Dancing Time: The Best of Eastern Nigeria's Afro Rock Exponents 1973\-77](https://open.spotify.com/album/3qvdUGpEoOjOrbtZpWApYm) | 4:26 |
 | 493 | [Ungena Za Ulimwengu \(Unite The World\)](https://open.spotify.com/track/6AkLY10RHXu6U7808L6reG) | [The Undisputed Truth](https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw) | [Face To Face With The Truth](https://open.spotify.com/album/4ZswFiADrD5jIg1Y5Eu7cc) | 8:51 |
 | 494 | [Good Day](https://open.spotify.com/track/3eyJ96DvcqxFiuq9Shq4gc) | [Walter Gavitt Ferguson](https://open.spotify.com/artist/4bbfV7YYUAwzzz6NFb2fNB) | [King of Calypso Limonense \(The Legendary Tape Recordings, Vol​.​1\)](https://open.spotify.com/album/5NtaY6RCEG2LVZ24bWMMVN) | 2:07 |
-| 495 | [Forest Nativity](https://open.spotify.com/track/59R57D4dMujj4Zz411KM27) | [Francis Bebey](https://open.spotify.com/artist/0mdmrbu5UZ32uRcRp2z6mr) | [Psychedelic Sanza](https://open.spotify.com/album/3hhI4WjM655ryg6aHjqzp4) | 4:23 |
+| 495 | [Forest Nativity](https://open.spotify.com/track/5l0Pm1woVIhxyweB3eGkrl) | [Francis Bebey](https://open.spotify.com/artist/0mdmrbu5UZ32uRcRp2z6mr) | [Nova la nuit](https://open.spotify.com/album/3nXuGKslVGaWBSAA8QJq8V) | 4:21 |
 | 496 | [Simini\-Yaga](https://open.spotify.com/track/2cPyVJswRAV0gE6rOLAdnZ) | [Collins Oke Elaiho and His Odologie Nobles Dance Band](https://open.spotify.com/artist/5bnRopFR6okUHPVhXy4e9x) | [Simini\-Yaga](https://open.spotify.com/album/7eLnOJF68kfu8gVWiqeDtR) | 3:40 |
 | 497 | [Ponte Bajo el Sol](https://open.spotify.com/track/68VLwvaAeCAs1QTSazcr8q) | [Elia y Elizabeth](https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf) | [La Onda de Elia y Elizabeth](https://open.spotify.com/album/3oMbEphQxALHNPilVcs8YX) | 2:06 |
 | 498 | [Senta a Pua](https://open.spotify.com/track/1NUe6Ug4XuweGs8yppkLSd) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Som, Amor, Trabalho e Progresso / Senta a Pua](https://open.spotify.com/album/7LQlrwySZaLzijawGhtSJY) | 2:34 |
@@ -801,7 +801,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 791 | [Misterioso](https://open.spotify.com/track/6qzCGtAi9QO0z8Zgp9YF1y) | [Etoile De Dakar](https://open.spotify.com/artist/0ZEIBXEWSSTDLhheAO9Wyk) | [Star Band de Dakar: Psicodelia Afro\-Cubana de Senegal](https://open.spotify.com/album/0bjOzinhlC7MLmkB2VChey) | 4:33 |
 | 792 | [Sin Ti \- Remastered](https://open.spotify.com/track/5G8BNDSQwschLTFLKWwhai) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Lo Mejor de Los Panchos \(Remastered\)](https://open.spotify.com/album/30ryX5o7MBryuQXglkiFUc) | 2:48 |
 | 793 | [Masisizwane](https://open.spotify.com/track/5drNawZolFDqGjK99v2Hri) | [Abafana Bama Soul](https://open.spotify.com/artist/3bA0rDxgBWuownNwVIUsS3) | [Next Stop Soweto 4: Zulu Rock, Afro\-Disco & Mbaqanga 1975\-1985](https://open.spotify.com/album/6mthYemYv5h7k6XwIo9R8F) | 3:28 |
-| 794 | [Worried Over You \(with Trenton Spence & His Group\)](https://open.spotify.com/track/5UdcXxr7d4p0hNKmV0s07F) | [Keith And Enid](https://open.spotify.com/artist/0HpL1XSd64D5E4OxLkoAUD), [Trenton Spence & His Group](https://open.spotify.com/artist/11c31czLCvP86yzPeaLErS) | [Trojan Presents: Mento & R&B](https://open.spotify.com/album/27dfVCvFtf3IXlIL3BltX9) | 3:11 |
+| 794 | [Worried Over You \(with Trenton Spence & His Group\)](https://open.spotify.com/track/7HwlGOFeRJz8jc5FD8kFQt) | [Keith And Enid](https://open.spotify.com/artist/0HpL1XSd64D5E4OxLkoAUD), [Trenton Spence & His Group](https://open.spotify.com/artist/11c31czLCvP86yzPeaLErS) | [The Best of Trojan R&B and Blues Vol\. 1](https://open.spotify.com/album/2k7kHHHklHY6Bdw0jjBaQP) | 3:11 |
 | 795 | [La luna de Rasquí](https://open.spotify.com/track/36MoFIDN0D0Mvbo9kkjyhs) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Bailar en la cueva](https://open.spotify.com/album/1LtIOscLBDW8C8ZDDUriqi) | 3:40 |
 | 796 | [Awa adounia](https://open.spotify.com/track/4oYwvjJ2Yq3Yn4Fqgn3uOg) | [Liya Ag Ablil](https://open.spotify.com/artist/5hMboy5Fq7s4pF0Q5ebJj5), [Nadia Nid El Mourid](https://open.spotify.com/artist/4Xuwu3Fe7lYLHIkvGVlpsb), [Abdallah Ag Ahmed](https://open.spotify.com/artist/1vve6wGaMkX00i8HShL2wS), [Mathias Vaguenez](https://open.spotify.com/artist/7w1rIetgb3qOd0TA5OEZ0d), [Sanou Ag Ahmed](https://open.spotify.com/artist/78RQ22utV6xA4BoB0dUQWY), [Yamina Nid El Mourid](https://open.spotify.com/artist/6yvYW6kcEnqrFPZc8CYoxS) | [Kel Tamasheq \(Deluxe Edition\)](https://open.spotify.com/album/2rMmfXa4lfk9o4vkcOeVRH) | 4:44 |
 | 797 | [Yo No Tengo Pena](https://open.spotify.com/track/77Ef4ZdJQtRCztVOdpcL50) | [Angel Canales](https://open.spotify.com/artist/4bJWcXUgUrQl4E4ru6VapB) | [Más Sabor](https://open.spotify.com/album/1HBA0puMnLVoLFAgg2DPX8) | 6:10 |
@@ -1183,4 +1183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1173 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1174 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCxiMjM0YjA4NzAyZjRjZWZhN2JlZGM0MWNhZGY3YTkxNGE0ODY2YzA5`
+Snapshot ID: `MCw2ZmJkNDQzODk0M2MxYTljMWEyZjZhODBlNzA0ZTQ4ZGIyN2ZlMDA5`

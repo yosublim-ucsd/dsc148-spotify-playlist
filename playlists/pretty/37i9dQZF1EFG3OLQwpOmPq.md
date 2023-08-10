@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4e1uL7ct1eJLYsIEob5yEp">sad alex</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,012 likes - 77 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,014 likes - 77 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,20 +16,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 6 | [one that got away](https://open.spotify.com/track/6D9tzZdTwuPMxVZ2gD6GqJ) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3), [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [crydancing](https://open.spotify.com/album/5ih8vejY3A4nHGlsd2M1xD) | 2:21 |
 | 7 | [ibtc \- remix](https://open.spotify.com/track/6ypSVHZWCXAk3siHdJOspd) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3), [MILES](https://open.spotify.com/artist/5QqCSh9Ri3B7Tw6HNQkPQH) | [crydancing](https://open.spotify.com/album/5ih8vejY3A4nHGlsd2M1xD) | 2:04 |
 | 8 | [Here For You](https://open.spotify.com/track/5rzGiTAIVeAGsIVEdWEl8s) | [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB), [Sad Alex](https://open.spotify.com/artist/1KTyNO6uawc8w27nGwnZmV) | [For You](https://open.spotify.com/album/5H6qeMqv8UxMxvBTHzZ7Hc) | 2:47 |
-| 9 | [Bitter](https://open.spotify.com/track/35NDUYJIRkuYsAw7h8Zbrr) | [Yoe Mase](https://open.spotify.com/artist/4IuWSIEfIed8aZb49YA4Cj), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Bitter](https://open.spotify.com/album/2e4yd8Fv3mYfpaIYeCAfzQ) | 3:17 |
+| 9 | [Bitter](https://open.spotify.com/track/1OHv1Jg30gYtPpifU2kojg) | [Yoe Mase](https://open.spotify.com/artist/4IuWSIEfIed8aZb49YA4Cj), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Bitter](https://open.spotify.com/album/1cgmIEj8GBEADKYy9FY2md) | 3:17 |
 | 10 | [High Hopes](https://open.spotify.com/track/0N3FvAOPKg4oGJLVshk72Y) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [High Hopes](https://open.spotify.com/album/1J3tAErrryLAG4ymvG1LV6) | 2:59 |
 | 11 | [hypotheticals](https://open.spotify.com/track/1HI84AsI0wokonlV760TRT) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [hypotheticals](https://open.spotify.com/album/3VYNIeDemi3QCq5QDFwHo2) | 2:04 |
 | 12 | [rugburn](https://open.spotify.com/track/5bS2KchkARxgGxIJfrU6C9) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [rugburn](https://open.spotify.com/album/5DNLhuabPTYy8PMimMdoZl) | 2:19 |
 | 13 | [Good Catch](https://open.spotify.com/track/1aM1vmUvj3ki6VvEPMhnyP) | [Win and Woo](https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Ten Years](https://open.spotify.com/album/6SsTlYzPQEcEXs3wB324sD) | 2:35 |
 | 14 | [lovesick \(feat\. ellise\)](https://open.spotify.com/track/3KMvDzhXsVzXtTkwTfyaKh) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09), [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [joke's on you](https://open.spotify.com/album/7m81PtaaFgg72fNkVvU5gF) | 2:43 |
 | 15 | [Bipolar](https://open.spotify.com/track/7yzWKViihM9g9ISBmX7ypy) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Bipolar](https://open.spotify.com/album/0d0EAuRcevYRKmeyNGQfig) | 2:36 |
-| 16 | [nature](https://open.spotify.com/track/1a8BgdhsbE1a4tZfmKB6Qq) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [nature](https://open.spotify.com/album/1ojtegqub3YXbSq9YNj9lF) | 3:21 |
+| 16 | [nature](https://open.spotify.com/track/6eYYiKMBhutRrtbgqajgWR) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [nature](https://open.spotify.com/album/0BhmR9aCO6z5Hn59D9LkTE) | 3:21 |
 | 17 | [Don't You Worry](https://open.spotify.com/track/5PLh9vLtiBe3uTmMCOaFVZ) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Lord Quest](https://open.spotify.com/artist/1ckwRTxh0ESM12gYEUHf89) | [The Kelly Rowland Edition](https://open.spotify.com/album/0yVRzvvD1Wes1p4ffeZhhC) | 3:31 |
 | 18 | [K.](https://open.spotify.com/track/1n4ngnAbnYsfvMRuDB6du3) | [Reece](https://open.spotify.com/artist/0znYdSCG2n7myCQ8BRsJqL) | [K.](https://open.spotify.com/album/13cjffeJAT5ITEH07iWsP5) | 3:06 |
-| 19 | [almost](https://open.spotify.com/track/2TqAXfEi2xxvKAd2fCARUL) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [almost](https://open.spotify.com/album/567ogrtJ5uGutnemapW5xO) | 2:51 |
+| 19 | [almost](https://open.spotify.com/track/2pP9d8G9Hqht3TMPIUWusA) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [almost](https://open.spotify.com/album/4AVmznFXGlNwaZ8E97xHKL) | 2:51 |
 | 20 | [Like You](https://open.spotify.com/track/7p5MI2KnFzTmY31nrGWxki) | [Ghita](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Like You](https://open.spotify.com/album/0HzVZc17Up2e3QR7dB3yHD) | 2:45 |
 | 21 | [all the way over](https://open.spotify.com/track/4kFoTDLdg7VjMPjWLdmqaC) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [All the Way Over](https://open.spotify.com/album/50ZpYz9MN9r17I9mMhC1d6) | 2:32 |
-| 22 | [mess without u](https://open.spotify.com/track/6jrdQDuG6OiLvbBU7zL1b8) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [mess without u](https://open.spotify.com/album/4cGO1Zt2uM6G97rUIcQIJI) | 3:14 |
+| 22 | [mess without u](https://open.spotify.com/track/3m0MvTmpyAtL6CLhYwfZZg) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [mess without u](https://open.spotify.com/album/2fMYMGrySyyKME1LtgFRkz) | 3:14 |
 | 23 | [Give It All](https://open.spotify.com/track/7FpR0I8rasWqpct44KQBnR) | [Emily Zeck](https://open.spotify.com/artist/696x5uEm1nV6xucEZNAbzH) | [Give It All](https://open.spotify.com/album/5ghCLfm6BWAivnIQ3Jd0nD) | 3:12 |
 | 24 | [stockholm's a ghost town](https://open.spotify.com/track/7cdXnczyweF4F6v7lfB8xh) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [stockholm's a ghost town](https://open.spotify.com/album/7yv0GU6bkJGMBxI0C4H6W1) | 2:50 |
 | 25 | [I Can’t Be Me](https://open.spotify.com/track/2utvxuqh4RalwpjM3CRAmH) | [Alex Aiono](https://open.spotify.com/artist/5KPJMJR9PCfMWSfco8i4W4) | [I Can’t Be Me](https://open.spotify.com/album/1qNRDyWPSt6yw9YivJ7JT8) | 3:11 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 76 | [The Heart Always Wins](https://open.spotify.com/track/3bNXPv2uIbtc9x8YnGmjiY) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:32 |
 | 77 | [It's All Good](https://open.spotify.com/track/7k4IoEjEyhWgITb1JoF3mO) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:15 |
 
-Snapshot ID: `MjgxOTI0NjAsMDAwMDAwMDA0NjQ3ZjI2MDE4NWMyYThiYzlkZDQ5YmQzODgyZWM4Ng==`
+Snapshot ID: `MjgxOTM5MDAsMDAwMDAwMDA5YmM2N2YzMTM5YmEwM2MyN2QyYzVhMDcyM2VlNmE3NQ==`

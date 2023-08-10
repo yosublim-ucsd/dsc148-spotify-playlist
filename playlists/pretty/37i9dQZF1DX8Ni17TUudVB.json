@@ -1,12 +1,12 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 138554,
+  "num_followers": 138579,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOWI2MzY4M2YyZDFkZTdjZjgxMGZmY2NiYjcxNDRhYTRlMzlhODgz",
+  "snapshot_id": "MCxmM2IwODAxNWI5YTU4NTZhYmQ2YmQ2NWI4ZjdkYjdhODYzYTNiZWZl",
   "tracks": [
     {
       "added_at": "2023-07-28 19:09:17",
@@ -871,42 +871,6 @@
     {
       "added_at": "2023-07-28 19:09:17",
       "album": {
-        "name": "Nieve",
-        "url": "https://open.spotify.com/album/4axBgdQOZogTmpgKNQQr1C"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 140440,
-      "name": "Nieve",
-      "url": "https://open.spotify.com/track/66uR26h9WTxwKhJCWnz5J9"
-    },
-    {
-      "added_at": "2023-07-28 19:09:17",
-      "album": {
-        "name": "New Rave",
-        "url": "https://open.spotify.com/album/0fKU8zzmBjXNAJp5Uo2dml"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        }
-      ],
-      "duration_ms": 208095,
-      "name": "Kill Me Slow",
-      "url": "https://open.spotify.com/track/2NZJKUPIGfJqLAzONNr4gv"
-    },
-    {
-      "added_at": "2023-07-28 19:09:17",
-      "album": {
         "name": "Seven Nation Army (feat. KOYSINA)",
         "url": "https://open.spotify.com/album/5Esn3Dn0sLqrjo4v87Q17M"
       },
@@ -931,22 +895,38 @@
     {
       "added_at": "2023-07-28 19:09:17",
       "album": {
-        "name": "Your Love",
-        "url": "https://open.spotify.com/album/5HzqkCHI7AFVhTjvozMnXj"
+        "name": "New Rave",
+        "url": "https://open.spotify.com/album/0fKU8zzmBjXNAJp5Uo2dml"
       },
       "artists": [
         {
-          "name": "Friction",
-          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
         }
       ],
-      "duration_ms": 250264,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/0OyM0Z2wdidouJdqQKT4e7"
+      "duration_ms": 208095,
+      "name": "Kill Me Slow",
+      "url": "https://open.spotify.com/track/2NZJKUPIGfJqLAzONNr4gv"
+    },
+    {
+      "added_at": "2023-07-28 19:09:17",
+      "album": {
+        "name": "Nieve",
+        "url": "https://open.spotify.com/album/4axBgdQOZogTmpgKNQQr1C"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 140440,
+      "name": "Nieve",
+      "url": "https://open.spotify.com/track/66uR26h9WTxwKhJCWnz5J9"
     },
     {
       "added_at": "2023-07-28 19:09:17",
@@ -975,6 +955,26 @@
       "duration_ms": 234255,
       "name": "Serotonina",
       "url": "https://open.spotify.com/track/5tENzpT5sqDRc0EXQf1k6o"
+    },
+    {
+      "added_at": "2023-07-28 19:09:17",
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/5HzqkCHI7AFVhTjvozMnXj"
+      },
+      "artists": [
+        {
+          "name": "Friction",
+          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
+        },
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "duration_ms": 250264,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/0OyM0Z2wdidouJdqQKT4e7"
     },
     {
       "added_at": "2023-07-28 19:09:17",
@@ -1239,30 +1239,6 @@
     {
       "added_at": "2023-07-28 19:09:17",
       "album": {
-        "name": "Blue Dreams",
-        "url": "https://open.spotify.com/album/3R2U7mwzBgEAEPyb75ieqe"
-      },
-      "artists": [
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        },
-        {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
-        },
-        {
-          "name": "Sapir Amar",
-          "url": "https://open.spotify.com/artist/1Pjebxkm2UjQrQ5tg4kXYC"
-        }
-      ],
-      "duration_ms": 248780,
-      "name": "Blue Dreams",
-      "url": "https://open.spotify.com/track/40kMwlgBSTjg7sqK694ze3"
-    },
-    {
-      "added_at": "2023-07-28 19:09:17",
-      "album": {
         "name": "Remember the Summer (feat. Karra)",
         "url": "https://open.spotify.com/album/6B0znwNH8mpUMNgH7uO1H3"
       },
@@ -1283,6 +1259,30 @@
       "duration_ms": 170624,
       "name": "Remember the Summer (feat. Karra)",
       "url": "https://open.spotify.com/track/6S2MDC31VIH79OwGU87L0s"
+    },
+    {
+      "added_at": "2023-07-28 19:09:17",
+      "album": {
+        "name": "Blue Dreams",
+        "url": "https://open.spotify.com/album/3R2U7mwzBgEAEPyb75ieqe"
+      },
+      "artists": [
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        },
+        {
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+        },
+        {
+          "name": "Sapir Amar",
+          "url": "https://open.spotify.com/artist/1Pjebxkm2UjQrQ5tg4kXYC"
+        }
+      ],
+      "duration_ms": 248780,
+      "name": "Blue Dreams",
+      "url": "https://open.spotify.com/track/40kMwlgBSTjg7sqK694ze3"
     },
     {
       "added_at": "2023-07-28 19:09:17",

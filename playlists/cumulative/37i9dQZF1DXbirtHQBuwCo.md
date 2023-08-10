@@ -4,7 +4,7 @@
 
 > Enjoy trendy & chill Korean R&B music\. \(Cover: DPR IAN\)
 
-607 songs - 1 day 8 hr 40 min
+608 songs - 1 day 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Honestly](https://open.spotify.com/track/4xl6ouBRgiUSWCuuSaC3kb) | [HeeJin](https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks) | [Honestly](https://open.spotify.com/album/2YUFblD9rLzVfgSJVBjmhx) | 3:17 | 2022-07-27 | 2022-08-03 |
 | [Honeymoon](https://open.spotify.com/track/2ZPQAI9Co4ob1x5TS8kkiL) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey) | [Honeymoon](https://open.spotify.com/album/4q1e0pt969Sd4PaINKE0Tb) | 3:02 | 2023-07-25 | 2023-08-01 |
 | [hope you think about me](https://open.spotify.com/track/4KB7DY6xfrm9OSPA6ip4Vk) | [BLG](https://open.spotify.com/artist/0QobqfPu7petXiJQbQF3dB) | [hope you think about me](https://open.spotify.com/album/2tWn3EoabVDMVkCdBPQEJx) | 3:13 | 2022-04-19 | 2022-04-21 |
+| [Horizon](https://open.spotify.com/track/2HfAb3qB9w3t9x5e7ZjX5T) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Horizon \- NCT LAB](https://open.spotify.com/album/6zArn0lGt7ZZTCRYvbNcFf) | 3:42 | 2023-08-09 |  |
 | [How About You?](https://open.spotify.com/track/2lKyx5GVAKJUZ4wXlk3nuD) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [How About You?](https://open.spotify.com/album/508XKBxqwGYZbgHrFfqx87) | 3:18 | 2022-04-22 | 2022-07-04 |
 | [How Can You Realize?](https://open.spotify.com/track/2asKgZgqAKStPQX6ofZu8T) | [K.vsh](https://open.spotify.com/artist/0GVLMUDDJxgVWTpHcVFA2z) | [How Can You Realize?](https://open.spotify.com/album/5k4t2hn8vqG7dkIfIJFaL9) | 2:46 | 2022-04-19 | 2022-04-21 |
 | [Hug me](https://open.spotify.com/track/0DR5f8q121WNyg0Sbc1FCD) | [JEMINN](https://open.spotify.com/artist/1PuPoF4cUFMhb9xbzeKpg2) | [Hug me](https://open.spotify.com/album/1FqsLIzzvRSUGOJRZDk4mJ) | 4:37 | 2022-06-20 | 2022-06-23 |
@@ -421,7 +422,7 @@
 | [Our Time](https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [Our Time is Blue](https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE) | 3:38 | 2022-04-21 | 2022-07-22 |
 | [Out of My Intention](https://open.spotify.com/track/4pU3FwCWErzsqHs4LnzpHi) | [WEN](https://open.spotify.com/artist/0FXbobEfUaIn6Z95FSJBIE) | [Out of My Intention](https://open.spotify.com/album/3iTSukxhxuCtvyPkkBENLn) | 3:11 | 2022-07-27 | 2022-08-03 |
 | [OUTGROWN](https://open.spotify.com/track/6qNFeGOQt4gj57V4B2b6WW) | [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC) | [KHAMAI](https://open.spotify.com/album/0vnfG9S9NskFX5FPP1SxHR) | 4:16 | 2022-07-27 | 2022-08-03 |
-| [Over And Over](https://open.spotify.com/track/4D38Hxks4S9hzhkLdwoSB6) | [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Over And Over](https://open.spotify.com/album/3AIQYsmwQqqeK4gg4EVxPI) | 2:49 | 2023-07-26 |  |
+| [Over And Over](https://open.spotify.com/track/4D38Hxks4S9hzhkLdwoSB6) | [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Over And Over](https://open.spotify.com/album/3AIQYsmwQqqeK4gg4EVxPI) | 2:49 | 2023-07-26 | 2023-08-10 |
 | [Over It 너 왜 그래](https://open.spotify.com/track/1fY2pOz2r3dlWIfRJJTh3b) | [John OFA Rhee](https://open.spotify.com/artist/7iWynR4oOvJpSKOAR3zazP) | [how long can we go?](https://open.spotify.com/album/0bdyjxlFmfRR5SEmgK4dsm) | 3:47 | 2022-04-19 | 2022-04-21 |
 | [overdose](https://open.spotify.com/track/3B4Rxj4UItYuHyppE8S0gU) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [overdose](https://open.spotify.com/album/7gWO40G0L1xaZ0wEmiLmr8) | 4:15 | 2022-06-13 | 2022-07-07 |
 | [Overdose](https://open.spotify.com/track/3Zcdw90e4bErcvN44gNWrd) | [YOUNG](https://open.spotify.com/artist/1tuIoomxyxxFjNwVsDj2WD) | [Overdose](https://open.spotify.com/album/41T3tk1ZTb5aiKM2ex2cJ1) | 2:55 | 2023-07-21 | 2023-07-25 |

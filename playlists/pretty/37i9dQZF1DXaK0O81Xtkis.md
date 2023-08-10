@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: Knox
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,015 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,053 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 59 | [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 |
 | 60 | [Good Not Great](https://open.spotify.com/track/5K6VtWfjGkk1ahcVmPKbL9) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [BOY](https://open.spotify.com/album/75Cps520layAjj3UTUMC9v) | 2:12 |
 
-Snapshot ID: `MCwxZTQwYmI1NWY2MzBhODI3MzFjMDhmMjg1YWUwYjNjOWFmYzY1OTQx`
+Snapshot ID: `MCwxYzZlOGY4NGU2MTQ0ZDNiMjdmODRkMDI5YmI0MDAyNzllNjMwODNm`

@@ -1,12 +1,12 @@
 {
   "description": "Blue skies, nothing but blue skies. Sun in your eyes and uplifting jazz in your ears on a sunny day.",
-  "num_followers": 68506,
+  "num_followers": 68631,
   "original_name": "Sunny Day Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjBmZjM4NTA1M2NiNGY1ZjZjZDcwZmMzMTVkM2VjZGJlNzkxOGRm",
+  "snapshot_id": "MCxkYTU1Yjc4N2IzMTA0ZmE5OGQwODU2NmNhMTAxMmI3NWMwNzU2YTZk",
   "tracks": [
     {
       "added_at": "2023-06-21 08:03:15",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-06-21 08:03:15",
       "album": {
-        "name": "How Glad I Am",
-        "url": "https://open.spotify.com/album/4qgiPr8Wg6HpqtfZBzcKqt"
-      },
-      "artists": [
-        {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
-        }
-      ],
-      "duration_ms": 134213,
-      "name": "The Boy From Ipanema",
-      "url": "https://open.spotify.com/track/2chTka18XL8un05Pkb8Lis"
-    },
-    {
-      "added_at": "2023-06-21 08:03:15",
-      "album": {
         "name": "Perry Como with the Fontane Sisters (with The Fontane Sisters)",
         "url": "https://open.spotify.com/album/3eaYuwaKlw7yb1tjXMjtOD"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 160946,
       "name": "It's A Lovely Day Today",
       "url": "https://open.spotify.com/track/0ApUPYg8ifMJZchhFeFLDs"
+    },
+    {
+      "added_at": "2023-06-21 08:03:15",
+      "album": {
+        "name": "How Glad I Am",
+        "url": "https://open.spotify.com/album/4qgiPr8Wg6HpqtfZBzcKqt"
+      },
+      "artists": [
+        {
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+        }
+      ],
+      "duration_ms": 134213,
+      "name": "The Boy From Ipanema",
+      "url": "https://open.spotify.com/track/2chTka18XL8un05Pkb8Lis"
     },
     {
       "added_at": "2023-06-21 08:03:15",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-06-21 08:03:15",
       "album": {
-        "name": "For Those In Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 381373,
-      "name": "I Get A Kick Out Of You",
-      "url": "https://open.spotify.com/track/2nik1V49EZiLQd2XkTpR2T"
-    },
-    {
-      "added_at": "2023-06-21 08:03:15",
-      "album": {
         "name": "Inside Betty Carter",
         "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 110933,
       "name": "It's A Big Wide Wonderful World",
       "url": "https://open.spotify.com/track/7viOK0TULHr1y8RU1K0R0s"
+    },
+    {
+      "added_at": "2023-06-21 08:03:15",
+      "album": {
+        "name": "For Those In Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 381373,
+      "name": "I Get A Kick Out Of You",
+      "url": "https://open.spotify.com/track/2nik1V49EZiLQd2XkTpR2T"
     },
     {
       "added_at": "2023-06-21 08:03:15",
@@ -739,8 +739,8 @@
     {
       "added_at": "2023-06-21 08:03:15",
       "album": {
-        "name": "Anita",
-        "url": "https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw"
+        "name": "Anita O'Day Swings Cole Porter With Billy May",
+        "url": "https://open.spotify.com/album/7fW57iJNSmeL29fUnBTTIO"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
         }
       ],
-      "duration_ms": 145160,
-      "name": "You're The Top",
-      "url": "https://open.spotify.com/track/1RLrKHljWXVJ8cWQKd0zHn"
+      "duration_ms": 164840,
+      "name": "Love For Sale - 1959 Version",
+      "url": "https://open.spotify.com/track/43hj7RjOE5vXtgnqPidEv4"
     },
     {
       "added_at": "2023-06-21 08:03:15",
@@ -855,8 +855,8 @@
     {
       "added_at": "2023-06-21 08:03:15",
       "album": {
-        "name": "Anita O'Day Swings Cole Porter With Billy May",
-        "url": "https://open.spotify.com/album/7fW57iJNSmeL29fUnBTTIO"
+        "name": "Anita",
+        "url": "https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw"
       },
       "artists": [
         {
@@ -864,9 +864,9 @@
           "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
         }
       ],
-      "duration_ms": 164840,
-      "name": "Love For Sale - 1959 Version",
-      "url": "https://open.spotify.com/track/43hj7RjOE5vXtgnqPidEv4"
+      "duration_ms": 145160,
+      "name": "You're The Top",
+      "url": "https://open.spotify.com/track/1RLrKHljWXVJ8cWQKd0zHn"
     },
     {
       "added_at": "2023-06-21 08:03:15",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-06-21 08:03:15",
       "album": {
-        "name": "Desafinado",
-        "url": "https://open.spotify.com/album/4Zmp4npHwNJ3cIdwv3sWz4"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        }
-      ],
-      "duration_ms": 239173,
-      "name": "I Remember You",
-      "url": "https://open.spotify.com/track/5KlMIo1vS3LQBHNcubfcxc"
-    },
-    {
-      "added_at": "2023-06-21 08:03:15",
-      "album": {
         "name": "I Love A Love Song!",
         "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 253056,
       "name": "Is a Good Man Real?",
       "url": "https://open.spotify.com/track/2R99gxCR20nZCvnYL57Rxu"
+    },
+    {
+      "added_at": "2023-06-21 08:03:15",
+      "album": {
+        "name": "Desafinado",
+        "url": "https://open.spotify.com/album/4Zmp4npHwNJ3cIdwv3sWz4"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        }
+      ],
+      "duration_ms": 239173,
+      "name": "I Remember You",
+      "url": "https://open.spotify.com/track/5KlMIo1vS3LQBHNcubfcxc"
     },
     {
       "added_at": "2023-06-21 08:03:15",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-06-21 08:03:15",
       "album": {
-        "name": "Saga Jazz: Easy to Love (Modern Series)",
-        "url": "https://open.spotify.com/album/4HGoxGmE65LXZgedyupHjY"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker Quartet",
-          "url": "https://open.spotify.com/artist/3UcvB0rDa44LfjsOO5Btfc"
-        }
-      ],
-      "duration_ms": 167853,
-      "name": "Happy Little Sunbeam",
-      "url": "https://open.spotify.com/track/2ffSVIHPaQaHCDxkXXnJDn"
-    },
-    {
-      "added_at": "2023-06-21 08:03:15",
-      "album": {
         "name": "When You're Away",
         "url": "https://open.spotify.com/album/0zcp9PFB5tBzLS8V9ZPqgK"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 228520,
       "name": "I Only Have Eyes For You",
       "url": "https://open.spotify.com/track/6mDS8U8TRHIpAQbjKeb53B"
+    },
+    {
+      "added_at": "2023-06-21 08:03:15",
+      "album": {
+        "name": "Saga Jazz: Easy to Love (Modern Series)",
+        "url": "https://open.spotify.com/album/4HGoxGmE65LXZgedyupHjY"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker Quartet",
+          "url": "https://open.spotify.com/artist/3UcvB0rDa44LfjsOO5Btfc"
+        }
+      ],
+      "duration_ms": 167853,
+      "name": "Happy Little Sunbeam",
+      "url": "https://open.spotify.com/track/2ffSVIHPaQaHCDxkXXnJDn"
     },
     {
       "added_at": "2023-06-21 08:03:15",

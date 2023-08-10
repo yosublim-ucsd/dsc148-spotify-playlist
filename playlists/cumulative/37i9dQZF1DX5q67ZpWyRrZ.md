@@ -4,7 +4,7 @@
 
 > Best of the Indian Indie scene\. Cover \- Shreya Jain
 
-203 songs - 11 hr 37 min
+205 songs - 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Absolute](https://open.spotify.com/track/6q023Qd7l69MSdZRG7Gy2W) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Caution to the Wind](https://open.spotify.com/album/6159SMEuKlw2odRgPKtc3U) | 3:23 | 2022-01-05 | 2022-03-22 |
 | [Ae Re Sakhi](https://open.spotify.com/track/7h5jBU18CqXNhDUKRr6y7h) | [Namita Choudhary](https://open.spotify.com/artist/3OzUySgSF8QxZScB0RxDCB) | [Ae Re Sakhi](https://open.spotify.com/album/29kxXKLyYDcl0vJvnSLvcI) | 3:42 | 2022-01-10 |  |
 | [Aise Ho Tum](https://open.spotify.com/track/4wgDpX6DPzCjsAX6XK5KV0) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Aise Ho Tum](https://open.spotify.com/album/5YXNlo7YoApvoyvLDBETlA) | 4:12 | 2023-01-17 |  |
+| [Aisi Woh Baarish](https://open.spotify.com/track/3XjjpMYeKHGiiI9oM8rwSF) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Aisi Woh Baarish](https://open.spotify.com/album/0XCgG0d1PVfqfGd0k4ryWG) | 3:07 | 2023-08-09 |  |
 | [Akhiyaan](https://open.spotify.com/track/2l3dFxtoSMgMQVyRIUHjpz) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Akhiyaan](https://open.spotify.com/album/4MBCBnMZyFFv8Ch9elmLsL) | 3:11 | 2022-05-23 |  |
 | [Alag Aasmaan](https://open.spotify.com/track/74kCarkFBzXYXNkkYJIsG0) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Alag Aasmaan](https://open.spotify.com/album/2WSMj9vMUGTwAMq0fo1vXi) | 3:32 | 2021-12-06 |  |
 | [Alfaazo](https://open.spotify.com/track/6KvXpACADAz73IPrCgXobL) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Alfaazo](https://open.spotify.com/album/6xy5HvqMaDhB1EGlqE5iju) | 2:38 | 2023-04-17 |  |
@@ -86,6 +87,7 @@
 | [Jaadoogari](https://open.spotify.com/track/0HDm8hVrpUDAXLmvortmoy) | [Anand Bhaskar Collective](https://open.spotify.com/artist/45m11y8OUyx5EgHiKvEC3c) | [Jaadoogari](https://open.spotify.com/album/7xH1diJuXLqpv10oc2skWV) | 4:20 | 2021-12-06 | 2023-02-03 |
 | [jaana](https://open.spotify.com/track/5v5G6frYHlwf6YkhR0cYQN) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [jaana](https://open.spotify.com/album/5bftUl6VwWmOIUdpKret6g) | 3:01 | 2023-02-24 | 2023-03-22 |
 | [Jab Tum Miley](https://open.spotify.com/track/1JelKGBph8gon106Wqjwu2) | [Abhilasha Sinha](https://open.spotify.com/artist/3FJ13syehmla1ybPZYHYHW) | [Jab Tum Miley](https://open.spotify.com/album/5cp5qCU35snnBanBl5khvN) | 4:06 | 2021-12-06 | 2023-03-09 |
+| [Jadoo](https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Jadoo](https://open.spotify.com/album/4rgE2Rxo1YshL8GlEJNNL1) | 3:10 | 2023-08-09 |  |
 | [Je Suis La Pomme Rouge](https://open.spotify.com/track/5HzPAB3IWjlH1KHDoTuv9P) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [Je Suis La Pomme Rouge](https://open.spotify.com/album/071Ym9vm31HXWiF14VARnv) | 4:30 | 2022-01-12 | 2022-02-05 |
 | [Jiyara](https://open.spotify.com/track/3wtUeVGw8hOlJCVRxtjtZY) | [Gautam Kale](https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL) | [Jiyara](https://open.spotify.com/album/4jyfJKuTlSVfve70u1jUvv) | 2:36 | 2022-01-05 | 2022-04-05 |
 | [Junoon](https://open.spotify.com/track/1Y5treJOPB7WnAMZnsA5u8) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Junoon](https://open.spotify.com/album/5j7k8clw2nghIdjcn36Ixg) | 3:11 | 2023-03-28 | 2023-08-09 |
@@ -167,7 +169,7 @@
 | [Sage](https://open.spotify.com/track/64RkEV5b7bG697vhIPMlrl) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Sage](https://open.spotify.com/album/7sDecy4TUrJpkPnOmAiVKn) | 3:50 | 2022-01-05 | 2022-07-29 |
 | [Sajna](https://open.spotify.com/track/6Px3kJxZiQzGe9hU5twvy2) | [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Sajna](https://open.spotify.com/album/3l2xpQwu7pgc5ic1GyR1PG) | 3:25 | 2022-12-22 | 2023-01-24 |
 | [Sajni](https://open.spotify.com/track/1PvMhEinxD26qgSbyzdsh9) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Sajni](https://open.spotify.com/album/41YV2heM2DxkpqNZQKBiar) | 4:58 | 2022-01-27 | 2022-02-05 |
-| [Sanware](https://open.spotify.com/track/4qBHgJWDMuWhgWwp2FFz7z) | [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Saurabh Jain](https://open.spotify.com/artist/20YBMuBchncywfuOulfmtG) | [Sanware](https://open.spotify.com/album/1MjMz9NFcXGDktqiB5h4r5) | 4:57 | 2022-01-20 |  |
+| [Sanware](https://open.spotify.com/track/4qBHgJWDMuWhgWwp2FFz7z) | [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Saurabh Jain](https://open.spotify.com/artist/20YBMuBchncywfuOulfmtG) | [Sanware](https://open.spotify.com/album/1MjMz9NFcXGDktqiB5h4r5) | 4:57 | 2022-01-20 | 2023-08-10 |
 | [Saza\-E\-Maut](https://open.spotify.com/track/2ikI9Y7PCPIavU0TMSpF31) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Still Here](https://open.spotify.com/album/3TWJqzaophqIi6ZIm5wkux) | 3:00 | 2021-12-06 | 2022-01-06 |
 | [Sha\- Dobara](https://open.spotify.com/track/2ygS9eInDfG5prFbeeiEYC) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Sha\- Dobara](https://open.spotify.com/album/3swccYkoyOPBv0fPMbf6I1) | 3:12 | 2021-12-06 |  |
 | [Shaayad](https://open.spotify.com/track/5bCHdS1G42HA5OpEMXtrp9) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Bombay Dreams](https://open.spotify.com/album/5Y7esCvRwUxwEKFEJ6EUdU) | 3:28 | 2023-02-13 | 2023-05-01 |
@@ -192,7 +194,7 @@
 | [Tu Chodiyon Na](https://open.spotify.com/track/4trQhzRfEN0z5htXvjc5zA) | [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn) | [Tu Chodiyon Na](https://open.spotify.com/album/1DdgnxCTXd5ggIFAy3TtHe) | 3:32 | 2022-10-07 |  |
 | [Tu Hai Wajah](https://open.spotify.com/track/7zep4BfQRkfASc8qhX0cct) | [Piyush Bhisekar](https://open.spotify.com/artist/3HUf0l1HSBzHw0F5UhBOpA) | [Hai Bharosa](https://open.spotify.com/album/5gzjNeBbZlD3bDMKDxNCTL) | 3:13 | 2022-01-05 | 2022-05-24 |
 | [tu le chal](https://open.spotify.com/track/52FsMpdKeyU6dYQlHx8qpt) | [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe), [Dakait](https://open.spotify.com/artist/2BrIU10C4UeoaDFgPg44Y7), [Aniket Raturi](https://open.spotify.com/artist/1jXFRp4614WZlih5QJ51RS) | [tu le chal](https://open.spotify.com/album/2FSC8NwU8adIkchZtDEkV0) | 4:02 | 2021-12-06 | 2022-01-06 |
-| [Tum Jab Paas](https://open.spotify.com/track/3FTRSa9mWB3kKx2jkhUAN3) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Tum Jab Paas \- Single](https://open.spotify.com/album/3xyedpfAMFNgZXHuU6iV6s) | 3:55 | 2022-01-05 |  |
+| [Tum Jab Paas](https://open.spotify.com/track/3FTRSa9mWB3kKx2jkhUAN3) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Tum Jab Paas \- Single](https://open.spotify.com/album/3xyedpfAMFNgZXHuU6iV6s) | 3:55 | 2022-01-05 | 2023-08-10 |
 | [Tuta Pull Wahan](https://open.spotify.com/track/4gCVaEUubhHmhsEe0GFRVx) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Tuta Pull Wahan](https://open.spotify.com/album/2gFMOqvZHiCwD6myI65Okz) | 5:12 | 2022-07-13 | 2022-08-24 |
 | [Tuta Pull Wahan](https://open.spotify.com/track/7EYEswNmA0XjzwUitONgzK) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Tuta Pull Wahan](https://open.spotify.com/album/00BfVMr2A2C6V1fScLpMTI) | 5:13 | 2022-08-23 |  |
 | [Udaan](https://open.spotify.com/track/4P04qZvFhETXTGviFu9xL5) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Udaan](https://open.spotify.com/album/4S6vdgAvjXuO4gDE4kbxJ5) | 3:18 | 2022-01-05 | 2022-01-20 |

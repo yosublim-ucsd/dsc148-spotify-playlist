@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Cian Ducrot \(pictured\), Jorja Smith, Doja Cat and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 836,264 likes - 125 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 836,267 likes - 125 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 124 | [Somebody Like You](https://open.spotify.com/track/7jLAYW3N25Piy6lEI4WczE) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Somebody Like You](https://open.spotify.com/album/09LPF57on4STv8JhBAI6cd) | 3:20 |
 | 125 | [Summer's Day](https://open.spotify.com/track/0PyHrDAMRUmJCiuqxjkSb6) | [Yws Gwynedd](https://open.spotify.com/artist/14UpMsA1ZvDMZmFknlTOdO) | [Summer's Day](https://open.spotify.com/album/31VTBsnNkbpFv3XgdgrroJ) | 2:01 |
 
-Snapshot ID: `MCw2NjFkNTAxMjNlNzE4MjgyOWU4MGM3ZDEyNjUxOGEwMDFlMDkyMWQw`
+Snapshot ID: `MCw4MmU5NjAwZGUxYTVjYzZmMzk1Mjk2ZDlhMGM1YmQwY2M0ZTNiN2E1`

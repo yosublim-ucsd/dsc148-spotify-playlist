@@ -1,12 +1,12 @@
 {
   "description": "For all of us dancing on our own.",
-  "num_followers": 556070,
+  "num_followers": 556329,
   "original_name": "Sad Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MWY4YTFhOGRlYzVmYmUyYjAyMGJlZDRkNzUyMWMxMmNkYmFlYzMy",
+  "snapshot_id": "MCwxMGY0YTg0MmUyNzIyNjQwMDY3OGMzOWU3NTdkYTkxYzk1ZjY5M2Y4",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -719,26 +719,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Reboot",
-        "url": "https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 278200,
-      "name": "Neon Moon - with Kacey Musgraves",
-      "url": "https://open.spotify.com/track/3lVPtkNFoIyPPGVdNri4VH"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "You Know What I Need",
         "url": "https://open.spotify.com/album/0kktnSnWwAcdS0PQGAEcSM"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 170000,
       "name": "You Know What I Need",
       "url": "https://open.spotify.com/track/5PQFmB2xhRkJTUWDKccBoP"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Reboot",
+        "url": "https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 278200,
+      "name": "Neon Moon - with Kacey Musgraves",
+      "url": "https://open.spotify.com/track/3lVPtkNFoIyPPGVdNri4VH"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -939,18 +939,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Half Written Story",
-        "url": "https://open.spotify.com/album/1UPxmm7vKXqA7tO7Y3XklR"
+        "name": "Hopeless Romantic",
+        "url": "https://open.spotify.com/album/0sKJKrBhK5gYDdN39fLYb2"
       },
       "artists": [
         {
-          "name": "Hailee Steinfeld",
-          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
         }
       ],
-      "duration_ms": 216083,
-      "name": "I Love You's",
-      "url": "https://open.spotify.com/track/60todhJq1ScRkVxFvXTuZF"
+      "duration_ms": 181178,
+      "name": "Hopeless Romantic",
+      "url": "https://open.spotify.com/track/22VPpAWB7qzV8L9rgza11j"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Hopeless Romantic",
-        "url": "https://open.spotify.com/album/0sKJKrBhK5gYDdN39fLYb2"
+        "name": "Half Written Story",
+        "url": "https://open.spotify.com/album/1UPxmm7vKXqA7tO7Y3XklR"
       },
       "artists": [
         {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
         }
       ],
-      "duration_ms": 181178,
-      "name": "Hopeless Romantic",
-      "url": "https://open.spotify.com/track/22VPpAWB7qzV8L9rgza11j"
+      "duration_ms": 216083,
+      "name": "I Love You's",
+      "url": "https://open.spotify.com/track/60todhJq1ScRkVxFvXTuZF"
     },
     {
       "added_at": "2023-08-04 04:00:00",

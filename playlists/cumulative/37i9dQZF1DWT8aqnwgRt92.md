@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-849 songs - 2 day 5 hr 35 min
+850 songs - 2 day 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -473,7 +473,8 @@
 | [WATASHITACHI Marginal Service](https://open.spotify.com/track/05aMlgQOcdv8IcIxGh40Vz) | [ブライアン・ナイトレイダー\(CV.宮野真守\)](https://open.spotify.com/artist/6UnV8YKsYQosXeBMfq9GqP), [ゼノ・ストークス\(CV.森川智之\)](https://open.spotify.com/artist/0IljlUqmZ6MeeMe8drVUP4), [ボルツ・デクスター\(CV.杉田智和\)](https://open.spotify.com/artist/2p7VuZ2Aq1zR2vXodU6GfH), [ロビン・ティンバート\(CV.中村悠一\)](https://open.spotify.com/artist/56FPkPzV0zsE2mHfsNXcYL), [ライラ・キャンディハート\(CV.名塚佳織\)](https://open.spotify.com/artist/4N8NOReEz18c15XLvVcch4), [サイラス・N・空閑\(CV.下野紘\)](https://open.spotify.com/artist/5nkKXRKKxw6WZKLWnT8lkA), [セオドア・トンプソン\(CV.三木眞一郎\)](https://open.spotify.com/artist/7vtJXzGCl0lEZDTcVPpoQc), [ペック・デズモント\(CV.内山昂輝\)](https://open.spotify.com/artist/1Y5IHVVB3JvwBGQBa3t6XR) | [WATASHITACHI Marginal Service \(TV Animation ”THE MARGINAL SERVICE”\)](https://open.spotify.com/album/7HOYKTTVHVILbEUF1FqfWi) | 3:35 | 2023-04-11 | 2023-04-26 |
 | [Way to go](https://open.spotify.com/track/5CZ9ZyPs6di7ScOJa6YQmJ) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [Way to go](https://open.spotify.com/album/7zEQZQRLbiXZynF6MCJFxW) | 4:03 | 2023-01-10 | 2023-04-09 |
 | [WE WILL!!](https://open.spotify.com/track/1LJhBOJ0WD4n28K8Tp9AOg) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [WE WILL!!](https://open.spotify.com/album/1tOOzv1BUFulpiX5uiKnih) | 3:36 | 2022-08-02 | 2022-08-24 |
-| [Weight of the World/壊レタ世界ノ歌 \- from CrosSing](https://open.spotify.com/track/1470Upad2tvXPSsP1mEpFL) | [石川由依](https://open.spotify.com/artist/3Fbj6asAxpJaUNc725YhHt) | [Weight of the World/壊レタ世界ノ歌 \- from CrosSing](https://open.spotify.com/album/3RGxbihsJaa9V2dJywra8g) | 5:44 | 2023-08-08 |  |
+| [Weight of the World/Kowareta Sekai no Uta \- From CrosSing](https://open.spotify.com/track/45GCLrLOLkphfCNidiJPG4) | [Ishikawa Yui](https://open.spotify.com/artist/0YknJYTpMVMYveiGuchPlQ) | [Weight of the World/Kowareta Sekai no Uta \- From CrosSing](https://open.spotify.com/album/6FKSN2j91q6gLEAtnMbEvb) | 5:44 | 2023-08-08 |  |
+| [Weight of the World/壊レタ世界ノ歌 \- from CrosSing](https://open.spotify.com/track/1470Upad2tvXPSsP1mEpFL) | [石川由依](https://open.spotify.com/artist/3Fbj6asAxpJaUNc725YhHt) | [Weight of the World/壊レタ世界ノ歌 \- from CrosSing](https://open.spotify.com/album/3RGxbihsJaa9V2dJywra8g) | 5:44 | 2023-08-08 | 2023-08-10 |
 | [Welcome to RAINBOW WONDERLAND!](https://open.spotify.com/track/0G9J0B4paCSANpUFpXKlIN) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [Welcome to MY WONDERLAND](https://open.spotify.com/album/0yReU2G889wJ9bJmNnGhHb) | 3:53 | 2022-09-27 | 2022-10-28 |
 | [Whatever Comes\(Opening Edit\)](https://open.spotify.com/track/68JznVdudTCLyC7sUf2XB2) | [TM NETWORK](https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB) | [Whatever Comes\(Opening Edit\)](https://open.spotify.com/album/164t7qgPOhrJ31rR6p3x6O) | 1:35 | 2023-06-13 | 2023-07-19 |
 | [Where Do We Go?](https://open.spotify.com/track/3n2YaCic0C3gjCgkTkwfOz) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [Where Do We Go?](https://open.spotify.com/album/13ukRIGlCs6RbRAvDVzhF8) | 3:22 | 2023-04-27 | 2023-07-14 |

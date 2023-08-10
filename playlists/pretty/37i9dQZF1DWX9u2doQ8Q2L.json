@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 373922,
+  "num_followers": 373942,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDBmZjUxYjk5MTMwYThmZGQ2YjkwOTM1OTgxZmMyNTUxMjVmMGFi",
+  "snapshot_id": "MCxlMTc0M2E5NGIwNzhhYjlhYTIxZmI1OTM0NzRjMDlmZDgzZTkwMzgz",
   "tracks": [
     {
       "added_at": "2023-08-08 15:00:00",
@@ -192,7 +192,7 @@
       "added_at": "2023-08-08 15:00:00",
       "album": {
         "name": "DAY feat. PUNPEE",
-        "url": "https://open.spotify.com/album/3JSnXlgvU4BlaDHnHXy0L5"
+        "url": "https://open.spotify.com/album/6m4Ju35ORC4APD8X9bQREC"
       },
       "artists": [
         {
@@ -206,7 +206,7 @@
       ],
       "duration_ms": 226019,
       "name": "DAY feat. PUNPEE",
-      "url": "https://open.spotify.com/track/5bEsbEK9Kvh0mURRLw82rF"
+      "url": "https://open.spotify.com/track/2SnYJgNCLeLmYqLBDn4PVx"
     },
     {
       "added_at": "2023-08-08 15:00:00",
@@ -268,7 +268,7 @@
       "added_at": "2023-08-08 15:00:00",
       "album": {
         "name": "RIDE",
-        "url": "https://open.spotify.com/album/2FdtmggO6Jl7q9XauCVy3a"
+        "url": "https://open.spotify.com/album/45tl32WBDXpa7Gsgo0atzZ"
       },
       "artists": [
         {
@@ -286,7 +286,7 @@
       ],
       "duration_ms": 159282,
       "name": "RIDE",
-      "url": "https://open.spotify.com/track/4CNDOtQV2ycQ2drmpyM1JO"
+      "url": "https://open.spotify.com/track/6HlopwTXKBrTMzIW6NxjMV"
     },
     {
       "added_at": "2023-08-08 15:00:00",
@@ -351,18 +351,18 @@
     {
       "added_at": "2023-08-08 15:00:00",
       "album": {
-        "name": "Nagisa",
-        "url": "https://open.spotify.com/album/1AtPpQ0av1ugXZ1QhjMQkK"
+        "name": "\u71c8",
+        "url": "https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz"
       },
       "artists": [
         {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+          "name": "Soushi Sakiyama",
+          "url": "https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA"
         }
       ],
-      "duration_ms": 226489,
-      "name": "Nagisa",
-      "url": "https://open.spotify.com/track/0bdAQ9dwLA5cJtgM05PRKW"
+      "duration_ms": 238720,
+      "name": "\u71c8",
+      "url": "https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr"
     },
     {
       "added_at": "2023-08-08 15:00:00",
@@ -391,18 +391,18 @@
     {
       "added_at": "2023-08-08 15:00:00",
       "album": {
-        "name": "\u71c8",
-        "url": "https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz"
+        "name": "Nagisa",
+        "url": "https://open.spotify.com/album/1AtPpQ0av1ugXZ1QhjMQkK"
       },
       "artists": [
         {
-          "name": "Soushi Sakiyama",
-          "url": "https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA"
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
         }
       ],
-      "duration_ms": 238720,
-      "name": "\u71c8",
-      "url": "https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr"
+      "duration_ms": 226489,
+      "name": "Nagisa",
+      "url": "https://open.spotify.com/track/0bdAQ9dwLA5cJtgM05PRKW"
     },
     {
       "added_at": "2023-08-08 15:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-08-08 15:00:00",
       "album": {
-        "name": "\u30b9\u30ab\u30d5\u30a3\u30f3\u306e\u3046\u305f",
-        "url": "https://open.spotify.com/album/3EmJjo9wN19HWDyoFMSgp1"
-      },
-      "artists": [
-        {
-          "name": "\u4e2d\u6751\u4f73\u7a42",
-          "url": "https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u"
-        }
-      ],
-      "duration_ms": 150903,
-      "name": "\u30b9\u30ab\u30d5\u30a3\u30f3\u306e\u3046\u305f",
-      "url": "https://open.spotify.com/track/6J6oZQOtnPZap0gHG88DSi"
-    },
-    {
-      "added_at": "2023-08-08 15:00:00",
-      "album": {
         "name": "Bee and The Whales",
         "url": "https://open.spotify.com/album/3KmWWl1gxY0qT5TWF92wgs"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 207624,
       "name": "\u6b7b\u3093\u3067\u304f\u308c",
       "url": "https://open.spotify.com/track/3zriGDrUvCWdY40Gd1xZGf"
+    },
+    {
+      "added_at": "2023-08-08 15:00:00",
+      "album": {
+        "name": "\u30b9\u30ab\u30d5\u30a3\u30f3\u306e\u3046\u305f",
+        "url": "https://open.spotify.com/album/3EmJjo9wN19HWDyoFMSgp1"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u6751\u4f73\u7a42",
+          "url": "https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u"
+        }
+      ],
+      "duration_ms": 150903,
+      "name": "\u30b9\u30ab\u30d5\u30a3\u30f3\u306e\u3046\u305f",
+      "url": "https://open.spotify.com/track/6J6oZQOtnPZap0gHG88DSi"
     },
     {
       "added_at": "2023-08-08 15:00:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-08-08 15:00:00",
       "album": {
+        "name": "Mouth Flash (Kuchinohanabi)",
+        "url": "https://open.spotify.com/album/0M6EYq1XZBMbBe7TRTasu2"
+      },
+      "artists": [
+        {
+          "name": "Hakushi Hasegawa",
+          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
+        }
+      ],
+      "duration_ms": 230266,
+      "name": "Mouth Flash (Kuchinohanabi)",
+      "url": "https://open.spotify.com/track/7ab0UuDPSaMymJ9oCYDMnT"
+    },
+    {
+      "added_at": "2023-08-08 15:00:00",
+      "album": {
         "name": "tokyo (feat. \u9234\u6728\u771f\u6d77\u5b50, Skaai)",
         "url": "https://open.spotify.com/album/0HAFkJH7wyUpNEZJMB6pP6"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 303156,
       "name": "tokyo (feat. \u9234\u6728\u771f\u6d77\u5b50, Skaai)",
       "url": "https://open.spotify.com/track/3tL2fCJDegsWrsCZEZTf82"
-    },
-    {
-      "added_at": "2023-08-08 15:00:00",
-      "album": {
-        "name": "Mouth Flash (Kuchinohanabi)",
-        "url": "https://open.spotify.com/album/0M6EYq1XZBMbBe7TRTasu2"
-      },
-      "artists": [
-        {
-          "name": "Hakushi Hasegawa",
-          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
-        }
-      ],
-      "duration_ms": 230266,
-      "name": "Mouth Flash (Kuchinohanabi)",
-      "url": "https://open.spotify.com/track/7ab0UuDPSaMymJ9oCYDMnT"
     },
     {
       "added_at": "2023-08-08 15:00:00",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2023-08-08 15:00:00",
       "album": {
-        "name": "n.o.y.b (feat. Furui Riho)",
-        "url": "https://open.spotify.com/album/3GPIrOmn7HCQp52OD6Gnhf"
-      },
-      "artists": [
-        {
-          "name": "Shin Sakiura",
-          "url": "https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8"
-        },
-        {
-          "name": "Furui Riho",
-          "url": "https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh"
-        }
-      ],
-      "duration_ms": 237115,
-      "name": "n.o.y.b (feat. Furui Riho)",
-      "url": "https://open.spotify.com/track/0znEN9HIkCXf4wZn16hVJD"
-    },
-    {
-      "added_at": "2023-08-08 15:00:00",
-      "album": {
         "name": "ANGRY ANGRY",
         "url": "https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe"
       },
@@ -1351,6 +1331,26 @@
       "duration_ms": 136866,
       "name": "ANGRY ANGRY",
       "url": "https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR"
+    },
+    {
+      "added_at": "2023-08-08 15:00:00",
+      "album": {
+        "name": "n.o.y.b (feat. Furui Riho)",
+        "url": "https://open.spotify.com/album/3GPIrOmn7HCQp52OD6Gnhf"
+      },
+      "artists": [
+        {
+          "name": "Shin Sakiura",
+          "url": "https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8"
+        },
+        {
+          "name": "Furui Riho",
+          "url": "https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh"
+        }
+      ],
+      "duration_ms": 237115,
+      "name": "n.o.y.b (feat. Furui Riho)",
+      "url": "https://open.spotify.com/track/0znEN9HIkCXf4wZn16hVJD"
     },
     {
       "added_at": "2023-08-08 15:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-08-08 15:00:00",
       "album": {
-        "name": "Talkin' Talkin'",
-        "url": "https://open.spotify.com/album/76D9Qr6EaD8P56RKKjgCF9"
-      },
-      "artists": [
-        {
-          "name": "Awesome City Club",
-          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
-        }
-      ],
-      "duration_ms": 224366,
-      "name": "Talkin' Talkin'",
-      "url": "https://open.spotify.com/track/5qvsE4V7Vpqa8GHDHQoQta"
-    },
-    {
-      "added_at": "2023-08-08 15:00:00",
-      "album": {
         "name": "How You Feel",
         "url": "https://open.spotify.com/album/3qgty8ZFzuSYC7WNG0GOQX"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 183493,
       "name": "How You Feel",
       "url": "https://open.spotify.com/track/3LIhLCx8GJIxEgBjjliNAt"
+    },
+    {
+      "added_at": "2023-08-08 15:00:00",
+      "album": {
+        "name": "Talkin' Talkin'",
+        "url": "https://open.spotify.com/album/76D9Qr6EaD8P56RKKjgCF9"
+      },
+      "artists": [
+        {
+          "name": "Awesome City Club",
+          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
+        }
+      ],
+      "duration_ms": 224366,
+      "name": "Talkin' Talkin'",
+      "url": "https://open.spotify.com/track/5qvsE4V7Vpqa8GHDHQoQta"
     },
     {
       "added_at": "2023-08-08 15:00:00",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2023-08-08 15:00:00",
       "album": {
+        "name": "You Just Walked In My Life",
+        "url": "https://open.spotify.com/album/3r6AKB3Zf1lTcG0et17Hdz"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "duration_ms": 179040,
+      "name": "You Just Walked In My Life",
+      "url": "https://open.spotify.com/track/7eRHytSFVvMRNk1at0HkWs"
+    },
+    {
+      "added_at": "2023-08-08 15:00:00",
+      "album": {
         "name": "Make-up Shadow (feat. \u3072\u304b\u308a)",
         "url": "https://open.spotify.com/album/6bfo9YaG53xHfQoYhw5mgQ"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 255853,
       "name": "Make-up Shadow (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/4f3emoZ35w869TmpnIxcI3"
-    },
-    {
-      "added_at": "2023-08-08 15:00:00",
-      "album": {
-        "name": "You Just Walked In My Life",
-        "url": "https://open.spotify.com/album/3r6AKB3Zf1lTcG0et17Hdz"
-      },
-      "artists": [
-        {
-          "name": "CHANMINA",
-          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
-        }
-      ],
-      "duration_ms": 179040,
-      "name": "You Just Walked In My Life",
-      "url": "https://open.spotify.com/track/7eRHytSFVvMRNk1at0HkWs"
     },
     {
       "added_at": "2023-08-08 15:00:00",
@@ -1711,38 +1711,6 @@
     {
       "added_at": "2023-08-08 15:00:00",
       "album": {
-        "name": "Clockwise",
-        "url": "https://open.spotify.com/album/3ZYJ3qfsls9eOCR2WcoAPF"
-      },
-      "artists": [
-        {
-          "name": "Newspeak",
-          "url": "https://open.spotify.com/artist/3eaUqC1a64Qk1pjNBv5L71"
-        }
-      ],
-      "duration_ms": 206986,
-      "name": "Clockwise",
-      "url": "https://open.spotify.com/track/4d5utY9ixyUP7FIkwtJHzp"
-    },
-    {
-      "added_at": "2023-08-08 15:00:00",
-      "album": {
-        "name": "\u982c\u306b\u3072\u3068\u53e3",
-        "url": "https://open.spotify.com/album/1OseQ5LUgKXP4M6UNnspyj"
-      },
-      "artists": [
-        {
-          "name": "kojikoji",
-          "url": "https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs"
-        }
-      ],
-      "duration_ms": 209837,
-      "name": "\u982c\u306b\u3072\u3068\u53e3",
-      "url": "https://open.spotify.com/track/6YEzgjuFl1bmtVUZ04Ozlr"
-    },
-    {
-      "added_at": "2023-08-08 15:00:00",
-      "album": {
         "name": "\u63a5\u543b (feat. \u3072\u304b\u308a & MELRAW)",
         "url": "https://open.spotify.com/album/4I1YDrFEUJO6l0Oy3jsgcR"
       },
@@ -1767,6 +1735,22 @@
     {
       "added_at": "2023-08-08 15:00:00",
       "album": {
+        "name": "Clockwise",
+        "url": "https://open.spotify.com/album/3ZYJ3qfsls9eOCR2WcoAPF"
+      },
+      "artists": [
+        {
+          "name": "Newspeak",
+          "url": "https://open.spotify.com/artist/3eaUqC1a64Qk1pjNBv5L71"
+        }
+      ],
+      "duration_ms": 206986,
+      "name": "Clockwise",
+      "url": "https://open.spotify.com/track/4d5utY9ixyUP7FIkwtJHzp"
+    },
+    {
+      "added_at": "2023-08-08 15:00:00",
+      "album": {
         "name": "nestling",
         "url": "https://open.spotify.com/album/1sqB7PoKaqf4QiCaRlZpUq"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 227122,
       "name": "nestling",
       "url": "https://open.spotify.com/track/2eXkWpzzJVQ57l6DOQec7y"
+    },
+    {
+      "added_at": "2023-08-08 15:00:00",
+      "album": {
+        "name": "\u982c\u306b\u3072\u3068\u53e3",
+        "url": "https://open.spotify.com/album/1OseQ5LUgKXP4M6UNnspyj"
+      },
+      "artists": [
+        {
+          "name": "kojikoji",
+          "url": "https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs"
+        }
+      ],
+      "duration_ms": 209837,
+      "name": "\u982c\u306b\u3072\u3068\u53e3",
+      "url": "https://open.spotify.com/track/6YEzgjuFl1bmtVUZ04Ozlr"
     },
     {
       "added_at": "2023-08-08 15:00:00",

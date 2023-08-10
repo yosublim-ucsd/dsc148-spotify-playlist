@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 192973,
+  "num_followers": 193066,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNGQwZDNiN2RmMzJlZDM4ODc3OTExZWExNDVjMjE4YjM4ZmRjMjg1",
+  "snapshot_id": "MCwxZTdhZjQ3MDA4NDcwYzM3NDIxNzQ1ZDRhNjI3OWNkM2Q0YTQ1ZjM0",
   "tracks": [
     {
       "added_at": "2020-12-08 15:12:11",
@@ -283,18 +283,18 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Hail Destroyer",
-        "url": "https://open.spotify.com/album/4zR3343ue909iFnr6odhK3"
+        "name": "State Of The World Address",
+        "url": "https://open.spotify.com/album/6vlx9tTK4GMMflGu1wZVzn"
       },
       "artists": [
         {
-          "name": "Cancer Bats",
-          "url": "https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc"
+          "name": "Biohazard",
+          "url": "https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1"
         }
       ],
-      "duration_ms": 196680,
-      "name": "Hail Destroyer",
-      "url": "https://open.spotify.com/track/0XNm4jXda363NhHBoOp5II"
+      "duration_ms": 225960,
+      "name": "Down for Life",
+      "url": "https://open.spotify.com/track/5PbC9tBONAbLTDTfMvzndz"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -315,18 +315,18 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "State Of The World Address",
-        "url": "https://open.spotify.com/album/6vlx9tTK4GMMflGu1wZVzn"
+        "name": "Hail Destroyer",
+        "url": "https://open.spotify.com/album/4zR3343ue909iFnr6odhK3"
       },
       "artists": [
         {
-          "name": "Biohazard",
-          "url": "https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1"
+          "name": "Cancer Bats",
+          "url": "https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc"
         }
       ],
-      "duration_ms": 225960,
-      "name": "Down for Life",
-      "url": "https://open.spotify.com/track/5PbC9tBONAbLTDTfMvzndz"
+      "duration_ms": 196680,
+      "name": "Hail Destroyer",
+      "url": "https://open.spotify.com/track/0XNm4jXda363NhHBoOp5II"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -379,22 +379,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "In This Defiance",
-        "url": "https://open.spotify.com/album/6o19cWdtFGOklZA1n658GH"
-      },
-      "artists": [
-        {
-          "name": "Strife",
-          "url": "https://open.spotify.com/artist/68qsduRCs8caw95bbF4IDD"
-        }
-      ],
-      "duration_ms": 147186,
-      "name": "Blistered",
-      "url": "https://open.spotify.com/track/4GdInZSiS6HeCjYf4LMXgn"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Punk Rock Jukebox",
         "url": "https://open.spotify.com/album/0d1R6Y3apuX2qB5MOP61F6"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 121360,
       "name": "Somebody's Gonna Get Their Head Kicked In",
       "url": "https://open.spotify.com/track/3jxtdFRy3VX71AbEPEjKgq"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "In This Defiance",
+        "url": "https://open.spotify.com/album/6o19cWdtFGOklZA1n658GH"
+      },
+      "artists": [
+        {
+          "name": "Strife",
+          "url": "https://open.spotify.com/artist/68qsduRCs8caw95bbF4IDD"
+        }
+      ],
+      "duration_ms": 147186,
+      "name": "Blistered",
+      "url": "https://open.spotify.com/track/4GdInZSiS6HeCjYf4LMXgn"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -459,22 +459,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Break Down The Walls",
-        "url": "https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX"
-      },
-      "artists": [
-        {
-          "name": "Youth Of Today",
-          "url": "https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL"
-        }
-      ],
-      "duration_ms": 124373,
-      "name": "Break Down the Walls",
-      "url": "https://open.spotify.com/track/32dTnE7cWjEHCUAjSEvpiM"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Count Me In",
         "url": "https://open.spotify.com/album/6qDsZxas2r5Ye6EmHk8Wnv"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 181226,
       "name": "Break Through It All",
       "url": "https://open.spotify.com/track/4WN54cERPExpnOs1adL5nB"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Break Down The Walls",
+        "url": "https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX"
+      },
+      "artists": [
+        {
+          "name": "Youth Of Today",
+          "url": "https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL"
+        }
+      ],
+      "duration_ms": 124373,
+      "name": "Break Down the Walls",
+      "url": "https://open.spotify.com/track/32dTnE7cWjEHCUAjSEvpiM"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -507,22 +507,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Silence Is Betrayal",
-        "url": "https://open.spotify.com/album/7tIMZsN8CNgmkgA5zFulUv"
-      },
-      "artists": [
-        {
-          "name": "First Blood",
-          "url": "https://open.spotify.com/artist/4z2rZXnFuTCl75Vpb26Eg0"
-        }
-      ],
-      "duration_ms": 53168,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/2rf23PCJH09ZAc8eq4yL1B"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "What Doesn't Kill You Will Make You Stronger",
         "url": "https://open.spotify.com/album/4TOosWzdrqh1WxHkRbvxMZ"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 196720,
       "name": "Blood",
       "url": "https://open.spotify.com/track/0ai9xvb85BylFJ9JP2ogxe"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Silence Is Betrayal",
+        "url": "https://open.spotify.com/album/7tIMZsN8CNgmkgA5zFulUv"
+      },
+      "artists": [
+        {
+          "name": "First Blood",
+          "url": "https://open.spotify.com/artist/4z2rZXnFuTCl75Vpb26Eg0"
+        }
+      ],
+      "duration_ms": 53168,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/2rf23PCJH09ZAc8eq4yL1B"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -619,22 +619,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Cognicide",
-        "url": "https://open.spotify.com/album/1GQrz6GLWJ9WNijMQH4MzH"
-      },
-      "artists": [
-        {
-          "name": "Western Addiction",
-          "url": "https://open.spotify.com/artist/7xnD2Codf7FyLxsqPh8CIA"
-        }
-      ],
-      "duration_ms": 97266,
-      "name": "Mailer, Meet Jim",
-      "url": "https://open.spotify.com/track/0jxUbJ6Yoj74NqXuOTkI6a"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "This Is Just the Beginning",
         "url": "https://open.spotify.com/album/7dQvyMUCPrvgLNmvjvC7C4"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 96053,
       "name": "Can't Take It Away",
       "url": "https://open.spotify.com/track/1oBPEkzGxFXHQvF5RfFws2"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Cognicide",
+        "url": "https://open.spotify.com/album/1GQrz6GLWJ9WNijMQH4MzH"
+      },
+      "artists": [
+        {
+          "name": "Western Addiction",
+          "url": "https://open.spotify.com/artist/7xnD2Codf7FyLxsqPh8CIA"
+        }
+      ],
+      "duration_ms": 97266,
+      "name": "Mailer, Meet Jim",
+      "url": "https://open.spotify.com/track/0jxUbJ6Yoj74NqXuOTkI6a"
     },
     {
       "added_at": "2020-12-08 15:12:11",

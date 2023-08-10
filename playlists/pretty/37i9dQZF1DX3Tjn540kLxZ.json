@@ -1,12 +1,12 @@
 {
   "description": "all-day bops you can always rely on \u25e1\u0308\n",
-  "num_followers": 170453,
+  "num_followers": 170490,
   "original_name": "free refills",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NGNkYzYzYzI3YWNiZDVjZjI1MjBiN2IyY2UyN2U1MGM5ZjYyYjYw",
+  "snapshot_id": "MCxiZjg0NTg1NDMxZDRmMDhmNzY1ZDlmNzBmZGQ1Y2JmMjlmZTQxMjc1",
   "tracks": [
     {
       "added_at": "2023-01-18 17:37:10",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-01-04 23:35:04",
       "album": {
-        "name": "Backwards Directions",
-        "url": "https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF"
-      },
-      "artists": [
-        {
-          "name": "Abby Sage",
-          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
-        }
-      ],
-      "duration_ms": 187072,
-      "name": "Backwards Directions",
-      "url": "https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9"
-    },
-    {
-      "added_at": "2023-01-04 23:35:04",
-      "album": {
         "name": "The Kiss Of Venus (Dominic Fike)",
         "url": "https://open.spotify.com/album/2GtO6b1fzw82cCdbp4CGQv"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 143530,
       "name": "The Kiss Of Venus (Dominic Fike)",
       "url": "https://open.spotify.com/track/3gCYle76USfbHa7VDTDg5V"
+    },
+    {
+      "added_at": "2023-01-04 23:35:04",
+      "album": {
+        "name": "Backwards Directions",
+        "url": "https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF"
+      },
+      "artists": [
+        {
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+        }
+      ],
+      "duration_ms": 187072,
+      "name": "Backwards Directions",
+      "url": "https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9"
     },
     {
       "added_at": "2023-01-04 23:35:04",
@@ -901,22 +901,6 @@
       "url": "https://open.spotify.com/track/4NnNGFTcMv5OK1LvIA2Wgw"
     },
     {
-      "added_at": "2023-01-04 23:35:04",
-      "album": {
-        "name": "Selfish Soul",
-        "url": "https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N"
-      },
-      "artists": [
-        {
-          "name": "Sudan Archives",
-          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
-        }
-      ],
-      "duration_ms": 142666,
-      "name": "Selfish Soul",
-      "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
-    },
-    {
       "added_at": "2023-01-18 17:37:10",
       "album": {
         "name": "Borderline Insane",
@@ -935,6 +919,22 @@
       "duration_ms": 139664,
       "name": "Borderline Insane",
       "url": "https://open.spotify.com/track/3G48URkjBTbQLTwW8mz1Po"
+    },
+    {
+      "added_at": "2023-01-04 23:35:04",
+      "album": {
+        "name": "Selfish Soul",
+        "url": "https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N"
+      },
+      "artists": [
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        }
+      ],
+      "duration_ms": 142666,
+      "name": "Selfish Soul",
+      "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
     },
     {
       "added_at": "2023-01-04 23:35:04",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-01-04 23:35:04",
       "album": {
-        "name": "There's Always Going To Be Something",
-        "url": "https://open.spotify.com/album/1qjaY5r4U3OcqPfLfIQwxn"
-      },
-      "artists": [
-        {
-          "name": "Jackie Hayes",
-          "url": "https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt"
-        }
-      ],
-      "duration_ms": 133636,
-      "name": "omg",
-      "url": "https://open.spotify.com/track/6klN3VguUtcDdJcteXxi0X"
-    },
-    {
-      "added_at": "2023-01-04 23:35:04",
-      "album": {
         "name": "i run like this",
         "url": "https://open.spotify.com/album/5dTdx1hbSnJtbLnvGajIRc"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 182250,
       "name": "buzzkill bummer",
       "url": "https://open.spotify.com/track/1wMBG8bzSjlupviNxOxsyX"
+    },
+    {
+      "added_at": "2023-01-04 23:35:04",
+      "album": {
+        "name": "There's Always Going To Be Something",
+        "url": "https://open.spotify.com/album/1qjaY5r4U3OcqPfLfIQwxn"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hayes",
+          "url": "https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt"
+        }
+      ],
+      "duration_ms": 133636,
+      "name": "omg",
+      "url": "https://open.spotify.com/track/6klN3VguUtcDdJcteXxi0X"
     },
     {
       "added_at": "2023-01-04 23:35:04",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-01-04 23:35:04",
       "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/3U4yJ1rULRDNhQweRGVs3L"
-      },
-      "artists": [
-        {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
-        }
-      ],
-      "duration_ms": 224561,
-      "name": "Crown",
-      "url": "https://open.spotify.com/track/0eejiUWdzDJ0dmy5xpzmId"
-    },
-    {
-      "added_at": "2023-01-04 23:35:04",
-      "album": {
         "name": "forest avenue",
         "url": "https://open.spotify.com/album/5n1cTgcLYpugGWHNQJqAba"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 171746,
       "name": "slow dance partner",
       "url": "https://open.spotify.com/track/0qkdpmnFRbU1h2CzQewHSR"
+    },
+    {
+      "added_at": "2023-01-04 23:35:04",
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/3U4yJ1rULRDNhQweRGVs3L"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "duration_ms": 224561,
+      "name": "Crown",
+      "url": "https://open.spotify.com/track/0eejiUWdzDJ0dmy5xpzmId"
     },
     {
       "added_at": "2023-01-04 23:35:04",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-01-04 23:35:04",
       "album": {
-        "name": "never knows best",
-        "url": "https://open.spotify.com/album/41akXQXQLDtiEfVg9vmaSY"
-      },
-      "artists": [
-        {
-          "name": "boyband",
-          "url": "https://open.spotify.com/artist/4OxvOPeLvZWDxihwqtOC4D"
-        }
-      ],
-      "duration_ms": 162424,
-      "name": "birth by sleep",
-      "url": "https://open.spotify.com/track/3iXPcNi7FjEcqkNgaphySr"
-    },
-    {
-      "added_at": "2023-01-04 23:35:04",
-      "album": {
         "name": "Closure & Campari: After Hours",
         "url": "https://open.spotify.com/album/0PO6VGoUkhnPMOcUWT3V2Y"
       },
@@ -1671,18 +1655,18 @@
     {
       "added_at": "2023-01-04 23:35:04",
       "album": {
-        "name": "Always Tomorrow (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5BA2VC4hcCxvSVWvIOjxou"
+        "name": "never knows best",
+        "url": "https://open.spotify.com/album/41akXQXQLDtiEfVg9vmaSY"
       },
       "artists": [
         {
-          "name": "Best Coast",
-          "url": "https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu"
+          "name": "boyband",
+          "url": "https://open.spotify.com/artist/4OxvOPeLvZWDxihwqtOC4D"
         }
       ],
-      "duration_ms": 176244,
-      "name": "All Alone",
-      "url": "https://open.spotify.com/track/4PDsW99c5cADBvydBuQac7"
+      "duration_ms": 162424,
+      "name": "birth by sleep",
+      "url": "https://open.spotify.com/track/3iXPcNi7FjEcqkNgaphySr"
     },
     {
       "added_at": "2023-01-04 23:35:04",
@@ -1699,6 +1683,22 @@
       "duration_ms": 193600,
       "name": "Coming For Ya",
       "url": "https://open.spotify.com/track/5jAfv9Pn47goB2LD67Yimh"
+    },
+    {
+      "added_at": "2023-01-04 23:35:04",
+      "album": {
+        "name": "Always Tomorrow (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5BA2VC4hcCxvSVWvIOjxou"
+      },
+      "artists": [
+        {
+          "name": "Best Coast",
+          "url": "https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu"
+        }
+      ],
+      "duration_ms": 176244,
+      "name": "All Alone",
+      "url": "https://open.spotify.com/track/4PDsW99c5cADBvydBuQac7"
     },
     {
       "added_at": "2023-01-04 23:35:04",

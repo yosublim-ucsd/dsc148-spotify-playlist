@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: Art School Girlfriend
 
-1,670 songs - 4 day 3 hr 23 min
+1,671 songs - 4 day 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1021,7 +1021,8 @@
 | [Nobody \- Chartreuse Re\-edit](https://open.spotify.com/track/0lKrMfUTy0n8QarmcEjBSo) | [Bess Atwell](https://open.spotify.com/artist/6Pim5E5Lm03COsjHj2aEiK), [Chartreuse](https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW) | [Nobody \(Chartreuse Re\-edit\)](https://open.spotify.com/album/6WSMFzhcU77sfIX5wlmGMB) | 2:36 | 2022-09-15 | 2022-09-23 |
 | [Nobody Scared](https://open.spotify.com/track/0XW3UfxGKohQPt7FxaCuHU) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Nobody Scared](https://open.spotify.com/album/3ssYNO0NqPUMYJFjk9qtAW) | 3:39 | 2021-05-14 | 2021-07-09 |
 | [Noodle Poodle](https://open.spotify.com/track/5Dt4AAF4DAiPOXA7StJw9C) | [NiNE8](https://open.spotify.com/artist/0b3ISAJg1jwifewBgTwTHG) | [Noodle Poodle](https://open.spotify.com/album/4Yttcr64MtYTglzlAfO2OH) | 3:44 | 2022-09-29 | 2023-01-27 |
-| [Norwegian Wood](https://open.spotify.com/track/0hqwO626QOUFYQjuKSkgOJ) | [Picture Parlour](https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV) | [Norwegian Wood](https://open.spotify.com/album/7awWgs9eg9Us5jQg4nm5Ck) | 3:34 | 2023-06-22 |  |
+| [Norwegian Wood](https://open.spotify.com/track/0hqwO626QOUFYQjuKSkgOJ) | [Picture Parlour](https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV) | [Norwegian Wood](https://open.spotify.com/album/7awWgs9eg9Us5jQg4nm5Ck) | 3:34 | 2023-06-22 | 2023-08-10 |
+| [Norwegian Wood](https://open.spotify.com/track/50Wusuhe7GBuOr5xGZlyGe) | [Picture Parlour](https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV) | [Norwegian Wood](https://open.spotify.com/album/4vXzCKpcnI930OU3QNCOLW) | 3:34 | 2023-08-03 |  |
 | [not like my friends](https://open.spotify.com/track/4vp5GAw3Eig4FTXJHmSi7Y) | [Jazmine Flowers](https://open.spotify.com/artist/24vkpuyIDXuQ1nGGPChhcA) | [adulting](https://open.spotify.com/album/2PiZrMjCpevh70sEt9vDL3) | 3:05 | 2021-10-16 | 2021-10-29 |
 | [Nothing Clever, Just Feelings](https://open.spotify.com/track/7CqO0bA88qDratba4TDrU0) | [CLT DRP](https://open.spotify.com/artist/0y7VykZdOB8wIsAQfr2S4M) | [Nothing Clever, Just Feelings](https://open.spotify.com/album/7Ga90eVTkfDeuF3IuIaZ96) | 4:03 | 2023-06-08 | 2023-07-21 |
 | [Nothing Left To Lose](https://open.spotify.com/track/02zPsXmSUP6Rr1Z2w5KMpf) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Nothing Left To Lose](https://open.spotify.com/album/2NQLpA0EfQtDIMViTywa69) | 3:44 | 2023-01-13 | 2023-03-25 |

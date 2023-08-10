@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: Kirnbauer, Joaquina Mertz, María Centeno & Noa Sainz.
 
-528 songs - 1 day 6 hr 14 min
+529 songs - 1 day 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,7 @@
 | [La Luna](https://open.spotify.com/track/7dISBFSBaBcIip9ih3fGK0) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv), [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [La Luna](https://open.spotify.com/album/2LWPcWBh5aoYF7IXKwziqd) | 2:52 | 2022-07-15 | 2022-09-05 |
 | [La Luna Y Las Melodías](https://open.spotify.com/track/4ZlwfAQkhzubvMHbwFSSpw) | [Christiane](https://open.spotify.com/artist/0gPv17HJgCgwcKNvvtR0na) | [La Luna Y Las Melodías](https://open.spotify.com/album/1JcK7fmGvIDfPqNgbb86eQ) | 3:19 | 2022-01-14 | 2022-07-23 |
 | [La Manada](https://open.spotify.com/track/42xqEQYMvIfW4DBHFWGGve) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [La Manada](https://open.spotify.com/album/39eY6IRUOQufdaCqAzOejK) | 2:44 | 2022-01-21 | 2022-07-06 |
-| [La Mariposa](https://open.spotify.com/track/56Q5cYrFTvaHbHmApsLdgI) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6) | [Sopita de pan](https://open.spotify.com/album/3XqCraq3luG498wyPggqup) | 4:24 | 2023-06-09 |  |
+| [La Mariposa](https://open.spotify.com/track/56Q5cYrFTvaHbHmApsLdgI) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6) | [Sopita de pan](https://open.spotify.com/album/3XqCraq3luG498wyPggqup) | 4:24 | 2023-06-09 | 2023-08-10 |
 | [La Mariposa](https://open.spotify.com/track/7rwX7XG5n6uZQJb56wi6Ps) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6) | [La Mariposa](https://open.spotify.com/album/6z8h6Kt2P7N89CveweUf37) | 4:28 | 2022-01-21 | 2022-07-26 |
 | [La Montaña](https://open.spotify.com/track/580JHhlEFykGzMxEMepXW8) | [Fakuta](https://open.spotify.com/artist/5qW2pOdPhEkkBlsUjcGdhD) | [La Montaña](https://open.spotify.com/album/0t3VjLfrjhOCj5IHHe6dIL) | 3:55 | 2022-01-21 | 2022-07-28 |
 | [La Música Puede Llevarte](https://open.spotify.com/track/40v0r3ChshozzYYciCKtgP) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [Lo Que Me Haces Sentir](https://open.spotify.com/album/7KhylKVPFvw83sag5eROHg) | 4:37 | 2022-01-21 | 2022-07-29 |
@@ -382,6 +382,7 @@
 | [Pirámides](https://open.spotify.com/track/3fyL3KXUbseLdAQsXwTdsK) | [Romina Pechin](https://open.spotify.com/artist/7fzUQFFjRbuTNthKsJNEpk) | [Pirámides](https://open.spotify.com/album/4JiLb3OMls1aghneiuHwEE) | 3:59 | 2022-03-04 | 2022-06-29 |
 | [Pisteando](https://open.spotify.com/track/5P7mZRTMySmENUDsF5XkYB) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [Pisteando](https://open.spotify.com/album/2Oexya8VXIAXVHiuVcDXvE) | 2:13 | 2022-01-21 | 2022-07-29 |
 | [Playa](https://open.spotify.com/track/3D7dTIOjSEeCeXkhc1vyMF) | [Juanita La O](https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT) | [Playa](https://open.spotify.com/album/1pAyDmvq2KzwzuNqVJszFJ) | 2:55 | 2022-01-21 | 2022-07-20 |
+| [poco a poquito](https://open.spotify.com/track/1Oqq5oMYoJQEes4ceR79yR) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [poco a poquito](https://open.spotify.com/album/34OvzPhuB3LjqiXYv2jU0b) | 2:48 | 2023-08-04 |  |
 | [PODER \- Lilith: 6](https://open.spotify.com/track/71UfArMaP4KvUhVBPswRIo) | [MARÍA](https://open.spotify.com/artist/0L26KOsNaEDlbjWUUSWcZ3), [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [PODER \- Lilith: 6](https://open.spotify.com/album/11qFPljBCOXEVSWimELQ0S) | 3:11 | 2022-05-06 | 2022-07-10 |
 | [Por Ejemplo](https://open.spotify.com/track/7FCSPIeHH6w4fIX1vce8jR) | [Florci](https://open.spotify.com/artist/4jx0f2l8ytWRAmPSPwG37A) | [Por Ejemplo](https://open.spotify.com/album/37H0pIBJUrczULCvhzfYCM) | 4:13 | 2022-04-01 | 2022-04-20 |
 | [Postales Blancas](https://open.spotify.com/track/39YxebBGVOUcG6PpqbWNhi) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [Tigre Ulli](https://open.spotify.com/album/26DNyRdYyLd0PE555D8aqU) | 2:07 | 2022-01-21 | 2022-07-07 |

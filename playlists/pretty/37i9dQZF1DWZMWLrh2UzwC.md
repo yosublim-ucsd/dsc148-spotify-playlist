@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: James Arthur
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,830 likes - 67 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,839 likes - 67 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 66 | [Baby Gotta Go](https://open.spotify.com/track/3m2iUQo91QYjEbjLYAokUV) | [Soft Pine](https://open.spotify.com/artist/2GT63EyB3EMBmSJXOupIwx) | [Baby Gotta Go](https://open.spotify.com/album/2juRZ4mfe5Qkc2Rp7etX5A) | 3:03 |
 | 67 | [TT \(terrible things\)](https://open.spotify.com/track/5fMToMVlBhYxO9vYeHgrkD) | [bird.](https://open.spotify.com/artist/5ZR9GMo2iB8nxetEtvRdey) | [oshin](https://open.spotify.com/album/4z5TSk891ox2zzk5VKZCiB) | 2:49 |
 
-Snapshot ID: `MCw2YzlmY2FkZDczZDAzZTZmNTIwMzFjYWY2NDQ3MWM1ZmQ4NDgzOWU0`
+Snapshot ID: `MCw0YzNkYjMxYmNlNThkNjkyN2I4ZGU0YTBmMGY1OWYwNmE2NzRlOGRm`

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 71492,
+  "num_followers": 71597,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmQ3YWFjNzRlNDU1Zjc1YzcwOTg3ZTdiNjM1YmEwMGQzYzlkMTAy",
+  "snapshot_id": "MCxhODNmNDljNTJhMGFiYTYzZmFhNDg0ZjU0MTliOTg1MmQ2MjY5ZmE1",
   "tracks": [
     {
       "added_at": "2023-07-28 04:38:09",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-07-28 04:38:09",
       "album": {
-        "name": "Um Corpo no Mundo",
-        "url": "https://open.spotify.com/album/6Qg6H9Uo0Iymf3OROPLSDN"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 224466,
-      "name": "Acalanto",
-      "url": "https://open.spotify.com/track/5TTWOyGAjATPEuDiTIRd62"
-    },
-    {
-      "added_at": "2023-07-28 04:38:09",
-      "album": {
         "name": "Meu Amor",
         "url": "https://open.spotify.com/album/074aWj0vTp7r0JTZWBvvOQ"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 146347,
       "name": "Meu Amor",
       "url": "https://open.spotify.com/track/6QXTXu1Rezdb7gMcVvRXeC"
+    },
+    {
+      "added_at": "2023-07-28 04:38:09",
+      "album": {
+        "name": "Um Corpo no Mundo",
+        "url": "https://open.spotify.com/album/6Qg6H9Uo0Iymf3OROPLSDN"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 224466,
+      "name": "Acalanto",
+      "url": "https://open.spotify.com/track/5TTWOyGAjATPEuDiTIRd62"
     },
     {
       "added_at": "2023-07-28 04:38:09",
@@ -295,22 +295,22 @@
     {
       "added_at": "2023-07-28 04:38:09",
       "album": {
-        "name": "Alto Mar",
-        "url": "https://open.spotify.com/album/6DahyEuFWlMu8ECGM2lrDX"
+        "name": "N\u00f3 de Marinheiro",
+        "url": "https://open.spotify.com/album/54DlwnuTFRJrla9vBfrleb"
       },
       "artists": [
         {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
         },
         {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+          "name": "Banda Eva",
+          "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
         }
       ],
-      "duration_ms": 197982,
-      "name": "Alto Mar",
-      "url": "https://open.spotify.com/track/7GwO8ewOutzHzL3HeMbxK4"
+      "duration_ms": 183503,
+      "name": "N\u00f3 de Marinheiro",
+      "url": "https://open.spotify.com/track/5NpflpKeOfJcHaaczrJgGj"
     },
     {
       "added_at": "2023-07-28 04:38:09",
@@ -359,22 +359,22 @@
     {
       "added_at": "2023-07-28 04:38:09",
       "album": {
-        "name": "N\u00f3 de Marinheiro",
-        "url": "https://open.spotify.com/album/54DlwnuTFRJrla9vBfrleb"
+        "name": "Alto Mar",
+        "url": "https://open.spotify.com/album/6DahyEuFWlMu8ECGM2lrDX"
       },
       "artists": [
         {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
         },
         {
-          "name": "Banda Eva",
-          "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
         }
       ],
-      "duration_ms": 183503,
-      "name": "N\u00f3 de Marinheiro",
-      "url": "https://open.spotify.com/track/5NpflpKeOfJcHaaczrJgGj"
+      "duration_ms": 197982,
+      "name": "Alto Mar",
+      "url": "https://open.spotify.com/track/7GwO8ewOutzHzL3HeMbxK4"
     },
     {
       "added_at": "2023-07-28 04:38:09",
@@ -623,6 +623,26 @@
     {
       "added_at": "2023-07-28 04:38:09",
       "album": {
+        "name": "15b",
+        "url": "https://open.spotify.com/album/0ZhVogkbSisiDQ5DMfNsRc"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        },
+        {
+          "name": "Mariana Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "15b",
+      "url": "https://open.spotify.com/track/2w6VBGVuYOJe8oo4YXBEf4"
+    },
+    {
+      "added_at": "2023-07-28 04:38:09",
+      "album": {
         "name": "raiz",
         "url": "https://open.spotify.com/album/0YetCaCRXkQxlnVAhWBJA5"
       },
@@ -635,26 +655,6 @@
       "duration_ms": 164705,
       "name": "cora\u00e7\u00e3o tambor",
       "url": "https://open.spotify.com/track/1udnY2gnCBJQ3ZYOkRrPCi"
-    },
-    {
-      "added_at": "2023-07-28 04:38:09",
-      "album": {
-        "name": "Ana",
-        "url": "https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        },
-        {
-          "name": "Fran",
-          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
-        }
-      ],
-      "duration_ms": 232899,
-      "name": "Vem C\u00e1",
-      "url": "https://open.spotify.com/track/4nRM0WwUuXCCkQMKD4xWFF"
     },
     {
       "added_at": "2023-07-28 04:38:09",
@@ -695,6 +695,26 @@
     {
       "added_at": "2023-07-28 04:38:09",
       "album": {
+        "name": "Ana",
+        "url": "https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        },
+        {
+          "name": "Fran",
+          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
+        }
+      ],
+      "duration_ms": 232899,
+      "name": "Vem C\u00e1",
+      "url": "https://open.spotify.com/track/4nRM0WwUuXCCkQMKD4xWFF"
+    },
+    {
+      "added_at": "2023-07-28 04:38:09",
+      "album": {
         "name": "Trevo, Figuinha e Suor na Camisa",
         "url": "https://open.spotify.com/album/5AYV4MJslPN48xaab39ZuW"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 170453,
       "name": "Trevo, Figuinha e Suor na Camisa",
       "url": "https://open.spotify.com/track/5XlSsxpTi0usJnQSUwBORk"
-    },
-    {
-      "added_at": "2023-07-28 04:38:09",
-      "album": {
-        "name": "15b",
-        "url": "https://open.spotify.com/album/0ZhVogkbSisiDQ5DMfNsRc"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        },
-        {
-          "name": "Mariana Froes",
-          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "15b",
-      "url": "https://open.spotify.com/track/2w6VBGVuYOJe8oo4YXBEf4"
     },
     {
       "added_at": "2023-07-28 04:38:09",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-07-28 04:38:09",
       "album": {
+        "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
+        "url": "https://open.spotify.com/album/1hPfRy9zgpPB9KTlcB9dlM"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 271293,
+      "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
+      "url": "https://open.spotify.com/track/4juBGpkEJrSbWUPUW0prlA"
+    },
+    {
+      "added_at": "2023-07-28 04:38:09",
+      "album": {
         "name": "Maior Que N\u00f3s",
         "url": "https://open.spotify.com/album/1mRbqQtEQ4NvHOgPK9MA51"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 172119,
       "name": "Maior Que N\u00f3s",
       "url": "https://open.spotify.com/track/3oiTGo0oNxtT1kQvZHMyCe"
-    },
-    {
-      "added_at": "2023-07-28 04:38:09",
-      "album": {
-        "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
-        "url": "https://open.spotify.com/album/1hPfRy9zgpPB9KTlcB9dlM"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 271293,
-      "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
-      "url": "https://open.spotify.com/track/4juBGpkEJrSbWUPUW0prlA"
     },
     {
       "added_at": "2023-07-28 04:38:09",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-07-28 04:38:09",
       "album": {
+        "name": "In\u00edcio",
+        "url": "https://open.spotify.com/album/7ER1Dk5IUHB3KOrEgBBDVr"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "duration_ms": 192371,
+      "name": "Conto as Horas",
+      "url": "https://open.spotify.com/track/6IHBJfVaRtSqmjIVwWLsJb"
+    },
+    {
+      "added_at": "2023-07-28 04:38:09",
+      "album": {
         "name": "Coisa de Contar",
         "url": "https://open.spotify.com/album/3PNpuS5h9p94XBIYNZNnNI"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 194198,
       "name": "Coisa de Contar",
       "url": "https://open.spotify.com/track/4OTk4Bb4In0msne2ctxD1Q"
-    },
-    {
-      "added_at": "2023-07-28 04:38:09",
-      "album": {
-        "name": "In\u00edcio",
-        "url": "https://open.spotify.com/album/7ER1Dk5IUHB3KOrEgBBDVr"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        }
-      ],
-      "duration_ms": 192371,
-      "name": "Conto as Horas",
-      "url": "https://open.spotify.com/track/6IHBJfVaRtSqmjIVwWLsJb"
     },
     {
       "added_at": "2023-07-28 04:38:09",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-07-28 04:38:09",
       "album": {
-        "name": "Sorriso De Agog\u00f4",
-        "url": "https://open.spotify.com/album/7p22uztBa6bw19hV7Jcqz9"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 196146,
-      "name": "Sorriso De Agog\u00f4",
-      "url": "https://open.spotify.com/track/5GjXV8tRa3E75x2yT7hyHO"
-    },
-    {
-      "added_at": "2023-07-28 04:38:09",
-      "album": {
         "name": "Lua Nova",
         "url": "https://open.spotify.com/album/14AZf0JZKJgmls9y59eA2c"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 161250,
       "name": "Lua Nova",
       "url": "https://open.spotify.com/track/5uZDrsNXW8qUuP9pli1CO3"
+    },
+    {
+      "added_at": "2023-07-28 04:38:09",
+      "album": {
+        "name": "Sorriso De Agog\u00f4",
+        "url": "https://open.spotify.com/album/7p22uztBa6bw19hV7Jcqz9"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 196146,
+      "name": "Sorriso De Agog\u00f4",
+      "url": "https://open.spotify.com/track/5GjXV8tRa3E75x2yT7hyHO"
     },
     {
       "added_at": "2023-07-28 04:38:09",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-07-28 04:38:09",
       "album": {
-        "name": "Lua Vai, Lua Vem",
-        "url": "https://open.spotify.com/album/4XxMT3mZQTZlr1T8lGwQaX"
-      },
-      "artists": [
-        {
-          "name": "Tha\u00efs Morell",
-          "url": "https://open.spotify.com/artist/1ESEFcOYV9ooFj3Hf0KgqB"
-        }
-      ],
-      "duration_ms": 216721,
-      "name": "Lua Vai, Lua Vem",
-      "url": "https://open.spotify.com/track/6E8h5omaLR37mlc8MgqnmS"
-    },
-    {
-      "added_at": "2023-07-28 04:38:09",
-      "album": {
         "name": "Capim-Cidreira (Infus\u00e3o)",
         "url": "https://open.spotify.com/album/0SxtvIuXfAQ4odtxNReDV5"
       },
@@ -1267,22 +1251,18 @@
     {
       "added_at": "2023-07-28 04:38:09",
       "album": {
-        "name": "Rainha da Minha Bateria",
-        "url": "https://open.spotify.com/album/4K1kQ0sCisJeVB6rGTgPMu"
+        "name": "Lua Vai, Lua Vem",
+        "url": "https://open.spotify.com/album/4XxMT3mZQTZlr1T8lGwQaX"
       },
       "artists": [
         {
-          "name": "Bruno Chelles",
-          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
-        },
-        {
-          "name": "Juliano Moreira",
-          "url": "https://open.spotify.com/artist/0NMZpUOrXHGb4YoVZfW5lL"
+          "name": "Tha\u00efs Morell",
+          "url": "https://open.spotify.com/artist/1ESEFcOYV9ooFj3Hf0KgqB"
         }
       ],
-      "duration_ms": 243850,
-      "name": "Rainha da Minha Bateria",
-      "url": "https://open.spotify.com/track/64OwpI7W3UF4IKWOmPhji7"
+      "duration_ms": 216721,
+      "name": "Lua Vai, Lua Vem",
+      "url": "https://open.spotify.com/track/6E8h5omaLR37mlc8MgqnmS"
     },
     {
       "added_at": "2023-07-28 04:38:09",
@@ -1303,6 +1283,26 @@
       "duration_ms": 208589,
       "name": "Se N\u00e3o Fosse por Ontem",
       "url": "https://open.spotify.com/track/0dzjAcnlQ1zg8HPRIuuNbX"
+    },
+    {
+      "added_at": "2023-07-28 04:38:09",
+      "album": {
+        "name": "Rainha da Minha Bateria",
+        "url": "https://open.spotify.com/album/4K1kQ0sCisJeVB6rGTgPMu"
+      },
+      "artists": [
+        {
+          "name": "Bruno Chelles",
+          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
+        },
+        {
+          "name": "Juliano Moreira",
+          "url": "https://open.spotify.com/artist/0NMZpUOrXHGb4YoVZfW5lL"
+        }
+      ],
+      "duration_ms": 243850,
+      "name": "Rainha da Minha Bateria",
+      "url": "https://open.spotify.com/track/64OwpI7W3UF4IKWOmPhji7"
     },
     {
       "added_at": "2023-07-28 04:38:09",

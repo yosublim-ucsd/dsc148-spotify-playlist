@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > N.I.N.A e mais mulheres para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,402 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,439 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 40 | [A Trança](https://open.spotify.com/track/0qyvAoh5RL05BlUbGTnYBm) | [Mih](https://open.spotify.com/artist/61zf1QL76js0BddVLq77lj), [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [A Trança](https://open.spotify.com/album/2I9FyslpABgSZQ7zKizUGb) | 2:27 |
 | 41 | [Preta Patrícia](https://open.spotify.com/track/3IkBv7RRbbZchtrO4hziB6) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i) | [Preta Patrícia](https://open.spotify.com/album/6aTXMJZMd1AAeTkLHCrTOX) | 4:14 |
 | 42 | [Tira Uma Foto](https://open.spotify.com/track/0ISIcAK9wIUs76bS8vPxK7) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Tira Uma Foto](https://open.spotify.com/album/7Bvg4IJIBa2ewWmOEHe7X1) | 2:09 |
-| 43 | [Bonde da Oakley](https://open.spotify.com/track/5ed4MVmX152hyN9W5QY50D) | [Jovem MK](https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR) | [Da Viela Pro Mundo](https://open.spotify.com/album/5VqImQimN6ayrkJGGdbmQ5) | 2:59 |
-| 44 | [Sugar Mama](https://open.spotify.com/track/2LZ8dfz3QNxj7qKlj31DBK) | [Dagrace](https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT) | [Sugar Mama](https://open.spotify.com/album/5XStrLbjNWcEC61FXPeKfu) | 1:18 |
+| 43 | [Sugar Mama](https://open.spotify.com/track/2LZ8dfz3QNxj7qKlj31DBK) | [Dagrace](https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT) | [Sugar Mama](https://open.spotify.com/album/5XStrLbjNWcEC61FXPeKfu) | 1:18 |
+| 44 | [Bonde da Oakley](https://open.spotify.com/track/5ed4MVmX152hyN9W5QY50D) | [Jovem MK](https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR) | [Da Viela Pro Mundo](https://open.spotify.com/album/5VqImQimN6ayrkJGGdbmQ5) | 2:59 |
 | 45 | [Calma](https://open.spotify.com/track/2ePkP29FCterBBR1SynVoh) | [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge) | [Urucum](https://open.spotify.com/album/23Zw9VnwKnrSkbGGJQKwPi) | 2:32 |
 | 46 | [Tive Recaída](https://open.spotify.com/track/1AKffxwnW9xcABVI17Dn8L) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Mega Da Rainha](https://open.spotify.com/album/1mCnUUpeiGRAq3aiDaoBoT) | 1:28 |
 | 47 | [Artilheira](https://open.spotify.com/track/2H1MEMcbfbKy4NhU5bjDDt) | [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw) | [Artilheira](https://open.spotify.com/album/5UBrZrDLOB8OdhSeFy9cTr) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Fora da Rota](https://open.spotify.com/track/72ZaPUEn3S7dFrQaZVemtL) | [Natalhão](https://open.spotify.com/artist/5ptoEbRZaVPuPXvWdsRrWc), [Amanda Sarmento](https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Fora da Rota](https://open.spotify.com/album/0vUQD3M3ALEwMud3ZC7ZyF) | 2:53 |
 | 50 | [LÁBIOS PRETOS](https://open.spotify.com/track/4mMiGFnKLpay24NVEnPNHN) | [Anna Suav](https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX), [Bruna BG](https://open.spotify.com/artist/1djfP54UKe6svnBXiFI4HQ), [Karen Francis](https://open.spotify.com/artist/6aXHEtswFvSFtstG4jTsEU) | [LÁBIOS PRETOS](https://open.spotify.com/album/31CvR2FGEXffTHElWSOmOT) | 4:45 |
 
-Snapshot ID: `MCwzNjYzZjc2M2RlMDA2MjQ0YTVlNjRlNzMyNjhkNWYxMjE2N2FiYzdm`
+Snapshot ID: `MCw5NDhkYmQ0YmY0NzdjNmY5MGZhODUzNTJiNTU1ZmNiN2Y2ODIzNDIz`

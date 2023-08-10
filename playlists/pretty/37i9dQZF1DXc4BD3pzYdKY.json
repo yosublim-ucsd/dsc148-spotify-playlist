@@ -1,12 +1,12 @@
 {
   "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy?si=31be8d0d68a64c36\">Trip Lee</a>",
-  "num_followers": 131687,
+  "num_followers": 131826,
   "original_name": "The Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlN2Q3ZWNhOTA3OGUwM2E4MTQwMTBjMjExNTI5YzQ3OWExOGJjNjVh",
+  "snapshot_id": "MCxhYWUyMDUzZWYyMDgxYTI4MDYzOTIwMTFmNzQ1NjQxYTAyMWJhOTVk",
   "tracks": [
     {
       "added_at": "2023-04-28 12:30:31",
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
+        "name": "Child of the King",
+        "url": "https://open.spotify.com/album/4oWD49fwlJZ19S2IRPLqIi"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 101406,
+      "name": "Child of the King",
+      "url": "https://open.spotify.com/track/3Cvks0VMX3eIndlabjb0Fd"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
         "name": "Allegiance",
         "url": "https://open.spotify.com/album/2RYPVb167Pkejxj1HQustH"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 183043,
       "name": "Allegiance",
       "url": "https://open.spotify.com/track/2qHMpLZhcLTvD9YqHHWGOV"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
-        "name": "Child of the King",
-        "url": "https://open.spotify.com/album/4oWD49fwlJZ19S2IRPLqIi"
-      },
-      "artists": [
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 101406,
-      "name": "Child of the King",
-      "url": "https://open.spotify.com/track/3Cvks0VMX3eIndlabjb0Fd"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
+        "name": "Ram in the Bush",
+        "url": "https://open.spotify.com/album/3gG2gyb4kEHRLE7TKJqXGn"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 148754,
+      "name": "Ram in the Bush",
+      "url": "https://open.spotify.com/track/1AE7szyIJmjyzMU7ocJqh2"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
         "name": "BLESSINGS",
         "url": "https://open.spotify.com/album/6ow7uliwOAfoz3q7c95zd6"
       },
@@ -679,6 +695,22 @@
       "duration_ms": 172313,
       "name": "BLESSINGS",
       "url": "https://open.spotify.com/track/4mvgPHLTLG2sOfPXgzpQmN"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "Fruits of My Labor",
+        "url": "https://open.spotify.com/album/5KcS1MD9Z0m9z2dmaGuL0b"
+      },
+      "artists": [
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+        }
+      ],
+      "duration_ms": 194388,
+      "name": "Fruits of My Labor",
+      "url": "https://open.spotify.com/track/209gShZ4rJWhT3l9jZ1cM2"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -711,42 +743,6 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "Fruits of My Labor",
-        "url": "https://open.spotify.com/album/5KcS1MD9Z0m9z2dmaGuL0b"
-      },
-      "artists": [
-        {
-          "name": "Caleb Gordon",
-          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
-        }
-      ],
-      "duration_ms": 194388,
-      "name": "Fruits of My Labor",
-      "url": "https://open.spotify.com/track/209gShZ4rJWhT3l9jZ1cM2"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/5NYaJAEfV6DHTpOjVLnq75"
-      },
-      "artists": [
-        {
-          "name": "Saint James",
-          "url": "https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi"
-        },
-        {
-          "name": "Faith Lofi",
-          "url": "https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463"
-        }
-      ],
-      "duration_ms": 160941,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/0FrINPjWFuuHwJMX1XkV2j"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
         "name": "NO WEAPON",
         "url": "https://open.spotify.com/album/1dCQ5hg9mhPYH59HCPwGJF"
       },
@@ -759,22 +755,6 @@
       "duration_ms": 224465,
       "name": "NO WEAPON",
       "url": "https://open.spotify.com/track/6gLLWeqFXGYQ5BHzKhM5y5"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
-        "name": "Ram in the Bush",
-        "url": "https://open.spotify.com/album/3gG2gyb4kEHRLE7TKJqXGn"
-      },
-      "artists": [
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 148754,
-      "name": "Ram in the Bush",
-      "url": "https://open.spotify.com/track/1AE7szyIJmjyzMU7ocJqh2"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -795,6 +775,26 @@
       "duration_ms": 147492,
       "name": "Hit My Line",
       "url": "https://open.spotify.com/track/6OfQAAc5Bempqs62jzatMv"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/5NYaJAEfV6DHTpOjVLnq75"
+      },
+      "artists": [
+        {
+          "name": "Saint James",
+          "url": "https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi"
+        },
+        {
+          "name": "Faith Lofi",
+          "url": "https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463"
+        }
+      ],
+      "duration_ms": 160941,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/0FrINPjWFuuHwJMX1XkV2j"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -863,6 +863,30 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
+        "name": "Stuff Back",
+        "url": "https://open.spotify.com/album/2fdftwjf1S6AsIFZ8UgkmC"
+      },
+      "artists": [
+        {
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+        },
+        {
+          "name": "Heavenz",
+          "url": "https://open.spotify.com/artist/5irL1slWEq9iei6AFKbBTo"
+        },
+        {
+          "name": "Church",
+          "url": "https://open.spotify.com/artist/7u7GeFTkX2dqwUkwDhMOJW"
+        }
+      ],
+      "duration_ms": 193648,
+      "name": "Stuff Back",
+      "url": "https://open.spotify.com/track/0WaH16I2aMeqSszLizdWBC"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
         "name": "shadows",
         "url": "https://open.spotify.com/album/6R6HqsC0djiNv01HQsdaBA"
       },
@@ -903,6 +927,22 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
+        "name": "Pray for Me",
+        "url": "https://open.spotify.com/album/2UPEMruUkMQxTwKsPOOZ0H"
+      },
+      "artists": [
+        {
+          "name": "J. Monty",
+          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
+        }
+      ],
+      "duration_ms": 165532,
+      "name": "Pray for Me",
+      "url": "https://open.spotify.com/track/2QDr4AmiV5sg9zc4NP7c5g"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
         "name": "BIG!",
         "url": "https://open.spotify.com/album/4kXyCIwqDxxknbozMbR7Sr"
       },
@@ -923,22 +963,6 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "Pray for Me",
-        "url": "https://open.spotify.com/album/2UPEMruUkMQxTwKsPOOZ0H"
-      },
-      "artists": [
-        {
-          "name": "J. Monty",
-          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
-        }
-      ],
-      "duration_ms": 165532,
-      "name": "Pray for Me",
-      "url": "https://open.spotify.com/track/2QDr4AmiV5sg9zc4NP7c5g"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
         "name": "Your Word My Mind",
         "url": "https://open.spotify.com/album/2sCzqIjKBqX0gnZBxak8Z6"
       },
@@ -951,30 +975,6 @@
       "duration_ms": 149300,
       "name": "Your Word My Mind",
       "url": "https://open.spotify.com/track/1PK1IQm9ic0aiRIc4qVkz7"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
-        "name": "Stuff Back",
-        "url": "https://open.spotify.com/album/2fdftwjf1S6AsIFZ8UgkmC"
-      },
-      "artists": [
-        {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
-        },
-        {
-          "name": "Heavenz",
-          "url": "https://open.spotify.com/artist/5irL1slWEq9iei6AFKbBTo"
-        },
-        {
-          "name": "Church",
-          "url": "https://open.spotify.com/artist/7u7GeFTkX2dqwUkwDhMOJW"
-        }
-      ],
-      "duration_ms": 193648,
-      "name": "Stuff Back",
-      "url": "https://open.spotify.com/track/0WaH16I2aMeqSszLizdWBC"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "Like You",
-        "url": "https://open.spotify.com/album/19paHi9Pp3DNzmo50xGJNG"
-      },
-      "artists": [
-        {
-          "name": "Bizzle",
-          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
-        }
-      ],
-      "duration_ms": 184737,
-      "name": "Like You",
-      "url": "https://open.spotify.com/track/1qYA0v6T3iDT6uVfppKgky"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
         "name": "NOTHING BUT JESUS",
         "url": "https://open.spotify.com/album/73kSxdjVUAjLoFNUsWITYw"
       },
@@ -1527,6 +1511,30 @@
       "duration_ms": 157885,
       "name": "NOTHING",
       "url": "https://open.spotify.com/track/2V4HIVB9Iv35XbCCPXpT1f"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "I Will Not",
+        "url": "https://open.spotify.com/album/63nGhI4IzyGnPxHaAO4Ykw"
+      },
+      "artists": [
+        {
+          "name": "Datin",
+          "url": "https://open.spotify.com/artist/2ZNeZlHauwGYZ9XADyjSL4"
+        },
+        {
+          "name": "Bryann T",
+          "url": "https://open.spotify.com/artist/2A1JIrO6mmH6G7Wkdx8LB0"
+        },
+        {
+          "name": "Dax Hamma",
+          "url": "https://open.spotify.com/artist/413WzacllGaX7jg4EzFxiY"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "I Will Not",
+      "url": "https://open.spotify.com/track/0ksRxJ9rgHjh7Jy83S6vLh"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1563,26 +1571,38 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "I Will Not",
-        "url": "https://open.spotify.com/album/63nGhI4IzyGnPxHaAO4Ykw"
+        "name": "Like You",
+        "url": "https://open.spotify.com/album/19paHi9Pp3DNzmo50xGJNG"
       },
       "artists": [
         {
-          "name": "Datin",
-          "url": "https://open.spotify.com/artist/2ZNeZlHauwGYZ9XADyjSL4"
-        },
-        {
-          "name": "Bryann T",
-          "url": "https://open.spotify.com/artist/2A1JIrO6mmH6G7Wkdx8LB0"
-        },
-        {
-          "name": "Dax Hamma",
-          "url": "https://open.spotify.com/artist/413WzacllGaX7jg4EzFxiY"
+          "name": "Bizzle",
+          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
         }
       ],
-      "duration_ms": 216000,
-      "name": "I Will Not",
-      "url": "https://open.spotify.com/track/0ksRxJ9rgHjh7Jy83S6vLh"
+      "duration_ms": 184737,
+      "name": "Like You",
+      "url": "https://open.spotify.com/track/1qYA0v6T3iDT6uVfppKgky"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "Band and a Drummer",
+        "url": "https://open.spotify.com/album/2WpcnkaQZdgRkvQ5sx4pjc"
+      },
+      "artists": [
+        {
+          "name": "Childlike CiCi",
+          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
+        },
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 137600,
+      "name": "Band and a Drummer",
+      "url": "https://open.spotify.com/track/79UV9XRNKSy4VhZBtTFveT"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1619,26 +1639,6 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "Band and a Drummer",
-        "url": "https://open.spotify.com/album/2WpcnkaQZdgRkvQ5sx4pjc"
-      },
-      "artists": [
-        {
-          "name": "Childlike CiCi",
-          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
-        },
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 137600,
-      "name": "Band and a Drummer",
-      "url": "https://open.spotify.com/track/79UV9XRNKSy4VhZBtTFveT"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
         "name": "Choose You",
         "url": "https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA"
       },
@@ -1651,26 +1651,6 @@
       "duration_ms": 185211,
       "name": "Choose You",
       "url": "https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
-        "name": "Go",
-        "url": "https://open.spotify.com/album/1Rtsel0lkAyFrsW1fvSBj6"
-      },
-      "artists": [
-        {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
-        },
-        {
-          "name": "J1W",
-          "url": "https://open.spotify.com/artist/1rinkeYozGduW14ex0aiuM"
-        }
-      ],
-      "duration_ms": 158709,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/6UCnERki2oEkXahKsfXVHU"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1711,6 +1691,26 @@
       "duration_ms": 158508,
       "name": "After",
       "url": "https://open.spotify.com/track/6zKGSyH5HTDWoDK2Y8BCB3"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/1Rtsel0lkAyFrsW1fvSBj6"
+      },
+      "artists": [
+        {
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+        },
+        {
+          "name": "J1W",
+          "url": "https://open.spotify.com/artist/1rinkeYozGduW14ex0aiuM"
+        }
+      ],
+      "duration_ms": 158709,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/6UCnERki2oEkXahKsfXVHU"
     },
     {
       "added_at": "2023-04-28 12:30:31",

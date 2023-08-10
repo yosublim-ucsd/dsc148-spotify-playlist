@@ -1,12 +1,12 @@
 {
   "description": "2019 highlights from the home of indie music.",
-  "num_followers": 39950,
+  "num_followers": 39970,
   "original_name": "Best of Indie 2019",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDE0ZGYwZjUyODRjYmVhNWE1ODhmOTdlYWU2NGFiMWYxNTBjMDNm",
+  "snapshot_id": "MCxiODRhODJmNDIyN2UwZTRhNWQzMjJlMjRhZDYzMTgyYWIwMjg2NDYy",
   "tracks": [
     {
       "added_at": "2022-09-16 04:53:36",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Father of the Bride",
-        "url": "https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 308733,
-      "name": "Harmony Hall",
-      "url": "https://open.spotify.com/track/39exKIvycQDgs4T6uXdyu0"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "The Slow Rush",
         "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 366066,
       "name": "Posthumous Forgiveness",
       "url": "https://open.spotify.com/track/1KcOU0q9AMXV9xi4tSzzCc"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Father of the Bride",
+        "url": "https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 308733,
+      "name": "Harmony Hall",
+      "url": "https://open.spotify.com/track/39exKIvycQDgs4T6uXdyu0"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -963,6 +963,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/65siSh34OjZPMx0obk0YRj"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 292267,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/2drEUEg0TYQR6dDEHkpuPE"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "Doom Days",
         "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 146596,
       "name": "Go",
       "url": "https://open.spotify.com/track/2GuXIMRlaxVLcU0a5jacHw"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/65siSh34OjZPMx0obk0YRj"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 292267,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/2drEUEg0TYQR6dDEHkpuPE"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "The Slow Rush",
-        "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 273026,
-      "name": "It Might Be Time",
-      "url": "https://open.spotify.com/track/558ubozatFQlweufvHa3Ip"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Doom Days",
         "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 138115,
       "name": "Doom Days",
       "url": "https://open.spotify.com/track/1TkXApzsz0a6YRArjbqprt"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "The Slow Rush",
+        "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 273026,
+      "name": "It Might Be Time",
+      "url": "https://open.spotify.com/track/558ubozatFQlweufvHa3Ip"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Sunlight",
-        "url": "https://open.spotify.com/album/3g2V8aC3c2ytEKHLeMhKBX"
-      },
-      "artists": [
-        {
-          "name": "Yuno",
-          "url": "https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa"
-        }
-      ],
-      "duration_ms": 212160,
-      "name": "Sunlight",
-      "url": "https://open.spotify.com/track/65eQZ65gCurZX0SXTfeBnc"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Charlie",
         "url": "https://open.spotify.com/album/3YUPGv1HNS6HuFbUFIsfJY"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 190946,
       "name": "Charlie",
       "url": "https://open.spotify.com/track/2SonpVAvJS3aOi63oEOTlQ"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/3g2V8aC3c2ytEKHLeMhKBX"
+      },
+      "artists": [
+        {
+          "name": "Yuno",
+          "url": "https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa"
+        }
+      ],
+      "duration_ms": 212160,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/65eQZ65gCurZX0SXTfeBnc"
     },
     {
       "added_at": "2022-09-16 04:53:36",

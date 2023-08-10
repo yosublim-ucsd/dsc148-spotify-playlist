@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "Ragam musik IDentitasku dari berbagai penjuru Jawa Barat. Cover: Angie Zelena",
+  "description": "Ragam musik IDentitasku dari berbagai penjuru Jawa Barat. Cover: Rossa",
   "name": "Suara Dari Jawa Barat",
   "tracks": [
     {
@@ -673,6 +673,24 @@
     },
     {
       "album": {
+        "name": "Khanti (Original Soundtrack from Bidadari Bermata Bening)",
+        "url": "https://open.spotify.com/album/2ff9pyMaCGKVhltK61VYTb"
+      },
+      "artists": [
+        {
+          "name": "Rossa",
+          "url": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205700,
+      "name": "Khanti (Original Soundtrack from Bidadari Bermata Bening)",
+      "url": "https://open.spotify.com/track/3UAqNuP74Su2h7zOXXIbWm"
+    },
+    {
+      "album": {
         "name": "Khayalan Tingkat Tinggi",
         "url": "https://open.spotify.com/album/0zjNUO3CQhuWDYZIeKT4l7"
       },
@@ -814,6 +832,24 @@
       "duration_ms": 182656,
       "name": "Malaria",
       "url": "https://open.spotify.com/track/4wwwdmufC8EWrU0sWpT3PB"
+    },
+    {
+      "album": {
+        "name": "Another Journey : The Beginning",
+        "url": "https://open.spotify.com/album/03623GeJY8TZR7v0KoMQs0"
+      },
+      "artists": [
+        {
+          "name": "Rossa",
+          "url": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Masih",
+      "url": "https://open.spotify.com/track/6GU3OTg3eOPlDQ4A9r1Jap"
     },
     {
       "album": {
@@ -1048,6 +1084,24 @@
       "duration_ms": 180860,
       "name": "Segar",
       "url": "https://open.spotify.com/track/23SH0rxlb47odl9HHmufOr"
+    },
+    {
+      "album": {
+        "name": "Taman Langit",
+        "url": "https://open.spotify.com/album/3f75vj6VfHVhh4v0Sw6ZzC"
+      },
+      "artists": [
+        {
+          "name": "Noah",
+          "url": "https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268855,
+      "name": "Semua Tentang Kita",
+      "url": "https://open.spotify.com/track/6ULZ6Hw2eYaiq1tlR5thcW"
     },
     {
       "album": {

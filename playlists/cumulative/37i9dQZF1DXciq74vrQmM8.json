@@ -1840,10 +1840,28 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 124489,
       "name": "CIGARETTES",
       "url": "https://open.spotify.com/track/1xJBz9XFCMZJiy6Mc4XrgC"
+    },
+    {
+      "album": {
+        "name": "LOVE + POP",
+        "url": "https://open.spotify.com/album/5God4dounbNrQtR8otCSHD"
+      },
+      "artists": [
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124489,
+      "name": "CIGARETTES",
+      "url": "https://open.spotify.com/track/3mU9L9qqhMxRbXgMXUncig"
     },
     {
       "album": {

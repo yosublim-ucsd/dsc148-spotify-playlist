@@ -4,7 +4,7 @@
 
 > Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.
 
-174 songs - 12 hr 43 min
+175 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Teach Me](https://open.spotify.com/track/0kIrIiZq1VvsZBzNL039j2) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Teach Me](https://open.spotify.com/album/4S3DGDkJjlJRR42yVCxOMl) | 3:33 | 2020-08-31 | 2023-07-29 |
 | [Teach Us That One Song](https://open.spotify.com/track/3hImGfeJiJpKI8o3C3mTzY) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Keeper of Days](https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn) | 5:54 | 2020-08-31 |  |
 | [Teach Us That One Song](https://open.spotify.com/track/5CEAfa46IDXBTnggrK2oAN) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Teach Us That One Song](https://open.spotify.com/album/6LcfPho01IaVl7LO6k39fb) | 5:54 | 2020-08-31 | 2022-07-24 |
+| [Thank God I Do](https://open.spotify.com/track/1V89zM9vgYVK4wyuasc74p) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Thank God I Do](https://open.spotify.com/album/0E1Ip2z8HR4ZYobvGTSlbJ) | 2:49 | 2023-07-28 |  |
 | [That's What I Call Free](https://open.spotify.com/track/45mQtcoDydArdV3L7Fa7Dl) | [Mas](https://open.spotify.com/artist/3f7sxX5HfXXiD3DvLm0CWm) | [That's What I Call Free](https://open.spotify.com/album/7q04MbeIiDZ6ij6EWqmqAb) | 3:51 | 2020-08-31 | 2022-11-14 |
 | [The Lord's Prayer \(It's Yours\) \- Acoustic](https://open.spotify.com/track/1baVBBJwh3e2EMvRTDI8WH) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Lord's Prayer \(It's Yours\) \[Acoustic\]](https://open.spotify.com/album/6smqQyvINcOFg13yRysvx6) | 3:44 | 2023-07-28 |  |
 | [The Secret Place \(feat\. Madison Cunningham\) \- Acoustic](https://open.spotify.com/track/2kLHSJ9B6sqDYggynPrNiA) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Children of God Acoustic Sessions](https://open.spotify.com/album/3x5CRN5vXyPcBuaFOg4D6k) | 4:43 | 2020-08-31 | 2022-07-29 |
@@ -173,7 +174,7 @@
 | [With Lifted Hands \(Acoustic\) \[feat\. Martin Smith\]](https://open.spotify.com/track/5Vmj0vCnP9Kf6PuxzERwic) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu) | [With Lifted Hands \(Acoustic\) \[feat\. Martin Smith\]](https://open.spotify.com/album/7lD371T7NrKgCnOHQq42gk) | 3:31 | 2020-08-31 |  |
 | [With Lifted Hands \(feat\. Martin Smith\) \- Acoustic](https://open.spotify.com/track/4YOy8xQckgK4b31Hnsi5nO) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu) | [With Lifted Hands \(feat\. Martin Smith\) \[Acoustic\]](https://open.spotify.com/album/2dQBR1cgnp3QwPRefwzTT4) | 3:31 | 2020-08-31 | 2022-07-29 |
 | [With You](https://open.spotify.com/track/6oE6JvYUDR3aa9JAtFvN61) | [Narrow Skies](https://open.spotify.com/artist/6YqqrMdzu6vkcS6EBzxPth) | [Seasons](https://open.spotify.com/album/2tA737IB2KdJprTDwHfmFT) | 2:49 | 2020-08-31 | 2022-07-25 |
-| [Worth Mine](https://open.spotify.com/track/31Zcf0CbOcZy4Y2LX5pBsU) | [Lydia Bricker](https://open.spotify.com/artist/77SyO2m1cq9Nua1UuNZzvR), [Daniel Robinson](https://open.spotify.com/artist/1tlNtqr5jF7Z8pR9i4RWsa) | [Worth Mine](https://open.spotify.com/album/4Xq0fqEZGhns3H5MwIMeHk) | 4:40 | 2020-08-31 |  |
+| [Worth Mine](https://open.spotify.com/track/31Zcf0CbOcZy4Y2LX5pBsU) | [Lydia Bricker](https://open.spotify.com/artist/77SyO2m1cq9Nua1UuNZzvR), [Daniel Robinson](https://open.spotify.com/artist/1tlNtqr5jF7Z8pR9i4RWsa) | [Worth Mine](https://open.spotify.com/album/4Xq0fqEZGhns3H5MwIMeHk) | 4:40 | 2020-08-31 | 2023-08-10 |
 | [Wrong](https://open.spotify.com/track/3V0xcq6HiLRuZZMuFiAAgY) | [Jordan Brown](https://open.spotify.com/artist/1WoLpIruMrKzcV8GUgM9dN) | [Wrong](https://open.spotify.com/album/4MdOCxbtM3GdC7eClrvV85) | 5:01 | 2020-08-31 | 2023-04-18 |
 | [Wrote Us a Story \- To the Sea Remix](https://open.spotify.com/track/4EWR9HYaJ3woD0dILCyFSk) | [Jenny & Tyler](https://open.spotify.com/artist/18FojbNFtWY8HKOMVSA2K4) | [Wrote Us a Story \(To the Sea Remix\)](https://open.spotify.com/album/1uHEElCMla96AuvFhcCZAD) | 3:25 | 2020-08-31 | 2023-03-26 |
 | [You Are God, Be Glorified](https://open.spotify.com/track/6uRtk4FE3HQ9MMSCzGBcsr) | [Danny O'Callaghan](https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj) | [You Are God, Be Glorified](https://open.spotify.com/album/1i5UY1ovmrkZlNyhrxMgkb) | 4:27 | 2020-08-31 |  |

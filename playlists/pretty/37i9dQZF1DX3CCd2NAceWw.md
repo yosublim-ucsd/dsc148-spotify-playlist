@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3CCd2NAceWw.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/taylorrooks/">Taylor Rooks</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12 likes - 40 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 15 likes - 40 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,16 +37,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3CCd2NAceWw.md) - [plain]
 | 27 | [Passion Fruit](https://open.spotify.com/track/52JVO9jBTTmdxncddU06sN) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Gumbo](https://open.spotify.com/album/1UbeEAPS49eulB659XSU9g) | 3:14 |
 | 28 | [wish i never](https://open.spotify.com/track/5v8oHydXFHM1je05EFyIdw) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 3:03 |
 | 29 | [Middle of the Ocean](https://open.spotify.com/track/410TZrK18uRjtsTunG14cl) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 5:56 |
-| 30 | [Crazy Tings](https://open.spotify.com/track/2Li9UJop1djc8aH4MjuJUX) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [If Orange Was A Place](https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv) | 3:02 |
-| 31 | [Waste My Time](https://open.spotify.com/track/6Vt2v8xwxcGqAOcTKlBeWo) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [age/sex/location](https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC) | 2:43 |
+| 30 | [Waste My Time](https://open.spotify.com/track/6Vt2v8xwxcGqAOcTKlBeWo) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [age/sex/location](https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC) | 2:43 |
+| 31 | [Crazy Tings](https://open.spotify.com/track/2Li9UJop1djc8aH4MjuJUX) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [If Orange Was A Place](https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv) | 3:02 |
 | 32 | [STACK IT UP \(feat\. Project Pat\)](https://open.spotify.com/track/12y1zgyEhUNbTXSagqjK20) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [6](https://open.spotify.com/album/5Tj31Y3qUvAFFamwQS6ZeO) | 3:48 |
 | 33 | [Shoestring](https://open.spotify.com/track/0NEKQk8LR8m8gBNnG3QFzk) | [Felix Ames](https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2) | [Shoestring](https://open.spotify.com/album/5G6tyxzG08lXIfhMSHzxRH) | 3:58 |
 | 34 | [Liability](https://open.spotify.com/track/2vy9Ry1TNjCD85TiCbTz0r) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 3:57 |
 | 35 | [Blood Bath](https://open.spotify.com/track/6hc9G4fJMwqRSlcwfTsaek) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [MadMan](https://open.spotify.com/album/49J8Mmm7YFMsTRVBr0hUEt) | 2:09 |
 | 36 | [Patience](https://open.spotify.com/track/2G6GODY8ZSa7vtzlzPNt9o) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Patience](https://open.spotify.com/album/14plmyqkoSBmJoPHNJvCRH) | 3:04 |
-| 37 | [CHERRY SORBET \(ft\. Sevyn Streeter\)](https://open.spotify.com/track/2uuGKdQMVCQIVrcLrybN7f) | [DIXSON](https://open.spotify.com/artist/61677A13kBwbTfqECI65p8), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [CHERRY SORBET \(ft\. Sevyn Streeter\)](https://open.spotify.com/album/3xRFXmzSh28yDeIlHVMruh) | 3:06 |
-| 38 | [Time For Me](https://open.spotify.com/track/6972gesJzavKyykRcriN0A) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III \(Deluxe\)](https://open.spotify.com/album/2actLFtpiiBZm1z0TUzMx2) | 3:59 |
+| 37 | [Time For Me](https://open.spotify.com/track/6972gesJzavKyykRcriN0A) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III \(Deluxe\)](https://open.spotify.com/album/2actLFtpiiBZm1z0TUzMx2) | 3:59 |
+| 38 | [CHERRY SORBET \(ft\. Sevyn Streeter\)](https://open.spotify.com/track/2uuGKdQMVCQIVrcLrybN7f) | [DIXSON](https://open.spotify.com/artist/61677A13kBwbTfqECI65p8), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [CHERRY SORBET \(ft\. Sevyn Streeter\)](https://open.spotify.com/album/3xRFXmzSh28yDeIlHVMruh) | 3:06 |
 | 39 | [On My Way \(feat\. El DeBarge\)](https://open.spotify.com/track/4k9AeRyrbBwgsy5DxoQXSl) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [El DeBarge](https://open.spotify.com/artist/5xO4f5QyPMYnCPRyRveBSD) | [Watch The Sun \(Deluxe\)](https://open.spotify.com/album/0AbnTdKhHNa7K7h5KBPox3) | 2:21 |
 | 40 | [Girls Love Beyoncé \(feat\. James Fauntleroy\)](https://open.spotify.com/track/56NDFbD0tCUawnqeU2wcvv) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Care Package](https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD) | 3:45 |
 
-Snapshot ID: `MCxlZmNiMGY5Zjc5M2RhMDIyMDE2MWNjZjA1NGRhMTA3ZGYxNTBmM2Nl`
+Snapshot ID: `MCxhOGY3ODc0ZmQwMzExY2JkYzJmNTJiNjNjZmQzNzVmODg1NTQyMTVi`

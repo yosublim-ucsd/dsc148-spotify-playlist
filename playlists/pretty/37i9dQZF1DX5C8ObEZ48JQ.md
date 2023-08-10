@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover:  <a href="https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd?si=EbHEGRLwTFOCcGGNx7a\-eQ"> Wordz </a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,334 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,342 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 33 | [VIDEO GIRL](https://open.spotify.com/track/0FlEwDwRmWA7naZtqbKhx9) | [Fentse.](https://open.spotify.com/artist/4ze7a3Hlh8YVc31qs0EHHc) | [VIDEO GIRL](https://open.spotify.com/album/5NMFGvtC0Y2z4FRzXWZodS) | 2:44 |
 | 34 | [BNB](https://open.spotify.com/track/6TYdcksDllQb7KFTpUl5Ek) | [Master Helpline](https://open.spotify.com/artist/4Zm1CD8ECx7N8Vrgk3AqUD), [Spaceboy Mercury](https://open.spotify.com/artist/2zVs2fq3Njex7N8CpT2PAj) | [Stories From Houtbay](https://open.spotify.com/album/5VigFY46G0uqityzdCastP) | 2:01 |
 | 35 | [Secret Lover](https://open.spotify.com/track/5wTCpN911fjwZYhnCYzX7k) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Secret Lover](https://open.spotify.com/album/0aZpLxujAEhkWnYT9yeZe1) | 2:51 |
-| 36 | [Feel So Right](https://open.spotify.com/track/32udQQaflON276EGM0jRTt) | [King Kerby](https://open.spotify.com/artist/7G7OkIfv61UXFzxzdyVA4Z), [RVMP](https://open.spotify.com/artist/5pg2tyNNF56DQvM2ByGKhv) | [Feel So Right](https://open.spotify.com/album/2GQJviYFR3Utg72Lpwbach) | 3:17 |
+| 36 | [Feel So Right](https://open.spotify.com/track/2pKM0v34uiyv7fEKWfARxR) | [King Kerby](https://open.spotify.com/artist/7G7OkIfv61UXFzxzdyVA4Z), [RVMP](https://open.spotify.com/artist/5pg2tyNNF56DQvM2ByGKhv) | [Feel So Right](https://open.spotify.com/album/4s0PMOiNGkO4wukgX8SgQc) | 3:16 |
 | 37 | [Swipe Left \- Acoustic Version](https://open.spotify.com/track/6NzpBkIGFGscz61rMe411T) | [Shad Mziki](https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO) | [Swipe Left \(Acoustic Version\)](https://open.spotify.com/album/5J3xgjSjSRh6n5ZTpTBVTY) | 3:03 |
 | 38 | [Vile Inafaa](https://open.spotify.com/track/6U2X9YMZrcc3hOMmnzpIhk) | [Garvin Mungai](https://open.spotify.com/artist/1ySToM2gqZ2iLR89TBJX81), [Bonnie Afreeka](https://open.spotify.com/artist/2fTgPrdZSSYcuCywFKTvXg) | [Vile Inafaa](https://open.spotify.com/album/2W6B908mrzSZ88ZaXPPuJ8) | 3:30 |
 | 39 | [NOX!](https://open.spotify.com/track/1BQgzLOfJRzqxa8TLMYAjC) | [Billy Black](https://open.spotify.com/artist/6znLUPGYNDVG3VoMH5UXUU) | [NOX!](https://open.spotify.com/album/0Q82AQNEKOXBoZqQDmtr7m) | 1:33 |
-| 40 | [Feel So Right](https://open.spotify.com/track/32udQQaflON276EGM0jRTt) | [King Kerby](https://open.spotify.com/artist/7G7OkIfv61UXFzxzdyVA4Z), [RVMP](https://open.spotify.com/artist/5pg2tyNNF56DQvM2ByGKhv) | [Feel So Right](https://open.spotify.com/album/2GQJviYFR3Utg72Lpwbach) | 3:17 |
+| 40 | [Feel So Right](https://open.spotify.com/track/2pKM0v34uiyv7fEKWfARxR) | [King Kerby](https://open.spotify.com/artist/7G7OkIfv61UXFzxzdyVA4Z), [RVMP](https://open.spotify.com/artist/5pg2tyNNF56DQvM2ByGKhv) | [Feel So Right](https://open.spotify.com/album/4s0PMOiNGkO4wukgX8SgQc) | 3:16 |
 | 41 | [Lagbaja](https://open.spotify.com/track/4FW8rTluyTmcf3uYAm8qrC) | [Dimi Keye](https://open.spotify.com/artist/4efVJ70KH16hdCL57EL7UN) | [Lagbaja](https://open.spotify.com/album/1iTFgbalclhMSBNDS3lbdq) | 2:40 |
 | 42 | [It's You](https://open.spotify.com/track/75E0pvft2uh1tLwJ1O9Sli) | [Petrooz](https://open.spotify.com/artist/4HLTPLigcbloihqAWILZ7C) | [Love Under Construction](https://open.spotify.com/album/1ovQhwj5S5nyVczB9ArRpN) | 3:53 |
 | 43 | [Binkolele](https://open.spotify.com/track/0zDT3yAXoFiBn0gcj91uaJ) | [Kataleya & Kandle](https://open.spotify.com/artist/1a93I0beev2mbujNJiNuA4) | [Binkolele](https://open.spotify.com/album/6MfNYhFnajErRuvwzRBC8w) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 49 | [Falling in Love](https://open.spotify.com/track/0Tnzjifkv9W8xm0wXy7gOh) | [Choccy Chox](https://open.spotify.com/artist/1Il8vHCOT51z2KfQXPJNJv) | [Falling in Love](https://open.spotify.com/album/1awIuzfs8WL23tLUeBnEf1) | 3:09 |
 | 50 | [half day](https://open.spotify.com/track/1M3TkNfhGSGnox2Xbh5GQk) | [ETB](https://open.spotify.com/artist/7ycml9pvXVpp2GYLr4l672) | [Road To PsychaHomies I](https://open.spotify.com/album/2iZgbDtVOW7MgWPwzfj31f) | 2:25 |
 
-Snapshot ID: `MCw3OGYyMGFiMTY3Zjc5OTQ1MTcyM2MxMDUyMjhhZWE0MzVkYWI5YWRm`
+Snapshot ID: `MCwyOTRkZGE2ZmM1NjdhMTA3YjY5ZTJkNzgyOGVlZjlmYzI3ZDIxMDYw`

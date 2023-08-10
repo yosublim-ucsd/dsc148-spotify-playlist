@@ -1,12 +1,12 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Willie Nelson",
-  "num_followers": 124217,
+  "num_followers": 124262,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjU2YjcxNGU4ODgxNDAwYTNkYmFlNjhmMmM4YWFlZDBmMDVmZDVi",
+  "snapshot_id": "MCw3MjZiZWIwODZiZjJiNjk2ZWVmN2Y4ODVkZDM0YTAyNzdkMjNmNzQ4",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -247,8 +247,8 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "El Dorado",
-        "url": "https://open.spotify.com/album/01pat6dFkOovUam3FEHaaV"
+        "name": "City of Gold",
+        "url": "https://open.spotify.com/album/3LAherx4Gg7LCOWQo25lBK"
       },
       "artists": [
         {
@@ -262,7 +262,7 @@
       ],
       "duration_ms": 263899,
       "name": "El Dorado",
-      "url": "https://open.spotify.com/track/4qL1jujA2oQ2REmXOIonGb"
+      "url": "https://open.spotify.com/track/54M6qWsxkihPmM5KBa7LE0"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -287,18 +287,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "How the Mighty Fall",
-        "url": "https://open.spotify.com/album/0xSyaaBZ3hrYf8rROAs125"
+        "name": "Life Is Good on the Open Road",
+        "url": "https://open.spotify.com/album/2U6ejoIDreiVA6Tt0ITxRh"
       },
       "artists": [
         {
-          "name": "Charles Wesley Godwin",
-          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
         }
       ],
-      "duration_ms": 258683,
-      "name": "Lyin' Low",
-      "url": "https://open.spotify.com/track/3g8UrwhapPBLVUU6WX6MH0"
+      "duration_ms": 268413,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/2aku9CbppMvVCbuDe4scTB"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -319,18 +319,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Life Is Good on the Open Road",
-        "url": "https://open.spotify.com/album/2U6ejoIDreiVA6Tt0ITxRh"
+        "name": "How the Mighty Fall",
+        "url": "https://open.spotify.com/album/0xSyaaBZ3hrYf8rROAs125"
       },
       "artists": [
         {
-          "name": "Trampled by Turtles",
-          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+          "name": "Charles Wesley Godwin",
+          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
         }
       ],
-      "duration_ms": 268413,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/2aku9CbppMvVCbuDe4scTB"
+      "duration_ms": 258683,
+      "name": "Lyin' Low",
+      "url": "https://open.spotify.com/track/3g8UrwhapPBLVUU6WX6MH0"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "The Ballad of Dood & Juanita",
-        "url": "https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 157696,
-      "name": "Go in Peace",
-      "url": "https://open.spotify.com/track/0wD2Ow0tFreEoTfWYt02gT"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Still Is Still Moving To Me",
         "url": "https://open.spotify.com/album/3oQaCyVNzJUob9WsUD0Naa"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 240773,
       "name": "Still Is Still Moving To Me",
       "url": "https://open.spotify.com/track/3unrbH3SAqhL8OiUVF399z"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "The Ballad of Dood & Juanita",
+        "url": "https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "duration_ms": 157696,
+      "name": "Go in Peace",
+      "url": "https://open.spotify.com/track/0wD2Ow0tFreEoTfWYt02gT"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "When I'm Free",
-        "url": "https://open.spotify.com/album/5kTB8j3fW3o4eFoZLR8bza"
-      },
-      "artists": [
-        {
-          "name": "Hot Rize",
-          "url": "https://open.spotify.com/artist/40iD7Eehimq75Ow4VUxk3r"
-        }
-      ],
-      "duration_ms": 182120,
-      "name": "You Were on My Mind This Morning",
-      "url": "https://open.spotify.com/track/6XN8ygVU7ltNbEgKLPUrKy"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Thick As Thieves",
         "url": "https://open.spotify.com/album/1qL2Jl8sA1lIonNvTb6xAu"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 241013,
       "name": "Whiskey",
       "url": "https://open.spotify.com/track/4uj4owY793HdrUdMJeH8Gc"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "When I'm Free",
+        "url": "https://open.spotify.com/album/5kTB8j3fW3o4eFoZLR8bza"
+      },
+      "artists": [
+        {
+          "name": "Hot Rize",
+          "url": "https://open.spotify.com/artist/40iD7Eehimq75Ow4VUxk3r"
+        }
+      ],
+      "duration_ms": 182120,
+      "name": "You Were on My Mind This Morning",
+      "url": "https://open.spotify.com/track/6XN8ygVU7ltNbEgKLPUrKy"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Brother Sister",
-        "url": "https://open.spotify.com/album/27nsoapWtsOW9f1kRd41TL"
-      },
-      "artists": [
-        {
-          "name": "Watkins Family Hour",
-          "url": "https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj"
-        }
-      ],
-      "duration_ms": 237186,
-      "name": "The Cure",
-      "url": "https://open.spotify.com/track/4HlqSTUFKv6bzI3OK2q7kE"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Wild as We Came Here",
         "url": "https://open.spotify.com/album/0aPhpuXKrJcu0EEo0YYoMI"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 180546,
       "name": "Scrape Me Off the Ceiling",
       "url": "https://open.spotify.com/track/1VW5CwDhtHhbGz5UBRLni4"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Brother Sister",
+        "url": "https://open.spotify.com/album/27nsoapWtsOW9f1kRd41TL"
+      },
+      "artists": [
+        {
+          "name": "Watkins Family Hour",
+          "url": "https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj"
+        }
+      ],
+      "duration_ms": 237186,
+      "name": "The Cure",
+      "url": "https://open.spotify.com/track/4HlqSTUFKv6bzI3OK2q7kE"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "All Ashore",
+        "url": "https://open.spotify.com/album/2Jx5MfwDujgz2rFFDVocYl"
+      },
+      "artists": [
+        {
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+        }
+      ],
+      "duration_ms": 425360,
+      "name": "All Ashore",
+      "url": "https://open.spotify.com/track/3rSpUHBDRFr4MiFOjyEWvP"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "White Line Fever",
         "url": "https://open.spotify.com/album/5h6xmbk0GucwMFn6M6irAL"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 201051,
       "name": "White Line Fever",
       "url": "https://open.spotify.com/track/5m9cwQGKeurtZ5P9CqFo1o"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "All Ashore",
-        "url": "https://open.spotify.com/album/2Jx5MfwDujgz2rFFDVocYl"
-      },
-      "artists": [
-        {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
-        }
-      ],
-      "duration_ms": 425360,
-      "name": "All Ashore",
-      "url": "https://open.spotify.com/track/3rSpUHBDRFr4MiFOjyEWvP"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "All the Mornings Have an Echo",
-        "url": "https://open.spotify.com/album/73nSTfoKQxbtDU9wzPcBRG"
-      },
-      "artists": [
-        {
-          "name": "Forest Sun",
-          "url": "https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf"
-        }
-      ],
-      "duration_ms": 175128,
-      "name": "All the Mornings Have an Echo",
-      "url": "https://open.spotify.com/track/7GCsXa5WtdVl7it5R6hZSN"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "City on a Hill",
         "url": "https://open.spotify.com/album/3sK98anKCbdIVuOaHbMmy1"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 212480,
       "name": "City That Drowned",
       "url": "https://open.spotify.com/track/3kawMkt6ox3rlyl1DhV4ey"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "All the Mornings Have an Echo",
+        "url": "https://open.spotify.com/album/73nSTfoKQxbtDU9wzPcBRG"
+      },
+      "artists": [
+        {
+          "name": "Forest Sun",
+          "url": "https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf"
+        }
+      ],
+      "duration_ms": 175128,
+      "name": "All the Mornings Have an Echo",
+      "url": "https://open.spotify.com/track/7GCsXa5WtdVl7it5R6hZSN"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "In The Ground",
+        "url": "https://open.spotify.com/album/1j4gD0XEw3vXiGvdTFDcde"
+      },
+      "artists": [
+        {
+          "name": "Gibson Brothers",
+          "url": "https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV"
+        }
+      ],
+      "duration_ms": 191906,
+      "name": "Homemade Wine",
+      "url": "https://open.spotify.com/track/7BNlfq5BJooDMsBFRBfyv7"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Muscle Car",
         "url": "https://open.spotify.com/album/4BfxrawQAJaRWmhQkYBOSY"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 328560,
       "name": "Muscle Car",
       "url": "https://open.spotify.com/track/6mfeARNWhTrYAt0nDc3l9f"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "In The Ground",
-        "url": "https://open.spotify.com/album/1j4gD0XEw3vXiGvdTFDcde"
-      },
-      "artists": [
-        {
-          "name": "Gibson Brothers",
-          "url": "https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV"
-        }
-      ],
-      "duration_ms": 191906,
-      "name": "Homemade Wine",
-      "url": "https://open.spotify.com/track/7BNlfq5BJooDMsBFRBfyv7"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ"
+        "name": "North of Despair",
+        "url": "https://open.spotify.com/album/2xxpKXejWa3mgMsSldOAtY"
       },
       "artists": [
         {
-          "name": "The Grascals",
-          "url": "https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm"
+          "name": "Wood & Wire",
+          "url": "https://open.spotify.com/artist/1OWDk6qANVAXtcAPIhJZEX"
         }
       ],
-      "duration_ms": 139000,
-      "name": "Maybelle",
-      "url": "https://open.spotify.com/track/6IBbvLtjyuA0kv30goCK42"
+      "duration_ms": 216229,
+      "name": "Lies & Money",
+      "url": "https://open.spotify.com/track/1e3OLCYKGvvWpTB7KsUPj3"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "North of Despair",
-        "url": "https://open.spotify.com/album/2xxpKXejWa3mgMsSldOAtY"
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ"
       },
       "artists": [
         {
-          "name": "Wood & Wire",
-          "url": "https://open.spotify.com/artist/1OWDk6qANVAXtcAPIhJZEX"
+          "name": "The Grascals",
+          "url": "https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm"
         }
       ],
-      "duration_ms": 216229,
-      "name": "Lies & Money",
-      "url": "https://open.spotify.com/track/1e3OLCYKGvvWpTB7KsUPj3"
+      "duration_ms": 139000,
+      "name": "Maybelle",
+      "url": "https://open.spotify.com/track/6IBbvLtjyuA0kv30goCK42"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Drifter",
-        "url": "https://open.spotify.com/album/69UJfZuTLuRKsM9dLgsf40"
+        "name": "Live Sessions, Vol. 03",
+        "url": "https://open.spotify.com/album/3xaNzOGv8AH75st4le0u2i"
       },
       "artists": [
         {
-          "name": "Volume Five",
-          "url": "https://open.spotify.com/artist/1M5MzZDx6FRFfKQP0X23IX"
+          "name": "The Petersens",
+          "url": "https://open.spotify.com/artist/4w24LztUUIkgw11zx3KrQx"
         }
       ],
-      "duration_ms": 174773,
-      "name": "95 Years",
-      "url": "https://open.spotify.com/track/2FWHuUIYeGnboXO0PFaVc8"
+      "duration_ms": 160525,
+      "name": "Falling for You",
+      "url": "https://open.spotify.com/track/5KZWEoFswLxFLATP5JnDJX"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Live Sessions, Vol. 03",
-        "url": "https://open.spotify.com/album/3xaNzOGv8AH75st4le0u2i"
+        "name": "Drifter",
+        "url": "https://open.spotify.com/album/69UJfZuTLuRKsM9dLgsf40"
       },
       "artists": [
         {
-          "name": "The Petersens",
-          "url": "https://open.spotify.com/artist/4w24LztUUIkgw11zx3KrQx"
+          "name": "Volume Five",
+          "url": "https://open.spotify.com/artist/1M5MzZDx6FRFfKQP0X23IX"
         }
       ],
-      "duration_ms": 160525,
-      "name": "Falling for You",
-      "url": "https://open.spotify.com/track/5KZWEoFswLxFLATP5JnDJX"
+      "duration_ms": 174773,
+      "name": "95 Years",
+      "url": "https://open.spotify.com/track/2FWHuUIYeGnboXO0PFaVc8"
     },
     {
       "added_at": "2023-08-04 04:00:00",

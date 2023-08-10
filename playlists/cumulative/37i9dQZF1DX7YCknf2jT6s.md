@@ -4,7 +4,7 @@
 
 > New jazz for open minds\. Cover: Keyon Harrold
 
-1,019 songs - 3 day 10 hr 13 min
+1,020 songs - 3 day 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -620,7 +620,8 @@
 | [Party Song](https://open.spotify.com/track/3jD10FtaLHk7Rqk981HKMe) | [David Cook](https://open.spotify.com/artist/1kTlMFv8G550JogQHA7Jq6) | [Loyal Returns](https://open.spotify.com/album/0PkAPv6e4SjbiM2qHSlSlo) | 4:38 | 2023-04-21 | 2023-07-15 |
 | [Pasadena Sun](https://open.spotify.com/track/1yFHsZoKINCydPpNwovrFz) | [Mike Casey](https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2), [Sam Borrello](https://open.spotify.com/artist/7loneNMuZqVQ1YQtw51GQi) | [Pasadena Sun](https://open.spotify.com/album/7GuF9J8VaPAY8bBqhvFlxC) | 1:42 | 2022-09-02 | 2023-01-21 |
 | [Pash Rash](https://open.spotify.com/track/1Wl1mqm9URwTkFcfTOBI78) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Pash Rash](https://open.spotify.com/album/6LG9QQHDTyZhtrjBaa9cPN) | 6:08 | 2023-01-20 | 2023-05-06 |
-| [Passage](https://open.spotify.com/track/0xU7UASRnsyuQ2TuyfzkMr) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Passage](https://open.spotify.com/album/6yfB0IKJ42k3NvnUwe05d3) | 9:38 | 2023-07-14 |  |
+| [Passage](https://open.spotify.com/track/0xU7UASRnsyuQ2TuyfzkMr) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Passage](https://open.spotify.com/album/6yfB0IKJ42k3NvnUwe05d3) | 9:38 | 2023-07-14 | 2023-08-10 |
+| [Passage](https://open.spotify.com/track/1RcgSMUt7FW5dZeqpXvaWp) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Tears I Cannot Hide](https://open.spotify.com/album/70bDvVWQoOm0WEFGeyDX9g) | 9:38 | 2023-07-14 |  |
 | [Passaic](https://open.spotify.com/track/4xamnZxVJxOWQhww1SYBpH) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy), [Bill Evans](https://open.spotify.com/artist/2PyoC81N6Uz8xs5Lzaquje) | [Passaic](https://open.spotify.com/album/7EDkIqmqmBeEoPq0hlFJTM) | 6:11 | 2022-09-16 | 2022-10-01 |
 | [Past reflections](https://open.spotify.com/track/661Apu8vWjJ84fnw6DTkBt) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA), [Terreon Gully](https://open.spotify.com/artist/1SqJPsQ1Xl7SqS7bNcea5P), [Dario Chiazzolino](https://open.spotify.com/artist/0FCdAfxz2PRzUfKzzVM5LG), [Jermaine Paul](https://open.spotify.com/artist/302jOsgU7aZW71XhLem57k) | [Past reflections](https://open.spotify.com/album/3qEb4QiHigyO8n3h1mDyDD) | 2:47 | 2023-07-21 | 2023-08-05 |
 | [Pathways](https://open.spotify.com/track/3XDxGpFtNeZiqbdNZatMqJ) | [Alexander Flood](https://open.spotify.com/artist/07xBnzShNUrWwaVf9S7DUz), [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [Pathways](https://open.spotify.com/album/6WQpxKjGFJQFnc2ODSG3y1) | 4:30 | 2021-12-23 | 2022-02-19 |

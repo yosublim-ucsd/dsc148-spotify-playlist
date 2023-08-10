@@ -4,7 +4,7 @@
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. grimes
 
-601 songs - 1 day 4 hr 24 min
+602 songs - 1 day 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [Cheerleader](https://open.spotify.com/track/4Bgh6Uv9851EcAMH8IRirR) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Cheerleader](https://open.spotify.com/album/02TKqxmoLu0YMByukgmtlH) | 2:12 | 2023-07-27 |  |
 | [Choose Your Fighter](https://open.spotify.com/track/5GJgz8jChM8AA7cSStOqjU) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Choose Your Fighter](https://open.spotify.com/album/3HoyLFKUF2HKmYJjjFhd5s) | 2:15 | 2022-06-16 | 2023-07-07 |
 | [Church Outfit](https://open.spotify.com/track/0R13zftuNe1WECTSBeT6ri) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Church Outfit](https://open.spotify.com/album/4lkW9DiMaD9PQZhaIRQUnH) | 1:54 | 2023-04-06 | 2023-05-20 |
-| [CIGARETTES](https://open.spotify.com/track/1xJBz9XFCMZJiy6Mc4XrgC) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [CIGARETTES](https://open.spotify.com/album/6iBfLlPGfEmgjF8HG9OkJd) | 2:04 | 2023-07-20 |  |
+| [CIGARETTES](https://open.spotify.com/track/1xJBz9XFCMZJiy6Mc4XrgC) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [CIGARETTES](https://open.spotify.com/album/6iBfLlPGfEmgjF8HG9OkJd) | 2:04 | 2023-07-20 | 2023-08-10 |
+| [CIGARETTES](https://open.spotify.com/track/3mU9L9qqhMxRbXgMXUncig) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [LOVE + POP](https://open.spotify.com/album/5God4dounbNrQtR8otCSHD) | 2:04 | 2023-08-03 |  |
 | [City](https://open.spotify.com/track/4lUWT0HdlZAOmy5fOJoIyO) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [Please Don't Think About Tomorrow](https://open.spotify.com/album/3iXL32S132siz2SRS3zQ6U) | 3:03 | 2022-08-04 | 2022-09-09 |
 | [Cleopatra](https://open.spotify.com/track/1vbu9CQdQQgYHPeqTn8WK0) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Cleopatra](https://open.spotify.com/album/79QALKmJRQgzHWHTutvg5O) | 3:30 | 2022-03-18 | 2022-08-05 |
 | [Clique](https://open.spotify.com/track/6CVfZfkdd4Jdvg8JnBL6Oy) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Seize the Power](https://open.spotify.com/album/2QgPGKzoN51qcEzGlHYk7j) | 2:19 | 2022-09-22 | 2023-07-07 |

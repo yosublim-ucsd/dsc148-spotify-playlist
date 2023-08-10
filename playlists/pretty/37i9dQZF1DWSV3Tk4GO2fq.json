@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs of the 1950s.",
-  "num_followers": 1690014,
+  "num_followers": 1690413,
   "original_name": "All Out 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZGQ1YWE4OTFlYjMzYjc4ZTVmMjI1NmNhMWFlMTIxOTM3ZGI3MGYz",
+  "snapshot_id": "MCxiNDg1OTU2ZmUzZmE1MWMwMzNhZmRjYTQxODk3N2E4ZjIzNmRmMTFh",
   "tracks": [
     {
       "added_at": "2022-06-09 22:02:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "That's All",
-        "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 184333,
-      "name": "Mack the Knife",
-      "url": "https://open.spotify.com/track/3E5ndyOfO6vFDEIE42HA8o"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
         "name": "Here's Little Richard (Deluxe Edition)",
         "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 127426,
       "name": "Long Tall Sally (The Thing)",
       "url": "https://open.spotify.com/track/507IFqPuG8mBQoKebfGG9t"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
+        "name": "That's All",
+        "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 184333,
+      "name": "Mack the Knife",
+      "url": "https://open.spotify.com/track/3E5ndyOfO6vFDEIE42HA8o"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/1tTTDe47X0rTO4q7RidIan"
-      },
-      "artists": [
-        {
-          "name": "Buddy Holly",
-          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
-        }
-      ],
-      "duration_ms": 168306,
-      "name": "True Love Ways",
-      "url": "https://open.spotify.com/track/2Aq3BiLhITGHe6YSzkzOvi"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
         "name": "Chet Baker Sings",
         "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 179640,
       "name": "I Get Along Without You Very Well (Except Sometimes) - Vocal Version",
       "url": "https://open.spotify.com/track/4gFlHAye7To29Fs4UszQUH"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/1tTTDe47X0rTO4q7RidIan"
+      },
+      "artists": [
+        {
+          "name": "Buddy Holly",
+          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+        }
+      ],
+      "duration_ms": 168306,
+      "name": "True Love Ways",
+      "url": "https://open.spotify.com/track/2Aq3BiLhITGHe6YSzkzOvi"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "Buddy Holly",
-        "url": "https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP"
-      },
-      "artists": [
-        {
-          "name": "Buddy Holly",
-          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
-        },
-        {
-          "name": "The Crickets",
-          "url": "https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR"
-        }
-      ],
-      "duration_ms": 150960,
-      "name": "Peggy Sue",
-      "url": "https://open.spotify.com/track/2OARIMw1hpehr86Iwmv04c"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
         "name": "Ritchie Valens",
         "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
       },
@@ -1231,18 +1211,22 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "Billie Holiday",
-        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
+        "name": "Buddy Holly",
+        "url": "https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Buddy Holly",
+          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+        },
+        {
+          "name": "The Crickets",
+          "url": "https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR"
         }
       ],
-      "duration_ms": 192866,
-      "name": "Strange Fruit",
-      "url": "https://open.spotify.com/track/1CTex49P0iWwzUGsMNjgaV"
+      "duration_ms": 150960,
+      "name": "Peggy Sue",
+      "url": "https://open.spotify.com/track/2OARIMw1hpehr86Iwmv04c"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -1259,6 +1243,22 @@
       "duration_ms": 130533,
       "name": "Lollipop",
       "url": "https://open.spotify.com/track/1hFB1obL3dCyIDigkojSTm"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
+        "name": "Billie Holiday",
+        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 192866,
+      "name": "Strange Fruit",
+      "url": "https://open.spotify.com/track/1CTex49P0iWwzUGsMNjgaV"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "All Or Nothing At All",
-        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 185586,
-      "name": "April In Paris",
-      "url": "https://open.spotify.com/track/34zhjduFdQFhkRUJ230h9T"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
         "name": "Pat Boone's Greatest Hits (Reissue)",
         "url": "https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 187666,
       "name": "In The Still of the Night",
       "url": "https://open.spotify.com/track/0GVvRmCoiLkhxJvlZy9bLk"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
+        "name": "All Or Nothing At All",
+        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 185586,
+      "name": "April In Paris",
+      "url": "https://open.spotify.com/track/34zhjduFdQFhkRUJ230h9T"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "Chantilly Lace",
-        "url": "https://open.spotify.com/album/4rjNs9o3EjMVQlwV7EuhGS"
-      },
-      "artists": [
-        {
-          "name": "The Big Bopper",
-          "url": "https://open.spotify.com/artist/2gNK2HAaLVz5DZoD2moDQj"
-        }
-      ],
-      "duration_ms": 145266,
-      "name": "Chantilly Lace",
-      "url": "https://open.spotify.com/track/07GtDOCxmye5KDWsTSACPk"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
         "name": "Good Golly!",
         "url": "https://open.spotify.com/album/18VnWTsdEcofimkOHcWBAu"
       },
@@ -1579,18 +1563,18 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "The Best Of Bobby Vinton",
-        "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
+        "name": "Chantilly Lace",
+        "url": "https://open.spotify.com/album/4rjNs9o3EjMVQlwV7EuhGS"
       },
       "artists": [
         {
-          "name": "Bobby Vinton",
-          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
+          "name": "The Big Bopper",
+          "url": "https://open.spotify.com/artist/2gNK2HAaLVz5DZoD2moDQj"
         }
       ],
-      "duration_ms": 161373,
-      "name": "Mr. Lonely",
-      "url": "https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx"
+      "duration_ms": 145266,
+      "name": "Chantilly Lace",
+      "url": "https://open.spotify.com/track/07GtDOCxmye5KDWsTSACPk"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -1611,6 +1595,22 @@
       "duration_ms": 280000,
       "name": "They Can't Take That Away From Me",
       "url": "https://open.spotify.com/track/1V4NaFlrUCK49MXcdOcVeS"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
+        "name": "The Best Of Bobby Vinton",
+        "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vinton",
+          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
+        }
+      ],
+      "duration_ms": 161373,
+      "name": "Mr. Lonely",
+      "url": "https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -1933,22 +1933,6 @@
       "url": "https://open.spotify.com/track/3Bh370SaZZ0BPHKKOqvAgy"
     },
     {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
-        "name": "The Skyliners",
-        "url": "https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ"
-      },
-      "artists": [
-        {
-          "name": "The Skyliners",
-          "url": "https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk"
-        }
-      ],
-      "duration_ms": 158840,
-      "name": "Since I Don't Have You (Alternative Take)",
-      "url": "https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt"
-    },
-    {
       "added_at": "2023-02-28 06:10:48",
       "album": {
         "name": "Moanin' The Blues (Expanded Edition)",
@@ -1963,6 +1947,22 @@
       "duration_ms": 168773,
       "name": "I'm So Lonesome I Could Cry",
       "url": "https://open.spotify.com/track/0hveAq1VSNWo9MQYGMHvFF"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
+        "name": "The Skyliners",
+        "url": "https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ"
+      },
+      "artists": [
+        {
+          "name": "The Skyliners",
+          "url": "https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk"
+        }
+      ],
+      "duration_ms": 158840,
+      "name": "Since I Don't Have You (Alternative Take)",
+      "url": "https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "Bill Haley's Greatest Hits",
-        "url": "https://open.spotify.com/album/6dbK5OGjpXh6TxgLLyAtlV"
-      },
-      "artists": [
-        {
-          "name": "Bill Haley & His Comets",
-          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
-        }
-      ],
-      "duration_ms": 150466,
-      "name": "Shake, Rattle And Roll - Single Version",
-      "url": "https://open.spotify.com/track/2JoXjemDQe0fSmk26CpfrP"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
         "name": "It\u2019s All In The Game",
         "url": "https://open.spotify.com/album/5Pm6JmFRagCaNbD5OLlG3d"
       },
@@ -2295,18 +2279,18 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "Lonely Teardrops",
-        "url": "https://open.spotify.com/album/4Ixm6f2gdD6Ai1qKkE5NGT"
+        "name": "Bill Haley's Greatest Hits",
+        "url": "https://open.spotify.com/album/6dbK5OGjpXh6TxgLLyAtlV"
       },
       "artists": [
         {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+          "name": "Bill Haley & His Comets",
+          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
         }
       ],
-      "duration_ms": 166213,
-      "name": "Lonely Teardrops",
-      "url": "https://open.spotify.com/track/6TYR3IVgIwDK6ydc2EPEQq"
+      "duration_ms": 150466,
+      "name": "Shake, Rattle And Roll - Single Version",
+      "url": "https://open.spotify.com/track/2JoXjemDQe0fSmk26CpfrP"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -2323,6 +2307,22 @@
       "duration_ms": 144626,
       "name": "Stagger Lee",
       "url": "https://open.spotify.com/track/7qoaMWT3eRCKG1RN6dVuOY"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
+        "name": "Lonely Teardrops",
+        "url": "https://open.spotify.com/album/4Ixm6f2gdD6Ai1qKkE5NGT"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 166213,
+      "name": "Lonely Teardrops",
+      "url": "https://open.spotify.com/track/6TYR3IVgIwDK6ydc2EPEQq"
     },
     {
       "added_at": "2022-06-09 22:02:00",

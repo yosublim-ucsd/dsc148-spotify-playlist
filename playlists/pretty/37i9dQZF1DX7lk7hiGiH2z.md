@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Plantschen, Eis & Freibadpommes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,446 likes - 45 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,559 likes - 45 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 44 | [1,2,3 im Sauseschritt \- Bauernhof Version](https://open.spotify.com/track/55yKBlLIGnBj1zW1fDqVYV) | [Der singende Bauernhof](https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo), [Detlev Jöcker](https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4), [Sarah Schiffer](https://open.spotify.com/artist/3Lc3iBAHvaR0LVKVF881oP) | [Sommer auf dem singenden Bauernhof](https://open.spotify.com/album/5ULQfQ92DZp1mX1AkRmA4f) | 2:14 |
 | 45 | [Schokoladeneis](https://open.spotify.com/track/1mERxFZxRWNOXbryNKlIRW) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Tanzfieber!](https://open.spotify.com/album/06eZoUAMH8lMEpshxRfHj2) | 3:27 |
 
-Snapshot ID: `MCxmZDU5OGExY2ZmY2I4ODEwYjA3NTdlNTlkZGFkMTY3ODI2YWFiMzRj`
+Snapshot ID: `MCxmYTkxMjcxZjY0NDg4YzQ2YzVjMDAzNzFkNzlmMDQzMzNhMDNhMWI2`

@@ -1,12 +1,12 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 152809,
+  "num_followers": 152850,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2FkOTkzNjYzMjBkZDA5NTFjYzk1OTRlZTMwMDkwNWQzM2U5MzE3",
+  "snapshot_id": "MCw5ZWE5MjE1MTVlZjAxMDg2MWMzODZiZGFkYTM0OWNiOTY0NDFmNDE2",
   "tracks": [
     {
       "added_at": "2020-07-08 17:36:08",
@@ -419,22 +419,18 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "The Essential Rosemary Clooney",
-        "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
+        "name": "The \"Chirping\" Crickets",
+        "url": "https://open.spotify.com/album/1KfXNUbZrdwHMtkAGNBLBq"
       },
       "artists": [
         {
-          "name": "Rosemary Clooney",
-          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
-        },
-        {
-          "name": "The Mellomen",
-          "url": "https://open.spotify.com/artist/548L4DXlt7N14Mhbfdmdqq"
+          "name": "Buddy Holly & The Crickets",
+          "url": "https://open.spotify.com/artist/15jBNfRUPUgdZOTSaNoF5l"
         }
       ],
-      "duration_ms": 149560,
-      "name": "Mambo Italiano (with The Mellomen) - 78rpm Version",
-      "url": "https://open.spotify.com/track/0QoV9nLBwYEU1bA6m61h4F"
+      "duration_ms": 122600,
+      "name": "Maybe Baby",
+      "url": "https://open.spotify.com/track/20UjAGdEjVb8DniNXvqHJy"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -471,18 +467,22 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "The \"Chirping\" Crickets",
-        "url": "https://open.spotify.com/album/1KfXNUbZrdwHMtkAGNBLBq"
+        "name": "The Essential Rosemary Clooney",
+        "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
       },
       "artists": [
         {
-          "name": "Buddy Holly & The Crickets",
-          "url": "https://open.spotify.com/artist/15jBNfRUPUgdZOTSaNoF5l"
+          "name": "Rosemary Clooney",
+          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
+        },
+        {
+          "name": "The Mellomen",
+          "url": "https://open.spotify.com/artist/548L4DXlt7N14Mhbfdmdqq"
         }
       ],
-      "duration_ms": 122600,
-      "name": "Maybe Baby",
-      "url": "https://open.spotify.com/track/20UjAGdEjVb8DniNXvqHJy"
+      "duration_ms": 149560,
+      "name": "Mambo Italiano (with The Mellomen) - 78rpm Version",
+      "url": "https://open.spotify.com/track/0QoV9nLBwYEU1bA6m61h4F"
     },
     {
       "added_at": "2020-07-08 17:36:08",

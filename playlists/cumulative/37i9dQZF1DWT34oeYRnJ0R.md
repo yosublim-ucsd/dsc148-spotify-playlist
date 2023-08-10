@@ -4,7 +4,7 @@
 
 > Just vibes\. Cover: Luar La L & Ozuna
 
-308 songs - 15 hr 56 min
+309 songs - 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Easy](https://open.spotify.com/track/2aOiqOdqV6V4uOzypF03HX) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Easy](https://open.spotify.com/album/5ILWpcANkqbJ0372MY0Gws) | 3:11 | 2023-02-03 |  |
 | [EGO](https://open.spotify.com/track/354pCNhr685jh0QEaGTAHH) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [EGO](https://open.spotify.com/album/295wDTQXatb4fOeVpv9mlt) | 3:31 | 2022-03-21 | 2022-09-07 |
 | [El Father](https://open.spotify.com/track/3l1KMArNsKOR29ppTBhCzw) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB) | [El Father](https://open.spotify.com/album/7IRJnAHKeNS3QNqiALYpPb) | 3:15 | 2023-05-12 |  |
+| [El Man Perfecto](https://open.spotify.com/track/6liVt4KfKzMQ4vdedo8Ld2) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq), [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz) | [El Man Perfecto](https://open.spotify.com/album/6gifQZChGomZlbjyvvG7wK) | 3:32 | 2023-08-04 |  |
 | [El Mensaje](https://open.spotify.com/track/2KixbV3oLBNrQP2cXwrAC4) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [El Mensaje](https://open.spotify.com/album/7rm64Fm5KyyffZ5w0lFwpV) | 3:02 | 2022-09-06 |  |
 | [EL VIBE](https://open.spotify.com/track/2FB0B97YQMCYhIuCKbaSkb) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [EL VIBE](https://open.spotify.com/album/5spqI36OyC3hvd4NmlrhO8) | 2:51 | 2023-07-14 |  |
 | [el vuelo](https://open.spotify.com/track/2qtrDGVkMqKrcL44b8U4LG) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [el vuelo](https://open.spotify.com/album/50fPKkTgYxNCIaoEWb3jU3) | 3:05 | 2022-09-06 | 2022-12-08 |
@@ -306,7 +307,7 @@
 | [What You Did \(feat\. Ella Mai\)](https://open.spotify.com/track/2B7UWqNqKgPVGQQ6FXn2PP) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [LOVE AND COMPROMISE](https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA) | 3:26 | 2022-03-25 | 2022-09-07 |
 | [Where We Can't See](https://open.spotify.com/track/612UlRjogF7bkGgVamQhKT) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Where We Can't See](https://open.spotify.com/album/6WLlYL5Pd3H4tQBxcRhTOZ) | 2:45 | 2022-03-21 | 2022-09-07 |
 | [x ti](https://open.spotify.com/track/6Ih6h9g3dUDc4MvIunXv6g) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC) | [x ti](https://open.spotify.com/album/6ZeF95nJeLg3UIxQeppWKU) | 2:41 | 2022-06-27 | 2022-09-07 |
-| [XLEY](https://open.spotify.com/track/5LrMQ0wMlyotNIsR6aofeH) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [XLEY](https://open.spotify.com/album/5eZC1BL1r2RcJlVORIvRLU) | 3:14 | 2022-09-06 |  |
+| [XLEY](https://open.spotify.com/track/5LrMQ0wMlyotNIsR6aofeH) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [XLEY](https://open.spotify.com/album/5eZC1BL1r2RcJlVORIvRLU) | 3:14 | 2022-09-06 | 2023-08-10 |
 | [YA](https://open.spotify.com/track/1SItv3YEX2txYK9mkbSKqD) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [YA](https://open.spotify.com/album/5LFUNG1uAtWvLT7YQ4CCLG) | 2:55 | 2022-07-26 | 2022-09-07 |
 | [YA](https://open.spotify.com/track/5Zv97esRRGjScO2Vj6lhGt) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [YA](https://open.spotify.com/album/0bcY8OcSd9eGMpTyl3DUj6) | 2:55 | 2022-03-21 | 2022-07-29 |
 | [YELIANA \- Cap\. 3 \- ZHA](https://open.spotify.com/track/0sE9TAChRS7zah4yhp5KJW) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [YELIANA\-Cap.3\-ZHA](https://open.spotify.com/album/36vkQCUHA1y3qvjzsmqw5H) | 2:20 | 2023-07-07 |  |

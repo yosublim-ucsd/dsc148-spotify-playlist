@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Eli Rose",
-  "num_followers": 37446,
+  "num_followers": 37455,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGM5NzQ1Y2Y2NTYyOTk5MDkyNjJhZGZhNzk1N2M4MWQzYjI0MTQy",
+  "snapshot_id": "MCw5YzgxZmRjOTQzYjZhMTgzZjc2NDMxMDgwNjBkZDgyZGFiYWM5ZmEw",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -143,22 +143,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Business (feat. Naza)",
-        "url": "https://open.spotify.com/album/7xfhDDNz65EkMyzDOKfVOF"
+        "name": "Shavkat",
+        "url": "https://open.spotify.com/album/1CYQrHXkE52a8tlhiqUR1x"
       },
       "artists": [
         {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
-        },
-        {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+          "name": "Freeze corleone",
+          "url": "https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im"
         }
       ],
-      "duration_ms": 170435,
-      "name": "Business (feat. Naza)",
-      "url": "https://open.spotify.com/track/7ckhEsg0yYCINgl1HqjCUk"
+      "duration_ms": 219865,
+      "name": "Shavkat",
+      "url": "https://open.spotify.com/track/1A3eBtA4ath65H7PFySd6l"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -179,18 +175,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Shavkat",
-        "url": "https://open.spotify.com/album/1CYQrHXkE52a8tlhiqUR1x"
+        "name": "Business (feat. Naza)",
+        "url": "https://open.spotify.com/album/7xfhDDNz65EkMyzDOKfVOF"
       },
       "artists": [
         {
-          "name": "Freeze corleone",
-          "url": "https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im"
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
         }
       ],
-      "duration_ms": 219865,
-      "name": "Shavkat",
-      "url": "https://open.spotify.com/track/1A3eBtA4ath65H7PFySd6l"
+      "duration_ms": 170435,
+      "name": "Business (feat. Naza)",
+      "url": "https://open.spotify.com/track/7ckhEsg0yYCINgl1HqjCUk"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -359,6 +359,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Derni\u00e8re danse",
+        "url": "https://open.spotify.com/album/59Aeo4d7E0FVfHH5wZVi3Q"
+      },
+      "artists": [
+        {
+          "name": "Kyo",
+          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
+        },
+        {
+          "name": "C\u0153ur De Pirate",
+          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+        }
+      ],
+      "duration_ms": 191773,
+      "name": "Derni\u00e8re danse",
+      "url": "https://open.spotify.com/track/3UYc8Rc0hskiAzyvczieGl"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "MOOD3 (Glish)",
         "url": "https://open.spotify.com/album/0inzbBWUtazS8ju1B5fhhb"
       },
@@ -403,26 +423,6 @@
       "duration_ms": 165417,
       "name": "Extendo",
       "url": "https://open.spotify.com/track/2KXwDwaXZtQ35DrNmdQ2wh"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Derni\u00e8re danse",
-        "url": "https://open.spotify.com/album/59Aeo4d7E0FVfHH5wZVi3Q"
-      },
-      "artists": [
-        {
-          "name": "Kyo",
-          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
-        },
-        {
-          "name": "C\u0153ur De Pirate",
-          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
-        }
-      ],
-      "duration_ms": 191773,
-      "name": "Derni\u00e8re danse",
-      "url": "https://open.spotify.com/track/3UYc8Rc0hskiAzyvczieGl"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -511,30 +511,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Chef D'orchestre",
-        "url": "https://open.spotify.com/album/65Zsfpx3BX9uriUQ5Nvuq7"
-      },
-      "artists": [
-        {
-          "name": "Heuss L'enfoir\u00e9",
-          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
-        },
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        },
-        {
-          "name": "ZEG P",
-          "url": "https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc"
-        }
-      ],
-      "duration_ms": 189666,
-      "name": "Cit\u00e9s de France",
-      "url": "https://open.spotify.com/track/3g3YCqJbfTBhUbvmOauugY"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "C'est toi",
         "url": "https://open.spotify.com/album/1m9ChT2dnhqqXSdkzsR9P4"
       },
@@ -563,6 +539,30 @@
       "duration_ms": 257200,
       "name": "Ha ha ha",
       "url": "https://open.spotify.com/track/7zOy88Gz28RDcmjuvYvpww"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Chef D'orchestre",
+        "url": "https://open.spotify.com/album/65Zsfpx3BX9uriUQ5Nvuq7"
+      },
+      "artists": [
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "ZEG P",
+          "url": "https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc"
+        }
+      ],
+      "duration_ms": 189666,
+      "name": "Cit\u00e9s de France",
+      "url": "https://open.spotify.com/track/3g3YCqJbfTBhUbvmOauugY"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Trop parler",
+        "url": "https://open.spotify.com/album/6Qeq7qS0CVx0s81e0eftvY"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 183865,
+      "name": "Trop parler",
+      "url": "https://open.spotify.com/track/403UULZfsCNgiCJlf7kii4"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Eyes Contact",
         "url": "https://open.spotify.com/album/670uKRQ9Io0xWqQ98lS9rK"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 154580,
       "name": "\u00c7a va !",
       "url": "https://open.spotify.com/track/5YmJ1Ts7Qv2GA2hKi8JxVv"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Trop parler",
-        "url": "https://open.spotify.com/album/6Qeq7qS0CVx0s81e0eftvY"
-      },
-      "artists": [
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 183865,
-      "name": "Trop parler",
-      "url": "https://open.spotify.com/track/403UULZfsCNgiCJlf7kii4"
     },
     {
       "added_at": "2023-08-04 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Protomartyr
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,890 likes - 120 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,935 likes - 120 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 90 | [Lights Out](https://open.spotify.com/track/1pExLSWrXaDyDdLmznxm7u) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [Lights Out](https://open.spotify.com/album/5LrQKwzxSxCXVIFr4XJ48F) | 2:53 |
 | 91 | [Cherry Blue Intention](https://open.spotify.com/track/2oSpsk4KFihbnnqTKgLaLL) | [Special Interest](https://open.spotify.com/artist/2CYTLJOt91YLe1JLStFu6m) | [Cherry Blue Intention](https://open.spotify.com/album/3acrSXMN6gWsupnlpsbOA7) | 3:23 |
 | 92 | [Doomer](https://open.spotify.com/track/3bGfDpcaUIKZhXM0x776re) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [Doomer](https://open.spotify.com/album/4KZtS7Mbox8WP1HF8Ugtz1) | 3:43 |
-| 93 | [I Believe](https://open.spotify.com/track/2629nMBV0YToedXJ2naMxN) | [A Giant Dog](https://open.spotify.com/artist/0PL9vFj7i7uKg74WpLohnG) | [I Believe](https://open.spotify.com/album/2NkRRWdf1T2Igxv3Y7wUYE) | 3:21 |
+| 93 | [I Believe](https://open.spotify.com/track/329c0F8q0Fra2vx7FQapMw) | [A Giant Dog](https://open.spotify.com/artist/0PL9vFj7i7uKg74WpLohnG) | [A Daydream](https://open.spotify.com/album/4ukJOsBuVDR6ZWGv6gE9kv) | 3:21 |
 | 94 | [Tele](https://open.spotify.com/track/6w46w4PvpP9JJfdFMswV8P) | [Deeper](https://open.spotify.com/artist/2OdkcNnvSRbVRcziM3OK2S) | [Tele](https://open.spotify.com/album/1dHKATvKvZpISaj6aocpM3) | 3:40 |
 | 95 | [Anti\-glory](https://open.spotify.com/track/7fDPgekQGJKkyyqjuhtNSG) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Anti\-glory](https://open.spotify.com/album/64rQzBshwp5tyR7ExhJaAk) | 3:30 |
 | 96 | [What You Did](https://open.spotify.com/track/3sfWGFNBEY1tCOabYwVcZ1) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:02 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 119 | [Goon](https://open.spotify.com/track/14w7mxmqf2jz2qrzl8DsVs) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh), [Osees](https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS) | [Goon](https://open.spotify.com/album/5VliPgxUgHZBjcPWap69wY) | 2:12 |
 | 120 | [Moments of Clarity](https://open.spotify.com/track/35abwQmAZvwCPBPzuXWob1) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:50 |
 
-Snapshot ID: `MCxjZmIyZjkwZWIwMWMzMzY4MDljMDgwZTU1OGE0ODFkNmZlZTU2OGE2`
+Snapshot ID: `MCw4MTE1MmI2ODU5Zjg0NjhlMWZmNmM0MWE1NzMxMTM1ODVjZmVkOWJj`

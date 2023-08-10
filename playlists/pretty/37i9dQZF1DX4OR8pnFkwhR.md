@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: First Love is Never Returned
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,015 likes - 70 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,011 likes - 70 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 14 | [Wish upon the Summer](https://open.spotify.com/track/1olB9d6rSgSJOcgl34VaYl) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Wish upon the Summer](https://open.spotify.com/album/00Ye5zlkyQbYj23OqKv0xe) | 3:01 |
 | 15 | [Melody](https://open.spotify.com/track/18IkQ9FJd7BW261aQAbH9Z) | [Asilo](https://open.spotify.com/artist/72lfhTlPxWHRqGnIdr9Jxh) | [Bouquet](https://open.spotify.com/album/4w5XnMaC67Apk06K1eDd7s) | 3:46 |
 | 16 | [Lucy](https://open.spotify.com/track/1ioc0bvKPoAjGAyZ5lRxvu) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [Lucy](https://open.spotify.com/album/2xnazTOASgHULfFAeYhC5Y) | 3:07 |
-| 17 | [basement](https://open.spotify.com/track/3MIc6RMb83SodnfE7T5XNU) | [ANORAK!](https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI) | [ANORAK! / DIMWORK Split](https://open.spotify.com/album/104w26GFWkYQErMzsQ8ISZ) | 1:48 |
+| 17 | [basement](https://open.spotify.com/track/3MIc6RMb83SodnfE7T5XNU) | [ANORAK!](https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI) | [ANORAK! / DIMWORK](https://open.spotify.com/album/104w26GFWkYQErMzsQ8ISZ) | 1:48 |
 | 18 | [Branches](https://open.spotify.com/track/6FvsyhWILM1Z8EGvzJxM2w) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Branches](https://open.spotify.com/album/4GryMwKLBFPuUHnLlk85k2) | 4:33 |
 | 19 | [Water](https://open.spotify.com/track/4sba5qIowhVDigPPykIP5U) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn) | [Water](https://open.spotify.com/album/4otlBo4eNFe03fjYmvumZG) | 3:50 |
 | 20 | [All to Myself](https://open.spotify.com/track/4nIy52HZ6omZxRnMs6qB0g) | [ako](https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo) | [All to Myself](https://open.spotify.com/album/1X9QwFBNOCFiHkOE3OD4v2) | 3:18 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 34 | [Wrecked](https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1) | 2:08 |
 | 35 | [正論さん](https://open.spotify.com/track/3guBJ3pWlpOKxS6aGJH3OD) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [正論さん](https://open.spotify.com/album/0p8hciFFok7dzHLV0LukjH) | 3:39 |
 | 36 | [Flower Garden](https://open.spotify.com/track/49ilraYOTBgASnmiTR8mgA) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Flower Garden](https://open.spotify.com/album/6bR9WLzzbDCSnns59r9GDY) | 3:21 |
-| 37 | [レンタカー](https://open.spotify.com/track/0eG7zHxyIo0Lk2hJBGb0NG) | [山二つ](https://open.spotify.com/artist/0VmvWJ3kETXL0UFmXYj2lB) | [レンタカー](https://open.spotify.com/album/6iNrTaMzCoWOzByqzkiZxs) | 3:01 |
+| 37 | [Rent\-A\-Car](https://open.spotify.com/track/2VvE9W1K2cMPaRsFi7kwLv) | [Yamafutatsu](https://open.spotify.com/artist/75mN0rbQkBImvS8yohWlnP) | [Rent\-A\-Car](https://open.spotify.com/album/3715NHRrk351GtX0NhjkPv) | 3:01 |
 | 38 | [両想い](https://open.spotify.com/track/3zw6TA1Fn8A5rVm1DlSS8I) | [fusen](https://open.spotify.com/artist/3vOolRilmDxcJJENFu8mWu) | [両想い](https://open.spotify.com/album/4iWLok3YkjDIRL6FYJLzad) | 3:36 |
 | 39 | [いつか渚へ](https://open.spotify.com/track/2ajVhqmpcTsPTK51UunVyu) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [いつか渚へ](https://open.spotify.com/album/3lGXCo8dfM3FnCPV93fCds) | 3:02 |
 | 40 | [とんぼ玉。](https://open.spotify.com/track/2IJ3Pt1bSxifAaFtNuxZeJ) | [近石涼](https://open.spotify.com/artist/0ZjetwSL2QOrWNJmMhl6AV) | [とんぼ玉。](https://open.spotify.com/album/5LlbA6Chr7ulmyhJiuTF0F) | 3:51 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 69 | [kaibutsu](https://open.spotify.com/track/0zBaLbvJbcZjErOL8OqdX8) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [kaibutsu](https://open.spotify.com/album/4SwTst06JhUkdd8KtOO6Rj) | 2:35 |
 | 70 | [flowers](https://open.spotify.com/track/7Eg3cExvmyurdw2VZwcOAJ) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [flowers](https://open.spotify.com/album/6dtq4C39es0fbPxv9o0jhY) | 4:20 |
 
-Snapshot ID: `MCwzYTc2MmFjYjYxMGQ5NWI2NmIwMWU5Y2U4YWY5MmQyZTE2NTZmYTZj`
+Snapshot ID: `MCxkZDRhM2I5MTgyMTI4ZDM2OTJkN2Q5ZDQ3MmZjOTYwOTlhN2UzOGUw`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Canada.
 
-1,737 songs - 3 day 21 hr 22 min
+1,738 songs - 3 day 21 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1312,7 +1312,7 @@
 | [Shake It \(feat\. Cardi B, Dougie B & Bory300\)](https://open.spotify.com/track/0RkCnqwF8Tfl2QGPZwopyk) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Dougie B](https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj), [Bory300](https://open.spotify.com/artist/77oGJAObEl8wdAUrknL1gH) | [Shake It \(feat\. Cardi B, Dougie B & Bory300\)](https://open.spotify.com/album/0Kr65MJsLayLENRXxrlW3Z) | 1:58 | 2022-05-10 | 2022-05-22 |
 | [Shake That](https://open.spotify.com/track/0VGAT55tq7LHLfxtePPfpp) | [Gang Speed](https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv), [Treetalk](https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp) | [Shake That](https://open.spotify.com/album/1l0BKwempUx5qlkpFe4E90) | 2:59 | 2022-12-16 | 2023-01-16 |
 | [Shake That](https://open.spotify.com/track/1BrIZsDXewY03c9BUY4Rn9) | [Gang Speed](https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv), [Treetalk](https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp) | [Shake That](https://open.spotify.com/album/2SYED5j8wPKjVW5cviH4qN) | 2:59 | 2022-11-26 | 2022-12-20 |
-| [SHAKE THAT SHIT!](https://open.spotify.com/track/0zPlzJewGJ8iIxia2bEWDN) | [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh), [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm), [ProdByAbnormal](https://open.spotify.com/artist/7fc1beONoGaY0613kvQKWe) | [SHAKE THAT SHIT!](https://open.spotify.com/album/1Cw0Mri4i2zYXtQEd7qqOs) | 2:35 | 2023-08-08 |  |
+| [SHAKE THAT SHIT!](https://open.spotify.com/track/0zPlzJewGJ8iIxia2bEWDN) | [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh), [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm), [ProdByAbnormal](https://open.spotify.com/artist/7fc1beONoGaY0613kvQKWe) | [SHAKE THAT SHIT!](https://open.spotify.com/album/1Cw0Mri4i2zYXtQEd7qqOs) | 2:35 | 2023-08-08 | 2023-08-10 |
 | [Shakey x off these drugs](https://open.spotify.com/track/5hbjWmsPxsoUf8xupri1g7) | [ShakeyFunnyAzz](https://open.spotify.com/artist/4CWLmkNh01ZxgBM5gDXlIx) | [Shakey x off these drugs](https://open.spotify.com/album/5B3bW5H5XiW9AyDBLw9xeI) | 2:19 | 2022-01-01 | 2022-02-01 |
 | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:34 | 2023-02-07 | 2023-02-17 |
 | [Shawty Got Wap Like Fetty](https://open.spotify.com/track/0yNKnJsSUOrOiZEG5UsPfP) | [svntana archive](https://open.spotify.com/artist/6HS5NrP6hHRCg7EoxUOv1w) | [Shawty Got Wap Like Fetty](https://open.spotify.com/album/40oJrlOJoyKhaFYXYOupFO) | 2:22 | 2023-03-08 | 2023-03-14 |
@@ -1745,5 +1745,6 @@
 | [死ぬのがいいわ](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 3:05 | 2022-08-28 | 2022-11-20 |
 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 | 2022-01-09 | 2022-03-08 |
 | [逆光](https://open.spotify.com/track/78MS9OT9Flm2V78fhTw4rk) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:57 | 2022-11-11 | 2022-11-18 |
+| [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 | 2023-08-09 |  |
 
 \*This playlist was first scraped on 2022-01-01. Prior content cannot be recovered.

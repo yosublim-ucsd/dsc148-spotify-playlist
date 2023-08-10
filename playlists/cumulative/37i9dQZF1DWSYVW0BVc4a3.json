@@ -4968,7 +4968,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 371612,
       "name": "In White Rooms - 2023 Remix",
       "url": "https://open.spotify.com/track/0YHGkJUhWOw5OsvW3KCQBE"
@@ -6984,6 +6984,24 @@
       "duration_ms": 232914,
       "name": "Nabi",
       "url": "https://open.spotify.com/track/3Bb6SjhcywQ4euKYT2jxmp"
+    },
+    {
+      "album": {
+        "name": "Nassau",
+        "url": "https://open.spotify.com/album/7I2ZtofJpGREyoZoP6EZSl"
+      },
+      "artists": [
+        {
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390110,
+      "name": "Nassau",
+      "url": "https://open.spotify.com/track/2zR4OLdZOEgGb2QmJN1MMG"
     },
     {
       "album": {

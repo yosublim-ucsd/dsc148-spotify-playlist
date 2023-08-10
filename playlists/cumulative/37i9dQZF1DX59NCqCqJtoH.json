@@ -823,6 +823,24 @@
     },
     {
       "album": {
+        "name": "LOVE + POP",
+        "url": "https://open.spotify.com/album/5God4dounbNrQtR8otCSHD"
+      },
+      "artists": [
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141922,
+      "name": "bb put on deftones",
+      "url": "https://open.spotify.com/track/2KJAxR3jNdaZcEcLZS9Dgp"
+    },
+    {
+      "album": {
         "name": "A Brief Inquiry Into Online Relationships",
         "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
       },
@@ -1366,7 +1384,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 80000,
       "name": "canine teeth",
       "url": "https://open.spotify.com/track/0mXhEiLnnb5cpePShMXQVO"

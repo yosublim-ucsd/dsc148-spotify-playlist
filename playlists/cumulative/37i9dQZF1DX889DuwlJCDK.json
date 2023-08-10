@@ -149,7 +149,7 @@
     },
     {
       "album": {
-        "name": "ANORAK! / DIMWORK Split",
+        "name": "ANORAK! / DIMWORK",
         "url": "https://open.spotify.com/album/104w26GFWkYQErMzsQ8ISZ"
       },
       "artists": [
@@ -344,6 +344,24 @@
       "duration_ms": 267133,
       "name": "Fukakumeizenya",
       "url": "https://open.spotify.com/track/0HWxBqzyVCXWQY4NXfrCB9"
+    },
+    {
+      "album": {
+        "name": "Genyo",
+        "url": "https://open.spotify.com/album/210mwuTXBm8LWt5lH1KuR7"
+      },
+      "artists": [
+        {
+          "name": "Aruyue",
+          "url": "https://open.spotify.com/artist/4oHHGbHMXuJ97fRPzuESJW"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237133,
+      "name": "Genyo",
+      "url": "https://open.spotify.com/track/2YVjGPH1suANfQWCtFn4Ts"
     },
     {
       "album": {
@@ -563,6 +581,24 @@
     },
     {
       "album": {
+        "name": "Jinrui metsubou Wonderland",
+        "url": "https://open.spotify.com/album/1lyPHH5S3dpgLoAUtkgHSk"
+      },
+      "artists": [
+        {
+          "name": "Brandy Senki",
+          "url": "https://open.spotify.com/artist/2Y1i6bxyYpz8SaVBfWZHeT"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181170,
+      "name": "Musica",
+      "url": "https://open.spotify.com/track/1iaDqtkMhnPYa8QDS6KFOy"
+    },
+    {
+      "album": {
         "name": "Musica",
         "url": "https://open.spotify.com/album/3o7n3y9NOLPvIY2GmzZDOC"
       },
@@ -610,10 +646,28 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 181170,
       "name": "Musica",
       "url": "https://open.spotify.com/track/56RYbfRvG2QVbTwQ62UfyI"
+    },
+    {
+      "album": {
+        "name": "NARIYUKI-MAKASE",
+        "url": "https://open.spotify.com/album/1aQebxLOZ0GmpPflLzGVv4"
+      },
+      "artists": [
+        {
+          "name": "OKOJO",
+          "url": "https://open.spotify.com/artist/1RTVAEXT1GPXtN6MQjiaXU"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181541,
+      "name": "NARIYUKI-MAKASE",
+      "url": "https://open.spotify.com/track/6IlwrxsEdVVWO4QRu91EBY"
     },
     {
       "album": {
@@ -1114,7 +1168,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 181541,
       "name": "\u306a\u308a\u3086\u304d\u307e\u304b\u305b",
       "url": "https://open.spotify.com/track/4EBX1GEfmjnKKMovVc0F7a"
@@ -1780,7 +1834,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 237133,
       "name": "\u5e7b\u967d",
       "url": "https://open.spotify.com/track/7DSNoKeR28MdcU1kSGwjz1"

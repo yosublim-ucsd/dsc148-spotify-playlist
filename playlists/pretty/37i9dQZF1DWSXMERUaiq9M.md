@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > love peace techno
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,178 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,267 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,16 +32,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 22 | [Reflection](https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Reflection EP](https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6) | 6:46 |
 | 23 | [Call Me](https://open.spotify.com/track/4iqtDvbICWuBERMTz9cz41) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Call Me](https://open.spotify.com/album/2NlSt0ZVPsx3dblkIoamuo) | 2:19 |
 | 24 | [JE N'EXISTE PAS](https://open.spotify.com/track/25xqUhCDGyJejMANoigvrI) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [ULTRAKUNST](https://open.spotify.com/album/1OegF0mIizsl36EVw1y1SW) | 4:40 |
-| 25 | [My Barn My Rules \- Edit](https://open.spotify.com/track/2y2FrM6flv3s5LNqpjGVgW) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [My Barn My Rules](https://open.spotify.com/album/0mJRlyJ18EPNEGXromb9d0) | 2:06 |
-| 26 | [BLOODY ASS SHOES](https://open.spotify.com/track/5xdmotWnFPVuPEZAI98OHl) | [Project 98](https://open.spotify.com/artist/78DBqQqK14yzExqp8L9d27) | [BLOODY ASS SHOES](https://open.spotify.com/album/28PKjKbNF9M3MjzyZ9Gz1n) | 2:19 |
+| 25 | [BLOODY ASS SHOES](https://open.spotify.com/track/5xdmotWnFPVuPEZAI98OHl) | [Project 98](https://open.spotify.com/artist/78DBqQqK14yzExqp8L9d27) | [BLOODY ASS SHOES](https://open.spotify.com/album/28PKjKbNF9M3MjzyZ9Gz1n) | 2:19 |
+| 26 | [My Barn My Rules \- Edit](https://open.spotify.com/track/2y2FrM6flv3s5LNqpjGVgW) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [My Barn My Rules](https://open.spotify.com/album/0mJRlyJ18EPNEGXromb9d0) | 2:06 |
 | 27 | [Toro \(I Hate Models Speed Up Revival Edit of Andre VII RMX\)](https://open.spotify.com/track/1HIalwjo1TQVaB63BXbkQu) | [El Columpio Asesino](https://open.spotify.com/artist/7oXqKY12gSK5Q37dWZYWT0), [I Hate Models](https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN), [Andre VII](https://open.spotify.com/artist/6ydoTVyJn4VEKeRUeTtjFq) | [Toro \(I Hate Models Speed Up Revival Edit of Andre VII RMX\)](https://open.spotify.com/album/3J2Hrh8Zz20bTRTgKSBz60) | 6:11 |
 | 28 | [Pretty People \(feat\. INJI\)](https://open.spotify.com/track/1EdmLWe4HDbrw5CM0bOnxS) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [Pretty People \(feat\. INJI\)](https://open.spotify.com/album/4Rk7c9Vfq3if5ra3ibISDd) | 2:29 |
 | 29 | [DIE LIEBE KOMMT NICHT AUS BERLIN](https://open.spotify.com/track/3bYEYuHHiX1TmdLUiWykIc) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [DIE LIEBE KOMMT NICHT AUS BERLIN](https://open.spotify.com/album/6NquqivifGK4u1fqazCxqi) | 3:26 |
 | 30 | [The Captain](https://open.spotify.com/track/4NGwhkwJzROYFJKNFmFHus) | [HIJCKD](https://open.spotify.com/artist/4oFuOElyTlMdZMXMQBSdVq) | [The Captain](https://open.spotify.com/album/0hc4lRGEKpOzSdd2KXZ47j) | 3:12 |
 | 31 | [Unity \- Original Mix](https://open.spotify.com/track/4lotSTi1ufPLtyfTLZ4VNF) | [Droplex](https://open.spotify.com/artist/5yePldMswAMD9fvIfRUc2o), [Steve C](https://open.spotify.com/artist/4XSkgDkwi4AQXvtO0EMGcb) | [Unity \(Original Mix\)](https://open.spotify.com/album/5W3X60uJ524fwrtijDUcAy) | 5:12 |
 | 32 | [Love Express](https://open.spotify.com/track/6xsnEg4g2Z9rqRlewkENhP) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Dunes](https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB) | 2:41 |
-| 33 | [You're Toxic](https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [You're Toxic](https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r) | 6:11 |
-| 34 | [All Of It](https://open.spotify.com/track/79grw34DPX7iCvVUfBPB9S) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK), [Lucy Dye](https://open.spotify.com/artist/43ExVtoWEweRa8s1SlFZUj) | [All Of It](https://open.spotify.com/album/5iHDU2XwpJwk0xiIH1Bc6Z) | 5:31 |
+| 33 | [All Of It](https://open.spotify.com/track/79grw34DPX7iCvVUfBPB9S) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK), [Lucy Dye](https://open.spotify.com/artist/43ExVtoWEweRa8s1SlFZUj) | [All Of It](https://open.spotify.com/album/5iHDU2XwpJwk0xiIH1Bc6Z) | 5:31 |
+| 34 | [You're Toxic](https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [You're Toxic](https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r) | 6:11 |
 | 35 | [It's That Time](https://open.spotify.com/track/2YlrFLQMDvkvnAlyS94zo8) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [It's That Time](https://open.spotify.com/album/0kUIijubTS9zx7cBu6HiVv) | 4:00 |
 | 36 | [tonight belongs to you](https://open.spotify.com/track/2WG0gMuRku7LfFObheSXID) | [Bissett](https://open.spotify.com/artist/4Mgx5TSeuT3wJwZYu6T7t7) | [tonight belongs to you](https://open.spotify.com/album/5oEWotsYKfSnkN6Hp11yMS) | 2:27 |
 | 37 | [Good Energy](https://open.spotify.com/track/0Xy9SDulwgZhez4ybnRfuz) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Good Energy](https://open.spotify.com/album/0QhvkMApI7fDSW7D1e4y1x) | 5:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 49 | [I Am Machine](https://open.spotify.com/track/7A8ec8nBw1BEwGgdSL5H90) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [I Am Machine](https://open.spotify.com/album/3m4demyPqalmJXRsKInCKi) | 6:17 |
 | 50 | [Get Busy](https://open.spotify.com/track/0MQN5qEy7j7ptYreg4evUX) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Get Busy](https://open.spotify.com/album/0Nx7HrtVR1jpwpAtD9O8ob) | 3:20 |
 
-Snapshot ID: `MCxjYWRmOWM4YzgzOWJmYWNiYmQwZDI4NTA1ODNlMDgyYjlkNzgzMDdl`
+Snapshot ID: `MCxhN2JlZTczMTUxNTc2ZjJkOThmNjg2MGU1ODJiZGZmMjY3MTI2NzVl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Mt\. Joy & Julia Pratt
 
-[Spotify](https://open.spotify.com/user/spotify) - 792,880 likes - 150 songs - 9 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 792,994 likes - 150 songs - 9 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 63 | [Holes](https://open.spotify.com/track/0B6v7ZT2yrqYaCQb6OP5Gn) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Holes](https://open.spotify.com/album/1AAJoXqYgInrxXjoRCK4Uh) | 3:58 |
 | 64 | [Worst Thoughts In The World](https://open.spotify.com/track/25jvLeMGFR1GZrLyoSPLEF) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Worst Thoughts In The World](https://open.spotify.com/album/6koPonU48MJwNcLavraNV2) | 2:26 |
 | 65 | [Where Are Your Kids Tonight? \(feat\. John Grant\)](https://open.spotify.com/track/1yUlR1nyJfoXot9vivtlD0) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv), [John Grant](https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf) | [Where Are Your Kids Tonight? \(feat\. John Grant\)](https://open.spotify.com/album/3zcyFcBDhb8rfthnlQnCPE) | 5:26 |
-| 66 | [Shinbone](https://open.spotify.com/track/5tqGsvI2mB9k4rA2ELxmLU) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Shinbone](https://open.spotify.com/album/5JzVleyf5QHPPCHOU9DvXl) | 3:46 |
+| 66 | [Shinbone](https://open.spotify.com/track/5udxaeL6YV0ToIwekTM4Mt) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [20 Years and a Nickel](https://open.spotify.com/album/02bhRp09k7erA3JsN8BHTz) | 3:46 |
 | 67 | [Honey](https://open.spotify.com/track/7KXox0OtaeI7iAadPc2dEw) | [Taylor Ashton](https://open.spotify.com/artist/53t38sKooUEyyENANtticX), [Jacob Sharp](https://open.spotify.com/artist/7rAqCeLrJNATPpQ0uc3Y4S) | [Honey](https://open.spotify.com/album/7CVVXHlbXtVb4AZnjVPulD) | 4:13 |
 | 68 | [Memories](https://open.spotify.com/track/7raFiiAe2tfVTq4fCKhIhE) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Memories](https://open.spotify.com/album/7j4ymmtwxJP6icpbkWwYBh) | 4:13 |
 | 69 | [The Scull of Lucia](https://open.spotify.com/track/20bC86TdhHky8j8dkjVmpH) | [Sparklehorse](https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE) | [The Scull of Lucia](https://open.spotify.com/album/5RGqrKUuLfcRNMIN6iuBVy) | 4:11 |
@@ -151,7 +151,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 141 | [Love You the Most](https://open.spotify.com/track/6I0b7U4mlURIEL7uiIxjhj) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [Love You the Most](https://open.spotify.com/album/4pbTZ28exY6GZ6x3Hm5psZ) | 2:51 |
 | 142 | [This](https://open.spotify.com/track/6y0pooaE0WoVohlFwVPuT8) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [If Nothing Changes](https://open.spotify.com/album/3nXHu0E3uVVGf2MyUNQJqG) | 4:56 |
 | 143 | [Changes \(feat\. Laura Elliott\)](https://open.spotify.com/track/6jnpmyEFhz9Y4ASLZ48rGJ) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp), [Laura Elliott](https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox) | [More Better](https://open.spotify.com/album/2umzUVhmjlQSt2aydhVofA) | 4:00 |
-| 144 | [Nu\-Grape](https://open.spotify.com/track/5DLCGocLoRsi3DpQssO60a) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Nu\-Grape](https://open.spotify.com/album/7IfxZlK1wsSudOfoBqQ3sx) | 3:28 |
+| 144 | [Nu\-Grape](https://open.spotify.com/track/21r46gpVhsV2zvbfK0aXOK) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [20 Years and a Nickel](https://open.spotify.com/album/02bhRp09k7erA3JsN8BHTz) | 3:28 |
 | 145 | [A Little Older](https://open.spotify.com/track/1m56W6gAJihdK03ZVr6DIv) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [A Little Older](https://open.spotify.com/album/0HFPYiYnX5HgnfEO5TAUDR) | 3:02 |
 | 146 | [Defender](https://open.spotify.com/track/4qVsCZhRS0glJbl3kvmGn4) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [Defender](https://open.spotify.com/album/63DtjiEiEhC3ZeQqIOeO7O) | 3:56 |
 | 147 | [Line Of Fire \(feat\. Sharon Van Etten\)](https://open.spotify.com/track/1oweOQ4jXiQJ6qdS8W3VY3) | [Junip](https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW), [Elias Araya](https://open.spotify.com/artist/5sIkHEIJz1lDVV4PHV6tPs), [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [Tobias Winterkorn](https://open.spotify.com/artist/6zL6OfCqiThdz2GXTLIB0K) | [Line Of Fire \(feat\. Sharon Van Etten\)](https://open.spotify.com/album/2rGFxglu6CsziJdvShqaut) | 5:38 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Twelve\-Thirty \(Young Girls Are Coming To The Canyon\) \[feat\. Susanna Hoffs, Chris Stills & Sheryl Crow\]](https://open.spotify.com/track/6wyiD5nZjbBsHnPwgUS6YJ) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8), [Susanna Hoffs](https://open.spotify.com/artist/2Sc4ukCRllIu02LZfHF0RL), [Chris Stills](https://open.spotify.com/artist/73BKaGq96QFgdnRXU3v0t7), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Folkocracy](https://open.spotify.com/album/7FGoS4iN1v6SlsiUx1X5Wx) | 3:42 |
 | 150 | [Body Language](https://open.spotify.com/track/3sEwILGX1PMQehuSsuHDL3) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O) | [Inside Voices](https://open.spotify.com/album/6Y8OzJxsegw8BIY6jKGCxv) | 2:46 |
 
-Snapshot ID: `MCxmNjhjZWNlZDA2ZGM5NTIyMWE3YzQ2NWUxMWM2YTY3Yjk1MmI4NGM2`
+Snapshot ID: `MCw4NDdmZDM1MWFkMTFjYjJhMTIyODU3YzJjNWU3OWM0YWQ1N2U0NTQ2`

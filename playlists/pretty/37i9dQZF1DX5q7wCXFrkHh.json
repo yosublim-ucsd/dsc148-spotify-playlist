@@ -1,12 +1,12 @@
 {
   "description": "The classic piano recordings in Jazz. Cover: Oscar Peterson",
-  "num_followers": 69744,
+  "num_followers": 69845,
   "original_name": "Jazz Piano Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Zjg2YTEwMzJhNjJhOWU0NDYxYzNmMmQyMDVlMzExOWIwYWM0YTRh",
+  "snapshot_id": "MCw4ODU4MDYyZTg4NTUzNzU3ZDZkN2U4ZDdlMTdkZjVkNTVlOWYwN2Yz",
   "tracks": [
     {
       "added_at": "2023-06-21 12:02:17",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-06-21 12:02:17",
       "album": {
-        "name": "The Amazing Bud Powell",
-        "url": "https://open.spotify.com/album/6zmiY7rh11iF7Bp7Z9zcHp"
-      },
-      "artists": [
-        {
-          "name": "Bud Powell",
-          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
-        }
-      ],
-      "duration_ms": 196353,
-      "name": "You Go To My Head",
-      "url": "https://open.spotify.com/track/5ik210SniDcr9HKBAf1MD8"
-    },
-    {
-      "added_at": "2023-06-21 12:02:17",
-      "album": {
         "name": "Plays Misty",
         "url": "https://open.spotify.com/album/5sJxY1pjo8qSUG5pgiMcI9"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 171000,
       "name": "Misty",
       "url": "https://open.spotify.com/track/6oanIhkNbxXnX19RTtkpEL"
+    },
+    {
+      "added_at": "2023-06-21 12:02:17",
+      "album": {
+        "name": "The Amazing Bud Powell",
+        "url": "https://open.spotify.com/album/6zmiY7rh11iF7Bp7Z9zcHp"
+      },
+      "artists": [
+        {
+          "name": "Bud Powell",
+          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
+        }
+      ],
+      "duration_ms": 196353,
+      "name": "You Go To My Head",
+      "url": "https://open.spotify.com/track/5ik210SniDcr9HKBAf1MD8"
     },
     {
       "added_at": "2023-06-21 12:02:17",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-06-21 12:02:17",
       "album": {
-        "name": "The Amazing Bud Powell, Vol. 2 (2001 RVG Edition)",
-        "url": "https://open.spotify.com/album/0g89pAOtXDdr9HfO79s5uM"
-      },
-      "artists": [
-        {
-          "name": "Bud Powell",
-          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
-        }
-      ],
-      "duration_ms": 244466,
-      "name": "Polka Dots And Moonbeams - Remastered",
-      "url": "https://open.spotify.com/track/7pKWTcPfT9mg2iAhobFHpS"
-    },
-    {
-      "added_at": "2023-06-21 12:02:17",
-      "album": {
         "name": "Night Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 340333,
       "name": "Bag's Groove",
       "url": "https://open.spotify.com/track/0ZK55vvr1yrm6HXMoUhugy"
+    },
+    {
+      "added_at": "2023-06-21 12:02:17",
+      "album": {
+        "name": "The Amazing Bud Powell, Vol. 2 (2001 RVG Edition)",
+        "url": "https://open.spotify.com/album/0g89pAOtXDdr9HfO79s5uM"
+      },
+      "artists": [
+        {
+          "name": "Bud Powell",
+          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
+        }
+      ],
+      "duration_ms": 244466,
+      "name": "Polka Dots And Moonbeams - Remastered",
+      "url": "https://open.spotify.com/track/7pKWTcPfT9mg2iAhobFHpS"
     },
     {
       "added_at": "2023-06-21 12:02:17",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-06-21 12:02:17",
       "album": {
-        "name": "Kenny Drew And His Progressive Piano",
-        "url": "https://open.spotify.com/album/3xelKHGo8Hcp0Eml2S95pe"
-      },
-      "artists": [
-        {
-          "name": "Kenny Drew",
-          "url": "https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY"
-        }
-      ],
-      "duration_ms": 204506,
-      "name": "52nd Street Theme",
-      "url": "https://open.spotify.com/track/63AH56BdSoBHKJAnsB6KiR"
-    },
-    {
-      "added_at": "2023-06-21 12:02:17",
-      "album": {
         "name": "Dave Brubeck's Greatest Hits",
         "url": "https://open.spotify.com/album/425dVE44lkA2a0FBI7MGLE"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 179333,
       "name": "I'm in a Dancing Mood",
       "url": "https://open.spotify.com/track/3DkdldkTR0pbVYKMg5eXJO"
+    },
+    {
+      "added_at": "2023-06-21 12:02:17",
+      "album": {
+        "name": "Kenny Drew And His Progressive Piano",
+        "url": "https://open.spotify.com/album/3xelKHGo8Hcp0Eml2S95pe"
+      },
+      "artists": [
+        {
+          "name": "Kenny Drew",
+          "url": "https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY"
+        }
+      ],
+      "duration_ms": 204506,
+      "name": "52nd Street Theme",
+      "url": "https://open.spotify.com/track/63AH56BdSoBHKJAnsB6KiR"
     },
     {
       "added_at": "2023-06-21 12:02:17",
@@ -719,8 +719,8 @@
     {
       "added_at": "2023-06-21 12:02:17",
       "album": {
-        "name": "You Must Believe In Spring (Remastered Version)",
-        "url": "https://open.spotify.com/album/2B583jxnkHmIyBU6Z8VlmI"
+        "name": "Everybody Digs Bill Evans",
+        "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 273706,
-      "name": "Sometime Ago - Remastered",
-      "url": "https://open.spotify.com/track/7fmhH8sQPLwiGPMOkFr7eU"
+      "duration_ms": 214440,
+      "name": "Tenderly",
+      "url": "https://open.spotify.com/track/4Y9WU4Za9QVX7IIk7bjJCS"
     },
     {
       "added_at": "2023-06-21 12:02:17",
@@ -815,8 +815,8 @@
     {
       "added_at": "2023-06-21 12:02:17",
       "album": {
-        "name": "Everybody Digs Bill Evans",
-        "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
+        "name": "You Must Believe In Spring (Remastered Version)",
+        "url": "https://open.spotify.com/album/2B583jxnkHmIyBU6Z8VlmI"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 214440,
-      "name": "Tenderly",
-      "url": "https://open.spotify.com/track/4Y9WU4Za9QVX7IIk7bjJCS"
+      "duration_ms": 273706,
+      "name": "Sometime Ago - Remastered",
+      "url": "https://open.spotify.com/track/7fmhH8sQPLwiGPMOkFr7eU"
     },
     {
       "added_at": "2023-06-21 12:02:17",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-06-21 12:02:17",
       "album": {
+        "name": "Piano Starts Here",
+        "url": "https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr"
+      },
+      "artists": [
+        {
+          "name": "Art Tatum",
+          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Sophisticated Lady",
+      "url": "https://open.spotify.com/track/0eCJ74qKvTcqA3oWzBlzPx"
+    },
+    {
+      "added_at": "2023-06-21 12:02:17",
+      "album": {
         "name": "Ready Take One",
         "url": "https://open.spotify.com/album/2wWuVfDOvITHUmb0KDzbrM"
       },
@@ -979,22 +995,6 @@
     {
       "added_at": "2023-06-21 12:02:17",
       "album": {
-        "name": "Piano Starts Here",
-        "url": "https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr"
-      },
-      "artists": [
-        {
-          "name": "Art Tatum",
-          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Sophisticated Lady",
-      "url": "https://open.spotify.com/track/0eCJ74qKvTcqA3oWzBlzPx"
-    },
-    {
-      "added_at": "2023-06-21 12:02:17",
-      "album": {
         "name": "Moon Beams",
         "url": "https://open.spotify.com/album/6BF1FJIGXf9wj4FKbDIaH1"
       },
@@ -1023,6 +1023,22 @@
       "duration_ms": 671866,
       "name": "Bye Bye Blackbird",
       "url": "https://open.spotify.com/track/1uO2eaMymZQU82tV5eSXZZ"
+    },
+    {
+      "added_at": "2023-06-21 12:02:17",
+      "album": {
+        "name": "Jazz Impressions Of New York",
+        "url": "https://open.spotify.com/album/595TGZHxJLd3Zwu1Rlz5RH"
+      },
+      "artists": [
+        {
+          "name": "Dave Brubeck",
+          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
+        }
+      ],
+      "duration_ms": 147333,
+      "name": "Theme From \"Mr. Broadway\"",
+      "url": "https://open.spotify.com/track/0XV5KWGsFVYsZTjK9Jsj5N"
     },
     {
       "added_at": "2023-06-21 12:02:17",
@@ -1063,22 +1079,6 @@
       "duration_ms": 301773,
       "name": "I Can't Give You Anything But Love",
       "url": "https://open.spotify.com/track/04md2B5nmsojIkTSUWff2C"
-    },
-    {
-      "added_at": "2023-06-21 12:02:17",
-      "album": {
-        "name": "Jazz Impressions Of New York",
-        "url": "https://open.spotify.com/album/595TGZHxJLd3Zwu1Rlz5RH"
-      },
-      "artists": [
-        {
-          "name": "Dave Brubeck",
-          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
-        }
-      ],
-      "duration_ms": 147333,
-      "name": "Theme From \"Mr. Broadway\"",
-      "url": "https://open.spotify.com/track/0XV5KWGsFVYsZTjK9Jsj5N"
     },
     {
       "added_at": "2023-06-21 12:02:17",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-06-21 12:02:17",
       "album": {
-        "name": "Crystal",
-        "url": "https://open.spotify.com/album/61tuvxkgsvrsRQmoMSu6YA"
-      },
-      "artists": [
-        {
-          "name": "Ahmad Jamal",
-          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
-        }
-      ],
-      "duration_ms": 248760,
-      "name": "Swahililand",
-      "url": "https://open.spotify.com/track/7qwuryqoBBEH56d3iEhIBO"
-    },
-    {
-      "added_at": "2023-06-21 12:02:17",
-      "album": {
         "name": "Music",
         "url": "https://open.spotify.com/album/6TYjyPndfRAuYDTmiYIt2g"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 347826,
       "name": "Looking Up",
       "url": "https://open.spotify.com/track/6i1WORWeJD92fYDhww2wYE"
+    },
+    {
+      "added_at": "2023-06-21 12:02:17",
+      "album": {
+        "name": "Crystal",
+        "url": "https://open.spotify.com/album/61tuvxkgsvrsRQmoMSu6YA"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Jamal",
+          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
+        }
+      ],
+      "duration_ms": 248760,
+      "name": "Swahililand",
+      "url": "https://open.spotify.com/track/7qwuryqoBBEH56d3iEhIBO"
     },
     {
       "added_at": "2023-06-21 12:02:17",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-06-21 12:02:17",
       "album": {
-        "name": "I Got Rhythm",
-        "url": "https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9"
-      },
-      "artists": [
-        {
-          "name": "Teddy Wilson",
-          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
-        }
-      ],
-      "duration_ms": 177506,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/6KcR5mcZOhZKcRRXWsGkAv"
-    },
-    {
-      "added_at": "2023-06-21 12:02:17",
-      "album": {
         "name": "The Duke Plays Ellington",
         "url": "https://open.spotify.com/album/16DFutmQC0e4V8etsg5ZGG"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 447813,
       "name": "When I Fall in Love",
       "url": "https://open.spotify.com/track/0LtLxQA6lkxOgCE4iCIThe"
+    },
+    {
+      "added_at": "2023-06-21 12:02:17",
+      "album": {
+        "name": "I Got Rhythm",
+        "url": "https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9"
+      },
+      "artists": [
+        {
+          "name": "Teddy Wilson",
+          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
+        }
+      ],
+      "duration_ms": 177506,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/6KcR5mcZOhZKcRRXWsGkAv"
     },
     {
       "added_at": "2023-06-21 12:02:17",
@@ -1591,6 +1591,30 @@
     {
       "added_at": "2023-06-21 12:02:17",
       "album": {
+        "name": "Lemuria-Seascape (Remastered)",
+        "url": "https://open.spotify.com/album/5VPAg2cD1q7aVpdUYYuYhx"
+      },
+      "artists": [
+        {
+          "name": "Kenny Barron",
+          "url": "https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3"
+        },
+        {
+          "name": "Ray Drummond",
+          "url": "https://open.spotify.com/artist/06zGDdseDUlrQgqogXA3mP"
+        },
+        {
+          "name": "Ben Riley",
+          "url": "https://open.spotify.com/artist/5kJE3cE2n7nsTy9LP7KPnj"
+        }
+      ],
+      "duration_ms": 344044,
+      "name": "Fungii Mama - Remastered",
+      "url": "https://open.spotify.com/track/55hl0N5Fb8SaQwSAAku2Wy"
+    },
+    {
+      "added_at": "2023-06-21 12:02:17",
+      "album": {
         "name": "Fishin' In Stockholm",
         "url": "https://open.spotify.com/album/7v5OM3TzTEvrehXpDYMm21"
       },
@@ -1619,30 +1643,6 @@
       "duration_ms": 170306,
       "name": "Love Is Here To Stay",
       "url": "https://open.spotify.com/track/1VNPjGAzBm9BYAiOmHYtv0"
-    },
-    {
-      "added_at": "2023-06-21 12:02:17",
-      "album": {
-        "name": "Lemuria-Seascape (Remastered)",
-        "url": "https://open.spotify.com/album/5VPAg2cD1q7aVpdUYYuYhx"
-      },
-      "artists": [
-        {
-          "name": "Kenny Barron",
-          "url": "https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3"
-        },
-        {
-          "name": "Ray Drummond",
-          "url": "https://open.spotify.com/artist/06zGDdseDUlrQgqogXA3mP"
-        },
-        {
-          "name": "Ben Riley",
-          "url": "https://open.spotify.com/artist/5kJE3cE2n7nsTy9LP7KPnj"
-        }
-      ],
-      "duration_ms": 344044,
-      "name": "Fungii Mama - Remastered",
-      "url": "https://open.spotify.com/track/55hl0N5Fb8SaQwSAAku2Wy"
     },
     {
       "added_at": "2023-06-21 12:02:17",

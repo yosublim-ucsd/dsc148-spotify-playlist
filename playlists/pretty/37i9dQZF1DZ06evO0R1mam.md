@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 
 > This is Tye Tribbett\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,031 likes - 46 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,038 likes - 46 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,12 +38,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 | 28 | [You Are Good \- Live](https://open.spotify.com/track/2AfxHwD4EII0RKJmSo7Z2C) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Greater Than \(Live\)](https://open.spotify.com/album/4PbHCckGALCndisP6NsETF) | 5:02 |
 | 29 | [I Want It All Back \- Live](https://open.spotify.com/track/6JgbktlskIRt68HBmkfCgr) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Victory Live](https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG) | 5:28 |
 | 30 | [Already Won \- Live](https://open.spotify.com/track/6eoJ4Rs6P8H29MZ43JnbRH) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [The Bloody Win \(Live\)](https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk) | 3:31 |
-| 31 | [Reppin' The Kingdom \(feat\. J Moss, Canton Jones, Tye Tribbett & T Haddy\)](https://open.spotify.com/track/6NabK7p4Fcor1gwBgv2jLQ) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9), [J Moss](https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP), [Canton Jones](https://open.spotify.com/artist/3nzEXHMRFWTw4zt3pVRv6V), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [T Haddy](https://open.spotify.com/artist/5nzstLIZDM5ky0D61AJEGd) | [Church On The Moon](https://open.spotify.com/album/7tAv6YInjBhHbBjs8tqNlk) | 5:01 |
-| 32 | [I Made It \(feat\. Tye Tribbett\)](https://open.spotify.com/track/6QRChvrJzuvw8felxvZLbj) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [The Definition Of...](https://open.spotify.com/album/3NnAB6jt5B0jjkZAuNddVo) | 5:40 |
+| 31 | [I Made It \(feat\. Tye Tribbett\)](https://open.spotify.com/track/6QRChvrJzuvw8felxvZLbj) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [The Definition Of...](https://open.spotify.com/album/3NnAB6jt5B0jjkZAuNddVo) | 5:40 |
+| 32 | [Reppin' The Kingdom \(feat\. J Moss, Canton Jones, Tye Tribbett & T Haddy\)](https://open.spotify.com/track/6NabK7p4Fcor1gwBgv2jLQ) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9), [J Moss](https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP), [Canton Jones](https://open.spotify.com/artist/3nzEXHMRFWTw4zt3pVRv6V), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [T Haddy](https://open.spotify.com/artist/5nzstLIZDM5ky0D61AJEGd) | [Church On The Moon](https://open.spotify.com/album/7tAv6YInjBhHbBjs8tqNlk) | 5:01 |
 | 33 | [Nobody \- Live](https://open.spotify.com/track/3vzBiQcnpn27wXF2uI7Atr) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Greater Than \(Live\)](https://open.spotify.com/album/4PbHCckGALCndisP6NsETF) | 5:34 |
 | 34 | [Let Us Worship](https://open.spotify.com/track/135kZmHIhJhzomzKpV9IVm) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Stand out](https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf) | 4:17 |
-| 35 | [Champion](https://open.spotify.com/track/5jh6FTGuERahsyV7snAdQS) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Fresh](https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A) | 4:52 |
-| 36 | [Baptize](https://open.spotify.com/track/30pzROQaEOgr7meYwlTc3K) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [As I Am](https://open.spotify.com/album/1M0VIXPymzW0uscfSIRHUr) | 2:10 |
+| 35 | [Baptize](https://open.spotify.com/track/30pzROQaEOgr7meYwlTc3K) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [As I Am](https://open.spotify.com/album/1M0VIXPymzW0uscfSIRHUr) | 2:10 |
+| 36 | [Champion](https://open.spotify.com/track/5jh6FTGuERahsyV7snAdQS) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Fresh](https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A) | 4:52 |
 | 37 | [1\-2 \(Victory Check\) \- Live](https://open.spotify.com/track/5EN0vOxkd5jnh62qvM5BP1) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Victory Live](https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG) | 3:18 |
 | 38 | [Hold On](https://open.spotify.com/track/19vgIcw6SOe7Ss7EuWzxM7) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Stand out](https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf) | 5:06 |
 | 39 | [I Give You Glory](https://open.spotify.com/track/3OV4aZDRNpg46THOyltbUE) | [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Fearless \(Deluxe Edition\)](https://open.spotify.com/album/2VZ2wxXREyzvLSGDdQtDsD) | 8:25 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 | 45 | [Stand Out](https://open.spotify.com/track/3gYH02L5BHwo7fAM7oiziR) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Stand out](https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf) | 4:42 |
 | 46 | [Out Of Hiding / How He Loves / Good Good Father \- Medley/Live](https://open.spotify.com/track/5LV9XOXzoyYmNnKPVH9wBv) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [Lena Byrd\-Miles](https://open.spotify.com/artist/02dokIaBFwqSfAFyU8xWWZ) | [The Bloody Win \(Live\)](https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk) | 8:29 |
 
-Snapshot ID: `MjgxOTE2NzksMDAwMDAwMDA5MTBhMDFjZGRjODI0NDY2ZjExZGQ3NDY1ZGZiMjllZg==`
+Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDBhMmEyMmQ5ZTE2YWIwMjNiNDc2ODE5Mzg1YWQ2NzRjYg==`

@@ -1,12 +1,12 @@
 {
   "description": "In cerca di energie? Prova con la nostra playlist!",
-  "num_followers": 167186,
+  "num_followers": 167184,
   "original_name": "Una Carica di Espresso!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTdlYTZmYmQwZDUzZTI5YmE5NmRlMjFlMGViYjM3OTNkZGM1ODlj",
+  "snapshot_id": "MCw3ODEzNmI3YmYzYzZjMDgxNjE5MjA5YWIyMjA4NjFiYjE1NjMzZjRi",
   "tracks": [
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1127,30 +1127,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Easy (with Kacey Musgraves feat. Mark Ronson)",
-        "url": "https://open.spotify.com/album/7FUNRteYv2Flt9Lr8JHFIR"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        },
-        {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        }
-      ],
-      "duration_ms": 213571,
-      "name": "Easy (with Kacey Musgraves feat. Mark Ronson)",
-      "url": "https://open.spotify.com/track/4XWaUb7mKRcJR5RPp4IIDr"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Beautiful People (feat. Khalid) [NOTD Remix]",
         "url": "https://open.spotify.com/album/2oEcytQ5u5QtR9VZc2XgE2"
       },
@@ -1171,6 +1147,30 @@
       "duration_ms": 162081,
       "name": "Beautiful People (feat. Khalid) - NOTD Remix",
       "url": "https://open.spotify.com/track/6J7WMB5GII6pEOzy687jhO"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Easy (with Kacey Musgraves feat. Mark Ronson)",
+        "url": "https://open.spotify.com/album/7FUNRteYv2Flt9Lr8JHFIR"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        },
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        }
+      ],
+      "duration_ms": 213571,
+      "name": "Easy (with Kacey Musgraves feat. Mark Ronson)",
+      "url": "https://open.spotify.com/track/4XWaUb7mKRcJR5RPp4IIDr"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Finally",
-        "url": "https://open.spotify.com/album/0mjru6iErl5h2amcxpMpg9"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "RANI",
-          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
-        }
-      ],
-      "duration_ms": 188891,
-      "name": "Finally",
-      "url": "https://open.spotify.com/track/0PZpE9CYvOLt0wRZeOY5fV"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Happy Machine",
         "url": "https://open.spotify.com/album/2iab1reuBluKDh3wspwu3e"
       },
@@ -1423,22 +1403,22 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Crazy Love",
-        "url": "https://open.spotify.com/album/0nFUcnT6Kdx9BWoM3RKAxh"
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/0mjru6iErl5h2amcxpMpg9"
       },
       "artists": [
         {
-          "name": "Toby Romeo",
-          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
         },
         {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+          "name": "RANI",
+          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
         }
       ],
-      "duration_ms": 186184,
-      "name": "Crazy Love",
-      "url": "https://open.spotify.com/track/6jQXpMHQNaGGFE03wRDiUM"
+      "duration_ms": 188891,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/0PZpE9CYvOLt0wRZeOY5fV"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1483,6 +1463,26 @@
       "duration_ms": 234374,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/0KG7XrgM20KEmJrKsyFDAm"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Crazy Love",
+        "url": "https://open.spotify.com/album/0nFUcnT6Kdx9BWoM3RKAxh"
+      },
+      "artists": [
+        {
+          "name": "Toby Romeo",
+          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
+        },
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        }
+      ],
+      "duration_ms": 186184,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/6jQXpMHQNaGGFE03wRDiUM"
     },
     {
       "added_at": "2023-07-07 04:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Art School Girlfriend
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,444 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,470 likes - 80 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 67 | [Inside My Chest](https://open.spotify.com/track/7aW3ig8WrV4ynt1xiAua2l) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Part I – When Everything Was Lost](https://open.spotify.com/album/47O3IGWPznhWBKQfs9yKz2) | 3:11 |
 | 68 | [Skin](https://open.spotify.com/track/2ylkVRkpfmIP2B59GcfSlO) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Skin](https://open.spotify.com/album/0eDX7CrW59UxWQvTUo7eq4) | 3:51 |
 | 69 | [Snakes](https://open.spotify.com/track/5DynpF8hwm3QYiaRr4V4S4) | [TTRRUUCES](https://open.spotify.com/artist/4fFSyYQa0jRwFSunVahGw8) | [Snakes](https://open.spotify.com/album/7N2epZ72hbE1JzrezuOwp1) | 4:07 |
-| 70 | [Norwegian Wood](https://open.spotify.com/track/0hqwO626QOUFYQjuKSkgOJ) | [Picture Parlour](https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV) | [Norwegian Wood](https://open.spotify.com/album/7awWgs9eg9Us5jQg4nm5Ck) | 3:34 |
+| 70 | [Norwegian Wood](https://open.spotify.com/track/50Wusuhe7GBuOr5xGZlyGe) | [Picture Parlour](https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV) | [Norwegian Wood](https://open.spotify.com/album/4vXzCKpcnI930OU3QNCOLW) | 3:34 |
 | 71 | [Gold](https://open.spotify.com/track/6RGrfHoY9vHkpkvsyGNCBx) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [ÁTTA](https://open.spotify.com/album/0PhjFcIDPt9cBRfYSJou3v) | 5:13 |
 | 72 | [STUNT GIRL](https://open.spotify.com/track/30MW0bdlhJDOyZBHAERVLe) | [Coupdekat](https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0) | [\*FOR ENTERTAINMENT PURPOSES ONLY](https://open.spotify.com/album/70t4optPjcSeQJq8gg9SQQ) | 2:20 |
 | 73 | [Slipstream](https://open.spotify.com/track/7yygpnlQyzmy0zXiMTpoZv) | [Django Django](https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab) | [Off Planet](https://open.spotify.com/album/5An8eMki7iyqgQoufrMlI0) | 5:07 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 79 | [sub 32](https://open.spotify.com/track/5bJyWVbQjvHlA4eptnaHeT) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [sub 32](https://open.spotify.com/album/1ayf7TVmz3NSRUD1q36mMJ) | 1:48 |
 | 80 | [Burn Money](https://open.spotify.com/track/4edy96lC5RsbZvOI0HvmUO) | [Delilah Holliday](https://open.spotify.com/artist/1Jcu8RReH3v0k4Zmll7VFZ) | [Invaluable Vol.1](https://open.spotify.com/album/5NUbkJxoermauKSzXjoFal) | 2:06 |
 
-Snapshot ID: `MCwzNTFkNDViYjQzZTkyNWIwYzgyZTc2ODFkNzA1Nzk0NjA3MWYwYTA1`
+Snapshot ID: `MCxjZTQ4NDhhYjFmNWY4OGZmM2RkMzhjMzc2MjY4ODFjNzc1YWRkMWRl`

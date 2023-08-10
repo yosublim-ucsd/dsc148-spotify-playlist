@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Fito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,925 likes - 75 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 562,059 likes - 75 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 74 | [Flojos de pantalón](https://open.spotify.com/track/5xEQItoulehU1apBfxqkM1) | [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N) | [Jugar Al Gua](https://open.spotify.com/album/5ibEXgq0ceSFbGT3P3cpl0) | 4:22 |
 | 75 | [Todo Tiene Su Fin](https://open.spotify.com/track/3a6PKtYVIowjsac9DAja3T) | [Medina Azahara](https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl) | [Sin Tiempo](https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn) | 4:56 |
 
-Snapshot ID: `MCxkYzM2MzRjNzM1Y2ZlNGZjODFhNmNjOWU2ZWQ2N2E1ZWI5OTNiNDM1`
+Snapshot ID: `MCwxMjc1NGMwZTcwMDI3MmJjY2Q2NjY0NmJkYjhjMjhhNDNlYjE4YmEz`

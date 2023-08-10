@@ -4,7 +4,7 @@
 
 > Nothing but precious sounds from the 90s & 2000s\. Cover: Choclair
 
-136 songs - 8 hr 55 min
+138 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Just a Second](https://open.spotify.com/track/63khjxx6Jcz8YGhWFWrL2P) | [Choclair](https://open.spotify.com/artist/6Ku2nSbcjRann6nTPimcFS) | [Just a Second](https://open.spotify.com/album/5O7awejDSOSd92idYH870A) | 4:26 | 2022-08-11 |  |
 | [Just Wanna Party \(feat\. Voyce\)](https://open.spotify.com/track/7zyaGu9SsApEuzFdiii833) | [jDiggz](https://open.spotify.com/artist/69h6qCRk2eD3QUWWFbVUzk), [Voyce](https://open.spotify.com/artist/6Jf2xsWhvbhPKmbhuinqcp) | [Memoirs of a Playbwoy \(Remastered\)](https://open.spotify.com/album/4jFt17ofd4gqcOBGu9KKvf) | 4:38 | 2022-07-01 | 2022-09-01 |
 | [Karma](https://open.spotify.com/track/7FyuOzN1V1Whhyh46tPiWZ) | [Mood](https://open.spotify.com/artist/2u2XHKuu3IWZvTvzXiciqu) | [Doom](https://open.spotify.com/album/7hOjTIuKBT7tP9XR0nGYCy) | 3:18 | 2022-07-01 |  |
-| [La force de comprendre](https://open.spotify.com/track/6qwAZau93JWbbiiuLn38dn) | [Dubmatique](https://open.spotify.com/artist/4uIMmnG9v9BVqSJbwhieny) | [La force de comprendre](https://open.spotify.com/album/1UxOD6dIiK68AlaBJgEuve) | 3:46 | 2022-07-01 | 2022-11-16 |
+| [La force de comprendre](https://open.spotify.com/track/6qwAZau93JWbbiiuLn38dn) | [Dubmatique](https://open.spotify.com/artist/4uIMmnG9v9BVqSJbwhieny) | [La force de comprendre](https://open.spotify.com/album/1UxOD6dIiK68AlaBJgEuve) | 3:46 | 2022-07-01 |  |
 | [Learn to Earn](https://open.spotify.com/track/1GNw15qPGChP3OkeVpagNG) | [Down Ta Erf](https://open.spotify.com/artist/5hznMGOJndBNISavtIs0Cs) | [Down Ta Erf](https://open.spotify.com/album/3HqA9RciaaTNAuGgrLYtLY) | 3:48 | 2022-11-15 |  |
 | [Learn to Earn](https://open.spotify.com/track/5pnb7gH2FdlgQYJr7z55a4) | [Down Ta Erf](https://open.spotify.com/artist/5hznMGOJndBNISavtIs0Cs) | [Down Ta Erf](https://open.spotify.com/album/4ABY3JMFDytAhnefa5Lczg) | 3:48 | 2022-07-01 | 2022-11-20 |
 | [Legal \- feat\. Alex Metcalf; Explicit](https://open.spotify.com/track/5BMHuTjHYqBHkiHRGLxVZb) | [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1), [Alex Metcalf](https://open.spotify.com/artist/70C7fLnzdoySLNINbjL5Kx) | [Two Hands Clapping](https://open.spotify.com/album/5rqUzNvdPOyQOzOamX2Qnl) | 3:23 | 2022-07-01 | 2022-10-20 |
@@ -138,10 +138,12 @@
 | [Thinkin' About You](https://open.spotify.com/track/1a9LoNwmEosWHvTxF1SCy8) | [2rude](https://open.spotify.com/artist/4Iidg3Dx7YDYjhsScQWr50), [Latoya & Miranda](https://open.spotify.com/artist/3C7A9mDljV6eGQ9HAHdDU3), [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1), [Smoothe Da'hustler](https://open.spotify.com/artist/5RT4FJsehaXq57F9lYdJDH) | [2Rude \(Rudimental 2K Remastered\)](https://open.spotify.com/album/1EVrrsLa9ZezXXhJ5kXrZD) | 3:46 | 2022-10-14 |  |
 | [Top Of The World \(feat\. Barrington Levy & k\-os\)](https://open.spotify.com/track/3wQ5GjgkmtHacx00hJiU8q) | [Rascalz](https://open.spotify.com/artist/74LVRFFZZEDYha9qZXsPHF), [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u), [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Global Warning](https://open.spotify.com/album/0Iy2vD1FWExzywkHNSeYO4) | 4:48 | 2022-07-01 |  |
 | [U Can Have It All](https://open.spotify.com/track/53ZIzhozH4pkPvQTVeEbsm) | [JRDN](https://open.spotify.com/artist/2YVjMQPHJLrs0zA0ILNoEs) | [IAMJRDN](https://open.spotify.com/album/179DxfuuPAq1CobzAL9ui3) | 3:11 | 2022-08-31 |  |
+| [Understand \(if I\)](https://open.spotify.com/track/3lm6bZvg9LnZ8HtWz3YxJe) | [Eternia](https://open.spotify.com/artist/5rBu1wBWucwQGQzH3kLBQu), [Freestyle of the Arsonists](https://open.spotify.com/artist/2iqEFCApLOpLXfAHq8g9uf) | [Its Called Life](https://open.spotify.com/album/1iEev89vPxB4CXZ59pjjKL) | 3:53 | 2023-08-09 |  |
 | [Unpredictable](https://open.spotify.com/track/0Zgb43gj2uE9whLC3rft8R) | [Keshia Chanté](https://open.spotify.com/artist/4jTnkOwrJvTSJokhx3guJH) | [Keshia Chanté](https://open.spotify.com/album/2TOZYKbE9i6wz3w2kucTbY) | 3:35 | 2022-07-01 | 2022-07-29 |
 | [Unpredictable](https://open.spotify.com/track/1TMoF9LBoN1FJ5VJUnDAcv) | [Keshia Chanté](https://open.spotify.com/artist/4jTnkOwrJvTSJokhx3guJH) | [Keshia Chanté](https://open.spotify.com/album/5DX2VIiIzs2YOxIwu5ladI) | 3:35 | 2022-07-01 | 2022-12-29 |
 | [Unstoppable \(feat\. Santigold & Lil Wayne\)](https://open.spotify.com/track/2TWSilrWcTrgVKcP8kfEfg) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [So Far Gone](https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh) | 3:29 | 2022-07-01 | 2022-09-01 |
 | [Valentine 4 Life](https://open.spotify.com/track/1gFDNfa5ig5RDkfm3LHdSt) | [Kim Davis](https://open.spotify.com/artist/0lR9PoH2KAqso7wAip3PJc) | [Live, Love, Learn](https://open.spotify.com/album/0Qr3iLw5lqYOFrhSdjlOjU) | 3:17 | 2022-08-31 | 2022-11-16 |
+| [War](https://open.spotify.com/track/6V6M93Ape70kdvUl28xGW1) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA) | [Port Authority](https://open.spotify.com/album/2XQ6iUt1Guqgyqg9hNfJzc) | 3:56 | 2023-08-09 |  |
 | [Wavin' Flag](https://open.spotify.com/track/0zREtnLmVnt8KUJZZbSdla) | [K'NAAN](https://open.spotify.com/artist/7pGyQZx9thVa8GxMBeXscB) | [Troubadour](https://open.spotify.com/album/4KJCTmDLyr3AYJAN8dBaKo) | 3:40 | 2022-07-01 |  |
 | [You Will Never Find](https://open.spotify.com/track/4WqNcDXCWtBVQoCmlsntAz) | [In Essance](https://open.spotify.com/artist/4fxbLUdJwF6riqvaU6dlbU) | [You Will Never Find](https://open.spotify.com/album/6L1r3fintR0iVEkzanYhy5) | 3:30 | 2022-08-31 |  |
 

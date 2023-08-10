@@ -4,7 +4,7 @@
 
 > Discover new artists on the horizon this 2023.
 
-141 songs - 8 hr 52 min
+142 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Lagi](https://open.spotify.com/track/6nyr7jWOZb86Kzjj34buF8) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Lagi](https://open.spotify.com/album/6r0CiOvFP21ea0kuAjorcj) | 4:16 | 2022-06-23 | 2022-12-01 |
 | [Leron \(feat\. Trisha Macapagal\)](https://open.spotify.com/track/0S9E3lwPotusU4QRVVg2wC) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce), [Trisha Macapagal](https://open.spotify.com/artist/6oF9fOWX7L88hNPKqWzB0O) | [Leron \(feat\. Trisha Macapagal\)](https://open.spotify.com/album/0OVWJZkcHFVCzGuTw8Lauw) | 4:00 | 2022-08-26 | 2022-12-01 |
 | [Ligaya](https://open.spotify.com/track/4IeuTj1pEHuL9vJSiEqEfR) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Ligaya](https://open.spotify.com/album/0ccUyUkrIynFO5USku5IHH) | 4:08 | 2022-03-24 |  |
+| [Lisan](https://open.spotify.com/track/0EeDITljBgGZFUuQAH6Vdu) | [VXON](https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7) | [Lisan](https://open.spotify.com/album/0TkyxB93NG1E8Hhf34mwCY) | 4:27 | 2023-08-09 |  |
 | [Made For All](https://open.spotify.com/track/6Qc9WXhHeRV5RlSdR72DNo) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Made For All](https://open.spotify.com/album/0SOSnP1ZoEnNwRg3ioo4C7) | 2:00 | 2022-09-08 | 2022-12-01 |
 | [Magnet](https://open.spotify.com/track/1geSghgZOCPrcjN2GvGJHS) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Magnet](https://open.spotify.com/album/1nWk5TI1nkvqIBKhEinUFM) | 3:35 | 2022-10-25 | 2022-12-01 |
 | [Maharani](https://open.spotify.com/track/6KAnNItOZJ85PT3s0KqMgT) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Pasulong](https://open.spotify.com/album/6AdDhvJCm1PxzwqYzS1uE2) | 3:30 | 2023-04-13 |  |

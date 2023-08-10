@@ -4,7 +4,7 @@
 
 > 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: CVLTE
 
-119 songs - 6 hr 57 min
+122 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [ALVA](https://open.spotify.com/track/1WsN1q1NTWYEJbw81KWsws) | [a crowd of rebellion](https://open.spotify.com/artist/3gy7nxZ3l2Q0Xz9sXAXrVX) | [ALVA](https://open.spotify.com/album/14gl92ZGLwr2pEJvhsMenp) | 4:00 | 2023-07-20 |  |
 | [ANGRY ANGRY](https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:16 | 2023-07-20 |  |
 | [AREA PD](https://open.spotify.com/track/2vdO4HCh3Ya4B6U044UdCh) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [AREA PD](https://open.spotify.com/album/4QC4o5bDLPMDLPk4Hs2M22) | 2:57 | 2023-07-20 |  |
-| [basement](https://open.spotify.com/track/3MIc6RMb83SodnfE7T5XNU) | [ANORAK!](https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI) | [ANORAK! / DIMWORK Split](https://open.spotify.com/album/104w26GFWkYQErMzsQ8ISZ) | 1:48 | 2023-08-08 |  |
+| [basement](https://open.spotify.com/track/3MIc6RMb83SodnfE7T5XNU) | [ANORAK!](https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI) | [ANORAK! / DIMWORK](https://open.spotify.com/album/104w26GFWkYQErMzsQ8ISZ) | 1:48 | 2023-08-08 |  |
 | [BBB](https://open.spotify.com/track/6nmOIy04qnDqRFXePEjnPs) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [Such](https://open.spotify.com/artist/0m7tILDYjOZCFFVVGmI3io) | [BBB](https://open.spotify.com/album/3Mkz92SxIR2f4ZsQMUVxcD) | 3:20 | 2023-07-20 |  |
 | [Be The One](https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Be The One](https://open.spotify.com/album/5242skyRrpMPFR9dYgFZpq) | 3:06 | 2023-07-20 |  |
 | [Better Left Unsaid](https://open.spotify.com/track/1mBUIIEyK9jRMnY9cGknNH) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Better Left Unsaid](https://open.spotify.com/album/0Bvhx5LTA2K3XWAXqrypCj) | 3:26 | 2023-07-20 | 2023-07-26 |
@@ -22,7 +22,7 @@
 | [Bloom](https://open.spotify.com/track/360qOFQEAvNatJD65tMehi) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [BLOOMING](https://open.spotify.com/album/2XQmTky0Y8phmyKDurxUDN) | 3:50 | 2023-07-20 |  |
 | [Blooming the Tank\-top](https://open.spotify.com/track/2vBvV18PwrlUhTm9jaxhh6) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [Tank\-top Flower for Friends](https://open.spotify.com/album/2Ll3DZYOR4UKeswV5TADhu) | 2:12 | 2023-07-20 |  |
 | [BUG](https://open.spotify.com/track/3ll3777Lzzs15BdKwzbgIU) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [BUG](https://open.spotify.com/album/1Rav5NLGbB4c3nozaOPvRP) | 3:51 | 2023-07-20 |  |
-| [Dancer in the Dark](https://open.spotify.com/track/4ZOwl7AnpD3SSRQrZdvjBI) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [Dancer in the Dark](https://open.spotify.com/album/13LBymtNInylsgh2UBrzuh) | 2:55 | 2023-07-20 |  |
+| [Dancer in the Dark](https://open.spotify.com/track/4ZOwl7AnpD3SSRQrZdvjBI) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [Dancer in the Dark](https://open.spotify.com/album/13LBymtNInylsgh2UBrzuh) | 2:55 | 2023-07-20 | 2023-08-10 |
 | [Dark Horse](https://open.spotify.com/track/5tdi3BqFzpYVAaXi2qwC2Y) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [JESSE](https://open.spotify.com/artist/1piiwMSnN21hrtRzpJ11ef), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [Dark Horse](https://open.spotify.com/album/2w047BXSeBWZEoVblObPPs) | 3:45 | 2023-07-20 |  |
 | [DESTINATION UNKNOWN](https://open.spotify.com/track/1SBs9FBcvzM9KclTZn5U8U) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [FRESH / DESTINATION UNKNOWN](https://open.spotify.com/album/0tJQNc0A6aKYqvo6P8RCZE) | 2:49 | 2023-07-20 |  |
 | [Dive in Your Faith](https://open.spotify.com/track/0pzu9pwttcFnbx822XA9xx) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Dive in Your Faith](https://open.spotify.com/album/38QdEHccuklJS8B35kl2qE) | 3:27 | 2023-07-20 |  |
@@ -39,7 +39,8 @@
 | [HAWATARI NIOKU CENTI \[2\-hundred\-million\-centimeter\-long blades\] \- TV edit](https://open.spotify.com/track/1lySGuhlcZUJxLA5W5Bo7k) | [MAXIMUM THE HORMONE](https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu) | [HAWATARI NIOKU CENTI \[2\-hundred\-million\-centimeter\-long blades\] \(TV edit\)](https://open.spotify.com/album/22bkV1gcP9weQRmRktdCM4) | 1:29 | 2023-07-20 |  |
 | [hedonist.](https://open.spotify.com/track/1ilxwybAc0Sd3Gwc4oRKgi) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [HEDONIST](https://open.spotify.com/album/2hJqttVXOCMHCGrfqkkuRl) | 2:55 | 2023-07-20 |  |
 | [hellsong\. \(let it in\)](https://open.spotify.com/track/44c8cYVjTFqJ5Yj6WyjMSQ) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [hellsong\. \(let it in\)](https://open.spotify.com/album/25BaXSn7LKFdhareEiMpjb) | 3:05 | 2023-07-20 |  |
-| [HiDE and SEEK](https://open.spotify.com/track/6PPjUuBlAKwx1V2a74EICX) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/0mPlC0jXRvXDqCyUt5VI2b) | 3:37 | 2023-08-08 |  |
+| [HiDE and SEEK](https://open.spotify.com/track/2b1DGuCTkavcf22pnv7J1X) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [HiDE and SEEK](https://open.spotify.com/album/5e4gJZl8oBksBmBmLvM7b3) | 3:37 | 2023-08-08 |  |
+| [HiDE and SEEK](https://open.spotify.com/track/6PPjUuBlAKwx1V2a74EICX) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/0mPlC0jXRvXDqCyUt5VI2b) | 3:37 | 2023-08-08 | 2023-08-10 |
 | [Hunter or Prey](https://open.spotify.com/track/1mSzEhQw7CH50j9e97un0V) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [AXIS](https://open.spotify.com/album/3qKwhlHo13SRpExp9et5eQ) | 3:44 | 2023-07-20 |  |
 | [Hyperhell](https://open.spotify.com/track/1NgQvI5UhPKnqSS2f5eQoF) | [Earthists.](https://open.spotify.com/artist/2fW1q3e7jiCe9l55PlIcNE) | [Hyperhell](https://open.spotify.com/album/7FwB8j1LLXMbkoYxfy3TuN) | 2:41 | 2023-07-20 | 2023-08-02 |
 | [I Don't Know\(Re\)](https://open.spotify.com/track/1gvFijuYRt1JHJsvyIX9Zo) | [Kill The Gossip](https://open.spotify.com/artist/536HIHYj6SspezuJFoFHmo) | [I Don't Know\(Re\)](https://open.spotify.com/album/340gjdOAYulMtGDP3kyvTI) | 2:36 | 2023-07-20 |  |
@@ -64,6 +65,7 @@
 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 | 2023-07-20 |  |
 | [Mountain Top](https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Mountain Top](https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34) | 4:06 | 2023-07-20 |  |
 | [NAME](https://open.spotify.com/track/38b2nMKtd1qiVBkULMQti2) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [RARA](https://open.spotify.com/album/6vV4OJGtCjvJD6OdaoCQ9c) | 3:55 | 2023-07-20 |  |
+| [Neppa Mappa](https://open.spotify.com/track/1yk0SSa84LDFar4tcBLVDM) | [Happy Heads NANIYORI](https://open.spotify.com/artist/6jkKuw4J4SWKrPQCcPGEYl) | [Neppa Mappa](https://open.spotify.com/album/0q8ovRRn70ximHNiFdd6Fu) | 3:22 | 2023-08-08 |  |
 | [NEW DAWN](https://open.spotify.com/track/71H3UvIlZRSifs0LNF2HKG) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [NEW DAWN](https://open.spotify.com/album/4IT98wMgoHu9O2Jx1EZIZ8) | 3:32 | 2023-08-01 |  |
 | [One step forward](https://open.spotify.com/track/4lgr7mrXi5JM34HZrZTaOd) | [Four Get Me A Nots](https://open.spotify.com/artist/18V3SfrN6aSc7QP3fqmUBp) | [One step forward](https://open.spotify.com/album/5oIQmkz2uqaHMB3vSzXmJ9) | 1:52 | 2023-07-20 | 2023-07-26 |
 | [ONESTAR](https://open.spotify.com/track/0pIOcDlY4pFwNarTwkyRDY) | [RiL](https://open.spotify.com/artist/5nT4QCGLJJmkpt8RrniCqe) | [ONESTAR](https://open.spotify.com/album/3TB3SFdG5dWlW481iYLAbo) | 4:06 | 2023-08-08 |  |
@@ -108,6 +110,7 @@
 | [Your Head](https://open.spotify.com/track/3B4WNqMYRAfGmxlVMoilyh) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Inside Your Head](https://open.spotify.com/album/7fS687f0QR3bCyjMgDATWd) | 3:34 | 2023-07-20 |  |
 | [アンビシャス](https://open.spotify.com/track/7svD5Sa5WNmvEpflWbUkhR) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [アンビシャス](https://open.spotify.com/album/7IUZ67rVQ6jOffOzVjrMTr) | 3:06 | 2023-07-20 |  |
 | [オルゴール](https://open.spotify.com/track/6kB4btTmWACdBpdA73J1jE) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [遺伝子レベルのNO!!!](https://open.spotify.com/album/5I6CzPDYR0shw9mccGC8BH) | 4:11 | 2023-07-20 |  |
+| [ギミ¥エン\~Give me yen](https://open.spotify.com/track/4DMxsnb7a1AT1j11z8M4rC) | [BACKSHOW](https://open.spotify.com/artist/3mD0HSVVmh2kNCfbdDlF1D) | [ギミ¥エン\~Give me yen](https://open.spotify.com/album/7cO4cBDEdMvJqzk04iye21) | 3:05 | 2023-08-08 |  |
 | [コイコガレ](https://open.spotify.com/track/1RtxMS6dcQuxK5y8TKh4Md) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM), [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [コイコガレ](https://open.spotify.com/album/71gRqLVrm4OMLRUYXMkWbu) | 3:35 | 2023-07-20 |  |
 | [ジターバグ](https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [BRING YOUR BOARD!!](https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k) | 3:19 | 2023-07-20 |  |
 | [ストラトキャスター シーサイド](https://open.spotify.com/track/49du8muj1Z8rgQ79oSDzE7) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [GIANTSTAMP](https://open.spotify.com/album/1jwFlxQGCk9MjlwTZVwmrj) | 3:12 | 2023-07-20 |  |
@@ -121,7 +124,7 @@
 | [曖昧](https://open.spotify.com/track/46LzUNQbhoNBTcBNp0dtsH) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [曖昧](https://open.spotify.com/album/3BRmcqCvRvH8QVFfiAU5bY) | 3:41 | 2023-07-20 |  |
 | [東京ミッドナイト](https://open.spotify.com/track/6yOsud5tOWwu4Hj43cW7Vc) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [東京ミッドナイト](https://open.spotify.com/album/30LuOfT2yzjCCL8LNFrUUr) | 3:46 | 2023-07-20 |  |
 | [狼煙 \~NOROSHI\~](https://open.spotify.com/track/547Im5wAI41MbizqxJKVGX) | [湾岸の羊\~Sheep living on the edge\~](https://open.spotify.com/artist/3tB2xQ555Rr6YiseCfzomT) | [2020 Rising Sun](https://open.spotify.com/album/1fvd9Nv53M8CFLZXkf0WzL) | 6:31 | 2023-07-20 |  |
-| [着火繚乱ビンビンビン](https://open.spotify.com/track/5MSgh1ZQRZVatwmkaVmZJ9) | [Happy Heads NANIYORI](https://open.spotify.com/artist/6jkKuw4J4SWKrPQCcPGEYl) | [着火繚乱ビンビンビン](https://open.spotify.com/album/1qA3RuMk75Hu8DcBcy9UTs) | 3:22 | 2023-08-08 |  |
+| [着火繚乱ビンビンビン](https://open.spotify.com/track/5MSgh1ZQRZVatwmkaVmZJ9) | [Happy Heads NANIYORI](https://open.spotify.com/artist/6jkKuw4J4SWKrPQCcPGEYl) | [着火繚乱ビンビンビン](https://open.spotify.com/album/1qA3RuMk75Hu8DcBcy9UTs) | 3:22 | 2023-08-08 | 2023-08-10 |
 | [神喰](https://open.spotify.com/track/2fBizJMoZl7rMkyOnOKU5e) | [Knosis](https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh) | [神喰](https://open.spotify.com/album/3FoVC8Zy0jfO1StE9FZKXt) | 2:10 | 2023-07-20 |  |
 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 | 2023-07-20 |  |
 | [絆ノ奇跡](https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [絆ノ奇跡](https://open.spotify.com/album/1xml9CR90tJdvTESDk4Q4s) | 3:43 | 2023-07-20 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Real nasty house. Cover: Knock2 & NGHTMRE",
-  "num_followers": 429576,
+  "num_followers": 429679,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzQwMzk4MWU2ZGFmYWUwNzc4N2NjNTI3MmQ1MDI0OWZkNzA2ZTc3",
+  "snapshot_id": "MCw3MzkwM2MwY2NjMDk1MzA5YjgyNjFjOWNkNmRiNjA1YWU2NzllOTVj",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -687,26 +687,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Outer Space",
-        "url": "https://open.spotify.com/album/3MIrhsxTtEXfqgzRkvU5DY"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        },
-        {
-          "name": "Roderick Porter",
-          "url": "https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy"
-        }
-      ],
-      "duration_ms": 192382,
-      "name": "Outer Space",
-      "url": "https://open.spotify.com/track/4BSpzPw0jNM5YdfE6rbFi9"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Fearless",
         "url": "https://open.spotify.com/album/2foovL6UaCvp5QR72qdm72"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 140000,
       "name": "Fearless",
       "url": "https://open.spotify.com/track/7pDUFFF3J4WEu1aZMW4M4b"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Outer Space",
+        "url": "https://open.spotify.com/album/3MIrhsxTtEXfqgzRkvU5DY"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        },
+        {
+          "name": "Roderick Porter",
+          "url": "https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy"
+        }
+      ],
+      "duration_ms": 192382,
+      "name": "Outer Space",
+      "url": "https://open.spotify.com/track/4BSpzPw0jNM5YdfE6rbFi9"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -807,22 +807,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Fiya (Curbi Edit)",
-        "url": "https://open.spotify.com/album/296eebCCSymVYHR6fjiISA"
+        "name": "Otherside",
+        "url": "https://open.spotify.com/album/3tgBxVouYUu3PMOmyhoHsG"
       },
       "artists": [
         {
-          "name": "Lady Bee",
-          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
         },
         {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
         }
       ],
-      "duration_ms": 280771,
-      "name": "Fiya - Curbi Edit",
-      "url": "https://open.spotify.com/track/6hKNTG13AmbPZXy891jAZk"
+      "duration_ms": 210461,
+      "name": "Otherside",
+      "url": "https://open.spotify.com/track/3rIMVg0NW2mq3eokTdyXXz"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -847,42 +847,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Otherside",
-        "url": "https://open.spotify.com/album/3tgBxVouYUu3PMOmyhoHsG"
+        "name": "Fiya (Curbi Edit)",
+        "url": "https://open.spotify.com/album/296eebCCSymVYHR6fjiISA"
       },
       "artists": [
         {
-          "name": "Malaa",
-          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
-        },
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "Otherside",
-      "url": "https://open.spotify.com/track/3rIMVg0NW2mq3eokTdyXXz"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/4Hltgbaee9ENN0q6PeoPHx"
-      },
-      "artists": [
-        {
-          "name": "Mesto",
-          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
+          "name": "Lady Bee",
+          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
         },
         {
           "name": "Curbi",
           "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
         }
       ],
-      "duration_ms": 195268,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/7weI2jby4EDuZlWCVMB2xz"
+      "duration_ms": 280771,
+      "name": "Fiya - Curbi Edit",
+      "url": "https://open.spotify.com/track/6hKNTG13AmbPZXy891jAZk"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -907,18 +887,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/1lzlyna8QYmGs1QRzfe73K"
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/4Hltgbaee9ENN0q6PeoPHx"
       },
       "artists": [
         {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+          "name": "Mesto",
+          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
+        },
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
         }
       ],
-      "duration_ms": 154285,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/655qrPH2ktkBC20SGffBAj"
+      "duration_ms": 195268,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/7weI2jby4EDuZlWCVMB2xz"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -935,6 +919,22 @@
       "duration_ms": 169523,
       "name": "Relations",
       "url": "https://open.spotify.com/track/5O0vOpDt91Rw20NYKO6XQq"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/1lzlyna8QYmGs1QRzfe73K"
+      },
+      "artists": [
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/655qrPH2ktkBC20SGffBAj"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1535,6 +1535,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Bring It Back",
+        "url": "https://open.spotify.com/album/6oMZtThtbHbNCXCVtHos8r"
+      },
+      "artists": [
+        {
+          "name": "Sikdope",
+          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
+        },
+        {
+          "name": "Interupt",
+          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "Bring It Back",
+      "url": "https://open.spotify.com/track/35es3y1iNffNsVFMuEfq10"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/0vLmi3I6py7HTOIIom2yqO"
       },
@@ -1575,6 +1595,22 @@
       "duration_ms": 172320,
       "name": "Flip It",
       "url": "https://open.spotify.com/track/0UTfh9gvdC7H1dAzBc0GE4"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Dont Sleep",
+        "url": "https://open.spotify.com/album/29C3mRpDY5Lqxh5X5mlnl9"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        }
+      ],
+      "duration_ms": 156480,
+      "name": "Dont Sleep",
+      "url": "https://open.spotify.com/track/0bmT2MQ4FrBOgWhYr4S8Lj"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1703,42 +1739,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Bring It Back",
-        "url": "https://open.spotify.com/album/6oMZtThtbHbNCXCVtHos8r"
-      },
-      "artists": [
-        {
-          "name": "Sikdope",
-          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
-        },
-        {
-          "name": "Interupt",
-          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "Bring It Back",
-      "url": "https://open.spotify.com/track/35es3y1iNffNsVFMuEfq10"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Dont Sleep",
-        "url": "https://open.spotify.com/album/29C3mRpDY5Lqxh5X5mlnl9"
-      },
-      "artists": [
-        {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
-        }
-      ],
-      "duration_ms": 156480,
-      "name": "Dont Sleep",
-      "url": "https://open.spotify.com/track/0bmT2MQ4FrBOgWhYr4S8Lj"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Left & Right (BYOR Remix)",
         "url": "https://open.spotify.com/album/4hAi4Tlk2KrSplJ37ISIDx"
       },
@@ -1799,26 +1799,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Back It Up (feat. Young Lyxx)",
-        "url": "https://open.spotify.com/album/1oIZpKnunXHez26jcAFmpI"
+        "name": "Don Malaa",
+        "url": "https://open.spotify.com/album/6241SeUdcPm2i4ZFIqqCUP"
       },
       "artists": [
         {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
         },
         {
-          "name": "Michael Sparks",
-          "url": "https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87"
-        },
-        {
-          "name": "Young Lyxx",
-          "url": "https://open.spotify.com/artist/1KaPSJ1xlpywMSGiK1Qftk"
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
         }
       ],
-      "duration_ms": 198094,
-      "name": "Back It Up (feat. Young Lyxx)",
-      "url": "https://open.spotify.com/track/6ePX5p0ufqiYywnNa9nXkO"
+      "duration_ms": 240000,
+      "name": "Discipline (with Tchami)",
+      "url": "https://open.spotify.com/track/75V8CXNNjs25k0LiQXVD2H"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1843,22 +1839,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Don Malaa",
-        "url": "https://open.spotify.com/album/6241SeUdcPm2i4ZFIqqCUP"
+        "name": "Back It Up (feat. Young Lyxx)",
+        "url": "https://open.spotify.com/album/1oIZpKnunXHez26jcAFmpI"
       },
       "artists": [
         {
-          "name": "Malaa",
-          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
         },
         {
-          "name": "Tchami",
-          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+          "name": "Michael Sparks",
+          "url": "https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87"
+        },
+        {
+          "name": "Young Lyxx",
+          "url": "https://open.spotify.com/artist/1KaPSJ1xlpywMSGiK1Qftk"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Discipline (with Tchami)",
-      "url": "https://open.spotify.com/track/75V8CXNNjs25k0LiQXVD2H"
+      "duration_ms": 198094,
+      "name": "Back It Up (feat. Young Lyxx)",
+      "url": "https://open.spotify.com/track/6ePX5p0ufqiYywnNa9nXkO"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1915,26 +1915,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Daybreak",
-        "url": "https://open.spotify.com/album/3H3s8lkiSk2psIyUf5T0eh"
-      },
-      "artists": [
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        },
-        {
-          "name": "Honey & Badger",
-          "url": "https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Daybreak",
-      "url": "https://open.spotify.com/track/3JRTdqas2IpIXLGdrLhRUG"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "All Eyez On Me",
         "url": "https://open.spotify.com/album/5ThDHRjmlQcbIaSeeOmObf"
       },
@@ -1971,6 +1951,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Front To Back (feat. DLMT)",
+        "url": "https://open.spotify.com/album/2gPIAG5O5NinWCtB4yuSSR"
+      },
+      "artists": [
+        {
+          "name": "FOMO",
+          "url": "https://open.spotify.com/artist/6K4rA9ocjtIaTOEVZ4N6dX"
+        },
+        {
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+        }
+      ],
+      "duration_ms": 211653,
+      "name": "Front To Back (feat. DLMT)",
+      "url": "https://open.spotify.com/track/2NNOhqpefQ8OKfibeox8El"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "No Tinder",
         "url": "https://open.spotify.com/album/752XikWcA9rEK5EtH57Ove"
       },
@@ -1995,22 +1995,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Front To Back (feat. DLMT)",
-        "url": "https://open.spotify.com/album/2gPIAG5O5NinWCtB4yuSSR"
+        "name": "Daybreak",
+        "url": "https://open.spotify.com/album/3H3s8lkiSk2psIyUf5T0eh"
       },
       "artists": [
         {
-          "name": "FOMO",
-          "url": "https://open.spotify.com/artist/6K4rA9ocjtIaTOEVZ4N6dX"
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
         },
         {
-          "name": "DLMT",
-          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+          "name": "Honey & Badger",
+          "url": "https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK"
         }
       ],
-      "duration_ms": 211653,
-      "name": "Front To Back (feat. DLMT)",
-      "url": "https://open.spotify.com/track/2NNOhqpefQ8OKfibeox8El"
+      "duration_ms": 186666,
+      "name": "Daybreak",
+      "url": "https://open.spotify.com/track/3JRTdqas2IpIXLGdrLhRUG"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2091,6 +2091,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Going Gone",
+        "url": "https://open.spotify.com/album/5ObWvyQ58oqDosg7iZ5gkd"
+      },
+      "artists": [
+        {
+          "name": "BRANDON",
+          "url": "https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY"
+        }
+      ],
+      "duration_ms": 157440,
+      "name": "Going Gone",
+      "url": "https://open.spotify.com/track/0GNG26sQnxZi6VRYcpAkf0"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "King Of The Monsters",
         "url": "https://open.spotify.com/album/5JEk4M796eQC2v2BDdc9s6"
       },
@@ -2123,22 +2139,6 @@
       "duration_ms": 200347,
       "name": "Set You Free",
       "url": "https://open.spotify.com/track/0nKeZkMxxMPp37kCZOenbe"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Going Gone",
-        "url": "https://open.spotify.com/album/5ObWvyQ58oqDosg7iZ5gkd"
-      },
-      "artists": [
-        {
-          "name": "BRANDON",
-          "url": "https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY"
-        }
-      ],
-      "duration_ms": 157440,
-      "name": "Going Gone",
-      "url": "https://open.spotify.com/track/0GNG26sQnxZi6VRYcpAkf0"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2183,22 +2183,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Get It",
-        "url": "https://open.spotify.com/album/1aew5ugGnswbfbubJMSfm9"
-      },
-      "artists": [
-        {
-          "name": "Galoski",
-          "url": "https://open.spotify.com/artist/19gU7Hvep0G37JeiLf3TNB"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Get It",
-      "url": "https://open.spotify.com/track/34ExSjW2JsqM9V88quCH9Z"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Like That",
         "url": "https://open.spotify.com/album/5HyWO2J3EnJsWS9RHIJtM9"
       },
@@ -2211,6 +2195,22 @@
       "duration_ms": 207000,
       "name": "Like That",
       "url": "https://open.spotify.com/track/4enqcEaN9zRqZXlKltzyNC"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Get It",
+        "url": "https://open.spotify.com/album/1aew5ugGnswbfbubJMSfm9"
+      },
+      "artists": [
+        {
+          "name": "Galoski",
+          "url": "https://open.spotify.com/artist/19gU7Hvep0G37JeiLf3TNB"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Get It",
+      "url": "https://open.spotify.com/track/34ExSjW2JsqM9V88quCH9Z"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Stack",
-        "url": "https://open.spotify.com/album/26QimsgTITriH6TD286J4d"
-      },
-      "artists": [
-        {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Stack",
-      "url": "https://open.spotify.com/track/5jduNsy3jdsT4UwwVTUKai"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Glimpse",
         "url": "https://open.spotify.com/album/07dEI97wIBVVH9KGpacP0m"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 169687,
       "name": "Glimpse",
       "url": "https://open.spotify.com/track/5AbJc4S4TOtSKQL6NLzBIm"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Stack",
+        "url": "https://open.spotify.com/album/26QimsgTITriH6TD286J4d"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Stack",
+      "url": "https://open.spotify.com/track/5jduNsy3jdsT4UwwVTUKai"
     },
     {
       "added_at": "2023-08-04 04:00:00",

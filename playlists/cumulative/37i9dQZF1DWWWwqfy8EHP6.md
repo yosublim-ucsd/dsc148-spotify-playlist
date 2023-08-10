@@ -4,7 +4,7 @@
 
 > LeeHi's here for you, Hice Creams!
 
-103 songs - 6 hr 24 min
+105 songs - 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [PASSING BY](https://open.spotify.com/track/7cBSImiOnfgDsBeIS6j8B8) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SEOULITE](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | 3:19 | 2022-03-14 |  |
 | [PASSING BY](https://open.spotify.com/track/50uF4S4HMtpv3mzAwjMcj5) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SEOULITE](https://open.spotify.com/album/1g08wh1OcyBLzMqRjNj5xJ) | 3:19 | 2022-03-14 | 2022-07-29 |
 | [Red Lipstick \(feat\. Yoonmirae\)](https://open.spotify.com/track/7nJc2Oxfn7xRX3eF4hltyl) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [4 ONLY](https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt) | 3:07 | 2022-03-14 |  |
-| [Rolling In The Deep](https://open.spotify.com/track/4CAB7WzQL3cK7BpOGWnONE) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [K팝 스타 SPECIAL No.4](https://open.spotify.com/album/2CFVLRtG7TN232bfi5pmvV) | 4:39 | 2022-03-14 |  |
+| [Rolling In The Deep](https://open.spotify.com/track/4CAB7WzQL3cK7BpOGWnONE) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [K팝 스타 SPECIAL No.4](https://open.spotify.com/album/2CFVLRtG7TN232bfi5pmvV) | 4:39 | 2022-03-14 | 2023-08-10 |
+| [Rolling in the deep \(Adele\)](https://open.spotify.com/track/72jQuoyLGj5tX6XhvlANB6) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SBS K팝 스타 SPECIAL No.4](https://open.spotify.com/album/1uGmaZBEEDXZwNNMHcKPPL) | 4:39 | 2022-03-14 |  |
 | [Rose](https://open.spotify.com/track/1zl7VGjTBriRXgdHEb6z1e) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [First Love](https://open.spotify.com/album/4m0yIZ1YpdcKQAoDJq466S) | 3:42 | 2022-03-14 | 2022-07-29 |
 | [Rose](https://open.spotify.com/track/6MksZu2sx5jzoPszxbRZMw) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [First Love](https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo) | 3:42 | 2022-03-14 |  |
 | [Safety Zone](https://open.spotify.com/track/4yUrkvM634vJTljUN9gDxV) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [4 ONLY](https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt) | 4:08 | 2022-03-14 |  |
@@ -105,7 +106,8 @@
 | [What is Love?](https://open.spotify.com/track/3lc5fY2NwKXNdchJtx58kR) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [4 ONLY](https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt) | 3:43 | 2022-03-14 |  |
 | [X \(Feat\. LEE HI\)](https://open.spotify.com/track/2oUallb0gAqnNnfGbM4qvT) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [MUGGLES' MANSION](https://open.spotify.com/album/4SUzNglOur6GH4IGIbNGcr) | 5:11 | 2022-03-14 |  |
 | [Yours](https://open.spotify.com/track/4KL3FJYexPrPuMdPagHPXp) | [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Yours](https://open.spotify.com/album/01RsFGO7W7xaRM4T2p1Xdn) | 3:55 | 2022-03-14 |  |
-| [너를 위해](https://open.spotify.com/track/111lT3seN0Pv8o1UyVS1QZ) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SBS K팝 스타 SPECIAL No.1](https://open.spotify.com/album/46KoGLUEOyWGNl40AtJ9es) | 4:34 | 2022-03-14 |  |
+| [너를 위해](https://open.spotify.com/track/111lT3seN0Pv8o1UyVS1QZ) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SBS K팝 스타 SPECIAL No.1](https://open.spotify.com/album/46KoGLUEOyWGNl40AtJ9es) | 4:34 | 2022-03-14 | 2023-08-10 |
+| [너를 위해 \(임재범\)](https://open.spotify.com/track/6Jz9hOHzBelNmLS9VBH8e8) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SBS K팝 스타 SPECIAL No\. 1](https://open.spotify.com/album/0PgoKeu5BzbV1bnRNYGqT2) | 4:34 | 2022-03-14 |  |
 | [미련한 사랑](https://open.spotify.com/track/2KRm7Iq0GrO3PETShjQbVx) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SBS K팝 스타 Top 7](https://open.spotify.com/album/0PoITVGORG6ZiwsMJub0wE) | 3:37 | 2022-03-14 |  |
 | [시간이 흐른뒤](https://open.spotify.com/track/6rxpTJhUS1ki1Iyx56TQNx) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SBS K팝 스타 Top 4](https://open.spotify.com/album/4v99Mj19dKL74LBvNeoDPx) | 3:56 | 2022-03-14 |  |
 | [춥다 It’s Cold](https://open.spotify.com/track/1JhztOTG8OBOrC6myRrnZs) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [99](https://open.spotify.com/album/2yoHPRtdSlxHnJYDvnWFuO) | 4:10 | 2022-03-14 | 2022-07-29 |

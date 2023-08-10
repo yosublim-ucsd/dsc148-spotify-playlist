@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 
 > Un playlist que te llena de esperanza\.  ¡Con fe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,412 likes - 100 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,526 likes - 100 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 32 | [Qué Se Abra El Cielo](https://open.spotify.com/track/3gfyLSFdjHnYZ3HZVmWiBv) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Marcos Brunet](https://open.spotify.com/artist/3XAsLrjUgQ9V2D8MjTfv8C) | [Eterno \(Live\)](https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c) | 7:25 |
 | 33 | [Llevame Al Lugar Santísimo](https://open.spotify.com/track/68ejKEwjnLJrJgu2ozQdJQ) | [Palabra en Acción](https://open.spotify.com/artist/4umfGspINdkBEwCjc1f5Xw), [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Glorificad a Jehová](https://open.spotify.com/album/4lUhv9nQbzpz4fU8WEuGLd) | 5:13 |
 | 34 | [Soy Un Altar](https://open.spotify.com/track/0b8Sxqx5Lt8mgU4xPsm7Hr) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S) | 5:30 |
-| 35 | [El Señor es mi pastor](https://open.spotify.com/track/49PeNHITwNkd2gIP4zMOoQ) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Eres Todopoderoso](https://open.spotify.com/album/6ykvhppb9hjACDxW3pVgMD) | 4:18 |
+| 35 | [Danzo en el Río \(En Vivo\)](https://open.spotify.com/track/0I3cmPOnNwgCOVtO6tfQsG) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Pentecostés \(En Vivo\)](https://open.spotify.com/album/7zyFQuz3nZmzpfRstmXZO0) | 4:41 |
 | 36 | [Dios de Lo Imposible](https://open.spotify.com/track/10AHJmPp1y86W3hYg5fjeH) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [David Reyes](https://open.spotify.com/artist/0Av9Hln262ro0Z8yhEg4HY), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [El Encuentro](https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx) | 7:30 |
 | 37 | [Cuando Oras](https://open.spotify.com/track/5FCDZ3L0Tr0KqYrn3j9v3V) | [Nancy Amancio](https://open.spotify.com/artist/4225vUKDHwHhcYY9IRWwX0) | [Un Toque De Fé](https://open.spotify.com/album/5K06CX20PkHPstgVWLg4Nd) | 4:12 |
 | 38 | [Gloria En Lo Alto](https://open.spotify.com/track/7IUwWIIkqKdo8KizOsCLFX) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [De Vuelta Al Jardin](https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6) | 5:00 |
-| 39 | [Danzo en el Río \(En Vivo\)](https://open.spotify.com/track/0I3cmPOnNwgCOVtO6tfQsG) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Pentecostés \(En Vivo\)](https://open.spotify.com/album/7zyFQuz3nZmzpfRstmXZO0) | 4:41 |
+| 39 | [El Señor es mi pastor](https://open.spotify.com/track/49PeNHITwNkd2gIP4zMOoQ) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Eres Todopoderoso](https://open.spotify.com/album/6ykvhppb9hjACDxW3pVgMD) | 4:18 |
 | 40 | [El Borde De Su Manto](https://open.spotify.com/track/6tYqerwTycPh7ooEszkobq) | [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Vivo Para Cristo](https://open.spotify.com/album/1qgCskTkH93V8WYbltMZMn) | 8:47 |
 | 41 | [Viviré](https://open.spotify.com/track/7DWyJ2oYpAGq5B9qSc1jEx) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Pura Sal](https://open.spotify.com/album/4VTKlmH5109WzN8ZRJSzdV) | 3:58 |
 | 42 | [Mi Historia De Amor](https://open.spotify.com/track/4Io9nq91YUZNcCeQ0zDcID) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Mi Refugio](https://open.spotify.com/album/1tQiDUKWTbToF8mpA0GZNm) | 3:16 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 70 | [No Basta](https://open.spotify.com/track/0x5bPI62nRetHyUiPykJwK) | [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Hoy Más Que Ayer](https://open.spotify.com/album/7HgsN9Iac7wiBz4TsucSBw) | 3:50 |
 | 71 | [Llegaste Tú](https://open.spotify.com/track/4gxJmwQeeG1RSJm1AtLlAS) | [Gadiel Espinoza](https://open.spotify.com/artist/6LsF1LrB6rmAiWps0Mo1t6) | [Al Que Vive](https://open.spotify.com/album/0EnsJ3Ctbamkhj0rOVtAhQ) | 4:12 |
 | 72 | [Roca eterna](https://open.spotify.com/track/6XQmgFgA5ERwrgbmb7iUx3) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Me Has Hecho Libre](https://open.spotify.com/album/0dNBk8BUcnZoA0YouvHGRP) | 4:55 |
-| 73 | [Eres Fiel](https://open.spotify.com/track/2b7YBLRv13r2iS31yXBz7a) | [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Cosas Poderosas](https://open.spotify.com/album/1TZZhO7YWjOX1WyoGD6gEQ) | 5:05 |
-| 74 | [Siempre Más](https://open.spotify.com/track/2x4DbDfgF8WRrbKC1ieyCk) | [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9), [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm) | [Más Que Suficiente](https://open.spotify.com/album/10MAZP2R3fsjRzpdZ2Gatm) | 5:52 |
+| 73 | [Siempre Más](https://open.spotify.com/track/2x4DbDfgF8WRrbKC1ieyCk) | [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9), [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm) | [Más Que Suficiente](https://open.spotify.com/album/10MAZP2R3fsjRzpdZ2Gatm) | 5:52 |
+| 74 | [Eres Fiel](https://open.spotify.com/track/2b7YBLRv13r2iS31yXBz7a) | [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Cosas Poderosas](https://open.spotify.com/album/1TZZhO7YWjOX1WyoGD6gEQ) | 5:05 |
 | 75 | [¿De Quién Temeré? \(Dios De Ejércitos\)](https://open.spotify.com/track/60J9n7mYcPsunOxSJGjSqW) | [Julissa](https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu) | [Me Vistió De Promesas](https://open.spotify.com/album/1SUEDD9quNY1LYU36X6UUp) | 4:19 |
 | 76 | [El Deseado](https://open.spotify.com/track/44OMyCQXFDR9xUap4KjQrx) | [Gadiel Espinoza](https://open.spotify.com/artist/6LsF1LrB6rmAiWps0Mo1t6) | [Lo Mejor De Gadiel Espinoza](https://open.spotify.com/album/05sRL9QUM72ugGewZ1aF5k) | 4:47 |
 | 77 | [Hermoso \(feat\. Coalo Zamorano\)](https://open.spotify.com/track/4TwzyWf4K1oeybmNUsNL24) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Jesús Salva](https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw) | 5:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 99 | [Tu Voluntad](https://open.spotify.com/track/1bkekelOajuDH9SxvazW6G) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Tu Voluntad](https://open.spotify.com/album/5K6pp3sMIXMxkzYcQDJ6yU) | 6:27 |
 | 100 | [Hijo Pródigo](https://open.spotify.com/track/2DpqxoZ3YbEmFpdTREjvOS) | [Fuego](https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt) | [Por Fin en Casa](https://open.spotify.com/album/3ZkKbtlC0p5L6vgStrdRsq) | 4:47 |
 
-Snapshot ID: `MCwwYzJiYmQxMDU3NjAwZGM2MDY2ZWU2MjIwNzI3OGIzNTQ0OWRhOWY5`
+Snapshot ID: `MCwwZTdiYmQ4YTU5MzI5NmJmODFiOGIwODEwNWNkNTg2YTQ4NTM5M2Fk`

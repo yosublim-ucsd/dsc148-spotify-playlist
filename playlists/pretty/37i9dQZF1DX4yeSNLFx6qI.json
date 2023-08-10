@@ -1,12 +1,12 @@
 {
   "description": "Se acab\u00f3 el amor. La m\u00fasica contin\u00faa.",
-  "num_followers": 1756989,
+  "num_followers": 1757183,
   "original_name": "Sin Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWI1ZmQ0ZGEwODgwYWIyNTI3ZjEzNDVjNWVkYzVhOGI2YWZhMjFk",
+  "snapshot_id": "MCxlODY4Y2NmYTI4OWE5YWUxYWVlYTkyOTViZjMwYjVlZTc2NDY0MjY3",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 307866,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Un Besito M\u00e1s",
         "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 229933,
       "name": "Me Soltaste",
       "url": "https://open.spotify.com/track/02yD6Wmpx5kLAoXLQOnuEb"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 307866,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
+        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 291493,
+      "name": "Vivir Sin Aire",
+      "url": "https://open.spotify.com/track/3G9RQLOSjsXVUDyQSv2PQR"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Ricky Martin MTV Unplugged",
         "url": "https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 247866,
       "name": "Tu Recuerdo (feat. La Mari De Chambao & Tommy Torres) - MTV Unplugged Version",
       "url": "https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
-        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 291493,
-      "name": "Vivir Sin Aire",
-      "url": "https://open.spotify.com/track/3G9RQLOSjsXVUDyQSv2PQR"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -555,6 +555,26 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Rayando El Sol (feat. Pablo Albor\u00e1n)",
+        "url": "https://open.spotify.com/album/7h8WIue8MJiW8Erw1Nr6N8"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 258937,
+      "name": "Rayando el Sol (feat. Pablo Albor\u00e1n)",
+      "url": "https://open.spotify.com/track/3uKdu7AtigAJ8GgTu0yJTe"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Mesa Para Dos",
         "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
       },
@@ -591,26 +611,6 @@
       "duration_ms": 275026,
       "name": "Un Mill\u00f3n Como T\u00fa",
       "url": "https://open.spotify.com/track/619zlIsV7csW2h2narAoPC"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Rayando El Sol (feat. Pablo Albor\u00e1n)",
-        "url": "https://open.spotify.com/album/7h8WIue8MJiW8Erw1Nr6N8"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        },
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 258937,
-      "name": "Rayando el Sol (feat. Pablo Albor\u00e1n)",
-      "url": "https://open.spotify.com/track/3uKdu7AtigAJ8GgTu0yJTe"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -663,26 +663,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Muero",
-        "url": "https://open.spotify.com/album/4qsSC79CFtpK133Ecl1cVz"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        },
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 217480,
-      "name": "Muero",
-      "url": "https://open.spotify.com/track/3duR10TJy7FDaAr65xe4v2"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "K.O.",
         "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
       },
@@ -731,22 +711,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Vidas Pasadas",
-        "url": "https://open.spotify.com/album/6xUsWpvDVdDD8qDbQOsOL6"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        }
-      ],
-      "duration_ms": 138937,
-      "name": "Vidas Pasadas",
-      "url": "https://open.spotify.com/track/2G6cOHhIjJGd7fhBKXBjLr"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "B\u00e9same Bonito",
         "url": "https://open.spotify.com/album/5o9DsjFypLEtnfGvbSK9Zi"
       },
@@ -759,6 +723,42 @@
       "duration_ms": 180000,
       "name": "B\u00e9same Bonito",
       "url": "https://open.spotify.com/track/5wiP01qdBYlarxTj8uI40n"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Muero",
+        "url": "https://open.spotify.com/album/4qsSC79CFtpK133Ecl1cVz"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 217480,
+      "name": "Muero",
+      "url": "https://open.spotify.com/track/3duR10TJy7FDaAr65xe4v2"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Vidas Pasadas",
+        "url": "https://open.spotify.com/album/6xUsWpvDVdDD8qDbQOsOL6"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "duration_ms": 138937,
+      "name": "Vidas Pasadas",
+      "url": "https://open.spotify.com/track/2G6cOHhIjJGd7fhBKXBjLr"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "De la Ilusi\u00f3n Al Miedo",
+        "url": "https://open.spotify.com/album/05NWvM3z8QlJCUqhQATFjx"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 245466,
+      "name": "De la Ilusi\u00f3n Al Miedo",
+      "url": "https://open.spotify.com/track/4lDk4a22gI0UoqhX408lRN"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Otra Piel",
         "url": "https://open.spotify.com/album/7CHgktzIpDDgEYwQ9jrEnQ"
       },
@@ -1643,18 +1659,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "De la Ilusi\u00f3n Al Miedo",
-        "url": "https://open.spotify.com/album/05NWvM3z8QlJCUqhQATFjx"
+        "name": "D\u00e9jame Llorarte",
+        "url": "https://open.spotify.com/album/1fjpRVL4FeqSEH4fcW9dxf"
       },
       "artists": [
         {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+          "name": "Paula Arenas",
+          "url": "https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2"
+        },
+        {
+          "name": "Jes\u00fas Navarro",
+          "url": "https://open.spotify.com/artist/177dG4gTPSBg2F2KXZdPMW"
         }
       ],
-      "duration_ms": 245466,
-      "name": "De la Ilusi\u00f3n Al Miedo",
-      "url": "https://open.spotify.com/track/4lDk4a22gI0UoqhX408lRN"
+      "duration_ms": 189506,
+      "name": "D\u00e9jame Llorarte",
+      "url": "https://open.spotify.com/track/2wOFY8X0MhVjoHQpa41hFq"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1691,22 +1711,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "D\u00e9jame Llorarte",
-        "url": "https://open.spotify.com/album/1fjpRVL4FeqSEH4fcW9dxf"
+        "name": "Amarte y Perderte",
+        "url": "https://open.spotify.com/album/61m0MH9BQYHXRV4wbL6RbL"
       },
       "artists": [
         {
-          "name": "Paula Arenas",
-          "url": "https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2"
-        },
-        {
-          "name": "Jes\u00fas Navarro",
-          "url": "https://open.spotify.com/artist/177dG4gTPSBg2F2KXZdPMW"
+          "name": "Chucho Rivas",
+          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
         }
       ],
-      "duration_ms": 189506,
-      "name": "D\u00e9jame Llorarte",
-      "url": "https://open.spotify.com/track/2wOFY8X0MhVjoHQpa41hFq"
+      "duration_ms": 208947,
+      "name": "Amarte y Perderte",
+      "url": "https://open.spotify.com/track/3mYV0dsiuvpsEHTAG74n1d"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1731,22 +1747,6 @@
       "duration_ms": 234309,
       "name": "Se Me Olvid\u00f3 Olvidarte",
       "url": "https://open.spotify.com/track/3PQW9eCAHJm5RXMTRk84la"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Amarte y Perderte",
-        "url": "https://open.spotify.com/album/61m0MH9BQYHXRV4wbL6RbL"
-      },
-      "artists": [
-        {
-          "name": "Chucho Rivas",
-          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
-        }
-      ],
-      "duration_ms": 208947,
-      "name": "Amarte y Perderte",
-      "url": "https://open.spotify.com/track/3mYV0dsiuvpsEHTAG74n1d"
     }
   ],
   "unique_name": "Sin Ti",

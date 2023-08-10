@@ -1,12 +1,12 @@
 {
   "description": "Float away on heady orchestrations and haunting harmonies...",
-  "num_followers": 844839,
+  "num_followers": 844897,
   "original_name": "Chill + Atmospheric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGEwZWQ3OTJiMGE3N2QzMjYxZDM3NjgyZmE0ZGQxMzNiMmY1Zjg5",
+  "snapshot_id": "MCxmZWY2OTc5NTE3MjBjYzEyMzQ1ODhjZmM4YWU3NmJkM2Q0ZGFhNDM2",
   "tracks": [
     {
       "added_at": "2023-06-16 04:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "A.M.",
-        "url": "https://open.spotify.com/album/1zO0DbmMO3xDxYaW72yIFc"
-      },
-      "artists": [
-        {
-          "name": "Richard Walters",
-          "url": "https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F"
-        }
-      ],
-      "duration_ms": 239400,
-      "name": "July Bones",
-      "url": "https://open.spotify.com/track/4A6GiKusHlmrtqCyKAyPg2"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Open Season (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4F5s7tDOWFCgozxJg0o8Rw"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 190741,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/4xRDWaPf1AuMJo9sytQU0w"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "A.M.",
+        "url": "https://open.spotify.com/album/1zO0DbmMO3xDxYaW72yIFc"
+      },
+      "artists": [
+        {
+          "name": "Richard Walters",
+          "url": "https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F"
+        }
+      ],
+      "duration_ms": 239400,
+      "name": "July Bones",
+      "url": "https://open.spotify.com/track/4A6GiKusHlmrtqCyKAyPg2"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Mia Gargaret",
-        "url": "https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7"
-      },
-      "artists": [
-        {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
-        }
-      ],
-      "duration_ms": 189320,
-      "name": "apathy",
-      "url": "https://open.spotify.com/track/2KDXCctJkNx43Z4b8pE6pS"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Picture of You (feat. Hayden Calnin)",
         "url": "https://open.spotify.com/album/7wC9pX406TglFwy4ALYYy4"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 261523,
       "name": "Picture of You",
       "url": "https://open.spotify.com/track/41UWHXKrP9VaNuLHNlWEV2"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Mia Gargaret",
+        "url": "https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7"
+      },
+      "artists": [
+        {
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        }
+      ],
+      "duration_ms": 189320,
+      "name": "apathy",
+      "url": "https://open.spotify.com/track/2KDXCctJkNx43Z4b8pE6pS"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Never Let Me Go",
-        "url": "https://open.spotify.com/album/49K2MThrpYALEgaFoqraaF"
-      },
-      "artists": [
-        {
-          "name": "Ghostly Kisses",
-          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/0GxvJu5SzVMtZIpsUv6NjW"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Grapefruit Season",
         "url": "https://open.spotify.com/album/0j0UBOGFgNrspMKG1CdG3Z"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 233954,
       "name": "Poison to You",
       "url": "https://open.spotify.com/track/2gespzBmNAR9mpbenZdPlH"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Never Let Me Go",
+        "url": "https://open.spotify.com/album/49K2MThrpYALEgaFoqraaF"
+      },
+      "artists": [
+        {
+          "name": "Ghostly Kisses",
+          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/0GxvJu5SzVMtZIpsUv6NjW"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Cormorant Bird",
-        "url": "https://open.spotify.com/album/6TfLPZhtwAxbeWMuCLxPYq"
-      },
-      "artists": [
-        {
-          "name": "Fionn Regan",
-          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
-        }
-      ],
-      "duration_ms": 207441,
-      "name": "Cormorant Bird",
-      "url": "https://open.spotify.com/track/4BSUpjNIIuy766fewPrcvH"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Branscombe",
         "url": "https://open.spotify.com/album/1n5qpXXobioZdWa6Upq6fU"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 439478,
       "name": "Branscombe",
       "url": "https://open.spotify.com/track/4mrOXzvbS0U0KsX7O6OqIo"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Cormorant Bird",
+        "url": "https://open.spotify.com/album/6TfLPZhtwAxbeWMuCLxPYq"
+      },
+      "artists": [
+        {
+          "name": "Fionn Regan",
+          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
+        }
+      ],
+      "duration_ms": 207441,
+      "name": "Cormorant Bird",
+      "url": "https://open.spotify.com/track/4BSUpjNIIuy766fewPrcvH"
     },
     {
       "added_at": "2023-06-16 04:00:00",

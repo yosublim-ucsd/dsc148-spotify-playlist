@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 
 > Kick on with this mix of homegrown electronic music
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,171 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,200 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 | 59 | [Smile \(feat\. JAM\)](https://open.spotify.com/track/6H5ncROMSCcKGz6W5HsrS8) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf), [JAM](https://open.spotify.com/artist/6Fk8WNJR6MUqEQXoZSejuq) | [Smile \(feat\. JAM\)](https://open.spotify.com/album/1XlQFYxrdAE1cn43I3COL1) | 3:24 |
 | 60 | [Brain Freeze](https://open.spotify.com/track/15uSXKESoX4Zq3uo2IJww1) | [Northeast Party House](https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje) | [Brain Freeze](https://open.spotify.com/album/2HkKs4sSh2Ns8zpi2gUWK3) | 2:02 |
 
-Snapshot ID: `MCw1MzJiOWQ3NTdiYzAwMjRlOGNhZTQwNWE0OWEyNTMwMTJmMDk5ZTQ1`
+Snapshot ID: `MCxmOTUzYWRiYTk3NWQ1YzhiODk3YmQ1ZjFhOThjMWI0OTZiZTg4MzYw`

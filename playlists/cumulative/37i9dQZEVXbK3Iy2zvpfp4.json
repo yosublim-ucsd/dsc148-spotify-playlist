@@ -318,7 +318,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 170625,
       "name": "33 Max Verstappen",
       "url": "https://open.spotify.com/track/6OoGxii9mSxyt4JGab8PsG"
@@ -1420,7 +1420,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 200156,
       "name": "Ascend",
       "url": "https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2"
@@ -1554,7 +1554,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
@@ -5211,6 +5211,28 @@
     },
     {
       "album": {
+        "name": "Disconnect",
+        "url": "https://open.spotify.com/album/3H9K8wtrhvkSSqnkevhaHA"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164914,
+      "name": "Disconnect",
+      "url": "https://open.spotify.com/track/602d2gJewoiF1FivuOMMwE"
+    },
+    {
+      "album": {
         "name": "Ditto",
         "url": "https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe"
       },
@@ -6680,7 +6702,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-03",
+      "date_removed": null,
       "duration_ms": 185751,
       "name": "Fill The Void (with Lily Rose Depp, Ramsey)",
       "url": "https://open.spotify.com/track/010ZkIVv6Ay5vqqHVCCiKB"
@@ -6954,7 +6976,7 @@
       ],
       "date_added": "2023-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-18",
+      "date_removed": null,
       "duration_ms": 150441,
       "name": "Fluxxwave",
       "url": "https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr"
@@ -7728,7 +7750,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-09",
+      "date_removed": null,
       "duration_ms": 181224,
       "name": "Givenchy",
       "url": "https://open.spotify.com/track/7Fi6u0busMFneo0kh4x8dB"
@@ -10780,7 +10802,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 87679,
       "name": "KAMI",
       "url": "https://open.spotify.com/track/6rm58LPjSArdS4zEHSKXDu"
@@ -11978,7 +12000,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 195044,
       "name": "Lost Soul",
       "url": "https://open.spotify.com/track/4mZ59jnHHvm3GR3oOwRwjA"
@@ -13734,7 +13756,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-09",
+      "date_removed": null,
       "duration_ms": 156436,
       "name": "moonlight (kali uchis) - sped up version",
       "url": "https://open.spotify.com/track/1TL4lgjSoc9SeKKjLhDO1n"

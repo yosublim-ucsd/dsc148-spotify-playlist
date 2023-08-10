@@ -1,12 +1,12 @@
 {
   "description": "All your Disco favorites. Cover: Donna Summer",
-  "num_followers": 1511592,
+  "num_followers": 1511856,
   "original_name": "Disco Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTMxNjZhZjIzMjc2ZGNhZjY3ZGU2YzczN2JlMmNiODFhN2Q1MzQ2",
+  "snapshot_id": "MCxmODI0ZDlkMWU0NWYyYWE0YWY3MGNjZDFiM2FiMTg5NmJhOTZmMmZk",
   "tracks": [
     {
       "added_at": "2022-08-31 15:13:54",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-08-31 15:13:54",
       "album": {
-        "name": "Chic (2018 Remaster)",
-        "url": "https://open.spotify.com/album/388S3dsftPqG1nwgauItcx"
-      },
-      "artists": [
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        }
-      ],
-      "duration_ms": 402693,
-      "name": "Everybody Dance - 2018 Remaster",
-      "url": "https://open.spotify.com/track/15ifyO8wYntwyXAptfxhKr"
-    },
-    {
-      "added_at": "2022-08-31 15:13:54",
-      "album": {
         "name": "Central Heating (Expanded Edition)",
         "url": "https://open.spotify.com/album/6PWZmDj0bqiOqjMANAyjvH"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 264120,
       "name": "The Groove Line",
       "url": "https://open.spotify.com/track/3ptTr5IwiVaLcRDqfIypMs"
+    },
+    {
+      "added_at": "2022-08-31 15:13:54",
+      "album": {
+        "name": "Chic (2018 Remaster)",
+        "url": "https://open.spotify.com/album/388S3dsftPqG1nwgauItcx"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 402693,
+      "name": "Everybody Dance - 2018 Remaster",
+      "url": "https://open.spotify.com/track/15ifyO8wYntwyXAptfxhKr"
     },
     {
       "added_at": "2022-08-31 15:13:54",

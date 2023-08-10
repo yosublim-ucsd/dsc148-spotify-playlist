@@ -1,12 +1,12 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Melody's Echo Chamber on cover.",
-  "num_followers": 377634,
+  "num_followers": 377862,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OGE0YmNjODJjODNkYWU1MGUzMTZkNWY2ZTA1YWIzOTMxOTljNTQ1",
+  "snapshot_id": "MCwxZTA4ZmUwZTFjMjY4ZTExNGIwZDZlMTBkYzMxNjdiZjI5NWEwN2Vl",
   "tracks": [
     {
       "added_at": "2023-08-02 16:20:29",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
+      },
+      "artists": [
+        {
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+        }
+      ],
+      "duration_ms": 425036,
+      "name": "attention",
+      "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
         "name": "World Music",
         "url": "https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 215866,
       "name": "Jumpin' Jack Flash",
       "url": "https://open.spotify.com/track/6BkeuHmO4P69Ln2BSonrXi"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
-        "name": "humanus",
-        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
-      },
-      "artists": [
-        {
-          "name": "uh",
-          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
-        }
-      ],
-      "duration_ms": 425036,
-      "name": "attention",
-      "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "Egypt",
-        "url": "https://open.spotify.com/album/31ZG86kVsR9TpKp80LaBLc"
-      },
-      "artists": [
-        {
-          "name": "KYANOS",
-          "url": "https://open.spotify.com/artist/3cUDiKFw3eDH0KnAoJBPGD"
-        }
-      ],
-      "duration_ms": 261634,
-      "name": "Egypt",
-      "url": "https://open.spotify.com/track/3vX1OAHdl2R8XAWDxffrqy"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
         "name": "Back to Land",
         "url": "https://open.spotify.com/album/5ucGsqmWnXrx69gHS3ldOV"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 317960,
       "name": "Back to Land",
       "url": "https://open.spotify.com/track/7HGjI1DJeVu2UbVbbGNs25"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
+        "name": "Egypt",
+        "url": "https://open.spotify.com/album/31ZG86kVsR9TpKp80LaBLc"
+      },
+      "artists": [
+        {
+          "name": "KYANOS",
+          "url": "https://open.spotify.com/artist/3cUDiKFw3eDH0KnAoJBPGD"
+        }
+      ],
+      "duration_ms": 261634,
+      "name": "Egypt",
+      "url": "https://open.spotify.com/track/3vX1OAHdl2R8XAWDxffrqy"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
+        "name": "V.",
+        "url": "https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk"
+      },
+      "artists": [
+        {
+          "name": "Wooden Shjips",
+          "url": "https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0"
+        }
+      ],
+      "duration_ms": 383100,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
         "name": "The Gold & Silver Sessions",
         "url": "https://open.spotify.com/album/4WD2n2uML96zPjzds22Ykl"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 593386,
       "name": "Illusory Motion",
       "url": "https://open.spotify.com/track/0gMYjcuAwOcCBGruZqj14t"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
-        "name": "Jukebox Babe",
-        "url": "https://open.spotify.com/album/4Qr9GotOrEdcEg1NXmfWEV"
-      },
-      "artists": [
-        {
-          "name": "Moon Duo",
-          "url": "https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu"
-        }
-      ],
-      "duration_ms": 384895,
-      "name": "Jukebox Babe",
-      "url": "https://open.spotify.com/track/5zldKan8Pu2rPegmeY0wIV"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "V.",
-        "url": "https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk"
+        "name": "Jukebox Babe",
+        "url": "https://open.spotify.com/album/4Qr9GotOrEdcEg1NXmfWEV"
       },
       "artists": [
         {
-          "name": "Wooden Shjips",
-          "url": "https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0"
+          "name": "Moon Duo",
+          "url": "https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu"
         }
       ],
-      "duration_ms": 383100,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk"
+      "duration_ms": 384895,
+      "name": "Jukebox Babe",
+      "url": "https://open.spotify.com/track/5zldKan8Pu2rPegmeY0wIV"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "Snake Chain",
-        "url": "https://open.spotify.com/album/5hWVND0W7e2bWiZHwBqxql"
-      },
-      "artists": [
-        {
-          "name": "Shake Chain",
-          "url": "https://open.spotify.com/artist/6akq3yIgLS5DRCXLweoMCN"
-        }
-      ],
-      "duration_ms": 138333,
-      "name": "Mike",
-      "url": "https://open.spotify.com/track/47t2i7V3eYY8CqRKGjnK4O"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
         "name": "The Real Work",
         "url": "https://open.spotify.com/album/2F5tmLKUwzhiIPdaUgIUIx"
       },
@@ -1311,22 +1295,6 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "Exotico",
-        "url": "https://open.spotify.com/album/4rPbXiutTsGBMnkW9KESZQ"
-      },
-      "artists": [
-        {
-          "name": "Temples",
-          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
-        }
-      ],
-      "duration_ms": 260346,
-      "name": "Gamma Rays",
-      "url": "https://open.spotify.com/track/5k6nmmNdpSGdCNzdnyDoRp"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
         "name": "Sacred Drugs",
         "url": "https://open.spotify.com/album/1z3VxBmeYehR4iKUkQ0IST"
       },
@@ -1343,18 +1311,34 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "Pascuales",
-        "url": "https://open.spotify.com/album/4wOdqXvqgAWeUtGOyaTNNz"
+        "name": "Exotico",
+        "url": "https://open.spotify.com/album/4rPbXiutTsGBMnkW9KESZQ"
       },
       "artists": [
         {
-          "name": "Bobui",
-          "url": "https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse"
+          "name": "Temples",
+          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
         }
       ],
-      "duration_ms": 217103,
-      "name": "Pascuales",
-      "url": "https://open.spotify.com/track/5xuuZipGp3riNIiYDLKnXM"
+      "duration_ms": 260346,
+      "name": "Gamma Rays",
+      "url": "https://open.spotify.com/track/5k6nmmNdpSGdCNzdnyDoRp"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
+        "name": "Snake Chain",
+        "url": "https://open.spotify.com/album/5hWVND0W7e2bWiZHwBqxql"
+      },
+      "artists": [
+        {
+          "name": "Shake Chain",
+          "url": "https://open.spotify.com/artist/6akq3yIgLS5DRCXLweoMCN"
+        }
+      ],
+      "duration_ms": 138333,
+      "name": "Mike",
+      "url": "https://open.spotify.com/track/47t2i7V3eYY8CqRKGjnK4O"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -1371,6 +1355,22 @@
       "duration_ms": 306453,
       "name": "Fant\u00f4me",
       "url": "https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
+        "name": "Pascuales",
+        "url": "https://open.spotify.com/album/4wOdqXvqgAWeUtGOyaTNNz"
+      },
+      "artists": [
+        {
+          "name": "Bobui",
+          "url": "https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse"
+        }
+      ],
+      "duration_ms": 217103,
+      "name": "Pascuales",
+      "url": "https://open.spotify.com/track/5xuuZipGp3riNIiYDLKnXM"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -1471,38 +1471,6 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "Victor's Belt",
-        "url": "https://open.spotify.com/album/6wY4XmQTsy1neCkX1yzaQF"
-      },
-      "artists": [
-        {
-          "name": "Jaialai",
-          "url": "https://open.spotify.com/artist/3dFAQoWOP8AIuLcqhf416Q"
-        }
-      ],
-      "duration_ms": 192386,
-      "name": "Victor's Belt",
-      "url": "https://open.spotify.com/track/05mUXc20CCu93SnqWVAscp"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
-        "name": "Youth Accomplished",
-        "url": "https://open.spotify.com/album/4pvmTcWTeIIoVaSwNizPji"
-      },
-      "artists": [
-        {
-          "name": "Seabiscuit",
-          "url": "https://open.spotify.com/artist/2E8Y3HIsOudSYPxSYmhQGc"
-        }
-      ],
-      "duration_ms": 225750,
-      "name": "Youth Accomplished",
-      "url": "https://open.spotify.com/track/3obRU5bTNnd6UObMPi7CoL"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
         "name": "EP1",
         "url": "https://open.spotify.com/album/0nXVT3uABRGS2yObbKA2eQ"
       },
@@ -1519,6 +1487,22 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
+        "name": "Victor's Belt",
+        "url": "https://open.spotify.com/album/6wY4XmQTsy1neCkX1yzaQF"
+      },
+      "artists": [
+        {
+          "name": "Jaialai",
+          "url": "https://open.spotify.com/artist/3dFAQoWOP8AIuLcqhf416Q"
+        }
+      ],
+      "duration_ms": 192386,
+      "name": "Victor's Belt",
+      "url": "https://open.spotify.com/track/05mUXc20CCu93SnqWVAscp"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
         "name": "The Exorcist GBG",
         "url": "https://open.spotify.com/album/7uYTlyslljMPzES3uuXjHu"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 174803,
       "name": "Venus",
       "url": "https://open.spotify.com/track/7eCxuDASxBuWrjfnfdpxTk"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
+        "name": "Youth Accomplished",
+        "url": "https://open.spotify.com/album/4pvmTcWTeIIoVaSwNizPji"
+      },
+      "artists": [
+        {
+          "name": "Seabiscuit",
+          "url": "https://open.spotify.com/artist/2E8Y3HIsOudSYPxSYmhQGc"
+        }
+      ],
+      "duration_ms": 225750,
+      "name": "Youth Accomplished",
+      "url": "https://open.spotify.com/track/3obRU5bTNnd6UObMPi7CoL"
     },
     {
       "added_at": "2023-08-02 16:20:29",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-08-02 16:20:29",
       "album": {
-        "name": "Phase Modulation Shuffle (Edit)",
-        "url": "https://open.spotify.com/album/2W4XzDl8g1aXA3mgQ14GKF"
-      },
-      "artists": [
-        {
-          "name": "Cavern of Anti-Matter",
-          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Phase Modulation Shuffle (Edit)",
-      "url": "https://open.spotify.com/track/2eipVzPVCl3N2gWMXoEU1h"
-    },
-    {
-      "added_at": "2023-08-02 16:20:29",
-      "album": {
         "name": "Ghost Tapes #10",
         "url": "https://open.spotify.com/album/19Jy4bfbeWkmKAy7qA97oR"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 364048,
       "name": "Burial",
       "url": "https://open.spotify.com/track/39OK2v0ZYohVbvqg4X4uDE"
+    },
+    {
+      "added_at": "2023-08-02 16:20:29",
+      "album": {
+        "name": "Phase Modulation Shuffle (Edit)",
+        "url": "https://open.spotify.com/album/2W4XzDl8g1aXA3mgQ14GKF"
+      },
+      "artists": [
+        {
+          "name": "Cavern of Anti-Matter",
+          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Phase Modulation Shuffle (Edit)",
+      "url": "https://open.spotify.com/track/2eipVzPVCl3N2gWMXoEU1h"
     },
     {
       "added_at": "2023-08-02 16:20:29",

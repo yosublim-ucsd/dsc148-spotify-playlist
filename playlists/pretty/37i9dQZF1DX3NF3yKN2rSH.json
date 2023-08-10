@@ -1,12 +1,12 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 53894,
+  "num_followers": 53889,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDRmYWNkOGE1NDJmZDEyNDc4MGRhM2FjMzAyOTU3ZDNmZGRmYWNl",
+  "snapshot_id": "MCw5YTEzNTZmMmRmYWQwMWZlMTYxMDBlZTA1NjRkNzFmYjk5OGMxMWY4",
   "tracks": [
     {
       "added_at": "2023-04-09 08:49:39",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Road to DeMaskUs",
-        "url": "https://open.spotify.com/album/6mLj2XS7RDNh9gyVxUSlT3"
-      },
-      "artists": [
-        {
-          "name": "Israel Houghton",
-          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
-        }
-      ],
-      "duration_ms": 322106,
-      "name": "Reckless Love",
-      "url": "https://open.spotify.com/track/6LSqdwX4xUzP619oYIJMH9"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "The Life Project",
         "url": "https://open.spotify.com/album/2lcz20I84GFNbynt1xMUxL"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 446666,
       "name": "You're Bigger",
       "url": "https://open.spotify.com/track/2J2f58QGLLvGgW3ct21HSD"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Road to DeMaskUs",
+        "url": "https://open.spotify.com/album/6mLj2XS7RDNh9gyVxUSlT3"
+      },
+      "artists": [
+        {
+          "name": "Israel Houghton",
+          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
+        }
+      ],
+      "duration_ms": 322106,
+      "name": "Reckless Love",
+      "url": "https://open.spotify.com/track/6LSqdwX4xUzP619oYIJMH9"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "One Church",
-        "url": "https://open.spotify.com/album/7BfKk5DYFFWM1m8lcmFAok"
-      },
-      "artists": [
-        {
-          "name": "Kurt Carr",
-          "url": "https://open.spotify.com/artist/3HPpUSemwpvcLFn5RBvUwH"
-        }
-      ],
-      "duration_ms": 399400,
-      "name": "They Didn't Know",
-      "url": "https://open.spotify.com/track/1P8pSziECPmbA1Yd1k2ZY7"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Classics Vol. 1",
         "url": "https://open.spotify.com/album/6XLI4B9L9q2wL9oUKLqzrE"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 303160,
       "name": "Jesus Is the Answer",
       "url": "https://open.spotify.com/track/6sXB1ObEFi5nCrncPp4uxO"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "One Church",
+        "url": "https://open.spotify.com/album/7BfKk5DYFFWM1m8lcmFAok"
+      },
+      "artists": [
+        {
+          "name": "Kurt Carr",
+          "url": "https://open.spotify.com/artist/3HPpUSemwpvcLFn5RBvUwH"
+        }
+      ],
+      "duration_ms": 399400,
+      "name": "They Didn't Know",
+      "url": "https://open.spotify.com/track/1P8pSziECPmbA1Yd1k2ZY7"
     },
     {
       "added_at": "2023-04-09 08:49:39",

@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o especial do jazz nacional. Foto: Amaro Freitas",
-  "num_followers": 156027,
+  "num_followers": 156076,
   "original_name": "Jazz Brasileiro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDcyMmFhZjk5MTQyNDI1NTFiOThhYWJjYjZhMGE0ZDNhZGZiYzM0",
+  "snapshot_id": "MCw5MjFiZGI0ZTM3YzAxMmJlNGMwZGYwYTg5ZGEwY2QwOTcyNjdiYTBi",
   "tracks": [
     {
       "added_at": "2023-07-28 03:01:00",
@@ -431,6 +431,30 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
+        "name": "Azymuth JID004",
+        "url": "https://open.spotify.com/album/7btGCQBoauPU3SBCmHvR8p"
+      },
+      "artists": [
+        {
+          "name": "Azymuth",
+          "url": "https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        }
+      ],
+      "duration_ms": 257600,
+      "name": "Fall Afternoon",
+      "url": "https://open.spotify.com/track/6uxsDym2BeX70yckRlbIxl"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
         "name": "Rala Coxa",
         "url": "https://open.spotify.com/album/48RtZ8vrAFhgM28pBL9FjO"
       },
@@ -455,26 +479,38 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Azymuth JID004",
-        "url": "https://open.spotify.com/album/7btGCQBoauPU3SBCmHvR8p"
+        "name": "Sabor",
+        "url": "https://open.spotify.com/album/3iFHfXFv7XfjZhC1cIjQo9"
       },
       "artists": [
         {
-          "name": "Azymuth",
-          "url": "https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx"
+          "name": "Tr\u00edvia",
+          "url": "https://open.spotify.com/artist/2WxfyoixnFqg2c2wohtKAw"
         },
         {
-          "name": "Adrian Younge",
-          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
-        },
-        {
-          "name": "Ali Shaheed Muhammad",
-          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+          "name": "Diego Garbin",
+          "url": "https://open.spotify.com/artist/6IZSzplX4B4ftv1xrssORB"
         }
       ],
-      "duration_ms": 257600,
-      "name": "Fall Afternoon",
-      "url": "https://open.spotify.com/track/6uxsDym2BeX70yckRlbIxl"
+      "duration_ms": 355012,
+      "name": "Sabor",
+      "url": "https://open.spotify.com/track/2wPJ5HMGp3TftsxL3puIMT"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Bruma: Celebrating Milton Nascimento",
+        "url": "https://open.spotify.com/album/5SN0MQBy1iyHIjbYyl7J0e"
+      },
+      "artists": [
+        {
+          "name": "Antonio Adolfo",
+          "url": "https://open.spotify.com/artist/41ZdHyHrzKwE6Y8dtDQ1Q9"
+        }
+      ],
+      "duration_ms": 296346,
+      "name": "Caxanga",
+      "url": "https://open.spotify.com/track/00zXlQzPHRh1rwq7v2CvC5"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -503,42 +539,6 @@
       "duration_ms": 229213,
       "name": "Tutu",
       "url": "https://open.spotify.com/track/4DeBe2DKjYutgq1upkkRlL"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
-        "name": "Bruma: Celebrating Milton Nascimento",
-        "url": "https://open.spotify.com/album/5SN0MQBy1iyHIjbYyl7J0e"
-      },
-      "artists": [
-        {
-          "name": "Antonio Adolfo",
-          "url": "https://open.spotify.com/artist/41ZdHyHrzKwE6Y8dtDQ1Q9"
-        }
-      ],
-      "duration_ms": 296346,
-      "name": "Caxanga",
-      "url": "https://open.spotify.com/track/00zXlQzPHRh1rwq7v2CvC5"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
-        "name": "Sabor",
-        "url": "https://open.spotify.com/album/3iFHfXFv7XfjZhC1cIjQo9"
-      },
-      "artists": [
-        {
-          "name": "Tr\u00edvia",
-          "url": "https://open.spotify.com/artist/2WxfyoixnFqg2c2wohtKAw"
-        },
-        {
-          "name": "Diego Garbin",
-          "url": "https://open.spotify.com/artist/6IZSzplX4B4ftv1xrssORB"
-        }
-      ],
-      "duration_ms": 355012,
-      "name": "Sabor",
-      "url": "https://open.spotify.com/track/2wPJ5HMGp3TftsxL3puIMT"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "From Rio",
-        "url": "https://open.spotify.com/album/5wZW0ZTI1uORDNbCJTyoM8"
-      },
-      "artists": [
-        {
-          "name": "Marcio Riscado",
-          "url": "https://open.spotify.com/artist/2LGbQV6JqYUFfbrZNr5tST"
-        }
-      ],
-      "duration_ms": 126647,
-      "name": "From Rio",
-      "url": "https://open.spotify.com/track/5ZIksEAchH5o7N1uAz0cat"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "K\u00e2ndra",
         "url": "https://open.spotify.com/album/6B8497B5HQZv2Shd7AOn0w"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 460190,
       "name": "Miragem",
       "url": "https://open.spotify.com/track/7eNAye3KKT13agV313oImc"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "From Rio",
+        "url": "https://open.spotify.com/album/5wZW0ZTI1uORDNbCJTyoM8"
+      },
+      "artists": [
+        {
+          "name": "Marcio Riscado",
+          "url": "https://open.spotify.com/artist/2LGbQV6JqYUFfbrZNr5tST"
+        }
+      ],
+      "duration_ms": 126647,
+      "name": "From Rio",
+      "url": "https://open.spotify.com/track/5ZIksEAchH5o7N1uAz0cat"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -895,6 +895,30 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
+        "name": "Mojito",
+        "url": "https://open.spotify.com/album/3oo2cuVR8yEvExHg8IGAUI"
+      },
+      "artists": [
+        {
+          "name": "Tahta Menezes",
+          "url": "https://open.spotify.com/artist/5zto0NhFPEDUohvCEOYlrM"
+        },
+        {
+          "name": "Samba Melodiosa",
+          "url": "https://open.spotify.com/artist/7p48BUNzmf8Vhol4hsZC8T"
+        },
+        {
+          "name": "Chico Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4VLWmHZ11JhQafEaw0GSlK"
+        }
+      ],
+      "duration_ms": 140843,
+      "name": "Strange Loves",
+      "url": "https://open.spotify.com/track/0Ci1tId9FrGY7BhYaCJqjt"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
         "name": "Sincronia",
         "url": "https://open.spotify.com/album/6CTxoODL8KCHRg4HLuLmo0"
       },
@@ -919,30 +943,6 @@
       "duration_ms": 395219,
       "name": "Feira de Mangaio",
       "url": "https://open.spotify.com/track/0GZ5ZjDvAK0axUAFVDnHNK"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
-        "name": "Mojito",
-        "url": "https://open.spotify.com/album/3oo2cuVR8yEvExHg8IGAUI"
-      },
-      "artists": [
-        {
-          "name": "Tahta Menezes",
-          "url": "https://open.spotify.com/artist/5zto0NhFPEDUohvCEOYlrM"
-        },
-        {
-          "name": "Samba Melodiosa",
-          "url": "https://open.spotify.com/artist/7p48BUNzmf8Vhol4hsZC8T"
-        },
-        {
-          "name": "Chico Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4VLWmHZ11JhQafEaw0GSlK"
-        }
-      ],
-      "duration_ms": 140843,
-      "name": "Strange Loves",
-      "url": "https://open.spotify.com/track/0Ci1tId9FrGY7BhYaCJqjt"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1043,6 +1043,34 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
+        "name": "Pro Carnaval Voltar",
+        "url": "https://open.spotify.com/album/7kL1OkviidQqo32KssBYlD"
+      },
+      "artists": [
+        {
+          "name": "Oran Etkin",
+          "url": "https://open.spotify.com/artist/1UbVxOOCTpW3AZkRlvvEcO"
+        },
+        {
+          "name": "Benjamim Taubkin",
+          "url": "https://open.spotify.com/artist/3RXcmh3eKjiIG9XNP3XOmy"
+        },
+        {
+          "name": "Jo\u00e3o Taubkin",
+          "url": "https://open.spotify.com/artist/5RUKQNNnVb67S4HJuEHgzc"
+        },
+        {
+          "name": "Kab\u00e9 Pinheiro",
+          "url": "https://open.spotify.com/artist/6pcIIwCAElxXLUu3iw3xAF"
+        }
+      ],
+      "duration_ms": 481925,
+      "name": "Pro Carnaval Voltar",
+      "url": "https://open.spotify.com/track/5t2qmr2NKocar4Y1re3j2j"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
         "name": "\u00c2mbar - os Afluentes da M\u00fasica",
         "url": "https://open.spotify.com/album/59N6VBsreoqwUhdqxYfClk"
       },
@@ -1075,34 +1103,6 @@
       "duration_ms": 310226,
       "name": "Afluente do Futuro",
       "url": "https://open.spotify.com/track/2U6VHc3DqSLhLrtTRNkFCT"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
-        "name": "Pro Carnaval Voltar",
-        "url": "https://open.spotify.com/album/7kL1OkviidQqo32KssBYlD"
-      },
-      "artists": [
-        {
-          "name": "Oran Etkin",
-          "url": "https://open.spotify.com/artist/1UbVxOOCTpW3AZkRlvvEcO"
-        },
-        {
-          "name": "Benjamim Taubkin",
-          "url": "https://open.spotify.com/artist/3RXcmh3eKjiIG9XNP3XOmy"
-        },
-        {
-          "name": "Jo\u00e3o Taubkin",
-          "url": "https://open.spotify.com/artist/5RUKQNNnVb67S4HJuEHgzc"
-        },
-        {
-          "name": "Kab\u00e9 Pinheiro",
-          "url": "https://open.spotify.com/artist/6pcIIwCAElxXLUu3iw3xAF"
-        }
-      ],
-      "duration_ms": 481925,
-      "name": "Pro Carnaval Voltar",
-      "url": "https://open.spotify.com/track/5t2qmr2NKocar4Y1re3j2j"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "In The Still Of The Night",
-        "url": "https://open.spotify.com/album/5YopLA0LniwJzWI8rXA148"
-      },
-      "artists": [
-        {
-          "name": "The Blue Green",
-          "url": "https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80"
-        }
-      ],
-      "duration_ms": 289434,
-      "name": "In The Still Of The Night",
-      "url": "https://open.spotify.com/track/6QMNUfRiLfoPubKKkhhCqq"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "Amilton Godoy 80 Anos",
         "url": "https://open.spotify.com/album/6iTLkjtp9fZoVDKJt0XBnx"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 166933,
       "name": "Ponteio 49",
       "url": "https://open.spotify.com/track/0AHyQ08UJCdoMBpW1HJGjb"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "In The Still Of The Night",
+        "url": "https://open.spotify.com/album/5YopLA0LniwJzWI8rXA148"
+      },
+      "artists": [
+        {
+          "name": "The Blue Green",
+          "url": "https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80"
+        }
+      ],
+      "duration_ms": 289434,
+      "name": "In The Still Of The Night",
+      "url": "https://open.spotify.com/track/6QMNUfRiLfoPubKKkhhCqq"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1211,18 +1211,30 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Cozinhando Pedra",
-        "url": "https://open.spotify.com/album/1pqCyF37r676FpcO72dCcm"
+        "name": "Afinidades",
+        "url": "https://open.spotify.com/album/0C1dlpqgzru6jeE0ds2kXA"
       },
       "artists": [
         {
+          "name": "Thiago Espirito Santo",
+          "url": "https://open.spotify.com/artist/7a0rMCZhzQfOiAR5ZfvbGx"
+        },
+        {
+          "name": "Mauricio Einhorn",
+          "url": "https://open.spotify.com/artist/0u4Cmv7waxYlCcsd9msylI"
+        },
+        {
           "name": "Bruno Cardozo",
           "url": "https://open.spotify.com/artist/03cuE8ROjC7uQD28RbQ1Un"
+        },
+        {
+          "name": "Cuca Teixeira",
+          "url": "https://open.spotify.com/artist/4jYt1eIZIPqbxi7cgovekM"
         }
       ],
-      "duration_ms": 322546,
-      "name": "Cozinhando Pedra",
-      "url": "https://open.spotify.com/track/4ZEByegTUjaI2Fh8jJNXz7"
+      "duration_ms": 343211,
+      "name": "Burlesque",
+      "url": "https://open.spotify.com/track/78qBElIUs1KFRlKXIaizMb"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1255,30 +1267,18 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Afinidades",
-        "url": "https://open.spotify.com/album/0C1dlpqgzru6jeE0ds2kXA"
+        "name": "Cozinhando Pedra",
+        "url": "https://open.spotify.com/album/1pqCyF37r676FpcO72dCcm"
       },
       "artists": [
         {
-          "name": "Thiago Espirito Santo",
-          "url": "https://open.spotify.com/artist/7a0rMCZhzQfOiAR5ZfvbGx"
-        },
-        {
-          "name": "Mauricio Einhorn",
-          "url": "https://open.spotify.com/artist/0u4Cmv7waxYlCcsd9msylI"
-        },
-        {
           "name": "Bruno Cardozo",
           "url": "https://open.spotify.com/artist/03cuE8ROjC7uQD28RbQ1Un"
-        },
-        {
-          "name": "Cuca Teixeira",
-          "url": "https://open.spotify.com/artist/4jYt1eIZIPqbxi7cgovekM"
         }
       ],
-      "duration_ms": 343211,
-      "name": "Burlesque",
-      "url": "https://open.spotify.com/track/78qBElIUs1KFRlKXIaizMb"
+      "duration_ms": 322546,
+      "name": "Cozinhando Pedra",
+      "url": "https://open.spotify.com/track/4ZEByegTUjaI2Fh8jJNXz7"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1347,38 +1347,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Choramundo",
-        "url": "https://open.spotify.com/album/4A259Tg4wksVs2FuHeaPIU"
-      },
-      "artists": [
-        {
-          "name": "Nelson Latif",
-          "url": "https://open.spotify.com/artist/0zaH41rdJncnNnh6MDLG51"
-        },
-        {
-          "name": "Pablo Nahar",
-          "url": "https://open.spotify.com/artist/3FPl7qUgljLraR4vJ8kKIK"
-        },
-        {
-          "name": "Praful",
-          "url": "https://open.spotify.com/artist/1CTc17XcooaxP99IdyVhzO"
-        },
-        {
-          "name": "Joeri de Graaf",
-          "url": "https://open.spotify.com/artist/7unlmnm8l7biNSIQObR5w3"
-        },
-        {
-          "name": "Olaf Keus",
-          "url": "https://open.spotify.com/artist/6JNEM6MvA6AehG2EN9OGmv"
-        }
-      ],
-      "duration_ms": 202026,
-      "name": "Costa da Mina",
-      "url": "https://open.spotify.com/track/6jYmO2yig7sEPtIFPsAVTM"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "CasaBrancaBrinCadeira",
         "url": "https://open.spotify.com/album/3tqXcipTksGPAWJbqVvN48"
       },
@@ -1411,6 +1379,38 @@
       "duration_ms": 396331,
       "name": "CasaBrancaBrinCadeira",
       "url": "https://open.spotify.com/track/5q39i9docmNZaQzwNDA9YH"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Choramundo",
+        "url": "https://open.spotify.com/album/4A259Tg4wksVs2FuHeaPIU"
+      },
+      "artists": [
+        {
+          "name": "Nelson Latif",
+          "url": "https://open.spotify.com/artist/0zaH41rdJncnNnh6MDLG51"
+        },
+        {
+          "name": "Pablo Nahar",
+          "url": "https://open.spotify.com/artist/3FPl7qUgljLraR4vJ8kKIK"
+        },
+        {
+          "name": "Praful",
+          "url": "https://open.spotify.com/artist/1CTc17XcooaxP99IdyVhzO"
+        },
+        {
+          "name": "Joeri de Graaf",
+          "url": "https://open.spotify.com/artist/7unlmnm8l7biNSIQObR5w3"
+        },
+        {
+          "name": "Olaf Keus",
+          "url": "https://open.spotify.com/artist/6JNEM6MvA6AehG2EN9OGmv"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "Costa da Mina",
+      "url": "https://open.spotify.com/track/6jYmO2yig7sEPtIFPsAVTM"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1611,6 +1611,34 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
+        "name": "When the Answer Is a Question",
+        "url": "https://open.spotify.com/album/2FBNA5BgJ4AlPqNf7DNSH6"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Taubkin",
+          "url": "https://open.spotify.com/artist/5RUKQNNnVb67S4HJuEHgzc"
+        },
+        {
+          "name": "Rodrigo Bragan\u00e7a",
+          "url": "https://open.spotify.com/artist/63iSklF8uJYCOiBIrv26ce"
+        },
+        {
+          "name": "S\u00e9rgio Reze",
+          "url": "https://open.spotify.com/artist/2n7NzG02khB453J56v7q2m"
+        },
+        {
+          "name": "Z\u00e9 Godoy",
+          "url": "https://open.spotify.com/artist/176Dr7eYyL8YrDUUjjC2wg"
+        }
+      ],
+      "duration_ms": 457386,
+      "name": "When the Answer Is a Question",
+      "url": "https://open.spotify.com/track/1tbvdk5fjRFIS96qKqQU3m"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
         "name": "Reluzente",
         "url": "https://open.spotify.com/album/0UMAqQoehHKQvNiptLXdO0"
       },
@@ -1639,34 +1667,6 @@
       "duration_ms": 322602,
       "name": "Reluzente",
       "url": "https://open.spotify.com/track/0tGm68QkTE0ridWhHZkQoo"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
-        "name": "When the Answer Is a Question",
-        "url": "https://open.spotify.com/album/2FBNA5BgJ4AlPqNf7DNSH6"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Taubkin",
-          "url": "https://open.spotify.com/artist/5RUKQNNnVb67S4HJuEHgzc"
-        },
-        {
-          "name": "Rodrigo Bragan\u00e7a",
-          "url": "https://open.spotify.com/artist/63iSklF8uJYCOiBIrv26ce"
-        },
-        {
-          "name": "S\u00e9rgio Reze",
-          "url": "https://open.spotify.com/artist/2n7NzG02khB453J56v7q2m"
-        },
-        {
-          "name": "Z\u00e9 Godoy",
-          "url": "https://open.spotify.com/artist/176Dr7eYyL8YrDUUjjC2wg"
-        }
-      ],
-      "duration_ms": 457386,
-      "name": "When the Answer Is a Question",
-      "url": "https://open.spotify.com/track/1tbvdk5fjRFIS96qKqQU3m"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1775,30 +1775,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Sobre a Lua e os Passos",
-        "url": "https://open.spotify.com/album/21wGzLdyRWonWnjcEuwlqX"
-      },
-      "artists": [
-        {
-          "name": "Trov\u00e3o Rocha",
-          "url": "https://open.spotify.com/artist/0u2Fj8zfHGiA82dDWCptaL"
-        },
-        {
-          "name": "Sebastian Cavallaro",
-          "url": "https://open.spotify.com/artist/3P6Kv3myWy1y4P631huZhk"
-        },
-        {
-          "name": "Victor Bub",
-          "url": "https://open.spotify.com/artist/7GnTv86SxOeGKlLD4eYtGl"
-        }
-      ],
-      "duration_ms": 247683,
-      "name": "Sobre a Lua e os Passos",
-      "url": "https://open.spotify.com/track/3lZnN3zIgJA0zhFevSDnw3"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "Domingo 27/09",
         "url": "https://open.spotify.com/album/0rbqkW5qWily7iUgNmsyTt"
       },
@@ -1835,6 +1811,30 @@
       "duration_ms": 506440,
       "name": "Atrevido",
       "url": "https://open.spotify.com/track/3mWgxMofVIC265Pj2BEU9O"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Sobre a Lua e os Passos",
+        "url": "https://open.spotify.com/album/21wGzLdyRWonWnjcEuwlqX"
+      },
+      "artists": [
+        {
+          "name": "Trov\u00e3o Rocha",
+          "url": "https://open.spotify.com/artist/0u2Fj8zfHGiA82dDWCptaL"
+        },
+        {
+          "name": "Sebastian Cavallaro",
+          "url": "https://open.spotify.com/artist/3P6Kv3myWy1y4P631huZhk"
+        },
+        {
+          "name": "Victor Bub",
+          "url": "https://open.spotify.com/artist/7GnTv86SxOeGKlLD4eYtGl"
+        }
+      ],
+      "duration_ms": 247683,
+      "name": "Sobre a Lua e os Passos",
+      "url": "https://open.spotify.com/track/3lZnN3zIgJA0zhFevSDnw3"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1883,18 +1883,18 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Epifonia",
-        "url": "https://open.spotify.com/album/45ZWDe2VvpzRpgEcrxWeSv"
+        "name": "Gunnarssons",
+        "url": "https://open.spotify.com/album/7vxhs47gBZsB7xf2KUAPjm"
       },
       "artists": [
         {
-          "name": "Lucas Bueno Dias",
-          "url": "https://open.spotify.com/artist/6MTTPwmxyN5R9WlSbyc2aH"
+          "name": "The Blue Green",
+          "url": "https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80"
         }
       ],
-      "duration_ms": 357646,
-      "name": "Mestre Samuca",
-      "url": "https://open.spotify.com/track/65gPXksYSYJLkJcNkM2FJ2"
+      "duration_ms": 251417,
+      "name": "Gunnarssons",
+      "url": "https://open.spotify.com/track/34W8m3rNw7pqYieF2mVxe2"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1915,18 +1915,18 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Gunnarssons",
-        "url": "https://open.spotify.com/album/7vxhs47gBZsB7xf2KUAPjm"
+        "name": "Epifonia",
+        "url": "https://open.spotify.com/album/45ZWDe2VvpzRpgEcrxWeSv"
       },
       "artists": [
         {
-          "name": "The Blue Green",
-          "url": "https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80"
+          "name": "Lucas Bueno Dias",
+          "url": "https://open.spotify.com/artist/6MTTPwmxyN5R9WlSbyc2aH"
         }
       ],
-      "duration_ms": 251417,
-      "name": "Gunnarssons",
-      "url": "https://open.spotify.com/track/34W8m3rNw7pqYieF2mVxe2"
+      "duration_ms": 357646,
+      "name": "Mestre Samuca",
+      "url": "https://open.spotify.com/track/65gPXksYSYJLkJcNkM2FJ2"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Casa De Bituca",
-        "url": "https://open.spotify.com/album/0jSp6arhifs3cSVyiRURX3"
-      },
-      "artists": [
-        {
-          "name": "Hamilton De Holanda Quintet",
-          "url": "https://open.spotify.com/artist/6MzenfFiF1pl744GDCZbKP"
-        }
-      ],
-      "duration_ms": 238406,
-      "name": "Clube da Esquina #2",
-      "url": "https://open.spotify.com/track/7zsmMYWpFYuwbUBoS7ZoN3"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "Somethin' Jazzy",
         "url": "https://open.spotify.com/album/6H1R9I9eR9VUF6rlIhfu6m"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 118883,
       "name": "Chablis",
       "url": "https://open.spotify.com/track/79YRnWQobPXpN4WrxhUXgY"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Casa De Bituca",
+        "url": "https://open.spotify.com/album/0jSp6arhifs3cSVyiRURX3"
+      },
+      "artists": [
+        {
+          "name": "Hamilton De Holanda Quintet",
+          "url": "https://open.spotify.com/artist/6MzenfFiF1pl744GDCZbKP"
+        }
+      ],
+      "duration_ms": 238406,
+      "name": "Clube da Esquina #2",
+      "url": "https://open.spotify.com/track/7zsmMYWpFYuwbUBoS7ZoN3"
     },
     {
       "added_at": "2023-07-28 03:01:00",

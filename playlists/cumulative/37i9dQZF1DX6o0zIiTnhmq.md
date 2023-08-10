@@ -4,7 +4,7 @@
 
 > Mantras for meditation
 
-82 songs - 23 hr 39 min
+83 songs - 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Gayatri Mantra 108 Times](https://open.spotify.com/track/3ZkrJk4fRxrRmY9vTnPqfb) | [Dr\. Rahul Joshi](https://open.spotify.com/artist/71cFvaV1O8Jb5jzJc86YLr) | [Gayatri Mantra 108 Times \- Single](https://open.spotify.com/album/2ghS5qaKObWNuoXbRgD9LU) | 47:29 | 2022-01-24 | 2023-06-23 |
 | [Gayatri Mantra 108 Times](https://open.spotify.com/track/6WX94Hv9LXIzxKvJYJUhMy) | [Dr\. Rahul Joshi](https://open.spotify.com/artist/71cFvaV1O8Jb5jzJc86YLr) | [Gayatri Mantra 108 Times \- Single](https://open.spotify.com/album/76rIJ92IJGiqPju3epWuoM) | 47:29 | 2022-01-24 | 2023-03-12 |
 | [Gayatri Mantra Without Rhythm](https://open.spotify.com/track/7DF6xE3PU2agEw7pEheTWt) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Gayatri Mantra\-\-\-\-\-Jagjit Singh](https://open.spotify.com/album/7yd4gPISELyKBRsdGDoCTg) | 7:51 | 2022-01-24 |  |
-| [Green Tara Mantra](https://open.spotify.com/track/7yivO15nGU6ddIA93aQnUR) | [Dalai Lama](https://open.spotify.com/artist/6RXfTUnrji43vpU1AdK4up) | [Songs Of Tara](https://open.spotify.com/album/5hdeJwvfNrUPqm1BYRBVqv) | 7:24 | 2023-05-23 |  |
+| [Green Tara Mantra](https://open.spotify.com/track/7yivO15nGU6ddIA93aQnUR) | [Dalai Lama](https://open.spotify.com/artist/6RXfTUnrji43vpU1AdK4up) | [Songs Of Tara](https://open.spotify.com/album/5hdeJwvfNrUPqm1BYRBVqv) | 7:24 | 2023-05-23 | 2023-08-10 |
+| [Green Tara Mantra](https://open.spotify.com/track/3oaoSGOrDm3YwrK3cEMeI8) | [Dean Evenson](https://open.spotify.com/artist/6Sp2FifnF2ZMmUrLvUuapi), [H\. H\. the 14th Dalai Lama](https://open.spotify.com/artist/0cXH1d3YdsSeiJTeUnmiw9) | [Prayer: a Multi\-Cultural Journey of Spirit](https://open.spotify.com/album/0o6DPWJW0uQE5JmnXMLnaw) | 7:22 | 2023-07-28 |  |
 | [Guru Smaranam](https://open.spotify.com/track/5c8AwcaZMp8bgxpezxxohX) | [Ravindra Sathe](https://open.spotify.com/artist/4I5QgST39jQbLzuWTgUKcX), [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek), [Harish Bhimani](https://open.spotify.com/artist/4Ue0breeduMNArt1jlqe7d), [Chorus](https://open.spotify.com/artist/2Bu3DMTHHdXW4jnhoWHhPa) | [Morning Mantras](https://open.spotify.com/album/08xbsX0guYMVjMe7oThBlp) | 3:40 | 2022-01-24 | 2022-07-29 |
 | [Guru Smaranam](https://open.spotify.com/track/6n4Oa9DqN2ZaAGQlJ94WiR) | [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Morning Mantras](https://open.spotify.com/album/7rZWkCmz3Eli2Q9WkOXV0W) | 3:39 | 2022-01-24 | 2023-04-11 |
 | [Hari Om \- Edit](https://open.spotify.com/track/2f15VD8uiJDDEHbM17OmIv) | [Nisha Narsai](https://open.spotify.com/artist/1Ux83LKN1wlXdbKJhcpGEC) | [Om Sound Healing Music: Tibetan & Crystal Bowls with Deep Mantras for Yoga](https://open.spotify.com/album/5HDRlVQWc8iTXqRDlmQ37M) | 8:04 | 2023-05-23 |  |

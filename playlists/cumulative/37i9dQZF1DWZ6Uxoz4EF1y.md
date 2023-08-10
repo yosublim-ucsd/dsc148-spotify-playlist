@@ -4,7 +4,7 @@
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-107 songs - 9 hr 48 min
+108 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,11 +94,12 @@
 | [Por Amor](https://open.spotify.com/track/7j2pRAjkERWLyg4ULzxWTR) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [El Poder De Tu Amor](https://open.spotify.com/album/48OdG91I1ZNnYmq8XSxBJW) | 4:29 | 2023-04-09 |  |
 | [Por Las Llagas](https://open.spotify.com/track/127BY9LPFhtLMu3pkmXcrh) | [Vino Nuevo](https://open.spotify.com/artist/36QN4IhuLXW5eM5pg2X3jr) | [Ven Y Llena Esta Casa](https://open.spotify.com/album/5M3Y7vUdrfZgtIbzUhepuN) | 5:00 | 2023-04-09 |  |
 | [Por Su Gracia](https://open.spotify.com/track/3lTfA15qXGXNKadA1XVXMs) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [People En Español](https://open.spotify.com/album/3TJCEB18pWSsmbsHTIIEzi) | 6:00 | 2023-04-09 |  |
+| [Porque Él Vive](https://open.spotify.com/track/7gXW3M4iny57LIpgeGwoY6) | [Rudy Pérez](https://open.spotify.com/artist/4eUxJJBkyYPh8Mdlj2TLlv) | [Porque Él Vive](https://open.spotify.com/album/4xSQ0ZsJO1VezwxplS4Ivn) | 4:19 | 2023-04-09 |  |
 | [Preciosa Sangre](https://open.spotify.com/track/0LXxKUA4sIwRDSPjyjtijp) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [El Encuentro](https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx) | 4:59 | 2020-09-18 |  |
 | [Precioso Jesús](https://open.spotify.com/track/7mEYivIHySFGJS8HySzcf2) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Me Has Hecho Libre](https://open.spotify.com/album/0dNBk8BUcnZoA0YouvHGRP) | 6:20 | 2020-09-18 |  |
 | [Quiero Conocer a Jesús \(Yeshua\) / Nuestro Dios](https://open.spotify.com/track/293og3yEKwAjriGh8ps8W9) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Sofía Mancipe](https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ), [Fernando Ramos](https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Tu Reino Está Aquí](https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO) | 11:55 | 2023-04-09 |  |
 | [Rey de Reyes](https://open.spotify.com/track/3GzWdBxKgTxxdmnQ3Bk0u2) | [Essential Worship](https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw), [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [La Bondad de Dios](https://open.spotify.com/album/3U0BIC0ghYKKuEzuXXaYF7) | 4:23 | 2023-04-09 |  |
-| [Santo Es Tu Nombre \- En Vivo](https://open.spotify.com/track/0HVwdABlCeSEMKcNrrltMq) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Santo Es Tu Nombre](https://open.spotify.com/album/1VWgamUUdySfyTVnuwG0zP) | 6:27 | 2023-04-09 |  |
+| [Santo Es Tu Nombre \- En Vivo](https://open.spotify.com/track/0HVwdABlCeSEMKcNrrltMq) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Santo Es Tu Nombre](https://open.spotify.com/album/1VWgamUUdySfyTVnuwG0zP) | 6:27 | 2023-04-09 | 2023-08-10 |
 | [Santo Río de Dios](https://open.spotify.com/track/0SzKBtMu75trcKWGXBsGb6) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Santo Río de Dios](https://open.spotify.com/album/197HCxd1moPA2aHnlfPTPM) | 5:01 | 2023-04-09 |  |
 | [Solo Cristo \(None But Jesus\) \- Live](https://open.spotify.com/track/3YloTZWHLZ2PadUE4LBLMu) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Unidos Permanecemos \(Live\)](https://open.spotify.com/album/6L9KwXjzjFaM1PhQMvYYmm) | 5:29 | 2023-04-09 |  |
 | [Solo en Cristo](https://open.spotify.com/track/5K7DKEJtKQJJgXbC8OfLNd) | [Adoración La IBI](https://open.spotify.com/artist/6qValgleME8pv861DLzupQ) | [Miraré al Rey](https://open.spotify.com/album/027pf1seCyz8BPhya74n2L) | 4:47 | 2023-04-09 |  |

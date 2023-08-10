@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,621 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,738 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 74 | [Não Sou Merecedor \- Remix](https://open.spotify.com/track/1LAUZbs9Tjou8sb5nXPz1h) | [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr), [JoyFull](https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Avipa](https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq) | [Não Sou Merecedor \(Remix\)](https://open.spotify.com/album/6Nup7hhcwHVEfVT9dC9yG8) | 2:55 |
 | 75 | [Resposta](https://open.spotify.com/track/35KNTeAmlD23sUPxeIrmB0) | [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Carlinhosdj](https://open.spotify.com/artist/4GxleeDpZsQx4pUB6EZQre), [Alice Santos](https://open.spotify.com/artist/4IxckByaG1ZIx3F4rHZ7up) | [Resposta](https://open.spotify.com/album/0KydLeQzuB2oGwxkQ4ZcvT) | 3:21 |
 
-Snapshot ID: `MCw2MTMyZWEyNDE0OWNlYzNkYWVmOTQ4ZDJmODFlMmM4MzU2N2FiNmVl`
+Snapshot ID: `MCw1YjhjOWVmMGQ5Mzk5NTI4ZWM1NjI3OWViN2Q0NmMzODU0OWI1YTc5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Kai Buizon Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,485 likes - 74 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,499 likes - 74 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 73 | [Lay low](https://open.spotify.com/track/53dRkr01TLZoYmEgDPjBeB) | [Trap House PH](https://open.spotify.com/artist/50JZl7pSFdniyrRcKWk3vL) | [Lay low](https://open.spotify.com/album/5sPmBgysHPkoRPcYKzk0lM) | 4:00 |
 | 74 | [ur myn](https://open.spotify.com/track/7itjlBxT6fwX3FKjMYB57C) | [Marga Jayy](https://open.spotify.com/artist/04Bq2hRCsdZEQ9cKVDXN3R) | [ur myn](https://open.spotify.com/album/4J9TiLEhvKJhBRskzYbRpD) | 4:16 |
 
-Snapshot ID: `MCw0NzZlODBkNjBjZTQ5ZjZkYjhlODVjYzRiM2Y3YzI1ZDhhNzAxN2Vj`
+Snapshot ID: `MCxmMWQ3NzU2M2NjYjBlMzkyMWYxNmFhZjE2MzlmMzE0ZWQ0ZDhmNWZh`

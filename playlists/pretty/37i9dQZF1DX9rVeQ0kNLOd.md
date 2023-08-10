@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,046 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,058 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 4 | [HIT NUMBER \- EVISBEATSとPUNCH REMIX](https://open.spotify.com/track/3qAT9iw2AiiJ0CxTcqxQn1) | [Emi Okamoto](https://open.spotify.com/artist/20RZYpmOiZTCdkl4c5u4li), [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc) | [ストライク!](https://open.spotify.com/album/5mJrUjgKk7jzSr9TohY7qx) | 3:28 |
 | 5 | [Like No One's Done](https://open.spotify.com/track/1r58xvfAQ4XOZFxazKGn6J) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1) | [Like No One's Done](https://open.spotify.com/album/00tVzuX53IxaZ2tk6dGvpZ) | 3:55 |
 | 6 | [Cookie](https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:55 |
-| 7 | [wind blows \- softly \-](https://open.spotify.com/track/7yChFpLeFv68tGKEH77gHl) | [lo\-key design](https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB), [Rikuto Nagira](https://open.spotify.com/artist/1m853g4jSUXHZIrmOZqkPo) | [wind blows \- softly \-](https://open.spotify.com/album/2XPQI1hw4aQKLCXK22o6uW) | 2:29 |
+| 7 | [wind blows \- softly \-](https://open.spotify.com/track/1muPqbyGs2w8dta3GOTEUv) | [lo\-key design](https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB), [Rikuto Nagira](https://open.spotify.com/artist/1m853g4jSUXHZIrmOZqkPo) | [wind blows \- softly \-](https://open.spotify.com/album/6TxFJQgoHoxpcxRqJE1ovS) | 2:29 |
 | 8 | [Windmills](https://open.spotify.com/track/1aha4I89HovVYkb2O4udUM) | [maco marets](https://open.spotify.com/artist/5DbBdSGEbUynwuApR95Bfi) | [Windmills](https://open.spotify.com/album/4DzOrai5gfKhWBEazJUP5W) | 3:30 |
 | 9 | [そんなbitterな話](https://open.spotify.com/track/4QlSFkbRxZWkHDF1MqBaEY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [そんなbitterな話](https://open.spotify.com/album/0ssYbSrcAHMWk2EijQAKTP) | 4:36 |
 | 10 | [頬にひと口](https://open.spotify.com/track/6YEzgjuFl1bmtVUZ04Ozlr) | [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [頬にひと口](https://open.spotify.com/album/1OseQ5LUgKXP4M6UNnspyj) | 3:29 |
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 23 | [I am here](https://open.spotify.com/track/3oY94FnUoK5sSVyExSFZDa) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf) | [I am here](https://open.spotify.com/album/2T7x92ijvQLOaK7IUeP6Ar) | 3:23 |
 | 24 | [Burning Friday Night](https://open.spotify.com/track/1NlkoYEA1ndLQIKzXTPh9V) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [FULLCOLOR](https://open.spotify.com/album/1rDLRueueI2ILXOyZE5qWd) | 4:15 |
 | 25 | [Fantasy](https://open.spotify.com/track/68PdIBBJErUzVtv3Bt0LA5) | [Ryota Oyabu](https://open.spotify.com/artist/1ySrxjDBwFRDFoURBQxTZl) | [Fantasy](https://open.spotify.com/album/2tccW0oHy4LxDwSJgabJsR) | 3:03 |
-| 26 | [HENTAI](https://open.spotify.com/track/4kroNlz8BTfswE4M0i3YCh) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:42 |
+| 26 | [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 |
 | 27 | [おめかし](https://open.spotify.com/track/2kwqvhBbVHjDatHM9sMFWD) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [おめかし](https://open.spotify.com/album/5AMeHgFVp1H9iv2e7xYH48) | 3:31 |
 | 28 | [that place is burning](https://open.spotify.com/track/79pgNxvDw79toohZTCOgOR) | [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP), [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [that place is burning](https://open.spotify.com/album/4f6Ex2xbmAJLAxkp8d39ea) | 5:35 |
-| 29 | [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 |
+| 29 | [HENTAI](https://open.spotify.com/track/4kroNlz8BTfswE4M0i3YCh) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:42 |
 | 30 | [WE'LL DIE THIS WAY](https://open.spotify.com/track/28nI6Aum8oazhOQ6tsbI7t) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [WE'LL DIE THIS WAY](https://open.spotify.com/album/6V6js4VLbS2fdq9SYcarNj) | 3:06 |
 | 31 | [真昼の夢](https://open.spotify.com/track/0sneQsJRZnCeaxgQbE5a81) | [はろう](https://open.spotify.com/artist/4mVycvje9Dlu1rY7koeFKl) | [真昼の夢](https://open.spotify.com/album/2PiWTYtSueyDS2XXd6JrB4) | 4:39 |
 | 32 | [apart](https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [apart](https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 49 | [The Flame of Love](https://open.spotify.com/track/2oev55FkAarRLdWfxIn3jw) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [The Flame of Love](https://open.spotify.com/album/3JsRRbjskRuX0R91h5baYz) | 3:19 |
 | 50 | [ひとつのいのち \(feat\. BIM\)](https://open.spotify.com/track/4AbZgR1V8c4zE63y51GXOL) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [ひとつのいのち \(feat\. BIM\)](https://open.spotify.com/album/2Ch3x7EBMLRxBq9RWOzyQv) | 2:57 |
 
-Snapshot ID: `MCwxNjZmNTdiNzYyZjRiOWZlODk4YWQwZjIwZWRlOTYyOThjYTYxYzkx`
+Snapshot ID: `MCw1NTMzNTRmZGVhNThlMTU1ODNkMDAzNWZmODJmZjAwNzdlNGMzNjAy`

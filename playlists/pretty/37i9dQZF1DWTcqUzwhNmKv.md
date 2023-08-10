@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Falling In Reverse on top of the biggest Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,439,728 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,440,192 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 74 | [Poison for the Lost](https://open.spotify.com/track/2bdvS1A5vGy90aOpjCHFux) | [Sylosis](https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl) | [Poison for the Lost](https://open.spotify.com/album/6yV6pWGyElpB3UvTZ2aspM) | 4:19 |
 | 75 | [Waste Of Myself](https://open.spotify.com/track/05EAMJGwvxDcqcGxhT4t9R) | [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [The Aggression Sessions](https://open.spotify.com/album/3mPX3GO24FWBfxy1NqMkhl) | 3:21 |
 
-Snapshot ID: `MCwwNTg1ZmIyYzNjNWI4NWU0ZTUyNDU2N2M1NDkxMzYzMGE2YWViNzFh`
+Snapshot ID: `MCw2ZjU3MDM5MjFlZjA2ZTk4YzM5ZmRmZjdiMGYxN2JjZDM0OWU3N2Fh`

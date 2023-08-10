@@ -4,7 +4,7 @@
 
 > These women are on the rise and are rocking our worlds right now / Cover: Poppy
 
-374 songs - 19 hr 19 min
+375 songs - 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,8 @@
 | [No One Listened](https://open.spotify.com/track/5DNf9rLyJp4j63Ko7xev2U) | [Starbenders](https://open.spotify.com/artist/61jrgPBUklDAQV9DptCc8u) | [No One Listened](https://open.spotify.com/album/6O9VCjGZCiRnsUquWCCzBd) | 3:11 | 2021-08-06 | 2022-11-05 |
 | [No One Will Ever Love You](https://open.spotify.com/track/1YJiXWOufSWHtirtu0YpEv) | [Hevenshe](https://open.spotify.com/artist/5DegVfL32IL9s3kokWEtft) | [No One Will Ever Love You](https://open.spotify.com/album/6zYkTbmjV4J4XPxiSZiwEz) | 3:42 | 2022-06-24 | 2023-06-10 |
 | [No Roots](https://open.spotify.com/track/1LzguIGcb1qtA1Kw9pfwAP) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [No Roots](https://open.spotify.com/album/0svpfL7Am6zArA2m3GHpkX) | 3:55 | 2021-07-30 | 2022-04-02 |
-| [Norwegian Wood](https://open.spotify.com/track/0hqwO626QOUFYQjuKSkgOJ) | [Picture Parlour](https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV) | [Norwegian Wood](https://open.spotify.com/album/7awWgs9eg9Us5jQg4nm5Ck) | 3:34 | 2023-07-28 |  |
+| [Norwegian Wood](https://open.spotify.com/track/0hqwO626QOUFYQjuKSkgOJ) | [Picture Parlour](https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV) | [Norwegian Wood](https://open.spotify.com/album/7awWgs9eg9Us5jQg4nm5Ck) | 3:34 | 2023-07-28 | 2023-08-10 |
+| [Norwegian Wood](https://open.spotify.com/track/50Wusuhe7GBuOr5xGZlyGe) | [Picture Parlour](https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV) | [Norwegian Wood](https://open.spotify.com/album/4vXzCKpcnI930OU3QNCOLW) | 3:34 | 2023-07-28 |  |
 | [Nosebleeds](https://open.spotify.com/track/1jjthaUpATAKHlCY4T5Kj2) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Nosebleeds](https://open.spotify.com/album/1OgH6tYqGQ2K7dTFzA0TcN) | 3:03 | 2023-06-09 |  |
 | [Not Dead Yet](https://open.spotify.com/track/4OpjCYRi3joROpjBZUNFwv) | [DEVORA](https://open.spotify.com/artist/2rV7OHV7pnQxQPkLbY7LoY) | [Not Dead Yet](https://open.spotify.com/album/2DXUrAR46Rh2HDe8CKsvbm) | 4:12 | 2021-07-30 | 2023-06-10 |
 | [Not Your Little Baby Anymore](https://open.spotify.com/track/5rNWp1q7M7xd6FqVLzw1R6) | [Jesse Jo Stark](https://open.spotify.com/artist/1VmIiQ7VHrqHg90igSWrB0) | [A Pretty Place to Fall Apart](https://open.spotify.com/album/277q9Arz8WB6wq9b1vRuxD) | 3:01 | 2021-09-03 | 2022-02-05 |

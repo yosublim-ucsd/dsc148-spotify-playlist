@@ -4,7 +4,7 @@
 
 > ¡De la tarima a tus bocinas! Lo mejor del mariachi en vivo\. Juan Gabriel en portada.
 
-84 songs - 5 hr 42 min
+85 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [La Venia Bendita \- En Vivo en Puerto Rico \- Teatro Bellas Artes /2000](https://open.spotify.com/track/48JWYJMvUKAW36XONx7QsS) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [En Vivo Desde El Teatro De Bellas Artes Puerto Rico \(Vol\. II\)](https://open.spotify.com/album/1J3FCYZvqB4RiSbrzh98bF) | 4:17 | 2021-12-29 |  |
 | [Lagrimas De Mi Barrio](https://open.spotify.com/track/1truaQTkNL4lYhvftIdAHC) | [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW) | [Lagrimas De Mi Barrio](https://open.spotify.com/album/0PBvPrRurEqazN5SRhnZUT) | 3:15 | 2021-12-29 |  |
 | [Llorar \- En Vivo](https://open.spotify.com/track/41cqLjW5gEtYy28Y13KABP) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Enamorada En Vivo](https://open.spotify.com/album/0KwekhZvggPoJpp7a8Y6GJ) | 3:09 | 2021-12-29 |  |
-| [Me Dicen El Coyote \- En Vivo](https://open.spotify.com/track/0MhGou3pUxm1MtzZpeeiHj) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Desvelada Con Banda y Mariachi](https://open.spotify.com/album/4XbELhyxUc6LUWu3sewRnf) | 2:43 | 2021-12-29 |  |
+| [Me Dicen El Coyote \- En Vivo](https://open.spotify.com/track/0MhGou3pUxm1MtzZpeeiHj) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Desvelada Con Banda y Mariachi](https://open.spotify.com/album/4XbELhyxUc6LUWu3sewRnf) | 2:43 | 2021-12-29 | 2023-08-10 |
+| [Me Dicen el Coyote \- En VIvo](https://open.spotify.com/track/52TGyDPRWNCTyBcN8g5fu5) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Desvelada Con Banda Y Mariachi \(En Vivo\)](https://open.spotify.com/album/3FJXsvMG4qE7cPZEBORwoF) | 2:43 | 2021-12-29 |  |
 | [Me Nace del Corazón \(En Vivo\) \- En el Palacio de Bellas Artes](https://open.spotify.com/track/6q2RdCyxpwrAY4dpXBJiKQ) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [En el Palacio de Bellas Artes](https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI) | 2:44 | 2021-12-29 |  |
 | [Medley Kumbia \- En Vivo Auditorio Nacional](https://open.spotify.com/track/1JQvy1GtDGypfEHN8ys9fw) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Lucero En Vivo Auditorio Nacional](https://open.spotify.com/album/6oKLH9JQpGvD7qU11xS5ZD) | 7:21 | 2021-12-29 |  |
 | [Mujeres Divinas \- En Vivo \[Un Azteca en el Azteca\]](https://open.spotify.com/track/1MyJ9P4O7Jmhvx8CtPELkx) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Un Azteca en el Azteca \(En Vivo\)](https://open.spotify.com/album/4geCevoFyJ8TvKJdNfSIRb) | 3:18 | 2021-12-29 |  |

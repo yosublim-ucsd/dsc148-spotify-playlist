@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 
 > Rolling with the 'bops' in your Kimbap\. Bringing you the songs that are currently trending and everything else in between\. Cover: KISS OF LIFE
 
-[Spotify](https://open.spotify.com/user/spotify) - 889,057 likes - 87 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 889,520 likes - 87 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 | 10 | [Sugarcoat \(NATTY Solo\)](https://open.spotify.com/track/0NoeYUnwpb9R26mpylHcR9) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [KISS OF LIFE](https://open.spotify.com/album/5k34rAvlw3WV7Kh6dAZnxG) | 2:59 |
 | 11 | [seasons](https://open.spotify.com/track/1acVBP8BcK6LTeNeFjfxnh) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/4R3ERcDOQP7o1Lkok2uO7E) | 4:16 |
 | 12 | [BONA BONA](https://open.spotify.com/track/0IkWksfw3Qxob96bjFKhyF) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [2ND FULL ALBUM 'REBOOT'](https://open.spotify.com/album/4gQx8IC4zESV506dgNs0vR) | 3:32 |
-| 13 | [SHINGIRU](https://open.spotify.com/track/5uxn6it5JD9J4p9MDmgaTU) | [JOSHUA](https://open.spotify.com/artist/4ZsnF3kaoNUuBhCyYJEJi8), [HOSHI](https://open.spotify.com/artist/1m6CwgW2I5I5M6v7dHqe4t) | [Bro & Marble OST Part.2](https://open.spotify.com/album/6AwjTTvGsAnSLhf4HTAAMr) | 3:08 |
+| 13 | [SHINGIRU](https://open.spotify.com/track/5uxn6it5JD9J4p9MDmgaTU) | [JOSHUA \(SEVENTEEN\)](https://open.spotify.com/artist/74AwWFYdjQ3ER5vHO4H7b0), [HOSHI \(SEVENTEEN\)](https://open.spotify.com/artist/0CirULnSy7gBlIuRvOqanc) | [Bro & Marble OST Part.2](https://open.spotify.com/album/6AwjTTvGsAnSLhf4HTAAMr) | 3:08 |
 | 14 | [bad](https://open.spotify.com/track/5TZKpQFKCbIlWGD8DzHbC6) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/0kT2Dn4QknHk92h76ZcMk0) | 4:23 |
 | 15 | [Love Me A Little](https://open.spotify.com/track/66RK4bz7fZGrfyBb3y9Yal) | [SHOWNU X HYUNGWON \(MONSTA X\)](https://open.spotify.com/artist/3AFqxSVdKDJD9qPx3K8tKg) | [THE UNSEEN](https://open.spotify.com/album/4gV0rLK0np1Nyde3N38RBh) | 3:19 |
 | 16 | [SOS](https://open.spotify.com/track/3x9zIsVAQUNvU3J2tR58Di) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [REALIEZ](https://open.spotify.com/album/70ptf4PxBI5aZdXWPbxTs0) | 3:11 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 | 86 | [Perfume](https://open.spotify.com/track/0jd4aa9XgV5eom0ez0WBrD) | [NCT DOJAEJUNG](https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw) | [Perfume \- The 1st Mini Album](https://open.spotify.com/album/3sVBVr420an61GAwib9AYk) | 2:47 |
 | 87 | [R.U.N](https://open.spotify.com/track/6ZRkGwxywPUmjPLglrfqlq) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [R U Next? Theme Song](https://open.spotify.com/album/4t1BUm20KWelMD1zWTApSu) | 3:14 |
 
-Snapshot ID: `MCxjMjk2ZGMzNjQ3NTNlMmIwZTMzNDA1MWNkOWEzZWIyZDYwY2U5M2U1`
+Snapshot ID: `MCxiMzg1OTZjZGVjNGQ5ZGVhZTFkNmZkMjZkOGE0NmYwZWRhNzJkNmVj`

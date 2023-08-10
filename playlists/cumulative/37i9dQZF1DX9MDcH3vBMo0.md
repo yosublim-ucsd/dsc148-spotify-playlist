@@ -4,7 +4,7 @@
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-637 songs - 1 day 3 hr 41 min
+638 songs - 1 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,7 +363,7 @@
 | [Nevel op het water](https://open.spotify.com/track/2xrAPUVXZ9Fx3Db3F3BR6r) | [Sheisa Buraku](https://open.spotify.com/artist/28T3L1RH2PM4iWeFyBFGHf) | [Postkaarten](https://open.spotify.com/album/75jJdYhqxDnTeFAAaWtSED) | 2:50 | 2023-07-24 |  |
 | [Never Give In](https://open.spotify.com/track/7GghRfjTGCxYDnYo0OVRM3) | [Irma Kantola](https://open.spotify.com/artist/7eP5EaPos8EeIsG7UJfEVP) | [Never Give In](https://open.spotify.com/album/43mYROp7H0H6Ynbi1zVbyY) | 3:05 | 2022-04-21 |  |
 | [New Beginning](https://open.spotify.com/track/2KIt5oD3oklHr00HKEXQia) | [Noël](https://open.spotify.com/artist/3hCvaJnqBQX6DqHh4nZiYj) | [New Beginning](https://open.spotify.com/album/3iRjsoMuilRzsn7s6uDkgC) | 2:13 | 2022-04-21 |  |
-| [Next Part Of The Dream](https://open.spotify.com/track/0Bip0zvXgJNLImBHYkJkQG) | [Grace Olimpia](https://open.spotify.com/artist/0hekyZHacb34zACbjg2VSz) | [Next Part Of The Dream](https://open.spotify.com/album/178jMXfVPzfwW27g28G2yZ) | 3:13 | 2022-04-21 |  |
+| [Next Part Of The Dream](https://open.spotify.com/track/0Bip0zvXgJNLImBHYkJkQG) | [Grace Olimpia](https://open.spotify.com/artist/0hekyZHacb34zACbjg2VSz) | [Next Part Of The Dream](https://open.spotify.com/album/178jMXfVPzfwW27g28G2yZ) | 3:13 | 2022-04-21 | 2023-08-10 |
 | [Nirha](https://open.spotify.com/track/0SK8aridaHO485I2iJD35e) | [Matti Aalto](https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E) | [Nirha](https://open.spotify.com/album/3AEGuqW6eS9efDAYOpfBjH) | 2:44 | 2022-04-21 |  |
 | [No One Knows](https://open.spotify.com/track/5Rmd8TQOc2hrM81Rvm1gpB) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [Rites of Passage](https://open.spotify.com/album/7AJ5Hb0pp2go5xuGBenQ8h) | 4:08 | 2022-04-21 | 2022-09-24 |
 | [Nomae](https://open.spotify.com/track/3EhHWAEZpRI78OtJEPoabw) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Arctica](https://open.spotify.com/album/3BTmQFkuJ96ZlpeRNXerBd) | 3:09 | 2022-04-21 | 2022-07-21 |
@@ -560,6 +560,7 @@
 | [The Phenomenon](https://open.spotify.com/track/6QCddEiJ7fLtmoGsq1kWdq) | [Macauley Hubert](https://open.spotify.com/artist/0XeGtlvUw6IYSA0HY3rjF8) | [The Phenomenon](https://open.spotify.com/album/5Z143iLwtuMHwu5NvUafJh) | 2:30 | 2022-04-21 | 2022-12-24 |
 | [The Slow Down](https://open.spotify.com/track/6aJr5IVYDQ7tffAm8MhG7G) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [The Slow Down](https://open.spotify.com/album/1SWBVisYgwJoj0e3Xiu0Db) | 2:09 | 2023-02-20 |  |
 | [The Truth](https://open.spotify.com/track/3NPDTMVP9BwvbOQXoGNkV0) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Passageways](https://open.spotify.com/album/557439Fi4P9aWE0MZyy5PV) | 3:27 | 2022-04-21 | 2022-07-21 |
+| [The Way Home](https://open.spotify.com/track/4QB9QRh9xUuqKTXX9JBqyZ) | [Wendie Solomon](https://open.spotify.com/artist/002TmsLOEGkMqhkbb2zWfs) | [The Way Home](https://open.spotify.com/album/089vc1XdbczEThiYnD6AJB) | 2:27 | 2023-08-07 |  |
 | [Things Unsaid](https://open.spotify.com/track/1HDwUXmzoVXyBV8onqUyUv) | [Marcos Betancourt](https://open.spotify.com/artist/7JjCfmLQHeuWreo08C7hBt) | [Walking Home](https://open.spotify.com/album/7HEfIdgk9TQjlnnroQAgzM) | 2:41 | 2022-04-21 |  |
 | [Thirty two steps](https://open.spotify.com/track/2oSzrwVIU2M0w4GMVCehj8) | [Violet Mar](https://open.spotify.com/artist/5elUadW5r1Yr21zo4bV7sh) | [Thirty two steps](https://open.spotify.com/album/7jk3EiT43JQpHeCujcrSJh) | 2:27 | 2023-05-03 |  |
 | [Through My Eyes](https://open.spotify.com/track/1qPf5T5XSCkBKDOCtLI6X9) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Through My Eyes](https://open.spotify.com/album/0B02Uvb9zJ0kw1fENyd0CN) | 2:53 | 2022-04-21 | 2023-01-25 |

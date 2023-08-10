@@ -1,12 +1,12 @@
 {
   "description": "Rap de alta gama. Foto: Juice WRLD",
-  "num_followers": 53655,
+  "num_followers": 53677,
   "original_name": "808.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjM2YzViZWJmMmU0N2JlOTExMTEyYTExNTljNzFhZmQ3MDA3ZmQ4",
+  "snapshot_id": "MCw5Mzg3Zjg2ZTJlN2Q5MGVhMTI4YzY4NjdiZTFmZDQ2ZDhhMzNjZDIx",
   "tracks": [
     {
       "added_at": "2023-08-04 19:28:12",
@@ -611,26 +611,6 @@
     {
       "added_at": "2023-08-04 19:28:12",
       "album": {
-        "name": "Bad Boy (with Young Thug)",
-        "url": "https://open.spotify.com/album/5hUFZjxtqYvxm9FGUhHCdE"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 157355,
-      "name": "Bad Boy (with Young Thug)",
-      "url": "https://open.spotify.com/track/43CIWpJaJHRcI4mUSjqgc2"
-    },
-    {
-      "added_at": "2023-08-04 19:28:12",
-      "album": {
         "name": "Hollywood's Bleeding",
         "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 218320,
       "name": "On The Road (feat. Meek Mill & Lil Baby)",
       "url": "https://open.spotify.com/track/12Fkyg9lpmaz2zmKOfw2Y2"
+    },
+    {
+      "added_at": "2023-08-04 19:28:12",
+      "album": {
+        "name": "Bad Boy (with Young Thug)",
+        "url": "https://open.spotify.com/album/5hUFZjxtqYvxm9FGUhHCdE"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 157355,
+      "name": "Bad Boy (with Young Thug)",
+      "url": "https://open.spotify.com/track/43CIWpJaJHRcI4mUSjqgc2"
     },
     {
       "added_at": "2023-08-04 19:28:12",
@@ -719,6 +719,30 @@
       "duration_ms": 175028,
       "name": "No Puedo",
       "url": "https://open.spotify.com/track/6MbSMSXrSlvsyHf4kcaLQi"
+    },
+    {
+      "added_at": "2023-08-04 19:28:12",
+      "album": {
+        "name": "Life\u2019s A Mess II (with Clever & Post Malone)",
+        "url": "https://open.spotify.com/album/4BUBmfexqfuvnaVT7ZnFiR"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Clever",
+          "url": "https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 206733,
+      "name": "Life's A Mess II (with Clever & Post Malone)",
+      "url": "https://open.spotify.com/track/4O3RwH1TFG1EjPezLIYehI"
     },
     {
       "added_at": "2023-08-04 19:28:12",
@@ -799,22 +823,6 @@
     {
       "added_at": "2023-08-04 19:28:12",
       "album": {
-        "name": "Eternal Atake",
-        "url": "https://open.spotify.com/album/7IyoGB8J31fvQDwGtHAq9m"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 234626,
-      "name": "P2",
-      "url": "https://open.spotify.com/track/3kW4z2pIj5VY5fLjBrMRL5"
-    },
-    {
-      "added_at": "2023-08-04 19:28:12",
-      "album": {
         "name": "Tu No Metes Cabra",
         "url": "https://open.spotify.com/album/1zyFFgmRlW5GbTyTTyjQ8w"
       },
@@ -831,30 +839,6 @@
     {
       "added_at": "2023-08-04 19:28:12",
       "album": {
-        "name": "Life\u2019s A Mess II (with Clever & Post Malone)",
-        "url": "https://open.spotify.com/album/4BUBmfexqfuvnaVT7ZnFiR"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
-        {
-          "name": "Clever",
-          "url": "https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 206733,
-      "name": "Life's A Mess II (with Clever & Post Malone)",
-      "url": "https://open.spotify.com/track/4O3RwH1TFG1EjPezLIYehI"
-    },
-    {
-      "added_at": "2023-08-04 19:28:12",
-      "album": {
         "name": "Red Light Green Light",
         "url": "https://open.spotify.com/album/2u1Wc12FWm7X2ueUHCHxJC"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 159082,
       "name": "Red Light Green Light",
       "url": "https://open.spotify.com/track/1YDebgap5OFwXEBG18NJvy"
+    },
+    {
+      "added_at": "2023-08-04 19:28:12",
+      "album": {
+        "name": "Eternal Atake",
+        "url": "https://open.spotify.com/album/7IyoGB8J31fvQDwGtHAq9m"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 234626,
+      "name": "P2",
+      "url": "https://open.spotify.com/track/3kW4z2pIj5VY5fLjBrMRL5"
     },
     {
       "added_at": "2023-08-04 19:28:12",

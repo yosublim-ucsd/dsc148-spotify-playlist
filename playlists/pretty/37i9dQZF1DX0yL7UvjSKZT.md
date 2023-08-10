@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: Molly Tuttle
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,905 likes - 128 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,924 likes - 128 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 39 | [Drink or Two](https://open.spotify.com/track/0YGNs4jKdzqRch5Yu0pydH) | [Ely Jaffe](https://open.spotify.com/artist/2DfCn97Kdl5ilKL5dMcTDZ) | [Drink or Two \(Acoustic Sessions\)](https://open.spotify.com/album/4MLvv5Xyg8q4UcHTorE99x) | 2:30 |
 | 40 | [Crossing Muddy Waters](https://open.spotify.com/track/7jb1ZSirsHV1H2cLTNbqDX) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Crossing Muddy Waters / Be My Husband](https://open.spotify.com/album/7dereZG0ayP3TOQJ3pqvqO) | 3:48 |
 | 41 | [Hey Brother](https://open.spotify.com/track/0HmmGtJzwfqvpKW0ixeapq) | [Dan Tyminski](https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8) | [God Fearing Heathen](https://open.spotify.com/album/6sQipYOa0SqDbcvnahcYpu) | 4:22 |
-| 42 | [Next Rodeo](https://open.spotify.com/track/5HQlgyXOgo6vyYo4VsVlXw) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [Next Rodeo](https://open.spotify.com/album/16EbppchFpI68fnD8Q6kY8) | 3:47 |
+| 42 | [Next Rodeo](https://open.spotify.com/track/38uAxYKtMPSDry2jYOjOzr) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [City of Gold](https://open.spotify.com/album/3LAherx4Gg7LCOWQo25lBK) | 3:47 |
 | 43 | [Golden](https://open.spotify.com/track/4UvzGgR2uGRwqq6QDGQzl8) | [Ethan Setiawan](https://open.spotify.com/artist/4PiLSMo2ZPdBLhSNv1Rggn) | [Golden](https://open.spotify.com/album/4BSggug7Bz1IigGofkmIAv) | 6:12 |
 | 44 | [Sometimes I](https://open.spotify.com/track/4lS9Ni8jEjk5ffXDTSYkSp) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Sometimes I](https://open.spotify.com/album/3acnEcu23lZXhYda51Nzpp) | 6:17 |
 | 45 | [Too Many Places](https://open.spotify.com/track/4fnrm2oUPL2SyOasYm31lQ) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [Turning Up The Ground](https://open.spotify.com/album/28oUDXddkgbgHpl4OJPWp5) | 3:23 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 127 | [Working Man](https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Working Man](https://open.spotify.com/album/75BL5XrMZ7cF1mcIbs4oYA) | 3:22 |
 | 128 | [Abigail](https://open.spotify.com/track/2yWj6P3Ldax9Xj8Em2VMC7) | [Chatham Rabbits](https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od) | [Abigail](https://open.spotify.com/album/6pSyrdAE7P3nzf03ox29j3) | 3:17 |
 
-Snapshot ID: `MCwxODM2MGViOWJhYjEzNzgzNDI0Y2FmZDc4ZmQ5ZjYzNTZiZmY3MzJh`
+Snapshot ID: `MCxkODcxODk5ZWQ0Mzg4NGEzOGZkZjAwZWUxOWE1MjBkZDUzZTU0NTMy`

@@ -1,12 +1,12 @@
 {
   "description": "Take a trip down memory lane with these noughties classics...",
-  "num_followers": 1068580,
+  "num_followers": 1068645,
   "original_name": "Easy 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0M2FiYjczYzg3Nzc0MDM2N2M2OGYzMTdhZmFjMDI5M2I3MWRlM2Fl",
+  "snapshot_id": "MCw3OWNkOGRkNTc1NzA1MDZmNDQzZWU5YmE2MjI1YWY5OThmOGYwNGNk",
   "tracks": [
     {
       "added_at": "2020-07-08 17:51:15",
@@ -795,22 +795,6 @@
     {
       "added_at": "2020-07-08 17:51:15",
       "album": {
-        "name": "A Rush of Blood to the Head",
-        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 226680,
-      "name": "In My Place",
-      "url": "https://open.spotify.com/track/2nvC4i2aMo4CzRjRflysah"
-    },
-    {
-      "added_at": "2020-07-08 17:51:15",
-      "album": {
         "name": "Results May Vary",
         "url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 269973,
       "name": "Behind Blue Eyes",
       "url": "https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj"
+    },
+    {
+      "added_at": "2020-07-08 17:51:15",
+      "album": {
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 226680,
+      "name": "In My Place",
+      "url": "https://open.spotify.com/track/2nvC4i2aMo4CzRjRflysah"
     },
     {
       "added_at": "2020-07-08 17:51:15",
@@ -891,22 +891,6 @@
     {
       "added_at": "2020-07-08 17:51:15",
       "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 189109,
-      "name": "The Lazy Song",
-      "url": "https://open.spotify.com/track/1ExfPZEiahqhLyajhybFeS"
-    },
-    {
-      "added_at": "2020-07-08 17:51:15",
-      "album": {
         "name": "Eye To The Telescope",
         "url": "https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 201706,
       "name": "Suddenly I See",
       "url": "https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3"
+    },
+    {
+      "added_at": "2020-07-08 17:51:15",
+      "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 189109,
+      "name": "The Lazy Song",
+      "url": "https://open.spotify.com/track/1ExfPZEiahqhLyajhybFeS"
     },
     {
       "added_at": "2020-07-08 17:51:15",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2020-07-08 17:51:15",
       "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 238520,
+      "name": "Skinny Love",
+      "url": "https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM"
+    },
+    {
+      "added_at": "2020-07-08 17:51:15",
+      "album": {
         "name": "Jordin Sparks",
         "url": "https://open.spotify.com/album/6JCNOvp9UeMrFuXwNW0JW6"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 264373,
       "name": "No Air (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/1jUA4rb6ZCv4gby4YU53xq"
-    },
-    {
-      "added_at": "2020-07-08 17:51:15",
-      "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 238520,
-      "name": "Skinny Love",
-      "url": "https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM"
     },
     {
       "added_at": "2020-07-08 17:51:15",

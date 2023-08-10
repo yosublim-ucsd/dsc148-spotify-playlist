@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover:  <a href="https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd?si=EbHEGRLwTFOCcGGNx7a\-eQ"> Wordz </a>\. Artwork: Isu Kim.
 
-503 songs - 1 day 1 hr 43 min
+504 songs - 1 day 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,8 @@
 | [Fashion Killa](https://open.spotify.com/track/0RMwoTN2Hqu200NrggjNVY) | [Le Ru](https://open.spotify.com/artist/2Kgd8TvR0MGJ0NRFkGX0DJ) | [The Ride](https://open.spotify.com/album/6ZLeYdY71zyZ9Vvl17XSGM) | 2:46 | 2023-07-26 |  |
 | [Fayvuh](https://open.spotify.com/track/1ru09kaqYqc6E6R60vzbpL) | [Victor Collins](https://open.spotify.com/artist/2cx2q93TdyDvgatIURJOAH), [Zyrx Sounds](https://open.spotify.com/artist/3uCdVvSdtUXzppPVXDQYSw) | [Fayvuh](https://open.spotify.com/album/4ArZsOCUcZYOXD49dIUdQO) | 3:00 | 2022-09-30 | 2023-01-26 |
 | [Fears](https://open.spotify.com/track/3XCIEKQ3tbyInsMSOQ4jlP) | [Necta](https://open.spotify.com/artist/4Bo3ajDWVahXScC5N04S8u) | [Fears](https://open.spotify.com/album/1tjMiV9tVUXedyMawaZ4u4) | 1:27 | 2022-09-30 | 2023-01-26 |
-| [Feel So Right](https://open.spotify.com/track/32udQQaflON276EGM0jRTt) | [King Kerby](https://open.spotify.com/artist/7G7OkIfv61UXFzxzdyVA4Z), [RVMP](https://open.spotify.com/artist/5pg2tyNNF56DQvM2ByGKhv) | [Feel So Right](https://open.spotify.com/album/2GQJviYFR3Utg72Lpwbach) | 3:17 | 2023-07-26 |  |
+| [Feel So Right](https://open.spotify.com/track/2pKM0v34uiyv7fEKWfARxR) | [King Kerby](https://open.spotify.com/artist/7G7OkIfv61UXFzxzdyVA4Z), [RVMP](https://open.spotify.com/artist/5pg2tyNNF56DQvM2ByGKhv) | [Feel So Right](https://open.spotify.com/album/4s0PMOiNGkO4wukgX8SgQc) | 3:16 | 2023-07-26 |  |
+| [Feel So Right](https://open.spotify.com/track/32udQQaflON276EGM0jRTt) | [King Kerby](https://open.spotify.com/artist/7G7OkIfv61UXFzxzdyVA4Z), [RVMP](https://open.spotify.com/artist/5pg2tyNNF56DQvM2ByGKhv) | [Feel So Right](https://open.spotify.com/album/2GQJviYFR3Utg72Lpwbach) | 3:17 | 2023-07-26 | 2023-08-10 |
 | [Feeling It Too](https://open.spotify.com/track/3YjuYtKxdRGNTVPDjLVETl) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [Feeling It Too](https://open.spotify.com/album/1x0KQDAgsFs6eqFjjnhb98) | 2:44 | 2023-06-27 | 2023-07-27 |
 | [Feels](https://open.spotify.com/track/2WE7yrbVF47nEmMkWCRwHd) | [OCHÉ](https://open.spotify.com/artist/0syn1OL9u8k1x9gEnNLt6X) | [Feels](https://open.spotify.com/album/4eziN2ydqDpZ2zNjr2ZWmD) | 2:17 | 2023-06-05 | 2023-06-28 |
 | [Feels Like Magic](https://open.spotify.com/track/6hE9eQNiZDdbHpaxPcSqjD) | [ginius](https://open.spotify.com/artist/1mLnlcLJuK1VpACCwhuciw) | [Her Notions Since '97](https://open.spotify.com/album/6O0LMIl1QM7YBe4UP9Ofyw) | 2:54 | 2022-09-02 | 2022-10-01 |

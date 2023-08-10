@@ -4,7 +4,7 @@
 
 > Conoce a puras morras rifadas en La Marketa\. ¡Súbele al volumen, te esperamos el 6 de Agosto en Jardín Juárez! En portada: Now Girls Rule
 
-114 songs - 6 hr 25 min
+115 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Corrida al Arco](https://open.spotify.com/track/5QTBQvrTCudXdatBV3ycRF) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Corrida al Arco](https://open.spotify.com/album/6o0XLbTOCvzBz7rH0kYZUk) | 4:13 | 2023-02-03 |  |
 | [Cumbia Feminista](https://open.spotify.com/track/7M2mgKUSxmjHumNkwpjN2d) | [Las Decapitadas](https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ) | [Cumbia Feminista](https://open.spotify.com/album/51CRWf9nKbj5OWlKLudBuZ) | 3:53 | 2023-02-03 |  |
 | [daydreaming](https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [daydreaming](https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn) | 2:42 | 2023-02-03 |  |
+| [De par en par](https://open.spotify.com/track/1XDCh1aPoNPVTWHyHMZNnc) | [Onyricats](https://open.spotify.com/artist/5jkxhCPVAKnHBSGxS9wSyn) | [De par en par](https://open.spotify.com/album/2vJmqGyVWXATCZyYDcvwkN) | 4:06 | 2023-07-28 |  |
 | [Deja De Mentir](https://open.spotify.com/track/2Jg2Wkt2KzgJ8ADnpZBlSp) | [Herbolaria](https://open.spotify.com/artist/5DrflPAe5ZoSkw2FtxrnZW) | [Musica Para No Bailar](https://open.spotify.com/album/5SMT6pJhUmDp8zwSAoJG5Y) | 3:23 | 2023-02-03 | 2023-04-01 |
 | [Delirio](https://open.spotify.com/track/0L92CC92HVaDwGCZQ9nm9y) | [Stereo Animal](https://open.spotify.com/artist/7eBUK59MkPqsnf4QjpO08d) | [Delirio](https://open.spotify.com/album/0eFZzw4gzyOHQmhjz9VZK9) | 3:30 | 2023-03-31 | 2023-07-29 |
 | [Demasiado](https://open.spotify.com/track/7w3MgTb99l7GvLJOBFTfB7) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Demasiado](https://open.spotify.com/album/741haSJmAHRq0wVVN2NdpV) | 2:57 | 2023-02-03 |  |
@@ -111,7 +112,7 @@
 | [Stay in the Car](https://open.spotify.com/track/7koczHxYr1lXuMXNdOLPvT) | [Bachelor](https://open.spotify.com/artist/7B1OPA8Ttxfv3XBDCkw24E), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO), [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Doomin' Sun](https://open.spotify.com/album/0eVcVsr64cQbiGAOVefybc) | 2:44 | 2023-02-03 | 2023-07-29 |
 | [Superdependiente](https://open.spotify.com/track/0NqzRK0JcMpcvv7c21tu3R) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Superdependiente](https://open.spotify.com/album/2ed6coeNxYURUDCMDaW20t) | 2:56 | 2023-02-03 |  |
 | [SUPERFICIAL](https://open.spotify.com/track/3dHJrJdkNVVpYa4oOwIsX8) | [xHEIDIx](https://open.spotify.com/artist/5cZ3ADw8t6lZQSyBXmFe4j) | [xADR3N4LIN4x](https://open.spotify.com/album/6nXUebcx7kYg6hnGlr8Wg0) | 2:00 | 2023-02-03 |  |
-| [surrealismo.](https://open.spotify.com/track/6MtkCUkLfo9lxnbofkQbjC) | [cKovi](https://open.spotify.com/artist/3sdVgczphtmF1sKTgPZrOO) | [surrealismo.](https://open.spotify.com/album/24gpp8Y3ggwerd9gUKNnre) | 3:11 | 2023-03-25 |  |
+| [surrealismo.](https://open.spotify.com/track/6MtkCUkLfo9lxnbofkQbjC) | [cKovi](https://open.spotify.com/artist/3sdVgczphtmF1sKTgPZrOO) | [surrealismo.](https://open.spotify.com/album/24gpp8Y3ggwerd9gUKNnre) | 3:11 | 2023-03-25 | 2023-08-10 |
 | [todo lo que pasa](https://open.spotify.com/track/0BkhmwWZOCcQEMO3je2lZQ) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [todo lo que pasa](https://open.spotify.com/album/3efcjft7NVnRr20mD5JveU) | 3:42 | 2023-02-03 |  |
 | [Todo Se Está Cayendo](https://open.spotify.com/track/2on6Uws8Ku8izt4Kb1PYG8) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [Todo Se Está Cayendo](https://open.spotify.com/album/1B60TuVtUl7PPsrWbuOAn6) | 4:15 | 2023-02-03 | 2023-05-16 |
 | [Tu Color](https://open.spotify.com/track/4vaVD9B0RbZ0Puk9ABIGEm) | [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U) | [Tu Color](https://open.spotify.com/album/2Ga9wGIWzo7m9vnPEkxt1m) | 3:46 | 2023-02-03 | 2023-08-09 |

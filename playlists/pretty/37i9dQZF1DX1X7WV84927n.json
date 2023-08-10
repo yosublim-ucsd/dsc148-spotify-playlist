@@ -1,12 +1,12 @@
 {
   "description": "For the Hard Rock and full-volume lovers, new and recent favorites. Cover: The HU",
-  "num_followers": 329594,
+  "num_followers": 329715,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDVhYTNlOGY2NDE4ODZjMzU2MWRjNjc2ZjM5ODJmMDI1YzMwZDNk",
+  "snapshot_id": "MCxmY2EzMWIwMWRmZDI3YTFhN2I5ZmQ2YzY4Y2JiYzRhODg0ZjRkMzdk",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Black Box",
-        "url": "https://open.spotify.com/album/6mvff3ZBKcQlXaZrTT0fs5"
-      },
-      "artists": [
-        {
-          "name": "BRKN LOVE",
-          "url": "https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp"
-        }
-      ],
-      "duration_ms": 212621,
-      "name": "Like A Drug",
-      "url": "https://open.spotify.com/track/0eW2eEXedTyfGXZkuppSPh"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Gifts From The Holy Ghost",
         "url": "https://open.spotify.com/album/258YZ2TUzI1SJBU626eYFc"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 189736,
       "name": "Black Sheep",
       "url": "https://open.spotify.com/track/7mJycBkeGO6rBA2zIQsP5t"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Black Box",
+        "url": "https://open.spotify.com/album/6mvff3ZBKcQlXaZrTT0fs5"
+      },
+      "artists": [
+        {
+          "name": "BRKN LOVE",
+          "url": "https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp"
+        }
+      ],
+      "duration_ms": 212621,
+      "name": "Like A Drug",
+      "url": "https://open.spotify.com/track/0eW2eEXedTyfGXZkuppSPh"
     },
     {
       "added_at": "2023-06-30 04:00:00",

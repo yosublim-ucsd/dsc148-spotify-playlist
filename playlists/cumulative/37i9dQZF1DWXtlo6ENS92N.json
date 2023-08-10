@@ -53,6 +53,32 @@
     },
     {
       "album": {
+        "name": "Singham Returns",
+        "url": "https://open.spotify.com/album/3Ho9myCfRqygtmG3a073Zx"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Mamta Sharma",
+          "url": "https://open.spotify.com/artist/0RMsiUCTjsdGjoKyhEm8Y4"
+        },
+        {
+          "name": "Nitu Choudhary",
+          "url": "https://open.spotify.com/artist/1lqjuFv2p58navjnu4kMMm"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193997,
+      "name": "Aata Majhi Satakli",
+      "url": "https://open.spotify.com/track/7Go5unxYBw3RT5XoFGUatF"
+    },
+    {
+      "album": {
         "name": "Ae Dil Hai Mushkil (Original Motion Picture Soundtrack) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex"
       },
@@ -142,6 +168,28 @@
       "duration_ms": 199407,
       "name": "Atak Gaya - Arijit Singh",
       "url": "https://open.spotify.com/track/5WzfGg2ueNoOS5aIkaR9qX"
+    },
+    {
+      "album": {
+        "name": "Tanu Weds Manu Returns (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0hBLzo3vvwzodZFLpWALwC"
+      },
+      "artists": [
+        {
+          "name": "Brijesh Shandilya",
+          "url": "https://open.spotify.com/artist/3gdKEsvYBUHdtLMmECIN4q"
+        },
+        {
+          "name": "Swati Sharma",
+          "url": "https://open.spotify.com/artist/6nvNh0jV10gc2aYFALNahg"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196172,
+      "name": "Banno",
+      "url": "https://open.spotify.com/track/5ukDx1Fzu219N539FAhUKw"
     },
     {
       "album": {
@@ -638,7 +686,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 350011,
       "name": "Galliyan Returns (From \"Ek Villain Returns\")",
       "url": "https://open.spotify.com/track/2eTkxblLeqdTSsb2ivafDX"
@@ -701,6 +749,32 @@
     },
     {
       "album": {
+        "name": "Dilwale (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/09AmTEo0Po8vC2WDcpviAT"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Antara Mitra",
+          "url": "https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345558,
+      "name": "Gerua (From \"Dilwale\")",
+      "url": "https://open.spotify.com/track/7iLA6PQeQWRjLDHOJgGpj5"
+    },
+    {
+      "album": {
         "name": "Ghungroo (From \"War\")",
         "url": "https://open.spotify.com/album/1FU97iwW5a0nV7wq3Mk5DQ"
       },
@@ -750,7 +824,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 218644,
       "name": "Haan Main Galat (From \"Love Aaj Kal\")",
       "url": "https://open.spotify.com/track/068HSvCf5MbQfhV4qqaelg"
@@ -806,6 +880,24 @@
       "duration_ms": 238252,
       "name": "Hum Nashe Mein Toh Nahin (From \"Bhool Bhulaiyaa 2\")",
       "url": "https://open.spotify.com/track/6XZWokIxs4leaSmXmU8b26"
+    },
+    {
+      "album": {
+        "name": "Ek Villain",
+        "url": "https://open.spotify.com/album/3EkmvTqyKrnMw1WiVpsSwF"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260590,
+      "name": "Humdard",
+      "url": "https://open.spotify.com/track/1OEmd2iXU8pWG7CrKNpGUg"
     },
     {
       "album": {
@@ -2090,7 +2182,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 177694,
       "name": "Sakhiyan2.0 (From \"BellBottom\")",
       "url": "https://open.spotify.com/track/1y5beX4vn7QPfg36r4jiWo"
@@ -2494,7 +2586,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 261974,
       "name": "Tum Hi Ho",
       "url": "https://open.spotify.com/track/56zZ48jdyY2oDXHVnwg5Di"

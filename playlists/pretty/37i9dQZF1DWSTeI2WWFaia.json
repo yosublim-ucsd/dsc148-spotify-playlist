@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Nas",
-  "num_followers": 1622366,
+  "num_followers": 1622380,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGZkNjAyY2U0OWM4MGRjMWE4MmQyNmJkOWYzZjdkOGQxNjRhZGM0",
+  "snapshot_id": "MCwyMTIzMjJkMDcxYTBkZWMwNDJmNTI5NmI5NThlZWY3NDkwNDFhNWRl",
   "tracks": [
     {
       "added_at": "2023-08-04 20:13:14",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-08-04 20:13:14",
       "album": {
-        "name": "Magic 2",
-        "url": "https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 210624,
-      "name": "Slow it Down",
-      "url": "https://open.spotify.com/track/2oOMMKZV7SmCLdjALkOgkA"
-    },
-    {
-      "added_at": "2023-08-04 20:13:14",
-      "album": {
         "name": "hue_man nature",
         "url": "https://open.spotify.com/album/7kVjOwhgEPAapTI57E7y1v"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 100666,
       "name": "hue_man nature",
       "url": "https://open.spotify.com/track/2cVIKCgIfYOYyyXfQEstZN"
+    },
+    {
+      "added_at": "2023-08-04 20:13:14",
+      "album": {
+        "name": "Magic 2",
+        "url": "https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 210624,
+      "name": "Slow it Down",
+      "url": "https://open.spotify.com/track/2oOMMKZV7SmCLdjALkOgkA"
     },
     {
       "added_at": "2023-08-04 20:13:14",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-08-04 20:13:14",
       "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/0E7eTPalfTym6o2ljSdIcc"
+      },
+      "artists": [
+        {
+          "name": "Jourden",
+          "url": "https://open.spotify.com/artist/7BJgHEoxvlal00T5B0Ro5u"
+        }
+      ],
+      "duration_ms": 162162,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/0YVAbRnpG4mVxxwob9DdS8"
+    },
+    {
+      "added_at": "2023-08-04 20:13:14",
+      "album": {
         "name": "CHOMP 2.5 (EP)",
         "url": "https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 132219,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/2gCfINwRf5H9rE6YXxF8Fo"
-    },
-    {
-      "added_at": "2023-08-04 20:13:14",
-      "album": {
-        "name": "DISTANCE",
-        "url": "https://open.spotify.com/album/6wTlSDRDjKrG796F3CrRy1"
-      },
-      "artists": [
-        {
-          "name": "Marlon Craft",
-          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
-        }
-      ],
-      "duration_ms": 148593,
-      "name": "DISTANCE",
-      "url": "https://open.spotify.com/track/6Bf7cjpixSYnqQbX4rh4Jw"
     },
     {
       "added_at": "2023-08-04 20:13:14",
@@ -715,18 +715,18 @@
     {
       "added_at": "2023-08-04 20:13:14",
       "album": {
-        "name": "Flow",
-        "url": "https://open.spotify.com/album/0E7eTPalfTym6o2ljSdIcc"
+        "name": "DISTANCE",
+        "url": "https://open.spotify.com/album/6wTlSDRDjKrG796F3CrRy1"
       },
       "artists": [
         {
-          "name": "Jourden",
-          "url": "https://open.spotify.com/artist/7BJgHEoxvlal00T5B0Ro5u"
+          "name": "Marlon Craft",
+          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
         }
       ],
-      "duration_ms": 162162,
-      "name": "Flow",
-      "url": "https://open.spotify.com/track/0YVAbRnpG4mVxxwob9DdS8"
+      "duration_ms": 148593,
+      "name": "DISTANCE",
+      "url": "https://open.spotify.com/track/6Bf7cjpixSYnqQbX4rh4Jw"
     },
     {
       "added_at": "2023-08-04 20:13:14",
@@ -823,18 +823,22 @@
     {
       "added_at": "2023-08-04 20:13:14",
       "album": {
-        "name": "CHOMP 2.5 (EP)",
-        "url": "https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13"
+        "name": "Maps",
+        "url": "https://open.spotify.com/album/3VoX4iyvy7et6Qt47e2XwS"
       },
       "artists": [
         {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+          "name": "billy woods",
+          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
+        },
+        {
+          "name": "Kenny Segal",
+          "url": "https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO"
         }
       ],
-      "duration_ms": 141542,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/4LGBOpladriYPl7B8g6xME"
+      "duration_ms": 173647,
+      "name": "Soft Landing",
+      "url": "https://open.spotify.com/track/0TFzKqmZl7HjklWP0KWqXt"
     },
     {
       "added_at": "2023-08-04 20:13:14",
@@ -863,22 +867,18 @@
     {
       "added_at": "2023-08-04 20:13:14",
       "album": {
-        "name": "Maps",
-        "url": "https://open.spotify.com/album/3VoX4iyvy7et6Qt47e2XwS"
+        "name": "CHOMP 2.5 (EP)",
+        "url": "https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13"
       },
       "artists": [
         {
-          "name": "billy woods",
-          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
-        },
-        {
-          "name": "Kenny Segal",
-          "url": "https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO"
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
         }
       ],
-      "duration_ms": 173647,
-      "name": "Soft Landing",
-      "url": "https://open.spotify.com/track/0TFzKqmZl7HjklWP0KWqXt"
+      "duration_ms": 141542,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4LGBOpladriYPl7B8g6xME"
     },
     {
       "added_at": "2023-08-04 20:13:14",

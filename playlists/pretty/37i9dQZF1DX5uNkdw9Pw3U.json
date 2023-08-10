@@ -1,12 +1,12 @@
 {
   "description": "Tough crowd.",
-  "num_followers": 66888,
+  "num_followers": 66940,
   "original_name": "Laid Back Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTczNzRhOGY1YjMxMjk0YTNjY2EyMGI1NDY4NGI1OTEyMTAwOTVm",
+  "snapshot_id": "MCwwZTBmNjliMzIxYzg0ZDBiZWZlYjEyMDI3ZjlkNGEwOTE3YzUyNzcx",
   "tracks": [
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "How Is Your Soul?",
-        "url": "https://open.spotify.com/album/1BFivKs3J5ghsnCx3yNo1X"
-      },
-      "artists": [
-        {
-          "name": "HILLARI",
-          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
-        }
-      ],
-      "duration_ms": 166848,
-      "name": "Hopeful",
-      "url": "https://open.spotify.com/track/7FdweFFs7ZqJe4dHoKicuR"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "Truth Is",
         "url": "https://open.spotify.com/album/4vfE56g4oK4p8VVx7pThrU"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 191826,
       "name": "Woman (feat. Lianne La Havas)",
       "url": "https://open.spotify.com/track/4VyoOl99FlcemZr6WvzQed"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "How Is Your Soul?",
+        "url": "https://open.spotify.com/album/1BFivKs3J5ghsnCx3yNo1X"
+      },
+      "artists": [
+        {
+          "name": "HILLARI",
+          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
+        }
+      ],
+      "duration_ms": 166848,
+      "name": "Hopeful",
+      "url": "https://open.spotify.com/track/7FdweFFs7ZqJe4dHoKicuR"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1179,22 +1179,6 @@
       "duration_ms": 216560,
       "name": "So Bad (feat. HAIM)",
       "url": "https://open.spotify.com/track/2qre5YuCk0fuKw0Z60E28W"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
-        "name": "Fall into place",
-        "url": "https://open.spotify.com/album/6H9LrowBd43bph6WF3NKxo"
-      },
-      "artists": [
-        {
-          "name": "HILLARI",
-          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
-        }
-      ],
-      "duration_ms": 168576,
-      "name": "Fall into place",
-      "url": "https://open.spotify.com/track/0f6kT8WozcmtkenxnhDbp6"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1271,22 +1255,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Orbit (Live from Air Studios)",
-        "url": "https://open.spotify.com/album/0fQTMFrlCRSyPpvTxSVMKV"
-      },
-      "artists": [
-        {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
-        }
-      ],
-      "duration_ms": 234313,
-      "name": "Orbit - Live from Air Studios",
-      "url": "https://open.spotify.com/track/1zxG0496hjejtlxjz0AyDY"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "New Spring",
         "url": "https://open.spotify.com/album/2sWggCkVfjfWjzGdNpyqGt"
       },
@@ -1303,6 +1271,38 @@
       "duration_ms": 197099,
       "name": "New Spring",
       "url": "https://open.spotify.com/track/0Hev2nyvmSPm525kn7ZHvH"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "Fall into place",
+        "url": "https://open.spotify.com/album/6H9LrowBd43bph6WF3NKxo"
+      },
+      "artists": [
+        {
+          "name": "HILLARI",
+          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
+        }
+      ],
+      "duration_ms": 168576,
+      "name": "Fall into place",
+      "url": "https://open.spotify.com/track/0f6kT8WozcmtkenxnhDbp6"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "Orbit (Live from Air Studios)",
+        "url": "https://open.spotify.com/album/0fQTMFrlCRSyPpvTxSVMKV"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "duration_ms": 234313,
+      "name": "Orbit - Live from Air Studios",
+      "url": "https://open.spotify.com/track/1zxG0496hjejtlxjz0AyDY"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "who knew (from Grown-ish)",
-        "url": "https://open.spotify.com/album/1iGnMcJ5NNC1NZprmZt9y0"
-      },
-      "artists": [
-        {
-          "name": "Chloe x Halle",
-          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
-        }
-      ],
-      "duration_ms": 202960,
-      "name": "who knew - from Grown-ish",
-      "url": "https://open.spotify.com/track/0uIitPtzjqgkmFyY0wkPfl"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "like you",
         "url": "https://open.spotify.com/album/3jZELme7kRzqvSqvgrMvYo"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 194831,
       "name": "like you",
       "url": "https://open.spotify.com/track/6MJdkuJ54q02WKe1Bz6oNE"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "who knew (from Grown-ish)",
+        "url": "https://open.spotify.com/album/1iGnMcJ5NNC1NZprmZt9y0"
+      },
+      "artists": [
+        {
+          "name": "Chloe x Halle",
+          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
+        }
+      ],
+      "duration_ms": 202960,
+      "name": "who knew - from Grown-ish",
+      "url": "https://open.spotify.com/track/0uIitPtzjqgkmFyY0wkPfl"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/5mF15IKfMlbKTO2sKFZz3l"
-      },
-      "artists": [
-        {
-          "name": "TORA",
-          "url": "https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg"
-        }
-      ],
-      "duration_ms": 159267,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/19zyupEw3vTNL3waafGwW6"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "Tuesday",
         "url": "https://open.spotify.com/album/576ztM6ojdD8gFAlM8CXQo"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 172320,
       "name": "Tuesday",
       "url": "https://open.spotify.com/track/6zCnQMobnm85NlmYwaj54Q"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/5mF15IKfMlbKTO2sKFZz3l"
+      },
+      "artists": [
+        {
+          "name": "TORA",
+          "url": "https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg"
+        }
+      ],
+      "duration_ms": 159267,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/19zyupEw3vTNL3waafGwW6"
     },
     {
       "added_at": "2023-07-06 22:00:00",

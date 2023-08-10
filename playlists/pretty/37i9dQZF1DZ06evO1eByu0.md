@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1eByu0.md) - [plain]
 
 > This is Aline Barros\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,059 likes - 51 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,102 likes - 51 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1eByu0.md) - [plain]
 | 33 | [Vitória no Deserto](https://open.spotify.com/track/442A0IdJTDkRP0M4CM0pPb) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Extraordinário Amor de Deus](https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6) | 3:45 |
 | 34 | [Habrá Victoria](https://open.spotify.com/track/1M8ItKWPgaCm0x2wvtdoCb) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Habrá Victoria](https://open.spotify.com/album/01wnhbveeUx0CgwlrNKgjU) | 4:07 |
 | 35 | [Meu Melhor Amigo](https://open.spotify.com/track/6apees47ViBG319vgVmYnJ) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Incomparável](https://open.spotify.com/album/0BgFA0t9FPDRMA2QPgVRFU) | 4:03 |
-| 36 | [Jesus Cristo Mudou Meu Viver \(What a Difference You've Made In My Life\) \- Ao Vivo](https://open.spotify.com/track/6lp6PPv7PjP8mLLP7bVjgZ) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros 20 Anos Ao Vivo](https://open.spotify.com/album/5QXDVXCZoUPslgqQ9O2JI7) | 3:56 |
-| 37 | [Te Adorar é meu Prazer \(Ao Vivo Em Portugal\)](https://open.spotify.com/track/1Oc5EFGrl6lHCVcrlxwEFG) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [30 Anos \(Vol\. I\)](https://open.spotify.com/album/6F7IItp4LykbpjRkBRB11l) | 4:55 |
+| 36 | [Te Adorar é meu Prazer \(Ao Vivo Em Portugal\)](https://open.spotify.com/track/1Oc5EFGrl6lHCVcrlxwEFG) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [30 Anos \(Vol\. I\)](https://open.spotify.com/album/6F7IItp4LykbpjRkBRB11l) | 4:55 |
+| 37 | [Jesus Cristo Mudou Meu Viver \(What a Difference You've Made In My Life\) \- Ao Vivo](https://open.spotify.com/track/6lp6PPv7PjP8mLLP7bVjgZ) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros 20 Anos Ao Vivo](https://open.spotify.com/album/5QXDVXCZoUPslgqQ9O2JI7) | 3:56 |
 | 38 | [Sol da Justiça](https://open.spotify.com/track/0lQ4GwEPOT2mS4ClVpiLJ3) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Minha Oração](https://open.spotify.com/album/389BcZL9PPZK0m4sSkIDH5) | 5:41 |
 | 39 | [Homenzinho Torto](https://open.spotify.com/track/7oI40EwoWgUTpE28SCStdS) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia](https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4) | 2:47 |
 | 40 | [Cantarei Desse Amor](https://open.spotify.com/track/3eqExbH8UG4iRmoXcPWLHS) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [Deus do Impossível](https://open.spotify.com/album/2GApIH2ulfM7LM4L8byYuM) | 4:00 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1eByu0.md) - [plain]
 | 50 | [Corra para os Braços do Pai \(If This World\) \[Ao Vivo Em Paris\]](https://open.spotify.com/track/3yMXARmXJgM6c0sYrtLJDk) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Corra para os Braços do Pai \(If This World\) \[Ao Vivo Em Paris\]](https://open.spotify.com/album/02EClmGIfQz1LDlAw8XEER) | 4:49 |
 | 51 | [Por Amor](https://open.spotify.com/track/7j2pRAjkERWLyg4ULzxWTR) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [El Poder De Tu Amor](https://open.spotify.com/album/48OdG91I1ZNnYmq8XSxBJW) | 4:29 |
 
-Snapshot ID: `MjgxOTE2NzksMDAwMDAwMDAwMDQ5ZWE1MjhlMjA5NjRjYWY2M2I4MzczNjY5ZjU0Zg==`
+Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDA4NGUwZmI5OGMwN2Y0Njk0ZTI1OTczNWZhMjA1MDg3Ng==`

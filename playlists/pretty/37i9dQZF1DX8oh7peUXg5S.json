@@ -1,12 +1,12 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joaqu\u00edn Sabina.",
-  "num_followers": 303318,
+  "num_followers": 303473,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzA3YTQwNmEzYTZkYTE4NWQ3OWJlNTA5NzgwOGQ4N2FmODNmZDkw",
+  "snapshot_id": "MCwzNDA2NzRjNDUxMmM4M2QyYmM4OWIxYjcxZDNmNGZjNzEzODU3NWEx",
   "tracks": [
     {
       "added_at": "2023-07-27 22:00:00",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2023-07-27 22:00:00",
       "album": {
+        "name": "Aunque t\u00fa no lo sepas",
+        "url": "https://open.spotify.com/album/3SaoEYIz0wkozITFrtSzDr"
+      },
+      "artists": [
+        {
+          "name": "Alba Rojas",
+          "url": "https://open.spotify.com/artist/4xdBvo5jnfT71bRV8m30ZW"
+        }
+      ],
+      "duration_ms": 131343,
+      "name": "Aunque t\u00fa no lo sepas",
+      "url": "https://open.spotify.com/track/441XWdqnVR7daud8RbK2bg"
+    },
+    {
+      "added_at": "2023-07-27 22:00:00",
+      "album": {
         "name": "Yo Sin T\u00fa",
         "url": "https://open.spotify.com/album/2fxhvC6LYtfZepIoaKIo7i"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 308333,
       "name": "Un Solo Corazo\u0301n",
       "url": "https://open.spotify.com/track/2yvUa42t8I1vSTn51Ex29r"
-    },
-    {
-      "added_at": "2023-07-27 22:00:00",
-      "album": {
-        "name": "Aunque t\u00fa no lo sepas",
-        "url": "https://open.spotify.com/album/3SaoEYIz0wkozITFrtSzDr"
-      },
-      "artists": [
-        {
-          "name": "Alba Rojas",
-          "url": "https://open.spotify.com/artist/4xdBvo5jnfT71bRV8m30ZW"
-        }
-      ],
-      "duration_ms": 131343,
-      "name": "Aunque t\u00fa no lo sepas",
-      "url": "https://open.spotify.com/track/441XWdqnVR7daud8RbK2bg"
     },
     {
       "added_at": "2023-07-27 22:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos in Hip\-Hop from the U.S.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,404 likes - 30 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,419 likes - 30 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 29 | [Would You Still Love Me](https://open.spotify.com/track/4pqMud4FFwGJ9wNEY74qqq) | [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co), [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Would You Still Love Me](https://open.spotify.com/album/7kmWOC9R8scUJvlhnLtIG2) | 4:16 |
 | 30 | [What It Takes](https://open.spotify.com/track/0Kp6qc08PPUKw9VLWuknAT) | [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D), [Paul Wall](https://open.spotify.com/artist/1ANtdpqM2CM6NRoiD5ffS9) | [What It Takes](https://open.spotify.com/album/05IhGWbXt3O7Ny3GZxKqX0) | 2:29 |
 
-Snapshot ID: `MCwyMTQ5NGNjMDA4M2Q4MGFhNGY5OGZjYTgxZGNlMTM1NmFkNmRlYmQ0`
+Snapshot ID: `MCxmYmZlY2EzNjBmMjgwNDA5ZmVlMDdhYzc5Yjk5MWE1YTk4ZmIxMDU3`

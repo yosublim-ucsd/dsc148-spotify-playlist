@@ -1,12 +1,12 @@
 {
   "description": "90\ub144\ub300 \ub304\uc2a4\ub97c \uc990\uae30\uace0 \uc2f6\uc740 \uc0ac\ub78c \uc190!",
-  "num_followers": 4104,
+  "num_followers": 4107,
   "original_name": "\ud1a0\ud1a0\uac00! \ucd94\uc5b5\uc758 \ub304\uc2a4 \ubba4\uc9c1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MmI2MmZmMzhhNzBlMDU0YjllNDcxYjExZjU1YTFlZjBiMzk3MjU1",
+  "snapshot_id": "MCxiNjFlMTU1MjFiOGUxY2UxODI2MzY1OWEwMjEwZGFmODU3YjRlM2Q3",
   "tracks": [
     {
       "added_at": "2021-02-01 12:18:54",
@@ -443,18 +443,22 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "All System Go",
-        "url": "https://open.spotify.com/album/7tyc2JJtnIBo4hKDmhCgjk"
+        "name": "Swan Songs",
+        "url": "https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6"
       },
       "artists": [
         {
-          "name": "Roo'RA",
-          "url": "https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca"
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Amin. J",
+          "url": "https://open.spotify.com/artist/5xs4WKD1qLTJNSRnX0O4d2"
         }
       ],
-      "duration_ms": 249420,
-      "name": "3!4!",
-      "url": "https://open.spotify.com/track/5ZRS1jfampQ4mVfNidYZfk"
+      "duration_ms": 201226,
+      "name": "Fly (feat. Amin. J)",
+      "url": "https://open.spotify.com/track/3N17JQ2yJjQTUOt706Uj6h"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -475,22 +479,18 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Swan Songs",
-        "url": "https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6"
+        "name": "All System Go",
+        "url": "https://open.spotify.com/album/7tyc2JJtnIBo4hKDmhCgjk"
       },
       "artists": [
         {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        },
-        {
-          "name": "Amin. J",
-          "url": "https://open.spotify.com/artist/5xs4WKD1qLTJNSRnX0O4d2"
+          "name": "Roo'RA",
+          "url": "https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca"
         }
       ],
-      "duration_ms": 201226,
-      "name": "Fly (feat. Amin. J)",
-      "url": "https://open.spotify.com/track/3N17JQ2yJjQTUOt706Uj6h"
+      "duration_ms": 249420,
+      "name": "3!4!",
+      "url": "https://open.spotify.com/track/5ZRS1jfampQ4mVfNidYZfk"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Choose My Life-U - The 5th Album",
-        "url": "https://open.spotify.com/album/7apoRHFUdYNuaR5tRrOnPd"
-      },
-      "artists": [
-        {
-          "name": "S.E.S.",
-          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
-        }
-      ],
-      "duration_ms": 213533,
-      "name": "\ub2ec\ub9ac\uae30",
-      "url": "https://open.spotify.com/track/6PxV0qSZZ4Wv4mtv4UcKWo"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "2008 Concert, Monologue",
         "url": "https://open.spotify.com/album/1EVIqhHPkzsIkka00kZSNu"
       },
@@ -1207,18 +1191,34 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "\ud64d\uacbd\ubbfc Vol. 3",
-        "url": "https://open.spotify.com/album/0LGwglKMxT0zZ97bzAzjMU"
+        "name": "Choose My Life-U - The 5th Album",
+        "url": "https://open.spotify.com/album/7apoRHFUdYNuaR5tRrOnPd"
       },
       "artists": [
         {
-          "name": "Hong Kyung-min",
-          "url": "https://open.spotify.com/artist/6CeGrlHkhTuqMVLDQRQ4qy"
+          "name": "S.E.S.",
+          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
         }
       ],
-      "duration_ms": 243200,
-      "name": "Shaky Friendship - Euru Remix Version",
-      "url": "https://open.spotify.com/track/2XfDYBZioldmlLDb2EfWPC"
+      "duration_ms": 213533,
+      "name": "\ub2ec\ub9ac\uae30",
+      "url": "https://open.spotify.com/track/6PxV0qSZZ4Wv4mtv4UcKWo"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/4X2WK3i0Gkxv42SedSbWoW"
+      },
+      "artists": [
+        {
+          "name": "Fin.K.L",
+          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
+        }
+      ],
+      "duration_ms": 234888,
+      "name": "White",
+      "url": "https://open.spotify.com/track/37Bv9wyQg01DjaMe4uj93a"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/4X2WK3i0Gkxv42SedSbWoW"
+        "name": "\ud64d\uacbd\ubbfc Vol. 3",
+        "url": "https://open.spotify.com/album/0LGwglKMxT0zZ97bzAzjMU"
       },
       "artists": [
         {
-          "name": "Fin.K.L",
-          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
+          "name": "Hong Kyung-min",
+          "url": "https://open.spotify.com/artist/6CeGrlHkhTuqMVLDQRQ4qy"
         }
       ],
-      "duration_ms": 234888,
-      "name": "White",
-      "url": "https://open.spotify.com/track/37Bv9wyQg01DjaMe4uj93a"
+      "duration_ms": 243200,
+      "name": "Shaky Friendship - Euru Remix Version",
+      "url": "https://open.spotify.com/track/2XfDYBZioldmlLDb2EfWPC"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1299,22 +1299,6 @@
       "duration_ms": 185226,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/0O5TFim1TzHy46xZTpoWN1"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
-        "name": "\ud64d\uacbd\ubbfc Vol. 3",
-        "url": "https://open.spotify.com/album/0LGwglKMxT0zZ97bzAzjMU"
-      },
-      "artists": [
-        {
-          "name": "Hong Kyung-min",
-          "url": "https://open.spotify.com/artist/6CeGrlHkhTuqMVLDQRQ4qy"
-        }
-      ],
-      "duration_ms": 236066,
-      "name": "Shaky Friendship",
-      "url": "https://open.spotify.com/track/3dG8hABjshvQOkCtcq9k7R"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1423,6 +1407,22 @@
       "duration_ms": 217417,
       "name": "\ud3c9\uc0dd",
       "url": "https://open.spotify.com/track/1HJHe0MtRQ6FZgEdXR7KFd"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "\ud64d\uacbd\ubbfc Vol. 3",
+        "url": "https://open.spotify.com/album/0LGwglKMxT0zZ97bzAzjMU"
+      },
+      "artists": [
+        {
+          "name": "Hong Kyung-min",
+          "url": "https://open.spotify.com/artist/6CeGrlHkhTuqMVLDQRQ4qy"
+        }
+      ],
+      "duration_ms": 236066,
+      "name": "Shaky Friendship",
+      "url": "https://open.spotify.com/track/3dG8hABjshvQOkCtcq9k7R"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
+        "name": "N001",
+        "url": "https://open.spotify.com/album/6uHdPehfuo9Es9tWGatg8c"
+      },
+      "artists": [
+        {
+          "name": "Rain",
+          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Instead of Saying Goodbye",
+      "url": "https://open.spotify.com/track/7HEWe82C9vZep6rxBIR8tD"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
         "name": "MBC <What's No.1 now?> Part. 1",
         "url": "https://open.spotify.com/album/4qbPlOn9APRsxCwpaCKzCe"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 244271,
       "name": "\ud559\uad50\ub97c \uc548\uac14\uc5b4",
       "url": "https://open.spotify.com/track/5Jwc8DEZiU7rmn73how81q"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
-        "name": "N001",
-        "url": "https://open.spotify.com/album/6uHdPehfuo9Es9tWGatg8c"
-      },
-      "artists": [
-        {
-          "name": "Rain",
-          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Instead of Saying Goodbye",
-      "url": "https://open.spotify.com/track/7HEWe82C9vZep6rxBIR8tD"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -2435,18 +2435,18 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Wedding - The 6th Album",
-        "url": "https://open.spotify.com/album/2z3PuFKRY0tH0XOIzZzfoF"
+        "name": "I Yah! - The 4th Album",
+        "url": "https://open.spotify.com/album/2hTRBrQt64fYVfZl9viZh3"
       },
       "artists": [
         {
-          "name": "SHINHWA",
-          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
+          "name": "H.O.T.",
+          "url": "https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS"
         }
       ],
-      "duration_ms": 275373,
-      "name": "\uc911\ub3c5 Deep Sorrow",
-      "url": "https://open.spotify.com/track/3MuiFHZtmoSiNIfO7AF767"
+      "duration_ms": 256000,
+      "name": "Git it up!",
+      "url": "https://open.spotify.com/track/5Dg2iJomKtU2MxHK8BUkzn"
     }
   ],
   "unique_name": "\ud1a0\ud1a0\uac00! \ucd94\uc5b5\uc758 \ub304\uc2a4 \ubba4\uc9c1",

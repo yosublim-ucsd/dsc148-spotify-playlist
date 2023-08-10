@@ -1,12 +1,12 @@
 {
   "description": "Sinta o clima e fa\u00e7a uma viagem ao passado.",
-  "num_followers": 68413,
+  "num_followers": 68437,
   "original_name": "Ver\u00e3o Cl\u00e1ssico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDUwNDYzYTM4NGExYzU1YjhjMTRiZjEwMTk4MmIzZDljOTg2Yzdh",
+  "snapshot_id": "MCxiM2FlMzZjYWZjYjMwOTQ0YWU1NmQ0ODgyNDdmY2I2YTgxNmZiYzcw",
   "tracks": [
     {
       "added_at": "2020-11-30 23:28:56",
@@ -159,22 +159,6 @@
     {
       "added_at": "2020-11-30 23:28:56",
       "album": {
-        "name": "Toulouse Street",
-        "url": "https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm"
-      },
-      "artists": [
-        {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
-        }
-      ],
-      "duration_ms": 227266,
-      "name": "Listen to the Music",
-      "url": "https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5"
-    },
-    {
-      "added_at": "2020-11-30 23:28:56",
-      "album": {
         "name": "Come and Get Your Love",
         "url": "https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 205933,
       "name": "Come and Get Your Love - Single Version",
       "url": "https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD"
+    },
+    {
+      "added_at": "2020-11-30 23:28:56",
+      "album": {
+        "name": "Toulouse Street",
+        "url": "https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm"
+      },
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        }
+      ],
+      "duration_ms": 227266,
+      "name": "Listen to the Music",
+      "url": "https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5"
     },
     {
       "added_at": "2020-11-30 23:28:56",

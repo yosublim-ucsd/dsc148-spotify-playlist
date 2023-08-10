@@ -77,6 +77,28 @@
     },
     {
       "album": {
+        "name": "Bubrah",
+        "url": "https://open.spotify.com/album/07urzunOSaLFzBroFn2YK0"
+      },
+      "artists": [
+        {
+          "name": "Northsle",
+          "url": "https://open.spotify.com/artist/2uLPgRE1AC21L9Ep5WmGVu"
+        },
+        {
+          "name": "Agiff",
+          "url": "https://open.spotify.com/artist/6RQy74jvNAxRoUyYaL2JyG"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346000,
+      "name": "Bubrah",
+      "url": "https://open.spotify.com/track/4xyMOJkHxqKvoW5issqXzZ"
+    },
+    {
+      "album": {
         "name": "Cerito Loro",
         "url": "https://open.spotify.com/album/46KkX8tvr0ANum32q8SX8F"
       },
@@ -261,6 +283,28 @@
     },
     {
       "album": {
+        "name": "Dumes",
+        "url": "https://open.spotify.com/album/7fChrUmjD25EVYcvPTIWUd"
+      },
+      "artists": [
+        {
+          "name": "OMWAWES",
+          "url": "https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A"
+        },
+        {
+          "name": "Guyon Waton",
+          "url": "https://open.spotify.com/artist/5B5aSdWGySF3MXFEguHCvz"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266666,
+      "name": "Dumes",
+      "url": "https://open.spotify.com/track/5IhULiOyG58jL20qWkztEg"
+    },
+    {
+      "album": {
         "name": "Durung Ikhlas",
         "url": "https://open.spotify.com/album/03bt7cjECUUsUrcrGDBwHr"
       },
@@ -355,6 +399,24 @@
     },
     {
       "album": {
+        "name": "Kebacut Nyaman",
+        "url": "https://open.spotify.com/album/5WMqMj79VLVJp6YG42WwrL"
+      },
+      "artists": [
+        {
+          "name": "Damara De",
+          "url": "https://open.spotify.com/artist/0ZrpjSmeaK6iY14eZFx5dF"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305426,
+      "name": "Kebacut Nyaman",
+      "url": "https://open.spotify.com/track/3kEUi3er4c6aNdX0spyUZM"
+    },
+    {
+      "album": {
         "name": "NDX A.K.A. Familia",
         "url": "https://open.spotify.com/album/2tkko0H0gYzg3jwEzfJQuc"
       },
@@ -388,6 +450,46 @@
       "duration_ms": 275000,
       "name": "Kisinan",
       "url": "https://open.spotify.com/track/109u6faz5ePtC558pTonCw"
+    },
+    {
+      "album": {
+        "name": "Kudu Nangis",
+        "url": "https://open.spotify.com/album/4aFca7kL4Hp1y0hzYFZpBv"
+      },
+      "artists": [
+        {
+          "name": "Ndarboy Genk",
+          "url": "https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ"
+        },
+        {
+          "name": "Dewa Budjana",
+          "url": "https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304405,
+      "name": "Kudu Nangis",
+      "url": "https://open.spotify.com/track/1W6dPS3Fko21XHOkKQ2rMI"
+    },
+    {
+      "album": {
+        "name": "Kurangku Opo",
+        "url": "https://open.spotify.com/album/5rCg6XiVS9xmBiUEoYn0Dq"
+      },
+      "artists": [
+        {
+          "name": "Ronda Genk",
+          "url": "https://open.spotify.com/artist/67H1jUlHffu3RzhSAWRl7z"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388286,
+      "name": "Kurangku Opo",
+      "url": "https://open.spotify.com/track/5v2gEm7WZNJChdoNqgGSxA"
     },
     {
       "album": {
@@ -449,6 +551,24 @@
     },
     {
       "album": {
+        "name": "Loro Ati Sejak Dini",
+        "url": "https://open.spotify.com/album/69mI0XVoKizAkiULAx4FLj"
+      },
+      "artists": [
+        {
+          "name": "Evan Loss",
+          "url": "https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284674,
+      "name": "Loro Ati Sejak Dini",
+      "url": "https://open.spotify.com/track/0oUVBZrnc8S6qJEA8uH1On"
+    },
+    {
+      "album": {
         "name": "Los Dol",
         "url": "https://open.spotify.com/album/3nMuIEIxQ2VxTBAu5N4dKs"
       },
@@ -460,7 +580,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 333252,
       "name": "Los Dol",
       "url": "https://open.spotify.com/track/2bCnJ2aCkSh0PIcS6nL2QM"
@@ -626,6 +746,24 @@
       "duration_ms": 323546,
       "name": "Ojo Nangis",
       "url": "https://open.spotify.com/track/4Iz7wW7kYwGOtGhv9bnO06"
+    },
+    {
+      "album": {
+        "name": "Ojo Nangis",
+        "url": "https://open.spotify.com/album/6xnklJBg3JlMENDJBdFqiR"
+      },
+      "artists": [
+        {
+          "name": "Woro Widowati",
+          "url": "https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330600,
+      "name": "Ojo Nangis",
+      "url": "https://open.spotify.com/track/55ZdI8As6tgaM1X6P8XQ4U"
     },
     {
       "album": {
@@ -822,6 +960,24 @@
       "duration_ms": 310244,
       "name": "Tak Ikhlasno",
       "url": "https://open.spotify.com/track/3c24cpsd4wWF9mqLsNAGm5"
+    },
+    {
+      "album": {
+        "name": "Tangise Sarangan",
+        "url": "https://open.spotify.com/album/70BN1abiYV64ksDeUF0zDB"
+      },
+      "artists": [
+        {
+          "name": "Woro Widowati",
+          "url": "https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415047,
+      "name": "Tangise Sarangan",
+      "url": "https://open.spotify.com/track/2NjOl7W9zT3ZnyUFsEyrmU"
     },
     {
       "album": {

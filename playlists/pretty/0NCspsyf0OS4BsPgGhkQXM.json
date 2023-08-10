@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2056041,
+  "num_followers": 2056049,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTM2NDIsZGYwYjc3MjMzODI2ZTU5ZmIyMTM0N2I1MDNlMzQyYzY4MDAyYTU2Yg==",
+  "snapshot_id": "MTM2NDQsMDY2MzdhYmZjNWI3MjRlNjFmYzVjOGU4Y2JjZTNiNGQzMTc5NzBlNA==",
   "tracks": [
     {
       "added_at": "2023-07-28 05:52:27",
@@ -1007,6 +1007,22 @@
       "duration_ms": 222000,
       "name": "Back Now",
       "url": "https://open.spotify.com/track/1U4EJlYgHHuEzZPgiuUvEH"
+    },
+    {
+      "added_at": "2023-08-09 17:28:11",
+      "album": {
+        "name": "The Moment",
+        "url": "https://open.spotify.com/album/2crEcnaJsI8AWFHFWlo9DN"
+      },
+      "artists": [
+        {
+          "name": "Benelidan",
+          "url": "https://open.spotify.com/artist/6OxbKZRbAAWfegZJECjkNI"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "The Moment",
+      "url": "https://open.spotify.com/track/05YcyYx5SpXZ1DNri0k0Qk"
     },
     {
       "added_at": "2023-07-28 05:52:27",

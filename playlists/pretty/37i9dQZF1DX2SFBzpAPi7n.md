@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: HYNN\(박혜원\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,368 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,548 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 49 | [surf.](https://open.spotify.com/track/0pqEMHCA4VXzoaVQq7uskF) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [surf.](https://open.spotify.com/album/4Npp7OOIPSZYl0t82P6mjv) | 3:45 |
 | 50 | [Go](https://open.spotify.com/track/51W0tWQB56AvnLhIauJuSc) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Record of Youth \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/6PCVAO4BRutldPc7WjbkLU) | 3:33 |
 
-Snapshot ID: `MCwxZjlkY2FhZDMwNTI3MTVmYTQ0YzM3MmFiM2YxZGUwZDBlMWVhMzM4`
+Snapshot ID: `MCw4ZjdjMDViMDJkMWNhMWE2N2FmNjFhNDg1ZjBkOGM4MGUzNTAxMWNj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Doja Cat,<br/>back number, Bebe Rexha & David Guetta, back number and more! cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,896 likes - 79 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,901 likes - 79 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 78 | [Black Nile](https://open.spotify.com/track/7jM01vnA3IbskNLZF23lyV) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [Black Nile](https://open.spotify.com/album/6xaT3uAYw8VBtcI3hshU5V) | 3:33 |
 | 79 | [Looking in the Same Direction](https://open.spotify.com/track/3223tV7OEezdOyG2CxXKzi) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Looking in the Same Direction](https://open.spotify.com/album/0dnnSN7ZOeMC3O3UutSPHU) | 4:04 |
 
-Snapshot ID: `MCxkMTE5NjYxOTM3ZTc5MWFiOWY2NGZhYjA3MGQ4Njk3M2M1YTZlYTBi`
+Snapshot ID: `MCwzMTRiOTlhNTExM2I0Y2RjZTgyNGZmZGNhOTNmZTNmODY1M2UzMTcw`

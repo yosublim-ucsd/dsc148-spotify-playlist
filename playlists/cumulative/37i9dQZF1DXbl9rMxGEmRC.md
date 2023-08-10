@@ -4,11 +4,12 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-460 songs - 1 day 15 hr 31 min
+461 songs - 1 day 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [666 Voices Inside](https://open.spotify.com/track/7AdA9vNvPC9xdH3l4pPzS5) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [Attera Totus Sanctus](https://open.spotify.com/album/53m5q93sqZpTZ8NFtWHKuE) | 4:38 | 2022-07-13 | 2023-02-16 |
+| [A Crawling Feast Of Decay](https://open.spotify.com/track/6aEj5976amMbfkDso4b6F2) | [Grand Cadaver](https://open.spotify.com/artist/6K520oxrZlHZC5MSALzFZC) | [A Crawling Feast of Decay](https://open.spotify.com/album/4h88OeKLXsKtQ184ZCOKXa) | 3:15 | 2023-08-04 |  |
 | [A csend hegyei](https://open.spotify.com/track/14YaVGzQho0X6zqI5Rfx5T) | [Thy Catafalque](https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom) | [A csend hegyei](https://open.spotify.com/album/5MX3Rtz5e4kCopEkYfuRHp) | 4:10 | 2023-04-28 | 2023-05-23 |
 | [A Fine Day to Die](https://open.spotify.com/track/1nLF4GpaJe54kjjBVxIBRS) | [Bathory](https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM) | [Blood Fire Death](https://open.spotify.com/album/2QVt9UZEloRJgYqE70ACPs) | 8:36 | 2022-07-13 |  |
 | [A Psylacybic Death](https://open.spotify.com/track/3gRVHf7tMrvbAZFMqZIWmD) | [Abduction](https://open.spotify.com/artist/0giVCDcrvEldaPK8aCF1vp) | [A Psylacybic Death](https://open.spotify.com/album/0ldAuoMKfNhTDZn9lvLDgp) | 7:08 | 2022-10-07 | 2023-01-01 |
@@ -22,7 +23,7 @@
 | [Angels Hung from the Arches of Heaven](https://open.spotify.com/track/2aQuwaap0qGUFx3qCt7y9F) | [Goatwhore](https://open.spotify.com/artist/59YfPxuxGghrdPumu6aFKI) | [Angels Hung from the Arches of Heaven](https://open.spotify.com/album/3wkROANEE5jyoV1B1usizt) | 4:54 | 2022-10-07 |  |
 | [Anguish](https://open.spotify.com/track/63GKWmCfC9dIOOxP16AwZn) | [Progeny of Sun](https://open.spotify.com/artist/2IOwkQMglFyNgyhjnG2Bpl) | [Anguish](https://open.spotify.com/album/1X9jlZ1B56LU3RpTQOSiaJ) | 3:07 | 2022-05-13 | 2022-07-28 |
 | [Anima](https://open.spotify.com/track/77VGFCWFgsGLIWjoDTzJiq) | [Heretoir](https://open.spotify.com/artist/4W1aTc1mS8IudqNaxfGKar) | [Anima](https://open.spotify.com/album/7M0gsNq0pmdXsjZrSIUSUm) | 4:29 | 2023-03-17 | 2023-05-30 |
-| [Annihilation Phenomena](https://open.spotify.com/track/7bDH0CcnVcHo7qZ7d8Rux5) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [Annihilation Phenomena](https://open.spotify.com/album/1t9RT00yngfvrWGzigp2IO) | 3:51 | 2022-10-27 |  |
+| [Annihilation Phenomena](https://open.spotify.com/track/7bDH0CcnVcHo7qZ7d8Rux5) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [Annihilation Phenomena](https://open.spotify.com/album/1t9RT00yngfvrWGzigp2IO) | 3:51 | 2022-10-27 | 2023-08-10 |
 | [Apostle](https://open.spotify.com/track/1HI10LWV2JuIhTrl1WUVeu) | [Immolation](https://open.spotify.com/artist/3rt16vhD1OuULlsyxUUWIt) | [Apostle](https://open.spotify.com/album/2zuqFATCXyRlhU50M1uYvA) | 4:16 | 2021-12-17 | 2022-07-29 |
 | [Apostle](https://open.spotify.com/track/5y9bXtBhqIaMWRWDu0X3mX) | [Immolation](https://open.spotify.com/artist/3rt16vhD1OuULlsyxUUWIt) | [Acts Of God](https://open.spotify.com/album/1rGfm7jdqOjE2uMcbhbJsp) | 4:16 | 2022-11-25 | 2023-02-24 |
 | [Arsenal of War](https://open.spotify.com/track/0Y97m8mQOrCI5z0JfkTel6) | [Frozen Soul](https://open.spotify.com/artist/1hwwmQI1vhQamuIksyDKG6) | [Arsenal of War](https://open.spotify.com/album/4TBnmvcrvmEakXFQzDwX07) | 4:05 | 2023-03-17 | 2023-06-07 |

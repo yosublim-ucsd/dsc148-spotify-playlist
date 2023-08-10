@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXalD3w3b88aW.md) - [plain]
 
 > The emotional interludes we wish were longer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,290 likes - 76 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,292 likes - 76 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXalD3w3b88aW.md) - [plain]
 | 17 | [Superstar \- Interlude](https://open.spotify.com/track/22IVvpKhaLiYGzu3FdqBwB) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 1:04 |
 | 18 | [You Loving Me \(Session\)](https://open.spotify.com/track/2mOKh7J2mRrdnkHhqpHwFj) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [New Amerykah Part Two: Return Of The Ankh](https://open.spotify.com/album/1MOub955Uer957RVqqkF2a) | 1:04 |
 | 19 | [Looks Good With Trouble](https://open.spotify.com/track/0yJl8GDfihXsPOqGQE9bFp) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [True](https://open.spotify.com/album/1Blp4UY5uXYNW9JvCg5dZP) | 1:30 |
-| 20 | [Yo Yeah](https://open.spotify.com/track/6W8xPUq3muUFRnxVcVjdIK) | [Black Star](https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB) | [Mos Def & Talib Kweli Are Black Star](https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q) | 1:10 |
-| 21 | [Use Your Heart \- Interlude](https://open.spotify.com/track/3e2Bo9TD1mtlqysEJa7Mep) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [New Beginning](https://open.spotify.com/album/0y9RVnTvpZa3LTlUUaD7l4) | 1:34 |
+| 20 | [Use Your Heart \- Interlude](https://open.spotify.com/track/3e2Bo9TD1mtlqysEJa7Mep) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [New Beginning](https://open.spotify.com/album/0y9RVnTvpZa3LTlUUaD7l4) | 1:34 |
+| 21 | [Yo Yeah](https://open.spotify.com/track/6W8xPUq3muUFRnxVcVjdIK) | [Black Star](https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB) | [Mos Def & Talib Kweli Are Black Star](https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q) | 1:10 |
 | 22 | [Runnin' \- Interlude](https://open.spotify.com/track/6mPTMg3DKv58M5JLbUm5lf) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [You Should Be Here](https://open.spotify.com/album/3JFEZqTae3svhW8226cnNL) | 2:17 |
 | 23 | [Never Felt This Way](https://open.spotify.com/track/0uUwnByckydEF8r0ifZ5ke) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 2:00 |
 | 24 | [I Dedicate \(Pt\. 3\)](https://open.spotify.com/track/4p1lZQdX9XXYqg0yhhhxTq) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Brandy](https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6) | 1:01 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXalD3w3b88aW.md) - [plain]
 | 75 | [Truth or Dare \(Interlude\)](https://open.spotify.com/track/5OVOuE9dQ4BLM3A6jzjf9o) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Kima, Keisha & Pam](https://open.spotify.com/album/33s3ptUTggk4QrMygA60or) | 1:22 |
 | 76 | [I Tried \(Interlude\)](https://open.spotify.com/track/3sCc3U2W4Nj2aqzmHJr7BI) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Kima, Keisha & Pam](https://open.spotify.com/album/33s3ptUTggk4QrMygA60or) | 2:04 |
 
-Snapshot ID: `MCwxZjBlOTJiMWYxMzQ5ZDYwYTY4YmIwZjM3NjFlMmU5NmE3ZjZiMDNh`
+Snapshot ID: `MCxjMzQ0OGIzYzVhN2EyNDRlOTVhNGU1MmE2YzFlOTBjYTEyNTIyODA2`

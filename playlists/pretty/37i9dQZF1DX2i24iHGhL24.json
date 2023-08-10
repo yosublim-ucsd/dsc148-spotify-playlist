@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Sam Smith",
-  "num_followers": 106007,
+  "num_followers": 106109,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzI5YTVjMzYyMTI2MmY5NDU0NDJkMGVmNjVhMjYwNTU0ZTA2NGNl",
+  "snapshot_id": "MCwyMGIyZTg3MDdlMTJlNTJhYWIwMTNhNjJkYWI2NDdiYTg3MzNlMzI5",
   "tracks": [
     {
       "added_at": "2023-08-04 04:01:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Only Wanna Be With You (Pok\u00e9mon 25 Version)",
-        "url": "https://open.spotify.com/album/2xZhidR4y5OPpCRYF09XB4"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 241360,
-      "name": "Only Wanna Be With You - Pok\u00e9mon 25 Version",
-      "url": "https://open.spotify.com/track/3SawmGBjjq8EOYZJV11cJm"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Simply The Best",
         "url": "https://open.spotify.com/album/2IjiX4wNgyntlvPU9a0Yy7"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 173571,
       "name": "Simply The Best",
       "url": "https://open.spotify.com/track/10UTmRvoroe6eZ3ViwkpbN"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Only Wanna Be With You (Pok\u00e9mon 25 Version)",
+        "url": "https://open.spotify.com/album/2xZhidR4y5OPpCRYF09XB4"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 241360,
+      "name": "Only Wanna Be With You - Pok\u00e9mon 25 Version",
+      "url": "https://open.spotify.com/track/3SawmGBjjq8EOYZJV11cJm"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Meet Me At Our Spot",
-        "url": "https://open.spotify.com/album/7yYIY5ZSptEn9CBm9QhW5O"
-      },
-      "artists": [
-        {
-          "name": "Christian French",
-          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
-        }
-      ],
-      "duration_ms": 137508,
-      "name": "Meet Me At Our Spot",
-      "url": "https://open.spotify.com/track/36d4GIYKnTr37URimc6FSP"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Can't Help Falling in Love (From The Original Motion Picture Soundtrack ELVIS)",
         "url": "https://open.spotify.com/album/4wxj79WgqJdspoHES5dvcY"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 168266,
       "name": "Can't Help Falling in Love",
       "url": "https://open.spotify.com/track/4FCNizKAqQ0JDx9ZWDEt1Z"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Meet Me At Our Spot",
+        "url": "https://open.spotify.com/album/7yYIY5ZSptEn9CBm9QhW5O"
+      },
+      "artists": [
+        {
+          "name": "Christian French",
+          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
+        }
+      ],
+      "duration_ms": 137508,
+      "name": "Meet Me At Our Spot",
+      "url": "https://open.spotify.com/track/36d4GIYKnTr37URimc6FSP"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 255126,
-      "name": "Castle On The Hill - Recorded at Sound Stage Nashville",
-      "url": "https://open.spotify.com/track/71R7NckyIlOd8fJzoZIJfR"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Live At Electric Lady",
         "url": "https://open.spotify.com/album/7vDxMTFqAcV8dqaieKLL9T"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 228827,
       "name": "August - Recorded At Electric Lady Studios",
       "url": "https://open.spotify.com/track/4c3YUioV69ajOtvgjYgIE4"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 255126,
+      "name": "Castle On The Hill - Recorded at Sound Stage Nashville",
+      "url": "https://open.spotify.com/track/71R7NckyIlOd8fJzoZIJfR"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1240,6 +1240,22 @@
       "added_at": "2023-08-04 04:01:00",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 191444,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT"
       },
       "artists": [
@@ -1267,22 +1283,6 @@
       "duration_ms": 167907,
       "name": "bad guy - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/66wi6NRfwsula1n68bJEod"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 191444,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Bye Bye Bye (From the Original Motion Picture \"Red Rocket\")",
-        "url": "https://open.spotify.com/album/65K0DheoPi4EpcvGEY6Zrd"
-      },
-      "artists": [
-        {
-          "name": "Suzanna Son",
-          "url": "https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A"
-        }
-      ],
-      "duration_ms": 127400,
-      "name": "Bye Bye Bye - From the Original Motion Picture \"Red Rocket\"",
-      "url": "https://open.spotify.com/track/44ZhV7lxFuEdQaGEW31T8I"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/79OPMp6YweXMi4whs0eJIV"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 167933,
       "name": "Everybody Wants To Rule The World",
       "url": "https://open.spotify.com/track/3lAzdfubFCfgrmSPUWBh4b"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Bye Bye Bye (From the Original Motion Picture \"Red Rocket\")",
+        "url": "https://open.spotify.com/album/65K0DheoPi4EpcvGEY6Zrd"
+      },
+      "artists": [
+        {
+          "name": "Suzanna Son",
+          "url": "https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A"
+        }
+      ],
+      "duration_ms": 127400,
+      "name": "Bye Bye Bye - From the Original Motion Picture \"Red Rocket\"",
+      "url": "https://open.spotify.com/track/44ZhV7lxFuEdQaGEW31T8I"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "All You Need Is Love",
-        "url": "https://open.spotify.com/album/0yLJMIgyF3luW7T884EOGR"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 206138,
-      "name": "All You Need Is Love",
-      "url": "https://open.spotify.com/track/4yyHCYD1ZmeIXEEbvLjCqh"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25"
       },
@@ -1791,18 +1775,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0Innco4HcewIE6ClCLB9kS"
+        "name": "All You Need Is Love",
+        "url": "https://open.spotify.com/album/0yLJMIgyF3luW7T884EOGR"
       },
       "artists": [
         {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 236334,
-      "name": "Halo - Spotify Singles",
-      "url": "https://open.spotify.com/track/42RzrKAGLgCzRmUtYeQuRQ"
+      "duration_ms": 206138,
+      "name": "All You Need Is Love",
+      "url": "https://open.spotify.com/track/4yyHCYD1ZmeIXEEbvLjCqh"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1823,6 +1807,22 @@
       "duration_ms": 319680,
       "name": "Just (feat. Phantom Planet)",
       "url": "https://open.spotify.com/track/341zzm98KLs7O1GGjErHzO"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0Innco4HcewIE6ClCLB9kS"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 236334,
+      "name": "Halo - Spotify Singles",
+      "url": "https://open.spotify.com/track/42RzrKAGLgCzRmUtYeQuRQ"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -2179,22 +2179,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "All Time Low",
-        "url": "https://open.spotify.com/album/2GyHk1x9vUtHeMpY9BJJny"
-      },
-      "artists": [
-        {
-          "name": "Carol Ades",
-          "url": "https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr"
-        }
-      ],
-      "duration_ms": 184441,
-      "name": "All Time Low",
-      "url": "https://open.spotify.com/track/1gdHStHolMnxLdUx5EKjsK"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "The Salcombe Sessions, Vol. 1",
         "url": "https://open.spotify.com/album/3h94Q7lxR7AK5wtuDAMkDf"
       },
@@ -2207,6 +2191,22 @@
       "duration_ms": 299280,
       "name": "Chiquitita",
       "url": "https://open.spotify.com/track/6Rr5SuUGeiD79iHfOtudXi"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "All Time Low",
+        "url": "https://open.spotify.com/album/2GyHk1x9vUtHeMpY9BJJny"
+      },
+      "artists": [
+        {
+          "name": "Carol Ades",
+          "url": "https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr"
+        }
+      ],
+      "duration_ms": 184441,
+      "name": "All Time Low",
+      "url": "https://open.spotify.com/track/1gdHStHolMnxLdUx5EKjsK"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Yellow",
-        "url": "https://open.spotify.com/album/5TPgXIw23OhumnoXjl7o81"
-      },
-      "artists": [
-        {
-          "name": "Ward Thomas",
-          "url": "https://open.spotify.com/artist/0xBhUB0EfzvchYnaIWkdBw"
-        }
-      ],
-      "duration_ms": 179333,
-      "name": "Yellow",
-      "url": "https://open.spotify.com/track/2BGPjTcB5KQBEuAeTzNJhC"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/6Q3yJG9z24SwouL3qsZkOm"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 252716,
       "name": "Believe",
       "url": "https://open.spotify.com/track/5U8frcz1zLfKDX5sDTpsnV"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/5TPgXIw23OhumnoXjl7o81"
+      },
+      "artists": [
+        {
+          "name": "Ward Thomas",
+          "url": "https://open.spotify.com/artist/0xBhUB0EfzvchYnaIWkdBw"
+        }
+      ],
+      "duration_ms": 179333,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/2BGPjTcB5KQBEuAeTzNJhC"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -2403,22 +2403,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Nothing Compares 2 U",
-        "url": "https://open.spotify.com/album/237lAdghHVsaFBpkOa7uoP"
-      },
-      "artists": [
-        {
-          "name": "COSIMA",
-          "url": "https://open.spotify.com/artist/2BccVcXzmwMB2b2mDEPuQH"
-        }
-      ],
-      "duration_ms": 259866,
-      "name": "Nothing Compares 2 U",
-      "url": "https://open.spotify.com/track/0m0Tv8qRoePqoWmU2Py5Gk"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Before You Go",
         "url": "https://open.spotify.com/album/3SewgCi6w47DDbwSZvZnyq"
       },
@@ -2431,6 +2415,22 @@
       "duration_ms": 233865,
       "name": "Before You Go",
       "url": "https://open.spotify.com/track/2TNAiE0HUKBVR4jckoN5YE"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Nothing Compares 2 U",
+        "url": "https://open.spotify.com/album/237lAdghHVsaFBpkOa7uoP"
+      },
+      "artists": [
+        {
+          "name": "COSIMA",
+          "url": "https://open.spotify.com/artist/2BccVcXzmwMB2b2mDEPuQH"
+        }
+      ],
+      "duration_ms": 259866,
+      "name": "Nothing Compares 2 U",
+      "url": "https://open.spotify.com/track/0m0Tv8qRoePqoWmU2Py5Gk"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -2627,6 +2627,26 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "Broken Glass, Vol. 5",
+        "url": "https://open.spotify.com/album/1GNtlaf1suRPWz351bNiVc"
+      },
+      "artists": [
+        {
+          "name": "Goodwerks",
+          "url": "https://open.spotify.com/artist/1xoy2fP09MR6o1FW3jzCyM"
+        },
+        {
+          "name": "morgxn",
+          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
+        }
+      ],
+      "duration_ms": 214933,
+      "name": "One Of Us",
+      "url": "https://open.spotify.com/track/5CqrCMMhS8QzBfzks0vel8"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "Landslide",
         "url": "https://open.spotify.com/album/6IqV86UKrnvcXmN7TKucPa"
       },
@@ -2655,26 +2675,6 @@
       "duration_ms": 187428,
       "name": "Call Your Girlfriend",
       "url": "https://open.spotify.com/track/1P0h5mzonDDnntjobrHJsw"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Broken Glass, Vol. 5",
-        "url": "https://open.spotify.com/album/1GNtlaf1suRPWz351bNiVc"
-      },
-      "artists": [
-        {
-          "name": "Goodwerks",
-          "url": "https://open.spotify.com/artist/1xoy2fP09MR6o1FW3jzCyM"
-        },
-        {
-          "name": "morgxn",
-          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
-        }
-      ],
-      "duration_ms": 214933,
-      "name": "One Of Us",
-      "url": "https://open.spotify.com/track/5CqrCMMhS8QzBfzks0vel8"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -2727,22 +2727,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Miss Independent / Adorn",
-        "url": "https://open.spotify.com/album/1xbCdCoAV0vFtfnFRsHlfI"
-      },
-      "artists": [
-        {
-          "name": "Torri Weidinger",
-          "url": "https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM"
-        }
-      ],
-      "duration_ms": 181860,
-      "name": "Miss Independent",
-      "url": "https://open.spotify.com/track/12x7PoOlGISTE8a2yfGeKQ"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Can't Get You Out Of My Head",
         "url": "https://open.spotify.com/album/4dUf9aiNvwqVLQIhjGebto"
       },
@@ -2759,6 +2743,22 @@
       "duration_ms": 209560,
       "name": "Can't Get You Out Of My Head",
       "url": "https://open.spotify.com/track/1oaXPKmEw2VS2ZlYvbSN14"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Miss Independent / Adorn",
+        "url": "https://open.spotify.com/album/1xbCdCoAV0vFtfnFRsHlfI"
+      },
+      "artists": [
+        {
+          "name": "Torri Weidinger",
+          "url": "https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM"
+        }
+      ],
+      "duration_ms": 181860,
+      "name": "Miss Independent",
+      "url": "https://open.spotify.com/track/12x7PoOlGISTE8a2yfGeKQ"
     }
   ],
   "unique_name": "Pop Covers",

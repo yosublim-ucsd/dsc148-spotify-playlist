@@ -1,12 +1,12 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 156999,
+  "num_followers": 157062,
   "original_name": "Gaming Malandro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZWQ1MDIzYjJkODMwMjFlYjBkNTJmOGFmZTJlOTA1M2E2NmYwMzFl",
+  "snapshot_id": "MCwyMDVkYTA3MDI5NzZmZGYwYTA1OTdlNzBjMjA4OWZjY2JjNzVmZTk1",
   "tracks": [
     {
       "added_at": "2023-07-28 20:09:33",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-07-28 20:09:33",
       "album": {
+        "name": "Mala Fama, Buena Vidha",
+        "url": "https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 263453,
+      "name": "Me Voy a Poner Bien Loco",
+      "url": "https://open.spotify.com/track/4xbNMe4G2amgUB6tntDw6c"
+    },
+    {
+      "added_at": "2023-07-28 20:09:33",
+      "album": {
         "name": "Toretto (FAST X / Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4YHGjIgKtP3QKRA11AhfJ1"
       },
@@ -895,22 +911,6 @@
     {
       "added_at": "2023-07-28 20:09:33",
       "album": {
-        "name": "Mala Fama, Buena Vidha",
-        "url": "https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 263453,
-      "name": "Me Voy a Poner Bien Loco",
-      "url": "https://open.spotify.com/track/4xbNMe4G2amgUB6tntDw6c"
-    },
-    {
-      "added_at": "2023-07-28 20:09:33",
-      "album": {
         "name": "Clasificacion C Vol.1",
         "url": "https://open.spotify.com/album/6vPMTvNEFkY9V7nxFgxjHZ"
       },
@@ -923,62 +923,6 @@
       "duration_ms": 228092,
       "name": "Un Par De Balas",
       "url": "https://open.spotify.com/track/3f04ysVYLQoaKFHLHjezws"
-    },
-    {
-      "added_at": "2023-07-28 20:09:33",
-      "album": {
-        "name": "No Te Metas",
-        "url": "https://open.spotify.com/album/5MHhCvivczCfxuhItlYgbS"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Millonario",
-          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
-        }
-      ],
-      "duration_ms": 219452,
-      "name": "No Te Metas",
-      "url": "https://open.spotify.com/track/341IhTrfJQujky7ovX3hlV"
-    },
-    {
-      "added_at": "2023-07-28 20:09:33",
-      "album": {
-        "name": "Vaya Vaya",
-        "url": "https://open.spotify.com/album/26r1WFenx1zV0HT28AwLaE"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 185236,
-      "name": "Vaya Vaya",
-      "url": "https://open.spotify.com/track/2kTYr1MEn7lzybRudQpmWx"
-    },
-    {
-      "added_at": "2023-07-28 20:09:33",
-      "album": {
-        "name": "T\u00edo Rico",
-        "url": "https://open.spotify.com/album/5tEe1EwA2IOzNrYiy2eFT6"
-      },
-      "artists": [
-        {
-          "name": "Millonario",
-          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
-        },
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 200116,
-      "name": "T\u00edo Rico",
-      "url": "https://open.spotify.com/track/34tjVFScQh1ppmiAYGGq32"
     },
     {
       "added_at": "2023-07-28 20:09:33",
@@ -1019,6 +963,62 @@
       "duration_ms": 240000,
       "name": "Liga Malandra 2",
       "url": "https://open.spotify.com/track/0cthSQfXnR3JOCOg0CfX0B"
+    },
+    {
+      "added_at": "2023-07-28 20:09:33",
+      "album": {
+        "name": "Vaya Vaya",
+        "url": "https://open.spotify.com/album/26r1WFenx1zV0HT28AwLaE"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 185236,
+      "name": "Vaya Vaya",
+      "url": "https://open.spotify.com/track/2kTYr1MEn7lzybRudQpmWx"
+    },
+    {
+      "added_at": "2023-07-28 20:09:33",
+      "album": {
+        "name": "T\u00edo Rico",
+        "url": "https://open.spotify.com/album/5tEe1EwA2IOzNrYiy2eFT6"
+      },
+      "artists": [
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 200116,
+      "name": "T\u00edo Rico",
+      "url": "https://open.spotify.com/track/34tjVFScQh1ppmiAYGGq32"
+    },
+    {
+      "added_at": "2023-07-28 20:09:33",
+      "album": {
+        "name": "No Te Metas",
+        "url": "https://open.spotify.com/album/5MHhCvivczCfxuhItlYgbS"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        }
+      ],
+      "duration_ms": 219452,
+      "name": "No Te Metas",
+      "url": "https://open.spotify.com/track/341IhTrfJQujky7ovX3hlV"
     },
     {
       "added_at": "2023-07-28 20:09:33",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2023-07-28 20:09:33",
       "album": {
+        "name": "Qui\u00e9n?",
+        "url": "https://open.spotify.com/album/0cmu883YDLBaMS0H9LY7Dy"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        }
+      ],
+      "duration_ms": 226560,
+      "name": "Qui\u00e9n?",
+      "url": "https://open.spotify.com/track/5hqitjTCDMgyZFgED53rkk"
+    },
+    {
+      "added_at": "2023-07-28 20:09:33",
+      "album": {
         "name": "High Con Class XIII",
         "url": "https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 252533,
       "name": "La Feria Drogas y Muerte",
       "url": "https://open.spotify.com/track/3J1aXbNrnGsSmgIJ5Q5zzN"
-    },
-    {
-      "added_at": "2023-07-28 20:09:33",
-      "album": {
-        "name": "Qui\u00e9n?",
-        "url": "https://open.spotify.com/album/0cmu883YDLBaMS0H9LY7Dy"
-      },
-      "artists": [
-        {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
-        }
-      ],
-      "duration_ms": 226560,
-      "name": "Qui\u00e9n?",
-      "url": "https://open.spotify.com/track/5hqitjTCDMgyZFgED53rkk"
     },
     {
       "added_at": "2023-07-28 20:09:33",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2023-07-28 20:09:33",
       "album": {
-        "name": "Pandillero Pero Millonario (feat. Santa Fe Klan)",
-        "url": "https://open.spotify.com/album/2KLvSqqH6CC1Ka9Tks0HgP"
-      },
-      "artists": [
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 243999,
-      "name": "Pandillero Pero Millonario (feat. Santa Fe Klan)",
-      "url": "https://open.spotify.com/track/3AiQx9X4ZJIsd4h7vE7zDx"
-    },
-    {
-      "added_at": "2023-07-28 20:09:33",
-      "album": {
         "name": "B\u00c9LICO",
         "url": "https://open.spotify.com/album/4o8vodKZQFyHtS6sYuiFtd"
       },
@@ -1651,6 +1631,26 @@
       "duration_ms": 206726,
       "name": "16 Toneladas",
       "url": "https://open.spotify.com/track/2zbrhonzYrXKiUbVx2czQt"
+    },
+    {
+      "added_at": "2023-07-28 20:09:33",
+      "album": {
+        "name": "Pandillero Pero Millonario (feat. Santa Fe Klan)",
+        "url": "https://open.spotify.com/album/2KLvSqqH6CC1Ka9Tks0HgP"
+      },
+      "artists": [
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 243999,
+      "name": "Pandillero Pero Millonario (feat. Santa Fe Klan)",
+      "url": "https://open.spotify.com/track/3AiQx9X4ZJIsd4h7vE7zDx"
     },
     {
       "added_at": "2023-07-28 20:09:33",

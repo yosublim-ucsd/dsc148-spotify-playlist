@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ntl47Kk60U.md) - [plain]
 
 > Tara and Darcy's mixtape\. Watch <a href="https://open.spotify.com/playlist/37i9dQZF1DX5KARSfd7WcM?si=990a337ebd6d4033">Heartstopper</a> now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,853 likes - 53 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,062 likes - 53 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ntl47Kk60U.md) - [plain]
 | 52 | [Girlfriends](https://open.spotify.com/track/0n2uzZUl6xBnS43QdT9LEr) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Tales from the Backseat](https://open.spotify.com/album/2ppqtyOwx9WJKXcMZObqv5) | 3:31 |
 | 53 | [I'll Call You Mine](https://open.spotify.com/track/6rYgEHuyhO064Lgj48qlIe) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:21 |
 
-Snapshot ID: `MCwzMzE2NDBiMTg1NmYxZTM1YTNlNTU3ZmYyNzc2OGRkYzM1Yjc0YTQ4`
+Snapshot ID: `MCwzYTkzZjZlMGY4MDUwODNiZWZjZWI4ZWU4NTNkYmRjMTI1NjIwMGQw`

@@ -2,9 +2,9 @@
 
 ### [sped up songs \(2\)](https://open.spotify.com/playlist/6r8hObcpBOeuCd7Zua3L5E)
 
-> Sped up songs from TikTok and around the internet.
+> Sped up songs on TikTok and around the internet\. Sped up versions\. Sped up audio\. Speed audio\. Speed audios\. Speed up songs\. Sped up TikTok audios\. Sped up TikTok audios 2023\. Nightcore\. Sped up nightcore\. Sped up nightcore versions\. Sped up nightcore audio\. Sped up nightcore audios TikTok 2023.
 
-160 songs - 8 hr 5 min
+161 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,8 @@
 | [Need \(with xxtristanxo & Speed Radio\) \(Sped Up\)](https://open.spotify.com/track/4B0DqbySyGD2dd0aYvZsnW) | [keltiey](https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr), [Speed Radio](https://open.spotify.com/artist/7lbOsvk3lUWYry0Kjzsj5V) | [Need \(with xxtristanxo & Speed Radio\) \(Sped Up\)](https://open.spotify.com/album/61yM7Zm86YVD9YUSBV831d) | 2:27 | 2023-02-27 |  |
 | [Never Say Never](https://open.spotify.com/track/5GYbkDveRD2I8M5ZJ14hWn) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [Never Say Never \- The Remixes](https://open.spotify.com/album/0wZJCeyfJ0LVrrtH4CwQYw) | 3:47 | 2020-03-31 | 2022-07-19 |
 | [nina \(sped up\)](https://open.spotify.com/track/0OvIG0LWT4Wu21PR5plYL8) | [4everd4nny](https://open.spotify.com/artist/5ycCQZx5Go6Hqcg1iHzsdu) | [nina](https://open.spotify.com/album/45XlVtRzkFnM59zSqj5Mfi) | 1:15 | 2022-07-18 | 2022-09-09 |
-| [No Sl33p](https://open.spotify.com/track/6i6whmV36EJmxs5zFahMrb) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 1:28 | 2022-07-18 |  |
+| [No Sl33p](https://open.spotify.com/track/6i6whmV36EJmxs5zFahMrb) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 1:28 | 2022-07-18 | 2023-08-10 |
+| [Nobody's Fool \- Sped Up](https://open.spotify.com/track/07LyOmQhFBQ8MTkRmWnmN3) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx), [uSpeed](https://open.spotify.com/artist/2tyWogtdcjhf97qWzjom5l) | [Nobody's Fool \(Sped Up\)](https://open.spotify.com/album/3uMLK47Tufw3SC94YAIFqA) | 3:14 | 2023-08-09 |  |
 | [Oh Shooter \- Sped\-Up](https://open.spotify.com/track/6XabSQM86Cf7FJdHGtvGiZ) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [A Beautiful World \(Sped Up\)](https://open.spotify.com/album/3flFNpjOD2zLeQZyYoZnPD) | 3:41 | 2023-05-02 |  |
 | [Over \- Sped Up](https://open.spotify.com/track/3JycZFWWQGXkTTJQ6CoNFy) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Over \(Sped Up\)](https://open.spotify.com/album/5Y2tMLWU1OuAS7MYOKORJy) | 2:50 | 2022-07-18 | 2023-03-31 |
 | [Party In The U.S.A.](https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives](https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS) | 3:22 | 2020-03-31 | 2022-07-19 |

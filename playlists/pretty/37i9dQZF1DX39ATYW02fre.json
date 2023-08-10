@@ -1,12 +1,12 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 133307,
+  "num_followers": 133461,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTQ5NGZlM2ZiMDBlYTA2NDhmZWQ2MzJiMGFkNmNhYTAwZWNiNzhk",
+  "snapshot_id": "MCw4MzI3MWNmMWRhODNmOWI2ZTgwNjNjMDliZWM4YTkwMTFmOWM0ZDgw",
   "tracks": [
     {
       "added_at": "2022-11-25 16:48:26",
@@ -265,7 +265,7 @@
         }
       ],
       "duration_ms": 183230,
-      "name": "Me (Heavy)",
+      "name": "Me (heavy)",
       "url": "https://open.spotify.com/track/3MhbnxA1JnksiATu9xyB2c"
     },
     {
@@ -401,7 +401,7 @@
         }
       ],
       "duration_ms": 250291,
-      "name": "Faisal (Envelops Me)",
+      "name": "Faisal (envelops me)",
       "url": "https://open.spotify.com/track/1uyQNwG1sFl7etjFTEHlQp"
     },
     {
@@ -681,7 +681,7 @@
         }
       ],
       "duration_ms": 187125,
-      "name": "Lydia (Please Make It Better)",
+      "name": "Lydia (please make it better)",
       "url": "https://open.spotify.com/track/04yl0gqAhDRZe3MLAncaiD"
     },
     {
@@ -759,18 +759,22 @@
     {
       "added_at": "2022-11-25 16:48:26",
       "album": {
-        "name": "Seeds in Sand",
-        "url": "https://open.spotify.com/album/4IZtfkdzACIDkdBXq6N5vH"
+        "name": "Loom",
+        "url": "https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM"
       },
       "artists": [
         {
-          "name": "Elder Island",
-          "url": "https://open.spotify.com/artist/3EnbnmqrrvApHJs6FMvYik"
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 262650,
-      "name": "Bamboo",
-      "url": "https://open.spotify.com/track/1vZIfej2urUYkVkgwh0O7t"
+      "duration_ms": 226866,
+      "name": "Loom (feat. Bonobo)",
+      "url": "https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i"
     },
     {
       "added_at": "2022-11-25 16:48:26",
@@ -791,22 +795,18 @@
     {
       "added_at": "2022-11-25 16:48:26",
       "album": {
-        "name": "Loom",
-        "url": "https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM"
+        "name": "Seeds in Sand",
+        "url": "https://open.spotify.com/album/4IZtfkdzACIDkdBXq6N5vH"
       },
       "artists": [
         {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        },
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+          "name": "Elder Island",
+          "url": "https://open.spotify.com/artist/3EnbnmqrrvApHJs6FMvYik"
         }
       ],
-      "duration_ms": 226866,
-      "name": "Loom (feat. Bonobo)",
-      "url": "https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i"
+      "duration_ms": 262650,
+      "name": "Bamboo",
+      "url": "https://open.spotify.com/track/1vZIfej2urUYkVkgwh0O7t"
     },
     {
       "added_at": "2022-11-25 16:48:26",
@@ -867,22 +867,18 @@
     {
       "added_at": "2022-11-25 16:48:26",
       "album": {
-        "name": "Dark",
-        "url": "https://open.spotify.com/album/1y30DpERmej6O4v9wOYYla"
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/7g8PeQGSlZUlWCr3heIJJb"
       },
       "artists": [
         {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "Bruno Major",
-          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+          "name": "Bicep",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
         }
       ],
-      "duration_ms": 233009,
-      "name": "Dreaming (feat. Bruno Major)",
-      "url": "https://open.spotify.com/track/6S9f7k7SeqwkId3qaALw0r"
+      "duration_ms": 352945,
+      "name": "Atlas",
+      "url": "https://open.spotify.com/track/664jBL8NgKFYdiMK9bnCcz"
     }
   ],
   "unique_name": "Melantronic",

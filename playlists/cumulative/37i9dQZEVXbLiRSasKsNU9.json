@@ -25911,6 +25911,24 @@
     },
     {
       "album": {
+        "name": "ROMANT\u0130K",
+        "url": "https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137270,
+      "name": "ROMANT\u0130K",
+      "url": "https://open.spotify.com/track/3730z7N28rvWW4PpSXR7PY"
+    },
+    {
+      "album": {
         "name": "Ron Artest",
         "url": "https://open.spotify.com/album/0RagVxXFPT0sjyuev19HQJ"
       },
@@ -32120,7 +32138,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 219724,
       "name": "vampire",
       "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"

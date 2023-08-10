@@ -2961,6 +2961,28 @@
     },
     {
       "album": {
+        "name": "City of Gold",
+        "url": "https://open.spotify.com/album/3LAherx4Gg7LCOWQo25lBK"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227995,
+      "name": "Next Rodeo",
+      "url": "https://open.spotify.com/track/38uAxYKtMPSDry2jYOjOzr"
+    },
+    {
+      "album": {
         "name": "Next Rodeo",
         "url": "https://open.spotify.com/album/16EbppchFpI68fnD8Q6kY8"
       },
@@ -2976,7 +2998,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 227995,
       "name": "Next Rodeo",
       "url": "https://open.spotify.com/track/5HQlgyXOgo6vyYo4VsVlXw"

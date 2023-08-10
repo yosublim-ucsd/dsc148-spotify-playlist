@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXa2ShUct1Fm.md) - [plain]
 
 > Say the name, Seventeen! Carats, get ready to slip into the diamond life with your 13 shining diamonds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 761,523 likes - 154 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 762,015 likes - 154 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SHINGIRU](https://open.spotify.com/track/5uxn6it5JD9J4p9MDmgaTU) | [JOSHUA](https://open.spotify.com/artist/4ZsnF3kaoNUuBhCyYJEJi8), [HOSHI](https://open.spotify.com/artist/1m6CwgW2I5I5M6v7dHqe4t) | [Bro & Marble OST Part.2](https://open.spotify.com/album/6AwjTTvGsAnSLhf4HTAAMr) | 3:08 |
+| 1 | [SHINGIRU](https://open.spotify.com/track/5uxn6it5JD9J4p9MDmgaTU) | [JOSHUA \(SEVENTEEN\)](https://open.spotify.com/artist/74AwWFYdjQ3ER5vHO4H7b0), [HOSHI \(SEVENTEEN\)](https://open.spotify.com/artist/0CirULnSy7gBlIuRvOqanc) | [Bro & Marble OST Part.2](https://open.spotify.com/album/6AwjTTvGsAnSLhf4HTAAMr) | 3:08 |
 | 2 | [Super](https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 10th Mini Album 'FML'](https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I) | 3:20 |
 | 3 | [F\*ck My Life](https://open.spotify.com/track/3tgWMPOY4stCdKYj5NjrAe) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 10th Mini Album 'FML'](https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I) | 3:22 |
 | 4 | [Fire](https://open.spotify.com/track/2hqn75Y9fEzL0qPoPRXCvX) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 10th Mini Album 'FML'](https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I) | 2:38 |
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXa2ShUct1Fm.md) - [plain]
 | 153 | [Miracle](https://open.spotify.com/track/0YLLRbbpq3Qte4rszcddMk) | [WOOZI](https://open.spotify.com/artist/4TdiASPlU3QdZvGQBothcQ) | [The Tale Of Nokdu \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1ocOn4sgfTUE2QiuPDC2Sm) | 3:38 |
 | 154 | [Lotto \(feat.Don Mills\) \(Prod\. by Gonzo\)](https://open.spotify.com/track/1Jg92FCIcH6fcAl30QZfZi) | [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG), [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn) | [Lotto](https://open.spotify.com/album/2QVaWXBBQMxUQBADLgGLIV) | 3:25 |
 
-Snapshot ID: `MCwwYTRhMjAyN2I0ZGRhNzgyNTk4ZmNjNDgwMjNjMjdmY2JiZjQxNDI3`
+Snapshot ID: `MCxlOGFiZGVjNzE5YWQyNjZlMjc3ZmYzZWZhYWE4NmJkMjZjZDNhNGFl`

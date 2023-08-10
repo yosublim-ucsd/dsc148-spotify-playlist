@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-630 songs - 1 day 8 hr 10 min
+631 songs - 1 day 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -435,7 +435,7 @@
 | [Passing Clouds](https://open.spotify.com/track/3jCTivI1jcDKREf1KKbhM6) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Passing Clouds](https://open.spotify.com/album/06WTLNXbFeMrujjCJ0CT8P) | 2:32 | 2022-11-11 | 2023-06-18 |
 | [Perfect Strangers](https://open.spotify.com/track/1Te8WIfLudxjHTr66BL0JK) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Perfect Strangers](https://open.spotify.com/album/3unvtEoEI6Ga2FMKotI20p) | 3:16 | 2022-04-01 | 2022-04-19 |
 | [Photograph](https://open.spotify.com/track/2bq2Ipl9FvcHHoQlPBPFPw) | [Kid On The Block](https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH), [Fini](https://open.spotify.com/artist/6ar3PBCFiFgb4aBlFqUZyx) | [Photograph](https://open.spotify.com/album/67NJrGFImrOr9joaz0GZXG) | 2:54 | 2022-09-23 | 2023-01-14 |
-| [Place to Go](https://open.spotify.com/track/65yDkqOYwfkeIQYl8ayAGE) | [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu), [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio) | [Place to Go](https://open.spotify.com/album/2GPq2njeplRF9QnuASHO98) | 3:03 | 2022-05-13 |  |
+| [Place to Go](https://open.spotify.com/track/65yDkqOYwfkeIQYl8ayAGE) | [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu), [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio) | [Place to Go](https://open.spotify.com/album/2GPq2njeplRF9QnuASHO98) | 3:03 | 2022-05-13 | 2023-08-10 |
 | [Praise You \(Chill Mix\) \- Extended Mix](https://open.spotify.com/track/4MQH3f29tWW0P0DE6SgOlb) | [King Topher](https://open.spotify.com/artist/2qPxiZiD34NtmokWN6RoP2), [Michael Meaco](https://open.spotify.com/artist/3k9TFkTMa17cpLQLGKxQXV) | [Praise You](https://open.spotify.com/album/0bbF23nbT2Dexsuiok1Yro) | 3:21 | 2022-01-14 | 2022-05-29 |
 | [Probably Paradise](https://open.spotify.com/track/3ASJqw6Ih1vz1s44j7cPyS) | [Luvine](https://open.spotify.com/artist/4mxVvkFC2mmOJ5QXBdRSDy), [Lisa Rowe](https://open.spotify.com/artist/4WCciDwAfaLXtcH4yjfaDq) | [Probably Paradise](https://open.spotify.com/album/1XPGR76SriABi9I1b794RV) | 2:03 | 2022-06-17 |  |
 | [Problems](https://open.spotify.com/track/3GlJE0D0d8TsmcDLaCpVCq) | [Guille Alvarez](https://open.spotify.com/artist/4fe5ql9g8VB9jiBy37SuLY) | [Problems](https://open.spotify.com/album/1tPnmiEsktiEAVMjruALtI) | 2:37 | 2022-08-12 | 2023-06-17 |
@@ -469,6 +469,7 @@
 | [Running Out \- Samuraii Remix](https://open.spotify.com/track/3bu38wOOaBOOf4OYi23R6a) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Samuraii](https://open.spotify.com/artist/2yNQvjEbPVQzceNCU1L2AO) | [Running Out Remix EP](https://open.spotify.com/album/4JbiALxW6KGF20S8kfGJD2) | 2:54 | 2022-01-14 | 2022-04-21 |
 | [Running Up That Hill](https://open.spotify.com/track/0FEdfD2exlmizDE6z2uAoh) | [Skye Holland](https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy), [Steve Kroeger](https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om) | [Running Up That Hill](https://open.spotify.com/album/4GA1fKDesvFoR4afbdpeFj) | 4:16 | 2022-07-08 | 2022-10-20 |
 | [Running Up That Hill](https://open.spotify.com/track/2S7BMKDtnEv1FlGhvSTmoD) | [Skye Holland](https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy), [Steve Kroeger](https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om) | [Running Up That Hill](https://open.spotify.com/album/5WK2Fkq0tgZYyuE4iESU5n) | 4:16 | 2022-10-28 |  |
+| [Sabaii](https://open.spotify.com/track/4m4IFDTc5XVx7XY356pAFI) | [Deep Chills](https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP), [Five Corners](https://open.spotify.com/artist/76OQydrjsFbNZy1wZkMgYy), [Natty Rico](https://open.spotify.com/artist/4XjCsLo0E4017wblpE9BDL) | [Sabaii](https://open.spotify.com/album/3xX617nnbugYqd0XFUdi9J) | 2:23 | 2023-08-04 |  |
 | [Safe and Sound \- Radio Edit](https://open.spotify.com/track/340sV0G2e1h5jWsMyDRmc9) | [NLSN](https://open.spotify.com/artist/7vO5wbzI9RdVYlOGFL2ofk), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq) | [Safe and Sound \(Radio Edit\)](https://open.spotify.com/album/28AKutXX5V1KwEJHWSyDRL) | 3:01 | 2022-01-14 | 2022-04-09 |
 | [Safe Place](https://open.spotify.com/track/6u4UWP0u9zBpyoNoDlE3jH) | [Weisser Quiff](https://open.spotify.com/artist/5sWo77aB32PpzTAhZfQBQy), [Moise](https://open.spotify.com/artist/1QMWPzIxcd1bLmuOyM6XM1) | [Safe Place](https://open.spotify.com/album/1pYpvMrJ5s9oO9T6cGKXKt) | 2:11 | 2023-05-26 |  |
 | [Saint Louis](https://open.spotify.com/track/6TPU5TjNTQSj9Mm1Uq2AhE) | [Joachim Pastor](https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Saint Louis](https://open.spotify.com/album/7bluYrSCKPO89yVbd79cFa) | 4:30 | 2022-01-14 | 2023-06-28 |

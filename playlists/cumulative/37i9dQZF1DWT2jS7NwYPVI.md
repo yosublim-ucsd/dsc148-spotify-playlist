@@ -4,7 +4,7 @@
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Teenage Wrist
 
-1,679 songs - 3 day 16 hr 12 min
+1,680 songs - 3 day 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1033,7 +1033,8 @@
 | [NOCTURNAL](https://open.spotify.com/track/0cGRxex1Zgi7NW9yeDa5PQ) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nocturnal](https://open.spotify.com/album/6kbFVipGkUglf9eerXBlN3) | 2:46 | 2022-07-01 | 2022-09-17 |
 | [Nootmare \(K\-I\-L\-L\-I\-n\-G\) Meow!](https://open.spotify.com/track/1WJ89XTcsVjmG4phHMRWFM) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Nootmare \(K\-I\-L\-L\-I\-n\-G\) Meow!](https://open.spotify.com/album/1pj7hmoQMPdQVfBG5MrfhN) | 3:32 | 2023-05-19 | 2023-06-24 |
 | [Normalize](https://open.spotify.com/track/6JPSFBLbPDHijTwrUtMhwA) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Normalize](https://open.spotify.com/album/2OcYtSpeR9ZbYp2hKklfEc) | 4:19 | 2023-06-30 | 2023-07-22 |
-| [Norwegian Wood](https://open.spotify.com/track/0hqwO626QOUFYQjuKSkgOJ) | [Picture Parlour](https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV) | [Norwegian Wood](https://open.spotify.com/album/7awWgs9eg9Us5jQg4nm5Ck) | 3:34 | 2023-06-23 |  |
+| [Norwegian Wood](https://open.spotify.com/track/0hqwO626QOUFYQjuKSkgOJ) | [Picture Parlour](https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV) | [Norwegian Wood](https://open.spotify.com/album/7awWgs9eg9Us5jQg4nm5Ck) | 3:34 | 2023-06-23 | 2023-08-10 |
+| [Norwegian Wood](https://open.spotify.com/track/50Wusuhe7GBuOr5xGZlyGe) | [Picture Parlour](https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV) | [Norwegian Wood](https://open.spotify.com/album/4vXzCKpcnI930OU3QNCOLW) | 3:34 | 2023-08-04 |  |
 | [Not Afraid](https://open.spotify.com/track/1f8ZnfsP7Q4yazdcfEN2XK) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Not Afraid](https://open.spotify.com/album/6x3eMbLCQXQQmYraRYTGaL) | 3:14 | 2022-09-16 | 2022-11-12 |
 | [Not Alone](https://open.spotify.com/track/3Vg9LKQkkZP7gvrL4yFy0y) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Ride Or Die](https://open.spotify.com/album/3HAOHVDqAh5CyxGVye4G15) | 2:46 | 2023-03-31 | 2023-05-13 |
 | [Not Joking](https://open.spotify.com/track/5UrwXORPNlSUuR0SemqM3O) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [You Are Who You Hang Out With](https://open.spotify.com/album/5ti35p8028PSksErKRW415) | 3:18 | 2023-08-04 |  |

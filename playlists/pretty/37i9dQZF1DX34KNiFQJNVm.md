@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem IZA, Luan Santana, Jorge & Mateus, Chefin, Juliette e Marina Sena e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,902,251 likes - 99 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,902,395 likes - 99 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 98 | [SUA](https://open.spotify.com/track/1vi62AyFOImrw7doQhMCR4) | [Nina Maia](https://open.spotify.com/artist/1wiX27yg0NyiJYwftya0yy) | [SUA](https://open.spotify.com/album/3kNDFZzPM9LgJRr7cuDIq8) | 3:22 |
 | 99 | [Xícara](https://open.spotify.com/track/5089QL4ZmWBLyHdL4YWOra) | [Guilherme Castel](https://open.spotify.com/artist/13EnZwFsY0CxXKiEsAIOpX) | [Xícara](https://open.spotify.com/album/3Oy0KAhfLaKzJGQeNVtmhX) | 2:31 |
 
-Snapshot ID: `MCw0MDYxMGY2MTk0MjA2NmI3MTFkNTI4YjU3OGUxM2Q3MTE4NjVhODk3`
+Snapshot ID: `MCw3M2VhODhkZThkNGY3M2VkZDQ0MmYwMzUwZTc1NTdlMWQ5ZDg3MTYx`

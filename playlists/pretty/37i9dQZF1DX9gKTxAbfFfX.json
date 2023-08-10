@@ -1,12 +1,12 @@
 {
   "description": "Tu banda sonora de este verano. Foto: Myke Towers",
-  "num_followers": 719364,
+  "num_followers": 719820,
   "original_name": "Verano 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjQ2YWFhZDBiNmQ3MWRiM2VmMWU1MzllOTlhNjZjODViYjkzZjJh",
+  "snapshot_id": "MCwxOGQ0MWY3YzM1ODQ2OWE1ZTY3MWE1NDgzMGUyZjdiMDYzNTA5MzVl",
   "tracks": [
     {
       "added_at": "2023-08-07 16:46:25",
@@ -947,18 +947,22 @@
     {
       "added_at": "2023-08-07 16:46:25",
       "album": {
-        "name": "Cupido",
-        "url": "https://open.spotify.com/album/3j0DrBixQhCQCucPr8hC13"
+        "name": "Esta Vida",
+        "url": "https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL"
       },
       "artists": [
         {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         }
       ],
-      "duration_ms": 174369,
-      "name": "Cupido",
-      "url": "https://open.spotify.com/track/2xVcCDRgG3TrH69TatsUxp"
+      "duration_ms": 209135,
+      "name": "Esta Vida",
+      "url": "https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC"
     },
     {
       "added_at": "2023-08-07 16:46:25",
@@ -979,22 +983,18 @@
     {
       "added_at": "2023-08-07 16:46:25",
       "album": {
-        "name": "Esta Vida",
-        "url": "https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL"
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/3j0DrBixQhCQCucPr8hC13"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
         }
       ],
-      "duration_ms": 209135,
-      "name": "Esta Vida",
-      "url": "https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC"
+      "duration_ms": 174369,
+      "name": "Cupido",
+      "url": "https://open.spotify.com/track/2xVcCDRgG3TrH69TatsUxp"
     },
     {
       "added_at": "2023-08-07 16:46:25",
@@ -1152,9 +1152,9 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Ens\u00e9\u00f1ame a Bailar",
-      "url": "https://open.spotify.com/track/2NMjggapJcXXM7WccGEBUO"
+      "duration_ms": 139041,
+      "name": "Agosto",
+      "url": "https://open.spotify.com/track/0wihfILRNOwE2156Shezc8"
     },
     {
       "added_at": "2023-08-07 16:46:25",
@@ -1268,9 +1268,9 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 139041,
-      "name": "Agosto",
-      "url": "https://open.spotify.com/track/0wihfILRNOwE2156Shezc8"
+      "duration_ms": 176000,
+      "name": "Ens\u00e9\u00f1ame a Bailar",
+      "url": "https://open.spotify.com/track/2NMjggapJcXXM7WccGEBUO"
     },
     {
       "added_at": "2023-08-07 16:46:25",
@@ -1499,26 +1499,6 @@
     {
       "added_at": "2023-08-07 16:46:25",
       "album": {
-        "name": "Antes",
-        "url": "https://open.spotify.com/album/0ISa5lIjmXXaQ9bNQXJe6s"
-      },
-      "artists": [
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        },
-        {
-          "name": "Edu Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4Gr4Wo60IdAOBJLYgRZytK"
-        }
-      ],
-      "duration_ms": 153684,
-      "name": "Antes",
-      "url": "https://open.spotify.com/track/7bfFmlLJ1LKr2E3AUsvq5P"
-    },
-    {
-      "added_at": "2023-08-07 16:46:25",
-      "album": {
         "name": "MALA SANTA",
         "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
       },
@@ -1555,6 +1535,26 @@
       "duration_ms": 342612,
       "name": "Jerusalema (feat. Nomcebo Zikode)",
       "url": "https://open.spotify.com/track/2MlOUXmcofMackX3bxfSwi"
+    },
+    {
+      "added_at": "2023-08-07 16:46:25",
+      "album": {
+        "name": "Antes",
+        "url": "https://open.spotify.com/album/0ISa5lIjmXXaQ9bNQXJe6s"
+      },
+      "artists": [
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        },
+        {
+          "name": "Edu Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4Gr4Wo60IdAOBJLYgRZytK"
+        }
+      ],
+      "duration_ms": 153684,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/7bfFmlLJ1LKr2E3AUsvq5P"
     },
     {
       "added_at": "2023-08-07 16:46:25",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-08-07 16:46:25",
       "album": {
-        "name": "LA VIDA ES UNA",
-        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 163240,
-      "name": "MI DROGA",
-      "url": "https://open.spotify.com/track/5OYRVKWII0Eog7CjQRnmGf"
-    },
-    {
-      "added_at": "2023-08-07 16:46:25",
-      "album": {
         "name": "The Last Don",
         "url": "https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 212413,
       "name": "Dale Don Dale",
       "url": "https://open.spotify.com/track/1PZrHbJjt5t7dP9OGRxcD0"
+    },
+    {
+      "added_at": "2023-08-07 16:46:25",
+      "album": {
+        "name": "LA VIDA ES UNA",
+        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 163240,
+      "name": "MI DROGA",
+      "url": "https://open.spotify.com/track/5OYRVKWII0Eog7CjQRnmGf"
     },
     {
       "added_at": "2023-08-07 16:46:25",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2023-08-07 16:46:25",
       "album": {
-        "name": "La Playa",
-        "url": "https://open.spotify.com/album/5PCQtgStgFE0UMZXd9YuYz"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 207731,
-      "name": "La Playa",
-      "url": "https://open.spotify.com/track/0jeS8PyyIRAG0A3t5DtL71"
-    },
-    {
-      "added_at": "2023-08-07 16:46:25",
-      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/0Aq33KpcbXrHkuyfMhEORI"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 231603,
       "name": "Loco",
       "url": "https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH"
+    },
+    {
+      "added_at": "2023-08-07 16:46:25",
+      "album": {
+        "name": "La Playa",
+        "url": "https://open.spotify.com/album/5PCQtgStgFE0UMZXd9YuYz"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 207731,
+      "name": "La Playa",
+      "url": "https://open.spotify.com/track/0jeS8PyyIRAG0A3t5DtL71"
     },
     {
       "added_at": "2023-08-07 16:46:25",

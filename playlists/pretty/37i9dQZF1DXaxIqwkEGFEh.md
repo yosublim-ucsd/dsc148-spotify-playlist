@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Gucci Mane
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,182,446 likes - 99 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,182,617 likes - 99 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 78 | [B'CUZ \(feat\. G Herbo\)](https://open.spotify.com/track/2HvORsttUMTfUqEyhX7z1x) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [B'CUZ \(feat\. G Herbo\)](https://open.spotify.com/album/2DTtyXTqV77kHcu20TDNyE) | 2:51 |
 | 79 | [Hot Boy \(feat\. Lil Baby\)](https://open.spotify.com/track/31yydnZnSeCwkRPY7tlgQJ) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Hot Boy \(feat\. Lil Baby\)](https://open.spotify.com/album/54h4yyqWQl5z0jKkiS07is) | 2:49 |
 | 80 | [I Heard](https://open.spotify.com/track/4s2SSnOOVF3FtgcxNx6fFk) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Richest Opp](https://open.spotify.com/album/1rBIdADJWSisiYXHRdw1v2) | 3:03 |
-| 81 | [Turn The Streets Up](https://open.spotify.com/track/3irk5ecKiBYSIB0350rH87) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Turn The Streets Up](https://open.spotify.com/album/4aCmTJ5xk0O2aVNvciRkoR) | 2:42 |
+| 81 | [TURN THE STREETS UP](https://open.spotify.com/track/3irk5ecKiBYSIB0350rH87) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Turn The Streets Up](https://open.spotify.com/album/4aCmTJ5xk0O2aVNvciRkoR) | 2:42 |
 | 82 | [Diamonds and Money feat\. BIG30](https://open.spotify.com/track/7uPIwSQxsytWHUkNTk1OEI) | [Big Homiie G](https://open.spotify.com/artist/3IG49Dhngr903hQWOFzmlh), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Speak Up G \(Deluxe\)](https://open.spotify.com/album/6ISSwp4yc7Ph1hxySe3DlZ) | 2:22 |
 | 83 | [WTF \(feat\. Polo G\) \- Remix](https://open.spotify.com/track/4Y43nu7MxbFOBJnZNfuruc) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [WTF \(feat\. Polo G\) \[Remix\]](https://open.spotify.com/album/6eb8NRWbiyJrn6chLPQokL) | 2:53 |
 | 84 | [Whole Nother League](https://open.spotify.com/track/42aR8AeISrUmz2g3uISrvb) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [Whole Nother League](https://open.spotify.com/album/247OXdx4UMTpuL2gi5hulJ) | 2:34 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 98 | [BALL LIKE ME TOO](https://open.spotify.com/track/2niJk9HZuWEBGPuR1aGYjy) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [MAD](https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k) | 2:38 |
 | 99 | [Hate It or Love It \(with DaBaby\)](https://open.spotify.com/track/1GyoJBAjrIkVkPdcl7yCn3) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Hate It or Love It \(with DaBaby\)](https://open.spotify.com/album/5ikRefLmkwyGl5UEVyQTCX) | 2:16 |
 
-Snapshot ID: `MCwxZjhmMWMzYjZiNTg4ZWQ0M2EzZDllMTQ1NzRlYjg0OGMzY2QwYjU3`
+Snapshot ID: `MCxlOWRjNWIxMGQ3YzliZTRiZThkNDk1NzgzM2Y4ZTA0MWEwZTY3MjA1`

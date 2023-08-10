@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 148024,
+  "num_followers": 148357,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTk4YmIzOWQ2ZGZkMzI2NWM4ZWJlMDUwZDg3NjQ1NWEyNzUwODdl",
+  "snapshot_id": "MCxlM2EzMjk3M2RkODlhNDNjNWI0ZWEyZmVlYmEzYjVjOGM2ZTFlY2Iz",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -527,30 +527,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Qu\u00edmico Amor",
-        "url": "https://open.spotify.com/album/7xT968dCMFNWkYxfT03kYJ"
-      },
-      "artists": [
-        {
-          "name": "FBC",
-          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
-        },
-        {
-          "name": "Pedro Senna",
-          "url": "https://open.spotify.com/artist/1VpBywbGRTON81xOXCreOu"
-        },
-        {
-          "name": "Ugo Ludovico",
-          "url": "https://open.spotify.com/artist/2TIQW6pADcKJb2rbgJqGKQ"
-        }
-      ],
-      "duration_ms": 250680,
-      "name": "Qu\u00edmico Amor",
-      "url": "https://open.spotify.com/track/3uJ8J19euzlMHBuobmIXbb"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Another Life (LP)",
         "url": "https://open.spotify.com/album/6l4UUXmkTxaVmZtUxkl9xw"
       },
@@ -563,22 +539,6 @@
       "duration_ms": 432080,
       "name": "Another Life - Original",
       "url": "https://open.spotify.com/track/6Yo813UNQqb04YoU1wYz5e"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT"
-      },
-      "artists": [
-        {
-          "name": "La Bionda",
-          "url": "https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i"
-        }
-      ],
-      "duration_ms": 214466,
-      "name": "One for You, One for Me",
-      "url": "https://open.spotify.com/track/6I12Vl7TiKpYckZaezSEui"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -599,6 +559,46 @@
       "duration_ms": 219140,
       "name": "Ma quale idea - Myd Remix (Radio Edit)",
       "url": "https://open.spotify.com/track/1G3jHsWf0F40SxCRQV6oxR"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT"
+      },
+      "artists": [
+        {
+          "name": "La Bionda",
+          "url": "https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i"
+        }
+      ],
+      "duration_ms": 214466,
+      "name": "One for You, One for Me",
+      "url": "https://open.spotify.com/track/6I12Vl7TiKpYckZaezSEui"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Qu\u00edmico Amor",
+        "url": "https://open.spotify.com/album/7xT968dCMFNWkYxfT03kYJ"
+      },
+      "artists": [
+        {
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        },
+        {
+          "name": "Pedro Senna",
+          "url": "https://open.spotify.com/artist/1VpBywbGRTON81xOXCreOu"
+        },
+        {
+          "name": "Ugo Ludovico",
+          "url": "https://open.spotify.com/artist/2TIQW6pADcKJb2rbgJqGKQ"
+        }
+      ],
+      "duration_ms": 250680,
+      "name": "Qu\u00edmico Amor",
+      "url": "https://open.spotify.com/track/3uJ8J19euzlMHBuobmIXbb"
     },
     {
       "added_at": "2023-07-28 04:01:00",

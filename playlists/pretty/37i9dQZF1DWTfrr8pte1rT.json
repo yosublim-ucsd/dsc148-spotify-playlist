@@ -1,12 +1,12 @@
 {
   "description": "Rock with a Drop. Cover: Rezz \\m/",
-  "num_followers": 312607,
+  "num_followers": 312689,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzhiYzg3YWI2NWIxNjRhMGI0ZDkwOTRhMGM4YzE4YjcyOTYyOTFm",
+  "snapshot_id": "MCxhMzc4NGRlYWZmZjI5NjQyZWE2ZWY4MjkzZmRlNzI2ZjI0YWUwYTg0",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Skull n Bones",
+        "url": "https://open.spotify.com/album/43bgv6mlkpZuxZMh2A8HtK"
+      },
+      "artists": [
+        {
+          "name": "Stileto",
+          "url": "https://open.spotify.com/artist/2iwUUr9Udu8z6L2ZJcYr6i"
+        }
+      ],
+      "duration_ms": 145116,
+      "name": "Skull n Bones",
+      "url": "https://open.spotify.com/track/1VpPYxtocucsD9iTyABevK"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "April Mixtape 3",
         "url": "https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 151232,
       "name": "It's A Dream (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/1fQxT1YDOBjgzMVf8WjZfi"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Skull n Bones",
-        "url": "https://open.spotify.com/album/43bgv6mlkpZuxZMh2A8HtK"
-      },
-      "artists": [
-        {
-          "name": "Stileto",
-          "url": "https://open.spotify.com/artist/2iwUUr9Udu8z6L2ZJcYr6i"
-        }
-      ],
-      "duration_ms": 145116,
-      "name": "Skull n Bones",
-      "url": "https://open.spotify.com/track/1VpPYxtocucsD9iTyABevK"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -671,26 +671,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Out Of Options (feat. midwxst)",
-        "url": "https://open.spotify.com/album/1wcJej04CsVq2oheKzXeDV"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
-        {
-          "name": "midwxst",
-          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "Out Of Options (feat. midwxst)",
-      "url": "https://open.spotify.com/track/4VJRH6rxf9BkGYUsadAXdN"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Sentiment",
         "url": "https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 202493,
       "name": "Emotion Sickness",
       "url": "https://open.spotify.com/track/5NWyhQjPTh37ygOq4UHYZk"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Out Of Options (feat. midwxst)",
+        "url": "https://open.spotify.com/album/1wcJej04CsVq2oheKzXeDV"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Out Of Options (feat. midwxst)",
+      "url": "https://open.spotify.com/track/4VJRH6rxf9BkGYUsadAXdN"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -771,6 +771,26 @@
       "duration_ms": 189721,
       "name": "Embers",
       "url": "https://open.spotify.com/track/1CXVrNWkpQ4dsSNOH43dJT"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Sentiment",
+        "url": "https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA"
+      },
+      "artists": [
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        }
+      ],
+      "duration_ms": 201076,
+      "name": "Go on Then, Love",
+      "url": "https://open.spotify.com/track/6yQAwPJmFn0OBTKWOnQFfv"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -847,26 +867,6 @@
       "duration_ms": 167343,
       "name": "My Name Is Thunder",
       "url": "https://open.spotify.com/track/3XXkwHcdDSx25VmH7Rq3rx"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Sentiment",
-        "url": "https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA"
-      },
-      "artists": [
-        {
-          "name": "Said The Sky",
-          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
-        },
-        {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
-        }
-      ],
-      "duration_ms": 201076,
-      "name": "Go on Then, Love",
-      "url": "https://open.spotify.com/track/6yQAwPJmFn0OBTKWOnQFfv"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1067,22 +1067,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Onyx",
-        "url": "https://open.spotify.com/album/7tWLBskvupaWXOWzfmiU97"
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
       },
       "artists": [
         {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+          "name": "Subshock & Evangelos",
+          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
         }
       ],
-      "duration_ms": 259401,
-      "name": "Our Fire",
-      "url": "https://open.spotify.com/track/2EgXhbQ9SliIgqWbB4JYHW"
+      "duration_ms": 171034,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1123,18 +1119,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
+        "name": "Onyx",
+        "url": "https://open.spotify.com/album/7tWLBskvupaWXOWzfmiU97"
       },
       "artists": [
         {
-          "name": "Subshock & Evangelos",
-          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
         }
       ],
-      "duration_ms": 171034,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
+      "duration_ms": 259401,
+      "name": "Our Fire",
+      "url": "https://open.spotify.com/track/2EgXhbQ9SliIgqWbB4JYHW"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1447,6 +1447,26 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "A Change of Perspective (Deluxe)",
+        "url": "https://open.spotify.com/album/0MjTA2onvTA3XzdyU64KpD"
+      },
+      "artists": [
+        {
+          "name": "Covex",
+          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
+        },
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 209454,
+      "name": "Regret - Remix",
+      "url": "https://open.spotify.com/track/3ga6vzCNgs6nPlbDy3xQlF"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Light Up The Sky (feat. Scott Stapp)",
         "url": "https://open.spotify.com/album/7IbNjX1uq9D7up01LHX0mw"
       },
@@ -1467,26 +1487,6 @@
       "duration_ms": 284425,
       "name": "Light Up The Sky (feat. Scott Stapp)",
       "url": "https://open.spotify.com/track/5ROUkE55LI83kG3ZRmAnum"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "A Change of Perspective (Deluxe)",
-        "url": "https://open.spotify.com/album/0MjTA2onvTA3XzdyU64KpD"
-      },
-      "artists": [
-        {
-          "name": "Covex",
-          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
-        },
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 209454,
-      "name": "Regret - Remix",
-      "url": "https://open.spotify.com/track/3ga6vzCNgs6nPlbDy3xQlF"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1571,26 +1571,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/1qV37llR1TT8BfnZAMVaAs"
-      },
-      "artists": [
-        {
-          "name": "Elephante",
-          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
-        },
-        {
-          "name": "SABAI",
-          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
-        }
-      ],
-      "duration_ms": 230344,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/1sWWOV3HQuvJ3N2z6dtu2W"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Ghost Story (with All Time Low)",
         "url": "https://open.spotify.com/album/2Jduh10Puwm4d0FG9XH37E"
       },
@@ -1627,6 +1607,26 @@
       "duration_ms": 250241,
       "name": "Baptize - Sullivan King Remix",
       "url": "https://open.spotify.com/track/2BapJncaYH9qOeNizjXv2Q"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/1qV37llR1TT8BfnZAMVaAs"
+      },
+      "artists": [
+        {
+          "name": "Elephante",
+          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
+        },
+        {
+          "name": "SABAI",
+          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
+        }
+      ],
+      "duration_ms": 230344,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/1sWWOV3HQuvJ3N2z6dtu2W"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/1V9nXTFcfUBCPq5hIGfoiU"
+      },
+      "artists": [
+        {
+          "name": "Mausio",
+          "url": "https://open.spotify.com/artist/5yzLRjAu6ni4Bb3fQDED2q"
+        }
+      ],
+      "duration_ms": 176142,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/2ekhJNuxeoQ9Q84dFtknP7"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "The Dead March",
         "url": "https://open.spotify.com/album/3FpZzHO2jDXRjMX2C9bxNU"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 162356,
       "name": "The Dead March",
       "url": "https://open.spotify.com/track/0eabdClGMPVwX7gJ8ilNke"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Love Song",
-        "url": "https://open.spotify.com/album/1V9nXTFcfUBCPq5hIGfoiU"
-      },
-      "artists": [
-        {
-          "name": "Mausio",
-          "url": "https://open.spotify.com/artist/5yzLRjAu6ni4Bb3fQDED2q"
-        }
-      ],
-      "duration_ms": 176142,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/2ekhJNuxeoQ9Q84dFtknP7"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1883,6 +1883,26 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Eyes Wide Shut",
+        "url": "https://open.spotify.com/album/7pzzpWlSKjUoJm4cFCNynm"
+      },
+      "artists": [
+        {
+          "name": "PhaseOne",
+          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
+        },
+        {
+          "name": "Void Of Vision",
+          "url": "https://open.spotify.com/artist/7bpJe59fkklnlfHPxCMvF1"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "Eyes Wide Shut",
+      "url": "https://open.spotify.com/track/68AtIcLB6l2fs7o0zDS0KX"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "demolition (Ruined by Glass Petals)",
         "url": "https://open.spotify.com/album/5CN8SCIeJGzrG8efIbfjgo"
       },
@@ -1903,26 +1923,6 @@
       "duration_ms": 226440,
       "name": "demolition (Ruined by Glass Petals)",
       "url": "https://open.spotify.com/track/5ylMA5GG8VDjcYUGts2QNt"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Eyes Wide Shut",
-        "url": "https://open.spotify.com/album/7pzzpWlSKjUoJm4cFCNynm"
-      },
-      "artists": [
-        {
-          "name": "PhaseOne",
-          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
-        },
-        {
-          "name": "Void Of Vision",
-          "url": "https://open.spotify.com/artist/7bpJe59fkklnlfHPxCMvF1"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "Eyes Wide Shut",
-      "url": "https://open.spotify.com/track/68AtIcLB6l2fs7o0zDS0KX"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2215,26 +2215,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "you\u2019ve changed, i\u2019ve changed",
-        "url": "https://open.spotify.com/album/0yQkeAjjUjK8RXDgnzLkOu"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
-        {
-          "name": "Chet Porter",
-          "url": "https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb"
-        }
-      ],
-      "duration_ms": 311625,
-      "name": "you\u2019ve changed, i\u2019ve changed",
-      "url": "https://open.spotify.com/track/5GQpKsz2Gn2PwbPIwHlRqv"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "die 4 u",
         "url": "https://open.spotify.com/album/12gAShAjb88fw6HOgyxRr8"
       },
@@ -2259,26 +2239,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Kill The Machine (feat. Bad/Love)",
-        "url": "https://open.spotify.com/album/7e10DqzsnP6wu5FJJmAZJi"
+        "name": "you\u2019ve changed, i\u2019ve changed",
+        "url": "https://open.spotify.com/album/0yQkeAjjUjK8RXDgnzLkOu"
       },
       "artists": [
         {
-          "name": "Lucille Croft",
-          "url": "https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy"
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
         },
         {
-          "name": "Bad/Love",
-          "url": "https://open.spotify.com/artist/0lJyKe4CxWOeYOV4dbAFkZ"
-        },
-        {
-          "name": "TMRRW",
-          "url": "https://open.spotify.com/artist/2T5c5IrQGkNGuQNOVJSU9y"
+          "name": "Chet Porter",
+          "url": "https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb"
         }
       ],
-      "duration_ms": 195720,
-      "name": "Kill The Machine (feat. Bad/Love)",
-      "url": "https://open.spotify.com/track/0AkxZb3XkSOdLghm6EB7p2"
+      "duration_ms": 311625,
+      "name": "you\u2019ve changed, i\u2019ve changed",
+      "url": "https://open.spotify.com/track/5GQpKsz2Gn2PwbPIwHlRqv"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2299,6 +2275,30 @@
       "duration_ms": 240044,
       "name": "Superhuman (with K.Flay)",
       "url": "https://open.spotify.com/track/0rWQ4sqTFJoPdIXDahOUPX"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Kill The Machine (feat. Bad/Love)",
+        "url": "https://open.spotify.com/album/7e10DqzsnP6wu5FJJmAZJi"
+      },
+      "artists": [
+        {
+          "name": "Lucille Croft",
+          "url": "https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy"
+        },
+        {
+          "name": "Bad/Love",
+          "url": "https://open.spotify.com/artist/0lJyKe4CxWOeYOV4dbAFkZ"
+        },
+        {
+          "name": "TMRRW",
+          "url": "https://open.spotify.com/artist/2T5c5IrQGkNGuQNOVJSU9y"
+        }
+      ],
+      "duration_ms": 195720,
+      "name": "Kill The Machine (feat. Bad/Love)",
+      "url": "https://open.spotify.com/track/0AkxZb3XkSOdLghm6EB7p2"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2487,18 +2487,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Fade With Me",
-        "url": "https://open.spotify.com/album/2eOUEwRDCp9qIgydVJWKuA"
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/2GKdGnw3Dx57AKowih3rX9"
       },
       "artists": [
         {
-          "name": "Attack Attack!",
-          "url": "https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb"
+          "name": "if found",
+          "url": "https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK"
+        },
+        {
+          "name": "Becko",
+          "url": "https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU"
         }
       ],
-      "duration_ms": 214758,
-      "name": "Fade With Me",
-      "url": "https://open.spotify.com/track/5vZiKXW3FOg6gyLREhvs2a"
+      "duration_ms": 252800,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/5DwxMQKq0xc2MdeQOw5fCZ"
     }
   ],
   "unique_name": "Rocktronic",

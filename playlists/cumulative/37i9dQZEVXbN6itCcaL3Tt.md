@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Poland.
 
-1,269 songs - 2 day 17 hr 20 min
+1,270 songs - 2 day 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -707,7 +707,7 @@
 | [Mustang](https://open.spotify.com/track/0GVe9gwx3mvBCH4mGMCcXk) | [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o), [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Mustang](https://open.spotify.com/album/6bY7cyZf4Q9l0ZId7LYpxD) | 3:39 | 2023-03-25 | 2023-04-03 |
 | [Mutanci](https://open.spotify.com/track/0SEdBzLVbJ1ksE6XI4SKkp) | [Białas](https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE), [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd) | [Diamentowy Las](https://open.spotify.com/album/6g3muQtUCpAByNLWl4eFRs) | 2:29 | 2021-05-09 | 2021-05-14 |
 | [MVP](https://open.spotify.com/track/0tvy0ZLlvPXKTJMvDK0wjx) | [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [Young Igi](https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc), [Otsochodzi](https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB), [OIO](https://open.spotify.com/artist/5VnJPtvfHh4fPlHDzXjvLP), [CatchUp](https://open.spotify.com/artist/14M41VoNuxxvBXaigqZ9D9), [Sem0r](https://open.spotify.com/artist/5kKtBm0XgwJnI8oudcaupR), [Phunk'ill](https://open.spotify.com/artist/6jSShb0II1n6RNMCmqBSSM) | [OIO](https://open.spotify.com/album/17ogXGc4j4i2r7rwWea0KS) | 2:26 | 2021-05-09 | 2021-07-25 |
-| [MY EYES](https://open.spotify.com/track/4kjI1gwQZRKNDkw1nI475M) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:11 | 2023-07-29 |  |
+| [MY EYES](https://open.spotify.com/track/4kjI1gwQZRKNDkw1nI475M) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:11 | 2023-07-29 | 2023-08-10 |
 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 | 2021-03-27\* | 2021-03-30 |
 | [My Only Wish \(This Year\)](https://open.spotify.com/track/0YWUHZPJVg4iujddsJDwhM) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [My Only Wish \(This Year\)](https://open.spotify.com/album/3Hocp9QorapDRHSyZ1AOVL) | 4:15 | 2021-12-24 | 2022-12-27 |
 | [My Sister's Crown](https://open.spotify.com/track/59md7R7fW5LjSbZITzzn3n) | [Vesna](https://open.spotify.com/artist/44kmUe319y8RNgOU2deqX6) | [My Sister's Crown](https://open.spotify.com/album/6nF3kWl5zcDPLqEgxLTRJp) | 2:56 | 2023-05-15 | 2023-05-18 |
@@ -1009,6 +1009,7 @@
 | [SIRENS](https://open.spotify.com/track/7LSpFCvRZZot2AlmkUzy9k) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:24 | 2023-07-29 | 2023-08-02 |
 | [SIRI](https://open.spotify.com/track/1mv6ikv85FZASOPU6KUual) | [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [Gedz](https://open.spotify.com/artist/1MZ1TtfmzMHEYIlynXsr1a), [Magiera](https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso) | [77747mixtape](https://open.spotify.com/album/2YLYltRzvTJFKyDE7XVbjC) | 3:04 | 2021-09-12 | 2021-09-24 |
 | [SIĘ WJEŻDŻA](https://open.spotify.com/track/2yEWVnp65tTXSrRW03IqXs) | [WŁODAR](https://open.spotify.com/artist/1H8lEfbUpbcXWFqbW9BMro), [Pedro](https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT) | [SIĘ WJEŻDŻA](https://open.spotify.com/album/4gdA2bLBvDoTq5ymkn8rP0) | 2:01 | 2022-09-03 | 2023-02-14 |
+| [skanah](https://open.spotify.com/track/1rhXYfDVG8XqwjDZxJYICL) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [skanah](https://open.spotify.com/album/5De6Nf7St0KqRnDM7D0Z0K) | 4:00 | 2023-08-09 |  |
 | [Skandal](https://open.spotify.com/track/71VOLh56ayDdFV1GXQu7jQ) | [Sentino](https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0) | [Skandal](https://open.spotify.com/album/3edIEpRX4nmvxkIHzM3zVp) | 2:42 | 2023-03-17 | 2023-03-20 |
 | [Skit \(skit\)](https://open.spotify.com/track/0vcQZpthiccMvMlYv2YPzd) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [Młody Matczak](https://open.spotify.com/album/7vYR7oLh93zb38m880M8bd) | 1:00 | 2021-10-03 | 2021-10-06 |
 | [SKITZO](https://open.spotify.com/track/0bkV1iQHSxBaksUqgEkcbc) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 6:06 | 2023-07-29 | 2023-08-02 |

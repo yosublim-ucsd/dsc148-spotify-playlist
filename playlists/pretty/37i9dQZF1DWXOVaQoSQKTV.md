@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 
 > Get ready for the final season, nerds\. Listen to the music from Never Have I Ever, new episodes now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,924 likes - 186 songs - 11 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,014 likes - 186 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,7 +147,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 | 137 | [Roll With Me \(feat\. Shungudzo & ZieZie\)](https://open.spotify.com/track/5nsJclFXUIQajs8WJIkds7) | [Bantu](https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T), [ZieZie](https://open.spotify.com/artist/26XzvosH2cl8Re6KSo9m8Z) | [Roll With Me \(feat\. Shungudzo & ZieZie\)](https://open.spotify.com/album/20SORgtgHYtIn2xjpjXres) | 3:02 |
 | 138 | [Running \(Alternate\)](https://open.spotify.com/track/6UnoQ80757O28E2lQjE5Mi) | [girl named GOLDEN](https://open.spotify.com/artist/1QdEdpB8sfiCulNykJkeZf) | [Running B\-Sides](https://open.spotify.com/album/3IiG2Vq8iBS2u2FwiFoHbj) | 3:35 |
 | 139 | [The Other Side](https://open.spotify.com/track/2InpyoVZwkgb8kIPsT9HCG) | [French For Rabbits](https://open.spotify.com/artist/0g6VRF5TU1BM5FvK0yKyS2) | [Spirits](https://open.spotify.com/album/0DTmI8AV6gVRELVABD2Gl4) | 4:27 |
-| 140 | [Girlfriend](https://open.spotify.com/track/4SNREEuOURKbffglbF47yy) | [Dana Vaughns](https://open.spotify.com/artist/6t6MMOVuuyIWNUypPUkHdo) | [Love So Different](https://open.spotify.com/album/6luXQhVc6UGgByxfZWwBxD) | 2:26 |
+| 140 | [Girlfriend](https://open.spotify.com/track/3Ioy33oxOkq8A6YGxgK6j9) | [Dana Vaughns](https://open.spotify.com/artist/6t6MMOVuuyIWNUypPUkHdo) | [Love So Different](https://open.spotify.com/album/03PAcIcGukFeOg3m9ML9qS) | 2:26 |
 | 141 | [Calling The Shots](https://open.spotify.com/track/2dv3Of18YpkVgDqf8QjBBf) | [Jamie B.](https://open.spotify.com/artist/0V7j0A3N5hup0XNQVKYvrQ) | [Calling The Shots](https://open.spotify.com/album/1fNzwtLTfcbjzB5OOsHsHS) | 3:51 |
 | 142 | [You'll Probably Think This Song is About You](https://open.spotify.com/track/67X6qmt8l8QoBpOMk8P455) | [Hachiku](https://open.spotify.com/artist/5HfeTpsKxVyfweIfKsSvIT) | [I'll Probably Be Asleep](https://open.spotify.com/album/29uJCKCxDKcTLAOZeyFdn1) | 5:28 |
 | 143 | [Summer Love](https://open.spotify.com/track/0XB2QKZAcJgeoV87KyGt0Q) | [Hello Pongo](https://open.spotify.com/artist/4ZI2DGRuZXJhK4jNkRkbED) | [Summer Love](https://open.spotify.com/album/1dDDjHSxE2eB08gTrSpfx6) | 3:10 |
@@ -195,4 +195,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 | 185 | [Beautiful Day](https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g) | 4:06 |
 | 186 | [Boys Like You](https://open.spotify.com/track/2i8zKNkcMQMjztKdNQrYx4) | [Kids At Midnight](https://open.spotify.com/artist/0PUDa7NkXCsMPeFUPLdTAs) | [Boys Like You](https://open.spotify.com/album/10vIxKjxQTtnWc9cA3t4EH) | 3:50 |
 
-Snapshot ID: `MCxkZGIwM2E0NmQ2NWU0ZjY5NGI2OGU3MjdjNDVmMTU2MTc4YzZlYjJi`
+Snapshot ID: `MCwxMWY0NjBjYzYxZjg3MjY2ODlmZWI4YmEzMGRmOTU0Y2QyNmNjNWYy`

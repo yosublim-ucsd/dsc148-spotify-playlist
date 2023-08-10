@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 
 > New and classic Gospel songs to celebrate the Easter season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,894 likes - 100 songs - 9 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,889 likes - 100 songs - 9 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 28 | [Risen](https://open.spotify.com/track/3cJS8RMzPnNsr2Fp30Imwh) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [Covered: Alive In Asia \(Deluxe Version\)](https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb) | 5:38 |
 | 29 | [Speak the Name \(feat\. Natalie Grant\)](https://open.spotify.com/track/6ERUhKp4ECxlnmJvKQZpu1) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Unstoppable](https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang) | 4:52 |
 | 30 | [Waymaker \(Live\)](https://open.spotify.com/track/1cWzzfQCJWqhgaEVO2Ca4l) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Way Maker \(Live\)](https://open.spotify.com/album/2lE2XqhO7WNHcRVEfQMKOm) | 8:20 |
-| 31 | [Reckless Love](https://open.spotify.com/track/6LSqdwX4xUzP619oYIJMH9) | [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | [Road to DeMaskUs](https://open.spotify.com/album/6mLj2XS7RDNh9gyVxUSlT3) | 5:22 |
-| 32 | [You're Bigger](https://open.spotify.com/track/2J2f58QGLLvGgW3ct21HSD) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [The Life Project](https://open.spotify.com/album/2lcz20I84GFNbynt1xMUxL) | 7:26 |
+| 31 | [You're Bigger](https://open.spotify.com/track/2J2f58QGLLvGgW3ct21HSD) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [The Life Project](https://open.spotify.com/album/2lcz20I84GFNbynt1xMUxL) | 7:26 |
+| 32 | [Reckless Love](https://open.spotify.com/track/6LSqdwX4xUzP619oYIJMH9) | [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | [Road to DeMaskUs](https://open.spotify.com/album/6mLj2XS7RDNh9gyVxUSlT3) | 5:22 |
 | 33 | [Blood is Still the Blood \(feat\. Chandler Moore, Nicole Binion, Ryan Ofei\)](https://open.spotify.com/track/4W4F7oBnGoSBGXQYpnQDGc) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Nicole Binion](https://open.spotify.com/artist/76cq2MDAYfh7dhiFr4Zt4e), [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [Jubilee](https://open.spotify.com/album/2buPx1ebGCwCnxiX0RoJfD) | 10:03 |
 | 34 | [I Surrender All](https://open.spotify.com/track/266BT78ZQsmaTzeB5CwhKa) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN) | [Arise](https://open.spotify.com/album/1cwl8uoycWw4fFMKMV0VEc) | 6:41 |
 | 35 | [A Great Work](https://open.spotify.com/track/54PHTV8sTaZqYDLsLAmLDG) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx) | [A Great Work](https://open.spotify.com/album/6WL4I0vQ7siPfkjtHbABhp) | 6:45 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 47 | [O the Blood](https://open.spotify.com/track/0aqTVmskHk09WdNrzSJYV3) | [New Jersey Mass Choir](https://open.spotify.com/artist/4zId8t69FVytHfVhxFRXEH) | [Hold Up The Light](https://open.spotify.com/album/2dVkAZ7KTYEevQNW9HGZ78) | 4:46 |
 | 48 | [Endow Me](https://open.spotify.com/track/6BvbwCuCVobHdwOn7I6Orw) | [Coko](https://open.spotify.com/artist/5tdfMErqfwoDib2Pq3n2z5), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [Lil' Mo](https://open.spotify.com/artist/5wBDD4FNJvob5fAGkAIQ92), [Fantasia](https://open.spotify.com/artist/34v40muZVGZG8g0t05ioRf) | [Always Coko](https://open.spotify.com/album/51lawLjXQsEkVIjv61zTHe) | 6:56 |
 | 49 | [Release \- Live/Edit](https://open.spotify.com/track/70mAuybPl9xCCmCRkubv6E) | [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM), [Tiff Joy](https://open.spotify.com/artist/5BZU9FuwmQoyYg3OQMMiv9) | [Choirmaster](https://open.spotify.com/album/5rKcQHUtvVkawYalUN2IMR) | 4:03 |
-| 50 | [They Didn't Know](https://open.spotify.com/track/1P8pSziECPmbA1Yd1k2ZY7) | [Kurt Carr](https://open.spotify.com/artist/3HPpUSemwpvcLFn5RBvUwH) | [One Church](https://open.spotify.com/album/7BfKk5DYFFWM1m8lcmFAok) | 6:39 |
-| 51 | [Jesus Is the Answer](https://open.spotify.com/track/6sXB1ObEFi5nCrncPp4uxO) | [Andrae Crouch](https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7) | [Classics Vol\. 1](https://open.spotify.com/album/6XLI4B9L9q2wL9oUKLqzrE) | 5:03 |
+| 50 | [Jesus Is the Answer](https://open.spotify.com/track/6sXB1ObEFi5nCrncPp4uxO) | [Andrae Crouch](https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7) | [Classics Vol\. 1](https://open.spotify.com/album/6XLI4B9L9q2wL9oUKLqzrE) | 5:03 |
+| 51 | [They Didn't Know](https://open.spotify.com/track/1P8pSziECPmbA1Yd1k2ZY7) | [Kurt Carr](https://open.spotify.com/artist/3HPpUSemwpvcLFn5RBvUwH) | [One Church](https://open.spotify.com/album/7BfKk5DYFFWM1m8lcmFAok) | 6:39 |
 | 52 | [Redeemer](https://open.spotify.com/track/43yNBaEEwBhGGS0yJJaK2V) | [Karima](https://open.spotify.com/artist/55xDuhefd7WGiIXDhN8hOE) | [Redeemer](https://open.spotify.com/album/4nMk16S67GzM7jsA2HnwHs) | 5:17 |
 | 53 | [Always Jesus](https://open.spotify.com/track/4aGRQYEtZySJ5KRnBU6Yfn) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6) | [Tunnel Vision](https://open.spotify.com/album/36OUmfH7fvxdjJL1Zhkr8v) | 3:57 |
 | 54 | [Jesus I Love You \(Live\)](https://open.spotify.com/track/4hLaRpyVQwU3g1VggcSxPw) | [The Brooklyn Tabernacle Choir](https://open.spotify.com/artist/4eDpQV93UILljVxohKoLUs), [Robin Giles](https://open.spotify.com/artist/0gt7HlBDU64IOmHCo5IUn5) | [Live..\. This Is Your House](https://open.spotify.com/album/0lnscqAVc3mOhZcbrR0UPU) | 6:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 99 | [Cherish The Cross](https://open.spotify.com/track/7BranHqbktqdiojkd0r07A) | [Rev\. James Moore](https://open.spotify.com/artist/2r7fA3DrMO5JXl3uoOLkaN) | [Live In Detroit \(Live\)](https://open.spotify.com/album/0uKzIXtrSUvzRCFHSOv1vv) | 7:30 |
 | 100 | [Just As I Am](https://open.spotify.com/track/6T9cKNsIuOE3p0mTVgZlIX) | [Wanda Nero Butler](https://open.spotify.com/artist/45G4MMIPUIxPDWLDhuVzY9), [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Wanda Nero Butler & Yolanda Adams](https://open.spotify.com/album/2Cl4KsxZsmtURyKzXBDSL4) | 3:40 |
 
-Snapshot ID: `MCxhMDRmYWNkOGE1NDJmZDEyNDc4MGRhM2FjMzAyOTU3ZDNmZGRmYWNl`
+Snapshot ID: `MCw5YTEzNTZmMmRmYWQwMWZlMTYxMDBlZTA1NjRkNzFmYjk5OGMxMWY4`

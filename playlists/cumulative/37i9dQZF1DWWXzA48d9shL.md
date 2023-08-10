@@ -4,7 +4,7 @@
 
 > The home of dark trap\. Rap from hell\. Cover: do not resurrect
 
-487 songs - 19 hr 10 min
+488 songs - 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,7 +380,8 @@
 | [Scorn](https://open.spotify.com/track/5raxeWh926F2Drzx1C0zlF) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [Scorn](https://open.spotify.com/album/061VEDp0eD05Bcmk1hLE1r) | 2:48 | 2022-05-20 | 2022-05-28 |
 | [SDWM](https://open.spotify.com/track/0pdXlLvB5I5ocWIb05Fvru) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [SDWM](https://open.spotify.com/album/0R9anNsw1AHGkk4whhbX5y) | 2:37 | 2022-01-14 | 2022-02-12 |
 | [Seven Figure Habits](https://open.spotify.com/track/5WKB45JKMnJf7dGZeofEbV) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx) | [Seven Figure Habits](https://open.spotify.com/album/2JTr8Vom3Jfp6Izw4CIJcv) | 2:40 | 2022-04-01 | 2022-05-17 |
-| [Shake That Ass](https://open.spotify.com/track/7uSVDZbd31rkmt3NbZSQoq) | [Kiraw](https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4), [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN) | [Shake That Ass](https://open.spotify.com/album/57bkVZVGXfWcWutucTg46R) | 2:09 | 2023-03-24 |  |
+| [Shake That Ass](https://open.spotify.com/track/3vCINLfNtP1UtvmYnbE6GG) | [Kiraw](https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4), [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN) | [Shake That Ass](https://open.spotify.com/album/7A9yXBWnW4a95h5ZDZdoht) | 2:09 | 2023-03-24 |  |
+| [Shake That Ass](https://open.spotify.com/track/7uSVDZbd31rkmt3NbZSQoq) | [Kiraw](https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4), [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN) | [Shake That Ass](https://open.spotify.com/album/57bkVZVGXfWcWutucTg46R) | 2:09 | 2023-03-24 | 2023-08-10 |
 | [SHAMELESS $UICIDE](https://open.spotify.com/track/1vjon7jtpF5usLV2CVxtsw) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB) | [SHAMELESS $UICIDE](https://open.spotify.com/album/2Ogn4iWeeSPzxJJNW1HC6M) | 4:03 | 2023-02-24 | 2023-04-15 |
 | [Shameless Gorillas](https://open.spotify.com/track/3NcddNuY18lGMBadg5el1o) | [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB), [Ramirez](https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2), [Mikey The Magician](https://open.spotify.com/artist/7MmolAHKbrszXiOaS47Bwn) | [Shameless Gorillas](https://open.spotify.com/album/0tS27KQ3MNHtwGFefHYwXy) | 1:50 | 2022-03-04 | 2022-06-04 |
 | [SHAPESHIFT](https://open.spotify.com/track/7IXa2xXhe46but5K0whqyc) | [Synsy](https://open.spotify.com/artist/0OlLU0DwJ0kdd6LS5sTi49) | [SHAPESHIFT](https://open.spotify.com/album/1L7FuX7r4Mn81tIgwhrlhq) | 1:41 | 2022-05-20 | 2022-06-25 |

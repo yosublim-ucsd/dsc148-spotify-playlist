@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "$$$$",
+        "url": "https://open.spotify.com/album/0JcZZ5rceNRasPUJA3Zyvv"
+      },
+      "artists": [
+        {
+          "name": "Yeek",
+          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150730,
+      "name": "$$$$",
+      "url": "https://open.spotify.com/track/2qpaF08CjieNZtUU4DmfTi"
+    },
+    {
+      "album": {
         "name": "*sigh* Nevermind",
         "url": "https://open.spotify.com/album/0GZcu5Gt3CCy1bzUIXBjsD"
       },
@@ -63,6 +81,24 @@
     },
     {
       "album": {
+        "name": "crumbs in my bed",
+        "url": "https://open.spotify.com/album/4zw4swEirlhHxLrjm1gTGh"
+      },
+      "artists": [
+        {
+          "name": "Amie Blu",
+          "url": "https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147400,
+      "name": "9 lives",
+      "url": "https://open.spotify.com/track/0v3qc1Q0LFX9jN7xQWasII"
+    },
+    {
+      "album": {
         "name": "911",
         "url": "https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc"
       },
@@ -78,6 +114,28 @@
       "duration_ms": 172198,
       "name": "911",
       "url": "https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O"
+    },
+    {
+      "album": {
+        "name": "A Little Love",
+        "url": "https://open.spotify.com/album/6E1vE4WcIXDDNOPW4jPYff"
+      },
+      "artists": [
+        {
+          "name": "Julia Pratt",
+          "url": "https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8"
+        },
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201893,
+      "name": "A Little Love",
+      "url": "https://open.spotify.com/track/5k6L1lOs0AANCee7nYW2au"
     },
     {
       "album": {
@@ -204,6 +262,24 @@
       "duration_ms": 168982,
       "name": "Airforce blue",
       "url": "https://open.spotify.com/track/32wMbC70TXnOKBNaH7ogIC"
+    },
+    {
+      "album": {
+        "name": "Alive!",
+        "url": "https://open.spotify.com/album/0lvFKHiygKiwhKHNYPmRzn"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232133,
+      "name": "Alive!",
+      "url": "https://open.spotify.com/track/6KzI6EM1QYyOq5oudPlcWT"
     },
     {
       "album": {
@@ -956,7 +1032,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 161366,
       "name": "Cardboard Box",
       "url": "https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq"
@@ -974,7 +1050,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 199266,
       "name": "Carpenter",
       "url": "https://open.spotify.com/track/3ulMKoTyiJm8rabbfcXyif"
@@ -1086,6 +1162,24 @@
       "duration_ms": 179406,
       "name": "Chasing Ghosts",
       "url": "https://open.spotify.com/track/6fB74plQyGv3vsevsbxKPo"
+    },
+    {
+      "album": {
+        "name": "Cherry / Under The Sun",
+        "url": "https://open.spotify.com/album/4uw1DwCQSLtjaIkW3o858G"
+      },
+      "artists": [
+        {
+          "name": "SPELLLING",
+          "url": "https://open.spotify.com/artist/7rlAAAiWScpsT1hmgURAmh"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227560,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/1jE2HLAyvvZuBrP8yJhopE"
     },
     {
       "album": {
@@ -2275,6 +2369,24 @@
     },
     {
       "album": {
+        "name": "GO GO GO",
+        "url": "https://open.spotify.com/album/0AD4xVslP0qraEZQKQ5O3S"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145893,
+      "name": "GO GO GO",
+      "url": "https://open.spotify.com/track/7uiXg5Ec2teUAxhIEiD00N"
+    },
+    {
+      "album": {
         "name": "God Herself",
         "url": "https://open.spotify.com/album/4gD5t8iVHYQSNLPd43u58H"
       },
@@ -2340,7 +2452,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 190348,
       "name": "Good News",
       "url": "https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB"
@@ -2828,7 +2940,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 186032,
       "name": "hurt me enough",
       "url": "https://open.spotify.com/track/46VWMQxwA5cACMY28UlIPs"
@@ -2940,7 +3052,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 151533,
       "name": "i want, doesn't get",
       "url": "https://open.spotify.com/track/4vr76RfODI7nC2BqZQzDTf"
@@ -3304,7 +3416,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 142557,
       "name": "jm'en bas les couilles",
       "url": "https://open.spotify.com/track/4liOxDRHynaU7pAREKkH0A"
@@ -4619,6 +4731,24 @@
     },
     {
       "album": {
+        "name": "Purple Skies",
+        "url": "https://open.spotify.com/album/307ITAy6aD9dQQFjxSM5Mf"
+      },
+      "artists": [
+        {
+          "name": "Black Polish",
+          "url": "https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Purple Skies",
+      "url": "https://open.spotify.com/track/2HKsYLUAKgrdmjrB9re1Fq"
+    },
+    {
+      "album": {
         "name": "Ready When You Are",
         "url": "https://open.spotify.com/album/4yok1v8vTWpvPZS7RgcevU"
       },
@@ -4998,7 +5128,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 257142,
       "name": "Slide",
       "url": "https://open.spotify.com/track/1Z7zIkAvas6e3tKUSqDS4Z"
@@ -5779,6 +5909,24 @@
     },
     {
       "album": {
+        "name": "Tied Up!",
+        "url": "https://open.spotify.com/album/4n3Z6bRWaewBbgKOjx8NZD"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189840,
+      "name": "Tied Up!",
+      "url": "https://open.spotify.com/track/37ZUrbtzezZPvuDPsbjWAd"
+    },
+    {
+      "album": {
         "name": "Til The Morning",
         "url": "https://open.spotify.com/album/5Iedaq7J17gvFEATBmfLOC"
       },
@@ -6322,7 +6470,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 165500,
       "name": "Would It Kill Ya",
       "url": "https://open.spotify.com/track/3KeqB89usi14NMN0QZ1GkZ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres que la rompen feat\. Paz Court.<br/>Dales PLAY, dales POWER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,469 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,467 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 8 | [Niña](https://open.spotify.com/track/0pTBI1E5iFu247EtUA4Uu5) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [1940 Carmen](https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL) | 4:23 |
 | 9 | [Horas contigo](https://open.spotify.com/track/6Nmqg6NayPzIHUpWDGUSyL) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [AMOR MINIMAL](https://open.spotify.com/album/5tydxQ3vJc63ORNQQsH8Fq) | 2:39 |
 | 10 | [Nabundearé](https://open.spotify.com/track/53qZjbmjh3d3nbzxEzKOkF) | [Nicole Bunout](https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F) | [Crisálida](https://open.spotify.com/album/76XYjBKZrBuAj50Vyxpiur) | 2:55 |
-| 11 | [Amarte así](https://open.spotify.com/track/5Ux4iUz2HLUWWG7rVAbp3q) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Amarte así](https://open.spotify.com/album/1SgZr0SIPsnmptk29udjub) | 3:35 |
-| 12 | [Vivo imaginando cosas](https://open.spotify.com/track/1zojNwm9ZUOIRQc74WQuND) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Vivo imaginando cosas](https://open.spotify.com/album/5xgjARuucedrnidak56nWb) | 4:02 |
+| 11 | [Vivo imaginando cosas](https://open.spotify.com/track/1zojNwm9ZUOIRQc74WQuND) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Vivo imaginando cosas](https://open.spotify.com/album/5xgjARuucedrnidak56nWb) | 4:02 |
+| 12 | [Amarte así](https://open.spotify.com/track/5Ux4iUz2HLUWWG7rVAbp3q) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Amarte así](https://open.spotify.com/album/1SgZr0SIPsnmptk29udjub) | 3:35 |
 | 13 | [Divina](https://open.spotify.com/track/06WgKWhh02DQBtoHRy69dU) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Divina](https://open.spotify.com/album/5CyX6YevWHdid0U4XqGyYe) | 2:39 |
 | 14 | [BIG BANG](https://open.spotify.com/track/06xFmWwVcOUFy3RgmJWN6I) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANASTASIA](https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO) | 3:02 |
 | 15 | [ANTICUECA](https://open.spotify.com/track/4eLdTaWTE9qBjo4957vlQc) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [001](https://open.spotify.com/album/4hg1fV1YKWKPF3XUpO12z1) | 0:55 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 30 | [Te Fuiste](https://open.spotify.com/track/7lfZPghEhMddjiKmUUzjGf) | [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9) | [Te Fuiste](https://open.spotify.com/album/6iki406BxDxrFOXfaLVxHC) | 3:16 |
 | 31 | [mala idea](https://open.spotify.com/track/5ZSzF6bKMt057Uv4pSOHqY) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [mala idea](https://open.spotify.com/album/16ye3Pgj6dZgviuOtoR60Z) | 3:43 |
 | 32 | [Me Gustas](https://open.spotify.com/track/0eeVBQ80pEKWMxKIIuwjFc) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [Bestia](https://open.spotify.com/album/5MxhmYS9jmITi4mqz6FAX9) | 3:23 |
-| 33 | [Amante](https://open.spotify.com/track/258wxFPOG9Rc4UdB4u7TP2) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Casinaranja](https://open.spotify.com/album/3oS6bRaKUrgQ71Z65qp6uK) | 3:51 |
-| 34 | [Algo Real \- Acústico](https://open.spotify.com/track/3KFeZhnUFQTB34gh4kAtcw) | [Glo Herrera](https://open.spotify.com/artist/01Tt4JZxiEUvzPnOBNEG57), [Solosiberia](https://open.spotify.com/artist/0bmIdFgmr3BuMfWITJtpQ1) | [No Me Detiene \(Acústico\)](https://open.spotify.com/album/02apW9dWBnukLEN0w4JZHs) | 2:28 |
+| 33 | [Algo Real \- Acústico](https://open.spotify.com/track/3KFeZhnUFQTB34gh4kAtcw) | [Glo Herrera](https://open.spotify.com/artist/01Tt4JZxiEUvzPnOBNEG57), [Solosiberia](https://open.spotify.com/artist/0bmIdFgmr3BuMfWITJtpQ1) | [No Me Detiene \(Acústico\)](https://open.spotify.com/album/02apW9dWBnukLEN0w4JZHs) | 2:28 |
+| 34 | [Amante](https://open.spotify.com/track/258wxFPOG9Rc4UdB4u7TP2) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Casinaranja](https://open.spotify.com/album/3oS6bRaKUrgQ71Z65qp6uK) | 3:51 |
 | 35 | [Nostalgia](https://open.spotify.com/track/37xvyz3KXZraJAp9l4w3yS) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Nostalgia](https://open.spotify.com/album/28HDi1j2SfwmNDjVCxBAcw) | 3:22 |
 | 36 | [Pajarillo Negro](https://open.spotify.com/track/4DMhBxXwHcaY8C0Bv8PwFc) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [La Fuerza](https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld) | 4:00 |
 | 37 | [Rey secreto](https://open.spotify.com/track/1KG6D1n93vB5N79MncATlg) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Rey Secreto](https://open.spotify.com/album/0uvDf9ljskD5hI9XxvBIJI) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 49 | [Temores](https://open.spotify.com/track/7L2dPSItNwM0gJIovdNWWS) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Temores](https://open.spotify.com/album/5xiXFDgbaJhenJSuP5Rx2N) | 4:14 |
 | 50 | [Margarita](https://open.spotify.com/track/0mEj8Bj8CQnmNDzdxGhntx) | [CATAROH](https://open.spotify.com/artist/7G090Dm7RJ1lb7riAprrxq) | [Inamable](https://open.spotify.com/album/0wUXGXAL8piK9uq27upBt3) | 2:52 |
 
-Snapshot ID: `MCw1MTQwZjEwMTE3YzkyNzBjZjY5YzY0MmIzOTEwZTczYjNkYzdhMWZm`
+Snapshot ID: `MCxkNGYzN2I2NzYwYTAyNDU4ZWRiYzEyNDllMWI1OTQwMDk5M2FlZDA1`

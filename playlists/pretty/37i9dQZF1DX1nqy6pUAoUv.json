@@ -1,12 +1,12 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Rhiannon Giddens",
-  "num_followers": 180933,
+  "num_followers": 180957,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTY1Yjk1YTY0MzA5M2M5MTY0ZTIzMDNmMWZmZGYwZmQ0YjVlZGJi",
+  "snapshot_id": "MCxhZWFjMWYyMzg2M2YwNDY0MmVhNThhMGY1MTIxN2Y5YzM5YzA3ODE4",
   "tracks": [
     {
       "added_at": "2023-06-23 04:00:00",
@@ -759,18 +759,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Under the Pepper Tree",
-        "url": "https://open.spotify.com/album/3TXtmWk1jns96neZrOzZDc"
+        "name": "Nightflyer",
+        "url": "https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx"
       },
       "artists": [
         {
-          "name": "Sara Watkins",
-          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
         }
       ],
-      "duration_ms": 131248,
-      "name": "Night Singing",
-      "url": "https://open.spotify.com/track/6f249Hnx4ZO5Ioug2uS4r9"
+      "duration_ms": 295546,
+      "name": "Nightflyer",
+      "url": "https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -791,18 +791,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Nightflyer",
-        "url": "https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx"
+        "name": "Under the Pepper Tree",
+        "url": "https://open.spotify.com/album/3TXtmWk1jns96neZrOzZDc"
       },
       "artists": [
         {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+          "name": "Sara Watkins",
+          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
         }
       ],
-      "duration_ms": 295546,
-      "name": "Nightflyer",
-      "url": "https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN"
+      "duration_ms": 131248,
+      "name": "Night Singing",
+      "url": "https://open.spotify.com/track/6f249Hnx4ZO5Ioug2uS4r9"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "Pick Apart",
+        "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
+      },
+      "artists": [
+        {
+          "name": "Samantha Crain",
+          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
+        }
+      ],
+      "duration_ms": 199146,
+      "name": "Bloomsday",
+      "url": "https://open.spotify.com/track/3E32ScayKIBK9JYehnRek9"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "Bonny Light Horseman",
         "url": "https://open.spotify.com/album/0FDyqe94Dh9j7U1Xyf3d8G"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 260832,
       "name": "The Roving",
       "url": "https://open.spotify.com/track/43ilH6eTzMBBekPccApVfo"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Pick Apart",
-        "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
-      },
-      "artists": [
-        {
-          "name": "Samantha Crain",
-          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
-        }
-      ],
-      "duration_ms": 199146,
-      "name": "Bloomsday",
-      "url": "https://open.spotify.com/track/3E32ScayKIBK9JYehnRek9"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Vincent Neil Emerson",
-        "url": "https://open.spotify.com/album/17Ez3EXApQUrtqojPQvX6x"
-      },
-      "artists": [
-        {
-          "name": "Vincent Neil Emerson",
-          "url": "https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC"
-        }
-      ],
-      "duration_ms": 293240,
-      "name": "Learnin' to Drown",
-      "url": "https://open.spotify.com/track/0jdXNwaLrxoY8n4LHLeBKX"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Black Sun",
         "url": "https://open.spotify.com/album/6b7USoPQHOlfaelSrPPVo9"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 206634,
       "name": "Black Sun",
       "url": "https://open.spotify.com/track/63UtBlg0KZZYueVi6r8DQp"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Vincent Neil Emerson",
+        "url": "https://open.spotify.com/album/17Ez3EXApQUrtqojPQvX6x"
+      },
+      "artists": [
+        {
+          "name": "Vincent Neil Emerson",
+          "url": "https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC"
+        }
+      ],
+      "duration_ms": 293240,
+      "name": "Learnin' to Drown",
+      "url": "https://open.spotify.com/track/0jdXNwaLrxoY8n4LHLeBKX"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "The Capitalist Blues",
-        "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
-      },
-      "artists": [
-        {
-          "name": "Leyla McCalla",
-          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
-        }
-      ],
-      "duration_ms": 174640,
-      "name": "Money Is King",
-      "url": "https://open.spotify.com/track/0dOMCLcbrTbcqmIHsP3FW3"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Age of a Man",
         "url": "https://open.spotify.com/album/4YkgnuMVviUv1MMp6w5gaU"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 219253,
       "name": "Age of a Man",
       "url": "https://open.spotify.com/track/5a7MZfX2tiMutNSeb9uPTF"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "The Capitalist Blues",
+        "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
+      },
+      "artists": [
+        {
+          "name": "Leyla McCalla",
+          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
+        }
+      ],
+      "duration_ms": 174640,
+      "name": "Money Is King",
+      "url": "https://open.spotify.com/track/0dOMCLcbrTbcqmIHsP3FW3"
     }
   ],
   "unique_name": "Contemporary Folk",

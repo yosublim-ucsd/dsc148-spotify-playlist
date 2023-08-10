@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena!
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,100 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,135 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 | 48 | [Michelada](https://open.spotify.com/track/6wXMK7J7eNmwxOoIBexT7B) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR), [Los Kuatreros Del Sur](https://open.spotify.com/artist/1uf5mwjVjGlTj38TRAB4k8) | [Michelada](https://open.spotify.com/album/5ROfzY597Mylv1i5xJUPzQ) | 2:42 |
 | 49 | [Como Te Va Mi Amor](https://open.spotify.com/track/3wUzYtWsQCFhsMAyVFOhrY) | [Los Prisioneros del Sur](https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw) | [Una Década de Éxitos](https://open.spotify.com/album/0JnWNO7tFztY1PMVHtnFZl) | 4:24 |
 | 50 | [Asosegando Cachorras](https://open.spotify.com/track/0NVLkYmGkUKKRJXWIVHzRD) | [Los Flores de Rucalhue](https://open.spotify.com/artist/6IcXD8DoXOqLkvwpOFTFbf) | [EN HONOR A NUESTRO HERMANO](https://open.spotify.com/album/7puJ6lr1r0uSTF606zE0ZY) | 3:58 |
-| 51 | [Por Debajo del Agua](https://open.spotify.com/track/3QPfTAedVVyalXRfplJIKY) | [Los Chacales del Maule](https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN) | [Nacieron para Triunfar, Vol\. 1](https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0) | 4:39 |
-| 52 | [Lágrimas Frente Al Mar](https://open.spotify.com/track/2ViguB6mM2tIdesiPtowFV) | [Los Supercumbieros de Galvarino](https://open.spotify.com/artist/4oRCNvfODxOI6kQ8dLdcq9) | [Románticos De La Cumbia](https://open.spotify.com/album/6kKzbk6N2ETObv20GHtUU3) | 4:43 |
+| 51 | [Lágrimas Frente Al Mar](https://open.spotify.com/track/2ViguB6mM2tIdesiPtowFV) | [Los Supercumbieros de Galvarino](https://open.spotify.com/artist/4oRCNvfODxOI6kQ8dLdcq9) | [Románticos De La Cumbia](https://open.spotify.com/album/6kKzbk6N2ETObv20GHtUU3) | 4:43 |
+| 52 | [Por Debajo del Agua](https://open.spotify.com/track/3QPfTAedVVyalXRfplJIKY) | [Los Chacales del Maule](https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN) | [Nacieron para Triunfar, Vol\. 1](https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0) | 4:39 |
 | 53 | [A Través del Vaso / Cuerpo de Sirena / La Misma \(Éxitos Festivos 2021\- 2022\)](https://open.spotify.com/track/2nzHumHZo0aDR0A5nPM1Su) | [Los Pincheira del Sur](https://open.spotify.com/artist/1BnQrx8p0bHBpidjIGq26z) | [A Través del Vaso / Cuerpo de Sirena / La Misma \(Éxitos Festivos 2021\- 2022\)](https://open.spotify.com/album/07Ztp63QO86WY8m2XehreY) | 8:14 |
 | 54 | [Las Flores de Tu Florero](https://open.spotify.com/track/7oW3MKXuQQw4JlAy6WeaHL) | [Los Manantiales](https://open.spotify.com/artist/576SVashrrxz5pBVPgwFCL) | [Éxitos de Antología](https://open.spotify.com/album/33u15Nq63kyMnEpA0XBGee) | 2:57 |
 | 55 | [Mis Ojos Estuvieron Llorando](https://open.spotify.com/track/0T9VAznUOBpYvyFsn6Lz3U) | [Los Peñis del sur](https://open.spotify.com/artist/2DNYcW0pAlFg6vKAKaDMdO) | [Y Su Newen Ranchero](https://open.spotify.com/album/6dcawJThQiTLWdHKeUFyjA) | 3:08 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 | 65 | [La Diuca](https://open.spotify.com/track/1MPLrlcAb3gQ89tffm0kXD) | [Zumba Ranchera](https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu) | [La Diuca](https://open.spotify.com/album/7xzyEyU06MNtW4VlOVH9E7) | 3:20 |
 | 66 | [Tú](https://open.spotify.com/track/18Y1trnwM37pqHtMtZYFMq) | [Los Pincheira del Sur](https://open.spotify.com/artist/1BnQrx8p0bHBpidjIGq26z), [Los Inseparables](https://open.spotify.com/artist/1i2GXZdxpWHbdHJczBTSLm) | [Tú](https://open.spotify.com/album/6mQtinz30aDoHEkPNalyBS) | 4:23 |
 | 67 | [Para Ti Solita / Matame A Besos \(En Vivo\)](https://open.spotify.com/track/6VHJsTRTZ5LUT7G6ZX9gku) | [Los Rancheros De Rio Maule](https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW) | [Para Ti Solita / Matame A Besos \(En Vivo\)](https://open.spotify.com/album/2CTeAoEp6OOoWpWInsmHGu) | 7:36 |
-| 68 | [Vuelvo a las Cantinas](https://open.spotify.com/track/1annSFnYdlZ0Q0YA6DWrDn) | [Los Flores de Rucalhue](https://open.spotify.com/artist/6IcXD8DoXOqLkvwpOFTFbf) | [EN HONOR A NUESTRO HERMANO](https://open.spotify.com/album/7puJ6lr1r0uSTF606zE0ZY) | 4:18 |
-| 69 | [Sola Con Mi Soledad / Y Voy a Ser Feliz](https://open.spotify.com/track/7gQ8PK6QcOMrKJn6QCRV2z) | [Los Halcones Negros](https://open.spotify.com/artist/3gKLNRsPFUsiUA1gk9tXyS) | [Alma Enamorada](https://open.spotify.com/album/2BoTjs0a7IgcKXQNQqJgdg) | 4:27 |
+| 68 | [Sola Con Mi Soledad / Y Voy a Ser Feliz](https://open.spotify.com/track/7gQ8PK6QcOMrKJn6QCRV2z) | [Los Halcones Negros](https://open.spotify.com/artist/3gKLNRsPFUsiUA1gk9tXyS) | [Alma Enamorada](https://open.spotify.com/album/2BoTjs0a7IgcKXQNQqJgdg) | 4:27 |
+| 69 | [Vuelvo a las Cantinas](https://open.spotify.com/track/1annSFnYdlZ0Q0YA6DWrDn) | [Los Flores de Rucalhue](https://open.spotify.com/artist/6IcXD8DoXOqLkvwpOFTFbf) | [EN HONOR A NUESTRO HERMANO](https://open.spotify.com/album/7puJ6lr1r0uSTF606zE0ZY) | 4:18 |
 | 70 | [La Suegra](https://open.spotify.com/track/0KvdmyWi1v3HaRjSM64tgo) | [Koky y su banda tropical ranchera](https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf) | [La Fiesta de Koky](https://open.spotify.com/album/3ExrYJUNGwdwLIhdexPKvd) | 3:24 |
 | 71 | [Un Lobo Está Llorando](https://open.spotify.com/track/59zQnQvkMLAIe8k2vUCS66) | [Los Lobos del Sur](https://open.spotify.com/artist/3FCBnIlgoRwCdoWpUN85ck) | [Un Lobo Está Llorando](https://open.spotify.com/album/6Geby7blTCI2vcP1Pm2DGR) | 4:25 |
 | 72 | [Con Que Derecho](https://open.spotify.com/track/26iOxv7FyPSfYeV1beFg7j) | [Gran Sismo Tropikal](https://open.spotify.com/artist/2ukK9Jw0F1ZX9NZqx7r8Rs) | [Siempre Arriba](https://open.spotify.com/album/1ZyuRSvEjBg1lbS9tfTNNR) | 4:06 |
@@ -86,9 +86,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 | 76 | [El Último Trago](https://open.spotify.com/track/3jQOI7vNZXMWy3ETXHVCGR) | [Ramón Rimac](https://open.spotify.com/artist/6d6QJqFsGRZmm8boMVAALN) | [Me Voy a Emborrachar](https://open.spotify.com/album/6TnjtS7lx7GB4Ku22NX8ZW) | 2:40 |
 | 77 | [Mi Complice](https://open.spotify.com/track/2ZpdaHko5m2cehTqfLFMIs) | [Lupita Aguilar](https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb) | [Entre el Amor y el Odio](https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo) | 3:08 |
 | 78 | [Palomita de Alas Blancas](https://open.spotify.com/track/3Zh8ZpBFRe8OBSNdxTY4VG) | [Los Prisioneros del Sur](https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw) | [Palomita de Alas Blancas](https://open.spotify.com/album/3ntXjITCrt7BlOgTVith78) | 1:55 |
-| 79 | [Somos Infieles](https://open.spotify.com/track/0xxqACHxwwhP4r51GmnRrU) | [Grupo el duelo](https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv) | [Somos Infieles](https://open.spotify.com/album/4vNNb74WGZJl9cCWQjmrpC) | 3:19 |
-| 80 | [Ojitos Verdes](https://open.spotify.com/track/1NMPgg0S88HdOkrdCxjucv) | [Los Diamantes de Purapel](https://open.spotify.com/artist/2qXq5Q06bTg3wUxs7mar7U) | [Nuestra Música Suena Mas Fuerte Que Tus Problemas](https://open.spotify.com/album/2oKdLYpjkDEvjM6f9vLgEf) | 3:31 |
-| 81 | [Galantes y Caballeros](https://open.spotify.com/track/41d9HYA4qgfQ51sc5Vvyjg) | [LOS FLORES DE YUNGAY](https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD) | [Galantes y Caballeros](https://open.spotify.com/album/2Chfx3gyFuWYb7NfjM9pW2) | 2:32 |
+| 79 | [Galantes y Caballeros](https://open.spotify.com/track/41d9HYA4qgfQ51sc5Vvyjg) | [LOS FLORES DE YUNGAY](https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD) | [Galantes y Caballeros](https://open.spotify.com/album/2Chfx3gyFuWYb7NfjM9pW2) | 2:32 |
+| 80 | [Somos Infieles](https://open.spotify.com/track/0xxqACHxwwhP4r51GmnRrU) | [Grupo el duelo](https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv) | [Somos Infieles](https://open.spotify.com/album/4vNNb74WGZJl9cCWQjmrpC) | 3:19 |
+| 81 | [Ojitos Verdes](https://open.spotify.com/track/1NMPgg0S88HdOkrdCxjucv) | [Los Diamantes de Purapel](https://open.spotify.com/artist/2qXq5Q06bTg3wUxs7mar7U) | [Nuestra Música Suena Mas Fuerte Que Tus Problemas](https://open.spotify.com/album/2oKdLYpjkDEvjM6f9vLgEf) | 3:31 |
 | 82 | [Vivo la Vida](https://open.spotify.com/track/5dSElsITPbdki1S7PuWtjV) | [Relámpagos de Chile](https://open.spotify.com/artist/0jnjgwYULpi1D4dn6k7RlD) | [Para Mi Gente Campesina](https://open.spotify.com/album/0WR66V5mPl5xkTLBo4LYAE) | 3:12 |
 | 83 | [Como Tú](https://open.spotify.com/track/1TQKYm6U2FnKVCH9E6gJWu) | [Tornado Ranchero](https://open.spotify.com/artist/4FDAXy690wtsQDhh6nlZWl) | [Tornado Ranchero](https://open.spotify.com/album/4FUL8GkSqNo8dt1v9em0ON) | 4:27 |
 | 84 | [Son Solo Palabritas](https://open.spotify.com/track/0Hi28eLBFZNmtXFsdqd4Es) | [Los Charros de Luchito y Rafael](https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq) | [Para Nuestra Gente](https://open.spotify.com/album/15HAfwDUkpyOBdYGFmce2N) | 3:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 | 99 | [Mi Decisión](https://open.spotify.com/track/67k7yjg8G46fmLQj19YXc8) | [Los Chacales del Maule](https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN) | [Mi Decisión](https://open.spotify.com/album/6zfpEB0wUGsmsMgsxcPyyd) | 4:14 |
 | 100 | [Tarjetita de Invitacion](https://open.spotify.com/track/07sdL3bIRtYBlkPIvN1OYo) | [Los Infieles de Santa Barbara](https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs) | [Tarjetita de Invitación](https://open.spotify.com/album/3lXii5UGE1r740O1ipWbmU) | 3:44 |
 
-Snapshot ID: `MCwxZWJhYWJhODJkYWJkZjM0ZWMzNTQ4ZTliNzk3ZmZkODdhZmI4OWNm`
+Snapshot ID: `MCw5MGVjYzAzYjdhOWE2NzlkNzUxY2VlMjNiYjJmYzc5MjEwOWU4NzJk`

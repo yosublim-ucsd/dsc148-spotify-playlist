@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "Akela",
+        "url": "https://open.spotify.com/album/2UtPYtrj2QPpvFV4PPwSCw"
+      },
+      "artists": [
+        {
+          "name": "Ankur Tewari",
+          "url": "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255855,
+      "name": "Doobay",
+      "url": "https://open.spotify.com/track/6i1UFSwXOzrbnfaNnRkpHT"
+    },
+    {
+      "album": {
         "name": "Duur Hai Wo",
         "url": "https://open.spotify.com/album/5zSrIDdqyNIVdGJiT9d46P"
       },
@@ -608,6 +626,24 @@
       "duration_ms": 184000,
       "name": "Haaray",
       "url": "https://open.spotify.com/track/2LCvypYL9a21Hln4A4EdWU"
+    },
+    {
+      "album": {
+        "name": "Dard",
+        "url": "https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM"
+      },
+      "artists": [
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176937,
+      "name": "Haaye Dard",
+      "url": "https://open.spotify.com/track/5Guwp446UExa6M5SIibjfC"
     },
     {
       "album": {
@@ -834,6 +870,24 @@
       "duration_ms": 252374,
       "name": "Kami Hai",
       "url": "https://open.spotify.com/track/731U0IOIp83sTQWbQeA67N"
+    },
+    {
+      "album": {
+        "name": "Khel",
+        "url": "https://open.spotify.com/album/6HTOdI0GLCGQGkKlAYcUeZ"
+      },
+      "artists": [
+        {
+          "name": "Praagya",
+          "url": "https://open.spotify.com/artist/4hO4zxtWs57zrg8B1WkpmP"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185769,
+      "name": "Khel",
+      "url": "https://open.spotify.com/track/20WIpyoAX8iR465ejJlFLT"
     },
     {
       "album": {
@@ -1426,6 +1480,40 @@
       "duration_ms": 148977,
       "name": "Unke bina (Raw)",
       "url": "https://open.spotify.com/track/0S2VhMptqhyylEowrvMRRx"
+    },
+    {
+      "album": {
+        "name": "Rocky Aur Rani Kii Prem Kahaani (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0sS6YgpAosPPZSRgvRawmu"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Shadab Faridi",
+          "url": "https://open.spotify.com/artist/6WixbETKEXH0xBf0OB9kRB"
+        },
+        {
+          "name": "Altamash Faridi",
+          "url": "https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246988,
+      "name": "Ve Kamleya",
+      "url": "https://open.spotify.com/track/44qts4rkpUVFTzDPkEVqJk"
     },
     {
       "album": {

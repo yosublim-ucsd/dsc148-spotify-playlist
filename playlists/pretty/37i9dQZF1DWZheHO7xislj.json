@@ -1,12 +1,12 @@
 {
   "description": "Classic and new soul music for the perfect dinner.",
-  "num_followers": 136793,
+  "num_followers": 136816,
   "original_name": "Soulful Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzE2ZjcxMDNkMGIyMTNjZGEyMGMwMjM5OTAzODE1YjEzMjZiOGZj",
+  "snapshot_id": "MCwxNjVhOTc4NTJiZTBmMjY3Yjk3MGU3YWVjMGI4MDM5OTk1MWRlOWU2",
   "tracks": [
     {
       "added_at": "2023-06-27 13:29:38",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "Feel Like Makin' Love",
-        "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 175400,
-      "name": "Feel Like Makin' Love",
-      "url": "https://open.spotify.com/track/7gkboYtvhuXNS4EUwmFPcw"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
         "name": "Still Bill",
         "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 194427,
       "name": "Who Is He (And What Is He to You)?",
       "url": "https://open.spotify.com/track/1KywyxekfDEp3Ym7YP7S25"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
+        "name": "Feel Like Makin' Love",
+        "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 175400,
+      "name": "Feel Like Makin' Love",
+      "url": "https://open.spotify.com/track/7gkboYtvhuXNS4EUwmFPcw"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 269333,
+      "name": "I Can't Help It",
+      "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
         "name": "Fugue State",
         "url": "https://open.spotify.com/album/3DiHrdZ5z0AqW6JTpLAKxG"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 199639,
       "name": "1612",
       "url": "https://open.spotify.com/track/39rHfrVqCX6A55GF7uOZSC"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 269333,
-      "name": "I Can't Help It",
-      "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "Be Thankful for What You Got",
-        "url": "https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z"
-      },
-      "artists": [
-        {
-          "name": "William DeVaughn",
-          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
-        }
-      ],
-      "duration_ms": 429371,
-      "name": "Be Thankful for What You Got (Pt. 1 & Pt. 2)",
-      "url": "https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
         "name": "Adventures In Paradise",
         "url": "https://open.spotify.com/album/0OoRiTZs9hsRz7KxB8JkSX"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 250866,
       "name": "Baby, This Love I Have",
       "url": "https://open.spotify.com/track/397fxHew7NyjryGWGr1Imy"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
+        "name": "Be Thankful for What You Got",
+        "url": "https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z"
+      },
+      "artists": [
+        {
+          "name": "William DeVaughn",
+          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
+        }
+      ],
+      "duration_ms": 429371,
+      "name": "Be Thankful for What You Got (Pt. 1 & Pt. 2)",
+      "url": "https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "George McCrae - Disco Pioneer",
-        "url": "https://open.spotify.com/album/3qJGzbhk63pzwqzpTr0bxt"
-      },
-      "artists": [
-        {
-          "name": "George McCrae",
-          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
-        }
-      ],
-      "duration_ms": 200053,
-      "name": "Rock Your Baby",
-      "url": "https://open.spotify.com/track/16KwF7IrKHTVTitUKH58g3"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
         "name": "Diana Ross & The Supremes Join The Temptations",
         "url": "https://open.spotify.com/album/7tZt4EApjs2MSzt0OJ1vaT"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 187333,
       "name": "I'm Gonna Make You Love Me",
       "url": "https://open.spotify.com/track/3Rhxe6P1im82NFVkt9X2qZ"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
+        "name": "George McCrae - Disco Pioneer",
+        "url": "https://open.spotify.com/album/3qJGzbhk63pzwqzpTr0bxt"
+      },
+      "artists": [
+        {
+          "name": "George McCrae",
+          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
+        }
+      ],
+      "duration_ms": 200053,
+      "name": "Rock Your Baby",
+      "url": "https://open.spotify.com/track/16KwF7IrKHTVTitUKH58g3"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "One In A Million You",
-        "url": "https://open.spotify.com/album/3sT09KMUA39aQYCofvoA1j"
-      },
-      "artists": [
-        {
-          "name": "Larry Graham",
-          "url": "https://open.spotify.com/artist/6lUcc15t11bnaPr2qOuFs2"
-        }
-      ],
-      "duration_ms": 252600,
-      "name": "One in a Million You",
-      "url": "https://open.spotify.com/track/1CzgvJvt2JRy4uEX3SVaxO"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
         "name": "Capitol Gold: The Best Of Minnie Riperton",
         "url": "https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 238693,
       "name": "Inside My Love - Remastered 1993",
       "url": "https://open.spotify.com/track/1HdNTlZrGTlgxDn31GB6Sv"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
+        "name": "One In A Million You",
+        "url": "https://open.spotify.com/album/3sT09KMUA39aQYCofvoA1j"
+      },
+      "artists": [
+        {
+          "name": "Larry Graham",
+          "url": "https://open.spotify.com/artist/6lUcc15t11bnaPr2qOuFs2"
+        }
+      ],
+      "duration_ms": 252600,
+      "name": "One in a Million You",
+      "url": "https://open.spotify.com/track/1CzgvJvt2JRy4uEX3SVaxO"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "The Very Best of Aretha Franklin - The 70's",
-        "url": "https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 213560,
-      "name": "Spanish Harlem",
-      "url": "https://open.spotify.com/track/0sQ594D1EuU66VDdtHBE6j"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
         "name": "20 Greatest Hits",
         "url": "https://open.spotify.com/album/1FjPiiZ0qeq7GZ0nnuvHpH"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 178840,
       "name": "Am I The Same Girl",
       "url": "https://open.spotify.com/track/6NVzt2cA5Mgjd3pQjU1xwD"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
+        "name": "The Very Best of Aretha Franklin - The 70's",
+        "url": "https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 213560,
+      "name": "Spanish Harlem",
+      "url": "https://open.spotify.com/track/0sQ594D1EuU66VDdtHBE6j"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -2179,22 +2179,6 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "Stand By Your Man",
-        "url": "https://open.spotify.com/album/5FSETqzUj1EAlIVvPYmv5r"
-      },
-      "artists": [
-        {
-          "name": "Candi Staton",
-          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "He Called Me Baby",
-      "url": "https://open.spotify.com/track/3zIiZrCROmhS9ERPdEHXYa"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
         "name": "The Very Best of Aretha Franklin - The 70's",
         "url": "https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn"
       },
@@ -2207,6 +2191,22 @@
       "duration_ms": 333933,
       "name": "Bridge over Troubled Water",
       "url": "https://open.spotify.com/track/5YD86vWLu1YqR818b1GADO"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
+        "name": "Stand By Your Man",
+        "url": "https://open.spotify.com/album/5FSETqzUj1EAlIVvPYmv5r"
+      },
+      "artists": [
+        {
+          "name": "Candi Staton",
+          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "He Called Me Baby",
+      "url": "https://open.spotify.com/track/3zIiZrCROmhS9ERPdEHXYa"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -2403,22 +2403,6 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "My Time: A Boz Scaggs Anthology (1969-1997)",
-        "url": "https://open.spotify.com/album/3urpKmhg4HyYuEmODNdTdo"
-      },
-      "artists": [
-        {
-          "name": "Boz Scaggs",
-          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
-        }
-      ],
-      "duration_ms": 316306,
-      "name": "Lowdown",
-      "url": "https://open.spotify.com/track/20MxJN12WEqU5eWsuCrwM5"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
         "name": "Good Thing",
         "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
       },
@@ -2431,6 +2415,22 @@
       "duration_ms": 185893,
       "name": "Bet Ain't Worth the Hand",
       "url": "https://open.spotify.com/track/0VBBWt0uJxXNVb624WtOnC"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
+        "name": "My Time: A Boz Scaggs Anthology (1969-1997)",
+        "url": "https://open.spotify.com/album/3urpKmhg4HyYuEmODNdTdo"
+      },
+      "artists": [
+        {
+          "name": "Boz Scaggs",
+          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
+        }
+      ],
+      "duration_ms": 316306,
+      "name": "Lowdown",
+      "url": "https://open.spotify.com/track/20MxJN12WEqU5eWsuCrwM5"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -3151,22 +3151,6 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "Soul Power",
-        "url": "https://open.spotify.com/album/1aLiavRsS14I7FDHVTvE40"
-      },
-      "artists": [
-        {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
-        }
-      ],
-      "duration_ms": 270325,
-      "name": "Next Time",
-      "url": "https://open.spotify.com/track/3aJ0bZfRxG7WxuYfEp5GxD"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
         "name": "Part Time Love",
         "url": "https://open.spotify.com/album/5dTnlc6k7eE0JNXAu8ANSf"
       },
@@ -3179,6 +3163,22 @@
       "duration_ms": 174973,
       "name": "Part Time Love",
       "url": "https://open.spotify.com/track/30lLlmQZBHsiVLNcTKpqjd"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
+        "name": "Soul Power",
+        "url": "https://open.spotify.com/album/1aLiavRsS14I7FDHVTvE40"
+      },
+      "artists": [
+        {
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        }
+      ],
+      "duration_ms": 270325,
+      "name": "Next Time",
+      "url": "https://open.spotify.com/track/3aJ0bZfRxG7WxuYfEp5GxD"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -3219,6 +3219,22 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
+        "name": "Atlantic Top 60: Sweat-Soaked Soul Classics",
+        "url": "https://open.spotify.com/album/09UEuDX0FZYXtRVYkvDLSA"
+      },
+      "artists": [
+        {
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+        }
+      ],
+      "duration_ms": 170066,
+      "name": "When a Man Loves a Woman",
+      "url": "https://open.spotify.com/track/4B3YfOKezanjfJTAbn75a2"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
         "name": "Say That To Say This",
         "url": "https://open.spotify.com/album/2cyzBFOHQep4sOuKHpTaBq"
       },
@@ -3247,22 +3263,6 @@
       "duration_ms": 251733,
       "name": "You Put A Charge In My Life",
       "url": "https://open.spotify.com/track/1r69KR1iUoLfoN4Z44Okca"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
-        "name": "Atlantic Top 60: Sweat-Soaked Soul Classics",
-        "url": "https://open.spotify.com/album/09UEuDX0FZYXtRVYkvDLSA"
-      },
-      "artists": [
-        {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
-        }
-      ],
-      "duration_ms": 170066,
-      "name": "When a Man Loves a Woman",
-      "url": "https://open.spotify.com/track/4B3YfOKezanjfJTAbn75a2"
     },
     {
       "added_at": "2023-06-27 13:29:38",

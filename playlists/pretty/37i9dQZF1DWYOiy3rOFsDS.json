@@ -1,12 +1,12 @@
 {
   "description": "Romance antig\u00fcito en voz de tus artistas pop con Daniel, Me Est\u00e1s Matando en portada.",
-  "num_followers": 530089,
+  "num_followers": 530214,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2I3YWU1NTM3NTFiYTkyYzg4ZjYzMmIzZjVmMWY5Y2VjNTI1NzM0",
+  "snapshot_id": "MCw4Nzk2OTQ3N2U5YzNhOWVkZjNlMzRlODkxOTQwNjAzZWQxMDBiNGU1",
   "tracks": [
     {
       "added_at": "2023-06-09 16:27:37",
@@ -1451,6 +1451,26 @@
     {
       "added_at": "2023-06-09 16:27:37",
       "album": {
+        "name": "Tanto Amor",
+        "url": "https://open.spotify.com/album/6PpdfncqVG0Hmx5pSIdAQz"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        },
+        {
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+        }
+      ],
+      "duration_ms": 185783,
+      "name": "Tanto Amor",
+      "url": "https://open.spotify.com/track/2DSBxnRi8Y1Tk4f0Am8pzA"
+    },
+    {
+      "added_at": "2023-06-09 16:27:37",
+      "album": {
         "name": "Frenesi (2016 Remaster)",
         "url": "https://open.spotify.com/album/1D9QdIT6bueT23rSwp0C63"
       },
@@ -1515,26 +1535,6 @@
       "duration_ms": 235453,
       "name": "No Olvides Recordarme - En Vivo",
       "url": "https://open.spotify.com/track/3ANmOzBDhOHsaaxZyoUd4j"
-    },
-    {
-      "added_at": "2023-06-09 16:27:37",
-      "album": {
-        "name": "Tanto Amor",
-        "url": "https://open.spotify.com/album/6PpdfncqVG0Hmx5pSIdAQz"
-      },
-      "artists": [
-        {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        },
-        {
-          "name": "Los Rumberos",
-          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
-        }
-      ],
-      "duration_ms": 185783,
-      "name": "Tanto Amor",
-      "url": "https://open.spotify.com/track/2DSBxnRi8Y1Tk4f0Am8pzA"
     },
     {
       "added_at": "2023-06-09 16:27:37",

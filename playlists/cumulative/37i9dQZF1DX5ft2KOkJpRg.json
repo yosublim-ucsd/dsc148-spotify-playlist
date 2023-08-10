@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-06-03",
-  "description": "\u00bfQu\u00e9 se siente ser feliz? :(",
-  "name": "awitado",
+  "description": "Solo recuerda el d\u00eda en que te conoc\u00ed, un jueves 10 \ud83d\ude14\ud83d\udc94",
+  "name": "Jueves 10: awitado x Junior H",
   "tracks": [
     {
       "album": {
@@ -323,6 +323,24 @@
     },
     {
       "album": {
+        "name": "Aqu\u00ed Te Espero",
+        "url": "https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255373,
+      "name": "Aqu\u00ed Te Espero",
+      "url": "https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6"
+    },
+    {
+      "album": {
         "name": "P\u00e1ramo M\u00edstico",
         "url": "https://open.spotify.com/album/3w6sKad6TBHZgZGE3oU4tL"
       },
@@ -639,6 +657,28 @@
     },
     {
       "album": {
+        "name": "dEsANiMaO :(",
+        "url": "https://open.spotify.com/album/6uNrdApJivQeMBQHprupcZ"
+      },
+      "artists": [
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187317,
+      "name": "dEsANiMaO :(",
+      "url": "https://open.spotify.com/track/7HGGQotbU0m3I9CEqjXfCY"
+    },
+    {
+      "album": {
         "name": "En Donde Quedo Yo",
         "url": "https://open.spotify.com/album/0fFL3CyMKpIA6OOfjKlDWo"
       },
@@ -676,6 +716,24 @@
       "duration_ms": 221887,
       "name": "Dias Nublados",
       "url": "https://open.spotify.com/track/7xQrt5TkFBBmlTEPJvXTH8"
+    },
+    {
+      "album": {
+        "name": "Dile al Amor",
+        "url": "https://open.spotify.com/album/6dDWFO1TnRUrO3Jf5nLMVx"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Dile al Amor",
+      "url": "https://open.spotify.com/track/2hPsnHCGBAdT23UujS0HF7"
     },
     {
       "album": {
@@ -1120,7 +1178,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 234320,
       "name": "Hoy Te Pierdo",
       "url": "https://open.spotify.com/track/2PtH42TBhfgAu6jS4RMqEw"
@@ -1174,7 +1232,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 287929,
       "name": "Jueves 10",
       "url": "https://open.spotify.com/track/7KoyXL9zghiNpXkb5iVDyj"
@@ -1200,6 +1258,60 @@
       "duration_ms": 275194,
       "name": "Jugaste y Sufr\u00ed",
       "url": "https://open.spotify.com/track/3NqBxTOMCJ3zW9CIP51td4"
+    },
+    {
+      "album": {
+        "name": "Jueves 10 awitado x Junior H (2023)",
+        "url": "https://open.spotify.com/album/2KifKhZ0LSRMPeBP1tagAX"
+      },
+      "artists": [
+        {
+          "name": "Junior x Spotify",
+          "url": "https://open.spotify.com/artist/6MzHSeJIoCsCG8aRLi5li3"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 28686,
+      "name": "Junior H - Historia de Jueves 10",
+      "url": "https://open.spotify.com/track/2ngYWppdmSBl9wT3ggL66V"
+    },
+    {
+      "album": {
+        "name": "Jueves 10 awitado x Junior H (2023)",
+        "url": "https://open.spotify.com/album/0MXP2mqfzwQktJKgDthwpY"
+      },
+      "artists": [
+        {
+          "name": "Junior x Spotify",
+          "url": "https://open.spotify.com/artist/6MzHSeJIoCsCG8aRLi5li3"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 17955,
+      "name": "Junior H - \u00bfc\u00f3mo olvidas a alguien?",
+      "url": "https://open.spotify.com/track/2R9ZvTZWWkMUZZV2m9BBee"
+    },
+    {
+      "album": {
+        "name": "Jueves 10 awitado x Junior H (2023)",
+        "url": "https://open.spotify.com/album/61J452sPK1ftcy0mMW9vlu"
+      },
+      "artists": [
+        {
+          "name": "Junior x Spotify",
+          "url": "https://open.spotify.com/artist/6MzHSeJIoCsCG8aRLi5li3"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 15566,
+      "name": "Junior H - \u00bfqu\u00e9 haces cuando te awitas?",
+      "url": "https://open.spotify.com/track/3z8loU3yOU7RmzAanP74GD"
     },
     {
       "album": {
@@ -1240,7 +1352,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 216000,
       "name": "La Curiosidad",
       "url": "https://open.spotify.com/track/0hnvQLkV7yOjslEzflJSK4"
@@ -1854,7 +1966,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 194230,
       "name": "M\u00e1s Te Va a Doler",
       "url": "https://open.spotify.com/track/5zKXodTRdBV2Mv12UmM3Tc"
@@ -2142,7 +2254,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 258298,
       "name": "Ojitos Lindos",
       "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
@@ -2564,7 +2676,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 188206,
       "name": "Qu\u00e9 Agon\u00eda - Remix",
       "url": "https://open.spotify.com/track/6X7wUIz4tP7JcAauyU0h2j"
@@ -2582,7 +2694,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 247500,
       "name": "Qu\u00e9date",
       "url": "https://open.spotify.com/track/2h7pX9EhOdpFSM0PEO9NYn"
@@ -2604,7 +2716,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 197906,
       "name": "Ropa De Bazar",
       "url": "https://open.spotify.com/track/7kWFRZdedr2gtfE8JDumVZ"
@@ -3510,7 +3622,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 328982,
       "name": "Volveremos",
       "url": "https://open.spotify.com/track/0atD69P4fKr8nBUi1FXBzX"
@@ -3572,7 +3684,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 177666,
       "name": "Ya Coraz\u00f3n",
       "url": "https://open.spotify.com/track/49lbKqbCI8SmJfW64OYXGZ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 
 > This is Coi Leray\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,784 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,805 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 37 | [Overthinking \(with H.E.R.\)](https://open.spotify.com/track/5IaKG7RVFKddipzaOeide9) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 3:10 |
 | 38 | [Hold Me Down \(42 Dugg, Coi Leray\)](https://open.spotify.com/track/3RXjFdXvbIIydnkrCKIjcA) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Hold Me Down](https://open.spotify.com/album/3ZnMKPhpgpTwXRSrXZ4XEm) | 2:50 |
 | 39 | [Involved](https://open.spotify.com/track/4Zj2W1HdImJ9mN779m9jHt) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Involved](https://open.spotify.com/album/2UL9j77BeQLGS9IMoh5SUv) | 3:00 |
-| 40 | [Better Days \(feat\. Fetty Wap\)](https://open.spotify.com/track/0DW8r8w96IoIsxqqV2VNXf) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Better Days](https://open.spotify.com/album/72III2Pl6XTrDBdbjUheSW) | 2:29 |
+| 40 | [Oou Oou \(feat\. Coi Leray\)](https://open.spotify.com/track/64lcp0LwdQLvxxsgYaGOqd) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Murder Made Me](https://open.spotify.com/album/0KNl6GATG5LULCHTCQpSgZ) | 2:22 |
 | 41 | [Aye Yai Yai \(with Yung Bleu\)](https://open.spotify.com/track/2QODQZUTSvhdAdXvQO418e) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 3:03 |
-| 42 | [Oou Oou \(feat\. Coi Leray\)](https://open.spotify.com/track/64lcp0LwdQLvxxsgYaGOqd) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Murder Made Me](https://open.spotify.com/album/0KNl6GATG5LULCHTCQpSgZ) | 2:22 |
-| 43 | [The One \(Sprite Limelight\)](https://open.spotify.com/track/22Xi8off2rIqT1kwTZXKPW) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [The One \(Sprite Limelight\)](https://open.spotify.com/album/6UF46ZzBvi3EiXDZmtwyXV) | 2:15 |
-| 44 | [Lost In Time \(feat\. Coi Leray\)](https://open.spotify.com/track/3jjiozyhDFsR4Rolx5bppS) | [Wifisfuneral](https://open.spotify.com/artist/1vb1XqzyNMQ16BqbxRz5BV), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [PAIN?](https://open.spotify.com/album/3thS5m3xP8MgMarJwi9IAD) | 2:39 |
+| 42 | [Better Days \(feat\. Fetty Wap\)](https://open.spotify.com/track/0DW8r8w96IoIsxqqV2VNXf) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Better Days](https://open.spotify.com/album/72III2Pl6XTrDBdbjUheSW) | 2:29 |
+| 43 | [Lost In Time \(feat\. Coi Leray\)](https://open.spotify.com/track/3jjiozyhDFsR4Rolx5bppS) | [Wifisfuneral](https://open.spotify.com/artist/1vb1XqzyNMQ16BqbxRz5BV), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [PAIN?](https://open.spotify.com/album/3thS5m3xP8MgMarJwi9IAD) | 2:39 |
+| 44 | [The One \(Sprite Limelight\)](https://open.spotify.com/track/22Xi8off2rIqT1kwTZXKPW) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [The One \(Sprite Limelight\)](https://open.spotify.com/album/6UF46ZzBvi3EiXDZmtwyXV) | 2:15 |
 | 45 | [Paranoid \(with Polo G\)](https://open.spotify.com/track/5nY13Y42kWZ2o39R9zM3mF) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 3:27 |
 | 46 | [What U Want](https://open.spotify.com/track/4wOyrbNG5eEv5ZF5oVqHtX) | [Lil Xxel](https://open.spotify.com/artist/7iDeMFJKjI1ak40N3hoYOZ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [What U Want](https://open.spotify.com/album/2dHNueuBm0PuI5gF5J5Ubh) | 3:44 |
 | 47 | [I Like \(feat\. Karlae & Coi Leray\)](https://open.spotify.com/track/1OuwfVcdn99T9SPBHaVTNn) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Karlae](https://open.spotify.com/artist/6RY7kT6PGGzAA3TG3s4Qmp), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 49 | [At The Top \(with Kodak Black & Mustard\)](https://open.spotify.com/track/4buaMK8tYXGF7Ca3u8iLtE) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [At The Top](https://open.spotify.com/album/7fQLpnEw13xochCUd776UZ) | 3:01 |
 | 50 | [Good Day](https://open.spotify.com/track/3kSjbNmDdq6rgyELhRDUCk) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Good Day](https://open.spotify.com/album/3ZbZ9tT5ezKW5I9QpD5pO3) | 2:00 |
 
-Snapshot ID: `MjgxOTE2NzksMDAwMDAwMDA5MDBjYmMxZDFkM2JjODM3NTIyODhkNjI2YTYwMWQ2ZQ==`
+Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDA5N2RkNzViNzk0N2UzNzc2MjgwMDkwNjgwNTI5OTc2Nw==`

@@ -1,12 +1,12 @@
 {
   "description": "The hottest in hip-hop, R&B and Afrobeats.",
-  "num_followers": 6587,
+  "num_followers": 6604,
   "original_name": "Now Playing...",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NWIzMzc5NGQ0MDAzY2QzMGExMmZlNWE3NmI0MjI2YzU1ZTgwZGI0",
+  "snapshot_id": "MCw1NDViZmU1YzU2MDNmNDI1MWRlM2Y5YzE2MmZkM2M0ZjBiNjVhZGZk",
   "tracks": [
     {
       "added_at": "2023-07-28 04:21:43",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "For Broken Ears",
+        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 247578,
+      "name": "Free Mind",
+      "url": "https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "The Idol Episode 5 Part 1 (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/4q3wUuIReEjGSYzmSsxtl6"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 262229,
       "name": "False Idols (with Lil Baby, Suzanna Son)",
       "url": "https://open.spotify.com/track/6cViXqp01e3FrAaseuiSAV"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "For Broken Ears",
-        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 247578,
-      "name": "Free Mind",
-      "url": "https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6"
     },
     {
       "added_at": "2023-07-28 04:00:00",

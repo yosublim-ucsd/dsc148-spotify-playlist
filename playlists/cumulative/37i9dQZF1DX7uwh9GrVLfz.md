@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: ハルカミライ \(Haruka Mirai\)
 
-598 songs - 1 day 8 hr 16 min
+600 songs - 1 day 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,6 +376,7 @@
 | [SURFPUNK](https://open.spotify.com/track/6sIpZ2Vlz1JJ8jR8kdRDmu) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [SURFPUNK](https://open.spotify.com/album/3k9kELIoJxA8JHDqd9Hw8y) | 2:29 | 2022-05-12 | 2022-07-24 |
 | [Sweet8beat](https://open.spotify.com/track/6Zs9nJ3th9ExyzygXdSfjJ) | [MEGA X](https://open.spotify.com/artist/0sq7iGTs5qsWEq4fvMf45m) | [Sweet8beat](https://open.spotify.com/album/64Nc3eTnqRlwRoiVmDLlm8) | 3:58 | 2022-05-12 | 2022-07-06 |
 | [Take Off!!](https://open.spotify.com/track/5KOyDAveuaIds6qRoU0M26) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [SCREAM ON THE BOARD!!](https://open.spotify.com/album/7dnFrpMSja30CeY70L8dPQ) | 2:07 | 2022-05-17 | 2022-07-22 |
+| [Teijidekaero feat\. TOTALFAT](https://open.spotify.com/track/1kpjvp5Nimd33RlMYaJQCr) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo), [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [Teijidekaero feat\. TOTALFAT](https://open.spotify.com/album/2ff0DpDkWqdXwwH4h9DZzJ) | 3:07 | 2023-08-08 |  |
 | [Tell Me Christmas](https://open.spotify.com/track/1gfRBvssKxEF5DoHsUyhtr) | [マッドネスマンボウ](https://open.spotify.com/artist/5vZ26wkzaUAQ6DqpjOZRG4) | [Tell Me Christmas](https://open.spotify.com/album/54shjZ5TvsTN66lpDusq81) | 3:08 | 2022-12-15 | 2022-12-21 |
 | [Tenshi no Rock](https://open.spotify.com/track/39Fk6WLmjFBjXx6D6pIg2f) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [25 \-A Tribute To Dragon Ash\-\(Another Edition\)](https://open.spotify.com/album/6EjpgYYtbyZbtLzXQmfBm9) | 3:18 | 2023-02-21 | 2023-03-08 |
 | [Thanks](https://open.spotify.com/track/5NVZ8qhpvBM2ni14PcL6Gs) | [OVER ARM THROW](https://open.spotify.com/artist/6NXGRhQFf3sfHqKnIDHrGL) | [Oath and Night War](https://open.spotify.com/album/7dVt1eGWmxrAL3pg0IcdfC) | 2:48 | 2022-05-12 | 2022-07-29 |
@@ -388,6 +389,7 @@
 | [THE SOOTHING](https://open.spotify.com/track/3N56UMx9kEOzx97maRtHZY) | [POT](https://open.spotify.com/artist/1t3RYrq8bMooxAhnuBVMds) | [THE SOOTHING](https://open.spotify.com/album/2gjSsAWMvLkhZbzHayDjrs) | 2:41 | 2022-05-12 | 2022-07-14 |
 | [The Wristband of THE HIGH\-LOWS at My Parents' House](https://open.spotify.com/track/7pCrcx296Mz5B7FLRsHSkt) | [LETEPATHYS](https://open.spotify.com/artist/6mrp4Qwn9ekWEK73Vct3BM) | [Endangered Species](https://open.spotify.com/album/1QQpRsMfOvBk9kzIXJfhxz) | 1:14 | 2022-08-16 | 2022-09-15 |
 | [Time goes on](https://open.spotify.com/track/78YAWfKE8BZKvWX1ZwGCPK) | [GIZMO](https://open.spotify.com/artist/1jH2XUfqilYR4F2oZ7gm2V) | [GIZMOといっしょ](https://open.spotify.com/album/5MsWIbsWjgsHbIbA0YPonk) | 2:34 | 2022-06-07 | 2022-07-04 |
+| [TOKOSHIENI](https://open.spotify.com/track/2rn0JaKCLzRymIeV6H4Nmf) | [THE FOREVER YOUNG](https://open.spotify.com/artist/6frp4bEF93k77mFn6AbwQd) | [TOKOSHIENI](https://open.spotify.com/album/6EDHO33gg2AdhTBmTyScd3) | 4:06 | 2023-08-08 |  |
 | [Tomorrow Song](https://open.spotify.com/track/3HmhhB2nqkukgJkSfdIXBw) | [SHIMA](https://open.spotify.com/artist/7kJGMy7TllRTlJS6bafIfE) | [Tomorrow Song](https://open.spotify.com/album/46twmDeKT3UP4A4pE9z80y) | 3:08 | 2022-05-24 | 2022-07-29 |
 | [Tonight](https://open.spotify.com/track/0dnIaNDy2cRcJSbKdANRik) | [COUNTRY YARD](https://open.spotify.com/artist/7zAPELMruolERj0vMJGp76) | [The Roots Evolved](https://open.spotify.com/album/1tNSCVXD75Va3P3U0t733a) | 2:52 | 2022-05-17 | 2022-07-27 |
 | [Tonight](https://open.spotify.com/track/10A9VcbEIc3AH3C2rfu1tD) | [SUNSET BUS](https://open.spotify.com/artist/1sboP5R9cxXEH5UCMToC5r) | [BEER GARDEN](https://open.spotify.com/album/4DzmtfY7YnsOu6IifJxkTI) | 3:16 | 2022-05-17 | 2022-07-18 |
@@ -546,7 +548,7 @@
 | [天使ノロック](https://open.spotify.com/track/1yJ2MoLb400aE3cOStlLqr) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [25 \-A Tribute To Dragon Ash\-\(Another Edition\)](https://open.spotify.com/album/4dyz7fp74JIqn8UzSkbeDd) | 3:18 | 2023-02-21 | 2023-02-23 |
 | [女生徒](https://open.spotify.com/track/44x9LuHftRTvQcBysBqaui) | [ジョズエ](https://open.spotify.com/artist/3hHyAPKqKkciTod3I07ofN) | [しゃべるなポーラ](https://open.spotify.com/album/4E7vQguiYVRQktOsnbtFvW) | 3:01 | 2022-05-17 | 2022-07-23 |
 | [孤独のエール](https://open.spotify.com/track/410YjkVGqiqywYYb5kzVut) | [Dohatsuten](https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE) | [チャリーズ・エンジェル](https://open.spotify.com/album/2UGOD4IJzfSerfa0340Eli) | 4:49 | 2022-05-12 | 2022-07-29 |
-| [定時で帰ろう feat\. TOTALFAT](https://open.spotify.com/track/6gqRMq5FrDCeiGQPd63gBs) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo), [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [定時で帰ろう feat\. TOTALFAT](https://open.spotify.com/album/4Nt4pUQZs50oRYt3wd7iHz) | 3:07 | 2023-08-08 |  |
+| [定時で帰ろう feat\. TOTALFAT](https://open.spotify.com/track/6gqRMq5FrDCeiGQPd63gBs) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo), [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [定時で帰ろう feat\. TOTALFAT](https://open.spotify.com/album/4Nt4pUQZs50oRYt3wd7iHz) | 3:07 | 2023-08-08 | 2023-08-10 |
 | [小さな恋のうた](https://open.spotify.com/track/23atyJacJVHvB9RHBNhr35) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [MESSAGE](https://open.spotify.com/album/2an2zDcyPnHZgodDzgxZj2) | 3:42 | 2022-07-21 |  |
 | [彗星](https://open.spotify.com/track/7IP4KLRpBHMlt8ItnmcIwq) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [シエラのように](https://open.spotify.com/album/0luH7u81HrQytGR9HHRDKs) | 1:51 | 2022-05-17 | 2022-12-14 |
 | [心の旅](https://open.spotify.com/track/5ZCJoQGMeMyPSeq9Q0bbkl) | [THE FOREVER YOUNG](https://open.spotify.com/artist/6frp4bEF93k77mFn6AbwQd) | [ビューティフルユース](https://open.spotify.com/album/421Ct2V48lwkcLbTySapDj) | 3:27 | 2022-05-12 | 2022-12-16 |
@@ -575,7 +577,7 @@
 | [東京下北沢、終わりなき青春](https://open.spotify.com/track/03WOV7zZvHP6aoMWZBUNrM) | [ザ ドーベルマンション](https://open.spotify.com/artist/2I7nU7xFKWqnDsmFGaWH8u) | [東京下北沢、終わりなき青春](https://open.spotify.com/album/5rcURW2e79Q3p7uQEULAvA) | 3:06 | 2023-06-22 | 2023-06-28 |
 | [極彩色の夜へ\(Remastered\)](https://open.spotify.com/track/5RXTd9C3TYxXSaFAA73slU) | [climbgrow](https://open.spotify.com/artist/1VbfBuY3YBwQ5431bDLBD7) | [EL\-RODAR\(Selected Edition\)](https://open.spotify.com/album/4q3Sp4FtxrZ8c2s3kBsxEV) | 5:15 | 2022-05-12 | 2022-08-19 |
 | [欠けボタンの浜](https://open.spotify.com/track/1w4z24d1WsNzAiSgvMegOe) | [Husking Bee](https://open.spotify.com/artist/3reslfdzWDC8qHVM36KtZy) | [FOUR COLOR PROBLEM](https://open.spotify.com/album/6UPDZijSd4tsuTQnp1cvRh) | 3:15 | 2022-05-12 | 2022-07-27 |
-| [永久に](https://open.spotify.com/track/4bqBqH6zYVgIZXQO4ZyZJ7) | [THE FOREVER YOUNG](https://open.spotify.com/artist/6frp4bEF93k77mFn6AbwQd) | [永久に](https://open.spotify.com/album/0VeAIIbyFuQS7WeWqxa0PP) | 4:06 | 2023-08-08 |  |
+| [永久に](https://open.spotify.com/track/4bqBqH6zYVgIZXQO4ZyZJ7) | [THE FOREVER YOUNG](https://open.spotify.com/artist/6frp4bEF93k77mFn6AbwQd) | [永久に](https://open.spotify.com/album/0VeAIIbyFuQS7WeWqxa0PP) | 4:06 | 2023-08-08 | 2023-08-10 |
 | [決意の歌](https://open.spotify.com/track/32HxsGp4jX5URUmulu5dHd) | [bacho](https://open.spotify.com/artist/6ERhWmTmbMG8FQGYfFIIgc) | [レコンキスタ](https://open.spotify.com/album/3KrJbIHprGRPzuVN2OI4fv) | 5:21 | 2022-05-12 | 2022-07-27 |
 | [泣き虫デスマッチ](https://open.spotify.com/track/0N9uFmMjZLBK28fwYxbFtZ) | [Garlicboys](https://open.spotify.com/artist/6nPBc3gSUZ1rQaMvD0VXZz) | [再録ベスト](https://open.spotify.com/album/39cFpk3zsEtX8aE0Mgs7WU) | 2:36 | 2022-05-12 | 2022-07-24 |
 | [火花](https://open.spotify.com/track/5sqCFj25fms531Jx41FhoX) | [SULLIVAN's FUN CLUB](https://open.spotify.com/artist/03d8MZYqxq7mS9DDxWV18U) | [Panta rhei](https://open.spotify.com/album/5yYOvOyzsVLy8AYDIENgOT) | 1:37 | 2022-05-19 | 2022-07-11 |

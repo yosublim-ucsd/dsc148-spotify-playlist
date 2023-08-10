@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Keep the vibes from the villa going with music from & inspired by the new season of Love Island USA, only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2307spotifypkerndwbjny369&utm\_campaign=2307spotify&utm\_source=sptfy\_pk\_na&utm\_medium=ernd\_wbjny\_cobr\_deslnk&utm\_term=spotifyusers&utm\_content=na">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,429 likes - 122 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,517 likes - 122 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 121 | [Game Changer](https://open.spotify.com/track/0kizZF9IOlc60ZMQzW0w1l) | [Shadow Island](https://open.spotify.com/artist/5g5bia6tcNM6KhpPxhKDr1) | [Shadow Island](https://open.spotify.com/album/0VAbUrsrIPKuwPdrZH1gVR) | 3:05 |
 | 122 | [Not Giving Up](https://open.spotify.com/track/7EYR3GjoC4l9g66mRFvQ6F) | [Goldbeam](https://open.spotify.com/artist/6jKZwcKkpcHRGKco0O6TuZ) | [Good Days](https://open.spotify.com/album/6NxyS1NtzsTBKRMwSI1eKF) | 3:14 |
 
-Snapshot ID: `MCwxODJjZWI3Y2RhMDc1MDU0MGVlMzliODFiZWY1NGFlMDdhOTU0ZGM3`
+Snapshot ID: `MCw5MjQ1NTBlZDJiNjgwMjEzNzYzZmM5YzEzNmQ4MDA5YTEwYmIyYTc2`

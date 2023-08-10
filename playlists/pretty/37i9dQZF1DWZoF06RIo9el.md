@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de julio 2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,538,017 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,538,313 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 7 | [BABY HELLO](https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [BABY HELLO](https://open.spotify.com/album/5KDgQ8sKzlThX02A5urLj0) | 3:42 |
 | 8 | [LAGUNAS](https://open.spotify.com/track/3HOKxuTDmNVmIlCIpBiD8m) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:51 |
 | 9 | [Mi Bello Angel](https://open.spotify.com/track/1oWkcc7hQdVYPQMyQ6AFov) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Nata Montana](https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7) | 3:08 |
-| 10 | [COCO LOCO](https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [COCO LOCO](https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB) | 2:46 |
-| 11 | [Chulo pt.2](https://open.spotify.com/track/0J9g1MMJDhyvOb3NWckHMm) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Chulo pt.2](https://open.spotify.com/album/3gsIT2tGpLm0mQGRCnrZ7j) | 3:39 |
+| 10 | [Chulo pt.2](https://open.spotify.com/track/0J9g1MMJDhyvOb3NWckHMm) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Chulo pt.2](https://open.spotify.com/album/3gsIT2tGpLm0mQGRCnrZ7j) | 3:39 |
+| 11 | [COCO LOCO](https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [COCO LOCO](https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB) | 2:46 |
 | 12 | [WATATI \(feat\. Aldo Ranks\) \[From Barbie The Album\]](https://open.spotify.com/track/6MZi5j60L80SZLBxN0bv8s) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Aldo Ranks](https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3) | [WATATI \(feat\. Aldo Ranks\) \[From Barbie The Album\]](https://open.spotify.com/album/6O4Y109bocWpIZDwmT4b1k) | 2:46 |
 | 13 | [wiggy](https://open.spotify.com/track/4xU4XeklG562EnanWzpY3A) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [wiggy](https://open.spotify.com/album/68SNI4G6JbLY2CqjFXfN0n) | 2:26 |
 | 14 | [Rincón](https://open.spotify.com/track/4PMi46eDFyLmHKKtVTrDGb) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Rincón](https://open.spotify.com/album/1Kq2pzsoVXEtoXaZf0x2RY) | 2:44 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 24 | [Hora de Salir](https://open.spotify.com/track/6yv9it6siINSacVKHrgLmI) | [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Hora de Salir](https://open.spotify.com/album/4HAKrFKWngyiF8OsEdoS09) | 3:03 |
 | 25 | [Déjalo En Visto](https://open.spotify.com/track/5phSp1VmzYJTvu1qZYdQS0) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Déjalo En Visto](https://open.spotify.com/album/5XtVHkEov3lgISXN8YUdbe) | 3:09 |
 | 26 | [Ojitos Rojos \- Remix](https://open.spotify.com/track/5mzRxAOdqDjzpKUvicd28J) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Ojitos Rojos \(Remix\)](https://open.spotify.com/album/0bKvyVdhfsb0hLcN7oVUpv) | 3:23 |
-| 27 | [SALVAJE](https://open.spotify.com/track/0INArSC37ezsIj4b2G3S1L) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [SALVAJE](https://open.spotify.com/album/4Tb5qho45suRbRG3gPfA5L) | 3:25 |
-| 28 | [Gorra L.A.](https://open.spotify.com/track/08OOZHubFNdgVZ3N714zjG) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Gorra L.A.](https://open.spotify.com/album/1CSP6xUW9UGaQG4XsWRY1j) | 2:41 |
+| 27 | [Gorra L.A.](https://open.spotify.com/track/08OOZHubFNdgVZ3N714zjG) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Gorra L.A.](https://open.spotify.com/album/1CSP6xUW9UGaQG4XsWRY1j) | 2:41 |
+| 28 | [SALVAJE](https://open.spotify.com/track/0INArSC37ezsIj4b2G3S1L) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [SALVAJE](https://open.spotify.com/album/4Tb5qho45suRbRG3gPfA5L) | 3:25 |
 | 29 | [Weeknd<3](https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [LQMGDT](https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb) | 3:27 |
 | 30 | [Ex \(con La Joaqui\)](https://open.spotify.com/track/4aHc6XvgDFIdey7Y7D8lH4) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [DESGENERADOS MIXTAPE](https://open.spotify.com/album/0YcR2HiDBoW60Alu3CZu2R) | 3:04 |
 | 31 | [FANTASMA \| AVC](https://open.spotify.com/track/7fsQJ46vwtDi5p9DzeRDzB) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [FANTASMA \| AVC](https://open.spotify.com/album/6qgdKe2WdqizZIvO3sRpwP) | 4:45 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 43 | [Limonadita Fresca](https://open.spotify.com/track/639HTh3UQI6kZXn6Qb7lH6) | [DJ Maff](https://open.spotify.com/artist/5CKb0P2vvpC9JD7wjB80gu), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Limonadita Fresca](https://open.spotify.com/album/0WNHeQl2UyqgvfqWfWrcEH) | 3:20 |
 | 44 | [No Quiero Olvidarte](https://open.spotify.com/track/23o6PatI0hYzKoQIOOAD3d) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [No Quiero Olvidarte](https://open.spotify.com/album/4fVokzcFNJnOUjGposnKeb) | 3:50 |
 | 45 | [Hasta Que Se Acabe la Fiesta](https://open.spotify.com/track/6Sks3FrcFeSJz33JRYLKLc) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Hasta Que Se Acabe la Fiesta](https://open.spotify.com/album/0Bzun9VhIDn4n0qllqLbwP) | 3:24 |
-| 46 | [A Escondidas](https://open.spotify.com/track/6lEf9vBtcjqRPOtmDPqXwe) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Voy a Ti](https://open.spotify.com/album/7gUNzasmUNhcwpkgHnILQe) | 3:39 |
-| 47 | [80's](https://open.spotify.com/track/1SzFUihB1muYUkQOb41fbx) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [80's](https://open.spotify.com/album/0dLBUX8WEaabSqpkAFnQES) | 3:33 |
+| 46 | [80's](https://open.spotify.com/track/1SzFUihB1muYUkQOb41fbx) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [80's](https://open.spotify.com/album/0dLBUX8WEaabSqpkAFnQES) | 3:33 |
+| 47 | [A Escondidas](https://open.spotify.com/track/6lEf9vBtcjqRPOtmDPqXwe) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Voy a Ti](https://open.spotify.com/album/7gUNzasmUNhcwpkgHnILQe) | 3:39 |
 | 48 | [terco](https://open.spotify.com/track/5UIVNKCKEJpbNJlSTBJYk5) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw), [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [rimas del verbo amar](https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn) | 2:27 |
 | 49 | [miami](https://open.spotify.com/track/47gI06QfSMlGSB1gAzQzDT) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [miami](https://open.spotify.com/album/153f5GwVuSDdN3jMGjbtxr) | 2:22 |
 | 50 | [Cuando Él No Está](https://open.spotify.com/track/356IggcVrKiEhMhCuc0mUL) | [Cruz](https://open.spotify.com/artist/1JZpCeGFkcB3EJi3Dejxlp), [Cley Rose](https://open.spotify.com/artist/5hE7injsbBcx9vQZZKtcwu) | [Madison Vol\. 1](https://open.spotify.com/album/1PYQozdoCkUH7pE8qznbJn) | 3:35 |
 
-Snapshot ID: `MCwxYWZkNzE4ZTI5ZTgzOTBlMGFmOTJhZjhmZWEwOTA4NzJmMTlmN2Rh`
+Snapshot ID: `MCxhYzI2ZTc5ZGM5NjcxYjNmMzNhZDJkMGY3ZjVkYmQ1ODc5YzZiOGVm`

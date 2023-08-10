@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Fernandinho",
-  "num_followers": 123054,
+  "num_followers": 123193,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzY4Y2VhOTRjMDEyNjVhOTYxZDZkNjk2YjVhYTBhMjE3NTFlN2Iz",
+  "snapshot_id": "MCxjN2IyN2I4NDY4MzEwY2JiMzg4ODU3NWIwMzUxMmI0ZTZkODk3YWMw",
   "tracks": [
     {
       "added_at": "2023-08-04 17:53:24",
@@ -647,22 +647,18 @@
     {
       "added_at": "2023-08-04 17:53:24",
       "album": {
-        "name": "Mente Brilhante",
-        "url": "https://open.spotify.com/album/5c35wXVbHDGXhnY84WFmSy"
+        "name": "Nada Vai Me Parar",
+        "url": "https://open.spotify.com/album/3DkwV4LBkLW0vPX9ZOSAMv"
       },
       "artists": [
         {
-          "name": "Palankin",
-          "url": "https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ"
-        },
-        {
-          "name": "Ana Rock",
-          "url": "https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U"
+          "name": "AtituD",
+          "url": "https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p"
         }
       ],
-      "duration_ms": 307533,
-      "name": "Mente Brilhante",
-      "url": "https://open.spotify.com/track/7GJdlUbMQHcAS9ztW6YFZ7"
+      "duration_ms": 229320,
+      "name": "Nada Vai Me Parar",
+      "url": "https://open.spotify.com/track/5T5lgvGDNxEAxOHrKNMvTW"
     },
     {
       "added_at": "2023-08-04 17:53:24",
@@ -687,6 +683,26 @@
       "duration_ms": 222727,
       "name": "Cora\u00e7\u00e3o de Pedra",
       "url": "https://open.spotify.com/track/0ZqrbdSQrwCB523ggelHhu"
+    },
+    {
+      "added_at": "2023-08-04 17:53:24",
+      "album": {
+        "name": "Mente Brilhante",
+        "url": "https://open.spotify.com/album/5c35wXVbHDGXhnY84WFmSy"
+      },
+      "artists": [
+        {
+          "name": "Palankin",
+          "url": "https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ"
+        },
+        {
+          "name": "Ana Rock",
+          "url": "https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U"
+        }
+      ],
+      "duration_ms": 307533,
+      "name": "Mente Brilhante",
+      "url": "https://open.spotify.com/track/7GJdlUbMQHcAS9ztW6YFZ7"
     },
     {
       "added_at": "2023-08-04 17:53:24",
@@ -723,22 +739,6 @@
     {
       "added_at": "2023-08-04 17:53:24",
       "album": {
-        "name": "Sou Teu",
-        "url": "https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC"
-      },
-      "artists": [
-        {
-          "name": "David Quinlan",
-          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
-        }
-      ],
-      "duration_ms": 350664,
-      "name": "Sou Teu",
-      "url": "https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ"
-    },
-    {
-      "added_at": "2023-08-04 17:53:24",
-      "album": {
         "name": "Palavrantiga Ao Vivo (Pt. 3)",
         "url": "https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH"
       },
@@ -771,6 +771,38 @@
     {
       "added_at": "2023-08-04 17:53:24",
       "album": {
+        "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o / Santo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/42NjnTNuaIEGBsX3XACxGX"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 274005,
+      "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/5UtV3TOSr21gcvSxKA0mhf"
+    },
+    {
+      "added_at": "2023-08-04 17:53:24",
+      "album": {
+        "name": "Sou Teu",
+        "url": "https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC"
+      },
+      "artists": [
+        {
+          "name": "David Quinlan",
+          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
+        }
+      ],
+      "duration_ms": 350664,
+      "name": "Sou Teu",
+      "url": "https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ"
+    },
+    {
+      "added_at": "2023-08-04 17:53:24",
+      "album": {
         "name": "Na Terra Parte 2/3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2REZbS8CQZnhrBdEhmTZ1d"
       },
@@ -791,22 +823,6 @@
     {
       "added_at": "2023-08-04 17:53:24",
       "album": {
-        "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o / Santo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/42NjnTNuaIEGBsX3XACxGX"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 274005,
-      "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/5UtV3TOSr21gcvSxKA0mhf"
-    },
-    {
-      "added_at": "2023-08-04 17:53:24",
-      "album": {
         "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina (Ao Vivo)",
         "url": "https://open.spotify.com/album/3zfUPNwzbXglzAEsaOdQl9"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 251707,
       "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina - Ao Vivo",
       "url": "https://open.spotify.com/track/2G8YIlCvrzyoTUxODWWWBw"
-    },
-    {
-      "added_at": "2023-08-04 17:53:24",
-      "album": {
-        "name": "Nada Vai Me Parar",
-        "url": "https://open.spotify.com/album/3DkwV4LBkLW0vPX9ZOSAMv"
-      },
-      "artists": [
-        {
-          "name": "AtituD",
-          "url": "https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p"
-        }
-      ],
-      "duration_ms": 229320,
-      "name": "Nada Vai Me Parar",
-      "url": "https://open.spotify.com/track/5T5lgvGDNxEAxOHrKNMvTW"
     },
     {
       "added_at": "2023-08-04 17:53:24",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-08-04 17:53:24",
       "album": {
-        "name": "Caminho Sem Volta",
-        "url": "https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR"
-      },
-      "artists": [
-        {
-          "name": "Stone Worship",
-          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
-        }
-      ],
-      "duration_ms": 215064,
-      "name": "Caminho Sem Volta",
-      "url": "https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh"
-    },
-    {
-      "added_at": "2023-08-04 17:53:24",
-      "album": {
         "name": "Hoje",
         "url": "https://open.spotify.com/album/2ce7nhONsfJkhYvbdG302z"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 244457,
       "name": "N\u00e1ufrago",
       "url": "https://open.spotify.com/track/4S59qX21KI984gd80DhHCx"
+    },
+    {
+      "added_at": "2023-08-04 17:53:24",
+      "album": {
+        "name": "Caminho Sem Volta",
+        "url": "https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR"
+      },
+      "artists": [
+        {
+          "name": "Stone Worship",
+          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
+        }
+      ],
+      "duration_ms": 215064,
+      "name": "Caminho Sem Volta",
+      "url": "https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh"
     },
     {
       "added_at": "2023-08-04 17:53:24",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2023-08-04 17:53:24",
       "album": {
+        "name": "Agora Eu Vivo Teu Amor",
+        "url": "https://open.spotify.com/album/32ZRNqlaLU1i87f73nuEvO"
+      },
+      "artists": [
+        {
+          "name": "Stone Worship",
+          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
+        }
+      ],
+      "duration_ms": 190519,
+      "name": "Agora Eu Vivo Teu Amor",
+      "url": "https://open.spotify.com/track/7xZmvwdTsv3Yn8iCTsaVl0"
+    },
+    {
+      "added_at": "2023-08-04 17:53:24",
+      "album": {
         "name": "Trindade",
         "url": "https://open.spotify.com/album/7KRAib9LMy9keCV4YHT3aK"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 769852,
       "name": "Trindade",
       "url": "https://open.spotify.com/track/3rtLD5pPNKASw1t4MRnIW3"
-    },
-    {
-      "added_at": "2023-08-04 17:53:24",
-      "album": {
-        "name": "Agora Eu Vivo Teu Amor",
-        "url": "https://open.spotify.com/album/32ZRNqlaLU1i87f73nuEvO"
-      },
-      "artists": [
-        {
-          "name": "Stone Worship",
-          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
-        }
-      ],
-      "duration_ms": 190519,
-      "name": "Agora Eu Vivo Teu Amor",
-      "url": "https://open.spotify.com/track/7xZmvwdTsv3Yn8iCTsaVl0"
     },
     {
       "added_at": "2023-08-04 17:53:24",

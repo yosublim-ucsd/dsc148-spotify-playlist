@@ -1,12 +1,12 @@
 {
   "description": "Taking it back to the 2000s. Cover: Jay-Z",
-  "num_followers": 97384,
+  "num_followers": 97519,
   "original_name": "I Love My 2000s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGY0YmM0ZTBmMjA4ZTRkNTE0ZTIyNDE3MTM3MjYyMzAzMTNkYjAx",
+  "snapshot_id": "MCwxYmM4NDU5NjBhNjM3Mjg2YTgzMDQwMWNkZDY4NDRhZDI1Yzg4Mzk1",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "souljaboytellem.com",
+        "url": "https://open.spotify.com/album/5wFQi4xOTXILQSKQr0Ft8s"
+      },
+      "artists": [
+        {
+          "name": "Soulja Boy",
+          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
+        }
+      ],
+      "duration_ms": 221933,
+      "name": "Crank That (Soulja Boy)",
+      "url": "https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Paper Trail",
         "url": "https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 338853,
       "name": "Live Your Life",
       "url": "https://open.spotify.com/track/3jlbL2OTD5YmIunYzgQTAN"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "souljaboytellem.com",
-        "url": "https://open.spotify.com/album/5wFQi4xOTXILQSKQr0Ft8s"
-      },
-      "artists": [
-        {
-          "name": "Soulja Boy",
-          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
-        }
-      ],
-      "duration_ms": 221933,
-      "name": "Crank That (Soulja Boy)",
-      "url": "https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1347,6 +1347,26 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Crime Mob",
+        "url": "https://open.spotify.com/album/09stXr7AeoB1PsE3RpMpyU"
+      },
+      "artists": [
+        {
+          "name": "Crime Mob",
+          "url": "https://open.spotify.com/artist/5A7d4sfe5ZY1RRf90zlUeo"
+        },
+        {
+          "name": "Lil Scrappy",
+          "url": "https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB"
+        }
+      ],
+      "duration_ms": 205120,
+      "name": "Knuck If You Buck (feat. Lil' Scrappy)",
+      "url": "https://open.spotify.com/track/0RZXNlGPvfMo54fd6uCvAT"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "My Ghetto Report Card",
         "url": "https://open.spotify.com/album/3VqKqWHOHYfZqttJ0WwQHl"
       },
@@ -1367,26 +1387,6 @@
       "duration_ms": 202720,
       "name": "U and Dat (feat. T. Pain & Kandi Girl)",
       "url": "https://open.spotify.com/track/7g7M96UGiA7OR79H86gV4m"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Crime Mob",
-        "url": "https://open.spotify.com/album/09stXr7AeoB1PsE3RpMpyU"
-      },
-      "artists": [
-        {
-          "name": "Crime Mob",
-          "url": "https://open.spotify.com/artist/5A7d4sfe5ZY1RRf90zlUeo"
-        },
-        {
-          "name": "Lil Scrappy",
-          "url": "https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB"
-        }
-      ],
-      "duration_ms": 205120,
-      "name": "Knuck If You Buck (feat. Lil' Scrappy)",
-      "url": "https://open.spotify.com/track/0RZXNlGPvfMo54fd6uCvAT"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1723,22 +1723,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Chicken - N - Beer",
-        "url": "https://open.spotify.com/album/3hJHXxX04PNuGFIxdEHGzg"
+        "name": "The Recession",
+        "url": "https://open.spotify.com/album/06k3QI4XXhSrvAqTh8mAdE"
       },
       "artists": [
         {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
         },
         {
-          "name": "Shawnna",
-          "url": "https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 213760,
-      "name": "Stand Up",
-      "url": "https://open.spotify.com/track/2CtCwQhY0ZLvr8L2l8Bo6e"
+      "duration_ms": 321293,
+      "name": "Put On",
+      "url": "https://open.spotify.com/track/3OePAyHePd68TTKmy2hjq0"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1755,6 +1755,26 @@
       "duration_ms": 238840,
       "name": "Whoa!",
       "url": "https://open.spotify.com/track/71u5SjnkSQgzIt1UzHchbi"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Chicken - N - Beer",
+        "url": "https://open.spotify.com/album/3hJHXxX04PNuGFIxdEHGzg"
+      },
+      "artists": [
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        },
+        {
+          "name": "Shawnna",
+          "url": "https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga"
+        }
+      ],
+      "duration_ms": 213760,
+      "name": "Stand Up",
+      "url": "https://open.spotify.com/track/2CtCwQhY0ZLvr8L2l8Bo6e"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1807,26 +1827,6 @@
       "duration_ms": 216000,
       "name": "So What",
       "url": "https://open.spotify.com/track/0Uc706myy6Th7I6KQ9xA1x"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "The Recession",
-        "url": "https://open.spotify.com/album/06k3QI4XXhSrvAqTh8mAdE"
-      },
-      "artists": [
-        {
-          "name": "Jeezy",
-          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 321293,
-      "name": "Put On",
-      "url": "https://open.spotify.com/track/3OePAyHePd68TTKmy2hjq0"
     },
     {
       "added_at": "2023-06-30 04:00:00",

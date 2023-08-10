@@ -1,12 +1,12 @@
 {
   "description": "The best in current indie rock. Cover: The Last Dinner Party",
-  "num_followers": 111585,
+  "num_followers": 111583,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTc1MzdmZDhkZmI0NWQ0N2MyMWU0Mzk5NjNhODZlNTlmZDg4MTk2",
+  "snapshot_id": "MCxjZWU2NDIyYTUzNjBmN2Q2NTdkYzdjMTg1MThkY2EyYjcyMTkwNzhh",
   "tracks": [
     {
       "added_at": "2023-08-04 19:44:45",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-08-04 19:44:45",
       "album": {
+        "name": "Kiss Ur Face Forever",
+        "url": "https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 166556,
+      "name": "Kiss Ur Face Forever",
+      "url": "https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7"
+    },
+    {
+      "added_at": "2023-08-04 19:44:45",
+      "album": {
         "name": "Never Going Under",
         "url": "https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 309400,
       "name": "Tropic Morning News",
       "url": "https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL"
-    },
-    {
-      "added_at": "2023-08-04 19:44:45",
-      "album": {
-        "name": "Kiss Ur Face Forever",
-        "url": "https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 166556,
-      "name": "Kiss Ur Face Forever",
-      "url": "https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7"
     },
     {
       "added_at": "2023-08-04 19:44:45",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-08-04 19:44:45",
       "album": {
-        "name": "Hippodrome",
-        "url": "https://open.spotify.com/album/7jasBIPf9Yop4dyY9KOVqc"
-      },
-      "artists": [
-        {
-          "name": "Jamie T",
-          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
-        }
-      ],
-      "duration_ms": 161816,
-      "name": "Hippodrome",
-      "url": "https://open.spotify.com/track/3ouStb8Q4Tjgg6SdONuDIr"
-    },
-    {
-      "added_at": "2023-08-04 19:44:45",
-      "album": {
         "name": "dazies",
         "url": "https://open.spotify.com/album/2FmsHWgWAxpHPztCGn4xip"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 264854,
       "name": "dazies",
       "url": "https://open.spotify.com/track/1WucOL2fl6kxq6qz1jIGDM"
+    },
+    {
+      "added_at": "2023-08-04 19:44:45",
+      "album": {
+        "name": "Hippodrome",
+        "url": "https://open.spotify.com/album/7jasBIPf9Yop4dyY9KOVqc"
+      },
+      "artists": [
+        {
+          "name": "Jamie T",
+          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
+        }
+      ],
+      "duration_ms": 161816,
+      "name": "Hippodrome",
+      "url": "https://open.spotify.com/track/3ouStb8Q4Tjgg6SdONuDIr"
     },
     {
       "added_at": "2023-08-04 19:44:45",
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-08-04 19:44:45",
       "album": {
+        "name": "Since August",
+        "url": "https://open.spotify.com/album/4VQYpmg1K5PHZvKnsRGRN9"
+      },
+      "artists": [
+        {
+          "name": "Baird",
+          "url": "https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO"
+        }
+      ],
+      "duration_ms": 175190,
+      "name": "Since August",
+      "url": "https://open.spotify.com/track/3Xd1JtZaloVCfKqMTF5C1Y"
+    },
+    {
+      "added_at": "2023-08-04 19:44:45",
+      "album": {
         "name": "Better (Edit)",
         "url": "https://open.spotify.com/album/6R34iy63JPKrzmIUxCHnW7"
       },
@@ -723,18 +739,18 @@
     {
       "added_at": "2023-08-04 19:44:45",
       "album": {
-        "name": "Since August",
-        "url": "https://open.spotify.com/album/4VQYpmg1K5PHZvKnsRGRN9"
+        "name": "Cramps",
+        "url": "https://open.spotify.com/album/0MT3P8dKhbeI7XwNi21OHE"
       },
       "artists": [
         {
-          "name": "Baird",
-          "url": "https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO"
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
         }
       ],
-      "duration_ms": 175190,
-      "name": "Since August",
-      "url": "https://open.spotify.com/track/3Xd1JtZaloVCfKqMTF5C1Y"
+      "duration_ms": 171493,
+      "name": "Cramps",
+      "url": "https://open.spotify.com/track/4mfPMfuy0fq025OaoPBKSL"
     },
     {
       "added_at": "2023-08-04 19:44:45",
@@ -751,22 +767,6 @@
       "duration_ms": 293631,
       "name": "Prophecy of the Dragon",
       "url": "https://open.spotify.com/track/6sDP5eAl2X2VZXc6vQfRJM"
-    },
-    {
-      "added_at": "2023-08-04 19:44:45",
-      "album": {
-        "name": "Cramps",
-        "url": "https://open.spotify.com/album/0MT3P8dKhbeI7XwNi21OHE"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 171493,
-      "name": "Cramps",
-      "url": "https://open.spotify.com/track/4mfPMfuy0fq025OaoPBKSL"
     },
     {
       "added_at": "2023-08-04 19:44:45",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-08-04 19:44:45",
       "album": {
-        "name": "Walking Backwards",
-        "url": "https://open.spotify.com/album/1HeTs1M70blCYgELW08khg"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 319986,
-      "name": "Walking Backwards",
-      "url": "https://open.spotify.com/track/4Q1FWaLV4jIJJvdtihAwvI"
-    },
-    {
-      "added_at": "2023-08-04 19:44:45",
-      "album": {
         "name": "Falling Apart",
         "url": "https://open.spotify.com/album/7kAdBoeMx7uw9aI2cJ4mwj"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 200891,
       "name": "Falling Apart",
       "url": "https://open.spotify.com/track/48DEKIyp57dlFy7Yn2O12V"
+    },
+    {
+      "added_at": "2023-08-04 19:44:45",
+      "album": {
+        "name": "Walking Backwards",
+        "url": "https://open.spotify.com/album/1HeTs1M70blCYgELW08khg"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 319986,
+      "name": "Walking Backwards",
+      "url": "https://open.spotify.com/track/4Q1FWaLV4jIJJvdtihAwvI"
     },
     {
       "added_at": "2023-08-04 19:44:45",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-08-04 19:44:45",
       "album": {
-        "name": "From Nothing To A Little Bit More",
-        "url": "https://open.spotify.com/album/285M729So9YyJW5aqmiV3y"
-      },
-      "artists": [
-        {
-          "name": "The Lathums",
-          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
-        }
-      ],
-      "duration_ms": 171280,
-      "name": "Lucky Bean",
-      "url": "https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf"
-    },
-    {
-      "added_at": "2023-08-04 19:44:45",
-      "album": {
         "name": "PRE PLEASURE",
         "url": "https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 242737,
       "name": "I Was Neon",
       "url": "https://open.spotify.com/track/4PXjrpBSAXim7Zm0W3yVjQ"
+    },
+    {
+      "added_at": "2023-08-04 19:44:45",
+      "album": {
+        "name": "From Nothing To A Little Bit More",
+        "url": "https://open.spotify.com/album/285M729So9YyJW5aqmiV3y"
+      },
+      "artists": [
+        {
+          "name": "The Lathums",
+          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+        }
+      ],
+      "duration_ms": 171280,
+      "name": "Lucky Bean",
+      "url": "https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf"
     },
     {
       "added_at": "2023-08-04 19:44:45",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-08-04 19:44:45",
       "album": {
-        "name": "TEMPTRESS",
-        "url": "https://open.spotify.com/album/1M6P5oEDwt2pcnnWVsxGPo"
-      },
-      "artists": [
-        {
-          "name": "Ray Laur\u00e9l",
-          "url": "https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA"
-        }
-      ],
-      "duration_ms": 127707,
-      "name": "U SAID!",
-      "url": "https://open.spotify.com/track/3S2FcwSlUhob3FAdHgDwWc"
-    },
-    {
-      "added_at": "2023-08-04 19:44:45",
-      "album": {
         "name": "Skinty Fia",
         "url": "https://open.spotify.com/album/1R7vPDuTFeqCGOLj1JwfRH"
       },
@@ -1175,18 +1159,18 @@
     {
       "added_at": "2023-08-04 19:44:45",
       "album": {
-        "name": "Can't Do Anything",
-        "url": "https://open.spotify.com/album/64S1U9gVicwqHcggv5oZJx"
+        "name": "TEMPTRESS",
+        "url": "https://open.spotify.com/album/1M6P5oEDwt2pcnnWVsxGPo"
       },
       "artists": [
         {
-          "name": "Husbands",
-          "url": "https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP"
+          "name": "Ray Laur\u00e9l",
+          "url": "https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA"
         }
       ],
-      "duration_ms": 164200,
-      "name": "Can't Do Anything",
-      "url": "https://open.spotify.com/track/0XhYsNRgZkCDmvdKS5pd5k"
+      "duration_ms": 127707,
+      "name": "U SAID!",
+      "url": "https://open.spotify.com/track/3S2FcwSlUhob3FAdHgDwWc"
     },
     {
       "added_at": "2023-08-04 19:44:45",
@@ -1203,6 +1187,22 @@
       "duration_ms": 164494,
       "name": "As Good As It Gets",
       "url": "https://open.spotify.com/track/1oSFY7EjYTQGqECkCgX9hF"
+    },
+    {
+      "added_at": "2023-08-04 19:44:45",
+      "album": {
+        "name": "Can't Do Anything",
+        "url": "https://open.spotify.com/album/64S1U9gVicwqHcggv5oZJx"
+      },
+      "artists": [
+        {
+          "name": "Husbands",
+          "url": "https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP"
+        }
+      ],
+      "duration_ms": 164200,
+      "name": "Can't Do Anything",
+      "url": "https://open.spotify.com/track/0XhYsNRgZkCDmvdKS5pd5k"
     },
     {
       "added_at": "2023-08-04 19:44:45",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-08-04 19:44:45",
       "album": {
-        "name": "Someone2Me",
-        "url": "https://open.spotify.com/album/2y4iO77bOYy8MH5PKk9y3n"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 226471,
-      "name": "Someone2Me",
-      "url": "https://open.spotify.com/track/3cPIiiz4XKW8J8tXz1VhoP"
-    },
-    {
-      "added_at": "2023-08-04 19:44:45",
-      "album": {
         "name": "DOOM",
         "url": "https://open.spotify.com/album/6yAkt0vfWLVTgkcvp5dVio"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 231600,
       "name": "SCARING ME",
       "url": "https://open.spotify.com/track/35Bv4QuokBrmWya208VcK2"
+    },
+    {
+      "added_at": "2023-08-04 19:44:45",
+      "album": {
+        "name": "Someone2Me",
+        "url": "https://open.spotify.com/album/2y4iO77bOYy8MH5PKk9y3n"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 226471,
+      "name": "Someone2Me",
+      "url": "https://open.spotify.com/track/3cPIiiz4XKW8J8tXz1VhoP"
     },
     {
       "added_at": "2023-08-04 19:44:45",

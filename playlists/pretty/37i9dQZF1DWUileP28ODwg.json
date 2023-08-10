@@ -1,12 +1,12 @@
 {
   "description": "Tune in here for new and current hits in Contemporary Christian music!  Cover:  Big Daddy Weave",
-  "num_followers": 306268,
+  "num_followers": 306455,
   "original_name": "Top Christian Contemporary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzgyOGU2YjE0ZjY1YWU0MDAwMjU0ZjQ1ZGE4ZDhlMzEwOTZlOTdk",
+  "snapshot_id": "MCw0NWViMjhlOWQ0OWYxNWJjZDdiYjRmYTkyOGM3YjI0OTA0YjM4OWVi",
   "tracks": [
     {
       "added_at": "2023-03-10 08:53:36",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "Fight On My Knees",
-        "url": "https://open.spotify.com/album/2x0LzPFomEY4AmIF6hm2BZ"
-      },
-      "artists": [
-        {
-          "name": "Evan Craft",
-          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
-        }
-      ],
-      "duration_ms": 188499,
-      "name": "Fight On My Knees",
-      "url": "https://open.spotify.com/track/3XHP45ZQGX9aJDwmtSvyXo"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "Holy Spirit Come",
         "url": "https://open.spotify.com/album/1J2AR6hhW7PM7rbJk4O3Xq"
       },
@@ -975,6 +959,22 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
+        "name": "Fight On My Knees",
+        "url": "https://open.spotify.com/album/2x0LzPFomEY4AmIF6hm2BZ"
+      },
+      "artists": [
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        }
+      ],
+      "duration_ms": 188499,
+      "name": "Fight On My Knees",
+      "url": "https://open.spotify.com/track/3XHP45ZQGX9aJDwmtSvyXo"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
         "name": "You Got Me",
         "url": "https://open.spotify.com/album/3fQVmAZGCWUknLVRg6jo3i"
       },
@@ -987,6 +987,22 @@
       "duration_ms": 172327,
       "name": "You Got Me",
       "url": "https://open.spotify.com/track/5a7XPZGqVmqfua9pWCOYE3"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "I'll Fight for You",
+        "url": "https://open.spotify.com/album/59GGbgQ7lQ6dk2Jz8ClAsy"
+      },
+      "artists": [
+        {
+          "name": "Britt Nicole",
+          "url": "https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK"
+        }
+      ],
+      "duration_ms": 167403,
+      "name": "I'll Fight for You",
+      "url": "https://open.spotify.com/track/4XOw2RRfBVFEmJFm4MDGPm"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -1023,22 +1039,6 @@
       "duration_ms": 239431,
       "name": "Me on Your Mind",
       "url": "https://open.spotify.com/track/28WYdGMY9SGNfJ0SarLbxB"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
-        "name": "I'll Fight for You",
-        "url": "https://open.spotify.com/album/59GGbgQ7lQ6dk2Jz8ClAsy"
-      },
-      "artists": [
-        {
-          "name": "Britt Nicole",
-          "url": "https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK"
-        }
-      ],
-      "duration_ms": 167403,
-      "name": "I'll Fight for You",
-      "url": "https://open.spotify.com/track/4XOw2RRfBVFEmJFm4MDGPm"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
+        "name": "Jordan St. Cyr",
+        "url": "https://open.spotify.com/album/0MCDpmEi7dRHtWtW9U4GXC"
+      },
+      "artists": [
+        {
+          "name": "Jordan St. Cyr",
+          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
+        }
+      ],
+      "duration_ms": 188426,
+      "name": "No Matter What",
+      "url": "https://open.spotify.com/track/0OV98BulGkPOoLuO6ADWit"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
         "name": "Yours To Use",
         "url": "https://open.spotify.com/album/55aVf2zLzytvTYuhlSsXYH"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 190666,
       "name": "Good Morning Mercy",
       "url": "https://open.spotify.com/track/0nujijkZ0Msf6eJo1sZ0Mu"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
-        "name": "Jordan St. Cyr",
-        "url": "https://open.spotify.com/album/0MCDpmEi7dRHtWtW9U4GXC"
-      },
-      "artists": [
-        {
-          "name": "Jordan St. Cyr",
-          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
-        }
-      ],
-      "duration_ms": 188426,
-      "name": "No Matter What",
-      "url": "https://open.spotify.com/track/0OV98BulGkPOoLuO6ADWit"
     },
     {
       "added_at": "2023-03-10 08:53:36",

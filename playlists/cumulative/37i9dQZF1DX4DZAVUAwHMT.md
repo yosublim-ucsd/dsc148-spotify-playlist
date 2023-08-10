@@ -4,7 +4,7 @@
 
 > The UK's biggest rock playlist\. Cover: VUKOVI
 
-276 songs - 15 hr 4 min
+277 songs - 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Hold Me Like a Grudge](https://open.spotify.com/track/7u2nN6yhi4SfFyMHLE032Q) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5mWnMYLnfcnkDOCojHW6O1) | 3:35 | 2023-03-24 | 2023-07-28 |
 | [Honda Civic](https://open.spotify.com/track/0JHjsGwxzK7xzpceRcoMbB) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Honda Civic](https://open.spotify.com/album/0VDkmKaedGsW1Eots7DEJM) | 2:50 | 2023-07-06 |  |
 | [honey](https://open.spotify.com/track/6v8CTp7Up0m1AcylQk3vwl) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power \(Deluxe\)](https://open.spotify.com/album/1o8ExR66PcMb1h8a1nhi9k) | 2:53 | 2023-03-08 | 2023-03-09 |
-| [Honey Moon \- Single Edit](https://open.spotify.com/track/3PXcXKto0pmf2VhOYlPD01) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Honey Moon](https://open.spotify.com/album/6NUUD03cgDjzsD0OUYZ5If) | 3:14 | 2023-06-22 |  |
+| [Honey Moon \- Single Edit](https://open.spotify.com/track/3PXcXKto0pmf2VhOYlPD01) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Honey Moon](https://open.spotify.com/album/6NUUD03cgDjzsD0OUYZ5If) | 3:14 | 2023-06-22 | 2023-08-10 |
 | [HORROR SHOW](https://open.spotify.com/track/1r4ZfCIM1soKE3oh7pPUQ1) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [HORROR SHOW](https://open.spotify.com/album/2raloI8qFpP1GzU2Mb7hOW) | 3:15 | 2023-03-30 | 2023-05-19 |
 | [hot girls in hell](https://open.spotify.com/track/7vys2uYSgV5eN1QvdBw6iz) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [hot girls in hell](https://open.spotify.com/album/7Cg3eGiwQB6KVfVoEMWi8y) | 2:50 | 2023-07-20 |  |
 | [Houses of American Style](https://open.spotify.com/track/5Kky5Fr02ofJwTnQCgzBFl) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Houses of American Style](https://open.spotify.com/album/4fVSfJltN2th0XhpMcgx0O) | 4:04 | 2023-04-13 | 2023-05-12 |
@@ -186,6 +186,7 @@
 | [OK](https://open.spotify.com/track/6qNMS8hywSVyaFcH3LqwEn) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [OK](https://open.spotify.com/album/6xF3774il7mBjTAqfgIpeg) | 3:44 | 2023-02-17 | 2023-07-07 |
 | [Okay That's Me](https://open.spotify.com/track/4GwpXgHffb9W4tW7Ee8uAn) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Okay That's Me](https://open.spotify.com/album/1AlRwqxW1pi4JxP3jthq58) | 3:11 | 2023-01-13 | 2023-02-03 |
 | [On Drugs](https://open.spotify.com/track/5m1ncM2CKxfxsJwlVpgZPf) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [That's Life](https://open.spotify.com/album/0dXzD6JFPdhBEX7q2Zq4NR) | 2:33 | 2023-03-17 | 2023-04-14 |
+| [One Man Band](https://open.spotify.com/track/3FrSQvExlKG7OOTjE7Noxq) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [One Man Band](https://open.spotify.com/album/3kHrYmHBC2fi59cNjBbwZn) | 3:38 | 2023-08-09 |  |
 | [ONE NATION UNDERDOGS](https://open.spotify.com/track/0rlcL9H8ZJUEDQ3N0tmTZf) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 1: the blueprint](https://open.spotify.com/album/0otIBMv5zMV7ikDvfWCD3r) | 3:32 | 2023-05-25 | 2023-08-04 |
 | [Orbit](https://open.spotify.com/track/5szx7r9yarz9Duw9F0NT6w) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Orbit](https://open.spotify.com/album/6eT8wyBSQsTmCk5HGNzPiV) | 3:32 | 2023-04-20 | 2023-04-30 |
 | [Orbit](https://open.spotify.com/track/659YVcaiUXCKtdizsyHkND) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Orbit](https://open.spotify.com/album/6WnZa9u2hVV2jgPTSelyjX) | 3:32 | 2023-04-27 | 2023-05-12 |

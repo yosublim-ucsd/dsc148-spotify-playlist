@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > Lorem 🤝 Bleached festival\. Omar Apollo is on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,101,622 likes - 108 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,101,697 likes - 108 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 107 | [Momentary Sweetheart](https://open.spotify.com/track/5GKs69j8y4MajGkizLNFCK) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Momentary Sweetheart](https://open.spotify.com/album/2YIWehCNIisLAgGJ9i4M6W) | 3:02 |
 | 108 | [Backwards Directions](https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Backwards Directions](https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF) | 3:07 |
 
-Snapshot ID: `MCwwZTE0OTU1N2MzMzE3NWM4MjdhNzY0ZTEzMTFjYjQ1MjBlNGUwZjRi`
+Snapshot ID: `MCwxNDEzZmNlOWQ3NTIyYmJiMGJhZGUxNGRmNmU1MGYzMWQyYmY5ZDIw`

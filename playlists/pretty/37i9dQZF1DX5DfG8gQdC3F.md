@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Karan Aujla, Ikky & Preston Pablo, Doja Cat and Halle.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,109 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,114 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 63 | [MAN DOWN](https://open.spotify.com/track/3jqEeqbsATtPx2V37ChPe0) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [MAN DOWN](https://open.spotify.com/album/40ky3rclTC49nBSe3bikop) | 2:34 |
 | 64 | [Please Don't Go](https://open.spotify.com/track/5gBfzyPlfJCOq7uUF9IOA0) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Cheekychizzy](https://open.spotify.com/artist/5z6nZumE4lrnP3Nqcqdhz1) | [Please Don't Go](https://open.spotify.com/album/5v7R0bfnMmiFhqkGFGpIFm) | 2:28 |
 | 65 | [Home](https://open.spotify.com/track/6vB9ixXZc8yqpYjcJshlgG) | [Hannah Georgas](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS) | [Home](https://open.spotify.com/album/6en7EAve3rxTKP1RTwzClA) | 3:55 |
-| 66 | [Quamajur](https://open.spotify.com/track/4iEYvfQHN2ceUpZS852rnm) | [Putumayo](https://open.spotify.com/artist/7k8vgAYpmLCJNOs1J8SB8X), [Juurini](https://open.spotify.com/artist/4hJndL9GhSQZ3rymH5P5cx), [Beatrice Deer](https://open.spotify.com/artist/3YEhsztAtjqpC0JikHMmYe) | [Quamajur](https://open.spotify.com/album/63FnoKSa6gnqhLykGflXTI) | 3:34 |
+| 66 | [Qaumajur](https://open.spotify.com/track/4iEYvfQHN2ceUpZS852rnm) | [Putumayo](https://open.spotify.com/artist/7k8vgAYpmLCJNOs1J8SB8X), [Juurini](https://open.spotify.com/artist/4hJndL9GhSQZ3rymH5P5cx), [Beatrice Deer](https://open.spotify.com/artist/3YEhsztAtjqpC0JikHMmYe) | [Qaumajur](https://open.spotify.com/album/63FnoKSa6gnqhLykGflXTI) | 3:34 |
 | 67 | [I Wish You Were Dead](https://open.spotify.com/track/0kB4SkQmkb5OYELKb60H7T) | [Ricki Ayela](https://open.spotify.com/artist/4yFBbJUbc3Xn1KJD8C6IaG), [JRDN](https://open.spotify.com/artist/2YVjMQPHJLrs0zA0ILNoEs), [Mark Battles](https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI) | [I Wish You Were Dead](https://open.spotify.com/album/0741Yf3DG1vCfV9JOdAzaZ) | 2:32 |
 | 68 | [JOURNEY](https://open.spotify.com/track/1M0eK04kGu4ucZ08VVyP4o) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [GLOBAL WARNING](https://open.spotify.com/album/5dbxmcCgZQLdsLtZW5398p) | 2:54 |
 | 69 | [Kuna Kuna](https://open.spotify.com/track/5nbjIhj6scKENZaiZXngv3) | [Dino and Terry](https://open.spotify.com/artist/4hqAO5iManFwimCILkz47U), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Kuna Kuna](https://open.spotify.com/album/5VIbwEWhaqvPbbewiWRJ4Q) | 7:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Melanin](https://open.spotify.com/track/4Okac0NBnN75gtBGTEh6Bv) | [Beach Season](https://open.spotify.com/artist/44hIVkpzLPUGJGUa04H3jw) | [Melanin](https://open.spotify.com/album/4GJayZNnz62Ui8PEWIOLY6) | 3:16 |
 | 100 | [Now I Know You](https://open.spotify.com/track/24ip7sFlOP3Ftl5EdxV6Zd) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Where Are You Going?](https://open.spotify.com/album/71KLx5jfz3tTE83sKmeXYp) | 3:32 |
 
-Snapshot ID: `MCw2MTg3NGM0MjQzZWE1NTI0ZjE5OWM5OTZhMTY1M2Q2ODU1MWU3ODJk`
+Snapshot ID: `MCwwOTRiZmVkY2VmNGViZThjY2FiMzQ4ZWMzN2U3OGIxZmQ5ZGFmMWM5`

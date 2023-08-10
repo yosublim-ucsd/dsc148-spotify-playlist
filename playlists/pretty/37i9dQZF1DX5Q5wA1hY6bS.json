@@ -1,12 +1,12 @@
 {
   "description": "the best things in life can't be contained.",
-  "num_followers": 1498663,
+  "num_followers": 1498695,
   "original_name": "Wild & Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MGFkMDA4MzNlNGJlMTkwNmY1M2FhN2QzZTlkNzNiMjMxMDYzOTI1",
+  "snapshot_id": "MCwyYmY3NWI5ODlhZmY0ZmNjMzU2NmI2M2UxYzk0MjQ0YWMzOTM5YmFi",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw"
-      },
-      "artists": [
-        {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
-        }
-      ],
-      "duration_ms": 241546,
-      "name": "The Woods",
-      "url": "https://open.spotify.com/track/5377z0OljWvRR7CdSQrJxP"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/0lBgdXhU3VUskJTGwOU2BT"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 196760,
       "name": "Run",
       "url": "https://open.spotify.com/track/7xoDqnyrBDgusvQ1AHoOSx"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "duration_ms": 241546,
+      "name": "The Woods",
+      "url": "https://open.spotify.com/track/5377z0OljWvRR7CdSQrJxP"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Caroline",
-        "url": "https://open.spotify.com/album/6dokqbkGAaQuLxmpfb9g6a"
-      },
-      "artists": [
-        {
-          "name": "Animal Years",
-          "url": "https://open.spotify.com/artist/2TvIyBTuMGzgGuVLWKWJT1"
-        }
-      ],
-      "duration_ms": 211733,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/7IuUsxQWHfXGkRDdAT0MLW"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Twin Forks",
         "url": "https://open.spotify.com/album/5RtOloqFxDxiJJgAkDqrvZ"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 170962,
       "name": "Back to You",
       "url": "https://open.spotify.com/track/6iB4FVNBjXR9M5nhvSlZde"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/6dokqbkGAaQuLxmpfb9g6a"
+      },
+      "artists": [
+        {
+          "name": "Animal Years",
+          "url": "https://open.spotify.com/artist/2TvIyBTuMGzgGuVLWKWJT1"
+        }
+      ],
+      "duration_ms": 211733,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/7IuUsxQWHfXGkRDdAT0MLW"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Unsung Passage",
-        "url": "https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW"
-      },
-      "artists": [
-        {
-          "name": "The Dead Tongues",
-          "url": "https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK"
-        }
-      ],
-      "duration_ms": 197560,
-      "name": "Ebb and Flow",
-      "url": "https://open.spotify.com/track/699xuBhcbpIoXHzMRQbI8j"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Lion's Den",
         "url": "https://open.spotify.com/album/3j3lKIWIoQozFm1UHJ6mUf"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 296796,
       "name": "Mountain Song",
       "url": "https://open.spotify.com/track/2ZsKcXPYFPMF9RIh12XLCh"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Unsung Passage",
+        "url": "https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW"
+      },
+      "artists": [
+        {
+          "name": "The Dead Tongues",
+          "url": "https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK"
+        }
+      ],
+      "duration_ms": 197560,
+      "name": "Ebb and Flow",
+      "url": "https://open.spotify.com/track/699xuBhcbpIoXHzMRQbI8j"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Peach Fuzz",
-        "url": "https://open.spotify.com/album/3SBXtpxz4noPeQg4MqD7RP"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 224360,
-      "name": "Peach Fuzz",
-      "url": "https://open.spotify.com/track/2UFtUjo3UebrpxbAFvSdRz"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "The Man Was Burning",
         "url": "https://open.spotify.com/album/0OhzvTKOvapdOk4KY5Zjly"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 155665,
       "name": "The Man Was Burning",
       "url": "https://open.spotify.com/track/5X8hjt33EdQ8KUaUzcTNQv"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Peach Fuzz",
+        "url": "https://open.spotify.com/album/3SBXtpxz4noPeQg4MqD7RP"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 224360,
+      "name": "Peach Fuzz",
+      "url": "https://open.spotify.com/track/2UFtUjo3UebrpxbAFvSdRz"
     }
   ],
   "unique_name": "Wild & Free",

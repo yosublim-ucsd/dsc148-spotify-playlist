@@ -4,7 +4,7 @@
 
 > Newsworthy indie of 2023: Mitski's beautiful return
 
-1,726 songs - 4 day 7 hr 36 min
+1,727 songs - 4 day 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,7 @@
 | [Bioluminescence](https://open.spotify.com/track/2Xm2BD8quy1r576X4L0MGT) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Bioluminescence](https://open.spotify.com/album/3ljdLdZzfpPaaz95B1xGG9) | 5:12 | 2023-07-28 |  |
 | [Birch \(feat\. Taylor Swift\)](https://open.spotify.com/track/7wo2UNeQBowm28hfAJsEMz) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 5:30 | 2021-09-02 | 2022-01-24 |
 | [Black Dog](https://open.spotify.com/track/1NGPZKzplieiPc5g6lAJ49) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Black Dog](https://open.spotify.com/album/7g57U9ugd9ObC65ecCeEHy) | 3:45 | 2020-05-15 | 2020-10-29 |
-| [Black Fins](https://open.spotify.com/track/6uEApBBOzrHPJFG5iQ7uQN) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Black Fins](https://open.spotify.com/album/7IAnQxcd63aG5cpRQVqYWL) | 4:22 | 2023-07-20 |  |
+| [Black Fins](https://open.spotify.com/track/6uEApBBOzrHPJFG5iQ7uQN) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Black Fins](https://open.spotify.com/album/7IAnQxcd63aG5cpRQVqYWL) | 4:22 | 2023-07-20 | 2023-08-10 |
 | [Black Horse](https://open.spotify.com/track/5FF1oWxyDdSLEmqi4pp5mv) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Ascension](https://open.spotify.com/album/4gh5Xrt4Azk5lCyHanoED1) | 3:42 | 2023-06-16 | 2023-07-07 |
 | [Black Licorice](https://open.spotify.com/track/08D3zofNf3OwOSCAk50UFs) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Black Licorice](https://open.spotify.com/album/7J8OT7Iyo86JKISamIbvzM) | 3:39 | 2020-03-14 | 2020-08-07 |
 | [Black Rain](https://open.spotify.com/track/68FiJnnzDQj7QnG7vGgnFz) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Black Rain](https://open.spotify.com/album/35rdGZPQisAnmSJkmf387b) | 3:51 | 2020-12-04 | 2021-06-25 |
@@ -1634,6 +1634,7 @@
 | [Was It Something I Said](https://open.spotify.com/track/2YEnGQwfXZokCfRbTykYbo) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Was It Something I Said](https://open.spotify.com/album/038iHedcafxMeEWtzsrvye) | 3:42 | 2019-08-16 | 2020-04-03 |
 | [Waste Your Time](https://open.spotify.com/track/7yw9BW04q6sVQ2VkI67rIa) | [Lennie Rayen](https://open.spotify.com/artist/38C8DlknCTvXM8D1hSCjBP) | [Waste Your Time](https://open.spotify.com/album/128amSWTlex39AOupLETx0) | 3:28 | 2022-07-29 | 2022-08-12 |
 | [Wasted](https://open.spotify.com/track/01EZT06EIdnVOLl96Parta) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Wasted](https://open.spotify.com/album/2L78qBH9kCRwbX4o6rPpWs) | 2:29 | 2020-09-04 | 2021-03-24 |
+| [Wasted Summers](https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers](https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY) | 2:10 | 2023-08-08 |  |
 | [Wasted Time](https://open.spotify.com/track/0rlonE9cFsQJUofKngLbzk) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Up All Night](https://open.spotify.com/album/7dC882FIaYsSL0Xr8IWOZY) | 3:05 | 2019-10-19 | 2020-03-14 |
 | [Watching The Credits](https://open.spotify.com/track/2KbfXyUl8eusGT4pWwKroB) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Watching The Credits](https://open.spotify.com/album/3jRcvMTnKCMfIiA1TevG9s) | 3:15 | 2023-07-21 | 2023-08-02 |
 | [Water Me Down](https://open.spotify.com/track/79ap7oTftmfgDUBUsUcYqt) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Water Me Down](https://open.spotify.com/album/4kcsdigEl9ascAJ6a2b2g9) | 4:32 | 2019-09-06 | 2020-02-28 |

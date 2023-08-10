@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 
 > A heavy collision of punk, hardcore and everything in between\. Cover: Knocked Loose
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,041 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,114 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 | 24 | [Come Undone](https://open.spotify.com/track/4ztGu78QFB9Syh7JcS09XR) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Finding God Before God Finds Me \(Deluxe\)](https://open.spotify.com/album/30IYyCP3Ptfat4hO5alq7b) | 4:21 |
 | 25 | [BLURRY \(out of place\)](https://open.spotify.com/track/14uAFiZ94iMTeEpXq1cLCi) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [Sudden Sky](https://open.spotify.com/album/2L6KNKYHaXNPj4lXHSp5vb) | 3:20 |
 | 26 | [High Horse](https://open.spotify.com/track/5ebWSNwQKrnZzx4jvoGX6W) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Manic](https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF) | 2:48 |
-| 27 | [Forgotten](https://open.spotify.com/track/00BBwHjAf8WWq4HcOtEJO1) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Requiem](https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0) | 3:17 |
-| 28 | [Leave It All Behind](https://open.spotify.com/track/3k0tqE5mlRFbzUB5iHVDFN) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 3:18 |
-| 29 | [Call Me Little Sunshine](https://open.spotify.com/track/4W6MuwB3D4fjc0kLlUKZEl) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Call Me Little Sunshine](https://open.spotify.com/album/0K1mTbmQQ6pcVLoxgk6WMq) | 4:44 |
-| 30 | [Let This Haunt You](https://open.spotify.com/track/4VVvShZBwoCWhx0p9Bcq11) | [SLAVES](https://open.spotify.com/artist/0QF3SelvOph6yRhKH8jRxU) | [Beautiful Death](https://open.spotify.com/album/5ApcJSkkS6Xh3ylQNRDNyE) | 3:45 |
+| 27 | [Leave It All Behind](https://open.spotify.com/track/3k0tqE5mlRFbzUB5iHVDFN) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 3:18 |
+| 28 | [Forgotten](https://open.spotify.com/track/00BBwHjAf8WWq4HcOtEJO1) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Requiem](https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0) | 3:17 |
+| 29 | [Let This Haunt You](https://open.spotify.com/track/4VVvShZBwoCWhx0p9Bcq11) | [SLAVES](https://open.spotify.com/artist/0QF3SelvOph6yRhKH8jRxU) | [Beautiful Death](https://open.spotify.com/album/5ApcJSkkS6Xh3ylQNRDNyE) | 3:45 |
+| 30 | [Call Me Little Sunshine](https://open.spotify.com/track/4W6MuwB3D4fjc0kLlUKZEl) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Call Me Little Sunshine](https://open.spotify.com/album/0K1mTbmQQ6pcVLoxgk6WMq) | 4:44 |
 | 31 | [Son of Robot](https://open.spotify.com/track/3ZH8mv5AfnCUY7pxbO52uu) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Artificial Selection](https://open.spotify.com/album/6rBnEJJUih41OU4AemGs4y) | 3:58 |
 | 32 | [when we were young](https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [when we were young](https://open.spotify.com/album/2ZGOqvkbQFLEayRqXxGjc9) | 3:13 |
 | 33 | [Carry the Weight](https://open.spotify.com/track/17aUTUaDHrwv49PViccjy9) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Carry the Weight / From the First Note](https://open.spotify.com/album/1LWKl74lrLudXEtmIUDr3o) | 3:49 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 | 40 | [Agree to Disagree](https://open.spotify.com/track/47rnEcnCJ89jrL3yzQygEw) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 3:02 |
 | 41 | [COLD BLOOD](https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 5:26 |
 | 42 | [Ivy \(Doomsday\)](https://open.spotify.com/track/2Ll0eOXFmIeBlcybOSaQJm) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Misery](https://open.spotify.com/album/5AtTKLErRJPLZAOfPabe7m) | 3:34 |
-| 43 | [Infinite](https://open.spotify.com/track/1aWpVsNjEiqpFvV3KhJiWu) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Infinite](https://open.spotify.com/album/4A0h5fDeSf8P1egJGllKz4) | 2:43 |
-| 44 | [New England Palm Trees](https://open.spotify.com/track/7sxEeJ4ers4gOZ1W3YEnPP) | [Wind Walkers](https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0) | [The Lost Boys](https://open.spotify.com/album/5SAwCFrq2Is2UWzfXwjBlL) | 3:31 |
+| 43 | [New England Palm Trees](https://open.spotify.com/track/7sxEeJ4ers4gOZ1W3YEnPP) | [Wind Walkers](https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0) | [The Lost Boys](https://open.spotify.com/album/5SAwCFrq2Is2UWzfXwjBlL) | 3:31 |
+| 44 | [Infinite](https://open.spotify.com/track/1aWpVsNjEiqpFvV3KhJiWu) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Infinite](https://open.spotify.com/album/4A0h5fDeSf8P1egJGllKz4) | 2:43 |
 | 45 | [Bury a Lie](https://open.spotify.com/track/1RNS0ntWy01bZpPkrjJAyt) | [Rain City Drive](https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7) | [To Better Days](https://open.spotify.com/album/0R8nkP9bWyoCi6NuetVq5p) | 3:16 |
 | 46 | [Hypochondria](https://open.spotify.com/track/0Ta1d0OUwjTANXIu0gz8a9) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [The World Is In Your Way \(Deluxe Edition\)](https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG) | 3:49 |
 | 47 | [Untouchable](https://open.spotify.com/track/4I5QCNEbMbeRusKosXgZtK) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U) | [Baptize](https://open.spotify.com/album/0onI0aisDxDHLmhgjD5tYF) | 3:05 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 | 63 | [wonderful life \(feat\. Dani Filth\)](https://open.spotify.com/track/1kq5dLuzkRLgemasnkUg9G) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Dani Filth](https://open.spotify.com/artist/76qhZXwfMnhJPXacLwGcNK) | [wonderful life \(feat\. Dani Filth\)](https://open.spotify.com/album/1uunFc8ZPthd7kFXaf393T) | 4:34 |
 | 64 | [11 Minutes](https://open.spotify.com/track/3fU5UTgRMz50UEJGA7WJHa) | [Picturesque](https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI) | [11 Minutes](https://open.spotify.com/album/35BbA1D0ehsQOYWZCjcAsO) | 3:04 |
 | 65 | [Monochrome](https://open.spotify.com/track/7Df5RKFErXf8Pq6e7mgJTM) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Holding Absence](https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM) | 3:38 |
-| 66 | [Mother](https://open.spotify.com/track/4Q5rEdxXCYTt33nHm11HQd) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Brutalism](https://open.spotify.com/album/3VrfVLndSkH81aE4CqivdI) | 3:27 |
-| 67 | [Domino](https://open.spotify.com/track/6rYBRpj2tKN3pTnrugVuZF) | [Hail The Sun](https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6) | [New Age Filth](https://open.spotify.com/album/5DGfTPWaXmfdiwlUOBzZdh) | 4:24 |
+| 66 | [Domino](https://open.spotify.com/track/6rYBRpj2tKN3pTnrugVuZF) | [Hail The Sun](https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6) | [New Age Filth](https://open.spotify.com/album/5DGfTPWaXmfdiwlUOBzZdh) | 4:24 |
+| 67 | [Mother](https://open.spotify.com/track/4Q5rEdxXCYTt33nHm11HQd) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Brutalism](https://open.spotify.com/album/3VrfVLndSkH81aE4CqivdI) | 3:27 |
 | 68 | [Before I Cave In](https://open.spotify.com/track/6PB07jO0s8JMyAaQk8CH7q) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp) | [Before I Cave In](https://open.spotify.com/album/3NyafgxbBgTtR4nOSRelDr) | 4:20 |
 | 69 | [satellites\* \*](https://open.spotify.com/track/4MJcimcruJ4GkDsmVaHR3V) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Nothing is True & Everything is Possible](https://open.spotify.com/album/5RqRElQANHEUFyIWPt8FEp) | 3:46 |
 | 70 | [Pray](https://open.spotify.com/track/1DuYS5IWAl7fk4sottVMyZ) | [Picturesque](https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI) | [Pray](https://open.spotify.com/album/5Icvhj9ZzhnOkgrkhb67a1) | 3:44 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 | 77 | [DEATH \(Ever Colder\)](https://open.spotify.com/track/7tAUrb26TuIeZlVVvn9XdJ) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [DEATH \(Ever Colder\)](https://open.spotify.com/album/312yRj61uGSmld6RIl9zl4) | 4:47 |
 | 78 | [Devastation](https://open.spotify.com/track/7JlMigJUTnVlmXODusrtdF) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Devastation](https://open.spotify.com/album/770QyevFqrQduuJDRPtVHU) | 3:41 |
 | 79 | [Blue](https://open.spotify.com/track/2BJ0Mc3zhb4tmcERvbXKTw) | [Savage Hands](https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx) | [The Truth in Your Eyes](https://open.spotify.com/album/5oybwxacDqLiTEkSyILpNm) | 3:47 |
-| 80 | [Empty Thoughts](https://open.spotify.com/track/7fsSWnDC5MIaBqklTIXS2W) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0) | [My Descend](https://open.spotify.com/album/55bPotsZFpNo5Oim20cuh6) | 3:32 |
-| 81 | [Feel It](https://open.spotify.com/track/2UoHSNo1rTOoSH5KBHYvFe) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [The World Is In Your Way \(Deluxe Edition\)](https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG) | 2:54 |
+| 80 | [Feel It](https://open.spotify.com/track/2UoHSNo1rTOoSH5KBHYvFe) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [The World Is In Your Way \(Deluxe Edition\)](https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG) | 2:54 |
+| 81 | [Empty Thoughts](https://open.spotify.com/track/7fsSWnDC5MIaBqklTIXS2W) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0) | [My Descend](https://open.spotify.com/album/55bPotsZFpNo5Oim20cuh6) | 3:32 |
 | 82 | [No One's Listening](https://open.spotify.com/track/0WWL5rECF9ILJQBwM7nCuZ) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Brand New Vision](https://open.spotify.com/album/33c3LDySpfYMOEwfu1eUU1) | 2:50 |
 | 83 | [Nocturnal Future](https://open.spotify.com/track/1Y5jDuVd6djgjTn5UetTxm) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [Nocturnal Future](https://open.spotify.com/album/254aZpGZSlWr87DmiD1zyb) | 4:32 |
 | 84 | [Moonlit](https://open.spotify.com/track/41pMAwF1Z0Z7OhxGfPMDwb) | [Rivals](https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR) | [Damned Soul](https://open.spotify.com/album/29VUzmhLK0zvxyKCPU6AUe) | 3:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 | 99 | [Cold](https://open.spotify.com/track/4tKctEHsnF6EuQUeJDq1Ip) | [Bloom](https://open.spotify.com/artist/65kdSVYKtaef3P8EOCGWHl) | [Cold](https://open.spotify.com/album/5zTT2gcdsgm0RZbLd3gE0O) | 3:39 |
 | 100 | [Red](https://open.spotify.com/track/7g34QqbvMeyDuzf5IRd1PS) | [Savage Hands](https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx) | [Barely Alive](https://open.spotify.com/album/5v20HSKutO3pCMlPwFMI8W) | 3:33 |
 
-Snapshot ID: `MCwwNDlhZGRiZDcxYjIxNDhhMzJhMDhjYWViYWE3OWE4ZjBmNzQwZGRk`
+Snapshot ID: `MCxjMjM0MDY0Y2IyMWE4ZWY2ZWI5ZDYzOGMzNTg1ODYxMWVhMjA3NDk3`

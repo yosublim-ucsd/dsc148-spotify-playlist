@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Melike Şahin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,068 likes - 102 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,099 likes - 102 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 101 | [Summer Island](https://open.spotify.com/track/5TcyJI6GfqGB2X5vubJhrc) | [Tenkitsune](https://open.spotify.com/artist/3npM0ZkW5qRUL5Y7ihHRrU), [Snappy](https://open.spotify.com/artist/1T5E5tdCZl7tPsCtSHWjTE) | [Little Fox Adventure, Pt\. 2](https://open.spotify.com/album/0ATUccmNY87S7VDfjt3wde) | 2:52 |
 | 102 | [Ontas](https://open.spotify.com/track/5c0ANTIJT5sybnh0OINtTo) | [elito](https://open.spotify.com/artist/4OSuHJobGRJFovPsbGCVgR) | [Ontas](https://open.spotify.com/album/0AdXtGSvqTSOkZPUqua1eX) | 3:31 |
 
-Snapshot ID: `MCw5NGQ5Yzg3MjZjZTRlYzAyMWE1MmMyNDdhOGU0MjRjNTNiMTlmNzNh`
+Snapshot ID: `MCw2Zjk2ZGUyOGU2MzFjNmNmOGFmMzA5YzgzYTU5YzEyZDFjNmRiM2E4`

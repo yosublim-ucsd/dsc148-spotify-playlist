@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: ODESZA & Yellow House
 
-867 songs - 2 day 8 hr 40 min
+868 songs - 2 day 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -723,7 +723,7 @@
 | [summer on the inside](https://open.spotify.com/track/21ksz0flcMgWIbERkkpRND) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Max Kaluza](https://open.spotify.com/artist/6lNLgymfWudNsbC0Vio7Qi) | [summer on the inside](https://open.spotify.com/album/3Wl4tQlkhwDKdfZn6K0SgD) | 3:25 | 2021-07-30 | 2022-02-12 |
 | [summertime breeze](https://open.spotify.com/track/1IdASaCkAnfqAPHBqOVP7t) | [The Sanctuary](https://open.spotify.com/artist/3c7DW1zmCGBdgHy8HllzV2) | [summertime breeze](https://open.spotify.com/album/7AWpTOhF68ORoyDYXG9TxN) | 3:02 | 2022-05-06 | 2022-07-25 |
 | [Sunburn](https://open.spotify.com/track/7xqDIqjgXW9OHbi1sPxeUF) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Sunburn](https://open.spotify.com/album/1203zCqGjsMNe9vre3dMrJ) | 3:02 | 2022-05-20 | 2022-08-17 |
-| [Sunshine](https://open.spotify.com/track/1hCnHgozKGG5vTlaDG0GU1) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Sunshine](https://open.spotify.com/album/215YLopesmMe6jOG0hPcMj) | 3:29 | 2023-03-17 |  |
+| [Sunshine](https://open.spotify.com/track/1hCnHgozKGG5vTlaDG0GU1) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Sunshine](https://open.spotify.com/album/215YLopesmMe6jOG0hPcMj) | 3:29 | 2023-03-17 | 2023-08-10 |
 | [Sunshine State](https://open.spotify.com/track/4fdnzqkyETaIfre0df8FHk) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Sunshine State](https://open.spotify.com/album/7EWBIDFpNqrkZgN6UduHij) | 2:18 | 2021-07-16 | 2022-04-12 |
 | [Sunsleeper](https://open.spotify.com/track/7yWd93ZTbCuhaH2QCsTHKc) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Sunsleeper](https://open.spotify.com/album/0ek3Sau5tGwOmwQFAzrx1M) | 3:42 | 2023-02-24 |  |
 | [Super Good Times](https://open.spotify.com/track/1qooiZqttVLM5Z2dHLofHM) | [Suray Sertin](https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP) | [Super Good Times](https://open.spotify.com/album/5a7aGgIO1ZziPyjE6MJZ8T) | 3:41 | 2021-02-26 | 2022-07-27 |
@@ -762,6 +762,7 @@
 | [The Light](https://open.spotify.com/track/6Cf2PaHhf7XaBCX87k2dal) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX) | [Remedy](https://open.spotify.com/album/0XNzjaUvXjnfL0O5PPHCgn) | 4:49 | 2022-03-18 | 2022-07-21 |
 | [The Medium](https://open.spotify.com/track/3LtlQb74pLqC5KsllxIXoV) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [MAHAL](https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR) | 3:07 | 2022-09-17 | 2022-10-06 |
 | [The Other Lover \- Little Dragon Vocal Celebration Mix](https://open.spotify.com/track/45659OEpkUJgWppTLASMg4) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [New Me, Same Us Remix EP](https://open.spotify.com/album/6k1Dz3KDGr2XsWJ2qArace) | 6:19 | 2021-08-06 | 2022-07-28 |
+| [The Pool](https://open.spotify.com/track/0vrk52MOndmqMjtMNYCApR) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [The Pool](https://open.spotify.com/album/6fMCbvSwgHSnB0BcgVB7m8) | 3:35 | 2023-07-28 |  |
 | [The Road to Love](https://open.spotify.com/track/2umORTX6Xf9Gqhf3kuGLD0) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [The Road to Love](https://open.spotify.com/album/22rslaxtTJQgVG1KhJAoLW) | 4:10 | 2021-05-21 | 2022-07-29 |
 | [The Sun \(feat\. JAWNY\)](https://open.spotify.com/track/4SlGfTlNnFpn3eaHIPGRLC) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [The Sun](https://open.spotify.com/album/4k1tw6qkLHgJijNDFl09Q0) | 2:39 | 2022-02-11 | 2022-07-29 |
 | [The Trouble with Us](https://open.spotify.com/track/47OJzoslrchHSbjAeR4Srv) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Happiness, Guaranteed](https://open.spotify.com/album/2MrsSz89mk5XCcRF3gccLG) | 3:43 | 2022-04-29 | 2022-07-20 |

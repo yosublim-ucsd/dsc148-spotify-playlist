@@ -3873,6 +3873,32 @@
     },
     {
       "album": {
+        "name": "Caba\u00f1a",
+        "url": "https://open.spotify.com/album/4pB67EzrWH1xI6h7y4DbRT"
+      },
+      "artists": [
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        },
+        {
+          "name": "Los Patos Feos Inc",
+          "url": "https://open.spotify.com/artist/5ys86BAZteP8RpVCDmT4p5"
+        },
+        {
+          "name": "Nes",
+          "url": "https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178836,
+      "name": "Caba\u00f1a",
+      "url": "https://open.spotify.com/track/6UR1k5NGqgNGzgVmMtT768"
+    },
+    {
+      "album": {
         "name": "Babylon",
         "url": "https://open.spotify.com/album/1J4lvHXXl9xoEo45zCHuN3"
       },
@@ -5826,7 +5852,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 243773,
       "name": "Cupid's Chokehold / Breakfast in America",
       "url": "https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK"
@@ -12980,7 +13006,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 198139,
       "name": "La Maco",
       "url": "https://open.spotify.com/track/6vIAesoAJNm0g3mPN8EXpB"
@@ -28720,7 +28746,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-09",
+      "date_removed": null,
       "duration_ms": 199148,
       "name": "Ya Ni Se",
       "url": "https://open.spotify.com/track/270ZMuPkTL02DYyG2ntJv2"

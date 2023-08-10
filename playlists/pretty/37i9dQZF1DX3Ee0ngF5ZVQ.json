@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Jenna Paulette",
-  "num_followers": 412806,
+  "num_followers": 412916,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzFmN2U5MmJlOWY2NGEzYTcxNWFjYjZlOWQyZDM2Njc0M2FlOTQ2",
+  "snapshot_id": "MCw2ZTYzZjEzOTM0NDkwOWM1YTMwZDZjNGFjYzViM2NhM2FhNmFkYWJi",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1035,18 +1035,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Tennessee Drinkin'",
-        "url": "https://open.spotify.com/album/3eo8jtVasYNEcqSt48p1UY"
+        "name": "Wannabe",
+        "url": "https://open.spotify.com/album/5XrGiVliWSPdiaIySBz5y4"
       },
       "artists": [
         {
-          "name": "William Beckmann",
-          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
+          "name": "Dalton Domino",
+          "url": "https://open.spotify.com/artist/2qsLBELO7Pw7Bpffvv9yDT"
+        },
+        {
+          "name": "Stephanie Lambring",
+          "url": "https://open.spotify.com/artist/7chfbqQEd0M1cJPwybXaZD"
         }
       ],
-      "duration_ms": 182318,
-      "name": "Tennessee Drinkin'",
-      "url": "https://open.spotify.com/track/2nUSe14xSG9IrZsmzZrqn3"
+      "duration_ms": 293862,
+      "name": "Wannabe",
+      "url": "https://open.spotify.com/track/22NdTBOE9CgBsMwKlwXJoI"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1083,22 +1087,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Wannabe",
-        "url": "https://open.spotify.com/album/5XrGiVliWSPdiaIySBz5y4"
+        "name": "Tennessee Drinkin'",
+        "url": "https://open.spotify.com/album/3eo8jtVasYNEcqSt48p1UY"
       },
       "artists": [
         {
-          "name": "Dalton Domino",
-          "url": "https://open.spotify.com/artist/2qsLBELO7Pw7Bpffvv9yDT"
-        },
-        {
-          "name": "Stephanie Lambring",
-          "url": "https://open.spotify.com/artist/7chfbqQEd0M1cJPwybXaZD"
+          "name": "William Beckmann",
+          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
         }
       ],
-      "duration_ms": 293862,
-      "name": "Wannabe",
-      "url": "https://open.spotify.com/track/22NdTBOE9CgBsMwKlwXJoI"
+      "duration_ms": 182318,
+      "name": "Tennessee Drinkin'",
+      "url": "https://open.spotify.com/track/2nUSe14xSG9IrZsmzZrqn3"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Haunted House",
-        "url": "https://open.spotify.com/album/6VIrPVixLcKYpMCHXZssKD"
+        "name": "Wherever I Am",
+        "url": "https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS"
       },
       "artists": [
         {
-          "name": "Treaty Oak Revival",
-          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+          "name": "Kolton Moore & the Clever Few",
+          "url": "https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj"
         }
       ],
-      "duration_ms": 272666,
-      "name": "Haunted House",
-      "url": "https://open.spotify.com/track/1wLfbqkQRZoKuqN0MG4vmX"
+      "duration_ms": 253101,
+      "name": "Wherever I Am",
+      "url": "https://open.spotify.com/track/1mIAWUrotcchpannDztoxM"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Wherever I Am",
-        "url": "https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS"
+        "name": "Haunted House",
+        "url": "https://open.spotify.com/album/6VIrPVixLcKYpMCHXZssKD"
       },
       "artists": [
         {
-          "name": "Kolton Moore & the Clever Few",
-          "url": "https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj"
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
         }
       ],
-      "duration_ms": 253101,
-      "name": "Wherever I Am",
-      "url": "https://open.spotify.com/track/1mIAWUrotcchpannDztoxM"
+      "duration_ms": 272666,
+      "name": "Haunted House",
+      "url": "https://open.spotify.com/track/1wLfbqkQRZoKuqN0MG4vmX"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1327,22 +1327,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Josh Abbott Band and Friends, Vol. 1",
-        "url": "https://open.spotify.com/album/5BjTd8BVd3dLRyimZROpTl"
+        "name": "Built Different",
+        "url": "https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn"
       },
       "artists": [
         {
-          "name": "Josh Abbott Band",
-          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
-        },
-        {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
         }
       ],
-      "duration_ms": 279115,
-      "name": "Don't It Make You Wanna Dance?",
-      "url": "https://open.spotify.com/track/5ukTAX4siTE3rX728mlHzC"
+      "duration_ms": 180453,
+      "name": "Built Different",
+      "url": "https://open.spotify.com/track/0zEAZTsPl7VXJJ6vx2iAkZ"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1363,18 +1359,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Built Different",
-        "url": "https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn"
+        "name": "Josh Abbott Band and Friends, Vol. 1",
+        "url": "https://open.spotify.com/album/5BjTd8BVd3dLRyimZROpTl"
       },
       "artists": [
         {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+        },
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
         }
       ],
-      "duration_ms": 180453,
-      "name": "Built Different",
-      "url": "https://open.spotify.com/track/0zEAZTsPl7VXJJ6vx2iAkZ"
+      "duration_ms": 279115,
+      "name": "Don't It Make You Wanna Dance?",
+      "url": "https://open.spotify.com/track/5ukTAX4siTE3rX728mlHzC"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1395,18 +1395,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Sometimes I Do",
-        "url": "https://open.spotify.com/album/4GYYO1qgArxKb8I4lgi3Nn"
+        "name": "When the Good Ol Boys Age Out",
+        "url": "https://open.spotify.com/album/4XeY6zjxs6rQ19UeeNo6jY"
       },
       "artists": [
         {
-          "name": "Joe Peters",
-          "url": "https://open.spotify.com/artist/6J1kpiqZmCZQtYB7NJLqVn"
+          "name": "Jon Wolfe",
+          "url": "https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp"
+        },
+        {
+          "name": "Jamey Johnson",
+          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
         }
       ],
-      "duration_ms": 201093,
-      "name": "Sometimes I Do",
-      "url": "https://open.spotify.com/track/52q1L79p7wdKrq5LAn3BHV"
+      "duration_ms": 256486,
+      "name": "When the Good Ol Boys Age Out",
+      "url": "https://open.spotify.com/track/5LAbNvWjVcWgVCkiLdTrfR"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1479,18 +1483,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "My Dad And His Truck",
-        "url": "https://open.spotify.com/album/6I1mXDYlhYNobaKVB0qStf"
+        "name": "Sometimes I Do",
+        "url": "https://open.spotify.com/album/4GYYO1qgArxKb8I4lgi3Nn"
       },
       "artists": [
         {
-          "name": "Josh Abbott Band",
-          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+          "name": "Joe Peters",
+          "url": "https://open.spotify.com/artist/6J1kpiqZmCZQtYB7NJLqVn"
         }
       ],
-      "duration_ms": 218330,
-      "name": "My Dad And His Truck",
-      "url": "https://open.spotify.com/track/5A0ZaBJiX2I1iWrCl4ThBE"
+      "duration_ms": 201093,
+      "name": "Sometimes I Do",
+      "url": "https://open.spotify.com/track/52q1L79p7wdKrq5LAn3BHV"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1591,22 +1595,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "When the Good Ol Boys Age Out",
-        "url": "https://open.spotify.com/album/4XeY6zjxs6rQ19UeeNo6jY"
+        "name": "My Dad And His Truck",
+        "url": "https://open.spotify.com/album/6I1mXDYlhYNobaKVB0qStf"
       },
       "artists": [
         {
-          "name": "Jon Wolfe",
-          "url": "https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp"
-        },
-        {
-          "name": "Jamey Johnson",
-          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
         }
       ],
-      "duration_ms": 256486,
-      "name": "When the Good Ol Boys Age Out",
-      "url": "https://open.spotify.com/track/5LAbNvWjVcWgVCkiLdTrfR"
+      "duration_ms": 218330,
+      "name": "My Dad And His Truck",
+      "url": "https://open.spotify.com/track/5A0ZaBJiX2I1iWrCl4ThBE"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Country Nights",
-        "url": "https://open.spotify.com/album/75prAvBAPUakc6BwI4RiE5"
+        "name": "Boy From Anderson County",
+        "url": "https://open.spotify.com/album/2Mo6Xc2RfhJD6QkmRjYdid"
       },
       "artists": [
         {
-          "name": "Josh Abbott Band",
-          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
         }
       ],
-      "duration_ms": 217400,
-      "name": "Country Nights",
-      "url": "https://open.spotify.com/track/52kKdS8gexeh2ePnEYpaQE"
+      "duration_ms": 244290,
+      "name": "Boy From Anderson County",
+      "url": "https://open.spotify.com/track/6H4TyfdTbm1bIaBkXiyvvw"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Boy From Anderson County",
-        "url": "https://open.spotify.com/album/2Mo6Xc2RfhJD6QkmRjYdid"
-      },
-      "artists": [
-        {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
-        }
-      ],
-      "duration_ms": 244290,
-      "name": "Boy From Anderson County",
-      "url": "https://open.spotify.com/track/6H4TyfdTbm1bIaBkXiyvvw"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "State You Left Me In",
         "url": "https://open.spotify.com/album/3FWfYCQli8A63gkKDs0wNd"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 325299,
       "name": "State You Left Me In",
       "url": "https://open.spotify.com/track/4wU7mkrYRl8FJe0zsDhS2W"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Still Have Some Cowboy Left",
+        "url": "https://open.spotify.com/album/2u9pcE8nJmW73LYV6rYbRG"
+      },
+      "artists": [
+        {
+          "name": "David Adam Byrnes",
+          "url": "https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU"
+        }
+      ],
+      "duration_ms": 201708,
+      "name": "Still Have Some Cowboy Left",
+      "url": "https://open.spotify.com/track/7DbQNgkKQobicPa8s0jRT1"
     }
   ],
   "unique_name": "Texas Country Now",

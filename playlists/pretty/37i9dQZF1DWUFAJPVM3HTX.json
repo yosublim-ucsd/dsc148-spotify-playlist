@@ -1,13 +1,281 @@
 {
-  "description": "The best new R&B by independent artists and labels. Cover: Bea Anderson. Updates every Wednesday.",
-  "num_followers": 206289,
+  "description": "The best new R&B by independent artists and labels. Cover: Sean Leon. Updates every Wednesday.",
+  "num_followers": 206429,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjFjZmU2MWY1MzFmZGEzZjgyMTc3NTc2NjYyYjRmMGY5YTNkMjNi",
+  "snapshot_id": "MCwwMGQ0M2Y4ZTM2MDdhYjQ0YjI1MTk1MzM1MTJhNWNjZjgxYzY2NmM1",
   "tracks": [
+    {
+      "added_at": "2023-08-03 21:06:36",
+      "album": {
+        "name": "AQUARIUS",
+        "url": "https://open.spotify.com/album/0bzEqzgIeug1z49RboQE8i"
+      },
+      "artists": [
+        {
+          "name": "Sean Leon",
+          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
+        }
+      ],
+      "duration_ms": 235235,
+      "name": "AQUARIUS",
+      "url": "https://open.spotify.com/track/0Ttmsrh12z26jzhu0LkEar"
+    },
+    {
+      "added_at": "2023-08-09 17:34:52",
+      "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/5pXEHD47zKV9KyUcEAuRlV"
+      },
+      "artists": [
+        {
+          "name": "Yoko Gold",
+          "url": "https://open.spotify.com/artist/24WdRSLiIlFrqK2FqxGLVm"
+        }
+      ],
+      "duration_ms": 165310,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/4BMhR515OiK2TII7qzQujj"
+    },
+    {
+      "added_at": "2023-08-09 17:34:52",
+      "album": {
+        "name": "Raining Tomorrow",
+        "url": "https://open.spotify.com/album/3bG5fjCjRBLHq0b6p2oGBY"
+      },
+      "artists": [
+        {
+          "name": "Natanya",
+          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
+        }
+      ],
+      "duration_ms": 228484,
+      "name": "Raining Tomorrow",
+      "url": "https://open.spotify.com/track/6CBBTbmqTTSCzkSyfpUs8n"
+    },
+    {
+      "added_at": "2023-08-09 17:34:52",
+      "album": {
+        "name": "Hindsight",
+        "url": "https://open.spotify.com/album/5vNTlYU1zn1rWoAwrpQxso"
+      },
+      "artists": [
+        {
+          "name": "King Sis",
+          "url": "https://open.spotify.com/artist/47jdlqzmvdk0SFUU0gweMz"
+        }
+      ],
+      "duration_ms": 188852,
+      "name": "save yourself",
+      "url": "https://open.spotify.com/track/1h2WWba7PtW9uTapvlvtwL"
+    },
+    {
+      "added_at": "2023-08-09 17:34:52",
+      "album": {
+        "name": "Affirm Me",
+        "url": "https://open.spotify.com/album/63T7MVZ5c7tS9ZDNB1H6i2"
+      },
+      "artists": [
+        {
+          "name": "Jade Novah",
+          "url": "https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K"
+        }
+      ],
+      "duration_ms": 208733,
+      "name": "Affirm Me",
+      "url": "https://open.spotify.com/track/0BxOS9BMSKeRjxhraqlARz"
+    },
+    {
+      "added_at": "2023-08-09 17:34:52",
+      "album": {
+        "name": "All Roads",
+        "url": "https://open.spotify.com/album/2Ns4jtMLkdHBrQyteocGQ9"
+      },
+      "artists": [
+        {
+          "name": "Lucy Park",
+          "url": "https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF"
+        }
+      ],
+      "duration_ms": 197120,
+      "name": "All Roads",
+      "url": "https://open.spotify.com/track/0pvgbTB2y9DNDDXb9T7FJW"
+    },
+    {
+      "added_at": "2023-08-09 17:34:52",
+      "album": {
+        "name": "Self Portrait",
+        "url": "https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep"
+      },
+      "artists": [
+        {
+          "name": "Victor Franco",
+          "url": "https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv"
+        },
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        }
+      ],
+      "duration_ms": 142909,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/4RVcEWtAcGr5TwbAk5oQhH"
+    },
+    {
+      "added_at": "2023-08-09 17:34:52",
+      "album": {
+        "name": "Deserve It",
+        "url": "https://open.spotify.com/album/302gFlqZPYKOag4FTZm5gS"
+      },
+      "artists": [
+        {
+          "name": "TEK.LUN",
+          "url": "https://open.spotify.com/artist/3CE8Ux0j4kdaWpqCssKnVA"
+        },
+        {
+          "name": "April + VISTA",
+          "url": "https://open.spotify.com/artist/5XNCS8lVEpHHbaHv0EabAj"
+        }
+      ],
+      "duration_ms": 223107,
+      "name": "Deserve It",
+      "url": "https://open.spotify.com/track/5mxHLRlVKFyrRsNEwkhwWA"
+    },
+    {
+      "added_at": "2023-08-09 17:34:52",
+      "album": {
+        "name": "When We Were",
+        "url": "https://open.spotify.com/album/7MHlo3z7I7nWc2eytJUQ56"
+      },
+      "artists": [
+        {
+          "name": "Asiatica",
+          "url": "https://open.spotify.com/artist/2JYlPhGdnbb5UeR8qVToPw"
+        }
+      ],
+      "duration_ms": 206225,
+      "name": "Oh Darlin'",
+      "url": "https://open.spotify.com/track/2gg1qS6anzlHRHD40RIbh1"
+    },
+    {
+      "added_at": "2023-08-09 17:34:52",
+      "album": {
+        "name": "Two Hot",
+        "url": "https://open.spotify.com/album/3RligIa8E8VjcXLJqM6PFB"
+      },
+      "artists": [
+        {
+          "name": "GAWD",
+          "url": "https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6"
+        }
+      ],
+      "duration_ms": 180920,
+      "name": "Two Hot",
+      "url": "https://open.spotify.com/track/02lRSjq8bVCZOMUcYzReAb"
+    },
+    {
+      "added_at": "2023-08-09 17:34:52",
+      "album": {
+        "name": "i can see you're online",
+        "url": "https://open.spotify.com/album/1xh1mtVTSZk9GmJyTGqBZA"
+      },
+      "artists": [
+        {
+          "name": "Indira May",
+          "url": "https://open.spotify.com/artist/4PStVha6j7ZX2DNtWwIR24"
+        },
+        {
+          "name": "Saffron",
+          "url": "https://open.spotify.com/artist/6LyCVkX66F8DdgZBkwxYEl"
+        }
+      ],
+      "duration_ms": 149750,
+      "name": "i can see you're online",
+      "url": "https://open.spotify.com/track/5eJAtLcl5sGHf1rs4rB7D1"
+    },
+    {
+      "added_at": "2023-08-09 17:34:52",
+      "album": {
+        "name": "Atlantic Times",
+        "url": "https://open.spotify.com/album/53hM4yZN4OZ3PAmEQjELiF"
+      },
+      "artists": [
+        {
+          "name": "ZADA",
+          "url": "https://open.spotify.com/artist/6xUGLRA9ZV9aSKyGgqR6Uq"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "Atlantic Times",
+      "url": "https://open.spotify.com/track/15Z1gdxnQDrjzI2nvWvn0c"
+    },
+    {
+      "added_at": "2023-08-09 17:34:52",
+      "album": {
+        "name": "ATARI! The Album",
+        "url": "https://open.spotify.com/album/1aWsCTeBi5UvrzL552cs7I"
+      },
+      "artists": [
+        {
+          "name": "Loona Dae",
+          "url": "https://open.spotify.com/artist/0GEOpkT89APucSXvhPvymq"
+        }
+      ],
+      "duration_ms": 246603,
+      "name": "kindness",
+      "url": "https://open.spotify.com/track/3J8UxzkEWpe00UB1IfeOQz"
+    },
+    {
+      "added_at": "2023-08-09 17:34:52",
+      "album": {
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/1G6TpD7WiyKNUSCE7GKRPT"
+      },
+      "artists": [
+        {
+          "name": "HALES",
+          "url": "https://open.spotify.com/artist/0SgD0ob1dliSxZWHc4Dp1K"
+        }
+      ],
+      "duration_ms": 179030,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/3vwbwAySDNj9bv2udUBZf0"
+    },
+    {
+      "added_at": "2023-08-09 17:34:52",
+      "album": {
+        "name": "Replay",
+        "url": "https://open.spotify.com/album/5eQBOtnmxFfItlGAyxtO3c"
+      },
+      "artists": [
+        {
+          "name": "John Concepcion",
+          "url": "https://open.spotify.com/artist/5mqw4f8V3r2PBVKCKAkqiY"
+        }
+      ],
+      "duration_ms": 163033,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/1225xjUATJN7lZKxLBHGAk"
+    },
+    {
+      "added_at": "2023-08-09 17:34:52",
+      "album": {
+        "name": "East end",
+        "url": "https://open.spotify.com/album/6sRs0GS1JgRIMTg8GnlHwI"
+      },
+      "artists": [
+        {
+          "name": "pabl\u00f8",
+          "url": "https://open.spotify.com/artist/3aSrbtVgucn6w1TgRFKgk1"
+        }
+      ],
+      "duration_ms": 201545,
+      "name": "East end",
+      "url": "https://open.spotify.com/track/2GmlxHX3djTFnGHDMx9cRT"
+    },
     {
       "added_at": "2023-08-03 21:06:36",
       "album": {
@@ -99,22 +367,6 @@
       "duration_ms": 304374,
       "name": "Wayz",
       "url": "https://open.spotify.com/track/35EY0qr8KUtbYWJXDXS6vu"
-    },
-    {
-      "added_at": "2023-08-03 21:06:36",
-      "album": {
-        "name": "AQUARIUS",
-        "url": "https://open.spotify.com/album/0bzEqzgIeug1z49RboQE8i"
-      },
-      "artists": [
-        {
-          "name": "Sean Leon",
-          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
-        }
-      ],
-      "duration_ms": 235235,
-      "name": "AQUARIUS",
-      "url": "https://open.spotify.com/track/0Ttmsrh12z26jzhu0LkEar"
     },
     {
       "added_at": "2023-08-03 21:06:36",

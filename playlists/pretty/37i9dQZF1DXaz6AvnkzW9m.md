@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 
 > El cholo se hizo buchón 😎🤠 Eme MalaFe en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,448 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,504 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 | 40 | [Ojos Tumbados](https://open.spotify.com/track/2uHEX5YxQU9wpHH0dQlChS) | [Alto Linaje](https://open.spotify.com/artist/5fUua1kfdZhAopUPazcdC5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Ojos Tumbados](https://open.spotify.com/album/7rxhqZe4tBOackaMInfpjU) | 3:38 |
 | 41 | [Si Me Ven](https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Si Me Ven](https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r) | 2:54 |
 | 42 | [Bélico y Cholo](https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Bélico y Cholo](https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2) | 3:22 |
-| 43 | [Híbrido](https://open.spotify.com/track/5iBBLeUl4UfynWgcJWVGsU) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Híbrido](https://open.spotify.com/album/165Qn8sAYgcxfNvDKFD9kv) | 2:54 |
-| 44 | [Me Gusta Mi Vida](https://open.spotify.com/track/1lRYofIUSURrWsUVafsmzH) | [Joan Y Su Elite](https://open.spotify.com/artist/7zezEcThEVuTMXsVgPLPG1), [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [Me Gusta Mi Vida](https://open.spotify.com/album/6Afdo0WciubGD9TEGkrop9) | 3:47 |
+| 43 | [Me Gusta Mi Vida](https://open.spotify.com/track/1lRYofIUSURrWsUVafsmzH) | [Joan Y Su Elite](https://open.spotify.com/artist/7zezEcThEVuTMXsVgPLPG1), [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [Me Gusta Mi Vida](https://open.spotify.com/album/6Afdo0WciubGD9TEGkrop9) | 3:47 |
+| 44 | [Híbrido](https://open.spotify.com/track/5iBBLeUl4UfynWgcJWVGsU) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Híbrido](https://open.spotify.com/album/165Qn8sAYgcxfNvDKFD9kv) | 2:54 |
 | 45 | [Moda](https://open.spotify.com/track/3y7SyqSwwDm8Ku6v3ZfQDf) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Moda](https://open.spotify.com/album/3cFGhTtaIJJfJWYkeNQ2o2) | 2:55 |
 | 46 | [El R](https://open.spotify.com/track/5jtKmeD6iq49e04qF1T4yW) | [El Makabelico](https://open.spotify.com/artist/0rJ0xlAQI0wLRucDRoQQbO) | [El R](https://open.spotify.com/album/2wNUVU8fYpulfUQEVHZcmX) | 6:02 |
 | 47 | [El Black](https://open.spotify.com/track/4kKREdsRm1CMhxbJT0xs6X) | [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [Les Cerre La Boca](https://open.spotify.com/album/2E54TvL90EkOYk7YmhmvHU) | 3:26 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 | 67 | [Tirando Flow Sesh \#9](https://open.spotify.com/track/1eIr2ASXWFEgjhQQflPZTe) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz) | [Tirando Flow Sesh \#9](https://open.spotify.com/album/2zB3LXzrfi3FoNI4kPLgtO) | 3:07 |
 | 68 | [Cartier en Mano](https://open.spotify.com/track/3cL0YHP6FIE3fWIujhdGCu) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C) | [Cartier en Mano](https://open.spotify.com/album/1nXeA6b9XN2vuMBHX4AdlL) | 2:35 |
 | 69 | [Que Tiene de Malo](https://open.spotify.com/track/3uUvQGiUZMj8WzG5Vo1MCz) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Don Esteban](https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr) | 3:51 |
-| 70 | [El Beisbolero \- En Vivo](https://open.spotify.com/track/54k1cyoG9pOKRQjbE2UKVk) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [El Beisbolero \(En Vivo\)](https://open.spotify.com/album/74pgex0gAHhQhxlYmUZ68l) | 3:27 |
+| 70 | [TRANQUILEÓN](https://open.spotify.com/track/17tisFioZUL9GaClgNYV3S) | [Chiken Lira](https://open.spotify.com/artist/3OXtjz5aMVWAQ4DDQuoICn), [Los Master Plus](https://open.spotify.com/artist/5mrBEGdNTaiavWCmaNet6z) | [TRANQUILEÓN](https://open.spotify.com/album/5xCtNSL4NqQNgw3r7O2KKZ) | 3:39 |
 | 71 | [Cosas De La Clica \(feat\. Legado 7\)](https://open.spotify.com/track/15s1GfJ55mO4HBXTFa1DmB) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Jimmy Humilde Presenta Lo Mejor De Las Calles Vol\. 4](https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX) | 2:18 |
-| 72 | [TRANQUILEÓN](https://open.spotify.com/track/17tisFioZUL9GaClgNYV3S) | [Chiken Lira](https://open.spotify.com/artist/3OXtjz5aMVWAQ4DDQuoICn), [Los Master Plus](https://open.spotify.com/artist/5mrBEGdNTaiavWCmaNet6z) | [TRANQUILEÓN](https://open.spotify.com/album/5xCtNSL4NqQNgw3r7O2KKZ) | 3:39 |
+| 72 | [El Beisbolero \- En Vivo](https://open.spotify.com/track/54k1cyoG9pOKRQjbE2UKVk) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [El Beisbolero \(En Vivo\)](https://open.spotify.com/album/74pgex0gAHhQhxlYmUZ68l) | 3:27 |
 | 73 | [El Llorón](https://open.spotify.com/track/744Hf71vPD64vnPUIYyYjD) | [LOS MUCHACHOS](https://open.spotify.com/artist/7AlvzeMX0in2j3k0fBx7fi), [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC) | [El Llorón](https://open.spotify.com/album/2pDfl8RG9fMNEzLIV0mdTS) | 3:24 |
 | 74 | [un loquerón](https://open.spotify.com/track/2nlBvYdYnN16eJxG9DXFG2) | [vatocholo](https://open.spotify.com/artist/5lgauAo4BLN9PodnIxhxi8), [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [hecho en México](https://open.spotify.com/album/43Wmfa9FeM6va3dxNXn8NS) | 3:03 |
 | 75 | [VIDA LOK4](https://open.spotify.com/track/1hk76aRYEBVuJtweBQ0GEe) | [Dazoner](https://open.spotify.com/artist/11rKJO8o50v5YoibpLLx3B) | [VIDA LOK4](https://open.spotify.com/album/4ujPObxnBaMOhDUB9qLt78) | 3:13 |
 
-Snapshot ID: `MCw1ODcyMDJkMzBjZGFiMDJkYjVkMGZmZWZmYTAxZjNkYzBmZDFjZDhi`
+Snapshot ID: `MCw3MzU2ZTgxYjg5MGU0ODI3MjcwODMzNmZkNGExMGFlZjIxMmJjNWE4`

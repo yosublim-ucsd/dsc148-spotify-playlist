@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "Arah Cinta",
+        "url": "https://open.spotify.com/album/17h6MAgyByTeH3wu8r4icg"
+      },
+      "artists": [
+        {
+          "name": "Siti Nordiana",
+          "url": "https://open.spotify.com/artist/7tbUHCaiBX4cXHQkII3CVH"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211714,
+      "name": "Arah Cinta",
+      "url": "https://open.spotify.com/track/1d6wOH1pl6d3XzHngjQgdg"
+    },
+    {
+      "album": {
         "name": "Asing",
         "url": "https://open.spotify.com/album/08pl2TGC3mp8XJ9CUfzID7"
       },
@@ -2310,7 +2328,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 241666,
       "name": "Ku Lamar Dia",
       "url": "https://open.spotify.com/track/2BQVAvekyCpR2UD4IfySnq"
@@ -3917,6 +3935,28 @@
     },
     {
       "album": {
+        "name": "Sampai Tua",
+        "url": "https://open.spotify.com/album/2Z8pQJ2Y58rYE0u5MlEEy6"
+      },
+      "artists": [
+        {
+          "name": "Ernie Zakri",
+          "url": "https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp"
+        },
+        {
+          "name": "Syamel",
+          "url": "https://open.spotify.com/artist/5K7M6xiKbPlcekc5fjqbgx"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Sampai Tua",
+      "url": "https://open.spotify.com/track/3926oG7uNxjktzOJvTXQWS"
+    },
+    {
+      "album": {
         "name": "Sang Dewi",
         "url": "https://open.spotify.com/album/5JO7f6aqA0Tw1vfZuwLr0I"
       },
@@ -4237,6 +4277,24 @@
     },
     {
       "album": {
+        "name": "Semua Aku Dirayakan",
+        "url": "https://open.spotify.com/album/36D5g0IFrPL3Rdzj3vARGZ"
+      },
+      "artists": [
+        {
+          "name": "Nadin Amizah",
+          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310625,
+      "name": "Semua Aku Dirayakan",
+      "url": "https://open.spotify.com/track/2x3vwXWuecPrRqgEUuSUJA"
+    },
+    {
+      "album": {
         "name": "Sengkek",
         "url": "https://open.spotify.com/album/34mBrSppMy6BDbB6YT8JMj"
       },
@@ -4494,7 +4552,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 160261,
       "name": "SWIPE",
       "url": "https://open.spotify.com/track/1FNfR4kZyozQ1unC5rQGC6"
@@ -4982,10 +5040,32 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 218073,
       "name": "Trauma",
       "url": "https://open.spotify.com/track/5mS6XpcsLnKxXrdvw4uzBk"
+    },
+    {
+      "album": {
+        "name": "Trauma",
+        "url": "https://open.spotify.com/album/6H3lJJCLJjrKAKfm7KaE3Z"
+      },
+      "artists": [
+        {
+          "name": "Aan Story",
+          "url": "https://open.spotify.com/artist/21delmj7yVs6NDL6o1CPbk"
+        },
+        {
+          "name": "Elsya",
+          "url": "https://open.spotify.com/artist/4M207MF4iyxBGBXzx5HL3p"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218073,
+      "name": "Trauma",
+      "url": "https://open.spotify.com/track/6SITe0StjnWHjyNOVzyJTX"
     },
     {
       "album": {
@@ -5088,7 +5168,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 216234,
       "name": "Waktu",
       "url": "https://open.spotify.com/track/025PzVIfqs8GadsWd73r1J"

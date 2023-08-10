@@ -1,12 +1,12 @@
 {
   "description": "2013 highlights from the home of indie music.",
-  "num_followers": 63887,
+  "num_followers": 63941,
   "original_name": "Best of Indie 2013",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjU4NjY0NWZjYjM0ODM4ZDBiMGEzMjVmNjVjNGYyZTNkYWQ2YzNh",
+  "snapshot_id": "MCw1ZTQzOGU2MzY3M2YxMTVmODViNDkyY2I3M2NhYjljYTMyZjY1NTE0",
   "tracks": [
     {
       "added_at": "2023-03-29 13:55:12",
@@ -639,22 +639,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Language & Perspective",
-        "url": "https://open.spotify.com/album/54bO9jrn1NExmpg6Afsc2A"
-      },
-      "artists": [
-        {
-          "name": "Bad Suns",
-          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
-        }
-      ],
-      "duration_ms": 182518,
-      "name": "Cardiac Arrest",
-      "url": "https://open.spotify.com/track/6zQyu8L8yUuJkl6LbQ6iKU"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "Clash the Truth",
         "url": "https://open.spotify.com/album/4qC8mysA680i7chkL3JQQw"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 146293,
       "name": "Sleep Apnea",
       "url": "https://open.spotify.com/track/6XyjwF7CAwuEaW77noJr6I"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "Language & Perspective",
+        "url": "https://open.spotify.com/album/54bO9jrn1NExmpg6Afsc2A"
+      },
+      "artists": [
+        {
+          "name": "Bad Suns",
+          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
+        }
+      ],
+      "duration_ms": 182518,
+      "name": "Cardiac Arrest",
+      "url": "https://open.spotify.com/track/6zQyu8L8yUuJkl6LbQ6iKU"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -835,22 +835,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "When It Was Now",
-        "url": "https://open.spotify.com/album/3yhETmhJwSVSLGDyTJgnqo"
-      },
-      "artists": [
-        {
-          "name": "Atlas Genius",
-          "url": "https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH"
-        }
-      ],
-      "duration_ms": 217386,
-      "name": "Trojans",
-      "url": "https://open.spotify.com/track/0wDEiGfq4pw7FAkYKpkwMo"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "Let's Be Still",
         "url": "https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 268346,
       "name": "Let's Be Still",
       "url": "https://open.spotify.com/track/3QmzlL0tTtDgD1Hwfct68D"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "When It Was Now",
+        "url": "https://open.spotify.com/album/3yhETmhJwSVSLGDyTJgnqo"
+      },
+      "artists": [
+        {
+          "name": "Atlas Genius",
+          "url": "https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH"
+        }
+      ],
+      "duration_ms": 217386,
+      "name": "Trojans",
+      "url": "https://open.spotify.com/track/0wDEiGfq4pw7FAkYKpkwMo"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Changing of the Seasons",
-        "url": "https://open.spotify.com/album/1ZZ4VZwtEVjuYWT0guwUtC"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 222880,
-      "name": "Changing of the Seasons",
-      "url": "https://open.spotify.com/track/3mrlQc1K6sPmoBY1Pv46Ab"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "Holy Fire",
         "url": "https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 292546,
       "name": "Inhaler",
       "url": "https://open.spotify.com/track/4Wics9qaNdLtzfZOwl2mdw"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "Changing of the Seasons",
+        "url": "https://open.spotify.com/album/1ZZ4VZwtEVjuYWT0guwUtC"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 222880,
+      "name": "Changing of the Seasons",
+      "url": "https://open.spotify.com/track/3mrlQc1K6sPmoBY1Pv46Ab"
     },
     {
       "added_at": "2021-09-02 08:24:19",

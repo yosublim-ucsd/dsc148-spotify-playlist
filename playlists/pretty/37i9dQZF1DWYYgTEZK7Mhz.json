@@ -1,12 +1,12 @@
 {
   "description": "Un'estate al mare, stile balenare... \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 18577,
+  "num_followers": 18657,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzgwOTYxMzQ4YzkwMjA2ODg4M2I2YWE3ZDY3OTcxNzgxMTEzODQ3",
+  "snapshot_id": "MCw5MTZhZTQyN2NhNzJhYjJiYWY4OWU5YTkyMWUxMTZiZDVjMTgzZjY0",
   "tracks": [
     {
       "added_at": "2023-06-05 07:42:38",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
+        "name": "Rocco: Zijn Story In 21 Liedjes",
+        "url": "https://open.spotify.com/album/0rD6ZFWRpMdZqAnvcIv66g"
+      },
+      "artists": [
+        {
+          "name": "Rocco Granata",
+          "url": "https://open.spotify.com/artist/2VhQDTCxA5WBYclo7t7UcI"
+        }
+      ],
+      "duration_ms": 164453,
+      "name": "Marina",
+      "url": "https://open.spotify.com/track/4hFhb8YNgPc94Fq0NANpIB"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
         "name": "40 Grandi Successi",
         "url": "https://open.spotify.com/album/6NNxG8OkhT9HiKOfPB3ioV"
       },
@@ -475,18 +491,18 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Rocco: Zijn Story In 21 Liedjes",
-        "url": "https://open.spotify.com/album/0rD6ZFWRpMdZqAnvcIv66g"
+        "name": "Gianni Morandi",
+        "url": "https://open.spotify.com/album/1Z47BhRPU4sSFwXdJDYPsS"
       },
       "artists": [
         {
-          "name": "Rocco Granata",
-          "url": "https://open.spotify.com/artist/2VhQDTCxA5WBYclo7t7UcI"
+          "name": "Gianni Morandi",
+          "url": "https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr"
         }
       ],
-      "duration_ms": 164453,
-      "name": "Marina",
-      "url": "https://open.spotify.com/track/4hFhb8YNgPc94Fq0NANpIB"
+      "duration_ms": 152000,
+      "name": "Andavo A Cento All'Ora",
+      "url": "https://open.spotify.com/track/0JcxwcoLqFiqNXAAw2AeoH"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -507,22 +523,6 @@
       "duration_ms": 149493,
       "name": "Abbronzatissima",
       "url": "https://open.spotify.com/track/5pBoclEiiZgUyZMXgR3jJ7"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
-        "name": "Gianni Morandi",
-        "url": "https://open.spotify.com/album/1Z47BhRPU4sSFwXdJDYPsS"
-      },
-      "artists": [
-        {
-          "name": "Gianni Morandi",
-          "url": "https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Andavo A Cento All'Ora",
-      "url": "https://open.spotify.com/track/0JcxwcoLqFiqNXAAw2AeoH"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
+        "name": "Addio al Nubilato",
+        "url": "https://open.spotify.com/album/6mHXzA1BnxyxJyLYXM0f0h"
+      },
+      "artists": [
+        {
+          "name": "Lu Colombo",
+          "url": "https://open.spotify.com/artist/5pxKcg9uA5SYFZZmTj4kUk"
+        }
+      ],
+      "duration_ms": 233744,
+      "name": "Maracaibo",
+      "url": "https://open.spotify.com/track/3lw94lsMCgCjIicjSlS121"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
         "name": "Estate",
         "url": "https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 151720,
       "name": "Guarda come dondolo",
       "url": "https://open.spotify.com/track/1dtb5yOshvGUMIhYhvdoxh"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
-        "name": "Addio al Nubilato",
-        "url": "https://open.spotify.com/album/6mHXzA1BnxyxJyLYXM0f0h"
-      },
-      "artists": [
-        {
-          "name": "Lu Colombo",
-          "url": "https://open.spotify.com/artist/5pxKcg9uA5SYFZZmTj4kUk"
-        }
-      ],
-      "duration_ms": 233744,
-      "name": "Maracaibo",
-      "url": "https://open.spotify.com/track/3lw94lsMCgCjIicjSlS121"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Nostalgia Italiana - 1965",
-        "url": "https://open.spotify.com/album/7evzx1x6grEBAuCaYgSEvb"
-      },
-      "artists": [
-        {
-          "name": "Petula Clark",
-          "url": "https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8"
-        }
-      ],
-      "duration_ms": 176200,
-      "name": "Ciao Ciao",
-      "url": "https://open.spotify.com/track/5SmMAmpv3m84b4CGm6ZyQl"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Profumo di sole...",
         "url": "https://open.spotify.com/album/3hZVHN9BomKxHogbobO2hR"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 132093,
       "name": "Sei diventata nera",
       "url": "https://open.spotify.com/track/2nQzlb5i7JKIj1xMrf9yVu"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Nostalgia Italiana - 1965",
+        "url": "https://open.spotify.com/album/7evzx1x6grEBAuCaYgSEvb"
+      },
+      "artists": [
+        {
+          "name": "Petula Clark",
+          "url": "https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8"
+        }
+      ],
+      "duration_ms": 176200,
+      "name": "Ciao Ciao",
+      "url": "https://open.spotify.com/track/5SmMAmpv3m84b4CGm6ZyQl"
     },
     {
       "added_at": "2023-06-05 07:42:38",

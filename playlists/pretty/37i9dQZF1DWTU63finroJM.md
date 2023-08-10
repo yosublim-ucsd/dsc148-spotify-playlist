@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > From across the globe\. New artists on the horizon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,578 likes - 141 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,607 likes - 141 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 140 | [PULL UP](https://open.spotify.com/track/7HVA1EkKQi4zNaYwE17Cvo) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [PULL UP](https://open.spotify.com/album/4bqkpI02r4Qc2BFrJtHOic) | 2:41 |
 | 141 | [空っぽ](https://open.spotify.com/track/1VfOJgHWGyXIVcowq3dcJK) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [空っぽ](https://open.spotify.com/album/6gsTB987dJeaTUifVdWbO4) | 4:53 |
 
-Snapshot ID: `MCw3OTNhN2E5ZGFhMmM0ZDhmYjU0ZTFkZTA1MWViMGFmMjIwNTFlODQw`
+Snapshot ID: `MCwzMzQyNTMzMTRhNjAzMjBiZDgzMTlmYzI4OWI2MTFkNzVlZGVhODg0`

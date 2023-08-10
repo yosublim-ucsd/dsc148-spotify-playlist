@@ -1522,7 +1522,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 217265,
-      "name": "Billie (Loving Arms)",
+      "name": "Billie (loving arms)",
       "url": "https://open.spotify.com/track/46E2xeKBLrxS8hJ37Gq35G"
     },
     {
@@ -7426,7 +7426,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 214078,
       "name": "Lost In The Music",
       "url": "https://open.spotify.com/track/0w9cuzYWnR5eSyCZPHTxkK"
@@ -11664,6 +11664,28 @@
       "duration_ms": 188294,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/4KFFv2gYbZyltjKZ5hthIs"
+    },
+    {
+      "album": {
+        "name": "Take My Hand (feat. Josh Barry)",
+        "url": "https://open.spotify.com/album/3FsMheFQtusAMlfV75Nbyc"
+      },
+      "artists": [
+        {
+          "name": "Sam Divine",
+          "url": "https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ"
+        },
+        {
+          "name": "Josh Barry",
+          "url": "https://open.spotify.com/artist/6oruQTIjrgFYzOSKhp7Kt6"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171670,
+      "name": "Take My Hand (feat. Josh Barry)",
+      "url": "https://open.spotify.com/track/78zqqw3oLhwiifmbqHoBaN"
     },
     {
       "album": {

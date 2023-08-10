@@ -4309,6 +4309,24 @@
     },
     {
       "album": {
+        "name": "used to it",
+        "url": "https://open.spotify.com/album/3FwFFvdztqw8Qfiz4vmdMW"
+      },
+      "artists": [
+        {
+          "name": "rl",
+          "url": "https://open.spotify.com/artist/2lEalpmzOYUIL5eoGNASVw"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203600,
+      "name": "used to it",
+      "url": "https://open.spotify.com/track/6898221Y4h68YsprveSQyE"
+    },
+    {
+      "album": {
         "name": "Fortune Cookie",
         "url": "https://open.spotify.com/album/25hxrIRl5CcBV7nAoJFiW8"
       },
@@ -4320,7 +4338,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 141782,
       "name": "Vexed",
       "url": "https://open.spotify.com/track/1ygKweLJhtyXz51C5o0hij"

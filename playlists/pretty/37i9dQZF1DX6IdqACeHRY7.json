@@ -1,12 +1,12 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 148067,
+  "num_followers": 148075,
   "original_name": "Ren hygge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZmU3ODFiNTg3NjcyZTVjOWQ3NjIzY2I2MTBmZjZlMzJkYjIzNWY1",
+  "snapshot_id": "MCw4MjE0OTE5YmJlZmEwYThmNWM5ODk0ZmM2MjRhNWRlMzA0MzgxN2My",
   "tracks": [
     {
       "added_at": "2023-08-03 20:17:12",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-08-03 20:17:12",
       "album": {
+        "name": "Matters of the Heart",
+        "url": "https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw"
+      },
+      "artists": [
+        {
+          "name": "RuthAnne",
+          "url": "https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA"
+        }
+      ],
+      "duration_ms": 175492,
+      "name": "The Vow",
+      "url": "https://open.spotify.com/track/299wMARBINf3S5Fo7WhsZ8"
+    },
+    {
+      "added_at": "2023-08-03 20:17:12",
+      "album": {
         "name": "Vincent",
         "url": "https://open.spotify.com/album/61U8LRbEAiftr3xRri0rxS"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 181400,
       "name": "Please Don't Say You Love Me",
       "url": "https://open.spotify.com/track/2PIlBukQ6limukVR8Ubb5o"
-    },
-    {
-      "added_at": "2023-08-03 20:17:12",
-      "album": {
-        "name": "Matters of the Heart",
-        "url": "https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw"
-      },
-      "artists": [
-        {
-          "name": "RuthAnne",
-          "url": "https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA"
-        }
-      ],
-      "duration_ms": 175492,
-      "name": "The Vow",
-      "url": "https://open.spotify.com/track/299wMARBINf3S5Fo7WhsZ8"
     },
     {
       "added_at": "2023-08-03 20:17:12",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-08-03 20:17:12",
       "album": {
-        "name": "Det\u00b4 kun vigtigt, hvad det er",
-        "url": "https://open.spotify.com/album/4zmqsyAvhA629rPAozixXS"
-      },
-      "artists": [
-        {
-          "name": "Guldimund",
-          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
-        }
-      ],
-      "duration_ms": 199930,
-      "name": "Det\u00b4 kun vigtigt, hvad det er",
-      "url": "https://open.spotify.com/track/1J9fp6cP3L42PqQrp81gi2"
-    },
-    {
-      "added_at": "2023-08-03 20:17:12",
-      "album": {
         "name": "A Song For Every Moon",
         "url": "https://open.spotify.com/album/3IGPQEGAiZZI4Iba81GNq5"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 215320,
       "name": "Suitcase",
       "url": "https://open.spotify.com/track/6dQ1FEt4FByE6tU0dvQNmr"
+    },
+    {
+      "added_at": "2023-08-03 20:17:12",
+      "album": {
+        "name": "Det\u00b4 kun vigtigt, hvad det er",
+        "url": "https://open.spotify.com/album/4zmqsyAvhA629rPAozixXS"
+      },
+      "artists": [
+        {
+          "name": "Guldimund",
+          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
+        }
+      ],
+      "duration_ms": 199930,
+      "name": "Det\u00b4 kun vigtigt, hvad det er",
+      "url": "https://open.spotify.com/track/1J9fp6cP3L42PqQrp81gi2"
     },
     {
       "added_at": "2023-08-03 20:17:12",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2023-08-03 20:17:12",
       "album": {
-        "name": "Keeping Faith",
-        "url": "https://open.spotify.com/album/4lxNvi3XfEZfon54OltWQh"
+        "name": "Somebody Loved",
+        "url": "https://open.spotify.com/album/5EtmydsGgsDtdLDEsbOFZL"
       },
       "artists": [
         {
-          "name": "Amy Wadge",
-          "url": "https://open.spotify.com/artist/0Zh5nyS0km753bfcX4QGHp"
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
         }
       ],
-      "duration_ms": 172058,
-      "name": "Faith's Song",
-      "url": "https://open.spotify.com/track/4HFUxZOWqVemXYF1T7QQ1l"
+      "duration_ms": 153105,
+      "name": "Somebody Loved",
+      "url": "https://open.spotify.com/track/3s8AL0lXdxJYcyqELOrh2l"
     },
     {
       "added_at": "2023-08-03 20:17:12",
@@ -1739,18 +1739,18 @@
     {
       "added_at": "2023-08-03 20:17:12",
       "album": {
-        "name": "Somebody Loved",
-        "url": "https://open.spotify.com/album/5EtmydsGgsDtdLDEsbOFZL"
+        "name": "Keeping Faith",
+        "url": "https://open.spotify.com/album/4lxNvi3XfEZfon54OltWQh"
       },
       "artists": [
         {
-          "name": "Kina Grannis",
-          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+          "name": "Amy Wadge",
+          "url": "https://open.spotify.com/artist/0Zh5nyS0km753bfcX4QGHp"
         }
       ],
-      "duration_ms": 153105,
-      "name": "Somebody Loved",
-      "url": "https://open.spotify.com/track/3s8AL0lXdxJYcyqELOrh2l"
+      "duration_ms": 172058,
+      "name": "Faith's Song",
+      "url": "https://open.spotify.com/track/4HFUxZOWqVemXYF1T7QQ1l"
     },
     {
       "added_at": "2023-08-03 20:17:12",

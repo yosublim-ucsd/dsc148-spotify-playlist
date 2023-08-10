@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Teenage Wrist
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,850 likes - 125 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,928 likes - 125 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 47 | [Getting into Trouble w/ the Boss](https://open.spotify.com/track/21WdnLnH0XhCkjD8WmQGx1) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Asking For A Ride](https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK) | 2:59 |
 | 48 | [Paralyzed](https://open.spotify.com/track/6RPEOpZq5NOOOsrhHXeYYM) | [Colours in the Street](https://open.spotify.com/artist/3zlipWQdlIaSD0UytEUeO0), [The Faim](https://open.spotify.com/artist/6VsU92soWFLtVsSP65rkrN) | [Paralyzed](https://open.spotify.com/album/6eFvbP6gEe8D8wT91NOFVi) | 4:13 |
 | 49 | [life goes by](https://open.spotify.com/track/7MBC9JuSIvqSUz8s4aMzMz) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [life goes by](https://open.spotify.com/album/1Sqtv8W45M3jWecsa4rtRY) | 2:33 |
-| 50 | [Norwegian Wood](https://open.spotify.com/track/0hqwO626QOUFYQjuKSkgOJ) | [Picture Parlour](https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV) | [Norwegian Wood](https://open.spotify.com/album/7awWgs9eg9Us5jQg4nm5Ck) | 3:34 |
+| 50 | [Norwegian Wood](https://open.spotify.com/track/50Wusuhe7GBuOr5xGZlyGe) | [Picture Parlour](https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV) | [Norwegian Wood](https://open.spotify.com/album/4vXzCKpcnI930OU3QNCOLW) | 3:34 |
 | 51 | [Ceiling Fan/Piggy](https://open.spotify.com/track/4kfeEOMy1ba1K7gMdxYoXp) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Ceiling Fan/Piggy](https://open.spotify.com/album/2iHlPpnltsN7fpivWmudIY) | 4:19 |
 | 52 | [Everybody's Safe Until…](https://open.spotify.com/track/58IwEDsZJcteGZ6iZ8pmaS) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [Everybody's Safe Until…](https://open.spotify.com/album/7poRSz57XBWaG91pYjA0Bw) | 3:39 |
 | 53 | [Won't Take Me Alive](https://open.spotify.com/track/18zG4sti0gnHNnobLOBjmr) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Won't Take Me Alive](https://open.spotify.com/album/61L8HA9oZG28YcsN8vW5Wv) | 3:45 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 124 | [Conciousness](https://open.spotify.com/track/0mIjVwFud57Hv0zG36sULS) | [JonoJono](https://open.spotify.com/artist/0HPzKByIKi4qqSgS3gc26q) | [Conciousness](https://open.spotify.com/album/7o2V8ULiIfALz2wDnVwUIP) | 3:55 |
 | 125 | [Exit Signs](https://open.spotify.com/track/7ud416cuyDDgkQ8huXwqya) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [Exit Signs](https://open.spotify.com/album/7E60li9AlGYQO7zHKryWu7) | 4:28 |
 
-Snapshot ID: `MCw2YTA2ZWExNmI4ZTQxMGI0ODllYTA1MGViZDNkNzJmNjE1NGUwNGQy`
+Snapshot ID: `MCxkYTg1MTJiNjFkNGJkNTljY2JmMDAzMDYyYTRlOWVkZjUxOWU1YmUy`

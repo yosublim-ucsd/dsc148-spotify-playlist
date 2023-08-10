@@ -4822,10 +4822,28 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 164250,
       "name": "We Used to Live Here",
       "url": "https://open.spotify.com/track/2YCR9u0VSDsAx9D6ItUMbu"
+    },
+    {
+      "album": {
+        "name": "A River Running to Your Heart",
+        "url": "https://open.spotify.com/album/2n4dZnB3Iz7wWPdDQO3auX"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164250,
+      "name": "We Used to Live Here",
+      "url": "https://open.spotify.com/track/47u1S27jqRJ8ZqqOCM7T8R"
     },
     {
       "album": {

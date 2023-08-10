@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 
 > This is Yoss Bones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,165 likes - 51 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,200 likes - 51 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 18 | [Borracha De Amor](https://open.spotify.com/track/2PeQ5QSleIKfW8GfIVsEmj) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Borracha De Amor](https://open.spotify.com/album/56YlKtQXcwuYq5562zFYIJ) | 3:39 |
 | 19 | [Terremoto](https://open.spotify.com/track/3AbJALTHShkODDRfL5BH8p) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf) | [Terremoto](https://open.spotify.com/album/3IWMKaP4kN3mgqpkQFhrMu) | 3:27 |
 | 20 | [PILLS](https://open.spotify.com/track/2pcZheBNDPRyMhKKYLNaTf) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [PILLS](https://open.spotify.com/album/4JuyjmAq8idnUkKcOIWocf) | 3:07 |
-| 21 | [No Me Dijeron](https://open.spotify.com/track/3Sp9XAakWhDeJahZmdbj8J) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [No Me Dijeron](https://open.spotify.com/album/3fvve2qtWst6nxb0Mgc4fb) | 3:07 |
-| 22 | [El Fiestón](https://open.spotify.com/track/4Vjn04mr4e3VMw5fbO2EVP) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [El Fiestón](https://open.spotify.com/album/6oUqqtcH3bsQYsRXypgWvx) | 3:22 |
+| 21 | [El Fiestón](https://open.spotify.com/track/4Vjn04mr4e3VMw5fbO2EVP) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [El Fiestón](https://open.spotify.com/album/6oUqqtcH3bsQYsRXypgWvx) | 3:22 |
+| 22 | [No Me Dijeron](https://open.spotify.com/track/3Sp9XAakWhDeJahZmdbj8J) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [No Me Dijeron](https://open.spotify.com/album/3fvve2qtWst6nxb0Mgc4fb) | 3:07 |
 | 23 | [Ámame](https://open.spotify.com/track/5908gatfcY7nK2xJt75zGx) | [La Inolvidable Banda Agua De La Llave](https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ámame](https://open.spotify.com/album/0U36RN0P9awTfozisaj49A) | 3:19 |
 | 24 | [Piensa En Mis Labios](https://open.spotify.com/track/1BJ5lfbcxJnDICmo4QBF27) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Piensa En Mis Labios](https://open.spotify.com/album/28uLx5hVcVsqpS1vfW7szR) | 3:17 |
 | 25 | [Alzypher Vol\. 9](https://open.spotify.com/track/4VgKKuLoLAcgNvJ8d0hKlA) | [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH), [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Alzypher Vol\. 9](https://open.spotify.com/album/3JKZcVkafBrbIZySypEw7H) | 3:27 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 50 | [Contra Corriente](https://open.spotify.com/track/56eurZLGRLoYxkqcU6ECfw) | [Rapsusklei](https://open.spotify.com/artist/451DVjaBuGYfvDfvG9MxaG), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Contra Corriente](https://open.spotify.com/album/1C6yVzlnS2IZOCvU5zLO12) | 3:29 |
 | 51 | [Chip S \(Metal Version\)](https://open.spotify.com/track/1CgPXNuxT2ZPQkE073ckQa) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Ladrones](https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6) | [Chip S \(Metal Version\)](https://open.spotify.com/album/0eE73v8SPdXJyIVtwL5DG2) | 3:13 |
 
-Snapshot ID: `MjgxOTE2NzksMDAwMDAwMDBiNTdlNTFhMDQ5NmI0N2Y0ODYxMDUyZjkzMDAyZTZhMQ==`
+Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDBlMjUyMzNmMTM3MGZmYmVkZGRhZjFkYzAxYTZiNTE2MQ==`

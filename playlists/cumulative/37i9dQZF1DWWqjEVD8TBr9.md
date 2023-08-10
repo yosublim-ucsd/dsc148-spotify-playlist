@@ -2,9 +2,9 @@
 
 ### [This Is Stray Kids](https://open.spotify.com/playlist/37i9dQZF1DWWqjEVD8TBr9)
 
-> Stray Kids everywhere all around the world\. You make Stray Kids STAY\. 5\-STAR is here!
+> Stray Kids everywhere all around the world\. You make Stray Kids STAY.
 
-258 songs - 14 hr 14 min
+259 songs - 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Sunshine](https://open.spotify.com/track/3GYmjbJ1EU4TOMEYuVMXu0) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Clé : LEVANTER](https://open.spotify.com/album/0st9OqpsKmmtwUz6cS14Fj) | 3:42 | 2022-03-18 |  |
 | [SUPER BOARD](https://open.spotify.com/track/078fJxqEUz0LvbHSM6AoXJ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:05 | 2022-10-07 |  |
 | [Super Bowl](https://open.spotify.com/track/3OhW68CiyfCoeGntozuUMl) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) | 3:03 | 2023-06-02 |  |
+| [Super Bowl \-Japanese ver.\-](https://open.spotify.com/track/74zvsuvIImK08x0SyRdw78) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Super Bowl \-Japanese ver.\-](https://open.spotify.com/album/2jUvXg4evkoQmyM9GU3CN3) | 3:05 | 2023-08-09 |  |
 | [Surfin' \(Lee Know, Changbin, Felix\)](https://open.spotify.com/track/27DbIP4CqfrHgZqSybcmyr) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/5fNA1Hs2ddXrf8CWJk1Ww7) | 3:11 | 2022-03-18 | 2022-07-29 |
 | [Surfin’ \(Lee Know, Changbin, Felix\)](https://open.spotify.com/track/1FdnsU6An1Ye3uBJe8j23c) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) | 3:11 | 2022-03-18 |  |
 | [TA](https://open.spotify.com/track/0I952Ff5CiRpdtfpSGUuA9) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/7B3Rmyws1KcAxQfYPoInEZ) | 3:28 | 2022-03-18 | 2022-07-29 |

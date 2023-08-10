@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqgdGyODVWB.md) - [plain]
 
 > Cumbia Norteña y Norteño Sax para las vibras de verano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,595 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,636 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqgdGyODVWB.md) - [plain]
 | 55 | [La Chica Sexy](https://open.spotify.com/track/2kSIYlXbNK6JQ8F2n8TDLW) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Jugo A La Vida](https://open.spotify.com/album/5lgrTxeADbH5owlSV1tagK) | 3:44 |
 | 56 | [El Telescopio](https://open.spotify.com/track/69PqKuwBzdPN1MaSwp5FrT) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [El Telescopio](https://open.spotify.com/album/0rdyVMLgdhm5Jbjr11j1kp) | 3:26 |
 | 57 | [Modo Incógnito](https://open.spotify.com/track/7C3ajbwFKs2tThsJfTC9Hf) | [Los Avila](https://open.spotify.com/artist/0A0oFtNpb7CV86uWlxjnQo) | [Modo Incógnito](https://open.spotify.com/album/6alvJhuwlYz1j12wdWIOi3) | 4:10 |
-| 58 | [Huapangos Perros](https://open.spotify.com/track/0gur2lhu5GZlSWzgm6JPjy) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Puras Pa' Trapear](https://open.spotify.com/album/6QEmoG8M2vcht04iyp0fVH) | 5:09 |
-| 59 | [Otra Vez](https://open.spotify.com/track/68dyhT3QFybWKDSRBDgKof) | [Victor Garcia](https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e) | [Victor García](https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1) | 3:41 |
+| 58 | [Otra Vez](https://open.spotify.com/track/68dyhT3QFybWKDSRBDgKof) | [Victor Garcia](https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e) | [Victor García](https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1) | 3:41 |
+| 59 | [Huapangos Perros](https://open.spotify.com/track/0gur2lhu5GZlSWzgm6JPjy) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Puras Pa' Trapear](https://open.spotify.com/album/6QEmoG8M2vcht04iyp0fVH) | 5:09 |
 | 60 | [La Guitarra de Lolo \(Huapango\)](https://open.spotify.com/track/13dUAJU2seBDHy3VVBSO4i) | [La Kumbre Con K](https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3) | [10 Pa' Huapanguear](https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di) | 3:18 |
 | 61 | [Agua De Té](https://open.spotify.com/track/2UwprRPnvsWhN3ygnpayMD) | [Los Titanes De Durango](https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd) | [Los Locos Del Corrido](https://open.spotify.com/album/1SkvbWNmVnuTQwNzWRIBTo) | 3:56 |
 | 62 | [Y Me Da Vergüenza](https://open.spotify.com/track/6n7MYzA52JLIgkgx5RgN7b) | [Grupo Legitimo](https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm) | [Esperándote](https://open.spotify.com/album/1hRk2jBvzatrEbqFtZmUVo) | 2:49 |
@@ -80,14 +80,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqgdGyODVWB.md) - [plain]
 | 70 | [Por las Mañanas \- En Vivo](https://open.spotify.com/track/1mC0IjF8C77C819QVzPNQf) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cumbias Light, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT) | 3:08 |
 | 71 | [Mary Lee](https://open.spotify.com/track/7FGMeXrwpKVFcoCHnslE4J) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Palabras Tristes](https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo) | 3:10 |
 | 72 | [Te Quiero Mucho](https://open.spotify.com/track/5G5TAfojJWd6sMmHchXdQu) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [De Corazón Norteño](https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb) | 3:23 |
-| 73 | [El Pávido Návido](https://open.spotify.com/track/0sTV1ucJEAj8M15YJQCLsR) | [Los Igualados](https://open.spotify.com/artist/7CZBDOxXPcGXM2IAoZHCmB) | [A Bailar Huapangos](https://open.spotify.com/album/3HwzYVu702BGntM846aF8T) | 4:12 |
-| 74 | [Celoso](https://open.spotify.com/track/2Yfs6lzl14H9Q09FB7qSKN) | [Secretto](https://open.spotify.com/artist/70d5BThK07cjuaJPChIUkD) | [Celoso](https://open.spotify.com/album/1OPUq6gkZ41e3x9zhxGPwR) | 3:21 |
+| 73 | [Celoso](https://open.spotify.com/track/2Yfs6lzl14H9Q09FB7qSKN) | [Secretto](https://open.spotify.com/artist/70d5BThK07cjuaJPChIUkD) | [Celoso](https://open.spotify.com/album/1OPUq6gkZ41e3x9zhxGPwR) | 3:21 |
+| 74 | [El Pávido Návido](https://open.spotify.com/track/0sTV1ucJEAj8M15YJQCLsR) | [Los Igualados](https://open.spotify.com/artist/7CZBDOxXPcGXM2IAoZHCmB) | [A Bailar Huapangos](https://open.spotify.com/album/3HwzYVu702BGntM846aF8T) | 4:12 |
 | 75 | [Locamente Enamorado](https://open.spotify.com/track/4flttXINh6lGchVRSlEBGC) | [Predilecto](https://open.spotify.com/artist/73hTO2mEmqyYZYvvotylqb) | [Locamente Enamorado](https://open.spotify.com/album/1Fw0OFwTabn8QsGocoV82P) | 3:37 |
 | 76 | [Los Ángeles Existen](https://open.spotify.com/track/7rPDko8WpB988ygHq0avaz) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [Diez](https://open.spotify.com/album/7o5Z3DrisXdFmrfel292Hi) | 3:18 |
 | 77 | [Bonita](https://open.spotify.com/track/6Rx86i8mwD37V7LB2RJrIl) | [La Alianza Norteña](https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw) | [Bonita](https://open.spotify.com/album/5OCwrv3QDZ49BpNnhVDu49) | 3:25 |
 | 78 | [Muchacha de los Ojos Tristes](https://open.spotify.com/track/04YgriwmHLTTFvTbv3deyA) | [Retoños Del Rio](https://open.spotify.com/artist/0b4F6xrKsPCHTXEl4j03LF) | [Se Abre el Telón](https://open.spotify.com/album/7gDU8W7H50vfNL4Dlw9MRt) | 3:45 |
-| 79 | [Por las Noches](https://open.spotify.com/track/468QGXzfE7d46DeJ7ncjGz) | [La Zona X](https://open.spotify.com/artist/6CREnDoHW0llPJeNfOJYUI), [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Por las Noches](https://open.spotify.com/album/1FZvdjfWsyqKBDFlRWPTfP) | 2:52 |
-| 80 | [El Son Del Tlacololero](https://open.spotify.com/track/1Z50xYPjSgJNjpyCWqroG8) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [El Son Del Tlacololero](https://open.spotify.com/album/2VodgjuB7AIhCUjftCaG2o) | 5:15 |
+| 79 | [El Son Del Tlacololero](https://open.spotify.com/track/1Z50xYPjSgJNjpyCWqroG8) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [El Son Del Tlacololero](https://open.spotify.com/album/2VodgjuB7AIhCUjftCaG2o) | 5:15 |
+| 80 | [Por las Noches](https://open.spotify.com/track/468QGXzfE7d46DeJ7ncjGz) | [La Zona X](https://open.spotify.com/artist/6CREnDoHW0llPJeNfOJYUI), [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Por las Noches](https://open.spotify.com/album/1FZvdjfWsyqKBDFlRWPTfP) | 2:52 |
 | 81 | [Piquetitos](https://open.spotify.com/track/6G2VETYnLl1Psobu809yQY) | [Los Vendavales de Adan Melendez](https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4) | [Un Sueño](https://open.spotify.com/album/3Qx23oTyQnS2tYthd6ihEs) | 3:08 |
 | 82 | [Popurrí Cumbias: Se Murió De Amor/Desvelado/Otra Vez \- En Vivo](https://open.spotify.com/track/2rNksx1mb49Vb35MiKgUiJ) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [En Vivo Desde El Rancho](https://open.spotify.com/album/3I8GLnjxkdr32OnYSir6bh) | 8:41 |
 | 83 | [La Del Moño Colorado](https://open.spotify.com/track/4fkCG6ZvZ4oFHnNJQmD0lE) | [Los Pedernales](https://open.spotify.com/artist/2t9iBcBG9KoBeOZHevRzsc) | [La Del Moño Colorado](https://open.spotify.com/album/6I8NtD0YFtJn6osq3YPadR) | 5:00 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqgdGyODVWB.md) - [plain]
 | 94 | [Tu Forma de Ser](https://open.spotify.com/track/47vkT95Gal2Ch36qP8jd6H) | [Conjunto Nube](https://open.spotify.com/artist/08Iky6YUq0V8qKzBiNdVS4) | [Así Somos](https://open.spotify.com/album/3ER5KlEQW19hQxUNmRdtFJ) | 3:14 |
 | 95 | [Molinos de Viento](https://open.spotify.com/track/3xCyBGCKtkyzD44L1pQJr3) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [Que Se Arme la Fiesta](https://open.spotify.com/album/4AKnoboSYY1A9EotKTRjyO) | 4:00 |
 | 96 | [Quiero Saber de Ti](https://open.spotify.com/track/5EYvfSYETZF8vBAuQV9OET) | [Los Vendavales de Adan Melendez](https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4) | [Nunca Imaginé](https://open.spotify.com/album/4rGVMonf0nBGkWWR8nnuEL) | 3:52 |
-| 97 | [Un Cariño Como Tú](https://open.spotify.com/track/20WRrWYgSULYXFtxBcazwU) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Norteño, Vol\. 2](https://open.spotify.com/album/2misjU3JTrJmzfXwmhK41R) | 2:47 |
-| 98 | [Duele De A Madre](https://open.spotify.com/track/0TkQ3zCOFNJCmB8dYj2i47) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Duele De A Madre](https://open.spotify.com/album/0drIr1wTxVUeQmpu6pYHdv) | 2:55 |
+| 97 | [Duele De A Madre](https://open.spotify.com/track/0TkQ3zCOFNJCmB8dYj2i47) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Duele De A Madre](https://open.spotify.com/album/0drIr1wTxVUeQmpu6pYHdv) | 2:55 |
+| 98 | [Un Cariño Como Tú](https://open.spotify.com/track/20WRrWYgSULYXFtxBcazwU) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Norteño, Vol\. 2](https://open.spotify.com/album/2misjU3JTrJmzfXwmhK41R) | 2:47 |
 | 99 | [Fuiste Mala](https://open.spotify.com/track/3L4Uma47VZ9pxoRJ5A4P3o) | [Predilecto](https://open.spotify.com/artist/73hTO2mEmqyYZYvvotylqb) | [Fuiste Mala](https://open.spotify.com/album/3ME3ProACErxI1b0Inwfbw) | 3:24 |
-| 100 | [Cha Cu Cha](https://open.spotify.com/track/1QHSwIjIIfqMuu0DLQFVFr) | [Los Garcia Bros.](https://open.spotify.com/artist/4oI2xE94fPz2FbKvtrJEgD) | [Abrazame](https://open.spotify.com/album/0HcDnNUTvLQEB07M9coTkz) | 3:09 |
+| 100 | [Como Estas Tú](https://open.spotify.com/track/2ljlODbJrQrMEcC4wmoCkg) | [Cumbre Norteña](https://open.spotify.com/artist/0d1jlQUtg6wJtmOVWSFU0t) | [De Frente](https://open.spotify.com/album/70bYfLrHCQMkUHtHQZFLYR) | 2:16 |
 
-Snapshot ID: `MCwwYzQyYzE4NGM2YjNjMzBkZmQ1ODFlNzY1ZjdlOGI5YWEwYmJmZDdi`
+Snapshot ID: `MCxlZTQ2YzY5ZmI0M2ZmMGRjNTQ3OGRjMTAwNWExZjNjZWIxZDY1Mzcx`

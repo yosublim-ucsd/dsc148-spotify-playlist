@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: The Story So Far
 
-1,229 songs - 2 day 13 hr 24 min
+1,230 songs - 2 day 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -507,7 +507,8 @@
 | [Human Body Human Brain](https://open.spotify.com/track/3Fj65DZOXlfDa6MjXkDw9m) | [Spider Bite](https://open.spotify.com/artist/3KaWAR3fSv83MmYVxTgeo8) | [Human Body Human Brain](https://open.spotify.com/album/3uL9ra4ZyQouEAyOImIdab) | 1:21 | 2023-05-11 | 2023-06-30 |
 | [hurricane](https://open.spotify.com/track/7rBZUdVNrNxucV0E3bjgec) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [hurricane](https://open.spotify.com/album/6KrlbTeMwlqpaH0aAA18bW) | 2:44 | 2022-10-13 | 2023-01-20 |
 | [hurt less](https://open.spotify.com/track/2FhzneTjsV0HR4lXNJTTyI) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [overkill](https://open.spotify.com/album/367LA0QRCgt5u8QLx0UgmH) | 2:45 | 2021-12-17 | 2022-01-28 |
-| [I Believe](https://open.spotify.com/track/2629nMBV0YToedXJ2naMxN) | [A Giant Dog](https://open.spotify.com/artist/0PL9vFj7i7uKg74WpLohnG) | [I Believe](https://open.spotify.com/album/2NkRRWdf1T2Igxv3Y7wUYE) | 3:21 | 2023-07-13 |  |
+| [I Believe](https://open.spotify.com/track/2629nMBV0YToedXJ2naMxN) | [A Giant Dog](https://open.spotify.com/artist/0PL9vFj7i7uKg74WpLohnG) | [I Believe](https://open.spotify.com/album/2NkRRWdf1T2Igxv3Y7wUYE) | 3:21 | 2023-07-13 | 2023-08-10 |
+| [I Believe](https://open.spotify.com/track/329c0F8q0Fra2vx7FQapMw) | [A Giant Dog](https://open.spotify.com/artist/0PL9vFj7i7uKg74WpLohnG) | [A Daydream](https://open.spotify.com/album/4ukJOsBuVDR6ZWGv6gE9kv) | 3:21 | 2023-08-03 |  |
 | [I Cheated at Chuck E\. Cheese](https://open.spotify.com/track/5KadWdV8cCOQgJ3dok90JG) | [Ford the River](https://open.spotify.com/artist/0x1OvXPaq0eAbGEygFELa5) | [I Cheated at Chuck E\. Cheese](https://open.spotify.com/album/4Q9x3a5vow1vtBZZcF2r0i) | 3:36 | 2022-06-30 | 2022-08-12 |
 | [I don't want to die alone](https://open.spotify.com/track/0lzAKbMrjLuTCivfmQTOL6) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [Super Champon](https://open.spotify.com/album/23oUTiqIPyiA42tXNsIzis) | 1:55 | 2022-05-05 | 2022-06-18 |
 | [I Dont Wanna Wake Up](https://open.spotify.com/track/14CmnPIbM7Ujvtth1xZCzv) | [Vin Jay](https://open.spotify.com/artist/2DQkr7ZMTqNrlz5HcXZeI7) | [I Dont Wanna Wake Up](https://open.spotify.com/album/0dt8bm2IVdicHi5aqs6guG) | 2:29 | 2022-07-07 | 2022-08-19 |

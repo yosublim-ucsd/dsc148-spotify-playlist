@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 > Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Vargas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,576 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,649 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 49 | [Sucré Salé](https://open.spotify.com/track/7scditB0ba2LS1MI2tH5J2) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Sucré Salé](https://open.spotify.com/album/75mFVbvIfN96IFsX2TbJvT) | 2:20 |
 | 50 | [M3a L3echrane](https://open.spotify.com/track/2L1MgWewnKsCx9MKykjZJw) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [M3a L3echrane](https://open.spotify.com/album/66iERpoTGbFoSgy7FY96mk) | 3:52 |
 
-Snapshot ID: `MCwyMGE1NjUwZDUwOThlODM2ZDRiOThlOTk4MmViOTY3MGU4YTlmNDhh`
+Snapshot ID: `MCxlM2ZjOTM1ODVjMDg2YWJkOWQ4ZjhjMDUxYzI4M2YyMGRhNWI5Y2Ni`

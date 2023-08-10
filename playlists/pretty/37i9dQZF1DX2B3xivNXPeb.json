@@ -1,12 +1,12 @@
 {
   "description": "Whether you're cooking or pottering about, here's an all-day soundtrack to enjoy in the comfort of your own home.",
-  "num_followers": 33689,
+  "num_followers": 33700,
   "original_name": "Your Kitchen Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTg5YmE0MTAzM2JjNDFmY2Q4NzEzY2I3NWJiY2IzN2JjYzBlZTVi",
+  "snapshot_id": "MCwwZDk3NmM3ZTBmMjdmZDRmMmJiZmFmNjhjODMxOTg1MWZiZjFiZmVm",
   "tracks": [
     {
       "added_at": "2023-06-16 14:02:21",
@@ -959,18 +959,18 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/5rRtE3wuqsxxGp5CsujWXw"
+        "name": "The Winding Way",
+        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
       },
       "artists": [
         {
-          "name": "shiv",
-          "url": "https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7"
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
         }
       ],
-      "duration_ms": 189426,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/4Ni5urPYXXrSLJMrs81LXW"
+      "duration_ms": 258651,
+      "name": "Take My Heart",
+      "url": "https://open.spotify.com/track/7vS9rpDGP8Z75CbrlseYlu"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -991,18 +991,18 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "The Winding Way",
-        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/5rRtE3wuqsxxGp5CsujWXw"
       },
       "artists": [
         {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+          "name": "shiv",
+          "url": "https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7"
         }
       ],
-      "duration_ms": 258651,
-      "name": "Take My Heart",
-      "url": "https://open.spotify.com/track/7vS9rpDGP8Z75CbrlseYlu"
+      "duration_ms": 189426,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/4Ni5urPYXXrSLJMrs81LXW"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "Bruises",
-        "url": "https://open.spotify.com/album/6uHzKD648X9MoK0Z2vo8LW"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 245290,
-      "name": "Defection",
-      "url": "https://open.spotify.com/track/3I4tQHg9oJ9jYtQJTKb2QO"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
         "name": "Tunnel Vision",
         "url": "https://open.spotify.com/album/5H4AuKv8BhLdZjW8Ra0Ovv"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 186394,
       "name": "BBQ Energy",
       "url": "https://open.spotify.com/track/4DtcpnCRFpCTlTEX8KF0j2"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
+        "name": "Bruises",
+        "url": "https://open.spotify.com/album/6uHzKD648X9MoK0Z2vo8LW"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 245290,
+      "name": "Defection",
+      "url": "https://open.spotify.com/track/3I4tQHg9oJ9jYtQJTKb2QO"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "Dance With You Again",
-        "url": "https://open.spotify.com/album/55QbNLNgWTx4yQfc0ukv8v"
-      },
-      "artists": [
-        {
-          "name": "Tamzene",
-          "url": "https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL"
-        }
-      ],
-      "duration_ms": 187080,
-      "name": "Dance With You Again",
-      "url": "https://open.spotify.com/track/1c7NLS2Fuq7V5NJgzz8wZX"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
         "name": "Taurus",
         "url": "https://open.spotify.com/album/65PxIf97kRctYT8rshapFc"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 186000,
       "name": "Taurus",
       "url": "https://open.spotify.com/track/03jLQhVcW1wyHpGaATzbQW"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
+        "name": "Dance With You Again",
+        "url": "https://open.spotify.com/album/55QbNLNgWTx4yQfc0ukv8v"
+      },
+      "artists": [
+        {
+          "name": "Tamzene",
+          "url": "https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL"
+        }
+      ],
+      "duration_ms": 187080,
+      "name": "Dance With You Again",
+      "url": "https://open.spotify.com/track/1c7NLS2Fuq7V5NJgzz8wZX"
     },
     {
       "added_at": "2023-06-16 14:02:21",

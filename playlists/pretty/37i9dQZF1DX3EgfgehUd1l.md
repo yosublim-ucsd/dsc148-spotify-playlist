@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 
 > Vintage easy listening from the fifties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,809 likes - 80 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,850 likes - 80 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 23 | [Born Too Late](https://open.spotify.com/track/3ZyJfbh2Y9y15f45qY1pDJ) | [The Poni\-Tails](https://open.spotify.com/artist/2NbPfkf3TYSRoJ64inF0AN) | [Born Too Late](https://open.spotify.com/album/3TnMW3EicWwdyFAze9Y0og) | 2:19 |
 | 24 | [Just Walkin' in the Rain](https://open.spotify.com/track/6zahbizoDqcpCbXkDhe4Er) | [Johnnie Ray](https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq) | [16 Most Requested Songs](https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM) | 2:37 |
 | 25 | [Pretend](https://open.spotify.com/track/2Gd007dAbihobxsTG9m7cZ) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable](https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm) | 2:44 |
-| 26 | [Mambo Italiano \(with The Mellomen\) \- 78rpm Version](https://open.spotify.com/track/0QoV9nLBwYEU1bA6m61h4F) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK), [The Mellomen](https://open.spotify.com/artist/548L4DXlt7N14Mhbfdmdqq) | [The Essential Rosemary Clooney](https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP) | 2:29 |
+| 26 | [Maybe Baby](https://open.spotify.com/track/20UjAGdEjVb8DniNXvqHJy) | [Buddy Holly & The Crickets](https://open.spotify.com/artist/15jBNfRUPUgdZOTSaNoF5l) | [The "Chirping" Crickets](https://open.spotify.com/album/1KfXNUbZrdwHMtkAGNBLBq) | 2:02 |
 | 27 | [Stupid Cupid](https://open.spotify.com/track/3nUrhP3KuK4R1qdxRk2Kgo) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Gold](https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9) | 2:13 |
 | 28 | [Memories Are Made Of This](https://open.spotify.com/track/4h0igWYayzteBtSNpWYQ9h) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Hey, Brother Pour The Wine](https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8) | 2:18 |
-| 29 | [Maybe Baby](https://open.spotify.com/track/20UjAGdEjVb8DniNXvqHJy) | [Buddy Holly & The Crickets](https://open.spotify.com/artist/15jBNfRUPUgdZOTSaNoF5l) | [The "Chirping" Crickets](https://open.spotify.com/album/1KfXNUbZrdwHMtkAGNBLBq) | 2:02 |
+| 29 | [Mambo Italiano \(with The Mellomen\) \- 78rpm Version](https://open.spotify.com/track/0QoV9nLBwYEU1bA6m61h4F) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK), [The Mellomen](https://open.spotify.com/artist/548L4DXlt7N14Mhbfdmdqq) | [The Essential Rosemary Clooney](https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP) | 2:29 |
 | 30 | [My Prayer](https://open.spotify.com/track/1ntGJDSakqsaw1KhptKrB5) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Platters](https://open.spotify.com/album/1T6CcZgciHOZeeAZnw9jji) | 2:47 |
 | 31 | [Blueberry Hill \- Remastered 2002](https://open.spotify.com/track/2NkAoxQOr6MGdMB5JDTU81) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Greatest Hits: Walking To New Orleans](https://open.spotify.com/album/0SFClXD5CAnZ6vzrcTzXgQ) | 2:23 |
 | 32 | [It's All In The Game](https://open.spotify.com/track/2tvt5K7y1gndmCgtIoLo1f) | [Tommy Edwards](https://open.spotify.com/artist/1ObAu0tz0NlOI6FNHTXchD) | [It’s All In The Game](https://open.spotify.com/album/5Pm6JmFRagCaNbD5OLlG3d) | 2:38 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 79 | [High Noon \(Do Not Forsake Me\)](https://open.spotify.com/track/0ns2AQy1XC8xBYebbVho3I) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix) | [Command Performance](https://open.spotify.com/album/44i8VkJcTp0sKdBtXGa2nk) | 2:39 |
 | 80 | [It's Only Make Believe \- Re\-recorded](https://open.spotify.com/track/4VlUF9CigmUOU2gyXDCmP8) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Greatest Hits \- Finest Performances](https://open.spotify.com/album/40IMW6THJLdzfyxx5ngRc7) | 2:30 |
 
-Snapshot ID: `MCwwN2FkOTkzNjYzMjBkZDA5NTFjYzk1OTRlZTMwMDkwNWQzM2U5MzE3`
+Snapshot ID: `MCw5ZWE5MjE1MTVlZjAxMDg2MWMzODZiZGFkYTM0OWNiOTY0NDFmNDE2`

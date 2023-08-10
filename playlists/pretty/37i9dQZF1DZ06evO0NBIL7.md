@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NBIL7.md) - [plain]
 
 > This is Fangclub\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,474 likes - 23 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,476 likes - 23 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,6 +30,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NBIL7.md) - [plain]
 | 20 | [Lightning](https://open.spotify.com/track/3C7J7Tm6F8XTnCeRMPMBNt) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Fangclub](https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8) | 3:41 |
 | 21 | [Kingdumb](https://open.spotify.com/track/7IbR89c0eXe2INNW2brzqK) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Vulture Culture](https://open.spotify.com/album/7xM1rBcqR7CXC6cVelRRpe) | 3:11 |
 | 22 | [Heart Is A Landmine](https://open.spotify.com/track/3CzKhlBa4VQOu05ykJAro0) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [True Love](https://open.spotify.com/album/5v2BvPmSkaLs5aSYadJ40q) | 3:20 |
-| 23 | [Dreamcatcher](https://open.spotify.com/track/5epGSSIQKPc81a1y8n7I9U) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Fangclub](https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8) | 3:27 |
+| 23 | [Animal Skin](https://open.spotify.com/track/3meRt7aFNpF6oEGlVHe9K3) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Fangclub](https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8) | 3:28 |
 
-Snapshot ID: `MjgxOTE2NzksMDAwMDAwMDA4N2Y4Yjc4MmFhMjQ4NzEyMDM5YWY4ZTQ0YzU0ZjU2OQ==`
+Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDA5NzYyYWUxNjYwMjM0NTc1NDA3ZTVlNjk1Zjk4ZGE2MA==`

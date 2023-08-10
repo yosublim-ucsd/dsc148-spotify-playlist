@@ -1,12 +1,12 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 326241,
+  "num_followers": 326600,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzQ1YWFlNmEzMGI2MDFiZDdmOWY5NTRjZjYwZjFkNTdkYzBkMjVm",
+  "snapshot_id": "MCw0NWY1YjFmNWQ1NDI0YTE4NjE0OWRhNTQ2MjM0OTIxNjQ3ZmY4YzQ4",
   "tracks": [
     {
       "added_at": "2023-08-08 12:55:13",
@@ -131,22 +131,6 @@
     {
       "added_at": "2023-08-08 12:55:13",
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/4DE9KRgAibQ5ZnmDtuGJNB"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 201200,
-      "name": "La Vie En Rose",
-      "url": "https://open.spotify.com/track/1njxWb5fM5L5eEq9MyWddU"
-    },
-    {
-      "added_at": "2023-08-08 12:55:13",
-      "album": {
         "name": "Attraction",
         "url": "https://open.spotify.com/album/4Th7DyvnAE6nMqjTrNnsqS"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 220933,
       "name": "Fibre De Verre",
       "url": "https://open.spotify.com/track/1DaKM1Mzf9cOhHF9eKZZ4w"
+    },
+    {
+      "added_at": "2023-08-08 12:55:13",
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/4DE9KRgAibQ5ZnmDtuGJNB"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 201200,
+      "name": "La Vie En Rose",
+      "url": "https://open.spotify.com/track/1njxWb5fM5L5eEq9MyWddU"
     },
     {
       "added_at": "2023-08-08 12:55:13",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-08-08 12:55:13",
       "album": {
-        "name": "Bubble Gum",
-        "url": "https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb"
-      },
-      "artists": [
-        {
-          "name": "Brigitte Bardot",
-          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
-        }
-      ],
-      "duration_ms": 113493,
-      "name": "Une histoire de plage",
-      "url": "https://open.spotify.com/track/2gBySoyAkqPUoOmoGgtUpK"
-    },
-    {
-      "added_at": "2023-08-08 12:55:13",
-      "album": {
         "name": "Cajueiro",
         "url": "https://open.spotify.com/album/7un05z7dVN0agNGXD6G8Yq"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 201807,
       "name": "Paris",
       "url": "https://open.spotify.com/track/0uziRA46wxFQvNRtArLcZ4"
+    },
+    {
+      "added_at": "2023-08-08 12:55:13",
+      "album": {
+        "name": "Bubble Gum",
+        "url": "https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb"
+      },
+      "artists": [
+        {
+          "name": "Brigitte Bardot",
+          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
+        }
+      ],
+      "duration_ms": 113493,
+      "name": "Une histoire de plage",
+      "url": "https://open.spotify.com/track/2gBySoyAkqPUoOmoGgtUpK"
     },
     {
       "added_at": "2023-08-08 12:55:13",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-08-08 12:55:13",
       "album": {
-        "name": "Lovely Difficult",
-        "url": "https://open.spotify.com/album/19vR7lLDnkhfmcdEYmXOtB"
-      },
-      "artists": [
-        {
-          "name": "Mayra Andrade",
-          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
-        }
-      ],
-      "duration_ms": 227026,
-      "name": "Les mots d'amour",
-      "url": "https://open.spotify.com/track/5wWsPTSLg9gLuD39EjCxB4"
-    },
-    {
-      "added_at": "2023-08-08 12:55:13",
-      "album": {
         "name": "Chambre avec vue",
         "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 203066,
       "name": "Jazz M\u00e9diterran\u00e9e",
       "url": "https://open.spotify.com/track/2yHTFqjyTh32XPddASX3sV"
+    },
+    {
+      "added_at": "2023-08-08 12:55:13",
+      "album": {
+        "name": "Lovely Difficult",
+        "url": "https://open.spotify.com/album/19vR7lLDnkhfmcdEYmXOtB"
+      },
+      "artists": [
+        {
+          "name": "Mayra Andrade",
+          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
+        }
+      ],
+      "duration_ms": 227026,
+      "name": "Les mots d'amour",
+      "url": "https://open.spotify.com/track/5wWsPTSLg9gLuD39EjCxB4"
     },
     {
       "added_at": "2023-08-08 12:55:13",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-08-08 12:55:13",
       "album": {
-        "name": "Haven't We Met?",
-        "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 173436,
-      "name": "Chez moi",
-      "url": "https://open.spotify.com/track/0oPbNzAAmWaKIcf5WQE6A0"
-    },
-    {
-      "added_at": "2023-08-08 12:55:13",
-      "album": {
         "name": "Chansons",
         "url": "https://open.spotify.com/album/2BbY1j3Omk7pQsDKjl3r7w"
       },
@@ -635,18 +619,18 @@
     {
       "added_at": "2023-08-08 12:55:13",
       "album": {
-        "name": "Whisper For You",
-        "url": "https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7"
+        "name": "Haven't We Met?",
+        "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
       },
       "artists": [
         {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
         }
       ],
-      "duration_ms": 149533,
-      "name": "Plus Je T'embrasse",
-      "url": "https://open.spotify.com/track/5UiaszjisznaX77YaCgUhX"
+      "duration_ms": 173436,
+      "name": "Chez moi",
+      "url": "https://open.spotify.com/track/0oPbNzAAmWaKIcf5WQE6A0"
     },
     {
       "added_at": "2023-08-08 12:55:13",
@@ -667,18 +651,18 @@
     {
       "added_at": "2023-08-08 12:55:13",
       "album": {
-        "name": "Manquait Plus Qu'Ca",
-        "url": "https://open.spotify.com/album/6BC71aPYFPdAhUshOVkRjf"
+        "name": "Blossom Dearie (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6"
       },
       "artists": [
         {
-          "name": "Sandrine Kiberlain",
-          "url": "https://open.spotify.com/artist/4uLmJeWlUtfcMwAZo1ZS2l"
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
         }
       ],
-      "duration_ms": 155120,
-      "name": "M'envoyer des fleurs",
-      "url": "https://open.spotify.com/track/5SBePmCKYQUyfq71djPNF8"
+      "duration_ms": 143760,
+      "name": "Tout Doucement",
+      "url": "https://open.spotify.com/track/0OGo0CHKYXBzb9A9KdtQLz"
     },
     {
       "added_at": "2023-08-08 12:55:13",
@@ -699,34 +683,18 @@
     {
       "added_at": "2023-08-08 12:55:13",
       "album": {
-        "name": "Navega",
-        "url": "https://open.spotify.com/album/5L0eCMei56cSPTQnNL0Ipu"
+        "name": "Manquait Plus Qu'Ca",
+        "url": "https://open.spotify.com/album/6BC71aPYFPdAhUshOVkRjf"
       },
       "artists": [
         {
-          "name": "Mayra Andrade",
-          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
+          "name": "Sandrine Kiberlain",
+          "url": "https://open.spotify.com/artist/4uLmJeWlUtfcMwAZo1ZS2l"
         }
       ],
-      "duration_ms": 222800,
-      "name": "Comme s'il en pleuvait",
-      "url": "https://open.spotify.com/track/1bSsHUOFmxzNARPujtglaH"
-    },
-    {
-      "added_at": "2023-08-08 12:55:13",
-      "album": {
-        "name": "Blossom Dearie (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6"
-      },
-      "artists": [
-        {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 143760,
-      "name": "Tout Doucement",
-      "url": "https://open.spotify.com/track/0OGo0CHKYXBzb9A9KdtQLz"
+      "duration_ms": 155120,
+      "name": "M'envoyer des fleurs",
+      "url": "https://open.spotify.com/track/5SBePmCKYQUyfq71djPNF8"
     },
     {
       "added_at": "2023-08-08 12:55:13",
@@ -763,6 +731,38 @@
     {
       "added_at": "2023-08-08 12:55:13",
       "album": {
+        "name": "Navega",
+        "url": "https://open.spotify.com/album/5L0eCMei56cSPTQnNL0Ipu"
+      },
+      "artists": [
+        {
+          "name": "Mayra Andrade",
+          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "Comme s'il en pleuvait",
+      "url": "https://open.spotify.com/track/1bSsHUOFmxzNARPujtglaH"
+    },
+    {
+      "added_at": "2023-08-08 12:55:13",
+      "album": {
+        "name": "Whisper For You",
+        "url": "https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 149533,
+      "name": "Plus Je T'embrasse",
+      "url": "https://open.spotify.com/track/5UiaszjisznaX77YaCgUhX"
+    },
+    {
+      "added_at": "2023-08-08 12:55:13",
+      "album": {
         "name": "Un homme et une femme (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4GU4TR3nIDycmrQyGE7wpk"
       },
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-08-08 12:55:13",
       "album": {
+        "name": "Chansons",
+        "url": "https://open.spotify.com/album/2BbY1j3Omk7pQsDKjl3r7w"
+      },
+      "artists": [
+        {
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
+        }
+      ],
+      "duration_ms": 167199,
+      "name": "Je cherche un homme",
+      "url": "https://open.spotify.com/track/475T666btYBFZrFxxjWr0V"
+    },
+    {
+      "added_at": "2023-08-08 12:55:13",
+      "album": {
         "name": "Just The Two Of Us",
         "url": "https://open.spotify.com/album/4BsQtp94ehsK4YPTLx6SO3"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 137960,
       "name": "Je Suis Seule Ce Soir",
       "url": "https://open.spotify.com/track/0l5rSE550QrVceVHcBCiDM"
-    },
-    {
-      "added_at": "2023-08-08 12:55:13",
-      "album": {
-        "name": "Chansons",
-        "url": "https://open.spotify.com/album/2BbY1j3Omk7pQsDKjl3r7w"
-      },
-      "artists": [
-        {
-          "name": "Jill Barber",
-          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
-        }
-      ],
-      "duration_ms": 167199,
-      "name": "Je cherche un homme",
-      "url": "https://open.spotify.com/track/475T666btYBFZrFxxjWr0V"
     },
     {
       "added_at": "2023-08-08 12:55:13",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-08-08 12:55:13",
       "album": {
+        "name": "Paris Combo",
+        "url": "https://open.spotify.com/album/7tIxpxvTzHJUYUKToeAkXb"
+      },
+      "artists": [
+        {
+          "name": "Paris Combo",
+          "url": "https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G"
+        }
+      ],
+      "duration_ms": 247666,
+      "name": "On N'a Pas Besoin",
+      "url": "https://open.spotify.com/track/3Bv1eR7Q2AM6CZyBR1Ci7B"
+    },
+    {
+      "added_at": "2023-08-08 12:55:13",
+      "album": {
         "name": "Faites vous des amis",
         "url": "https://open.spotify.com/album/47mKuDfXeUvPbNQ13GuVCu"
       },
@@ -895,18 +911,18 @@
     {
       "added_at": "2023-08-08 12:55:13",
       "album": {
-        "name": "Paris Combo",
-        "url": "https://open.spotify.com/album/7tIxpxvTzHJUYUKToeAkXb"
+        "name": "Tous mes r\u00eaves",
+        "url": "https://open.spotify.com/album/4QKe2jts0wXrjtSjhUW974"
       },
       "artists": [
         {
-          "name": "Paris Combo",
-          "url": "https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G"
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
         }
       ],
-      "duration_ms": 247666,
-      "name": "On N'a Pas Besoin",
-      "url": "https://open.spotify.com/track/3Bv1eR7Q2AM6CZyBR1Ci7B"
+      "duration_ms": 155664,
+      "name": "Tous mes r\u00eaves",
+      "url": "https://open.spotify.com/track/2yL5SiTTbnLeddxS3mbt3v"
     },
     {
       "added_at": "2023-08-08 12:55:13",
@@ -983,22 +999,6 @@
     {
       "added_at": "2023-08-08 12:55:13",
       "album": {
-        "name": "Tous mes r\u00eaves",
-        "url": "https://open.spotify.com/album/4QKe2jts0wXrjtSjhUW974"
-      },
-      "artists": [
-        {
-          "name": "Jill Barber",
-          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
-        }
-      ],
-      "duration_ms": 155664,
-      "name": "Tous mes r\u00eaves",
-      "url": "https://open.spotify.com/track/2yL5SiTTbnLeddxS3mbt3v"
-    },
-    {
-      "added_at": "2023-08-08 12:55:13",
-      "album": {
         "name": "N\u00b04",
         "url": "https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO"
       },
@@ -1011,6 +1011,22 @@
       "duration_ms": 146306,
       "name": "Baudelaire",
       "url": "https://open.spotify.com/track/5j9Z3X3FAsyZGEdEptMepT"
+    },
+    {
+      "added_at": "2023-08-08 12:55:13",
+      "album": {
+        "name": "Motifs",
+        "url": "https://open.spotify.com/album/6pVrBCOoISxJxv5BQoaYe0"
+      },
+      "artists": [
+        {
+          "name": "Paris Combo",
+          "url": "https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "High Low In",
+      "url": "https://open.spotify.com/track/6LAIuS6A5qBqFP41FEQnsY"
     },
     {
       "added_at": "2023-08-08 12:55:13",
@@ -1059,22 +1075,6 @@
       "duration_ms": 179706,
       "name": "Les eaux de Mars",
       "url": "https://open.spotify.com/track/3FopnRPK626Fbu4ErKdtUo"
-    },
-    {
-      "added_at": "2023-08-08 12:55:13",
-      "album": {
-        "name": "Motifs",
-        "url": "https://open.spotify.com/album/6pVrBCOoISxJxv5BQoaYe0"
-      },
-      "artists": [
-        {
-          "name": "Paris Combo",
-          "url": "https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G"
-        }
-      ],
-      "duration_ms": 210560,
-      "name": "High Low In",
-      "url": "https://open.spotify.com/track/6LAIuS6A5qBqFP41FEQnsY"
     },
     {
       "added_at": "2023-08-08 12:55:13",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-08-08 12:55:13",
       "album": {
-        "name": "Fourteen",
-        "url": "https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X"
-      },
-      "artists": [
-        {
-          "name": "Carol Welsman",
-          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
-        }
-      ],
-      "duration_ms": 302773,
-      "name": "C'est le printemps",
-      "url": "https://open.spotify.com/track/4FpziZDBquIx4pkYxDTwdz"
-    },
-    {
-      "added_at": "2023-08-08 12:55:13",
-      "album": {
         "name": "The Best Of Bardot",
         "url": "https://open.spotify.com/album/7zBRw7aeKzugZ5bkFtcSID"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 195946,
       "name": "Le soleil",
       "url": "https://open.spotify.com/track/2eGGZSSdnady1oqoV2JGVP"
+    },
+    {
+      "added_at": "2023-08-08 12:55:13",
+      "album": {
+        "name": "Fourteen",
+        "url": "https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X"
+      },
+      "artists": [
+        {
+          "name": "Carol Welsman",
+          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
+        }
+      ],
+      "duration_ms": 302773,
+      "name": "C'est le printemps",
+      "url": "https://open.spotify.com/track/4FpziZDBquIx4pkYxDTwdz"
     },
     {
       "added_at": "2023-08-08 12:55:13",

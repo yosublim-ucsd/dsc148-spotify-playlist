@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EskP2.md) - [plain]
 
 > This is Anuhea\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,389 likes - 45 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,391 likes - 45 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Higher Than the Clouds](https://open.spotify.com/track/13Dq0Ed9wyBU7mpoENkaS0) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/0Ic2CQWbU81W49VrBVxqG8) | 3:43 |
 | 2 | [Easier](https://open.spotify.com/track/2pmhCyJqNiF2IEE0ATRNaM) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Amid the Noise and Haste](https://open.spotify.com/album/3PPShSOyJlk6lG6BheUqCe) | 3:15 |
 | 3 | [True Colors \(Kou ʻano Kūʻiʻo\)](https://open.spotify.com/track/0YL2CC1DNKAovuhpuQIu2N) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Hawaiian Lullaby](https://open.spotify.com/album/2pINChaBkC0qnFcAIu3rtT) | 3:28 |
-| 4 | [Perfect Day](https://open.spotify.com/track/4fEYB07ZQlCS57QYD4puMy) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Butterflies: Live](https://open.spotify.com/album/6KiSvxrVgkysWpBytA5Ug4) | 4:34 |
+| 4 | [Sweet Thing](https://open.spotify.com/track/2RaxJXpC33ymT8igZzdWHb) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Shoulders](https://open.spotify.com/album/1L3qygzseL8iNIOC2IqeFg) | 3:31 |
 | 5 | [Simple Love Song](https://open.spotify.com/track/6fyj8DYAUlrjDcJBOVnYEB) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/0Ic2CQWbU81W49VrBVxqG8) | 3:44 |
-| 6 | [Sweet Thing](https://open.spotify.com/track/2RaxJXpC33ymT8igZzdWHb) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Shoulders](https://open.spotify.com/album/1L3qygzseL8iNIOC2IqeFg) | 3:31 |
+| 6 | [Perfect Day](https://open.spotify.com/track/4fEYB07ZQlCS57QYD4puMy) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Butterflies: Live](https://open.spotify.com/album/6KiSvxrVgkysWpBytA5Ug4) | 4:34 |
 | 7 | [Mixed Feelings](https://open.spotify.com/track/011xoKDagylY12ofOd3qUX) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk), [Sammy Johnson](https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA) | [Follow Me](https://open.spotify.com/album/4b1DzrFBADJR0vBQDAb31a) | 3:23 |
 | 8 | [Grandpa](https://open.spotify.com/track/2rdgK1EZ5BIDntkdEKZb2o) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Grandpa](https://open.spotify.com/album/44s2rwHBZoKlEnYtdfJgAr) | 3:24 |
 | 9 | [Come over Love](https://open.spotify.com/track/1SFJG4vZLzjHTmGVj7Hrm8) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/0Ic2CQWbU81W49VrBVxqG8) | 4:05 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EskP2.md) - [plain]
 | 39 | [Come over \(Live\)](https://open.spotify.com/track/0KeV45Mymsh8RcyX1yvXuR) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Live at the Belly Up](https://open.spotify.com/album/6UVg3eBRR5lOpg2t6Cx4pk) | 5:56 |
 | 40 | [Right Now](https://open.spotify.com/track/0JhUqUdtk3upDb9NxcpiPE) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Follow Me](https://open.spotify.com/album/4b1DzrFBADJR0vBQDAb31a) | 2:46 |
 | 41 | [Right Love, Wrong Time](https://open.spotify.com/track/1KgBgZkEXySiIfzCZ3CGkR) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Anuhea](https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7) | 4:44 |
-| 42 | [Love Child](https://open.spotify.com/track/1W7qrEjdFCnzZJYrIN1CZ5) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Shoulders](https://open.spotify.com/album/1L3qygzseL8iNIOC2IqeFg) | 4:46 |
-| 43 | [Mr\. Mellow](https://open.spotify.com/track/1dXUcTAgVP7YP7jDg8J4N6) | [King Kekai](https://open.spotify.com/artist/3L2hhljdDtx6P5h4FbbP5m), [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Mana Maoli, Volume V \- Hui Na Moku](https://open.spotify.com/album/1acebQxhPagBiWionPJtrm) | 3:28 |
+| 42 | [Mr\. Mellow](https://open.spotify.com/track/1dXUcTAgVP7YP7jDg8J4N6) | [King Kekai](https://open.spotify.com/artist/3L2hhljdDtx6P5h4FbbP5m), [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Mana Maoli, Volume V \- Hui Na Moku](https://open.spotify.com/album/1acebQxhPagBiWionPJtrm) | 3:28 |
+| 43 | [Love Child](https://open.spotify.com/track/1W7qrEjdFCnzZJYrIN1CZ5) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Shoulders](https://open.spotify.com/album/1L3qygzseL8iNIOC2IqeFg) | 4:46 |
 | 44 | [Slow Down](https://open.spotify.com/track/2R2AreJLkwiXGSYP4W8ioB) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Anuhea](https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7) | 3:33 |
 | 45 | [Boy a or Boy B](https://open.spotify.com/track/6Fky7FGFvsWe45ACPRLEAd) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Shoulders](https://open.spotify.com/album/1L3qygzseL8iNIOC2IqeFg) | 3:43 |
 
-Snapshot ID: `MjgxOTE2NzksMDAwMDAwMDA5NmMyOGI2MjJkOTMzNjhiMWJjMDgyNDdlOWE2NTdiNQ==`
+Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDBiNjhkNDMwNmQwYjlkMjQzNTc4YmIzOWFmYmIxMzA5NQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Ola Gjeilo
 
-[Spotify](https://open.spotify.com/user/spotify) - 689,846 likes - 51 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 689,888 likes - 51 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 50 | [5 Lieder, Op\. 49: No\. 4, Wiegenlied](https://open.spotify.com/track/06CmZSDtd9s2AWtOLWJTbz) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Samuel Hasselhorn](https://open.spotify.com/artist/1AF09a1wY4EBtiaJWSvFfL), [Fiona Mato](https://open.spotify.com/artist/5IRNjBSEvUYGrJkpdNMSqs) | [Johannes Brahms: 5 Lieder, Op\. 49: No\. 4, Wiegenlied](https://open.spotify.com/album/21lkK8DhvwhhNqdR9icI30) | 1:53 |
 | 51 | [6 Romances, Op\. 73, TH 109: No\. 4, The Sun Has Set](https://open.spotify.com/track/0hyWQ58naEl3JfIFZMLUxn) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Piotr Beczala](https://open.spotify.com/artist/2TMEwrUmFfQ5KUOXEDa3Jz), [Helmut Deutsch](https://open.spotify.com/artist/3v6738Dv4OlBRXQgSmrIeQ) | [Tchaikovsky: 6 Romances, Op\. 73, TH 109: The Sun Has Set](https://open.spotify.com/album/3UOAehz2yHwgoa83GU8QlO) | 1:52 |
 
-Snapshot ID: `MCxkNzAyZmYxODUwOWQ2NWQ1ZTRiODdkNGUyMzAwYjM4MmE4MWIxOTVj`
+Snapshot ID: `MCw2YzhjZTI1ZjQ0OTBkOGE1MDY0ZWI5NDFhYTZjZWE1YzM5NjAwYWEy`

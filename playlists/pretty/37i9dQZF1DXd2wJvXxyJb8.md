@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 ### [Hits da Internet](https://open.spotify.com/playlist/37i9dQZF1DXd2wJvXxyJb8)
 
-> nossa piriquita tá de sobrancelha feita esqueça tudo
+> entao qr dizer que vc veio aqui descobrir o q os jovens escutam??? boa viagem
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,128,488 likes - 70 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,129,518 likes - 70 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 69 | [MAMA.CITA \(hasta la vista\)](https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [MAMA.CITA \(hasta la vista\)](https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX) | 2:32 |
 | 70 | [Balanço da Rede](https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Balanço da Rede](https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP) | 2:46 |
 
-Snapshot ID: `MCxjOGMwMTIwNTlkNGU5ODQxZTgzMTU1Y2NlMTk3OTMyMzBmMTJhYTQx`
+Snapshot ID: `MCxjY2FjY2Q5ZTU4YzY1NzlmNjNmMGIzZWUyZTAxYzc3NmYyZTllMTMy`

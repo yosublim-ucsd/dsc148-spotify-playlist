@@ -1,12 +1,12 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2564874,
+  "num_followers": 2565294,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjVlYTRjODI5OWVlMjIxZWU4YjZlYTRjNGM4Yjg5MDQ0ZjQwZTQ3",
+  "snapshot_id": "MCxhZTM4NmZkMTU2MjM1YTNlNWZiYTA4YzY1OGJjNTYzNTE3NzhmNzFk",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -559,6 +559,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Mind Pluck",
+        "url": "https://open.spotify.com/album/2aS0GPy3F7noLvi1kgWEMz"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "HOL!",
+          "url": "https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB"
+        }
+      ],
+      "duration_ms": 270857,
+      "name": "Mind Pluck",
+      "url": "https://open.spotify.com/track/3W9xukFv9kGLkLbEe2YITe"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Here With Me",
         "url": "https://open.spotify.com/album/0MrSLoHEtnWYFmg38SSnjN"
       },
@@ -591,26 +611,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Fight Back",
-        "url": "https://open.spotify.com/album/4iTii2lDbEYYnZJBkU9p75"
-      },
-      "artists": [
-        {
-          "name": "EBEN",
-          "url": "https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak"
-        },
-        {
-          "name": "Godmode",
-          "url": "https://open.spotify.com/artist/3R4VCoPt7V1poOWpdU43X8"
-        }
-      ],
-      "duration_ms": 182580,
-      "name": "Fight Back",
-      "url": "https://open.spotify.com/track/3vcX4GCAbXAkCJtwNqyeHv"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Criminal",
         "url": "https://open.spotify.com/album/1uyc31Iw3pbYXstxykjzfr"
       },
@@ -631,6 +631,26 @@
       "duration_ms": 251862,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/1wlsLLlTQjtqBvrPbKXHXd"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Fight Back",
+        "url": "https://open.spotify.com/album/4iTii2lDbEYYnZJBkU9p75"
+      },
+      "artists": [
+        {
+          "name": "EBEN",
+          "url": "https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak"
+        },
+        {
+          "name": "Godmode",
+          "url": "https://open.spotify.com/artist/3R4VCoPt7V1poOWpdU43X8"
+        }
+      ],
+      "duration_ms": 182580,
+      "name": "Fight Back",
+      "url": "https://open.spotify.com/track/3vcX4GCAbXAkCJtwNqyeHv"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -691,26 +711,6 @@
       "duration_ms": 198315,
       "name": "Can We Be Free",
       "url": "https://open.spotify.com/track/4JHfB0tPjE38N5KTSaX39I"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Mind Pluck",
-        "url": "https://open.spotify.com/album/2aS0GPy3F7noLvi1kgWEMz"
-      },
-      "artists": [
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "HOL!",
-          "url": "https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB"
-        }
-      ],
-      "duration_ms": 270857,
-      "name": "Mind Pluck",
-      "url": "https://open.spotify.com/track/3W9xukFv9kGLkLbEe2YITe"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "NECROMANCER EP",
-        "url": "https://open.spotify.com/album/0i5W06nlD4FXK2zLPXqp2w"
-      },
-      "artists": [
-        {
-          "name": "GHENGAR",
-          "url": "https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf"
-        },
-        {
-          "name": "GHASTLY",
-          "url": "https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh"
-        }
-      ],
-      "duration_ms": 228413,
-      "name": "NECROMANCER",
-      "url": "https://open.spotify.com/track/4q6M0ocvDwZp0kbnWtYLaF"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "NEW WIP",
         "url": "https://open.spotify.com/album/5NToLmDgH4V64h5f3Xzhkn"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 186400,
       "name": "NEW WIP",
       "url": "https://open.spotify.com/track/6rv93pYJSTtReQIuwcCYvm"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "NECROMANCER EP",
+        "url": "https://open.spotify.com/album/0i5W06nlD4FXK2zLPXqp2w"
+      },
+      "artists": [
+        {
+          "name": "GHENGAR",
+          "url": "https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf"
+        },
+        {
+          "name": "GHASTLY",
+          "url": "https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh"
+        }
+      ],
+      "duration_ms": 228413,
+      "name": "NECROMANCER",
+      "url": "https://open.spotify.com/track/4q6M0ocvDwZp0kbnWtYLaF"
     },
     {
       "added_at": "2023-08-04 04:00:00",

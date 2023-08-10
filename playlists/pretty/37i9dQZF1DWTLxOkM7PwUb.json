@@ -1,12 +1,12 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 26202,
+  "num_followers": 26291,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2M4OTg3MjAyOTQ2ZGUzNzNkZGQ5ODVhZGY1OTk3YzE4Njk4ODI3",
+  "snapshot_id": "MCw1ZmQ3ODgwNjk0MmM4MWViYWI0NWZlMWM5ZWM5OGEzNzlkZWE5YzRl",
   "tracks": [
     {
       "added_at": "2022-12-09 03:00:00",
@@ -627,8 +627,8 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/2dDtHdc2Pc6S3na6jIqqCn"
+        "name": "Ayer Me Llam\u00f3 Mi Ex",
+        "url": "https://open.spotify.com/album/3ryXum3u0sEV2f6oBHXI22"
       },
       "artists": [
         {
@@ -636,13 +636,13 @@
           "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
         },
         {
-          "name": "Omar Varela",
-          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+          "name": "Lenny Santos",
+          "url": "https://open.spotify.com/artist/4bODqflR0Wo3i3fCwwCIPq"
         }
       ],
-      "duration_ms": 182183,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/0BMXB8USeC2zVufRWBcMuY"
+      "duration_ms": 206760,
+      "name": "Ayer Me Llam\u00f3 Mi Ex",
+      "url": "https://open.spotify.com/track/3ef2QlCUWO29UvqJaU3MUi"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -743,8 +743,8 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Ayer Me Llam\u00f3 Mi Ex",
-        "url": "https://open.spotify.com/album/3ryXum3u0sEV2f6oBHXI22"
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/2dDtHdc2Pc6S3na6jIqqCn"
       },
       "artists": [
         {
@@ -752,13 +752,13 @@
           "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
         },
         {
-          "name": "Lenny Santos",
-          "url": "https://open.spotify.com/artist/4bODqflR0Wo3i3fCwwCIPq"
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
         }
       ],
-      "duration_ms": 206760,
-      "name": "Ayer Me Llam\u00f3 Mi Ex",
-      "url": "https://open.spotify.com/track/3ef2QlCUWO29UvqJaU3MUi"
+      "duration_ms": 182183,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/0BMXB8USeC2zVufRWBcMuY"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Se Termin\u00f3 (feat. Kodigo)",
-        "url": "https://open.spotify.com/album/2gFUic8OPDGYxehK7JIddH"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Kodigo",
-          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
-        }
-      ],
-      "duration_ms": 202083,
-      "name": "Se Termin\u00f3 (feat. Kodigo)",
-      "url": "https://open.spotify.com/track/4dpNEp0XiI4dP2soHsxDkZ"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Bonus Trap",
         "url": "https://open.spotify.com/album/7IAJrYDUHZhIGXY6pY1GPX"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 166346,
       "name": "Me Prefiere A Mi",
       "url": "https://open.spotify.com/track/6b38njkY1j48fruqRqrm6d"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Se Termin\u00f3 (feat. Kodigo)",
+        "url": "https://open.spotify.com/album/2gFUic8OPDGYxehK7JIddH"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Kodigo",
+          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
+        }
+      ],
+      "duration_ms": 202083,
+      "name": "Se Termin\u00f3 (feat. Kodigo)",
+      "url": "https://open.spotify.com/track/4dpNEp0XiI4dP2soHsxDkZ"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "C14TORCE III",
+        "url": "https://open.spotify.com/album/588LtwOHlhE4L4VulRdO7e"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 143680,
+      "name": "C14TORCE III",
+      "url": "https://open.spotify.com/track/5feYWe3hr9hZ7jEXfa2UcS"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "MORDIENDO EL BOZAL",
         "url": "https://open.spotify.com/album/7KRqDXbyy0b6EVhpydNQ5w"
       },
@@ -1395,26 +1411,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Si No Fue Asi",
-        "url": "https://open.spotify.com/album/65q7oPWAcJxVRQzrBMveRd"
-      },
-      "artists": [
-        {
-          "name": "Midel",
-          "url": "https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p"
-        },
-        {
-          "name": "Seven Kayne",
-          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
-        }
-      ],
-      "duration_ms": 185196,
-      "name": "Si No Fue Asi",
-      "url": "https://open.spotify.com/track/1wdAd6JuFOaFfLbzNXPR0Y"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Roto",
         "url": "https://open.spotify.com/album/4t8ZGNfpheMeR1LtpPcFO3"
       },
@@ -1435,18 +1431,22 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "C14TORCE III",
-        "url": "https://open.spotify.com/album/588LtwOHlhE4L4VulRdO7e"
+        "name": "Si No Fue Asi",
+        "url": "https://open.spotify.com/album/65q7oPWAcJxVRQzrBMveRd"
       },
       "artists": [
         {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+          "name": "Midel",
+          "url": "https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p"
+        },
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
         }
       ],
-      "duration_ms": 143680,
-      "name": "C14TORCE III",
-      "url": "https://open.spotify.com/track/5feYWe3hr9hZ7jEXfa2UcS"
+      "duration_ms": 185196,
+      "name": "Si No Fue Asi",
+      "url": "https://open.spotify.com/track/1wdAd6JuFOaFfLbzNXPR0Y"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1487,6 +1487,22 @@
       "duration_ms": 194092,
       "name": "Parte de Mi (feat. Lit Killah)",
       "url": "https://open.spotify.com/track/4OocfNloIRk77ncIKBdYwb"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "C14TORCE IV",
+        "url": "https://open.spotify.com/album/4VYevg4fdLHmRiEvDtRIEY"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 173440,
+      "name": "C14TORCE IV",
+      "url": "https://open.spotify.com/track/2rSjMzTh9CPqaFMQMZJy0s"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1587,22 +1603,6 @@
       "duration_ms": 167619,
       "name": "CAPRICHOSO",
       "url": "https://open.spotify.com/track/1sJCxmtHVDHjgwXwdHYFWn"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "C14TORCE IV",
-        "url": "https://open.spotify.com/album/4VYevg4fdLHmRiEvDtRIEY"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 173440,
-      "name": "C14TORCE IV",
-      "url": "https://open.spotify.com/track/2rSjMzTh9CPqaFMQMZJy0s"
     },
     {
       "added_at": "2022-12-09 03:00:00",

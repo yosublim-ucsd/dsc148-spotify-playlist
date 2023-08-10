@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 
 > Sambinhas selecionados especialmente pra você curtir um dia de sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,897 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,969 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 63 | [Água de Chuva no Mar \- Do filme "Um Casal Inseparável"](https://open.spotify.com/track/1PmJKK9Jclc230tru8UOHb) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Água de Chuva no Mar \(Do filme "Um Casal Inseparável"\)](https://open.spotify.com/album/2Mz2TXMsFDEqrccgPKVUQo) | 4:08 |
 | 64 | [Coisa de Louco](https://open.spotify.com/track/6XkGn0O46URevLIgKY7RV4) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [Ninguém Proíbe o Amor](https://open.spotify.com/album/49MDngi8Qu6oQIFnRxuJmq) | 3:54 |
 | 65 | [Mercado das Flores](https://open.spotify.com/track/74qN03V0t4EYUM4cnjFdtd) | [Rodrigo Maranhão](https://open.spotify.com/artist/04r6DFJdJcb3qx9IPidegH) | [Mercado das Flores](https://open.spotify.com/album/61GPvMzsB5rWl3ADvybaup) | 3:10 |
-| 66 | [Atraco](https://open.spotify.com/track/6iSEEpOeVU0VdXdpq8O6CM) | [Rodrigo Campos](https://open.spotify.com/artist/08VlguMfAFdEAJb15OWAeJ), [Mari Tavares](https://open.spotify.com/artist/2wUOBLQeG4XpiuIe1QGUxR) | [Pagode Novo](https://open.spotify.com/album/0s8D5BFXXSI6sxJuszFphf) | 3:25 |
-| 67 | [E Luxo Só](https://open.spotify.com/track/2gmmc95lX2fuZA3gVzBOjc) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto Apresenta Chega de Saudade](https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8) | 1:59 |
+| 66 | [E Luxo Só](https://open.spotify.com/track/2gmmc95lX2fuZA3gVzBOjc) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto Apresenta Chega de Saudade](https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8) | 1:59 |
+| 67 | [Atraco](https://open.spotify.com/track/6iSEEpOeVU0VdXdpq8O6CM) | [Rodrigo Campos](https://open.spotify.com/artist/08VlguMfAFdEAJb15OWAeJ), [Mari Tavares](https://open.spotify.com/artist/2wUOBLQeG4XpiuIe1QGUxR) | [Pagode Novo](https://open.spotify.com/album/0s8D5BFXXSI6sxJuszFphf) | 3:25 |
 | 68 | [Gema \(342 Amazônia ao Vivo no Circo Voador\)](https://open.spotify.com/track/0QEZd6kBAGnVjpfL0T165H) | [Teresa Cristina](https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Gema \(342 Amazônia ao Vivo no Circo Voador\)](https://open.spotify.com/album/0sbkCMPCxWHQlPjXRlLy2D) | 2:25 |
 | 69 | [LONGE LONGE DE MIM](https://open.spotify.com/track/6p69ERue7tvSXy4Eisa3jI) | [Ava Rocha](https://open.spotify.com/artist/68KlLCPyeiNtzy741tAwhQ) | [NEKTAR](https://open.spotify.com/album/2ruBDW3PQgFhddir0gxIFg) | 3:26 |
 | 70 | [Figa De Guiné](https://open.spotify.com/track/1oekqvXHit1f8Rirv9uSH7) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Sol de Verão 2021](https://open.spotify.com/album/19nZbz3qRHOvixEPSMR3WH) | 2:19 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 79 | [Na Linha do Mar](https://open.spotify.com/track/5aVHKHEeZ7XT6Upt6nl19H) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Cantoras do Brasil](https://open.spotify.com/album/4Zg1k7ciP5ew90hzPCkhuI) | 3:12 |
 | 80 | [Também Pede Bis](https://open.spotify.com/track/7ArxNzr5D7OvRqes0S8CHY) | [Pedro Miranda](https://open.spotify.com/artist/32ChsjOKXXZrpDI6aAPo5l) | [Também Pede Bis](https://open.spotify.com/album/5pqZHhdxpz9jo5shnKnV6D) | 2:51 |
 | 81 | [Onde Você Não Tá?](https://open.spotify.com/track/4yJDBC3erIPsVsXHJ1Zovk) | [Revna](https://open.spotify.com/artist/5euRHFqQ2U4fCCctRKkpf0), [Ponds](https://open.spotify.com/artist/6q3e7UEHUXK8mepTyndg7h) | [Onde Você Não Tá?](https://open.spotify.com/album/2BFqi3hWedEha3eIYKGSpm) | 3:35 |
-| 82 | [Samba Jazz, de Raiz](https://open.spotify.com/track/3F2ib87cmlI1B9VaU12bnB) | [Cláudio Jorge](https://open.spotify.com/artist/1xvCT2DwPjwDTrRrgOkD8c) | [Samba Jazz, de Raiz Cláudio Jorge 70](https://open.spotify.com/album/4YIKXtcEx1IUK4eM6awnC4) | 4:09 |
-| 83 | [Último Carnaval](https://open.spotify.com/track/0wlhBQnOuZEOs9qj2zddVX) | [Bruno Capinan](https://open.spotify.com/artist/1BBIHguUeo7dz6dpHA6ThV) | [Leão Alado Sem Juba](https://open.spotify.com/album/2t1mVKPkD4ek2iGqGKjnXC) | 2:37 |
+| 82 | [Último Carnaval](https://open.spotify.com/track/0wlhBQnOuZEOs9qj2zddVX) | [Bruno Capinan](https://open.spotify.com/artist/1BBIHguUeo7dz6dpHA6ThV) | [Leão Alado Sem Juba](https://open.spotify.com/album/2t1mVKPkD4ek2iGqGKjnXC) | 2:37 |
+| 83 | [Samba Jazz, de Raiz](https://open.spotify.com/track/3F2ib87cmlI1B9VaU12bnB) | [Cláudio Jorge](https://open.spotify.com/artist/1xvCT2DwPjwDTrRrgOkD8c) | [Samba Jazz, de Raiz Cláudio Jorge 70](https://open.spotify.com/album/4YIKXtcEx1IUK4eM6awnC4) | 4:09 |
 | 84 | [Exagero](https://open.spotify.com/track/1o7E1yPZHMpibuXLOkicWv) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Beba\-Me Ao Vivo](https://open.spotify.com/album/5NNbh9qHmD1NVTbNa4p1eM) | 3:50 |
 | 85 | [Câncer Com Touro](https://open.spotify.com/track/3uupLgLlD2ZIe6D1CuRVjW) | [Sambaiana](https://open.spotify.com/artist/5gGjpgad4tcVWMv4mlOw7a), [Grace Profeta](https://open.spotify.com/artist/6UvvBk4jun0UH6IiMAZCko), [Rayra Mayara](https://open.spotify.com/artist/2JxBztEP6d5277y39owSBb), [Ju Moraes](https://open.spotify.com/artist/19P3N1zEBTIeW3I0cyVthZ), [Lalá Evangelista](https://open.spotify.com/artist/5wTHY9NhwtH1Q84hJcwJHr), [Marcinha BB](https://open.spotify.com/artist/4KGopYW2G8P41kyEXlYLU7), [Marília Sodré](https://open.spotify.com/artist/4vFvo1osQ1NCjyKnFD6hVh) | [Câncer Com Touro](https://open.spotify.com/album/0vvr3GmtsWOq8EDBFG1xtp) | 2:59 |
 | 86 | [Sufoco](https://open.spotify.com/track/5tNeqDocqM9bfagx3jEtd9) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Melhores Pagodes](https://open.spotify.com/album/0AYAOB2K3Eg98YaqP3efan) | 4:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 99 | [Se Me Chamar, O Sorte!](https://open.spotify.com/track/1AkkRumTuA3MbfXMsmwEE7) | [Wilson Das Neves](https://open.spotify.com/artist/0dDz30ZxGRurnghF0Q6Oxn), [Cláudio Jorge](https://open.spotify.com/artist/1xvCT2DwPjwDTrRrgOkD8c) | [Se Me Chamar, Ô Sorte](https://open.spotify.com/album/6tRtjhV934RrMZw4hkqXbN) | 3:38 |
 | 100 | [Malandro \- Ao Vivo](https://open.spotify.com/track/54G9rpksU4kOftGuzvPErz) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Carioca da Gema \(Ao Vivo\)](https://open.spotify.com/album/4LNmMWxJoJ5xKoJLyX0iX5) | 4:16 |
 
-Snapshot ID: `MCxmYjkzYzhkNzVlYzFhZWNkNzgxNTYxOGNhNGNhYWE2NTY0ZGQyM2Ew`
+Snapshot ID: `MCxhZjFhNGE2NTQ3ZmM1NGYyNmNmZmVhZmUwNGNmZTc3OTYxOGU2ZWEx`

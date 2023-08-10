@@ -132,7 +132,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 226367,
       "name": "Abandon All Hope",
       "url": "https://open.spotify.com/track/1nKwN2fypWq43r0OUeJ5kx"
@@ -478,7 +478,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 330880,
       "name": "Alps",
       "url": "https://open.spotify.com/track/57cfUHZjRwwrIQaMurSIlJ"
@@ -1992,7 +1992,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 339010,
       "name": "Con o Sin",
       "url": "https://open.spotify.com/track/1hwnfkrdQEv6p34kaoHSvH"
@@ -3300,6 +3300,24 @@
       "duration_ms": 169750,
       "name": "Everything's Normal",
       "url": "https://open.spotify.com/track/1OD0QKUOMZN26FRN6GWlXo"
+    },
+    {
+      "album": {
+        "name": "Evicted",
+        "url": "https://open.spotify.com/album/2Exf1TaOG1wElBCKNDzWdz"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209760,
+      "name": "Evicted",
+      "url": "https://open.spotify.com/track/2JW4rkz1XshjSVV4LES2RJ"
     },
     {
       "album": {
@@ -5523,6 +5541,54 @@
     },
     {
       "album": {
+        "name": "Jus U",
+        "url": "https://open.spotify.com/album/4MHiBV3HFk6f5vlT36Xdzx"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Hart",
+          "url": "https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa"
+        },
+        {
+          "name": "Mera Bhai",
+          "url": "https://open.spotify.com/artist/4C8nlIoLPOidEuovsSBSqU"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274383,
+      "name": "Jus U - Edit",
+      "url": "https://open.spotify.com/track/47xVTOMAyy1hfXyMk8mzXf"
+    },
+    {
+      "album": {
+        "name": "Elegy for Lost Time",
+        "url": "https://open.spotify.com/album/2tqvdLokbQJQsNtB9R9grn"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
+        },
+        {
+          "name": "Air Lyndhurst String Orchestra",
+          "url": "https://open.spotify.com/artist/72UK8pq1vewvVNs0mGCoH8"
+        },
+        {
+          "name": "Anthony Weeden",
+          "url": "https://open.spotify.com/artist/3Sn9qNHNBzGuMW3b4V6o98"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146440,
+      "name": "J\u00f3hannsson: A Sparrow Alighted upon our Shoulder",
+      "url": "https://open.spotify.com/track/43BDNPWzxY17HpyufviqNQ"
+    },
+    {
+      "album": {
         "name": "Karaoke",
         "url": "https://open.spotify.com/album/4Wl09axz0nWF0XwdZn4TYJ"
       },
@@ -5792,6 +5858,24 @@
       "duration_ms": 161893,
       "name": "Lights - A. G. Cook Remix",
       "url": "https://open.spotify.com/track/5lZjuVUB34aCKhhdZLA9C2"
+    },
+    {
+      "album": {
+        "name": "Lights 2023",
+        "url": "https://open.spotify.com/album/5qJh9m5UPShvkc1IbfUqKz"
+      },
+      "artists": [
+        {
+          "name": "Max Tundra",
+          "url": "https://open.spotify.com/artist/08DpSTsNFBf1PxTm9lwpXb"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128571,
+      "name": "Lights 2023",
+      "url": "https://open.spotify.com/track/5qhIGSSV8s5wy8LSpZTmev"
     },
     {
       "album": {
@@ -6778,7 +6862,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 214386,
       "name": "New York",
       "url": "https://open.spotify.com/track/5ehna23pO7qdgQjDFbuJrF"
@@ -7552,7 +7636,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 493120,
       "name": "Picture Of Bunny Rabbit",
       "url": "https://open.spotify.com/track/2euUgqYPqhHFqpAC3ihsa1"
@@ -9259,6 +9343,24 @@
     },
     {
       "album": {
+        "name": "Sweet Tea",
+        "url": "https://open.spotify.com/album/7KgXqySqEbM0qbJuyhfrXp"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247957,
+      "name": "Sweet Tea",
+      "url": "https://open.spotify.com/track/2cxtkjiJYEiGD4hcZsjBWr"
+    },
+    {
+      "album": {
         "name": "Swell",
         "url": "https://open.spotify.com/album/7bc22NCSiwRIORedk0HqQL"
       },
@@ -9364,6 +9466,24 @@
       "duration_ms": 277160,
       "name": "Terror's Pillow",
       "url": "https://open.spotify.com/track/10dQcJmvC6HQv0DHrr1iIt"
+    },
+    {
+      "album": {
+        "name": "Thanksgiving Prayer",
+        "url": "https://open.spotify.com/album/27qpnkkIaeCjtvWSPLSyZS"
+      },
+      "artists": [
+        {
+          "name": "A. Savage",
+          "url": "https://open.spotify.com/artist/1MK90Dn9tMbk16g2Vb2NQp"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293900,
+      "name": "Thanksgiving Prayer",
+      "url": "https://open.spotify.com/track/1PVzKScV6mAtIHd2JpysuK"
     },
     {
       "album": {
@@ -9602,7 +9722,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 228618,
       "name": "The Needle",
       "url": "https://open.spotify.com/track/47fVWmk4VKwcB6h0ybsxIZ"
@@ -10321,6 +10441,24 @@
     },
     {
       "album": {
+        "name": "Unemployment Office",
+        "url": "https://open.spotify.com/album/3pPCeH1QA2JtRdbd0ggwLk"
+      },
+      "artists": [
+        {
+          "name": "Goat",
+          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204181,
+      "name": "Unemployment Office",
+      "url": "https://open.spotify.com/track/4D1lsLazP8nXS36QdwYQ4l"
+    },
+    {
+      "album": {
         "name": "Unfold",
         "url": "https://open.spotify.com/album/4lnNOhPbB2kcYE44o65qUM"
       },
@@ -10614,7 +10752,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 202520,
       "name": "Wave a Flag for Harvey Milk",
       "url": "https://open.spotify.com/track/1ucKIEDuGeZP2n9Cf1aGGa"
@@ -10868,7 +11006,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 137874,
       "name": "Will Logic",
       "url": "https://open.spotify.com/track/5tjxHRNIBmmYlEYBmzAOdw"

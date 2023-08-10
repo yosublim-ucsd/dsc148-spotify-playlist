@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 
 > Songs from Canadian artists that dominated the 1990s\. Cover: LEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,590 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,612 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 | 15 | [That Song](https://open.spotify.com/track/2hiMLnZ2iItT3WIMxY3hAB) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [In Loving Memory Of \- 20th Anniversary Special Edition](https://open.spotify.com/album/6Agfrk7oe0H7WsXauqMPR6) | 5:04 |
 | 16 | [Hasn't Hit Me Yet \- 2012 Remaster](https://open.spotify.com/track/4MgPAPoNsUpJrVhKf1dCxz) | [Blue Rodeo](https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0) | [Five Days in July](https://open.spotify.com/album/38xKbwxuitwGAgjTPoEnWm) | 5:13 |
 | 17 | [The Future](https://open.spotify.com/track/5l8lYrnPEM1ln3J4XaTcy5) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [The Future](https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo) | 6:41 |
-| 18 | [Ocean Pearl](https://open.spotify.com/track/6mJsaJ0U6abpPVPPAcAF2r) | [54\-40](https://open.spotify.com/artist/1Y4l4YawNAZndGBSrZxb3N) | [Smilin' Buddha Cabaret](https://open.spotify.com/album/1C62w5tRzjcNJEA5SlHglE) | 3:27 |
-| 19 | [Money City Maniacs](https://open.spotify.com/track/0B6Xcr7eu0nsGOiXuLI5NH) | [Sloan](https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP) | [Navy Blues](https://open.spotify.com/album/1RTkQ57bnU9zfbM0gBmcr6) | 3:53 |
+| 18 | [Money City Maniacs](https://open.spotify.com/track/0B6Xcr7eu0nsGOiXuLI5NH) | [Sloan](https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP) | [Navy Blues](https://open.spotify.com/album/1RTkQ57bnU9zfbM0gBmcr6) | 3:53 |
+| 19 | [Ocean Pearl](https://open.spotify.com/track/6mJsaJ0U6abpPVPPAcAF2r) | [54\-40](https://open.spotify.com/artist/1Y4l4YawNAZndGBSrZxb3N) | [Smilin' Buddha Cabaret](https://open.spotify.com/album/1C62w5tRzjcNJEA5SlHglE) | 3:27 |
 | 20 | [Let It Rain](https://open.spotify.com/track/3iXaV9yTFnAnZAoVbY8AuT) | [Amanda Marshall](https://open.spotify.com/artist/2ON3fLFbL1rHfHEjeYNKsO) | [Amanda Marshall](https://open.spotify.com/album/0TyKRzOsoZgXrXrcXnPvqt) | 4:31 |
 | 21 | [End of the World](https://open.spotify.com/track/5BeMAafz7zA1jurQlVzxB2) | [Great Big Sea](https://open.spotify.com/artist/0GxOdKrtD5oUmQROcCs8M4) | [Play](https://open.spotify.com/album/44u5EtcXfe3r9EZgq5obPk) | 2:40 |
 | 22 | [Someone Who's Cool](https://open.spotify.com/track/1g8ubxSaVpjtPm90fE77oz) | [Odds](https://open.spotify.com/artist/1MVQ4bbrG5VdRyozjajZQp), [Mixed by Steven Drake with other Odds](https://open.spotify.com/artist/5HS2kOCWsYhB2BxDM9k0iH) | [Nest](https://open.spotify.com/album/3bosHaEpGeWKUMTwAtVKUU) | 3:17 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 | 27 | [Love Song](https://open.spotify.com/track/2l0Ef5m29J2fNOS5Ydkg8s) | [Sky](https://open.spotify.com/artist/5synmfYnU6t9Lw1ZiN3ZTT) | [Piece Of Paradise](https://open.spotify.com/album/060HunSfIEfWvy1bnYn4Fu) | 3:36 |
 | 28 | [Numb](https://open.spotify.com/track/7eH1GkchdFvNN4ZUx767G3) | [Holly McNarland](https://open.spotify.com/artist/26YoEndupBcezyzcSmbcw2) | [Stuff](https://open.spotify.com/album/2pLU6e4KE2773H1OjOfRZ9) | 3:57 |
 | 29 | [All That You Are \(x3\) \- 1997 Digital Remaster](https://open.spotify.com/track/3z9wl4sY8SqM8GurmuCLa9) | [Econoline Crush](https://open.spotify.com/artist/3M9ouLHyB0kbob1tnQN4wE) | [The Devil You Know](https://open.spotify.com/album/0Imd5b8ZBWRpFSmqGuxLIh) | 3:41 |
-| 30 | [When You're Gone](https://open.spotify.com/track/0mto4XYo8GISKnDxlLdK2a) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc), [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [On A Day Like Today](https://open.spotify.com/album/5x3Ws76JQN6elCUAOfVVlT) | 3:24 |
-| 31 | [Remote Control](https://open.spotify.com/track/5LXEcEwE3KL85Z9ypvfrFt) | [The Age Of Electric](https://open.spotify.com/artist/4TOnIr0jbHHfFJEP9cbTlR) | [Make a Pest a Pet](https://open.spotify.com/album/1deNw0nPi8acj425xdUmsg) | 3:39 |
+| 30 | [Remote Control](https://open.spotify.com/track/5LXEcEwE3KL85Z9ypvfrFt) | [The Age Of Electric](https://open.spotify.com/artist/4TOnIr0jbHHfFJEP9cbTlR) | [Make a Pest a Pet](https://open.spotify.com/album/1deNw0nPi8acj425xdUmsg) | 3:39 |
+| 31 | [When You're Gone](https://open.spotify.com/track/0mto4XYo8GISKnDxlLdK2a) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc), [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [On A Day Like Today](https://open.spotify.com/album/5x3Ws76JQN6elCUAOfVVlT) | 3:24 |
 | 32 | [Song Instead of a Kiss](https://open.spotify.com/track/3vLC0USKtOIxMnQfnjb3rt) | [Alannah Myles](https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj) | [Rockinghorse](https://open.spotify.com/album/0mZ1ie97Erajm6EWYvOeIO) | 5:03 |
 | 33 | [Any Day Now](https://open.spotify.com/track/4WwoxyC5V29j0cupsBy9Or) | [The Watchmen](https://open.spotify.com/artist/7MJSeuocRuASrNOZaYawlD) | [Silent Radar](https://open.spotify.com/album/0sLgYWg2M3FVOu3bkLGHxQ) | 4:41 |
 | 34 | [Midnight Rain](https://open.spotify.com/track/5ciTMaXkcznCe2fDgrrZVI) | [Wide Mouth Mason](https://open.spotify.com/artist/6CcCAJi97tqh5OFAwy1THH) | [Wide Mouth Mason](https://open.spotify.com/album/2MrXw9z9ljPjJwernD0w3E) | 3:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 | 49 | [O Siem](https://open.spotify.com/track/6aaboHhmMjU9ZrwiFs5UJZ) | [Susan Aglukark](https://open.spotify.com/artist/2R4S7xcKEkmqvmpXHrKj8C) | [This Child](https://open.spotify.com/album/6mP4rzVXInlSTP45xzzEXU) | 4:27 |
 | 50 | [My Definition Of A Boombastic Jazz Style \- Radio Mix](https://open.spotify.com/track/75Cz7AVd6T3PHSnLoqWhh9) | [Dream Warriors](https://open.spotify.com/artist/4FrJKQblIjEyw8rbqYHNpU) | [Black History Month: Funk + Hip\-Hop](https://open.spotify.com/album/0kBDIcvYaIeUrMq8JtkHV2) | 3:38 |
 
-Snapshot ID: `MCxhNTA0MDE3N2EzZWJhMzhlYzZiNDNiZTI0MzFhMWY4ODUzZjA3YjUx`
+Snapshot ID: `MCxhZDhjYzAyZmY3ZWQ0OTY3NmQzOWNmMTg1ZTkxYjc4NDVkOWRiYTYy`

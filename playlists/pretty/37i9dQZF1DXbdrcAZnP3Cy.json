@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Mexican anthems to get the party started! Cover: Vicente Fern\u00e1ndez",
-  "num_followers": 147374,
+  "num_followers": 147457,
   "original_name": "Mexican Party Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MGFmMjg3ZDUyMWM4MDljZDI2YzI3YjlkOGFhM2I2NTIxZDk0ZDdj",
+  "snapshot_id": "MCxmMzJkYzkxNjk4ZjZlOWJkYTNhOWE3MGZmZTE2YmJmNWRlZTk3ZDBi",
   "tracks": [
     {
       "added_at": "2023-05-01 21:44:18",
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-05-01 21:44:18",
       "album": {
+        "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 193816,
+      "name": "NO SE VA - EN VIVO",
+      "url": "https://open.spotify.com/track/0Y1lSCcxjfyyvmfgMJ1ukA"
+    },
+    {
+      "added_at": "2023-05-01 21:44:18",
+      "album": {
         "name": "Sergio El Bailador",
         "url": "https://open.spotify.com/album/1sk1X49mukrl5sFPjCtk1y"
       },
@@ -579,22 +595,6 @@
     {
       "added_at": "2023-05-01 21:44:18",
       "album": {
-        "name": "El Idolo De Mexico",
-        "url": "https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 157493,
-      "name": "El Rey",
-      "url": "https://open.spotify.com/track/6P3dT8EkJd0LOyZklOl0Na"
-    },
-    {
-      "added_at": "2023-05-01 21:44:18",
-      "album": {
         "name": "Cumbias Sin Control",
         "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
       },
@@ -611,18 +611,18 @@
     {
       "added_at": "2023-05-01 21:44:18",
       "album": {
-        "name": "El Comienzo",
-        "url": "https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b"
+        "name": "El Idolo De Mexico",
+        "url": "https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru"
       },
       "artists": [
         {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 193816,
-      "name": "NO SE VA - EN VIVO",
-      "url": "https://open.spotify.com/track/0Y1lSCcxjfyyvmfgMJ1ukA"
+      "duration_ms": 157493,
+      "name": "El Rey",
+      "url": "https://open.spotify.com/track/6P3dT8EkJd0LOyZklOl0Na"
     },
     {
       "added_at": "2023-05-01 21:44:18",
@@ -1419,22 +1419,18 @@
     {
       "added_at": "2023-05-01 21:44:18",
       "album": {
-        "name": "A.B. Quintanilla III Presents Kumbia Kings Greatest Hits \"Album Versions\"",
-        "url": "https://open.spotify.com/album/1RGWEZOK9E2fH75E6D3cqZ"
+        "name": "Borrachera Con los Honorables (En Vivo)",
+        "url": "https://open.spotify.com/album/5Js6rpaXDIBbdJA5Xn8AYd"
       },
       "artists": [
         {
-          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
-          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
-        },
-        {
-          "name": "Fito Olivares",
-          "url": "https://open.spotify.com/artist/4VRHPqW54KVxJAhUWNKjNF"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 210120,
-      "name": "Az\u00facar",
-      "url": "https://open.spotify.com/track/71hlW24Et0ZIHjp6pI7SXU"
+      "duration_ms": 188429,
+      "name": "La Boda del Huitlacoche - En Vivo",
+      "url": "https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs"
     },
     {
       "added_at": "2023-05-01 21:44:18",
@@ -1455,6 +1451,26 @@
     {
       "added_at": "2023-05-01 21:44:18",
       "album": {
+        "name": "A.B. Quintanilla III Presents Kumbia Kings Greatest Hits \"Album Versions\"",
+        "url": "https://open.spotify.com/album/1RGWEZOK9E2fH75E6D3cqZ"
+      },
+      "artists": [
+        {
+          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
+          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
+        },
+        {
+          "name": "Fito Olivares",
+          "url": "https://open.spotify.com/artist/4VRHPqW54KVxJAhUWNKjNF"
+        }
+      ],
+      "duration_ms": 210120,
+      "name": "Az\u00facar",
+      "url": "https://open.spotify.com/track/71hlW24Et0ZIHjp6pI7SXU"
+    },
+    {
+      "added_at": "2023-05-01 21:44:18",
+      "album": {
         "name": "Pistear, Pistear",
         "url": "https://open.spotify.com/album/3Vi5kjZrUvp4vJmUg6dMR0"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 165946,
       "name": "Pistear, Pistear, Pistear",
       "url": "https://open.spotify.com/track/6lsukPXxhMdPfG6nVtLE2R"
-    },
-    {
-      "added_at": "2023-05-01 21:44:18",
-      "album": {
-        "name": "Gold Collection, Vol.1",
-        "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
-      },
-      "artists": [
-        {
-          "name": "Banda Fresa Roja",
-          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
-        }
-      ],
-      "duration_ms": 164205,
-      "name": "La Dieta",
-      "url": "https://open.spotify.com/track/4WIKeVqB17mcYrWE5NWWoN"
     },
     {
       "added_at": "2023-05-01 21:44:18",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2023-05-01 21:44:18",
       "album": {
-        "name": "Aceptalo Ya !",
-        "url": "https://open.spotify.com/album/5NrYXAeq8EqovAyrb9JWNf"
+        "name": "Gold Collection, Vol.1",
+        "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
       },
       "artists": [
         {
-          "name": "Los Canarios De Michoacan",
-          "url": "https://open.spotify.com/artist/4j6JwUsiURpHgIWYzzdElp"
+          "name": "Banda Fresa Roja",
+          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
         }
       ],
-      "duration_ms": 202200,
-      "name": "El Wiri Wiri Aka El Guiri Guiri",
-      "url": "https://open.spotify.com/track/1fYwFiuLGzGuXRiwvHqqjl"
+      "duration_ms": 164205,
+      "name": "La Dieta",
+      "url": "https://open.spotify.com/track/4WIKeVqB17mcYrWE5NWWoN"
     }
   ],
   "unique_name": "Mexican Party Anthems",

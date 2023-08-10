@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BHSzm.md) - [plain]
 
 > This is The Who\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,138 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,176 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BHSzm.md) - [plain]
 | 36 | [The Punk And The Godfather](https://open.spotify.com/track/5A9Vm1hHyzgKCMxfa1as3j) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia](https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a) | 5:10 |
 | 37 | [Summertime Blues](https://open.spotify.com/track/3akHFIHXowtVTTjY4QQvPC) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who Sell Out \(Super Deluxe\)](https://open.spotify.com/album/2JyNDhGhp0hiizSPuUs0i9) | 2:38 |
 | 38 | [Long Live Rock \- Single Mix](https://open.spotify.com/track/1Pq1ySROrhPJ1ljTcZPy83) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Kids Are Alright](https://open.spotify.com/album/0dHf3EzHyFV4s1JhOyCjGp) | 3:56 |
-| 39 | [Pure And Easy \- Lifehouse Chronicles / Home Studio Mix / Remastered 2022](https://open.spotify.com/track/7uSFlWM3e4PIgi8ZzcGjqO) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who’s Next : Life House](https://open.spotify.com/album/6cwiMSoaljYA0qOBqgq474) | 8:39 |
+| 39 | [Anyway Anyhow Anywhere \- Stereo Version](https://open.spotify.com/track/7u8Z9Y3VFMAELQT1nEchtL) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(Stereo Version\)](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) | 2:43 |
 | 40 | [Quadrophenia](https://open.spotify.com/track/0tw9YJD5pF7JgjbKjO29kP) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia](https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a) | 6:13 |
-| 41 | [Anyway Anyhow Anywhere \- Stereo Version](https://open.spotify.com/track/7u8Z9Y3VFMAELQT1nEchtL) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(Stereo Version\)](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) | 2:43 |
+| 41 | [Pure And Easy \- Lifehouse Chronicles / Home Studio Mix / Remastered 2022](https://open.spotify.com/track/7uSFlWM3e4PIgi8ZzcGjqO) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who’s Next : Life House](https://open.spotify.com/album/6cwiMSoaljYA0qOBqgq474) | 8:39 |
 | 42 | [Pictures Of Lily](https://open.spotify.com/track/123RhEzztpTieeEd13NexC) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Meaty, Beaty, Big And Bouncy](https://open.spotify.com/album/0NufsuTuf3U0BY0p6jFdxV) | 2:42 |
 | 43 | [Ball and Chain](https://open.spotify.com/track/64csOaHL9FYqiOJxAi8h5X) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [WHO \(Deluxe\)](https://open.spotify.com/album/2WuaYvGgx9MS1Vj37aBiyU) | 4:29 |
 | 44 | [Cut My Hair](https://open.spotify.com/track/3fTPxECrrq7Zl5IIPDJEEY) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia](https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BHSzm.md) - [plain]
 | 49 | [Hero Ground Zero \- Live At Wembley, UK / 2019](https://open.spotify.com/track/1cIsreCkMrWc5o5cqvtTER) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w), [Isobel Griffiths Orchestra](https://open.spotify.com/artist/0LI0zBCk7MqZmKDAsD2aDz) | [The Who With Orchestra: Live At Wembley](https://open.spotify.com/album/0ZM1dVIT9Yb2BtWDGM1ZXx) | 4:50 |
 | 50 | [905](https://open.spotify.com/track/1OUhfm8VXT7jvDPjH7P6Sx) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who Are You](https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8) | 4:02 |
 
-Snapshot ID: `MjgxOTE2NzksMDAwMDAwMDA0Zjc5Y2FlZmMyYWEzNzJmY2JmNTcxM2EzMTYwNmQxNw==`
+Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDBkNDk5M2Y1ZjQxZDgwNmY0NzUzMDc5YzNjOWU0ODA2Ng==`

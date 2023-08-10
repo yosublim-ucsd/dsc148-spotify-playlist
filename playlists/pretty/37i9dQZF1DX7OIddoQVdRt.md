@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 
 > Experience the powerful messages and sounds of the current hits and classic Gospel songs\.  Cover:  <a href="https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS?si=7476425269ff490a">Pastor Mike Jr.</a>, <a href="https://www.thestellarawards.com/index.html">Stellar Awards'</a> Artist of the Year
 
-[Spotify](https://open.spotify.com/user/spotify) - 626,541 likes - 100 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 626,666 likes - 100 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 57 | [Never Have to Be Alone](https://open.spotify.com/track/43w5n3xRMBOQll8xQBuO41) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Never Have to Be Alone](https://open.spotify.com/album/34VkbeKpr1wXJZe1xW0Aif) | 3:47 |
 | 58 | [I Am \(Radio Edit\)](https://open.spotify.com/track/5gvwQLe4Z86vBVtTESworf) | [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH), [Deborah Carolina](https://open.spotify.com/artist/1b89ZzY5HMXI8pQlTfFe4m) | [I Am](https://open.spotify.com/album/5YhYF97P4OAVJCWr3Id5fz) | 4:42 |
 | 59 | [Hold on Me \(feat\. Kirk Franklin & John P\. Kee\)](https://open.spotify.com/track/3MKu1rrJQAieDImUI34gls) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl) | [Hold on Me \(feat\. Kirk Franklin & John P\. Kee\)](https://open.spotify.com/album/0GZRbYYeZYmRKLZZPCMblg) | 3:30 |
-| 60 | [Gotta Have You \(feat\. Kirk Franklin, Jermaine Dolly & Lena Byrd Miles\)](https://open.spotify.com/track/7sua3EElbSneVDxEVDzgX4) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Jermaine Dolly](https://open.spotify.com/artist/14ROZ4kCrD8abznyzgs530), [Lena Byrd\-Miles](https://open.spotify.com/artist/02dokIaBFwqSfAFyU8xWWZ) | [Gospel According To PJ](https://open.spotify.com/album/03sl2epNRPGXu64WL36RsO) | 3:52 |
-| 61 | [2nd Win](https://open.spotify.com/track/2GjOk5EmK3njFZPx0aXtm4) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [GRACELAND](https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S) | 2:55 |
+| 60 | [2nd Win](https://open.spotify.com/track/2GjOk5EmK3njFZPx0aXtm4) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [GRACELAND](https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S) | 2:55 |
+| 61 | [Gotta Have You \(feat\. Kirk Franklin, Jermaine Dolly & Lena Byrd Miles\)](https://open.spotify.com/track/7sua3EElbSneVDxEVDzgX4) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Jermaine Dolly](https://open.spotify.com/artist/14ROZ4kCrD8abznyzgs530), [Lena Byrd\-Miles](https://open.spotify.com/artist/02dokIaBFwqSfAFyU8xWWZ) | [Gospel According To PJ](https://open.spotify.com/album/03sl2epNRPGXu64WL36RsO) | 3:52 |
 | 62 | [I Need You \(Live\)](https://open.spotify.com/track/5nNZ8eGlitET1yeFHvizpI) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra) | [I Need You \(Live\)](https://open.spotify.com/album/4SlkxSSyXxnx9y0qpVlaH8) | 5:23 |
 | 63 | [You](https://open.spotify.com/track/23w95m3xuLxEyqaIMFYDrY) | [Jermaine Dolly](https://open.spotify.com/artist/14ROZ4kCrD8abznyzgs530) | [The Dolly Express](https://open.spotify.com/album/63yEC0w1r3uMTfWPmX7iAF) | 5:45 |
 | 64 | [Gotta Believe](https://open.spotify.com/track/6XQnntAqVSQkcaBQP7HIJO) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Gotta Believe](https://open.spotify.com/album/0oS2D0IgnyGkkaUVmdJ1Dv) | 2:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 99 | [Praying and Believing](https://open.spotify.com/track/7hfv1V47dO8Wg930ARWsex) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp), [Warryn Campbell](https://open.spotify.com/artist/3qSkdqhJ4upraMXTX2PdXu) | [Warryn Campbell Presents My Block Inc.](https://open.spotify.com/album/1cbaR2xRm6YAHgbTgr5met) | 5:12 |
 | 100 | [You’re Gonna Get The Glory \- Live](https://open.spotify.com/track/54DSYJ4UJS9Me8sdpuZlAT) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Royalty: Live At The Ryman](https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw) | 8:01 |
 
-Snapshot ID: `MCwxM2VlODJhMzM3OGQyMWFmZGYwYjAxNjc2NDNjNTM1ZmM5NWJlNzEx`
+Snapshot ID: `MCwzMWI5MTI0ZTZhMjlhMjc4ZWQzZmExNzIxZDAzOGZiNTgwYTViNzk4`

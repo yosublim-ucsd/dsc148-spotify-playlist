@@ -4,7 +4,7 @@
 
 > Life in plastic, it's fantastic \#fyp
 
-104 songs - 5 hr 18 min
+105 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Laboratoire](https://open.spotify.com/track/24JrEVHDfohup0ypuOV7os) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Carré](https://open.spotify.com/album/4IoXKS2ihE2YnCpyBxcdCn) | 2:42 | 2023-04-07 |  |
 | [Laboratoire](https://open.spotify.com/track/2GMXeFK2Zz6DqUP5LT9NHz) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Carré](https://open.spotify.com/album/2oTwdgQB5duCr067NgoEOP) | 2:42 | 2023-04-07 | 2023-07-30 |
 | [Les derniers marioles \(feat\. SCH\)](https://open.spotify.com/track/3aIH3DPcGwMDPlOl43Lufl) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Les derniers marioles \(feat\. SCH\)](https://open.spotify.com/album/4RzryyT7JcO6cwuT8Kjbeb) | 3:31 | 2023-07-07 |  |
-| [Lola](https://open.spotify.com/track/15Cdh1RxOdlaFUm24ifnKH) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [Lola](https://open.spotify.com/album/5ERCsLDY5NZsahMBKE6WFW) | 2:26 | 2023-03-24 |  |
+| [Lola](https://open.spotify.com/track/15Cdh1RxOdlaFUm24ifnKH) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [Lola](https://open.spotify.com/album/5ERCsLDY5NZsahMBKE6WFW) | 2:26 | 2023-03-24 | 2023-08-10 |
 | [Ma Came](https://open.spotify.com/track/3x6n0IkVMIqTl7EE2j3R2g) | [Dertay](https://open.spotify.com/artist/5xSXFYJ9xBDUBxF5VUKDZR) | [Ma Came](https://open.spotify.com/album/2R9xCcqvgr4UCFfN3JvviO) | 2:42 | 2023-03-24 |  |
 | [Madame](https://open.spotify.com/track/2owjILiTibvZNB348YYQzv) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Le Rat Luciano](https://open.spotify.com/artist/5QuZ9HdvnXcX8kEG782Phv) | [La tête dans les nuages](https://open.spotify.com/album/2UyUeMDqCwENnLIU7EQ3We) | 4:01 | 2023-05-05 |  |
 | [Mafiosi](https://open.spotify.com/track/7jcjYSBmI689kmemyRZS7g) | [Iss](https://open.spotify.com/artist/4BLLuraEiS8Sb3j5csO1jd) | [Libre 2.0](https://open.spotify.com/album/1fnDgjS0KI9L7G4zpdkNJj) | 3:02 | 2023-07-27 |  |
@@ -110,6 +110,7 @@
 | [Tropical](https://open.spotify.com/track/72S7wnaqaCAJ3fZVgx3i4A) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [C'est quand qu'il s'éteint ?](https://open.spotify.com/album/4Dzf53bN69FJmuIz3zaSvc) | 2:40 | 2023-07-21 |  |
 | [Tá OK](https://open.spotify.com/track/0fABszUFNbNq9IW503Gj8v) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Tá OK](https://open.spotify.com/album/41iAYv4hU3BL86F0sOTvqp) | 1:32 | 2023-06-30 |  |
 | [Vermedin](https://open.spotify.com/track/2KhbRuWQmIRK9pKNqFk14F) | [Umut Timur](https://open.spotify.com/artist/650blPhpj24aloFTk941L3), [MRC](https://open.spotify.com/artist/4m90Zo0X5ACTTk27IZ9eMY) | [Şaheser](https://open.spotify.com/album/2cnnNsOeOthie068mjAnDG) | 3:40 | 2023-05-26 | 2023-08-05 |
+| [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 | 2023-08-09 |  |
 | [Zarzour](https://open.spotify.com/track/7t4XOS9MpF1pC0OBLnMiDy) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Zarzour](https://open.spotify.com/album/49KXJUuZOIXZSi79qEP1Pe) | 3:19 | 2023-07-21 |  |
 | [À Deux](https://open.spotify.com/track/42Rapmc2bbFCf9LqFDu3RI) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [H E L I O S.](https://open.spotify.com/album/5DSbqGiJ1uIZDLfYLutiHD) | 3:42 | 2023-05-26 |  |
 

@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Molly Tuttle
 
-305 songs - 19 hr 10 min
+306 songs - 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,8 @@
 | [My Oh My](https://open.spotify.com/track/4BJR7M2REDNVdhpHDfBBU5) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [The Phosphorescent Blues](https://open.spotify.com/album/3cdqpjwuTvDeLe3RYIGb0j) | 4:18 | 2021-10-01 | 2022-01-15 |
 | [Narrow Line](https://open.spotify.com/track/4aVe8YJwrAfqF4Qo0kyQLn) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [Narrow Line](https://open.spotify.com/album/13ok2EdPNgcOS0RHx0KOMr) | 4:35 | 2022-04-01 |  |
 | [New Earth](https://open.spotify.com/track/1y8ZkHUqgPkgSFDGM55siL) | [Bark Point.](https://open.spotify.com/artist/3k1op8tCQiKBZYYW1QecNg) | [New Earth](https://open.spotify.com/album/08zLOiclaS8FkhuqXQrhMb) | 2:32 | 2022-07-15 |  |
-| [Next Rodeo](https://open.spotify.com/track/5HQlgyXOgo6vyYo4VsVlXw) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [Next Rodeo](https://open.spotify.com/album/16EbppchFpI68fnD8Q6kY8) | 3:47 | 2023-06-02 |  |
+| [Next Rodeo](https://open.spotify.com/track/38uAxYKtMPSDry2jYOjOzr) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [City of Gold](https://open.spotify.com/album/3LAherx4Gg7LCOWQo25lBK) | 3:47 | 2023-08-04 |  |
+| [Next Rodeo](https://open.spotify.com/track/5HQlgyXOgo6vyYo4VsVlXw) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [Next Rodeo](https://open.spotify.com/album/16EbppchFpI68fnD8Q6kY8) | 3:47 | 2023-06-02 | 2023-08-10 |
 | [Next to Nothing](https://open.spotify.com/track/32rfM7bIDwz44zCcLwcdKC) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Haste Make / Hard Hearted Stranger](https://open.spotify.com/album/5nBEPxMYprdGPngcur3JoV) | 3:31 | 2022-01-21 | 2023-04-30 |
 | [Next to Nothing](https://open.spotify.com/track/4px9hNTpKJBIF32V3QarTO) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Haste Make / Hard Hearted Stranger](https://open.spotify.com/album/1mipjylQeWZmp1Kc27pH5Q) | 3:31 | 2023-04-28 |  |
 | [No Falling Out of Love](https://open.spotify.com/track/4F3xVdKJXcB7QrR34jdnN8) | [Bailey Bigger](https://open.spotify.com/artist/2F5hL2QOcp2BJw1tA5oHXm) | [Coyote Red](https://open.spotify.com/album/1XLFkjc8uRG78k1OM9zZDk) | 5:23 | 2023-04-28 | 2023-05-16 |

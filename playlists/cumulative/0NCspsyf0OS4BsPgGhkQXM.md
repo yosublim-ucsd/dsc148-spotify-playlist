@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-787 songs - 1 day 18 hr 50 min
+788 songs - 1 day 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -682,6 +682,7 @@
 | [The Island](https://open.spotify.com/track/71H9O3hLE9I77Q9LCO7L21) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [Kulture DNB](https://open.spotify.com/artist/3XNd0xAFyDJri3hZ40HSHY) | [The Island](https://open.spotify.com/album/5nSI0EOMHlMPRS0n58kC7w) | 2:43 | 2022-01-14 | 2022-01-29 |
 | [The Kid I Used to Know \- WiDE AWAKE Remix](https://open.spotify.com/track/0ZrCu7JTfPHev2kzaabC7V) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG), [WiDE AWAKE](https://open.spotify.com/artist/7bKJsFgjE6XoO5fDhTCCqX) | [The Kid I Used to Know \(WiDE AWAKE Remix\)](https://open.spotify.com/album/30xW5nRfRKyrwpihwxhR6H) | 3:03 | 2023-02-21 |  |
 | [The lights on your face.](https://open.spotify.com/track/0nonJpXOUxwbIqgCqL6Rdh) | [The Caracal Project](https://open.spotify.com/artist/1m3Z3kHjeDDFzKNWqvTlYN) | [The lights on your face.](https://open.spotify.com/album/2YwRYnQXzlyZomCLTxA6iB) | 3:51 | 2022-12-16 | 2022-12-27 |
+| [The Moment](https://open.spotify.com/track/05YcyYx5SpXZ1DNri0k0Qk) | [Benelidan](https://open.spotify.com/artist/6OxbKZRbAAWfegZJECjkNI) | [The Moment](https://open.spotify.com/album/2crEcnaJsI8AWFHFWlo9DN) | 3:08 | 2023-08-09 |  |
 | [The Moment I Met You](https://open.spotify.com/track/0sq8PLkApwedg1W9Qwam8F) | [Nikademis](https://open.spotify.com/artist/1mbM2HRSAFPgomMnUSNSvP), [Monika Santucci](https://open.spotify.com/artist/5E1FAGKopxyWqEREQblCDA) | [The Moment I Met You](https://open.spotify.com/album/1f7UfEdE3HI93z0wLsmRus) | 4:00 | 2022-09-08 | 2022-11-24 |
 | [The One](https://open.spotify.com/track/7yf3dIN6aqqHmi82ftMIRU) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp) | [The One](https://open.spotify.com/album/3PWkN6LXpJ5Q3f8BCVzP8k) | 3:06 | 2022-05-13 | 2023-07-29 |
 | [The Pit](https://open.spotify.com/track/4tjA1bnIrvCt1O4uaC476a) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [The Pit](https://open.spotify.com/album/2ORFeGP84Wx8BlRJmLx7A3) | 2:32 | 2022-06-14 | 2022-07-29 |

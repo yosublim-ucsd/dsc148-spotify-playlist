@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 131310,
+  "num_followers": 131422,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjM4YWUwMzkxYzNlZWFkYjQwZDhlNjA5ZmRiY2QxYjc3N2QzMTQw",
+  "snapshot_id": "MCw4ZTRjM2NjMWI1ZmJkYWFlMmZjYzllZGMwYWRkNDA3MTJkYWUzZDc0",
   "tracks": [
     {
       "added_at": "2023-07-27 23:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-07-27 23:00:00",
       "album": {
-        "name": "Party All the Time (feat. Kay)",
-        "url": "https://open.spotify.com/album/026MiiWON7Aei7MKzxCKGC"
-      },
-      "artists": [
-        {
-          "name": "Darkzy",
-          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
-        }
-      ],
-      "duration_ms": 266929,
-      "name": "Party All the Time (feat. Kay)",
-      "url": "https://open.spotify.com/track/7xN6f50e0ZdiDehWaVFeZ2"
-    },
-    {
-      "added_at": "2023-07-27 23:00:00",
-      "album": {
         "name": "Shut It Down",
         "url": "https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 178604,
       "name": "Shut It Down",
       "url": "https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki"
+    },
+    {
+      "added_at": "2023-07-27 23:00:00",
+      "album": {
+        "name": "Party All the Time (feat. Kay)",
+        "url": "https://open.spotify.com/album/026MiiWON7Aei7MKzxCKGC"
+      },
+      "artists": [
+        {
+          "name": "Darkzy",
+          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
+        }
+      ],
+      "duration_ms": 266929,
+      "name": "Party All the Time (feat. Kay)",
+      "url": "https://open.spotify.com/track/7xN6f50e0ZdiDehWaVFeZ2"
     },
     {
       "added_at": "2023-07-27 23:00:00",

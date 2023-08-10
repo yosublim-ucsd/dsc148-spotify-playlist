@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97h7ftpNSYT.md) - [plain]
 
 > Taking it back to the 2010s\. Cover: Travis Scott
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,939 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,011 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97h7ftpNSYT.md) - [plain]
 | 99 | [Work REMIX \(feat\. A$AP Rocky, French Montana, Trinidad James & ScHoolboy Q\)](https://open.spotify.com/track/7xVLFuuYdAvcTfcP3IG3dS) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Trinidad James](https://open.spotify.com/artist/0I5HubncQ8E1MFZOlPDY4J), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Trap Lord](https://open.spotify.com/album/3smlfAmejcKMmAPg1G2Kki) | 4:43 |
 | 100 | [Digits](https://open.spotify.com/track/4cg1yakyRSIOjxKM2I7J1q) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime Season 3](https://open.spotify.com/album/2z4c8M8aVzl7CTobIp36KF) | 2:56 |
 
-Snapshot ID: `MCxiOWUzMmYxMjU5OTFmNDY4ZjEzMDYyMGJlZjdiYTVmOWViZDdiNjdj`
+Snapshot ID: `MCw4ZmNmNGE3MTliYmRhMjUwYzNhZWUxNGY3ODBhNzljNTY0NTZmOGMx`

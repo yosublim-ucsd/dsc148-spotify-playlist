@@ -486,7 +486,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 169584,
       "name": "Bad News from Home",
       "url": "https://open.spotify.com/track/09r0BhkaegSmwwotdCTEYk"
@@ -1616,6 +1616,28 @@
       "duration_ms": 220500,
       "name": "Desperado",
       "url": "https://open.spotify.com/track/3fR9wnaW7Cpg8DsUL1CvGS"
+    },
+    {
+      "album": {
+        "name": "Different Now",
+        "url": "https://open.spotify.com/album/7AKbVhsHqz4enFZBTsJe4n"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        },
+        {
+          "name": "Chastity Belt",
+          "url": "https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265772,
+      "name": "Different Now",
+      "url": "https://open.spotify.com/track/1J0aTXvZG634UfviOVGMi5"
     },
     {
       "album": {
@@ -3085,6 +3107,24 @@
     },
     {
       "album": {
+        "name": "I Love You (But You're Boring)",
+        "url": "https://open.spotify.com/album/5bAGxbsl5q0Rg9XxZP14Yg"
+      },
+      "artists": [
+        {
+          "name": "Los Campesinos!",
+          "url": "https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289066,
+      "name": "I Love You (But You're Boring)",
+      "url": "https://open.spotify.com/track/2zvoxw6eF6Ruif28Mu3JE5"
+    },
+    {
+      "album": {
         "name": "I Try",
         "url": "https://open.spotify.com/album/5ZwWwcH6Q2xWIJzC1n5WXI"
       },
@@ -3114,7 +3154,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 311844,
       "name": "i wanna be your girlfriend",
       "url": "https://open.spotify.com/track/0rpsYTdLM9iNgkUGgFhGB8"

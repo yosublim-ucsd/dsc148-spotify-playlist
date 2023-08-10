@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/archdvs/\">Archie Davis</a>",
-  "num_followers": 12516,
+  "num_followers": 12544,
   "original_name": "Archie Davis' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMmVhOGFhYTM2NDI1ZjA0MGRjYzllOWU3YWExMzkwZjRlYzZlMmQx",
+  "snapshot_id": "MCwwZGRhNzg0NDk2YjFjYzNkZGRmYTAyNDA0ODQzODA4MWE1ZjM1ZDIz",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "TwoFr 2",
-        "url": "https://open.spotify.com/album/6IFG8yV0MHsyAaZxbDHzlK"
-      },
-      "artists": [
-        {
-          "name": "Kalan.FrFr",
-          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
-        }
-      ],
-      "duration_ms": 185454,
-      "name": "Scoring",
-      "url": "https://open.spotify.com/track/5DuSL6z9KIv58xWCBly9qG"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Fight For You (From the Original Motion Picture \"Judas and the Black Messiah\")",
         "url": "https://open.spotify.com/album/1K2PS79KFV29pQe7zfyoyP"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 270710,
       "name": "Fight For You - From the Original Motion Picture \"Judas and the Black Messiah\"",
       "url": "https://open.spotify.com/track/2UJsKjM595pEyWUcd8JEIR"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "TwoFr 2",
+        "url": "https://open.spotify.com/album/6IFG8yV0MHsyAaZxbDHzlK"
+      },
+      "artists": [
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        }
+      ],
+      "duration_ms": 185454,
+      "name": "Scoring",
+      "url": "https://open.spotify.com/track/5DuSL6z9KIv58xWCBly9qG"
     },
     {
       "added_at": "2022-10-01 16:00:00",

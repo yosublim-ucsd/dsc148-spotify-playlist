@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover:  <a href="https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj?si=Ora3xnr8SBGrMFD1T03W7A"> Nasty C</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,585 likes - 70 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,657 likes - 70 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 69 | [All the smoke](https://open.spotify.com/track/0NmIi08d05F0ziGm3wqMaG) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Something to Live For](https://open.spotify.com/album/7shAasLUc9cFkpxUc9U8NW) | 3:12 |
 | 70 | [My Way](https://open.spotify.com/track/62WfsfUZiwm4h87G7e2wv2) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [My Way](https://open.spotify.com/album/7EZdtPWr8DAp1t2JNzpyuk) | 3:20 |
 
-Snapshot ID: `MCxiYmMxZDAzOTRkNzQ2NzEwOTViMjYzNWVlNTdiM2Y2NTc1YjYyYTcw`
+Snapshot ID: `MCxhNDNjZWNjMmQwNDcwMzYzY2VmMjljOWM1ZjYyMDNmOTkyNzQyYWVm`

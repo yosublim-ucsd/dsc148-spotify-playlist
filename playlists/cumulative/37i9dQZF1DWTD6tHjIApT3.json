@@ -1407,6 +1407,24 @@
     },
     {
       "album": {
+        "name": "At the End of the Live",
+        "url": "https://open.spotify.com/album/09vz9pVxdpUF6LraBsUSbM"
+      },
+      "artists": [
+        {
+          "name": "Koresawa",
+          "url": "https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271640,
+      "name": "At the End of the Live",
+      "url": "https://open.spotify.com/track/5f789mmiPS5TCKixFZ2U8y"
+    },
+    {
+      "album": {
         "name": "Elemental pop",
         "url": "https://open.spotify.com/album/1nJ7NkYmrale7NpIHP3xtB"
       },
@@ -5836,7 +5854,7 @@
     {
       "album": {
         "name": "Have a nice day",
-        "url": "https://open.spotify.com/album/1QPzdvjFAcG8gj92oTwdTo"
+        "url": "https://open.spotify.com/album/6Y38hzu8YDSyEaKy3yrE5p"
       },
       "artists": [
         {
@@ -5851,6 +5869,28 @@
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Have a nice day",
+      "url": "https://open.spotify.com/track/2mMuqNfjM9kLrgUX2Mz2PK"
+    },
+    {
+      "album": {
+        "name": "Have a nice day",
+        "url": "https://open.spotify.com/album/1QPzdvjFAcG8gj92oTwdTo"
+      },
+      "artists": [
+        {
+          "name": "TOSHIKI HAYASHI(%C)",
+          "url": "https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI"
+        },
+        {
+          "name": "RACHEL",
+          "url": "https://open.spotify.com/artist/76uBw1HgfUgs0TJ5Dn4eE6"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-10",
       "duration_ms": 233000,
       "name": "Have a nice day",
       "url": "https://open.spotify.com/track/7Gk2EJqSvZlE6f6wf8JoHl"
@@ -6743,6 +6783,28 @@
     },
     {
       "album": {
+        "name": "United Queens",
+        "url": "https://open.spotify.com/album/016yxPrHB2gjtuvx6SqGyr"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        },
+        {
+          "name": "NENE",
+          "url": "https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135930,
+      "name": "IKEMENTAL",
+      "url": "https://open.spotify.com/track/46c3kd2fWfsc6gBkDSRHKB"
+    },
+    {
+      "album": {
         "name": "SHUNKA RYOUGEN",
         "url": "https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60"
       },
@@ -7402,6 +7464,24 @@
       "duration_ms": 245535,
       "name": "Jam",
       "url": "https://open.spotify.com/track/5xt9N7xhDqEpp6NIdMCUux"
+    },
+    {
+      "album": {
+        "name": "Jihanki no Koi",
+        "url": "https://open.spotify.com/album/72i9YSgAj4eeT6bzRclJHF"
+      },
+      "artists": [
+        {
+          "name": "Ai Higuchi",
+          "url": "https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271133,
+      "name": "Jihanki no Koi",
+      "url": "https://open.spotify.com/track/7af4maQsJy5lrNokyDp6jB"
     },
     {
       "album": {
@@ -11068,7 +11148,7 @@
     {
       "album": {
         "name": "only love",
-        "url": "https://open.spotify.com/album/0JmSSihqlAQ0elWNmqL4Sd"
+        "url": "https://open.spotify.com/album/53TStd9hQRd5PKGJ8A705r"
       },
       "artists": [
         {
@@ -11079,6 +11159,24 @@
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 282397,
+      "name": "only love",
+      "url": "https://open.spotify.com/track/1FwCVgISIJsXAFaPRMs2A9"
+    },
+    {
+      "album": {
+        "name": "only love",
+        "url": "https://open.spotify.com/album/0JmSSihqlAQ0elWNmqL4Sd"
+      },
+      "artists": [
+        {
+          "name": "Ayumi Nakamura",
+          "url": "https://open.spotify.com/artist/3RyaA1p8ixjGPT6c8LWYPA"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-10",
       "duration_ms": 282397,
       "name": "only love",
       "url": "https://open.spotify.com/track/7sElgLLBJv2zvBpAYmfVLH"
@@ -12964,6 +13062,10 @@
         {
           "name": "Hikari Mitsushima",
           "url": "https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG"
+        },
+        {
+          "name": "Mondo Grosso",
+          "url": "https://open.spotify.com/artist/4d2zOuYJHBPJTpVblHEKJb"
         }
       ],
       "date_added": "2023-08-08",
@@ -13132,6 +13234,24 @@
       "duration_ms": 245017,
       "name": "SHOCK!!!",
       "url": "https://open.spotify.com/track/1YxIJ78KNEzI6WutmYYeKM"
+    },
+    {
+      "album": {
+        "name": "Shooting Star",
+        "url": "https://open.spotify.com/album/0MSx6z7OXSPbApc4PGJ2gy"
+      },
+      "artists": [
+        {
+          "name": "Leo Ieiri",
+          "url": "https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264304,
+      "name": "Shooting Star",
+      "url": "https://open.spotify.com/track/2e0J2wYPhaqyeC9skq5kRm"
     },
     {
       "album": {
@@ -15096,7 +15216,7 @@
     {
       "album": {
         "name": "TAMAPOP",
-        "url": "https://open.spotify.com/album/4O9A91iZSDqZC8A4jaexuv"
+        "url": "https://open.spotify.com/album/08PSIJlxxQu35GFUUU08q6"
       },
       "artists": [
         {
@@ -15107,6 +15227,24 @@
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 117708,
+      "name": "TAMAPOP",
+      "url": "https://open.spotify.com/track/0OOPBKWeYrs2r1uO0YGNcq"
+    },
+    {
+      "album": {
+        "name": "TAMAPOP",
+        "url": "https://open.spotify.com/album/4O9A91iZSDqZC8A4jaexuv"
+      },
+      "artists": [
+        {
+          "name": "CHAMELEON LIME WHOOPIEPIE",
+          "url": "https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-10",
       "duration_ms": 117708,
       "name": "TAMAPOP",
       "url": "https://open.spotify.com/track/0dkJRyRHYbhutsr6th52VI"
@@ -20062,7 +20200,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 135930,
       "name": "\u30a4\u30b1\u30e1\u30f3\u30bf\u30eb",
       "url": "https://open.spotify.com/track/1exFPjNa3Kyrod6p2BhAX0"
@@ -20844,7 +20982,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 264304,
       "name": "\u30b7\u30e5\u30fc\u30c6\u30a3\u30f3\u30b0\u30b9\u30bf\u30fc",
       "url": "https://open.spotify.com/track/0gir9EEU8LHgtULyClOgY9"
@@ -22720,7 +22858,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 271640,
       "name": "\u30e9\u30a4\u30d6\u7d42\u308f\u308a\u306b",
       "url": "https://open.spotify.com/track/25CT9v6urtrTRZjr1WOV0G"
@@ -28944,7 +29082,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 271133,
       "name": "\u81ea\u8ca9\u6a5f\u306e\u604b",
       "url": "https://open.spotify.com/track/2uyvkc1JKxKZwjG29sZuy9"

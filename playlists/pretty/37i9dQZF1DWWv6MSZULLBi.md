@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Jeremy Dutcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,667 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,674 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 14 | [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 |
 | 15 | [In My Arms](https://open.spotify.com/track/7pLbQqyLFRtC4GjS58feiI) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [In My Arms](https://open.spotify.com/album/4UXTYwFb2x5tv6xVAbP7Pj) | 3:20 |
 | 16 | [Tough Love](https://open.spotify.com/track/4kGGQubXF1b4yut3zwKQ1h) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu), [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Tough Love](https://open.spotify.com/album/4tPrGiSt9vsolF3jqexC7u) | 3:01 |
-| 17 | [Quamajur](https://open.spotify.com/track/4iEYvfQHN2ceUpZS852rnm) | [Putumayo](https://open.spotify.com/artist/7k8vgAYpmLCJNOs1J8SB8X), [Juurini](https://open.spotify.com/artist/4hJndL9GhSQZ3rymH5P5cx), [Beatrice Deer](https://open.spotify.com/artist/3YEhsztAtjqpC0JikHMmYe) | [Quamajur](https://open.spotify.com/album/63FnoKSa6gnqhLykGflXTI) | 3:34 |
+| 17 | [Qaumajur](https://open.spotify.com/track/4iEYvfQHN2ceUpZS852rnm) | [Putumayo](https://open.spotify.com/artist/7k8vgAYpmLCJNOs1J8SB8X), [Juurini](https://open.spotify.com/artist/4hJndL9GhSQZ3rymH5P5cx), [Beatrice Deer](https://open.spotify.com/artist/3YEhsztAtjqpC0JikHMmYe) | [Qaumajur](https://open.spotify.com/album/63FnoKSa6gnqhLykGflXTI) | 3:34 |
 | 18 | [october](https://open.spotify.com/track/4KxTFhm8qUWga2uB6NKuLy) | [La Force](https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH) | [october](https://open.spotify.com/album/0HEqMMj4JU99fqyDAk112t) | 4:32 |
 | 19 | [Consider Me A Winner](https://open.spotify.com/track/1AkQLyWEC52Y6JCfcBNU7m) | [Emma Ogier](https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm) | [Consider Me A Winner](https://open.spotify.com/album/7svvOtzleUABvi2XYEUBp9) | 2:43 |
 | 20 | [9beat](https://open.spotify.com/track/6K5TU8mqCOObdraAQ7e8u0) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Salt](https://open.spotify.com/album/1B7NRlfSFzUwUpEVSyUPTe) | 4:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [The Master](https://open.spotify.com/track/1qfY6FBh1lG2BGq3n2tOCO) | [Nico Paulo](https://open.spotify.com/artist/5qmzeW1wvVq0c2lFK1MieD) | [The Master](https://open.spotify.com/album/3MyTv5Yr13BB8LWNRd8orm) | 3:24 |
 | 100 | [Fish Out of Water](https://open.spotify.com/track/2JllvSo4QmvmIQkHAbdWvg) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Wisconsin](https://open.spotify.com/album/31RR4pZy65rFv65pX37zyG) | 3:14 |
 
-Snapshot ID: `MCwwOTRhZDg5ZDk0OWUyOGMyNjg5YzI4NmVmZTdlMmE4YThjMTVkYzQw`
+Snapshot ID: `MCw4OTRmZjlkMWE5MmU0Mjc0MTg0OTIxNWU4MjQ2MzM0YzU0YzMyMmNk`

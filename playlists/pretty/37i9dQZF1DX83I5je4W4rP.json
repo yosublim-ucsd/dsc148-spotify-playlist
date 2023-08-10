@@ -1,12 +1,12 @@
 {
   "description": "Soak up these laid-back jams. ",
-  "num_followers": 1061002,
+  "num_followers": 1061101,
   "original_name": "Beach Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTcxYTMyNDY1ODVkMzFhMzg4ZDlmZjIzYjBhNTVkZjExYjQyMDk2",
+  "snapshot_id": "MCxlYmFlYWUxM2QzOTY5Yzk5N2M1Y2NjOGMwYTgwNmM3ZDIyOGQxOTll",
   "tracks": [
     {
       "added_at": "2023-07-28 15:11:46",
@@ -815,6 +815,26 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
+        "name": "Beauty In The Silence",
+        "url": "https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8"
+      },
+      "artists": [
+        {
+          "name": "SOJA",
+          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 209032,
+      "name": "Something To Believe In",
+      "url": "https://open.spotify.com/track/7kMnqTDJm3aPibKgz46eLe"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
         "name": "Sweet and Dandy",
         "url": "https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 231976,
       "name": "Gimme Love",
       "url": "https://open.spotify.com/track/0xhHR5lWJCxIYGapEskm7C"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
-        "name": "Beauty In The Silence",
-        "url": "https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8"
-      },
-      "artists": [
-        {
-          "name": "SOJA",
-          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
-        },
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 209032,
-      "name": "Something To Believe In",
-      "url": "https://open.spotify.com/track/7kMnqTDJm3aPibKgz46eLe"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
+        "name": "Voyager",
+        "url": "https://open.spotify.com/album/1OB4dJvhPDVtpEsGbUOZHJ"
+      },
+      "artists": [
+        {
+          "name": "311",
+          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
+        }
+      ],
+      "duration_ms": 203912,
+      "name": "Good Feeling",
+      "url": "https://open.spotify.com/track/1JQr89uc6xVkIwfS09ct8K"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
         "name": "Pacific Coast Highway (with Trevor Hall)",
         "url": "https://open.spotify.com/album/2KzhabL9zxpSnPL6cq00Nc"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 227440,
       "name": "Pacific Coast Highway (with Trevor Hall)",
       "url": "https://open.spotify.com/track/6hazTlTm7MKamJWriYDa13"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
-        "name": "Voyager",
-        "url": "https://open.spotify.com/album/1OB4dJvhPDVtpEsGbUOZHJ"
-      },
-      "artists": [
-        {
-          "name": "311",
-          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
-        }
-      ],
-      "duration_ms": 203912,
-      "name": "Good Feeling",
-      "url": "https://open.spotify.com/track/1JQr89uc6xVkIwfS09ct8K"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "There I Go",
-        "url": "https://open.spotify.com/album/4UU8LUYdyjM3oa1UHwKhWI"
+        "name": "Say What You're Thinking",
+        "url": "https://open.spotify.com/album/1q130S8gKNKgURMPj8KjCt"
       },
       "artists": [
         {
-          "name": "Common Kings",
-          "url": "https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL"
+          "name": "Katchafire",
+          "url": "https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa"
         }
       ],
-      "duration_ms": 202172,
-      "name": "There I Go",
-      "url": "https://open.spotify.com/track/5maLNTxNa29qrB1qpBoh6y"
+      "duration_ms": 213733,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/6swAqbmAJ7m19IxoHK1y5Z"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Say What You're Thinking",
-        "url": "https://open.spotify.com/album/1q130S8gKNKgURMPj8KjCt"
+        "name": "There I Go",
+        "url": "https://open.spotify.com/album/4UU8LUYdyjM3oa1UHwKhWI"
       },
       "artists": [
         {
-          "name": "Katchafire",
-          "url": "https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa"
+          "name": "Common Kings",
+          "url": "https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL"
         }
       ],
-      "duration_ms": 213733,
-      "name": "Love Letter",
-      "url": "https://open.spotify.com/track/6swAqbmAJ7m19IxoHK1y5Z"
+      "duration_ms": 202172,
+      "name": "There I Go",
+      "url": "https://open.spotify.com/track/5maLNTxNa29qrB1qpBoh6y"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "M.I.A",
-        "url": "https://open.spotify.com/album/1XdrsXPczOTy6DT8LHloYT"
-      },
-      "artists": [
-        {
-          "name": "The Elovaters",
-          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
-        }
-      ],
-      "duration_ms": 191832,
-      "name": "M.I.A",
-      "url": "https://open.spotify.com/track/53Jobh2cnmyBSTt70CeHJE"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
         "name": "Down With You - Single",
         "url": "https://open.spotify.com/album/3cSpydfTHQ3t8JXFFPTxaJ"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 210050,
       "name": "Down With You",
       "url": "https://open.spotify.com/track/4hd7l6rGzpqVL4PwHRamrA"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
+        "name": "M.I.A",
+        "url": "https://open.spotify.com/album/1XdrsXPczOTy6DT8LHloYT"
+      },
+      "artists": [
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+        }
+      ],
+      "duration_ms": 191832,
+      "name": "M.I.A",
+      "url": "https://open.spotify.com/track/53Jobh2cnmyBSTt70CeHJE"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1719,26 +1719,6 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Set In Stone (with Jared Watson of Dirty Heads)",
-        "url": "https://open.spotify.com/album/70oH7Gb83EbhoXycxZTcZy"
-      },
-      "artists": [
-        {
-          "name": "Surfer Girl",
-          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
-        },
-        {
-          "name": "Dirty Heads",
-          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
-        }
-      ],
-      "duration_ms": 192224,
-      "name": "Set In Stone (with Jared Watson of Dirty Heads)",
-      "url": "https://open.spotify.com/track/3rB4xoMmxuNjaVfC9hU6La"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
         "name": "Be Alright",
         "url": "https://open.spotify.com/album/2SVH3FUWDU8BzlNn2Q6UEr"
       },
@@ -1775,6 +1755,26 @@
       "duration_ms": 157084,
       "name": "Too Late (with Jared Watson of Dirty Heads)",
       "url": "https://open.spotify.com/track/3jaaCjDmM9wMEr42mMqrPo"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
+        "name": "Set In Stone (with Jared Watson of Dirty Heads)",
+        "url": "https://open.spotify.com/album/70oH7Gb83EbhoXycxZTcZy"
+      },
+      "artists": [
+        {
+          "name": "Surfer Girl",
+          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
+        },
+        {
+          "name": "Dirty Heads",
+          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
+        }
+      ],
+      "duration_ms": 192224,
+      "name": "Set In Stone (with Jared Watson of Dirty Heads)",
+      "url": "https://open.spotify.com/track/3rB4xoMmxuNjaVfC9hU6La"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Every Road I'm On",
-        "url": "https://open.spotify.com/album/6gX9LgRThXGFkRMA0oCXWK"
-      },
-      "artists": [
-        {
-          "name": "Cas Haley",
-          "url": "https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy"
-        }
-      ],
-      "duration_ms": 229381,
-      "name": "Every Road I'm On",
-      "url": "https://open.spotify.com/track/4oLX41qPlebhUZdh95O23v"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
         "name": "Prologue",
         "url": "https://open.spotify.com/album/1mgDzGlXtOLeilxgyaltHo"
       },
@@ -2111,6 +2095,22 @@
       "duration_ms": 186845,
       "name": "Love Her Anyways",
       "url": "https://open.spotify.com/track/3B8TBGV0upObaUd9z4O9W8"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
+        "name": "Every Road I'm On",
+        "url": "https://open.spotify.com/album/6gX9LgRThXGFkRMA0oCXWK"
+      },
+      "artists": [
+        {
+          "name": "Cas Haley",
+          "url": "https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy"
+        }
+      ],
+      "duration_ms": 229381,
+      "name": "Every Road I'm On",
+      "url": "https://open.spotify.com/track/4oLX41qPlebhUZdh95O23v"
     },
     {
       "added_at": "2023-07-28 15:11:46",

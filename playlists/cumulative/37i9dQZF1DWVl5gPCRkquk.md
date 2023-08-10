@@ -4,7 +4,7 @@
 
 > Channel some chilled\-out back yard vibes.
 
-275 songs - 17 hr 14 min
+276 songs - 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Easy Rider](https://open.spotify.com/track/12AZ6nSJdq3bYgVeza8nSE) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Easy Rider](https://open.spotify.com/album/0ttq5m5vbcZNkRm85wDXh7) | 3:49 | 2021-10-29 | 2022-05-10 |
 | [Easy Rider](https://open.spotify.com/track/16bjzffqGoXKFQ5DYJlsxU) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Before the Bridge](https://open.spotify.com/album/3xY0Wdf37DDDWjyi89g9pj) | 3:49 | 2022-04-15 |  |
 | [Easy Way Out](https://open.spotify.com/track/2V6DAmBQMKUkXFw5rcbRF2) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Cautionary Tale](https://open.spotify.com/album/7iXMplFdSUSWPl5ALrREZT) | 4:39 | 2021-10-29 | 2022-06-01 |
-| [El Dorado](https://open.spotify.com/track/4qL1jujA2oQ2REmXOIonGb) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [El Dorado](https://open.spotify.com/album/01pat6dFkOovUam3FEHaaV) | 4:23 | 2023-04-28 |  |
+| [El Dorado](https://open.spotify.com/track/4qL1jujA2oQ2REmXOIonGb) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [El Dorado](https://open.spotify.com/album/01pat6dFkOovUam3FEHaaV) | 4:23 | 2023-04-28 | 2023-08-10 |
 | [El Invento](https://open.spotify.com/track/15MrK18b57Reu75doUBMxb) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [El Invento](https://open.spotify.com/album/73UwOPqykgw5pYAVLfu8Zo) | 2:33 | 2021-10-29 | 2022-07-29 |
 | [El Invento](https://open.spotify.com/track/23CYKO5L1wUGng3TL37fq0) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 2:33 | 2022-04-15 |  |
 | [Emily I'm Sorry](https://open.spotify.com/track/2CuBUQZY5SmOaISKWUO9m9) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg) | 3:34 | 2023-01-18 | 2023-03-03 |
@@ -95,7 +95,7 @@
 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 | 2021-10-29 |  |
 | [Fallin'](https://open.spotify.com/track/2bmKof7OGfJGfPE3jNNsZu) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Fallin'](https://open.spotify.com/album/6HvXWUQl5qiLKo58HWhR1U) | 3:18 | 2021-10-29 | 2022-07-29 |
 | [Featherweight](https://open.spotify.com/track/3ir3Eoj0pi0vlhqunNSyK3) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 3:50 | 2021-10-29 |  |
-| [Feel Alive Again](https://open.spotify.com/track/2wgCnWW5jtA6aNAJxgcEN2) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Rosemary](https://open.spotify.com/album/4FH3kwVRrLQHwp88j1i22h) | 4:14 | 2021-10-29 |  |
+| [Feel Alive Again](https://open.spotify.com/track/2wgCnWW5jtA6aNAJxgcEN2) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Rosemary](https://open.spotify.com/album/4FH3kwVRrLQHwp88j1i22h) | 4:14 | 2021-10-29 | 2023-08-10 |
 | [Field Notes on an Endless Day](https://open.spotify.com/track/3DCBRhUy3ypOvOTSgHIhky) | [Graeme James](https://open.spotify.com/artist/09b4q9Vfmuvxb8LuOrhp7W) | [Field Notes on an Endless Day](https://open.spotify.com/album/1RhrwSrdrxh9ld2spjUHAH) | 3:37 | 2021-10-29 | 2022-07-29 |
 | [Follow You](https://open.spotify.com/track/0ukHQwbkc9Tikwus91vQVM) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Follow You / Sunfish](https://open.spotify.com/album/3h8qLAWZIdhZYEprKJ6bER) | 3:49 | 2021-10-29 | 2022-06-12 |
 | [Get Me Out of Here](https://open.spotify.com/track/2ODqwVvfhMZlzivpr4q07w) | [Caleb Elliott](https://open.spotify.com/artist/0ubsTbLcwOTtBgs9AqYafk) | [Get Me Out of Here](https://open.spotify.com/album/3by6C0jQ7x8YyfZB3s8VCs) | 3:29 | 2021-10-29 | 2022-07-29 |
@@ -103,6 +103,7 @@
 | [Going Going Gone \- Edit](https://open.spotify.com/track/60IxJQA2o7CJ5GFO7DTd9T) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Going Going Gone \(Edit\)](https://open.spotify.com/album/5HDDr1fWzsEaZzbv0gNs9j) | 2:47 | 2021-10-29 | 2022-07-29 |
 | [Going Where the Lonely Go](https://open.spotify.com/track/1obqA76qNSGEnN4kTafsQw) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raise The Roof \(Deluxe Edition\)](https://open.spotify.com/album/48wFAtpgBV5rUTTDrNKCoN) | 4:10 | 2021-11-19 | 2022-07-29 |
 | [Going Where The Lonely Go](https://open.spotify.com/track/4MTpZs4wIJ4SpqMkh0CMuJ) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raise The Roof](https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2) | 4:10 | 2022-04-15 | 2022-11-13 |
+| [Golden State](https://open.spotify.com/track/45xzjdv3RJdGtSBbDyKg0t) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Golden State](https://open.spotify.com/album/4rUeKNbWM0XQwbkojQSMFI) | 4:24 | 2023-07-28 |  |
 | [Good Woman](https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:17 | 2023-06-16 |  |
 | [Good Woman](https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M) | 3:17 | 2021-10-29 | 2023-06-18 |
 | [Harriet](https://open.spotify.com/track/1u4xfhIw84WDXVJ4KSEApS) | [Ordinary Elephant](https://open.spotify.com/artist/4KDRZ2NwxT9UZ0RyG8gHFs) | [Honest](https://open.spotify.com/album/76dQI6JCOblmNdlxvU5HHC) | 3:06 | 2021-10-29 | 2022-06-14 |
@@ -142,7 +143,7 @@
 | [IOWA](https://open.spotify.com/track/3c9srkZXPYH5969NYxVXZS) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [IOWA](https://open.spotify.com/album/4jLnoqNXzY7DquELf6mz46) | 4:35 | 2021-10-29 |  |
 | [It Is What It Is](https://open.spotify.com/track/3FblHhMLjyL9G8Gtqhe45y) | [The Antlers](https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s) | [It Is What It Is](https://open.spotify.com/album/5uzGw560B5h9zUInkEVqds) | 3:57 | 2021-10-29 | 2022-05-07 |
 | [Jah Werx](https://open.spotify.com/track/0V6qGMcs3HocgP1Cwk8SkI) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [& I'm Fine Today](https://open.spotify.com/album/5D062RPrAS76knCMha1xCw) | 3:02 | 2021-10-29 | 2022-07-24 |
-| [Jah Werx](https://open.spotify.com/track/0epaptkWK7BHkHJheQJtZ4) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [& I'm Fine Today](https://open.spotify.com/album/5BMjWYvNyJDfdW5Gzfyc21) | 3:03 | 2022-04-15 | 2023-08-02 |
+| [Jah Werx](https://open.spotify.com/track/0epaptkWK7BHkHJheQJtZ4) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [& I'm Fine Today](https://open.spotify.com/album/5BMjWYvNyJDfdW5Gzfyc21) | 3:03 | 2022-04-15 |  |
 | [Johnny](https://open.spotify.com/track/4WDtGj1M2HFlcjvYIiRFug) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [World On The Ground](https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH) | 3:59 | 2021-10-29 | 2023-04-19 |
 | [jordan](https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 4:01 | 2021-10-29 |  |
 | [Keep On](https://open.spotify.com/track/4Bekc318sVRVNqy2HoXON7) | [Crooked Spines](https://open.spotify.com/artist/0gflAQkqjOluWa2R9hXUAm) | [Canyons](https://open.spotify.com/album/01Ns4nKQgJL0gDNIM0KYfk) | 4:35 | 2022-04-15 | 2022-04-20 |

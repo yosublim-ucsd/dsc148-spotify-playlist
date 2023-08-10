@@ -1,12 +1,12 @@
 {
   "description": "Country Music that ROCKS! Cover: Chris Stapleton",
-  "num_followers": 547329,
+  "num_followers": 547741,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2I1YWVlNGIyYzg0NGIyY2RjNTRhZDNkMDgxNmE2MTY5NDU3OGUw",
+  "snapshot_id": "MCxjNjM1ZDVkZDA4NTNkM2QyODgwYmE1M2Q0YmE2MWFmNGRlOWI3ODYy",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -731,26 +731,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
-        "url": "https://open.spotify.com/album/3H6onVGHhKCNYV3ctLLMBf"
+        "name": "Hell Paso",
+        "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
       },
       "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
         {
           "name": "Koe Wetzel",
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 155495,
-      "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
-      "url": "https://open.spotify.com/track/7ndDjjFDzw6Q68TmIzgHep"
+      "duration_ms": 156610,
+      "name": "Money Spent",
+      "url": "https://open.spotify.com/track/1HxcB2FgfYVhkbqNMCmq1O"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -771,18 +763,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Hell Paso",
-        "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
+        "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
+        "url": "https://open.spotify.com/album/3H6onVGHhKCNYV3ctLLMBf"
       },
       "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
         {
           "name": "Koe Wetzel",
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 156610,
-      "name": "Money Spent",
-      "url": "https://open.spotify.com/track/1HxcB2FgfYVhkbqNMCmq1O"
+      "duration_ms": 155495,
+      "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
+      "url": "https://open.spotify.com/track/7ndDjjFDzw6Q68TmIzgHep"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Like an Arrow",
-        "url": "https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0"
+        "name": "Hit Different",
+        "url": "https://open.spotify.com/album/4wMy9xe7Ob8pFG7lrBiXFB"
       },
       "artists": [
         {
-          "name": "Blackberry Smoke",
-          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
+          "name": "Rvshvd",
+          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
         }
       ],
-      "duration_ms": 247008,
-      "name": "Waiting for the Thunder",
-      "url": "https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ"
+      "duration_ms": 193271,
+      "name": "Hit Different",
+      "url": "https://open.spotify.com/track/5utQCXbXEQmOdIp9vE3rOD"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Hit Different",
-        "url": "https://open.spotify.com/album/4wMy9xe7Ob8pFG7lrBiXFB"
+        "name": "Like an Arrow",
+        "url": "https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0"
       },
       "artists": [
         {
-          "name": "Rvshvd",
-          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+          "name": "Blackberry Smoke",
+          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
         }
       ],
-      "duration_ms": 193271,
-      "name": "Hit Different",
-      "url": "https://open.spotify.com/track/5utQCXbXEQmOdIp9vE3rOD"
+      "duration_ms": 247008,
+      "name": "Waiting for the Thunder",
+      "url": "https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Call It Country",
-        "url": "https://open.spotify.com/album/2eqtyCMsctct0i1SWDHN2h"
+        "name": "South of Somewhere",
+        "url": "https://open.spotify.com/album/0XxAkm4enVQrzVIvkEGPly"
       },
       "artists": [
         {
-          "name": "Travis Denning",
-          "url": "https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ"
+          "name": "Dusty Black",
+          "url": "https://open.spotify.com/artist/3f1bjQS5unVeAeUFWrb5DO"
         }
       ],
-      "duration_ms": 151148,
-      "name": "Call It Country",
-      "url": "https://open.spotify.com/track/1H5I9ObhTNdSvcIJnM5CoT"
+      "duration_ms": 155348,
+      "name": "Them Boots",
+      "url": "https://open.spotify.com/track/1inAmPzZBNjKr7nU8cGbjT"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "South of Somewhere",
-        "url": "https://open.spotify.com/album/0XxAkm4enVQrzVIvkEGPly"
+        "name": "Call It Country",
+        "url": "https://open.spotify.com/album/2eqtyCMsctct0i1SWDHN2h"
       },
       "artists": [
         {
-          "name": "Dusty Black",
-          "url": "https://open.spotify.com/artist/3f1bjQS5unVeAeUFWrb5DO"
+          "name": "Travis Denning",
+          "url": "https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ"
         }
       ],
-      "duration_ms": 155348,
-      "name": "Them Boots",
-      "url": "https://open.spotify.com/track/1inAmPzZBNjKr7nU8cGbjT"
+      "duration_ms": 151148,
+      "name": "Call It Country",
+      "url": "https://open.spotify.com/track/1H5I9ObhTNdSvcIJnM5CoT"
     },
     {
       "added_at": "2023-08-04 04:00:00",

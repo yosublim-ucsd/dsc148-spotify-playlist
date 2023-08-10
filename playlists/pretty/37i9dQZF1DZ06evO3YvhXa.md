@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3YvhXa.md) - [plain]
 
 > This is Jamiroquai\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,314 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,420 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3YvhXa.md) - [plain]
 | 49 | [Music of the Mind](https://open.spotify.com/track/29uQW0hQQLU39lTYoB9YMo) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Emergency on Planet Earth \(Remastered\)](https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM) | 6:23 |
 | 50 | [Main Vein](https://open.spotify.com/track/77wvD68DO1na0pvLMcVASk) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid), [James Donaldson](https://open.spotify.com/artist/3a64PaH2MTn7Q596JQuNJq) | [A Funk Odyssey](https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs) | 5:03 |
 
-Snapshot ID: `MjgxOTE2NzksMDAwMDAwMDA0ZDBjOTY3Y2NlYWNhOTlhNzIxYTE4NGIxZjU5ODMwNw==`
+Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDBmOTc4Yzk1OTZlNDdhODdmOGU4M2M1YjBlZGM1MjhhMA==`

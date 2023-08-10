@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Lisandro Cuxi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,181 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,320 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 58 | [Não vai lá](https://open.spotify.com/track/1l52eiHWhwnSLfdyqBRAeY) | [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO), [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Sincera](https://open.spotify.com/album/6azn6TqoR8Uin80ljkqddo) | 3:07 |
 | 59 | [Momentos](https://open.spotify.com/track/4oy3pqAKEWN9mrxwTHwdMs) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Button Rose](https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD), [Liriany](https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd) | [Momentos](https://open.spotify.com/album/7y3xk4lkwaN3Eq56tTav1B) | 3:30 |
 | 60 | [Paké](https://open.spotify.com/track/6h1WgpPEbJEbMew8esRdbF) | [Loony Johnson](https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Paké](https://open.spotify.com/album/4LOcAV2E28OEl7b5rwUlBA) | 3:40 |
-| 61 | [365](https://open.spotify.com/track/0qrad26bbnF71qbebIhV2q) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [365](https://open.spotify.com/album/2t2JD3efuWaZWDHF8gfCoT) | 3:39 |
-| 62 | [Você Me Kuia](https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4) | [Jay Oliver](https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X) | [Longe de Ti](https://open.spotify.com/album/03wfykCwviZBpxcxcBEaN1) | 4:08 |
+| 61 | [Você Me Kuia](https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4) | [Jay Oliver](https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X) | [Longe de Ti](https://open.spotify.com/album/03wfykCwviZBpxcxcBEaN1) | 4:08 |
+| 62 | [365](https://open.spotify.com/track/0qrad26bbnF71qbebIhV2q) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [365](https://open.spotify.com/album/2t2JD3efuWaZWDHF8gfCoT) | 3:39 |
 | 63 | [Sincera](https://open.spotify.com/track/7KGtx4NKAMLuY9vW0UbkKu) | [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO) | [Sincera](https://open.spotify.com/album/3VjW8GG7L2KxIVDCm7TBdh) | 4:16 |
 | 64 | [Quarentena](https://open.spotify.com/track/26SEljwRV5sPTAtZhbbxS2) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Quarentena](https://open.spotify.com/album/2Z3rHccS9A2hd1R4SvkPeB) | 3:38 |
 | 65 | [Cuiar Assim](https://open.spotify.com/track/1624vqUVv4mXnaV1M4z6Fd) | [Dream Boyz](https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf), [Arieth Feijó](https://open.spotify.com/artist/5jzapBMcVjDFRXFy4e2PgA) | [Cuiar Assim](https://open.spotify.com/album/79wdIV83MzqZW2WlrWpAEM) | 3:50 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 67 | [Sinto Falta](https://open.spotify.com/track/3HjUVOsrtf2fkJRXaXzhkO) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Sinto Falta](https://open.spotify.com/album/10aek1HVhJYomxdvkC7jyq) | 3:22 |
 | 68 | [Mad Love](https://open.spotify.com/track/6J724avGtyTfnIWfKjlzLD) | [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi) | [Mad Love](https://open.spotify.com/album/6DxudgqAsL7IH8h1b5DYPZ) | 3:12 |
 | 69 | [Tellin Me Something](https://open.spotify.com/track/25NM2Mrlz8NTm82HIOzeck) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Tellin Me Something](https://open.spotify.com/album/4pqUdkYZOgXe1WfETwoIVI) | 2:47 |
-| 70 | [Boda](https://open.spotify.com/track/1oXbGqMPqugKoEaEuBZMXL) | [The Nitrox](https://open.spotify.com/artist/1QHmQj5zO28KW6Af9MQ8xj), [CEF Tanzy](https://open.spotify.com/artist/1H9tGEiPd91p977DunDG8G) | [Boda](https://open.spotify.com/album/5MBwc952fsqXyjK2MPBHDR) | 2:53 |
-| 71 | [Au revoir](https://open.spotify.com/track/4oMjvchKYV7mlrxJ50byCe) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Au revoir](https://open.spotify.com/album/0FeMKRGs3x5kA5s0ZwZYu2) | 3:54 |
+| 70 | [Au revoir](https://open.spotify.com/track/4oMjvchKYV7mlrxJ50byCe) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Au revoir](https://open.spotify.com/album/0FeMKRGs3x5kA5s0ZwZYu2) | 3:54 |
+| 71 | [Boda](https://open.spotify.com/track/1oXbGqMPqugKoEaEuBZMXL) | [The Nitrox](https://open.spotify.com/artist/1QHmQj5zO28KW6Af9MQ8xj), [CEF Tanzy](https://open.spotify.com/artist/1H9tGEiPd91p977DunDG8G) | [Boda](https://open.spotify.com/album/5MBwc952fsqXyjK2MPBHDR) | 2:53 |
 | 72 | [Felicidade](https://open.spotify.com/track/362ZNrWuatoPVRTI7AEAzb) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Felicidade](https://open.spotify.com/album/2UDLD0fwPAfijkPBFuRo2i) | 2:46 |
 | 73 | [Já Não Sei](https://open.spotify.com/track/2axmBwJacXBbSqvVbxtNzY) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW), [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Já Não Sei](https://open.spotify.com/album/5vPwS60vaPLCjp3L58jluO) | 4:21 |
 | 74 | [Criola](https://open.spotify.com/track/2Huk69nfKmAqeN4m2S7Ybj) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [Mika Mendes](https://open.spotify.com/album/7eJwbjpb27cnOxjH5vXr5q) | 4:43 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 79 | [Deusa do Amor](https://open.spotify.com/track/6JHiXHpIkZH7dR5B2INFjT) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Edgar Domingos](https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ), [Anderson Mario](https://open.spotify.com/artist/6REvCEamm1KPVrULbpAmdh), [Button](https://open.spotify.com/artist/0ZdXdsO7mcsS6921sIGKdL) | [Deusa do Amor](https://open.spotify.com/album/07eHTr7xC266F2C6LxKPXS) | 4:39 |
 | 80 | [Si Ki Min Krè](https://open.spotify.com/track/5XG59w0v2cDzu4Al2xcUMl) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Si Ki Min Krè](https://open.spotify.com/album/0VW7FjphPCaebGCrlTlpzW) | 2:39 |
 
-Snapshot ID: `MCwyMzNiMmQ4Njg1ZGFkYTdlOTdkZTk5OTM5ZjliYTUyYWE0M2QzNWZh`
+Snapshot ID: `MCw0ZTk0ODUzOGZiNDJiYzU5MTc0NWYyOTE0NjllZWFlNDAxOTY1ZWQx`

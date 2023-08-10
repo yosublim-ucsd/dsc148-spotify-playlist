@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Whatever The Weather",
-  "num_followers": 30140,
+  "num_followers": 30159,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2U2YTllZDZmNzAwYzUxNTExMTdiMzBhZGM5NjcyZGYyN2E1Yzg3",
+  "snapshot_id": "MCw3MWJhODcyYjE3ZTVmMWFhZjhmMGJjOWViOWIwOTI0MGJhNjk2NWVj",
   "tracks": [
     {
       "added_at": "2023-08-04 12:54:04",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-08-04 12:54:04",
       "album": {
-        "name": "Whatever The Weather",
-        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
-      },
-      "artists": [
-        {
-          "name": "Whatever The Weather",
-          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
-        }
-      ],
-      "duration_ms": 447000,
-      "name": "25\u00b0C",
-      "url": "https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS"
-    },
-    {
-      "added_at": "2023-08-04 12:54:04",
-      "album": {
         "name": "Under the Lilac Sky",
         "url": "https://open.spotify.com/album/6LPHMEFOuoscZzQQG2UJEj"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 240000,
       "name": "My People Have Deep Roots",
       "url": "https://open.spotify.com/track/0Xkmp9DkqHvz5EnA7VZPD0"
+    },
+    {
+      "added_at": "2023-08-04 12:54:04",
+      "album": {
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "duration_ms": 447000,
+      "name": "25\u00b0C",
+      "url": "https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS"
     },
     {
       "added_at": "2023-08-04 12:54:04",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-08-04 12:54:04",
       "album": {
-        "name": "A Mythology of Circles",
-        "url": "https://open.spotify.com/album/7ETwKNGObw9XeY0NFPwrfG"
-      },
-      "artists": [
-        {
-          "name": "Faten Kanaan",
-          "url": "https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy"
-        }
-      ],
-      "duration_ms": 251887,
-      "name": "The North Wind",
-      "url": "https://open.spotify.com/track/4F3oKKJKOGZqiv5y82m6WR"
-    },
-    {
-      "added_at": "2023-08-04 12:54:04",
-      "album": {
         "name": "Big Room",
         "url": "https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 267000,
       "name": "Billow",
       "url": "https://open.spotify.com/track/0ADpQhsJkrPFimoivWZYQt"
+    },
+    {
+      "added_at": "2023-08-04 12:54:04",
+      "album": {
+        "name": "A Mythology of Circles",
+        "url": "https://open.spotify.com/album/7ETwKNGObw9XeY0NFPwrfG"
+      },
+      "artists": [
+        {
+          "name": "Faten Kanaan",
+          "url": "https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy"
+        }
+      ],
+      "duration_ms": 251887,
+      "name": "The North Wind",
+      "url": "https://open.spotify.com/track/4F3oKKJKOGZqiv5y82m6WR"
     },
     {
       "added_at": "2023-08-04 12:54:04",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-08-04 12:54:04",
       "album": {
-        "name": "7.37/2.11",
-        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
-      },
-      "artists": [
-        {
-          "name": "Perila",
-          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
-        }
-      ],
-      "duration_ms": 468000,
-      "name": "Long Dizzying Air Through A Balcony Door",
-      "url": "https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv"
-    },
-    {
-      "added_at": "2023-08-04 12:54:04",
-      "album": {
         "name": "Mono No Aware",
         "url": "https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 406706,
       "name": "Zhao Hua",
       "url": "https://open.spotify.com/track/2Om39rrFtoMg6Rse1N7YWE"
+    },
+    {
+      "added_at": "2023-08-04 12:54:04",
+      "album": {
+        "name": "7.37/2.11",
+        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
+      },
+      "artists": [
+        {
+          "name": "Perila",
+          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
+        }
+      ],
+      "duration_ms": 468000,
+      "name": "Long Dizzying Air Through A Balcony Door",
+      "url": "https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv"
     },
     {
       "added_at": "2023-08-04 12:54:04",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-08-04 12:54:04",
       "album": {
-        "name": "Memories of Log",
-        "url": "https://open.spotify.com/album/7zYfVGpVHFMBlFQfKNPy0b"
-      },
-      "artists": [
-        {
-          "name": "Ulla",
-          "url": "https://open.spotify.com/artist/0ijZlfRS4zxGYWMxf8rvRN"
-        }
-      ],
-      "duration_ms": 400248,
-      "name": "Falling Water Lullaby",
-      "url": "https://open.spotify.com/track/107dsC2GDls9Yc3roCakzj"
-    },
-    {
-      "added_at": "2023-08-04 12:54:04",
-      "album": {
         "name": "Welfare / Practice",
         "url": "https://open.spotify.com/album/1O05SuJmpU1j9PtraWRaXc"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 231731,
       "name": "How to build an automaton",
       "url": "https://open.spotify.com/track/1yOj6SKeaEpGYwVbhMN9a7"
+    },
+    {
+      "added_at": "2023-08-04 12:54:04",
+      "album": {
+        "name": "Memories of Log",
+        "url": "https://open.spotify.com/album/7zYfVGpVHFMBlFQfKNPy0b"
+      },
+      "artists": [
+        {
+          "name": "Ulla",
+          "url": "https://open.spotify.com/artist/0ijZlfRS4zxGYWMxf8rvRN"
+        }
+      ],
+      "duration_ms": 400248,
+      "name": "Falling Water Lullaby",
+      "url": "https://open.spotify.com/track/107dsC2GDls9Yc3roCakzj"
     },
     {
       "added_at": "2023-08-04 12:54:04",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-08-04 12:54:04",
       "album": {
+        "name": "Springtime in Croatia",
+        "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
+      },
+      "artists": [
+        {
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Springtime in Croatia",
+      "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
+    },
+    {
+      "added_at": "2023-08-04 12:54:04",
+      "album": {
         "name": "The Spring of Dreams",
         "url": "https://open.spotify.com/album/5RByB1SOfHYoRaG2HHa8xT"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 302303,
       "name": "The Space of Love",
       "url": "https://open.spotify.com/track/6ObHLa9Rmr2aAGiZeKgWLR"
-    },
-    {
-      "added_at": "2023-08-04 12:54:04",
-      "album": {
-        "name": "Springtime in Croatia",
-        "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
-      },
-      "artists": [
-        {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Springtime in Croatia",
-      "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
     },
     {
       "added_at": "2023-08-04 12:54:04",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2023-08-04 12:54:04",
       "album": {
+        "name": "Anomi",
+        "url": "https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV"
+      },
+      "artists": [
+        {
+          "name": "Sonja Tofik",
+          "url": "https://open.spotify.com/artist/0xQ4lVwDOjBxjaPO5hIiC3"
+        }
+      ],
+      "duration_ms": 231618,
+      "name": "Night Changes Many Thoughts",
+      "url": "https://open.spotify.com/track/5k3pwKGz08bwbxy3VwvWEU"
+    },
+    {
+      "added_at": "2023-08-04 12:54:04",
+      "album": {
         "name": "The Fifth Season (Versions)",
         "url": "https://open.spotify.com/album/36b1h6b8WHww6yHJpemPSs"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 674042,
       "name": "You, at the End - Laurel Halo Version",
       "url": "https://open.spotify.com/track/0mpoJatIQQiyxaAvAS6H9e"
-    },
-    {
-      "added_at": "2023-08-04 12:54:04",
-      "album": {
-        "name": "Anomi",
-        "url": "https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV"
-      },
-      "artists": [
-        {
-          "name": "Sonja Tofik",
-          "url": "https://open.spotify.com/artist/0xQ4lVwDOjBxjaPO5hIiC3"
-        }
-      ],
-      "duration_ms": 231618,
-      "name": "Night Changes Many Thoughts",
-      "url": "https://open.spotify.com/track/5k3pwKGz08bwbxy3VwvWEU"
     },
     {
       "added_at": "2023-08-04 12:54:04",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-08-04 12:54:04",
       "album": {
-        "name": "Berlin Atonal: More Light",
-        "url": "https://open.spotify.com/album/5oZRcQW7SpQqefRotC20tA"
-      },
-      "artists": [
-        {
-          "name": "Galya Bisengalieva",
-          "url": "https://open.spotify.com/artist/5XT7fo7ijBPZAWWzXDEaRh"
-        }
-      ],
-      "duration_ms": 399346,
-      "name": "Aralkum",
-      "url": "https://open.spotify.com/track/1UxvmCbr25autV1szbE9MV"
-    },
-    {
-      "added_at": "2023-08-04 12:54:04",
-      "album": {
         "name": "\u00bfY Qu\u00e9 Es el Sol para Ellos Sino Algo Que Produce Sombras?",
         "url": "https://open.spotify.com/album/1SnoM9AauiiroErXXLuZnz"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 1792000,
       "name": "Sino Algo Que Produce Sombras?",
       "url": "https://open.spotify.com/track/084NpmX5haKuRUX3lh5vk6"
+    },
+    {
+      "added_at": "2023-08-04 12:54:04",
+      "album": {
+        "name": "Berlin Atonal: More Light",
+        "url": "https://open.spotify.com/album/5oZRcQW7SpQqefRotC20tA"
+      },
+      "artists": [
+        {
+          "name": "Galya Bisengalieva",
+          "url": "https://open.spotify.com/artist/5XT7fo7ijBPZAWWzXDEaRh"
+        }
+      ],
+      "duration_ms": 399346,
+      "name": "Aralkum",
+      "url": "https://open.spotify.com/track/1UxvmCbr25autV1szbE9MV"
     },
     {
       "added_at": "2023-08-04 12:54:04",

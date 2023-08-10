@@ -844,10 +844,28 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 163198,
       "name": "Me Dicen El Coyote - En Vivo",
       "url": "https://open.spotify.com/track/0MhGou3pUxm1MtzZpeeiHj"
+    },
+    {
+      "album": {
+        "name": "Desvelada Con Banda Y Mariachi (En Vivo)",
+        "url": "https://open.spotify.com/album/3FJXsvMG4qE7cPZEBORwoF"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163198,
+      "name": "Me Dicen el Coyote - En VIvo",
+      "url": "https://open.spotify.com/track/52TGyDPRWNCTyBcN8g5fu5"
     },
     {
       "album": {

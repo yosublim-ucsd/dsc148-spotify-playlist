@@ -1,12 +1,12 @@
 {
   "description": "Songs of positivity from some of today's leading inspiring artists. Cover:  Tobe Nwigwe",
-  "num_followers": 24723,
+  "num_followers": 24854,
   "original_name": "Blessings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjQ1NjlhYzRjYTM3YTBmNzI1M2U3M2FiZTFlZGM3ZTJkNWEwYzA5",
+  "snapshot_id": "MCxiMjM3MWE4MDdiZjBhYjRmMzgwMmFlOTc4MjA2YzMwZWVmZDVhNDg3",
   "tracks": [
     {
       "added_at": "2023-02-18 05:58:41",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "The Stonebrook Project",
-        "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
-      },
-      "artists": [
-        {
-          "name": "Zauntee",
-          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
-        }
-      ],
-      "duration_ms": 260708,
-      "name": "Jesus Called My Name",
-      "url": "https://open.spotify.com/track/1SDMJYKkUd99L1xqo4DMOZ"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "burn for u",
         "url": "https://open.spotify.com/album/0l6g4tJ50aQJhO680P8hQz"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 125566,
       "name": "burn for u",
       "url": "https://open.spotify.com/track/0EEnBExqpGxsDL3d4UM2QN"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "The Stonebrook Project",
+        "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
+      },
+      "artists": [
+        {
+          "name": "Zauntee",
+          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
+        }
+      ],
+      "duration_ms": 260708,
+      "name": "Jesus Called My Name",
+      "url": "https://open.spotify.com/track/1SDMJYKkUd99L1xqo4DMOZ"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
+        "name": "Child of the King",
+        "url": "https://open.spotify.com/album/4oWD49fwlJZ19S2IRPLqIi"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 101406,
+      "name": "Child of the King",
+      "url": "https://open.spotify.com/track/3Cvks0VMX3eIndlabjb0Fd"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
         "name": "Allegiance",
         "url": "https://open.spotify.com/album/2RYPVb167Pkejxj1HQustH"
       },
@@ -591,38 +607,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Child of the King",
-        "url": "https://open.spotify.com/album/4oWD49fwlJZ19S2IRPLqIi"
-      },
-      "artists": [
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 101406,
-      "name": "Child of the King",
-      "url": "https://open.spotify.com/track/3Cvks0VMX3eIndlabjb0Fd"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
-        "name": "No Loss",
-        "url": "https://open.spotify.com/album/4OvpLNfVIOiJmn2H20okwN"
-      },
-      "artists": [
-        {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
-        }
-      ],
-      "duration_ms": 175018,
-      "name": "No Loss",
-      "url": "https://open.spotify.com/track/5MFx3nX3rO7H49RomWdKl7"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "Thanks In Advance",
         "url": "https://open.spotify.com/album/58aalgCpjYVAqruiYV9sFH"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 141176,
       "name": "Thanks In Advance",
       "url": "https://open.spotify.com/track/3VMuOKRB6IuXCFAmNrFktz"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "No Loss",
+        "url": "https://open.spotify.com/album/4OvpLNfVIOiJmn2H20okwN"
+      },
+      "artists": [
+        {
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+        }
+      ],
+      "duration_ms": 175018,
+      "name": "No Loss",
+      "url": "https://open.spotify.com/track/5MFx3nX3rO7H49RomWdKl7"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
+        "name": "Ram in the Bush",
+        "url": "https://open.spotify.com/album/3gG2gyb4kEHRLE7TKJqXGn"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 148754,
+      "name": "Ram in the Bush",
+      "url": "https://open.spotify.com/track/1AE7szyIJmjyzMU7ocJqh2"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
         "name": "BLESSINGS",
         "url": "https://open.spotify.com/album/6ow7uliwOAfoz3q7c95zd6"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 194999,
       "name": "We Win (Space Jam: A New Legacy) (and Kirk Franklin)",
       "url": "https://open.spotify.com/track/4Y9BJZccHjVdHUkee0pBRa"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
-        "name": "Ram in the Bush",
-        "url": "https://open.spotify.com/album/3gG2gyb4kEHRLE7TKJqXGn"
-      },
-      "artists": [
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 148754,
-      "name": "Ram in the Bush",
-      "url": "https://open.spotify.com/track/1AE7szyIJmjyzMU7ocJqh2"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "PEACE OF MIND",
-        "url": "https://open.spotify.com/album/5QbUbmlbHdRAnNT3fhAWwZ"
-      },
-      "artists": [
-        {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
-        }
-      ],
-      "duration_ms": 207876,
-      "name": "PEACE OF MIND",
-      "url": "https://open.spotify.com/track/0nPTcCYwX5ObfRk4crSy0d"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "Christopher",
         "url": "https://open.spotify.com/album/5VEvjpJ9mrA2JfVQJJvLEW"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 140921,
       "name": "Where The Love Go?",
       "url": "https://open.spotify.com/track/6AcH0LfJlSzhHQqzWaxU5Y"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "PEACE OF MIND",
+        "url": "https://open.spotify.com/album/5QbUbmlbHdRAnNT3fhAWwZ"
+      },
+      "artists": [
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        }
+      ],
+      "duration_ms": 207876,
+      "name": "PEACE OF MIND",
+      "url": "https://open.spotify.com/track/0nPTcCYwX5ObfRk4crSy0d"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
+        "name": "Ficky Ficky",
+        "url": "https://open.spotify.com/album/7udGdBV98HP5C7vvtKDnKF"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 104147,
+      "name": "Ficky Ficky",
+      "url": "https://open.spotify.com/track/0GDBvTELLm5ujaYzAqZebd"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
         "name": "Everyday",
         "url": "https://open.spotify.com/album/641i12iK07r1ALlCWq1xW3"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 184271,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/1fsIS1oqTTr7CJvAkelrXc"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
-        "name": "Ficky Ficky",
-        "url": "https://open.spotify.com/album/7udGdBV98HP5C7vvtKDnKF"
-      },
-      "artists": [
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 104147,
-      "name": "Ficky Ficky",
-      "url": "https://open.spotify.com/track/0GDBvTELLm5ujaYzAqZebd"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
+        "name": "Sunday In Lagos",
+        "url": "https://open.spotify.com/album/62RAwuRbAoHvsYjQVL1Pyc"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        }
+      ],
+      "duration_ms": 153351,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/0IJJiloYvCpW02E9XRK7yV"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
         "name": "Holy",
         "url": "https://open.spotify.com/album/444xhOTpphGpSrqG7uSLwP"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 149213,
       "name": "Holy",
       "url": "https://open.spotify.com/track/5BiDQrKv72yjGNB0zUSBwO"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
-        "name": "Sunday In Lagos",
-        "url": "https://open.spotify.com/album/62RAwuRbAoHvsYjQVL1Pyc"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        }
-      ],
-      "duration_ms": 153351,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/0IJJiloYvCpW02E9XRK7yV"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1723,26 +1723,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Church House Trap House",
-        "url": "https://open.spotify.com/album/3gMNVLSueOnDCuXYRQCCXx"
-      },
-      "artists": [
-        {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
-        },
-        {
-          "name": "1k Pson",
-          "url": "https://open.spotify.com/artist/3ex5lvW6vBEAbO0czNTIC2"
-        }
-      ],
-      "duration_ms": 138600,
-      "name": "Church House Trap House",
-      "url": "https://open.spotify.com/track/5fHCpPepEmxTS8bFNCA0Rm"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "Rendezvous",
         "url": "https://open.spotify.com/album/1kLw0lTfdQ7Bcob66mxnSJ"
       },
@@ -1759,6 +1739,26 @@
       "duration_ms": 198591,
       "name": "Rendezvous",
       "url": "https://open.spotify.com/track/0MxGwcdb4Ms0U7DvkJth2q"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "Church House Trap House",
+        "url": "https://open.spotify.com/album/3gMNVLSueOnDCuXYRQCCXx"
+      },
+      "artists": [
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        },
+        {
+          "name": "1k Pson",
+          "url": "https://open.spotify.com/artist/3ex5lvW6vBEAbO0czNTIC2"
+        }
+      ],
+      "duration_ms": 138600,
+      "name": "Church House Trap House",
+      "url": "https://open.spotify.com/track/5fHCpPepEmxTS8bFNCA0Rm"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
+        "name": "When It Hurts: A Story By Isaiah Hill",
+        "url": "https://open.spotify.com/album/5WIYU4Amr1Exj6b79Z1pxe"
+      },
+      "artists": [
+        {
+          "name": "Xay Hill",
+          "url": "https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6"
+        }
+      ],
+      "duration_ms": 122392,
+      "name": "I Meant It",
+      "url": "https://open.spotify.com/track/4e5wpbjFHi4Wu9zTYvuH96"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
         "name": "Ascend",
         "url": "https://open.spotify.com/album/2VwSTUlrkCFsCyKNbpqvnN"
       },
@@ -1891,22 +1907,6 @@
       "duration_ms": 198095,
       "name": "Ascend",
       "url": "https://open.spotify.com/track/4jb2OO7G3J68R5mmQtjZKA"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
-        "name": "When It Hurts: A Story By Isaiah Hill",
-        "url": "https://open.spotify.com/album/5WIYU4Amr1Exj6b79Z1pxe"
-      },
-      "artists": [
-        {
-          "name": "Xay Hill",
-          "url": "https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6"
-        }
-      ],
-      "duration_ms": 122392,
-      "name": "I Meant It",
-      "url": "https://open.spotify.com/track/4e5wpbjFHi4Wu9zTYvuH96"
     }
   ],
   "unique_name": "Blessings",

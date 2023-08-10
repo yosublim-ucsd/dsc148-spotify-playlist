@@ -4,7 +4,7 @@
 
 > That summer in the city feeling, any day of the week.
 
-163 songs - 14 hr 33 min
+164 songs - 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Can't Fake the Feeling](https://open.spotify.com/track/3WtL910PEMIjJkkpM4xMKU) | [Geraldine Hunt](https://open.spotify.com/artist/2VuXufMFvhdWTYGEVceBdV) | [Can't Fake the Feeling](https://open.spotify.com/album/1dGnvsgMyThFwpl9hhSGbI) | 5:16 | 2021-09-01 |  |
 | [Can't You See](https://open.spotify.com/track/0QHgoeTQNQmyA1bNoUhZD3) | [Rick Wade](https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p) | [Players Theme](https://open.spotify.com/album/6Ce256upxpicVQuZCebMlo) | 5:05 | 2021-09-01 |  |
 | [Can’t You See](https://open.spotify.com/track/3mSRd2ISaVrdRMqklXyFK4) | [Rick Wade](https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p) | [Players Theme](https://open.spotify.com/album/2KJ3HDCconIBZx1zmRVP8t) | 5:05 | 2021-09-01 | 2022-07-29 |
+| [Care About Me](https://open.spotify.com/track/2jUKbo2J6SALFDp0KsUNYU) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Care About Me](https://open.spotify.com/album/2xALPBccgQ8Ya0Jj59oMJs) | 3:33 | 2023-07-28 |  |
 | [Catch and Don't Look Back](https://open.spotify.com/track/1fyJbH3cVEyx98R89eLexj) | [Womack & Womack](https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ) | [Love Wars](https://open.spotify.com/album/4kWcGJM5TK7eM5SdSDNH4o) | 4:28 | 2021-09-01 | 2022-05-03 |
 | [Chains](https://open.spotify.com/track/2z89w2POOafemX8yVmaA21) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn), [Ron Wilson](https://open.spotify.com/artist/4kVhiLOxWz73xXtBJcZ069) | [Vault Sessions 1](https://open.spotify.com/album/6HZl2GQr43KvIDKrrk6NBE) | 6:18 | 2021-09-01 | 2022-07-23 |
 | [Chantal](https://open.spotify.com/track/1BQXo70tMkB3Fk0bSnFe5a) | [Leo Pol](https://open.spotify.com/artist/2PBE0KQEqT34oYjjFyI9Mz) | [Mandar All Day 001](https://open.spotify.com/album/126odPOxNrKJyRPNjVeFFk) | 4:38 | 2021-09-01 |  |
@@ -87,7 +88,7 @@
 | [Lurk](https://open.spotify.com/track/18uMuvNai5GtXxw4q8qjKR) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [Casey MQ](https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8) | [For the Beasts](https://open.spotify.com/album/7thl8MxQ3IyU91WpifnEZH) | 2:33 | 2021-09-01 | 2022-10-22 |
 | [Lurk](https://open.spotify.com/track/67GSQd7BWT55EZSQdEuDd4) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [Casey MQ](https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8) | [For the Beasts](https://open.spotify.com/album/02uTOzzQ6KmhFjN40LQbuK) | 2:33 | 2021-09-01 |  |
 | [Ma quale idea](https://open.spotify.com/track/0nHdPB5NA4xkoDoSLbREwD) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [...Balla!](https://open.spotify.com/album/1nFv7xx9OHyArzWuCke1yE) | 4:22 | 2021-09-01 |  |
-| [Ma quale idea \- Myd Remix \(Club Edit\)](https://open.spotify.com/track/5nxeRnW9Y7oAXuZJzHmy7n) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Ma quale idea \(Myd Remix\)](https://open.spotify.com/album/0mRoBEyOI7MmBwtHpDOliY) | 4:41 | 2023-07-21 |  |
+| [Ma quale idea \- Myd Remix \(Club Edit\)](https://open.spotify.com/track/5nxeRnW9Y7oAXuZJzHmy7n) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Ma quale idea \(Myd Remix\)](https://open.spotify.com/album/0mRoBEyOI7MmBwtHpDOliY) | 4:41 | 2023-07-21 | 2023-08-10 |
 | [Manhattan Skyline \- JN Spirit of '77 Extended Mix](https://open.spotify.com/track/7i6jzIErXC8cnYhgpCt7b9) | [AC Soul Symphony](https://open.spotify.com/artist/5DsFurQjk8iOOLwG3uj4wQ), [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f) | [Manhattan Skyline](https://open.spotify.com/album/4YHDGOswqmUbLbPjmDA5lb) | 11:06 | 2021-09-01 | 2022-07-29 |
 | [Mars 500](https://open.spotify.com/track/1W3qMFgSzMHyqkefFr9MuM) | [CHLOE \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Mars 500](https://open.spotify.com/album/1SpaFoMnBN9NSEQLLEOf56) | 6:52 | 2021-09-01 |  |
 | [Mars 500](https://open.spotify.com/track/7KU1k3MVP8eFj81U3L85i8) | [Chloé \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Mars 500](https://open.spotify.com/album/7lfXilxttazWRwNcThahfc) | 6:52 | 2021-09-01 | 2022-11-20 |

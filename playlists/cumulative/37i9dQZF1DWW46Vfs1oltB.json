@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The fresh & hottest K-Hip hop tracks. (Cover:\bASH ISLAND)",
+  "description": "The fresh & hottest K-Hip hop tracks. (Cover:\bSik-K)",
   "name": "KrOWN",
   "tracks": [
     {
@@ -1051,6 +1051,32 @@
     },
     {
       "album": {
+        "name": "808 Hi Recordings Presents: Hibiscus, Vol. 1",
+        "url": "https://open.spotify.com/album/2vzPSxcQjNSi6JWs1jgnwG"
+      },
+      "artists": [
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        },
+        {
+          "name": "Rolldice",
+          "url": "https://open.spotify.com/artist/2sdDI94v3neThXIJYReDjR"
+        },
+        {
+          "name": "SZN",
+          "url": "https://open.spotify.com/artist/3aNar9zfKjHo72tzohzuTh"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "All Day",
+      "url": "https://open.spotify.com/track/5S1ATzVEcJS2nn02dMvdLC"
+    },
+    {
+      "album": {
         "name": "All In",
         "url": "https://open.spotify.com/album/7HC4ncEdIrm0z8Ju33G97h"
       },
@@ -1158,6 +1184,36 @@
       "duration_ms": 179000,
       "name": "Alone (Feat. LeeHi)",
       "url": "https://open.spotify.com/track/2SSbQoEqPHu6qAgi3pFobY"
+    },
+    {
+      "album": {
+        "name": "POP A LOT",
+        "url": "https://open.spotify.com/album/1QbzttUvCTfS4Auh28FsVf"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190040,
+      "name": "Alright (feat. pH-1, HAON & Jay Park)",
+      "url": "https://open.spotify.com/track/4e1o6BLtgFcDbaXEF1W6mA"
     },
     {
       "album": {
@@ -16762,6 +16818,24 @@
       "duration_ms": 248000,
       "name": "Seat Belt (Feat. Dynamic Duo)",
       "url": "https://open.spotify.com/track/2WcMriAJ84pN5ZW8cBiUnQ"
+    },
+    {
+      "album": {
+        "name": "POP A LOT",
+        "url": "https://open.spotify.com/album/1QbzttUvCTfS4Auh28FsVf"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181986,
+      "name": "See You In Every Party",
+      "url": "https://open.spotify.com/track/2KgVbhxyywlDZp1juQ8gzj"
     },
     {
       "album": {

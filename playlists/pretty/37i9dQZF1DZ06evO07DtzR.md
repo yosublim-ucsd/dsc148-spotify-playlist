@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07DtzR.md) - [plain]
 
 > This is EGOIST\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,266 likes - 49 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,285 likes - 49 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07DtzR.md) - [plain]
 | 48 | [Departures 〜あなたにおくるアイの歌〜\(TV Edit\)\-Instrumental\-](https://open.spotify.com/track/4TWjUF3wARx5I0gBMCZIJl) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Departures \- Anata Ni Okuru Ai No Uta](https://open.spotify.com/album/5WlYfrfJKDX3JbZDfQbJgy) | 1:35 |
 | 49 | [名前のない怪物 \(TV Edit 92s ver\) \-Instrumetal\-](https://open.spotify.com/track/01hMjltcNqB9NweZlSxWvE) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [名前のない怪物](https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG) | 1:40 |
 
-Snapshot ID: `MjgxOTE2NzksMDAwMDAwMDA5MTcyMmMxMTBlMWY3MTVjMmMzNDE2N2VlMGFiMTcxYQ==`
+Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDAyNGY5NjdjOGFjZGYyODA5NmM4NTAzODdhZDYxNDViNw==`

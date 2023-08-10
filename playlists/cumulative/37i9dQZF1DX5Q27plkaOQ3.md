@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: DIESEL
 
-387 songs - 22 hr 7 min
+388 songs - 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Fracture](https://open.spotify.com/track/2tSi83cOo4S6XRuAhoNSMK) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [Fracture](https://open.spotify.com/album/59WYYNdEKZblqitYK0Nj5H) | 3:05 | 2023-07-28 |  |
 | [From My Grave](https://open.spotify.com/track/22Vf2iU0d474KlNp8KXmAF) | [JEANIE](https://open.spotify.com/artist/5y4xjNwy9GEFC4hic2epwe), [TINYKVT](https://open.spotify.com/artist/0sWZs1jin3oOieFS6lXE5T) | [From My Grave](https://open.spotify.com/album/4IzNLgceJVDeP1Um0wvaAQ) | 2:52 | 2022-03-11 | 2022-09-24 |
 | [Fuckin'](https://open.spotify.com/track/5DhNPiNSXbQeYkvje3kJf8) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [Fuckin' EP](https://open.spotify.com/album/2IjubawH9RnKEvVd3f9lv6) | 1:20 | 2023-05-12 | 2023-06-24 |
+| [Full Speed](https://open.spotify.com/track/22efJ20TrKDfYaawh85fNj) | [Topi](https://open.spotify.com/artist/6WP0h3qR0awvIWPMvE72F8), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Full Speed](https://open.spotify.com/album/6Uy49ZyfFwVoV6sFM9eiHh) | 2:53 | 2023-08-04 |  |
 | [FUNKONAUT](https://open.spotify.com/track/0fy3MozJBrM858gEIo3Yec) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND) | [FUNKONAUT](https://open.spotify.com/album/4Y2TV476edG8lB3h6vIKYZ) | 3:30 | 2022-08-26 |  |
 | [FUNNYFACE](https://open.spotify.com/track/0UVNivgKffuFPiJD4Fo2ba) | [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [FUNNYFACE](https://open.spotify.com/album/7MCFj5q1aq9n2Kg4vJPRd0) | 3:05 | 2022-04-08 | 2023-03-19 |
 | [Fusion](https://open.spotify.com/track/2pwpYFxW0Hya0aIYFTXRIN) | [G\-Rex](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K), [Sully](https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK) | [Fusion](https://open.spotify.com/album/7pqIOkxBEl1aXWw3TqZkVw) | 2:04 | 2021-12-17 | 2022-10-02 |
@@ -210,7 +211,7 @@
 | [Lore](https://open.spotify.com/track/0W3b6YlEKoj1g5pNUPB6sw) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Lore](https://open.spotify.com/album/2DroDTcbfu9nkZbzHJn4dX) | 3:40 | 2022-04-22 | 2023-04-01 |
 | [Lose Your Shit](https://open.spotify.com/track/43AQsk8AnWfEwiwFB5lo8K) | [Herobust](https://open.spotify.com/artist/43tAs3kRWvyu1B7eZOv2pp) | [Lose Your Shit](https://open.spotify.com/album/71sB5UqHjvyV1oXNYObWxW) | 3:07 | 2021-12-17 | 2022-05-07 |
 | [LOST IN YOU](https://open.spotify.com/track/4TMtydweRFufJuukwDH48j) | [Monxx](https://open.spotify.com/artist/2FJC1Wce3SiCCbIoYwVWq0) | [LOST IN YOU](https://open.spotify.com/album/5IAPB5SzAZOZkYFOXGEA4C) | 3:34 | 2022-06-17 | 2023-05-13 |
-| [lozer](https://open.spotify.com/track/66DiGAO6hsJYfJiYKLBmXc) | [TYNAN](https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM) | [lozer](https://open.spotify.com/album/3fhpSroTG3JGEhsBdzwG2r) | 2:43 | 2023-05-26 |  |
+| [lozer](https://open.spotify.com/track/66DiGAO6hsJYfJiYKLBmXc) | [TYNAN](https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM) | [lozer](https://open.spotify.com/album/3fhpSroTG3JGEhsBdzwG2r) | 2:43 | 2023-05-26 | 2023-08-10 |
 | [Lunar Tear](https://open.spotify.com/track/33ocUBiuYwpxVygdiuLDJU) | [Kotori](https://open.spotify.com/artist/20UYCAvAHJ1WqrCElptD7O) | [Lunar Tear](https://open.spotify.com/album/6waf9VcbO1wpn7iAcFME7b) | 3:19 | 2021-12-17 | 2022-08-30 |
 | [Magma](https://open.spotify.com/track/56x8xKnAXBdAJVK3AgdsFm) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm) | [Magma](https://open.spotify.com/album/3D3vEPEMF6ZuoDaHiLSyz5) | 3:21 | 2021-12-17 | 2022-10-08 |
 | [MAKE A MOVE](https://open.spotify.com/track/3iXf7W37Yetv36gTgDlZ93) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [Make A Move](https://open.spotify.com/album/7y82PxGmIMKNyCmZvRbqIa) | 3:46 | 2021-12-17 | 2022-05-07 |

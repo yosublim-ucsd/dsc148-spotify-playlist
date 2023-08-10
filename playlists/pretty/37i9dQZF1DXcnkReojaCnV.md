@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcnkReojaCnV.md) - [plain]
 
 > Marc Broussard is taking over to share tracks of his new album, alongside current blues favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,373 likes - 40 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,402 likes - 40 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcnkReojaCnV.md) - [plain]
 | 39 | [Mood](https://open.spotify.com/track/0W5jMo5MpHvLTGVnAN8c1R) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Mood](https://open.spotify.com/album/1Q1qs8DABP6SgIyRyadg8s) | 3:29 |
 | 40 | [Don't Mess With The Messer](https://open.spotify.com/track/78jS82EbGZvIFXHdn1DTo4) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Koko Taylor](https://open.spotify.com/album/4kUcacQmakJzzQ0UppaBTy) | 2:47 |
 
-Snapshot ID: `MCw3MWM1MjdkNDI5MWI1MTNlZjYyY2JhNDM5NGI5NmFhMjUwNzYxOWU1`
+Snapshot ID: `MCw5NTZkNWU1Y2E5Y2UzYTliZjhiNjg3OWMzMGE2MDhlYmNlNDE1YmJh`

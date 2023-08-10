@@ -1,12 +1,12 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 42190,
+  "num_followers": 42217,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjA1Y2Y4MTE5MTgxYjNiMTc3YTdiODg2YTIxOGYyNzFiNWU3Yzk5",
+  "snapshot_id": "MCw1N2RjMmY5YWY1YzUwNWNhN2RhZDM0MmU3MjEyNzgyYThlOTczOTky",
   "tracks": [
     {
       "added_at": "2022-08-19 10:45:11",
@@ -263,26 +263,6 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
-        "name": "Johann Sebastian Bach",
-        "url": "https://open.spotify.com/album/55XdhiY6nd3iij8msqiagR"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
-        }
-      ],
-      "duration_ms": 105853,
-      "name": "Prelude & Fugue in D Major (Well-Tempered Clavier, Book I, No. 5), BWV 850: II. Fugue",
-      "url": "https://open.spotify.com/track/3v1gviJrAtaIoLK41JSy8s"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
         "name": "Bach",
         "url": "https://open.spotify.com/album/5kKkGS4pzAehXKcvrZEF9M"
       },
@@ -315,6 +295,26 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
+        "name": "Johann Sebastian Bach",
+        "url": "https://open.spotify.com/album/55XdhiY6nd3iij8msqiagR"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "duration_ms": 105853,
+      "name": "Prelude & Fugue in D Major (Well-Tempered Clavier, Book I, No. 5), BWV 850: II. Fugue",
+      "url": "https://open.spotify.com/track/3v1gviJrAtaIoLK41JSy8s"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
         "name": "Bach, J.S.: Inventions and Sinfonias, Bwv 772-801 / Anna Magdalena's Notebook (Fragments)",
         "url": "https://open.spotify.com/album/2eCYStBziLfnCLBXu79MWw"
       },
@@ -331,26 +331,6 @@
       "duration_ms": 89040,
       "name": "Clavierbuchlein for Anna Magdalena Bach, Book 2, BWV Anh. 113-132: Minuet in G Major, BWV Anh. II 114",
       "url": "https://open.spotify.com/track/62CN1hWMMR8JoPvNy0C1uM"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
-        "name": "Bach, J.S.: Das Wohltemperierte Klavier",
-        "url": "https://open.spotify.com/album/7Iq3gXQ76JdkYWlwtCgMUe"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Vladimir Ashkenazy",
-          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
-        }
-      ],
-      "duration_ms": 77093,
-      "name": "Das Wohltemperierte Klavier: Book 1, BWV 846-869: Prelude in D minor BWV 851",
-      "url": "https://open.spotify.com/track/2Ubqa1PGRd6eJdAqXWFMTk"
     },
     {
       "added_at": "2022-08-19 10:45:11",
@@ -375,6 +355,26 @@
       "duration_ms": 297280,
       "name": "Concerto for 2 Harpsichords, Strings & Continuo in C Major, BWV 1061: 2. Adagio ovvero Largo",
       "url": "https://open.spotify.com/track/1MikehMkm3ZWWV1R7C0sgG"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
+        "name": "Bach, J.S.: Das Wohltemperierte Klavier",
+        "url": "https://open.spotify.com/album/7Iq3gXQ76JdkYWlwtCgMUe"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Vladimir Ashkenazy",
+          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+        }
+      ],
+      "duration_ms": 77093,
+      "name": "Das Wohltemperierte Klavier: Book 1, BWV 846-869: Prelude in D minor BWV 851",
+      "url": "https://open.spotify.com/track/2Ubqa1PGRd6eJdAqXWFMTk"
     },
     {
       "added_at": "2022-08-19 10:45:11",
@@ -519,26 +519,6 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
-        "name": "Bach: Keyboard Partitas Nos. 1-6",
-        "url": "https://open.spotify.com/album/2iIKZ5XSR7wYf6ASeMHK76"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Igor Levit",
-          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
-        }
-      ],
-      "duration_ms": 679453,
-      "name": "Partita No. 4 in D Major, BWV 828: II. Allemande",
-      "url": "https://open.spotify.com/track/7yA4tm1x2ZqrxcARTUZjvA"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
         "name": "Bach, J.S.: French Suites Nos. 1-2 / Italian Concerto / Chromatic Fantasia and Fugue",
         "url": "https://open.spotify.com/album/3WHDztwanWiA1DvORNNBx6"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 84973,
       "name": "French Suite No. 2 in C Minor, BWV 813: IV. Air",
       "url": "https://open.spotify.com/track/4LTlvSoS9iupihOSMdzrhR"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
+        "name": "Bach: Keyboard Partitas Nos. 1-6",
+        "url": "https://open.spotify.com/album/2iIKZ5XSR7wYf6ASeMHK76"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Igor Levit",
+          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
+        }
+      ],
+      "duration_ms": 679453,
+      "name": "Partita No. 4 in D Major, BWV 828: II. Allemande",
+      "url": "https://open.spotify.com/track/7yA4tm1x2ZqrxcARTUZjvA"
     },
     {
       "added_at": "2022-08-19 10:45:11",
@@ -647,26 +647,6 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
-        "name": "Bach, J.S.: Inventions and Sinfonias, Bwv 772-801",
-        "url": "https://open.spotify.com/album/07TYgwq0Z3foTbOn8FIv8v"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Wolfgang R\u00fcbsam",
-          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
-        }
-      ],
-      "duration_ms": 102760,
-      "name": "2-Part Inventions, BWV 772-786: Invention No. 1 in C Major, BWV 772",
-      "url": "https://open.spotify.com/track/6BmPKQpMz1JymCjISFjWic"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
         "name": "Johann Sebastian Bach: The French Suites",
         "url": "https://open.spotify.com/album/50Tp1V8zhhorvJmhWBVSY8"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 144280,
       "name": "French Suite No. 4 in E-Flat Major, BWV 815: VII. Gigue",
       "url": "https://open.spotify.com/track/6R0Snb8fZUpfmzX7jCvSfc"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
+        "name": "Bach, J.S.: Inventions and Sinfonias, Bwv 772-801",
+        "url": "https://open.spotify.com/album/07TYgwq0Z3foTbOn8FIv8v"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Wolfgang R\u00fcbsam",
+          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
+        }
+      ],
+      "duration_ms": 102760,
+      "name": "2-Part Inventions, BWV 772-786: Invention No. 1 in C Major, BWV 772",
+      "url": "https://open.spotify.com/track/6BmPKQpMz1JymCjISFjWic"
     },
     {
       "added_at": "2022-08-19 10:45:11",
@@ -727,26 +727,6 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
-        "name": "Bach: Keyboard Partitas Nos. 1-6",
-        "url": "https://open.spotify.com/album/2iIKZ5XSR7wYf6ASeMHK76"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Igor Levit",
-          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
-        }
-      ],
-      "duration_ms": 389706,
-      "name": "Partita No. 4 in D Major, BWV 828: V. Sarabande",
-      "url": "https://open.spotify.com/track/2L295fdTmcpXVAjCOhcjL5"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
         "name": "Bach: French Suites, BWV 812-817",
         "url": "https://open.spotify.com/album/0SGMw2I3lw6QosNHmq7UB2"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 126602,
       "name": "French Suite No. 3 in B minor, BWV 814: 6. Gigue",
       "url": "https://open.spotify.com/track/40UUE6k3VzcLN9t5gtXO06"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
+        "name": "Bach: Keyboard Partitas Nos. 1-6",
+        "url": "https://open.spotify.com/album/2iIKZ5XSR7wYf6ASeMHK76"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Igor Levit",
+          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
+        }
+      ],
+      "duration_ms": 389706,
+      "name": "Partita No. 4 in D Major, BWV 828: V. Sarabande",
+      "url": "https://open.spotify.com/track/2L295fdTmcpXVAjCOhcjL5"
     },
     {
       "added_at": "2022-08-19 10:45:11",

@@ -6825,25 +6825,7 @@
     },
     {
       "album": {
-        "name": "Qimmijuat (Wild Horses)",
-        "url": "https://open.spotify.com/album/464WdsCECkTzqIEv3ITRrD"
-      },
-      "artists": [
-        {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
-        }
-      ],
-      "date_added": "2023-08-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 329141,
-      "name": "Qimmijuat (Wild Horses)",
-      "url": "https://open.spotify.com/track/3Rt3viQJXYZ72pLpqmL1C2"
-    },
-    {
-      "album": {
-        "name": "Quamajur",
+        "name": "Qaumajur",
         "url": "https://open.spotify.com/album/63FnoKSa6gnqhLykGflXTI"
       },
       "artists": [
@@ -6864,8 +6846,26 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 214426,
-      "name": "Quamajur",
+      "name": "Qaumajur",
       "url": "https://open.spotify.com/track/4iEYvfQHN2ceUpZS852rnm"
+    },
+    {
+      "album": {
+        "name": "Qimmijuat (Wild Horses)",
+        "url": "https://open.spotify.com/album/464WdsCECkTzqIEv3ITRrD"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329141,
+      "name": "Qimmijuat (Wild Horses)",
+      "url": "https://open.spotify.com/track/3Rt3viQJXYZ72pLpqmL1C2"
     },
     {
       "album": {

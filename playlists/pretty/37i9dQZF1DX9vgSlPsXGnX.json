@@ -1,12 +1,12 @@
 {
   "description": "Deja que el sentimiento de los boleros te enamore a la antigua.",
-  "num_followers": 61765,
+  "num_followers": 61843,
   "original_name": "B\u00e9same Mucho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjJjYjNhMWNiZTk5NmE3OWIxZDk4NGI5ZjU2M2M0NGE0ZTBlM2M0",
+  "snapshot_id": "MCxjM2ZjZDc4NTZmMjBlODM3Mjc3ZmEzZTIyOTE2NGQ4NDUxZjJmYWZj",
   "tracks": [
     {
       "added_at": "2021-12-26 12:28:38",
@@ -467,22 +467,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Los Tres Ases - Serenata de Amor",
-        "url": "https://open.spotify.com/album/1Ne7t2hsWhafB18i5QCUoI"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Ases",
-          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
-        }
-      ],
-      "duration_ms": 192888,
-      "name": "Sabor a mi",
-      "url": "https://open.spotify.com/track/3qbYOwAWwcvMUx6KPmWFKJ"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "El Sentimiento del Latino En Nueva York",
         "url": "https://open.spotify.com/album/1jqQfh0qYfAc98LRBk9Egv"
       },
@@ -499,18 +483,18 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Loca Pasi\u00f3n",
-        "url": "https://open.spotify.com/album/4WVQo2AHNUJ9L0qUfYosjh"
+        "name": "Los Tres Ases - Serenata de Amor",
+        "url": "https://open.spotify.com/album/1Ne7t2hsWhafB18i5QCUoI"
       },
       "artists": [
         {
-          "name": "Los Jaibos",
-          "url": "https://open.spotify.com/artist/02zZvwbbma78yTdQ1p2tey"
+          "name": "Los Tres Ases",
+          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
         }
       ],
-      "duration_ms": 171720,
-      "name": "Loca Pasi\u00f3n",
-      "url": "https://open.spotify.com/track/2b1gRJ1CUtNN3TGThFo1GJ"
+      "duration_ms": 192888,
+      "name": "Sabor a mi",
+      "url": "https://open.spotify.com/track/3qbYOwAWwcvMUx6KPmWFKJ"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -531,22 +515,18 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "\u00c9xitos",
-        "url": "https://open.spotify.com/album/54BYhUZE62cpwfBlcIYAWs"
+        "name": "Loca Pasi\u00f3n",
+        "url": "https://open.spotify.com/album/4WVQo2AHNUJ9L0qUfYosjh"
       },
       "artists": [
         {
-          "name": "Daniel Santos",
-          "url": "https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2"
-        },
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+          "name": "Los Jaibos",
+          "url": "https://open.spotify.com/artist/02zZvwbbma78yTdQ1p2tey"
         }
       ],
-      "duration_ms": 183182,
-      "name": "Dos Gardenias",
-      "url": "https://open.spotify.com/track/4faOsdm3wPyhqSgkM9jZ9D"
+      "duration_ms": 171720,
+      "name": "Loca Pasi\u00f3n",
+      "url": "https://open.spotify.com/track/2b1gRJ1CUtNN3TGThFo1GJ"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -563,6 +543,26 @@
       "duration_ms": 198080,
       "name": "No me platiques",
       "url": "https://open.spotify.com/track/78nszOi3nyWJG0UmLrSeAB"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "\u00c9xitos",
+        "url": "https://open.spotify.com/album/54BYhUZE62cpwfBlcIYAWs"
+      },
+      "artists": [
+        {
+          "name": "Daniel Santos",
+          "url": "https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 183182,
+      "name": "Dos Gardenias",
+      "url": "https://open.spotify.com/track/4faOsdm3wPyhqSgkM9jZ9D"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -715,22 +715,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "El Bolerista De Am\u00e9rica",
-        "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
-      },
-      "artists": [
-        {
-          "name": "Felipe Pirela",
-          "url": "https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN"
-        }
-      ],
-      "duration_ms": 159746,
-      "name": "Sombras Nada M\u00e1s",
-      "url": "https://open.spotify.com/track/6IK2IbQ5vSKZR5H96K0aTg"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Esta Noche...Billo",
         "url": "https://open.spotify.com/album/4OjlD6tl5AAkN06A19QhWA"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 147017,
       "name": "Cuando Estemos Viejo",
       "url": "https://open.spotify.com/track/01OCG8cqpCCV2PVrP6Xuvg"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "El Bolerista De Am\u00e9rica",
+        "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
+      },
+      "artists": [
+        {
+          "name": "Felipe Pirela",
+          "url": "https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN"
+        }
+      ],
+      "duration_ms": 159746,
+      "name": "Sombras Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/6IK2IbQ5vSKZR5H96K0aTg"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -767,22 +767,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Pedro Infante y Jorge Negrete",
-        "url": "https://open.spotify.com/album/3bH1s1EX0DRoKpJBqGI0UX"
-      },
-      "artists": [
-        {
-          "name": "Trio Calaveras",
-          "url": "https://open.spotify.com/artist/6lS7WlU3MgVuHK0o4TRwSs"
-        }
-      ],
-      "duration_ms": 205740,
-      "name": "Flor de Azalea",
-      "url": "https://open.spotify.com/track/0nOH0n5WdeoCR0mDbyye5x"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Cada Noche Un Amor",
         "url": "https://open.spotify.com/album/3mqlr428rzRpER555YbBJN"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 184773,
       "name": "Amor de Mis Amores",
       "url": "https://open.spotify.com/track/6ykbMeaYP0fcADEFAn65Y9"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Pedro Infante y Jorge Negrete",
+        "url": "https://open.spotify.com/album/3bH1s1EX0DRoKpJBqGI0UX"
+      },
+      "artists": [
+        {
+          "name": "Trio Calaveras",
+          "url": "https://open.spotify.com/artist/6lS7WlU3MgVuHK0o4TRwSs"
+        }
+      ],
+      "duration_ms": 205740,
+      "name": "Flor de Azalea",
+      "url": "https://open.spotify.com/track/0nOH0n5WdeoCR0mDbyye5x"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -839,18 +839,22 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "El Bolerista De Am\u00e9rica",
-        "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
+        "name": "Noche criolla",
+        "url": "https://open.spotify.com/album/3pDyJPkrKEtPBAJ3S4kavf"
       },
       "artists": [
         {
-          "name": "Felipe Pirela",
-          "url": "https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN"
+          "name": "To\u00f1a La Negra",
+          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
+        },
+        {
+          "name": "Agust\u00edn Lara",
+          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
         }
       ],
-      "duration_ms": 189506,
-      "name": "Entre Tu Amor Y Mi Amor",
-      "url": "https://open.spotify.com/track/6eFG41qcmCGHVXRGVkUfIU"
+      "duration_ms": 180035,
+      "name": "Ven aca (Bolero)",
+      "url": "https://open.spotify.com/track/4yG6U4LH22eozbfVkD5x5r"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -875,22 +879,18 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Noche criolla",
-        "url": "https://open.spotify.com/album/3pDyJPkrKEtPBAJ3S4kavf"
+        "name": "El Bolerista De Am\u00e9rica",
+        "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
       },
       "artists": [
         {
-          "name": "To\u00f1a La Negra",
-          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
-        },
-        {
-          "name": "Agust\u00edn Lara",
-          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
+          "name": "Felipe Pirela",
+          "url": "https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN"
         }
       ],
-      "duration_ms": 180035,
-      "name": "Ven aca (Bolero)",
-      "url": "https://open.spotify.com/track/4yG6U4LH22eozbfVkD5x5r"
+      "duration_ms": 189506,
+      "name": "Entre Tu Amor Y Mi Amor",
+      "url": "https://open.spotify.com/track/6eFG41qcmCGHVXRGVkUfIU"
     },
     {
       "added_at": "2021-12-26 12:28:38",

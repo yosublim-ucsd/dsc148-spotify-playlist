@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > The highest quality alternative blend ft\. Bethany Cosentino
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,842 likes - 114 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,872 likes - 114 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 43 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 |
 | 44 | [Helmet](https://open.spotify.com/track/0DmkBOGgEWMbUJlL6VwwF2) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:21 |
 | 45 | [kisses](https://open.spotify.com/track/2qUNrUbCYoUE6MsOR3tTD1) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [kisses](https://open.spotify.com/album/4joudQPrYtB8axFgge6MSj) | 3:57 |
-| 46 | [Nu\-Grape](https://open.spotify.com/track/5DLCGocLoRsi3DpQssO60a) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Nu\-Grape](https://open.spotify.com/album/7IfxZlK1wsSudOfoBqQ3sx) | 3:28 |
+| 46 | [Nu\-Grape](https://open.spotify.com/track/21r46gpVhsV2zvbfK0aXOK) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [20 Years and a Nickel](https://open.spotify.com/album/02bhRp09k7erA3JsN8BHTz) | 3:28 |
 | 47 | [Road to Joy \- Bright\-Side Mix](https://open.spotify.com/track/0tVwk836mZyKkU9aVbkwRu) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Road to Joy \(Bright\-Side Mix\)](https://open.spotify.com/album/1zGjLjXWklRJBofZpGuTTm) | 5:21 |
 | 48 | [Tied Up!](https://open.spotify.com/track/37ZUrbtzezZPvuDPsbjWAd) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Tied Up!](https://open.spotify.com/album/4n3Z6bRWaewBbgKOjx8NZD) | 3:09 |
 | 49 | [Everknown](https://open.spotify.com/track/00YQhkHze8n5oLQdCQdZ4V) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Everknown](https://open.spotify.com/album/1Y7aDjyMGak66mefhptdXx) | 4:25 |
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 95 | [Lord Have Mercy](https://open.spotify.com/track/73fzDLtCR3jMZrwNZlQXpo) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Wait Til I Get Over](https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4) | 4:01 |
 | 96 | [When Eden Was My Girl \(feat\. Marcus King\)](https://open.spotify.com/track/3o34F9z7g0SDeIAKWir4PR) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [When Eden Was My Girl \(feat\. Marcus King\)](https://open.spotify.com/album/3jR7qt6pFn6OBxRZDnyJqK) | 4:25 |
 | 97 | [Pages](https://open.spotify.com/track/2B9sTgrTUR2Cg9o8e1GT9w) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Asking For A Ride](https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK) | 2:34 |
-| 98 | [Every Day Like the Last](https://open.spotify.com/track/5wC4jZcOC20bvqUL4Aa3ix) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Every Day Like the Last](https://open.spotify.com/album/19rDRo03kiDJAVaNQjMIFQ) | 3:02 |
+| 98 | [Every Day Like the Last](https://open.spotify.com/track/1iJxsYXQI3uTGlChp7UqMB) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Every Day Like the Last](https://open.spotify.com/album/6C204NEUleEqcKH4igE8ZL) | 3:02 |
 | 99 | [Nothing Left To Give](https://open.spotify.com/track/0mbl5oT898aXdK3g5wfQv1) | [BAILEN](https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII) | [Tired Hearts](https://open.spotify.com/album/1UH8pVlQVXsJMnePBEQzJ1) | 3:13 |
 | 100 | [You Do You](https://open.spotify.com/track/2KUsc0FRkONkt6JATGHcJ1) | [Andy Frasco & the U.N.](https://open.spotify.com/artist/4scyTeRfyqCWVATfPP7SGu) | [You Do You](https://open.spotify.com/album/5opJnLOL7v2Z9avDTo8omM) | 3:23 |
 | 101 | [ARE YOU GONNA RUN?](https://open.spotify.com/track/4HwIuasC2EVtHxXYPEn3wu) | [Low Cut Connie](https://open.spotify.com/artist/4taNHtYxfIWIHu07FBw7ih) | [ARE YOU GONNA RUN?](https://open.spotify.com/album/2nsmz1bJby3yQsCd706y7l) | 2:55 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 113 | [Magical Touch](https://open.spotify.com/track/6H8z76IGQAki6BBvK2xZtQ) | [The Wans](https://open.spotify.com/artist/4uH9k7FTheXWBKwuML8kjn) | [Magical Touch](https://open.spotify.com/album/7mjpdXg6otVZ4MRLniB1YU) | 3:08 |
 | 114 | [Haunted Mountain](https://open.spotify.com/track/45d44VPCRIW07tywccH8ii) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Haunted Mountain](https://open.spotify.com/album/7acJeJoMsDIo1JdIBi4hRV) | 5:11 |
 
-Snapshot ID: `MCxjYzk0YzhiOWExNzNhNzhmOTExYmFjNWM5MDA5MDIzNTI3MzQzZGEw`
+Snapshot ID: `MCwwZWZmNzI3ZmZkY2Q3MDYyMzczMTZjYThjZWIwMjc1NjkzZTY5OWI1`

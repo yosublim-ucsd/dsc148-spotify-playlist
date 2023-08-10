@@ -2,7 +2,7 @@
 
 ### [Hits da Internet](https://open.spotify.com/playlist/37i9dQZF1DXd2wJvXxyJb8)
 
-> nossa piriquita tá de sobrancelha feita esqueça tudo
+> entao qr dizer que vc veio aqui descobrir o q os jovens escutam??? boa viagem
 
 307 songs - 14 hr 0 min
 

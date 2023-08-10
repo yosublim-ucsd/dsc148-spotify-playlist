@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 24613,
+  "num_followers": 24650,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTIyOGYxM2Y2OWUzNDc1NWE0MWJiYTE5MmM3OTc1MTVhNzQyOGZj",
+  "snapshot_id": "MCxhYmYxZTkxZmRkYjJjY2FkZTg0NTFmMmQ5MGUzYjJhMjNmODRkMWUy",
   "tracks": [
     {
       "added_at": "2023-07-17 06:18:12",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-07-17 06:18:12",
       "album": {
+        "name": "Show Me The Money 9 Episode 3",
+        "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 205999,
+      "name": "Infrared Camera",
+      "url": "https://open.spotify.com/track/0YRuXgAFpfsIx8GgsJBJu3"
+    },
+    {
+      "added_at": "2023-07-17 06:18:12",
+      "album": {
         "name": "SOMO: FUME",
         "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 217441,
       "name": "AM PM (feat. Whee In) - Prod. Gray",
       "url": "https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj"
-    },
-    {
-      "added_at": "2023-07-17 06:18:12",
-      "album": {
-        "name": "Show Me The Money 9 Episode 3",
-        "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
-      },
-      "artists": [
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 205999,
-      "name": "Infrared Camera",
-      "url": "https://open.spotify.com/track/0YRuXgAFpfsIx8GgsJBJu3"
     },
     {
       "added_at": "2023-07-17 06:18:12",
@@ -523,18 +523,22 @@
     {
       "added_at": "2023-07-17 06:18:12",
       "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+        "name": "Worldwide",
+        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
       },
       "artists": [
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Okasian",
+          "url": "https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO"
         }
       ],
-      "duration_ms": 224951,
-      "name": "2nd THOTS",
-      "url": "https://open.spotify.com/track/0foI16PJZOEd56Rg83zVSD"
+      "duration_ms": 244153,
+      "name": "YOU KNOW",
+      "url": "https://open.spotify.com/track/6YM2Wl7KAr0MExcTiYpw5D"
     },
     {
       "added_at": "2023-07-17 06:18:12",
@@ -655,22 +659,18 @@
     {
       "added_at": "2023-07-17 06:18:12",
       "album": {
-        "name": "Worldwide",
-        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
       },
       "artists": [
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Okasian",
-          "url": "https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO"
         }
       ],
-      "duration_ms": 244153,
-      "name": "YOU KNOW",
-      "url": "https://open.spotify.com/track/6YM2Wl7KAr0MExcTiYpw5D"
+      "duration_ms": 224951,
+      "name": "2nd THOTS",
+      "url": "https://open.spotify.com/track/0foI16PJZOEd56Rg83zVSD"
     },
     {
       "added_at": "2023-07-17 06:18:12",

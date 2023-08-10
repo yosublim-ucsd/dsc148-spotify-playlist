@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Louis The Child",
-  "num_followers": 759545,
+  "num_followers": 759628,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjQ5MGM4MDM5N2UyN2Q4MmQ4NDFiYzZlNWVkZjUwZTA2MzUzMGY0",
+  "snapshot_id": "MCw1MWY5MGZiNTRiODFiYjdlMzFjNjc0ZjRjZGY4YjE5MTkwYTAyMmM4",
   "tracks": [
     {
       "added_at": "2023-08-04 04:01:00",
@@ -971,26 +971,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Supercharged",
-        "url": "https://open.spotify.com/album/3vPmUI9rBqbOzEd9sMGkq2"
-      },
-      "artists": [
-        {
-          "name": "Daniel Allan",
-          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
-        },
-        {
-          "name": "Reo Cragun",
-          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
-        }
-      ],
-      "duration_ms": 139130,
-      "name": "Supercharged",
-      "url": "https://open.spotify.com/track/5yziriLQ98fHzDUy9t278P"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Evolve",
         "url": "https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 231733,
       "name": "Waiting (feat. Kelli-Leigh)",
       "url": "https://open.spotify.com/track/0AcuvNq4yAuLJ5SLeyYOFo"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Need U (feat. Madishu)",
+        "url": "https://open.spotify.com/album/7lXXoVekBjvjj728xk93Ty"
+      },
+      "artists": [
+        {
+          "name": "MOONBOY",
+          "url": "https://open.spotify.com/artist/16r05v3b8WwDS2TYRSlBCm"
+        },
+        {
+          "name": "Madishu",
+          "url": "https://open.spotify.com/artist/3tQg7VPp1T879q1AE4yIM2"
+        }
+      ],
+      "duration_ms": 206341,
+      "name": "Need U (feat. Madishu)",
+      "url": "https://open.spotify.com/track/2AWWbN4ZDWaUMgOqxpsk4n"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1059,22 +1059,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Need U (feat. Madishu)",
-        "url": "https://open.spotify.com/album/7lXXoVekBjvjj728xk93Ty"
+        "name": "Supercharged",
+        "url": "https://open.spotify.com/album/3vPmUI9rBqbOzEd9sMGkq2"
       },
       "artists": [
         {
-          "name": "MOONBOY",
-          "url": "https://open.spotify.com/artist/16r05v3b8WwDS2TYRSlBCm"
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
         },
         {
-          "name": "Madishu",
-          "url": "https://open.spotify.com/artist/3tQg7VPp1T879q1AE4yIM2"
+          "name": "Reo Cragun",
+          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
         }
       ],
-      "duration_ms": 206341,
-      "name": "Need U (feat. Madishu)",
-      "url": "https://open.spotify.com/track/2AWWbN4ZDWaUMgOqxpsk4n"
+      "duration_ms": 139130,
+      "name": "Supercharged",
+      "url": "https://open.spotify.com/track/5yziriLQ98fHzDUy9t278P"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Daybreak (with Zachary Knowles)",
-        "url": "https://open.spotify.com/album/0LgdvD2Xy58iSm87rEWhBm"
-      },
-      "artists": [
-        {
-          "name": "Louis The Child",
-          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
-        },
-        {
-          "name": "Zachary Knowles",
-          "url": "https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI"
-        }
-      ],
-      "duration_ms": 140666,
-      "name": "Daybreak (with Zachary Knowles)",
-      "url": "https://open.spotify.com/track/3zrX6izmn310lKIUjOG9eL"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/6gOc6YOCvp0WyoGXbCDXa2"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 253803,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/6x5OvGcJW0wE8tm3zFxPH8"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Daybreak (with Zachary Knowles)",
+        "url": "https://open.spotify.com/album/0LgdvD2Xy58iSm87rEWhBm"
+      },
+      "artists": [
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        },
+        {
+          "name": "Zachary Knowles",
+          "url": "https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI"
+        }
+      ],
+      "duration_ms": 140666,
+      "name": "Daybreak (with Zachary Knowles)",
+      "url": "https://open.spotify.com/track/3zrX6izmn310lKIUjOG9eL"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "I like u (ELIO Remix)",
-        "url": "https://open.spotify.com/album/1nwUNgLVIXlYT7hCWqMrIY"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        },
-        {
-          "name": "ELIO",
-          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
-        }
-      ],
-      "duration_ms": 152557,
-      "name": "I like u (ELIO Remix)",
-      "url": "https://open.spotify.com/track/6l1XsM81w0FKAE56XiQEIi"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Thinkin About",
         "url": "https://open.spotify.com/album/4SfWi60B50vfPPNEMUxxAs"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 159245,
       "name": "Thinkin About",
       "url": "https://open.spotify.com/track/679TnTjA1ad756mFFq91ZK"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "I like u (ELIO Remix)",
+        "url": "https://open.spotify.com/album/1nwUNgLVIXlYT7hCWqMrIY"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "ELIO",
+          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
+        }
+      ],
+      "duration_ms": 152557,
+      "name": "I like u (ELIO Remix)",
+      "url": "https://open.spotify.com/track/6l1XsM81w0FKAE56XiQEIi"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "TALK2MUCH",
+        "url": "https://open.spotify.com/album/5iWyIv8QHoD5P2vIUOf1j3"
+      },
+      "artists": [
+        {
+          "name": "JEV",
+          "url": "https://open.spotify.com/artist/6StZbL9v3UpuaMwIoq8fyW"
+        }
+      ],
+      "duration_ms": 133846,
+      "name": "DREAMER",
+      "url": "https://open.spotify.com/track/44V3prBS5nmjRlQN0lcbeK"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "Exodia",
         "url": "https://open.spotify.com/album/7MSWYmuDJAlBYUa0QrEqyo"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 175357,
       "name": "Exodia",
       "url": "https://open.spotify.com/track/0JIhwGegswRgXRVKYxa8lx"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "TALK2MUCH",
-        "url": "https://open.spotify.com/album/5iWyIv8QHoD5P2vIUOf1j3"
-      },
-      "artists": [
-        {
-          "name": "JEV",
-          "url": "https://open.spotify.com/artist/6StZbL9v3UpuaMwIoq8fyW"
-        }
-      ],
-      "duration_ms": 133846,
-      "name": "DREAMER",
-      "url": "https://open.spotify.com/track/44V3prBS5nmjRlQN0lcbeK"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -2047,6 +2047,30 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "See Me",
+        "url": "https://open.spotify.com/album/7AfLC7I27rL70s7HFOmX3O"
+      },
+      "artists": [
+        {
+          "name": "Oppidan",
+          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
+        },
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        },
+        {
+          "name": "SHIMA",
+          "url": "https://open.spotify.com/artist/7kJGMy7TllRTlJS6bafIfE"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "See Me",
+      "url": "https://open.spotify.com/track/2VXRVqJ02WMnUlxTvwdtoz"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "Landslide",
         "url": "https://open.spotify.com/album/4vEjKBgSWs2EvLWQ4FNL8n"
       },
@@ -2139,6 +2163,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "TANZPARTEI (Mixtape)",
+        "url": "https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "duration_ms": 92307,
+      "name": "And then it came together",
+      "url": "https://open.spotify.com/track/1rPq3J5LmVX78RjdzUqjZo"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "demon time",
         "url": "https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm"
       },
@@ -2163,18 +2203,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "TANZPARTEI (Mixtape)",
-        "url": "https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE"
+        "name": "Fuck Right Off",
+        "url": "https://open.spotify.com/album/54r00dZGEIr77NjIy16JGv"
       },
       "artists": [
         {
-          "name": "ATRIP",
-          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+          "name": "Aliiias",
+          "url": "https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG"
         }
       ],
-      "duration_ms": 92307,
-      "name": "And then it came together",
-      "url": "https://open.spotify.com/track/1rPq3J5LmVX78RjdzUqjZo"
+      "duration_ms": 159252,
+      "name": "Fuck Right Off",
+      "url": "https://open.spotify.com/track/7tu0XNOoQxBm4TpvRx8e65"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -2203,42 +2243,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "See Me",
-        "url": "https://open.spotify.com/album/7AfLC7I27rL70s7HFOmX3O"
+        "name": "all you'll get from me is my company",
+        "url": "https://open.spotify.com/album/6k8hkDKlAF6H1rUAJQXK6x"
       },
       "artists": [
         {
-          "name": "Oppidan",
-          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
-        },
-        {
-          "name": "camoufly",
-          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
-        },
-        {
-          "name": "SHIMA",
-          "url": "https://open.spotify.com/artist/7kJGMy7TllRTlJS6bafIfE"
+          "name": "After Wes",
+          "url": "https://open.spotify.com/artist/5hz6UPteQqCf9fHD88njIy"
         }
       ],
-      "duration_ms": 184615,
-      "name": "See Me",
-      "url": "https://open.spotify.com/track/2VXRVqJ02WMnUlxTvwdtoz"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Fuck Right Off",
-        "url": "https://open.spotify.com/album/54r00dZGEIr77NjIy16JGv"
-      },
-      "artists": [
-        {
-          "name": "Aliiias",
-          "url": "https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG"
-        }
-      ],
-      "duration_ms": 159252,
-      "name": "Fuck Right Off",
-      "url": "https://open.spotify.com/track/7tu0XNOoQxBm4TpvRx8e65"
+      "duration_ms": 159375,
+      "name": "all you'll get from me is my company",
+      "url": "https://open.spotify.com/track/6mA8UtKd79VPIQY6CmsWv9"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -2255,22 +2271,6 @@
       "duration_ms": 272509,
       "name": "Ascension",
       "url": "https://open.spotify.com/track/3uldzYm91Q7TM7eD291uW5"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "all you'll get from me is my company",
-        "url": "https://open.spotify.com/album/6k8hkDKlAF6H1rUAJQXK6x"
-      },
-      "artists": [
-        {
-          "name": "After Wes",
-          "url": "https://open.spotify.com/artist/5hz6UPteQqCf9fHD88njIy"
-        }
-      ],
-      "duration_ms": 159375,
-      "name": "all you'll get from me is my company",
-      "url": "https://open.spotify.com/track/6mA8UtKd79VPIQY6CmsWv9"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -2343,22 +2343,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Solstice",
-        "url": "https://open.spotify.com/album/4VVYjDuvidxSiGwfcBUykX"
-      },
-      "artists": [
-        {
-          "name": "INZO",
-          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
-        }
-      ],
-      "duration_ms": 303750,
-      "name": "Solstice",
-      "url": "https://open.spotify.com/track/5YCGiUK8GHKTDzen6nJc4Y"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Arpeggio EP",
         "url": "https://open.spotify.com/album/63ZlQUyHBjsi9qiF1a1iWu"
       },
@@ -2371,6 +2355,22 @@
       "duration_ms": 223714,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/4LhFPew1CzHSZhLqdv6ZWq"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Solstice",
+        "url": "https://open.spotify.com/album/4VVYjDuvidxSiGwfcBUykX"
+      },
+      "artists": [
+        {
+          "name": "INZO",
+          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
+        }
+      ],
+      "duration_ms": 303750,
+      "name": "Solstice",
+      "url": "https://open.spotify.com/track/5YCGiUK8GHKTDzen6nJc4Y"
     },
     {
       "added_at": "2023-08-04 04:01:00",

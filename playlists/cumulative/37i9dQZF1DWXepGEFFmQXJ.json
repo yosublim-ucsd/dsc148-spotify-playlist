@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 211053,
       "name": "5 Leaf Clover",
       "url": "https://open.spotify.com/track/2RbIoEQeXBoJzWt09eitEI"
@@ -2625,6 +2625,24 @@
     },
     {
       "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233666,
+      "name": "Growin' Up and Gettin' Old",
+      "url": "https://open.spotify.com/track/24Z0qiHUR9cTB4UfGUqCnj"
+    },
+    {
+      "album": {
         "name": "Growin' Up and Gettin' Old",
         "url": "https://open.spotify.com/album/2tyF3XymQtvSySp5osmr6d"
       },
@@ -2636,7 +2654,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 233666,
       "name": "Growin' Up and Gettin' Old",
       "url": "https://open.spotify.com/track/6DdPacpAdYkxV8MCzsjaXu"
@@ -3958,10 +3976,28 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 216133,
       "name": "Love Like That (feat. The Shires)",
       "url": "https://open.spotify.com/track/4iA14miA1x0Kq86zZIRZpX"
+    },
+    {
+      "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229626,
+      "name": "Love You Anyway",
+      "url": "https://open.spotify.com/track/2kYevr8cbIAH2ha8210Bnz"
     },
     {
       "album": {

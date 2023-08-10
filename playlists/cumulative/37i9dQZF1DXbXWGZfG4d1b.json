@@ -5454,7 +5454,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 190393,
       "name": "M\u00e1gica Intuici\u00f3n",
       "url": "https://open.spotify.com/track/0LyxlEukWhwdDyMuHdAsY8"
@@ -5866,6 +5866,24 @@
       "duration_ms": 313608,
       "name": "No Ves Tal Vez - Evlay Remix",
       "url": "https://open.spotify.com/track/6u9UrHLwwM51a69QUN9xcF"
+    },
+    {
+      "album": {
+        "name": "Nota De Voz",
+        "url": "https://open.spotify.com/album/4NaeVyU5avNma2tUY41P8s"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Laser",
+          "url": "https://open.spotify.com/artist/1G3t1G8HB4X8DIAaix8JaX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170839,
+      "name": "Nota De Voz",
+      "url": "https://open.spotify.com/track/07u8rikTmiY64DkJh1WAv9"
     },
     {
       "album": {

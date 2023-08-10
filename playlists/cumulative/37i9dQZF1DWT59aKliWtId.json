@@ -3448,6 +3448,24 @@
     {
       "album": {
         "name": "Every Day Like the Last",
+        "url": "https://open.spotify.com/album/6C204NEUleEqcKH4igE8ZL"
+      },
+      "artists": [
+        {
+          "name": "Wye Oak",
+          "url": "https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182525,
+      "name": "Every Day Like the Last",
+      "url": "https://open.spotify.com/track/1iJxsYXQI3uTGlChp7UqMB"
+    },
+    {
+      "album": {
+        "name": "Every Day Like the Last",
         "url": "https://open.spotify.com/album/19rDRo03kiDJAVaNQjMIFQ"
       },
       "artists": [
@@ -3458,7 +3476,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 182525,
       "name": "Every Day Like the Last",
       "url": "https://open.spotify.com/track/5wC4jZcOC20bvqUL4Aa3ix"
@@ -9173,6 +9191,24 @@
     },
     {
       "album": {
+        "name": "20 Years and a Nickel",
+        "url": "https://open.spotify.com/album/02bhRp09k7erA3JsN8BHTz"
+      },
+      "artists": [
+        {
+          "name": "Hiss Golden Messenger",
+          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208006,
+      "name": "Nu-Grape",
+      "url": "https://open.spotify.com/track/21r46gpVhsV2zvbfK0aXOK"
+    },
+    {
+      "album": {
         "name": "Nu-Grape",
         "url": "https://open.spotify.com/album/7IfxZlK1wsSudOfoBqQ3sx"
       },
@@ -9184,7 +9220,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 208006,
       "name": "Nu-Grape",
       "url": "https://open.spotify.com/track/5DLCGocLoRsi3DpQssO60a"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKqNbvMHxoI.md) - [plain]
 
 > Songs so beautiful, made for the night
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,265 likes - 80 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,271 likes - 80 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKqNbvMHxoI.md) - [plain]
 | 61 | [TEMPO](https://open.spotify.com/track/2IUFjc60BspwuMtmZaRSPW) | [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [TEMPO](https://open.spotify.com/album/4mQXMpqY7MrZpOedFmTFHu) | 3:59 |
 | 62 | [Deep End](https://open.spotify.com/track/3BicQmJN3NYNCtBwsLrpRL) | [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman) | [Current Blues](https://open.spotify.com/album/0eLcH4iKjPc7Hx10C6UpWB) | 3:38 |
 | 63 | [Unhold Me](https://open.spotify.com/track/6dVIFfl55kxGl3bAifMiMr) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Unhold Me](https://open.spotify.com/album/132EEc3csmIyKpp4nShpV6) | 3:18 |
-| 64 | [Julia \(Deep Diving\)](https://open.spotify.com/track/4obJRBmV1AnO09jj03zIqk) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 4:34 |
+| 64 | [Julia \(deep diving\)](https://open.spotify.com/track/4obJRBmV1AnO09jj03zIqk) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 4:34 |
 | 65 | [Luminous Spaces \- Edit](https://open.spotify.com/track/7nbLUoUimkbWVQqsZ1mkp8) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Luminous Spaces](https://open.spotify.com/album/7E1ug6ydBki9DydefZzG9F) | 4:40 |
 | 66 | [Burnt Orange \- Edit](https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Burnt Orange](https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4) | 4:31 |
 | 67 | [Era \- Edit](https://open.spotify.com/track/6e7pRMDh1Sf7GJWQGqUwT1) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Era](https://open.spotify.com/album/44Dmctrx2WxkdQ2RmA7Re8) | 3:54 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKqNbvMHxoI.md) - [plain]
 | 73 | [Bagsy Not In Net](https://open.spotify.com/track/3J09NCAVxby84HQxp8C0dO) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 2:26 |
 | 74 | [JOY \(Warm Bullet\)](https://open.spotify.com/track/651ISDzJhS2cIYtXlHiMXl) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Fred](https://open.spotify.com/artist/3oHPPysnsyCHI6qEIiWDSK) | [JOY \(journal.30.03.2020\)](https://open.spotify.com/album/61RjvAdIxRfGijHvmVRgb7) | 4:20 |
 | 75 | [05:10 AM / DREAM I NEVER HAD](https://open.spotify.com/track/57rsP9XufjzYaw7yG01XAB) | [Everything Is Recorded](https://open.spotify.com/artist/0JYlkNmu76Wu1DgvWNWq7X), [A\. K\. Paul](https://open.spotify.com/artist/5Ur4wFDyKGnavclr0esWLe) | [FRIDAY FOREVER](https://open.spotify.com/album/5i9U5MGjNDeP5wQxZNTOw6) | 4:38 |
-| 76 | [Carlos \(Make It Thru\)](https://open.spotify.com/track/4pok08MvDsJzOM6kMpWHmc) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:23 |
+| 76 | [Carlos \(make it thru\)](https://open.spotify.com/track/4pok08MvDsJzOM6kMpWHmc) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:23 |
 | 77 | [2005 NYE](https://open.spotify.com/track/1rzH1WxcHyLEyBuErJQVO0) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [2005 NYE](https://open.spotify.com/album/1Epdx4Nl1hobUOEnIXGHVl) | 4:47 |
 | 78 | [Ur <3](https://open.spotify.com/track/6BSxcPX8hKm6O4ZLsKw9qS) | [Poté](https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5) | [Rose, Vol\. 2](https://open.spotify.com/album/4ykOmXue0lJlEcirTef37v) | 3:43 |
 | 79 | [Little Girl](https://open.spotify.com/track/6MWW1R6QcvgZOJ27ANqb9j) | [Rafau Etamski](https://open.spotify.com/artist/7crMfuf5neUYzmwwklDPCO) | [Little Girl](https://open.spotify.com/album/3vwyoOkfnsK1cr4kIknmnz) | 4:12 |
 | 80 | [The Sun Is Warm and Directly Above You](https://open.spotify.com/track/51C6ZIS91sig8ZHrWtsWlt) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [The Sun Is Warm and Directly Above You](https://open.spotify.com/album/4Udumqsv1U3QVeND9tqVp1) | 3:42 |
 
-Snapshot ID: `MCxhNjA2ZTU1YjYyMGZmYTVjZTk1MTVlNTJiNzA0NDVkMGNmMjQ5ODUz`
+Snapshot ID: `MCwxNjk0N2M4OGU4MGZiYzVjZjQ0ZmJlMjQ5YjQxZGM4ZTUxOWY0ZmI5`

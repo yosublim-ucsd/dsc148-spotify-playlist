@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 
 > The defining songs of the riot grrrl era, and the bands keeping their spirit alive\. Cover: Sleater\-Kinney
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,698 likes - 78 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,808 likes - 78 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 | 14 | [In the Summer](https://open.spotify.com/track/7lmvnE8oF7EhJNuLeUxTIf) | [Fastbacks](https://open.spotify.com/artist/2mlDM1k4J5XijZKXALxhDT) | [Very, Very Powerful Motor](https://open.spotify.com/album/069dipMFhPwUSC2SSufyxi) | 3:18 |
 | 15 | [Wrap It Up](https://open.spotify.com/track/54T19pvsrKtFtBCKY49R1I) | [Romeo Void](https://open.spotify.com/artist/20kRNjGAzhnBIflemL8JfY) | [Warm, In Your Coat](https://open.spotify.com/album/4prH6wEaDxG4lo02BaXbkG) | 3:25 |
 | 16 | [Semiserious](https://open.spotify.com/track/4NkWrgXMQfZA2VeSAd9z7u) | [Mocket](https://open.spotify.com/artist/3SPRKuovzRrpWnvlr1KQrU) | [Fanfare](https://open.spotify.com/album/1zygk2FNA6jzCXkGAXOB21) | 1:40 |
-| 17 | [Change](https://open.spotify.com/track/7MKMH83KVivY9v6iiLODQc) | [Cable Ties](https://open.spotify.com/artist/2DHxsgHVEiupQyVWHI1XIW) | [Change](https://open.spotify.com/album/7hP0UgXC1xZWqclmRH6ciz) | 3:57 |
+| 17 | [Change](https://open.spotify.com/track/6ROa2w2Pw6ThrLdDVSWnfi) | [Cable Ties](https://open.spotify.com/artist/2DHxsgHVEiupQyVWHI1XIW) | [All Her Plans](https://open.spotify.com/album/40apxpu7W5q2csQVcb1XyM) | 3:57 |
 | 18 | [Shove \- Remastered](https://open.spotify.com/track/3qtJyjX8gnhKlqbNKdY9jb) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Smell the Magic](https://open.spotify.com/album/0VgXvWzdF93KHuNdzzSgaB) | 3:13 |
 | 19 | [Bruise Violet](https://open.spotify.com/track/0o0fnK2CqZvI3jONRDv6ax) | [Babes In Toyland ](https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z) | [Fontanelle](https://open.spotify.com/album/3fbPYfpyJtow8IF3ho7o09) | 2:52 |
 | 20 | [Rebel Girl](https://open.spotify.com/track/0XyjtybwqSdqMAFfBEkmZf) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Punk Singer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2) | 2:37 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 | 77 | [Current Affair](https://open.spotify.com/track/721rlw9VI4IqhpPhNFrZIv) | [Sextile](https://open.spotify.com/artist/4ReoJ2faKfdjI0plizlL56), [Sienna](https://open.spotify.com/artist/0aiQeYnP7FNRD8BwG90wdG) | [Current Affair \(feat\. Sienna\)](https://open.spotify.com/album/30Tq94VCaG31USW0MsFli2) | 2:49 |
 | 78 | [Vagina Police](https://open.spotify.com/track/3P2LZ3iAWSWs2oW6gUzGkE) | [Dream Nails](https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB) | [Double A Side](https://open.spotify.com/album/0ToQnPNr2oKEbtK9mA9XDO) | 1:35 |
 
-Snapshot ID: `MCw3ZWRkOWYwMjFhYzAwMTUzMjM5ZjMzNmQ3YzE1ZWJhZjdkZWI0OTFk`
+Snapshot ID: `MCw3MTUzYmE4YWU3ZmJiY2RiMDMyMzcyOGI4NzM2NGE0OWM1MmRjZmJl`

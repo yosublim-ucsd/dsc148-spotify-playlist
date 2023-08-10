@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Sq1EGirxpV.md) - [plain]
 
 > Listen to the soundtracks of the Not Others\. \(남남의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 240 likes - 32 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 290 likes - 32 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Sq1EGirxpV.md) - [plain]
 | 31 | [Move](https://open.spotify.com/track/4D1guAFjg5BS8Xx1aOqn3L) | [Kwon Soonkwan](https://open.spotify.com/artist/4QLDKHOPL4cISjOBek1ZP7) | [Connected](https://open.spotify.com/album/3tizdmilWNGp9RQoli1Urb) | 4:00 |
 | 32 | [Boat](https://open.spotify.com/track/2PrweoTShLVamfIdefEaek) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Boat](https://open.spotify.com/album/5rQ22IrvP4D6z5dHcAS6De) | 3:11 |
 
-Snapshot ID: `MCxlNTIwN2QyNGVhYTc2MWI4YjFmN2M3OGViYTI3ZGM1N2M5MmE4MDZh`
+Snapshot ID: `MCxmNjU4ZWVhN2Y3MWI5N2YzNDQyZDYzYjkzODJkYWIxZTgzOWE4ZDI0`

@@ -520,7 +520,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 196796,
-      "name": "Hannah (The Sun)",
+      "name": "Hannah (the sun)",
       "url": "https://open.spotify.com/track/3KffMs30iYfPNYI8epNj5a"
     },
     {
@@ -1164,10 +1164,32 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 177240,
       "name": "So Late (Goldteeth Remix)",
       "url": "https://open.spotify.com/track/5FXXRLw5EpDFRrPzAifM8t"
+    },
+    {
+      "album": {
+        "name": "So Late (Goldteeth Remix)",
+        "url": "https://open.spotify.com/album/3bISjcvWbNhblILoMOmVvG"
+      },
+      "artists": [
+        {
+          "name": "Patawawa",
+          "url": "https://open.spotify.com/artist/5D65DHzw4qysvKA2VJzOtC"
+        },
+        {
+          "name": "Gold Teeth",
+          "url": "https://open.spotify.com/artist/2xmfCofOQt2Pqcv8Whg6ay"
+        }
+      ],
+      "date_added": "2021-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177240,
+      "name": "So Late - Goldteeth Remix",
+      "url": "https://open.spotify.com/track/6W8xk66YHob4Yloy8aArZy"
     },
     {
       "album": {

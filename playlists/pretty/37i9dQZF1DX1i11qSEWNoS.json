@@ -1,12 +1,12 @@
 {
   "description": "und macht laune",
-  "num_followers": 469983,
+  "num_followers": 470773,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzM2EzM2MzMWEwMDk1YTgyMjgwNWEyYWEzNTAxYjlmNzIyZWNmZGJi",
+  "snapshot_id": "MCwzYjZjNjE5NWI3MTBkMjc5NTE5NTllMDk2ODkxMTQyODM0NTU5YTYw",
   "tracks": [
     {
       "added_at": "2023-07-28 08:50:38",
@@ -527,6 +527,26 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
+        "name": "TAKE IT OFF",
+        "url": "https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Aatig",
+          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
+        }
+      ],
+      "duration_ms": 194604,
+      "name": "TAKE IT OFF",
+      "url": "https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB"
+    },
+    {
+      "added_at": "2023-07-28 08:50:38",
+      "album": {
         "name": "Praise The Lord (Da Shine) (feat. Skepta) [Durdenhauer Edit]",
         "url": "https://open.spotify.com/album/6uVc1jXybFsyaLi48p8zYu"
       },
@@ -547,26 +567,6 @@
       "duration_ms": 163515,
       "name": "Praise The Lord (Da Shine) (feat. Skepta) - Durdenhauer Edit",
       "url": "https://open.spotify.com/track/7jQkiAaa4XYYsPH3rcfcWo"
-    },
-    {
-      "added_at": "2023-07-28 08:50:38",
-      "album": {
-        "name": "TAKE IT OFF",
-        "url": "https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Aatig",
-          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
-        }
-      ],
-      "duration_ms": 194604,
-      "name": "TAKE IT OFF",
-      "url": "https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB"
     },
     {
       "added_at": "2023-07-28 08:50:38",
@@ -1003,22 +1003,22 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
-        "name": "Strada",
-        "url": "https://open.spotify.com/album/28uZiaDg8bnR11Muf7m3xS"
+        "name": "Get Shaky",
+        "url": "https://open.spotify.com/album/2cBSMHLqs6Zaj3IIUrGTnD"
       },
       "artists": [
         {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+          "name": "KXXMA",
+          "url": "https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx"
         },
         {
-          "name": "Ahmad Amin",
-          "url": "https://open.spotify.com/artist/4SZSRsSh4xJx9o5V1uDE1o"
+          "name": "TurboKevin",
+          "url": "https://open.spotify.com/artist/2nxyC1TQywKkvfkvuaiaW6"
         }
       ],
-      "duration_ms": 144400,
-      "name": "Strada",
-      "url": "https://open.spotify.com/track/5X6Ut0DYPzglxDQbh3PZ7h"
+      "duration_ms": 237194,
+      "name": "Get Shaky",
+      "url": "https://open.spotify.com/track/5ZNa6S7agmCmaEnxIHE73m"
     },
     {
       "added_at": "2023-07-28 08:50:38",
@@ -1043,22 +1043,22 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
-        "name": "Get Shaky",
-        "url": "https://open.spotify.com/album/2cBSMHLqs6Zaj3IIUrGTnD"
+        "name": "Strada",
+        "url": "https://open.spotify.com/album/28uZiaDg8bnR11Muf7m3xS"
       },
       "artists": [
         {
-          "name": "KXXMA",
-          "url": "https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx"
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
         },
         {
-          "name": "TurboKevin",
-          "url": "https://open.spotify.com/artist/2nxyC1TQywKkvfkvuaiaW6"
+          "name": "Ahmad Amin",
+          "url": "https://open.spotify.com/artist/4SZSRsSh4xJx9o5V1uDE1o"
         }
       ],
-      "duration_ms": 237194,
-      "name": "Get Shaky",
-      "url": "https://open.spotify.com/track/5ZNa6S7agmCmaEnxIHE73m"
+      "duration_ms": 144400,
+      "name": "Strada",
+      "url": "https://open.spotify.com/track/5X6Ut0DYPzglxDQbh3PZ7h"
     },
     {
       "added_at": "2023-07-28 08:50:38",
@@ -1079,6 +1079,30 @@
       "duration_ms": 188520,
       "name": "LiEBE AUF DER R\u00dcCKBANK",
       "url": "https://open.spotify.com/track/6ar9dvz5WuFLAyDGsZKLZx"
+    },
+    {
+      "added_at": "2023-07-28 08:50:38",
+      "album": {
+        "name": "EWIGKEIT (REMIX)",
+        "url": "https://open.spotify.com/album/7g9MhzAbsC7Z7Orsa0Z7Dz"
+      },
+      "artists": [
+        {
+          "name": "erob\u00e9",
+          "url": "https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn"
+        },
+        {
+          "name": "KXXMA",
+          "url": "https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx"
+        },
+        {
+          "name": "Lyfrix",
+          "url": "https://open.spotify.com/artist/4TSAnyHn47PpS8S9ofOjYU"
+        }
+      ],
+      "duration_ms": 137647,
+      "name": "EWIGKEIT - REMIX",
+      "url": "https://open.spotify.com/track/4kcgrgZhd4h8chSAJ86mIq"
     },
     {
       "added_at": "2023-07-28 08:50:38",
@@ -1143,30 +1167,6 @@
       "duration_ms": 138181,
       "name": "TABU RMX",
       "url": "https://open.spotify.com/track/7DsflyKZZAMXFUzZtho9mr"
-    },
-    {
-      "added_at": "2023-07-28 08:50:38",
-      "album": {
-        "name": "EWIGKEIT (REMIX)",
-        "url": "https://open.spotify.com/album/7g9MhzAbsC7Z7Orsa0Z7Dz"
-      },
-      "artists": [
-        {
-          "name": "erob\u00e9",
-          "url": "https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn"
-        },
-        {
-          "name": "KXXMA",
-          "url": "https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx"
-        },
-        {
-          "name": "Lyfrix",
-          "url": "https://open.spotify.com/artist/4TSAnyHn47PpS8S9ofOjYU"
-        }
-      ],
-      "duration_ms": 137647,
-      "name": "EWIGKEIT - REMIX",
-      "url": "https://open.spotify.com/track/4kcgrgZhd4h8chSAJ86mIq"
     },
     {
       "added_at": "2023-07-28 08:50:38",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
+        "name": "Dorfkinder",
+        "url": "https://open.spotify.com/album/1R8ny1P0qJBCTqHeoRwZLV"
+      },
+      "artists": [
+        {
+          "name": "Finnel",
+          "url": "https://open.spotify.com/artist/7C0CBOwkkOMnkehrvdMLrU"
+        }
+      ],
+      "duration_ms": 147844,
+      "name": "Dorfkinder",
+      "url": "https://open.spotify.com/track/6TJJfeL9UUi0xNnYvte2av"
+    },
+    {
+      "added_at": "2023-07-28 08:50:38",
+      "album": {
         "name": "Broker",
         "url": "https://open.spotify.com/album/4syw0FRlDPOvhtxY9saHrk"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 150877,
       "name": "Broker",
       "url": "https://open.spotify.com/track/0fmZFIfyvdcg6dVkczBpwF"
-    },
-    {
-      "added_at": "2023-07-28 08:50:38",
-      "album": {
-        "name": "Dorfkinder",
-        "url": "https://open.spotify.com/album/1R8ny1P0qJBCTqHeoRwZLV"
-      },
-      "artists": [
-        {
-          "name": "Finnel",
-          "url": "https://open.spotify.com/artist/7C0CBOwkkOMnkehrvdMLrU"
-        }
-      ],
-      "duration_ms": 147844,
-      "name": "Dorfkinder",
-      "url": "https://open.spotify.com/track/6TJJfeL9UUi0xNnYvte2av"
     },
     {
       "added_at": "2023-07-28 08:50:38",
@@ -1411,6 +1411,38 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
+        "name": "Leben am Limit",
+        "url": "https://open.spotify.com/album/3GFtNDpTMjFmmPNVGI202h"
+      },
+      "artists": [
+        {
+          "name": "SXTN",
+          "url": "https://open.spotify.com/artist/0tMFcqLXhtm1Gep20iuIR3"
+        }
+      ],
+      "duration_ms": 224186,
+      "name": "Von Party zu Party",
+      "url": "https://open.spotify.com/track/4h6UIDvGWTYZvu4BLf2GpO"
+    },
+    {
+      "added_at": "2023-07-28 08:50:38",
+      "album": {
+        "name": "Rave Harder Techno Bass",
+        "url": "https://open.spotify.com/album/0GbjMnAZAeoHabYDB4IMYe"
+      },
+      "artists": [
+        {
+          "name": "Mark Dekoda",
+          "url": "https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8"
+        }
+      ],
+      "duration_ms": 360000,
+      "name": "Rave Harder Techno Bass",
+      "url": "https://open.spotify.com/track/1tkS8yt5NwTZkqFvZMxM0F"
+    },
+    {
+      "added_at": "2023-07-28 08:50:38",
+      "album": {
         "name": "2022 war film gewesen",
         "url": "https://open.spotify.com/album/4OBzAh7kXYVdeBp1LTrZwZ"
       },
@@ -1431,22 +1463,6 @@
       "duration_ms": 151632,
       "name": "Tour de Berlin",
       "url": "https://open.spotify.com/track/6bTtaSmqjMD6TggNfoR4N5"
-    },
-    {
-      "added_at": "2023-07-28 08:50:38",
-      "album": {
-        "name": "Leben am Limit",
-        "url": "https://open.spotify.com/album/3GFtNDpTMjFmmPNVGI202h"
-      },
-      "artists": [
-        {
-          "name": "SXTN",
-          "url": "https://open.spotify.com/artist/0tMFcqLXhtm1Gep20iuIR3"
-        }
-      ],
-      "duration_ms": 224186,
-      "name": "Von Party zu Party",
-      "url": "https://open.spotify.com/track/4h6UIDvGWTYZvu4BLf2GpO"
     },
     {
       "added_at": "2023-07-28 08:50:38",
@@ -1475,18 +1491,18 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
-        "name": "Rave Harder Techno Bass",
-        "url": "https://open.spotify.com/album/0GbjMnAZAeoHabYDB4IMYe"
+        "name": "Turn All The Lights On",
+        "url": "https://open.spotify.com/album/2So8QRALJzGvefJp86htBu"
       },
       "artists": [
         {
-          "name": "Mark Dekoda",
-          "url": "https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8"
+          "name": "Valexus",
+          "url": "https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1"
         }
       ],
-      "duration_ms": 360000,
-      "name": "Rave Harder Techno Bass",
-      "url": "https://open.spotify.com/track/1tkS8yt5NwTZkqFvZMxM0F"
+      "duration_ms": 137569,
+      "name": "Turn All The Lights On",
+      "url": "https://open.spotify.com/track/3AxoLYBDzx5hTCSJR2W4i9"
     },
     {
       "added_at": "2023-07-28 08:50:38",
@@ -1519,22 +1535,6 @@
       "duration_ms": 133212,
       "name": "Beat Goes On (Rhythm to the Brain)",
       "url": "https://open.spotify.com/track/4iAADGCKIR9GkLGvAHfZUS"
-    },
-    {
-      "added_at": "2023-07-28 08:50:38",
-      "album": {
-        "name": "Turn All The Lights On",
-        "url": "https://open.spotify.com/album/2So8QRALJzGvefJp86htBu"
-      },
-      "artists": [
-        {
-          "name": "Valexus",
-          "url": "https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1"
-        }
-      ],
-      "duration_ms": 137569,
-      "name": "Turn All The Lights On",
-      "url": "https://open.spotify.com/track/3AxoLYBDzx5hTCSJR2W4i9"
     },
     {
       "added_at": "2023-07-28 08:50:38",
@@ -1659,6 +1659,26 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
+        "name": "WILDES DING",
+        "url": "https://open.spotify.com/album/6nnBMvIedNf19zjzk2KGhF"
+      },
+      "artists": [
+        {
+          "name": "Valexus",
+          "url": "https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1"
+        },
+        {
+          "name": "Culcha Candela",
+          "url": "https://open.spotify.com/artist/3gemH8D6fpu12DmTmUZYAL"
+        }
+      ],
+      "duration_ms": 136204,
+      "name": "WILDES DING",
+      "url": "https://open.spotify.com/track/2BssmP7ruTX7iZrWLm7EVk"
+    },
+    {
+      "added_at": "2023-07-28 08:50:38",
+      "album": {
         "name": "Mein kleines Herz (Bam Bam)",
         "url": "https://open.spotify.com/album/25GJAMuQqJ6n0OrRAZrcY7"
       },
@@ -1683,42 +1703,6 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
-        "name": "IN THE CLUB",
-        "url": "https://open.spotify.com/album/1nKcVRIapkprHO7oeNLyE4"
-      },
-      "artists": [
-        {
-          "name": "Mishashi Sensei",
-          "url": "https://open.spotify.com/artist/2kH0ycFAZXMJzpNems0mVK"
-        }
-      ],
-      "duration_ms": 139206,
-      "name": "IN THE CLUB",
-      "url": "https://open.spotify.com/track/7vX0rvoGneCCOJ2QPruNNZ"
-    },
-    {
-      "added_at": "2023-07-28 08:50:38",
-      "album": {
-        "name": "WILDES DING",
-        "url": "https://open.spotify.com/album/6nnBMvIedNf19zjzk2KGhF"
-      },
-      "artists": [
-        {
-          "name": "Valexus",
-          "url": "https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1"
-        },
-        {
-          "name": "Culcha Candela",
-          "url": "https://open.spotify.com/artist/3gemH8D6fpu12DmTmUZYAL"
-        }
-      ],
-      "duration_ms": 136204,
-      "name": "WILDES DING",
-      "url": "https://open.spotify.com/track/2BssmP7ruTX7iZrWLm7EVk"
-    },
-    {
-      "added_at": "2023-07-28 08:50:38",
-      "album": {
         "name": "Macarena",
         "url": "https://open.spotify.com/album/4u8Cg6VFMrJDM6WvckaHau"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 123692,
       "name": "Macarena",
       "url": "https://open.spotify.com/track/38aDPziKNpMScJAdNro7vI"
+    },
+    {
+      "added_at": "2023-07-28 08:50:38",
+      "album": {
+        "name": "IN THE CLUB",
+        "url": "https://open.spotify.com/album/1nKcVRIapkprHO7oeNLyE4"
+      },
+      "artists": [
+        {
+          "name": "Mishashi Sensei",
+          "url": "https://open.spotify.com/artist/2kH0ycFAZXMJzpNems0mVK"
+        }
+      ],
+      "duration_ms": 139206,
+      "name": "IN THE CLUB",
+      "url": "https://open.spotify.com/track/7vX0rvoGneCCOJ2QPruNNZ"
     },
     {
       "added_at": "2023-07-28 08:50:38",

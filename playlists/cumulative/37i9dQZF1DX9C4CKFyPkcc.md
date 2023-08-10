@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-189 songs - 11 hr 12 min
+190 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Baby Boy](https://open.spotify.com/track/4sSXzAOEYpSK5o5zFtDrnr) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Baby Boy](https://open.spotify.com/album/28UIg788d1C0Q93xwZRDHP) | 3:50 | 2022-12-11 | 2022-12-27 |
 | [Beautiful Christmas](https://open.spotify.com/track/4HGqkFupdoozBF91E1MRS0) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinite Christmas](https://open.spotify.com/album/3FEZGStis8kVGpnh54NF8h) | 4:25 | 2021-12-24 | 2023-04-27 |
 | [Being Home for Christmas](https://open.spotify.com/track/1XAYU9pdry0GU7Z5ga4UM5) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Miracle in a Manger](https://open.spotify.com/album/4lCduOiVpnPIA1CuGn8WgY) | 4:16 | 2021-12-24 | 2023-04-23 |
-| [Born a King \- Reimagined](https://open.spotify.com/track/34qhtucHZ0VKASva6lFJD8) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3), [Jason Clayborn](https://open.spotify.com/artist/0ml3hRZcRv7vHeIPGke7hW) | [Born a King \(Reimagined\)](https://open.spotify.com/album/2XckCbcJxb6HwFjzah1DlG) | 3:18 | 2022-12-11 |  |
+| [Born a King \- Reimagined](https://open.spotify.com/track/34qhtucHZ0VKASva6lFJD8) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3), [Jason Clayborn](https://open.spotify.com/artist/0ml3hRZcRv7vHeIPGke7hW) | [Born a King \(Reimagined\)](https://open.spotify.com/album/2XckCbcJxb6HwFjzah1DlG) | 3:18 | 2022-12-11 | 2023-08-10 |
 | [Breath of Heaven \(Mary's Song\)](https://open.spotify.com/track/3nt6KSOlcetP5Asp9mAL2I) | [Menna](https://open.spotify.com/artist/5kLvMAFanr3jQ7iuciSCuM) | [Breath of Heaven \(Mary's Song\)](https://open.spotify.com/album/3wugGehkfYGRLeWN1ZFtVw) | 4:55 | 2022-11-26 |  |
 | [Carol of the Bells / Sing We Now of Christmas](https://open.spotify.com/track/7hHVcFvJn0DQXxzl1RTPdB) | [BarlowGirl](https://open.spotify.com/artist/3VMSmJURVM7s6LkrIaPZvi) | [Home for Christmas](https://open.spotify.com/album/60AfMfaRKCmu1EqLIib6Td) | 4:00 | 2021-12-24 |  |
 | [Christmas \(What the World Needs\)](https://open.spotify.com/track/7LVlVysevTfk1xvuyZjt4N) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Christmas \(What the World Needs\)](https://open.spotify.com/album/52B8nEKBwBTIdj6DhyoJ8h) | 3:36 | 2022-12-11 |  |
@@ -175,6 +175,7 @@
 | [The Manger \(with Josh Turner\)](https://open.spotify.com/track/7aKm5vWuizayEDJJSp0OiW) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN), [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [The Manger](https://open.spotify.com/album/07eR5Q7zlJXjotNfqekAjH) | 3:49 | 2022-11-26 |  |
 | [The Prayer](https://open.spotify.com/track/4UcdqtJDDSYToxtsBZzkFX) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Evergreen](https://open.spotify.com/album/7HgVH7ChzqayHdf1eAi9c1) | 4:21 | 2021-12-24 |  |
 | [This Christmas](https://open.spotify.com/track/4CBjktJLsRt8ZO8LSEq0lu) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [This Christmas](https://open.spotify.com/album/0NHNtCqSBy6yjiZ7jpDDBf) | 2:52 | 2022-11-26 |  |
+| [This Christmas](https://open.spotify.com/track/3YtuVGsQpKawpJxH6bctKh) | [Chris August](https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8) | [This Christmas](https://open.spotify.com/album/0gz7buq3Tup1nzABzoUeSZ) | 2:51 | 2022-12-11 |  |
 | [This Christmas](https://open.spotify.com/track/3W6PmtGTyLwWBWUYplSWHT) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [This Christmas \- Songs From The Motion Picture](https://open.spotify.com/album/75p6D49hWX6bmG8PJFb02h) | 3:17 | 2021-12-24 |  |
 | [This Christmas](https://open.spotify.com/track/3NQcGDkm0I1XFeFSlCWMqt) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [This Christmas](https://open.spotify.com/album/7e7hga6IjsDcKAOpR2hn27) | 3:04 | 2022-11-26 |  |
 | [This Is Christmas](https://open.spotify.com/track/5ZydBDUkvBKXwUmvV3v4mi) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [This Is Christmas](https://open.spotify.com/album/5OhpJQEOrb8Wl0hkv2Wrs7) | 3:30 | 2022-12-11 | 2023-06-26 |

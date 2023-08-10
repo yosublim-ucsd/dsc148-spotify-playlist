@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 
 > This is Ramon Ayala Y Sus Bravos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,333 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,370 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 | 42 | [Copa Tras Copa](https://open.spotify.com/track/27Rg03fybbYtpqddr7RhAx) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Como el Topo](https://open.spotify.com/album/76MCJSsUiEBdqkPUHSTas6) | 3:28 |
 | 43 | [Oh No](https://open.spotify.com/track/4rOVkiMwnw9j9dIoza5lKL) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Quémame Los Ojos \(Remasterizado\)](https://open.spotify.com/album/6fhPiiOb9ptKqk6dBFEWG1) | 2:49 |
 | 44 | [Dos Monedas](https://open.spotify.com/track/4epespdttWqUpIk35qEoMY) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Imprescindibles](https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE) | 3:29 |
-| 45 | [Lágrimas](https://open.spotify.com/track/2NGw51VQMr7suG30O3iFsF) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Lagrimas](https://open.spotify.com/album/0JN8mZ3miJNMroapco383C) | 2:18 |
-| 46 | [Me Puso El Dedo](https://open.spotify.com/track/1iCVU73Xs9tj0tZI0j4Tun) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Gaviota](https://open.spotify.com/album/4Pd7fV6rbTXjW5SGzy16Iy) | 3:35 |
+| 45 | [Me Puso El Dedo](https://open.spotify.com/track/1iCVU73Xs9tj0tZI0j4Tun) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Gaviota](https://open.spotify.com/album/4Pd7fV6rbTXjW5SGzy16Iy) | 3:35 |
+| 46 | [Lágrimas](https://open.spotify.com/track/2NGw51VQMr7suG30O3iFsF) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Lagrimas](https://open.spotify.com/album/0JN8mZ3miJNMroapco383C) | 2:18 |
 | 47 | [Dos Hojas Sin Rumbo](https://open.spotify.com/track/6yWXKiGLhagm6f9biSM7Bk) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [DOS HOJAS SIN RUMBO / ENSÉÑAME A OLVIDAR \(Grabación Original Remasterizada\)](https://open.spotify.com/album/5igh7OUbG6jyg5yXVWnTQk) | 3:27 |
 | 48 | [La Miedosa](https://open.spotify.com/track/6bzNLOc4Gpxj2MakSFVmyq) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Triste Recuerdo \(Aferrado Por Ti\)](https://open.spotify.com/album/6BPIQtgq7bYpXflr0Sx8eS) | 3:17 |
 | 49 | [Enséñame A Olvidar](https://open.spotify.com/track/60omHo4CkdXorYTrOzZQUO) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [40 Éxitos](https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd) | 3:28 |
 | 50 | [Vino Maldito](https://open.spotify.com/track/1XvSiILaUqz0a3llmPcGXx) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [15 Norteñas De Exito Herencia Musical De](https://open.spotify.com/album/1ts28Fgr2woLWxk1lh5PKQ) | 3:11 |
 
-Snapshot ID: `MjgxOTE2NzksMDAwMDAwMDAzZjYxNjJiYjY2MTIxZTc4ZDY0NTIxOTUyZGZmYzcwZA==`
+Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDA5YmU4NzNlNWVmOWZmNmI5ODdhNmUzODQ1NTNjMzg1YQ==`

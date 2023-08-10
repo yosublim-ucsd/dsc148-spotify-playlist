@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GdOmc.md) - [plain]
 
 > This is Casting Crowns\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,769 likes - 51 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,815 likes - 51 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GdOmc.md) - [plain]
 | 50 | [Gentle Healer](https://open.spotify.com/track/2U7fRaEDNKN8MkqawXXBkd) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Healer \(Deluxe\)](https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4) | 1:55 |
 | 51 | [What If His People Prayed](https://open.spotify.com/track/2qRnTIbCkw5YZG9hk8VfP6) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Casting Crowns](https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc) | 3:28 |
 
-Snapshot ID: `MjgxOTE2NzksMDAwMDAwMDA0MzQwZDk2ZDdlMjU3MzVjMWNmZDFkMTNjOWNhYjk0MA==`
+Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDBkOWU3YmNmZWY0YTJlMjQ5Njk1YjI4MDkzNjBmNGY1ZQ==`

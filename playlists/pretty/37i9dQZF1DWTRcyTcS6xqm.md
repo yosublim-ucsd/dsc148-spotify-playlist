@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 
 > Party blues tunes\. Cover: Joe Louis Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,142 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,150 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 | 20 | [Bump that Mother](https://open.spotify.com/track/5UOyPqtOZwwwGIyp375MyE) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [Up and Rolling](https://open.spotify.com/album/5jEiXH4G09AiHqBkEm2ZMM) | 3:11 |
 | 21 | [Going to the Party](https://open.spotify.com/track/3NNMGuWv9mKJLU1ETp0BBR) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY), [Lyrics Born](https://open.spotify.com/artist/3X3DHASP1G1waqVoEDWMHr) | [Promised Land](https://open.spotify.com/album/0ub6jfYlVosHPqpgaR2iXU) | 3:01 |
 | 22 | [Like It on Top](https://open.spotify.com/track/1MMXilYlgGiVXSz5YCOV9d) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf), [Keb’ Mo’ and Robben Ford](https://open.spotify.com/artist/1vtGuNoBIAtbi1wNOGSGHn) | [Like It on Top](https://open.spotify.com/album/26lGPtKtc4SneVwBh67pW8) | 4:45 |
-| 23 | [We've Got The Music](https://open.spotify.com/track/0nWPSw3PHjRTirJ9BAsZnb) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Keep On](https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ) | 1:54 |
-| 24 | [Shake It](https://open.spotify.com/track/2uKt3YMVIDuEDY2xH1jZFz) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/2WWqqmFSB4jFEnnRwngeSB) | 3:59 |
+| 23 | [Shake It](https://open.spotify.com/track/2uKt3YMVIDuEDY2xH1jZFz) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/2WWqqmFSB4jFEnnRwngeSB) | 3:59 |
+| 24 | [We've Got The Music](https://open.spotify.com/track/0nWPSw3PHjRTirJ9BAsZnb) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Keep On](https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ) | 1:54 |
 | 25 | [Sweet Goddess of Love and Beer](https://open.spotify.com/track/66H9jPL1TsOrOYVMAwVjCR) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [Booty And The Beast](https://open.spotify.com/album/1uGPozOUYC2TvpVE3IlWQi) | 4:39 |
 | 26 | [Blues Party](https://open.spotify.com/track/3o6j1UHNrch5Xigvyn3jZA) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Let It Go](https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ) | 4:48 |
 | 27 | [Get Your Groove On](https://open.spotify.com/track/7rTMCY2QFWN8iHD1JjCWye) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Benton County Relic](https://open.spotify.com/album/6N2kgU28H4AZWrsnw8IVeu) | 2:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 | 49 | [Mr\. Loving Man](https://open.spotify.com/track/7e6WgLvvZh7fWp0lYfdVm7) | [Cassie Taylor / Dani Wilde / Samantha Fish](https://open.spotify.com/artist/2lL46Pd4sRMERjkg0GbdDc) | [Girls With Guitars](https://open.spotify.com/album/4lSq7OFkNp2R3xIdjNgewS) | 3:34 |
 | 50 | [Little Juke Joint](https://open.spotify.com/track/6XgNLPqmKIo9HUwtwngAJc) | [Michael Burks](https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6) | [Show Of Strength](https://open.spotify.com/album/3ud6I5e1AGFRbBYb0UvZO3) | 6:00 |
 
-Snapshot ID: `MCw1NDM3ODYwM2I1NTY0ODk5ZGZhMWVmMTc3MjhiNDY0NTFmNGE2ODcz`
+Snapshot ID: `MCxjOGFhODFiOTUxOWQ2M2JjNGJjZWI3ZGIzNzdmNTI1M2EwMDQ5Mzk2`

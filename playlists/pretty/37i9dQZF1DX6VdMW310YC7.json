@@ -1,12 +1,12 @@
 {
-  "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3652134,
+  "description": "M\u00fasica <a href=\"spotify:genre:edm_dance\">dance</a> suave.",
+  "num_followers": 3652815,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTliZGY3NTRkZDIzMWFmNzlhODY2MjMyZDVmYTYwMGFlMGY5YmQw",
+  "snapshot_id": "MCw4ODFkZmMxM2M5MGMxM2EzZDhmZDUzOTBlMGY2YjU1MDFjNWY5Mzdm",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "All I've Ever Known",
+        "url": "https://open.spotify.com/album/4hFPQHIvNtt8c9pn1F25uK"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "All I've Ever Known",
+      "url": "https://open.spotify.com/track/2uBELhgylBRkmLI5B5yCbe"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Safe (Joris Voorn Remix)",
         "url": "https://open.spotify.com/album/4E3pSvdTWyLs6K9saNu97L"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 294009,
       "name": "Safe - Joris Voorn Remix",
       "url": "https://open.spotify.com/track/2cVGCUx6xnmcdIz2Ns9OLw"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "All I've Ever Known",
-        "url": "https://open.spotify.com/album/4hFPQHIvNtt8c9pn1F25uK"
-      },
-      "artists": [
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "All I've Ever Known",
-      "url": "https://open.spotify.com/track/2uBELhgylBRkmLI5B5yCbe"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Canop\u00e9e des C\u00eemes",
-        "url": "https://open.spotify.com/album/1YLdXic6IjXGNPMBJhDE0u"
-      },
-      "artists": [
-        {
-          "name": "Jan Blomqvist",
-          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
-        }
-      ],
-      "duration_ms": 296376,
-      "name": "Canop\u00e9e des C\u00eemes",
-      "url": "https://open.spotify.com/track/2nVUEKKPv9DDilSZwCcMfu"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Where I Find My Mind",
         "url": "https://open.spotify.com/album/0sJ4br8FWqrOwoGcxTwJOM"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 212500,
       "name": "Where I Find My Mind",
       "url": "https://open.spotify.com/track/1RuXenlriyybOv1ra0zeSQ"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Canop\u00e9e des C\u00eemes",
+        "url": "https://open.spotify.com/album/1YLdXic6IjXGNPMBJhDE0u"
+      },
+      "artists": [
+        {
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        }
+      ],
+      "duration_ms": 296376,
+      "name": "Canop\u00e9e des C\u00eemes",
+      "url": "https://open.spotify.com/track/2nVUEKKPv9DDilSZwCcMfu"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Where did you go",
-        "url": "https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        },
-        {
-          "name": "MAGNUS",
-          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Where did you go",
-      "url": "https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Rolling Back (Durante Remix)",
         "url": "https://open.spotify.com/album/1GiOPy7dvYrVMRwMPsprlT"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 238000,
       "name": "Rolling Back",
       "url": "https://open.spotify.com/track/335EcT0oI5889ZgM0q413d"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Love Like We're Dying",
+        "url": "https://open.spotify.com/album/4G1MoyjTIErFuPYNV2WJad"
+      },
+      "artists": [
+        {
+          "name": "Scorz",
+          "url": "https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        }
+      ],
+      "duration_ms": 183876,
+      "name": "Love Like We're Dying",
+      "url": "https://open.spotify.com/track/1jyIQoMPkCD6Pz1x1pzZs5"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1267,22 +1267,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Love Like We're Dying",
-        "url": "https://open.spotify.com/album/4G1MoyjTIErFuPYNV2WJad"
+        "name": "Where did you go",
+        "url": "https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE"
       },
       "artists": [
         {
-          "name": "Scorz",
-          "url": "https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn"
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
         },
         {
-          "name": "Malou",
-          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+          "name": "MAGNUS",
+          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
         }
       ],
-      "duration_ms": 183876,
-      "name": "Love Like We're Dying",
-      "url": "https://open.spotify.com/track/1jyIQoMPkCD6Pz1x1pzZs5"
+      "duration_ms": 168000,
+      "name": "Where did you go",
+      "url": "https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Beyond Beliefs",
-        "url": "https://open.spotify.com/album/5bjamshqsgnOFuEktHNKru"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        }
-      ],
-      "duration_ms": 313586,
-      "name": "Beyond Beliefs",
-      "url": "https://open.spotify.com/track/0SbDNXZYqfsMarINcb72X5"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Can't Help But Think About You",
         "url": "https://open.spotify.com/album/4n8C4vGUmvNgpy4DO34Www"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 208185,
       "name": "Can't Help But Think About You",
       "url": "https://open.spotify.com/track/43noj7erQp0en3LWB5pBF4"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Beyond Beliefs",
+        "url": "https://open.spotify.com/album/5bjamshqsgnOFuEktHNKru"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        }
+      ],
+      "duration_ms": 313586,
+      "name": "Beyond Beliefs",
+      "url": "https://open.spotify.com/track/0SbDNXZYqfsMarINcb72X5"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "IOU",
-        "url": "https://open.spotify.com/album/2dBJHbZd05aKf9PKaSLIIp"
-      },
-      "artists": [
-        {
-          "name": "EMBRZ",
-          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
-        },
-        {
-          "name": "Lizzy Land",
-          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
-        }
-      ],
-      "duration_ms": 212906,
-      "name": "IOU",
-      "url": "https://open.spotify.com/track/05fPNUOJ5ZwhNBavMU7vIu"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Light Of Day",
         "url": "https://open.spotify.com/album/0pGNoq6y7AGjILfzDzOZbu"
       },
@@ -1451,22 +1431,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Light Places",
-        "url": "https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku"
+        "name": "IOU",
+        "url": "https://open.spotify.com/album/2dBJHbZd05aKf9PKaSLIIp"
       },
       "artists": [
         {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+          "name": "EMBRZ",
+          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
         },
         {
-          "name": "Caroline Byrne",
-          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
+          "name": "Lizzy Land",
+          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
         }
       ],
-      "duration_ms": 241804,
-      "name": "Feels Just Like It",
-      "url": "https://open.spotify.com/track/1hEnVkgNq0t9WFO5Smzq5Y"
+      "duration_ms": 212906,
+      "name": "IOU",
+      "url": "https://open.spotify.com/track/05fPNUOJ5ZwhNBavMU7vIu"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1487,6 +1467,26 @@
       "duration_ms": 186472,
       "name": "High On You",
       "url": "https://open.spotify.com/track/3pT7FxFWaHYbxUIAmZbY5V"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Light Places",
+        "url": "https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Caroline Byrne",
+          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
+        }
+      ],
+      "duration_ms": 241804,
+      "name": "Feels Just Like It",
+      "url": "https://open.spotify.com/track/1hEnVkgNq0t9WFO5Smzq5Y"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/0bGbb6GedLfGM1fJqX3G8a"
+      },
+      "artists": [
+        {
+          "name": "Dillistone",
+          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
+        }
+      ],
+      "duration_ms": 194730,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/1ludJD4Vbpy7LRrHDStEkB"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Colorize 2023 Spring Sampler",
         "url": "https://open.spotify.com/album/2RQiB9SPWqSLQETVpLVacO"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 283953,
       "name": "See You",
       "url": "https://open.spotify.com/track/5xHFQvcmStd8e53BgXChlD"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/0bGbb6GedLfGM1fJqX3G8a"
-      },
-      "artists": [
-        {
-          "name": "Dillistone",
-          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
-        }
-      ],
-      "duration_ms": 194730,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/1ludJD4Vbpy7LRrHDStEkB"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Something Was Real",
-        "url": "https://open.spotify.com/album/282285H5zzpms9M3Bwg0c1"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 222528,
-      "name": "Something Was Real",
-      "url": "https://open.spotify.com/track/7HXqYIF5kMN1XY52GWQKrZ"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Juno",
         "url": "https://open.spotify.com/album/1eQxkBCBAwikauTxmYDjB9"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 273679,
       "name": "Manila Palm",
       "url": "https://open.spotify.com/track/4AoQ3IvQqXjFhvtVyrGfGn"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Something Was Real",
+        "url": "https://open.spotify.com/album/282285H5zzpms9M3Bwg0c1"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 222528,
+      "name": "Something Was Real",
+      "url": "https://open.spotify.com/track/7HXqYIF5kMN1XY52GWQKrZ"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "High Tide",
-        "url": "https://open.spotify.com/album/1GHlNPJAitCBKvrjJeaZsO"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 197150,
-      "name": "High Tide",
-      "url": "https://open.spotify.com/track/1JdScfytE2eaLeVJ7a7KUQ"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Before Dawn",
         "url": "https://open.spotify.com/album/3ClrFAuuK8LNzQg8kMo3zb"
       },
@@ -1851,18 +1835,42 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Catch",
-        "url": "https://open.spotify.com/album/4rS56AkPxsyz6CH2qwRRQa"
+        "name": "Into The Sun (Chill Mix)",
+        "url": "https://open.spotify.com/album/7ix2yVIJHAdLNqIbTBeKil"
       },
       "artists": [
         {
-          "name": "Jones Meadow",
-          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
+          "name": "Latroit",
+          "url": "https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK"
+        },
+        {
+          "name": "Pretty Garter",
+          "url": "https://open.spotify.com/artist/0ikHknT4cbqziewzUdqn3y"
+        },
+        {
+          "name": "Charlz",
+          "url": "https://open.spotify.com/artist/6HlbdrXWMFHgFdbIDX9Znv"
         }
       ],
-      "duration_ms": 243750,
-      "name": "Catch",
-      "url": "https://open.spotify.com/track/0avqD9l3aBJnuMDZMyFPwl"
+      "duration_ms": 164723,
+      "name": "Into The Sun - Chill Mix",
+      "url": "https://open.spotify.com/track/4bXeqbONCSECKqU3XpA5eT"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "High Tide",
+        "url": "https://open.spotify.com/album/1GHlNPJAitCBKvrjJeaZsO"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 197150,
+      "name": "High Tide",
+      "url": "https://open.spotify.com/track/1JdScfytE2eaLeVJ7a7KUQ"
     }
   ],
   "unique_name": "Chill Tracks",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Set the bars high with Malayalam Hip-Hop!\nCover : ThirumaLi",
+  "description": "Set the bars high with Malayalam Hip-Hop!\nCover : Sreenath Bhasi",
   "name": "Hip-Hop Malayalam",
   "tracks": [
     {
@@ -356,7 +356,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 164517,
       "name": "Boss Kid",
       "url": "https://open.spotify.com/track/2mquWSV8POF4pfkQ1eQFOm"
@@ -960,6 +960,28 @@
       "duration_ms": 196153,
       "name": "Minni",
       "url": "https://open.spotify.com/track/306XOjGf2EDuTNv77HdPme"
+    },
+    {
+      "album": {
+        "name": "Mumbai Rap (Mujhko Ishq Karne Ke) (From \"Voice Of Sathyanathan\")",
+        "url": "https://open.spotify.com/album/289YdJjFtfGVDBi484yu8z"
+      },
+      "artists": [
+        {
+          "name": "Ankit Menon",
+          "url": "https://open.spotify.com/artist/4b1Ua3aYPP6ppvnqZdOHjV"
+        },
+        {
+          "name": "Sushant Sudhakaran",
+          "url": "https://open.spotify.com/artist/0vlkuxwsSVsEfvzs0usXIX"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86656,
+      "name": "Mumbai Rap (Mujhko Ishq Karne Ke) - From \"Voice Of Sathyanathan\"",
+      "url": "https://open.spotify.com/track/7zrOxUbSWdajYF99jCLRRZ"
     },
     {
       "album": {

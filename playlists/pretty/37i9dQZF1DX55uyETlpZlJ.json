@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : All OK",
-  "num_followers": 22427,
+  "num_followers": 22434,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2YwNWFlY2IzMDIwMjU5MGFkNTM4ZTcyNzVjNDFkMDViZDg1NTJh",
+  "snapshot_id": "MCxjYmRjOTM0Mzg5MGEwZTVlMmRlZGYzNWYzMjAxNmE1NzVjZDUzYWM2",
   "tracks": [
     {
       "added_at": "2023-07-20 14:31:09",
@@ -121,6 +121,30 @@
       "url": "https://open.spotify.com/track/2wNNoAxQb1VRqKxQMdlwAU"
     },
     {
+      "added_at": "2023-08-09 11:20:57",
+      "album": {
+        "name": "Hogey",
+        "url": "https://open.spotify.com/album/1xEgorMZd60Bof9x0cdqaM"
+      },
+      "artists": [
+        {
+          "name": "A Spike",
+          "url": "https://open.spotify.com/artist/79GVJtxSgPhsDutR2w5C5c"
+        },
+        {
+          "name": "Loud Silence",
+          "url": "https://open.spotify.com/artist/7rpgKYrHf6PqwG0ancMOVl"
+        },
+        {
+          "name": "Hi-Polar",
+          "url": "https://open.spotify.com/artist/5r1MeyZN01dQ963hBaTChW"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Hogey",
+      "url": "https://open.spotify.com/track/1dpbtaXrFGTlXL2HVxAFWz"
+    },
+    {
       "added_at": "2023-07-24 11:52:54",
       "album": {
         "name": "Money In The World",
@@ -179,6 +203,22 @@
       "duration_ms": 269489,
       "name": "Kanmaniye",
       "url": "https://open.spotify.com/track/3qm6n1CpNTb3OllQZpI2db"
+    },
+    {
+      "added_at": "2023-08-09 11:31:08",
+      "album": {
+        "name": "Neeli Modagalu",
+        "url": "https://open.spotify.com/album/4WVkXb39DguSdjVxf8cotL"
+      },
+      "artists": [
+        {
+          "name": "Ashwamedha Karthik",
+          "url": "https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2"
+        }
+      ],
+      "duration_ms": 262381,
+      "name": "Neeli Modagalu",
+      "url": "https://open.spotify.com/track/2685mgG3FA17n55sR9p59k"
     },
     {
       "added_at": "2023-07-24 06:32:12",
@@ -1439,22 +1479,6 @@
       "duration_ms": 215998,
       "name": "Nina Myaale",
       "url": "https://open.spotify.com/track/1DeCiMxWuLboZByKwPgrvz"
-    },
-    {
-      "added_at": "2022-10-12 07:27:40",
-      "album": {
-        "name": "Barede Na",
-        "url": "https://open.spotify.com/album/7yhwdOnfpHsGSQfGiW2Bi6"
-      },
-      "artists": [
-        {
-          "name": "Karna",
-          "url": "https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ"
-        }
-      ],
-      "duration_ms": 210484,
-      "name": "Barede Na",
-      "url": "https://open.spotify.com/track/1GiJHRuSGenOtOaTCD4qIJ"
     }
   ],
   "unique_name": "Kannada Indie",

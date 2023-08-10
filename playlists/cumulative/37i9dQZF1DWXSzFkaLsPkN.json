@@ -377,6 +377,24 @@
     },
     {
       "album": {
+        "name": "Akela",
+        "url": "https://open.spotify.com/album/2UtPYtrj2QPpvFV4PPwSCw"
+      },
+      "artists": [
+        {
+          "name": "Ankur Tewari",
+          "url": "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255855,
+      "name": "Doobay",
+      "url": "https://open.spotify.com/track/6i1UFSwXOzrbnfaNnRkpHT"
+    },
+    {
+      "album": {
         "name": "Door Kahin",
         "url": "https://open.spotify.com/album/3LSrmX5b1H3Y2stUBR8OEs"
       },
@@ -658,7 +676,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 235964,
       "name": "Intezaar",
       "url": "https://open.spotify.com/track/6AlW2ZNQlzIKReQ1CS8J9r"
@@ -956,6 +974,24 @@
       "duration_ms": 218636,
       "name": "Khabar",
       "url": "https://open.spotify.com/track/56dhkwFTzbq3AS54dguEEH"
+    },
+    {
+      "album": {
+        "name": "Khel",
+        "url": "https://open.spotify.com/album/6HTOdI0GLCGQGkKlAYcUeZ"
+      },
+      "artists": [
+        {
+          "name": "Praagya",
+          "url": "https://open.spotify.com/artist/4hO4zxtWs57zrg8B1WkpmP"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185769,
+      "name": "Khel",
+      "url": "https://open.spotify.com/track/20WIpyoAX8iR465ejJlFLT"
     },
     {
       "album": {
@@ -1440,7 +1476,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 251874,
       "name": "Parwaana",
       "url": "https://open.spotify.com/track/1plViHUxnafeKCFKV6Tegs"
@@ -1462,6 +1498,24 @@
       "duration_ms": 237980,
       "name": "Pukaroge",
       "url": "https://open.spotify.com/track/2fLoGliNPrkYu3538MEXAr"
+    },
+    {
+      "album": {
+        "name": "Qissa",
+        "url": "https://open.spotify.com/album/0xMq75IL6dwy0eDgUNRlR6"
+      },
+      "artists": [
+        {
+          "name": "Abhijay Sharma",
+          "url": "https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125777,
+      "name": "Qissa",
+      "url": "https://open.spotify.com/track/0It2E7X6pVAGBUllqfsjbp"
     },
     {
       "album": {
@@ -1632,7 +1686,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 152320,
       "name": "Shehron Ke Raaz",
       "url": "https://open.spotify.com/track/5e4uOUdrpFCKC2kwnXWWtY"

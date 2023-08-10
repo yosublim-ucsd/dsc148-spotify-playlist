@@ -1,12 +1,12 @@
 {
   "description": "Have some chill house with your coffee\n",
-  "num_followers": 118409,
+  "num_followers": 118415,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NWQzNzJlNWU5ZjcwMmJlMTZhMmUxZjk3ZGMyYTE5NTRkYWEyZTY2",
+  "snapshot_id": "MCw3ZGQ1ZjI1MGJmODgwMWFjMzI1ZTkzNWI1ZDY3OWM0MmFiYzFlNGNj",
   "tracks": [
     {
       "added_at": "2023-07-13 22:00:00",
@@ -147,22 +147,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Blue Essay",
-        "url": "https://open.spotify.com/album/5CeAYLrZSYs57HRvNYhkxk"
-      },
-      "artists": [
-        {
-          "name": "Paralax",
-          "url": "https://open.spotify.com/artist/5AfQ9sbCobQlkzSRKQOD1T"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "Blue Essay",
-      "url": "https://open.spotify.com/track/6eW9y2z5RnOllEwl59bjGy"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "Eladio",
         "url": "https://open.spotify.com/album/0GBfIm90An4SD6JJFgdThM"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 138100,
       "name": "Eladio",
       "url": "https://open.spotify.com/track/1OAsSJnZRQif9G66G2QCbs"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "Blue Essay",
+        "url": "https://open.spotify.com/album/5CeAYLrZSYs57HRvNYhkxk"
+      },
+      "artists": [
+        {
+          "name": "Paralax",
+          "url": "https://open.spotify.com/artist/5AfQ9sbCobQlkzSRKQOD1T"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "Blue Essay",
+      "url": "https://open.spotify.com/track/6eW9y2z5RnOllEwl59bjGy"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
+        "name": "Gaia",
+        "url": "https://open.spotify.com/album/5JRX3f42FwJdGRawM04Vsp"
+      },
+      "artists": [
+        {
+          "name": "Yamil",
+          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+        }
+      ],
+      "duration_ms": 245202,
+      "name": "Gaia - Radio Edit",
+      "url": "https://open.spotify.com/track/4ZbY3tViWurTa5JmaitOxX"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
         "name": "Too Hot, Too Cold",
         "url": "https://open.spotify.com/album/0kNwXzdBoqZK48KzqlAvCt"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 246407,
       "name": "Too Hot, Too Cold",
       "url": "https://open.spotify.com/track/2NjeiZqZSRyCdL8xbQehNL"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
-        "name": "Gaia",
-        "url": "https://open.spotify.com/album/5JRX3f42FwJdGRawM04Vsp"
-      },
-      "artists": [
-        {
-          "name": "Yamil",
-          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
-        }
-      ],
-      "duration_ms": 245202,
-      "name": "Gaia - Radio Edit",
-      "url": "https://open.spotify.com/track/4ZbY3tViWurTa5JmaitOxX"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -575,22 +575,18 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Resilience",
-        "url": "https://open.spotify.com/album/02RAJQOn6I2qtoJt13m0Kg"
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/6dR05ScZ3MY5FUaURLYLt1"
       },
       "artists": [
         {
-          "name": "Swann Decamme",
-          "url": "https://open.spotify.com/artist/41AOvXWcYS1IxaItxtahgA"
-        },
-        {
-          "name": "Oktave",
-          "url": "https://open.spotify.com/artist/1EEM7nMm39HPZWTc3xBqbM"
+          "name": "Aydin Genchsoy",
+          "url": "https://open.spotify.com/artist/0or5imSn4LjbK0dBtmYyVK"
         }
       ],
-      "duration_ms": 415903,
-      "name": "Resilience",
-      "url": "https://open.spotify.com/track/48TeoDBw0mNbwF5F3pMhzE"
+      "duration_ms": 264000,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/1wiX35MJoiLaMrFx2Peg5O"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -615,26 +611,22 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Too Many Questions (Remix)",
-        "url": "https://open.spotify.com/album/7k3U9b32T6jfEvb7FhdjpH"
+        "name": "Resilience",
+        "url": "https://open.spotify.com/album/02RAJQOn6I2qtoJt13m0Kg"
       },
       "artists": [
         {
-          "name": "Yamil",
-          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+          "name": "Swann Decamme",
+          "url": "https://open.spotify.com/artist/41AOvXWcYS1IxaItxtahgA"
         },
         {
-          "name": "Humanice",
-          "url": "https://open.spotify.com/artist/6FRbGY9J3Rz0lgIXD6xRAT"
-        },
-        {
-          "name": "Soble",
-          "url": "https://open.spotify.com/artist/7fCe4NFHPsjmaW9qf4wvMR"
+          "name": "Oktave",
+          "url": "https://open.spotify.com/artist/1EEM7nMm39HPZWTc3xBqbM"
         }
       ],
-      "duration_ms": 293529,
-      "name": "Too Many Questions - Soble Remix",
-      "url": "https://open.spotify.com/track/1su02HA4IZMCLuLa8VhFYV"
+      "duration_ms": 415903,
+      "name": "Resilience",
+      "url": "https://open.spotify.com/track/48TeoDBw0mNbwF5F3pMhzE"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -663,18 +655,26 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Arturia",
-        "url": "https://open.spotify.com/album/1x6NXAtpBEYXOLLsB78cI2"
+        "name": "Too Many Questions (Remix)",
+        "url": "https://open.spotify.com/album/7k3U9b32T6jfEvb7FhdjpH"
       },
       "artists": [
         {
-          "name": "Gavinco",
-          "url": "https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6"
+          "name": "Yamil",
+          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+        },
+        {
+          "name": "Humanice",
+          "url": "https://open.spotify.com/artist/6FRbGY9J3Rz0lgIXD6xRAT"
+        },
+        {
+          "name": "Soble",
+          "url": "https://open.spotify.com/artist/7fCe4NFHPsjmaW9qf4wvMR"
         }
       ],
-      "duration_ms": 331960,
-      "name": "Company",
-      "url": "https://open.spotify.com/track/5rUwnnAkh9XcZsLt5hdgoF"
+      "duration_ms": 293529,
+      "name": "Too Many Questions - Soble Remix",
+      "url": "https://open.spotify.com/track/1su02HA4IZMCLuLa8VhFYV"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -695,18 +695,18 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Someday",
-        "url": "https://open.spotify.com/album/6dR05ScZ3MY5FUaURLYLt1"
+        "name": "Arturia",
+        "url": "https://open.spotify.com/album/1x6NXAtpBEYXOLLsB78cI2"
       },
       "artists": [
         {
-          "name": "Aydin Genchsoy",
-          "url": "https://open.spotify.com/artist/0or5imSn4LjbK0dBtmYyVK"
+          "name": "Gavinco",
+          "url": "https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6"
         }
       ],
-      "duration_ms": 264000,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/1wiX35MJoiLaMrFx2Peg5O"
+      "duration_ms": 331960,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/5rUwnnAkh9XcZsLt5hdgoF"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Eyes on You",
-        "url": "https://open.spotify.com/album/5vobo9lKoWbJpwyZAnp0Kl"
-      },
-      "artists": [
-        {
-          "name": "Mike D' Jais",
-          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "Eyes on You",
-      "url": "https://open.spotify.com/track/66EbSUqia2l6aOJvSKpOW7"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "Petricor",
         "url": "https://open.spotify.com/album/0IVYH4XuCGwV5Xdw6oL1nG"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 204427,
       "name": "Petricor",
       "url": "https://open.spotify.com/track/5d4DtQUmvFYubKmOhL0p7m"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "Eyes on You",
+        "url": "https://open.spotify.com/album/5vobo9lKoWbJpwyZAnp0Kl"
+      },
+      "artists": [
+        {
+          "name": "Mike D' Jais",
+          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
+        }
+      ],
+      "duration_ms": 207500,
+      "name": "Eyes on You",
+      "url": "https://open.spotify.com/track/66EbSUqia2l6aOJvSKpOW7"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "<3DAYSOFLOVE",
-        "url": "https://open.spotify.com/album/3rSkEED1B8lUxoQFaNwiTK"
-      },
-      "artists": [
-        {
-          "name": "Hypsidia",
-          "url": "https://open.spotify.com/artist/7yGLwWPe7sZPZwKMUVadkJ"
-        }
-      ],
-      "duration_ms": 305370,
-      "name": "<3DAYSOFLOVE",
-      "url": "https://open.spotify.com/track/29zlMjekcudZdtBi96VEhW"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "Messin' Around (Mogul Remix)",
         "url": "https://open.spotify.com/album/29hveGpUSeZEDiYOw78PdX"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 233626,
       "name": "Messin' Around - Mogul Remix",
       "url": "https://open.spotify.com/track/2MuVffmR9wAEFbXFyd75W8"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "<3DAYSOFLOVE",
+        "url": "https://open.spotify.com/album/3rSkEED1B8lUxoQFaNwiTK"
+      },
+      "artists": [
+        {
+          "name": "Hypsidia",
+          "url": "https://open.spotify.com/artist/7yGLwWPe7sZPZwKMUVadkJ"
+        }
+      ],
+      "duration_ms": 305370,
+      "name": "<3DAYSOFLOVE",
+      "url": "https://open.spotify.com/track/29zlMjekcudZdtBi96VEhW"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "At The Horizon",
-        "url": "https://open.spotify.com/album/1wCdaqAaCROkKGLHQ2htYw"
-      },
-      "artists": [
-        {
-          "name": "Marc Hartman",
-          "url": "https://open.spotify.com/artist/2ACJgAEcjpSAqR2TyGluyS"
-        }
-      ],
-      "duration_ms": 294995,
-      "name": "At The Horizon",
-      "url": "https://open.spotify.com/track/2U47VRLzs7s5DSwpZSlQi2"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "Profound EP",
         "url": "https://open.spotify.com/album/3SSZfZPuBVKpFaSriYWBUt"
       },
@@ -1263,6 +1247,38 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
+        "name": "At The Horizon",
+        "url": "https://open.spotify.com/album/1wCdaqAaCROkKGLHQ2htYw"
+      },
+      "artists": [
+        {
+          "name": "Marc Hartman",
+          "url": "https://open.spotify.com/artist/2ACJgAEcjpSAqR2TyGluyS"
+        }
+      ],
+      "duration_ms": 294995,
+      "name": "At The Horizon",
+      "url": "https://open.spotify.com/track/2U47VRLzs7s5DSwpZSlQi2"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "Natural Movement",
+        "url": "https://open.spotify.com/album/5YzvYAfuFbXc36n4do35Jn"
+      },
+      "artists": [
+        {
+          "name": "Teen Daze",
+          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
+        }
+      ],
+      "duration_ms": 317288,
+      "name": "Back 2 It",
+      "url": "https://open.spotify.com/track/2QBnkgX7ekkoZtlR3ZzLHO"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
         "name": "Blue Ridge",
         "url": "https://open.spotify.com/album/5wY4vCQ7vz1BH2pZhtKrbG"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 410483,
       "name": "Blue Ridge - Artphorm Remix",
       "url": "https://open.spotify.com/track/2eERY2J3WWJhUdwo06MbGC"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
-        "name": "Natural Movement",
-        "url": "https://open.spotify.com/album/5YzvYAfuFbXc36n4do35Jn"
-      },
-      "artists": [
-        {
-          "name": "Teen Daze",
-          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
-        }
-      ],
-      "duration_ms": 317288,
-      "name": "Back 2 It",
-      "url": "https://open.spotify.com/track/2QBnkgX7ekkoZtlR3ZzLHO"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
+        "name": "Proto/Emotions",
+        "url": "https://open.spotify.com/album/4rr2Eq0wpYVm7vPEb4QsrY"
+      },
+      "artists": [
+        {
+          "name": "Black Loops",
+          "url": "https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB"
+        }
+      ],
+      "duration_ms": 319743,
+      "name": "Ballo Da Solo",
+      "url": "https://open.spotify.com/track/78dqpHCQLKp9rwWAQpGBvM"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
         "name": "Hachi",
         "url": "https://open.spotify.com/album/5Z9u65XxlamRAfn05tClOI"
       },
@@ -1479,22 +1495,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Proto/Emotions",
-        "url": "https://open.spotify.com/album/4rr2Eq0wpYVm7vPEb4QsrY"
-      },
-      "artists": [
-        {
-          "name": "Black Loops",
-          "url": "https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB"
-        }
-      ],
-      "duration_ms": 319743,
-      "name": "Ballo Da Solo",
-      "url": "https://open.spotify.com/track/78dqpHCQLKp9rwWAQpGBvM"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/08SC4H56dAvQNwqhbOo18k"
       },
@@ -1515,26 +1515,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Astro Reescrituras",
-        "url": "https://open.spotify.com/album/29sunXe011nEVfz7Yzo7zN"
-      },
-      "artists": [
-        {
-          "name": "Mateo Kingman",
-          "url": "https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx"
-        },
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        }
-      ],
-      "duration_ms": 257183,
-      "name": "Religar - Chancha Via Circuito Remix",
-      "url": "https://open.spotify.com/track/0jlscRIgKn35uudF8MP17p"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "Fading Memories",
         "url": "https://open.spotify.com/album/1DrA0ZU45wJOm46XoAO2Sd"
       },
@@ -1551,6 +1531,26 @@
       "duration_ms": 483808,
       "name": "Fading Memories",
       "url": "https://open.spotify.com/track/2gCzNuIjZQnKj9lMqHjk7X"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "Astro Reescrituras",
+        "url": "https://open.spotify.com/album/29sunXe011nEVfz7Yzo7zN"
+      },
+      "artists": [
+        {
+          "name": "Mateo Kingman",
+          "url": "https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx"
+        },
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        }
+      ],
+      "duration_ms": 257183,
+      "name": "Religar - Chancha Via Circuito Remix",
+      "url": "https://open.spotify.com/track/0jlscRIgKn35uudF8MP17p"
     },
     {
       "added_at": "2023-07-13 22:00:00",

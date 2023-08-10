@@ -4,7 +4,7 @@
 
 > The biggest rock bands/artists in Japan right now! Cover: Quruli\(くるり\)
 
-731 songs - 2 day 0 hr 22 min
+732 songs - 2 day 0 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [Broken Heart of Gold](https://open.spotify.com/track/5DLqCKIi1lquKvGTIjlf6I) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Broken Heart of Gold](https://open.spotify.com/album/5cL6DxdZ1QRc9VlFkEZdXT) | 4:13 | 2022-05-12 | 2022-06-10 |
 | [Brutal Number Girl \- LIVE](https://open.spotify.com/track/3ix6PE1GiYXpJ1ieP1b6hZ) | [Number Girl](https://open.spotify.com/artist/0FXxQ0TEYtebM8gGg0xdoC) | [NUMBER GIRL 無常の日 \(LIVE\)](https://open.spotify.com/album/53SM7JmehI9uYICKm1Z4Qu) | 2:02 | 2023-05-30 | 2023-06-07 |
 | [Bug](https://open.spotify.com/track/3fVMkGyOBs4Yy0DvlbdOTH) | [ART\-SCHOOL](https://open.spotify.com/artist/53qmbfZrKa81AKLdojnxBT) | [luminous](https://open.spotify.com/album/2Zjoq94O4pZZW1cpNxGl6V) | 3:40 | 2023-06-13 | 2023-06-28 |
-| [California coconuts](https://open.spotify.com/track/2VAnn7QXr1jXP3GGvpcYhp) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [California coconuts](https://open.spotify.com/album/7na5aZq54qDZblhOiVRnj0) | 3:55 | 2023-08-08 |  |
+| [California coconuts](https://open.spotify.com/track/0lNrG9JiNQIrSQJ3vzQdcx) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [California coconuts](https://open.spotify.com/album/6jTHO0OfY0J7FjlokGXzH9) | 3:55 | 2023-08-08 |  |
+| [California coconuts](https://open.spotify.com/track/2VAnn7QXr1jXP3GGvpcYhp) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [California coconuts](https://open.spotify.com/album/7na5aZq54qDZblhOiVRnj0) | 3:55 | 2023-08-08 | 2023-08-10 |
 | [CALLING](https://open.spotify.com/track/5BJ03eRmkLzu55YOKn4Eb7) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [CALLING](https://open.spotify.com/album/0TPygxRbXxJluUUnwOOsbN) | 3:27 | 2022-05-10 | 2022-06-08 |
 | [catch me if you can](https://open.spotify.com/track/0MXo1DXnWsRifsywqSKf5I) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [LAST PARADISE](https://open.spotify.com/album/5iXPHOx4enp2jKYSPQTgMd) | 2:06 | 2023-07-11 | 2023-07-13 |
 | [catch me if you can](https://open.spotify.com/track/3oaDrsGHXG4WsKMoXmGBrc) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [LAST PARADISE](https://open.spotify.com/album/2jIf8JcgSXB8mCaAdR9Unx) | 2:06 | 2023-07-11 | 2023-07-19 |

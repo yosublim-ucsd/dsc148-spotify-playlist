@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 
 > Train insane with these Bollywood tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,173 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,273 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 | 44 | [Bhaag D.K\. Bose, Aandhi Aayi](https://open.spotify.com/track/1sxh0eqIb8ulYypPuq6ZRu) | [Ram Sampath](https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx) | [Delhi Belly \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5InIzc3p2f9FRErhzNUPTi) | 4:01 |
 | 45 | [Dilbar](https://open.spotify.com/track/0Ms1V2flsPzr2bVqImelCB) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [Satyameva Jayate](https://open.spotify.com/album/5Ni5qgjE8gMZl4TXrbTwoV) | 3:04 |
 | 46 | [Goa Beach](https://open.spotify.com/track/4obyqyCX0Vx839PTsz1OGf) | [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Goa Beach](https://open.spotify.com/album/7EI4PXzgUDnRVsFCgP8xPF) | 3:38 |
-| 47 | [Odhani \(From "Made in China"\)](https://open.spotify.com/track/2q0V50aNlI1RQXJyE5HDgD) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Odhani \(From "Made in China"\)](https://open.spotify.com/album/55vXKnwnYYVesz6sz6pOSR) | 3:15 |
-| 48 | [Khalibali](https://open.spotify.com/track/3JT0mVof65rIHpRZITwRx1) | [Shivam Pathak](https://open.spotify.com/artist/39nPl2OnVXyxuBApjXkGmj), [Shail Hada](https://open.spotify.com/artist/73oabrcxZFkgjgeJBP5uJC) | [Padmaavat](https://open.spotify.com/album/7mZB5aUcjoHfDKSQtDRXrf) | 4:18 |
+| 47 | [Khalibali](https://open.spotify.com/track/3JT0mVof65rIHpRZITwRx1) | [Shivam Pathak](https://open.spotify.com/artist/39nPl2OnVXyxuBApjXkGmj), [Shail Hada](https://open.spotify.com/artist/73oabrcxZFkgjgeJBP5uJC) | [Padmaavat](https://open.spotify.com/album/7mZB5aUcjoHfDKSQtDRXrf) | 4:18 |
+| 48 | [Odhani \(From "Made in China"\)](https://open.spotify.com/track/2q0V50aNlI1RQXJyE5HDgD) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Odhani \(From "Made in China"\)](https://open.spotify.com/album/55vXKnwnYYVesz6sz6pOSR) | 3:15 |
 | 49 | [Dil Mera Blast](https://open.spotify.com/track/1OjjMsdBWWszjERnKeJbfd) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Dil Mera Blast](https://open.spotify.com/album/0Gk4AsC07XUkqvk0lCbNIw) | 3:09 |
 | 50 | [Bom Diggy Diggy](https://open.spotify.com/track/1OACsTiYokI4NUgnMonSmt) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP), [Jasmin Walia](https://open.spotify.com/artist/4bWGzsNAtfPp8P7pSBukH8) | [Sonu Ke Titu Ki Sweety](https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX) | 3:58 |
 
-Snapshot ID: `MCxhMzkzZWU2ZTBhNDNlYzFiZTQyNGQ1MTg2YTcyNWViNzc3OTRjYmFl`
+Snapshot ID: `MCxhOTlkNTJhMjc1M2FjYzZiNWYyNDk2MGMwYWE5MzBjNGM4Y2I5Mzcx`

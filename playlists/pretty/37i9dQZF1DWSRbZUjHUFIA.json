@@ -1,12 +1,12 @@
 {
   "description": "Keep your workout 100 with these Hip-Hop motivators.",
-  "num_followers": 68850,
+  "num_followers": 68907,
   "original_name": "Work It: Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDhmNDFjNDdhNGIwYzQ5YmU2NDc3MDZjYTM2ZjA5YWUyY2JiYmE4",
+  "snapshot_id": "MCw3ZmU3M2NiNzQ0NDZjYzBkMGQzNDU4Y2M0NTE3ZmZmYzYyMmQ2YTlk",
   "tracks": [
     {
       "added_at": "2023-08-01 05:06:29",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-08-01 05:06:29",
       "album": {
+        "name": "Yeezus",
+        "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 188013,
+      "name": "Black Skinhead",
+      "url": "https://open.spotify.com/track/722tgOgdIbNe3BEyLnejw4"
+    },
+    {
+      "added_at": "2023-08-01 05:06:29",
+      "album": {
         "name": "Perfect Ten",
         "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 192470,
       "name": "Pure Water (with Migos)",
       "url": "https://open.spotify.com/track/3j84U36KvLeXNDPv4t5pI8"
-    },
-    {
-      "added_at": "2023-08-01 05:06:29",
-      "album": {
-        "name": "Yeezus",
-        "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 188013,
-      "name": "Black Skinhead",
-      "url": "https://open.spotify.com/track/722tgOgdIbNe3BEyLnejw4"
     },
     {
       "added_at": "2023-08-01 05:06:29",

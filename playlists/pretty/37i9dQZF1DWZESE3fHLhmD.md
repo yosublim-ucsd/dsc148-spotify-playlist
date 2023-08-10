@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZESE3fHLhmD.md) - [plain]
 
 > Der Soundtrack für deinen Sommer ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,269,618 likes - 70 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,269,780 likes - 70 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZESE3fHLhmD.md) - [plain]
 | 60 | [Summer of Luv \(feat\. Unknown Mortal Orchestra\)](https://open.spotify.com/track/7tMYbJhP6N732MAglwmuJf) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Summer of Luv \(feat\. Unknown Mortal Orchestra\)](https://open.spotify.com/album/7xvecR0lQHuMtwxErfq2JA) | 2:39 |
 | 61 | [More To This Life](https://open.spotify.com/track/6zPyE3kqAboGKv2iKNOEcR) | [Max Giesinger](https://open.spotify.com/artist/224CDJhbm230iSo9ZomTWe), [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [More To This Life](https://open.spotify.com/album/4GAoGetqEAbfALqARE0s4I) | 3:20 |
 | 62 | [Wir haben den Winter überlebt](https://open.spotify.com/track/07kPTchc4mhslGur0QF6lj) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Wir haben den Winter überlebt](https://open.spotify.com/album/16j5gY7gqDM1phRVqzgrbL) | 3:33 |
-| 63 | [Sie](https://open.spotify.com/track/07gGSxcPN5iEnszYgtx73S) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [Sie](https://open.spotify.com/album/1cX0czWPIRtDrC5kdMiNB1) | 3:21 |
-| 64 | [It's Been a Little Heavy Lately](https://open.spotify.com/track/6z8ovqE9jd2IatNvOfFq7S) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 3:41 |
-| 65 | [Happy](https://open.spotify.com/track/3gNGs3jVDgvbJUD8nNCZD0) | [Bukahara](https://open.spotify.com/artist/21K0gLOe4i0o6l1MHd5a6W) | [Canaries in a Coal Mine](https://open.spotify.com/album/6w8FlpM4WCoQNK94V0xruX) | 3:27 |
+| 63 | [Happy](https://open.spotify.com/track/3gNGs3jVDgvbJUD8nNCZD0) | [Bukahara](https://open.spotify.com/artist/21K0gLOe4i0o6l1MHd5a6W) | [Canaries in a Coal Mine](https://open.spotify.com/album/6w8FlpM4WCoQNK94V0xruX) | 3:27 |
+| 64 | [Sie](https://open.spotify.com/track/07gGSxcPN5iEnszYgtx73S) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [Sie](https://open.spotify.com/album/1cX0czWPIRtDrC5kdMiNB1) | 3:21 |
+| 65 | [It's Been a Little Heavy Lately](https://open.spotify.com/track/6z8ovqE9jd2IatNvOfFq7S) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 3:41 |
 | 66 | [Over](https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Over](https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE) | 3:37 |
 | 67 | [Curls](https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ribbons](https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7) | 3:17 |
 | 68 | [Only For A Moment](https://open.spotify.com/track/5M306C6g4kpkzDXGfzjUgC) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Only For A Moment](https://open.spotify.com/album/471pH6iOglOu5GlePOeUqV) | 2:47 |
 | 69 | [vielleicht in einem jahr](https://open.spotify.com/track/7AcPEULNvoFNKyN3tQjkD5) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw) | [vielleicht in einem jahr](https://open.spotify.com/album/13QzEFvk3yyGMTw4ucm41U) | 2:21 |
 | 70 | [do u really? \(with Ruth B.\)](https://open.spotify.com/track/0y6M5yh5WYBZXBTrAAp3cy) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v), [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [do u really?](https://open.spotify.com/album/0GF4XbJWS3wXBssOfKFbb6) | 2:41 |
 
-Snapshot ID: `MCwyODRjZGRiZDhmYjJjYTg3NDlmNjg5NzE5MzdhMjJiMDI1MDdhNTI2`
+Snapshot ID: `MCw0YWNhZjc0NDVjYmE0YjQ1N2E2ZDY0ZjVkODNiOWYxMjkyOTRmYTRj`

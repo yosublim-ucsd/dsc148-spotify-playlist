@@ -1,12 +1,12 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Divisi\u00f3n Min\u00fascula",
-  "num_followers": 282109,
+  "num_followers": 282136,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzljMDhkM2RkYzZmOGQ1YTQ2NzdlNTk2NzUxNTY0NWY3N2QyMmJj",
+  "snapshot_id": "MCwxMWNkODk3MWUyYTU4NmJiODZlODNiZDFlZWIxMGU4ZWYwZmU4ZDI1",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -59,18 +59,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "PORTARSE MAL",
-        "url": "https://open.spotify.com/album/3X0mM0p3c8LhRw6T64svoe"
+        "name": "El ataque de las chicas cocodrilo",
+        "url": "https://open.spotify.com/album/5VrsIoeYTTupAlat4oNpak"
       },
       "artists": [
         {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        },
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
         }
       ],
-      "duration_ms": 192126,
-      "name": "PORTARSE MAL",
-      "url": "https://open.spotify.com/track/20EnydkCy1x6OZsITbWQre"
+      "duration_ms": 157833,
+      "name": "El ataque de las chicas cocodrilo",
+      "url": "https://open.spotify.com/track/4dy99PdH0CM3dbNUwJRoDw"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -91,22 +95,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "El ataque de las chicas cocodrilo",
-        "url": "https://open.spotify.com/album/5VrsIoeYTTupAlat4oNpak"
+        "name": "PORTARSE MAL",
+        "url": "https://open.spotify.com/album/3X0mM0p3c8LhRw6T64svoe"
       },
       "artists": [
         {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
-        },
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
         }
       ],
-      "duration_ms": 157833,
-      "name": "El ataque de las chicas cocodrilo",
-      "url": "https://open.spotify.com/track/4dy99PdH0CM3dbNUwJRoDw"
+      "duration_ms": 192126,
+      "name": "PORTARSE MAL",
+      "url": "https://open.spotify.com/track/20EnydkCy1x6OZsITbWQre"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -163,6 +163,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Mi Mejor Versi\u00f3n",
+        "url": "https://open.spotify.com/album/3vvreW2zeLSPk2FV97TkH3"
+      },
+      "artists": [
+        {
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+        }
+      ],
+      "duration_ms": 201833,
+      "name": "Mi Mejor Versi\u00f3n",
+      "url": "https://open.spotify.com/track/3JA65Jo8LtmZIjlvhB08pG"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Jaula de Oro",
         "url": "https://open.spotify.com/album/7o5gng8f0q586Laakp4Ilv"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 238926,
       "name": "Jaula de Oro",
       "url": "https://open.spotify.com/track/5N9gBB5NObA2S0kv7ABQYs"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Mi Mejor Versi\u00f3n",
-        "url": "https://open.spotify.com/album/3vvreW2zeLSPk2FV97TkH3"
-      },
-      "artists": [
-        {
-          "name": "Walls",
-          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
-        }
-      ],
-      "duration_ms": 201833,
-      "name": "Mi Mejor Versi\u00f3n",
-      "url": "https://open.spotify.com/track/3JA65Jo8LtmZIjlvhB08pG"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -351,26 +351,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "mejores amigos",
-        "url": "https://open.spotify.com/album/4CNWr0Icz7j1ngMho7ZjA8"
+        "name": "L\u00c1 L\u00c1",
+        "url": "https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x"
       },
       "artists": [
         {
-          "name": "Paula Koops",
-          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
-        },
-        {
-          "name": "Candela G\u00f3mez",
-          "url": "https://open.spotify.com/artist/0jIhz2FFQmwcjj63SJh63h"
-        },
-        {
-          "name": "Marmi",
-          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
         }
       ],
-      "duration_ms": 173259,
-      "name": "mejores amigos",
-      "url": "https://open.spotify.com/track/3UO6Hj6xtowWdanb3hs5QR"
+      "duration_ms": 164095,
+      "name": "L\u00c1 L\u00c1",
+      "url": "https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -391,18 +383,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "L\u00c1 L\u00c1",
-        "url": "https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x"
+        "name": "mejores amigos",
+        "url": "https://open.spotify.com/album/4CNWr0Icz7j1ngMho7ZjA8"
       },
       "artists": [
         {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+        },
+        {
+          "name": "Candela G\u00f3mez",
+          "url": "https://open.spotify.com/artist/0jIhz2FFQmwcjj63SJh63h"
+        },
+        {
+          "name": "Marmi",
+          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
         }
       ],
-      "duration_ms": 164095,
-      "name": "L\u00c1 L\u00c1",
-      "url": "https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio"
+      "duration_ms": 173259,
+      "name": "mejores amigos",
+      "url": "https://open.spotify.com/track/3UO6Hj6xtowWdanb3hs5QR"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -495,26 +495,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Me Gustas Tanto",
-        "url": "https://open.spotify.com/album/51rmLgJi9VMG2IBqOxUJH2"
-      },
-      "artists": [
-        {
-          "name": "Paula Koops",
-          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
-        },
-        {
-          "name": "ROBI",
-          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
-        }
-      ],
-      "duration_ms": 121674,
-      "name": "Me Gustas Tanto",
-      "url": "https://open.spotify.com/track/4WBJ91Nw8P9RkknvHbcm3P"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "La Tormenta",
         "url": "https://open.spotify.com/album/3uaWfKbZZf88LBucb3Wxi2"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 175867,
       "name": "Cansado de estar triste",
       "url": "https://open.spotify.com/track/0KhvJklV4bqAuXwFLEEX3x"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Me Gustas Tanto",
+        "url": "https://open.spotify.com/album/51rmLgJi9VMG2IBqOxUJH2"
+      },
+      "artists": [
+        {
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+        },
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        }
+      ],
+      "duration_ms": 121674,
+      "name": "Me Gustas Tanto",
+      "url": "https://open.spotify.com/track/4WBJ91Nw8P9RkknvHbcm3P"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Divergencia",
-        "url": "https://open.spotify.com/album/0kT0qtLqqPl44l7AmWbw5C"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 225640,
-      "name": "Divergencia",
-      "url": "https://open.spotify.com/track/0uA76b98PXOa8dtkjdqor8"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "La Trampa",
         "url": "https://open.spotify.com/album/1LOIcSJvLUkmJlqvxdzVC3"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 216184,
       "name": "La Trampa",
       "url": "https://open.spotify.com/track/5uD1CL09esqtKnRx6oZeqm"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Divergencia",
+        "url": "https://open.spotify.com/album/0kT0qtLqqPl44l7AmWbw5C"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 225640,
+      "name": "Divergencia",
+      "url": "https://open.spotify.com/track/0uA76b98PXOa8dtkjdqor8"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Al Parecer Todo Ha Sido una Trampa",
+        "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 247375,
+      "name": "Perdido",
+      "url": "https://open.spotify.com/track/5S7k88yKKQe2sPPvpZnH3R"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Mechero",
         "url": "https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 155392,
       "name": "Mechero",
       "url": "https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Al Parecer Todo Ha Sido una Trampa",
-        "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 247375,
-      "name": "Perdido",
-      "url": "https://open.spotify.com/track/5S7k88yKKQe2sPPvpZnH3R"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Querernos De Nuevo",
-        "url": "https://open.spotify.com/album/4KOE4Zl1O25anbQ6EunSSk"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
-        }
-      ],
-      "duration_ms": 231994,
-      "name": "Querernos De Nuevo",
-      "url": "https://open.spotify.com/track/1FfSInK2AKyrvKLjKJNQFe"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Gris",
         "url": "https://open.spotify.com/album/4DNxSEEFQ0MdDb1vFZsdpG"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 189586,
       "name": "Gris",
       "url": "https://open.spotify.com/track/5mhBRIDs3aNvg4WZnhRMYy"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Querernos De Nuevo",
+        "url": "https://open.spotify.com/album/4KOE4Zl1O25anbQ6EunSSk"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+        }
+      ],
+      "duration_ms": 231994,
+      "name": "Querernos De Nuevo",
+      "url": "https://open.spotify.com/track/1FfSInK2AKyrvKLjKJNQFe"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Invulnerables",
-        "url": "https://open.spotify.com/album/2jsPDhunOhaszojgFUOEwg"
-      },
-      "artists": [
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        }
-      ],
-      "duration_ms": 242600,
-      "name": "Invulnerables",
-      "url": "https://open.spotify.com/track/2cwzPKMXgXkBNF2RMogu4v"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "UN A\u00d1O DE MIERDA",
         "url": "https://open.spotify.com/album/6FDiDIZgRhpRZcuL7DWQ5O"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 170362,
       "name": "UN A\u00d1O DE MIERDA",
       "url": "https://open.spotify.com/track/6ULVB1kHPglPyGX49qX37Y"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Invulnerables",
+        "url": "https://open.spotify.com/album/2jsPDhunOhaszojgFUOEwg"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "duration_ms": 242600,
+      "name": "Invulnerables",
+      "url": "https://open.spotify.com/track/2cwzPKMXgXkBNF2RMogu4v"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1191,18 +1191,34 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Un Minuto Con Vos",
-        "url": "https://open.spotify.com/album/24ZRYjOa4RXJax493clPnH"
+        "name": "Instinto Felino",
+        "url": "https://open.spotify.com/album/3b7KSl4T0aZx1ET3wMWyqV"
       },
       "artists": [
         {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+          "name": "Comisario Pantera",
+          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
         }
       ],
-      "duration_ms": 245467,
-      "name": "Un Minuto Con Vos",
-      "url": "https://open.spotify.com/track/1HvNrcnunJrJwHTLRFxqbo"
+      "duration_ms": 188431,
+      "name": "Lo Que Nadie Supo Dar",
+      "url": "https://open.spotify.com/track/2vjbQMwQNPqkqqtjFRRiVA"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Astronom\u00eda Interior",
+        "url": "https://open.spotify.com/album/0ozZh31IwYGhCVUOTvZaiu"
+      },
+      "artists": [
+        {
+          "name": "Astronom\u00eda Interior",
+          "url": "https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY"
+        }
+      ],
+      "duration_ms": 203880,
+      "name": "Movimiento",
+      "url": "https://open.spotify.com/track/2pBkGJf561cHhTLHaImDns"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1227,34 +1243,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Astronom\u00eda Interior",
-        "url": "https://open.spotify.com/album/0ozZh31IwYGhCVUOTvZaiu"
+        "name": "Un Minuto Con Vos",
+        "url": "https://open.spotify.com/album/24ZRYjOa4RXJax493clPnH"
       },
       "artists": [
         {
-          "name": "Astronom\u00eda Interior",
-          "url": "https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY"
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 203880,
-      "name": "Movimiento",
-      "url": "https://open.spotify.com/track/2pBkGJf561cHhTLHaImDns"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Instinto Felino",
-        "url": "https://open.spotify.com/album/3b7KSl4T0aZx1ET3wMWyqV"
-      },
-      "artists": [
-        {
-          "name": "Comisario Pantera",
-          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
-        }
-      ],
-      "duration_ms": 188431,
-      "name": "Lo Que Nadie Supo Dar",
-      "url": "https://open.spotify.com/track/2vjbQMwQNPqkqqtjFRRiVA"
+      "duration_ms": 245467,
+      "name": "Un Minuto Con Vos",
+      "url": "https://open.spotify.com/track/1HvNrcnunJrJwHTLRFxqbo"
     },
     {
       "added_at": "2023-08-04 04:00:00",

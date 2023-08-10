@@ -1,12 +1,12 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:04HwAPYr2hTMLjDVrpewQZ\">Izabela Zabielska</a>",
-  "num_followers": 5406,
+  "num_followers": 5568,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmEyZDkwYzBhMDk3ZjhlZmE2NzQ3Nzc1NGVhMWFiNjI0ZmVjNTE2",
+  "snapshot_id": "MCxkZmI3YTEzNzdiNzYyNzViYzQwMjY1ZmZhN2IwYmFhMzU4MGMzMmVi",
   "tracks": [
     {
       "added_at": "2023-08-07 22:02:00",
@@ -103,6 +103,22 @@
     {
       "added_at": "2023-08-07 22:02:00",
       "album": {
+        "name": "MAJU\u015a",
+        "url": "https://open.spotify.com/album/35FokD9pQ8OMZ1C0ZJHz7b"
+      },
+      "artists": [
+        {
+          "name": "27.Fuckdemons",
+          "url": "https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw"
+        }
+      ],
+      "duration_ms": 137166,
+      "name": "MAJU\u015a",
+      "url": "https://open.spotify.com/track/5fPPFNftcGOcQOFerDTRwY"
+    },
+    {
+      "added_at": "2023-08-07 22:02:00",
+      "album": {
         "name": "Better Off",
         "url": "https://open.spotify.com/album/0ehpKSEaud7WMcMNUNiPui"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 230489,
       "name": "Better Off",
       "url": "https://open.spotify.com/track/1tEGMBP6luVt9q9nImOooY"
-    },
-    {
-      "added_at": "2023-08-07 22:02:00",
-      "album": {
-        "name": "MAJU\u015a",
-        "url": "https://open.spotify.com/album/35FokD9pQ8OMZ1C0ZJHz7b"
-      },
-      "artists": [
-        {
-          "name": "27.Fuckdemons",
-          "url": "https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw"
-        }
-      ],
-      "duration_ms": 137166,
-      "name": "MAJU\u015a",
-      "url": "https://open.spotify.com/track/5fPPFNftcGOcQOFerDTRwY"
     },
     {
       "added_at": "2023-08-07 22:02:00",
@@ -223,6 +223,22 @@
     {
       "added_at": "2023-08-07 22:02:00",
       "album": {
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/0A7DfszejiHBJaGH7VSkgj"
+      },
+      "artists": [
+        {
+          "name": "Zamilska",
+          "url": "https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/677URO2eaUkEKpGeKq6Lds"
+    },
+    {
+      "added_at": "2023-08-07 22:02:00",
+      "album": {
         "name": "Wi\u015bnie",
         "url": "https://open.spotify.com/album/36r8s1qS0kWuyJ75mTCPhG"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 162666,
       "name": "Wi\u015bnie",
       "url": "https://open.spotify.com/track/0frZIsYPQzYsbPZ2owz3yp"
-    },
-    {
-      "added_at": "2023-08-07 22:02:00",
-      "album": {
-        "name": "Sabota\u017cysta",
-        "url": "https://open.spotify.com/album/4VbtUJcMmWyCZgZ9jy9V6G"
-      },
-      "artists": [
-        {
-          "name": "Kamil Kempi\u0144ski",
-          "url": "https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Sabota\u017cysta",
-      "url": "https://open.spotify.com/track/7GT16KwtIp4MZiZLCcg7sC"
     },
     {
       "added_at": "2023-08-07 22:02:00",
@@ -271,18 +271,18 @@
     {
       "added_at": "2023-08-07 22:02:00",
       "album": {
-        "name": "Fragile",
-        "url": "https://open.spotify.com/album/0A7DfszejiHBJaGH7VSkgj"
+        "name": "Sabota\u017cysta",
+        "url": "https://open.spotify.com/album/4VbtUJcMmWyCZgZ9jy9V6G"
       },
       "artists": [
         {
-          "name": "Zamilska",
-          "url": "https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH"
+          "name": "Kamil Kempi\u0144ski",
+          "url": "https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Fragile",
-      "url": "https://open.spotify.com/track/677URO2eaUkEKpGeKq6Lds"
+      "duration_ms": 204000,
+      "name": "Sabota\u017cysta",
+      "url": "https://open.spotify.com/track/7GT16KwtIp4MZiZLCcg7sC"
     },
     {
       "added_at": "2023-08-07 22:02:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-08-07 22:02:00",
       "album": {
-        "name": "Bezsens",
-        "url": "https://open.spotify.com/album/5EncNKYnNabcgchchBYRc8"
-      },
-      "artists": [
-        {
-          "name": "Izabela Zabielska",
-          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
-        }
-      ],
-      "duration_ms": 163076,
-      "name": "Bezsens",
-      "url": "https://open.spotify.com/track/0NLrg1VRaqlb65kvm1dnKw"
-    },
-    {
-      "added_at": "2023-08-07 22:02:00",
-      "album": {
         "name": "bezdech",
         "url": "https://open.spotify.com/album/33FAfgaa5ZMKsJElVNO16R"
       },
@@ -407,18 +391,18 @@
     {
       "added_at": "2023-08-07 22:02:00",
       "album": {
-        "name": "Wracam",
-        "url": "https://open.spotify.com/album/7vBSmec8G7ST9ble2orZEB"
+        "name": "Bezsens",
+        "url": "https://open.spotify.com/album/5EncNKYnNabcgchchBYRc8"
       },
       "artists": [
         {
-          "name": "Stysio",
-          "url": "https://open.spotify.com/artist/4nZ1fSGL8lu414cuxphyhT"
+          "name": "Izabela Zabielska",
+          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
         }
       ],
-      "duration_ms": 168387,
-      "name": "Wracam",
-      "url": "https://open.spotify.com/track/7rCkGuPH5dbEx2seHeFE2N"
+      "duration_ms": 163076,
+      "name": "Bezsens",
+      "url": "https://open.spotify.com/track/0NLrg1VRaqlb65kvm1dnKw"
     },
     {
       "added_at": "2023-08-07 22:02:00",
@@ -435,6 +419,22 @@
       "duration_ms": 181823,
       "name": "Better Place",
       "url": "https://open.spotify.com/track/2MlHGVbFRP1BUf0mP7Gm4p"
+    },
+    {
+      "added_at": "2023-08-07 22:02:00",
+      "album": {
+        "name": "Wracam",
+        "url": "https://open.spotify.com/album/7vBSmec8G7ST9ble2orZEB"
+      },
+      "artists": [
+        {
+          "name": "Stysio",
+          "url": "https://open.spotify.com/artist/4nZ1fSGL8lu414cuxphyhT"
+        }
+      ],
+      "duration_ms": 168387,
+      "name": "Wracam",
+      "url": "https://open.spotify.com/track/7rCkGuPH5dbEx2seHeFE2N"
     },
     {
       "added_at": "2023-08-07 22:02:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-08-07 22:02:00",
       "album": {
-        "name": "SLAY",
-        "url": "https://open.spotify.com/album/09pZiA20YaLGEHkqGqzC9m"
-      },
-      "artists": [
-        {
-          "name": "Shady Lady",
-          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "SLAY",
-      "url": "https://open.spotify.com/track/5inHdBzp49cEZ96hvpRug4"
-    },
-    {
-      "added_at": "2023-08-07 22:02:00",
-      "album": {
         "name": "Red Flag",
         "url": "https://open.spotify.com/album/5ogmBRaKh9KkVRZycRnP1u"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 168224,
       "name": "Red Flag",
       "url": "https://open.spotify.com/track/7CaxmQCb4APvMLQaVJhCTR"
+    },
+    {
+      "added_at": "2023-08-07 22:02:00",
+      "album": {
+        "name": "SLAY",
+        "url": "https://open.spotify.com/album/09pZiA20YaLGEHkqGqzC9m"
+      },
+      "artists": [
+        {
+          "name": "Shady Lady",
+          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "SLAY",
+      "url": "https://open.spotify.com/track/5inHdBzp49cEZ96hvpRug4"
     },
     {
       "added_at": "2023-08-07 22:02:00",
@@ -519,18 +519,18 @@
     {
       "added_at": "2023-08-07 22:02:00",
       "album": {
-        "name": "Spina",
-        "url": "https://open.spotify.com/album/4tsyIKqr0ikFU4Az20FzSd"
+        "name": "tw\u00f3j zapach",
+        "url": "https://open.spotify.com/album/6p3kfcHv9XXnvY0yTMyq4K"
       },
       "artists": [
         {
-          "name": "Lulu x Uaziuk",
-          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
+          "name": "thekayetan",
+          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
         }
       ],
-      "duration_ms": 213921,
-      "name": "Spina",
-      "url": "https://open.spotify.com/track/7C0wMSnBrPRZbemrJnU0mX"
+      "duration_ms": 180000,
+      "name": "tw\u00f3j zapach",
+      "url": "https://open.spotify.com/track/0irIpENIile1obCEpugDL1"
     },
     {
       "added_at": "2023-08-07 22:02:00",
@@ -567,22 +567,18 @@
     {
       "added_at": "2023-08-07 22:02:00",
       "album": {
-        "name": "The Moon",
-        "url": "https://open.spotify.com/album/1zagFHQjBkeYbAQBTfcbsU"
+        "name": "Spina",
+        "url": "https://open.spotify.com/album/4tsyIKqr0ikFU4Az20FzSd"
       },
       "artists": [
         {
-          "name": "Youth Novels",
-          "url": "https://open.spotify.com/artist/3Mnsk5N6fdCc5svXTunb3D"
-        },
-        {
-          "name": "Iwona Skv",
-          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
+          "name": "Lulu x Uaziuk",
+          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
         }
       ],
-      "duration_ms": 284422,
-      "name": "The Moon",
-      "url": "https://open.spotify.com/track/0OE1ohr4hpGd7icsVJ8W8g"
+      "duration_ms": 213921,
+      "name": "Spina",
+      "url": "https://open.spotify.com/track/7C0wMSnBrPRZbemrJnU0mX"
     },
     {
       "added_at": "2023-08-07 22:02:00",
@@ -603,22 +599,6 @@
     {
       "added_at": "2023-08-07 22:02:00",
       "album": {
-        "name": "tw\u00f3j zapach",
-        "url": "https://open.spotify.com/album/6p3kfcHv9XXnvY0yTMyq4K"
-      },
-      "artists": [
-        {
-          "name": "thekayetan",
-          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "tw\u00f3j zapach",
-      "url": "https://open.spotify.com/track/0irIpENIile1obCEpugDL1"
-    },
-    {
-      "added_at": "2023-08-07 22:02:00",
-      "album": {
         "name": "OLIMP",
         "url": "https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 192557,
       "name": "Tamto Lato",
       "url": "https://open.spotify.com/track/6EEZGOaQrpIA8ItnjkxfFc"
+    },
+    {
+      "added_at": "2023-08-07 22:02:00",
+      "album": {
+        "name": "The Moon",
+        "url": "https://open.spotify.com/album/1zagFHQjBkeYbAQBTfcbsU"
+      },
+      "artists": [
+        {
+          "name": "Youth Novels",
+          "url": "https://open.spotify.com/artist/3Mnsk5N6fdCc5svXTunb3D"
+        },
+        {
+          "name": "Iwona Skv",
+          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
+        }
+      ],
+      "duration_ms": 284422,
+      "name": "The Moon",
+      "url": "https://open.spotify.com/track/0OE1ohr4hpGd7icsVJ8W8g"
     },
     {
       "added_at": "2023-08-07 22:02:00",
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-08-07 22:02:00",
       "album": {
-        "name": "Bezpowrotnie",
-        "url": "https://open.spotify.com/album/6zmndzBsKowsmJBxlNeT06"
+        "name": "Stamina",
+        "url": "https://open.spotify.com/album/698CpODMEheVL58NRNUKUE"
       },
       "artists": [
         {
-          "name": "Zawadzki",
-          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
+          "name": "Decadent Fun Club",
+          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
         }
       ],
-      "duration_ms": 182219,
-      "name": "Bezpowrotnie",
-      "url": "https://open.spotify.com/track/1tbfKxKjznTSgwR8PX0WSc"
+      "duration_ms": 262014,
+      "name": "Stamina",
+      "url": "https://open.spotify.com/track/4yVnVhWGIN2E2Gl6GgFU6t"
     },
     {
       "added_at": "2023-08-07 22:02:00",
@@ -703,58 +703,6 @@
     {
       "added_at": "2023-08-07 22:02:00",
       "album": {
-        "name": "Dolce Vita",
-        "url": "https://open.spotify.com/album/1m0XMvYDp5d19yxvs4NblQ"
-      },
-      "artists": [
-        {
-          "name": "Lulu x Uaziuk",
-          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
-        },
-        {
-          "name": "NIEB\u00d8",
-          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
-        }
-      ],
-      "duration_ms": 234246,
-      "name": "Dolce Vita",
-      "url": "https://open.spotify.com/track/2IfNpjacG5irElu8VbHU9r"
-    },
-    {
-      "added_at": "2023-08-07 22:02:00",
-      "album": {
-        "name": "Stamina",
-        "url": "https://open.spotify.com/album/698CpODMEheVL58NRNUKUE"
-      },
-      "artists": [
-        {
-          "name": "Decadent Fun Club",
-          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
-        }
-      ],
-      "duration_ms": 262014,
-      "name": "Stamina",
-      "url": "https://open.spotify.com/track/4yVnVhWGIN2E2Gl6GgFU6t"
-    },
-    {
-      "added_at": "2023-08-07 22:02:00",
-      "album": {
-        "name": "Maski",
-        "url": "https://open.spotify.com/album/2ySVc9A0CxOUm65gOsYFCK"
-      },
-      "artists": [
-        {
-          "name": "Mona Lizak",
-          "url": "https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb"
-        }
-      ],
-      "duration_ms": 254436,
-      "name": "Monsters",
-      "url": "https://open.spotify.com/track/5sFeA9E3XBROiOBTCOMfUa"
-    },
-    {
-      "added_at": "2023-08-07 22:02:00",
-      "album": {
         "name": "Bolt",
         "url": "https://open.spotify.com/album/5Alc4ujo7Q3ISxeKd9gV62"
       },
@@ -771,18 +719,38 @@
     {
       "added_at": "2023-08-07 22:02:00",
       "album": {
-        "name": "psychodynamiczne",
-        "url": "https://open.spotify.com/album/2Jp3mZywGkxMFB5Wu2p5s9"
+        "name": "Bezpowrotnie",
+        "url": "https://open.spotify.com/album/6zmndzBsKowsmJBxlNeT06"
       },
       "artists": [
         {
-          "name": "thekayetan",
-          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
+          "name": "Zawadzki",
+          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
         }
       ],
-      "duration_ms": 190000,
-      "name": "priorytetem",
-      "url": "https://open.spotify.com/track/1AEjEwTDNB0nZkQFHtbZux"
+      "duration_ms": 182219,
+      "name": "Bezpowrotnie",
+      "url": "https://open.spotify.com/track/1tbfKxKjznTSgwR8PX0WSc"
+    },
+    {
+      "added_at": "2023-08-07 22:02:00",
+      "album": {
+        "name": "Dolce Vita",
+        "url": "https://open.spotify.com/album/1m0XMvYDp5d19yxvs4NblQ"
+      },
+      "artists": [
+        {
+          "name": "Lulu x Uaziuk",
+          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
+        },
+        {
+          "name": "NIEB\u00d8",
+          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
+        }
+      ],
+      "duration_ms": 234246,
+      "name": "Dolce Vita",
+      "url": "https://open.spotify.com/track/2IfNpjacG5irElu8VbHU9r"
     },
     {
       "added_at": "2023-08-07 22:02:00",
@@ -807,6 +775,22 @@
     {
       "added_at": "2023-08-07 22:02:00",
       "album": {
+        "name": "psychodynamiczne",
+        "url": "https://open.spotify.com/album/2Jp3mZywGkxMFB5Wu2p5s9"
+      },
+      "artists": [
+        {
+          "name": "thekayetan",
+          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "priorytetem",
+      "url": "https://open.spotify.com/track/1AEjEwTDNB0nZkQFHtbZux"
+    },
+    {
+      "added_at": "2023-08-07 22:02:00",
+      "album": {
         "name": "OLIMP",
         "url": "https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb"
       },
@@ -823,34 +807,18 @@
     {
       "added_at": "2023-08-07 22:02:00",
       "album": {
-        "name": "Glitterball",
-        "url": "https://open.spotify.com/album/0SB81B0hf9QUkm1klnP2si"
+        "name": "Maski",
+        "url": "https://open.spotify.com/album/2ySVc9A0CxOUm65gOsYFCK"
       },
       "artists": [
         {
-          "name": "Decadent Fun Club",
-          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
+          "name": "Mona Lizak",
+          "url": "https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb"
         }
       ],
-      "duration_ms": 306056,
-      "name": "Glitterball",
-      "url": "https://open.spotify.com/track/6J5TokKxTZPXCGzRRVEc4x"
-    },
-    {
-      "added_at": "2023-08-07 22:02:00",
-      "album": {
-        "name": "Przed siebie",
-        "url": "https://open.spotify.com/album/08met7OFAeiVa1eiwRUiHi"
-      },
-      "artists": [
-        {
-          "name": "Oskar Kucmann",
-          "url": "https://open.spotify.com/artist/6QCsE5n2rSQiqzKS2DSQJK"
-        }
-      ],
-      "duration_ms": 183178,
-      "name": "Przed siebie",
-      "url": "https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7"
+      "duration_ms": 254436,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/5sFeA9E3XBROiOBTCOMfUa"
     },
     {
       "added_at": "2023-08-07 22:02:00",
@@ -867,6 +835,22 @@
       "duration_ms": 251216,
       "name": "Jeszcze mam serce",
       "url": "https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw"
+    },
+    {
+      "added_at": "2023-08-07 22:02:00",
+      "album": {
+        "name": "Przed siebie",
+        "url": "https://open.spotify.com/album/08met7OFAeiVa1eiwRUiHi"
+      },
+      "artists": [
+        {
+          "name": "Oskar Kucmann",
+          "url": "https://open.spotify.com/artist/6QCsE5n2rSQiqzKS2DSQJK"
+        }
+      ],
+      "duration_ms": 183178,
+      "name": "Przed siebie",
+      "url": "https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7"
     },
     {
       "added_at": "2023-08-07 22:02:00",
@@ -907,22 +891,6 @@
     {
       "added_at": "2023-08-07 22:02:00",
       "album": {
-        "name": "POT\u0118\u017bNE LESBIJKI Z MIECZAMI",
-        "url": "https://open.spotify.com/album/47jrlicjC5poOuxmBtgBZ7"
-      },
-      "artists": [
-        {
-          "name": "Brokatowe Damy",
-          "url": "https://open.spotify.com/artist/3NCIJgTchxctVxgH1oOiVX"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Cztery Dwa Zero",
-      "url": "https://open.spotify.com/track/4UfS5O48srRx2V1HGjYApg"
-    },
-    {
-      "added_at": "2023-08-07 22:02:00",
-      "album": {
         "name": "Stamina",
         "url": "https://open.spotify.com/album/698CpODMEheVL58NRNUKUE"
       },
@@ -935,22 +903,6 @@
       "duration_ms": 225920,
       "name": "Tango",
       "url": "https://open.spotify.com/track/4a2OePCLrPoBzQdjpHrcq4"
-    },
-    {
-      "added_at": "2023-08-07 22:02:00",
-      "album": {
-        "name": "Przypadki",
-        "url": "https://open.spotify.com/album/3zTSTlliW1LwlJTQHvBuCG"
-      },
-      "artists": [
-        {
-          "name": "Zawadzki",
-          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
-        }
-      ],
-      "duration_ms": 190443,
-      "name": "Przypadki",
-      "url": "https://open.spotify.com/track/2fPkzFLaLi7ejMidEakhw2"
     },
     {
       "added_at": "2023-08-07 22:02:00",
@@ -971,6 +923,22 @@
     {
       "added_at": "2023-08-07 22:02:00",
       "album": {
+        "name": "Przypadki",
+        "url": "https://open.spotify.com/album/3zTSTlliW1LwlJTQHvBuCG"
+      },
+      "artists": [
+        {
+          "name": "Zawadzki",
+          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
+        }
+      ],
+      "duration_ms": 190443,
+      "name": "Przypadki",
+      "url": "https://open.spotify.com/track/2fPkzFLaLi7ejMidEakhw2"
+    },
+    {
+      "added_at": "2023-08-07 22:02:00",
+      "album": {
         "name": "Polska",
         "url": "https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR"
       },
@@ -983,6 +951,22 @@
       "duration_ms": 243062,
       "name": "Polska",
       "url": "https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L"
+    },
+    {
+      "added_at": "2023-08-07 22:02:00",
+      "album": {
+        "name": "Nie ma",
+        "url": "https://open.spotify.com/album/51M4DQti8EHFtBk7vNmM1M"
+      },
+      "artists": [
+        {
+          "name": "Iwona Skv",
+          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
+        }
+      ],
+      "duration_ms": 202419,
+      "name": "Nie ma",
+      "url": "https://open.spotify.com/track/3MFmVJjXCv6gQq5LkbMnqT"
     },
     {
       "added_at": "2023-08-07 22:02:00",
@@ -1003,18 +987,34 @@
     {
       "added_at": "2023-08-07 22:02:00",
       "album": {
-        "name": "Dziewczynka Tatusia",
-        "url": "https://open.spotify.com/album/0rHwKAVgJQJxBIzH3dSL7B"
+        "name": "DOM",
+        "url": "https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH"
       },
       "artists": [
         {
-          "name": "Sylvia Baudelaire",
-          "url": "https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF"
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
         }
       ],
-      "duration_ms": 141340,
-      "name": "Barbie",
-      "url": "https://open.spotify.com/track/6qw0cxzRzqAw9EctLLSGkX"
+      "duration_ms": 243979,
+      "name": "Cie\u0144",
+      "url": "https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ"
+    },
+    {
+      "added_at": "2023-08-07 22:02:00",
+      "album": {
+        "name": "Glitterball",
+        "url": "https://open.spotify.com/album/0SB81B0hf9QUkm1klnP2si"
+      },
+      "artists": [
+        {
+          "name": "Decadent Fun Club",
+          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
+        }
+      ],
+      "duration_ms": 306056,
+      "name": "Glitterball",
+      "url": "https://open.spotify.com/track/6J5TokKxTZPXCGzRRVEc4x"
     }
   ],
   "unique_name": "GLOW Polska",

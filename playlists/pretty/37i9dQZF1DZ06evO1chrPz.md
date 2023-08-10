@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 
 > This is Bethel Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,481 likes - 50 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,527 likes - 50 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 35 | [Tremble](https://open.spotify.com/track/4cMLthbMtEEghWm4C6jkfO) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Genesis](https://open.spotify.com/album/0CLCgSt8wDFmoDpLLN09X2) | 3:21 |
 | 36 | [By the Grace of God](https://open.spotify.com/track/2NLGDqOvvIU1ZNzAFHeVcO) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9) | [Peace](https://open.spotify.com/album/5ooqN8wLOZ4zAYo23v3GfA) | 5:19 |
 | 37 | [Homecoming \- Live](https://open.spotify.com/track/18Kt9lI9qQK5hUHtaIPOP2) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU), [Gable Price](https://open.spotify.com/artist/2X5RuQR8hFFPlPjMPLzrKa) | [Homecoming \(Live\)](https://open.spotify.com/album/1lYaL9YlcMsLXXhmJMDrNL) | 7:48 |
-| 38 | [Anything Is Possible \- Live](https://open.spotify.com/track/64nXCNi7Ct1wi5Q6VROGAF) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Revival's In The Air \(Live\)](https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2) | 4:54 |
-| 39 | [We Dance \- Live](https://open.spotify.com/track/32DCSsnAxX8jpmu9w6C8DW) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [You Make Me Brave \(Live\)](https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM) | 4:41 |
+| 38 | [We Dance \- Live](https://open.spotify.com/track/32DCSsnAxX8jpmu9w6C8DW) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [You Make Me Brave \(Live\)](https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM) | 4:41 |
+| 39 | [Anything Is Possible \- Live](https://open.spotify.com/track/64nXCNi7Ct1wi5Q6VROGAF) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Revival's In The Air \(Live\)](https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2) | 4:54 |
 | 40 | [Extravagant \- Live](https://open.spotify.com/track/5UivJ02lC3RH9MmAysIltU) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Starlight \(Live\)](https://open.spotify.com/album/1m7Bc6eGK8BgjTpwprlhUh) | 6:11 |
 | 41 | [Too Good To Not Believe \- Live](https://open.spotify.com/track/2ZUEopklc3lUm4OXUPB6WS) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Too Good To Not Believe \(Live\)](https://open.spotify.com/album/2KgvpDpy6tpCQoqy3ZzwIZ) | 10:33 |
 | 42 | [Do It Again](https://open.spotify.com/track/33VLrOZbnbz5pGSY2neHyO) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Genesis](https://open.spotify.com/album/0CLCgSt8wDFmoDpLLN09X2) | 5:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 49 | [Inheritance](https://open.spotify.com/track/2ebUFQNAvcHbyrCVxPWw0V) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Emmy Rose](https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo) | [Come Up Here](https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03) | 3:56 |
 | 50 | [Cómo No Voy A Creer](https://open.spotify.com/track/1zZ9eHeIQuufBgUd8rnkRf) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Homecoming \(Español\)](https://open.spotify.com/album/20CnEGNCGv7sCWnV3AaC2o) | 10:33 |
 
-Snapshot ID: `MjgxOTE2NzksMDAwMDAwMDBiZjNkZmNlZTViZjBkNzUwNWI2ODMxZWMzYzRjNDQyNg==`
+Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDBlMzZkM2U1MjAwYzkyY2FhMDdiMzNiZDJiMDA1N2U1MA==`

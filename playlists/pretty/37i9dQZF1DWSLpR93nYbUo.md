@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 
 > Ouça as novidades da cena eletrônica\. Foto: Santti
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,357 likes - 70 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,364 likes - 70 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 | 69 | [Games](https://open.spotify.com/track/6tV7bSrAgUGzstmScPns5d) | [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [EdLez](https://open.spotify.com/artist/0baFK0NlVekOClJqsKROus), [Enjoy](https://open.spotify.com/artist/0ZSTWEe3Oclgybgf1J1ftW), [Hektor](https://open.spotify.com/artist/4tBrbHzJCJ8MsXrupW3E7N) | [Games](https://open.spotify.com/album/1p5dF2casdIMILRmxpvPPy) | 3:13 |
 | 70 | [Mary Jane](https://open.spotify.com/track/2ufkb3FQTmK8OJpP7dZ5oB) | [Softmal](https://open.spotify.com/artist/6q8mKMXDLqubwlUJo9J5pZ), [LLølita](https://open.spotify.com/artist/0fnCSuylj2kNfNzpvmFeM3) | [Mary Jane](https://open.spotify.com/album/0bOPG9YALZ4nbNA9u3I7XU) | 5:10 |
 
-Snapshot ID: `MCw1ZmE5Y2Y0YTQ5OTk3OGMzNTM3NWJjNDUwYzFmYTc4ZWE3MzYyMTQy`
+Snapshot ID: `MCxhNTRhNDJjN2IxYzcwYjY0OGMzMTIzYmVkYmVhYjZiNjY4MmQwY2Qx`

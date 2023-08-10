@@ -2,9 +2,9 @@
 
 ### [Suara Dari Jawa Barat](https://open.spotify.com/playlist/37i9dQZF1DX2ngZHk5xUsP)
 
-> Ragam musik IDentitasku dari berbagai penjuru Jawa Barat\. Cover: Angie Zelena
+> Ragam musik IDentitasku dari berbagai penjuru Jawa Barat\. Cover: Rossa
 
-78 songs - 4 hr 53 min
+81 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Kaqotun](https://open.spotify.com/track/4Go5gWOhnFCqn6RpEjZmm7) | [Sillas](https://open.spotify.com/artist/1DGiCzaCRZdqGyOC3c2Z6y) | [Kaqotun](https://open.spotify.com/album/2mqq8dZc8acR395hXcXVhL) | 5:13 | 2023-03-16 |  |
 | [Kataji](https://open.spotify.com/track/4HUmuIdScp4K9yjaCk73pD) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [YURA](https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8) | 3:42 | 2023-03-16 |  |
 | [Kelana](https://open.spotify.com/track/7kAhOXTPVwKODIWUzSosi1) | [Mooner](https://open.spotify.com/artist/3Nq3ERFOZXkIxMjESQxrWL) | [O\. M.](https://open.spotify.com/album/1q2oM4KRamlQUldy9Zcf6W) | 3:42 | 2023-03-16 |  |
+| [Khanti \(Original Soundtrack from Bidadari Bermata Bening\)](https://open.spotify.com/track/3UAqNuP74Su2h7zOXXIbWm) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Khanti \(Original Soundtrack from Bidadari Bermata Bening\)](https://open.spotify.com/album/2ff9pyMaCGKVhltK61VYTb) | 3:25 | 2023-08-09 |  |
 | [Khayalan Tingkat Tinggi](https://open.spotify.com/track/2hh76rbGThjiPE1vUVa9Lg) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Khayalan Tingkat Tinggi](https://open.spotify.com/album/0zjNUO3CQhuWDYZIeKT4l7) | 3:05 | 2023-04-27 |  |
 | [Kosong](https://open.spotify.com/track/0bwy5RyhiWUVMXRt4MOVFA) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn) | [Time for a Change / Time to Move On](https://open.spotify.com/album/7lbJEFQEGUs1pBQfOcbdKV) | 3:28 | 2023-03-16 |  |
 | [Lantas](https://open.spotify.com/track/1ZPVEo8RfmrEz8YAD5n6rW) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Sentimental](https://open.spotify.com/album/17vUW6koeUkV58uYfkK6G3) | 3:54 | 2023-03-16 |  |
@@ -52,6 +53,7 @@
 | [Love Saturday](https://open.spotify.com/track/24unKxTtjxhMSIJ64XbFCS) | [Bottlesmoker](https://open.spotify.com/artist/16MalIQgGrZWovgflIVr0I) | [Hypnagogic](https://open.spotify.com/album/2feY3htG1EXcmCBTfyLE5F) | 4:05 | 2023-03-16 |  |
 | [Lupakan Cinta](https://open.spotify.com/track/4QhfKUW0Qn1W4nCfnjptw7) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Another Journey : The Beginning](https://open.spotify.com/album/03623GeJY8TZR7v0KoMQs0) | 3:48 | 2023-03-16 |  |
 | [Malaria](https://open.spotify.com/track/4wwwdmufC8EWrU0sWpT3PB) | [Harry Roesli Gang](https://open.spotify.com/artist/504yLLdKsDJ4UCtVYPRcDF) | [Philosophy Gang](https://open.spotify.com/album/7Lk4rAv9PxwaU0ymdulZmv) | 3:02 | 2023-03-16 |  |
+| [Masih](https://open.spotify.com/track/6GU3OTg3eOPlDQ4A9r1Jap) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Another Journey : The Beginning](https://open.spotify.com/album/03623GeJY8TZR7v0KoMQs0) | 3:35 | 2023-08-09 |  |
 | [Mereguk Anti Depresan Lagi](https://open.spotify.com/track/4nWqe6ojnCrOZWsGHqdpWE) | [The Jansen](https://open.spotify.com/artist/0q3MCOdd2qGlN2TxJdr0SQ) | [Mereguk Anti Depresan Lagi](https://open.spotify.com/album/7DxaK1trwu4UD76ldZ4JvI) | 3:51 | 2023-03-16 |  |
 | [MOKSA](https://open.spotify.com/track/5vGj9cAtJRhzNlqEdUOyrs) | [Saptarasa](https://open.spotify.com/artist/3dnQwz2O4A87p0qKzP7e8M) | [MOKSA](https://open.spotify.com/album/7fBsK8IA2iooPAPzChSPaF) | 4:51 | 2023-03-16 |  |
 | [Monokrom](https://open.spotify.com/track/4GfK1qOF3uBWidbPlTCQRL) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Monokrom](https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ) | 3:34 | 2023-03-16 |  |
@@ -65,6 +67,7 @@
 | [Romantic Purple](https://open.spotify.com/track/1jcAWxx7IYrKXvECW4MwXt) | [Themilo](https://open.spotify.com/artist/59sKn5XeA4AI4WdrlW25aS) | [Let Me Begin](https://open.spotify.com/album/0tqaPIvkArC3EZ8sYmkLAy) | 6:14 | 2023-03-16 |  |
 | [Secercah Asa](https://open.spotify.com/track/1GMJSFfscBMvvOJjimfPhH) | [Rasukma](https://open.spotify.com/artist/4Ry4dtcZAYudS7HZTtyCOE) | [Ramu Waktu](https://open.spotify.com/album/7H0neemclan1YAoMNSLxum) | 3:09 | 2023-05-02 |  |
 | [Segar](https://open.spotify.com/track/23SH0rxlb47odl9HHmufOr) | [Swellow](https://open.spotify.com/artist/0oHQ2Lif0zo9gofe3YPAw2) | [Jeruk Segar](https://open.spotify.com/album/2eyvObKjsKZx7Fe3VIPbxe) | 3:00 | 2023-06-08 |  |
+| [Semua Tentang Kita](https://open.spotify.com/track/6ULZ6Hw2eYaiq1tlR5thcW) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Taman Langit](https://open.spotify.com/album/3f75vj6VfHVhh4v0Sw6ZzC) | 4:28 | 2023-08-09 |  |
 | [Sha La La](https://open.spotify.com/track/2oE4nQnV1D4PTZFoDw8JTF) | [Putih Abu\-Abu](https://open.spotify.com/artist/3yRNoZZuzU5TC7uwOxd7cL) | [Sha La La](https://open.spotify.com/album/15OsMcIup45YQk0TVp2AFn) | 3:31 | 2023-03-16 |  |
 | [Sialan](https://open.spotify.com/track/2aDgJHhAbABvdW9NszrAPQ) | [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X), [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Sialan](https://open.spotify.com/album/3FXBtyRQwZsXShVvBc9ulh) | 4:01 | 2023-03-16 |  |
 | [Simpul](https://open.spotify.com/track/5kzE5sZTaK0hyCqYaLfN4t) | [Swellow](https://open.spotify.com/artist/0oHQ2Lif0zo9gofe3YPAw2) | [Simpul Tak Berdaya](https://open.spotify.com/album/4UlIKDydaQLNsJGRa5Dgqb) | 3:51 | 2023-03-16 |  |

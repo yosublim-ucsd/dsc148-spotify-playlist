@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain]
 
 > The bluesy side of jazz
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,464 likes - 50 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,523 likes - 50 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain]
 | 49 | [Chi Chi](https://open.spotify.com/track/5FzhjFoN3ND1tvndL6rAOj) | [Charlie Parker Quartet](https://open.spotify.com/artist/5GBe2GMfPm3IFagD5XuKKs) | [Bird 100](https://open.spotify.com/album/28J5TDJB3TLEh9fCCzXHWW) | 3:02 |
 | 50 | [Opus De Funk \- Remastered](https://open.spotify.com/track/59SgNbsj3NHKPjMApBmWHU) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Horace Silver Trio](https://open.spotify.com/album/4Cu57f0WkNAOERhiCxGSSo) | 3:25 |
 
-Snapshot ID: `MCwyMDJmMWI1OGI2NzdhMmFhNjVhNjljMmQ1OTRjZDZjYTEyOTIxZjBm`
+Snapshot ID: `MCxiMmM4MDg5NjQ0N2YyNjA2YjVmMjk4ZTFiN2U0OWQ2ZjI2Y2FmZGIw`

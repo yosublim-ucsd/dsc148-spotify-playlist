@@ -2,9 +2,9 @@
 
 ### [Hip\-Hop Malayalam](https://open.spotify.com/playlist/37i9dQZF1DX8OdFBus1U8c)
 
-> Set the bars high with Malayalam Hip\-Hop!<br/>Cover : ThirumaLi
+> Set the bars high with Malayalam Hip\-Hop!<br/>Cover : Sreenath Bhasi
 
-91 songs - 4 hr 59 min
+92 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [BANDANA](https://open.spotify.com/track/5n0H86Axz5rqTyv8ljXZ8X) | [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b), [Kalla Sha](https://open.spotify.com/artist/2LJPuiESacNin3Pz3SOXVd) | [BANDANA](https://open.spotify.com/album/4UiGCvmgCLtDvrCBheMLNR) | 2:13 | 2023-07-23 |  |
 | [Blue Bucket Rebirth](https://open.spotify.com/track/6J77IL7C21HvGmMe6XHzWH) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Blue Bucket Rebirth](https://open.spotify.com/album/4ZEGMUyGGImpKOaTxWIQ29) | 3:46 | 2022-06-23 |  |
 | [Bobby & Sulaiman](https://open.spotify.com/track/4dZg42I2oAMIa86UNeqZhp) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [JUNGLE SPEAKS, Vol\. 1](https://open.spotify.com/album/64hiwux15xTgMb9Fc8u5hM) | 3:23 | 2022-06-23 |  |
-| [Boss Kid](https://open.spotify.com/track/2mquWSV8POF4pfkQ1eQFOm) | [Rap Kid India](https://open.spotify.com/artist/40KXGueq8yPOb6dtZD6QmA), [Kalla Sha](https://open.spotify.com/artist/2LJPuiESacNin3Pz3SOXVd) | [Boss Kid](https://open.spotify.com/album/2S2nHAPutWZIhHsQgiCqRf) | 2:44 | 2023-07-23 |  |
+| [Boss Kid](https://open.spotify.com/track/2mquWSV8POF4pfkQ1eQFOm) | [Rap Kid India](https://open.spotify.com/artist/40KXGueq8yPOb6dtZD6QmA), [Kalla Sha](https://open.spotify.com/artist/2LJPuiESacNin3Pz3SOXVd) | [Boss Kid](https://open.spotify.com/album/2S2nHAPutWZIhHsQgiCqRf) | 2:44 | 2023-07-23 | 2023-08-10 |
 | [BREAKFAST](https://open.spotify.com/track/6p21ywjrVlUnpmujl4S3dP) | [Sreenath Bhasi](https://open.spotify.com/artist/5LcSNp7wOf6h5Lvhv23hF9) | [IRUTHALA PAKSHI](https://open.spotify.com/album/7s0xY54MjcJdw1kBrv9e4z) | 3:56 | 2023-07-23 |  |
 | [Chekuthan](https://open.spotify.com/track/5Zoe8tHOVTMOzeapdpQeYL) | [Ribin Richard](https://open.spotify.com/artist/0Ojbc9kF43BrPCBPe04v8C), [Nihal Sadiq](https://open.spotify.com/artist/4tn4Tbdms5VG0yWwqryYhh) | [Chekuthan](https://open.spotify.com/album/0HH6caLXMV6xudGoXkFn9q) | 2:48 | 2021-12-03 |  |
 | [Chekuthan \(Reprise\)](https://open.spotify.com/track/6N0Z9weSdoXUzL0wbqQD4h) | [Ribin Richard](https://open.spotify.com/artist/0Ojbc9kF43BrPCBPe04v8C), [Nihal Sadiq](https://open.spotify.com/artist/4tn4Tbdms5VG0yWwqryYhh) | [Chekuthan \(Reprise\)](https://open.spotify.com/album/6Qz3dfZLUwwyvzd6JHxUPa) | 1:40 | 2021-12-03 |  |
@@ -55,6 +55,7 @@
 | [Malsaram Ennodu Thanne](https://open.spotify.com/track/1jiH9jO3EzQ1BwdCoQXP0R) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Malsaram Ennodu Thanne](https://open.spotify.com/album/50unVeEWf2KAz83YOnU565) | 3:22 | 2022-06-23 |  |
 | [Manavaalan Thug \- From "Thallumaala"](https://open.spotify.com/track/0MHiYjjcHNYM9KURa6NveF) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [SA](https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm) | [Manavaalan Thug \(From "Thallumaala"\)](https://open.spotify.com/album/7ElJmx0LpC0aoYn93w2rMD) | 3:20 | 2022-08-10 |  |
 | [Minni](https://open.spotify.com/track/306XOjGf2EDuTNv77HdPme) | [V3K](https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe), [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Minni](https://open.spotify.com/album/6ZdyxuQBpOHPpspL33AMTU) | 3:16 | 2022-06-23 |  |
+| [Mumbai Rap \(Mujhko Ishq Karne Ke\) \- From "Voice Of Sathyanathan"](https://open.spotify.com/track/7zrOxUbSWdajYF99jCLRRZ) | [Ankit Menon](https://open.spotify.com/artist/4b1Ua3aYPP6ppvnqZdOHjV), [Sushant Sudhakaran](https://open.spotify.com/artist/0vlkuxwsSVsEfvzs0usXIX) | [Mumbai Rap \(Mujhko Ishq Karne Ke\) \(From "Voice Of Sathyanathan"\)](https://open.spotify.com/album/289YdJjFtfGVDBi484yu8z) | 1:26 | 2023-08-09 |  |
 | [Naadan Vibe](https://open.spotify.com/track/1J3twcdCruJqB86PgaVc8s) | [Ribin Richard](https://open.spotify.com/artist/0Ojbc9kF43BrPCBPe04v8C), [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Naadan Vibe](https://open.spotify.com/album/2c4rz8wBZvKMJnKN2H1ZYx) | 2:53 | 2021-12-03 |  |
 | [Naade Naattaare \- From "Operation Java"](https://open.spotify.com/track/1hSuT0E6wuhRAlRBOYTSBM) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Naade Naattaare \(From "Operation Java"\)](https://open.spotify.com/album/0OCtowut5VsLDJ0O6PFbpm) | 4:04 | 2022-04-18 |  |
 | [NADODI](https://open.spotify.com/track/3gXbf0FIXqZijtDnpb95Dg) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [Thudwiser](https://open.spotify.com/artist/6z8IZH6zc5YxGOGZT1ZswT) | [NADODI](https://open.spotify.com/album/1IfGr6o9qSzSkph7kob4xf) | 4:12 | 2022-06-23 |  |

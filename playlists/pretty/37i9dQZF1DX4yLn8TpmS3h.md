@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yLn8TpmS3h.md) - [plain]
 
 > Drawing from R&B, indie, pop, and more, the electropop act’s singer Olly Alexander shines a light on LGBTQIA+ artists that inspire.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,377 likes - 26 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,376 likes - 26 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yLn8TpmS3h.md) - [plain]
 | 25 | [Worship](https://open.spotify.com/track/4LSaXsi2dyhdKGF6wPsHst) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn) | 3:41 |
 | 26 | [Son of a Preacher Man](https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty In Memphis \[Deluxe Edition\]](https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg) | 2:29 |
 
-Snapshot ID: `MCxmMTFiMzM3Y2ZkYzU5ODE1MmFkMWI4ZTI4ZTFkMDBiOGViNTFiNDgx`
+Snapshot ID: `MCw0NmE1MGY5OWQzZjI0Mjc2MTQ2NGQzY2MyYWQ4YmQ1NzU4Y2M0NTdi`

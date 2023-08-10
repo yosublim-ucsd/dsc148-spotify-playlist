@@ -1331,6 +1331,24 @@
     },
     {
       "album": {
+        "name": "Casas",
+        "url": "https://open.spotify.com/album/37svAARdwTp6vApCWBwoec"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337308,
+      "name": "Partilhar",
+      "url": "https://open.spotify.com/track/6O6qYUHbLjT0kGHm5rfp95"
+    },
+    {
+      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -1904,7 +1922,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 235128,
       "name": "Voc\u00ea N\u00e3o Presta",
       "url": "https://open.spotify.com/track/67sKMKtqVthTb45IAxLoZO"

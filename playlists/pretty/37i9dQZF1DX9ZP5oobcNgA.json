@@ -1,12 +1,12 @@
 {
   "description": "Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.",
-  "num_followers": 112811,
+  "num_followers": 112846,
   "original_name": "This Is Handel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTE2MmJjYmEyZTZlOTYxMWE5ZWM2ZjM0MzdkZjc5YmUxNjA4Yzlm",
+  "snapshot_id": "MCwzZWEzYTBmMTM0YzYyYTNjM2RmOWQ5YTQzMDc4NWQ3MjEwNzljMDI2",
   "tracks": [
     {
       "added_at": "2022-06-28 08:56:25",
@@ -455,6 +455,26 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
+        "name": "Handel: Water Music",
+        "url": "https://open.spotify.com/album/0cxRAewBpYrtxOYH5fius3"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Akademie f\u00fcr Alte Musik Berlin",
+          "url": "https://open.spotify.com/artist/1R1hwKrqqLqYiD53NtXEBJ"
+        }
+      ],
+      "duration_ms": 70786,
+      "name": "Water Music, Suite No. 1, HWV 348: No. 8, Bourr\u00e9e",
+      "url": "https://open.spotify.com/track/6jzEwUfXtY2tlZj9O158b8"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
         "name": "Handel - Messiah and other works",
         "url": "https://open.spotify.com/album/2qlWVekqnJi8P20XdwT6z4"
       },
@@ -487,26 +507,6 @@
       "duration_ms": 255693,
       "name": "Dixit Dominus, HWV 232: Die Torrente in via bibet",
       "url": "https://open.spotify.com/track/4tjILrO9lD8DC5ExpE520A"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
-        "name": "Handel: Water Music",
-        "url": "https://open.spotify.com/album/0cxRAewBpYrtxOYH5fius3"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Akademie f\u00fcr Alte Musik Berlin",
-          "url": "https://open.spotify.com/artist/1R1hwKrqqLqYiD53NtXEBJ"
-        }
-      ],
-      "duration_ms": 70786,
-      "name": "Water Music, Suite No. 1, HWV 348: No. 8, Bourr\u00e9e",
-      "url": "https://open.spotify.com/track/6jzEwUfXtY2tlZj9O158b8"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -735,26 +735,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Handel: Keyboard Suites, Vol. 1",
-        "url": "https://open.spotify.com/album/5rZNiDIYiqLWoCKrwQ0y23"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Philip Edward Fisher",
-          "url": "https://open.spotify.com/artist/3iEF3lnsArDpnKXvg6Zys7"
-        }
-      ],
-      "duration_ms": 181626,
-      "name": "Keyboard Suite No. 2 (Set I) in F Major, HWV 427: I. Adagio",
-      "url": "https://open.spotify.com/track/30HCgiGH4R8rgUMdF7njJK"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Handel: Ode for St. Cecilia's Day",
         "url": "https://open.spotify.com/album/45aTL6VJMdUD5uWfzLy96c"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 498200,
       "name": "Ode for St. Cecilia's Day, HWV 76: Air: What passion cannot Music raise",
       "url": "https://open.spotify.com/track/28Lhq1AbMJVtbSQbWjF8zl"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel: Keyboard Suites, Vol. 1",
+        "url": "https://open.spotify.com/album/5rZNiDIYiqLWoCKrwQ0y23"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Philip Edward Fisher",
+          "url": "https://open.spotify.com/artist/3iEF3lnsArDpnKXvg6Zys7"
+        }
+      ],
+      "duration_ms": 181626,
+      "name": "Keyboard Suite No. 2 (Set I) in F Major, HWV 427: I. Adagio",
+      "url": "https://open.spotify.com/track/30HCgiGH4R8rgUMdF7njJK"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -959,50 +959,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Handel: Deborah",
-        "url": "https://open.spotify.com/album/156Bet7mEgg569uxjJkffl"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Natacha Ducret",
-          "url": "https://open.spotify.com/artist/1eZyeFSTKLDC6TUnbmEIcm"
-        },
-        {
-          "name": "Elisabeth Scholl",
-          "url": "https://open.spotify.com/artist/08rODWASMZcb2LashgmiqJ"
-        },
-        {
-          "name": "Ewa Wolak",
-          "url": "https://open.spotify.com/artist/2tPolsL0SFQq4RFIPcFFWc"
-        },
-        {
-          "name": "Lawrence Zazzo",
-          "url": "https://open.spotify.com/artist/71X707NVudhAZaXg30sx8Z"
-        },
-        {
-          "name": "Junge Kantorei",
-          "url": "https://open.spotify.com/artist/2gIaO6SColHQT8ah4a6uuO"
-        },
-        {
-          "name": "Frankfurt Baroque Orchestra",
-          "url": "https://open.spotify.com/artist/4fFOSPDZSong8uLTliazsa"
-        },
-        {
-          "name": "Joachim Carlos Martini",
-          "url": "https://open.spotify.com/artist/19pKZ73EPlzeffharlVpsp"
-        }
-      ],
-      "duration_ms": 205360,
-      "name": "Deborah, HWV 51: Part I: Chorus - Let thy deeds be glorious",
-      "url": "https://open.spotify.com/track/2vjvCb7bgJH5ix8bfwp8MR"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Handel: Rinaldo",
         "url": "https://open.spotify.com/album/5Jd7LRZm76VWAiPnaa42XF"
       },
@@ -1099,6 +1055,50 @@
       "duration_ms": 164320,
       "name": "Handel: Coronation Anthem No. 4, HWV 261 \"My Heart Is Inditing\": I. My Heart Is Inditing",
       "url": "https://open.spotify.com/track/5VPuxHjU7hVG4kWkSyAR1H"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel: Deborah",
+        "url": "https://open.spotify.com/album/156Bet7mEgg569uxjJkffl"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Natacha Ducret",
+          "url": "https://open.spotify.com/artist/1eZyeFSTKLDC6TUnbmEIcm"
+        },
+        {
+          "name": "Elisabeth Scholl",
+          "url": "https://open.spotify.com/artist/08rODWASMZcb2LashgmiqJ"
+        },
+        {
+          "name": "Ewa Wolak",
+          "url": "https://open.spotify.com/artist/2tPolsL0SFQq4RFIPcFFWc"
+        },
+        {
+          "name": "Lawrence Zazzo",
+          "url": "https://open.spotify.com/artist/71X707NVudhAZaXg30sx8Z"
+        },
+        {
+          "name": "Junge Kantorei",
+          "url": "https://open.spotify.com/artist/2gIaO6SColHQT8ah4a6uuO"
+        },
+        {
+          "name": "Frankfurt Baroque Orchestra",
+          "url": "https://open.spotify.com/artist/4fFOSPDZSong8uLTliazsa"
+        },
+        {
+          "name": "Joachim Carlos Martini",
+          "url": "https://open.spotify.com/artist/19pKZ73EPlzeffharlVpsp"
+        }
+      ],
+      "duration_ms": 205360,
+      "name": "Deborah, HWV 51: Part I: Chorus - Let thy deeds be glorious",
+      "url": "https://open.spotify.com/track/2vjvCb7bgJH5ix8bfwp8MR"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1231,34 +1231,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Handel: Coronation Anthems / Silete Venti",
-        "url": "https://open.spotify.com/album/1korDY7V0uEE7W6RB7t4T2"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Thomas Tallis Chamber Choir",
-          "url": "https://open.spotify.com/artist/5kl66pasgbqK6LFuqImrFN"
-        },
-        {
-          "name": "Royal Academy Consort",
-          "url": "https://open.spotify.com/artist/4Ki3YmkyJwKtoBwqySbpW2"
-        },
-        {
-          "name": "Jeremy Summerly",
-          "url": "https://open.spotify.com/artist/0eaRvM9NkpTV399cyiZUwf"
-        }
-      ],
-      "duration_ms": 127440,
-      "name": "Let thy Hand be strengthened, HWV 259: Alleluia",
-      "url": "https://open.spotify.com/track/3udJMoXeAemwdJm2HH2eQT"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Handel: Water Music/Sonatas etc.",
         "url": "https://open.spotify.com/album/6w9Qr87wGmjXMrNDWbKQuG"
       },
@@ -1303,6 +1275,34 @@
       "duration_ms": 142133,
       "name": "Water Music: Suite No. 2 in D Major, HWV 349, I. Allegro",
       "url": "https://open.spotify.com/track/1aK44lWlnmXhfWNbOzhZn5"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel: Coronation Anthems / Silete Venti",
+        "url": "https://open.spotify.com/album/1korDY7V0uEE7W6RB7t4T2"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Thomas Tallis Chamber Choir",
+          "url": "https://open.spotify.com/artist/5kl66pasgbqK6LFuqImrFN"
+        },
+        {
+          "name": "Royal Academy Consort",
+          "url": "https://open.spotify.com/artist/4Ki3YmkyJwKtoBwqySbpW2"
+        },
+        {
+          "name": "Jeremy Summerly",
+          "url": "https://open.spotify.com/artist/0eaRvM9NkpTV399cyiZUwf"
+        }
+      ],
+      "duration_ms": 127440,
+      "name": "Let thy Hand be strengthened, HWV 259: Alleluia",
+      "url": "https://open.spotify.com/track/3udJMoXeAemwdJm2HH2eQT"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1375,6 +1375,30 @@
       "duration_ms": 203066,
       "name": "Laudate Pueri (Psalm 112): Laudate Pueri Dominum",
       "url": "https://open.spotify.com/track/2iypBiPebvQux3ZyZY5Sbe"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel: Water Music; Royal Fireworks Music - Expanded Edition",
+        "url": "https://open.spotify.com/album/637JBFzsaEwlw8tD7SYjoH"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        },
+        {
+          "name": "New York Philharmonic",
+          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
+        }
+      ],
+      "duration_ms": 157733,
+      "name": "Water Music: Suite No. 1 in F Major, HWV 348, VII. Air",
+      "url": "https://open.spotify.com/track/4qMKtNSa5KhCTp1kWgFTvA"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1475,30 +1499,6 @@
       "duration_ms": 180133,
       "name": "Theodora, Hwv 68: Act I Scene 5: Air: Angels, ever bright and fair",
       "url": "https://open.spotify.com/track/4vbsranpQUYHHQe46YfZij"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
-        "name": "Handel: Water Music; Royal Fireworks Music - Expanded Edition",
-        "url": "https://open.spotify.com/album/637JBFzsaEwlw8tD7SYjoH"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Pierre Boulez",
-          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
-        },
-        {
-          "name": "New York Philharmonic",
-          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
-        }
-      ],
-      "duration_ms": 157733,
-      "name": "Water Music: Suite No. 1 in F Major, HWV 348, VII. Air",
-      "url": "https://open.spotify.com/track/4qMKtNSa5KhCTp1kWgFTvA"
     },
     {
       "added_at": "2022-06-28 08:56:25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 
 > Enjoy your favourite K\-drama's OST instrumentals\. \(Cover: Forecasting Love and Weather\(기상청 사람들\) \(한국 OST 반주곡과 함께 여유로운 시간을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,124 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,214 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 | 11 | [I Will Go To You Like the First Snow \- Instrumental](https://open.spotify.com/track/4144BMAcJrcegjHuCOdEh0) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Guardian \(Original Television Soundtrack\), Pt\. 9](https://open.spotify.com/album/42jhVkCdzN4cuIvc0QyXbS) | 3:49 |
 | 12 | [You Are My Everything \- Instrumental](https://open.spotify.com/track/1FCg1WKlpZU6earLUgWAJB) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Descendants Of The Sun Pt.4 \(Original Television Soundtrack\)](https://open.spotify.com/album/2xhG5yxzYITJA30jKf2MkQ) | 4:00 |
 | 13 | [We're Already \- Instrumental](https://open.spotify.com/track/2LE7j7BDHG9iFUuIUfudvo) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Nevertheless, \(Original Drama Sound Track, Pt\. 1\)](https://open.spotify.com/album/6WTV5WckTQI2FjyI5YP1PG) | 3:58 |
-| 14 | [내 맘을 볼수 있나요 \- Instrumental](https://open.spotify.com/track/4kzukmEpvEk0d45hXd2k0t) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Hotel del Luna \(Original Television Soundtrack\) Pt.5](https://open.spotify.com/album/2PdRNAz6mDmy9OR7hDCrH5) | 3:46 |
-| 15 | [Good Person \(2022\) \- Instrumental](https://open.spotify.com/track/4eVLchM4qaokQ4adLgVK3R) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [Good Person \(2022\)](https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm) | 4:40 |
+| 14 | [Good Person \(2022\) \- Instrumental](https://open.spotify.com/track/4eVLchM4qaokQ4adLgVK3R) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [Good Person \(2022\)](https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm) | 4:40 |
+| 15 | [내 맘을 볼수 있나요 \- Instrumental](https://open.spotify.com/track/4kzukmEpvEk0d45hXd2k0t) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Hotel del Luna \(Original Television Soundtrack\) Pt.5](https://open.spotify.com/album/2PdRNAz6mDmy9OR7hDCrH5) | 3:46 |
 | 16 | [Wishes \- Instrumental](https://open.spotify.com/track/4juTgLIgRUGofcqA5JgKJi) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Snowdrop \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/2rR3MvjhEL8Cd0IauUCZTg) | 3:59 |
 | 17 | [Nevertheless \- Instrumental](https://open.spotify.com/track/4vFZTRGFmUF0uCO3QnirOB) | [RIO](https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g) | [Nevertheless, \(Original Television Soundtrack, Pt\. 10\)](https://open.spotify.com/album/72l5H1zdxBPzC2q5KJgSgB) | 3:00 |
 | 18 | [Give You My Heart \(Inst.\)](https://open.spotify.com/track/5TDu5bIw976Qhkp5tWhpbH) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Crash Landing on You OST Part 11](https://open.spotify.com/album/29KU88wZtAigritdYGvgPk) | 4:40 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 | 34 | [If you're with me \- Instrumental](https://open.spotify.com/track/6GBgCbLWz03xdW5RjQniLv) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Snowdrop \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/1mp8PisOMZvtAZWfwv9vlS) | 3:51 |
 | 35 | [Sad Ending](https://open.spotify.com/track/5Zl4NyyonixQ2cqgd4Y2Mo) | [Nam Hye Seung](https://open.spotify.com/artist/1vOJqsD0H57xUKg9IcknD9), [Park Sang Hee](https://open.spotify.com/artist/1icVxSPmme4DhN7q0HTM5p) | [Mr\. Sunshine \(Original Television Soundtrack\)](https://open.spotify.com/album/37aYl9SbXXzYZs6ZquzgNQ) | 4:50 |
 | 36 | [나는 볼 수 없던 이야기 \(Inst.\) \(Instrumental\)](https://open.spotify.com/track/2gWhI5qs1hx9VrCzmFyqbb) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [로맨스는 별책부록 OST Part.1](https://open.spotify.com/album/5ouASCTRr1UL6S5g9k9C1R) | 3:44 |
-| 37 | [Done For Me \- Instrumental](https://open.spotify.com/track/4P51LRgsC9zvxhK3t50NGD) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Hotel del Luna \(Original Television Soundtrack\) Pt.12](https://open.spotify.com/album/2vJQLqTDoS8ZPv8ydgkPBv) | 3:51 |
-| 38 | [그때 그 아인 \(Inst.\)](https://open.spotify.com/track/6VZXaEZCK1kAXUNPHvNIof) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/3KK05sDCPzEVOMGPr5MHKf) | 4:47 |
+| 37 | [그때 그 아인 \(Inst.\)](https://open.spotify.com/track/6VZXaEZCK1kAXUNPHvNIof) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/3KK05sDCPzEVOMGPr5MHKf) | 4:47 |
+| 38 | [Done For Me \- Instrumental](https://open.spotify.com/track/4P51LRgsC9zvxhK3t50NGD) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Hotel del Luna \(Original Television Soundtrack\) Pt.12](https://open.spotify.com/album/2vJQLqTDoS8ZPv8ydgkPBv) | 3:51 |
 | 39 | [An Ordinary Day \- Instrumental](https://open.spotify.com/track/4ly1bQiQoFw5FgY49QccGg) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [My Mister \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1UMbArkE5oPJArjsfiDxqw) | 4:34 |
 | 40 | [Moonchild Ballad \- Instrumental](https://open.spotify.com/track/0huNakYFuJW9ovnvdv6nOY) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [TALE OF THE NINE TAILED \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/7yHvBfT4IADI9iNN2DGsLQ) | 4:22 |
 | 41 | [The First Snow \- Instrumental](https://open.spotify.com/track/3HeXYGErUXeEDiTBF2zoJP) | [JOONIL JUNG](https://open.spotify.com/artist/2dhnFfsPxve8lzhwfXVFpS) | [Guardian \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/5YTid0Ew5Mvlq08gE6ehqc) | 4:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 | 49 | [Love, This \- Instrumental](https://open.spotify.com/track/6cnIxIEf69ZwGgZcCmjyKm) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [Nevertheless, \(Original Television Soundtrack, Pt\. 9\)](https://open.spotify.com/album/2DNfUCOCsKzUBLBD79cU2L) | 3:12 |
 | 50 | [Memories More than love \- Instrumental](https://open.spotify.com/track/1CltdzmU5Fdaq4fe6tgfE8) | [Kevin Oh](https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy) | [Snowdrop \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/1GnkuJvrXWsNJfNDhQfaB2) | 4:45 |
 
-Snapshot ID: `MCxiNWQ5NzA0ZThmMWQyOWMwODc1YTk4NWNiNzUxODBjYmNiNWRmZjIx`
+Snapshot ID: `MCxiMzBjZmNiM2VlNjMyYWVlMTg3YTE3NmY4Yzk5OWMwNDc5ZDAwYjUx`

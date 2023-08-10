@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 
 > Beach vibes and summer jams only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,860 likes - 322 songs - 12 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,100 likes - 322 songs - 12 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -240,7 +240,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 230 | [Rain On Me](https://open.spotify.com/track/0XjBGhw51yUMQMZ8ftgJdr) | [Ninjasister](https://open.spotify.com/artist/6JutOej41WIW4GaBZVuZNr) | [Rain On Me](https://open.spotify.com/album/1XC002Q49QhVnYvKhWeAY4) | 2:27 |
 | 231 | [Feeling Good](https://open.spotify.com/track/5woq04bPb5fZ4bB8wfOkuC) | [Leo Motta](https://open.spotify.com/artist/6ugB87XnwqEwHL5s6ovPAP), [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf) | [Feeling Good](https://open.spotify.com/album/04KGyqHLNP0cl3rjshLuOo) | 2:36 |
 | 232 | [Smelling the Roses](https://open.spotify.com/track/493d6uVigrpHLvzElL5eEd) | [middt](https://open.spotify.com/artist/3u78iBx7E3vzHHhc47gdTf), [Igor Utzig](https://open.spotify.com/artist/0SK3nj1aKuSNtBRvEow982) | [Smelling the Roses](https://open.spotify.com/album/3zuraDIrNwYLQE5XLA3xDb) | 2:17 |
-| 233 | [Sailing Ships](https://open.spotify.com/track/3XLz7KN81rNRuBYws2Y1As) | [Strehlow](https://open.spotify.com/artist/1pUWzVmu8ACMnIAu9BsOHm), [WYATT](https://open.spotify.com/artist/3xAoVcrMl08h9mS8UHsfKM), [Foster Pace](https://open.spotify.com/artist/5vaVdwOrh64JypXpdzZXAM) | [Sailing Ships](https://open.spotify.com/album/58Rq8gGfEyPOdTpZl3WWcQ) | 2:07 |
+| 233 | [Sailing Ships](https://open.spotify.com/track/3XLz7KN81rNRuBYws2Y1As) | [Strehlow](https://open.spotify.com/artist/1pUWzVmu8ACMnIAu9BsOHm) | [Sailing Ships](https://open.spotify.com/album/58Rq8gGfEyPOdTpZl3WWcQ) | 2:07 |
 | 234 | [Bossa Rosa](https://open.spotify.com/track/0mPtM4eXcgUTcILbBaMOjK) | [Miso Colt](https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4) | [Bossa Rosa](https://open.spotify.com/album/0HE31Nwlfaz4CbGvmzhP0a) | 3:00 |
 | 235 | [bossa high\-level](https://open.spotify.com/track/6czOmmPl8uI5uxQu3GEeLT) | [endless beauty](https://open.spotify.com/artist/3XG7dHbEwHHNEJ6kTWnO1s) | [Bossa High\-Level](https://open.spotify.com/album/21fXSXyIGMOcCE8CffF03F) | 1:42 |
 | 236 | [Sunny Walk](https://open.spotify.com/track/7EccAFIyTAXrxfvrkZdDNU) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [Sunny Walk](https://open.spotify.com/album/6JvavHc9LVWO0fksFQviHS) | 1:46 |
@@ -331,4 +331,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 321 | [Joao](https://open.spotify.com/track/3JuBTWJDNuiyfBCaZHUs2I) | [Teknicolores](https://open.spotify.com/artist/1xXraGRML6j3iypdaZDvQk) | [Joao](https://open.spotify.com/album/1gFmVLrF9Zakob9dlHCHXL) | 2:21 |
 | 322 | [Cream Sunset](https://open.spotify.com/track/0cCzWMEaRgqnbOpNrnKoPD) | [RejSende](https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo), [Kind Puppy](https://open.spotify.com/artist/6UugiEEysCLia9Ge04UN1j) | [Cream Sunset](https://open.spotify.com/album/2LfvL0bCxhob1tQmg2UBMj) | 2:26 |
 
-Snapshot ID: `MCw2ZmY2OTcyMDY0MjU3NDExOTBiZjY4ZTZmOGI0NDgwMGE2NjJhNTFi`
+Snapshot ID: `MCwzYWI5NGQ0N2UyMzMxM2QxMjYyOTQ2YmFmNjU2ZTA1NjA4MzdjM2M1`

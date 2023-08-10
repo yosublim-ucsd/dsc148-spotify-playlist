@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > The home of dark trap\. Rap from hell\. Cover: do not resurrect
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,346 likes - 100 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,666 likes - 100 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 73 | [Trinity](https://open.spotify.com/track/41PeGZiPALdktSyL8jqKeB) | [Lorta](https://open.spotify.com/artist/0jfcbc9ax7GnUiCzhexJOb), [Devilish Trio](https://open.spotify.com/artist/45brkGrBxvV5pxj8eiImiF) | [Trinity](https://open.spotify.com/album/46KiNG5vmNGAqHq8LMUHor) | 2:07 |
 | 74 | [BLXXDY NXSE \(feat\. Scarlxrd & nascar aloe\)](https://open.spotify.com/track/319u15wlYEJnkwaecnQBir) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr), [nascar aloe](https://open.spotify.com/artist/03LEDukdM723NRLz4UXeNv) | [BLXXDY NXSE \(feat\. Scarlxrd & nascar aloe\)](https://open.spotify.com/album/6mDFwhmb1GftFQYpBKDQG2) | 3:07 |
 | 75 | [Psycho Pass](https://open.spotify.com/track/3kZAm2TC74lBJFPDoV40Qc) | [Xavier Wulf](https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S) | [Blood Shore Season 2](https://open.spotify.com/album/1gylfqMj0edhomts9vZL7d) | 2:15 |
-| 76 | [Shake That Ass](https://open.spotify.com/track/7uSVDZbd31rkmt3NbZSQoq) | [Kiraw](https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4), [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN) | [Shake That Ass](https://open.spotify.com/album/57bkVZVGXfWcWutucTg46R) | 2:09 |
+| 76 | [Shake That Ass](https://open.spotify.com/track/3vCINLfNtP1UtvmYnbE6GG) | [Kiraw](https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4), [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN) | [Shake That Ass](https://open.spotify.com/album/7A9yXBWnW4a95h5ZDZdoht) | 2:09 |
 | 77 | [NOT ENOUGH MANA](https://open.spotify.com/track/4zgDGtOWPEsot8BmqvX9KI) | [HAARPER](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [NOT ENOUGH MANA](https://open.spotify.com/album/17Mt1ouTPGS6gAr0hmz2lD) | 1:55 |
 | 78 | [RAINING BLOOD \(feat\. ZillaKami\)](https://open.spotify.com/track/6DWdGTNqa7jeGcAP1yJ8hO) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq), [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM) | [RAINING BLOOD \(feat\. ZillaKami\)](https://open.spotify.com/album/28BNfedhV05VUB2tVC79tt) | 3:10 |
 | 79 | [GODZILLA!](https://open.spotify.com/track/01jMnuRZA4M7ElocwLWocN) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [GODZILLA!](https://open.spotify.com/album/6ywbJLf1EKfeg3ebGnh9SB) | 2:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 99 | [JDM DRIFT EDIT VERY TRENDY HOUSE PHONK!](https://open.spotify.com/track/76arGa0Ye5GwQi0uu1obxs) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Dozy Doe](https://open.spotify.com/artist/3M5TXkT9LxgZPcLSKBr4Pf) | [THE EVIL IN WHICH WE THRIVE](https://open.spotify.com/album/4wyNKVTIw6NZbpgvWuXlQg) | 2:17 |
 | 100 | [Situation](https://open.spotify.com/track/54s3N71zDs0M9HBPc5SEAK) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN), [GREAF](https://open.spotify.com/artist/7B9SeWW4K6HBgo4tGoCmjP) | [Situation](https://open.spotify.com/album/6iMDmTkNA9LyQyaGbdfyBt) | 1:48 |
 
-Snapshot ID: `MCxmNGY3MjBiMTMzMTA2YzIxOWY0Y2YzYzA3NzFhNGQzNzM5MTY3MGNl`
+Snapshot ID: `MCwzNmJkMzE4Yzg0Y2ZmNjM3M2E2OTY2NmQ1NTlhNGZmOTM1Mjg0OGNm`

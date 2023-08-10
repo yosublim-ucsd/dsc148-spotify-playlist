@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nkDUiMktkK.md) - [plain]
 
 > Salute's got the juice
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,919 likes - 91 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,937 likes - 91 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nkDUiMktkK.md) - [plain]
 | 90 | [Four Tet Is My Godmother](https://open.spotify.com/track/6KsRWn1YysBAeBEB384iVT) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Four Tet Is My Godmother](https://open.spotify.com/album/3Vs3clSmo2AS7u3JywlVOP) | 5:00 |
 | 91 | [It's Very Loud](https://open.spotify.com/track/4pVpPtYTEGLVhfgljGM2Xl) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [It's Very Loud](https://open.spotify.com/album/6IERtDEcLcMkt23FEueAH7) | 6:20 |
 
-Snapshot ID: `MCxlNGE3ZWU4YTAzNTZlOWYzZDNmYjNjNDE3ZGE3NGE1MDZiNzUzYmZl`
+Snapshot ID: `MCxkZmE4NzFkY2ZkZjY1NTRiYTg5Y2RmODc1NjBlNTQ1N2Y3MGM0Zjhj`

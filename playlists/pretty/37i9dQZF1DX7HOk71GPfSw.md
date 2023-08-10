@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > Cover: A\. G\. Cook
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,336 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,512 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [whiplash](https://open.spotify.com/track/1qVeiyPNX4KPALXyPpenBd) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [whiplash / cliche](https://open.spotify.com/album/6xE5ALjPamqaG7iPIx4dGX) | 2:47 |
-| 2 | [Beautiful \(2023 Edit\)](https://open.spotify.com/track/36T6UzxRznWRn038GvM7U5) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Beautiful \(2023 Edit\)](https://open.spotify.com/album/3LEJXj4WKlgjnEFQJscKJS) | 3:04 |
-| 3 | [Locals \(Girls like us\) \[with gabby start\]](https://open.spotify.com/track/2MMHDP5jHn6oNoBJvEA88L) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7), [gabby start](https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9) | [Locals \(Girls like us\) \[with gabby start\]](https://open.spotify.com/album/6iCbxmNk6vmXTGLYInRVJX) | 4:18 |
-| 4 | [American Terrorist](https://open.spotify.com/track/0CUkBj6wxcdUaB0K94frjT) | [Thoom](https://open.spotify.com/artist/2Tpvy7ryLgM835gDgN2nL5) | [American Terrorist](https://open.spotify.com/album/5eHaILhsj8cjHNb8PNOnMU) | 2:38 |
-| 5 | [ur so cute \(feat\. SEBii\)](https://open.spotify.com/track/00lqKT7IuN6RrDrlyO8imU) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Arkade](https://open.spotify.com/artist/1nxV2NMKSn8X42vJ9OyTn8), [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo) | [ur so cute \(feat\. SEBii\)](https://open.spotify.com/album/3eqmleRJF2beinWCLD7x5U) | 2:26 |
-| 6 | [COOL\_DNB\_SONG](https://open.spotify.com/track/6qplf0LC8lwZdWL7Ij0hlu) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [Personal Protocol](https://open.spotify.com/album/2ScwqDiRQMrGkthrrsumoW) | 2:03 |
-| 7 | [Estrogen](https://open.spotify.com/track/2ysmGZWE33tgH9uWUse085) | [Knife Girl](https://open.spotify.com/artist/0992VRpOtjqDFNoSHneK6L) | [Estrogen](https://open.spotify.com/album/0qPh5Xy3MnB213BYGmKCwE) | 3:38 |
+| 1 | [Beautiful \(2023 Edit\)](https://open.spotify.com/track/36T6UzxRznWRn038GvM7U5) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Beautiful \(2023 Edit\)](https://open.spotify.com/album/3LEJXj4WKlgjnEFQJscKJS) | 3:04 |
+| 2 | [Locals \(Girls like us\) \[with gabby start\]](https://open.spotify.com/track/2MMHDP5jHn6oNoBJvEA88L) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7), [gabby start](https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9) | [Locals \(Girls like us\) \[with gabby start\]](https://open.spotify.com/album/6iCbxmNk6vmXTGLYInRVJX) | 4:18 |
+| 3 | [whiplash](https://open.spotify.com/track/1qVeiyPNX4KPALXyPpenBd) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [whiplash / cliche](https://open.spotify.com/album/6xE5ALjPamqaG7iPIx4dGX) | 2:47 |
+| 4 | [ur so cute \(feat\. SEBii\)](https://open.spotify.com/track/00lqKT7IuN6RrDrlyO8imU) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Arkade](https://open.spotify.com/artist/1nxV2NMKSn8X42vJ9OyTn8), [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo) | [ur so cute \(feat\. SEBii\)](https://open.spotify.com/album/3eqmleRJF2beinWCLD7x5U) | 2:26 |
+| 5 | [COOL\_DNB\_SONG](https://open.spotify.com/track/6qplf0LC8lwZdWL7Ij0hlu) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [Personal Protocol](https://open.spotify.com/album/2ScwqDiRQMrGkthrrsumoW) | 2:03 |
+| 6 | [Estrogen](https://open.spotify.com/track/2ysmGZWE33tgH9uWUse085) | [Knife Girl](https://open.spotify.com/artist/0992VRpOtjqDFNoSHneK6L) | [Estrogen](https://open.spotify.com/album/0qPh5Xy3MnB213BYGmKCwE) | 3:38 |
+| 7 | [Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n) | [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Haunted](https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O) | 1:42 |
 | 8 | [halo](https://open.spotify.com/track/3S98DaraI3lEwWBCVaEDnn) | [adore](https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF) | [halo](https://open.spotify.com/album/0tnFLnIqnt052ZMWWiif9M) | 3:03 |
-| 9 | [Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n) | [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Haunted](https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O) | 1:42 |
-| 10 | [buffalo '66](https://open.spotify.com/track/4QgiWkurJSR5fJDn7MYhN9) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [the end](https://open.spotify.com/album/3yAtabXHQMk1uJ9tqaCDDL) | 2:36 |
-| 11 | [Drugs](https://open.spotify.com/track/1Ri9aSg1W3e412PUVvVz0I) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Drugs](https://open.spotify.com/album/72qaQJS17narCyYEW3uIzV) | 3:44 |
-| 12 | [drywall](https://open.spotify.com/track/2l2TH1JBclFldTIvs8Usi7) | [torr](https://open.spotify.com/artist/6fq8lpmabNBMPao92rMw3m), [patchymate](https://open.spotify.com/artist/7fHDTZfZ72OYE4XpaVE7yO) | [molecule](https://open.spotify.com/album/1sZhAMSxyVfitDVgv0xFuX) | 2:28 |
+| 9 | [drywall](https://open.spotify.com/track/2l2TH1JBclFldTIvs8Usi7) | [torr](https://open.spotify.com/artist/6fq8lpmabNBMPao92rMw3m), [patchymate](https://open.spotify.com/artist/7fHDTZfZ72OYE4XpaVE7yO) | [molecule](https://open.spotify.com/album/1sZhAMSxyVfitDVgv0xFuX) | 2:28 |
+| 10 | [American Terrorist](https://open.spotify.com/track/0CUkBj6wxcdUaB0K94frjT) | [Thoom](https://open.spotify.com/artist/2Tpvy7ryLgM835gDgN2nL5) | [American Terrorist](https://open.spotify.com/album/5eHaILhsj8cjHNb8PNOnMU) | 2:38 |
+| 11 | [buffalo '66](https://open.spotify.com/track/4QgiWkurJSR5fJDn7MYhN9) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [the end](https://open.spotify.com/album/3yAtabXHQMk1uJ9tqaCDDL) | 2:36 |
+| 12 | [Drugs](https://open.spotify.com/track/1Ri9aSg1W3e412PUVvVz0I) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Drugs](https://open.spotify.com/album/72qaQJS17narCyYEW3uIzV) | 3:44 |
 | 13 | [Partywithyourfriends](https://open.spotify.com/track/1mvlbPabXKWjWuQhHQbDD8) | [Caleb Peters](https://open.spotify.com/artist/1AaJS5oq6oQMUjd1mpO1t3) | [Partywithyourfriends](https://open.spotify.com/album/7J54oUwxuTNphowJkVFsqy) | 2:30 |
 | 14 | [ceres](https://open.spotify.com/track/7B5jghhgMLovjAKakSb94O) | [kimj](https://open.spotify.com/artist/2DwWHe8gOHsUzMn1saNYjw), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [time trial](https://open.spotify.com/album/6122TuApkY2KGQoygdmhDj) | 2:52 |
 | 15 | [Affirmations](https://open.spotify.com/track/5BgsNewvpXArLhK1sxZyPB) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Affirmations](https://open.spotify.com/album/6fswdiE5noqpRbyZCj3fnm) | 3:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 99 | [Play Poker Remix \- Remix](https://open.spotify.com/track/4HwClUHxzTmCgKkfUFPfxU) | [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo), [Maple](https://open.spotify.com/artist/7FqhC9JMS6bbcfMVKKPHBc) | [Play Poker Remix](https://open.spotify.com/album/6b1r1SaI0XWiMkg5x19LK9) | 2:20 |
 | 100 | [Crimson](https://open.spotify.com/track/5wbJcabQPxly1VtLaJw8xb) | [Hunnygloss](https://open.spotify.com/artist/7onlSHoWhsACf62nMcr780) | [Crimson](https://open.spotify.com/album/3wU9qKcAkD39ocxbb7yd7p) | 3:09 |
 
-Snapshot ID: `MCw4ZGJlNzc0MDYzNmZlZjM0MTdjMmIzMjdmZWI5MmRmYzViZTZiMDE3`
+Snapshot ID: `MCw1ODE5NmNkNTA5YjgzZTEwMjY5YmQ4YzJlNmU4NGM4NTY5M2E0ZGE1`

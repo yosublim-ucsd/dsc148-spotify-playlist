@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93iJeaL99GF.md) - [plain]
 
 > Prominent Indian independent music creators\. Cover \- Lucky Ali
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,187 likes - 40 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,257 likes - 40 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tere Bin](https://open.spotify.com/track/5frmIBzZKMjU2PlWJJ8Ir3) | [Rabbi Shergill](https://open.spotify.com/artist/7eYwycsUoAQLxKF1MNEvVa) | [Rabbi](https://open.spotify.com/album/7qYDD5oxBq3ikNV9cgbyjo) | 5:22 |
-| 2 | [Dooba Dooba](https://open.spotify.com/track/61IEe4ujPKOU7OIyubydfz) | [Silk Route](https://open.spotify.com/artist/759QiRQCMliwkrJqosHbmm) | [Boondein](https://open.spotify.com/album/6xr5iebhf8ArsIzWs33OYk) | 5:03 |
-| 3 | [Tanha Dil](https://open.spotify.com/track/4kO9vFarqUPNwlgFnVNgVh) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Tanha Dil...](https://open.spotify.com/album/2jU79jkhy5puSK6sQsDOH4) | 4:51 |
-| 4 | [Pyaar Ke Pal](https://open.spotify.com/track/6GWchpKWsKkwR6jcl0yG6V) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Pal](https://open.spotify.com/album/43TAlCzzm5cC97LPwit4n0) | 5:59 |
-| 5 | [O Sanam](https://open.spotify.com/track/5oYRr51VatOtkFeEOursuZ) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Sunoh](https://open.spotify.com/album/54mRGBCsNzGVGhVPenUnvt) | 3:43 |
-| 6 | [Teri Deewani](https://open.spotify.com/track/2iNqdCchlUZEgjJbQyZf8T) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4), [Paresh Kamath](https://open.spotify.com/artist/3PgeUFj9oHU4K4RGaITz2f), [Naresh Kamath](https://open.spotify.com/artist/79sho4jpEGoCCC51KHnNSJ) | [Kailasa](https://open.spotify.com/album/4RaycLPhCCJ8wglYD4cvmD) | 5:23 |
-| 7 | [Bulla Ki Jaana Mein Kaun](https://open.spotify.com/track/2mDayytAT6lXBYVDWpjhpR) | [Rabbi Shergill](https://open.spotify.com/artist/7eYwycsUoAQLxKF1MNEvVa) | [Bulla Ki Jaana Mein Kaun](https://open.spotify.com/album/5IjwmVLj8wcuZjv6MQrtO9) | 5:17 |
+| 2 | [O Sanam](https://open.spotify.com/track/5oYRr51VatOtkFeEOursuZ) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Sunoh](https://open.spotify.com/album/54mRGBCsNzGVGhVPenUnvt) | 3:43 |
+| 3 | [Dooba Dooba](https://open.spotify.com/track/61IEe4ujPKOU7OIyubydfz) | [Silk Route](https://open.spotify.com/artist/759QiRQCMliwkrJqosHbmm) | [Boondein](https://open.spotify.com/album/6xr5iebhf8ArsIzWs33OYk) | 5:03 |
+| 4 | [Tanha Dil](https://open.spotify.com/track/4kO9vFarqUPNwlgFnVNgVh) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Tanha Dil...](https://open.spotify.com/album/2jU79jkhy5puSK6sQsDOH4) | 4:51 |
+| 5 | [Pyaar Ke Pal](https://open.spotify.com/track/6GWchpKWsKkwR6jcl0yG6V) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Pal](https://open.spotify.com/album/43TAlCzzm5cC97LPwit4n0) | 5:59 |
+| 6 | [Bulla Ki Jaana Mein Kaun](https://open.spotify.com/track/2mDayytAT6lXBYVDWpjhpR) | [Rabbi Shergill](https://open.spotify.com/artist/7eYwycsUoAQLxKF1MNEvVa) | [Bulla Ki Jaana Mein Kaun](https://open.spotify.com/album/5IjwmVLj8wcuZjv6MQrtO9) | 5:17 |
+| 7 | [Teri Deewani](https://open.spotify.com/track/2iNqdCchlUZEgjJbQyZf8T) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4), [Paresh Kamath](https://open.spotify.com/artist/3PgeUFj9oHU4K4RGaITz2f), [Naresh Kamath](https://open.spotify.com/artist/79sho4jpEGoCCC51KHnNSJ) | [Kailasa](https://open.spotify.com/album/4RaycLPhCCJ8wglYD4cvmD) | 5:23 |
 | 8 | [Tere Mere Saath](https://open.spotify.com/track/0ee11PpglgT26oqSiBHZjm) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Aks](https://open.spotify.com/album/4GdcSSWz7wOn0ZtOHfmINr) | 4:32 |
 | 9 | [Maaeri](https://open.spotify.com/track/6Fvdk2eTzxEa9JsUUa1kP2) | [Palash Sen](https://open.spotify.com/artist/33132SkzbRbOGL6fQBWHqQ), [Euphoria](https://open.spotify.com/artist/5puYkZFJ4JkrJGEYnMSNVd) | [Phir Dhoom](https://open.spotify.com/album/1FAKBNAnlQmLrQGu9CPFhj) | 5:32 |
 | 10 | [Purani Jeans](https://open.spotify.com/track/1fuM2tWkr4LC48kiGTerSX) | [Ali Haider](https://open.spotify.com/artist/6fJXLs7sAIUz7TLJwe1HqY) | [Ali Haider's Best Of The Best Vol\- 1](https://open.spotify.com/album/2Q4YL0QgSL985YNjtFWYkA) | 5:04 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93iJeaL99GF.md) - [plain]
 | 39 | [Set Me Free](https://open.spotify.com/track/6Azn3tb7ESz1J7NRRemeYB) | [Soulmate](https://open.spotify.com/artist/6LIdpnR12HZc07v8FcVxPk) | [Moving On](https://open.spotify.com/album/1qY0nhVKw2rSpWMcp6KfSP) | 4:55 |
 | 40 | [Shaam Tanha](https://open.spotify.com/track/5V6XcXBrCGI6JOeYr4Uyo3) | [Agnee](https://open.spotify.com/artist/66VUlJ41NQs9bRTflM4eGA) | [Agnee](https://open.spotify.com/album/4zE9JWKkoH2ezquD54Kwn9) | 4:59 |
 
-Snapshot ID: `MCwwNGY4MDgwYjdjMTE1OTc5N2VmMzJmZmM1NDNmODIzODBjNTQyZjBi`
+Snapshot ID: `MCxlZTNmZTBkNjJmZjY3YTZiODlkNjU4Y2Y3MDFiM2JhOWQxMzFlOWFm`

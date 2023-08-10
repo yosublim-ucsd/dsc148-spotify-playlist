@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DYkVgiO6RF.md) - [plain]
 
 > Sintetizadores fluorescentes para acompañar tu trayecto nocturno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,680 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,874 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DYkVgiO6RF.md) - [plain]
 | 49 | [Slumlord](https://open.spotify.com/track/6O1G9pwLEidT5QTjuZw3tL) | [Neon Indian](https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er) | [VEGA INTL\. Night School](https://open.spotify.com/album/5qA9yoz0W5eHKYOr45Rkc4) | 5:15 |
 | 50 | [Los Vampiros](https://open.spotify.com/track/5VB2MeRshgRRsW7S1KgF9I) | [Dënver](https://open.spotify.com/artist/0KPHupxNcc9XMQ0SSn3LKo), [\( Me Llamo \) Sebastián](https://open.spotify.com/artist/5PoJhiT21fXvZitg3guhiJ) | [Sangre Cita](https://open.spotify.com/album/4E9LzQNoHtvUo6LpEsWjVN) | 4:25 |
 
-Snapshot ID: `MCw1MTZjMjM3N2IwMjk1ZjU3YjA2NmUzNTI0ODU0NjUwZDM4MTZmZTIy`
+Snapshot ID: `MCwzZDJiYzAzZjE3MTAxNzQ3ODNlOGU1ZDRiMDkxNDBiMDM0MjNlMzY5`

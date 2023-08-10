@@ -2,7 +2,7 @@
 
 ### [Proper Belters](https://open.spotify.com/playlist/37i9dQZF1DWWjDnew1mOxr)
 
-> Boss music for boss people\. Cover: Bandit
+> Boss music for boss people\. Cover: Miles Kane
 
 152 songs - 8 hr 51 min
 
@@ -62,7 +62,7 @@
 | [Give It Up To Love](https://open.spotify.com/track/7yzD2cGoxqldX9XvZAEQYT) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Somebody's Child](https://open.spotify.com/album/1OhCkiW1loTo9TmTwX4by8) | 3:13 | 2023-02-03 |  |
 | [Going Nowhere](https://open.spotify.com/track/07PfgizN70SFfSP134eAU2) | [The Sherlocks](https://open.spotify.com/artist/4SrofCfzlhtiKRAsMfBxV4) | [People Like Me & You](https://open.spotify.com/album/5CctSFDfkZCmQOp5vMfGA4) | 3:56 | 2023-08-04 |  |
 | [Good Luck Charm](https://open.spotify.com/track/68eOhyvEU7MFO0xBQr9xCP) | [THE GOA EXPRESS](https://open.spotify.com/artist/0uuWKORLosOJB3L6D7zplX) | [Good Luck Charm](https://open.spotify.com/album/19JgrZnZm3m5jEhinTcltf) | 3:07 | 2023-04-18 |  |
-| [Goonies \(I Only Tolerate You\)](https://open.spotify.com/track/38HNASK1K4hAuLD1BRIQan) | [Bandit](https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop) | [Goonies \(I Only Tolerate You\)](https://open.spotify.com/album/53R61BIJ4taXnBztmuLVNH) | 2:18 | 2023-01-10 | 2023-08-06 |
+| [Goonies \(I Only Tolerate You\)](https://open.spotify.com/track/38HNASK1K4hAuLD1BRIQan) | [Bandit](https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop) | [Goonies \(I Only Tolerate You\)](https://open.spotify.com/album/53R61BIJ4taXnBztmuLVNH) | 2:18 | 2023-01-10 |  |
 | [Hell On Earth](https://open.spotify.com/track/5zkVTkQkHV4ygkf4sjicbA) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Hell On Earth](https://open.spotify.com/album/0H19BYgfRBOrW5BXg7yFqH) | 2:45 | 2023-01-10 | 2023-02-24 |
 | [Hippodrome](https://open.spotify.com/track/3ouStb8Q4Tjgg6SdONuDIr) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Hippodrome](https://open.spotify.com/album/7jasBIPf9Yop4dyY9KOVqc) | 2:41 | 2023-06-28 |  |
 | [Hometown](https://open.spotify.com/track/7jY9kYe3KKy6abWf08x18M) | [The K's](https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH) | [Hometown](https://open.spotify.com/album/0aMx31rpahrCtfQbOf2AiP) | 4:52 | 2023-06-13 | 2023-08-02 |
@@ -151,7 +151,7 @@
 | [Wave](https://open.spotify.com/track/5uZrhapaUikHxUibhf5ELe) | [The Covasettes](https://open.spotify.com/artist/5dDVWJvBFaoMJrOfI6xnOt) | [Wave](https://open.spotify.com/album/4FGWWBhvlrqbqQj0Bszc33) | 3:08 | 2023-03-31 | 2023-07-07 |
 | [Wayfinding](https://open.spotify.com/track/1SBkDOflNcFTPGysQJa9gd) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Wayfinding](https://open.spotify.com/album/2uKHnwdrCulGi0RdoaJCMl) | 3:09 | 2023-01-10 | 2023-02-24 |
 | [We'll Be Alreet](https://open.spotify.com/track/5wqlwFwHMCrVo4bKSjM17X) | [Bandit](https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop) | [We'll Be Alreet](https://open.spotify.com/album/2GzKx7KP1WCpmNp59035C6) | 2:57 | 2023-07-28 |  |
-| [Weekend In Paradise](https://open.spotify.com/track/3s7m99pSJk34SFIU3oKUAA) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [We Get By](https://open.spotify.com/album/3HP0fAMCGrJOpPfGqRGIDY) | 3:16 | 2023-01-10 |  |
+| [Weekend In Paradise](https://open.spotify.com/track/3s7m99pSJk34SFIU3oKUAA) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [We Get By](https://open.spotify.com/album/3HP0fAMCGrJOpPfGqRGIDY) | 3:16 | 2023-01-10 | 2023-08-10 |
 | [Wet Dream](https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 2:20 | 2023-01-10 | 2023-02-24 |
 | [What a Shame](https://open.spotify.com/track/1qTV9vY7G87NEC8waJtT0B) | [Dylan John Thomas](https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb) | [What a Shame](https://open.spotify.com/album/6B45cam0D4Uw3NfleBOPrb) | 2:58 | 2023-01-10 |  |
 | [What You Want](https://open.spotify.com/track/4UyXpL9yyJb9t2FGAyDzjC) | [Zuzu](https://open.spotify.com/artist/4GcpGBggb1BbFfG4jS2Wpm) | [How It Feels](https://open.spotify.com/album/49fsS2odS0bn5gu3UFxqK0) | 3:22 | 2023-03-31 |  |

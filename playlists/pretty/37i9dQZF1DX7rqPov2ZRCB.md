@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 
 > Ponte a guayar con este playlist de Merengue Tipico\. Cover: El Prodigio
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,229 likes - 51 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,253 likes - 51 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 | 15 | [No Te Vayas](https://open.spotify.com/track/40Hmq1MsOhQP2y5Aff4VtI) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Cojelo Ahí](https://open.spotify.com/album/3DMQ0XGeZlnUJtqHU8kDWm) | 4:18 |
 | 16 | [Vamos hablar ingles](https://open.spotify.com/track/0sCPSj1zmc6utsy0czb54e) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [El Prodigio Vs\. Geovanny Polanco: La Batalla del Tipico \- Round 3](https://open.spotify.com/album/716GiAM5y7ZXcfotDUNb13) | 4:31 |
 | 17 | [El Conejo De La Vecina](https://open.spotify.com/track/0quAI5YgttjrisTDw3CH4d) | [Blas Duran](https://open.spotify.com/artist/0N8kOoceUhHFL16Rhe5rvb) | [Bachata Pueblo](https://open.spotify.com/album/0GMRJn4slEK9YSkAIfT9BU) | 5:38 |
-| 18 | [La Mecedora](https://open.spotify.com/track/4gud2okz9KBcDUjVGw36sD) | [Tatico Henriquez Y Sus Muchachos](https://open.spotify.com/artist/4Pva9KTs5FoQl4TuyZZ3Mm) | [Homenaje A Tatico Henríquez](https://open.spotify.com/album/6wpHAV5jdgysuRBal7lYvu) | 2:54 |
+| 18 | [El Pobre Infeliz](https://open.spotify.com/track/24lNmJYGnL4NRMjmAkGAL1) | [Urbanda](https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov) | [El Pobre Infeliz](https://open.spotify.com/album/20EpT6CZXF2E6GQK7Vwfjo) | 4:21 |
 | 19 | [El Amor De Su Vida](https://open.spotify.com/track/5CVHhOAMpfdDbn9nq7EDGv) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [Pero Dime](https://open.spotify.com/album/3mkTHzbBUqtv7FoChJ6VWi) | 4:11 |
-| 20 | [El Pobre Infeliz](https://open.spotify.com/track/24lNmJYGnL4NRMjmAkGAL1) | [Urbanda](https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov) | [El Pobre Infeliz](https://open.spotify.com/album/20EpT6CZXF2E6GQK7Vwfjo) | 4:21 |
+| 20 | [La Mecedora](https://open.spotify.com/track/4gud2okz9KBcDUjVGw36sD) | [Tatico Henriquez Y Sus Muchachos](https://open.spotify.com/artist/4Pva9KTs5FoQl4TuyZZ3Mm) | [Homenaje A Tatico Henríquez](https://open.spotify.com/album/6wpHAV5jdgysuRBal7lYvu) | 2:54 |
 | 21 | [La Grama Chapia](https://open.spotify.com/track/7MArp47Di71hZnkhEew3ws) | [Raquel Arias](https://open.spotify.com/artist/49P6VROZM32gIQyX9CvJE8) | [Los Numero Uno del Merengue Tipico, Vol\. 2](https://open.spotify.com/album/56muHwZ33PkyEKcu4vFH8W) | 4:39 |
 | 22 | [La Pimienta es la Que Pica](https://open.spotify.com/track/1cwD4kYEcYmLCPj42Ym8Yx) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [Cantando He De Morir](https://open.spotify.com/album/1WLMlfIxmGS78b2oQXKNHW) | 4:44 |
 | 23 | [El Refrán](https://open.spotify.com/track/5JMVZua23rOH7Wt1rFYeSH) | [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [From Santo Domingo: Live!](https://open.spotify.com/album/7j6mg2CE7wd6i3R5dRkr2Z) | 5:35 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 | 50 | [Tipico Caliente](https://open.spotify.com/track/6sJmVh5brIuD3PywP0gVoE) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [La Reina del Soberano](https://open.spotify.com/album/6JG72C5AvYstaw7ZWdz8xv) | 5:05 |
 | 51 | [Por Esa Mujer](https://open.spotify.com/track/2YflEzGAkdbFQ87hevZ7Gy) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | ["El Cacique" \- Todo Exitos](https://open.spotify.com/album/55mfcO5DhWjPj2RxqPGyDB) | 4:28 |
 
-Snapshot ID: `MCw5NGQ3Y2NiZmUwM2RhMjdiNzcwMWNiNzY1YWQ1YzNkOTA2YjMwNDE3`
+Snapshot ID: `MCw2MDc1OTM4YWYxYzdjZjg0YmUxYTM3MzA0N2E4NDVmMWVkODYzNmYz`

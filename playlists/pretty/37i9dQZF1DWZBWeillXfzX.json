@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 19328,
+  "num_followers": 19352,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDNmNjJlOTJmNGY0YzUxNmNhYTA1ZjMwZWEzNzhkYjI5OGQ1NGZj",
+  "snapshot_id": "MCxiY2JiMjQ0OTljZGE5OWY1MDUwNTMyZGUyYjRhYTBjMGNiZDQ0YmJl",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -453,6 +453,22 @@
       "url": "https://open.spotify.com/track/2HYRDy22RodG4Kp8DtsdDU"
     },
     {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "How Long",
+        "url": "https://open.spotify.com/album/65jsygceJoxSB3gGAPwAp6"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "duration_ms": 250253,
+      "name": "Fade",
+      "url": "https://open.spotify.com/track/2FqDzr86n4Q5Qjb1MoeEaV"
+    },
+    {
       "added_at": "2021-04-30 04:01:00",
       "album": {
         "name": "Surfing",
@@ -475,18 +491,18 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "How Long",
-        "url": "https://open.spotify.com/album/65jsygceJoxSB3gGAPwAp6"
+        "name": "Reckless Blues",
+        "url": "https://open.spotify.com/album/6m2bsgDVf8yygmksgYsPzm"
       },
       "artists": [
         {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
         }
       ],
-      "duration_ms": 250253,
-      "name": "Fade",
-      "url": "https://open.spotify.com/track/2FqDzr86n4Q5Qjb1MoeEaV"
+      "duration_ms": 315178,
+      "name": "Here Comes the Flood",
+      "url": "https://open.spotify.com/track/0YnCkOeeKV7G6H3K86kJH1"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -507,22 +523,6 @@
       "duration_ms": 446346,
       "name": "Coal Tattoo",
       "url": "https://open.spotify.com/track/56DSKF2O31YPrblvpA8xVk"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Reckless Blues",
-        "url": "https://open.spotify.com/album/6m2bsgDVf8yygmksgYsPzm"
-      },
-      "artists": [
-        {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        }
-      ],
-      "duration_ms": 315178,
-      "name": "Here Comes the Flood",
-      "url": "https://open.spotify.com/track/0YnCkOeeKV7G6H3K86kJH1"
     },
     {
       "added_at": "2022-01-28 05:00:00",
@@ -573,6 +573,22 @@
       "url": "https://open.spotify.com/track/2VaKZQ6d3qY0roo4E1Hapg"
     },
     {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Headway",
+        "url": "https://open.spotify.com/album/0TjBV6tw18oKPHabWVArG3"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "duration_ms": 178037,
+      "name": "Coming Back",
+      "url": "https://open.spotify.com/track/6enELEFBmbFdCuS2cxrS8G"
+    },
+    {
       "added_at": "2022-02-23 14:50:27",
       "album": {
         "name": "Devil May Care",
@@ -605,56 +621,20 @@
       "url": "https://open.spotify.com/track/2LGB8fWyHBw8ENzD9qH1Gv"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Bottleneck Stomp",
-        "url": "https://open.spotify.com/album/4FQBBIdc4T0fsxHAdnavFC"
-      },
-      "artists": [
-        {
-          "name": "Funkwrench Blues",
-          "url": "https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs"
-        },
-        {
-          "name": "Johnny Stachela",
-          "url": "https://open.spotify.com/artist/0S1BmerVaINiJar88KgNzi"
-        }
-      ],
-      "duration_ms": 201859,
-      "name": "Bottleneck Stomp",
-      "url": "https://open.spotify.com/track/31tYuBrDa4HN45hxSp4Bc6"
-    },
-    {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Unrepentant",
-        "url": "https://open.spotify.com/album/2rkB2Xplv6eQeEI2MhQVC1"
+        "name": "Reckless Heart",
+        "url": "https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG"
       },
       "artists": [
         {
-          "name": "Greg Koch",
-          "url": "https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC"
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
         }
       ],
-      "duration_ms": 599678,
-      "name": "Sweet Tea",
-      "url": "https://open.spotify.com/track/6JojEmIb1NMNEGpAlDDKhj"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Headway",
-        "url": "https://open.spotify.com/album/0TjBV6tw18oKPHabWVArG3"
-      },
-      "artists": [
-        {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
-        }
-      ],
-      "duration_ms": 178037,
-      "name": "Coming Back",
-      "url": "https://open.spotify.com/track/6enELEFBmbFdCuS2cxrS8G"
+      "duration_ms": 221430,
+      "name": "Creepin'",
+      "url": "https://open.spotify.com/track/6Aag6dVH7JZtS8VkvGmofm"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -673,20 +653,56 @@
       "url": "https://open.spotify.com/track/4cZv2MppweMlDEo0p5MF1n"
     },
     {
-      "added_at": "2020-10-21 17:37:12",
+      "added_at": "2021-09-03 04:01:00",
       "album": {
-        "name": "Reckless Heart",
-        "url": "https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG"
+        "name": "Mile End",
+        "url": "https://open.spotify.com/album/3dwV0EOUKOhwKWz4KZCgvx"
       },
       "artists": [
         {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
         }
       ],
-      "duration_ms": 221430,
-      "name": "Creepin'",
-      "url": "https://open.spotify.com/track/6Aag6dVH7JZtS8VkvGmofm"
+      "duration_ms": 270370,
+      "name": "Clawhammer",
+      "url": "https://open.spotify.com/track/193RPPANAhUa4KZmq35hUc"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Defenestrator",
+        "url": "https://open.spotify.com/album/7Gr8iZYU89gbFwvao6MA3h"
+      },
+      "artists": [
+        {
+          "name": "Greg Koch",
+          "url": "https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC"
+        }
+      ],
+      "duration_ms": 428577,
+      "name": "Chief's Blues",
+      "url": "https://open.spotify.com/track/0MtLzhrCsKEwFipuRI532O"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Bottleneck Stomp",
+        "url": "https://open.spotify.com/album/4FQBBIdc4T0fsxHAdnavFC"
+      },
+      "artists": [
+        {
+          "name": "Funkwrench Blues",
+          "url": "https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs"
+        },
+        {
+          "name": "Johnny Stachela",
+          "url": "https://open.spotify.com/artist/0S1BmerVaINiJar88KgNzi"
+        }
+      ],
+      "duration_ms": 201859,
+      "name": "Bottleneck Stomp",
+      "url": "https://open.spotify.com/track/31tYuBrDa4HN45hxSp4Bc6"
     },
     {
       "added_at": "2021-04-27 23:04:41",
@@ -721,22 +737,6 @@
       "url": "https://open.spotify.com/track/5XXZm9gKlhJYXONpvzPWQ1"
     },
     {
-      "added_at": "2021-09-03 04:01:00",
-      "album": {
-        "name": "Mile End",
-        "url": "https://open.spotify.com/album/3dwV0EOUKOhwKWz4KZCgvx"
-      },
-      "artists": [
-        {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
-        }
-      ],
-      "duration_ms": 270370,
-      "name": "Clawhammer",
-      "url": "https://open.spotify.com/track/193RPPANAhUa4KZmq35hUc"
-    },
-    {
       "added_at": "2020-10-21 17:37:12",
       "album": {
         "name": "Anytime You Need Me",
@@ -755,8 +755,8 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Defenestrator",
-        "url": "https://open.spotify.com/album/7Gr8iZYU89gbFwvao6MA3h"
+        "name": "Unrepentant",
+        "url": "https://open.spotify.com/album/2rkB2Xplv6eQeEI2MhQVC1"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC"
         }
       ],
-      "duration_ms": 428577,
-      "name": "Chief's Blues",
-      "url": "https://open.spotify.com/track/0MtLzhrCsKEwFipuRI532O"
+      "duration_ms": 599678,
+      "name": "Sweet Tea",
+      "url": "https://open.spotify.com/track/6JojEmIb1NMNEGpAlDDKhj"
     },
     {
       "added_at": "2020-10-21 17:37:12",

@@ -1,12 +1,12 @@
 {
   "description": "Na m\u00fasica eletr\u00f4nica underground brasileira, nos vemos no front.",
-  "num_followers": 9362,
+  "num_followers": 9369,
   "original_name": "Front BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDc3OGNlYzgzMmUxMGViNTQwYjIxZTQ4M2RiNGJmZmE0MzcwOTc5",
+  "snapshot_id": "MCxmY2JkM2IwODUzZTNjYmI1ZjZhYmM5YjQ5MTAxZDYxODQ0ZDA0ZjQ4",
   "tracks": [
     {
       "added_at": "2023-06-16 03:03:00",
@@ -231,18 +231,18 @@
     {
       "added_at": "2023-06-16 03:03:00",
       "album": {
-        "name": "Charme",
-        "url": "https://open.spotify.com/album/60cvpqPVesp2srVcNCFKJV"
+        "name": "Benzine EP",
+        "url": "https://open.spotify.com/album/2DibufkG06qMeScycqEsXE"
       },
       "artists": [
         {
-          "name": "Zopelar",
-          "url": "https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb"
+          "name": "Renato Cohen",
+          "url": "https://open.spotify.com/artist/7C26wQyStqkNFW94iutvVD"
         }
       ],
-      "duration_ms": 247594,
-      "name": "Shibuya",
-      "url": "https://open.spotify.com/track/37a26nmggsuaojxP7TauTH"
+      "duration_ms": 406138,
+      "name": "Benzine",
+      "url": "https://open.spotify.com/track/5Df2OdR13Gvj8hH05VkBG0"
     },
     {
       "added_at": "2023-06-16 03:03:00",
@@ -267,18 +267,18 @@
     {
       "added_at": "2023-06-16 03:03:00",
       "album": {
-        "name": "Benzine EP",
-        "url": "https://open.spotify.com/album/2DibufkG06qMeScycqEsXE"
+        "name": "Charme",
+        "url": "https://open.spotify.com/album/60cvpqPVesp2srVcNCFKJV"
       },
       "artists": [
         {
-          "name": "Renato Cohen",
-          "url": "https://open.spotify.com/artist/7C26wQyStqkNFW94iutvVD"
+          "name": "Zopelar",
+          "url": "https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb"
         }
       ],
-      "duration_ms": 406138,
-      "name": "Benzine",
-      "url": "https://open.spotify.com/track/5Df2OdR13Gvj8hH05VkBG0"
+      "duration_ms": 247594,
+      "name": "Shibuya",
+      "url": "https://open.spotify.com/track/37a26nmggsuaojxP7TauTH"
     },
     {
       "added_at": "2023-06-16 03:03:00",
@@ -619,26 +619,6 @@
     {
       "added_at": "2023-06-16 03:03:00",
       "album": {
-        "name": "Corpo",
-        "url": "https://open.spotify.com/album/3sRnGBAdriBmqGZH52snaz"
-      },
-      "artists": [
-        {
-          "name": "Gezender",
-          "url": "https://open.spotify.com/artist/1oNqcSKUrJbsXHri4XS31a"
-        },
-        {
-          "name": "Linn da Quebrada",
-          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
-        }
-      ],
-      "duration_ms": 303161,
-      "name": "Corpo Fechado",
-      "url": "https://open.spotify.com/track/3JtseE56PXDVUvZUqwbx5K"
-    },
-    {
-      "added_at": "2023-06-16 03:03:00",
-      "album": {
         "name": "Rock The Box",
         "url": "https://open.spotify.com/album/15RTVs764De4RhPcuu03li"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 382204,
       "name": "Rock The Box - Original",
       "url": "https://open.spotify.com/track/5XeYuUSlDpBLXh1zGexb6a"
+    },
+    {
+      "added_at": "2023-06-16 03:03:00",
+      "album": {
+        "name": "Corpo",
+        "url": "https://open.spotify.com/album/3sRnGBAdriBmqGZH52snaz"
+      },
+      "artists": [
+        {
+          "name": "Gezender",
+          "url": "https://open.spotify.com/artist/1oNqcSKUrJbsXHri4XS31a"
+        },
+        {
+          "name": "Linn da Quebrada",
+          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
+        }
+      ],
+      "duration_ms": 303161,
+      "name": "Corpo Fechado",
+      "url": "https://open.spotify.com/track/3JtseE56PXDVUvZUqwbx5K"
     },
     {
       "added_at": "2023-06-16 03:03:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-06-16 03:03:00",
       "album": {
+        "name": "Maelstro\u0308m",
+        "url": "https://open.spotify.com/album/7qAo2jVa8XixAGpGVkhLDT"
+      },
+      "artists": [
+        {
+          "name": "Wielki",
+          "url": "https://open.spotify.com/artist/69q5CZV9Zg5GaKi5gOMonB"
+        }
+      ],
+      "duration_ms": 487073,
+      "name": "Maelstro\u0308m",
+      "url": "https://open.spotify.com/track/7MwBYwSqHHawXItyk1gRpC"
+    },
+    {
+      "added_at": "2023-06-16 03:03:00",
+      "album": {
         "name": "Flame of the Pine Cone",
         "url": "https://open.spotify.com/album/5qWaHba39117j2eCaKiHIW"
       },
@@ -703,22 +719,6 @@
     {
       "added_at": "2023-06-16 03:03:00",
       "album": {
-        "name": "Maelstro\u0308m",
-        "url": "https://open.spotify.com/album/7qAo2jVa8XixAGpGVkhLDT"
-      },
-      "artists": [
-        {
-          "name": "Wielki",
-          "url": "https://open.spotify.com/artist/69q5CZV9Zg5GaKi5gOMonB"
-        }
-      ],
-      "duration_ms": 487073,
-      "name": "Maelstro\u0308m",
-      "url": "https://open.spotify.com/track/7MwBYwSqHHawXItyk1gRpC"
-    },
-    {
-      "added_at": "2023-06-16 03:03:00",
-      "album": {
         "name": "N\u00f3dulo",
         "url": "https://open.spotify.com/album/43JSvwecrejD1GqA0KGiWb"
       },
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-06-16 03:03:00",
       "album": {
-        "name": "Feel Me",
-        "url": "https://open.spotify.com/album/28dybAb1bHM81bMOIPM9QW"
-      },
-      "artists": [
-        {
-          "name": "Aninha",
-          "url": "https://open.spotify.com/artist/6dCjFLvBI3cNlTIUWSXRrf"
-        }
-      ],
-      "duration_ms": 351451,
-      "name": "Feel Me - Original mix",
-      "url": "https://open.spotify.com/track/2UKEv5MMX7TYHcc92TJHP5"
-    },
-    {
-      "added_at": "2023-06-16 03:03:00",
-      "album": {
         "name": "Nocturnal Fear",
         "url": "https://open.spotify.com/album/5SKJOj2pql5vvHUz2TYtmP"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 336400,
       "name": "Colapso",
       "url": "https://open.spotify.com/track/0GnU3VwY3jlVvOIm8mSwPb"
+    },
+    {
+      "added_at": "2023-06-16 03:03:00",
+      "album": {
+        "name": "Feel Me",
+        "url": "https://open.spotify.com/album/28dybAb1bHM81bMOIPM9QW"
+      },
+      "artists": [
+        {
+          "name": "Aninha",
+          "url": "https://open.spotify.com/artist/6dCjFLvBI3cNlTIUWSXRrf"
+        }
+      ],
+      "duration_ms": 351451,
+      "name": "Feel Me - Original mix",
+      "url": "https://open.spotify.com/track/2UKEv5MMX7TYHcc92TJHP5"
     },
     {
       "added_at": "2023-06-16 03:03:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-06-16 03:03:00",
       "album": {
-        "name": "Cryptobiosis",
-        "url": "https://open.spotify.com/album/28f9sEk188mI9eDNJPpFVF"
-      },
-      "artists": [
-        {
-          "name": "K.A.L.I.L.",
-          "url": "https://open.spotify.com/artist/6im40CIcqEb9GVJ7Mg4nbT"
-        }
-      ],
-      "duration_ms": 410909,
-      "name": "Cryptobiosis",
-      "url": "https://open.spotify.com/track/3AfuPrv7mZQMP800JIyTTA"
-    },
-    {
-      "added_at": "2023-06-16 03:03:00",
-      "album": {
         "name": "Escola da Rua",
         "url": "https://open.spotify.com/album/3EAWOfvkAKjGTfmx0jXg7R"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 309677,
       "name": "A Man Called Cory",
       "url": "https://open.spotify.com/track/7eJCJWjhGtTdk6gwoDdZLk"
+    },
+    {
+      "added_at": "2023-06-16 03:03:00",
+      "album": {
+        "name": "Cryptobiosis",
+        "url": "https://open.spotify.com/album/28f9sEk188mI9eDNJPpFVF"
+      },
+      "artists": [
+        {
+          "name": "K.A.L.I.L.",
+          "url": "https://open.spotify.com/artist/6im40CIcqEb9GVJ7Mg4nbT"
+        }
+      ],
+      "duration_ms": 410909,
+      "name": "Cryptobiosis",
+      "url": "https://open.spotify.com/track/3AfuPrv7mZQMP800JIyTTA"
     },
     {
       "added_at": "2023-06-16 03:03:00",

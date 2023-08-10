@@ -2,9 +2,9 @@
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: OH MY GIRL\(오마이걸\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
+> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: JO YURI\(조유리\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-352 songs - 19 hr 49 min
+353 songs - 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 | 2022-08-26 |  |
 | [Talk to me](https://open.spotify.com/track/2wcFM3ZJwOjE09L6K2rBLc) | [ALICE](https://open.spotify.com/artist/1mgzY8CsK8lyJy96tT8bV5) | [SUMMER DREAM](https://open.spotify.com/album/2HLeKfrHYquFIoM6VArIzJ) | 3:13 | 2021-11-29 | 2022-07-22 |
 | [Tasty Tasty Tasty](https://open.spotify.com/track/1Tzcbnj2VqwHwvwJtVdpWe) | [Heyne](https://open.spotify.com/artist/3VIi3w8QEz7SHLBg5XM8c5) | [Tiny Bits of Life, Pt\. 10](https://open.spotify.com/album/1WpoE8sMwNk2I918nxcrk0) | 3:05 | 2021-11-29 | 2022-06-12 |
+| [TAXI](https://open.spotify.com/track/0LMqywHzZAAwSPWCfyfz9t) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [LOVE ALL](https://open.spotify.com/album/48XkMlSp71d4SzQsxiaij2) | 2:48 | 2023-08-09 |  |
 | [Temptation](https://open.spotify.com/track/153Q9DPESoV9PfJXHMnAFH) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Lovelyz 4th Mini Album Heal](https://open.spotify.com/album/2bEKOTFTxk07CU3O2sk9BX) | 3:27 | 2021-11-29 | 2022-04-21 |
 | [Thank You](https://open.spotify.com/track/08rg9OloHTHRsk9evNPpnd) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [THANK YOU](https://open.spotify.com/album/5RaqvFt71ro3Y8nngoucv6) | 3:15 | 2022-03-14 | 2022-07-24 |
 | [That day](https://open.spotify.com/track/7FO1P6TNaex2MfGFf5fRT0) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Lovelyz 4th Mini Album Heal](https://open.spotify.com/album/2bEKOTFTxk07CU3O2sk9BX) | 3:14 | 2022-01-04 | 2022-07-22 |
@@ -345,7 +346,7 @@
 | [WOOWA](https://open.spotify.com/track/4m5AhuM3VelbtBYuEsGDh9) | [DIA](https://open.spotify.com/artist/5Pcx98OUnL52aGZRRQx5v8) | [NEWTRO](https://open.spotify.com/album/3CBgvajr0lz1fOIGIydiZ3) | 3:30 | 2022-03-29 | 2022-04-17 |
 | [WOW](https://open.spotify.com/track/3ShgNuFJouJbl2KMMQyJ0Z) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [twicetagram](https://open.spotify.com/album/7dOZAeST5qCpfpQRAHq9sa) | 3:00 | 2022-03-29 | 2022-04-14 |
 | [WoW!](https://open.spotify.com/track/2qgkIp9tzoOLojU6C0fYD6) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Lovelyz 2nd Album \(R U Ready?\)](https://open.spotify.com/album/6O2yBn46GYN9yPJqGzRWHZ) | 3:05 | 2022-01-04 | 2022-04-19 |
-| [Yellow Circle](https://open.spotify.com/track/6LezRpxJ871VNvutDEXrBw) | [채수빈](https://open.spotify.com/artist/3jiobQaay0PMiQ52CglwbD), [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Yellow Circle](https://open.spotify.com/album/05QSjT7X0KUumX2ItI28dz) | 3:02 | 2023-07-17 |  |
+| [Yellow Circle](https://open.spotify.com/track/6LezRpxJ871VNvutDEXrBw) | [채수빈](https://open.spotify.com/artist/3jiobQaay0PMiQ52CglwbD), [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Yellow Circle](https://open.spotify.com/album/05QSjT7X0KUumX2ItI28dz) | 3:02 | 2023-07-17 | 2023-08-10 |
 | [YES](https://open.spotify.com/track/1uOJalZ7iW7BCMm2orWFF4) | [Live High](https://open.spotify.com/artist/4Xbz8MwFw2jAQzYKZpHZ8L) | [YES](https://open.spotify.com/album/2ghlo9GwoIaTUgqZXzh44x) | 3:26 | 2022-03-29 | 2022-04-17 |
 | [YES or YES](https://open.spotify.com/track/26OVhEqFDQH0Ij77QtmGP9) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [YES or YES](https://open.spotify.com/album/25VunQEW0x2W6ALND2Mh4g) | 3:57 | 2022-07-28 | 2023-05-23 |
 | [YES or YES](https://open.spotify.com/track/1S6zXoXhfalX2ETKo337Md) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [YES or YES](https://open.spotify.com/album/38QQgShZFuEAJJw1A6hz3x) | 3:57 | 2021-11-29 | 2022-07-28 |

@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Travis Scott",
-  "num_followers": 14829,
+  "num_followers": 14922,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzE1OGIzZGM1MzRlNWQyNmQ5ZTk3MmNmNDY4OWVkOWNjYmFiYzA2",
+  "snapshot_id": "MCwyYzFhZGFkNzRiY2NhYzIxOGQ2Nzg3ZWJkNmZiNzgxMGMzOGI5YWRl",
   "tracks": [
     {
       "added_at": "2023-08-07 12:33:28",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-08-07 12:33:28",
       "album": {
+        "name": "It's Getting Hot",
+        "url": "https://open.spotify.com/album/5c96P3dSu3UIgrGhIaE7RO"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 134424,
+      "name": "It's Getting Hot",
+      "url": "https://open.spotify.com/track/4lMyi03aRk8nPBLLGyqAVz"
+    },
+    {
+      "added_at": "2023-08-07 12:33:28",
+      "album": {
         "name": "HOTEL LOBBY (Unc & Phew)",
         "url": "https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 142657,
       "name": "HOTEL LOBBY (Unc & Phew)",
       "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
-    },
-    {
-      "added_at": "2023-08-07 12:33:28",
-      "album": {
-        "name": "It's Getting Hot",
-        "url": "https://open.spotify.com/album/5c96P3dSu3UIgrGhIaE7RO"
-      },
-      "artists": [
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        }
-      ],
-      "duration_ms": 134424,
-      "name": "It's Getting Hot",
-      "url": "https://open.spotify.com/track/4lMyi03aRk8nPBLLGyqAVz"
     },
     {
       "added_at": "2023-08-07 12:33:28",
@@ -563,6 +563,22 @@
       "duration_ms": 226000,
       "name": "bread & butter",
       "url": "https://open.spotify.com/track/7IqsNN0EMckx9YqddgXlwg"
+    },
+    {
+      "added_at": "2023-08-07 12:33:28",
+      "album": {
+        "name": "Big 7",
+        "url": "https://open.spotify.com/album/75AHV3X6Pcy1aHJZabAwib"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 143042,
+      "name": "Big 7",
+      "url": "https://open.spotify.com/track/1OgoyOlrMJFqjE1eqQiCUc"
     },
     {
       "added_at": "2023-08-07 12:33:28",
@@ -603,22 +619,6 @@
       "duration_ms": 181393,
       "name": "What Happened To Virgil (feat. Gunna)",
       "url": "https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P"
-    },
-    {
-      "added_at": "2023-08-07 12:33:28",
-      "album": {
-        "name": "Big 7",
-        "url": "https://open.spotify.com/album/75AHV3X6Pcy1aHJZabAwib"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 143042,
-      "name": "Big 7",
-      "url": "https://open.spotify.com/track/1OgoyOlrMJFqjE1eqQiCUc"
     },
     {
       "added_at": "2023-08-07 12:33:28",
@@ -747,22 +747,22 @@
     {
       "added_at": "2023-08-07 12:33:28",
       "album": {
-        "name": "BUSINESS IS BUSINESS",
-        "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
+        "name": "Sittin' On Top Of The World (feat. 21 Savage)",
+        "url": "https://open.spotify.com/album/7h29hmZt35DSt9r3fVrTjF"
       },
       "artists": [
         {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         },
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 247733,
-      "name": "Abracadabra (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/4Zsi5pyvmZBxvRg0KeDFMC"
+      "duration_ms": 188290,
+      "name": "Sittin' On Top Of The World (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/6RN73O4iZHd9JQ4JHuul95"
     },
     {
       "added_at": "2023-08-07 12:33:28",
@@ -787,38 +787,22 @@
     {
       "added_at": "2023-08-07 12:33:28",
       "album": {
-        "name": "Sittin' On Top Of The World (feat. 21 Savage)",
-        "url": "https://open.spotify.com/album/7h29hmZt35DSt9r3fVrTjF"
+        "name": "BUSINESS IS BUSINESS",
+        "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         },
         {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 188290,
-      "name": "Sittin' On Top Of The World (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/6RN73O4iZHd9JQ4JHuul95"
-    },
-    {
-      "added_at": "2023-08-07 12:33:28",
-      "album": {
-        "name": "It's Crazy",
-        "url": "https://open.spotify.com/album/4zdADqVJvqP6tBd74SJlqQ"
-      },
-      "artists": [
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        }
-      ],
-      "duration_ms": 200440,
-      "name": "It's Crazy - Single Version",
-      "url": "https://open.spotify.com/track/03P20c2fQ6SGnyyvngIdmG"
+      "duration_ms": 247733,
+      "name": "Abracadabra (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/4Zsi5pyvmZBxvRg0KeDFMC"
     },
     {
       "added_at": "2023-08-07 12:33:28",
@@ -835,6 +819,22 @@
       "duration_ms": 124000,
       "name": "DECLAN RICE",
       "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
+    },
+    {
+      "added_at": "2023-08-07 12:33:28",
+      "album": {
+        "name": "It's Crazy",
+        "url": "https://open.spotify.com/album/4zdADqVJvqP6tBd74SJlqQ"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        }
+      ],
+      "duration_ms": 200440,
+      "name": "It's Crazy - Single Version",
+      "url": "https://open.spotify.com/track/03P20c2fQ6SGnyyvngIdmG"
     },
     {
       "added_at": "2023-08-07 12:33:28",
@@ -935,6 +935,30 @@
     {
       "added_at": "2023-08-07 12:33:28",
       "album": {
+        "name": "PICANTO",
+        "url": "https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "ECko Miles",
+          "url": "https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD"
+        }
+      ],
+      "duration_ms": 184077,
+      "name": "PICANTO",
+      "url": "https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z"
+    },
+    {
+      "added_at": "2023-08-07 12:33:28",
+      "album": {
         "name": "Let\u2019s Go (feat. Aitch)",
         "url": "https://open.spotify.com/album/03YnYlkkIiMOjIV9qIjykw"
       },
@@ -975,6 +999,22 @@
     {
       "added_at": "2023-08-07 12:33:28",
       "album": {
+        "name": "Mel Made Me Do It",
+        "url": "https://open.spotify.com/album/2qB4PkpoOUuvLXPzckmYdw"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 440857,
+      "name": "Mel Made Me Do It",
+      "url": "https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe"
+    },
+    {
+      "added_at": "2023-08-07 12:33:28",
+      "album": {
         "name": "No More",
         "url": "https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk"
       },
@@ -991,42 +1031,18 @@
     {
       "added_at": "2023-08-07 12:33:28",
       "album": {
-        "name": "PICANTO",
-        "url": "https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc"
+        "name": "Dog Eat Dog",
+        "url": "https://open.spotify.com/album/00Q28Y8WQym1RRqM6iYmTH"
       },
       "artists": [
         {
           "name": "ODUMODUBLVCK",
           "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "ECko Miles",
-          "url": "https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD"
         }
       ],
-      "duration_ms": 184077,
-      "name": "PICANTO",
-      "url": "https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z"
-    },
-    {
-      "added_at": "2023-08-07 12:33:28",
-      "album": {
-        "name": "Mel Made Me Do It",
-        "url": "https://open.spotify.com/album/2qB4PkpoOUuvLXPzckmYdw"
-      },
-      "artists": [
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        }
-      ],
-      "duration_ms": 440857,
-      "name": "Mel Made Me Do It",
-      "url": "https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe"
+      "duration_ms": 149052,
+      "name": "Dog Eat Dog",
+      "url": "https://open.spotify.com/track/4XYpWMW1ec7GJW2Eq8UA9k"
     },
     {
       "added_at": "2023-08-07 12:33:28",
@@ -1111,30 +1127,6 @@
     {
       "added_at": "2023-08-07 12:33:28",
       "album": {
-        "name": "blessing me (with Pa Salieu & Skillibeng)",
-        "url": "https://open.spotify.com/album/4Z3TLFfO6xwXLgInns2gXI"
-      },
-      "artists": [
-        {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
-        },
-        {
-          "name": "Pa Salieu",
-          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
-        },
-        {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
-        }
-      ],
-      "duration_ms": 165507,
-      "name": "blessing me (with Pa Salieu & Skillibeng)",
-      "url": "https://open.spotify.com/track/3wyfDf57MYVDeGW8qYIWsn"
-    },
-    {
-      "added_at": "2023-08-07 12:33:28",
-      "album": {
         "name": "This Is What I Mean",
         "url": "https://open.spotify.com/album/5feRs2ejrMcxuM5hcDDSBb"
       },
@@ -1167,18 +1159,26 @@
     {
       "added_at": "2023-08-07 12:33:28",
       "album": {
-        "name": "Dog Eat Dog",
-        "url": "https://open.spotify.com/album/00Q28Y8WQym1RRqM6iYmTH"
+        "name": "blessing me (with Pa Salieu & Skillibeng)",
+        "url": "https://open.spotify.com/album/4Z3TLFfO6xwXLgInns2gXI"
       },
       "artists": [
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
         }
       ],
-      "duration_ms": 149052,
-      "name": "Dog Eat Dog",
-      "url": "https://open.spotify.com/track/4XYpWMW1ec7GJW2Eq8UA9k"
+      "duration_ms": 165507,
+      "name": "blessing me (with Pa Salieu & Skillibeng)",
+      "url": "https://open.spotify.com/track/3wyfDf57MYVDeGW8qYIWsn"
     }
   ],
   "unique_name": "Hype List",

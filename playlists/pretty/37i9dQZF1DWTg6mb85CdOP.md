@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 
 > ¡Nos vemos el 17, 18 y 19 de Febrero en Las Estacas para disfrutar juntos! ¿A quién no te vas a perder?
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,733 likes - 68 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,736 likes - 68 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 | 20 | [Nena \- A COLORS SHOW](https://open.spotify.com/track/7rlKjHvYFlAjMIUDY1CMLu) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Nena \- A COLORS SHOW](https://open.spotify.com/album/1kPIabHrJ8UwfkleGFtQ8m) | 2:33 |
 | 21 | [Te Queria](https://open.spotify.com/track/10Jr2PJeIMPYYRWsWximsP) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:02 |
 | 22 | [Merci Éclair](https://open.spotify.com/track/0tGWcbplNiSkw8RxhMPuMJ) | [Stavroz](https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T) | [Talabout](https://open.spotify.com/album/4um67GUp8OfQFyfSMwtp7J) | 5:25 |
-| 23 | [Raw Cuts \#3](https://open.spotify.com/track/615MwwslOSkBtkBbnhtD7b) | [Danilo Plessow](https://open.spotify.com/artist/3frW3pRt2IpKAysgM8ksle), [Motor City Drum Ensemble](https://open.spotify.com/artist/4TlzX7s6kuZDtiBpsopcBf) | [Raw Cuts \#3](https://open.spotify.com/album/5qZrE4W59S3tOInGjTDzLe) | 6:54 |
+| 23 | [Nakamarra](https://open.spotify.com/track/23D6FgVV4VygFfJxAtk72J) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Tawk Tomahawk](https://open.spotify.com/album/3s7dB6EHrYkaWjzfVbZfCo) | 4:35 |
 | 24 | [Jeans](https://open.spotify.com/track/2o5Pi9Q9mshFu6uvvgFg3c) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [DROPOUT](https://open.spotify.com/album/72UjDMnMsU8gD9AQDbeeYW) | 3:42 |
-| 25 | [All Night Long](https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [All Night Long](https://open.spotify.com/album/2PuKW3LCrVlfbIY1u4RoMe) | 4:20 |
-| 26 | [Nakamarra](https://open.spotify.com/track/23D6FgVV4VygFfJxAtk72J) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Tawk Tomahawk](https://open.spotify.com/album/3s7dB6EHrYkaWjzfVbZfCo) | 4:35 |
+| 25 | [Raw Cuts \#3](https://open.spotify.com/track/615MwwslOSkBtkBbnhtD7b) | [Danilo Plessow](https://open.spotify.com/artist/3frW3pRt2IpKAysgM8ksle), [Motor City Drum Ensemble](https://open.spotify.com/artist/4TlzX7s6kuZDtiBpsopcBf) | [Raw Cuts \#3](https://open.spotify.com/album/5qZrE4W59S3tOInGjTDzLe) | 6:54 |
+| 26 | [All Night Long](https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [All Night Long](https://open.spotify.com/album/2PuKW3LCrVlfbIY1u4RoMe) | 4:20 |
 | 27 | [Should've Brought an Umbrella](https://open.spotify.com/track/6MDdQPkqN2K9xOyccN6Oj9) | [Stavroz](https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T) | [Silent Spring EP](https://open.spotify.com/album/2fz4ZOEnLKXo8cLUzDLC2u) | 7:15 |
 | 28 | [Las Hierbas](https://open.spotify.com/track/0UOai7VVRHNZwS3hmOWehN) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV), [Santiago Navas](https://open.spotify.com/artist/5ErW25NvyMqecQD268Cdxo) | [Juntura](https://open.spotify.com/album/117GdDdyYQyaR3ddgcp1EN) | 2:41 |
 | 29 | [AMARILLO MI CORAZÓN](https://open.spotify.com/track/0P2yIpAaEyOjxMfH4CrYyB) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [AMARILLO MI CORAZÓN](https://open.spotify.com/album/2PJLX9PXiQ7hG3nILSDlXu) | 3:06 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 | 34 | [Diving into Minds](https://open.spotify.com/track/0JmuFZNZNs7hJIWflYE3CA) | [Soichi Terada](https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9) | [Asakusa Light](https://open.spotify.com/album/0CN1YXeVCXpPqe8ItuPaN3) | 4:31 |
 | 35 | [Last Land](https://open.spotify.com/track/0KSwrR8ECWa14O5OAqG36N) | [John Talabot](https://open.spotify.com/artist/1YvN5uOGQkHVUUlZUcnotD) | [Fin](https://open.spotify.com/album/4MeSw9nbALgbtx13UrwBXm) | 4:23 |
 | 36 | [UNA PENA \- ORGINAL](https://open.spotify.com/track/0KD97PT97Qi2a7Zuq2gJkL) | [Stimming](https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ) | [Una Pena](https://open.spotify.com/album/4KHVqwTF2jO1gTYHATQVMM) | 8:05 |
-| 37 | [Tanto](https://open.spotify.com/track/1JXgpyoUNXqGb6aLy3zhRK) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [Deepsoul](https://open.spotify.com/album/740mAq1Crswiib49Zn9JwM) | 3:37 |
-| 38 | [Reverie](https://open.spotify.com/track/4XwKweWkOkGrXAJks0B7j2) | [Sama’ Abdulhadi](https://open.spotify.com/artist/52qyXsgOeHZZxHRRxyO8xm) | [Reverie](https://open.spotify.com/album/4gOjvaMgNOZ2u3ip4P3hSk) | 6:37 |
+| 37 | [Reverie](https://open.spotify.com/track/4XwKweWkOkGrXAJks0B7j2) | [Sama’ Abdulhadi](https://open.spotify.com/artist/52qyXsgOeHZZxHRRxyO8xm) | [Reverie](https://open.spotify.com/album/4gOjvaMgNOZ2u3ip4P3hSk) | 6:37 |
+| 38 | [Tanto](https://open.spotify.com/track/1JXgpyoUNXqGb6aLy3zhRK) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [Deepsoul](https://open.spotify.com/album/740mAq1Crswiib49Zn9JwM) | 3:37 |
 | 39 | [SHUT UP](https://open.spotify.com/track/3uuohe7EVxzW8UqnSIAAuc) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT), [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX), [Blackthoven](https://open.spotify.com/artist/6KhtkRzbD5IKjYOlHanIjS) | [SHUT UP](https://open.spotify.com/album/7llnim2vHi8vZJAsshGC34) | 2:48 |
 | 40 | [Memory Palace](https://open.spotify.com/track/1FnxDnuiG7WJAFmtFTlejT) | [Mildlife](https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3) | [Automatic](https://open.spotify.com/album/4l8HTiPwY1GrY3WNUNOZ8q) | 6:41 |
 | 41 | [Femme](https://open.spotify.com/track/4mNI8DJ5LS91D1bTjaqNg7) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Femme Tech](https://open.spotify.com/album/3oMUty55rKKpoCrA0mme5J) | 6:22 |
@@ -71,10 +71,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 | 61 | [Hurt](https://open.spotify.com/track/7nZfJZknW5vyEU2uWJhmiI) | [Sangre Nueva](https://open.spotify.com/artist/0YmokPIhVketCTSXBRp20R), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Florentino](https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44), [Kelman Duran](https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd) | [Goteo](https://open.spotify.com/album/0bSLm9NcV2xx1cXNyQpy24) | 5:00 |
 | 62 | [Love Is Dancing](https://open.spotify.com/track/2e2K17EZwg6ygzxYt8DCRP) | [Suricata](https://open.spotify.com/artist/2xKpXTLYPN7jd325QEb65b) | [The Only Way Out Is In](https://open.spotify.com/album/1A5nm5ciRNT5KyhHxM8Cko) | 8:26 |
 | 63 | [Otro Pais](https://open.spotify.com/track/2h9icBCyl9pVsfcN0ZQG6H) | [Los Esplifs](https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb) | [Estraik Back](https://open.spotify.com/album/5RdZA6wy7EDXvrmAzdlUcY) | 4:02 |
-| 64 | [Te invito a santiago con Leinadh](https://open.spotify.com/track/5WTn6NbKBQRXiiAtkqFOCc) | [Ruiseñor](https://open.spotify.com/artist/58QcmTFKcNJrvRAZxuadGD) | [Ruiseñor en su tinta](https://open.spotify.com/album/4H24kwEBnj5HXFqojqTl9q) | 3:35 |
+| 64 | [Tu Color](https://open.spotify.com/track/51MQDiZAgOyUH8UXD3TTlY) | [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U) | [Tu Color](https://open.spotify.com/album/38DaQfytg4lkX9qupqzohm) | 3:46 |
 | 65 | [Foreign to You \(feat\. NiQ E\)](https://open.spotify.com/track/5USp6KjDcrgiXX57i27Tpd) | [Portable](https://open.spotify.com/artist/64PiD6gdmMy2lEgS5XgdjR) | [My Sentient Shadow](https://open.spotify.com/album/09Bd5Q7D4hBS5XuRHL1VhB) | 5:14 |
 | 66 | [El Peruanito](https://open.spotify.com/track/4eMUX8A7fy1SgV5Lgyc5Z5) | [Los Cotopla Boyz](https://open.spotify.com/artist/0YkRMiBfwJaxLp2WhSl9eV) | [Mamarron, Vol.1](https://open.spotify.com/album/6MEwYeSu3l3mHBoJvtp2Zy) | 3:31 |
-| 67 | [Tu Color](https://open.spotify.com/track/51MQDiZAgOyUH8UXD3TTlY) | [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U) | [Tu Color](https://open.spotify.com/album/38DaQfytg4lkX9qupqzohm) | 3:46 |
+| 67 | [Te invito a santiago con Leinadh](https://open.spotify.com/track/5WTn6NbKBQRXiiAtkqFOCc) | [Ruiseñor](https://open.spotify.com/artist/58QcmTFKcNJrvRAZxuadGD) | [Ruiseñor en su tinta](https://open.spotify.com/album/4H24kwEBnj5HXFqojqTl9q) | 3:35 |
 | 68 | [fuck this shit \(Facer v shorta\)](https://open.spotify.com/track/33mJM2VfL0QRPtVn5tHE1k) | [Ruiseñor](https://open.spotify.com/artist/58QcmTFKcNJrvRAZxuadGD) | [Coleccion Urbana](https://open.spotify.com/album/1A74wottgv3CRTddEoZcLv) | 3:04 |
 
-Snapshot ID: `MCwyMjQ4OGRkM2EyYTc3MjVmMDg3Nzg2OWE0ZGNlMWQyOGM1NmUzNDlk`
+Snapshot ID: `MCw1MmZhYmZhMmVkZDg3YTBjZDE0YzdlYjZmZDIzOTkyMzg0NmIxMzJl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5MvQUYjD2Ap5Ga6pD5YN9g">Emily Falvey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 152 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 17 | [Wish You Wouldn’t](https://open.spotify.com/track/1FFiFJaKHSJ6w3ucont3Br) | [Callista Clark](https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm) | [Real To Me: The Way I Feel \(Deluxe Edition\)](https://open.spotify.com/album/6SEog5NExgkEGFiUZw7AYF) | 3:15 |
 | 18 | [Alabama Nights](https://open.spotify.com/track/0wKZraHIi51smdFZOjJgc5) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Alabama Nights](https://open.spotify.com/album/3oE0zEeUQbTKpnFyVUA1uj) | 3:10 |
 | 19 | [Happy Anymore](https://open.spotify.com/track/2t9ZK3i4cxA9WZkpvf5up2) | [Savannah Sgro](https://open.spotify.com/artist/5aj9AKqFL0JpL2sQ8Q2irp) | [Phobia](https://open.spotify.com/album/1aRThupMAXji2AuQIlsIM1) | 3:18 |
-| 20 | [Firehazard](https://open.spotify.com/track/4eCMl0kcqO9uQy6vtduGmg) | [Syence](https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Firehazard](https://open.spotify.com/album/7m72310c756Nzu7duj09Ib) | 3:09 |
+| 20 | [Firehazard](https://open.spotify.com/track/53Or0YarAZQT7RfEsI8Qw2) | [Syence](https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Firehazard](https://open.spotify.com/album/5IDO7CyhkJCxHAzSVvmsLE) | 3:09 |
 | 21 | [Someone Else's Heartbreak](https://open.spotify.com/track/4EKvXD76hhYuKAXWokpyRB) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Someone Else's Heartbreak](https://open.spotify.com/album/3xccw93KgxWuesYmkkJsLp) | 3:35 |
 | 22 | [Girl Wonder](https://open.spotify.com/track/3hNFCHrMfOpjwE6p517XX4) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July \(The Album\)](https://open.spotify.com/album/6Xz5OPkS6RCcmQ1hA7JUaO) | 3:02 |
 | 23 | [I Love You Now Change](https://open.spotify.com/track/5L1aDYN5u5OBOUCGhrK3pU) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Hollywood Gypsy](https://open.spotify.com/album/0d1akoTwbEMgNi9gGuG0ZI) | 3:25 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 79 | [Parallel Universe](https://open.spotify.com/track/7Bjeh8lHQZMolHSm4kX2Ie) | [Navyhue](https://open.spotify.com/artist/1ab6W5waGBlE1nmkVtLdX5) | [Parallel Universe](https://open.spotify.com/album/00zC5ot02HOcq5pf9odGIw) | 3:32 |
 | 80 | [Close](https://open.spotify.com/track/3lhEsT2z3kVegKaI05Osy5) | [Leslie Powell](https://open.spotify.com/artist/67tylszKgAZkKeJ0hCMyjU) | [Close](https://open.spotify.com/album/5s4eJ8bI2QJTrsd1tVHJet) | 3:14 |
 
-Snapshot ID: `MjgxOTI0NjAsMDAwMDAwMDA5ZTk2Y2ZkNmMwOTIyMzgwN2M3ZWM1ODE4NmEwYTI0Ng==`
+Snapshot ID: `MjgxOTM5MDAsMDAwMDAwMDBjMTM5M2QyYzJhM2I1MWZhODJkNTVkOTE0MWE5NGM3OA==`

@@ -1,12 +1,12 @@
 {
   "description": "Get your body right with this workout twerkout",
-  "num_followers": 1766608,
+  "num_followers": 1766678,
   "original_name": "Workout Twerkout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2I2NGY4ZGE4MTgyODBlN2IyZTMzZGFjM2Q1ZWMwMGM1NmQ4ZWE5",
+  "snapshot_id": "MCxjMzRkYWIxZmY3YzVmYzJjMGFhMTI4MjVkYmU1NmRiMTVjNzhhY2Iz",
   "tracks": [
     {
       "added_at": "2023-07-28 04:00:00",
@@ -343,18 +343,26 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Lick Or Sum",
-        "url": "https://open.spotify.com/album/2W4jWUc0pUCWdqJFAMvddR"
+        "name": "Hot Shit (feat. Ye & Lil Durk)",
+        "url": "https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO"
       },
       "artists": [
         {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 141604,
-      "name": "Lick Or Sum",
-      "url": "https://open.spotify.com/track/132Yd321hAG0oOz3lbiqig"
+      "duration_ms": 211649,
+      "name": "Hot Shit (feat. Ye & Lil Durk)",
+      "url": "https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -379,26 +387,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Hot Shit (feat. Ye & Lil Durk)",
-        "url": "https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO"
+        "name": "Lick Or Sum",
+        "url": "https://open.spotify.com/album/2W4jWUc0pUCWdqJFAMvddR"
       },
       "artists": [
         {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 211649,
-      "name": "Hot Shit (feat. Ye & Lil Durk)",
-      "url": "https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW"
+      "duration_ms": 141604,
+      "name": "Lick Or Sum",
+      "url": "https://open.spotify.com/track/132Yd321hAG0oOz3lbiqig"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "RESILIENCE",
+        "url": "https://open.spotify.com/album/6oq03SmM5eN38iNZOFpjmx"
+      },
+      "artists": [
+        {
+          "name": "Big Boss Vette",
+          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
+        }
+      ],
+      "duration_ms": 173289,
+      "name": "Get It",
+      "url": "https://open.spotify.com/track/379Bq2UYx6X6NagvNjZLSX"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Whole Family (feat. Flo Milli)",
         "url": "https://open.spotify.com/album/1F0Q3jnivsGYle3Kl36aSJ"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 146086,
       "name": "Whole Family (feat. Flo Milli)",
       "url": "https://open.spotify.com/track/59COzThWJAOeIM6SBItYZI"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "RESILIENCE",
-        "url": "https://open.spotify.com/album/6oq03SmM5eN38iNZOFpjmx"
-      },
-      "artists": [
-        {
-          "name": "Big Boss Vette",
-          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
-        }
-      ],
-      "duration_ms": 173289,
-      "name": "Get It",
-      "url": "https://open.spotify.com/track/379Bq2UYx6X6NagvNjZLSX"
     },
     {
       "added_at": "2023-07-28 04:00:00",

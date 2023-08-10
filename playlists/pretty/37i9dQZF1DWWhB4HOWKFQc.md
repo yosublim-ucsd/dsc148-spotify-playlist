@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Refo Dan Fauna
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,046,637 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,047,637 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 30 | [A Piece of You](https://open.spotify.com/track/1bYRmNYrXbzbLq1CEBZHRe) | [Nathaniel Constantin](https://open.spotify.com/artist/5Jc99vrEyk7RZVYglf9E3r) | [A Piece of You](https://open.spotify.com/album/0AcubuOrOCfOtq27h2cudt) | 3:57 |
 | 31 | [Terbiasa](https://open.spotify.com/track/0PXxRlVWKdnczapAH53nZH) | [Nathaniel Rivan](https://open.spotify.com/artist/47SU5nCBLVOef6cIthAmII) | [Terbiasa](https://open.spotify.com/album/1hbznvDyJxzNgJL6YgMIkD) | 3:33 |
 | 32 | [Am I Bothering You?](https://open.spotify.com/track/4XEJR0jb29elGda86cL0IK) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Reality Club Presents…](https://open.spotify.com/album/3pFDtZ4T0kJuNFYQGfGvAK) | 3:45 |
-| 33 | [Trauma](https://open.spotify.com/track/5mS6XpcsLnKxXrdvw4uzBk) | [Aan Story](https://open.spotify.com/artist/21delmj7yVs6NDL6o1CPbk), [Elsya](https://open.spotify.com/artist/4M207MF4iyxBGBXzx5HL3p) | [Trauma \(feat\. Aan Story\)](https://open.spotify.com/album/42zqQhzRx05UFLDVY5XOvE) | 3:38 |
+| 33 | [Trauma](https://open.spotify.com/track/6SITe0StjnWHjyNOVzyJTX) | [Aan Story](https://open.spotify.com/artist/21delmj7yVs6NDL6o1CPbk), [Elsya](https://open.spotify.com/artist/4M207MF4iyxBGBXzx5HL3p) | [Trauma](https://open.spotify.com/album/6H3lJJCLJjrKAKfm7KaE3Z) | 3:38 |
 | 34 | [bad](https://open.spotify.com/track/5TZKpQFKCbIlWGD8DzHbC6) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/0kT2Dn4QknHk92h76ZcMk0) | 4:23 |
 | 35 | [Somebody's Pleasure](https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Somebody's Pleasure](https://open.spotify.com/album/5S5vnFRSXVua5SbdoY9S8y) | 3:43 |
 | 36 | [Pengingat](https://open.spotify.com/track/4xVBlNFpqerqcF1a9Qoo0N) | [Good Morning Everyone](https://open.spotify.com/artist/6HyZoYVf8K9abFPxwhJcbK) | [Pengingat](https://open.spotify.com/album/6DCVdHnNhGY8s7SAuAgJq8) | 4:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 74 | [in the stars](https://open.spotify.com/track/798s1KJWQglhZoKLUF9p7D) | [Sami Rose](https://open.spotify.com/artist/2NLhDrmuSI9K1SHfwmqNXL) | [in the stars](https://open.spotify.com/album/0mPY19kYRyEMP1IOk06k5j) | 3:45 |
 | 75 | [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 |
 
-Snapshot ID: `MCw0MGI0MGZkZjhhZWIwYjBkMDkzMDgzNTU1NWRkNTlhOWI2NjY5NmQ2`
+Snapshot ID: `MCw3ZDVlNzYwMTExYTJkZGY4MmFkNmNlNWQ3ZTIwMDFiNTViZTgwMGNk`

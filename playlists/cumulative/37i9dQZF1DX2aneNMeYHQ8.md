@@ -4,7 +4,7 @@
 
 > A little alt, folk, and indie rock sprinkled into this delicious melting pot\. Cover: The Revivalists
 
-319 songs - 19 hr 22 min
+320 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Elizabeth Taylor](https://open.spotify.com/track/3ugqcqDDIuBGovoWueX1zP) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO) | [Elizabeth Taylor](https://open.spotify.com/album/59gCtHmNtSL4NzjIXYGL5g) | 3:15 | 2021-11-23 | 2022-03-26 |
 | [Empty Nest](https://open.spotify.com/track/47t8l6TmVhY1QZBveAEcWR) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Physical Thrills](https://open.spotify.com/album/2NqgOQKY5RB7UPmnhcyWEb) | 4:16 | 2023-02-24 |  |
 | [End At The Door](https://open.spotify.com/track/1CSlvOGsSAOvZeOamuTWQi) | [The Drives](https://open.spotify.com/artist/7lpjlBT0JPs5EN8d6zhVWo) | [End At The Door](https://open.spotify.com/album/2Suj3QaQY8U4ZnFCiHUSnb) | 4:32 | 2021-09-17 | 2022-04-23 |
-| [Every Day Like the Last](https://open.spotify.com/track/5wC4jZcOC20bvqUL4Aa3ix) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Every Day Like the Last](https://open.spotify.com/album/19rDRo03kiDJAVaNQjMIFQ) | 3:02 | 2023-06-09 |  |
+| [Every Day Like the Last](https://open.spotify.com/track/1iJxsYXQI3uTGlChp7UqMB) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Every Day Like the Last](https://open.spotify.com/album/6C204NEUleEqcKH4igE8ZL) | 3:02 | 2023-06-09 |  |
+| [Every Day Like the Last](https://open.spotify.com/track/5wC4jZcOC20bvqUL4Aa3ix) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Every Day Like the Last](https://open.spotify.com/album/19rDRo03kiDJAVaNQjMIFQ) | 3:02 | 2023-06-09 | 2023-08-10 |
 | [Every Shade of Blue](https://open.spotify.com/track/1cKWyEiGWLXAUTz6jI1d7c) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Every Shade of Blue](https://open.spotify.com/album/4ee1hU8IWOpRMN7GNjZ4Nf) | 3:33 | 2022-01-21 | 2022-02-12 |
 | [Everything I Love Is Going To Die](https://open.spotify.com/track/3ZH7PRzRKfcYxU9aNQ6p3S) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Everything I Love Is Going To Die](https://open.spotify.com/album/5a4xRX65MiDzaeFKIv68T1) | 3:20 | 2021-11-12 | 2022-07-29 |
 | [Everything I Love Is Going to Die](https://open.spotify.com/track/6O94vSYs7gDfIV2sutYfVo) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Fix Yourself, Not the World](https://open.spotify.com/album/3J9a9IUBPJL3WhkC86mCw1) | 3:20 | 2022-07-01 | 2022-11-03 |

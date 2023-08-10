@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aH17k60Q9v.md) - [plain]
 
 > Con todo el sabor de la vitamina G.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,441 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,563 likes - 99 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aH17k60Q9v.md) - [plain]
 | 91 | [Sentimental](https://open.spotify.com/track/3NLJWd1FgZlgBRukNXxEBd) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Afortunado](https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ) | 2:47 |
 | 92 | [El Vals Del Olvido](https://open.spotify.com/track/71V6u8mPSydvEokO7XYqG6) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Día De Los Muertos](https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX) | 3:29 |
 | 93 | [Ya Me Enteré](https://open.spotify.com/track/4ggabbjjuHrG06SsYnqvEs) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [El Ahijado Consentido](https://open.spotify.com/album/35F7wwWfEZV6FSrCppyNPP) | 3:09 |
-| 94 | [No Eres Tu Ahora Soy Yo](https://open.spotify.com/track/2id1k05l5qxinSNil4mfdM) | [Tito Torbellino](https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ) | [20 Canciones Banda y Norteno](https://open.spotify.com/album/7gct4wYWnkGa4lm44P8Lgt) | 2:36 |
-| 95 | [El Amor No Fue Pa´ Mí \- En Vivo](https://open.spotify.com/track/3dkEwOKhFselY2m22Nj2vi) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Coloso](https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED) | [El Amor No Fue Pa´ Mí \(En Vivo\)](https://open.spotify.com/album/2GmxvaOlvl9OSOW3FnVcbX) | 3:46 |
-| 96 | [Dueño De Ti](https://open.spotify.com/track/66r0I5HQEOU7nCfGRvwoQK) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak) | [Tributo A "El Shaka" Sergio Vega](https://open.spotify.com/album/6mq7qAnE5jBXWaZfW0m5Dq) | 3:43 |
-| 97 | [A Mí Me Gustas Tú](https://open.spotify.com/track/3yLPsviVDfHgXFo6VAcq6z) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq), [Oscar Iván Trevíno](https://open.spotify.com/artist/5pPdYQPzWpb1XnsNqE6OOz) | [A Mí Me Gustas Tú](https://open.spotify.com/album/3E8pEagTMZOFpfTppkRIHy) | 3:06 |
-| 98 | [Mi Último Deseo](https://open.spotify.com/track/01ksPzu3Bw8Lsf9o6xIk8C) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [El Free](https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs) | 2:43 |
-| 99 | [Un Poquito Tuyo](https://open.spotify.com/track/4Xite6iT0HSbmG6h2cnia2) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Un Poquito Tuyo](https://open.spotify.com/album/36zNWFQ7R29rlWz68ymO6a) | 2:55 |
-| 100 | [Ya Sólo Eres Mi Ex \- En Vivo](https://open.spotify.com/track/17v5C11MSgqhFtyfQgYPtD) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Ya Sólo Eres Mi Ex \(En Vivo\)](https://open.spotify.com/album/70dlGvgMGvumTPSEzgkH4s) | 3:46 |
+| 94 | [El Amor No Fue Pa´ Mí \- En Vivo](https://open.spotify.com/track/3dkEwOKhFselY2m22Nj2vi) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Coloso](https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED) | [El Amor No Fue Pa´ Mí \(En Vivo\)](https://open.spotify.com/album/2GmxvaOlvl9OSOW3FnVcbX) | 3:46 |
+| 95 | [Dueño De Ti](https://open.spotify.com/track/66r0I5HQEOU7nCfGRvwoQK) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak) | [Tributo A "El Shaka" Sergio Vega](https://open.spotify.com/album/6mq7qAnE5jBXWaZfW0m5Dq) | 3:43 |
+| 96 | [A Mí Me Gustas Tú](https://open.spotify.com/track/3yLPsviVDfHgXFo6VAcq6z) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq), [Oscar Iván Trevíno](https://open.spotify.com/artist/5pPdYQPzWpb1XnsNqE6OOz) | [A Mí Me Gustas Tú](https://open.spotify.com/album/3E8pEagTMZOFpfTppkRIHy) | 3:06 |
+| 97 | [Mi Último Deseo](https://open.spotify.com/track/01ksPzu3Bw8Lsf9o6xIk8C) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [El Free](https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs) | 2:43 |
+| 98 | [Un Poquito Tuyo](https://open.spotify.com/track/4Xite6iT0HSbmG6h2cnia2) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Un Poquito Tuyo](https://open.spotify.com/album/36zNWFQ7R29rlWz68ymO6a) | 2:55 |
+| 99 | [Ya Sólo Eres Mi Ex \- En Vivo](https://open.spotify.com/track/17v5C11MSgqhFtyfQgYPtD) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Ya Sólo Eres Mi Ex \(En Vivo\)](https://open.spotify.com/album/70dlGvgMGvumTPSEzgkH4s) | 3:46 |
 
-Snapshot ID: `MCw2MTZlODg5YzUwZmE5YjI0MDVkMDdlODRlMTlmMmIxYmZjMjQwY2Ey`
+Snapshot ID: `MCw4NTQ1N2Y2ZmY4NmJiZGZiZTE2YzEwZmZjYzU4YTA5ZmI1ZThiOTgw`

@@ -4,7 +4,7 @@
 
 > have fun with it.
 
-472 songs - 1 day 2 hr 17 min
+473 songs - 1 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [Head Right](https://open.spotify.com/track/2G01I6SbQqSPmAOz895M0a) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Wilderado](https://open.spotify.com/album/27PS3oqiVzOqqAT04Ku6at) | 3:17 | 2022-06-27 | 2022-11-09 |
 | [Head Right](https://open.spotify.com/track/7JsrgtynTsvDBuzUJ82o89) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Wilderado](https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP) | 3:17 | 2022-10-07 |  |
 | [Hell N Back](https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back \(Sped Up\)](https://open.spotify.com/album/39qJcvWj03Pcm9HJdb1NR8) | 3:33 | 2023-03-28 |  |
-| [Hello](https://open.spotify.com/track/3DcJhILpOqM0tNWTKGf6uq) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Hello, All!](https://open.spotify.com/album/3hAyNJLQx0Mdq1LKclx7R4) | 3:23 | 2023-03-24 |  |
+| [Hello](https://open.spotify.com/track/3DcJhILpOqM0tNWTKGf6uq) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Hello, All!](https://open.spotify.com/album/3hAyNJLQx0Mdq1LKclx7R4) | 3:23 | 2023-03-24 | 2023-08-10 |
 | [High](https://open.spotify.com/track/6y055Bh8XDEpmFMBuycoLj) | [Young Rising Sons](https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV) | [High](https://open.spotify.com/album/0FYyTg1VD43MPJygKRURKw) | 2:43 | 2022-03-11 | 2022-04-19 |
 | [High](https://open.spotify.com/track/4gTwPFGhIIlYtlo59jbVUB) | [Young Rising Sons](https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV) | [Young Rising Sons](https://open.spotify.com/album/5u2scbuAgP8wLhsKhMnr50) | 2:45 | 2022-06-27 | 2023-05-26 |
 | [High Again](https://open.spotify.com/track/0DfJSAKlgfjqPLDIsBrOic) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [High Again](https://open.spotify.com/album/1gwyYE4gE9VvucBwpaRMvK) | 2:55 | 2022-06-27 | 2022-11-13 |
@@ -269,7 +269,7 @@
 | [Miss You Like Hell](https://open.spotify.com/track/4NIyXRHoYAZ0yHAzVRZlw4) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [Miss You Like Hell](https://open.spotify.com/album/7BDaq7K6wpgDe1rDjYd4AA) | 3:09 | 2021-03-10 | 2022-06-24 |
 | [Mixtape 2003](https://open.spotify.com/track/5UDLKwnWf824mozRavgsgg) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Mixtape 2003](https://open.spotify.com/album/0HsshKJ9aGPK4i7xtHdEyb) | 3:24 | 2021-03-10 | 2022-07-29 |
 | [Mixtape 2003](https://open.spotify.com/track/4TICpB1Y6C8b6EK2Ga275x) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Mixtape 2003](https://open.spotify.com/album/2QcJ99k8skz7nxF2l4D4IH) | 3:24 | 2022-07-29 | 2022-12-03 |
-| [Moment In The Sun](https://open.spotify.com/track/3srgB1L9XfePDOIY4DrN2K) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Moment In The Sun](https://open.spotify.com/album/0gLTyqbV19rhb8pNZQ0Msx) | 3:09 | 2022-05-04 | 2023-06-01 |
+| [Moment In The Sun](https://open.spotify.com/track/3srgB1L9XfePDOIY4DrN2K) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Moment In The Sun](https://open.spotify.com/album/0gLTyqbV19rhb8pNZQ0Msx) | 3:09 | 2022-05-04 |  |
 | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj) | 3:06 | 2023-06-30 |  |
 | [Monday](https://open.spotify.com/track/55jtGKCCpLEV0zWFf97wVY) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Further Joy](https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ) | 2:56 | 2022-10-07 | 2023-03-29 |
 | [Monday](https://open.spotify.com/track/5qJOKIrlNVOe4QdhJHS2di) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Monday](https://open.spotify.com/album/4YBN5F8yae1Gkner3Gyost) | 2:56 | 2021-11-19 | 2022-11-17 |
@@ -287,6 +287,7 @@
 | [Nice and Easy \(with Mark McGrath of Sugar Ray\)](https://open.spotify.com/track/1HX1XfDT5xL4uM3BKNrHPf) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3), [Mark McGrath](https://open.spotify.com/artist/52FfIpdtGWPNnTQtRDXIid) | [Nice and Easy \(with Mark McGrath of Sugar Ray\)](https://open.spotify.com/album/4aUgmzsjVGFtRJChYnxzbw) | 2:44 | 2021-06-25 | 2023-03-29 |
 | [Nights](https://open.spotify.com/track/5iSvlEhNJhrHUFPSHluDF0) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Nights](https://open.spotify.com/album/0GpuGR0FbHgPzom4GqBKVS) | 3:35 | 2021-03-10 | 2022-07-29 |
 | [Nobody \(feat\. dodie\)](https://open.spotify.com/track/3HSIgdZZJGHBV3F3kradtG) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Nobody \(feat\. dodie\)](https://open.spotify.com/album/14izII4z3jQPUPx2pmZsMM) | 3:26 | 2023-03-24 |  |
+| [Not Joking](https://open.spotify.com/track/5UrwXORPNlSUuR0SemqM3O) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [You Are Who You Hang Out With](https://open.spotify.com/album/5ti35p8028PSksErKRW415) | 3:18 | 2023-08-07 |  |
 | [Not OK!](https://open.spotify.com/track/2YbMlkq0ARgHiMGBFGTnxq) | [Chaz Cardigan](https://open.spotify.com/artist/7DJUlhy4pX4sxaDfQcH0Ms) | [Not OK!](https://open.spotify.com/album/0liYHS0MVX0AP18hq6lMoO) | 3:12 | 2021-03-10 | 2022-04-27 |
 | [Not Too Late](https://open.spotify.com/track/0ig4lxtPqcFTUopvk57nQy) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Not Too Late](https://open.spotify.com/album/4vjxGn7u7g7MN3KEGnagOG) | 3:15 | 2022-03-11 | 2022-04-15 |
 | [Nothing Can Kill Us](https://open.spotify.com/track/6r3x9CWcHQ0ZJFJYB1GXD9) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Outside Voices](https://open.spotify.com/album/5tqZLKfkECxhy2LJKoviuD) | 2:50 | 2021-11-19 | 2022-07-29 |
@@ -342,7 +343,7 @@
 | [rely](https://open.spotify.com/track/0dA5pVAveTrQAJuuUbwJVs) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [rely](https://open.spotify.com/album/0SACXeKAubCEXma6TT3b0O) | 3:35 | 2022-03-11 | 2022-04-21 |
 | [Ribbon Around The Bomb](https://open.spotify.com/track/7voz4y45sbxa5GUB2oTxhP) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Ribbon Around The Bomb](https://open.spotify.com/album/4HUGjZQusuhBn7x0XE7TWY) | 2:34 | 2022-03-11 | 2022-07-29 |
 | [Ride or Die](https://open.spotify.com/track/22uD6yBefgzRTLrohe4IZs) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Ride or Die](https://open.spotify.com/album/1vMfrkDvP3CDkYGt19voDl) | 3:30 | 2022-03-09 | 2022-07-30 |
-| [Ride or Die](https://open.spotify.com/track/7c0se2w4QXZ9V4MoHWhshC) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [LP3](https://open.spotify.com/album/08I3iemI4Gfn7kp4wm9FmX) | 3:30 | 2022-07-29 |  |
+| [Ride or Die](https://open.spotify.com/track/7c0se2w4QXZ9V4MoHWhshC) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [LP3](https://open.spotify.com/album/08I3iemI4Gfn7kp4wm9FmX) | 3:30 | 2022-07-29 | 2023-08-10 |
 | [Role Model](https://open.spotify.com/track/57gXXZbi4KeojlnheJUets) | [daysormay](https://open.spotify.com/artist/1gneO1Mf6DCsgxUtDzF4lS), [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Role Model](https://open.spotify.com/album/4VeOzX3ARU5He6K8D9mDx8) | 3:19 | 2021-03-10 | 2022-07-25 |
 | [Roll Up](https://open.spotify.com/track/7L6v4BoEk6efFAC4ErAKj5) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Fitz and The Tantrums \(Deluxe Edition\)](https://open.spotify.com/album/4eoIRaV8z8v2LaXQSWy2LC) | 3:38 | 2022-06-27 | 2022-07-30 |
 | [Roll Up](https://open.spotify.com/track/7kClqlbpmpZmGMimROkvh6) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Fitz and The Tantrums](https://open.spotify.com/album/7HBKKw5pJLNj6mdRLb1KG3) | 3:38 | 2022-03-11 | 2022-04-21 |

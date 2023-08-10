@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 
 > Bringing the roaring 20s into the 2020s
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,921 likes - 133 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,092 likes - 133 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Volare \- Electro Swing Mix](https://open.spotify.com/track/5lW4pCHSVtDn1qzgbnQKCq) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Free Shots](https://open.spotify.com/artist/7FetKvEtXNVgZc8PpxYtVf) | [Volare \(Electro Swing Mix\)](https://open.spotify.com/album/4JUPAhkkvMDPOz1hUoMyfQ) | 3:23 |
+| 1 | [Volare \- Electro Swing Mix](https://open.spotify.com/track/5lW4pCHSVtDn1qzgbnQKCq) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Free Shots](https://open.spotify.com/artist/7FetKvEtXNVgZc8PpxYtVf), [Theo Rem](https://open.spotify.com/artist/3DXuyxvbEJUPx2TCdrsyM6) | [Volare \(Electro Swing Mix\)](https://open.spotify.com/album/4JUPAhkkvMDPOz1hUoMyfQ) | 3:23 |
 | 2 | [Lone Digger](https://open.spotify.com/track/0thLhIqWsqqycEqFONOyhu) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [<\|º\_º\|>](https://open.spotify.com/album/4DrZfbV5FB2Hwzpq6rwArp) | 3:49 |
 | 3 | [Anything Goes \(Wolfgang Lohr Remix\)](https://open.spotify.com/track/0wOhiQLMavRdsBn0t8Nt2C) | [Mathew V](https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Anything Goes \(Wolfgang Lohr Remix\)](https://open.spotify.com/album/1YbfYIeXI372Jt5FsM6wY5) | 2:50 |
 | 4 | [Don't Drink & Jive](https://open.spotify.com/track/0Q5ZeTsHkpNsRrvPlRztsj) | [Glenn Gatsby](https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Don't Drink & Jive](https://open.spotify.com/album/6ZvqaxzphRJf0RU7Mdpigk) | 2:31 |
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 132 | [A Timeless Tale](https://open.spotify.com/track/6un59YUiVc6N1Sos22rE4f) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a) | [Gone Rogue](https://open.spotify.com/album/4vHMwdn3omUHLhCTDjOuOQ) | 3:06 |
 | 133 | [Cookie Monster \- Radio Edit](https://open.spotify.com/track/4zU15t9fJ5J0ERwbS7tGA7) | [Atom Smith](https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2), [Lamuzgueule](https://open.spotify.com/artist/41kO57U2yrvAWlng1p5g6g) | [Cookie Monster \(Atom Smith Remix\)](https://open.spotify.com/album/2A4LLbcPe9eVG7bmBDfuM4) | 3:27 |
 
-Snapshot ID: `MCwzYmMyMmQ5Y2MzMmMxMDUxZTY4OTQ3MzM2NTIwNzZlZDEzNmQ1YWZj`
+Snapshot ID: `MCwwZGVhOGRmNzcwZTA0NmIzZmE0Mjg0NWQ2ZmY4ZmM0ZWIxZDg4MGVi`

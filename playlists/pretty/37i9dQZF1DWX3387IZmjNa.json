@@ -1,29 +1,13 @@
 {
   "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Rylo Rodriguez",
-  "num_followers": 2015276,
+  "num_followers": 2015504,
   "original_name": "B.A.E.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOWRmMzA3OGQ1ZWI4ZDYzY2M0Yjg0OTRlY2E5Yzg0NTUzMmFhYzY4",
+  "snapshot_id": "MCxhZDc5ZWE5NmZjZmU2MzBhNTUxYjRlYTlkZWU0ZGI5MDhjN2ZhNzY0",
   "tracks": [
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Search & Rescue",
-        "url": "https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 272112,
-      "name": "Search & Rescue",
-      "url": "https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G"
-    },
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
@@ -43,26 +27,6 @@
       "duration_ms": 259545,
       "name": "Thang For You (feat. No Cap)",
       "url": "https://open.spotify.com/track/1GlLIz7AtCYnwvXpz2rzbo"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "BEEZY",
-        "url": "https://open.spotify.com/album/1u2Fuv7OxzY9FWV0DO78ep"
-      },
-      "artists": [
-        {
-          "name": "Doe Boy",
-          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 214986,
-      "name": "DEEP END (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/63YcOq8SNXtnZtCfjyEpmq"
     },
     {
       "added_at": "2023-07-28 04:26:54",
@@ -107,6 +71,42 @@
       "duration_ms": 190186,
       "name": "When You Bad Like That (feat. Future)",
       "url": "https://open.spotify.com/track/275YNZEcI6UKFU7hO1kzKX"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Search & Rescue",
+        "url": "https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 272112,
+      "name": "Search & Rescue",
+      "url": "https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "BEEZY",
+        "url": "https://open.spotify.com/album/1u2Fuv7OxzY9FWV0DO78ep"
+      },
+      "artists": [
+        {
+          "name": "Doe Boy",
+          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 214986,
+      "name": "DEEP END (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/63YcOq8SNXtnZtCfjyEpmq"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -191,22 +191,6 @@
       "duration_ms": 144344,
       "name": "Stressed (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/2mNaugzeRDyAq991bw4nqv"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Make Up Your Mind",
-        "url": "https://open.spotify.com/album/1Fb1bL19kIPe24nhMcpE80"
-      },
-      "artists": [
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        }
-      ],
-      "duration_ms": 172892,
-      "name": "Make Up Your Mind",
-      "url": "https://open.spotify.com/track/1pi9osnCVKgqMuMrVfAcBM"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -379,6 +363,22 @@
       "duration_ms": 167977,
       "name": "Forever (feat. Fridayy)",
       "url": "https://open.spotify.com/track/1T4k0sw0HldDg004Kw4Oct"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Make Up Your Mind",
+        "url": "https://open.spotify.com/album/1Fb1bL19kIPe24nhMcpE80"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "duration_ms": 172892,
+      "name": "Make Up Your Mind",
+      "url": "https://open.spotify.com/track/1pi9osnCVKgqMuMrVfAcBM"
     },
     {
       "added_at": "2023-06-09 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 
 > Carnival Sounds getting you ready for Notting Hill Carnival 2023, curated by Ras Kwame.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,581 likes - 60 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,648 likes - 60 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 56 | [All You Can Do Is Try](https://open.spotify.com/track/0745pc80KM2SNSkDrdWm3e) | [Black Am I](https://open.spotify.com/artist/4gGjGwAPoNq5UqUltcrSXN), [Jemere Morgan](https://open.spotify.com/artist/7t3wkXOe1VYGzhIbhSPEV3), [Answele](https://open.spotify.com/artist/4BNLKMUYLjGRqScTT38xvA) | [All You Can Do Is Try](https://open.spotify.com/album/1QlkpwFLigqcbV4wj2cWEA) | 3:42 |
 | 57 | [Let's Do It Again](https://open.spotify.com/track/4TBtGrMgUYH7D5Tf5HLvyz) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Backyard Boogie](https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI) | 3:12 |
 | 58 | [Bye Bye Bye \(feat\. Chronixx\)](https://open.spotify.com/track/5t7DR7W68CiC393I1amWD0) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Raggamuffin SoundTape](https://open.spotify.com/album/5CZ869wDUrKqvtmJXRZxkl) | 2:45 |
-| 59 | [To Be Young Gifted and Black](https://open.spotify.com/track/0hOEpES6gqaQsoamXQrrEp) | [Bob Andy](https://open.spotify.com/artist/6GFAZnwXhNER0WS76WMpS4), [Marcia Griffiths](https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM) | [The Trojan UK Hits Collection](https://open.spotify.com/album/1gv4XbkaqiYrYh0BaUwGlr) | 3:06 |
+| 59 | [\(To Be\) Young Gifted and Black](https://open.spotify.com/track/21YtaaAivXcpcFaYbTjgKP) | [Bob & Marcia](https://open.spotify.com/artist/2AaKscnKxoLM7W3KT9yjtQ) | [Young, Gifted & Black](https://open.spotify.com/album/6yqpbyj6M5HFUZQpxYS6RG) | 3:08 |
 | 60 | [Run Things \- Dub](https://open.spotify.com/track/64RGLg1LhhP0E1sznWg6LJ) | [Micah Shemaiah](https://open.spotify.com/artist/3eZZJk4Ik5kBSK2dsdxX6X) | [Jamaica Jamaica](https://open.spotify.com/album/1SvU6PNsPanhwTBghmBUVR) | 3:12 |
 
-Snapshot ID: `MCxlZTEzMWFiNGM1NjkzMTJhNTQ0NTU3NWRlYjNhMWZiZjY2YTVjNTc1`
+Snapshot ID: `MCwxNmM4YjgwOGNjYTRmODQ2ODAyODFkNzEwNzg1ZTgwOTUxYTQyZTJi`

@@ -1,12 +1,12 @@
 {
   "description": "The hottest corridos in the US! Bien Al Tiro con Fuerza Regida",
-  "num_followers": 217515,
+  "num_followers": 217681,
   "original_name": "Al Tiro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWM2YjlkNjUwNGE0MWNjMmIyM2ZjOWRmZWM2ZWMyMzY3YzZkOWNk",
+  "snapshot_id": "MCw3OTQwYzg1ZTlhMGMwMzQ2MjE2MDE3N2U4M2VlODllMTQ4OGViYWI2",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -643,8 +643,8 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Como Es Arriba Es Abajo",
-        "url": "https://open.spotify.com/album/5AEvjmTHKQsk1uQr2MCreb"
+        "name": "Nata Montana",
+        "url": "https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7"
       },
       "artists": [
         {
@@ -652,13 +652,13 @@
           "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         },
         {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 165351,
-      "name": "Como Es Arriba Es Abajo",
-      "url": "https://open.spotify.com/track/0Dn0h4YdPvM4v0HNdgnyeP"
+      "duration_ms": 182666,
+      "name": "Pancake",
+      "url": "https://open.spotify.com/track/0jofzyjTFcgFIvkK5bXwo3"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -759,8 +759,8 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Nata Montana",
-        "url": "https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7"
+        "name": "Como Es Arriba Es Abajo",
+        "url": "https://open.spotify.com/album/5AEvjmTHKQsk1uQr2MCreb"
       },
       "artists": [
         {
@@ -768,13 +768,13 @@
           "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         },
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
         }
       ],
-      "duration_ms": 182666,
-      "name": "Pancake",
-      "url": "https://open.spotify.com/track/0jofzyjTFcgFIvkK5bXwo3"
+      "duration_ms": 165351,
+      "name": "Como Es Arriba Es Abajo",
+      "url": "https://open.spotify.com/track/0Dn0h4YdPvM4v0HNdgnyeP"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1539,26 +1539,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Anillos",
-        "url": "https://open.spotify.com/album/4j3kQLs29ZZVxu2x3wkbYa"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
-        }
-      ],
-      "duration_ms": 203861,
-      "name": "Anillos",
-      "url": "https://open.spotify.com/track/2wtCxhHu42n7jKJy2erTgX"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Duetos Con La Clika",
         "url": "https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq"
       },
@@ -1575,6 +1555,26 @@
       "duration_ms": 218500,
       "name": "Ojos De Maniaco",
       "url": "https://open.spotify.com/track/52Cpyvd2dKb6XRn313nH87"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Anillos",
+        "url": "https://open.spotify.com/album/4j3kQLs29ZZVxu2x3wkbYa"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        }
+      ],
+      "duration_ms": 203861,
+      "name": "Anillos",
+      "url": "https://open.spotify.com/track/2wtCxhHu42n7jKJy2erTgX"
     },
     {
       "added_at": "2023-06-30 04:00:00",

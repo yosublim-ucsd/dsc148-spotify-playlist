@@ -1,12 +1,12 @@
 {
   "description": "Ride the bassline. Cover: Walker & Royce, Glass Petals & Elohim",
-  "num_followers": 221488,
+  "num_followers": 221556,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzQ3MGNkNmYxNzkyMmRmZTI5N2M3MmQxMGJiOGJmMzRkYjQ1ZDJl",
+  "snapshot_id": "MCwwMTQ1ZDU4NjNjNzEzMDkyMGMyNWQxNWYwMThiOGM1ZjIwODNlZmM1",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Bongoloco",
+        "url": "https://open.spotify.com/album/6kC3PZyvcdO2XDw8Q7HDOA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Bongoloco",
+      "url": "https://open.spotify.com/track/20MM2VpIUqc7FHJ0a8PX3a"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "The Veldt Cinema (BYNX Edit)",
         "url": "https://open.spotify.com/album/7ekZ2iNqO0E09Ubs6YoSZg"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 277298,
       "name": "The Veldt Cinema - BYNX Edit",
       "url": "https://open.spotify.com/track/1GD5ooLHgV9nolrem1DBiB"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Bongoloco",
-        "url": "https://open.spotify.com/album/6kC3PZyvcdO2XDw8Q7HDOA"
-      },
-      "artists": [
-        {
-          "name": "Bruno Furlan",
-          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "Bongoloco",
-      "url": "https://open.spotify.com/track/20MM2VpIUqc7FHJ0a8PX3a"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/45hEdeNHcpC2FIvgDMlaCP"
-      },
-      "artists": [
-        {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
-        }
-      ],
-      "duration_ms": 365568,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/0VTnsXnW2kuMFlwdKSTSBy"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Fine Night",
         "url": "https://open.spotify.com/album/43Hg8uG1b3ZpSeP4y8Novn"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 161723,
       "name": "Fine Night",
       "url": "https://open.spotify.com/track/5BoA4ehsprvSzDBuFOPgdA"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/45hEdeNHcpC2FIvgDMlaCP"
+      },
+      "artists": [
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "duration_ms": 365568,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/0VTnsXnW2kuMFlwdKSTSBy"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1715,22 +1715,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "What You Got",
-        "url": "https://open.spotify.com/album/7cSGgAYjT88n0xDh9n4Jsh"
+        "name": "Dream Sequence",
+        "url": "https://open.spotify.com/album/2M3r10nJAuWXUoUkZAmvqM"
       },
       "artists": [
         {
-          "name": "NITTI",
-          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
         },
         {
-          "name": "Valentino Khan",
-          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+          "name": "The Glitch Mob",
+          "url": "https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD"
         }
       ],
-      "duration_ms": 160000,
-      "name": "What You Got",
-      "url": "https://open.spotify.com/track/1IrTzpX4khWqGPdAyFBOqv"
+      "duration_ms": 215111,
+      "name": "Dream Sequence",
+      "url": "https://open.spotify.com/track/1YrVLt1ET4GzwS3HfOcxWw"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1751,6 +1751,26 @@
       "duration_ms": 198582,
       "name": "Libre",
       "url": "https://open.spotify.com/track/7KibjIxYJsdP9UGjjMUEn6"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "What You Got",
+        "url": "https://open.spotify.com/album/7cSGgAYjT88n0xDh9n4Jsh"
+      },
+      "artists": [
+        {
+          "name": "NITTI",
+          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
+        },
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "What You Got",
+      "url": "https://open.spotify.com/track/1IrTzpX4khWqGPdAyFBOqv"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1799,26 +1819,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Renegade",
-        "url": "https://open.spotify.com/album/1QXFEHH8wWGzKFAOcuWsbd"
-      },
-      "artists": [
-        {
-          "name": "RL Grime",
-          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
-        },
-        {
-          "name": "NERO",
-          "url": "https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD"
-        }
-      ],
-      "duration_ms": 285616,
-      "name": "Renegade",
-      "url": "https://open.spotify.com/track/0ciBdxlofdSf1AePCpXGVF"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Collecting Thoughts",
         "url": "https://open.spotify.com/album/7vMJWsVV5RVQGGV9MtsS9M"
       },
@@ -1839,22 +1839,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Dream Sequence",
-        "url": "https://open.spotify.com/album/2M3r10nJAuWXUoUkZAmvqM"
+        "name": "Renegade",
+        "url": "https://open.spotify.com/album/1QXFEHH8wWGzKFAOcuWsbd"
       },
       "artists": [
         {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
         },
         {
-          "name": "The Glitch Mob",
-          "url": "https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD"
+          "name": "NERO",
+          "url": "https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD"
         }
       ],
-      "duration_ms": 215111,
-      "name": "Dream Sequence",
-      "url": "https://open.spotify.com/track/1YrVLt1ET4GzwS3HfOcxWw"
+      "duration_ms": 285616,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/0ciBdxlofdSf1AePCpXGVF"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1967,30 +1967,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Thinkin of You",
-        "url": "https://open.spotify.com/album/0ajmnTICp3LDEsj9mvf9v6"
-      },
-      "artists": [
-        {
-          "name": "Dylan & Harry",
-          "url": "https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc"
-        },
-        {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        },
-        {
-          "name": "Baauer",
-          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Thinkin of You",
-      "url": "https://open.spotify.com/track/2T4Nfk0tG4hfYCv06LY6Ej"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "BACK ONLINE",
         "url": "https://open.spotify.com/album/4Jo971sLoS2lO4bf9hKe2j"
       },
@@ -2015,6 +1991,30 @@
       "duration_ms": 217846,
       "name": "BACK ONLINE",
       "url": "https://open.spotify.com/track/46bI9wmq6kDJJ3yAqTvkzH"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Thinkin of You",
+        "url": "https://open.spotify.com/album/0ajmnTICp3LDEsj9mvf9v6"
+      },
+      "artists": [
+        {
+          "name": "Dylan & Harry",
+          "url": "https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc"
+        },
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        },
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Thinkin of You",
+      "url": "https://open.spotify.com/track/2T4Nfk0tG4hfYCv06LY6Ej"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2139,26 +2139,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Meet Me At The Rave",
-        "url": "https://open.spotify.com/album/2wEzHPGyTNbDfF9VhrpFIQ"
-      },
-      "artists": [
-        {
-          "name": "Friendly Fire",
-          "url": "https://open.spotify.com/artist/1JtDSmvj4bVA8pBszG43fK"
-        },
-        {
-          "name": "Max Low",
-          "url": "https://open.spotify.com/artist/1OGrGLXNm7YPutzu0KAYSP"
-        }
-      ],
-      "duration_ms": 163204,
-      "name": "Meet Me At The Rave",
-      "url": "https://open.spotify.com/track/5xPocHaGYDKtxrqOnbWPLF"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Hypnotic (feat. Dope Earth Alien)",
         "url": "https://open.spotify.com/album/1iqjcxJWLCWZjDQTNfIAMN"
       },
@@ -2175,6 +2155,26 @@
       "duration_ms": 207568,
       "name": "Hypnotic (feat. Dope Earth Alien)",
       "url": "https://open.spotify.com/track/0d7TxNhBkURA0MYyX66l93"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Meet Me At The Rave",
+        "url": "https://open.spotify.com/album/2wEzHPGyTNbDfF9VhrpFIQ"
+      },
+      "artists": [
+        {
+          "name": "Friendly Fire",
+          "url": "https://open.spotify.com/artist/1JtDSmvj4bVA8pBszG43fK"
+        },
+        {
+          "name": "Max Low",
+          "url": "https://open.spotify.com/artist/1OGrGLXNm7YPutzu0KAYSP"
+        }
+      ],
+      "duration_ms": 163204,
+      "name": "Meet Me At The Rave",
+      "url": "https://open.spotify.com/track/5xPocHaGYDKtxrqOnbWPLF"
     },
     {
       "added_at": "2023-08-04 04:00:00",

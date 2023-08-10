@@ -1039,6 +1039,36 @@
     },
     {
       "album": {
+        "name": "The Chick Corea Elektric Band",
+        "url": "https://open.spotify.com/album/19XYicKUAhG6g8cNcEHjjx"
+      },
+      "artists": [
+        {
+          "name": "Chick Corea Elektric Band",
+          "url": "https://open.spotify.com/artist/2ReTnNzaUAM6RgKCtlvMPf"
+        },
+        {
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+        },
+        {
+          "name": "Dave Weckl",
+          "url": "https://open.spotify.com/artist/6h0KtnUiBpkxxjvZZPvNSw"
+        },
+        {
+          "name": "John Patitucci",
+          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339826,
+      "name": "Got A Match?",
+      "url": "https://open.spotify.com/track/5hqqPJuZVQkTtIos7zS6nD"
+    },
+    {
+      "album": {
         "name": "Growing Up!",
         "url": "https://open.spotify.com/album/3i45UQm0FWXa4kTRQNDvb6"
       },
@@ -1570,7 +1600,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 356243,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3jlF4rXXNxK8JRMkfwRYcc"

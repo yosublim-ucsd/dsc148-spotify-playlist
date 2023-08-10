@@ -4,7 +4,7 @@
 
 > We hear you.
 
-612 songs - 1 day 6 hr 15 min
+613 songs - 1 day 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Ball](https://open.spotify.com/track/4wahNV62aYCgZznvvEr2L1) | [Eryn Martin](https://open.spotify.com/artist/58nhaWrZa0dN2OxZ1Pr2Ph) | [Ball](https://open.spotify.com/album/1X1hIF0LwQHb0Ma5r82x9U) | 2:31 | 2021-04-02 | 2022-04-19 |
 | [Balloon Boy](https://open.spotify.com/track/6jdb9jH5tirekMPG88vdSr) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Balloon Boy](https://open.spotify.com/album/4GU3ACwBW4MoRVc6bjLwB4) | 2:42 | 2021-04-02 | 2022-04-17 |
 | [basketball](https://open.spotify.com/track/5EdmaSUzXzlOcCc44Jo206) | [diveliner](https://open.spotify.com/artist/0be7y7HUvSBf8uG1X7pK8f) | [basketball](https://open.spotify.com/album/5qDOaiNXTR90FOYUJK5dhs) | 2:21 | 2021-06-25 | 2022-07-19 |
+| [bb put on deftones](https://open.spotify.com/track/2KJAxR3jNdaZcEcLZS9Dgp) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [LOVE + POP](https://open.spotify.com/album/5God4dounbNrQtR8otCSHD) | 2:21 | 2023-08-04 |  |
 | [Be My Mistake](https://open.spotify.com/track/18UsAG7SfOQ5sxJEdjAMH0) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:16 | 2021-04-02 | 2022-05-13 |
 | [Beach Baby](https://open.spotify.com/track/2LXtyj95dK56ENS1QLt4IB) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Blood Bank](https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob) | 2:40 | 2022-07-15 | 2022-12-24 |
 | [Before You Go](https://open.spotify.com/track/1nH8IcJDJWhuKzs8ssBApy) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Hindsight](https://open.spotify.com/album/6gA0kACVRRPFjOCifHE4hM) | 3:32 | 2021-04-02 | 2022-07-12 |
@@ -79,7 +80,7 @@
 | [Can You See Me \- alt](https://open.spotify.com/track/0JdPkcKedDV9DnhPPQ4orp) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [Can You See Me \(alt\)](https://open.spotify.com/album/49mxh68UcGvH28FHkJp0Ln) | 3:29 | 2022-03-29 | 2022-07-01 |
 | [can't get out of bed](https://open.spotify.com/track/0joPSEE7gFJf7JkpNwzT1N) | [Aidan](https://open.spotify.com/artist/2p9YQq5YvvPaD4fj8aOCyk), [cøzybøy](https://open.spotify.com/artist/3sWtaNsmsCx0TFaQkP8QAm), [Thomas Reid](https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo) | [can't get out of bed](https://open.spotify.com/album/2CG8tHc6bP3YLh2EZgCo52) | 3:20 | 2021-04-02 | 2022-04-19 |
 | [Can't Love Myself](https://open.spotify.com/track/0MO1qNhm8aRZchi8CJlIRo) | [Monty Datta](https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Can't Love Myself](https://open.spotify.com/album/6nXrZeaXICH9TIPomAT9Be) | 2:02 | 2022-05-25 | 2023-02-02 |
-| [canine teeth](https://open.spotify.com/track/0mXhEiLnnb5cpePShMXQVO) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq), [Fog Lake](https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H) | [canine teeth](https://open.spotify.com/album/1psPqa4HOi4BLqMP9yi1X9) | 1:20 | 2023-07-21 |  |
+| [canine teeth](https://open.spotify.com/track/0mXhEiLnnb5cpePShMXQVO) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq), [Fog Lake](https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H) | [canine teeth](https://open.spotify.com/album/1psPqa4HOi4BLqMP9yi1X9) | 1:20 | 2023-07-21 | 2023-08-10 |
 | [Carbon Monoxide](https://open.spotify.com/track/7lpEGQi4FdLnuT6gRT9sZ1) | [Krooked Kings](https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE), [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Carbon Monoxide](https://open.spotify.com/album/29wCCY467y1WfvF427K8Q2) | 3:10 | 2023-03-21 | 2023-06-16 |
 | [Care \(with Omar Apollo\)](https://open.spotify.com/track/296wnQ0NPmj0hwpdhICSRy) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [FRIENDS KEEP SECRETS 2](https://open.spotify.com/album/7jainWomsRbTs5dGUOP21C) | 4:50 | 2021-04-02 | 2022-07-29 |
 | [castle with the cobwebs](https://open.spotify.com/track/3cvFdYVef5nm0BFn1nqek3) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0) | [castle with the cobwebs](https://open.spotify.com/album/1R6XgSsb1wlhwimb3yClxS) | 2:27 | 2022-05-25 | 2022-07-05 |

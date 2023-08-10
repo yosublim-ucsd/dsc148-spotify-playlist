@@ -1,12 +1,12 @@
 {
   "description": "Top country hits you know and love! Cover: Jordan Davis",
-  "num_followers": 508872,
+  "num_followers": 508958,
   "original_name": "Big Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZWIyMTljMmRkYWE1NmU5ZWNhY2FjYThjNTVlNmM2NzE3ZmRiMmU0",
+  "snapshot_id": "MCw0NTRlYThmNWE0MjBjYmE1YzNkOGMzNTBhZDEwYmQyOTg3ODY2NDI5",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -771,18 +771,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Human The Double Album",
-        "url": "https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb"
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
       },
       "artists": [
         {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 221520,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/5AihIu9yF3flkw1jFMyfwW"
+      "duration_ms": 274520,
+      "name": "Joy Of My Life",
+      "url": "https://open.spotify.com/track/4EuaDcxHmHKS6gZ5iuGba0"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Starting Over",
-        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
+        "name": "Human The Double Album",
+        "url": "https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         }
       ],
-      "duration_ms": 274520,
-      "name": "Joy Of My Life",
-      "url": "https://open.spotify.com/track/4EuaDcxHmHKS6gZ5iuGba0"
+      "duration_ms": 221520,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/5AihIu9yF3flkw1jFMyfwW"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Everything She Ain\u2019t",
-        "url": "https://open.spotify.com/album/761yinsOXW3p74dFBge4c7"
+        "name": "Fortune Favors the Bold",
+        "url": "https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw"
       },
       "artists": [
         {
-          "name": "Hailey Whitters",
-          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+          "name": "49 Winchester",
+          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
         }
       ],
-      "duration_ms": 151973,
-      "name": "Everything She Ain\u2019t",
-      "url": "https://open.spotify.com/track/3zAOcNGOFq5Q1OsN0tcxA0"
+      "duration_ms": 249872,
+      "name": "Russell County Line",
+      "url": "https://open.spotify.com/track/68i0Y8xMaYxLHSeUu4uWtA"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1399,34 +1399,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Fortune Favors the Bold",
-        "url": "https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw"
+        "name": "Everything She Ain\u2019t",
+        "url": "https://open.spotify.com/album/761yinsOXW3p74dFBge4c7"
       },
       "artists": [
         {
-          "name": "49 Winchester",
-          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
         }
       ],
-      "duration_ms": 249872,
-      "name": "Russell County Line",
-      "url": "https://open.spotify.com/track/68i0Y8xMaYxLHSeUu4uWtA"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Palomino",
-        "url": "https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 189173,
-      "name": "I'll Be Lovin' You",
-      "url": "https://open.spotify.com/track/1io22Thmgw4SvhVBNawJD5"
+      "duration_ms": 151973,
+      "name": "Everything She Ain\u2019t",
+      "url": "https://open.spotify.com/track/3zAOcNGOFq5Q1OsN0tcxA0"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1443,6 +1427,22 @@
       "duration_ms": 221733,
       "name": "Over Now",
       "url": "https://open.spotify.com/track/2JxBHISFV4ISAE8VMngqWS"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Palomino",
+        "url": "https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 189173,
+      "name": "I'll Be Lovin' You",
+      "url": "https://open.spotify.com/track/1io22Thmgw4SvhVBNawJD5"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Like I Love Country Music",
-        "url": "https://open.spotify.com/album/6IXSaIsyP9LbtccncAs2Gg"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 234340,
-      "name": "Like I Love Country Music",
-      "url": "https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Dallas/Fort Worth",
         "url": "https://open.spotify.com/album/6JDmMjsVmSWoWJ3yCG2Fq7"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 146778,
       "name": "Sounds Like Something I'd Do",
       "url": "https://open.spotify.com/track/30zqn4YASRhqyUymwMNzkI"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Like I Love Country Music",
+        "url": "https://open.spotify.com/album/6IXSaIsyP9LbtccncAs2Gg"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 234340,
+      "name": "Like I Love Country Music",
+      "url": "https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Time, Tequila & Therapy",
-        "url": "https://open.spotify.com/album/1yjrtwm2ru1qPGBPBUDE0x"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 191360,
-      "name": "No Hard Feelings",
-      "url": "https://open.spotify.com/track/3YaycOQk7PoQpl7YdvmWdX"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Reckless",
         "url": "https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 251293,
       "name": "Wilder Days",
       "url": "https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Time, Tequila & Therapy",
+        "url": "https://open.spotify.com/album/1yjrtwm2ru1qPGBPBUDE0x"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 191360,
+      "name": "No Hard Feelings",
+      "url": "https://open.spotify.com/track/3YaycOQk7PoQpl7YdvmWdX"
     },
     {
       "added_at": "2023-08-04 04:00:00",

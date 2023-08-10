@@ -1,12 +1,12 @@
 {
   "description": "8 bit bangers.",
-  "num_followers": 93627,
+  "num_followers": 93694,
   "original_name": "8 Bit Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNGRjYTIwZDk1YTg1NjRjNzcwOWUzMzFiZjgzMTIwMzliMjEyYzg3",
+  "snapshot_id": "MCw5ZTJjODRhMjIwNDJmMmM1ZGRjY2EyNTI1ZmNmZmE1ODNhYTBkZWQw",
   "tracks": [
     {
       "added_at": "2022-09-30 05:34:00",
@@ -327,22 +327,6 @@
     {
       "added_at": "2022-09-30 05:34:00",
       "album": {
-        "name": "Super Power Club: 8-Bit Tribute to Modern Rock Hits",
-        "url": "https://open.spotify.com/album/18WSrQcRdR0z4qrTUJOpQd"
-      },
-      "artists": [
-        {
-          "name": "Super Power Club",
-          "url": "https://open.spotify.com/artist/5vGR79cM4EqZxXgvcExy7f"
-        }
-      ],
-      "duration_ms": 180013,
-      "name": "Viva La Vida",
-      "url": "https://open.spotify.com/track/6h0EL3eT9ALAN9Re2duMXp"
-    },
-    {
-      "added_at": "2022-09-30 05:34:00",
-      "album": {
         "name": "8-Bit Greatest Hits, Vol. 1",
         "url": "https://open.spotify.com/album/0ADMGvzRiBUbrkHplR1WQl"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 203520,
       "name": "Shooting Stars - 8-Bit Version",
       "url": "https://open.spotify.com/track/4idI53bQHMAHHbzr26Ogwz"
+    },
+    {
+      "added_at": "2022-09-30 05:34:00",
+      "album": {
+        "name": "Super Power Club: 8-Bit Tribute to Modern Rock Hits",
+        "url": "https://open.spotify.com/album/18WSrQcRdR0z4qrTUJOpQd"
+      },
+      "artists": [
+        {
+          "name": "Super Power Club",
+          "url": "https://open.spotify.com/artist/5vGR79cM4EqZxXgvcExy7f"
+        }
+      ],
+      "duration_ms": 180013,
+      "name": "Viva La Vida",
+      "url": "https://open.spotify.com/track/6h0EL3eT9ALAN9Re2duMXp"
     },
     {
       "added_at": "2022-09-30 05:34:00",
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/4oPYazJJ1o4rWBrTw9lm40"
         }
       ],
-      "duration_ms": 194264,
-      "name": "I Know Places (8 Bit Version)",
-      "url": "https://open.spotify.com/track/4nVQjFjD0Sjnpl4tDwmxUI"
+      "duration_ms": 270441,
+      "name": "Clean (8 Bit Version)",
+      "url": "https://open.spotify.com/track/1q5UT5EGiDE0lwyI5RHSXm"
     },
     {
       "added_at": "2022-09-30 05:34:00",
@@ -904,9 +904,9 @@
           "url": "https://open.spotify.com/artist/4oPYazJJ1o4rWBrTw9lm40"
         }
       ],
-      "duration_ms": 270441,
-      "name": "Clean (8 Bit Version)",
-      "url": "https://open.spotify.com/track/1q5UT5EGiDE0lwyI5RHSXm"
+      "duration_ms": 194264,
+      "name": "I Know Places (8 Bit Version)",
+      "url": "https://open.spotify.com/track/4nVQjFjD0Sjnpl4tDwmxUI"
     },
     {
       "added_at": "2022-09-30 05:34:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-09-30 05:34:00",
       "album": {
-        "name": "8-Bit Versions of Imagine Dragons",
-        "url": "https://open.spotify.com/album/1svHcsZLcTHOqdif40fGAs"
-      },
-      "artists": [
-        {
-          "name": "8-Bit Misfits",
-          "url": "https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic"
-        }
-      ],
-      "duration_ms": 180666,
-      "name": "Demons",
-      "url": "https://open.spotify.com/track/2Esyeuk3y1T15Y5vFYvOm4"
-    },
-    {
-      "added_at": "2022-09-30 05:34:00",
-      "album": {
         "name": "8-Bit Versions of Gorillaz",
         "url": "https://open.spotify.com/album/5Ac2uMLrhTDFeRm2Kbrt0J"
       },
@@ -1039,18 +1023,18 @@
     {
       "added_at": "2022-09-30 05:34:00",
       "album": {
-        "name": "Killin' the Game",
-        "url": "https://open.spotify.com/album/39j8OiT31YTk8epqyi1xSd"
+        "name": "8-Bit Versions of Imagine Dragons",
+        "url": "https://open.spotify.com/album/1svHcsZLcTHOqdif40fGAs"
       },
       "artists": [
         {
-          "name": "8 Bit Universe",
-          "url": "https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs"
+          "name": "8-Bit Misfits",
+          "url": "https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic"
         }
       ],
-      "duration_ms": 208840,
-      "name": "Dance Monkey (8 Bit Version)",
-      "url": "https://open.spotify.com/track/28V8JJ3CcpjAsyFjETYlUt"
+      "duration_ms": 180666,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/2Esyeuk3y1T15Y5vFYvOm4"
     },
     {
       "added_at": "2022-09-30 05:34:00",
@@ -1067,6 +1051,22 @@
       "duration_ms": 273521,
       "name": "Bitter Sweet Symphony (8 Bit Version)",
       "url": "https://open.spotify.com/track/6mL4dZEv5H94fifSK6t0Sq"
+    },
+    {
+      "added_at": "2022-09-30 05:34:00",
+      "album": {
+        "name": "Killin' the Game",
+        "url": "https://open.spotify.com/album/39j8OiT31YTk8epqyi1xSd"
+      },
+      "artists": [
+        {
+          "name": "8 Bit Universe",
+          "url": "https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs"
+        }
+      ],
+      "duration_ms": 208840,
+      "name": "Dance Monkey (8 Bit Version)",
+      "url": "https://open.spotify.com/track/28V8JJ3CcpjAsyFjETYlUt"
     },
     {
       "added_at": "2022-09-30 05:34:00",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2022-09-30 05:34:00",
       "album": {
+        "name": "101 Game Themes",
+        "url": "https://open.spotify.com/album/33OCcnQFpghOyV3qRNqaNI"
+      },
+      "artists": [
+        {
+          "name": "8-Bit Arcade",
+          "url": "https://open.spotify.com/artist/21VBNkZvKxrI9zmfFRxXvn"
+        }
+      ],
+      "duration_ms": 121407,
+      "name": "Double Dragon 2 (Main Theme)",
+      "url": "https://open.spotify.com/track/7sR2YrEY0vHTaW8sC3xTuO"
+    },
+    {
+      "added_at": "2022-09-30 05:34:00",
+      "album": {
         "name": "Super Power Club: 8-Bit Tribute to Modern Rock Hits",
         "url": "https://open.spotify.com/album/18WSrQcRdR0z4qrTUJOpQd"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 181960,
       "name": "Smooth Criminal",
       "url": "https://open.spotify.com/track/6K2SIairc1P84oICLGS3Wc"
-    },
-    {
-      "added_at": "2022-09-30 05:34:00",
-      "album": {
-        "name": "101 Game Themes",
-        "url": "https://open.spotify.com/album/33OCcnQFpghOyV3qRNqaNI"
-      },
-      "artists": [
-        {
-          "name": "8-Bit Arcade",
-          "url": "https://open.spotify.com/artist/21VBNkZvKxrI9zmfFRxXvn"
-        }
-      ],
-      "duration_ms": 121407,
-      "name": "Double Dragon 2 (Main Theme)",
-      "url": "https://open.spotify.com/track/7sR2YrEY0vHTaW8sC3xTuO"
     },
     {
       "added_at": "2022-09-30 05:34:00",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2022-09-30 05:34:00",
       "album": {
-        "name": "Covered in 8 Bits",
-        "url": "https://open.spotify.com/album/4p17oi4kgKSwOEdAKReA0p"
+        "name": "The 8-Bit 80s",
+        "url": "https://open.spotify.com/album/4wRRU3vtMD32OyrynXPtwZ"
       },
       "artists": [
         {
-          "name": "8 Bit Universe",
-          "url": "https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs"
+          "name": "8-Bit Arcade",
+          "url": "https://open.spotify.com/artist/21VBNkZvKxrI9zmfFRxXvn"
         }
       ],
-      "duration_ms": 193875,
-      "name": "Bad Guy (8 Bit Version)",
-      "url": "https://open.spotify.com/track/70OF84RkZcbbFFG1OOc3uR"
+      "duration_ms": 240000,
+      "name": "Ghostbusters - 8-Bit Ray Parker Jr Emulation",
+      "url": "https://open.spotify.com/track/6UW5AHMPomK1OhDdiO1jHH"
     },
     {
       "added_at": "2022-09-30 05:34:00",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2022-09-30 05:34:00",
       "album": {
-        "name": "The 8-Bit 80s",
-        "url": "https://open.spotify.com/album/4wRRU3vtMD32OyrynXPtwZ"
+        "name": "Covered in 8 Bits",
+        "url": "https://open.spotify.com/album/4p17oi4kgKSwOEdAKReA0p"
       },
       "artists": [
         {
-          "name": "8-Bit Arcade",
-          "url": "https://open.spotify.com/artist/21VBNkZvKxrI9zmfFRxXvn"
+          "name": "8 Bit Universe",
+          "url": "https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Ghostbusters - 8-Bit Ray Parker Jr Emulation",
-      "url": "https://open.spotify.com/track/6UW5AHMPomK1OhDdiO1jHH"
+      "duration_ms": 193875,
+      "name": "Bad Guy (8 Bit Version)",
+      "url": "https://open.spotify.com/track/70OF84RkZcbbFFG1OOc3uR"
     },
     {
       "added_at": "2022-09-30 05:34:00",
@@ -1355,22 +1355,6 @@
       "duration_ms": 401079,
       "name": "Stan (8 Bit Version)",
       "url": "https://open.spotify.com/track/0nE7tNiKkdbrJWH191dfr4"
-    },
-    {
-      "added_at": "2022-09-30 05:34:00",
-      "album": {
-        "name": "8-Bit Versions of Michael Jackson",
-        "url": "https://open.spotify.com/album/72muLXH22HNmlYPdQRLsVO"
-      },
-      "artists": [
-        {
-          "name": "8-Bit Misfits",
-          "url": "https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic"
-        }
-      ],
-      "duration_ms": 241947,
-      "name": "Thriller",
-      "url": "https://open.spotify.com/track/10akn5RmTjMhOPdLm4iNKh"
     },
     {
       "added_at": "2022-09-30 05:34:00",
@@ -1407,8 +1391,8 @@
     {
       "added_at": "2022-09-30 05:34:00",
       "album": {
-        "name": "8-Bit Versions of Misfits",
-        "url": "https://open.spotify.com/album/3cfju3IBxXEbCkRsSrzqOl"
+        "name": "8-Bit Versions of Michael Jackson",
+        "url": "https://open.spotify.com/album/72muLXH22HNmlYPdQRLsVO"
       },
       "artists": [
         {
@@ -1416,9 +1400,9 @@
           "url": "https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic"
         }
       ],
-      "duration_ms": 110491,
-      "name": "Last Caress",
-      "url": "https://open.spotify.com/track/3QayeKx6qnhDB1Q7aK0T1t"
+      "duration_ms": 241947,
+      "name": "Thriller",
+      "url": "https://open.spotify.com/track/10akn5RmTjMhOPdLm4iNKh"
     },
     {
       "added_at": "2022-09-30 05:34:00",
@@ -1435,6 +1419,22 @@
       "duration_ms": 206500,
       "name": "What I've Done",
       "url": "https://open.spotify.com/track/1QPqTG2MhhMJsXVfezJriJ"
+    },
+    {
+      "added_at": "2022-09-30 05:34:00",
+      "album": {
+        "name": "8-Bit Versions of Misfits",
+        "url": "https://open.spotify.com/album/3cfju3IBxXEbCkRsSrzqOl"
+      },
+      "artists": [
+        {
+          "name": "8-Bit Misfits",
+          "url": "https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic"
+        }
+      ],
+      "duration_ms": 110491,
+      "name": "Last Caress",
+      "url": "https://open.spotify.com/track/3QayeKx6qnhDB1Q7aK0T1t"
     },
     {
       "added_at": "2022-09-30 05:34:00",
@@ -1519,8 +1519,8 @@
     {
       "added_at": "2022-09-30 05:34:00",
       "album": {
-        "name": "Program the Party",
-        "url": "https://open.spotify.com/album/0YXTQKfMIT9bl4tQCyEa4O"
+        "name": "Lit Bits",
+        "url": "https://open.spotify.com/album/7K3EZPyJCFqFEKuOGI9Mz0"
       },
       "artists": [
         {
@@ -1528,9 +1528,9 @@
           "url": "https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs"
         }
       ],
-      "duration_ms": 204513,
-      "name": "Paper Planes (8 Bit Version)",
-      "url": "https://open.spotify.com/track/5z7P6AS3UhpYQMqGBblCQB"
+      "duration_ms": 243674,
+      "name": "Eye of the Tiger (2019 8 Bit Version)",
+      "url": "https://open.spotify.com/track/1VptTXizn639xDw5CsSDMy"
     },
     {
       "added_at": "2022-09-30 05:34:00",
@@ -1551,8 +1551,24 @@
     {
       "added_at": "2022-09-30 05:34:00",
       "album": {
-        "name": "Lit Bits",
-        "url": "https://open.spotify.com/album/7K3EZPyJCFqFEKuOGI9Mz0"
+        "name": "8-Bit Versions of Eminem",
+        "url": "https://open.spotify.com/album/1YJzWrXjvMLqmJlnl4h7Yi"
+      },
+      "artists": [
+        {
+          "name": "8-Bit Misfits",
+          "url": "https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic"
+        }
+      ],
+      "duration_ms": 233084,
+      "name": "Lose Yourself",
+      "url": "https://open.spotify.com/track/3neCGqGtbxTEN5K9i9jwM2"
+    },
+    {
+      "added_at": "2022-09-30 05:34:00",
+      "album": {
+        "name": "Program the Party",
+        "url": "https://open.spotify.com/album/0YXTQKfMIT9bl4tQCyEa4O"
       },
       "artists": [
         {
@@ -1560,9 +1576,9 @@
           "url": "https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs"
         }
       ],
-      "duration_ms": 243674,
-      "name": "Eye of the Tiger (2019 8 Bit Version)",
-      "url": "https://open.spotify.com/track/1VptTXizn639xDw5CsSDMy"
+      "duration_ms": 204513,
+      "name": "Paper Planes (8 Bit Version)",
+      "url": "https://open.spotify.com/track/5z7P6AS3UhpYQMqGBblCQB"
     },
     {
       "added_at": "2022-09-30 05:34:00",
@@ -1583,22 +1599,6 @@
     {
       "added_at": "2022-09-30 05:34:00",
       "album": {
-        "name": "8-Bit Versions of Eminem",
-        "url": "https://open.spotify.com/album/1YJzWrXjvMLqmJlnl4h7Yi"
-      },
-      "artists": [
-        {
-          "name": "8-Bit Misfits",
-          "url": "https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic"
-        }
-      ],
-      "duration_ms": 233084,
-      "name": "Lose Yourself",
-      "url": "https://open.spotify.com/track/3neCGqGtbxTEN5K9i9jwM2"
-    },
-    {
-      "added_at": "2022-09-30 05:34:00",
-      "album": {
         "name": "8-Bit Versions of Metallica",
         "url": "https://open.spotify.com/album/5YgOotRzagZR9gCiHaXD9S"
       },
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2022-09-30 05:34:00",
       "album": {
-        "name": "8-Bit Versions of The Killers",
-        "url": "https://open.spotify.com/album/2OZ8JhqyKJmjh5nwpVXWwU"
-      },
-      "artists": [
-        {
-          "name": "8-Bit Misfits",
-          "url": "https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic"
-        }
-      ],
-      "duration_ms": 200434,
-      "name": "Somebody Told Me",
-      "url": "https://open.spotify.com/track/0GMopunqHwu9tNYCN3Ybds"
-    },
-    {
-      "added_at": "2022-09-30 05:34:00",
-      "album": {
         "name": "8-Bit Tribute to Pop Hits, Vol. 1 - Single",
         "url": "https://open.spotify.com/album/35721ViIGQMJmoq2V35R60"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 185693,
       "name": "Paparazzi",
       "url": "https://open.spotify.com/track/4l1XFalWzzlPb4yEJ2m7JJ"
+    },
+    {
+      "added_at": "2022-09-30 05:34:00",
+      "album": {
+        "name": "8-Bit Versions of The Killers",
+        "url": "https://open.spotify.com/album/2OZ8JhqyKJmjh5nwpVXWwU"
+      },
+      "artists": [
+        {
+          "name": "8-Bit Misfits",
+          "url": "https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic"
+        }
+      ],
+      "duration_ms": 200434,
+      "name": "Somebody Told Me",
+      "url": "https://open.spotify.com/track/0GMopunqHwu9tNYCN3Ybds"
     }
   ],
   "unique_name": "8 Bit Hits",

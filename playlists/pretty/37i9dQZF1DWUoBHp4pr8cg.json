@@ -1,12 +1,12 @@
 {
   "description": "Only the hottest Hip Hop from Gunna (pictured), Young Thug, Drake, Dave, K.O and more...",
-  "num_followers": 58997,
+  "num_followers": 59058,
   "original_name": "Hip Hop Circle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOGJlNzRjZDIwZWU3NWIwMTBlZmRhN2FmMDI0YzBmMWMxY2IyNjQw",
+  "snapshot_id": "MCw4ZWZhYjExNzViOTdhNTUwNWQ0MThiZjAwZTk4Y2VjN2VmMzM4YjU1",
   "tracks": [
     {
       "added_at": "2023-06-23 05:07:49",
@@ -71,6 +71,42 @@
       "duration_ms": 238032,
       "name": "Sosh Plata - Remix",
       "url": "https://open.spotify.com/track/3x3aen8g82ZErdMyGBuHNN"
+    },
+    {
+      "added_at": "2023-06-23 05:07:49",
+      "album": {
+        "name": "GOD DID",
+        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 501648,
+      "name": "GOD DID (feat. Rick Ross, Lil Wayne, Jay-Z, John Legend & Fridayy)",
+      "url": "https://open.spotify.com/track/2sOj9vyd6yiss9W1IK6chU"
     },
     {
       "added_at": "2023-06-23 05:07:49",

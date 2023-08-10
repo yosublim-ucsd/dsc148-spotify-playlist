@@ -1,12 +1,12 @@
 {
   "description": "Discover indie covers. Cover: Lovejoy",
-  "num_followers": 283753,
+  "num_followers": 283815,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOGM4YTJkZjk3YjNkNGE5YTcwYWQ0MTc2ZjAwYzk4N2RlNWQ0ZGZm",
+  "snapshot_id": "MCxiNzMxODM5ODFiZmMyYmNlZDJmNTJmZmIzNTI5MTMwY2Y3OGYyNDcw",
   "tracks": [
     {
       "added_at": "2023-05-05 17:19:46",
@@ -369,22 +369,6 @@
       "url": "https://open.spotify.com/track/0Qj4YyHTtV01Fvfl2fibea"
     },
     {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "Summer Madness",
-        "url": "https://open.spotify.com/album/2g0Mwf7ujbQmtZzMAhiCkp"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 201917,
-      "name": "Summer Madness",
-      "url": "https://open.spotify.com/track/7fpiYh33Xph4OPj8gS8jL0"
-    },
-    {
       "added_at": "2023-08-08 14:58:46",
       "album": {
         "name": "Soak Up The Sun",
@@ -399,6 +383,22 @@
       "duration_ms": 304413,
       "name": "Soak Up The Sun",
       "url": "https://open.spotify.com/track/1siBPIRWS5dlMlnCGVWOkI"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Summer Madness",
+        "url": "https://open.spotify.com/album/2g0Mwf7ujbQmtZzMAhiCkp"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 201917,
+      "name": "Summer Madness",
+      "url": "https://open.spotify.com/track/7fpiYh33Xph4OPj8gS8jL0"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -773,6 +773,22 @@
       "url": "https://open.spotify.com/track/5UChPKbbKFkbuQKicha00m"
     },
     {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "keep your head up",
+        "url": "https://open.spotify.com/album/5UMCnMfWmOo9Yc2Eu0L6xf"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "duration_ms": 206672,
+      "name": "keep your head up",
+      "url": "https://open.spotify.com/track/1fC0O9vW5aDc3Oo5OqBCmL"
+    },
+    {
       "added_at": "2023-05-05 17:19:46",
       "album": {
         "name": "Riptide",
@@ -795,22 +811,6 @@
       "duration_ms": 193344,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2Dz2D2jwauzoiq7aluMiH9"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "keep your head up",
-        "url": "https://open.spotify.com/album/5UMCnMfWmOo9Yc2Eu0L6xf"
-      },
-      "artists": [
-        {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
-        }
-      ],
-      "duration_ms": 206672,
-      "name": "keep your head up",
-      "url": "https://open.spotify.com/track/1fC0O9vW5aDc3Oo5OqBCmL"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Come Give Me Love",
-        "url": "https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 239643,
-      "name": "Come Give Me Love",
-      "url": "https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ"
       },
@@ -1039,6 +1023,22 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
+        "name": "Come Give Me Love",
+        "url": "https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 239643,
+      "name": "Come Give Me Love",
+      "url": "https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
         "name": "Alaska",
         "url": "https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq"
       },
@@ -1051,6 +1051,26 @@
       "duration_ms": 191875,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Go Easy, Kid (with James Blake)",
+        "url": "https://open.spotify.com/album/5RMjaRKQfjdeaqdnxaeALK"
+      },
+      "artists": [
+        {
+          "name": "Monica Martin",
+          "url": "https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN"
+        },
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 267946,
+      "name": "Go Easy, Kid (with James Blake)",
+      "url": "https://open.spotify.com/track/6SRgFtpZmRsYNR3Kj5sHCf"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1087,26 +1107,6 @@
       "duration_ms": 187697,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/4U2ZR1idYA8HnS53apJTxN"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "Go Easy, Kid (with James Blake)",
-        "url": "https://open.spotify.com/album/5RMjaRKQfjdeaqdnxaeALK"
-      },
-      "artists": [
-        {
-          "name": "Monica Martin",
-          "url": "https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN"
-        },
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 267946,
-      "name": "Go Easy, Kid (with James Blake)",
-      "url": "https://open.spotify.com/track/6SRgFtpZmRsYNR3Kj5sHCf"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1163,6 +1163,26 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
+        "name": "You've Got a Woman",
+        "url": "https://open.spotify.com/album/3DbIkUH1sh5HTPD8n65A3S"
+      },
+      "artists": [
+        {
+          "name": "Natalie Bergman",
+          "url": "https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC"
+        },
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 205220,
+      "name": "You've Got a Woman",
+      "url": "https://open.spotify.com/track/55tF86yLmOiGwoFgollNC6"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
         "name": "Steal My Sunshine / Novocaine For The Soul",
         "url": "https://open.spotify.com/album/7tfjWfYOhPMyb5uu0mC5w1"
       },
@@ -1183,22 +1203,18 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "You've Got a Woman",
-        "url": "https://open.spotify.com/album/3DbIkUH1sh5HTPD8n65A3S"
+        "name": "Nothing Else Matters",
+        "url": "https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41"
       },
       "artists": [
         {
-          "name": "Natalie Bergman",
-          "url": "https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC"
-        },
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 205220,
-      "name": "You've Got a Woman",
-      "url": "https://open.spotify.com/track/55tF86yLmOiGwoFgollNC6"
+      "duration_ms": 274506,
+      "name": "Nothing Else Matters",
+      "url": "https://open.spotify.com/track/1guCON9841cQwAlbNplLsY"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1279,22 +1295,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Nothing Else Matters",
-        "url": "https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 274506,
-      "name": "Nothing Else Matters",
-      "url": "https://open.spotify.com/track/1guCON9841cQwAlbNplLsY"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Our House",
         "url": "https://open.spotify.com/album/7yuswreCCTccvqWFuP974U"
       },
@@ -1307,26 +1307,6 @@
       "duration_ms": 182080,
       "name": "Our House",
       "url": "https://open.spotify.com/track/08sn2aLyHIGwUalxqkPmaO"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "Pumped Up Kicks (Gus Dapperton Version)",
-        "url": "https://open.spotify.com/album/3N6JDO9GBMR7sZHpgxY1OS"
-      },
-      "artists": [
-        {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        },
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 232200,
-      "name": "Pumped Up Kicks - Gus Dapperton Version",
-      "url": "https://open.spotify.com/track/5bLaUOpi4YlCY8F3txSKxN"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1347,6 +1327,26 @@
       "duration_ms": 280086,
       "name": "Bittersweet Symphony",
       "url": "https://open.spotify.com/track/1Ma1JqyeNg7RVdeTlYP5AN"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Pumped Up Kicks (Gus Dapperton Version)",
+        "url": "https://open.spotify.com/album/3N6JDO9GBMR7sZHpgxY1OS"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        },
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "Pumped Up Kicks - Gus Dapperton Version",
+      "url": "https://open.spotify.com/track/5bLaUOpi4YlCY8F3txSKxN"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1437,6 +1437,22 @@
       "url": "https://open.spotify.com/track/14nR4STG0GeaCLYtlJXjHI"
     },
     {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Under The Milky Way",
+        "url": "https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS"
+      },
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "duration_ms": 260101,
+      "name": "Under The Milky Way",
+      "url": "https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL"
+    },
+    {
       "added_at": "2023-07-20 17:51:58",
       "album": {
         "name": "Broken Glass, Vol. 1",
@@ -1455,22 +1471,6 @@
       "duration_ms": 215500,
       "name": "Walking on Broken Glass",
       "url": "https://open.spotify.com/track/0ZCs6DZnq2GifODJZsUZXV"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "Under The Milky Way",
-        "url": "https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS"
-      },
-      "artists": [
-        {
-          "name": "The Temper Trap",
-          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
-        }
-      ],
-      "duration_ms": 260101,
-      "name": "Under The Milky Way",
-      "url": "https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/7hAhqGIOTDSlXq6R0wKqvw"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 210956,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Teardrop",
         "url": "https://open.spotify.com/album/42WoUwPPhODqJZHQ7iSh9y"
       },
@@ -1603,6 +1587,22 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/7hAhqGIOTDSlXq6R0wKqvw"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 210956,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/7zuBYf3lEDOOpvRmSn7lSW"
       },
@@ -1615,6 +1615,26 @@
       "duration_ms": 234624,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/0tueLq12kgxw1s7Wd0WfIF"
+    },
+    {
+      "added_at": "2023-08-08 14:58:46",
+      "album": {
+        "name": "Different Now",
+        "url": "https://open.spotify.com/album/7AKbVhsHqz4enFZBTsJe4n"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        },
+        {
+          "name": "Chastity Belt",
+          "url": "https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK"
+        }
+      ],
+      "duration_ms": 265772,
+      "name": "Different Now",
+      "url": "https://open.spotify.com/track/1J0aTXvZG634UfviOVGMi5"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1665,20 +1685,20 @@
       "url": "https://open.spotify.com/track/3P87k30Y8InwhW8Vx9YOZR"
     },
     {
-      "added_at": "2023-05-05 17:19:46",
+      "added_at": "2023-08-08 14:58:46",
       "album": {
-        "name": "i wanna be your girlfriend",
-        "url": "https://open.spotify.com/album/1GLJbv53SbSavS2XKqJttz"
+        "name": "I Love You (But You're Boring)",
+        "url": "https://open.spotify.com/album/5bAGxbsl5q0Rg9XxZP14Yg"
       },
       "artists": [
         {
-          "name": "gglum",
-          "url": "https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO"
+          "name": "Los Campesinos!",
+          "url": "https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E"
         }
       ],
-      "duration_ms": 311844,
-      "name": "i wanna be your girlfriend",
-      "url": "https://open.spotify.com/track/0rpsYTdLM9iNgkUGgFhGB8"
+      "duration_ms": 289066,
+      "name": "I Love You (But You're Boring)",
+      "url": "https://open.spotify.com/track/2zvoxw6eF6Ruif28Mu3JE5"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1695,22 +1715,6 @@
       "duration_ms": 218836,
       "name": "Bad Man",
       "url": "https://open.spotify.com/track/5jlechEPcQgjdHgr2t57w8"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "Bad News from Home",
-        "url": "https://open.spotify.com/album/2ai61yElRZv3KdhXa66GkD"
-      },
-      "artists": [
-        {
-          "name": "Phosphorescent",
-          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
-        }
-      ],
-      "duration_ms": 169584,
-      "name": "Bad News from Home",
-      "url": "https://open.spotify.com/track/09r0BhkaegSmwwotdCTEYk"
     }
   ],
   "unique_name": "Indie Covers",

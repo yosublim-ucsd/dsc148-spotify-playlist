@@ -4,10 +4,11 @@
 
 > Your daily update of the most played tracks right now \- Portugal.
 
-902 songs - 2 day 2 hr 4 min
+903 songs - 2 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-08-09 |  |
 | [\* da Anitta](https://open.spotify.com/track/0VhG6qzFZo9JrHu56Wq7gh) | [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [\* da Anitta](https://open.spotify.com/album/5vrDahFF5TU32GwPMxP4SC) | 2:20 | 2023-04-23 | 2023-04-29 |
 | [1 0 0 \. m i l ‘ \(with Bas\)](https://open.spotify.com/track/4n6NDfYake476trCjJRNl0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:43 | 2021-05-16 | 2021-05-19 |
 | [1 step forward, 3 steps back](https://open.spotify.com/track/4wcBRRpIfesgcyUtis7PEg) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:43 | 2021-05-23 | 2021-06-09 |
@@ -718,7 +719,7 @@
 | [Seek & Destroy](https://open.spotify.com/track/6eT2V7nKXyMf47TwPbtgAD) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:23 | 2022-12-10 | 2022-12-12 |
 | [Segredo](https://open.spotify.com/track/6hu4HvpNzrW2RIEEAZC3vD) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Contradições](https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D) | 1:44 | 2023-06-05 | 2023-06-23 |
 | [Segurança](https://open.spotify.com/track/6CQei9foPt8tr65hP8ESdQ) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Segurança](https://open.spotify.com/album/2dXGxbtFGYkpubKsCxvDgx) | 2:57 | 2023-04-01 | 2023-04-03 |
-| [Sem Aliança no Dedo](https://open.spotify.com/track/22sAwsBH0NoNJXnrBenQuO) | [MC Xenon](https://open.spotify.com/artist/5vcMPVDXTLhJ4UpOZKXZtg), [Os Gemeos da Putaria](https://open.spotify.com/artist/5ZEpz4ei1jHqvA4EHUeKqs) | [Sem Aliança no Dedo](https://open.spotify.com/album/1jrzYloHK7zn8n66qulEjn) | 2:00 | 2023-02-11 |  |
+| [Sem Aliança no Dedo](https://open.spotify.com/track/22sAwsBH0NoNJXnrBenQuO) | [MC Xenon](https://open.spotify.com/artist/5vcMPVDXTLhJ4UpOZKXZtg), [Os Gemeos da Putaria](https://open.spotify.com/artist/5ZEpz4ei1jHqvA4EHUeKqs) | [Sem Aliança no Dedo](https://open.spotify.com/album/1jrzYloHK7zn8n66qulEjn) | 2:00 | 2023-02-11 | 2023-08-10 |
 | [Sem Ti](https://open.spotify.com/track/6bZoSXs4RbMgJaAnEiQsHz) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Sem Ti](https://open.spotify.com/album/13ARq2g2xclODcbnbCEX0X) | 2:35 | 2023-07-01 | 2023-07-28 |
 | [Sentadona \(Ai Calica\)](https://open.spotify.com/track/71efUiJwL11CRkI5aMplsi) | [Davi Kneip](https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP), [Mc Frog](https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm), [Dj Gabriel do Borel](https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3) | [Sentadona \(Ai Calica\)](https://open.spotify.com/album/3oTXQfxac47CE54U58mEdG) | 2:46 | 2022-03-20 | 2022-04-06 |
 | [sentaDONA \(Remix\) s2](https://open.spotify.com/track/3sd2p4kE7xQmFH3lPnFl6h) | [Davi Kneip](https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP), [Mc Frog](https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm), [Dj Gabriel do Borel](https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [sentaDONA \(Remix\) s2](https://open.spotify.com/album/1KpRGCxuMGo9hqsy4GTkb0) | 2:05 | 2022-03-22 | 2022-08-19 |

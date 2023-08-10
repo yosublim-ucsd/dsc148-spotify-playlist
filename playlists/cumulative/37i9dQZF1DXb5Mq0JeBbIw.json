@@ -1649,6 +1649,24 @@
     },
     {
       "album": {
+        "name": "I Still Haven't Found What I'm Looking For",
+        "url": "https://open.spotify.com/album/2hfiqE3A9MDiS0VbGhWLYr"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163588,
+      "name": "I Still Haven't Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/3pAsI7X41AWYTeH50ryxAs"
+    },
+    {
+      "album": {
         "name": "I Will Wait",
         "url": "https://open.spotify.com/album/32aNqk2YkbDuULGnhW0UaX"
       },
@@ -1768,7 +1786,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-10",
       "duration_ms": 140130,
       "name": "I'm On Fire",
       "url": "https://open.spotify.com/track/3i38IJBfk99KziSacMYO9l"

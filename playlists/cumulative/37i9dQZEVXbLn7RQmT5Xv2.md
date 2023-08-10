@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-678 songs - 1 day 15 hr 20 min
+681 songs - 1 day 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,7 +334,8 @@
 | [Mesh Nadman](https://open.spotify.com/track/3g4p8OgtpxHpEHzEjnRo6J) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Mesh Nadman](https://open.spotify.com/album/5UzHxBDzrASY4c8xUXBbzy) | 2:55 | 2021-12-31 |  |
 | [MESH ZAY ELE 7ASO](https://open.spotify.com/track/7f9GYz8Hcb58pKxOddasNR) | [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [MESH ZAY ELE 7ASO](https://open.spotify.com/album/4FYA7i61BUnjbgfoVCLBnC) | 3:00 | 2021-10-19 | 2021-10-22 |
 | [Met3'er](https://open.spotify.com/track/2EQ4OFrnXp3Fn9ZQa5HFtW) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Met3'er](https://open.spotify.com/album/2pBdfaLgjOgU8Exmi97yks) | 2:51 | 2023-01-13 | 2023-02-11 |
-| [Metkatef](https://open.spotify.com/track/7GuwZJyYf09i7Gkg2SXFhD) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Metkatef](https://open.spotify.com/album/3GhZv3MkDK0QYVmVzikjMp) | 3:27 | 2023-07-08 |  |
+| [Metkatef](https://open.spotify.com/track/3YJvA5FwsJdP6jytpPkvFp) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Metkatef](https://open.spotify.com/album/2FuBitU6GXqchhRGmEr6Fa) | 3:27 | 2023-08-09 |  |
+| [Metkatef](https://open.spotify.com/track/7GuwZJyYf09i7Gkg2SXFhD) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Metkatef](https://open.spotify.com/album/3GhZv3MkDK0QYVmVzikjMp) | 3:27 | 2023-07-08 | 2023-08-10 |
 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 | 2022-02-20 | 2022-09-17 |
 | [Midnight Rain](https://open.spotify.com/track/1DAHLigfUqSLrU3RLG1EKR) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/4moVP48t9bji7djUc5VOvi) | 2:54 | 2022-10-22 | 2022-10-24 |
 | [Midnight Rain](https://open.spotify.com/track/3rWDp9tBPQR9z6U5YyRSK4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 2:54 | 2022-10-24 | 2022-10-26 |
@@ -495,7 +496,8 @@
 | [Tarantino](https://open.spotify.com/track/13E54FVYV7fzEfZhtrKn0K) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK), [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [Roma](https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F) | 3:02 | 2022-09-24 | 2022-12-10 |
 | [Tarsh](https://open.spotify.com/track/5iuZ87tYtYAfd4VkuzN4Zl) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Ordne](https://open.spotify.com/artist/6eEgtjJ64JAlgjqyBPzkqH) | [Tarsh](https://open.spotify.com/album/30watsIksrxiSzUcTLC1FE) | 2:43 | 2021-12-24 | 2021-12-27 |
 | [Tayarat](https://open.spotify.com/track/55pEJb85n9e412CJtNugQN) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [Tayarat](https://open.spotify.com/album/5fYjVjlWvYHD08pjTC2ats) | 3:21 | 2021-03-27\* | 2021-05-03 |
-| [Tayer](https://open.spotify.com/track/6miRZdknknUzuQYZP3DTJz) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Tayer](https://open.spotify.com/album/5KjCWTgMVinKpmGRJXjkI7) | 2:54 | 2023-07-20 |  |
+| [Tayer](https://open.spotify.com/track/0NmkoiRoMdCjJgDB3f6AuD) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Tayer](https://open.spotify.com/album/1OYkpatYdj2FS7cvAW4aHy) | 2:54 | 2023-08-09 |  |
+| [Tayer](https://open.spotify.com/track/6miRZdknknUzuQYZP3DTJz) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Tayer](https://open.spotify.com/album/5KjCWTgMVinKpmGRJXjkI7) | 2:54 | 2023-07-20 | 2023-08-10 |
 | [TEGE GOAL](https://open.spotify.com/track/0TvMcVxIQaxZCkT4R6yjpS) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [SAN STEFANO](https://open.spotify.com/album/0AkGcmpMk9Ctaa8LgigTT1) | 3:16 | 2022-07-28 | 2022-08-01 |
 | [Tege Goal](https://open.spotify.com/track/5ptN0LBbIyZrxP9RLAwq5N) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [Tege Goal](https://open.spotify.com/album/4b8EdoD1qXfDm5yOcuED90) | 3:16 | 2022-01-05 | 2022-07-29 |
 | [Tegy Ntrahn](https://open.spotify.com/track/2NF0gMDLnJSaqIfj0SvrDi) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq) | 4:00 | 2022-01-22 | 2022-05-08 |
@@ -526,7 +528,8 @@
 | [VALENTINO](https://open.spotify.com/track/3rvtomcmFFf3JJpxr5SRW1) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [DizzyTooSkinny](https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP) | [VALENTINO](https://open.spotify.com/album/7lWM0nd2rvZcPptTWFSqi4) | 2:37 | 2022-02-12 | 2022-03-24 |
 | [Vigilante Shit](https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 2:44 | 2022-10-22 | 2022-10-24 |
 | [W El 7al Eh](https://open.spotify.com/track/7d3jR3zhKm8i7aPQcxjiVB) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [W El 7al Eh](https://open.spotify.com/album/4BopfUXJgJhEUYefSdOXHs) | 2:59 | 2022-12-27 | 2023-07-22 |
-| [Wahshteeny](https://open.spotify.com/track/15dL61n1mPULn6XkY95eRj) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Wahshteeny](https://open.spotify.com/album/5tKmFSot2PxW7tRmrkWQQQ) | 2:28 | 2023-07-11 |  |
+| [Wahshteeny](https://open.spotify.com/track/15dL61n1mPULn6XkY95eRj) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Wahshteeny](https://open.spotify.com/album/5tKmFSot2PxW7tRmrkWQQQ) | 2:28 | 2023-07-11 | 2023-08-10 |
+| [Wahshteeny](https://open.spotify.com/track/1a92SdpdJ77U1sjEOOi5OC) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Wahshteeny](https://open.spotify.com/album/4TJPiash9AKTQeDA0LvGGr) | 2:28 | 2023-08-09 |  |
 | [Wala Leila Men Layalik](https://open.spotify.com/track/2E96jCCCFuYRqQ1ewBs736) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Ya Fatenny](https://open.spotify.com/album/3PiLAHM8hDtVxWkwg1LStr) | 4:05 | 2021-10-11 | 2021-10-22 |
 | [Wasa3 Wasa3](https://open.spotify.com/track/2hZb0DuHOlqka9VYhHlTpM) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Wasa3 Wasa3](https://open.spotify.com/album/4ejC21FFgQLYmMCm1OfSKh) | 3:58 | 2022-07-28 | 2023-07-03 |
 | [Way 2 Sexy \(with Future & Young Thug\)](https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:17 | 2021-09-05 | 2021-09-07 |

@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 1147669,
+  "num_followers": 1147830,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzQxMjY5ZmJmMDljNzJkNjAyNjEzMzM0MTZiZmQxNDc3OTEwNGM5",
+  "snapshot_id": "MCw2ZTdhNjE3NjAwZmRiNzE0NjYyYTg0ZWEzNTQwY2MwM2QxODc3OTE1",
   "tracks": [
     {
       "added_at": "2023-07-21 19:35:12",
@@ -219,18 +219,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "I'm Sorry I'm Like This",
-        "url": "https://open.spotify.com/album/1nOZaGSuVtIR43XewW6nEU"
+        "name": "you missed the best part",
+        "url": "https://open.spotify.com/album/1KX0aY23DP7aWsvCXxuEPx"
       },
       "artists": [
         {
-          "name": "Pity Party (Girls Club)",
-          "url": "https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU"
+          "name": "Cottonwood Firing Squad",
+          "url": "https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE"
         }
       ],
-      "duration_ms": 100465,
-      "name": "Somewhere in the Universe",
-      "url": "https://open.spotify.com/track/2sLAKUdiwa7Ik8XY2ow3DE"
+      "duration_ms": 124743,
+      "name": "hospital beach",
+      "url": "https://open.spotify.com/track/7t7QJFQLHJWCiHBswHnbzZ"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -251,18 +251,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "you missed the best part",
-        "url": "https://open.spotify.com/album/1KX0aY23DP7aWsvCXxuEPx"
+        "name": "I'm Sorry I'm Like This",
+        "url": "https://open.spotify.com/album/1nOZaGSuVtIR43XewW6nEU"
       },
       "artists": [
         {
-          "name": "Cottonwood Firing Squad",
-          "url": "https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE"
+          "name": "Pity Party (Girls Club)",
+          "url": "https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU"
         }
       ],
-      "duration_ms": 124743,
-      "name": "hospital beach",
-      "url": "https://open.spotify.com/track/7t7QJFQLHJWCiHBswHnbzZ"
+      "duration_ms": 100465,
+      "name": "Somewhere in the Universe",
+      "url": "https://open.spotify.com/track/2sLAKUdiwa7Ik8XY2ow3DE"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -383,26 +383,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "You Don't Want Me Anymore",
-        "url": "https://open.spotify.com/album/3fIR123EC4MJUYmPPAJ0Ss"
-      },
-      "artists": [
-        {
-          "name": "Sn\u00f8w",
-          "url": "https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP"
-        },
-        {
-          "name": "Teqkoi",
-          "url": "https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "You Don't Want Me Anymore",
-      "url": "https://open.spotify.com/track/0K4gxQ2u3545b0GAu85ObO"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "I'm Not Enough and I'm Sorry",
         "url": "https://open.spotify.com/album/6Ytf20PGSKpvTLBqlZas1l"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 120035,
       "name": "I'm Not Enough and I'm Sorry",
       "url": "https://open.spotify.com/track/7DMMYxniMtUtiyAgjUVHCD"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "You Don't Want Me Anymore",
+        "url": "https://open.spotify.com/album/3fIR123EC4MJUYmPPAJ0Ss"
+      },
+      "artists": [
+        {
+          "name": "Sn\u00f8w",
+          "url": "https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP"
+        },
+        {
+          "name": "Teqkoi",
+          "url": "https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "You Don't Want Me Anymore",
+      "url": "https://open.spotify.com/track/0K4gxQ2u3545b0GAu85ObO"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Cotton Candy",
-        "url": "https://open.spotify.com/album/3XUxXmuRsKJAmzCUrBwKR4"
-      },
-      "artists": [
-        {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
-        }
-      ],
-      "duration_ms": 93871,
-      "name": "Cotton Candy",
-      "url": "https://open.spotify.com/track/4FF0tP9mkoiFKLiXFeXm0q"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "No Surprises",
         "url": "https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 120961,
       "name": "No Surprises",
       "url": "https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Cotton Candy",
+        "url": "https://open.spotify.com/album/3XUxXmuRsKJAmzCUrBwKR4"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "duration_ms": 93871,
+      "name": "Cotton Candy",
+      "url": "https://open.spotify.com/track/4FF0tP9mkoiFKLiXFeXm0q"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -703,6 +703,22 @@
       "duration_ms": 119089,
       "name": "I Know You so Well",
       "url": "https://open.spotify.com/track/17eeKDTWiREsr23gIYahtE"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Take Me Back",
+        "url": "https://open.spotify.com/album/21RRWWtERAfAwBFv9rzktq"
+      },
+      "artists": [
+        {
+          "name": "Chri$tian Gate$",
+          "url": "https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL"
+        }
+      ],
+      "duration_ms": 200727,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/0RxJW4CqKIM1v0DN3z32zG"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -787,22 +803,6 @@
       "duration_ms": 168960,
       "name": "Idea of Her",
       "url": "https://open.spotify.com/track/167NK7xPIRNKnSmUE9dBrQ"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Take Me Back",
-        "url": "https://open.spotify.com/album/21RRWWtERAfAwBFv9rzktq"
-      },
-      "artists": [
-        {
-          "name": "Chri$tian Gate$",
-          "url": "https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL"
-        }
-      ],
-      "duration_ms": 200727,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/0RxJW4CqKIM1v0DN3z32zG"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -921,22 +921,6 @@
       "url": "https://open.spotify.com/track/61qLoMpEncPR7n8Ibf8Bhh"
     },
     {
-      "added_at": "2023-07-21 19:35:12",
-      "album": {
-        "name": "Teen Mom",
-        "url": "https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        }
-      ],
-      "duration_ms": 222803,
-      "name": "Teen Mom",
-      "url": "https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT"
-    },
-    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Smoke Signals (feat. Tessa Violet)",
@@ -973,6 +957,42 @@
       "url": "https://open.spotify.com/track/7d6qX28ITEgBUhCJ86SeYq"
     },
     {
+      "added_at": "2023-07-21 19:35:12",
+      "album": {
+        "name": "Teen Mom",
+        "url": "https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "duration_ms": 222803,
+      "name": "Teen Mom",
+      "url": "https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Tell Me About You (feat. Mishaal)",
+        "url": "https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn"
+      },
+      "artists": [
+        {
+          "name": "Kina",
+          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
+        },
+        {
+          "name": "Mishaal Tamer",
+          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Tell Me About You (feat. Mishaal)",
+      "url": "https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH"
+    },
+    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "I even told my mom about u",
@@ -1007,22 +1027,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Tell Me About You (feat. Mishaal)",
-        "url": "https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn"
+        "name": "Songs I Wrote in My Bedroom",
+        "url": "https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv"
       },
       "artists": [
         {
-          "name": "Kina",
-          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
-        },
-        {
-          "name": "Mishaal Tamer",
-          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
         }
       ],
-      "duration_ms": 194400,
-      "name": "Tell Me About You (feat. Mishaal)",
-      "url": "https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH"
+      "duration_ms": 239700,
+      "name": "Emerald Eyes",
+      "url": "https://open.spotify.com/track/0LlTn7ZnC0Nu3lDY2cg8jL"
     },
     {
       "added_at": "2023-07-21 19:35:12",
@@ -1039,22 +1055,6 @@
       "duration_ms": 189052,
       "name": "2005 barbie doll",
       "url": "https://open.spotify.com/track/5eSuJiqfipF2q0x9jyW59c"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Songs I Wrote in My Bedroom",
-        "url": "https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 239700,
-      "name": "Emerald Eyes",
-      "url": "https://open.spotify.com/track/0LlTn7ZnC0Nu3lDY2cg8jL"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1107,22 +1107,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Things I Wanted To Tell You",
-        "url": "https://open.spotify.com/album/1VqpvCyJdviWmwcm54I6c0"
+        "name": "You Tear Me Apart",
+        "url": "https://open.spotify.com/album/3R9q0veyA51VYC6w6VMDQt"
       },
       "artists": [
         {
-          "name": "Kina",
-          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
-        },
-        {
-          "name": "Au/Ra",
-          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+          "name": "Dev Lemons",
+          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
         }
       ],
-      "duration_ms": 139354,
-      "name": "Feel Again (Feat. Au/Ra)",
-      "url": "https://open.spotify.com/track/1fgC2MHbJnPgvDfdTpC62c"
+      "duration_ms": 177957,
+      "name": "You Tear Me Apart",
+      "url": "https://open.spotify.com/track/1KbCFCEee8ox0OHFH08nbG"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1143,34 +1139,38 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "You Tear Me Apart",
-        "url": "https://open.spotify.com/album/3R9q0veyA51VYC6w6VMDQt"
+        "name": "Things I Wanted To Tell You",
+        "url": "https://open.spotify.com/album/1VqpvCyJdviWmwcm54I6c0"
       },
       "artists": [
         {
-          "name": "Dev Lemons",
-          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
+          "name": "Kina",
+          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
+        },
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
         }
       ],
-      "duration_ms": 177957,
-      "name": "You Tear Me Apart",
-      "url": "https://open.spotify.com/track/1KbCFCEee8ox0OHFH08nbG"
+      "duration_ms": 139354,
+      "name": "Feel Again (Feat. Au/Ra)",
+      "url": "https://open.spotify.com/track/1fgC2MHbJnPgvDfdTpC62c"
     },
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Don't Leave, Don't Go / Bleed",
-        "url": "https://open.spotify.com/album/1awanVhccvZ0L2WTMm9FfT"
+        "name": "hortel\u00e3",
+        "url": "https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU"
       },
       "artists": [
         {
-          "name": "Deyaz",
-          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
         }
       ],
-      "duration_ms": 184242,
-      "name": "Don't Leave, Don't Go",
-      "url": "https://open.spotify.com/track/07nd9H2REZKIhVgp3n36YL"
+      "duration_ms": 289058,
+      "name": "just wanna forget you",
+      "url": "https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "hortel\u00e3",
-        "url": "https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU"
+        "name": "Don't Leave, Don't Go / Bleed",
+        "url": "https://open.spotify.com/album/1awanVhccvZ0L2WTMm9FfT"
       },
       "artists": [
         {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+          "name": "Deyaz",
+          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
         }
       ],
-      "duration_ms": 289058,
-      "name": "just wanna forget you",
-      "url": "https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo"
+      "duration_ms": 184242,
+      "name": "Don't Leave, Don't Go",
+      "url": "https://open.spotify.com/track/07nd9H2REZKIhVgp3n36YL"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "infinity",
-        "url": "https://open.spotify.com/album/213BkPPTJcU9MlLj8YJFXW"
-      },
-      "artists": [
-        {
-          "name": "asumuh",
-          "url": "https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO"
-        }
-      ],
-      "duration_ms": 174198,
-      "name": "infinity",
-      "url": "https://open.spotify.com/track/6hbSCFjiWeL9vmOvoA7xvp"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Rage",
         "url": "https://open.spotify.com/album/4FPSps9RCv6uftt1JuqpCN"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 161201,
       "name": "Rage",
       "url": "https://open.spotify.com/track/1tOpOwS4F854SWZmhhy3XU"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "infinity",
+        "url": "https://open.spotify.com/album/213BkPPTJcU9MlLj8YJFXW"
+      },
+      "artists": [
+        {
+          "name": "asumuh",
+          "url": "https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO"
+        }
+      ],
+      "duration_ms": 174198,
+      "name": "infinity",
+      "url": "https://open.spotify.com/track/6hbSCFjiWeL9vmOvoA7xvp"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "VERY ALONE",
-        "url": "https://open.spotify.com/album/3MFv8OuVq7MKHRMoAKwFjK"
-      },
-      "artists": [
-        {
-          "name": "Zaia",
-          "url": "https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz"
-        }
-      ],
-      "duration_ms": 131146,
-      "name": "VERY ALONE",
-      "url": "https://open.spotify.com/track/1LCgehdvJ91SgSRuI7Ez90"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Emotionless",
         "url": "https://open.spotify.com/album/1kYZYrM6n5Io70OGadcoxl"
       },
@@ -1407,18 +1391,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Sleepyhead",
-        "url": "https://open.spotify.com/album/6l8EXrFMXWeHaEutYhwl98"
+        "name": "VERY ALONE",
+        "url": "https://open.spotify.com/album/3MFv8OuVq7MKHRMoAKwFjK"
       },
       "artists": [
         {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+          "name": "Zaia",
+          "url": "https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz"
         }
       ],
-      "duration_ms": 238881,
-      "name": "Pyjama Pants",
-      "url": "https://open.spotify.com/track/7aU0FxwwsAwmQ8uGFYLIlu"
+      "duration_ms": 131146,
+      "name": "VERY ALONE",
+      "url": "https://open.spotify.com/track/1LCgehdvJ91SgSRuI7Ez90"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1435,6 +1419,22 @@
       "duration_ms": 147853,
       "name": "white lies",
       "url": "https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Sleepyhead",
+        "url": "https://open.spotify.com/album/6l8EXrFMXWeHaEutYhwl98"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 238881,
+      "name": "Pyjama Pants",
+      "url": "https://open.spotify.com/track/7aU0FxwwsAwmQ8uGFYLIlu"
     },
     {
       "added_at": "2023-06-15 16:30:18",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Maya",
-        "url": "https://open.spotify.com/album/3L9E8GtsdPSOIyqISsq3Qr"
-      },
-      "artists": [
-        {
-          "name": "Tobias Dray",
-          "url": "https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W"
-        }
-      ],
-      "duration_ms": 207955,
-      "name": "Maya",
-      "url": "https://open.spotify.com/track/59cZhvYZEcKLrYwxCN7ovu"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Ball",
         "url": "https://open.spotify.com/album/75RDBx0Z18jNRzwQafl5Hi"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 151525,
       "name": "Ball",
       "url": "https://open.spotify.com/track/3CL4OEx96xE6eO9vrHunJY"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Maya",
+        "url": "https://open.spotify.com/album/3L9E8GtsdPSOIyqISsq3Qr"
+      },
+      "artists": [
+        {
+          "name": "Tobias Dray",
+          "url": "https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W"
+        }
+      ],
+      "duration_ms": 207955,
+      "name": "Maya",
+      "url": "https://open.spotify.com/track/59cZhvYZEcKLrYwxCN7ovu"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1641,6 +1641,22 @@
       "url": "https://open.spotify.com/track/0UHYeb8y30S4iImlXQEqbR"
     },
     {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "LOVE + POP",
+        "url": "https://open.spotify.com/album/5God4dounbNrQtR8otCSHD"
+      },
+      "artists": [
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "duration_ms": 141922,
+      "name": "bb put on deftones",
+      "url": "https://open.spotify.com/track/2KJAxR3jNdaZcEcLZS9Dgp"
+    },
+    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Leaving (feat. the bootleg boy & Heroe)",
@@ -1663,26 +1679,6 @@
       "duration_ms": 136153,
       "name": "Leaving (feat. the bootleg boy & Heroe)",
       "url": "https://open.spotify.com/track/21txIUpB3w1dBeixm5X4DL"
-    },
-    {
-      "added_at": "2023-07-21 19:35:12",
-      "album": {
-        "name": "canine teeth",
-        "url": "https://open.spotify.com/album/1psPqa4HOi4BLqMP9yi1X9"
-      },
-      "artists": [
-        {
-          "name": "Orchid Mantis",
-          "url": "https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq"
-        },
-        {
-          "name": "Fog Lake",
-          "url": "https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H"
-        }
-      ],
-      "duration_ms": 80000,
-      "name": "canine teeth",
-      "url": "https://open.spotify.com/track/0mXhEiLnnb5cpePShMXQVO"
     },
     {
       "added_at": "2023-06-02 04:00:00",

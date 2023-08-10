@@ -1,12 +1,12 @@
 {
   "description": "\u00a1\u00c9xitos salseros para prenderle fuego a la pista de baile!",
-  "num_followers": 240327,
+  "num_followers": 240518,
   "original_name": "Salsa de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDFjYmVhMjE5MzMwNGU5YmE2MGU4MDA2ZGE3NWZhOTEyYzQwZGU3",
+  "snapshot_id": "MCxhNDhhMzU3NjVlNDdiZDIyZmUwYWYzMWUxMjk5MzM4NzRjNzRhN2Iw",
   "tracks": [
     {
       "added_at": "2022-08-04 20:14:51",
@@ -27,6 +27,22 @@
     {
       "added_at": "2022-08-04 20:14:51",
       "album": {
+        "name": "Corazon de Acero",
+        "url": "https://open.spotify.com/album/3BqW7Zt2KkIJaxrqvhyklo"
+      },
+      "artists": [
+        {
+          "name": "Yiyo Sarante",
+          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
+        }
+      ],
+      "duration_ms": 225953,
+      "name": "Corazon de Acero",
+      "url": "https://open.spotify.com/track/1SZMZCqVHIWgyEy2dIHsZR"
+    },
+    {
+      "added_at": "2022-08-04 20:14:51",
+      "album": {
         "name": "Pa' Otro La 'O",
         "url": "https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 271031,
       "name": "Procura",
       "url": "https://open.spotify.com/track/2q9udNV9NK0BL3q9p6TLxf"
-    },
-    {
-      "added_at": "2022-08-04 20:14:51",
-      "album": {
-        "name": "Corazon de Acero",
-        "url": "https://open.spotify.com/album/3BqW7Zt2KkIJaxrqvhyklo"
-      },
-      "artists": [
-        {
-          "name": "Yiyo Sarante",
-          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
-        }
-      ],
-      "duration_ms": 225953,
-      "name": "Corazon de Acero",
-      "url": "https://open.spotify.com/track/1SZMZCqVHIWgyEy2dIHsZR"
     },
     {
       "added_at": "2022-08-04 20:14:51",
@@ -891,8 +891,8 @@
     {
       "added_at": "2022-08-04 20:14:51",
       "album": {
-        "name": "Exitos Originales",
-        "url": "https://open.spotify.com/album/1XonZgPSw1RXw5oWJdAlYy"
+        "name": "En Tiempo De Amor",
+        "url": "https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl"
       },
       "artists": [
         {
@@ -900,9 +900,9 @@
           "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
         }
       ],
-      "duration_ms": 310973,
-      "name": "Si Supieras",
-      "url": "https://open.spotify.com/track/2YzhQEikYymq0HR9oc0EGT"
+      "duration_ms": 290706,
+      "name": "Si Volvieras A Mi",
+      "url": "https://open.spotify.com/track/7FntdQdzMcHcD4QhItlq9s"
     },
     {
       "added_at": "2022-08-04 20:14:51",
@@ -987,8 +987,8 @@
     {
       "added_at": "2022-08-04 20:14:51",
       "album": {
-        "name": "En Tiempo De Amor",
-        "url": "https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl"
+        "name": "Exitos Originales",
+        "url": "https://open.spotify.com/album/1XonZgPSw1RXw5oWJdAlYy"
       },
       "artists": [
         {
@@ -996,9 +996,9 @@
           "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
         }
       ],
-      "duration_ms": 290706,
-      "name": "Si Volvieras A Mi",
-      "url": "https://open.spotify.com/track/7FntdQdzMcHcD4QhItlq9s"
+      "duration_ms": 310973,
+      "name": "Si Supieras",
+      "url": "https://open.spotify.com/track/2YzhQEikYymq0HR9oc0EGT"
     },
     {
       "added_at": "2022-08-04 20:14:51",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-08-04 20:14:51",
       "album": {
-        "name": "Problemas de Ciudad",
-        "url": "https://open.spotify.com/album/3qPlXvi1hQfoJc9WZx6JXQ"
-      },
-      "artists": [
-        {
-          "name": "NELSON D\u00cdAZ Y LA CONSTELACI\u00d3N",
-          "url": "https://open.spotify.com/artist/0dDHeD2Xl3l0p8tSMcVRBO"
-        }
-      ],
-      "duration_ms": 271674,
-      "name": "Amigo Cu\u00eddala",
-      "url": "https://open.spotify.com/track/4fDgJFwupM4Z1PYBFzfasP"
-    },
-    {
-      "added_at": "2022-08-04 20:14:51",
-      "album": {
         "name": "Subway Salsa: The Montuno Records Story",
         "url": "https://open.spotify.com/album/1IsFd5MMFx1nWaRuEm54YL"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 368400,
       "name": "No Qued\u00f3 Ni el Gato",
       "url": "https://open.spotify.com/track/65DzY5Z3IE6BYprjXGu3Fu"
+    },
+    {
+      "added_at": "2022-08-04 20:14:51",
+      "album": {
+        "name": "Problemas de Ciudad",
+        "url": "https://open.spotify.com/album/3qPlXvi1hQfoJc9WZx6JXQ"
+      },
+      "artists": [
+        {
+          "name": "NELSON D\u00cdAZ Y LA CONSTELACI\u00d3N",
+          "url": "https://open.spotify.com/artist/0dDHeD2Xl3l0p8tSMcVRBO"
+        }
+      ],
+      "duration_ms": 271674,
+      "name": "Amigo Cu\u00eddala",
+      "url": "https://open.spotify.com/track/4fDgJFwupM4Z1PYBFzfasP"
     }
   ],
   "unique_name": "Salsa de Oro",
