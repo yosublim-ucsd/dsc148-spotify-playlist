@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 
 > Le canzoni italiane più romantiche di sempre ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,894 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,922 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 3 | [La musica non c'è](https://open.spotify.com/track/7MMJa7cjMadOSR6CFWvB1x) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Faccio un casino](https://open.spotify.com/album/3aKazjcDl544T21siS8lDp) | 3:42 |
 | 4 | [Destri](https://open.spotify.com/track/7nRFsITVaSHko2Fw2Gcy59) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [OK](https://open.spotify.com/album/7eVkAghlrN31cqwiVvuCT0) | 3:05 |
 | 5 | [Piccola Stella](https://open.spotify.com/track/6sLBJkMyZIkGevtpYgeotT) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Colpa Delle Favole](https://open.spotify.com/album/7ynNnkdYfFsjMxvfecxAWy) | 3:52 |
-| 6 | [IL CIELO NELLA STANZA \(feat\. NSTASIA\)](https://open.spotify.com/track/2fkVZYFv9hOejIsLzZy8ad) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [NSTASIA](https://open.spotify.com/artist/2BBgFkNBBMln3m2G2Bm2bt) | [Playlist](https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn) | 3:06 |
-| 7 | [Superclassico](https://open.spotify.com/track/6Ahg1hncxUdK0ICqU03BCu) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Gemelli](https://open.spotify.com/album/3LXvt5r3boBy4sQQpxmsi9) | 2:52 |
+| 6 | [Superclassico](https://open.spotify.com/track/6Ahg1hncxUdK0ICqU03BCu) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Gemelli](https://open.spotify.com/album/3LXvt5r3boBy4sQQpxmsi9) | 2:52 |
+| 7 | [IL CIELO NELLA STANZA \(feat\. NSTASIA\)](https://open.spotify.com/track/2fkVZYFv9hOejIsLzZy8ad) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [NSTASIA](https://open.spotify.com/artist/2BBgFkNBBMln3m2G2Bm2bt) | [Playlist](https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn) | 3:06 |
 | 8 | [Brividi](https://open.spotify.com/track/1ZMGp9MTXbtAPvcKa0U3zS) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Brividi](https://open.spotify.com/album/06ZMpecsvvoHGWJHlc2St7) | 3:19 |
 | 9 | [Scrivile Scemo](https://open.spotify.com/track/71r3UlkV7sWvUYjas5paqi) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [AHIA!](https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa) | 3:34 |
 | 10 | [Le luci della città](https://open.spotify.com/track/381VH1JFj9q08V1OMlPU5m) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Faccio un casino](https://open.spotify.com/album/3aKazjcDl544T21siS8lDp) | 2:57 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 27 | [Il bacio di Klimt](https://open.spotify.com/track/5B1lKU2g7tcVaKaPwU4uc6) | [Emanuele Aloia](https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76) | [Sindrome di Stendhal](https://open.spotify.com/album/5xF5qZdfqo5hmHTLRv9Fca) | 2:57 |
 | 28 | [Iris \(Tra Le Tue Poesie\)](https://open.spotify.com/track/1of8D9YF8T2nkLuk30JZNX) | [Biagio Antonacci](https://open.spotify.com/artist/0Qd65xBSFzdm3zCEu2ThQF) | [Mi Fai Stare Bene](https://open.spotify.com/album/5RUMRiHZj0cbk46Ttie5mZ) | 3:58 |
 | 29 | [Sopra](https://open.spotify.com/track/4EWRqLKdXgr0lPjAv6mxc4) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Punk](https://open.spotify.com/album/4nq7ji9BCTkKjqZ2SQ8MLW) | 3:13 |
-| 30 | [Non Avere Paura](https://open.spotify.com/track/1qMx707PFdFXdwLvcUTNz3) | [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [Non Avere Paura](https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP) | 4:07 |
-| 31 | [Fuoco e benzina](https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Supereroe](https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4) | 3:29 |
+| 30 | [Fuoco e benzina](https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Supereroe](https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4) | 3:29 |
+| 31 | [Non Avere Paura](https://open.spotify.com/track/1qMx707PFdFXdwLvcUTNz3) | [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [Non Avere Paura](https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP) | 4:07 |
 | 32 | [Faccio un casino](https://open.spotify.com/track/6qNXkVk19OYLu4CoqjDfZ0) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Faccio un casino](https://open.spotify.com/album/3aKazjcDl544T21siS8lDp) | 3:13 |
 | 33 | [Questa nostra stupida canzone d'amore](https://open.spotify.com/track/1Kw6V4wiZKTVwLZ5YcYJR3) | [Thegiornalisti](https://open.spotify.com/artist/6YBgd2LKccEB3pX6UaW1Yp) | [LOVE](https://open.spotify.com/album/5ckYRyGJLuChNaIuXUWwcN) | 4:09 |
 | 34 | [Venere e Marte \(feat\. Marco Mengoni, Frah Quintale\)](https://open.spotify.com/track/4O3sAZoZDIhNRcfHNuU4Ps) | [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx), [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Venere e Marte \(feat\. Marco Mengoni, Frah Quintale\)](https://open.spotify.com/album/3qc7zx8OrCXDqzs7qa8l7P) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 49 | [Rimmel](https://open.spotify.com/track/515XcapFOMtOOiGU31UqNp) | [Francesco De Gregori](https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul) | [Rimmel](https://open.spotify.com/album/5c1TMPBpOc4qJebACcOm7K) | 3:40 |
 | 50 | [Oggi Sono Io](https://open.spotify.com/track/4EsU1itX1LEPptKwjhGbVl) | [Alex Britti](https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D) | [it.pop](https://open.spotify.com/album/5HCZg475b1R5XJvgmiAN7t) | 3:48 |
 
-Snapshot ID: `MCw2MWQ5M2Q3NzZhZmM0OTExOGVjZmQ4Y2NjNTNkYWUxMjM1ZWJmOWY4`
+Snapshot ID: `MCxlYmRhYWE4M2Q5MjAyZDliZjA1MDllOTQ3ZmU2MTg5OGE2YzY0Mjdj`

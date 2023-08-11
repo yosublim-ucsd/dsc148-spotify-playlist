@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciYvjsn0pd9.md) - [plain]
 
 > <a href="spotify:artist:00CMSJdbf36zOzKB3z8JrR">Victor Cardenas</a>'s favorite tracks\. Updated regularly\. Curated by Victor Cardenas\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,773 likes - 77 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,831 likes - 77 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciYvjsn0pd9.md) - [plain]
 | 29 | [Forbidden Voices](https://open.spotify.com/track/6EsH66Uto1zwZlDGQ6RokU) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Forbidden Voices](https://open.spotify.com/album/3COyh97TYskmV4cOqPed49) | 3:50 |
 | 30 | [Waiting For Love](https://open.spotify.com/track/2P4OICZRVAQcYAV2JReRfj) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Stories](https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V) | 3:50 |
 | 31 | [Turn Down for What](https://open.spotify.com/track/67awxiNHNyjMXhVgsHuIrs) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Turn Down for What](https://open.spotify.com/album/3zo0Hxh9rjJsdw2JAKReE3) | 3:33 |
-| 32 | [Get Up \(Rattle\) \[feat\. Far East Movement\] \- Vocal Edit](https://open.spotify.com/track/3bu6Gu2lzm9VEoab1za8BM) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq) | [Get Up \(Rattle\) \[feat\. Far East Movement\]](https://open.spotify.com/album/1qnQH3SVJ19CIO16VW2tes) | 2:46 |
+| 32 | [Get Up \(Rattle\) \[feat\. Far East Movement\] \- Vocal Edit](https://open.spotify.com/track/3wLPRjw2XQpmowqXUXb3UF) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq) | [Get Up \(Rattle\) \[feat\. Far East Movement\]](https://open.spotify.com/album/2i27N4YvO0SHfZtMyBUnj6) | 2:46 |
 | 33 | [No Heroes \(feat\. Luciana\)](https://open.spotify.com/track/3m4vB0q02q4xvBenENEkLw) | [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [No Heroes \(feat\. Luciana\)](https://open.spotify.com/album/0o5FMj2LepZb7fZ6CNAxe3) | 4:05 |
 | 34 | [Deep Down Low](https://open.spotify.com/track/46rZgRYU1H5Xnv0n75OGis) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Deep Down Low](https://open.spotify.com/album/67bF4s11NHmoi7cnwJcEMM) | 3:10 |
 | 35 | [No Money](https://open.spotify.com/track/6M6Tk58pQvABy6ru66dY3d) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [The Aviary](https://open.spotify.com/album/7DNmxxEuJe19wNVrinaXx4) | 3:11 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciYvjsn0pd9.md) - [plain]
 | 76 | [Melody](https://open.spotify.com/track/5Qxw0150DBPE5HErLTrxgs) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Melody](https://open.spotify.com/album/3Oalgg5eo0p3U1vyR1ynYS) | 4:50 |
 | 77 | [Que Tu Me Beses](https://open.spotify.com/track/6Ovu5z78GJ4TE47vAaP7MU) | [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [JUAN JHAIL](https://open.spotify.com/artist/4xBrxEMkW8Jbh9XPpELUpU) | [Que Tu Me Beses](https://open.spotify.com/album/2gMHWHrMIbphy7VP2YN8w8) | 3:06 |
 
-Snapshot ID: `MCxmNzI1N2M3Nzk4NjU2OGY3ZGU3MmIzZWQ3YzdkYTk5MGJjNTY2ZjUy`
+Snapshot ID: `MCxhYTc1ZGIzMmQ4N2I0M2VkYWUyMDNhYmJlMDc4ODU3NmUwODJmYzFi`

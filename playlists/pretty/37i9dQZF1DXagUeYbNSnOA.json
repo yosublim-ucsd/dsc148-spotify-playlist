@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring PLATANOS. Updates every Wednesday.",
-  "num_followers": 171640,
+  "num_followers": 171676,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTYyZDQ1ZDk3NDgxZmM2MjY3MjNkZjUwOGM5ZGU3NjM2NWM3ZmE1",
+  "snapshot_id": "MCw4ZTJhMDE3ZDhmOWFhOWZiZjQ0N2VkNWExNjQ1OTc1NzU5OWVjMzZl",
   "tracks": [
     {
       "added_at": "2023-08-09 04:01:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-08-09 04:01:00",
       "album": {
+        "name": "Me Tienes Mal",
+        "url": "https://open.spotify.com/album/0zMdWrU4tO0tAv2iJ0ix6b"
+      },
+      "artists": [
+        {
+          "name": "ZERO",
+          "url": "https://open.spotify.com/artist/66l0RF4YIJeNNTZzqdP6ew"
+        }
+      ],
+      "duration_ms": 169715,
+      "name": "Me Tienes Mal",
+      "url": "https://open.spotify.com/track/7MPyjCXS1FOA8QeRpPix6a"
+    },
+    {
+      "added_at": "2023-08-09 04:01:00",
+      "album": {
         "name": "Alg\u00fan D\u00eda",
         "url": "https://open.spotify.com/album/4Zw4jjmbIHKVix13PV6VhE"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 144024,
       "name": "Introvertida",
       "url": "https://open.spotify.com/track/3BvvWXLMsFfgfT6umRv56H"
-    },
-    {
-      "added_at": "2023-08-09 04:01:00",
-      "album": {
-        "name": "Me Tienes Mal",
-        "url": "https://open.spotify.com/album/0zMdWrU4tO0tAv2iJ0ix6b"
-      },
-      "artists": [
-        {
-          "name": "ZERO",
-          "url": "https://open.spotify.com/artist/66l0RF4YIJeNNTZzqdP6ew"
-        }
-      ],
-      "duration_ms": 169715,
-      "name": "Me Tienes Mal",
-      "url": "https://open.spotify.com/track/7MPyjCXS1FOA8QeRpPix6a"
     },
     {
       "added_at": "2023-08-09 04:01:00",

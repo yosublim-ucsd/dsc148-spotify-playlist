@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7clFvfOCA8KimyV26jLALB">Alicia Keys</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 434 likes - 180 songs - 11 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 437 likes - 180 songs - 11 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,8 +128,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 | 118 | [Slow Down](https://open.spotify.com/track/4EvZwWEf8kXXCEpFj8BSwp) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 4:18 |
 | 119 | [Elevate \(Interlude\)](https://open.spotify.com/track/467kGQSPBcQPppRB8Nu1Ff) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [HERE](https://open.spotify.com/album/5M31iLPzYuYxkpSO5tBOMN) | 0:48 |
 | 120 | [Jill Scott \(feat\. Jill Scott\)](https://open.spotify.com/track/7ajm1QlAaMFkNFlpZbcceL) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 4:05 |
-| 121 | [Truth Without Love](https://open.spotify.com/track/0R1gvYe91vj2CtqOe8dQte) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 2:34 |
-| 122 | [Juiciest \- Mixtape Version](https://open.spotify.com/track/5jsHGkjjHVg86e79Nl22Wp) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(Deluxe Edition\)](https://open.spotify.com/album/11z4Njr53X88x2ldtS92Ub) | 3:03 |
+| 121 | [Juiciest \- Mixtape Version](https://open.spotify.com/track/5jsHGkjjHVg86e79Nl22Wp) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(Deluxe Edition\)](https://open.spotify.com/album/11z4Njr53X88x2ldtS92Ub) | 3:03 |
+| 122 | [Truth Without Love](https://open.spotify.com/track/0R1gvYe91vj2CtqOe8dQte) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 2:34 |
 | 123 | [The Life](https://open.spotify.com/track/1AmMOm1zogvO40BahFoml0) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 5:25 |
 | 124 | [Plentiful \(Originals\) \(feat\. Pusha T\)](https://open.spotify.com/track/5kpMJZx9jseAlheN36Orfm) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:08 |
 | 125 | [Caged Bird](https://open.spotify.com/track/1G0GVr97uqZiNt5VGt35KC) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 3:02 |
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 | 179 | [The Element of Freedom \(Intro\)](https://open.spotify.com/track/7JxiUfSIlnspU7TwJBj172) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 0:12 |
 | 180 | [You Glow \(Interlude\)](https://open.spotify.com/track/4KEMTZBgdf5cxsby54YqSE) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [HERE](https://open.spotify.com/album/5M31iLPzYuYxkpSO5tBOMN) | 0:25 |
 
-Snapshot ID: `MjgxOTM4ODAsMDAwMDAwMDBkMzEwZGIyNGFkZDAyZDZkMmEyM2M4Nzk0YWFhN2MzYg==`
+Snapshot ID: `MjgxOTUzMjAsMDAwMDAwMDAzYmQ3YTEyMTlmOTEwMGExMzZhMGUzZjUxOWNlNDM2Mw==`

@@ -1,12 +1,12 @@
 {
   "description": "Recorre los kil\u00f3metros con estos cantables cl\u00e1sicos para el camino.",
-  "num_followers": 1407001,
+  "num_followers": 1407282,
   "original_name": "Viaje en Carretera Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGZkZTE5MWViMjk1MDExMGUxNzMzMGMxMTg4Zjg0OWMwZTVmZmU1",
+  "snapshot_id": "MCwxZTcxYzQzZTIwYjAyOWNiYjFkZTVhOTljMDNlMjJiZTBlMTAyMjkx",
   "tracks": [
     {
       "added_at": "2021-10-25 21:05:32",
@@ -123,22 +123,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 239316,
-      "name": "I'm Not The Only One",
-      "url": "https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "Dizzy up the Girl",
         "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 239316,
+      "name": "I'm Not The Only One",
+      "url": "https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -339,22 +339,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 228093,
-      "name": "Rolling in the Deep",
-      "url": "https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "Caraluna",
         "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 266160,
       "name": "Caraluna",
       "url": "https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 228093,
+      "name": "Rolling in the Deep",
+      "url": "https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -419,22 +419,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 295515,
-      "name": "With Or Without You",
-      "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "Sixpence None the Richer",
         "url": "https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 208680,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 295515,
+      "name": "With Or Without You",
+      "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -823,6 +823,22 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
+        "name": "Be Not Nobody",
+        "url": "https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Carlton",
+          "url": "https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07"
+        }
+      ],
+      "duration_ms": 237493,
+      "name": "A Thousand Miles",
+      "url": "https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
         "name": "Pa' Otro La 'O",
         "url": "https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 271031,
       "name": "Procura",
       "url": "https://open.spotify.com/track/2q9udNV9NK0BL3q9p6TLxf"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
-        "name": "Be Not Nobody",
-        "url": "https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Carlton",
-          "url": "https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07"
-        }
-      ],
-      "duration_ms": 237493,
-      "name": "A Thousand Miles",
-      "url": "https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Cuatro Caminos",
-        "url": "https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 267600,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "El Templo del Pop",
         "url": "https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 183973,
       "name": "Don",
       "url": "https://open.spotify.com/track/0WajUW5XINeraP2w0F3F8E"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "Cuatro Caminos",
+        "url": "https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 267600,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Caraluna",
-        "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
-      },
-      "artists": [
-        {
-          "name": "Bacilos",
-          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
-        }
-      ],
-      "duration_ms": 237386,
-      "name": "Mi primer millon",
-      "url": "https://open.spotify.com/track/5fSDXbY8o9pA3TKwAbfwML"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "Donde Estan Los Ladrones",
         "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
       },
@@ -1619,18 +1603,58 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "The Game (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
+        "name": "Caraluna",
+        "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
       },
       "artists": [
         {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          "name": "Bacilos",
+          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
         }
       ],
-      "duration_ms": 214653,
-      "name": "Another One Bites The Dust - Remastered 2011",
-      "url": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
+      "duration_ms": 237386,
+      "name": "Mi primer millon",
+      "url": "https://open.spotify.com/track/5fSDXbY8o9pA3TKwAbfwML"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "Rebelde",
+        "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "duration_ms": 224973,
+      "name": "S\u00e1lvame",
+      "url": "https://open.spotify.com/track/3hbTkJ0yFzHbawnKyhvTQj"
     }
   ],
   "unique_name": "Viaje en Carretera Nostalgia",

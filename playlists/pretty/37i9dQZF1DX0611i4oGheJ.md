@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 
 > Sweet gems to help you slow down and savor your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,599 likes - 125 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,738 likes - 125 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 | 55 | [My Arms Were Always Around You](https://open.spotify.com/track/02a2RQEICEzbdPPYh0aLnJ) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [My Arms Were Always Around You](https://open.spotify.com/album/52s6f0gzHwR6MpgCMCtFQc) | 3:20 |
 | 56 | [Hollow \- Acoustic](https://open.spotify.com/track/2K4uwGeeT2AmZgAgdxdDNM) | [Belle Mt.](https://open.spotify.com/artist/6DewGkgNz0j4pO3T2ZMUHS) | [Volume I](https://open.spotify.com/album/7AtPi4pa51OrsqZOVqzS84) | 3:56 |
 | 57 | [Twist](https://open.spotify.com/track/4KpGSVWhepx3OBVJivntjj) | [Lorkin O'Reilly](https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l) | [Twist](https://open.spotify.com/album/0jEibaehyR3jnPQCAFDaaL) | 3:06 |
-| 58 | [I Am the Moon](https://open.spotify.com/track/0GQPSWoRGfwshYYv5nW5Ct) | [The White Buffalo](https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT) | [Darkest Darks, Lightest Lights](https://open.spotify.com/album/15fTepGOPHDgjR18E9vt4y) | 3:18 |
-| 59 | [Cattails](https://open.spotify.com/track/1zNLILPGGfMdEnifTrnY3z) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 4:05 |
+| 58 | [Cattails](https://open.spotify.com/track/1zNLILPGGfMdEnifTrnY3z) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 4:05 |
+| 59 | [I Am the Moon](https://open.spotify.com/track/0GQPSWoRGfwshYYv5nW5Ct) | [The White Buffalo](https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT) | [Darkest Darks, Lightest Lights](https://open.spotify.com/album/15fTepGOPHDgjR18E9vt4y) | 3:18 |
 | 60 | [Whiskey Whiskey](https://open.spotify.com/track/0c1rlIZao3TFvRWKBig16H) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Into the Depths of Hell](https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c) | 2:51 |
 | 61 | [Cairo, IL](https://open.spotify.com/track/36S4cmtCiqFx3ywMpfSBDT) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Puxico](https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA) | 2:59 |
 | 62 | [Top to Toe](https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [On Hold](https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ) | 3:36 |
@@ -121,11 +121,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 | 111 | [Heart of Somebody](https://open.spotify.com/track/7jPSQZlOVALxgylW3ne4wH) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Spades & Roses](https://open.spotify.com/album/4kMU5M6qBNCiw8Z5nVY4mq) | 3:32 |
 | 112 | [Millennial](https://open.spotify.com/track/0UVjJZjlZiOB9pVd9wWABs) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Transcendence](https://open.spotify.com/album/4pJ1cAVfgvAIJLWLO0zpuQ) | 2:53 |
 | 113 | [The West Coast Of Clare](https://open.spotify.com/track/51iBStlAJlUriO53s93F6l) | [Dervish](https://open.spotify.com/artist/08DRTASY1wyduMevINkClA), [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [The Great Irish Songbook](https://open.spotify.com/album/3xlfuV02p2ByzsLj8Rts1P) | 5:26 |
-| 114 | [On Board](https://open.spotify.com/track/0ss3NIhmAPfWGpe7NR0kHA) | [Alana Henderson](https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY), [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [On Board](https://open.spotify.com/album/12aYaWsu8zUyxvdCPZH4hY) | 5:10 |
-| 115 | [Pool Party](https://open.spotify.com/track/7oLqKKca5rHLXCZjO0Os6A) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Don't Let The Kids Win](https://open.spotify.com/album/33C9uXgwL1Bee6gwdcFxSY) | 4:15 |
+| 114 | [Pool Party](https://open.spotify.com/track/7oLqKKca5rHLXCZjO0Os6A) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Don't Let The Kids Win](https://open.spotify.com/album/33C9uXgwL1Bee6gwdcFxSY) | 4:15 |
+| 115 | [On Board](https://open.spotify.com/track/0ss3NIhmAPfWGpe7NR0kHA) | [Alana Henderson](https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY), [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [On Board](https://open.spotify.com/album/12aYaWsu8zUyxvdCPZH4hY) | 5:10 |
 | 116 | [Fool](https://open.spotify.com/track/4NgfxzTUZw3s953GcTvDxC) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 3:36 |
-| 117 | [Solving Problems](https://open.spotify.com/track/2a4qT0yEynuoHJR4sxkh84) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Shine On Rainy Day](https://open.spotify.com/album/3UJXcmx1XSLeimF0dwVsbg) | 2:34 |
-| 118 | [when i look at you.](https://open.spotify.com/track/2Hf4lbVibsJo6u6cFAxwdQ) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [when i look at you.](https://open.spotify.com/album/1RxM5TK6tax3e20Z90SRPC) | 3:52 |
+| 117 | [when i look at you.](https://open.spotify.com/track/2Hf4lbVibsJo6u6cFAxwdQ) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [when i look at you.](https://open.spotify.com/album/1RxM5TK6tax3e20Z90SRPC) | 3:52 |
+| 118 | [Solving Problems](https://open.spotify.com/track/2a4qT0yEynuoHJR4sxkh84) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Shine On Rainy Day](https://open.spotify.com/album/3UJXcmx1XSLeimF0dwVsbg) | 2:34 |
 | 119 | [Masterpiece \- solo](https://open.spotify.com/track/5F1njpY2K3lDSkcb9cSUpn) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dandelion](https://open.spotify.com/album/1G9z1ymOzsdF7B7xyYR8bD) | 4:00 |
 | 120 | [Humble & Kind](https://open.spotify.com/track/4ZBFIzNwC3QUn0pdqIy1JN) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Bird & the Rifle](https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk) | 4:03 |
 | 121 | [Morning](https://open.spotify.com/track/3Gsuq6GGXfKB9AwNwL87NJ) | [William Wild](https://open.spotify.com/artist/3DrB9nBkn2tfhXxSsKAaor) | [Steady Now](https://open.spotify.com/album/1QMXHfs6Gccs4rq6PxoqiY) | 4:22 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 | 124 | [Belly of the Beast](https://open.spotify.com/track/288CVb86JcfAiuk9ZL6IDW) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Belly of the Beast / Paper Mountain](https://open.spotify.com/album/6GTreUmTaYdDIkWzS6F3GI) | 3:15 |
 | 125 | [Try to Make a Fire Burn Again](https://open.spotify.com/track/7BIcO9nvZ2AdIfhZcXnTS7) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5) | [Bluebird](https://open.spotify.com/album/6vGalAgGwYwgFhENJOeFuN) | 3:02 |
 
-Snapshot ID: `MCw1NWIxMjkyMGI1MTUwZWIxZDRmYjhkZjhkNTJjZTQxNTFmYjg5YmU5`
+Snapshot ID: `MCw2Yzc1OTE1Yzk0MjVlMDkxNzkxZmY0ZjE3NzZmMDA4ODJiNjY2YmJj`

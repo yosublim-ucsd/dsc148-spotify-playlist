@@ -2449,6 +2449,24 @@
     },
     {
       "album": {
+        "name": "Quel Mercredi",
+        "url": "https://open.spotify.com/album/2Zsbl9Pps24ZI475iyz2sC"
+      },
+      "artists": [
+        {
+          "name": "Quintet de Jazz Parisien",
+          "url": "https://open.spotify.com/artist/5jjAtTkp5UsT9PQyGfFOwO"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158750,
+      "name": "Quel Mercredi",
+      "url": "https://open.spotify.com/track/3ZSWLX4S1mc5yQBAZet5NM"
+    },
+    {
+      "album": {
         "name": "Rendez Vous",
         "url": "https://open.spotify.com/album/5f3Gv6mWHhWBCDNoNbsizk"
       },

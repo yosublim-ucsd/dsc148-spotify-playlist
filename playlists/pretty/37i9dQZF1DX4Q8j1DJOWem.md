@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 > ค้นพบที่สุดศิลปินรุ่นใหม่ของประเทศไทยได้ที่นี่เลย\. ปก: SLAPKISS
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,808 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,818 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 | 49 | [BONG](https://open.spotify.com/track/7BalknaAGYtzUjIGOSkGBr) | [OG BOBBY](https://open.spotify.com/artist/43dGDLrsposfk1tD7omTDe), [VannDa](https://open.spotify.com/artist/6XYPDozxzEi0iu380aAYnL) | [BONG](https://open.spotify.com/album/20fOOAZJGEDymwuWrImgL7) | 4:01 |
 | 50 | [ตัดไปให้พอ](https://open.spotify.com/track/498pVEIIkgYvIkqm68PEqO) | [Flower.far](https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr) | [ตัดไปให้พอ](https://open.spotify.com/album/4Q629xdrAylg8VOpX1KC1f) | 4:38 |
 
-Snapshot ID: `MCw3YTljMWU4MjI1ZDA1YThlYTE2Y2MwY2NjYjM3ZDQwMTMxYmUzYzI2`
+Snapshot ID: `MCw4M2UwMzI3MDM1NzUwMDYyNzc2ZmZjMGU0NWQyOTg5NTAyZGQ1ZTJl`

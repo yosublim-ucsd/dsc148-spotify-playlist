@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBCPUIUs2iR.md) - [plain]
 
 > A compilation of the all\-time biggest hits in Country Music\. Cover: Dolly Parton
 
-[Spotify](https://open.spotify.com/user/spotify) - 538,395 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,029 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,10 +17,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBCPUIUs2iR.md) - [plain]
 | 7 | [American Kids](https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [The Big Revival](https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam) | 3:02 |
 | 8 | [Tequila](https://open.spotify.com/track/42fw0rxRO2xbesF6mJfd4Y) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Dan + Shay](https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE) | 3:16 |
 | 9 | [You're Still The One](https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:32 |
-| 10 | [Chattahoochee](https://open.spotify.com/track/59kHPbwyyCApYA8RQQEuXm) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [A Lot About Livin' \(And A Little 'Bout Love\)](https://open.spotify.com/album/79yCfWigSGt94zi1CIkkJZ) | 2:28 |
+| 10 | [I Hope](https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:30 |
 | 11 | [Mammas Don't Let Your Babies Grow up to Be Cowboys](https://open.spotify.com/track/7nVQ8mo77KaUvhUQzh4vMy) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Waylon & Willie](https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO) | 2:32 |
 | 12 | [Why Not Me](https://open.spotify.com/track/6BkK5Dsu1kTne7Cn6EyYex) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Why Not Me](https://open.spotify.com/album/7ddhrJqVCguGmLhvffzxkA) | 3:31 |
-| 13 | [I Hope](https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:30 |
+| 13 | [Chattahoochee](https://open.spotify.com/track/59kHPbwyyCApYA8RQQEuXm) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [A Lot About Livin' \(And A Little 'Bout Love\)](https://open.spotify.com/album/79yCfWigSGt94zi1CIkkJZ) | 2:28 |
 | 14 | [Die A Happy Man](https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Tangled Up](https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy) | 3:47 |
 | 15 | [When You Say Nothing at All](https://open.spotify.com/track/2lCGAGpqgQIolNfpnycIZk) | [Keith Whitley](https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW) | [Greatest Hits](https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo) | 3:42 |
 | 16 | [She's In Love With The Boy \- Single Version](https://open.spotify.com/track/2ulBBx6YQ3qY3ci34RadtN) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Trisha Yearwood](https://open.spotify.com/album/6US5XlX7w7nL9pRE0F5jeI) | 4:08 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBCPUIUs2iR.md) - [plain]
 | 39 | [Why Don't We Just Dance](https://open.spotify.com/track/2p07VcUwRZ5sru3mJ0JogS) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Haywire](https://open.spotify.com/album/4AwUix40p2isD6wvEBPpQ8) | 3:12 |
 | 40 | [Kiss an Angel Good Mornin'](https://open.spotify.com/track/0alXPC11fIucBFD6qcCE94) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [The Essential Charley Pride](https://open.spotify.com/album/4ALGvSzcQF4SD9WXLyDI75) | 2:03 |
 | 41 | [Blue Ain't Your Color](https://open.spotify.com/track/6wycnu8FWXsj68ig7BEot9) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Ripcord](https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq) | 3:50 |
-| 42 | [Achy Breaky Heart](https://open.spotify.com/track/2EoIt9vdgFRNW03u5IvFsQ) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Some Gave All](https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV) | 3:23 |
-| 43 | [This Kiss](https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Faith](https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5) | 3:14 |
+| 42 | [This Kiss](https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Faith](https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5) | 3:14 |
+| 43 | [Achy Breaky Heart](https://open.spotify.com/track/2EoIt9vdgFRNW03u5IvFsQ) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Some Gave All](https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV) | 3:23 |
 | 44 | [Before He Cheats](https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:19 |
 | 45 | [Wanted](https://open.spotify.com/track/0p1BcEcYVO3uk4KDf3gzkY) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Hunter Hayes \(Encore\)](https://open.spotify.com/album/5hVo5O3pGkc1VibXveW8gx) | 3:48 |
 | 46 | [Humble And Kind](https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Damn Country Music](https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4) | 4:19 |
@@ -64,10 +64,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBCPUIUs2iR.md) - [plain]
 | 54 | [Automatic](https://open.spotify.com/track/0B0y2FImat9j9MJTNRZWfW) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 4:07 |
 | 55 | [Jesus, Take the Wheel](https://open.spotify.com/track/3lec3CzDPAxsZokPph5w87) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:46 |
 | 56 | [Just To See You Smile](https://open.spotify.com/track/2op0kDNARK2VHWHntEeH4g) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Everywhere](https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9) | 3:35 |
-| 57 | [Just Got Started Lovin' You](https://open.spotify.com/track/4b0XF7CDpJEBAdVHMw7amV) | [James Otto](https://open.spotify.com/artist/3VStI6m5Ig9FAyUaa0lYAP) | [Sunset Man \(Standard Version\)](https://open.spotify.com/album/79uExtsVJH2aNcS2Xu4Cim) | 3:54 |
-| 58 | [Don't It Make My Brown Eyes Blue](https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV) | [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [We Must Believe In Magic](https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8) | 2:37 |
-| 59 | [Love Without End, Amen](https://open.spotify.com/track/4pFNWAU8e8F32NQkMyLAZi) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Livin' It Up](https://open.spotify.com/album/56kF3zaRZS3BO1eNiyBLtO) | 3:07 |
-| 60 | [God Gave Me You](https://open.spotify.com/track/0w9LJae3sVlZlH2CnxTInF) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Red River Blue \(Deluxe Edition\)](https://open.spotify.com/album/1WXCjIDp84rJN6Sa1Um9kJ) | 3:49 |
+| 57 | [Don't It Make My Brown Eyes Blue](https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV) | [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [We Must Believe In Magic](https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8) | 2:37 |
+| 58 | [Just Got Started Lovin' You](https://open.spotify.com/track/4b0XF7CDpJEBAdVHMw7amV) | [James Otto](https://open.spotify.com/artist/3VStI6m5Ig9FAyUaa0lYAP) | [Sunset Man \(Standard Version\)](https://open.spotify.com/album/79uExtsVJH2aNcS2Xu4Cim) | 3:54 |
+| 59 | [God Gave Me You](https://open.spotify.com/track/0w9LJae3sVlZlH2CnxTInF) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Red River Blue \(Deluxe Edition\)](https://open.spotify.com/album/1WXCjIDp84rJN6Sa1Um9kJ) | 3:49 |
+| 60 | [Love Without End, Amen](https://open.spotify.com/track/4pFNWAU8e8F32NQkMyLAZi) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Livin' It Up](https://open.spotify.com/album/56kF3zaRZS3BO1eNiyBLtO) | 3:07 |
 | 61 | [I Swear](https://open.spotify.com/track/7wIaLkbQzG6HMnE28etnif) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [Kickin' It Up](https://open.spotify.com/album/35RTe7YfQemPHk27qXWMxK) | 4:22 |
 | 62 | [Ain't Nothing 'Bout You](https://open.spotify.com/track/6CkydK3NOAMScIhViRzXoB) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 3:19 |
 | 63 | [That's What I Love About Sunday](https://open.spotify.com/track/1fmi1hOBtH8xfUiWz4LVtE) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [My Kind Of Livin'](https://open.spotify.com/album/4ovUdHrbzwtbtKMyU997Hl) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBCPUIUs2iR.md) - [plain]
 | 99 | [Black Sheep](https://open.spotify.com/track/5EPQbU0wk70Btiu9onZR48) | [John Anderson](https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv) | [All The People Are Talkin'](https://open.spotify.com/album/2cWX0i12WDcbP8Gp6cACvS) | 2:57 |
 | 100 | [Behind Closed Doors](https://open.spotify.com/track/4NRFiS0pHjTFDjOm1LWTZj) | [Charlie Rich](https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz) | [Behind Closed Doors \(Expanded Edition\)](https://open.spotify.com/album/79s7QjTPGEFwbpQsMhAYGw) | 2:54 |
 
-Snapshot ID: `MCwyNzkxMTI3ZWYzNTI2YjQ4ODE5Zjc5NWEwOTc2MGFhYzBjMmZkOWU3`
+Snapshot ID: `MCwxYmU3ZWIwYTg5N2MxN2YzYjJlY2JmZDU1ZDg0ODZmNDUzNzYyMzQz`

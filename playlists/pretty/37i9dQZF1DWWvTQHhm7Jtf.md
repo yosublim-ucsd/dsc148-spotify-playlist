@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 
 > A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 \- Possible Musics'.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,979 likes - 70 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,009 likes - 70 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 37 | [10°C](https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 4:22 |
 | 38 | [Delta Rain Dream](https://open.spotify.com/track/1mMMpiuaPQe9I6RIqtFWql) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Fourth World Vol 1 Possible Musics](https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9) | 3:29 |
 | 39 | [Terrazzo](https://open.spotify.com/track/6zH4JhuFvC8Fe6DSGv61cC) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG), [Motion Graphics](https://open.spotify.com/artist/0vmZnQdyuSYbU9F61oApmi) | [Reassemblage](https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK) | 3:40 |
-| 40 | [Omprovo](https://open.spotify.com/track/2IGlsC51UCUtQLIaDJuVPg) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Oquo](https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv) | 2:40 |
-| 41 | [Flying to America](https://open.spotify.com/track/4sWXp7FHiusy8V0b6klQKp) | [Marco Parisi](https://open.spotify.com/artist/2cyi32bBtDCapFqWrgwANu) | [Flying to America](https://open.spotify.com/album/38juKROzX28lJdUDQEE2Ji) | 7:48 |
+| 40 | [Flying to America](https://open.spotify.com/track/4sWXp7FHiusy8V0b6klQKp) | [Marco Parisi](https://open.spotify.com/artist/2cyi32bBtDCapFqWrgwANu) | [Flying to America](https://open.spotify.com/album/38juKROzX28lJdUDQEE2Ji) | 7:48 |
+| 41 | [Omprovo](https://open.spotify.com/track/2IGlsC51UCUtQLIaDJuVPg) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Oquo](https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv) | 2:40 |
 | 42 | [Glass Chattering](https://open.spotify.com/track/6lGHPfFmZGcjNv7tmTYzZ0) | [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 5:56 |
 | 43 | [ME](https://open.spotify.com/track/2d7FoK7amJiLOk6S0IT8AS) | [Felicia Atkinson](https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we), [Jefre Cantu\-Ledesma](https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5) | [Comme Un Seul Narcisse](https://open.spotify.com/album/7lOB1lg0Iu810pZhvJCmk4) | 4:21 |
 | 44 | [Touch me & die](https://open.spotify.com/track/4fUyRdOqocwHCabG7gT71J) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Aftertouches](https://open.spotify.com/album/7Fe43zwjkO6cMNrP8HdDoN) | 3:30 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 67 | [Slow Loris Versus Poison Snail](https://open.spotify.com/track/5y7kD1xehhdOzrVA4mODuj) | [David Toop](https://open.spotify.com/artist/3jFTMxWP6at3FioQqFGmjC), [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Pink Noir](https://open.spotify.com/album/3ImULQZLfQO2HCvbPE5UbB) | 9:23 |
 | 68 | [Air Flows](https://open.spotify.com/track/0pYwlehWNQ50iyQdZJFbZu) | [J Foerster](https://open.spotify.com/artist/4sRdSdPKzOOJa9WgBfTz6i), [N KRAMER](https://open.spotify.com/artist/6pY5KhflZwSO9L6Iq2A77t) | [Habitat](https://open.spotify.com/album/784eJcaYZn3cQXHkpQuqLN) | 4:55 |
 | 69 | [Malinalli Koatl](https://open.spotify.com/track/1JDsCg42TAQyGP02tMNCf6) | [Xochimoki](https://open.spotify.com/artist/2r9Sm0NknfL0xMMaRYQiiG) | [Temple Of The New Sun](https://open.spotify.com/album/00wrOJOHlmNR63kIKK6x7R) | 4:07 |
-| 70 | [entropy & kindness](https://open.spotify.com/track/5CJwBWeHLCSAKtLaMTrnfO) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG), [Lara Sarkissian](https://open.spotify.com/artist/6ctLrB5PwqC8earV2J39qW) | [entropy & kindness](https://open.spotify.com/album/2ol7vC6iwa2AkKD5RuUMAX) | 4:21 |
+| 70 | [Mirrored Solitude](https://open.spotify.com/track/52vNlD5YZT1yUmZUnukAbT) | [Kalia Vandever](https://open.spotify.com/artist/2eFIJMz1OPMcyyqxVbh8tL) | [Mirrored Solitude](https://open.spotify.com/album/4bd0O6ioCKu3uh3d89rtpB) | 3:26 |
 
-Snapshot ID: `MCw1MDRhYjkzYTg2MDI4MmI1MjBhY2E1MmRiNjAyZTEyZDllZTU2Yzlh`
+Snapshot ID: `MCw2ZmQwNWVmMzJmZGYzNjJjNjUwY2YyZTM2NmIwOTFiMjhiOTU2MmYx`

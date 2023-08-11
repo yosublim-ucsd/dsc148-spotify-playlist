@@ -4,7 +4,7 @@
 
 > Your favourite café with that warm and cozy Jazz vibe.
 
-120 songs - 7 hr 6 min
+122 songs - 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Lemon Tart](https://open.spotify.com/track/1cPvmbaYDC33sTkNlfTuIB) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Lemon Tart](https://open.spotify.com/album/6zS3RKFsnWW7oIpYMGL1XW) | 3:31 | 2023-04-27 |  |
 | [Let's Not](https://open.spotify.com/track/4LJfsJaMLMWNpysdH5K5oS) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Blueberry Street](https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo) | 4:25 | 2023-03-03 |  |
 | [Live Off The Juice](https://open.spotify.com/track/7tRueocYJ2FyjtLbHBOZlz) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [Live Off The Juice](https://open.spotify.com/album/4h1h2Wb9Q8FGElrdovvgHA) | 3:22 | 2023-03-16 |  |
+| [Lonely Streets](https://open.spotify.com/track/6OLMBzS4PV7EXkxzkcx7Z6) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [At Least I Know](https://open.spotify.com/album/3cBbti8W4QwIjKRjvVtFYN) | 6:08 | 2023-08-10 |  |
 | [Love In Your Arms](https://open.spotify.com/track/4tmD3aQkmBEO9JOR1hEAdY) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Love In Your Arms](https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o) | 3:22 | 2023-03-03 |  |
 | [Love To Be Happy](https://open.spotify.com/track/3wMe1lySKxJeH9iMWXDqgx) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Love To Be Happy](https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60) | 3:15 | 2023-03-03 |  |
 | [Love Will Last Forever](https://open.spotify.com/track/3AqqDd9zm7ZG8AFaveWYIm) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Love Will Last Forever](https://open.spotify.com/album/4usW1UlwKnmOuqsChtx2Xa) | 3:35 | 2023-03-03 |  |
@@ -107,6 +108,7 @@
 | [Sweet Lilyanne](https://open.spotify.com/track/2DX1gWF4hjdivWePjoP81G) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Sweet Lilyanne](https://open.spotify.com/album/1P3MpyYyLwr075pq33KiRk) | 3:13 | 2023-06-22 |  |
 | [Tangerine](https://open.spotify.com/track/3aEzo1qHVQU5S3nsjFfx0V) | [Tribute Trio](https://open.spotify.com/artist/3PuxIr3757alJvpconHY1C) | [Tangerine](https://open.spotify.com/album/1HhnW65X0yXfoXZSWSFROL) | 2:59 | 2023-03-03 |  |
 | [That’s gotta be it](https://open.spotify.com/track/0FazSNhRZ6WLccyfjtKFZB) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [That’s gotta be it](https://open.spotify.com/album/3PeEeMedpzBi6ab7lCqCJG) | 3:18 | 2023-03-24 |  |
+| [The bag with cash](https://open.spotify.com/track/2UIP33RxIEfUCEFxY0gySi) | [The Holly Molly Trio](https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ) | [The bag with cash](https://open.spotify.com/album/5nGxB4RGvlB9KdI5A09fFv) | 3:32 | 2023-08-10 |  |
 | [The Flow of Your Way](https://open.spotify.com/track/4cXWKqGv91HzvKQe0r6dNJ) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [The Flow of Your Way](https://open.spotify.com/album/2DjphKfzhL1u4YCdraGRCq) | 3:26 | 2023-03-03 |  |
 | [The Meadows](https://open.spotify.com/track/120GHgxD1qLdNpnz2NT7Je) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [The Meadows](https://open.spotify.com/album/6PosHibdf6McSbAZLgZAg6) | 3:15 | 2023-03-03 |  |
 | [The Nearness Of You](https://open.spotify.com/track/4X3IkZgkTo4WTchJXzBlNf) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [The Nearness Of You](https://open.spotify.com/album/6OcNfptFr34zXqNDyriSt0) | 5:10 | 2023-03-03 |  |

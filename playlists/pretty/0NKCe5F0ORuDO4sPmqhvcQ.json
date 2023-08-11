@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 20975,
+  "num_followers": 20974,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTA0MDksMTA3OTc5NDY4Y2YyYjI3OTI5ODAzY2NiNWJhZWVmOTIxOWJlMTdiYg==",
+  "snapshot_id": "MTA0MTAsMWM5MTEwNGVjNDI4NmVlN2ZlZTQ3MTY5MWEzNjVkYWUxNzI3ODgxNA==",
   "tracks": [
     {
       "added_at": "2023-07-20 01:12:32",
@@ -2087,6 +2087,26 @@
       "duration_ms": 193714,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/31gMxpu8lSWdIBayKt5ED3"
+    },
+    {
+      "added_at": "2023-08-11 01:03:09",
+      "album": {
+        "name": "i luv ur smile",
+        "url": "https://open.spotify.com/album/19ADS40GUeLlNCa7Rbk2gP"
+      },
+      "artists": [
+        {
+          "name": "Harrisun",
+          "url": "https://open.spotify.com/artist/7Fs3Yj5hp3rvtj9JSXYiSa"
+        },
+        {
+          "name": "Teddy Roxpin",
+          "url": "https://open.spotify.com/artist/0MZ2kdIMm8GrHOzPm1QK1A"
+        }
+      ],
+      "duration_ms": 247619,
+      "name": "i luv ur smile",
+      "url": "https://open.spotify.com/track/4rX8Np5NElrnKeCd4KDNbD"
     }
   ],
   "unique_name": "Moving Castle Monthly",

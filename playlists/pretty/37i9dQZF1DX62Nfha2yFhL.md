@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62Nfha2yFhL.md) - [plain]
 
 > every day soul with a funky groove for a laid back day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 890,483 likes - 109 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 890,631 likes - 109 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62Nfha2yFhL.md) - [plain]
 | 108 | [Pink Youth](https://open.spotify.com/track/2WwwfnTUm4yUK8stRMPd7V) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Pink Youth](https://open.spotify.com/album/52lWZNXWoJMWFNPmXdAWz9) | 4:00 |
 | 109 | [Love Me Like \(feat\. DUCKWRTH\)](https://open.spotify.com/track/1P9KFw6u4vX7hbFcFZd1yL) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Love Me Like \(feat\. DUCKWRTH\)](https://open.spotify.com/album/2RZUiUCPzbh4hb0IJ9Bh7I) | 2:44 |
 
-Snapshot ID: `MCwwZjdlNWUwZWE0NWQ1MDM2MzE0ZDA5MDZhZTkwYmI4ZDAzNzI5YWUw`
+Snapshot ID: `MCxmY2NiMDczYTIwYzJkNDBjZTEwYjdkN2ZmZjA1OTA4OTc0YjE0MmFm`

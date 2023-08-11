@@ -4,7 +4,7 @@
 
 > The freshest indie sounds from Japan\. 日本のインディー・サウンドを特集。Cover: Helsinki Lambda Club
 
-713 songs - 1 day 20 hr 30 min
+714 songs - 1 day 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -529,6 +529,7 @@
 | [わからないよな](https://open.spotify.com/track/7Ity0z6dLFuP42PnkmkYgu) | [Hwyl](https://open.spotify.com/artist/6bYzlsbs269Xa3z6L5OfjC) | [わからないよな](https://open.spotify.com/album/36zXcsDPeCVntMrnxAyb06) | 3:03 | 2023-05-09 | 2023-05-24 |
 | [カウントダウン・ラグ](https://open.spotify.com/track/1QkF34AEAxWrHRYRXpI4CU) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [インナーダイアログ](https://open.spotify.com/album/1jmlZ6JfnYsgzi6WGnYXmh) | 5:25 | 2023-04-18 | 2023-04-20 |
 | [カープファンの子](https://open.spotify.com/track/0fljI44hj6m737RIfY8kmK) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [しばたさとこ島](https://open.spotify.com/album/2rgn6LRtYPMOtzbsEVp6KS) | 2:22 | 2023-05-29 | 2023-06-02 |
+| [キリン](https://open.spotify.com/track/5pwlfTuMRYRv1YQmQvPew4) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [キリン](https://open.spotify.com/album/0IsKWVJ9oleyraPcUF2GlY) | 3:20 | 2023-08-10 |  |
 | [ゴースト](https://open.spotify.com/track/0aBb5sdeZyojEd5cVD9UKb) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY) | [Mix Wave](https://open.spotify.com/album/02IbI9D14DVwwU7ZXJz0vd) | 3:47 | 2023-05-09 | 2023-06-22 |
 | [サイダーのように言葉が湧き上がる](https://open.spotify.com/track/70rIBnhQtO2ON2RX9GGd6H) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [サイダーのように言葉が湧き上がる](https://open.spotify.com/album/6Hjzg5YyqGatZ3M4sCWKRx) | 3:26 | 2023-03-28 |  |
 | [サンセットエスケープ](https://open.spotify.com/track/2AznAEBQ0nfURKhzp0xTWW) | [ERWIT](https://open.spotify.com/artist/7AjGWpFOzIh47HAdUo1CMl) | [サンセットエスケープ](https://open.spotify.com/album/3cQ877hCNnLBdxeajMPDDr) | 3:57 | 2023-07-11 | 2023-07-19 |
@@ -607,7 +608,7 @@
 | [夜の流れ](https://open.spotify.com/track/4QL8gzhgrPMsEjnSO76Yfp) | [Cantaro Ihara](https://open.spotify.com/artist/0Mjk62ywbh7Y0GWw4grdLe) | [Portray](https://open.spotify.com/album/4gf7SnhuI71ZpFVivmLQiF) | 4:36 | 2023-04-27 | 2023-05-23 |
 | [夜明けの夢](https://open.spotify.com/track/5ZT98DGg4bjyrGOEyl80SL) | [Haruna Yusa](https://open.spotify.com/artist/3lc5Z805sOOFhD7BcUlMG2) | [夜明けの夢](https://open.spotify.com/album/4QN0scuxcn5OBVN7g8gMF5) | 3:12 | 2023-08-08 |  |
 | [夢](https://open.spotify.com/track/6sfO55yUSONmh8PT7wgcy5) | [Izumi Makura](https://open.spotify.com/artist/012ldd58H1N5UZLxjMzV29) | [夢](https://open.spotify.com/album/1y4H0diX3fRtiDmjYr5KyK) | 3:53 | 2023-06-13 | 2023-07-20 |
-| [夢にならないように](https://open.spotify.com/track/3akniqbPdq5nhh19QtxAq2) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [陽気な休日](https://open.spotify.com/album/6j9nxtP0BmchrWc9JkBT2G) | 4:28 | 2023-01-31 |  |
+| [夢にならないように](https://open.spotify.com/track/3akniqbPdq5nhh19QtxAq2) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [陽気な休日](https://open.spotify.com/album/6j9nxtP0BmchrWc9JkBT2G) | 4:28 | 2023-01-31 | 2023-08-11 |
 | [夢の恋人](https://open.spotify.com/track/1k8nHi41KYSvsUFivUuZ3T) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [夢が醒めたら](https://open.spotify.com/album/7cd2jEnLcsoH3BY86ncs7z) | 3:20 | 2023-03-28 | 2023-04-05 |
 | [夢占](https://open.spotify.com/track/6jczRyvwF3406OoInAJJ6X) | [SAI](https://open.spotify.com/artist/26CHm3gYd2zeEfTZeyZzal) | [水中庭園](https://open.spotify.com/album/4FxkA4os4gczMz5KifOc8b) | 2:19 | 2023-04-11 | 2023-05-10 |
 | [大東京万博](https://open.spotify.com/track/4Rnpl433c6SsYhynnPS4dN) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [ゴーストアルバム](https://open.spotify.com/album/6Vq6frI8HsXVoYZiQG8v9e) | 5:05 | 2023-03-30 |  |

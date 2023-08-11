@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xhrLa.md) - [plain]
 
 > This is Jhené Aiko\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,507 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,573 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xhrLa.md) - [plain]
 | 38 | [My Type \(feat\. City Girls & Jhené Aiko\) \- Remix](https://open.spotify.com/track/5LTdRSQOg63EazLbKZbWn2) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [My Type \(feat\. City Girls & Jhené Aiko\) \[Remix\]](https://open.spotify.com/album/3zA4avOuepGbVtebFZzAz5) | 2:52 |
 | 39 | [First Fuck](https://open.spotify.com/track/1u4orOe6gYxeE9xKpv11Qi) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [First Fuck](https://open.spotify.com/album/6Fq2zZBisHn3e2I7VHzVuf) | 3:25 |
 | 40 | [I\. Pink Toes](https://open.spotify.com/track/4OfESCGOUVZMuGvppCU51j) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Because the Internet](https://open.spotify.com/album/62yjWIhnATHxPqGbgC9Lqr) | 3:27 |
-| 41 | [Change Your Life \(feat\. Jhené Aiko\)](https://open.spotify.com/track/1YqXXJDSlDHrp66g9as4uo) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 3:11 |
-| 42 | [When We Love](https://open.spotify.com/track/63LJjsJuqZgQyYibMXn9ku) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 4:22 |
+| 41 | [When We Love](https://open.spotify.com/track/63LJjsJuqZgQyYibMXn9ku) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 4:22 |
+| 42 | [Change Your Life \(feat\. Jhené Aiko\)](https://open.spotify.com/track/1YqXXJDSlDHrp66g9as4uo) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 3:11 |
 | 43 | [my mine](https://open.spotify.com/track/2B8Y5LaNSEkuB3LA9okArd) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sailing Soul\(s\)](https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim) | 4:01 |
 | 44 | [3:16AM](https://open.spotify.com/track/4QoFwqgLw1CtoeSv6N80mU) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sail Out](https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq) | 3:20 |
-| 45 | [By Yourself \(feat\. Jhené Aiko & Mustard\)](https://open.spotify.com/track/1psvnQxSDdIKTDM2Jm8QKt) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [Featuring Ty Dolla $ign](https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8) | 2:28 |
-| 46 | [New Balance](https://open.spotify.com/track/0PYmO55JPwEWgtyJbkN6mq) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 4:39 |
+| 45 | [New Balance](https://open.spotify.com/track/0PYmO55JPwEWgtyJbkN6mq) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 4:39 |
+| 46 | [By Yourself \(feat\. Jhené Aiko & Mustard\)](https://open.spotify.com/track/1psvnQxSDdIKTDM2Jm8QKt) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [Featuring Ty Dolla $ign](https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8) | 2:28 |
 | 47 | [Stars in The Sky \(feat\. Jhené Aiko\)](https://open.spotify.com/track/5ziNnhZ1hK100fIUvkDZUH) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [With Love 2](https://open.spotify.com/album/0Y7r7Lb6skivwT5LL284AR) | 4:14 |
 | 48 | [Comfort Inn Ending \(Freestyle\)](https://open.spotify.com/track/03mfJFcTsxfldb0DPI4ygj) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sail Out](https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq) | 5:21 |
 | 49 | [Splash \(feat\. Jhené Aiko & Ty Dolla $ign\)](https://open.spotify.com/track/5Ip2VxpYt1dCD7MKmjrw52) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:54 |
 | 50 | [Worthy](https://open.spotify.com/track/1dUszfK4TRd54EegEkOT34) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Late Nights: The Album](https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96) | 3:33 |
 
-Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDBkZTA2MTg4OTNiNTU1ZjdmMDM1M2FhZjBkMmYxYjI4NA==`
+Snapshot ID: `MjgxOTQ1NjMsMDAwMDAwMDBkNTdkNGEwNzdhOTE3NDBmNGFkYTllNDFlZjA2NzFiNQ==`

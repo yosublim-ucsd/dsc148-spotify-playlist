@@ -1,12 +1,12 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover:  <a href=\"https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk?si=gnYOdOZxT_-mL-QVsbRxKQ\">Red</a> ",
-  "num_followers": 131042,
+  "num_followers": 131182,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODQwOTQxYTY3OWM5NWE5ZDMwZDE3NGFkODU2Y2U3NzZhODg1ODNi",
+  "snapshot_id": "MCwyYWQ2M2VjMDZlMjE0MDkwMjE0MTM0YzhjMDQyNDlmMjkzZTU0MjJj",
   "tracks": [
     {
       "added_at": "2023-08-04 12:11:34",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Words of Fire",
-        "url": "https://open.spotify.com/album/237V0zzNkyCtXYUCW4GW6H"
-      },
-      "artists": [
-        {
-          "name": "Kutless",
-          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
-        }
-      ],
-      "duration_ms": 251201,
-      "name": "Words of Fire",
-      "url": "https://open.spotify.com/track/7vWXQlBiKr6Itu4Xaz5bsS"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "The Fear",
         "url": "https://open.spotify.com/album/0sGZmzDg3gTKKEWx5MqIZ1"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 203171,
       "name": "Dreamcatcher",
       "url": "https://open.spotify.com/track/41LmGmVK8KAQ7QIIhMvOtX"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "Words of Fire",
+        "url": "https://open.spotify.com/album/237V0zzNkyCtXYUCW4GW6H"
+      },
+      "artists": [
+        {
+          "name": "Kutless",
+          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
+        }
+      ],
+      "duration_ms": 251201,
+      "name": "Words of Fire",
+      "url": "https://open.spotify.com/track/7vWXQlBiKr6Itu4Xaz5bsS"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Death By Admiration",
-        "url": "https://open.spotify.com/album/65EgD2zbFwDW2bFXp3OK9A"
-      },
-      "artists": [
-        {
-          "name": "Seventh Day Slumber",
-          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
-        }
-      ],
-      "duration_ms": 218347,
-      "name": "Halos",
-      "url": "https://open.spotify.com/track/6gyLJLstE1is7JyaOyHQ6o"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "In the Night",
         "url": "https://open.spotify.com/album/5Afz9UTx4crqKUBsAdy4B7"
       },
@@ -727,22 +711,18 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "End of the World (feat. Disciple)",
-        "url": "https://open.spotify.com/album/0Q1AFMxli6GteApY75WWGY"
+        "name": "Death By Admiration",
+        "url": "https://open.spotify.com/album/65EgD2zbFwDW2bFXp3OK9A"
       },
       "artists": [
         {
-          "name": "Kutless",
-          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
-        },
-        {
-          "name": "Disciple",
-          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
+          "name": "Seventh Day Slumber",
+          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
         }
       ],
-      "duration_ms": 354815,
-      "name": "End of the World",
-      "url": "https://open.spotify.com/track/23TxAMQmvHPLvu6tUbCfNG"
+      "duration_ms": 218347,
+      "name": "Halos",
+      "url": "https://open.spotify.com/track/6gyLJLstE1is7JyaOyHQ6o"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -815,6 +795,26 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
+        "name": "End of the World (feat. Disciple)",
+        "url": "https://open.spotify.com/album/0Q1AFMxli6GteApY75WWGY"
+      },
+      "artists": [
+        {
+          "name": "Kutless",
+          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
+        },
+        {
+          "name": "Disciple",
+          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
+        }
+      ],
+      "duration_ms": 354815,
+      "name": "End of the World",
+      "url": "https://open.spotify.com/track/23TxAMQmvHPLvu6tUbCfNG"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
         "name": "Promise to Live",
         "url": "https://open.spotify.com/album/1aSbnnZAH9AHM1WkIGXk3h"
       },
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Hidden",
-        "url": "https://open.spotify.com/album/4IYq1OYcC5WsRytK1AR2HP"
-      },
-      "artists": [
-        {
-          "name": "RICHLIN",
-          "url": "https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Hidden",
-      "url": "https://open.spotify.com/track/3PP9L1bxt0FbwEgSJEznSZ"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "Surviving The Wasteland",
         "url": "https://open.spotify.com/album/54BdL7J7JLcb2uzvMqwKnx"
       },
@@ -895,18 +879,18 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Twenty",
-        "url": "https://open.spotify.com/album/05Lk7Ave4ANejifje8LKCZ"
+        "name": "Hidden",
+        "url": "https://open.spotify.com/album/4IYq1OYcC5WsRytK1AR2HP"
       },
       "artists": [
         {
-          "name": "Kutless",
-          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
+          "name": "RICHLIN",
+          "url": "https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb"
         }
       ],
-      "duration_ms": 262254,
-      "name": "Run - Twenty Version",
-      "url": "https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN"
+      "duration_ms": 168000,
+      "name": "Hidden",
+      "url": "https://open.spotify.com/track/3PP9L1bxt0FbwEgSJEznSZ"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -963,6 +947,22 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
+        "name": "Twenty",
+        "url": "https://open.spotify.com/album/05Lk7Ave4ANejifje8LKCZ"
+      },
+      "artists": [
+        {
+          "name": "Kutless",
+          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
+        }
+      ],
+      "duration_ms": 262254,
+      "name": "Run - Twenty Version",
+      "url": "https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
         "name": "Barbarians (Live)",
         "url": "https://open.spotify.com/album/6L4poo7GcNGGcgcQPiB6Zo"
       },
@@ -975,6 +975,22 @@
       "duration_ms": 382125,
       "name": "Chariots - Live",
       "url": "https://open.spotify.com/track/6DuEUsG8YvsNq91I2a9djH"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "When Angels & Serpents Dance (2022 Remixed & Remastered)",
+        "url": "https://open.spotify.com/album/0CjJ3F1RJfx7IH003BpCZ9"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 194721,
+      "name": "When Angels & Serpents Dance - 2022 Remixed & Remastered",
+      "url": "https://open.spotify.com/track/2nkA5H4RB8lzWc3xRmEbBd"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1059,22 +1075,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "When Angels & Serpents Dance (2022 Remixed & Remastered)",
-        "url": "https://open.spotify.com/album/0CjJ3F1RJfx7IH003BpCZ9"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        }
-      ],
-      "duration_ms": 194721,
-      "name": "When Angels & Serpents Dance - 2022 Remixed & Remastered",
-      "url": "https://open.spotify.com/track/2nkA5H4RB8lzWc3xRmEbBd"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "No Fear In Love",
         "url": "https://open.spotify.com/album/5zmejejlQErGrI0qDJiXoS"
       },
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Acoustic - EP",
-        "url": "https://open.spotify.com/album/4VP9QymQERLlDbXazylOPA"
-      },
-      "artists": [
-        {
-          "name": "Decyfer Down",
-          "url": "https://open.spotify.com/artist/4C0vbj4LNsNUjH0Q9IFW3B"
-        }
-      ],
-      "duration_ms": 239552,
-      "name": "Burn Back the Sun",
-      "url": "https://open.spotify.com/track/56ergFXREcLtf2aAWSG5Au"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "Songs for the Late Night Drive Home",
         "url": "https://open.spotify.com/album/11gks8G950AYu1xpBeDZtl"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 211360,
       "name": "Lower East Side",
       "url": "https://open.spotify.com/track/0GUWPfLjDo6dRQLej2RDf2"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "Acoustic - EP",
+        "url": "https://open.spotify.com/album/4VP9QymQERLlDbXazylOPA"
+      },
+      "artists": [
+        {
+          "name": "Decyfer Down",
+          "url": "https://open.spotify.com/artist/4C0vbj4LNsNUjH0Q9IFW3B"
+        }
+      ],
+      "duration_ms": 239552,
+      "name": "Burn Back the Sun",
+      "url": "https://open.spotify.com/track/56ergFXREcLtf2aAWSG5Au"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Honor & Glory",
-        "url": "https://open.spotify.com/album/2itu4IaIrGFui5Y117djYw"
-      },
-      "artists": [
-        {
-          "name": "Honor & Glory",
-          "url": "https://open.spotify.com/artist/16bPRQeTKQ7kM03xe3n3e6"
-        }
-      ],
-      "duration_ms": 271159,
-      "name": "Fear of Missing Out",
-      "url": "https://open.spotify.com/track/4NvVIO4OXlYGLXTqcnl9EC"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "What Are You Waiting For",
         "url": "https://open.spotify.com/album/5FFS881QSIWbv9oxbAMFK9"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 199252,
       "name": "What Are You Waiting For",
       "url": "https://open.spotify.com/track/0Nu0KWmS8h2QRV2vhCzE3S"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "Honor & Glory",
+        "url": "https://open.spotify.com/album/2itu4IaIrGFui5Y117djYw"
+      },
+      "artists": [
+        {
+          "name": "Honor & Glory",
+          "url": "https://open.spotify.com/artist/16bPRQeTKQ7kM03xe3n3e6"
+        }
+      ],
+      "duration_ms": 271159,
+      "name": "Fear of Missing Out",
+      "url": "https://open.spotify.com/track/4NvVIO4OXlYGLXTqcnl9EC"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Pennell",
-        "url": "https://open.spotify.com/album/10HIcl5dqsQbzbg93Q6i6D"
-      },
-      "artists": [
-        {
-          "name": "Pennell",
-          "url": "https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R"
-        }
-      ],
-      "duration_ms": 333370,
-      "name": "Send Forth Laborers",
-      "url": "https://open.spotify.com/track/6GvKRrywS5aUfHWry1KaEb"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "What I've Become",
         "url": "https://open.spotify.com/album/2V4iSdBm0uuxzIyBGwBNEh"
       },
@@ -1323,18 +1307,18 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Futures",
-        "url": "https://open.spotify.com/album/5bEuICumNUiE7BVE3kUFV7"
+        "name": "Pennell",
+        "url": "https://open.spotify.com/album/10HIcl5dqsQbzbg93Q6i6D"
       },
       "artists": [
         {
-          "name": "Danger Scene",
-          "url": "https://open.spotify.com/artist/2SuAeywEh267W33dTgLpG3"
+          "name": "Pennell",
+          "url": "https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R"
         }
       ],
-      "duration_ms": 246286,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/05rFfMp2OJiuspwd2XADJS"
+      "duration_ms": 333370,
+      "name": "Send Forth Laborers",
+      "url": "https://open.spotify.com/track/6GvKRrywS5aUfHWry1KaEb"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1351,6 +1335,22 @@
       "duration_ms": 233906,
       "name": "Way You Love Me",
       "url": "https://open.spotify.com/track/1CFV6jDeM0HDY0wqvbhNCW"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "Futures",
+        "url": "https://open.spotify.com/album/5bEuICumNUiE7BVE3kUFV7"
+      },
+      "artists": [
+        {
+          "name": "Danger Scene",
+          "url": "https://open.spotify.com/artist/2SuAeywEh267W33dTgLpG3"
+        }
+      ],
+      "duration_ms": 246286,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/05rFfMp2OJiuspwd2XADJS"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Death Stare",
-        "url": "https://open.spotify.com/album/2RxRyFBmCUY7KplNaAux3i"
-      },
-      "artists": [
-        {
-          "name": "The Protest",
-          "url": "https://open.spotify.com/artist/3BTiVMFvgOUbi1I0WWVAbA"
-        }
-      ],
-      "duration_ms": 248972,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/5WKpzbWHqprXmQb4ohlQed"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "Angels vs Demons",
         "url": "https://open.spotify.com/album/2sqsGbEOAqH3BUBU8q8hFW"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 258888,
       "name": "Angels vs Demons",
       "url": "https://open.spotify.com/track/1on699IUw4o4OsjKXQW5Z9"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "I'm Only Dreaming",
+        "url": "https://open.spotify.com/album/3VwF0Dev44PXIFKyi3UOtP"
+      },
+      "artists": [
+        {
+          "name": "Eisley",
+          "url": "https://open.spotify.com/artist/2IL35FbYiOta150uSYBCEg"
+        }
+      ],
+      "duration_ms": 236969,
+      "name": "Louder Than a Lion",
+      "url": "https://open.spotify.com/track/4gwcz4UeluIazCZf7XGOBT"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1479,34 +1479,18 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "I'm Only Dreaming",
-        "url": "https://open.spotify.com/album/3VwF0Dev44PXIFKyi3UOtP"
+        "name": "Death Stare",
+        "url": "https://open.spotify.com/album/2RxRyFBmCUY7KplNaAux3i"
       },
       "artists": [
         {
-          "name": "Eisley",
-          "url": "https://open.spotify.com/artist/2IL35FbYiOta150uSYBCEg"
+          "name": "The Protest",
+          "url": "https://open.spotify.com/artist/3BTiVMFvgOUbi1I0WWVAbA"
         }
       ],
-      "duration_ms": 236969,
-      "name": "Louder Than a Lion",
-      "url": "https://open.spotify.com/track/4gwcz4UeluIazCZf7XGOBT"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
-        "name": "Faith Over Fear",
-        "url": "https://open.spotify.com/album/1AIYD2XjncX9ir1zRTrgV0"
-      },
-      "artists": [
-        {
-          "name": "Aaron Michaels",
-          "url": "https://open.spotify.com/artist/2aNlHGoWugw2nY0gNmu3fd"
-        }
-      ],
-      "duration_ms": 194298,
-      "name": "Faith Over Fear",
-      "url": "https://open.spotify.com/track/7Cta8xZQzWkvYOKVxL64gC"
+      "duration_ms": 248972,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/5WKpzbWHqprXmQb4ohlQed"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1523,6 +1507,22 @@
       "duration_ms": 211906,
       "name": "You Are",
       "url": "https://open.spotify.com/track/5To1qef7yQNIiFa6lLfvrY"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "Faith Over Fear",
+        "url": "https://open.spotify.com/album/1AIYD2XjncX9ir1zRTrgV0"
+      },
+      "artists": [
+        {
+          "name": "Aaron Michaels",
+          "url": "https://open.spotify.com/artist/2aNlHGoWugw2nY0gNmu3fd"
+        }
+      ],
+      "duration_ms": 194298,
+      "name": "Faith Over Fear",
+      "url": "https://open.spotify.com/track/7Cta8xZQzWkvYOKVxL64gC"
     },
     {
       "added_at": "2023-08-04 12:11:34",

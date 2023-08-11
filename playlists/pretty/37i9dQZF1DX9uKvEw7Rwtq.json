@@ -1,12 +1,12 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 76138,
+  "num_followers": 76229,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTA0MzkzYjkxMGI4ZjllZDk3NGMwNGRjNzk5M2ZjY2IwZDNjNzdl",
+  "snapshot_id": "MCxhNzFjZjUxMTNiNWMzZjkyOGIxZmU2YzJlYTgzMjU4NTBlNWU5YjEw",
   "tracks": [
     {
       "added_at": "2023-01-27 16:27:42",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-01-27 16:27:42",
       "album": {
-        "name": "Raising Your Voice... Trying to Stop an Echo (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2AbCfihy80zuR1mPwN5yLl"
-      },
-      "artists": [
-        {
-          "name": "Hammock",
-          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
-        }
-      ],
-      "duration_ms": 255335,
-      "name": "I Can Almost See You",
-      "url": "https://open.spotify.com/track/11n8LudggXuZXmldSlAadR"
-    },
-    {
-      "added_at": "2023-01-27 16:27:42",
-      "album": {
         "name": "Zero Gravity",
         "url": "https://open.spotify.com/album/7E8OVvnwnsAAhyiYrrRBox"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 159818,
       "name": "Zero Gravity",
       "url": "https://open.spotify.com/track/4tfaUHGYBCMliBaOHM5vHX"
+    },
+    {
+      "added_at": "2023-01-27 16:27:42",
+      "album": {
+        "name": "Raising Your Voice... Trying to Stop an Echo (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2AbCfihy80zuR1mPwN5yLl"
+      },
+      "artists": [
+        {
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+        }
+      ],
+      "duration_ms": 255335,
+      "name": "I Can Almost See You",
+      "url": "https://open.spotify.com/track/11n8LudggXuZXmldSlAadR"
     },
     {
       "added_at": "2023-01-27 16:27:42",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-01-27 16:27:42",
       "album": {
-        "name": "Paradise Valley",
-        "url": "https://open.spotify.com/album/5e5MtmjBRnh3eI5g5C0Tyv"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 304460,
-      "name": "Headache",
-      "url": "https://open.spotify.com/track/4EDj8GXOlI45vG4SOfswK3"
-    },
-    {
-      "added_at": "2023-01-27 16:27:42",
-      "album": {
         "name": "Looking at the World Through a Window",
         "url": "https://open.spotify.com/album/5uSadjfUdEaWhB1zs4m3TQ"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 385000,
       "name": "Looking at the World Through a Window",
       "url": "https://open.spotify.com/track/1bsSaYmy0vOUH8tux2hAYV"
+    },
+    {
+      "added_at": "2023-01-27 16:27:42",
+      "album": {
+        "name": "Paradise Valley",
+        "url": "https://open.spotify.com/album/5e5MtmjBRnh3eI5g5C0Tyv"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 304460,
+      "name": "Headache",
+      "url": "https://open.spotify.com/track/4EDj8GXOlI45vG4SOfswK3"
     },
     {
       "added_at": "2023-01-27 16:27:42",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-01-27 16:27:42",
       "album": {
-        "name": "Love Is...",
-        "url": "https://open.spotify.com/album/5RQJ2Gk1ep33nVpWZCNivn"
-      },
-      "artists": [
-        {
-          "name": "The Best Pessimist",
-          "url": "https://open.spotify.com/artist/6W4aup6f745SyZe2vShUnZ"
-        }
-      ],
-      "duration_ms": 526120,
-      "name": "Above the Fog (Pt.2)",
-      "url": "https://open.spotify.com/track/4cjRiT6COzETZ3mWQXydnr"
-    },
-    {
-      "added_at": "2023-01-27 16:27:42",
-      "album": {
         "name": "G_d's Pee AT STATE'S END!",
         "url": "https://open.spotify.com/album/6gZsJeN8MdITXZMVDXrMk0"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 358420,
       "name": "Fire at Static Valley",
       "url": "https://open.spotify.com/track/0r4MOhVw2anZScz5PTUrJk"
+    },
+    {
+      "added_at": "2023-01-27 16:27:42",
+      "album": {
+        "name": "Love Is...",
+        "url": "https://open.spotify.com/album/5RQJ2Gk1ep33nVpWZCNivn"
+      },
+      "artists": [
+        {
+          "name": "The Best Pessimist",
+          "url": "https://open.spotify.com/artist/6W4aup6f745SyZe2vShUnZ"
+        }
+      ],
+      "duration_ms": 526120,
+      "name": "Above the Fog (Pt.2)",
+      "url": "https://open.spotify.com/track/4cjRiT6COzETZ3mWQXydnr"
     },
     {
       "added_at": "2023-01-27 16:27:42",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-01-27 16:27:42",
       "album": {
+        "name": "Make We Here Our Camp of Winter",
+        "url": "https://open.spotify.com/album/3kFeiTzNEZG1w6Yy25K2xR"
+      },
+      "artists": [
+        {
+          "name": "The Gentleman Losers",
+          "url": "https://open.spotify.com/artist/7e8rT9wPUmfu9ZPC8Mym17"
+        }
+      ],
+      "duration_ms": 243533,
+      "name": "Shelter from the Rain",
+      "url": "https://open.spotify.com/track/54CKr6JUVSrFYbCWCvJqUs"
+    },
+    {
+      "added_at": "2023-01-27 16:27:42",
+      "album": {
         "name": "Sacrifice & Isolation",
         "url": "https://open.spotify.com/album/42WlUy8Gv94fgPhtlnSPka"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 199813,
       "name": "Peterson",
       "url": "https://open.spotify.com/track/7gfMja30N1mYv2P0RWRXyE"
-    },
-    {
-      "added_at": "2023-01-27 16:27:42",
-      "album": {
-        "name": "Make We Here Our Camp of Winter",
-        "url": "https://open.spotify.com/album/3kFeiTzNEZG1w6Yy25K2xR"
-      },
-      "artists": [
-        {
-          "name": "The Gentleman Losers",
-          "url": "https://open.spotify.com/artist/7e8rT9wPUmfu9ZPC8Mym17"
-        }
-      ],
-      "duration_ms": 243533,
-      "name": "Shelter from the Rain",
-      "url": "https://open.spotify.com/track/54CKr6JUVSrFYbCWCvJqUs"
     },
     {
       "added_at": "2023-01-27 16:27:42",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-01-27 16:27:42",
       "album": {
-        "name": "Crossing the Shoreline",
-        "url": "https://open.spotify.com/album/0oD1pHEnsTiJPRHt88X090"
-      },
-      "artists": [
-        {
-          "name": "Aesthesys",
-          "url": "https://open.spotify.com/artist/0wdc6cxY8GzxkrMHGXSuOn"
-        }
-      ],
-      "duration_ms": 450666,
-      "name": "Sailing to Byzantium",
-      "url": "https://open.spotify.com/track/08DbQ8Nnd96hLiMMpioawQ"
-    },
-    {
-      "added_at": "2023-01-27 16:27:42",
-      "album": {
         "name": "Into The Mountains",
         "url": "https://open.spotify.com/album/1o5rlkGEnurky28y0aNk15"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 203012,
       "name": "The Sun In The Trees",
       "url": "https://open.spotify.com/track/6lowTdwj7REPPWwq7xExRS"
+    },
+    {
+      "added_at": "2023-01-27 16:27:42",
+      "album": {
+        "name": "Crossing the Shoreline",
+        "url": "https://open.spotify.com/album/0oD1pHEnsTiJPRHt88X090"
+      },
+      "artists": [
+        {
+          "name": "Aesthesys",
+          "url": "https://open.spotify.com/artist/0wdc6cxY8GzxkrMHGXSuOn"
+        }
+      ],
+      "duration_ms": 450666,
+      "name": "Sailing to Byzantium",
+      "url": "https://open.spotify.com/track/08DbQ8Nnd96hLiMMpioawQ"
     },
     {
       "added_at": "2023-01-27 16:27:42",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-01-27 16:27:42",
       "album": {
-        "name": "Succour (Redux)",
-        "url": "https://open.spotify.com/album/0ZFh0hss22TukAygB7LufU"
-      },
-      "artists": [
-        {
-          "name": "Seefeel",
-          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
-        }
-      ],
-      "duration_ms": 393195,
-      "name": "Monastic",
-      "url": "https://open.spotify.com/track/6hZtYl0fhKYJ3ptc6DiLnL"
-    },
-    {
-      "added_at": "2023-01-27 16:27:42",
-      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/1faB36WLHliVa6xqjzTtcu"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 332293,
       "name": "Sleeper",
       "url": "https://open.spotify.com/track/6BaIyArPOHgL2tvLFJ2mws"
+    },
+    {
+      "added_at": "2023-01-27 16:27:42",
+      "album": {
+        "name": "Succour (Redux)",
+        "url": "https://open.spotify.com/album/0ZFh0hss22TukAygB7LufU"
+      },
+      "artists": [
+        {
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+        }
+      ],
+      "duration_ms": 393195,
+      "name": "Monastic",
+      "url": "https://open.spotify.com/track/6hZtYl0fhKYJ3ptc6DiLnL"
     },
     {
       "added_at": "2023-01-27 16:27:42",
@@ -1235,22 +1235,18 @@
     {
       "added_at": "2023-01-27 16:27:42",
       "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/3AKrk1nvaTNAxwb17DEheV"
+        "name": "Leaking Light",
+        "url": "https://open.spotify.com/album/5tqUNXVJ9xo3ygoSsmCBbG"
       },
       "artists": [
         {
-          "name": "Sleepsleeprepeat",
-          "url": "https://open.spotify.com/artist/5y1SFoys6rcYo6dj6rmGPR"
-        },
-        {
-          "name": "Perry Frank",
-          "url": "https://open.spotify.com/artist/55vXnVPAEwec4swGa4P1GN"
+          "name": "Lachlan R. Dale",
+          "url": "https://open.spotify.com/artist/2RSfekOwEazZ2AzL0HB0t9"
         }
       ],
-      "duration_ms": 262285,
-      "name": "Dusk",
-      "url": "https://open.spotify.com/track/3iGE1kGYpyDTHVSVTS55os"
+      "duration_ms": 174133,
+      "name": "Leaking Light",
+      "url": "https://open.spotify.com/track/1u03aPhHVE5JM8U16842xB"
     },
     {
       "added_at": "2023-01-27 16:27:42",
@@ -1287,18 +1283,22 @@
     {
       "added_at": "2023-01-27 16:27:42",
       "album": {
-        "name": "Leaking Light",
-        "url": "https://open.spotify.com/album/5tqUNXVJ9xo3ygoSsmCBbG"
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/3AKrk1nvaTNAxwb17DEheV"
       },
       "artists": [
         {
-          "name": "Lachlan R. Dale",
-          "url": "https://open.spotify.com/artist/2RSfekOwEazZ2AzL0HB0t9"
+          "name": "Sleepsleeprepeat",
+          "url": "https://open.spotify.com/artist/5y1SFoys6rcYo6dj6rmGPR"
+        },
+        {
+          "name": "Perry Frank",
+          "url": "https://open.spotify.com/artist/55vXnVPAEwec4swGa4P1GN"
         }
       ],
-      "duration_ms": 174133,
-      "name": "Leaking Light",
-      "url": "https://open.spotify.com/track/1u03aPhHVE5JM8U16842xB"
+      "duration_ms": 262285,
+      "name": "Dusk",
+      "url": "https://open.spotify.com/track/3iGE1kGYpyDTHVSVTS55os"
     },
     {
       "added_at": "2023-01-27 16:27:42",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2023-01-27 16:27:42",
       "album": {
+        "name": "Hy-Brasil",
+        "url": "https://open.spotify.com/album/0Ovb8VJpDHHtTbqjbYhywu"
+      },
+      "artists": [
+        {
+          "name": "LIGHTS OUT ASIA",
+          "url": "https://open.spotify.com/artist/1jtXwxapRCfIUoU6gbGWzi"
+        }
+      ],
+      "duration_ms": 235213,
+      "name": "Abell 1835",
+      "url": "https://open.spotify.com/track/6hyj3mdLzyCq1Cd2F8S42o"
+    },
+    {
+      "added_at": "2023-01-27 16:27:42",
+      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/2FnyPVqxMi3DhDL9Ms53we"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 256026,
       "name": "Open Hill",
       "url": "https://open.spotify.com/track/5z8WzfZK6sapGFHOUYxbHW"
-    },
-    {
-      "added_at": "2023-01-27 16:27:42",
-      "album": {
-        "name": "Hy-Brasil",
-        "url": "https://open.spotify.com/album/0Ovb8VJpDHHtTbqjbYhywu"
-      },
-      "artists": [
-        {
-          "name": "LIGHTS OUT ASIA",
-          "url": "https://open.spotify.com/artist/1jtXwxapRCfIUoU6gbGWzi"
-        }
-      ],
-      "duration_ms": 235213,
-      "name": "Abell 1835",
-      "url": "https://open.spotify.com/track/6hyj3mdLzyCq1Cd2F8S42o"
     },
     {
       "added_at": "2023-01-27 16:27:42",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-01-27 16:27:42",
       "album": {
-        "name": "Songs to Disappear to",
-        "url": "https://open.spotify.com/album/3aLsCurarCN5BSpLQtz5uz"
-      },
-      "artists": [
-        {
-          "name": "McLarnan",
-          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
-        }
-      ],
-      "duration_ms": 257568,
-      "name": "Old Moon",
-      "url": "https://open.spotify.com/track/2nbmmiicbkivIF0olzk7JJ"
-    },
-    {
-      "added_at": "2023-01-27 16:27:42",
-      "album": {
         "name": "I Wonder As I Wander",
         "url": "https://open.spotify.com/album/375PRwWW8KXDcpiNBJMVNg"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 136846,
       "name": "I Wonder As I Wander",
       "url": "https://open.spotify.com/track/1WUI79LofTPndZDTs8r7dU"
+    },
+    {
+      "added_at": "2023-01-27 16:27:42",
+      "album": {
+        "name": "Songs to Disappear to",
+        "url": "https://open.spotify.com/album/3aLsCurarCN5BSpLQtz5uz"
+      },
+      "artists": [
+        {
+          "name": "McLarnan",
+          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
+        }
+      ],
+      "duration_ms": 257568,
+      "name": "Old Moon",
+      "url": "https://open.spotify.com/track/2nbmmiicbkivIF0olzk7JJ"
     },
     {
       "added_at": "2023-01-27 16:27:42",

@@ -2,7 +2,7 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Werenoi au top de la première playlist de rap français !
+> SDM au top de la première playlist de rap français !
 
 184 songs - 9 hr 28 min
 

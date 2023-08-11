@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Robert Finley
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,468 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,501 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 99 | [Pay Day](https://open.spotify.com/track/1iT4ldPXWLtm6L80p0V7Yh) | [Hans Theessink](https://open.spotify.com/artist/2e02wACgnPCZ1lPeQEUCom), [Big Daddy Wilson](https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr) | [Pay Day](https://open.spotify.com/album/2EcHCbjLJ5uPgDwkHPMoVa) | 3:17 |
 | 100 | [She Calls Me Kingfish](https://open.spotify.com/track/7txQNFAmmzHJezbLSVCclc) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [662](https://open.spotify.com/album/3oHvQF3GcnbPRsnp2pieAZ) | 3:12 |
 
-Snapshot ID: `MCxjNWE3NzgxYTNhNzY1Y2IxZGQ2MjA4MjY3NThkMzY0YWJjMzhkYjNj`
+Snapshot ID: `MCw4NTQyMjA3YTNjNmYxYmQ0MjMwYWRhMDAyZWExNTExNTQzODczZjk3`

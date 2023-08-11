@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 
 > Una selección de baladas para suspirar de amor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,540 likes - 90 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,584 likes - 90 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 56 | [Canción de Lejos](https://open.spotify.com/track/5VUDieOMNVcoHOecs4Nvpn) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Renacer](https://open.spotify.com/album/5buWZNy12nG4fqpakqf5gR) | 3:49 |
 | 57 | [Eterno Amor](https://open.spotify.com/track/7r16iJ5dJcdqFQJeh08GPs) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Eterno Amor](https://open.spotify.com/album/1Yxth9gcry4oASkewP9b6y) | 3:10 |
 | 58 | [Viaje](https://open.spotify.com/track/1sx0wAmnvniAus4EJzIN5g) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Viaje](https://open.spotify.com/album/3GVVx7A9HewidYwsqs518a) | 2:54 |
-| 59 | [Zambita pa' Enamorar](https://open.spotify.com/track/6TVKi26ExwcSdv7NhAi8Iq) | [Franco Ramirez](https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a) | [De Barrio](https://open.spotify.com/album/6hm9pBwn4NXDV29seneaJ7) | 3:12 |
-| 60 | [Mucho Más Que Piel](https://open.spotify.com/track/4NpOVJ3MRm2bn2SIBJU4aw) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Ven Por Mi](https://open.spotify.com/album/5iJ01M2dW7JSiUteLvn2D8) | 5:01 |
-| 61 | [Quédate](https://open.spotify.com/track/2MTuRel1Cm6ecWOyiN2hQ7) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Quedate](https://open.spotify.com/album/3bzGBcnH8VDRCM0gyq4rrT) | 4:27 |
+| 59 | [Mucho Más Que Piel](https://open.spotify.com/track/4NpOVJ3MRm2bn2SIBJU4aw) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Ven Por Mi](https://open.spotify.com/album/5iJ01M2dW7JSiUteLvn2D8) | 5:01 |
+| 60 | [Quédate](https://open.spotify.com/track/2MTuRel1Cm6ecWOyiN2hQ7) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Quedate](https://open.spotify.com/album/3bzGBcnH8VDRCM0gyq4rrT) | 4:27 |
+| 61 | [Zambita pa' Enamorar](https://open.spotify.com/track/6TVKi26ExwcSdv7NhAi8Iq) | [Franco Ramirez](https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a) | [De Barrio](https://open.spotify.com/album/6hm9pBwn4NXDV29seneaJ7) | 3:12 |
 | 62 | [La Flor](https://open.spotify.com/track/5AvuHRAVgEIXCo85GRPZRx) | [Francisco Benitez](https://open.spotify.com/artist/6egRIQTuB2wz5MbEBLfncj) | [La Flor](https://open.spotify.com/album/77BmF14sQo1mHv4Xw4g6lv) | 3:10 |
 | 63 | [Al Decir Adiós](https://open.spotify.com/track/06qoYqycYdCaq6UMfEdiNY) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Al Decir Adiós](https://open.spotify.com/album/53cIKsT8pb3688c5hzNpJ9) | 3:48 |
 | 64 | [Nada](https://open.spotify.com/track/3MZj5HNiSCfcBE4fMRiSpX) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Nada](https://open.spotify.com/album/0vfHVUcxFuIesJnzwubbbB) | 3:33 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 89 | [Ansiado Encuentro](https://open.spotify.com/track/4bgaEcs1bsLuV49Q67DtRT) | [ALEJANDRO FARIAS](https://open.spotify.com/artist/5p5tYck12ZHCLPdbFp13rh), [La Eulogia Folk](https://open.spotify.com/artist/044zb14KOZosDnxI71XpGr) | [Ansiado Encuentro](https://open.spotify.com/album/3Z3dyIUxHZfTlBarrWrHLR) | 4:35 |
 | 90 | [Tan Cerca En La Distancia](https://open.spotify.com/track/1Sz2bHW2ULcrp9qyHYUZzG) | [Los Juncales](https://open.spotify.com/artist/4d6yiiKUfZvhXlynmFVbtA) | [Tan Cerca En La Distancia](https://open.spotify.com/album/4RCRNdHuYCeV9jygMsAjVo) | 3:22 |
 
-Snapshot ID: `MCxjYWExNmRlMDhlNTZjNmJiZjRhODI2ZDBlZTljY2ZlN2M4NDEzNjg0`
+Snapshot ID: `MCwyZjAxN2NkMGU1YmEwZTVmYjUwMGJmNDY3YmZhMmNiZTlkYWRiNDQ2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 
 > Soft chill for the dreamy  ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,767 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,893 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 33 | [Baarish Ka Asar](https://open.spotify.com/track/6J4oLY2GEwOsUgEd50IpKy) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Baarish Ka Asar](https://open.spotify.com/album/6ZqPFOO9erbfD7BHpNn2Jj) | 4:05 |
 | 34 | [Ik Tu Hi \(No\-Mabe\)](https://open.spotify.com/track/7JJ9Q8QKrfauJWlZiol1Uf) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Rana Sotal](https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y) | [Ik Tu Hi \(No\-Mabe\)](https://open.spotify.com/album/4Nsj6qnnZXRs8YajlO6PGi) | 3:16 |
 | 35 | [Khabar Nahi](https://open.spotify.com/track/7Esjmr77c4SU5IlMtym7Ho) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Amanat Ali](https://open.spotify.com/artist/3W6xwT7LnBITpBcqdRq3lm), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Raja Hasan](https://open.spotify.com/artist/6ID2zdEFxXLChwiqQzf3ZA) | [Dostana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MzefJUmigFTnjful2wuum) | 4:19 |
-| 36 | [Girta Sambhalta](https://open.spotify.com/track/7zIZRuC4yEsLItRPD3hvf1) | [Aditya N.](https://open.spotify.com/artist/4hywkPZjNnWbisCuDpTB5d), [Nayantara Bhatkal](https://open.spotify.com/artist/6tTt2QJN9fk6o0xePqBiIA), [Class](https://open.spotify.com/artist/55QQRSnrc4sTCDqJPLz2w0) | [Class: Season 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3LYcCtX4jQcwUr2q9es85P) | 2:18 |
-| 37 | [Aisi Raaton](https://open.spotify.com/track/0RSGPiykniIg8m7JhiAVv7) | [Anupam Roy](https://open.spotify.com/artist/5LZ894xYE9MG1sal0gjt5L) | [Aisi Raaton](https://open.spotify.com/album/1m45OoirgSzgEF5sLT8i2R) | 3:38 |
+| 36 | [Aisi Raaton](https://open.spotify.com/track/0RSGPiykniIg8m7JhiAVv7) | [Anupam Roy](https://open.spotify.com/artist/5LZ894xYE9MG1sal0gjt5L) | [Aisi Raaton](https://open.spotify.com/album/1m45OoirgSzgEF5sLT8i2R) | 3:38 |
+| 37 | [Girta Sambhalta](https://open.spotify.com/track/7zIZRuC4yEsLItRPD3hvf1) | [Aditya N.](https://open.spotify.com/artist/4hywkPZjNnWbisCuDpTB5d), [Nayantara Bhatkal](https://open.spotify.com/artist/6tTt2QJN9fk6o0xePqBiIA), [Class](https://open.spotify.com/artist/55QQRSnrc4sTCDqJPLz2w0) | [Class: Season 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3LYcCtX4jQcwUr2q9es85P) | 2:18 |
 | 38 | [Khoya](https://open.spotify.com/track/0P4AQdNDgEdi7J8mpgY8Jx) | [Zariya](https://open.spotify.com/artist/1f7a91vYZcvnBsTRvxFff1), [Aseem](https://open.spotify.com/artist/2Z5Fwohe32YFEjPpuiSAo1) | [Khoya](https://open.spotify.com/album/2AjolCCtmTdfRkQsvl4TeA) | 2:58 |
 | 39 | [Dhaaga](https://open.spotify.com/track/4wUtptr1RLnHyTlkbUKutH) | [Nilotpal Bora](https://open.spotify.com/artist/2JexWjjyHRNgAiDXNn7rsV) | [Aspirants: Season 1 \(Music From the TVF Original Series\)](https://open.spotify.com/album/3hFz046pdpJkSIGSXtG5jE) | 3:52 |
 | 40 | [Badra Bahara](https://open.spotify.com/track/6i9997Q9R4M7RuqQEHq3ed) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Badra Bahara](https://open.spotify.com/album/4rmIiT592uOXCMNR1nbhvl) | 2:36 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 74 | [Zaroori Nahi](https://open.spotify.com/track/12O0B3JWQMQH94BKLqMHcv) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Dhun](https://open.spotify.com/album/4WogXQVX9nOrjbaTzFXnGN) | 2:19 |
 | 75 | [Sooha Saaha](https://open.spotify.com/track/54dHaY92XZ47ltrZqZulGt) | [Zeb](https://open.spotify.com/artist/1Gw0Q0Oyi46o9Qd5oOQuv9), [Alia Bhatt](https://open.spotify.com/artist/1KccfGBzQmZIU6kehTWwIo) | [Highway](https://open.spotify.com/album/4MRvvPTLIVBHVEMfVC20jI) | 4:59 |
 
-Snapshot ID: `MCw2Njc1ZmRhN2E0Nzk5NjgzMTk4OGFiY2Q1ZDgzODYzYzU1Nzg1N2Y0`
+Snapshot ID: `MCxkYTMyOGEzYWQ0YTdhYjMxNGI0YjYyZDA1YmQ3OWI5NzE5YWExNzVl`

@@ -4,7 +4,7 @@
 
 > New Hip Hop from India.
 
-131 songs - 7 hr 16 min
+132 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Rishte](https://open.spotify.com/track/2RKQzkqmZvqGr1G328uocF) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [Bhram \(Deluxe\)](https://open.spotify.com/album/79E5VDPJEVHjfwVoQw6v9d) | 4:17 | 2023-03-29 | 2023-07-21 |
 | [RVAB](https://open.spotify.com/track/3H6YvlZ35ed4vD7AXYwHcj) | [Dhanji](https://open.spotify.com/artist/1OVeQPd27s1MkICbzBfZTV), [Circle Tone](https://open.spotify.com/artist/5FLdl3TGJp0xXgUSimW2yQ), [unfuckman](https://open.spotify.com/artist/07GlkSE03UKsOS90sHgOIC) | [RUAB](https://open.spotify.com/album/7kkeViLxDfmxJeNUClsQWk) | 4:28 | 2023-08-08 |  |
 | [SAARI SAARI RAAT](https://open.spotify.com/track/3MeNlgFQHyVMhATxsJEN2g) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F) | [SAARI SAARI RAAT](https://open.spotify.com/album/0pCFes7vyy7vavgedlkwYv) | 2:49 | 2023-03-29 | 2023-04-17 |
+| [Samajh Rahi Hai](https://open.spotify.com/track/680FKrGby9wBLFIzY2MFf9) | [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0), [Spectra Music](https://open.spotify.com/artist/6kQXMHA8JGJQsRsMBqqe7l) | [Samajh Rahi Hai](https://open.spotify.com/album/1k8V6kgfwZp4Bx7IyqzTQ4) | 2:53 | 2023-08-10 |  |
 | [Sanak](https://open.spotify.com/track/3SiQsAVS3CDJQzWPRyX1XP) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Lakhwinder Wadali](https://open.spotify.com/artist/1SAfLgPPu8S6NWUJES6LNO) | [3:00 AM Sessions](https://open.spotify.com/album/7o9sqNRikTO3eeira2Qlx2) | 1:55 | 2023-03-29 |  |
 | [Scene Change](https://open.spotify.com/track/5IVfZKvSkv8XtlswgBcmCE) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Scene Change](https://open.spotify.com/album/5kbJnCRw1otr7gLtD515ZH) | 3:30 | 2023-03-29 |  |
 | [Second Day Of School](https://open.spotify.com/track/0suHYhqXOeGDXg26tqL2UJ) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Harjas Harjaayi](https://open.spotify.com/artist/19Ttezcs1d4HqzP5etqyaI) | [God Is Watching Through Birds](https://open.spotify.com/album/0ZH2sDBTe5f6u2selUJX9P) | 4:05 | 2023-06-23 |  |

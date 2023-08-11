@@ -1175,6 +1175,24 @@
     },
     {
       "album": {
+        "name": "something about kiss",
+        "url": "https://open.spotify.com/album/2ReKtitdhRxSgXiRvFJlh0"
+      },
+      "artists": [
+        {
+          "name": "noa",
+          "url": "https://open.spotify.com/artist/3YFWyQgtNl7SbZVu26hCRY"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249600,
+      "name": "something about kiss",
+      "url": "https://open.spotify.com/track/6Zdso9pywHkrYbnsRFlWLv"
+    },
+    {
+      "album": {
         "name": "ANTENNA",
         "url": "https://open.spotify.com/album/3j7aiYai9ezbvxVCgrd2mb"
       },
@@ -1348,7 +1366,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 315500,
       "name": "TSUNAMI",
       "url": "https://open.spotify.com/track/2iXZA6Ecf9AZHw92tZBNLv"
@@ -1438,7 +1456,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 295600,
       "name": "Wherever you are",
       "url": "https://open.spotify.com/track/0YAMQSmHk6BSUGTYpaoqTJ"
@@ -2135,6 +2153,24 @@
     },
     {
       "album": {
+        "name": "\u5b63\u5104\u306e\u7bb1",
+        "url": "https://open.spotify.com/album/5vBcyTeKwu2h7JBdkjhURs"
+      },
+      "artists": [
+        {
+          "name": "\u3042\u305f\u3089\u3088",
+          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251142,
+      "name": "\u4eca\u591c2\u4eba\u3060\u3051\u306e\u30c0\u30f3\u30b9\u3092",
+      "url": "https://open.spotify.com/track/6ljAfGfbmkBnhEwREQQsAY"
+    },
+    {
+      "album": {
         "name": "\u540d\u524d\u306f\u7247\u60f3\u3044",
         "url": "https://open.spotify.com/album/6S12v6NjkFLwQwLxxavHY9"
       },
@@ -2542,7 +2578,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 261546,
       "name": "\u681e",
       "url": "https://open.spotify.com/track/2Bsg6EfrmEx0x0eC8v4vuG"
@@ -2798,6 +2834,24 @@
       "duration_ms": 239566,
       "name": "\u8776\u3064\u304c\u3044",
       "url": "https://open.spotify.com/track/4RvIgVPwxb9AWSqAiOMinO"
+    },
+    {
+      "album": {
+        "name": "\u3059\u308b\u3069\u3044\u3055\u3055\u304f\u308c",
+        "url": "https://open.spotify.com/album/7cLT6wmWAnltQhrBDo6jUt"
+      },
+      "artists": [
+        {
+          "name": "\u30c1\u30e7\u30fc\u30ad\u30e5\u30fc\u30e1\u30a4",
+          "url": "https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234117,
+      "name": "\u8cb4\u65b9\u306e\u604b\u4eba\u306b\u306a\u308a\u305f\u3044",
+      "url": "https://open.spotify.com/track/5O7dUqcxMUVPFL9YAE9e7q"
     },
     {
       "album": {

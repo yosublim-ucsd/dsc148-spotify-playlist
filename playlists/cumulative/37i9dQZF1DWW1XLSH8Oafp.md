@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring MCR\-T & horsegiirL
 
-685 songs - 1 day 14 hr 46 min
+689 songs - 1 day 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,6 +296,7 @@
 | [home](https://open.spotify.com/track/0fAuuR5hoWZtTMpuqqxAGy) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [home](https://open.spotify.com/album/1mjbcrgdY8PNeFDGBLsa55) | 4:05 | 2022-01-21 | 2022-12-03 |
 | [HOMOSEXUAL](https://open.spotify.com/track/52JVlAIVYVJ47TD5ek5xxn) | [IX Fall$](https://open.spotify.com/artist/2dSovjwYl3QCrqyppFIovD), [florent!a](https://open.spotify.com/artist/7ayLUBXOg93y0lF36ShcLH) | [HOMOSEXUAL](https://open.spotify.com/album/0XXc1yC8PO7a3sQDnVPQnm) | 4:21 | 2022-03-18 | 2022-04-02 |
 | [Honey](https://open.spotify.com/track/5bZCPryqByxbKAnF2bHons) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 3:40 | 2022-09-30 | 2023-01-21 |
+| [Honey Child](https://open.spotify.com/track/4s8pYCTyKtpW6InPbyxj8O) | [Ammara](https://open.spotify.com/artist/7GqNimUoiYFht4cYL0cT0I) | [Honey Child](https://open.spotify.com/album/4QXPVtv2HI92XulT9TsS71) | 2:31 | 2023-08-10 |  |
 | [House Music 2 The W❤rld](https://open.spotify.com/track/6I8AhFn7Irxgx79TbufHzp) | [Mainline Magic Orchestra](https://open.spotify.com/artist/05zSozHG9kAvZTCmEo1fFT) | [House Music 2 The W❤rld](https://open.spotify.com/album/2xvH073iDIvpBJGFdIsjGi) | 2:56 | 2023-05-25 |  |
 | [House of Trix](https://open.spotify.com/track/2OUGmusXrRYbJwyljvbReI) | [Neggy Gemmy](https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW) | [Utopia](https://open.spotify.com/album/5eBYBoEzA2Xl5iwiToxcLj) | 3:07 | 2021-07-23 | 2022-02-19 |
 | [hover](https://open.spotify.com/track/1tJXHqMrfashk5Ur0DY340) | [DJ Kuroneko](https://open.spotify.com/artist/1utT39CwCZruFdvmbvDusl) | [u//me](https://open.spotify.com/album/6NZBxFRzWZFFHO87etHqNe) | 4:07 | 2022-09-16 | 2022-12-03 |
@@ -319,6 +320,7 @@
 | [I Want to Go to There](https://open.spotify.com/track/3fe0sBQNrGVyDr0jF5B4Cg) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [Bad Behavior](https://open.spotify.com/album/5KpZDGzJLiqP0Ek0owr9xe) | 2:26 | 2023-03-03 |  |
 | [I Watch The Moon](https://open.spotify.com/track/4RcM5BgE5N5oMU0EDNT8kr) | [itsmebby](https://open.spotify.com/artist/2GqBbs36wJM8t2vOzXwFP8) | [I Watch The Moon](https://open.spotify.com/album/5erK8j7zQ7xX6Xk711kjCr) | 2:29 | 2022-11-25 |  |
 | [i've got a bf \(best friend\)](https://open.spotify.com/track/34OjRqhUtpC3lkhsVpIr1D) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA), [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [i've got a bf \(best friend\)](https://open.spotify.com/album/5db7wptFrRLFAp6ob1oqec) | 2:28 | 2023-07-06 |  |
+| [In Luv](https://open.spotify.com/track/5TqJk3sBqryMoZqKMYxUnG) | [Good Luck](https://open.spotify.com/artist/4qjYf4FY77csjIalUFicQS) | [In Luv](https://open.spotify.com/album/0K4faqdamNDNazCkrhcT0l) | 5:22 | 2023-08-10 |  |
 | [in my closet](https://open.spotify.com/track/48GvmXwI4c36lzW21byz3H) | [Catnapp](https://open.spotify.com/artist/2W47Nby5KFaS1pdUt7qmCU), [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ) | [in my closet](https://open.spotify.com/album/5l7VNatAUY3dVj3kIoJ9kI) | 3:32 | 2022-04-22 | 2022-05-07 |
 | [in my head](https://open.spotify.com/track/7cWvWr9JTwQ4NFmvgYyNR0) | [joss lockwood](https://open.spotify.com/artist/7c0umSPytMVzf1GT9eL7f2) | [in my head](https://open.spotify.com/album/1kwmTBvSKbt6e03fVrxCGV) | 1:58 | 2022-05-13 | 2022-12-10 |
 | [In my restless dreams](https://open.spotify.com/track/7ABRoH86hTrLEQmh1HimRH) | [\*teeth](https://open.spotify.com/artist/3L0Y3HCo2pOCKATQOTvWvn) | [In my restless dreams](https://open.spotify.com/album/1oSdlWsyzCIo8Ly26dnufu) | 4:46 | 2022-07-11 | 2022-11-19 |
@@ -641,6 +643,7 @@
 | [v0013](https://open.spotify.com/track/46guwiCD3lXaB3cjSfRnwy) | [yion](https://open.spotify.com/artist/0SKj35DCAPNfu3KVUBTiVE) | [v0013](https://open.spotify.com/album/310MLqcIAqRpbgKUKukR16) | 2:27 | 2022-09-02 | 2023-01-14 |
 | [Vexed](https://open.spotify.com/track/0AWkXy7GTpvh8h85Np8Ug0) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Vexed](https://open.spotify.com/album/7hHnSz1lNjLVggdmiz0B63) | 2:21 | 2022-09-16 | 2022-12-01 |
 | [Vexed](https://open.spotify.com/track/1ygKweLJhtyXz51C5o0hij) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Fortune Cookie](https://open.spotify.com/album/25hxrIRl5CcBV7nAoJFiW8) | 2:21 | 2022-09-16 | 2022-12-10 |
+| [Video Calls \- Flourish Remix](https://open.spotify.com/track/2NdHC61NfH9jEkZxeWBWus) | [Taura Lamb](https://open.spotify.com/artist/6YvaXV2q3iL1MyxYiiDWbH), [Flourish](https://open.spotify.com/artist/5FyEVZanhJH5rwTLxKrmJ7) | [Video Calls \(Flourish Remix\)](https://open.spotify.com/album/7FqdBvhwZ6ZVXz1Rh1dM2b) | 3:05 | 2023-08-10 |  |
 | [vision$$](https://open.spotify.com/track/2R40Mf4ntKNb1B2ZqOBmIo) | [benzii](https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1) | [vision$$](https://open.spotify.com/album/6Zm46AoNgp8cLCWzuqWMKD) | 3:36 | 2023-06-22 |  |
 | [Visited By Astronauts \(SHERELLE Had A Groove Remix\)](https://open.spotify.com/track/5UlfojmfPdNxLnt5qcBx93) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI), [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [Visited By Astronauts \(SHERELLE Had A Groove Remix\)](https://open.spotify.com/album/7uWrC80CdnlDRoe9pUI1yn) | 4:36 | 2022-02-18 | 2022-04-16 |
 | [VODKA REDBULL](https://open.spotify.com/track/61qgLjnMr3ModOOIb9DeNY) | [Swan Meat](https://open.spotify.com/artist/20GBDDzRPgnhVRuIjkrSd6) | [VODKA REDBULL](https://open.spotify.com/album/2wPn6Gz0LvDQ7OvnaxGDp2) | 5:00 | 2023-02-14 |  |
@@ -679,6 +682,7 @@
 | [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/track/4uK0HBycTNPrY2gBz86aT0) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/album/3OxkywfJhqbLeuNopSEVw9) | 2:40 | 2022-08-05 | 2022-11-12 |
 | [words](https://open.spotify.com/track/0MjMYoSWmtVYAhv1Uj3zQO) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [words](https://open.spotify.com/album/4BmDulVoVXieakGP3ZrJqn) | 3:09 | 2022-04-22 | 2022-09-03 |
 | [Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 4:53 | 2021-10-01 | 2022-04-16 |
+| [yea](https://open.spotify.com/track/5tzelfbojCwhwPxMjZB1Q8) | [let me you](https://open.spotify.com/artist/4D5bNOz5mLxAdGBqqvqVMS) | [yea](https://open.spotify.com/album/6i1VYFEhPYUDp7Ke6MSFl7) | 1:53 | 2023-08-10 |  |
 | [Yesterday \(Digital Underground\)](https://open.spotify.com/track/6WFR383k5UwdWg6JuINlrm) | [Scuba](https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx) | [Yesterday \(Digital Underground\)](https://open.spotify.com/album/23TzcfGtCrzy83yLYNSWPe) | 3:37 | 2023-07-06 |  |
 | [You Don't Have To Worry](https://open.spotify.com/track/4GTcv071eE7WLFp7SintLr) | [Chrissy](https://open.spotify.com/artist/04zsBrhqOL2WNQvd5MDupE) | [You Don't Have To Worry](https://open.spotify.com/album/4bzyLLkiDFRy9BePIiFaps) | 4:55 | 2022-09-30 | 2023-05-19 |
 | [you're a parasite](https://open.spotify.com/track/2uMv1AvQhvXk4F3DAeABGg) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [you're a parasite](https://open.spotify.com/album/0gxx85pC89jMKmPIyL0kPa) | 2:32 | 2022-06-10 | 2022-09-24 |

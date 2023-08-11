@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Damares",
-  "num_followers": 88425,
+  "num_followers": 88583,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODFhYWZkNjBkYjZjODlhZDVjZjQ4MjczN2I2NmI4ZjA2NzM0NjZk",
+  "snapshot_id": "MCwxN2FhYjRkNzU4NTQ3MjU3ZmYxNDU2N2Q0MmQxNzkxODFjYzk4MDUw",
   "tracks": [
     {
       "added_at": "2023-08-04 17:51:21",
@@ -347,22 +347,18 @@
     {
       "added_at": "2023-08-04 17:51:21",
       "album": {
-        "name": "Terceiro C\u00e9u",
-        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
+        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
       },
       "artists": [
         {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        },
-        {
-          "name": "Can\u00e7\u00e3o & Louvor",
-          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 267398,
-      "name": "O Le\u00e3o",
-      "url": "https://open.spotify.com/track/3xMzTie4gkSwKbI7YhBi9d"
+      "duration_ms": 234520,
+      "name": "Eu N\u00e3o Mere\u00e7o (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0"
     },
     {
       "added_at": "2023-08-04 17:51:21",
@@ -383,18 +379,22 @@
     {
       "added_at": "2023-08-04 17:51:21",
       "album": {
-        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
+        "name": "Terceiro C\u00e9u",
+        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
       },
       "artists": [
         {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        },
+        {
+          "name": "Can\u00e7\u00e3o & Louvor",
+          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
         }
       ],
-      "duration_ms": 234520,
-      "name": "Eu N\u00e3o Mere\u00e7o (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0"
+      "duration_ms": 267398,
+      "name": "O Le\u00e3o",
+      "url": "https://open.spotify.com/track/3xMzTie4gkSwKbI7YhBi9d"
     },
     {
       "added_at": "2023-08-04 17:51:21",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-08-04 17:51:21",
       "album": {
-        "name": "Sou Deus",
-        "url": "https://open.spotify.com/album/349D416lPCZBQUAUC6SnQb"
-      },
-      "artists": [
-        {
-          "name": "Eli\u00e3 Oliveira",
-          "url": "https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz"
-        }
-      ],
-      "duration_ms": 255500,
-      "name": "Sou Deus",
-      "url": "https://open.spotify.com/track/3CeyF9U9g3lkqs7LrE3Ddv"
-    },
-    {
-      "added_at": "2023-08-04 17:51:21",
-      "album": {
         "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5krQc3WjA9sFkaWqrd5Qur"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 314542,
       "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
       "url": "https://open.spotify.com/track/27YQDARCxhQ9jOsVH6ICfX"
+    },
+    {
+      "added_at": "2023-08-04 17:51:21",
+      "album": {
+        "name": "Sou Deus",
+        "url": "https://open.spotify.com/album/349D416lPCZBQUAUC6SnQb"
+      },
+      "artists": [
+        {
+          "name": "Eli\u00e3 Oliveira",
+          "url": "https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz"
+        }
+      ],
+      "duration_ms": 255500,
+      "name": "Sou Deus",
+      "url": "https://open.spotify.com/track/3CeyF9U9g3lkqs7LrE3Ddv"
     },
     {
       "added_at": "2023-08-04 17:51:21",
@@ -803,26 +803,6 @@
     {
       "added_at": "2023-08-04 17:51:21",
       "album": {
-        "name": "Vendavais (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3Ij0TmdXKBzx3iq9pRpSNV"
-      },
-      "artists": [
-        {
-          "name": "Shirley Carvalhaes",
-          "url": "https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT"
-        },
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        }
-      ],
-      "duration_ms": 369635,
-      "name": "Vendavais - Ao Vivo",
-      "url": "https://open.spotify.com/track/0qdZ1ORxeOMSFMBhi8MikJ"
-    },
-    {
-      "added_at": "2023-08-04 17:51:21",
-      "album": {
         "name": "Que Tal",
         "url": "https://open.spotify.com/album/4sh2KYWC7o3oZfxpw37ZOH"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 309001,
       "name": "Que Tal",
       "url": "https://open.spotify.com/track/259CE2u6OzqsZs7P0cvMK4"
+    },
+    {
+      "added_at": "2023-08-04 17:51:21",
+      "album": {
+        "name": "Vendavais (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3Ij0TmdXKBzx3iq9pRpSNV"
+      },
+      "artists": [
+        {
+          "name": "Shirley Carvalhaes",
+          "url": "https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT"
+        },
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        }
+      ],
+      "duration_ms": 369635,
+      "name": "Vendavais - Ao Vivo",
+      "url": "https://open.spotify.com/track/0qdZ1ORxeOMSFMBhi8MikJ"
     },
     {
       "added_at": "2023-08-04 17:51:21",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2023-08-04 17:51:21",
       "album": {
+        "name": "Sobre o Mar",
+        "url": "https://open.spotify.com/album/4qOb4W5r9DScFuzTyW2lHJ"
+      },
+      "artists": [
+        {
+          "name": "Kiara Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00"
+        }
+      ],
+      "duration_ms": 377884,
+      "name": "Sobre o Mar",
+      "url": "https://open.spotify.com/track/3h0W09nYhV6Pd0tCUttU3o"
+    },
+    {
+      "added_at": "2023-08-04 17:51:21",
+      "album": {
         "name": "Dependente (Ao Vivo)",
         "url": "https://open.spotify.com/album/7qHGquEd06kYoHL2m21VyK"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 240000,
       "name": "Dependente (Ao Vivo)",
       "url": "https://open.spotify.com/track/2b30Def2AnAOJC5tiJyj7u"
-    },
-    {
-      "added_at": "2023-08-04 17:51:21",
-      "album": {
-        "name": "Sobre o Mar",
-        "url": "https://open.spotify.com/album/4qOb4W5r9DScFuzTyW2lHJ"
-      },
-      "artists": [
-        {
-          "name": "Kiara Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00"
-        }
-      ],
-      "duration_ms": 377884,
-      "name": "Sobre o Mar",
-      "url": "https://open.spotify.com/track/3h0W09nYhV6Pd0tCUttU3o"
     },
     {
       "added_at": "2023-08-04 17:51:21",

@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 28047,
+  "num_followers": 28068,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZmZmNDIyMDY0ZmViYWY0NGY1N2UzZGRkNTc5MzViOWUwMDU4NTQ1",
+  "snapshot_id": "MCwwNDg0YmU0ZmNmYTJlZWRlODRlYjcxMWIwYWQ3ODkwNzczNzJkNDRj",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -351,6 +351,26 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Finding Foundations (The Remixes)",
+        "url": "https://open.spotify.com/album/3k2eNuf5EEc1KUMrjJaskk"
+      },
+      "artists": [
+        {
+          "name": "Madison McFerrin",
+          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
+        },
+        {
+          "name": "Photay",
+          "url": "https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F"
+        }
+      ],
+      "duration_ms": 367413,
+      "name": "Learn Your Lesson - Photay Remix",
+      "url": "https://open.spotify.com/track/3s8yxBdiXFlEi6y0gfGreR"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Trips #2: Vietnam",
         "url": "https://open.spotify.com/album/1NNk1ZIK6pil96rgNOXuBY"
       },
@@ -371,26 +391,6 @@
       "duration_ms": 440341,
       "name": "Ho Chi Min",
       "url": "https://open.spotify.com/track/2vykok21C0IyTjpvUOcBWi"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Finding Foundations (The Remixes)",
-        "url": "https://open.spotify.com/album/3k2eNuf5EEc1KUMrjJaskk"
-      },
-      "artists": [
-        {
-          "name": "Madison McFerrin",
-          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
-        },
-        {
-          "name": "Photay",
-          "url": "https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F"
-        }
-      ],
-      "duration_ms": 367413,
-      "name": "Learn Your Lesson - Photay Remix",
-      "url": "https://open.spotify.com/track/3s8yxBdiXFlEi6y0gfGreR"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -655,18 +655,18 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Highlife World Series: Cuba",
-        "url": "https://open.spotify.com/album/5H7bXAW9DD4rhFsVcFInkE"
+        "name": "Laamore",
+        "url": "https://open.spotify.com/album/3qawW9LV2i8RHgBqmfXYHO"
       },
       "artists": [
         {
-          "name": "Auntie Flo",
-          "url": "https://open.spotify.com/artist/6XYOjW5wxf5V9hwAR58o4d"
+          "name": "Hidden Spheres",
+          "url": "https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa"
         }
       ],
-      "duration_ms": 356313,
-      "name": "Mother Theresa - Original Mix",
-      "url": "https://open.spotify.com/track/59IQ2oXNWFyoNJmISYjj7I"
+      "duration_ms": 280895,
+      "name": "Laamore",
+      "url": "https://open.spotify.com/track/4uC2RrHmTfq96i55BTk1ML"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -687,18 +687,18 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Laamore",
-        "url": "https://open.spotify.com/album/3qawW9LV2i8RHgBqmfXYHO"
+        "name": "Highlife World Series: Cuba",
+        "url": "https://open.spotify.com/album/5H7bXAW9DD4rhFsVcFInkE"
       },
       "artists": [
         {
-          "name": "Hidden Spheres",
-          "url": "https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa"
+          "name": "Auntie Flo",
+          "url": "https://open.spotify.com/artist/6XYOjW5wxf5V9hwAR58o4d"
         }
       ],
-      "duration_ms": 280895,
-      "name": "Laamore",
-      "url": "https://open.spotify.com/track/4uC2RrHmTfq96i55BTk1ML"
+      "duration_ms": 356313,
+      "name": "Mother Theresa - Original Mix",
+      "url": "https://open.spotify.com/track/59IQ2oXNWFyoNJmISYjj7I"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -827,6 +827,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Umami",
+        "url": "https://open.spotify.com/album/6om5wLwMEeQcY1Uwlh7Oel"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "duration_ms": 416871,
+      "name": "Night Of Desirable Objects",
+      "url": "https://open.spotify.com/track/6aO19OZDf9v2mwDDAiwGvB"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Xover",
         "url": "https://open.spotify.com/album/08OWYxVuGW8F7Ne2TdNMUp"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 239373,
       "name": "Pi\u00f1a Colada",
       "url": "https://open.spotify.com/track/5wt62HFSYWz87H5dztBufJ"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Umami",
-        "url": "https://open.spotify.com/album/6om5wLwMEeQcY1Uwlh7Oel"
-      },
-      "artists": [
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        }
-      ],
-      "duration_ms": 416871,
-      "name": "Night Of Desirable Objects",
-      "url": "https://open.spotify.com/track/6aO19OZDf9v2mwDDAiwGvB"
     },
     {
       "added_at": "2021-10-08 17:36:35",

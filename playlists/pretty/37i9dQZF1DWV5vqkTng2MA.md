@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Abraham Alexander
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,843 likes - 90 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,921 likes - 90 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 45 | [Pining](https://open.spotify.com/track/2necAV33vY9L5x2SUXYZeY) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Very Last Day](https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T) | 2:44 |
 | 46 | [Sugaree](https://open.spotify.com/track/67zZz0GRLNvouSyidwRt2Y) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP), [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED), [Friends](https://open.spotify.com/artist/0R2qhaNYSKYhYKeRMYwrpN) | [Day of the Dead](https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz) | 4:59 |
 | 47 | [Powder Blue](https://open.spotify.com/track/4eml8c7ZKYbMPFNgtfiwou) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [You're Dreaming](https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG) | 2:23 |
-| 48 | [For the Time Being](https://open.spotify.com/track/0b0rwzZCms56M9VvEWkd0M) | [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn), [Will Leet](https://open.spotify.com/artist/2ArFmY25rRvP5RFJpHkqLi) | [For the Time Being](https://open.spotify.com/album/34yEKd4Ee3yKFyhlKtAL8o) | 4:05 |
-| 49 | [Big Time](https://open.spotify.com/track/1K2Hql13Y6fcOSy2Y15qNm) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:07 |
+| 48 | [Big Time](https://open.spotify.com/track/1K2Hql13Y6fcOSy2Y15qNm) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:07 |
+| 49 | [For the Time Being](https://open.spotify.com/track/0b0rwzZCms56M9VvEWkd0M) | [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn), [Will Leet](https://open.spotify.com/artist/2ArFmY25rRvP5RFJpHkqLi) | [For the Time Being](https://open.spotify.com/album/34yEKd4Ee3yKFyhlKtAL8o) | 4:05 |
 | 50 | [Katchi](https://open.spotify.com/track/09uXepY9uC1cUlvZ6kbOy6) | [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Never Twice](https://open.spotify.com/album/1gzWphTk6PqMZ5qWbVaBk4) | 3:40 |
 | 51 | [Love All Night \(Work All Day\)](https://open.spotify.com/track/5hU65O4zB6ZadLcFWApNf8) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Walk Through Fire \(Deluxe Edition\)](https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL) | 3:33 |
 | 52 | [Sold My Soul](https://open.spotify.com/track/7C6hHmGVWw4SzewfvFU2Hc) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Nobody Lives Here Anymore](https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c) | 6:11 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 65 | [Riot In The Streets](https://open.spotify.com/track/1vXstUplbFJ0W8DyY39eVL) | [Pokey LaFarge](https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT) | [Manic Revelations](https://open.spotify.com/album/1Arn19nO6SGk8kA0cqN3MA) | 3:40 |
 | 66 | [How Bad We Need Each Other](https://open.spotify.com/track/0gWcJrbC41WK5qsKowO0tz) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [Out Of Style](https://open.spotify.com/album/2PbLPXxJ8Hh5PWVrcwgM5T) | 3:13 |
 | 67 | [Only You](https://open.spotify.com/track/1WeEXE3w0FkgPLUEOeoG9J) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Delilah](https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ) | 2:46 |
-| 68 | [Morning Coffee](https://open.spotify.com/track/5JChez1hix3cio2LrHgScq) | [Jesper Munk](https://open.spotify.com/artist/7lS8dsCoC7M6QbNp3MRpmw) | [CLAIM](https://open.spotify.com/album/0pnpObbo9YZxQ9MzZ1A2Br) | 3:35 |
-| 69 | [Over My Head](https://open.spotify.com/track/36G3OLXhaR43SQDAC98dzt) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [Gold Shadow](https://open.spotify.com/album/3ONqRU4a6LR16GJ80ld0Gz) | 2:36 |
+| 68 | [Over My Head](https://open.spotify.com/track/36G3OLXhaR43SQDAC98dzt) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [Gold Shadow](https://open.spotify.com/album/3ONqRU4a6LR16GJ80ld0Gz) | 2:36 |
+| 69 | [Morning Coffee](https://open.spotify.com/track/5JChez1hix3cio2LrHgScq) | [Jesper Munk](https://open.spotify.com/artist/7lS8dsCoC7M6QbNp3MRpmw) | [CLAIM](https://open.spotify.com/album/0pnpObbo9YZxQ9MzZ1A2Br) | 3:35 |
 | 70 | [B\. Santa Ana, 1986](https://open.spotify.com/track/5qwQD3zccHVx6YdknvbCyv) | [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr) | [Promenade Blue](https://open.spotify.com/album/586oHuLtO05ObUhSmsWrJT) | 2:34 |
 | 71 | [The Ballad of Johnny](https://open.spotify.com/track/2A32JdgX32o5yUloJMq4Q3) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [A Light That Never Dies](https://open.spotify.com/album/7LH0Sg7HCq6DRKwjloezQ1) | 2:53 |
 | 72 | [Slipping](https://open.spotify.com/track/5qVgjRn125fERbF5bY7Zvb) | [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [Aviary: Act 1](https://open.spotify.com/album/7sVyk1fdhhiBcguh15NN3N) | 3:42 |
@@ -92,11 +92,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 82 | [Trouble Is](https://open.spotify.com/track/6hEXUoac3X1sDGUzMtzVPK) | [Justin Townes Earle](https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq) | [Kids In The Street](https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU) | 3:22 |
 | 83 | [Stay Right Here](https://open.spotify.com/track/0jQTagUb62PG7IcaFdR4s7) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Stay Right Here](https://open.spotify.com/album/5fSnsS6vf9eovM8R3nvKNn) | 4:09 |
 | 84 | [Place Names](https://open.spotify.com/track/6NNCDDqsr4q1Ew2ube9Ujp) | [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr) | [Promenade Blue](https://open.spotify.com/album/586oHuLtO05ObUhSmsWrJT) | 3:53 |
-| 85 | [Don't Want to Say Good\-bye](https://open.spotify.com/track/2KOAvJEVENkb1he87yrgLC) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Hollow Ground](https://open.spotify.com/album/6sBFwUUcaUyWmLdlrDq0H5) | 2:51 |
-| 86 | [Midnight Wine](https://open.spotify.com/track/29ya2cQa0u96dSTctywzHI) | [Shannon & The Clams](https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE) | [Year Of The Spider](https://open.spotify.com/album/2t9TN9PcDnAcLZCP9odxLY) | 3:18 |
+| 85 | [Midnight Wine](https://open.spotify.com/track/29ya2cQa0u96dSTctywzHI) | [Shannon & The Clams](https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE) | [Year Of The Spider](https://open.spotify.com/album/2t9TN9PcDnAcLZCP9odxLY) | 3:18 |
+| 86 | [Don't Want to Say Good\-bye](https://open.spotify.com/track/2KOAvJEVENkb1he87yrgLC) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Hollow Ground](https://open.spotify.com/album/6sBFwUUcaUyWmLdlrDq0H5) | 2:51 |
 | 87 | [Party City](https://open.spotify.com/track/0aQuBy6wRLPE3Al7Eqv3Fa) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Sir Woman](https://open.spotify.com/album/1YrapTceavDda547u6Z9yg) | 4:24 |
 | 88 | [Wastin' My Mind](https://open.spotify.com/track/3VqCUJv72SIoDMd6ZT29fS) | [The Wood Brothers](https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT) | [The Muse](https://open.spotify.com/album/2xkAdEXW7nGQAJMptaOk2d) | 2:59 |
 | 89 | [Bad Bad Love](https://open.spotify.com/track/1BKQSpOtgGoVKUCDjfspVj) | [Alex Ebert](https://open.spotify.com/artist/1me05HW5s7TShHra5nN7uE) | [Alexander](https://open.spotify.com/album/69QwyJobyX40i2uwAbNha6) | 3:29 |
 | 90 | [Irene](https://open.spotify.com/track/1wEn59siJY4vNOYJUwHqL3) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Honest Life](https://open.spotify.com/album/6goc3U627Ejf2pPYoUH7se) | 3:46 |
 
-Snapshot ID: `MCxlMTJmY2FiOGRmZmEwMDBjZWJkZDMzOWU5MDI1MTQ4MTg4ODIzY2Nh`
+Snapshot ID: `MCw0ODVkNTQ3NzYxNjU1NjE4ZjgxODc2ODE0MTYwNDRhMDA3ODEwMjNm`

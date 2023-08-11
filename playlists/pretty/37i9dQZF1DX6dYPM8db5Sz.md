@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/14Vt5ErffVByZY4up1hBBt?si=f4rrR\-3aRBmTHo4lnKRwgA">Amy Ayanda</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,611 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,616 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 49 | [So I Ask You](https://open.spotify.com/track/2ypvMGte6AD8eI2ZoTfi55) | [Jacinto](https://open.spotify.com/artist/5pd7gwQaEoDgwowoynX09F) | [So I Ask You](https://open.spotify.com/album/5eQSHxHgFGw0K8Z8PW3Kol) | 3:07 |
 | 50 | [Tell Me Again](https://open.spotify.com/track/4iKKvhm62Qs4L06GewDvoz) | [Coasters](https://open.spotify.com/artist/4VjyjBUcEwwx4xqtU359Ep) | [Heartbreak Looks Good On You](https://open.spotify.com/album/34Uhqu0ePpZvIhUyrquWzf) | 4:09 |
 
-Snapshot ID: `MCw4ZWIxYmMxN2VlYjY1OGNlODlkOGVhMWNiYjNkYWFiMGI2NmJjZjJk`
+Snapshot ID: `MCw5MDZlOTdiMmUwOTA5YmZjOTFkNzQ5NzRjZDJlNmZmMzlkNjlkZjAw`

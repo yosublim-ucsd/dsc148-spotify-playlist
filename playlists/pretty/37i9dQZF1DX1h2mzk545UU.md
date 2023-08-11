@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1h2mzk545UU.md) - [plain]
 
 > Todos los cumbieros con las manos bien arriba haciendo palmas 💃🏾🕺🏾🏝
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,021 likes - 77 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,171 likes - 77 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1h2mzk545UU.md) - [plain]
 | 76 | [Amor Fallido](https://open.spotify.com/track/6eQEldYcnaiKujlmgbx0ND) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Sin Fecha De Vencimiento](https://open.spotify.com/album/7unwzqZgUDVjwwUHAiwpZ5) | 3:39 |
 | 77 | [Fantasma](https://open.spotify.com/track/137YnCNlEhEOyE5opLTj3f) | [Rocko Paez](https://open.spotify.com/artist/1zFPc155enhXpQFBxMpxkd), [Los Rolling Ruanas](https://open.spotify.com/artist/1XPFAsXCMflKBKZuNIkru3) | [Fantasma](https://open.spotify.com/album/51jlsaM0JQ5rksqkiWFtOH) | 3:12 |
 
-Snapshot ID: `MCw3ZjAyOGVjNmJmNWViMDkzNWVkZjlmNjJlZjEyYTBiNDhiYWRiZWU2`
+Snapshot ID: `MCw1ZGRiMjNhZWZkZDBlNTczZjdmYzA1ZmUyNTEyMjIzNzJlMmY5YjA2`

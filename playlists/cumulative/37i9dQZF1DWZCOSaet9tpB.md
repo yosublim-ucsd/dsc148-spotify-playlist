@@ -2,9 +2,9 @@
 
 ### [Hot Hits Naija ](https://open.spotify.com/playlist/37i9dQZF1DWZCOSaet9tpB)
 
-> Nigeria's hottest tracks\.  Cover: <a href="https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG?si=TzvCO7N\-SQWI87cD0wl1zA"> KCee</a>
+> Nigeria's hottest tracks\.  Cover: <a href="https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr?si=KHR0Leb\-SmKbh1MZnT5\-Yg"> Olamide</a>
 
-192 songs - 9 hr 24 min
+194 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Alone](https://open.spotify.com/track/0AoBY2Y3qs6dtGgOD6c91N) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:41 | 2022-12-07 | 2023-07-14 |
 | [Amapiano](https://open.spotify.com/track/3GMdp6clyAh7wZWVYOtoS9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Amapiano](https://open.spotify.com/album/6SS3BYYRmatpgcIrmRCuI6) | 2:45 | 2023-05-26 |  |
 | [Anoti](https://open.spotify.com/track/60lUecrFeE2t6QMJ1Nmsve) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:01 | 2021-11-15 | 2023-03-18 |
+| [Anti Social](https://open.spotify.com/track/0UilWRSaAPqnwdUc9HJfxG) | [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Anti Social](https://open.spotify.com/album/25C8gnQsB3VNJgr5ldcNf5) | 2:36 | 2023-08-10 |  |
 | [Apollo](https://open.spotify.com/track/1OGZU2zmK6x0UnM3yeZ4lR) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w) | 2:50 | 2022-03-11 | 2023-04-21 |
 | [Apollo](https://open.spotify.com/track/3OsZkVwyJhGLJ0KrdUx23o) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Apollo](https://open.spotify.com/album/3yblFXYTz2eKaNd36H6QQz) | 2:50 | 2022-03-11 | 2022-12-18 |
 | [Asiwaju](https://open.spotify.com/track/7ErtOGQ9DwyQa3lwP77j4u) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Asiwaju](https://open.spotify.com/album/5xqEVPQeBA9GUnEFJhyCtt) | 3:36 | 2022-12-07 |  |
@@ -54,7 +55,7 @@
 | [Come My Way](https://open.spotify.com/track/3PnkEOvEKu7s2qQJ5mHpNl) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Come My Way](https://open.spotify.com/album/7lZcirSAHyRdywp6VqN3EV) | 3:28 | 2021-11-15 | 2023-02-24 |
 | [Confession](https://open.spotify.com/track/4ucXeGcKKzubgHb932T6sl) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Confession](https://open.spotify.com/album/2j6o2L4cimT1ufEDoymvTF) | 3:08 | 2022-02-21 | 2023-03-18 |
 | [Cough \(Odo\)](https://open.spotify.com/track/0u2A4QNAMUyfQbgfVR3HvK) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [Cough \(Odo\)](https://open.spotify.com/album/3j33Z0rLryDGCZFRhppoZq) | 2:56 | 2022-10-13 | 2023-02-02 |
-| [Currency](https://open.spotify.com/track/59VpttBOjuFDpOOdqeTDiI) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Currency](https://open.spotify.com/album/1yqoT8UTNOYyLHc8mIVjIT) | 2:58 | 2023-02-10 |  |
+| [Currency](https://open.spotify.com/track/59VpttBOjuFDpOOdqeTDiI) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Currency](https://open.spotify.com/album/1yqoT8UTNOYyLHc8mIVjIT) | 2:58 | 2023-02-10 | 2023-08-11 |
 | [Dada \(feat\. Davido\) \[Remix\]](https://open.spotify.com/track/2IBrgYf3Hjw16c6oNwkZ9M) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Dada \(feat\. Davido\) \[Remix\]](https://open.spotify.com/album/0tqiftjjP81odLWXCrhmUD) | 2:57 | 2022-04-28 | 2023-03-18 |
 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 | 2023-03-29 |  |
 | [Different Size \(feat\. Victony\)](https://open.spotify.com/track/0s5nhb6ts6uCKAVnGg46y6) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:29 | 2022-07-07 | 2023-06-03 |
@@ -93,7 +94,8 @@
 | [In My Mind](https://open.spotify.com/track/1IiNgs5RGEYyGQFLXJvte5) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 2:18 | 2022-08-25 | 2023-03-04 |
 | [INTOXYCATED \(feat\. Dave\)](https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [INTOXYCATED \(feat\. Dave\)](https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV) | 3:32 | 2023-07-14 |  |
 | [It's Plenty](https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:36 | 2022-08-15 |  |
-| [Joha](https://open.spotify.com/track/5UwxpuGHkwiojKDaPC5ZNu) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:28 | 2022-09-23 |  |
+| [Jinja](https://open.spotify.com/track/5dVJTSZhL2n81ZkT4PZu0x) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 2:35 | 2023-08-10 |  |
+| [Joha](https://open.spotify.com/track/5UwxpuGHkwiojKDaPC5ZNu) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:28 | 2022-09-23 | 2023-08-11 |
 | [Jolie](https://open.spotify.com/track/7wMYtt3SEquaep8sWCdQqp) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Jolie](https://open.spotify.com/album/1KyvLDpjRbcHFKXFEvq0bZ) | 3:29 | 2023-03-17 |  |
 | [Jonzing Boy](https://open.spotify.com/track/0JoCuk9LuUwjLavIGxtKs9) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Jonzing Boy](https://open.spotify.com/album/7nn3qjLeYE65qfRUjreXqP) | 3:05 | 2023-05-11 |  |
 | [KANTE \(feat\. Fave\)](https://open.spotify.com/track/7vKXc90NT5WBm3UTT4iTVG) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 3:14 | 2023-04-25 |  |

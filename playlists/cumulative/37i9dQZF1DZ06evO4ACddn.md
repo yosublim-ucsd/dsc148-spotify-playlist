@@ -4,7 +4,7 @@
 
 > This is Lonely The Brave\. The essential tracks, all in one playlist.
 
-52 songs - 3 hr 12 min
+53 songs - 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [The Blue, The Green](https://open.spotify.com/track/0HHlrHaeTThPytkBv3ka3G) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 4:36 | 2022-09-16 |  |
 | [The Day's War](https://open.spotify.com/track/4hojR5MvY3Ut9h15ueqxvS) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 1:09 | 2023-01-16 |  |
 | [The Harrow](https://open.spotify.com/track/5P2R15i8jhMh4ArbsnRtoY) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Hope List](https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92) | 4:17 | 2022-10-07 | 2022-10-09 |
+| [The Lens](https://open.spotify.com/track/5Jgd7T6LCgGynv0mh6zPSq) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Lens](https://open.spotify.com/album/6036RVl51B5aABchGu7ovm) | 3:44 | 2023-08-10 |  |
 | [The Rat](https://open.spotify.com/track/2aEAQBRKqAImOF9rzALVxR) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Rat](https://open.spotify.com/album/7xfgBU8oYPEJ3zuyhBmoJ5) | 4:20 | 2022-10-28 |  |
 | [The Rat](https://open.spotify.com/track/62qLvdb28WxRYxNAZ0UZlk) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Rat](https://open.spotify.com/album/4iABt7PWRQpWhLP7W3WCWO) | 4:20 | 2022-09-16 | 2022-10-29 |
 | [Things Will Matter](https://open.spotify.com/track/3yFZ2FNf3RZMw5e1sJYZve) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter \(Redux\)](https://open.spotify.com/album/5j7moHdW1BoUtjHYjM8FTm) | 2:54 | 2022-10-24 |  |

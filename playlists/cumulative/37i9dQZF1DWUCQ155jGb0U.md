@@ -4,7 +4,7 @@
 
 > Sonido contemporáneo y algunos clásicos\. <br/>Foto: Gorillaz
 
-199 songs - 12 hr 52 min
+201 songs - 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Bones](https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Bones](https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q) | 2:45 | 2022-04-18 |  |
 | [boy](https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [boy](https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG) | 3:18 | 2022-08-05 |  |
 | [Broken Boy \(feat\. Iggy Pop\)](https://open.spotify.com/track/1j717HdHFPFwbBEAk2kwJQ) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Broken Boy \(feat\. Iggy Pop\)](https://open.spotify.com/album/4jCLZy0GRmWrOCiIpj3Gbt) | 2:43 | 2022-04-18 | 2022-07-26 |
-| [By The Time You're Reading This](https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome To My House](https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw) | 3:10 | 2023-08-04 |  |
+| [By The Time You're Reading This](https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome To My House](https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw) | 3:10 | 2023-08-04 | 2023-08-11 |
 | [Californication](https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Californication \(Deluxe Edition\)](https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi) | 5:29 | 2022-04-18 |  |
 | [Call It Fate, Call It Karma](https://open.spotify.com/track/3Y4rUyw7XBCK6hGHCOt6rp) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Comedown Machine](https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV) | 3:24 | 2022-07-25 |  |
 | [Can I Call You Tonight?](https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk) | 4:38 | 2022-09-23 |  |
@@ -90,6 +90,7 @@
 | [Fluorescent Adolescent](https://open.spotify.com/track/5z8UBfhE6K2akrmEqzpVLw) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Fluorescent Adolescent](https://open.spotify.com/album/7fs84A1nvT19DGHdd4mGT8) | 3:03 | 2022-10-14 | 2022-11-13 |
 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 | 2022-07-25 |  |
 | [Get It Back](https://open.spotify.com/track/6rT2aU4P6l0NL4yr2lEwUr) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Get It Back](https://open.spotify.com/album/6OxeYR6XlbyBvYMrUzAfe3) | 3:41 | 2022-04-18 | 2022-07-26 |
+| [Girl Supreme](https://open.spotify.com/track/1lpSuS2256fbNn3yKcrdqB) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Girl Supreme](https://open.spotify.com/album/4K7d10ZpPwzWTEnsVxJJ7v) | 2:48 | 2023-08-10 |  |
 | [Going Down South](https://open.spotify.com/track/1Bm1YppuoO7oTAJ7s0Eyma) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Going Down South](https://open.spotify.com/album/5TeN9UapR2EHe4UDBW9lsh) | 3:48 | 2022-04-18 | 2022-07-26 |
 | [Happy Together](https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0) | [The Turtles](https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7) | [Happy Together](https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB) | 2:56 | 2022-07-25 |  |
 | [Hayloft II](https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Inside \(Deluxe\)](https://open.spotify.com/album/03EqExvZuxLK86huLxGIa2) | 3:35 | 2022-04-18 | 2022-07-26 |
@@ -105,6 +106,7 @@
 | [In the End](https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:36 | 2022-04-18 |  |
 | [Infinity Repeating \(2013 Demo\) \[feat\. Julian Casablancas+The Voidz\]](https://open.spotify.com/track/4r4fX4NZIqVIhGyDvERp0l) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB), [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Random Access Memories \(10th Anniversary Edition\)](https://open.spotify.com/album/4mAhdh996uW5SnnFKXUmC0) | 3:59 | 2023-05-12 |  |
 | [Invisible \- Songs Of Surrender](https://open.spotify.com/track/40EiOxrNDU2DObDLOgcbdw) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Surrender](https://open.spotify.com/album/3fqPfbVHsvdpovpJXOJlvU) | 4:23 | 2023-03-17 | 2023-07-15 |
+| [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 | 2023-08-10 |  |
 | [Livin' On A Prayer](https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 4:09 | 2022-04-18 |  |
 | [Living In A Ghost Town](https://open.spotify.com/track/5RrrQhJKKKMJt3wB5n2N3t) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Living In A Ghost Town](https://open.spotify.com/album/78s6su3Cox4tVqNi6uTuCR) | 4:07 | 2022-04-18 | 2022-09-06 |
 | [Looking Out for You](https://open.spotify.com/track/3jfZ9M23l0L7RxzYMTgBTv) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Looking Out for You](https://open.spotify.com/album/7slouenWhZDdDZibkS4nR3) | 2:59 | 2022-07-25 |  |
@@ -135,7 +137,7 @@
 | [Radioactive](https://open.spotify.com/track/4G8gkOterJn0Ywt6uhqbhp) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions](https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8) | 3:06 | 2022-07-25 |  |
 | [Radioactive](https://open.spotify.com/track/62yJjFtgkhUrXktIoSjgP2) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions](https://open.spotify.com/album/6nxDQi0FeEwccEPJeNySoS) | 3:06 | 2022-07-25 | 2022-07-29 |
 | [Radioactive](https://open.spotify.com/track/33DPHYA8bJstGIMXkz1lFt) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Car Songs](https://open.spotify.com/album/2n9seCBtupHlk3m2ruv6A1) | 3:08 | 2022-10-14 | 2022-11-13 |
-| [rats in my walls](https://open.spotify.com/track/518SyWWJhPl7HHUSPfyRjL) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [rats in my walls](https://open.spotify.com/album/0UPov8dU2n2a9XvBrKUmSK) | 5:12 | 2023-08-04 |  |
+| [rats in my walls](https://open.spotify.com/track/518SyWWJhPl7HHUSPfyRjL) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [rats in my walls](https://open.spotify.com/album/0UPov8dU2n2a9XvBrKUmSK) | 5:12 | 2023-08-04 | 2023-08-11 |
 | [Records \(feat\. Noga Erez\)](https://open.spotify.com/track/0ZrZjd1zu5Cl4s4xXCUT6E) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu), [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Records \(feat\. Noga Erez\)](https://open.spotify.com/album/6i14pMUR9CMUtuuJITLEI7) | 3:32 | 2022-09-05 | 2022-10-15 |
 | [Reptilia](https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:39 | 2022-04-18 |  |
 | [Retina Show \- Unreleased Demo](https://open.spotify.com/track/5uDdyVU0jDST7xmuOqpnC3) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism \(10 Year Anniversary Edition / Unreleased Demos\)](https://open.spotify.com/album/42ksrADRkYcr0OZP5VNR4s) | 5:22 | 2023-05-26 |  |

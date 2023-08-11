@@ -1,12 +1,12 @@
 {
   "description": "Latinas que inspiran \u2728 Cover: Maria Becerra",
-  "num_followers": 642370,
+  "num_followers": 642503,
   "original_name": "Inspiring Latinas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzEzZTExYWQ1ODQ2NWIzNTQwZmE2YjRhNTlkYzk5MTE2NmRlZjNh",
+  "snapshot_id": "MCxlMmZlNDRjNmFhMWVkMzQ3YzQwMmNiZDM3ZTlkNzU5ZDk1ZmNlYzhk",
   "tracks": [
     {
       "added_at": "2023-07-27 22:15:06",
@@ -443,18 +443,22 @@
     {
       "added_at": "2023-07-27 22:15:06",
       "album": {
-        "name": "Nunca Tristes (Me Vale Madre)",
-        "url": "https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8"
+        "name": "Iluminatti",
+        "url": "https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO"
       },
       "artists": [
         {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
         }
       ],
-      "duration_ms": 204826,
-      "name": "Nunca Tristes (Me Vale Madre)",
-      "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
+      "duration_ms": 221773,
+      "name": "Soy Mia",
+      "url": "https://open.spotify.com/track/5anRovfNkeo83bshruaWX9"
     },
     {
       "added_at": "2023-07-27 22:15:06",
@@ -475,22 +479,18 @@
     {
       "added_at": "2023-07-27 22:15:06",
       "album": {
-        "name": "Iluminatti",
-        "url": "https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO"
+        "name": "Nunca Tristes (Me Vale Madre)",
+        "url": "https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8"
       },
       "artists": [
         {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 221773,
-      "name": "Soy Mia",
-      "url": "https://open.spotify.com/track/5anRovfNkeo83bshruaWX9"
+      "duration_ms": 204826,
+      "name": "Nunca Tristes (Me Vale Madre)",
+      "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
     },
     {
       "added_at": "2023-07-27 22:15:06",

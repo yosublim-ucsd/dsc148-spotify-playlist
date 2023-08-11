@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Turn up the volume for some filthy bassline! ft. Bushbaby",
+  "description": "Turn up the volume for some filthy bassline! ft. Y U QT",
   "name": "Bassline Bangers",
   "tracks": [
     {
@@ -250,7 +250,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 160482,
       "name": "Amazon Prime",
       "url": "https://open.spotify.com/track/7wuJLTnogk3Q5Iy3fW4Vrv"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 283636,
       "name": "Anything",
       "url": "https://open.spotify.com/track/165zMkyh2bVwtu8mAhdTTz"
@@ -450,10 +450,28 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-24",
+      "date_removed": null,
       "duration_ms": 282890,
       "name": "Behind the Scenes (feat. Jess Spink)",
       "url": "https://open.spotify.com/track/4T1J5mZ2doy1HJ8373eI0A"
+    },
+    {
+      "album": {
+        "name": "Blue Razz",
+        "url": "https://open.spotify.com/album/1Z8E32UdqAbYAV3VB2Lyl0"
+      },
+      "artists": [
+        {
+          "name": "Versatile",
+          "url": "https://open.spotify.com/artist/6K0yc6ZGiwc7sSwrWra0UT"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216827,
+      "name": "Blue Razz",
+      "url": "https://open.spotify.com/track/124GIso7hUD9of584dOOIo"
     },
     {
       "album": {
@@ -538,7 +556,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 204609,
       "name": "Boozy",
       "url": "https://open.spotify.com/track/4wjU886A1G17FUBXmbADAC"
@@ -986,7 +1004,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 215282,
       "name": "Don't You Know",
       "url": "https://open.spotify.com/track/0ZqOgrbDm8delKrVsT78oq"
@@ -1136,7 +1154,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 192004,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/6WW1qsUVy1i73rWizr3dw2"
@@ -1266,7 +1284,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 250918,
       "name": "Far",
       "url": "https://open.spotify.com/track/4KX4AX0kOuXfVjByTbBLoe"
@@ -1416,6 +1434,32 @@
       "duration_ms": 267272,
       "name": "Forever",
       "url": "https://open.spotify.com/track/3pTc4kmOx7sMJFc9hHxpbm"
+    },
+    {
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/0TU1txO73cwnDnDc2a9twG"
+      },
+      "artists": [
+        {
+          "name": "Emz",
+          "url": "https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9"
+        },
+        {
+          "name": "Nasser UK",
+          "url": "https://open.spotify.com/artist/0OKtqx9di2GqRpRqA3eFpD"
+        },
+        {
+          "name": "Valor",
+          "url": "https://open.spotify.com/artist/2hdUuoqJUD7RXiGBNhEeUL"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187133,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/2C0IvokSio8N7UyHwuB638"
     },
     {
       "album": {
@@ -2272,7 +2316,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 204096,
       "name": "Lighter (feat. KSI) - Shapes Remix",
       "url": "https://open.spotify.com/track/3SMyy85TGAxfH7NYu65ujO"
@@ -2448,7 +2492,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 200000,
       "name": "Monster",
       "url": "https://open.spotify.com/track/1UfJuFf3V0DfFigaURj3yJ"
@@ -2466,7 +2510,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 469536,
       "name": "Murderation (4 The Bristol Crew Mix)",
       "url": "https://open.spotify.com/track/6ml84UdI1d9SWS9e9wwxXW"
@@ -2818,7 +2862,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 234703,
       "name": "Out Of My Mind",
       "url": "https://open.spotify.com/track/4pZt3sl8ERcmYeVan2WBm3"
@@ -2942,7 +2986,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-28",
+      "date_removed": null,
       "duration_ms": 166153,
       "name": "Pure",
       "url": "https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp"
@@ -2968,7 +3012,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 190348,
       "name": "Put It On Me (feat. Mila Falls)",
       "url": "https://open.spotify.com/track/1VO8LC2PyM13d1LxE6KLSc"
@@ -3224,7 +3268,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 248841,
       "name": "Secure the Bag",
       "url": "https://open.spotify.com/track/7bT9PtLrGTCXGjjhgrvMfg"
@@ -3246,7 +3290,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 165454,
       "name": "Show Me - Skepsis Remix",
       "url": "https://open.spotify.com/track/7EfCX1JJcvCtul38U9PBRB"
@@ -3384,7 +3428,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 225245,
       "name": "Spotlight",
       "url": "https://open.spotify.com/track/0qY6AV4ZegboqiIskNlozZ"
@@ -3790,7 +3834,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-10",
+      "date_removed": null,
       "duration_ms": 188307,
       "name": "Wanna Freak",
       "url": "https://open.spotify.com/track/4ZXkasziPLirl2GCn3bh8Q"
@@ -3924,6 +3968,24 @@
       "duration_ms": 185615,
       "name": "Wrong Answers Only",
       "url": "https://open.spotify.com/track/4aHi701FKuFYj7QSeSEftV"
+    },
+    {
+      "album": {
+        "name": "Y'all Ready For Dis",
+        "url": "https://open.spotify.com/album/5Xh9XIcuBBkatdY6KMzCfv"
+      },
+      "artists": [
+        {
+          "name": "Y U QT",
+          "url": "https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "Y'all Ready For Dis",
+      "url": "https://open.spotify.com/track/02dS31GgrNuZzwVOtf5uom"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX13R6rBZEpj7"

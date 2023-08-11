@@ -3629,6 +3629,24 @@
     },
     {
       "album": {
+        "name": "You Are There",
+        "url": "https://open.spotify.com/album/2SW21s45ctUtS6GIxsVuaM"
+      },
+      "artists": [
+        {
+          "name": "Kate Kortum",
+          "url": "https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345176,
+      "name": "You Are There",
+      "url": "https://open.spotify.com/track/3HweeuM8Tuan2rNoAW2uYY"
+    },
+    {
+      "album": {
         "name": "Blue Light 'Til Dawn",
         "url": "https://open.spotify.com/album/6YZALitmuH7HYCvfjzP6dX"
       },

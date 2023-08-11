@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 
 > all gains
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,411 likes - 40 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,948 likes - 40 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [MONTAGEM \- PR FUNK](https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id) | [MONTAGEM \- PR FUNK](https://open.spotify.com/album/2HuMAoXpr6HDryNHipbCpB) | 1:01 |
 | 2 | [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS](https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D) | 2:22 |
 | 3 | [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 |
-| 4 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 |
-| 5 | [GOOD LOYAL THOTS](https://open.spotify.com/track/06tNJ27nVxbDwhiQMChWyr) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [GOOD LOYAL THOTS](https://open.spotify.com/album/0uj4fkv8FHhc7sZyxMnAAw) | 1:42 |
+| 4 | [GOOD LOYAL THOTS](https://open.spotify.com/track/06tNJ27nVxbDwhiQMChWyr) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [GOOD LOYAL THOTS](https://open.spotify.com/album/0uj4fkv8FHhc7sZyxMnAAw) | 1:42 |
+| 5 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 |
 | 6 | [SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA) | 2:27 |
 | 7 | [GigaChad Theme \- Phonk House Version](https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A) | [g3ox\_em](https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs) | [GigaChad Theme \(Phonk House Version\)](https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr) | 2:26 |
 | 8 | [Godzilla \(feat\. Juice WRLD\)](https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Music To Be Murdered By](https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6) | 3:30 |
 | 9 | [BRAZILIAN DANÇA PHONK](https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF) | [6YNTHMANE](https://open.spotify.com/artist/24YUNOEuu3kf4OOtC8cQE5), [RXDXVIL](https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz) | [BRAZILIAN DANÇA PHONK](https://open.spotify.com/album/4QlnGetYxfXaVGhgdmF0vG) | 1:58 |
 | 10 | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/track/3QFInJAm9eyaho5vBzxInN) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Melodic Blue](https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg) | 4:12 |
 | 11 | [Sequência da Dz7](https://open.spotify.com/track/12FbZlYxIUv2rhB0oCQEhQ) | [TRASHXRL](https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [Sequência da Dz7](https://open.spotify.com/album/0q18FVPvrXw161KvnT4sk7) | 1:59 |
-| 12 | [MATHEMATICAL DISRESPECT](https://open.spotify.com/track/0Ymjv0OJeIIPXr6s9wi3iW) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN) | [MATHEMATICAL DISRESPECT](https://open.spotify.com/album/2na9riat7uwn9pax75cJue) | 1:28 |
-| 13 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 |
+| 12 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 |
+| 13 | [MATHEMATICAL DISRESPECT](https://open.spotify.com/track/0Ymjv0OJeIIPXr6s9wi3iW) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN) | [MATHEMATICAL DISRESPECT](https://open.spotify.com/album/2na9riat7uwn9pax75cJue) | 1:28 |
 | 14 | [Space Cadet \(feat\. Gunna\)](https://open.spotify.com/track/1fewSx2d5KIZ04wsooEBOz) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 3:23 |
 | 15 | [Dior](https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo](https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf) | 3:36 |
 | 16 | [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 28 | [GHOST!](https://open.spotify.com/track/3TzPVU3jj6YdTunVdKimiQ) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [KIIXSHI](https://open.spotify.com/artist/3nLZDVpDU6RrQ9k98yHTKh) | [GHOST!](https://open.spotify.com/album/0TwAp1jAUFp1PQtdDlDDW3) | 3:51 |
 | 29 | [Why Not](https://open.spotify.com/track/4oMyggIzClkOcCTvotFLkP) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7) | [Why Not](https://open.spotify.com/album/0Qj2wwdBRq690kG8hShuaR) | 2:45 |
 | 30 | [Scopin](https://open.spotify.com/track/7KmbiagSkUbepU88x7NWjb) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Scopin](https://open.spotify.com/album/6mjnYcgnUPMXZpadY3ctr1) | 1:41 |
-| 31 | [Disaster](https://open.spotify.com/track/29e4KOBzZDOX6qnpYbjwoW) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Disaster](https://open.spotify.com/album/7jeIigTciBnw9zadRsYqIC) | 1:24 |
-| 32 | [MTG \- PISTA TOMA](https://open.spotify.com/track/1r08AN9HcG09RsM5Ubf34W) | [RXDXVIL](https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz), [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe), [John Bis.T](https://open.spotify.com/artist/5LNzQAUKfB4tYoR1VcKkCx) | [MTG \- PISTA TOMA](https://open.spotify.com/album/0XfbMn9N6vzDybKtXBIKx0) | 2:16 |
+| 31 | [MTG \- PISTA TOMA](https://open.spotify.com/track/1r08AN9HcG09RsM5Ubf34W) | [RXDXVIL](https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz), [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe), [John Bis.T](https://open.spotify.com/artist/5LNzQAUKfB4tYoR1VcKkCx) | [MTG \- PISTA TOMA](https://open.spotify.com/album/0XfbMn9N6vzDybKtXBIKx0) | 2:16 |
+| 32 | [Disaster](https://open.spotify.com/track/29e4KOBzZDOX6qnpYbjwoW) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Disaster](https://open.spotify.com/album/7jeIigTciBnw9zadRsYqIC) | 1:24 |
 | 33 | [The Search](https://open.spotify.com/track/3oLe5ZILASG8vU5dxIMfLY) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [The Search](https://open.spotify.com/album/46xdC4Qcvscfs3Ai2RIHcv) | 4:08 |
 | 34 | [GATTI](https://open.spotify.com/track/40mjsnRjCpycdUw3xhS20g) | [JACKBOYS](https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS](https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx) | 3:01 |
 | 35 | [AVOID ME](https://open.spotify.com/track/5FX30idriKlEIRYTxpNf65) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX) | [AVOID ME](https://open.spotify.com/album/1LwLabogNr1KwEHU1EnSRZ) | 1:45 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 39 | [Nuketown \(feat\. Juice WRLD\)](https://open.spotify.com/track/74lnM5V6ecvoTPV0fvptx9) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [STOKELEY](https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn) | 2:46 |
 | 40 | [Twilight](https://open.spotify.com/track/1Y5MJnYsIi3Qlifvss4jPI) | [GRAVECHILL](https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt) | [Twilight](https://open.spotify.com/album/44NnM38oAf0i0gWqkVVA1x) | 1:56 |
 
-Snapshot ID: `MCw0NjNhNGNjYWJlMGZlZDJhZjUyYjlhNWE0Mjg5YjQ5OThjMjY2Mjdh`
+Snapshot ID: `MCw2NTViOTBmMWNjZDBkYWUwYzRiNzViMzkzN2Q1Y2M5OGRjNjY4YzU1`

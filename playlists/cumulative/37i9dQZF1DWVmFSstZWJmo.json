@@ -665,6 +665,24 @@
     },
     {
       "album": {
+        "name": "Drunk & Loud",
+        "url": "https://open.spotify.com/album/5v9ShaPCZn1arjR9BmkUNy"
+      },
+      "artists": [
+        {
+          "name": "Bloom Twins",
+          "url": "https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114964,
+      "name": "Drunk & Loud",
+      "url": "https://open.spotify.com/track/69WiLaNQxDcf4yjAWcDruZ"
+    },
+    {
+      "album": {
         "name": "Oracular Spectacular",
         "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
       },
@@ -3050,7 +3068,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 260173,
       "name": "Wildcat",
       "url": "https://open.spotify.com/track/0wP9okoDWmbeC2w9E8ZzPu"

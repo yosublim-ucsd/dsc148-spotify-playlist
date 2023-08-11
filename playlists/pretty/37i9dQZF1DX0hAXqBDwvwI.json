@@ -1,12 +1,12 @@
 {
   "description": "A mega Anime hits mix! \u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u306e\u30ed\u30f3\u30b0&\u30e1\u30ac\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u697d\u3057\u3082\u3046\u3002Illustration by <a href=\"https://kazuhisauragami.com/\"> Kazuhisa Uragami</a> ",
-  "num_followers": 471458,
+  "num_followers": 471844,
   "original_name": "Anime On Replay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjExYTA4NTA3MjFhNDYyMDU0ZjU1ZWIwNGJiNzgyMWQ5NzY0MGMw",
+  "snapshot_id": "MCxhMjkxZWM3YTRlNjBiZTE5YzUyYTFhNTczYTFhY2E0NGY1YTA3Yjhh",
   "tracks": [
     {
       "added_at": "2023-07-21 01:42:02",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-07-21 01:42:02",
       "album": {
-        "name": "BLOODY STREAM",
-        "url": "https://open.spotify.com/album/3Jyv6ZSMdzPKSd83r75dLW"
+        "name": "HOLIDAYS IN THE SUN",
+        "url": "https://open.spotify.com/album/2rOHJ6kE8LjvDegataPviX"
       },
       "artists": [
         {
-          "name": "Coda",
-          "url": "https://open.spotify.com/artist/2xcKG6XtsW4NV5zMXWuL6n"
+          "name": "YUI",
+          "url": "https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO"
         }
       ],
-      "duration_ms": 261920,
-      "name": "BLOODY STREAM",
-      "url": "https://open.spotify.com/track/3BSPKTravgBDjmuG1rIXvw"
+      "duration_ms": 254346,
+      "name": "again",
+      "url": "https://open.spotify.com/track/4OQq1bcP12GQQXJNupxqfR"
     },
     {
       "added_at": "2023-07-21 01:42:02",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-07-21 01:42:02",
       "album": {
-        "name": "HOLIDAYS IN THE SUN",
-        "url": "https://open.spotify.com/album/2rOHJ6kE8LjvDegataPviX"
-      },
-      "artists": [
-        {
-          "name": "YUI",
-          "url": "https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO"
-        }
-      ],
-      "duration_ms": 254346,
-      "name": "again",
-      "url": "https://open.spotify.com/track/4OQq1bcP12GQQXJNupxqfR"
-    },
-    {
-      "added_at": "2023-07-21 01:42:02",
-      "album": {
         "name": "BEST HIT AKG",
         "url": "https://open.spotify.com/album/2fgUFE1g0dJfGL007BoveA"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 243346,
       "name": "\u9065\u304b\u5f7c\u65b9",
       "url": "https://open.spotify.com/track/5ORPYXJKlpHWIdceavSGrL"
+    },
+    {
+      "added_at": "2023-07-21 01:42:02",
+      "album": {
+        "name": "BLOODY STREAM",
+        "url": "https://open.spotify.com/album/3Jyv6ZSMdzPKSd83r75dLW"
+      },
+      "artists": [
+        {
+          "name": "Coda",
+          "url": "https://open.spotify.com/artist/2xcKG6XtsW4NV5zMXWuL6n"
+        }
+      ],
+      "duration_ms": 261920,
+      "name": "BLOODY STREAM",
+      "url": "https://open.spotify.com/track/3BSPKTravgBDjmuG1rIXvw"
     },
     {
       "added_at": "2023-07-21 01:42:02",

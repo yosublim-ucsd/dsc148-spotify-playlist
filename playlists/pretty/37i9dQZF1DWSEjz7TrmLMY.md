@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEjz7TrmLMY.md) - [plain]
 
 > canto de tristeza porque lo nuestro terminó
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,095 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,142 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEjz7TrmLMY.md) - [plain]
 | 31 | [Disculpe Usted](https://open.spotify.com/track/0uYmSZoLXmxBkvsH4jGQRY) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Más Exitos Con El Shaka](https://open.spotify.com/album/7C7OFtcJyns1tygKSowvzO) | 3:00 |
 | 32 | [Perdóname](https://open.spotify.com/track/69JACep1HLAHGitjoHhXkR) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Archivos de Mi Vida](https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz) | 3:20 |
 | 33 | [Este Terco Corazon](https://open.spotify.com/track/1iN1knAnE9tgY3FipGocKX) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Diez Años Cantandole Al Amor](https://open.spotify.com/album/7m0U4kGO3H4QUw5W75HsQ8) | 3:42 |
-| 34 | [Si Tu Amor No Vuelve](https://open.spotify.com/track/4BU4gDeAJ2BTLWqCs9SRU4) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [La Otra Cara De La Moneda](https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC) | 4:07 |
-| 35 | [Lamento De Amor](https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Matamoros Querido](https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR) | 3:15 |
+| 34 | [Lamento De Amor](https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Matamoros Querido](https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR) | 3:15 |
+| 35 | [Si Tu Amor No Vuelve](https://open.spotify.com/track/4BU4gDeAJ2BTLWqCs9SRU4) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [La Otra Cara De La Moneda](https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC) | 4:07 |
 | 36 | [Perdón](https://open.spotify.com/track/2LgGkK27qwPG4ls3OsNmuj) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Elypse](https://open.spotify.com/album/65GSNuB0XD97S7Xea0ppAC) | 4:24 |
 | 37 | [Mi Enemigo El Amor](https://open.spotify.com/track/3V5mrjHNr7VFhcUJ5oh45V) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs) | 3:54 |
 | 38 | [Perdóname](https://open.spotify.com/track/5Ss6PEMm27CQUCotqWLKe6) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Una Mujer Bonita](https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEjz7TrmLMY.md) - [plain]
 | 49 | [Duele](https://open.spotify.com/track/3qZ4beZNwiXKqGoopSzYBe) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Hecho En México \(Edición Especial\)](https://open.spotify.com/album/5VRiykfzXrzfY84WE1rRxj) | 3:13 |
 | 50 | [Perdón Porque?](https://open.spotify.com/track/5hPLduAGq6QIKhId97NzcP) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Lo Intentes](https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0) | 2:30 |
 
-Snapshot ID: `MCxhYTNlNTE0NTc1ZmY3ZmQxZTE5YzY4Yzk3MjYyN2EwMDU1M2EzM2Yw`
+Snapshot ID: `MCxhMjQ0ZTNiYzI5YWE3Y2NhODg3MmNlNTEzMjRiYTFjZGUxYjYyZmJj`

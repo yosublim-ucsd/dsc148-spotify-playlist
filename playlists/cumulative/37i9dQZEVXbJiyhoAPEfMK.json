@@ -1032,7 +1032,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 131558,
       "name": "9 bis 9",
       "url": "https://open.spotify.com/track/5YWu6dt50Nieq8qi572RF8"
@@ -14427,6 +14427,28 @@
     },
     {
       "album": {
+        "name": "Hapa",
+        "url": "https://open.spotify.com/album/3f64PP5DYVxH8eG6DOuz2o"
+      },
+      "artists": [
+        {
+          "name": "Noizy",
+          "url": "https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB"
+        },
+        {
+          "name": "Yll Limani",
+          "url": "https://open.spotify.com/artist/2qI59HaiEtvev8vnUkmRpT"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Hapa",
+      "url": "https://open.spotify.com/track/3hWyAWmECpCDCoKntejIdK"
+    },
+    {
+      "album": {
         "name": "Happier Than Ever",
         "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
       },
@@ -15522,7 +15544,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 222085,
       "name": "HYAENA",
       "url": "https://open.spotify.com/track/0hL9gOw6XBWsygEUcVjxEc"
@@ -28294,6 +28316,24 @@
       "duration_ms": 170080,
       "name": "Push It",
       "url": "https://open.spotify.com/track/4vsDPNuvcN56CDpKKWzrkZ"
+    },
+    {
+      "album": {
+        "name": "Push Up (Main Edit)",
+        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
+      },
+      "artists": [
+        {
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139300,
+      "name": "Push Up - Main Edit",
+      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
     },
     {
       "album": {

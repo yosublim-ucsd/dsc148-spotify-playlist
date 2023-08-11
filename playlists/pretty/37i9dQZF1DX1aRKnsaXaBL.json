@@ -1,12 +1,12 @@
 {
   "description": "Chasing sunsets con buena m\u00fasica de fondo.",
-  "num_followers": 2921,
+  "num_followers": 2934,
   "original_name": "canciones para ver atardeceres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDhiMmNmOTQzNjJlMTRiNmZlZjg4YmQzNTMzNGU3ZTU3NzI5M2Y4",
+  "snapshot_id": "MCw2Y2FlNjdkMmFhZDMxMTY2MWNmOTg4M2ZhYTg4Yzk2YTk5ZWQ2NjE1",
   "tracks": [
     {
       "added_at": "2023-08-08 20:24:54",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-08-08 20:24:54",
       "album": {
-        "name": "Sinoca",
-        "url": "https://open.spotify.com/album/7lMl5fZ7zkS24TzVrlBcMn"
-      },
-      "artists": [
-        {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
-        }
-      ],
-      "duration_ms": 215462,
-      "name": "Sinoca",
-      "url": "https://open.spotify.com/track/4iShCCbhtU3ZlUJbBmUAzz"
-    },
-    {
-      "added_at": "2023-08-08 20:24:54",
-      "album": {
         "name": "Pangea",
         "url": "https://open.spotify.com/album/66vAJcsK1TsM8ZYFodxN2C"
       },
@@ -423,18 +407,18 @@
     {
       "added_at": "2023-08-08 20:24:54",
       "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
+        "name": "Sinoca",
+        "url": "https://open.spotify.com/album/7lMl5fZ7zkS24TzVrlBcMn"
       },
       "artists": [
         {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
         }
       ],
-      "duration_ms": 188560,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
+      "duration_ms": 215462,
+      "name": "Sinoca",
+      "url": "https://open.spotify.com/track/4iShCCbhtU3ZlUJbBmUAzz"
     },
     {
       "added_at": "2023-08-08 20:24:54",
@@ -451,6 +435,22 @@
       "duration_ms": 201176,
       "name": "Corolla 94",
       "url": "https://open.spotify.com/track/1HUzDAJRiiyk35cSnPXPUG"
+    },
+    {
+      "added_at": "2023-08-08 20:24:54",
+      "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 188560,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
     },
     {
       "added_at": "2023-08-08 20:24:54",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-08-08 20:24:54",
       "album": {
-        "name": "Sentimiento",
-        "url": "https://open.spotify.com/album/53nvTD2BYsEqicPz4hhuQY"
-      },
-      "artists": [
-        {
-          "name": "Gabacho",
-          "url": "https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu"
-        }
-      ],
-      "duration_ms": 172666,
-      "name": "Sentimiento",
-      "url": "https://open.spotify.com/track/6DTrDC4N7FMR2bThvW9RVy"
-    },
-    {
-      "added_at": "2023-08-08 20:24:54",
-      "album": {
         "name": "Paseo En Carro A La Costa",
         "url": "https://open.spotify.com/album/3QokOGS56AylJxy7sYmcGo"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 258586,
       "name": "paseo en carro a la costa",
       "url": "https://open.spotify.com/track/31R22n6xtllkynO6SVWayS"
+    },
+    {
+      "added_at": "2023-08-08 20:24:54",
+      "album": {
+        "name": "Sentimiento",
+        "url": "https://open.spotify.com/album/53nvTD2BYsEqicPz4hhuQY"
+      },
+      "artists": [
+        {
+          "name": "Gabacho",
+          "url": "https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu"
+        }
+      ],
+      "duration_ms": 172666,
+      "name": "Sentimiento",
+      "url": "https://open.spotify.com/track/6DTrDC4N7FMR2bThvW9RVy"
     },
     {
       "added_at": "2023-08-08 20:24:54",

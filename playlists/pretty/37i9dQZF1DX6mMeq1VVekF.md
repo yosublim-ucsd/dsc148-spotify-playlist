@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: KhakiKid
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,232 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,448 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 14 | [Mad Riches](https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [Too Late To Die Young](https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn) | 1:56 |
 | 15 | [Alone With You](https://open.spotify.com/track/0W7brFokN6QtGRNp32RCQP) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Alone With You](https://open.spotify.com/album/1nTaMUZsk7VOqjpY0WQHWb) | 3:15 |
 | 16 | [Sossaup](https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [KAYTRAMINÉ](https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW) | 2:36 |
-| 17 | [What's That?](https://open.spotify.com/track/3NqKpLijeFLWflbXDj3Hra) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [What's That?](https://open.spotify.com/album/3VhrV608YO2YN2Z1tY879X) | 3:27 |
-| 18 | [Gravity \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/6u3CPnFMKANYgfdiifFOiJ) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [DJ Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Gravity \(feat\. Tyler, The Creator\)](https://open.spotify.com/album/6ymw9w3tGhxVGBskQAhsvm) | 3:34 |
+| 17 | [Gravity \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/6u3CPnFMKANYgfdiifFOiJ) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [DJ Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Gravity \(feat\. Tyler, The Creator\)](https://open.spotify.com/album/6ymw9w3tGhxVGBskQAhsvm) | 3:34 |
+| 18 | [What's That?](https://open.spotify.com/track/3NqKpLijeFLWflbXDj3Hra) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [What's That?](https://open.spotify.com/album/3VhrV608YO2YN2Z1tY879X) | 3:27 |
 | 19 | [Stylin'](https://open.spotify.com/track/0SLE0Ym3WhxfHSDR7Qd5pf) | [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Local Mvp](https://open.spotify.com/album/02gUzFCFgKdsj8p1KcnASN) | 2:38 |
 | 20 | [Point and Kill](https://open.spotify.com/track/52y4KhkcAbYcogFg2u7UVP) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 3:05 |
 | 21 | [The Mantra \- Heat in the Street Freestyle](https://open.spotify.com/track/58E4qtpkOmMqbJxHM1dm6I) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [The Mantra \(Heat in the Street Freestyle\)](https://open.spotify.com/album/3dZaDT52KPLtRFvt7xs3AD) | 1:37 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 31 | [Right Hand](https://open.spotify.com/track/5XdXywHigZe8sw23TttgDm) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Right Hand](https://open.spotify.com/album/0DFUakFW6jzPiP9qH70lvq) | 2:45 |
 | 32 | [24's](https://open.spotify.com/track/6pe4kkc27IKSkubhLY7a5C) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [24's](https://open.spotify.com/album/2zrwoynjMVDV6vsSwkwpNP) | 2:46 |
 | 33 | [F.U.C.K.](https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [F.U.C.K.](https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC) | 3:25 |
-| 34 | [Different Size \(feat\. Victony\)](https://open.spotify.com/track/0s5nhb6ts6uCKAVnGg46y6) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:29 |
-| 35 | [NO BONNIE N CLYDE](https://open.spotify.com/track/31EJY5zvDJhQdfXc7g4V7T) | [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [NO BONNIE N CLYDE](https://open.spotify.com/album/5E1DYCj30VW0PshMibXmFm) | 2:13 |
+| 34 | [NO BONNIE N CLYDE](https://open.spotify.com/track/31EJY5zvDJhQdfXc7g4V7T) | [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [NO BONNIE N CLYDE](https://open.spotify.com/album/5E1DYCj30VW0PshMibXmFm) | 2:13 |
+| 35 | [Different Size \(feat\. Victony\)](https://open.spotify.com/track/0s5nhb6ts6uCKAVnGg46y6) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:29 |
 | 36 | [White Ash](https://open.spotify.com/track/2sngouSS4sot4DR4qkX4Ef) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [Real Back In Style](https://open.spotify.com/album/4ZXd1RIxHGNExQjajXcdV3) | 3:45 |
 | 37 | [KANEKI](https://open.spotify.com/track/2NfDnbVctB1aPkTkqFFhky) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [KANEKI](https://open.spotify.com/album/0tYYMkbcXUErm8czzBZInY) | 2:50 |
 | 38 | [And We Go Gentle](https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Mood Valiant](https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG) | 3:23 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 59 | [Ke Star \- Remix](https://open.spotify.com/track/7b3991NnMDhwZRq7C2Cpgc) | [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Virgo Deep](https://open.spotify.com/artist/4Ml0ZcVza4oApvqWK8K7wM) | [Ke Star \(Remix\)](https://open.spotify.com/album/0ycU5aDeq22IewMlUF1A66) | 5:28 |
 | 60 | [Come To Me](https://open.spotify.com/track/3dWjUncK6qSiFlf5qru1Aq) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Songs That Made Me Feel](https://open.spotify.com/album/3X8HsMV6AyN2RZp22JE7HR) | 3:08 |
 
-Snapshot ID: `MCxkNGIxODA1NTY4NGFmY2YzNDVjMmY4OWIyZDQwZGIyMDEwYzI3NWFl`
+Snapshot ID: `MCxjNTJhNWVmNTliNjNlMmE0Yzk0OWU5MDQ3NDI0MjVhNzliNGFmYzIx`

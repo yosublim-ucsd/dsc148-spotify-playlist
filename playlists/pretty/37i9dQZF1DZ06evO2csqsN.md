@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 
 > This is Latto\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,861 likes - 51 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,900 likes - 51 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 | 50 | [Youngest N Richest](https://open.spotify.com/track/2TctO4deS9kABuiQ7070R1) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Queen of Da Souf](https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF) | 1:44 |
 | 51 | [Step It Up](https://open.spotify.com/track/4tpSjqtLO12aIUHcSBR9rp) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Queen of Da Souf \(Extended Version\) \[Deluxe Version\]](https://open.spotify.com/album/4A7UKf6fz7Vn7jxWE5OYXv) | 2:41 |
 
-Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDA1YjZmNTg4YWI1NTM2NzBkNzdiNTk4OWEyN2ExZWM4Nw==`
+Snapshot ID: `MjgxOTQ1NjMsMDAwMDAwMDAzYTc0YWFhODdiMGI3YmI1MjUxNDFiZDU5NzRlODlkOQ==`

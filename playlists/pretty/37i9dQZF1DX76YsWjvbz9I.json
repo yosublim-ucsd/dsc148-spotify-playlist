@@ -1,12 +1,12 @@
 {
   "description": "The unforgettable romantic Jazz songs. Cover: Nat King Cole",
-  "num_followers": 225164,
+  "num_followers": 225566,
   "original_name": "Jazz for Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTIyNTJhNjhjNjE2MTA3ODlmMTA2ODA0OGU1ZjQwYTIxYWQ1OGUw",
+  "snapshot_id": "MCxiMTBlNThjZTlkNTI5NGY5OTNlNzNlNDIyNWYwNTg5ZjIxMTRhY2Zj",
   "tracks": [
     {
       "added_at": "2023-08-08 14:19:22",
@@ -411,6 +411,22 @@
     {
       "added_at": "2023-08-08 14:19:22",
       "album": {
+        "name": "Swings Rodgers And Hart",
+        "url": "https://open.spotify.com/album/6LArOC2pxaG9rYlTCIIeXN"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 129266,
+      "name": "I Could Write A Book",
+      "url": "https://open.spotify.com/track/04kFa5D5by0or1IN6bI9N7"
+    },
+    {
+      "added_at": "2023-08-08 14:19:22",
+      "album": {
         "name": "John Coltrane And Johnny Hartman",
         "url": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU"
       },
@@ -431,22 +447,6 @@
     {
       "added_at": "2023-08-08 14:19:22",
       "album": {
-        "name": "Billie Holiday With Ray Ellis And His Orchestra",
-        "url": "https://open.spotify.com/album/780YbUDX22mHli9KRZZwKu"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 152346,
-      "name": "All Of You",
-      "url": "https://open.spotify.com/track/3XOJhbofb4qTZdt0RLLrUq"
-    },
-    {
-      "added_at": "2023-08-08 14:19:22",
-      "album": {
         "name": "The Very Thought Of You (Expanded Edition)",
         "url": "https://open.spotify.com/album/485m39lSkx5THJKZCeM5fB"
       },
@@ -463,18 +463,18 @@
     {
       "added_at": "2023-08-08 14:19:22",
       "album": {
-        "name": "Swings Rodgers And Hart",
-        "url": "https://open.spotify.com/album/6LArOC2pxaG9rYlTCIIeXN"
+        "name": "Billie Holiday With Ray Ellis And His Orchestra",
+        "url": "https://open.spotify.com/album/780YbUDX22mHli9KRZZwKu"
       },
       "artists": [
         {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 129266,
-      "name": "I Could Write A Book",
-      "url": "https://open.spotify.com/track/04kFa5D5by0or1IN6bI9N7"
+      "duration_ms": 152346,
+      "name": "All Of You",
+      "url": "https://open.spotify.com/track/3XOJhbofb4qTZdt0RLLrUq"
     },
     {
       "added_at": "2023-08-08 14:19:22",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-08-08 14:19:22",
       "album": {
-        "name": "Mystery Lady: Songs of Billie Holiday",
-        "url": "https://open.spotify.com/album/73XbGVMidbd8XpuNmTVkOW"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 266733,
-      "name": "The Man I Love",
-      "url": "https://open.spotify.com/track/0rXZu998CXslEpwhxdHzeu"
-    },
-    {
-      "added_at": "2023-08-08 14:19:22",
-      "album": {
         "name": "Chet Baker Sings",
         "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 146040,
       "name": "Like Someone In Love - Vocal Version",
       "url": "https://open.spotify.com/track/7HqMu6Oa7jLQVDUuWiy6v2"
+    },
+    {
+      "added_at": "2023-08-08 14:19:22",
+      "album": {
+        "name": "Mystery Lady: Songs of Billie Holiday",
+        "url": "https://open.spotify.com/album/73XbGVMidbd8XpuNmTVkOW"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 266733,
+      "name": "The Man I Love",
+      "url": "https://open.spotify.com/track/0rXZu998CXslEpwhxdHzeu"
     },
     {
       "added_at": "2023-08-08 14:19:22",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-08-08 14:19:22",
       "album": {
+        "name": "All Or Nothing At All",
+        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 226680,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/4x4gE6oHHuZ2y7yUsGuOO1"
+    },
+    {
+      "added_at": "2023-08-08 14:19:22",
+      "album": {
         "name": "The Silver Lining - The Songs of Jerome Kern",
         "url": "https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 174280,
       "name": "The Way You Look Tonight",
       "url": "https://open.spotify.com/track/3mADbrwcu80uRhrgrAaPTz"
-    },
-    {
-      "added_at": "2023-08-08 14:19:22",
-      "album": {
-        "name": "All Or Nothing At All",
-        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 226680,
-      "name": "Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/4x4gE6oHHuZ2y7yUsGuOO1"
     },
     {
       "added_at": "2023-08-08 14:19:22",
@@ -767,26 +767,18 @@
     {
       "added_at": "2023-08-08 14:19:22",
       "album": {
-        "name": "The Essential Doris Day",
-        "url": "https://open.spotify.com/album/747z8vJ5eFQPqeQ2Xtvn31"
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
       },
       "artists": [
         {
-          "name": "Doris Day",
-          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
-        },
-        {
-          "name": "John Rarig",
-          "url": "https://open.spotify.com/artist/6LmrPGHE2WTMLYYToK3O6p"
-        },
-        {
-          "name": "The Mellomen",
-          "url": "https://open.spotify.com/artist/548L4DXlt7N14Mhbfdmdqq"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 161960,
-      "name": "Bewitched, Bothered and Bewildered",
-      "url": "https://open.spotify.com/track/0m4Ka878HsCzbypCAxLQWG"
+      "duration_ms": 173920,
+      "name": "I Only Have Eyes For You",
+      "url": "https://open.spotify.com/track/6Y8QG1S14e2o0Tx0rppi0V"
     },
     {
       "added_at": "2023-08-08 14:19:22",
@@ -807,18 +799,26 @@
     {
       "added_at": "2023-08-08 14:19:22",
       "album": {
-        "name": "September In The Rain",
-        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
+        "name": "The Essential Doris Day",
+        "url": "https://open.spotify.com/album/747z8vJ5eFQPqeQ2Xtvn31"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+        },
+        {
+          "name": "John Rarig",
+          "url": "https://open.spotify.com/artist/6LmrPGHE2WTMLYYToK3O6p"
+        },
+        {
+          "name": "The Mellomen",
+          "url": "https://open.spotify.com/artist/548L4DXlt7N14Mhbfdmdqq"
         }
       ],
-      "duration_ms": 118000,
-      "name": "As Long As I'm In Your Arms",
-      "url": "https://open.spotify.com/track/77fsTNViSLqcwuSMQhSwB0"
+      "duration_ms": 161960,
+      "name": "Bewitched, Bothered and Bewildered",
+      "url": "https://open.spotify.com/track/0m4Ka878HsCzbypCAxLQWG"
     },
     {
       "added_at": "2023-08-08 14:19:22",
@@ -855,18 +855,18 @@
     {
       "added_at": "2023-08-08 14:19:22",
       "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
+        "name": "September In The Rain",
+        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 173920,
-      "name": "I Only Have Eyes For You",
-      "url": "https://open.spotify.com/track/6Y8QG1S14e2o0Tx0rppi0V"
+      "duration_ms": 118000,
+      "name": "As Long As I'm In Your Arms",
+      "url": "https://open.spotify.com/track/77fsTNViSLqcwuSMQhSwB0"
     },
     {
       "added_at": "2023-08-08 14:19:22",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-08-08 14:19:22",
       "album": {
-        "name": "Carmen McRae For Lovers",
-        "url": "https://open.spotify.com/album/7clmDaiCZ59KoFu05W6CAU"
-      },
-      "artists": [
-        {
-          "name": "Carmen McRae",
-          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "When I Fall In Love",
-      "url": "https://open.spotify.com/track/3qo1rizHmEmLPZbCwYSiKX"
-    },
-    {
-      "added_at": "2023-08-08 14:19:22",
-      "album": {
         "name": "September In The Rain",
         "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 167160,
       "name": "I Can't Believe That You're In Love With Me",
       "url": "https://open.spotify.com/track/1RcLTd97Z6CGEXuKxyornO"
+    },
+    {
+      "added_at": "2023-08-08 14:19:22",
+      "album": {
+        "name": "Carmen McRae For Lovers",
+        "url": "https://open.spotify.com/album/7clmDaiCZ59KoFu05W6CAU"
+      },
+      "artists": [
+        {
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+        }
+      ],
+      "duration_ms": 229226,
+      "name": "When I Fall In Love",
+      "url": "https://open.spotify.com/track/3qo1rizHmEmLPZbCwYSiKX"
     },
     {
       "added_at": "2023-08-08 14:19:22",

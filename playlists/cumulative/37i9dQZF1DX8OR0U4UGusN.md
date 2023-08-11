@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [14GRAMS](https://open.spotify.com/track/4sbcTN5D20TF4ouF0zPXXY) | [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF) | [14GRAMS](https://open.spotify.com/album/45s1J9Yxx4F8Vu4xX02mp5) | 3:02 | 2022-02-11 | 2023-01-27 |
+| [14GRAMS](https://open.spotify.com/track/4sbcTN5D20TF4ouF0zPXXY) | [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF) | [14GRAMS](https://open.spotify.com/album/45s1J9Yxx4F8Vu4xX02mp5) | 3:02 | 2022-02-11 |  |
 | [24k](https://open.spotify.com/track/0F2gXzgbzLvK9LrS7yKS8Q) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Last Year Was Weird, Vol\. 2](https://open.spotify.com/album/36nDwdvBHoJMIZn0wzYWrD) | 3:53 | 2021-10-21 | 2022-05-20 |
 | [24k](https://open.spotify.com/track/0lmzmht19LRBtsy8BusjHH) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Last Year Was Weird, Vol.2](https://open.spotify.com/album/7DoQVFuq50UZLWVTVzHGHq) | 3:53 | 2021-11-12 | 2022-05-18 |
 | [3 More Wishes](https://open.spotify.com/track/0K3qrcFbCALwFVfuo1Hzfl) | [Froogle](https://open.spotify.com/artist/1SoqIsFiUIuOm401HsEQso) | [3 More Wishes](https://open.spotify.com/album/7zVb0ohAlTKYMXmHTbKcew) | 2:15 | 2022-05-04 | 2023-01-21 |
@@ -86,7 +86,7 @@
 | [FEEL LIKE](https://open.spotify.com/track/6MFtTpEpk8Q2hZKKfid7SE) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [FEEL LIKE](https://open.spotify.com/album/1eIaahZPGk6xyVETQmZ8pu) | 3:08 | 2022-07-25 | 2022-10-02 |
 | [Feels Like I'm Flying](https://open.spotify.com/track/0rOoY7stMHi3T7J2KmkNdV) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Feels Like I'm Flying](https://open.spotify.com/album/7Kwkp5g082UgcpJtXVOEh7) | 2:35 | 2022-10-06 | 2023-01-27 |
 | [Feels Like I'm Flying](https://open.spotify.com/track/4241yTRttQpIbbP5w45k8p) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Feels Like I'm Flying](https://open.spotify.com/album/6qjchU3qtiwl1TJfM2Pgru) | 2:35 | 2021-11-12 | 2022-10-13 |
-| [Feels Like Yesterday](https://open.spotify.com/track/2UnhQgwBpyZlOtcvhDlx1Y) | [Hala](https://open.spotify.com/artist/1dTBAtLZBUB8Ir4PmJYw9t) | [Feels Like Yesterday](https://open.spotify.com/album/027AHWfrY6McSuGQc4knI2) | 2:56 | 2023-08-09 |  |
+| [Feels Like Yesterday](https://open.spotify.com/track/2UnhQgwBpyZlOtcvhDlx1Y) | [Hala](https://open.spotify.com/artist/1dTBAtLZBUB8Ir4PmJYw9t) | [Feels Like Yesterday](https://open.spotify.com/album/027AHWfrY6McSuGQc4knI2) | 2:56 | 2023-08-09 | 2023-08-11 |
 | [Fiire](https://open.spotify.com/track/0Lsdnv0bZyvuji8Y9fxnn0) | [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS) | [Fiire](https://open.spotify.com/album/5vynu58xVb4kxmlQsF913s) | 3:37 | 2021-08-05 | 2022-11-13 |
 | [fitt \(with Amaarae\)](https://open.spotify.com/track/7ulh0asPyRT8nEkh3qbjBc) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [fitt \(with Amaarae\)](https://open.spotify.com/album/0rcevx17L0BaFLryqgEQZo) | 3:36 | 2021-12-29 | 2022-12-16 |
 | [Flowers](https://open.spotify.com/track/6JJgmmfMsoGTzwCe2f2K8u) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Flowers](https://open.spotify.com/album/0RPeItB8kHKwmYhKAJ8ceq) | 2:34 | 2021-09-03 | 2022-12-01 |

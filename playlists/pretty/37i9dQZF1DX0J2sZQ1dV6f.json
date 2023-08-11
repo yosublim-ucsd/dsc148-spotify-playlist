@@ -1,12 +1,12 @@
 {
   "description": "Perreo after hours.",
-  "num_followers": 84222,
+  "num_followers": 84281,
   "original_name": "4AM Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjU2NGUxY2RjYTNiMTFlYzMyNzYxMzgzMjFlZmRlNTI2ZmE1Zjgx",
+  "snapshot_id": "MCxiYjJhNjIxNmNlYTVjOTM1NTc4NzQzMTM0OGVhMDg3NDg2MjY4MGI4",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -51,22 +51,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Una Noche en Medell\u00edn",
-        "url": "https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Una Noche en Medell\u00edn",
-      "url": "https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Shorty Party",
         "url": "https://open.spotify.com/album/4eoF8b15EaosNzpn2N3Rt9"
       },
@@ -87,18 +71,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "TUYA",
-        "url": "https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3"
+        "name": "Una Noche en Medell\u00edn",
+        "url": "https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
         }
       ],
-      "duration_ms": 154551,
-      "name": "TUYA",
-      "url": "https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO"
+      "duration_ms": 153750,
+      "name": "Una Noche en Medell\u00edn",
+      "url": "https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -123,6 +107,22 @@
       "duration_ms": 178836,
       "name": "Caba\u00f1a",
       "url": "https://open.spotify.com/track/6UR1k5NGqgNGzgVmMtT768"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "TUYA",
+        "url": "https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 154551,
+      "name": "TUYA",
+      "url": "https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -355,26 +355,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "6.5",
-        "url": "https://open.spotify.com/album/2ZbIly4Kwg66WvLpagLIc2"
-      },
-      "artists": [
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        },
-        {
-          "name": "Fran C",
-          "url": "https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8"
-        }
-      ],
-      "duration_ms": 162624,
-      "name": "Donde?",
-      "url": "https://open.spotify.com/track/5iaGRmDzm4aPhttaOEK8OD"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "LOS CULOS DE MEDALLO",
         "url": "https://open.spotify.com/album/4KM5V40PZLMWbBcrzLlduL"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 164210,
       "name": "LOS CULOS DE MEDALLO",
       "url": "https://open.spotify.com/track/2CvfXjMfoheLIdjlkIBjXA"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "6.5",
+        "url": "https://open.spotify.com/album/2ZbIly4Kwg66WvLpagLIc2"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Fran C",
+          "url": "https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8"
+        }
+      ],
+      "duration_ms": 162624,
+      "name": "Donde?",
+      "url": "https://open.spotify.com/track/5iaGRmDzm4aPhttaOEK8OD"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -795,26 +795,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Resistencia",
-        "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        }
-      ],
-      "duration_ms": 200506,
-      "name": "Te Gusta",
-      "url": "https://open.spotify.com/track/4l4AiTqEyjCAJui6xVREH7"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "1000CANCIONES",
         "url": "https://open.spotify.com/album/5cPuXlesp3D0mV5SOKGkjl"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 246600,
       "name": "1000CANCIONES",
       "url": "https://open.spotify.com/track/2i1lLSfz4rmQiYyDBvOWkW"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Resistencia",
+        "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "duration_ms": 200506,
+      "name": "Te Gusta",
+      "url": "https://open.spotify.com/track/4l4AiTqEyjCAJui6xVREH7"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -959,6 +959,30 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Rescato (Remix)",
+        "url": "https://open.spotify.com/album/4zdgdDFyYNofC0d5GHmHhB"
+      },
+      "artists": [
+        {
+          "name": "Blackinny",
+          "url": "https://open.spotify.com/artist/2T0HIl9gOfBS7Z2GgNu7c3"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        }
+      ],
+      "duration_ms": 259000,
+      "name": "Rescato - Remix",
+      "url": "https://open.spotify.com/track/1iJ4sc2MclkuXSyoL97cmH"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Xexo",
         "url": "https://open.spotify.com/album/3fN5xRTyR9ZPR6ETIHKQ6T"
       },
@@ -1035,30 +1059,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Rescato (Remix)",
-        "url": "https://open.spotify.com/album/4zdgdDFyYNofC0d5GHmHhB"
-      },
-      "artists": [
-        {
-          "name": "Blackinny",
-          "url": "https://open.spotify.com/artist/2T0HIl9gOfBS7Z2GgNu7c3"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        }
-      ],
-      "duration_ms": 259000,
-      "name": "Rescato - Remix",
-      "url": "https://open.spotify.com/track/1iJ4sc2MclkuXSyoL97cmH"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "TU ME QUIERES?",
         "url": "https://open.spotify.com/album/5RrxX9kf55iAmhh8x1CjmB"
       },
@@ -1099,6 +1099,26 @@
       "duration_ms": 202239,
       "name": "CLI CLAN - (Remix)",
       "url": "https://open.spotify.com/track/7MAa9K8YxffUkgfjyhzIm1"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "La Dieta",
+        "url": "https://open.spotify.com/album/5h6bpaTTjza3Eqly1g3ggk"
+      },
+      "artists": [
+        {
+          "name": "Maldy",
+          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "duration_ms": 181935,
+      "name": "La Dieta",
+      "url": "https://open.spotify.com/track/057ybvJLKXxHmalgXR7jru"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1159,22 +1179,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Felicidades",
-        "url": "https://open.spotify.com/album/4MehKWkRVXk8Rx4237Ypdr"
-      },
-      "artists": [
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        }
-      ],
-      "duration_ms": 165396,
-      "name": "Felicidades",
-      "url": "https://open.spotify.com/track/1HMs2s2cawWk3ce1aeKsZn"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "BANDIDA",
         "url": "https://open.spotify.com/album/0Gawwvg9JS6p24C2BpmyIb"
       },
@@ -1199,38 +1203,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "La Dieta",
-        "url": "https://open.spotify.com/album/5h6bpaTTjza3Eqly1g3ggk"
+        "name": "FELICIDADES",
+        "url": "https://open.spotify.com/album/4MehKWkRVXk8Rx4237Ypdr"
       },
       "artists": [
-        {
-          "name": "Maldy",
-          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
-        },
         {
           "name": "Lenny Tav\u00e1rez",
           "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
         }
       ],
-      "duration_ms": 181935,
-      "name": "La Dieta",
-      "url": "https://open.spotify.com/track/057ybvJLKXxHmalgXR7jru"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Papi Quiero Perrear",
-        "url": "https://open.spotify.com/album/6vY4xHJXWv0ETD6LiDBbvY"
-      },
-      "artists": [
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        }
-      ],
-      "duration_ms": 135303,
-      "name": "Papi Quiero Perrear",
-      "url": "https://open.spotify.com/track/1fO0hDlLYH13JSEegukxcE"
+      "duration_ms": 165396,
+      "name": "FELICIDADES",
+      "url": "https://open.spotify.com/track/1HMs2s2cawWk3ce1aeKsZn"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1247,6 +1231,22 @@
       "duration_ms": 154626,
       "name": "Kaleidosc\u00f3pica",
       "url": "https://open.spotify.com/track/6M1qcLBhSBIDMmC9wprnLK"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Papi Quiero Perrear",
+        "url": "https://open.spotify.com/album/6vY4xHJXWv0ETD6LiDBbvY"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        }
+      ],
+      "duration_ms": 135303,
+      "name": "Papi Quiero Perrear",
+      "url": "https://open.spotify.com/track/1fO0hDlLYH13JSEegukxcE"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Tira Pa Tra",
-        "url": "https://open.spotify.com/album/6GP8fr8B8GjMPbfwbbk0UN"
-      },
-      "artists": [
-        {
-          "name": "Sael",
-          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
-        }
-      ],
-      "duration_ms": 175933,
-      "name": "Tira Pa Tra",
-      "url": "https://open.spotify.com/track/7e3eBgoH6HuhYrNMQavcgf"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Anti-todo",
         "url": "https://open.spotify.com/album/4yikPqi6jZ5B0fok72MSkm"
       },
@@ -1411,18 +1395,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Ricota",
-        "url": "https://open.spotify.com/album/2yM8BVkcqhFiDvM9gBh1Z3"
+        "name": "Tira Pa Tra",
+        "url": "https://open.spotify.com/album/6GP8fr8B8GjMPbfwbbk0UN"
       },
       "artists": [
         {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
         }
       ],
-      "duration_ms": 160880,
-      "name": "Ricota",
-      "url": "https://open.spotify.com/track/6gQoClTWFGA45WvjJW8XAc"
+      "duration_ms": 175933,
+      "name": "Tira Pa Tra",
+      "url": "https://open.spotify.com/track/7e3eBgoH6HuhYrNMQavcgf"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1443,6 +1427,22 @@
       "duration_ms": 167814,
       "name": "MAMi QU\u00c9 FUE?",
       "url": "https://open.spotify.com/track/4OIqoYd1eZkgzLKaWOsVZt"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Ricota",
+        "url": "https://open.spotify.com/album/2yM8BVkcqhFiDvM9gBh1Z3"
+      },
+      "artists": [
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "duration_ms": 160880,
+      "name": "Ricota",
+      "url": "https://open.spotify.com/track/6gQoClTWFGA45WvjJW8XAc"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Mi real lova",
-        "url": "https://open.spotify.com/album/4QhzuSzmMkVQEqPSIC9Fnn"
-      },
-      "artists": [
-        {
-          "name": "Akatumamy",
-          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
-        },
-        {
-          "name": "Ovyze",
-          "url": "https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4"
-        }
-      ],
-      "duration_ms": 166105,
-      "name": "Mi real lova",
-      "url": "https://open.spotify.com/track/1A8CcPnmexGWEDrzoFwyoR"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Toma (feat. Brray, Lennox, Marconi Impara & Eix) [Remix]",
         "url": "https://open.spotify.com/album/1eXK3aDUkCwyWXNGAUZmWg"
       },
@@ -1579,6 +1559,26 @@
       "duration_ms": 241830,
       "name": "Toma (feat. Brray, Lennox, Marconi Impara & Eix) - Remix",
       "url": "https://open.spotify.com/track/1FjHLdCwr0Kr5rEhHBYExq"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Mi real lova",
+        "url": "https://open.spotify.com/album/4QhzuSzmMkVQEqPSIC9Fnn"
+      },
+      "artists": [
+        {
+          "name": "Akatumamy",
+          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
+        },
+        {
+          "name": "Ovyze",
+          "url": "https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4"
+        }
+      ],
+      "duration_ms": 166105,
+      "name": "Mi real lova",
+      "url": "https://open.spotify.com/track/1A8CcPnmexGWEDrzoFwyoR"
     }
   ],
   "unique_name": "4AM Perreo",

@@ -4,7 +4,7 @@
 
 > 2000년대를 수 놓았던 명곡들을 즐겨보세요.
 
-120 songs - 7 hr 42 min
+121 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [I Want To Fall In Love](https://open.spotify.com/track/4IJC6m6PvRZeNoQG50rV1G) | [Johan Kim](https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3) | [I Want To Fall In Love](https://open.spotify.com/album/0bfMhqJWUeRJ0FJeQL78AV) | 3:52 | 2021-03-11 |  |
 | [I'm Sorry \(Feat\. T.O.P\)](https://open.spotify.com/track/6UF4dbXnxEL2kTKDoGAUS8) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq), [T.O.P.](https://open.spotify.com/artist/4yiB30K5scGkjmAgHGIH8Y) | [Comfort](https://open.spotify.com/album/63mXEu4xtlyEYDxBrs9EVP) | 3:56 | 2021-03-11 |  |
 | [Ice Cream](https://open.spotify.com/track/2KlzrWVFpUIyI2goyvInX4) | [MC MONG](https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD) | [The Way I Am](https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk) | 3:36 | 2021-03-11 |  |
+| [It′s Raining](https://open.spotify.com/track/3mBNDtEiA1bLDYro9glUR5) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [It's Raining](https://open.spotify.com/album/45ngiRidCweoSOwjcSsj0A) | 3:40 | 2021-03-11 |  |
 | [It′s Raining](https://open.spotify.com/track/7gH0gjbvNKZJtryOUNW2Yt) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [It's Raining](https://open.spotify.com/album/3oZ0ClkVrQS6pqb2VCCbhZ) | 3:40 | 2021-03-11 | 2023-08-05 |
 | [Kissing You](https://open.spotify.com/track/18fWwTkrIxojEC2gmVyoxS) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Girls' Generation](https://open.spotify.com/album/2U1BPwhkzHt05OFugiSB3g) | 3:19 | 2021-03-11 |  |
 | [Last Love](https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [SOLISTA Part.2](https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA) | 4:11 | 2021-03-11 |  |
@@ -122,7 +123,7 @@
 | [어떤가요](https://open.spotify.com/track/6oh5mZnvl3qfe9OBXTwnCm) | [Park Hwayobi](https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5) | [Because I Love You](https://open.spotify.com/album/55YORiOuEr6NpZBvWnM9zc) | 4:31 | 2021-03-11 |  |
 | [어쩌다](https://open.spotify.com/track/3uR07k38ydBxRsFOcpKgv5) | [Brown Eyed Girls](https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7) | [Brown Eyed Girls BEST \- Special Moments](https://open.spotify.com/album/5KnUQXqS4EtUiN0tn8sW8y) | 3:23 | 2021-03-11 | 2023-04-26 |
 | [여자이니까](https://open.spotify.com/track/6VmSp1SUpIYVWwDnTWpgYT) | [KISS](https://open.spotify.com/artist/7cce47QG2IibkXS6YdTtR3) | [Kiss](https://open.spotify.com/album/4p1vHQdWMimu548x89KtNN) | 4:17 | 2021-03-11 |  |
-| [외워 두세요](https://open.spotify.com/track/5mwewbv8nbk1rC6s8MowP1) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Double Life ; The Other Side](https://open.spotify.com/album/3soTGhHXEGWYJKw6aSLR98) | 4:26 | 2021-03-11 |  |
+| [외워 두세요](https://open.spotify.com/track/5mwewbv8nbk1rC6s8MowP1) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Double Life ; The Other Side](https://open.spotify.com/album/3soTGhHXEGWYJKw6aSLR98) | 4:26 | 2021-03-11 | 2023-08-11 |
 | [차마...](https://open.spotify.com/track/1sAWuJLbUYdNdl8rrCxK5A) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Double Life ; The Other Side](https://open.spotify.com/album/3soTGhHXEGWYJKw6aSLR98) | 4:12 | 2021-03-11 |  |
 | [추억은 사랑을 닮아](https://open.spotify.com/track/0MjRPE2eH1ZQm9DC3BtZyq) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [The Breeze Of Sea](https://open.spotify.com/album/0bWcrwRhhxMaweFaBA8G1S) | 5:29 | 2021-03-11 |  |
 | [태양을 피하는 방법 How to Run From the Sun \(Gtr.Remix\)](https://open.spotify.com/track/2ESHlCrJsHzgx8XL1MCkFo) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [RAIN 2](https://open.spotify.com/album/7gjMBUCENFdEPZwSlVW1gE) | 3:51 | 2021-03-11 | 2023-08-05 |

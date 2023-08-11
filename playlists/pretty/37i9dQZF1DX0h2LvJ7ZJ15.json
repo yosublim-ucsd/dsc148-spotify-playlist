@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 937464,
+  "num_followers": 939165,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWYxMDE3NjExN2NhYzcyMGYwYTkwMDQ0MjFhY2RkZjU4NDFjZDZh",
+  "snapshot_id": "MCwwYWFjZTg3MDFhNjY0NTc0MTY1OWE4YjEzOGY4ZGQ2NWFjZDI5M2Ri",
   "tracks": [
     {
       "added_at": "2023-08-03 13:04:48",
@@ -63,22 +63,6 @@
     {
       "added_at": "2023-08-03 13:04:48",
       "album": {
-        "name": "CRYSTALS (Remixes)",
-        "url": "https://open.spotify.com/album/6Mm3ztOCaGqwRudNjtPyv5"
-      },
-      "artists": [
-        {
-          "name": "PR1SVX",
-          "url": "https://open.spotify.com/artist/12NSBgMVPKhwB8tDMsoYpP"
-        }
-      ],
-      "duration_ms": 75833,
-      "name": "CRYSTALS (Slowed)",
-      "url": "https://open.spotify.com/track/3hfvzrj13TtfKq8P3WG2Q1"
-    },
-    {
-      "added_at": "2023-08-03 13:04:48",
-      "album": {
         "name": "METAMORPHOSIS (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/4z0nL9bblVphvhmt8o15yO"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 172219,
       "name": "METAMORPHOSIS - Slowed + Reverb",
       "url": "https://open.spotify.com/track/02oUvHd9QhVUO4YYb7t9JM"
+    },
+    {
+      "added_at": "2023-08-03 13:04:48",
+      "album": {
+        "name": "CRYSTALS (Remixes)",
+        "url": "https://open.spotify.com/album/6Mm3ztOCaGqwRudNjtPyv5"
+      },
+      "artists": [
+        {
+          "name": "PR1SVX",
+          "url": "https://open.spotify.com/artist/12NSBgMVPKhwB8tDMsoYpP"
+        }
+      ],
+      "duration_ms": 75833,
+      "name": "CRYSTALS (Slowed)",
+      "url": "https://open.spotify.com/track/3hfvzrj13TtfKq8P3WG2Q1"
     },
     {
       "added_at": "2023-08-03 13:04:48",
@@ -199,22 +199,6 @@
     {
       "added_at": "2023-08-03 13:04:48",
       "album": {
-        "name": "I'm Geekin (Sped Up + Slowed Down)",
-        "url": "https://open.spotify.com/album/6wmDz02Vg21p7tFEwxNBws"
-      },
-      "artists": [
-        {
-          "name": "DDG",
-          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
-        }
-      ],
-      "duration_ms": 114690,
-      "name": "I'm Geekin - Slowed Down",
-      "url": "https://open.spotify.com/track/7s6Qiw4ArIssZ9QP5mxPRk"
-    },
-    {
-      "added_at": "2023-08-03 13:04:48",
-      "album": {
         "name": "ecstacy (slowed)",
         "url": "https://open.spotify.com/album/6KLSjdqyjISLUhW8bx0Bqi"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 119120,
       "name": "ecstacy (slowed)",
       "url": "https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS"
+    },
+    {
+      "added_at": "2023-08-03 13:04:48",
+      "album": {
+        "name": "I'm Geekin (Sped Up + Slowed Down)",
+        "url": "https://open.spotify.com/album/6wmDz02Vg21p7tFEwxNBws"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        }
+      ],
+      "duration_ms": 114690,
+      "name": "I'm Geekin - Slowed Down",
+      "url": "https://open.spotify.com/track/7s6Qiw4ArIssZ9QP5mxPRk"
     },
     {
       "added_at": "2023-08-03 13:04:48",
@@ -467,18 +467,26 @@
     {
       "added_at": "2023-08-03 13:04:48",
       "album": {
-        "name": "prolly my spookiest beat (slowed + reverb)",
-        "url": "https://open.spotify.com/album/5qB7QM6PhhJMZcg0zSRei1"
+        "name": "LOOK DON'T TOUCH (STARE STARE STARE)",
+        "url": "https://open.spotify.com/album/3quZlwSsK1qyhiwqLx95te"
       },
       "artists": [
         {
-          "name": "prodby668",
-          "url": "https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F"
+          "name": "ODECORE",
+          "url": "https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7"
+        },
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "cade clair",
+          "url": "https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm"
         }
       ],
-      "duration_ms": 141509,
-      "name": "prolly my spookiest beat (slowed + reverb)",
-      "url": "https://open.spotify.com/track/0UYUdfqkHplLojTuEKMqtC"
+      "duration_ms": 157090,
+      "name": "LOOK DON'T TOUCH - Slowed & Reverbed",
+      "url": "https://open.spotify.com/track/2xLCNc9jc87ujLXnG7wYM4"
     },
     {
       "added_at": "2023-08-03 13:04:48",
@@ -503,26 +511,18 @@
     {
       "added_at": "2023-08-03 13:04:48",
       "album": {
-        "name": "LOOK DON'T TOUCH (STARE STARE STARE)",
-        "url": "https://open.spotify.com/album/3quZlwSsK1qyhiwqLx95te"
+        "name": "prolly my spookiest beat (slowed + reverb)",
+        "url": "https://open.spotify.com/album/5qB7QM6PhhJMZcg0zSRei1"
       },
       "artists": [
         {
-          "name": "ODECORE",
-          "url": "https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7"
-        },
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        },
-        {
-          "name": "cade clair",
-          "url": "https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm"
+          "name": "prodby668",
+          "url": "https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F"
         }
       ],
-      "duration_ms": 157090,
-      "name": "LOOK DON'T TOUCH - Slowed & Reverbed",
-      "url": "https://open.spotify.com/track/2xLCNc9jc87ujLXnG7wYM4"
+      "duration_ms": 141509,
+      "name": "prolly my spookiest beat (slowed + reverb)",
+      "url": "https://open.spotify.com/track/0UYUdfqkHplLojTuEKMqtC"
     },
     {
       "added_at": "2023-08-03 13:04:48",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-08-03 13:04:48",
       "album": {
-        "name": "Go (Remixes)",
-        "url": "https://open.spotify.com/album/1kGbwOHke3PrRnZAmlkoOu"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "go - Lower & Slower",
-      "url": "https://open.spotify.com/track/4W1dEYQlTmRXabO9xhLGZi"
-    },
-    {
-      "added_at": "2023-08-03 13:04:48",
-      "album": {
         "name": "Escapism.",
         "url": "https://open.spotify.com/album/4parxQfGC25WtlVVAm5S9q"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 287135,
       "name": "Escapism. - Slowed Down",
       "url": "https://open.spotify.com/track/4iQzqoAi1ETVOatMaHGptG"
+    },
+    {
+      "added_at": "2023-08-03 13:04:48",
+      "album": {
+        "name": "Go (Remixes)",
+        "url": "https://open.spotify.com/album/1kGbwOHke3PrRnZAmlkoOu"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "go - Lower & Slower",
+      "url": "https://open.spotify.com/track/4W1dEYQlTmRXabO9xhLGZi"
     },
     {
       "added_at": "2023-08-03 13:04:48",

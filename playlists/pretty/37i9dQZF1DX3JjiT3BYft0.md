@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,418 likes - 75 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,438 likes - 75 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 26 | [Sacred world](https://open.spotify.com/track/6we8ssFEZQCPaCeiaA1F9s) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Sacred World](https://open.spotify.com/album/2GVUuRKJ4Xv5SBDOgaB3jJ) | 5:01 |
 | 27 | [R](https://open.spotify.com/track/3q6152nwxpjkzKFUOPe1EJ) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Wahl](https://open.spotify.com/album/0QFCJnuyWXGoVD6MgOYLGz) | 4:45 |
 | 28 | [ふたつの月 \~Deep Into The Forest\~](https://open.spotify.com/track/4tj5fNbEfMjDRodJwRGEOG) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [ふたつの月 \~Deep Into The Forest\~](https://open.spotify.com/album/0NeJSlobmsgcpuV34ZogUl) | 4:55 |
-| 29 | [Y.O.L.O!!!!!](https://open.spotify.com/track/4sHH1pvgANEqAWt2zpQKSQ) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6) | 4:30 |
+| 29 | [Crow Song](https://open.spotify.com/track/15rV2JsUB8w2QQP2ys5MCc) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 4:04 |
 | 30 | [chAngE](https://open.spotify.com/track/3T0sYOXi3WyAdYfvehcVh8) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection2](https://open.spotify.com/album/4WCgOSPHvttTkauOBcyyzK) | 4:09 |
 | 31 | [EXPOSE ‘Burn out!!!’](https://open.spotify.com/track/37uJsqSgt2jRYWQO5z4A03) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [ERA](https://open.spotify.com/album/7rw0JTu5asLZcjzmCUmbgD) | 4:43 |
 | 32 | [ティアドロップス](https://open.spotify.com/track/2SI7zaBCXvKEeASHS0I7cJ) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Poppin’on!](https://open.spotify.com/album/4zb8XgVyapzSvGKBdvO5sI) | 3:37 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 36 | [す、好きなんかじゃない!](https://open.spotify.com/track/50lLGQbFwJUHuIsXJzsBpw) | [市ヶ谷有咲\(CV.伊藤彩沙\)](https://open.spotify.com/artist/42iK1LthFSToAk8siJWOry) | [TVアニメ「BanG Dream!」キャラクターソング 市ヶ谷有咲「す、好きなんかじゃない!」](https://open.spotify.com/album/5SmqqAK33mUkAYmuwdLqvA) | 3:56 |
 | 37 | [LOUDER](https://open.spotify.com/track/3SQrzvJFTclycqYohgQHhH) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Anfang](https://open.spotify.com/album/7JmXCKV1IBEx2PXNLRU63H) | 3:34 |
 | 38 | [Returns](https://open.spotify.com/track/3V8PvJTL3QUenvsUHcNFj1) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Breakthrough!](https://open.spotify.com/album/31WVyzxbAYQTeduFneMNi3) | 5:23 |
-| 39 | [Crow Song](https://open.spotify.com/track/15rV2JsUB8w2QQP2ys5MCc) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 4:04 |
+| 39 | [Y.O.L.O!!!!!](https://open.spotify.com/track/4sHH1pvgANEqAWt2zpQKSQ) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6) | 4:30 |
 | 40 | [誓いのWingbeat](https://open.spotify.com/track/7naImdQq3UtTHO5w9bETn6) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 4:15 |
 | 41 | [キミがいなくちゃっ!](https://open.spotify.com/track/3EoWSf3jmiMPN1h5V1X9IJ) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [にこにこねくと!](https://open.spotify.com/album/131kJsxIA8QV6mWqGCvOzK) | 4:03 |
 | 42 | [しゅわりん☆どり\~みん](https://open.spotify.com/track/4viy9f3Ka81kR1Gf2U9hAY) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [TITLE IDOL](https://open.spotify.com/album/50vo1TV6EBHYVv7JrZtzbB) | 3:55 |
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 63 | [灼熱 Bonfire!](https://open.spotify.com/track/1kbvJ9ovjKzoibiWzeBkaB) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Domination to world](https://open.spotify.com/album/4hQnaCfXlMwWHofrkAQDOE) | 3:44 |
 | 64 | [BRAVE JEWEL](https://open.spotify.com/track/0UUdr5Qqnn7RdzX6v47KVa) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Wahl](https://open.spotify.com/album/0QFCJnuyWXGoVD6MgOYLGz) | 4:07 |
 | 65 | [ROZEN HORIZON](https://open.spotify.com/track/1hypmw0p1Ntu6T5VcAfT6K) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ROZEN HORIZON](https://open.spotify.com/album/6M4B2rkX3eByOIpi9DQaiz) | 6:06 |
-| 66 | [Song I am.](https://open.spotify.com/track/289IAotG694ek6V1Lp54Ue) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Wahl](https://open.spotify.com/album/0QFCJnuyWXGoVD6MgOYLGz) | 4:02 |
-| 67 | [名無声](https://open.spotify.com/track/5Sy6e7DWNRJ8CH2UiY9p4Q) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [迷星叫](https://open.spotify.com/album/0RJxReQpSLRaXxHBVD8zCG) | 4:31 |
-| 68 | [閃光](https://open.spotify.com/track/10TQk2XVEhrTxODRemdsxT) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ROZEN HORIZON](https://open.spotify.com/album/6M4B2rkX3eByOIpi9DQaiz) | 3:38 |
-| 69 | [UNSTOPPABLE](https://open.spotify.com/track/4ESSZqnHF1VDK3zsqk2vvM) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [ERA](https://open.spotify.com/album/7rw0JTu5asLZcjzmCUmbgD) | 3:50 |
-| 70 | [一逢のFull Glory](https://open.spotify.com/track/7fdvlp4OsE80nmu6zE17UV) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [THRONE OF ROSE](https://open.spotify.com/album/5T9zAW5eBxScqxJAp12b4S) | 3:52 |
+| 66 | [名無声](https://open.spotify.com/track/5Sy6e7DWNRJ8CH2UiY9p4Q) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [迷星叫](https://open.spotify.com/album/0RJxReQpSLRaXxHBVD8zCG) | 4:31 |
+| 67 | [Song I am.](https://open.spotify.com/track/289IAotG694ek6V1Lp54Ue) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Wahl](https://open.spotify.com/album/0QFCJnuyWXGoVD6MgOYLGz) | 4:02 |
+| 68 | [一逢のFull Glory](https://open.spotify.com/track/7fdvlp4OsE80nmu6zE17UV) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [THRONE OF ROSE](https://open.spotify.com/album/5T9zAW5eBxScqxJAp12b4S) | 3:52 |
+| 69 | [閃光](https://open.spotify.com/track/10TQk2XVEhrTxODRemdsxT) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ROZEN HORIZON](https://open.spotify.com/album/6M4B2rkX3eByOIpi9DQaiz) | 3:38 |
+| 70 | [UNSTOPPABLE](https://open.spotify.com/track/4ESSZqnHF1VDK3zsqk2vvM) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [ERA](https://open.spotify.com/album/7rw0JTu5asLZcjzmCUmbgD) | 3:50 |
 | 71 | [Blessing Chord](https://open.spotify.com/track/1gIDTFzgfEGSWotGHdVxEo) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ZEAL of proud](https://open.spotify.com/album/0UEMFucTRzadENAzk8wMgU) | 4:37 |
 | 72 | [Sing Alive](https://open.spotify.com/track/59TG3QLUt4mvnPKY07H5la) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [劇場版「BanG Dream! Episode of Roselia」Theme Songs Collection](https://open.spotify.com/album/5u6E8FwjrbRDYrVh0SVHlS) | 5:15 |
 | 73 | [BLACK SHOUT](https://open.spotify.com/track/6NhXiTNe6XM5thwqyL610L) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Anfang](https://open.spotify.com/album/7JmXCKV1IBEx2PXNLRU63H) | 4:04 |
 | 74 | [Proud of oneself](https://open.spotify.com/track/4DzmwPT3R4WvNK3uoZUti0) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [劇場版「BanG Dream! Episode of Roselia」Theme Songs Collection](https://open.spotify.com/album/5u6E8FwjrbRDYrVh0SVHlS) | 3:55 |
 | 75 | [約束](https://open.spotify.com/track/0mMlO2uGxvX8Mr11RSB4y9) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Wahl](https://open.spotify.com/album/0QFCJnuyWXGoVD6MgOYLGz) | 5:04 |
 
-Snapshot ID: `MCwxZWVlMjQ4YjI1YTkzNDRjYjg4YmY0MThiYmY4NDYwYThiNzUzOGMz`
+Snapshot ID: `MCwyM2JlMzQ5YzRmYTU2ZjI5MGIwNDc1ZmRhY2ZlZTkyNjM0NzJmYTU5`

@@ -2,9 +2,9 @@
 
 ### [Dillihood](https://open.spotify.com/playlist/37i9dQZF1DX29WNJPsxILP)
 
-> Rap from the hoods of Dilli featuring DRV
+> Rap from the hoods of Dilli featuring Panther & Spectra Music
 
-81 songs - 4 hr 24 min
+82 songs - 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [RAASHAH](https://open.spotify.com/track/7sAb2f62IJ28DvEP6x3FRw) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [HARD DRIVE Vol\. 1](https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv) | 3:40 | 2023-03-10 |  |
 | [Rishte](https://open.spotify.com/track/2RKQzkqmZvqGr1G328uocF) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [Bhram \(Deluxe\)](https://open.spotify.com/album/79E5VDPJEVHjfwVoQw6v9d) | 4:17 | 2023-03-10 |  |
 | [Saath Ya Khilaaf](https://open.spotify.com/track/3PpzBZMTrCuNx4TC6SZN69) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Saath Ya Khilaaf](https://open.spotify.com/album/5Y73P4JbAElupnQAZCStkR) | 3:34 | 2023-03-10 |  |
+| [Samajh Rahi Hai](https://open.spotify.com/track/680FKrGby9wBLFIzY2MFf9) | [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0), [Spectra Music](https://open.spotify.com/artist/6kQXMHA8JGJQsRsMBqqe7l) | [Samajh Rahi Hai](https://open.spotify.com/album/1k8V6kgfwZp4Bx7IyqzTQ4) | 2:53 | 2023-08-10 |  |
 | [Sanki](https://open.spotify.com/track/0Dwsm89mqCLjfwiRstctbl) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Aghor](https://open.spotify.com/artist/3AsmJFW9t14OXuJp9zOuPk) | [Nishu](https://open.spotify.com/album/0PA5ewwEHCceY61xBeVBV1) | 4:58 | 2023-03-10 |  |
 | [Sath Chalegi](https://open.spotify.com/track/0mTscimdid589rZpKNJZPu) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Rish](https://open.spotify.com/artist/0KzR1TCZ13KSIabw8xUaMK) | [Sath Chalegi](https://open.spotify.com/album/6359k4XlwyF81N12omSDHD) | 2:18 | 2023-03-10 |  |
 | [Saza\-E\-Maut](https://open.spotify.com/track/2ikI9Y7PCPIavU0TMSpF31) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Still Here](https://open.spotify.com/album/3TWJqzaophqIi6ZIm5wkux) | 3:00 | 2023-03-10 |  |

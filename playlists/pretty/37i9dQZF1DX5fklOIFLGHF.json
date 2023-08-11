@@ -1,12 +1,12 @@
 {
   "description": "Rock sin vueltas. Foto: EMI",
-  "num_followers": 17623,
+  "num_followers": 17627,
   "original_name": "La Frecuencia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzc1MWJlZGZjYmM1MmE0YzI1ZTQxMzRjNjQzZDcyNTg2NjdlNTNj",
+  "snapshot_id": "MCw0ZmVlZTVlZmRmZGVjZWMwNGYyNDQ5OTAxNmRiZDRlMTU3Mzc0MWRm",
   "tracks": [
     {
       "added_at": "2023-08-04 03:00:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Escape (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 250986,
-      "name": "Don't Stop Believin'",
-      "url": "https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
         "name": "Back In Black",
         "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 255493,
       "name": "Back In Black",
       "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "Escape (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 250986,
+      "name": "Don't Stop Believin'",
+      "url": "https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Physical Graffiti (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 517125,
-      "name": "Kashmir - Remaster",
-      "url": "https://open.spotify.com/track/6Vjk8MNXpQpi0F4BefdTyq"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
         "name": "Bocanada",
         "url": "https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC"
       },
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Dire Straits",
-        "url": "https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe"
+        "name": "Physical Graffiti (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y"
       },
       "artists": [
         {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
         }
       ],
-      "duration_ms": 350400,
-      "name": "Sultans of Swing",
-      "url": "https://open.spotify.com/track/6cr6UDpkjEaMQ80OjWqEBQ"
+      "duration_ms": 517125,
+      "name": "Kashmir - Remaster",
+      "url": "https://open.spotify.com/track/6Vjk8MNXpQpi0F4BefdTyq"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1103,6 +1087,22 @@
       "duration_ms": 212893,
       "name": "Born To Be Wild - Single Version",
       "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "Dire Straits",
+        "url": "https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 350400,
+      "name": "Sultans of Swing",
+      "url": "https://open.spotify.com/track/6cr6UDpkjEaMQ80OjWqEBQ"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Ah\u00ed Vamos",
-        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 308946,
-      "name": "Lago en el Cielo",
-      "url": "https://open.spotify.com/track/17eJyYLIlMNlOqcwHYJ9F2"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
         "name": "27",
         "url": "https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 289654,
       "name": "Me Gusta",
       "url": "https://open.spotify.com/track/67Q93kXygxCskeQiIP0V0j"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "Ah\u00ed Vamos",
+        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 308946,
+      "name": "Lago en el Cielo",
+      "url": "https://open.spotify.com/track/17eJyYLIlMNlOqcwHYJ9F2"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Fuerza Natural",
-        "url": "https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8"
+        "name": "27",
+        "url": "https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo"
       },
       "artists": [
         {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
         }
       ],
-      "duration_ms": 234760,
-      "name": "Cactus",
-      "url": "https://open.spotify.com/track/1NeZxBuSEhikl0ZrOSgpuW"
+      "duration_ms": 256190,
+      "name": "M\u00edrenla",
+      "url": "https://open.spotify.com/track/0WuKq2LiraBFney78dzwoc"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1351,34 +1351,18 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "27",
-        "url": "https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo"
+        "name": "Fuerza Natural",
+        "url": "https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8"
       },
       "artists": [
         {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
         }
       ],
-      "duration_ms": 256190,
-      "name": "M\u00edrenla",
-      "url": "https://open.spotify.com/track/0WuKq2LiraBFney78dzwoc"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
-        "name": "Buscando un Amor",
-        "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
-      },
-      "artists": [
-        {
-          "name": "Pappo",
-          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
-        }
-      ],
-      "duration_ms": 161133,
-      "name": "Juntos a la Par",
-      "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
+      "duration_ms": 234760,
+      "name": "Cactus",
+      "url": "https://open.spotify.com/track/1NeZxBuSEhikl0ZrOSgpuW"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1395,6 +1379,22 @@
       "duration_ms": 254106,
       "name": "Yendo a la Casa de Dami\u00e1n",
       "url": "https://open.spotify.com/track/3tUk2PzTp8KCIU4cxstJq1"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "Buscando un Amor",
+        "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
+      },
+      "artists": [
+        {
+          "name": "Pappo",
+          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
+        }
+      ],
+      "duration_ms": 161133,
+      "name": "Juntos a la Par",
+      "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1527,22 +1527,18 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Otras Canciones",
-        "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
+        "name": "The Best Of The Animals",
+        "url": "https://open.spotify.com/album/0h5qS8o0dAoPfj6bLg3z3Y"
       },
       "artists": [
         {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        },
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+          "name": "The Animals",
+          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
         }
       ],
-      "duration_ms": 237873,
-      "name": "De Nada Sirve",
-      "url": "https://open.spotify.com/track/2CFDPiNUxcSOqfQtUHYNxF"
+      "duration_ms": 269720,
+      "name": "House Of The Rising Sun",
+      "url": "https://open.spotify.com/track/61Q9oJNd9hJQFhSDh6Qlap"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1563,18 +1559,22 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "The Best Of The Animals",
-        "url": "https://open.spotify.com/album/0h5qS8o0dAoPfj6bLg3z3Y"
+        "name": "Otras Canciones",
+        "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
       },
       "artists": [
         {
-          "name": "The Animals",
-          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
         }
       ],
-      "duration_ms": 269720,
-      "name": "House Of The Rising Sun",
-      "url": "https://open.spotify.com/track/61Q9oJNd9hJQFhSDh6Qlap"
+      "duration_ms": 237873,
+      "name": "De Nada Sirve",
+      "url": "https://open.spotify.com/track/2CFDPiNUxcSOqfQtUHYNxF"
     },
     {
       "added_at": "2023-08-04 03:00:00",

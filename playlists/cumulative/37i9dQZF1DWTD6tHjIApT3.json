@@ -7141,6 +7141,32 @@
     },
     {
       "album": {
+        "name": "Into The Night (feat. ZIN & \u9ed2\u7530\u5353\u4e5f)",
+        "url": "https://open.spotify.com/album/3r1jhjYj8DPOTlawfBTmVP"
+      },
+      "artists": [
+        {
+          "name": "Kei Owada",
+          "url": "https://open.spotify.com/artist/3uxdiisUeUl9eXJ9KfDy4C"
+        },
+        {
+          "name": "ZIN",
+          "url": "https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS"
+        },
+        {
+          "name": "Takuya Kuroda",
+          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287000,
+      "name": "Into The Night (feat. ZIN & \u9ed2\u7530\u5353\u4e5f)",
+      "url": "https://open.spotify.com/track/3bD6V7HK99QSLLmZFlJP3w"
+    },
+    {
+      "album": {
         "name": "JiLL-Decoy association 10 -Double-",
         "url": "https://open.spotify.com/album/1gyUhmViC36wfc04CICOb2"
       },
@@ -12710,6 +12736,24 @@
       "duration_ms": 221895,
       "name": "sayonara diver",
       "url": "https://open.spotify.com/track/6qoYr0vIlHYFxfLD6bmyEl"
+    },
+    {
+      "album": {
+        "name": "\u30eb\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/2xtLw7EyNr9AQ0UXbQDkBv"
+      },
+      "artists": [
+        {
+          "name": "NOMELON NOLEMON",
+          "url": "https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244266,
+      "name": "SAYONARA MAYBE",
+      "url": "https://open.spotify.com/track/6RAskN5GPMpjnJgY3P7QBD"
     },
     {
       "album": {
@@ -18920,7 +18964,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 245962,
       "name": "\u3058\u3083\u3042\u306d\u3001\u307e\u305f\u306d\u3002",
       "url": "https://open.spotify.com/track/6hDhcQg11LxCk3rcaRlyb6"
@@ -19550,7 +19594,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 205133,
       "name": "\u3072\u3053\u3046\u304d\u96f2 - 2022 mix",
       "url": "https://open.spotify.com/track/3qM1bwuq5LssWDoHUNZAri"
@@ -22270,7 +22314,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 264117,
       "name": "\u30d6\u30eb\u30fc\u30b0\u30e9\u30b9",
       "url": "https://open.spotify.com/track/4kuKGST6Pj4iMZBpO6BYl4"
@@ -24651,6 +24695,24 @@
     },
     {
       "album": {
+        "name": "\u547d\u65e5",
+        "url": "https://open.spotify.com/album/3EyFQsmNuR6GLjwrM6RCui"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201691,
+      "name": "\u547d\u65e5",
+      "url": "https://open.spotify.com/track/6mVPXi1jaOFgDkJNkTZJk4"
+    },
+    {
+      "album": {
         "name": "\u5618\u3064\u304d",
         "url": "https://open.spotify.com/album/2rfCdxN23vdebt3daHiK5X"
       },
@@ -25566,6 +25628,24 @@
       "duration_ms": 195340,
       "name": "\u597d\u304d\u306a\u3088\u3046\u306b",
       "url": "https://open.spotify.com/track/3tLyaiz0o1oKcibp8NaZK3"
+    },
+    {
+      "album": {
+        "name": "\u5984\u60f3\u811a\u672c\u57f7\u7b46\u6d3b\u52d5",
+        "url": "https://open.spotify.com/album/3jSCPwRonPwBHFuCNQRNvm"
+      },
+      "artists": [
+        {
+          "name": "asmi",
+          "url": "https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212733,
+      "name": "\u5984\u60f3\u811a\u672c\u57f7\u7b46\u6d3b\u52d5",
+      "url": "https://open.spotify.com/track/4U5q0T968pJe6qUcToelwn"
     },
     {
       "album": {
@@ -30110,7 +30190,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 228013,
       "name": "\u9752\u85cd\u904a\u6cf3",
       "url": "https://open.spotify.com/track/2197fRE2IBsnja9r18RejV"

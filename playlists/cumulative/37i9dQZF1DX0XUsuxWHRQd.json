@@ -29801,6 +29801,24 @@
     },
     {
       "album": {
+        "name": "Straight Outta Compton",
+        "url": "https://open.spotify.com/album/0Y7qkJVZ06tS2GUCDptzyW"
+      },
+      "artists": [
+        {
+          "name": "N.W.A.",
+          "url": "https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258687,
+      "name": "Straight Outta Compton",
+      "url": "https://open.spotify.com/track/6KIKRz9eSTXdNsGUnomdtW"
+    },
+    {
+      "album": {
         "name": "What It Means To Be King",
         "url": "https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B"
       },

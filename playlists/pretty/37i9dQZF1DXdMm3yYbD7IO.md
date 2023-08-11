@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 
 > Move your body with your favorite 90s songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,456 likes - 75 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,869 likes - 75 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 | 8 | [Livin' la Vida Loca](https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:03 |
 | 9 | [Boom, Boom, Boom, Boom!!](https://open.spotify.com/track/5N6M8yDiMV32T6Rkzh8EbW) | [Vengaboys](https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj) | [The Party Album!](https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx) | 3:22 |
 | 10 | [Jump Around \- 30 Years Remaster](https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq) | [House Of Pain](https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV) | [House of Pain \(Fine Malt Lyrics\) \[30 Years\] \[Deluxe Edition\]](https://open.spotify.com/album/1GYvmeraQXDxxSC9T3RDvM) | 3:38 |
-| 11 | [Coco Jamboo](https://open.spotify.com/track/5fRvePkRGdpn2nKacG7I6d) | [Mr\. President](https://open.spotify.com/artist/7KBkgunlONG7LPxs93pgpp) | [We See The Same Sun](https://open.spotify.com/album/2aMWSTZkHdS6mR28WtpuxY) | 3:38 |
-| 12 | [U Can't Touch This](https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu) | [MC Hammer](https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW) | [Please Hammer Don't Hurt 'Em](https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN) | 4:17 |
+| 11 | [U Can't Touch This](https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu) | [MC Hammer](https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW) | [Please Hammer Don't Hurt 'Em](https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN) | 4:17 |
+| 12 | [Coco Jamboo](https://open.spotify.com/track/5fRvePkRGdpn2nKacG7I6d) | [Mr\. President](https://open.spotify.com/artist/7KBkgunlONG7LPxs93pgpp) | [We See The Same Sun](https://open.spotify.com/album/2aMWSTZkHdS6mR28WtpuxY) | 3:38 |
 | 13 | [Gettin' Jiggy Wit It](https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Big Willie Style](https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq) | 3:47 |
 | 14 | [Scatman \(ski\-ba\-bop\-ba\-dop\-bop\)](https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh) | [Scatman John](https://open.spotify.com/artist/4omQQTNN7ILiMsSB2k9eqX) | [Scatman's World](https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j) | 3:35 |
 | 15 | [The Sign](https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [The Sign](https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB) | 3:11 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 | 74 | [Poison](https://open.spotify.com/track/50DAHcCqneoupFyh96P2GP) | [Bell Biv DeVoe](https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL) | [Poison \(Expanded Edition\)](https://open.spotify.com/album/3Fa7c5eB1TiAhoyhS4ReNi) | 4:21 |
 | 75 | [Escapade](https://open.spotify.com/track/5HAv1Ckfe50DUjv8ghwTrz) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Rhythm Nation 1814](https://open.spotify.com/album/4OD3LU6001esAtFshDX46M) | 4:43 |
 
-Snapshot ID: `MCxiZjM5ZjhlNWZlYzc1YmIyMjcyZDJlZmI2NzA0MWU1ZjAxMTE5YWM0`
+Snapshot ID: `MCwxMjk0N2Y5YjUyNDJiYWExNjIyNWVkM2VhYzQ3YTMwOGY0ZjMyMmFk`

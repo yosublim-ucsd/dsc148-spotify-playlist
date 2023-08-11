@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,975 likes - 111 songs - 6 hr 12 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,974 likes - 112 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,5 +119,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 109 | [Doin' Fine](https://open.spotify.com/track/21IEP05e11FUtTHgi1azuj) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm) | [Doin' Fine](https://open.spotify.com/album/5nFIBGaI1Hx9U25UIQ0UF3) | 3:27 |
 | 110 | [Don't Look Down \(feat\. BANKS\)](https://open.spotify.com/track/0NUsMgXjITsbxk5WC4aleu) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Don't Look Down \(feat\. BANKS\)](https://open.spotify.com/album/1tBi2zMsVkQYk8VBkdCNnu) | 3:25 |
 | 111 | [Nowhere](https://open.spotify.com/track/31gMxpu8lSWdIBayKt5ED3) | [Chet Porter](https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb) | [Nowhere](https://open.spotify.com/album/4iWqhU4VbUG7RWRk9L7Utz) | 3:13 |
+| 112 | [i luv ur smile](https://open.spotify.com/track/4rX8Np5NElrnKeCd4KDNbD) | [Harrisun](https://open.spotify.com/artist/7Fs3Yj5hp3rvtj9JSXYiSa), [Teddy Roxpin](https://open.spotify.com/artist/0MZ2kdIMm8GrHOzPm1QK1A) | [i luv ur smile](https://open.spotify.com/album/19ADS40GUeLlNCa7Rbk2gP) | 4:07 |
 
-Snapshot ID: `MTA0MDksMTA3OTc5NDY4Y2YyYjI3OTI5ODAzY2NiNWJhZWVmOTIxOWJlMTdiYg==`
+Snapshot ID: `MTA0MTAsMWM5MTEwNGVjNDI4NmVlN2ZlZTQ3MTY5MWEzNjVkYWUxNzI3ODgxNA==`

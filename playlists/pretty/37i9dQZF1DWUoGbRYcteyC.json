@@ -1,12 +1,12 @@
 {
   "description": "Qu\u00e9 bonito se siente el amor. \ud83d\udc98",
-  "num_followers": 2008996,
+  "num_followers": 2009276,
   "original_name": "Amor Amor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjg0M2FiNTk5OTdiNjkwZGI2OTUyYTE1ODY1MzIzMzcwMTIwNGFi",
+  "snapshot_id": "MCxhNGJkNWJiMGY1OWJkNzE5NDI2NDg0NGZhMjEwN2IyYWQ2NjAzNmU4",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -47,6 +47,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Un D\u00eda Normal",
+        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 250693,
+      "name": "Es Por Ti",
+      "url": "https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Por el Resto de Tu Vida",
         "url": "https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 197476,
       "name": "Por el Resto de Tu Vida",
       "url": "https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Un D\u00eda Normal",
-        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 250693,
-      "name": "Es Por Ti",
-      "url": "https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 215066,
+      "name": "Un Hombre Busca a Una Mujer",
+      "url": "https://open.spotify.com/track/3ZRUhvuUE2lwZF19puKM8P"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Amar Es Combatir",
         "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 264720,
       "name": "Bendita Tu Luz",
       "url": "https://open.spotify.com/track/2JBs412fpVUuzIaIp3CyIs"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Busca Una Mujer",
-        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 215066,
-      "name": "Un Hombre Busca a Una Mujer",
-      "url": "https://open.spotify.com/track/3ZRUhvuUE2lwZF19puKM8P"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -579,22 +579,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Drama Y Luz Edici\u00f3n Deluxe",
-        "url": "https://open.spotify.com/album/6JXg4yfjaH0JIZBofuVS2u"
+        "name": "Amantes",
+        "url": "https://open.spotify.com/album/4tkqeWRaQHPzPRQFX8o9Vi"
       },
       "artists": [
         {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         },
         {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         }
       ],
-      "duration_ms": 238143,
-      "name": "El verdadero amor perdona - dueto con Prince Royce",
-      "url": "https://open.spotify.com/track/3Z3ZUu41QYobvrKr494Vjs"
+      "duration_ms": 235424,
+      "name": "Amantes",
+      "url": "https://open.spotify.com/track/3IyPnNX142pvWx6D5CiimD"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -615,26 +615,6 @@
       "duration_ms": 182106,
       "name": "Correcaminos",
       "url": "https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Amantes",
-        "url": "https://open.spotify.com/album/4tkqeWRaQHPzPRQFX8o9Vi"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 235424,
-      "name": "Amantes",
-      "url": "https://open.spotify.com/track/3IyPnNX142pvWx6D5CiimD"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -715,6 +695,26 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Drama Y Luz Edici\u00f3n Deluxe",
+        "url": "https://open.spotify.com/album/6JXg4yfjaH0JIZBofuVS2u"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 238143,
+      "name": "El verdadero amor perdona - dueto con Prince Royce",
+      "url": "https://open.spotify.com/track/3Z3ZUu41QYobvrKr494Vjs"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "No Hay Imposibles",
         "url": "https://open.spotify.com/album/2Z1OKCVyqJ1lMHTU612E07"
       },
@@ -743,22 +743,6 @@
       "duration_ms": 218760,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
-        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 291493,
-      "name": "Vivir Sin Aire",
-      "url": "https://open.spotify.com/track/3G9RQLOSjsXVUDyQSv2PQR"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -795,6 +779,22 @@
       "duration_ms": 181466,
       "name": "Carmes\u00ed",
       "url": "https://open.spotify.com/track/3fk5fBFB27GbWGATdBpOgr"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
+        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 291493,
+      "name": "Vivir Sin Aire",
+      "url": "https://open.spotify.com/track/3G9RQLOSjsXVUDyQSv2PQR"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "M\u00e1s M\u00fasica + Alma + Sexo",
-        "url": "https://open.spotify.com/album/0a9o88R6EXFDtbcbdYqKD2"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        },
-        {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        }
-      ],
-      "duration_ms": 216613,
-      "name": "Lo Mejor de Mi Vida Eres T\u00fa (feat. Natalia Jim\u00e9nez)",
-      "url": "https://open.spotify.com/track/2uhaDVmfG7pT94VO5jl2r4"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "B\u00e9same Bonito (Micro TDH Remix)",
         "url": "https://open.spotify.com/album/105IhpHlgEvL20sIp0CPnw"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 180000,
       "name": "B\u00e9same Bonito (Micro TDH Remix)",
       "url": "https://open.spotify.com/track/4795j7G618M4FUwRl3wle8"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "M\u00e1s M\u00fasica + Alma + Sexo",
+        "url": "https://open.spotify.com/album/0a9o88R6EXFDtbcbdYqKD2"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        }
+      ],
+      "duration_ms": 216613,
+      "name": "Lo Mejor de Mi Vida Eres T\u00fa (feat. Natalia Jim\u00e9nez)",
+      "url": "https://open.spotify.com/track/2uhaDVmfG7pT94VO5jl2r4"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1347,6 +1347,26 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Y Si Me Enamoro",
+        "url": "https://open.spotify.com/album/4g9alQMKvuCo6zzynC8JjV"
+      },
+      "artists": [
+        {
+          "name": "Daniel Elbittar",
+          "url": "https://open.spotify.com/artist/22yQeUlFkqM2FoTcnr0w8G"
+        },
+        {
+          "name": "Carlos Baute",
+          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
+        }
+      ],
+      "duration_ms": 215006,
+      "name": "Y Si Me Enamoro",
+      "url": "https://open.spotify.com/track/6un86RuZV1YnULXENqd2Sn"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "En Medio De Este Ruido",
         "url": "https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj"
       },
@@ -1375,26 +1395,6 @@
       "duration_ms": 207426,
       "name": "YOKO",
       "url": "https://open.spotify.com/track/6dlZryuz7NIz20faRoZV4k"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Y Si Me Enamoro",
-        "url": "https://open.spotify.com/album/4g9alQMKvuCo6zzynC8JjV"
-      },
-      "artists": [
-        {
-          "name": "Daniel Elbittar",
-          "url": "https://open.spotify.com/artist/22yQeUlFkqM2FoTcnr0w8G"
-        },
-        {
-          "name": "Carlos Baute",
-          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
-        }
-      ],
-      "duration_ms": 215006,
-      "name": "Y Si Me Enamoro",
-      "url": "https://open.spotify.com/track/6un86RuZV1YnULXENqd2Sn"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "D\u00e9cimo Cuarto",
-        "url": "https://open.spotify.com/album/6r3VanD8h5L9I155ahVVi2"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Cepeda",
-          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
-        }
-      ],
-      "duration_ms": 196960,
-      "name": "En Otra Vida",
-      "url": "https://open.spotify.com/track/2oWM4XRTXpgWniW874YcAq"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Cupido",
         "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 144545,
       "name": "Beso En Las Rocas",
       "url": "https://open.spotify.com/track/63hQU0ll74dtGBDMcyvdEC"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "D\u00e9cimo Cuarto",
+        "url": "https://open.spotify.com/album/6r3VanD8h5L9I155ahVVi2"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        }
+      ],
+      "duration_ms": 196960,
+      "name": "En Otra Vida",
+      "url": "https://open.spotify.com/track/2oWM4XRTXpgWniW874YcAq"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Tengamos Pasado",
+        "url": "https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "duration_ms": 180648,
+      "name": "Tengamos Pasado",
+      "url": "https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Bayam\u00f3n",
         "url": "https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 244040,
       "name": "Soy Yo",
       "url": "https://open.spotify.com/track/4n8cY8SZgldxSbq9uJ05Tq"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Tengamos Pasado",
-        "url": "https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF"
-      },
-      "artists": [
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        }
-      ],
-      "duration_ms": 180648,
-      "name": "Tengamos Pasado",
-      "url": "https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1731,26 +1731,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Abajito",
-        "url": "https://open.spotify.com/album/3sANLBZnUFkmGCe2FV2QLY"
-      },
-      "artists": [
-        {
-          "name": "Lele Pons",
-          "url": "https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        }
-      ],
-      "duration_ms": 147821,
-      "name": "Abajito",
-      "url": "https://open.spotify.com/track/5bXTL6PtdA9g1TFE0VZC7O"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Negroklaro",
         "url": "https://open.spotify.com/album/3coPqLJEOG5cahTVTRrWYM"
       },
@@ -1767,6 +1747,26 @@
       "duration_ms": 317106,
       "name": "No Puedo Dejarte de Amar (with Jes\u00fas Navarro)",
       "url": "https://open.spotify.com/track/0RGRcMtokeaLUNAhqNIfKw"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Abajito",
+        "url": "https://open.spotify.com/album/3sANLBZnUFkmGCe2FV2QLY"
+      },
+      "artists": [
+        {
+          "name": "Lele Pons",
+          "url": "https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "duration_ms": 147821,
+      "name": "Abajito",
+      "url": "https://open.spotify.com/track/5bXTL6PtdA9g1TFE0VZC7O"
     }
   ],
   "unique_name": "Amor Amor",

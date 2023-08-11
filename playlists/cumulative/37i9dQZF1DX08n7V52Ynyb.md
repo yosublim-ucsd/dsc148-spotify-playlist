@@ -4,7 +4,7 @@
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-177 songs - 13 hr 8 min
+178 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Go Slow](https://open.spotify.com/track/3KMeqdGzrtxXGa5oRwZFGQ) | [Laura Benanti](https://open.spotify.com/artist/6KMFhD0SFLgUNoQJGxf37V) | [Laura Benanti](https://open.spotify.com/album/5lTuYzH9Bc6i59TGVtxw81) | 4:24 | 2022-04-13 |  |
 | [Gone Again](https://open.spotify.com/track/2BwbCvzK0TomWh4Igp0wq3) | [Lucy Yeghiazaryan](https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB), [Vanisha Gould](https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag) | [In Her Words](https://open.spotify.com/album/7AdQX1dp37fnchc6h8sLuv) | 4:27 | 2022-04-13 |  |
 | [Good Morning Heartache](https://open.spotify.com/track/762FeIx1AXpUBRXd8zbFDB) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ), [Fi Maróstica](https://open.spotify.com/artist/6YT55fXGg6nMvzH6XpUlOP), [Leo Gasso](https://open.spotify.com/artist/241oJtKxM4JAbhH9F23CJN), [Jose Reinoso](https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ) | [Good Morning Heartache](https://open.spotify.com/album/1pQVULMV34Hv31Zv5zbGsR) | 3:13 | 2022-04-13 |  |
+| [Good Morning Heartache](https://open.spotify.com/track/077iW8bXbhEG8Mi3Tj4k4Q) | [Miriam Netti](https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP) | [Good Morning Heartache](https://open.spotify.com/album/3zeaYxTFckt9F4p3DAYK4o) | 5:08 | 2023-08-10 |  |
 | [Guess Who I Saw Today](https://open.spotify.com/track/0HW2RKF80cPR9mnN5T5Rum) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Linger Awhile](https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga) | 4:09 | 2022-09-20 | 2023-01-13 |
 | [Here You Come Again](https://open.spotify.com/track/1Op7axBAcQMIBAQrP3welR) | [Staci Griesbach](https://open.spotify.com/artist/4AYJ30X58CPBmSpsXgWehO) | [Here You Come Again](https://open.spotify.com/album/5I8ibWprKS3IJA41m1HSS9) | 5:09 | 2022-04-13 |  |
 | [High, Wide and Handsome: The Folks Who Live on the Hill](https://open.spotify.com/track/2N8UU86Y1SOSMWpXtIqRV1) | [Paul Motian Trio 2000 + One](https://open.spotify.com/artist/6ablJgrdQ5HMaWKqxbGLSC) | [On Broadway, Vol\. 4: The Paradox of Continuity](https://open.spotify.com/album/5vy138qK08Tm7oqjBROeJn) | 4:56 | 2022-08-11 | 2022-09-03 |
@@ -128,7 +129,7 @@
 | [Oh My Love](https://open.spotify.com/track/22ckf5hC1cnHnFPY6pxINQ) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr), [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Gouache](https://open.spotify.com/album/3rTG744ZZuutEfX65xI88L) | 4:47 | 2022-05-13 | 2022-07-29 |
 | [Oh My Love](https://open.spotify.com/track/4k5cfX3AIWAHvl0cpCT7XA) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr), [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Saint Valentin jazz](https://open.spotify.com/album/3AXIQlRug6iCuHVNlumj9y) | 4:47 | 2022-07-21 | 2022-10-22 |
 | [Once Upon A Summertime](https://open.spotify.com/track/1YlxMqTgJisGd0eH88rfId) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Once Upon A Summertime](https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n) | 2:47 | 2022-04-13 |  |
-| [Once Upon a Summertime](https://open.spotify.com/track/2JnPEk8BDhOzHeh7kzNfw6) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [You Should Have Told Me](https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ) | 4:39 | 2022-04-13 |  |
+| [Once Upon a Summertime](https://open.spotify.com/track/2JnPEk8BDhOzHeh7kzNfw6) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [You Should Have Told Me](https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ) | 4:39 | 2022-04-13 | 2023-08-11 |
 | [Only the Lonely](https://open.spotify.com/track/4BJlrxrnHmnUi6DoZHexAc) | [Lucy Yeghiazaryan](https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB) | [Only the Lonely](https://open.spotify.com/album/2LEdyJtyGv0wVJnwN5S67p) | 3:12 | 2022-12-23 | 2023-08-08 |
 | [Peel Me A Grape](https://open.spotify.com/track/5lBhqsWIzC9YtjkDaFsynh) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Love Scenes](https://open.spotify.com/album/13vOgfmCMpWRzgggSu4Di9) | 5:52 | 2022-04-13 | 2022-07-29 |
 | [Peel Me A Grape](https://open.spotify.com/track/7d78grkC9XhKXKJf44so32) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Love Scenes](https://open.spotify.com/album/0BY7XVm9kLLwDmQfXFL8G8) | 5:52 | 2022-07-21 | 2022-11-15 |

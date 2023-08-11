@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 
 > Slacker jams\. Cover: Eyedress
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,950 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,139 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 34 | [Natural](https://open.spotify.com/track/6VLjdregMReJhKp2r32IWo) | [Shelly](https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE) | [Shelly](https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3) | 2:43 |
 | 35 | [How Was Your Day?](https://open.spotify.com/track/1FnaRNR5YLddYYd6xwJ3DX) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fake It Flowers](https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo) | 4:20 |
 | 36 | [Human Condition](https://open.spotify.com/track/4ulOJhLqbDeBFEbYVX6yjG) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Human Condition](https://open.spotify.com/album/4cGpiQWYOPtHRB3mQLDWCC) | 2:11 |
-| 37 | [A Sad Song About a Girl I No Longer Know](https://open.spotify.com/track/78TzliRJJhCgsZ0ARUm8vI) | [Bedside Kites](https://open.spotify.com/artist/5zKinanOH8komuiAx6fmvL) | [Bedside Kites](https://open.spotify.com/album/49LaVq4xveyPNmLU165QRi) | 5:28 |
+| 37 | [Ways to Go](https://open.spotify.com/track/0p973C7c3dry8DRq2mgYP3) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Ways to Go](https://open.spotify.com/album/4g5q9uTpoq19HX1Ksm9CHe) | 2:07 |
 | 38 | [Radio](https://open.spotify.com/track/1gyIYA98zceKTnjISviYRz) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Radio](https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB) | 3:11 |
-| 39 | [Ways to Go](https://open.spotify.com/track/0p973C7c3dry8DRq2mgYP3) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Ways to Go](https://open.spotify.com/album/4g5q9uTpoq19HX1Ksm9CHe) | 2:07 |
+| 39 | [A Sad Song About a Girl I No Longer Know](https://open.spotify.com/track/78TzliRJJhCgsZ0ARUm8vI) | [Bedside Kites](https://open.spotify.com/artist/5zKinanOH8komuiAx6fmvL) | [Bedside Kites](https://open.spotify.com/album/49LaVq4xveyPNmLU165QRi) | 5:28 |
 | 40 | [u dont kno me](https://open.spotify.com/track/22yfTobyBNSSJXWIlNjPgt) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [off the grid](https://open.spotify.com/album/1i4wFUJBONFpNJLlDGnj56) | 3:59 |
 | 41 | [concussion](https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [concussion](https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2) | 4:37 |
 | 42 | [Car Crash in G Major](https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/6tPokYHf7g0Jex07f04d7M) | 2:12 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 54 | [One Year Stand](https://open.spotify.com/track/6NehzYGU99fC39zs2KqONu) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Inner World Peace](https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz) | 2:35 |
 | 55 | [5AM Empanada with You](https://open.spotify.com/track/5zotLA21Q8MnILdUxBEPRM) | [Bubble Tea and Cigarettes](https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P) | [There's Nothing But Pleasure](https://open.spotify.com/album/4tP6s2K0QHvzuC960rQ1Dc) | 5:41 |
 | 56 | [Pretty](https://open.spotify.com/track/5rg2cr5aokhrm5gQNpyHXi) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow), [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Pretty](https://open.spotify.com/album/22dulUCoaoKoVpmg2irQmo) | 3:19 |
-| 57 | [Plastic Envelope](https://open.spotify.com/track/7oud5ro5Y5yKS38JwYdYoy) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Plastic Envelope / Protect Him Always](https://open.spotify.com/album/7rmLFKfDkqSUmBOAfJUWTa) | 3:17 |
-| 58 | [Her Sinking Sun](https://open.spotify.com/track/7IidonL2EoEdjzFJSbmhmG) | [Coma Cinema](https://open.spotify.com/artist/4Ebry32YXxGXbI8FqhhSFu) | [Blue Suicide](https://open.spotify.com/album/5z2CoCLOZfFwqbNzfYCCyB) | 2:33 |
+| 57 | [Her Sinking Sun](https://open.spotify.com/track/7IidonL2EoEdjzFJSbmhmG) | [Coma Cinema](https://open.spotify.com/artist/4Ebry32YXxGXbI8FqhhSFu) | [Blue Suicide](https://open.spotify.com/album/5z2CoCLOZfFwqbNzfYCCyB) | 2:33 |
+| 58 | [Plastic Envelope](https://open.spotify.com/track/7oud5ro5Y5yKS38JwYdYoy) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Plastic Envelope / Protect Him Always](https://open.spotify.com/album/7rmLFKfDkqSUmBOAfJUWTa) | 3:17 |
 | 59 | [it only gets worse, i promise](https://open.spotify.com/track/3Y1iVG5c7me95XqqFZY97x) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [it only gets worse, i promise](https://open.spotify.com/album/361dxLkzUSAyH159ZtXUUj) | 2:34 |
 | 60 | [My Heart Goes Bum Bum Bum](https://open.spotify.com/track/0RQbFGjt6FraX3WK8IK8QE) | [Flatsound](https://open.spotify.com/artist/4ze1UwMqtSlhTgnyk8LrW3) | [I Clung to You Hoping We'd Both Drown](https://open.spotify.com/album/6dwWUYV0MBZVcfSvzc27Ah) | 2:51 |
 | 61 | [Fade](https://open.spotify.com/track/56aGCgQHz0eRCNXcuNY99B) | [Launder](https://open.spotify.com/artist/34oS6XgB17t0Gm7623KXLh) | [Fade](https://open.spotify.com/album/7mvQaGNnewjly0RNWdfiNT) | 3:23 |
@@ -90,17 +90,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 80 | [€ € € €^^%%!!!!!heaven!!!!!!](https://open.spotify.com/track/15pUb5F93loQQWGN5yqB0y) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE), [Baths](https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO) | [€ € € €^^%%!!!!!heaven!!!!!!](https://open.spotify.com/album/7H9foucw2Pl96e1bwW8L3Q) | 4:23 |
 | 81 | [Alive](https://open.spotify.com/track/2zAzuCsqsZkSkozxTXqtSn) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Alive](https://open.spotify.com/album/3EfT0FhcsFzflCWBTxJd2k) | 3:00 |
 | 82 | [Take It Off](https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Year Of The Rat](https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm) | 3:11 |
-| 83 | [PIERCED ARROWS](https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [LIFE ON EARTH](https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3) | 4:02 |
-| 84 | [Before the Fall](https://open.spotify.com/track/2KQmCj4MpTZUKyOVo2sGQZ) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [Afternoon Bike Ride](https://open.spotify.com/album/6JO6ME8KqaBNAzrJg05yZT) | 2:59 |
+| 83 | [Before the Fall](https://open.spotify.com/track/2KQmCj4MpTZUKyOVo2sGQZ) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [Afternoon Bike Ride](https://open.spotify.com/album/6JO6ME8KqaBNAzrJg05yZT) | 2:59 |
+| 84 | [PIERCED ARROWS](https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [LIFE ON EARTH](https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3) | 4:02 |
 | 85 | [mean creek.](https://open.spotify.com/track/00AM3zuuier3pzRI0dFhSO) | [Cottonwood Firing Squad](https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE) | [Elizabethtown.](https://open.spotify.com/album/7epCR4GKjfqGTuKZMyhtid) | 2:16 |
 | 86 | [Mystery Key \- Eyedress Remix](https://open.spotify.com/track/3UjzLbZtsC7CT3Rhvj8faq) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9), [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Body Jumper \(Deluxe\)](https://open.spotify.com/album/6N3YPnYH8PeDpgNaeDMlAi) | 2:17 |
 | 87 | [home:so long](https://open.spotify.com/track/37xgjn1tD4UqEC49kLpAYC) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [home:so long](https://open.spotify.com/album/1xevyPZYmndyAGc7PS4JrX) | 1:25 |
 | 88 | [New York, Paris and London](https://open.spotify.com/track/2VMZPDAguzZ8mBFMe3iEHJ) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [Forever at Last](https://open.spotify.com/album/3y08i0cgjlrH4Ca44CcdW7) | 3:26 |
 | 89 | [4th of july](https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [dirt](https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB) | 2:56 |
 | 90 | [Let It Pass](https://open.spotify.com/track/3d1k68NdWlLZ0yVEVHuP9S) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Let It Pass](https://open.spotify.com/album/1RrGNFFdsUxZrQRjRq6upS) | 4:28 |
-| 91 | [California Screaming](https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [California Screaming](https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw) | 3:17 |
-| 92 | [i want to die in your arms](https://open.spotify.com/track/08KjCNJAIG6Y41ssp19yTn) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i want to die in your arms](https://open.spotify.com/album/4TdNXt2F6mfD6ViYi2vt7f) | 2:16 |
-| 93 | [ALLTHETIME](https://open.spotify.com/track/3mU67YAZoGcENLRTu6gLxe) | [POLICE CAR COLLECTIVE](https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2) | [ALLTHETIME](https://open.spotify.com/album/5mt0pY1lSysVsLl5Qqpb2T) | 7:05 |
+| 91 | [i want to die in your arms](https://open.spotify.com/track/08KjCNJAIG6Y41ssp19yTn) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i want to die in your arms](https://open.spotify.com/album/4TdNXt2F6mfD6ViYi2vt7f) | 2:16 |
+| 92 | [ALLTHETIME](https://open.spotify.com/track/3mU67YAZoGcENLRTu6gLxe) | [POLICE CAR COLLECTIVE](https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2) | [ALLTHETIME](https://open.spotify.com/album/5mt0pY1lSysVsLl5Qqpb2T) | 7:05 |
+| 93 | [California Screaming](https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [California Screaming](https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw) | 3:17 |
 | 94 | [heat waves \- lofi version](https://open.spotify.com/track/5t0Dbc52fLBCsMTIXMYGo8) | [omgkirby](https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1) | [heat waves \- lofi version](https://open.spotify.com/album/0kTHkh9uiuQQg4I3dnoy82) | 1:36 |
 | 95 | [OH GOD](https://open.spotify.com/track/6WE3Ai38FIfTiBvOWLZwA1) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [OH GOD](https://open.spotify.com/album/4IrzLi3zyjvFxiinNRQM3P) | 2:12 |
 | 96 | [Good For You](https://open.spotify.com/track/3LuvpnAcuxPn2dV00C9Rxt) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48), [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [Good For You](https://open.spotify.com/album/3j4P5XClGIWJhnXT6NTix2) | 3:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 99 | [at least, I tried](https://open.spotify.com/track/1EznNhpm2q1HaAFxIO8k2h) | [Heroe](https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1) | [at least, I tried](https://open.spotify.com/album/1QnA67cEEW7GV8izg8ZGwT) | 3:14 |
 | 100 | [Seaface](https://open.spotify.com/track/5VjWQLgZK3MD2pdDHG8UHO) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [The Gaping Mouth](https://open.spotify.com/album/6VxWQqpTEfvaF96OlgO7DU) | 3:39 |
 
-Snapshot ID: `MCxiZjJjNmU3ZjQxNWEzZjcwOTBkZWI4MTM1YTQzNTZjNWZiN2EzY2U3`
+Snapshot ID: `MCwyZTlhODI0YTg4MTU0OTVkODgxMWEyN2E2NTFiMTQyYTBjNjI5N2Ji`

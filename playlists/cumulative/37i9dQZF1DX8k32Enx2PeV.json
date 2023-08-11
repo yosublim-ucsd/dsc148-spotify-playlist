@@ -111,6 +111,28 @@
     },
     {
       "album": {
+        "name": "ADN (Cap\u00edtulo N)",
+        "url": "https://open.spotify.com/album/5dsGcOBv9D6MNQWEBkFbxX"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Systema Solar",
+          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182233,
+      "name": "Am\u00e9rica",
+      "url": "https://open.spotify.com/track/4xwUANiwIWZ2UkKxXzSSSJ"
+    },
+    {
+      "album": {
         "name": "Aqu\u00ed Me Tienes",
         "url": "https://open.spotify.com/album/4qxs8GmOoIiALQJrhIsOjN"
       },
@@ -556,7 +578,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 225304,
       "name": "Este Momento",
       "url": "https://open.spotify.com/track/4Vn2kyOnhExYt9czn17VaX"
@@ -618,6 +640,24 @@
       "duration_ms": 211034,
       "name": "Feliz",
       "url": "https://open.spotify.com/track/2r5B8HCPNO6mKrGKH86Mzd"
+    },
+    {
+      "album": {
+        "name": "Feriado",
+        "url": "https://open.spotify.com/album/4QiIMsHtpCmGdPYYlhiMet"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166399,
+      "name": "Feriado",
+      "url": "https://open.spotify.com/track/1cSkkHgh9Ff8zcQpkW71nf"
     },
     {
       "album": {
@@ -719,6 +759,24 @@
     },
     {
       "album": {
+        "name": "Ma Vie",
+        "url": "https://open.spotify.com/album/70bUXOYC5M8yRPTybauNt8"
+      },
+      "artists": [
+        {
+          "name": "Valerian\u00e4",
+          "url": "https://open.spotify.com/artist/31eD4Jy2jTXFosFfrnaVgs"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152826,
+      "name": "Ma Vie",
+      "url": "https://open.spotify.com/track/5DMWjLDck4h90C61FPwKWt"
+    },
+    {
+      "album": {
         "name": "Mar",
         "url": "https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2"
       },
@@ -738,6 +796,24 @@
       "duration_ms": 238253,
       "name": "Mar",
       "url": "https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm"
+    },
+    {
+      "album": {
+        "name": "Mar\u00eda",
+        "url": "https://open.spotify.com/album/7vDmxXUdI5DH2tKSaDrJ0m"
+      },
+      "artists": [
+        {
+          "name": "Laura Mar\u00e9",
+          "url": "https://open.spotify.com/artist/0jewyEquYvSCLkwgHZM4XO"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170454,
+      "name": "Mar\u00eda",
+      "url": "https://open.spotify.com/track/570cF2dEppbenkihxtlisz"
     },
     {
       "album": {
@@ -814,6 +890,28 @@
       "duration_ms": 192385,
       "name": "ni una foto",
       "url": "https://open.spotify.com/track/5Fc6a806jgiEU3ka1Rqpyq"
+    },
+    {
+      "album": {
+        "name": "NINA",
+        "url": "https://open.spotify.com/album/4K6tYEEDctTzhjXwCXLCXv"
+      },
+      "artists": [
+        {
+          "name": "Motherflowers",
+          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
+        },
+        {
+          "name": "Lil Supa",
+          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299000,
+      "name": "NINA",
+      "url": "https://open.spotify.com/track/75D6ddFBgFvobY7niIcGSv"
     },
     {
       "album": {
@@ -911,6 +1009,32 @@
     },
     {
       "album": {
+        "name": "Porrito y a Dormir",
+        "url": "https://open.spotify.com/album/2tNuQBtqlz5HKMikowZ6dG"
+      },
+      "artists": [
+        {
+          "name": "Motherflowers",
+          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
+        },
+        {
+          "name": "Xico",
+          "url": "https://open.spotify.com/artist/0WIiW8BkOZHyMTGOAwCCi9"
+        },
+        {
+          "name": "GOE",
+          "url": "https://open.spotify.com/artist/4SrGQeETnkwVwPiLg81ywM"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Porrito y a Dormir",
+      "url": "https://open.spotify.com/track/1WzX44DmzXQytMNksHn3Ez"
+    },
+    {
+      "album": {
         "name": "ALL-YOU-CAN-EAT VOL.1",
         "url": "https://open.spotify.com/album/3MmERnIFWoyKMAlRnXeJGX"
       },
@@ -996,6 +1120,28 @@
       "duration_ms": 203761,
       "name": "Quiz\u00e1s (La Historia de Nosotros)",
       "url": "https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A"
+    },
+    {
+      "album": {
+        "name": "Qui\u00e9n Lo Dir\u00eda?",
+        "url": "https://open.spotify.com/album/5hDocz1GdZqJweE11SUXLD"
+      },
+      "artists": [
+        {
+          "name": "Motherflowers",
+          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
+        },
+        {
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Qui\u00e9n Lo Dir\u00eda?",
+      "url": "https://open.spotify.com/track/1ck0WwtC0CEBf4FG4wok2H"
     },
     {
       "album": {
@@ -1174,6 +1320,24 @@
       "duration_ms": 202519,
       "name": "Te Quiero Olvidar",
       "url": "https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw"
+    },
+    {
+      "album": {
+        "name": "Terminator",
+        "url": "https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234024,
+      "name": "Terminator",
+      "url": "https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG"
     },
     {
       "album": {

@@ -2069,6 +2069,24 @@
     },
     {
       "album": {
+        "name": "2 Different Tears",
+        "url": "https://open.spotify.com/album/2yX8lMVN1DViIGPPUDRbrm"
+      },
+      "artists": [
+        {
+          "name": "Wonder Girls",
+          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214773,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/5R9cUtY574Wd6olnaJG6sQ"
+    },
+    {
+      "album": {
         "name": "NU ABO",
         "url": "https://open.spotify.com/album/2jwIyBUS9C4yGgr1Guq8YO"
       },
@@ -2574,7 +2592,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 218084,
       "name": "Shy Boy",
       "url": "https://open.spotify.com/track/2k8LpbyAlZMDd90GMP8Hde"

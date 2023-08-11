@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,274 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,988 likes - 50 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 11 | [Traffic](https://open.spotify.com/track/1W9V27FifuPo99HvgYc0jz) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Traffic](https://open.spotify.com/album/04xMU08QUyeBA5Etl4kjQM) | 2:21 |
 | 12 | [Mercury](https://open.spotify.com/track/25dFcH5EsCJLMSmFDDJLT3) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Mercury](https://open.spotify.com/album/5q2bsjSrluBoWf3F61Fofp) | 3:45 |
 | 13 | [Veritas](https://open.spotify.com/track/6KVUpPL8NJSDHt6OYAi2A8) | [Jay Lumen](https://open.spotify.com/artist/6rxmj7vNEofe96g84qMWoV) | [Veritas](https://open.spotify.com/album/7fKwFEf1MWzZN6kpuCBPGj) | 7:06 |
-| 14 | [Up Down Jumper](https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Up Down Jumper](https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv) | 7:12 |
+| 14 | [Say It Again](https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Say It Again](https://open.spotify.com/album/6qmP3e4qPHcnj0576IRaV6) | 3:27 |
 | 15 | [Mirror Mirror](https://open.spotify.com/track/0Q3Pb5gMzpFKjIWs9s0inL) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Mirror Mirror](https://open.spotify.com/album/4H7KW5AaytIv42LdVTzWKw) | 4:07 |
-| 16 | [Say It Again](https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Say It Again](https://open.spotify.com/album/6qmP3e4qPHcnj0576IRaV6) | 3:27 |
+| 16 | [Up Down Jumper](https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Up Down Jumper](https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv) | 7:12 |
 | 17 | [Rock With Me](https://open.spotify.com/track/2BfFW4C5SIgbp33539WAah) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [Rock With Me](https://open.spotify.com/album/7g7DbWfA0XSpsnFsyrvRlP) | 3:25 |
 | 18 | [Doppler](https://open.spotify.com/track/0TtgKq96j4bpE5UQUDXrwH) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Formula EP](https://open.spotify.com/album/0apCw1VDY8LhLH5YHfKOZ5) | 7:13 |
 | 19 | [Gravity](https://open.spotify.com/track/0VTnsXnW2kuMFlwdKSTSBy) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Gravity](https://open.spotify.com/album/45hEdeNHcpC2FIvgDMlaCP) | 6:05 |
@@ -45,12 +45,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 35 | [Asura](https://open.spotify.com/track/0kfCf8GLQDZFZZIhVtHZvk) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Asura EP](https://open.spotify.com/album/4ZViSWk4pvhglsGqQ2fsAB) | 7:49 |
 | 36 | [Rebirth](https://open.spotify.com/track/1c3OaOeSogCpXTa8BhnBEq) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA) | [Rebirth](https://open.spotify.com/album/59WoCic1VzW9qox5cE3u0p) | 6:40 |
 | 37 | [Colonia](https://open.spotify.com/track/0lwfTyUbKM9Em6225HXT4B) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Colonia EP](https://open.spotify.com/album/12KzIVisgBIHt3YyN5sjIX) | 3:54 |
-| 38 | [Alle meine Raver](https://open.spotify.com/track/3UShLxr87usr5yQ6G3GVKK) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8), [Ben Dust](https://open.spotify.com/artist/4smTLJEoRPULdc4QuG7JGo) | [Alle meine Raver](https://open.spotify.com/album/3u1t460lF2E1dS547CkEg4) | 5:14 |
-| 39 | [Black Unicorn](https://open.spotify.com/track/1WSF0LJGwJkYejuMtyJVuA) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 05](https://open.spotify.com/album/5ad6LcmH6riZRxu4VzI7Vf) | 8:05 |
+| 38 | [Black Unicorn](https://open.spotify.com/track/1WSF0LJGwJkYejuMtyJVuA) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 05](https://open.spotify.com/album/5ad6LcmH6riZRxu4VzI7Vf) | 8:05 |
+| 39 | [Alle meine Raver](https://open.spotify.com/track/3UShLxr87usr5yQ6G3GVKK) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8), [Ben Dust](https://open.spotify.com/artist/4smTLJEoRPULdc4QuG7JGo) | [Alle meine Raver](https://open.spotify.com/album/3u1t460lF2E1dS547CkEg4) | 5:14 |
 | 40 | [Bells of Notre Dame](https://open.spotify.com/track/7o9t0mKNMpb5HJCFNGZTOS) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [Bells of Notre Dame](https://open.spotify.com/album/32OCQHT0jFTEN1d8yP1Wtz) | 4:11 |
 | 41 | [Inhale, Exhale](https://open.spotify.com/track/1WrLIHaZKZ4Ocr7dqBfBlt) | [Dominik Saltevski](https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN) | [Inhale, Exhale](https://open.spotify.com/album/25RG1ZUFWUiczxVuXWL3h5) | 4:38 |
-| 42 | [Janfry](https://open.spotify.com/track/20nP0CII4RqFAJLNyyFHuW) | [Spartaque](https://open.spotify.com/artist/2OpUrUeIF1sqWHwSbMPNkB), [Ramiro Lopez](https://open.spotify.com/artist/3jYkj7h3rgKs5irWBPxjrr) | [Janfry](https://open.spotify.com/album/0plksH63rz2lCRa4Im8w13) | 3:35 |
-| 43 | [Platia](https://open.spotify.com/track/6ZDlNJ1RTu4HZv18GYVB2v) | [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Platia](https://open.spotify.com/album/41qA6izdabkSGBrE4wc6TL) | 3:12 |
+| 42 | [Platia](https://open.spotify.com/track/6ZDlNJ1RTu4HZv18GYVB2v) | [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Platia](https://open.spotify.com/album/41qA6izdabkSGBrE4wc6TL) | 3:12 |
+| 43 | [Janfry](https://open.spotify.com/track/20nP0CII4RqFAJLNyyFHuW) | [Spartaque](https://open.spotify.com/artist/2OpUrUeIF1sqWHwSbMPNkB), [Ramiro Lopez](https://open.spotify.com/artist/3jYkj7h3rgKs5irWBPxjrr) | [Janfry](https://open.spotify.com/album/0plksH63rz2lCRa4Im8w13) | 3:35 |
 | 44 | [Inside My Head](https://open.spotify.com/track/3YR7XdHKPA21815NjqWZeB) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Inside My Head](https://open.spotify.com/album/4hviWBBIv5SqDae4nljvEc) | 6:59 |
 | 45 | [Injection \- Original Mix](https://open.spotify.com/track/52nFiIeYWwY5IJRStcbbfj) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC), [A\*S\*Y\*S](https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq) | [Injection \(Original Mix\)](https://open.spotify.com/album/7tq0Eni5FK1nm27dqXGWyr) | 7:01 |
 | 46 | [Zulu](https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr) | [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [Zulu](https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF) | 4:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 49 | [Affection \- Radio Edit](https://open.spotify.com/track/7dQWBRCRBhgbaRATAI6OqD) | [Felix Kröcher](https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ) | [Affection](https://open.spotify.com/album/0Q62ehvfJy5DN51XOIVvfP) | 4:31 |
 | 50 | [Don't Look Back](https://open.spotify.com/track/1ZRbpnhN6gxTJEnaCBlD0z) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [We Control](https://open.spotify.com/album/2dWojT5wPowGSARgpHAENj) | 3:51 |
 
-Snapshot ID: `MCxhNjYzZTk3YmFlZjI1YTAwMjJkZjU5MGRlODRjY2VhMmRmZjI0ZTkz`
+Snapshot ID: `MCwzZmU1OTM5YjQ2ODQ1NTAyOGM2Y2ZiNmUwMDY2ZDI5OGNhNzNhNDcw`

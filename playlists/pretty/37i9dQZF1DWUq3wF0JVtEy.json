@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 932114,
+  "num_followers": 932291,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZWQ1YWU1YzAyNTAwYmU1NTQyY2IzNTMzMDlmOWJjZTY1YjRlYmMw",
+  "snapshot_id": "MCw5NzBkMjZlMjYxN2JhYjRmODY3YjUwYzI1YTdiMDI0ZDFjYmQ5Y2Vi",
   "tracks": [
     {
       "added_at": "2023-08-04 04:01:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Nightbird",
-        "url": "https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        }
-      ],
-      "duration_ms": 156190,
-      "name": "Nightbird",
-      "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Make U SWEAT!",
         "url": "https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 234285,
       "name": "Make U SWEAT!",
       "url": "https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Nightbird",
+        "url": "https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "duration_ms": 156190,
+      "name": "Nightbird",
+      "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "BUBBLEGUM",
+        "url": "https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        }
+      ],
+      "duration_ms": 148538,
+      "name": "BUBBLEGUM",
+      "url": "https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "Eternity (feat. Lena Leon)",
         "url": "https://open.spotify.com/album/7AKRqqkDVhqDZMwmcjBPiV"
       },
@@ -859,38 +875,6 @@
       "duration_ms": 217258,
       "name": "Eternity (feat. Lena Leon)",
       "url": "https://open.spotify.com/track/7DDIVNWlbGJpQjVDDg8rXR"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Pop That",
-        "url": "https://open.spotify.com/album/14t75m8JmscI68WH2AqqC8"
-      },
-      "artists": [
-        {
-          "name": "Mike Candys",
-          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
-        }
-      ],
-      "duration_ms": 134769,
-      "name": "Pop That",
-      "url": "https://open.spotify.com/track/2VEl3fZmYeoJacH1Sn4DS2"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "BUBBLEGUM",
-        "url": "https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe"
-      },
-      "artists": [
-        {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
-        }
-      ],
-      "duration_ms": 148538,
-      "name": "BUBBLEGUM",
-      "url": "https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -931,6 +915,22 @@
       "duration_ms": 133125,
       "name": "Bumba Bass",
       "url": "https://open.spotify.com/track/119lPAmtAB9PhFXE7XBWV2"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Pop That",
+        "url": "https://open.spotify.com/album/14t75m8JmscI68WH2AqqC8"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        }
+      ],
+      "duration_ms": 134769,
+      "name": "Pop That",
+      "url": "https://open.spotify.com/track/2VEl3fZmYeoJacH1Sn4DS2"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Chain Gang",
-        "url": "https://open.spotify.com/album/0tS6kuEWcyV4jEty6H4Rz0"
-      },
-      "artists": [
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 107536,
-      "name": "Chain Gang",
-      "url": "https://open.spotify.com/track/27gCmJDwzTxTx9e90NWDTb"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Repeating",
         "url": "https://open.spotify.com/album/5t5hcPMsrtVof7GjJbIkMM"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 166190,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/1lA8kHc8maFVVa8pDXw2BN"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Chain Gang",
+        "url": "https://open.spotify.com/album/0tS6kuEWcyV4jEty6H4Rz0"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 107536,
+      "name": "Chain Gang",
+      "url": "https://open.spotify.com/track/27gCmJDwzTxTx9e90NWDTb"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Get Out",
-        "url": "https://open.spotify.com/album/2O4HZXYGGdmLZxt12kbOl6"
-      },
-      "artists": [
-        {
-          "name": "Sikdope",
-          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
-        },
-        {
-          "name": "RayRay",
-          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Get Out",
-      "url": "https://open.spotify.com/track/059IpwaF7UmCi7lN24IENk"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Gotta Let U Go",
         "url": "https://open.spotify.com/album/7ju3PeAUzEAJciTPBNKGMp"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 149219,
       "name": "Gotta Let U Go",
       "url": "https://open.spotify.com/track/4Vq7Yn4AyMqIll2Xh5waNl"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Get Out",
+        "url": "https://open.spotify.com/album/2O4HZXYGGdmLZxt12kbOl6"
+      },
+      "artists": [
+        {
+          "name": "Sikdope",
+          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
+        },
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Get Out",
+      "url": "https://open.spotify.com/track/059IpwaF7UmCi7lN24IENk"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Step Back",
-        "url": "https://open.spotify.com/album/2L8DBsnUXZTi2R9y0BTzjI"
-      },
-      "artists": [
-        {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
-        }
-      ],
-      "duration_ms": 173437,
-      "name": "Step Back",
-      "url": "https://open.spotify.com/track/7opSc1BeR7P8v0i3QYUi0W"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Flexin",
         "url": "https://open.spotify.com/album/2ccwQt8ZBTclkUZawxmrUn"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 171076,
       "name": "Free My Mind",
       "url": "https://open.spotify.com/track/3FEDVRLhSQbtXKXrUhsEJa"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Step Back",
+        "url": "https://open.spotify.com/album/2L8DBsnUXZTi2R9y0BTzjI"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        }
+      ],
+      "duration_ms": 173437,
+      "name": "Step Back",
+      "url": "https://open.spotify.com/track/7opSc1BeR7P8v0i3QYUi0W"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1787,22 +1787,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Polkadots (Space Ducks Remix)",
-        "url": "https://open.spotify.com/album/24hTmcsPboY8XnViWduUfz"
+        "name": "Grimestar",
+        "url": "https://open.spotify.com/album/1eLo0jdJfOvE6oOkLvyEmt"
       },
       "artists": [
         {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        },
-        {
-          "name": "Space Ducks",
-          "url": "https://open.spotify.com/artist/0KWooIVFqa6Gt0BtpdudK6"
+          "name": "Starjunk 95",
+          "url": "https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx"
         }
       ],
-      "duration_ms": 138095,
-      "name": "Polkadots - Space Ducks Remix",
-      "url": "https://open.spotify.com/track/46GApbYIGs6koLAyQOGpXY"
+      "duration_ms": 168857,
+      "name": "Grimestar",
+      "url": "https://open.spotify.com/track/2dJbz9Q2X33c7l9uCRxoy5"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1851,18 +1847,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Grimestar",
-        "url": "https://open.spotify.com/album/1eLo0jdJfOvE6oOkLvyEmt"
+        "name": "Polkadots (Space Ducks Remix)",
+        "url": "https://open.spotify.com/album/24hTmcsPboY8XnViWduUfz"
       },
       "artists": [
         {
-          "name": "Starjunk 95",
-          "url": "https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx"
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Space Ducks",
+          "url": "https://open.spotify.com/artist/0KWooIVFqa6Gt0BtpdudK6"
         }
       ],
-      "duration_ms": 168857,
-      "name": "Grimestar",
-      "url": "https://open.spotify.com/track/2dJbz9Q2X33c7l9uCRxoy5"
+      "duration_ms": 138095,
+      "name": "Polkadots - Space Ducks Remix",
+      "url": "https://open.spotify.com/track/46GApbYIGs6koLAyQOGpXY"
     },
     {
       "added_at": "2023-08-04 04:01:00",

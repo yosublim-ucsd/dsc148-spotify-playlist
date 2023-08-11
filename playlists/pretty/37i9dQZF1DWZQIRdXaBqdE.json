@@ -1,12 +1,12 @@
 {
   "description": "Get on down the road with these classic country tunes. Cover: Johnny Cash",
-  "num_followers": 372473,
+  "num_followers": 372648,
   "original_name": "Classic Country Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YmY5ZDE4Mjc2MGMxYjk1NDAwNGM5ZjQ1NjJjMmJkZGQwMjI0ODVj",
+  "snapshot_id": "MCxlMWJhZjU1MWRhMmMxODhhODA0OWVkMjAwM2M1ODZkMjg2ZTQwN2U0",
   "tracks": [
     {
       "added_at": "2022-05-06 19:37:58",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "Coal Miner's Daughter",
-        "url": "https://open.spotify.com/album/2SayIIdZkrtb9I4BbdnyOr"
-      },
-      "artists": [
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
-        }
-      ],
-      "duration_ms": 180960,
-      "name": "Coal Miner's Daughter - Single Version",
-      "url": "https://open.spotify.com/track/3mM14WXoPaLRjjkmxHe99L"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
         "name": "Don't Close Your Eyes",
         "url": "https://open.spotify.com/album/3hDqwanFIlVP5dRMWj8dhZ"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 252626,
       "name": "Don't Close Your Eyes",
       "url": "https://open.spotify.com/track/7J9ARWRkMtXMYeF8RxJEjn"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
+        "name": "Coal Miner's Daughter",
+        "url": "https://open.spotify.com/album/2SayIIdZkrtb9I4BbdnyOr"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "duration_ms": 180960,
+      "name": "Coal Miner's Daughter - Single Version",
+      "url": "https://open.spotify.com/track/3mM14WXoPaLRjjkmxHe99L"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "Country Club",
-        "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
-      },
-      "artists": [
-        {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "Country Club",
-      "url": "https://open.spotify.com/track/6o7BCdJjGvHBBPMb4ZrA68"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
         "name": "Too Cold At Home",
         "url": "https://open.spotify.com/album/4AayO56uNmJLHcHtF0aTpA"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 184840,
       "name": "Brother Jukebox",
       "url": "https://open.spotify.com/track/1Ov6koHfZL43pGCDdfIoHf"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
+        "name": "Country Club",
+        "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
+      },
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "Country Club",
+      "url": "https://open.spotify.com/track/6o7BCdJjGvHBBPMb4ZrA68"
     },
     {
       "added_at": "2022-05-06 19:37:58",

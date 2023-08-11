@@ -1,12 +1,12 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 124559,
+  "num_followers": 124574,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MGY5OTcwZDAxNjI5MGQ2MjJjM2M1MWZmZTJjMDg1YTE5YzY3Zjk3",
+  "snapshot_id": "MCxiNDA2ZTE5MjcyYmExMWQ0OGZmZGNlZDA2YTAzZTBhN2YyM2NjZWE5",
   "tracks": [
     {
       "added_at": "2023-02-17 05:58:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/4BQafZfyveBiMv3FDJ6wAU"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 224333,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/2nHbYehgkMWR4fmqswEvD9"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
         "name": "\u201dZamba Puta\u201d",
         "url": "https://open.spotify.com/album/1FsZ3DfeXndrOrpWNBWk6J"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 235682,
       "name": "La Felicidad",
       "url": "https://open.spotify.com/track/4FDiLM3onP5Kpd4fdz352D"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/4BQafZfyveBiMv3FDJ6wAU"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/2nHbYehgkMWR4fmqswEvD9"
     },
     {
       "added_at": "2023-02-17 05:58:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Altamar",
-        "url": "https://open.spotify.com/album/4hrSQysDtVOtq4dIcA89mN"
-      },
-      "artists": [
-        {
-          "name": "Vilamarea",
-          "url": "https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ"
-        }
-      ],
-      "duration_ms": 289186,
-      "name": "Altamar",
-      "url": "https://open.spotify.com/track/0hQ1YDgcYE0J2cypCoIPmj"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
         "name": "Land of the Incas (Music of the Andes)",
         "url": "https://open.spotify.com/album/5eRW6MRpmkK1jLgZGxEjAn"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 198360,
       "name": "U\u00f1a",
       "url": "https://open.spotify.com/track/3rMTOUuuImnkGEGpN1dqlG"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
+        "name": "Altamar",
+        "url": "https://open.spotify.com/album/4hrSQysDtVOtq4dIcA89mN"
+      },
+      "artists": [
+        {
+          "name": "Vilamarea",
+          "url": "https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ"
+        }
+      ],
+      "duration_ms": 289186,
+      "name": "Altamar",
+      "url": "https://open.spotify.com/track/0hQ1YDgcYE0J2cypCoIPmj"
     },
     {
       "added_at": "2023-02-17 05:58:00",
@@ -819,6 +819,26 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
+        "name": "\u00d3diame",
+        "url": "https://open.spotify.com/album/3SwFT7Pq0A98vQypiY6vde"
+      },
+      "artists": [
+        {
+          "name": "Los Cancionautas Surmel\u00f3dicos",
+          "url": "https://open.spotify.com/artist/2MxbFKWZMuLqHiRJ00Xzga"
+        },
+        {
+          "name": "Lunal\u00e9",
+          "url": "https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu"
+        }
+      ],
+      "duration_ms": 223047,
+      "name": "\u00d3diame",
+      "url": "https://open.spotify.com/track/4EoDDuA7b9V2lVlmdkEkPA"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
         "name": "Pajarillo Negro",
         "url": "https://open.spotify.com/album/2iyi1dEz7xtssJ6soP3ANE"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 351173,
       "name": "De Barrio",
       "url": "https://open.spotify.com/track/0AcZqqvX2aLynoxkIYpCL0"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
-        "name": "\u00d3diame",
-        "url": "https://open.spotify.com/album/3SwFT7Pq0A98vQypiY6vde"
-      },
-      "artists": [
-        {
-          "name": "Los Cancionautas Surmel\u00f3dicos",
-          "url": "https://open.spotify.com/artist/2MxbFKWZMuLqHiRJ00Xzga"
-        },
-        {
-          "name": "Lunal\u00e9",
-          "url": "https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu"
-        }
-      ],
-      "duration_ms": 223047,
-      "name": "\u00d3diame",
-      "url": "https://open.spotify.com/track/4EoDDuA7b9V2lVlmdkEkPA"
     }
   ],
   "unique_name": "Entre los Andes",

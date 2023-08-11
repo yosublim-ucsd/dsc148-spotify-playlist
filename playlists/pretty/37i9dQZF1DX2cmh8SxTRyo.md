@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cmh8SxTRyo.md) - [plain]
 
 > A gaming playlist for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,733 likes - 79 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,731 likes - 79 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cmh8SxTRyo.md) - [plain]
 | 37 | [Midnight Sky](https://open.spotify.com/track/4i2qxFEVVUi8yOYoxB8TCX) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:43 |
 | 38 | [Higher Love](https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Higher Love](https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE) | 3:48 |
 | 39 | [Be Kind \(with Halsey\)](https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Be Kind \(with Halsey\)](https://open.spotify.com/album/1eleCBhP2R8TXEDquvybwC) | 2:52 |
-| 40 | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [TROLLS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7) | 3:57 |
-| 41 | [Alone, Pt\. II](https://open.spotify.com/track/0bMbDctzMmTyK2j74j3nF3) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Alone, Pt\. II](https://open.spotify.com/album/700MviIgFKNTldTXmOAFOr) | 2:59 |
+| 40 | [Alone, Pt\. II](https://open.spotify.com/track/0bMbDctzMmTyK2j74j3nF3) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Alone, Pt\. II](https://open.spotify.com/album/700MviIgFKNTldTXmOAFOr) | 2:59 |
+| 41 | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [TROLLS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7) | 3:57 |
 | 42 | [Symphony \(feat\. Zara Larsson\)](https://open.spotify.com/track/1x5sYLZiu9r5E43kMlt9f8) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Symphony \(feat\. Zara Larsson\)](https://open.spotify.com/album/4b13SJlne61y53KSEwuQtD) | 3:32 |
 | 43 | [Heroes \(we could be\)](https://open.spotify.com/track/3zU9rdflI65tK4dkkNSp77) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Forever](https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw) | 3:30 |
 | 44 | [Radioactive](https://open.spotify.com/track/4G8gkOterJn0Ywt6uhqbhp) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions](https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8) | 3:06 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cmh8SxTRyo.md) - [plain]
 | 78 | [Summer Feelings \(feat\. Charlie Puth\)](https://open.spotify.com/track/7l7SKt5BsDiiS6CjtaW1fO) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [SCOOB! The Album](https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG) | 2:40 |
 | 79 | [Don't Stop the Party \(feat\. TJR\)](https://open.spotify.com/track/7ahuMdaf5gdVi35BzyU9Qu) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [TJR](https://open.spotify.com/artist/2L8yW8GIoirHEdeW4bWQXq) | [Greatest Hits](https://open.spotify.com/album/1webHYaeCy8j9smqS23sgE) | 3:25 |
 
-Snapshot ID: `MCxkZjkxN2U5ZWY1N2EwM2RjZWE2YWJiNDllMWYwNzk1ZjYwMTY3MTVj`
+Snapshot ID: `MCw2NWQ5NmYwZjQ0MzM0MzBhYTRjNTZkNGY4NmNmYTNmZDJjMTM4MTY0`

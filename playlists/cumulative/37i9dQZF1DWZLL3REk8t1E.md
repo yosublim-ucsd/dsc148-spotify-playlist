@@ -4,7 +4,7 @@
 
 > ¡A calentar garganta!
 
-166 songs - 8 hr 54 min
+167 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [El Amor Soñado](https://open.spotify.com/track/587p8shYuTXUhThG3t9x60) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Me Gusta Vivir De Noche](https://open.spotify.com/album/3g3iZ2Zpx2KvqOVV3VFYdd) | 2:44 | 2022-08-03 |  |
 | [El Color de Tus Ojos](https://open.spotify.com/track/1l77YWrGUp3qX3NS1rz7lq) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Mejor Versión De Mí](https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1) | 3:22 | 2021-12-27 |  |
 | [EL INFIERNO](https://open.spotify.com/track/2DhbJTNWJ4ChxnMEcY0WAq) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [EL INFIERNO](https://open.spotify.com/album/5zM5b1Ha8HwK6w5xRO4DFf) | 3:37 | 2022-08-03 |  |
+| [El Malo](https://open.spotify.com/track/0O3YmQ76fAGwrMIsmsEa8e) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/5We7yGwHCRWuy7T5StvTwS) | 2:57 | 2023-04-10 |  |
 | [El Malo](https://open.spotify.com/track/1qNvE50pMBAB11VtaGGkFD) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/7kTcIz6EDhc8G0QCyvpOpH) | 2:57 | 2021-12-27 | 2022-07-29 |
 | [El Malo](https://open.spotify.com/track/6mLX6uVPp6uLlBVim1rR82) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI) | 2:57 | 2021-12-27 | 2023-08-09 |
 | [El Rey de Mil Coronas \- En Vivo](https://open.spotify.com/track/75j8M3sOOD8MBfKnGpdphh) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Desvelada Con Banda y Mariachi \(En Vivo\)](https://open.spotify.com/album/2XBVGcOjDypswEU4uBt5g6) | 2:27 | 2021-12-27 | 2022-07-29 |
@@ -74,7 +75,7 @@
 | [Entre El Amar Y El Querer](https://open.spotify.com/track/5SvFpAJFgnuVzGX7TeK5CS) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Entre El Amar Y El Querer](https://open.spotify.com/album/2k9WSDU5yDudkeNsmxqnz5) | 3:22 | 2022-12-09 | 2023-06-20 |
 | [Es Que Me Gustas \- En Vivo](https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [En Vivo desde El Foro Lizos Music](https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag) | 2:32 | 2021-12-27 |  |
 | [Estos Celos](https://open.spotify.com/track/6u6kH7V7Tx5xDJtF82vVw0) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 3:10 | 2023-04-10 |  |
-| [Estos Celos \- En Vivo](https://open.spotify.com/track/1bHfUhyFqo6toBM3YMvG8I) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Primera Fila](https://open.spotify.com/album/4eW3alaXA3prOOUAAusU2B) | 4:52 | 2021-12-27 |  |
+| [Estos Celos \- En Vivo](https://open.spotify.com/track/1bHfUhyFqo6toBM3YMvG8I) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Primera Fila](https://open.spotify.com/album/4eW3alaXA3prOOUAAusU2B) | 4:52 | 2021-12-27 | 2023-08-11 |
 | [Fue un Placer Conocerte](https://open.spotify.com/track/2keN15BswHOxejdRAaMT8s) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Fue un Placer Conocerte: Gracias Juan Gabriel, Vol\. 1](https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV) | 3:30 | 2021-12-27 |  |
 | [Fuiste Mía](https://open.spotify.com/track/2SaB5fVysOqdJQnjDEBcPW) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Hoy Más Fuerte](https://open.spotify.com/album/55JtRUC2kuIeXBnLmwiA18) | 2:10 | 2021-12-27 | 2022-07-29 |
 | [Fuiste Mía](https://open.spotify.com/track/0QRHEmvbFr73h5Fyk33fji) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Hoy Más Fuerte](https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46) | 2:11 | 2021-12-27 |  |

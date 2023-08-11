@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Swedish House Mafia.",
-  "num_followers": 447367,
+  "num_followers": 447478,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjM0OWI4NzZkMzVhMTgwZjNiZjY3NGRiNDIyZDVmNTlmMDM5Yjg2",
+  "snapshot_id": "MCxlMzA2Y2EyYjMzZDRiN2Q5ZDNkNTc0ZTBlOTJhZmJhOWJlMDY0OGUw",
   "tracks": [
     {
       "added_at": "2023-08-04 04:01:00",
@@ -807,26 +807,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/2AATjcwyMv4RDwKvXZyBn4"
-      },
-      "artists": [
-        {
-          "name": "Franky Wah",
-          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
-        },
-        {
-          "name": "Rae Morris",
-          "url": "https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst"
-        }
-      ],
-      "duration_ms": 265264,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/4vI94CkCfDXotFMcSPujvK"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "sleeping satellite",
         "url": "https://open.spotify.com/album/5s4f2ehTsA304XkhUlCkoy"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 165992,
       "name": "sleeping satellite",
       "url": "https://open.spotify.com/track/63MQ2xbknPiLzGHLMEFt3Z"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/2AATjcwyMv4RDwKvXZyBn4"
+      },
+      "artists": [
+        {
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        },
+        {
+          "name": "Rae Morris",
+          "url": "https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst"
+        }
+      ],
+      "duration_ms": 265264,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/4vI94CkCfDXotFMcSPujvK"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Tongue",
-        "url": "https://open.spotify.com/album/0MkmGLOt30qLXDQRNf5S2s"
-      },
-      "artists": [
-        {
-          "name": "Matisa",
-          "url": "https://open.spotify.com/artist/18YBSDKYgR6so2I94gqUQ9"
-        }
-      ],
-      "duration_ms": 447551,
-      "name": "Brunela",
-      "url": "https://open.spotify.com/track/6U7jhpXZ2ClCSVwvoyvb4R"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Moonlight (feat. Antrex)",
         "url": "https://open.spotify.com/album/5OLbKkQKpJWxk81jq5taCt"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 159677,
       "name": "Moonlight (feat. Antrex)",
       "url": "https://open.spotify.com/track/08VzBbaIZe2jbB7nqPJWgK"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Tongue",
+        "url": "https://open.spotify.com/album/0MkmGLOt30qLXDQRNf5S2s"
+      },
+      "artists": [
+        {
+          "name": "Matisa",
+          "url": "https://open.spotify.com/artist/18YBSDKYgR6so2I94gqUQ9"
+        }
+      ],
+      "duration_ms": 447551,
+      "name": "Brunela",
+      "url": "https://open.spotify.com/track/6U7jhpXZ2ClCSVwvoyvb4R"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "Strong",
+        "url": "https://open.spotify.com/album/2Auo5VfZ8S8p10J6u5bFbV"
+      },
+      "artists": [
+        {
+          "name": "CHANEY",
+          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
+        }
+      ],
+      "duration_ms": 216562,
+      "name": "Strong",
+      "url": "https://open.spotify.com/track/3bVrJvRNReqbE2Ow5txo4n"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "Linx",
         "url": "https://open.spotify.com/album/3JWDZHAoptpYBptxxapIKb"
       },
@@ -1083,22 +1099,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Strong",
-        "url": "https://open.spotify.com/album/2Auo5VfZ8S8p10J6u5bFbV"
-      },
-      "artists": [
-        {
-          "name": "CHANEY",
-          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
-        }
-      ],
-      "duration_ms": 216562,
-      "name": "Strong",
-      "url": "https://open.spotify.com/track/3bVrJvRNReqbE2Ow5txo4n"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "He Lives In You",
         "url": "https://open.spotify.com/album/6aWf24aSFwmvWuC8bcQpZN"
       },
@@ -1111,26 +1111,6 @@
       "duration_ms": 152363,
       "name": "He Lives In You",
       "url": "https://open.spotify.com/track/7q24DYF9kayy5QMdfodvbE"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Words With You (Tchami Remix)",
-        "url": "https://open.spotify.com/album/5wki5jEOywybhV4RgDxwP4"
-      },
-      "artists": [
-        {
-          "name": "Chromeo",
-          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
-        },
-        {
-          "name": "Tchami",
-          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
-        }
-      ],
-      "duration_ms": 289523,
-      "name": "Words With You - Tchami Remix",
-      "url": "https://open.spotify.com/track/3JlxyVUdhYGoJqDvkIpWql"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1151,6 +1131,26 @@
       "duration_ms": 177230,
       "name": "Bring It Back",
       "url": "https://open.spotify.com/track/35es3y1iNffNsVFMuEfq10"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Words With You (Tchami Remix)",
+        "url": "https://open.spotify.com/album/5wki5jEOywybhV4RgDxwP4"
+      },
+      "artists": [
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        },
+        {
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        }
+      ],
+      "duration_ms": 289523,
+      "name": "Words With You - Tchami Remix",
+      "url": "https://open.spotify.com/track/3JlxyVUdhYGoJqDvkIpWql"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1195,6 +1195,42 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "Darkness (feat. Charlotte Haining)",
+        "url": "https://open.spotify.com/album/3ug845ceSwNRYhN9FHw68R"
+      },
+      "artists": [
+        {
+          "name": "Emily Nash",
+          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
+        },
+        {
+          "name": "Charlotte Haining",
+          "url": "https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w"
+        }
+      ],
+      "duration_ms": 173479,
+      "name": "Darkness (feat. Charlotte Haining)",
+      "url": "https://open.spotify.com/track/1jZZyJCLZfK9H1PZfjH7S7"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Best of Me",
+        "url": "https://open.spotify.com/album/4nNPzcNhJRIV2einl7IK4n"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "duration_ms": 262427,
+      "name": "Best of Me",
+      "url": "https://open.spotify.com/track/4Sy2gpNfLf7xbmhbTubbRl"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "Awu Wemadoda",
         "url": "https://open.spotify.com/album/5DWZDoLZrKRPwrImMehQu5"
       },
@@ -1215,26 +1251,6 @@
       "duration_ms": 235179,
       "name": "Awu Wemadoda - Club Mix",
       "url": "https://open.spotify.com/track/2GlEeBVT9pTy2Kqoeq48dP"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Darkness (feat. Charlotte Haining)",
-        "url": "https://open.spotify.com/album/3ug845ceSwNRYhN9FHw68R"
-      },
-      "artists": [
-        {
-          "name": "Emily Nash",
-          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
-        },
-        {
-          "name": "Charlotte Haining",
-          "url": "https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w"
-        }
-      ],
-      "duration_ms": 173479,
-      "name": "Darkness (feat. Charlotte Haining)",
-      "url": "https://open.spotify.com/track/1jZZyJCLZfK9H1PZfjH7S7"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1275,22 +1291,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Body Test",
-        "url": "https://open.spotify.com/album/3UWe1hWpXDXHLT7h6nTKex"
-      },
-      "artists": [
-        {
-          "name": "Enamour",
-          "url": "https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO"
-        }
-      ],
-      "duration_ms": 413046,
-      "name": "Body Test",
-      "url": "https://open.spotify.com/track/0Il22rqYWjY4nDpQp3XpLP"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "King Of My Castle (Purple Disco Machine Remix)",
         "url": "https://open.spotify.com/album/4KvYiPXNUASfXFCXPXyZ8M"
       },
@@ -1307,6 +1307,22 @@
       "duration_ms": 199191,
       "name": "King of My Castle - (Purple Disco Machine Remix) [Edit]",
       "url": "https://open.spotify.com/track/03Hu4c9THPQJDIml8xRYgn"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Body Test",
+        "url": "https://open.spotify.com/album/3UWe1hWpXDXHLT7h6nTKex"
+      },
+      "artists": [
+        {
+          "name": "Enamour",
+          "url": "https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO"
+        }
+      ],
+      "duration_ms": 413046,
+      "name": "Body Test",
+      "url": "https://open.spotify.com/track/0Il22rqYWjY4nDpQp3XpLP"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1359,22 +1375,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Best of Me",
-        "url": "https://open.spotify.com/album/4nNPzcNhJRIV2einl7IK4n"
-      },
-      "artists": [
-        {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
-        }
-      ],
-      "duration_ms": 262427,
-      "name": "Best of Me",
-      "url": "https://open.spotify.com/track/4Sy2gpNfLf7xbmhbTubbRl"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "BOY / if u wanna cry",
         "url": "https://open.spotify.com/album/79Wtz0l5ubAbkzlRJOk2Ie"
       },
@@ -1387,6 +1387,22 @@
       "duration_ms": 183204,
       "name": "BOY",
       "url": "https://open.spotify.com/track/6Q3z3LmFRjPTBFaLCbsHOd"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Vous Venez Souvent Ici?",
+        "url": "https://open.spotify.com/album/2fpfr1uAv5ZZFsxpBQAP9M"
+      },
+      "artists": [
+        {
+          "name": "Bien et Toi",
+          "url": "https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a"
+        }
+      ],
+      "duration_ms": 136125,
+      "name": "Vous Venez Souvent Ici?",
+      "url": "https://open.spotify.com/track/7Fou7tDtiyNdHybKF1cDvQ"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1459,18 +1475,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Vous Venez Souvent Ici?",
-        "url": "https://open.spotify.com/album/2fpfr1uAv5ZZFsxpBQAP9M"
+        "name": "Burning",
+        "url": "https://open.spotify.com/album/67AKOKUGQbahJAKvId1zlZ"
       },
       "artists": [
         {
-          "name": "Bien et Toi",
-          "url": "https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a"
+          "name": "Alice DiMar",
+          "url": "https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN"
         }
       ],
-      "duration_ms": 136125,
-      "name": "Vous Venez Souvent Ici?",
-      "url": "https://open.spotify.com/track/7Fou7tDtiyNdHybKF1cDvQ"
+      "duration_ms": 188181,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/4rmRgOSGXkKCR3W3wk7F5R"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1491,42 +1507,6 @@
       "duration_ms": 216020,
       "name": "Take It Back (feat. Davie)",
       "url": "https://open.spotify.com/track/60ILwSbZxEZ6qgYZMPAq4D"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Burning",
-        "url": "https://open.spotify.com/album/67AKOKUGQbahJAKvId1zlZ"
-      },
-      "artists": [
-        {
-          "name": "Alice DiMar",
-          "url": "https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN"
-        }
-      ],
-      "duration_ms": 188181,
-      "name": "Burning",
-      "url": "https://open.spotify.com/track/4rmRgOSGXkKCR3W3wk7F5R"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Shiver [Ivory (IT) Remix]",
-        "url": "https://open.spotify.com/album/63Zfkd2GRScH4KpLvYMzCb"
-      },
-      "artists": [
-        {
-          "name": "Fever Ray",
-          "url": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
-        },
-        {
-          "name": "Ivory (IT)",
-          "url": "https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr"
-        }
-      ],
-      "duration_ms": 380499,
-      "name": "Shiver - Ivory (IT) Remix",
-      "url": "https://open.spotify.com/track/3iGQ4zDfDWC0lTVb3J72rz"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1587,6 +1567,26 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "Shiver [Ivory (IT) Remix]",
+        "url": "https://open.spotify.com/album/63Zfkd2GRScH4KpLvYMzCb"
+      },
+      "artists": [
+        {
+          "name": "Fever Ray",
+          "url": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
+        },
+        {
+          "name": "Ivory (IT)",
+          "url": "https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr"
+        }
+      ],
+      "duration_ms": 380499,
+      "name": "Shiver - Ivory (IT) Remix",
+      "url": "https://open.spotify.com/track/3iGQ4zDfDWC0lTVb3J72rz"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "heartbreak (feat. joegarratt)",
         "url": "https://open.spotify.com/album/3kQQ4qFE9I4HP5OQQTRuj4"
       },
@@ -1643,6 +1643,26 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "Out Of My Head",
+        "url": "https://open.spotify.com/album/2s3Ixn1aVz9WRUORAnWvlB"
+      },
+      "artists": [
+        {
+          "name": "Waterm\u00e4t",
+          "url": "https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W"
+        },
+        {
+          "name": "Raumakustik",
+          "url": "https://open.spotify.com/artist/0DH2O8Nvb5KxMaI9jCZUqW"
+        }
+      ],
+      "duration_ms": 178809,
+      "name": "Out Of My Head",
+      "url": "https://open.spotify.com/track/0uvFwTx0yP2v6apuxkUoES"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "Butoh (Robert Hood Remix)",
         "url": "https://open.spotify.com/album/2sqpT33fOrCzj9d0JUVceQ"
       },
@@ -1687,26 +1707,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Out Of My Head",
-        "url": "https://open.spotify.com/album/2s3Ixn1aVz9WRUORAnWvlB"
-      },
-      "artists": [
-        {
-          "name": "Waterm\u00e4t",
-          "url": "https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W"
-        },
-        {
-          "name": "Raumakustik",
-          "url": "https://open.spotify.com/artist/0DH2O8Nvb5KxMaI9jCZUqW"
-        }
-      ],
-      "duration_ms": 178809,
-      "name": "Out Of My Head",
-      "url": "https://open.spotify.com/track/0uvFwTx0yP2v6apuxkUoES"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Cold",
         "url": "https://open.spotify.com/album/2wsT5jedDnViFsaN076WES"
       },
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "React",
-        "url": "https://open.spotify.com/album/52GLAnWvWq1EOe3GDJUMzl"
-      },
-      "artists": [
-        {
-          "name": "DJ_Dave",
-          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
-        }
-      ],
-      "duration_ms": 190005,
-      "name": "React",
-      "url": "https://open.spotify.com/track/1N1bABL3Kefd9m3cWyKicx"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Temperature",
         "url": "https://open.spotify.com/album/6Pf1ng16MUqpiQ2TA9nXtG"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 150234,
       "name": "Temperature",
       "url": "https://open.spotify.com/track/6t0rJSmrgU8EyA5gI2Np3d"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "React",
+        "url": "https://open.spotify.com/album/52GLAnWvWq1EOe3GDJUMzl"
+      },
+      "artists": [
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+        }
+      ],
+      "duration_ms": 190005,
+      "name": "React",
+      "url": "https://open.spotify.com/track/1N1bABL3Kefd9m3cWyKicx"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1871,6 +1871,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "New Life Livin",
+        "url": "https://open.spotify.com/album/0RzCStjG3EleF3nBseRL5z"
+      },
+      "artists": [
+        {
+          "name": "Kai Alce",
+          "url": "https://open.spotify.com/artist/7rltPaQHdstifwqWcQtSgh"
+        }
+      ],
+      "duration_ms": 311098,
+      "name": "New Life Livin",
+      "url": "https://open.spotify.com/track/5oUSwHrEKXPo8JoEUDWAvY"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "Break From Jersey",
         "url": "https://open.spotify.com/album/42brLpOIaiGtSlsuheWivi"
       },
@@ -1939,6 +1955,22 @@
       "duration_ms": 146252,
       "name": "Dance Now Cry Later",
       "url": "https://open.spotify.com/track/2XVT2Hd5bQzG4f5gtzoFNV"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "SNACK BOX VOL. 1",
+        "url": "https://open.spotify.com/album/0rqOpmA7OvwXMtCBqy2YHC"
+      },
+      "artists": [
+        {
+          "name": "MADVILLA",
+          "url": "https://open.spotify.com/artist/63zifEaDmILf5PAGyW0piG"
+        }
+      ],
+      "duration_ms": 334883,
+      "name": "Galactic Banana",
+      "url": "https://open.spotify.com/track/7xI4L7WRsMs4nnpaiIxFUI"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -2055,38 +2087,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "New Life Livin",
-        "url": "https://open.spotify.com/album/0RzCStjG3EleF3nBseRL5z"
-      },
-      "artists": [
-        {
-          "name": "Kai Alce",
-          "url": "https://open.spotify.com/artist/7rltPaQHdstifwqWcQtSgh"
-        }
-      ],
-      "duration_ms": 311098,
-      "name": "New Life Livin",
-      "url": "https://open.spotify.com/track/5oUSwHrEKXPo8JoEUDWAvY"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "FUTURE SHOCK",
-        "url": "https://open.spotify.com/album/52AomiipSkezQWqHY1bx4t"
-      },
-      "artists": [
-        {
-          "name": "Dot",
-          "url": "https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT"
-        }
-      ],
-      "duration_ms": 156923,
-      "name": "MOONGLOW",
-      "url": "https://open.spotify.com/track/7LTbfCG7FH2UjsbaDTMj5i"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "CRAZY IF TRUE",
         "url": "https://open.spotify.com/album/70RsZweRTsxLoFJVwqvvkm"
       },
@@ -2103,18 +2103,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "SNACK BOX VOL. 1",
-        "url": "https://open.spotify.com/album/0rqOpmA7OvwXMtCBqy2YHC"
+        "name": "FUTURE SHOCK",
+        "url": "https://open.spotify.com/album/52AomiipSkezQWqHY1bx4t"
       },
       "artists": [
         {
-          "name": "MADVILLA",
-          "url": "https://open.spotify.com/artist/63zifEaDmILf5PAGyW0piG"
+          "name": "Dot",
+          "url": "https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT"
         }
       ],
-      "duration_ms": 334883,
-      "name": "Galactic Banana",
-      "url": "https://open.spotify.com/track/7xI4L7WRsMs4nnpaiIxFUI"
+      "duration_ms": 156923,
+      "name": "MOONGLOW",
+      "url": "https://open.spotify.com/track/7LTbfCG7FH2UjsbaDTMj5i"
     }
   ],
   "unique_name": "New Music Friday Dance",

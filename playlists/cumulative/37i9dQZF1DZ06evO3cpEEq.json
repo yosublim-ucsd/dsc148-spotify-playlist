@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Landing Lights",
+        "url": "https://open.spotify.com/album/3bIHr1r2NWmbtIdaLfIDhs"
+      },
+      "artists": [
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213320,
+      "name": "All Good Fun",
+      "url": "https://open.spotify.com/track/3NwwLJlmS7OXkXFhkJtt3W"
+    },
+    {
+      "album": {
         "name": "Nothing to Hide",
         "url": "https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7"
       },
@@ -60,7 +78,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-10",
+      "date_removed": null,
       "duration_ms": 204005,
       "name": "At Your Table",
       "url": "https://open.spotify.com/track/3yDSaSwCiSW6oXRDaOlDzp"
@@ -166,7 +184,7 @@
       ],
       "date_added": "2023-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-27",
+      "date_removed": null,
       "duration_ms": 215490,
       "name": "Bon Bons",
       "url": "https://open.spotify.com/track/2kUYxBMfhX1HhJwZDpYvOM"
@@ -376,7 +394,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 247678,
       "name": "Flying",
       "url": "https://open.spotify.com/track/5ue6EPAm3RtXuALZ9hmyaq"
@@ -1234,7 +1252,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 223426,
       "name": "Time for a Change",
       "url": "https://open.spotify.com/track/2KSbySbhDmJw6kROu7oSb1"
@@ -1252,7 +1270,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-05",
+      "date_removed": null,
       "duration_ms": 131333,
       "name": "Too Many Secrets",
       "url": "https://open.spotify.com/track/55GAlB5vrAuTYDZ9ml1pcu"
@@ -1386,7 +1404,7 @@
       ],
       "date_added": "2023-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 259706,
       "name": "Western Lullaby",
       "url": "https://open.spotify.com/track/3bQ61KuOqk5SWV8zxLazey"
@@ -1430,7 +1448,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 197375,
       "name": "Where the Fruit Hangs Low",
       "url": "https://open.spotify.com/track/5sawOEIlyZa9ygPGttmKRb"

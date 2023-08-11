@@ -1924,7 +1924,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 198276,
       "name": "Bad Manners Title Track (from \"Bad Manners\")",
       "url": "https://open.spotify.com/track/5CmJFan6BVZEJDBIkBbi56"
@@ -2506,7 +2506,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 282333,
       "name": "Belakali",
       "url": "https://open.spotify.com/track/5A3ZTKVbNtXemakJjqNbFF"
@@ -3210,7 +3210,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 143397,
       "name": "Byarena Aithi (from Gurudev Hoysala)",
       "url": "https://open.spotify.com/track/067PmjFq5g0v8KCDkzf9dA"
@@ -3558,6 +3558,32 @@
       "duration_ms": 250823,
       "name": "College Days (From \"Viramadanantara\")",
       "url": "https://open.spotify.com/track/2ICvwYEZ91yf4RAKvkV9LX"
+    },
+    {
+      "album": {
+        "name": "Comedy King (From \"Namo Bhoothathma 2\")",
+        "url": "https://open.spotify.com/album/361D8XECakKxJ6qGjvJfl4"
+      },
+      "artists": [
+        {
+          "name": "Chandan Shetty",
+          "url": "https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk"
+        },
+        {
+          "name": "Arun Andrew",
+          "url": "https://open.spotify.com/artist/3NMg8F6trpYFOtvlt6FTVM"
+        },
+        {
+          "name": "Vishwaji",
+          "url": "https://open.spotify.com/artist/2rkYVUbHuNz9wmqWX8JgJ1"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247200,
+      "name": "Comedy King - From \"Namo Bhoothathma 2\"",
+      "url": "https://open.spotify.com/track/3Go0RbsqrVCXbGJyp3AZy2"
     },
     {
       "album": {
@@ -4566,7 +4592,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 238600,
       "name": "E Hrudayada Deguladali - From \"Feel My Love\"",
       "url": "https://open.spotify.com/track/66cIa6Cow6a4L5QcdvQ3QH"
@@ -5624,6 +5650,24 @@
       "duration_ms": 348484,
       "name": "Geleya Neenu",
       "url": "https://open.spotify.com/track/5Wg6zVpRUWQHiG15T9gLDu"
+    },
+    {
+      "album": {
+        "name": "Partner",
+        "url": "https://open.spotify.com/album/0mvY3Hex1UgwTFpQhOVF9p"
+      },
+      "artists": [
+        {
+          "name": "Mehaboob Saab",
+          "url": "https://open.spotify.com/artist/1pBFn1uxnCrIFkWdljm8tN"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262368,
+      "name": "Geleya O Geleya",
+      "url": "https://open.spotify.com/track/5PYgMZMicR7zJVidbA0wXw"
     },
     {
       "album": {
@@ -6967,6 +7011,32 @@
     },
     {
       "album": {
+        "name": "Hukum (From \"Jailer\")",
+        "url": "https://open.spotify.com/album/0n6tCOwzR3R6Ke2OQUVIC1"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Lokeshwar Edara",
+          "url": "https://open.spotify.com/artist/7ag0al5P3y3IzzEh0G7YL8"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207647,
+      "name": "Hukum (From \"Jailer\")",
+      "url": "https://open.spotify.com/track/1zVpNFaChsxmXEQwAV3mmi"
+    },
+    {
+      "album": {
         "name": "Huttu Jataka (From \"Hulibete\")",
         "url": "https://open.spotify.com/album/3xkcjzaLFitfehkv5PqDw6"
       },
@@ -8050,6 +8120,32 @@
       "duration_ms": 294195,
       "name": "Kaatera",
       "url": "https://open.spotify.com/track/1bKs8AUXH88pBH7YNAOU7R"
+    },
+    {
+      "album": {
+        "name": "Kaavaalaayya (From \"Jailer\")",
+        "url": "https://open.spotify.com/album/6PgDHLkTWqOhovaLo7rNxO"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Sindhuja Srinivasan",
+          "url": "https://open.spotify.com/artist/1vB0Gi450P8znsVn6J5sjm"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190909,
+      "name": "Kaavaalaayya (From \"Jailer\")",
+      "url": "https://open.spotify.com/track/5AR8sZJpaXmwIGE8r4lnIv"
     },
     {
       "album": {
@@ -10928,7 +11024,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 216921,
       "name": "Mounave Chenna (from \"Veeram\")",
       "url": "https://open.spotify.com/track/5Mpy6UFHledqTFeQ6FqUJT"
@@ -11326,6 +11422,36 @@
       "duration_ms": 260570,
       "name": "Naane Raama Naane Raavana (from \"Kiraathaka 2\")",
       "url": "https://open.spotify.com/track/1ruiOa3vHHJGDEgcFUKzr3"
+    },
+    {
+      "album": {
+        "name": "Naanemba Swarthava Bittu (From \"DDD\")",
+        "url": "https://open.spotify.com/album/2d9QbTVcRcIWNRPOLvT7ee"
+      },
+      "artists": [
+        {
+          "name": "Abhishek M R",
+          "url": "https://open.spotify.com/artist/2SXCXOoQxoRfHwtHaRwt97"
+        },
+        {
+          "name": "Darshan Narayan",
+          "url": "https://open.spotify.com/artist/64ZcUIE43WrFrkpbRbzqmD"
+        },
+        {
+          "name": "Suraj Jois",
+          "url": "https://open.spotify.com/artist/27GwuwHp0LlzXjAyZYniSp"
+        },
+        {
+          "name": "Chethan Kumar",
+          "url": "https://open.spotify.com/artist/3zMAaXwoMBtxeIzUQjiXcy"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235176,
+      "name": "Naanemba Swarthava Bittu (From \"DDD\")",
+      "url": "https://open.spotify.com/track/78LhTKbBXM0MCiEmDorNCI"
     },
     {
       "album": {
@@ -12058,7 +12184,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 249000,
       "name": "Nee Chuttu Chuttu (From \"Skanda\")",
       "url": "https://open.spotify.com/track/2sYhYrHPNU8v5EjSqIqDXm"
@@ -12868,8 +12994,8 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-05",
-      "duration_ms": 249566,
+      "date_removed": null,
+      "duration_ms": 249143,
       "name": "Nin Suttha Suttha (From \"Skanda\") (Kannada)",
       "url": "https://open.spotify.com/track/5Dfq2GkOYNglFnS11yL9TN"
     },

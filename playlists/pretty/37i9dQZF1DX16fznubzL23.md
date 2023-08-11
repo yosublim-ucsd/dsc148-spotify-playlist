@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 
 > For the pain, tears and heartbreak.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,506 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,542 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 49 | [Boulevard](https://open.spotify.com/track/6khF6tGGrGcsQIfA4LP7P0) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Freestyle EP](https://open.spotify.com/album/77S4lBoIMeZEYvtWBMH5DO) | 1:52 |
 | 50 | [Peace Of Mind](https://open.spotify.com/track/71cLwuw0yKKcKlHDiccxNn) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 4:14 |
 
-Snapshot ID: `MCwyN2Q1ODA1YzBkMzQ0OGRiYmM0MTdmZWM4NDNhYTRjYzZmNTYyMTI0`
+Snapshot ID: `MCw4ZmQ5ZmNhMDFjMTAyNTEyNDFmNjAyZjlmZTZjNjliNjBkYTFmOTll`

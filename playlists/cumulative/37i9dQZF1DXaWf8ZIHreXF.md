@@ -4,7 +4,7 @@
 
 > The biggest dance floor bangers of the 2010s.
 
-110 songs - 6 hr 20 min
+111 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Five More Hours](https://open.spotify.com/track/3MOECVkNshqHYTPt5DZcdN) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Good Evening](https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY) | 3:31 | 2022-10-12 |  |
 | [Freaks \- Radio Edit](https://open.spotify.com/track/4f3NHOxgC8Bg21IJBg4cZ3) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [Freaks](https://open.spotify.com/album/2XuqIiYNrr15UYsmll2B3z) | 2:49 | 2022-10-12 |  |
 | [Gecko \(Overdrive\) \- Radio Edit](https://open.spotify.com/track/483XiZ5o13Cc1zoWV7jGml) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Gecko \(Overdrive\) \[Radio Edit\]](https://open.spotify.com/album/4cJyCdYZKnIhxQCSymU2ES) | 2:45 | 2022-10-12 |  |
+| [Get Up \(Rattle\) \[feat\. Far East Movement\] \- Vocal Edit](https://open.spotify.com/track/3wLPRjw2XQpmowqXUXb3UF) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq) | [Get Up \(Rattle\) \[feat\. Far East Movement\]](https://open.spotify.com/album/2i27N4YvO0SHfZtMyBUnj6) | 2:46 | 2022-11-14 |  |
 | [Hear Me Now](https://open.spotify.com/track/39cmB3ZoTOLwOTq7tMNqKa) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Hear Me Now \(feat\. Zeeba\)](https://open.spotify.com/album/6fpsA5aYbVNLe6y3P49o2o) | 3:14 | 2022-10-12 |  |
 | [Heroes \(we could be\)](https://open.spotify.com/track/3zU9rdflI65tK4dkkNSp77) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Forever](https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw) | 3:30 | 2022-10-12 |  |
 | [Hey Brother](https://open.spotify.com/track/4lhqb6JvbHId48OUJGwymk) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0) | 4:15 | 2022-11-14 |  |
@@ -44,7 +45,7 @@
 | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B) | 2:56 | 2022-10-12 |  |
 | [In My Mind](https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [In My Mind](https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa) | 3:04 | 2022-10-12 |  |
 | [In My Mind \- Axwell Radio Edit](https://open.spotify.com/track/2ud5ukcAgwOki5PyE53mPl) | [Ivan Gough](https://open.spotify.com/artist/5aBWZE8TOaaA9O50ENS3EM), [Feenixpawl](https://open.spotify.com/artist/5FvlJcXnFIm72pgQtW3Dct), [Georgi Kay](https://open.spotify.com/artist/32DJdHuhN1840L73Bqxhxj), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43) | [In My Mind](https://open.spotify.com/album/3dP1IaedOHcck6VHwSnX4g) | 3:05 | 2022-11-14 | 2023-06-03 |
-| [King](https://open.spotify.com/track/5Z3zRrMIJk7CVpfcLsM9wD) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn) | 3:35 | 2022-11-14 |  |
+| [King](https://open.spotify.com/track/5Z3zRrMIJk7CVpfcLsM9wD) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn) | 3:35 | 2022-11-14 | 2023-08-11 |
 | [Latch](https://open.spotify.com/track/1DunhgeZSEgWiIYbHqXl0c) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Settle \(Deluxe\)](https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs) | 4:15 | 2022-10-12 |  |
 | [Lean On](https://open.spotify.com/track/1Lim1Py7xBgbAkAys3AGAG) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Peace Is The Mission \(Extended\)](https://open.spotify.com/album/4pCLlUxlKj3pNVdBtFyhrU) | 2:56 | 2022-10-12 |  |
 | [Levels \- Radio Edit](https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Levels](https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg) | 3:19 | 2022-10-12 |  |

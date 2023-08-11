@@ -4,7 +4,7 @@
 
 > Soft and cozy sounds of Bossa nova.
 
-70 songs - 4 hr 40 min
+73 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Estate](https://open.spotify.com/track/29nsxzITJQJpaja7RvTupi) | [Mellow In Blue](https://open.spotify.com/artist/0XqUdduCt8Hmk0fGxzpdR4), [Mathias Heise](https://open.spotify.com/artist/5VDMcXFNkMZ3bB9bt9jRFW), [Erlend Slettevoll](https://open.spotify.com/artist/1Wvn3eBW8X5DeD2pwnTjYS), [Johnny Åman](https://open.spotify.com/artist/1eAt5Qjg9RPfYAhxl723YW), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Estate](https://open.spotify.com/album/1lpsAqYN6I6uyiawUgBHFM) | 5:18 | 2023-05-11 |  |
 | [Everything I Love](https://open.spotify.com/track/1HmfqLGKxU3pSnhs2n0RDn) | [Tom Rogers Band](https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR) | [Everything I Love](https://open.spotify.com/album/0xEdEQEBbOvXAS640Ii8PP) | 4:31 | 2023-05-11 |  |
 | [Favela \- Remastered](https://open.spotify.com/track/13Y8guAjsfss2WPIINuoYd) | [Ike Quebec](https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh) | [Bossa Nova Soul Samba \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4ntjTCmyhwHIsK12RScxRP) | 4:00 | 2023-05-11 |  |
+| [Florianópolis](https://open.spotify.com/track/4yjDimLGS5JTXh34bFAiFi) | [Bedford and 7th](https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE) | [Florianópolis](https://open.spotify.com/album/2C33KFJjdDgqabZRiEoiJB) | 3:10 | 2023-08-10 |  |
 | [Fotografia](https://open.spotify.com/track/6FMo4V8vQU07y1zwBfZrz7) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [Meets Gustav Lundgren](https://open.spotify.com/album/1YxUJdI0JWsXGGq8xa1SLt) | 3:50 | 2023-05-11 |  |
 | [Foz Do Iguaçu](https://open.spotify.com/track/7DH2me3WEWpTNcPqeq6I8w) | [da Suécia](https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse) | [Foz Do Iguaçu](https://open.spotify.com/album/0hlEiLyA2RkFQhTkPu33AW) | 3:26 | 2023-05-11 |  |
 | [Gentileza](https://open.spotify.com/track/2b5sr8aUAAoY7waDSB4KRX) | [Ximena & Antonio](https://open.spotify.com/artist/4GTpu88l1iZwuSyY2UXW70) | [Gentileza](https://open.spotify.com/album/13Nf9wlDHpcboyd0LM7px6) | 4:25 | 2023-05-11 |  |
@@ -66,7 +67,9 @@
 | [Song for My Father](https://open.spotify.com/track/6m4SAo4N6YGD5JJCLFoPDU) | [Sydney Taylor Band](https://open.spotify.com/artist/2M3GH9JFk7Z62j2XarUJ1g) | [Killer Joe](https://open.spotify.com/album/27bI53AGLeovNbXmBzUnN2) | 3:42 | 2023-05-11 |  |
 | [Standing Tall](https://open.spotify.com/track/6zyXnFhbzWquheImVhTyMX) | [Magnus Ringblom](https://open.spotify.com/artist/01s2QB29sjjLunqBoPfgGb) | [Blue Night Bossa](https://open.spotify.com/album/6XmwjVSryg17GrpHl5eVx7) | 3:51 | 2023-05-11 |  |
 | [Strangers in the Night](https://open.spotify.com/track/4oulAJLw1DSMKERkIQDFG8) | [Jade Vieira](https://open.spotify.com/artist/62u2ks7IGeMOqkSLCAaLHK) | [Strangers in the Night](https://open.spotify.com/album/6QGyGBnji7UQ2ZHeV6vZRs) | 2:50 | 2023-05-11 |  |
+| [Sunset over Recife](https://open.spotify.com/track/6DpJVrfkJ72jTE4MlrDObl) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [Sunset over Recife](https://open.spotify.com/album/17O83pna4zn9zjWai235PZ) | 2:45 | 2023-08-10 |  |
 | [São Conrado](https://open.spotify.com/track/70J7CgwIIEGbG3Aks9Ub8q) | [Tom Rogers Band](https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR) | [São Conrado](https://open.spotify.com/album/0Ei7Dps43KXrO9PQFq8pRY) | 3:49 | 2023-05-11 |  |
+| [Tangeri](https://open.spotify.com/track/0iBFfy3N8H4vOKXrC85DE9) | [Søren Bebe Trio](https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI), [Søren Bebe](https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh) | [Tangeri](https://open.spotify.com/album/12VCI8zliAWBO1nZNb4KQs) | 4:44 | 2023-08-10 |  |
 | [The Look Of Love](https://open.spotify.com/track/1DGRTR2cE0Sr9eTCeCztZY) | [Midtown Players](https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO) | [The Look Of Love](https://open.spotify.com/album/3a7bqpNydrqKIXM9ViTxoH) | 2:13 | 2023-05-25 |  |
 | [The Shadow of Your Smile](https://open.spotify.com/track/7CkCIrM9MwcHjlp7DgeS73) | [Moonlight Jazz Trio](https://open.spotify.com/artist/6PQAkc79UJ2ngAy9uX7wbD) | [The Shadow Of Your Smile](https://open.spotify.com/album/5zH20F8OMipTtIaGPZwExZ) | 3:52 | 2023-05-11 |  |
 | [Time Passing Slowly](https://open.spotify.com/track/1uEOB09ZF3Xt3WmtbneqMf) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [Time Passing Slowly](https://open.spotify.com/album/2UFNvSBbtLOxzaFXxNoeKv) | 3:38 | 2023-05-11 |  |

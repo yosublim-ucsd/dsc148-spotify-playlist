@@ -4,7 +4,7 @@
 
 > Súbete a la troca ❤️
 
-167 songs - 9 hr 1 min
+168 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [BYE](https://open.spotify.com/track/6f8wbdo8KU5ETWJA7lapgS) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:32 | 2023-07-05 |  |
 | [Chanel](https://open.spotify.com/track/5RcxRGvmYai7kpFSfxe5GY) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Chanel](https://open.spotify.com/album/4cd4QB02mwPtiTOJBzQmWo) | 3:21 | 2023-04-05 |  |
 | [Como Que Me Enamoro \- En Vivo](https://open.spotify.com/track/7IZ738mnMnhVhxzn8m06qn) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Pistiembre Todo El Año \(En Vivo\)](https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt) | 2:57 | 2022-02-11 | 2023-08-09 |
+| [Como Que Me Enamoro \- En Vivo](https://open.spotify.com/track/7eXKLWZeQdMDBzGZvpAvr7) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Pistiembre Todo El Año \(En Vivo\)](https://open.spotify.com/album/7ehOg9A1Xm3hLX8Cg8hZs4) | 2:57 | 2023-07-05 |  |
 | [Con Tus Besos](https://open.spotify.com/track/6tsoBcgT99Kb4DvjI8Pnlv) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal](https://open.spotify.com/album/5KBtFFqqc00n2VXesM5Qiy) | 3:46 | 2022-02-11 | 2022-12-08 |
 | [Con Tus Besos](https://open.spotify.com/track/6WYB1odDfMPVMyp1QxFInT) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal](https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx) | 3:46 | 2022-02-11 |  |
 | [Contigo](https://open.spotify.com/track/3imJHohXBxDGovFRQ75dUt) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Contigo](https://open.spotify.com/album/67FKNGl2Yujo7UFeDNajHt) | 3:30 | 2022-02-11 | 2022-12-08 |
@@ -151,7 +152,7 @@
 | [Tal Vez](https://open.spotify.com/track/7Aiq4g8tSExAM2qUNkiHbZ) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Vibras de Noche](https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG) | 4:30 | 2022-02-11 | 2023-07-06 |
 | [Te Acostumbré A Mis Besos](https://open.spotify.com/track/3Zj6ZHiLwbKW1DvtcAf1sG) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Perfecta](https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm) | 2:39 | 2022-02-11 | 2022-12-08 |
 | [Te Amo](https://open.spotify.com/track/4UPX8tA4fQ6hLLZzjEvI2K) | [Geru y Su Legion 7](https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch) | [Te Amo](https://open.spotify.com/album/376vclrFtiKhgh434miOCI) | 2:39 | 2022-02-11 | 2022-12-08 |
-| [Te Metiste](https://open.spotify.com/track/3f3oWj7ll4vtK6gXb2cIxm) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Ariel Camacho Para Siempre](https://open.spotify.com/album/4M57SO3tOI7AhXqUc4ujde) | 3:31 | 2022-02-11 |  |
+| [Te Metiste](https://open.spotify.com/track/3f3oWj7ll4vtK6gXb2cIxm) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Ariel Camacho Para Siempre](https://open.spotify.com/album/4M57SO3tOI7AhXqUc4ujde) | 3:31 | 2022-02-11 | 2023-08-11 |
 | [Te Presumo](https://open.spotify.com/track/0tFHkmet0a0XkW1ZEjv0Lh) | [Dinamicos Jrs](https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Te Presumo](https://open.spotify.com/album/1cYCoUjpvXwpfAhOgDnFoF) | 2:59 | 2022-02-11 | 2022-12-08 |
 | [Te Quiero Aqui \(Live Session\)](https://open.spotify.com/track/6Nr9lecX2OdRSFDf39CLld) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [Te Quiero Aqui \(Live Session\)](https://open.spotify.com/album/45371KQq8N3dbYubEAHnk7) | 3:10 | 2022-02-11 | 2022-12-08 |
 | [Te Quiero Besar](https://open.spotify.com/track/3iwKWIaEZ5jafPYZZSCDLz) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Te Quiero Besar](https://open.spotify.com/album/3nzB6RJLeWrgaATXF5ZIkr) | 3:10 | 2023-02-16 |  |

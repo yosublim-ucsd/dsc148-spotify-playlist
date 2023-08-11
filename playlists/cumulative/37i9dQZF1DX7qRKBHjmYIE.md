@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo\. Freshly picked every week\. 🌸 Cover: Kirnbauer, Joaquina Mertz, María Centeno & Noa Sainz.
 
-482 songs - 1 day 2 hr 0 min
+483 songs - 1 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [Fingías](https://open.spotify.com/track/7o0oY5wRcoV7oPuDhD2J1z) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Fingías](https://open.spotify.com/album/1V2sg9XB2TP29Ys4ER3fLn) | 3:45 | 2022-01-24 | 2023-02-17 |
 | [first order of business](https://open.spotify.com/track/4d6z0mKVcnhE5x0YWvTexh) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg) | 2:48 | 2022-01-24 | 2022-12-31 |
 | [Flexa](https://open.spotify.com/track/7dHS8dBVEZc3xP7jfm7g6u) | [Sessi](https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX) | [Flexa](https://open.spotify.com/album/4ap1rTmDR8Xubn6Crx0EbR) | 3:18 | 2023-02-12 | 2023-06-05 |
-| [Flor del Mar](https://open.spotify.com/track/1pplFyFdRuBEnzis9qg2AU) | [Montoya](https://open.spotify.com/artist/52pEvBJxxzBacaaxVOSyxa), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Flor del Mar](https://open.spotify.com/album/5LFttGwot3ywYLz9ZmLLBi) | 3:12 | 2023-07-21 |  |
+| [Flor del Mar](https://open.spotify.com/track/1pplFyFdRuBEnzis9qg2AU) | [Montoya](https://open.spotify.com/artist/52pEvBJxxzBacaaxVOSyxa), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Flor del Mar](https://open.spotify.com/album/5LFttGwot3ywYLz9ZmLLBi) | 3:12 | 2023-07-21 | 2023-08-11 |
 | [Flow Lavoe](https://open.spotify.com/track/1QLpTmTwY3bD2RSJsNykDO) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU) | [Flow Lavoe](https://open.spotify.com/album/0y11D9VF8RzosySuQ2YgDD) | 3:39 | 2021-12-02 | 2022-07-23 |
 | [Focus](https://open.spotify.com/track/25ivNqkoHQ3zv4LWRe1oef) | [Jaylon Ashaun](https://open.spotify.com/artist/5dhseP7KiICmkxT5waM1Md) | [Focus](https://open.spotify.com/album/5i8Yd6aBBLXluRugSLTlhb) | 2:00 | 2022-06-03 | 2023-02-17 |
 | [Fogata](https://open.spotify.com/track/0jniFtpAyWN1hCtQdTllSg) | [XAXO](https://open.spotify.com/artist/04QAHqsyX2YvreBDLkgpXb), [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [Fogata](https://open.spotify.com/album/0BEdljhMIuLrTrulOoT0ry) | 2:53 | 2021-12-02 | 2022-10-28 |
@@ -424,6 +424,7 @@
 | [Tarde](https://open.spotify.com/track/1ZclY4XEkj9cz9uqj2Ueqo) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB), [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [Tarde](https://open.spotify.com/album/4TFbd9bF0VZlQQqPHHDUiM) | 2:49 | 2023-06-02 | 2023-08-05 |
 | [Tatuaje](https://open.spotify.com/track/1ZOyR8gyHEYsue2h85MF0W) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1) | [Tatuaje](https://open.spotify.com/album/678gtbngxA3D12ZRfz1E9X) | 3:06 | 2023-03-29 | 2023-08-07 |
 | [te di mi luz](https://open.spotify.com/track/66xdsJEW1KSeWi2rFmB7QF) | [Vivi K](https://open.spotify.com/artist/4WSOtiDdjEIvAAK6HqvdUg) | [SI ME ELEVO](https://open.spotify.com/album/5x1uFs84xX2MnzCaB7Uvkr) | 2:22 | 2023-02-17 |  |
+| [Te había contao](https://open.spotify.com/track/00pEWo382r8gERWquqG1wS) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb), [Pororó](https://open.spotify.com/artist/37rFJ6EXmC8mPSiLUS3sW3) | [Perla Rosa](https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf) | 3:38 | 2023-08-04 |  |
 | [Te había contao](https://open.spotify.com/track/0KjmacdqLiXABYlCSZgLxu) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb), [Pororó](https://open.spotify.com/artist/37rFJ6EXmC8mPSiLUS3sW3) | [Te había contao](https://open.spotify.com/album/0fsdJqVYDcHFmz8hFp17xT) | 3:38 | 2023-05-05 | 2023-05-26 |
 | [Te había contao \(feat\. Pororó\)](https://open.spotify.com/track/5HmsXiQypmCaohAWm7GYSF) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb), [Pororó](https://open.spotify.com/artist/37rFJ6EXmC8mPSiLUS3sW3) | [Te había contao](https://open.spotify.com/album/7wGB87wko4rif1gFJrjGic) | 3:38 | 2023-05-19 | 2023-06-17 |
 | [Te Olvidaste](https://open.spotify.com/track/6Nr40AS5eNsfFjpMrisCY3) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 3:07 | 2021-12-02 | 2022-01-25 |

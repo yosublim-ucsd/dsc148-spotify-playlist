@@ -1,12 +1,12 @@
 {
   "description": "Se acab\u00f3 el amor. La m\u00fasica contin\u00faa.",
-  "num_followers": 1757183,
+  "num_followers": 1757373,
   "original_name": "Sin Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODY4Y2NmYTI4OWE5YWUxYWVlYTkyOTViZjMwYjVlZTc2NDY0MjY3",
+  "snapshot_id": "MCxjOWI1ZmQ0ZGEwODgwYWIyNTI3ZjEzNDVjNWVkYzVhOGI2YWZhMjFk",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
+        "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 214527,
+      "name": "Cobarde",
+      "url": "https://open.spotify.com/track/4rbFRFbocQDMubY2l2qM1K"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Un Mill\u00f3n Como T\u00fa",
         "url": "https://open.spotify.com/album/5r75ptD4oGxvbu9iWUhqCB"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 275026,
       "name": "Un Mill\u00f3n Como T\u00fa",
       "url": "https://open.spotify.com/track/619zlIsV7csW2h2narAoPC"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
-        "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 214527,
-      "name": "Cobarde",
-      "url": "https://open.spotify.com/track/4rbFRFbocQDMubY2l2qM1K"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Saturno",
-        "url": "https://open.spotify.com/album/5pkBUqB9eV83AF7BmNGAs6"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 253760,
-      "name": "Saturno",
-      "url": "https://open.spotify.com/track/2oKjjRzItVu8JZScrpzFTx"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Lo siento (feat. Sof\u00eda Reyes)",
         "url": "https://open.spotify.com/album/4rrjJBAIMEZZG8i9GDwoLu"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 232655,
       "name": "Lo siento (feat. Sof\u00eda Reyes)",
       "url": "https://open.spotify.com/track/5dITA6jTX7f1gHwEAyS3YZ"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Saturno",
+        "url": "https://open.spotify.com/album/5pkBUqB9eV83AF7BmNGAs6"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 253760,
+      "name": "Saturno",
+      "url": "https://open.spotify.com/track/2oKjjRzItVu8JZScrpzFTx"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Devu\u00e9lveme El Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/6bWoGN8NnZ5IHuwU7PBp3d"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 244160,
-      "name": "Devu\u00e9lveme El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0AbUjX0KljK02Ts6q7YITU"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Suficiente",
         "url": "https://open.spotify.com/album/4iCm5y1XREMD9eIq0rIbct"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 236485,
       "name": "Suficiente",
       "url": "https://open.spotify.com/track/3FVnwugdti1mSy5xjpXCaz"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Devu\u00e9lveme El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6bWoGN8NnZ5IHuwU7PBp3d"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 244160,
+      "name": "Devu\u00e9lveme El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0AbUjX0KljK02Ts6q7YITU"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Te echo de menos",
-        "url": "https://open.spotify.com/album/3SOqCdYh4P6GPFjGh0ZHrj"
+        "name": "V\u00e9rtigo",
+        "url": "https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L"
       },
       "artists": [
         {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
         }
       ],
-      "duration_ms": 194986,
-      "name": "Te echo de menos",
-      "url": "https://open.spotify.com/track/3gPOFPYLgpvQz0ZMwmv7NE"
+      "duration_ms": 209221,
+      "name": "Hablemos de amor",
+      "url": "https://open.spotify.com/track/0ttJ5VlYydkecHXNqQChgN"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "V\u00e9rtigo",
-        "url": "https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L"
+        "name": "Te echo de menos",
+        "url": "https://open.spotify.com/album/3SOqCdYh4P6GPFjGh0ZHrj"
       },
       "artists": [
         {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
         }
       ],
-      "duration_ms": 209221,
-      "name": "Hablemos de amor",
-      "url": "https://open.spotify.com/track/0ttJ5VlYydkecHXNqQChgN"
+      "duration_ms": 194986,
+      "name": "Te echo de menos",
+      "url": "https://open.spotify.com/track/3gPOFPYLgpvQz0ZMwmv7NE"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Si hubieras querido",
-        "url": "https://open.spotify.com/album/0mag3mrok9LV07L6nnACOt"
+        "name": "Me vas a ver",
+        "url": "https://open.spotify.com/album/2fQQrxHLh19ZQGFLOGBc2X"
       },
       "artists": [
         {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
         }
       ],
-      "duration_ms": 221139,
-      "name": "Si hubieras querido",
-      "url": "https://open.spotify.com/track/0Q6Pc3dqsl6qHKZ91DPUTH"
+      "duration_ms": 135739,
+      "name": "Me vas a ver",
+      "url": "https://open.spotify.com/track/5BhSZWrUa5xkZ2K7Ze5fVT"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1419,34 +1419,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Me vas a ver",
-        "url": "https://open.spotify.com/album/2fQQrxHLh19ZQGFLOGBc2X"
+        "name": "Si hubieras querido",
+        "url": "https://open.spotify.com/album/0mag3mrok9LV07L6nnACOt"
       },
       "artists": [
         {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
         }
       ],
-      "duration_ms": 135739,
-      "name": "Me vas a ver",
-      "url": "https://open.spotify.com/track/5BhSZWrUa5xkZ2K7Ze5fVT"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Te La Dedico",
-        "url": "https://open.spotify.com/album/7KGERR76ARYMU0z9AO1Z3Y"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 231724,
-      "name": "Te La Dedico",
-      "url": "https://open.spotify.com/track/6z3IrUfL5HxmpH0Xt84Es8"
+      "duration_ms": 221139,
+      "name": "Si hubieras querido",
+      "url": "https://open.spotify.com/track/0Q6Pc3dqsl6qHKZ91DPUTH"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1467,6 +1451,22 @@
       "duration_ms": 198448,
       "name": "Lo Siento Mucho",
       "url": "https://open.spotify.com/track/6mcuBSkO6GQwafMxpwrQaZ"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Te La Dedico",
+        "url": "https://open.spotify.com/album/7KGERR76ARYMU0z9AO1Z3Y"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 231724,
+      "name": "Te La Dedico",
+      "url": "https://open.spotify.com/track/6z3IrUfL5HxmpH0Xt84Es8"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1499,6 +1499,22 @@
       "duration_ms": 305346,
       "name": "Ahora Quien",
       "url": "https://open.spotify.com/track/3i3fYhl23l7exbIj9oAJPN"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "A\u00fan me amas",
+        "url": "https://open.spotify.com/album/5gY5TLUTYIC3TOrYXmWdVw"
+      },
+      "artists": [
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "A\u00fan me amas",
+      "url": "https://open.spotify.com/track/6QpL9FS8ytyEIYrM2l7lSf"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1547,22 +1563,6 @@
       "duration_ms": 237373,
       "name": "Nunca Voy a Olvidarte - Primera Fila - Live Version",
       "url": "https://open.spotify.com/track/4HAPPGfvox8QdKdU1lD3wf"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "A\u00fan me amas",
-        "url": "https://open.spotify.com/album/5gY5TLUTYIC3TOrYXmWdVw"
-      },
-      "artists": [
-        {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "A\u00fan me amas",
-      "url": "https://open.spotify.com/track/6QpL9FS8ytyEIYrM2l7lSf"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Estemos Donde Estemos",
-        "url": "https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C"
-      },
-      "artists": [
-        {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
-        }
-      ],
-      "duration_ms": 107320,
-      "name": "50/50",
-      "url": "https://open.spotify.com/track/464aJm0nr5hDzFEoYyqnNk"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Amarte y Perderte",
         "url": "https://open.spotify.com/album/61m0MH9BQYHXRV4wbL6RbL"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 208947,
       "name": "Amarte y Perderte",
       "url": "https://open.spotify.com/track/3mYV0dsiuvpsEHTAG74n1d"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Estemos Donde Estemos",
+        "url": "https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "duration_ms": 107320,
+      "name": "50/50",
+      "url": "https://open.spotify.com/track/464aJm0nr5hDzFEoYyqnNk"
     },
     {
       "added_at": "2023-06-30 04:00:00",

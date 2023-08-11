@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 
 > Gospel music from across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,017 likes - 50 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,028 likes - 50 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,23 +26,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 | 16 | [Everything \(Amen\)](https://open.spotify.com/track/2H6RIf2y9HyT5WWJXzWzGu) | [Timi Dakolo](https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK) | [Everything \(Amen\)](https://open.spotify.com/album/1Dx9yZ1ej8pG0sCMXdt9f7) | 3:57 |
 | 17 | [No Longer Bound \(I'm Free\)](https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [No Longer Bound \(I'm Free\)](https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP) | 2:55 |
 | 18 | [I Believe \(Island Medley\) \[So Long Bye Bye\] \(Radio Edit\)](https://open.spotify.com/track/7bZCkTQ5qXrCgQvPbKF2gH) | [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa) | [I Believe \(Island Medley\) \- Single](https://open.spotify.com/album/69PdhhgvSzawIe73yaItL8) | 4:00 |
-| 19 | [Yesu Nitie Nguvu](https://open.spotify.com/track/6ei3elKMjid5GSnWAXwS6q) | [William Yilima](https://open.spotify.com/artist/2DTRhfclXLK7d9FYyuWda0) | [Uko Wapi Mungu](https://open.spotify.com/album/3mFFb1dNZLjxLWNNTjaqW0) | 2:22 |
+| 19 | [Another Miracle](https://open.spotify.com/track/6KzOfBQbzxEZEpUKzJVDtG) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Dena Mwana](https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3) | [Another Miracle](https://open.spotify.com/album/2DtdcUoZzFKJBFx5qaHRsU) | 3:32 |
 | 20 | [Trust In God \- Radio Version](https://open.spotify.com/track/7mqEjKUiNZUfsDD9QQHqaw) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Trust In God \(Radio Version\)](https://open.spotify.com/album/6IW9jcM4HMToKGO1aE8dbv) | 4:03 |
-| 21 | [Another Miracle](https://open.spotify.com/track/6KzOfBQbzxEZEpUKzJVDtG) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Dena Mwana](https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3) | [Another Miracle](https://open.spotify.com/album/2DtdcUoZzFKJBFx5qaHRsU) | 3:32 |
+| 21 | [Yesu Nitie Nguvu](https://open.spotify.com/track/6ei3elKMjid5GSnWAXwS6q) | [William Yilima](https://open.spotify.com/artist/2DTRhfclXLK7d9FYyuWda0) | [Uko Wapi Mungu](https://open.spotify.com/album/3mFFb1dNZLjxLWNNTjaqW0) | 2:22 |
 | 22 | [Shusha Nyavu](https://open.spotify.com/track/4OWverqpwi4P1BstWOjlS1) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Shusha Nyavu](https://open.spotify.com/album/2Tlcxf4JXImZRqiNnYCDKt) | 3:46 |
 | 23 | [Naomba](https://open.spotify.com/track/3Js89zRlholrVwfRJpWGEV) | [Adawnage](https://open.spotify.com/artist/23AJRPsc0fX6FvUnaLu9b3) | [Safari: The Journey](https://open.spotify.com/album/0ykVA7hvydCUNs0IlKmmiy) | 4:42 |
 | 24 | [Ndio](https://open.spotify.com/track/3CnETTK4rc5A5XnTWpvjWZ) | [Rehema Simfukwe](https://open.spotify.com/artist/6LL0XXSfIWHDxuDf9HmnjL) | [Ndio](https://open.spotify.com/album/5CzUS1DY6pEqcYUxq9fiLm) | 9:23 |
 | 25 | [Tawala](https://open.spotify.com/track/6dvk6TqiOxnkLL3T7zkup5) | [Ben Cyco](https://open.spotify.com/artist/357UDX6McIJEWiI0ttqWug), [Laura Karwirwa](https://open.spotify.com/artist/7wkxMxxw3LihaaaWQA7tYT) | [Tawala](https://open.spotify.com/album/2SvM1aj4W4cHTwdSuTyHQs) | 3:06 |
 | 26 | [Ebenezer](https://open.spotify.com/track/0FMRioTf40f4KVHSeVvqLh) | [Angela Chibalonza](https://open.spotify.com/artist/6o1Crwek2BEtkfAsI204iR) | [Nimekutana Na Yesu](https://open.spotify.com/album/7uG3igTPfTvad0ePaGCWM2) | 4:55 |
-| 27 | [We Worship](https://open.spotify.com/track/6df95vCVl83PMM0SHJp9CP) | [Mabongi](https://open.spotify.com/artist/0uSRQHujTrrx0z341H366j), [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ) | [The Sound of Redemption](https://open.spotify.com/album/33eTjDxci5pBddq5SAJome) | 6:43 |
+| 27 | [Mkono Wa Bwana](https://open.spotify.com/track/0I5hC840hWZCo3nGTptRm5) | [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Mkono Wa Bwana](https://open.spotify.com/album/5oXO7E3vFCkWTfdwkZDckF) | 5:49 |
 | 28 | [Uwezo](https://open.spotify.com/track/2CSXfQMjtbCi0bzPN8JqfM) | [Adawnage](https://open.spotify.com/artist/23AJRPsc0fX6FvUnaLu9b3) | [Safari: The Journey](https://open.spotify.com/album/0ykVA7hvydCUNs0IlKmmiy) | 4:41 |
-| 29 | [Mkono Wa Bwana](https://open.spotify.com/track/0I5hC840hWZCo3nGTptRm5) | [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Mkono Wa Bwana](https://open.spotify.com/album/5oXO7E3vFCkWTfdwkZDckF) | 5:49 |
+| 29 | [We Worship](https://open.spotify.com/track/6df95vCVl83PMM0SHJp9CP) | [Mabongi](https://open.spotify.com/artist/0uSRQHujTrrx0z341H366j), [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ) | [The Sound of Redemption](https://open.spotify.com/album/33eTjDxci5pBddq5SAJome) | 6:43 |
 | 30 | [Narudisha](https://open.spotify.com/track/3x95KiKvcpqSBuGLPHkDkY) | [Gloria Muliro](https://open.spotify.com/artist/22EUP7xdGe9A2jzD7zdSxV) | [Narudisha](https://open.spotify.com/album/3sFqgqQH7abGlGF1U0WG6T) | 4:29 |
 | 31 | [Uniongoze Yesu](https://open.spotify.com/track/2V5Bn7Mazl8A7jNQ4fdyTy) | [UPENDO NKONE](https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n) | [Uniongoze Yesu, Vol.4](https://open.spotify.com/album/01mAHADPk1dOnHMBb1ILbx) | 8:10 |
 | 32 | [Relax](https://open.spotify.com/track/6vUjxGdsmFyyycqZohBo8e) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Relax](https://open.spotify.com/album/65LvwDgc92DvkD7GdhPl7R) | 4:09 |
 | 33 | [Mwanake \(feat\. Kaberere\)](https://open.spotify.com/track/1nO0fZt8fzqEcwl7GTIFp2) | [Benachi](https://open.spotify.com/artist/5EQ2AIGwonSlijrgX1L5fD), [kaberere](https://open.spotify.com/artist/6OpSgB1IGIOMtpkHJEOnF7) | [Tulia](https://open.spotify.com/album/0EOHUyjyF25kXcMo0CxcmE) | 3:36 |
-| 34 | [Praise Him](https://open.spotify.com/track/0Q4g7Rwa40qx134hPutVFx) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc), [Joel Lwaga](https://open.spotify.com/artist/1CGmb8fVUO9TGKBiFu6WTW) | [Praise Him](https://open.spotify.com/album/0gQuGIBnEH02dMRsj76gKZ) | 5:24 |
-| 35 | [Sweetie Sweetie](https://open.spotify.com/track/3mnMhG3NCpHuWixUJSZADP) | [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Sweetie Sweetie](https://open.spotify.com/album/1gp2BVV3amp3NTsJN59IOg) | 5:16 |
+| 34 | [Sweetie Sweetie](https://open.spotify.com/track/3mnMhG3NCpHuWixUJSZADP) | [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Sweetie Sweetie](https://open.spotify.com/album/1gp2BVV3amp3NTsJN59IOg) | 5:16 |
+| 35 | [Praise Him](https://open.spotify.com/track/0Q4g7Rwa40qx134hPutVFx) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc), [Joel Lwaga](https://open.spotify.com/artist/1CGmb8fVUO9TGKBiFu6WTW) | [Praise Him](https://open.spotify.com/album/0gQuGIBnEH02dMRsj76gKZ) | 5:24 |
 | 36 | [Huyu Ni Nani](https://open.spotify.com/track/0l39flJoMHffawcZES5NCS) | [St\. Joseph's Choir Kendu Bay Parish](https://open.spotify.com/artist/4bjImNCR2CnizpD0gGPmeA) | [Bwana Ni Ngome Yangu](https://open.spotify.com/album/1zT0yESxbYFAo3kwDd7QwF) | 5:46 |
 | 37 | [Mungu Ni Mungu Tu](https://open.spotify.com/track/0lNCtObfOXRHOYqPn0vr3C) | [Christopher Mwahangila](https://open.spotify.com/artist/7MxY8jHpDAllgtfbyg52Kt) | [Mungu Ni Mungu Tu](https://open.spotify.com/album/6VN94Rh765VubmbJqUgsHl) | 8:27 |
 | 38 | [Ipo Siku](https://open.spotify.com/track/3fFvTmzx1VcXY27OZ81FgH) | [Goodluck Gozbert](https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA) | [Ipo Siku](https://open.spotify.com/album/4XeVEyWo9UFsSGXfzuIu8C) | 5:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 | 49 | [Mtetezi Wangu](https://open.spotify.com/track/6vacqGQJFXankKL8FKmip3) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Unikumbuke](https://open.spotify.com/album/7lzVt24bz7uDqzgymkGayu) | 8:10 |
 | 50 | [Nikumbushe Wema Wako](https://open.spotify.com/track/62cnrFkQOy5jBuOoCBm5qT) | [Angel Benard](https://open.spotify.com/artist/7lfpPXqQTNddUIYXLDVbbD) | [Nikumbushe Wema Wako](https://open.spotify.com/album/5u0BBGqAaYEgN3Kkrk41AX) | 7:19 |
 
-Snapshot ID: `MCxhZDA2MjMyZTZiMjZlMGYxYTMyZWJlNTY2OWYyM2FiNjUxY2VhNTNl`
+Snapshot ID: `MCwxNjI0OWY1NmY3Yzk2NzlhZDc2MjYyMTI1YjhkZTY4ZmY4N2NmOTk0`

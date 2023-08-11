@@ -4,7 +4,7 @@
 
 > Instrumental covers of favourites played on ukulele.
 
-132 songs - 7 hr 38 min
+134 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,8 @@
 | [Rude](https://open.spotify.com/track/0VL4jLupGZHGv7RYTX6RSM) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Pleasant Uke](https://open.spotify.com/album/1HH6lGqg8eZH3im3JYRrZm) | 2:29 | 2022-05-20 | 2023-04-28 |
 | [Save Your Tears](https://open.spotify.com/track/5PilZ505kJWTzIMkbvWMGX) | [Thiago Ferna](https://open.spotify.com/artist/6DhYjMCO2gZhXIsLtY8Rqu) | [Save Your Tears](https://open.spotify.com/album/5ruPKHpJM3H75v4XiGKg9K) | 3:39 | 2023-01-27 |  |
 | [Señorita](https://open.spotify.com/track/6UtasvGN57nLSQURZzSMYh) | [Michelle Turtle](https://open.spotify.com/artist/4VkmY9OKeXpPeW0RmgbfBi) | [Señorita](https://open.spotify.com/album/2gZNANSVZxiDwPxI1AdAfK) | 2:41 | 2022-12-01 |  |
+| [Shallow](https://open.spotify.com/track/5IOPcHdIf7qq9OYcu6Hilx) | [Sarah Trapp](https://open.spotify.com/artist/0xaDA7p9ytShd7Sk49FPIs) | [Shallow](https://open.spotify.com/album/1w5zIIKL9Zwan57jhtlhcF) | 3:29 | 2023-08-10 |  |
+| [Shiny Happy People](https://open.spotify.com/track/19Q6RYkrArONtSksr7p2Xv) | [Liam O'Driscoll](https://open.spotify.com/artist/7djFTVrQrEuOZeP1yKGe1v) | [Shiny Happy People](https://open.spotify.com/album/2quXYmobmbwJqFq3PxWSBB) | 2:29 | 2023-08-10 |  |
 | [Shivers](https://open.spotify.com/track/0aWhxq7Ivc637X7xmjofaA) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Shivers](https://open.spotify.com/album/3FP08BXh4opzeqPPYPN7Tf) | 3:44 | 2022-12-01 |  |
 | [Snap](https://open.spotify.com/track/6pLMBG5fMo3rAUkjjW7CyR) | [Hannah Sugar](https://open.spotify.com/artist/1thgqqFzyPG6ZOqSPKAlRB) | [Until I Found You](https://open.spotify.com/album/5OcKOXmqT3D3LYhHPSsK03) | 3:17 | 2022-12-01 |  |
 | [So Good](https://open.spotify.com/track/2zdjbWBFZxKjzBywvWFcnR) | [Shelli Daniels](https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws) | [So Good](https://open.spotify.com/album/7ombR15MxV8cC7ZSrdu83X) | 3:23 | 2022-12-22 | 2023-04-28 |

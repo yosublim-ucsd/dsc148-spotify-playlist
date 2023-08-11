@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Meet the vocalists representing Korea! (Cover:\bSunwoojunga(\uc120\uc6b0\uc815\uc544)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Meet the vocalists representing Korea! (Cover:\bKwon Jin Ah(\uad8c\uc9c4\uc544)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "v o K a l",
   "tracks": [
     {
@@ -1180,6 +1180,24 @@
     {
       "album": {
         "name": "Eternal",
+        "url": "https://open.spotify.com/album/7pH1aRaBcogrfEOrAKsUZF"
+      },
+      "artists": [
+        {
+          "name": "Young K",
+          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208649,
+      "name": "come as you are",
+      "url": "https://open.spotify.com/track/1B8rGBG1v6y6hdvJmw4z0O"
+    },
+    {
+      "album": {
+        "name": "Eternal",
         "url": "https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3"
       },
       "artists": [
@@ -1633,6 +1651,24 @@
     },
     {
       "album": {
+        "name": "SUMMER HAZE",
+        "url": "https://open.spotify.com/album/5P8AgImZs8hByjM9us7deE"
+      },
+      "artists": [
+        {
+          "name": "HYNN",
+          "url": "https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171901,
+      "name": "EUROPA",
+      "url": "https://open.spotify.com/track/4CchQgiTaxjKL5n1oKeDsP"
+    },
+    {
+      "album": {
         "name": "Even if fate separates us",
         "url": "https://open.spotify.com/album/1aM0VqxuVamCdVAhbfiMVq"
       },
@@ -1810,7 +1846,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 240840,
       "name": "First Line",
       "url": "https://open.spotify.com/track/2jyX7hcIU3N4DY1n9EKIab"
@@ -2982,7 +3018,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 235306,
       "name": "I'm glad I waited",
       "url": "https://open.spotify.com/track/3pBE270KLKUjGo5aVF1ecd"
@@ -3126,7 +3162,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 234666,
       "name": "It is Rainy Day",
       "url": "https://open.spotify.com/track/6xhq4jRcL9ueAru7ErbyA5"
@@ -3743,6 +3779,24 @@
     },
     {
       "album": {
+        "name": "Love Me Love Me",
+        "url": "https://open.spotify.com/album/2rtrqdfMeYxBNxpxcUl3cY"
+      },
+      "artists": [
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206240,
+      "name": "Love Me Love Me",
+      "url": "https://open.spotify.com/track/6PDGLp3PVAVdwVeFRLYvS5"
+    },
+    {
+      "album": {
         "name": "LOVE PROCESS Act 3:Farewell(Woman's Story) - No More Love",
         "url": "https://open.spotify.com/album/5seo7nROqNTWa0l88SmDRn"
       },
@@ -3942,7 +3996,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 256859,
       "name": "Marry Me (My love X Yang Da Il)",
       "url": "https://open.spotify.com/track/6UrHnv2u6riHP1wSZdL7aP"
@@ -4740,7 +4794,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 230000,
       "name": "One Late Night In 1994",
       "url": "https://open.spotify.com/track/1bHEMyPGu9H0NGlS9Vxpsf"

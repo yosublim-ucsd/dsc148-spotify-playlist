@@ -2,9 +2,9 @@
 
 ### [The Pit](https://open.spotify.com/playlist/37i9dQZF1DWXXKBeJuKnWE)
 
-> The home for heavy rockers\. Cover: WARGASM \(UK\)
+> The home for heavy rockers\. Cover: Caskets
 
-207 songs - 12 hr 45 min
+210 songs - 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Back From The Dead](https://open.spotify.com/track/2kxp6iR7nCNGYTx0eNYp2C) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Back From the Dead](https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu) | 3:30 | 2023-07-25 |  |
 | [be very afraid](https://open.spotify.com/track/1nXWhLumXogqFeijfa1uJd) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 4:20 | 2022-11-10 | 2023-02-01 |
 | [Beguiled](https://open.spotify.com/track/6rBiMyaGB1ZJQnxb01FkPG) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Beguiled](https://open.spotify.com/album/582taizXGzfl1ALsX6Busl) | 3:58 | 2022-11-10 | 2023-05-12 |
-| [Believe](https://open.spotify.com/track/1XckAV94cXSzpKSRjFc6eY) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Believe](https://open.spotify.com/album/53NMyyTEnOAWWaFoZ9t9HE) | 4:11 | 2023-07-13 |  |
+| [Believe](https://open.spotify.com/track/1XckAV94cXSzpKSRjFc6eY) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Believe](https://open.spotify.com/album/53NMyyTEnOAWWaFoZ9t9HE) | 4:11 | 2023-07-13 | 2023-08-11 |
 | [Better Way Out](https://open.spotify.com/track/2OVvGwLJ9IYY9wxPzissxv) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Better Way Out](https://open.spotify.com/album/1i1rVDmckHqPKFtxDrHM8d) | 4:36 | 2023-07-06 | 2023-07-14 |
 | [Black Sheep](https://open.spotify.com/track/2izSnazOLEjr2N8ioPj2tQ) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [Black Sheep](https://open.spotify.com/album/7dOV7dlS4FDKXpWp4TdCoX) | 3:52 | 2023-07-25 |  |
 | [BLOODPUDDLE](https://open.spotify.com/track/4cbmaakH3pHNNBn4oYhxgO) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [BLOODPUDDLE](https://open.spotify.com/album/1ECcVLJb9ksKW15h4Slulo) | 1:54 | 2023-07-25 |  |
@@ -82,7 +82,7 @@
 | [Fuck You](https://open.spotify.com/track/7fGGZSUU5Uja2A8dvmS9l9) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Fuck You](https://open.spotify.com/album/2Sdh5caZ8hEFIbQGXY4p6e) | 2:57 | 2022-11-10 | 2023-02-10 |
 | [Funeral Derangements](https://open.spotify.com/track/1m2kn7VbKCD7jKaDq975SQ) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Welcome To Horrorwood: The Silver Scream 2](https://open.spotify.com/album/4PyOq7kavqglGk3cexcygx) | 3:44 | 2022-11-10 | 2023-07-26 |
 | [Game Over](https://open.spotify.com/track/5dSidrJ5XHdP1xb11xpV2z) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Life Is But a Dream…](https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa) | 3:46 | 2023-06-01 |  |
-| [Gila Monster](https://open.spotify.com/track/7zHiG2FFEpeGvBmJkgZzVv) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Gila Monster](https://open.spotify.com/album/7o29QKPMZsDZ64DDBrzQzN) | 4:35 | 2023-05-19 |  |
+| [Gila Monster](https://open.spotify.com/track/7zHiG2FFEpeGvBmJkgZzVv) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Gila Monster](https://open.spotify.com/album/7o29QKPMZsDZ64DDBrzQzN) | 4:35 | 2023-05-19 | 2023-08-11 |
 | [Gimme That Boom](https://open.spotify.com/track/4QbvKaOOsRXSUT0ySto5Ks) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Gimme That Boom](https://open.spotify.com/album/5t32hSmBus3r3Mw8Z64hxF) | 3:13 | 2022-11-10 | 2023-07-26 |
 | [God/Devil](https://open.spotify.com/track/0R1UIAnWQaaGLiX4oxzdzl) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Hope Of A Spark](https://open.spotify.com/album/5AAt0X7T9p81HEqIQUdzKp) | 2:55 | 2023-04-14 | 2023-05-27 |
 | [Gone](https://open.spotify.com/track/63dgFqper9Sv4cnWXouzHf) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Gone](https://open.spotify.com/album/2N5wjyb8XCGAIRlwqAg98S) | 3:43 | 2023-07-06 |  |
@@ -104,6 +104,7 @@
 | [If Darkness Had a Son](https://open.spotify.com/track/3i4Nwzze8zflIoKsuoeBPM) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 6:36 | 2023-03-23 | 2023-06-25 |
 | [If Darkness Had a Son](https://open.spotify.com/track/69HjtjyHuP8KJT7xBaUmtW) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [If Darkness Had a Son](https://open.spotify.com/album/07wqwU4JaQl7XTWwfiAobb) | 6:36 | 2023-03-03 | 2023-04-17 |
 | [In the shadow of your former self.](https://open.spotify.com/track/7icAw1EcEfXRpOxkhB3HZw) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [In the shadow of your former self.](https://open.spotify.com/album/2L3ASLYdsXsrombwNJVyAG) | 4:21 | 2023-07-25 |  |
+| [In The Silence](https://open.spotify.com/track/1klDKOUmMD566cwy91pqEO) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Reflections](https://open.spotify.com/album/3HmGULnPeH7ZhDkQlDibh3) | 3:32 | 2023-08-10 |  |
 | [IOU](https://open.spotify.com/track/3nqpRRpUhwfo6BqibVqeuj) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [IOU](https://open.spotify.com/album/2vNZBW15QXrMe4ohiuDjZV) | 4:27 | 2022-11-10 | 2023-01-18 |
 | [Is It Really You?](https://open.spotify.com/track/7CNsJpZ7AZjTF1PYemTcLj) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6), [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Is It Really You?](https://open.spotify.com/album/7x6eK1Vm38hTqhVSMrZH9K) | 4:39 | 2022-11-10 | 2023-02-18 |
 | [Is It Really You?](https://open.spotify.com/track/7kjcdiknoCUe0OeE3BIw9J) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6), [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Is It Really You?](https://open.spotify.com/album/30KxStn2hzuDWJyNqLa5N1) | 4:39 | 2023-03-23 | 2023-07-26 |
@@ -123,7 +124,7 @@
 | [METAL KINGDOM](https://open.spotify.com/track/5qL6RJj9Nj20DGAajzGAYi) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [METAL KINGDOM](https://open.spotify.com/album/10aTpSUuXqxbhPJdo4kEyE) | 5:51 | 2023-01-20 | 2023-03-27 |
 | [Mirror Mirror](https://open.spotify.com/track/38gysCdAsWQcOWWEC07Run) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 3:50 | 2023-03-23 |  |
 | [Mistakes](https://open.spotify.com/track/6Z54FF1uTQ4LeE6McKizwN) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [From Hell to Here](https://open.spotify.com/album/0fESCRLAS064Q9a5blaLQ6) | 3:14 | 2023-07-25 |  |
-| [mOmS bAsEmeNt](https://open.spotify.com/track/1UMSXPU4noFMHwvqxXJO8O) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [mOmS bAsEmeNt](https://open.spotify.com/album/7b6lTy2GbIbXLpouHj9aGk) | 2:41 | 2023-07-25 |  |
+| [mOmS bAsEmeNt](https://open.spotify.com/track/1UMSXPU4noFMHwvqxXJO8O) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [mOmS bAsEmeNt](https://open.spotify.com/album/7b6lTy2GbIbXLpouHj9aGk) | 2:41 | 2023-07-25 | 2023-08-11 |
 | [More Than Misery](https://open.spotify.com/track/3LzJLwxUIzeYWO4uFGA0rD) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK), [TELLE](https://open.spotify.com/artist/2ZLkrrjhoAzlDuxGZJSWB2) | [More Than Misery](https://open.spotify.com/album/4cRfSvpKfy82la7s16tDXB) | 3:41 | 2023-05-11 | 2023-07-26 |
 | [MYSTERY](https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:35 | 2022-11-10 | 2023-07-26 |
 | [Neurotic \(feat\. Lukas Rossi\)](https://open.spotify.com/track/6JfNf81zML3XVFXZbbtyZ8) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj), [Lukas Rossi](https://open.spotify.com/artist/419YiM0RHQExEtnMTMaIID) | [EXPLOSIONS](https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG) | 3:17 | 2022-11-10 | 2023-07-26 |
@@ -148,6 +149,7 @@
 | [Rainy Day](https://open.spotify.com/track/3AkCkuC8LuRFEnvyKBQUOg) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Welcome To Horrorwood: The Silver Scream 2](https://open.spotify.com/album/4PyOq7kavqglGk3cexcygx) | 3:01 | 2022-11-10 | 2023-07-26 |
 | [REAL SUPER DARK](https://open.spotify.com/track/2YGfjeZvYJyy1BQrbsLmGr) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:29 | 2023-03-23 | 2023-07-13 |
 | [REAL SUPER DARK](https://open.spotify.com/track/6nXtGWUzOGxfI7q5hUa6Jj) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:29 | 2023-02-03 | 2023-04-17 |
+| [RED](https://open.spotify.com/track/66Rl6HThnoHCRRVCUbslIG) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [RED](https://open.spotify.com/album/6jS6EMy8bdawl6dbBzag1X) | 3:54 | 2023-08-10 |  |
 | [Rotoscope](https://open.spotify.com/track/3TV6XEPjXQhbSneiEXRNEr) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rotoscope](https://open.spotify.com/album/0twOWaleSiQaUUSTFegpds) | 3:35 | 2022-11-10 | 2023-07-26 |
 | [Russian Roulette](https://open.spotify.com/track/7KIrDWJzJGKx1xlK0tOqiU) | [Liquid State](https://open.spotify.com/artist/5Bn0UxpJyKDg5mpcDOaS3p) | [Russian Roulette](https://open.spotify.com/album/5dSgvHcSr0RE9aXpWD2HZB) | 3:50 | 2023-07-25 |  |
 | [San Quentin](https://open.spotify.com/track/0nErfLIYBOb0DHE2jqAe6k) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [San Quentin](https://open.spotify.com/album/2oEamuLTW9IlUiDrZLAPMZ) | 3:31 | 2022-11-10 | 2023-07-26 |
@@ -204,6 +206,7 @@
 | [War](https://open.spotify.com/track/3jawKKlzEQ8KmCGVlIuJJS) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [War](https://open.spotify.com/album/3naAe4XjHbX8gqtKUIUdar) | 2:54 | 2023-01-20 | 2023-04-14 |
 | [Watch Me Burn](https://open.spotify.com/track/52HjwNVAoDmpawoYGYfG3p) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Watch Me Burn](https://open.spotify.com/album/7M6CVCNoLE0MU5gsmiVt3A) | 3:38 | 2023-03-17 | 2023-07-26 |
 | [Watcher In The Sky](https://open.spotify.com/track/5ZZfo37znoAbkxbrt5YvJD) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 5:48 | 2022-11-10 | 2023-07-26 |
+| [Welcome To The Show](https://open.spotify.com/track/4nzvHox9PXS9f09PnNdBLj) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Welcome To The Show](https://open.spotify.com/album/4B5NV5m12cfnBDnPdu0A2u) | 3:36 | 2023-08-10 |  |
 | [We’ll Be Back](https://open.spotify.com/track/1Ap9wotYS99H8R17VONySZ) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 4:29 | 2022-11-10 | 2023-07-26 |
 | [when we were young](https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [when we were young](https://open.spotify.com/album/2ZGOqvkbQFLEayRqXxGjc9) | 3:13 | 2022-11-10 | 2023-03-25 |
 | [Who Am I](https://open.spotify.com/track/2gDzbtMofzJlmaN5oGjI7x) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [Who Am I](https://open.spotify.com/album/112fCF19lmyd56p14czHBO) | 1:46 | 2023-07-25 |  |

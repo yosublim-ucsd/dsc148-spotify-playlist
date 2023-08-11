@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Oi nom\u00e1s ese cumbi\u00f3n! ",
-  "num_followers": 160382,
+  "num_followers": 160545,
   "original_name": "Cumbias Para Bailar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Nzk4ZjEzY2U2OTM1NmFlYzVkZTA4N2ZiMTUwZDRmNjkwZTkzY2Q1",
+  "snapshot_id": "MCwzMzAxNGFlMDc2NDRjYTc3YTVjY2NiYzg0ZjgyZWIyZmJhMzEzMzk5",
   "tracks": [
     {
       "added_at": "2022-08-02 23:23:30",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-08-02 23:23:30",
       "album": {
-        "name": "El Condor Legendario",
-        "url": "https://open.spotify.com/album/1JizA2c3lbWRkz7p0jZEeG"
-      },
-      "artists": [
-        {
-          "name": "Aniceto Molina",
-          "url": "https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S"
-        }
-      ],
-      "duration_ms": 266866,
-      "name": "El Diario De Un Borracho",
-      "url": "https://open.spotify.com/track/3A4awt6Y9DwHBRuFDoRX5S"
-    },
-    {
-      "added_at": "2022-08-02 23:23:30",
-      "album": {
         "name": "Felicidad",
         "url": "https://open.spotify.com/album/62sFaXABrQ6potGL10NAtl"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 197640,
       "name": "Felicidad",
       "url": "https://open.spotify.com/track/5BAbezIjIvHR4VOMECrIv9"
+    },
+    {
+      "added_at": "2022-08-02 23:23:30",
+      "album": {
+        "name": "El Condor Legendario",
+        "url": "https://open.spotify.com/album/1JizA2c3lbWRkz7p0jZEeG"
+      },
+      "artists": [
+        {
+          "name": "Aniceto Molina",
+          "url": "https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S"
+        }
+      ],
+      "duration_ms": 266866,
+      "name": "El Diario De Un Borracho",
+      "url": "https://open.spotify.com/track/3A4awt6Y9DwHBRuFDoRX5S"
     },
     {
       "added_at": "2022-08-02 23:23:30",
@@ -915,6 +915,22 @@
     {
       "added_at": "2022-08-02 23:23:30",
       "album": {
+        "name": "Super Grupo Colombia",
+        "url": "https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK"
+      },
+      "artists": [
+        {
+          "name": "Super Grupo Colombia",
+          "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
+        }
+      ],
+      "duration_ms": 252679,
+      "name": "Cumbia Del Chinito",
+      "url": "https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y"
+    },
+    {
+      "added_at": "2022-08-02 23:23:30",
+      "album": {
         "name": "Mal de Amores",
         "url": "https://open.spotify.com/album/5rd8XvZd7lmlRaON32NNQW"
       },
@@ -935,18 +951,18 @@
     {
       "added_at": "2022-08-02 23:23:30",
       "album": {
-        "name": "Super Grupo Colombia",
-        "url": "https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK"
+        "name": "Los Del Garrote",
+        "url": "https://open.spotify.com/album/4dlaQcldX1rZfJGxTj75KX"
       },
       "artists": [
         {
-          "name": "Super Grupo Colombia",
-          "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
+          "name": "Los Del Garrote",
+          "url": "https://open.spotify.com/artist/3Ee2idXHXSI5KHjrRelgOx"
         }
       ],
-      "duration_ms": 252679,
-      "name": "Cumbia Del Chinito",
-      "url": "https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y"
+      "duration_ms": 197786,
+      "name": "La Cumbia Del Garrote",
+      "url": "https://open.spotify.com/track/7vDcNALsOZtB6dEuQFLYBY"
     },
     {
       "added_at": "2022-08-02 23:23:30",
@@ -967,22 +983,6 @@
       "duration_ms": 352480,
       "name": "El Reo Ausente",
       "url": "https://open.spotify.com/track/3G1MeI4VeHNhDimzvY22V0"
-    },
-    {
-      "added_at": "2022-08-02 23:23:30",
-      "album": {
-        "name": "Los Del Garrote",
-        "url": "https://open.spotify.com/album/4dlaQcldX1rZfJGxTj75KX"
-      },
-      "artists": [
-        {
-          "name": "Los Del Garrote",
-          "url": "https://open.spotify.com/artist/3Ee2idXHXSI5KHjrRelgOx"
-        }
-      ],
-      "duration_ms": 197786,
-      "name": "La Cumbia Del Garrote",
-      "url": "https://open.spotify.com/track/7vDcNALsOZtB6dEuQFLYBY"
     },
     {
       "added_at": "2022-08-02 23:23:30",
@@ -1056,8 +1056,8 @@
       },
       "artists": [
         {
-          "name": "sonoradinamita",
-          "url": "https://open.spotify.com/artist/2wesOX1fzorPTtgcuZ0xv2"
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
         },
         {
           "name": "La Morocha",
@@ -1135,30 +1135,6 @@
       "duration_ms": 311386,
       "name": "Rumba Frenesi",
       "url": "https://open.spotify.com/track/0LaFg7YyQMaHkWyj497YLI"
-    },
-    {
-      "added_at": "2022-08-02 23:23:30",
-      "album": {
-        "name": "Greatest Cumbia Classics Of Colombia, Vol. 1",
-        "url": "https://open.spotify.com/album/53W9qG1q6xaKlUVuzkBNPV"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        },
-        {
-          "name": "Lucho Argain",
-          "url": "https://open.spotify.com/artist/69KQI0QMvoPN5OcpNgTC2b"
-        },
-        {
-          "name": "La India Meliyar\u00e1",
-          "url": "https://open.spotify.com/artist/0zBKolPOzGoV8uja8nnaUG"
-        }
-      ],
-      "duration_ms": 234706,
-      "name": "Mi Cucu",
-      "url": "https://open.spotify.com/track/2cUKBUN66IsL9lc8PdISQY"
     },
     {
       "added_at": "2022-08-02 23:23:30",
@@ -1247,18 +1223,42 @@
     {
       "added_at": "2022-08-02 23:23:30",
       "album": {
-        "name": "T\u00fa Eres La Raz\u00f3n (Electrocumbia Remake)",
-        "url": "https://open.spotify.com/album/2Ym9wv4J5XWjnkeWmG5r3w"
+        "name": "Greatest Cumbia Classics Of Colombia, Vol. 1",
+        "url": "https://open.spotify.com/album/53W9qG1q6xaKlUVuzkBNPV"
       },
       "artists": [
         {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        },
+        {
+          "name": "Lucho Argain",
+          "url": "https://open.spotify.com/artist/69KQI0QMvoPN5OcpNgTC2b"
+        },
+        {
+          "name": "La India Meliyar\u00e1",
+          "url": "https://open.spotify.com/artist/0zBKolPOzGoV8uja8nnaUG"
         }
       ],
-      "duration_ms": 195440,
-      "name": "T\u00fa Eres La Raz\u00f3n - Electrocumbia Remake",
-      "url": "https://open.spotify.com/track/3ZPIjIpVU6vh5gf3DvSV3a"
+      "duration_ms": 234706,
+      "name": "Mi Cucu",
+      "url": "https://open.spotify.com/track/2cUKBUN66IsL9lc8PdISQY"
+    },
+    {
+      "added_at": "2022-08-02 23:23:30",
+      "album": {
+        "name": "Locura De Amor",
+        "url": "https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Karo's",
+          "url": "https://open.spotify.com/artist/3wOf6DlTkRycQcnlDrTe2x"
+        }
+      ],
+      "duration_ms": 237080,
+      "name": "Amor Carnal",
+      "url": "https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW"
     },
     {
       "added_at": "2022-08-02 23:23:30",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2022-08-02 23:23:30",
       "album": {
-        "name": "Locura De Amor",
-        "url": "https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF"
+        "name": "T\u00fa Eres La Raz\u00f3n (Electrocumbia Remake)",
+        "url": "https://open.spotify.com/album/2Ym9wv4J5XWjnkeWmG5r3w"
       },
       "artists": [
         {
-          "name": "Grupo Karo's",
-          "url": "https://open.spotify.com/artist/3wOf6DlTkRycQcnlDrTe2x"
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
         }
       ],
-      "duration_ms": 237080,
-      "name": "Amor Carnal",
-      "url": "https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW"
+      "duration_ms": 195440,
+      "name": "T\u00fa Eres La Raz\u00f3n - Electrocumbia Remake",
+      "url": "https://open.spotify.com/track/3ZPIjIpVU6vh5gf3DvSV3a"
     },
     {
       "added_at": "2022-08-02 23:23:30",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2022-08-02 23:23:30",
       "album": {
-        "name": "Sus Mejores Exitos",
-        "url": "https://open.spotify.com/album/7wZn8Eko5bz1vSx1zYMPJD"
-      },
-      "artists": [
-        {
-          "name": "Grupo Saya",
-          "url": "https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP"
-        }
-      ],
-      "duration_ms": 195946,
-      "name": "Ca\u00f1ita Ca\u00f1averal",
-      "url": "https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd"
-    },
-    {
-      "added_at": "2022-08-02 23:23:30",
-      "album": {
         "name": "Muy Tropical y Bailable - 16 Exitos",
         "url": "https://open.spotify.com/album/4zqlca5cQmkCPhL0ZZr3P8"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 221440,
       "name": "La Colegiala",
       "url": "https://open.spotify.com/track/7rDIiNyDgqUb6WQOgskiiF"
+    },
+    {
+      "added_at": "2022-08-02 23:23:30",
+      "album": {
+        "name": "Sus Mejores Exitos",
+        "url": "https://open.spotify.com/album/7wZn8Eko5bz1vSx1zYMPJD"
+      },
+      "artists": [
+        {
+          "name": "Grupo Saya",
+          "url": "https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP"
+        }
+      ],
+      "duration_ms": 195946,
+      "name": "Ca\u00f1ita Ca\u00f1averal",
+      "url": "https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd"
     },
     {
       "added_at": "2022-08-02 23:23:30",
@@ -1460,8 +1460,8 @@
       },
       "artists": [
         {
-          "name": "sonoradinamita",
-          "url": "https://open.spotify.com/artist/2wesOX1fzorPTtgcuZ0xv2"
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
         },
         {
           "name": "Mariana Seoane",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-08-02 23:23:30",
       "album": {
-        "name": "El Disco de Oro para Equipos de Sonido, Vol. 2",
-        "url": "https://open.spotify.com/album/4S7gUk1Ch5OLjaskyj4F1v"
-      },
-      "artists": [
-        {
-          "name": "Rossy",
-          "url": "https://open.spotify.com/artist/5zH1mfgDhh4stcLYalyHxS"
-        }
-      ],
-      "duration_ms": 174278,
-      "name": "Carola",
-      "url": "https://open.spotify.com/track/3WdRFcWRXhChWbVpyUCxuF"
-    },
-    {
-      "added_at": "2022-08-02 23:23:30",
-      "album": {
         "name": "Antologia",
         "url": "https://open.spotify.com/album/22gKrOfQu54UShnskCA7Fr"
       },
@@ -1671,6 +1655,26 @@
       "duration_ms": 236906,
       "name": "Vuela Mariposa",
       "url": "https://open.spotify.com/track/0Bug1bbPyzpXmS0o0X878J"
+    },
+    {
+      "added_at": "2022-08-02 23:23:30",
+      "album": {
+        "name": "Con Nuestros Amigos",
+        "url": "https://open.spotify.com/album/2E1bI25YNoU7UaD2PDyGOK"
+      },
+      "artists": [
+        {
+          "name": "Campeche Show",
+          "url": "https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh"
+        },
+        {
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+        }
+      ],
+      "duration_ms": 192386,
+      "name": "El Santo Del Amor",
+      "url": "https://open.spotify.com/track/1ypgaZINEPR74L2c5W3h0A"
     }
   ],
   "unique_name": "Cumbias Para Bailar",

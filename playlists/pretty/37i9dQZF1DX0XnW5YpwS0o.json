@@ -1,12 +1,12 @@
 {
   "description": "2016 highlights from the home of indie music.",
-  "num_followers": 77039,
+  "num_followers": 77110,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjQ0ZjAzYTFjMTVkYWVhY2Q4YmU3MWY5Yjk2MDQwNDYzYTk4ODkx",
+  "snapshot_id": "MCxhNTg5YTk2MjQ2ZGJiOTcxNmQ0ZDhlNjQ5NzE5YmIyNjI4ZmRkOGQ5",
   "tracks": [
     {
       "added_at": "2021-09-22 14:36:46",
@@ -623,18 +623,18 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "California",
-        "url": "https://open.spotify.com/album/4rX32NbzVfD94VvckCyNjc"
+        "name": "Citizen of Glass",
+        "url": "https://open.spotify.com/album/78BjMfLH8YUXM6hbodHKmA"
       },
       "artists": [
         {
-          "name": "The Lagoons",
-          "url": "https://open.spotify.com/artist/3oK9o2DLbk1VEda7KOMotd"
+          "name": "Agnes Obel",
+          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
         }
       ],
-      "duration_ms": 261773,
-      "name": "California",
-      "url": "https://open.spotify.com/track/35QAUfIbfIXT3p3cWhaKxZ"
+      "duration_ms": 235988,
+      "name": "Familiar",
+      "url": "https://open.spotify.com/track/2EWnKuspetOzgfBtmaNZvJ"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -655,34 +655,18 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Citizen of Glass",
-        "url": "https://open.spotify.com/album/78BjMfLH8YUXM6hbodHKmA"
+        "name": "California",
+        "url": "https://open.spotify.com/album/4rX32NbzVfD94VvckCyNjc"
       },
       "artists": [
         {
-          "name": "Agnes Obel",
-          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
+          "name": "The Lagoons",
+          "url": "https://open.spotify.com/artist/3oK9o2DLbk1VEda7KOMotd"
         }
       ],
-      "duration_ms": 235988,
-      "name": "Familiar",
-      "url": "https://open.spotify.com/track/2EWnKuspetOzgfBtmaNZvJ"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
-        "name": "Bcos U Will Never B Free",
-        "url": "https://open.spotify.com/album/2PdLUS263cFyd7efyWH5B8"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "A Song About Being Sad",
-      "url": "https://open.spotify.com/track/1phSI7mJzqlu2HE6gIwu7I"
+      "duration_ms": 261773,
+      "name": "California",
+      "url": "https://open.spotify.com/track/35QAUfIbfIXT3p3cWhaKxZ"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -699,6 +683,22 @@
       "duration_ms": 283463,
       "name": "True Love Waits",
       "url": "https://open.spotify.com/track/07XaOyTS5hyaWiUK1Bc3bR"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "Bcos U Will Never B Free",
+        "url": "https://open.spotify.com/album/2PdLUS263cFyd7efyWH5B8"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "A Song About Being Sad",
+      "url": "https://open.spotify.com/track/1phSI7mJzqlu2HE6gIwu7I"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -967,6 +967,22 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
+        "name": "saintmotelevision",
+        "url": "https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs"
+      },
+      "artists": [
+        {
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+        }
+      ],
+      "duration_ms": 203333,
+      "name": "For Elise",
+      "url": "https://open.spotify.com/track/6i40XRqEwHAnSxwZWasMRp"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
         "name": "Someone To Stay",
         "url": "https://open.spotify.com/album/0JT94KA15duapEYHVQkq1l"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 243509,
       "name": "Season 2 Episode 3",
       "url": "https://open.spotify.com/track/4vcoNCrTtunmJ9q8srpVly"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
-        "name": "saintmotelevision",
-        "url": "https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs"
-      },
-      "artists": [
-        {
-          "name": "Saint Motel",
-          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "For Elise",
-      "url": "https://open.spotify.com/track/6i40XRqEwHAnSxwZWasMRp"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "The Ride",
-        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
-      },
-      "artists": [
-        {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
-        }
-      ],
-      "duration_ms": 261560,
-      "name": "Soundcheck",
-      "url": "https://open.spotify.com/track/60W7Co2AoP5VVG5Gwu6p5P"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "saintmotelevision",
         "url": "https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 187893,
       "name": "Move",
       "url": "https://open.spotify.com/track/4vuJuTLFomqItDrn482nzV"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "The Ride",
+        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
+      },
+      "artists": [
+        {
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+        }
+      ],
+      "duration_ms": 261560,
+      "name": "Soundcheck",
+      "url": "https://open.spotify.com/track/60W7Co2AoP5VVG5Gwu6p5P"
     },
     {
       "added_at": "2021-09-22 14:36:46",

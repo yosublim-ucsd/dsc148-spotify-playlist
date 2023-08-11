@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 
 > The hottest songs you need to listen to right now\. Cover: Lauv
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,342,483 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,342,773 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 | 49 | [Barbie Dreams \(feat\. Kaliii\) \[From Barbie The Album\]](https://open.spotify.com/track/7njDhlprmHJ1I9pM0rxMON) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Barbie Dreams \(feat\. Kaliii\) \[From Barbie The Album\]](https://open.spotify.com/album/5x9fQvlmhZqWoifJs9dVVL) | 2:29 |
 | 50 | [Forever & Again \(From Barbie The Album\)](https://open.spotify.com/track/6Ky8ROf2VWY5vwoGfMet7x) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Forever & Again \(From Barbie The Album\)](https://open.spotify.com/album/0PHUzNM9vbkW3EMUiKOxo7) | 2:19 |
 
-Snapshot ID: `MCw1YzBiOWRkNTI1Yzk1YTQ2NjYyMWZiNmYzNGQ2MDc3OTg0ZWMwNjQx`
+Snapshot ID: `MCxlZGJiYTE3NmUwZmQ0MDI2YzM2ODNkZWMwNTAwMWQ0YTJkNTVhNTll`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 
 > Focus the mind with these calming beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,602 likes - 293 songs - 11 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,809 likes - 293 songs - 11 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 21 | [Persona](https://open.spotify.com/track/3FFuTbrQPsRS0D4eICmroy) | [Jan Preacher](https://open.spotify.com/artist/4VWIKZWMxqkSHTkKfXkYdk) | [Persona](https://open.spotify.com/album/6Ye5LAmvInQI5qWwKhv5Dv) | 2:00 |
 | 22 | [Pensamientos](https://open.spotify.com/track/543bYxQoIihCKDh6ILzQvc) | [B dom](https://open.spotify.com/artist/2nujsN5GOUO3lhuVJF00N5), [Don Raimundo](https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043) | [Pensamientos](https://open.spotify.com/album/6prPy3hzJOGyxB4r3x3xLB) | 2:37 |
 | 23 | [Less](https://open.spotify.com/track/07E3s1SyV6mtKniOFHla0D) | [Jokujekku](https://open.spotify.com/artist/0L1eY5MVRiGxxfMa77yy3n), [vnpr](https://open.spotify.com/artist/6tBMkZPiNcKvalvDofY4F4) | [Less](https://open.spotify.com/album/717cknCRo4fXFaBMTd6XYV) | 1:53 |
-| 24 | [to float](https://open.spotify.com/track/0mlKE6Ye4DDsmxsraCexcM) | [Gramercy](https://open.spotify.com/artist/23QXvk7uAn0oRrURb1YMQG) | [to float](https://open.spotify.com/album/6r0Gj5Vvbk2S7zyk5E9ZWz) | 2:33 |
+| 24 | [to float](https://open.spotify.com/track/0mlKE6Ye4DDsmxsraCexcM) | [Gramercy](https://open.spotify.com/artist/4OT0brXyp1UK31SrzEzJtw) | [to float](https://open.spotify.com/album/6r0Gj5Vvbk2S7zyk5E9ZWz) | 2:33 |
 | 25 | [three years have passed \(I need to find myself again\)](https://open.spotify.com/track/67Y7dg43tFNKnt85rH7jbj) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [three years have passed \(I need to find myself again\)](https://open.spotify.com/album/3C29DTsiM1g8JbQX1IRR1D) | 2:56 |
 | 26 | [dreamwave](https://open.spotify.com/track/3xCPcijGi5qeVMawkASxyb) | [rippie](https://open.spotify.com/artist/0q6Ld7B12mIn5K0MbMVaGB) | [dreamwave](https://open.spotify.com/album/3AjOIbxehUBjy2HTyGi9az) | 2:43 |
 | 27 | [Watching From Afar](https://open.spotify.com/track/6vTlufIXRYYdEVMFWNFErG) | [Exxecs](https://open.spotify.com/artist/5mE0QIp3dX5LWAgqKfm2RG) | [Watching From Afar](https://open.spotify.com/album/73aiocjxsWBKec0l3UQVi9) | 2:18 |
@@ -302,4 +302,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 292 | [Port Evenings](https://open.spotify.com/track/0tPjix5HfFWwKlJJ69QnE3) | [Early Garden](https://open.spotify.com/artist/6UFQmSPDWaWReDLcCrPyNL) | [Port Evenings](https://open.spotify.com/album/1UuJTx8Tv4udt0IVrVidgz) | 2:29 |
 | 293 | [A Rainy Tuesday In July](https://open.spotify.com/track/6Pc9GxMePOMF5ROGrGOpgb) | [Sihu](https://open.spotify.com/artist/0IDfPC86tctwQaHkc9tVfX) | [The Way It Was](https://open.spotify.com/album/1MuvFMh0EKewDWrYHbNT8s) | 1:42 |
 
-Snapshot ID: `MCwwMjhkNTc3NDUwZWY3OTNkYmU4YzhkY2YxNzJlNDQ4NTJhNjM2NDRm`
+Snapshot ID: `MCwwMDQwNGYzYzNlOWU3MjE0MjEyMzE4OGI1ODg5ZDIyMTgzZmM5NzQw`

@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 34356,
+  "num_followers": 34385,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzIwZDdiYTE4NDBlMDBhZTlmN2EyMDBhMzk2YjQxYzNkZTgyYjVh",
+  "snapshot_id": "MCw0NWQxMTlhZDI2ZTQ4YjE1MzZiNWMwNGY1NjE3MDBjZGE0YmRhNGMx",
   "tracks": [
     {
       "added_at": "2023-07-27 22:01:00",
@@ -499,26 +499,6 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/30YcBQt0C4lqcAOFXpBYJG"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 239021,
-      "name": "Lost & Found",
-      "url": "https://open.spotify.com/track/4e5WwKKeIjWiwYEd39exKW"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
         "name": "Summer Jams",
         "url": "https://open.spotify.com/album/3joHydRaKKBO8Z6HRq3asQ"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 157804,
       "name": "Break Up",
       "url": "https://open.spotify.com/track/6oCdAXZVWCaGfHlhRidpAM"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/30YcBQt0C4lqcAOFXpBYJG"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 239021,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/4e5WwKKeIjWiwYEd39exKW"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
+        "name": "The Sea",
+        "url": "https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "duration_ms": 190720,
+      "name": "The Sea",
+      "url": "https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
         "name": "The Boys Of Summer",
         "url": "https://open.spotify.com/album/31XBvtJJ3fQkQUrRukoq1E"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 137142,
       "name": "The Boys Of Summer",
       "url": "https://open.spotify.com/track/5oeG2dP6Qda3ueQEllB7pW"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
-        "name": "The Sea",
-        "url": "https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        }
-      ],
-      "duration_ms": 190720,
-      "name": "The Sea",
-      "url": "https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Rewind",
-        "url": "https://open.spotify.com/album/3252XIsm2QRB92Pe4UlPrp"
-      },
-      "artists": [
-        {
-          "name": "Nora Van Elken",
-          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
-        },
-        {
-          "name": "Jay Mason",
-          "url": "https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob"
-        }
-      ],
-      "duration_ms": 161463,
-      "name": "Rewind",
-      "url": "https://open.spotify.com/track/3UPFrg3idbxRnMHx7zhvlA"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/0hPymjd6bx5kr8UQkRNAQZ"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 189421,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/0Zy6JoXzMdjEkLI48x3Fuy"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/3252XIsm2QRB92Pe4UlPrp"
+      },
+      "artists": [
+        {
+          "name": "Nora Van Elken",
+          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
+        },
+        {
+          "name": "Jay Mason",
+          "url": "https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob"
+        }
+      ],
+      "duration_ms": 161463,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/3UPFrg3idbxRnMHx7zhvlA"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Carefree",
-        "url": "https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT"
-      },
-      "artists": [
-        {
-          "name": "Cogitation",
-          "url": "https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq"
-        }
-      ],
-      "duration_ms": 171944,
-      "name": "Carefree",
-      "url": "https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
         "name": "See You On The Other Side",
         "url": "https://open.spotify.com/album/1epzNdkMhr8ERPKnYyUcqG"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 241061,
       "name": "See You On The Other Side",
       "url": "https://open.spotify.com/track/1G4bK9Z8JtkXah973WlAGS"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "Carefree",
+        "url": "https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT"
+      },
+      "artists": [
+        {
+          "name": "Cogitation",
+          "url": "https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq"
+        }
+      ],
+      "duration_ms": 171944,
+      "name": "Carefree",
+      "url": "https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH"
     },
     {
       "added_at": "2023-07-27 22:01:00",

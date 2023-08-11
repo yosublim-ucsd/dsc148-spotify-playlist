@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9X4z5q6Ut6O.md) - [plain]
 
 > Caminando de la mano..\. eres mi razón de ser.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,479 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,516 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9X4z5q6Ut6O.md) - [plain]
 | 27 | [Mi Bello Ángel](https://open.spotify.com/track/0DKoET2reNpTGpQMS0VXI0) | [Los Primos MX](https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc) | [Amor Brutal](https://open.spotify.com/album/45e9grFYy0DiOG5rIpBpIe) | 2:45 |
 | 28 | [Entre Beso Y Beso](https://open.spotify.com/track/7uL1ZsdxI8l4sgEsgCmTlG) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Calidad Y Cantidad](https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl) | 3:02 |
 | 29 | [Broche de Oro](https://open.spotify.com/track/5bcrq8q2zR0uxxxsUI4Jjf) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [La Banda Grande de la Sultana del Norte](https://open.spotify.com/album/4KCzCPSaveAesQCXJ9u9QZ) | 3:36 |
-| 30 | [Te Quiero Así](https://open.spotify.com/track/7cfpUwXVmVNwi0e0lKkII3) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Vencedor](https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe) | 2:51 |
-| 31 | [Mañana Voy A Conquistarla](https://open.spotify.com/track/5GFb9XV4WnIQZ3H6dr9lbd) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Primer Ministro](https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC) | 2:25 |
-| 32 | [Si Nos Dejan \- En Vivo](https://open.spotify.com/track/7nAvryV9PVCt9PQGPx7I0z) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [El Concierto](https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI) | 2:32 |
+| 30 | [Si Nos Dejan \- En Vivo](https://open.spotify.com/track/7nAvryV9PVCt9PQGPx7I0z) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [El Concierto](https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI) | 2:32 |
+| 31 | [Te Quiero Así](https://open.spotify.com/track/7cfpUwXVmVNwi0e0lKkII3) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Vencedor](https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe) | 2:51 |
+| 32 | [Mañana Voy A Conquistarla](https://open.spotify.com/track/5GFb9XV4WnIQZ3H6dr9lbd) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Primer Ministro](https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC) | 2:25 |
 | 33 | [Nadie Como Tú](https://open.spotify.com/track/0cyP9Zil4WvqycKDRynmcP) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [La Barda Me Volé](https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh) | 3:35 |
 | 34 | [Bonita](https://open.spotify.com/track/5TdIP1VCcWF1CRw810RRqc) | [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI) | [Bonita](https://open.spotify.com/album/263Byb9kFZxoZMcmPEbKca) | 3:21 |
 | 35 | [El Mundo a Tus Pies](https://open.spotify.com/track/4MDLvDUSbL6TEtc12CxNyp) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Mundo a Tus Pies](https://open.spotify.com/album/1l46GFEU94JAnUZfFIcifM) | 2:56 |
@@ -66,10 +66,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9X4z5q6Ut6O.md) - [plain]
 | 56 | [El Amor Soñado](https://open.spotify.com/track/6Yd0OVYMrixawNof73Q3pC) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Amor Soñado](https://open.spotify.com/album/0CJMtndiL2Wx2xVs3Q0rDO) | 3:02 |
 | 57 | [Mi Complemento](https://open.spotify.com/track/0IqLBh5PvFbxGBOE98D730) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Mi Complemento](https://open.spotify.com/album/7JKpf35ZaaKj3WHpV7oEsH) | 3:21 |
 | 58 | [Tuyo y Mío](https://open.spotify.com/track/4msyEItsAavVb5pZYCuz4n) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 3:20 |
-| 59 | [Quédate Conmigo](https://open.spotify.com/track/1BjQB4vJPolq7ctCnUC59Z) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:13 |
-| 60 | [Mi Meta Contigo](https://open.spotify.com/track/5DSreXbE3u1VUtVeSiqlnn) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [En Vida](https://open.spotify.com/album/4ERCLcA2hl98lbwkOeqcYz) | 3:08 |
-| 61 | [Voy a Amarte](https://open.spotify.com/track/5SP2ca8eU4WFK2LLdVQvmx) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Lo Sé](https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp) | 2:23 |
-| 62 | [Voy a Conquistarte](https://open.spotify.com/track/1NRL1xr9JCqu5ITWURgfk6) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Voy a Conquistarte](https://open.spotify.com/album/2VHsO0GHeMDDemIeaEg9dZ) | 2:55 |
+| 59 | [Mi Meta Contigo](https://open.spotify.com/track/5DSreXbE3u1VUtVeSiqlnn) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [En Vida](https://open.spotify.com/album/4ERCLcA2hl98lbwkOeqcYz) | 3:08 |
+| 60 | [Quédate Conmigo](https://open.spotify.com/track/1BjQB4vJPolq7ctCnUC59Z) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:13 |
+| 61 | [Voy a Conquistarte](https://open.spotify.com/track/1NRL1xr9JCqu5ITWURgfk6) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Voy a Conquistarte](https://open.spotify.com/album/2VHsO0GHeMDDemIeaEg9dZ) | 2:55 |
+| 62 | [Voy a Amarte](https://open.spotify.com/track/5SP2ca8eU4WFK2LLdVQvmx) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Lo Sé](https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp) | 2:23 |
 | 63 | [Eres](https://open.spotify.com/track/6Syi9hj45fiEW2UtYIZbJ9) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Me Dejé Llevar](https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv) | 3:12 |
 | 64 | [Me Está Gustando](https://open.spotify.com/track/1PPswVdqYYvfBIk5MdB4Lo) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Me Está Gustando](https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu) | 3:00 |
 | 65 | [Y Cambió Mi Suerte](https://open.spotify.com/track/6O66RxXRZOfQSpgLEo65GO) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Y Cambió Mi Suerte](https://open.spotify.com/album/3CQHB0ViD8q0O385StFTq2) | 3:05 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9X4z5q6Ut6O.md) - [plain]
 | 74 | [La Magia de Tus Ojos](https://open.spotify.com/track/16DU79T2PdFSdGf0Z59rr5) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Caminando](https://open.spotify.com/album/7gKR2yAqsDQoeCRGKKrLQl) | 2:49 |
 | 75 | [Me Interesas](https://open.spotify.com/track/5LsTMta9l87n8Z4zpBV2xL) | [Noel Torres](https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG) | [La Balanza](https://open.spotify.com/album/27zodohsIeaDJaZ7lpSHab) | 2:56 |
 
-Snapshot ID: `MCxlZTAxNWRlODQ5ZmYwN2ZjODEyYjBkZDgxYjBkYjlmMWYzNTgwYjU2`
+Snapshot ID: `MCxmNWFlZDI3ZmE0OTg4YTRlMjFkZjY2ZjYwZjk3NTNkMmUyMzM4Mjdm`

@@ -921,6 +921,28 @@
     },
     {
       "album": {
+        "name": "Fikyiri Fikyiri",
+        "url": "https://open.spotify.com/album/3fOC2lNZ0h3mApUD3ZwUiK"
+      },
+      "artists": [
+        {
+          "name": "Richmiller",
+          "url": "https://open.spotify.com/artist/5d1wHzwYfeFjOvUZLSQDDA"
+        },
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160546,
+      "name": "Fikyiri Fikyiri",
+      "url": "https://open.spotify.com/track/4nUvkgJxD0UZin5tDUvjlG"
+    },
+    {
+      "album": {
         "name": "Fire (Remix)",
         "url": "https://open.spotify.com/album/3rex4m0MhEg1FzcUPcyT0K"
       },
@@ -1392,6 +1414,28 @@
       "duration_ms": 226162,
       "name": "K\u0254\u0254",
       "url": "https://open.spotify.com/track/5XCBMETHAG2klPDEcUP4Jy"
+    },
+    {
+      "album": {
+        "name": "Party In The Jungle",
+        "url": "https://open.spotify.com/album/2YLTD3ctvprBZqF3nBspik"
+      },
+      "artists": [
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        },
+        {
+          "name": "Skyface SDW",
+          "url": "https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155204,
+      "name": "Lavida Loca",
+      "url": "https://open.spotify.com/track/6OOUQ6PiHVK5M63KEfpXUg"
     },
     {
       "album": {
@@ -1880,7 +1924,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 145655,
       "name": "Obra (feat. Roiii)",
       "url": "https://open.spotify.com/track/6nbnJY7as2a7I3kDKNQojM"
@@ -2094,7 +2138,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 216816,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/3cWvkCD9isTVUZ72ETXWyO"
@@ -2238,7 +2282,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 137142,
       "name": "Senza Me",
       "url": "https://open.spotify.com/track/3okTuqX0Kly3X0JUPXh3gb"
@@ -2432,6 +2476,28 @@
       "duration_ms": 123839,
       "name": "Sweet",
       "url": "https://open.spotify.com/track/15ePvDHYnntIuwzXIbZ2tz"
+    },
+    {
+      "album": {
+        "name": "Party In The Jungle",
+        "url": "https://open.spotify.com/album/2YLTD3ctvprBZqF3nBspik"
+      },
+      "artists": [
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        },
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135625,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/1wZfdwMq8dgacs2CF1mT7x"
     },
     {
       "album": {

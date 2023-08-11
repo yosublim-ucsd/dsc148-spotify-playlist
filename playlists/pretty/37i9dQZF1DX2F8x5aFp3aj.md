@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2F8x5aFp3aj.md) - [plain]
 
 > Revive aquellos tiempos de new wave, post\-punk y sentimientos decadentes\. Foto: The Cure
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,341 likes - 75 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,463 likes - 75 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2F8x5aFp3aj.md) - [plain]
 | 52 | [Always Something There to Remind Me \- 2018 Remaster](https://open.spotify.com/track/3yWAyRHfclztY1TzF2gAUD) | [Naked Eyes](https://open.spotify.com/artist/3C6chBmZ9wzisBhoh8G2nK) | [Naked Eyes](https://open.spotify.com/album/7yxf90I32wPEXr7hLp3CKR) | 3:39 |
 | 53 | [Under the Milky Way](https://open.spotify.com/track/1RCtHLyq1xIbgGMrYRrKJ2) | [The Church](https://open.spotify.com/artist/2ZfogSsOWP4mVfEqfpLXCt) | [Starfish](https://open.spotify.com/album/3gz1CZk5wFg2inBuUWDa8x) | 4:57 |
 | 54 | [Sara](https://open.spotify.com/track/0q1exbzIDRxqJ6VUKH3seg) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 6:22 |
-| 55 | [In Between Days \- 2006 Remaster](https://open.spotify.com/track/07CyrZF9eVd02zzIse7tZA) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door \(Deluxed Edition\)](https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk) | 2:57 |
-| 56 | [Sowing The Seeds Of Love](https://open.spotify.com/track/62vx6uOYO7PrqKqKTKg9RY) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Seeds Of Love](https://open.spotify.com/album/4M0DNIYXbpCdKnVV4LoD9X) | 6:19 |
+| 55 | [Sowing The Seeds Of Love](https://open.spotify.com/track/62vx6uOYO7PrqKqKTKg9RY) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Seeds Of Love](https://open.spotify.com/album/4M0DNIYXbpCdKnVV4LoD9X) | 6:19 |
+| 56 | [In Between Days \- 2006 Remaster](https://open.spotify.com/track/07CyrZF9eVd02zzIse7tZA) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door \(Deluxed Edition\)](https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk) | 2:57 |
 | 57 | [Sunglasses At Night](https://open.spotify.com/track/1QbQL5m30YNvukitIqAnFG) | [Corey Hart](https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0) | [The Singles](https://open.spotify.com/album/5BDE3Z6clvwbPoWWwiSyGp) | 5:20 |
 | 58 | [Where Eagles Dare](https://open.spotify.com/track/5LgiqEgpK54OfXC6947wbU) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey), [Glenn Danzig](https://open.spotify.com/artist/71OjDxLFjWGQFpzU1VpN5d) | [Collection](https://open.spotify.com/album/4pEcCqGx1RFaXWJD0mrG10) | 2:08 |
 | 59 | [New Sensation](https://open.spotify.com/track/2bxY1baYlyXNzmjOkFvqId) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick](https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX) | 3:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2F8x5aFp3aj.md) - [plain]
 | 74 | [Eighties \- 2007 Digital Remaster](https://open.spotify.com/track/21T9lWigjSIMg9uD6ZfRnQ) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Night Time](https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm) | 3:59 |
 | 75 | [Just Around the Corner](https://open.spotify.com/track/0WujVnyLeCEOoPpdV2wOj6) | [Cock Robin](https://open.spotify.com/artist/1MOoTIFOvJ60ATvyRXPPXg) | [After Here Through Midland \(Expanded Edition\)](https://open.spotify.com/album/5pXGk4hepNTME887MLGXmG) | 4:16 |
 
-Snapshot ID: `MCw4OWFiZDRhYTYyODhhYmJlNDlkMGM0MzE2YWUyYTM0ZGJkNmE5YzY3`
+Snapshot ID: `MCxhNDc1NDJlYTY0Y2M0ZjgzNGExMjI4NDNjNzM4NjdlODVmNzNjOTM5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUGhrXBsyMVJ.md) - [plain]
 
 > Unforgettable love songs from the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,972 likes - 54 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,129 likes - 54 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUGhrXBsyMVJ.md) - [plain]
 | 14 | [When I Fall In Love](https://open.spotify.com/track/6s6h2XK7Nl8lEcTzr7ezeB) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Love Is The Thing](https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps) | 3:10 |
 | 15 | [I Can't Stop Loving You](https://open.spotify.com/track/79nJj5dMyTsUzKvN5jUXsJ) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Modern Sounds in Country and Western Music, Vols 1 & 2](https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF) | 4:16 |
 | 16 | [Put Your Head on My Shoulder](https://open.spotify.com/track/7eqNATKM78MkWP6aHGXHEV) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Sings His Favorites](https://open.spotify.com/album/68NffwvgGGTB3aDqkbvztJ) | 2:35 |
-| 17 | [Let It Be Me](https://open.spotify.com/track/0Tjdbd83LEAWrA0atsXMDJ) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [Best Of The Everly Brothers \- Rare Solo Classics](https://open.spotify.com/album/4rnq9VLTICIlomeKZ1N3mB) | 2:26 |
-| 18 | [Earth Angel \(Will You Be Mine\)](https://open.spotify.com/track/11XR0tRT4g5ov4u8M92wbF) | [The Penguins](https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR) | [The Best Of The Penguins](https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox) | 2:59 |
+| 17 | [Earth Angel \(Will You Be Mine\)](https://open.spotify.com/track/11XR0tRT4g5ov4u8M92wbF) | [The Penguins](https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR) | [The Best Of The Penguins](https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox) | 2:59 |
+| 18 | [Let It Be Me](https://open.spotify.com/track/0Tjdbd83LEAWrA0atsXMDJ) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [Best Of The Everly Brothers \- Rare Solo Classics](https://open.spotify.com/album/4rnq9VLTICIlomeKZ1N3mB) | 2:26 |
 | 19 | [True Love Ways](https://open.spotify.com/track/2Aq3BiLhITGHe6YSzkzOvi) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [The Definitive Collection](https://open.spotify.com/album/1tTTDe47X0rTO4q7RidIan) | 2:48 |
 | 20 | [It's Always You \- Vocal Version](https://open.spotify.com/track/06UkYE0SZ3Y8zGRFOuWGAe) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 3:35 |
 | 21 | [Sh\-Boom](https://open.spotify.com/track/7G2jAmiYUDZKyk7npVrgX8) | [The Crew Cuts](https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv) | [The Best Of The Crew Cuts](https://open.spotify.com/album/7dQg87XegvtSinDdZ1p0VP) | 2:48 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUGhrXBsyMVJ.md) - [plain]
 | 53 | [The Story of My Life \- Remastered](https://open.spotify.com/track/63EGslqVxh4qwvqGMl3vMA) | [michael holliday](https://open.spotify.com/artist/0dl2GgafJKRSnIjhjtxhAW) | [Anthology: The Deluxe Collection \(Remastered\)](https://open.spotify.com/album/6seqT2pCoa0JcgvVvss5z2) | 2:15 |
 | 54 | [Witchcraft](https://open.spotify.com/track/3BTsv0FthgmDwyKlYShwJF) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Frank Sinatra: The Complete Capitol Singles Collection](https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB) | 2:53 |
 
-Snapshot ID: `MCxhMWNjOTgxYTcyNTkwMjY3MjU4MGRjZTE1ODJiYTBhN2UxNTUwZWMy`
+Snapshot ID: `MCw3YzZkYjM4OWI3NGFjYzVlNmY2YjY1ZjE2ZDVhNGY0ZjU5MjJlMDg5`

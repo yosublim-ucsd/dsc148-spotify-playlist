@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MAQN3OnFEl.md) - [plain]
 
 > that's hot
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,184 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,621 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MAQN3OnFEl.md) - [plain]
 | 48 | [Since U Been Gone](https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:08 |
 | 49 | [No Air \(feat\. Chris Brown\)](https://open.spotify.com/track/1jUA4rb6ZCv4gby4YU53xq) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Jordin Sparks](https://open.spotify.com/album/6JCNOvp9UeMrFuXwNW0JW6) | 4:24 |
 | 50 | [Get the Party Started](https://open.spotify.com/track/02jcEwywffn3Tsb48fXmlW) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [M!ssundaztood \(Expanded Edition\)](https://open.spotify.com/album/57wJKO7qrPw56iOEKhTmg2) | 3:12 |
-| 51 | [Pocketful of Sunshine](https://open.spotify.com/track/1uigwk5hNV84zRd5YQQRTk) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Pocketful Of Sunshine](https://open.spotify.com/album/6D1YpObdaha620Tm54WbIw) | 3:22 |
-| 52 | [I'm Just a Kid](https://open.spotify.com/track/6otiaV2fagE3s8IvP6WkwG) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [No Pads, No Helmets...Just Balls \(15th Anniversary Tour Edition\)](https://open.spotify.com/album/3W6TEVlmaP22E4KvWY9HrS) | 3:18 |
+| 51 | [I'm Just a Kid](https://open.spotify.com/track/6otiaV2fagE3s8IvP6WkwG) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [No Pads, No Helmets...Just Balls \(15th Anniversary Tour Edition\)](https://open.spotify.com/album/3W6TEVlmaP22E4KvWY9HrS) | 3:18 |
+| 52 | [Pocketful of Sunshine](https://open.spotify.com/track/1uigwk5hNV84zRd5YQQRTk) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Pocketful Of Sunshine](https://open.spotify.com/album/6D1YpObdaha620Tm54WbIw) | 3:22 |
 | 53 | [Survivor](https://open.spotify.com/track/2Mpj1Ul5OFPyyP4wB62Rvi) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9) | 4:14 |
 | 54 | [We Belong Together](https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo) | 3:21 |
 | 55 | [Dirty Little Secret](https://open.spotify.com/track/5lDriBxJd22IhOH9zTcFrV) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Move Along](https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe) | 3:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MAQN3OnFEl.md) - [plain]
 | 99 | [Milkshake](https://open.spotify.com/track/4LmzPJDil70LpiApWfOI6O) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [The Hits](https://open.spotify.com/album/2pPNC9cSF3mhMZcT7t3iw7) | 3:02 |
 | 100 | [Crush](https://open.spotify.com/track/6YXWauQKn5nQVhcC4KVplQ) | [Jennifer Paige](https://open.spotify.com/artist/26PDtWYDJ1KD0brukKsJH1) | [Jennifer Paige](https://open.spotify.com/album/0uKakjHwamECXOBi80uvNv) | 3:19 |
 
-Snapshot ID: `MCxhZDVkMmFkYzY3ODgyM2Q5MzgyN2YyZWRkYTAyMzFmNDYyZmU3NGIw`
+Snapshot ID: `MCwxNWIxYTBiZTQzMTJjZjNhZWQ3ZmIzZGQ3Mzc4NTllNzU0ZWYzZmVm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi7h4mmmkzD.md) - [plain]
 
 > Nighttime is the right time for these party hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,987 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 576,070 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi7h4mmmkzD.md) - [plain]
 | 89 | [Knockin' Boots](https://open.spotify.com/track/6ERR6e7h6wCqGoz1TjiUJb) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Knockin' Boots](https://open.spotify.com/album/4Q9RAjO1YjXgn5ErqvoNnS) | 3:19 |
 | 90 | [Cold Beer Calling My Name](https://open.spotify.com/track/3dV1fjKOlLnaNK5MeZHXGv) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Cold Beer Calling My Name](https://open.spotify.com/album/3sRPj5WMTrlTy2vTJW3BKx) | 3:30 |
 | 91 | [ONE BEER \(feat\. Lauren Alaina & Devin Dawson\)](https://open.spotify.com/track/5FmvaZGd6fulojSToozLRD) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [HIXTAPE: Vol\. 1](https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo) | 2:53 |
-| 92 | [T\-Shirt](https://open.spotify.com/track/1zWZvrk13cL8Sl3VLeG57F) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Tangled Up](https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy) | 3:47 |
-| 93 | [Bottoms Up \- Remix](https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Just As I Am \(Platinum Edition\)](https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il) | 3:41 |
+| 92 | [Bottoms Up \- Remix](https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Just As I Am \(Platinum Edition\)](https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il) | 3:41 |
+| 93 | [T\-Shirt](https://open.spotify.com/track/1zWZvrk13cL8Sl3VLeG57F) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Tangled Up](https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy) | 3:47 |
 | 94 | [Bartender](https://open.spotify.com/track/6olKv2HP3XgBpvVxAswowe) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [747](https://open.spotify.com/album/1JHNRou038CfCC0RZztDz8) | 3:18 |
 | 95 | [I Was On a Boat That Day](https://open.spotify.com/track/7u6kAP26NFU2rwNKjFUpI8) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Time, Tequila & Therapy](https://open.spotify.com/album/1yjrtwm2ru1qPGBPBUDE0x) | 2:58 |
 | 96 | [Ready Set Roll](https://open.spotify.com/track/1pbjOhmFwYC09EYU5EwB5L) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Ignite the Night \(Party Edition\)](https://open.spotify.com/album/5lkRYpePZze7eng9Spx1Gq) | 3:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi7h4mmmkzD.md) - [plain]
 | 99 | [Get Your Shine On](https://open.spotify.com/track/6s9ICeczYOfbHHIaSMq9jd) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Here's To The Good Times](https://open.spotify.com/album/5MH765pytbQasmDxXArTah) | 3:42 |
 | 100 | [Single Saturday Night](https://open.spotify.com/track/1irAliF0T8sLIOPJp6n7rU) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Single Saturday Night](https://open.spotify.com/album/1wmVEVgetT1F0Qnu0651Ps) | 3:07 |
 
-Snapshot ID: `MCxlNGFlNGUzMTBiYTE2NGFhMzk1YzY3YjJkOTE3NDIzM2I5NWMzNzcz`
+Snapshot ID: `MCw3YjQyODMyMTliZjdhMTJkYmVlNTNiNjM1OWViOTZhMGMwOTJlOWZj`

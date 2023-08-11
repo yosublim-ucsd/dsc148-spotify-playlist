@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0iyNwZI144.md) - [plain]
 
 > A melhor trilha sonora pra se preparar pros dias mais quentes do ano!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,083,919 likes - 70 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,083,925 likes - 70 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0iyNwZI144.md) - [plain]
 | 39 | [Pretty Girl \- Cheat Codes X CADE Remix](https://open.spotify.com/track/1NDxZ7cFAo481dtYWdrUnR) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [CADE](https://open.spotify.com/artist/0CEK8AzyeD5ZUdUloB6yQV) | [Pretty Girl \(Cheat Codes X CADE Remix\)](https://open.spotify.com/album/1XYA8eDvomdYTbQBzk0jT1) | 3:13 |
 | 40 | [Hallucinate](https://open.spotify.com/track/1nYeVF5vIBxMxfPoL0SIWg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:28 |
 | 41 | [Sour Candy \(with BLACKPINK\)](https://open.spotify.com/track/6R6ZoHTypt5lt68MWbzZXv) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Sour Candy \(with BLACKPINK\)](https://open.spotify.com/album/6y6lP1WRfqEhv8RLy4ufZB) | 2:37 |
-| 42 | [Heaven](https://open.spotify.com/track/0vrmHPfoBadXVr2n0m1aqZ) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [TIM](https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ) | 4:37 |
-| 43 | [Gyal You a Party Animal \- Remix](https://open.spotify.com/track/3rK30dzS17JWgft6PIvEjt) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Gyal You a Party Animal \(Remix\)](https://open.spotify.com/album/1drLzJJL0Voqt9GfD4cAly) | 3:43 |
+| 42 | [Gyal You a Party Animal \- Remix](https://open.spotify.com/track/3rK30dzS17JWgft6PIvEjt) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Gyal You a Party Animal \(Remix\)](https://open.spotify.com/album/1drLzJJL0Voqt9GfD4cAly) | 3:43 |
+| 43 | [Heaven](https://open.spotify.com/track/0vrmHPfoBadXVr2n0m1aqZ) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [TIM](https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ) | 4:37 |
 | 44 | [Say My Name](https://open.spotify.com/track/3GYlQmwfBDo7imFyGPhrl7) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [Say My Name](https://open.spotify.com/album/4r6DqAydqQCcOs1JiVmRSZ) | 2:39 |
 | 45 | [First Time](https://open.spotify.com/track/2Gl0FzuLxflY6nPifJp5Dr) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [First Time](https://open.spotify.com/album/6wu7tiTr8zchRG7PWwTOK1) | 3:13 |
 | 46 | [Bola Rebola](https://open.spotify.com/track/1OUPXna2MCgAt3VNmXJBtg) | [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [Bola Rebola](https://open.spotify.com/album/3p5oLCW4wY9u1TBRiLT1HD) | 3:13 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0iyNwZI144.md) - [plain]
 | 69 | [Burn Out \(feat\. Dewain Whitmore\)](https://open.spotify.com/track/7IWTIkiWGWNQyYfOLdMrGD) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Justin Mylo](https://open.spotify.com/artist/7MFJyevu6jq0shwDuVLymu), [Dewain Whitmore](https://open.spotify.com/artist/1E1W3to8HhGSkkIEUMwEjd) | [Burn Out \(feat\. Dewain Whitmore\)](https://open.spotify.com/album/3feYPmyPH7tqh1ZfsU0D0i) | 3:20 |
 | 70 | [Tough Love \(feat\. Agnes, Vargas & Lagola\)](https://open.spotify.com/track/1yfyIdEw5U2bD5I6gxQCxW) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu), [Vargas & Lagola](https://open.spotify.com/artist/2fVW2ix4ANKiofDZIsy1XR) | [TIM](https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ) | 3:11 |
 
-Snapshot ID: `MCw2ZWU2NzcyMmZiYWEwOThmMjU0MGE1ZDg1OWEyNDE5ZWU0YzNlZWVj`
+Snapshot ID: `MCwwMjM5ZmM4NzA0MDU1NTg4NDFiODdlYzMwYTIyZjdiMDFmN2FkNjg5`

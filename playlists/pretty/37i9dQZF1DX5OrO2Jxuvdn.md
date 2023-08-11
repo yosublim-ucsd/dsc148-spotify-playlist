@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OrO2Jxuvdn.md) - [plain]
 
 > Lainey Wilson is taking over with her favorite workout tracks to keep up with her New Year's resolution\. 🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,086 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,105 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,9 +82,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OrO2Jxuvdn.md) - [plain]
 | 72 | [Redneck Yacht Club](https://open.spotify.com/track/4etE2X6t7GmyiuYLIdI8H5) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [My Kind Of Livin'](https://open.spotify.com/album/4ovUdHrbzwtbtKMyU997Hl) | 3:50 |
 | 73 | [When She Says Baby](https://open.spotify.com/track/3gVRILe7XCyNakb6sy5umX) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Night Train](https://open.spotify.com/album/2uXHwdc2aTcUP2EhXKhPRu) | 2:51 |
 | 74 | [Wine, Beer, Whiskey](https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Nightfall](https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q) | 3:16 |
-| 75 | [Summertime](https://open.spotify.com/track/3cE5ltZFHmBpiS77itKaOM) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [The Road And The Radio](https://open.spotify.com/album/5uMLCobPh02IG3fyH0Dzec) | 3:26 |
+| 75 | [5\-1\-5\-0](https://open.spotify.com/track/2WKCH4ISejDV9ad7iPp5XU) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Home](https://open.spotify.com/album/4WYx3Z81yhA09dBIAktauv) | 3:02 |
 | 76 | [Blue Tacoma](https://open.spotify.com/track/5PBx0zFfehUMyv5H4YXVAU) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Yours](https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE) | 3:32 |
-| 77 | [5\-1\-5\-0](https://open.spotify.com/track/2WKCH4ISejDV9ad7iPp5XU) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Home](https://open.spotify.com/album/4WYx3Z81yhA09dBIAktauv) | 3:02 |
+| 77 | [Summertime](https://open.spotify.com/track/3cE5ltZFHmBpiS77itKaOM) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [The Road And The Radio](https://open.spotify.com/album/5uMLCobPh02IG3fyH0Dzec) | 3:26 |
 | 78 | [Take A Back Road](https://open.spotify.com/track/7B6m8tHAYZsOKOKMU5SR2n) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [Take A Back Road](https://open.spotify.com/album/2qLz69eIC6A7GggjGvxEMp) | 3:29 |
 | 79 | [Famous Friends](https://open.spotify.com/track/4iXDn9pu5Q9sxv45vE8Lak) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Famous Friends](https://open.spotify.com/album/0CIbEKfFhnHbwJwVHb4KE1) | 2:45 |
 | 80 | [Hate My Heart](https://open.spotify.com/track/4oGCfTHN1hmXGy5mqmJVc3) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:03 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OrO2Jxuvdn.md) - [plain]
 | 85 | [Break Up with Him](https://open.spotify.com/track/5ZManJDV3CexO66nRCkdiV) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Meat and Candy](https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf) | 3:27 |
 | 86 | [Aw Naw](https://open.spotify.com/track/53Dj5PCDhb22qWqmre3YQs) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [A.M.](https://open.spotify.com/album/3cyLH6iUGPjEsZIUFnJfd3) | 3:08 |
 | 87 | [Cold Beer Calling My Name](https://open.spotify.com/track/3dV1fjKOlLnaNK5MeZHXGv) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Cold Beer Calling My Name](https://open.spotify.com/album/3sRPj5WMTrlTy2vTJW3BKx) | 3:30 |
-| 88 | [ONE BEER \(feat\. Lauren Alaina & Devin Dawson\)](https://open.spotify.com/track/5FmvaZGd6fulojSToozLRD) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [HIXTAPE: Vol\. 1](https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo) | 2:53 |
-| 89 | [Miss Me More](https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:12 |
+| 88 | [Miss Me More](https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:12 |
+| 89 | [ONE BEER \(feat\. Lauren Alaina & Devin Dawson\)](https://open.spotify.com/track/5FmvaZGd6fulojSToozLRD) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [HIXTAPE: Vol\. 1](https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo) | 2:53 |
 | 90 | [Dancin' In The Moonlight \(feat\. Lauren Alaina\)](https://open.spotify.com/track/0pnKcAh5binHOP9HexWwnZ) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Dancin' In The Moonlight \(feat\. Lauren Alaina\)](https://open.spotify.com/album/0UsGyt84mXODfb3IteNHdr) | 3:19 |
 | 91 | [Pickup](https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Pickup](https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X) | 2:48 |
 | 92 | [Bartender](https://open.spotify.com/track/6olKv2HP3XgBpvVxAswowe) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [747](https://open.spotify.com/album/1JHNRou038CfCC0RZztDz8) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OrO2Jxuvdn.md) - [plain]
 | 99 | [The Fighter](https://open.spotify.com/track/5OUSPcqhYTOzpbXzoEvKim) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Ripcord](https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq) | 3:04 |
 | 100 | [Y'all Life](https://open.spotify.com/track/1KHCFA1Wb1MYQi4WQIYqrm) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Y'all Life](https://open.spotify.com/album/50v40WMdEdqVFy9stzuW3y) | 3:12 |
 
-Snapshot ID: `MCxiYTdlNmJjY2NhODg3YzA0MTRiYWY3Mzc2OGM5NGRmZTlhYmUyMDU3`
+Snapshot ID: `MCwxMGY3YTFjOTdjNmZjMDBjNTI0YmZiZmUxYmRkZDU4YzBhZWU1ZDk3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2bUkoM.md) - [plain]
 
 > This is Hayley Kiyoko\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,234 likes - 43 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,240 likes - 43 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2bUkoM.md) - [plain]
 | 13 | [Sleepover](https://open.spotify.com/track/0WqqFajBwA3tpRZ66kRomu) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Expectations](https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL) | 3:53 |
 | 14 | [deep in the woods](https://open.spotify.com/track/0JmxPS0bVRETJa4haH0zhP) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 3:09 |
 | 15 | [Headcase](https://open.spotify.com/track/6NJQ69XAEJ4TbTuDWA0gM0) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Headcase](https://open.spotify.com/album/2wDVgssxE37up35W78SFDM) | 3:13 |
-| 16 | [Gravel to Tempo](https://open.spotify.com/track/0xLijfL3DEW7eAiPB2xxFj) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Citrine EP](https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE) | 3:38 |
+| 16 | [I Wish](https://open.spotify.com/track/70U8ngrsEOeqeVjcTrChd8) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [I'm Too Sensitive For This Shit](https://open.spotify.com/album/3WCyXTXV94GowRN7nRHxSp) | 3:25 |
 | 17 | [Feelings](https://open.spotify.com/track/27DxZkqTR2SHZTTfMRpUvW) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Expectations](https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL) | 3:36 |
 | 18 | [chance](https://open.spotify.com/track/74jOmqVRM9Ha4xu8G15iKv) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 3:19 |
-| 19 | [I Wish](https://open.spotify.com/track/70U8ngrsEOeqeVjcTrChd8) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [I'm Too Sensitive For This Shit](https://open.spotify.com/album/3WCyXTXV94GowRN7nRHxSp) | 3:25 |
+| 19 | [Gravel to Tempo](https://open.spotify.com/track/0xLijfL3DEW7eAiPB2xxFj) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Citrine EP](https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE) | 3:38 |
 | 20 | [Bang! \(feat\. Hayley Kiyoko\) \- AhhHaa Remix](https://open.spotify.com/track/4Fi00h3wo3P8gmhAHT1qX4) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [AhhHaa](https://open.spotify.com/artist/3rnpSVwAs2cQoB2OtHZk8m) | [Bang! \(feat\. Hayley Kiyoko\) \[AhhHaa Remix\]](https://open.spotify.com/album/7v5X3cQDhUuU6pO5rnALw8) | 2:47 |
 | 21 | [Wanna Be Missed](https://open.spotify.com/track/3wqPinf9whHeT7y9EApaPM) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Expectations](https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL) | 3:15 |
 | 22 | [luna](https://open.spotify.com/track/4rCiYKROPDRqMGKX0zSGEo) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 2:47 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2bUkoM.md) - [plain]
 | 42 | [A Belle to Remember](https://open.spotify.com/track/2I05iyCC84kQHipFDl7yfd) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [A Belle to Remember](https://open.spotify.com/album/79bdQQVLHNYGEgbPjUHk9z) | 3:26 |
 | 43 | [Wild & Wicked World](https://open.spotify.com/track/3hVsOFrAxjPdqebJobfZSZ) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [A Belle to Remember](https://open.spotify.com/album/79bdQQVLHNYGEgbPjUHk9z) | 3:24 |
 
-Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDAzYjA2ODYzNWVhMjg5NTExYmY2MGNmNDEyNzUxMmEzMA==`
+Snapshot ID: `MjgxOTQ1NjMsMDAwMDAwMDBjODZiMTQ2ZmE4YzQyMmYwMjA1YTI3NzU5MGQ1YjMzZA==`

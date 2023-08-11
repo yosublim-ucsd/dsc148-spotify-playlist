@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVroJq360LRh.md) - [plain]
 
 > Músicas acústicas para acompanhar sua sessão de pilates.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,282 likes - 115 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,314 likes - 115 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,15 +25,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVroJq360LRh.md) - [plain]
 | 15 | [Overpass Graffiti](https://open.spotify.com/track/3tob5ofeuvFKKSbOTldenC) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Overpass Graffiti](https://open.spotify.com/album/3df7YWbL6GcTWdqht33UVC) | 3:46 |
 | 16 | [Boat](https://open.spotify.com/track/5J2CG1KDabRXqoV1KJP1np) | [Kelsey Hodge](https://open.spotify.com/artist/2zUiqmTRqR78NYrM2QuNLE) | [Boat](https://open.spotify.com/album/37hzBgpWfxo0tieKhIs4l2) | 3:12 |
 | 17 | [Arcade](https://open.spotify.com/track/1h80wgwF7yRWVL8hhcECwy) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Arcade](https://open.spotify.com/album/0c5J1SUFA3rPbIZhK1kj62) | 2:28 |
-| 18 | [she's all i wanna be](https://open.spotify.com/track/6Dbz3vfI07Ox7QDZTSkNuJ) | [who's heather](https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8) | [she's all i wanna be](https://open.spotify.com/album/4yCSGabeo8VEeETk6fg6ul) | 3:17 |
-| 19 | [Mood \- Acoustic](https://open.spotify.com/track/50bNtjatwTxRbw6gMncgcr) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Mood \(Acoustic\)](https://open.spotify.com/album/69dfiUTykV6DzWoP8vzgdc) | 2:55 |
-| 20 | [Wicked Game](https://open.spotify.com/track/4WW5jLs5WXLE5YoRBoju0p) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Wicked Game](https://open.spotify.com/album/0zH3SHiGlCJWDJ3iwPAoqD) | 2:29 |
-| 21 | [Kill Bill](https://open.spotify.com/track/1mqHs67HG57PXjE4cjbe9k) | [POOL KIDS](https://open.spotify.com/artist/3BWaTyIRQj4KFTCHwvLyHR) | [Kill Bill](https://open.spotify.com/album/38i1txuPzEVzmEd0qbJ2ie) | 3:02 |
-| 22 | [I Like Me Better](https://open.spotify.com/track/2GzvzxXnyJ9l3obE4JskC2) | [Ysabelle Cuevas](https://open.spotify.com/artist/323nxrsc0C5JSsmlN2srN8) | [Ysabelle](https://open.spotify.com/album/1LzchyMzJU8dRzQhlcy8n1) | 3:09 |
-| 23 | [A thousand Years \- Acoustic](https://open.spotify.com/track/57CxlA1lWjST9FEueqzvfT) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [A Thousand Years](https://open.spotify.com/album/0gyYpeO6THIOodyYcI7AY6) | 3:18 |
-| 24 | [Sweet Nothing](https://open.spotify.com/track/6unfpV3weBUn5fpRykWsI2) | [Sighting](https://open.spotify.com/artist/3x07rVFUC4H4vTKfDMpXTE) | [Sweet Nothing](https://open.spotify.com/album/3Yt5IIW7wNZohI5PmAwz5G) | 3:21 |
-| 25 | [All Star \- Acoustic](https://open.spotify.com/track/3h6xSQHGIkM3QyLHS5GD8c) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [All Star \- Acoustic](https://open.spotify.com/album/2CxpYQZVB79XTlzIGdctq1) | 3:50 |
-| 26 | [Someone I Used To Know](https://open.spotify.com/track/3cQlRg6dG0hdA2r9MWtXAW) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Someone I Used To Know](https://open.spotify.com/album/4JT9X9aNNbHLLpXF2HMBZR) | 2:21 |
+| 18 | [Mood \- Acoustic](https://open.spotify.com/track/50bNtjatwTxRbw6gMncgcr) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Mood \(Acoustic\)](https://open.spotify.com/album/69dfiUTykV6DzWoP8vzgdc) | 2:55 |
+| 19 | [Wicked Game](https://open.spotify.com/track/4WW5jLs5WXLE5YoRBoju0p) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Wicked Game](https://open.spotify.com/album/0zH3SHiGlCJWDJ3iwPAoqD) | 2:29 |
+| 20 | [I Like Me Better](https://open.spotify.com/track/2GzvzxXnyJ9l3obE4JskC2) | [Ysabelle Cuevas](https://open.spotify.com/artist/323nxrsc0C5JSsmlN2srN8) | [Ysabelle](https://open.spotify.com/album/1LzchyMzJU8dRzQhlcy8n1) | 3:09 |
+| 21 | [A thousand Years \- Acoustic](https://open.spotify.com/track/57CxlA1lWjST9FEueqzvfT) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [A Thousand Years](https://open.spotify.com/album/0gyYpeO6THIOodyYcI7AY6) | 3:18 |
+| 22 | [she's all i wanna be](https://open.spotify.com/track/6Dbz3vfI07Ox7QDZTSkNuJ) | [who's heather](https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8) | [she's all i wanna be](https://open.spotify.com/album/4yCSGabeo8VEeETk6fg6ul) | 3:17 |
+| 23 | [Sweet Nothing](https://open.spotify.com/track/6unfpV3weBUn5fpRykWsI2) | [Sighting](https://open.spotify.com/artist/3x07rVFUC4H4vTKfDMpXTE) | [Sweet Nothing](https://open.spotify.com/album/3Yt5IIW7wNZohI5PmAwz5G) | 3:21 |
+| 24 | [All Star \- Acoustic](https://open.spotify.com/track/3h6xSQHGIkM3QyLHS5GD8c) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [All Star \- Acoustic](https://open.spotify.com/album/2CxpYQZVB79XTlzIGdctq1) | 3:50 |
+| 25 | [Someone I Used To Know](https://open.spotify.com/track/3cQlRg6dG0hdA2r9MWtXAW) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Someone I Used To Know](https://open.spotify.com/album/4JT9X9aNNbHLLpXF2HMBZR) | 2:21 |
+| 26 | [Kill Bill](https://open.spotify.com/track/1mqHs67HG57PXjE4cjbe9k) | [POOL KIDS](https://open.spotify.com/artist/3BWaTyIRQj4KFTCHwvLyHR) | [Kill Bill](https://open.spotify.com/album/38i1txuPzEVzmEd0qbJ2ie) | 3:02 |
 | 27 | [Hallelujah I Love Her So](https://open.spotify.com/track/4Fuyarf5fHo2zJ6GoYC48N) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Sunshine on a Cloudy Day](https://open.spotify.com/album/2ip6XgW8Ws3R2K6Y7nBRJz) | 2:43 |
 | 28 | [Lift Me Up](https://open.spotify.com/track/1Flj41v3soU4JYVlUlOyDd) | [WestSouth](https://open.spotify.com/artist/3WOmfcfJJjfAuUAHeiNxY0) | [Lift Me Up](https://open.spotify.com/album/3cw331sEho6jzNexTUfyLQ) | 2:49 |
 | 29 | [Love Or Something Like It](https://open.spotify.com/track/5eyR23bfxuwk2zykBxf2Xp) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Love Or Something Like It](https://open.spotify.com/album/2NiB630yD0PdHvjcDLJwQz) | 2:52 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVroJq360LRh.md) - [plain]
 | 114 | [Thunder](https://open.spotify.com/track/0rRtQsqQAaS45dgHfd8t1l) | [The Freed](https://open.spotify.com/artist/1kU8z1cAsNbINQt3ZyFka8) | [Thunder](https://open.spotify.com/album/0yCicHSIShiIcJLkpyxKIC) | 3:24 |
 | 115 | [Fast Car](https://open.spotify.com/track/704KRYnRNEUUgK5IQX0rNp) | [Sweet Nicks](https://open.spotify.com/artist/7joNWT7KJBapOWTYdaEjPq) | [Fast Car](https://open.spotify.com/album/73TUtNvDPNjPYuStcDKgn4) | 5:31 |
 
-Snapshot ID: `MCwxMGNhYTZmOTE3ODk0ZWJjMDA3MzRlM2U2YWI0MTMzY2FhY2Q1ZThh`
+Snapshot ID: `MCwyNGZlMjcyMjg5NjJlZWE1NjAyNzYzZTQ4ZTdhNGRhMjhlZTJlMzBk`

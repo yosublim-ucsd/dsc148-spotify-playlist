@@ -10219,6 +10219,28 @@
     },
     {
       "album": {
+        "name": "WAXITA",
+        "url": "https://open.spotify.com/album/424QB0Q060FF2jwNR8ZbEc"
+      },
+      "artists": [
+        {
+          "name": "Lleflight",
+          "url": "https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144004,
+      "name": "WAXITA",
+      "url": "https://open.spotify.com/track/5PLI8xCQguTvnMzY3k07eU"
+    },
+    {
+      "album": {
         "name": "Xipetiao",
         "url": "https://open.spotify.com/album/0ke5VtGrdgbivqJJusyK5I"
       },

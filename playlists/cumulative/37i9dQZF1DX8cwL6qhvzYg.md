@@ -4,7 +4,7 @@
 
 > Porque el barrio es el barrio y eso nadie lo va a cambiar 😎💃🏾🕺🏾
 
-125 songs - 7 hr 26 min
+126 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Cumbia Del Chavito Medio Metro](https://open.spotify.com/track/0fmA5PobE7ipHpYC58JwF7) | [GUERRAS EL VOLCAN DEL WEPA](https://open.spotify.com/artist/057Yi2nzw4hJ30anLnLIAD) | [Cumbia Del Chavito Medio Metro](https://open.spotify.com/album/6bgiXPx0Zxi3WIKJLNIAhl) | 4:07 | 2023-02-23 |  |
 | [Cumbia Del Sol](https://open.spotify.com/track/10jdyLaybUVbi8AlJf7nYF) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Fuera De Control](https://open.spotify.com/album/4x89VPVDzHs5iooMxojyDw) | 3:14 | 2023-02-23 |  |
 | [Cumbia Lorana Wepa Sonido Pirata](https://open.spotify.com/track/6kYuNx6meGYoQ4Soz5N8sg) | [Dj Yack](https://open.spotify.com/artist/5HOxMIImatFw3BT7K9UX0S) | [Cumbia Lorana Wepa Sonido Pirata](https://open.spotify.com/album/2aZ3AH03yZfBysKsFyBeN8) | 3:20 | 2023-02-23 |  |
-| [Cumbia Morena](https://open.spotify.com/track/0RW9lpU6FOyGNawOa3MbH8) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Mas Control](https://open.spotify.com/album/4Ni4cnbjZe1V6nBrjhDn4A) | 3:14 | 2023-02-23 |  |
+| [Cumbia Morena](https://open.spotify.com/track/0RW9lpU6FOyGNawOa3MbH8) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Mas Control](https://open.spotify.com/album/4Ni4cnbjZe1V6nBrjhDn4A) | 3:14 | 2023-02-23 | 2023-08-11 |
 | [Cumbia Sampuesana](https://open.spotify.com/track/4AwgFDiynuu52p5xtpRlNG) | [La Luz Roja De San Marcos](https://open.spotify.com/artist/5YeFdMPC50VCSc91uYLOGb) | [Los Exitos Mas Calientes](https://open.spotify.com/album/0CFZMKonWgHqhJ1jFipGDt) | 3:53 | 2023-02-23 |  |
 | [Cumbia sobre el río / Interludio](https://open.spotify.com/track/77wwKKYeNZnXZ8xChSiSxN) | [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi) | [Barrio Bravo](https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD) | 5:42 | 2023-02-23 |  |
 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 | 2023-02-23 |  |
@@ -55,12 +55,13 @@
 | [En Peligro de Extinción](https://open.spotify.com/track/4wZqjBJCs2tD7AV3c2UUh5) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [30 Aniversario](https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf) | 3:54 | 2023-02-23 |  |
 | [En Tu Perra Vida](https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [En Tu Perra Vida](https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp) | 3:58 | 2023-02-23 |  |
 | [Eres Mi Sueño](https://open.spotify.com/track/5ZA9ItQp7DyG6pPkSsq3Bn) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v) | [Acarey Ya Llegó](https://open.spotify.com/album/74i0QoJc9w1PmewVlDlnj3) | 5:00 | 2023-02-23 |  |
-| [Escándalo](https://open.spotify.com/track/6dj1GTWMKxL3JToEGzTcwl) | [sonoradinamita](https://open.spotify.com/artist/2wesOX1fzorPTtgcuZ0xv2), [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [Cumbias Para Bailar](https://open.spotify.com/album/6iDK4vCNdRCpClfTPLk4ne) | 4:38 | 2023-02-23 |  |
+| [Escándalo](https://open.spotify.com/track/6dj1GTWMKxL3JToEGzTcwl) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [Cumbias Para Bailar](https://open.spotify.com/album/6iDK4vCNdRCpClfTPLk4ne) | 4:38 | 2023-02-23 |  |
 | [Espejeando](https://open.spotify.com/track/6mEp3WgXcjJw5yjG2C4GuH) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Amor Platónico](https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC) | 3:03 | 2023-02-23 |  |
 | [Feliz Feliz](https://open.spotify.com/track/3ibR3fiO0okIyc0lCqULHX) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Éxitos](https://open.spotify.com/album/1r1Uhfd4edrlfDDJaGCify) | 3:37 | 2023-02-23 |  |
 | [Fuerte No Soy](https://open.spotify.com/track/7A07Yu1dRND3RKDzbhKrDs) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Contigo](https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0) | 4:27 | 2023-02-23 |  |
 | [Guaracha Sabrosona](https://open.spotify.com/track/0p88CmD2dgRH9Y52unhHi3) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guaracha Sabrosona](https://open.spotify.com/album/0UZNJ0LcKDFyozURk4DUKJ) | 3:39 | 2023-02-23 |  |
 | [Huapango Amor Ranchero](https://open.spotify.com/track/4h8xnS3HBT19lpOvOfctS5) | [La Humildad De La Musica Norteña](https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE) | [Huapango Amor Ranchero](https://open.spotify.com/album/40EvvWuBGio70bkcFLk6Fl) | 3:19 | 2023-02-23 |  |
+| [La Boda del Huitlacoche \- En Vivo](https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Borrachera Con los Honorables \(En Vivo\)](https://open.spotify.com/album/5Js6rpaXDIBbdJA5Xn8AYd) | 3:08 | 2023-02-23 |  |
 | [La Bota](https://open.spotify.com/track/5s3IWiEUyNocPtapPxqlPd) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Mexico Querido](https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1) | 3:28 | 2023-02-23 |  |
 | [La culebra](https://open.spotify.com/track/6bJlR3XVNgAOIkKdiKkZz4) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [25 Bandazos de Machos \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/641IjGwd385qV3RVouieUv) | 3:08 | 2023-02-23 |  |
 | [La Cumbia de los Monjes](https://open.spotify.com/track/03ITeFvMvTRpTC92WsQWw5) | [Ritmo Y Sabor](https://open.spotify.com/artist/1FSn3FN1HTxrK4qgoslPJh) | [Latino](https://open.spotify.com/album/3a4EAp0gT2IoAvNtToqrCD) | 3:22 | 2023-02-23 |  |

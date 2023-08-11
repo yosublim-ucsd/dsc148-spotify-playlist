@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 
 > Delicate digital expressions of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,157 likes - 100 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,307 likes - 100 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,9 +81,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 71 | [The Way You Talk](https://open.spotify.com/track/1V3wlehSbUKl0esIqL1ylB) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG) | [A Mineral Love](https://open.spotify.com/album/1XyvqZhfSsxO03MesQpaQn) | 2:50 |
 | 72 | [At Height](https://open.spotify.com/track/4n7Cl2IPm0wQpJq63moUKc) | [Inwards](https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse) | [Bright Serpent](https://open.spotify.com/album/1VukT3w77oaLOgkQWkznwu) | 3:52 |
 | 73 | [Kodomotachi](https://open.spotify.com/track/4Q15uJ0IAUhLmbfMBx4X5c) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 4:06 |
-| 74 | [Shadows](https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT) | [Wagon Christ](https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy) | [Sorry I Make You Lush](https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR) | 4:26 |
-| 75 | [As Much as Possible](https://open.spotify.com/track/21M3Nfmqw8AZnLgFWHtskL) | [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [No Home of the Mind](https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA) | 5:40 |
-| 76 | [born slipping](https://open.spotify.com/track/0QJ11tqN85By0nwwDJVoeP) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 4:32 |
+| 74 | [born slipping](https://open.spotify.com/track/0QJ11tqN85By0nwwDJVoeP) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 4:32 |
+| 75 | [Shadows](https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT) | [Wagon Christ](https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy) | [Sorry I Make You Lush](https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR) | 4:26 |
+| 76 | [As Much as Possible](https://open.spotify.com/track/21M3Nfmqw8AZnLgFWHtskL) | [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [No Home of the Mind](https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA) | 5:40 |
 | 77 | [Fine Match](https://open.spotify.com/track/0IJCYY1FqfnoTFUw31YBZ4) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [Come To Canada You Will Like It](https://open.spotify.com/album/5LjAEHX12P2fgWYMbVpVQ9) | 4:05 |
 | 78 | [Constant Reminder](https://open.spotify.com/track/0jbtAoiWy5saxeXoakNP2i) | [Two Lone Swordsmen](https://open.spotify.com/artist/33Ztukerf3He8FeKk5acn8) | [Tiny Reminders](https://open.spotify.com/album/2V2qCQNcIwy6sqkEHmBERc) | 1:30 |
 | 79 | [I Think Of You](https://open.spotify.com/track/36D5zut2til58ggxAbTFy7) | [Little annie](https://open.spotify.com/artist/4R5gmSWJOkGmGziutSalZN) | [Short And Sweet](https://open.spotify.com/album/3RjQU5PBpd46ZVVV556Xqq) | 4:53 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 96 | [Talisman](https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Encores 2](https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg) | 4:02 |
 | 97 | [Holding Hands](https://open.spotify.com/track/5Ai7N5FmqnQ8ZSP7uNz9sX) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Holding Hands](https://open.spotify.com/album/4KRFIkXsDR60MnQV5K9N4J) | 2:50 |
 | 98 | [The Kiss](https://open.spotify.com/track/56jrNmzTvsGi7geeFTaW11) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 3:17 |
-| 99 | [White Flower, Dark Hill](https://open.spotify.com/track/7xMCTA7bAlOcryEnnkj4h6) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [White Flower, Dark Hill](https://open.spotify.com/album/7xN23zlYPM0GNRd93Z8pZD) | 2:28 |
-| 100 | [Implosion\-Explosion](https://open.spotify.com/track/3XFE2WVHJ8VpSue33r9POm) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [The Tunnel and the Clearing](https://open.spotify.com/album/6iVlwI2lSSNISO2ypqXBQV) | 5:33 |
+| 99 | [Implosion\-Explosion](https://open.spotify.com/track/3XFE2WVHJ8VpSue33r9POm) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [The Tunnel and the Clearing](https://open.spotify.com/album/6iVlwI2lSSNISO2ypqXBQV) | 5:33 |
+| 100 | [White Flower, Dark Hill](https://open.spotify.com/track/7xMCTA7bAlOcryEnnkj4h6) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [White Flower, Dark Hill](https://open.spotify.com/album/7xN23zlYPM0GNRd93Z8pZD) | 2:28 |
 
-Snapshot ID: `MCwzNTZkNzk0ZDQ3YjQwMjFlM2NiYzdhMjgyMjA4YjZjYmJkZGQ5NjI2`
+Snapshot ID: `MCxiNjhiN2VjYWE0MzNjNTg3YWM4NzcwNzU0MDdlOTBmOTNjODE5MWZk`

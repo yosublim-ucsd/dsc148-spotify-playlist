@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 
 > lay back\. chill out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,806 likes - 80 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,950 likes - 80 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 79 | [Cruel Intentions \(Remix\) \[feat\. Snoh Aalegra\]](https://open.spotify.com/track/54NPbWDqKcSGnP1FEkk7iC) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Cruel Intentions \(Remix\) \[feat\. Snoh Aalegra\]](https://open.spotify.com/album/3VpPE17j7Zja4iLdHnP1Ps) | 4:40 |
 | 80 | [Livid](https://open.spotify.com/track/6cYqxLD2d6zdNXIJU3CAbR) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [A Real Romantic](https://open.spotify.com/album/19ircUdNQ6aoqelvZJf2vC) | 4:29 |
 
-Snapshot ID: `MCw0MjMwZmYwZDM3YTBiMGQ2ZGQwOTEzOWYyNGEyY2FjMDQyMzg2N2Fm`
+Snapshot ID: `MCxiNjVhMDY5M2E1NjA0NjMzZjk1ZmNhZTAzMDIyMGRkZGY0ZWMyODA1`

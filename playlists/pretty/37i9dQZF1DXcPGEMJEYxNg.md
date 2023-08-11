@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPGEMJEYxNg.md) - [plain]
 
 > In partnership with <a href="https://goldhouse.org/">Gold House</a>, we are excited to announce our second Gold House Future Music Guild artists: Mad Tsai, Rhea Raj & Alex Porat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,078 likes - 58 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,100 likes - 58 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPGEMJEYxNg.md) - [plain]
 | 17 | [Always Down](https://open.spotify.com/track/4BXzOCOxxRchafAZyAL40M) | [Bohan Phoenix](https://open.spotify.com/artist/18YneNJbsTdMUWiKQDiD9P), [Slodown](https://open.spotify.com/artist/3bdade2XqS9F4378nhCNcl) | [Always Down](https://open.spotify.com/album/3Ew2Gi7J4hG3fKDVyOmTPv) | 3:15 |
 | 18 | [Build a Bitch](https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Build a Bitch](https://open.spotify.com/album/5YKqfiQdPYWJ0kZ5pttY5o) | 2:02 |
 | 19 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 |
-| 20 | [Someone On The Internet](https://open.spotify.com/track/4uW3eW3YVRqddbMrZf4caM) | [Will Jay](https://open.spotify.com/artist/4lWJityOQkWcLFiboQBvBq) | [Someone On The Internet](https://open.spotify.com/album/7iy5XSdRsFVU2X25eEAhPX) | 3:02 |
+| 20 | [Someone on the Internet](https://open.spotify.com/track/2iSudjmucrmx3xLZYqNes9) | [Will Jay](https://open.spotify.com/artist/4lWJityOQkWcLFiboQBvBq) | [Someone on the Internet](https://open.spotify.com/album/2qCSzelWEnMoBXPEOrZHds) | 3:02 |
 | 21 | [Jigsaw](https://open.spotify.com/track/1WzOonguDKuWQrTTf5yR0D) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Jigsaw](https://open.spotify.com/album/4OmdjXVk6PslBdirwfruqQ) | 3:28 |
 | 22 | [Millions](https://open.spotify.com/track/4M5Or2SbEH99ONI8yjV3MD) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [blanket](https://open.spotify.com/album/5XTSqh2cKQ6jkbqHChbK0m) | 3:38 |
 | 23 | [Trouble](https://open.spotify.com/track/3L7HXWRZMkSR7dEi4ttJOj) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Trouble](https://open.spotify.com/album/7arfU7Nnx72FDYB83muIRY) | 3:04 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPGEMJEYxNg.md) - [plain]
 | 57 | [summer](https://open.spotify.com/track/4osRLDg7abL4hLdfZ1c39g) | [raph](https://open.spotify.com/artist/4dnl0VOP7cS57VQOWxr3ND), [EJEAN](https://open.spotify.com/artist/2h1C4NVjSJnWrUeo4Z4dFz) | [summer](https://open.spotify.com/album/2BLrXMpziCnaHv0gEeyjQ3) | 2:12 |
 | 58 | [Fashionably Late](https://open.spotify.com/track/4gG73FSWLBH5DlkmgaKJtv) | [Nieman](https://open.spotify.com/artist/4SwV4H2atecTIdXKyLfSfR) | [Fashionably Late](https://open.spotify.com/album/4eBlEJK3JKGWGeElVlxJhI) | 3:17 |
 
-Snapshot ID: `MCwyNWM2YjA5NmNlODQ1NmMyZDc2M2Q0NzBkYzMyY2JmYmRiNWExYzdk`
+Snapshot ID: `MCxlZmNjYTIzZjIyNWJmOTZjMzZhNjE5YzA5NTk1ZGEyNTk1MzA5NDgy`

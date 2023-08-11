@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,434 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,448 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 74 | [Kalitha Hudugi 2.0](https://open.spotify.com/track/5W1wfINyvzgflRPjbqDpA2) | [Karthik N B](https://open.spotify.com/artist/3r82HAo6mMhQwgsa2Bj9RC), [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Kalitha Hudugi 2.0](https://open.spotify.com/album/1eusEx2WLiPspt0YwUs0vU) | 3:46 |
 | 75 | [Nina Myaale](https://open.spotify.com/track/1DeCiMxWuLboZByKwPgrvz) | [Karthik N B](https://open.spotify.com/artist/3r82HAo6mMhQwgsa2Bj9RC), [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Nina Myaale](https://open.spotify.com/album/48G6knKFk6JcWEYBFNrE91) | 3:35 |
 
-Snapshot ID: `MCxjYmRjOTM0Mzg5MGEwZTVlMmRlZGYzNWYzMjAxNmE1NzVjZDUzYWM2`
+Snapshot ID: `MCxlNTFhOTQ4NDU3NTdmZWIxNzY2MWJkZTU1Zjk2MTA1NDQ0MTExY2Jh`

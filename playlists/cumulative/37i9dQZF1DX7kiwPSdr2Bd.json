@@ -419,28 +419,6 @@
     },
     {
       "album": {
-        "name": "Brave Sessions: Le\u00e3o de Jud\u00e1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2KvHxcXLS03Lx9CkisZnQF"
-      },
-      "artists": [
-        {
-          "name": "BRAVE",
-          "url": "https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h"
-        },
-        {
-          "name": "LUDI",
-          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
-        }
-      ],
-      "date_added": "2023-08-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 246680,
-      "name": "Brave Sessions: Le\u00e3o de Jud\u00e1 - Ao Vivo",
-      "url": "https://open.spotify.com/track/0SL6BVNoPMuccnrVDdGojX"
-    },
-    {
-      "album": {
         "name": "Caminho de Milagres (Ao Vivo Nos Len\u00e7\u00f3is Maranhenses)",
         "url": "https://open.spotify.com/album/2l6DuNvk8jwDVsw9J0AXfb"
       },
@@ -1734,6 +1712,28 @@
       "duration_ms": 230414,
       "name": "Le\u00e3o - Ac\u00fastico",
       "url": "https://open.spotify.com/track/72NJM7lD4KMcxoiSD5Cvab"
+    },
+    {
+      "album": {
+        "name": "Le\u00e3o de Jud\u00e1: Brave Sessions (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2KvHxcXLS03Lx9CkisZnQF"
+      },
+      "artists": [
+        {
+          "name": "BRAVE",
+          "url": "https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h"
+        },
+        {
+          "name": "LUDI",
+          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246680,
+      "name": "Le\u00e3o de Jud\u00e1: Brave Sessions - Ao Vivo",
+      "url": "https://open.spotify.com/track/0SL6BVNoPMuccnrVDdGojX"
     },
     {
       "album": {

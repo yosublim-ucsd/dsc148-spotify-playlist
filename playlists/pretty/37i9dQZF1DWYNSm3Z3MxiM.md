@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNSm3Z3MxiM.md) - [plain]
 
 > Anthems only\. For an extra rep, an extra set or an extra mile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 711,250 likes - 65 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 711,461 likes - 65 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNSm3Z3MxiM.md) - [plain]
 | 32 | [Separate Ways \(Worlds Apart\)](https://open.spotify.com/track/4ECNtOnqzxutZkXP4TE3n3) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Frontiers](https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw) | 5:23 |
 | 33 | [Girls, Girls, Girls](https://open.spotify.com/track/549Go7a66CX6k523uK9kUv) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls \(Deluxe Version\)](https://open.spotify.com/album/2KT9tWALjIRjnaGYDYPg3k) | 4:30 |
 | 34 | [Bohemian Rhapsody \- Remastered 2011](https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(Deluxe Remastered Version\)](https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr) | 5:54 |
-| 35 | [Roadhouse Blues](https://open.spotify.com/track/1Q5kgpp4pmyGqPwNBzkSrw) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Morrison Hotel](https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX) | 4:03 |
-| 36 | [Life in the Fast Lane \- 2013 Remaster](https://open.spotify.com/track/6gXrEUzibufX9xYPk3HD5p) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(2013 Remaster\)](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) | 4:46 |
+| 35 | [Life in the Fast Lane \- 2013 Remaster](https://open.spotify.com/track/6gXrEUzibufX9xYPk3HD5p) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(2013 Remaster\)](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) | 4:46 |
+| 36 | [Roadhouse Blues](https://open.spotify.com/track/1Q5kgpp4pmyGqPwNBzkSrw) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Morrison Hotel](https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX) | 4:03 |
 | 37 | [Black Dog \- Remaster](https://open.spotify.com/track/3qT4bUD1MaWpGrTwcvguhb) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 4:55 |
 | 38 | [All Right Now](https://open.spotify.com/track/1gcESexgftSuLuML57Y69q) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Fire And Water](https://open.spotify.com/album/1ydlm89JR8cV8VuSaNvHNL) | 5:30 |
 | 39 | [Shoot to Thrill](https://open.spotify.com/track/0C80GCp0mMuBzLf3EAXqxv) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 5:17 |
@@ -60,12 +60,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNSm3Z3MxiM.md) - [plain]
 | 50 | [School's Out](https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [School's Out](https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq) | 3:30 |
 | 51 | [Mississippi Queen](https://open.spotify.com/track/4vO9dmzNRqDhFY3jD1a3P7) | [Mountain](https://open.spotify.com/artist/7LCp4MN0SOIVWlssid9KyE) | [Climbing!](https://open.spotify.com/album/2tWvZmP9EVRYqmWyJPLzjP) | 2:31 |
 | 52 | [Gimme Three Steps](https://open.spotify.com/track/0x2wtJbtJrox3SDmnMj97x) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Pronounced' Leh\-'Nerd 'Skin\-'Nerd](https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs) | 4:27 |
-| 53 | [Runnin' with the Devil \- 2015 Remaster](https://open.spotify.com/track/3KhF2YiNpJvGpfiCW45R6D) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen \(Remastered\)](https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ) | 3:34 |
+| 53 | [Ain't Talkin' 'Bout Love \- 2015 Remaster](https://open.spotify.com/track/6fybp4N6eW3bsFAvARxyVe) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen \(Remastered\)](https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ) | 3:47 |
 | 54 | [Nothin' But A Good Time \- Remastered 2006](https://open.spotify.com/track/2V8KvnD5LVeeDChMWEkSzC) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Open Up And Say...Ahh! \(20th Anniversary Edition\)](https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd) | 3:44 |
 | 55 | [Pinball Wizard](https://open.spotify.com/track/6LbbHFEajG9e4m0G3L47c4) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 3:00 |
 | 56 | [Photograph](https://open.spotify.com/track/18URo35acNKRTHfEdjTcGn) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Pyromania](https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d) | 4:07 |
 | 57 | [Kashmir \- Remaster](https://open.spotify.com/track/6Vjk8MNXpQpi0F4BefdTyq) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Physical Graffiti \(Deluxe Edition\)](https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y) | 8:37 |
-| 58 | [Ain't Talkin' 'Bout Love \- 2015 Remaster](https://open.spotify.com/track/6fybp4N6eW3bsFAvARxyVe) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen \(Remastered\)](https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ) | 3:47 |
+| 58 | [Runnin' with the Devil \- 2015 Remaster](https://open.spotify.com/track/3KhF2YiNpJvGpfiCW45R6D) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen \(Remastered\)](https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ) | 3:34 |
 | 59 | [Born To Be Wild \- Single Version](https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [Steppenwolf](https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8) | 3:32 |
 | 60 | [Renegade](https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Pieces Of Eight](https://open.spotify.com/album/294yFGYq9SBXWR4g6dK63D) | 4:17 |
 | 61 | [The Stroke \- Remastered 2010](https://open.spotify.com/track/52KvuGmgcgRdrLMXOtda0E) | [Billy Squier](https://open.spotify.com/artist/3Fz2GbraVXhcpXnoi2Oe1r) | [Don't Say No \(Remastered 2010\)](https://open.spotify.com/album/6TwlLNU5Zd9qGuNgSLeWPt) | 3:37 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNSm3Z3MxiM.md) - [plain]
 | 64 | [Refugee](https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Damn The Torpedoes \(Deluxe Edition\)](https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b) | 3:21 |
 | 65 | [Slow Ride \- Edit](https://open.spotify.com/track/4MYb7NWLwXNDB7bYs3HeX8) | [Foghat](https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq) | [Slow Ride / Save Your Loving \(For Me\)](https://open.spotify.com/album/26m6IjR3ZAUsYqSekFKqCq) | 3:52 |
 
-Snapshot ID: `MCw0NjMzYTkzZjM2MmUxMmJlNzI1M2M0MGIwMTExNTY3NTVjNWMyMTk2`
+Snapshot ID: `MCxjY2EwZDM1YmQwODllNTYzNGM4MDI5YWIxZjk4MTI2YzA0N2ZmNDcy`

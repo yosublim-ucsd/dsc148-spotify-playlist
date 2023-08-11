@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 116461,
+  "num_followers": 116479,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTRhYWUzYjBkMDY0ZjUyMzVhOWRiOGRmY2RhYzkzOTI0OTRlNjli",
+  "snapshot_id": "MCw0ZDYxMWZhNTk0YjQ3MWYxNzc0ZjM2MmJiMzRmNjhkNmNjYmY4MWYx",
   "tracks": [
     {
       "added_at": "2023-07-07 06:04:16",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-07-07 06:04:16",
       "album": {
-        "name": "Para Dias Ruins",
-        "url": "https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT"
-      },
-      "artists": [
-        {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
-        }
-      ],
-      "duration_ms": 190387,
-      "name": "Qual \u00c9 A Sua?",
-      "url": "https://open.spotify.com/track/62WFjVVAPJfBETQ574qJMP"
-    },
-    {
-      "added_at": "2023-07-07 06:04:16",
-      "album": {
         "name": "Num Mundo de Paz",
         "url": "https://open.spotify.com/album/4qp1Py4SsDovYGY21R3fKu"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 342514,
       "name": "Num Mundo de Paz",
       "url": "https://open.spotify.com/track/6zZbf1v1Ngdc52IzlVCPUP"
+    },
+    {
+      "added_at": "2023-07-07 06:04:16",
+      "album": {
+        "name": "Para Dias Ruins",
+        "url": "https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT"
+      },
+      "artists": [
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        }
+      ],
+      "duration_ms": 190387,
+      "name": "Qual \u00c9 A Sua?",
+      "url": "https://open.spotify.com/track/62WFjVVAPJfBETQ574qJMP"
     },
     {
       "added_at": "2023-07-07 06:04:16",
@@ -751,6 +751,26 @@
     {
       "added_at": "2023-07-07 06:04:16",
       "album": {
+        "name": "Casas",
+        "url": "https://open.spotify.com/album/37svAARdwTp6vApCWBwoec"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 294049,
+      "name": "Mantra (feat. Emicida)",
+      "url": "https://open.spotify.com/track/4pkcufYBrwhYMi5mZ8276B"
+    },
+    {
+      "added_at": "2023-07-07 06:04:16",
+      "album": {
         "name": "Soft Power",
         "url": "https://open.spotify.com/album/1BTjS1GvXAOauIJeK2ppmW"
       },
@@ -787,22 +807,6 @@
     {
       "added_at": "2023-07-07 06:04:16",
       "album": {
-        "name": "sexto sentido",
-        "url": "https://open.spotify.com/album/2NMMRFtASnOSdzLzQBY4mg"
-      },
-      "artists": [
-        {
-          "name": "Luana Berti",
-          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
-        }
-      ],
-      "duration_ms": 156690,
-      "name": "sexto sentido",
-      "url": "https://open.spotify.com/track/2hdYIAUXuEMrBXt3xYY8eX"
-    },
-    {
-      "added_at": "2023-07-07 06:04:16",
-      "album": {
         "name": "Trevo, Figuinha e Suor na Camisa",
         "url": "https://open.spotify.com/album/5AYV4MJslPN48xaab39ZuW"
       },
@@ -823,22 +827,18 @@
     {
       "added_at": "2023-07-07 06:04:16",
       "album": {
-        "name": "Casas",
-        "url": "https://open.spotify.com/album/37svAARdwTp6vApCWBwoec"
+        "name": "sexto sentido",
+        "url": "https://open.spotify.com/album/2NMMRFtASnOSdzLzQBY4mg"
       },
       "artists": [
         {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+          "name": "Luana Berti",
+          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
         }
       ],
-      "duration_ms": 294049,
-      "name": "Mantra (feat. Emicida)",
-      "url": "https://open.spotify.com/track/4pkcufYBrwhYMi5mZ8276B"
+      "duration_ms": 156690,
+      "name": "sexto sentido",
+      "url": "https://open.spotify.com/track/2hdYIAUXuEMrBXt3xYY8eX"
     },
     {
       "added_at": "2023-07-07 06:04:16",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-07-07 06:04:16",
       "album": {
-        "name": "Viver (Mais leve que o ar)",
-        "url": "https://open.spotify.com/album/2TSwxXVstj31Js9PAgJ55u"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
-        }
-      ],
-      "duration_ms": 259453,
-      "name": "Gold Coast",
-      "url": "https://open.spotify.com/track/27hudnRUnesKNOZoiuLPVs"
-    },
-    {
-      "added_at": "2023-07-07 06:04:16",
-      "album": {
         "name": "AS PALAVRAS, VOL. 1 & 2",
         "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 234712,
       "name": "Posso Dizer",
       "url": "https://open.spotify.com/track/3c52mFHpwz4BW66uPsXzRO"
+    },
+    {
+      "added_at": "2023-07-07 06:04:16",
+      "album": {
+        "name": "Viver (Mais leve que o ar)",
+        "url": "https://open.spotify.com/album/2TSwxXVstj31Js9PAgJ55u"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+        }
+      ],
+      "duration_ms": 259453,
+      "name": "Gold Coast",
+      "url": "https://open.spotify.com/track/27hudnRUnesKNOZoiuLPVs"
     },
     {
       "added_at": "2023-07-07 06:04:16",

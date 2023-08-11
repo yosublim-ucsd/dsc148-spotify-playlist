@@ -4,7 +4,7 @@
 
 > Para ahogar las penas en el fondo de una botella.
 
-320 songs - 17 hr 6 min
+321 songs - 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Amor Tumbado](https://open.spotify.com/track/6RRfUmnxz3Ef4KZxNBSLgV) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Amor Tumbado](https://open.spotify.com/album/4queNC2JHMeqHAR708ppRn) | 2:39 | 2022-06-08 | 2022-12-31 |
 | [Amor Verdadero](https://open.spotify.com/track/1T9fuxX8eO5LbpYxq80faP) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Maldita Traicion](https://open.spotify.com/album/1s5tPLQ8CZguYP8Skuwgas) | 3:07 | 2022-06-08 | 2022-07-29 |
 | [Amorcito Mio](https://open.spotify.com/track/70Gg7ZAnrEzhcIB2zOiyVt) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados \(Live Vol\. 1\)](https://open.spotify.com/album/6zXEcqqa4uHq4rg62M0Fxj) | 3:23 | 2022-06-08 | 2022-07-28 |
+| [Amorcito Mio \- En Vivo](https://open.spotify.com/track/31UICcEejwN9HFOgbc17KS) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg) | 3:23 | 2023-04-14 |  |
 | [Amorcito Mío \- Live](https://open.spotify.com/track/0iOZvZee49EgTNJEBm1VbC) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados Vol\. 1 \(Live\)](https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K) | 3:23 | 2022-06-08 | 2023-08-09 |
 | [Angel o Demonio](https://open.spotify.com/track/3n6PQ3RroS5Q1ZstcUBFfT) | [Luisito Muñoz](https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P), [Fredy Montoya](https://open.spotify.com/artist/226KQHhYMB4ss3DyK17zk9) | [Angel o Demonio](https://open.spotify.com/album/1rrKKryerzTqOR7BZ0lARv) | 3:19 | 2022-06-08 | 2022-07-26 |
 | [Aquí Abajo](https://open.spotify.com/track/16ONd70tvWAaLIc6hcLzaG) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AYAYAY! \(Deluxe\)](https://open.spotify.com/album/6JsZWQ0iaOn0GbirYWqwCi) | 2:23 | 2022-06-08 | 2022-12-31 |
@@ -182,7 +183,7 @@
 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/6mzfmqArdNFYG3ZqM8zFC2) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Trozos De Mi Alma](https://open.spotify.com/album/750XK6PDJK3u7ZvIFIajqb) | 3:43 | 2022-06-08 | 2023-01-30 |
 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/1661eebjAHPCx0oBrGyuUp) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Antología \(80 Clásicos\)](https://open.spotify.com/album/66EaV8mdSJpXgZKtdF0DeG) | 3:45 | 2022-06-08 | 2022-07-29 |
 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/5obxcZHZMJRx4ynD8SxEoz) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [FAVORITAS CON AMOR Vol\. 2](https://open.spotify.com/album/0syW2iMTuETtexNib0YXiQ) | 3:48 | 2022-12-30 |  |
-| [Mi Ex](https://open.spotify.com/track/6jD818CoibqddGqCEyhjCy) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz) | [Imparables](https://open.spotify.com/album/5HVoQdtTpBV5ek4cEKTKrO) | 4:44 | 2022-12-30 |  |
+| [Mi Ex](https://open.spotify.com/track/6jD818CoibqddGqCEyhjCy) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz) | [Imparables](https://open.spotify.com/album/5HVoQdtTpBV5ek4cEKTKrO) | 4:44 | 2022-12-30 | 2023-08-11 |
 | [Mi Pasión Recordaras](https://open.spotify.com/track/3ewCNnIQmHB8gh8zvwRMKQ) | [Luis Alberto Posada](https://open.spotify.com/artist/70OAdYggwWl6EApsgp1jNX), [Los Inolvidables de Apia](https://open.spotify.com/artist/5M6A7BlORhTtf2B2lEsu6l) | [Grandes Éxitos de Luis Alberto Posada Con los Inolvidables de Apia](https://open.spotify.com/album/6QLtJEtHHAkmH0Tn7zhW4c) | 3:25 | 2022-06-08 | 2022-07-29 |
 | [Mi Renuncia](https://open.spotify.com/track/7em1GCdeDU60h5r6WUlEIU) | [Darío Gómez](https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM) | [Que Sea un Motivo \(30 Años de Vida Artística\)](https://open.spotify.com/album/5aKg3XbB8O5OJ95PnCOs8B) | 3:20 | 2022-06-08 | 2022-07-29 |
 | [Mi Venganza](https://open.spotify.com/track/0z7h1C28EemMAFcpkp0iWL) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Mi Venganza](https://open.spotify.com/album/4GrlF2rRb3Xg9o4aPPKOik) | 3:11 | 2022-06-08 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Solo hit rap da ascoltare in loop. Cover: Lazza",
-  "num_followers": 187490,
+  "num_followers": 187635,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGE2YzhlNzM2MjRhZTJiMDAxYWVlYmI0NDYwOWEwOGE4YmQzOWI3",
+  "snapshot_id": "MCw0MzExY2Y5ODBlNzBhZDRkM2U3ODBmNTU3ZWQ1YWIxM2UzMjVhZjMw",
   "tracks": [
     {
       "added_at": "2023-07-18 09:14:25",
@@ -247,26 +247,18 @@
     {
       "added_at": "2023-07-18 09:14:25",
       "album": {
-        "name": "TAXI DRIVER",
-        "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
+        "name": "Sfera Ebbasta",
+        "url": "https://open.spotify.com/album/0jCjYC7ABAxCsSf0wqFbsc"
       },
       "artists": [
         {
-          "name": "Rkomi",
-          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
-        },
-        {
           "name": "Sfera Ebbasta",
           "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Junior K",
-          "url": "https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ"
         }
       ],
-      "duration_ms": 176772,
-      "name": "NUOVO RANGE (con SFERA EBBASTA)",
-      "url": "https://open.spotify.com/track/5YSR0sWUZk7NuIbkycxndu"
+      "duration_ms": 187573,
+      "name": "Visiera A Becco",
+      "url": "https://open.spotify.com/track/4ySxBjhmdnkeFUqhKxW3cY"
     },
     {
       "added_at": "2023-07-18 09:14:25",
@@ -307,18 +299,26 @@
     {
       "added_at": "2023-07-18 09:14:25",
       "album": {
-        "name": "Sfera Ebbasta",
-        "url": "https://open.spotify.com/album/0jCjYC7ABAxCsSf0wqFbsc"
+        "name": "TAXI DRIVER",
+        "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
       },
       "artists": [
         {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        },
+        {
           "name": "Sfera Ebbasta",
           "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Junior K",
+          "url": "https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ"
         }
       ],
-      "duration_ms": 187573,
-      "name": "Visiera A Becco",
-      "url": "https://open.spotify.com/track/4ySxBjhmdnkeFUqhKxW3cY"
+      "duration_ms": 176772,
+      "name": "NUOVO RANGE (con SFERA EBBASTA)",
+      "url": "https://open.spotify.com/track/5YSR0sWUZk7NuIbkycxndu"
     },
     {
       "added_at": "2023-07-18 09:14:25",
@@ -583,26 +583,6 @@
     {
       "added_at": "2023-07-18 09:14:25",
       "album": {
-        "name": "Orange County California",
-        "url": "https://open.spotify.com/album/7GWVPJPcu8o1LCw94e5Rew"
-      },
-      "artists": [
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 198026,
-      "name": "Lingerie",
-      "url": "https://open.spotify.com/track/1HEGcG1QUJfyyPfq5EMF9b"
-    },
-    {
-      "added_at": "2023-07-18 09:14:25",
-      "album": {
         "name": "20",
         "url": "https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 185146,
       "name": "Tesla (feat. Sfera Ebbasta & DrefGold)",
       "url": "https://open.spotify.com/track/093RgZ7RXHZwIrxZhZYX4Q"
+    },
+    {
+      "added_at": "2023-07-18 09:14:25",
+      "album": {
+        "name": "Orange County California",
+        "url": "https://open.spotify.com/album/7GWVPJPcu8o1LCw94e5Rew"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 198026,
+      "name": "Lingerie",
+      "url": "https://open.spotify.com/track/1HEGcG1QUJfyyPfq5EMF9b"
     },
     {
       "added_at": "2023-07-18 09:14:25",
@@ -979,38 +979,6 @@
     {
       "added_at": "2023-07-18 09:14:25",
       "album": {
-        "name": "Rozzi",
-        "url": "https://open.spotify.com/album/1VE1SYRNN6bjR1NAoJupok"
-      },
-      "artists": [
-        {
-          "name": "Paky",
-          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
-        }
-      ],
-      "duration_ms": 163053,
-      "name": "Rozzi",
-      "url": "https://open.spotify.com/track/3Y00k9cPoW8BnJesUEFoWn"
-    },
-    {
-      "added_at": "2023-07-18 09:14:25",
-      "album": {
-        "name": "Dark Love EP",
-        "url": "https://open.spotify.com/album/5Z5JxIgeTDnZdg6pLootUs"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 176245,
-      "name": "Pensando a lei",
-      "url": "https://open.spotify.com/track/2d0ZupCYQL3ME43vB3Dei3"
-    },
-    {
-      "added_at": "2023-07-18 09:14:25",
-      "album": {
         "name": "Mr. Fini",
         "url": "https://open.spotify.com/album/5W43G0FSXOgTFCSfnnwxcf"
       },
@@ -1031,6 +999,38 @@
       "duration_ms": 201931,
       "name": "Chico (feat. Rose Villain & Luch\u00e8)",
       "url": "https://open.spotify.com/track/3sUzeeqRtfBfJAkk8qb8Pd"
+    },
+    {
+      "added_at": "2023-07-18 09:14:25",
+      "album": {
+        "name": "Dark Love EP",
+        "url": "https://open.spotify.com/album/5Z5JxIgeTDnZdg6pLootUs"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 176245,
+      "name": "Pensando a lei",
+      "url": "https://open.spotify.com/track/2d0ZupCYQL3ME43vB3Dei3"
+    },
+    {
+      "added_at": "2023-07-18 09:14:25",
+      "album": {
+        "name": "Rozzi",
+        "url": "https://open.spotify.com/album/1VE1SYRNN6bjR1NAoJupok"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "duration_ms": 163053,
+      "name": "Rozzi",
+      "url": "https://open.spotify.com/track/3Y00k9cPoW8BnJesUEFoWn"
     },
     {
       "added_at": "2023-07-18 09:14:25",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2023-07-18 09:14:25",
       "album": {
-        "name": "Come Uccidere Un Usignolo",
-        "url": "https://open.spotify.com/album/2MEJwoXq5hRxCU2vzOhwIp"
+        "name": "Potere",
+        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
       },
       "artists": [
         {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
         }
       ],
-      "duration_ms": 206510,
-      "name": "Bella",
-      "url": "https://open.spotify.com/track/7CxLQIq4kIq8P8UwemcKfX"
+      "duration_ms": 180009,
+      "name": "Torna Da Me",
+      "url": "https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4"
     },
     {
       "added_at": "2023-07-18 09:14:25",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2023-07-18 09:14:25",
       "album": {
-        "name": "Potere",
-        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
+        "name": "Come Uccidere Un Usignolo",
+        "url": "https://open.spotify.com/album/2MEJwoXq5hRxCU2vzOhwIp"
       },
       "artists": [
         {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
         }
       ],
-      "duration_ms": 180009,
-      "name": "Torna Da Me",
-      "url": "https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4"
+      "duration_ms": 206510,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/7CxLQIq4kIq8P8UwemcKfX"
     },
     {
       "added_at": "2023-07-18 09:14:25",

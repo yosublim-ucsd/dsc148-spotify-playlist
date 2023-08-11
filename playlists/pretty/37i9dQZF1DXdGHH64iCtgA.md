@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 
 > Strut to electronic tracks that grace runways in Paris, New York City and Milan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,115 likes - 100 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,158 likes - 100 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 61 | [TASTY \- Boys Noize Remix](https://open.spotify.com/track/4InDcTU0WkizVukh4Yua0Q) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [TASTY](https://open.spotify.com/album/7zp2TBTMWbmiDWAVh8yfpB) | 3:50 |
 | 62 | [Naked City](https://open.spotify.com/track/6e4KfKMfBQKXOHO2fgweVT) | [Glass Candy](https://open.spotify.com/artist/7atGlyFY5574ph1tGMs6gD) | [Naked City](https://open.spotify.com/album/0JN9Za7vTgRgRjS5Zv08hy) | 2:36 |
 | 63 | [BLACK MAGIC](https://open.spotify.com/track/3VNFtgC51Emt7XfWZWhPhD) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [REBELS NEVER DIE](https://open.spotify.com/album/5OU4esREA0HLwNekPigYeZ) | 4:05 |
-| 64 | [Thank God I'm A Lizard](https://open.spotify.com/track/2nm6Vs67PYPj7EfFoE2L49) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Family Portrait](https://open.spotify.com/album/24eRSwYbneTDkehVHM2MVf) | 5:06 |
-| 65 | [Let the Beat Control Your Body](https://open.spotify.com/track/5Ku0pfmAZUyEbO5grfQsyP) | [Brodinski](https://open.spotify.com/artist/0ZurilbRp6KwW6dpaw4pEK), [Louisahhh](https://open.spotify.com/artist/42TogPbYEXl164PrqTEVBW) | [Bromance \#1 \- Single](https://open.spotify.com/album/50jBbRc85Two6YRoGbsGWt) | 5:11 |
+| 64 | [Let the Beat Control Your Body](https://open.spotify.com/track/5Ku0pfmAZUyEbO5grfQsyP) | [Brodinski](https://open.spotify.com/artist/0ZurilbRp6KwW6dpaw4pEK), [Louisahhh](https://open.spotify.com/artist/42TogPbYEXl164PrqTEVBW) | [Bromance \#1 \- Single](https://open.spotify.com/album/50jBbRc85Two6YRoGbsGWt) | 5:11 |
+| 65 | [Thank God I'm A Lizard](https://open.spotify.com/track/2nm6Vs67PYPj7EfFoE2L49) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Family Portrait](https://open.spotify.com/album/24eRSwYbneTDkehVHM2MVf) | 5:06 |
 | 66 | [Iron 2021](https://open.spotify.com/track/6gO9T45Ljz1rQ4GR8KZDA4) | [Woodkid](https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9) | [Iron 2021](https://open.spotify.com/album/30PoY1KGLDKYIZzShg2zCt) | 8:43 |
 | 67 | [Sharevari](https://open.spotify.com/track/2Bk2Oaz7u7F6yWsSyG8G1b) | [Aidan Noell](https://open.spotify.com/artist/7oAY9XKP6pjl3hIjvuoRCm), [Nancy Whang](https://open.spotify.com/artist/0xDT2bQJYfy8CYs8JlmH3B) | [Sharevari](https://open.spotify.com/album/4TZbGH2OySYi5WnA4tuh1l) | 5:51 |
 | 68 | [Musique](https://open.spotify.com/track/2easgxsXK5j6lNp63yZF7S) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Musique, Vol\. 1](https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4) | 6:53 |
@@ -85,10 +85,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 75 | [Let It Go](https://open.spotify.com/track/2sHioVLAzKoqxuqJv51L7i) | [KITTENS](https://open.spotify.com/artist/1TjmRAj3JWRf7feuDKMrXM) | [Let It Go](https://open.spotify.com/album/0fMlGSOlXFyQxg150u5DQZ) | 3:07 |
 | 76 | [Strut](https://open.spotify.com/track/3VICFKiIgp3V8OwOLZq4LL) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Strut](https://open.spotify.com/album/0iOUZ34Y3qWJAFqxBgcCRp) | 2:36 |
 | 77 | [On Your Mind](https://open.spotify.com/track/3D9xV9vmNNSLEItOtlPILE) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [On Your Mind](https://open.spotify.com/album/6cWWxdWRhOhoS0cPYOmE5d) | 4:06 |
-| 78 | [U Wanna?](https://open.spotify.com/track/0lhWFpWU9NgQ2j7FuvjXH1) | [TT The Artist](https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr), [Sir JoQ](https://open.spotify.com/artist/0t2ATkbihdqPzUaE9PZaEs) | [U Wanna?](https://open.spotify.com/album/7wicSDee8Jznltmn6Bk9ZO) | 4:10 |
-| 79 | [Burner](https://open.spotify.com/track/79FRd4gq3o7yXSexLVsAFh) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Burner](https://open.spotify.com/album/1H2xgpZ4h6MAAlRnZxGKjl) | 5:08 |
-| 80 | [Flutter](https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Bend](https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC) | 5:21 |
-| 81 | [Fuck](https://open.spotify.com/track/3YpstqktwRasn3mhL2agCe) | [Mari Ferrari](https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs) | [Fuck](https://open.spotify.com/album/00HQCvAcHBzoOoj1C6iMxe) | 2:54 |
+| 78 | [Fuck](https://open.spotify.com/track/3YpstqktwRasn3mhL2agCe) | [Mari Ferrari](https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs) | [Fuck](https://open.spotify.com/album/00HQCvAcHBzoOoj1C6iMxe) | 2:54 |
+| 79 | [U Wanna?](https://open.spotify.com/track/0lhWFpWU9NgQ2j7FuvjXH1) | [TT The Artist](https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr), [Sir JoQ](https://open.spotify.com/artist/0t2ATkbihdqPzUaE9PZaEs) | [U Wanna?](https://open.spotify.com/album/7wicSDee8Jznltmn6Bk9ZO) | 4:10 |
+| 80 | [Burner](https://open.spotify.com/track/79FRd4gq3o7yXSexLVsAFh) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Burner](https://open.spotify.com/album/1H2xgpZ4h6MAAlRnZxGKjl) | 5:08 |
+| 81 | [Flutter](https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Bend](https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC) | 5:21 |
 | 82 | [Electrian](https://open.spotify.com/track/6pErJ8bs3zL996xN0j93RF) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Galazy EP](https://open.spotify.com/album/1PULF355Ilwz6D00dFF1cn) | 6:52 |
 | 83 | [Beograd \- Edit](https://open.spotify.com/track/3gx1D5cgZgLnPiKLstrmtJ) | [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Thirst](https://open.spotify.com/album/7AoXn0h3P8wtRN36CrA14y) | 3:36 |
 | 84 | [Cirrus](https://open.spotify.com/track/2hNTfrAILBLesbPootV83e) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Cirrus](https://open.spotify.com/album/6Yok6Vb8HTdoGf06XRsBsn) | 5:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 99 | [Lucky](https://open.spotify.com/track/5Msk5Zka4UHzKqajJg5y5a) | [Club Eat](https://open.spotify.com/artist/073L1kDK5ruwVLIRHGQgwc) | [Club Eat](https://open.spotify.com/album/3gP8Uueu9UuhRIFrwKEcWR) | 3:54 |
 | 100 | [Blessed \- Virgil Abloh Future\-Jazz Remix](https://open.spotify.com/track/0n5lyd7CH2765y89ayEwHN) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Virgil Abloh](https://open.spotify.com/artist/6zKRU70JFcCQtP3vKV4ANm) | [Blessed / Cleopatra Remixes](https://open.spotify.com/album/5CgPI0nQzecD4IeCx6tEVg) | 6:38 |
 
-Snapshot ID: `MCw1NjU4YTEwYzllOWZkODBlYjljOGFkMzhlYmJkM2E1MGYyODE5M2Vj`
+Snapshot ID: `MCw0YmIwNDk4NDYxNzYzYTc5OWRlM2M2ZjBjMDQwMmI5ZDEyYjU2Mzhj`

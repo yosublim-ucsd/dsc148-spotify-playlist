@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Eli Rose
 
-1,974 songs - 4 day 9 hr 26 min
+1,975 songs - 4 day 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Athena](https://open.spotify.com/track/5jF5r2rB9ofhg7UWPHVZCg) | [Mitso](https://open.spotify.com/artist/6K1YP5VKK70aE35zG7t3sV) | [Athena](https://open.spotify.com/album/4e7KdZt1UnGMqGwhsmTLG3) | 3:04 | 2022-08-26 | 2022-09-10 |
 | [Attiser le dilemme](https://open.spotify.com/track/1gHoumFURkkUQdnMG2Qp2Q) | [Rosie Valland](https://open.spotify.com/artist/4lJWbDc6yz6JDL99fbSq5C) | [Attiser le dilemme](https://open.spotify.com/album/5h8BR1RGfnFOyKwCKStdGG) | 2:59 | 2022-04-15 | 2022-04-29 |
 | [Attrape\-moi si tu peux](https://open.spotify.com/track/57ixH2CoJSG4vPPFHuWJhr) | [Die\-On](https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3), [Zagata](https://open.spotify.com/artist/0t1AIXeal0Ft3mI8ML89JZ) | [Attrape\-moi si tu peux](https://open.spotify.com/album/7loflFAMtP4zW5gGTYXZAd) | 2:59 | 2022-11-04 | 2022-11-26 |
+| [Au bord de la mer](https://open.spotify.com/track/4JRzne9QPdoRTipanGEqh3) | [Chiloo](https://open.spotify.com/artist/0DjR09NBgtZbkOnBZays9o) | [Au bord de la mer](https://open.spotify.com/album/68QdmvGYzprjbODlaItocj) | 3:13 | 2023-08-04 |  |
 | [Au bout du monde](https://open.spotify.com/track/6hcoT48e93uJSiqES3eKMy) | [Jeffrey Piton](https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8) | [Au bout du monde](https://open.spotify.com/album/3GglngNuy4H740Q3cfTv31) | 2:53 | 2022-02-25 | 2022-03-12 |
 | [AU CLUB](https://open.spotify.com/track/6oWrryCpI5lzPdJpqnuOPO) | [Krisy](https://open.spotify.com/artist/6RwBaA9wZC0BPWZfmGeWMo) | [ENTRE VOUS ET MOI..\. FROM BXL WITH LOVE](https://open.spotify.com/album/1ilQtyyGBHVrmzXnWNNU8z) | 1:48 | 2021-12-31 | 2022-01-22 |
 | [Au Revoir](https://open.spotify.com/track/2zxtu71cOoxNztIFjykoqj) | [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ) | [Au Revoir](https://open.spotify.com/album/6WUMKixxaV76GHEARxObcA) | 2:46 | 2022-08-26 | 2022-09-03 |
@@ -1253,7 +1254,7 @@
 | [Mère guerrière](https://open.spotify.com/track/7IdNgjG7t2BmPLLDW2YP5r) | [Ghys Mongeon](https://open.spotify.com/artist/4KRWKYdzDTFJmiGDM4emL7) | [Mère guerrière](https://open.spotify.com/album/7gn3lSDEYn3ANskW9ZP1mZ) | 3:26 | 2022-11-11 | 2022-11-26 |
 | [Mères](https://open.spotify.com/track/3oT9wRGegiAcMp8T798k4e) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Mères](https://open.spotify.com/album/6QMvif9c8hUCi2Vp8dz7BY) | 4:33 | 2022-09-23 | 2022-10-08 |
 | [Méchante](https://open.spotify.com/track/5k5duWxo5HqhetBe6ucgZJ) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Méchante](https://open.spotify.com/album/1k6MS0e5EMEkCDZ88fiLQ5) | 2:51 | 2022-06-17 | 2022-07-09 |
-| [Méditerranée](https://open.spotify.com/track/1YydAnEuRJGKbFUYEE8HUz) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD) | [Méditerranée](https://open.spotify.com/album/57z5mtYpxfIYVsLWMq6nu4) | 3:03 | 2023-07-21 |  |
+| [Méditerranée](https://open.spotify.com/track/1YydAnEuRJGKbFUYEE8HUz) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD) | [Méditerranée](https://open.spotify.com/album/57z5mtYpxfIYVsLWMq6nu4) | 3:03 | 2023-07-21 | 2023-08-11 |
 | [Médusa](https://open.spotify.com/track/10ldpxCXzJi4DhccyUQ8OI) | [La Fièvre](https://open.spotify.com/artist/72qOAjGIqkKzpQEWv2KuHW), [Narcisse](https://open.spotify.com/artist/1GY5zIB9GwQQcjruxXLfCN) | [Médusa](https://open.spotify.com/album/1KSm1iHAEin2JFbJSU0hmw) | 3:41 | 2021-12-31 | 2022-01-08 |
 | [Mélodie](https://open.spotify.com/track/5WtVhKKPkobhT9K1ddMBpH) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Mélodie / Rodeo](https://open.spotify.com/album/5y4jwPzUYpj75kbgcBt00j) | 2:30 | 2022-03-04 | 2022-03-18 |
 | [Mélodie](https://open.spotify.com/track/1tbm5tlN9Ug62ZvNX1Q3sd) | [Shotto Guapo](https://open.spotify.com/artist/5Gk8TXAgkY02R4PPtVrhvC), [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h) | [Mélodie](https://open.spotify.com/album/79EX9rxnUEWMjRQfOYDzNf) | 3:33 | 2022-05-06 | 2022-05-20 |

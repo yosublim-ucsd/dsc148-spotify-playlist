@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,215 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,221 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 12 | [Bom](https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅠ Bom](https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg) | 3:37 |
 | 13 | [Beyond My Dreams](https://open.spotify.com/track/5NVkktUlAylhk7f0t63eth) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Extraordinary Attorney Woo \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/6WHeV5qrp1tAPcMJ0ieZts) | 3:05 |
 | 14 | [Gift](https://open.spotify.com/track/5eO04wLeM487N9qhPHPPoB) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Moonlight](https://open.spotify.com/album/46uEItiUj8dJavY8Jw3fye) | 4:20 |
-| 15 | [나무](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [나무](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 |
-| 16 | [두 사람](https://open.spotify.com/track/3tEPgUhheyOJQhnH2IwQna) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [4집 \- 다시 꿈꾸고 싶다](https://open.spotify.com/album/1eXaht7XauVPJeXQZXekWR) | 4:16 |
+| 15 | [두 사람](https://open.spotify.com/track/3tEPgUhheyOJQhnH2IwQna) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [4집 \- 다시 꿈꾸고 싶다](https://open.spotify.com/album/1eXaht7XauVPJeXQZXekWR) | 4:16 |
+| 16 | [나무](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [나무](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 |
 | 17 | [Where the sea sleeps](https://open.spotify.com/track/6zJRgVg9A2EzkZRRzLx3eB) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [The Book of Us : Gluon \- Nothing can tear us apart](https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq) | 4:17 |
 | 18 | [Wait](https://open.spotify.com/track/1gyhtYG9OWOZvhZzDVF6lq) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [LOVE SHOT– The 5th Album Repackage](https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq) | 4:08 |
 | 19 | [Gravity](https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album](https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr) | 3:59 |
@@ -51,14 +51,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 41 | [It′s You](https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [It′s You](https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC) | 3:13 |
 | 42 | [My Day Is Full Of You](https://open.spotify.com/track/2QWa5RjnIGFwraHDPqlhFh) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 10](https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5) | 3:40 |
 | 43 | [Evening \(feat\. BIG Naughty\)](https://open.spotify.com/track/6ZY2EUZjuV9x38AqFdcU6G) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Evening](https://open.spotify.com/album/0mgsPfMEb0YQ42mClBWKc6) | 3:37 |
-| 44 | [Love Song](https://open.spotify.com/track/0HsCULcKWeaF2WdKMTTx8q) | [Kei](https://open.spotify.com/artist/4s8EHPyZqEOYgOPwgpdhmc) | [Tale of the Nine Tailed 1938, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/1Ak7K5Pb4PFpGizV46S8iP) | 3:09 |
-| 45 | [Happy Song](https://open.spotify.com/track/1eUQ5JMD5vGz24Wxcq8fDv) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Our Blues, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/5CkqLnLIpyWKmt6iUIhW5s) | 3:57 |
+| 44 | [Happy Song](https://open.spotify.com/track/1eUQ5JMD5vGz24Wxcq8fDv) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Our Blues, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/5CkqLnLIpyWKmt6iUIhW5s) | 3:57 |
+| 45 | [Love Song](https://open.spotify.com/track/0HsCULcKWeaF2WdKMTTx8q) | [Kei](https://open.spotify.com/artist/4s8EHPyZqEOYgOPwgpdhmc) | [Tale of the Nine Tailed 1938, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/1Ak7K5Pb4PFpGizV46S8iP) | 3:09 |
 | 46 | [Shooting Star](https://open.spotify.com/track/2CecbOSkOaZ2lQFVtOVTlT) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Omnibus, Pt\. 2: Inside Out](https://open.spotify.com/album/5JxvBJJnSkZt5RXWITnO9A) | 3:52 |
 | 47 | [ANYWHERE ANYTIME](https://open.spotify.com/track/70l9WbRhCmYrnT02psPSMv) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [1,2,3..](https://open.spotify.com/album/2uQEtB8QzLCZARbYmnnaUf) | 2:36 |
 | 48 | [About You](https://open.spotify.com/track/3Pc9NJtnXnFdhmqcQWXZnF) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [YUMI's Cells 2, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/3g8K5V6U4ZkEC1X7rRZoBo) | 3:15 |
 | 49 | [Take My Hand](https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Webtoon YEONNOM OST Part.1](https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv) | 3:40 |
-| 50 | [with you \(feat\. g0nny\)](https://open.spotify.com/track/32CXBkgJ0rRsvEvBPT5bYP) | [KOREA CRACKER](https://open.spotify.com/artist/0SciAzspUVXo1F4txGErsz), [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [with you \(feat\. g0nny\)](https://open.spotify.com/album/38jEKpk2q846icctNoaDKk) | 2:59 |
-| 51 | [Amazing You](https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [The 3rd Digital Single \`Amazing You'](https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy) | 4:56 |
+| 50 | [Amazing You](https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [The 3rd Digital Single \`Amazing You'](https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy) | 4:56 |
+| 51 | [with you \(feat\. g0nny\)](https://open.spotify.com/track/32CXBkgJ0rRsvEvBPT5bYP) | [KOREA CRACKER](https://open.spotify.com/artist/0SciAzspUVXo1F4txGErsz), [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [with you \(feat\. g0nny\)](https://open.spotify.com/album/38jEKpk2q846icctNoaDKk) | 2:59 |
 | 52 | [Fall In Love](https://open.spotify.com/track/4phlOc7UwErl5sRQb4n4S1) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [Love Alarm CLAP! CLAP! CLAP! OST](https://open.spotify.com/album/0oxUPIv2BUNaag8cyKfT7L) | 4:10 |
 | 53 | [Love in the Milky Way Cafe](https://open.spotify.com/track/6k6Llm7Kw3Ad1Xo1e6sIcR) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [1.0](https://open.spotify.com/album/2NQxbsV4UYXegJQWbzLR2c) | 2:52 |
 | 54 | [For You](https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [For You](https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN) | 3:04 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 57 | [Everyday](https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [YUMI's Cells 2, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4) | 3:44 |
 | 58 | [I Will Be By Your Side](https://open.spotify.com/track/7gWKxBSrDUfs4dWaneLVKm) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [A Korean Odyssey \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/6AB63xLs034lp5hjjB3MJP) | 4:04 |
 | 59 | [Lean On Me](https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [A\-TEEN2 Part.1](https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa) | 3:30 |
-| 60 | [At Night](https://open.spotify.com/track/4BiLpvhNDqeRPo065ZMCqB) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Crash Course in Romance OST Part 4](https://open.spotify.com/album/460aXMPaEyerh9lPpwsxCn) | 2:52 |
+| 60 | [You Move Me \(feat\. SUNG SI KYUNG\)](https://open.spotify.com/track/23QC5sdQRB4Oqp6iviqIFc) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 3:40 |
 
-Snapshot ID: `MCxmMDc4ZTA4MTc0OWIxNTBkZWQ3Y2U3Y2E5Y2M0MjBmMzEzOWI5OGQz`
+Snapshot ID: `MCwxYjM3MjIxZTI1N2I0NzNhYzg4NjRiNjUyY2UzMWEyMjRkOWJmMDk2`

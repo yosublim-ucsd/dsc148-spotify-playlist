@@ -204,7 +204,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 140246,
       "name": "All Over You",
       "url": "https://open.spotify.com/track/4p5x9gioMn5CYZCuRGo1Kz"
@@ -255,6 +255,32 @@
     },
     {
       "album": {
+        "name": "Anti Social",
+        "url": "https://open.spotify.com/album/25C8gnQsB3VNJgr5ldcNf5"
+      },
+      "artists": [
+        {
+          "name": "Nektunez",
+          "url": "https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156503,
+      "name": "Anti Social",
+      "url": "https://open.spotify.com/track/0UilWRSaAPqnwdUc9HJfxG"
+    },
+    {
+      "album": {
         "name": "Outlaw",
         "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
       },
@@ -266,7 +292,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 170000,
       "name": "Apollo",
       "url": "https://open.spotify.com/track/1OGZU2zmK6x0UnM3yeZ4lR"
@@ -1710,7 +1736,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 204107,
       "name": "Elon Musk - Remix",
       "url": "https://open.spotify.com/track/68KDqjQ5T2gS0Pk47Somna"
@@ -2048,7 +2074,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 153232,
       "name": "For Daddy",
       "url": "https://open.spotify.com/track/3AqnDZV9TZJU6SfuXK90iT"
@@ -2206,6 +2232,24 @@
       "duration_ms": 157773,
       "name": "Fvck Off",
       "url": "https://open.spotify.com/track/6suEGaFoeHV8eNQau8itvT"
+    },
+    {
+      "album": {
+        "name": "Unruly",
+        "url": "https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134559,
+      "name": "Gaza",
+      "url": "https://open.spotify.com/track/6lrAyxpomr1dkHltiUqWSw"
     },
     {
       "album": {
@@ -4401,6 +4445,24 @@
     },
     {
       "album": {
+        "name": "No Love",
+        "url": "https://open.spotify.com/album/68kx729WvoNUnbfMV8VsMy"
+      },
+      "artists": [
+        {
+          "name": "Korra Obidi",
+          "url": "https://open.spotify.com/artist/5D7ylBByLFxsmDgJ40qoRn"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160313,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/1XnOhq5lHDWOFnjZIj7g6M"
+    },
+    {
+      "album": {
         "name": "Bad Boy Etiquette 101",
         "url": "https://open.spotify.com/album/2DNwwAZeVYl3Ld9zTP4zBA"
       },
@@ -4540,6 +4602,24 @@
       "duration_ms": 203434,
       "name": "One Shokoto (feat. Ajebutter 22)",
       "url": "https://open.spotify.com/track/06QkF0VUAB95p5Ry7WRoPa"
+    },
+    {
+      "album": {
+        "name": "Operation Sweep",
+        "url": "https://open.spotify.com/album/5Z27393Vx6iqkl1dG6mXyq"
+      },
+      "artists": [
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155636,
+      "name": "Operation Sweep",
+      "url": "https://open.spotify.com/track/2exuZNzNYl96pncjTYokOd"
     },
     {
       "album": {
@@ -4752,6 +4832,32 @@
       "duration_ms": 171683,
       "name": "Peace of Mind",
       "url": "https://open.spotify.com/track/7grcWNFVuikupo8Q4hJ9E8"
+    },
+    {
+      "album": {
+        "name": "SOLACE",
+        "url": "https://open.spotify.com/album/5Ne85eKSShHPNuoGZCfBik"
+      },
+      "artists": [
+        {
+          "name": "Uncle Waffles",
+          "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
+        },
+        {
+          "name": "Ice Beats Slide",
+          "url": "https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5"
+        },
+        {
+          "name": "Sbuda Maleather",
+          "url": "https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326048,
+      "name": "Peacock Revisit (feat. Ice Beats Slide & Sbuda Maleather)",
+      "url": "https://open.spotify.com/track/1NQCinyxiglxekxXVPEhnC"
     },
     {
       "album": {
@@ -5858,7 +5964,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 234024,
       "name": "Terminator (feat. Young Jonn)",
       "url": "https://open.spotify.com/track/4jyZRIiSAEkziHwhZsfmXc"

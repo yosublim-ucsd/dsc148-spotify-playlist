@@ -1,12 +1,12 @@
 {
   "description": "Ll\u00e9vatela tranqui con los hits m\u00e1s relajados del urbano.",
-  "num_followers": 167168,
+  "num_followers": 167197,
   "original_name": "Tranqui",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODM0YjFiZDUwN2NhMjYxYzFiODExNzdmMWJlOTMyYmE2NjAzN2E5",
+  "snapshot_id": "MCw5NTYyZTAxZWZlYmU5YzNlNzY4ZDMyNjUzYWEyOWQ2NTFhY2E2Y2M1",
   "tracks": [
     {
       "added_at": "2023-07-28 06:00:00",
@@ -399,6 +399,30 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
+        "name": "Hecho En Medell\u00edn",
+        "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "duration_ms": 233453,
+      "name": "Medallo",
+      "url": "https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
         "name": "Entre Nosotros (Remix) [con Nicki Nicole]",
         "url": "https://open.spotify.com/album/1RXzQq8DhpkYvvbXE9CqLm"
       },
@@ -423,30 +447,6 @@
       "duration_ms": 260000,
       "name": "Entre Nosotros (Remix) [con Nicki Nicole]",
       "url": "https://open.spotify.com/track/4TGwERXRlyQtBdggYTHo6j"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
-        "name": "Hecho En Medell\u00edn",
-        "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        }
-      ],
-      "duration_ms": 233453,
-      "name": "Medallo",
-      "url": "https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
+        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
+        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 139576,
+      "name": "TE DESEO LO MEJOR",
+      "url": "https://open.spotify.com/track/23XjN1s3DZC8Q9ZwuorYY4"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
         "name": "Mal De Amores",
         "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 218800,
       "name": "Marte",
       "url": "https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
-        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
-        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 139576,
-      "name": "TE DESEO LO MEJOR",
-      "url": "https://open.spotify.com/track/23XjN1s3DZC8Q9ZwuorYY4"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -671,6 +671,30 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
+        "name": "Si Me Dices Que S\u00ed",
+        "url": "https://open.spotify.com/album/2U2tXCZs8j0H4NEvhfe4zV"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 211651,
+      "name": "Si Me Dices Que S\u00ed",
+      "url": "https://open.spotify.com/track/56Ta1O7Jxxpjnc6cWdDKUo"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
         "name": "Reinsertado",
         "url": "https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk"
       },
@@ -707,30 +731,6 @@
       "duration_ms": 154520,
       "name": "Mxfix G5",
       "url": "https://open.spotify.com/track/6RvdPXkp63MIt9oNFJBRIz"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
-        "name": "Si Me Dices Que S\u00ed",
-        "url": "https://open.spotify.com/album/2U2tXCZs8j0H4NEvhfe4zV"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 211651,
-      "name": "Si Me Dices Que S\u00ed",
-      "url": "https://open.spotify.com/track/56Ta1O7Jxxpjnc6cWdDKUo"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "SIN PASAPORTE",
-        "url": "https://open.spotify.com/album/1SALlUm92ddn9Ku78OlqhS"
-      },
-      "artists": [
-        {
-          "name": "Jd Pantoja",
-          "url": "https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK"
-        }
-      ],
-      "duration_ms": 128065,
-      "name": "SIN PASAPORTE",
-      "url": "https://open.spotify.com/track/2i5SWPFQ3voJAi50uhMm5D"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Brisa",
         "url": "https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 147598,
       "name": "Volare",
       "url": "https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "SIN PASAPORTE",
+        "url": "https://open.spotify.com/album/1SALlUm92ddn9Ku78OlqhS"
+      },
+      "artists": [
+        {
+          "name": "Jd Pantoja",
+          "url": "https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK"
+        }
+      ],
+      "duration_ms": 128065,
+      "name": "SIN PASAPORTE",
+      "url": "https://open.spotify.com/track/2i5SWPFQ3voJAi50uhMm5D"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1555,6 +1555,26 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
+        "name": "Te Necesito",
+        "url": "https://open.spotify.com/album/0aTJrqOxUoEpXr4EEyX9Tx"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 197960,
+      "name": "Te Necesito",
+      "url": "https://open.spotify.com/track/1iYCHzSdZPPoyWuRAJET0l"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
         "name": "Bayam\u00f3n",
         "url": "https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG"
       },
@@ -1587,26 +1607,6 @@
       "duration_ms": 193112,
       "name": "Casualidad",
       "url": "https://open.spotify.com/track/5FcT2TuosRkokjn3xyncER"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
-        "name": "Te Necesito",
-        "url": "https://open.spotify.com/album/0aTJrqOxUoEpXr4EEyX9Tx"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 197960,
-      "name": "Te Necesito",
-      "url": "https://open.spotify.com/track/1iYCHzSdZPPoyWuRAJET0l"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1759,26 +1759,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Dopamina",
-        "url": "https://open.spotify.com/album/2yYl7Q3GOoBjznGy0Rsc2f"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 199881,
-      "name": "Amor en Coma",
-      "url": "https://open.spotify.com/track/0kRU83ecI57Iw1kPTeUwK5"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Apaga la Luz",
         "url": "https://open.spotify.com/album/4UfXhzN4scJjic6pl8AkAF"
       },
@@ -1795,6 +1775,26 @@
       "duration_ms": 191223,
       "name": "Apaga la Luz",
       "url": "https://open.spotify.com/track/3RcUVxCMyG9HXmmDbNHQmM"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Dopamina",
+        "url": "https://open.spotify.com/album/2yYl7Q3GOoBjznGy0Rsc2f"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 199881,
+      "name": "Amor en Coma",
+      "url": "https://open.spotify.com/track/0kRU83ecI57Iw1kPTeUwK5"
     },
     {
       "added_at": "2023-07-28 06:00:00",

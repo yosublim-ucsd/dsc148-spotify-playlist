@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 
 > Deep, dark, dramatic\. Roots rock, folk, and Americana—with a gothic soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,905 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,178 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 53 | [Meet Me in the Alleyway](https://open.spotify.com/track/1m4E3gYFqZ0RTxGlZWxP7k) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [I'll Never Get out of This World Alive](https://open.spotify.com/album/4TpbQA23m33nGTWzWBkuZy) | 4:25 |
 | 54 | [Gallows Pole](https://open.spotify.com/track/5L1BHZ2uApRTpP95yGykjv) | [Willie Watson](https://open.spotify.com/artist/5j9IEu1SEY0JslCPmfVsgq) | [Folksinger Vol\. 2](https://open.spotify.com/album/2CBLeaL8ProyeOOhc1QFpb) | 4:06 |
 | 55 | [Sharecropper’s Son](https://open.spotify.com/track/5TTctmQn2AlFAgdCB5sGoU) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 3:06 |
-| 56 | [How's It Gonna End](https://open.spotify.com/track/2UZxUSA4TxbS5tXUB5QSoL) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Real Gone \(Remastered\)](https://open.spotify.com/album/6F17MbloTeRoXs7JI3lTHy) | 4:50 |
-| 57 | [Diggin A Grave](https://open.spotify.com/track/5uR72lBzHxcf2YlbK8iRp1) | [Micah P\. Hinson](https://open.spotify.com/artist/6M5FR3JkFFVDkgwtO6Vtz6) | [Micah P\. Hinson and the Opera Circuit](https://open.spotify.com/album/1CIVVV6GUgNfS5nmDh0V5z) | 2:05 |
-| 58 | [Fault Line](https://open.spotify.com/track/1mLlfRGoI7a6qbvyH0Bh2A) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Howl](https://open.spotify.com/album/5yTFClS2dEGZD5IjM9dfrT) | 2:57 |
+| 56 | [Fault Line](https://open.spotify.com/track/1mLlfRGoI7a6qbvyH0Bh2A) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Howl](https://open.spotify.com/album/5yTFClS2dEGZD5IjM9dfrT) | 2:57 |
+| 57 | [How's It Gonna End](https://open.spotify.com/track/2UZxUSA4TxbS5tXUB5QSoL) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Real Gone \(Remastered\)](https://open.spotify.com/album/6F17MbloTeRoXs7JI3lTHy) | 4:50 |
+| 58 | [Diggin A Grave](https://open.spotify.com/track/5uR72lBzHxcf2YlbK8iRp1) | [Micah P\. Hinson](https://open.spotify.com/artist/6M5FR3JkFFVDkgwtO6Vtz6) | [Micah P\. Hinson and the Opera Circuit](https://open.spotify.com/album/1CIVVV6GUgNfS5nmDh0V5z) | 2:05 |
 | 59 | [Magnolia Blues](https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Magnolia Blues](https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr) | 3:28 |
 | 60 | [Herd](https://open.spotify.com/track/7Gp6rliJK9iw8CEJvvD8oe) | [O'Death](https://open.spotify.com/artist/5oTGxE6TDRsEr0jfbIlp7O) | [Out Of Hands We Go](https://open.spotify.com/album/2TBHUDbwjZoNir22a43aSr) | 3:53 |
 | 61 | [Oak Tree](https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 3:00 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 79 | [Long Time Travelin'](https://open.spotify.com/track/2oYGqILoEyt0cTncwjEHk2) | [Anna & Elizabeth](https://open.spotify.com/artist/1Zd2jFygzaM9fyijiieSI7) | [Anna & Elizabeth](https://open.spotify.com/album/71F0gAJ6JYuYhAr98mcoVZ) | 1:28 |
 | 80 | [Hell's Bells](https://open.spotify.com/track/50MNCojhSwCd4QkJ7O80E5) | [Cary Ann Hearst](https://open.spotify.com/artist/2Fwqnm1kpxK4BZgWrsG5qm) | [Lions And Lambs](https://open.spotify.com/album/5sUoqZHXyBK3dm0MR6uxaZ) | 3:36 |
 | 81 | [Fire in the Empire](https://open.spotify.com/track/7nBlwy9FltJKrO23b6edNi) | [William Crighton](https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM) | [Empire](https://open.spotify.com/album/2ayE2lKEyIyBP2EcuWiB0d) | 3:37 |
-| 82 | [Devils](https://open.spotify.com/track/2cjlGKF1b3ZOMWdGJybQNs) | [Amelia Curran](https://open.spotify.com/artist/4ovISfvdFHqGNI4ZuHzh69) | [War Brides](https://open.spotify.com/album/5hglONXTikY7aLfrWbkBjb) | 2:24 |
-| 83 | [Iuka](https://open.spotify.com/track/574zpZaSSWXMhk0eDzHrDn) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Put Your Needle Down](https://open.spotify.com/album/3pinz3pk3eno43xbwqWvok) | 4:42 |
+| 82 | [Iuka](https://open.spotify.com/track/574zpZaSSWXMhk0eDzHrDn) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Put Your Needle Down](https://open.spotify.com/album/3pinz3pk3eno43xbwqWvok) | 4:42 |
+| 83 | [Devils](https://open.spotify.com/track/2cjlGKF1b3ZOMWdGJybQNs) | [Amelia Curran](https://open.spotify.com/artist/4ovISfvdFHqGNI4ZuHzh69) | [War Brides](https://open.spotify.com/album/5hglONXTikY7aLfrWbkBjb) | 2:24 |
 | 84 | [Filthy Dirty South](https://open.spotify.com/track/2VifjGJJ8d0yGUk1LHn81y) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Filthy Dirty South](https://open.spotify.com/album/5o4cfFDhtA8GMYGMsHXLiZ) | 5:46 |
 | 85 | [Psalms](https://open.spotify.com/track/4Q4qJYgs4zZ1FFHX2nleB9) | [Vudu Sister](https://open.spotify.com/artist/5Gu7iDoQjE7anHIbCXckC8) | [Bastard Children](https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG) | 3:40 |
 | 86 | [Boy Got It Bad](https://open.spotify.com/track/3k6QU7zzhlJ8ODb24uuLP9) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [Heatstroke/The Wind and the War](https://open.spotify.com/album/4bU9I5NtFLbmChbhAqGKwJ) | 2:38 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 96 | [Stolen Roses](https://open.spotify.com/track/4iA8sr24vIQkDmNeS8W1RR) | [Karen Elson](https://open.spotify.com/artist/0XKPHX4BZDrtSEr3Pd1Q4k) | [The Ghost Who Walks](https://open.spotify.com/album/3kROejW59eSIewYwDdPtx1) | 3:07 |
 | 97 | [Lay This Body Down](https://open.spotify.com/track/7IBUE2QoRjx5tJFVlsnMDe) | [Sam Lee](https://open.spotify.com/artist/3W9jGHrOdrrv01cVtRhZa7) | [Lay This Body Down](https://open.spotify.com/album/0gx9i6niYyQVggnjFtAzt1) | 4:47 |
 | 98 | [Cadillac Dust](https://open.spotify.com/track/6EqH6OTtC3KMxRsU2OGF9A) | [Elliott BROOD](https://open.spotify.com/artist/51RfVK8q11xKW7bi7bcMpJ) | [Tin Type](https://open.spotify.com/album/1dA2zNQJAgjd7ZO06wZqiu) | 3:14 |
-| 99 | [Saint Elizabeth](https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs) | 3:59 |
-| 100 | [Wrecks](https://open.spotify.com/track/6rpeEqLyn5S7eLT90437HP) | [Lonesome Shack](https://open.spotify.com/artist/72lMhHXgtmKeNQbfT5QLq3) | [More Primitive](https://open.spotify.com/album/6XlYTnLtvFeFpN5BLVALQa) | 4:45 |
+| 99 | [Wrecks](https://open.spotify.com/track/6rpeEqLyn5S7eLT90437HP) | [Lonesome Shack](https://open.spotify.com/artist/72lMhHXgtmKeNQbfT5QLq3) | [More Primitive](https://open.spotify.com/album/6XlYTnLtvFeFpN5BLVALQa) | 4:45 |
+| 100 | [Saint Elizabeth](https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs) | 3:59 |
 
-Snapshot ID: `MCxkZjkyZjgxNDUwZDY0NTVjYWI3Nzc3ZWU3MWVkMDZiZDRmNzE2MGM2`
+Snapshot ID: `MCw5OGUxODQzMTU1YzYwYjA1MmY5MjRmY2NlZThmMDQwMzM1MjY1NDdh`

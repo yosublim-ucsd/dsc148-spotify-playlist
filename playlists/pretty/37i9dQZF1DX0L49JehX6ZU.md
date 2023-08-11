@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0L49JehX6ZU.md) - [plain]
 
 > Pouring Indie tunes for all you bathroom singers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,192 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,253 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0L49JehX6ZU.md) - [plain]
 | 2 | [Chaand Baaliyan](https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Chaand Baaliyan](https://open.spotify.com/album/6AJaDEafyyyWWXHZQtcFGe) | 1:43 |
 | 3 | [Kho Gaye](https://open.spotify.com/track/2QophXhN2Ls2URfoPmiviC) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe), [Mismatched \- Cast](https://open.spotify.com/artist/0NbgKDsEHiPzZBZkqZGkXm) | [Mismatched: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0bPV8j4jfsKeoW5P3YQInX) | 3:17 |
 | 4 | [Lamhey](https://open.spotify.com/track/5Z2GQ0eBKoatNYqbGayihP) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Lamhey](https://open.spotify.com/album/1jZWNePo4dPSElLKJ0I2zA) | 2:28 |
-| 5 | [Tu Aake Dekhle](https://open.spotify.com/track/0yCWDaAgOtg6TKlNCg9rwA) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [The Carnival](https://open.spotify.com/album/7uftfPn8f7lwtRLUrEVRYM) | 4:30 |
-| 6 | [Rangi Saari](https://open.spotify.com/track/3F2BSn4ayglzMwquBRHZq6) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Rangi Saari](https://open.spotify.com/album/47Pfns3lteJ9cVpmRhA7gK) | 3:34 |
+| 5 | [Rangi Saari](https://open.spotify.com/track/3F2BSn4ayglzMwquBRHZq6) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Rangi Saari](https://open.spotify.com/album/47Pfns3lteJ9cVpmRhA7gK) | 3:34 |
+| 6 | [Tu Aake Dekhle](https://open.spotify.com/track/0yCWDaAgOtg6TKlNCg9rwA) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [The Carnival](https://open.spotify.com/album/7uftfPn8f7lwtRLUrEVRYM) | 4:30 |
 | 7 | [Kasoor](https://open.spotify.com/track/08kTa3SL9sV6Iy8KLKtGql) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Kasoor](https://open.spotify.com/album/7rHLltVNJFnZyNIas91XbT) | 3:17 |
 | 8 | [Udd Gaye](https://open.spotify.com/track/5ZsAhuQ24mWHiduaxJqnhW) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Ved](https://open.spotify.com/album/7LPx9F9ZQWWvQlKgIQi1OZ) | 3:00 |
 | 9 | [Aaya Na Tu](https://open.spotify.com/track/3T0oPETOdddxJ2xTt2qJe4) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV) | [Aaya Na Tu](https://open.spotify.com/album/2ZGzoWXjfWxRwepEbS0H1b) | 3:30 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0L49JehX6ZU.md) - [plain]
 | 34 | [Baatein Karo](https://open.spotify.com/track/0defKES0cQIsig27CpfPWx) | [Vayu](https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL) | [Baatein Karo](https://open.spotify.com/album/66vdrbexbgZKs1NkNRmIET) | 3:15 |
 | 35 | [Pehli Baarish](https://open.spotify.com/track/7pHUAAEiXQMaZOng72W6K0) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Pehli Baarish](https://open.spotify.com/album/0CcpdlcrxUp8fbspTcqJww) | 2:37 |
 | 36 | [Udd Chala](https://open.spotify.com/track/7n6DDEpcqkhkiGhXwexF9I) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Udd Chala](https://open.spotify.com/album/7LT4xezgouCmrPpbqQOwTu) | 4:46 |
-| 37 | [Ishq](https://open.spotify.com/track/5i8Nji8F21XK0q7ZdpcTEZ) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Ishq](https://open.spotify.com/album/7gTvtdZes2QW74Ztmnsahg) | 4:02 |
-| 38 | [Main Bola Hey!](https://open.spotify.com/track/0PKEQjnGn0LmPjozJ3t4MF) | [Karthik Rao](https://open.spotify.com/artist/3aAy6jFZLqqDUlMGSZcyaZ) | [Kota Factory: Season 1 \(Music from Tvf Original Series\)](https://open.spotify.com/album/6mOfUlKhx0AROUKdxA7v6Z) | 2:33 |
+| 37 | [Main Bola Hey!](https://open.spotify.com/track/0PKEQjnGn0LmPjozJ3t4MF) | [Karthik Rao](https://open.spotify.com/artist/3aAy6jFZLqqDUlMGSZcyaZ) | [Kota Factory: Season 1 \(Music from Tvf Original Series\)](https://open.spotify.com/album/6mOfUlKhx0AROUKdxA7v6Z) | 2:33 |
+| 38 | [Ishq](https://open.spotify.com/track/5i8Nji8F21XK0q7ZdpcTEZ) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Ishq](https://open.spotify.com/album/7gTvtdZes2QW74Ztmnsahg) | 4:02 |
 | 39 | [Le Chal](https://open.spotify.com/track/7dNQpEI1bOetj5XZqpKU5M) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [Le Chal](https://open.spotify.com/album/3eQWv1miydlthQgTOsgCwn) | 3:16 |
 | 40 | [Tera Nishaan](https://open.spotify.com/track/23gBGYYQcA8ivnVDj2eZxD) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Tera Nishaan](https://open.spotify.com/album/1FsGhpy3Br29xgbS1PJB4I) | 2:47 |
 | 41 | [Khoj \(Passing By\)](https://open.spotify.com/track/4QK1qv4mgsfdWmMzp1Z3fx) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Believe](https://open.spotify.com/album/4aSylUJ8AnwjQ6BO9dtgGk) | 3:32 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0L49JehX6ZU.md) - [plain]
 | 46 | [Kaari](https://open.spotify.com/track/6J5ymVSQlrmZ2Y48GYLaoK) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Kaari](https://open.spotify.com/album/2rxawqueJ4wDhh0WDNSO8j) | 2:37 |
 | 47 | [intezaar](https://open.spotify.com/track/1Wm35uHkiDlb3YKPJeh5Oh) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [somanshu](https://open.spotify.com/artist/0q7fw7pC9FcW9AUfIw4H5H) | [Genesis 1:1](https://open.spotify.com/album/2YhSRDucqtADBF45V9Ak9f) | 2:32 |
 | 48 | [Sha\- Dobara](https://open.spotify.com/track/2ygS9eInDfG5prFbeeiEYC) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Sha\- Dobara](https://open.spotify.com/album/3swccYkoyOPBv0fPMbf6I1) | 3:12 |
-| 49 | [When We Feel Young](https://open.spotify.com/track/5GJPqaqlCSN19ReZ3Hmue4) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [When We Feel Young](https://open.spotify.com/album/3rvRY86fVViOvc7ry7IZWq) | 4:26 |
-| 50 | [Khamoshi](https://open.spotify.com/track/7I1nwZimETiRW83xZv023W) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Dev](https://open.spotify.com/album/6y1pmHE0VptaUzu39ApqqE) | 3:09 |
+| 49 | [Khamoshi](https://open.spotify.com/track/7I1nwZimETiRW83xZv023W) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Dev](https://open.spotify.com/album/6y1pmHE0VptaUzu39ApqqE) | 3:09 |
+| 50 | [When We Feel Young](https://open.spotify.com/track/5GJPqaqlCSN19ReZ3Hmue4) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [When We Feel Young](https://open.spotify.com/album/3rvRY86fVViOvc7ry7IZWq) | 4:26 |
 
-Snapshot ID: `MCxlNGZkZGQ0ZDgzODY0Y2E1YWE0YmQ1ZjI4YjdmNDU0YzBhYTNiMjQ5`
+Snapshot ID: `MCw1M2QyYmE2NGNjNzRlYTIzNWM3NzZiODEzMDcyZjViMzIzZDE4MTI4`

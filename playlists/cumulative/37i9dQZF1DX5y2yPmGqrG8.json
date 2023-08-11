@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 414013,
       "name": "'Jardin de Simone' Acte 2",
       "url": "https://open.spotify.com/track/0rCDmpoGGU5WeCghQRXA9M"
@@ -616,7 +616,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 582930,
       "name": "Amorpha",
       "url": "https://open.spotify.com/track/3YR27cjoj0MJV1moSVdhJK"
@@ -1326,7 +1326,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 219546,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/5LGOOykNx9oLF5mxysIyYa"
@@ -2574,7 +2574,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 1363000,
       "name": "Does Spring Hide Its Joy v2.3",
       "url": "https://open.spotify.com/track/50I2lezRqDOI6lsormfvSG"
@@ -3186,7 +3186,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 339493,
       "name": "Fear of Flying",
       "url": "https://open.spotify.com/track/4i1RRMLpGEDqT5vInUvwX7"
@@ -4326,7 +4326,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-05",
+      "date_removed": null,
       "duration_ms": 448352,
       "name": "Impossible Island",
       "url": "https://open.spotify.com/track/312f1c2NbtQKam65h7Mq39"
@@ -4530,7 +4530,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-02",
+      "date_removed": null,
       "duration_ms": 155411,
       "name": "Introspection - Edit",
       "url": "https://open.spotify.com/track/4SqfCU4jNDOqP8qKcSpMU9"
@@ -4570,7 +4570,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 487028,
       "name": "Ixtlilxochitl",
       "url": "https://open.spotify.com/track/5SGi1nqrlVyf6Qgij2H5xp"
@@ -6018,7 +6018,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-10",
+      "date_removed": null,
       "duration_ms": 135250,
       "name": "Orbital",
       "url": "https://open.spotify.com/track/5IOaAcDTeliDDEa3QPGnAK"
@@ -7100,7 +7100,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-02",
+      "date_removed": null,
       "duration_ms": 483594,
       "name": "Sais",
       "url": "https://open.spotify.com/track/65c7ctSEOiYbz61XtytvOV"
@@ -7212,6 +7212,24 @@
       "duration_ms": 1004426,
       "name": "Sei Note In Logica (Parte 2)",
       "url": "https://open.spotify.com/track/6AqmT9HGdXp3VaX8rWdMht"
+    },
+    {
+      "album": {
+        "name": "setar rock",
+        "url": "https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb"
+      },
+      "artists": [
+        {
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240250,
+      "name": "setar rock",
+      "url": "https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb"
     },
     {
       "album": {
@@ -7448,7 +7466,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-18",
+      "date_removed": null,
       "duration_ms": 232073,
       "name": "solari",
       "url": "https://open.spotify.com/track/2ZYyuqKe7T64UqWVuW7CkS"
@@ -7563,6 +7581,24 @@
     },
     {
       "album": {
+        "name": "Space 1.8",
+        "url": "https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8"
+      },
+      "artists": [
+        {
+          "name": "Nala Sinephro",
+          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1052000,
+      "name": "Space 8",
+      "url": "https://open.spotify.com/track/6kpoN7Z1mahkMePKztQdHt"
+    },
+    {
+      "album": {
         "name": "Spain",
         "url": "https://open.spotify.com/album/1otRNbhiS4x3SFL2EDS1IF"
       },
@@ -7600,7 +7636,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-19",
+      "date_removed": null,
       "duration_ms": 286066,
       "name": "Spain",
       "url": "https://open.spotify.com/track/7nBp9NMpOUUMTxyfQPlk2M"
@@ -7662,7 +7698,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 241742,
       "name": "Spring Siesta",
       "url": "https://open.spotify.com/track/6jC1mrjxfjNKh7IZhZl5Im"
@@ -8986,7 +9022,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 248000,
       "name": "Uncanny Otion",
       "url": "https://open.spotify.com/track/1J7R9RD1DdEbDGYhuukEFc"

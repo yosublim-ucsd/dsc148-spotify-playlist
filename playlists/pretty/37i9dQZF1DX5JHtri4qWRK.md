@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JHtri4qWRK.md) - [plain]
 
 > R&B jams for the brokenhearted.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,153 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,152 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JHtri4qWRK.md) - [plain]
 | 17 | [No Air \(feat\. Chris Brown\)](https://open.spotify.com/track/1jUA4rb6ZCv4gby4YU53xq) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Jordin Sparks](https://open.spotify.com/album/6JCNOvp9UeMrFuXwNW0JW6) | 4:24 |
 | 18 | [What Goes Around.../...Comes Around \(Interlude\)](https://open.spotify.com/track/3pD0f7hSJg2XdQ6udw5Tey) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [FutureSex/LoveSounds](https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3) | 7:28 |
 | 19 | [End Of The Road](https://open.spotify.com/track/3l3xTXsUXeWlkPqzMs7mPD) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Cooleyhighharmony \(Bonus Tracks Version\)](https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO) | 5:51 |
-| 20 | [Supermodel](https://open.spotify.com/track/5wTVNpi5WDByxBgKgUE6MU) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 3:01 |
-| 21 | [Too Little Too Late](https://open.spotify.com/track/4T4NLIMypdmyUwK54jECk4) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [The High Road](https://open.spotify.com/album/3ym3JtyhWmVIJzEzTCCsHa) | 3:41 |
+| 20 | [Too Little Too Late](https://open.spotify.com/track/4T4NLIMypdmyUwK54jECk4) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [The High Road](https://open.spotify.com/album/3ym3JtyhWmVIJzEzTCCsHa) | 3:41 |
+| 21 | [Supermodel](https://open.spotify.com/track/5wTVNpi5WDByxBgKgUE6MU) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 3:01 |
 | 22 | [Irreplaceable](https://open.spotify.com/track/6RX5iL93VZ5fKmyvNXvF1r) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [B'Day Deluxe Edition](https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB) | 3:47 |
 | 23 | [Session 32](https://open.spotify.com/track/2ktg2oZDyFAX3iY1QNkXl5) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Session 32](https://open.spotify.com/album/1q6DMLVcuKBfYpfJ1KWtKh) | 1:38 |
 | 24 | [The Worst](https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sail Out](https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq) | 4:14 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JHtri4qWRK.md) - [plain]
 | 72 | [Insecure](https://open.spotify.com/track/360NCp4XoQ0sFi5jgu5Ww7) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Insecure](https://open.spotify.com/album/7hhWPFOdpmA1R9pUM5iUwe) | 3:38 |
 | 73 | [Don't Hurt Yourself \(feat\. Jack White\)](https://open.spotify.com/track/78eouBKVRyhbSzJwChr6QM) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:53 |
 | 74 | [Heard It All Before](https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co) | [Sunshine Anderson](https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK) | [Your Woman](https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp) | 4:55 |
-| 75 | [Missing You](https://open.spotify.com/track/0CmXXEwul09Kf8X68lPA5l) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy) | [Open Letter](https://open.spotify.com/album/5nfFCN6B0AhReHctfLi1vL) | 4:44 |
-| 76 | [Charlene](https://open.spotify.com/track/0xiuSFBOEHWaJ6rSuUbJWc) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Comin' From Where I'm From](https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em) | 4:06 |
+| 75 | [Charlene](https://open.spotify.com/track/0xiuSFBOEHWaJ6rSuUbJWc) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Comin' From Where I'm From](https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em) | 4:06 |
+| 76 | [Missing You](https://open.spotify.com/track/0CmXXEwul09Kf8X68lPA5l) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy) | [Open Letter](https://open.spotify.com/album/5nfFCN6B0AhReHctfLi1vL) | 4:44 |
 | 77 | [Soon as I Get Home](https://open.spotify.com/track/6SkGfPa77E4giShVbk9N6R) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Faith](https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev) | 5:24 |
 | 78 | [Girl](https://open.spotify.com/track/3s2MyU2YCwNNwcSokt0jXD) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Destiny Fulfilled](https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO) | 3:44 |
 | 79 | [I Should Have Cheated](https://open.spotify.com/track/5tFDgH6do20IXdSoNBAmXK) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [The Way It Is](https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV) | 5:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JHtri4qWRK.md) - [plain]
 | 99 | [All I Have](https://open.spotify.com/track/1RQE33QW6K4YFKGPLHjbcC) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [10](https://open.spotify.com/album/7E2TsBS4jPmfdjjTRUJ9Hn) | 4:14 |
 | 100 | [Tyrone \- Live](https://open.spotify.com/track/1MCem6JigI6jgQPMgriKbU) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Live](https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX) | 3:41 |
 
-Snapshot ID: `MCxmNzNmNjJiNWZhNzZhMGRhYTEyZTY0MDE5OTMyNjRiOTFjZGQxMDky`
+Snapshot ID: `MCwxOWY2YzQ4NGE3NzAxNWVkNzY4YzJkZWExZGEzMjIxYWFlYTJhMzIy`

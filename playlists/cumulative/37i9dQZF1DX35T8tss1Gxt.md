@@ -4,7 +4,7 @@
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover:  <a href="https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz?si=e38a49f3f17a4147">Dante Bowe</a>
 
-405 songs - 1 day 0 hr 26 min
+406 songs - 1 day 0 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [I Rely](https://open.spotify.com/track/0OeSsrfNKaGyay7I1XOmD1) | [SEMAJE](https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW) | [I Rely](https://open.spotify.com/album/38l2hDLPfz2xHLxeoVqJGB) | 3:49 | 2023-01-20 |  |
 | [I Surrender All \(Allt till Jesus\)](https://open.spotify.com/track/0YbNff7JhsieHxmHFgEuzX) | [Ri\-An](https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo), [Tommy Iceland](https://open.spotify.com/artist/74sn7pCztQtjNGeaIoRPtU) | [I Surrender All \(Allt till Jesus\)](https://open.spotify.com/album/6ipfGbwsNXM67WKpoyN3EG) | 3:12 | 2023-01-20 |  |
 | [I Will](https://open.spotify.com/track/5ALPne4FwgXQSsbeZcmtUZ) | [Jessica Reedy](https://open.spotify.com/artist/53AfsMeg6Tr5kAejn7pON6) | [I Will](https://open.spotify.com/album/3RIFpzK5MUgN7lsIYWnf0Q) | 5:11 | 2022-02-19 | 2022-06-25 |
+| [I'll Praise](https://open.spotify.com/track/76z0xBhIITVBwHni9PZZ8v) | [Stevie Rizo](https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL) | [I'll Praise](https://open.spotify.com/album/3yCYG5wQ1J4tckxRWs8NC4) | 2:40 | 2023-07-21 |  |
 | [I'll Wait](https://open.spotify.com/track/4S897uiKljGMaW7jKeRF9I) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [I'll Wait](https://open.spotify.com/album/2Mvi0g1n9f8tHaO7oeJfzR) | 3:51 | 2023-01-20 |  |
 | [I'm Here For You](https://open.spotify.com/track/6lVq26NCgPzh9FzpwuRL1t) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [I'm Here For You](https://open.spotify.com/album/4k3H2ZFyssNiUyF5v3vg9l) | 3:35 | 2022-02-19 | 2022-06-26 |
 | [I'm Walking](https://open.spotify.com/track/2zuOKB1VTStUdgcIX1EjDj) | [Zeke Locke & The NuXperience](https://open.spotify.com/artist/3gpJHpenPoO7wClEPKxaQ4) | [I'm Walking](https://open.spotify.com/album/7l0WaATOjnITs9zuDRZXk3) | 3:40 | 2022-04-01 | 2022-07-27 |
@@ -207,7 +208,7 @@
 | [L.H.U.Y \(LET HIM USE YA\)](https://open.spotify.com/track/2LMXLQAQZcQehXHApaNrIW) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [L.H.U.Y \(LET HIM USE YA\)](https://open.spotify.com/album/6g6qBfEOlmHFEE2hVJgDfy) | 3:21 | 2022-02-19 | 2022-06-26 |
 | [Lay Low](https://open.spotify.com/track/0ysuf6je8hskFtsHob6KQI) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [Lay Low](https://open.spotify.com/album/45lbj08eBm9ZOnlGzBToEd) | 2:54 | 2022-04-01 |  |
 | [Lean on the Lord](https://open.spotify.com/track/1YEShExhORN9sq3CmGMDJ3) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Lean on the Lord](https://open.spotify.com/album/4Q2apaYoaJfqEz0aFep7xl) | 3:34 | 2022-06-25 |  |
-| [Learning to Forgive](https://open.spotify.com/track/5miGv60VQY9otU6fXpKmPw) | [Lloyd Nicks](https://open.spotify.com/artist/27PNOaBc3uYEgF3rrxeQjh) | [Learning to Forgive](https://open.spotify.com/album/5EeAaAloApOGtw0Nb2yvoP) | 3:04 | 2022-04-01 |  |
+| [Learning to Forgive](https://open.spotify.com/track/5miGv60VQY9otU6fXpKmPw) | [Lloyd Nicks](https://open.spotify.com/artist/27PNOaBc3uYEgF3rrxeQjh) | [Learning to Forgive](https://open.spotify.com/album/5EeAaAloApOGtw0Nb2yvoP) | 3:04 | 2022-04-01 | 2023-08-11 |
 | [LEAVE ME \(feat\. J Moss\)](https://open.spotify.com/track/1xgopTdaK6RUJ63vidUhz9) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [J Moss](https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP) | [LEAVE ME](https://open.spotify.com/album/6hQEvFNvqBfzIViaE3HUL2) | 3:30 | 2022-02-19 | 2022-06-26 |
 | [Let Go \(Remix\)](https://open.spotify.com/track/3xU3enlRz3j3e5Y5CXCKXP) | [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Let Go \(Remix\)](https://open.spotify.com/album/7iobX163wJn1S1iCpruapL) | 2:52 | 2022-02-19 | 2022-06-24 |
 | [Let Him In](https://open.spotify.com/track/00JwSM2j1iwqba0cEZUJNu) | [JOKIA](https://open.spotify.com/artist/0ookqFkmQpJCmnG9lzI45E) | [Let Him In](https://open.spotify.com/album/7vsjLmKmDaM5d6X6jk8Mtc) | 3:39 | 2022-02-19 | 2022-06-25 |

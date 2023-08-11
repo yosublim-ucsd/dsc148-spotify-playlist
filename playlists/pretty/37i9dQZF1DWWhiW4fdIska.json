@@ -1,12 +1,12 @@
 {
   "description": "Legendary blues guitarists. Cover: Buddy Guy",
-  "num_followers": 20796,
+  "num_followers": 20831,
   "original_name": "Classic Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NGRkY2UzYTBjMDRjOTdjZGFjNjIxNDk3NDg0ZGIwOGRjMjUxMmUx",
+  "snapshot_id": "MCwzYzg5NWQxMWJmZDVlNjNhMDQ3YjI2ZDgyOGI1MDk4MDQ2MGVmODEx",
   "tracks": [
     {
       "added_at": "2020-10-21 20:41:20",
@@ -347,6 +347,22 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
+        "name": "A Hard Road",
+        "url": "https://open.spotify.com/album/160euwnzg8f0oSEz3on32Z"
+      },
+      "artists": [
+        {
+          "name": "John Mayall & The Bluesbreakers",
+          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+        }
+      ],
+      "duration_ms": 176040,
+      "name": "The Super-Natural",
+      "url": "https://open.spotify.com/track/2DVswRuJlXu4QiZQfOoIx7"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
         "name": "Bloomfield-A Retrospective",
         "url": "https://open.spotify.com/album/5ZkaY6CcFUidEuWc41o9b2"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 284480,
       "name": "Statesboro Blues",
       "url": "https://open.spotify.com/track/3UsbGR71AjcBYOWoUlfTdm"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
-        "name": "A Hard Road",
-        "url": "https://open.spotify.com/album/160euwnzg8f0oSEz3on32Z"
-      },
-      "artists": [
-        {
-          "name": "John Mayall & The Bluesbreakers",
-          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
-        }
-      ],
-      "duration_ms": 176040,
-      "name": "The Super-Natural",
-      "url": "https://open.spotify.com/track/2DVswRuJlXu4QiZQfOoIx7"
     },
     {
       "added_at": "2020-10-21 20:41:20",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Romeo Santos",
-  "num_followers": 221497,
+  "num_followers": 221594,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzN2YzY2IxNTQyZDU0YmRhMTE4ODI1ZTMyNjZmZmJmNzRhZDZlMGE5",
+  "snapshot_id": "MCw1ODA3MWQ5NTY5NzI0NDk2Mjg0MDg1Zjg5NjRiZDU4YTk1ZTkyOGM2",
   "tracks": [
     {
       "added_at": "2023-04-27 23:54:49",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Carta De Verano",
-        "url": "https://open.spotify.com/album/0ycfoja65NlV6hdnikma8k"
-      },
-      "artists": [
-        {
-          "name": "Joe Veras",
-          "url": "https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K"
-        }
-      ],
-      "duration_ms": 245253,
-      "name": "Intentalo Tu",
-      "url": "https://open.spotify.com/track/2UFQi6Zr1yeaaUaUmbw4ZI"
-    },
-    {
-      "added_at": "2023-04-27 23:54:49",
-      "album": {
         "name": "Ayer Me Llam\u00f3 Mi Ex (Remix)",
         "url": "https://open.spotify.com/album/14gxHpwmrORODOPNQCZ8lC"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 256252,
       "name": "Ayer Me Llam\u00f3 Mi Ex (Remix)",
       "url": "https://open.spotify.com/track/1PWEqRVXqXhRDeS4OznL01"
+    },
+    {
+      "added_at": "2023-04-27 23:54:49",
+      "album": {
+        "name": "Carta De Verano",
+        "url": "https://open.spotify.com/album/0ycfoja65NlV6hdnikma8k"
+      },
+      "artists": [
+        {
+          "name": "Joe Veras",
+          "url": "https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K"
+        }
+      ],
+      "duration_ms": 245253,
+      "name": "Intentalo Tu",
+      "url": "https://open.spotify.com/track/2UFQi6Zr1yeaaUaUmbw4ZI"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Hablamos En La Cama",
-        "url": "https://open.spotify.com/album/2U6skaTPCGdtHbpAfb8Bap"
-      },
-      "artists": [
-        {
-          "name": "Raulin Rodriguez",
-          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
-        }
-      ],
-      "duration_ms": 262786,
-      "name": "Coraz\u00f3n Con Candado",
-      "url": "https://open.spotify.com/track/6BrJFyOcW5El8YLp3DtTJ7"
-    },
-    {
-      "added_at": "2023-04-27 23:54:49",
-      "album": {
         "name": "Se Acabo El Abuso: La Historia De Mi Vida El Final, Vol.1",
         "url": "https://open.spotify.com/album/4CwW8sORJ7AuVjUKBJkeoQ"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 248500,
       "name": "Se Acabo El Abuso: La Historia De Mi Vida El Final, Vol.1",
       "url": "https://open.spotify.com/track/3ocPf13AZvX6QlNuQf6RVV"
+    },
+    {
+      "added_at": "2023-04-27 23:54:49",
+      "album": {
+        "name": "Hablamos En La Cama",
+        "url": "https://open.spotify.com/album/2U6skaTPCGdtHbpAfb8Bap"
+      },
+      "artists": [
+        {
+          "name": "Raulin Rodriguez",
+          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
+        }
+      ],
+      "duration_ms": 262786,
+      "name": "Coraz\u00f3n Con Candado",
+      "url": "https://open.spotify.com/track/6BrJFyOcW5El8YLp3DtTJ7"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Mi Regreso",
-        "url": "https://open.spotify.com/album/5c7bGd5Mbwhpp8JNiTSdKz"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel Del Amargue",
-          "url": "https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ"
-        }
-      ],
-      "duration_ms": 236306,
-      "name": "Abrazame amor",
-      "url": "https://open.spotify.com/track/2moTUdEmaqUAiwA2aM8I0R"
-    },
-    {
-      "added_at": "2023-04-27 23:54:49",
-      "album": {
         "name": "La Luz De Mis Ojos",
         "url": "https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 219666,
       "name": "Laudano",
       "url": "https://open.spotify.com/track/23Gn5VcVfaSSYy014b2AJ6"
+    },
+    {
+      "added_at": "2023-04-27 23:54:49",
+      "album": {
+        "name": "Mi Regreso",
+        "url": "https://open.spotify.com/album/5c7bGd5Mbwhpp8JNiTSdKz"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel Del Amargue",
+          "url": "https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ"
+        }
+      ],
+      "duration_ms": 236306,
+      "name": "Abrazame amor",
+      "url": "https://open.spotify.com/track/2moTUdEmaqUAiwA2aM8I0R"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/0hGEDazwHxaPUBg0DTB9rY"
+        "name": "Escenas De Amor",
+        "url": "https://open.spotify.com/album/0FBJ8Wh061zAWwgi8dGDco"
       },
       "artists": [
         {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+          "name": "Raulin Rodriguez",
+          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
         }
       ],
-      "duration_ms": 276840,
-      "name": "Vete y Alejate de Mi",
-      "url": "https://open.spotify.com/track/66CYjKNVEp21AsDGQkmywV"
+      "duration_ms": 230360,
+      "name": "Como Ser\u00e1s Tu",
+      "url": "https://open.spotify.com/track/269nyKy2duFQEE1FSnkdny"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Escenas De Amor",
-        "url": "https://open.spotify.com/album/0FBJ8Wh061zAWwgi8dGDco"
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/0hGEDazwHxaPUBg0DTB9rY"
       },
       "artists": [
         {
-          "name": "Raulin Rodriguez",
-          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
         }
       ],
-      "duration_ms": 230360,
-      "name": "Como Ser\u00e1s Tu",
-      "url": "https://open.spotify.com/track/269nyKy2duFQEE1FSnkdny"
+      "duration_ms": 276840,
+      "name": "Vete y Alejate de Mi",
+      "url": "https://open.spotify.com/track/66CYjKNVEp21AsDGQkmywV"
     },
     {
       "added_at": "2023-04-27 23:54:49",

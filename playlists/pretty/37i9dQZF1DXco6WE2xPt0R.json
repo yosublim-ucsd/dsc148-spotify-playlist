@@ -1,12 +1,12 @@
 {
   "description": "Aquela playlist pra ficar no quentin, gostosin.",
-  "num_followers": 95855,
+  "num_followers": 95881,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNWMzMDJjZGY2ZWMwYmI4M2RlODE4MDJhNTg3NDlmMTMyOWIzMGMy",
+  "snapshot_id": "MCw1NjJjNGI1M2NkZWYyNzM2NDJjMjFhMGRhYWI2NTM5MTRhOTljMDlh",
   "tracks": [
     {
       "added_at": "2023-08-04 03:01:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Ready",
-        "url": "https://open.spotify.com/album/4VEmS1AQqFKNhCCtmp2R0E"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 181533,
-      "name": "Ready",
-      "url": "https://open.spotify.com/track/1hWi7x6YYkpCt6aRlC2r6R"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "All For You",
         "url": "https://open.spotify.com/album/6VpIFMps1Uha73gk1c50sJ"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 196968,
       "name": "Damaged",
       "url": "https://open.spotify.com/track/2zKsGLytwZOY5WKEZ1ARAk"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Ready",
+        "url": "https://open.spotify.com/album/4VEmS1AQqFKNhCCtmp2R0E"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 181533,
+      "name": "Ready",
+      "url": "https://open.spotify.com/track/1hWi7x6YYkpCt6aRlC2r6R"
     },
     {
       "added_at": "2023-08-04 03:01:00",

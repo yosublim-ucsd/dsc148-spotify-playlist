@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5tDsz1WqJv1ZFSXeC453wy">Teddy Geiger</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-179 songs - 9 hr 49 min
+181 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Mercy](https://open.spotify.com/track/0AS63m1wHv9n4VVRizK6Hc) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:28 | 2022-09-08 |  |
 | [Modern](https://open.spotify.com/track/3bC6bHyz5nRWqGZwWlrrNc) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 4:19 | 2022-09-08 |  |
 | [My Whole Life](https://open.spotify.com/track/3oo8W1b5umFaPXQELkhe3I) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 2:14 | 2022-09-08 |  |
+| [Never Enough](https://open.spotify.com/track/5K7j29Hm2I7t2XNdOnlgdb) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [Never Enough](https://open.spotify.com/album/21o8pGHk8rShMPdI4ZNnoa) | 3:42 | 2023-08-10 |  |
 | [New Girl](https://open.spotify.com/track/6IlunOwHwe9IF7taJZo1FK) | [Reggie ‘N’ Bollie](https://open.spotify.com/artist/3qCIifFHqOTzTAC1Sww8ms) | [Uncommon Favours](https://open.spotify.com/album/4fMDLidbvqm2HbSYGaxgva) | 3:36 | 2022-09-08 |  |
 | [No Promises](https://open.spotify.com/track/3gnDoaJUgD9Bblzld77Kcp) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 2:46 | 2022-09-08 |  |
 | [Normal to Feel](https://open.spotify.com/track/2WdmFuT1675qqu7o4tbn1d) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Normal to Feel](https://open.spotify.com/album/3nW4GaITknS7y4RZBxB0SH) | 3:20 | 2022-09-10 |  |
@@ -174,6 +175,7 @@
 | [What Happens Here](https://open.spotify.com/track/1VooPXZF6A8PyWVHgeuwxh) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/0dvuqLEnlfiHV491p4wtWf) | 2:23 | 2022-09-08 | 2022-10-22 |
 | [What Happens Here](https://open.spotify.com/track/5QQNYGYDzznqloFLUA32ff) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/6A0tCIaSLycr0Yyxsbz9ci) | 2:23 | 2022-10-21 |  |
 | [When You're Ready](https://open.spotify.com/track/6bNcbh4SxQDU0BHa4Dj3wx) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 2:49 | 2022-09-08 |  |
+| [Where Do All The Diamonds Go?](https://open.spotify.com/track/6X1lfXWruECFtZ10bec3ja) | [Cyn](https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7) | [Where Do All The Diamonds Go?](https://open.spotify.com/album/5YM5B211S6iiXgPJLI6nvU) | 2:57 | 2023-08-10 |  |
 | [Where Do Broken Hearts Go](https://open.spotify.com/track/6HFywc5eQYRRYHYTatCb5Y) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:49 | 2022-09-08 |  |
 | [Where Will I Remember You](https://open.spotify.com/track/40Nh2OnMKMer8PxdaqdRIM) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/0dvuqLEnlfiHV491p4wtWf) | 2:16 | 2022-09-08 | 2022-10-22 |
 | [Where Will I Remember You](https://open.spotify.com/track/4F4gY99KTW9ACNH5mNwMzn) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/6A0tCIaSLycr0Yyxsbz9ci) | 2:16 | 2022-10-21 |  |

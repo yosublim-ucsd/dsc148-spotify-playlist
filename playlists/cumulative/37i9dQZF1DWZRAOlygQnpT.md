@@ -4,7 +4,7 @@
 
 > ¡Ahi viene la plaga..\. por eso, aviéntense todos a bailar!
 
-254 songs - 11 hr 8 min
+255 songs - 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Blue berry hilll](https://open.spotify.com/track/6g6rq3JO0zD8YvlhdwNQ4I) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [Idolos del Rock & Roll \- Alberto Vazquez](https://open.spotify.com/album/1k4042gbahCtD4v3viiQ8L) | 3:05 | 2020-04-17 | 2022-05-26 |
 | [Bote de bananas](https://open.spotify.com/track/420qVHdP7ckcdm6pvPW4lp) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [Idolos del Rock & Roll \- Alberto Vazquez](https://open.spotify.com/album/1k4042gbahCtD4v3viiQ8L) | 3:25 | 2020-04-17 | 2022-07-27 |
 | [Buen Rock Esta Noche](https://open.spotify.com/track/2Wg5G6SN48t9DSW6ifquvb) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [Los Grandes Idolos \- Teen Tops](https://open.spotify.com/album/3BzjUZegAStBZPVTZVrUT5) | 2:25 | 2020-04-17 | 2022-07-26 |
-| [Buen Rock Esta Noche \- Good Rockin' Tonight \[Remasterizado\]](https://open.spotify.com/track/6A3rHCtV9sP5aRvBDth3wB) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [Serie De Colección 16 Autenticos Exitos](https://open.spotify.com/album/6DB6Osx9qCOSB0wPNbSE2A) | 2:16 | 2020-04-17 | 2023-06-27 |
+| [Buen Rock Esta Noche \- Good Rockin' Tonight \[Remasterizado\]](https://open.spotify.com/track/6A3rHCtV9sP5aRvBDth3wB) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [Serie De Colección 16 Autenticos Exitos](https://open.spotify.com/album/6DB6Osx9qCOSB0wPNbSE2A) | 2:16 | 2020-04-17 |  |
 | [Bule Bule](https://open.spotify.com/track/65dIAnHFMtcrWYWXOKOeiy) | [Los Rockin' Devils](https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve) | [100 Años de Musica](https://open.spotify.com/album/0yk0LbkAcV5SaOJMOsDWJO) | 2:22 | 2020-04-17 | 2022-07-29 |
 | [Bule Bule](https://open.spotify.com/track/19Ol3nKQvIJJiKBTIOBzwi) | [Los Rockin' Devils](https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve) | [100 Años de Musica](https://open.spotify.com/album/3YvIyt0fZgOTdwtrj79FRa) | 2:22 | 2020-04-17 |  |
 | [Bule bule \- Remastered](https://open.spotify.com/track/4lY1RHHCrH5bAxAA7KlUhT) | [Enrique Guzmán & Teen Tops](https://open.spotify.com/artist/1Q2UXM1vlDYOzeAZYDI2WD) | [El rock de la cárcel \(Remastered\)](https://open.spotify.com/album/0errWAKWe4xl8p5DxVS93H) | 2:21 | 2020-04-17 |  |
@@ -145,7 +145,7 @@
 | [La Pera Madura](https://open.spotify.com/track/1g2RsIQqEGRLBXTkXa55fD) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Los Exitos De Manolo Muñoz](https://open.spotify.com/album/0wWQ7fKyg7OHZG6hru4Jkd) | 2:58 | 2020-04-17 | 2022-07-29 |
 | [La Pera Madura](https://open.spotify.com/track/4owGahTFwLeXEwcngODVC4) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Los Éxitos de Manolo Muñoz](https://open.spotify.com/album/46tQkwTb6a16ZAyMEoZFeY) | 2:58 | 2020-04-17 |  |
 | [La Plaga](https://open.spotify.com/track/0bnx1Uil9gj7G1J6DIN0pN) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [Los Grandes Idolos \- Teen Tops](https://open.spotify.com/album/3BzjUZegAStBZPVTZVrUT5) | 2:22 | 2020-04-17 | 2022-07-29 |
-| [La Plaga](https://open.spotify.com/track/2auNSn5gZXZBzn2wxpRjId) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [La Plaga](https://open.spotify.com/album/5XGOSEvpopRia9Qoil4OId) | 2:23 | 2020-04-17 |  |
+| [La Plaga](https://open.spotify.com/track/2auNSn5gZXZBzn2wxpRjId) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [La Plaga](https://open.spotify.com/album/5XGOSEvpopRia9Qoil4OId) | 2:23 | 2020-04-17 | 2023-08-11 |
 | [La Plaga \(Good Golly, Miss Molly\)](https://open.spotify.com/track/7yPAsPa7EOp1w3PT6ng0l8) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [La Onda Juvenil 25 Aniversario](https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar) | 2:14 | 2020-04-17 | 2022-07-29 |
 | [La Respuesta Está En El Viento](https://open.spotify.com/track/50NUNjnzD6sXh54NpMLujS) | [Vianey Valdez](https://open.spotify.com/artist/1y6MyiByAJqCEhl0VNg8qs) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 3:16 | 2020-04-17 | 2023-08-05 |
 | [La Última Vez](https://open.spotify.com/track/2MTNVoknkbqRIMHMNqs7WC) | [Los Ovnis](https://open.spotify.com/artist/0hwmbUrvyepLTKQfJr3BTi) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:44 | 2020-04-17 |  |
@@ -243,10 +243,11 @@
 | [Tu Significas Todo Para Mi](https://open.spotify.com/track/0ZXw2HZ4hFw8AM7mp2xfRF) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [Ballads del Rock](https://open.spotify.com/album/1o7i3eHMR0vxTLqGk81uUh) | 4:12 | 2020-04-17 |  |
 | [Tus Ojos](https://open.spotify.com/track/2pBbjdRMtCnFFUpOug5vtj) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Rock Con los Locos del Ritmo](https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH) | 3:13 | 2020-04-17 |  |
 | [Twist del Perro](https://open.spotify.com/track/3cyUYWyKgvJVIMA2jYJmvo) | [Los Rogers](https://open.spotify.com/artist/2m7zyOAASO7A8ipy4XkDcC) | [15 Exitos del Rock & Roll](https://open.spotify.com/album/6BWOXdSPnMbekP7fDAx1hH) | 2:19 | 2020-04-17 | 2022-07-25 |
-| [Twist del Perro](https://open.spotify.com/track/2ywie6JDekOY3roCbQWxG0) | [Los Rogers](https://open.spotify.com/artist/2m7zyOAASO7A8ipy4XkDcC) | [15 Exitos del Rock & Roll](https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh) | 2:19 | 2020-04-17 |  |
+| [Twist del Perro](https://open.spotify.com/track/2ywie6JDekOY3roCbQWxG0) | [Los Rogers](https://open.spotify.com/artist/2m7zyOAASO7A8ipy4XkDcC) | [15 Exitos del Rock & Roll](https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh) | 2:19 | 2020-04-17 | 2023-08-11 |
 | [Un Gran Pedazo de Amor](https://open.spotify.com/track/44AxBLLvdhOUqjDvVC7hCC) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Polvora](https://open.spotify.com/album/3KefX7SdLViRTuFffsmmxq) | 2:25 | 2020-04-17 | 2022-07-07 |
 | [Un hombre respet](https://open.spotify.com/track/76NCs54B9hQLW3HZwUxppM) | [Los Hitters](https://open.spotify.com/artist/3Cqn20hCMJisWINCRSOkZT) | [Lucha Va Voom \- Señor Amor's Mexican R&R Faves](https://open.spotify.com/album/4cSPyc5Ykedj67OKPi965B) | 2:29 | 2020-04-17 |  |
 | [Venus](https://open.spotify.com/track/5ALgEAPt5pQrtF4GtEykLc) | [Las Moskas](https://open.spotify.com/artist/5tqciiCyuTvqWLNGE7MvpY) | [Serie de Colección 18 Auténticos Éxitos Hit´s de Grupos, Vol\. 2](https://open.spotify.com/album/3eXRb8zVCNGSWx3OHodqXB) | 3:05 | 2020-04-17 | 2022-07-29 |
+| [Venus](https://open.spotify.com/track/1g2SLhPgPK8p0QEJTUh8tT) | [Las Moskas](https://open.spotify.com/artist/5tqciiCyuTvqWLNGE7MvpY) | [Venus](https://open.spotify.com/album/2lDWlp9NhBPQCivXu7SC7l) | 3:05 | 2020-04-17 |  |
 | [Venus](https://open.spotify.com/track/4wFZUjSstRkymNqGjhEbZL) | [Las Moskas](https://open.spotify.com/artist/5tqciiCyuTvqWLNGE7MvpY) | [La Onda Juvenil 25 Aniversario](https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar) | 3:08 | 2020-04-17 | 2022-08-15 |
 | [Vete Con Ella \(Chappel of Love\)](https://open.spotify.com/track/57Uadt78FPP6JmC19JufWZ) | [Mayte Gaos](https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb) | [La Fiebre del Rock and Roll](https://open.spotify.com/album/1dnS93Ynexd71S1Nogqn3l) | 2:53 | 2020-04-17 |  |
 | [Vida](https://open.spotify.com/track/13OJJfM6e3Y3agHJYGUhSZ) | [Los Soñadores](https://open.spotify.com/artist/7eaFKZEoBol2LMdQAmzK8i) | [La Onda Juvenil 25 Aniversario](https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar) | 2:17 | 2020-04-17 |  |

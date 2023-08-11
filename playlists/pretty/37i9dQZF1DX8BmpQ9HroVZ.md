@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest local and global tracks in Pakistan\. Cover \- Atif Aslam
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,493 likes - 76 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,532 likes - 76 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 | 75 | [Popular \(with Playboi Carti & Madonna\) \- Music from the HBO Original Series](https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \(Music from the HBO Original Series\)](https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i) | 3:35 |
 | 76 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 |
 
-Snapshot ID: `MCw2NWMzYTAzNzdhMWFkNzNiYzQ1YzViZjNlNGExNzAxYTViYWZiMzc1`
+Snapshot ID: `MCwwZmUzMTVhZTkwYjlkMWZjZDdlMTY3NzM0MmVhMzYyM2Q3NGJjNzJj`

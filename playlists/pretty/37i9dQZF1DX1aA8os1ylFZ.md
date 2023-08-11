@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > get into your feels with some r&b magic
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,536 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,568 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 35 | [For the Night](https://open.spotify.com/track/6y39UI6gdUexBGprn6pQo6) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [For the Night](https://open.spotify.com/album/6Y3MgnjUXqGRYtDdfE5e0Q) | 3:25 |
 | 36 | [ONLY ONE](https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 3:03 |
 | 37 | [Losing You](https://open.spotify.com/track/146pr47LcU6HE5TQ6mgiSX) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Losing You](https://open.spotify.com/album/1nVNtqccCdtzc3N9uKqXXl) | 3:44 |
-| 38 | [Do You Mind](https://open.spotify.com/track/5bGNmiFJqhIlMP8fbQUu4E) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Do You Mind](https://open.spotify.com/album/66pbpFqaR2RE6urZHpBPZI) | 2:20 |
-| 39 | [Lay Up N’ Chill \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/6FxdAycUNPT8gHH5JhG2xI) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Lay Up N’ Chill \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/58Y1ZnM9IYAywv0lOWPZBg) | 2:33 |
+| 38 | [Lay Up N’ Chill \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/6FxdAycUNPT8gHH5JhG2xI) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Lay Up N’ Chill \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/58Y1ZnM9IYAywv0lOWPZBg) | 2:33 |
+| 39 | [Do You Mind](https://open.spotify.com/track/5bGNmiFJqhIlMP8fbQUu4E) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Do You Mind](https://open.spotify.com/album/66pbpFqaR2RE6urZHpBPZI) | 2:20 |
 | 40 | [Tasty](https://open.spotify.com/track/6lSwB0f2MN7uhJT7q4dRvS) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [Tasty](https://open.spotify.com/album/44aLFnq6Fjpb3JBPKsEpaK) | 2:30 |
 | 41 | [What's Up \(feat\. Jagged Edge\)](https://open.spotify.com/track/3draIIDdWX6FpZCc5D9WXA) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [Working On My Karma](https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59) | 3:39 |
 | 42 | [Fallin](https://open.spotify.com/track/2SUQ7JvEtKtPwkyKQMsr0q) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn’t Tell You \(Deluxe\)](https://open.spotify.com/album/2NByZQX5Du6JbAyQff4QxA) | 2:42 |
@@ -67,16 +67,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 57 | [Queen Space \(with Summer Walker\)](https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Queen Space \(with Summer Walker\)](https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV) | 3:50 |
 | 58 | [On Lock](https://open.spotify.com/track/75fxE44yD87YmT2n68gkw2) | [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX) | [On Lock](https://open.spotify.com/album/59ig3e6AiguuU9sdiXcy1i) | 2:41 |
 | 59 | [VICES](https://open.spotify.com/track/6XtaPHxQvhFn9p24f2tvRZ) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [DISC TWO](https://open.spotify.com/album/4oLifZ7YzWlekv5sfcqmPp) | 3:03 |
-| 60 | [Celebrate](https://open.spotify.com/track/4QacWDLNi3C82o2e79YV9R) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Mood Swings](https://open.spotify.com/album/3mRiJv27nO0LYbntvVsYN1) | 3:13 |
-| 61 | [Simp](https://open.spotify.com/track/1Blus5ZR4S5vAnLfzwAduY) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Simp](https://open.spotify.com/album/4P8lTjlKEMjE8uDkJBG2Tr) | 2:31 |
+| 60 | [Simp](https://open.spotify.com/track/1Blus5ZR4S5vAnLfzwAduY) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Simp](https://open.spotify.com/album/4P8lTjlKEMjE8uDkJBG2Tr) | 2:31 |
+| 61 | [Celebrate](https://open.spotify.com/track/4QacWDLNi3C82o2e79YV9R) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Mood Swings](https://open.spotify.com/album/3mRiJv27nO0LYbntvVsYN1) | 3:13 |
 | 62 | [What A Lie](https://open.spotify.com/track/1VI7GQmBBgdslV3tQRvsRD) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [What A Lie](https://open.spotify.com/album/3YYUucEXwtTJC0FWcpqrB4) | 3:48 |
-| 63 | [WHAT'S IT GONNA TAKE](https://open.spotify.com/track/5McNI2nNzvbefXlDWafirl) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [WHAT'S IT GONNA TAKE](https://open.spotify.com/album/54t5qVOCwbNrgBySSr7eyS) | 3:16 |
-| 64 | [Softly](https://open.spotify.com/track/2drDZnirL0TSVp8pOA756W) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 2:53 |
+| 63 | [Softly](https://open.spotify.com/track/2drDZnirL0TSVp8pOA756W) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 2:53 |
+| 64 | [WHAT'S IT GONNA TAKE](https://open.spotify.com/track/5McNI2nNzvbefXlDWafirl) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [WHAT'S IT GONNA TAKE](https://open.spotify.com/album/54t5qVOCwbNrgBySSr7eyS) | 3:16 |
 | 65 | [Fool 4 U](https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y4](https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR) | 2:59 |
 | 66 | [Cartier](https://open.spotify.com/track/3UCgE70SIwy0s4zoXPn7gY) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:16 |
 | 67 | [Still Work \(feat\. Ty Dolla $ign & Muni Long\)](https://open.spotify.com/track/0teFeL0RvDeDbpmi1YZlFt) | [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Still Work \(feat\. Ty Dolla $ign & Muni Long\)](https://open.spotify.com/album/0t2ykalFeWerglEzAC9tBS) | 2:34 |
-| 68 | [Get Away](https://open.spotify.com/track/1RaO7Jv7R2CmhKR9Ne7YBo) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Get Away](https://open.spotify.com/album/2Sll2aUvBGz49Ig5bYbWuK) | 3:03 |
-| 69 | [Bittersweet Goodbyes](https://open.spotify.com/track/1otiDJ357ZDfyaJpK4IvNQ) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Motive](https://open.spotify.com/album/2IVlGSUdl1ZTeSjOj8tMEr) | 3:07 |
+| 68 | [Bittersweet Goodbyes](https://open.spotify.com/track/1otiDJ357ZDfyaJpK4IvNQ) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Motive](https://open.spotify.com/album/2IVlGSUdl1ZTeSjOj8tMEr) | 3:07 |
+| 69 | [Get Away](https://open.spotify.com/track/1RaO7Jv7R2CmhKR9Ne7YBo) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Get Away](https://open.spotify.com/album/2Sll2aUvBGz49Ig5bYbWuK) | 3:03 |
 | 70 | [Goofy](https://open.spotify.com/track/1A5hxo3hCF6FxBunEoKWcS) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Goofy](https://open.spotify.com/album/5JB8bhuOvIwo2CAYUPinmW) | 3:21 |
 | 71 | [Bubble](https://open.spotify.com/track/7JT1xrV4ixSAGYPcR6FwWB) | [Noa Lauryn](https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9) | [Bubble](https://open.spotify.com/album/3HOhTyKfISCPdz1cdhWuye) | 3:15 |
 | 72 | [Irresponsible](https://open.spotify.com/track/3PIDY9vzQP6U8OLTYlcA50) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Irresponsible](https://open.spotify.com/album/5Mv9dyRbKf8x90M86mibc0) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 99 | [Dream No More \(feat\. Ruel & Genesis Owusu\)](https://open.spotify.com/track/0slVzyDCYPANhtDTpzBgLZ) | [Billy Davis](https://open.spotify.com/artist/1faxe25Wp3Nk43xVVxsdSB), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn), [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Dream No More \(feat\. Ruel & Genesis Owusu\)](https://open.spotify.com/album/4ezUp3Uu9WBPK0DsbQvgGO) | 3:27 |
 | 100 | [Ginger Me](https://open.spotify.com/track/6ihWzjaRWNX9NAHnCzkD4S) | [shy ink](https://open.spotify.com/artist/2guvMedMt6BlFklBVfFTR3), [Kish](https://open.spotify.com/artist/2gVFsWpxGngHu7qbYbj8Ci) | [Ginger Me](https://open.spotify.com/album/1FjkFEI5TuOmX4UDADlFXp) | 2:46 |
 
-Snapshot ID: `MCwwMjE4OGUwNWUwMDkzNDE4YzkzMmY3YzMyMDJhOTU3NGY1YzUxOWVj`
+Snapshot ID: `MCwzNjM0Zjg3NDc4NTQ5OTg2OTM4NjQ4MTU0NzJkNmEyOTE0OTQ3ZmMz`

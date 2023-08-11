@@ -1579,6 +1579,42 @@
     },
     {
       "album": {
+        "name": "Shallow",
+        "url": "https://open.spotify.com/album/1w5zIIKL9Zwan57jhtlhcF"
+      },
+      "artists": [
+        {
+          "name": "Sarah Trapp",
+          "url": "https://open.spotify.com/artist/0xaDA7p9ytShd7Sk49FPIs"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209479,
+      "name": "Shallow",
+      "url": "https://open.spotify.com/track/5IOPcHdIf7qq9OYcu6Hilx"
+    },
+    {
+      "album": {
+        "name": "Shiny Happy People",
+        "url": "https://open.spotify.com/album/2quXYmobmbwJqFq3PxWSBB"
+      },
+      "artists": [
+        {
+          "name": "Liam O'Driscoll",
+          "url": "https://open.spotify.com/artist/7djFTVrQrEuOZeP1yKGe1v"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149336,
+      "name": "Shiny Happy People",
+      "url": "https://open.spotify.com/track/19Q6RYkrArONtSksr7p2Xv"
+    },
+    {
+      "album": {
         "name": "Shivers",
         "url": "https://open.spotify.com/album/3FP08BXh4opzeqPPYPN7Tf"
       },

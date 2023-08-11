@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Gj7nguS95W.md) - [plain]
 
 > New wave took the 70s punk blueprint and ran wild! Cover: Blondie
 
-[Spotify](https://open.spotify.com/user/spotify) - 842,332 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 842,545 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Gj7nguS95W.md) - [plain]
 | 28 | [One Way Or Another](https://open.spotify.com/track/59CLe8stbcx4XYBWdsfbwK) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines](https://open.spotify.com/album/4M6s2jbhKWEcOdXZ8WiHts) | 3:37 |
 | 29 | [A Message to You Rudy \- 2015 Remaster](https://open.spotify.com/track/49slT7gVW0zj1KIG8w6DoL) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [The Specials \(Deluxe Version\)](https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE) | 2:52 |
 | 30 | [Our Lips Are Sealed \- Single Version](https://open.spotify.com/track/1GVnAD8Iz45rux6EC657Yv) | [The Go\-Go's](https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE) | [Beauty And The Beat](https://open.spotify.com/album/1L4HE00En7eNK74voVZums) | 2:47 |
-| 31 | [Blue Monday \- 2016 Remaster](https://open.spotify.com/track/1RSy7B2vfPi84N80QJ6frX) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Singles \(2016 Remaster\)](https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6) | 7:30 |
-| 32 | [This Is the Day](https://open.spotify.com/track/3FjYAj4hg5KiXpVAMjpLKq) | [The The](https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce) | [Soul Mining](https://open.spotify.com/album/0I7bOh7mYGUEyqCFHU9R0A) | 4:57 |
+| 31 | [This Is the Day](https://open.spotify.com/track/3FjYAj4hg5KiXpVAMjpLKq) | [The The](https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce) | [Soul Mining](https://open.spotify.com/album/0I7bOh7mYGUEyqCFHU9R0A) | 4:57 |
+| 32 | [Blue Monday \- 2016 Remaster](https://open.spotify.com/track/1RSy7B2vfPi84N80QJ6frX) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Singles \(2016 Remaster\)](https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6) | 7:30 |
 | 33 | [Boys Don't Cry \- Single Version](https://open.spotify.com/track/4dneV7C1yDt9UtyxrQY375) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys \(Deluxe Edition\)](https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC) | 2:37 |
 | 34 | [Ghost Town](https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [Stereo\-Typical: A's, B's & Rarities](https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz) | 3:39 |
 | 35 | [Manic Monday](https://open.spotify.com/track/00vYs0qZA40Z8AAaN7xmMO) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Different Light \(Expanded Edition\)](https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Gj7nguS95W.md) - [plain]
 | 49 | [Uncontrollable Urge](https://open.spotify.com/track/1RG1Pz45nlYNHka7JioyOT) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Q: Are We Not Men? A: We Are Devo!](https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC) | 3:11 |
 | 50 | [Mirror In the Bathroom](https://open.spotify.com/track/3LUhdkixxrrqv3nfNfkINe) | [The English Beat](https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N) | [I Just Can't Stop It \(Remastered\)](https://open.spotify.com/album/08zjJfP4f6cXGxscvztbvh) | 3:10 |
 
-Snapshot ID: `MCw4ODY0MWY1MjljMGIzMTk1ZTdhZTM4YmFkNGQ2MjM5MTcwODAyODA4`
+Snapshot ID: `MCwwOGU0MjYzYzc4NmQ4MjY5ZTI4MjVkNjY0Mzk5YTMyZDAzNzFkMGMy`

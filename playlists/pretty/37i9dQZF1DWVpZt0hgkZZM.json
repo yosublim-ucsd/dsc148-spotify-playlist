@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 21496,
+  "num_followers": 21525,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTMxNDU0ZTkyYWVjYzkyY2M2MzZiODgxYjAyZmY1NWRlMjE5ZWI5",
+  "snapshot_id": "MCwxN2E0YjY4N2UyOGJiMmQ3OTM2ZjZlNDg5Mzk0NzI4OWYwZTMyYmEw",
   "tracks": [
     {
       "added_at": "2021-12-16 22:41:17",
@@ -79,22 +79,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "En Tiempo De Amor",
-        "url": "https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl"
-      },
-      "artists": [
-        {
-          "name": "Maelo Ruiz",
-          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
-        }
-      ],
-      "duration_ms": 292920,
-      "name": "Te Va A Doler",
-      "url": "https://open.spotify.com/track/2ozSogNm6z9G2Uv6a9iji4"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "Men in Salsa",
         "url": "https://open.spotify.com/album/1yyEE7SQcJDHfFU8LtYfx4"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 251253,
       "name": "Tu Cari\u00f1ito",
       "url": "https://open.spotify.com/track/5uRd1tmUAvfFGSPR5266Xp"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "En Tiempo De Amor",
+        "url": "https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl"
+      },
+      "artists": [
+        {
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+        }
+      ],
+      "duration_ms": 292920,
+      "name": "Te Va A Doler",
+      "url": "https://open.spotify.com/track/2ozSogNm6z9G2Uv6a9iji4"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -667,18 +667,22 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Amor Amor",
-        "url": "https://open.spotify.com/album/5q4Qvt66KtNmpJGbutOGVE"
+        "name": "Muy Tropical y Bailable - 16 Exitos",
+        "url": "https://open.spotify.com/album/4zqlca5cQmkCPhL0ZZr3P8"
       },
       "artists": [
         {
-          "name": "La Familia Andr\u00e9",
-          "url": "https://open.spotify.com/artist/4dH8m3iCVtDv2jdsBBK9Uc"
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "La Tipica Ra7",
+          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
         }
       ],
-      "duration_ms": 279613,
-      "name": "De Oro",
-      "url": "https://open.spotify.com/track/2StaBZCqvzVx1582KFsmaP"
+      "duration_ms": 221440,
+      "name": "La Colegiala",
+      "url": "https://open.spotify.com/track/7rDIiNyDgqUb6WQOgskiiF"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -719,6 +723,22 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
+        "name": "Amor Amor",
+        "url": "https://open.spotify.com/album/5q4Qvt66KtNmpJGbutOGVE"
+      },
+      "artists": [
+        {
+          "name": "La Familia Andr\u00e9",
+          "url": "https://open.spotify.com/artist/4dH8m3iCVtDv2jdsBBK9Uc"
+        }
+      ],
+      "duration_ms": 279613,
+      "name": "De Oro",
+      "url": "https://open.spotify.com/track/2StaBZCqvzVx1582KFsmaP"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
         "name": "17 \u00c9xitos",
         "url": "https://open.spotify.com/album/3TWu5whCfUMJbbzaNXqved"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 182715,
       "name": "Cumbia del Amor",
       "url": "https://open.spotify.com/track/2MazrWNhGfpvWnFcgGTyQZ"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
-        "name": "Muy Tropical y Bailable - 16 Exitos",
-        "url": "https://open.spotify.com/album/4zqlca5cQmkCPhL0ZZr3P8"
-      },
-      "artists": [
-        {
-          "name": "Rodolfo Aicardi",
-          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
-        },
-        {
-          "name": "La Tipica Ra7",
-          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
-        }
-      ],
-      "duration_ms": 221440,
-      "name": "La Colegiala",
-      "url": "https://open.spotify.com/track/7rDIiNyDgqUb6WQOgskiiF"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -807,22 +807,6 @@
       "duration_ms": 265026,
       "name": "La Noche",
       "url": "https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
-        "name": "El Disco de Oro para Equipos de Sonido, Vol. 3",
-        "url": "https://open.spotify.com/album/6tqf3GggWUkKwHQATCFV7u"
-      },
-      "artists": [
-        {
-          "name": "Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/4GEVWh8Sit4x10PFf6ZFey"
-        }
-      ],
-      "duration_ms": 237445,
-      "name": "Maruja",
-      "url": "https://open.spotify.com/track/41JpQ2zSldbpfKMqAsXBCS"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -951,6 +935,22 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
+        "name": "El Viaje Musical de Lisandro Meza, 60 A\u00f1os, Vol. 1",
+        "url": "https://open.spotify.com/album/2ZwCWFJY7Kx12Uh1BrFdg3"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Meza",
+          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
+        }
+      ],
+      "duration_ms": 240039,
+      "name": "El Hijo de Tuta",
+      "url": "https://open.spotify.com/track/5UcFBZjRxPH4fQbRrkGwjT"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
         "name": "Exito",
         "url": "https://open.spotify.com/album/47KNauaaXrTkZ6GcR1ggRF"
       },
@@ -967,18 +967,22 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "El Viaje Musical de Lisandro Meza, 60 A\u00f1os, Vol. 1",
-        "url": "https://open.spotify.com/album/2ZwCWFJY7Kx12Uh1BrFdg3"
+        "name": "32 Ca\u00f1onazos",
+        "url": "https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn"
       },
       "artists": [
         {
-          "name": "Lisandro Meza",
-          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+        },
+        {
+          "name": "La Verdad",
+          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
         }
       ],
-      "duration_ms": 240039,
-      "name": "El Hijo de Tuta",
-      "url": "https://open.spotify.com/track/5UcFBZjRxPH4fQbRrkGwjT"
+      "duration_ms": 378373,
+      "name": "Rebeli\u00f3n",
+      "url": "https://open.spotify.com/track/4sm3mdqmSqhG8KU79rVOY8"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1019,22 +1023,18 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "32 Ca\u00f1onazos",
-        "url": "https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7kV3KWcCEPi4HeDVFzSh0L"
       },
       "artists": [
         {
-          "name": "Joe Arroyo",
-          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
-        },
-        {
-          "name": "La Verdad",
-          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
+          "name": "Los Embajadores Vallenatos",
+          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
         }
       ],
-      "duration_ms": 378373,
-      "name": "Rebeli\u00f3n",
-      "url": "https://open.spotify.com/track/4sm3mdqmSqhG8KU79rVOY8"
+      "duration_ms": 269191,
+      "name": "El Santo Cachon",
+      "url": "https://open.spotify.com/track/5MDeca8IiesNdQsOZC894q"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1051,22 +1051,6 @@
       "duration_ms": 212293,
       "name": "Las Cale\u00f1as",
       "url": "https://open.spotify.com/track/0wPpztRZgvcRCdk3jtHS7r"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7kV3KWcCEPi4HeDVFzSh0L"
-      },
-      "artists": [
-        {
-          "name": "Los Embajadores Vallenatos",
-          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
-        }
-      ],
-      "duration_ms": 269191,
-      "name": "El Santo Cachon",
-      "url": "https://open.spotify.com/track/5MDeca8IiesNdQsOZC894q"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1135,22 +1119,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Leyenda",
-        "url": "https://open.spotify.com/album/4AgLTHJbge9qFG9EMDMulF"
-      },
-      "artists": [
-        {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
-        }
-      ],
-      "duration_ms": 257642,
-      "name": "Muchacha Encantadora",
-      "url": "https://open.spotify.com/track/5KKPgPdbnERMiiQgFw4dJl"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "Nelson Henr\u00edquez vs. Pastor L\u00f3pez",
         "url": "https://open.spotify.com/album/4dniAe3ER3NCfMl60ByGaW"
       },
@@ -1171,18 +1139,18 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "El Disco de Oro para Equipos de Sonido, Vol. 2",
-        "url": "https://open.spotify.com/album/4S7gUk1Ch5OLjaskyj4F1v"
+        "name": "Leyenda",
+        "url": "https://open.spotify.com/album/4AgLTHJbge9qFG9EMDMulF"
       },
       "artists": [
         {
-          "name": "Rossy",
-          "url": "https://open.spotify.com/artist/5zH1mfgDhh4stcLYalyHxS"
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
         }
       ],
-      "duration_ms": 174278,
-      "name": "Carola",
-      "url": "https://open.spotify.com/track/3WdRFcWRXhChWbVpyUCxuF"
+      "duration_ms": 257642,
+      "name": "Muchacha Encantadora",
+      "url": "https://open.spotify.com/track/5KKPgPdbnERMiiQgFw4dJl"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1199,6 +1167,54 @@
       "duration_ms": 264800,
       "name": "Te Voy a Hacer Falta",
       "url": "https://open.spotify.com/track/4KU0EUeD26y6PUGiHGjGBz"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "Los A\u00f1os Dorados",
+        "url": "https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 259186,
+      "name": "El Comejen",
+      "url": "https://open.spotify.com/track/6KWj4TAjZMVwZWxXzvHIGD"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "Orqu\u00eddea de Plata",
+        "url": "https://open.spotify.com/album/22gSxHcz1T3gscMlBYOWzn"
+      },
+      "artists": [
+        {
+          "name": "Nelson Y Sus Estrellas",
+          "url": "https://open.spotify.com/artist/5SRwYMyavJCNT2AdVMpPgi"
+        }
+      ],
+      "duration_ms": 165586,
+      "name": "La Sirena",
+      "url": "https://open.spotify.com/track/3KPNyfWQEF6EKAmbHfboZI"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "Lo Mejor de Los Fantasmas del caribe",
+        "url": "https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f"
+      },
+      "artists": [
+        {
+          "name": "Los Fantasmas del Caribe",
+          "url": "https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha"
+        }
+      ],
+      "duration_ms": 247059,
+      "name": "Ag\u00fcita 'e Coco",
+      "url": "https://open.spotify.com/track/5KIIx001g9DeBGUH5eCc83"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1223,50 +1239,22 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Los A\u00f1os Dorados",
-        "url": "https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg"
+        "name": "Muy Tropical y Bailable - 16 Exitos",
+        "url": "https://open.spotify.com/album/4zqlca5cQmkCPhL0ZZr3P8"
       },
       "artists": [
         {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 259186,
-      "name": "El Comejen",
-      "url": "https://open.spotify.com/track/6KWj4TAjZMVwZWxXzvHIGD"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
-        "name": "Lo Mejor de Los Fantasmas del caribe",
-        "url": "https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f"
-      },
-      "artists": [
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
         {
-          "name": "Los Fantasmas del Caribe",
-          "url": "https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha"
+          "name": "La Tipica Ra7",
+          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
         }
       ],
-      "duration_ms": 247059,
-      "name": "Ag\u00fcita 'e Coco",
-      "url": "https://open.spotify.com/track/5KIIx001g9DeBGUH5eCc83"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
-        "name": "Orqu\u00eddea de Plata",
-        "url": "https://open.spotify.com/album/22gSxHcz1T3gscMlBYOWzn"
-      },
-      "artists": [
-        {
-          "name": "Nelson Y Sus Estrellas",
-          "url": "https://open.spotify.com/artist/5SRwYMyavJCNT2AdVMpPgi"
-        }
-      ],
-      "duration_ms": 165586,
-      "name": "La Sirena",
-      "url": "https://open.spotify.com/track/3KPNyfWQEF6EKAmbHfboZI"
+      "duration_ms": 244506,
+      "name": "Tabaco y Ron",
+      "url": "https://open.spotify.com/track/2jOuQXGCCVHrQeVzyNLwb9"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1307,22 +1295,18 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Muy Tropical y Bailable - 16 Exitos",
-        "url": "https://open.spotify.com/album/4zqlca5cQmkCPhL0ZZr3P8"
+        "name": "Party Tyme Karaoke - Latin Tropical Hits 9",
+        "url": "https://open.spotify.com/album/2Kad5QdqEJgphjREfG1p9I"
       },
       "artists": [
         {
-          "name": "Rodolfo Aicardi",
-          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
-        },
-        {
-          "name": "La Tipica Ra7",
-          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
+          "name": "Party Tyme Karaoke",
+          "url": "https://open.spotify.com/artist/3JoDcjZtpq0ccldFgYmeAB"
         }
       ],
-      "duration_ms": 244506,
-      "name": "Tabaco y Ron",
-      "url": "https://open.spotify.com/track/2jOuQXGCCVHrQeVzyNLwb9"
+      "duration_ms": 188717,
+      "name": "Oye (Made Popular By La Sonora Dinamita) [Karaoke Version]",
+      "url": "https://open.spotify.com/track/2eTfL1xavot0ey3izNzT94"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1343,22 +1327,6 @@
       "duration_ms": 212640,
       "name": "Dime Que Pas\u00f3",
       "url": "https://open.spotify.com/track/65D6E7asOuIcW8MQWaRCV2"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
-        "name": "Party Tyme Karaoke - Latin Tropical Hits 9",
-        "url": "https://open.spotify.com/album/2Kad5QdqEJgphjREfG1p9I"
-      },
-      "artists": [
-        {
-          "name": "Party Tyme Karaoke",
-          "url": "https://open.spotify.com/artist/3JoDcjZtpq0ccldFgYmeAB"
-        }
-      ],
-      "duration_ms": 188717,
-      "name": "Oye (Made Popular By La Sonora Dinamita) [Karaoke Version]",
-      "url": "https://open.spotify.com/track/2eTfL1xavot0ey3izNzT94"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1395,22 +1363,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "14 vallenatos sabroso",
-        "url": "https://open.spotify.com/album/0gXmF1WjNrMS7lr2IGvZlc"
-      },
-      "artists": [
-        {
-          "name": "14 vallenatos sabroso corta venas vol.1 exitos",
-          "url": "https://open.spotify.com/artist/06KHPOCzkYqiehC5da8hrl"
-        }
-      ],
-      "duration_ms": 283103,
-      "name": "muero por verla luis mateus vallenato",
-      "url": "https://open.spotify.com/track/0TONniNVBHXA4QvTw93P91"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "Estrellas Corraleras - Fundadores de la Cumbia Colombiana",
         "url": "https://open.spotify.com/album/5HthmfIydsx1AIrsdyjP99"
       },
@@ -1427,6 +1379,22 @@
       "duration_ms": 162826,
       "name": "Los Sabanales",
       "url": "https://open.spotify.com/track/1CkC4DWgPvj4eEMgxcs0me"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "14 vallenatos sabroso",
+        "url": "https://open.spotify.com/album/0gXmF1WjNrMS7lr2IGvZlc"
+      },
+      "artists": [
+        {
+          "name": "14 vallenatos sabroso corta venas vol.1 exitos",
+          "url": "https://open.spotify.com/artist/06KHPOCzkYqiehC5da8hrl"
+        }
+      ],
+      "duration_ms": 283103,
+      "name": "muero por verla luis mateus vallenato",
+      "url": "https://open.spotify.com/track/0TONniNVBHXA4QvTw93P91"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1499,6 +1467,22 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
+        "name": "Exitos De Billo's Caracas Boys",
+        "url": "https://open.spotify.com/album/0NjbROu91EHfCSwebjtU8n"
+      },
+      "artists": [
+        {
+          "name": "Billo's",
+          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+        }
+      ],
+      "duration_ms": 183228,
+      "name": "Cumbia Caletera",
+      "url": "https://open.spotify.com/track/5t1feZXRvi9xSFNEEMuboe"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
         "name": "Historia M\u00fasical - 30 \u00c9xitos",
         "url": "https://open.spotify.com/album/1xNSKvjq7Te0taB7oyocdj"
       },
@@ -1515,22 +1499,6 @@
       "duration_ms": 280880,
       "name": "Buscandote",
       "url": "https://open.spotify.com/track/2FtjaDTZOsJCjFWuNXqJUl"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
-        "name": "Exitos De Billo's Caracas Boys",
-        "url": "https://open.spotify.com/album/0NjbROu91EHfCSwebjtU8n"
-      },
-      "artists": [
-        {
-          "name": "Billo's",
-          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
-        }
-      ],
-      "duration_ms": 183228,
-      "name": "Cumbia Caletera",
-      "url": "https://open.spotify.com/track/5t1feZXRvi9xSFNEEMuboe"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1655,26 +1623,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Historia M\u00fasical - 30 \u00c9xitos",
-        "url": "https://open.spotify.com/album/1xNSKvjq7Te0taB7oyocdj"
-      },
-      "artists": [
-        {
-          "name": "The Latin Brothers",
-          "url": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
-        },
-        {
-          "name": "Piper Pimienta Diaz",
-          "url": "https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX"
-        }
-      ],
-      "duration_ms": 237253,
-      "name": "Las Cale\u00f1as Son Como las Flores",
-      "url": "https://open.spotify.com/track/1gntkHoZ8rdpeeVxLbQ6oF"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "Historia M\u00fasical - 40 \u00c9xitos",
         "url": "https://open.spotify.com/album/08HcNFrvSVdG8h1zOJj7nO"
       },
@@ -1707,6 +1655,26 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
+        "name": "Historia M\u00fasical - 30 \u00c9xitos",
+        "url": "https://open.spotify.com/album/1xNSKvjq7Te0taB7oyocdj"
+      },
+      "artists": [
+        {
+          "name": "The Latin Brothers",
+          "url": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
+        },
+        {
+          "name": "Piper Pimienta Diaz",
+          "url": "https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX"
+        }
+      ],
+      "duration_ms": 237253,
+      "name": "Las Cale\u00f1as Son Como las Flores",
+      "url": "https://open.spotify.com/track/1gntkHoZ8rdpeeVxLbQ6oF"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
         "name": "50 A\u00f1os",
         "url": "https://open.spotify.com/album/03P9nkgd358tP9XIPxzKHM"
       },
@@ -1719,6 +1687,42 @@
       "duration_ms": 248778,
       "name": "Me Recordaras",
       "url": "https://open.spotify.com/track/0w5lgtOu6MFQQsnNQeuuld"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "14 Vallenatos Rom\u00e1nticos, Vol. 3",
+        "url": "https://open.spotify.com/album/7cSjg2xmqW00pURG1SApjn"
+      },
+      "artists": [
+        {
+          "name": "Erick Escobar y La Decisi\u00f3n Vallenata",
+          "url": "https://open.spotify.com/artist/0g82wlKp1G6jdN3k36iwCG"
+        },
+        {
+          "name": "Nayo Quintero",
+          "url": "https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO"
+        }
+      ],
+      "duration_ms": 283480,
+      "name": "Amor Sin Fronteras",
+      "url": "https://open.spotify.com/track/4dBHzUM0bjAEtTwfy1YZDs"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "Latin Vallenatos",
+        "url": "https://open.spotify.com/album/0uWkTYkohs30DzAhSMIf3D"
+      },
+      "artists": [
+        {
+          "name": "Vallenatos Nativos",
+          "url": "https://open.spotify.com/artist/5SdcPt2f884fB3DITvFqok"
+        }
+      ],
+      "duration_ms": 139586,
+      "name": "La Chica Gomela (Ni\u00f1a Fresa)",
+      "url": "https://open.spotify.com/track/69qirPIejgKVEeflQfGah5"
     }
   ],
   "unique_name": "\u00c9xitos de Balneario",

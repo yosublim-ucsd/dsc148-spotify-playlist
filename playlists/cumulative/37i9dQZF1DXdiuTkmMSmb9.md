@@ -4,7 +4,7 @@
 
 > Tropical jams to catch a vibe and whine to\. Cover: Burna Boy, Byron Messia
 
-318 songs - 16 hr 29 min
+319 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Play Play \(feat\. Burna Boy\)](https://open.spotify.com/track/3R60ekRcGXuaoZmnbdlf3n) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Big Conspiracy](https://open.spotify.com/album/3ORNNahv0Z1IU0AKoliZwn) | 3:25 | 2022-07-18 | 2022-08-19 |
 | [Playboy](https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI) | 3:27 | 2022-07-18 | 2023-02-24 |
 | [Playboy](https://open.spotify.com/track/2AKS1HhpLu2rgkojECUm3V) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 3:27 | 2022-08-25 | 2022-09-09 |
+| [Please Don't Go](https://open.spotify.com/track/5gBfzyPlfJCOq7uUF9IOA0) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Cheekychizzy](https://open.spotify.com/artist/5z6nZumE4lrnP3Nqcqdhz1) | [Please Don't Go](https://open.spotify.com/album/5v7R0bfnMmiFhqkGFGpIFm) | 2:28 | 2023-08-10 |  |
 | [Poppin'](https://open.spotify.com/track/582GTwikEv86oVKjYvfwcM) | [Django23](https://open.spotify.com/artist/6idAEKryH3ywILH6WYFWZ9), [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [TSB](https://open.spotify.com/artist/5TcyvDMRRaMjCBoXIUWofZ) | [Poppin'](https://open.spotify.com/album/16HLb3NFsQ4lZj405mBHyG) | 3:01 | 2022-07-18 | 2022-12-02 |
 | [Prada](https://open.spotify.com/track/3exazfhwOkM7KazLYFHi4V) | [Quadzzy](https://open.spotify.com/artist/29daVwOn1cciWR8Vu5WOLP) | [Prada](https://open.spotify.com/album/02G1Tq4UT39hYfELK6ib5Z) | 3:28 | 2022-07-18 | 2022-10-28 |
 | [Pray 2 The East \(feat\. BNXN fka Buju\)](https://open.spotify.com/track/5NI7jC26RB9s7prQc7SkZg) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Pray 2 The East](https://open.spotify.com/album/6oOKILSxYzQ3xmk7QDncIR) | 2:58 | 2022-07-18 | 2022-11-18 |

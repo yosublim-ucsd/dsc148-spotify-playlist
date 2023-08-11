@@ -1,12 +1,12 @@
 {
   "description": "Fresh and recent tracks from the world of Prog Metal. Cover: Periphery",
-  "num_followers": 510105,
+  "num_followers": 510213,
   "original_name": "Progressive Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTg4Yzk3ODljODY1YjRlZWY5NTczNTA5OWI0MTVjMWJlZGY3ZTli",
+  "snapshot_id": "MCwyZjQ5NWQ5ZjAwM2FiZWM1MTIyMjUxZmVlMTE0NjM2YzhmZmFiNmQy",
   "tracks": [
     {
       "added_at": "2023-07-21 04:01:00",
@@ -947,22 +947,18 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "False Providence (feat. Mick Gordon)",
-        "url": "https://open.spotify.com/album/7hMm40HVdj5nViNO7PruJf"
+        "name": "Happier?",
+        "url": "https://open.spotify.com/album/2A8YKx8YDBY5uCgVZJg6Oo"
       },
       "artists": [
         {
-          "name": "Monuments",
-          "url": "https://open.spotify.com/artist/71IBhhBhtPLZ8OyVuXOw77"
-        },
-        {
-          "name": "Mick Gordon",
-          "url": "https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y"
+          "name": "Volumes",
+          "url": "https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU"
         }
       ],
-      "duration_ms": 301640,
-      "name": "False Providence (feat. Mick Gordon)",
-      "url": "https://open.spotify.com/track/3G5oOfICsWYVeONbtB7vRJ"
+      "duration_ms": 223600,
+      "name": "Weighted",
+      "url": "https://open.spotify.com/track/7dcbDhMbfJevMqO0D7Hhwt"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -983,18 +979,22 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Happier?",
-        "url": "https://open.spotify.com/album/2A8YKx8YDBY5uCgVZJg6Oo"
+        "name": "False Providence (feat. Mick Gordon)",
+        "url": "https://open.spotify.com/album/7hMm40HVdj5nViNO7PruJf"
       },
       "artists": [
         {
-          "name": "Volumes",
-          "url": "https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU"
+          "name": "Monuments",
+          "url": "https://open.spotify.com/artist/71IBhhBhtPLZ8OyVuXOw77"
+        },
+        {
+          "name": "Mick Gordon",
+          "url": "https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y"
         }
       ],
-      "duration_ms": 223600,
-      "name": "Weighted",
-      "url": "https://open.spotify.com/track/7dcbDhMbfJevMqO0D7Hhwt"
+      "duration_ms": 301640,
+      "name": "False Providence (feat. Mick Gordon)",
+      "url": "https://open.spotify.com/track/3G5oOfICsWYVeONbtB7vRJ"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
+        "name": "holywater",
+        "url": "https://open.spotify.com/album/2rDtya9iHi1StTjrVIiZMt"
+      },
+      "artists": [
+        {
+          "name": "Volumes",
+          "url": "https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "holywater",
+      "url": "https://open.spotify.com/track/1C8xKYntDnAzvzwcSLnU7W"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
         "name": "Redeemer",
         "url": "https://open.spotify.com/album/1eZGxI9LWYt3VdvEUUCPBa"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 348005,
       "name": "br\u00e4nnm\u00e4rkt",
       "url": "https://open.spotify.com/track/15ux2HWFlZnYoENzJYnzV2"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "holywater",
-        "url": "https://open.spotify.com/album/2rDtya9iHi1StTjrVIiZMt"
-      },
-      "artists": [
-        {
-          "name": "Volumes",
-          "url": "https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "holywater",
-      "url": "https://open.spotify.com/track/1C8xKYntDnAzvzwcSLnU7W"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
+        "name": "Cold Sanctuary",
+        "url": "https://open.spotify.com/album/2OWZ870BnUw4v0Z9EBTekJ"
+      },
+      "artists": [
+        {
+          "name": "Mirrors",
+          "url": "https://open.spotify.com/artist/1bVZhrnnRNPi98wcJQT8YD"
+        }
+      ],
+      "duration_ms": 259285,
+      "name": "Damien",
+      "url": "https://open.spotify.com/track/56k68f1Csqmfx9vRXi9Jsl"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
         "name": "PORTALS",
         "url": "https://open.spotify.com/album/2hF7dY29EsfBvXe65PYPBd"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 314333,
       "name": "Longing",
       "url": "https://open.spotify.com/track/6ig9kBoTHXEbVhePqzhngW"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "Cold Sanctuary",
-        "url": "https://open.spotify.com/album/2OWZ870BnUw4v0Z9EBTekJ"
-      },
-      "artists": [
-        {
-          "name": "Mirrors",
-          "url": "https://open.spotify.com/artist/1bVZhrnnRNPi98wcJQT8YD"
-        }
-      ],
-      "duration_ms": 259285,
-      "name": "Damien",
-      "url": "https://open.spotify.com/track/56k68f1Csqmfx9vRXi9Jsl"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Nightingale",
-        "url": "https://open.spotify.com/album/0zfKKza4jm4n4L2Z78bOd2"
-      },
-      "artists": [
-        {
-          "name": "Haken",
-          "url": "https://open.spotify.com/artist/2SRIVGDkdqQnrQdaXxDkJt"
-        }
-      ],
-      "duration_ms": 443698,
-      "name": "Nightingale",
-      "url": "https://open.spotify.com/track/1J8fTSO6ywgqkygxRGAVof"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
         "name": "Talk",
         "url": "https://open.spotify.com/album/43pfkcNETmbajTLpxDfyMx"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 219428,
       "name": "Neil",
       "url": "https://open.spotify.com/track/7wiVnVgNhPICJsAIf8O00A"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Nightingale",
+        "url": "https://open.spotify.com/album/0zfKKza4jm4n4L2Z78bOd2"
+      },
+      "artists": [
+        {
+          "name": "Haken",
+          "url": "https://open.spotify.com/artist/2SRIVGDkdqQnrQdaXxDkJt"
+        }
+      ],
+      "duration_ms": 443698,
+      "name": "Nightingale",
+      "url": "https://open.spotify.com/track/1J8fTSO6ywgqkygxRGAVof"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -1839,38 +1839,6 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Nous Sommes La Guerre",
-        "url": "https://open.spotify.com/album/53kmVPU7XLxDgIZob1lAmA"
-      },
-      "artists": [
-        {
-          "name": "Soilwork",
-          "url": "https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx"
-        }
-      ],
-      "duration_ms": 413426,
-      "name": "Nous Sommes la Guerre",
-      "url": "https://open.spotify.com/track/24B3NFMGpDkG952oyc2ALX"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "Lovebite",
-        "url": "https://open.spotify.com/album/7l5C0M00szx06bZBiRfitX"
-      },
-      "artists": [
-        {
-          "name": "Haken",
-          "url": "https://open.spotify.com/artist/2SRIVGDkdqQnrQdaXxDkJt"
-        }
-      ],
-      "duration_ms": 229440,
-      "name": "Lovebite",
-      "url": "https://open.spotify.com/track/5eF04x4p4bLw6rpaNcMX8n"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
         "name": "Coming Clean",
         "url": "https://open.spotify.com/album/5fqddxT7gPhi1IPD2kfrdE"
       },
@@ -1891,6 +1859,22 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
+        "name": "Nous Sommes La Guerre",
+        "url": "https://open.spotify.com/album/53kmVPU7XLxDgIZob1lAmA"
+      },
+      "artists": [
+        {
+          "name": "Soilwork",
+          "url": "https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx"
+        }
+      ],
+      "duration_ms": 413426,
+      "name": "Nous Sommes la Guerre",
+      "url": "https://open.spotify.com/track/24B3NFMGpDkG952oyc2ALX"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
         "name": "Heirloom",
         "url": "https://open.spotify.com/album/7lPuo8764m0CLuTltqj1U1"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 262153,
       "name": "Heirloom",
       "url": "https://open.spotify.com/track/30a1OAy25aiX9vdYxy42om"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Lovebite",
+        "url": "https://open.spotify.com/album/7l5C0M00szx06bZBiRfitX"
+      },
+      "artists": [
+        {
+          "name": "Haken",
+          "url": "https://open.spotify.com/artist/2SRIVGDkdqQnrQdaXxDkJt"
+        }
+      ],
+      "duration_ms": 229440,
+      "name": "Lovebite",
+      "url": "https://open.spotify.com/track/5eF04x4p4bLw6rpaNcMX8n"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -1987,18 +1987,18 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Momentum",
-        "url": "https://open.spotify.com/album/6j55OYKRegHBCRIJ9ncveq"
+        "name": "I Am That Thirst",
+        "url": "https://open.spotify.com/album/7hw65PGHpBFnDcZRdT3VBr"
       },
       "artists": [
         {
-          "name": "Their Dogs Were Astronauts",
-          "url": "https://open.spotify.com/artist/4Z9zaQ8l8EbHdZPwaP691h"
+          "name": "Meshuggah",
+          "url": "https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY"
         }
       ],
-      "duration_ms": 298909,
-      "name": "Calypso",
-      "url": "https://open.spotify.com/track/4e9TXq9fmYkoeNuoczOxbm"
+      "duration_ms": 280141,
+      "name": "I Am That Thirst",
+      "url": "https://open.spotify.com/track/6haPL5fAuRJ25u2E9PQyQx"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "I Am That Thirst",
-        "url": "https://open.spotify.com/album/7hw65PGHpBFnDcZRdT3VBr"
-      },
-      "artists": [
-        {
-          "name": "Meshuggah",
-          "url": "https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY"
-        }
-      ],
-      "duration_ms": 280141,
-      "name": "I Am That Thirst",
-      "url": "https://open.spotify.com/track/6haPL5fAuRJ25u2E9PQyQx"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
         "name": "Sleepless",
         "url": "https://open.spotify.com/album/6lQM0ttt55S8PtXkFHVURB"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 219737,
       "name": "Lights",
       "url": "https://open.spotify.com/track/0MhMeOy3Rq1LkaB7puQRRp"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Momentum",
+        "url": "https://open.spotify.com/album/6j55OYKRegHBCRIJ9ncveq"
+      },
+      "artists": [
+        {
+          "name": "Their Dogs Were Astronauts",
+          "url": "https://open.spotify.com/artist/4Z9zaQ8l8EbHdZPwaP691h"
+        }
+      ],
+      "duration_ms": 298909,
+      "name": "Calypso",
+      "url": "https://open.spotify.com/track/4e9TXq9fmYkoeNuoczOxbm"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Picayune",
-        "url": "https://open.spotify.com/album/2mb4WfrUOHJYu6qlFu0CRQ"
-      },
-      "artists": [
-        {
-          "name": "Satyr",
-          "url": "https://open.spotify.com/artist/5ktYe9ZQMyLivSJbjEEEXy"
-        }
-      ],
-      "duration_ms": 231797,
-      "name": "Picayune",
-      "url": "https://open.spotify.com/track/5JPqKVQvEaSbYjDg56i8UX"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
         "name": "Artificial Void",
         "url": "https://open.spotify.com/album/6x5jAsKU1x9JB5u5eZ6sLg"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 346415,
       "name": "Avatar",
       "url": "https://open.spotify.com/track/12f0f3XqpyPb4O8bdtDn3E"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Picayune",
+        "url": "https://open.spotify.com/album/2mb4WfrUOHJYu6qlFu0CRQ"
+      },
+      "artists": [
+        {
+          "name": "Satyr",
+          "url": "https://open.spotify.com/artist/5ktYe9ZQMyLivSJbjEEEXy"
+        }
+      ],
+      "duration_ms": 231797,
+      "name": "Picayune",
+      "url": "https://open.spotify.com/track/5JPqKVQvEaSbYjDg56i8UX"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Diabolical Majesty",
-        "url": "https://open.spotify.com/album/2lmJTrhnj2OKxp8c9zJE59"
-      },
-      "artists": [
-        {
-          "name": "Revocation",
-          "url": "https://open.spotify.com/artist/4I9kzJ3Ew3qPoN66UPJUl3"
-        }
-      ],
-      "duration_ms": 296386,
-      "name": "Diabolical Majesty",
-      "url": "https://open.spotify.com/track/7LpG7xh1lmyS2hfE10JlKN"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
         "name": "Chauvinist",
         "url": "https://open.spotify.com/album/6hRnrYQSZOKd8msauQCChA"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 193557,
       "name": "Chauvinist",
       "url": "https://open.spotify.com/track/2znJImPhsEV8FhHI4Xzxoc"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Diabolical Majesty",
+        "url": "https://open.spotify.com/album/2lmJTrhnj2OKxp8c9zJE59"
+      },
+      "artists": [
+        {
+          "name": "Revocation",
+          "url": "https://open.spotify.com/artist/4I9kzJ3Ew3qPoN66UPJUl3"
+        }
+      ],
+      "duration_ms": 296386,
+      "name": "Diabolical Majesty",
+      "url": "https://open.spotify.com/track/7LpG7xh1lmyS2hfE10JlKN"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -2523,22 +2523,6 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Radiant Ascension",
-        "url": "https://open.spotify.com/album/5ov3mKBuN98nepwM13RFCa"
-      },
-      "artists": [
-        {
-          "name": "Fallujah",
-          "url": "https://open.spotify.com/artist/3C5R32AIZlLfMa3uxLEYrU"
-        }
-      ],
-      "duration_ms": 243312,
-      "name": "Radiant Ascension",
-      "url": "https://open.spotify.com/track/5qpOR69C7uAEGy7uMJznrW"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
         "name": "Paragon",
         "url": "https://open.spotify.com/album/4TLl1j6ojm8pTMRucMVVqT"
       },
@@ -2551,6 +2535,22 @@
       "duration_ms": 282493,
       "name": "Hero",
       "url": "https://open.spotify.com/track/4gWQgoWxCPeuR1GcUuqNYK"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Radiant Ascension",
+        "url": "https://open.spotify.com/album/5ov3mKBuN98nepwM13RFCa"
+      },
+      "artists": [
+        {
+          "name": "Fallujah",
+          "url": "https://open.spotify.com/artist/3C5R32AIZlLfMa3uxLEYrU"
+        }
+      ],
+      "duration_ms": 243312,
+      "name": "Radiant Ascension",
+      "url": "https://open.spotify.com/track/5qpOR69C7uAEGy7uMJznrW"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -2863,22 +2863,6 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Pendulum",
-        "url": "https://open.spotify.com/album/3atT3fDVkxsThexLnxNjfM"
-      },
-      "artists": [
-        {
-          "name": "Their Dogs Were Astronauts",
-          "url": "https://open.spotify.com/artist/4Z9zaQ8l8EbHdZPwaP691h"
-        }
-      ],
-      "duration_ms": 232594,
-      "name": "Pendulum",
-      "url": "https://open.spotify.com/track/4HMh3kHGNPE9pSZwR0Jr1M"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
         "name": "Cloudburst",
         "url": "https://open.spotify.com/album/0uTemOj24WSMxUs4R6Ab4x"
       },
@@ -2891,6 +2875,22 @@
       "duration_ms": 214760,
       "name": "Counterfeit",
       "url": "https://open.spotify.com/track/56DpxldmWlbxESQ3g7J4Ij"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Pendulum",
+        "url": "https://open.spotify.com/album/3atT3fDVkxsThexLnxNjfM"
+      },
+      "artists": [
+        {
+          "name": "Their Dogs Were Astronauts",
+          "url": "https://open.spotify.com/artist/4Z9zaQ8l8EbHdZPwaP691h"
+        }
+      ],
+      "duration_ms": 232594,
+      "name": "Pendulum",
+      "url": "https://open.spotify.com/track/4HMh3kHGNPE9pSZwR0Jr1M"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -2947,22 +2947,6 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Dead and Gone",
-        "url": "https://open.spotify.com/album/5OJSteJeFevGYUd1GfDb7W"
-      },
-      "artists": [
-        {
-          "name": "RVNT",
-          "url": "https://open.spotify.com/artist/22KUYijKLi9NjqQvslLNAK"
-        }
-      ],
-      "duration_ms": 177568,
-      "name": "Dead and Gone",
-      "url": "https://open.spotify.com/track/1u2WRDMqPg36u9T8Rt3uqo"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
         "name": "Prototype",
         "url": "https://open.spotify.com/album/4i4eF8fn6DxE6OCatKIfPx"
       },
@@ -2975,6 +2959,22 @@
       "duration_ms": 238641,
       "name": "Prototype",
       "url": "https://open.spotify.com/track/2xgevvLhVHskqiKTd2dnGr"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Dead and Gone",
+        "url": "https://open.spotify.com/album/5OJSteJeFevGYUd1GfDb7W"
+      },
+      "artists": [
+        {
+          "name": "RVNT",
+          "url": "https://open.spotify.com/artist/22KUYijKLi9NjqQvslLNAK"
+        }
+      ],
+      "duration_ms": 177568,
+      "name": "Dead and Gone",
+      "url": "https://open.spotify.com/track/1u2WRDMqPg36u9T8Rt3uqo"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -3027,22 +3027,6 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Everything Sucks and I Think I'm a Big Part of It",
-        "url": "https://open.spotify.com/album/4Y3QeJZDThwEXt057VZmqw"
-      },
-      "artists": [
-        {
-          "name": "Destrage",
-          "url": "https://open.spotify.com/artist/4aOJwHpU6TcuhC4QKNn8MS"
-        }
-      ],
-      "duration_ms": 258680,
-      "name": "Everything Sucks and I Think I'm a Big Part of It",
-      "url": "https://open.spotify.com/track/4J1AWHqM14RphuStdjljcy"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
         "name": "Skylla",
         "url": "https://open.spotify.com/album/2mmTwMMc5IPDfAziKQoYwQ"
       },
@@ -3071,6 +3055,22 @@
       "duration_ms": 311250,
       "name": "Black Rainbow",
       "url": "https://open.spotify.com/track/7qvj3XBm3H4TqmfEQ2PWXM"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Everything Sucks and I Think I'm a Big Part of It",
+        "url": "https://open.spotify.com/album/4Y3QeJZDThwEXt057VZmqw"
+      },
+      "artists": [
+        {
+          "name": "Destrage",
+          "url": "https://open.spotify.com/artist/4aOJwHpU6TcuhC4QKNn8MS"
+        }
+      ],
+      "duration_ms": 258680,
+      "name": "Everything Sucks and I Think I'm a Big Part of It",
+      "url": "https://open.spotify.com/track/4J1AWHqM14RphuStdjljcy"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -3155,18 +3155,18 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Lost Not Forgotten Archives: The Making of Falling Into Infinity (1997)",
-        "url": "https://open.spotify.com/album/6PSF6V0b6eMbuBI8lBMahX"
+        "name": "Reclaim",
+        "url": "https://open.spotify.com/album/3P8HJRzE1Awh92lXIZqsU0"
       },
       "artists": [
         {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+          "name": "From Sorrow To Serenity",
+          "url": "https://open.spotify.com/artist/2s4zBLzqaGlaBYzGG5G3Q5"
         }
       ],
-      "duration_ms": 104367,
-      "name": "Peruvian Skies (Basic Tracks)",
-      "url": "https://open.spotify.com/track/7lXJWraADeGngycPUcBngY"
+      "duration_ms": 196320,
+      "name": "Reclaim",
+      "url": "https://open.spotify.com/track/4CYXS6XxPaqPdTOu7RApQ4"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -3187,18 +3187,18 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Reclaim",
-        "url": "https://open.spotify.com/album/3P8HJRzE1Awh92lXIZqsU0"
+        "name": "Lost Not Forgotten Archives: The Making of Falling Into Infinity (1997)",
+        "url": "https://open.spotify.com/album/6PSF6V0b6eMbuBI8lBMahX"
       },
       "artists": [
         {
-          "name": "From Sorrow To Serenity",
-          "url": "https://open.spotify.com/artist/2s4zBLzqaGlaBYzGG5G3Q5"
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
         }
       ],
-      "duration_ms": 196320,
-      "name": "Reclaim",
-      "url": "https://open.spotify.com/track/4CYXS6XxPaqPdTOu7RApQ4"
+      "duration_ms": 104367,
+      "name": "Peruvian Skies (Basic Tracks)",
+      "url": "https://open.spotify.com/track/7lXJWraADeGngycPUcBngY"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -3219,18 +3219,18 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Departure to the Front Lines (From \"Naruto\")",
-        "url": "https://open.spotify.com/album/01hJZ8jwF7xxCZLpc55Eis"
+        "name": "Vector",
+        "url": "https://open.spotify.com/album/2pZ1JENtpc3fNuKfjjQXeC"
       },
       "artists": [
         {
-          "name": "Gabriele Motta",
-          "url": "https://open.spotify.com/artist/74Z82c9qeF0yFO30XSs8nQ"
+          "name": "Satyr",
+          "url": "https://open.spotify.com/artist/5ktYe9ZQMyLivSJbjEEEXy"
         }
       ],
-      "duration_ms": 130735,
-      "name": "Departure to the Front Lines - From \"Naruto\"",
-      "url": "https://open.spotify.com/track/2amtzNnkwdG4fQimgmsLw4"
+      "duration_ms": 225260,
+      "name": "Vector",
+      "url": "https://open.spotify.com/track/3lUsa3cE5uE45ndz8CAAPB"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -3251,38 +3251,18 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Vector",
-        "url": "https://open.spotify.com/album/2pZ1JENtpc3fNuKfjjQXeC"
+        "name": "Departure to the Front Lines (From \"Naruto\")",
+        "url": "https://open.spotify.com/album/01hJZ8jwF7xxCZLpc55Eis"
       },
       "artists": [
         {
-          "name": "Satyr",
-          "url": "https://open.spotify.com/artist/5ktYe9ZQMyLivSJbjEEEXy"
+          "name": "Gabriele Motta",
+          "url": "https://open.spotify.com/artist/74Z82c9qeF0yFO30XSs8nQ"
         }
       ],
-      "duration_ms": 225260,
-      "name": "Vector",
-      "url": "https://open.spotify.com/track/3lUsa3cE5uE45ndz8CAAPB"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "Sardonyx",
-        "url": "https://open.spotify.com/album/2IxnO3Vk8Ra2NZSkRlQort"
-      },
-      "artists": [
-        {
-          "name": "Windrunner",
-          "url": "https://open.spotify.com/artist/7GqHmgqt4wkWHZr8fcc9P7"
-        },
-        {
-          "name": "Tobias Rische",
-          "url": "https://open.spotify.com/artist/7GaKWK9w2lGfFhyYVjvhBe"
-        }
-      ],
-      "duration_ms": 269074,
-      "name": "Sardonyx",
-      "url": "https://open.spotify.com/track/3nOClyLeIIC7YxpIsbjMkk"
+      "duration_ms": 130735,
+      "name": "Departure to the Front Lines - From \"Naruto\"",
+      "url": "https://open.spotify.com/track/2amtzNnkwdG4fQimgmsLw4"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -3303,6 +3283,22 @@
       "duration_ms": 255743,
       "name": "Fragile Space",
       "url": "https://open.spotify.com/track/3jqbSOib3SFAp6hYSH0m18"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "penny royal poison",
+        "url": "https://open.spotify.com/album/6vN7gFRSTozXhZ7RNrk1NO"
+      },
+      "artists": [
+        {
+          "name": "Vildhjarta",
+          "url": "https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J"
+        }
+      ],
+      "duration_ms": 189138,
+      "name": "penny royal poison",
+      "url": "https://open.spotify.com/track/3JkngcpInYH1pC37MubshJ"
     }
   ],
   "unique_name": "Progressive Metal",

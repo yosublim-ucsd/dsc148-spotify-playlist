@@ -441,6 +441,32 @@
     },
     {
       "album": {
+        "name": "Anti Social",
+        "url": "https://open.spotify.com/album/25C8gnQsB3VNJgr5ldcNf5"
+      },
+      "artists": [
+        {
+          "name": "Nektunez",
+          "url": "https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156503,
+      "name": "Anti Social",
+      "url": "https://open.spotify.com/track/0UilWRSaAPqnwdUc9HJfxG"
+    },
+    {
+      "album": {
         "name": "African Giant",
         "url": "https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs"
       },
@@ -896,7 +922,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 151548,
       "name": "Bankruptcy",
       "url": "https://open.spotify.com/track/6tbnqrQJWzPPQzlzvoIewt"
@@ -5651,6 +5677,32 @@
     },
     {
       "album": {
+        "name": "SOLACE",
+        "url": "https://open.spotify.com/album/5Ne85eKSShHPNuoGZCfBik"
+      },
+      "artists": [
+        {
+          "name": "Uncle Waffles",
+          "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
+        },
+        {
+          "name": "Ice Beats Slide",
+          "url": "https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5"
+        },
+        {
+          "name": "Sbuda Maleather",
+          "url": "https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326048,
+      "name": "Peacock Revisit (feat. Ice Beats Slide & Sbuda Maleather)",
+      "url": "https://open.spotify.com/track/1NQCinyxiglxekxXVPEhnC"
+    },
+    {
+      "album": {
         "name": "Pele Pele",
         "url": "https://open.spotify.com/album/3HnFaSlDoeqqmPoVWYAETZ"
       },
@@ -5674,6 +5726,24 @@
       "duration_ms": 317486,
       "name": "Pele Pele",
       "url": "https://open.spotify.com/track/3r4sc1n8kNL2FpebHwaAQE"
+    },
+    {
+      "album": {
+        "name": "Peppermint",
+        "url": "https://open.spotify.com/album/7H6BmqqRtsDXzdntW3tY7C"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142363,
+      "name": "Peppermint",
+      "url": "https://open.spotify.com/track/1I4ZQ2KVDziVs6IFBYJFis"
     },
     {
       "album": {
@@ -6002,7 +6072,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 172881,
       "name": "RTID (Rich Till I Die)",
       "url": "https://open.spotify.com/track/47rtDAZmqRUjba0V1en3XY"
@@ -7154,7 +7224,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 155860,
       "name": "Traboski",
       "url": "https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE"

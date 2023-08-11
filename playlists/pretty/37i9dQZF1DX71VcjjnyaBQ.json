@@ -1,12 +1,12 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 382926,
+  "num_followers": 383004,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTY0ZDFlMDQzZDFiZjFhM2UwMWFmZDcyZDdkZjAzMGY4ZTQ2YmM2",
+  "snapshot_id": "MCw4ZDE5ZWY1MmIxZDRjZWNlY2JlNzNmZDVmMTZmODM5MjFlZmIwNjBh",
   "tracks": [
     {
       "added_at": "2023-08-08 13:01:38",
@@ -83,6 +83,22 @@
     {
       "added_at": "2023-08-08 13:01:38",
       "album": {
+        "name": "Cononbridge",
+        "url": "https://open.spotify.com/album/1Hu3K4n6IhaGGqCT5Hf1sj"
+      },
+      "artists": [
+        {
+          "name": "Matt Carmichael",
+          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "Cononbridge",
+      "url": "https://open.spotify.com/track/7eTxWRSvauWm5L3FblGk2h"
+    },
+    {
+      "added_at": "2023-08-08 13:01:38",
+      "album": {
         "name": "Contemplation",
         "url": "https://open.spotify.com/album/7rvhFTQ5KZNCzFtomenAfv"
       },
@@ -99,22 +115,6 @@
       "duration_ms": 277968,
       "name": "Contemplation",
       "url": "https://open.spotify.com/track/78siZ5mLJApB78bhS9WwXI"
-    },
-    {
-      "added_at": "2023-08-08 13:01:38",
-      "album": {
-        "name": "Cononbridge",
-        "url": "https://open.spotify.com/album/1Hu3K4n6IhaGGqCT5Hf1sj"
-      },
-      "artists": [
-        {
-          "name": "Matt Carmichael",
-          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
-        }
-      ],
-      "duration_ms": 298000,
-      "name": "Cononbridge",
-      "url": "https://open.spotify.com/track/7eTxWRSvauWm5L3FblGk2h"
     },
     {
       "added_at": "2023-08-08 13:01:38",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-08-08 13:01:38",
       "album": {
-        "name": "When I Fell for You",
-        "url": "https://open.spotify.com/album/6v6O5lQqx8E3PqENPC7hAk"
-      },
-      "artists": [
-        {
-          "name": "David Hazeltine",
-          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
-        }
-      ],
-      "duration_ms": 322362,
-      "name": "When I Fell for You",
-      "url": "https://open.spotify.com/track/5o7zflAK8LxDYuqpSDmwhM"
-    },
-    {
-      "added_at": "2023-08-08 13:01:38",
-      "album": {
         "name": "Live At Bird's Eye",
         "url": "https://open.spotify.com/album/1HtSvdXnsTdiBaUtMjiWsH"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 320356,
       "name": "There's No Place For Me - Live",
       "url": "https://open.spotify.com/track/48PojLpjonNmPElm0ntohW"
+    },
+    {
+      "added_at": "2023-08-08 13:01:38",
+      "album": {
+        "name": "When I Fell for You",
+        "url": "https://open.spotify.com/album/6v6O5lQqx8E3PqENPC7hAk"
+      },
+      "artists": [
+        {
+          "name": "David Hazeltine",
+          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
+        }
+      ],
+      "duration_ms": 322362,
+      "name": "When I Fell for You",
+      "url": "https://open.spotify.com/track/5o7zflAK8LxDYuqpSDmwhM"
     },
     {
       "added_at": "2023-08-08 13:01:38",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-08-08 13:01:38",
       "album": {
-        "name": "Symphonie Pacifique",
-        "url": "https://open.spotify.com/album/3sWTusjdqlAvrdFMMbnXEY"
-      },
-      "artists": [
-        {
-          "name": "Greg Foat",
-          "url": "https://open.spotify.com/artist/20HVrU8f5rcNg2aZkMiSP0"
-        }
-      ],
-      "duration_ms": 294139,
-      "name": "Symphonie Pacifique",
-      "url": "https://open.spotify.com/track/1KFhl1VNM6z4bpqAQETzTN"
-    },
-    {
-      "added_at": "2023-08-08 13:01:38",
-      "album": {
         "name": "Blue Hour",
         "url": "https://open.spotify.com/album/1pM8P0Yfd5RRBnlICxzCyX"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 319706,
       "name": "Blue Hour",
       "url": "https://open.spotify.com/track/58XU0SbMcLJIFzrNXYhlX4"
+    },
+    {
+      "added_at": "2023-08-08 13:01:38",
+      "album": {
+        "name": "Symphonie Pacifique",
+        "url": "https://open.spotify.com/album/3sWTusjdqlAvrdFMMbnXEY"
+      },
+      "artists": [
+        {
+          "name": "Greg Foat",
+          "url": "https://open.spotify.com/artist/20HVrU8f5rcNg2aZkMiSP0"
+        }
+      ],
+      "duration_ms": 294139,
+      "name": "Symphonie Pacifique",
+      "url": "https://open.spotify.com/track/1KFhl1VNM6z4bpqAQETzTN"
     },
     {
       "added_at": "2023-08-08 13:01:38",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-08-08 13:01:38",
       "album": {
+        "name": "Sun Khosi",
+        "url": "https://open.spotify.com/album/1MZqnwoL3zZjYWSSgGJ3Cb"
+      },
+      "artists": [
+        {
+          "name": "Ruby Rushton",
+          "url": "https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF"
+        }
+      ],
+      "duration_ms": 236886,
+      "name": "Sun Khosi",
+      "url": "https://open.spotify.com/track/0TFR4fugISTa7kMxqY6JJj"
+    },
+    {
+      "added_at": "2023-08-08 13:01:38",
+      "album": {
         "name": "On the Second Day",
         "url": "https://open.spotify.com/album/3fhhihPsKUiDQ1USgJMXff"
       },
@@ -787,50 +803,6 @@
     {
       "added_at": "2023-08-08 13:01:38",
       "album": {
-        "name": "Sun Khosi",
-        "url": "https://open.spotify.com/album/1MZqnwoL3zZjYWSSgGJ3Cb"
-      },
-      "artists": [
-        {
-          "name": "Ruby Rushton",
-          "url": "https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF"
-        }
-      ],
-      "duration_ms": 236886,
-      "name": "Sun Khosi",
-      "url": "https://open.spotify.com/track/0TFR4fugISTa7kMxqY6JJj"
-    },
-    {
-      "added_at": "2023-08-08 13:01:38",
-      "album": {
-        "name": "Don't Ever Leave Me",
-        "url": "https://open.spotify.com/album/71ic2jDgavFaDCR9dbDcEb"
-      },
-      "artists": [
-        {
-          "name": "John Helliwell",
-          "url": "https://open.spotify.com/artist/6mE9On5hMGVW1j369RtRYZ"
-        },
-        {
-          "name": "Jasper Somsen",
-          "url": "https://open.spotify.com/artist/2lcAR2q7nM4FNKG4SbaKVY"
-        },
-        {
-          "name": "Hans Vroomans",
-          "url": "https://open.spotify.com/artist/2KvJJ4ntMldtYNia7SvlBb"
-        },
-        {
-          "name": "Marcel Serierse",
-          "url": "https://open.spotify.com/artist/6MUwndQ1ENPiNY2I5XfAmX"
-        }
-      ],
-      "duration_ms": 437853,
-      "name": "Arise",
-      "url": "https://open.spotify.com/track/0jCZ4paISCHdIwQxUaLa3L"
-    },
-    {
-      "added_at": "2023-08-08 13:01:38",
-      "album": {
         "name": "Ballad for K",
         "url": "https://open.spotify.com/album/0pKNfS9dVfw4fYRHYQeXZl"
       },
@@ -859,6 +831,34 @@
       "duration_ms": 204733,
       "name": "Abiyoyo",
       "url": "https://open.spotify.com/track/4uu7myvstHcybO1E2SJOi5"
+    },
+    {
+      "added_at": "2023-08-08 13:01:38",
+      "album": {
+        "name": "Don't Ever Leave Me",
+        "url": "https://open.spotify.com/album/71ic2jDgavFaDCR9dbDcEb"
+      },
+      "artists": [
+        {
+          "name": "John Helliwell",
+          "url": "https://open.spotify.com/artist/6mE9On5hMGVW1j369RtRYZ"
+        },
+        {
+          "name": "Jasper Somsen",
+          "url": "https://open.spotify.com/artist/2lcAR2q7nM4FNKG4SbaKVY"
+        },
+        {
+          "name": "Hans Vroomans",
+          "url": "https://open.spotify.com/artist/2KvJJ4ntMldtYNia7SvlBb"
+        },
+        {
+          "name": "Marcel Serierse",
+          "url": "https://open.spotify.com/artist/6MUwndQ1ENPiNY2I5XfAmX"
+        }
+      ],
+      "duration_ms": 437853,
+      "name": "Arise",
+      "url": "https://open.spotify.com/track/0jCZ4paISCHdIwQxUaLa3L"
     },
     {
       "added_at": "2023-08-08 13:01:38",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-08-08 13:01:38",
       "album": {
-        "name": "Relations",
-        "url": "https://open.spotify.com/album/2xPsEm0HdpplREKC57yYfd"
-      },
-      "artists": [
-        {
-          "name": "Martin Brandqvist Quartet",
-          "url": "https://open.spotify.com/artist/15MKkheDyZCAhrbfY6ywJ7"
-        }
-      ],
-      "duration_ms": 298423,
-      "name": "Ginge",
-      "url": "https://open.spotify.com/track/6Ul6eEs8cUsugmbdDmEi6h"
-    },
-    {
-      "added_at": "2023-08-08 13:01:38",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/7boA4KYSLA5ZQ7QX3l2GxF"
       },
@@ -939,30 +923,6 @@
       "duration_ms": 414760,
       "name": "As if We Were Just Friends",
       "url": "https://open.spotify.com/track/64WTR1Hs1TgzrkewozCTc1"
-    },
-    {
-      "added_at": "2023-08-08 13:01:38",
-      "album": {
-        "name": "Where We Belong",
-        "url": "https://open.spotify.com/album/1klyqyo9Ychh0ItzQDgrox"
-      },
-      "artists": [
-        {
-          "name": "Thomas Fonnesb\u00e6k",
-          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
-        },
-        {
-          "name": "Lars Jansson",
-          "url": "https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS"
-        },
-        {
-          "name": "Paul Svanberg",
-          "url": "https://open.spotify.com/artist/7KfU9kgLyulNPcW5ZBlPRX"
-        }
-      ],
-      "duration_ms": 371773,
-      "name": "Where We Belong",
-      "url": "https://open.spotify.com/track/4LRIGcp9jELNiscAhEc2XI"
     },
     {
       "added_at": "2023-08-08 13:01:38",
@@ -1023,6 +983,46 @@
       "duration_ms": 360680,
       "name": "Right Back Round Again (feat. Brad Mehldau, Christian McBride & Brian Blade)",
       "url": "https://open.spotify.com/track/3ONFcrwlLYLUZBPh0WSD6q"
+    },
+    {
+      "added_at": "2023-08-08 13:01:38",
+      "album": {
+        "name": "Where We Belong",
+        "url": "https://open.spotify.com/album/1klyqyo9Ychh0ItzQDgrox"
+      },
+      "artists": [
+        {
+          "name": "Thomas Fonnesb\u00e6k",
+          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
+        },
+        {
+          "name": "Lars Jansson",
+          "url": "https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS"
+        },
+        {
+          "name": "Paul Svanberg",
+          "url": "https://open.spotify.com/artist/7KfU9kgLyulNPcW5ZBlPRX"
+        }
+      ],
+      "duration_ms": 371773,
+      "name": "Where We Belong",
+      "url": "https://open.spotify.com/track/4LRIGcp9jELNiscAhEc2XI"
+    },
+    {
+      "added_at": "2023-08-08 13:01:38",
+      "album": {
+        "name": "Relations",
+        "url": "https://open.spotify.com/album/2xPsEm0HdpplREKC57yYfd"
+      },
+      "artists": [
+        {
+          "name": "Martin Brandqvist Quartet",
+          "url": "https://open.spotify.com/artist/15MKkheDyZCAhrbfY6ywJ7"
+        }
+      ],
+      "duration_ms": 298423,
+      "name": "Ginge",
+      "url": "https://open.spotify.com/track/6Ul6eEs8cUsugmbdDmEi6h"
     },
     {
       "added_at": "2023-08-08 13:01:38",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-08-08 13:01:38",
       "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/1sYm78ZyaQtJESPtajIdze"
+      },
+      "artists": [
+        {
+          "name": "Harold L\u00f3pez-Nussa",
+          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
+        }
+      ],
+      "duration_ms": 181928,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/61MTLrkxDy0A3GyGC13flH"
+    },
+    {
+      "added_at": "2023-08-08 13:01:38",
+      "album": {
         "name": "P\u00e5 nye eventyr",
         "url": "https://open.spotify.com/album/532pfB7ZluWCvQzrO4o4t6"
       },
@@ -1239,34 +1255,18 @@
     {
       "added_at": "2023-08-08 13:01:38",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/1sYm78ZyaQtJESPtajIdze"
+        "name": "Baltimore",
+        "url": "https://open.spotify.com/album/67WZ5gXP82Q1d0XpnE6qZQ"
       },
       "artists": [
         {
-          "name": "Harold L\u00f3pez-Nussa",
-          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
         }
       ],
-      "duration_ms": 181928,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/61MTLrkxDy0A3GyGC13flH"
-    },
-    {
-      "added_at": "2023-08-08 13:01:38",
-      "album": {
-        "name": "In the Wee Small Hours of the Morning",
-        "url": "https://open.spotify.com/album/5Bige15opD3V4HHy1jsymc"
-      },
-      "artists": [
-        {
-          "name": "David Finck",
-          "url": "https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn"
-        }
-      ],
-      "duration_ms": 270027,
-      "name": "In the Wee Small Hours of the Morning",
-      "url": "https://open.spotify.com/track/0lMIb2WobAlzmr8t1yZeUd"
+      "duration_ms": 337573,
+      "name": "Baltimore",
+      "url": "https://open.spotify.com/track/1UjY15XsU2SYyaHflOxknJ"
     },
     {
       "added_at": "2023-08-08 13:01:38",
@@ -1287,6 +1287,22 @@
       "duration_ms": 275200,
       "name": "Going Up",
       "url": "https://open.spotify.com/track/6bDFg4xR80Z2WfBZ69hYYP"
+    },
+    {
+      "added_at": "2023-08-08 13:01:38",
+      "album": {
+        "name": "In the Wee Small Hours of the Morning",
+        "url": "https://open.spotify.com/album/5Bige15opD3V4HHy1jsymc"
+      },
+      "artists": [
+        {
+          "name": "David Finck",
+          "url": "https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn"
+        }
+      ],
+      "duration_ms": 270027,
+      "name": "In the Wee Small Hours of the Morning",
+      "url": "https://open.spotify.com/track/0lMIb2WobAlzmr8t1yZeUd"
     },
     {
       "added_at": "2023-08-08 13:01:38",
@@ -1347,18 +1363,22 @@
     {
       "added_at": "2023-08-08 13:01:38",
       "album": {
-        "name": "Baltimore",
-        "url": "https://open.spotify.com/album/67WZ5gXP82Q1d0XpnE6qZQ"
+        "name": "Lovers Moment (H\u00e5kan Brostr\u00f6m Meets Carl Winther Trio)",
+        "url": "https://open.spotify.com/album/05X006nJQ0J6aEIg4dw6Ig"
       },
       "artists": [
         {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+          "name": "Carl Winther Trio",
+          "url": "https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6"
+        },
+        {
+          "name": "H\u00e5kan Brostr\u00f6m",
+          "url": "https://open.spotify.com/artist/1bBOtfNnAX2zVoNf0FAneB"
         }
       ],
-      "duration_ms": 337573,
-      "name": "Baltimore",
-      "url": "https://open.spotify.com/track/1UjY15XsU2SYyaHflOxknJ"
+      "duration_ms": 327642,
+      "name": "Sweet Smile",
+      "url": "https://open.spotify.com/track/0tHMMqD7ygCW2S1zdOMvHb"
     },
     {
       "added_at": "2023-08-08 13:01:38",
@@ -1383,26 +1403,6 @@
       "duration_ms": 224607,
       "name": "My Song",
       "url": "https://open.spotify.com/track/0lSLRJcWni4XX5UbCLJPy1"
-    },
-    {
-      "added_at": "2023-08-08 13:01:38",
-      "album": {
-        "name": "Lovers Moment (H\u00e5kan Brostr\u00f6m Meets Carl Winther Trio)",
-        "url": "https://open.spotify.com/album/05X006nJQ0J6aEIg4dw6Ig"
-      },
-      "artists": [
-        {
-          "name": "Carl Winther Trio",
-          "url": "https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6"
-        },
-        {
-          "name": "H\u00e5kan Brostr\u00f6m",
-          "url": "https://open.spotify.com/artist/1bBOtfNnAX2zVoNf0FAneB"
-        }
-      ],
-      "duration_ms": 327642,
-      "name": "Sweet Smile",
-      "url": "https://open.spotify.com/track/0tHMMqD7ygCW2S1zdOMvHb"
     },
     {
       "added_at": "2023-08-08 13:01:38",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-08-08 13:01:38",
       "album": {
-        "name": "Boo's Blues",
-        "url": "https://open.spotify.com/album/7cLgwx3J525qJrIbYOohuU"
-      },
-      "artists": [
-        {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
-        }
-      ],
-      "duration_ms": 205094,
-      "name": "Boo's Blues",
-      "url": "https://open.spotify.com/track/69eOQr9N0AQm8lGJMBHyAr"
-    },
-    {
-      "added_at": "2023-08-08 13:01:38",
-      "album": {
         "name": "Elisian/Inutil Paisagem",
         "url": "https://open.spotify.com/album/1dpIg2OrRWIwk19jYiIDqs"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 296253,
       "name": "Elisian/Inutil Paisagem",
       "url": "https://open.spotify.com/track/4JN9FKnuFmAjFFpDrqqpNX"
+    },
+    {
+      "added_at": "2023-08-08 13:01:38",
+      "album": {
+        "name": "Boo's Blues",
+        "url": "https://open.spotify.com/album/7cLgwx3J525qJrIbYOohuU"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "duration_ms": 205094,
+      "name": "Boo's Blues",
+      "url": "https://open.spotify.com/track/69eOQr9N0AQm8lGJMBHyAr"
     },
     {
       "added_at": "2023-08-08 13:01:38",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-08-08 13:01:38",
       "album": {
-        "name": "Where or When",
-        "url": "https://open.spotify.com/album/1qYy2VgAlQ0yPQf4C5TWDo"
-      },
-      "artists": [
-        {
-          "name": "Armel Dupas Trio",
-          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
-        }
-      ],
-      "duration_ms": 230337,
-      "name": "Where or When",
-      "url": "https://open.spotify.com/track/3b1J3QbTTDXcxB4EmIWY17"
-    },
-    {
-      "added_at": "2023-08-08 13:01:38",
-      "album": {
         "name": "Jazz Lullaby",
         "url": "https://open.spotify.com/album/0wDnMx1ZIjpH2TJSm6PCR7"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 189929,
       "name": "Frere Jacques",
       "url": "https://open.spotify.com/track/4SwwjgzWcTeCw1xT9VTP6D"
+    },
+    {
+      "added_at": "2023-08-08 13:01:38",
+      "album": {
+        "name": "Where or When",
+        "url": "https://open.spotify.com/album/1qYy2VgAlQ0yPQf4C5TWDo"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        }
+      ],
+      "duration_ms": 230337,
+      "name": "Where or When",
+      "url": "https://open.spotify.com/track/3b1J3QbTTDXcxB4EmIWY17"
     },
     {
       "added_at": "2023-08-08 13:01:38",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2023-08-08 13:01:38",
       "album": {
-        "name": "The Escape",
-        "url": "https://open.spotify.com/album/1TDxIEzLsBUNHpWFtCWNwn"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Sanz",
-          "url": "https://open.spotify.com/artist/4GMCgqFCMeJa6e0y0M4w3u"
-        }
-      ],
-      "duration_ms": 270266,
-      "name": "Awakening",
-      "url": "https://open.spotify.com/track/6bK3YND4NEVYhjnLWo7YQ0"
-    },
-    {
-      "added_at": "2023-08-08 13:01:38",
-      "album": {
         "name": "Sideways",
         "url": "https://open.spotify.com/album/0nd4ki7GPhLrH5MjjdP7eP"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 225707,
       "name": "Love Is in the Air",
       "url": "https://open.spotify.com/track/1W0WiHXopNzkDW5bqXpbmn"
+    },
+    {
+      "added_at": "2023-08-08 13:01:38",
+      "album": {
+        "name": "The Escape",
+        "url": "https://open.spotify.com/album/1TDxIEzLsBUNHpWFtCWNwn"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Sanz",
+          "url": "https://open.spotify.com/artist/4GMCgqFCMeJa6e0y0M4w3u"
+        }
+      ],
+      "duration_ms": 270266,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/6bK3YND4NEVYhjnLWo7YQ0"
     },
     {
       "added_at": "2023-08-08 13:01:38",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2023-08-08 13:01:38",
       "album": {
-        "name": "Visitor",
-        "url": "https://open.spotify.com/album/4syZHZiuvbXt0nWb9QT39A"
-      },
-      "artists": [
-        {
-          "name": "Carl Bagge",
-          "url": "https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF"
-        }
-      ],
-      "duration_ms": 330213,
-      "name": "To Mr K.K.",
-      "url": "https://open.spotify.com/track/1naTwydH0ks78g3oXpTmGC"
-    },
-    {
-      "added_at": "2023-08-08 13:01:38",
-      "album": {
         "name": "The Starter",
         "url": "https://open.spotify.com/album/6XCgl8rWBRZlpsWVQBWTrI"
       },
@@ -1895,18 +1879,42 @@
     {
       "added_at": "2023-08-08 13:01:38",
       "album": {
-        "name": "Bye Bye Blackbird (Live)",
-        "url": "https://open.spotify.com/album/7MvX7YVbUIvaIqUJi4wQnE"
+        "name": "Visitor",
+        "url": "https://open.spotify.com/album/4syZHZiuvbXt0nWb9QT39A"
       },
       "artists": [
         {
-          "name": "Jim Snidero",
-          "url": "https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv"
+          "name": "Carl Bagge",
+          "url": "https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF"
         }
       ],
-      "duration_ms": 422813,
-      "name": "Bye Bye Blackbird - Live",
-      "url": "https://open.spotify.com/track/6uOOsk7EiY6KUPOrrZZ3T1"
+      "duration_ms": 330213,
+      "name": "To Mr K.K.",
+      "url": "https://open.spotify.com/track/1naTwydH0ks78g3oXpTmGC"
+    },
+    {
+      "added_at": "2023-08-08 13:01:38",
+      "album": {
+        "name": "Amelia",
+        "url": "https://open.spotify.com/album/12RPTPkpm9bA9LvN8BOSW3"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Muthspiel",
+          "url": "https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ"
+        },
+        {
+          "name": "Scott Colley",
+          "url": "https://open.spotify.com/artist/7AxNB7slEfo3WsWmZf4TSs"
+        },
+        {
+          "name": "Brian Blade",
+          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
+        }
+      ],
+      "duration_ms": 422506,
+      "name": "Amelia",
+      "url": "https://open.spotify.com/track/7MfOcicIHjkkm1NPaQDx64"
     }
   ],
   "unique_name": "Good Morning Jazz",

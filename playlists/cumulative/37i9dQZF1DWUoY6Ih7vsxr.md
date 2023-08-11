@@ -4,7 +4,7 @@
 
 > Listen the 00's best collection of K\-Pop dance\. \(Cover: 2NE1\) \(2000년대를 수 놓았던 케이팝 댄스곡들을 즐겨보세요!\)
 
-178 songs - 10 hr 34 min
+179 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [No more perfume on you](https://open.spotify.com/track/3UFnHBPaPkZhe04IqqlUcn) | [TEEN TOP](https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc) | [ROMAN](https://open.spotify.com/album/4UYktbMekvR3lyX6uHqHLU) | 3:30 | 2022-04-19 |  |
 | [No.1](https://open.spotify.com/track/4RtHEggWfFWknuAsRdkyku) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [No.1 \- The 2nd Album](https://open.spotify.com/album/4Se5tmG7Dc1WKJYr4o5gXz) | 3:13 | 2022-04-19 |  |
 | [Nobody](https://open.spotify.com/track/0TBNg82Zqi0k1VslEe2ooq) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [2 Different Tears](https://open.spotify.com/album/1TqEUbduSOGhGWo0cP4qYM) | 3:34 | 2022-04-19 | 2023-08-07 |
+| [Nobody](https://open.spotify.com/track/5R9cUtY574Wd6olnaJG6sQ) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [2 Different Tears](https://open.spotify.com/album/2yX8lMVN1DViIGPPUDRbrm) | 3:34 | 2022-04-19 |  |
 | [NU ABO](https://open.spotify.com/track/1NcsCToPRUh9AI6ua83jAm) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [NU ABO](https://open.spotify.com/album/2jwIyBUS9C4yGgr1Guq8YO) | 3:44 | 2022-04-19 |  |
 | [O \-正.反.合.](https://open.spotify.com/track/0tx5cus5dxnIKLtBWYgADn) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [O\-正.反.合\. \- The 3rd Album](https://open.spotify.com/album/2adPdNYrrTt2tIkthQN5ee) | 4:15 | 2022-04-19 | 2022-07-29 |
 | [O.K](https://open.spotify.com/track/3CDDZYgE0S8sHLXEZjKCOd) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [Let's Fly](https://open.spotify.com/album/25vqMVgefCdbeuVAmqMP02) | 3:33 | 2022-04-19 |  |
@@ -149,7 +150,7 @@
 | [Sherlock \(Clue + Note\)](https://open.spotify.com/track/2sVtrcj32v3fR8mLjqWziv) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Sherlock \- The 4th Mini Album](https://open.spotify.com/album/2Mfisiv88pNRQNugqrEUHQ) | 3:59 | 2022-04-19 |  |
 | [Shock](https://open.spotify.com/track/2nzKrSghWXVnpudod8SKoY) | [Beast](https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC) | [Shock Of The New Era](https://open.spotify.com/album/1B7oXzVqP0X5AS8HsMaUtg) | 3:45 | 2022-04-19 |  |
 | [Shut up!!](https://open.spotify.com/track/2ZUrBRLYyMo5SJHA8z8lEg) | [U\-KISS](https://open.spotify.com/artist/2GB76Lm833jVI5kLvKEB7Z) | [BREAK TIME](https://open.spotify.com/album/2b9KWUiZayjQgc0HiC9uLr) | 3:12 | 2022-04-19 | 2022-07-13 |
-| [Shy Boy](https://open.spotify.com/track/2k8LpbyAlZMDd90GMP8Hde) | [Secret](https://open.spotify.com/artist/503DjcVO5Ku1NgLPhVuNg7) | [Shy Boy](https://open.spotify.com/album/0WNpQgEcZZlOLBheEpqiI2) | 3:38 | 2022-04-19 |  |
+| [Shy Boy](https://open.spotify.com/track/2k8LpbyAlZMDd90GMP8Hde) | [Secret](https://open.spotify.com/artist/503DjcVO5Ku1NgLPhVuNg7) | [Shy Boy](https://open.spotify.com/album/0WNpQgEcZZlOLBheEpqiI2) | 3:38 | 2022-04-19 | 2023-08-11 |
 | [Sign](https://open.spotify.com/track/3liK5xPEDnfkRkJ91gz0Wt) | [Brown Eyed Girls](https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7) | [Brown Eyed Girls BEST \- Special Moments](https://open.spotify.com/album/5KnUQXqS4EtUiN0tn8sW8y) | 3:23 | 2022-04-19 |  |
 | [Sign](https://open.spotify.com/track/3z9aTDbH9z2nxNgYxlAn8P) | [Brown Eyed Girls](https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7) | [Brown Eyed Girls BEST \- Special Moments](https://open.spotify.com/album/1QAzTA0B6T99MauXFgaIss) | 3:23 | 2022-04-19 | 2022-07-29 |
 | [Sixth Sense](https://open.spotify.com/track/1wwuD36K0lZ9RDJPnGUXnT) | [Brown Eyed Girls](https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7) | [SIXTH SENSE](https://open.spotify.com/album/6EKKvnqv1MYR8ZzlcOBM0m) | 3:47 | 2022-04-19 | 2022-07-29 |

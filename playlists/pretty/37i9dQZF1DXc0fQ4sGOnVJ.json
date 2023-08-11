@@ -1,12 +1,12 @@
 {
   "description": "Country rap songs, made to be cranked up. Cover: Brantley Gilbert and Jelly Roll",
-  "num_followers": 149822,
+  "num_followers": 149841,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTYzODFjZDc4ODJhMzlhOGFkYjNlMTBhOTBjMzVmNzIwY2ZiMDUy",
+  "snapshot_id": "MCwwOTRkMzk2MTE3N2RkNzE3NWI4ZjIzNWEwNGE0YWRiYzA5NmNjYjQw",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -711,22 +711,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "We The People, Vol. 1",
-        "url": "https://open.spotify.com/album/1GDmEkvh5AFiIVhWPrSuR0"
+        "name": "American White Trash",
+        "url": "https://open.spotify.com/album/4qr6adlfQSmnuEksitsIYd"
       },
       "artists": [
         {
-          "name": "Colt Ford",
-          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
-        },
-        {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+          "name": "Cypress Spring",
+          "url": "https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC"
         }
       ],
-      "duration_ms": 191669,
-      "name": "Back to Them Backroads",
-      "url": "https://open.spotify.com/track/1VGwVRbEfLsVsKxrRK05Xo"
+      "duration_ms": 167392,
+      "name": "White Trash",
+      "url": "https://open.spotify.com/track/4PQywXtsoLDSJQJe8WpIqv"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -771,18 +767,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "American White Trash",
-        "url": "https://open.spotify.com/album/4qr6adlfQSmnuEksitsIYd"
+        "name": "We The People, Vol. 1",
+        "url": "https://open.spotify.com/album/1GDmEkvh5AFiIVhWPrSuR0"
       },
       "artists": [
         {
-          "name": "Cypress Spring",
-          "url": "https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC"
+          "name": "Colt Ford",
+          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
+        },
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
         }
       ],
-      "duration_ms": 167392,
-      "name": "White Trash",
-      "url": "https://open.spotify.com/track/4PQywXtsoLDSJQJe8WpIqv"
+      "duration_ms": 191669,
+      "name": "Back to Them Backroads",
+      "url": "https://open.spotify.com/track/1VGwVRbEfLsVsKxrRK05Xo"
     },
     {
       "added_at": "2023-05-19 04:00:00",

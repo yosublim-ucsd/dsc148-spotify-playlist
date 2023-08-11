@@ -1,12 +1,12 @@
 {
   "description": "Classic songs that built the foundations of punk.",
-  "num_followers": 1523359,
+  "num_followers": 1523667,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzgxMGQwYTY2MjUzMjc2M2I2ZjYyYzdlZTk4Y2IwNTllM2VlMTBi",
+  "snapshot_id": "MCwxZWIxZGM3NmE4MjFiYWM3ZGYwNTYwYTYwNGFkNjI1ZmYwMjNhNjAy",
   "tracks": [
     {
       "added_at": "2022-11-28 15:26:19",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Young, Loud And Snotty",
-        "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
-      },
-      "artists": [
-        {
-          "name": "Dead Boys",
-          "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Sonic Reducer",
-      "url": "https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Spurts: The Richard Hell Story (2013 Remaster)",
         "url": "https://open.spotify.com/album/0nejx6WUKHja3fesKClRCF"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 167840,
       "name": "Blank Generation - 2013 Remaster",
       "url": "https://open.spotify.com/track/5OGfBbWmRRkDiZiJbu5WIr"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Young, Loud And Snotty",
+        "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
+      },
+      "artists": [
+        {
+          "name": "Dead Boys",
+          "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Sonic Reducer",
+      "url": "https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Salad Days",
-        "url": "https://open.spotify.com/album/5JXGvBK6woRyyxOXro1mW2"
-      },
-      "artists": [
-        {
-          "name": "Minor Threat",
-          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
-        }
-      ],
-      "duration_ms": 166120,
-      "name": "Salad Days",
-      "url": "https://open.spotify.com/track/5TEP4YcPVvBYAbJXrTTced"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Singles Going Steady",
         "url": "https://open.spotify.com/album/6TxgQwGrbG3XZLNPOEhg7E"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 175973,
       "name": "What Do I Get? - 2001 Remastered Version",
       "url": "https://open.spotify.com/track/0caQ80s7fyh8xJzD8Sq6Ir"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Salad Days",
+        "url": "https://open.spotify.com/album/5JXGvBK6woRyyxOXro1mW2"
+      },
+      "artists": [
+        {
+          "name": "Minor Threat",
+          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
+        }
+      ],
+      "duration_ms": 166120,
+      "name": "Salad Days",
+      "url": "https://open.spotify.com/track/5TEP4YcPVvBYAbJXrTTced"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "New York Dolls",
-        "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
-      },
-      "artists": [
-        {
-          "name": "New York Dolls",
-          "url": "https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx"
-        }
-      ],
-      "duration_ms": 167840,
-      "name": "Pills",
-      "url": "https://open.spotify.com/track/0EvHaC4YFOFxeDMYXK2QFk"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Peace Thru Vandalism (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3jLxf9rmNQePi1nCXtaunV"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 113888,
       "name": "Anarchy Burger (Hold The Government)",
       "url": "https://open.spotify.com/track/3QebYR26gRT9Bso2VSnUOR"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "New York Dolls",
+        "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
+      },
+      "artists": [
+        {
+          "name": "New York Dolls",
+          "url": "https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx"
+        }
+      ],
+      "duration_ms": 167840,
+      "name": "Pills",
+      "url": "https://open.spotify.com/track/0EvHaC4YFOFxeDMYXK2QFk"
     }
   ],
   "unique_name": "Classic Punk",

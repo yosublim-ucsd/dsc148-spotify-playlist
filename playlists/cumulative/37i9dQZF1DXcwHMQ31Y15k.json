@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Masdddho",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Safira Inema, Danuarta",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 313711,
       "name": "Akhire Lungo",
       "url": "https://open.spotify.com/track/2LbtLp004yRHORSdL1uTwF"
@@ -92,7 +92,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 338517,
       "name": "Aku Bukan Jodohnya",
       "url": "https://open.spotify.com/track/6rKydpFW3QTBu172RRFkKS"
@@ -146,7 +146,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 283786,
       "name": "Ambyar Mak Pyar",
       "url": "https://open.spotify.com/track/6UC5ZI2p6oI6ukaZGxjQ89"
@@ -254,7 +254,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 328011,
       "name": "Bar Lebaran Tak Lamar",
       "url": "https://open.spotify.com/track/7pHfBvGfoyB62oYvAb9sDm"
@@ -276,6 +276,28 @@
       "duration_ms": 439945,
       "name": "Bojomu Sesok Tak Silihe",
       "url": "https://open.spotify.com/track/5tH7E362a0KblrK7ycNzBU"
+    },
+    {
+      "album": {
+        "name": "Bubrah",
+        "url": "https://open.spotify.com/album/07urzunOSaLFzBroFn2YK0"
+      },
+      "artists": [
+        {
+          "name": "Northsle",
+          "url": "https://open.spotify.com/artist/2uLPgRE1AC21L9Ep5WmGVu"
+        },
+        {
+          "name": "Agiff",
+          "url": "https://open.spotify.com/artist/6RQy74jvNAxRoUyYaL2JyG"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346000,
+      "name": "Bubrah",
+      "url": "https://open.spotify.com/track/4xyMOJkHxqKvoW5issqXzZ"
     },
     {
       "album": {
@@ -410,7 +432,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 242189,
       "name": "Cidro 2",
       "url": "https://open.spotify.com/track/17yog0bsFVvumvOuux03wM"
@@ -428,10 +450,46 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 326769,
       "name": "Cidro Asmoro",
       "url": "https://open.spotify.com/track/1P51HK66VRbcNtG6nzxSd0"
+    },
+    {
+      "album": {
+        "name": "Crito Mustahil",
+        "url": "https://open.spotify.com/album/1IGR38inbN5ZEEdGGZUkl8"
+      },
+      "artists": [
+        {
+          "name": "Guyon Waton",
+          "url": "https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281250,
+      "name": "Crito Mustahil",
+      "url": "https://open.spotify.com/track/2vOYGzRHM9IpVQD634gUU3"
+    },
+    {
+      "album": {
+        "name": "Cundamani",
+        "url": "https://open.spotify.com/album/6L2xfwstUhr4VJNfbFgLiz"
+      },
+      "artists": [
+        {
+          "name": "Denny Caknan",
+          "url": "https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287213,
+      "name": "Cundamani",
+      "url": "https://open.spotify.com/track/64MmMbaX3hmAKQ6nFLJgpg"
     },
     {
       "album": {
@@ -570,7 +628,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 252026,
       "name": "Dalan Liyane - Koplo",
       "url": "https://open.spotify.com/track/4YWNVMpSTH6L8RhI8a8ggf"
@@ -588,7 +646,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 336554,
       "name": "Dalane Ati",
       "url": "https://open.spotify.com/track/6cd5f1jT2FZrT3A9cUQ6xl"
@@ -650,6 +708,28 @@
       "duration_ms": 266666,
       "name": "Dumes",
       "url": "https://open.spotify.com/track/5IhULiOyG58jL20qWkztEg"
+    },
+    {
+      "album": {
+        "name": "Dumes",
+        "url": "https://open.spotify.com/album/4P4FRaMf27fqcb3LDiPtf1"
+      },
+      "artists": [
+        {
+          "name": "Safira Inema",
+          "url": "https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY"
+        },
+        {
+          "name": "Danuarta",
+          "url": "https://open.spotify.com/artist/35Y9CHZ4gMQf59sz8gGZeB"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319384,
+      "name": "Dumes",
+      "url": "https://open.spotify.com/track/0hLpNehEJthjHfCxRKMe4c"
     },
     {
       "album": {
@@ -826,7 +906,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 278400,
       "name": "Gemati",
       "url": "https://open.spotify.com/track/7dDEb68OZzExiNhVGQirut"
@@ -844,7 +924,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 201900,
       "name": "Gerombolan Mantan",
       "url": "https://open.spotify.com/track/6OXCe6zKZnFNYM6NvyJMMd"
@@ -1046,6 +1126,24 @@
       "duration_ms": 270733,
       "name": "Kartonyono Medot Janji",
       "url": "https://open.spotify.com/track/6bnCgtR9tDcADREMONA91t"
+    },
+    {
+      "album": {
+        "name": "Kebacut Nyaman",
+        "url": "https://open.spotify.com/album/5WMqMj79VLVJp6YG42WwrL"
+      },
+      "artists": [
+        {
+          "name": "Damara De",
+          "url": "https://open.spotify.com/artist/0ZrpjSmeaK6iY14eZFx5dF"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305426,
+      "name": "Kebacut Nyaman",
+      "url": "https://open.spotify.com/track/3kEUi3er4c6aNdX0spyUZM"
     },
     {
       "album": {
@@ -1266,7 +1364,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 316000,
       "name": "Kuatno Atimu",
       "url": "https://open.spotify.com/track/5SsjDIA3DhUQXM9cDjQ5sI"
@@ -1288,10 +1386,28 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 304405,
       "name": "Kudu Nangis",
       "url": "https://open.spotify.com/track/1W6dPS3Fko21XHOkKQ2rMI"
+    },
+    {
+      "album": {
+        "name": "Kurangku Opo",
+        "url": "https://open.spotify.com/album/5rCg6XiVS9xmBiUEoYn0Dq"
+      },
+      "artists": [
+        {
+          "name": "Ronda Genk",
+          "url": "https://open.spotify.com/artist/67H1jUlHffu3RzhSAWRl7z"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388286,
+      "name": "Kurangku Opo",
+      "url": "https://open.spotify.com/track/5v2gEm7WZNJChdoNqgGSxA"
     },
     {
       "album": {
@@ -1310,7 +1426,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 255428,
       "name": "Lagu Galau",
       "url": "https://open.spotify.com/track/3czrfH9M8dT34boJCL6iwV"
@@ -1328,7 +1444,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 376093,
       "name": "Lemah Teles",
       "url": "https://open.spotify.com/track/5c8Yuef8DL7Okp8Y9KhJMK"
@@ -1346,10 +1462,28 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 334840,
       "name": "Lengo Lan Banyu",
       "url": "https://open.spotify.com/track/7hGRnpcfRRqZjmbEaBJVEK"
+    },
+    {
+      "album": {
+        "name": "Lilakno Lungaku",
+        "url": "https://open.spotify.com/album/2xkJB4SULWjjsqOLeq7dsD"
+      },
+      "artists": [
+        {
+          "name": "Losskita",
+          "url": "https://open.spotify.com/artist/3BifJ2eD9KMFgAGa8LbPtI"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309446,
+      "name": "Lilakno Lungaku",
+      "url": "https://open.spotify.com/track/6bleTipsKDs3CH6TA1W1bh"
     },
     {
       "album": {
@@ -1364,7 +1498,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 335024,
       "name": "Lilakno Lungaku",
       "url": "https://open.spotify.com/track/6knc0ByasDCvGNlQPHYUFX"
@@ -1400,7 +1534,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 305454,
       "name": "Lintang Sewengi",
       "url": "https://open.spotify.com/track/4qYRw5qEaofw25P36WWfSR"
@@ -1436,7 +1570,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 284674,
       "name": "Loro Ati Sejak Dini",
       "url": "https://open.spotify.com/track/0oUVBZrnc8S6qJEA8uH1On"
@@ -1642,7 +1776,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 170999,
       "name": "Mulyomu Mulyoku",
       "url": "https://open.spotify.com/track/2YuyuyKmfgtnK5GqZSJntw"
@@ -1660,7 +1794,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 251520,
       "name": "Mundur Alon Alon",
       "url": "https://open.spotify.com/track/79mIVkf9j6wtG23QNkKfxZ"
@@ -1761,6 +1895,24 @@
     },
     {
       "album": {
+        "name": "Nemu",
+        "url": "https://open.spotify.com/album/3tR9cN50IM6rKmKSFEAWQy"
+      },
+      "artists": [
+        {
+          "name": "Woro Widowati",
+          "url": "https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Nemu",
+      "url": "https://open.spotify.com/track/5ECbbMpv6wWLyR7bOirKML"
+    },
+    {
+      "album": {
         "name": "Neng Ngarep Moto",
         "url": "https://open.spotify.com/album/78OXxum7Wes8xs99bSuznr"
       },
@@ -1826,7 +1978,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 239769,
       "name": "Ngeman",
       "url": "https://open.spotify.com/track/0ZQWph1RquCqAPhBrRaC5C"
@@ -1880,7 +2032,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 337999,
       "name": "Nguripi (Ngupoyo Karo Ndongo)",
       "url": "https://open.spotify.com/track/4kWvjwokPlWHJj3iNDXltK"
@@ -1934,7 +2086,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 259384,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/31JvGZJBhZWUijQvLBqwCG"
@@ -1970,7 +2122,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 267626,
       "name": "Nyambangi Ati",
       "url": "https://open.spotify.com/track/6NPQT0KJ0Atca2etKqAoyh"
@@ -2032,7 +2184,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 347916,
       "name": "Ojo Di Bandingke",
       "url": "https://open.spotify.com/track/6tpkCrZvH82EEZxTSacKQy"
@@ -2104,7 +2256,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 330600,
       "name": "Ojo Nangis",
       "url": "https://open.spotify.com/track/55ZdI8As6tgaM1X6P8XQ4U"
@@ -2198,7 +2350,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 301890,
       "name": "Pamer Bojo",
       "url": "https://open.spotify.com/track/2rShm1AcEBSlydfHykf3uJ"
@@ -2216,7 +2368,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 375018,
       "name": "Pedhot Janji",
       "url": "https://open.spotify.com/track/2Z8sz5V61e7mUQHl7WTP69"
@@ -2346,7 +2498,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 339461,
       "name": "Piye Kabare - Keroncong",
       "url": "https://open.spotify.com/track/2NQtWhnnrkvlqmIGoZ0RSl"
@@ -2364,7 +2516,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 336000,
       "name": "Piye Kabarmu",
       "url": "https://open.spotify.com/track/0Xwy9IezFUwQhOXDDaVPhs"
@@ -2470,6 +2622,28 @@
     {
       "album": {
         "name": "Raiso Dadi Siji",
+        "url": "https://open.spotify.com/album/0YX5jGnXIZ7McHkHuJzfbg"
+      },
+      "artists": [
+        {
+          "name": "Masdddho",
+          "url": "https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh"
+        },
+        {
+          "name": "Linda Sulini",
+          "url": "https://open.spotify.com/artist/0dbRMrhQQRU84Eh6GafP6O"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394925,
+      "name": "Raiso Dadi Siji",
+      "url": "https://open.spotify.com/track/2WamguLifm5R5oKt4kuddx"
+    },
+    {
+      "album": {
+        "name": "Raiso Dadi Siji",
         "url": "https://open.spotify.com/album/3RoCv0pb9FKyueED3DTToe"
       },
       "artists": [
@@ -2528,6 +2702,24 @@
       "duration_ms": 264563,
       "name": "Rasah Bali",
       "url": "https://open.spotify.com/track/19k7JnQqTk55l1yV7ul3MD"
+    },
+    {
+      "album": {
+        "name": "Rasah Nyangkem 3 (Cover)",
+        "url": "https://open.spotify.com/album/1ISCvgK60hAh1elYeWxGZT"
+      },
+      "artists": [
+        {
+          "name": "Wika Salim",
+          "url": "https://open.spotify.com/artist/0SW06VHzaPwpTNiBS7GH4q"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335983,
+      "name": "Rasah Nyangkem 3",
+      "url": "https://open.spotify.com/track/0vzloz86OV24wUWpVlXiqv"
     },
     {
       "album": {
@@ -2738,7 +2930,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 220040,
       "name": "Sambat",
       "url": "https://open.spotify.com/track/6beU0Phq5vUGvzYF4EtplM"
@@ -2872,7 +3064,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 285615,
       "name": "satru 2",
       "url": "https://open.spotify.com/track/06mmODvS7e6gFPoz0Y52Gj"
@@ -2908,7 +3100,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 264540,
       "name": "Semarang Ngawi",
       "url": "https://open.spotify.com/track/7Di7sWT0dsxlgDvJINPpHw"
@@ -2944,7 +3136,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 247530,
       "name": "Sewu Kuto",
       "url": "https://open.spotify.com/track/0dOVpj4DF72H55AczoFUU6"
@@ -2962,7 +3154,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 281333,
       "name": "Sinyal Tresna - From Collabonation",
       "url": "https://open.spotify.com/track/5vVV76tC3KjigYnT4dzMba"
@@ -2980,7 +3172,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 290987,
       "name": "Sinyal Tresno",
       "url": "https://open.spotify.com/track/1a3eBx0pLNJ0bfI2NMm59p"
@@ -2998,7 +3190,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 323672,
       "name": "Sugeng Dalu",
       "url": "https://open.spotify.com/track/0qyzO8E6IBxZv48FG9R3KQ"
@@ -3106,7 +3298,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 415047,
       "name": "Tangise Sarangan",
       "url": "https://open.spotify.com/track/2NjOl7W9zT3ZnyUFsEyrmU"
@@ -3218,6 +3410,24 @@
       "duration_ms": 413090,
       "name": "Teteg Ati",
       "url": "https://open.spotify.com/track/4xENChb83VAH1qbanAAlWh"
+    },
+    {
+      "album": {
+        "name": "Tetep Ning Sandingku",
+        "url": "https://open.spotify.com/album/0kCJXE9mZpaFz1QmODLcMy"
+      },
+      "artists": [
+        {
+          "name": "NDX A.K.A.",
+          "url": "https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Tetep Ning Sandingku",
+      "url": "https://open.spotify.com/track/1Hm2oW0dG41HjpfuPJJxzr"
     },
     {
       "album": {
@@ -3392,7 +3602,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 274923,
       "name": "Wayahe Hiling",
       "url": "https://open.spotify.com/track/5DO6h6YjA9531IA8B0ahBa"
@@ -3428,7 +3638,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 346444,
       "name": "Wegah Pisah",
       "url": "https://open.spotify.com/track/3Wqr2RXL6msDIuJM1m0UNW"

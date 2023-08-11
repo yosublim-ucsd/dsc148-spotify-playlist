@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Ana Castela
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,441,345 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,444,260 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 49 | [Média Boa \- Ao Vivo](https://open.spotify.com/track/1dMyIigB6MDsfD3xuG6TbO) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Média Boa \(Ao Vivo\)](https://open.spotify.com/album/15FjGqqvJgrSc4DowwwBKj) | 2:28 |
 | 50 | [Hackearam\-me](https://open.spotify.com/track/72vwG7lcOTPgT2YgYpg505) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais, Vol\. 3](https://open.spotify.com/album/1ZIOn3boIPlcctKdVNNHRm) | 3:21 |
 
-Snapshot ID: `MCxkYTk2NjllZjVjZDAxYjdjYzdjMTA5ZTAwNDAyNjNkNTBhOWFhMTgz`
+Snapshot ID: `MCxlOTI0YjM0NTgwZGFkNDg2NDQ0NDJhYTk1NTUzNDI2OTk5N2Q4OWI4`

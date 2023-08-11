@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Nseeb
 
-179 songs - 8 hr 38 min
+181 songs - 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Pinda Aale](https://open.spotify.com/track/34uGihf7olNByEcHPVGbsV) | [G\. Sidhu](https://open.spotify.com/artist/1cqZQSRjE8Bl0PABOkVU9c), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT), [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5) | [Pinda Aale](https://open.spotify.com/album/2TzKRe27dDLz2RdeG7Ikme) | 2:33 | 2023-04-18 | 2023-04-21 |
 | [Raakhi \(From "Annhi Dea Mazaak Ae"\)](https://open.spotify.com/track/0le7rsL6RS0cv3JRpPHim3) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x) | [Raakhi \(From "Annhi Dea Mazaak Ae"\)](https://open.spotify.com/album/7MNNv8dFXb563dcOpw4P4H) | 2:58 | 2023-04-15 | 2023-04-21 |
 | [Raid](https://open.spotify.com/track/0zzFgse3Kxav0FTpHD32JH) | [Gurpreet Randhawa](https://open.spotify.com/artist/3uB5zQEcpSgthO42DwPcH9), [Daddy Beats](https://open.spotify.com/artist/1X8jfXY8suwZySWPSaieKs) | [Raid](https://open.spotify.com/album/5ZkyLxGnYpG47sUsN2f4f8) | 2:16 | 2023-03-29 | 2023-04-21 |
+| [Rubicon](https://open.spotify.com/track/3xsUWTwx4m4cYgpueIPOWi) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [Rubicon](https://open.spotify.com/album/78eM6G2sL4H255Zq1UslaJ) | 4:11 | 2023-08-10 |  |
 | [Rubicon Drill](https://open.spotify.com/track/03yKEFruN3BS2coglBtt2N) | [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p), [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Forever](https://open.spotify.com/album/4qlI6YM61j9NeGe832mExq) | 3:08 | 2023-03-29 |  |
 | [Shartan](https://open.spotify.com/track/6eMG3Ofah1FiO6N8L4Y3Cp) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N), [Mankirat Pannu](https://open.spotify.com/artist/2AH3Sxq7EJxkURX1kG53Mz) | [Shartan](https://open.spotify.com/album/2jNWvoRUGhWIiko0zPEepV) | 2:40 | 2023-03-29 | 2023-07-15 |
 | [Shawty Like A Melody](https://open.spotify.com/track/6FThFO8Pnz9YEbgyERV9XG) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ), [J.Hind](https://open.spotify.com/artist/3hWwqQE8pDtGEOOf0VJx4t) | [Win Win Situation](https://open.spotify.com/album/4FwjJj6xPDaGCbSYWxgkJk) | 3:44 | 2023-04-03 | 2023-04-21 |
@@ -163,6 +164,7 @@
 | [TALK LESS](https://open.spotify.com/track/2FdHYqak0QNYVvvvYfTKLN) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [TALK LESS](https://open.spotify.com/album/0GPjytkpi73o0Uuz8J5yjz) | 2:21 | 2023-03-29 | 2023-04-21 |
 | [Tape 2](https://open.spotify.com/track/1GNvVQnt5tR87lmhwl0yaN) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Saroor](https://open.spotify.com/album/6Zh0nr6poc2VNhZDwNSptG) | 3:19 | 2023-06-29 |  |
 | [Taur Jattan Di](https://open.spotify.com/track/71cVODnoVVC86J0r4VGEjT) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Kulbir Jhinjer](https://open.spotify.com/artist/5xeLNyuZaJBjLpyjopm22n) | [Taur Jattan Di](https://open.spotify.com/album/2bc7sswbaQOshk7bppuP4K) | 2:52 | 2023-03-29 | 2023-07-15 |
+| [Tera Canada](https://open.spotify.com/track/7ghypi2mLGlUPzwbcfPTNe) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Jang Dhillon](https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq) | [Tera Canada](https://open.spotify.com/album/01bK2JE8QRNyNA6Tb79j3Z) | 3:20 | 2023-08-10 |  |
 | [Thaa](https://open.spotify.com/track/2NmBCDkjvJVvEZkH5QDOeb) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P), [Ultra Beats](https://open.spotify.com/artist/2YzXsQoI3rqYNEVd4nac7g) | [Thaa](https://open.spotify.com/album/6u5RdRVp5HBStyPRWvHcgm) | 3:01 | 2023-03-29 |  |
 | [Toy](https://open.spotify.com/track/14pPJbEMx6JZU8RItbY1Vq) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON) | [Toy](https://open.spotify.com/album/4VrAmKqAphRMoDcYno8V25) | 3:04 | 2023-03-29 |  |
 | [True Stories](https://open.spotify.com/track/28lvraTNIN8qiTpoIK7m8Z) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [True Stories](https://open.spotify.com/album/7JABHOzxcWGwmihIUq13dl) | 1:57 | 2023-06-16 |  |

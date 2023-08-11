@@ -4,7 +4,7 @@
 
 > Trace the history of Jazz from timeless classics to boundary\-breaking contemporary favorites from the women of Jazz\. Cover: Diana Krall
 
-189 songs - 13 hr 35 min
+190 songs - 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Without That Gal! \(06\-11\-31\)](https://open.spotify.com/track/6RsdHCcaWpatuOxqsIbBh6) | [Blanche Calloway](https://open.spotify.com/artist/4Pb1I6ZTK7XnAfk7bJtvjh) | [Complete Jazz Series 1925 \- 1935](https://open.spotify.com/album/4u6xGQVPpDu50k8nORV2f5) | 3:36 | 2021-12-02 | 2022-07-29 |
 | [Worrisome Heart](https://open.spotify.com/track/3zh5km8gPDYMiWvmLTsos0) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Worrisome Heart](https://open.spotify.com/album/5ahEd7berYIgjRYsIHZa8Y) | 4:21 | 2021-12-02 |  |
 | [You & I \(feat\. Margaret Glaspy\)](https://open.spotify.com/track/0MOXs5rKfhXY7TooT6iiiP) | [Éyal Hai](https://open.spotify.com/artist/6nQAOfHn42kF8Vgzp1f8iZ), [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Practicing Catharsis](https://open.spotify.com/album/6so2LHwGrdVy5rjwVAwi7u) | 3:24 | 2021-12-02 |  |
+| [You Are There](https://open.spotify.com/track/3HweeuM8Tuan2rNoAW2uYY) | [Kate Kortum](https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D) | [You Are There](https://open.spotify.com/album/2SW21s45ctUtS6GIxsVuaM) | 5:45 | 2023-08-10 |  |
 | [You Don't Know What Love Is](https://open.spotify.com/track/1PsI3QZhAF2jfLChO6v1uK) | [Cassandra Wilson](https://open.spotify.com/artist/6TZ5t4kclsmGWHqb3mGyha) | [Blue Light 'Til Dawn](https://open.spotify.com/album/6YZALitmuH7HYCvfjzP6dX) | 6:05 | 2021-12-02 |  |
 | [You Don't Own Me](https://open.spotify.com/track/0cLoeuy6rlb3Cq3nH7r2u7) | [Brenna Whitaker](https://open.spotify.com/artist/4VIXJZgRL9hIOmF5CbTIJK) | [Brenna Whitaker](https://open.spotify.com/album/7rGrSGPta87EbcQ57JHIRY) | 2:54 | 2022-03-08 |  |
 | [You Don't Own Me](https://open.spotify.com/track/0oBMZ5rSX3rhHDVDlXYsbS) | [Brenna Whitaker](https://open.spotify.com/artist/4VIXJZgRL9hIOmF5CbTIJK) | [Brenna Whitaker \(Deluxe\)](https://open.spotify.com/album/3NJY6ZCe5zWdojphahCoIC) | 2:54 | 2021-12-02 | 2022-07-29 |

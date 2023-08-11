@@ -1916,7 +1916,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
@@ -2936,7 +2936,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
@@ -3519,6 +3519,24 @@
     },
     {
       "album": {
+        "name": "Happy Again",
+        "url": "https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154125,
+      "name": "Happy Again",
+      "url": "https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe"
+    },
+    {
+      "album": {
         "name": "PISTOLER POESI OCH SEX",
         "url": "https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy"
       },
@@ -4052,6 +4070,28 @@
       "duration_ms": 143212,
       "name": "H\u00f6ghusdr\u00f6mmar",
       "url": "https://open.spotify.com/track/1LOeNFopjoNVYVpbKWjH2m"
+    },
+    {
+      "album": {
+        "name": "i adore u",
+        "url": "https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220653,
+      "name": "i adore u",
+      "url": "https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ"
     },
     {
       "album": {
@@ -5114,7 +5154,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 178191,
       "name": "Lilla B",
       "url": "https://open.spotify.com/track/2c8wnqPxPUXtxNSJN9b4cS"
@@ -7789,6 +7829,24 @@
     },
     {
       "album": {
+        "name": "Solen",
+        "url": "https://open.spotify.com/album/3OuuDKDCCgbDALjhbHr0lR"
+      },
+      "artists": [
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217586,
+      "name": "Solen",
+      "url": "https://open.spotify.com/track/3y3atUjUSfSxEpM1LEN00h"
+    },
+    {
+      "album": {
         "name": "SOM DOM",
         "url": "https://open.spotify.com/album/4m94OnzZDqdD90RcHYBFeN"
       },
@@ -9413,6 +9471,24 @@
     },
     {
       "album": {
+        "name": "Vibe Check",
+        "url": "https://open.spotify.com/album/0OrXgNFMNUFlwddX4NnCtD"
+      },
+      "artists": [
+        {
+          "name": "Hov1",
+          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192586,
+      "name": "Vibe Check",
+      "url": "https://open.spotify.com/track/3b7YMGle84C9SLNmJC6dz0"
+    },
+    {
+      "album": {
         "name": "Victoria\u2019s Secret",
         "url": "https://open.spotify.com/album/47eeG5ewIbO53gXZOkvHhg"
       },
@@ -9758,7 +9834,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 208917,
       "name": "Who Told You (feat. Drake)",
       "url": "https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC"

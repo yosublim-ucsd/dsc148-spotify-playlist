@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: legallyrxx
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,427 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,443 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 59 | [Tus Besos \- Remix](https://open.spotify.com/track/4SieMb6AQmQgbjv9TfC5Qm) | [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Tus Besos \(Remix\)](https://open.spotify.com/album/4M0AZNWr6KbYVxtcsXjCNH) | 3:49 |
 | 60 | [COMO TE VEO](https://open.spotify.com/track/0UhTJB22OyfSp4sbYz0MSa) | [Darho](https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq) | [COMO TE VEO](https://open.spotify.com/album/7JdT4amYapsoKhOvZYT2tE) | 3:26 |
 
-Snapshot ID: `MCxhMTI4OTZjNDg4N2EwNzM1NjE3MDE0YjBmNDY0MDBhMTYzNTE5ZTZk`
+Snapshot ID: `MCxmYzMzMGNlMmE4MWY0OTBiY2EyZTY5NTVlMzI0MTE1MDg4ZmQ5Njhm`

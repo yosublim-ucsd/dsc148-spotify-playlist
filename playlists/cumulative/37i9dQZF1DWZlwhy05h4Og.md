@@ -4,7 +4,7 @@
 
 > The sweetest bops\. Cover: ITZY
 
-102 songs - 5 hr 9 min
+104 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [I DO](https://open.spotify.com/track/6SePnvTZkIXZznc8Ftc6vM) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I DO](https://open.spotify.com/album/62lN1efwf3MajWlzsSlYFN) | 3:10 | 2023-07-26 |  |
 | [Ice Cream \(with Selena Gomez\)](https://open.spotify.com/track/4JUPEh2DVSXFGExu4Uxevz) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 2:57 | 2023-03-22 |  |
 | [If We Ever Broke Up](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up](https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO) | 2:22 | 2023-03-22 |  |
-| [ILLELLA](https://open.spotify.com/track/0oeVHAgY8Q7Mdce5Quj2G4) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [MIC ON](https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ) | 2:46 | 2023-03-22 |  |
+| [ILLELLA](https://open.spotify.com/track/0oeVHAgY8Q7Mdce5Quj2G4) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [MIC ON](https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ) | 2:46 | 2023-03-22 | 2023-08-11 |
 | [Illusion](https://open.spotify.com/track/5uFqjHOo3Sh0bVPCKf3DdH) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Illusion](https://open.spotify.com/album/4r815m6eq8OXYzfqtk3FST) | 3:15 | 2023-03-22 | 2023-06-15 |
 | [It Is What It Is](https://open.spotify.com/track/1558CwDaXSZiCplq9AaH0q) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [It Is What It Is](https://open.spotify.com/album/1WFMXKtfmcwsojf8gSEXm5) | 2:26 | 2023-08-04 |  |
 | [Keeping Tabs](https://open.spotify.com/track/2zz4plJxtgMIsQg5SMl2Bg) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 2:57 | 2023-03-22 |  |
@@ -76,6 +76,7 @@
 | [NOT YOUR GIRL](https://open.spotify.com/track/05aq7OhxdoLiUKOigmiqcj) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:22 | 2023-04-14 |  |
 | [OMG](https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:32 | 2023-03-22 |  |
 | [On The Ground](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 2:48 | 2023-03-22 |  |
+| [ONE MORE TIME](https://open.spotify.com/track/2HGAKzcfEtMfbM2ssgiKez) | [BBGIRLS](https://open.spotify.com/artist/7yXtdZLKdtwH5FrxduK7ti) | [ONE MORE TIME](https://open.spotify.com/album/5o3vgo7t4tTTCVh9zSptML) | 3:07 | 2023-08-10 |  |
 | [PANDORA](https://open.spotify.com/track/70yszWsLJvNZuZwaHNMROf) | [MAVE:](https://open.spotify.com/artist/2ec7y2L98sHDYFylr7KqEx) | [PANDORA'S BOX](https://open.spotify.com/album/3uYJ8J1nYZB3sXjRNKWHGz) | 3:16 | 2023-03-22 |  |
 | [Paper Rings](https://open.spotify.com/track/4y5bvROuBDPr5fuwXbIBZR) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:42 | 2023-03-29 |  |
 | [Party O'Clock](https://open.spotify.com/track/0HdcJkzhhhzID0nXEpIVgH) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [A Midsummer NMIXX’s Dream](https://open.spotify.com/album/0OM5hpJTbDQtetg6TQCOke) | 3:03 | 2023-07-26 |  |
@@ -99,6 +100,7 @@
 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 | 2023-07-07 |  |
 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 | 2023-03-22 |  |
 | [Talking to Yourself](https://open.spotify.com/track/7I7Dk8FOkZqhqZp9N2RKiP) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Loneliest Time](https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ) | 2:53 | 2023-03-22 |  |
+| [TGIF](https://open.spotify.com/track/3horUXBBgEyTEAxfeT9c0P) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [TGIF](https://open.spotify.com/album/0aNeBf2SZFAUOYuyCBPU0c) | 2:51 | 2023-08-10 |  |
 | [Too Well](https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 2:36 | 2023-03-22 |  |
 | [Touch](https://open.spotify.com/track/1gG5MoWK5SmHUcQPa2jxdP) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 3:33 | 2023-03-22 |  |
 | [UNFORGIVEN \(feat\. Nile Rodgers\)](https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:02 | 2023-05-05 | 2023-08-05 |

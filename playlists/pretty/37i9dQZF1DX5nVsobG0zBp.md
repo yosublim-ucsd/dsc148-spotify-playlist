@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: Mizzy Miles, Deejay Telio, Gson e Teto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,291 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,335 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 48 | [Voodoo](https://open.spotify.com/track/4siqPZx55JCfT7yhK19y9w) | [GROGNation](https://open.spotify.com/artist/1rtrFjartQj3xws8TZ1dXu), [Filipe Gonçalves](https://open.spotify.com/artist/63PA6qLxy0FJNUxT00SctL) | [Na Via](https://open.spotify.com/album/7eCky9hSeUAwE8tKWWordR) | 4:50 |
 | 49 | [Miúda](https://open.spotify.com/track/1DHQcaZMENKPt8KBQgIr25) | [Holly Hood](https://open.spotify.com/artist/3DOJU0CqEqSdfFIMGiykRv) | [Miúda](https://open.spotify.com/album/2v9VGSs5HQpvLRP37avwtr) | 2:48 |
 | 50 | [Aguarela](https://open.spotify.com/track/7IiXV9rM2px5hoeoL912KW) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Iluminado](https://open.spotify.com/album/5fbYIdwgZSukUtH9iZ3xeq) | 3:17 |
-| 51 | [Tranquilo](https://open.spotify.com/track/1fobXPCu47gikLMIoyQBLy) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Tranquilo](https://open.spotify.com/album/1qhBvfD0i324wwBlU0QZxD) | 4:23 |
-| 52 | [MONCLER](https://open.spotify.com/track/7KccImY9LfyZgU8xnUqnRu) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [HOODZ](https://open.spotify.com/artist/3y4q2i7dNCUrGM1u3CcHMY) | [MINA D'OURO](https://open.spotify.com/album/7uTknfX0WjeP7j1ucunTrF) | 3:40 |
+| 51 | [MONCLER](https://open.spotify.com/track/7KccImY9LfyZgU8xnUqnRu) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [HOODZ](https://open.spotify.com/artist/3y4q2i7dNCUrGM1u3CcHMY) | [MINA D'OURO](https://open.spotify.com/album/7uTknfX0WjeP7j1ucunTrF) | 3:40 |
+| 52 | [Tranquilo](https://open.spotify.com/track/1fobXPCu47gikLMIoyQBLy) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Tranquilo](https://open.spotify.com/album/1qhBvfD0i324wwBlU0QZxD) | 4:23 |
 | 53 | [Dama & Vagabundo](https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Dama & Vagabundo](https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM) | 5:13 |
 | 54 | [Coração](https://open.spotify.com/track/1dmgHNSeYDyqb6TwLatTfc) | [GROGNation](https://open.spotify.com/artist/1rtrFjartQj3xws8TZ1dXu) | [Anatomia de GROG](https://open.spotify.com/album/333cuKMpbc1kaTufa6Uu2y) | 4:42 |
 | 55 | [Juvena](https://open.spotify.com/track/6vbFZuziJPaFPRCWyQxOxP) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Juvena](https://open.spotify.com/album/0C3QVzznGSXSAw9QmNVpbc) | 2:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 74 | [STAY FLY](https://open.spotify.com/track/2QTqMOfniBv3Y0GWkJa5bZ) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd) | [STAY FLY](https://open.spotify.com/album/4iIcbooXI3ECNDtEHMZIYq) | 3:54 |
 | 75 | [Conclusão](https://open.spotify.com/track/3POu1ffLnehBhpNGuaaOG3) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Conclusão](https://open.spotify.com/album/44Hs7uBI8i9aJlDp2nkQxE) | 2:27 |
 
-Snapshot ID: `MCxmNDRlNjVkYzViMTcwNjhiN2ZjNzIzNWRmZTZiMGFlZWI0MWVkYTFm`
+Snapshot ID: `MCxiZGEzYThkYzk2OGNkZTZlNDZmZTRhMjQ0NTJmNjdjNTgyY2Y0YTEy`

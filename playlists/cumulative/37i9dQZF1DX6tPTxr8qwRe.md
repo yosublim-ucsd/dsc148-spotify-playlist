@@ -4,7 +4,7 @@
 
 > Dark, hard hitting pop\. Cover: SNOW WIFE
 
-454 songs - 20 hr 51 min
+455 songs - 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,7 +329,8 @@
 | [R.I.P.](https://open.spotify.com/track/2NsT14VbcsVEZksjccxkvH) | [Casey Baer](https://open.spotify.com/artist/0NJXUPqUHxTBWf7n3naRqy) | [R.I.P.](https://open.spotify.com/album/6AIk8FOlSBxFtJik5iuyBq) | 2:56 | 2021-12-10 | 2022-03-18 |
 | [rapunzel](https://open.spotify.com/track/1mT8ynmtag8TCA01FUujxl) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [rapunzel](https://open.spotify.com/album/2HSYHoAuFyiu7XXr9lePEy) | 3:07 | 2022-01-07 | 2022-04-29 |
 | [Read The Room](https://open.spotify.com/track/1Vm75Mw5XfvrT7NEgM9W8p) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Read The Room](https://open.spotify.com/album/66hA0bftjpanygAoCYZhou) | 2:46 | 2022-02-18 | 2022-05-20 |
-| [red flag collector](https://open.spotify.com/track/2RLHAs40VeEWznm3ugthJ7) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [red flag collector](https://open.spotify.com/album/29nqXCfWwutCC9ZWnNZKHU) | 2:58 | 2023-06-09 |  |
+| [red flag collector](https://open.spotify.com/track/2RLHAs40VeEWznm3ugthJ7) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [red flag collector](https://open.spotify.com/album/29nqXCfWwutCC9ZWnNZKHU) | 2:58 | 2023-06-09 | 2023-08-11 |
+| [red flag collector](https://open.spotify.com/track/6a0x5MhnYdjxaotPNKXUvW) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [chemistry](https://open.spotify.com/album/5c56JYNgc48iDnwHHlOcye) | 2:58 | 2023-07-28 |  |
 | [RENT FREE](https://open.spotify.com/track/63OJuAjBAhM0SV7EKAXVC3) | [Siena Liggins](https://open.spotify.com/artist/5DLTBcpdWQsAPeN1t8PZv9) | [RENT FREE](https://open.spotify.com/album/5k92ch8gWdvXYrbjOcxMsb) | 2:51 | 2023-06-16 | 2023-08-05 |
 | [Rich Man](https://open.spotify.com/track/48SHHV3qxvboO8TFWrroC4) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Rich Man](https://open.spotify.com/album/1LbXVD0LLYNvAv6ZJt4DRa) | 2:51 | 2022-02-11 | 2022-03-18 |
 | [Romeo Dies](https://open.spotify.com/track/42SZ9WKuZ4EDblgvJc581c) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [Romeo Dies](https://open.spotify.com/album/7f098aQqfKMnYS5YVjkT15) | 2:48 | 2022-05-20 | 2022-08-13 |

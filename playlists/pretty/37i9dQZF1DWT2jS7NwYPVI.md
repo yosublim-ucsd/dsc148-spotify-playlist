@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Teenage Wrist
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,928 likes - 125 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,996 likes - 125 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 124 | [Conciousness](https://open.spotify.com/track/0mIjVwFud57Hv0zG36sULS) | [JonoJono](https://open.spotify.com/artist/0HPzKByIKi4qqSgS3gc26q) | [Conciousness](https://open.spotify.com/album/7o2V8ULiIfALz2wDnVwUIP) | 3:55 |
 | 125 | [Exit Signs](https://open.spotify.com/track/7ud416cuyDDgkQ8huXwqya) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [Exit Signs](https://open.spotify.com/album/7E60li9AlGYQO7zHKryWu7) | 4:28 |
 
-Snapshot ID: `MCxkYTg1MTJiNjFkNGJkNTljY2JmMDAzMDYyYTRlOWVkZjUxOWU1YmUy`
+Snapshot ID: `MCw2YTA2ZWExNmI4ZTQxMGI0ODllYTA1MGViZDNkNzJmNjE1NGUwNGQy`

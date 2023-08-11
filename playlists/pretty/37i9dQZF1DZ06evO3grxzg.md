@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 
 > This is Danna Paola\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,557 likes - 47 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,657 likes - 47 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 | 8 | [Nada](https://open.spotify.com/track/1U7QlWG6O98xgsJtVjYREj) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Malibu](https://open.spotify.com/album/05JQChm5ZKQLFvBeywelCU) | 2:53 |
 | 9 | [Know Me Too Well \(with Danna Paola\)](https://open.spotify.com/track/2zI9NSx3dncJHCw0QClcx0) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [New Hope Club](https://open.spotify.com/album/1FOu259qTT1V4pFwjR8MXn) | 3:20 |
 | 10 | [Oye Pablo](https://open.spotify.com/track/6vruVVMkk7YGKzkuIrtOWz) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 2:57 |
-| 11 | [Sugar Mami](https://open.spotify.com/track/2cBDzxzjkytWGRggDJbn3g) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Sugar Mami](https://open.spotify.com/album/4CokgfnlUd2OdTB00DKtOV) | 2:11 |
-| 12 | [Amor Ordinario](https://open.spotify.com/track/4WbKmrxCQ8gp8qEjyRpXtb) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:10 |
+| 11 | [Amor Ordinario](https://open.spotify.com/track/4WbKmrxCQ8gp8qEjyRpXtb) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:10 |
+| 12 | [Sugar Mami](https://open.spotify.com/track/2cBDzxzjkytWGRggDJbn3g) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Sugar Mami](https://open.spotify.com/album/4CokgfnlUd2OdTB00DKtOV) | 2:11 |
 | 13 | [No Bailes Sola](https://open.spotify.com/track/1GNSWpe2SB30zYGbNTD96b) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [No Bailes Sola](https://open.spotify.com/album/2fDBlYHy3clr2Q3JRq89Rd) | 3:00 |
 | 14 | [Sodio](https://open.spotify.com/track/7jYZU1CIruZU3puB5tiYiW) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:06 |
 | 15 | [Veo en ti la luz](https://open.spotify.com/track/199LDzwbUTc2wEroyRxhBM) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Enredados](https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q) | 3:37 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 | 21 | [No Es Cierto](https://open.spotify.com/track/6QujFeVy4XXrf9NcEJYOuV) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Noel Schajris](https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh) | [Danna Paola \(Edición Deluxe\)](https://open.spotify.com/album/3sqRn2w4AGBDxzJe7PjGYd) | 3:45 |
 | 22 | [Santería](https://open.spotify.com/track/3VArTR8VPyOEiITj8SJMLv) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Santería](https://open.spotify.com/album/2m9hbe3YP1PXygWHN1gUAy) | 3:04 |
 | 23 | [El Primer Dia Sin Ti](https://open.spotify.com/track/0SyiBeCbCEdZolhFoAvz94) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Danna Paola](https://open.spotify.com/album/1AKTMo2eJTgo9X37EiGaPR) | 3:54 |
-| 24 | [Cuándo empezaré a vivir](https://open.spotify.com/track/6IBEOcSiUZUhVlQeQgcUJC) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Enredados](https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q) | 2:28 |
-| 25 | [Dos Extraños](https://open.spotify.com/track/776D0NXlV6o3QpntAxFmwt) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:33 |
+| 24 | [Dos Extraños](https://open.spotify.com/track/776D0NXlV6o3QpntAxFmwt) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:33 |
+| 25 | [Cuándo empezaré a vivir](https://open.spotify.com/track/6IBEOcSiUZUhVlQeQgcUJC) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Enredados](https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q) | 2:28 |
 | 26 | [Cachito](https://open.spotify.com/track/5S4rNAIyjLyUVdrGWy48Ub) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Cachito](https://open.spotify.com/album/0OcBXPOOzTDvQKUJxnQSvf) | 3:08 |
 | 27 | [Agüita](https://open.spotify.com/track/1XPqp3k2ZmetP4xMIbrSYN) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Danna Paola \(Edición Deluxe\)](https://open.spotify.com/album/3sqRn2w4AGBDxzJe7PjGYd) | 3:39 |
 | 28 | [T.A.C.O.](https://open.spotify.com/track/3BtvZuzvNbN7OIaUsWIM5M) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:00 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 | 46 | [Todo Fue Un Show](https://open.spotify.com/track/79SMx2ReU4oLwcHvouYkfA) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Danna Paola](https://open.spotify.com/album/67RD8Z8LQDbT41v2UoJzV5) | 3:48 |
 | 47 | [Rescue Me \- From The Original Television Soundtrack Blade Runner Black Lotus](https://open.spotify.com/track/6FdTVq8ly0NVSli7Xl9z2p) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Rescue Me \(From The Original Television Soundtrack Blade Runner Black Lotus\)](https://open.spotify.com/album/5by805i64TKLSsy47zjlP0) | 2:52 |
 
-Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDAyM2RlY2ZmMmUwMDQ4ODdjOTZhZmQ1ZDU2Y2YwZmUzNg==`
+Snapshot ID: `MjgxOTQ1NjMsMDAwMDAwMDBiNjk2M2I3NmNhNzEzNGI5ZWY3NzZmNGMwZjUwMTVmOA==`

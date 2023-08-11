@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZBIhSC4FGF.md) - [plain]
 
 > Relax to some gentle percussion from all corners of the globe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,817 likes - 68 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,932 likes - 68 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,10 +21,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZBIhSC4FGF.md) - [plain]
 | 11 | [On a Different River](https://open.spotify.com/track/77Kr0KenZf9DCE1kbqQeEt) | [Pranayama Squad](https://open.spotify.com/artist/4Fn6NIKAqZ7P7kUG39RG7w) | [On a Different River](https://open.spotify.com/album/1iquYW5s00pGdRbOrOz0OK) | 3:51 |
 | 12 | [Moods\-Bottom](https://open.spotify.com/track/0G8momaafJ03OpLjnhBciX) | [Davide Swarup](https://open.spotify.com/artist/6QOnII7AhBs2LR471krdEM) | [Music for Hang](https://open.spotify.com/album/4wQL5Z7ASoC4ZOgsqEPbfv) | 7:10 |
 | 13 | [Day Dream](https://open.spotify.com/track/4ySaCVsJqGuiMDinbNf4tU) | [HandpanSolo](https://open.spotify.com/artist/2pOoggox0xym6qeDd6QStQ) | [Day Dream](https://open.spotify.com/album/5bQ31vPL6DlRcQ3Y8BHE3z) | 3:47 |
-| 14 | [Hypnosis Practice](https://open.spotify.com/track/12pXI6fOqygBSA2YO4SLCH) | [Spiritual Power Control](https://open.spotify.com/artist/0S2L6cMzog6TyuZsNhK20s), [Emotional Healing Intrumental Academy](https://open.spotify.com/artist/62HQ6hBQ9kqrjRyvoGHst6) | [Tongue Drum Healing Sounds \- Calm Your Negative Emotions and Relax with the Gentle Sounds of Instruments, Reiki Music, Meditation, Yoga](https://open.spotify.com/album/3mlaOHaA232Kv4kJD07Btz) | 3:36 |
-| 15 | [Hollow Sphere](https://open.spotify.com/track/2QucioZmCDIoiteQwueRoQ) | [Galtritandos](https://open.spotify.com/artist/4QyQTLlakG31IZkXiacgpA) | [Hollow Sphere](https://open.spotify.com/album/3afn9cElA2dCZwhpcdMHP9) | 2:36 |
-| 16 | [Shamanic Journeywork](https://open.spotify.com/track/76grNKEDQdFpMIftWZP3BY) | [Shamanic Journey Drumming](https://open.spotify.com/artist/10eDAAmRvolRXSFsGAT8Ht) | [Shamanic Journey Drumming](https://open.spotify.com/album/1C3dY4h7p3auKgPknDmq9v) | 3:54 |
-| 17 | [whisper](https://open.spotify.com/track/5MUvU7ylgZmnSjwXuquLXZ) | [Juni Tinley](https://open.spotify.com/artist/6i1anbI9lYxG8g0440Up8r) | [whisper](https://open.spotify.com/album/0DrbR3dm2neCYUb3Qib5JA) | 2:34 |
+| 14 | [Hollow Sphere](https://open.spotify.com/track/2QucioZmCDIoiteQwueRoQ) | [Galtritandos](https://open.spotify.com/artist/4QyQTLlakG31IZkXiacgpA) | [Hollow Sphere](https://open.spotify.com/album/3afn9cElA2dCZwhpcdMHP9) | 2:36 |
+| 15 | [Shamanic Journeywork](https://open.spotify.com/track/76grNKEDQdFpMIftWZP3BY) | [Shamanic Journey Drumming](https://open.spotify.com/artist/10eDAAmRvolRXSFsGAT8Ht) | [Shamanic Journey Drumming](https://open.spotify.com/album/1C3dY4h7p3auKgPknDmq9v) | 3:54 |
+| 16 | [whisper](https://open.spotify.com/track/5MUvU7ylgZmnSjwXuquLXZ) | [Juni Tinley](https://open.spotify.com/artist/6i1anbI9lYxG8g0440Up8r) | [whisper](https://open.spotify.com/album/0DrbR3dm2neCYUb3Qib5JA) | 2:34 |
+| 17 | [Kaishi](https://open.spotify.com/track/4SBgaMZ0D8zfzE4y4LPuqS) | [Handpanmusic Collective](https://open.spotify.com/artist/044UnoyLTrw05IeHgZE0sa), [Jascha](https://open.spotify.com/artist/03yMPz7wEIn6nk7ZzRKBff) | [the wine cellar tapes part one](https://open.spotify.com/album/0vZFg2R7Ghd1U5vAu5fAwN) | 4:43 |
 | 18 | [Lost Treasures](https://open.spotify.com/track/1rV4lmkwXPVJl5styxffBR) | [Serenity Music Zone](https://open.spotify.com/artist/5vvexjQ7ylXNyh3wLp5FvA) | [World of African Drumming \(Ancient Egypt Atmosphere, New Age Sound of the Far Orient, Tribal African Drums, Relaxation Music Oasis\)](https://open.spotify.com/album/445O0l2wZuOGXomPVmUOPg) | 4:42 |
 | 19 | [Cello Suite No\. 1 in G Major, BWV 1007: I\. Prélude \(Arr\. for Marimba\)](https://open.spotify.com/track/4ChnGarBVBTmsjffCl8lpq) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Chin Cheng Lin](https://open.spotify.com/artist/69M2aODb7k10CQ3eN3CRXt) | [Marimbaroque](https://open.spotify.com/album/1tHs1UP2hDUneaoUBCDNSF) | 2:40 |
 | 20 | [Ant Sandwich](https://open.spotify.com/track/48MaeYhgUAN64sHd9EIkPP) | [Hang Playing Hedge Monkeys](https://open.spotify.com/artist/6QWb6pd3MJQbm9jJXUPw2C) | [Vesica Piscis](https://open.spotify.com/album/7KnDYwanU8QUe8HpzDYLfM) | 3:31 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZBIhSC4FGF.md) - [plain]
 | 67 | [Mystic Rhythms](https://open.spotify.com/track/4KB0XyhLTyPoZyLjodRGne) | [Deep Meditation](https://open.spotify.com/artist/2fqkqEsGgtIToaqV8snUV6) | [Deep Meditation](https://open.spotify.com/album/6E9qV9HvDHkmSEgx5pqUEO) | 2:15 |
 | 68 | [Meditation Hang](https://open.spotify.com/track/271abQ3QNCSWfqZqHva4zL) | [Ebenholthz](https://open.spotify.com/artist/638ZZLvfjyR45K1N6yD5Ip) | [Meditation Hang](https://open.spotify.com/album/7eHNKcRzBykX6q5Xyf9U5N) | 2:58 |
 
-Snapshot ID: `MCw0NzI0YWZmYWVhMzBkN2IyYzMwOTY0OGU1MjY2NmM1ODhhMmM2MzMz`
+Snapshot ID: `MCxlMzQ1MDc0ZWQ2NzViZTY4NmRlZGM5YTIxOGJjZDI5OGVlMTk3MzYw`

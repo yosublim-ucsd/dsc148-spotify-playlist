@@ -1,12 +1,12 @@
 {
   "description": "Las leyendas del mariachi est\u00e1n aqu\u00ed. Alejandro Fern\u00e1ndez en portada.",
-  "num_followers": 899386,
+  "num_followers": 899594,
   "original_name": "Leyendas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzZjNGYzM2I5ZTAwZjdlNjQ1MzBjNmNmNTk5MmM3MjRhOTA2MTAx",
+  "snapshot_id": "MCwyMjYxNTE1MWY0NmUzMTMwNDBjYjdmZjljYjZmZTg0MTAyMTY5MzM4",
   "tracks": [
     {
       "added_at": "2023-05-19 06:00:00",
@@ -499,18 +499,22 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "Qu\u00e9date",
-        "url": "https://open.spotify.com/album/6Jf2rqjSUSC6dYTwks1g9n"
+        "name": "AYAYAY! (S\u00faper Deluxe)",
+        "url": "https://open.spotify.com/album/1OlyomFZOv4Lx22rs4lBMw"
       },
       "artists": [
         {
           "name": "Christian Nodal",
           "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 247500,
-      "name": "Qu\u00e9date",
-      "url": "https://open.spotify.com/track/2h7pX9EhOdpFSM0PEO9NYn"
+      "duration_ms": 171360,
+      "name": "Dime C\u00f3mo Quieres",
+      "url": "https://open.spotify.com/track/4jcxBTrNvyqMJdMDyyjdYV"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -889,6 +893,22 @@
       "url": "https://open.spotify.com/track/6Ot71Is6rWE8KWEbWgxhZr"
     },
     {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "A la Medida",
+        "url": "https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 270943,
+      "name": "Hasta Que Llegue el Alba",
+      "url": "https://open.spotify.com/track/7kRUOKGmAG7wNxMy9tFQS7"
+    },
+    {
       "added_at": "2023-05-19 06:00:00",
       "album": {
         "name": "Tu Maniqu\u00ed",
@@ -907,22 +927,6 @@
       "duration_ms": 154834,
       "name": "Tu Maniqu\u00ed",
       "url": "https://open.spotify.com/track/5XpvqqKEI3xWS4heKkXjb5"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
-        "name": "A la Medida",
-        "url": "https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 270943,
-      "name": "Hasta Que Llegue el Alba",
-      "url": "https://open.spotify.com/track/7kRUOKGmAG7wNxMy9tFQS7"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1055,26 +1059,6 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "+Mexicana",
-        "url": "https://open.spotify.com/album/0GZi1qLTk1hMY2RXQ6YBgt"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        },
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 183733,
-      "name": "Es Complicado",
-      "url": "https://open.spotify.com/track/2xfuLkkNanQTl0pdbViHUo"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
         "name": "Tus Desprecios",
         "url": "https://open.spotify.com/album/3si2q6g6Mw94o5wsftqXH6"
       },
@@ -1091,6 +1075,26 @@
       "duration_ms": 142819,
       "name": "Tus Desprecios",
       "url": "https://open.spotify.com/track/6gyPojQkJawXsMryAeu5Se"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "+Mexicana",
+        "url": "https://open.spotify.com/album/0GZi1qLTk1hMY2RXQ6YBgt"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        },
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 183733,
+      "name": "Es Complicado",
+      "url": "https://open.spotify.com/track/2xfuLkkNanQTl0pdbViHUo"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1159,26 +1163,6 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
-        "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        },
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 210042,
-      "name": "Fue un Placer Conocerte",
-      "url": "https://open.spotify.com/track/2keN15BswHOxejdRAaMT8s"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
         "name": "Mi Venganza (La Desalmada)",
         "url": "https://open.spotify.com/album/4UeIcFGkSV2obGfreGI5KA"
       },
@@ -1207,6 +1191,26 @@
       "duration_ms": 131066,
       "name": "Cama de Piedra",
       "url": "https://open.spotify.com/track/6CSrPDQF938mg8CaOT89xt"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
+        "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 210042,
+      "name": "Fue un Placer Conocerte",
+      "url": "https://open.spotify.com/track/2keN15BswHOxejdRAaMT8s"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1279,18 +1283,18 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "Baila Esta Cumbia",
-        "url": "https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3"
+        "name": "+Mexicana",
+        "url": "https://open.spotify.com/album/0GZi1qLTk1hMY2RXQ6YBgt"
       },
       "artists": [
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 200269,
-      "name": "No Me Queda M\u00e1s",
-      "url": "https://open.spotify.com/track/4CWNGOfdt0hBP5hBkQUX85"
+      "duration_ms": 166840,
+      "name": "Entiende Que Ya",
+      "url": "https://open.spotify.com/track/7kyNkviFUetu9nSrn1wtZr"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1311,18 +1315,18 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "+Mexicana",
-        "url": "https://open.spotify.com/album/0GZi1qLTk1hMY2RXQ6YBgt"
+        "name": "Baila Esta Cumbia",
+        "url": "https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3"
       },
       "artists": [
         {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 166840,
-      "name": "Entiende Que Ya",
-      "url": "https://open.spotify.com/track/7kyNkviFUetu9nSrn1wtZr"
+      "duration_ms": 200269,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/4CWNGOfdt0hBP5hBkQUX85"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1363,6 +1367,22 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
+        "name": "El Malo",
+        "url": "https://open.spotify.com/album/5We7yGwHCRWuy7T5StvTwS"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 177194,
+      "name": "El Malo",
+      "url": "https://open.spotify.com/track/0O3YmQ76fAGwrMIsmsEa8e"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
         "name": "No Hay Quinto Malo",
         "url": "https://open.spotify.com/album/72szrpw0ttfJf0qKhEcPhx"
       },
@@ -1391,22 +1411,6 @@
       "duration_ms": 178584,
       "name": "Amanec\u00ed En Tus Brazos",
       "url": "https://open.spotify.com/track/6Yzyvz6Pujj7a3FgdNlSuD"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
-        "name": "Acar\u00edciame El Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/27OwCoZRPIe0xL44eTAlx4"
-      },
-      "artists": [
-        {
-          "name": "Pedro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
-        }
-      ],
-      "duration_ms": 190240,
-      "name": "Debajo Del Sombrero",
-      "url": "https://open.spotify.com/track/4znumtgYaw6lsfJ7Jo910g"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1443,6 +1447,22 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
+        "name": "Acar\u00edciame El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/27OwCoZRPIe0xL44eTAlx4"
+      },
+      "artists": [
+        {
+          "name": "Pedro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
+        }
+      ],
+      "duration_ms": 190240,
+      "name": "Debajo Del Sombrero",
+      "url": "https://open.spotify.com/track/4znumtgYaw6lsfJ7Jo910g"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
         "name": "Mexicanisimo",
         "url": "https://open.spotify.com/album/5MTcdzp13fvpZ2mvCg5zCj"
       },
@@ -1459,22 +1479,6 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "Interpreta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
-      },
-      "artists": [
-        {
-          "name": "Lucha Villa",
-          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "Ya No Me Interesas",
-      "url": "https://open.spotify.com/track/13P7xlcWQzFMvAGQZniMTS"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
         "name": "Te He Prometido",
         "url": "https://open.spotify.com/album/5akcpTEFuh8Ey7laB8c3TR"
       },
@@ -1487,6 +1491,54 @@
       "duration_ms": 186626,
       "name": "Te He Prometido",
       "url": "https://open.spotify.com/track/1sqtCRFaeXlqiMxM5MGMdC"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "Amanecida Con Todo y Con Todos",
+        "url": "https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 193186,
+      "name": "So\u00f1ador Eterno",
+      "url": "https://open.spotify.com/track/5u91nMfFrx63mbRENGOSUA"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "Con El Mariachi Vargas De Tecalitlan (with El Mariachi Vargas de Tecalitl\u00e1n)",
+        "url": "https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 206800,
+      "name": "La Muerte del Palomo",
+      "url": "https://open.spotify.com/track/29jt9wuHaMVwQhw4M5X4R9"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "Interpreta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
+      },
+      "artists": [
+        {
+          "name": "Lucha Villa",
+          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
+        }
+      ],
+      "duration_ms": 182266,
+      "name": "Ya No Me Interesas",
+      "url": "https://open.spotify.com/track/13P7xlcWQzFMvAGQZniMTS"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1511,22 +1563,6 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "Con El Mariachi Vargas De Tecalitlan (with El Mariachi Vargas de Tecalitl\u00e1n)",
-        "url": "https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 206800,
-      "name": "La Muerte del Palomo",
-      "url": "https://open.spotify.com/track/29jt9wuHaMVwQhw4M5X4R9"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
         "name": "Te Vas",
         "url": "https://open.spotify.com/album/617Pd9DjDcepMn7CWlkKbR"
       },
@@ -1547,22 +1583,6 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "El Malo",
-        "url": "https://open.spotify.com/album/5We7yGwHCRWuy7T5StvTwS"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 177194,
-      "name": "El Malo",
-      "url": "https://open.spotify.com/track/0O3YmQ76fAGwrMIsmsEa8e"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
         "name": "Desde Que Llegaste",
         "url": "https://open.spotify.com/album/2pj6a8DjAlEYpndmS85YVa"
       },
@@ -1575,22 +1595,6 @@
       "duration_ms": 201200,
       "name": "Desde Que Llegaste",
       "url": "https://open.spotify.com/track/2Eg0Cg1vWx6URPbEAuUJIh"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
-        "name": "Interpreta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
-      },
-      "artists": [
-        {
-          "name": "Lucha Villa",
-          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
-        }
-      ],
-      "duration_ms": 135733,
-      "name": "No Discutamos",
-      "url": "https://open.spotify.com/track/3IwKzJ7SenrBSRmmGAWR65"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1640,25 +1644,9 @@
           "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
         }
       ],
-      "duration_ms": 183906,
-      "name": "T\u00fa a M\u00ed No Me Hundes",
-      "url": "https://open.spotify.com/track/6aNDj2s5dWkVaQzL8Lelhy"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
-        "name": "Amanecida Con Todo y Con Todos",
-        "url": "https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 193186,
-      "name": "So\u00f1ador Eterno",
-      "url": "https://open.spotify.com/track/5u91nMfFrx63mbRENGOSUA"
+      "duration_ms": 135733,
+      "name": "No Discutamos",
+      "url": "https://open.spotify.com/track/3IwKzJ7SenrBSRmmGAWR65"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1679,22 +1667,34 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "AYAYAY! (S\u00faper Deluxe)",
-        "url": "https://open.spotify.com/album/1OlyomFZOv4Lx22rs4lBMw"
+        "name": "Interpreta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
+      },
+      "artists": [
+        {
+          "name": "Lucha Villa",
+          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
+        }
+      ],
+      "duration_ms": 183906,
+      "name": "T\u00fa a M\u00ed No Me Hundes",
+      "url": "https://open.spotify.com/track/6aNDj2s5dWkVaQzL8Lelhy"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "Qu\u00e9date",
+        "url": "https://open.spotify.com/album/6Jf2rqjSUSC6dYTwks1g9n"
       },
       "artists": [
         {
           "name": "Christian Nodal",
           "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        },
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 171360,
-      "name": "Dime C\u00f3mo Quieres",
-      "url": "https://open.spotify.com/track/4jcxBTrNvyqMJdMDyyjdYV"
+      "duration_ms": 247500,
+      "name": "Qu\u00e9date",
+      "url": "https://open.spotify.com/track/2h7pX9EhOdpFSM0PEO9NYn"
     }
   ],
   "unique_name": "Leyendas del Mariachi",

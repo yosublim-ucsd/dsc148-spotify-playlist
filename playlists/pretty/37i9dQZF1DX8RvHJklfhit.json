@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin Indie classics.",
-  "num_followers": 164866,
+  "num_followers": 164988,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmI5MmIyYzU0MDcyZDZmNzY3MWI3Njk3ZjBlNGJhMWM2OGZjNjZk",
+  "snapshot_id": "MCwzYjMzNGUyYTRhYjBmY2RkZjRmMzI2MDA0YTVmOTUwMDVhODY2NTI5",
   "tracks": [
     {
       "added_at": "2023-08-03 16:50:17",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-08-03 16:50:17",
       "album": {
-        "name": "Un Mill\u00f3n",
-        "url": "https://open.spotify.com/album/33sKQam5Pn9GN0Dwu5Wa9i"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 167386,
-      "name": "Un Mill\u00f3n",
-      "url": "https://open.spotify.com/track/4yZq5QgUhKq0bO6ExHF2a0"
-    },
-    {
-      "added_at": "2023-08-03 16:50:17",
-      "album": {
         "name": "nadie me cae bien",
         "url": "https://open.spotify.com/album/5xvQJ17xAeaFUV2OApBBea"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 228400,
       "name": "nadie me cae bien",
       "url": "https://open.spotify.com/track/35bu49h6EEYptKobXmBQma"
+    },
+    {
+      "added_at": "2023-08-03 16:50:17",
+      "album": {
+        "name": "Un Mill\u00f3n",
+        "url": "https://open.spotify.com/album/33sKQam5Pn9GN0Dwu5Wa9i"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 167386,
+      "name": "Un Mill\u00f3n",
+      "url": "https://open.spotify.com/track/4yZq5QgUhKq0bO6ExHF2a0"
     },
     {
       "added_at": "2023-08-03 16:50:17",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2023-08-03 16:50:17",
       "album": {
+        "name": "Kinky (Remastered)",
+        "url": "https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI"
+      },
+      "artists": [
+        {
+          "name": "Kinky",
+          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
+        }
+      ],
+      "duration_ms": 261813,
+      "name": "Ejercicio #16 - Remastered",
+      "url": "https://open.spotify.com/track/1zIEjkEd2awwjVTxqPPecY"
+    },
+    {
+      "added_at": "2023-08-03 16:50:17",
+      "album": {
         "name": "GP",
         "url": "https://open.spotify.com/album/6f6ZV6dYzZVJTvvxhd1Y0t"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 225920,
       "name": "Bailar Bien, Bailar Mal",
       "url": "https://open.spotify.com/track/669xNVrjraLRBLrVBf7sUU"
-    },
-    {
-      "added_at": "2023-08-03 16:50:17",
-      "album": {
-        "name": "Kinky (Remastered)",
-        "url": "https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI"
-      },
-      "artists": [
-        {
-          "name": "Kinky",
-          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
-        }
-      ],
-      "duration_ms": 261813,
-      "name": "Ejercicio #16 - Remastered",
-      "url": "https://open.spotify.com/track/1zIEjkEd2awwjVTxqPPecY"
     },
     {
       "added_at": "2023-08-03 16:50:17",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-08-03 16:50:17",
       "album": {
-        "name": "Kamikaze",
-        "url": "https://open.spotify.com/album/6LXh08HxqIquqWttoIHInn"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 210914,
-      "name": "Kamikaze",
-      "url": "https://open.spotify.com/track/18eZc40EneLmStYEy3cLBP"
-    },
-    {
-      "added_at": "2023-08-03 16:50:17",
-      "album": {
         "name": "O Marineros",
         "url": "https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 266925,
       "name": "Espero",
       "url": "https://open.spotify.com/track/05fzteOLEheflpw2UEb6LY"
+    },
+    {
+      "added_at": "2023-08-03 16:50:17",
+      "album": {
+        "name": "Kamikaze",
+        "url": "https://open.spotify.com/album/6LXh08HxqIquqWttoIHInn"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 210914,
+      "name": "Kamikaze",
+      "url": "https://open.spotify.com/track/18eZc40EneLmStYEy3cLBP"
     },
     {
       "added_at": "2023-08-03 16:50:17",

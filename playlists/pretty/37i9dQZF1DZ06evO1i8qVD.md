@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1i8qVD.md) - [plain]
 
 > This is Buddy Guy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,820 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,835 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1i8qVD.md) - [plain]
 | 34 | [A Few Good Years](https://open.spotify.com/track/6MT9ikZ0SnOU48rBMReIAT) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [The Blues Is Alive And Well](https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk) | 4:47 |
 | 35 | [Wear You Out \(feat\. Billy Gibbons\)](https://open.spotify.com/track/41DyUcEAiyVtNCrWElC32R) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Billy Gibbons](https://open.spotify.com/artist/4DqeVw9M195lj22iU1elxD) | [Born To Play Guitar](https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W) | 3:30 |
 | 36 | [Where The Blues Begins \(feat\. Carlos Santana\)](https://open.spotify.com/track/4XVNiv2nZLz2MxXGRUAle7) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [Living Proof](https://open.spotify.com/album/3WH2ZpwBApxjDMQf3tEArm) | 4:37 |
-| 37 | [I Let My Guitar Do The Talking](https://open.spotify.com/track/4O3fRZIqs6UxhsPkTpeqPc) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [The Blues Don't Lie](https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp) | 4:26 |
+| 37 | [I Go By Feel](https://open.spotify.com/track/599KFVKTx45bNXIYhdVCxn) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Rhythm & Blues](https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM) | 4:15 |
 | 38 | [Whiskey For Sale](https://open.spotify.com/track/1zzQeiehbYBPf6MmaM4Cli) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [The Blues Is Alive And Well](https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk) | 4:02 |
-| 39 | [I Go By Feel](https://open.spotify.com/track/599KFVKTx45bNXIYhdVCxn) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Rhythm & Blues](https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM) | 4:15 |
+| 39 | [I Let My Guitar Do The Talking](https://open.spotify.com/track/4O3fRZIqs6UxhsPkTpeqPc) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [The Blues Don't Lie](https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp) | 4:26 |
 | 40 | [We Go Back \(feat\. Mavis Staples\)](https://open.spotify.com/track/3BPogMgZeF4e3l71x2ax4w) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [We Go Back \(feat\. Mavis Staples\)](https://open.spotify.com/album/00mf4w80NkJ3G01W3LK7ex) | 4:39 |
 | 41 | [Sweet Little Angel](https://open.spotify.com/track/63MynbvINbRgvE2HupTJgF) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 5:39 |
 | 42 | [Some Kind Of Wonderful \(feat\. Paul Rodgers\)](https://open.spotify.com/track/7DU5Qgp1JVhgTn1Nlkbs5g) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Paul Rodgers](https://open.spotify.com/artist/2gaWNB3YrlTc0KRlHNqhol) | [Feels Like Rain](https://open.spotify.com/album/2GXqcjyaSAMRnmFuvHM2Bd) | 3:26 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1i8qVD.md) - [plain]
 | 45 | [Hold That Plane](https://open.spotify.com/track/5GC65lioZ3LQbbvMM4dwPi) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [70s Blues](https://open.spotify.com/album/6glPjbgakqems9vEZFqlVJ) | 4:41 |
 | 46 | [Thick Like Mississippi Mud](https://open.spotify.com/track/1fgZiaEwBM4kWspi3Ay0kU) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Born To Play Guitar](https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W) | 4:03 |
 | 47 | [Doo Doo Doo Doo Doo \(Heartbreaker\)](https://open.spotify.com/track/0owGTle1xBp2AZIchl6fp6) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Mick Jagger](https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO) | [Chicago Plays the Stones](https://open.spotify.com/album/0vjdJ6AWmF5G4gsSx53UlI) | 4:53 |
-| 48 | [Five Long Years](https://open.spotify.com/track/5kNUT32bVoptcf1j88ldAU) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Damn Right, I've Got The Blues](https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj) | 8:25 |
-| 49 | [I Love the Life I Live](https://open.spotify.com/track/5p529gnH10F0ZSUmLCny0P) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Blues Singer](https://open.spotify.com/album/0BpycVTcJp8DG1YansP89d) | 2:45 |
-| 50 | [Well Enough Alone](https://open.spotify.com/track/7L9e89SRU78ZRhfSuXTz5L) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [The Blues Don't Lie](https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp) | 4:12 |
+| 48 | [Sit and Cry \(The Blues\)](https://open.spotify.com/track/2x0uiOepdvCXYk8Wh8bXIk) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Blue On Blues](https://open.spotify.com/album/7I1hciUQhs0IlNPxR6yluS) | 3:00 |
+| 49 | [Five Long Years](https://open.spotify.com/track/5kNUT32bVoptcf1j88ldAU) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Damn Right, I've Got The Blues](https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj) | 8:25 |
+| 50 | [I Love the Life I Live](https://open.spotify.com/track/5p529gnH10F0ZSUmLCny0P) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Blues Singer](https://open.spotify.com/album/0BpycVTcJp8DG1YansP89d) | 2:45 |
 
-Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDA1MmU3NmNiMmFiM2Q5NWJjYTNjYmJmMzRkMzZiMjE3OA==`
+Snapshot ID: `MjgxOTQ1NjMsMDAwMDAwMDBlMGVmMTQwNjdjYTlkZWY1NjUyYjk0YjMzMmQ4MWUxNQ==`

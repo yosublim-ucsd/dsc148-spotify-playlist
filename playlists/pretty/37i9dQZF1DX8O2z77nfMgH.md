@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Foto: DENNIS, Karol G, Maluma, MC Kevin o Cris
 
-[Spotify](https://open.spotify.com/user/spotify) - 938,296 likes - 49 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 938,373 likes - 49 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 32 | [Desayuno](https://open.spotify.com/track/186hCNwspJAoGWwMDUDcNM) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Jossef](https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX) | [Desayuno](https://open.spotify.com/album/3LoC4CO5fbG7Ry1jLLPy9E) | 3:14 |
 | 33 | [EN EL GHETTO \#3 \(Par de cosas\)](https://open.spotify.com/track/1sMZcWb0Ve9OYw4srIC4z3) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [EN EL GHETTO \#3 \(Par de cosas\)](https://open.spotify.com/album/125WpnuPZ1Ito6zRhQT0ji) | 3:35 |
 | 34 | [La Culebritica \- \(En Vivo\)](https://open.spotify.com/track/59YgQLmIDzDVSISLhKwVD0) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6) | [Noche de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/6uDAcaWscix7dqTETCNmsP) | 3:57 |
-| 35 | [Una Vez](https://open.spotify.com/track/0PbTWPOptUD2nS5HkowsYa) | [Yuriel Es Musica](https://open.spotify.com/artist/1wHaQslJt6H89ArcgEV9qK), [Angeliko Onblok](https://open.spotify.com/artist/4DIkfwMuL6iLEDLtKdIGuf), [Luny Tunes](https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK), [Lúi Onthebeat](https://open.spotify.com/artist/6I04prIA9Rbc12zZrwsFuu) | [Una Vez](https://open.spotify.com/album/76f3kxwQfNaGpTOMGtXgEA) | 3:28 |
+| 35 | [Una Vez](https://open.spotify.com/track/0PbTWPOptUD2nS5HkowsYa) | [Yuriel Es Musica](https://open.spotify.com/artist/1wHaQslJt6H89ArcgEV9qK), [Angeliko On Black](https://open.spotify.com/artist/7yEPY1NT5028rae7WMmrFR), [Luny Tunes](https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK), [Lúi Onthebeat](https://open.spotify.com/artist/6I04prIA9Rbc12zZrwsFuu) | [Una Vez](https://open.spotify.com/album/76f3kxwQfNaGpTOMGtXgEA) | 3:28 |
 | 36 | [Agosto](https://open.spotify.com/track/52t0Du4DIIsA46MMayUf0x) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Agosto](https://open.spotify.com/album/77jrfRbgvoHpwKxM02CAU5) | 3:39 |
 | 37 | [A Perriar](https://open.spotify.com/track/2xWVVYZmPsf7F6epXIrIbf) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [Pa Mi Gente](https://open.spotify.com/album/3qDh0pss8FNO5MPjjJnHHG) | 3:17 |
 | 38 | [AMBIENTE ERRADO \- Ao Vivo](https://open.spotify.com/track/2nfnhFDhwMet9yZodpGfn3) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [AMBIENTE ERRADO \(Ao Vivo\)](https://open.spotify.com/album/5OyqoxpsEn7XEilamuZcXU) | 2:24 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 48 | [Quase Não Namoro](https://open.spotify.com/track/6eWx9pOK1JkIhUjeVmGYJr) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Quase Não Namoro](https://open.spotify.com/album/2yg5pbW47YD4HVQ34cgfkC) | 2:15 |
 | 49 | [Bomzão](https://open.spotify.com/track/5cTt87f8djnVPH4mLo2L9G) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [AFRODHIT](https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5) | 3:09 |
 
-Snapshot ID: `MCxiYzc5NzJiZjdkZTg1NTc3NTcyYTRlMTk0ZDBkMzRhYWUxZDk4YzZl`
+Snapshot ID: `MCw0N2VmYzM3MDYzNmIyZGEwN2NlMWRkNDNhMmRiOGY1M2E0YjQxZjU2`

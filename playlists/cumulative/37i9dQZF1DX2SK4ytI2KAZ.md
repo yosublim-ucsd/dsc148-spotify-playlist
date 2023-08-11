@@ -4,7 +4,7 @@
 
 > have fun with it.
 
-473 songs - 1 day 2 hr 20 min
+474 songs - 1 day 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Do It Like You Do](https://open.spotify.com/track/7FOgj5HLQd9LXGKXot1RhA) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [Do It Like You Do](https://open.spotify.com/album/0VFrisQgRs71gyFCbtAhCu) | 3:19 | 2021-03-10 | 2022-07-28 |
 | [Do You Really Wanna Know?](https://open.spotify.com/track/43oSsb5boERcpfiuDJR3Kq) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Do You Really Wanna Know?](https://open.spotify.com/album/1gSZbzpl3w3wp2Lc4sl3l8) | 2:58 | 2021-03-10 | 2023-03-26 |
 | [Don't Take The Money](https://open.spotify.com/track/0d3BJRrklQ6sTfbmrojuZI) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Don't Take The Money](https://open.spotify.com/album/6XVw1ysE3HyYF9T9axP33Y) | 3:35 | 2021-03-10 | 2023-03-25 |
-| [DON'T TELL THE BOYS](https://open.spotify.com/track/5uGZtSYorCUAqw03hzwvTn) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [Lean Into Life](https://open.spotify.com/album/0bhNAmedySXmdR9xBhbpmZ) | 3:56 | 2022-10-07 |  |
+| [DON'T TELL THE BOYS](https://open.spotify.com/track/5uGZtSYorCUAqw03hzwvTn) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [Lean Into Life](https://open.spotify.com/album/0bhNAmedySXmdR9xBhbpmZ) | 3:56 | 2022-10-07 | 2023-08-11 |
 | [DON'T TELL THE BOYS](https://open.spotify.com/track/5RuMsudDPFkRC1XQsiheGT) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [Lean Into Life](https://open.spotify.com/album/0cRE81Ug6gUBGBcktixA7G) | 3:57 | 2021-11-19 | 2022-10-09 |
 | [DON'T THINK ABOUT IT](https://open.spotify.com/track/6h9O1F4bL1AM28t18lImsk) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MERIDIAN](https://open.spotify.com/album/4uH776h4uovgy3YYG1vbKC) | 3:34 | 2022-10-07 | 2023-02-18 |
 | [DON'T THINK ABOUT IT](https://open.spotify.com/track/6u8lgCJiOdqw63WRA9WQU2) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [DON'T THINK ABOUT IT](https://open.spotify.com/album/5AlDN4SfVqPWfrPApOLCE2) | 3:34 | 2021-08-13 | 2022-07-29 |
@@ -421,6 +421,7 @@
 | [The Last Dance](https://open.spotify.com/track/4E2uNyCIUpK08njwoLQh02) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [The Last Dance b/w 3000 AD Mass](https://open.spotify.com/album/61xkcDOeRRSetouvqU2d3w) | 3:24 | 2022-03-11 | 2022-07-26 |
 | [The Outfield](https://open.spotify.com/track/0H188Mi13wkwwwUvczPdmC) | [The Night Game](https://open.spotify.com/artist/79QO0Xmn1dZhvaLicS2Yrs) | [The Night Game](https://open.spotify.com/album/09Ft4FmAcy8CnuNoy9JbJN) | 3:52 | 2022-07-29 | 2023-02-14 |
 | [The Outfield](https://open.spotify.com/track/3O2hDxP5BeV4bH99nRvgym) | [The Night Game](https://open.spotify.com/artist/79QO0Xmn1dZhvaLicS2Yrs) | [The Outfield](https://open.spotify.com/album/6yKzyZeg8EUYBZbw7M2f0V) | 3:59 | 2022-03-11 | 2022-04-20 |
+| [THE OUTSIDE](https://open.spotify.com/track/6y8p0dDbtPOfAPoTdNv2xi) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [THE OUTSIDE](https://open.spotify.com/album/6SjNzyDPzCXbCyerVUvQQN) | 4:04 | 2023-08-07 |  |
 | [The Walls Are Way Too Thin](https://open.spotify.com/track/7b7wO3Je7i2HhyipNhcs1u) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Walls Are Way Too Thin](https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8) | 3:41 | 2022-07-29 | 2023-03-29 |
 | [then i met her](https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:18 | 2022-08-12 | 2023-08-08 |
 | [Then It All Goes Away](https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:03 | 2023-02-17 |  |

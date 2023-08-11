@@ -1,12 +1,12 @@
 {
   "description": "lofi beats by Latinxs.",
-  "num_followers": 4094,
+  "num_followers": 4128,
   "original_name": "lofi latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYWYwOTk3Yzg5ZGJlOWY5NGE3YmY0OGMzZjYyMTFhOGY1YzU2MDU3",
+  "snapshot_id": "MCw4ZjIyYWU2YTEyM2JlMzc0NDQ1YmM5NjI2N2JhZGI2OTA3N2ZlMWZh",
   "tracks": [
     {
       "added_at": "2023-07-14 15:17:20",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-07-14 15:17:20",
       "album": {
-        "name": "Like Coconut From The Tree",
-        "url": "https://open.spotify.com/album/7bu1eXJ1qIb9sDC0Jq3AhC"
-      },
-      "artists": [
-        {
-          "name": "Burrito Eats",
-          "url": "https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT"
-        }
-      ],
-      "duration_ms": 122709,
-      "name": "Like Coconut From The Tree",
-      "url": "https://open.spotify.com/track/0PwWBtV1EUmg1TtKtJPM85"
-    },
-    {
-      "added_at": "2023-07-14 15:17:20",
-      "album": {
         "name": "Confete e serpentina",
         "url": "https://open.spotify.com/album/5SY6oIqvOTcjggKR4o13ZR"
       },
@@ -187,6 +171,22 @@
     {
       "added_at": "2023-07-14 15:17:20",
       "album": {
+        "name": "Like Coconut From The Tree",
+        "url": "https://open.spotify.com/album/7bu1eXJ1qIb9sDC0Jq3AhC"
+      },
+      "artists": [
+        {
+          "name": "Burrito Eats",
+          "url": "https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT"
+        }
+      ],
+      "duration_ms": 122709,
+      "name": "Like Coconut From The Tree",
+      "url": "https://open.spotify.com/track/0PwWBtV1EUmg1TtKtJPM85"
+    },
+    {
+      "added_at": "2023-07-14 15:17:20",
+      "album": {
         "name": "Perdido en Memorias",
         "url": "https://open.spotify.com/album/17VTCoOPYN8aFVk8Ah2V3A"
       },
@@ -203,22 +203,6 @@
       "duration_ms": 129882,
       "name": "Perdido en Memorias",
       "url": "https://open.spotify.com/track/6hmIKNKSobnnSP3KGhHM0d"
-    },
-    {
-      "added_at": "2023-07-14 15:17:20",
-      "album": {
-        "name": "Mirla",
-        "url": "https://open.spotify.com/album/2thUe8kdgLxFD6TUbCVwI7"
-      },
-      "artists": [
-        {
-          "name": "Monte",
-          "url": "https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG"
-        }
-      ],
-      "duration_ms": 264066,
-      "name": "Mirla",
-      "url": "https://open.spotify.com/track/1a8gHyHUGYfiDlJMhrQTTV"
     },
     {
       "added_at": "2023-07-14 15:17:20",
@@ -243,6 +227,22 @@
       "duration_ms": 115016,
       "name": "Hotel Lounge in Havana",
       "url": "https://open.spotify.com/track/0WzNm5OrMqWzVZ84QdwJSS"
+    },
+    {
+      "added_at": "2023-07-14 15:17:20",
+      "album": {
+        "name": "Mirla",
+        "url": "https://open.spotify.com/album/2thUe8kdgLxFD6TUbCVwI7"
+      },
+      "artists": [
+        {
+          "name": "Monte",
+          "url": "https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG"
+        }
+      ],
+      "duration_ms": 264066,
+      "name": "Mirla",
+      "url": "https://open.spotify.com/track/1a8gHyHUGYfiDlJMhrQTTV"
     },
     {
       "added_at": "2023-07-14 15:17:20",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-07-14 15:17:20",
       "album": {
-        "name": "Guaguansoul",
-        "url": "https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka"
-      },
-      "artists": [
-        {
-          "name": "Kansado",
-          "url": "https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW"
-        }
-      ],
-      "duration_ms": 175156,
-      "name": "Cat\u00e1 Surf",
-      "url": "https://open.spotify.com/track/3UclRg5QnVn3ZArjOh3eBl"
-    },
-    {
-      "added_at": "2023-07-14 15:17:20",
-      "album": {
         "name": "Aubade",
         "url": "https://open.spotify.com/album/7pt5ET5hEnQFYVfVJVVzMn"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 171870,
       "name": "Aubade",
       "url": "https://open.spotify.com/track/2w9EnlbbEahdgm3ZNj758B"
+    },
+    {
+      "added_at": "2023-07-14 15:17:20",
+      "album": {
+        "name": "Guaguansoul",
+        "url": "https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka"
+      },
+      "artists": [
+        {
+          "name": "Kansado",
+          "url": "https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW"
+        }
+      ],
+      "duration_ms": 175156,
+      "name": "Cat\u00e1 Surf",
+      "url": "https://open.spotify.com/track/3UclRg5QnVn3ZArjOh3eBl"
     },
     {
       "added_at": "2023-07-14 15:17:20",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-07-14 15:17:20",
       "album": {
-        "name": "\u00d3leo sobre tela",
-        "url": "https://open.spotify.com/album/105WPjJen4emN55961ICvo"
-      },
-      "artists": [
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 162479,
-      "name": "Abr\u00e1zame mucho estos d\u00edas",
-      "url": "https://open.spotify.com/track/4JIZw0eFWLoTJjpCbiQWgT"
-    },
-    {
-      "added_at": "2023-07-14 15:17:20",
-      "album": {
         "name": "Cumbiero",
         "url": "https://open.spotify.com/album/7D9My05RRSKEsJI0rTW3B3"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 99000,
       "name": "Cumbiero",
       "url": "https://open.spotify.com/track/1670mewoHIWiWKmRj62DR7"
+    },
+    {
+      "added_at": "2023-07-14 15:17:20",
+      "album": {
+        "name": "\u00d3leo sobre tela",
+        "url": "https://open.spotify.com/album/105WPjJen4emN55961ICvo"
+      },
+      "artists": [
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "duration_ms": 162479,
+      "name": "Abr\u00e1zame mucho estos d\u00edas",
+      "url": "https://open.spotify.com/track/4JIZw0eFWLoTJjpCbiQWgT"
     },
     {
       "added_at": "2023-07-14 15:17:20",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-07-14 15:17:20",
       "album": {
-        "name": "love in medell\u00edn",
-        "url": "https://open.spotify.com/album/6IHUbJzZ2P4XMC9fq4O7TA"
-      },
-      "artists": [
-        {
-          "name": "neptune kid",
-          "url": "https://open.spotify.com/artist/7GjoXTEjUzwT08uo4DRMRA"
-        }
-      ],
-      "duration_ms": 109723,
-      "name": "love in medell\u00edn",
-      "url": "https://open.spotify.com/track/5mGAQqsga5RzDp8NoQgmsH"
-    },
-    {
-      "added_at": "2023-07-14 15:17:20",
-      "album": {
         "name": "Brazilian Flavor",
         "url": "https://open.spotify.com/album/7KRW5vGGs4RUzv7r36FGRR"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 118288,
       "name": "Brazilian Flavor",
       "url": "https://open.spotify.com/track/3whLJWc9Bu4mk0cnueIiKg"
+    },
+    {
+      "added_at": "2023-07-14 15:17:20",
+      "album": {
+        "name": "love in medell\u00edn",
+        "url": "https://open.spotify.com/album/6IHUbJzZ2P4XMC9fq4O7TA"
+      },
+      "artists": [
+        {
+          "name": "neptune kid",
+          "url": "https://open.spotify.com/artist/7GjoXTEjUzwT08uo4DRMRA"
+        }
+      ],
+      "duration_ms": 109723,
+      "name": "love in medell\u00edn",
+      "url": "https://open.spotify.com/track/5mGAQqsga5RzDp8NoQgmsH"
     },
     {
       "added_at": "2023-07-14 15:17:20",
@@ -739,26 +739,6 @@
     {
       "added_at": "2023-07-14 15:17:20",
       "album": {
-        "name": "Ag\u00fcita de Coco",
-        "url": "https://open.spotify.com/album/63a3KXPLPUfeYVswmr8gFL"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        },
-        {
-          "name": "Chavezarratia",
-          "url": "https://open.spotify.com/artist/568hZziWFjCPnud0seNeUo"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Ag\u00fcita de Coco",
-      "url": "https://open.spotify.com/track/06U4QV5Gid1LZjm39ydcMp"
-    },
-    {
-      "added_at": "2023-07-14 15:17:20",
-      "album": {
         "name": "Bolero coqueto",
         "url": "https://open.spotify.com/album/5NpL6azGR3wLAyPSA3yo5D"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 135163,
       "name": "Bolero coqueto",
       "url": "https://open.spotify.com/track/4d5vaBa0RzD10nbAcewKiI"
+    },
+    {
+      "added_at": "2023-07-14 15:17:20",
+      "album": {
+        "name": "Ag\u00fcita de Coco",
+        "url": "https://open.spotify.com/album/63a3KXPLPUfeYVswmr8gFL"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        },
+        {
+          "name": "Chavezarratia",
+          "url": "https://open.spotify.com/artist/568hZziWFjCPnud0seNeUo"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Ag\u00fcita de Coco",
+      "url": "https://open.spotify.com/track/06U4QV5Gid1LZjm39ydcMp"
     },
     {
       "added_at": "2023-07-14 15:17:20",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-07-14 15:17:20",
       "album": {
+        "name": "Ciudad de Papel",
+        "url": "https://open.spotify.com/album/5RvDhQ97SHNRWiuS2SgOVh"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Rosa",
+          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
+        }
+      ],
+      "duration_ms": 129767,
+      "name": "Ciudad de Papel",
+      "url": "https://open.spotify.com/track/0I8Pn5LBI4TIydkOxOeEmE"
+    },
+    {
+      "added_at": "2023-07-14 15:17:20",
+      "album": {
         "name": "Playa del Amor",
         "url": "https://open.spotify.com/album/5LANlltyeFV9e2Waab8Jd7"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 129565,
       "name": "Playa del Amor",
       "url": "https://open.spotify.com/track/3SL8twBcud5RDSqmwC1vVZ"
-    },
-    {
-      "added_at": "2023-07-14 15:17:20",
-      "album": {
-        "name": "Ciudad de Papel",
-        "url": "https://open.spotify.com/album/5RvDhQ97SHNRWiuS2SgOVh"
-      },
-      "artists": [
-        {
-          "name": "Iv\u00e1n Rosa",
-          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
-        }
-      ],
-      "duration_ms": 129767,
-      "name": "Ciudad de Papel",
-      "url": "https://open.spotify.com/track/0I8Pn5LBI4TIydkOxOeEmE"
     },
     {
       "added_at": "2023-07-14 15:17:20",

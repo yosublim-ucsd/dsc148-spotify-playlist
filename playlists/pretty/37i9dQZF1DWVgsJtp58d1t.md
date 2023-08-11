@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday\.   Cover:  <a href="https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx?si=7d9fcac2e38243bd">Halle</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,005,331 likes - 120 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,005,307 likes - 120 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 119 | [Lap Dog](https://open.spotify.com/track/4G9Wm2K0ouXMaOKvwmwEu7) | [Azizi Gibson](https://open.spotify.com/artist/2NjfafEappzvGGGDdMRJMP) | [Lap Dog](https://open.spotify.com/album/6PnPivCtFsebDf8cnh73WM) | 3:09 |
 | 120 | [Damn, Crazy](https://open.spotify.com/track/2OJQNNnEiXyXiNRfl9Q0a2) | [MFnMelo](https://open.spotify.com/artist/7auVoAwdrloWdyKULVOauu) | [Damn, Crazy](https://open.spotify.com/album/7obgy7wcL3CgpiJGthVxuT) | 1:35 |
 
-Snapshot ID: `MCwzMTZiMzY5NTZlYjNmYjVkMDg5MmI2MWMxMDNiMjUwMDM4ZjJiNjcz`
+Snapshot ID: `MCwwYWQwZGIwZTJkMDM2ZDA1ZDQ2NzQ3YmE0NTBiOTMyMTk1Y2QxZjU3`

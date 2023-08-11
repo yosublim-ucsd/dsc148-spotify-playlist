@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcViPZlF2qaM.md) - [plain]
 
 > Abajo y a la izquierda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,778 likes - 60 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,826 likes - 60 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcViPZlF2qaM.md) - [plain]
 | 28 | [Spanish Flea](https://open.spotify.com/track/689DTIE4YIRfuIUG58Z2H2) | [Herb Alpert & The Tijuana Brass](https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I) | [!!Going Places!!](https://open.spotify.com/album/3y7ArxHNtZoTVWSwR4lkQT) | 2:06 |
 | 29 | [La Vida](https://open.spotify.com/track/7rIMBY4ANvxLDJS1m1TzmH) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 2:37 |
 | 30 | [Movimiento](https://open.spotify.com/track/7pBoi7yWCPzn3UjeMsGKg6) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Salvavidas de hielo](https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0) | 3:51 |
-| 31 | [Sofrito](https://open.spotify.com/track/0FpBO0Pyoh4MZVmNO3zwnc) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Sofrito](https://open.spotify.com/album/6o663c9rSwfKOoLQKs76kS) | 6:06 |
-| 32 | [Rúmbala](https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur) | [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Rúmbala](https://open.spotify.com/album/4yf3TyT75f33sAq1o1ORuR) | 2:58 |
+| 31 | [Rúmbala](https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur) | [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Rúmbala](https://open.spotify.com/album/4yf3TyT75f33sAq1o1ORuR) | 2:58 |
+| 32 | [Sofrito](https://open.spotify.com/track/0FpBO0Pyoh4MZVmNO3zwnc) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Sofrito](https://open.spotify.com/album/6o663c9rSwfKOoLQKs76kS) | 6:06 |
 | 33 | [Mamita Santa](https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mamita Santa](https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R) | 3:59 |
 | 34 | [Maria Elena](https://open.spotify.com/track/3ygHAK1w3qP4wp83KXUiiu) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Maria Elena](https://open.spotify.com/album/4hO6VEnWpPImOF4RDmtTHM) | 3:07 |
 | 35 | [Me Voy Contigo](https://open.spotify.com/track/6BNaBJvHM85qDtsw9pUCD0) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Lluvia Y Sol](https://open.spotify.com/album/7A2PTwonSaI9wGZj2Te7K8) | 3:42 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcViPZlF2qaM.md) - [plain]
 | 40 | [La Cumbia Del Cafe Martinez](https://open.spotify.com/track/7IuUjEcv8BWqnUSIqWJP8O) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Cumbias Imaquinarias \- EP](https://open.spotify.com/album/48Qc7UTo9Bwy68JGhJ5gIh) | 3:57 |
 | 41 | [Sonido Amazonico](https://open.spotify.com/track/2Zcv2Vk65xi37T7AT2qcDJ) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Cumbia Amazonica](https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL) | 2:40 |
 | 42 | [Arriba](https://open.spotify.com/track/33aGNyx04gkQseZ4hsTGxt) | [Fémina](https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR) | [Perlas & Conchas](https://open.spotify.com/album/2KQaaRXoshRbFQXuaVAoFo) | 2:57 |
-| 43 | [Silencio](https://open.spotify.com/track/7uzTm4WG1hFLcj4QPGkVZm) | [Ibrahim Ferrer](https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Ibrahim Ferrer \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/2W49Vkri8OTFs5Gi7UWFUU) | 4:38 |
-| 44 | [Ojos Del Sol](https://open.spotify.com/track/2gke8YaJQur5OpkWAeIMdz) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Ojos Del Sol](https://open.spotify.com/album/1bv229IwMr6O2Id5jVZqmc) | 4:05 |
+| 43 | [Ojos Del Sol](https://open.spotify.com/track/2gke8YaJQur5OpkWAeIMdz) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Ojos Del Sol](https://open.spotify.com/album/1bv229IwMr6O2Id5jVZqmc) | 4:05 |
+| 44 | [Silencio](https://open.spotify.com/track/7uzTm4WG1hFLcj4QPGkVZm) | [Ibrahim Ferrer](https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Ibrahim Ferrer \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/2W49Vkri8OTFs5Gi7UWFUU) | 4:38 |
 | 45 | [Quien lo diría](https://open.spotify.com/track/7iTwZ8bxJRgX6HfkVdDa2D) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [COMO LA PIEL](https://open.spotify.com/album/1sXXkYWYrIEVe52YBA3EXp) | 4:35 |
 | 46 | [Cumbiera Intelectual](https://open.spotify.com/track/44QrX1Mp26xztzWBLuYsjz) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Sur o No Sur](https://open.spotify.com/album/2pbdnwDbOlbtJG3yZuCqkq) | 4:10 |
 | 47 | [Cumbia Espacial](https://open.spotify.com/track/73eru5GrzWOgmjjdcI8WGg) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Ondatrópica](https://open.spotify.com/album/5OfBaqQtoYQc3i0LgKVAEC) | 4:05 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcViPZlF2qaM.md) - [plain]
 | 56 | [Hasta la Raíz](https://open.spotify.com/track/47KRnXQdhZvTdWyQZUTqiG) | [Isaac et Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls), [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8) | [Latin & Love Studies](https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM) | 4:00 |
 | 57 | [La Matanza](https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [La Matanza](https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6) | 3:21 |
 | 58 | [Supersticioso](https://open.spotify.com/track/3cCQBokVCnGWbwasKeQ9n6) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [Instantes Decisivos Edición Deluxe](https://open.spotify.com/album/1UhsU0waoToMeZcaG5W13w) | 2:46 |
-| 59 | [Pa´lante](https://open.spotify.com/track/2eIz0KUjTWALHdndVtROKp) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Pa'lante](https://open.spotify.com/album/0VoVnn8HzawW4b9Viavikd) | 3:16 |
-| 60 | [Chango](https://open.spotify.com/track/1hl3OmpIUl1EhOwMjtibCa) | [Ska Cubano](https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF) | [Ska Cubano](https://open.spotify.com/album/3N58JMWyiCXtS0uJB5Kvxt) | 3:38 |
+| 59 | [Chango](https://open.spotify.com/track/1hl3OmpIUl1EhOwMjtibCa) | [Ska Cubano](https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF) | [Ska Cubano](https://open.spotify.com/album/3N58JMWyiCXtS0uJB5Kvxt) | 3:38 |
+| 60 | [Pa´lante](https://open.spotify.com/track/2eIz0KUjTWALHdndVtROKp) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Pa'lante](https://open.spotify.com/album/0VoVnn8HzawW4b9Viavikd) | 3:16 |
 
-Snapshot ID: `MCxmNWE5ZjlhNTBhNmM1ZDExNTU4ZTc0ODA0NWU5OTI0YTMwMjcyYWYy`
+Snapshot ID: `MCw0NWRhMjBjMDMzYmM2OGM4ZjkwNjY0MDFiODgxZmEwY2M1M2RiMzE0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist idéale pour vos fêtes cette année!
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,329 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,330 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 26 | [Bons baisers de Fort\-De\-France](https://open.spotify.com/track/1sCsEjP36ukcVtdoK8LHZv) | [La Compagnie Créole](https://open.spotify.com/artist/4GFqys2YA5hdCl4P2pdX3h) | [Le bal masqué](https://open.spotify.com/album/2Uy1V5kBLMGuSKHchgsS5w) | 3:12 |
 | 27 | [Merry Christmas](https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Merry Christmas](https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK) | 3:28 |
 | 28 | [Let It Snow! Let It Snow! Let It Snow! \(with The B\. Swanson Quartet\)](https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [B\. Swanson Quartet](https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc) | [Christmas Songs by Sinatra](https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU) | 2:35 |
-| 29 | [Feliz Navidad](https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Feliz Navidad](https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu) | 3:02 |
-| 30 | [Wonderful Christmastime \- Edited Version / Remastered 2011](https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV) | 3:47 |
+| 29 | [Wonderful Christmastime \- Edited Version / Remastered 2011](https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV) | 3:47 |
+| 30 | [Feliz Navidad](https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Feliz Navidad](https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu) | 3:02 |
 | 31 | [Christmas Lights](https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Christmas Lights](https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy) | 4:02 |
 | 32 | [Somewhere Only We Know](https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus](https://open.spotify.com/album/5Swr80WlTTC0PKExtoU4jU) | 3:28 |
 | 33 | [White Christmas \- 1947 Version](https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Ken Darby Singers](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi), [John Scott Trotter & His Orchestra](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) | [Holiday Inn \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq) | 2:57 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 86 | [Le petit renne au nez rouge](https://open.spotify.com/track/2Cb63POXAdqsUQX5SBHIZf) | [Renée Martel](https://open.spotify.com/artist/1vgsGsdx1AT6W2j5Y6GIis) | [Chantons Noël!](https://open.spotify.com/album/2Vx0bvyrpOixovVt0Jiyds) | 2:51 |
 | 87 | [O Holy Night](https://open.spotify.com/track/2Ykid5zsdq57bc9km6fDub) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [A Very Special Christmas 3](https://open.spotify.com/album/1Esu95dAPjDnjQi9KrlQ45) | 4:28 |
 | 88 | [Vive le vent](https://open.spotify.com/track/4V9Af9RIbI5V9KjiiFtWqx) | [Ginette Reno](https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon) | [Joyeux Noël](https://open.spotify.com/album/3rXFr1d41AbHmCAl59aPwT) | 2:18 |
-| 89 | [Fa La La](https://open.spotify.com/track/7CjvhcsLdCtR1CtLTLLd0f) | [Bündock](https://open.spotify.com/artist/7I7WZG8yRVDD5nTxDRUhFD) | [Joyeux Noël](https://open.spotify.com/album/2OlKZ24ZW2kOwZz4Xd3zio) | 2:16 |
-| 90 | [Le Père Noël C't'un Québécois](https://open.spotify.com/track/7adJp4379R1irkezIA3zjd) | [Boum Ding Band](https://open.spotify.com/artist/50ERNshVS98iuEFQfxGggG) | [Noël, C'est L'amour](https://open.spotify.com/album/3daWVuTqbiXedViUfOnN1V) | 2:56 |
+| 89 | [Le Père Noël C't'un Québécois](https://open.spotify.com/track/7adJp4379R1irkezIA3zjd) | [Boum Ding Band](https://open.spotify.com/artist/50ERNshVS98iuEFQfxGggG) | [Noël, C'est L'amour](https://open.spotify.com/album/3daWVuTqbiXedViUfOnN1V) | 2:56 |
+| 90 | [Fa La La](https://open.spotify.com/track/7CjvhcsLdCtR1CtLTLLd0f) | [Bündock](https://open.spotify.com/artist/7I7WZG8yRVDD5nTxDRUhFD) | [Joyeux Noël](https://open.spotify.com/album/2OlKZ24ZW2kOwZz4Xd3zio) | 2:16 |
 | 91 | [Winter Song](https://open.spotify.com/track/7BWw8Hahoj2dnlChmnkVUX) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h), [Lili\-Ann De Francesco](https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA) | [Winter Song](https://open.spotify.com/album/5lGOMN6Wmt1MzJcpxefQKE) | 3:00 |
 | 92 | [Christmas Eve](https://open.spotify.com/track/3GcyZQrG6hAqNmQsxjggj9) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [You Make It Feel Like Christmas](https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc) | 3:21 |
 | 93 | [Le sentier de neige](https://open.spotify.com/track/0wj09A1u592qYVeOYJYaji) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Reprises Vol.1](https://open.spotify.com/album/3lSPJWmIKB3lFKxOxTvYA0) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 99 | [L'enfant au tambour](https://open.spotify.com/track/4jtna43xiyQKSghOBwh0l8) | [Johanne Blouin](https://open.spotify.com/artist/1f8PCpHKhzkLb2y7wnijjd) | [Sainte Nuit](https://open.spotify.com/album/3DCGt7eg6TFrAa5tVf9zja) | 2:54 |
 | 100 | [À la fin décembre](https://open.spotify.com/track/3N46SoPdsLRzjAc5JVaPhV) | [Lydia&Sebastien](https://open.spotify.com/artist/1saGaP0yZcG7aKOJVdJCse) | [À la fin décembre](https://open.spotify.com/album/1IGsxh3BHMUVT3MkJPKbK3) | 3:09 |
 
-Snapshot ID: `MCwzMmJiMzFiNTBkNmI1MzM3NGVjZjA2MjQ0MjM0NTYyZTk5MDczNTgx`
+Snapshot ID: `MCw5MWEyMjY0MDZjZjk1YTNkNmNmOGVlZDYzZWQ5ZWVjMWQ0Nzg3ZWVi`

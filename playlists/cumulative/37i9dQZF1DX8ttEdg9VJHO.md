@@ -4,7 +4,7 @@
 
 > Für ein bisschen mehr Leichtigkeit.
 
-71 songs - 3 hr 41 min
+72 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [NO](https://open.spotify.com/track/0l0CvurVUrr2w3Jj1hOVFc) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Deluxe Version\)](https://open.spotify.com/album/08eweM0IZoZPCCxODbrMoL) | 3:33 | 2023-07-14 |  |
 | [Not Ready](https://open.spotify.com/track/2O9VKLv8pPmGM3PHTzQrKA) | [Myle](https://open.spotify.com/artist/1EhPRkK8hf1SzrDhzPlaMw) | [Not Ready](https://open.spotify.com/album/3ehwkHOVfqCDgizH3vGXLa) | 3:00 | 2023-07-14 |  |
 | [Our Song](https://open.spotify.com/track/5zqObw7wjBgL9TDiAymxPn) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Our Song](https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a) | 2:43 | 2023-07-14 |  |
+| [Over](https://open.spotify.com/track/0OtftDTXLb5Ziq4Goq0nJS) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Over](https://open.spotify.com/album/2VQy0vBC1uPz4HRncOjUV2) | 2:49 | 2023-08-10 |  |
 | [Pretty Boys](https://open.spotify.com/track/698ehyxjqZ7i06vUJQFviN) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Thanks For Nothing, See You Never](https://open.spotify.com/album/3z0cezSSci6BbzON9y9LXc) | 2:20 | 2023-07-14 |  |
 | [Psycho](https://open.spotify.com/track/6YZwJSMNL7hB4ItxZtn7jx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Psycho](https://open.spotify.com/album/5UBAspHjoGNtNAvHAf5aSI) | 3:04 | 2023-07-14 |  |
 | [Ready To Be Loved](https://open.spotify.com/track/1DqxoM9tJrH8VElhileZ2v) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Ready To Be Loved](https://open.spotify.com/album/0n154sm1hveOmE5VKenM9n) | 3:00 | 2023-07-14 |  |
@@ -78,6 +79,6 @@
 | [We Can Be Just Friends](https://open.spotify.com/track/057imKEFcRqQNJkGhZ6wqT) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [We Can Be Just Friends](https://open.spotify.com/album/56U3Wkr8ts148ZnLTnoHN2) | 2:44 | 2023-07-14 |  |
 | [Wer wenn nicht wir](https://open.spotify.com/track/5jYDCxuSx1mfApeWA4SlqX) | [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Wer wenn nicht wir](https://open.spotify.com/album/1E5bSnYcfhaNVbRTfUpRRI) | 2:43 | 2023-07-14 |  |
 | [Wishing Girl](https://open.spotify.com/track/2iawlVRHk4Q9aPg0OgG20D) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Remember Roses](https://open.spotify.com/album/2Dpk21DBj28JDsfpkrPj5Z) | 3:12 | 2023-07-14 |  |
-| [Year of the Young](https://open.spotify.com/track/6J7U49QGecWb3WqIqfSYc0) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Year of the Young](https://open.spotify.com/album/0WNXPe1PeWAhFMfsXj1iPi) | 2:44 | 2023-07-14 |  |
+| [Year of the Young](https://open.spotify.com/track/6J7U49QGecWb3WqIqfSYc0) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Year of the Young](https://open.spotify.com/album/0WNXPe1PeWAhFMfsXj1iPi) | 2:44 | 2023-07-14 | 2023-08-11 |
 
 \*This playlist was first scraped on 2023-07-28. Prior content cannot be recovered.

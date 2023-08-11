@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OR0U4UGusN.md) - [plain]
 
 > tunes for walking, driving, running, flying, etc
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,739 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,821 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OR0U4UGusN.md) - [plain]
 | 41 | [Teen Scene \(ft\. Buddy\)](https://open.spotify.com/track/3cyw3MYxhpCSPMawfqdFNk) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Habits](https://open.spotify.com/album/710KCDvLyaTZS6NHNw9URq) | 4:10 |
 | 42 | [I Want Your Attention](https://open.spotify.com/track/2RU67aiaESQ7t9D1xUJqBu) | [Moon Boots](https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy), [Fiora](https://open.spotify.com/artist/2r7POU2f5jV6x3k4vsNwrM) | [First Landing](https://open.spotify.com/album/1SNyeh5uoNmmhpruGwHg51) | 4:46 |
 | 43 | [Hannah \(the sun\)](https://open.spotify.com/track/3KffMs30iYfPNYI8epNj5a) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Hannah \(the sun\)](https://open.spotify.com/album/6eep2wtSbpdoAgJcRyublA) | 3:16 |
-| 44 | [Bunny Is A Rider](https://open.spotify.com/track/1rYABrDmfqVmJMwaNJBUUb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Bunny Is A Rider](https://open.spotify.com/album/2cwOa6RStGRanie22to0NO) | 3:13 |
-| 45 | [Easy On Them Turns](https://open.spotify.com/track/2UR2cDcRfLiQzPvEV5hWtP) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [BIRDSONGS, Vol\. 3](https://open.spotify.com/album/4dEE30w7vPP00iZa7FoGY3) | 2:15 |
+| 44 | [Easy On Them Turns](https://open.spotify.com/track/2UR2cDcRfLiQzPvEV5hWtP) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [BIRDSONGS, Vol\. 3](https://open.spotify.com/album/4dEE30w7vPP00iZa7FoGY3) | 2:15 |
+| 45 | [Bunny Is A Rider](https://open.spotify.com/track/1rYABrDmfqVmJMwaNJBUUb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Bunny Is A Rider](https://open.spotify.com/album/2cwOa6RStGRanie22to0NO) | 3:13 |
 | 46 | [Sign](https://open.spotify.com/track/6QiyjquMOWZqaveqmbhmZE) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 4:18 |
 | 47 | [Selfish Soul](https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Selfish Soul](https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N) | 2:22 |
 | 48 | [Good Advice](https://open.spotify.com/track/2mAjXnUG4QJAypppi5J2lA) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Good Advice](https://open.spotify.com/album/5MQethd22cttCRC2uAbrjI) | 2:23 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OR0U4UGusN.md) - [plain]
 | 73 | [Hallmarks](https://open.spotify.com/track/1AsVHwEm3TfjPV68DZvswr) | [Your Neighbors](https://open.spotify.com/artist/6mpyU2azr3zfZDY9k8w5GP) | [Love Your Neighbors](https://open.spotify.com/album/2LcHvU3Yzrd7SMMHhZcdfe) | 4:39 |
 | 74 | [Can U Meet Me There](https://open.spotify.com/track/5mOPWc6HBo77VOztxzFh5s) | [Issadora Ava](https://open.spotify.com/artist/4c4l8i28GGXPheP0HnRORl) | [Can U Meet Me There](https://open.spotify.com/album/3MAhsnUPCTX3LTsaR04x5u) | 3:32 |
 | 75 | [benny!](https://open.spotify.com/track/6hDJWLmPebVbFrDC9hw1Ry) | [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [FORTHEWORLD](https://open.spotify.com/album/4qjamshmT7gedEq6uGHXLr) | 2:25 |
-| 76 | [Looks](https://open.spotify.com/track/3f88AK7TqGIxaTjb3EdxMZ) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Are You Living In The Real World? \- EP](https://open.spotify.com/album/6Uutk4ONNcluULLclNZEgB) | 2:53 |
-| 77 | [BREADWINNER](https://open.spotify.com/track/6JAzDcWwzVHkfAg1ujmist) | [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD), [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l) | [BREADWINNER](https://open.spotify.com/album/3WNp8J85wMADkAlfzUBJEi) | 3:18 |
+| 76 | [BREADWINNER](https://open.spotify.com/track/6JAzDcWwzVHkfAg1ujmist) | [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD), [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l) | [BREADWINNER](https://open.spotify.com/album/3WNp8J85wMADkAlfzUBJEi) | 3:18 |
+| 77 | [Looks](https://open.spotify.com/track/3f88AK7TqGIxaTjb3EdxMZ) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Are You Living In The Real World? \- EP](https://open.spotify.com/album/6Uutk4ONNcluULLclNZEgB) | 2:53 |
 | 78 | [keep in touch](https://open.spotify.com/track/4Zmz78m7P7NT5qpoTIfFwF) | [Nxtime](https://open.spotify.com/artist/2960ZYqDzOYsnK0ka9Rd8J), [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [keep in touch](https://open.spotify.com/album/2vLQadIAwgChhNUu2WguFK) | 3:29 |
 | 79 | [Too Late \(To Call\)](https://open.spotify.com/track/0M0hUyO8pVLCfm7O44fV6w) | [Ruby Red](https://open.spotify.com/artist/2f0NSj1t2L6JowHINXCFb6) | [Too Late \(To Call\)](https://open.spotify.com/album/1bDeGWSXxgtbjweFbvSgNz) | 3:41 |
 | 80 | [My Demise](https://open.spotify.com/track/4FLlFDUpEVUM1M8YjAFzMD) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4) | [My Demise](https://open.spotify.com/album/2Z1R0wuI23MhyEsi5Go4ot) | 2:16 |
@@ -95,10 +95,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OR0U4UGusN.md) - [plain]
 | 85 | [You and Me](https://open.spotify.com/track/3hv0c9crZAmWBqGxhDkuYF) | [Butter Bath](https://open.spotify.com/artist/5iZ8TjSyYZoBSmVSZRIJjg) | [You and Me](https://open.spotify.com/album/01OtjntAAs5CH0j9De639T) | 3:19 |
 | 86 | [Ah Uh Oh](https://open.spotify.com/track/18Tak6ShCoGoxZhBgn2IoY) | [Bobbing](https://open.spotify.com/artist/0hyUSoWsUbtXhzmY2JWObX) | [Mixtape](https://open.spotify.com/album/6eI1jzNYFmvtOuVbS6KuCg) | 1:31 |
 | 87 | [PIE](https://open.spotify.com/track/69W17RttaPLLzfZKc5g1ey) | [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [PIE](https://open.spotify.com/album/6glFEczFwAjeB16GvQBoJ5) | 2:56 |
-| 88 | [Leaves](https://open.spotify.com/track/5osZESD7WPwkmbUHFpx1XU) | [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [Rot](https://open.spotify.com/album/0RqOFwSMSF02awYaXYdtxo) | 4:34 |
-| 89 | [Woman](https://open.spotify.com/track/3Zct7ZYVcLkj3jWi7Ah2B7) | [Baseball Game](https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK) | [Woman](https://open.spotify.com/album/1dImqTh8JMGzVwSpYSSZds) | 3:10 |
-| 90 | [Cherry Pit](https://open.spotify.com/track/6A99m7rCQHZ1Len8QlPfOf) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Duality](https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM) | 4:50 |
-| 91 | [magic wand](https://open.spotify.com/track/2Ba2Jkam0Fe49fdIwUdmKz) | [url](https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2), [Inadelle](https://open.spotify.com/artist/2oJwuBtgqtIuzTpU27zay8) | [magic wand](https://open.spotify.com/album/5iad3isgt69GOlLzHQtdOM) | 3:24 |
+| 88 | [Woman](https://open.spotify.com/track/3Zct7ZYVcLkj3jWi7Ah2B7) | [Baseball Game](https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK) | [Woman](https://open.spotify.com/album/1dImqTh8JMGzVwSpYSSZds) | 3:10 |
+| 89 | [Leaves](https://open.spotify.com/track/5osZESD7WPwkmbUHFpx1XU) | [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [Rot](https://open.spotify.com/album/0RqOFwSMSF02awYaXYdtxo) | 4:34 |
+| 90 | [magic wand](https://open.spotify.com/track/2Ba2Jkam0Fe49fdIwUdmKz) | [url](https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2), [Inadelle](https://open.spotify.com/artist/2oJwuBtgqtIuzTpU27zay8) | [magic wand](https://open.spotify.com/album/5iad3isgt69GOlLzHQtdOM) | 3:24 |
+| 91 | [Cherry Pit](https://open.spotify.com/track/6A99m7rCQHZ1Len8QlPfOf) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Duality](https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM) | 4:50 |
 | 92 | [Altopalo](https://open.spotify.com/track/2WemKADv3m0xhqVPabjvI4) | [altopalo](https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE) | [frenemy](https://open.spotify.com/album/1d8K2IIaH1MqIoAmHwfWGU) | 3:06 |
 | 93 | [Sincerity](https://open.spotify.com/track/4FNYtoJNvEKX4avJfzEQt5) | [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Stock Child Wonder](https://open.spotify.com/album/05etUyJZmnP2Wd9XVnUs0E) | 3:02 |
 | 94 | [All My Time Is Wasted](https://open.spotify.com/track/22nUVnTCm4FlOpVgaTc9sC) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [All My Time Is Wasted](https://open.spotify.com/album/3RVFlen5Oj1NdRjW1ELxOM) | 3:20 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OR0U4UGusN.md) - [plain]
 | 96 | [Sippin' on the Daylight](https://open.spotify.com/track/4VzSsGiU16ph3mUiQzBKD3) | [The Hails](https://open.spotify.com/artist/3g65HWtAf8uyVmpR4sRbrT) | [He Seems Upset](https://open.spotify.com/album/3St5xyx3phzZ6eRReZaQQQ) | 3:20 |
 | 97 | [Lars](https://open.spotify.com/track/5egLvHDg7F1x0bPxYEpfaG) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T) | [Lars](https://open.spotify.com/album/0ZgVxXY3lQ7FnalTqYgbUr) | 3:03 |
 | 98 | [Smog](https://open.spotify.com/track/4iRtrvu2GVOCImocv42Wz2) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Smog](https://open.spotify.com/album/64loLOKtAxLC6IdlfTZzbD) | 3:14 |
-| 99 | [Feels Like Yesterday](https://open.spotify.com/track/2UnhQgwBpyZlOtcvhDlx1Y) | [Hala](https://open.spotify.com/artist/1dTBAtLZBUB8Ir4PmJYw9t) | [Feels Like Yesterday](https://open.spotify.com/album/027AHWfrY6McSuGQc4knI2) | 2:56 |
-| 100 | [Magic City](https://open.spotify.com/track/3YJS5rTnXPsQgzZyIyC3Xw) | [No Suits](https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX), [Tabi](https://open.spotify.com/artist/5AnSxADNBeVFHJEGJVPYVn) | [Magic City](https://open.spotify.com/album/1HTYkylMaJEJzTeDCGfjt8) | 2:24 |
+| 99 | [Magic City](https://open.spotify.com/track/3YJS5rTnXPsQgzZyIyC3Xw) | [No Suits](https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX), [Tabi](https://open.spotify.com/artist/5AnSxADNBeVFHJEGJVPYVn) | [Magic City](https://open.spotify.com/album/1HTYkylMaJEJzTeDCGfjt8) | 2:24 |
+| 100 | [14GRAMS](https://open.spotify.com/track/4sbcTN5D20TF4ouF0zPXXY) | [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF) | [14GRAMS](https://open.spotify.com/album/45s1J9Yxx4F8Vu4xX02mp5) | 3:02 |
 
-Snapshot ID: `MCxhZDFjMGFiNzI0YWVhOWNkMzYzMDdlMWIyYzY2ZDA2MWIzYWExYmU1`
+Snapshot ID: `MCw2YTE3NmU0YWExOTczZDU3OGM0N2EyMjNkMTE3MjJjZjM4MzhkMjc4`

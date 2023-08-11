@@ -4,7 +4,7 @@
 
 > Salute's got the juice
 
-91 songs - 5 hr 48 min
+94 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [DESIIRE](https://open.spotify.com/track/3rWHOmqjQ5Rq8BAvklep7R) | [♥ GOJII ♥](https://open.spotify.com/artist/2uKlOWltMsAxTHTsh4UHJY) | [DESIIRE](https://open.spotify.com/album/4CAT5NIGLKgWkFKy2E7Sb7) | 5:04 | 2023-06-08 |  |
 | [Do U Want Me Baby? \(feat\. Elphi\)](https://open.spotify.com/track/392tWI7KlzCkP2bmAOOqzS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [Do U Want Me Baby? \(feat\. Elphi\)](https://open.spotify.com/album/2okBYRPFzRqd6Ex5M5F34Y) | 2:23 | 2023-06-08 |  |
 | [DREAMER](https://open.spotify.com/track/44V3prBS5nmjRlQN0lcbeK) | [JEV](https://open.spotify.com/artist/6StZbL9v3UpuaMwIoq8fyW) | [TALK2MUCH](https://open.spotify.com/album/5iWyIv8QHoD5P2vIUOf1j3) | 2:13 | 2023-06-08 |  |
+| [Everything I Do](https://open.spotify.com/track/6xIavZrzwKrMN8glvjCj1O) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu), [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [Everything I Do](https://open.spotify.com/album/7DWDzLGhYO99yvQzk5kSJc) | 3:14 | 2023-08-10 |  |
 | [Fading](https://open.spotify.com/track/6a6ukMkLFXcWvqP0fdlDfZ) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Fading](https://open.spotify.com/album/4bUlfYprHew2m5NsyzD84I) | 4:27 | 2023-06-08 |  |
 | [Fallen Angel](https://open.spotify.com/track/0PEM0eVuUJxhUA03Cjl0zC) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Fallen Angel](https://open.spotify.com/album/2Wl0oj1KwfXL9WFJ5VdhPw) | 3:36 | 2023-08-03 |  |
 | [Feels Like My Hands Are On Fire](https://open.spotify.com/track/4WUYv43gJtAAIaeSBml8ow) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Shield](https://open.spotify.com/album/7r2DO2kRoV44v9hdfgAQKr) | 3:28 | 2023-06-08 |  |
@@ -41,6 +42,7 @@
 | [Forever](https://open.spotify.com/track/3XPCIPycCKEjQVG087GkLk) | [Jordan Burns](https://open.spotify.com/artist/5Aapt5sVTPkERQAz6TtuZS) | [Forever](https://open.spotify.com/album/342hxZWpKqeP2gHMrZ4zMM) | 3:45 | 2023-06-08 |  |
 | [Foundation](https://open.spotify.com/track/5RWVwqbnqaddD5832YgTtr) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [Blue Breeze](https://open.spotify.com/album/6V0vITSPGYans9CoyHkkVi) | 3:56 | 2023-06-08 |  |
 | [Four Tet Is My Godmother](https://open.spotify.com/track/6KsRWn1YysBAeBEB384iVT) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Four Tet Is My Godmother](https://open.spotify.com/album/3Vs3clSmo2AS7u3JywlVOP) | 5:00 | 2023-06-08 |  |
+| [Freedom \- Sluggy Beats Remix](https://open.spotify.com/track/662qmoYrzemTWWrssVBom8) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Sluggy Beats](https://open.spotify.com/artist/44pEG0qie1KQHFr1VLUXVI) | [Freedom The Remixes](https://open.spotify.com/album/5SKnuvPKbrRDlqoLAtAlSO) | 3:43 | 2023-08-10 |  |
 | [Für Nimmer](https://open.spotify.com/track/73GKSqqeuhZgNweb48vqPl) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Für Nimmer](https://open.spotify.com/album/0P7b94OcydT0AQHFm9Quwa) | 3:19 | 2023-06-22 |  |
 | [Get Loose \(On & On\)](https://open.spotify.com/track/62gS2FlhsVWjfqlc4L6RDD) | [SHEE](https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv) | [Get Up and Get Loose EP](https://open.spotify.com/album/2vnl795kZURRExbuFbJVRv) | 4:03 | 2023-06-08 |  |
 | [Gift](https://open.spotify.com/track/66UcoWnZPHQUJwpRRywYFm) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [TELESHOP](https://open.spotify.com/artist/0Cr5IUi0VbocOLWgz8wiXx) | [Gift EP](https://open.spotify.com/album/58X3RQRsXbgnXYf3rbj8TW) | 3:55 | 2023-06-08 |  |
@@ -92,6 +94,7 @@
 | [updown](https://open.spotify.com/track/06vDTKSGYDtZpXt8q0S5Zb) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [updown](https://open.spotify.com/album/2OXEwDrbFYYhTFf2WiNwOJ) | 2:45 | 2023-06-08 |  |
 | [Used To This \- ATRIP Remix](https://open.spotify.com/track/1kgYlYUXj9ZlyJt331ZmOE) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U), [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Used To This \(ATRIP Remix\)](https://open.spotify.com/album/65Gqz7HIqUVCMYTfRfqdAK) | 4:58 | 2023-06-08 |  |
 | [Wait For It](https://open.spotify.com/track/2jglQfaRM7oRHVj5uW18Pt) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Shield](https://open.spotify.com/album/7r2DO2kRoV44v9hdfgAQKr) | 3:59 | 2023-06-08 |  |
+| [Waiting for a Night](https://open.spotify.com/track/3nHLqAfJ2wWaBVsd8GdiAS) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [Waiting for a Night](https://open.spotify.com/album/4ctxW7vnWMIrRmPxLBZp5o) | 3:00 | 2023-08-10 |  |
 | [Waiting...](https://open.spotify.com/track/2RvaQGoRf0aGCrzzITBqpE) | [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Waiting...](https://open.spotify.com/album/5Tw9rBaxeaAOT5AYisGu9o) | 3:41 | 2023-06-22 |  |
 | [Wax](https://open.spotify.com/track/180haH4wvnFeoccfbPCY8w) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Wax](https://open.spotify.com/album/2b1onoouCLKHNpESqAUGFW) | 4:18 | 2023-06-08 |  |
 | [What If \- Sensu Remix](https://open.spotify.com/track/4xs4C0GiT3rx33Gz5YgCIl) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI), [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [What If \(Sensu Remix\)](https://open.spotify.com/album/684SXpALJQphwjeGdM00ol) | 3:56 | 2023-07-06 |  |

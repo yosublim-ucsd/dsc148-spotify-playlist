@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin anthems to get the party started!\nCover: Daddy Yankee, Marc Anthony",
-  "num_followers": 2090194,
+  "num_followers": 2090346,
   "original_name": "Latin Party Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTIyZjQxOWU4NDIwNDQwNTliMTM2MzljMGNhYmIzMTBlN2RjODRi",
+  "snapshot_id": "MCxhYzgzZmM5NzFhMTNhNGUzOGQ5NjUxYjIxZDVhYTIwYzk1NWU1NTBm",
   "tracks": [
     {
       "added_at": "2023-04-03 18:29:46",
@@ -703,8 +703,8 @@
     {
       "added_at": "2023-04-03 18:29:46",
       "album": {
-        "name": "F\u00e9nix",
-        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
+        "name": "Intimo",
+        "url": "https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt"
       },
       "artists": [
         {
@@ -712,13 +712,13 @@
           "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         },
         {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 205906,
-      "name": "El Perd\u00f3n (with Enrique Iglesias)",
-      "url": "https://open.spotify.com/track/7qCAVkHWZkF44OzOUKf8Cr"
+      "duration_ms": 172854,
+      "name": "X",
+      "url": "https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1"
     },
     {
       "added_at": "2023-04-03 18:29:46",
@@ -799,8 +799,8 @@
     {
       "added_at": "2023-04-03 18:29:46",
       "album": {
-        "name": "Intimo",
-        "url": "https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt"
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
       },
       "artists": [
         {
@@ -808,13 +808,13 @@
           "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         },
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
         }
       ],
-      "duration_ms": 172854,
-      "name": "X",
-      "url": "https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1"
+      "duration_ms": 205906,
+      "name": "El Perd\u00f3n (with Enrique Iglesias)",
+      "url": "https://open.spotify.com/track/7qCAVkHWZkF44OzOUKf8Cr"
     },
     {
       "added_at": "2023-04-03 18:29:46",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-04-03 18:29:46",
       "album": {
-        "name": "La Player (Bandolera)",
-        "url": "https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 249608,
-      "name": "La player (Bandolera)",
-      "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
-    },
-    {
-      "added_at": "2023-04-03 18:29:46",
-      "album": {
         "name": "Relaci\u00f3n (Remix)",
         "url": "https://open.spotify.com/album/2O985DZAb4i6M6iu4HWqSX"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 247308,
       "name": "Relaci\u00f3n - Remix",
       "url": "https://open.spotify.com/track/35UUpTmrcFXNIVIN26ujXl"
+    },
+    {
+      "added_at": "2023-04-03 18:29:46",
+      "album": {
+        "name": "La Player (Bandolera)",
+        "url": "https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 249608,
+      "name": "La player (Bandolera)",
+      "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
     },
     {
       "added_at": "2023-04-03 18:29:46",

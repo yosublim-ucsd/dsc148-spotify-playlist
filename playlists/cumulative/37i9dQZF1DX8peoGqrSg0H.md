@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: PROXIE
+> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: Fourth Nattawat
 
-366 songs - 22 hr 0 min
+368 songs - 22 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [คงต้องบอกลาแล้ว](https://open.spotify.com/track/2EPMa8Jm1h5XRH4jwf8yK9) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [คงต้องบอกลาแล้ว](https://open.spotify.com/album/0tLEOYTiDJYMLam1orBK0B) | 4:30 | 2022-07-23 | 2022-07-29 |
 | [คนคุย \(Call Me!\)](https://open.spotify.com/track/4GpMoL5ylwYGqgf7gjUVzd) | [BowImm](https://open.spotify.com/artist/7aISVZ8grtQxn3MQjCq3E0) | [คนคุย \(Call Me!\)](https://open.spotify.com/album/5SvjNQNdL3bzUtU6EDfGA5) | 3:23 | 2022-08-18 | 2022-08-26 |
 | [คนที่รักเธอมากกว่าฉัน คือฉันในวันพรุ่งนี้](https://open.spotify.com/track/0fvvyqCcC852NNvxYa0Yiq) | [Kaew Natruja](https://open.spotify.com/artist/3T6wkzov42KuhYFCqUnhL0) | [คนที่รักเธอมากกว่าฉัน คือฉันในวันพรุ่งนี้](https://open.spotify.com/album/7jarLJFZP27N4t7GpQ73DU) | 3:56 | 2022-12-01 | 2022-12-09 |
+| [คนฟังน่ารักจัง \(Song Of The You\)](https://open.spotify.com/track/6gwTcWiHGGR6l1FGMQY8Sd) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK), [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1), [Proo Thunwa](https://open.spotify.com/artist/1P15t4uFsvUZCgkTvQqsaj), [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc), [LIT Artists](https://open.spotify.com/artist/5tP7vyON1ndNJMYFFaOiju) | [คนฟังน่ารักจัง \(Song Of The You\)](https://open.spotify.com/album/3wr631ScZnkq3jhc46CZmW) | 3:39 | 2023-08-10 |  |
 | [คนหรือไมโครเวฟ \(microwave\)](https://open.spotify.com/track/21KoXyILr1IdLA0tak64Uw) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [คนหรือไมโครเวฟ \(microwave\)](https://open.spotify.com/album/1xQzfgbjfqnnZ2xWss9NvZ) | 3:27 | 2022-05-26 |  |
 | [คนเก่าเขาทำไว้ดี \(Can’t win\)](https://open.spotify.com/track/1qkIG72UU08DBiLyCL3vLH) | [Chilling Sunday](https://open.spotify.com/artist/5UjfkANGRdbB6a6aLQHoz9) | [คนเก่าเขาทำไว้ดี \(Can’t win\)](https://open.spotify.com/album/3JGHfNlmX8ERpggp9G39oA) | 3:30 | 2022-05-26 | 2022-08-26 |
 | [คนเราจะแอบรักใครสักคนได้นานแค่ไหน](https://open.spotify.com/track/3IPtnAYykrWz9EPjPWx2D7) | [ROOFTOP](https://open.spotify.com/artist/3wzGjN26jzqLY2Gc836sjC), [AUTTA](https://open.spotify.com/artist/7kM2bHp9WgqwOE4VUKAlRv) | [คนเราจะแอบรักใครสักคนได้นานแค่ไหน](https://open.spotify.com/album/5ti3g7BuA74lw5zapYIWvJ) | 3:21 | 2022-05-26 | 2022-09-01 |
@@ -131,7 +132,7 @@
 | [ฉบับปรับปรุง](https://open.spotify.com/track/2MnVrkbwL6ViB7q4NI7oVK) | [ZENTYARB](https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi), [PUNYARB](https://open.spotify.com/artist/3DxqAGWVgEeW74mJLLwH2q), [Lazyloxy](https://open.spotify.com/artist/5w5u1DluuMvsS9o02rqWO5) | [MAS\[S\]TERPIECE](https://open.spotify.com/album/65khrtPTO8Sy7txWgVZYM2) | 4:04 | 2022-05-26 | 2022-11-18 |
 | [ฉลามชอบงับคุณ Feat.IIVY B](https://open.spotify.com/track/1NEBh01Wwtak3R1eCxlwrJ) | [bonnadol](https://open.spotify.com/artist/19IYWJFjZPv3INWYpkavTc) | [ฉลามชอบงับคุณ Feat.IIVY B](https://open.spotify.com/album/7nzdc88JydSq90v212jrfU) | 3:55 | 2022-07-22 |  |
 | [ฉันจะฉาปเธอ \- Curse](https://open.spotify.com/track/6uu05FXHuqfMNI9Ti6pts2) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [ฉันจะฉาปเธอ \(Curse\)](https://open.spotify.com/album/4zwD3vOjO0BdJUJUHaUPeP) | 3:17 | 2022-05-26 |  |
-| [ชน \(Crush\)](https://open.spotify.com/track/1DTRZvmzt6JcspTCeIBJeC) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [Data Storage](https://open.spotify.com/album/2mQYy1FYHUEuQSrJPO6BDI) | 2:45 | 2023-08-04 |  |
+| [ชน \(Crush\)](https://open.spotify.com/track/1DTRZvmzt6JcspTCeIBJeC) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [Data Storage](https://open.spotify.com/album/2mQYy1FYHUEuQSrJPO6BDI) | 2:45 | 2023-08-04 | 2023-08-11 |
 | [ชอบความเหงา \(Loneliness\)](https://open.spotify.com/track/1QTwE3bpK1t6W3H4ffpFc1) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [ชอบความเหงา \(Loneliness\)](https://open.spotify.com/album/2ocXPv98Cd9un077PQCbIi) | 3:27 | 2022-10-07 | 2022-10-27 |
 | [ชอบคุณนะ \- Unsend](https://open.spotify.com/track/0nKRTd3kTf0xyU9q608e8S) | [Proo Thunwa](https://open.spotify.com/artist/1P15t4uFsvUZCgkTvQqsaj) | [ชอบคุณนะ \(Unsend\)](https://open.spotify.com/album/7GewzqYmhU1NAX5W380oTn) | 2:48 | 2022-05-26 |  |
 | [ชอบตัวเองตอนอยู่กับเธอ](https://open.spotify.com/track/0cCf8UpRfjOB7yp1yqzMHM) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ชอบตัวเองตอนอยู่กับเธอ](https://open.spotify.com/album/1AFBFoCnnS7KkhbwT80V2j) | 3:42 | 2022-07-22 |  |
@@ -278,6 +279,7 @@
 | [อยากรวยโว้ย \(orz\)](https://open.spotify.com/track/0x59oJGgBi2vocTwb2AtxB) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1), [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy) | [อยากรวยโว้ย \(orz\)](https://open.spotify.com/album/4VotgOA8Ca3AL4RVFv66X4) | 3:19 | 2023-06-15 | 2023-06-23 |
 | [อยากเริ่มต้นใหม่กับคนเดิม \(repeat\)](https://open.spotify.com/track/0g6sPkauqoHKPtLzYGc1z6) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [อยากเริ่มต้นใหม่กับคนเดิม \(repeat\)](https://open.spotify.com/album/5VLyuQugRFa4tBxfppcmTn) | 3:58 | 2022-07-28 | 2022-08-26 |
 | [อยากเริ่มต้นใหม่กับคนเดิม \(repeat\)](https://open.spotify.com/track/1E0waZD9GmD0SkbEhk19J4) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [อยากเริ่มต้นใหม่กับคนเดิม \(repeat\)](https://open.spotify.com/album/1cXnOf7dMtpsiGzvDjREAq) | 3:58 | 2022-05-26 | 2022-07-29 |
+| [อยู่เฉย ๆ ก็น่ารัก \(Please Be Mine\)](https://open.spotify.com/track/6lrMGW46YadQYHzD6mzz4E) | [Fourth Nattawat](https://open.spotify.com/artist/1O48F7zasjWhc5GodGPJEO) | [อยู่เฉย ๆ ก็น่ารัก \(Please Be Mine\)](https://open.spotify.com/album/4IJ0gjuhqJoGQlwJiEMHH9) | 2:59 | 2023-08-10 |  |
 | [อย่าดื้อดิ \- Kissed](https://open.spotify.com/track/0G7rz6YlugHKHUKRtxhpvO) | [Marc Tatchapon](https://open.spotify.com/artist/6bgJVFxXoLzHewXZmpdpGs) | [อย่าดื้อดิ \(Kissed\)](https://open.spotify.com/album/3ypShxK5YV0oVRpC0Tl7N9) | 2:28 | 2023-01-26 | 2023-02-03 |
 | [อย่าบ่อย \(ex.\)](https://open.spotify.com/track/6UYeUljrHzUsAvBvskvE6T) | [MOJIKO](https://open.spotify.com/artist/64zApZE6dGsd5gGGaRIX5l) | [อย่าบ่อย \(ex.\)](https://open.spotify.com/album/7ecadfo8zPKykCMqhJ1Awf) | 4:25 | 2022-06-16 | 2022-06-24 |
 | [อย่าอยู่เลย](https://open.spotify.com/track/61faGyAiv8zqm0EUUpRYma) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [อย่าอยู่เลย](https://open.spotify.com/album/2CjUPTshiticCHDqPKpsbK) | 3:46 | 2022-08-25 | 2022-09-16 |
@@ -304,7 +306,7 @@
 | [เธอคนไหน \(U\-WHO\)](https://open.spotify.com/track/0AhcURCHS8NhcsHYRrEBH7) | [TOFFE](https://open.spotify.com/artist/2seAV47mn1Z0NnjI78vLPn) | [เธอคนไหน \(U\-WHO\)](https://open.spotify.com/album/57GVTJ24ATQb3SjA8apw4u) | 3:02 | 2022-08-18 | 2022-08-26 |
 | [เธอมีความหมาย \(My Treasure\)](https://open.spotify.com/track/5iDTtBDNjC1FBeLdgyF0LC) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [เธอมีความหมาย \(My Treasure\)](https://open.spotify.com/album/41piugn0SZiKzpmovdNDQw) | 3:26 | 2022-07-01 | 2022-07-24 |
 | [เป็นได้ทุกอย่าง](https://open.spotify.com/track/27qlKjzLoCOzltggfY8FPy) | [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [เป็นได้ทุกอย่าง](https://open.spotify.com/album/4YQqcCKXLmZcJkzijUfSiy) | 3:11 | 2022-05-26 | 2023-05-03 |
-| [เป็นไปไม่ได้ \(FORLORN\)](https://open.spotify.com/track/2Z3ltBGdjCtdD9C4Lh1jDW) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [เป็นไปไม่ได้ \(FORLORN\)](https://open.spotify.com/album/3mJk19a7FV8M1SiAG43AAR) | 4:31 | 2023-07-27 |  |
+| [เป็นไปไม่ได้ \(FORLORN\)](https://open.spotify.com/track/2Z3ltBGdjCtdD9C4Lh1jDW) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [เป็นไปไม่ได้ \(FORLORN\)](https://open.spotify.com/album/3mJk19a7FV8M1SiAG43AAR) | 4:31 | 2023-07-27 | 2023-08-11 |
 | [เผลอหรือตั้งใจ](https://open.spotify.com/track/0mt8i1U8mZsptqKxEc4ScO) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [เผลอหรือตั้งใจ](https://open.spotify.com/album/5p7h0FH5wQR7w8hRZPa8sO) | 3:09 | 2022-05-26 | 2022-07-29 |
 | [เผลอหรือตั้งใจ](https://open.spotify.com/track/7GfFmnGewokTR7RwkMpbW5) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [เผลอหรือตั้งใจ](https://open.spotify.com/album/3S8wLd9kZqvibuEQoAKd7I) | 3:09 | 2022-07-28 | 2022-10-27 |
 | [เผื่อว่าจะพบเธอสักวัน](https://open.spotify.com/track/3Tzztaw6T9gtOsitE8A4dh) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [เผื่อว่าจะพบเธอสักวัน](https://open.spotify.com/album/5gZYy0eAVTbNN47UAbfj5S) | 4:38 | 2022-06-23 | 2022-08-19 |

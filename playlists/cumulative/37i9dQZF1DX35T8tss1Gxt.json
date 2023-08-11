@@ -3539,6 +3539,24 @@
     },
     {
       "album": {
+        "name": "I'll Praise",
+        "url": "https://open.spotify.com/album/3yCYG5wQ1J4tckxRWs8NC4"
+      },
+      "artists": [
+        {
+          "name": "Stevie Rizo",
+          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160405,
+      "name": "I'll Praise",
+      "url": "https://open.spotify.com/track/76z0xBhIITVBwHni9PZZ8v"
+    },
+    {
+      "album": {
         "name": "I'll Wait",
         "url": "https://open.spotify.com/album/2Mvi0g1n9f8tHaO7oeJfzR"
       },
@@ -4010,7 +4028,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 184541,
       "name": "Learning to Forgive",
       "url": "https://open.spotify.com/track/5miGv60VQY9otU6fXpKmPw"

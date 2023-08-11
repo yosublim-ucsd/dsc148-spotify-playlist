@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,191,793 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,192,035 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 54 | [So In Love](https://open.spotify.com/track/3cvdaHJUFir8IQhHO0XD0j) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Love For Sale \(Deluxe\)](https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs) | 4:31 |
 | 55 | [Let’s Make The Most Of A Beautiful Thing](https://open.spotify.com/track/187NSXSWDou7TqG1AtLVLW) | [Erin Boheme](https://open.spotify.com/artist/2YtGyXqMVXz8kqhU9DRfGw) | [What Love Is](https://open.spotify.com/album/0hEwSReR8W9NMlL8uMrklp) | 4:39 |
 | 56 | [We'll Be Together Again](https://open.spotify.com/track/2UjKv7YLrzyU2HFIKdapMN) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [It Had To be You..\. The Great American Songbook](https://open.spotify.com/album/4Ssek6XSIaTLnP4Fq3olTM) | 3:54 |
-| 57 | [Dance Me to the End of Love](https://open.spotify.com/track/202Ep1DlFXuCTSssanwLW2) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [With a Twist](https://open.spotify.com/album/1fg9qsZPv8CfwwsM08stjk) | 5:36 |
-| 58 | [Language Of Love](https://open.spotify.com/track/4nnztEkOw2g2RO2nzPQWw8) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Language Of Love](https://open.spotify.com/album/1oaLaAbS6PC0XdnsUGcjQL) | 4:16 |
+| 57 | [Language Of Love](https://open.spotify.com/track/4nnztEkOw2g2RO2nzPQWw8) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Language Of Love](https://open.spotify.com/album/1oaLaAbS6PC0XdnsUGcjQL) | 4:16 |
+| 58 | [Dance Me to the End of Love](https://open.spotify.com/track/202Ep1DlFXuCTSssanwLW2) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [With a Twist](https://open.spotify.com/album/1fg9qsZPv8CfwwsM08stjk) | 5:36 |
 | 59 | [I've Got You Under My Skin](https://open.spotify.com/track/0YtdBOitNPB7oYgLvm2z8g) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [I've Got You Under My Skin](https://open.spotify.com/album/4ygkbddQCe8tUTaaRdpppP) | 3:29 |
 | 60 | [I'll Be Seeing You](https://open.spotify.com/track/4fT0kbU0e5AxBgCt84qOzC) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [I'll Be Seeing You](https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL) | 6:07 |
 | 61 | [At Last](https://open.spotify.com/track/1wzJczNkW2BJc1QgYapAMX) | [Malene Mortensen](https://open.spotify.com/artist/6K6MsblQYdl29dlOgCKul2) | [Date With A Dream](https://open.spotify.com/album/3EXXFkUIEiElEPgxDlA2TO) | 4:12 |
@@ -74,10 +74,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 64 | [I Walk A Little Faster](https://open.spotify.com/track/5MC9fQiDNNfIbh8BiNwVjC) | [Nicki Parrott](https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7) | [Dear Blossom,](https://open.spotify.com/album/5lXAZnMB843uXypgYs3t5c) | 3:53 |
 | 65 | [I Can't Give You Anything](https://open.spotify.com/track/3lxhuJetgOct3FN47LvZmO) | [Anthony Strong](https://open.spotify.com/artist/6U57UDt8Ou4pLLvCSdvKHO) | [Me and My Radio](https://open.spotify.com/album/4wUjstEhEsldWRvESdpuNF) | 5:18 |
 | 66 | [Long Ago And Far Away](https://open.spotify.com/track/7fZvYBCwGukF0TBlCtLuXk) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Best Of..\. The Great American Songbook](https://open.spotify.com/album/6gx2SDPETBkF770SMNIVvg) | 3:12 |
-| 67 | [Deep in a Dream](https://open.spotify.com/track/16gccT3MmOuVrTPdBGJCBv) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [My Funny Valentine: The Chet Baker Songbook](https://open.spotify.com/album/2CtTsLssbJvp8iORyGOkwB) | 4:05 |
-| 68 | [The Man I Love](https://open.spotify.com/track/24tanGYdTNn3D3RoCXdr3W) | [Søs Fenger](https://open.spotify.com/artist/5TRVLzyHn2sEJsu1fwbv5S) | [On Holiday](https://open.spotify.com/album/1GPUhD5Ok6KhbsJw68Lmq4) | 4:45 |
-| 69 | [Cheek to Cheek](https://open.spotify.com/track/78nzY9fNwCTxpVxjh3ITWn) | [Ellas Kapell](https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb), [Magnus Lindgren](https://open.spotify.com/artist/1ai1y07cRSewaRoOsQ4BfN) | [Cheek to Cheek](https://open.spotify.com/album/6IRlKG1GX4XDN42ow8V3ot) | 7:03 |
-| 70 | [Mind If I Make Love To You](https://open.spotify.com/track/40DjEEXkrujfsOjeOwwis0) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [True Love: A Celebration Of Cole Porter](https://open.spotify.com/album/0irC2WRtxeSoJ33XpeDwyR) | 3:29 |
+| 67 | [The Man I Love](https://open.spotify.com/track/24tanGYdTNn3D3RoCXdr3W) | [Søs Fenger](https://open.spotify.com/artist/5TRVLzyHn2sEJsu1fwbv5S) | [On Holiday](https://open.spotify.com/album/1GPUhD5Ok6KhbsJw68Lmq4) | 4:45 |
+| 68 | [Deep in a Dream](https://open.spotify.com/track/16gccT3MmOuVrTPdBGJCBv) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [My Funny Valentine: The Chet Baker Songbook](https://open.spotify.com/album/2CtTsLssbJvp8iORyGOkwB) | 4:05 |
+| 69 | [Mind If I Make Love To You](https://open.spotify.com/track/40DjEEXkrujfsOjeOwwis0) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [True Love: A Celebration Of Cole Porter](https://open.spotify.com/album/0irC2WRtxeSoJ33XpeDwyR) | 3:29 |
+| 70 | [Cheek to Cheek](https://open.spotify.com/track/78nzY9fNwCTxpVxjh3ITWn) | [Ellas Kapell](https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb), [Magnus Lindgren](https://open.spotify.com/artist/1ai1y07cRSewaRoOsQ4BfN) | [Cheek to Cheek](https://open.spotify.com/album/6IRlKG1GX4XDN42ow8V3ot) | 7:03 |
 | 71 | [Bewitched](https://open.spotify.com/track/2ofpYfMA5QKWkyuZmSId8R) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [For You](https://open.spotify.com/album/0AYOXJV9OzRPDNhWnrMXeL) | 3:49 |
 | 72 | [The Very Thought of You](https://open.spotify.com/track/79Ri3SefpPjDQXFMYfGghm) | [Nnenna Freelon](https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS) | [Homefree](https://open.spotify.com/album/3Ausiihxo4ch3UYjYxvUqD) | 6:01 |
 | 73 | [For All We Know](https://open.spotify.com/track/3wKXSiJ2OqbqPUXpppnjWh) | [Mandy Barnett](https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO) | [Every Star Above](https://open.spotify.com/album/7EptFOAT6xWnPWJa9vDt4t) | 2:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 99 | [Prelude To A Kiss](https://open.spotify.com/track/16An9cGPQGi1W8s19ZdL87) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [In The Moonlight](https://open.spotify.com/album/3ZKm6JVnkkQiX5OTuNQElL) | 4:36 |
 | 100 | [A Time For Love](https://open.spotify.com/track/0Oho1Elt6nNyiHZyZR8OaG) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Surrender](https://open.spotify.com/album/5dFmnDotQPcuXAA2kdogmo) | 5:01 |
 
-Snapshot ID: `MCw5NWEwOWZmNDVmNzRjNjY1NWVmNzYyYjcxYzkyZDAxNzUwMDcxMTBh`
+Snapshot ID: `MCw3OGRlZmFmNzEzYmIwMGVlNGYxYWQxZDg3YzdkYTA4ZjM0ZTBiMDdi`

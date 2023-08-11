@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvhKV4FBciw.md) - [plain]
 
 > A selection of the greatest funk & soul records ever made.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,579,321 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,579,947 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvhKV4FBciw.md) - [plain]
 | 33 | [Soul Man](https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [Soul Men](https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK) | 2:39 |
 | 34 | [Everyday People](https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 2:21 |
 | 35 | [Ain't Nobody](https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc) | [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Stompin' At The Savoy](https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP) | 4:45 |
-| 36 | [I'm Every Woman](https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Chaka](https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC) | 4:09 |
-| 37 | [Rescue Me](https://open.spotify.com/track/1GY8zOFi8rC39xXnD0tKO8) | [Fontella Bass](https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA) | [The New Look](https://open.spotify.com/album/6PB1ExLaenkyov5q1NrSXd) | 2:51 |
+| 36 | [Rescue Me](https://open.spotify.com/track/1GY8zOFi8rC39xXnD0tKO8) | [Fontella Bass](https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA) | [The New Look](https://open.spotify.com/album/6PB1ExLaenkyov5q1NrSXd) | 2:51 |
+| 37 | [I'm Every Woman](https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Chaka](https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC) | 4:09 |
 | 38 | [Fantasy](https://open.spotify.com/track/0Eq4BMgsdV6DkLSJfX8eBt) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Best Of Earth, Wind & Fire Vol\. 1](https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7) | 3:46 |
 | 39 | [I'll Take You There](https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [The Very Best Of The Staple Singers](https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7) | 3:16 |
 | 40 | [California Soul](https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5) | [Marlena Shaw](https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w) | [The Spice Of Life](https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8) | 2:57 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvhKV4FBciw.md) - [plain]
 | 47 | [How Long Do I Have to Wait for You?](https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4) | 4:03 |
 | 48 | [Brick House](https://open.spotify.com/track/5VJjhHyG8NZ5xdgG6uTb3P) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Commodores](https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl) | 3:28 |
 | 49 | [In the Midnight Hour](https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [In the Midnight Hour](https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU) | 2:37 |
-| 50 | [Please Mr\. Postman \- Single Version / Mono](https://open.spotify.com/track/6jX5mso4x00c1EiNMrTU9U) | [The Marvelettes](https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH) | [Please Mr\. Postman](https://open.spotify.com/album/65n7GqedAHDVRWNh3msH1V) | 2:28 |
-| 51 | [Isn't She Lovely](https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 6:34 |
+| 50 | [Isn't She Lovely](https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 6:34 |
+| 51 | [Please Mr\. Postman \- Single Version / Mono](https://open.spotify.com/track/6jX5mso4x00c1EiNMrTU9U) | [The Marvelettes](https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH) | [Please Mr\. Postman](https://open.spotify.com/album/65n7GqedAHDVRWNh3msH1V) | 2:28 |
 | 52 | [Baby I Need Your Loving](https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Four Tops](https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm) | 2:46 |
 | 53 | [Can You Get To That](https://open.spotify.com/track/5lc9L9FeLBwlJPgEbq9uEw) | [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Maggot Brain](https://open.spotify.com/album/3ywVzrwMQ3Kq43N9zBdBQm) | 2:49 |
 | 54 | [All Night Long \- Single Version](https://open.spotify.com/track/4giIdAr7Plyu5LQzBOR4FP) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Back To Front](https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5) | 4:20 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvhKV4FBciw.md) - [plain]
 | 68 | [Across 110th Street](https://open.spotify.com/track/2zyTP97uGsIc1C4KNNEkyn) | [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq) | [Midnight Mover: The Bobby Womack Story](https://open.spotify.com/album/7eVKCG0KD8FCvIlx8E1pBG) | 3:50 |
 | 69 | [Knock on Wood](https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c) | [Eddie Floyd](https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF) | [Knock On Wood](https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF) | 3:09 |
 | 70 | [Baltimore](https://open.spotify.com/track/39CyGKIFqMzSuynOR8uilD) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Baltimore](https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS) | 4:38 |
-| 71 | [Right Place Wrong Time](https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [In The Right Place](https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq) | 2:55 |
-| 72 | [It Takes Two](https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Kim Weston](https://open.spotify.com/artist/71pUA2TXf3JHUPUgsjLtuL) | [Take Two](https://open.spotify.com/album/0My58U9zPnyq4TIZOr7brK) | 2:57 |
+| 71 | [It Takes Two](https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Kim Weston](https://open.spotify.com/artist/71pUA2TXf3JHUPUgsjLtuL) | [Take Two](https://open.spotify.com/album/0My58U9zPnyq4TIZOr7brK) | 2:57 |
+| 72 | [Right Place Wrong Time](https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [In The Right Place](https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq) | 2:55 |
 | 73 | [Express Yourself](https://open.spotify.com/track/4pW3aTX3kAmOaPJfc9UM12) | [Charles Wright & The Watts 103rd Street Rhythm Band](https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ) | [Express Yourself](https://open.spotify.com/album/2aUItMxwVnUJg4btjcUxC5) | 3:53 |
 | 74 | [Give Up The Funk \(Tear The Roof Off The Sucker\)](https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Mothership Connection](https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2) | 5:48 |
 | 75 | [Stomp! \- Single Version](https://open.spotify.com/track/3EG65y2LtxWjfydabHdItb) | [The Brothers Johnson](https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD) | [Strawberry Letter 23: The Very Best Of The Brothers Johnson](https://open.spotify.com/album/4DUmxqvkQn3UJgDLjlYsyX) | 4:07 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvhKV4FBciw.md) - [plain]
 | 79 | [Proud Mary](https://open.spotify.com/track/4ppxp8rJB8eOhM9TFm6dK2) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Workin' Together](https://open.spotify.com/album/5BFTZqoJ1aCn80FKB0GkXL) | 4:57 |
 | 80 | [Back Stabbers](https://open.spotify.com/track/0KpMY3D2G8253VTZbDBUmA) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 3:06 |
 
-Snapshot ID: `MCwwNGNlMzg3Y2M4OGFhYzUzODMxZGE0MDdjZDg1M2MyZDRmMjNiZjU0`
+Snapshot ID: `MCw0ZjM3Y2FhNmI3OTgyYTVkNDAxOTYyYzE4NjlmZTY3ZDA5NjRhZTg4`

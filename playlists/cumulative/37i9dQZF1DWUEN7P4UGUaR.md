@@ -4,7 +4,7 @@
 
 > Fresh gospel music from Ghana\. Cover: Nacee
 
-66 songs - 5 hr 52 min
+67 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Mehyia Yesu](https://open.spotify.com/track/65T99WARm5ZKGigiN4cLZC) | [Omari Kissi Jnr](https://open.spotify.com/artist/1PAXq5GrcinmMPRvUzilwd) | [Mehyia Yesu](https://open.spotify.com/album/0q5QYDFWMtsriypN3zIgKp) | 8:38 | 2023-04-06 |  |
 | [Mensuro](https://open.spotify.com/track/6geMEaOz4kZReH6wgfh2IO) | [Miriam Afari](https://open.spotify.com/artist/0L2izWZGS4EwYXZgOqu3eR) | [Mensuro](https://open.spotify.com/album/2j9sRrruqPzeRUhnnIf5TK) | 6:44 | 2023-04-06 |  |
 | [More](https://open.spotify.com/track/3YzVHJmmQAuGFdrX6yPHyn) | [Irene Logan](https://open.spotify.com/artist/5E0zjnKqKIVeXOPSiIhnUz) | [More](https://open.spotify.com/album/7xfrnuQPFXGHNLfKBi54fk) | 5:21 | 2023-04-06 |  |
-| [My Alabaster](https://open.spotify.com/track/3Q6SskhzdXnnwVUQ9a4F7y) | [DenniS](https://open.spotify.com/artist/5KAy8GO8DyyokO4vqP7TJZ) | [My Alabaster](https://open.spotify.com/album/3cBCmxXML7UVczDD3tWywl) | 8:34 | 2023-04-06 |  |
+| [My Alabaster](https://open.spotify.com/track/3Q6SskhzdXnnwVUQ9a4F7y) | [DenniS](https://open.spotify.com/artist/5KAy8GO8DyyokO4vqP7TJZ) | [My Alabaster](https://open.spotify.com/album/3cBCmxXML7UVczDD3tWywl) | 8:34 | 2023-04-06 | 2023-08-11 |
 | [My Everything](https://open.spotify.com/track/381k7MHOPFzsT27BvwoPPe) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Wind of Revival](https://open.spotify.com/album/6ypXVhmNdq43YpKBGvutxY) | 4:41 | 2023-04-06 |  |
 | [Nkunim \(The Victory Song\)](https://open.spotify.com/track/57S84dg7sXUWXUj0ZNP1X8) | [Carl Clottey](https://open.spotify.com/artist/6gfnKDWsTRi84l2hjKod2R) | [Nkunim \(The Victory Song\)](https://open.spotify.com/album/2G7yF1iLgKxjMjcNxbhEOB) | 6:49 | 2023-04-06 |  |
 | [Nyame Tumfo \(Live\)](https://open.spotify.com/track/30uN5hIhQLOjJTlXC8RKPn) | [KOFI OWUSU PEPRAH](https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1) | [Live in Kumasi](https://open.spotify.com/album/4Cjdnmhpz6b8gbBhqRKCaz) | 4:40 | 2023-04-06 |  |
@@ -59,6 +59,7 @@
 | [Perfect Love \(Romans 8:38\-39\)](https://open.spotify.com/track/45Jaa9BfSzCWck93WKD9EA) | [De.ViZION](https://open.spotify.com/artist/73WpLtkNbaWoFvefZcOdtB) | [Perfect Love \(Romans 8:38\-39\)](https://open.spotify.com/album/4jYS7PnRh5Pv2ym6pmmmOe) | 2:56 | 2023-06-09 | 2023-06-23 |
 | [Prayer for deliverance](https://open.spotify.com/track/2jhwlIEH1BxJRkaSZ5fIo9) | [Broda Harrison](https://open.spotify.com/artist/1Jcdhjzaz05RRGus6usY5t) | [Prayer for deliverance](https://open.spotify.com/album/34jI0eSmUWkeqnZe8xKCth) | 1:34 | 2023-04-20 |  |
 | [Se Mekume Ho](https://open.spotify.com/track/3ojCyHzmRr5hNsEn4zeTqH) | [Ceccy Twum](https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz) | [Golden Oil](https://open.spotify.com/album/4F6PfioAlt3AZzSfb4fhZm) | 4:34 | 2023-04-06 |  |
+| [Show Them](https://open.spotify.com/track/1bVjodrkljnU6ROYr8PIrz) | [Ewura Abena](https://open.spotify.com/artist/66omcxaARiacfGoXuXiHXQ) | [REBIRTH \(Mary's Child\)](https://open.spotify.com/album/2wdYkIbwZzoEw2L5m29G9t) | 4:19 | 2023-08-10 |  |
 | [Something New](https://open.spotify.com/track/6Lq74XHSPBqMmoWQoqtVZa) | [Kofi Karikari](https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE) | [Lifted High](https://open.spotify.com/album/5jUhgQlpgBvDGjW8GnLKLF) | 3:23 | 2023-06-09 |  |
 | [Style Bia Bi](https://open.spotify.com/track/0Eu8dLMDhMDrtHeRLRKzdc) | [Great Ampong](https://open.spotify.com/artist/0J8lvyQgeJId1xoC2D1jRg) | [Style Bia Bi](https://open.spotify.com/album/0h2kD49Ru5nAGuEIly7JlK) | 4:09 | 2023-04-06 | 2023-05-19 |
 | [Style Bia Bi](https://open.spotify.com/track/2nRxaDdtIeUrkRjb8EzqRM) | [Great Ampong](https://open.spotify.com/artist/0J8lvyQgeJId1xoC2D1jRg) | [Style Bia Bi](https://open.spotify.com/album/3TjCSAi7cH306yVB8b8g3f) | 4:09 | 2023-04-20 | 2023-06-10 |

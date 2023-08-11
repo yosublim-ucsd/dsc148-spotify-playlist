@@ -4,7 +4,7 @@
 
 > The essential pop rock songs from the 2000s\. Cover: Kelly Clarkson.
 
-147 songs - 9 hr 43 min
+148 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Falling Down \(feat\. Justin Timberlake\)](https://open.spotify.com/track/3DouEusx0IYHCPhTQcpFJo) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Red Carpet Massacre](https://open.spotify.com/album/7a1fHsFj4oYVkMtYMzjOXy) | 5:39 | 2021-03-19 | 2022-06-17 |
 | [Far Away](https://open.spotify.com/track/0ADZ5dmXhlfzjMw6lefoPl) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [All the Right Reasons](https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3) | 3:58 | 2020-10-28 |  |
 | [Flavor Of The Weak](https://open.spotify.com/track/1UkMAtLU8NxsddE7j4zXGO) | [American Hi\-Fi](https://open.spotify.com/artist/4XlcLj6bxCnpBIOHmBpIWP) | [American Hi\-Fi](https://open.spotify.com/album/3lFnWZBoKJiMZiCOG8WQdU) | 3:08 | 2022-03-23 | 2023-08-07 |
+| [Flavor Of The Weak](https://open.spotify.com/track/5wjQihzWIKgBc1hzf5work) | [American Hi\-Fi](https://open.spotify.com/artist/4XlcLj6bxCnpBIOHmBpIWP) | [American Hi\-Fi](https://open.spotify.com/album/418rqqXvvFf4XXlU2cQWck) | 3:08 | 2023-01-18 |  |
 | [Fly To Me](https://open.spotify.com/track/3Bf9nv32awaGVdviHbmp8Q) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [The Best Of Keane \(Deluxe Edition\)](https://open.spotify.com/album/6VYlEGQqJBMJR4vksRpM1d) | 5:32 | 2020-10-28 | 2022-07-18 |
 | [Girlfriend](https://open.spotify.com/track/45hOioMDJktr86iKDHC8gr) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing \(Expanded Edition\)](https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38) | 3:36 | 2020-10-28 |  |
 | [Gives You Hell](https://open.spotify.com/track/5gb9UJkh8TfrNMRYOJNbew) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [When The World Comes Down](https://open.spotify.com/album/5doKZJ05r4UbAp9rmpDRDD) | 3:33 | 2020-10-28 |  |
@@ -60,7 +61,7 @@
 | [How to Save a Life](https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 4:22 | 2020-10-28 |  |
 | [How You Remind Me](https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Silver Side Up](https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u) | 3:43 | 2022-03-23 |  |
 | [Human](https://open.spotify.com/track/1sTsuZTdANkiFd7T34H3nb) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Day & Age \(Bonus Tracks\)](https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw) | 4:05 | 2020-10-28 |  |
-| [I Can't Stay](https://open.spotify.com/track/2zdpz8sk3rkh0fLYabLjmj) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Day & Age \(Bonus Tracks\)](https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw) | 3:05 | 2020-10-28 |  |
+| [I Can't Stay](https://open.spotify.com/track/2zdpz8sk3rkh0fLYabLjmj) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Day & Age \(Bonus Tracks\)](https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw) | 3:05 | 2020-10-28 | 2023-08-11 |
 | [I Don't Want to Be](https://open.spotify.com/track/6ich2xMH5AR39V85miIAN8) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Chariot \- Stripped](https://open.spotify.com/album/0Fm4Qx8IVHEEBYPeRzNUGI) | 3:37 | 2020-10-28 |  |
 | [I Thought I'd Seen Everything](https://open.spotify.com/track/0sx4smMhPl7RY0a2FAenEj) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [11](https://open.spotify.com/album/3ZJiY47Gal46S0QEgC1EEI) | 5:06 | 2020-10-28 | 2022-07-29 |
 | [I'll Keep Your Memory Vague](https://open.spotify.com/track/1RYy00jUPPA8Dr8nTuRb05) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n) | [Them Vs\. You Vs\. Me \(Deluxe Edition\)](https://open.spotify.com/album/2pCfqddO9tLKRz3wzSNGsZ) | 3:46 | 2020-10-28 | 2022-11-13 |

@@ -1,12 +1,12 @@
 {
   "description": "Der Soundtrack f\u00fcr deinen Sommer \u2600\ufe0f",
-  "num_followers": 1269780,
+  "num_followers": 1269977,
   "original_name": "Sommergef\u00fchle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWNhZjc0NDVjYmE0YjQ1N2E2ZDY0ZjVkODNiOWYxMjkyOTRmYTRj",
+  "snapshot_id": "MCwyODRjZGRiZDhmYjJjYTg3NDlmNjg5NzE5MzdhMjJiMDI1MDdhNTI2",
   "tracks": [
     {
       "added_at": "2023-07-28 08:47:36",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-07-28 08:47:36",
       "album": {
-        "name": "people pleaser / sleep at night",
-        "url": "https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 146654,
-      "name": "people pleaser",
-      "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
-    },
-    {
-      "added_at": "2023-07-28 08:47:36",
-      "album": {
         "name": "sommer (feat. CRO)",
         "url": "https://open.spotify.com/album/4UK5FLZLXuCFJwtNZg8l8L"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 171743,
       "name": "sommer (feat. CRO)",
       "url": "https://open.spotify.com/track/1SaSTeiR7cqi5fUXZlGr4e"
+    },
+    {
+      "added_at": "2023-07-28 08:47:36",
+      "album": {
+        "name": "people pleaser / sleep at night",
+        "url": "https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 146654,
+      "name": "people pleaser",
+      "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
     },
     {
       "added_at": "2023-07-28 08:47:36",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-07-28 08:47:36",
       "album": {
-        "name": "SUMMER VIBES",
-        "url": "https://open.spotify.com/album/437rnm8NI94QYbp38sMYR2"
-      },
-      "artists": [
-        {
-          "name": "Tyla Yaweh",
-          "url": "https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr"
-        }
-      ],
-      "duration_ms": 146587,
-      "name": "SUMMER VIBES",
-      "url": "https://open.spotify.com/track/6wwz6BVFrr31EHXoBpA7NC"
-    },
-    {
-      "added_at": "2023-07-28 08:47:36",
-      "album": {
         "name": "Wet Dream",
         "url": "https://open.spotify.com/album/2EVCxBosAlVsC0d7DAJXCA"
       },
@@ -727,18 +711,18 @@
     {
       "added_at": "2023-07-28 08:47:36",
       "album": {
-        "name": "Sunsetter",
-        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
+        "name": "SUMMER VIBES",
+        "url": "https://open.spotify.com/album/437rnm8NI94QYbp38sMYR2"
       },
       "artists": [
         {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+          "name": "Tyla Yaweh",
+          "url": "https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr"
         }
       ],
-      "duration_ms": 228853,
-      "name": "Take You Higher",
-      "url": "https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP"
+      "duration_ms": 146587,
+      "name": "SUMMER VIBES",
+      "url": "https://open.spotify.com/track/6wwz6BVFrr31EHXoBpA7NC"
     },
     {
       "added_at": "2023-07-28 08:47:36",
@@ -759,6 +743,22 @@
     {
       "added_at": "2023-07-28 08:47:36",
       "album": {
+        "name": "Sunsetter",
+        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 228853,
+      "name": "Take You Higher",
+      "url": "https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP"
+    },
+    {
+      "added_at": "2023-07-28 08:47:36",
+      "album": {
         "name": "20s",
         "url": "https://open.spotify.com/album/4CAB4B2b8yi1NYcqmz3ZDc"
       },
@@ -771,26 +771,6 @@
       "duration_ms": 184457,
       "name": "20s",
       "url": "https://open.spotify.com/track/62Vz24WH66GYadBPFJKwT7"
-    },
-    {
-      "added_at": "2023-07-28 08:47:36",
-      "album": {
-        "name": "Head on Fire",
-        "url": "https://open.spotify.com/album/4M4Ekef97nQCzxxxC7z6hg"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        },
-        {
-          "name": "Sigrid",
-          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
-        }
-      ],
-      "duration_ms": 188645,
-      "name": "Head on Fire",
-      "url": "https://open.spotify.com/track/6QLNcOI6YCqdLAS6GLWXMj"
     },
     {
       "added_at": "2023-07-28 08:47:36",
@@ -811,6 +791,26 @@
       "duration_ms": 213733,
       "name": "Freak Me Now (with R\u00f3is\u00edn Murphy)",
       "url": "https://open.spotify.com/track/1iZsKjjHVeFV7jQijZszZc"
+    },
+    {
+      "added_at": "2023-07-28 08:47:36",
+      "album": {
+        "name": "Head on Fire",
+        "url": "https://open.spotify.com/album/4M4Ekef97nQCzxxxC7z6hg"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        },
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        }
+      ],
+      "duration_ms": 188645,
+      "name": "Head on Fire",
+      "url": "https://open.spotify.com/track/6QLNcOI6YCqdLAS6GLWXMj"
     },
     {
       "added_at": "2023-07-28 08:47:36",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-07-28 08:47:36",
       "album": {
-        "name": "Wir haben den Winter \u00fcberlebt",
-        "url": "https://open.spotify.com/album/16j5gY7gqDM1phRVqzgrbL"
-      },
-      "artists": [
-        {
-          "name": "JEREMIAS",
-          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
-        }
-      ],
-      "duration_ms": 213851,
-      "name": "Wir haben den Winter \u00fcberlebt",
-      "url": "https://open.spotify.com/track/07kPTchc4mhslGur0QF6lj"
-    },
-    {
-      "added_at": "2023-07-28 08:47:36",
-      "album": {
         "name": "Canaries in a Coal Mine",
         "url": "https://open.spotify.com/album/6w8FlpM4WCoQNK94V0xruX"
       },
@@ -1051,18 +1035,18 @@
     {
       "added_at": "2023-07-28 08:47:36",
       "album": {
-        "name": "Sie",
-        "url": "https://open.spotify.com/album/1cX0czWPIRtDrC5kdMiNB1"
+        "name": "Wir haben den Winter \u00fcberlebt",
+        "url": "https://open.spotify.com/album/16j5gY7gqDM1phRVqzgrbL"
       },
       "artists": [
         {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
         }
       ],
-      "duration_ms": 201226,
-      "name": "Sie",
-      "url": "https://open.spotify.com/track/07gGSxcPN5iEnszYgtx73S"
+      "duration_ms": 213851,
+      "name": "Wir haben den Winter \u00fcberlebt",
+      "url": "https://open.spotify.com/track/07kPTchc4mhslGur0QF6lj"
     },
     {
       "added_at": "2023-07-28 08:47:36",
@@ -1079,6 +1063,22 @@
       "duration_ms": 221873,
       "name": "It's Been a Little Heavy Lately",
       "url": "https://open.spotify.com/track/6z8ovqE9jd2IatNvOfFq7S"
+    },
+    {
+      "added_at": "2023-07-28 08:47:36",
+      "album": {
+        "name": "Sie",
+        "url": "https://open.spotify.com/album/1cX0czWPIRtDrC5kdMiNB1"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "duration_ms": 201226,
+      "name": "Sie",
+      "url": "https://open.spotify.com/track/07gGSxcPN5iEnszYgtx73S"
     },
     {
       "added_at": "2023-07-28 08:47:36",

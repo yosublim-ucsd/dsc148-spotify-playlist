@@ -4,7 +4,7 @@
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-139 songs - 8 hr 26 min
+140 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Can't Let You Go \(feat\. King Promise\)](https://open.spotify.com/track/60HGKB4wbcZhClLTYIjzNw) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Black Love](https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct) | 3:43 | 2021-12-28 |  |
 | [CCTV](https://open.spotify.com/track/6t2gwKDfIKmpB52te0mmXM) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mugeez](https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [As Promised](https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX) | 4:13 | 2022-09-10 |  |
 | [CEO FLOW](https://open.spotify.com/track/4iF0umElVzYWpHe9zRJzZE) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [CEO FLOW](https://open.spotify.com/album/3VFxOFL1DWLq1naU93Ab0P) | 3:42 | 2021-12-29 | 2023-07-22 |
+| [Check My Zingo](https://open.spotify.com/track/6FXsUcro2Lcje0JJIzeliz) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Check My Zingo](https://open.spotify.com/album/7IlhASuywpVLYMWHvDvCn4) | 3:33 | 2023-08-10 |  |
 | [Chingam \(feat\. Bisa Kdei\)](https://open.spotify.com/track/4Ql8dfmVkKEVz0ZMnvw8xi) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Chingam \(feat\. Bisa Kdei\)](https://open.spotify.com/album/3STRd9O0d5Q2zs10bEoyJs) | 3:34 | 2021-12-28 |  |
 | [Coachella](https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Coachella](https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh) | 3:05 | 2021-12-28 |  |
 | [COLD](https://open.spotify.com/track/3GWjL519XWevcfq8cd2dHR) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [COLD](https://open.spotify.com/album/17D5HFmFoB15edwDAS7nt0) | 2:09 | 2021-12-28 |  |
@@ -36,7 +37,7 @@
 | [Cougar \(feat\. Lojay\)](https://open.spotify.com/track/2a6AVT30VFGQ1ceA6PE3cA) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 3:29 | 2022-11-13 |  |
 | [Country Side \(feat\. Black Sherif\)](https://open.spotify.com/track/0l5PUtqMNfggchPClxUBhS) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 3:40 | 2022-11-12 |  |
 | [Dear Rap](https://open.spotify.com/track/5kLuuG5Qs5upHUQCP05RoS) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 2:22 | 2022-06-26 | 2022-09-11 |
-| [Deserve My Love](https://open.spotify.com/track/0Z1oJJMRDfZxAi3uvRxQJQ) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 2:40 | 2021-12-28 |  |
+| [Deserve My Love](https://open.spotify.com/track/0Z1oJJMRDfZxAi3uvRxQJQ) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 2:40 | 2021-12-28 | 2023-08-11 |
 | [Didi \(feat\. Kelvynboy & Strongman\)](https://open.spotify.com/track/0jVd212WpucXRGRR6m5Quc) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kelvynboy](https://open.spotify.com/artist/1ILezeIGUwWL0L3UT6vnEF), [Strongman](https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9) | [Didi \(feat\. Kelvynboy & Strongman\)](https://open.spotify.com/album/76Q4XFRm6azY8a1FzE8Dpw) | 3:50 | 2021-12-29 | 2022-10-05 |
 | [Do You \(feat\. Mr Eazi\)](https://open.spotify.com/track/26F2A18Auc3BJZxK2F0dLs) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Black Love](https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct) | 3:23 | 2021-12-28 | 2022-10-01 |
 | [Don't Cry \(feat\. Benerl\)](https://open.spotify.com/track/4gSNoczwZgkB0Wz6xxjaoT) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Benerl](https://open.spotify.com/artist/6FpN7gwehZgxVAgVHUMh1L) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 3:52 | 2021-12-30 | 2022-08-17 |

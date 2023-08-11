@@ -1,12 +1,12 @@
 {
   "description": "Your very own time capsule: a nostalgic look back on the past four years.",
-  "num_followers": 363,
+  "num_followers": 365,
   "original_name": "CLASS OF 2020 mixtape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTg3M2VmMjlkOTRhZDRlNTgzZTViYThlMmZmODg0OGUxNjZlNjcx",
+  "snapshot_id": "MCxiMjA0MGVhNmRiMjY1MjgzNjA0YzZkNDQ0YWFiOTMzYzZmZTE1Mjcw",
   "tracks": [
     {
       "added_at": "2020-06-26 19:55:08",
@@ -279,6 +279,22 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 206693,
+      "name": "That's What I Like",
+      "url": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
         "name": "Memories...Do Not Open",
         "url": "https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 247160,
       "name": "Something Just Like This",
       "url": "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 206693,
-      "name": "That's What I Like",
-      "url": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -411,22 +411,6 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 207133,
-      "name": "Adore You",
-      "url": "https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
         "name": "Divinely Uninspired To A Hellish Extent (Extended Edition)",
         "url": "https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 215106,
       "name": "Before You Go",
       "url": "https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 207133,
+      "name": "Adore You",
+      "url": "https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -651,6 +651,26 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
+        "name": "Black Panther The Album Music From And Inspired By",
+        "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 232186,
+      "name": "All The Stars (with SZA)",
+      "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
         "name": "thank u, next",
         "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
       },
@@ -679,26 +699,6 @@
       "duration_ms": 340706,
       "name": "Sign of the Times",
       "url": "https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
-        "name": "Black Panther The Album Music From And Inspired By",
-        "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 232186,
-      "name": "All The Stars (with SZA)",
-      "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -791,6 +791,22 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
+        "name": "Voicenotes",
+        "url": "https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 208786,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
         "name": "DAMN.",
         "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 213400,
       "name": "LOVE. FEAT. ZACARI.",
       "url": "https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
-        "name": "Voicenotes",
-        "url": "https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 208786,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -911,6 +911,22 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
+        "name": "T R A P S O U L",
+        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 198293,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/3pXF1nA74528Edde4of9CC"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
         "name": "Happier",
         "url": "https://open.spotify.com/album/78EicdHZr5XBWD7llEZ1Jh"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 214289,
       "name": "Happier",
       "url": "https://open.spotify.com/track/2dpaYNEQHiRxtZbfNsse99"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
-        "name": "T R A P S O U L",
-        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 198293,
-      "name": "Don't",
-      "url": "https://open.spotify.com/track/3pXF1nA74528Edde4of9CC"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "Please Excuse Me for Being Antisocial",
-        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
+        "name": "MIDDLE CHILD",
+        "url": "https://open.spotify.com/album/3XzSOIE6zGLliuqsVGLmUc"
       },
       "artists": [
         {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 196652,
-      "name": "The Box",
-      "url": "https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I"
+      "duration_ms": 213593,
+      "name": "MIDDLE CHILD",
+      "url": "https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "MIDDLE CHILD",
-        "url": "https://open.spotify.com/album/3XzSOIE6zGLliuqsVGLmUc"
+        "name": "Please Excuse Me for Being Antisocial",
+        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
       },
       "artists": [
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
         }
       ],
-      "duration_ms": 213593,
-      "name": "MIDDLE CHILD",
-      "url": "https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8"
+      "duration_ms": 196652,
+      "name": "The Box",
+      "url": "https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "American Teen",
-        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 202546,
-      "name": "Young Dumb & Broke",
-      "url": "https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/2bw00gRKNKbTFOqCkohbSh"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 180822,
       "name": "Silence",
       "url": "https://open.spotify.com/track/7vGuf3Y35N4wmASOKLUVVU"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
+        "name": "American Teen",
+        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 202546,
+      "name": "Young Dumb & Broke",
+      "url": "https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "Heaven Or Hell",
-        "url": "https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 154424,
-      "name": "No Idea",
-      "url": "https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
         "name": "\u00f7 (Deluxe)",
         "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 261153,
       "name": "Castle on the Hill",
       "url": "https://open.spotify.com/track/6PCUP3dWmTjcTtXY02oFdT"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
+        "name": "Heaven Or Hell",
+        "url": "https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 154424,
+      "name": "No Idea",
+      "url": "https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "DAMN.",
-        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 185946,
-      "name": "DNA.",
-      "url": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
         "name": "In My Mind",
         "url": "https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 184560,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 185946,
+      "name": "DNA.",
+      "url": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -2403,22 +2403,6 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "Nicotine",
-        "url": "https://open.spotify.com/album/0D7yJonn41qsrIQ7YdWk2z"
-      },
-      "artists": [
-        {
-          "name": "Trevor Daniel",
-          "url": "https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT"
-        }
-      ],
-      "duration_ms": 159381,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/0Aqi7ArnBrGblW5T6p2jmD"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
         "name": "us",
         "url": "https://open.spotify.com/album/3L0H4RjVXpEkwfDgi3XOdf"
       },
@@ -2435,6 +2419,46 @@
       "duration_ms": 251033,
       "name": "i hate u, i love u (feat. olivia o'brien)",
       "url": "https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
+        "name": "Nicotine",
+        "url": "https://open.spotify.com/album/0D7yJonn41qsrIQ7YdWk2z"
+      },
+      "artists": [
+        {
+          "name": "Trevor Daniel",
+          "url": "https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT"
+        }
+      ],
+      "duration_ms": 159381,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/0Aqi7ArnBrGblW5T6p2jmD"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
+        "name": "Wake Up in the Sky",
+        "url": "https://open.spotify.com/album/7mkyc2BUahNfo0orKzqNGB"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 204664,
+      "name": "Wake Up in the Sky",
+      "url": "https://open.spotify.com/track/0QIjsbm2fh1cJ45XO9eGqq"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -2491,30 +2515,6 @@
       "duration_ms": 183290,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
-        "name": "Wake Up in the Sky",
-        "url": "https://open.spotify.com/album/7mkyc2BUahNfo0orKzqNGB"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 204664,
-      "name": "Wake Up in the Sky",
-      "url": "https://open.spotify.com/track/0QIjsbm2fh1cJ45XO9eGqq"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -2591,22 +2591,6 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "Suncity",
-        "url": "https://open.spotify.com/album/2Qxc2NJ7yPKVFRWi3llRr2"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 229320,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/6zeeWid2sgw4lap2jV61PZ"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
         "name": "ROXANNE",
         "url": "https://open.spotify.com/album/6HJDrXs0hpebaRFKA1sF90"
       },
@@ -2619,6 +2603,22 @@
       "duration_ms": 163636,
       "name": "ROXANNE",
       "url": "https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
+        "name": "American Teen",
+        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 219080,
+      "name": "Location",
+      "url": "https://open.spotify.com/track/152lZdxL1OR0ZMW6KquMif"
     },
     {
       "added_at": "2020-06-26 19:55:08",

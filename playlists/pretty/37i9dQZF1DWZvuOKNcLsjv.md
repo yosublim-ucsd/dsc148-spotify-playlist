@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Lauv
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,334 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,351 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [Stars](https://open.spotify.com/track/0L5dwOLG1xpw9oD5FcyQak) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Stars](https://open.spotify.com/album/3nShNINlg4p0DhOQAfIKQt) | 2:51 |
 | 100 | [Candlelight \- Spotify Singles](https://open.spotify.com/track/326EM9zAMPmr1JkGtzHnH6) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Spotify Singles](https://open.spotify.com/album/7ChLJ2d4pLNKIrLSuGl8Df) | 3:21 |
 
-Snapshot ID: `MCw0Mzc5Y2JiYWVkMTA5YTUwNzc1MjZlNDAyYTJiZWRjNjg0MzFlNzli`
+Snapshot ID: `MCw2YWVjYmE3MzAwOGFlZjJhMjk3NDY4OTQ3ZWE4YmFlMzIyNmYwYmQ2`

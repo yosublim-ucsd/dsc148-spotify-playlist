@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 
 > You better duck, when I show you up, the goo goo muck! The Cramps on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 647,415 likes - 80 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 647,963 likes - 80 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,12 +32,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 22 | [Temple of Love \- 1992](https://open.spotify.com/track/53O11dqezFoFYaaMjr1SPP) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Some Girls Wander by Mistake](https://open.spotify.com/album/5fdbQYbqTnCLNTibBdoerT) | 8:08 |
 | 23 | [Cuts You Up](https://open.spotify.com/track/1rnoM73nG7HsyOqV5X7lPF) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Deep](https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa) | 5:27 |
 | 24 | [So Alive](https://open.spotify.com/track/7pfP8Z9M9KRUtzTLcnjem5) | [Love and Rockets](https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg) | [Love and Rockets](https://open.spotify.com/album/3lqy9ZOzLlwDTfXOkpubgU) | 4:17 |
-| 25 | [Fantasmas](https://open.spotify.com/track/07LRjvNrvSE311BWlwRptq) | [Twin Tribes](https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl) | [Ceremony](https://open.spotify.com/album/1PXN2w8N4kg4rd8i2ri711) | 3:10 |
+| 25 | [Song To The Siren \- Remastered](https://open.spotify.com/track/26uVYNtKahTAcZMDWiuBnt) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [It'll End In Tears \(Remastered\)](https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j) | 3:31 |
 | 26 | [Pictures of You \- 2010 Remaster](https://open.spotify.com/track/1tuwC1Ob5vnYZhvg3zyzJg) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg) | 7:28 |
 | 27 | [Christian Woman](https://open.spotify.com/track/3634aKisKlGdUfD9V3MOY5) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Bloody Kisses \(Top Shelf Edition\)](https://open.spotify.com/album/22PP61GmfGKAhIQo2ZSRxG) | 8:58 |
 | 28 | [Dark Entries](https://open.spotify.com/track/67MkU3b7k2fBL6oHHUiM09) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [In the Flat Field](https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w) | 3:51 |
 | 29 | [Serpentskirt](https://open.spotify.com/track/5D8SzvASRr7V7ZrrXsh6SY) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Milk & Kisses](https://open.spotify.com/album/2xWjRAaO5qYhsJSxmJp1IK) | 3:57 |
-| 30 | [Song To The Siren \- Remastered](https://open.spotify.com/track/26uVYNtKahTAcZMDWiuBnt) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [It'll End In Tears \(Remastered\)](https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j) | 3:31 |
+| 30 | [Fantasmas](https://open.spotify.com/track/07LRjvNrvSE311BWlwRptq) | [Twin Tribes](https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl) | [Ceremony](https://open.spotify.com/album/1PXN2w8N4kg4rd8i2ri711) | 3:10 |
 | 31 | [Arabian Knights](https://open.spotify.com/track/2o1Deu2r99ZkkQwQ27LnZd) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju](https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb) | 3:05 |
 | 32 | [More](https://open.spotify.com/track/2UV9ahm7JUWHN1zQAoocEq) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Vision Thing](https://open.spotify.com/album/0FGRMEpiqcJeHNuf4IsfOK) | 8:23 |
 | 33 | [Sacrifice](https://open.spotify.com/track/4EJjwH5VKFYfhjji1lDmiH) | [London After Midnight](https://open.spotify.com/artist/51mEqzVhG2n9nD2kBAnWer) | [Selected Scenes from the End of the World](https://open.spotify.com/album/7MKdR8w1oTeEaekfZ4LbsN) | 7:35 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 45 | [Reptile](https://open.spotify.com/track/29Znt9AbEH9FSsw86zPAYT) | [The Church](https://open.spotify.com/artist/2ZfogSsOWP4mVfEqfpLXCt) | [Starfish](https://open.spotify.com/album/3gz1CZk5wFg2inBuUWDa8x) | 4:55 |
 | 46 | [Monitor](https://open.spotify.com/track/1gnZ2VCdVUHSgiBKrzdeK8) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju](https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb) | 5:34 |
 | 47 | [30 Century Man](https://open.spotify.com/track/6u0EHlRPgUIfER7ZAE4x6Q) | [Scott Walker](https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq) | [Scott 3](https://open.spotify.com/album/5ofQcOqaopFUp7VO5UYzpI) | 1:26 |
-| 48 | [Love Like Blood](https://open.spotify.com/track/14z3RzUHeZQgtpOlSYvmZD) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Night Time](https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm) | 6:48 |
-| 49 | [Falling](https://open.spotify.com/track/31CYUJj5f9lbQ0Qqm9PzK5) | [Julee Cruise](https://open.spotify.com/artist/4Pt1HZtuJwrQB8l0ES5iTX) | [Floating Into The Night](https://open.spotify.com/album/3N6VPyK0YsRTccqoRQjkVx) | 5:21 |
+| 48 | [Falling](https://open.spotify.com/track/31CYUJj5f9lbQ0Qqm9PzK5) | [Julee Cruise](https://open.spotify.com/artist/4Pt1HZtuJwrQB8l0ES5iTX) | [Floating Into The Night](https://open.spotify.com/album/3N6VPyK0YsRTccqoRQjkVx) | 5:21 |
+| 49 | [Love Like Blood](https://open.spotify.com/track/14z3RzUHeZQgtpOlSYvmZD) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Night Time](https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm) | 6:48 |
 | 50 | [Kick in the Eye](https://open.spotify.com/track/1WmDtKY1clNiRdc5xY8Bms) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [Mask](https://open.spotify.com/album/6Cj5mXjHSi8eJ5jOAI8tsV) | 3:40 |
 | 51 | [Wax And Wane](https://open.spotify.com/track/1pCaxskZpChEzo3ZTeUFwH) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Garlands](https://open.spotify.com/album/3yT1f4nGSy3BBw4ghtRF29) | 4:04 |
 | 52 | [Kangaroo \- Remastered](https://open.spotify.com/track/2HsOICaAi5bwnqyG7uO1Fo) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [It'll End In Tears \(Remastered\)](https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j) | 3:29 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 79 | [For Her Light](https://open.spotify.com/track/72mNXIGJyhuC4NQS4AvvBQ) | [Fields Of The Nephilim](https://open.spotify.com/artist/3m8KqUjgKDwmJ9L9uBHMMs) | [Elizium](https://open.spotify.com/album/5hFGua73w06tkEYkvA03kB) | 3:01 |
 | 80 | [The Shadow Of Love](https://open.spotify.com/track/4QaOESIMfFp1MYOOOBHXrE) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [Phantasmagoria](https://open.spotify.com/album/1uLToBhDc3RDVXJhhZ0yK2) | 3:49 |
 
-Snapshot ID: `MCw3ZDRmMGI2ODcwMDk5MWU0NGUzYjMzODU0NGNkMDg0NjdkZGZjOGIy`
+Snapshot ID: `MCw1ZTAxMTA4NmJkYTllYTkyM2M5ZmIxOTJiOWNiMWY3NDdiYzY1ZGEx`

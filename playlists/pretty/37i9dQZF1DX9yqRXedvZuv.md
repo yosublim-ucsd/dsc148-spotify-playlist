@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9yqRXedvZuv.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/zackbia/">Zack Bia</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,717 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,716 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9yqRXedvZuv.md) - [plain]
 | 49 | [BUZZIN' \(feat\. Lil Yachty & Murda Beatz\)](https://open.spotify.com/track/3PIRRhdrbPdwXXXQmZgjMn) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 3:30 |
 | 50 | [Proud](https://open.spotify.com/track/6QnmXF5D5CH0WM9F7Nz3xt) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL) | [Proud](https://open.spotify.com/album/2gWZLUStRmDNXSq8oHA3z0) | 2:38 |
 
-Snapshot ID: `MCw3M2M0ODE0M2UyOTk5MGVjMjcwMWE2YjM1YjM5YTUyNTA0YjQ3MTY4`
+Snapshot ID: `MCxlNTZiOGRlN2QxZTcxZmM5MzU1YjljM2E2Y2RiMzVkMTY2ZTYxZGFl`

@@ -757,6 +757,28 @@
     },
     {
       "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/5SBLYLF6v5FafexVCvVh8R"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185453,
+      "name": "Now or Never",
+      "url": "https://open.spotify.com/track/48Ow2RXXaLwWVEp2Y4F6DV"
+    },
+    {
+      "album": {
         "name": "Perfect Melody",
         "url": "https://open.spotify.com/album/5dnpfIyc6hbO2HO5bIaj6L"
       },

@@ -1,12 +1,12 @@
 {
   "description": "A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 - Possible Musics'.",
-  "num_followers": 15979,
+  "num_followers": 16009,
   "original_name": "Planetary Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDRhYjkzYTg2MDI4MmI1MjBhY2E1MmRiNjAyZTEyZDllZTU2Yzlh",
+  "snapshot_id": "MCw2ZmQwNWVmMzJmZGYzNjJjNjUwY2YyZTM2NmIwOTFiMjhiOTU2MmYx",
   "tracks": [
     {
       "added_at": "2021-10-20 18:30:26",
@@ -667,22 +667,6 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Oquo",
-        "url": "https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Omprovo",
-      "url": "https://open.spotify.com/track/2IGlsC51UCUtQLIaDJuVPg"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
         "name": "Flying to America",
         "url": "https://open.spotify.com/album/38juKROzX28lJdUDQEE2Ji"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 468500,
       "name": "Flying to America",
       "url": "https://open.spotify.com/track/4sWXp7FHiusy8V0b6klQKp"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Oquo",
+        "url": "https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Omprovo",
+      "url": "https://open.spotify.com/track/2IGlsC51UCUtQLIaDJuVPg"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -1169,24 +1169,20 @@
       "url": "https://open.spotify.com/track/1JDsCg42TAQyGP02tMNCf6"
     },
     {
-      "added_at": "2023-04-15 01:26:09",
+      "added_at": "2023-03-07 03:31:30",
       "album": {
-        "name": "entropy & kindness",
-        "url": "https://open.spotify.com/album/2ol7vC6iwa2AkKD5RuUMAX"
+        "name": "Mirrored Solitude",
+        "url": "https://open.spotify.com/album/4bd0O6ioCKu3uh3d89rtpB"
       },
       "artists": [
         {
-          "name": "Maral",
-          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
-        },
-        {
-          "name": "Lara Sarkissian",
-          "url": "https://open.spotify.com/artist/6ctLrB5PwqC8earV2J39qW"
+          "name": "Kalia Vandever",
+          "url": "https://open.spotify.com/artist/2eFIJMz1OPMcyyqxVbh8tL"
         }
       ],
-      "duration_ms": 261346,
-      "name": "entropy & kindness",
-      "url": "https://open.spotify.com/track/5CJwBWeHLCSAKtLaMTrnfO"
+      "duration_ms": 206863,
+      "name": "Mirrored Solitude",
+      "url": "https://open.spotify.com/track/52vNlD5YZT1yUmZUnukAbT"
     }
   ],
   "unique_name": "Planetary Soul",

@@ -290,6 +290,36 @@
     {
       "album": {
         "name": "Kingdom Book One (Deluxe)",
+        "url": "https://open.spotify.com/album/6yyl9jkkJYITe8z6dNDvIj"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        },
+        {
+          "name": "Maryanne J. George",
+          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312078,
+      "name": "Can't Nobody (feat. Ryan Ofei & Maryanne J. George)",
+      "url": "https://open.spotify.com/track/2VLXdIm5sJgDdRvfh2QrRe"
+    },
+    {
+      "album": {
+        "name": "Kingdom Book One (Deluxe)",
         "url": "https://open.spotify.com/album/3w8cEFKC4JCLPKiOSOhWzh"
       },
       "artists": [
@@ -312,7 +342,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 312078,
       "name": "Can't Nobody (feat. Ryan Ofei & Maryanne J. George)",
       "url": "https://open.spotify.com/track/6m2L8UyoRjOYDJZ4Hdjcvd"
@@ -806,7 +836,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 230590,
       "name": "Hold Tight (feat. Ryan Ellis & Lizzie Morgan)",
       "url": "https://open.spotify.com/track/5dovyGSRpHwz5YRJCOktO7"
@@ -1074,7 +1104,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-06",
+      "date_removed": null,
       "duration_ms": 309066,
       "name": "Lean On Me",
       "url": "https://open.spotify.com/track/4IyemaA2yUElYlOiCV1vGC"

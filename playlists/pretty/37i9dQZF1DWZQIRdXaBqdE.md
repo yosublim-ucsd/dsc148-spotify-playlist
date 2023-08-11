@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQIRdXaBqdE.md) - [plain]
 
 > Get on down the road with these classic country tunes\. Cover: Johnny Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,473 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,648 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQIRdXaBqdE.md) - [plain]
 | 29 | [Guitar Town](https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Guitar Town](https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy) | 2:35 |
 | 30 | [I Fall To Pieces \- Single Version](https://open.spotify.com/track/6zFsz86nAj5gcvzyVqNL3k) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Showcase](https://open.spotify.com/album/54Ykk8Gg8TuHjLbYvErsKh) | 2:51 |
 | 31 | [Slow Hand](https://open.spotify.com/track/2h1Xj6D76ygKS3tu9DgIY5) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Southern Comfort](https://open.spotify.com/album/4IBg62LpRIejaV7VFcsyl9) | 2:54 |
-| 32 | [Coal Miner's Daughter \- Single Version](https://open.spotify.com/track/3mM14WXoPaLRjjkmxHe99L) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Coal Miner's Daughter](https://open.spotify.com/album/2SayIIdZkrtb9I4BbdnyOr) | 3:00 |
-| 33 | [Don't Close Your Eyes](https://open.spotify.com/track/7J9ARWRkMtXMYeF8RxJEjn) | [Keith Whitley](https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW) | [Don't Close Your Eyes](https://open.spotify.com/album/3hDqwanFIlVP5dRMWj8dhZ) | 4:12 |
+| 32 | [Don't Close Your Eyes](https://open.spotify.com/track/7J9ARWRkMtXMYeF8RxJEjn) | [Keith Whitley](https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW) | [Don't Close Your Eyes](https://open.spotify.com/album/3hDqwanFIlVP5dRMWj8dhZ) | 4:12 |
+| 33 | [Coal Miner's Daughter \- Single Version](https://open.spotify.com/track/3mM14WXoPaLRjjkmxHe99L) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Coal Miner's Daughter](https://open.spotify.com/album/2SayIIdZkrtb9I4BbdnyOr) | 3:00 |
 | 34 | [Maybe It Was Memphis](https://open.spotify.com/track/3wjD3Ufjll7UKrEDPdGuX3) | [Pam Tillis](https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6) | [Put Yourself In My Place](https://open.spotify.com/album/0zTzRgc57oSLwwErcfmMEz) | 3:59 |
 | 35 | [If I Didn't Have You](https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [On the Other Hand \- All the Number Ones](https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3) | 3:06 |
 | 36 | [Dixieland Delight \- Single Edit](https://open.spotify.com/track/6ZijsJ9Oh0xgOdY0O1xCWN) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [The Essential Alabama 3.0](https://open.spotify.com/album/4UUE6qWrIn7L54UZxv0DDQ) | 3:56 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQIRdXaBqdE.md) - [plain]
 | 47 | [Mammas, Don't Let Your Babies Grow Up to Be Cowboys](https://open.spotify.com/track/1gKSpFpX3poa17WIAyFVsp) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Nashville Rebel](https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg) | 2:33 |
 | 48 | [All My Ex's Live In Texas](https://open.spotify.com/track/7k1Xm1wy00hCKJDYJL5p1n) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [George Strait's Greatest Hits, Volume Two](https://open.spotify.com/album/2ZN1GwIaBhc9exRqKI0gad) | 3:20 |
 | 49 | [Killin' Time](https://open.spotify.com/track/4H2TRR9FjnnIwxGnIt9stO) | [Clint Black](https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt) | [Ultimate Clint Black](https://open.spotify.com/album/3fsGT85qu4Jhvs9htCgygz) | 2:48 |
-| 50 | [Country Club](https://open.spotify.com/track/6o7BCdJjGvHBBPMb4ZrA68) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Country Club](https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo) | 3:10 |
-| 51 | [Brother Jukebox](https://open.spotify.com/track/1Ov6koHfZL43pGCDdfIoHf) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [Too Cold At Home](https://open.spotify.com/album/4AayO56uNmJLHcHtF0aTpA) | 3:04 |
+| 50 | [Brother Jukebox](https://open.spotify.com/track/1Ov6koHfZL43pGCDdfIoHf) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [Too Cold At Home](https://open.spotify.com/album/4AayO56uNmJLHcHtF0aTpA) | 3:04 |
+| 51 | [Country Club](https://open.spotify.com/track/6o7BCdJjGvHBBPMb4ZrA68) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Country Club](https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo) | 3:10 |
 | 52 | [Islands In the Stream](https://open.spotify.com/track/4dqEzdFAYkj1rjYLVDuTlN) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Ultimate Dolly Parton](https://open.spotify.com/album/03DTXxfU0UJ96lt1umUtts) | 4:09 |
 | 53 | [Leaving Louisiana In The Broad Daylight](https://open.spotify.com/track/6BjA6FWovt4T2T5ZIW1XJQ) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [The Oak Ridge Boys Have Arrived](https://open.spotify.com/album/4AKEZZ8hdjYl8i5IiQMyaC) | 2:59 |
 | 54 | [Rose Colored Glasses](https://open.spotify.com/track/1Ko3qmw2ItUEefsjDjpLWL) | [John Conlee](https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP) | [Rose Colored Glasses](https://open.spotify.com/album/3rRwWX6dg9IBQBalgqEgSN) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQIRdXaBqdE.md) - [plain]
 | 99 | [Old Hippie](https://open.spotify.com/track/5fv9qtXwNV6Xx3P9bRed5i) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Best Of The Bellamy Brothers](https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf) | 4:07 |
 | 100 | [The Last Thing On My Mind](https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Essential Porter Wagoner & Dolly Parton](https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850) | 2:36 |
 
-Snapshot ID: `MCw4YmY5ZDE4Mjc2MGMxYjk1NDAwNGM5ZjQ1NjJjMmJkZGQwMjI0ODVj`
+Snapshot ID: `MCxlMWJhZjU1MWRhMmMxODhhODA0OWVkMjAwM2M1ODZkMjg2ZTQwN2U0`

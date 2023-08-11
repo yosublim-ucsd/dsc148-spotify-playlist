@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Nieuwe Nederlandstalige hits vind je hier! Cover: Amina",
+  "description": "Nieuwe Nederlandstalige hits vind je hier! Cover: Typhoon",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -1677,6 +1677,24 @@
     },
     {
       "album": {
+        "name": "FIX",
+        "url": "https://open.spotify.com/album/6dIe07FUPAEGdkRZolvGWY"
+      },
+      "artists": [
+        {
+          "name": "MITS Mitchell",
+          "url": "https://open.spotify.com/artist/7I3OymbsF2iClalnkUwPYi"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172203,
+      "name": "FIX",
+      "url": "https://open.spotify.com/track/1ziebtAwv4jhMWQ3nQcmEh"
+    },
+    {
+      "album": {
         "name": "Flirt",
         "url": "https://open.spotify.com/album/19YmqAf1IM6MivwpqamrQi"
       },
@@ -2220,7 +2238,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 131052,
       "name": "Hoger",
       "url": "https://open.spotify.com/track/4m4tKwymIWnZn2UEUIz7ld"
@@ -2612,6 +2630,24 @@
       "duration_ms": 174765,
       "name": "Jij Bent Meer Dan Een Deel Van Mij",
       "url": "https://open.spotify.com/track/77ySbPXifSKDxDn2JXew4M"
+    },
+    {
+      "album": {
+        "name": "Jij Wordt Van Mij",
+        "url": "https://open.spotify.com/album/7rjj25a5xvDZ6Xn9dmchc7"
+      },
+      "artists": [
+        {
+          "name": "DAVE",
+          "url": "https://open.spotify.com/artist/1b8Wn3xSquDw84o7yJI6Jk"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170526,
+      "name": "Jij Wordt Van Mij",
+      "url": "https://open.spotify.com/track/4mocRDBEcZbphE66CuF62s"
     },
     {
       "album": {
@@ -4632,7 +4668,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 197142,
       "name": "Trouw Met Mij",
       "url": "https://open.spotify.com/track/5Afbp36L9C3MhUh8zapTyH"
@@ -5160,7 +5196,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 146250,
       "name": "Ze Redt Zich Wel",
       "url": "https://open.spotify.com/track/7HD3Hz5p3ZIoCRVLxzVuMi"
@@ -5182,6 +5218,24 @@
       "duration_ms": 222642,
       "name": "Zeg Hem Dat Het Goed Gaat",
       "url": "https://open.spotify.com/track/291F9nIoCvpnDLjXCpOXbk"
+    },
+    {
+      "album": {
+        "name": "Zie Haar Gaan",
+        "url": "https://open.spotify.com/album/46QGaDM02l1OOJptgLFZ1P"
+      },
+      "artists": [
+        {
+          "name": "Lisa Michels",
+          "url": "https://open.spotify.com/artist/79CPotbn7wd5Iu7dF9tY7e"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149803,
+      "name": "Zie Haar Gaan",
+      "url": "https://open.spotify.com/track/1Y04IOxtfXx9J3vyy1dEGo"
     },
     {
       "album": {

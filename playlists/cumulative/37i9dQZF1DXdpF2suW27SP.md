@@ -2,9 +2,9 @@
 
 ### [Na Zona](https://open.spotify.com/playlist/37i9dQZF1DXdpF2suW27SP)
 
-> LON3R JOHNY e Plutonio entram na zona.
+> Dillaz entra na zona.
 
-344 songs - 18 hr 34 min
+346 songs - 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [CASTELOS DE AREIA](https://open.spotify.com/track/1QquirkrYcoenI0mA3FRSJ) | [Codie](https://open.spotify.com/artist/6572dH5AjosTkf97tnQ4pm), [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n) | [CASTELOS DE AREIA](https://open.spotify.com/album/2Ejc0zsiqVsyRZkSde2YIH) | 2:43 | 2023-07-20 |  |
 | [Cattiveiro Freestyle](https://open.spotify.com/track/1jEDmLfUSOAhFEvNaJToIL) | [Il\-Brutto](https://open.spotify.com/artist/2PhIdF7Do8K7sungAwRtj7), [xtinto](https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx) | [Cattiveiro Freestyle](https://open.spotify.com/album/7rltR9y9SVvhWb7S0kjI8t) | 3:34 | 2023-06-01 | 2023-06-23 |
 | [Chakras](https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Chakras](https://open.spotify.com/album/1Mz8AqAAgcwDwF9LglSk6K) | 3:16 | 2023-04-27 |  |
-| [CHAMA ACESA](https://open.spotify.com/track/601OmwJ2gooPbZO16h8xy3) | [Kush](https://open.spotify.com/artist/0CwAQrSu25Y0N4l7APfHKj) | [EKLIPSE](https://open.spotify.com/album/4yEYSYeHyAwpLVGPnpSNOR) | 2:44 | 2023-07-20 |  |
+| [CHAMA ACESA](https://open.spotify.com/track/601OmwJ2gooPbZO16h8xy3) | [Kush](https://open.spotify.com/artist/0CwAQrSu25Y0N4l7APfHKj) | [EKLIPSE](https://open.spotify.com/album/4yEYSYeHyAwpLVGPnpSNOR) | 2:44 | 2023-07-20 | 2023-08-11 |
 | [Chance](https://open.spotify.com/track/1AClteNHhuIF4uGgPCHKhA) | [BCKappa](https://open.spotify.com/artist/2XAxChRi8QlO5rKAoL0DZi), [Juh](https://open.spotify.com/artist/5eviHRz2iMhA8NSTP176u8) | [Chance](https://open.spotify.com/album/0iSgo1smaFKzYKguM5Kws9) | 3:16 | 2023-01-06 | 2023-02-17 |
 | [Chauffeur](https://open.spotify.com/track/3ARuPTEPMpbr7mz1aHa0a6) | [Regula](https://open.spotify.com/artist/6pyqBc7HaffcZJhyfjnceP), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Chauffeur](https://open.spotify.com/album/4LAYeC7gWp1jFiS1q101OK) | 4:26 | 2022-10-13 |  |
 | [Chega](https://open.spotify.com/track/0Gul9wh1EQB8K7P9PjcIpi) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94), [TT](https://open.spotify.com/artist/4QUbv90mL5E8TqNKyRkrG0) | [Tina Dance Mixtape \(Sabor 2000\)](https://open.spotify.com/album/11tgu5DZT4iYWYpOuiXIwF) | 2:28 | 2023-07-06 | 2023-07-14 |
@@ -89,6 +89,7 @@
 | [Cobras e Serpentes](https://open.spotify.com/track/7mCgHTgHjdSA35JQ0xo3hR) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [MS Capone](https://open.spotify.com/artist/1HOLnVK9G35A2MAqz2e8AP) | [Cobras e Serpentes](https://open.spotify.com/album/48QBkKQXF03sto0InqW32W) | 3:30 | 2022-11-18 | 2023-03-31 |
 | [Cobras e Serpentes](https://open.spotify.com/track/4wnjljijwFWk5YrhXcXmVq) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [MS Capone](https://open.spotify.com/artist/1HOLnVK9G35A2MAqz2e8AP), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [Cobras e Serpentes](https://open.spotify.com/album/0F1hyH0FKjNCrCCYmM9Ff1) | 3:30 | 2022-07-16 | 2022-11-18 |
 | [Coisas na Cabeça](https://open.spotify.com/track/5K91m4uOhos4AhyLhb6Ilc) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu) | [Coisas na Cabeça](https://open.spotify.com/album/5a82H0UW4hecXTZWD713Aq) | 3:31 | 2023-04-20 |  |
+| [Colãs](https://open.spotify.com/track/3LTGo62z4pb6YldRQY1C5j) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Colãs](https://open.spotify.com/album/4Xs96MIepiCpo8lBnnfDEv) | 3:13 | 2023-08-10 |  |
 | [Como Assim?!](https://open.spotify.com/track/0alpWGyujEH5aIOiOtIfBh) | [9 Miller](https://open.spotify.com/artist/4yqP75Gm0jSMIS1gQ7s6lX), [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Queen Marcy](https://open.spotify.com/artist/1FpZb8gVHsR9NtEjEidlnT) | [SAY GOODNIGHT TO THE BAD GUYS](https://open.spotify.com/album/3iNvV3UvpZnhVWuoNgrKzT) | 3:25 | 2023-03-24 | 2023-05-26 |
 | [Conto Bafiento](https://open.spotify.com/track/6oPbtUaYxVvQaRDwm61Sg8) | [Mundo Segundo](https://open.spotify.com/artist/5Qu01cJnOW2RdSKH2bcaIG) | [Conto Bafiento](https://open.spotify.com/album/3QRH1H6QoLo6mjDaLAaryZ) | 4:07 | 2023-03-24 | 2023-08-04 |
 | [CONVALLARIA](https://open.spotify.com/track/24D8TQh8S6x3AOCwnL6zI1) | [Johnny Virtus](https://open.spotify.com/artist/0DOixxvuN7cxZ7YiyMzlOt) | [CONVALLARIA](https://open.spotify.com/album/2LK8xqNsywlhQj3xRbLXe7) | 3:34 | 2023-06-01 | 2023-06-30 |
@@ -175,6 +176,7 @@
 | [Karma](https://open.spotify.com/track/4NVkR10qkADrFrQnQ23l2c) | [Carlito Lagangzz](https://open.spotify.com/artist/4gXs0G5ETeS6eTOMRCiSdL) | [Karma](https://open.spotify.com/album/0uAosRh2GbvWojGO1DMq5d) | 2:33 | 2023-06-08 | 2023-06-30 |
 | [Katrina](https://open.spotify.com/track/5YDwsOw12TSkpjNT57YvgG) | [xtinto](https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx) | [Latência](https://open.spotify.com/album/4V3IpiTNQowJOxQv4oTzH3) | 3:49 | 2023-02-10 | 2023-03-25 |
 | [King2da](https://open.spotify.com/track/5KaIAg0fCOhn3U3fz03hLY) | [Prodigio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5) | [KING2DA](https://open.spotify.com/album/1DZQHJ3GZWAQtdkvKAqU2p) | 2:51 | 2023-01-06 | 2023-01-27 |
+| [Labirinto](https://open.spotify.com/track/40wj75OMEAqknzWfIaAirC) | [L\-ALI](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy), [Lunn](https://open.spotify.com/artist/3DhbIvEFQyWMVbVJByMMfW), [JÜRA](https://open.spotify.com/artist/7tfbeKMXzuNuL25n1plxH9) | [Balanço](https://open.spotify.com/album/6ZjznsfvWwuODmsepHwG93) | 2:36 | 2023-08-10 |  |
 | [Lado A Lado](https://open.spotify.com/track/36Hc6xUmjU1GBGlToS52tm) | [Uzzy](https://open.spotify.com/artist/2Ia5AqFe2PZmGirbLc7zMi) | [Lado A Lado](https://open.spotify.com/album/5RddEu4YAFOQJxkxmoQ6QX) | 2:10 | 2022-11-04 | 2022-11-18 |
 | [LEALDADE](https://open.spotify.com/track/6Oe8f1lXxTF5wJ7c3AqDa1) | [Rony Fuego](https://open.spotify.com/artist/0DxsiYPUEWLY4HjaUDM8Lk), [Deezy](https://open.spotify.com/artist/4VepL2VrfR6preU9a5MCsG) | [LEALDADE](https://open.spotify.com/album/3ESeQ7G0QSjlrEWDUL3zPF) | 3:26 | 2023-08-03 |  |
 | [Let You Go](https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Let You Go](https://open.spotify.com/album/75YlSkZGyWUGB1BzPd9Egz) | 3:24 | 2022-07-16 | 2022-11-11 |
@@ -201,7 +203,7 @@
 | [Messi](https://open.spotify.com/track/0s4o6kKyL4CqQnJQa4Sp5V) | [Topboy Blk](https://open.spotify.com/artist/5wQNFcDVCxuiePhZzryw6h), [Progvid](https://open.spotify.com/artist/53yPvcTuQToqXFtROPF11W) | [Messi](https://open.spotify.com/album/6RCTYBuph7hWcvUQBfQVAi) | 2:19 | 2023-01-13 | 2023-02-03 |
 | [Metamorfose](https://open.spotify.com/track/1eaJlerutVc6qyl5Q857Y5) | [Mirai](https://open.spotify.com/artist/343oeu5WwCY3D2d4OLN5FC) | [Metamorfose](https://open.spotify.com/album/5337rIquzsN1rjSAaFcoi0) | 4:08 | 2023-06-22 | 2023-07-14 |
 | [METE1LIKE](https://open.spotify.com/track/2w6x13VWPqhAKHjmX5kMbj) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [Wine TKK](https://open.spotify.com/artist/4z82basJVVCSjAoZVkb7Rx) | [METE1LIKE](https://open.spotify.com/album/4J4OCfvHHWAMZ6unYRvBOd) | 3:30 | 2022-10-27 | 2023-02-10 |
-| [Meu Sorriso](https://open.spotify.com/track/4ZmxLhOFWYmlC57oSQ2A0m) | [Deedz B](https://open.spotify.com/artist/3uFX3kMxtOUFMDaJoFPJwo), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN) | [Meu Sorriso](https://open.spotify.com/album/1nnfTMwFkr3owxmGYltZyq) | 3:19 | 2023-06-08 |  |
+| [Meu Sorriso](https://open.spotify.com/track/4ZmxLhOFWYmlC57oSQ2A0m) | [Deedz B](https://open.spotify.com/artist/3uFX3kMxtOUFMDaJoFPJwo), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN) | [Meu Sorriso](https://open.spotify.com/album/1nnfTMwFkr3owxmGYltZyq) | 3:19 | 2023-06-08 | 2023-08-11 |
 | [Minha Terra](https://open.spotify.com/track/2EtBqr037rsEcUHlaSTcT6) | [Supa Squad](https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw), [Mariza](https://open.spotify.com/artist/65nZq8l5VZRG4X445F5kmN), [Apollo G](https://open.spotify.com/artist/4spmzPX02Jg0rnuyIWFngi) | [Minha Terra](https://open.spotify.com/album/05rD9jNxOYPOIZu6cNPdL3) | 4:19 | 2023-03-10 |  |
 | [Mo Money Mo Problems](https://open.spotify.com/track/4bRd2tebqOfIYxsyIGUzDd) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF) | [Mo Money Mo Problems](https://open.spotify.com/album/6oRVzgSnlpjjbP6mix56ap) | 2:38 | 2022-07-16 | 2022-10-07 |
 | [Momma](https://open.spotify.com/track/7fW7scs325n2ZwvWBjA75O) | [Regula](https://open.spotify.com/artist/6pyqBc7HaffcZJhyfjnceP), [King Bigs](https://open.spotify.com/artist/6WecxeaCHGhmwXiyBQPv61) | [Ouro Sobre Azul](https://open.spotify.com/album/1Za7fc64cyBoDqo4XJVSHO) | 2:54 | 2022-10-27 | 2023-01-20 |

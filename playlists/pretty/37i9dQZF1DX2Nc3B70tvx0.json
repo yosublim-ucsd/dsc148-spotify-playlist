@@ -1,12 +1,12 @@
 {
   "description": "Newsworthy indie of 2023: Mitski's beautiful return",
-  "num_followers": 2227397,
+  "num_followers": 2227585,
   "original_name": "Front Page Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDQ2YzFkNmU1ZTEyMzEzYjdmZGM2YjhiNTFiYzMwZjJjMDU4ZDEy",
+  "snapshot_id": "MCw5ODJjZWI4MmYwYTllYmRjMzgwNDhkMzc0ODM5ZmI5ZDViZmQ2OWNm",
   "tracks": [
     {
       "added_at": "2023-07-26 19:40:36",
@@ -825,6 +825,22 @@
       "url": "https://open.spotify.com/track/3ISKxnCGKc5B9zr9CTUB3v"
     },
     {
+      "added_at": "2023-08-01 23:37:51",
+      "album": {
+        "name": "Back On 74",
+        "url": "https://open.spotify.com/album/3aZ2yYaBf9BDh1KO7f0S1s"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 209482,
+      "name": "Back On 74",
+      "url": "https://open.spotify.com/track/2xC3aQCmwgsW7ChDlJxLca"
+    },
+    {
       "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Bubblegum",
@@ -839,22 +855,6 @@
       "duration_ms": 279133,
       "name": "Bubblegum",
       "url": "https://open.spotify.com/track/0DgOpYaaJtM0MELwbHFAeT"
-    },
-    {
-      "added_at": "2023-07-07 00:52:15",
-      "album": {
-        "name": "Drop Stop Roll",
-        "url": "https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 170788,
-      "name": "Drop Stop Roll",
-      "url": "https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7"
     },
     {
       "added_at": "2023-08-01 00:00:21",
@@ -873,36 +873,20 @@
       "url": "https://open.spotify.com/track/4kynhOfWA8kbLYgbBKHRnD"
     },
     {
-      "added_at": "2023-08-01 23:37:51",
-      "album": {
-        "name": "Back On 74",
-        "url": "https://open.spotify.com/album/3aZ2yYaBf9BDh1KO7f0S1s"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 209482,
-      "name": "Back On 74",
-      "url": "https://open.spotify.com/track/2xC3aQCmwgsW7ChDlJxLca"
-    },
-    {
       "added_at": "2023-07-07 00:52:15",
       "album": {
-        "name": "Red Wine Supernova",
-        "url": "https://open.spotify.com/album/4FAby8ROZDZhSoOvsFBGIn"
+        "name": "Drop Stop Roll",
+        "url": "https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab"
       },
       "artists": [
         {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
         }
       ],
-      "duration_ms": 192720,
-      "name": "Red Wine Supernova",
-      "url": "https://open.spotify.com/track/0eEXpE2WgW5cjuZVAuvuev"
+      "duration_ms": 170788,
+      "name": "Drop Stop Roll",
+      "url": "https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7"
     },
     {
       "added_at": "2023-07-07 00:52:15",
@@ -919,6 +903,22 @@
       "duration_ms": 226133,
       "name": "All We Ever Do Is Talk",
       "url": "https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv"
+    },
+    {
+      "added_at": "2023-07-07 00:52:15",
+      "album": {
+        "name": "Red Wine Supernova",
+        "url": "https://open.spotify.com/album/4FAby8ROZDZhSoOvsFBGIn"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 192720,
+      "name": "Red Wine Supernova",
+      "url": "https://open.spotify.com/track/0eEXpE2WgW5cjuZVAuvuev"
     },
     {
       "added_at": "2023-08-01 23:37:51",
@@ -955,6 +955,22 @@
       "duration_ms": 188000,
       "name": "After Midnight (feat. Clairo)",
       "url": "https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY"
+    },
+    {
+      "added_at": "2023-08-08 22:20:55",
+      "album": {
+        "name": "Wasted Summers",
+        "url": "https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY"
+      },
+      "artists": [
+        {
+          "name": "juju<3",
+          "url": "https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x"
+        }
+      ],
+      "duration_ms": 130384,
+      "name": "Wasted Summers",
+      "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
     },
     {
       "added_at": "2023-07-07 00:52:15",
@@ -1093,22 +1109,6 @@
       "url": "https://open.spotify.com/track/7zh9Phpu0GVQ6bCbPHiZAf"
     },
     {
-      "added_at": "2023-07-07 00:52:15",
-      "album": {
-        "name": "Dummy",
-        "url": "https://open.spotify.com/album/6H2pOaXUBIDKMTZmedEhrk"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 145093,
-      "name": "Dummy",
-      "url": "https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug"
-    },
-    {
       "added_at": "2023-07-13 00:37:25",
       "album": {
         "name": "10,000 gecs",
@@ -1123,6 +1123,22 @@
       "duration_ms": 126426,
       "name": "757",
       "url": "https://open.spotify.com/track/4vwHBxN5OGtUqqUWvWClGd"
+    },
+    {
+      "added_at": "2023-07-07 00:52:15",
+      "album": {
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/6H2pOaXUBIDKMTZmedEhrk"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 145093,
+      "name": "Dummy",
+      "url": "https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1181,22 +1197,6 @@
       "url": "https://open.spotify.com/track/0a64exvT5aKVaRSmAVMaCT"
     },
     {
-      "added_at": "2023-08-08 22:20:55",
-      "album": {
-        "name": "Wasted Summers",
-        "url": "https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY"
-      },
-      "artists": [
-        {
-          "name": "juju<3",
-          "url": "https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x"
-        }
-      ],
-      "duration_ms": 130384,
-      "name": "Wasted Summers",
-      "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
-    },
-    {
       "added_at": "2023-07-07 00:52:15",
       "album": {
         "name": "Over",
@@ -1231,22 +1231,18 @@
     {
       "added_at": "2023-07-07 00:52:15",
       "album": {
-        "name": "Summer of Luv (feat. Unknown Mortal Orchestra)",
-        "url": "https://open.spotify.com/album/7xvecR0lQHuMtwxErfq2JA"
+        "name": "Is It?",
+        "url": "https://open.spotify.com/album/11ROhDfHSfUYDlqdPbL5v8"
       },
       "artists": [
         {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        },
-        {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
         }
       ],
-      "duration_ms": 159241,
-      "name": "Summer of Luv (feat. Unknown Mortal Orchestra)",
-      "url": "https://open.spotify.com/track/7tMYbJhP6N732MAglwmuJf"
+      "duration_ms": 315040,
+      "name": "Days Of Lantana",
+      "url": "https://open.spotify.com/track/52MkFwdFmpPHCAbSgtaGgB"
     },
     {
       "added_at": "2023-07-07 00:52:15",
@@ -1263,22 +1259,6 @@
       "duration_ms": 236000,
       "name": "I'll Be Faithful",
       "url": "https://open.spotify.com/track/0sPWsklhyrr5ZdrSWWEff6"
-    },
-    {
-      "added_at": "2023-07-07 00:52:15",
-      "album": {
-        "name": "Is It?",
-        "url": "https://open.spotify.com/album/11ROhDfHSfUYDlqdPbL5v8"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 315040,
-      "name": "Days Of Lantana",
-      "url": "https://open.spotify.com/track/52MkFwdFmpPHCAbSgtaGgB"
     },
     {
       "added_at": "2023-07-07 00:52:15",
@@ -1315,18 +1295,22 @@
     {
       "added_at": "2023-07-07 00:52:15",
       "album": {
-        "name": "Bruise",
-        "url": "https://open.spotify.com/album/0pzoYtS7zcG2kd7g4NUbrx"
+        "name": "Summer of Luv (feat. Unknown Mortal Orchestra)",
+        "url": "https://open.spotify.com/album/7xvecR0lQHuMtwxErfq2JA"
       },
       "artists": [
         {
-          "name": "BETWEEN FRIENDS",
-          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        },
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
         }
       ],
-      "duration_ms": 179280,
-      "name": "Bruise",
-      "url": "https://open.spotify.com/track/26NhDr8bfNqIkmkFCoFdeI"
+      "duration_ms": 159241,
+      "name": "Summer of Luv (feat. Unknown Mortal Orchestra)",
+      "url": "https://open.spotify.com/track/7tMYbJhP6N732MAglwmuJf"
     },
     {
       "added_at": "2023-07-19 19:45:49",
@@ -1343,6 +1327,22 @@
       "duration_ms": 232537,
       "name": "skin in the game",
       "url": "https://open.spotify.com/track/3X0KbbFJSUK1hzXggbtreP"
+    },
+    {
+      "added_at": "2023-07-07 00:52:15",
+      "album": {
+        "name": "Bruise",
+        "url": "https://open.spotify.com/album/0pzoYtS7zcG2kd7g4NUbrx"
+      },
+      "artists": [
+        {
+          "name": "BETWEEN FRIENDS",
+          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
+        }
+      ],
+      "duration_ms": 179280,
+      "name": "Bruise",
+      "url": "https://open.spotify.com/track/26NhDr8bfNqIkmkFCoFdeI"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2023-07-07 00:52:15",
       "album": {
+        "name": "Multitudes",
+        "url": "https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 201174,
+      "name": "Hiding Out In The Open",
+      "url": "https://open.spotify.com/track/6Q34tUtXLuWst5c63ddQ7N"
+    },
+    {
+      "added_at": "2023-07-07 00:52:15",
+      "album": {
         "name": "Bending Hectic",
         "url": "https://open.spotify.com/album/17lXqRgpU1SQ4glWoR7ABk"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 227706,
       "name": "Morning Pages",
       "url": "https://open.spotify.com/track/0hUUCxji9cN0gb8Twf0a0n"
-    },
-    {
-      "added_at": "2023-07-07 00:52:15",
-      "album": {
-        "name": "Multitudes",
-        "url": "https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 201174,
-      "name": "Hiding Out In The Open",
-      "url": "https://open.spotify.com/track/6Q34tUtXLuWst5c63ddQ7N"
     },
     {
       "added_at": "2023-07-07 00:52:15",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2023-07-07 00:52:15",
       "album": {
-        "name": "Pegasus (ft. Phoebe Bridgers)",
-        "url": "https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 186836,
-      "name": "Pegasus (ft. Phoebe Bridgers)",
-      "url": "https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh"
-    },
-    {
-      "added_at": "2023-07-07 00:52:15",
-      "album": {
         "name": "There\u2019s no Other",
         "url": "https://open.spotify.com/album/6Ldj1EkMiTstPg4RRLAg6b"
       },
@@ -1575,26 +1555,6 @@
       "duration_ms": 155801,
       "name": "There\u2019s no Other",
       "url": "https://open.spotify.com/track/1HHxnVIKnlNnCPnUxsnsXs"
-    },
-    {
-      "added_at": "2023-07-07 00:52:15",
-      "album": {
-        "name": "DO IT AGAIN (Official Song of the FIFA Women\u2019s World Cup 2023\u2122)",
-        "url": "https://open.spotify.com/album/0ukxOYC2R59uzfIh3cDnub"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        },
-        {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
-        }
-      ],
-      "duration_ms": 176730,
-      "name": "DO IT AGAIN - Official Song of the FIFA Women\u2019s World Cup 2023\u2122",
-      "url": "https://open.spotify.com/track/4OfRg5ofn3dNRFihXb0o7j"
     },
     {
       "added_at": "2023-07-13 22:53:19",
@@ -1617,6 +1577,46 @@
       "url": "https://open.spotify.com/track/2auNIrc8Yhtcd3JYfGzRCp"
     },
     {
+      "added_at": "2023-07-07 00:52:15",
+      "album": {
+        "name": "Pegasus (ft. Phoebe Bridgers)",
+        "url": "https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 186836,
+      "name": "Pegasus (ft. Phoebe Bridgers)",
+      "url": "https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh"
+    },
+    {
+      "added_at": "2023-07-07 00:52:15",
+      "album": {
+        "name": "DO IT AGAIN (Official Song of the FIFA Women\u2019s World Cup 2023\u2122)",
+        "url": "https://open.spotify.com/album/0ukxOYC2R59uzfIh3cDnub"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        },
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "duration_ms": 176730,
+      "name": "DO IT AGAIN - Official Song of the FIFA Women\u2019s World Cup 2023\u2122",
+      "url": "https://open.spotify.com/track/4OfRg5ofn3dNRFihXb0o7j"
+    },
+    {
       "added_at": "2023-08-04 04:01:00",
       "album": {
         "name": "Suddenly",
@@ -1631,6 +1631,22 @@
       "duration_ms": 263695,
       "name": "Suddenly",
       "url": "https://open.spotify.com/track/49H43h8jd9pE3qy5v5NseC"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Signal Sender",
+        "url": "https://open.spotify.com/album/4ILDW93NPJE8kEJSrUXuIy"
+      },
+      "artists": [
+        {
+          "name": "Richy Mitch & The Coal Miners",
+          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
+        }
+      ],
+      "duration_ms": 200137,
+      "name": "Signal Sender",
+      "url": "https://open.spotify.com/track/1XHTJ2n4ajw9dDzuPGY4Rm"
     },
     {
       "added_at": "2023-07-20 21:12:49",
@@ -1663,22 +1679,6 @@
       "duration_ms": 153110,
       "name": "Open My Door",
       "url": "https://open.spotify.com/track/6lVMcnULyl94wDrZ2HAuCT"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Signal Sender",
-        "url": "https://open.spotify.com/album/4ILDW93NPJE8kEJSrUXuIy"
-      },
-      "artists": [
-        {
-          "name": "Richy Mitch & The Coal Miners",
-          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
-        }
-      ],
-      "duration_ms": 200137,
-      "name": "Signal Sender",
-      "url": "https://open.spotify.com/track/1XHTJ2n4ajw9dDzuPGY4Rm"
     },
     {
       "added_at": "2023-08-04 04:01:00",

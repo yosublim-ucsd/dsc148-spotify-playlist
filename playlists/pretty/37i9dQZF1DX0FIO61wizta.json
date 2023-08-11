@@ -1,12 +1,12 @@
 {
   "description": "Verdi was the undisputed king of Italian opera in the 19th century. Explore his greatest works, including Rigoletto and La Traviata, right here.",
-  "num_followers": 70501,
+  "num_followers": 70540,
   "original_name": "This Is Verdi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTg4OGZmY2E4MjhlMTA3ZWU5MjhjYzZiOTM3NzVkNDM0YWE2ZDVh",
+  "snapshot_id": "MCxhNGY3ZGI2MGViYTA3MjA1YzhkNzJiYWFkYzQ1MWIwZjQ3ODZiNmI2",
   "tracks": [
     {
       "added_at": "2022-06-27 14:42:44",
@@ -567,34 +567,6 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Dmitri Hvorostovsky / Portrait",
-        "url": "https://open.spotify.com/album/2jonONCptVLxQrKjga6oRP"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Dmitri Hvorostovsky",
-          "url": "https://open.spotify.com/artist/5P6p90HYfFxo4GTmHJjeNe"
-        },
-        {
-          "name": "Rotterdam Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/79xQdsSFyN4cmMsxtWrvUc"
-        },
-        {
-          "name": "Valery Gergiev",
-          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "La traviata / Act II: Di Provenza il mar, il suol",
-      "url": "https://open.spotify.com/track/1MR7JqbHhQSpEtkftNipfO"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
         "name": "Verdi, G.: Macbeth (Sferisterio Opera Festival, 2007)",
         "url": "https://open.spotify.com/album/2U42HFlQf1tslbRJmweNQ7"
       },
@@ -651,6 +623,34 @@
       "duration_ms": 173666,
       "name": "Macbeth: Preludio",
       "url": "https://open.spotify.com/track/6zxLbkxruJXMVrpi4glv28"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "Dmitri Hvorostovsky / Portrait",
+        "url": "https://open.spotify.com/album/2jonONCptVLxQrKjga6oRP"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Dmitri Hvorostovsky",
+          "url": "https://open.spotify.com/artist/5P6p90HYfFxo4GTmHJjeNe"
+        },
+        {
+          "name": "Rotterdam Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/79xQdsSFyN4cmMsxtWrvUc"
+        },
+        {
+          "name": "Valery Gergiev",
+          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "La traviata / Act II: Di Provenza il mar, il suol",
+      "url": "https://open.spotify.com/track/1MR7JqbHhQSpEtkftNipfO"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -995,6 +995,30 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
+        "name": "Verdi: Overtures, Vol. 1",
+        "url": "https://open.spotify.com/album/2ArbYKbKugDKfanstRYf75"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Hungarian State Opera Orchestra",
+          "url": "https://open.spotify.com/artist/6rLUj0kWUXAEbz26rtS9wO"
+        },
+        {
+          "name": "Pier Giorgio Morandi",
+          "url": "https://open.spotify.com/artist/5N26LR3F8OW56imuIElk6B"
+        }
+      ],
+      "duration_ms": 515426,
+      "name": "I vespri siciliani*: Sinfonia",
+      "url": "https://open.spotify.com/track/6eIyQmLtCxLVzPS8SqfB4Y"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
         "name": "Kiri - A Portrait",
         "url": "https://open.spotify.com/album/4zqtZ8uDOrhSL0Yi2CYne4"
       },
@@ -1023,30 +1047,6 @@
       "duration_ms": 277640,
       "name": "La traviata / Act 1: \"Follie! Delirio vano \u00e8 questo!\" - \"Sempre libera\"",
       "url": "https://open.spotify.com/track/1sHxx6JFlwNEZqQl55eOOI"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
-        "name": "Verdi: Overtures, Vol. 1",
-        "url": "https://open.spotify.com/album/2ArbYKbKugDKfanstRYf75"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Hungarian State Opera Orchestra",
-          "url": "https://open.spotify.com/artist/6rLUj0kWUXAEbz26rtS9wO"
-        },
-        {
-          "name": "Pier Giorgio Morandi",
-          "url": "https://open.spotify.com/artist/5N26LR3F8OW56imuIElk6B"
-        }
-      ],
-      "duration_ms": 515426,
-      "name": "I vespri siciliani*: Sinfonia",
-      "url": "https://open.spotify.com/track/6eIyQmLtCxLVzPS8SqfB4Y"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1091,34 +1091,6 @@
       "duration_ms": 275626,
       "name": "Aida / Act 4: \"O terra, addio; addio valle di pianti\"",
       "url": "https://open.spotify.com/track/7cZzmx8BXqoCfuif0E3brY"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
-        "name": "Verdi: Otello",
-        "url": "https://open.spotify.com/album/3th9FF5U3XWiQ2zwSRJOSn"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Raffaella Angeletti",
-          "url": "https://open.spotify.com/artist/0QuMmmMgv129CeGwF8RbtQ"
-        },
-        {
-          "name": "Oviedo Filarmon\u00eda",
-          "url": "https://open.spotify.com/artist/2QX0XaDDWYH8rFPDDlVyae"
-        },
-        {
-          "name": "Friedrich Haider",
-          "url": "https://open.spotify.com/artist/6DRrt1C5pbWHj7XQIZUGac"
-        }
-      ],
-      "duration_ms": 285773,
-      "name": "Otello, Act IV: Act IV: Ave Maria (Desdemona)",
-      "url": "https://open.spotify.com/track/50FdtcNVzEUz9Y6jdhwKGA"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1223,6 +1195,34 @@
       "duration_ms": 221960,
       "name": "Aida: Act II: Ma tu, Re, tu signore possente",
       "url": "https://open.spotify.com/track/2laB9zIrGuW2oVvBF6ACWg"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "Verdi: Otello",
+        "url": "https://open.spotify.com/album/3th9FF5U3XWiQ2zwSRJOSn"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Raffaella Angeletti",
+          "url": "https://open.spotify.com/artist/0QuMmmMgv129CeGwF8RbtQ"
+        },
+        {
+          "name": "Oviedo Filarmon\u00eda",
+          "url": "https://open.spotify.com/artist/2QX0XaDDWYH8rFPDDlVyae"
+        },
+        {
+          "name": "Friedrich Haider",
+          "url": "https://open.spotify.com/artist/6DRrt1C5pbWHj7XQIZUGac"
+        }
+      ],
+      "duration_ms": 285773,
+      "name": "Otello, Act IV: Act IV: Ave Maria (Desdemona)",
+      "url": "https://open.spotify.com/track/50FdtcNVzEUz9Y6jdhwKGA"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1407,30 +1407,6 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Verdi: Songs",
-        "url": "https://open.spotify.com/album/597ID4pZXyhkJtMPMeFTdb"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Dennis O'Neill",
-          "url": "https://open.spotify.com/artist/4gOpBpkE5PrTJUFC7dWusZ"
-        },
-        {
-          "name": "Ingrid Surgenor",
-          "url": "https://open.spotify.com/artist/1GJ4XkVWcNqaDgkBQv08WC"
-        }
-      ],
-      "duration_ms": 166800,
-      "name": "La seduzione",
-      "url": "https://open.spotify.com/track/13auykVUzc7TQ8BQFTXL2h"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
         "name": "Verdi: Overtures, Vol. 1",
         "url": "https://open.spotify.com/album/2ArbYKbKugDKfanstRYf75"
       },
@@ -1451,6 +1427,30 @@
       "duration_ms": 264000,
       "name": "Un ballo in maschera*: Prelude",
       "url": "https://open.spotify.com/track/7jU0OCnpUjZHvCBpYsUPfA"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "Verdi: Songs",
+        "url": "https://open.spotify.com/album/597ID4pZXyhkJtMPMeFTdb"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Dennis O'Neill",
+          "url": "https://open.spotify.com/artist/4gOpBpkE5PrTJUFC7dWusZ"
+        },
+        {
+          "name": "Ingrid Surgenor",
+          "url": "https://open.spotify.com/artist/1GJ4XkVWcNqaDgkBQv08WC"
+        }
+      ],
+      "duration_ms": 166800,
+      "name": "La seduzione",
+      "url": "https://open.spotify.com/track/13auykVUzc7TQ8BQFTXL2h"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1863,30 +1863,6 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Verdi: Nabucco",
-        "url": "https://open.spotify.com/album/6dLhLAMPKpxpyhKjphx62U"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        },
-        {
-          "name": "Riccardo Muti",
-          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
-        }
-      ],
-      "duration_ms": 667640,
-      "name": "Verdi: Nabucco, Act 3: \"Donna, chi sei?\" (Nabucco, Abigaille) / Chi \u00e8 costei?... Oh, di qual'onta aggravisi\" (Nabucco, Abigaille)",
-      "url": "https://open.spotify.com/track/74hbxXrq3TYPK5JzDgHkeL"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
         "name": "Verdi: Rigoletto",
         "url": "https://open.spotify.com/album/1sfnSIMuSOo9RFLgorKKfn"
       },
@@ -1911,6 +1887,30 @@
       "duration_ms": 104800,
       "name": "Rigoletto / Act 1: \"Questa o quella\"",
       "url": "https://open.spotify.com/track/6ZJEK5CsoBhASLnakKEMZk"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "Verdi: Nabucco",
+        "url": "https://open.spotify.com/album/6dLhLAMPKpxpyhKjphx62U"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Riccardo Muti",
+          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
+        }
+      ],
+      "duration_ms": 667640,
+      "name": "Verdi: Nabucco, Act 3: \"Donna, chi sei?\" (Nabucco, Abigaille) / Chi \u00e8 costei?... Oh, di qual'onta aggravisi\" (Nabucco, Abigaille)",
+      "url": "https://open.spotify.com/track/74hbxXrq3TYPK5JzDgHkeL"
     },
     {
       "added_at": "2022-06-27 14:42:44",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 
 > Unique versions of hit songs by other artists\. Cover: Austin Snell
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,761 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,819 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 57 | [Chasing Cars](https://open.spotify.com/track/5cJVYEIjmjGqKhqD5ggGLe) | [Ryan Waters Band](https://open.spotify.com/artist/3R2ZcnOHyjuj0a61bq9GTi) | [Chasing Cars](https://open.spotify.com/album/0rssTXPsHka5HdX61YbpMG) | 3:57 |
 | 58 | [Margaritaville \(with Jimmy Buffett\)](https://open.spotify.com/track/2CEWW0uqHj7sJrXdfHwozn) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS), [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Under The Influence](https://open.spotify.com/album/3wRDT9A3HLNUym3fCS6q48) | 4:15 |
 | 59 | [It's Just a Matter of Time](https://open.spotify.com/track/4ON9pkEiboV83FUHkeIxGp) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [No Holdin' Back](https://open.spotify.com/album/7IXbCht6SXIAww7H3GmwLP) | 3:55 |
-| 60 | [Whoever's in New England](https://open.spotify.com/track/04kCQmATnYeMObIw8Efnor) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Whoever's In New England](https://open.spotify.com/album/4bRzY03Ik2xuETyr1NDED4) | 3:46 |
-| 61 | [Outskirts of Heaven](https://open.spotify.com/track/7H3EzoWKPRcagDVhJU4WxI) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Outskirts of Heaven](https://open.spotify.com/album/6koiaXW97fMtsGIFX11CZm) | 4:03 |
+| 60 | [Outskirts of Heaven](https://open.spotify.com/track/7H3EzoWKPRcagDVhJU4WxI) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Outskirts of Heaven](https://open.spotify.com/album/6koiaXW97fMtsGIFX11CZm) | 4:03 |
+| 61 | [Whoever's in New England](https://open.spotify.com/track/04kCQmATnYeMObIw8Efnor) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Whoever's In New England](https://open.spotify.com/album/4bRzY03Ik2xuETyr1NDED4) | 3:46 |
 | 62 | [Wagon Wheel](https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [True Believers](https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8) | 4:58 |
 | 63 | [Jolene](https://open.spotify.com/track/3KwXjiZwQHSsqQAnrcH8uZ) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT) | 4:20 |
 | 64 | [If You Want Love](https://open.spotify.com/track/7pIE9aENmQqoy8yWUr0oiz) | [Jon Langston](https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P) | [If You Want Love](https://open.spotify.com/album/16For5G0QIZlxb8Yphrbe0) | 3:24 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 79 | [Bless the Broken Road](https://open.spotify.com/track/1EeCCbgSTeusyCCswMNvyc) | [Dylan Brady](https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1) | [Bless the Broken Road](https://open.spotify.com/album/6iKcEtNDnjXaPtHGL9Vnwo) | 3:06 |
 | 80 | [Feeling Whitney](https://open.spotify.com/track/1yHqsAEZxRAcQIkk8LHlFN) | [Tyler Booth](https://open.spotify.com/artist/7lUUBDm6D4zeAVxbBqtHel) | [Feeling Whitney](https://open.spotify.com/album/7e0N7emlUh6WAAFpsPdVJw) | 3:37 |
 | 81 | [Gentle On My Mind](https://open.spotify.com/track/3BGXzcX7YtQySO5wF1h5b2) | [The Band Perry](https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A) | [Glen Campbell I'll Be Me Soundtrack](https://open.spotify.com/album/78BasjleeC7P7hrjQGjlKa) | 3:09 |
-| 82 | [Dreams \- The Campfire Sessions](https://open.spotify.com/track/0dZeiSrApr5SAkrH5rQaRH) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Dreams \(The Campfire Sessions\)](https://open.spotify.com/album/1of3ww3gH47OlImOLsDAgb) | 3:46 |
-| 83 | [Loud and Heavy](https://open.spotify.com/track/6d5Ip7MN38R1av3Yf4BKMU) | [State of Mine](https://open.spotify.com/artist/78u21hh7csceByaxzd7pbh), [Drew Jacobs](https://open.spotify.com/artist/4sTH4GWWUdEvvkiVgn03D0) | [Loud and Heavy](https://open.spotify.com/album/6OQW4qOQaYacMXohv1cL8U) | 3:21 |
+| 82 | [Loud and Heavy](https://open.spotify.com/track/6d5Ip7MN38R1av3Yf4BKMU) | [State of Mine](https://open.spotify.com/artist/78u21hh7csceByaxzd7pbh), [Drew Jacobs](https://open.spotify.com/artist/4sTH4GWWUdEvvkiVgn03D0) | [Loud and Heavy](https://open.spotify.com/album/6OQW4qOQaYacMXohv1cL8U) | 3:21 |
+| 83 | [Dreams \- The Campfire Sessions](https://open.spotify.com/track/0dZeiSrApr5SAkrH5rQaRH) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Dreams \(The Campfire Sessions\)](https://open.spotify.com/album/1of3ww3gH47OlImOLsDAgb) | 3:46 |
 | 84 | [You're Still the One](https://open.spotify.com/track/1Lmtr7tJasX392hKpbHPx1) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Western](https://open.spotify.com/album/4SVARHCaBlRSrfUO5YWMRy) | 3:29 |
 | 85 | [Someone Like You \- Piano Vocal](https://open.spotify.com/track/55BiXEd58TxhBPGJ5tImyJ) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [1979](https://open.spotify.com/album/5kWwElTZERMW15WMNHLI7C) | 5:20 |
 | 86 | [Blue Bayou](https://open.spotify.com/track/3w67gvawlNpzU1YiP355OM) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Kellyoke](https://open.spotify.com/album/6NHAQ0pGd5ufv61Irqdpmi) | 3:52 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 96 | [If I Needed You](https://open.spotify.com/track/4VtVQjEOaRzZQK1fnqNwNa) | [Rachel Bradshaw](https://open.spotify.com/artist/6b62EC4kRXUMm8JbMhl3I4), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [Rachel Bradshaw](https://open.spotify.com/album/0V2PkvIAZN1VMW6wNPHGUp) | 3:12 |
 | 97 | [Folsom Prison Blues \- Spotify Singles](https://open.spotify.com/track/1wj5x7RQ84qfjbBNm0PmWw) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Spotify Singles](https://open.spotify.com/album/7c95oJyrVBBYkgSbJIxtR1) | 3:52 |
 | 98 | [Wild And Blue](https://open.spotify.com/track/6hinPiQx1Us1iN1XBN5JG5) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Wild And Blue](https://open.spotify.com/album/4QzT0aXnzuEMsQ9LMgdEyo) | 3:06 |
-| 99 | [I’m Just An Old Chunk Of Coal \(But I’m Gonna Be A Diamond Someday\)](https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [I’m Just An Old Chunk Of Coal \(But I’m Gonna Be A Diamond Someday\)](https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN) | 4:08 |
-| 100 | [Into the Mystic](https://open.spotify.com/track/0VKt9tsf9gOY3eotIfRHNS) | [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [Under the Covers](https://open.spotify.com/album/69p0kNEn0mPNqkWwauuwOq) | 3:41 |
+| 99 | [Into the Mystic](https://open.spotify.com/track/0VKt9tsf9gOY3eotIfRHNS) | [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [Under the Covers](https://open.spotify.com/album/69p0kNEn0mPNqkWwauuwOq) | 3:41 |
+| 100 | [I’m Just An Old Chunk Of Coal \(But I’m Gonna Be A Diamond Someday\)](https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [I’m Just An Old Chunk Of Coal \(But I’m Gonna Be A Diamond Someday\)](https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN) | 4:08 |
 
-Snapshot ID: `MCwwMGJlMmNjNTA4ODFjMjFjYjU5YTJjM2ViN2NiYmFjZGQ2ZmU0MDQx`
+Snapshot ID: `MCw5MWU1ODkzN2UwYTAzN2FiZjk2NTc0MTUyM2EzODI4YTYwZThhYjI5`

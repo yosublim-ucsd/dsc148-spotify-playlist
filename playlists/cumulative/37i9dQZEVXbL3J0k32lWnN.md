@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,172 songs - 2 day 13 hr 17 min
+1,173 songs - 2 day 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 | 2022-12-08 | 2023-05-14 |
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/64BuLY7ggczC17w5LSUlSE) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:41 | 2022-12-05 | 2022-12-09 |
 | [Crown](https://open.spotify.com/track/2IwbW2jd0Ncv99Aroe77Ru) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 4:24 | 2022-05-14 | 2022-05-16 |
+| [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2023-08-10 |  |
 | [Cry Your Heart Out](https://open.spotify.com/track/09u787BYeYIGd2mFIJ505t) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 4:15 | 2021-11-21 | 2021-11-25 |
 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 | 2022-09-22 | 2023-01-03 |
 | [Curtains](https://open.spotify.com/track/6ZZf5a8oiInHDkBe9zXfLP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:44 | 2023-05-06 | 2023-05-08 |
@@ -760,7 +761,7 @@
 | [Mums](https://open.spotify.com/track/2UsR5UxsuKwJ2OovutZsjV) | [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J) | [Mums](https://open.spotify.com/album/6u6jhjQf7JGaC2C2TcwHR3) | 2:29 | 2021-04-11 | 2021-06-01 |
 | [Music For a Sushi Restaurant](https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:13 | 2022-05-21 | 2022-06-05 |
 | [My Bae](https://open.spotify.com/track/2CdOcwr7nEy7Rho5rslAiX) | [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg), [Larry 44](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh) | [Diplomático](https://open.spotify.com/album/5QaCWC5VBE7B0VA7bbCLhZ) | 2:12 | 2021-10-10 | 2021-10-11 |
-| [MY EYES](https://open.spotify.com/track/4kjI1gwQZRKNDkw1nI475M) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:11 | 2023-07-29 |  |
+| [MY EYES](https://open.spotify.com/track/4kjI1gwQZRKNDkw1nI475M) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:11 | 2023-07-29 | 2023-08-11 |
 | [My Little Love](https://open.spotify.com/track/2DuPBbS5mIldXnh7Wum8Cy) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:29 | 2021-11-21 | 2021-11-27 |
 | [My Only Wish \(This Year\)](https://open.spotify.com/track/0YWUHZPJVg4iujddsJDwhM) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [My Only Wish \(This Year\)](https://open.spotify.com/album/3Hocp9QorapDRHSyZ1AOVL) | 4:15 | 2021-11-22 | 2022-12-29 |
 | [My Universe](https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 3:46 | 2021-10-17 | 2023-07-09 |

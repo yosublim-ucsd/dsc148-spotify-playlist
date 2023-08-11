@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05We5FN3NiD.md) - [plain]
 
 > 2019 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,970 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,997 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,17 +27,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05We5FN3NiD.md) - [plain]
 | 17 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 |
 | 18 | [Imagination](https://open.spotify.com/track/2flxduIqEbsicdmPyj1WVW) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Imagination](https://open.spotify.com/album/5LbiR8iqC4hYeIKifnmVqc) | 4:16 |
 | 19 | [Norman fucking Rockwell](https://open.spotify.com/track/3RIgHHpnFKj5Rni1shokDj) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 4:08 |
-| 20 | [Cradles](https://open.spotify.com/track/5sSYvDVyP0CP9TUiqy3fuF) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Cradles](https://open.spotify.com/album/746AA6hN51bj4yUlGBHgUX) | 3:29 |
-| 21 | [Alaska](https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:08 |
+| 20 | [Alaska](https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:08 |
+| 21 | [Cradles](https://open.spotify.com/track/5sSYvDVyP0CP9TUiqy3fuF) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Cradles](https://open.spotify.com/album/746AA6hN51bj4yUlGBHgUX) | 3:29 |
 | 22 | [Heavenly](https://open.spotify.com/track/1Bh0UzthW8pKEnYg7v40Oa) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC) | 4:48 |
 | 23 | [prom dress](https://open.spotify.com/track/2xCGBWfzTe8l2kvHpgvB6M) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade](https://open.spotify.com/album/5mNk0mLiGcJHLGiT0mjHmX) | 3:17 |
 | 24 | [Scrawny](https://open.spotify.com/track/1pNUmVxDiE8t6P1XxcZAv8) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:46 |
 | 25 | [Hypersonic Missiles](https://open.spotify.com/track/6CltzquypraYIlWFp48m1O) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:57 |
-| 26 | [Ghostride](https://open.spotify.com/track/0R3TWpoxAhT3HDXM7tpRzS) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY) | 2:06 |
-| 27 | [Sunkissed](https://open.spotify.com/track/34RmzDXMv0ELSQTK4pNvX3) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Now and Then](https://open.spotify.com/album/4rfUHJjRb1Ywh0Gg8SEUcA) | 2:06 |
+| 26 | [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 |
+| 27 | [Ghostride](https://open.spotify.com/track/0R3TWpoxAhT3HDXM7tpRzS) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY) | 2:06 |
 | 28 | [Fuck it I love you](https://open.spotify.com/track/7MtVPRGtZl6rPjMfLoI3Lh) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 3:38 |
-| 29 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 |
-| 30 | [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 |
+| 29 | [Sunkissed](https://open.spotify.com/track/34RmzDXMv0ELSQTK4pNvX3) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Now and Then](https://open.spotify.com/album/4rfUHJjRb1Ywh0Gg8SEUcA) | 2:06 |
+| 30 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 |
 | 31 | [Softly](https://open.spotify.com/track/4PvbbMYL4fkToni5BLaYRb) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:05 |
 | 32 | [Habit](https://open.spotify.com/track/4BsLwvaJOTOHDNg7xMpvrL) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Habit](https://open.spotify.com/album/2vIIWsslRiFHiHPWFTsdaE) | 2:33 |
 | 33 | [hope is a dangerous thing for a woman like me to have \- but I have it](https://open.spotify.com/track/0fB77VOZ2FkQeKLv1DuEwp) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 5:24 |
@@ -55,13 +55,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05We5FN3NiD.md) - [plain]
 | 45 | [Hey, Ma](https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:36 |
 | 46 | [Lava](https://open.spotify.com/track/2dIeraguJ8SoHDqXfSZelZ) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Lately EP](https://open.spotify.com/album/4PeU1vYLxDKGzU3641YmFI) | 2:37 |
 | 47 | [Fallingwater](https://open.spotify.com/track/2CPLGREl5ahzA2WPBMkpxh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 4:31 |
-| 48 | [OUTTA MY MIND](https://open.spotify.com/track/7zTTDkkLkJ2iHAqq1daDCr) | [Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF) | [OUTTA MY MIND](https://open.spotify.com/album/6WWXMhWEmIM9SaAyZCFvYL) | 3:46 |
-| 49 | [Eat, Sleep, Wake \(Nothing But You\)](https://open.spotify.com/track/3nClCcBmn9NnrRQkQTkx1J) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Everything Else Has Gone Wrong](https://open.spotify.com/album/11yHtE6IzOk6elh9cJzldJ) | 3:39 |
+| 48 | [Eat, Sleep, Wake \(Nothing But You\)](https://open.spotify.com/track/3nClCcBmn9NnrRQkQTkx1J) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Everything Else Has Gone Wrong](https://open.spotify.com/album/11yHtE6IzOk6elh9cJzldJ) | 3:39 |
+| 49 | [OUTTA MY MIND](https://open.spotify.com/track/7zTTDkkLkJ2iHAqq1daDCr) | [Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF) | [OUTTA MY MIND](https://open.spotify.com/album/6WWXMhWEmIM9SaAyZCFvYL) | 3:46 |
 | 50 | [Ready To Let Go](https://open.spotify.com/track/4UyAtnwhaKv7EG1BdkBYRI) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 3:07 |
 | 51 | [Seventeen](https://open.spotify.com/track/5jZoYp0P8ML7AxkS3tQz3j) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t) | 4:25 |
 | 52 | [Posthumous Forgiveness](https://open.spotify.com/track/1KcOU0q9AMXV9xi4tSzzCc) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 6:06 |
-| 53 | [Harmony Hall](https://open.spotify.com/track/39exKIvycQDgs4T6uXdyu0) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 5:08 |
-| 54 | [Light Years](https://open.spotify.com/track/2GNj9KRwpxBWgEiPQc3jEj) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:33 |
+| 53 | [Light Years](https://open.spotify.com/track/2GNj9KRwpxBWgEiPQc3jEj) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:33 |
+| 54 | [Harmony Hall](https://open.spotify.com/track/39exKIvycQDgs4T6uXdyu0) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 5:08 |
 | 55 | [cellophane](https://open.spotify.com/track/7x8pIrhMu9FCmqqHNyuH0P) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [MAGDALENE](https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ) | 3:24 |
 | 56 | [When Am I Gonna Lose You](https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Violet Street](https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY) | 4:24 |
 | 57 | [Barefoot In The Park \(feat\. ROSALÍA\)](https://open.spotify.com/track/3onYsieuDICdVt5ULZSExF) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Assume Form](https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L) | 3:31 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05We5FN3NiD.md) - [plain]
 | 95 | [Charlie](https://open.spotify.com/track/2SonpVAvJS3aOi63oEOTlQ) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Charlie](https://open.spotify.com/album/3YUPGv1HNS6HuFbUFIsfJY) | 3:10 |
 | 96 | [Sunlight](https://open.spotify.com/track/65eQZ65gCurZX0SXTfeBnc) | [Yuno](https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa) | [Sunlight](https://open.spotify.com/album/3g2V8aC3c2ytEKHLeMhKBX) | 3:32 |
 | 97 | [Ain't Together](https://open.spotify.com/track/4aGvs7y4hQIbGss7zmEXKf) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Cheap Queen](https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG) | 3:22 |
-| 98 | [Time](https://open.spotify.com/track/0FjTazWaBSHBVWm2PAGghQ) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 3:56 |
-| 99 | [Salted Caramel Ice Cream](https://open.spotify.com/track/13QZb2ua0JY2VJU9wG4PmQ) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Metronomy Forever](https://open.spotify.com/album/7IzNAyOsxeWhKPyNNz1urS) | 3:30 |
+| 98 | [Salted Caramel Ice Cream](https://open.spotify.com/track/13QZb2ua0JY2VJU9wG4PmQ) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Metronomy Forever](https://open.spotify.com/album/7IzNAyOsxeWhKPyNNz1urS) | 3:30 |
+| 99 | [Time](https://open.spotify.com/track/0FjTazWaBSHBVWm2PAGghQ) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 3:56 |
 | 100 | [Unbearably White](https://open.spotify.com/track/2FjoCQaBoiEKs3FCvD0HkR) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 4:40 |
 
-Snapshot ID: `MCxiODRhODJmNDIyN2UwZTRhNWQzMjJlMjRhZDYzMTgyYWIwMjg2NDYy`
+Snapshot ID: `MCxhNDE0ZGYwZjUyODRjYmVhNWE1ODhmOTdlYWU2NGFiMWYxNTBjMDNm`

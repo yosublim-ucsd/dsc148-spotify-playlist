@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 120866,
       "name": "409",
       "url": "https://open.spotify.com/track/1gWj5OlKlZmBvtkYxluZux"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-10",
+      "date_removed": null,
       "duration_ms": 133893,
       "name": "Barbara Ann",
       "url": "https://open.spotify.com/track/2KOt2JrCB720UxIbyzweQo"
@@ -398,7 +398,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 121466,
       "name": "Dance, Dance, Dance - Remastered",
       "url": "https://open.spotify.com/track/2qtFkMvkD5R7kKYCNIh5MR"
@@ -578,7 +578,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-10",
+      "date_removed": null,
       "duration_ms": 169933,
       "name": "Don't Worry Baby - Remastered 2001",
       "url": "https://open.spotify.com/track/1GLmaPfulP0BrfijohQpN5"
@@ -968,7 +968,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 157293,
       "name": "I Can Hear Music",
       "url": "https://open.spotify.com/track/1hcMfYTsRTC4hIKbfosxjz"
@@ -1094,7 +1094,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 134133,
       "name": "In My Room - Remastered",
       "url": "https://open.spotify.com/track/62fX8EW16l8St2yL8rMer9"
@@ -1206,7 +1206,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-19",
+      "date_removed": null,
       "duration_ms": 119866,
       "name": "Let's Go Trippin' - Remastered 2001",
       "url": "https://open.spotify.com/track/3JybKlFWGucgEZkYJNINph"
@@ -1242,7 +1242,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 100933,
       "name": "Little Deuce Coupe - Remastered 2001",
       "url": "https://open.spotify.com/track/75WMOzv7195ziyx0qEw1yE"
@@ -1260,7 +1260,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-09",
+      "date_removed": null,
       "duration_ms": 114333,
       "name": "Little Honda (Stereo)",
       "url": "https://open.spotify.com/track/1QL2yb3tD2zF5I1NAYH3mD"
@@ -1483,6 +1483,24 @@
     },
     {
       "album": {
+        "name": "The Very Best Of The Beach Boys: Sounds Of Summer",
+        "url": "https://open.spotify.com/album/47VjIh8rgyMJJHNR98w0Kw"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111145,
+      "name": "Shut Down - Stereo/Remastered 2003",
+      "url": "https://open.spotify.com/track/1EhMUZc4oAtepRdcuI6Uni"
+    },
+    {
+      "album": {
         "name": "Pet Sounds (Original Mono & Stereo Mix)",
         "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
       },
@@ -1512,7 +1530,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-07",
+      "date_removed": null,
       "duration_ms": 121360,
       "name": "Stoked - Remastered 2001",
       "url": "https://open.spotify.com/track/3rxEuNCh8TJkbbVIGs7zBd"
@@ -1566,7 +1584,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 148533,
       "name": "Surfer Girl - Remastered 2001",
       "url": "https://open.spotify.com/track/1AJ5F0FMTC3yFU3ocjy1gE"

@@ -4,7 +4,7 @@
 
 > Pa' cantar, bailar y pistear\. ¡Qué suene el mariachi! En portada: Javier Solís
 
-135 songs - 7 hr 25 min
+136 songs - 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Fallaste corazon](https://open.spotify.com/track/7mYRqhp7hhew3UlSvEkJN5) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Mexico Gran Colección Ranchera \- Pedro Infante](https://open.spotify.com/album/18D7PLKVrWsls3JKP6iPxH) | 3:46 | 2021-12-13 | 2022-07-29 |
 | [Fallaste Corazón](https://open.spotify.com/track/6BIRIBJuEGLds1oAxvybLO) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Mexico Gran Colección Ranchera: Pedro Infante](https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC) | 3:46 | 2021-12-13 |  |
 | [Fallaste Corazón](https://open.spotify.com/track/0rUMr9AGCAaNhBWwCGgLl4) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Pedro Infante y Luis Aguilar](https://open.spotify.com/album/4xyvfvC7IEY0kF9JU9Mqmf) | 3:46 | 2022-08-31 | 2022-11-13 |
-| [Golondrina De Ojos Negros \- Versión Mariachi](https://open.spotify.com/track/3syPKM9ORE0fyb7tucLR58) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Con Mariachi](https://open.spotify.com/album/6ZmAvrZsc7atoSDqqODDVF) | 3:13 | 2021-12-13 |  |
+| [Golondrina De Ojos Negros \- Versión Mariachi](https://open.spotify.com/track/3syPKM9ORE0fyb7tucLR58) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Con Mariachi](https://open.spotify.com/album/6ZmAvrZsc7atoSDqqODDVF) | 3:13 | 2021-12-13 | 2023-08-11 |
 | [Hermoso Cariño](https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernández](https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO) | 2:36 | 2021-12-13 |  |
 | [Himno A La Humildad](https://open.spotify.com/track/73VnO22Ad7K9lJSpUZT9QT) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd), [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Por Amor A Mi Pueblo](https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od) | 4:25 | 2021-12-13 |  |
 | [Inocente Pobre Amigo](https://open.spotify.com/track/2CvbBW72Rj5MXokvLpWsXZ) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con el Mariachi de América de Jesús Rodríguez de Hijar](https://open.spotify.com/album/1KyEwimgjlEeq4Ovc1D8ws) | 4:05 | 2021-12-13 |  |
@@ -119,6 +119,7 @@
 | [Soy lo prohibido](https://open.spotify.com/track/3zceb1fYe5jdwEmuGvJINO) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [¡MÉXICO Por Siempre!](https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche) | 3:04 | 2021-12-13 |  |
 | [Soñador Eterno](https://open.spotify.com/track/15vyZX2dCWO1alNLe8YjZs) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo Y Con Todos](https://open.spotify.com/album/2KAiIn3T5KHdbHOdzNsFvV) | 3:13 | 2021-12-13 | 2022-07-29 |
 | [Soñador Eterno](https://open.spotify.com/track/3mPcFoFfDb5r6WkbIFQKqa) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo y Con Todos](https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa) | 3:13 | 2021-12-13 | 2023-08-09 |
+| [Soñador Eterno](https://open.spotify.com/track/5u91nMfFrx63mbRENGOSUA) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo y Con Todos](https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX) | 3:13 | 2022-08-31 |  |
 | [Tata Dios](https://open.spotify.com/track/3hk6MLu7MCPDGQJPL6SY9s) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 3:29 | 2021-12-13 |  |
 | [Tatuajes](https://open.spotify.com/track/57dG9il4j7Hi7G8Cqgi0Ts) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con Mariachi](https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M) | 3:31 | 2021-12-13 |  |
 | [Te He Prometido](https://open.spotify.com/track/0GPaCFW9LByG4JFjEaSqxV) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Sólo para Mujeres](https://open.spotify.com/album/21BVTiwvdCY9WOPUSptUfd) | 2:42 | 2022-08-31 | 2022-11-13 |

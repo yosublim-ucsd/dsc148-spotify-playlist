@@ -4,12 +4,12 @@
 
 > Tengan a la mano las máscaras de lucha libre y la tabla de surf.
 
-236 songs - 11 hr 45 min
+237 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [!Pum\-!Pum, Bang\-Bang!](https://open.spotify.com/track/5UDoPAgMsSQ4giy3sl2ssa) | [Los Esquizitos](https://open.spotify.com/artist/2zYgJ6dbHzarjjnMCGeV2A) | [Los Esquizitos Escuchese Bien Fuerte](https://open.spotify.com/album/21T3aN8NPYUBqZnqNHnIna) | 3:52 | 2021-09-03 | 2022-07-26 |
-| [1,2,3,4 \- Los Cogelones Remix](https://open.spotify.com/track/0Fn7a7chIZRWOt80MOchqJ) | [Titán](https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu), [Los Cogelones](https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS) | [1, 2, 3, 4 \(Los Cogelones Remix\)](https://open.spotify.com/album/1naZNZNvA9YfCMP7LZPnEJ) | 3:47 | 2022-03-11 |  |
+| [1,2,3,4 \- Los Cogelones Remix](https://open.spotify.com/track/0Fn7a7chIZRWOt80MOchqJ) | [Titán](https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu), [Los Cogelones](https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS) | [1, 2, 3, 4 \(Los Cogelones Remix\)](https://open.spotify.com/album/1naZNZNvA9YfCMP7LZPnEJ) | 3:47 | 2022-03-11 | 2023-08-11 |
 | [96 Lagrimas](https://open.spotify.com/track/00KMOWuq9s94Nbv3PXKRUB) | [Los Peyotes](https://open.spotify.com/artist/1VbfSBBZCtzmy9I3a4oHJp) | [Garaje o Muerte](https://open.spotify.com/album/21cnBP9BOz7CgVTsAyWon6) | 2:27 | 2021-09-03 | 2022-07-29 |
 | [Abuela Zombie](https://open.spotify.com/track/0hFQrpJHkfTbXwG7frxlaj) | [Yucatán A Go\-Go](https://open.spotify.com/artist/7CzeS5wP7C4qjijGUTIAHh) | [Canciones Basura](https://open.spotify.com/album/2iUEXQDCElKqNqiqgezasO) | 2:51 | 2021-09-03 | 2023-07-20 |
 | [Acapulco Golden](https://open.spotify.com/track/0GipqaZSPznaEikzGgygwb) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Acapulco Golden](https://open.spotify.com/album/54nY5IKYlpgFYYXbA5Y3hr) | 2:27 | 2021-09-03 | 2022-08-20 |
@@ -243,6 +243,7 @@
 | [Wipe Out](https://open.spotify.com/track/2h83AMl3afIAWks8Z3Sn9C) | [The Surfaris](https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv) | [Play](https://open.spotify.com/album/42JQLLWxQEO4FWNUIF5etd) | 2:13 | 2021-09-03 |  |
 | [Wipeout](https://open.spotify.com/track/7MDhNSelA2xaMH60WCypF4) | [The Ventures](https://open.spotify.com/artist/2GaayiIs1kcyNqRXQuzp35) | [60s Rock Instrumental Collection, Vol\. 2](https://open.spotify.com/album/4rsapx0Krcb08U1NubmC6f) | 3:53 | 2021-09-03 |  |
 | [Wish You Were Here](https://open.spotify.com/track/0bPl0bTLYzpnkIZOtES29O) | [Arizona Baby](https://open.spotify.com/artist/1RzhOKsFwEhVZWR2OmCCqV), [Los Coronas](https://open.spotify.com/artist/47Q90hbpzShTWyi60e6uVN) | [Dos Bandas y un Destino](https://open.spotify.com/album/3BmLh6ul8Rbj9LiabRcKQ1) | 3:49 | 2021-09-03 |  |
+| [¡Pum\-Pum! ¡Bang\-Bang!](https://open.spotify.com/track/0at4CKnxtYgZ7epJjomd30) | [Los Esquizitos](https://open.spotify.com/artist/2zYgJ6dbHzarjjnMCGeV2A) | [Los Esquizitos](https://open.spotify.com/album/72qcrTIMcqB0UxMnHDZ8R3) | 3:52 | 2023-07-28 |  |
 | [Ácido Surfúrico](https://open.spotify.com/track/0Y0Y0OIVp1g40Bmy1issBZ) | [Los Pegajosos](https://open.spotify.com/artist/4ipiEnWeX9r4MinEb9hco6) | [Profecía Celeste](https://open.spotify.com/album/1OUbvQlEfRsVTvIgFJuk2X) | 2:20 | 2021-09-03 | 2022-07-24 |
 
 \*This playlist was first scraped on 2022-06-30. Prior content cannot be recovered.

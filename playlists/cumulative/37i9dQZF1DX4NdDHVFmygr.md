@@ -4,7 +4,7 @@
 
 > Écoutez en boucle les hits 100% marocains du moment.
 
-289 songs - 15 hr 43 min
+291 songs - 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Ajini](https://open.spotify.com/track/5YwpA9KqbnVq05XcP2m2I6) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Ajini](https://open.spotify.com/album/2FhuJD75gtB0BbSlrlvcvj) | 2:48 | 2023-03-06 | 2023-05-24 |
 | [Ajiyi](https://open.spotify.com/track/5FZ0py45ywEQseBHBwaz5f) | [Iguidr](https://open.spotify.com/artist/6tjt10KbSIyUZEid47Kxbg), [Flomine](https://open.spotify.com/artist/4ftrhn6reSyzhgXgCYb9qs), [Hassan Azenzar](https://open.spotify.com/artist/41XrLXoF6VggjcBrCeNd2E) | [Ajiyi](https://open.spotify.com/album/292GSzLdX49NvNGwFWIpxr) | 3:36 | 2022-07-26 | 2022-08-21 |
 | [Alatif](https://open.spotify.com/track/3MekLQaFbkJATNMy721UKa) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Alatif](https://open.spotify.com/album/0GzkWLNFOpyePPnnztgYPf) | 2:44 | 2022-10-20 | 2022-11-25 |
-| [AMANA](https://open.spotify.com/track/0rQFZ5pBJHxsMbF6bjTa3k) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [AMANA](https://open.spotify.com/album/7c2J6uQQaokBaxAEPQP8mK) | 2:46 | 2023-08-02 |  |
+| [AMANA](https://open.spotify.com/track/0rQFZ5pBJHxsMbF6bjTa3k) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [AMANA](https://open.spotify.com/album/7c2J6uQQaokBaxAEPQP8mK) | 2:46 | 2023-08-02 | 2023-08-11 |
 | [Amora](https://open.spotify.com/track/3dDltvmsiTzFO6K5Pq4HFL) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [AUBE](https://open.spotify.com/album/6AVj98SypznZT2Lwe2r6HC) | 2:38 | 2023-01-11 | 2023-02-22 |
 | [Ana](https://open.spotify.com/track/1Mbtfx8kfwxKp9IIuGqNqm) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [AFROBOY](https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1) | 3:10 | 2023-01-19 | 2023-01-29 |
 | [Ana Wiyak](https://open.spotify.com/track/6DLEP9WL1MAoDqFDWAIch5) | [Anthony Touma](https://open.spotify.com/artist/7q4O5KTgHKdsT15BWNr0M7), [Maria Nadim](https://open.spotify.com/artist/3e5UC7VlCSt4DLxmXCYXZe) | [Ana Wiyak](https://open.spotify.com/album/62xt9zSogidX80GRNfLZZ6) | 2:58 | 2021-12-25 | 2022-01-12 |
@@ -43,6 +43,7 @@
 | [Ba9i Ghadi](https://open.spotify.com/track/1H6QL0ZZQE6PGEjIK6PquR) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv), [Marjana](https://open.spotify.com/artist/5RYnsnyAY3olfaIWVVcjP5) | [Ba9i Ghadi](https://open.spotify.com/album/4B3gXNiT4cwYk0ncSimlSI) | 2:56 | 2021-12-25 | 2022-02-10 |
 | [BABA](https://open.spotify.com/track/7wx8mijv8TXROYv2WZ2oTM) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i), [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [BABA](https://open.spotify.com/album/1vNjVDbX6zT8eGXg5fKbwj) | 3:00 | 2021-12-25 | 2022-05-05 |
 | [Baqi](https://open.spotify.com/track/0ZEsqUUWGsL5FOv8qjnzNT) | [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [باقي](https://open.spotify.com/album/6ErhouXML7Oo2m3JIbFsj3) | 3:54 | 2022-06-09 | 2023-02-15 |
+| [BARAKA](https://open.spotify.com/track/6QzkkBwWeunfJbebhbdsU3) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [BARAKA](https://open.spotify.com/album/6l7VifF84WiHJSGZkRkEqs) | 3:42 | 2023-08-10 |  |
 | [Bayen](https://open.spotify.com/track/6GW9c4VOXzxfODQEVtkaP7) | [Zaynab](https://open.spotify.com/artist/392PzXdHwMWrN2PArb8aJu) | [Bayen](https://open.spotify.com/album/7338ZC7BoYblLtLrQlDhcE) | 3:18 | 2022-03-17 | 2022-04-19 |
 | [Bianco](https://open.spotify.com/track/2EdXbgelxBBEiNvRb3fpLv) | [Abdeelgha4](https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv), [NEGAPHONE](https://open.spotify.com/artist/3Sfm2ZwC8k4XhMMJpP4hgM) | [Bianco](https://open.spotify.com/album/3y9ruR0EtvfUOaYUIBITs4) | 2:06 | 2021-12-25 | 2022-02-08 |
 | [Bin Nass](https://open.spotify.com/track/60WuyNSGd6SxDYoPviKHj0) | [Sofco](https://open.spotify.com/artist/3E9ui9b6vhr7yVLpcw0tK0), [Plylist](https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW) | [Bin Nass](https://open.spotify.com/album/3kvL2ysRWdUI73adglwS6P) | 3:58 | 2022-08-20 | 2022-09-07 |
@@ -109,7 +110,7 @@
 | [Hyati Ana](https://open.spotify.com/track/0UvW5kLHvjzN4YsHGM0oai) | [Douaa Lahyaoui](https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6) | [Hyati Ana](https://open.spotify.com/album/3ATnydBE42x10NtDiXe4mt) | 2:51 | 2021-12-25 | 2022-02-25 |
 | [INARA](https://open.spotify.com/track/5WDpxxOIYliyYQ4HSHwKvv) | [SCOOL BOY](https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV) | [INARA](https://open.spotify.com/album/5M63aDrFG28FQFYrAAcwEq) | 3:06 | 2022-10-25 | 2022-11-22 |
 | [INE INE](https://open.spotify.com/track/03O73RwxB4Ja3hBYRU6T0c) | [Holako](https://open.spotify.com/artist/2UKayx5zeeZ8oQh3ETChjE) | [INE INE](https://open.spotify.com/album/3pm2vCjNT2qFFU18cLkYkj) | 3:06 | 2022-12-13 | 2022-12-21 |
-| [Inta habibi](https://open.spotify.com/track/5nspOXY1J4WLcqUJ1q9fwO) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [SOS \(Chapitre 3\)](https://open.spotify.com/album/6oCXtKVOwAtyiAncg4QVWt) | 2:39 | 2022-11-25 |  |
+| [Inta habibi](https://open.spotify.com/track/5nspOXY1J4WLcqUJ1q9fwO) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [SOS \(Chapitre 3\)](https://open.spotify.com/album/6oCXtKVOwAtyiAncg4QVWt) | 2:39 | 2022-11-25 | 2023-08-11 |
 | [J'en ai marre !](https://open.spotify.com/track/39jtccUn5BcqpMbjzqFRlj) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [J'en ai marre !](https://open.spotify.com/album/1FQFJUXaLbSySLnTqSHtXX) | 3:31 | 2021-12-25 | 2022-04-08 |
 | [Jabha Fraso](https://open.spotify.com/track/5lS1g9BokChTZaLbymsxbz) | [Zakaria Ghafouli](https://open.spotify.com/artist/5m3exVDqKodrTlc3jECMTD) | [Jabha Fraso](https://open.spotify.com/album/6vUgmqUiOCNQT7HBGJt859) | 3:19 | 2022-05-10 | 2022-06-25 |
 | [Jamais de la vie](https://open.spotify.com/track/6RzXRaw6AnyIvK7tDLppd4) | [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa) | [Jamais de la vie](https://open.spotify.com/album/2PcSVRu7i7SCeEJl6iDXTy) | 3:49 | 2022-11-07 | 2023-02-03 |
@@ -163,6 +164,7 @@
 | [Ma Bébé](https://open.spotify.com/track/6hiAddGVuk3bRTiMUbNxcd) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i), [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Plylist](https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW) | [Ma Bébé](https://open.spotify.com/album/2cn6XNrO2YHOS6smpP9TMA) | 2:57 | 2022-10-27 | 2023-01-12 |
 | [Ma chérie](https://open.spotify.com/track/4eHeFewqpAJWg9Cc6W8jFj) | [DJ Sem](https://open.spotify.com/artist/6RXNoNfqGTqlCIwAvzo4Xp), [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Ma chérie](https://open.spotify.com/album/78wXRLJtmhkwU1WuIxTn48) | 3:35 | 2022-10-12 | 2023-01-20 |
 | [Ma colombe \- Moroccan Remix](https://open.spotify.com/track/1MbHeoSYFMKzkbybU9FQtF) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Ma colombe \(Moroccan Remix\)](https://open.spotify.com/album/3Wrj1ika3KdChgr8UZFN09) | 3:09 | 2021-12-25 | 2022-08-06 |
+| [MA DENBI](https://open.spotify.com/track/447567rKGG5x3ZGHcIp2Cm) | [L7or](https://open.spotify.com/artist/5NIanI5i7BSxYhc7DKpGZr) | [MA DENBI](https://open.spotify.com/album/5JrL5ugsY0fkGmjeMlFnfh) | 3:11 | 2023-08-10 |  |
 | [Ma Jolie](https://open.spotify.com/track/7pktxOiANdgQnzJmp7vwON) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Cagoulé](https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0) | 2:24 | 2022-05-27 | 2023-01-14 |
 | [Ma Nabni](https://open.spotify.com/track/09L0R9oOyNyC6X8c2aKLtW) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Ma Nabni](https://open.spotify.com/album/0TlqqkCP5JzdgFHCJzuXwO) | 3:35 | 2021-12-25 | 2022-02-12 |
 | [MA VIE](https://open.spotify.com/track/7K6MsmYeR2atpaUcRi9Yeg) | [Mr\. Crazy](https://open.spotify.com/artist/3T0mKZYTDmRODhPJYsQNoz) | [MA VIE](https://open.spotify.com/album/3vGhVOZ4EiE4EETVFLBoRn) | 3:15 | 2022-04-18 | 2022-05-27 |

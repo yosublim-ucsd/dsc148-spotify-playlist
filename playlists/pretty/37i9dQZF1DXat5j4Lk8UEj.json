@@ -1,12 +1,12 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & the Night Sweats",
-  "num_followers": 493013,
+  "num_followers": 493053,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OGNlNjNkMTAxMDIyYTk5MjM2YzIxYjljMWM2OTk5OWJjYmMxMzQ0",
+  "snapshot_id": "MCxhYTA3YmMyMTM1MmZlZTZlMjMwMmIxMmE5YjgxNzkzNmM5ODBhNjYx",
   "tracks": [
     {
       "added_at": "2023-07-28 04:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "I Don\u2019t Live Here Anymore",
-        "url": "https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB"
-      },
-      "artists": [
-        {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
-        }
-      ],
-      "duration_ms": 293866,
-      "name": "Living Proof",
-      "url": "https://open.spotify.com/track/4VhvGhj8pdAqFJBuAfUW38"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Take Good Care",
         "url": "https://open.spotify.com/album/10cYvuRfY8IpASva845zgF"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 218333,
       "name": "All My Friends",
       "url": "https://open.spotify.com/track/2WgbFkQQswVVEWnyKnFo2q"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "I Don\u2019t Live Here Anymore",
+        "url": "https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "duration_ms": 293866,
+      "name": "Living Proof",
+      "url": "https://open.spotify.com/track/4VhvGhj8pdAqFJBuAfUW38"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "People Are My Drug",
-        "url": "https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl"
-      },
-      "artists": [
-        {
-          "name": "Phil Cook",
-          "url": "https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E"
-        }
-      ],
-      "duration_ms": 241746,
-      "name": "Miles Away",
-      "url": "https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Inwards & Onwards",
         "url": "https://open.spotify.com/album/0VEMheeFHsdgqFY9sFqvYO"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 138939,
       "name": "How Come My Body",
       "url": "https://open.spotify.com/track/0x7OMTKyisoB40neHlnJ8H"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "People Are My Drug",
+        "url": "https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl"
+      },
+      "artists": [
+        {
+          "name": "Phil Cook",
+          "url": "https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E"
+        }
+      ],
+      "duration_ms": 241746,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "From Dreams to Dust",
-        "url": "https://open.spotify.com/album/4Dv3k5qKbTAOM777tJKo1s"
-      },
-      "artists": [
-        {
-          "name": "The Felice Brothers",
-          "url": "https://open.spotify.com/artist/4Ajgo7nAsTzjSFymIfBjZ1"
-        }
-      ],
-      "duration_ms": 272346,
-      "name": "Jazz on the Autobahn",
-      "url": "https://open.spotify.com/track/5IObx9f9zVxTGfzyRQWYSe"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Absolute Loser",
         "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 231800,
       "name": "Absolute Loser",
       "url": "https://open.spotify.com/track/45wGhAr9756RWGrSs35r56"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "From Dreams to Dust",
+        "url": "https://open.spotify.com/album/4Dv3k5qKbTAOM777tJKo1s"
+      },
+      "artists": [
+        {
+          "name": "The Felice Brothers",
+          "url": "https://open.spotify.com/artist/4Ajgo7nAsTzjSFymIfBjZ1"
+        }
+      ],
+      "duration_ms": 272346,
+      "name": "Jazz on the Autobahn",
+      "url": "https://open.spotify.com/track/5IObx9f9zVxTGfzyRQWYSe"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "The Pet Parade",
+        "url": "https://open.spotify.com/album/4fyZyhtsOevsFYLbLitaHZ"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 248925,
+      "name": "The Balcony",
+      "url": "https://open.spotify.com/track/27GaPhdSkbvrfPTKZk2C6V"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Heigh Ho",
         "url": "https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 221706,
       "name": "Seven Hours",
       "url": "https://open.spotify.com/track/1g9n3Y040NXNrDYZ3xo3yb"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "The Pet Parade",
-        "url": "https://open.spotify.com/album/4fyZyhtsOevsFYLbLitaHZ"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 248925,
-      "name": "The Balcony",
-      "url": "https://open.spotify.com/track/27GaPhdSkbvrfPTKZk2C6V"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "My Entire Life",
+        "url": "https://open.spotify.com/album/0RlHHNuhYu4OAUMmo3gHzO"
+      },
+      "artists": [
+        {
+          "name": "Susto",
+          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
+        }
+      ],
+      "duration_ms": 166080,
+      "name": "My Entire Life",
+      "url": "https://open.spotify.com/track/5k3DxjK0pyumrqWiRbSUL0"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Born To Die",
         "url": "https://open.spotify.com/album/4P19H9TULgF2zUxNGPkBoK"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 203547,
       "name": "Doobie Bronson",
       "url": "https://open.spotify.com/track/4c57bsRSaFavDqPKxYW2nR"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "My Entire Life",
-        "url": "https://open.spotify.com/album/0RlHHNuhYu4OAUMmo3gHzO"
-      },
-      "artists": [
-        {
-          "name": "Susto",
-          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
-        }
-      ],
-      "duration_ms": 166080,
-      "name": "My Entire Life",
-      "url": "https://open.spotify.com/track/5k3DxjK0pyumrqWiRbSUL0"
     },
     {
       "added_at": "2023-07-28 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Aqua",
-  "num_followers": 3426708,
+  "num_followers": 3427099,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjZlYzA3MjlkZGUyMjNjYTE4YzcxMmYzNzhjMTM5OTU0YWEyNTJl",
+  "snapshot_id": "MCwzMjI1Mjc1OWNiOTE2Njc3ZGMyYzQ5MmI3Y2E0YTY2OWJkOWJkZTE5",
   "tracks": [
     {
       "added_at": "2023-08-04 16:18:45",
@@ -671,6 +671,26 @@
     {
       "added_at": "2023-08-04 16:18:45",
       "album": {
+        "name": "Shivers (Dillon Francis Remix)",
+        "url": "https://open.spotify.com/album/1IhjAej4bFQdXNh9yRwE7B"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "duration_ms": 127766,
+      "name": "Shivers (Dillon Francis Remix) [Main Mix]",
+      "url": "https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b"
+    },
+    {
+      "added_at": "2023-08-04 16:18:45",
+      "album": {
         "name": "Hold Me Closer (Joel Corry Remix)",
         "url": "https://open.spotify.com/album/6cZP7F8HkDeMAsCcfCyRWa"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 248594,
       "name": "Hold Me Closer - Joel Corry Remix",
       "url": "https://open.spotify.com/track/5KbhvaeqKIB2bZcJMyfezl"
-    },
-    {
-      "added_at": "2023-08-04 16:18:45",
-      "album": {
-        "name": "Shivers (Dillon Francis Remix)",
-        "url": "https://open.spotify.com/album/1IhjAej4bFQdXNh9yRwE7B"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        }
-      ],
-      "duration_ms": 127766,
-      "name": "Shivers (Dillon Francis Remix) [Main Mix]",
-      "url": "https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b"
     },
     {
       "added_at": "2023-08-04 16:18:45",
@@ -875,6 +875,26 @@
     {
       "added_at": "2023-08-04 16:18:45",
       "album": {
+        "name": "Eyes Closed (Lost Frequencies Remix)",
+        "url": "https://open.spotify.com/album/3jRseYXGmX8RQ6ZTQ6tvsy"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "duration_ms": 179529,
+      "name": "Eyes Closed - Lost Frequencies Remix",
+      "url": "https://open.spotify.com/track/5xJrqHHLIqJlaK6c05pwYB"
+    },
+    {
+      "added_at": "2023-08-04 16:18:45",
+      "album": {
         "name": "Never Gonna Not Dance Again (Sam Feldt Remix)",
         "url": "https://open.spotify.com/album/4qxm7mFPzfXYEo5A9LPg5J"
       },
@@ -911,26 +931,6 @@
       "duration_ms": 138000,
       "name": "Green Green Grass - Sam Feldt Remix",
       "url": "https://open.spotify.com/track/7hRssVtvUSR7WnqzrqOACT"
-    },
-    {
-      "added_at": "2023-08-04 16:18:45",
-      "album": {
-        "name": "Eyes Closed (Lost Frequencies Remix)",
-        "url": "https://open.spotify.com/album/3jRseYXGmX8RQ6ZTQ6tvsy"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 179529,
-      "name": "Eyes Closed - Lost Frequencies Remix",
-      "url": "https://open.spotify.com/track/5xJrqHHLIqJlaK6c05pwYB"
     },
     {
       "added_at": "2023-08-04 16:18:45",
@@ -999,26 +999,6 @@
     {
       "added_at": "2023-08-04 16:18:45",
       "album": {
-        "name": "Padam Padam (Jax Jones Remix)",
-        "url": "https://open.spotify.com/album/56MZdg3g5dvDMwC5GsxbQQ"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        }
-      ],
-      "duration_ms": 204242,
-      "name": "Padam Padam - Jax Jones Remix",
-      "url": "https://open.spotify.com/track/5HSbqwNpsP7XeQyrGIO8M2"
-    },
-    {
-      "added_at": "2023-08-04 16:18:45",
-      "album": {
         "name": "Sunshine. The EP",
         "url": "https://open.spotify.com/album/0XXoRMuytQq5EFiNmMXL6c"
       },
@@ -1039,22 +1019,22 @@
     {
       "added_at": "2023-08-04 16:18:45",
       "album": {
-        "name": "Summertime Sadness (Imanbek Remix)",
-        "url": "https://open.spotify.com/album/5XRtJEsQ1jLvOkQZdBjPZZ"
+        "name": "Padam Padam (Jax Jones Remix)",
+        "url": "https://open.spotify.com/album/56MZdg3g5dvDMwC5GsxbQQ"
       },
       "artists": [
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         },
         {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
         }
       ],
-      "duration_ms": 265997,
-      "name": "Summertime - Imanbek Remix",
-      "url": "https://open.spotify.com/track/0f3cLpriwmAnZu5kRrssc5"
+      "duration_ms": 204242,
+      "name": "Padam Padam - Jax Jones Remix",
+      "url": "https://open.spotify.com/track/5HSbqwNpsP7XeQyrGIO8M2"
     },
     {
       "added_at": "2023-08-04 16:18:45",
@@ -1075,6 +1055,26 @@
       "duration_ms": 150789,
       "name": "Feeling Good - Austin Millz Remix",
       "url": "https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON"
+    },
+    {
+      "added_at": "2023-08-04 16:18:45",
+      "album": {
+        "name": "Summertime Sadness (Imanbek Remix)",
+        "url": "https://open.spotify.com/album/5XRtJEsQ1jLvOkQZdBjPZZ"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "duration_ms": 265997,
+      "name": "Summertime - Imanbek Remix",
+      "url": "https://open.spotify.com/track/0f3cLpriwmAnZu5kRrssc5"
     },
     {
       "added_at": "2023-08-04 16:18:45",
@@ -1271,26 +1271,22 @@
     {
       "added_at": "2023-08-04 16:18:45",
       "album": {
-        "name": "Sweetest Pie (David Guetta Remixes)",
-        "url": "https://open.spotify.com/album/3dOimtCkfFTZEgII99rZFl"
+        "name": "Say Yes To Heaven (Anyma Remix)",
+        "url": "https://open.spotify.com/album/35ZI8inROOaI4YkvOmCSLq"
       },
       "artists": [
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         },
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
         }
       ],
-      "duration_ms": 143000,
-      "name": "Sweetest Pie - David Guetta Dance Remix",
-      "url": "https://open.spotify.com/track/5xUJYQA7f6WU77N8VDASBH"
+      "duration_ms": 222076,
+      "name": "Say Yes To Heaven - Anyma Remix",
+      "url": "https://open.spotify.com/track/6YzWNNWyxVGC0eczvuUtmF"
     },
     {
       "added_at": "2023-08-04 16:18:45",
@@ -1311,6 +1307,30 @@
       "duration_ms": 173571,
       "name": "Ghost - Merk & Kremont Remix",
       "url": "https://open.spotify.com/track/1SDE6NorcBVtssHzaWeRC4"
+    },
+    {
+      "added_at": "2023-08-04 16:18:45",
+      "album": {
+        "name": "Sweetest Pie (David Guetta Remixes)",
+        "url": "https://open.spotify.com/album/3dOimtCkfFTZEgII99rZFl"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 143000,
+      "name": "Sweetest Pie - David Guetta Dance Remix",
+      "url": "https://open.spotify.com/track/5xUJYQA7f6WU77N8VDASBH"
     },
     {
       "added_at": "2023-08-04 16:18:45",
@@ -1451,26 +1471,6 @@
       "duration_ms": 166075,
       "name": "Better Days - Regard Remix",
       "url": "https://open.spotify.com/track/7Edhy8323TjVAwvtoqujQu"
-    },
-    {
-      "added_at": "2023-08-04 16:18:45",
-      "album": {
-        "name": "Say Yes To Heaven (Anyma Remix)",
-        "url": "https://open.spotify.com/album/35ZI8inROOaI4YkvOmCSLq"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        },
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        }
-      ],
-      "duration_ms": 222076,
-      "name": "Say Yes To Heaven - Anyma Remix",
-      "url": "https://open.spotify.com/track/6YzWNNWyxVGC0eczvuUtmF"
     },
     {
       "added_at": "2023-08-04 16:18:45",

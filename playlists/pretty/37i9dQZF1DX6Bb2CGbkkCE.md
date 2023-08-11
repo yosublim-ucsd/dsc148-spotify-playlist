@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Bb2CGbkkCE.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh?si=s0u7SNJXQQ\-JKMPH3p8dSw">Usain Bolt</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,805 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,809 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Bb2CGbkkCE.md) - [plain]
 | 27 | [Rent Money](https://open.spotify.com/track/5W9QCBJ6Em0XWX333YrNhc) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [FUTURE](https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r) | 4:25 |
 | 28 | [Dream in Color](https://open.spotify.com/track/4f7BNSy2ZVeabUJtjTX3kP) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Just Until....](https://open.spotify.com/album/0mRCQ9zhXQTjXusVJfSXoW) | 3:02 |
 | 29 | [Wild Thoughts \(feat\. Rihanna & Bryson Tiller\)](https://open.spotify.com/track/45XhKYRRkyeqoW3teSOkCM) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Grateful](https://open.spotify.com/album/3HhZbSJdhOqMSaRbEt3gtw) | 3:24 |
-| 30 | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX) | 3:22 |
-| 31 | [Family](https://open.spotify.com/track/1YRzgVYXnobOo68q4F6DEE) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Family](https://open.spotify.com/album/09pESGCreuRO6zGh6Sfloy) | 3:21 |
+| 30 | [Family](https://open.spotify.com/track/1YRzgVYXnobOo68q4F6DEE) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Family](https://open.spotify.com/album/09pESGCreuRO6zGh6Sfloy) | 3:21 |
+| 31 | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX) | 3:22 |
 | 32 | [You're Mines Still](https://open.spotify.com/track/3wJ1OyP3Fugmi8t41e1zQ6) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Love Scars: The 5 Stages Of Emotions \(Deluxe\)](https://open.spotify.com/album/2RhpPh3aaviygDMbFUa3HG) | 3:41 |
 | 33 | [Kilometre](https://open.spotify.com/track/0oQgoesQJq0fRnWOY1D73g) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Kilometre](https://open.spotify.com/album/6Vqv0UEcqmB1mMvvxZ4Y9T) | 2:32 |
 | 34 | [Roll Deep](https://open.spotify.com/track/5I55hcZJTmdVtyJC4Sn7ae) | [10Tik](https://open.spotify.com/artist/6I1j34QzSTWe6u4qQWKYJe) | [Roll Deep](https://open.spotify.com/album/0DVnruHgsqHFIoYnmpYlc2) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Bb2CGbkkCE.md) - [plain]
 | 49 | [Need Your Love](https://open.spotify.com/track/0raznvhKo5fzYqZKCp7wzA) | [Usain Bolt](https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh), [Jae Xo](https://open.spotify.com/artist/6rsxtEBge43PfF3FU9BMdM), [Nj](https://open.spotify.com/artist/3KNcuLUfY5AqiRXASRFWjC) | [Need Your Love](https://open.spotify.com/album/5kz0klHGG1LrTDdcQxuxyf) | 3:05 |
 | 50 | [Timing](https://open.spotify.com/track/3DWw2xtPBpv4fmp6MtGSrT) | [Usain Bolt](https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh), [Nj](https://open.spotify.com/artist/3KNcuLUfY5AqiRXASRFWjC) | [Usain Bolt Presents: Clockwork Riddim](https://open.spotify.com/album/1DwPjiZIEfx2jkaZjoS8IY) | 3:09 |
 
-Snapshot ID: `MCwzYjZhOWI0NjhhYzIyMzQwOWJkZmJiNzFiM2E0M2VhN2M3YzU5Yjhh`
+Snapshot ID: `MCwxOTFkZTRkZTFhZDY0OTI0NTc2NDE2ZTZjODkxZmEwMWFhMGNjNzky`

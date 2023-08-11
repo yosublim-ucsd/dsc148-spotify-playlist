@@ -4,7 +4,7 @@
 
 > Le meilleur du rap français version cloud\. Photo : Djadja & Dinaz
 
-248 songs - 12 hr 31 min
+249 songs - 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Black Pearl](https://open.spotify.com/track/1cNLTTuobJoTEQI4lhqZuS) | [Luv Resval](https://open.spotify.com/artist/5l8WyvJ50fdSghK2ySNq1y) | [Etoile Noire : Nébuleuse](https://open.spotify.com/album/2ckXqM9XfrPuuKnN39oRvw) | 3:47 | 2022-07-14 | 2023-01-13 |
 | [BLEU](https://open.spotify.com/track/4nIpx5FodqLx2fDjHQEeLU) | [Lapostroz](https://open.spotify.com/artist/3Bqyb0gNZGktVUZUlE1OGj) | [BLEU](https://open.spotify.com/album/58DA8gJ84X9aNARatE28DM) | 2:26 | 2023-03-09 | 2023-04-28 |
 | [BLEU LAGON](https://open.spotify.com/track/5HNdXMCVcUNrzcZZS68Abv) | [Magnar](https://open.spotify.com/artist/7I5n9ZSyE7tLoQusKJwyja) | [BLEU LAGON](https://open.spotify.com/album/4Gl1DkdM3CtGGj9fMXpSMl) | 2:21 | 2023-06-29 |  |
+| [Bonjour quand même](https://open.spotify.com/track/1ozKwcj59fq7PYjyi3NWbe) | [Tsune](https://open.spotify.com/artist/3xQSe5wUqOUFcF5GWlziQb) | [Bonjour quand même](https://open.spotify.com/album/1pLz5qmhYnHt4kUkAW0zfr) | 3:30 | 2023-08-10 |  |
 | [BORDEL](https://open.spotify.com/track/2zsHwRpE74couNe2TM97vl) | [Araujo](https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP) | [BORDEL](https://open.spotify.com/album/1OYNMkOWvo55wG2Pl39NLh) | 2:47 | 2023-04-27 | 2023-05-26 |
 | [Boulevard des Belges](https://open.spotify.com/track/7KFpc05eZ24c3DTDwY8ER4) | [Rifa](https://open.spotify.com/artist/7syrxKncMH592h3hwq0elv) | [Boulevard des Belges](https://open.spotify.com/album/4k6uAkPyFAcOAWIhRdgwUM) | 3:06 | 2023-03-02 | 2023-04-21 |
 | [Boyka](https://open.spotify.com/track/5sEaPVHq9bCxFaz0W2poeC) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Boyka](https://open.spotify.com/album/652TTQxvvWs3BIOUGY5q4d) | 3:41 | 2022-07-14 | 2022-09-23 |
@@ -229,7 +230,7 @@
 | [SKYLER](https://open.spotify.com/track/7eDBP5VI6Ouv7J39dHQo8V) | [GR OMEGA](https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ) | [SKYLER](https://open.spotify.com/album/2TDnaEceIVGmQ0pVCQUo2u) | 3:17 | 2022-12-01 | 2023-03-25 |
 | [Smile:\( \(feat\. So La Lune\)](https://open.spotify.com/track/1TBRrjtmgVxKTOJIjYiMrf) | [Ghost Killer Track](https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ), [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [Smile:\( \(feat\. So La Lune\)](https://open.spotify.com/album/4fSVefoyfmjASBGew0QzjL) | 3:07 | 2022-12-08 | 2023-03-18 |
 | [SOLIDE](https://open.spotify.com/track/6bHjkSacCGQ558e2VPHBL2) | [LETS GO](https://open.spotify.com/artist/1dsDes6AhaezAMdHIEQbAr), [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [LETS GO](https://open.spotify.com/album/07JcrUKjzCDu3fkEtiW1XP) | 3:09 | 2023-05-18 |  |
-| [Solitaire](https://open.spotify.com/track/4yYpZTbJPa6Uoct89yXdKf) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Solitaire](https://open.spotify.com/album/1w91fuTe3zAPvcSyGlZdvE) | 2:26 | 2022-08-11 |  |
+| [Solitaire](https://open.spotify.com/track/4yYpZTbJPa6Uoct89yXdKf) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Solitaire](https://open.spotify.com/album/1w91fuTe3zAPvcSyGlZdvE) | 2:26 | 2022-08-11 | 2023-08-11 |
 | [Sommeil](https://open.spotify.com/track/6eVVipPZh3JEKvlEQYFznu) | [Kidaki](https://open.spotify.com/artist/5N12NARVDJvkSSRye0G49M) | [Sommeil](https://open.spotify.com/album/3RGTGN8rYGaVUuxKIPE7dz) | 3:31 | 2023-06-08 |  |
 | [Sorcellerie](https://open.spotify.com/track/0tE3YgjdLTsyHXqVDMQRup) | [Golgoth](https://open.spotify.com/artist/6YPGhj88VOEmQ6e9qTotvA) | [Sorcellerie](https://open.spotify.com/album/3Bu0F3D4cRVX54BSPpni0k) | 2:20 | 2022-12-08 | 2023-03-03 |
 | [Southside](https://open.spotify.com/track/3u7O99o8DB5D3r1AL37v0g) | [LVZ](https://open.spotify.com/artist/7B8kPWR00p96IXVH6u4zrf) | [Southside](https://open.spotify.com/album/18A1iN7kZJ2HbaXANnonUH) | 2:35 | 2023-01-12 | 2023-03-18 |

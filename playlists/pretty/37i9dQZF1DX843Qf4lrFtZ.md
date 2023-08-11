@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX843Qf4lrFtZ.md) - [plain]
 
 > that’s how it's supposed to be\. living young, wild and free!!!!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,768,950 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,769,005 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX843Qf4lrFtZ.md) - [plain]
 | 63 | [Boy With Luv \(feat\. Halsey\)](https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) | 3:49 |
 | 64 | [Malibu](https://open.spotify.com/track/1UZOjK1BwmwWU14Erba9CZ) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Younger Now](https://open.spotify.com/album/5xG9gJcs9ut3qDWezHUlsX) | 3:51 |
 | 65 | [SG \(with Ozuna, Megan Thee Stallion & LISA of BLACKPINK\)](https://open.spotify.com/track/6IPNp9PfaEqrzotY47TIWy) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [SG \(with Ozuna, Megan Thee Stallion & LISA of BLACKPINK\)](https://open.spotify.com/album/2TGtXG18s21Q1jnY2TC39M) | 3:45 |
-| 66 | [Grapejuice](https://open.spotify.com/track/4j6kId9QIqhoXvqHKgSKa0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 |
-| 67 | [One Right Now \(with The Weeknd\)](https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [One Right Now](https://open.spotify.com/album/6fgSKdHloRioPrZ9oJC7FH) | 3:13 |
+| 66 | [One Right Now \(with The Weeknd\)](https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [One Right Now](https://open.spotify.com/album/6fgSKdHloRioPrZ9oJC7FH) | 3:13 |
+| 67 | [Grapejuice](https://open.spotify.com/track/4j6kId9QIqhoXvqHKgSKa0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 |
 | 68 | [Thousand Miles](https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Thousand Miles](https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf) | 2:44 |
 | 69 | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1) | 3:03 |
 | 70 | [Higher Love](https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Higher Love](https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE) | 3:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX843Qf4lrFtZ.md) - [plain]
 | 99 | [You](https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [You](https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1) | 3:53 |
 | 100 | [Higher Power](https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Higher Power](https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg) | 3:31 |
 
-Snapshot ID: `MCw5ZDI1YTE4MGIzYmRkMTlkZWFjOTAyYWJjNTk4MDUwZTZhNDliMTg1`
+Snapshot ID: `MCxjOGE2NTEwYmQyNzA2ZWViNTc3N2E2OWUwMDgxNDVlMDRmNTQ1ZWJj`

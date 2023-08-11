@@ -4,7 +4,7 @@
 
 > For those with a taste for both the new and the classic\. Cover: James Arthur
 
-779 songs - 1 day 19 hr 19 min
+780 songs - 1 day 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,8 @@
 | [Fall Into Me](https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Fall Into Me](https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l) | 3:46 | 2021-12-17 | 2022-05-20 |
 | [Falling \- Spotify Singles](https://open.spotify.com/track/6FHfUzKEh5vR0V3auDHHTW) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Spotify Singles](https://open.spotify.com/album/2oVpSWaKdTEDBTvgRgB0cR) | 3:44 | 2023-03-17 | 2023-04-29 |
 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2023-04-07 |  |
-| [favorite kind of high](https://open.spotify.com/track/3lxias37bJGSqIOLkQBJF9) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [favorite kind of high](https://open.spotify.com/album/0ovV62VKM8ADN9BZIlrQMn) | 2:55 | 2023-05-19 |  |
+| [favorite kind of high](https://open.spotify.com/track/3lxias37bJGSqIOLkQBJF9) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [favorite kind of high](https://open.spotify.com/album/0ovV62VKM8ADN9BZIlrQMn) | 2:55 | 2023-05-19 | 2023-08-11 |
+| [favorite kind of high](https://open.spotify.com/track/63ZSZznbGQhzJhOHPZ6WkT) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [chemistry](https://open.spotify.com/album/5c56JYNgc48iDnwHHlOcye) | 2:55 | 2023-08-04 |  |
 | [Feel Alive](https://open.spotify.com/track/0tb0RHrF4IpwPJOKYxnxxe) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [Feel Alive](https://open.spotify.com/album/3zNr5IOpeOlfhpAHYz4ihP) | 2:28 | 2023-03-10 | 2023-06-24 |
 | [Feels Like](https://open.spotify.com/track/5AsUMMM0euIPrmRrLfb7ly) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Feels Like](https://open.spotify.com/album/6WzV6DBxklzmYlqELv77Qh) | 2:32 | 2021-12-17 | 2022-01-29 |
 | [fetishizing struggle](https://open.spotify.com/track/24cn0KF3x38uSQ9NOMSuPQ) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [fetishizing struggle](https://open.spotify.com/album/4eTyK0eoBFOF86ItFBKCtV) | 2:55 | 2022-03-18 | 2022-04-02 |

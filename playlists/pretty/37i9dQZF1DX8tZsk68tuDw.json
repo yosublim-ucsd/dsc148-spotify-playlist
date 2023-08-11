@@ -1,12 +1,12 @@
 {
   "description": "Tomorrow's <a href=\"spotify:genre:edm_dance\">dance</a> hits, with Cloonee.",
-  "num_followers": 2035347,
+  "num_followers": 2035515,
   "original_name": "Dance Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTZkMDM0MWNhZWViMjU0Mzg2NTE3OGJmMTg4M2ZhNzA0NjhlYTVm",
+  "snapshot_id": "MCw5NjUzYTFiYmExMDljYzVhNGVkOTA3Yjc3NWNjMGY5YzVhMTY3Njc5",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1075,7 +1075,7 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Strangers (Do You Remember) [feat. Yas Cepeda & EURI]",
+        "name": "Strangers (Do You Remember) [feat. Yas Cepeda]",
         "url": "https://open.spotify.com/album/07q9L0C9VnsMoiS4V0TZxc"
       },
       "artists": [
@@ -1094,14 +1094,10 @@
         {
           "name": "Yas Cepeda",
           "url": "https://open.spotify.com/artist/0QJLIqgHuWkj89BqRArjRP"
-        },
-        {
-          "name": "EURI",
-          "url": "https://open.spotify.com/artist/0veabgheMC6NnyTEbFUI5u"
         }
       ],
       "duration_ms": 191612,
-      "name": "Strangers (Do You Remember) [feat. Yas Cepeda & EURI]",
+      "name": "Strangers (Do You Remember) [feat. Yas Cepeda]",
       "url": "https://open.spotify.com/track/5OcKFs8X1MDhK6IT3mMIbo"
     },
     {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Paula Carolina",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: PaulWetz",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 166779,
       "name": "2x blinzeln",
       "url": "https://open.spotify.com/track/6wFoisGUixXSsIZIy9vKpD"
@@ -1229,6 +1229,24 @@
     },
     {
       "album": {
+        "name": "Softpower",
+        "url": "https://open.spotify.com/album/74wcjKN0BHP2FTsF89HSGJ"
+      },
+      "artists": [
+        {
+          "name": "Bilderbuch",
+          "url": "https://open.spotify.com/artist/2ErWLckuGFl84nGmg5fwyG"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121429,
+      "name": "Digitales Wunder",
+      "url": "https://open.spotify.com/track/6Ojmg6tZzUgcXmfQA10cvj"
+    },
+    {
+      "album": {
         "name": "Babylon Berlin (Original Television Soundtrack, Vol. II)",
         "url": "https://open.spotify.com/album/44EqvbbLocS6wWZHSItcna"
       },
@@ -1894,7 +1912,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 215521,
       "name": "Funkroboter",
       "url": "https://open.spotify.com/track/6AqMpfEXlehRtgCf3Ty98Q"
@@ -1998,6 +2016,24 @@
       "duration_ms": 203613,
       "name": "F\u00fcr immer",
       "url": "https://open.spotify.com/track/4YCs039j51sP9kEw5AJILe"
+    },
+    {
+      "album": {
+        "name": "Gaga Baby",
+        "url": "https://open.spotify.com/album/5TO2MJSSuOZXqIQxevLhZA"
+      },
+      "artists": [
+        {
+          "name": "PaulWetz",
+          "url": "https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149367,
+      "name": "Gaga Baby",
+      "url": "https://open.spotify.com/track/5pAZ7fEX5vA9IACYGDHFA8"
     },
     {
       "album": {
@@ -3197,6 +3233,28 @@
     },
     {
       "album": {
+        "name": "Letzte Kippe",
+        "url": "https://open.spotify.com/album/4ShtwWtMwGfddaoMsO0qPh"
+      },
+      "artists": [
+        {
+          "name": "MOLA",
+          "url": "https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye"
+        },
+        {
+          "name": "BABYJOY",
+          "url": "https://open.spotify.com/artist/2vYWyXs1PJbycPBdTstmHH"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209746,
+      "name": "Letzte Kippe",
+      "url": "https://open.spotify.com/track/0vvoGnFwt7b162tw7opVXJ"
+    },
+    {
+      "album": {
         "name": "Liebe zu dritt",
         "url": "https://open.spotify.com/album/20HZQOmLW3XOSQKbZjw77F"
       },
@@ -3516,6 +3574,28 @@
       "duration_ms": 155105,
       "name": "Mit dir",
       "url": "https://open.spotify.com/track/2SBoDgAZCdAflh0CkB3YFU"
+    },
+    {
+      "album": {
+        "name": "Moment",
+        "url": "https://open.spotify.com/album/439pjsVL90aeZHwvY3OhVW"
+      },
+      "artists": [
+        {
+          "name": "Dominik Hartz",
+          "url": "https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI"
+        },
+        {
+          "name": "BRUCKNER",
+          "url": "https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163555,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/79uciSS2z1jLXt9Pz4K7tQ"
     },
     {
       "album": {
@@ -4083,6 +4163,24 @@
     },
     {
       "album": {
+        "name": "Raue Z\u00e4rtlichkeit",
+        "url": "https://open.spotify.com/album/3re4AICzx9AEd1XfE9oAZ0"
+      },
+      "artists": [
+        {
+          "name": "TYM",
+          "url": "https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135933,
+      "name": "Raue Z\u00e4rtlichkeit",
+      "url": "https://open.spotify.com/track/4QYtmLxnMNsX1dfjIg3fTJ"
+    },
+    {
+      "album": {
         "name": "Raum 37",
         "url": "https://open.spotify.com/album/2k73lgJP18duGEkA7U2YkV"
       },
@@ -4500,7 +4598,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 130720,
       "name": "So bin ich halt / blablabla",
       "url": "https://open.spotify.com/track/6utOJJy9KE3GxeIeAMAS9H"
@@ -4826,7 +4924,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 202993,
       "name": "Suzuki Swift",
       "url": "https://open.spotify.com/track/7tGNyXcMm5YwSi0E5CwB2g"
@@ -5626,7 +5724,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 171106,
       "name": "Wenn das hier keine Liebe ist",
       "url": "https://open.spotify.com/track/1oPFgR6LruHs8FgAv9skhG"

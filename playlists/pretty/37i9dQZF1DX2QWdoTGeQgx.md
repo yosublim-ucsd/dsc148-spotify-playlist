@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 
 > Chill out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,942 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,956 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 | 67 | [Shouldn't Have To Run](https://open.spotify.com/track/1sD6rUEzcFqEYsZlwcxIBk) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Joie Tan](https://open.spotify.com/artist/1kjkddXmDG9vdt7P8lwYUd) | [Shouldn't Have To Run](https://open.spotify.com/album/5B7i5oZI5Ztda9IxBGANAV) | 2:45 |
 | 68 | [Castaway](https://open.spotify.com/track/19zPT36WogsfBd8HIaUnt4) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Rouge](https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ) | 4:29 |
 | 69 | [Go Higher](https://open.spotify.com/track/350MlI4iDtv6fYwM4PKSA4) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Go Higher](https://open.spotify.com/album/1e1tDPUR08v96ZT7RPV7eb) | 3:28 |
-| 70 | [more than friends](https://open.spotify.com/track/6UKJSeAwuHJ9nl7vyMeUJX) | [MFMF.](https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR), [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [more than friends](https://open.spotify.com/album/5B7QRaSqhgyNd0u8tKZoEb) | 2:40 |
+| 70 | [Till The Morning](https://open.spotify.com/track/7dyTGeerbfWSCMCfWETZ3K) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [Till The Morning](https://open.spotify.com/album/6kL09GmdDpKlaM1veyxmZU) | 2:49 |
 
-Snapshot ID: `MCxmMTUzYzdlMzBiYmVkMWMxMTkxYzBlNjlmMDMzZDExN2RjNDRiODQx`
+Snapshot ID: `MCw0OWZiNDc1NDAxNDkxYmQwNDM5MmIzMGMxYjliZWQyNjg1NDE4ZjJj`

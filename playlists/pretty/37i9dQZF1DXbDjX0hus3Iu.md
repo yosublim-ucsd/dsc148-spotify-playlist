@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 
 > The early pioneers and current favorites in Southern Rock\. Cover: Lynyrd Skynyrd
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,724 likes - 100 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,815 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 99 | [Open Road](https://open.spotify.com/track/0qmMJfVn7KlhRab9zgwS7z) | [Grinderswitch](https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz) | [Pullin' Together](https://open.spotify.com/album/4KYsD0KdmyZZT34Sp8hLUz) | 4:09 |
 | 100 | [Fire In The Kitchen](https://open.spotify.com/track/2OXVvNEILOCFxEHEElOHTb) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h) | [Live At The Moody Theater](https://open.spotify.com/album/7fBc5Ge5u6lxKBxqaaU8y8) | 7:06 |
 
-Snapshot ID: `MCwzNzJmYWUwMDg1MDcxZDZmOGE4NDYwOWI1ODI4ZmY3OWY3NDBlOTg1`
+Snapshot ID: `MCw4NmExNDBlNzgyNjJiMmMxMmJjYzRkN2NjZWI2ZTJhNWYxMDRjMTBj`

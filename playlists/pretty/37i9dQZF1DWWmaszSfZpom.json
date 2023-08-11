@@ -1,12 +1,12 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile!",
-  "num_followers": 1008957,
+  "num_followers": 1009023,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTQ0NjBmYzIyMDIzMjMwYTQyMGI2ODMwNGVkZmU2OWJiMTg3MTRh",
+  "snapshot_id": "MCwzNDNmN2QyN2ZjOTM3MmFlM2IwNzhlMGI2YmMxNWUxMGRhZjYyYzcy",
   "tracks": [
     {
       "added_at": "2023-06-26 14:06:50",
@@ -275,6 +275,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Na Ponta Ela Fica",
+        "url": "https://open.spotify.com/album/6gF531wpZQpmM84C9vaEjW"
+      },
+      "artists": [
+        {
+          "name": "Delano",
+          "url": "https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn"
+        }
+      ],
+      "duration_ms": 154026,
+      "name": "Na Ponta Ela Fica",
+      "url": "https://open.spotify.com/track/1OtZIaJBXo3Pe6nfaMsjKT"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Vai Embrazando",
         "url": "https://open.spotify.com/album/2VwdSlB0N5SyiGREdLyo2Q"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 166060,
       "name": "Vai Embrazando",
       "url": "https://open.spotify.com/track/41RtcX3L4Ee6AzgZEBkMFC"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Na Ponta Ela Fica",
-        "url": "https://open.spotify.com/album/6gF531wpZQpmM84C9vaEjW"
-      },
-      "artists": [
-        {
-          "name": "Delano",
-          "url": "https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn"
-        }
-      ],
-      "duration_ms": 154026,
-      "name": "Na Ponta Ela Fica",
-      "url": "https://open.spotify.com/track/1OtZIaJBXo3Pe6nfaMsjKT"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -355,6 +355,34 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Bipolar",
+        "url": "https://open.spotify.com/album/1iCDTyPPAevNAvqC6WFlRy"
+      },
+      "artists": [
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "DJ 900",
+          "url": "https://open.spotify.com/artist/6Ovxg5WDcnSQc8iQXv0IvI"
+        }
+      ],
+      "duration_ms": 276480,
+      "name": "Bipolar",
+      "url": "https://open.spotify.com/track/0qxLQ6opocOGyFnlXqJ53x"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Versions of Me",
         "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
       },
@@ -383,34 +411,6 @@
       "duration_ms": 176193,
       "name": "Que Rab\u00e3o (feat. Mr. Catra e YG)",
       "url": "https://open.spotify.com/track/71fwkaKdNrxiZZbkzSqmFJ"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Bipolar",
-        "url": "https://open.spotify.com/album/1iCDTyPPAevNAvqC6WFlRy"
-      },
-      "artists": [
-        {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        },
-        {
-          "name": "Mc Pedrinho",
-          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        },
-        {
-          "name": "DJ 900",
-          "url": "https://open.spotify.com/artist/6Ovxg5WDcnSQc8iQXv0IvI"
-        }
-      ],
-      "duration_ms": 276480,
-      "name": "Bipolar",
-      "url": "https://open.spotify.com/track/0qxLQ6opocOGyFnlXqJ53x"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -495,34 +495,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Combatchy (feat. MC Rebecca)",
-        "url": "https://open.spotify.com/album/4YQQS1DM9JskregbISv1dq"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Lexa",
-          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Rebecca",
-          "url": "https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr"
-        }
-      ],
-      "duration_ms": 157600,
-      "name": "Combatchy (feat. MC Rebecca)",
-      "url": "https://open.spotify.com/track/2bPtwnrpFNEe8N7Q85kLHw"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Hit Contagiante",
         "url": "https://open.spotify.com/album/5da8Quq01mGKZvEpBRfFZh"
       },
@@ -551,6 +523,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Cara Bacana",
+        "url": "https://open.spotify.com/album/1pFMw5CYSVB0mw9PzwBAUX"
+      },
+      "artists": [
+        {
+          "name": "MC G15",
+          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
+        }
+      ],
+      "duration_ms": 232727,
+      "name": "Cara Bacana",
+      "url": "https://open.spotify.com/track/1RljKrmC3uVtuP8w0RW2xk"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Oh Juliana",
         "url": "https://open.spotify.com/album/4TqvKXoNxzUt3KFvb2kMOL"
       },
@@ -567,18 +555,30 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Cara Bacana",
-        "url": "https://open.spotify.com/album/1pFMw5CYSVB0mw9PzwBAUX"
+        "name": "Combatchy (feat. MC Rebecca)",
+        "url": "https://open.spotify.com/album/4YQQS1DM9JskregbISv1dq"
       },
       "artists": [
         {
-          "name": "MC G15",
-          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Rebecca",
+          "url": "https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr"
         }
       ],
-      "duration_ms": 232727,
-      "name": "Cara Bacana",
-      "url": "https://open.spotify.com/track/1RljKrmC3uVtuP8w0RW2xk"
+      "duration_ms": 157600,
+      "name": "Combatchy (feat. MC Rebecca)",
+      "url": "https://open.spotify.com/track/2bPtwnrpFNEe8N7Q85kLHw"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Meu Lugar",
-        "url": "https://open.spotify.com/album/1irawiP1fDHeb7hUNf9wxN"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 176608,
-      "name": "Movimento da sanfoninha - Ao vivo",
-      "url": "https://open.spotify.com/track/2loApP0kPaim0BTDVP9F26"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Coisa Boa",
         "url": "https://open.spotify.com/album/1O3AQx2qZccjwFlSenp0ru"
       },
@@ -631,22 +615,6 @@
       "duration_ms": 165600,
       "name": "Coisa Boa",
       "url": "https://open.spotify.com/track/2aGWQVK6ed2GtnZTBosCyg"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Rainha da Favela",
-        "url": "https://open.spotify.com/album/6GbNAks50cyJFMDhiMdVj8"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 160904,
-      "name": "Rainha da Favela",
-      "url": "https://open.spotify.com/track/3vu864xi5Xis9VfOsJpmXu"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -667,6 +635,22 @@
       "duration_ms": 239999,
       "name": "Medley da Gaiola - DENNIS Remix",
       "url": "https://open.spotify.com/track/7rLegaz7zKB6EtDNzcslKE"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Rainha da Favela",
+        "url": "https://open.spotify.com/album/6GbNAks50cyJFMDhiMdVj8"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 160904,
+      "name": "Rainha da Favela",
+      "url": "https://open.spotify.com/track/3vu864xi5Xis9VfOsJpmXu"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -695,6 +679,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Deu Onda",
+        "url": "https://open.spotify.com/album/2ksQI4wyde528WS4Ci7gGl"
+      },
+      "artists": [
+        {
+          "name": "MC G15",
+          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
+        }
+      ],
+      "duration_ms": 143800,
+      "name": "Deu Onda",
+      "url": "https://open.spotify.com/track/0HiOQzcBkMLj2t5m3ghcbm"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Fuleragem",
         "url": "https://open.spotify.com/album/0tyHlKvPDsGxeCzqS12iPT"
       },
@@ -711,18 +711,18 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Deu Onda",
-        "url": "https://open.spotify.com/album/2ksQI4wyde528WS4Ci7gGl"
+        "name": "Meu Lugar",
+        "url": "https://open.spotify.com/album/1irawiP1fDHeb7hUNf9wxN"
       },
       "artists": [
         {
-          "name": "MC G15",
-          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 143800,
-      "name": "Deu Onda",
-      "url": "https://open.spotify.com/track/0HiOQzcBkMLj2t5m3ghcbm"
+      "duration_ms": 176608,
+      "name": "Movimento da sanfoninha - Ao vivo",
+      "url": "https://open.spotify.com/track/2loApP0kPaim0BTDVP9F26"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -863,8 +863,8 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "TOMA",
-        "url": "https://open.spotify.com/album/2VM6JEz2ES0Yn6nLMDd5c3"
+        "name": "MODO TURBO",
+        "url": "https://open.spotify.com/album/07PF9SyKuu6hstifHc0nEt"
       },
       "artists": [
         {
@@ -872,13 +872,17 @@
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         },
         {
-          "name": "ZAAC",
-          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 129654,
-      "name": "TOMA",
-      "url": "https://open.spotify.com/track/7pDcS0EVMJR0YwjXmHcCRg"
+      "duration_ms": 150259,
+      "name": "MODO TURBO",
+      "url": "https://open.spotify.com/track/0YqTL3nSL36OFdHwHoqCag"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -943,42 +947,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Social Narga e Piscina",
-        "url": "https://open.spotify.com/album/0qEFGepeUYo1t85SpbNCtT"
-      },
-      "artists": [
-        {
-          "name": "MC MM",
-          "url": "https://open.spotify.com/artist/3a5ydeAaojKa3CHWe5PVWK"
-        }
-      ],
-      "duration_ms": 185436,
-      "name": "Social Narga e Piscina",
-      "url": "https://open.spotify.com/track/1L3enLPv2RjsaytQFXTpuN"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Azul Piscina",
-        "url": "https://open.spotify.com/album/3kMegJnLY4Ywh6Dw1NvHBF"
-      },
-      "artists": [
-        {
-          "name": "Mc Livinho",
-          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
-        },
-        {
-          "name": "Perera DJ",
-          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
-        }
-      ],
-      "duration_ms": 214153,
-      "name": "Azul Piscina",
-      "url": "https://open.spotify.com/track/01t5aRQQqY5R95Ptlwi2jm"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Preta do Cabelo Cacheado",
         "url": "https://open.spotify.com/album/6l6ykuHvWq1rV65S5Y1wJh"
       },
@@ -1003,6 +971,42 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Azul Piscina",
+        "url": "https://open.spotify.com/album/3kMegJnLY4Ywh6Dw1NvHBF"
+      },
+      "artists": [
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
+        }
+      ],
+      "duration_ms": 214153,
+      "name": "Azul Piscina",
+      "url": "https://open.spotify.com/track/01t5aRQQqY5R95Ptlwi2jm"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Social Narga e Piscina",
+        "url": "https://open.spotify.com/album/0qEFGepeUYo1t85SpbNCtT"
+      },
+      "artists": [
+        {
+          "name": "MC MM",
+          "url": "https://open.spotify.com/artist/3a5ydeAaojKa3CHWe5PVWK"
+        }
+      ],
+      "duration_ms": 185436,
+      "name": "Social Narga e Piscina",
+      "url": "https://open.spotify.com/track/1L3enLPv2RjsaytQFXTpuN"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Mc Jo\u00e3o",
         "url": "https://open.spotify.com/album/7xnSIDNUcEJAXtoTWQSoIo"
       },
@@ -1019,8 +1023,8 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "MODO TURBO",
-        "url": "https://open.spotify.com/album/07PF9SyKuu6hstifHc0nEt"
+        "name": "TOMA",
+        "url": "https://open.spotify.com/album/2VM6JEz2ES0Yn6nLMDd5c3"
       },
       "artists": [
         {
@@ -1028,17 +1032,13 @@
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         },
         {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "ZAAC",
+          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
         }
       ],
-      "duration_ms": 150259,
-      "name": "MODO TURBO",
-      "url": "https://open.spotify.com/track/0YqTL3nSL36OFdHwHoqCag"
+      "duration_ms": 129654,
+      "name": "TOMA",
+      "url": "https://open.spotify.com/track/7pDcS0EVMJR0YwjXmHcCRg"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Agora Vai Sentar",
+        "url": "https://open.spotify.com/album/39HSKuqaxE7NH3ZeJoKqdh"
+      },
+      "artists": [
+        {
+          "name": "MC's Jhowzinho & Kadinho",
+          "url": "https://open.spotify.com/artist/2Q4r4Epfaaho06ONTHx7OS"
+        }
+      ],
+      "duration_ms": 228922,
+      "name": "Agora Vai Sentar",
+      "url": "https://open.spotify.com/track/0pDaqgIForVNO4jrtTxcWT"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Olha A Explos\u00e3o (Remix)",
         "url": "https://open.spotify.com/album/69krsAEiMZ6nClROTNExfp"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 210773,
       "name": "Olha A Explos\u00e3o - Remix",
       "url": "https://open.spotify.com/track/5RBW30fFFVav2n0IqFj0fY"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Agora Vai Sentar",
-        "url": "https://open.spotify.com/album/39HSKuqaxE7NH3ZeJoKqdh"
-      },
-      "artists": [
-        {
-          "name": "MC's Jhowzinho & Kadinho",
-          "url": "https://open.spotify.com/artist/2Q4r4Epfaaho06ONTHx7OS"
-        }
-      ],
-      "duration_ms": 228922,
-      "name": "Agora Vai Sentar",
-      "url": "https://open.spotify.com/track/0pDaqgIForVNO4jrtTxcWT"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Kikadinha",
+        "url": "https://open.spotify.com/album/1SFRgpdcJKaTeGQmU1Pq6E"
+      },
+      "artists": [
+        {
+          "name": "Jerry Smith",
+          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
+        }
+      ],
+      "duration_ms": 146158,
+      "name": "Kikadinha",
+      "url": "https://open.spotify.com/track/4cVhsNXSwSLIZJjwexEoYe"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Separei",
         "url": "https://open.spotify.com/album/44jBhrrRvuCkAq9oEJtoNM"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 162406,
       "name": "Separei",
       "url": "https://open.spotify.com/track/16uUeKOV7m51Vlx9oUIEvE"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Kikadinha",
-        "url": "https://open.spotify.com/album/1SFRgpdcJKaTeGQmU1Pq6E"
-      },
-      "artists": [
-        {
-          "name": "Jerry Smith",
-          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
-        }
-      ],
-      "duration_ms": 146158,
-      "name": "Kikadinha",
-      "url": "https://open.spotify.com/track/4cVhsNXSwSLIZJjwexEoYe"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Senta braba",
-        "url": "https://open.spotify.com/album/0ZmFvtM0137BBjg6Fd6wWN"
-      },
-      "artists": [
-        {
-          "name": "MC WM",
-          "url": "https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh"
-        }
-      ],
-      "duration_ms": 149615,
-      "name": "Senta braba",
-      "url": "https://open.spotify.com/track/2SgVsDXzET5EU8VngMh9dv"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "T\u00e1 Tranquilo, T\u00e1 Favor\u00e1vel",
         "url": "https://open.spotify.com/album/570Y9gjImTqqZ3tnwcmo5N"
       },
@@ -1651,22 +1635,6 @@
       "duration_ms": 251216,
       "name": "T\u00e1 Tranquilo, T\u00e1 Favor\u00e1vel",
       "url": "https://open.spotify.com/track/1Wsyt5It2PYnht0aDYcNyR"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Solta a batida",
-        "url": "https://open.spotify.com/album/37ENHzff2cXEOqVbJ4WjY4"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 169811,
-      "name": "Solta a batida",
-      "url": "https://open.spotify.com/track/4yjljBusKH0hgsIzHlF85T"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1695,6 +1663,38 @@
       "duration_ms": 120050,
       "name": "Baila Comigo (feat. Kelly Ruiz) - Rennan da Penha Remix",
       "url": "https://open.spotify.com/track/7M6D0ACikinC39ZtuEwMPo"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Senta braba",
+        "url": "https://open.spotify.com/album/0ZmFvtM0137BBjg6Fd6wWN"
+      },
+      "artists": [
+        {
+          "name": "MC WM",
+          "url": "https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh"
+        }
+      ],
+      "duration_ms": 149615,
+      "name": "Senta braba",
+      "url": "https://open.spotify.com/track/2SgVsDXzET5EU8VngMh9dv"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Solta a batida",
+        "url": "https://open.spotify.com/album/37ENHzff2cXEOqVbJ4WjY4"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 169811,
+      "name": "Solta a batida",
+      "url": "https://open.spotify.com/track/4yjljBusKH0hgsIzHlF85T"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1799,6 +1799,30 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "N\u00e3o Pare",
+        "url": "https://open.spotify.com/album/7GCjgOvt3728sKyNDVpQsJ"
+      },
+      "artists": [
+        {
+          "name": "Jessi",
+          "url": "https://open.spotify.com/artist/0f8oDE74ZkCvIOamuwh306"
+        },
+        {
+          "name": "Jyayo",
+          "url": "https://open.spotify.com/artist/2kyppI9RJmlA20LaOqdn2s"
+        },
+        {
+          "name": "Yaw Faso",
+          "url": "https://open.spotify.com/artist/15DoyzRB8Y3fOIAOoZr3MV"
+        }
+      ],
+      "duration_ms": 210500,
+      "name": "N\u00e3o Pare",
+      "url": "https://open.spotify.com/track/4wIUFSrHS8wR0ggNpmHsBS"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Para n\u00e3o",
         "url": "https://open.spotify.com/album/3XZmGL1Kd4L7u7GbPoglhf"
       },
@@ -1839,30 +1863,6 @@
       "duration_ms": 144039,
       "name": "N\u00e3o encosta",
       "url": "https://open.spotify.com/track/3TLik0AUo5Ri65DFrEivd4"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "N\u00e3o Pare",
-        "url": "https://open.spotify.com/album/7GCjgOvt3728sKyNDVpQsJ"
-      },
-      "artists": [
-        {
-          "name": "Jessi",
-          "url": "https://open.spotify.com/artist/0f8oDE74ZkCvIOamuwh306"
-        },
-        {
-          "name": "Jyayo",
-          "url": "https://open.spotify.com/artist/2kyppI9RJmlA20LaOqdn2s"
-        },
-        {
-          "name": "Yaw Faso",
-          "url": "https://open.spotify.com/artist/15DoyzRB8Y3fOIAOoZr3MV"
-        }
-      ],
-      "duration_ms": 210500,
-      "name": "N\u00e3o Pare",
-      "url": "https://open.spotify.com/track/4wIUFSrHS8wR0ggNpmHsBS"
     },
     {
       "added_at": "2023-06-26 14:06:50",

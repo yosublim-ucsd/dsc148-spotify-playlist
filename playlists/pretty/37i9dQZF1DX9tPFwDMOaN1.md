@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 
 > Turn on the movement with the latest and greatest in K\-Pop! Cover: JEON SOMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,114,882 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,116,555 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Fast Forward](https://open.spotify.com/track/4EsqgOzLn45dCHIDIhtg6W) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [GAME PLAN](https://open.spotify.com/album/7BAwtfjDEyG6l2nFlNkkLy) | 2:40 |
+| 1 | [Fast Forward](https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [GAME PLAN](https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu) | 2:40 |
 | 2 | [CAKE](https://open.spotify.com/track/3syxwxJqX5jpgjNYmvzdW6) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [KILL MY DOUBT](https://open.spotify.com/album/6P01cKb7sdwfnNpuMLNEik) | 3:18 |
 | 3 | [BONA BONA](https://open.spotify.com/track/0IkWksfw3Qxob96bjFKhyF) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [2ND FULL ALBUM 'REBOOT'](https://open.spotify.com/album/4gQx8IC4zESV506dgNs0vR) | 3:32 |
 | 4 | [Cool With You](https://open.spotify.com/track/02wk5BttM0QL38ERjLPQJB) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 | 49 | [MOONLIGHT SUNRISE](https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE](https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL) | 3:00 |
 | 50 | [love you twice](https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [love you twice](https://open.spotify.com/album/03NnLJWmvbNiDAk8l8W3b4) | 2:52 |
 
-Snapshot ID: `MCw1NjA4MjY0NGRiOTQzOWZiZDRlNzhhYjZiMTVhYjM1MjA5Yjc2MTI3`
+Snapshot ID: `MCxmNGY2MzZjMjhmODZjY2Y5M2Y4NjUzYjNkNzEyZDk2OGMzMDE0ZWNj`

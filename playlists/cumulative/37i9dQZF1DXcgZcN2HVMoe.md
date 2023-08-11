@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-713 songs - 1 day 18 hr 35 min
+714 songs - 1 day 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,7 +326,7 @@
 | [I'll Be Around](https://open.spotify.com/track/3ccDb4UqLC54IoFJ8LmFoy) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [I'll Be Around](https://open.spotify.com/album/1uQn196WK2ZYn9Ypyp9czZ) | 3:06 | 2022-07-22 |  |
 | [I'll Be There For You \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4xtU1fCMODIpnXBqY4wOTo) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Spotify Singles](https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz) | 2:48 | 2021-12-17 |  |
 | [If Ever \(with Jack Johnson & Ben Harper\)](https://open.spotify.com/track/5CeXAfGpk9baITQvV0feoG) | [Paula Fuga](https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf), [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [If Ever](https://open.spotify.com/album/0hWhMuCu6vFSHTJNH3BqqC) | 3:35 | 2021-12-17 |  |
-| [If I Didn’t Love You](https://open.spotify.com/track/2Zy7SjGT12yzvFohfAKWDq) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [If I Didn’t Love You](https://open.spotify.com/album/3dS67NuXz81GhplmI45iEG) | 4:06 | 2022-02-18 |  |
+| [If I Didn’t Love You](https://open.spotify.com/track/2Zy7SjGT12yzvFohfAKWDq) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [If I Didn’t Love You](https://open.spotify.com/album/3dS67NuXz81GhplmI45iEG) | 4:06 | 2022-02-18 | 2023-08-11 |
 | [If It Makes You Happy](https://open.spotify.com/track/7ia7SaMGhr00G8EX5DMiFq) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Vignettes](https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M) | 4:15 | 2021-12-17 | 2022-07-29 |
 | [In a Stranger's Arms](https://open.spotify.com/track/5Tl8bvgo5shLODXiT9ckva) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [In a Stranger's Arms](https://open.spotify.com/album/5fc9yi6CWLJltzalAhLOQg) | 3:20 | 2021-12-17 | 2022-07-29 |
 | [In a Stranger's Arms](https://open.spotify.com/track/7s6jUeM4ENpUrHCSzQZV0v) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Apart](https://open.spotify.com/album/0x7mfCEXV2oWxFabJlD3uj) | 3:21 | 2022-07-22 |  |
@@ -363,6 +363,7 @@
 | [Learn to Love You Better](https://open.spotify.com/track/1pWfVPTZXjRMSQDDz0fPNg) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK) | [Learn to Love You Better](https://open.spotify.com/album/0HfN0dvsXuFL316in0EoPu) | 3:34 | 2021-12-17 | 2022-06-19 |
 | [Lebanon](https://open.spotify.com/track/1jKG59NQTTCr1tSG9YDzuZ) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [Tales Of America \(The Second Coming\)](https://open.spotify.com/album/53NJ8rhui9uzJ1IagwQa4V) | 3:26 | 2021-12-17 | 2023-05-07 |
 | [LET YOU BE RIGHT \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/6Xj6AtBraaa7CrQs6fRAQQ) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Spotify Singles](https://open.spotify.com/album/1oqgK74ZGMHTWEma2fST41) | 3:01 | 2022-01-24 | 2022-04-19 |
+| [Let You Love Me](https://open.spotify.com/track/2AZzccLw6Bw9WPDDCsdBPY) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Glory](https://open.spotify.com/album/5bzKE2XzZchn40hTnpa2bu) | 4:39 | 2023-04-28 |  |
 | [Let You Love Me](https://open.spotify.com/track/6w8emJs59a4lKbeyfZekSz) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Let You Love Me](https://open.spotify.com/album/16CSk5ilsmnoOk0qyt4NnI) | 4:39 | 2021-12-17 | 2023-07-26 |
 | [Let's Be Still](https://open.spotify.com/track/3QmzlL0tTtDgD1Hwfct68D) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Let's Be Still](https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42) | 4:28 | 2022-07-22 |  |
 | [Let's Be Still](https://open.spotify.com/track/5IJnj6Um7jVuRPT4WGj1z6) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Let's Be Still](https://open.spotify.com/album/1SUZhiJWtX4NKS0KChC0vf) | 4:28 | 2022-01-24 | 2022-04-13 |
@@ -537,7 +538,7 @@
 | [Seed of Joy](https://open.spotify.com/track/6kUQwpX1ogl5inar6fE3bx) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77), [Brian Fallon](https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4) | [Seed of Joy](https://open.spotify.com/album/4ivyT3pP5juItg8Yblaqfn) | 3:30 | 2021-12-17 | 2022-07-26 |
 | [September Song \- Guitar Acoustic](https://open.spotify.com/track/4LTOzL6JsnQBifmpsbo9a5) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [September Song \(Guitar Acoustic\)](https://open.spotify.com/album/58wAIiRLQ5q2yMN76ys9F2) | 3:32 | 2022-01-24 | 2022-04-17 |
 | [September Song \- Guitar Acoustic](https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:32 | 2022-07-22 |  |
-| [Ser De Ti](https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:27 | 2023-04-28 |  |
+| [Ser De Ti](https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:27 | 2023-04-28 | 2023-08-11 |
 | [Ser De Ti](https://open.spotify.com/track/2E7zPND4kJd1y3KSWez0ET) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/34e3bWZtXnZl19dJYOx6zE) | 3:27 | 2022-02-01 | 2022-04-21 |
 | [Seventeen Again \(feat\. Novo Amor\)](https://open.spotify.com/track/1Qcx39jI9pjoTrURXuk3QY) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2), [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Seventeen Again \(feat\. Novo Amor\)](https://open.spotify.com/album/5f60fAxPrT39rjbmNssvvR) | 3:24 | 2021-12-17 | 2022-07-29 |
 | [She Burns](https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [The Wild Swan](https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz) | 3:49 | 2021-12-17 |  |
@@ -699,7 +700,7 @@
 | [wish you the best \(feat\. Jensen McRae\)](https://open.spotify.com/track/35xkenzfDhEA1LEpJsprKu) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [wish you the best \(feat\. Jensen McRae\)](https://open.spotify.com/album/4O5JiVh2ldkKaBsCFNuOdK) | 3:12 | 2021-12-17 | 2022-01-25 |
 | [With You](https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ) | [Cujo Moon](https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N) | [With You](https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ) | 3:31 | 2021-12-17 |  |
 | [With You](https://open.spotify.com/track/0Bq1REhXXSEvKwH91K3nWc) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Be Slow](https://open.spotify.com/album/2Q3BIgHqKOmCz0gSeaLnr6) | 3:36 | 2021-12-17 | 2022-07-26 |
-| [With You](https://open.spotify.com/track/33OQ226Toze7LT0D4ZYUTt) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Be Slow](https://open.spotify.com/album/4bONIjnWMhvhJlgGHqTgY7) | 3:36 | 2022-07-22 | 2023-07-26 |
+| [With You](https://open.spotify.com/track/33OQ226Toze7LT0D4ZYUTt) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Be Slow](https://open.spotify.com/album/4bONIjnWMhvhJlgGHqTgY7) | 3:36 | 2022-07-22 |  |
 | [Without a Light](https://open.spotify.com/track/1CYBnHYYbOAsuDCGa0zrw0) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Without a Light](https://open.spotify.com/album/2eVxQMHiWZ8P96B9QIlNdR) | 2:22 | 2021-12-17 |  |
 | [Witness Trees](https://open.spotify.com/track/5QENB0ad34Y0Fs2j7DoOXI) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Witness Trees](https://open.spotify.com/album/5R2eVRMY8SSRPiq8EV4urI) | 2:40 | 2021-12-17 | 2022-11-14 |
 | [Wolves](https://open.spotify.com/track/59hfgU3tsQ0zKpSX7toiwn) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Running With The Wolves](https://open.spotify.com/album/1bIiBK6CIaCkkzNREai3je) | 2:43 | 2021-12-17 |  |

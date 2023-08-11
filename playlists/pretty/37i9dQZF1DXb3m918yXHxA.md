@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 
 > Cruise to the smooth grooves of these yacht rock tunes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,456,662 likes - 75 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,457,353 likes - 75 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 | 74 | [Is It You](https://open.spotify.com/track/5eWTNSMTX5BxuYYuOU4vYq) | [Lee Ritenour](https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq) | [Rit, Vol\. 1](https://open.spotify.com/album/4La5Rv7uDtnbsgVQxGdwMR) | 4:29 |
 | 75 | [Baby Come Back](https://open.spotify.com/track/2bwYGPDCC31QTdFca1mQRh) | [Player](https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z) | [The Best Of Player: Baby Come Back](https://open.spotify.com/album/0Jd20cTh3EfVzFQn8GSO9Y) | 4:13 |
 
-Snapshot ID: `MCxkMjBhYzYxNTBjM2E0NjY0M2NmMWYzYWYwMDg1MTI4MDgyMmRmYzcz`
+Snapshot ID: `MCw1NWMxZWMxOWFiYjMwMGU3ZGI4Y2IzMWIwNzU2Yjc5MTJlN2JlMDg5`

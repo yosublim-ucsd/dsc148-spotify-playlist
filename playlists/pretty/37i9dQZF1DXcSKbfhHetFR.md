@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 
 > On a pas pu appeler ça Québec Shiny Tunes\. Photo: EXTERIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,828 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,833 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 31 | [Big Bang](https://open.spotify.com/track/0c8BkL4udr8Q3UN2rHLkUS) | [Galaxie](https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa) | [Le temps au point mort](https://open.spotify.com/album/3Gl5kyHaBRlOtbkbZdrDfU) | 3:20 |
 | 32 | [Ma dope à moi](https://open.spotify.com/track/7q88dRmLZvQQ09h7y1nJNc) | [Yann Perreau](https://open.spotify.com/artist/0Fk3xExGqwbRwLyWUjUl8V) | [Western Romance](https://open.spotify.com/album/2P8tQ3QlI9OYD8SPdLFYYX) | 3:28 |
 | 33 | [Poney](https://open.spotify.com/track/33RI5afAIREvsm0lJ5j7Jh) | [Pépé et sa guitare](https://open.spotify.com/artist/49fBZHMEYaw2OCJFo7saeV) | [100% boeuf](https://open.spotify.com/album/5M8Bc31hdIJD3sVp5b62bG) | 4:11 |
-| 34 | [Je suis down](https://open.spotify.com/track/0VV4s8JLIOrN2GCBdV6lDL) | [Rita\-Rita](https://open.spotify.com/artist/4DwJbmadQKIU9IXTGBLhse) | [Rita\-Rita](https://open.spotify.com/album/5qSOmPrjjKPs5HGuPH6BHj) | 3:15 |
-| 35 | [Mystère aérosol](https://open.spotify.com/track/6PAQjoHbLD66euzaEkahDu) | [Projet Orange](https://open.spotify.com/artist/3XHkd4Nmrha9giC22Sg8NF) | [Projet Orange](https://open.spotify.com/album/0PY4TVw3EvxEBcj37cLuEM) | 3:56 |
+| 34 | [Mystère aérosol](https://open.spotify.com/track/6PAQjoHbLD66euzaEkahDu) | [Projet Orange](https://open.spotify.com/artist/3XHkd4Nmrha9giC22Sg8NF) | [Projet Orange](https://open.spotify.com/album/0PY4TVw3EvxEBcj37cLuEM) | 3:56 |
+| 35 | [Je suis down](https://open.spotify.com/track/0VV4s8JLIOrN2GCBdV6lDL) | [Rita\-Rita](https://open.spotify.com/artist/4DwJbmadQKIU9IXTGBLhse) | [Rita\-Rita](https://open.spotify.com/album/5qSOmPrjjKPs5HGuPH6BHj) | 3:15 |
 | 36 | [J'pourrais pas vivre avec toi](https://open.spotify.com/track/7avXxd2QUIQvMdD5NKD1e7) | [Les Breastfeeders](https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i) | [Déjeuner sur l'herbe](https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4) | 3:12 |
 | 37 | [Dans les airs](https://open.spotify.com/track/1owMekL4FP43xxlLpUSk7I) | [Vénus 3](https://open.spotify.com/artist/3tpM1Cxh88vORchHhDZmIU) | [Sur quelle planète](https://open.spotify.com/album/73i0S5bK1UMFP8zPpKAfNB) | 5:23 |
 | 38 | [Cité rock suicide](https://open.spotify.com/track/33uRR6cRTA5lThfinZS7qi) | [Arseniq33](https://open.spotify.com/artist/6MtltOBHPG1r8zMxj66GVU) | [Courtepointes](https://open.spotify.com/album/0hTNisUe7OyMi7MMiNAaM5) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 49 | [La chèvre](https://open.spotify.com/track/2Nvculpts84TZr7VlUNwMi) | [Band de Garage](https://open.spotify.com/artist/30faJrJ4VEfodwMTLEHeqa) | [Corpo\-Trash\-Vidange](https://open.spotify.com/album/2YPx6Dndpg7rxy6xwck48d) | 2:55 |
 | 50 | [Thermoplastique](https://open.spotify.com/track/4sMBt4g8O2IYQgZrrI0zjM) | [Les Secrétaires Volantes](https://open.spotify.com/artist/0PsC8oRbzhv4qBwvxXsDjF) | [Thermoplastique](https://open.spotify.com/album/16FdV30nHi1fuf5qxVrVyM) | 2:53 |
 
-Snapshot ID: `MCw4YWM3MzJjYzVlNjcxYjE0NTI4YmY1ODkwZjE0ZWYzMTY0ZWY2OTUy`
+Snapshot ID: `MCxhMjE5Y2IyNGJiMGJlMWY2NTQ0MWYyYmQ5ZDJlNWNkNGZiMjY0Zjg1`

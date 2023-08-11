@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. SPOOKYPBL in cover. ",
+  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. 8blevrai e Don Pero in cover. ",
   "name": "Raptopia",
   "tracks": [
     {
@@ -4787,6 +4787,28 @@
     },
     {
       "album": {
+        "name": "Finch\u00e9 Notte Non Ci Separi",
+        "url": "https://open.spotify.com/album/5jpSuwPrhaoDCnok7eoHQJ"
+      },
+      "artists": [
+        {
+          "name": "Heartman",
+          "url": "https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt"
+        },
+        {
+          "name": "Lie O'Neill",
+          "url": "https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195558,
+      "name": "Finch\u00e9 Notte Non Ci Separi",
+      "url": "https://open.spotify.com/track/4vqJ5IUZGVSHYYmILztz7h"
+    },
+    {
+      "album": {
         "name": "Finesse",
         "url": "https://open.spotify.com/album/3XviCOe8ECxC52gndxqJxG"
       },
@@ -5882,7 +5904,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 177900,
       "name": "HAHA",
       "url": "https://open.spotify.com/track/4eYUoNStca0EVkLhFYlO3b"
@@ -6518,7 +6540,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 143466,
       "name": "Io con Te",
       "url": "https://open.spotify.com/track/0Fw7HhX3q77ffJN6dNXNVO"
@@ -14286,6 +14308,24 @@
       "duration_ms": 153986,
       "name": "Wawa",
       "url": "https://open.spotify.com/track/3OwMlRnyiwe69rAdBSNEOe"
+    },
+    {
+      "album": {
+        "name": "WE MAN",
+        "url": "https://open.spotify.com/album/39WBRLH8CvDmOV8snicCzk"
+      },
+      "artists": [
+        {
+          "name": "Silnyya",
+          "url": "https://open.spotify.com/artist/0MTV1wG5r8M1hTexjolpA5"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145972,
+      "name": "WE MAN",
+      "url": "https://open.spotify.com/track/7eEA003LpGnkMz765TtPyn"
     },
     {
       "album": {

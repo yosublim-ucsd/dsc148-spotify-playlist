@@ -4,7 +4,7 @@
 
 > Acoustic versions of well\-known songs.
 
-259 songs - 14 hr 22 min
+260 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Chemical](https://open.spotify.com/track/5Gcd6lMtEEW6V9GpmQk6Rk) | [Abbie Parker](https://open.spotify.com/artist/4WL3KimNe6kNw0abLnzpko) | [Chemical](https://open.spotify.com/album/6yqPDHuIhpvgsb6ZCLSi64) | 3:07 | 2023-06-08 |  |
 | [Closer](https://open.spotify.com/track/5q0SV5avxVZkET73G2Neq9) | [Bossa Players](https://open.spotify.com/artist/5apIRYZ7s0gTvCb4qSpGHm) | [Closer](https://open.spotify.com/album/1OjnaY1fTZP2MiXzTnlLxL) | 3:36 | 2022-11-30 | 2023-02-03 |
 | [Collide](https://open.spotify.com/track/0SA2U0sQmB52EJpCCtFxGi) | [New Years Project](https://open.spotify.com/artist/2GY2ioDVVpd3NwPwevr5Bu) | [Collide](https://open.spotify.com/album/6bKocfbVt1JCv4GNEQBGjG) | 3:04 | 2023-06-08 |  |
+| [Complicated](https://open.spotify.com/track/7t24uFfZmiMrYMUIgaCQ3e) | [Ben & Tim](https://open.spotify.com/artist/0gb9yVmQVwhLVMMGKgXYnv) | [Complicated](https://open.spotify.com/album/5DJqyKsCjkMaU3CiSOoTxA) | 3:02 | 2023-08-10 |  |
 | [Cool](https://open.spotify.com/track/0B6Gf49UuiyYiKM3cCdfzW) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Cool](https://open.spotify.com/album/3Y5mbHm9zcwmAmhKlORakx) | 4:03 | 2022-08-03 |  |
 | [Crazy](https://open.spotify.com/track/4N16zWMNASE6KCv4zsaYlZ) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [Crazy](https://open.spotify.com/album/33Pdf5asfyOuzpassgLSmW) | 3:16 | 2021-12-09 | 2022-07-02 |
 | [Crazy in Love](https://open.spotify.com/track/6m0qBDIhzICOwWMPZdgyVK) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Crazy in Love](https://open.spotify.com/album/3WtUVBD7BEAfA9NjG6LnBk) | 3:47 | 2022-05-05 | 2022-12-24 |
@@ -184,7 +185,7 @@
 | [Mama Tried](https://open.spotify.com/track/3rf6VnUNCIgWlujpWL5hlE) | [Los Types](https://open.spotify.com/artist/1LhKDFwRnbRBPCc3BfA68N) | [Mama Tried](https://open.spotify.com/album/1iQ3sSsCp4nvcs4313TKpF) | 2:24 | 2022-07-01 |  |
 | [Milkshake \(Acoustic\)](https://open.spotify.com/track/7GBJgWf0GLs4RgSlqsSSf3) | [John Buckley](https://open.spotify.com/artist/5dID7TuTjqElOjVuFYCJ9o) | [Milkshake \(Acoustic\)](https://open.spotify.com/album/5eCExezuvtFapdTybgDB8H) | 2:28 | 2023-05-12 | 2023-06-16 |
 | [Mood \- Acoustic](https://open.spotify.com/track/50bNtjatwTxRbw6gMncgcr) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Mood \(Acoustic\)](https://open.spotify.com/album/69dfiUTykV6DzWoP8vzgdc) | 2:55 | 2022-05-05 |  |
-| [Moon River \- Acoustic](https://open.spotify.com/track/2crYj5PeB79FDWFhWkHiDL) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Moon River \(Acoustic\)](https://open.spotify.com/album/2xm1SEmZeXyf0sPXkmGasa) | 2:52 | 2023-05-12 |  |
+| [Moon River \- Acoustic](https://open.spotify.com/track/2crYj5PeB79FDWFhWkHiDL) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Moon River \(Acoustic\)](https://open.spotify.com/album/2xm1SEmZeXyf0sPXkmGasa) | 2:52 | 2023-05-12 | 2023-08-11 |
 | [New Slang](https://open.spotify.com/track/3GkL6as11lsXOHLQOLvUod) | [Big Love and Little Hollywood](https://open.spotify.com/artist/6EWhaIgWq8P6AmvXu1q6U0) | [New Slang](https://open.spotify.com/album/59zcK2BT7xqqOaCbeRxQq0) | 4:00 | 2021-12-09 | 2022-07-29 |
 | [New Slang](https://open.spotify.com/track/4zYHZg9c9KHkX2jQrZ24qe) | [Big Love and Little Hollywood](https://open.spotify.com/artist/6EWhaIgWq8P6AmvXu1q6U0) | [New Slang](https://open.spotify.com/album/7Jrjpc2NmWTypspUUm8t0y) | 4:00 | 2022-07-26 | 2022-12-01 |
 | [Once In a While \- Acoustic](https://open.spotify.com/track/78loPG2VNA0Lg0vjumMfeD) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Once In a While \(Acoustic\)](https://open.spotify.com/album/2Hd0yZLIGOSm99clpEv5JQ) | 3:51 | 2021-12-09 | 2023-02-10 |

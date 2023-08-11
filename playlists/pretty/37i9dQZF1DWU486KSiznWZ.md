@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 
 > اكتشفوا أفضل الاغاني الخليجية <br/>الغلاف: اصالة و ماجد المهندس
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,838 likes - 41 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,963 likes - 40 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 | 15 | [Ela Allah](https://open.spotify.com/track/4ZXyL4LC6u9QmBNERbGyBJ) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Ela Allah](https://open.spotify.com/album/4I9pP9LCXwvUeYssukoqGc) | 4:04 |
 | 16 | [وينه](https://open.spotify.com/track/5wglb4bSdNs2bdPqCRq0iZ) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [وينه](https://open.spotify.com/album/5onbD11TjYBvvotTzH1XQj) | 5:06 |
 | 17 | [Shabeah Rouhi](https://open.spotify.com/track/3Ewj9Gg9FIzfkoC6Wu9ISE) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Shabeah Rouhi](https://open.spotify.com/album/0JCxGer8k83sCp2uBLZikd) | 6:15 |
-| 18 | [Entebhlek](https://open.spotify.com/track/19xth9Xqzirpot7cy1nWfZ) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Entebhlek](https://open.spotify.com/album/5kxIt7TKG05RmoD5815UfQ) | 3:59 |
+| 18 | [Wesh Fini](https://open.spotify.com/track/595iet95ZCUsYsHBYjyOZA) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Wesh Fini](https://open.spotify.com/album/1y0u5gcePiOuiKRHZLHnWR) | 3:11 |
 | 19 | [Mani Qader](https://open.spotify.com/track/1lJhnoFUqtSkK2BkrxrDVE) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Mani Qader](https://open.spotify.com/album/70j5jro09TU8NtTscyxEyY) | 3:32 |
 | 20 | [Bel Salamah](https://open.spotify.com/track/6BPAlkPIa5LDBrJ2FzT6vl) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Bel Salamah](https://open.spotify.com/album/7us6HjjHLdI7eHRzHEfzSx) | 5:37 |
 | 21 | [Resayel Ams](https://open.spotify.com/track/1Qnh4KEeIljMwB4VBtAndB) | [Sultan Khalifa](https://open.spotify.com/artist/0CdLlvZEodX7fm7ujXI7HB) | [Resayel Ams](https://open.spotify.com/album/2C44qfSEKmvuZzJ7Pva7n4) | 3:40 |
@@ -37,17 +37,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 | 27 | [مليون مرة](https://open.spotify.com/track/57sUOJMuLSA85ru2ewTgbB) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX), [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [مليون مرة](https://open.spotify.com/album/01agi93fzsZrICOs1b8G6a) | 4:38 |
 | 28 | [Da3it Allah](https://open.spotify.com/track/5lcuSQuICbP7C6X9EtBhlv) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Da3it Allah](https://open.spotify.com/album/71klQgQA3xV0HdXMGOr4W7) | 4:28 |
 | 29 | [Lahet](https://open.spotify.com/track/5BOYBYEWtfZWLoeNuQMcVz) | [Sultan Khalifa](https://open.spotify.com/artist/0CdLlvZEodX7fm7ujXI7HB) | [Lahet](https://open.spotify.com/album/3lPQ7sjaOVlCqMkcPUEqCc) | 3:59 |
-| 30 | [Tejene \(2\)](https://open.spotify.com/track/5KnVP62QZhBeViSV0JUVmU) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Kol El Khata](https://open.spotify.com/album/4nKtbyAZFU6hu8lZAztO7c) | 4:01 |
-| 31 | [تمنيتك](https://open.spotify.com/track/3VK1saUjwKxTwncJ0bv8w9) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [بديت اطيب](https://open.spotify.com/album/5kPqppESqRCCXGEF9x0Fpq) | 4:49 |
-| 32 | [Wesh Yes3edk](https://open.spotify.com/track/7cQKp7oT1YXT7z2MXvydhR) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [Wesh Yes3edk](https://open.spotify.com/album/7m3Vn1oyNWrwK2kcHhTSos) | 4:18 |
-| 33 | [El Hajah](https://open.spotify.com/track/1vXGTrgrBe5pPYgd2wBjSx) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [El Hajah](https://open.spotify.com/album/0ojU0NHmHEh9756Is45OzT) | 4:23 |
+| 30 | [Entebhlek](https://open.spotify.com/track/19xth9Xqzirpot7cy1nWfZ) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Entebhlek](https://open.spotify.com/album/5kxIt7TKG05RmoD5815UfQ) | 3:59 |
+| 31 | [Tejene \(2\)](https://open.spotify.com/track/5KnVP62QZhBeViSV0JUVmU) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Kol El Khata](https://open.spotify.com/album/4nKtbyAZFU6hu8lZAztO7c) | 4:01 |
+| 32 | [تمنيتك](https://open.spotify.com/track/3VK1saUjwKxTwncJ0bv8w9) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [بديت اطيب](https://open.spotify.com/album/5kPqppESqRCCXGEF9x0Fpq) | 4:49 |
+| 33 | [Wesh Yes3edk](https://open.spotify.com/track/7cQKp7oT1YXT7z2MXvydhR) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [Wesh Yes3edk](https://open.spotify.com/album/7m3Vn1oyNWrwK2kcHhTSos) | 4:18 |
 | 34 | [Yeshhad Allah](https://open.spotify.com/track/2VZLKUNFYFkGX3Jo0gMdrR) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Yeshhad Allah](https://open.spotify.com/album/0OCMuAmmg390azxdmWycvx) | 4:07 |
 | 35 | [Akhathet Be Khtrek](https://open.spotify.com/track/4RyoGSA84YpvYm09iTR8P0) | [Moath Bugnah](https://open.spotify.com/artist/3I6QxuzNU6qhadzhuePFqF) | [Akhathet Be Khtrek](https://open.spotify.com/album/3k7N7Q8eetRAOQRtDrSImy) | 3:40 |
 | 36 | [Ashan Al Eshrah \(6\)](https://open.spotify.com/track/0Qw2eL45SZkglxhnb1R0m9) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Kol El Khata](https://open.spotify.com/album/4nKtbyAZFU6hu8lZAztO7c) | 4:37 |
-| 37 | [قيام](https://open.spotify.com/track/1ej0zKc17Qpnrz3BjQzvXD) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [مرحبا](https://open.spotify.com/album/6F34uPWLURxhVHvOUzxNiQ) | 4:04 |
-| 38 | [Al Sourah](https://open.spotify.com/track/4wx0IYEDJhN0ghC1QtqocW) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Al Sourah](https://open.spotify.com/album/24aRGx287iB3Y1OUuM3Z3T) | 4:19 |
-| 39 | [Qatlni Hobak](https://open.spotify.com/track/7JqngiYbIy1jv6o0zq45PS) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Qatlni Hobak](https://open.spotify.com/album/5rM0FdvjpBafPkf7ojIeVQ) | 3:27 |
+| 37 | [El Hajah](https://open.spotify.com/track/1vXGTrgrBe5pPYgd2wBjSx) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [El Hajah](https://open.spotify.com/album/0ojU0NHmHEh9756Is45OzT) | 4:23 |
+| 38 | [قيام](https://open.spotify.com/track/1ej0zKc17Qpnrz3BjQzvXD) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [مرحبا](https://open.spotify.com/album/6F34uPWLURxhVHvOUzxNiQ) | 4:04 |
+| 39 | [Al Sourah](https://open.spotify.com/track/4wx0IYEDJhN0ghC1QtqocW) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Al Sourah](https://open.spotify.com/album/24aRGx287iB3Y1OUuM3Z3T) | 4:19 |
 | 40 | [يذكرني الشتاء](https://open.spotify.com/track/7m8xFOiG78eaTpnWCVT5Xp) | [Lamya Almalki \| لمياء المالكي](https://open.spotify.com/artist/78muID98ZZ9qLgjJph0jnf) | [يذكرني الشتاء](https://open.spotify.com/album/2H1sagWhwYpDkxI3lprHUC) | 2:55 |
-| 41 | [Yeheb Al Bard](https://open.spotify.com/track/1MF7i7rhvphEq4QQr3fajo) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Yeheb Al Bard](https://open.spotify.com/album/4fw97akgChztlsTIgfFm6m) | 3:53 |
 
-Snapshot ID: `MCwxZTc5MzZiNzUxZmI1YzJlNmU4ZTFmNjUxZWY4YjIxZTNjZDllM2E4`
+Snapshot ID: `MCxmZjYwMThmNWRjZDU1ZGU5YTcwNWFmNmNhYTNiOGJhM2U5NTIxMDMy`

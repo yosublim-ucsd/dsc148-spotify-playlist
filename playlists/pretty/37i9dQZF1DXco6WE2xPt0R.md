@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 
 > Aquela playlist pra ficar no quentin, gostosin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,855 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,881 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 33 | [Pain](https://open.spotify.com/track/72kPNXZLozQAg0jfviWd0K) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:33 |
 | 34 | [On It](https://open.spotify.com/track/4Xr6BbSSu5HhImp8vfxMbg) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 3:25 |
 | 35 | [What's Up \(feat\. Jagged Edge\)](https://open.spotify.com/track/3draIIDdWX6FpZCc5D9WXA) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [Working On My Karma](https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59) | 3:39 |
-| 36 | [Ready](https://open.spotify.com/track/1hWi7x6YYkpCt6aRlC2r6R) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Ready](https://open.spotify.com/album/4VEmS1AQqFKNhCCtmp2R0E) | 3:01 |
-| 37 | [Damaged](https://open.spotify.com/track/2zKsGLytwZOY5WKEZ1ARAk) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [All For You](https://open.spotify.com/album/6VpIFMps1Uha73gk1c50sJ) | 3:16 |
+| 36 | [Damaged](https://open.spotify.com/track/2zKsGLytwZOY5WKEZ1ARAk) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [All For You](https://open.spotify.com/album/6VpIFMps1Uha73gk1c50sJ) | 3:16 |
+| 37 | [Ready](https://open.spotify.com/track/1hWi7x6YYkpCt6aRlC2r6R) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Ready](https://open.spotify.com/album/4VEmS1AQqFKNhCCtmp2R0E) | 3:01 |
 | 38 | [Exit](https://open.spotify.com/track/7z6VTwkfEhX25WWy1xC75O) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Exit](https://open.spotify.com/album/7go9k6n1fCuixMOOpW3gej) | 3:16 |
 | 39 | [Pray It Away](https://open.spotify.com/track/06dQ2rcBkq7z3AEZ4jhvc2) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Pray It Away](https://open.spotify.com/album/2PcSkzIHOrVDhnsmVbfKOC) | 2:36 |
 | 40 | [Splash \(feat\. Jhené Aiko & Ty Dolla $ign\)](https://open.spotify.com/track/5Ip2VxpYt1dCD7MKmjrw52) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 99 | [Look At You](https://open.spotify.com/track/2OzMvSU0CuklnI7tsoMUDO) | [Keeyen Martin](https://open.spotify.com/artist/50rvEyhTLlWQ5gIjEM6ZxT), [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [Monma](https://open.spotify.com/artist/50nVKm0xa3p8KYXXssG2ym) | [Look At You](https://open.spotify.com/album/2dZvOTKtZXs9v8AzdnO9pZ) | 2:45 |
 | 100 | [Mr\. Midnight \(Winter Time Remix\)](https://open.spotify.com/track/3kAWVzglbxR3PjYg1NYF0C) | [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL), [Bee Boy$oul](https://open.spotify.com/artist/2leVNDYvVvNjWr0aGMWXQc) | [Back 2 Love](https://open.spotify.com/album/77fPvsRp76NHn0qTXzOmum) | 4:00 |
 
-Snapshot ID: `MCwwNWMzMDJjZGY2ZWMwYmI4M2RlODE4MDJhNTg3NDlmMTMyOWIzMGMy`
+Snapshot ID: `MCw1NjJjNGI1M2NkZWYyNzM2NDJjMjFhMGRhYWI2NTM5MTRhOTljMDlh`

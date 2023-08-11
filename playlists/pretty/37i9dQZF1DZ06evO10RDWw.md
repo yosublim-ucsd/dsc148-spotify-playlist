@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO10RDWw.md) - [plain]
 
 > This is Saosin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,484 likes - 30 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,489 likes - 30 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO10RDWw.md) - [plain]
 | 25 | [I Wanna Hear Another Fast Song](https://open.spotify.com/track/0j5u3UNJIH1ZRouEyWO1TE) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Saosin](https://open.spotify.com/album/3WFPpbGgppW9ZgXQ4eyH0w) | 2:44 |
 | 26 | [Move Slow](https://open.spotify.com/track/7d4BF0jqyQAoaU9kz1AlV3) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Ncis: The Official Tv Soundtrack \- Vol\. 2](https://open.spotify.com/album/576fyLLci8j617RWwYX54O) | 3:08 |
 | 27 | [Second Guesses](https://open.spotify.com/track/78j1GGl7Tlm00RnvCkwMM6) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Along The Shadow \(Deluxe Edition\)](https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4) | 4:08 |
-| 28 | [Keep Secrets](https://open.spotify.com/track/6zsYr6wStLsJ1j9zUnoQ6T) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [The Grey](https://open.spotify.com/album/5FME0EWIpnQ3pGT5ugvykD) | 3:44 |
+| 28 | [Love Maker](https://open.spotify.com/track/0IsOrgcBeDDwzaaw4Gqeo3) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [The Grey](https://open.spotify.com/album/5FME0EWIpnQ3pGT5ugvykD) | 3:17 |
 | 29 | [New Angel](https://open.spotify.com/track/7mph7O5E7n3wKJcy2jNx0w) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Saosin](https://open.spotify.com/album/3WFPpbGgppW9ZgXQ4eyH0w) | 2:56 |
-| 30 | [Love Maker](https://open.spotify.com/track/0IsOrgcBeDDwzaaw4Gqeo3) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [The Grey](https://open.spotify.com/album/5FME0EWIpnQ3pGT5ugvykD) | 3:17 |
+| 30 | [Keep Secrets](https://open.spotify.com/track/6zsYr6wStLsJ1j9zUnoQ6T) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [The Grey](https://open.spotify.com/album/5FME0EWIpnQ3pGT5ugvykD) | 3:44 |
 
-Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDBjNDdjZmZhNzA4YzliM2YxOGVjN2VkOTJkNmZkMGNlZQ==`
+Snapshot ID: `MjgxOTQ1NjMsMDAwMDAwMDAxYzUyNDE0OGVlYjBlZmRkMTUzZTM1YmUyMGEyMmY3OQ==`

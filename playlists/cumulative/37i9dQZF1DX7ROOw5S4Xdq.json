@@ -477,28 +477,6 @@
     },
     {
       "album": {
-        "name": "Brave Sessions: Le\u00e3o de Jud\u00e1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2KvHxcXLS03Lx9CkisZnQF"
-      },
-      "artists": [
-        {
-          "name": "BRAVE",
-          "url": "https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h"
-        },
-        {
-          "name": "LUDI",
-          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
-        }
-      ],
-      "date_added": "2023-08-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 246680,
-      "name": "Brave Sessions: Le\u00e3o de Jud\u00e1 - Ao Vivo",
-      "url": "https://open.spotify.com/track/0SL6BVNoPMuccnrVDdGojX"
-    },
-    {
-      "album": {
         "name": "Bra\u00e7os de Amor (Ao Vivo)",
         "url": "https://open.spotify.com/album/3e3j35LvkfnEdz1gYm89eV"
       },
@@ -1125,13 +1103,21 @@
     },
     {
       "album": {
-        "name": "Doxologia",
+        "name": "Doxologia (feat. AM\u00c9M)",
         "url": "https://open.spotify.com/album/5uAYngAUPvd0RDdmnfsjfF"
       },
       "artists": [
         {
           "name": "Weslei Santos",
           "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
+        },
+        {
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
+        },
+        {
+          "name": "L\u00e9o Brand\u00e3o",
+          "url": "https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L"
         },
         {
           "name": "AM\u00c9M",
@@ -1142,7 +1128,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 343525,
-      "name": "Doxologia",
+      "name": "Doxologia (feat. AM\u00c9M)",
       "url": "https://open.spotify.com/track/5DXFKMcwCf0w2E6sIcfu5a"
     },
     {
@@ -2076,6 +2062,28 @@
       "duration_ms": 587472,
       "name": "Leva-me ao deserto - Ao Vivo",
       "url": "https://open.spotify.com/track/02H2Blgu0yzM6wjtCFJSa8"
+    },
+    {
+      "album": {
+        "name": "Le\u00e3o de Jud\u00e1: Brave Sessions (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2KvHxcXLS03Lx9CkisZnQF"
+      },
+      "artists": [
+        {
+          "name": "BRAVE",
+          "url": "https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h"
+        },
+        {
+          "name": "LUDI",
+          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246680,
+      "name": "Le\u00e3o de Jud\u00e1: Brave Sessions - Ao Vivo",
+      "url": "https://open.spotify.com/track/0SL6BVNoPMuccnrVDdGojX"
     },
     {
       "album": {

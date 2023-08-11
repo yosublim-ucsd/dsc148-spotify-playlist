@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 
 > Latinas que inspiran ✨ Cover: Maria Becerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,370 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 642,503 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 | 22 | [La Triple T](https://open.spotify.com/track/1rEsfHhBFTuTPekF8M5O3f) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:47 |
 | 23 | [Todos Me Miran](https://open.spotify.com/track/4pmRDyDRRiZ5Pq7hm4WTpb) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [La Trayectoria](https://open.spotify.com/album/1NVDbnjIE6FFpNUohWJwXQ) | 3:24 |
 | 24 | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/track/737gzPI5VAmgUGWiJ9yXuu) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:21 |
-| 25 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 |
+| 25 | [Soy Mia](https://open.spotify.com/track/5anRovfNkeo83bshruaWX9) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Iluminatti](https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO) | 3:41 |
 | 26 | [She Wolf](https://open.spotify.com/track/4cS2HQ6jK80vqdY9ofpztx) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [She Wolf \(Expanded Edition\)](https://open.spotify.com/album/5u0OuxRnf3FzvZR07xAxL2) | 3:08 |
-| 27 | [Soy Mia](https://open.spotify.com/track/5anRovfNkeo83bshruaWX9) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Iluminatti](https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO) | 3:41 |
+| 27 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 |
 | 28 | [DESPECHÁ RMX](https://open.spotify.com/track/4CD623yLJVvKJxUyzaTqtC) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [DESPECHÁ RMX](https://open.spotify.com/album/4czxiqSwyeZK7y5r9GNWXP) | 2:50 |
 | 29 | [MAÑANA SERÁ BONITO](https://open.spotify.com/track/4bycD60yZgR6anIBtmU8UH) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:30 |
 | 30 | [NO voy a llorar :'\)](https://open.spotify.com/track/5lR23GryHOflIeSkJ0zGnW) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [NO voy a llorar :'\)](https://open.spotify.com/album/1IHXBPJAY47mRg8MWZbwwT) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 | 49 | [ACTIVA](https://open.spotify.com/track/4HRoZdP8v2lXXotGF0KaGx) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [ACTIVA](https://open.spotify.com/album/2ka8EGLE24wDwF35eNo2lp) | 4:21 |
 | 50 | [Capulí](https://open.spotify.com/track/5yoQCiZjwoAKqBzqKlDdh5) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Capulí](https://open.spotify.com/album/2oAG4DUG1vIVMOgtWsoqxA) | 3:22 |
 
-Snapshot ID: `MCw3NzEzZTExYWQ1ODQ2NWIzNTQwZmE2YjRhNTlkYzk5MTE2NmRlZjNh`
+Snapshot ID: `MCxlMmZlNDRjNmFhMWVkMzQ3YzQwMmNiZDM3ZTlkNzU5ZDk1ZmNlYzhk`

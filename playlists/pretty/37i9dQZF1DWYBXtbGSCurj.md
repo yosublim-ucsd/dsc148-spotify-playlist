@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Yunk Vino
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,851 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,021 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 21 | [É o paco ou berro?](https://open.spotify.com/track/18CtlrryJwqsvSOyd9GBim) | [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75) | [EVDC DELUXE](https://open.spotify.com/album/5BySpyh1QS9qQwHv1Ujaq4) | 3:04 |
 | 22 | [Avenida Augusta](https://open.spotify.com/track/71SC6usmGx2zH7O2DbCO4E) | [Shaodree](https://open.spotify.com/artist/4NOi6526Zq6dqCMXaEN0EW) | [Nova Wave, Pt\. 2](https://open.spotify.com/album/1e37uzNq0st8nLOwXAYHxI) | 3:04 |
 | 23 | [Ritmo Do Crime](https://open.spotify.com/track/5yjd0lAp6zahxFdqWeI8qM) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Ritmo Do Crime](https://open.spotify.com/album/3eGzFoARBUyPBPe5rOP9La) | 2:49 |
-| 24 | [2023](https://open.spotify.com/track/4sfY9Q4rQKVwxQVKo6v04i) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [MATHINVOKER](https://open.spotify.com/artist/69o8iufFnvKcM2HcURIkbc) | [Perdas & Ganhos](https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB) | 2:58 |
+| 24 | [2023](https://open.spotify.com/track/4sfY9Q4rQKVwxQVKo6v04i) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Tkd](https://open.spotify.com/artist/1GYx2LBI5bt0xRUpvdGYYt), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [MATHINVOKER](https://open.spotify.com/artist/69o8iufFnvKcM2HcURIkbc) | [Perdas & Ganhos](https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB) | 2:58 |
 | 25 | [Loyalty](https://open.spotify.com/track/1tVENMDCXyu32b8xFTZT5z) | [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm) | [Loyalty](https://open.spotify.com/album/6Mb93xMq97OqX2SmKU29xw) | 3:24 |
 | 26 | [Segredo](https://open.spotify.com/track/6hu4HvpNzrW2RIEEAZC3vD) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Contradições](https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D) | 1:44 |
 | 27 | [Abre O Quarto](https://open.spotify.com/track/4uPDEgzF8xqGS6T1KJ8ohY) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Oldilla](https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9) | [Perdas & Ganhos](https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB) | 2:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [Flow Espacial](https://open.spotify.com/track/4qDT0BeJ7BjatrN9k8AvB4) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Flow Espacial](https://open.spotify.com/album/02bPJTNRLkXeVWQPihqHNX) | 2:45 |
 | 75 | [Coração de Gelo](https://open.spotify.com/track/7nFvKgVumc9FcU97zGjjei) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Manual de Como Amar Errado](https://open.spotify.com/album/7wUbINCiBbmMPH50g1bg3I) | 2:48 |
 
-Snapshot ID: `MCw0OTFiNThjNzE5N2QxZTJlZGY5YWVkNzg1MzQ2OWZkODJjZTVmYmEz`
+Snapshot ID: `MCwxNWMxZDg1NmIwMTAzZDUwNmFkOTMwOTU0YWNmZGRkYjNlNjM3YmU0`

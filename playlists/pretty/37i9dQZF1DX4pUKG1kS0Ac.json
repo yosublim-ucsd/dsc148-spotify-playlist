@@ -1,12 +1,12 @@
 {
   "description": "You say guilty, we say non stop bangers!",
-  "num_followers": 3329291,
+  "num_followers": 3329534,
   "original_name": "Guilty Pleasures",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODc3NDJhNDA3MzVlODczNmFjZmQ2OGQ5NjgyZWFjMDM2YjRjMzY5",
+  "snapshot_id": "MCxhOGFhODVlYjk1YzNmMzJkZjY2NDEyZWU5ZWM5NzJiNDI4Yzc1NjIz",
   "tracks": [
     {
       "added_at": "2023-08-03 02:49:08",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-08-03 02:49:08",
       "album": {
-        "name": "The Foundation",
-        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        }
-      ],
-      "duration_ms": 238146,
-      "name": "Chicken Fried",
-      "url": "https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc"
-    },
-    {
-      "added_at": "2023-08-03 02:49:08",
-      "album": {
         "name": "Silver Side Up",
         "url": "https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 231333,
       "name": "Wake Me Up Before You Go-Go",
       "url": "https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c"
+    },
+    {
+      "added_at": "2023-08-03 02:49:08",
+      "album": {
+        "name": "The Foundation",
+        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "duration_ms": 238146,
+      "name": "Chicken Fried",
+      "url": "https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc"
     },
     {
       "added_at": "2023-08-03 02:49:08",
@@ -815,6 +815,26 @@
     {
       "added_at": "2023-08-03 02:49:08",
       "album": {
+        "name": "Believe (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 227986,
+      "name": "Beauty And A Beat",
+      "url": "https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk"
+    },
+    {
+      "added_at": "2023-08-03 02:49:08",
+      "album": {
         "name": "The Time Of Our Lives",
         "url": "https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 225373,
       "name": "Beautiful Girls",
       "url": "https://open.spotify.com/track/1hGy2eLcmC8eKx7qr1tOqx"
-    },
-    {
-      "added_at": "2023-08-03 02:49:08",
-      "album": {
-        "name": "Believe (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 227986,
-      "name": "Beauty And A Beat",
-      "url": "https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk"
     },
     {
       "added_at": "2023-08-03 02:49:08",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-08-03 02:49:08",
       "album": {
-        "name": "The Final Countdown (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
-      },
-      "artists": [
-        {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
-        }
-      ],
-      "duration_ms": 310333,
-      "name": "The Final Countdown",
-      "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
-    },
-    {
-      "added_at": "2023-08-03 02:49:08",
-      "album": {
         "name": "Unwritten",
         "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
+    },
+    {
+      "added_at": "2023-08-03 02:49:08",
+      "album": {
+        "name": "The Final Countdown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
+      },
+      "artists": [
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "duration_ms": 310333,
+      "name": "The Final Countdown",
+      "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
     },
     {
       "added_at": "2023-08-03 02:49:08",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-08-03 02:49:08",
       "album": {
-        "name": "A Little Bit of Mambo",
-        "url": "https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai"
-      },
-      "artists": [
-        {
-          "name": "Lou Bega",
-          "url": "https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx"
-        }
-      ],
-      "duration_ms": 220293,
-      "name": "Mambo No. 5 (a Little Bit of...)",
-      "url": "https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs"
-    },
-    {
-      "added_at": "2023-08-03 02:49:08",
-      "album": {
         "name": "Be Not Nobody",
         "url": "https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 237493,
       "name": "A Thousand Miles",
       "url": "https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP"
+    },
+    {
+      "added_at": "2023-08-03 02:49:08",
+      "album": {
+        "name": "A Little Bit of Mambo",
+        "url": "https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai"
+      },
+      "artists": [
+        {
+          "name": "Lou Bega",
+          "url": "https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx"
+        }
+      ],
+      "duration_ms": 220293,
+      "name": "Mambo No. 5 (a Little Bit of...)",
+      "url": "https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs"
     },
     {
       "added_at": "2023-08-03 02:49:08",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-08-03 02:49:08",
       "album": {
+        "name": "Back to Bedlam",
+        "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "You're Beautiful",
+      "url": "https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k"
+    },
+    {
+      "added_at": "2023-08-03 02:49:08",
+      "album": {
         "name": "Europop",
         "url": "https://open.spotify.com/album/54vbD17F1t5q3yHkj1cX37"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 283747,
       "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
       "url": "https://open.spotify.com/track/2yAVzRiEQooPEJ9SYx11L3"
-    },
-    {
-      "added_at": "2023-08-03 02:49:08",
-      "album": {
-        "name": "Back to Bedlam",
-        "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "You're Beautiful",
-      "url": "https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k"
     },
     {
       "added_at": "2023-08-03 02:49:08",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-08-03 02:49:08",
       "album": {
-        "name": "The Sign",
-        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
-      },
-      "artists": [
-        {
-          "name": "Ace of Base",
-          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
-        }
-      ],
-      "duration_ms": 211213,
-      "name": "All That She Wants",
-      "url": "https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9"
-    },
-    {
-      "added_at": "2023-08-03 02:49:08",
-      "album": {
         "name": "Eye Of The Tiger",
         "url": "https://open.spotify.com/album/4PT9VulQaQP6XR1xBI2x1W"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 243773,
       "name": "Eye of the Tiger",
       "url": "https://open.spotify.com/track/2HHtWyy5CgaQbC7XSoOb0e"
+    },
+    {
+      "added_at": "2023-08-03 02:49:08",
+      "album": {
+        "name": "The Sign",
+        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
+      },
+      "artists": [
+        {
+          "name": "Ace of Base",
+          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+        }
+      ],
+      "duration_ms": 211213,
+      "name": "All That She Wants",
+      "url": "https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9"
     },
     {
       "added_at": "2023-08-03 02:49:08",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2023-08-03 02:49:08",
       "album": {
+        "name": "souljaboytellem.com",
+        "url": "https://open.spotify.com/album/5wFQi4xOTXILQSKQr0Ft8s"
+      },
+      "artists": [
+        {
+          "name": "Soulja Boy",
+          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
+        }
+      ],
+      "duration_ms": 221933,
+      "name": "Crank That (Soulja Boy)",
+      "url": "https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi"
+    },
+    {
+      "added_at": "2023-08-03 02:49:08",
+      "album": {
         "name": "Ricky Martin",
         "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
       },
@@ -1411,34 +1427,18 @@
     {
       "added_at": "2023-08-03 02:49:08",
       "album": {
-        "name": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
-        "url": "https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW"
+        "name": "The Bodyguard - Original Soundtrack Album",
+        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
       },
       "artists": [
         {
-          "name": "Kenny Loggins",
-          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 215133,
-      "name": "Danger Zone - From \"Top Gun\" Original Soundtrack",
-      "url": "https://open.spotify.com/track/34x6hEJgGAOQvmlMql5Ige"
-    },
-    {
-      "added_at": "2023-08-03 02:49:08",
-      "album": {
-        "name": "souljaboytellem.com",
-        "url": "https://open.spotify.com/album/5wFQi4xOTXILQSKQr0Ft8s"
-      },
-      "artists": [
-        {
-          "name": "Soulja Boy",
-          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
-        }
-      ],
-      "duration_ms": 221933,
-      "name": "Crank That (Soulja Boy)",
-      "url": "https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi"
+      "duration_ms": 289160,
+      "name": "I Have Nothing",
+      "url": "https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP"
     },
     {
       "added_at": "2023-08-03 02:49:08",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2023-08-03 02:49:08",
       "album": {
-        "name": "The Bodyguard - Original Soundtrack Album",
-        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
+        "name": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
+        "url": "https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW"
       },
       "artists": [
         {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
         }
       ],
-      "duration_ms": 289160,
-      "name": "I Have Nothing",
-      "url": "https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP"
+      "duration_ms": 215133,
+      "name": "Danger Zone - From \"Top Gun\" Original Soundtrack",
+      "url": "https://open.spotify.com/track/34x6hEJgGAOQvmlMql5Ige"
     },
     {
       "added_at": "2023-08-03 02:49:08",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2023-08-03 02:49:08",
       "album": {
-        "name": "Departure",
-        "url": "https://open.spotify.com/album/2OyVtIEp7O7a6o82DF4Ba5"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 201693,
-      "name": "Any Way You Want It",
-      "url": "https://open.spotify.com/track/71SvEDmsOwIWw1IozsZoMA"
-    },
-    {
-      "added_at": "2023-08-03 02:49:08",
-      "album": {
         "name": "Stay Hungry",
         "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
       },
@@ -1759,34 +1743,18 @@
     {
       "added_at": "2023-08-03 02:49:08",
       "album": {
-        "name": "Wheatus",
-        "url": "https://open.spotify.com/album/3xmKWmqJFoXS22tePO3mgd"
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/2OyVtIEp7O7a6o82DF4Ba5"
       },
       "artists": [
         {
-          "name": "Wheatus",
-          "url": "https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu"
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
         }
       ],
-      "duration_ms": 241666,
-      "name": "Teenage Dirtbag",
-      "url": "https://open.spotify.com/track/25FTMokYEbEWHEdss5JLZS"
-    },
-    {
-      "added_at": "2023-08-03 02:49:08",
-      "album": {
-        "name": "Blazzin' Fire",
-        "url": "https://open.spotify.com/album/0zLd8jpRt4m6FWCu81Fb9n"
-      },
-      "artists": [
-        {
-          "name": "Inner Circle",
-          "url": "https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx"
-        }
-      ],
-      "duration_ms": 227067,
-      "name": "Sweat (A La La La La Long)",
-      "url": "https://open.spotify.com/track/1SssFw74DdHVjRa6ADggdD"
+      "duration_ms": 201693,
+      "name": "Any Way You Want It",
+      "url": "https://open.spotify.com/track/71SvEDmsOwIWw1IozsZoMA"
     },
     {
       "added_at": "2023-08-03 02:49:08",
@@ -1807,6 +1775,22 @@
     {
       "added_at": "2023-08-03 02:49:08",
       "album": {
+        "name": "Wheatus",
+        "url": "https://open.spotify.com/album/3xmKWmqJFoXS22tePO3mgd"
+      },
+      "artists": [
+        {
+          "name": "Wheatus",
+          "url": "https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu"
+        }
+      ],
+      "duration_ms": 241666,
+      "name": "Teenage Dirtbag",
+      "url": "https://open.spotify.com/track/25FTMokYEbEWHEdss5JLZS"
+    },
+    {
+      "added_at": "2023-08-03 02:49:08",
+      "album": {
         "name": "House of Pain (Fine Malt Lyrics) [30 Years] [Deluxe Edition]",
         "url": "https://open.spotify.com/album/1GYvmeraQXDxxSC9T3RDvM"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 218546,
       "name": "Jump Around - 30 Years Remaster",
       "url": "https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq"
+    },
+    {
+      "added_at": "2023-08-03 02:49:08",
+      "album": {
+        "name": "Blazzin' Fire",
+        "url": "https://open.spotify.com/album/0zLd8jpRt4m6FWCu81Fb9n"
+      },
+      "artists": [
+        {
+          "name": "Inner Circle",
+          "url": "https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx"
+        }
+      ],
+      "duration_ms": 227067,
+      "name": "Sweat (A La La La La Long)",
+      "url": "https://open.spotify.com/track/1SssFw74DdHVjRa6ADggdD"
     },
     {
       "added_at": "2023-08-03 02:49:08",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2023-08-03 02:49:08",
       "album": {
-        "name": "Voulez-Vous",
-        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 260893,
-      "name": "Angeleyes",
-      "url": "https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9"
-    },
-    {
-      "added_at": "2023-08-03 02:49:08",
-      "album": {
         "name": "Title (Deluxe)",
         "url": "https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE"
       },
@@ -1991,18 +1975,18 @@
     {
       "added_at": "2023-08-03 02:49:08",
       "album": {
-        "name": "Here's To The Good Times",
-        "url": "https://open.spotify.com/album/5MH765pytbQasmDxXArTah"
+        "name": "Voulez-Vous",
+        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
       },
       "artists": [
         {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
         }
       ],
-      "duration_ms": 208960,
-      "name": "Cruise",
-      "url": "https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy"
+      "duration_ms": 260893,
+      "name": "Angeleyes",
+      "url": "https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9"
     },
     {
       "added_at": "2023-08-03 02:49:08",
@@ -2019,6 +2003,22 @@
       "duration_ms": 191240,
       "name": "The Sign",
       "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
+    },
+    {
+      "added_at": "2023-08-03 02:49:08",
+      "album": {
+        "name": "Here's To The Good Times",
+        "url": "https://open.spotify.com/album/5MH765pytbQasmDxXArTah"
+      },
+      "artists": [
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        }
+      ],
+      "duration_ms": 208960,
+      "name": "Cruise",
+      "url": "https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy"
     },
     {
       "added_at": "2023-08-03 02:49:08",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2023-08-03 02:49:08",
       "album": {
-        "name": "Freeze Frame",
-        "url": "https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch"
-      },
-      "artists": [
-        {
-          "name": "The J. Geils Band",
-          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
-        }
-      ],
-      "duration_ms": 216533,
-      "name": "Centerfold",
-      "url": "https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt"
-    },
-    {
-      "added_at": "2023-08-03 02:49:08",
-      "album": {
         "name": "Down To Earth",
         "url": "https://open.spotify.com/album/1xlTRhgWQSEvu9DPHVn8uJ"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 197160,
       "name": "Since You Been Gone",
       "url": "https://open.spotify.com/track/6xq5DxZWGgdStAxGAil0yw"
+    },
+    {
+      "added_at": "2023-08-03 02:49:08",
+      "album": {
+        "name": "Freeze Frame",
+        "url": "https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch"
+      },
+      "artists": [
+        {
+          "name": "The J. Geils Band",
+          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
+        }
+      ],
+      "duration_ms": 216533,
+      "name": "Centerfold",
+      "url": "https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt"
     },
     {
       "added_at": "2023-08-03 02:49:08",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2023-08-03 02:49:08",
       "album": {
-        "name": "In the Summertime",
-        "url": "https://open.spotify.com/album/30UgyUTvmdYXNo7CeMabXY"
-      },
-      "artists": [
-        {
-          "name": "Mungo Jerry",
-          "url": "https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb"
-        }
-      ],
-      "duration_ms": 215800,
-      "name": "In the Summertime",
-      "url": "https://open.spotify.com/track/3RNyGLgSvmVRZ7xKUp8Wgd"
-    },
-    {
-      "added_at": "2023-08-03 02:49:08",
-      "album": {
         "name": "Grease (The Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
       },
@@ -2367,6 +2351,22 @@
     {
       "added_at": "2023-08-03 02:49:08",
       "album": {
+        "name": "In the Summertime",
+        "url": "https://open.spotify.com/album/30UgyUTvmdYXNo7CeMabXY"
+      },
+      "artists": [
+        {
+          "name": "Mungo Jerry",
+          "url": "https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb"
+        }
+      ],
+      "duration_ms": 215800,
+      "name": "In the Summertime",
+      "url": "https://open.spotify.com/track/3RNyGLgSvmVRZ7xKUp8Wgd"
+    },
+    {
+      "added_at": "2023-08-03 02:49:08",
+      "album": {
         "name": "R&B: From Doo-Wop To Hip-Hop",
         "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
       },
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2023-08-03 02:49:08",
       "album": {
-        "name": "The Essential Journey",
-        "url": "https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 248906,
-      "name": "Don't Stop Believin'",
-      "url": "https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg"
-    },
-    {
-      "added_at": "2023-08-03 02:49:08",
-      "album": {
         "name": "Hooray For Boobies",
         "url": "https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh"
       },
@@ -2411,6 +2395,22 @@
       "duration_ms": 260506,
       "name": "The Bad Touch",
       "url": "https://open.spotify.com/track/5EYdTPdJD74r9EVZBztqGG"
+    },
+    {
+      "added_at": "2023-08-03 02:49:08",
+      "album": {
+        "name": "The Essential Journey",
+        "url": "https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 248906,
+      "name": "Don't Stop Believin'",
+      "url": "https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg"
     },
     {
       "added_at": "2023-08-03 02:49:08",
@@ -2483,18 +2483,18 @@
     {
       "added_at": "2023-08-03 02:49:08",
       "album": {
-        "name": "Savage Garden",
-        "url": "https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4"
+        "name": "Pocket Full Of Kryptonite",
+        "url": "https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK"
       },
       "artists": [
         {
-          "name": "Savage Garden",
-          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
+          "name": "Spin Doctors",
+          "url": "https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m"
         }
       ],
-      "duration_ms": 277266,
-      "name": "Truly Madly Deeply",
-      "url": "https://open.spotify.com/track/013AWvizllIUEC2FOBzOnh"
+      "duration_ms": 256733,
+      "name": "Two Princes",
+      "url": "https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90"
     }
   ],
   "unique_name": "Guilty Pleasures",

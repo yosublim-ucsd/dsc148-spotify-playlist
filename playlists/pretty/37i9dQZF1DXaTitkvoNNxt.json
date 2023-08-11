@@ -1,12 +1,12 @@
 {
   "description": "Songs from the last decade that will make you sing and dance all summer long!",
-  "num_followers": 1450743,
+  "num_followers": 1450741,
   "original_name": "Summer Hits of the 10s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MmQyMDk2MmMzNDc3Zjk5ZGMyZDI4YjBjOWMwZGQ3ODRhOGMzNjEw",
+  "snapshot_id": "MCxjOWJjNGI4NDQ2YzZhY2MwMWE4YTVjMTk4MDVjOTU2ZGFmMzQ5NWMw",
   "tracks": [
     {
       "added_at": "2023-08-03 03:15:30",
@@ -367,6 +367,22 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
+        "name": "Blurryface",
+        "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 214506,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW"
+    },
+    {
+      "added_at": "2023-08-03 03:15:30",
+      "album": {
         "name": "Uptown Special",
         "url": "https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 269666,
       "name": "Uptown Funk (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
-    },
-    {
-      "added_at": "2023-08-03 03:15:30",
-      "album": {
-        "name": "Blurryface",
-        "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 214506,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW"
     },
     {
       "added_at": "2023-08-03 03:15:30",
@@ -487,6 +487,22 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 171360,
+      "name": "You Need To Calm Down",
+      "url": "https://open.spotify.com/track/6RRNNciQGZEXnqk8SQ9yv5"
+    },
+    {
+      "added_at": "2023-08-03 03:15:30",
+      "album": {
         "name": "Global Warming: Meltdown (Deluxe Version)",
         "url": "https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 204160,
       "name": "Timber (feat. Ke$ha)",
       "url": "https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS"
-    },
-    {
-      "added_at": "2023-08-03 03:15:30",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 171360,
-      "name": "You Need To Calm Down",
-      "url": "https://open.spotify.com/track/6RRNNciQGZEXnqk8SQ9yv5"
     },
     {
       "added_at": "2023-08-03 03:15:30",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
-        "name": "Speak Your Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 186986,
-      "name": "2002",
-      "url": "https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo"
-    },
-    {
-      "added_at": "2023-08-03 03:15:30",
-      "album": {
         "name": "Purpose (Deluxe)",
         "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 200786,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF"
+    },
+    {
+      "added_at": "2023-08-03 03:15:30",
+      "album": {
+        "name": "Speak Your Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 186986,
+      "name": "2002",
+      "url": "https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo"
     },
     {
       "added_at": "2023-08-03 03:15:30",
@@ -887,26 +887,6 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
-        "name": "Con Calma",
-        "url": "https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Snow",
-          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
-        }
-      ],
-      "duration_ms": 193226,
-      "name": "Con Calma",
-      "url": "https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m"
-    },
-    {
-      "added_at": "2023-08-03 03:15:30",
-      "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
       },
@@ -923,18 +903,22 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+        "name": "Con Calma",
+        "url": "https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Snow",
+          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
         }
       ],
-      "duration_ms": 170826,
-      "name": "Galway Girl",
-      "url": "https://open.spotify.com/track/0afhq8XCExXpqazXczTSve"
+      "duration_ms": 193226,
+      "name": "Con Calma",
+      "url": "https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m"
     },
     {
       "added_at": "2023-08-03 03:15:30",
@@ -963,6 +947,22 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 170826,
+      "name": "Galway Girl",
+      "url": "https://open.spotify.com/track/0afhq8XCExXpqazXczTSve"
+    },
+    {
+      "added_at": "2023-08-03 03:15:30",
+      "album": {
         "name": "In My Mind",
         "url": "https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa"
       },
@@ -979,26 +979,6 @@
       "duration_ms": 184560,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33"
-    },
-    {
-      "added_at": "2023-08-03 03:15:30",
-      "album": {
-        "name": "What Is Love? (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 212733,
-      "name": "Symphony (feat. Zara Larsson)",
-      "url": "https://open.spotify.com/track/72gv4zhNvRVdQA0eOenCal"
     },
     {
       "added_at": "2023-08-03 03:15:30",
@@ -1035,6 +1015,26 @@
       "duration_ms": 210746,
       "name": "Nice For What",
       "url": "https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw"
+    },
+    {
+      "added_at": "2023-08-03 03:15:30",
+      "album": {
+        "name": "What Is Love? (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 212733,
+      "name": "Symphony (feat. Zara Larsson)",
+      "url": "https://open.spotify.com/track/72gv4zhNvRVdQA0eOenCal"
     },
     {
       "added_at": "2023-08-03 03:15:30",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
+        "name": "The 20/20 Experience (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 484146,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/4rHZZAmHpZrA3iH5zx8frV"
+    },
+    {
+      "added_at": "2023-08-03 03:15:30",
+      "album": {
         "name": "Global Warming: Meltdown (Deluxe Version)",
         "url": "https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 231240,
       "name": "We Can't Stop",
       "url": "https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH"
-    },
-    {
-      "added_at": "2023-08-03 03:15:30",
-      "album": {
-        "name": "The 20/20 Experience (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 484146,
-      "name": "Mirrors",
-      "url": "https://open.spotify.com/track/4rHZZAmHpZrA3iH5zx8frV"
     },
     {
       "added_at": "2023-08-03 03:15:30",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
-        "name": "I Don't Care (with Justin Bieber)",
-        "url": "https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran & Justin Bieber",
-          "url": "https://open.spotify.com/artist/1WsYCXdezMjn0KoIrLvMmC"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 219946,
-      "name": "I Don't Care (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns"
-    },
-    {
-      "added_at": "2023-08-03 03:15:30",
-      "album": {
         "name": "Piece Of Your Heart",
         "url": "https://open.spotify.com/album/0cqRGWD3uc5Lggpducn5nD"
       },
@@ -1515,6 +1495,26 @@
       "duration_ms": 152913,
       "name": "Piece Of Your Heart",
       "url": "https://open.spotify.com/track/1DFD5Fotzgn6yYXkYsKiGs"
+    },
+    {
+      "added_at": "2023-08-03 03:15:30",
+      "album": {
+        "name": "I Don't Care (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran & Justin Bieber",
+          "url": "https://open.spotify.com/artist/1WsYCXdezMjn0KoIrLvMmC"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 219946,
+      "name": "I Don't Care (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns"
     },
     {
       "added_at": "2023-08-03 03:15:30",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
-        "name": "3.0",
-        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 252346,
-      "name": "Vivir Mi Vida",
-      "url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ"
-    },
-    {
-      "added_at": "2023-08-03 03:15:30",
-      "album": {
         "name": "When It's Dark Out",
         "url": "https://open.spotify.com/album/09Q3WwGYsQe5ognkvVkmCu"
       },
@@ -1675,22 +1659,18 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
       },
       "artists": [
         {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 196613,
-      "name": "Perfect Strangers",
-      "url": "https://open.spotify.com/track/3P3pw6C19j31Rnzgo3JG7o"
+      "duration_ms": 252346,
+      "name": "Vivir Mi Vida",
+      "url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ"
     },
     {
       "added_at": "2023-08-03 03:15:30",
@@ -1711,6 +1691,26 @@
       "duration_ms": 214480,
       "name": "Work from Home (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/4tCtwWceOPWzenK2HAIJSb"
+    },
+    {
+      "added_at": "2023-08-03 03:15:30",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 196613,
+      "name": "Perfect Strangers",
+      "url": "https://open.spotify.com/track/3P3pw6C19j31Rnzgo3JG7o"
     },
     {
       "added_at": "2023-08-03 03:15:30",

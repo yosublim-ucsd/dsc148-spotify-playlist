@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMxIh88NH1N.md) - [plain]
 
 > ¡Al cien para un buen ejercicio!
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,715 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,829 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMxIh88NH1N.md) - [plain]
 | 67 | [El Bélico](https://open.spotify.com/track/50pkO56KXHoH53sVPRSbZ3) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Carteles](https://open.spotify.com/album/1c53AOH8tvbZb1mY3jpAHq) | 2:05 |
 | 68 | [Hablando Claro \(En Vivo\)](https://open.spotify.com/track/5hRFjooNvZWb9gdnXjrv2j) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Hablando Claro \(En Vivo\)](https://open.spotify.com/album/2F58yhcgZckSuL5pDXqEi8) | 3:10 |
 | 69 | [Consejos Gratis](https://open.spotify.com/track/2xTLTU2K901snq53FLWZKE) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 2:22 |
-| 70 | [141](https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [141](https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z) | 2:55 |
-| 71 | [Se Fue La Pantera](https://open.spotify.com/track/7G3h22znCIwaN07Q2s1ukR) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [De Boca En Boca](https://open.spotify.com/album/01olKgKJsavApHa7QJNT29) | 3:07 |
-| 72 | [Vida Ventajosa](https://open.spotify.com/track/72kaj3MRKcGnv2dbukJQRA) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Somos Arrieros](https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT) | 2:36 |
+| 70 | [Vida Ventajosa](https://open.spotify.com/track/72kaj3MRKcGnv2dbukJQRA) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Somos Arrieros](https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT) | 2:36 |
+| 71 | [141](https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [141](https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z) | 2:55 |
+| 72 | [Se Fue La Pantera](https://open.spotify.com/track/7G3h22znCIwaN07Q2s1ukR) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [De Boca En Boca](https://open.spotify.com/album/01olKgKJsavApHa7QJNT29) | 3:07 |
 | 73 | [Mi Pasado y Mi Presente](https://open.spotify.com/track/588ROs3NuPqlPSYpIuitKS) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn) | [Plan B](https://open.spotify.com/album/24FPZ021AP83t8OSQHRaAx) | 3:40 |
 | 74 | [La Barda](https://open.spotify.com/track/0pi1spZ3Upm2gXb1OVDq5y) | [Grupo 360](https://open.spotify.com/artist/2h9VgLswbVrXfdjW8UVqHC) | [La Barda](https://open.spotify.com/album/1nJyjfqugNuIxK5e1b4svo) | 4:28 |
 | 75 | [Mi Momento](https://open.spotify.com/track/0yhduE0AtElWqyPkgeSMja) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 3](https://open.spotify.com/album/2tqw9Hsyxr5G3bCR5NgWGo) | 2:42 |
@@ -88,12 +88,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMxIh88NH1N.md) - [plain]
 | 78 | [El Día De Los Muertos](https://open.spotify.com/track/6J4MbIlBn50XGo31UTdD3D) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Día De Los Muertos](https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX) | 3:23 |
 | 79 | [Por Clave el 13](https://open.spotify.com/track/5xwP3VbM3eBKOeFF3fwn6Z) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y) | [Seguimos Irremediables](https://open.spotify.com/album/40qsMl66nONy9hHLMHATwO) | 3:10 |
 | 80 | [A Mis Enemigos](https://open.spotify.com/track/0rRxqhX6w0IWTFSzzRFSOo) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Vencedor](https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe) | 3:03 |
-| 81 | [Ciudad Peligrosa](https://open.spotify.com/track/3AzpG3c25sZQNaQi8qTTDQ) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Ciudad Peligrosa](https://open.spotify.com/album/2FAmIkxoyJ4VMjrY2M6nV3) | 3:46 |
-| 82 | [Recordando a Manuel](https://open.spotify.com/track/3JuPa0jxEAacGtz4mAKVZA) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Jesús Chairez](https://open.spotify.com/artist/49xb55bacoIXahj7bLmfUp) | [Bendecído](https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu) | 3:28 |
+| 81 | [Vamos Aclarando Muchas Cosas \- En Vivo](https://open.spotify.com/track/2LYeGSaYKRYwgz4lvnG6mL) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Vamos Aclarando Muchas Cosas \(En Vivo\)](https://open.spotify.com/album/1QNDerf7aumb5oLkEbvqVJ) | 3:10 |
+| 82 | [Ciudad Peligrosa](https://open.spotify.com/track/3AzpG3c25sZQNaQi8qTTDQ) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Ciudad Peligrosa](https://open.spotify.com/album/2FAmIkxoyJ4VMjrY2M6nV3) | 3:46 |
 | 83 | [Backpack](https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:29 |
-| 84 | [El Rayo](https://open.spotify.com/track/0ev44APmsOEmBdbmQqzafj) | [Asael gonzález](https://open.spotify.com/artist/3DyEm50kp38Gjzqi1Lbbk7) | [El Rayo](https://open.spotify.com/album/0e17jJlx78tIV0p45nYJCE) | 3:38 |
+| 84 | [Recordando a Manuel](https://open.spotify.com/track/3JuPa0jxEAacGtz4mAKVZA) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Jesús Chairez](https://open.spotify.com/artist/49xb55bacoIXahj7bLmfUp) | [Bendecído](https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu) | 3:28 |
 | 85 | [En El Camino](https://open.spotify.com/track/76QRh2Ikhr0i6dNjRvS3GS) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [En El Camino](https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M) | 2:48 |
-| 86 | [Vamos Aclarando Muchas Cosas \- En Vivo](https://open.spotify.com/track/2LYeGSaYKRYwgz4lvnG6mL) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Vamos Aclarando Muchas Cosas \(En Vivo\)](https://open.spotify.com/album/1QNDerf7aumb5oLkEbvqVJ) | 3:10 |
+| 86 | [El Rayo](https://open.spotify.com/track/0ev44APmsOEmBdbmQqzafj) | [Asael gonzález](https://open.spotify.com/artist/3DyEm50kp38Gjzqi1Lbbk7) | [El Rayo](https://open.spotify.com/album/0e17jJlx78tIV0p45nYJCE) | 3:38 |
 | 87 | [La Hummer Y El Camaro](https://open.spotify.com/track/6bRkTmvWjUr6aCXrKGIaG5) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx), [Escolta De Guerra](https://open.spotify.com/artist/3K6LZGkzrJ4tD0pSrT9QZl), [Jorge Santacruz](https://open.spotify.com/artist/2bPZFtRkurwmMFJ16lnEFx) | [Los Mejores Corridos De](https://open.spotify.com/album/67hj85XV3QKcgKW48hJM4x) | 3:31 |
 | 88 | [Desde Morro](https://open.spotify.com/track/5u6lAvdS8mmHHTHQlC3TtN) | [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO) | [Desde Morro](https://open.spotify.com/album/6ruqxBlrH2BEZKZjgG3hSS) | 2:26 |
 | 89 | [Gracias \- En Vivo](https://open.spotify.com/track/2XlGKZNMkRKvEJsbwQ6MCl) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [Gracias \(En Vivo\)](https://open.spotify.com/album/1J5sBLRkJnpnXOYK31M2ad) | 3:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMxIh88NH1N.md) - [plain]
 | 99 | [Así Tocó Mi Vida](https://open.spotify.com/track/2YekzGSNDRlEvRLmvfRZfb) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Así Tocó Mi Vida](https://open.spotify.com/album/58E0nQ2a7axyw3rETsiB9r) | 4:10 |
 | 100 | [El Borracho](https://open.spotify.com/track/5rHezo2wXys6LNAKLrghMG) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Borracho](https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta) | 3:04 |
 
-Snapshot ID: `MCwyYTQ3YWUwZDdmZTBlYmM3MDU0NDcyMGFkMmI5MmRkZmUyNmZjMzU0`
+Snapshot ID: `MCwxZDAxYmFkMTRkMTI0YzIzYTFhNTQ3YzFmYzk4MzgyYWM2YjZlZjQy`

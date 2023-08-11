@@ -4,7 +4,7 @@
 
 > Grandes músicas pra você curtir com seu amorzinho \(ou pensando nele\)
 
-108 songs - 6 hr 37 min
+109 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Linda](https://open.spotify.com/track/6wnCBT8ip4i9HRhM3HVk6d) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [A Milenar Arte De Meter O Louco](https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj) | 2:55 | 2021-09-03 | 2023-06-10 |
 | [Mais Ninguém](https://open.spotify.com/track/6uFwhB7gVs7ExCAfJD5BWg) | [Banda do Mar](https://open.spotify.com/artist/1Gu3ALcPEx3FFGAfAbqQvD) | [Banda do Mar](https://open.spotify.com/album/1Jlhl64iUyVxFgApbvyCS4) | 2:48 | 2021-09-03 |  |
 | [Marry Me](https://open.spotify.com/track/2MWOqewf5j0qf2b6S5J6cS) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) | 3:25 | 2023-06-09 |  |
+| [Medo Bobo](https://open.spotify.com/track/0d3nLIxfrwZu7sHQnOhWJa) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Medo Bobo](https://open.spotify.com/album/7iwR0wOFLOMRDZZNWT4Hrr) | 3:18 | 2023-08-04 |  |
 | [Medo Bobo](https://open.spotify.com/track/17dS7mrtNwH05RFjgMjLFi) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Medo Bobo](https://open.spotify.com/album/0vkxfAIsBXsbWO9DNVlUaV) | 3:18 | 2023-06-09 | 2023-08-04 |
 | [Meu Abrigo](https://open.spotify.com/track/5U28PY9MekLyCBYtLHGQpe) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Melim](https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J) | 3:51 | 2021-09-03 |  |
 | [Minha Felicidade](https://open.spotify.com/track/3vKTQ4R6ZZ9re7XIedJ5PQ) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Minha Felicidade](https://open.spotify.com/album/7kTQATXuDnYuis6WSYZEn5) | 3:37 | 2021-09-03 | 2023-06-10 |
@@ -114,7 +115,7 @@
 | [Você me faz tão bem](https://open.spotify.com/track/656TZu3G6rnfK9m2Y0zR6g) | [Detonautas Roque Clube](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9) | [Detonautas Acústico](https://open.spotify.com/album/0wmqgQTtS74RuTwQeR2RL3) | 4:14 | 2021-09-03 |  |
 | [XO](https://open.spotify.com/track/40xhyfAPDoMtv494MfPevP) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 3:35 | 2023-06-09 |  |
 | [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 | 2023-06-09 |  |
-| [Zero](https://open.spotify.com/track/7Jl757vT5eNqemc6PtY2dA) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n) | [Cru](https://open.spotify.com/album/7wYN6lMpcVx2maHSGc2yQb) | 6:04 | 2023-08-04 |  |
+| [Zero](https://open.spotify.com/track/7Jl757vT5eNqemc6PtY2dA) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n) | [Cru](https://open.spotify.com/album/7wYN6lMpcVx2maHSGc2yQb) | 6:04 | 2023-08-04 | 2023-08-11 |
 | [É Isso Aí \(The Blower'S Daughter\)](https://open.spotify.com/track/6tvnj77OJD0DJTgSIi6fQ3) | [Ana Carolina](https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Ana E Jorge](https://open.spotify.com/album/3EVU0AnPTXK1scTVMrG8Sm) | 5:18 | 2023-06-09 |  |
 
 \*This playlist was first scraped on 2023-02-14. Prior content cannot be recovered.

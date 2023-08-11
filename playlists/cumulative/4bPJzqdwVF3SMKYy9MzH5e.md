@@ -4,7 +4,7 @@
 
 > 
 
-1,795 songs - 4 day 1 hr 13 min
+1,796 songs - 4 day 1 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [All this love](https://open.spotify.com/track/52IPeim7OfK6ucIZC68DYY) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Open Mouth, Open Heart](https://open.spotify.com/album/5jowai2DVaDn3cgxigARdy) | 4:09 | 2021-11-14 |  |
 | [Alligator Blood](https://open.spotify.com/track/1Jx2ZMYVcXM0CfqOysoC8R) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [There Is A Hell Believe Me I've Seen It\. There Is A Heaven Let's Keep It A Secret](https://open.spotify.com/album/2BxDLAnw4QPcs8U4r1StrI) | 4:31 | 2021-08-05 |  |
 | [Aloha](https://open.spotify.com/track/0wc23hbQfO6pHyc600wFJq) | [10k.Caash](https://open.spotify.com/artist/4uyIwcaJgV9ShErevnVlNp), [GUN40](https://open.spotify.com/artist/7DCSxPjPxjyMFDSsygLMQa) | [The Creator](https://open.spotify.com/album/182T6uQqW6fYIWiMMQjuBk) | 1:27 | 2021-08-05 |  |
+| [alone](https://open.spotify.com/track/4DOQULDZcy6W3mNKtuAZpz) | [Yotora](https://open.spotify.com/artist/5zg5lxcOnAhFFwgYmROxJx) | [alone](https://open.spotify.com/album/6io6hr34sIRqIuyqvvO2LT) | 2:34 | 2023-08-10 |  |
 | [Alphabet Boy](https://open.spotify.com/track/3NDPcoeno6oasqi6Hs75Ax) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 4:13 | 2021-08-05 |  |
 | [Alrighty Aphrodite](https://open.spotify.com/track/6OiRh4kttAs1YWglvTcYkB) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Being So Normal](https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA) | 3:27 | 2022-06-21 |  |
 | [American Boy](https://open.spotify.com/track/22UDw8rSfLbUsaAGTXQ4Z8) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Shine](https://open.spotify.com/album/5y4Ikuc4sLtNOpanoKKqwo) | 4:44 | 2021-08-05 |  |

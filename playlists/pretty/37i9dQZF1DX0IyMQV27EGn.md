@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 
 > A collection of powerful voices and alluring siren songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 620,104 likes - 70 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 620,179 likes - 70 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 60 | [Torture](https://open.spotify.com/track/55QFFGguYCPpOXQveiaEPA) | [Liz Longley](https://open.spotify.com/artist/1qImAIy1ZVCgR5KD88QXkr) | [Torture](https://open.spotify.com/album/4YINaOhKmkGdBsrod5ipfN) | 3:02 |
 | 61 | [Why’d Ya Do It](https://open.spotify.com/track/0PWl6yqk7yuEooaJvrpFsY) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Jeremiah / Why’d Ya Do It](https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ) | 3:37 |
 | 62 | [awakening](https://open.spotify.com/track/2acGjBavIqga2mgzoEdhBi) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [awakening](https://open.spotify.com/album/60DamUC9xhmbNm7P0qa0Dz) | 4:14 |
-| 63 | [It's All Okay](https://open.spotify.com/track/6S7kSzXe4dtiQSqqmkM0dD) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [By The Horns](https://open.spotify.com/album/3ZeDSF0GVS6jGFIrxsyjHE) | 3:54 |
-| 64 | [Don't Let Our Love Go Cold](https://open.spotify.com/track/1SuW6XhW5LpaynRzivaFnK) | [Red Rosamond](https://open.spotify.com/artist/5sWFdgVLTZt5jVHJfiPnJ3) | [Don't Let Our Love Go Cold](https://open.spotify.com/album/1Q4b0inFzXAsg9rTS4hDih) | 3:39 |
+| 63 | [Don't Let Our Love Go Cold](https://open.spotify.com/track/1SuW6XhW5LpaynRzivaFnK) | [Red Rosamond](https://open.spotify.com/artist/5sWFdgVLTZt5jVHJfiPnJ3) | [Don't Let Our Love Go Cold](https://open.spotify.com/album/1Q4b0inFzXAsg9rTS4hDih) | 3:39 |
+| 64 | [It's All Okay](https://open.spotify.com/track/6S7kSzXe4dtiQSqqmkM0dD) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [By The Horns](https://open.spotify.com/album/3ZeDSF0GVS6jGFIrxsyjHE) | 3:54 |
 | 65 | [Hurricane](https://open.spotify.com/track/7GaoWajJQTbulUBl9c9qWF) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Park](https://open.spotify.com/album/4wxLZEYvqJypW5YPky0J3C) | 2:38 |
-| 66 | [Listen Up](https://open.spotify.com/track/1vtkAVGkmMckxrlbLEHhTx) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Goodnight Rhonda Lee](https://open.spotify.com/album/4RcpHyy4rL1RrB89Di3HrJ) | 3:10 |
-| 67 | [Pain of Love](https://open.spotify.com/track/3MtBYMhHTNhD4xICSFAikb) | [Whissell](https://open.spotify.com/artist/1JIc2FMsvtccdSllBI6vZh) | [Old Souls, Young Bodies](https://open.spotify.com/album/3rImHlWa9YsEUcdan3toc7) | 3:31 |
+| 66 | [Pain of Love](https://open.spotify.com/track/3MtBYMhHTNhD4xICSFAikb) | [Whissell](https://open.spotify.com/artist/1JIc2FMsvtccdSllBI6vZh) | [Old Souls, Young Bodies](https://open.spotify.com/album/3rImHlWa9YsEUcdan3toc7) | 3:31 |
+| 67 | [Listen Up](https://open.spotify.com/track/1vtkAVGkmMckxrlbLEHhTx) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Goodnight Rhonda Lee](https://open.spotify.com/album/4RcpHyy4rL1RrB89Di3HrJ) | 3:10 |
 | 68 | [Don't Let Me Be Misunderstood](https://open.spotify.com/track/215q7Y9u8n0dqzeQYGjki7) | [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c) | [Don't Let Me Be Misunderstood](https://open.spotify.com/album/1IuiGzv0eSL11hUcqytCdP) | 3:02 |
 | 69 | [Hopeless Romantic](https://open.spotify.com/track/4rxll3CP6XklLuoki7A26P) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [Hopeless Romantic](https://open.spotify.com/album/0KQoc67ApuKSx5qBPtrXJt) | 3:30 |
 | 70 | [Help Yourself](https://open.spotify.com/track/3TfYdDsjNsd6tbzDq79c4Y) | [Bryde](https://open.spotify.com/artist/0N8tTwUhQQD75uLOyqhfVU) | [EP1](https://open.spotify.com/album/4c43DIc2ggr7z7zq6nDaju) | 2:58 |
 
-Snapshot ID: `MCw0MTAyZjlkN2JhNTQ4NTJhMTcxODM2YTA5ZWRkNDgxMWZhMjE1NGRk`
+Snapshot ID: `MCw4NzY4NjdmNjkxOWE3NTNhZjQ1MWQ2YzdhNmI0YmMxZWE4ZGI3NTE0`

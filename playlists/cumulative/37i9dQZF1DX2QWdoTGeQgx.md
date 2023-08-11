@@ -4,7 +4,7 @@
 
 > Chill out.
 
-309 songs - 16 hr 57 min
+310 songs - 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [mirror](https://open.spotify.com/track/1EgzmXxvjwC5aS8g6A2osl) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [mirror](https://open.spotify.com/album/0aC3BQYnDDhjdKlJEPMGmc) | 3:01 | 2022-06-16 | 2022-06-26 |
 | [miss u](https://open.spotify.com/track/14AjZE4ChxwMepTzvz56RO) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [miss u](https://open.spotify.com/album/7gZBX0q9eBUVXeOind7AxT) | 3:18 | 2022-06-16 | 2022-07-14 |
 | [Moonlight](https://open.spotify.com/track/54EWwXt6RCv5Err39SHUxK) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [Moonlight](https://open.spotify.com/album/1GoPGMUac5hoSm6A7UF819) | 3:06 | 2022-10-27 | 2023-06-11 |
-| [more than friends](https://open.spotify.com/track/6UKJSeAwuHJ9nl7vyMeUJX) | [MFMF.](https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR), [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [more than friends](https://open.spotify.com/album/5B7QRaSqhgyNd0u8tKZoEb) | 2:40 | 2023-02-21 |  |
+| [more than friends](https://open.spotify.com/track/6UKJSeAwuHJ9nl7vyMeUJX) | [MFMF.](https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR), [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [more than friends](https://open.spotify.com/album/5B7QRaSqhgyNd0u8tKZoEb) | 2:40 | 2023-02-21 | 2023-08-11 |
 | [Morning Blue](https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Morning Blue](https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG) | 3:37 | 2022-07-10 |  |
 | [move](https://open.spotify.com/track/2Ryp5LkAWyJwRqoFd8N7Kk) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [move](https://open.spotify.com/album/1gaYhlmZa4fT0NfH1IiSQ4) | 2:28 | 2022-07-10 |  |
 | [mr\. lonely](https://open.spotify.com/track/1vVjUmCkaV9cIg5ZeS7MTZ) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [mr\. lonely](https://open.spotify.com/album/5pZxeK0sV5o4Su8OmJ8iyR) | 2:58 | 2022-05-27 | 2022-07-28 |
@@ -278,6 +278,7 @@
 | [The Trip](https://open.spotify.com/track/0UUwjvjJpPglNiGjJzk5dn) | [liesl\-mae](https://open.spotify.com/artist/2PSBYmtNWEm9f8VOSCFFX0) | [The Trip](https://open.spotify.com/album/0OUuOt452BNPn74et9Iqnr) | 3:46 | 2022-06-25 | 2022-08-19 |
 | [Then Morning Breaks](https://open.spotify.com/track/3tQvNpYYctZNnx5nJ36BmN) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [Then Morning Breaks](https://open.spotify.com/album/0wA7iEeunmloxXju0b8GTR) | 3:02 | 2022-06-16 | 2022-06-26 |
 | [This Is How It Ends](https://open.spotify.com/track/0QJkKuxJuAjTSxZLvlddKh) | [2OFU](https://open.spotify.com/artist/3nk2jAog2zO4LNboEhMXaa), [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z), [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T), [Yung Lee Records](https://open.spotify.com/artist/4GozvPZO3g0cI5I2TEDovw) | [2OFU](https://open.spotify.com/album/1EsJLEg0hPZiSE9BTtFw9L) | 2:06 | 2023-01-04 | 2023-01-18 |
+| [Till The Morning](https://open.spotify.com/track/7dyTGeerbfWSCMCfWETZ3K) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [Till The Morning](https://open.spotify.com/album/6kL09GmdDpKlaM1veyxmZU) | 2:49 | 2023-04-20 |  |
 | [to the moon](https://open.spotify.com/track/4OgStHICGrhcZi4EG41cws) | [Chaleeda](https://open.spotify.com/artist/5Kmvlg4fSgle8RJU9LVbn4) | [to the moon](https://open.spotify.com/album/0eQQrn0jDNvUCXKVkrl32R) | 3:37 | 2022-05-27 | 2022-07-29 |
 | [Today I Miss You](https://open.spotify.com/track/5qdMBYgZdicuxs6U18Co5g) | [Kartik Kuna](https://open.spotify.com/artist/5kA8bovz1xGeNSZ2pjc2du) | [Today I Miss You](https://open.spotify.com/album/6uVKYrOVYus9zSS7yjcQRp) | 3:48 | 2022-09-09 | 2022-10-28 |
 | [Too Many Times](https://open.spotify.com/track/2IwtpJlL47MrqPMgqiXUga) | [ANNÉ](https://open.spotify.com/artist/0mI2naVcev6UnXkXKmG4kf), [Virgo's Child](https://open.spotify.com/artist/2An9jABsB4sGREMIdIwHHp) | [Too Many Times](https://open.spotify.com/album/5WsyPULWLBoiepNu2hMgv8) | 2:57 | 2023-02-21 | 2023-04-11 |

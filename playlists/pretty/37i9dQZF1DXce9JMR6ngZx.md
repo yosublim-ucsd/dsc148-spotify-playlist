@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXce9JMR6ngZx.md) - [plain]
 
 > Grandes sucessos dos anos 80 para te acompanhar na faxina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,026 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,131 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,21 +92,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXce9JMR6ngZx.md) - [plain]
 | 82 | [Bizarre Love Triangle](https://open.spotify.com/track/6wVViUl2xSRoDK2T7dMZbR) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Brotherhood \(Collector's Edition\)](https://open.spotify.com/album/0PSWY4XyjTWppfBb0tBtqu) | 4:23 |
 | 83 | [Eduardo E Mônica](https://open.spotify.com/track/6Pa6VpdGS8OfiVOEnNAHHw) | [Legião Urbana](https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t) | [Dois](https://open.spotify.com/album/4OCJTpOLqSgysGY4yBCGhn) | 4:31 |
 | 84 | [Video Killed The Radio Star](https://open.spotify.com/track/6t1FIJlZWTQfIZhsGjaulM) | [The Buggles](https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal) | [The Age Of Plastic](https://open.spotify.com/album/5KKpKvLOS4tCV7cSOwIOWF) | 4:13 |
-| 85 | [Money for Nothing](https://open.spotify.com/track/4yqtwO7MQIIXqoiRBPHAgR) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Brothers in Arms](https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s) | 8:26 |
-| 86 | [Papa Don't Preach](https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 4:28 |
+| 85 | [Papa Don't Preach](https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 4:28 |
+| 86 | [Money for Nothing](https://open.spotify.com/track/4yqtwO7MQIIXqoiRBPHAgR) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Brothers in Arms](https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s) | 8:26 |
 | 87 | [Lovesong \- 2010 Remaster](https://open.spotify.com/track/0X5C4WjQNubRysTkHOubz3) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg) | 3:29 |
 | 88 | [Let's Dance \- 2002 Remaster](https://open.spotify.com/track/4cVHMHgmWgudD399ZdhQ3L) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance](https://open.spotify.com/album/5FDIw0ifQrQp63uhTelMVJ) | 4:07 |
 | 89 | [Heaven Is A Place On Earth \- Promo 7" Edit](https://open.spotify.com/track/3EvpaRZkKWxsgDIO2zMH7g) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Heaven On Earth \(Deluxe Edition\)](https://open.spotify.com/album/34SBayfOPJb9ztyCTvS3no) | 3:53 |
 | 90 | [Just Can't Get Enough \- 2006 Remaster](https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak & Spell \(2006 Remaster\)](https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq) | 3:42 |
 | 91 | [A Little Respect](https://open.spotify.com/track/2RVQIq7bLi4Eu6xHPyQ46t) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89) | [The Innocents](https://open.spotify.com/album/7BS88XlHgbYq4bEnO6sICd) | 3:33 |
 | 92 | [Save a Prayer \- 2009 Remaster](https://open.spotify.com/track/1ff8lsrJ2kuZuofMw81EQo) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Rio \(Collector's Edition\)](https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm) | 5:33 |
-| 93 | [Walk of Life](https://open.spotify.com/track/423o3ZHIaBtGXyhF1uH41a) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Brothers in Arms](https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s) | 4:12 |
+| 93 | [Like a Prayer](https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Prayer](https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV) | 5:40 |
 | 94 | [Big Love \- 2017 Remaster](https://open.spotify.com/track/0hOA8SoraNo2ZP1amtVYnY) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:43 |
-| 95 | [Like a Prayer](https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Prayer](https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV) | 5:40 |
+| 95 | [Walk of Life](https://open.spotify.com/track/423o3ZHIaBtGXyhF1uH41a) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Brothers in Arms](https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s) | 4:12 |
 | 96 | [O Descobridor Dos Sete Mares](https://open.spotify.com/track/6wpDQGn3Gl0j9Wt6D6mYvQ) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [O Descobridor Dos Sete Mares](https://open.spotify.com/album/7Ff0Q5oeEoVKHtxJJoXyId) | 4:25 |
 | 97 | [Close to Me \- 2006 Remaster](https://open.spotify.com/track/7ABE6G4uQxbNtYgVrpBBPA) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door](https://open.spotify.com/album/6HhpmJekzDCRu2K64ZbWqw) | 3:23 |
 | 98 | [The Boy with the Thorn in His Side \- 2011 Remaster](https://open.spotify.com/track/6s1lXoCa6EmIGnr0GrwcJp) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Queen Is Dead](https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7) | 3:16 |
 | 99 | [Bete Balanço](https://open.spotify.com/track/0SrDqCmn2ClzEzNkAZYc2Y) | [Barão Vermelho](https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj) | [Maior Abandonado](https://open.spotify.com/album/6k3oXZh66IHJ9EznRhC9kR) | 3:33 |
 | 100 | [Maniac \- From "Flashdance"](https://open.spotify.com/track/4owSXetN7Yeq8h3ppIPdkF) | [Michael Sembello](https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB) | [ドライブが楽しくなる洋楽ヒッツ！80年代 HITS](https://open.spotify.com/album/2AUaQkwZyx52vDbynEfWLD) | 4:06 |
 
-Snapshot ID: `MCw5ODA4OTFhMmMzM2ZkNTJmOGU2ZjNhNGFmMmUzOWQ0NDI5NTUzMTMy`
+Snapshot ID: `MCw5NWRhNTViZWFhYjQ0MDlkMTE1M2Q3ZWY4Njg3YWZkZGU2OWFiOGJi`

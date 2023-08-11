@@ -4,7 +4,7 @@
 
 > California dreaming\. Listen to the soundtrack that shaped a generation\. 🧡
 
-145 songs - 8 hr 47 min
+146 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 3:29 | 2023-04-19 | 2023-08-10 |
 | [Wait a Minute!](https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ARDIPITHECUS](https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h) | 3:16 | 2023-04-19 | 2023-08-10 |
 | [Waitin' on Ya](https://open.spotify.com/track/2LOm31eIgFM0DaVUfZjKeg) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Missing Molars \(Swnt Deluxe\)](https://open.spotify.com/album/39wVqebhXLGYGz9ry6xLPe) | 5:44 | 2023-03-24 | 2023-04-20 |
+| [Walnut Tree](https://open.spotify.com/track/2772z1nmiTU6hVs4kjn2uq) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [The Best Of Keane \(Deluxe Edition\)](https://open.spotify.com/album/6VYlEGQqJBMJR4vksRpM1d) | 3:37 | 2023-08-10 |  |
 | [WATERBOYZ \(with JID & J\. Cole\)](https://open.spotify.com/track/3NdC4IcyHzxmpISC1lH8u9) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [GHETTO GODS \(Deluxe\)](https://open.spotify.com/album/4ePq280jPLzy5FR0Z1yQW2) | 5:03 | 2023-04-19 | 2023-08-10 |
 | [We Used To Be Friends](https://open.spotify.com/track/7hpFYWL3cw5m4y70cce7Zb) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Welcome To The Monkey House](https://open.spotify.com/album/2SS8nVmmgJqJhRuYGboIOx) | 3:19 | 2023-08-09 |  |
 | [Wet Dream](https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 2:20 | 2023-04-19 | 2023-08-10 |

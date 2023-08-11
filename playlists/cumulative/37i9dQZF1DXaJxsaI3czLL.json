@@ -1125,6 +1125,32 @@
     },
     {
       "album": {
+        "name": "Into The Night (feat. ZIN & \u9ed2\u7530\u5353\u4e5f)",
+        "url": "https://open.spotify.com/album/3r1jhjYj8DPOTlawfBTmVP"
+      },
+      "artists": [
+        {
+          "name": "Kei Owada",
+          "url": "https://open.spotify.com/artist/3uxdiisUeUl9eXJ9KfDy4C"
+        },
+        {
+          "name": "ZIN",
+          "url": "https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS"
+        },
+        {
+          "name": "Takuya Kuroda",
+          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287000,
+      "name": "Into The Night (feat. ZIN & \u9ed2\u7530\u5353\u4e5f)",
+      "url": "https://open.spotify.com/track/3bD6V7HK99QSLLmZFlJP3w"
+    },
+    {
+      "album": {
         "name": "It's OK",
         "url": "https://open.spotify.com/album/5bwtyDdH57JJbkD3e8W6eJ"
       },
@@ -4562,7 +4588,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 233803,
       "name": "\u6d77\u306b\u3044\u308b",
       "url": "https://open.spotify.com/track/7oDgdiATvjIjqVS6ak2fJz"

@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-308 songs - 18 hr 39 min
+309 songs - 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [DARLING](https://open.spotify.com/track/5rrTie8d13kxtK8S6JOgyQ) | [DIXSON](https://open.spotify.com/artist/61677A13kBwbTfqECI65p8) | [DARLING](https://open.spotify.com/album/6XrAWrMOgdiK9a96OIM3Kb) | 3:38 | 2021-12-03 | 2022-07-29 |
 | [Daydreaming](https://open.spotify.com/track/6qqq5zPYV7U4UsKnGC82tw) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Daydreaming](https://open.spotify.com/album/2x7bjrZNDZ7hNcosj0dS39) | 3:06 | 2023-05-19 |  |
 | [Demon Time \(with Ari Lennox\) \- Remix](https://open.spotify.com/track/3ZDrWqaWyjuJg1dGp0EqTS) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Demon Time \(with Ari Lennox\) \[Remix\]](https://open.spotify.com/album/52sE6qrimItEbxEtWbwl9b) | 3:40 | 2023-03-17 | 2023-05-03 |
-| [Desperate Soul](https://open.spotify.com/track/5n6pFWEIz6KlcAsZL4J7O3) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Desperate Soul](https://open.spotify.com/album/17xuD9aIF7NINcTmvkEWf4) | 2:07 | 2023-03-10 |  |
+| [Desperate Soul](https://open.spotify.com/track/5n6pFWEIz6KlcAsZL4J7O3) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Desperate Soul](https://open.spotify.com/album/17xuD9aIF7NINcTmvkEWf4) | 2:07 | 2023-03-10 | 2023-08-11 |
 | [Didn't Cha Know](https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 3:58 | 2022-03-11 | 2023-02-25 |
 | [Distance](https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Distance](https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC) | 4:15 | 2021-12-03 |  |
 | [DO 4 LOVE](https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Spotify Singles](https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ) | 3:09 | 2022-09-09 |  |
@@ -126,6 +126,7 @@
 | [HEADLINE](https://open.spotify.com/track/59mmKoHbCWc10mlWwwTYxn) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [HEADLINE](https://open.spotify.com/album/3FhtDmAzJe8t8RveMcmNJb) | 3:16 | 2022-03-11 | 2022-09-10 |
 | [Heal](https://open.spotify.com/track/4UndAnl9tL4hHiYOuufIJk) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Heal](https://open.spotify.com/album/3vnXX5XQdwyGS79vZKIKfh) | 4:16 | 2022-09-09 | 2022-11-02 |
 | [Heart Is On My Sleeve](https://open.spotify.com/track/7lB5nb6P2bxz6devY8ZTbw) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Heart Is On My Sleeve](https://open.spotify.com/album/1lzrF9VEQStjCSl0gQQ3Qy) | 4:13 | 2022-10-28 | 2023-02-04 |
+| [Hideaway](https://open.spotify.com/track/7shWFWckY9KfesurTuUHkR) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [Hideaway](https://open.spotify.com/album/0wi0YD4YslP4u8GBvlqWNG) | 4:19 | 2023-08-04 |  |
 | [High](https://open.spotify.com/track/3AzYlyo9FhKyETJKQI84rm) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Love Language](https://open.spotify.com/album/5mBIU2o4sxDhbSfxuInbh7) | 3:47 | 2023-05-19 | 2023-06-22 |
 | [How Deep Is Your Love \- Acoustic Version](https://open.spotify.com/track/1iovqTYo2kvTWRGhRQPDPV) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [The Piano Album](https://open.spotify.com/album/3pjx1tSQJ60Zk1drGGf3RW) | 4:04 | 2021-12-03 | 2023-08-05 |
 | [How Much Can A Heart Take \(feat\. Yebba\)](https://open.spotify.com/track/5SFssNXGjeOxdAnECfgttm) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Table For Two](https://open.spotify.com/album/0OPKA9Mrv6JFrTjC0KpvdT) | 5:02 | 2021-12-03 |  |

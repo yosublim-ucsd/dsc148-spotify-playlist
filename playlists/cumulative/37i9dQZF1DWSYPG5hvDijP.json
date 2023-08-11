@@ -2411,6 +2411,28 @@
     },
     {
       "album": {
+        "name": "Samajh Rahi Hai",
+        "url": "https://open.spotify.com/album/1k8V6kgfwZp4Bx7IyqzTQ4"
+      },
+      "artists": [
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0"
+        },
+        {
+          "name": "Spectra Music",
+          "url": "https://open.spotify.com/artist/6kQXMHA8JGJQsRsMBqqe7l"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173142,
+      "name": "Samajh Rahi Hai",
+      "url": "https://open.spotify.com/track/680FKrGby9wBLFIzY2MFf9"
+    },
+    {
+      "album": {
         "name": "3:00 AM Sessions",
         "url": "https://open.spotify.com/album/7o9sqNRikTO3eeira2Qlx2"
       },

@@ -4,7 +4,7 @@
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Noah Kahan
 
-291 songs - 16 hr 43 min
+292 songs - 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Back to You](https://open.spotify.com/track/4g3Ocpx03I8lvA8dx9GdQQ) | [WILD](https://open.spotify.com/artist/0jcaMhfyinUx3Pj8w4nmWZ) | [Back to You](https://open.spotify.com/album/7wNsondY4Wz6ll9eF0XFzH) | 3:15 | 2022-03-12 | 2022-11-13 |
 | [Back to You](https://open.spotify.com/track/7nlGMUcyIGWZQFkOOxOWl5) | [WILD](https://open.spotify.com/artist/0jcaMhfyinUx3Pj8w4nmWZ) | [Back to You](https://open.spotify.com/album/4cTUFRQRiMo5ubMtQLaFCG) | 3:15 | 2021-11-12 | 2022-05-16 |
 | [Backstage in Glasgow](https://open.spotify.com/track/5suIDwVxRuLiSI1RBrFbjP) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Backstage in Glasgow](https://open.spotify.com/album/2LbmNfBamXEj7SLzpvNY4S) | 2:16 | 2023-01-27 |  |
+| [Backyard Mafia](https://open.spotify.com/track/2aRYPnIDsVUi4QqK9Ayp7E) | [Oscar Blue](https://open.spotify.com/artist/1LSKJziUwTOlquPaHzHt4Z) | [Backyard Mafia](https://open.spotify.com/album/5nqB1Ti9gY4zym2yDMFyLZ) | 3:35 | 2023-08-04 |  |
 | [Backyard Mafia](https://open.spotify.com/track/6JaUlNchByw307rjCP2l8G) | [Oscar Blue](https://open.spotify.com/artist/1LSKJziUwTOlquPaHzHt4Z) | [Backyard Mafia](https://open.spotify.com/album/2YXuuAQR5idYgbz07rtmhn) | 3:35 | 2021-11-12 | 2022-07-17 |
 | [Bad Blood](https://open.spotify.com/track/0TDji9s4SDqN0CldK1bBU1) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Bad Blood](https://open.spotify.com/album/1UGw8OmeHw7FbiOEekbGlz) | 2:45 | 2023-03-31 |  |
 | [Be Here Now](https://open.spotify.com/track/1ZEEd0xgeZIW82fuzmJfJ2) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [The Art of Letting Go](https://open.spotify.com/album/449CV10TloVGhBv9NfwFTD) | 3:00 | 2023-03-24 | 2023-04-24 |
@@ -46,7 +47,7 @@
 | [Better Days](https://open.spotify.com/track/4k2ZhyLz0BxHUhJgghQpYq) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/5KYqiTq9ChwEVhd26dcFM8) | 3:18 | 2022-10-14 | 2022-11-13 |
 | [Better Together](https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Better Together](https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g) | 2:58 | 2022-08-19 |  |
 | [Better When We're Falling Apart](https://open.spotify.com/track/2GLj5AhUJJPpM4ISa3IjYF) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Better When We're Falling Apart](https://open.spotify.com/album/0f2Ym8hI7QskvmmkJLSLTy) | 3:06 | 2021-11-12 | 2022-07-29 |
-| [Better When We're Falling Apart](https://open.spotify.com/track/4wRJHQ84OhCSGzdmeOEon4) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Sidelines](https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP) | 3:06 | 2022-03-12 |  |
+| [Better When We're Falling Apart](https://open.spotify.com/track/4wRJHQ84OhCSGzdmeOEon4) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Sidelines](https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP) | 3:06 | 2022-03-12 | 2023-08-11 |
 | [Big Wide World](https://open.spotify.com/track/1RLlkQpO7tpHCW2O0Pv43s) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Big Wide World](https://open.spotify.com/album/6G5WVhD7EsJIDEXnJ53rUC) | 4:14 | 2022-03-12 | 2022-07-29 |
 | [Bloom \- Bonus Track](https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland](https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ) | 3:30 | 2022-03-12 |  |
 | [Bloom \- Bonus Track](https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland \- EP](https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF) | 3:30 | 2021-11-12 | 2022-07-29 |

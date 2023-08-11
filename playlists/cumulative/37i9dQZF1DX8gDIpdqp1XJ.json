@@ -9967,6 +9967,24 @@
     },
     {
       "album": {
+        "name": "Boy Toy",
+        "url": "https://open.spotify.com/album/1wBk0x6HFBHRvIH42qyhBE"
+      },
+      "artists": [
+        {
+          "name": "Sam Austins",
+          "url": "https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186940,
+      "name": "Oatmeal Pancakes",
+      "url": "https://open.spotify.com/track/2WrVNmuf8cLlLE58Q5UweA"
+    },
+    {
+      "album": {
         "name": "Oatmeal Pancakes",
         "url": "https://open.spotify.com/album/68pGqsjvG8r4vvLBljvPuQ"
       },
@@ -9978,7 +9996,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 186940,
       "name": "Oatmeal Pancakes",
       "url": "https://open.spotify.com/track/3Qazns0pMnqN6cbDJTxj9a"

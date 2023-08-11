@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 
 > ¡Hasta las 15! Monster merengue hits! Cover: Eddy Herrera
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,839 likes - 100 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,879 likes - 100 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 45 | [Borrón y Cuenta Nueva](https://open.spotify.com/track/4ktOth7G3OxN9vTiWF1oxD) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Acabando!](https://open.spotify.com/album/0sEL3rEDSjh1sybrUjVwaB) | 3:58 |
 | 46 | [Te Voy a Hacer Falta](https://open.spotify.com/track/4KU0EUeD26y6PUGiHGjGBz) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Mas Rika Que Nunca](https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO) | 4:24 |
 | 47 | [Kiliki Taka Ti](https://open.spotify.com/track/7zSuMBPE82UBr6eNpJEzSd) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Lo Mejor De...Toño Rosario](https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t) | 6:40 |
-| 48 | [Pegame Tu Vicio](https://open.spotify.com/track/25ILWrCvXPpkUFU0R7znEv) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Me Enamore](https://open.spotify.com/album/5yhEOwF6bRo08QhTGU9FQC) | 5:00 |
+| 48 | [El Venao](https://open.spotify.com/track/12Jg89d9Cz2qwTnxIbX03g) | [Los Cantantes](https://open.spotify.com/artist/1OK49IC8PfUPbAtQRv2ryh) | [El Virao](https://open.spotify.com/album/5Le90IA8Ywp9Td8Ad2sw9P) | 4:52 |
 | 49 | [El Comejen](https://open.spotify.com/track/6KWj4TAjZMVwZWxXzvHIGD) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg) | 4:19 |
 | 50 | [Anoche Hablamos de Amor](https://open.spotify.com/track/0ElCcbF18PWFCLzMwIJU9m) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Vete y Dile](https://open.spotify.com/album/3bLNzJGuGCJCPnJw4lqwTn) | 4:31 |
-| 51 | [El Venao](https://open.spotify.com/track/12Jg89d9Cz2qwTnxIbX03g) | [Los Cantantes](https://open.spotify.com/artist/1OK49IC8PfUPbAtQRv2ryh) | [El Virao](https://open.spotify.com/album/5Le90IA8Ywp9Td8Ad2sw9P) | 4:52 |
+| 51 | [Pegame Tu Vicio](https://open.spotify.com/track/25ILWrCvXPpkUFU0R7znEv) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Me Enamore](https://open.spotify.com/album/5yhEOwF6bRo08QhTGU9FQC) | 5:00 |
 | 52 | [Traigo Fuego](https://open.spotify.com/track/5aaM6KRamITPsyLlsMb80v) | [La Banda Gorda](https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1) | [Puro Mambo](https://open.spotify.com/album/1kAS1xnRmN4uDN8Cp1TPcS) | 4:21 |
 | 53 | [Patacón Pisao](https://open.spotify.com/track/7J3rDUSA4vDHaqHPblboTU) | [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus) | [10 De Colección](https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV) | 4:35 |
 | 54 | [Ay!](https://open.spotify.com/track/6vU2DPeCqKSvXUCgTaD5cS) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Sacúdelo Que Tiene Arena](https://open.spotify.com/album/0n5HXhJ7ouB3y1a9JbLgQg) | 3:51 |
@@ -73,19 +73,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 63 | [Asesina](https://open.spotify.com/track/68VJAoIwl72kQXzAm01cqG) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [12 Golden Hits](https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI) | 4:46 |
 | 64 | [El Virao](https://open.spotify.com/track/2GnGoXexzccSQtPEERPgGh) | [Los Cantantes](https://open.spotify.com/artist/1OK49IC8PfUPbAtQRv2ryh) | [El Virao](https://open.spotify.com/album/5Le90IA8Ywp9Td8Ad2sw9P) | 4:12 |
 | 65 | [Que Cara Más Bonita](https://open.spotify.com/track/2qiSUrwneShMuE5UQYUx0U) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Merengue De Amor Vol.1](https://open.spotify.com/album/08Z2fmvNTcpnFJGeEsXdoS) | 4:10 |
-| 66 | [Tesoro Mio \- Versión Merengue](https://open.spotify.com/track/1ax8x6uKlotSCmv4ovNRdV) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Tesoro Mio \(Versión Merengue\)](https://open.spotify.com/album/3MpS1lJ7kN4groX2YIEhmY) | 3:12 |
+| 66 | [Mucho Flow](https://open.spotify.com/track/1y6irl8tnTXw8pvaIfRoTp) | [Ilegales](https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z), [Happy Colors](https://open.spotify.com/artist/4nGluPm2aDd2ngK9MkpLp1) | [Mucho Flow](https://open.spotify.com/album/4PcgDgI57IETJimbIVnESV) | 2:56 |
 | 67 | [Volveré](https://open.spotify.com/track/0HFBBgkhwJMvPiEDIkEsyt) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:25 |
-| 68 | [Ya Viene el Lunes](https://open.spotify.com/track/1v1P2PoDr2JQEx2ruuS8yG) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Juntos Con Sus Éxitos](https://open.spotify.com/album/1D1qtrP020moJvytYhcRDd) | 4:50 |
-| 69 | [Tu Eres Ajena](https://open.spotify.com/track/7rK8ZDv0TpSf95HUC59bxz) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Exitos De](https://open.spotify.com/album/3y8cbEFw6qI5hsFKBbLEYr) | 4:55 |
-| 70 | [Quiero Quemar La Pista](https://open.spotify.com/track/38PuJLicgcUTFgb7FqmXaJ) | [Limi\-T 21](https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7) | [LIMI\-T Para Siempre](https://open.spotify.com/album/6tYC7QibL9ENqOc3GSdEHM) | 2:33 |
-| 71 | [Mucho Flow](https://open.spotify.com/track/1y6irl8tnTXw8pvaIfRoTp) | [Ilegales](https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z), [Happy Colors](https://open.spotify.com/artist/4nGluPm2aDd2ngK9MkpLp1) | [Mucho Flow](https://open.spotify.com/album/4PcgDgI57IETJimbIVnESV) | 2:56 |
+| 68 | [Tesoro Mio \- Versión Merengue](https://open.spotify.com/track/1ax8x6uKlotSCmv4ovNRdV) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Tesoro Mio \(Versión Merengue\)](https://open.spotify.com/album/3MpS1lJ7kN4groX2YIEhmY) | 3:12 |
+| 69 | [Ya Viene el Lunes](https://open.spotify.com/track/1v1P2PoDr2JQEx2ruuS8yG) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Juntos Con Sus Éxitos](https://open.spotify.com/album/1D1qtrP020moJvytYhcRDd) | 4:50 |
+| 70 | [Tu Eres Ajena](https://open.spotify.com/track/7rK8ZDv0TpSf95HUC59bxz) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Exitos De](https://open.spotify.com/album/3y8cbEFw6qI5hsFKBbLEYr) | 4:55 |
+| 71 | [Quiero Quemar La Pista](https://open.spotify.com/track/38PuJLicgcUTFgb7FqmXaJ) | [Limi\-T 21](https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7) | [LIMI\-T Para Siempre](https://open.spotify.com/album/6tYC7QibL9ENqOc3GSdEHM) | 2:33 |
 | 72 | [El Moreno Esta](https://open.spotify.com/track/3uMcf1QPK2jOBStnZAdMch) | [Jossie Esteban & La Patrulla 15](https://open.spotify.com/artist/0VpcWRPcfKxjqNIs82pPpb) | [O.K\. All Right](https://open.spotify.com/album/0APbv2lshYuYSoP7t4ypTv) | 4:32 |
 | 73 | [El Hombre Divertido](https://open.spotify.com/track/75ngzYAvEAuc8YvQgo76iA) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Coleccion Diamante](https://open.spotify.com/album/05ICn9Npd5HZJgKDnaMByf) | 4:15 |
 | 74 | [Cutibili Pacha](https://open.spotify.com/track/0CcL3XBAzarwDseGAm1IFl) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Mas Rika Que Nunca](https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO) | 4:40 |
 | 75 | [Alo](https://open.spotify.com/track/1iq1xrOXICFCR5MtmpkwMz) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Aura](https://open.spotify.com/album/4nR8BybNNejawuuQzRYwap) | 4:38 |
-| 76 | [Jilila Kimbolo](https://open.spotify.com/track/6gdy8MNpH37iLFTRdNXfAm) | [Mala Fe](https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp) | [Back In Town](https://open.spotify.com/album/4Bpgw9UfwmY3GAKGMyI1Ep) | 4:18 |
-| 77 | [Frutos Del Carnaval](https://open.spotify.com/track/4uNsxCWSUEswepl4RP0689) | [Cuco Valoy](https://open.spotify.com/artist/0RdKPjwSwfx6jqqdgkyGmE) | [Trancazos Bailables, Vol\. 4](https://open.spotify.com/album/63U1jnXIx3yfezOGnUCW61) | 6:18 |
-| 78 | [Bendecido](https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB) | [Dale Pututi](https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Bendecido](https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00) | 3:23 |
+| 76 | [Bendecido](https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB) | [Dale Pututi](https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Bendecido](https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00) | 3:23 |
+| 77 | [Jilila Kimbolo](https://open.spotify.com/track/6gdy8MNpH37iLFTRdNXfAm) | [Mala Fe](https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp) | [Back In Town](https://open.spotify.com/album/4Bpgw9UfwmY3GAKGMyI1Ep) | 4:18 |
+| 78 | [Frutos Del Carnaval](https://open.spotify.com/track/4uNsxCWSUEswepl4RP0689) | [Cuco Valoy](https://open.spotify.com/artist/0RdKPjwSwfx6jqqdgkyGmE) | [Trancazos Bailables, Vol\. 4](https://open.spotify.com/album/63U1jnXIx3yfezOGnUCW61) | 6:18 |
 | 79 | [El Meneito](https://open.spotify.com/track/6EmzuUK6J0ahWToWpYzCqL) | [Jossie Esteban & La Patrulla 15](https://open.spotify.com/artist/0VpcWRPcfKxjqNIs82pPpb) | [15to Aniversario](https://open.spotify.com/album/77OMtbmR2f7T36bnQBODj7) | 5:10 |
 | 80 | [Another Night](https://open.spotify.com/track/6ZOZW00i9w8wwfwZtpreZI) | [Gabriel Pagan](https://open.spotify.com/artist/3InfS9TeNQro4bp9EWtuyP), [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [Morisoñando, Vol\. 1](https://open.spotify.com/album/3VnsfmLE5l8HDbniGw707B) | 3:50 |
 | 81 | [Enamorame](https://open.spotify.com/track/7m6ENMMI8c64W7VBXFVeax) | [Papi Sanchez](https://open.spotify.com/artist/4B6paaW6VeD5oEWp19KEVq) | [Merengue De hoy](https://open.spotify.com/album/1xA8RomnALVkcxjAjtATXo) | 4:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 99 | [No Me Veran Caer](https://open.spotify.com/track/6Jjr2fRVXtwMQoY94ybm9M) | [Barbosa](https://open.spotify.com/artist/1ZTqusXWkfiTeOciFTpphG) | [No Me Veran Caer](https://open.spotify.com/album/05y07x6dL5mGyy8HVnobt8) | 3:42 |
 | 100 | [Te Gusta Eh](https://open.spotify.com/track/7rQ3bs2Rh4xwFZw2f1HTKE) | [Shino Aguakate](https://open.spotify.com/artist/6IgsDaIkGCmRK7VEpnjvKI) | [Out of Control](https://open.spotify.com/album/7MiIB4tUaj2jfu8pGOxX08) | 5:27 |
 
-Snapshot ID: `MCw3ZDhkMmExNmRhNGY1MmRkOWRlYzRlZjdlNmU0MTEwYzMxMzlmN2Rl`
+Snapshot ID: `MCxjMTNmNzEzNzFkMjZjYWRjZjQ0ODBhMTYwYmJiYTU3YWYyNWIyZGFi`

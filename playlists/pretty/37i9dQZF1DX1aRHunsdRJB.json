@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 9700,
+  "num_followers": 9705,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2I0MDVlNzQ3YTgyZDA5ZWZiN2E1OTkxYTMwMmM5ZDY1MDA2ZDVh",
+  "snapshot_id": "MCw2ZGI4N2Y3OGZiZmM5MTgyZGJjZmJhZTU0NTNlNTQ2MjkxN2NhYmIy",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -383,26 +383,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "The Art of Flex",
-        "url": "https://open.spotify.com/album/7zecbPVfKMGdOj8wfvXNEL"
-      },
-      "artists": [
-        {
-          "name": "Nessa Preppy",
-          "url": "https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT"
-        },
-        {
-          "name": "Travis World",
-          "url": "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
-        }
-      ],
-      "duration_ms": 183875,
-      "name": "Issa Snack",
-      "url": "https://open.spotify.com/track/6eIdwZaZNpqvh61NudvQre"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Tic It & Tac It",
         "url": "https://open.spotify.com/album/4ZYGqtyawJ66Dsp9C2VR3W"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 187375,
       "name": "Heaven Passport",
       "url": "https://open.spotify.com/track/3MEO3XzuF79wbokXOnWEJg"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "The Art of Flex",
+        "url": "https://open.spotify.com/album/7zecbPVfKMGdOj8wfvXNEL"
+      },
+      "artists": [
+        {
+          "name": "Nessa Preppy",
+          "url": "https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT"
+        },
+        {
+          "name": "Travis World",
+          "url": "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
+        }
+      ],
+      "duration_ms": 183875,
+      "name": "Issa Snack",
+      "url": "https://open.spotify.com/track/6eIdwZaZNpqvh61NudvQre"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -595,6 +595,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Darkseid Riddim",
+        "url": "https://open.spotify.com/album/6jCLEXGfOXFLggNEXuSfpX"
+      },
+      "artists": [
+        {
+          "name": "Problem Child",
+          "url": "https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU"
+        }
+      ],
+      "duration_ms": 214738,
+      "name": "Nasty Up",
+      "url": "https://open.spotify.com/track/1ZTihlaGPnfLrOXbOFyj15"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Tick Pon Cock",
         "url": "https://open.spotify.com/album/3uh9i9joEPOB15yQJWNZRf"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 192574,
       "name": "Tick Pon Cock",
       "url": "https://open.spotify.com/track/0hi53rAi8089F1DnwsRroK"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Darkseid Riddim",
-        "url": "https://open.spotify.com/album/6jCLEXGfOXFLggNEXuSfpX"
-      },
-      "artists": [
-        {
-          "name": "Problem Child",
-          "url": "https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU"
-        }
-      ],
-      "duration_ms": 214738,
-      "name": "Nasty Up",
-      "url": "https://open.spotify.com/track/1ZTihlaGPnfLrOXbOFyj15"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "ThundaBolt (Riddim)",
-        "url": "https://open.spotify.com/album/1Y429eDap5QjyMHy1FUzQz"
-      },
-      "artists": [
-        {
-          "name": "Sizzdub",
-          "url": "https://open.spotify.com/artist/4C91n0YkR4vABvyt75cXl2"
-        },
-        {
-          "name": "Lil Rick",
-          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
-        }
-      ],
-      "duration_ms": 142497,
-      "name": "#ItAintMe",
-      "url": "https://open.spotify.com/track/2JB92xqDRqni4Vs48MjyiB"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Braff",
         "url": "https://open.spotify.com/album/3KamCpPGnXLDePk5pKXb6E"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 211022,
       "name": "Stink Behavior",
       "url": "https://open.spotify.com/track/6QVRM736CkUUJTE4Y3yOb0"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "ThundaBolt (Riddim)",
+        "url": "https://open.spotify.com/album/1Y429eDap5QjyMHy1FUzQz"
+      },
+      "artists": [
+        {
+          "name": "Sizzdub",
+          "url": "https://open.spotify.com/artist/4C91n0YkR4vABvyt75cXl2"
+        },
+        {
+          "name": "Lil Rick",
+          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
+        }
+      ],
+      "duration_ms": 142497,
+      "name": "#ItAintMe",
+      "url": "https://open.spotify.com/track/2JB92xqDRqni4Vs48MjyiB"
     },
     {
       "added_at": "2022-02-24 18:00:00",

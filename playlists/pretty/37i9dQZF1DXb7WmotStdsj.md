@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Djalil
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,609 likes - 60 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,785 likes - 60 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Galbi Khasah Molah](https://open.spotify.com/track/1sKCCDynLxGhHesdlLGT7s) | [Cheba Warda](https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt) | [Galbi Khasah Molah](https://open.spotify.com/album/3SPNmQhrvYytlwGUYhZ0KT) | 4:26 |
-| 2 | [Rani Maghboun](https://open.spotify.com/track/4XYuaMdBaaMhjJRLnLT4UL) | [Hichem Smati](https://open.spotify.com/artist/4NqyeNqz4XfIeEWrXPknYJ), [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Rani Maghboun](https://open.spotify.com/album/1SsVP5ORISo4tbs1SQbd8K) | 6:59 |
-| 3 | [Ndamt 3Lik](https://open.spotify.com/track/5nH6y9Oz5mv1b0gfREbe1d) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM) | [Ndamt 3Lik](https://open.spotify.com/album/6dAnabX8QR4W0qrUw1GU51) | 6:03 |
+| 1 | [Ndamt 3Lik](https://open.spotify.com/track/5nH6y9Oz5mv1b0gfREbe1d) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM) | [Ndamt 3Lik](https://open.spotify.com/album/6dAnabX8QR4W0qrUw1GU51) | 6:03 |
+| 2 | [Galbi Khasah Molah](https://open.spotify.com/track/1sKCCDynLxGhHesdlLGT7s) | [Cheba Warda](https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt) | [Galbi Khasah Molah](https://open.spotify.com/album/3SPNmQhrvYytlwGUYhZ0KT) | 4:26 |
+| 3 | [Rani Maghboun](https://open.spotify.com/track/4XYuaMdBaaMhjJRLnLT4UL) | [Hichem Smati](https://open.spotify.com/artist/4NqyeNqz4XfIeEWrXPknYJ), [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Rani Maghboun](https://open.spotify.com/album/1SsVP5ORISo4tbs1SQbd8K) | 6:59 |
 | 4 | [Classico](https://open.spotify.com/track/2J4q5rfEpzy8bHPzlEOkQx) | [Cheb Bilal](https://open.spotify.com/artist/59N7N5tX53jyPhAmsRi4or) | [Classico](https://open.spotify.com/album/4zMmjcQdRXH9Bd13d5Mm2V) | 3:49 |
 | 5 | [Sahr Lyali](https://open.spotify.com/track/2KLqFKA2x5RDv8AHlKuWHY) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Sahr Lyali](https://open.spotify.com/album/5X0qe2E64Z7kHvr5zX87Tw) | 4:56 |
 | 6 | [Nabghi Nhawas](https://open.spotify.com/track/2u8hovFZoxDdTAMmgHsiMi) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh), [DJ Moulay](https://open.spotify.com/artist/3RHFZVCcl94jZRgIT51Yig) | [Nabghi Nhawas](https://open.spotify.com/album/197oMQkYh9nl8SqTrCUM19) | 4:34 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 59 | [Lokan jiti mra msagma](https://open.spotify.com/track/3bNYR1sMmvQ9X7qAb1o6zi) | [Yacine Tigre](https://open.spotify.com/artist/3KyPN9BFlpyEEAy4vCs8l4) | [Lokan jiti mra msagma](https://open.spotify.com/album/50IvpHMMhTH49ZuAQtOzvW) | 5:39 |
 | 60 | [Fi Hawmtek Tayah](https://open.spotify.com/track/49EW3aFH5ORawt7n24NYKm) | [Studio Ganfouda](https://open.spotify.com/artist/6MjJRyqsG53a9FreiOOsxa), [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2) | [Fi Hawmtek Tayah](https://open.spotify.com/album/1cmcB8p4CvvbbDJR8rrpfY) | 5:25 |
 
-Snapshot ID: `MCw5OGNjNDJhYjVmOTIwZTliYzE1OTRjNzk1NDEwNjQ3MjZlYmNkYmU3`
+Snapshot ID: `MCxhN2VkZmFmZmY5Yjg3ZDQwMTY2N2QzY2VlZWZmNmZjZTVjODYzNTE4`

@@ -320,7 +320,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 208973,
       "name": "Bessoka - Version courte",
       "url": "https://open.spotify.com/track/0vl2pa6k6kBZa0LNRC9ufl"
@@ -452,7 +452,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-10",
+      "date_removed": null,
       "duration_ms": 350906,
       "name": "Carnaval",
       "url": "https://open.spotify.com/track/4HVmE0XxxufxDQYbOTm4f1"
@@ -850,6 +850,24 @@
       "duration_ms": 271666,
       "name": "Full Up",
       "url": "https://open.spotify.com/track/1Eqqs8DRzLzlBps9Jm4EGP"
+    },
+    {
+      "album": {
+        "name": "Gone Clear (The Complete Kingston Sessions)",
+        "url": "https://open.spotify.com/album/2DTqR31j9GAyHoWK2smUAt"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271666,
+      "name": "Full Up",
+      "url": "https://open.spotify.com/track/1jE9db1pT5WrdCw1RLKuW3"
     },
     {
       "album": {
@@ -1828,7 +1846,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 397573,
       "name": "Reggae Makossa",
       "url": "https://open.spotify.com/track/6XR29umHoZKLmQRoJgUC2o"
@@ -2196,7 +2214,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 423653,
       "name": "Tek Time",
       "url": "https://open.spotify.com/track/3QzRmXp2ANZFcf8Fa3sQ0x"
@@ -2214,7 +2232,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-10",
+      "date_removed": null,
       "duration_ms": 149346,
       "name": "The Panther",
       "url": "https://open.spotify.com/track/0TO438ElpElpdtY9s4aNjv"

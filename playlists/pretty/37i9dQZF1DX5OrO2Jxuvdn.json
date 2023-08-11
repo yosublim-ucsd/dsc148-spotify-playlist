@@ -1,12 +1,12 @@
 {
   "description": "Lainey Wilson is taking over with her favorite workout tracks to keep up with her New Year's resolution. \ud83c\udf51",
-  "num_followers": 96086,
+  "num_followers": 96105,
   "original_name": "Country Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTdlNmJjY2NhODg3YzA0MTRiYWY3Mzc2OGM5NGRmZTlhYmUyMDU3",
+  "snapshot_id": "MCwxMGY3YTFjOTdjNmZjMDBjNTI0YmZiZmUxYmRkZDU4YzBhZWU1ZDk3",
   "tracks": [
     {
       "added_at": "2023-01-09 22:47:08",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2023-01-09 22:47:08",
       "album": {
-        "name": "The Road And The Radio",
-        "url": "https://open.spotify.com/album/5uMLCobPh02IG3fyH0Dzec"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4WYx3Z81yhA09dBIAktauv"
       },
       "artists": [
         {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
         }
       ],
-      "duration_ms": 206586,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/3cE5ltZFHmBpiS77itKaOM"
+      "duration_ms": 182893,
+      "name": "5-1-5-0",
+      "url": "https://open.spotify.com/track/2WKCH4ISejDV9ad7iPp5XU"
     },
     {
       "added_at": "2023-01-09 22:47:08",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2023-01-09 22:47:08",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/4WYx3Z81yhA09dBIAktauv"
+        "name": "The Road And The Radio",
+        "url": "https://open.spotify.com/album/5uMLCobPh02IG3fyH0Dzec"
       },
       "artists": [
         {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
         }
       ],
-      "duration_ms": 182893,
-      "name": "5-1-5-0",
-      "url": "https://open.spotify.com/track/2WKCH4ISejDV9ad7iPp5XU"
+      "duration_ms": 206586,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/3cE5ltZFHmBpiS77itKaOM"
     },
     {
       "added_at": "2023-01-09 22:47:08",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2023-01-09 22:47:08",
       "album": {
+        "name": "Unapologetically (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 192840,
+      "name": "Miss Me More",
+      "url": "https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2"
+    },
+    {
+      "added_at": "2023-01-09 22:47:08",
+      "album": {
         "name": "HIXTAPE: Vol. 1",
         "url": "https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 173173,
       "name": "ONE BEER (feat. Lauren Alaina & Devin Dawson)",
       "url": "https://open.spotify.com/track/5FmvaZGd6fulojSToozLRD"
-    },
-    {
-      "added_at": "2023-01-09 22:47:08",
-      "album": {
-        "name": "Unapologetically (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 192840,
-      "name": "Miss Me More",
-      "url": "https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2"
     },
     {
       "added_at": "2023-01-09 22:47:08",

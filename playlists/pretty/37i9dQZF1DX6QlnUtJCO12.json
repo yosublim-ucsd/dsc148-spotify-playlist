@@ -1,12 +1,12 @@
 {
   "description": "Discover Trinidad & Tobago's rich musical history with these traditional Calypso tunes.",
-  "num_followers": 38862,
+  "num_followers": 38909,
   "original_name": "Caribbean Calypso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYWRhOTdhZjM3MTU3NTY5MGExZjQ4M2U0MDQxOWU1YzI3MDkwYmY3",
+  "snapshot_id": "MCxmZjI2MjA3YmQ3NTM2OGQzMWYzYWZlZWVhOTNiYjJmMzI2NDUxYmE3",
   "tracks": [
     {
       "added_at": "2021-04-23 15:05:50",
@@ -471,22 +471,6 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "Treasury Scandal",
-        "url": "https://open.spotify.com/album/1XG5O3FvLIRwSS91hF4SBN"
-      },
-      "artists": [
-        {
-          "name": "Attila the Hun",
-          "url": "https://open.spotify.com/artist/3CK4SLHGVhasR86lTSHYnG"
-        }
-      ],
-      "duration_ms": 193733,
-      "name": "Treasury Scandal",
-      "url": "https://open.spotify.com/track/7sgAXJK49YOj3LjsSs5I4L"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
         "name": "Calypsonians (1930 - 1960), Vol.3",
         "url": "https://open.spotify.com/album/4GmO9Pe5sQ7lkhnkdQlMNL"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 185835,
       "name": "My Reply to Houdini",
       "url": "https://open.spotify.com/track/416NGM98lMSM3EZwMHcGFL"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "Treasury Scandal",
+        "url": "https://open.spotify.com/album/1XG5O3FvLIRwSS91hF4SBN"
+      },
+      "artists": [
+        {
+          "name": "Attila the Hun",
+          "url": "https://open.spotify.com/artist/3CK4SLHGVhasR86lTSHYnG"
+        }
+      ],
+      "duration_ms": 193733,
+      "name": "Treasury Scandal",
+      "url": "https://open.spotify.com/track/7sgAXJK49YOj3LjsSs5I4L"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -519,22 +519,6 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "Calypsonians (1930 - 1960), Vol.1",
-        "url": "https://open.spotify.com/album/4W7U6rL6f2eK4kPFk7XgHo"
-      },
-      "artists": [
-        {
-          "name": "Sam Manning",
-          "url": "https://open.spotify.com/artist/6MFvKHJHRpB6kWx3AMvvT4"
-        }
-      ],
-      "duration_ms": 179800,
-      "name": "Lieutnant Julian",
-      "url": "https://open.spotify.com/track/351Zm4ZUKWT7qW7rXVoFkr"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
         "name": "Calypso - Best of Trinidad",
         "url": "https://open.spotify.com/album/7IS3bwe2NcqaZBePqAWecb"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 146400,
       "name": "Adeline",
       "url": "https://open.spotify.com/track/200yEpjz40jHmTKAKnhHHJ"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "Calypsonians (1930 - 1960), Vol.1",
+        "url": "https://open.spotify.com/album/4W7U6rL6f2eK4kPFk7XgHo"
+      },
+      "artists": [
+        {
+          "name": "Sam Manning",
+          "url": "https://open.spotify.com/artist/6MFvKHJHRpB6kWx3AMvvT4"
+        }
+      ],
+      "duration_ms": 179800,
+      "name": "Lieutnant Julian",
+      "url": "https://open.spotify.com/track/351Zm4ZUKWT7qW7rXVoFkr"
     },
     {
       "added_at": "2021-04-23 15:05:50",

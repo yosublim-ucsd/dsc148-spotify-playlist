@@ -2,9 +2,9 @@
 
 ### [Punjabi 101](https://open.spotify.com/playlist/37i9dQZF1DX5cZuAHLNjGz)
 
-> Ultimate 101 Punjabi Hits with Karan Aujla
+> Ultimate 101 Punjabi Hits with AP Dhillon
 
-223 songs - 11 hr 42 min
+224 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Bliss](https://open.spotify.com/track/1mFP5PZWD1TUX1NWVx5EaW) | [Gurbax](https://open.spotify.com/artist/52nO5w2jFAlYYsq6h9YjQG), [Burrah](https://open.spotify.com/artist/6YB1D1koiebYqzQesSUfIS), [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu) | [Bliss](https://open.spotify.com/album/36x75E36kXJhu2Mvc11h7y) | 3:16 | 2022-12-10 | 2022-12-15 |
 | [Born to Shine](https://open.spotify.com/track/4XxfOvudrnBRdlgzEaq1sd) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:33 | 2022-05-29 |  |
 | [Breakan \(feat\. Simar Kaur\)](https://open.spotify.com/track/2iMFg8rVPNZGYv0sXL9a1D) | [Tyson Sidhu](https://open.spotify.com/artist/5wGjQPYmBAnDmtNeOMoavY), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1) | [Versatile](https://open.spotify.com/album/4XJOG0BM4Lr0XfrscVLu9X) | 2:51 | 2022-07-22 | 2022-09-09 |
-| [Brown Munde](https://open.spotify.com/track/58f4twRnbZOOVUhMUpplJ4) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [Brown Munde](https://open.spotify.com/album/1Ac8fcWoMbo35vD3B5Tjqs) | 4:14 | 2022-05-29 |  |
+| [Brown Munde](https://open.spotify.com/track/58f4twRnbZOOVUhMUpplJ4) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [Brown Munde](https://open.spotify.com/album/1Ac8fcWoMbo35vD3B5Tjqs) | 4:14 | 2022-05-29 | 2023-08-11 |
 | [Busy Getting Paid](https://open.spotify.com/track/6JQuDtJCyQcfVdtA0K8ivR) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Busy Getting Paid](https://open.spotify.com/album/7cyE3wvdW2DEf6nUBmygBK) | 3:07 | 2023-05-19 | 2023-06-24 |
 | [California Love](https://open.spotify.com/track/610keNiNVTIkYD0CqeSerg) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [ANYWAY](https://open.spotify.com/album/64MZHXV7IglO8LE8KplSRw) | 2:55 | 2023-06-23 |  |
 | [Challa \- Spotify Singles](https://open.spotify.com/track/3zvzQBIjjVRTdYmsdiBvNm) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Challa \- Spotify Singles](https://open.spotify.com/album/3u7kkfoyrcF13kxMn3o23J) | 4:43 | 2023-03-18 | 2023-05-01 |
@@ -227,6 +227,7 @@
 | [WE ROLLIN](https://open.spotify.com/track/605r6rtj7kBlJwZWmYx1Dt) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [WE ROLLIN](https://open.spotify.com/album/7EJI4AmDQIyLoxegf5AjDO) | 3:19 | 2022-05-29 | 2022-09-03 |
 | [We Rollin](https://open.spotify.com/track/6ZYxNjuAU9Vy3VtF6W1dtE) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [We Rollin](https://open.spotify.com/album/09vnsHZoXH0OQWNAaOkVcf) | 3:19 | 2022-08-22 |  |
 | [White Brown Black](https://open.spotify.com/track/3nKQrVVlwbAQSnFbgZWdN0) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [White Brown Black](https://open.spotify.com/album/3rOSq53b9Cv7ygKe5NwKNJ) | 2:55 | 2022-12-17 |  |
+| [With You](https://open.spotify.com/track/0xIuPDzJSnJywALez8dwKR) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [With You](https://open.spotify.com/album/30eM1PJ8qLZJeEykhcje0j) | 2:34 | 2023-08-10 |  |
 | [Wo Noor](https://open.spotify.com/track/32FVH23yFXr8Z0sfjRw4It) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Two Hearts Never Break The Same](https://open.spotify.com/album/0eZKTY3yDMqMTrVvtcEokh) | 3:19 | 2022-10-07 |  |
 | [Wytb](https://open.spotify.com/track/0mitUgVDvaKFw4EuXZ8nLx) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Wytb](https://open.spotify.com/album/4yN52ilychdYFbugDvLrJK) | 3:20 | 2022-11-25 |  |
 | [Yeah Naah](https://open.spotify.com/track/0uHpY2weZMUCUTqlf8OD74) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Four You](https://open.spotify.com/album/5IVcvfVOLEPMJ4PKqPaq2w) | 3:02 | 2023-02-04 |  |

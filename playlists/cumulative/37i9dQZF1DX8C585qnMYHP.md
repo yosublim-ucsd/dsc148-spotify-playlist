@@ -4,7 +4,7 @@
 
 > The best new Experimental by independent artists and labels, with Enji on cover\. Artwork Thami Nabil\. Updates every Wednesday.
 
-1,443 songs - 4 day 19 hr 59 min
+1,445 songs - 4 day 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -400,7 +400,7 @@
 | [Ett visst fängelse](https://open.spotify.com/track/40qQK6EwccUHakM0Cdn2uQ) | [VED](https://open.spotify.com/artist/2gJZDY6Eow1T1T4Cb9cVYm) | [Ett visst fängelse](https://open.spotify.com/album/3mOCn0GyjEJBVfp9MyM1BP) | 4:37 | 2021-04-15 | 2021-06-24 |
 | [Eurybia](https://open.spotify.com/track/507fLAOWKOut8biyt9mGyX) | [Francesca Heart](https://open.spotify.com/artist/2kYY2P70sG9kRerK0Oa9qT) | [Eurybia](https://open.spotify.com/album/5e1pTFakXmZhCi18qt3IBm) | 6:02 | 2022-05-18 | 2022-08-04 |
 | [Eve](https://open.spotify.com/track/0nFJMIWFrQQkJ8AOcAfvPf) | [Floatleaf](https://open.spotify.com/artist/6PuTsxqrk5XNswCXYWNr5r) | [Eve](https://open.spotify.com/album/6L7J405BwZ5hxM5Px7iyOe) | 3:00 | 2022-08-24 | 2022-10-05 |
-| [Even Stones Change](https://open.spotify.com/track/6huSTPaEw3K3bJhEleNzPi) | [Sharp Veins](https://open.spotify.com/artist/3GN93MWawjP5UtkbwnOtT2) | [Even Stones Change](https://open.spotify.com/album/5jD0z5Ju7YVqMM3PKVZS1P) | 8:36 | 2023-05-10 |  |
+| [Even Stones Change](https://open.spotify.com/track/6huSTPaEw3K3bJhEleNzPi) | [Sharp Veins](https://open.spotify.com/artist/3GN93MWawjP5UtkbwnOtT2) | [Even Stones Change](https://open.spotify.com/album/5jD0z5Ju7YVqMM3PKVZS1P) | 8:36 | 2023-05-10 | 2023-08-11 |
 | [Every Piano](https://open.spotify.com/track/5uPkZGZpAKlQh0QZWXeGY3) | [Wobbly](https://open.spotify.com/artist/0qNnLmgWCSxj07xjEmz5aN) | [Every Piano](https://open.spotify.com/album/69MOyiJkRotADXguTEn200) | 4:55 | 2021-02-01 | 2021-03-02 |
 | [Exile on Ærø](https://open.spotify.com/track/09SB3jpDTJfA1NRnmce5G5) | [Ørdop Wolkenscheidt](https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON) | [Exile on Ærø](https://open.spotify.com/album/2t7ONVWjlbhga1TPLj2q1t) | 4:25 | 2022-05-18 | 2022-07-29 |
 | [Exile on Ærø](https://open.spotify.com/track/2awlBl0GJRO38r7LCmvSbH) | [Ørdop Wolkenscheidt](https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON) | [Kommissar Brenkstrupp: Fragments of a Troubled Detective](https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC) | 4:25 | 2022-09-21 | 2023-02-16 |
@@ -823,6 +823,7 @@
 | [Muskwarp Mountain](https://open.spotify.com/track/6scOPJVVswNdwVRCyJ6Th1) | [Betty Davis](https://open.spotify.com/artist/5kSiyPEgI6qteX4TrcRP8e) | [Muskwarp Mountain](https://open.spotify.com/album/24U9W9lhg5c47MvF3Qqf5n) | 2:47 | 2023-02-15 | 2023-03-29 |
 | [Mutant Fur](https://open.spotify.com/track/08KSLMce7oT11dlRwClDqs) | [Dontmesswithjuan](https://open.spotify.com/artist/5nspwga2cMBIYCFM9VHWep) | [Mutant Fur](https://open.spotify.com/album/57Y5xvSgfpcDGhtEwBRLHc) | 3:45 | 2021-04-30 | 2021-07-17 |
 | [MWLHWOF\-4](https://open.spotify.com/track/6GKgMjq46lNr3Xv8aexQOx) | [James Emrick](https://open.spotify.com/artist/246T2idxs2MWDrX6ntZNBm) | [Actoma](https://open.spotify.com/album/0RXhS7XWJ1spd3UTLIU0u3) | 3:29 | 2023-03-29 | 2023-05-24 |
+| [MY BLACK CAT](https://open.spotify.com/track/2B5M0GZMNC8Yy33P2N4mxq) | [Nana Nina](https://open.spotify.com/artist/51NvNgCzRqXjxfklCa8TVB) | [MY BLACK CAT](https://open.spotify.com/album/65rUCgwK0khKnH5uz8ZmvQ) | 2:29 | 2023-08-10 |  |
 | [My People Have Deep Roots](https://open.spotify.com/track/5taMzHf1NWTcjLxGAn3DhX) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [My People Have Deep Roots](https://open.spotify.com/album/4zkFQ6mn79zECO6tQh3I5d) | 4:00 | 2021-06-09 | 2021-08-12 |
 | [My Place](https://open.spotify.com/track/0910huVrqAWGdGnI5mtmdz) | [no\_ip](https://open.spotify.com/artist/1UpMPz4cCeLeF6DaNFjlwV) | [The Fall / My Place](https://open.spotify.com/album/5dlkQeTQ5VR8lXfCzqdGhl) | 3:59 | 2023-03-15 | 2023-04-13 |
 | [My Sting Machines](https://open.spotify.com/track/2DuhYxmPJ8DnSs7UUKRTLO) | [Scott Wade](https://open.spotify.com/artist/6Rw4tJpO8dbHxh78xEleVX) | [My Sting Machines](https://open.spotify.com/album/5YMoR8EIkOcE0jSK7V4cdO) | 5:45 | 2023-03-15 | 2023-04-13 |
@@ -1062,6 +1063,7 @@
 | [Serduszko](https://open.spotify.com/track/7uE7jFI9QPPltoqp7Vh53J) | [julek ploski](https://open.spotify.com/artist/33LaRQzDVWBWqEYXtSqcb3), [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv) | [Serduszko](https://open.spotify.com/album/4KpKF6eBXXqc25F5UNqWOg) | 5:06 | 2023-07-18 |  |
 | [Serene Fear](https://open.spotify.com/track/0sfTj4HqkrIr65qbexFHWR) | [Bride](https://open.spotify.com/artist/27bdhWiTuy7dTZqd2eCjox) | [Serene Fear](https://open.spotify.com/album/2nEVoc8SAkIghuCOrkAspe) | 20:39 | 2021-09-02 | 2022-01-13 |
 | [Set Adrift](https://open.spotify.com/track/1gAdzJqsdarE8Y9XuuNlpU) | [Matt Rösner](https://open.spotify.com/artist/4dyE7XUB96vQJxSwNxKFFz) | [No Lasting Form](https://open.spotify.com/album/1gnV1aLouQPGErz8g6rmpi) | 4:16 | 2021-05-12 | 2021-06-01 |
+| [setar rock](https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [setar rock](https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb) | 4:00 | 2023-08-10 |  |
 | [Setu](https://open.spotify.com/track/4kC5264RmDKaDhCHu81Wef) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV) | [Setu](https://open.spotify.com/album/5aDvUOxuqucR7rzOjEbuHY) | 4:00 | 2022-04-27 | 2022-07-28 |
 | [sew](https://open.spotify.com/track/2RvvcfNEOLAA1eUpAyCcHH) | [VHVL](https://open.spotify.com/artist/5Ka2j5sGiokvVS1ODuHL7k) | [hem/sew](https://open.spotify.com/album/554YeelqwqwFCinzDJmgAc) | 2:30 | 2021-11-11 | 2021-11-30 |
 | [Shadows \(The Light of Light\)](https://open.spotify.com/track/3BhwZ5q8KjXLEazLX5Kuhv) | [Ibukun Sunday](https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI) | [Shadows \(The Light of Light\)](https://open.spotify.com/album/2iGsHH8dXl9VHM0JtGiDo2) | 4:34 | 2021-10-07 | 2021-10-29 |
@@ -1374,7 +1376,7 @@
 | [Walking Through Still Air](https://open.spotify.com/track/6XrnIr2rEUh0689dUNLMkR) | [Booker Stardrum](https://open.spotify.com/artist/5pHsBWZqG49vT69cBDbDZ5) | [Walking Through Still Air](https://open.spotify.com/album/6kfaYNYtxLrVh5vmBNf2vw) | 5:22 | 2021-06-24 | 2021-08-27 |
 | [Walkman](https://open.spotify.com/track/1gH5SBhS98bidrGo13gojP) | [Cotton Mouth](https://open.spotify.com/artist/5HDVJyOwOFge0ksmB4VIvR) | [The Rope of Taming](https://open.spotify.com/album/5h3ynobd8Doj4p5VwAsEpZ) | 4:41 | 2023-05-10 |  |
 | [Walkman Pt\. 1](https://open.spotify.com/track/62CiCqLfybeGgeSULT71fQ) | [Boosta](https://open.spotify.com/artist/4eAIdHGQgy9ahe3cyoFW71) | [Post Piano Session \(Tape 1\)](https://open.spotify.com/album/1m2j1ufkyBhcwVy8PEmoAu) | 8:10 | 2022-10-05 | 2022-11-10 |
-| [Walvis](https://open.spotify.com/track/4p839l48UwEOpvgAxo1ueo) | [Dishwasher\_](https://open.spotify.com/artist/0gem6YDkBcWquPOHgLnHTa) | [Dishwasher\_](https://open.spotify.com/album/5EQLnoq5Z8Qjr4FHF4VjxM) | 4:02 | 2023-05-10 |  |
+| [Walvis](https://open.spotify.com/track/4p839l48UwEOpvgAxo1ueo) | [Dishwasher\_](https://open.spotify.com/artist/0gem6YDkBcWquPOHgLnHTa) | [Dishwasher\_](https://open.spotify.com/album/5EQLnoq5Z8Qjr4FHF4VjxM) | 4:02 | 2023-05-10 | 2023-08-11 |
 | [Wanderer](https://open.spotify.com/track/36KtiVehi3BrwDIzneRhGq) | [Lotte Pen](https://open.spotify.com/artist/09klzeoydwwlN5eyyQNNss) | [Wanderer](https://open.spotify.com/album/52MSO7IZTjGJnawiQ0R8tl) | 6:04 | 2022-03-30 | 2022-05-19 |
 | [Water Hymn](https://open.spotify.com/track/3wsiOrVabcwXiSz6U5CJMR) | [Wanderwelle](https://open.spotify.com/artist/2042fteQud87cIM8K6VARW) | [All Hands Bury The Cliffs At Sea](https://open.spotify.com/album/0PxPgYaRsqhf83G7FHfoRC) | 4:50 | 2023-03-15 | 2023-05-11 |
 | [Watershed](https://open.spotify.com/track/5DmMfC43ZmNxpFsbBjZfny) | [Emma Houton](https://open.spotify.com/artist/3LIYPgCl8J4Lyb2mWo5MxT) | [Watershed](https://open.spotify.com/album/2RigjgW5HgIAr0v7FSjbhO) | 3:07 | 2021-05-04 | 2021-05-29 |

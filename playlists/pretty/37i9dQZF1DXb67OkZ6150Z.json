@@ -1,12 +1,12 @@
 {
   "description": "Discover indie covers. Cover: Lovejoy",
-  "num_followers": 283815,
+  "num_followers": 283871,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzMxODM5ODFiZmMyYmNlZDJmNTJmZmIzNTI5MTMwY2Y3OGYyNDcw",
+  "snapshot_id": "MCwzOGM4YTJkZjk3YjNkNGE5YTcwYWQ0MTc2ZjAwYzk4N2RlNWQ0ZGZm",
   "tracks": [
     {
       "added_at": "2023-05-05 17:19:46",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Cooking",
-        "url": "https://open.spotify.com/album/1a48ZfwsNdTMdy3NNrdeh7"
-      },
-      "artists": [
-        {
-          "name": "Current Joys",
-          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
-        }
-      ],
-      "duration_ms": 171315,
-      "name": "Cooking",
-      "url": "https://open.spotify.com/track/6QS1OLPLLjKiZsdIs9GUdi"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "In My Life",
         "url": "https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 176320,
       "name": "In My Life",
       "url": "https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Cooking",
+        "url": "https://open.spotify.com/album/1a48ZfwsNdTMdy3NNrdeh7"
+      },
+      "artists": [
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "duration_ms": 171315,
+      "name": "Cooking",
+      "url": "https://open.spotify.com/track/6QS1OLPLLjKiZsdIs9GUdi"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -601,6 +601,22 @@
       "url": "https://open.spotify.com/track/18yegkWg1YLPFCgif8XfaE"
     },
     {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/49222lHU3qAalWzClAabbp"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "High And Dry",
+      "url": "https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU"
+    },
+    {
       "added_at": "2023-06-30 04:00:00",
       "album": {
         "name": "Charm You (Blondshell Version)",
@@ -619,22 +635,6 @@
       "duration_ms": 178928,
       "name": "Charm You - Blondshell Version",
       "url": "https://open.spotify.com/track/1BZdaILVXGhuJbvlMFzBBD"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "The Bends",
-        "url": "https://open.spotify.com/album/49222lHU3qAalWzClAabbp"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "High And Dry",
-      "url": "https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -757,22 +757,6 @@
       "url": "https://open.spotify.com/track/76sXxllp4hfL5cAY2906oP"
     },
     {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "Life And Life Only (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1hhJEtyz55rIxT7h4zi5go"
-      },
-      "artists": [
-        {
-          "name": "The Heavy Heavy",
-          "url": "https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q"
-        }
-      ],
-      "duration_ms": 183588,
-      "name": "Real Love Baby",
-      "url": "https://open.spotify.com/track/5UChPKbbKFkbuQKicha00m"
-    },
-    {
       "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "keep your head up",
@@ -787,6 +771,22 @@
       "duration_ms": 206672,
       "name": "keep your head up",
       "url": "https://open.spotify.com/track/1fC0O9vW5aDc3Oo5OqBCmL"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Life And Life Only (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1hhJEtyz55rIxT7h4zi5go"
+      },
+      "artists": [
+        {
+          "name": "The Heavy Heavy",
+          "url": "https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q"
+        }
+      ],
+      "duration_ms": 183588,
+      "name": "Real Love Baby",
+      "url": "https://open.spotify.com/track/5UChPKbbKFkbuQKicha00m"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Industry Baby",
-        "url": "https://open.spotify.com/album/5T8h52l8nVMqPSGq52Q8kq"
-      },
-      "artists": [
-        {
-          "name": "Noga Erez",
-          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
-        }
-      ],
-      "duration_ms": 231381,
-      "name": "Industry Baby",
-      "url": "https://open.spotify.com/track/0ypcpkYOckOLxySl4m69gM"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Blinding Lights",
         "url": "https://open.spotify.com/album/57J0EidVGPE6zvDrgbPg86"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 187333,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/1JlQqsAXDTwBCW4eMSRWZB"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Industry Baby",
+        "url": "https://open.spotify.com/album/5T8h52l8nVMqPSGq52Q8kq"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        }
+      ],
+      "duration_ms": 231381,
+      "name": "Industry Baby",
+      "url": "https://open.spotify.com/track/0ypcpkYOckOLxySl4m69gM"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1311,6 +1311,26 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
+        "name": "The Version Suicides, Vol. 2",
+        "url": "https://open.spotify.com/album/1aRcn8SmEQOrEqzp4xbbJz"
+      },
+      "artists": [
+        {
+          "name": "Christian Lee Hutson",
+          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
+        },
+        {
+          "name": "Shamir",
+          "url": "https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj"
+        }
+      ],
+      "duration_ms": 206496,
+      "name": "Just Like Heaven",
+      "url": "https://open.spotify.com/track/58qeN1OusvLhFmygjsdFB8"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
         "name": "Melody & Silence",
         "url": "https://open.spotify.com/album/6btmrcBvREYtau5PaPugPy"
       },
@@ -1351,26 +1371,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "The Version Suicides, Vol. 2",
-        "url": "https://open.spotify.com/album/1aRcn8SmEQOrEqzp4xbbJz"
-      },
-      "artists": [
-        {
-          "name": "Christian Lee Hutson",
-          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
-        },
-        {
-          "name": "Shamir",
-          "url": "https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj"
-        }
-      ],
-      "duration_ms": 206496,
-      "name": "Just Like Heaven",
-      "url": "https://open.spotify.com/track/58qeN1OusvLhFmygjsdFB8"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Horror Show",
         "url": "https://open.spotify.com/album/2Qse49swFybD2LtrWM5kTq"
       },
@@ -1387,6 +1387,26 @@
       "duration_ms": 216440,
       "name": "Because The Night",
       "url": "https://open.spotify.com/track/32xJ7Ays4uyxMuZFxfH0Zj"
+    },
+    {
+      "added_at": "2023-08-08 14:58:46",
+      "album": {
+        "name": "Different Now",
+        "url": "https://open.spotify.com/album/7AKbVhsHqz4enFZBTsJe4n"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        },
+        {
+          "name": "Chastity Belt",
+          "url": "https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK"
+        }
+      ],
+      "duration_ms": 265772,
+      "name": "Different Now",
+      "url": "https://open.spotify.com/track/1J0aTXvZG634UfviOVGMi5"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1491,22 +1511,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Float On",
-        "url": "https://open.spotify.com/album/7r66RwoqENhVVxQ1vonlgb"
-      },
-      "artists": [
-        {
-          "name": "Phil Good",
-          "url": "https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv"
-        }
-      ],
-      "duration_ms": 176853,
-      "name": "Float On",
-      "url": "https://open.spotify.com/track/2ymifjFHCi1myYA58sHI4v"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "slow dancing in a burning room (stripped)",
         "url": "https://open.spotify.com/album/5Oko6eHLcDSmnswIyJPPgx"
       },
@@ -1519,6 +1523,22 @@
       "duration_ms": 195578,
       "name": "slow dancing in a burning room - stripped",
       "url": "https://open.spotify.com/track/1JA3n5owbVpTDuNDWcolME"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Float On",
+        "url": "https://open.spotify.com/album/7r66RwoqENhVVxQ1vonlgb"
+      },
+      "artists": [
+        {
+          "name": "Phil Good",
+          "url": "https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv"
+        }
+      ],
+      "duration_ms": 176853,
+      "name": "Float On",
+      "url": "https://open.spotify.com/track/2ymifjFHCi1myYA58sHI4v"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1587,6 +1607,22 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
+        "name": "I Kissed a Boy",
+        "url": "https://open.spotify.com/album/06akyumCnIAtjUQWROLlSv"
+      },
+      "artists": [
+        {
+          "name": "Jude York",
+          "url": "https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED"
+        }
+      ],
+      "duration_ms": 182213,
+      "name": "I Kissed a Boy",
+      "url": "https://open.spotify.com/track/4dLrxH2Z74hYw0yWet6wpG"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
         "name": "Landslide",
         "url": "https://open.spotify.com/album/7hAhqGIOTDSlXq6R0wKqvw"
       },
@@ -1617,26 +1653,6 @@
       "url": "https://open.spotify.com/track/0tueLq12kgxw1s7Wd0WfIF"
     },
     {
-      "added_at": "2023-08-08 14:58:46",
-      "album": {
-        "name": "Different Now",
-        "url": "https://open.spotify.com/album/7AKbVhsHqz4enFZBTsJe4n"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        },
-        {
-          "name": "Chastity Belt",
-          "url": "https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK"
-        }
-      ],
-      "duration_ms": 265772,
-      "name": "Different Now",
-      "url": "https://open.spotify.com/track/1J0aTXvZG634UfviOVGMi5"
-    },
-    {
       "added_at": "2023-05-05 17:19:46",
       "album": {
         "name": "Spotify Singles",
@@ -1651,22 +1667,6 @@
       "duration_ms": 226981,
       "name": "Skinny Love - Spotify Singles",
       "url": "https://open.spotify.com/track/58az7rByzBsG2X9MR5wbv3"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "I Kissed a Boy",
-        "url": "https://open.spotify.com/album/06akyumCnIAtjUQWROLlSv"
-      },
-      "artists": [
-        {
-          "name": "Jude York",
-          "url": "https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED"
-        }
-      ],
-      "duration_ms": 182213,
-      "name": "I Kissed a Boy",
-      "url": "https://open.spotify.com/track/4dLrxH2Z74hYw0yWet6wpG"
     },
     {
       "added_at": "2023-05-05 17:19:46",

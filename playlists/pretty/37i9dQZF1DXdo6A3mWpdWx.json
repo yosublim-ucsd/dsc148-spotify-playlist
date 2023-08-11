@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1990s. Cover: Jennifer Lopez.",
-  "num_followers": 634858,
+  "num_followers": 635779,
   "original_name": "90s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZWIxZmRmY2I1NmM3ZWU2OGU4ZGFlZjcwODYzM2FjNmFmYTk0NWI3",
+  "snapshot_id": "MCw4NDRkZDAxNTgxNGU1NWZhNDkzN2JhNTcwZGIzYzFjY2NhN2Q2ZWFm",
   "tracks": [
     {
       "added_at": "2022-10-11 00:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "The Writing's On The Wall",
-        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 230200,
-      "name": "Jumpin', Jumpin'",
-      "url": "https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Tuesday Night Music Club",
         "url": "https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 272106,
       "name": "All I Wanna Do",
       "url": "https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "The Writing's On The Wall",
+        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 230200,
+      "name": "Jumpin', Jumpin'",
+      "url": "https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -927,6 +927,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
+        "name": "Tubthumper",
+        "url": "https://open.spotify.com/album/5yaumQgV6xGqCy014aOREt"
+      },
+      "artists": [
+        {
+          "name": "Chumbawamba",
+          "url": "https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz"
+        }
+      ],
+      "duration_ms": 278778,
+      "name": "Tubthumping",
+      "url": "https://open.spotify.com/track/22HYEJveCvykVDHDiEEmjZ"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
         "name": "Saturday Night Single",
         "url": "https://open.spotify.com/album/2svgyeZtPdcWOq5Hmj5uud"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 261133,
       "name": "Ghetto Supastar (That is What You Are) (feat. Ol' Dirty Bastard & M\u00fda)",
       "url": "https://open.spotify.com/track/31bf9SEOppLU6lQ85d8om6"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
-        "name": "Tubthumper",
-        "url": "https://open.spotify.com/album/5yaumQgV6xGqCy014aOREt"
-      },
-      "artists": [
-        {
-          "name": "Chumbawamba",
-          "url": "https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz"
-        }
-      ],
-      "duration_ms": 278778,
-      "name": "Tubthumping",
-      "url": "https://open.spotify.com/track/22HYEJveCvykVDHDiEEmjZ"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Strong Enough",
-      "url": "https://open.spotify.com/track/144JMbvbR5txNzoZ112wo4"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "1992 - 2012",
         "url": "https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 456480,
       "name": "Born Slippy (Nuxx)",
       "url": "https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Strong Enough",
+      "url": "https://open.spotify.com/track/144JMbvbR5txNzoZ112wo4"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Homebase",
-        "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
-      },
-      "artists": [
-        {
-          "name": "DJ Jazzy Jeff & The Fresh Prince",
-          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
-        }
-      ],
-      "duration_ms": 270973,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "No Limits",
         "url": "https://open.spotify.com/album/22s9JNTNHLw9e5wwxKdcF0"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 301200,
       "name": "Together Again",
       "url": "https://open.spotify.com/track/1aJnGme5ZRltYTp8FJ52eZ"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Homebase",
+        "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
+      },
+      "artists": [
+        {
+          "name": "DJ Jazzy Jeff & The Fresh Prince",
+          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
+        }
+      ],
+      "duration_ms": 270973,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Life Thru A Lens",
-        "url": "https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN"
-      },
-      "artists": [
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Let Me Entertain You",
-      "url": "https://open.spotify.com/track/0SLtqCrXBRrnkxSOMA3X4W"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Movin' Melodies",
         "url": "https://open.spotify.com/album/4DfD9bqzlfSbEf5kWgufPk"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 193880,
       "name": "9Pm (Till I Come)",
       "url": "https://open.spotify.com/track/1CgbwsrNDlFrRuk2ebQ7zr"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Life Thru A Lens",
+        "url": "https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Let Me Entertain You",
+      "url": "https://open.spotify.com/track/0SLtqCrXBRrnkxSOMA3X4W"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7hP1XPeFjOYTM2xgruJZyo"
-      },
-      "artists": [
-        {
-          "name": "La Bouche",
-          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
-        }
-      ],
-      "duration_ms": 204586,
-      "name": "Sweet Dreams",
-      "url": "https://open.spotify.com/track/2wz5weI4PREzpexKfrKgwv"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Enrique",
         "url": "https://open.spotify.com/album/2ENVytJO885v5c1AW2Qjci"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 212693,
       "name": "Bailamos - From \"Wild Wild West\"",
       "url": "https://open.spotify.com/track/1ySwd43oWXbrytN2BD0Mhb"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7hP1XPeFjOYTM2xgruJZyo"
+      },
+      "artists": [
+        {
+          "name": "La Bouche",
+          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
+        }
+      ],
+      "duration_ms": 204586,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/2wz5weI4PREzpexKfrKgwv"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Pronounced Jah-Nay",
-        "url": "https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz"
-      },
-      "artists": [
-        {
-          "name": "Zhan\u00e9",
-          "url": "https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is"
-        }
-      ],
-      "duration_ms": 252400,
-      "name": "Hey Mr. D.J.",
-      "url": "https://open.spotify.com/track/6eB35pgMXdfhz5Z0WjwF1O"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Homework",
         "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 328680,
       "name": "Da Funk",
       "url": "https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Pronounced Jah-Nay",
+        "url": "https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz"
+      },
+      "artists": [
+        {
+          "name": "Zhan\u00e9",
+          "url": "https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is"
+        }
+      ],
+      "duration_ms": 252400,
+      "name": "Hey Mr. D.J.",
+      "url": "https://open.spotify.com/track/6eB35pgMXdfhz5Z0WjwF1O"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Fiesta Macarena",
-        "url": "https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU"
-      },
-      "artists": [
-        {
-          "name": "Los Del Rio",
-          "url": "https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk"
-        }
-      ],
-      "duration_ms": 252133,
-      "name": "Macarena - Bayside Boys Remix",
-      "url": "https://open.spotify.com/track/7obdw7ZGr6l1GqSBkFiY11"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Come On Over (International Version)",
         "url": "https://open.spotify.com/album/5MUiqH86VtEvtVIY1loBDi"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 238706,
       "name": "That Don't Impress Me Much",
       "url": "https://open.spotify.com/track/4I7DV3MIgxJGlObiy9s6nx"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Fiesta Macarena",
+        "url": "https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU"
+      },
+      "artists": [
+        {
+          "name": "Los Del Rio",
+          "url": "https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk"
+        }
+      ],
+      "duration_ms": 252133,
+      "name": "Macarena - Bayside Boys Remix",
+      "url": "https://open.spotify.com/track/7obdw7ZGr6l1GqSBkFiY11"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Whoomp! There It Is (Radio Edit)",
-        "url": "https://open.spotify.com/album/4XHoIt7yz57IiEOApotVMw"
-      },
-      "artists": [
-        {
-          "name": "Tag Team",
-          "url": "https://open.spotify.com/artist/3NfJ6VPVz0lf3jWy5F1N7g"
-        }
-      ],
-      "duration_ms": 225266,
-      "name": "Whoomp! There It Is - Radio Edit",
-      "url": "https://open.spotify.com/track/3oWXoSkjdbTlQlteizN7Hb"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "There Is a Party",
         "url": "https://open.spotify.com/album/4pjPDN9F3qcR4Mug9VAPii"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 241066,
       "name": "Let the Dream Come True",
       "url": "https://open.spotify.com/track/1ZMrT3IGGyTCvZg4Ijuxzs"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Whoomp! There It Is (Radio Edit)",
+        "url": "https://open.spotify.com/album/4XHoIt7yz57IiEOApotVMw"
+      },
+      "artists": [
+        {
+          "name": "Tag Team",
+          "url": "https://open.spotify.com/artist/3NfJ6VPVz0lf3jWy5F1N7g"
+        }
+      ],
+      "duration_ms": 225266,
+      "name": "Whoomp! There It Is - Radio Edit",
+      "url": "https://open.spotify.com/track/3oWXoSkjdbTlQlteizN7Hb"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2303,22 +2303,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Funky Divas",
-        "url": "https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA"
-      },
-      "artists": [
-        {
-          "name": "En Vogue",
-          "url": "https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48"
-        }
-      ],
-      "duration_ms": 281613,
-      "name": "My Lovin' (You're Never Gonna Get It)",
-      "url": "https://open.spotify.com/track/3R97rNX7JnmshCWBwOSFet"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "No Time To Chill",
         "url": "https://open.spotify.com/album/0sFHr1bZ6mPOnICWWRJA01"
       },
@@ -2331,6 +2315,22 @@
       "duration_ms": 227000,
       "name": "How Much Is The Fish?",
       "url": "https://open.spotify.com/track/73aOM4jyU3begiIYxYUd89"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Funky Divas",
+        "url": "https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA"
+      },
+      "artists": [
+        {
+          "name": "En Vogue",
+          "url": "https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48"
+        }
+      ],
+      "duration_ms": 281613,
+      "name": "My Lovin' (You're Never Gonna Get It)",
+      "url": "https://open.spotify.com/track/3R97rNX7JnmshCWBwOSFet"
     },
     {
       "added_at": "2022-10-11 00:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 
 > A collection of <a href="https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283">Northern Bars</a>’ finest\. Cover: TOBi
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,579 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,613 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 32 | [Better Believe \(ft The Weeknd\)](https://open.spotify.com/track/2WN7xpcY4zmcqF57HFEGZY) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [See You Next Wednesday](https://open.spotify.com/album/7jJsNB4u538DpyZckBEKsB) | 3:26 |
 | 33 | [Pizzazz](https://open.spotify.com/track/0h82txCyS3TGgW0F31gew5) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [Pizzazz](https://open.spotify.com/album/53LZZfDTXEmbo9uhV70uTL) | 3:11 |
 | 34 | [Bali](https://open.spotify.com/track/4y5tKWeAUcaFE6O8Fa8XsY) | [88GLAM](https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [88GLAM RELOADED](https://open.spotify.com/album/5FqQFZh4GPzYuEXJCXYd36) | 3:05 |
-| 35 | [The Jungle](https://open.spotify.com/track/6bpsyayAnCZoPTjGt9Ifhw) | [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [The Jungle](https://open.spotify.com/album/2Ao1lDSZ1N9JmkTaR9PuQF) | 2:47 |
-| 36 | [Canada Goose](https://open.spotify.com/track/0c473vwMZxxXcdhHay62PN) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Canada Goose](https://open.spotify.com/album/4x2T0CZ0uxbA3Z6hL1Vq14) | 3:55 |
-| 37 | [Bass \(feat\. Tech N9ne & Hopsin\)](https://open.spotify.com/track/4fX0nbOg4zoGYsngVBtq4s) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [Hopsin](https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [Special Occasion](https://open.spotify.com/album/0m3fAxrcKWZ7S6sqWQKrUp) | 3:53 |
+| 35 | [Canada Goose](https://open.spotify.com/track/0c473vwMZxxXcdhHay62PN) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Canada Goose](https://open.spotify.com/album/4x2T0CZ0uxbA3Z6hL1Vq14) | 3:55 |
+| 36 | [Bass \(feat\. Tech N9ne & Hopsin\)](https://open.spotify.com/track/4fX0nbOg4zoGYsngVBtq4s) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [Hopsin](https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [Special Occasion](https://open.spotify.com/album/0m3fAxrcKWZ7S6sqWQKrUp) | 3:53 |
+| 37 | [The Jungle](https://open.spotify.com/track/6bpsyayAnCZoPTjGt9Ifhw) | [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [The Jungle](https://open.spotify.com/album/2Ao1lDSZ1N9JmkTaR9PuQF) | 2:47 |
 | 38 | [Jupiter & Mars](https://open.spotify.com/track/6YwwmcamIeDCOBQC8yrgxA) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Jupiter & Mars](https://open.spotify.com/album/4ncZCdSB9YcHmmK51P2ld1) | 3:16 |
 | 39 | [MUST BE](https://open.spotify.com/track/0lO5zEKJ60lvz8X192p3WK) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 2:25 |
 | 40 | [Bionic Man](https://open.spotify.com/track/7x9DxO4BrMKsQlmN2vPURS) | [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD), [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef) | [Bionic Man](https://open.spotify.com/album/4Wm4hGN6m5ZaaFm1LyTtkd) | 3:12 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 74 | [Don't Dance](https://open.spotify.com/track/5pPjRodJAYNwVXSRekq40W) | [Pengz](https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc) | [Don't Dance](https://open.spotify.com/album/20cF35OrxFwHvEnnJqvWCX) | 3:17 |
 | 75 | [BURN EVERYTHING](https://open.spotify.com/track/3Bcphu5Gi1NdhMKAwx2yIj) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Ye](https://open.spotify.com/artist/7F8mOnK6NxES96O7SiGlLt) | [BURN EVERYTHING](https://open.spotify.com/album/5wb97Ic2ukhlspPZAC29ow) | 2:49 |
 
-Snapshot ID: `MCw2NWY2ZjQ4MTRkMjE1Y2UwNDdlM2VmYzg2YzEwNTg2ZDBjMmVjNDgx`
+Snapshot ID: `MCxmYWQ5ZjY1Zjk2YzAxZDhiNDcyNGIyMzFmOGM1NmI5MzgxNzQwZTYw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 
 > Great songs from great people\.  Enjoy music from artists you can believe in!
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,005 likes - 65 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,064 likes - 65 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 48 | [I Love It](https://open.spotify.com/track/5RE1GkL0Zt9Soasbt1R1xx) | [Esoterica](https://open.spotify.com/artist/5gb8iXoOjlgn9dCXGj0TK3) | [Rebirth](https://open.spotify.com/album/3iGGESom06TuNUHu6xIQJd) | 3:21 |
 | 49 | [Electricity](https://open.spotify.com/track/33Wl3F0PmnWmTQHcR6tTG3) | [Drew Holcomb](https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Electricity](https://open.spotify.com/album/0ZmeJpQ0XsidtWxekod1sY) | 4:28 |
 | 50 | [Wake Up Sleeper](https://open.spotify.com/track/3a1tbocbSXksbYWkGOPMLs) | [Wildwood Kin](https://open.spotify.com/artist/2KOxHm9lGE9lFZDQdebD6B) | [Wildwood Kin](https://open.spotify.com/album/0gdQ8PGuLpDQnOKWMfOfBH) | 4:06 |
-| 51 | [Free](https://open.spotify.com/track/7GNgN8mUDYfoQRi3FoAxRy) | [Gungor](https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif) | [One Wild Life](https://open.spotify.com/album/7GWiEU6QEjWzluWfmp30Cp) | 3:28 |
-| 52 | [Glow](https://open.spotify.com/track/2dUteNJxoMXUvnECvjvvAf) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [Hold to the Light](https://open.spotify.com/album/7aihuGqvU3NAInaXVDmvST) | 3:03 |
+| 51 | [Glow](https://open.spotify.com/track/2dUteNJxoMXUvnECvjvvAf) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [Hold to the Light](https://open.spotify.com/album/7aihuGqvU3NAInaXVDmvST) | 3:03 |
+| 52 | [Free](https://open.spotify.com/track/7GNgN8mUDYfoQRi3FoAxRy) | [Gungor](https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif) | [One Wild Life](https://open.spotify.com/album/7GWiEU6QEjWzluWfmp30Cp) | 3:28 |
 | 53 | [Oh Dreamer](https://open.spotify.com/track/2Uu1hqObahlzFDbZqjC6CR) | [The Brilliance](https://open.spotify.com/artist/26nltVmOVeIfYmwcmqTm7e) | [Oh Dreamer](https://open.spotify.com/album/4c89AmtrwLAF1H1sNBgHei) | 3:24 |
 | 54 | [God Who Sees Me](https://open.spotify.com/track/25NALshm4GZZkXd0gFmCLL) | [The Hedgerow Folk](https://open.spotify.com/artist/3LBXtcf7iF5hyveaDJolc6) | [God Who Sees Me](https://open.spotify.com/album/0kaaq4b14mpk8kl4H0OUFE) | 4:00 |
 | 55 | [Starts With You And Me](https://open.spotify.com/track/3sPI6DJ6QA9DNVxmioE3ma) | [Nathan Sheridan](https://open.spotify.com/artist/0Vpz3awV4yntr1jCRY7QTm) | [Broken With You](https://open.spotify.com/album/1WxFCGoi2aue2M1OQNKDk7) | 2:58 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 64 | [New Day](https://open.spotify.com/track/7wT7EvhnZ1MygDBoRyO9z0) | [Green River Ordinance](https://open.spotify.com/artist/6Yuow6YoiBaVPFNjZ5BQi7) | [Under Fire](https://open.spotify.com/album/5M8KlKcuRbCgIE7Yx7u99m) | 4:18 |
 | 65 | [The Road, The Rocks, and The Weeds](https://open.spotify.com/track/59oEEdqRLNKYBM7nbbaCD7) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [The Road, The Rocks, and The Weeds](https://open.spotify.com/album/4Q7EFIDyCAMqsr0fGD3kle) | 3:35 |
 
-Snapshot ID: `MCxkZjlmMDk3Yzc4ZDdmYmQ2YmE2YmYxOTNiMjE5OTU1MjhkYmYzM2Fi`
+Snapshot ID: `MCxjNTQwZTk1ODRhODIyNjA3ZDIyZDY0MzM3M2RmNzNkNTZlOTM1NzVi`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-09-29",
-  "description": "The home of the best new alternative music. Cover: Art School Girlfriend",
+  "description": "The home of the best new alternative music. Cover: Sfven",
   "name": "The Other List",
   "tracks": [
     {
@@ -2897,6 +2897,24 @@
     },
     {
       "album": {
+        "name": "Bellyful",
+        "url": "https://open.spotify.com/album/0U5xkWeqVYXT20zsLFJHWX"
+      },
+      "artists": [
+        {
+          "name": "Green Gardens",
+          "url": "https://open.spotify.com/artist/5EwUOG0SThYLLXclwy1PiO"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263200,
+      "name": "Bellyful",
+      "url": "https://open.spotify.com/track/3YpyknW4X52wtKCctSUVBt"
+    },
+    {
+      "album": {
         "name": "Belong Together",
         "url": "https://open.spotify.com/album/1D5ri0WdyU1nNOBvftkXfP"
       },
@@ -3898,7 +3916,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 222443,
       "name": "Break In",
       "url": "https://open.spotify.com/track/5eRjEIaNVUL3Ahua8uy4B0"
@@ -4162,7 +4180,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 126635,
       "name": "Burn Money",
       "url": "https://open.spotify.com/track/4edy96lC5RsbZvOI0HvmUO"
@@ -4416,6 +4434,28 @@
       "duration_ms": 149520,
       "name": "Candidate",
       "url": "https://open.spotify.com/track/7pdzm4kh1zY5DxeujZukd0"
+    },
+    {
+      "album": {
+        "name": "Candy / How many miles",
+        "url": "https://open.spotify.com/album/1bxCJT77jNW4aIwOsJoN1T"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        },
+        {
+          "name": "Two star",
+          "url": "https://open.spotify.com/artist/3QCMLWLjJyGA8cQCPrusdv"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174797,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/15NYGHy9F4vQstNvznsTZw"
     },
     {
       "album": {
@@ -4798,7 +4838,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 178928,
       "name": "Charm You - Blondshell Version",
       "url": "https://open.spotify.com/track/1BZdaILVXGhuJbvlMFzBBD"
@@ -6733,6 +6773,24 @@
     },
     {
       "album": {
+        "name": "in the flesh",
+        "url": "https://open.spotify.com/album/1795Gnf8L33OI6FuVwWeOe"
+      },
+      "artists": [
+        {
+          "name": "Nxdia",
+          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166272,
+      "name": "decay",
+      "url": "https://open.spotify.com/track/6KOBwRuYhao5Q7b9kL5h6D"
+    },
+    {
+      "album": {
         "name": "December (Magdalena Bay's Simulation Mix)",
         "url": "https://open.spotify.com/album/5Q8cegpgDVU941aToOa6uP"
       },
@@ -6752,6 +6810,24 @@
       "duration_ms": 251868,
       "name": "December - Magdalena Bay's Simulation Mix",
       "url": "https://open.spotify.com/track/1JBlGEHXGzzw1afWgomNsj"
+    },
+    {
+      "album": {
+        "name": "Deep Diving",
+        "url": "https://open.spotify.com/album/65YhubUi5rIDZmFr5FINBx"
+      },
+      "artists": [
+        {
+          "name": "No Rome",
+          "url": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160193,
+      "name": "Deep Diving",
+      "url": "https://open.spotify.com/track/6NslJ8DMabPbslZYKQ8Qer"
     },
     {
       "album": {
@@ -7933,6 +8009,24 @@
     },
     {
       "album": {
+        "name": "Drunk & Loud",
+        "url": "https://open.spotify.com/album/5v9ShaPCZn1arjR9BmkUNy"
+      },
+      "artists": [
+        {
+          "name": "Bloom Twins",
+          "url": "https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114964,
+      "name": "Drunk & Loud",
+      "url": "https://open.spotify.com/track/69WiLaNQxDcf4yjAWcDruZ"
+    },
+    {
+      "album": {
         "name": "DYWTYLM",
         "url": "https://open.spotify.com/album/0xLXYxkjjIPfVFhbPWvCwy"
       },
@@ -9103,6 +9197,28 @@
     },
     {
       "album": {
+        "name": "Fire of Mercy",
+        "url": "https://open.spotify.com/album/4MxTYuvXTiZpKH0nnzcu7V"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        },
+        {
+          "name": "yun\u00e8 pinku",
+          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239289,
+      "name": "Fire of Mercy",
+      "url": "https://open.spotify.com/track/6oDHOPYBOGjrRYM3QMxznO"
+    },
+    {
+      "album": {
         "name": "Fired Up",
         "url": "https://open.spotify.com/album/3P4xycP0wCQBxFGHWUVmud"
       },
@@ -10082,7 +10198,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 145308,
       "name": "Garment Bag",
       "url": "https://open.spotify.com/track/7ah4PtjaIDkRdY0Eb3Sxgq"
@@ -10346,6 +10462,24 @@
       "duration_ms": 140146,
       "name": "GHOST*",
       "url": "https://open.spotify.com/track/7mfGLdrBIlR7o6s6YFpjwi"
+    },
+    {
+      "album": {
+        "name": "ghosts",
+        "url": "https://open.spotify.com/album/4q37Z0rAJjMmxHf3ORQHb8"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220776,
+      "name": "ghosts",
+      "url": "https://open.spotify.com/track/0PQ4VI53cK9ZeKluejZmoC"
     },
     {
       "album": {
@@ -10854,7 +10988,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 313040,
       "name": "Gold",
       "url": "https://open.spotify.com/track/6RGrfHoY9vHkpkvsyGNCBx"
@@ -13222,7 +13356,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 218217,
       "name": "I Wanna Be Software",
       "url": "https://open.spotify.com/track/6Qnw1wRWCxdpKV7xlv0706"
@@ -14062,7 +14196,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 191450,
       "name": "Inside My Chest",
       "url": "https://open.spotify.com/track/7aW3ig8WrV4ynt1xiAua2l"
@@ -16087,6 +16221,24 @@
     },
     {
       "album": {
+        "name": "LOO SONG",
+        "url": "https://open.spotify.com/album/5WSTzOHLT79yFmXvuh7jZ8"
+      },
+      "artists": [
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147619,
+      "name": "LOO SONG",
+      "url": "https://open.spotify.com/track/3F0z2ffuQuc3aTHPI0l2Ku"
+    },
+    {
+      "album": {
         "name": "Look To Him",
         "url": "https://open.spotify.com/album/6fN3UIZmBIbLJeXymGyXS1"
       },
@@ -16294,6 +16446,28 @@
       "duration_ms": 190226,
       "name": "Lost in Translation",
       "url": "https://open.spotify.com/track/5TUZhrb8UaaA76NhzZax2Z"
+    },
+    {
+      "album": {
+        "name": "as good as it gets",
+        "url": "https://open.spotify.com/album/1THvmGPzaCb2ZJn960vlwx"
+      },
+      "artists": [
+        {
+          "name": "ceo@business.net",
+          "url": "https://open.spotify.com/artist/62AQgmEbWNT2jh8uL4PfRR"
+        },
+        {
+          "name": "lentra",
+          "url": "https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174250,
+      "name": "love and money",
+      "url": "https://open.spotify.com/track/5CneBHhw450j8Kjf7Ya64a"
     },
     {
       "album": {
@@ -18316,7 +18490,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 160628,
       "name": "Nepotism (baby)",
       "url": "https://open.spotify.com/track/5Hrmk9cQK2kqePZLHspiTw"
@@ -21407,6 +21581,24 @@
     },
     {
       "album": {
+        "name": "Nothing Sacred",
+        "url": "https://open.spotify.com/album/0DmGruRtuY0lgYGyQ2rloO"
+      },
+      "artists": [
+        {
+          "name": "Nate Brazier",
+          "url": "https://open.spotify.com/artist/4cavlP5GhgtNXiWSS3wIO7"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150052,
+      "name": "Putting On Airs",
+      "url": "https://open.spotify.com/track/6PmVjN1ZywIq4LBejE0kD5"
+    },
+    {
+      "album": {
         "name": "Quail\u2019s Egg No.1 In C Sharp Major",
         "url": "https://open.spotify.com/album/7lI32YGsHqckOHVXwQRuED"
       },
@@ -23565,6 +23757,24 @@
     },
     {
       "album": {
+        "name": "you, green",
+        "url": "https://open.spotify.com/album/3n22PGmZoD2DTEr9AuBws4"
+      },
+      "artists": [
+        {
+          "name": "Sfven",
+          "url": "https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167078,
+      "name": "sideline, red wine lover",
+      "url": "https://open.spotify.com/track/4tCwtpj5QR1FLpCevAuGx3"
+    },
+    {
+      "album": {
         "name": "Silent",
         "url": "https://open.spotify.com/album/6vDY0kHBfGrhKi6Of9E3EN"
       },
@@ -23822,7 +24032,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 231333,
       "name": "Skin",
       "url": "https://open.spotify.com/track/2ylkVRkpfmIP2B59GcfSlO"
@@ -23876,7 +24086,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 232537,
       "name": "skin in the game",
       "url": "https://open.spotify.com/track/3X0KbbFJSUK1hzXggbtreP"
@@ -24056,7 +24266,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 307406,
       "name": "Slipstream",
       "url": "https://open.spotify.com/track/7yygpnlQyzmy0zXiMTpoZv"
@@ -24222,7 +24432,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 247769,
       "name": "Snakes",
       "url": "https://open.spotify.com/track/5DynpF8hwm3QYiaRr4V4S4"
@@ -25505,6 +25715,24 @@
     },
     {
       "album": {
+        "name": "Strange Neighbour",
+        "url": "https://open.spotify.com/album/1hygYn9jF3ZldHAhFacnza"
+      },
+      "artists": [
+        {
+          "name": "Folly Group",
+          "url": "https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201316,
+      "name": "Strange Neighbour",
+      "url": "https://open.spotify.com/track/6pHUXTAkA0oeZjUQNYkwWN"
+    },
+    {
+      "album": {
         "name": "Song Machine: Strange Timez (feat. Robert Smith)",
         "url": "https://open.spotify.com/album/6YNljPhLvGsg3U9WtT7qje"
       },
@@ -25628,7 +25856,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 140979,
       "name": "STUNT GIRL",
       "url": "https://open.spotify.com/track/30MW0bdlhJDOyZBHAERVLe"
@@ -25646,7 +25874,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 108526,
       "name": "sub 32",
       "url": "https://open.spotify.com/track/5bJyWVbQjvHlA4eptnaHeT"
@@ -27003,6 +27231,42 @@
     },
     {
       "album": {
+        "name": "The Cabin",
+        "url": "https://open.spotify.com/album/57v4x7aRdhztbRW4IiVgFl"
+      },
+      "artists": [
+        {
+          "name": "Haley Blais",
+          "url": "https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237547,
+      "name": "The Cabin",
+      "url": "https://open.spotify.com/track/5VZFZg4N7EFJeNP78tAIAc"
+    },
+    {
+      "album": {
+        "name": "THE CHEMICALS",
+        "url": "https://open.spotify.com/album/5SmtHJw6OE9m8oTUdzV03c"
+      },
+      "artists": [
+        {
+          "name": "SIPHO.",
+          "url": "https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244809,
+      "name": "THE CHEMICALS",
+      "url": "https://open.spotify.com/track/4NLvDJiZ1fcOF8eqZRBbxc"
+    },
+    {
+      "album": {
         "name": "A Day in a Yellow Beat",
         "url": "https://open.spotify.com/album/6Cn3JpoA3LIrISLDH2gYmJ"
       },
@@ -27477,6 +27741,24 @@
     },
     {
       "album": {
+        "name": "the slab",
+        "url": "https://open.spotify.com/album/1OheOBc8tPeAQRNoFAq6ve"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310874,
+      "name": "the slab",
+      "url": "https://open.spotify.com/track/5ZbDyFKoowe2Rwi5xjcNQp"
+    },
+    {
+      "album": {
         "name": "The Sneaker Dance",
         "url": "https://open.spotify.com/album/2IcgVYCAg9WAmWOYJmwHqc"
       },
@@ -27644,6 +27926,24 @@
       "duration_ms": 249380,
       "name": "The World",
       "url": "https://open.spotify.com/track/4Te5Lm9Ej1rqZRNSS6W96F"
+    },
+    {
+      "album": {
+        "name": "The World\u2019s Biggest Paving Slab",
+        "url": "https://open.spotify.com/album/5YtzVLMSqSrojOTnQmPOsn"
+      },
+      "artists": [
+        {
+          "name": "English Teacher",
+          "url": "https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185471,
+      "name": "The World\u2019s Biggest Paving Slab",
+      "url": "https://open.spotify.com/track/0kRJ86TTyiuqTHWh2sHGAI"
     },
     {
       "album": {
@@ -28106,7 +28406,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 224725,
       "name": "Tip Toe",
       "url": "https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7"
@@ -28778,7 +29078,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 175991,
       "name": "Tumbling Dice",
       "url": "https://open.spotify.com/track/7dkc32UFeMWMIhqpFvBS7H"
@@ -29298,6 +29598,24 @@
       "duration_ms": 215063,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/52FedMzfIqnAAxp9wj5HXs"
+    },
+    {
+      "album": {
+        "name": "Valley Ghoul",
+        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
+      },
+      "artists": [
+        {
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182778,
+      "name": "Valley Ghoul",
+      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
     },
     {
       "album": {
@@ -29826,7 +30144,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 168860,
       "name": "We're on an Island, but it's the UK",
       "url": "https://open.spotify.com/track/2iy71gZuDJndppxGOdcrrB"

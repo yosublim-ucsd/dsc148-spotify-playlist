@@ -4,7 +4,7 @@
 
 > Écoutez en boucle les hits algériens du moment.
 
-152 songs - 9 hr 23 min
+153 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Khaled](https://open.spotify.com/track/1Va5ggNuXUoCQpCPHd40Gt) | [Ihan](https://open.spotify.com/artist/0RVR0TMGf3tNszGwldUu6O), [Twelve](https://open.spotify.com/artist/5zQrcUTf7m5hTwoOdXuk6E) | [Khaled](https://open.spotify.com/album/5O5XPPemXBy0AS3XrP8EZU) | 3:38 | 2021-12-09 | 2022-03-11 |
 | [Khdaatini Nti](https://open.spotify.com/track/68s3hJqkx1Nrz2bY2UQWAU) | [Abdou Sghir](https://open.spotify.com/artist/1maQs0Yi9KuzRDdbd9RCxG), [Hichem Smati](https://open.spotify.com/artist/4NqyeNqz4XfIeEWrXPknYJ) | [Khdaatini Nti](https://open.spotify.com/album/6dv8rIqwLTeKbCZsMeRcLN) | 3:24 | 2022-12-25 | 2022-12-28 |
 | [Ktab Laghram](https://open.spotify.com/track/0DJbRxXvGgwHwQekxq8S1h) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Yasmine Ammari](https://open.spotify.com/artist/5XoRKOk0xPtJKh38ECeW0f) | [Ktab Laghram](https://open.spotify.com/album/2l2lkD65hpTCxNaYPZ6tKN) | 3:33 | 2021-12-09 | 2022-07-14 |
-| [LA FIN](https://open.spotify.com/track/3tYu6F0oRwqVq1TNMYU2Qe) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv), [Mezyane](https://open.spotify.com/artist/3UlIprTDXD8pwiFj7xgmWJ) | [LA FIN](https://open.spotify.com/album/6WbcUioeZ8btnVMNbAyjtD) | 3:06 | 2022-07-27 |  |
+| [LA FIN](https://open.spotify.com/track/3tYu6F0oRwqVq1TNMYU2Qe) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv), [Mezyane](https://open.spotify.com/artist/3UlIprTDXD8pwiFj7xgmWJ) | [LA FIN](https://open.spotify.com/album/6WbcUioeZ8btnVMNbAyjtD) | 3:06 | 2022-07-27 | 2023-08-11 |
 | [Lafin](https://open.spotify.com/track/0tTiPBBmQO7MGMghD2MxLw) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv), [Mezyane](https://open.spotify.com/artist/3UlIprTDXD8pwiFj7xgmWJ) | [Lafin](https://open.spotify.com/album/5nigUBL4IEyCYrpz7eLRxf) | 3:06 | 2022-01-27 | 2022-07-29 |
 | [Liyam](https://open.spotify.com/track/4tRUx2gflnuk7v0Uvic04X) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Liyam](https://open.spotify.com/album/56kMBEY2KFd8ua913PoSq4) | 3:21 | 2021-12-09 | 2023-03-31 |
 | [Ma Bella](https://open.spotify.com/track/45KQJy7KlhyXCPZzg3ACvW) | [Fethi Manar](https://open.spotify.com/artist/6g9hpEimVF4dYzs32kT94m) | [Ma Bella](https://open.spotify.com/album/5GutzL1w4cssmLszj2oFpX) | 4:21 | 2023-02-06 |  |
@@ -143,6 +143,7 @@
 | [Wahran](https://open.spotify.com/track/7xlrdBdz8TGSo0COvLHymc) | [RANDALL](https://open.spotify.com/artist/7EIEvxpeoLo0qpHFpSrxOr) | [Wahran](https://open.spotify.com/album/5d9W3fFbSK65pXg9Bv7VXl) | 3:51 | 2021-12-09 | 2022-02-08 |
 | [Wahrani](https://open.spotify.com/track/5gTsNTIQ17LSYHvkqXHwwO) | [Anas](https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n) | [Wahrani](https://open.spotify.com/album/3OTzJwXAHgnBasbmvb2Zep) | 2:43 | 2022-08-05 |  |
 | [Walefna](https://open.spotify.com/track/5DbQGkf9ekZY9NZdo895Jg) | [Islem\-23](https://open.spotify.com/artist/4fdscmamdruNB8lZ1nWrTd) | [Walefna](https://open.spotify.com/album/1zHsQono8sAl5QC3RCeHh2) | 3:18 | 2022-11-25 | 2023-02-04 |
+| [Welaw lia](https://open.spotify.com/track/4geztzHt7SglseWxHcLNoB) | [bara3im thugs](https://open.spotify.com/artist/4BkTLXaicMNkp3R9PBVdwC) | [Welaw lia](https://open.spotify.com/album/0HQlwX53jM3hWrWDAWmbhH) | 2:47 | 2023-08-10 |  |
 | [Welili](https://open.spotify.com/track/7l7ZDnYDzyEolxqsJP1POf) | [Amine Babylone](https://open.spotify.com/artist/2Dxc5IVSmvyXjR6sidLPT3) | [Welili](https://open.spotify.com/album/7xUBj6AnlQlJOznWSrZ9wp) | 4:16 | 2021-12-09 | 2022-05-05 |
 | [Y Dor](https://open.spotify.com/track/4m4MwgqsswdG67P8SsQEii) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Unleaded](https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Y Dor](https://open.spotify.com/album/5qfEAZy6hAgoH7uexHM8vR) | 2:25 | 2023-07-29 |  |
 | [Ya lbahri](https://open.spotify.com/track/62upkw0miJwuVpWVzHdaEV) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Sans visa](https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx) | 3:14 | 2022-05-26 |  |

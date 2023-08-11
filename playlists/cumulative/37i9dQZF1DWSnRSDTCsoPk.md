@@ -4,7 +4,7 @@
 
 > Need to get your energy level up? This will help!
 
-305 songs - 16 hr 51 min
+306 songs - 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [Eve, Psyche & The Bluebeard’s wife](https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:05 | 2023-07-26 |  |
 | [FANCY](https://open.spotify.com/track/0W5hTAWn8Tq0Qfhg1XP3YW) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/2qoWlACJtoG0L5owi7Tj0I) | 3:33 | 2021-04-27 | 2022-02-24 |
 | [Fantastic Baby](https://open.spotify.com/track/7bB3eTpZ7ecuN7C7dTQomt) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE](https://open.spotify.com/album/2R2SusHMCwhf0ed78ajJUM) | 3:50 | 2021-04-27 | 2022-02-24 |
-| [Fast Forward](https://open.spotify.com/track/4EsqgOzLn45dCHIDIhtg6W) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [GAME PLAN](https://open.spotify.com/album/7BAwtfjDEyG6l2nFlNkkLy) | 2:40 | 2023-08-09 |  |
+| [Fast Forward](https://open.spotify.com/track/4EsqgOzLn45dCHIDIhtg6W) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [GAME PLAN](https://open.spotify.com/album/7BAwtfjDEyG6l2nFlNkkLy) | 2:40 | 2023-08-09 | 2023-08-11 |
+| [Fast Forward](https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [GAME PLAN](https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu) | 2:40 | 2023-08-09 |  |
 | [Favorite \(Vampire\)](https://open.spotify.com/track/2R8MZR1RCP4cIJITHDPRbY) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Favorite \- The 3rd Album Repackage](https://open.spotify.com/album/5LbnQtyHBfJUCigA08llHX) | 3:35 | 2022-02-23 | 2023-04-30 |
 | [Favorite \(Vampire\)](https://open.spotify.com/track/3rR9kTA6mD9LbmsCE0QWEY) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Favorite \- The 3rd Album Repackage](https://open.spotify.com/album/3xn5tn8JNMlJf3sISHONUy) | 3:35 | 2022-02-23 | 2022-07-29 |
 | [FEARLESS](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:48 | 2022-08-10 |  |

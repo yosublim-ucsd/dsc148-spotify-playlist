@@ -1,12 +1,12 @@
 {
   "description": "Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.",
-  "num_followers": 112846,
+  "num_followers": 112889,
   "original_name": "This Is Handel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZWEzYTBmMTM0YzYyYTNjM2RmOWQ5YTQzMDc4NWQ3MjEwNzljMDI2",
+  "snapshot_id": "MCxiYTE2MmJjYmEyZTZlOTYxMWE5ZWM2ZjM0MzdkZjc5YmUxNjA4Yzlm",
   "tracks": [
     {
       "added_at": "2022-06-28 08:56:25",
@@ -603,6 +603,34 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
+        "name": "Royal Fireworks",
+        "url": "https://open.spotify.com/album/5VBPDKdQ3UDSf3jXvOiIcr"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Alison Balsom",
+          "url": "https://open.spotify.com/artist/44Z5ZP2F1omniNpGEdNDdt"
+        },
+        {
+          "name": "Balsom Ensemble",
+          "url": "https://open.spotify.com/artist/3sC8MocOBsrZcedSzCmVLE"
+        },
+        {
+          "name": "Simon Wright",
+          "url": "https://open.spotify.com/artist/1ZRTbgZMGs9HTI6SpMkySa"
+        }
+      ],
+      "duration_ms": 133106,
+      "name": "Handel: Music for the Royal Fireworks, HWV 351: I. Overture (Adagio)",
+      "url": "https://open.spotify.com/track/3rUZoFYbTiFJc4gxQDz3Hg"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
         "name": "Baroque Duet",
         "url": "https://open.spotify.com/album/1Qhu4B7qy5Ut1E8iUSt2Qx"
       },
@@ -631,34 +659,6 @@
       "duration_ms": 332026,
       "name": "Let the Bright Seraphim from Samson, HWV 57 - Voice",
       "url": "https://open.spotify.com/track/1GpGul0ESFCDuaaL0ccSFt"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
-        "name": "Royal Fireworks",
-        "url": "https://open.spotify.com/album/5VBPDKdQ3UDSf3jXvOiIcr"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Alison Balsom",
-          "url": "https://open.spotify.com/artist/44Z5ZP2F1omniNpGEdNDdt"
-        },
-        {
-          "name": "Balsom Ensemble",
-          "url": "https://open.spotify.com/artist/3sC8MocOBsrZcedSzCmVLE"
-        },
-        {
-          "name": "Simon Wright",
-          "url": "https://open.spotify.com/artist/1ZRTbgZMGs9HTI6SpMkySa"
-        }
-      ],
-      "duration_ms": 133106,
-      "name": "Handel: Music for the Royal Fireworks, HWV 351: I. Overture (Adagio)",
-      "url": "https://open.spotify.com/track/3rUZoFYbTiFJc4gxQDz3Hg"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -847,6 +847,34 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
+        "name": "Best of Handel",
+        "url": "https://open.spotify.com/album/2kvMgK5fsB3TGdvYROToy2"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Elin Manahan Thomas",
+          "url": "https://open.spotify.com/artist/42lAvOjda4aRK629Oqplue"
+        },
+        {
+          "name": "Orchestra of the Age of Enlightenment",
+          "url": "https://open.spotify.com/artist/1WWZAYN8d4n4iwjYALmmKB"
+        },
+        {
+          "name": "Harry Christophers",
+          "url": "https://open.spotify.com/artist/6URHrQ8te9u9mD6Q2PjVnu"
+        }
+      ],
+      "duration_ms": 233760,
+      "name": "Eternal Source Of Light Divine (Ode For The Birthday Of Queen Anne), HWV 74",
+      "url": "https://open.spotify.com/track/301GhrxRRyQ0h8NP6NQQxc"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
         "name": "Handel: Italian Cantatas, Vol. 7",
         "url": "https://open.spotify.com/album/31JoLNy9sV0D728V4VS03y"
       },
@@ -875,34 +903,6 @@
       "duration_ms": 318720,
       "name": "Apollo e Dafne, HWV 122: Aria: Felicissima quest'alma (Most fortunate is this soul) (Dafne)",
       "url": "https://open.spotify.com/track/3KHh3k2Ty3XQ2iRzklx6H3"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
-        "name": "Best of Handel",
-        "url": "https://open.spotify.com/album/2kvMgK5fsB3TGdvYROToy2"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Elin Manahan Thomas",
-          "url": "https://open.spotify.com/artist/42lAvOjda4aRK629Oqplue"
-        },
-        {
-          "name": "Orchestra of the Age of Enlightenment",
-          "url": "https://open.spotify.com/artist/1WWZAYN8d4n4iwjYALmmKB"
-        },
-        {
-          "name": "Harry Christophers",
-          "url": "https://open.spotify.com/artist/6URHrQ8te9u9mD6Q2PjVnu"
-        }
-      ],
-      "duration_ms": 233760,
-      "name": "Eternal Source Of Light Divine (Ode For The Birthday Of Queen Anne), HWV 74",
-      "url": "https://open.spotify.com/track/301GhrxRRyQ0h8NP6NQQxc"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1279,8 +1279,8 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Handel: Coronation Anthems / Silete Venti",
-        "url": "https://open.spotify.com/album/1korDY7V0uEE7W6RB7t4T2"
+        "name": "H\u00e4ndel: Water Works",
+        "url": "https://open.spotify.com/album/0hLOMULylE3BjdwQwX97Br"
       },
       "artists": [
         {
@@ -1288,21 +1288,13 @@
           "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
         },
         {
-          "name": "Thomas Tallis Chamber Choir",
-          "url": "https://open.spotify.com/artist/5kl66pasgbqK6LFuqImrFN"
-        },
-        {
-          "name": "Royal Academy Consort",
-          "url": "https://open.spotify.com/artist/4Ki3YmkyJwKtoBwqySbpW2"
-        },
-        {
-          "name": "Jeremy Summerly",
-          "url": "https://open.spotify.com/artist/0eaRvM9NkpTV399cyiZUwf"
+          "name": "Syr\u00e8ne Saxophone Quartet",
+          "url": "https://open.spotify.com/artist/42zAZXwDwnuYmn4RmEZxWo"
         }
       ],
-      "duration_ms": 127440,
-      "name": "Let thy Hand be strengthened, HWV 259: Alleluia",
-      "url": "https://open.spotify.com/track/3udJMoXeAemwdJm2HH2eQT"
+      "duration_ms": 64773,
+      "name": "Water Music: Suite No. 2 in D, HWV 349: XIII. Minuet",
+      "url": "https://open.spotify.com/track/7CM56fEgOdGeq9w7e6bSsd"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1335,8 +1327,8 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "H\u00e4ndel: Water Works",
-        "url": "https://open.spotify.com/album/0hLOMULylE3BjdwQwX97Br"
+        "name": "Handel: Coronation Anthems / Silete Venti",
+        "url": "https://open.spotify.com/album/1korDY7V0uEE7W6RB7t4T2"
       },
       "artists": [
         {
@@ -1344,13 +1336,21 @@
           "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
         },
         {
-          "name": "Syr\u00e8ne Saxophone Quartet",
-          "url": "https://open.spotify.com/artist/42zAZXwDwnuYmn4RmEZxWo"
+          "name": "Thomas Tallis Chamber Choir",
+          "url": "https://open.spotify.com/artist/5kl66pasgbqK6LFuqImrFN"
+        },
+        {
+          "name": "Royal Academy Consort",
+          "url": "https://open.spotify.com/artist/4Ki3YmkyJwKtoBwqySbpW2"
+        },
+        {
+          "name": "Jeremy Summerly",
+          "url": "https://open.spotify.com/artist/0eaRvM9NkpTV399cyiZUwf"
         }
       ],
-      "duration_ms": 64773,
-      "name": "Water Music: Suite No. 2 in D, HWV 349: XIII. Minuet",
-      "url": "https://open.spotify.com/track/7CM56fEgOdGeq9w7e6bSsd"
+      "duration_ms": 127440,
+      "name": "Let thy Hand be strengthened, HWV 259: Alleluia",
+      "url": "https://open.spotify.com/track/3udJMoXeAemwdJm2HH2eQT"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1375,6 +1375,34 @@
       "duration_ms": 203066,
       "name": "Laudate Pueri (Psalm 112): Laudate Pueri Dominum",
       "url": "https://open.spotify.com/track/2iypBiPebvQux3ZyZY5Sbe"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Peaceful Handel",
+        "url": "https://open.spotify.com/album/3lCyIUqOxVLKgPc4rWhxtS"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Christina Wieland",
+          "url": "https://open.spotify.com/artist/0pwEmXXpHyP7CYrkMmNzEf"
+        },
+        {
+          "name": "Frankfurt Baroque Orchestra",
+          "url": "https://open.spotify.com/artist/4fFOSPDZSong8uLTliazsa"
+        },
+        {
+          "name": "Joachim Carlos Martini",
+          "url": "https://open.spotify.com/artist/19pKZ73EPlzeffharlVpsp"
+        }
+      ],
+      "duration_ms": 180133,
+      "name": "Theodora, Hwv 68: Act I Scene 5: Air: Angels, ever bright and fair",
+      "url": "https://open.spotify.com/track/4vbsranpQUYHHQe46YfZij"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1475,34 +1503,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Peaceful Handel",
-        "url": "https://open.spotify.com/album/3lCyIUqOxVLKgPc4rWhxtS"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Christina Wieland",
-          "url": "https://open.spotify.com/artist/0pwEmXXpHyP7CYrkMmNzEf"
-        },
-        {
-          "name": "Frankfurt Baroque Orchestra",
-          "url": "https://open.spotify.com/artist/4fFOSPDZSong8uLTliazsa"
-        },
-        {
-          "name": "Joachim Carlos Martini",
-          "url": "https://open.spotify.com/artist/19pKZ73EPlzeffharlVpsp"
-        }
-      ],
-      "duration_ms": 180133,
-      "name": "Theodora, Hwv 68: Act I Scene 5: Air: Angels, ever bright and fair",
-      "url": "https://open.spotify.com/track/4vbsranpQUYHHQe46YfZij"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Handel: Athalia",
         "url": "https://open.spotify.com/album/6tiExi2Ol2HpGMPTtBvAcU"
       },
@@ -1587,30 +1587,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Handel: Water Music; Music For The Royal Fireworks",
-        "url": "https://open.spotify.com/album/21EO8CCwxMvVpIPvhHP6Q4"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Concertgebouw Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/254914edb11tMrw8vCDjut"
-        },
-        {
-          "name": "Simon Preston",
-          "url": "https://open.spotify.com/artist/2w0dRPpzDTNYZmV9AplCD0"
-        }
-      ],
-      "duration_ms": 155666,
-      "name": "Water Music Suite No. 1 in F, HWV 348: 3a. Allegro",
-      "url": "https://open.spotify.com/track/7tn0NUPLTxnpLQBqblZDzI"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Handel: Rodelinda",
         "url": "https://open.spotify.com/album/5XShHnZAUtGkczKq62J2o1"
       },
@@ -1639,8 +1615,8 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Esther (1718 version)",
-        "url": "https://open.spotify.com/album/4kZlY4e1NQHLSvYHsxUuZM"
+        "name": "Handel: Water Music; Music For The Royal Fireworks",
+        "url": "https://open.spotify.com/album/21EO8CCwxMvVpIPvhHP6Q4"
       },
       "artists": [
         {
@@ -1648,21 +1624,17 @@
           "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
         },
         {
-          "name": "Michael Chance",
-          "url": "https://open.spotify.com/artist/3vzk8TZItuZszZdyQjrG3g"
+          "name": "Concertgebouw Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/254914edb11tMrw8vCDjut"
         },
         {
-          "name": "Harry Christophers",
-          "url": "https://open.spotify.com/artist/6URHrQ8te9u9mD6Q2PjVnu"
-        },
-        {
-          "name": "The Sixteen",
-          "url": "https://open.spotify.com/artist/5y9NnD1AZPcBVbDluRgiXS"
+          "name": "Simon Preston",
+          "url": "https://open.spotify.com/artist/2w0dRPpzDTNYZmV9AplCD0"
         }
       ],
-      "duration_ms": 408213,
-      "name": "Esther, HWV 50a: O Jordan, Jordan, Sacred Tide (Aria - Priest of the Israelites)",
-      "url": "https://open.spotify.com/track/6l3ZXdjOoZVabNvUJW1353"
+      "duration_ms": 155666,
+      "name": "Water Music Suite No. 1 in F, HWV 348: 3a. Allegro",
+      "url": "https://open.spotify.com/track/7tn0NUPLTxnpLQBqblZDzI"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1687,6 +1659,34 @@
       "duration_ms": 131479,
       "name": "Handel: Concerto grosso in F Major, Op. 3 No. 4, HWV 315: II. Andante",
       "url": "https://open.spotify.com/track/6cWPW3Z6t4ECwzYVybTA6T"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Esther (1718 version)",
+        "url": "https://open.spotify.com/album/4kZlY4e1NQHLSvYHsxUuZM"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Michael Chance",
+          "url": "https://open.spotify.com/artist/3vzk8TZItuZszZdyQjrG3g"
+        },
+        {
+          "name": "Harry Christophers",
+          "url": "https://open.spotify.com/artist/6URHrQ8te9u9mD6Q2PjVnu"
+        },
+        {
+          "name": "The Sixteen",
+          "url": "https://open.spotify.com/artist/5y9NnD1AZPcBVbDluRgiXS"
+        }
+      ],
+      "duration_ms": 408213,
+      "name": "Esther, HWV 50a: O Jordan, Jordan, Sacred Tide (Aria - Priest of the Israelites)",
+      "url": "https://open.spotify.com/track/6l3ZXdjOoZVabNvUJW1353"
     },
     {
       "added_at": "2022-06-28 08:56:25",

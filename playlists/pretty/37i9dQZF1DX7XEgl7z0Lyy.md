@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 
 > music from the underworld
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,609 likes - 50 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,096 likes - 50 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 | 25 | [limelight](https://open.spotify.com/track/6A6XsLViuHLPo72SvmRo5s) | [Marluxiam](https://open.spotify.com/artist/5QmW7zYwGfW9YZWBVKeqBU), [Cinquez](https://open.spotify.com/artist/7JuWPgGcMG5Gcd6eT6UtWW) | [limelight](https://open.spotify.com/album/5uZdnfF6XrAVPSYpkxYuUf) | 2:31 |
 | 26 | [yellow](https://open.spotify.com/track/1E8bxq8SiUtNWHnWuE0pEJ) | [Marluxiam](https://open.spotify.com/artist/5QmW7zYwGfW9YZWBVKeqBU), [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm) | [yellow](https://open.spotify.com/album/3SfKLEwoJnQfEFgkcFzoie) | 2:15 |
 | 27 | [I Know \- PR1SVX Edit Sped Up](https://open.spotify.com/track/1CHGJtIsl2TcoWUR42jxjS) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [PR1ISVX](https://open.spotify.com/artist/0QdSoQy4EwwOACmhZobTQu) | [I Know \(PR1SVX Edit\)](https://open.spotify.com/album/0U2gygUYvl2y1aPQiQZg1h) | 2:04 |
-| 28 | [CRYSTALS](https://open.spotify.com/track/5bYFgV2KMMC6IVQ2gUyMGg) | [PR1SVX](https://open.spotify.com/artist/12NSBgMVPKhwB8tDMsoYpP) | [CRYSTALS](https://open.spotify.com/album/4QEU39Ov79qOM6oBC013Uc) | 1:08 |
+| 28 | [CRYSTALS](https://open.spotify.com/track/2iD5hLjSCYFZROnyW0VfFo) | [PR1SVX](https://open.spotify.com/artist/12NSBgMVPKhwB8tDMsoYpP) | [CRYSTALS \(Remixes\)](https://open.spotify.com/album/6Mm3ztOCaGqwRudNjtPyv5) | 1:08 |
 | 29 | [khaos emerald](https://open.spotify.com/track/3KCK7509rDq8dPZ1Cm9bpY) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [\#exclusive](https://open.spotify.com/album/2MOmOE5tp2Y8PGoOxN4iXA) | 2:31 |
 | 30 | [TURN BACK P3](https://open.spotify.com/track/5IYOaCf1kUbImJxFncErqC) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [TURN BACK P3](https://open.spotify.com/album/2p67Iqg2GlAj7Jmea4VTDq) | 1:01 |
 | 31 | [YOU'RE TOO SLOW](https://open.spotify.com/track/5EloqweGioDEbqiGXTYWgE) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [YOU'RE TOO SLOW](https://open.spotify.com/album/1LY8hZmcDY1eC36qR5jAEz) | 1:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 | 49 | [4ever \(feat\. Universe\)](https://open.spotify.com/track/1iNZsRg2WI437aWBsQdGaS) | [removeface](https://open.spotify.com/artist/4V83nubSLv0NZBo69fz8PF), [Universe](https://open.spotify.com/artist/30RtxAnENaOe9XNqA4UxZW) | [4ever \(feat\. Universe\)](https://open.spotify.com/album/3QxEUjtcqaKHos7arMaVcz) | 2:28 |
 | 50 | [INVINCIBLE](https://open.spotify.com/track/4Uz07xPAEDFQcjY9vXZmXn) | [Marluxiam](https://open.spotify.com/artist/5QmW7zYwGfW9YZWBVKeqBU), [kyszenn](https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY) | [INVINCIBLE](https://open.spotify.com/album/3pKMJN25tbBk9YV76EHnMj) | 2:10 |
 
-Snapshot ID: `MCw1ZGVkYjBhYmE1MTk1ZjNjNzczZTdkM2NlMTAwOWNmMWI1ODFkM2Q0`
+Snapshot ID: `MCw2NTk2NGFhNTg2YmU5ZTgyNjlkNTUyMThhY2UwZWIzYTY1ZDBkNjkx`

@@ -2221,6 +2221,24 @@
     },
     {
       "album": {
+        "name": "Be One (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1BA61ZwyerWAKW9hsPMAlt"
+      },
+      "artists": [
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216400,
+      "name": "King Of The World",
+      "url": "https://open.spotify.com/track/2sHDB7pY43GVTsl0X3ob1B"
+    },
+    {
+      "album": {
         "name": "I Know A Ghost",
         "url": "https://open.spotify.com/album/7JiKelPfVrHUCRNsu6k9lq"
       },
@@ -2456,7 +2474,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 225560,
       "name": "Mercy Is A Song",
       "url": "https://open.spotify.com/track/1yNInj2X42ZqQG6PUE57QV"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 
 > The corridos our abuelos and parents listened to, viejitos y perrones!
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,576 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,660 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 | 34 | [Se Les Pelo Baltazar](https://open.spotify.com/track/6WuJdz1dLYTK9sTgl4gXxg) | [Los Cachorros de Juan Villarreal](https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp) | [Corridos De Oro](https://open.spotify.com/album/077RnVapHLO1Zf6p4RMN14) | 2:33 |
 | 35 | [Pacas De A Kilo](https://open.spotify.com/track/4mBRMSabjk5OFpwAyZyHOI) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Garra De...](https://open.spotify.com/album/36X48S9LwuT4hOF9igko7Y) | 3:34 |
 | 36 | [Hermanos Mata](https://open.spotify.com/track/65FVNeobrosMmZPQDMo185) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Nieves de Enero](https://open.spotify.com/album/69CnGWLFrxlYAl5ku4q5XV) | 3:48 |
-| 37 | [Cruz De Madera](https://open.spotify.com/track/4FcYptmG7nIfAH9XW8R4YA) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Cruz De Madera](https://open.spotify.com/album/6D9a2VeAyvMqcCN27uzi4V) | 2:52 |
-| 38 | [Entre Perico Y Perico](https://open.spotify.com/track/7oolgteFZL4lKQ7LcgYIhd) | [Grupo Exterminador](https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn) | [Narco Corridos](https://open.spotify.com/album/0eFkLgjzIQj3RuIXdXoCSe) | 5:00 |
+| 37 | [Entre Perico Y Perico](https://open.spotify.com/track/7oolgteFZL4lKQ7LcgYIhd) | [Grupo Exterminador](https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn) | [Narco Corridos](https://open.spotify.com/album/0eFkLgjzIQj3RuIXdXoCSe) | 5:00 |
+| 38 | [Cruz De Madera](https://open.spotify.com/track/4FcYptmG7nIfAH9XW8R4YA) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Cruz De Madera](https://open.spotify.com/album/6D9a2VeAyvMqcCN27uzi4V) | 2:52 |
 | 39 | [La Botella \(Dos Botellas De Mescal\)](https://open.spotify.com/track/2m42oF2K5zPQalKjlGVuez) | [Los Morros Del Norte](https://open.spotify.com/artist/5xvUFw0p8yfQfHVliD1dZG) | [La Cadena](https://open.spotify.com/album/0AzHFYoAtsdnzNfkHvrAu3) | 2:54 |
 | 40 | [Que No Se Apague La Lumbre](https://open.spotify.com/track/5HHtIw03mC3OPPRjFUQ2Hb) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [21 Black Jack](https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC) | 2:44 |
 | 41 | [Más Chingón Que Ese Buey](https://open.spotify.com/track/5fA7H8n3zhNsoSQSYA3DLz) | [Los Razos](https://open.spotify.com/artist/7HYgqp51TBXZdtjinjkQuZ) | [Con Banda Y De Parranda](https://open.spotify.com/album/784Mrg7xgVFTYk0qAAxMWR) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 | 99 | [Valente Quintero](https://open.spotify.com/track/4de4ivYcmGbVwkyi8nPdZ8) | [Los Dinamicos Del Norte](https://open.spotify.com/artist/2THFBUqLbOmogiKIQdFCWA) | [10 Aniversario](https://open.spotify.com/album/2P3M1m7lG147D6T1KhRZEV) | 4:47 |
 | 100 | [Corrido de Macario Leyva](https://open.spotify.com/track/1wWkXyBQGnmAua5LKPXWv3) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Corridos Y Tragedias De La Frontera](https://open.spotify.com/album/2jBFdIcdBMztm4pXMrsIxM) | 3:41 |
 
-Snapshot ID: `MCwyZWM3ODI4ZTJiMjZjMDVmYzkwZDk2MzljMzJjNmJhNTMwZTAzOGM1`
+Snapshot ID: `MCw2MmNmODQ0MjkyMzdhNWQ1Yzc5MmI1NTFiYmEyODllY2M4OTRkOTE5`

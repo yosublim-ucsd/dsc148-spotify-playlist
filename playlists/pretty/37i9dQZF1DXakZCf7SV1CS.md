@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 
 > Classics by the pioneers of the sound, and its modern\-day icons\. Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,978 likes - 75 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,112 likes - 75 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 29 | [fwb](https://open.spotify.com/track/1XnnLXcvFd21B25H4IHEIY) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [punk2](https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og) | 2:17 |
 | 30 | [Doritos & Fritos](https://open.spotify.com/track/1jPPKYq1s1HhIjAiqrnRR8) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 3:16 |
 | 31 | [cloak n dagger](https://open.spotify.com/track/5PK7AzBXo9hiOWxxqkSC1S) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [cloak n dagger](https://open.spotify.com/album/2IyyUm6A2nD0UpwhQwMY00) | 2:09 |
-| 32 | [Kismet](https://open.spotify.com/track/3owRFZTvTuWgNlUkbI6YgS) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [19](https://open.spotify.com/album/0jQjCFXUVRUrwUN7ACw0h8) | 2:51 |
-| 33 | [think abt it](https://open.spotify.com/track/6MCYfUWQixdULHVaDm4Hgo) | [oaf1](https://open.spotify.com/artist/3x2XRFCUMHeXZ9uRit3pKu), [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ) | [think abt it](https://open.spotify.com/album/70s3pT3CMwRrOw2DmEbx5V) | 2:24 |
+| 32 | [think abt it](https://open.spotify.com/track/6MCYfUWQixdULHVaDm4Hgo) | [oaf1](https://open.spotify.com/artist/3x2XRFCUMHeXZ9uRit3pKu), [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ) | [think abt it](https://open.spotify.com/album/70s3pT3CMwRrOw2DmEbx5V) | 2:24 |
+| 33 | [Kismet](https://open.spotify.com/track/3owRFZTvTuWgNlUkbI6YgS) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [19](https://open.spotify.com/album/0jQjCFXUVRUrwUN7ACw0h8) | 2:51 |
 | 34 | [cheap liquor](https://open.spotify.com/track/7sLmMWLm9Egbs68NRcFvjY) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [things with wings](https://open.spotify.com/album/2MdIFibz5RJWNIDJzyEVxO) | 1:48 |
 | 35 | [rosier/punk2](https://open.spotify.com/track/5fr1gqzvwrPrGS76ltBsFK) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [punk2](https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og) | 3:42 |
 | 36 | [BFF](https://open.spotify.com/track/0G7ociNk1wIbXcU6uXtWPi) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Slayyyter](https://open.spotify.com/album/0e35TENSTAVVkaHlVEsTtz) | 3:35 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 40 | [you don't love me](https://open.spotify.com/track/4GdFtfWORB3JQvsjjWvE4y) | [Rebzyyx](https://open.spotify.com/artist/7GcVOOrldYLwxGrCkELOno), [Xaxanity](https://open.spotify.com/artist/10m6Fvz501byHhoObkMPVy) | [you don't love me](https://open.spotify.com/album/16Ed3EtdYHhasSdABo7g6m) | 2:02 |
 | 41 | [ihonestlymightjustgiveup](https://open.spotify.com/track/6AGhG5sCxbepvyjFilAVHq) | [d0llywood1](https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc) | [ihonestlymightjustgiveup](https://open.spotify.com/album/0QGw2PBUWwsxlbIP84SO7J) | 2:06 |
 | 42 | [movinglikeazombie](https://open.spotify.com/track/2BVNa4XQsy01eGNJrdVwe1) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [hi, i'm dante](https://open.spotify.com/album/7y89IwnXil6Rg4Vw6LVKnV) | 1:56 |
-| 43 | [1:15](https://open.spotify.com/track/0TNFCRzOnlgu7W1K47sFnY) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [1:15](https://open.spotify.com/album/1UyLZP0hiJA0A2b6CWmQbU) | 2:10 |
-| 44 | [hope u doing well](https://open.spotify.com/track/44mzhLKr8e5C8ytP6zzMwe) | [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK) | [hope u doing well](https://open.spotify.com/album/1bbLvy7JrUy34A4gZ9kQqE) | 1:36 |
+| 43 | [hope u doing well](https://open.spotify.com/track/44mzhLKr8e5C8ytP6zzMwe) | [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK) | [hope u doing well](https://open.spotify.com/album/1bbLvy7JrUy34A4gZ9kQqE) | 1:36 |
+| 44 | [1:15](https://open.spotify.com/track/0TNFCRzOnlgu7W1K47sFnY) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [1:15](https://open.spotify.com/album/1UyLZP0hiJA0A2b6CWmQbU) | 2:10 |
 | 45 | [ok im cool](https://open.spotify.com/track/2pDjxMXn7PLMIbd526fhRb) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [bleh](https://open.spotify.com/album/0TadkQAZl1xvNIiguJ9nDi) | 2:47 |
 | 46 | [VYZEE](https://open.spotify.com/track/1LzvuqP3L5Q7G61kUBgfCJ) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [VYZEE](https://open.spotify.com/album/619AAL08eHbip6ce8Jixbe) | 3:22 |
 | 47 | [Black Rum](https://open.spotify.com/track/5sX8XyI1pdReiCbSpOjCaf) | [Cake Pop](https://open.spotify.com/artist/4MpQ6BLMo0fDNTZhY7ohRJ), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N), [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC), [Lewis Grant](https://open.spotify.com/artist/5hn4bbaAkdXOwk8160xTpj) | [Cake Pop 2](https://open.spotify.com/album/03hIzrguBWOYV7Osb3FGU8) | 2:26 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 74 | [Kyoto \(Glitch Gum Remix\)](https://open.spotify.com/track/0cYsiOzerJ7PvTyQdwASXl) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [Kyoto \(Glitch Gum Remix\)](https://open.spotify.com/album/3B83CmsoSCZUrzZfbt4RyX) | 2:39 |
 | 75 | [Hot Pink](https://open.spotify.com/track/59rdoga3q8OVCR5WnSGVM8) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [I'm All Ears](https://open.spotify.com/album/4TgXvHJWXGk0BlBvfs13Qg) | 4:08 |
 
-Snapshot ID: `MCxkZjVhYjgwYzA2NzZkYjgwODY2OWNlMTJjNTAzMGVhYjcxYjc1MTJj`
+Snapshot ID: `MCxjZGM3NTE0NGViOTVhNDFjNzZiMjMxOTNiZmYxMGE4M2IxOGRjZDZh`

@@ -1,12 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Cover: Jeff Rosenstock ",
-  "num_followers": 355579,
+  "num_followers": 355667,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGYxYTQyNThmYWM0YjM5Yzg3NDUzNDk4NGMxZDZjNGZiYTg0MGZh",
+  "snapshot_id": "MCwyYThmZmJkMTZiMWZmOWQ5ZDZjYTU1NTk2OGM3MDViYmZiYzQxZjAx",
   "tracks": [
     {
       "added_at": "2023-07-28 06:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Duck and Cover",
-        "url": "https://open.spotify.com/album/1rMKbNGspotPBdyEQYPqA0"
-      },
-      "artists": [
-        {
-          "name": "Mad Caddies",
-          "url": "https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6"
-        }
-      ],
-      "duration_ms": 121666,
-      "name": "Road Rash",
-      "url": "https://open.spotify.com/track/7v9tpAyVYvIueLtl82bMIz"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Trouble Maker (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 143546,
       "name": "Where I'm Going",
       "url": "https://open.spotify.com/track/3MXxV2BQjMEhZmTtLkIOPz"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Duck and Cover",
+        "url": "https://open.spotify.com/album/1rMKbNGspotPBdyEQYPqA0"
+      },
+      "artists": [
+        {
+          "name": "Mad Caddies",
+          "url": "https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6"
+        }
+      ],
+      "duration_ms": 121666,
+      "name": "Road Rash",
+      "url": "https://open.spotify.com/track/7v9tpAyVYvIueLtl82bMIz"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "For Monkeys",
-        "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 160173,
-      "name": "Random I Am",
-      "url": "https://open.spotify.com/track/2XvrtH6BIVyCr6tLhOvIAt"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Madness",
         "url": "https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 180066,
       "name": "House Of Fun",
       "url": "https://open.spotify.com/track/4SactOQQV5J66VtQRVOBGC"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "For Monkeys",
+        "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 160173,
+      "name": "Random I Am",
+      "url": "https://open.spotify.com/track/2XvrtH6BIVyCr6tLhOvIAt"
     },
     {
       "added_at": "2023-07-28 06:00:00",

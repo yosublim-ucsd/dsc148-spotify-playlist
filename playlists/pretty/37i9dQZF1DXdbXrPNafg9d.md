@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Bathe Alone
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,283,848 likes - 150 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,283,888 likes - 150 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 149 | [heavun](https://open.spotify.com/track/2gtEPlDqBTQ0uYMsaQebcH) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [heavun](https://open.spotify.com/album/6rIqnMYGM6a1CMD65is0Te) | 3:11 |
 | 150 | [Alive!](https://open.spotify.com/track/6KzI6EM1QYyOq5oudPlcWT) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Alive!](https://open.spotify.com/album/0lvFKHiygKiwhKHNYPmRzn) | 3:52 |
 
-Snapshot ID: `MCw1YmJmNDA3MWQ5ZmY0MDY0YTUyODMwY2M3OTRlMmI3MmQ5ZTYzNWZk`
+Snapshot ID: `MCw1OGU1NDA2Y2RmNzVhZGRkNDBkM2MwYTcyNjgzODE5OTI3OGJkNTU2`

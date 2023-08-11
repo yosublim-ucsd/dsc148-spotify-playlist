@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 2017,
+  "num_followers": 2028,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDA2MjMyZTZiMjZlMGYxYTMyZWJlNTY2OWYyM2FiNjUxY2VhNTNl",
+  "snapshot_id": "MCwxNjI0OWY1NmY3Yzk2NzlhZDc2MjYyMTI1YjhkZTY4ZmY4N2NmOTk0",
   "tracks": [
     {
       "added_at": "2023-06-16 00:01:00",
@@ -369,38 +369,6 @@
       "url": "https://open.spotify.com/track/7bZCkTQ5qXrCgQvPbKF2gH"
     },
     {
-      "added_at": "2023-07-28 00:01:00",
-      "album": {
-        "name": "Uko Wapi Mungu",
-        "url": "https://open.spotify.com/album/3mFFb1dNZLjxLWNNTjaqW0"
-      },
-      "artists": [
-        {
-          "name": "William Yilima",
-          "url": "https://open.spotify.com/artist/2DTRhfclXLK7d9FYyuWda0"
-        }
-      ],
-      "duration_ms": 142996,
-      "name": "Yesu Nitie Nguvu",
-      "url": "https://open.spotify.com/track/6ei3elKMjid5GSnWAXwS6q"
-    },
-    {
-      "added_at": "2023-08-04 00:01:00",
-      "album": {
-        "name": "Trust In God (Radio Version)",
-        "url": "https://open.spotify.com/album/6IW9jcM4HMToKGO1aE8dbv"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 243715,
-      "name": "Trust In God - Radio Version",
-      "url": "https://open.spotify.com/track/7mqEjKUiNZUfsDD9QQHqaw"
-    },
-    {
       "added_at": "2023-08-04 00:01:00",
       "album": {
         "name": "Another Miracle",
@@ -419,6 +387,38 @@
       "duration_ms": 212869,
       "name": "Another Miracle",
       "url": "https://open.spotify.com/track/6KzOfBQbzxEZEpUKzJVDtG"
+    },
+    {
+      "added_at": "2023-08-04 00:01:00",
+      "album": {
+        "name": "Trust In God (Radio Version)",
+        "url": "https://open.spotify.com/album/6IW9jcM4HMToKGO1aE8dbv"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 243715,
+      "name": "Trust In God - Radio Version",
+      "url": "https://open.spotify.com/track/7mqEjKUiNZUfsDD9QQHqaw"
+    },
+    {
+      "added_at": "2023-07-28 00:01:00",
+      "album": {
+        "name": "Uko Wapi Mungu",
+        "url": "https://open.spotify.com/album/3mFFb1dNZLjxLWNNTjaqW0"
+      },
+      "artists": [
+        {
+          "name": "William Yilima",
+          "url": "https://open.spotify.com/artist/2DTRhfclXLK7d9FYyuWda0"
+        }
+      ],
+      "duration_ms": 142996,
+      "name": "Yesu Nitie Nguvu",
+      "url": "https://open.spotify.com/track/6ei3elKMjid5GSnWAXwS6q"
     },
     {
       "added_at": "2023-07-28 00:01:00",
@@ -507,22 +507,18 @@
     {
       "added_at": "2023-07-28 00:01:00",
       "album": {
-        "name": "The Sound of Redemption",
-        "url": "https://open.spotify.com/album/33eTjDxci5pBddq5SAJome"
+        "name": "Mkono Wa Bwana",
+        "url": "https://open.spotify.com/album/5oXO7E3vFCkWTfdwkZDckF"
       },
       "artists": [
         {
-          "name": "Mabongi",
-          "url": "https://open.spotify.com/artist/0uSRQHujTrrx0z341H366j"
-        },
-        {
-          "name": "Khaya Mthethwa",
-          "url": "https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ"
+          "name": "Zabron Singers",
+          "url": "https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP"
         }
       ],
-      "duration_ms": 403568,
-      "name": "We Worship",
-      "url": "https://open.spotify.com/track/6df95vCVl83PMM0SHJp9CP"
+      "duration_ms": 349492,
+      "name": "Mkono Wa Bwana",
+      "url": "https://open.spotify.com/track/0I5hC840hWZCo3nGTptRm5"
     },
     {
       "added_at": "2023-07-28 00:01:00",
@@ -543,18 +539,22 @@
     {
       "added_at": "2023-07-28 00:01:00",
       "album": {
-        "name": "Mkono Wa Bwana",
-        "url": "https://open.spotify.com/album/5oXO7E3vFCkWTfdwkZDckF"
+        "name": "The Sound of Redemption",
+        "url": "https://open.spotify.com/album/33eTjDxci5pBddq5SAJome"
       },
       "artists": [
         {
-          "name": "Zabron Singers",
-          "url": "https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP"
+          "name": "Mabongi",
+          "url": "https://open.spotify.com/artist/0uSRQHujTrrx0z341H366j"
+        },
+        {
+          "name": "Khaya Mthethwa",
+          "url": "https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ"
         }
       ],
-      "duration_ms": 349492,
-      "name": "Mkono Wa Bwana",
-      "url": "https://open.spotify.com/track/0I5hC840hWZCo3nGTptRm5"
+      "duration_ms": 403568,
+      "name": "We Worship",
+      "url": "https://open.spotify.com/track/6df95vCVl83PMM0SHJp9CP"
     },
     {
       "added_at": "2023-07-28 00:01:00",
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-07-28 00:01:00",
       "album": {
+        "name": "Sweetie Sweetie",
+        "url": "https://open.spotify.com/album/1gp2BVV3amp3NTsJN59IOg"
+      },
+      "artists": [
+        {
+          "name": "Zabron Singers",
+          "url": "https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP"
+        }
+      ],
+      "duration_ms": 316473,
+      "name": "Sweetie Sweetie",
+      "url": "https://open.spotify.com/track/3mnMhG3NCpHuWixUJSZADP"
+    },
+    {
+      "added_at": "2023-07-28 00:01:00",
+      "album": {
         "name": "Praise Him",
         "url": "https://open.spotify.com/album/0gQuGIBnEH02dMRsj76gKZ"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 324808,
       "name": "Praise Him",
       "url": "https://open.spotify.com/track/0Q4g7Rwa40qx134hPutVFx"
-    },
-    {
-      "added_at": "2023-07-28 00:01:00",
-      "album": {
-        "name": "Sweetie Sweetie",
-        "url": "https://open.spotify.com/album/1gp2BVV3amp3NTsJN59IOg"
-      },
-      "artists": [
-        {
-          "name": "Zabron Singers",
-          "url": "https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP"
-        }
-      ],
-      "duration_ms": 316473,
-      "name": "Sweetie Sweetie",
-      "url": "https://open.spotify.com/track/3mnMhG3NCpHuWixUJSZADP"
     },
     {
       "added_at": "2023-07-28 00:01:00",

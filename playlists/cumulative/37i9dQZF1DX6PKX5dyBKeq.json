@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: M24",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Digga D, Potter Payper",
   "name": "Rap UK",
   "tracks": [
     {
@@ -2678,6 +2678,24 @@
       "duration_ms": 175375,
       "name": "Back In Blood",
       "url": "https://open.spotify.com/track/2lqFZ1vSoo1kp0SAGTnIIu"
+    },
+    {
+      "album": {
+        "name": "Back Roads",
+        "url": "https://open.spotify.com/album/7votxdx09a2hCokvqw36u6"
+      },
+      "artists": [
+        {
+          "name": "Rekky",
+          "url": "https://open.spotify.com/artist/54IreLxiWh2cNh8KALRmZC"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194455,
+      "name": "Back Roads",
+      "url": "https://open.spotify.com/track/0808GWyq2snY4C53X6CzkR"
     },
     {
       "album": {
@@ -7700,7 +7718,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 182387,
       "name": "Day Date",
       "url": "https://open.spotify.com/track/5hpVI4uROr6e4RBQJzBwB7"
@@ -10280,6 +10298,28 @@
       "duration_ms": 164226,
       "name": "F U Pay Me (feat. Ivorian Doll & Kenny Beats)",
       "url": "https://open.spotify.com/track/3uHjh0uhRtP3EIySEBooRF"
+    },
+    {
+      "album": {
+        "name": "Facade",
+        "url": "https://open.spotify.com/album/0Y938j5d5KXfJFfSirRXRx"
+      },
+      "artists": [
+        {
+          "name": "Digga D",
+          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
+        },
+        {
+          "name": "Potter Payper",
+          "url": "https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Facade",
+      "url": "https://open.spotify.com/track/48i8sfmvRIQpWv7gCqacLO"
     },
     {
       "album": {
@@ -17923,6 +17963,24 @@
     },
     {
       "album": {
+        "name": "More Money More Problems",
+        "url": "https://open.spotify.com/album/01EayXsvhd2wpvIcryfkEO"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177103,
+      "name": "More Money More Problems",
+      "url": "https://open.spotify.com/track/0VC8IBllrQImnLk0TCJmKH"
+    },
+    {
+      "album": {
         "name": "Mortal Kombat (Remix)",
         "url": "https://open.spotify.com/album/3TXqiLvDzTYwr3SS3w23vg"
       },
@@ -22326,6 +22384,28 @@
       "duration_ms": 230000,
       "name": "Put the Word Out",
       "url": "https://open.spotify.com/track/044n83TLJ3mFlxyUs5OlAT"
+    },
+    {
+      "album": {
+        "name": "Quarter Past 3",
+        "url": "https://open.spotify.com/album/1SoQjAypvaAqJnnahGAM2j"
+      },
+      "artists": [
+        {
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
+        },
+        {
+          "name": "Eric IV",
+          "url": "https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175600,
+      "name": "Quarter Past 3",
+      "url": "https://open.spotify.com/track/6xMkGgRgCPXAH7gnwEXCSL"
     },
     {
       "album": {

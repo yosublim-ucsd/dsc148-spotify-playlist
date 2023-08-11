@@ -705,6 +705,24 @@
     },
     {
       "album": {
+        "name": "Cinema",
+        "url": "https://open.spotify.com/album/1fMxTQ3HXmiIiCmsdjcLjv"
+      },
+      "artists": [
+        {
+          "name": "JKRS",
+          "url": "https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114209,
+      "name": "Cinema",
+      "url": "https://open.spotify.com/track/6ZCAoPaurm8pUPDj6bODf2"
+    },
+    {
+      "album": {
         "name": "Classicore",
         "url": "https://open.spotify.com/album/286hhJXW53YZ0ucrec4qnM"
       },

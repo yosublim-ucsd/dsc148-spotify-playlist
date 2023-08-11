@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 
 > Deja que el sentimiento de los boleros te enamore a la antigua.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,843 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,901 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 | 69 | [Mira Que Eres Linda](https://open.spotify.com/track/3QMnlOZnTJtoJwyizN832A) | [Roberto Ledesma](https://open.spotify.com/artist/2Ejmg38PVquSCqD7ijebmY) | [El Estilo de Roberto Ledesma](https://open.spotify.com/album/2cW8xEyy96yugn4JzlSsBM) | 2:54 |
 | 70 | [Mi Manera De Amar](https://open.spotify.com/track/65JC1aD0zlq5RQ7Q8zQuss) | [Nelson Ned](https://open.spotify.com/artist/1qBGWp46vgiATN7mfKJd3s) | [Antologia \(Volumen 2\)](https://open.spotify.com/album/3CwmmU7lkxHxEOdynw1nLy) | 4:11 |
 | 71 | [Maria Bonita](https://open.spotify.com/track/4997YRP3x3LNG7D81e0mrh) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Maria Bonita](https://open.spotify.com/album/6gO7t964RdRQy59RuoZMzJ) | 3:23 |
-| 72 | [Amor Mío / Sabrá Dios / Sabor a Mi](https://open.spotify.com/track/1lS7wZgXsADesTLXgWfm3b) | [Alvaro Carrillo](https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp) | [Los Exitos de Alvaro Carrillo](https://open.spotify.com/album/1ceMVDdh3VaZex0OxWEg0Y) | 4:40 |
-| 73 | [Siempre en mi corazón](https://open.spotify.com/track/2UqNczc1kGWblKfEXOydTy) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Omara Portuondo \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/49I0jh6YTRjT56eqZvR0fs) | 3:42 |
+| 72 | [Siempre en mi corazón](https://open.spotify.com/track/2UqNczc1kGWblKfEXOydTy) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Omara Portuondo \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/49I0jh6YTRjT56eqZvR0fs) | 3:42 |
+| 73 | [Amor Mío / Sabrá Dios / Sabor a Mi](https://open.spotify.com/track/1lS7wZgXsADesTLXgWfm3b) | [Alvaro Carrillo](https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp) | [Los Exitos de Alvaro Carrillo](https://open.spotify.com/album/1ceMVDdh3VaZex0OxWEg0Y) | 4:40 |
 | 74 | [Cuando Ya No Me Quieras](https://open.spotify.com/track/1RfB1vZYB2mi6RSSwgMU6c) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS), [La Rondalla Venezolano](https://open.spotify.com/artist/11GKNHRvLhiNRKFGf8Rvk9) | [Eternamente](https://open.spotify.com/album/5DyJdvitTIEd4ncxUL0XHQ) | 3:03 |
 | 75 | [El Reloj](https://open.spotify.com/track/6sGUQrIkp6qqgrddIeGNLx) | [Pedro Vargas](https://open.spotify.com/artist/1ZsL2cs2MYJKqwkVwdGtOd) | [Dos Leyendas del Bolero](https://open.spotify.com/album/6kMY1yrxN1jwuH0rjihCnk) | 2:57 |
 
-Snapshot ID: `MCxjM2ZjZDc4NTZmMjBlODM3Mjc3ZmEzZTIyOTE2NGQ4NDUxZjJmYWZj`
+Snapshot ID: `MCw0NjJjYjNhMWNiZTk5NmE3OWIxZDk4NGI5ZjU2M2M0NGE0ZTBlM2M0`

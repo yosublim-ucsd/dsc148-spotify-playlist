@@ -4,7 +4,7 @@
 
 > I rapper più forti del mondo in una sola playlist\. Cover: Travis Scott
 
-376 songs - 19 hr 41 min
+377 songs - 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [In My Head](https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [In My Head](https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql) | 2:15 | 2022-05-10 |  |
 | [Is This Love \('09\) \(feat\. 50 Cent\)](https://open.spotify.com/track/7rK0iM6jwuo1oizdx8suQA) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Curtain Call 2](https://open.spotify.com/album/3aTuW4BtsyyyyQa9LKqj8n) | 3:32 | 2022-08-05 | 2022-09-07 |
 | [It's Crazy \- Single Version](https://open.spotify.com/track/03P20c2fQ6SGnyyvngIdmG) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [It's Crazy](https://open.spotify.com/album/4zdADqVJvqP6tBd74SJlqQ) | 3:20 | 2023-06-02 | 2023-07-06 |
+| [It's Getting Hot](https://open.spotify.com/track/4lMyi03aRk8nPBLLGyqAVz) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [It's Getting Hot](https://open.spotify.com/album/5c96P3dSu3UIgrGhIaE7RO) | 2:14 | 2023-08-10 |  |
 | [Je M'appelle](https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN) | [Benzz](https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh) | [Je M'appelle](https://open.spotify.com/album/6T6uWGOSAUhvoZfLlIyDuJ) | 2:19 | 2022-05-25 |  |
 | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL) | 2:54 | 2023-07-28 |  |
 | [JETSKI \(feat\. Lil Mosey & Lil Tecca\)](https://open.spotify.com/track/2vl0D1b0M6UHlD1Fjh5j1m) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [JETSKI \(feat\. Lil Mosey & Lil Tecca\)](https://open.spotify.com/album/6KlDmO6ziOvGd42w7Abt3a) | 2:45 | 2022-05-10 | 2022-08-26 |
@@ -229,7 +230,7 @@
 | [Need Me](https://open.spotify.com/track/7a636g0dl8a487foiAcoCM) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Need Me](https://open.spotify.com/album/453LC2RXr0Yv6M86esUdqm) | 2:18 | 2023-05-19 | 2023-05-26 |
 | [Needed That](https://open.spotify.com/track/1Pgu551wrKnGA82NiytP9G) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [Me vs\. Myself \(Deluxe\)](https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv) | 3:26 | 2022-12-16 | 2023-01-18 |
 | [NEVER LEFT](https://open.spotify.com/track/21UkXrc9kD48rNpTMI2ecz) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [NEVER LEFT](https://open.spotify.com/album/0PMJvFnZxXl9LToaZFHhxp) | 2:48 | 2022-05-10 | 2022-08-27 |
-| [Never Sleep \(with Lil Baby feat\. Travis Scott\)](https://open.spotify.com/track/3GdWfmQBiiJrDUvSZS1bGv) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Never Sleep](https://open.spotify.com/album/4DTaEd8bTR412zUcBqv2VN) | 3:05 | 2022-07-29 |  |
+| [Never Sleep \(with Lil Baby feat\. Travis Scott\)](https://open.spotify.com/track/3GdWfmQBiiJrDUvSZS1bGv) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Never Sleep](https://open.spotify.com/album/4DTaEd8bTR412zUcBqv2VN) | 3:05 | 2022-07-29 | 2023-08-11 |
 | [Night Away \(Dance\) \(feat\. Tion Wayne\)](https://open.spotify.com/track/7z5G2LOdV8okZn4yWg3q5g) | [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Night Away \(Dance\) \(feat\. Tion Wayne\)](https://open.spotify.com/album/6WQPgcOtZCoXGBZQOxDJQ0) | 2:55 | 2022-05-10 |  |
 | [Niños Pequeños](https://open.spotify.com/track/3W2JCHBZtLkJs2BtMPBz7g) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Niños Pequeños](https://open.spotify.com/album/58KEzwxGgV6XxpO0Rt1bXV) | 4:17 | 2023-03-25 | 2023-04-27 |
 | [NO LÈCHE](https://open.spotify.com/track/6D1HiF2e3Z0F8FwQ5uLxwn) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [NO LÈCHE 🚫👅 \(feat\. Favé, Kerchak & Leto\)](https://open.spotify.com/album/6HGMONyziFfUCEpMdwbzZn) | 3:14 | 2023-03-16 | 2023-06-06 |

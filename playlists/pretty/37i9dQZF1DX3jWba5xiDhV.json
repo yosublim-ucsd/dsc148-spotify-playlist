@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 148357,
+  "num_followers": 148727,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2EzMjk3M2RkODlhNDNjNWI0ZWEyZmVlYmEzYjVjOGM2ZTFlY2Iz",
+  "snapshot_id": "MCw1OTk4YmIzOWQ2ZGZkMzI2NWM4ZWJlMDUwZDg3NjQ1NWEyNzUwODdl",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "I Need You Tonight / Tonight",
-        "url": "https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67"
-      },
-      "artists": [
-        {
-          "name": "Punkin Machine",
-          "url": "https://open.spotify.com/artist/7oc9zyI7Oi70GGiz7B6LVK"
-        }
-      ],
-      "duration_ms": 338844,
-      "name": "I Need You Tonight",
-      "url": "https://open.spotify.com/track/12SY1IDzol5dg1yBTUoKYx"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "3 - Supernature",
         "url": "https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 585374,
       "name": "Supernature",
       "url": "https://open.spotify.com/track/00RHrZB3i6B6PwX30ouZBK"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "I Need You Tonight / Tonight",
+        "url": "https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67"
+      },
+      "artists": [
+        {
+          "name": "Punkin Machine",
+          "url": "https://open.spotify.com/artist/7oc9zyI7Oi70GGiz7B6LVK"
+        }
+      ],
+      "duration_ms": 338844,
+      "name": "I Need You Tonight",
+      "url": "https://open.spotify.com/track/12SY1IDzol5dg1yBTUoKYx"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "3 - Supernature",
-        "url": "https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR"
-      },
-      "artists": [
-        {
-          "name": "Cerrone",
-          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
-        }
-      ],
-      "duration_ms": 462000,
-      "name": "Give Me Love",
-      "url": "https://open.spotify.com/track/2ffCT6Pe2LYriwN2Y5ObIg"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Vado al massimo (Remastered)",
         "url": "https://open.spotify.com/album/6E94kQ6nvwprEL5XtidoxM"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 279213,
       "name": "Splendida giornata",
       "url": "https://open.spotify.com/track/01lvgdQKXkM8AHUXRhawMk"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "3 - Supernature",
+        "url": "https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR"
+      },
+      "artists": [
+        {
+          "name": "Cerrone",
+          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
+        }
+      ],
+      "duration_ms": 462000,
+      "name": "Give Me Love",
+      "url": "https://open.spotify.com/track/2ffCT6Pe2LYriwN2Y5ObIg"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Another Life (LP)",
-        "url": "https://open.spotify.com/album/6l4UUXmkTxaVmZtUxkl9xw"
-      },
-      "artists": [
-        {
-          "name": "Kano",
-          "url": "https://open.spotify.com/artist/24DinDXSaOyHPz3JhdL9Qb"
-        }
-      ],
-      "duration_ms": 432080,
-      "name": "Another Life - Original",
-      "url": "https://open.spotify.com/track/6Yo813UNQqb04YoU1wYz5e"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Ma quale idea (Myd Remix)",
         "url": "https://open.spotify.com/album/0mRoBEyOI7MmBwtHpDOliY"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 219140,
       "name": "Ma quale idea - Myd Remix (Radio Edit)",
       "url": "https://open.spotify.com/track/1G3jHsWf0F40SxCRQV6oxR"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Another Life (LP)",
+        "url": "https://open.spotify.com/album/6l4UUXmkTxaVmZtUxkl9xw"
+      },
+      "artists": [
+        {
+          "name": "Kano",
+          "url": "https://open.spotify.com/artist/24DinDXSaOyHPz3JhdL9Qb"
+        }
+      ],
+      "duration_ms": 432080,
+      "name": "Another Life - Original",
+      "url": "https://open.spotify.com/track/6Yo813UNQqb04YoU1wYz5e"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Melody",
-        "url": "https://open.spotify.com/album/6wxav4nCiImWwjtyRsNBcz"
-      },
-      "artists": [
-        {
-          "name": "Plustwo",
-          "url": "https://open.spotify.com/artist/5bHicu5GncBzOsjUFsooLK"
-        }
-      ],
-      "duration_ms": 231691,
-      "name": "Melody (1983 Radio Version)",
-      "url": "https://open.spotify.com/track/78q9spnn1sK4UBefjvKjeJ"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Radio Koko",
         "url": "https://open.spotify.com/album/669LnrL7wSJOhiwQxRM8gT"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 261330,
       "name": "Pantal\u00f3n",
       "url": "https://open.spotify.com/track/0eOUXa1w5m7roVWO0nj1ZF"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Melody",
+        "url": "https://open.spotify.com/album/6wxav4nCiImWwjtyRsNBcz"
+      },
+      "artists": [
+        {
+          "name": "Plustwo",
+          "url": "https://open.spotify.com/artist/5bHicu5GncBzOsjUFsooLK"
+        }
+      ],
+      "duration_ms": 231691,
+      "name": "Melody (1983 Radio Version)",
+      "url": "https://open.spotify.com/track/78q9spnn1sK4UBefjvKjeJ"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Baby I Love You (Original) - Single",
+        "url": "https://open.spotify.com/album/7LZpZKT1adV23tV8AJe44U"
+      },
+      "artists": [
+        {
+          "name": "Easy Going",
+          "url": "https://open.spotify.com/artist/3t1n3uomLdEAVdSc5WkVf1"
+        }
+      ],
+      "duration_ms": 503920,
+      "name": "Baby I Love You",
+      "url": "https://open.spotify.com/track/0GpbUTVkLhMb200mH8WBOW"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Polydans Remixes",
         "url": "https://open.spotify.com/album/277wPb0R66H8K90bJMksyG"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 239788,
       "name": "Feels Right - Gerd Janson Remix - Radio Edit",
       "url": "https://open.spotify.com/track/0x7IgG3pJHBUoULcsaPFpr"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Baby I Love You (Original) - Single",
-        "url": "https://open.spotify.com/album/7LZpZKT1adV23tV8AJe44U"
-      },
-      "artists": [
-        {
-          "name": "Easy Going",
-          "url": "https://open.spotify.com/artist/3t1n3uomLdEAVdSc5WkVf1"
-        }
-      ],
-      "duration_ms": 503920,
-      "name": "Baby I Love You",
-      "url": "https://open.spotify.com/track/0GpbUTVkLhMb200mH8WBOW"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Broken Heart",
-        "url": "https://open.spotify.com/album/5QQWiz7uWHlv8Efx9cQ43j"
-      },
-      "artists": [
-        {
-          "name": "David Jackson",
-          "url": "https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV"
-        }
-      ],
-      "duration_ms": 404766,
-      "name": "Broken Heart",
-      "url": "https://open.spotify.com/track/1Pusg3VSg72pqjnuu81jER"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Hildegard",
         "url": "https://open.spotify.com/album/0yQoPb6j25V0z7roi0wUIG"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 281840,
       "name": "Hildegard",
       "url": "https://open.spotify.com/track/57wQqbZdJQL3qgDc9aql3e"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Broken Heart",
+        "url": "https://open.spotify.com/album/5QQWiz7uWHlv8Efx9cQ43j"
+      },
+      "artists": [
+        {
+          "name": "David Jackson",
+          "url": "https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV"
+        }
+      ],
+      "duration_ms": 404766,
+      "name": "Broken Heart",
+      "url": "https://open.spotify.com/track/1Pusg3VSg72pqjnuu81jER"
     }
   ],
   "unique_name": "Italo Disco",

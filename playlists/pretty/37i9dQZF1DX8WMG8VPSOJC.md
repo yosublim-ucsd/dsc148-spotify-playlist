@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 
 > Nothing but beautiful country love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,675,016 likes - 85 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,675,260 likes - 85 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 | 84 | [Parallel Line](https://open.spotify.com/track/567gPvGfxxKoZxDKqM9tEl) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 4:13 |
 | 85 | [To Hell & Back](https://open.spotify.com/track/4Yy1VOdLAX7MuKQOcivV4O) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:15 |
 
-Snapshot ID: `MCwwMmJhMTAyNzlmOTA0Yzc5ZDQyNjYzZWE5MDQxYWY2YjRhNmNlMGI5`
+Snapshot ID: `MCw2MzM4MjMxNThiMDQyMTBkZGNhYmMxYTdiNzUwM2VjZGI4NjcyMjQz`

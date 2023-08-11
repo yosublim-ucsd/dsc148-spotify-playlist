@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nos vemos el 17, 18 y 19 de Febrero en Las Estacas para disfrutar juntos! \u00bfA qui\u00e9n no te vas a perder? ",
-  "num_followers": 11736,
+  "num_followers": 11735,
   "original_name": "Carnaval de Bahidor\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MmZhYmZhMmVkZDg3YTBjZDE0YzdlYjZmZDIzOTkyMzg0NmIxMzJl",
+  "snapshot_id": "MCwyMjQ4OGRkM2EyYTc3MjVmMDg3Nzg2OWE0ZGNlMWQyOGM1NmUzNDlk",
   "tracks": [
     {
       "added_at": "2023-02-03 06:30:00",
@@ -343,6 +343,26 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
+        "name": "Tawk Tomahawk",
+        "url": "https://open.spotify.com/album/3s7dB6EHrYkaWjzfVbZfCo"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        },
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+        }
+      ],
+      "duration_ms": 275320,
+      "name": "Nakamarra",
+      "url": "https://open.spotify.com/track/23D6FgVV4VygFfJxAtk72J"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
         "name": "Miss Colombia",
         "url": "https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y"
       },
@@ -371,26 +391,6 @@
       "duration_ms": 325760,
       "name": "Merci \u00c9clair",
       "url": "https://open.spotify.com/track/0tGWcbplNiSkw8RxhMPuMJ"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
-        "name": "Tawk Tomahawk",
-        "url": "https://open.spotify.com/album/3s7dB6EHrYkaWjzfVbZfCo"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        },
-        {
-          "name": "Q-Tip",
-          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
-        }
-      ],
-      "duration_ms": 275320,
-      "name": "Nakamarra",
-      "url": "https://open.spotify.com/track/23D6FgVV4VygFfJxAtk72J"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
-        "name": "Silent Spring EP",
-        "url": "https://open.spotify.com/album/2fz4ZOEnLKXo8cLUzDLC2u"
-      },
-      "artists": [
-        {
-          "name": "Stavroz",
-          "url": "https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T"
-        }
-      ],
-      "duration_ms": 435041,
-      "name": "Should've Brought an Umbrella",
-      "url": "https://open.spotify.com/track/6MDdQPkqN2K9xOyccN6Oj9"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
         "name": "Juntura",
         "url": "https://open.spotify.com/album/117GdDdyYQyaR3ddgcp1EN"
       },
@@ -503,6 +487,22 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
+        "name": "Silent Spring EP",
+        "url": "https://open.spotify.com/album/2fz4ZOEnLKXo8cLUzDLC2u"
+      },
+      "artists": [
+        {
+          "name": "Stavroz",
+          "url": "https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T"
+        }
+      ],
+      "duration_ms": 435041,
+      "name": "Should've Brought an Umbrella",
+      "url": "https://open.spotify.com/track/6MDdQPkqN2K9xOyccN6Oj9"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
         "name": "Femme Tech",
         "url": "https://open.spotify.com/album/3oMUty55rKKpoCrA0mme5J"
       },
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
-        "name": "Phase",
-        "url": "https://open.spotify.com/album/2YuHj1L5CPyZaFYrBfgbu6"
-      },
-      "artists": [
-        {
-          "name": "Mildlife",
-          "url": "https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3"
-        }
-      ],
-      "duration_ms": 289280,
-      "name": "Zwango Zop",
-      "url": "https://open.spotify.com/track/6MhQIRqZhXXjQYgyXewTmv"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
         "name": "KOKOROKO",
         "url": "https://open.spotify.com/album/7DEDf5W3DlySzcs4CQuiuF"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 372386,
       "name": "Ti-de",
       "url": "https://open.spotify.com/track/4Hkcul01Ct8ToAZkc71Ktf"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
+        "name": "Phase",
+        "url": "https://open.spotify.com/album/2YuHj1L5CPyZaFYrBfgbu6"
+      },
+      "artists": [
+        {
+          "name": "Mildlife",
+          "url": "https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3"
+        }
+      ],
+      "duration_ms": 289280,
+      "name": "Zwango Zop",
+      "url": "https://open.spotify.com/track/6MhQIRqZhXXjQYgyXewTmv"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -615,6 +615,30 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
+        "name": "SHUT UP",
+        "url": "https://open.spotify.com/album/7llnim2vHi8vZJAsshGC34"
+      },
+      "artists": [
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
+        },
+        {
+          "name": "Lee Eye",
+          "url": "https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX"
+        },
+        {
+          "name": "Blackthoven",
+          "url": "https://open.spotify.com/artist/6KhtkRzbD5IKjYOlHanIjS"
+        }
+      ],
+      "duration_ms": 168107,
+      "name": "SHUT UP",
+      "url": "https://open.spotify.com/track/3uuohe7EVxzW8UqnSIAAuc"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
         "name": "Reverie",
         "url": "https://open.spotify.com/album/4gOjvaMgNOZ2u3ip4P3hSk"
       },
@@ -643,30 +667,6 @@
       "duration_ms": 217466,
       "name": "Tanto",
       "url": "https://open.spotify.com/track/1JXgpyoUNXqGb6aLy3zhRK"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
-        "name": "SHUT UP",
-        "url": "https://open.spotify.com/album/7llnim2vHi8vZJAsshGC34"
-      },
-      "artists": [
-        {
-          "name": "SIMONA",
-          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
-        },
-        {
-          "name": "Lee Eye",
-          "url": "https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX"
-        },
-        {
-          "name": "Blackthoven",
-          "url": "https://open.spotify.com/artist/6KhtkRzbD5IKjYOlHanIjS"
-        }
-      ],
-      "duration_ms": 168107,
-      "name": "SHUT UP",
-      "url": "https://open.spotify.com/track/3uuohe7EVxzW8UqnSIAAuc"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
-        "name": "The Only Way Out Is In",
-        "url": "https://open.spotify.com/album/1A5nm5ciRNT5KyhHxM8Cko"
-      },
-      "artists": [
-        {
-          "name": "Suricata",
-          "url": "https://open.spotify.com/artist/2xKpXTLYPN7jd325QEb65b"
-        }
-      ],
-      "duration_ms": 346075,
-      "name": "Igwee",
-      "url": "https://open.spotify.com/track/1h9RSsiwju4Ioz5Q6rMXd0"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
         "name": "Vida Ventura",
         "url": "https://open.spotify.com/album/5VosrSVY4pQ56SCZ83L8NI"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 254211,
       "name": "Dos Amantes",
       "url": "https://open.spotify.com/track/43UQT0PI9nO4vs8HDNF3O1"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
+        "name": "The Only Way Out Is In",
+        "url": "https://open.spotify.com/album/1A5nm5ciRNT5KyhHxM8Cko"
+      },
+      "artists": [
+        {
+          "name": "Suricata",
+          "url": "https://open.spotify.com/artist/2xKpXTLYPN7jd325QEb65b"
+        }
+      ],
+      "duration_ms": 346075,
+      "name": "Igwee",
+      "url": "https://open.spotify.com/track/1h9RSsiwju4Ioz5Q6rMXd0"
     },
     {
       "added_at": "2023-02-03 06:30:00",

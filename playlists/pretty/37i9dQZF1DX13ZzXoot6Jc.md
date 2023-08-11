@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 
 > A collection of country hits that will have you singing every word\. Cover: Bailey Zimmerman
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,706 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,736 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 74 | [Truth About You](https://open.spotify.com/track/0M0YznaIOwAdoo2cT2KwpK) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Midtown Diaries](https://open.spotify.com/album/50zMs3AwxduoOoQoN17955) | 3:23 |
 | 75 | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe) | 3:14 |
 | 76 | [Last Night Lonely](https://open.spotify.com/track/3SeeaIXnrCfT88vHVCRWHl) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Last Night Lonely](https://open.spotify.com/album/6RVASKYeyPoQCjExSbmpzp) | 3:01 |
-| 77 | [Long Live](https://open.spotify.com/track/0YfRAYTNTNszGg8VARrSIH) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Life Rolls On](https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY) | 2:33 |
-| 78 | [Never Say Never \(with Lainey Wilson\)](https://open.spotify.com/track/3iYEsBl8NBq1o1j5uY2Noe) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Stereotype](https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa) | 2:56 |
+| 77 | [Never Say Never \(with Lainey Wilson\)](https://open.spotify.com/track/3iYEsBl8NBq1o1j5uY2Noe) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Stereotype](https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa) | 2:56 |
+| 78 | [Long Live](https://open.spotify.com/track/0YfRAYTNTNszGg8VARrSIH) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Life Rolls On](https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY) | 2:33 |
 | 79 | [7500 OBO](https://open.spotify.com/track/7A4WmJcWx6KrVRfQ2CP8e7) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Here On Earth](https://open.spotify.com/album/1txWLNMKiZ5K6ezFMtyjLM) | 3:41 |
 | 80 | [No Bad Days \(featuring Jimmie Allen\)](https://open.spotify.com/track/2ZX3qn7oFWV8vZbBTsz48W) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [No Bad Days \(featuring Jimmie Allen\)](https://open.spotify.com/album/2s8PwYZk8iDjHhhZXCrnzr) | 2:25 |
 | 81 | [Memory I Don't Mess With](https://open.spotify.com/track/7BQE1P0NUalHSvFtrxasx9) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Memory I Don't Mess With](https://open.spotify.com/album/2HDp9JJaUtB2xU02QGlUif) | 3:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 99 | [Keith](https://open.spotify.com/track/7pcekwb2T8L4MIc29f9GXB) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Keith](https://open.spotify.com/album/7dWCUs7VGjsopOEB6VoQYv) | 2:51 |
 | 100 | [Shakin' In Them Boots](https://open.spotify.com/track/7zwi0kPSFtdNUNIXZlKfNF) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Shakin' In Them Boots](https://open.spotify.com/album/12JRLrNicKNlQDu5zNKaF3) | 2:49 |
 
-Snapshot ID: `MCxlYjgzM2QwNjc0YTJjMzAyNDQyMWYyNTYwNWIzM2VlYjY5ZWRiNzAw`
+Snapshot ID: `MCwwNjU0NjI1YzY4NjU3NGY2NGUzOTk2NWQ3OGU1NWM3ZTRiYTkxYTQy`

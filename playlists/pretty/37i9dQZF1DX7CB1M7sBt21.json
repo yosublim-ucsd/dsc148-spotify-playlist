@@ -1,12 +1,12 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 4040,
+  "num_followers": 4057,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzY0NmEzNzY5ZWRjM2YzODkzOGZmNzllMTYyOWRlMGU3YmJjNjY2",
+  "snapshot_id": "MCwwMWJmYjBjZDRhZTBmM2EzYzBiOWYxZWFhMTVlNmI0MWZkZDhkN2Y2",
   "tracks": [
     {
       "added_at": "2023-08-03 22:00:00",
@@ -839,26 +839,6 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Off Of My Mind",
-        "url": "https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        },
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        }
-      ],
-      "duration_ms": 164739,
-      "name": "Off Of My Mind",
-      "url": "https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 145174,
       "name": "Only You",
       "url": "https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Off Of My Mind",
+        "url": "https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        }
+      ],
+      "duration_ms": 164739,
+      "name": "Off Of My Mind",
+      "url": "https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj"
     },
     {
       "added_at": "2023-08-03 22:00:00",

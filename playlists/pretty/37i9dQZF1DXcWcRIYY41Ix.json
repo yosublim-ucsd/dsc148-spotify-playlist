@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Feli Colina.",
-  "num_followers": 115049,
+  "num_followers": 115088,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjM1ODIwMjJkMjdjZDk5MDU3ODU0MzZkOTdhMzRiZjgxYzdkY2Ji",
+  "snapshot_id": "MCw3MzliMjA2MmU0ZDM4ZWEyZWIzOWFmYzkwZTM1ODQ2ZjhjODc3MGI3",
   "tracks": [
     {
       "added_at": "2023-08-04 06:00:00",
@@ -251,18 +251,18 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Perot\u00e1 Ching\u00f3",
-        "url": "https://open.spotify.com/album/5XmjAhsZGqo1jyxickY36s"
+        "name": "Laura Itandehui",
+        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
       },
       "artists": [
         {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
         }
       ],
-      "duration_ms": 309044,
-      "name": "Rie Chinito",
-      "url": "https://open.spotify.com/track/2xtOCbkXoyEXS06TPG1fWd"
+      "duration_ms": 171750,
+      "name": "Yo no Necesito de Mucho",
+      "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -283,18 +283,18 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Laura Itandehui",
-        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
+        "name": "Perot\u00e1 Ching\u00f3",
+        "url": "https://open.spotify.com/album/5XmjAhsZGqo1jyxickY36s"
       },
       "artists": [
         {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
         }
       ],
-      "duration_ms": 171750,
-      "name": "Yo no Necesito de Mucho",
-      "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
+      "duration_ms": 309044,
+      "name": "Rie Chinito",
+      "url": "https://open.spotify.com/track/2xtOCbkXoyEXS06TPG1fWd"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -839,26 +839,6 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Camino Que Pasa",
-        "url": "https://open.spotify.com/album/2A8gutTW0ZnIgz4mX7P1Zl"
-      },
-      "artists": [
-        {
-          "name": "Sandra Bernardo",
-          "url": "https://open.spotify.com/artist/5JKn780F1w5aPxnMZEmA5H"
-        },
-        {
-          "name": "Natalia Doco",
-          "url": "https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN"
-        }
-      ],
-      "duration_ms": 180157,
-      "name": "Camino Que Pasa",
-      "url": "https://open.spotify.com/track/5qrVNXz5lCpjPnjAagWl6U"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
         "name": "El Viejo Comunista",
         "url": "https://open.spotify.com/album/6xLc750yH5hvpYht5mwQke"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 297000,
       "name": "El Viejo Comunista",
       "url": "https://open.spotify.com/track/191TTysYtqFsUwyfTxjaGX"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Camino Que Pasa",
+        "url": "https://open.spotify.com/album/2A8gutTW0ZnIgz4mX7P1Zl"
+      },
+      "artists": [
+        {
+          "name": "Sandra Bernardo",
+          "url": "https://open.spotify.com/artist/5JKn780F1w5aPxnMZEmA5H"
+        },
+        {
+          "name": "Natalia Doco",
+          "url": "https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN"
+        }
+      ],
+      "duration_ms": 180157,
+      "name": "Camino Que Pasa",
+      "url": "https://open.spotify.com/track/5qrVNXz5lCpjPnjAagWl6U"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1107,38 +1107,6 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Tu Casa",
-        "url": "https://open.spotify.com/album/6dSpLVlPWRBp09hNAIQrNH"
-      },
-      "artists": [
-        {
-          "name": "Lola Parda",
-          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
-        }
-      ],
-      "duration_ms": 200213,
-      "name": "Tu Casa",
-      "url": "https://open.spotify.com/track/4mnFuqhIJ0IgSbEe3HymeU"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "Un Golpe de Suerte",
-        "url": "https://open.spotify.com/album/6GYXrEPO9rtxkNeeDeTae4"
-      },
-      "artists": [
-        {
-          "name": "Carmen Boza",
-          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
-        }
-      ],
-      "duration_ms": 269932,
-      "name": "Un Golpe de Suerte",
-      "url": "https://open.spotify.com/track/2p0oHRooKITKxv3UbjgDzg"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
         "name": "Lo Primero",
         "url": "https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q"
       },
@@ -1159,18 +1127,50 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Algo Ritmos",
-        "url": "https://open.spotify.com/album/7t08JufrTZPsZnyI8p47nc"
+        "name": "Un Golpe de Suerte",
+        "url": "https://open.spotify.com/album/6GYXrEPO9rtxkNeeDeTae4"
       },
       "artists": [
         {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+          "name": "Carmen Boza",
+          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
         }
       ],
-      "duration_ms": 236361,
-      "name": "Solo Le Dije",
-      "url": "https://open.spotify.com/track/4KGzk03tmRmFmujHBtvtzH"
+      "duration_ms": 269932,
+      "name": "Un Golpe de Suerte",
+      "url": "https://open.spotify.com/track/2p0oHRooKITKxv3UbjgDzg"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Tu Casa",
+        "url": "https://open.spotify.com/album/6dSpLVlPWRBp09hNAIQrNH"
+      },
+      "artists": [
+        {
+          "name": "Lola Parda",
+          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "Tu Casa",
+      "url": "https://open.spotify.com/track/4mnFuqhIJ0IgSbEe3HymeU"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "La Malquerida",
+        "url": "https://open.spotify.com/album/3DHUbCkvnVbIE6vCpgoh6n"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 485717,
+      "name": "La Malquerida - En Vivo",
+      "url": "https://open.spotify.com/track/4ad6yyRJHSd0AGUmXU1mvQ"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "La Malquerida",
-        "url": "https://open.spotify.com/album/3DHUbCkvnVbIE6vCpgoh6n"
+        "name": "Algo Ritmos",
+        "url": "https://open.spotify.com/album/7t08JufrTZPsZnyI8p47nc"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
         }
       ],
-      "duration_ms": 485717,
-      "name": "La Malquerida - En Vivo",
-      "url": "https://open.spotify.com/track/4ad6yyRJHSd0AGUmXU1mvQ"
+      "duration_ms": 236361,
+      "name": "Solo Le Dije",
+      "url": "https://open.spotify.com/track/4KGzk03tmRmFmujHBtvtzH"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
+        "name": "Como el Mar",
+        "url": "https://open.spotify.com/album/1gFlYmZaY1CHMGjoD06AJY"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Cristina Plata",
+          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
+        }
+      ],
+      "duration_ms": 195744,
+      "name": "Corazoncito M\u00edo",
+      "url": "https://open.spotify.com/track/5FvSpXevbWSTjeGMoYxlDi"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
         "name": "tal vez, no s\u00e9",
         "url": "https://open.spotify.com/album/6fYLb4o4jJFam1UbdKKhla"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 224599,
       "name": "tal vez, no s\u00e9",
       "url": "https://open.spotify.com/track/4JUb6pkv9qrz0oZfuiZ8Gj"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "Como el Mar",
-        "url": "https://open.spotify.com/album/1gFlYmZaY1CHMGjoD06AJY"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Cristina Plata",
-          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
-        }
-      ],
-      "duration_ms": 195744,
-      "name": "Corazoncito M\u00edo",
-      "url": "https://open.spotify.com/track/5FvSpXevbWSTjeGMoYxlDi"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Inmensamente Fr\u00e1gil",
-        "url": "https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa"
-      },
-      "artists": [
-        {
-          "name": "Ronroneo",
-          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
-        }
-      ],
-      "duration_ms": 219967,
-      "name": "Inmensamente Fr\u00e1gil",
-      "url": "https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
         "name": "Mundos inm\u00f3viles derrumb\u00e1ndose",
         "url": "https://open.spotify.com/album/5FDxWtFRwB67KSOCE690U5"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 297773,
       "name": "El don de la ternura",
       "url": "https://open.spotify.com/track/41ayfvA3f3ifvFybiSVg9F"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Inmensamente Fr\u00e1gil",
+        "url": "https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa"
+      },
+      "artists": [
+        {
+          "name": "Ronroneo",
+          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
+        }
+      ],
+      "duration_ms": 219967,
+      "name": "Inmensamente Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
+        "name": "Casi tierra",
+        "url": "https://open.spotify.com/album/2lScS0LNcGpQT5pY6MwJwY"
+      },
+      "artists": [
+        {
+          "name": "Vicente Navarro",
+          "url": "https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ"
+        }
+      ],
+      "duration_ms": 188405,
+      "name": "En el r\u00edo",
+      "url": "https://open.spotify.com/track/7qhXqxSuwOl5iYUDTLZFPY"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
         "name": "La Despedida (feat. Valeria Castro)",
         "url": "https://open.spotify.com/album/6WabxigChTEsXqQ8bZekYm"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 218028,
       "name": "La Despedida (feat. Valeria Castro)",
       "url": "https://open.spotify.com/track/2THnHHYUmXLKgI3AzLV053"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "Casi tierra",
-        "url": "https://open.spotify.com/album/2lScS0LNcGpQT5pY6MwJwY"
-      },
-      "artists": [
-        {
-          "name": "Vicente Navarro",
-          "url": "https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ"
-        }
-      ],
-      "duration_ms": 188405,
-      "name": "En el r\u00edo",
-      "url": "https://open.spotify.com/track/7qhXqxSuwOl5iYUDTLZFPY"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1823,18 +1823,18 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Danza",
-        "url": "https://open.spotify.com/album/0vZZOv2c14DmaNRhSHk606"
+        "name": "Madre Padre Marte",
+        "url": "https://open.spotify.com/album/63AhXYacnlHnitNe6qG334"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Alvez",
-          "url": "https://open.spotify.com/artist/2mOfSQosQk4GNspOTIPx7a"
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
         }
       ],
-      "duration_ms": 76966,
-      "name": "Danza",
-      "url": "https://open.spotify.com/track/3Bc3GtEleSnPNc3ZJBDBxG"
+      "duration_ms": 302976,
+      "name": "Sana Sana",
+      "url": "https://open.spotify.com/track/6INLstv52hDkfJ5P8OhKqx"
     }
   ],
   "unique_name": "Cancionistas",

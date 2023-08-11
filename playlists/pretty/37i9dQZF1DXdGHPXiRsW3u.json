@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 2000s.",
-  "num_followers": 485779,
+  "num_followers": 486211,
   "original_name": "Soft 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzE0OTUyMGU3OTViMmRiODJkOWU1MzllMzA1N2IyZmRkZGVmZWQ2",
+  "snapshot_id": "MCw1NjEwMzQ2ZmY5ZTU1MWZlNGNmYTFlMDI5YTczNWU2MjE4N2FmNzNk",
   "tracks": [
     {
       "added_at": "2023-01-28 00:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
-        "name": "Escapology",
-        "url": "https://open.spotify.com/album/4QyE2i0y4nyxHsiwm6VK9V"
-      },
-      "artists": [
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        }
-      ],
-      "duration_ms": 263866,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/2Ms33RTRCT6gArrpcrPxmo"
-    },
-    {
-      "added_at": "2023-01-28 00:00:00",
-      "album": {
         "name": "We Sing. We Dance. We Steal Things.",
         "url": "https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 189613,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/0IktbUcnAGrvD03AWnz3Q8"
+    },
+    {
+      "added_at": "2023-01-28 00:00:00",
+      "album": {
+        "name": "Escapology",
+        "url": "https://open.spotify.com/album/4QyE2i0y4nyxHsiwm6VK9V"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 263866,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/2Ms33RTRCT6gArrpcrPxmo"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
-        "name": "Call Me Irresponsible",
-        "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 212373,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/4T6HLdP6OcAtqC6tGnQelG"
-    },
-    {
-      "added_at": "2023-01-28 00:00:00",
-      "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 210506,
       "name": "Chasing Pavements",
       "url": "https://open.spotify.com/track/56pHllZT7QOacB0bP56ofx"
+    },
+    {
+      "added_at": "2023-01-28 00:00:00",
+      "album": {
+        "name": "Call Me Irresponsible",
+        "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 212373,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/4T6HLdP6OcAtqC6tGnQelG"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
-        "name": "Dreaming Out Loud",
-        "url": "https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 208106,
-      "name": "Apologize",
-      "url": "https://open.spotify.com/track/1NrJYpdAi7uosDRPmSYrsG"
-    },
-    {
-      "added_at": "2023-01-28 00:00:00",
-      "album": {
         "name": "Back to Bedlam",
         "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 258653,
       "name": "Goodbye My Lover",
       "url": "https://open.spotify.com/track/6gxycjJNMgmAyfzUXBN80P"
+    },
+    {
+      "added_at": "2023-01-28 00:00:00",
+      "album": {
+        "name": "Dreaming Out Loud",
+        "url": "https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 208106,
+      "name": "Apologize",
+      "url": "https://open.spotify.com/track/1NrJYpdAi7uosDRPmSYrsG"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
+        "name": "All the Lost Souls",
+        "url": "https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 280026,
+      "name": "1973",
+      "url": "https://open.spotify.com/track/1BV0m40U0M4t1SLIsDnwZl"
+    },
+    {
+      "added_at": "2023-01-28 00:00:00",
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/3BGPil8BDPVoDK0lnUPtvb"
       },
@@ -1331,22 +1347,6 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
-        "name": "All the Lost Souls",
-        "url": "https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 280026,
-      "name": "1973",
-      "url": "https://open.spotify.com/track/1BV0m40U0M4t1SLIsDnwZl"
-    },
-    {
-      "added_at": "2023-01-28 00:00:00",
-      "album": {
         "name": "My Name Is Joe",
         "url": "https://open.spotify.com/album/6zuCJaxmHKNKN5hMDF556U"
       },
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
-        "name": "The Dutchess",
-        "url": "https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA"
-      },
-      "artists": [
-        {
-          "name": "Fergie",
-          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
-        }
-      ],
-      "duration_ms": 268120,
-      "name": "Big Girls Don't Cry (Personal)",
-      "url": "https://open.spotify.com/track/4AniPkv5vgdE1n6VKreiyI"
-    },
-    {
-      "added_at": "2023-01-28 00:00:00",
-      "album": {
         "name": "Spirit",
         "url": "https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 234173,
       "name": "Better in Time",
       "url": "https://open.spotify.com/track/2iXBZ32Fz5VDCLeE0JIdX5"
+    },
+    {
+      "added_at": "2023-01-28 00:00:00",
+      "album": {
+        "name": "The Dutchess",
+        "url": "https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA"
+      },
+      "artists": [
+        {
+          "name": "Fergie",
+          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+        }
+      ],
+      "duration_ms": 268120,
+      "name": "Big Girls Don't Cry (Personal)",
+      "url": "https://open.spotify.com/track/4AniPkv5vgdE1n6VKreiyI"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
+        "name": "I AM...SASHA FIERCE",
+        "url": "https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 249146,
+      "name": "If I Were a Boy",
+      "url": "https://open.spotify.com/track/26NX1wPt1TRCH536yocd6i"
+    },
+    {
+      "added_at": "2023-01-28 00:00:00",
+      "album": {
         "name": "Swing When You're Winning",
         "url": "https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 170493,
       "name": "Somethin' Stupid",
       "url": "https://open.spotify.com/track/4kSKacywUJHdhyst4PL6pl"
-    },
-    {
-      "added_at": "2023-01-28 00:00:00",
-      "album": {
-        "name": "I AM...SASHA FIERCE",
-        "url": "https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 249146,
-      "name": "If I Were a Boy",
-      "url": "https://open.spotify.com/track/26NX1wPt1TRCH536yocd6i"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
-        "name": "Loose",
-        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
-      },
-      "artists": [
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        }
-      ],
-      "duration_ms": 311186,
-      "name": "All Good Things (Come To An End)",
-      "url": "https://open.spotify.com/track/6kEpjptnAwt11Atr4cEMe1"
-    },
-    {
-      "added_at": "2023-01-28 00:00:00",
-      "album": {
         "name": "Because Of You",
         "url": "https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 261426,
       "name": "Go On Girl",
       "url": "https://open.spotify.com/track/3QE7ObGjkt1kYnhLvZPRUy"
+    },
+    {
+      "added_at": "2023-01-28 00:00:00",
+      "album": {
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "duration_ms": 311186,
+      "name": "All Good Things (Come To An End)",
+      "url": "https://open.spotify.com/track/6kEpjptnAwt11Atr4cEMe1"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
-        "name": "Coyote Ugly",
-        "url": "https://open.spotify.com/album/0XxoyBssbnR7VB8YmtVzLD"
-      },
-      "artists": [
-        {
-          "name": "LeAnn Rimes",
-          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
-        }
-      ],
-      "duration_ms": 215506,
-      "name": "Can't Fight The Moonlight",
-      "url": "https://open.spotify.com/track/10FP9hm2aFfAIKEopqaG9D"
-    },
-    {
-      "added_at": "2023-01-28 00:00:00",
-      "album": {
         "name": "Survivor",
         "url": "https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9"
       },
@@ -2207,6 +2191,22 @@
       "duration_ms": 234826,
       "name": "Life Is A Rollercoaster",
       "url": "https://open.spotify.com/track/1vlTMKVV0FxG6CxGTmSY3t"
+    },
+    {
+      "added_at": "2023-01-28 00:00:00",
+      "album": {
+        "name": "Coyote Ugly",
+        "url": "https://open.spotify.com/album/0XxoyBssbnR7VB8YmtVzLD"
+      },
+      "artists": [
+        {
+          "name": "LeAnn Rimes",
+          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
+        }
+      ],
+      "duration_ms": 215506,
+      "name": "Can't Fight The Moonlight",
+      "url": "https://open.spotify.com/track/10FP9hm2aFfAIKEopqaG9D"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
-        "name": "Westlife",
-        "url": "https://open.spotify.com/album/03zaputfmJ3wwrKh6bHcTN"
-      },
-      "artists": [
-        {
-          "name": "Westlife",
-          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
-        }
-      ],
-      "duration_ms": 248040,
-      "name": "Seasons in the Sun",
-      "url": "https://open.spotify.com/track/523WUV77jFBx3fbeJTOWZ6"
-    },
-    {
-      "added_at": "2023-01-28 00:00:00",
-      "album": {
         "name": "Life For Rent",
         "url": "https://open.spotify.com/album/6PEApt1cBh2EtWeXMKZJzo"
       },
@@ -2323,6 +2307,22 @@
       "duration_ms": 240600,
       "name": "White Flag",
       "url": "https://open.spotify.com/track/3adnLFXKO5rC1lhUNSeg3N"
+    },
+    {
+      "added_at": "2023-01-28 00:00:00",
+      "album": {
+        "name": "Westlife",
+        "url": "https://open.spotify.com/album/03zaputfmJ3wwrKh6bHcTN"
+      },
+      "artists": [
+        {
+          "name": "Westlife",
+          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
+        }
+      ],
+      "duration_ms": 248040,
+      "name": "Seasons in the Sun",
+      "url": "https://open.spotify.com/track/523WUV77jFBx3fbeJTOWZ6"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -2407,6 +2407,26 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
+        "name": "Face To Face",
+        "url": "https://open.spotify.com/album/07sBktUc2CbnzPd8ecePWk"
+      },
+      "artists": [
+        {
+          "name": "Westlife",
+          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
+        },
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 236240,
+      "name": "When You Tell Me That You Love Me (with Diana Ross)",
+      "url": "https://open.spotify.com/track/0Yg9xipP8POqZetnhGh8x6"
+    },
+    {
+      "added_at": "2023-01-28 00:00:00",
+      "album": {
         "name": "Marc Anthony",
         "url": "https://open.spotify.com/album/2zG5uEJ1zY00uN6qXjPu5d"
       },
@@ -2435,26 +2455,6 @@
       "duration_ms": 222160,
       "name": "No Promises",
       "url": "https://open.spotify.com/track/2GdGb6bdMYoq7EHkmWvb5D"
-    },
-    {
-      "added_at": "2023-01-28 00:00:00",
-      "album": {
-        "name": "Face To Face",
-        "url": "https://open.spotify.com/album/07sBktUc2CbnzPd8ecePWk"
-      },
-      "artists": [
-        {
-          "name": "Westlife",
-          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
-        },
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 236240,
-      "name": "When You Tell Me That You Love Me (with Diana Ross)",
-      "url": "https://open.spotify.com/track/0Yg9xipP8POqZetnhGh8x6"
     },
     {
       "added_at": "2023-01-28 00:00:00",

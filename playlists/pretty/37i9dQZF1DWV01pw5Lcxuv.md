@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV01pw5Lcxuv.md) - [plain]
 
 > Disfruta con mamá la era dorada de los 80's.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,725 likes - 75 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,831 likes - 75 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV01pw5Lcxuv.md) - [plain]
 | 59 | [Manic Monday](https://open.spotify.com/track/00vYs0qZA40Z8AAaN7xmMO) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Different Light \(Expanded Edition\)](https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN) | 3:04 |
 | 60 | [Chiquitita \- Spanish Version](https://open.spotify.com/track/0Fuc8WMl8xSXjb8d4M6Xqo) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Gracias Por La Musica \(Deluxe Edition\)](https://open.spotify.com/album/1ZVourNSOich8buZk5ILdZ) | 5:33 |
 | 61 | [Este Terco Corazon](https://open.spotify.com/track/1iN1knAnE9tgY3FipGocKX) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Diez Años Cantandole Al Amor](https://open.spotify.com/album/7m0U4kGO3H4QUw5W75HsQ8) | 3:42 |
-| 62 | [Claridad](https://open.spotify.com/track/5iLAU648CgzEupYdWuWdp5) | [Menudo](https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/4dWLbIe5qAFIP3GFnbTTXL) | 4:10 |
-| 63 | [Debut Y Despedida](https://open.spotify.com/track/1Ab8M5xfQ0nUTGSldQzAA2) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Serie De Oro](https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d) | 2:54 |
+| 62 | [Debut Y Despedida](https://open.spotify.com/track/1Ab8M5xfQ0nUTGSldQzAA2) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Serie De Oro](https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d) | 2:54 |
+| 63 | [Claridad](https://open.spotify.com/track/5iLAU648CgzEupYdWuWdp5) | [Menudo](https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/4dWLbIe5qAFIP3GFnbTTXL) | 4:10 |
 | 64 | [She Works Hard For The Money](https://open.spotify.com/track/3FlOciKDqFlTMPeC7t92Qy) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [She Works Hard For The Money](https://open.spotify.com/album/0x3qYJCMrhJPgi7hTqxEl2) | 5:20 |
 | 65 | [No Vale la Pena \(En Vivo\) \- En el Palacio de Bellas Artes](https://open.spotify.com/track/1ZwK7tvuYHoQQju0LBnqWk) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Todo](https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX) | 2:34 |
 | 66 | [Mudanzas](https://open.spotify.com/track/1UPPpJhqQW34QGEjRx32jF) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Mudanzas](https://open.spotify.com/album/3iQaYoL4kryRUEHChDAm54) | 3:51 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV01pw5Lcxuv.md) - [plain]
 | 74 | [Tan Enamorados](https://open.spotify.com/track/3CisdrXSDsYgGCMffTzP0y) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ricardo Montaner Volumen 2](https://open.spotify.com/album/0evTk687RCYqsRkkSpuN0Z) | 4:17 |
 | 75 | [1+1=2 Enamorados](https://open.spotify.com/track/7lU5FqcEvaTBpdI2YcJUjz) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [1 + 1 = 2 Enamorados](https://open.spotify.com/album/6nTKGrjZSwfUQdQqAaA4aK) | 3:25 |
 
-Snapshot ID: `MCwwYzczNTU3M2ExNjU4Yzc3NmFhMTY1MjVlOWJiMzU0ZWU1NzBlZmEx`
+Snapshot ID: `MCwxOWRjMmRkYzFmZWFjM2I4YmY3NGU2ZTA3OTM2YzAzMDdjOGU1ZGY4`

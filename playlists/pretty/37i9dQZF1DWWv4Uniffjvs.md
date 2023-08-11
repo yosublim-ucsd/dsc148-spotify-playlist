@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 
 > <a href="spotify:artist:0zo109NM3S7CqHpvlXwqEN">VTSS</a>' favorite tracks\. Updated regularly\. Curated by VTSS\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,716 likes - 64 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,748 likes - 64 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 | 63 | [Inna Trance](https://open.spotify.com/track/57Tn7DAEl2IT2D1oeFVRMu) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [NOW OR NEVER](https://open.spotify.com/album/3iWgFrvsPZaYzycEVjJBzX) | 6:29 |
 | 64 | [Chaser](https://open.spotify.com/track/23amdGss9M8IsqPYVOSjgk) | [High Fidelity](https://open.spotify.com/artist/3dT0jnqd5jvO095yE9qMEb) | [Chaser](https://open.spotify.com/album/6miF1egb56mZUr17xeNJI3) | 5:55 |
 
-Snapshot ID: `MCwxZTExYzZkYjlkMTdlYTA2MmRhZWQzZjcyZDBlNDkxMTcwZmM0NzA0`
+Snapshot ID: `MCw2NTBlYjk4MDNhN2FhNTdlZTBhM2ZmODUwNGM5OGE1ZWIzYjcxM2Jm`

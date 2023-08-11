@@ -1,12 +1,12 @@
 {
   "description": "Para ahogar las penas en el fondo de una botella.",
-  "num_followers": 111933,
+  "num_followers": 112043,
   "original_name": "Rancheras, Despecho & Licor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODIzODNjMTk2YzU5MjU0OGNjMGI0ZDJlNGZkNjBmZjEzMWUzOGU4",
+  "snapshot_id": "MCxiNTUyNmQ0OWY1M2U1MTUxOGY4Yjg4OTNlZGIxNmJhY2MxYmI2NzA5",
   "tracks": [
     {
       "added_at": "2023-04-14 06:00:00",
@@ -991,18 +991,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Aventurero",
-        "url": "https://open.spotify.com/album/5gdo7K3EFl1CSiOM9P8jTG"
+        "name": "\u00a1M\u00c9XICO Por Siempre!",
+        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
       },
       "artists": [
         {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 190961,
-      "name": "Aventurero",
-      "url": "https://open.spotify.com/track/0ftcn4ddKESqQMA784Ebc0"
+      "duration_ms": 202160,
+      "name": "No discutamos",
+      "url": "https://open.spotify.com/track/4LOoLsXcPdAHzPwSznpq3Y"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "\u00a1M\u00c9XICO Por Siempre!",
-        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
+        "name": "Aventurero",
+        "url": "https://open.spotify.com/album/5gdo7K3EFl1CSiOM9P8jTG"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
         }
       ],
-      "duration_ms": 202160,
-      "name": "No discutamos",
-      "url": "https://open.spotify.com/track/4LOoLsXcPdAHzPwSznpq3Y"
+      "duration_ms": 190961,
+      "name": "Aventurero",
+      "url": "https://open.spotify.com/track/0ftcn4ddKESqQMA784Ebc0"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "Encerrados Pero Enfiestados, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 246131,
+      "name": "Tu - En Vivo",
+      "url": "https://open.spotify.com/track/0qZO3MuMgRecjEfDdnlGVY"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "Cuando Nadie Ve",
         "url": "https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 232533,
       "name": "Cuando Nadie Ve",
       "url": "https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Cupido Fall\u00f3",
-        "url": "https://open.spotify.com/album/5dhqkA6KOXgukDTilRTAj0"
-      },
-      "artists": [
-        {
-          "name": "Pipe Bueno",
-          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
-        }
-      ],
-      "duration_ms": 197642,
-      "name": "Cupido Fall\u00f3",
-      "url": "https://open.spotify.com/track/42RKuMMmSjr4AX3m5RRm8L"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "Cupido Fall\u00f3",
+        "url": "https://open.spotify.com/album/5dhqkA6KOXgukDTilRTAj0"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "duration_ms": 197642,
+      "name": "Cupido Fall\u00f3",
+      "url": "https://open.spotify.com/track/42RKuMMmSjr4AX3m5RRm8L"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "Pa' Olvidar",
         "url": "https://open.spotify.com/album/42C8pktaxUVrz8NKQEtTC3"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 199210,
       "name": "Dile al Amor",
       "url": "https://open.spotify.com/track/6h7dFkekl5awWSe9IGtAfP"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Mi Mejor Momento",
-        "url": "https://open.spotify.com/album/1YeNrm1OTil0kSBYbf4m1r"
-      },
-      "artists": [
-        {
-          "name": "Joaquin Guiller",
-          "url": "https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c"
-        }
-      ],
-      "duration_ms": 193137,
-      "name": "Usted No Me Olvida",
-      "url": "https://open.spotify.com/track/6JoOLSvi28lnoos5JVjsqC"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "Mi Mejor Momento",
+        "url": "https://open.spotify.com/album/1YeNrm1OTil0kSBYbf4m1r"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Guiller",
+          "url": "https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c"
+        }
+      ],
+      "duration_ms": 193137,
+      "name": "Usted No Me Olvida",
+      "url": "https://open.spotify.com/track/6JoOLSvi28lnoos5JVjsqC"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "Las Grandes Norte\u00f1as De Los Idolos Del Pueblo",
         "url": "https://open.spotify.com/album/7MLCcIOXHAC9HsgOWWEmvL"
       },
@@ -1471,22 +1487,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "De Pura Rabia",
-        "url": "https://open.spotify.com/album/3aKCApnTz9ESmKTUenfojX"
-      },
-      "artists": [
-        {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
-        }
-      ],
-      "duration_ms": 187397,
-      "name": "De Pura Rabia",
-      "url": "https://open.spotify.com/track/4bjhTbUKjfxODbAgUNAwHT"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "No Pongan Esas Canciones",
         "url": "https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h"
       },
@@ -1503,30 +1503,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Usted No Me Olvida (Remix)",
-        "url": "https://open.spotify.com/album/3xbDrC4sy53XbHzDn3BFGB"
+        "name": "De Pura Rabia",
+        "url": "https://open.spotify.com/album/3aKCApnTz9ESmKTUenfojX"
       },
       "artists": [
         {
-          "name": "Joaquin Guiller",
-          "url": "https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c"
-        },
-        {
-          "name": "Pipe Bueno",
-          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
-        },
-        {
-          "name": "Paola Jara",
-          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
-        },
-        {
-          "name": "Jhonny Rivera",
-          "url": "https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx"
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
         }
       ],
-      "duration_ms": 193175,
-      "name": "Usted No Me Olvida - Remix",
-      "url": "https://open.spotify.com/track/32rbG1BymfjSBFASdLzxem"
+      "duration_ms": 187397,
+      "name": "De Pura Rabia",
+      "url": "https://open.spotify.com/track/4bjhTbUKjfxODbAgUNAwHT"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1583,6 +1571,34 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "Usted No Me Olvida (Remix)",
+        "url": "https://open.spotify.com/album/3xbDrC4sy53XbHzDn3BFGB"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Guiller",
+          "url": "https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c"
+        },
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        },
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        },
+        {
+          "name": "Jhonny Rivera",
+          "url": "https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx"
+        }
+      ],
+      "duration_ms": 193175,
+      "name": "Usted No Me Olvida - Remix",
+      "url": "https://open.spotify.com/track/32rbG1BymfjSBFASdLzxem"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/7fae9p1hEjCjUiY7P6VZBS"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 211121,
       "name": "Ahora Que Puedo",
       "url": "https://open.spotify.com/track/5ydlSsuMpaqmEg2wKPBe9E"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "El Rey del Despecho - Internacional",
-        "url": "https://open.spotify.com/album/4XdAY43mi3P37ptEGWI1K0"
-      },
-      "artists": [
-        {
-          "name": "Dar\u00edo G\u00f3mez",
-          "url": "https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM"
-        }
-      ],
-      "duration_ms": 208169,
-      "name": "Nadie Es Eterno",
-      "url": "https://open.spotify.com/track/5CdoDsEbox20TjnmyGpZmF"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Encerrados Pero Enfiestados, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg"
+        "name": "El Rey del Despecho - Internacional",
+        "url": "https://open.spotify.com/album/4XdAY43mi3P37ptEGWI1K0"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Dar\u00edo G\u00f3mez",
+          "url": "https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM"
         }
       ],
-      "duration_ms": 246131,
-      "name": "Tu - En Vivo",
-      "url": "https://open.spotify.com/track/0qZO3MuMgRecjEfDdnlGVY"
+      "duration_ms": 208169,
+      "name": "Nadie Es Eterno",
+      "url": "https://open.spotify.com/track/5CdoDsEbox20TjnmyGpZmF"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "Encerrados Pero Enfiestados, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 203816,
+      "name": "Amorcito Mio - En Vivo",
+      "url": "https://open.spotify.com/track/31UICcEejwN9HFOgbc17KS"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "El Alumno",
         "url": "https://open.spotify.com/album/4rHTyJISches0y7efQTJbW"
       },
@@ -1723,22 +1739,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "As\u00ed de Enamorados",
-        "url": "https://open.spotify.com/album/6cjoz33o9RqcKCgo7zDXxK"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 174062,
-      "name": "No Me Hace Bien",
-      "url": "https://open.spotify.com/track/4BCplEwn32Y3nQeeBsbsj9"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Pipe Bueno",
         "url": "https://open.spotify.com/album/2aBsywXae4Hp7D622KfOIY"
       },
@@ -1755,18 +1755,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Imparables",
-        "url": "https://open.spotify.com/album/5HVoQdtTpBV5ek4cEKTKrO"
+        "name": "As\u00ed de Enamorados",
+        "url": "https://open.spotify.com/album/6cjoz33o9RqcKCgo7zDXxK"
       },
       "artists": [
         {
-          "name": "El Gran Mart\u00edn El\u00edas",
-          "url": "https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz"
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
         }
       ],
-      "duration_ms": 284453,
-      "name": "Mi Ex",
-      "url": "https://open.spotify.com/track/6jD818CoibqddGqCEyhjCy"
+      "duration_ms": 174062,
+      "name": "No Me Hace Bien",
+      "url": "https://open.spotify.com/track/4BCplEwn32Y3nQeeBsbsj9"
     }
   ],
   "unique_name": "Rancheras, Despecho & Licor",

@@ -4,7 +4,7 @@
 
 > Sweet lullabies on guitar for little dreamers.
 
-243 songs - 8 hr 14 min
+246 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Blåsippan](https://open.spotify.com/track/3Jq8PjvkWvznKg1VQM0xmR) | [Richard Moore](https://open.spotify.com/artist/7LZONuTYEizh7Bv5NgCTNA) | [Blåsippan](https://open.spotify.com/album/2f8hU3lrEKAhLuLxeYBU74) | 2:17 | 2022-09-02 |  |
 | [Boa Vista](https://open.spotify.com/track/5BiZy2TajBU7VuNtagn2MV) | [Sergio Sanches](https://open.spotify.com/artist/0WfY6Zkm4hf3lqX7qsXuPU) | [Boa Vista](https://open.spotify.com/album/72gtm3Vml1fPGZlkSYg89H) | 1:56 | 2022-12-16 |  |
 | [Brahms Lullaby](https://open.spotify.com/track/4XpkimJZpewto3Pdy7fJ0v) | [Izakaru](https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq) | [Zzzz](https://open.spotify.com/album/0qNimyY8eJHQRREEcznGGk) | 1:40 | 2021-11-11 | 2022-04-27 |
-| [Brahms Lullaby](https://open.spotify.com/track/6C5G5yWbUSPFiJvfuI1WaK) | [Jeffrey Keller](https://open.spotify.com/artist/3GtDYdKAnt1iA04jpZB0ze) | [Amazing Grace](https://open.spotify.com/album/70Yu1jjbIaVz7Bhp5LsYWD) | 1:52 | 2022-04-26 |  |
+| [Brahms Lullaby](https://open.spotify.com/track/6C5G5yWbUSPFiJvfuI1WaK) | [Jeffrey Keller](https://open.spotify.com/artist/3GtDYdKAnt1iA04jpZB0ze) | [Amazing Grace](https://open.spotify.com/album/70Yu1jjbIaVz7Bhp5LsYWD) | 1:52 | 2022-04-26 | 2023-08-11 |
+| [Brahms Lullaby](https://open.spotify.com/track/7ikUx1ac0iqOSvjvROKX8L) | [Mino Lawrence](https://open.spotify.com/artist/7HHsz4iMR3pWHCusoe8Yyb) | [My Guitar Lullabies](https://open.spotify.com/album/2SY1QZEXNnESmB8KeRgvN8) | 2:04 | 2023-08-10 |  |
 | [Bundle Of Joy](https://open.spotify.com/track/0uMbCB0ub2cGxgOf7fmiUj) | [Lola Fuentes](https://open.spotify.com/artist/5KLHjKxR9I5LuvQJ5xju6u) | [Bundle Of Joy](https://open.spotify.com/album/0DcXoQBIWV143wjNJHjKAo) | 1:08 | 2023-01-27 |  |
 | [Butterfly Fly](https://open.spotify.com/track/2KFKwbjRTXJj0lWKBkBLJX) | [Mimi Davies](https://open.spotify.com/artist/1TyyV46EBJAiR2JXpMLFEX) | [Butterfly Fly](https://open.spotify.com/album/5qs4Anclgvr4iTgsexkOX8) | 2:47 | 2021-11-11 |  |
 | [Bye Baby Bunting](https://open.spotify.com/track/5T9nGchAgWtiRhvUJYLcn0) | [Rebecca Scott](https://open.spotify.com/artist/1Krmj9Gm4xch0pzQOUvgQ2) | [Bye Baby Bunting](https://open.spotify.com/album/5BQjsw7XhxeAhNctk6ZAYT) | 1:45 | 2023-01-27 |  |
@@ -58,6 +59,7 @@
 | [Dance a Baby Diddy](https://open.spotify.com/track/1rt2kja54OlDITKmvwFBfi) | [Alby Graham](https://open.spotify.com/artist/6290bXO73fADsTGqEn7UGM) | [Dance a Baby Diddy](https://open.spotify.com/album/7Isc5IV0x91WLQny6coJvo) | 1:35 | 2023-01-27 |  |
 | [Danny Boy](https://open.spotify.com/track/4ZQLfom7VIzjZRTqpOvwgj) | [Yolanda Merino](https://open.spotify.com/artist/2nfRzxqddLRQtP2kFJOnNT) | [Danny Boy](https://open.spotify.com/album/7KL3DEev4LEflUFJX2gBe7) | 2:06 | 2022-10-14 | 2023-05-19 |
 | [Darling](https://open.spotify.com/track/5z8UiO3h6b7OkHutawKqA8) | [Choo Choo Baby](https://open.spotify.com/artist/0vDdNNkBuWh1lJhAREEFce) | [Darling](https://open.spotify.com/album/7v200Jmm6hv89Ny64j1zox) | 1:15 | 2021-11-11 |  |
+| [Dear teddy](https://open.spotify.com/track/4McgjQHfTD9NkXCOOKhIcn) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Dear teddy](https://open.spotify.com/album/3ZbPpGwQi06bp9PofzISBF) | 1:37 | 2023-08-10 |  |
 | [Det gåtfulla folket](https://open.spotify.com/track/3LJaPZaJQMDAPd4NWZMnU9) | [Celeste Knight](https://open.spotify.com/artist/1UgS4sDHUIYMiwbzV2LkXl) | [Det gåtfulla folket](https://open.spotify.com/album/4jkbKpDaccNPhnDACXwGOr) | 3:44 | 2021-11-11 | 2023-05-19 |
 | [Diamonds](https://open.spotify.com/track/7JwZYwycgfelBvuhPCZOpD) | [Fei Kura](https://open.spotify.com/artist/5Gs7KAVWa4xqgvsJZpu0jI) | [Diamonds](https://open.spotify.com/album/3fteKDZUgA53fBtAXYHKcy) | 1:05 | 2023-05-19 |  |
 | [Diana's Lullaby](https://open.spotify.com/track/37QpHcbzcbvyy7Uk6Y4dTT) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [Diana's Lullaby](https://open.spotify.com/album/4m2rK0IW4trIi16iEnbZla) | 1:27 | 2023-04-25 |  |
@@ -168,7 +170,7 @@
 | [Opsis Kalopsis](https://open.spotify.com/track/0oSUBTj88nvlfA7kGebnnH) | [Petite Guitare](https://open.spotify.com/artist/3vBuuLV3C6cLsz2UtUUDfN) | [Sleepwalk](https://open.spotify.com/album/0wT9mHgg7rT03wWdih43rL) | 1:39 | 2023-03-17 |  |
 | [Pillows](https://open.spotify.com/track/22eWMP9QXnJSVcLpKCxl1w) | [The Bed Timers](https://open.spotify.com/artist/6H1FsTGe0ycXNKnGze3rqf) | [Pillows](https://open.spotify.com/album/1oaYNR7kCYRVaGj6c5fnGa) | 1:56 | 2021-11-11 | 2023-05-19 |
 | [Ponnien min](https://open.spotify.com/track/1mdc6ZxW3Gtbm4slVI41r8) | [William Riddervold](https://open.spotify.com/artist/6bXFZUyz2nx7UnywL13lR7) | [Ponnien min](https://open.spotify.com/album/2EIAPYeSvnmtjp4HUa28dM) | 2:14 | 2022-12-16 |  |
-| [Pop Goes the Weasel](https://open.spotify.com/track/4EsbzD1hbc4Kk7utFWGwIV) | [Singing Guitar](https://open.spotify.com/artist/1SQq7ZFrr73CCZ5bidEnii) | [Pop Goes the Weasel](https://open.spotify.com/album/5axZEOVm1BnlBFEcrEjjk3) | 1:18 | 2021-11-11 |  |
+| [Pop Goes the Weasel](https://open.spotify.com/track/4EsbzD1hbc4Kk7utFWGwIV) | [Singing Guitar](https://open.spotify.com/artist/1SQq7ZFrr73CCZ5bidEnii) | [Pop Goes the Weasel](https://open.spotify.com/album/5axZEOVm1BnlBFEcrEjjk3) | 1:18 | 2021-11-11 | 2023-08-11 |
 | [Quarantine](https://open.spotify.com/track/2bO6mmvs9RLVTghH0Dvqhm) | [Manuel Gonza](https://open.spotify.com/artist/0DvrI5NcxFYxzaySshEJxw) | [Quarantine](https://open.spotify.com/album/2DNVnWLKBxPnayjT8q2VYc) | 1:33 | 2021-11-11 |  |
 | [Rain, Rain, Go Away](https://open.spotify.com/track/3zmJ8KlMAGpS4hpqDJ5xmA) | [Micci Rogers](https://open.spotify.com/artist/5ne1I2oi3j1HJTWK2Luk9z) | [This Old Man](https://open.spotify.com/album/3lchEgofOY5DYfGnFj58DD) | 1:48 | 2021-11-11 |  |
 | [Rainbow](https://open.spotify.com/track/1rSleLhjhHJj2H89tgA7rN) | [Lucas Morel](https://open.spotify.com/artist/5qmQ7yN4yUtz77k2JhY3Mu) | [Rainbow](https://open.spotify.com/album/3d6NOgTphkJbxHNtBtPyT5) | 1:15 | 2023-05-19 |  |
@@ -187,11 +189,11 @@
 | [Sleep Hymn](https://open.spotify.com/track/0S2tBDiIpa03YnsBZFa5Or) | [Unni Wide](https://open.spotify.com/artist/5kkxB64YQjSwNgfftsQvOL) | [Sleep Hymn](https://open.spotify.com/album/7KhhtHKQ8rjeDRWpBoA1z8) | 2:11 | 2021-11-11 |  |
 | [Sleep tight my love](https://open.spotify.com/track/4MSOUIQmO0vTnLDBOtd9XH) | [Roger Citrus](https://open.spotify.com/artist/0jP4ZJa7Q5zhdwW68ZdYMW) | [Sleep tight my love](https://open.spotify.com/album/56bdIslv6OwTFEtEngkfMi) | 1:27 | 2023-06-15 |  |
 | [Sleep You Little Videyoung](https://open.spotify.com/track/6AmhUIvNyevwaoy2D73OxJ) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Musica Di Bambino](https://open.spotify.com/album/6sTdjqRsLtroU8vM8CswYg) | 2:57 | 2021-11-11 |  |
-| [Sleeping Bird](https://open.spotify.com/track/2Sb2fYbyyLWEGvh4xxfKvs) | [Hob Nob Guitars](https://open.spotify.com/artist/5Hi0d602CvheKefJyN6GLw) | [Sleeping Bird](https://open.spotify.com/album/0awPdWbbTRwALW4jVw41OO) | 1:32 | 2023-06-08 |  |
+| [Sleeping Bird](https://open.spotify.com/track/2Sb2fYbyyLWEGvh4xxfKvs) | [Hob Nob Guitars](https://open.spotify.com/artist/5Hi0d602CvheKefJyN6GLw) | [Sleeping Bird](https://open.spotify.com/album/0awPdWbbTRwALW4jVw41OO) | 1:32 | 2023-06-08 | 2023-08-11 |
 | [Sleepy Eyes](https://open.spotify.com/track/4cBQ6hpKobdxxyeJ8gu3cR) | [Carla Galloway](https://open.spotify.com/artist/4UCjsEwUrldNSYac9hetq0) | [Sleepy Eyes](https://open.spotify.com/album/20f2sObexRNK0NtpZ4jx9W) | 2:07 | 2023-04-25 |  |
 | [Sleepy times](https://open.spotify.com/track/4e1OHtiK4WiYF3P4yIqWye) | [Izakaru](https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq) | [Sleepy times](https://open.spotify.com/album/3mk8LC5Nh8TicpfM5N69K0) | 1:13 | 2022-11-25 |  |
 | [Slumberous](https://open.spotify.com/track/6bcbwc33McfaGifGrjmtiD) | [Roger Citrus](https://open.spotify.com/artist/0jP4ZJa7Q5zhdwW68ZdYMW) | [Slumberous](https://open.spotify.com/album/0ASiq73kjVAiRs930hldEA) | 1:20 | 2023-04-25 |  |
-| [So Many Stars](https://open.spotify.com/track/54Mmafmblu61obktO4hibb) | [Singing Guitar](https://open.spotify.com/artist/1SQq7ZFrr73CCZ5bidEnii) | [So Many Stars](https://open.spotify.com/album/19nV7OOmUPmLBjz4jswvoD) | 2:55 | 2022-06-10 |  |
+| [So Many Stars](https://open.spotify.com/track/54Mmafmblu61obktO4hibb) | [Singing Guitar](https://open.spotify.com/artist/1SQq7ZFrr73CCZ5bidEnii) | [So Many Stars](https://open.spotify.com/album/19nV7OOmUPmLBjz4jswvoD) | 2:55 | 2022-06-10 | 2023-08-11 |
 | [Somewhere Over The Rainbow](https://open.spotify.com/track/1ttWM9cbhZWmrjiE1VpLw1) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [Somewhere Over The Rainbow](https://open.spotify.com/album/3fAP4yyaXCuDFz6wMeJDyM) | 2:19 | 2023-02-17 |  |
 | [Sommerdrøm](https://open.spotify.com/track/2uPXBjaHGJn3e6fWRqB2JL) | [William Riddervold](https://open.spotify.com/artist/6bXFZUyz2nx7UnywL13lR7) | [Sommerdrøm](https://open.spotify.com/album/6QBMIQgFVkgQZ0Qpu9evl0) | 1:16 | 2023-03-17 |  |
 | [Sov godt trollet mitt](https://open.spotify.com/track/5n03A1PL8EYrVwGmtG9glK) | [William Riddervold](https://open.spotify.com/artist/6bXFZUyz2nx7UnywL13lR7) | [Sov godt trollet mitt](https://open.spotify.com/album/5xO1UYpDwxtRkanELdS61x) | 1:30 | 2021-11-11 |  |
@@ -200,6 +202,7 @@
 | [Star Light, Star Bright](https://open.spotify.com/track/18NPykyiopBb8OczHCMlOh) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [Star Light, Star Bright](https://open.spotify.com/album/4tAfJtrMopxQiLpPFWEnes) | 1:57 | 2023-05-19 |  |
 | [stars aligned](https://open.spotify.com/track/1jk91TedSXVsA0bgtrASPz) | [Lukas Hofmann](https://open.spotify.com/artist/0ibIUDNTpWg6FSpO0fPNKz) | [Peanut and Jelly](https://open.spotify.com/album/5gYuIkBcnYNCxhsZ9lOxOW) | 2:20 | 2023-06-15 |  |
 | [Stars at Night](https://open.spotify.com/track/4ItX9mxGkbuwNo4TwNhTMF) | [3rd Street Guitar](https://open.spotify.com/artist/2A7EWzNXsSbpTOpw8NvUhF) | [Stars at Night](https://open.spotify.com/album/3MQuWn9w5Vqv0AjrLNnsCP) | 1:42 | 2021-11-11 |  |
+| [Stars From Afar](https://open.spotify.com/track/6xO6mruU9Ptgfm6VjA2cSa) | [Paige Rosen](https://open.spotify.com/artist/5Tx246eTkaAi5ZzjBNyNmn) | [Cozy Evening](https://open.spotify.com/album/1QfZNlNZN8UIaervJMkTlp) | 2:48 | 2023-08-10 |  |
 | [Stay Here](https://open.spotify.com/track/7ljhjaPhgwQc0nW9GecxAq) | [Mimmi East](https://open.spotify.com/artist/5JD1k7FiD0YmTS7Xcv3RF6) | [Stay Here](https://open.spotify.com/album/20E7i2ZJOwdOCJKPgvdkam) | 1:33 | 2023-05-19 |  |
 | [Stjernefall](https://open.spotify.com/track/72Brqr3kj4zbxnmA31fW78) | [William Riddervold](https://open.spotify.com/artist/6bXFZUyz2nx7UnywL13lR7) | [Stjernefall](https://open.spotify.com/album/6JCE5LPLTWhPfwJsq27RAM) | 1:28 | 2022-06-10 |  |
 | [Suo Gan](https://open.spotify.com/track/2Ao3ql098f12DeavWNgaLc) | [Rex Miller](https://open.spotify.com/artist/2p9DbVZjPWxDe9o716M43d) | [Suo Gan](https://open.spotify.com/album/4niFFsiGXKOtHR2rHdy1Yo) | 1:59 | 2023-03-17 |  |
@@ -215,7 +218,7 @@
 | [The Stars in Your Eyes](https://open.spotify.com/track/2mtHZX8jd1B1Nsf9U1CHdk) | [Christopher Reiss](https://open.spotify.com/artist/2fdwKnkjowq93OOlHwQtYg) | [The Stars in Your Eyes](https://open.spotify.com/album/6q4OheMWHx4s2GOv9DLXNG) | 2:39 | 2023-06-15 |  |
 | [The Sun Has Set](https://open.spotify.com/track/0IPKK4PN1dP81iivLNdJXq) | [Jules Scott](https://open.spotify.com/artist/0Zwph8W146k7UHJ5BIyB7s) | [The Sun Has Set](https://open.spotify.com/album/6tOclHnzUoh8vCrG3JJLU1) | 1:40 | 2021-11-11 |  |
 | [The Trolls Are Asleep](https://open.spotify.com/track/7xm7X6bejmw1ZzLjpORc37) | [The Instrument Collective](https://open.spotify.com/artist/6UKdx2Uu28llLngOhEf8F0) | [The Trolls Are Asleep](https://open.spotify.com/album/3dWFpCeYMRr7QL61nkUvb3) | 1:39 | 2021-11-11 |  |
-| [The Wheels On The Bus](https://open.spotify.com/track/7IpF6HgZeSeQ4VS3fxbqxw) | [The Singing Guitar](https://open.spotify.com/artist/4HuZFgsc8Y4blxFSzwNTWF) | [Lullabies](https://open.spotify.com/album/6Mk6zRNF5DNBoUo1b8lxpW) | 2:06 | 2021-11-11 |  |
+| [The Wheels On The Bus](https://open.spotify.com/track/7IpF6HgZeSeQ4VS3fxbqxw) | [The Singing Guitar](https://open.spotify.com/artist/4HuZFgsc8Y4blxFSzwNTWF) | [Lullabies](https://open.spotify.com/album/6Mk6zRNF5DNBoUo1b8lxpW) | 2:06 | 2021-11-11 | 2023-08-11 |
 | [The Wooden Boat](https://open.spotify.com/track/40NTbA5i01HrmuSvqjdfJ8) | [Richard Moore](https://open.spotify.com/artist/7LZONuTYEizh7Bv5NgCTNA) | [The Wooden Boat](https://open.spotify.com/album/2Rj5uDGfVr7Ey6McZH0YGL) | 2:19 | 2023-05-19 |  |
 | [This Little Light Of Mine](https://open.spotify.com/track/0GnbdQSxH6gir7fIMXJu4e) | [Euan Levy](https://open.spotify.com/artist/4zYP64IZ8weY745lhRv3By) | [This Little Light Of Mine](https://open.spotify.com/album/6qyhloOjALX97CGMuzNsAq) | 2:08 | 2023-01-27 |  |
 | [This Old Man](https://open.spotify.com/track/0FFtYy25WDwgdTlKOyFFui) | [Funny Fanny](https://open.spotify.com/artist/1kvETyy8pcVERDBrk7Txdh) | [This Old Man](https://open.spotify.com/album/0iL8y62kdnKlUv0l1n5LLb) | 2:00 | 2021-11-11 | 2022-10-29 |

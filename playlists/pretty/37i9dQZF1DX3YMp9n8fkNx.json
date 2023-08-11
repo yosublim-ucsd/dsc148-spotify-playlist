@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 1990s. Cover: Matchbox Twenty",
-  "num_followers": 1266996,
+  "num_followers": 1267256,
   "original_name": "90s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWU1ZjZjYjViZjc5NDgwY2E5MzhlNjliODdiNTVhZTlkYjQ0YTUx",
+  "snapshot_id": "MCw4ZTZlNzJjMjMyZmY5NTRlZmQ4MzM4YzEwZDZkYTk4MDdhZDkxNDlk",
   "tracks": [
     {
       "added_at": "2023-01-18 21:25:04",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-01-18 21:25:04",
       "album": {
-        "name": "August And Everything After",
-        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
-      },
-      "artists": [
-        {
-          "name": "Counting Crows",
-          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
-        }
-      ],
-      "duration_ms": 272293,
-      "name": "Mr. Jones",
-      "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
-    },
-    {
-      "added_at": "2023-01-18 21:25:04",
-      "album": {
         "name": "First Band On The Moon (Remastered)",
         "url": "https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 193953,
       "name": "Lovefool",
       "url": "https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD"
+    },
+    {
+      "added_at": "2023-01-18 21:25:04",
+      "album": {
+        "name": "August And Everything After",
+        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
+      },
+      "artists": [
+        {
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+        }
+      ],
+      "duration_ms": 272293,
+      "name": "Mr. Jones",
+      "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
     },
     {
       "added_at": "2023-01-18 21:25:04",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-01-18 21:25:04",
       "album": {
-        "name": "Stunt (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/0DuFDnZcj7B4R0Jik1aDmY"
-      },
-      "artists": [
-        {
-          "name": "Barenaked Ladies",
-          "url": "https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79"
-        }
-      ],
-      "duration_ms": 169760,
-      "name": "One Week",
-      "url": "https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65"
-    },
-    {
-      "added_at": "2023-01-18 21:25:04",
-      "album": {
         "name": "Sparkle And Fade",
         "url": "https://open.spotify.com/album/27qNa5ef0TpYV17dBY01U0"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 191506,
       "name": "Santa Monica",
       "url": "https://open.spotify.com/track/37EJtTS7jT5WUyXGZzrwnI"
+    },
+    {
+      "added_at": "2023-01-18 21:25:04",
+      "album": {
+        "name": "Stunt (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0DuFDnZcj7B4R0Jik1aDmY"
+      },
+      "artists": [
+        {
+          "name": "Barenaked Ladies",
+          "url": "https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79"
+        }
+      ],
+      "duration_ms": 169760,
+      "name": "One Week",
+      "url": "https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65"
     },
     {
       "added_at": "2023-01-18 21:25:04",

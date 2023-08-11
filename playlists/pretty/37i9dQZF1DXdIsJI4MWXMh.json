@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena!",
-  "num_followers": 57135,
+  "num_followers": 57169,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MGVjYzAzYjdhOWE2NzlkNzUxY2VlMjNiYjJmYzc5MjEwOWU4NzJk",
+  "snapshot_id": "MCwxZWJhYWJhODJkYWJkZjM0ZWMzNTQ4ZTliNzk3ZmZkODdhZmI4OWNm",
   "tracks": [
     {
       "added_at": "2023-05-29 14:34:48",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
+        "name": "La Chupilca",
+        "url": "https://open.spotify.com/album/5bpY8kbK4mZiosA1UKI8x2"
+      },
+      "artists": [
+        {
+          "name": "Josepth el Ranchero",
+          "url": "https://open.spotify.com/artist/0Sbh70Uh5JuiHCjXXql0nT"
+        }
+      ],
+      "duration_ms": 175205,
+      "name": "La Chupilca",
+      "url": "https://open.spotify.com/track/75N9uODWcbYhwYoayo7879"
+    },
+    {
+      "added_at": "2023-05-29 14:34:48",
+      "album": {
         "name": "Un Lobo Est\u00e1 Llorando",
         "url": "https://open.spotify.com/album/6Geby7blTCI2vcP1Pm2DGR"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 246230,
       "name": "Con Que Derecho",
       "url": "https://open.spotify.com/track/26iOxv7FyPSfYeV1beFg7j"
-    },
-    {
-      "added_at": "2023-05-29 14:34:48",
-      "album": {
-        "name": "La Chupilca",
-        "url": "https://open.spotify.com/album/5bpY8kbK4mZiosA1UKI8x2"
-      },
-      "artists": [
-        {
-          "name": "Josepth el Ranchero",
-          "url": "https://open.spotify.com/artist/0Sbh70Uh5JuiHCjXXql0nT"
-        }
-      ],
-      "duration_ms": 175205,
-      "name": "La Chupilca",
-      "url": "https://open.spotify.com/track/75N9uODWcbYhwYoayo7879"
     },
     {
       "added_at": "2023-05-29 14:34:48",

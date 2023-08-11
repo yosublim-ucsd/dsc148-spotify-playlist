@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 
 > Simply Texas blues at its best.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,133 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,257 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 | 7 | [Palace Of The King](https://open.spotify.com/track/2T6pMaivfX7w4tfAUX4uU9) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Getting Ready..\. \(World\)](https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI) | 3:40 |
 | 8 | [Dengue Woman Blues](https://open.spotify.com/track/4OGyibX2nayDVCUfFN4u8x) | [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [The Essential Jimmie Vaughan](https://open.spotify.com/album/61ahDSudLBKZ06utlL3g4y) | 6:23 |
 | 9 | [Good Texan](https://open.spotify.com/track/34d6n6HMfyOiQjudsxbfeh) | [The Vaughan Brothers](https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG) | [Family Style](https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL) | 4:21 |
-| 10 | [Honest I Do \(feat\. Gary Clark, Jr.\)](https://open.spotify.com/track/7FmfpB1TgA8hi3etdffflO) | [Omar and The Howlers](https://open.spotify.com/artist/70PvPWG9nD4ZujibB1onsO), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Too Much is not enough](https://open.spotify.com/album/4nBTViXrq2BhHlvnJOE5HD) | 2:21 |
+| 10 | [Have Blues, Will Travel](https://open.spotify.com/track/6XxHUskI6Q4HZXiXFND9dc) | [Smokin' Joe Kubek & Bnois King](https://open.spotify.com/artist/0nMA4cLQjSiZspsoI70aut) | [Have Blues, Will Travel](https://open.spotify.com/album/2heZTglJ1H7pY5tArsksKC) | 4:07 |
 | 11 | [Pride and Joy](https://open.spotify.com/track/1oT20g6f8rvymheUIdFr19) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Real Deal: Greatest Hits Volume 1](https://open.spotify.com/album/1cBgyEhogUvaKVgsdczgHm) | 3:39 |
 | 12 | [I Ain't Drunk \- Remastered](https://open.spotify.com/track/1pPrO5Lcx9UXNebcloGeHE) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Cold Snap \(Remastered\)](https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9) | 4:07 |
-| 13 | [Life by the Drop](https://open.spotify.com/track/3qXcnzcNx45bXlWJzD730w) | [Doyle Bramhall](https://open.spotify.com/artist/2ewLmeOezmY0HqMR21anX4) | [Fitchburg Street](https://open.spotify.com/album/22uz6QF9N2UVHjOjK2LAEw) | 3:05 |
-| 14 | [Have Blues, Will Travel](https://open.spotify.com/track/6XxHUskI6Q4HZXiXFND9dc) | [Smokin' Joe Kubek & Bnois King](https://open.spotify.com/artist/0nMA4cLQjSiZspsoI70aut) | [Have Blues, Will Travel](https://open.spotify.com/album/2heZTglJ1H7pY5tArsksKC) | 4:07 |
+| 13 | [Honest I Do \(feat\. Gary Clark, Jr.\)](https://open.spotify.com/track/7FmfpB1TgA8hi3etdffflO) | [Omar and The Howlers](https://open.spotify.com/artist/70PvPWG9nD4ZujibB1onsO), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Too Much is not enough](https://open.spotify.com/album/4nBTViXrq2BhHlvnJOE5HD) | 2:21 |
+| 14 | [Life by the Drop](https://open.spotify.com/track/3qXcnzcNx45bXlWJzD730w) | [Doyle Bramhall](https://open.spotify.com/artist/2ewLmeOezmY0HqMR21anX4) | [Fitchburg Street](https://open.spotify.com/album/22uz6QF9N2UVHjOjK2LAEw) | 3:05 |
 | 15 | [Wait On Time](https://open.spotify.com/track/71ptjbbVkrMPebtE3CgBZS) | [The Fabulous Thunderbirds](https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT) | [The Fabulous Thunderbirds](https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs) | 3:03 |
 | 16 | [We The People](https://open.spotify.com/track/6IzjmyZYMTrokokG0C5n9R) | [Guitar Shorty](https://open.spotify.com/artist/3A01qH4VCBkDXcDc2luyNc) | [We The People](https://open.spotify.com/album/0JtSUetZ1fNYg3V23qaYxV) | 4:20 |
 | 17 | [Honey, Hush aka Talking Woman Blues](https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 4:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 | 49 | [A Blue Song](https://open.spotify.com/track/1YyHSGKbfEiI7xwwvSn5z5) | [Joe "Guitar" Hughes](https://open.spotify.com/artist/5bRmUejPq8I7a7y0coLC8r) | [Texas Guitar Slinger](https://open.spotify.com/album/5DalVOtB3z3HLahNqkbX0l) | 5:14 |
 | 50 | [Whiskey Drinkin' Blues](https://open.spotify.com/track/51Us3goc25GZypfvfLQ3PT) | [Andrew "Jr Boy" Jones](https://open.spotify.com/artist/7bAJqc9QEfRjLeSEVuWf6c) | [I Know What It's Like](https://open.spotify.com/album/3a2lnTskswyUvsYNcxoqMV) | 4:33 |
 
-Snapshot ID: `MCxjOWU4NDZkMGVhZTQ4ZmFiZTdiYWYxMGNlNjdiZGU0NzMxZDc1YzE1`
+Snapshot ID: `MCxhOWQ4Y2JiYWUxMzQwYTg1N2ExOWVlOWMxZmM5MjYyNjRhMDIxYzkw`

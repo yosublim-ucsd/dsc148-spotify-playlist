@@ -4,7 +4,7 @@
 
 > Turn on the movement with the latest and greatest in K\-Pop! Cover: JEON SOMI
 
-324 songs - 17 hr 32 min
+325 songs - 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [EUNOIA](https://open.spotify.com/track/5ICowHre7VraSKaRw3do8N) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the Billage of perception: chapter three](https://open.spotify.com/album/5bt0sTLia4il2rIlpqUo5g) | 3:23 | 2023-03-31 | 2023-06-20 |
 | [Event Horizon](https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 6th Album Repackage 'END THEORY : Final Edition'](https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c) | 5:00 | 2022-11-10 | 2023-03-25 |
 | [FAM \(Korean Ver.\)](https://open.spotify.com/track/11BLMmPoTgKEi4XBDxdpYN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ\-REPLAY](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | 3:33 | 2022-12-21 | 2023-03-03 |
-| [Fast Forward](https://open.spotify.com/track/4EsqgOzLn45dCHIDIhtg6W) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [GAME PLAN](https://open.spotify.com/album/7BAwtfjDEyG6l2nFlNkkLy) | 2:40 | 2023-08-07 |  |
+| [Fast Forward](https://open.spotify.com/track/4EsqgOzLn45dCHIDIhtg6W) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [GAME PLAN](https://open.spotify.com/album/7BAwtfjDEyG6l2nFlNkkLy) | 2:40 | 2023-08-07 | 2023-08-11 |
+| [Fast Forward](https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [GAME PLAN](https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu) | 2:40 | 2023-08-07 |  |
 | [Favorite \(Vampire\)](https://open.spotify.com/track/3rR9kTA6mD9LbmsCE0QWEY) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Favorite \- The 3rd Album Repackage](https://open.spotify.com/album/3xn5tn8JNMlJf3sISHONUy) | 3:35 | 2021-12-13 | 2022-01-13 |
 | [FEARLESS](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:48 | 2022-05-11 | 2023-06-06 |
 | [Feel My Rhythm](https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Feel My Rhythm’](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) | 3:30 | 2022-03-21 | 2022-09-24 |

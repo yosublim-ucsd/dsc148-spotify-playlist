@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: Numcha",
+  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: No Rome",
   "name": ".ORG",
   "tracks": [
     {
@@ -3521,6 +3521,24 @@
     },
     {
       "album": {
+        "name": "Deep Diving",
+        "url": "https://open.spotify.com/album/65YhubUi5rIDZmFr5FINBx"
+      },
+      "artists": [
+        {
+          "name": "No Rome",
+          "url": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160193,
+      "name": "Deep Diving",
+      "url": "https://open.spotify.com/track/6NslJ8DMabPbslZYKQ8Qer"
+    },
+    {
+      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/7eaUeXoBSNWdxDM44yOHkP"
       },
@@ -4544,7 +4562,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 191500,
       "name": "Fault",
       "url": "https://open.spotify.com/track/5AIxaONRb2psOExCkj17YK"
@@ -5292,6 +5310,24 @@
       "duration_ms": 185000,
       "name": "ghost everyday",
       "url": "https://open.spotify.com/track/0oHlUYSlYtaYDT3JihDBdp"
+    },
+    {
+      "album": {
+        "name": "ghosts",
+        "url": "https://open.spotify.com/album/4q37Z0rAJjMmxHf3ORQHb8"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220776,
+      "name": "ghosts",
+      "url": "https://open.spotify.com/track/0PQ4VI53cK9ZeKluejZmoC"
     },
     {
       "album": {
@@ -6925,6 +6961,24 @@
     },
     {
       "album": {
+        "name": "befriending my tears",
+        "url": "https://open.spotify.com/album/4pnIWjnhk1gg73KghffqGn"
+      },
+      "artists": [
+        {
+          "name": "Clara Benin",
+          "url": "https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195130,
+      "name": "imposter syndrome",
+      "url": "https://open.spotify.com/track/33eaEAdtz55ZyDjGsXGEdM"
+    },
+    {
+      "album": {
         "name": "In Another Life",
         "url": "https://open.spotify.com/album/4KDL14uRiNvUfIhVhkJfKx"
       },
@@ -7016,6 +7070,28 @@
       "duration_ms": 365500,
       "name": "In Your Loudest Fear",
       "url": "https://open.spotify.com/track/4oAUeju7DwlPHBWqbzGDP5"
+    },
+    {
+      "album": {
+        "name": "Independent Artist",
+        "url": "https://open.spotify.com/album/6tahA5ozFUvGAU43dH5ICC"
+      },
+      "artists": [
+        {
+          "name": "Anna hisbbuR",
+          "url": "https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR"
+        },
+        {
+          "name": "Luna Is A Bep",
+          "url": "https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194833,
+      "name": "Independent Artist",
+      "url": "https://open.spotify.com/track/02Dtp1urMF9P3Lv0zQlEal"
     },
     {
       "album": {
@@ -7774,7 +7850,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 228816,
       "name": "Lemon - Numcha Remake",
       "url": "https://open.spotify.com/track/4uIjgB5FzpcInDkFmaxWwM"
@@ -8938,7 +9014,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 184417,
       "name": "Metro",
       "url": "https://open.spotify.com/track/3INpvUzUP1gt23GfMoX85l"
@@ -9162,6 +9238,24 @@
       "duration_ms": 186866,
       "name": "Mobius",
       "url": "https://open.spotify.com/track/1p1qM22fWnEYOOTWBXGhlN"
+    },
+    {
+      "album": {
+        "name": "Model",
+        "url": "https://open.spotify.com/album/4GSiUIXVqq2mICYcy6CAhC"
+      },
+      "artists": [
+        {
+          "name": "ADOY",
+          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202605,
+      "name": "Model",
+      "url": "https://open.spotify.com/track/2Zazn9812HoUjjs1fN6cMP"
     },
     {
       "album": {
@@ -12382,7 +12476,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 216934,
       "name": "South East",
       "url": "https://open.spotify.com/track/2CiWIw60PWOYliSOk2iZKk"
@@ -13460,7 +13554,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 186000,
       "name": "That's Us",
       "url": "https://open.spotify.com/track/6Zb9YgTpQyQMIBp3C9SAwB"
@@ -16538,7 +16632,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 241317,
       "name": "\u4f60\u7684\u6a23\u5b50",
       "url": "https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz"
@@ -16784,6 +16878,28 @@
       "duration_ms": 202324,
       "name": "\u5fd8\u308c\u305f\u3044",
       "url": "https://open.spotify.com/track/6iPgeH5Zk0sV2Fdh4cxcWf"
+    },
+    {
+      "album": {
+        "name": "\u30d8\u30eb\u30b7\u30f3\u30ad\u30e9\u30e0\u30c0\u30af\u30e9\u30d6\u3078\u3088\u3046\u3053\u305d",
+        "url": "https://open.spotify.com/album/4fSoeCxtgOC96ooARXkJJE"
+      },
+      "artists": [
+        {
+          "name": "Helsinki Lambda Club",
+          "url": "https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5"
+        },
+        {
+          "name": "FORD TRIO",
+          "url": "https://open.spotify.com/artist/0bZ5ScqjtPLTNfTLEFiJJN"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246792,
+      "name": "\u611b\u60f3\u306e\u306a\u3044\u30d6\u30ec\u30a4\u30af - with FORDTRIO",
+      "url": "https://open.spotify.com/track/2KQ2ha9Bb0IXiOX2rHlnBX"
     },
     {
       "album": {

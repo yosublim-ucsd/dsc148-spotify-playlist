@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO095KZq.md) - [plain]
 
 > This is El Fantasma\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,255 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,340 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,14 +43,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO095KZq.md) - [plain]
 | 33 | [El Perseverante](https://open.spotify.com/track/2Kn1fCHlf6ODnYKqCSfBni) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [10 Kilates \(Con Norteño\)](https://open.spotify.com/album/3bTNvG7R2BbLUE9zyaLCPt) | 2:47 |
 | 34 | [Tus Desprecios](https://open.spotify.com/track/6gyPojQkJawXsMryAeu5Se) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Tus Desprecios](https://open.spotify.com/album/3si2q6g6Mw94o5wsftqXH6) | 2:22 |
 | 35 | [La Vida Cara](https://open.spotify.com/track/04jNYEutK3ApreB4VK2OWc) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [La Vida Cara](https://open.spotify.com/album/2V1p0bHZ7tataWUYqkwbM1) | 1:42 |
-| 36 | [El Mes de Mayo](https://open.spotify.com/track/6YYh0uf1CI0gQxlVScpZw4) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Circo](https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq) | 2:47 |
-| 37 | [Los Cuervos](https://open.spotify.com/track/6hwecQOSqCplz3u22e92gl) | [Kanales](https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Coronas Doradas](https://open.spotify.com/album/6ABTPCdPVk8GTqNsuWNcob) | 2:47 |
+| 36 | [Los Cuervos](https://open.spotify.com/track/6hwecQOSqCplz3u22e92gl) | [Kanales](https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Coronas Doradas](https://open.spotify.com/album/6ABTPCdPVk8GTqNsuWNcob) | 2:47 |
+| 37 | [El Mes de Mayo](https://open.spotify.com/track/6YYh0uf1CI0gQxlVScpZw4) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Circo](https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq) | 2:47 |
 | 38 | [Hombre de Rancho](https://open.spotify.com/track/59IyKRSgCwLyKS3e46TlYM) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Dolor y Amor](https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT) | 2:35 |
 | 39 | [De Puntitas](https://open.spotify.com/track/5krlcKy4xFlCQbJ75rhNJ9) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Hay pa' Toro](https://open.spotify.com/album/1sFW62xlG5S3d5PrM0H7Cp) | 2:39 |
 | 40 | [Catarino y los Rurales](https://open.spotify.com/track/3KXnVMFgHKnJFkoot8yJBU) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Pa' los Recuerdos, Vol\. 2](https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH) | 2:32 |
 | 41 | [Por Esa Calle Vive](https://open.spotify.com/track/6LhMqt2flhSBwwnS3Z5GyJ) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Pa' los Recuerdos, Vol\. 3](https://open.spotify.com/album/1o06mmQbAcZrYFlCZzINP0) | 2:26 |
-| 42 | [Todo Cuanto Tuve](https://open.spotify.com/track/6JwjqMU4RLbtLkBjfxpOoA) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Todo Cuanto Tuve](https://open.spotify.com/album/1BNiuAljuo2eYq65BqvzTh) | 2:29 |
-| 43 | [Los Pajaros](https://open.spotify.com/track/3SkmvfVgPItn0p54T83GAA) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Dolor y Amor](https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT) | 2:17 |
+| 42 | [Los Pajaros](https://open.spotify.com/track/3SkmvfVgPItn0p54T83GAA) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Dolor y Amor](https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT) | 2:17 |
+| 43 | [Todo Cuanto Tuve](https://open.spotify.com/track/6JwjqMU4RLbtLkBjfxpOoA) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Todo Cuanto Tuve](https://open.spotify.com/album/1BNiuAljuo2eYq65BqvzTh) | 2:29 |
 | 44 | [Encantadora](https://open.spotify.com/track/15gKM0h7lqe2vZsBAFA5L2) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Encantadora](https://open.spotify.com/album/0Cun0bbB8jz6QqyshWUBPe) | 2:24 |
 | 45 | [Cuanto Me Gusta Este Rancho](https://open.spotify.com/track/7gZmWoDwKhBJUnU69Mo8fc) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Pa' los Recuerdos, Vol\. 2](https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH) | 2:38 |
 | 46 | [Los Inicios](https://open.spotify.com/track/05ySOTPwLvGKE6e1fz6EaY) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Los Inicios](https://open.spotify.com/album/2wZIWBfIpZXVDkdULrKFsI) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO095KZq.md) - [plain]
 | 49 | [Chalito \- En Vivo](https://open.spotify.com/track/5fzKzpAcYCgBX7w5ZnWqrb) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Chalito \(En Vivo\)](https://open.spotify.com/album/1LGdkrFFofe48iC2BxIggu) | 2:37 |
 | 50 | [El Zorro](https://open.spotify.com/track/5U1bP3nRulk7egjqWQSkNA) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Varones de Culiacan](https://open.spotify.com/artist/3Bz4vStA4p6jwPXL6SDZ9d) | [El Zorro](https://open.spotify.com/album/4HMkP0BVe9AzwYsMJX7SSZ) | 3:59 |
 
-Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDA1MDkzZmVlMTJiNzQ2NTAxYmQ3NjhmZWYxNGY3NjVhMA==`
+Snapshot ID: `MjgxOTQ1NjMsMDAwMDAwMDAzMTRhOGIyY2M2YTBkNzQ1NmUwZDUwMGY3OThmYTJhOQ==`

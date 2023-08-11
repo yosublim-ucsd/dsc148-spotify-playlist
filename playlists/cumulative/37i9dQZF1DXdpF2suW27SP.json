@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "LON3R JOHNY e Plutonio entram na zona. ",
+  "description": "Dillaz entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -1334,7 +1334,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 164415,
       "name": "CHAMA ACESA",
       "url": "https://open.spotify.com/track/601OmwJ2gooPbZO16h8xy3"
@@ -1680,6 +1680,24 @@
       "duration_ms": 211333,
       "name": "Coisas na Cabe\u00e7a",
       "url": "https://open.spotify.com/track/5K91m4uOhos4AhyLhb6Ilc"
+    },
+    {
+      "album": {
+        "name": "Col\u00e3s",
+        "url": "https://open.spotify.com/album/4Xs96MIepiCpo8lBnnfDEv"
+      },
+      "artists": [
+        {
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193170,
+      "name": "Col\u00e3s",
+      "url": "https://open.spotify.com/track/3LTGo62z4pb6YldRQY1C5j"
     },
     {
       "album": {
@@ -3411,6 +3429,32 @@
     },
     {
       "album": {
+        "name": "Balan\u00e7o",
+        "url": "https://open.spotify.com/album/6ZjznsfvWwuODmsepHwG93"
+      },
+      "artists": [
+        {
+          "name": "L-ALI",
+          "url": "https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy"
+        },
+        {
+          "name": "Lunn",
+          "url": "https://open.spotify.com/artist/3DhbIvEFQyWMVbVJByMMfW"
+        },
+        {
+          "name": "J\u00dcRA",
+          "url": "https://open.spotify.com/artist/7tfbeKMXzuNuL25n1plxH9"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156205,
+      "name": "Labirinto",
+      "url": "https://open.spotify.com/track/40wj75OMEAqknzWfIaAirC"
+    },
+    {
+      "album": {
         "name": "Lado A Lado",
         "url": "https://open.spotify.com/album/5RddEu4YAFOQJxkxmoQ6QX"
       },
@@ -3974,7 +4018,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 199315,
       "name": "Meu Sorriso",
       "url": "https://open.spotify.com/track/4ZmxLhOFWYmlC57oSQ2A0m"

@@ -646,10 +646,28 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 112000,
       "name": "Brahms Lullaby",
       "url": "https://open.spotify.com/track/6C5G5yWbUSPFiJvfuI1WaK"
+    },
+    {
+      "album": {
+        "name": "My Guitar Lullabies",
+        "url": "https://open.spotify.com/album/2SY1QZEXNnESmB8KeRgvN8"
+      },
+      "artists": [
+        {
+          "name": "Mino Lawrence",
+          "url": "https://open.spotify.com/artist/7HHsz4iMR3pWHCusoe8Yyb"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "Brahms Lullaby",
+      "url": "https://open.spotify.com/track/7ikUx1ac0iqOSvjvROKX8L"
     },
     {
       "album": {
@@ -902,6 +920,24 @@
       "duration_ms": 75000,
       "name": "Darling",
       "url": "https://open.spotify.com/track/5z8UiO3h6b7OkHutawKqA8"
+    },
+    {
+      "album": {
+        "name": "Dear teddy",
+        "url": "https://open.spotify.com/album/3ZbPpGwQi06bp9PofzISBF"
+      },
+      "artists": [
+        {
+          "name": "Karl Schintz",
+          "url": "https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97000,
+      "name": "Dear teddy",
+      "url": "https://open.spotify.com/track/4McgjQHfTD9NkXCOOKhIcn"
     },
     {
       "album": {
@@ -2916,7 +2952,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 78065,
       "name": "Pop Goes the Weasel",
       "url": "https://open.spotify.com/track/4EsbzD1hbc4Kk7utFWGwIV"
@@ -3258,7 +3294,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 92608,
       "name": "Sleeping Bird",
       "url": "https://open.spotify.com/track/2Sb2fYbyyLWEGvh4xxfKvs"
@@ -3330,7 +3366,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 175167,
       "name": "So Many Stars",
       "url": "https://open.spotify.com/track/54Mmafmblu61obktO4hibb"
@@ -3478,6 +3514,24 @@
       "duration_ms": 102350,
       "name": "Stars at Night",
       "url": "https://open.spotify.com/track/4ItX9mxGkbuwNo4TwNhTMF"
+    },
+    {
+      "album": {
+        "name": "Cozy Evening",
+        "url": "https://open.spotify.com/album/1QfZNlNZN8UIaervJMkTlp"
+      },
+      "artists": [
+        {
+          "name": "Paige Rosen",
+          "url": "https://open.spotify.com/artist/5Tx246eTkaAi5ZzjBNyNmn"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168824,
+      "name": "Stars From Afar",
+      "url": "https://open.spotify.com/track/6xO6mruU9Ptgfm6VjA2cSa"
     },
     {
       "album": {
@@ -3762,7 +3816,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 126521,
       "name": "The Wheels On The Bus",
       "url": "https://open.spotify.com/track/7IpF6HgZeSeQ4VS3fxbqxw"

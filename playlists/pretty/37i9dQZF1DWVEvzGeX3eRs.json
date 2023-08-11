@@ -1,12 +1,12 @@
 {
   "description": "that Darius and Nina type love.",
-  "num_followers": 2638591,
+  "num_followers": 2638844,
   "original_name": "Love Deluxe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmE3Nzc1YTgzZDBhZjM2ZTJlNTFmMDM3NjhhOWVkYjgyMTZiYjE2",
+  "snapshot_id": "MCxiNjZjYWNmMzhhNDcwOWIxMGUyOTA4NWE3ZmVkMWU2Y2Y1ZTJlNmYz",
   "tracks": [
     {
       "added_at": "2023-02-02 23:04:07",
@@ -501,22 +501,6 @@
       "url": "https://open.spotify.com/track/2rkVoKVEMuct8SmEIGKzBw"
     },
     {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "Baduizm",
-        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 393733,
-      "name": "Other Side Of The Game",
-      "url": "https://open.spotify.com/track/6s4xndGKUhW0xXPYvFlwcL"
-    },
-    {
       "added_at": "2023-02-02 23:04:07",
       "album": {
         "name": "In Full Bloom",
@@ -531,6 +515,22 @@
       "duration_ms": 291760,
       "name": "Wishing on a Star",
       "url": "https://open.spotify.com/track/0u2CGItUO2jYEiFaXD7n5S"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "Baduizm",
+        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 393733,
+      "name": "Other Side Of The Game",
+      "url": "https://open.spotify.com/track/6s4xndGKUhW0xXPYvFlwcL"
     },
     {
       "added_at": "2023-02-02 23:22:15",
@@ -725,6 +725,22 @@
       "url": "https://open.spotify.com/track/2voXNGgRrosxCJA6foTVau"
     },
     {
+      "added_at": "2023-02-02 23:04:07",
+      "album": {
+        "name": "Spark Of Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6WhyyjT7SguubI15raOkDo"
+      },
+      "artists": [
+        {
+          "name": "Lenny Williams",
+          "url": "https://open.spotify.com/artist/5VcrwzYyoX3WUTbkaqcIvN"
+        }
+      ],
+      "duration_ms": 429120,
+      "name": "'Cause I Love You",
+      "url": "https://open.spotify.com/track/25z0QF3ANJPVM04fTbty45"
+    },
+    {
       "added_at": "2021-03-05 00:03:16",
       "album": {
         "name": "If I Ever Fall In Love",
@@ -759,22 +775,6 @@
       "duration_ms": 234053,
       "name": "Tender Love",
       "url": "https://open.spotify.com/track/6D527hFJzl1vWSzosEbyQk"
-    },
-    {
-      "added_at": "2023-02-02 23:04:07",
-      "album": {
-        "name": "Spark Of Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6WhyyjT7SguubI15raOkDo"
-      },
-      "artists": [
-        {
-          "name": "Lenny Williams",
-          "url": "https://open.spotify.com/artist/5VcrwzYyoX3WUTbkaqcIvN"
-        }
-      ],
-      "duration_ms": 429120,
-      "name": "'Cause I Love You",
-      "url": "https://open.spotify.com/track/25z0QF3ANJPVM04fTbty45"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -827,18 +827,18 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Michel'le",
-        "url": "https://open.spotify.com/album/2PngFAB0v6216314TZRcGb"
+        "name": "Personal Conversation",
+        "url": "https://open.spotify.com/album/3UuOV0067Agbr3L9bE1D9K"
       },
       "artists": [
         {
-          "name": "Michel'le",
-          "url": "https://open.spotify.com/artist/4D0WfOUqTzqKysXt33VL3j"
+          "name": "Case",
+          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
         }
       ],
-      "duration_ms": 353000,
-      "name": "Something in My Heart",
-      "url": "https://open.spotify.com/track/1CrWoWuxupYY1vi1XRdpBX"
+      "duration_ms": 276000,
+      "name": "Happily Ever After",
+      "url": "https://open.spotify.com/track/21fXrzSxu2y51Yqf57QycI"
     }
   ],
   "unique_name": "Love Deluxe",

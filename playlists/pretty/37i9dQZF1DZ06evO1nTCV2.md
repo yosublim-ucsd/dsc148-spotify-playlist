@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 
 > This is Ryan Adams\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,706 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,715 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 | 30 | [Fuck the Rain](https://open.spotify.com/track/1aaytdHwlq3UvtJVyw3wRH) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Big Colors](https://open.spotify.com/album/52I0BOmsfSkktBS11ANyE4) | 3:33 |
 | 31 | [Rollercoaster](https://open.spotify.com/track/2ysAcfGtUNg4PUOSom6yd5) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 4:09 |
 | 32 | [Oh My God, Whatever, Etc.](https://open.spotify.com/track/3o68rZVgCzV5ln4ug2RpUc) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Easy Tiger](https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE) | 2:31 |
-| 33 | [Style](https://open.spotify.com/track/4HRcQ151h3D8lZFvDMgObi) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA) | 2:44 |
-| 34 | [Damn Sam \(I Love a Woman That Rains\)](https://open.spotify.com/track/07A4I35sBKxJ43iPZmWMqZ) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 2:08 |
+| 33 | [Damn Sam \(I Love a Woman That Rains\)](https://open.spotify.com/track/07A4I35sBKxJ43iPZmWMqZ) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 2:08 |
+| 34 | [Style](https://open.spotify.com/track/4HRcQ151h3D8lZFvDMgObi) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA) | 2:44 |
 | 35 | [I See Monsters](https://open.spotify.com/track/7yo0FaDvZ7hx6F8UK324hH) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 3:54 |
 | 36 | [Pearls On A String](https://open.spotify.com/track/7cKps79ZK38xhAMFtsDtbm) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Easy Tiger](https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE) | 2:23 |
 | 37 | [Haunted House](https://open.spotify.com/track/60gqIHYxfFNfAF2ljsx2xq) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 2:42 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 | 44 | [Doylestown Girl](https://open.spotify.com/track/6oRkeHUGlFoxcFLTpnsINh) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 2:54 |
 | 45 | [Gimme Something Good](https://open.spotify.com/track/08aCW0RGOaR53En8g7e3HJ) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ryan Adams](https://open.spotify.com/album/5FV8d3DhSoArvwr0Qqgzq3) | 3:54 |
 | 46 | [Do Not Disturb](https://open.spotify.com/track/3TVSDKECnlWmmGLyX6jEm1) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Big Colors](https://open.spotify.com/album/52I0BOmsfSkktBS11ANyE4) | 3:00 |
-| 47 | [Hello](https://open.spotify.com/track/597K9htpDl8Daciz5PahvW) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Morning Glory](https://open.spotify.com/album/7IlQpxt7VLEUVgh4eSRFAO) | 4:08 |
-| 48 | [Burning Photographs](https://open.spotify.com/track/6PKNfjoN5MLXoqdTSjq6I4) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Rock N Roll](https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX) | 4:12 |
-| 49 | [Shine Through the Dark](https://open.spotify.com/track/2EcmwoX8991c6taoaUqyz4) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Live from Nowhere Near You, Vol\. II](https://open.spotify.com/album/5CFonSO5h0obDN2LLYHqXw) | 2:37 |
+| 47 | [Shine Through the Dark](https://open.spotify.com/track/2EcmwoX8991c6taoaUqyz4) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Live from Nowhere Near You, Vol\. II](https://open.spotify.com/album/5CFonSO5h0obDN2LLYHqXw) | 2:37 |
+| 48 | [Hello](https://open.spotify.com/track/597K9htpDl8Daciz5PahvW) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Morning Glory](https://open.spotify.com/album/7IlQpxt7VLEUVgh4eSRFAO) | 4:08 |
+| 49 | [Burning Photographs](https://open.spotify.com/track/6PKNfjoN5MLXoqdTSjq6I4) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Rock N Roll](https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX) | 4:12 |
 | 50 | [Theo Is Dreaming](https://open.spotify.com/track/0p6EmD0ixiLtlBbFOsgUIU) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 1:21 |
 
-Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDAzOGU2ZDI2NzczNjFiZTFlMWEyZDMxNGEwMWY1ZTg2MQ==`
+Snapshot ID: `MjgxOTQ1NjMsMDAwMDAwMDAyNjM1Zjk0MTI2Nzc1MjE3ZDgwMmQxYmVhYmExYTE1Yw==`

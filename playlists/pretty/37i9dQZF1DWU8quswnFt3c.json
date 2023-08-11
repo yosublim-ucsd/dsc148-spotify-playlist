@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: P!nk",
-  "num_followers": 916623,
+  "num_followers": 918766,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlN2JlY2EyMDZhZjNiZWQ3ZmNlMTM1MTM5NWMzNmJhMWVlYTc1NGQx",
+  "snapshot_id": "MCw4OTUzYzY0NzNhNjc3NmQzODliMzIyODdmODQxNmNhNzY5MDA0Y2Rk",
   "tracks": [
     {
       "added_at": "2023-08-02 04:00:00",
@@ -167,22 +167,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "LALI",
-        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 162098,
-      "name": "Qui\u00e9nes Son?",
-      "url": "https://open.spotify.com/track/52zunI6NmQaPyvgMpakfga"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "Udh Di Phiran",
         "url": "https://open.spotify.com/album/1uvy9ZXnUqwEvvDHcWJK8e"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 221538,
       "name": "Udh Di Phiran",
       "url": "https://open.spotify.com/track/4sTY5k1xidkZWbtvVZrft3"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "LALI",
+        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 162098,
+      "name": "Qui\u00e9nes Son?",
+      "url": "https://open.spotify.com/track/52zunI6NmQaPyvgMpakfga"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -235,26 +235,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Cheat (feat. JoJo)",
-        "url": "https://open.spotify.com/album/249LVBE0PeIQJfuUXepYfw"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        },
-        {
-          "name": "JoJo",
-          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
-        }
-      ],
-      "duration_ms": 202009,
-      "name": "Cheat (feat. JoJo)",
-      "url": "https://open.spotify.com/track/1mXJlLzoEk3STrioO2ehRE"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "Ping Pong",
         "url": "https://open.spotify.com/album/78O50pRKdsnXqYBZaAdN15"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 159272,
       "name": "Ping Pong",
       "url": "https://open.spotify.com/track/1iNJJ72vb58cVLX5Wkbpwv"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "Cheat (feat. JoJo)",
+        "url": "https://open.spotify.com/album/249LVBE0PeIQJfuUXepYfw"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        },
+        {
+          "name": "JoJo",
+          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
+        }
+      ],
+      "duration_ms": 202009,
+      "name": "Cheat (feat. JoJo)",
+      "url": "https://open.spotify.com/track/1mXJlLzoEk3STrioO2ehRE"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -307,18 +307,18 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "No Days Off",
-        "url": "https://open.spotify.com/album/4xyQuZ8oTJ7ZhdiWBwtVnS"
+        "name": "Can I Shower At Yours",
+        "url": "https://open.spotify.com/album/0fTLP9DCzyRXwn1un2prwj"
       },
       "artists": [
         {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+          "name": "Amy Shark",
+          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
         }
       ],
-      "duration_ms": 195668,
-      "name": "No Days Off",
-      "url": "https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy"
+      "duration_ms": 114004,
+      "name": "Can I Shower At Yours",
+      "url": "https://open.spotify.com/track/4M5SqWR8LIgE9N3QzEJlyS"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -339,18 +339,18 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Can I Shower At Yours",
-        "url": "https://open.spotify.com/album/0fTLP9DCzyRXwn1un2prwj"
+        "name": "No Days Off",
+        "url": "https://open.spotify.com/album/4xyQuZ8oTJ7ZhdiWBwtVnS"
       },
       "artists": [
         {
-          "name": "Amy Shark",
-          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
         }
       ],
-      "duration_ms": 114004,
-      "name": "Can I Shower At Yours",
-      "url": "https://open.spotify.com/track/4M5SqWR8LIgE9N3QzEJlyS"
+      "duration_ms": 195668,
+      "name": "No Days Off",
+      "url": "https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
+        "name": "Qu\u00e9 Iron\u00eda",
+        "url": "https://open.spotify.com/album/6q2RlNPqDohxAfpcc5cVno"
+      },
+      "artists": [
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        }
+      ],
+      "duration_ms": 267445,
+      "name": "Qu\u00e9 Iron\u00eda",
+      "url": "https://open.spotify.com/track/5FmJy09OizHiP0440KL1S7"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
         "name": "WILLY",
         "url": "https://open.spotify.com/album/5voxHC8bWiqFAw4toUcsZs"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 165000,
       "name": "WILLY",
       "url": "https://open.spotify.com/track/2nmfojpIbGRmDa2UCfddYW"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
-        "name": "Qu\u00e9 Iron\u00eda",
-        "url": "https://open.spotify.com/album/6q2RlNPqDohxAfpcc5cVno"
-      },
-      "artists": [
-        {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
-        }
-      ],
-      "duration_ms": 267445,
-      "name": "Qu\u00e9 Iron\u00eda",
-      "url": "https://open.spotify.com/track/5FmJy09OizHiP0440KL1S7"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "MAMA EH",
-        "url": "https://open.spotify.com/album/5U8A7AUT8X995x5f269DpO"
-      },
-      "artists": [
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        }
-      ],
-      "duration_ms": 151499,
-      "name": "MAMA EH",
-      "url": "https://open.spotify.com/track/47VdymxL7CZSpfGDbvAxWK"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "Isla Mater",
         "url": "https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 191428,
       "name": "Fugaz",
       "url": "https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "MAMA EH",
+        "url": "https://open.spotify.com/album/5U8A7AUT8X995x5f269DpO"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "duration_ms": 151499,
+      "name": "MAMA EH",
+      "url": "https://open.spotify.com/track/47VdymxL7CZSpfGDbvAxWK"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -607,6 +607,22 @@
       "duration_ms": 203797,
       "name": "idc",
       "url": "https://open.spotify.com/track/407aJoHyCCUs8trkkrHy4i"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "Autodeadma (Solo Version)",
+        "url": "https://open.spotify.com/album/5FsAARRcSyeb62vQ8EDwXH"
+      },
+      "artists": [
+        {
+          "name": "Maymay Entrata",
+          "url": "https://open.spotify.com/artist/4JliYPIw09GespZAmZv6rI"
+        }
+      ],
+      "duration_ms": 192452,
+      "name": "Autodeadma - Solo Version",
+      "url": "https://open.spotify.com/track/0jBT10y68IpZhHIFz9MAx7"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -707,6 +723,22 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
+        "name": "All Over Again",
+        "url": "https://open.spotify.com/album/7HhucprxrFJcoonHk8Oh2A"
+      },
+      "artists": [
+        {
+          "name": "Saya No\u00e9",
+          "url": "https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead"
+        }
+      ],
+      "duration_ms": 155750,
+      "name": "All Over Again",
+      "url": "https://open.spotify.com/track/67U4ELgWMvHdnfYCTubs6e"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
         "name": "Not Enough",
         "url": "https://open.spotify.com/album/1Hnn5WMNMYM7DBE1U9fdIR"
       },
@@ -727,38 +759,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "All Over Again",
-        "url": "https://open.spotify.com/album/7HhucprxrFJcoonHk8Oh2A"
-      },
-      "artists": [
-        {
-          "name": "Saya No\u00e9",
-          "url": "https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead"
-        }
-      ],
-      "duration_ms": 155750,
-      "name": "All Over Again",
-      "url": "https://open.spotify.com/track/67U4ELgWMvHdnfYCTubs6e"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
-        "name": "Gejsza",
-        "url": "https://open.spotify.com/album/6id487flXcclOKki3ffxf6"
-      },
-      "artists": [
-        {
-          "name": "nita",
-          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
-        }
-      ],
-      "duration_ms": 172266,
-      "name": "Gejsza",
-      "url": "https://open.spotify.com/track/66u9QTPZwOdJjGQ2vby65p"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "Cumbiecitas Elegantes",
         "url": "https://open.spotify.com/album/7e8anfI4t2UBQPZADp4Rkq"
       },
@@ -775,6 +775,22 @@
       "duration_ms": 167629,
       "name": "Cumbiecitas Elegantes",
       "url": "https://open.spotify.com/track/37kpcwVIrLW1i6bz8XAshq"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "Gejsza",
+        "url": "https://open.spotify.com/album/6id487flXcclOKki3ffxf6"
+      },
+      "artists": [
+        {
+          "name": "nita",
+          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
+        }
+      ],
+      "duration_ms": 172266,
+      "name": "Gejsza",
+      "url": "https://open.spotify.com/track/66u9QTPZwOdJjGQ2vby65p"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -887,22 +903,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Autodeadma (Solo Version)",
-        "url": "https://open.spotify.com/album/5FsAARRcSyeb62vQ8EDwXH"
-      },
-      "artists": [
-        {
-          "name": "Maymay Entrata",
-          "url": "https://open.spotify.com/artist/4JliYPIw09GespZAmZv6rI"
-        }
-      ],
-      "duration_ms": 192452,
-      "name": "Autodeadma - Solo Version",
-      "url": "https://open.spotify.com/track/0jBT10y68IpZhHIFz9MAx7"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "\u05e7\u05de\u05ea\u05d9 \u05dc\u05e8\u05e7\u05d5\u05d3",
         "url": "https://open.spotify.com/album/6mkQst9FWyn45fyXwtpoF4"
       },
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
+        "name": "\u041d\u0430 \u0442\u0443\u0441\u0456",
+        "url": "https://open.spotify.com/album/0DL3Ezm71ane1ngMyUxLxG"
+      },
+      "artists": [
+        {
+          "name": "Gunna Chorna",
+          "url": "https://open.spotify.com/artist/6svqgn8444V7khZxeHQ0c1"
+        }
+      ],
+      "duration_ms": 124750,
+      "name": "\u041d\u0430 \u0442\u0443\u0441\u0456",
+      "url": "https://open.spotify.com/track/7uYrEOHgq2ZHgLkmSvZ9cp"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/0Ls0tJstRIzJFgE6MvbPWO"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 188000,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/6bOqF7Qzk5GeIFVb4HjNsg"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
-        "name": "\u041d\u0430 \u0442\u0443\u0441\u0456",
-        "url": "https://open.spotify.com/album/0DL3Ezm71ane1ngMyUxLxG"
-      },
-      "artists": [
-        {
-          "name": "Gunna Chorna",
-          "url": "https://open.spotify.com/artist/6svqgn8444V7khZxeHQ0c1"
-        }
-      ],
-      "duration_ms": 124750,
-      "name": "\u041d\u0430 \u0442\u0443\u0441\u0456",
-      "url": "https://open.spotify.com/track/7uYrEOHgq2ZHgLkmSvZ9cp"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Vas de Salida",
-        "url": "https://open.spotify.com/album/2jkH7HrRTkNWqevE3FgncN"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "Vas de Salida",
-      "url": "https://open.spotify.com/track/0YBeV2hlrhGVB6dPItP1ct"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "come around",
         "url": "https://open.spotify.com/album/3JYJhlexDFk0pM5pESRgKc"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 182535,
       "name": "come around",
       "url": "https://open.spotify.com/track/5aS72tjLvmMreeR0khCjcE"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "Vas de Salida",
+        "url": "https://open.spotify.com/album/2jkH7HrRTkNWqevE3FgncN"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "Vas de Salida",
+      "url": "https://open.spotify.com/track/0YBeV2hlrhGVB6dPItP1ct"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -1139,22 +1139,18 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "LIVE ARCHIVE",
-        "url": "https://open.spotify.com/album/61SLmgZrabr4zY2QcUN9I6"
+        "name": "Mis Ni\u00f1as",
+        "url": "https://open.spotify.com/album/5YjbgM8BpW9BDTKgmBv33R"
       },
       "artists": [
         {
-          "name": "Annet X",
-          "url": "https://open.spotify.com/artist/3wTmekbMox022tiwirdy6F"
-        },
-        {
-          "name": "Champion Sound",
-          "url": "https://open.spotify.com/artist/5dhObqVu8dAvxklbfr3SJx"
+          "name": "L'Beel",
+          "url": "https://open.spotify.com/artist/2NaOGDdslPSAHTqsMSSbx4"
         }
       ],
-      "duration_ms": 242256,
-      "name": "Pink Matter - Live",
-      "url": "https://open.spotify.com/track/0pl9qoqHfaI6lF57QIBayY"
+      "duration_ms": 149760,
+      "name": "200/h",
+      "url": "https://open.spotify.com/track/12Qde9rce6A18RW6JuUfQC"
     },
     {
       "added_at": "2023-08-02 14:04:23",
@@ -1175,18 +1171,22 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Mis Ni\u00f1as",
-        "url": "https://open.spotify.com/album/5YjbgM8BpW9BDTKgmBv33R"
+        "name": "LIVE ARCHIVE",
+        "url": "https://open.spotify.com/album/61SLmgZrabr4zY2QcUN9I6"
       },
       "artists": [
         {
-          "name": "L'Beel",
-          "url": "https://open.spotify.com/artist/2NaOGDdslPSAHTqsMSSbx4"
+          "name": "Annet X",
+          "url": "https://open.spotify.com/artist/3wTmekbMox022tiwirdy6F"
+        },
+        {
+          "name": "Champion Sound",
+          "url": "https://open.spotify.com/artist/5dhObqVu8dAvxklbfr3SJx"
         }
       ],
-      "duration_ms": 149760,
-      "name": "200/h",
-      "url": "https://open.spotify.com/track/12Qde9rce6A18RW6JuUfQC"
+      "duration_ms": 242256,
+      "name": "Pink Matter - Live",
+      "url": "https://open.spotify.com/track/0pl9qoqHfaI6lF57QIBayY"
     },
     {
       "added_at": "2023-08-02 04:00:00",

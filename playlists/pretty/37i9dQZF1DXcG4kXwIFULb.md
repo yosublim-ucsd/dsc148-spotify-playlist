@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 
 > A look back at this fruitful era comprising trip\-hop heavyweights, electronica's vanguard and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,169 likes - 100 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,289 likes - 100 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,18 +30,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 20 | [Slip Into Something More Comfortable \- Stephen Hague 2016 Mix](https://open.spotify.com/track/3iFrnwcE635aABiCZWULxP) | [Kinobe](https://open.spotify.com/artist/468ohR5I3vI6JztrHL7exy), [Stephen Hague](https://open.spotify.com/artist/1PNOAWuRRAfd7MTaFzE5Ae) | [Slip Into Something More Comfortable](https://open.spotify.com/album/58ZEg8lRtbxqzeYzMdiH9u) | 4:47 |
 | 21 | [Sure Thing](https://open.spotify.com/track/1msXkHv84LKikJGKcfdGBu) | [St Germain](https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n) | [Tourist \(Remastered\)](https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj) | 6:20 |
 | 22 | [At the River](https://open.spotify.com/track/0KIPa0YuQ5QFmlAqRyXNd9) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Vertigo](https://open.spotify.com/album/1KzGIlZIlhRwUIoPlexdax) | 6:33 |
-| 23 | [Porcelain](https://open.spotify.com/track/5fJAYWoFgXm26HLNViFiUh) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: B Sides](https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c) | 4:01 |
-| 24 | [Sweet Tides](https://open.spotify.com/track/6BlJSNxgtngyE6WAVY87NT) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Radio Retaliation](https://open.spotify.com/album/6uhfP1BIgi9P4pkdX7gApL) | 4:48 |
+| 23 | [Sweet Tides](https://open.spotify.com/track/6BlJSNxgtngyE6WAVY87NT) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Radio Retaliation](https://open.spotify.com/album/6uhfP1BIgi9P4pkdX7gApL) | 4:48 |
+| 24 | [Porcelain](https://open.spotify.com/track/5fJAYWoFgXm26HLNViFiUh) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: B Sides](https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c) | 4:01 |
 | 25 | [Wandering Star](https://open.spotify.com/track/7h14W1uQK7sjpVI1oVTobt) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 4:53 |
 | 26 | [6 Underground](https://open.spotify.com/track/7KvSuH86lIT2aTl9PBCAfd) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P) | [Becoming X](https://open.spotify.com/album/74nAYi5aVDBdb5jGx8OM7s) | 3:48 |
 | 27 | [Alone in Kyoto](https://open.spotify.com/track/40UlFC0dIxv7lAEJaPZLnm) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Talkie Walkie](https://open.spotify.com/album/0hQOqvZv1nQvPiBjzyn363) | 4:51 |
 | 28 | [Yes Baby Yes](https://open.spotify.com/track/5AiNMNnKQUYcKsuJoB6ITc) | [Mo' Horizons](https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP) | [Come Touch The Sun](https://open.spotify.com/album/5qy89jtphApqKiPw4kVszd) | 5:00 |
 | 29 | [Underwater Love](https://open.spotify.com/track/1vahbgf2hkAjBvYRtIo09F) | [Smoke City](https://open.spotify.com/artist/76aD5RR474u5LVtrYxBKkF) | [Flying Away](https://open.spotify.com/album/52g3C6ZdK60MAWsiGxAQz1) | 6:46 |
 | 30 | [Rose rouge](https://open.spotify.com/track/1divptdjcWXvF1aflfTQnw) | [St Germain](https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n) | [Tourist \(Remastered\)](https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj) | 6:56 |
-| 31 | [Let Go](https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:13 |
-| 32 | [Numb](https://open.spotify.com/track/7lR743VxfubUw5m9dpnR9x) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 3:55 |
+| 31 | [Until The Morning](https://open.spotify.com/track/7nNUSD1jkWC71zIOUWY03E) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3), [Emilíana Torrini](https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P) | [The Richest Man In Babylon](https://open.spotify.com/album/22Y3wMfU6Bm0rtnjaljDSn) | 3:56 |
+| 32 | [Let Go](https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:13 |
 | 33 | [Soon It Will Be Cold Enough to Build Fires](https://open.spotify.com/track/7cHRys0Lhk9642dLaPUMkm) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Soon It Will Be Cold Enough](https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU) | 3:00 |
-| 34 | [Until The Morning](https://open.spotify.com/track/7nNUSD1jkWC71zIOUWY03E) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3), [Emilíana Torrini](https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P) | [The Richest Man In Babylon](https://open.spotify.com/album/22Y3wMfU6Bm0rtnjaljDSn) | 3:56 |
+| 34 | [Numb](https://open.spotify.com/track/7lR743VxfubUw5m9dpnR9x) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 3:55 |
 | 35 | [Building Steam With A Grain Of Salt](https://open.spotify.com/track/4Ms0GKHCtr5Lpg4dKOhO2I) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Endtroducing.....](https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN) | 6:39 |
 | 36 | [Sunny Road](https://open.spotify.com/track/1QhN6ZjGqeRO6cDuE1H76q) | [Emilíana Torrini](https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P) | [Fisherman's Woman](https://open.spotify.com/album/5fPGV2BBurhFEE2d5AAWaq) | 3:04 |
 | 37 | [2 Wicky](https://open.spotify.com/track/4NyKEVldCvokxpmeFBNNXI) | [Hooverphonic](https://open.spotify.com/artist/5EP020iZcwBqHRnJftibXX) | [A New Stereophonic Sound Spectacular](https://open.spotify.com/album/6FFKUYyfC9S8fDy725qLAq) | 4:44 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 93 | [Transatlantic](https://open.spotify.com/track/0uY3duWVyW02qcq9QhoQZY) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Apricot Morning](https://open.spotify.com/album/4RQOGfXsV5TVo5hJXNQ5ql) | 4:44 |
 | 94 | [Return to Air](https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Flashlight EP](https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR) | 5:02 |
 | 95 | [His Majesty King Raam](https://open.spotify.com/track/4J8ms7TbPISBz71G5z2SGS) | [Lemon Jelly](https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc) | [LemonJelly.ky](https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk) | 7:20 |
-| 96 | [Malemolência](https://open.spotify.com/track/1Wit1Nw3sVBbyyX9NjjT7H) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [CéU](https://open.spotify.com/album/6dG1XPrl1KEeK4MND7WAoB) | 2:54 |
-| 97 | [The Hardest](https://open.spotify.com/track/2rdr8VQ1NPnoQLKfqEPFgl) | [Gasoline](https://open.spotify.com/artist/3RnTXThtZ7Oe4RZYE6mRyp) | [Journey Into Abstract Hip Hop](https://open.spotify.com/album/62S3iAhIMlheNq8K8h1BF1) | 4:02 |
-| 98 | [Part of the Process](https://open.spotify.com/track/6OK27eVNONtsnJcF0n6a4C) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd) | [Parts of the Process](https://open.spotify.com/album/1oq0L9KwQnhQm91bNNhaFd) | 4:25 |
-| 99 | [Superheroes](https://open.spotify.com/track/2akoq472I49TzrFSJjjf47) | [Esthero](https://open.spotify.com/artist/1VmTG1NmumTwTIOGbew6gH) | [Breath From Another](https://open.spotify.com/album/5IjiTlH5NjwgFjfCxXlY0S) | 3:58 |
-| 100 | [Electric Lazyland](https://open.spotify.com/track/4desWKODsdzW9QHHmQxx6J) | [9 Lazy 9](https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH) | [Electric Lazyland](https://open.spotify.com/album/7o5ZZr07ZAPzCegrhWDVu9) | 5:52 |
+| 96 | [The Hardest](https://open.spotify.com/track/2rdr8VQ1NPnoQLKfqEPFgl) | [Gasoline](https://open.spotify.com/artist/3RnTXThtZ7Oe4RZYE6mRyp) | [Journey Into Abstract Hip Hop](https://open.spotify.com/album/62S3iAhIMlheNq8K8h1BF1) | 4:02 |
+| 97 | [Malemolência](https://open.spotify.com/track/1Wit1Nw3sVBbyyX9NjjT7H) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [CéU](https://open.spotify.com/album/6dG1XPrl1KEeK4MND7WAoB) | 2:54 |
+| 98 | [Superheroes](https://open.spotify.com/track/2akoq472I49TzrFSJjjf47) | [Esthero](https://open.spotify.com/artist/1VmTG1NmumTwTIOGbew6gH) | [Breath From Another](https://open.spotify.com/album/5IjiTlH5NjwgFjfCxXlY0S) | 3:58 |
+| 99 | [Part of the Process](https://open.spotify.com/track/6OK27eVNONtsnJcF0n6a4C) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd) | [Parts of the Process](https://open.spotify.com/album/1oq0L9KwQnhQm91bNNhaFd) | 4:25 |
+| 100 | [Before Today \- 2015 Remaster](https://open.spotify.com/track/5IDD5YsXUUZbM4Hty8RnOT) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Walking Wounded \(Deluxe Edition\)](https://open.spotify.com/album/4wGUmFfJaJksaMCzGnRWL5) | 4:17 |
 
-Snapshot ID: `MCw5ZTJlOTUzMGIwZmJhNGJkZDE3N2JjZjEyZjM1ZWM1ZGIzZTk5NzBm`
+Snapshot ID: `MCxiMTZlZDhkM2YyZTFhMGJmNGYwNWE4NzQ1MGY0ZTZhZmQwNjlhZjJi`

@@ -4,7 +4,7 @@
 
 > Dembow dominicano to el día\. Foto: Chimbala
 
-392 songs - 21 hr 27 min
+393 songs - 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Dinero Facil \- Remix](https://open.spotify.com/track/4xXjYrDjpWREjH2JqRU8W9) | [Musicologo The Libro](https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q), [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj) | [La Libreta](https://open.spotify.com/album/1MZOBdiRgaQ7TvuGUzwzIN) | 3:45 | 2022-11-21 |  |
 | [Dominican Playero](https://open.spotify.com/track/4BTE1TBTl3GUAR4JNYjhU5) | [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX) | [Dominican Playero](https://open.spotify.com/album/5njrj9D5UAV0Hy0H3VGD8Y) | 3:09 | 2021-12-10 |  |
 | [Dominican Playero 40](https://open.spotify.com/track/7ABFA1oWDw1W4BHHTrRCsF) | [RMT](https://open.spotify.com/artist/7xkWWYrajypGr7Kq04zgA7) | [Dominican Playero 40](https://open.spotify.com/album/2eoQDJb2fNXkuBfWPANoJe) | 3:21 | 2021-12-10 |  |
-| [Durisimo](https://open.spotify.com/track/2qm47srciNsrYrA0SFG3gD) | [La Nueva Escuela](https://open.spotify.com/artist/7mcJN2bWqCv7jvykgHp4KN) | [Edición de Lujo](https://open.spotify.com/album/3oeqfFFV0X5K7ObhiTzqry) | 2:45 | 2022-01-04 |  |
+| [Durisimo](https://open.spotify.com/track/2qm47srciNsrYrA0SFG3gD) | [La Nueva Escuela](https://open.spotify.com/artist/7mcJN2bWqCv7jvykgHp4KN) | [Edición de Lujo](https://open.spotify.com/album/3oeqfFFV0X5K7ObhiTzqry) | 2:45 | 2022-01-04 | 2023-08-11 |
 | [El Boom](https://open.spotify.com/track/4hir6efnLrA73d06HuLbZo) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [El Boom](https://open.spotify.com/album/3TMJdmoW3lPHunsISMexIW) | 3:39 | 2022-11-21 |  |
 | [El Cajeroyor](https://open.spotify.com/track/2mDULtk5UUtrd8CPtFRlbQ) | [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj) | [Exitos del Dembow](https://open.spotify.com/album/58UaKpvZpeuefnHUhIrap0) | 3:11 | 2021-12-10 | 2022-07-16 |
 | [El Calimete](https://open.spotify.com/track/7n2aYaieYRmMEswNknIuIs) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Exitos Vol\. 1](https://open.spotify.com/album/7yS1RMcw03GA0N4jbl2bgU) | 3:47 | 2021-12-10 | 2022-07-27 |
@@ -163,6 +163,7 @@
 | [KIKITO](https://open.spotify.com/track/6bbObOAinxRL1WtJlGU6co) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [KIKITO](https://open.spotify.com/album/5zaKagkTuLUWKJw054CGRq) | 2:50 | 2022-03-25 | 2023-04-21 |
 | [Kikito](https://open.spotify.com/track/4KoRu9Redw3Vi2ZxVHwwOV) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [Kikito](https://open.spotify.com/album/6xcIPu7jc9DIZS2SLnOqVp) | 2:50 | 2023-05-26 |  |
 | [Kitipo](https://open.spotify.com/track/0J7fY1t0GMWRMLTOxWEsWa) | [Dixson Waz](https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt), [La Tukiti](https://open.spotify.com/artist/65j9C3n5PkSSZ8oPXzO2nf), [Amenazandel](https://open.spotify.com/artist/59QQbpbrYSGtgG338yoLx4) | [Kitipo](https://open.spotify.com/album/35ABeqToii3OpU5fFOmD8x) | 3:31 | 2023-05-26 | 2023-06-13 |
+| [Klk Con Klk](https://open.spotify.com/track/01oIgxxVo6RNZZ7JHWQRcf) | [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq) | [On Fire](https://open.spotify.com/album/0m859pAzGiLM9zhTzaq4UP) | 2:44 | 2023-05-26 |  |
 | [Klok Con Klok](https://open.spotify.com/track/0WlCyTEeJHHtqdIjNVnQbz) | [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq) | [Reggaeton Hits V2.0 \(Reggaeton \- Cubaton \- Dembow \- 20 Urban Latin Hits\)](https://open.spotify.com/album/3czCynmnFzvbqiYKUU6z0O) | 2:43 | 2021-12-10 | 2022-07-24 |
 | [Klok Con Klok](https://open.spotify.com/track/4VthUTifCMlgzYkfQX1LQV) | [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq) | [Klok Con Klok](https://open.spotify.com/album/712hXpuMGoq1KPEI1RxoW6) | 2:43 | 2022-05-28 | 2023-08-07 |
 | [Knock Out](https://open.spotify.com/track/6YRH8zh2KMbltmbSf4Qe1d) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Shelow Shaq](https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU), [La Manta](https://open.spotify.com/artist/3omyT5zHz9QmE63xEk10OV) | [Knock Out](https://open.spotify.com/album/3gnvNadSEuwYy86yDc7j7n) | 3:15 | 2021-12-10 | 2023-05-27 |

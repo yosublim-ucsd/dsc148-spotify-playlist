@@ -1,12 +1,12 @@
 {
   "description": "Where Sitar meets Guitar. Cover - Shakti",
-  "num_followers": 63455,
+  "num_followers": 63488,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZWRjZTk4NGNlMzA2MjU3MTU2ZDdhYWFlMjdlYzMxOTRjYTczMjJh",
+  "snapshot_id": "MCxkMDc2OGJiNjU1OWNiZDI2YzMwMzFiNDA0NWU5MDA2YzVlM2JlOGEz",
   "tracks": [
     {
       "added_at": "2023-08-03 08:29:31",
@@ -539,6 +539,34 @@
     {
       "added_at": "2023-08-03 08:29:31",
       "album": {
+        "name": "Sargam Surge",
+        "url": "https://open.spotify.com/album/3u6H2xQHCflSYqB2hkJoYa"
+      },
+      "artists": [
+        {
+          "name": "Purbayan Chatterjee",
+          "url": "https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW"
+        },
+        {
+          "name": "Kaushiki Chakraborty",
+          "url": "https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI"
+        },
+        {
+          "name": "Yogesh Samsi",
+          "url": "https://open.spotify.com/artist/0w1T6iC8PeJnmb118ywMck"
+        },
+        {
+          "name": "V. Selvaganesh",
+          "url": "https://open.spotify.com/artist/5fHFkjKfYRCErfRi2T3Nzf"
+        }
+      ],
+      "duration_ms": 141224,
+      "name": "Sargam Surge",
+      "url": "https://open.spotify.com/track/0G9GqTdIsZTs3yQnmuQDeg"
+    },
+    {
+      "added_at": "2023-08-03 08:29:31",
+      "album": {
         "name": "Rang",
         "url": "https://open.spotify.com/album/0jaYy040TXxZ0dKZ0Ys4fV"
       },
@@ -575,34 +603,6 @@
       "duration_ms": 311186,
       "name": "Yariyaan",
       "url": "https://open.spotify.com/track/5DSFsWFoGi37SivNJAoTi4"
-    },
-    {
-      "added_at": "2023-08-03 08:29:31",
-      "album": {
-        "name": "Sargam Surge",
-        "url": "https://open.spotify.com/album/3u6H2xQHCflSYqB2hkJoYa"
-      },
-      "artists": [
-        {
-          "name": "Purbayan Chatterjee",
-          "url": "https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW"
-        },
-        {
-          "name": "Kaushiki Chakraborty",
-          "url": "https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI"
-        },
-        {
-          "name": "Yogesh Samsi",
-          "url": "https://open.spotify.com/artist/0w1T6iC8PeJnmb118ywMck"
-        },
-        {
-          "name": "V. Selvaganesh",
-          "url": "https://open.spotify.com/artist/5fHFkjKfYRCErfRi2T3Nzf"
-        }
-      ],
-      "duration_ms": 141224,
-      "name": "Sargam Surge",
-      "url": "https://open.spotify.com/track/0G9GqTdIsZTs3yQnmuQDeg"
     },
     {
       "added_at": "2023-08-03 08:29:31",
@@ -923,46 +923,22 @@
     {
       "added_at": "2023-08-03 08:29:31",
       "album": {
-        "name": "Ras Ke Bhare",
-        "url": "https://open.spotify.com/album/2zFQCsirZmXXl4qNNO55D9"
+        "name": "In Other Words",
+        "url": "https://open.spotify.com/album/3mL6fwYvMOzFSPdjFsOoso"
       },
       "artists": [
         {
-          "name": "Sona Mohapatra",
-          "url": "https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3"
+          "name": "Anhad + Tanner",
+          "url": "https://open.spotify.com/artist/5V4PIa2khOUA4o5HUd5fhZ"
         },
         {
-          "name": "Sparsh Agrawal",
-          "url": "https://open.spotify.com/artist/0HAi6wzZPabkO4T93W2b9U"
+          "name": "Akanksha Grover",
+          "url": "https://open.spotify.com/artist/5d78XABQ0O7YUJu7uI65Tj"
         }
       ],
-      "duration_ms": 233181,
-      "name": "Ras Ke Bhare",
-      "url": "https://open.spotify.com/track/00Z4zBOh25NUzsUGffMrZS"
-    },
-    {
-      "added_at": "2023-08-03 08:29:31",
-      "album": {
-        "name": "Krishna Murari",
-        "url": "https://open.spotify.com/album/2VZdqS2HN8jfjoiCWG0FAp"
-      },
-      "artists": [
-        {
-          "name": "Hrishikesh Datar",
-          "url": "https://open.spotify.com/artist/0mn7WBfik9JJWhvQ0nHY08"
-        },
-        {
-          "name": "Shilpa Puntambekar",
-          "url": "https://open.spotify.com/artist/39BPeGp96iluxeeOJB4Cho"
-        },
-        {
-          "name": "Savani Kulkarni",
-          "url": "https://open.spotify.com/artist/6ryQKtRDvVIAe74nmB0m5T"
-        }
-      ],
-      "duration_ms": 225353,
-      "name": "Krishna Murari",
-      "url": "https://open.spotify.com/track/7KLhtw1RFbalVdbnHM8644"
+      "duration_ms": 294855,
+      "name": "Coming Home (feat. Akanksha Grover)",
+      "url": "https://open.spotify.com/track/6CQhSRMH7HYenOa3OToRyh"
     },
     {
       "added_at": "2023-08-03 08:29:31",
@@ -991,26 +967,46 @@
     {
       "added_at": "2023-08-03 08:29:31",
       "album": {
-        "name": "Thaare Bina",
-        "url": "https://open.spotify.com/album/3yPCdVh7cFYiy8heF8s1eC"
+        "name": "Krishna Murari",
+        "url": "https://open.spotify.com/album/2VZdqS2HN8jfjoiCWG0FAp"
       },
       "artists": [
         {
-          "name": "Prashanth Srinivas",
-          "url": "https://open.spotify.com/artist/2KYeJm60817LSIQtkgOffu"
+          "name": "Hrishikesh Datar",
+          "url": "https://open.spotify.com/artist/0mn7WBfik9JJWhvQ0nHY08"
         },
         {
-          "name": "Swaroop Khan",
-          "url": "https://open.spotify.com/artist/5hT3CHUnrkUFsgGAvEPSQC"
+          "name": "Shilpa Puntambekar",
+          "url": "https://open.spotify.com/artist/39BPeGp96iluxeeOJB4Cho"
         },
         {
-          "name": "Sukanya Purkayastha",
-          "url": "https://open.spotify.com/artist/4MxomN78tgwq8HCasnFIIH"
+          "name": "Savani Kulkarni",
+          "url": "https://open.spotify.com/artist/6ryQKtRDvVIAe74nmB0m5T"
         }
       ],
-      "duration_ms": 323734,
-      "name": "Thaare Bina",
-      "url": "https://open.spotify.com/track/4qPEj1futdyovzkDQkbBcz"
+      "duration_ms": 225353,
+      "name": "Krishna Murari",
+      "url": "https://open.spotify.com/track/7KLhtw1RFbalVdbnHM8644"
+    },
+    {
+      "added_at": "2023-08-03 08:29:31",
+      "album": {
+        "name": "Ras Ke Bhare",
+        "url": "https://open.spotify.com/album/2zFQCsirZmXXl4qNNO55D9"
+      },
+      "artists": [
+        {
+          "name": "Sona Mohapatra",
+          "url": "https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3"
+        },
+        {
+          "name": "Sparsh Agrawal",
+          "url": "https://open.spotify.com/artist/0HAi6wzZPabkO4T93W2b9U"
+        }
+      ],
+      "duration_ms": 233181,
+      "name": "Ras Ke Bhare",
+      "url": "https://open.spotify.com/track/00Z4zBOh25NUzsUGffMrZS"
     }
   ],
   "unique_name": "Fusion Finds",

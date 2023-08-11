@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4C4Xm0.md) - [plain]
 
 > This is Brian Eno\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,679 likes - 51 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,696 likes - 51 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,12 +52,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4C4Xm0.md) - [plain]
 | 42 | [Verdigris](https://open.spotify.com/track/6VSIleZcNhbmW03rAheUWp) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 4:03 |
 | 43 | [Wind On Wind](https://open.spotify.com/track/5DiwyUEb7jG8iVOaHYMEgl) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/6VeZbitYSYxhDJEm7Wf2k4) | 3:13 |
 | 44 | [Brave Are the Waves](https://open.spotify.com/track/6kKeHrBbkc3atBtbVHrIVq) | [The Leisure Society](https://open.spotify.com/artist/6SzmRtk9EnP5q1rqfqbfSW), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Brave Are the Waves](https://open.spotify.com/album/6upCEAEHiChDghpLuHXG0H) | 2:20 |
-| 45 | [Schöne Hände](https://open.spotify.com/track/1WbwlYiiMZGQlrFGirRnHv) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Cluster & Eno](https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy) | 3:05 |
-| 46 | [Lay My Love](https://open.spotify.com/track/1i75wN1NJ6oaWeVZPK2A03) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Wrong Way Up \[Expanded Edition\]](https://open.spotify.com/album/0oHoEmlhtwdFFWFJIoLNy0) | 4:44 |
+| 45 | [Lay My Love](https://open.spotify.com/track/1i75wN1NJ6oaWeVZPK2A03) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Wrong Way Up \[Expanded Edition\]](https://open.spotify.com/album/0oHoEmlhtwdFFWFJIoLNy0) | 4:44 |
+| 46 | [Schöne Hände](https://open.spotify.com/track/1WbwlYiiMZGQlrFGirRnHv) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Cluster & Eno](https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy) | 3:05 |
 | 47 | [Five Light Paintings 3](https://open.spotify.com/track/2L4rLummiRO5NDDWAKTWql) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Five Light Paintings](https://open.spotify.com/album/7yGqCn70OE7zwsY02lXgxm) | 4:41 |
 | 48 | [I'll Come Running \- 2004 Digital Remaster](https://open.spotify.com/track/6ZWVeMysm8Q8zZu3lKnY2v) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 3:49 |
-| 49 | [Flower Bells 1](https://open.spotify.com/track/4tNXRsfdhlmjm7Mf1UY2qh) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Flower Bells](https://open.spotify.com/album/74pNYVu0uYkG4OJ4QVQnqe) | 3:35 |
-| 50 | [Aragon \- Remastered 2005](https://open.spotify.com/track/2pwBxOkWYNvPYWvIUPeFst) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Music For Films](https://open.spotify.com/album/1ISvymGGbUmHY01eJ8EF07) | 1:37 |
+| 49 | [Aragon \- Remastered 2005](https://open.spotify.com/track/2pwBxOkWYNvPYWvIUPeFst) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Music For Films](https://open.spotify.com/album/1ISvymGGbUmHY01eJ8EF07) | 1:37 |
+| 50 | [Flower Bells 1](https://open.spotify.com/track/4tNXRsfdhlmjm7Mf1UY2qh) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Flower Bells](https://open.spotify.com/album/74pNYVu0uYkG4OJ4QVQnqe) | 3:35 |
 | 51 | [In Dark Trees \- 2004 Digital Remaster](https://open.spotify.com/track/41RiTUEXw8uoCtLd8pcHVy) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 2:31 |
 
-Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDBmMmFhY2JkZDlmODJiMDg1YTgzZGNlOTIxY2FmODYzOQ==`
+Snapshot ID: `MjgxOTQ1NjMsMDAwMDAwMDAyYzM5ZjZlMGVjZDczNDI1M2IwN2JiYWVkZjllYTlhNQ==`

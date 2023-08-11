@@ -2,7 +2,7 @@
 
 ### [Street Culto](https://open.spotify.com/playlist/37i9dQZF1DWXU2naFUn37x)
 
-> Solo il meglio dello street rap italiano\. Cover: Artie 5ive, Sacky
+> Solo il meglio dello street rap italiano\. Cover: Mikush, Niky Savage
 
 339 songs - 15 hr 43 min
 

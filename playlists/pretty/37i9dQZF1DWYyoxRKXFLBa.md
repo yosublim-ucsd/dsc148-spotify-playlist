@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 
 > Conoce a puras morras rifadas en La Marketa\. ¡Súbele al volumen, te esperamos el 6 de Agosto en Jardín Juárez! En portada: Now Girls Rule
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,803 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,811 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 58 | [somos flores](https://open.spotify.com/track/34xv9WXxnZxaiHd23LoYxK) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [somos flores](https://open.spotify.com/album/3xzMAIxJ88TfqcoaOiFhDd) | 3:26 |
 | 59 | [Si No Te Hubieras Ido](https://open.spotify.com/track/4b3ZcXUbkJu32F5xKJaXTz) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Deep Cuts](https://open.spotify.com/album/7eZIU8RLDwDpHTEYwlbxyb) | 3:10 |
 | 60 | [Muérete Tú](https://open.spotify.com/track/3pOdUPiHJaCS9liEjpiIWc) | [Muérete Tú](https://open.spotify.com/artist/7jku55nhXim5pUBmriM2Vo) | [Muérete Tú](https://open.spotify.com/album/6gNvQwVQRwSG4cQ5GLYmgI) | 2:52 |
-| 61 | [De par en par](https://open.spotify.com/track/1XDCh1aPoNPVTWHyHMZNnc) | [Onyricats](https://open.spotify.com/artist/5jkxhCPVAKnHBSGxS9wSyn) | [De par en par](https://open.spotify.com/album/2vJmqGyVWXATCZyYDcvwkN) | 4:06 |
-| 62 | [Kill V\. Maim](https://open.spotify.com/track/3HPi0ghN9BErsKwlTlFz31) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Kill V\. Maim](https://open.spotify.com/album/2VKbyz0lCi3tw7DBGAY5g6) | 4:14 |
+| 61 | [Kill V\. Maim](https://open.spotify.com/track/3HPi0ghN9BErsKwlTlFz31) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Kill V\. Maim](https://open.spotify.com/album/2VKbyz0lCi3tw7DBGAY5g6) | 4:14 |
+| 62 | [De par en par](https://open.spotify.com/track/1XDCh1aPoNPVTWHyHMZNnc) | [Onyricats](https://open.spotify.com/artist/5jkxhCPVAKnHBSGxS9wSyn) | [De par en par](https://open.spotify.com/album/2vJmqGyVWXATCZyYDcvwkN) | 4:06 |
 | 63 | [P3da](https://open.spotify.com/track/4rxg8aTQOGGL7LV1yqqhHy) | [Las Decapitadas](https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ), [Roberta Pardo](https://open.spotify.com/artist/5SDCXW3v93K8R58xRLeV0b), [Isabela Costero](https://open.spotify.com/artist/3Jes9MS3tLqPDrCDxdUGQx), [Maria Villanueva](https://open.spotify.com/artist/10LgSuLJnpj2wkOxOQW1hF), [Valentina Reyes](https://open.spotify.com/artist/7gFOLjST0TuyozYrZUQWtw) | [P3da](https://open.spotify.com/album/5s7W0XNdHN2Sz3JviG3Rv8) | 1:21 |
 | 64 | [Desvelo](https://open.spotify.com/track/1jxb4xO5jc3yOazCbl5jy3) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [La Ciudad Que Dejamos](https://open.spotify.com/album/17wOANgahKkdnXVZpkw6ey) | 4:34 |
 | 65 | [Hola Lola](https://open.spotify.com/track/5IfspIqcWREksXTijVm3M9) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W) | [Hola Lola](https://open.spotify.com/album/5QMxRYcUld2N5Oe75ePcge) | 3:57 |
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 72 | [Contradicktion](https://open.spotify.com/track/4ZRT63eSHEA1NmeyNzTliU) | [Las Decapitadas](https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ) | [Contradicktion](https://open.spotify.com/album/7H75c5aOTznuxDg2fEt7wt) | 2:05 |
 | 73 | [Fea](https://open.spotify.com/track/2dCaAdHPetC80XV78kQ9a7) | [Las Pijamas](https://open.spotify.com/artist/4YXs1wyOEwikSr8Vrz0sSz) | [Fea](https://open.spotify.com/album/1XpjWRnp8kQoB2uRV2WvZl) | 3:33 |
 | 74 | [Pulitzer](https://open.spotify.com/track/2iscOVkAkT0a51h0IAtZHf) | [Onyricats](https://open.spotify.com/artist/5jkxhCPVAKnHBSGxS9wSyn) | [Pulitzer](https://open.spotify.com/album/3PPCTscj18LHjbpuWFCvvF) | 4:23 |
-| 75 | [Bellaco](https://open.spotify.com/track/3sVv6VG97Fxnfo93seAm8X) | [Pinpilinpussies](https://open.spotify.com/artist/4Mbv7MoBUcLBWCuGBCxRf1) | [HIPOCONDRÍA](https://open.spotify.com/album/1ZdhaaSnC5nWorkAg3Vuh0) | 4:55 |
-| 76 | [Volver a Ser](https://open.spotify.com/track/6aD9eUyPdBed9zUcmEJkNj) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Volver a Ser](https://open.spotify.com/album/4D1RRo53qiOmWLI25UZvrV) | 3:28 |
+| 75 | [Volver a Ser](https://open.spotify.com/track/6aD9eUyPdBed9zUcmEJkNj) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Volver a Ser](https://open.spotify.com/album/4D1RRo53qiOmWLI25UZvrV) | 3:28 |
+| 76 | [Bellaco](https://open.spotify.com/track/3sVv6VG97Fxnfo93seAm8X) | [Pinpilinpussies](https://open.spotify.com/artist/4Mbv7MoBUcLBWCuGBCxRf1) | [HIPOCONDRÍA](https://open.spotify.com/album/1ZdhaaSnC5nWorkAg3Vuh0) | 4:55 |
 | 77 | [Corrida al Arco](https://open.spotify.com/track/5QTBQvrTCudXdatBV3ycRF) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Corrida al Arco](https://open.spotify.com/album/6o0XLbTOCvzBz7rH0kYZUk) | 4:13 |
 | 78 | [Baby Don't You Love Me \- Bonus Track](https://open.spotify.com/track/59Tnq0bVlPkMtHt3m35XgL) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj), [Kate Clover](https://open.spotify.com/artist/2ruUPKyey3uXmASjTMOsu5) | [Ghost In The Machine](https://open.spotify.com/album/5DB06kLqIbFneddTadfbGH) | 3:06 |
 | 79 | [Escapar](https://open.spotify.com/track/6eK3x5Q6m3ItwHGdmVEo1d) | [Silver Rose](https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP) | [Las Distancias](https://open.spotify.com/album/6iw6U4obwRM38eN7JZ33Dm) | 4:01 |
 | 80 | [Prisma Lunar](https://open.spotify.com/track/3XquW4OssRBZXDG5kbN6re) | [The Centellas](https://open.spotify.com/artist/3JMSuFrEG6bMGn2gbyyIMD) | [Espécimen Surf](https://open.spotify.com/album/2MPyMDuNJvpjYXbtaW9PUT) | 2:29 |
 
-Snapshot ID: `MCxmZTIyMTE0NWUzYTI2ZjZkMWIwZWMyYjJiYmRhYjMyNjZmMmJiMTY1`
+Snapshot ID: `MCw1MmU5YzJjNGQzMzdiOGE4OWQ5ZDg3NDdkYmY3NTg2NzMyYzVhYjJj`

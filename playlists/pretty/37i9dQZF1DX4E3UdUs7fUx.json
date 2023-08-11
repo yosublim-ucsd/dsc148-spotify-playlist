@@ -1,12 +1,12 @@
 {
   "description": "Unwind and let the afternoon unfold.",
-  "num_followers": 2312257,
+  "num_followers": 2312204,
   "original_name": "Afternoon Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDc0OTkyMWMyMGY2Mzk5NDk4YTc2ODhmZGVjNjJmZjA2ZDJkNWRl",
+  "snapshot_id": "MCxkMjU3MGZkNmRjOTZmMDY5NjQ2NjA3YTk1NWU4ZDBlNDRjMGIzNzdk",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "The Stray Birds",
-        "url": "https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t"
-      },
-      "artists": [
-        {
-          "name": "The Stray Birds",
-          "url": "https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM"
-        }
-      ],
-      "duration_ms": 212026,
-      "name": "Dream in Blue",
-      "url": "https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Dual",
         "url": "https://open.spotify.com/album/4vCwbb8M7HVTPGrDGsTYh4"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 211805,
       "name": "Fly - Acoustic",
       "url": "https://open.spotify.com/track/2YVK7RkwslK62gTCWboDPM"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "The Stray Birds",
+        "url": "https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t"
+      },
+      "artists": [
+        {
+          "name": "The Stray Birds",
+          "url": "https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM"
+        }
+      ],
+      "duration_ms": 212026,
+      "name": "Dream in Blue",
+      "url": "https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Eyes Wide Open (From \"North Star\")",
-        "url": "https://open.spotify.com/album/2YYpuK6nOd6KJap8X7vzHe"
-      },
-      "artists": [
-        {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
-        }
-      ],
-      "duration_ms": 195840,
-      "name": "Eyes Wide Open - From \"North Star\"",
-      "url": "https://open.spotify.com/track/1xkFLx2HwziUgjXrC0Jhw6"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "It's Hard to Be Human",
         "url": "https://open.spotify.com/album/1vnZT6upil8XVg94ejhGk3"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 183456,
       "name": "Love Anyway",
       "url": "https://open.spotify.com/track/5JPfqMCvGP1If64oTizuqa"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Eyes Wide Open (From \"North Star\")",
+        "url": "https://open.spotify.com/album/2YYpuK6nOd6KJap8X7vzHe"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "duration_ms": 195840,
+      "name": "Eyes Wide Open - From \"North Star\"",
+      "url": "https://open.spotify.com/track/1xkFLx2HwziUgjXrC0Jhw6"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Dressed in Roses",
-        "url": "https://open.spotify.com/album/0qdMxhmhBONYgZJEbQiYjG"
-      },
-      "artists": [
-        {
-          "name": "Barbaro",
-          "url": "https://open.spotify.com/artist/56xyoM0kp95h5kVkAjoOMq"
-        }
-      ],
-      "duration_ms": 206013,
-      "name": "Barbaro",
-      "url": "https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Same Kind Of Different (Acoustic)",
         "url": "https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 248427,
       "name": "Waves - Guitar Acoustic",
       "url": "https://open.spotify.com/track/6yiWXb7aSGTLtrh7oKj80S"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Dressed in Roses",
+        "url": "https://open.spotify.com/album/0qdMxhmhBONYgZJEbQiYjG"
+      },
+      "artists": [
+        {
+          "name": "Barbaro",
+          "url": "https://open.spotify.com/artist/56xyoM0kp95h5kVkAjoOMq"
+        }
+      ],
+      "duration_ms": 206013,
+      "name": "Barbaro",
+      "url": "https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg"
     },
     {
       "added_at": "2023-06-30 04:00:00",

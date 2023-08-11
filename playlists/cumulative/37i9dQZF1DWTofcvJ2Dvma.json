@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 169402,
       "name": "A Love Letter",
       "url": "https://open.spotify.com/track/3B33U7UQ2HDaE03CahuGSQ"
@@ -204,6 +204,24 @@
       "duration_ms": 115443,
       "name": "Alana Kane",
       "url": "https://open.spotify.com/track/3ppjtvIsZZKhpqE9Kum87O"
+    },
+    {
+      "album": {
+        "name": "All For Us",
+        "url": "https://open.spotify.com/album/1xBCh5TykgEUgaDdcdEHvH"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152054,
+      "name": "All For Us",
+      "url": "https://open.spotify.com/track/1Y7cZDAKu7Fz7aw3MfATw1"
     },
     {
       "album": {
@@ -924,7 +942,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 147586,
       "name": "Cold Heart",
       "url": "https://open.spotify.com/track/2ox7UibRifja8dXB3kHrwT"
@@ -1116,6 +1134,24 @@
       "duration_ms": 128007,
       "name": "crisp",
       "url": "https://open.spotify.com/track/5x7r4EEFe1MdqmoQVFUGPk"
+    },
+    {
+      "album": {
+        "name": "dandelion",
+        "url": "https://open.spotify.com/album/492Ybcq5tFbemcEipgwpJQ"
+      },
+      "artists": [
+        {
+          "name": "iasilma",
+          "url": "https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143947,
+      "name": "dandelion",
+      "url": "https://open.spotify.com/track/0MKy76vfRDZkPeg4SO2U0b"
     },
     {
       "album": {
@@ -2361,6 +2397,24 @@
     },
     {
       "album": {
+        "name": "hey there",
+        "url": "https://open.spotify.com/album/3KIlwKpgo3op5kfqQXuvXy"
+      },
+      "artists": [
+        {
+          "name": "Soulflu",
+          "url": "https://open.spotify.com/artist/6dBaFTE0JSiCN4JL9K03tM"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111000,
+      "name": "hey there",
+      "url": "https://open.spotify.com/track/68Zo3BRsxsowxAxwT1RC9I"
+    },
+    {
+      "album": {
         "name": "Hidden Village",
         "url": "https://open.spotify.com/album/3vr5I9Jb9vgRuFsRfTfhnQ"
       },
@@ -2862,6 +2916,24 @@
       "duration_ms": 215050,
       "name": "Koodu Beat",
       "url": "https://open.spotify.com/track/3eWSufYeo9lVW9QvorDuPz"
+    },
+    {
+      "album": {
+        "name": "Kumiko",
+        "url": "https://open.spotify.com/album/0NDZSFjA3DCom2tALXPoxw"
+      },
+      "artists": [
+        {
+          "name": "Neko Kedi",
+          "url": "https://open.spotify.com/artist/785Hs8MoBt2oTIRtfEtsuw"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109367,
+      "name": "Kumiko",
+      "url": "https://open.spotify.com/track/5KXTEKjI26Kl95Eb0w15pN"
     },
     {
       "album": {
@@ -3658,7 +3730,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 226438,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/5rf9tzfMIgIjVpmw3lOhbj"
@@ -3701,6 +3773,24 @@
     },
     {
       "album": {
+        "name": "morning vibes",
+        "url": "https://open.spotify.com/album/2KdexWlZI2sqY6HTdz2G75"
+      },
+      "artists": [
+        {
+          "name": "flotate",
+          "url": "https://open.spotify.com/artist/1WCXAKhgy8iunT7CJfHXZS"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123520,
+      "name": "morning vibes",
+      "url": "https://open.spotify.com/track/5n1DPnDhK6yWe8BjNIt9p8"
+    },
+    {
+      "album": {
         "name": "mosaic maker",
         "url": "https://open.spotify.com/album/3vGv2KrRg2QRh8vLbhgggR"
       },
@@ -3734,6 +3824,24 @@
       "duration_ms": 135000,
       "name": "Mr. Beuford's Hotel",
       "url": "https://open.spotify.com/track/1HOtm36fmarBFzghxDGGWU"
+    },
+    {
+      "album": {
+        "name": "My Cat Picks Cactus Flowers",
+        "url": "https://open.spotify.com/album/2tDJDcZyS9wTgIxj7qz4wu"
+      },
+      "artists": [
+        {
+          "name": "Tigerpalm*Bay",
+          "url": "https://open.spotify.com/artist/17AFp9vXzeK7mwKhcFFB5J"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137857,
+      "name": "My Cat Picks Cactus Flowers",
+      "url": "https://open.spotify.com/track/6yi6V9pR18642tim9GlHdG"
     },
     {
       "album": {
@@ -4754,6 +4862,24 @@
       "duration_ms": 113250,
       "name": "She\u00b4s fly",
       "url": "https://open.spotify.com/track/3WyBZ7gGHCNKkzL9j8HNVB"
+    },
+    {
+      "album": {
+        "name": "Shiny Ride",
+        "url": "https://open.spotify.com/album/6W3rYjJskLeqz0ivUQIy41"
+      },
+      "artists": [
+        {
+          "name": "Walter Stewart",
+          "url": "https://open.spotify.com/artist/3vfsss4OqjEykpWXeDnSCp"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159021,
+      "name": "Shiny Ride",
+      "url": "https://open.spotify.com/track/0hSBApHBC9nAnyal5ahlcB"
     },
     {
       "album": {
@@ -6412,6 +6538,24 @@
       "duration_ms": 149022,
       "name": "Why?",
       "url": "https://open.spotify.com/track/0DBTbPIrz6yynQJP9H01mZ"
+    },
+    {
+      "album": {
+        "name": "Winter Is Coming",
+        "url": "https://open.spotify.com/album/4DI1TW1LgoNjHpNrB9tSNq"
+      },
+      "artists": [
+        {
+          "name": "Kokta beats",
+          "url": "https://open.spotify.com/artist/2ETiol5Kw5v2LFEjGLnlbS"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198187,
+      "name": "Winter Is Coming",
+      "url": "https://open.spotify.com/track/0ujOvkiXSRfsmJGEQoejf2"
     },
     {
       "album": {

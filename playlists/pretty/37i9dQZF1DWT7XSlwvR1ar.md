@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 
 > Stay relaxed with these easy, laid\-back songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,069,504 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,069,784 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 | 96 | [Mockingbird](https://open.spotify.com/track/6fS1CEMY4LlvQNWuUMoWEQ) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Dying Star](https://open.spotify.com/album/0HglC8wDUKL0VV5KI31bqU) | 4:37 |
 | 97 | [Tom Barrett](https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [River Fools & Mountain Saints](https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl) | 3:13 |
 | 98 | [I Got You](https://open.spotify.com/track/2yOJBslB31F2WMHM3s1FRN) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Work Hard and Be Nice](https://open.spotify.com/album/7hvm1xQnsTkIrcHYHGA5mR) | 3:36 |
-| 99 | [Strong Enough](https://open.spotify.com/track/1M1xjg2N1i5EKosEPtx2T7) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [MONOVISION](https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE) | 3:34 |
-| 100 | [Celeste](https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm) | [Ezra Vine](https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn) | [Celeste EP](https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt) | 3:23 |
+| 99 | [Celeste](https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm) | [Ezra Vine](https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn) | [Celeste EP](https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt) | 3:23 |
+| 100 | [Strong Enough](https://open.spotify.com/track/1M1xjg2N1i5EKosEPtx2T7) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [MONOVISION](https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE) | 3:34 |
 
-Snapshot ID: `MCxhZDQxYWUzYzBmZDQwMjI5ZmUwN2M0M2IwZWUyMzJiODY0ZmUyZDBm`
+Snapshot ID: `MCxhODg0MTA1NzkyZTY1YWUzNjg0Mzg1MDA4MDgwMGYwMjZlNWVmYjY3`

@@ -1,12 +1,12 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf37",
-  "num_followers": 111097,
+  "num_followers": 111120,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjgwY2Y5ZTFkMzA3ZmUxMTU2NTZmMWE5NzQyNjY3M2JjMzkwNjdh",
+  "snapshot_id": "MCxjNTI2NDVkOTU0OWEzY2ExMTA0ZjBmZTJhOGM1ZjBmZjZmMmY3ZjY5",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -251,18 +251,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Oh Brother",
-        "url": "https://open.spotify.com/album/3CGoYwEwSQwmL5INCrH6e4"
+        "name": "Old Love",
+        "url": "https://open.spotify.com/album/6mYFCScWWqFGpJAWc6FOxg"
       },
       "artists": [
         {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
         }
       ],
-      "duration_ms": 275506,
-      "name": "Its A Winding Road",
-      "url": "https://open.spotify.com/track/0NWBuu29pR2wjTOKT23auy"
+      "duration_ms": 205769,
+      "name": "Old Love",
+      "url": "https://open.spotify.com/track/3NwrnNYWLgDzNqqPj3HdyH"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -283,18 +283,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Old Love",
-        "url": "https://open.spotify.com/album/6mYFCScWWqFGpJAWc6FOxg"
+        "name": "Oh Brother",
+        "url": "https://open.spotify.com/album/3CGoYwEwSQwmL5INCrH6e4"
       },
       "artists": [
         {
-          "name": "Dominique Fils-Aim\u00e9",
-          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
         }
       ],
-      "duration_ms": 205769,
-      "name": "Old Love",
-      "url": "https://open.spotify.com/track/3NwrnNYWLgDzNqqPj3HdyH"
+      "duration_ms": 275506,
+      "name": "Its A Winding Road",
+      "url": "https://open.spotify.com/track/0NWBuu29pR2wjTOKT23auy"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "La nuit est une panth\u00e8re",
-        "url": "https://open.spotify.com/album/7eau0t375JHKnxK48tequj"
+        "name": "Notre-Dame-des-Sept-Douleurs",
+        "url": "https://open.spotify.com/album/4kNpkRG2YpK4jV9OoopVNh"
       },
       "artists": [
         {
-          "name": "Les Louanges",
-          "url": "https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l"
+          "name": "Kl\u00f4 Pelgag",
+          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
         }
       ],
-      "duration_ms": 177116,
-      "name": "Platane",
-      "url": "https://open.spotify.com/track/74GGj9rWMmSzJEzn4k0rjs"
+      "duration_ms": 235800,
+      "name": "J'aurai les cheveux longs",
+      "url": "https://open.spotify.com/track/6WL8nV3YgTlrIIlV5aQGyD"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1339,6 +1339,22 @@
       "duration_ms": 176536,
       "name": "Fables - The Garden Version",
       "url": "https://open.spotify.com/track/3jLVtU8Sm0cyiVHWFENICL"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "La nuit est une panth\u00e8re",
+        "url": "https://open.spotify.com/album/7eau0t375JHKnxK48tequj"
+      },
+      "artists": [
+        {
+          "name": "Les Louanges",
+          "url": "https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l"
+        }
+      ],
+      "duration_ms": 177116,
+      "name": "Platane",
+      "url": "https://open.spotify.com/track/74GGj9rWMmSzJEzn4k0rjs"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1375,18 +1391,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Notre-Dame-des-Sept-Douleurs",
-        "url": "https://open.spotify.com/album/4kNpkRG2YpK4jV9OoopVNh"
+        "name": "Bo\u00eete aux lettres",
+        "url": "https://open.spotify.com/album/4Ziyy1jo91GImMnuTHtU19"
       },
       "artists": [
         {
-          "name": "Kl\u00f4 Pelgag",
-          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
+          "name": "Les Hay Babies",
+          "url": "https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx"
         }
       ],
-      "duration_ms": 235800,
-      "name": "J'aurai les cheveux longs",
-      "url": "https://open.spotify.com/track/6WL8nV3YgTlrIIlV5aQGyD"
+      "duration_ms": 210920,
+      "name": "Fontaine \u00e0 v\u0153ux",
+      "url": "https://open.spotify.com/track/22zJbNjvH4ZFplXfypE9Yo"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1403,22 +1419,6 @@
       "duration_ms": 239573,
       "name": "Maison ouverte",
       "url": "https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Bo\u00eete aux lettres",
-        "url": "https://open.spotify.com/album/4Ziyy1jo91GImMnuTHtU19"
-      },
-      "artists": [
-        {
-          "name": "Les Hay Babies",
-          "url": "https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx"
-        }
-      ],
-      "duration_ms": 210920,
-      "name": "Fontaine \u00e0 v\u0153ux",
-      "url": "https://open.spotify.com/track/22zJbNjvH4ZFplXfypE9Yo"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Interlude",
-        "url": "https://open.spotify.com/album/2ZqA1oNYPM798rTmx0radP"
-      },
-      "artists": [
-        {
-          "name": "Clerel",
-          "url": "https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8"
-        }
-      ],
-      "duration_ms": 200005,
-      "name": "Le Tour",
-      "url": "https://open.spotify.com/track/1pCNb1IlrpyBYCKPZ4v9wU"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Tu ne seras jamais l\u00e0",
         "url": "https://open.spotify.com/album/4fYbZnjvq99Qft84BJepre"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 187800,
       "name": "Tu ne seras jamais l\u00e0",
       "url": "https://open.spotify.com/track/6WNVFXtZyFmfosAxvisgPL"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Interlude",
+        "url": "https://open.spotify.com/album/2ZqA1oNYPM798rTmx0radP"
+      },
+      "artists": [
+        {
+          "name": "Clerel",
+          "url": "https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8"
+        }
+      ],
+      "duration_ms": 200005,
+      "name": "Le Tour",
+      "url": "https://open.spotify.com/track/1pCNb1IlrpyBYCKPZ4v9wU"
     },
     {
       "added_at": "2023-08-04 04:00:00",

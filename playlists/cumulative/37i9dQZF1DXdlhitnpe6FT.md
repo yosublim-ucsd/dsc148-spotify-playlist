@@ -4,7 +4,7 @@
 
 > The notes that will make you long for those days of yore.
 
-198 songs - 10 hr 53 min
+199 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Crepuscolo Sul Mare](https://open.spotify.com/track/3c07yD1n2fRvcD9wY638hg) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk) | [La Legge Dei Gangsters](https://open.spotify.com/album/3j4peilVrbOhAZEIvA3ptr) | 2:47 | 2020-12-08 |  |
 | [Dolannes mélodie](https://open.spotify.com/track/7qqnQFC8rnyCOhfd4DTWzO) | [Jean Claude Borelly](https://open.spotify.com/artist/15BHk5GnZ3AZVGO6P1vFmn) | [La mélodie du lac d'amour](https://open.spotify.com/album/1mIBAczDftPkMTP3FWszdW) | 2:52 | 2020-12-08 |  |
 | [Don't Cry for Me, Argentina](https://open.spotify.com/track/73YFP7Lu1i4jm4UtpBUDgq) | [Orchester Anthony Ventura](https://open.spotify.com/artist/2hHn2RczMs5jxSd3a7rFXK) | [El Condor Pasa](https://open.spotify.com/album/67cSFK8NNLTF0M0drg82Kx) | 2:20 | 2020-12-08 |  |
+| [East Bound And Down](https://open.spotify.com/track/287NlxhT7ovzqs1XeChOhW) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [East Bound And Down](https://open.spotify.com/album/6i4T3kD5KHM5CcQu4yH9iT) | 2:42 | 2023-08-10 |  |
 | [Ebb Tide](https://open.spotify.com/track/2LCxsIKM9bl8lrPlL2EUmz) | [Santo & Johnny](https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK) | [Santo & Johnny](https://open.spotify.com/album/66NAHdCgY1qfLsuvpOMA68) | 2:15 | 2020-12-08 |  |
 | [El Bimbo](https://open.spotify.com/track/5K1fJewuOw6qRqEkKpoupc) | [Bimbo Jet](https://open.spotify.com/artist/6XALv74pqJV3jeZ31To8KD) | [Popcorn And Other Great Instrumentals](https://open.spotify.com/album/610Kwc03HbBmVXkZhV9fQP) | 2:25 | 2020-12-08 | 2022-07-29 |
 | [El Mundial \- Instrumental](https://open.spotify.com/track/3ot35nXnnTewSLf2k57Sga) | [J\. Torregrosa](https://open.spotify.com/artist/0JxM7pf4IWQd8TdoQR0Zwe), [Plácido Domingo](https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW) | [La Música En El Deporte Mundial](https://open.spotify.com/album/0EaplqaM8Rqt2AaNeZXkcn) | 3:19 | 2020-12-08 | 2022-11-13 |
@@ -204,7 +205,7 @@
 | [Wheels](https://open.spotify.com/track/2RVrL0fZ7O0mwdyWlwjyLW) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [Orange Blossom Special And Wheels](https://open.spotify.com/album/2M9TCUQuMDdf1NSHbTMUh0) | 2:08 | 2020-12-08 |  |
 | [Woodpecker Song](https://open.spotify.com/track/1b39F2Q4sNP8R9PwGK8G5D) | [Tony Mottola y Su Orquesta](https://open.spotify.com/artist/5qByAjccmQRznP524QB0wy) | [Tony Mottola y Su Orquesta](https://open.spotify.com/album/5XPpYqZJ3zdJv4qAI0NBYl) | 1:53 | 2020-12-08 |  |
 | [Yellow Bird](https://open.spotify.com/track/3KOC0porpfAeFFYuA4d73z) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Yellow Bird](https://open.spotify.com/album/20MWtXQ8eH0hgOi8Sf7KyX) | 2:44 | 2020-12-08 | 2022-07-29 |
-| [Yellow Bird](https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Yellow Bird](https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP) | 2:44 | 2020-12-08 |  |
+| [Yellow Bird](https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Yellow Bird](https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP) | 2:44 | 2020-12-08 | 2023-08-11 |
 | [Yellow Bird](https://open.spotify.com/track/7uJQUtgOzvSlVM3oyY012O) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [The Very Best of Arthur Lyman \(The Sensual Sounds of Exotica\)](https://open.spotify.com/album/67llfJEfIaI1LHh8thoTdo) | 2:45 | 2020-12-08 | 2022-11-18 |
 
 \*This playlist was first scraped on 2022-01-21. Prior content cannot be recovered.

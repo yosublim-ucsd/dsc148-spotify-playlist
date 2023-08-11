@@ -1,12 +1,12 @@
 {
   "description": "The official soundtrack of Nike's NYvsNY, curated by the players. We Outside!",
-  "num_followers": 10604,
+  "num_followers": 10607,
   "original_name": "NYvsNY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzA4OTdlMmVjZDgyNzNiZjA4OTQ5NWFjNGViYjhiYTNkZmMzZTFh",
+  "snapshot_id": "MCw3NzYxOTQzYjNhNGFhZDMyNWM5MGJiNWFmMjE4ZTBkNjgyMzYwNGVj",
   "tracks": [
     {
       "added_at": "2023-07-10 21:55:04",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "Just Wanna Rock",
-        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 123890,
-      "name": "Just Wanna Rock",
-      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
         "name": "Yeezus",
         "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 229146,
       "name": "Bound 2",
       "url": "https://open.spotify.com/track/3sNVsP50132BTNlImLx70i"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
+        "name": "Just Wanna Rock",
+        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 123890,
+      "name": "Just Wanna Rock",
+      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "Artist 2.0 (Deluxe)",
-        "url": "https://open.spotify.com/album/4v0IxMbMN975IfxFHzgK9d"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 133331,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/2xB46Bj9HZ4cr058yN4Pla"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
         "name": "T R A P S O U L",
         "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 194613,
       "name": "Exchange",
       "url": "https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
+        "name": "Artist 2.0 (Deluxe)",
+        "url": "https://open.spotify.com/album/4v0IxMbMN975IfxFHzgK9d"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 133331,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/2xB46Bj9HZ4cr058yN4Pla"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -867,6 +867,26 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
+        "name": "Born Sinner (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 241160,
+      "name": "Power Trip (feat. Miguel)",
+      "url": "https://open.spotify.com/track/2uwnP6tZVVmTovzX5ELooy"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
         "name": "Artist",
         "url": "https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z"
       },
@@ -879,22 +899,6 @@
       "duration_ms": 128156,
       "name": "My Shit",
       "url": "https://open.spotify.com/track/5uQOauh47VFt3B2kV9kRXw"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
-        "name": "2014 Forest Hills Drive",
-        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 211496,
-      "name": "Love Yourz",
-      "url": "https://open.spotify.com/track/2e3Ea0o24lReQFR4FA7yXH"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -987,22 +991,18 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "Born Sinner (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
+        "name": "Hoodie SZN",
+        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
       },
       "artists": [
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 241160,
-      "name": "Power Trip (feat. Miguel)",
-      "url": "https://open.spotify.com/track/2uwnP6tZVVmTovzX5ELooy"
+      "duration_ms": 179449,
+      "name": "Look Back at It",
+      "url": "https://open.spotify.com/track/3Ol2xnObFdKV9pmRD2t9x8"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "Hoodie SZN",
-        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
+        "name": "2014 Forest Hills Drive",
+        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
       },
       "artists": [
         {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 179449,
-      "name": "Look Back at It",
-      "url": "https://open.spotify.com/track/3Ol2xnObFdKV9pmRD2t9x8"
+      "duration_ms": 211496,
+      "name": "Love Yourz",
+      "url": "https://open.spotify.com/track/2e3Ea0o24lReQFR4FA7yXH"
     },
     {
       "added_at": "2023-07-10 21:55:04",
@@ -1511,26 +1511,6 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "One and Only",
-        "url": "https://open.spotify.com/album/6lJqLqRmWGmsw8aLEoSlZ9"
-      },
-      "artists": [
-        {
-          "name": "Sheff G",
-          "url": "https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm"
-        },
-        {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
-        }
-      ],
-      "duration_ms": 157619,
-      "name": "Weight On Me",
-      "url": "https://open.spotify.com/track/6A4hgJdwriera4WSUl4moW"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
         "name": "Drama (feat. Drake) [Sped Up]",
         "url": "https://open.spotify.com/album/5e31w2HtxpJeqO16YCDviv"
       },
@@ -1547,6 +1527,26 @@
       "duration_ms": 251859,
       "name": "Drama (feat. Drake)",
       "url": "https://open.spotify.com/track/232jKM7OzWMfuwHyf9r3dX"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
+        "name": "One and Only",
+        "url": "https://open.spotify.com/album/6lJqLqRmWGmsw8aLEoSlZ9"
+      },
+      "artists": [
+        {
+          "name": "Sheff G",
+          "url": "https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm"
+        },
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        }
+      ],
+      "duration_ms": 157619,
+      "name": "Weight On Me",
+      "url": "https://open.spotify.com/track/6A4hgJdwriera4WSUl4moW"
     },
     {
       "added_at": "2023-06-27 06:48:40",
@@ -1791,30 +1791,6 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "Off The Court (with Polo G & Einer Bankz)",
-        "url": "https://open.spotify.com/album/6yfMPQTVVXzc2Q5h0gCFiL"
-      },
-      "artists": [
-        {
-          "name": "SleazyWorld Go",
-          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "Einer Bankz",
-          "url": "https://open.spotify.com/artist/5okEmP9iOvZT9UdlODLiaR"
-        }
-      ],
-      "duration_ms": 193937,
-      "name": "Off The Court (with Polo G & Einer Bankz)",
-      "url": "https://open.spotify.com/track/1o8NmBVhT1PeADJhmAi7vZ"
-    },
-    {
-      "added_at": "2023-06-27 06:48:40",
-      "album": {
         "name": "#SantanaWorld (+)",
         "url": "https://open.spotify.com/album/1S7KWH0szrqutOvzsqxiBv"
       },
@@ -1839,18 +1815,46 @@
     {
       "added_at": "2023-06-27 06:48:40",
       "album": {
-        "name": "Almost Healed",
-        "url": "https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce"
+        "name": "Off The Court (with Polo G & Einer Bankz)",
+        "url": "https://open.spotify.com/album/6yfMPQTVVXzc2Q5h0gCFiL"
       },
       "artists": [
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Einer Bankz",
+          "url": "https://open.spotify.com/artist/5okEmP9iOvZT9UdlODLiaR"
         }
       ],
-      "duration_ms": 253738,
-      "name": "Pelle Coat",
-      "url": "https://open.spotify.com/track/6KlqjCLNImX7W9zYt2Xa7D"
+      "duration_ms": 193937,
+      "name": "Off The Court (with Polo G & Einer Bankz)",
+      "url": "https://open.spotify.com/track/1o8NmBVhT1PeADJhmAi7vZ"
+    },
+    {
+      "added_at": "2023-06-27 06:48:40",
+      "album": {
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 205733,
+      "name": "Just Might (with PARTYNEXTDOOR)",
+      "url": "https://open.spotify.com/track/43IMaycr34ZR5kS8mlL5hH"
     }
   ],
   "unique_name": "NYvsNY",

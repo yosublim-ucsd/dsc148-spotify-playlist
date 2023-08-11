@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Edgardo Nuñez en portada.
 
-362 songs - 19 hr 33 min
+363 songs - 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [Hublot](https://open.spotify.com/track/5qKsIal7JJZ2bqXHPKdyVb) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm) | [Hublot](https://open.spotify.com/album/2VPiPeLG36iLMPIQOk1NgG) | 3:45 | 2022-07-01 |  |
 | [Ismael \(En Vivo\)](https://open.spotify.com/track/614Kdv71MWjSPwDK7pNyTy) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Ismael \(En Vivo\)](https://open.spotify.com/album/5CJzX8xV9XeSlC22tWPJ4T) | 2:43 | 2023-03-10 | 2023-04-15 |
 | [KDR](https://open.spotify.com/track/66OK4uEWo71v2hcsPqxMNn) | [Grupo Mente Maestra](https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2) | [KDR](https://open.spotify.com/album/6ATbvwDHxLn5dfzGpqfygm) | 3:21 | 2022-04-29 | 2022-08-30 |
-| [La 701](https://open.spotify.com/track/6NKkscuqh2UWR4gzXIF84G) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [La 701](https://open.spotify.com/album/5dJtr2DikQCxBRGlKKdRPI) | 3:00 | 2023-07-14 |  |
+| [La 701](https://open.spotify.com/track/6NKkscuqh2UWR4gzXIF84G) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [La 701](https://open.spotify.com/album/5dJtr2DikQCxBRGlKKdRPI) | 3:00 | 2023-07-14 | 2023-08-11 |
 | [La 701 \- Panter Belico](https://open.spotify.com/track/4C1Nffkw1W8ecBjNLJRgAS) | [5 Music MX](https://open.spotify.com/artist/0ZptoanpAurqsvPl5tHKSH), [La Fresada Music](https://open.spotify.com/artist/2EMMZtzNBUVJAPy0l4w4A1) | [La 701 \- Panter Belico](https://open.spotify.com/album/1U8AwjMc0FdRXtjAP1wIFt) | 3:03 | 2023-07-17 | 2023-08-06 |
 | [La 701 \- Panter Belico](https://open.spotify.com/track/5yPJK5jRsaeIoNo0rcFkgP) | [5 Music MX](https://open.spotify.com/artist/0ZptoanpAurqsvPl5tHKSH), [La Fresada Music](https://open.spotify.com/artist/2EMMZtzNBUVJAPy0l4w4A1) | [La 701 \- Panter Belico](https://open.spotify.com/album/0SwvlaDXZ02ru0A2F8F0PG) | 3:03 | 2023-07-17 | 2023-07-31 |
 | [La Bachata](https://open.spotify.com/track/59m0TOx1aJSWRAQHIgClvS) | [Fuerza de Tijuana](https://open.spotify.com/artist/0OtCwdMEGIi0GCeLGCO2tQ) | [La Bachata](https://open.spotify.com/album/7fwmPvUHYF20jYOchrCcue) | 3:32 | 2022-11-04 | 2022-12-24 |
@@ -275,6 +275,7 @@
 | [Pideme \- En Vivo](https://open.spotify.com/track/4OvWsid9gwU8nimd6KIXN6) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Pideme \(En Vivo\)](https://open.spotify.com/album/5YDFEV3hqfXdvFWO9DNFPR) | 4:16 | 2021-12-17 | 2023-04-15 |
 | [Pideme la Luna](https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 2:47 | 2022-07-01 |  |
 | [Pobre Corazón](https://open.spotify.com/track/03f6JBgQT5ZnvoojD6bVE8) | [Conjunto Rienda](https://open.spotify.com/artist/5P2aAxm2F4BMqiJvsbWmiU), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Pobre Corazón](https://open.spotify.com/album/4rJVWswYNiKmh9HVB3WXxd) | 4:00 | 2023-07-17 |  |
+| [Popurri Boleros Cadetes \- En Vivo](https://open.spotify.com/track/5Lia7C8L7kLH0xQOwOY8pG) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [En Vivo Desde la Paz](https://open.spotify.com/album/2lytKS4AnSzjNUD00xzA6f) | 7:38 | 2023-08-08 |  |
 | [Popurri Boleros Cadetes \- En Vivo](https://open.spotify.com/track/7LJKlA3EIT2UmMujVquf5S) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [En Vivo Desde la Paz](https://open.spotify.com/album/0b6lw7RY7naWJ42VJfmbtN) | 7:38 | 2022-07-01 | 2023-07-22 |
 | [Por Ella Tomo](https://open.spotify.com/track/0FkATCT3LOTcMaDh6nwFsl) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Por Ella Tomo](https://open.spotify.com/album/0a5Wnsr4Z7LHcqzONGR1XY) | 3:05 | 2022-07-01 | 2022-11-07 |
 | [Por Eso La Deje](https://open.spotify.com/track/6kOXYe3iDJhbuCvnCCeToK) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Por Eso La Deje](https://open.spotify.com/album/63EVky6PEKdJYaBowGkYBg) | 4:20 | 2023-01-27 |  |

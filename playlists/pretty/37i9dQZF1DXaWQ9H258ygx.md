@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWQ9H258ygx.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/keithpowers/">Keith Powers</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,332 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,477 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWQ9H258ygx.md) - [plain]
 | 46 | [DYING 4 YOUR LOVE](https://open.spotify.com/track/1Yx1TbWg1zbl6gQ3SCOFCN) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 3:24 |
 | 47 | [If You Let Me](https://open.spotify.com/track/5T5b5ZLAUPjtGUTdaH8KLd) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [GRADES](https://open.spotify.com/artist/5xtS6AoBUHhaAhxC1JN3PY) | [Lessons in Love](https://open.spotify.com/album/3t5VFTO58tnYpZVeJYGQhD) | 3:52 |
 | 48 | [Terrified](https://open.spotify.com/track/6UKb1qcw5jqmoVeln2i3ZL) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4) | 4:15 |
-| 49 | [Tonight \(I Wish I Was Your Boy\)](https://open.spotify.com/track/7DmTaJoM7L020qm3egqNsM) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 4:07 |
-| 50 | [WHEN SPARKS FLY](https://open.spotify.com/track/1jhdCONafFj1hzJsPvZx27) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [RAMONA PARK BROKE MY HEART](https://open.spotify.com/album/2G549zeda2XNICgLmU0pNW) | 3:47 |
+| 49 | [WHEN SPARKS FLY](https://open.spotify.com/track/1jhdCONafFj1hzJsPvZx27) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [RAMONA PARK BROKE MY HEART](https://open.spotify.com/album/2G549zeda2XNICgLmU0pNW) | 3:47 |
+| 50 | [Tonight \(I Wish I Was Your Boy\)](https://open.spotify.com/track/7DmTaJoM7L020qm3egqNsM) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 4:07 |
 
-Snapshot ID: `MCwzMTkzMmEyZjhiMzMyZDRmOGZlNjAzOWMyZGE5NWEwNmQzM2YwZmU3`
+Snapshot ID: `MCwyOTFkYmVjYTg2YmFlZmZiZTM2NjU2YjYzMWJkYTYzNjg2YjJkNTA0`

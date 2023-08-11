@@ -4,7 +4,7 @@
 
 > Acoustic pop songs for chill summer days or nights.
 
-171 songs - 9 hr 27 min
+173 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Change The World \- Acoustic](https://open.spotify.com/track/1KNej6mE6NT21O4ArqqLLR) | [Striking Matches](https://open.spotify.com/artist/4v2DyasTOGK3Pv90w75yar) | [Change The World \(Acoustic\)](https://open.spotify.com/album/6NvmDNr7wCSqG7vMsdLyPw) | 4:57 | 2022-09-30 |  |
 | [Chasing Cars \(Acoustic\)](https://open.spotify.com/track/7segX2a0fynh3OYFyHnsqI) | [Jessy Hayden](https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi) | [Chasing Cars \(Acoustic\)](https://open.spotify.com/album/7xtPuadPQVQKfKUr7eQvC7) | 3:41 | 2023-04-14 |  |
 | [Chemical](https://open.spotify.com/track/5Gcd6lMtEEW6V9GpmQk6Rk) | [Abbie Parker](https://open.spotify.com/artist/4WL3KimNe6kNw0abLnzpko) | [Chemical](https://open.spotify.com/album/6yqPDHuIhpvgsb6ZCLSi64) | 3:07 | 2023-05-23 |  |
+| [Complicated](https://open.spotify.com/track/7t24uFfZmiMrYMUIgaCQ3e) | [Ben & Tim](https://open.spotify.com/artist/0gb9yVmQVwhLVMMGKgXYnv) | [Complicated](https://open.spotify.com/album/5DJqyKsCjkMaU3CiSOoTxA) | 3:02 | 2023-08-10 |  |
 | [Cool](https://open.spotify.com/track/0B6Gf49UuiyYiKM3cCdfzW) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Cool](https://open.spotify.com/album/3Y5mbHm9zcwmAmhKlORakx) | 4:03 | 2022-08-02 |  |
 | [Crazy in Love](https://open.spotify.com/track/6m0qBDIhzICOwWMPZdgyVK) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Crazy in Love](https://open.spotify.com/album/3WtUVBD7BEAfA9NjG6LnBk) | 3:47 | 2022-06-03 | 2023-04-14 |
 | [Dancing In The Dark](https://open.spotify.com/track/1bqxj84nNs2iic1dsi6h9K) | [Bear Little](https://open.spotify.com/artist/5gf3VTWJ6siWvD4xtPUfJf) | [Dancing In The Dark](https://open.spotify.com/album/6OV5a9PVlsfnMVtgKPc1Gy) | 3:17 | 2022-07-01 |  |
@@ -162,6 +163,7 @@
 | [Summertime Sadness \(Acoustic Cover\) feat\. Keelan Donovan](https://open.spotify.com/track/6TqDrmjUDqQo4JiF1apQnL) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5), [Keelan Donovan](https://open.spotify.com/artist/4dOtX7sKkyguhRj1Gkvvl7) | [Summertime Sadness \(Acoustic Cover\) feat\. Keelan Donovan](https://open.spotify.com/album/0NXkGd9M9rDxCHTGVvzC66) | 3:51 | 2022-03-10 | 2023-05-24 |
 | [Take A Picture](https://open.spotify.com/track/2lSGH56F0FIgPRGsMFy676) | [Luisita Peixoto](https://open.spotify.com/artist/2TrYrkiXtIfLGRb0kmgDRN) | [Take A Picture](https://open.spotify.com/album/6AB3Pfl1BXmLpTp3Z3ADk1) | 3:12 | 2022-03-10 | 2023-05-24 |
 | [The A Team](https://open.spotify.com/track/5lbeUlfWKtXsUsOk6tscZz) | [sleep.ing](https://open.spotify.com/artist/72qGRng3c6BZNeYJH3C5ct) | [The A Team](https://open.spotify.com/album/5F0rVfRsZs4pbmjVlbVD55) | 3:05 | 2022-03-10 | 2023-04-14 |
+| [The Boys Of Summer](https://open.spotify.com/track/6TtiScCT5W3Ncdww2xAjyk) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID), [Bear Little](https://open.spotify.com/artist/5gf3VTWJ6siWvD4xtPUfJf) | [The Boys Of Summer](https://open.spotify.com/album/5CK7NslpUUDbmQh2pl9GXR) | 3:21 | 2023-08-10 |  |
 | [the middle](https://open.spotify.com/track/27v7ld43GiWxEPYph8WiEd) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [the middle](https://open.spotify.com/album/4aPHv1yKosqeIAgpbR78Rb) | 3:20 | 2023-04-14 | 2023-06-10 |
 | [The Middle \- Acoustic](https://open.spotify.com/track/3ndoPpeiNjwEtIltH9oxyX) | [Jay Filson](https://open.spotify.com/artist/7uRzmsDR6QQL4zYgHv2O6p) | [The Middle \(Acoustic\)](https://open.spotify.com/album/4VoP3Vq8EEiu5wmWFULmaM) | 3:43 | 2022-07-01 |  |
 | [There's No Getting' Over Me](https://open.spotify.com/track/0QzqvHYCh9WecfpMIo9Zdv) | [Maribel Sur](https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf) | [There's No Getting' Over Me](https://open.spotify.com/album/37l3XG7AzVLWEmYS94XUwp) | 4:03 | 2023-04-14 |  |

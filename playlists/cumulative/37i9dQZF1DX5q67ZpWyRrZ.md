@@ -4,7 +4,7 @@
 
 > Best of the Indian Indie scene\. Cover \- Shreya Jain
 
-205 songs - 11 hr 43 min
+206 songs - 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [Je Suis La Pomme Rouge](https://open.spotify.com/track/5HzPAB3IWjlH1KHDoTuv9P) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [Je Suis La Pomme Rouge](https://open.spotify.com/album/071Ym9vm31HXWiF14VARnv) | 4:30 | 2022-01-12 | 2022-02-05 |
 | [Jiyara](https://open.spotify.com/track/3wtUeVGw8hOlJCVRxtjtZY) | [Gautam Kale](https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL) | [Jiyara](https://open.spotify.com/album/4jyfJKuTlSVfve70u1jUvv) | 2:36 | 2022-01-05 | 2022-04-05 |
 | [Junoon](https://open.spotify.com/track/1Y5treJOPB7WnAMZnsA5u8) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Junoon](https://open.spotify.com/album/5j7k8clw2nghIdjcn36Ixg) | 3:11 | 2023-03-28 | 2023-08-09 |
-| [Junoon](https://open.spotify.com/track/6RhlD5GzvU7ldIZuJjUpYu) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Junoon](https://open.spotify.com/album/4KA5BoR2KMS1r1sAeboAtB) | 3:11 | 2023-08-07 |  |
+| [Junoon](https://open.spotify.com/track/6RhlD5GzvU7ldIZuJjUpYu) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Junoon](https://open.spotify.com/album/4KA5BoR2KMS1r1sAeboAtB) | 3:11 | 2023-08-07 | 2023-08-11 |
+| [Junoon](https://open.spotify.com/track/1orJGWzbhRYpd44WHJ6gMX) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Junoon](https://open.spotify.com/album/2gHK3nRcJproG8BJnGXBRp) | 3:13 | 2023-08-09 |  |
 | [Just A Word](https://open.spotify.com/track/4iP7HF6dhCmvXOk6pHnX9u) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Just A Word](https://open.spotify.com/album/6vsFUU0gYqbQVoV2tiz94v) | 3:00 | 2022-03-21 | 2022-05-24 |
 | [Kaagaz Ki Naav](https://open.spotify.com/track/0VsdGpccIWa7h8sYZmaO0G) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Kaagaz Ki Naav](https://open.spotify.com/album/6T7enWmASSVnmlkK7UurGu) | 4:57 | 2021-12-06 | 2023-03-29 |
 | [Kaari](https://open.spotify.com/track/6J5ymVSQlrmZ2Y48GYLaoK) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Kaari](https://open.spotify.com/album/2rxawqueJ4wDhh0WDNSO8j) | 2:37 | 2021-12-06 | 2023-08-05 |

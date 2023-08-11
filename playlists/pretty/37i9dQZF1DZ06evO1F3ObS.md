@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F3ObS.md) - [plain]
 
 > This is ReoNa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,405 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,415 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,13 +29,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F3ObS.md) - [plain]
 | 19 | [ALONE](https://open.spotify.com/track/7gAEbjSCRgZhE1YjiO5ZPV) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Prologue](https://open.spotify.com/album/4nvlGw1x1DAg3hm3GXypgj) | 5:01 |
 | 20 | [SWEET HURT](https://open.spotify.com/track/6HpT1pNhenYMIYY9vWgJoc) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [SWEET HURT](https://open.spotify.com/album/5wcOB0FItV2G8a4EGVUZEm) | 4:37 |
 | 21 | [Weaker](https://open.spotify.com/track/7pR7ScZMyG8jLreMh1r2Y3) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HUMAN](https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic) | 4:40 |
-| 22 | [ライフ・イズ・ビューティフォー](https://open.spotify.com/track/16USvX84tvZa3ppnS06N1e) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Naked](https://open.spotify.com/album/0UTJliTI38ma4q7VV0uiF1) | 4:26 |
-| 23 | [Lost](https://open.spotify.com/track/2GEtnhDxxWBDWUc5wHqTsC) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [月姫 \-A piece of blue glass moon\- THEME SONG E.P.](https://open.spotify.com/album/25lcvkvNjoSlU07gs1M3hi) | 5:15 |
+| 22 | [Lost](https://open.spotify.com/track/2GEtnhDxxWBDWUc5wHqTsC) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [月姫 \-A piece of blue glass moon\- THEME SONG E.P.](https://open.spotify.com/album/25lcvkvNjoSlU07gs1M3hi) | 5:15 |
+| 23 | [ライフ・イズ・ビューティフォー](https://open.spotify.com/track/16USvX84tvZa3ppnS06N1e) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Naked](https://open.spotify.com/album/0UTJliTI38ma4q7VV0uiF1) | 4:26 |
 | 24 | [雨に唄えば](https://open.spotify.com/track/41IzyYGkQdmAlGhpww2zLB) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ANIMA \(Special Edition\)](https://open.spotify.com/album/5uH5YSFKXzMhxXxJbzAbfL) | 4:29 |
 | 25 | [メメント・モリ](https://open.spotify.com/track/2VEh6M8uR2hk4oBYQBjo9S) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HUMAN](https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic) | 4:09 |
 | 26 | [生きてるだけでえらいよ](https://open.spotify.com/track/59DcEQnz5dfWEuB9iG8YGJ) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ないない \(Special Edition\)](https://open.spotify.com/album/6HD7Zt2IlhBzbOankRvipw) | 5:41 |
-| 27 | [Dancer in the Discord](https://open.spotify.com/track/7KmzkpVC89akEovfbwTFG7) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Prologue](https://open.spotify.com/album/4nvlGw1x1DAg3hm3GXypgj) | 4:17 |
-| 28 | [ANIMA \-Naked Style.\-](https://open.spotify.com/track/7yqxGBNHp7K1of6vriCB69) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Naked](https://open.spotify.com/album/0UTJliTI38ma4q7VV0uiF1) | 5:14 |
+| 27 | [ANIMA \-Naked Style.\-](https://open.spotify.com/track/7yqxGBNHp7K1of6vriCB69) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Naked](https://open.spotify.com/album/0UTJliTI38ma4q7VV0uiF1) | 5:14 |
+| 28 | [Dancer in the Discord](https://open.spotify.com/track/7KmzkpVC89akEovfbwTFG7) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Prologue](https://open.spotify.com/album/4nvlGw1x1DAg3hm3GXypgj) | 4:17 |
 | 29 | [怪物の詩](https://open.spotify.com/track/4Ym1HPO8pl7zrrR2b9MEI3) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [unknown](https://open.spotify.com/album/0IDNAr9hNxxTC8dBwcsvhW) | 4:22 |
 | 30 | [Numb](https://open.spotify.com/track/1Hane5qDm7pjoe5F96HtnZ) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Alive\(Special Edition\)](https://open.spotify.com/album/26JBEoaivvoXVywvkRptbZ) | 4:13 |
 | 31 | [FRIENDS](https://open.spotify.com/track/3OqnmwhyLMrOLynHp1Lijm) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HUMAN](https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic) | 4:32 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F3ObS.md) - [plain]
 | 42 | [Simoom](https://open.spotify.com/track/05MXmdbsQsZbyBpuFr5f3P) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Alive\(Special Edition\)](https://open.spotify.com/album/26JBEoaivvoXVywvkRptbZ) | 5:20 |
 | 43 | [ミミック](https://open.spotify.com/track/6KvzNhC0ZEJrEQNMrC4u3t) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ANIMA \(Special Edition\)](https://open.spotify.com/album/5uH5YSFKXzMhxXxJbzAbfL) | 5:53 |
 | 44 | [生命線 \-Game size\-](https://open.spotify.com/track/48HR0RKVyUbjctXPbI4y4r) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [月姫 \-A piece of blue glass moon\- Original Soundtrack](https://open.spotify.com/album/1vbPDL5Hm1PcjUrbcw5Ulo) | 1:39 |
-| 45 | [猫失格](https://open.spotify.com/track/6BK3WZy3MR5GmH4zOk2O8F) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [シャル・ウィ・ダンス?\(Special Edition\)](https://open.spotify.com/album/3uZkJY4VIWYjPtE7FbWpH9) | 5:55 |
+| 45 | [テディ](https://open.spotify.com/track/2OjJCrpKXpMH7UWYNAVsZX) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [テディ](https://open.spotify.com/album/4HXAOO5FXlE0T3Y2PvNJgv) | 4:45 |
 | 46 | [一番星](https://open.spotify.com/track/0rFlCZTNJO8p9A7Jg7PYn3) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Alive\(Special Edition\)](https://open.spotify.com/album/26JBEoaivvoXVywvkRptbZ) | 5:19 |
-| 47 | [テディ](https://open.spotify.com/track/2OjJCrpKXpMH7UWYNAVsZX) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [テディ](https://open.spotify.com/album/4HXAOO5FXlE0T3Y2PvNJgv) | 4:45 |
-| 48 | [forget\-me\-not "unknown ver\. Live at PACIFICO YOKOHAMA 2021.04.29" \- Live Version](https://open.spotify.com/track/2JThg9NXaWPyHvbZouBDrX) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ReoNa ONE\-MAN Concert Tour "unknown" Live at PACIFICO YOKOHAMA](https://open.spotify.com/album/05KgPALG9hNtOX4BCUBG1i) | 4:24 |
+| 47 | [forget\-me\-not "unknown ver\. Live at PACIFICO YOKOHAMA 2021.04.29" \- Live Version](https://open.spotify.com/track/2JThg9NXaWPyHvbZouBDrX) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ReoNa ONE\-MAN Concert Tour "unknown" Live at PACIFICO YOKOHAMA](https://open.spotify.com/album/05KgPALG9hNtOX4BCUBG1i) | 4:24 |
+| 48 | [猫失格](https://open.spotify.com/track/6BK3WZy3MR5GmH4zOk2O8F) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [シャル・ウィ・ダンス?\(Special Edition\)](https://open.spotify.com/album/3uZkJY4VIWYjPtE7FbWpH9) | 5:55 |
 | 49 | [あしたはハレルヤ](https://open.spotify.com/track/2CjgUjb98tknCsDWiMn7Oz) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ないない \(Special Edition\)](https://open.spotify.com/album/6HD7Zt2IlhBzbOankRvipw) | 4:12 |
 | 50 | [ネリヤカナヤ \~美ら奄美\~](https://open.spotify.com/track/1X11FE8znvNDJ1TqUOshXi) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ネリヤカナヤ \~美ら奄美\~](https://open.spotify.com/album/0QV4t1Qt8T9hBo0UtenRvQ) | 5:52 |
 
-Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDA5ZGU4NGExYTM2OGJlYzg4OTM4MDUyN2U0NGFmZDg1NA==`
+Snapshot ID: `MjgxOTQ1NjMsMDAwMDAwMDA4NzIxYjUwMTg5MTEzYjkyZTgyOWQyNmYxZDQ3ZTIwYw==`

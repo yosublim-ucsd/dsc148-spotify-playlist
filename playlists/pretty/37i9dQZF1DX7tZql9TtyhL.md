@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tZql9TtyhL.md) - [plain]
 
 > La música de ayer, el party de hoy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,385 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,522 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tZql9TtyhL.md) - [plain]
 | 55 | [Safari](https://open.spotify.com/track/456xBIOmLRoLzCvCzZrWge) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW) | [Energía](https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf) | 3:25 |
 | 56 | [Loca \- Remix](https://open.spotify.com/track/2ECIwi1a7mfokdDkkJ08Ne) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Loca Remix](https://open.spotify.com/album/5EuK2rW0iPINmt21KPbIUQ) | 5:46 |
 | 57 | [Corazon De Seda \(feat\. Ozuna\)](https://open.spotify.com/track/0uRHot8ml8U8cYVwwzMwNT) | [Klasico](https://open.spotify.com/artist/6ejQ8vRKDUNBT2UyG3OaAM), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Los Que Gustan](https://open.spotify.com/album/303q7Gwd1npoNdMFtoAe9s) | 3:06 |
-| 58 | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE) | 3:21 |
-| 59 | [Chillax \(feat\. Ky\-Mani Marley\)](https://open.spotify.com/track/1lxswgIpzV6HhENRvkflES) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Ky\-Mani Marley](https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC) | [Visionary](https://open.spotify.com/album/1zFp5Q3Dgo8wmKsmfZ23QX) | 3:17 |
+| 58 | [Chillax \(feat\. Ky\-Mani Marley\)](https://open.spotify.com/track/1lxswgIpzV6HhENRvkflES) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Ky\-Mani Marley](https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC) | [Visionary](https://open.spotify.com/album/1zFp5Q3Dgo8wmKsmfZ23QX) | 3:17 |
+| 59 | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE) | 3:21 |
 | 60 | [El Amante](https://open.spotify.com/track/3umS4y3uQDkqekNjVpiRUs) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Fénix](https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ) | 3:39 |
 | 61 | [Dutty Love](https://open.spotify.com/track/2oJH69cuNyWpCmZyTmvrEN) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Don Omar Presents MTO2: New Generation](https://open.spotify.com/album/7vyVMX83PJNulUZUgbKfuY) | 4:45 |
 | 62 | [Ya No Tiene Novio](https://open.spotify.com/track/7uQmJ1jgNzBpATSoWKSPFu) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Ya No Tiene Novio](https://open.spotify.com/album/7yFrNYBdjgAeUKflMGtU8l) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tZql9TtyhL.md) - [plain]
 | 99 | [Ni Gucci Ni Prada](https://open.spotify.com/track/32lexhcz93AinKK0qLTZaZ) | [Kenny Man](https://open.spotify.com/artist/6SGvRyZuaSuWmP6IWUKpGf) | [Ni Gucci Ni Prada](https://open.spotify.com/album/4x1ekBFExz90qUx1dKQByU) | 2:55 |
 | 100 | [Locuras contigo](https://open.spotify.com/track/5jMvnSyOgGY8JpvHqeyVOg) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [De Fiesta](https://open.spotify.com/album/5QcyFFfTjCqvhVUO9Dl8pf) | 2:11 |
 
-Snapshot ID: `MCw0MGQxYWM5OTFkM2M3ZThmN2RlYWUxZjJjNDU0Njc5MGQ2OWYyYWI2`
+Snapshot ID: `MCw4YTRjMTkyYzk2YjYyNmQyMDI1MzZmNzQ3ZTgyNmRiY2ZiYTUxMmY4`

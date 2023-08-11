@@ -2,9 +2,9 @@
 
 ### [RADAR India](https://open.spotify.com/playlist/37i9dQZF1DWTAtTdFMiJYK)
 
-> Most exciting artists from the Indian Indie scene\. Cover : Akanksha Sethi
+> Most exciting artists from the Indian Indie scene\. Cover : Prateeksha Srivastava
 
-251 songs - 14 hr 49 min
+254 songs - 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Badra Bahara](https://open.spotify.com/track/6i9997Q9R4M7RuqQEHq3ed) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Badra Bahara](https://open.spotify.com/album/4rmIiT592uOXCMNR1nbhvl) | 2:36 | 2022-03-15 |  |
 | [Barsatein](https://open.spotify.com/track/3RgqESJgY3KhxvonPhZ9Gp) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Barsatein](https://open.spotify.com/album/5JNgoPSzkWxkT1W2EMqgR7) | 3:42 | 2022-08-30 | 2023-08-09 |
 | [Barsatein](https://open.spotify.com/track/4XBADEVfEfWxOZRhreFt2T) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Barsatein](https://open.spotify.com/album/6HUDcDyuJl4soXxx464G6a) | 3:42 | 2023-01-31 | 2023-08-07 |
-| [Barsatein](https://open.spotify.com/track/4k7cZkLNUXl5qK81CskzLe) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Barsatein](https://open.spotify.com/album/5IlxdyEqP1PEobICaKQXZ0) | 3:42 | 2023-08-08 |  |
+| [Barsatein](https://open.spotify.com/track/4k7cZkLNUXl5qK81CskzLe) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Barsatein](https://open.spotify.com/album/5IlxdyEqP1PEobICaKQXZ0) | 3:42 | 2023-08-08 | 2023-08-11 |
+| [Barsatein](https://open.spotify.com/track/0I8xjhVtfOIxlJYOauzg7T) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Barsatein](https://open.spotify.com/album/1j249n8FdPvZzLaafLwMK5) | 3:51 | 2023-08-10 |  |
 | [Barse](https://open.spotify.com/track/6wV51vPTYtewZNGDpHcwWi) | [ZOH](https://open.spotify.com/artist/1T5V8R7QKMhQImEdKNDyFU), [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg) | [Barse](https://open.spotify.com/album/6It9s6jgRF07GUUf28VFSK) | 4:00 | 2022-11-01 |  |
 | [Bazaar](https://open.spotify.com/track/5oNFYKJEIhdUUg9CEsyEQS) | [Alif](https://open.spotify.com/artist/66PL9mtBViWeqR2wUrS0Bk) | [Siyah \- Pt.2 \| Maazi](https://open.spotify.com/album/5xJ0TthXT6WOZtkXtPltTK) | 2:10 | 2022-01-10 | 2022-04-15 |
 | [Be Alright](https://open.spotify.com/track/543Bseh8jEwo0WGXX1CnuS) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [Be Alright](https://open.spotify.com/album/5bXKOBmX9KFO5mB83SSPBq) | 3:01 | 2021-12-06 | 2022-01-11 |
@@ -132,6 +133,7 @@
 | [Khaak](https://open.spotify.com/track/1Y74Rn3fLUbYRNhzXpFMx4) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Khaak](https://open.spotify.com/album/2TRkDF25nPk8cwga28yooJ) | 3:34 | 2023-06-09 |  |
 | [Khaare Raste](https://open.spotify.com/track/54jXWKDWh2IAFnuYcYEwb3) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H), [Yashika Sikka](https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih) | [Khaare Raste](https://open.spotify.com/album/0UbMs14msg4N7BBzwWh1il) | 4:06 | 2022-01-10 | 2023-01-11 |
 | [Khabar](https://open.spotify.com/track/56dhkwFTzbq3AS54dguEEH) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Khabar](https://open.spotify.com/album/4nPqoBnVFAWcjDcWGpijBq) | 3:38 | 2022-07-01 |  |
+| [Khamakhaa](https://open.spotify.com/track/2xRUa9kABue4LnGZplUtaq) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Khamakhaa](https://open.spotify.com/album/45hQlqraN1cORIW26NwPBs) | 2:59 | 2023-08-10 |  |
 | [Kho Gaya Kyun](https://open.spotify.com/track/0IOasZouiW0Zr9osyXhFT0) | [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn) | [Kho Gaya Kyun](https://open.spotify.com/album/4TTaId3wunhM5YlrXLcu55) | 2:40 | 2023-02-22 |  |
 | [Kho Ja](https://open.spotify.com/track/3FASTk6GGeW0PtQ0oVLp9h) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [Kho Ja](https://open.spotify.com/album/7whhl16hNq2Pyh65Dh3Zvp) | 3:04 | 2023-05-18 |  |
 | [Khoya](https://open.spotify.com/track/042J1bbhYbWcal95ZPOuJe) | [Siddhant Bhosle](https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h), [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM) | [Khoya](https://open.spotify.com/album/2D8X4Z53wmX6LNs0SpBFV1) | 2:58 | 2022-05-06 |  |
@@ -145,7 +147,7 @@
 | [Kitna Tarsey](https://open.spotify.com/track/1qPEaFTUb64NGcxM9QEK00) | [Rauhan Malik](https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js), [Mahima Choudhary](https://open.spotify.com/artist/7y8aaSoQcEohBfCNpuGX6V) | [Kitna Tarsey](https://open.spotify.com/album/7m9PxUfmGeYbSXRYm0iizd) | 5:24 | 2021-12-06 | 2023-01-11 |
 | [Koi Jaane Na](https://open.spotify.com/track/1qJEPAY2PNphzM8o1VFEtt) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H) | [Koi Jaane Na](https://open.spotify.com/album/5tazHyKeXejqqmwDIziUkU) | 4:16 | 2021-12-06 | 2022-01-11 |
 | [Kya Dekhu](https://open.spotify.com/track/2jhl4HxYbNC5OPvqxiodUG) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Saar](https://open.spotify.com/album/2leNjXvtxbHDUFiltWZtbQ) | 3:05 | 2022-01-10 | 2023-01-11 |
-| [Kya Ho Gaya](https://open.spotify.com/track/2TbfqIrC82fKnkawwMlSvK) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Kya Ho Gaya](https://open.spotify.com/album/3vTWIcTP2fSZaqHgA2OkfL) | 2:42 | 2022-09-29 |  |
+| [Kya Ho Gaya](https://open.spotify.com/track/2TbfqIrC82fKnkawwMlSvK) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Kya Ho Gaya](https://open.spotify.com/album/3vTWIcTP2fSZaqHgA2OkfL) | 2:42 | 2022-09-29 | 2023-08-11 |
 | [Kyun Ho Jaate Ho Door](https://open.spotify.com/track/2boHTy8wRvOsr0xbf2uyBS) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Kyun Ho Jaate Ho Door](https://open.spotify.com/album/1EM3mEUMGkA46gTbmpJ2lN) | 2:50 | 2022-01-10 | 2022-02-01 |
 | [Lage Nahi Man](https://open.spotify.com/track/6sdird6R3Bl7KXbCXpnPVy) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Lage Nahi Man](https://open.spotify.com/album/1EKU9Nm6UNHQJg8F46agRR) | 3:11 | 2022-05-10 |  |
 | [Last December](https://open.spotify.com/track/4BV7aMOMZYc9PfV5jW3R7j) | [Krameri](https://open.spotify.com/artist/1hxuMlq1xCyjGyhoPsiIM0), [Hades.](https://open.spotify.com/artist/0Wt5CU3KrmoSgQbzHjioNQ) | [Last December](https://open.spotify.com/album/7B7QS4DmYKplXtK6EJhoEg) | 3:19 | 2021-12-06 | 2022-03-22 |
@@ -189,6 +191,7 @@
 | [Piharva](https://open.spotify.com/track/4i4PJCJ0DYyUfXVHLS4fYU) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ), [Sachin Sanghvi](https://open.spotify.com/artist/30wJusyU4fVHzMW3m8Zodc) | [Piharva](https://open.spotify.com/album/1RGxnno01axq8lp4TTdwhn) | 7:10 | 2022-02-15 | 2023-06-24 |
 | [Piya Ki Najariya](https://open.spotify.com/track/7ru5x9KkEvj2OJ6EQUzKbl) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Piya Ki Najariya](https://open.spotify.com/album/2JXX1LP63cd0b8Nkkkngz0) | 3:14 | 2023-06-23 | 2023-07-11 |
 | [Pukaroge](https://open.spotify.com/track/2fLoGliNPrkYu3538MEXAr) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Pukaroge](https://open.spotify.com/album/6oT1IdHJahyT5GLigdFYyq) | 3:57 | 2022-11-08 |  |
+| [Qareeb](https://open.spotify.com/track/4x8yhZPbOuqJ2PLg4QmrL0) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II), [Shayan Rashid](https://open.spotify.com/artist/1ikVRNcb5keuzlwiP8mJbb) | [Qareeb](https://open.spotify.com/album/6mcoV5gev8Ol1wHu6mDO1o) | 2:30 | 2023-08-10 |  |
 | [Raahein](https://open.spotify.com/track/7CHGpAMZ4RuPXaZ0C811Ur) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Raahein](https://open.spotify.com/album/0C4I8cU0oiUgDjjtWzX9SX) | 4:37 | 2022-01-10 | 2023-01-11 |
 | [Raaton](https://open.spotify.com/track/4mpRxleD4q4rxgRBgC6TpB) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Raaton](https://open.spotify.com/album/1mr9MMCJodtlid7Yy7DTh1) | 3:20 | 2023-07-21 |  |
 | [Raaz Tera Mera](https://open.spotify.com/track/4hGHgXcTOD8BzJKMz062ZN) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Raaz Tera Mera](https://open.spotify.com/album/600DUfcwqsdjfnTK15RogK) | 3:28 | 2022-06-10 | 2023-07-04 |
@@ -221,7 +224,7 @@
 | [So Good](https://open.spotify.com/track/0CawrCDxkBgaR2ImcpQYMm) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [So Good](https://open.spotify.com/album/7zp2nLduPlDbfn9ejFTuZE) | 2:59 | 2021-12-06 | 2023-01-11 |
 | [Some Kind Of Nothing](https://open.spotify.com/track/2ND8gHcSdiXH2rZx82qzqu) | [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl) | [Some Kind Of Nothing](https://open.spotify.com/album/0xc6rSHLKuwbxt7WZ9rnvM) | 3:05 | 2023-02-15 | 2023-05-30 |
 | [sophomore sweetheart](https://open.spotify.com/track/3PaBfBBp3jJw6sxMp0E669) | [sunflower tape machine](https://open.spotify.com/artist/5Bk7ZZFYTY2ILPZljqdfrf) | [sophomore sweetheart](https://open.spotify.com/album/7BF29uGUwtFWrJNV71JkXv) | 3:37 | 2021-12-06 | 2023-01-11 |
-| [Spiced Lemonade](https://open.spotify.com/track/7AEZgaAQ0SnJQ5Odw5cBux) | [Chirag Todi](https://open.spotify.com/artist/44kXrtuLNc6FpMB8YNbMdE), [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Spiced Lemonade](https://open.spotify.com/album/2C1hH70PnKis3oD8Uaq8pR) | 3:18 | 2023-02-24 |  |
+| [Spiced Lemonade](https://open.spotify.com/track/7AEZgaAQ0SnJQ5Odw5cBux) | [Chirag Todi](https://open.spotify.com/artist/44kXrtuLNc6FpMB8YNbMdE), [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Spiced Lemonade](https://open.spotify.com/album/2C1hH70PnKis3oD8Uaq8pR) | 3:18 | 2023-02-24 | 2023-08-11 |
 | [Sucks To Be Human](https://open.spotify.com/track/0Rn2cteUVGOabK55rQVN3Z) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [Sucks To Be Human](https://open.spotify.com/album/69EKPVK5owroH5jbQhlXv7) | 3:25 | 2022-01-10 | 2022-01-17 |
 | [Sukoon](https://open.spotify.com/track/3DwDpL9QpO5gqPFuHZXUx9) | [Samar Mehdi](https://open.spotify.com/artist/0kn5e77RPjL0jdsLYcN4rN) | [Sukoon](https://open.spotify.com/album/1b43QbuhfXPgBGU6lDxn0I) | 3:04 | 2021-12-06 | 2022-01-11 |
 | [Sunrise](https://open.spotify.com/track/3zMiWxjsnyByaxmPm7Irlf) | [Faime](https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4) | [Sunrise](https://open.spotify.com/album/3zfkbTXoeZiKLPfkXNYRmn) | 2:54 | 2021-12-06 | 2022-08-09 |

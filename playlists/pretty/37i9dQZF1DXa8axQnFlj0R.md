@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 
 > let me hold both your hands in the holes of my sweater
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,810 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,796 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 | 39 | [Drive](https://open.spotify.com/track/2kJqNHHGOzLNahukdvlDWN) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 3:16 |
 | 40 | [Dancing Alone](https://open.spotify.com/track/3waZuM6xOriyiAu5tXDOLS) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Chaos In My Court](https://open.spotify.com/album/4dVCexXqcS9KDwdOXeUkSn) | 3:00 |
 | 41 | [New Song](https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe), [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Notes from the Archive: Recordings 2011\-2016](https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb) | 6:22 |
-| 42 | [Sense of Home](https://open.spotify.com/track/6oImxt6z8HDS56epRgOi0I) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Sense of Home](https://open.spotify.com/album/1MggtpuaGB0IPfFUYaY40U) | 4:25 |
-| 43 | [Deep End](https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Deep End](https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc) | 2:51 |
+| 42 | [Deep End](https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Deep End](https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc) | 2:51 |
+| 43 | [Sense of Home](https://open.spotify.com/track/6oImxt6z8HDS56epRgOi0I) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Sense of Home](https://open.spotify.com/album/1MggtpuaGB0IPfFUYaY40U) | 4:25 |
 | 44 | [Give Me A Minute](https://open.spotify.com/track/3YyASDEwePUZaPcgCjGOoV) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 2:37 |
 | 45 | [Wolves](https://open.spotify.com/track/59hfgU3tsQ0zKpSX7toiwn) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Running With The Wolves](https://open.spotify.com/album/1bIiBK6CIaCkkzNREai3je) | 2:43 |
 | 46 | [I Should Go \- Solo Version](https://open.spotify.com/track/50kgovuPE9wDZ0hEynlssm) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [I Should Go \(Solo Version\)](https://open.spotify.com/album/3d11dBT3l0OGHxHaOBr4nV) | 2:31 |
@@ -71,11 +71,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 | 61 | [Don't You Worry](https://open.spotify.com/track/5XaGqclLmeuH0EBg75Li0n) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Home Tapes](https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw) | 3:39 |
 | 62 | [You Needed Love, I Needed You](https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 3:25 |
 | 63 | [Still](https://open.spotify.com/track/7lKmIkQzOyJuW9ZIbmIOog) | [Jolé](https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu), [Marie Gallo](https://open.spotify.com/artist/6wk4N3pB7kAqPG8gqd79cc) | [Still](https://open.spotify.com/album/2ZazqwsVLTRPltQMgje6Mc) | 3:47 |
-| 64 | [Timshel](https://open.spotify.com/track/5KYtnw4qIYaCxNRXVEOdSJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S) | 2:53 |
-| 65 | [Midnight](https://open.spotify.com/track/1ru2yZCJsLgHuiFJr506BV) | [Paper Planes](https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h) | [Sunset Traveler](https://open.spotify.com/album/6mRDTbYQi7iQEbrCtAHibh) | 1:44 |
-| 66 | [Two People](https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:56 |
-| 67 | [Call Me A Dreamer](https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Call Me A Dreamer](https://open.spotify.com/album/3zKpAuwGhuBpavexvu6ySj) | 3:48 |
-| 68 | [Brutally](https://open.spotify.com/track/4z6qtN4iZ7MPVZYCtiSgsM) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Brutally](https://open.spotify.com/album/1EffBpw7DW3vrOBCox9l0R) | 3:28 |
+| 64 | [Midnight](https://open.spotify.com/track/1ru2yZCJsLgHuiFJr506BV) | [Paper Planes](https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h) | [Sunset Traveler](https://open.spotify.com/album/6mRDTbYQi7iQEbrCtAHibh) | 1:44 |
+| 65 | [Timshel](https://open.spotify.com/track/5KYtnw4qIYaCxNRXVEOdSJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S) | 2:53 |
+| 66 | [Brutally](https://open.spotify.com/track/4z6qtN4iZ7MPVZYCtiSgsM) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Brutally](https://open.spotify.com/album/1EffBpw7DW3vrOBCox9l0R) | 3:28 |
+| 67 | [Two People](https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:56 |
+| 68 | [Call Me A Dreamer](https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Call Me A Dreamer](https://open.spotify.com/album/3zKpAuwGhuBpavexvu6ySj) | 3:48 |
 | 69 | [Time](https://open.spotify.com/track/0FjTazWaBSHBVWm2PAGghQ) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 3:56 |
 | 70 | [The Killer Was a Coward](https://open.spotify.com/track/3c67dPnPg08gwduVB08hpZ) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear \(The Complete Edition\)](https://open.spotify.com/album/4Z6CfVlX40xDUq4CTiFpAa) | 4:20 |
 | 71 | [Doomsday](https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Doomsday](https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF) | 3:09 |
@@ -85,9 +85,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 | 75 | [Last Time](https://open.spotify.com/track/63msGdgRl82cT88247E2kz) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Melchor Lullaby Hotline Vol\. 1](https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2) | 3:13 |
 | 76 | [Folding](https://open.spotify.com/track/6DO7jBbwOWkjdbC3BoLvG1) | [Abimaro](https://open.spotify.com/artist/6ZrBzUQXpmwFpiUIlqSLbm) | [Folding](https://open.spotify.com/album/6sTaSyG6FDGDFW9uFXHYrL) | 3:47 |
 | 77 | [The Wolves and the Ravens](https://open.spotify.com/track/7M7e3u2MjbOVTkQMW6XqL6) | [Rogue Valley](https://open.spotify.com/artist/1EbGAjTV50qpZ53jXTvmV7) | [False Floors](https://open.spotify.com/album/520kCQ9Z5WEWih341YHcmT) | 4:16 |
-| 78 | [Blood Wolf Moon](https://open.spotify.com/track/3wihzwWc7SD7plghq6xNxV) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t) | [Blood Wolf Moon](https://open.spotify.com/album/7gWTR3utfEnwboOuxGtuAK) | 3:00 |
+| 78 | [Mountaineer](https://open.spotify.com/track/6qgiIu9Up7oDWfQnaajvy3) | [Arliston](https://open.spotify.com/artist/1zdjZcUSe5thcIAIU5NRYh) | [Mountaineer](https://open.spotify.com/album/5AtMxNyGbY4sJnEyFbbig7) | 3:41 |
 | 79 | [Fake Plastic Trees](https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Fake Plastic Trees](https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym) | 4:20 |
-| 80 | [Mountaineer](https://open.spotify.com/track/6qgiIu9Up7oDWfQnaajvy3) | [Arliston](https://open.spotify.com/artist/1zdjZcUSe5thcIAIU5NRYh) | [Mountaineer](https://open.spotify.com/album/5AtMxNyGbY4sJnEyFbbig7) | 3:41 |
+| 80 | [Blood Wolf Moon](https://open.spotify.com/track/3wihzwWc7SD7plghq6xNxV) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t) | [Blood Wolf Moon](https://open.spotify.com/album/7gWTR3utfEnwboOuxGtuAK) | 3:00 |
 | 81 | [Dancing in the Moonlight \(It's Caught Me in Its Spotlight\) \- Live from Spotify Studios, New York City, NY](https://open.spotify.com/track/2fpfApt0LZiOWybYfRVXTB) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Spotify Singles](https://open.spotify.com/album/7vD0UV7p87sy5MnOhJqDDW) | 2:23 |
 | 82 | [Wild](https://open.spotify.com/track/7GbRC3WWnBGF9Uc9N2BUDh) | [Hailaker](https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P), [Jemima Coulter](https://open.spotify.com/artist/3fACmIrcE5VThQfuYpOJzc) | [Holding](https://open.spotify.com/album/3EsHX6QnZU5XVed717arFh) | 3:17 |
 | 83 | [It’s Your Own Body And Mind](https://open.spotify.com/track/6oNmSG8JbMa4jG5UQC5Fr2) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [A Beginner's Mind](https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9) | 2:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 | 99 | [Party Dress](https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Party Dress](https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv) | 3:14 |
 | 100 | [Glad I Got You](https://open.spotify.com/track/2M3hPwrDVmH6xdeITvfxqe) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Subject to Change](https://open.spotify.com/album/0tUNlUVBHtya0RTVv4Gd6e) | 2:40 |
 
-Snapshot ID: `MCw3NWE5ZDI2YWM3NjY5NjEzOGM0YzY2OTFmOTczMTUyMTQ2NTMwMDM4`
+Snapshot ID: `MCw3NDRhMzhiZDg3Mjg0MWY5Mjk5YjlhM2I2NWM2ZGEzMDcxYjRlZGQ0`

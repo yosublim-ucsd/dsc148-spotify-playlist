@@ -1174,7 +1174,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 361500,
       "name": "De Todo Se Aprende - Yamil Remix",
       "url": "https://open.spotify.com/track/1DFnhOVN66vUuCW0uKwLsO"
@@ -1196,7 +1196,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-02",
+      "date_removed": null,
       "duration_ms": 192292,
       "name": "Deep Down",
       "url": "https://open.spotify.com/track/1eGZJFuBUorRGAx3GGC4dR"
@@ -1737,6 +1737,24 @@
     },
     {
       "album": {
+        "name": "HARIK\u0112N",
+        "url": "https://open.spotify.com/album/1b7O6M1X2z1ZGv3KbwKw2e"
+      },
+      "artists": [
+        {
+          "name": "shnd\u014d",
+          "url": "https://open.spotify.com/artist/2AGKq9TDZ4m5cuSvFEShjH"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160140,
+      "name": "HARIK\u0112N",
+      "url": "https://open.spotify.com/track/3rC44MszjGBcK7gYRHWFDh"
+    },
+    {
+      "album": {
         "name": "Heartbroken Twenty Twenty",
         "url": "https://open.spotify.com/album/2KsT3d5w4qQZY1HJnBPlV4"
       },
@@ -1954,7 +1972,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 153317,
       "name": "I Like The Gangstas",
       "url": "https://open.spotify.com/track/4emERQBWLwVutRtgygswTU"

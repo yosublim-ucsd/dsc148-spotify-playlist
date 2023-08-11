@@ -1,12 +1,12 @@
 {
   "description": "The ever-evolving sound of Alt! Cover: Gable Price and Friends",
-  "num_followers": 232229,
+  "num_followers": 232288,
   "original_name": "Ultimate Christian Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YmY1ZDc4NjExNTBlMjc0MzRkZDRkYTI5YWQxYzJkMDA2MDRkMDIw",
+  "snapshot_id": "MCxlZWU1ZjVmNjU0MTYwNzYzNDA2MGI4ODUwZjAxZWEzZmIxOTc3OTNj",
   "tracks": [
     {
       "added_at": "2022-12-16 05:02:00",
@@ -523,6 +523,26 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Kyrie Eleison (It's Mercy We Need)",
+        "url": "https://open.spotify.com/album/2mB4e81cL77ixkv9EJqFMF"
+      },
+      "artists": [
+        {
+          "name": "Elias Dummer",
+          "url": "https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi"
+        },
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 261239,
+      "name": "Kyrie Eleison (It's Mercy We Need)",
+      "url": "https://open.spotify.com/track/39Zb3y5PrBJuVRwRw6zNIl"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Pilot",
         "url": "https://open.spotify.com/album/7ujAh0O6Cr9BTIW7aH0cJY"
       },
@@ -543,26 +563,6 @@
       "duration_ms": 100240,
       "name": "Pilot",
       "url": "https://open.spotify.com/track/2ePV8y7NK53tnk6AJEntBV"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Kyrie Eleison (It's Mercy We Need)",
-        "url": "https://open.spotify.com/album/2mB4e81cL77ixkv9EJqFMF"
-      },
-      "artists": [
-        {
-          "name": "Elias Dummer",
-          "url": "https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi"
-        },
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 261239,
-      "name": "Kyrie Eleison (It's Mercy We Need)",
-      "url": "https://open.spotify.com/track/39Zb3y5PrBJuVRwRw6zNIl"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Leaving The 99 (Remix)",
-        "url": "https://open.spotify.com/album/2QrCnGivrRzA59PhP0Qlze"
-      },
-      "artists": [
-        {
-          "name": "Billy Ballenger",
-          "url": "https://open.spotify.com/artist/3MWi1gukTtaCmUQyvjSmIN"
-        }
-      ],
-      "duration_ms": 242468,
-      "name": "Leaving The 99 - Remix",
-      "url": "https://open.spotify.com/track/5oqOAAVvyIDAt8pZ1Lwy0V"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/0WP1SzAIHrXKAaNbCG8fYV"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 249495,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/23VrO89DkfhYigoLPvEnm7"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Leaving The 99 (Remix)",
+        "url": "https://open.spotify.com/album/2QrCnGivrRzA59PhP0Qlze"
+      },
+      "artists": [
+        {
+          "name": "Billy Ballenger",
+          "url": "https://open.spotify.com/artist/3MWi1gukTtaCmUQyvjSmIN"
+        }
+      ],
+      "duration_ms": 242468,
+      "name": "Leaving The 99 - Remix",
+      "url": "https://open.spotify.com/track/5oqOAAVvyIDAt8pZ1Lwy0V"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Feel Holy",
-        "url": "https://open.spotify.com/album/33BAADumKYukAW2Mw0w4ac"
-      },
-      "artists": [
-        {
-          "name": "Eliza King",
-          "url": "https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa"
-        }
-      ],
-      "duration_ms": 331800,
-      "name": "Feel Holy",
-      "url": "https://open.spotify.com/track/1HxtNVkzA5PAzeqDXLCX37"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Something to Say",
         "url": "https://open.spotify.com/album/1JhB3kLc12K5AErDOxLDri"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 244172,
       "name": "Something to Say",
       "url": "https://open.spotify.com/track/4UsOfEep0czurJhxCjsn9o"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Feel Holy",
+        "url": "https://open.spotify.com/album/33BAADumKYukAW2Mw0w4ac"
+      },
+      "artists": [
+        {
+          "name": "Eliza King",
+          "url": "https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa"
+        }
+      ],
+      "duration_ms": 331800,
+      "name": "Feel Holy",
+      "url": "https://open.spotify.com/track/1HxtNVkzA5PAzeqDXLCX37"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -999,38 +999,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "No Greater Love",
-        "url": "https://open.spotify.com/album/3IQc2Zlovy1REbisqTn1Wg"
-      },
-      "artists": [
-        {
-          "name": "The Color",
-          "url": "https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d"
-        }
-      ],
-      "duration_ms": 199306,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/7jkVWTVib0Acmmj0guHs6Z"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "OLDER",
-        "url": "https://open.spotify.com/album/1dLlSnoQk8tec7Tyubd7u7"
-      },
-      "artists": [
-        {
-          "name": "Alexander Pappas",
-          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
-        }
-      ],
-      "duration_ms": 202386,
-      "name": "OLDER",
-      "url": "https://open.spotify.com/track/74dJdWzKwtxV5s77GOsa8w"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Where The Winter Was",
         "url": "https://open.spotify.com/album/5aHds2df6eKrOirRI9895D"
       },
@@ -1047,6 +1015,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "No Greater Love",
+        "url": "https://open.spotify.com/album/3IQc2Zlovy1REbisqTn1Wg"
+      },
+      "artists": [
+        {
+          "name": "The Color",
+          "url": "https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d"
+        }
+      ],
+      "duration_ms": 199306,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/7jkVWTVib0Acmmj0guHs6Z"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Wide Awake",
         "url": "https://open.spotify.com/album/68V8xLeZJHQHqRFHKqsjjk"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 211880,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/0X5R33mNmGbNJcaupI4z2W"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "OLDER",
+        "url": "https://open.spotify.com/album/1dLlSnoQk8tec7Tyubd7u7"
+      },
+      "artists": [
+        {
+          "name": "Alexander Pappas",
+          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
+        }
+      ],
+      "duration_ms": 202386,
+      "name": "OLDER",
+      "url": "https://open.spotify.com/track/74dJdWzKwtxV5s77GOsa8w"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Stream",
-        "url": "https://open.spotify.com/album/4OxKwDgLuX1kuIqJh7AF7Q"
-      },
-      "artists": [
-        {
-          "name": "Beach W",
-          "url": "https://open.spotify.com/artist/3uyghwoAktfd6ie5ObRgMe"
-        }
-      ],
-      "duration_ms": 283707,
-      "name": "Stream",
-      "url": "https://open.spotify.com/track/4KOP4xmCdhMu6trazcOdy6"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Breathe Again",
         "url": "https://open.spotify.com/album/3ztacUh2slm1151Ago3Mjz"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 222108,
       "name": "Breathe Again",
       "url": "https://open.spotify.com/track/40AxtoP3dD1nHvToCUXGEz"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Stream",
+        "url": "https://open.spotify.com/album/4OxKwDgLuX1kuIqJh7AF7Q"
+      },
+      "artists": [
+        {
+          "name": "Beach W",
+          "url": "https://open.spotify.com/artist/3uyghwoAktfd6ie5ObRgMe"
+        }
+      ],
+      "duration_ms": 283707,
+      "name": "Stream",
+      "url": "https://open.spotify.com/track/4KOP4xmCdhMu6trazcOdy6"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/4EFGJxZDk9XF6WuOd5IjNW"
-      },
-      "artists": [
-        {
-          "name": "Whitefield",
-          "url": "https://open.spotify.com/artist/3Bl7IsHkpS3ccNug2A8txP"
-        }
-      ],
-      "duration_ms": 269353,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/3nLnyUoJEOPISomgrVqJw7"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Between The Joy And The Sorrow - Part 2",
         "url": "https://open.spotify.com/album/6wUCazGhDr64fdK4cYogNZ"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 202000,
       "name": "Between The Joy And The Sorrow",
       "url": "https://open.spotify.com/track/5jxbNNre9WDXom2hyJeE2e"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/4EFGJxZDk9XF6WuOd5IjNW"
+      },
+      "artists": [
+        {
+          "name": "Whitefield",
+          "url": "https://open.spotify.com/artist/3Bl7IsHkpS3ccNug2A8txP"
+        }
+      ],
+      "duration_ms": 269353,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/3nLnyUoJEOPISomgrVqJw7"
     },
     {
       "added_at": "2022-12-16 05:02:00",

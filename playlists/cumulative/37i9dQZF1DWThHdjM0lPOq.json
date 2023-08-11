@@ -1569,6 +1569,24 @@
     },
     {
       "album": {
+        "name": "Theme From Schindler's List",
+        "url": "https://open.spotify.com/album/7y9BCGZhs0xITAlFklU4Q5"
+      },
+      "artists": [
+        {
+          "name": "Charlie Miller",
+          "url": "https://open.spotify.com/artist/4gedU51ks1jf6BRwzCWosG"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196805,
+      "name": "Theme From Schindler's List",
+      "url": "https://open.spotify.com/track/4ZFWFRN8uxQdg0KoGjMSIC"
+    },
+    {
+      "album": {
         "name": "Theme From The Deer Hunter",
         "url": "https://open.spotify.com/album/2wvMb6eQTqbWfe15zqwQSR"
       },

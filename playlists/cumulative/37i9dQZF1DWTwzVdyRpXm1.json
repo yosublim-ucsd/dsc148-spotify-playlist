@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Best of South Asian Music. Cover: Diljit",
+  "description": "Best of South Asian Music. Cover: Karan Aujla",
   "name": "Desi Hits",
   "tracks": [
     {
@@ -215,6 +215,32 @@
     },
     {
       "album": {
+        "name": "Admirin' You (feat. Preston Pablo)",
+        "url": "https://open.spotify.com/album/2rSFhbKldPsvtXI5IuseAF"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        },
+        {
+          "name": "Preston Pablo",
+          "url": "https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214750,
+      "name": "Admirin' You (feat. Preston Pablo)",
+      "url": "https://open.spotify.com/track/6NJ8Z5GDoHe47R6gGX6sLq"
+    },
+    {
+      "album": {
         "name": "Ajnabi",
         "url": "https://open.spotify.com/album/4kd8iTAHstisJi2t7Wet7l"
       },
@@ -314,7 +340,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 279677,
       "name": "Arabic Kuthu - Halamithi Habibo (From \"Beast\")",
       "url": "https://open.spotify.com/track/6yvxu91deFKt3X1QoV6qMv"
@@ -964,7 +990,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 273272,
       "name": "Dil Galti Kar Baitha Hai",
       "url": "https://open.spotify.com/track/7HPM13Xek5XoRWxRzHfvkB"
@@ -1208,7 +1234,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 350011,
       "name": "Galliyan Returns",
       "url": "https://open.spotify.com/track/61ntLJxtXFf9ZkQr67rUrL"
@@ -1330,7 +1356,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 286007,
       "name": "Ghalat Fehmi - From \"Superstar\"",
       "url": "https://open.spotify.com/track/5mnvugwfFYnJm9zuyGkgqF"
@@ -1464,6 +1490,32 @@
       "duration_ms": 187813,
       "name": "Habibi",
       "url": "https://open.spotify.com/track/7e6mcPDj3sEZ5TQkZjn6Fy"
+    },
+    {
+      "album": {
+        "name": "Heeriye (feat. Arijit Singh)",
+        "url": "https://open.spotify.com/album/1wt2WZBZZ9GhM0AC61l7SS"
+      },
+      "artists": [
+        {
+          "name": "Jasleen Royal",
+          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Dulquer Salmaan",
+          "url": "https://open.spotify.com/artist/3NHwwyb1coYa5cLyI72xSk"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194857,
+      "name": "Heeriye (feat. Arijit Singh)",
+      "url": "https://open.spotify.com/track/5PUXKVVVQ74C3gl5vKy9Li"
     },
     {
       "album": {
@@ -1625,6 +1677,28 @@
     },
     {
       "album": {
+        "name": "Janiye (from the Netflix Film \"Chor Nikal Ke Bhaga\")",
+        "url": "https://open.spotify.com/album/0kZKLq2WZQWvXvbxvK6YoC"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223390,
+      "name": "Janiye (from the Netflix Film \"Chor Nikal Ke Bhaga\")",
+      "url": "https://open.spotify.com/track/0645eBDehHcqfiF15hscQV"
+    },
+    {
+      "album": {
         "name": "8 Chances",
         "url": "https://open.spotify.com/album/29MhBXO988c8iFL7TZK17R"
       },
@@ -1718,6 +1792,32 @@
       "duration_ms": 230400,
       "name": "Jugnu",
       "url": "https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF"
+    },
+    {
+      "album": {
+        "name": "Kaavaalaa (From \"Jailer\")",
+        "url": "https://open.spotify.com/album/2zyHoHE002bpKqLY52nbAs"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Arunraja Kamaraj",
+          "url": "https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190909,
+      "name": "Kaavaalaa (From \"Jailer\")",
+      "url": "https://open.spotify.com/track/3M9G4jJAgDLB9ycinua8Wo"
     },
     {
       "album": {
@@ -1846,7 +1946,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 190526,
       "name": "Lagda Nahi",
       "url": "https://open.spotify.com/track/3Kyi9o0PACXBCiwbZ4t65u"
@@ -2172,6 +2272,24 @@
       "duration_ms": 279183,
       "name": "Maharani Jinda'n",
       "url": "https://open.spotify.com/track/2pZr3Y15OigV717Lgna5o2"
+    },
+    {
+      "album": {
+        "name": "Mahiye Jinna Sohna",
+        "url": "https://open.spotify.com/album/4fiPkVR8M247hQBOYLkwBq"
+      },
+      "artists": [
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181250,
+      "name": "Mahiye Jinna Sohna",
+      "url": "https://open.spotify.com/track/2ncqKdTj6dz7tWoTMMrAtq"
     },
     {
       "album": {
@@ -2620,7 +2738,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 214399,
       "name": "Naatu Naatu (From \"Rrr\")",
       "url": "https://open.spotify.com/track/4iKGu3xtvm90eBw0EIPWJP"
@@ -3148,7 +3266,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 291462,
       "name": "Rait Zara Si",
       "url": "https://open.spotify.com/track/3gOXq3FPPesm7VLPKmef6j"
@@ -3274,7 +3392,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 179154,
       "name": "Rank 1",
       "url": "https://open.spotify.com/track/4JrKDRAIljTReNP1xfU88p"
@@ -3919,6 +4037,24 @@
     },
     {
       "album": {
+        "name": "Under The Stars",
+        "url": "https://open.spotify.com/album/25bhlDywM1xsm2854OPfC1"
+      },
+      "artists": [
+        {
+          "name": "Jawad",
+          "url": "https://open.spotify.com/artist/5KIc7lniuLWhlXVOuhvvN8"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140730,
+      "name": "Under The Stars",
+      "url": "https://open.spotify.com/track/7DOCxixTYTuiSGhgICXXk5"
+    },
+    {
+      "album": {
         "name": "Vikram (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0FIP7MeIO3yqL8K6uTz3b1"
       },
@@ -3970,6 +4106,66 @@
       "duration_ms": 218523,
       "name": "Waalian",
       "url": "https://open.spotify.com/track/68AyTcvyK46hpzwohHUkJI"
+    },
+    {
+      "album": {
+        "name": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+        "url": "https://open.spotify.com/album/4mrXgKhegKi7Ol4pdN4z3Q"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "Ranveer Singh",
+          "url": "https://open.spotify.com/artist/0lMa3YTHqQnDDTBaxAV7LK"
+        },
+        {
+          "name": "Madan Mohan",
+          "url": "https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213611,
+      "name": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+      "url": "https://open.spotify.com/track/4QyX8CBSjcoq4iMZuvifyF"
+    },
+    {
+      "album": {
+        "name": "Zinda Banda (From \"Jawan\")",
+        "url": "https://open.spotify.com/album/1Kiukl1wioSAtG0QwDXsHE"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Zinda Banda (From \"Jawan\")",
+      "url": "https://open.spotify.com/track/4tzx5af2qpwgyjG6JQGthj"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1"

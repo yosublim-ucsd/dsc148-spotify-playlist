@@ -1,12 +1,12 @@
 {
   "description": "Vintage soul gems from the archives.",
-  "num_followers": 185423,
+  "num_followers": 185477,
   "original_name": "Rare Soul Grooves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDdkYmNlYmVjNzBkYjFjMzZkNDJkYWQzMzlhMDQxNDQ2Y2MyNGY1",
+  "snapshot_id": "MCwyMDRjMjliNzNjNDdkNmE3ODY1MzQ2ZTc4ZWNjNDY1MzBjNmJlNGE4",
   "tracks": [
     {
       "added_at": "2022-05-11 12:29:38",
@@ -151,18 +151,18 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Is It Because I'm Black",
-        "url": "https://open.spotify.com/album/7Iw4TahLkIe8RtKT8e4HIJ"
+        "name": "Hitsville USA - The Motown Singles Collection 1959-1971",
+        "url": "https://open.spotify.com/album/3tTqBkR89I0oODc5enVLnj"
       },
       "artists": [
         {
-          "name": "Syl Johnson",
-          "url": "https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL"
+          "name": "The Elgins",
+          "url": "https://open.spotify.com/artist/0CMVsLgjlp9Tk02TikMAQK"
         }
       ],
-      "duration_ms": 147280,
-      "name": "Concrete Reservation",
-      "url": "https://open.spotify.com/track/1Li9HBLXG2LJSeD4fEhtcd"
+      "duration_ms": 152933,
+      "name": "Heaven Must Have Sent You - Mono Single",
+      "url": "https://open.spotify.com/track/4iWytemcQqCczcPPpT0L0P"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -183,18 +183,18 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Hitsville USA - The Motown Singles Collection 1959-1971",
-        "url": "https://open.spotify.com/album/3tTqBkR89I0oODc5enVLnj"
+        "name": "Is It Because I'm Black",
+        "url": "https://open.spotify.com/album/7Iw4TahLkIe8RtKT8e4HIJ"
       },
       "artists": [
         {
-          "name": "The Elgins",
-          "url": "https://open.spotify.com/artist/0CMVsLgjlp9Tk02TikMAQK"
+          "name": "Syl Johnson",
+          "url": "https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL"
         }
       ],
-      "duration_ms": 152933,
-      "name": "Heaven Must Have Sent You - Mono Single",
-      "url": "https://open.spotify.com/track/4iWytemcQqCczcPPpT0L0P"
+      "duration_ms": 147280,
+      "name": "Concrete Reservation",
+      "url": "https://open.spotify.com/track/1Li9HBLXG2LJSeD4fEhtcd"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "The Natural Four",
-        "url": "https://open.spotify.com/album/1o5tEsz53xrE0PoyQXMc9j"
-      },
-      "artists": [
-        {
-          "name": "The Natural Four",
-          "url": "https://open.spotify.com/artist/1p2l2eeZ7bmnpPfgpdZCmY"
-        }
-      ],
-      "duration_ms": 265040,
-      "name": "Try Love Again",
-      "url": "https://open.spotify.com/track/2tDQsXQCvipwjrsJMf4ZDf"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Jean Carn",
         "url": "https://open.spotify.com/album/4gsuDhx9sgXP5tqKFolPIj"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 244973,
       "name": "Free Love",
       "url": "https://open.spotify.com/track/0U8jLRW0P9yATYLXiqEJlF"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "The Natural Four",
+        "url": "https://open.spotify.com/album/1o5tEsz53xrE0PoyQXMc9j"
+      },
+      "artists": [
+        {
+          "name": "The Natural Four",
+          "url": "https://open.spotify.com/artist/1p2l2eeZ7bmnpPfgpdZCmY"
+        }
+      ],
+      "duration_ms": 265040,
+      "name": "Try Love Again",
+      "url": "https://open.spotify.com/track/2tDQsXQCvipwjrsJMf4ZDf"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
+        "name": "Let's Get It On (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3rDn7vWteVTxTbuLQXb6eC"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 260466,
+      "name": "My Love Is Growing",
+      "url": "https://open.spotify.com/track/6XMHWGtaCQcEGMTy2QIXM5"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
         "name": "Pardon My Innocent Heart b/w Main Squeeze",
         "url": "https://open.spotify.com/album/0wjaMjaf8nDj9MmZlVWhTk"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 155213,
       "name": "La La La La La",
       "url": "https://open.spotify.com/track/7E2rm2hyCOXc3leRuiky7a"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
-        "name": "Let's Get It On (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3rDn7vWteVTxTbuLQXb6eC"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 260466,
-      "name": "My Love Is Growing",
-      "url": "https://open.spotify.com/track/6XMHWGtaCQcEGMTy2QIXM5"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "The Complete Motown Singles, Vol. 1: 1959-1961",
-        "url": "https://open.spotify.com/album/13z3kSJRI5AzqRuPnSHyOU"
-      },
-      "artists": [
-        {
-          "name": "Debbie Dean",
-          "url": "https://open.spotify.com/artist/44YS4M6s942DQS2siuZda8"
-        }
-      ],
-      "duration_ms": 171240,
-      "name": "But I'm Afraid - Single Version",
-      "url": "https://open.spotify.com/track/7wVdkxbpXI62VP7RoZMhPp"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "The Complete Motown Singles Vol. 4: 1964",
         "url": "https://open.spotify.com/album/2ZYIfXwJx1cPCZ1N53GEBk"
       },
@@ -1555,18 +1539,18 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "My Music",
-        "url": "https://open.spotify.com/album/4hQ22JIIGjvyMbeQJRoDKE"
+        "name": "The Complete Motown Singles, Vol. 1: 1959-1961",
+        "url": "https://open.spotify.com/album/13z3kSJRI5AzqRuPnSHyOU"
       },
       "artists": [
         {
-          "name": "Bunny Sigler",
-          "url": "https://open.spotify.com/artist/4wyNEslyuNURfltXmivNeg"
+          "name": "Debbie Dean",
+          "url": "https://open.spotify.com/artist/44YS4M6s942DQS2siuZda8"
         }
       ],
-      "duration_ms": 207666,
-      "name": "My Music",
-      "url": "https://open.spotify.com/track/23TOftlUTOe477OSP4PzZh"
+      "duration_ms": 171240,
+      "name": "But I'm Afraid - Single Version",
+      "url": "https://open.spotify.com/track/7wVdkxbpXI62VP7RoZMhPp"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1583,6 +1567,22 @@
       "duration_ms": 187173,
       "name": "Brother Brother",
       "url": "https://open.spotify.com/track/7erspizhVghwfGjmUOJ9LD"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "My Music",
+        "url": "https://open.spotify.com/album/4hQ22JIIGjvyMbeQJRoDKE"
+      },
+      "artists": [
+        {
+          "name": "Bunny Sigler",
+          "url": "https://open.spotify.com/artist/4wyNEslyuNURfltXmivNeg"
+        }
+      ],
+      "duration_ms": 207666,
+      "name": "My Music",
+      "url": "https://open.spotify.com/track/23TOftlUTOe477OSP4PzZh"
     },
     {
       "added_at": "2022-05-11 12:29:38",

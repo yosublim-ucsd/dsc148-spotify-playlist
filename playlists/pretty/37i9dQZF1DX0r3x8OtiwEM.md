@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 890,957 likes - 60 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 891,235 likes - 60 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 29 | [Afterglow](https://open.spotify.com/track/2Ftoh82TZBdd5VduEm8T44) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Afterglow](https://open.spotify.com/album/6pBEgtzvrTzF2KWiMzhkGm) | 4:29 |
 | 30 | [Keep Going](https://open.spotify.com/track/0JDSAbpZjlSMP2fpFjtiuN) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Keep Going](https://open.spotify.com/album/6QehqXj90f0dAm6IqMPtRo) | 3:44 |
 | 31 | [The Future](https://open.spotify.com/track/1e806Bcl0zWAr4Q3YhaMJD) | [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h), [Goatchy](https://open.spotify.com/artist/2MOGeYMRvzFxWLgdwZpeQh), [Frank Sonic](https://open.spotify.com/artist/3VyBzVPO0uq9bqgVeDyPmR) | [The Future](https://open.spotify.com/album/0j9b4LarSNfTyScEtGwyAF) | 3:31 |
-| 32 | [Les Orangers](https://open.spotify.com/track/0aEwYyCvLEMNWmc7u0vqHp) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Les Orangers](https://open.spotify.com/album/4rGdiQW6mqpCwKYD885Dmk) | 6:42 |
-| 33 | [Spectrum](https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Unspoken Words](https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk) | 4:45 |
-| 34 | [The Distance](https://open.spotify.com/track/3MOUt4k7KUP8qVheHT8RG0) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [The Distance](https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy) | 4:51 |
+| 32 | [Spectrum](https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Unspoken Words](https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk) | 4:45 |
+| 33 | [The Distance](https://open.spotify.com/track/3MOUt4k7KUP8qVheHT8RG0) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [The Distance](https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy) | 4:51 |
+| 34 | [Les Orangers](https://open.spotify.com/track/0aEwYyCvLEMNWmc7u0vqHp) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Les Orangers](https://open.spotify.com/album/4rGdiQW6mqpCwKYD885Dmk) | 6:42 |
 | 35 | [Domino \- David Guetta Remix](https://open.spotify.com/track/1wpbmqF1IFW1W1Zut5aquK) | [Oxia](https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Domino \(David Guetta Remix\)](https://open.spotify.com/album/7wpG47TcZLqoinmjTVzy3k) | 4:56 |
 | 36 | [Wildfire](https://open.spotify.com/track/1WkzL4XjkAY76sasIUdU6l) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Burning Out EP](https://open.spotify.com/album/4iO74LdA4G9TthnWNIdw3I) | 5:24 |
 | 37 | [Walking On Water \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/track/2CAQr9uW764IVG1eIQyeSg) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Walking On Water \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/album/1LGKKLcYxRAyILvCjMmiH2) | 3:36 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 40 | [Reminiscing](https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Reminiscing](https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3) | 4:18 |
 | 41 | [Shapes in the Spray](https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Shapes in the Spray](https://open.spotify.com/album/3FnbdauVXBaaSNUg5ABYRf) | 7:09 |
 | 42 | [EASY PREY](https://open.spotify.com/track/6WqO9gLZu212VEJcVFAYdo) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE D4TA](https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz) | 4:26 |
-| 43 | [Never Ending](https://open.spotify.com/track/1SGbmqB3dxlrp4YkKzZUto) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Never Ending](https://open.spotify.com/album/1emHqizAHsvhYxVEt6YHXo) | 4:02 |
-| 44 | [Plastic \(Scheinizzl Remix\)](https://open.spotify.com/track/69xVp5nLMHBlD7KWdm3YEP) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Scheinizzl](https://open.spotify.com/artist/1V7BhnZpY3khae9xpS1LfV) | [Plastic \(Scheinizzl Remix\)](https://open.spotify.com/album/56x2n57k26tNK4x2RdeiNq) | 6:47 |
+| 43 | [Plastic \(Scheinizzl Remix\)](https://open.spotify.com/track/69xVp5nLMHBlD7KWdm3YEP) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Scheinizzl](https://open.spotify.com/artist/1V7BhnZpY3khae9xpS1LfV) | [Plastic \(Scheinizzl Remix\)](https://open.spotify.com/album/56x2n57k26tNK4x2RdeiNq) | 6:47 |
+| 44 | [Never Ending](https://open.spotify.com/track/1SGbmqB3dxlrp4YkKzZUto) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Never Ending](https://open.spotify.com/album/1emHqizAHsvhYxVEt6YHXo) | 4:02 |
 | 45 | [Prisma \- Klanglos Remix \- Radio Edit](https://open.spotify.com/track/512m11L55vWoUbqrkObdCz) | [Girlwoman](https://open.spotify.com/artist/24rqTvJDFy2t2xgCxsN2f0), [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Prisma \(Klanglos Remix\)](https://open.spotify.com/album/147QdcYieTKdMrzIvs2X8h) | 3:28 |
 | 46 | [Gravity](https://open.spotify.com/track/5EGaUEnzZjoNiIlFzbyNK1) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD) | [Love Will Set U Free](https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc) | 5:29 |
 | 47 | [Euphoria](https://open.spotify.com/track/6uLwfXYTPZDPw3wht0HgRi) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2) | 3:21 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 59 | [I WON'T STAY](https://open.spotify.com/track/16Xp4KpTyFJc4jKXpNFFyE) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [I WON'T STAY](https://open.spotify.com/album/1zwBTT49NegfvTuQ2k883O) | 4:46 |
 | 60 | [Song To The Siren](https://open.spotify.com/track/1vCGRYkBhITUKcdy1iM44h) | [HOSH](https://open.spotify.com/artist/3qoTlYFOahAlAh9ee3qnbs) | [Song To The Siren](https://open.spotify.com/album/5n09GoRSdwB8kufMEKjRG7) | 3:26 |
 
-Snapshot ID: `MCwwNDQ5NGNkN2MwNTFmY2NlMjhiMDY0M2U4ZWY5NGVjZGFlZDQzOTBj`
+Snapshot ID: `MCw5YWU3MTY0ZjI5M2FlOTViMmU3ODI1NjFmZWRiOWY5YTUyN2YyMWY5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 
 > This is ZZ Top\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,279 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,332 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 | 49 | [Burger Man](https://open.spotify.com/track/4Nm1dKcDgsacRITdywmeWi) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Recycler](https://open.spotify.com/album/0WbYC0Gc9DFh35DhzDwR1k) | 3:19 |
 | 50 | [El Diablo](https://open.spotify.com/track/5I4TQ0g8A3H4fubtRr8uiy) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tejas](https://open.spotify.com/album/3fI0aQIkLZEDk5a8EhzlAn) | 4:21 |
 
-Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDAxMzIyMjVjMzAyYmJkNjUxMTNkMDMwZGRjNWJjNTU5Zg==`
+Snapshot ID: `MjgxOTQ1NjMsMDAwMDAwMDAzZWQyYjlhNzBmZTgwYzJmMDNmODdhNjQzM2JiMzUxZA==`

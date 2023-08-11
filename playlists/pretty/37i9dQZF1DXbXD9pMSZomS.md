@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 
 > Distorted and rough around the edges.
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,428 likes - 60 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,595 likes - 60 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 38 | [Carefree](https://open.spotify.com/track/2Z93jIyx7k6fvTYDIbZJiO) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Carefree](https://open.spotify.com/album/6byYvncu2dYHriyQrVdlJB) | 3:28 |
 | 39 | [Love Is](https://open.spotify.com/track/5exxrzkNEBP3cxOhtvn4ii) | [Prequel](https://open.spotify.com/artist/3Cp1T1wJT1RFoxJv1jSWys), [Cazeaux O.S.L.O](https://open.spotify.com/artist/4P7emFwFBJu0G4AMJsn93f) | [Love Is](https://open.spotify.com/album/185zOXq1VeL2P4u7CX5CUX) | 3:30 |
 | 40 | [Far From Home](https://open.spotify.com/track/4i3Y42G0Um2iDVKb7XBRT9) | [Loz Goddard](https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j) | [We Should Chill On The Windowsill More](https://open.spotify.com/album/0j49Rsgfpn2Q7RBQpZDssK) | 5:26 |
-| 41 | [Tokyo Cruise](https://open.spotify.com/track/4xDEZDYPERKrpCDOX1CYtw) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Tokyo Cruise](https://open.spotify.com/album/1aPwMGBil3rebqqzZRE2rI) | 3:02 |
-| 42 | [Cami \- Edamame Remix](https://open.spotify.com/track/6HXIp0fIEuljJcmSpDhRSU) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F), [Edamame](https://open.spotify.com/artist/5PFVryAyJqvirWkPBkwagn) | [Sloh Remixes](https://open.spotify.com/album/58mLfEOaAR4vaR4rEWtJe1) | 3:45 |
+| 41 | [Cami \- Edamame Remix](https://open.spotify.com/track/6HXIp0fIEuljJcmSpDhRSU) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F), [Edamame](https://open.spotify.com/artist/5PFVryAyJqvirWkPBkwagn) | [Sloh Remixes](https://open.spotify.com/album/58mLfEOaAR4vaR4rEWtJe1) | 3:45 |
+| 42 | [Tokyo Cruise](https://open.spotify.com/track/4xDEZDYPERKrpCDOX1CYtw) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Tokyo Cruise](https://open.spotify.com/album/1aPwMGBil3rebqqzZRE2rI) | 3:02 |
 | 43 | [Deep Love](https://open.spotify.com/track/6nV2F340l20xyzxhoyWKx8) | [Ash Lauryn](https://open.spotify.com/artist/1DAJGebgIA7OjVy2umBB8g), [Stefan Ringer](https://open.spotify.com/artist/1qJyku2FyCAAahyeoXs9qV) | [Deep Love](https://open.spotify.com/album/3UX31DU0KJ1nrCOnmuEDzs) | 5:14 |
 | 44 | [The Sinner](https://open.spotify.com/track/2deVIYB1WgGyp3GCOIbctT) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [The Sinner — Time Traveller](https://open.spotify.com/album/7hSgjrlCxz6UvQMeX4jjvt) | 4:42 |
 | 45 | [Polar Circle](https://open.spotify.com/track/477kMIDTYHO44W23L9GUhQ) | [Ekfat](https://open.spotify.com/artist/6kprXciGZ5AQ8TtoDPFFVc) | [Polar Circle](https://open.spotify.com/album/4X5z40sunDktW8g0axnzdB) | 1:57 |
@@ -58,15 +58,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 48 | [Longing For U](https://open.spotify.com/track/2L0GFhQC5KSzBeOxL5901i) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Longing For U](https://open.spotify.com/album/4eTaymA78kYbMHyuEcOKsq) | 5:49 |
 | 49 | [Another Day](https://open.spotify.com/track/4HxxVwV18v5yIzHtmgBlfB) | [Etur Usheo](https://open.spotify.com/artist/5cHZZkVwn3o4NGj7XJ1Cxg) | [Heavy Tangled](https://open.spotify.com/album/7fCra7Gxf34kyyr8bo8frX) | 7:40 |
 | 50 | [Milkyway](https://open.spotify.com/track/2YKw0uxE23v2WZRJTxHRRD) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb) | [Milkyway](https://open.spotify.com/album/5z0dM0StzYEPketn3Ei8TQ) | 3:27 |
-| 51 | [Kindness](https://open.spotify.com/track/0DYlUhlu0vXWpAE13TojzN) | [Retromigration](https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar), [Nephews](https://open.spotify.com/artist/34Ky5XufX81eJrO9vYjbXQ) | [Ltdblbl008](https://open.spotify.com/album/7rAE32SE0JvYkrHHS3CpQ9) | 6:36 |
-| 52 | [Random Places](https://open.spotify.com/track/6c67MF8KIGhNkQGlNw9yuQ) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Kindzmarauli](https://open.spotify.com/album/0AdLfkXRS6rp9XSQxzB5Co) | 4:16 |
+| 51 | [Random Places](https://open.spotify.com/track/6c67MF8KIGhNkQGlNw9yuQ) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Kindzmarauli](https://open.spotify.com/album/0AdLfkXRS6rp9XSQxzB5Co) | 4:16 |
+| 52 | [Kindness](https://open.spotify.com/track/0DYlUhlu0vXWpAE13TojzN) | [Retromigration](https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar), [Nephews](https://open.spotify.com/artist/34Ky5XufX81eJrO9vYjbXQ) | [Ltdblbl008](https://open.spotify.com/album/7rAE32SE0JvYkrHHS3CpQ9) | 6:36 |
 | 53 | [Lofi Vs\. House](https://open.spotify.com/track/0nSWtxmPYxrNU7d5yjKiq4) | [Jorge Milliano](https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ) | [Dosages, Vol\. 2](https://open.spotify.com/album/2KnOK8FPRBIHYVmvsmp6BT) | 2:58 |
 | 54 | [The Sayers](https://open.spotify.com/track/66Z74fi8endVTx4TBsqucZ) | [Klein Zage](https://open.spotify.com/artist/56UaOgKvX2hUSLz7eugd0T) | [The Sayers](https://open.spotify.com/album/68xZqClzXImxguG14MkDjk) | 4:53 |
-| 55 | [Me at the Zoo \- Cody Currie Remix](https://open.spotify.com/track/3uPNfRRceOwIq9lqddFt0z) | [S\. Fidelity](https://open.spotify.com/artist/3XQIlYQsopsDCYMSkf1rEW), [Àbáse](https://open.spotify.com/artist/0oXcSv2sZaRTblkhsDHnba), [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx) | [Fidelity Radio Club \(Toy Tonics Remixes\)](https://open.spotify.com/album/3hxPWuy4C9In99QtySB0tT) | 4:17 |
-| 56 | [The Break Up \- Emma\-Jean Thackray Remix \- Edit](https://open.spotify.com/track/1n1786JvfDmDCQYF47PZS0) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [The Break Up \(Emma\-Jean Thackray Remix \- Edit\)](https://open.spotify.com/album/69I5CLWR6RiXC6amjakPWt) | 4:47 |
+| 55 | [The Break Up \- Emma\-Jean Thackray Remix \- Edit](https://open.spotify.com/track/1n1786JvfDmDCQYF47PZS0) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [The Break Up \(Emma\-Jean Thackray Remix \- Edit\)](https://open.spotify.com/album/69I5CLWR6RiXC6amjakPWt) | 4:47 |
+| 56 | [Me at the Zoo \- Cody Currie Remix](https://open.spotify.com/track/3uPNfRRceOwIq9lqddFt0z) | [S\. Fidelity](https://open.spotify.com/artist/3XQIlYQsopsDCYMSkf1rEW), [Àbáse](https://open.spotify.com/artist/0oXcSv2sZaRTblkhsDHnba), [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx) | [Fidelity Radio Club \(Toy Tonics Remixes\)](https://open.spotify.com/album/3hxPWuy4C9In99QtySB0tT) | 4:17 |
 | 57 | [True Romance \(Maja Edit\)](https://open.spotify.com/track/5TvthuUWOhQZYtXGpE66uu) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [True Romance](https://open.spotify.com/album/58tCpMNdFARg5tvBW9H2E5) | 3:50 |
 | 58 | [Setra](https://open.spotify.com/track/4L3YA6fhW1IBGCw1ZnPNIu) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3) | [SETRA](https://open.spotify.com/album/3Gs41oQERljW26cLyr3YG4) | 2:08 |
 | 59 | [008A1](https://open.spotify.com/track/4MCM6iff0STPETNF1K8as0) | [Apparel Wax](https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io) | [8](https://open.spotify.com/album/0VjEHFit3Jh83caJw3gvw0) | 6:13 |
-| 60 | [14 Joints in a Spaceship](https://open.spotify.com/track/1JW721TzLybXB4ClHW7q0h) | [\_tillus](https://open.spotify.com/artist/2Zli2TlUC3DYWQYAM8Z56y) | [14 Joints in a Spaceship](https://open.spotify.com/album/1COMlKqonX6NMDAvg8IVu6) | 5:40 |
+| 60 | [In Your Arms](https://open.spotify.com/track/0MXxgckPCaX61JXzBeEXGE) | [Ayla Nova](https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ) | [In Your Arms](https://open.spotify.com/album/5CJiamUX79bwlnjdzmhQ9c) | 2:30 |
 
-Snapshot ID: `MCw1OGM0NWViYTc0YmZiZGI0OTBiMjZmMzAyMjUwYjg3NjBlZWUzMDRh`
+Snapshot ID: `MCxjNTEyY2M3NjEyMTRlODlmMmQ0ZmM1NTIwMDM0MjkzMGE0OTRiZTRm`

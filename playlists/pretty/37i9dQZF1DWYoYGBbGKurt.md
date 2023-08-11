@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Lazy slow lofi beats for laid\-back moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,124 likes - 522 songs - 19 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,277 likes - 522 songs - 19 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -531,4 +531,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 521 | [hello there](https://open.spotify.com/track/4KXDXzJQSFnDBwxee5OWuR) | [akanekuro](https://open.spotify.com/artist/1KyLdid5oA2QFMEzAwo3ZJ) | [hello there](https://open.spotify.com/album/5cSWlGSvXTpMYKX7IEhdbY) | 2:08 |
 | 522 | [Crows Fly High On The Lines](https://open.spotify.com/track/6THmTXCVPB5eZtYXp7DGJu) | [The Abyss Calling](https://open.spotify.com/artist/1o3tR9GjcbdimeGFDdyH4t) | [Volatility](https://open.spotify.com/album/5SOjLY6JFfQbHA9195QxxP) | 2:54 |
 
-Snapshot ID: `MCw4NDUxMWE1NjMwY2E5YTE1YzhjMTVkZGY2NzMyMzBhOGVkNjc1ZDRh`
+Snapshot ID: `MCwzYjBjNjRhODhlYmQ2YjUxM2Q3Y2ZhM2VmMGQ5ZDk4ZWQ0MjQ3OWFi`

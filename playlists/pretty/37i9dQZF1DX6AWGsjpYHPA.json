@@ -1,12 +1,12 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 114100,
+  "num_followers": 114209,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzM3OTc3NzQwM2M5YmRjNTI0MzA5ODYxNzUwOGI0YjUyZjc2Nzkx",
+  "snapshot_id": "MCwwMWNiMzViYzU5Yjc1ZGRlNDFkZjgwMDM0NmI5ZTA3NWE1MDg0NWZl",
   "tracks": [
     {
       "added_at": "2023-07-18 19:55:42",
@@ -383,6 +383,26 @@
     {
       "added_at": "2023-07-18 19:55:42",
       "album": {
+        "name": "Another Dose (feat. Mick Jenkins)",
+        "url": "https://open.spotify.com/album/2kbQLcZgLzs93zjxnuy8hu"
+      },
+      "artists": [
+        {
+          "name": "Gamblers",
+          "url": "https://open.spotify.com/artist/0mkPR7AJ7qhuFaS9Eh2Lmm"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 138760,
+      "name": "Another Dose (feat. Mick Jenkins)",
+      "url": "https://open.spotify.com/track/3vTkplYptoBlHph3eNeJA1"
+    },
+    {
+      "added_at": "2023-07-18 19:55:42",
+      "album": {
         "name": "Nova / Moth",
         "url": "https://open.spotify.com/album/17nT2QOQmMPEETOsNDK1Bp"
       },
@@ -415,26 +435,6 @@
       "duration_ms": 311893,
       "name": "Lush",
       "url": "https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p"
-    },
-    {
-      "added_at": "2023-07-18 19:55:42",
-      "album": {
-        "name": "Another Dose (feat. Mick Jenkins)",
-        "url": "https://open.spotify.com/album/2kbQLcZgLzs93zjxnuy8hu"
-      },
-      "artists": [
-        {
-          "name": "Gamblers",
-          "url": "https://open.spotify.com/artist/0mkPR7AJ7qhuFaS9Eh2Lmm"
-        },
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 138760,
-      "name": "Another Dose (feat. Mick Jenkins)",
-      "url": "https://open.spotify.com/track/3vTkplYptoBlHph3eNeJA1"
     },
     {
       "added_at": "2023-07-18 19:55:42",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-07-18 19:55:42",
       "album": {
+        "name": "Along the Lethe",
+        "url": "https://open.spotify.com/album/3cwJeTW8Fcv5zvJ180UBaP"
+      },
+      "artists": [
+        {
+          "name": "Beacon",
+          "url": "https://open.spotify.com/artist/3sb3yLRnhW2L2ulU93eKfl"
+        }
+      ],
+      "duration_ms": 266906,
+      "name": "Harm",
+      "url": "https://open.spotify.com/track/3k29pw2omntASGkzIqYMnC"
+    },
+    {
+      "added_at": "2023-07-18 19:55:42",
+      "album": {
         "name": "Yesterday Is Heavy",
         "url": "https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 189422,
       "name": "To The Floor",
       "url": "https://open.spotify.com/track/7cZR9UwVtBQR3zwyDYMK9p"
-    },
-    {
-      "added_at": "2023-07-18 19:55:42",
-      "album": {
-        "name": "Along the Lethe",
-        "url": "https://open.spotify.com/album/3cwJeTW8Fcv5zvJ180UBaP"
-      },
-      "artists": [
-        {
-          "name": "Beacon",
-          "url": "https://open.spotify.com/artist/3sb3yLRnhW2L2ulU93eKfl"
-        }
-      ],
-      "duration_ms": 266906,
-      "name": "Harm",
-      "url": "https://open.spotify.com/track/3k29pw2omntASGkzIqYMnC"
     },
     {
       "added_at": "2023-07-18 19:55:42",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-07-18 19:55:42",
       "album": {
-        "name": "Live At Electric Lady",
-        "url": "https://open.spotify.com/album/3yNllkDnE2TupPL70cSVzR"
-      },
-      "artists": [
-        {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
-        }
-      ],
-      "duration_ms": 248800,
-      "name": "How Did You Know - Live At Electric Lady",
-      "url": "https://open.spotify.com/track/4IvRMvYi3aszvNkvw2TnfD"
-    },
-    {
-      "added_at": "2023-07-18 19:55:42",
-      "album": {
         "name": "Remix",
         "url": "https://open.spotify.com/album/1yCWdLfE2KQAmcdS1YJQl6"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 384986,
       "name": "Deceptacon (DFA Rmx) By Tim Goldsworthy & James Murphy for the Dfa",
       "url": "https://open.spotify.com/track/305CEVdhAViS0CW2NCLvdR"
+    },
+    {
+      "added_at": "2023-07-18 19:55:42",
+      "album": {
+        "name": "Live At Electric Lady",
+        "url": "https://open.spotify.com/album/3yNllkDnE2TupPL70cSVzR"
+      },
+      "artists": [
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+        }
+      ],
+      "duration_ms": 248800,
+      "name": "How Did You Know - Live At Electric Lady",
+      "url": "https://open.spotify.com/track/4IvRMvYi3aszvNkvw2TnfD"
     },
     {
       "added_at": "2023-07-18 19:55:42",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-07-18 19:55:42",
       "album": {
+        "name": "Tawk Tomahawk",
+        "url": "https://open.spotify.com/album/3s7dB6EHrYkaWjzfVbZfCo"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "duration_ms": 274213,
+      "name": "Nakamarra",
+      "url": "https://open.spotify.com/track/1I0O4q0Pq5x6n9d24Es5uN"
+    },
+    {
+      "added_at": "2023-07-18 19:55:42",
+      "album": {
         "name": "Before",
         "url": "https://open.spotify.com/album/5vqILcEeCT0N1DeJBsLrGE"
       },
@@ -1259,22 +1275,6 @@
     {
       "added_at": "2023-07-18 19:55:42",
       "album": {
-        "name": "Tawk Tomahawk",
-        "url": "https://open.spotify.com/album/3s7dB6EHrYkaWjzfVbZfCo"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        }
-      ],
-      "duration_ms": 274213,
-      "name": "Nakamarra",
-      "url": "https://open.spotify.com/track/1I0O4q0Pq5x6n9d24Es5uN"
-    },
-    {
-      "added_at": "2023-07-18 19:55:42",
-      "album": {
         "name": "London. Paris. Berlin.",
         "url": "https://open.spotify.com/album/1dDsbruFq4OZMM1Xj3KF6v"
       },
@@ -1291,22 +1291,18 @@
     {
       "added_at": "2023-07-18 19:55:42",
       "album": {
-        "name": "V I N C E N T",
-        "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
+        "name": "La Perla",
+        "url": "https://open.spotify.com/album/4N2nM5QZXYNbWPtxOADiAw"
       },
       "artists": [
         {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        },
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
         }
       ],
-      "duration_ms": 205760,
-      "name": "A Moment Of Mystery (feat. Toro y Moi)",
-      "url": "https://open.spotify.com/track/5OmzLQz8dsXSvEcZ2gSsQ4"
+      "duration_ms": 327096,
+      "name": "La Perla",
+      "url": "https://open.spotify.com/track/4pNlEl7y5pT9f9zFy0oxXb"
     }
   ],
   "unique_name": "Turntable",

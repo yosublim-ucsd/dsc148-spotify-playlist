@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 
 > Os grandes artistas da MPB\. Foto: Gal Costa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,287,369 likes - 91 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,287,585 likes - 91 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 71 | [Encontro](https://open.spotify.com/track/4THhSMVKTUASFp9N3mYlVU) | [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Maria Gadú](https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF) | 3:24 |
 | 72 | [Quem de nós Dois \(La Mia Storia Tra Le Dita\)](https://open.spotify.com/track/2yQMmtem48vOjB1OXAvbKD) | [Ana Carolina](https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN) | [Ana Rita Joana Iracema Carolina](https://open.spotify.com/album/4EeOCRFhVMUClJ50RquRwK) | 5:05 |
 | 73 | [Ex\-Amor](https://open.spotify.com/track/5eN58yh1jG1af8DWgZELk0) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn) | [Ex\-Amor](https://open.spotify.com/album/4fOylDdAzEOm0idOZlXVDf) | 4:05 |
-| 74 | [Toda Menina Baiana \- Live](https://open.spotify.com/track/0oTinlPq1IRtjP6n7ZsXjy) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Inverno MPB](https://open.spotify.com/album/24xQXjLv8gfAe8ndJ1vyxb) | 3:22 |
+| 74 | [Toda Menina Baiana \- Live](https://open.spotify.com/track/0drLWHcGw3j6xZKn7zGJ7X) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Especial Ivete, Gil E Caetano](https://open.spotify.com/album/3hOAYii7ltL7zatrSVtBQc) | 3:22 |
 | 75 | [Aquarela](https://open.spotify.com/track/5iPTYBZyOEleyWkE7NTYCc) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [Personalidade](https://open.spotify.com/album/10hZyN6wHBQ94xt8aoaq9o) | 4:16 |
 | 76 | [Vitoriosa](https://open.spotify.com/track/3vJJqxkNLVHibD3gRttOHP) | [Ivan Lins](https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF) | [Ivan Lins](https://open.spotify.com/album/3hXVmp2gOuoo2Oa3glN108) | 4:01 |
 | 77 | [Depois](https://open.spotify.com/track/2yeI0FRWd1sqGpHEUc5DFm) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [O Que Você Quer Saber de Verdade](https://open.spotify.com/album/0NW6Z4aNFiaj2pN83d1fyg) | 2:53 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 90 | [Oba, Lá Vem Ela](https://open.spotify.com/track/4u0Xdy7BizHLrcPIf7c6h2) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Favourites: From Samba Esquema Novo 1963 To Africa Brasil 1976](https://open.spotify.com/album/1jJXtCHztoIKiSG8IbLmq0) | 4:14 |
 | 91 | [O Bêbado e a Equilibrista](https://open.spotify.com/track/3bgRCx8adxUZT7It3ryrWU) | [João Bosco](https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH), [Angela Maria](https://open.spotify.com/artist/4SKChJZZUJd8fD4ZbkpL6l) | [Linha De Passe](https://open.spotify.com/album/5hP8pHRsoC1ySE4wVc9wcH) | 3:20 |
 
-Snapshot ID: `MCxmODhmNWQ4ODk0ZjNkNzBlMGYwMGI2MTVmYTlkN2I2Mjg1ZDVkMDk1`
+Snapshot ID: `MCw4NjQ1MjM1NjgwY2U5MjJlMTBiZmE3YWYxMDM0MWUzZDE5N2M5Mzc4`

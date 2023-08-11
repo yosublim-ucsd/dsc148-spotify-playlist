@@ -4,7 +4,7 @@
 
 > Breeze through your commute with these pop favorites\. Cover: P!nk
 
-351 songs - 18 hr 36 min
+352 songs - 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,8 @@
 | [Midnight Sky](https://open.spotify.com/track/27ycaQnQAxaPiyeg3nr2aB) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Midnight Sky](https://open.spotify.com/album/7z5fmW3FDD6jlpJtwMXV51) | 3:43 | 2022-04-29 | 2022-07-29 |
 | [Midnight Sky](https://open.spotify.com/track/4i2qxFEVVUi8yOYoxB8TCX) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:43 | 2022-07-21 |  |
 | [Million Dollar Baby](https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Million Dollar Baby](https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC) | 3:04 | 2022-09-02 | 2023-01-29 |
-| [mine](https://open.spotify.com/track/5WVwFPBm6bI9KPRV2AUR2T) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [mine / me](https://open.spotify.com/album/0Y4UzVqYI5o4GBxkQimdL8) | 3:11 | 2023-08-04 |  |
+| [mine](https://open.spotify.com/track/20XB21FHWhdyWTs5z7p9Vl) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [chemistry](https://open.spotify.com/album/5c56JYNgc48iDnwHHlOcye) | 3:11 | 2023-08-04 |  |
+| [mine](https://open.spotify.com/track/5WVwFPBm6bI9KPRV2AUR2T) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [mine / me](https://open.spotify.com/album/0Y4UzVqYI5o4GBxkQimdL8) | 3:11 | 2023-08-04 | 2023-08-11 |
 | [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 | 2022-11-23 | 2022-12-17 |
 | [Moderación \(Con Camilo\)](https://open.spotify.com/track/66eBZFnheqpOM16CCyA1HV) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Moderación \(Con Camilo\)](https://open.spotify.com/album/6MOmPtc8mFnVFjN8zDh6rD) | 3:19 | 2023-02-03 | 2023-02-25 |
 | [Monotonía](https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Monotonía](https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe) | 2:38 | 2022-10-25 | 2022-12-17 |

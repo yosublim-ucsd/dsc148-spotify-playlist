@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SiqF4iBnmO.md) - [plain]
 
 > A more than 40 years spanning collection of multi\-genre music produced on a TR\-808 drum machine\. Cover: Egyptian Lover
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,735 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,875 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SiqF4iBnmO.md) - [plain]
 | 43 | [Spirit \(feat\. Wale\)](https://open.spotify.com/track/6Gqzr5DpN48FESo5uHGsJ7) | [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Spirit \(feat\. Wale\)](https://open.spotify.com/album/62HROJu6iE9DXc7EJjlmvv) | 4:13 |
 | 44 | [Egypt Egypt](https://open.spotify.com/track/6noajkkuZkla4d8E6sYUiY) | [The Egyptian Lover](https://open.spotify.com/artist/6GGVr7WgIWhsnJNdGyPklP) | [On the Nile](https://open.spotify.com/album/1jS5YBMTwMnFRoteVHOi3i) | 5:19 |
 | 45 | [Man on the Corner \- 2007 Remaster](https://open.spotify.com/track/0oZIhxPO45rQkDIMr75gK5) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Abacab \(2007 Remaster\)](https://open.spotify.com/album/6KSLVAuJx6hWsYEk005uZj) | 4:27 |
-| 46 | [Freaky Tales](https://open.spotify.com/track/6s2N5hnHBJc9Satf7l2LrY) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Born To Mack](https://open.spotify.com/album/0kBwZw1LPQGcycJwuz9tei) | 9:33 |
-| 47 | [Clear](https://open.spotify.com/track/5NKHUvpRs7zr0yOQjx8Exr) | [Cybotron](https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm) | [Clear](https://open.spotify.com/album/2a81I8YLdT49A5LWHxetcC) | 4:54 |
+| 46 | [Clear](https://open.spotify.com/track/5NKHUvpRs7zr0yOQjx8Exr) | [Cybotron](https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm) | [Clear](https://open.spotify.com/album/2a81I8YLdT49A5LWHxetcC) | 4:54 |
+| 47 | [Freaky Tales](https://open.spotify.com/track/6s2N5hnHBJc9Satf7l2LrY) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Born To Mack](https://open.spotify.com/album/0kBwZw1LPQGcycJwuz9tei) | 9:33 |
 | 48 | [Jack Your Body \- 1986 Club Mix](https://open.spotify.com/track/10QGhgqQm0I2Y9maxrM7T6) | [Steve "Silk" Hurley](https://open.spotify.com/artist/2TzZ6XTFG1p1PAfhl0crDP) | [Jack Your Body \(S&S Reloaded\)](https://open.spotify.com/album/3UAvNbsdCDrUKyhp8YGfJT) | 5:06 |
 | 49 | [Chimes](https://open.spotify.com/track/7qvlZ1AbeqxzRJNYapMcNn) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Chimes](https://open.spotify.com/album/3WAiRvkJT19j7JbQBpCNfq) | 3:31 |
 | 50 | [I'm Not the One](https://open.spotify.com/track/6eRLUjHubf9tlO7ZCc04Da) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Shake It Up](https://open.spotify.com/album/4lDlCfyIhAXwP3hO2GVUaw) | 4:14 |
 
-Snapshot ID: `MCxjZTkzNTAxNTg3ZmM5MTRmMjk2ZTRkMDQzMzhhODk2M2JjYTZmNzk5`
+Snapshot ID: `MCw2YzZkZmFlNTExYWY1NTBiYTE1ZDcwNGQ4YjMwOGMwYTQyYzk5Y2Rm`

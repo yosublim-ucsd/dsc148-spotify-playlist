@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring SIDEPIECE
 
-1,206 songs - 2 day 21 hr 48 min
+1,207 songs - 2 day 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Bigger Than Prince \- Hot Since 82 Remix](https://open.spotify.com/track/4I0QahibIQMTPRN1AlHaSj) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Bigger Than Prince](https://open.spotify.com/album/5MEqbC6zcLtZY1OFeL7nPR) | 6:35 | 2022-05-13 | 2022-07-09 |
 | [Bionic Boy](https://open.spotify.com/track/7byloGFJ8lO5d7cCxFXOIh) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Bionic Boy](https://open.spotify.com/album/3TZ40t04vfJ9MvEZcdoqsg) | 3:26 | 2022-06-10 | 2022-09-17 |
 | [Black Box](https://open.spotify.com/track/08w46oZu1UyD8sBRbTe5uh) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [EXPO Series 001](https://open.spotify.com/album/0S6RkjxQNKbIG3uLr6J1QW) | 6:49 | 2022-12-28 | 2023-01-06 |
+| [Bliss](https://open.spotify.com/track/1Rrn1xTm9PP6bRWoCJ9CiG) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Bliss](https://open.spotify.com/album/6t0gCJ3EsuUoIeAZJ7XfgS) | 3:40 | 2023-08-04 |  |
 | [Blisters on My Feet](https://open.spotify.com/track/1lshJx941qq57U0OSWw6qH) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Basura Boyz](https://open.spotify.com/artist/6uXRjtdaIEcmHTFil7N6Ux) | [Club Rompas](https://open.spotify.com/album/7cJdhK0qniYWKodYxK6LPP) | 2:56 | 2023-07-28 | 2023-08-09 |
 | [Blow My Mind](https://open.spotify.com/track/0ZJYKFYQYO0kL8lYuILAGx) | [Pink Panda](https://open.spotify.com/artist/4DBNGKCWVHaxuDNBAgTiJH), [Nadim](https://open.spotify.com/artist/04r4bpYoO5pcJD0Ga8u6T6), [AmeliaCee](https://open.spotify.com/artist/5Cs12AhGIsXew1VY65kvFV) | [Blow My Mind](https://open.spotify.com/album/3ZiXEgZ2wwzScYcxvkvwR1) | 2:15 | 2023-01-27 | 2023-04-01 |
 | [Blow Up](https://open.spotify.com/track/70U9s6WTk47vHL2Wo6CE6G) | [CHRSTPHR](https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz) | [Blow Up](https://open.spotify.com/album/4eufwrLtfhsEBtjDiLUKaB) | 3:34 | 2023-02-03 | 2023-03-05 |
@@ -937,7 +938,7 @@
 | [Skylines](https://open.spotify.com/track/1Gn36QzwA9REefc71GPyhu) | [Sorley](https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj), [GOUX](https://open.spotify.com/artist/1YANF2Clk0VpRNG3HPu5B1) | [Skylines](https://open.spotify.com/album/1EDQu0R5ZhELYi03iwIfe1) | 3:40 | 2022-02-25 | 2022-06-11 |
 | [Sleep Alone](https://open.spotify.com/track/0qAXESAKhPGY9wcON9vzqu) | [Ander Huang](https://open.spotify.com/artist/1mAjrDuYNJU2ilt49OITNK) | [Sleep Alone](https://open.spotify.com/album/698xAEjzQVWB3yuPvkSpRY) | 3:13 | 2023-02-03 | 2023-04-13 |
 | [Sleep Walk \(feat\. Liz Cass\)](https://open.spotify.com/track/5qZw8Y01dhAluWp6xdk4VV) | [Benson](https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY), [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF), [Liz Cass](https://open.spotify.com/artist/0erHD7VN4kx2WwPg8w53kp) | [Sleep Walk \(feat\. Liz Cass\)](https://open.spotify.com/album/09crQU0aP4oOt8R5l0FUwv) | 3:38 | 2023-03-03 | 2023-07-07 |
-| [Slim Shady](https://open.spotify.com/track/2ESfTwWgohnkLK1qdWcwrJ) | [Reblok](https://open.spotify.com/artist/42MgQRvz2CdYiI9u46YJNn) | [Slim Shady](https://open.spotify.com/album/4CveQO6BuqOXbUKJboDHaN) | 2:56 | 2023-03-17 |  |
+| [Slim Shady](https://open.spotify.com/track/2ESfTwWgohnkLK1qdWcwrJ) | [Reblok](https://open.spotify.com/artist/42MgQRvz2CdYiI9u46YJNn) | [Slim Shady](https://open.spotify.com/album/4CveQO6BuqOXbUKJboDHaN) | 2:56 | 2023-03-17 | 2023-08-11 |
 | [Slow Motion](https://open.spotify.com/track/6KCFVYOU3FOJcffbqkoBlx) | [Volaris](https://open.spotify.com/artist/1gitvozvRIt6HisVREf3Hy) | [Slow Motion](https://open.spotify.com/album/44igOX1YxkX2ZmGxRMNhL3) | 3:24 | 2022-08-12 | 2022-11-29 |
 | [Smack](https://open.spotify.com/track/2hHy4cKWVnOTgj9Cw22zQf) | [Roxe](https://open.spotify.com/artist/5VANY8UHET4MOfqcgZ0RYp) | [Smack](https://open.spotify.com/album/34xztdsAM3OQdpQBblZU7y) | 2:33 | 2023-04-14 | 2023-06-10 |
 | [Smack Yo'](https://open.spotify.com/track/2UdCQIDwFvGhslUYZH5tRR) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Smack Yo'](https://open.spotify.com/album/22zxJTlAohxTyPwxjrfwqm) | 4:05 | 2022-09-30 | 2023-04-15 |

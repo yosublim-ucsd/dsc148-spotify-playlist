@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: LEAFY \(리피\)\)
 
-216 songs - 12 hr 16 min
+217 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Hidden Castle](https://open.spotify.com/track/5g9OF6EfVqiIUjKCIsnCG0) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Hidden Castle](https://open.spotify.com/album/1Kz44qP8JD4QF3sC2fRyBX) | 3:28 | 2022-07-27 | 2022-12-14 |
 | [Hola](https://open.spotify.com/track/2nHh7scNhJmTdVqEFPJFbj) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Hola](https://open.spotify.com/album/71s7XKGq4QBc5h2Axy3i7t) | 3:14 | 2022-11-14 | 2023-07-08 |
 | [Honestly](https://open.spotify.com/track/4xl6ouBRgiUSWCuuSaC3kb) | [HeeJin](https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks) | [Honestly](https://open.spotify.com/album/2YUFblD9rLzVfgSJVBjmhx) | 3:17 | 2022-07-27 | 2023-01-14 |
+| [Horizon](https://open.spotify.com/track/2HfAb3qB9w3t9x5e7ZjX5T) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Horizon \- NCT LAB](https://open.spotify.com/album/6zArn0lGt7ZZTCRYvbNcFf) | 3:42 | 2023-08-10 |  |
 | [How Do I Delete It?](https://open.spotify.com/track/4yx04UXLKqO4m3k1cgWtFk) | [JONGHAN](https://open.spotify.com/artist/19nfSOK32q1wCk8TIaKBV8) | [Seoul Check\-in OST Part 9](https://open.spotify.com/album/5NLLw4yV1Du4PiekameabR) | 3:40 | 2022-06-20 | 2022-10-08 |
 | [How To Love \(Feat.Paul Kim\)](https://open.spotify.com/track/6TPW9rvXhD8NK8bvrrGImU) | [Peakboy](https://open.spotify.com/artist/08LjovlGCVPQpTm9Olc45l), [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [How To Love \(Feat.Paul Kim\)](https://open.spotify.com/album/4zooij8rxsZUw9RGzQawVD) | 3:00 | 2022-07-13 | 2022-12-14 |
 | [HUGS](https://open.spotify.com/track/583rLTKKTkwEuCj0Gri6RP) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [HUGS](https://open.spotify.com/album/6xnmgnvEcwAHXYQpVw7yRl) | 3:44 | 2022-09-05 | 2022-12-16 |

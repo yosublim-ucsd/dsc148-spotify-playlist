@@ -2543,6 +2543,24 @@
     },
     {
       "album": {
+        "name": "The Best Of Keane (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6VYlEGQqJBMJR4vksRpM1d"
+      },
+      "artists": [
+        {
+          "name": "Keane",
+          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217440,
+      "name": "Walnut Tree",
+      "url": "https://open.spotify.com/track/2772z1nmiTU6hVs4kjn2uq"
+    },
+    {
+      "album": {
         "name": "GHETTO GODS (Deluxe)",
         "url": "https://open.spotify.com/album/4ePq280jPLzy5FR0Z1yQW2"
       },

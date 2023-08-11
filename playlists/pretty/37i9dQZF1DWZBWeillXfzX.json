@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 19352,
+  "num_followers": 19368,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiY2JiMjQ0OTljZGE5OWY1MDUwNTMyZGUyYjRhYTBjMGNiZDQ0YmJl",
+  "snapshot_id": "MCxkNDNmNjJlOTJmNGY0YzUxNmNhYTA1ZjMwZWEzNzhkYjI5OGQ1NGZj",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -453,22 +453,6 @@
       "url": "https://open.spotify.com/track/2HYRDy22RodG4Kp8DtsdDU"
     },
     {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "How Long",
-        "url": "https://open.spotify.com/album/65jsygceJoxSB3gGAPwAp6"
-      },
-      "artists": [
-        {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
-        }
-      ],
-      "duration_ms": 250253,
-      "name": "Fade",
-      "url": "https://open.spotify.com/track/2FqDzr86n4Q5Qjb1MoeEaV"
-    },
-    {
       "added_at": "2021-04-30 04:01:00",
       "album": {
         "name": "Surfing",
@@ -487,6 +471,22 @@
       "duration_ms": 165687,
       "name": "Surfing",
       "url": "https://open.spotify.com/track/4tyx5KvHtEyADgxo5N9o5h"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Headway",
+        "url": "https://open.spotify.com/album/0TjBV6tw18oKPHabWVArG3"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "duration_ms": 178037,
+      "name": "Coming Back",
+      "url": "https://open.spotify.com/track/6enELEFBmbFdCuS2cxrS8G"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -573,22 +573,6 @@
       "url": "https://open.spotify.com/track/2VaKZQ6d3qY0roo4E1Hapg"
     },
     {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Headway",
-        "url": "https://open.spotify.com/album/0TjBV6tw18oKPHabWVArG3"
-      },
-      "artists": [
-        {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
-        }
-      ],
-      "duration_ms": 178037,
-      "name": "Coming Back",
-      "url": "https://open.spotify.com/track/6enELEFBmbFdCuS2cxrS8G"
-    },
-    {
       "added_at": "2022-02-23 14:50:27",
       "album": {
         "name": "Devil May Care",
@@ -623,6 +607,22 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
+        "name": "Unrepentant",
+        "url": "https://open.spotify.com/album/2rkB2Xplv6eQeEI2MhQVC1"
+      },
+      "artists": [
+        {
+          "name": "Greg Koch",
+          "url": "https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC"
+        }
+      ],
+      "duration_ms": 599678,
+      "name": "Sweet Tea",
+      "url": "https://open.spotify.com/track/6JojEmIb1NMNEGpAlDDKhj"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
         "name": "Reckless Heart",
         "url": "https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG"
       },
@@ -635,6 +635,22 @@
       "duration_ms": 221430,
       "name": "Creepin'",
       "url": "https://open.spotify.com/track/6Aag6dVH7JZtS8VkvGmofm"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "How Long",
+        "url": "https://open.spotify.com/album/65jsygceJoxSB3gGAPwAp6"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "duration_ms": 250253,
+      "name": "Fade",
+      "url": "https://open.spotify.com/track/2FqDzr86n4Q5Qjb1MoeEaV"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -653,36 +669,20 @@
       "url": "https://open.spotify.com/track/4cZv2MppweMlDEo0p5MF1n"
     },
     {
-      "added_at": "2021-09-03 04:01:00",
+      "added_at": "2021-04-27 23:04:41",
       "album": {
-        "name": "Mile End",
-        "url": "https://open.spotify.com/album/3dwV0EOUKOhwKWz4KZCgvx"
+        "name": "Raisin' Cain",
+        "url": "https://open.spotify.com/album/2Ez2n6EAa9Xp7dfOacCbEY"
       },
       "artists": [
         {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+          "name": "Chris Cain",
+          "url": "https://open.spotify.com/artist/3HFfi1wOWbXd83qSiwJhuv"
         }
       ],
-      "duration_ms": 270370,
-      "name": "Clawhammer",
-      "url": "https://open.spotify.com/track/193RPPANAhUa4KZmq35hUc"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Defenestrator",
-        "url": "https://open.spotify.com/album/7Gr8iZYU89gbFwvao6MA3h"
-      },
-      "artists": [
-        {
-          "name": "Greg Koch",
-          "url": "https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC"
-        }
-      ],
-      "duration_ms": 428577,
-      "name": "Chief's Blues",
-      "url": "https://open.spotify.com/track/0MtLzhrCsKEwFipuRI532O"
+      "duration_ms": 200973,
+      "name": "Out Of My Head",
+      "url": "https://open.spotify.com/track/4NSUSn0ypWV9tnB88Loygy"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -705,22 +705,6 @@
       "url": "https://open.spotify.com/track/31tYuBrDa4HN45hxSp4Bc6"
     },
     {
-      "added_at": "2021-04-27 23:04:41",
-      "album": {
-        "name": "Raisin' Cain",
-        "url": "https://open.spotify.com/album/2Ez2n6EAa9Xp7dfOacCbEY"
-      },
-      "artists": [
-        {
-          "name": "Chris Cain",
-          "url": "https://open.spotify.com/artist/3HFfi1wOWbXd83qSiwJhuv"
-        }
-      ],
-      "duration_ms": 200973,
-      "name": "Out Of My Head",
-      "url": "https://open.spotify.com/track/4NSUSn0ypWV9tnB88Loygy"
-    },
-    {
       "added_at": "2020-10-21 17:37:12",
       "album": {
         "name": "The Outsider",
@@ -735,6 +719,38 @@
       "duration_ms": 216552,
       "name": "Uprising",
       "url": "https://open.spotify.com/track/5XXZm9gKlhJYXONpvzPWQ1"
+    },
+    {
+      "added_at": "2021-09-03 04:01:00",
+      "album": {
+        "name": "Mile End",
+        "url": "https://open.spotify.com/album/3dwV0EOUKOhwKWz4KZCgvx"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "duration_ms": 270370,
+      "name": "Clawhammer",
+      "url": "https://open.spotify.com/track/193RPPANAhUa4KZmq35hUc"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Royal Tea",
+        "url": "https://open.spotify.com/album/6FsaAloD9oGRXjRKIriR9i"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 268733,
+      "name": "Royal Tea",
+      "url": "https://open.spotify.com/track/503MGoC5sPfTvL3cbJsg7P"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -755,8 +771,8 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Unrepentant",
-        "url": "https://open.spotify.com/album/2rkB2Xplv6eQeEI2MhQVC1"
+        "name": "Defenestrator",
+        "url": "https://open.spotify.com/album/7Gr8iZYU89gbFwvao6MA3h"
       },
       "artists": [
         {
@@ -764,25 +780,9 @@
           "url": "https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC"
         }
       ],
-      "duration_ms": 599678,
-      "name": "Sweet Tea",
-      "url": "https://open.spotify.com/track/6JojEmIb1NMNEGpAlDDKhj"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Royal Tea",
-        "url": "https://open.spotify.com/album/6FsaAloD9oGRXjRKIriR9i"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 268733,
-      "name": "Royal Tea",
-      "url": "https://open.spotify.com/track/503MGoC5sPfTvL3cbJsg7P"
+      "duration_ms": 428577,
+      "name": "Chief's Blues",
+      "url": "https://open.spotify.com/track/0MtLzhrCsKEwFipuRI532O"
     },
     {
       "added_at": "2020-10-21 17:37:12",

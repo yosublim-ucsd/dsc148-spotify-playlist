@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 
 > Give thanks to the Lord, in all circumstances, with these songs about being grateful.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,332 likes - 60 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,342 likes - 60 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 21 | [Thankful](https://open.spotify.com/track/1zxCbt2G7rxOgIqghYRFIV) | [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [Thankful](https://open.spotify.com/album/2CW02evpO85vRxOSYx7zcP) | 3:23 |
 | 22 | [We Give Thanks \(Psalm 107\) \- Live](https://open.spotify.com/track/2HHI1ZtuLVPP49CpegOLjU) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [Unchanging God: Songs from the Book of Psalms, Vol\. 2 \(Live\)](https://open.spotify.com/album/6LM6JFK07PBR23fXtI0mSt) | 4:10 |
 | 23 | [Give Thanks](https://open.spotify.com/track/5cTw0oq5qvySv7k5LpRfg9) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Give Thanks](https://open.spotify.com/album/5bv8C4U5pcwFB9tqV66scN) | 5:05 |
-| 24 | [Satisfied](https://open.spotify.com/track/2WobN5LbCC0ekXYoJkSQmM) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Satisfied](https://open.spotify.com/album/5ZdSBocJrPHJxtTDGaM8ax) | 3:17 |
-| 25 | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/track/3Ox0AN8KFVec5GqUz0c2Vh) | [FRVR FREE](https://open.spotify.com/artist/5FmI4OG0dMj7m60DsceUrn) | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/album/7yOXtwk3vprAVZla2WDpuv) | 3:47 |
+| 24 | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/track/3Ox0AN8KFVec5GqUz0c2Vh) | [FRVR FREE](https://open.spotify.com/artist/5FmI4OG0dMj7m60DsceUrn) | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/album/7yOXtwk3vprAVZla2WDpuv) | 3:47 |
+| 25 | [Satisfied](https://open.spotify.com/track/2WobN5LbCC0ekXYoJkSQmM) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Satisfied](https://open.spotify.com/album/5ZdSBocJrPHJxtTDGaM8ax) | 3:17 |
 | 26 | [Give Thanks to God](https://open.spotify.com/track/3nto4q3YUOCXwmCqTDCoCa) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD) | [We Say Yes](https://open.spotify.com/album/7FzR2gm8o75sFpdfuLT9Wg) | 5:53 |
 | 27 | [Thank You](https://open.spotify.com/track/5fj35Am6o5htd4HlOZEymW) | [Kirk Franklin & Mary Mary](https://open.spotify.com/artist/6bUP8NEnriCT6Uyqo5gOct) | [Kingdom Come \- The Soundtrack](https://open.spotify.com/album/5HTBR75IKGcmwkgT1XXXmG) | 4:40 |
 | 28 | [My Tribute](https://open.spotify.com/track/4Qv1UAv0Mqay8gkTa93W86) | [Andrae Crouch](https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7) | [Classic Gold: Best of Andrae: Andrae Crouch and the Disciples](https://open.spotify.com/album/2oYFg5Bln5jsc6YBbXKkBf) | 3:37 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 50 | [Thank You](https://open.spotify.com/track/6bKtqGGWbjz5fHiUxRpSPG) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [Words & Music: John Mellencamp's Greatest Hits](https://open.spotify.com/album/1Ic62GZGcdP457KLPGrwlR) | 3:37 |
 | 51 | [Gratitude \- Live](https://open.spotify.com/track/2H4EuXmxJp29Sc19EnD9xP) | [Spring Harvest](https://open.spotify.com/artist/6okBvpENAfIe6u7n5bdFDK) | [Gratitude \(Live\)](https://open.spotify.com/album/1voPEXBiUxLOuJNkJosiXl) | 6:16 |
 | 52 | [Too Grateful](https://open.spotify.com/track/751k0ZYTd0OBdrPNWhDwYK) | [Jenn Bostic](https://open.spotify.com/artist/0TK1H3VeQnZEczCCdzAvap) | [You Find a Way](https://open.spotify.com/album/5Cg1Azkl7pAyoLgudii5kN) | 4:55 |
-| 53 | [Be Thankful](https://open.spotify.com/track/4UqpMOSIlRbizfXeDa2KSB) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Thankful](https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp) | 3:52 |
-| 54 | [For All You've Done \(I Worship You\) \(feat\. Jason Ingram\) \- Live](https://open.spotify.com/track/78BJN4Nya6inRz4OhEY6PH) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o), [Jason Ingram](https://open.spotify.com/artist/5YTcOomGzlsfsLmqO553CR) | [Live Worship From Vertical Church](https://open.spotify.com/album/3Cugb1EthU6slWVMkhqEBz) | 5:45 |
+| 53 | [For All You've Done \(I Worship You\) \(feat\. Jason Ingram\) \- Live](https://open.spotify.com/track/78BJN4Nya6inRz4OhEY6PH) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o), [Jason Ingram](https://open.spotify.com/artist/5YTcOomGzlsfsLmqO553CR) | [Live Worship From Vertical Church](https://open.spotify.com/album/3Cugb1EthU6slWVMkhqEBz) | 5:45 |
+| 54 | [Be Thankful](https://open.spotify.com/track/4UqpMOSIlRbizfXeDa2KSB) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Thankful](https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp) | 3:52 |
 | 55 | [Grateful](https://open.spotify.com/track/1zm7N5ffTPjHQzNIQAdGq1) | [Kurt Carr & The Kurt Carr Singers](https://open.spotify.com/artist/5yoZYhT8x7DXiFl0srkXLQ) | [Songs 4 Worship Gospel \- God Is In the House](https://open.spotify.com/album/052YKRyqnlBdsBPvL82WRZ) | 6:29 |
 | 56 | [Oh Give Thanks \(Psalm 107\) \- Live](https://open.spotify.com/track/1zmKMlVCxrHBL38BcRBp27) | [Wendell Kimbrough](https://open.spotify.com/artist/6zO6HdgPt1pOQsP6kC4i9B) | [Oh Give Thanks \(Psalm 107\) \[Live\]](https://open.spotify.com/album/36LAY52wPfMK172ikMQrha) | 6:09 |
 | 57 | [Thankful \- Live](https://open.spotify.com/track/62xo55xXPDuNekVHmERjc0) | [Cross Worship](https://open.spotify.com/artist/09uw68tTAf3gYSPAktJa7f), [Lilly Powers](https://open.spotify.com/artist/0dkmEy84PNteOhnxSZyJkt) | [Thankful \(Live\)](https://open.spotify.com/album/2rywYmIP5UX9JbaQx2H5x8) | 6:59 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 59 | [Thankful](https://open.spotify.com/track/0NQFXVSRCtWXRRKGuQTgFm) | [Byron Cage](https://open.spotify.com/artist/1bxsoj9E6Z2GoHVIswbRez) | [Faithful To Believe](https://open.spotify.com/album/5jbp09QYOKPcxnqrokbz61) | 6:26 |
 | 60 | [Lord I Thank You](https://open.spotify.com/track/0ClqLgTR23AyZmRi3KLr2f) | [Mississippi Mass Choir](https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW) | [Amazing Love](https://open.spotify.com/album/31gd6YqNrLughgK0iMLZEk) | 4:57 |
 
-Snapshot ID: `MCw3NWIzNjQxOGM0OGZkOGE4ZTA3ZjJlNDlkNTRhYWMzMDIxZjcwYmI1`
+Snapshot ID: `MCwyZjNlNzgwZTgyZTQwMjFkNGYyNDkxNDlhYjBmOTUxN2U0ZThkNzk5`

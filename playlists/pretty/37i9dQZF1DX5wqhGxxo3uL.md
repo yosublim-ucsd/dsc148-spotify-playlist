@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wqhGxxo3uL.md) - [plain]
 
 > hairbrush as a microphone type songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,818 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,097 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wqhGxxo3uL.md) - [plain]
 | 64 | [Breakfast](https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Breakfast](https://open.spotify.com/album/7HWnZ3HvfiVjEIyFWC4Qlf) | 2:28 |
 | 65 | [Shout Out to My Ex](https://open.spotify.com/track/0ErK6K0kYr0Ow2RkPMhmMs) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 4:06 |
 | 66 | [All I Want](https://open.spotify.com/track/1v6svH1Fyx9C1nIt1mA2DT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series \(Original Soundtrack\)](https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI) | 2:57 |
-| 67 | [Bloody Mary](https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:04 |
-| 68 | [she's all i wanna be](https://open.spotify.com/track/7l9IqDtVWJurTvkQHq1BGh) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 3:27 |
+| 67 | [she's all i wanna be](https://open.spotify.com/track/7l9IqDtVWJurTvkQHq1BGh) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 3:27 |
+| 68 | [Bloody Mary](https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:04 |
 | 69 | [Really Don't Care](https://open.spotify.com/track/5vTPxzm4h2bY9rYyVrGEU5) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Cher Lloyd](https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k) | [Demi](https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5) | 3:21 |
 | 70 | [I Really Like You](https://open.spotify.com/track/2hHLbkatPwOOmrNxTiD41L) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Emotion \(Deluxe Expanded Edition\)](https://open.spotify.com/album/2oj3FG6fos7zAQJxLQGzou) | 3:24 |
 | 71 | [Spice Up Your Life](https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 2:53 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wqhGxxo3uL.md) - [plain]
 | 74 | [Olivia](https://open.spotify.com/track/5dONhl6aXFuN86UBdayF6W) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 2:57 |
 | 75 | [I know it won't work](https://open.spotify.com/track/33uKUpu9ZXsHhcxRLoxnWI) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:05 |
 
-Snapshot ID: `MCw0YTJhNTIzZDQ1NjRhNjA2NTIzNTc5YzY5MGI4NDM2ZmZiMjhmNTM1`
+Snapshot ID: `MCw1NzA3NjkxZTAyNjZmYTBjYzAzNjMwZDViNjQ4NzcxZDdhM2Q5MTIy`

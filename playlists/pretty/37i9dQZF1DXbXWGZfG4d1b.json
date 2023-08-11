@@ -1,12 +1,12 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 18727,
+  "num_followers": 18735,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGI5NTQ1ZjI1M2Y4YWYwMDJlYmMxMTBlNDJmMWNjYzhlYzQ4ZGM2",
+  "snapshot_id": "MCwyMTQyZmYzOTlkYmVmNDM3NDgzNDRkYzIzZjNlY2NkMzZiZTA2OTk1",
   "tracks": [
     {
       "added_at": "2023-08-04 03:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Recordar/ Volver a pasar",
-        "url": "https://open.spotify.com/album/1QLUvdWhyHNrIN2I3Jc9ZR"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Pien",
-          "url": "https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY"
-        }
-      ],
-      "duration_ms": 262500,
-      "name": "San Camilo",
-      "url": "https://open.spotify.com/track/311A2rODtSCuXld6Uyj4TQ"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
         "name": "Bestia Beb\u00e9",
         "url": "https://open.spotify.com/album/2A9T82s4U3Ia0z2VATTIZb"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 239026,
       "name": "Lo Quiero Mucho a Ese Muchacho",
       "url": "https://open.spotify.com/track/0kH9rVfxHWkDoBMJxAL5Sw"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "Recordar/ Volver a pasar",
+        "url": "https://open.spotify.com/album/1QLUvdWhyHNrIN2I3Jc9ZR"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Pien",
+          "url": "https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY"
+        }
+      ],
+      "duration_ms": 262500,
+      "name": "San Camilo",
+      "url": "https://open.spotify.com/track/311A2rODtSCuXld6Uyj4TQ"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Wandering Rebel",
-        "url": "https://open.spotify.com/album/62UjZaiTdDtv3nbtjTxgj4"
-      },
-      "artists": [
-        {
-          "name": "Juan Wauters",
-          "url": "https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV"
-        }
-      ],
-      "duration_ms": 172960,
-      "name": "Millionaire",
-      "url": "https://open.spotify.com/track/1kKfYZ3Mpp4sLdUZsLSHFe"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
         "name": "Una Propuesta",
         "url": "https://open.spotify.com/album/4h2KVzlBshF1hmiHNSgxPL"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 195760,
       "name": "Una Propuesta",
       "url": "https://open.spotify.com/track/6to1I40BuW2fNRIustdnKa"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "Wandering Rebel",
+        "url": "https://open.spotify.com/album/62UjZaiTdDtv3nbtjTxgj4"
+      },
+      "artists": [
+        {
+          "name": "Juan Wauters",
+          "url": "https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV"
+        }
+      ],
+      "duration_ms": 172960,
+      "name": "Millionaire",
+      "url": "https://open.spotify.com/track/1kKfYZ3Mpp4sLdUZsLSHFe"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
+        "name": "La Primera Exploracion",
+        "url": "https://open.spotify.com/album/59xOCYVLOGYpUoygJU8ccU"
+      },
+      "artists": [
+        {
+          "name": "Temporada de Tormentas",
+          "url": "https://open.spotify.com/artist/1C78D9fdVfE6A4O09iplw4"
+        }
+      ],
+      "duration_ms": 337560,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/6VKX4w8MblhshBO4GHZlQi"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
         "name": "Running Up That Hill - Spotify Singles",
         "url": "https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v"
       },
@@ -1087,22 +1103,6 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "La Primera Exploracion",
-        "url": "https://open.spotify.com/album/59xOCYVLOGYpUoygJU8ccU"
-      },
-      "artists": [
-        {
-          "name": "Temporada de Tormentas",
-          "url": "https://open.spotify.com/artist/1C78D9fdVfE6A4O09iplw4"
-        }
-      ],
-      "duration_ms": 337560,
-      "name": "La Despedida",
-      "url": "https://open.spotify.com/track/6VKX4w8MblhshBO4GHZlQi"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
         "name": "Regalos",
         "url": "https://open.spotify.com/album/6oAFSyabc4tjftTMDIwkyO"
       },
@@ -1115,22 +1115,6 @@
       "duration_ms": 210266,
       "name": "Regalos",
       "url": "https://open.spotify.com/track/4VepBt1iPtAl252OTVWqzM"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
-        "name": "Comprensi\u00f3n1",
-        "url": "https://open.spotify.com/album/5YNBPuFNznCRaJU2AaKPut"
-      },
-      "artists": [
-        {
-          "name": "Melanie Williams & El Cabloide",
-          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
-        }
-      ],
-      "duration_ms": 145407,
-      "name": "5A",
-      "url": "https://open.spotify.com/track/2T1g1V41vJ06rgVGMpBXMZ"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1151,22 +1135,18 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Febril Pantalla",
-        "url": "https://open.spotify.com/album/73ivbKbd0OtEXjVXgVrAZe"
+        "name": "Comprensi\u00f3n1",
+        "url": "https://open.spotify.com/album/5YNBPuFNznCRaJU2AaKPut"
       },
       "artists": [
         {
-          "name": "Shaman Herrera",
-          "url": "https://open.spotify.com/artist/6v6Zd9sNdAHCHBrrIs58So"
-        },
-        {
-          "name": "Mariana Michi",
-          "url": "https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR"
+          "name": "Melanie Williams & El Cabloide",
+          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
         }
       ],
-      "duration_ms": 162373,
-      "name": "Febril Pantalla",
-      "url": "https://open.spotify.com/track/2CV0p6hJkxfTtYt94ukPBk"
+      "duration_ms": 145407,
+      "name": "5A",
+      "url": "https://open.spotify.com/track/2T1g1V41vJ06rgVGMpBXMZ"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1183,6 +1163,26 @@
       "duration_ms": 340200,
       "name": "Medalla de Oro",
       "url": "https://open.spotify.com/track/3foBo7v9p1AJQ26GgmTq4S"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "Febril Pantalla",
+        "url": "https://open.spotify.com/album/73ivbKbd0OtEXjVXgVrAZe"
+      },
+      "artists": [
+        {
+          "name": "Shaman Herrera",
+          "url": "https://open.spotify.com/artist/6v6Zd9sNdAHCHBrrIs58So"
+        },
+        {
+          "name": "Mariana Michi",
+          "url": "https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR"
+        }
+      ],
+      "duration_ms": 162373,
+      "name": "Febril Pantalla",
+      "url": "https://open.spotify.com/track/2CV0p6hJkxfTtYt94ukPBk"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "De la Monarqu\u00eda a la Criptocracia",
-        "url": "https://open.spotify.com/album/5aFAIfjQXClsuPrK6o1WlZ"
+        "name": "Igual",
+        "url": "https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ"
       },
       "artists": [
         {
-          "name": "Hinds",
-          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+          "name": "Nenagenix",
+          "url": "https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I"
         }
       ],
-      "duration_ms": 167900,
-      "name": "De la Monarqu\u00eda a la Criptocracia",
-      "url": "https://open.spotify.com/track/72iVtVA5CNx5kGRkd987iN"
+      "duration_ms": 250770,
+      "name": "Igual",
+      "url": "https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Igual",
-        "url": "https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ"
+        "name": "De la Monarqu\u00eda a la Criptocracia",
+        "url": "https://open.spotify.com/album/5aFAIfjQXClsuPrK6o1WlZ"
       },
       "artists": [
         {
-          "name": "Nenagenix",
-          "url": "https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I"
+          "name": "Hinds",
+          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
         }
       ],
-      "duration_ms": 250770,
-      "name": "Igual",
-      "url": "https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR"
+      "duration_ms": 167900,
+      "name": "De la Monarqu\u00eda a la Criptocracia",
+      "url": "https://open.spotify.com/track/72iVtVA5CNx5kGRkd987iN"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "La Bruma",
-        "url": "https://open.spotify.com/album/1oMTBKKuzfzwad6M3tRTcp"
-      },
-      "artists": [
-        {
-          "name": "Tigre Ulli",
-          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
-        }
-      ],
-      "duration_ms": 173154,
-      "name": "La Bruma",
-      "url": "https://open.spotify.com/track/1JygNtvlAa6fBtw9IpchCG"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
         "name": "Tiembla",
         "url": "https://open.spotify.com/album/2HOuPUISXIU8tqBeqDzMh5"
       },
@@ -1391,6 +1375,22 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
+        "name": "La Bruma",
+        "url": "https://open.spotify.com/album/1oMTBKKuzfzwad6M3tRTcp"
+      },
+      "artists": [
+        {
+          "name": "Tigre Ulli",
+          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
+        }
+      ],
+      "duration_ms": 173154,
+      "name": "La Bruma",
+      "url": "https://open.spotify.com/track/1JygNtvlAa6fBtw9IpchCG"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
         "name": "Zona de Fumadores",
         "url": "https://open.spotify.com/album/46cYcC9YUPIEe1CpuSi5CM"
       },
@@ -1403,6 +1403,22 @@
       "duration_ms": 91500,
       "name": "Zona de Fumadores",
       "url": "https://open.spotify.com/track/3cHpV6qi0i8ql2gSivsv6f"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "La Cena",
+        "url": "https://open.spotify.com/album/73HZ1dIoza9ZPuvUUxchaS"
+      },
+      "artists": [
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "La Cena",
+      "url": "https://open.spotify.com/track/3DcxQ89yroyWPYbxgbllCI"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1427,22 +1443,6 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "La Cena",
-        "url": "https://open.spotify.com/album/73HZ1dIoza9ZPuvUUxchaS"
-      },
-      "artists": [
-        {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "La Cena",
-      "url": "https://open.spotify.com/track/3DcxQ89yroyWPYbxgbllCI"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
         "name": "Pistas",
         "url": "https://open.spotify.com/album/3FNDUwoLsWERacjeco5n8h"
       },
@@ -1455,22 +1455,6 @@
       "duration_ms": 188571,
       "name": "Pistas",
       "url": "https://open.spotify.com/track/0aGpXkS9WsMDZEsel6iJ8c"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
-        "name": "Modernica",
-        "url": "https://open.spotify.com/album/785tbYjj5baApQGkSIiMkq"
-      },
-      "artists": [
-        {
-          "name": "Soy Irracional",
-          "url": "https://open.spotify.com/artist/6PKKXAHepFCoV4cAtwPUna"
-        }
-      ],
-      "duration_ms": 189707,
-      "name": "Mordisco",
-      "url": "https://open.spotify.com/track/6FBzbqhYjRilxEM2Kss8Bv"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1491,6 +1475,22 @@
       "duration_ms": 185002,
       "name": "ACUARIOS",
       "url": "https://open.spotify.com/track/5QyyzMLh3lYr88rJJmr8xf"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "Modernica",
+        "url": "https://open.spotify.com/album/785tbYjj5baApQGkSIiMkq"
+      },
+      "artists": [
+        {
+          "name": "Soy Irracional",
+          "url": "https://open.spotify.com/artist/6PKKXAHepFCoV4cAtwPUna"
+        }
+      ],
+      "duration_ms": 189707,
+      "name": "Mordisco",
+      "url": "https://open.spotify.com/track/6FBzbqhYjRilxEM2Kss8Bv"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1559,26 +1559,18 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "NT al sol",
-        "url": "https://open.spotify.com/album/1iI0hU3oBxRKRGs6lprkse"
+        "name": "Nota De Voz",
+        "url": "https://open.spotify.com/album/4NaeVyU5avNma2tUY41P8s"
       },
       "artists": [
         {
-          "name": "Melanie Williams & El Cabloide",
-          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
-        },
-        {
-          "name": "Paul Higgs",
-          "url": "https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V"
-        },
-        {
-          "name": "El Mundo Limon",
-          "url": "https://open.spotify.com/artist/6ewUKYDx23YcomTOQdDvTB"
+          "name": "Los Hermanos Laser",
+          "url": "https://open.spotify.com/artist/1G3t1G8HB4X8DIAaix8JaX"
         }
       ],
-      "duration_ms": 202827,
-      "name": "NT al sol",
-      "url": "https://open.spotify.com/track/7maIZJiVUL5HBOzjFqOwp0"
+      "duration_ms": 170839,
+      "name": "Nota De Voz",
+      "url": "https://open.spotify.com/track/07u8rikTmiY64DkJh1WAv9"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1599,6 +1591,30 @@
       "duration_ms": 208822,
       "name": "AMORA",
       "url": "https://open.spotify.com/track/7IjtOXWPGD7TcuFCW0syRh"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "NT al sol",
+        "url": "https://open.spotify.com/album/1iI0hU3oBxRKRGs6lprkse"
+      },
+      "artists": [
+        {
+          "name": "Melanie Williams & El Cabloide",
+          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
+        },
+        {
+          "name": "Paul Higgs",
+          "url": "https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V"
+        },
+        {
+          "name": "El Mundo Limon",
+          "url": "https://open.spotify.com/artist/6ewUKYDx23YcomTOQdDvTB"
+        }
+      ],
+      "duration_ms": 202827,
+      "name": "NT al sol",
+      "url": "https://open.spotify.com/track/7maIZJiVUL5HBOzjFqOwp0"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1639,6 +1655,22 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
+        "name": "Nocturno",
+        "url": "https://open.spotify.com/album/31LflZmiS6wi2VDlaHJuGh"
+      },
+      "artists": [
+        {
+          "name": "Los L\u00e1tigos",
+          "url": "https://open.spotify.com/artist/4gQjSrUccdskocfsE4L1MF"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Nocturno",
+      "url": "https://open.spotify.com/track/7MozRXZtbP7cAy0rRFM2l9"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
         "name": "Frutillas con Crema",
         "url": "https://open.spotify.com/album/01kd8mR6HRA6AxvvyXQ8i1"
       },
@@ -1651,38 +1683,6 @@
       "duration_ms": 162605,
       "name": "Frutillas con Crema",
       "url": "https://open.spotify.com/track/5DTDzZkWhNVBs30SR2C4dX"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
-        "name": "Nota De Voz",
-        "url": "https://open.spotify.com/album/4NaeVyU5avNma2tUY41P8s"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Laser",
-          "url": "https://open.spotify.com/artist/1G3t1G8HB4X8DIAaix8JaX"
-        }
-      ],
-      "duration_ms": 170839,
-      "name": "Nota De Voz",
-      "url": "https://open.spotify.com/track/07u8rikTmiY64DkJh1WAv9"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
-        "name": "Ideograma",
-        "url": "https://open.spotify.com/album/5AZFPqMNLc85eO8FoKGSnY"
-      },
-      "artists": [
-        {
-          "name": "Media Hermana",
-          "url": "https://open.spotify.com/artist/0oa0TL1V6tfg7ERfm2sMiE"
-        }
-      ],
-      "duration_ms": 262237,
-      "name": "Ideograma",
-      "url": "https://open.spotify.com/track/0h5zsbK2qdJo079qgLtp9q"
     }
   ],
   "unique_name": "6PM Indie",

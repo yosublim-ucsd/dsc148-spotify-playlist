@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5QvuBqAhuBS.md) - [plain]
 
 > The soundtrack to mall walking..\. once upon a time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,137 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,183 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5QvuBqAhuBS.md) - [plain]
 | 49 | [Banana Pancakes](https://open.spotify.com/track/451GvHwY99NKV4zdKPRWmv) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:11 |
 | 50 | [Somebody Like You](https://open.spotify.com/track/0b9djfiuDIMw1zKH6gV74g) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 5:23 |
 
-Snapshot ID: `MCw1MDY1MDI0NWExMDBhMmVjOTk3MDg1NDQ2ODc2YTRmNGM2NmE3MWU5`
+Snapshot ID: `MCwxNzEwODFkYWIxOTkzZTVhNzFiMDI1NzdiMDU3ZjYzYTVjNzIwYWUy`

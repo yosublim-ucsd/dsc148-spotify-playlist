@@ -1,12 +1,12 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. Noa Sainz y Nsqk en portada.",
-  "num_followers": 101735,
+  "num_followers": 101806,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NmFkYTIxMGNlNTdiMTkxMzU2MjFiNTZmODI2YmE0NjUxMzFjYzNi",
+  "snapshot_id": "MCwyMjQwOTEyMTBiOGFiMWU1YjU4NzA2NDlkODQzZTZmZGUwYWRkM2M0",
   "tracks": [
     {
       "added_at": "2023-08-04 18:27:18",
@@ -271,22 +271,22 @@
     {
       "added_at": "2023-08-04 18:27:18",
       "album": {
-        "name": "Hood (Remix)",
-        "url": "https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv"
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3"
       },
       "artists": [
         {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
         },
         {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+          "name": "Emy Soul",
+          "url": "https://open.spotify.com/artist/21sN4iJTG840LEqiRJ60Gh"
         }
       ],
-      "duration_ms": 176372,
-      "name": "Hood - Remix",
-      "url": "https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY"
+      "duration_ms": 191849,
+      "name": "Down With Me",
+      "url": "https://open.spotify.com/track/4LLqqvlsks9SQ3exoqhk4h"
     },
     {
       "added_at": "2023-08-04 18:27:18",
@@ -311,22 +311,22 @@
     {
       "added_at": "2023-08-04 18:27:18",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3"
+        "name": "Hood (Remix)",
+        "url": "https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv"
       },
       "artists": [
         {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
         },
         {
-          "name": "Emy Soul",
-          "url": "https://open.spotify.com/artist/21sN4iJTG840LEqiRJ60Gh"
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
         }
       ],
-      "duration_ms": 191849,
-      "name": "Down With Me",
-      "url": "https://open.spotify.com/track/4LLqqvlsks9SQ3exoqhk4h"
+      "duration_ms": 176372,
+      "name": "Hood - Remix",
+      "url": "https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY"
     },
     {
       "added_at": "2023-08-04 18:27:18",
@@ -415,6 +415,26 @@
     {
       "added_at": "2023-08-04 18:27:18",
       "album": {
+        "name": "Grillz",
+        "url": "https://open.spotify.com/album/1YH8ILbFvKc6NK5iyblISg"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 192526,
+      "name": "Grillz",
+      "url": "https://open.spotify.com/track/3NYmQgmnd2nDeRfq5vQbyu"
+    },
+    {
+      "added_at": "2023-08-04 18:27:18",
+      "album": {
         "name": "Estetograma",
         "url": "https://open.spotify.com/album/5g2NbpwACR5K3maWs2uaJu"
       },
@@ -471,26 +491,6 @@
       "duration_ms": 178461,
       "name": "Click Clack",
       "url": "https://open.spotify.com/track/0YCWXhQ8rSi03cHRD4UTm6"
-    },
-    {
-      "added_at": "2023-08-04 18:27:18",
-      "album": {
-        "name": "Grillz",
-        "url": "https://open.spotify.com/album/1YH8ILbFvKc6NK5iyblISg"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 192526,
-      "name": "Grillz",
-      "url": "https://open.spotify.com/track/3NYmQgmnd2nDeRfq5vQbyu"
     },
     {
       "added_at": "2023-08-04 18:27:18",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-08-04 18:27:18",
       "album": {
-        "name": "C\u00d3DIGOS",
-        "url": "https://open.spotify.com/album/44h2U2huy0NFGn5urk9Jfe"
-      },
-      "artists": [
-        {
-          "name": "Maikel Delacalle",
-          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
-        }
-      ],
-      "duration_ms": 182967,
-      "name": "TEIDE",
-      "url": "https://open.spotify.com/track/1Fz16SDK0IZGOKqvgbJNbJ"
-    },
-    {
-      "added_at": "2023-08-04 18:27:18",
-      "album": {
         "name": "Un Koala En Una Palmera",
         "url": "https://open.spotify.com/album/3ZAYuvF9D2gG3Qflm4Ps4U"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 183529,
       "name": "Curarte",
       "url": "https://open.spotify.com/track/2zB5K2Ywzi9eOhj2KbsDZ4"
+    },
+    {
+      "added_at": "2023-08-04 18:27:18",
+      "album": {
+        "name": "C\u00d3DIGOS",
+        "url": "https://open.spotify.com/album/44h2U2huy0NFGn5urk9Jfe"
+      },
+      "artists": [
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        }
+      ],
+      "duration_ms": 182967,
+      "name": "TEIDE",
+      "url": "https://open.spotify.com/track/1Fz16SDK0IZGOKqvgbJNbJ"
     },
     {
       "added_at": "2023-08-04 18:27:18",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-08-04 18:27:18",
       "album": {
-        "name": "T\u00fa All\u00e1 y Yo Ac\u00e1 (Live Session)",
-        "url": "https://open.spotify.com/album/05e8JBi4u19yBCuEEobbm9"
-      },
-      "artists": [
-        {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "T\u00fa All\u00e1 y Yo Ac\u00e1 - Live Session",
-      "url": "https://open.spotify.com/track/7wAybTs5t6QHLGViU5ZtYk"
-    },
-    {
-      "added_at": "2023-08-04 18:27:18",
-      "album": {
         "name": "Wiken",
         "url": "https://open.spotify.com/album/1ox4d9yLgy7AURDHxO5ToP"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 223643,
       "name": "Wiken",
       "url": "https://open.spotify.com/track/3wiQHn5XtL4jSnIetSCGA8"
+    },
+    {
+      "added_at": "2023-08-04 18:27:18",
+      "album": {
+        "name": "T\u00fa All\u00e1 y Yo Ac\u00e1 (Live Session)",
+        "url": "https://open.spotify.com/album/05e8JBi4u19yBCuEEobbm9"
+      },
+      "artists": [
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "T\u00fa All\u00e1 y Yo Ac\u00e1 - Live Session",
+      "url": "https://open.spotify.com/track/7wAybTs5t6QHLGViU5ZtYk"
     },
     {
       "added_at": "2023-08-04 18:27:18",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-08-04 18:27:18",
       "album": {
-        "name": "Room 302",
-        "url": "https://open.spotify.com/album/2ahKg6oAm6bUCnCaUob2mV"
-      },
-      "artists": [
-        {
-          "name": "Maikel Delacalle",
-          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Room 302",
-      "url": "https://open.spotify.com/track/1CRG6Br8GUtDwpi2l4LuIW"
-    },
-    {
-      "added_at": "2023-08-04 18:27:18",
-      "album": {
         "name": "Qu\u00e9 Maldici\u00f3n",
         "url": "https://open.spotify.com/album/34b6Qme3ZOs6jrgx0BWV3O"
       },
@@ -831,6 +815,22 @@
     {
       "added_at": "2023-08-04 18:27:18",
       "album": {
+        "name": "Room 302",
+        "url": "https://open.spotify.com/album/2ahKg6oAm6bUCnCaUob2mV"
+      },
+      "artists": [
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Room 302",
+      "url": "https://open.spotify.com/track/1CRG6Br8GUtDwpi2l4LuIW"
+    },
+    {
+      "added_at": "2023-08-04 18:27:18",
+      "album": {
         "name": "LA B\u00daSQUEDA",
         "url": "https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE"
       },
@@ -843,54 +843,6 @@
       "duration_ms": 103520,
       "name": "X Tu Casa",
       "url": "https://open.spotify.com/track/2w8mK5E51BICF0MCerzYkS"
-    },
-    {
-      "added_at": "2023-08-04 18:27:18",
-      "album": {
-        "name": "LA B\u00daSQUEDA",
-        "url": "https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE"
-      },
-      "artists": [
-        {
-          "name": "WANDA ORIGINAL",
-          "url": "https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD"
-        }
-      ],
-      "duration_ms": 93280,
-      "name": "Vamos Pal Espacio",
-      "url": "https://open.spotify.com/track/6VwH4mDDsCaiqVPPm9t0sy"
-    },
-    {
-      "added_at": "2023-08-04 18:27:18",
-      "album": {
-        "name": "Makin Money",
-        "url": "https://open.spotify.com/album/5LFrClQQyURQWYOTIIA0vm"
-      },
-      "artists": [
-        {
-          "name": "Foudeqush",
-          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
-        }
-      ],
-      "duration_ms": 188737,
-      "name": "Makin Money",
-      "url": "https://open.spotify.com/track/0nMeCH0qe2CTdA6YDzyFRW"
-    },
-    {
-      "added_at": "2023-08-04 18:27:18",
-      "album": {
-        "name": "No Le Llames Amor",
-        "url": "https://open.spotify.com/album/1ubOrTTzo085mnwEU0P7iE"
-      },
-      "artists": [
-        {
-          "name": "Maikel Delacalle",
-          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "No Le Llames Amor",
-      "url": "https://open.spotify.com/track/4UGBuJ6rKndVjaPtzs3knZ"
     },
     {
       "added_at": "2023-08-04 18:27:18",
@@ -915,6 +867,38 @@
     {
       "added_at": "2023-08-04 18:27:18",
       "album": {
+        "name": "Makin Money",
+        "url": "https://open.spotify.com/album/5LFrClQQyURQWYOTIIA0vm"
+      },
+      "artists": [
+        {
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+        }
+      ],
+      "duration_ms": 188737,
+      "name": "Makin Money",
+      "url": "https://open.spotify.com/track/0nMeCH0qe2CTdA6YDzyFRW"
+    },
+    {
+      "added_at": "2023-08-04 18:27:18",
+      "album": {
+        "name": "LA B\u00daSQUEDA",
+        "url": "https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE"
+      },
+      "artists": [
+        {
+          "name": "WANDA ORIGINAL",
+          "url": "https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD"
+        }
+      ],
+      "duration_ms": 93280,
+      "name": "Vamos Pal Espacio",
+      "url": "https://open.spotify.com/track/6VwH4mDDsCaiqVPPm9t0sy"
+    },
+    {
+      "added_at": "2023-08-04 18:27:18",
+      "album": {
         "name": "Nico Valdi produciendo a Juli Martorell",
         "url": "https://open.spotify.com/album/0a3SDR3HFeSpzhCdNBZxaS"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 164854,
       "name": "Nico Valdi produciendo a Juli Martorell",
       "url": "https://open.spotify.com/track/12TqKfJ54Sv6qamEwWiOa2"
+    },
+    {
+      "added_at": "2023-08-04 18:27:18",
+      "album": {
+        "name": "No Le Llames Amor",
+        "url": "https://open.spotify.com/album/1ubOrTTzo085mnwEU0P7iE"
+      },
+      "artists": [
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "No Le Llames Amor",
+      "url": "https://open.spotify.com/track/4UGBuJ6rKndVjaPtzs3knZ"
     },
     {
       "added_at": "2023-08-04 18:27:18",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-08-04 18:27:18",
       "album": {
+        "name": "9:15",
+        "url": "https://open.spotify.com/album/0aHNuxs4GlcjYkoENqm6en"
+      },
+      "artists": [
+        {
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+        }
+      ],
+      "duration_ms": 124800,
+      "name": "9:15",
+      "url": "https://open.spotify.com/track/505e4QYrsvZHOuojWxpOLK"
+    },
+    {
+      "added_at": "2023-08-04 18:27:18",
+      "album": {
         "name": "Mi Fantasma",
         "url": "https://open.spotify.com/album/3SiJHkv9exQ6WsYAecHFB1"
       },
@@ -1131,18 +1147,18 @@
     {
       "added_at": "2023-08-04 18:27:18",
       "album": {
-        "name": "9:15",
-        "url": "https://open.spotify.com/album/0aHNuxs4GlcjYkoENqm6en"
+        "name": "Cada D\u00eda Te Quiero M\u00e1s",
+        "url": "https://open.spotify.com/album/5x4CBMHXg9zVY37KEZSS3J"
       },
       "artists": [
         {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
         }
       ],
-      "duration_ms": 124800,
-      "name": "9:15",
-      "url": "https://open.spotify.com/track/505e4QYrsvZHOuojWxpOLK"
+      "duration_ms": 192418,
+      "name": "Cada D\u00eda Te Quiero M\u00e1s",
+      "url": "https://open.spotify.com/track/3cj60CwhSsrMr0nxMRIGKP"
     },
     {
       "added_at": "2023-08-04 18:27:18",
@@ -1163,22 +1179,6 @@
       "duration_ms": 214080,
       "name": "Joligud",
       "url": "https://open.spotify.com/track/0Y35Rs7m7s0Ttwn5oi0s14"
-    },
-    {
-      "added_at": "2023-08-04 18:27:18",
-      "album": {
-        "name": "Cada D\u00eda Te Quiero M\u00e1s",
-        "url": "https://open.spotify.com/album/5x4CBMHXg9zVY37KEZSS3J"
-      },
-      "artists": [
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        }
-      ],
-      "duration_ms": 192418,
-      "name": "Cada D\u00eda Te Quiero M\u00e1s",
-      "url": "https://open.spotify.com/track/3cj60CwhSsrMr0nxMRIGKP"
     },
     {
       "added_at": "2023-08-04 18:27:18",
@@ -1211,6 +1211,30 @@
     {
       "added_at": "2023-08-04 18:27:18",
       "album": {
+        "name": "Tus Ojos Me Hablaron",
+        "url": "https://open.spotify.com/album/1DB93h9fw0dyrn9LOoYHeM"
+      },
+      "artists": [
+        {
+          "name": "Desert Ni\u00f1os",
+          "url": "https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD"
+        },
+        {
+          "name": "Slim Ans",
+          "url": "https://open.spotify.com/artist/4JFse8c35wKHAuzJO9BTqO"
+        },
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        }
+      ],
+      "duration_ms": 201290,
+      "name": "Tus Ojos Me Hablaron",
+      "url": "https://open.spotify.com/track/2lwPsHNyohO98CZY0ag3YQ"
+    },
+    {
+      "added_at": "2023-08-04 18:27:18",
+      "album": {
         "name": "RIP",
         "url": "https://open.spotify.com/album/55b2KZglwORMKbL2bW8EhC"
       },
@@ -1239,30 +1263,6 @@
     {
       "added_at": "2023-08-04 18:27:18",
       "album": {
-        "name": "Tus Ojos Me Hablaron",
-        "url": "https://open.spotify.com/album/1DB93h9fw0dyrn9LOoYHeM"
-      },
-      "artists": [
-        {
-          "name": "Desert Ni\u00f1os",
-          "url": "https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD"
-        },
-        {
-          "name": "Slim Ans",
-          "url": "https://open.spotify.com/artist/4JFse8c35wKHAuzJO9BTqO"
-        },
-        {
-          "name": "Ms. Ambar",
-          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
-        }
-      ],
-      "duration_ms": 201290,
-      "name": "Tus Ojos Me Hablaron",
-      "url": "https://open.spotify.com/track/2lwPsHNyohO98CZY0ag3YQ"
-    },
-    {
-      "added_at": "2023-08-04 18:27:18",
-      "album": {
         "name": "como te va?",
         "url": "https://open.spotify.com/album/113FXbf4zKRInNJksj2H8V"
       },
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-08-04 18:27:18",
       "album": {
-        "name": "Los Dos",
-        "url": "https://open.spotify.com/album/5J0ozKBrpKY05AoClZx56R"
-      },
-      "artists": [
-        {
-          "name": "Panther",
-          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
-        }
-      ],
-      "duration_ms": 172235,
-      "name": "Los Dos",
-      "url": "https://open.spotify.com/track/6kn5oUW8uoVIcGjpjbnBlw"
-    },
-    {
-      "added_at": "2023-08-04 18:27:18",
-      "album": {
         "name": "Ketamina",
         "url": "https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 171063,
       "name": "Ketamina",
       "url": "https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv"
+    },
+    {
+      "added_at": "2023-08-04 18:27:18",
+      "album": {
+        "name": "Los Dos",
+        "url": "https://open.spotify.com/album/5J0ozKBrpKY05AoClZx56R"
+      },
+      "artists": [
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
+        }
+      ],
+      "duration_ms": 172235,
+      "name": "Los Dos",
+      "url": "https://open.spotify.com/track/6kn5oUW8uoVIcGjpjbnBlw"
     },
     {
       "added_at": "2023-08-04 18:27:18",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-08-04 18:27:18",
       "album": {
-        "name": "Gallo Pinto",
-        "url": "https://open.spotify.com/album/5siyy5mV4vl9qwjd7mshAk"
-      },
-      "artists": [
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
-        }
-      ],
-      "duration_ms": 209746,
-      "name": "Gallo Pinto",
-      "url": "https://open.spotify.com/track/5Iwm1QINtdFzRjT9AQaqAe"
-    },
-    {
-      "added_at": "2023-08-04 18:27:18",
-      "album": {
         "name": "EST\u00c1 CABR\u00d3N",
         "url": "https://open.spotify.com/album/65BLPWnC704r35AXW5j5cl"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 184585,
       "name": "EST\u00c1 CABR\u00d3N",
       "url": "https://open.spotify.com/track/16IWSpLVWetjwwkYdNPkVB"
+    },
+    {
+      "added_at": "2023-08-04 18:27:18",
+      "album": {
+        "name": "Gallo Pinto",
+        "url": "https://open.spotify.com/album/5siyy5mV4vl9qwjd7mshAk"
+      },
+      "artists": [
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "duration_ms": 209746,
+      "name": "Gallo Pinto",
+      "url": "https://open.spotify.com/track/5Iwm1QINtdFzRjT9AQaqAe"
     },
     {
       "added_at": "2023-08-04 18:27:18",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-08-04 18:27:18",
       "album": {
-        "name": "Qui\u00e9n Dir\u00eda",
-        "url": "https://open.spotify.com/album/0mdmUs0b4LjKcwGwP0EeQk"
-      },
-      "artists": [
-        {
-          "name": "Selene",
-          "url": "https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS"
-        }
-      ],
-      "duration_ms": 168804,
-      "name": "Qui\u00e9n Dir\u00eda",
-      "url": "https://open.spotify.com/track/05teZS4fAVnTjJl5NYTIYZ"
-    },
-    {
-      "added_at": "2023-08-04 18:27:18",
-      "album": {
         "name": "ASMR",
         "url": "https://open.spotify.com/album/1tc2XAQZqkW9wvUTe6H6En"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 181221,
       "name": "ASMR",
       "url": "https://open.spotify.com/track/3d6GBK3VlzhluJrFUNlrEi"
+    },
+    {
+      "added_at": "2023-08-04 18:27:18",
+      "album": {
+        "name": "Qui\u00e9n Dir\u00eda",
+        "url": "https://open.spotify.com/album/0mdmUs0b4LjKcwGwP0EeQk"
+      },
+      "artists": [
+        {
+          "name": "Selene",
+          "url": "https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS"
+        }
+      ],
+      "duration_ms": 168804,
+      "name": "Qui\u00e9n Dir\u00eda",
+      "url": "https://open.spotify.com/track/05teZS4fAVnTjJl5NYTIYZ"
     },
     {
       "added_at": "2023-08-04 18:27:18",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2023-08-04 18:27:18",
       "album": {
-        "name": "Vibras",
-        "url": "https://open.spotify.com/album/5pkran0HD0TArY7OqRGvsk"
-      },
-      "artists": [
-        {
-          "name": "RPLK",
-          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
-        }
-      ],
-      "duration_ms": 153132,
-      "name": "Vibras",
-      "url": "https://open.spotify.com/track/2lavVNtQyc5hbMgaAmnQGU"
-    },
-    {
-      "added_at": "2023-08-04 18:27:18",
-      "album": {
         "name": "A Mi Ritmo",
         "url": "https://open.spotify.com/album/0kZuOQA9W3hC6j3nhYxuUX"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 186883,
       "name": "A Mi Ritmo",
       "url": "https://open.spotify.com/track/51h83YT521kYxTLng0FyRv"
+    },
+    {
+      "added_at": "2023-08-04 18:27:18",
+      "album": {
+        "name": "Vibras",
+        "url": "https://open.spotify.com/album/5pkran0HD0TArY7OqRGvsk"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "duration_ms": 153132,
+      "name": "Vibras",
+      "url": "https://open.spotify.com/track/2lavVNtQyc5hbMgaAmnQGU"
     },
     {
       "added_at": "2023-08-04 18:27:18",

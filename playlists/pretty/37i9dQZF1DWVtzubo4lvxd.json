@@ -1,12 +1,12 @@
 {
   "description": "Chill lo-fi beats to enjoy a great afternoon.",
-  "num_followers": 110647,
+  "num_followers": 110667,
   "original_name": "Sunset Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZThlOTRhMzQxOTRhZjRkOTQ3OThhOTNlZmRiNDViMzI5NmYyYzQ3",
+  "snapshot_id": "MCxhNTQ1YTYzYzc4ZWFhYjE3ZWViNzg1MTA3MDVkMDlhZTE5ODI3MTFj",
   "tracks": [
     {
       "added_at": "2022-04-15 12:09:52",
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH"
         }
       ],
-      "duration_ms": 77571,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/4iLL181gl7s9FELLkSUmEK"
+      "duration_ms": 77501,
+      "name": "6 out of 600",
+      "url": "https://open.spotify.com/track/2bEshJ2C5fbZ81Q3Zlnb7m"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH"
         }
       ],
-      "duration_ms": 77501,
-      "name": "6 out of 600",
-      "url": "https://open.spotify.com/track/2bEshJ2C5fbZ81Q3Zlnb7m"
+      "duration_ms": 77571,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/4iLL181gl7s9FELLkSUmEK"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "another.wun",
-        "url": "https://open.spotify.com/album/5H01iddYzVjiMY7CcMFpnS"
-      },
-      "artists": [
-        {
-          "name": "potsu",
-          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
-        }
-      ],
-      "duration_ms": 105789,
-      "name": "another.wun",
-      "url": "https://open.spotify.com/track/1RaKBL6CSERv4lzPRKgg56"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Beat Batch #2",
         "url": "https://open.spotify.com/album/1zEv31yXhwbYowqsabXRJB"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 77844,
       "name": "Air",
       "url": "https://open.spotify.com/track/3gQSWGaCoaxONqXitmn7GX"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "another.wun",
+        "url": "https://open.spotify.com/album/5H01iddYzVjiMY7CcMFpnS"
+      },
+      "artists": [
+        {
+          "name": "potsu",
+          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
+        }
+      ],
+      "duration_ms": 105789,
+      "name": "another.wun",
+      "url": "https://open.spotify.com/track/1RaKBL6CSERv4lzPRKgg56"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Discography",
-        "url": "https://open.spotify.com/album/17KY09ISAVpJ30vTaiTW3n"
-      },
-      "artists": [
-        {
-          "name": "Caleb Belkin",
-          "url": "https://open.spotify.com/artist/12TcsyqAd3lJUcZFJVogXZ"
-        }
-      ],
-      "duration_ms": 118554,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/3kMVwcWq73jxj9w3OlgrmR"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Kids' Menu",
         "url": "https://open.spotify.com/album/5QZRe9oZyiwJG3LqYzLQc2"
       },
@@ -743,6 +727,38 @@
       "duration_ms": 148014,
       "name": "Open Window",
       "url": "https://open.spotify.com/track/703hSWNgehWT0F16awNLr1"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Divine",
+        "url": "https://open.spotify.com/album/4u4xybF9lWoWmLR7OzVeCR"
+      },
+      "artists": [
+        {
+          "name": "Blvk",
+          "url": "https://open.spotify.com/artist/12MvJYPfRXWwhUFJ7EtKHb"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/0MKb6jtMMFY0FZNg6P3dAI"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Discography",
+        "url": "https://open.spotify.com/album/17KY09ISAVpJ30vTaiTW3n"
+      },
+      "artists": [
+        {
+          "name": "Caleb Belkin",
+          "url": "https://open.spotify.com/artist/12TcsyqAd3lJUcZFJVogXZ"
+        }
+      ],
+      "duration_ms": 118554,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/3kMVwcWq73jxj9w3OlgrmR"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -799,22 +815,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Divine",
-        "url": "https://open.spotify.com/album/4u4xybF9lWoWmLR7OzVeCR"
-      },
-      "artists": [
-        {
-          "name": "Blvk",
-          "url": "https://open.spotify.com/artist/12MvJYPfRXWwhUFJ7EtKHb"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Divine",
-      "url": "https://open.spotify.com/track/0MKb6jtMMFY0FZNg6P3dAI"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "ep seeds",
         "url": "https://open.spotify.com/album/2vxePUlbaM0O8bormn1Pgf"
       },
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "corals 2",
-        "url": "https://open.spotify.com/album/1cXZDExwXLZtfLRxCcnETx"
-      },
-      "artists": [
-        {
-          "name": "Fujitsu",
-          "url": "https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "sand castles",
-      "url": "https://open.spotify.com/track/6ip3BwXKlULyY279vreCz9"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Yerba",
         "url": "https://open.spotify.com/album/2TpFFSYCyOFwWlhgOZkEe0"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 120000,
       "name": "Rolling Papers",
       "url": "https://open.spotify.com/track/3ou5xfUbChcJHMIN8jZ8C9"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "corals 2",
+        "url": "https://open.spotify.com/album/1cXZDExwXLZtfLRxCcnETx"
+      },
+      "artists": [
+        {
+          "name": "Fujitsu",
+          "url": "https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "sand castles",
+      "url": "https://open.spotify.com/track/6ip3BwXKlULyY279vreCz9"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Shinigami",
-        "url": "https://open.spotify.com/album/3ylB3HxdcNx6lCRJT2bruW"
-      },
-      "artists": [
-        {
-          "name": "SINY",
-          "url": "https://open.spotify.com/artist/6d1bmKQyB8OJWCOJJPCkVT"
-        }
-      ],
-      "duration_ms": 160456,
-      "name": "ORANGE",
-      "url": "https://open.spotify.com/track/2QFvsZEjbketrpCgCNC9Zp"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/1vNYKr4KkIcLFug4zMX0rD"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 120000,
       "name": "Springtime",
       "url": "https://open.spotify.com/track/6wh61ZuwyFfS9DD6EJCov4"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Shinigami",
+        "url": "https://open.spotify.com/album/3ylB3HxdcNx6lCRJT2bruW"
+      },
+      "artists": [
+        {
+          "name": "SINY",
+          "url": "https://open.spotify.com/artist/6d1bmKQyB8OJWCOJJPCkVT"
+        }
+      ],
+      "duration_ms": 160456,
+      "name": "ORANGE",
+      "url": "https://open.spotify.com/track/2QFvsZEjbketrpCgCNC9Zp"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Hills and Horizons",
-        "url": "https://open.spotify.com/album/7uVXp056ciEBVnddjf7lt5"
-      },
-      "artists": [
-        {
-          "name": "Fujitsu",
-          "url": "https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT"
-        }
-      ],
-      "duration_ms": 125217,
-      "name": "Hills and Horizons",
-      "url": "https://open.spotify.com/track/1MfeZZwkOZP5gpCfZCzKiJ"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "It's Ok",
         "url": "https://open.spotify.com/album/0sDMveXrOxXh8eYtdREMek"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 168297,
       "name": "It's Ok",
       "url": "https://open.spotify.com/track/19K24V0kGvNLFYCR8jMs88"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Hills and Horizons",
+        "url": "https://open.spotify.com/album/7uVXp056ciEBVnddjf7lt5"
+      },
+      "artists": [
+        {
+          "name": "Fujitsu",
+          "url": "https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT"
+        }
+      ],
+      "duration_ms": 125217,
+      "name": "Hills and Horizons",
+      "url": "https://open.spotify.com/track/1MfeZZwkOZP5gpCfZCzKiJ"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "hometown",
-        "url": "https://open.spotify.com/album/1algiZiHrfsA4siGIdUZRq"
-      },
-      "artists": [
-        {
-          "name": "mommy",
-          "url": "https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk"
-        }
-      ],
-      "duration_ms": 116061,
-      "name": "hammock",
-      "url": "https://open.spotify.com/track/1PdJvxvhuImI0dpuWoPwWe"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Last Summer",
         "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 178260,
       "name": "Joan of Arc.",
       "url": "https://open.spotify.com/track/2DrrxuNOhnpqJXLH36eR1S"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "hometown",
+        "url": "https://open.spotify.com/album/1algiZiHrfsA4siGIdUZRq"
+      },
+      "artists": [
+        {
+          "name": "mommy",
+          "url": "https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk"
+        }
+      ],
+      "duration_ms": 116061,
+      "name": "hammock",
+      "url": "https://open.spotify.com/track/1PdJvxvhuImI0dpuWoPwWe"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Sneakers",
-        "url": "https://open.spotify.com/album/4zlNJu16EZyfYdUo7HUwO2"
+        "name": "Spotless Minds",
+        "url": "https://open.spotify.com/album/502M2AoaTM2CDYghPlH0Mn"
       },
       "artists": [
         {
-          "name": "Monma",
-          "url": "https://open.spotify.com/artist/50nVKm0xa3p8KYXXssG2ym"
+          "name": "Tesk",
+          "url": "https://open.spotify.com/artist/7ntBtETW7gkufH8Hw38gb4"
         }
       ],
-      "duration_ms": 149333,
-      "name": "Sneakers",
-      "url": "https://open.spotify.com/track/2kAkl8R05DTkRkNMDhIvKc"
+      "duration_ms": 157270,
+      "name": "Green Stamps",
+      "url": "https://open.spotify.com/track/30zouM8GTBeX57AFYDCcDI"
     }
   ],
   "unique_name": "Sunset Chill",

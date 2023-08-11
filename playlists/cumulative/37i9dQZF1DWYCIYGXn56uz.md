@@ -2,9 +2,9 @@
 
 ### [GENERAZIONE Z](https://open.spotify.com/playlist/37i9dQZF1DWYCIYGXn56uz)
 
-> ✨giovane✨pop✨z✨ Cover: Alfa
+> ✨giovane✨pop✨z✨ Cover: BLANCO
 
-199 songs - 9 hr 14 min
+200 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [L'Isola Delle Rose](https://open.spotify.com/track/5pFKuNJdKLyMceZuopqVFF) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [L'Isola Delle Rose](https://open.spotify.com/album/0dedUKXYTEmxuhkF5yZPj3) | 3:07 | 2023-03-23 | 2023-04-14 |
 | [La canzone più bella](https://open.spotify.com/track/5h6tNjVR2ZEP5QkEi3wSxK) | [Drama](https://open.spotify.com/artist/2h16TAqr8VkUs8ddUxOS6w), [PATRIK](https://open.spotify.com/artist/5Mwqi2MUNHBzXIVuOuO8ca) | [La canzone più bella](https://open.spotify.com/album/6BiXZOrgIItWAWakRZ6DtD) | 2:50 | 2023-03-23 | 2023-04-14 |
 | [La Notte Vola \- RMX \(feat\. Lorella Cuccarini\)](https://open.spotify.com/track/6wzhvovM1fT42S71JLZpNv) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf), [Lorella Cuccarini](https://open.spotify.com/artist/6vwWMr71jvuVrDQu92Li7U) | [La Notte Vola \- RMX \(feat\. Lorella Cuccarini\)](https://open.spotify.com/album/3yaTIPOD3iR079s8cfB0wA) | 2:22 | 2023-03-23 |  |
+| [Lacrime Di Piombo](https://open.spotify.com/track/5fh7anHZAkkaTzM3tUGkAg) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Innamorato](https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP) | 3:16 | 2023-08-10 |  |
 | [Le Cose In Comune](https://open.spotify.com/track/1rVPV7us0kW0mXBgoNKAYK) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Le Cose In Comune](https://open.spotify.com/album/1tFaJjfjNZCbc81buL2Um0) | 2:31 | 2023-03-23 |  |
 | [Lei parlò di lui](https://open.spotify.com/track/6cIkmCUusVbw86Zs17wHKY) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [HO CONOSCIUTO LA MIA OMBRA!](https://open.spotify.com/album/3AHITz4sGca7AZR7uoQGGg) | 3:32 | 2023-04-13 | 2023-05-19 |
 | [LEI È](https://open.spotify.com/track/1WMq8hzihEHUzXbvHqNWVt) | [Lortex](https://open.spotify.com/artist/0ItmqfCN0IYX9N8LcDHj45) | [CHIAMO](https://open.spotify.com/album/4Kfp3DudUiFoQamrhT4c44) | 2:36 | 2023-06-01 | 2023-06-30 |
@@ -159,7 +160,7 @@
 | [PROFUMO](https://open.spotify.com/track/0Gi4BJG02Hj6x1csoni8fz) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [PROFUMO](https://open.spotify.com/album/1lD5U7HWtabfmkSxx7vH6X) | 3:23 | 2023-04-20 | 2023-05-19 |
 | [RESTO IN CHILL](https://open.spotify.com/track/6VL7XBlYdDg7cAGPx5uVL3) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [RESTO IN CHILL](https://open.spotify.com/album/3Pfnlj2SPQmBGggnxo6fc9) | 3:02 | 2023-07-06 |  |
 | [Ricordarmi di scordarti](https://open.spotify.com/track/7HfIA6XWVZWsLC7SSBdavy) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe), [LAX](https://open.spotify.com/artist/2qkqwL9GSe6o26rxzUfsd0) | [Ricordarmi di scordarti](https://open.spotify.com/album/7sPORpkE6mfvYJm6XBdiJ5) | 2:24 | 2023-03-23 | 2023-04-14 |
-| [Rivoluzione!](https://open.spotify.com/track/4OYZLVdGFBHJ8UQcRbU3Ny) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Rivoluzione!](https://open.spotify.com/album/5jFiLe8UahShhjZyUhmnkM) | 2:41 | 2023-07-20 |  |
+| [Rivoluzione!](https://open.spotify.com/track/4OYZLVdGFBHJ8UQcRbU3Ny) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Rivoluzione!](https://open.spotify.com/album/5jFiLe8UahShhjZyUhmnkM) | 2:41 | 2023-07-20 | 2023-08-11 |
 | [Rock N Roll](https://open.spotify.com/track/3iIFvER6NUxnJc9Zv5BhsN) | [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc) | [Rock N Roll](https://open.spotify.com/album/0QwnfupfwKZFlsPY7dYqqM) | 2:33 | 2023-06-08 |  |
 | [ROMA](https://open.spotify.com/track/1RTrSZow3zzUQ1Q2B95d3z) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [ROMA](https://open.spotify.com/album/4dW1fBOZW6iy5ndUTX5hOI) | 2:30 | 2023-03-23 |  |
 | [ROMANTICA E BUGIARDA](https://open.spotify.com/track/3jZojGbxzsJTihyb1VVrFE) | [Astol](https://open.spotify.com/artist/13LaDWlkqsIjVkIA9Hdciy), [Biondo](https://open.spotify.com/artist/7vlwS8BMw7yyothJwoY74p) | [ROMANTICA E BUGIARDA](https://open.spotify.com/album/0WE9QOW9r88g2gcPQRADbm) | 2:53 | 2023-06-15 |  |

@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-854 songs - 2 day 7 hr 57 min
+855 songs - 2 day 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -545,7 +545,8 @@
 | [Nunca](https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Lucha](https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib) | 4:22 | 2023-04-28 |  |
 | [Nymphea](https://open.spotify.com/track/4n6204snuplk1IUf8Qmw2F) | [Lightman Jarvis Ecstatic Band](https://open.spotify.com/artist/2vAyB8ZkJe6do0JsLIwN1x), [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt), [Romy Lightman](https://open.spotify.com/artist/5Sp1FBaAQ0NDun0wEzzvuG) | [Nymphea](https://open.spotify.com/album/6th78KuV5ysW2uW2cMZh6P) | 3:49 | 2021-06-04 | 2022-07-09 |
 | [O.N.E.](https://open.spotify.com/track/5Tr57zEsUBRckxVrwgsoQU) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [L.W.](https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx) | 3:40 | 2021-04-02 | 2022-07-06 |
-| [Oatmeal Pancakes](https://open.spotify.com/track/3Qazns0pMnqN6cbDJTxj9a) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Oatmeal Pancakes](https://open.spotify.com/album/68pGqsjvG8r4vvLBljvPuQ) | 3:06 | 2023-04-21 |  |
+| [Oatmeal Pancakes](https://open.spotify.com/track/2WrVNmuf8cLlLE58Q5UweA) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Boy Toy](https://open.spotify.com/album/1wBk0x6HFBHRvIH42qyhBE) | 3:06 | 2023-04-21 |  |
+| [Oatmeal Pancakes](https://open.spotify.com/track/3Qazns0pMnqN6cbDJTxj9a) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Oatmeal Pancakes](https://open.spotify.com/album/68pGqsjvG8r4vvLBljvPuQ) | 3:06 | 2023-04-21 | 2023-08-11 |
 | [Of the sun](https://open.spotify.com/track/6SNGgnfgrzf8ng7mmqGLQX) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [Of the sun](https://open.spotify.com/album/47c1TGFkVqnnhCFxNFqHb4) | 4:44 | 2022-03-08 | 2022-07-29 |
 | [Ohio](https://open.spotify.com/track/63IfUlTGLlYQfhBWjPle4Q) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Mahjong Room](https://open.spotify.com/album/6lxoqlw3Kh9s9kyl4UwAzs) | 2:33 | 2021-04-02 | 2022-04-22 |
 | [Oidar](https://open.spotify.com/track/6FfbKN3PDxHJMsdr7DX7wh) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Sticky Thumb](https://open.spotify.com/album/5fRFL33mS6f2EtH9RjOz68) | 3:28 | 2021-04-02 | 2023-03-07 |

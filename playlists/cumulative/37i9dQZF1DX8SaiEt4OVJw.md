@@ -2,7 +2,7 @@
 
 ### [Locker Room ](https://open.spotify.com/playlist/37i9dQZF1DX8SaiEt4OVJw)
 
-> Giants Of Africa Takeover! Africa, Lets ball!
+> Get a load of what's on rotation off court at the Giants of Africa festival
 
 228 songs - 13 hr 29 min
 

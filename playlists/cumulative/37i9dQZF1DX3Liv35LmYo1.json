@@ -180,7 +180,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 352329,
       "name": "Any Path to Touch the Stars",
       "url": "https://open.spotify.com/track/7M0LkuHgD4gxyJRq3vr7Ma"
@@ -449,6 +449,24 @@
     },
     {
       "album": {
+        "name": "BOY / if u wanna cry",
+        "url": "https://open.spotify.com/album/79Wtz0l5ubAbkzlRJOk2Ie"
+      },
+      "artists": [
+        {
+          "name": "Ryan Hemsworth",
+          "url": "https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183204,
+      "name": "BOY",
+      "url": "https://open.spotify.com/track/6Q3z3LmFRjPTBFaLCbsHOd"
+    },
+    {
+      "album": {
         "name": "do you feel it too?",
         "url": "https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId"
       },
@@ -620,7 +638,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 320533,
       "name": "Cmon",
       "url": "https://open.spotify.com/track/4kaiSmJrLgQq0w2qFuzAwy"
@@ -678,7 +696,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 253793,
       "name": "Colours Of My Mind",
       "url": "https://open.spotify.com/track/6Tsgdnj9ezGo6cIgOKbl1m"
@@ -1314,7 +1332,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-02",
+      "date_removed": null,
       "duration_ms": 373453,
       "name": "Higher Elevation",
       "url": "https://open.spotify.com/track/1lb1LQdKk2W265fIggX4SV"
@@ -2200,7 +2218,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 480253,
       "name": "Scythe Master",
       "url": "https://open.spotify.com/track/2ioTUZg5JbOwl2nKNFquQx"

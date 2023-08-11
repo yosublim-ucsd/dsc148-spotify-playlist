@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-661 songs - 1 day 3 hr 50 min
+662 songs - 1 day 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Divided](https://open.spotify.com/track/6ZsneTepMm115P6isojL6R) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Divided](https://open.spotify.com/album/1s5iJHPOqx0gCVVwwXR82B) | 2:11 | 2022-05-27 | 2022-08-10 |
 | [Dolce](https://open.spotify.com/track/44e6QZtPPxu2OXO1AkEYMf) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Dolce](https://open.spotify.com/album/7GKZUq1a6RjmM2SHRqotMv) | 2:23 | 2022-08-09 | 2023-03-28 |
 | [Donde Nadas](https://open.spotify.com/track/0SpK2s8gJnetHIuzSBqgta) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [Donde Nadas](https://open.spotify.com/album/6Yg0OOMxh7bywdOeUVzwXK) | 2:21 | 2022-05-27 | 2022-07-21 |
-| [Dordogne Peace](https://open.spotify.com/track/6M7WZqI57fDaWnLXOJQjPv) | [Magnus Ludvigsson](https://open.spotify.com/artist/1ZdkboTg5bXbk7siTMxVc7) | [Dordogne Peace](https://open.spotify.com/album/6CmxYF8taQnE8hIEUGB0Ye) | 2:54 | 2022-05-27 |  |
+| [Dordogne Peace](https://open.spotify.com/track/6M7WZqI57fDaWnLXOJQjPv) | [Magnus Ludvigsson](https://open.spotify.com/artist/1ZdkboTg5bXbk7siTMxVc7) | [Dordogne Peace](https://open.spotify.com/album/6CmxYF8taQnE8hIEUGB0Ye) | 2:54 | 2022-05-27 | 2023-08-11 |
 | [Drawing A Fish For Iwamoto's Retirement](https://open.spotify.com/track/0IlkQFAlC4F0goadpgzmwg) | [Tim Linghaus](https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY) | [Drawing A Fish For Iwamoto's Retirement](https://open.spotify.com/album/6afoB6Q0lXOJFwQyN8Ube9) | 2:12 | 2023-07-03 |  |
 | [Dream II](https://open.spotify.com/track/2YZDndIQOgoB2HaYIIF5no) | [Luke Faulkner](https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3) | [Dream](https://open.spotify.com/album/5XLOW58DygV2CWsoXvMzOk) | 2:31 | 2023-02-27 |  |
 | [Dream in Eb](https://open.spotify.com/track/14g7oKsfbokvFDtDtP77Ir) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Dreams](https://open.spotify.com/album/4nVkpMo4vu96mvzWXtQt1t) | 2:25 | 2022-05-27 | 2022-09-24 |
@@ -321,7 +321,7 @@
 | [Let many flowers grow](https://open.spotify.com/track/6TAdSTLJrVdWjmuvUhTaDd) | [Ava Decker](https://open.spotify.com/artist/0DP3HMpZrLwWXEDUYYxnBu) | [Let many flowers grow](https://open.spotify.com/album/131d4xktQj2Jwve1yJwi0u) | 3:10 | 2022-05-27 | 2023-01-21 |
 | [Libellule](https://open.spotify.com/track/0d331ogYaPH7un6BnYDjLj) | [Isaac Boudillet](https://open.spotify.com/artist/1435UnexYmW8YoyUf5cTmx) | [Libellule](https://open.spotify.com/album/0YtB4ZKR95JR1IoVk3lrgf) | 2:45 | 2022-05-27 |  |
 | [Liefde maakt blind](https://open.spotify.com/track/1ULmtmHwHzmWqrVsYxees1) | [Margaretha van Baarle](https://open.spotify.com/artist/1I6amUXyzWrPtpPsLmYHp1) | [Liefde maakt blind](https://open.spotify.com/album/7CPXA05Q0uVQgND8qMzyIN) | 2:21 | 2022-05-27 | 2023-04-22 |
-| [Like Before](https://open.spotify.com/track/27An0sDvzMb7GM6pRE9ycF) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Like Before](https://open.spotify.com/album/2XnJ6Gy388bHlx1rikNI4p) | 2:15 | 2022-07-20 | 2023-06-01 |
+| [Like Before](https://open.spotify.com/track/27An0sDvzMb7GM6pRE9ycF) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Like Before](https://open.spotify.com/album/2XnJ6Gy388bHlx1rikNI4p) | 2:15 | 2022-07-20 |  |
 | [Like Before](https://open.spotify.com/track/4gh3kOpFSQPn6jGOI0gZPm) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Like Before](https://open.spotify.com/album/7KG32lDHhYrznuU2EXHJPp) | 2:15 | 2022-05-27 | 2022-07-29 |
 | [Lillian](https://open.spotify.com/track/5lcjalUNbHaaSvXRTtYd1p) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Søren Tarding](https://open.spotify.com/artist/1bHfoau7ud3dvN33mMtzuj) | [Mursejler](https://open.spotify.com/album/4fQTzcMpCxxpajM3dMUqID) | 2:07 | 2022-07-20 |  |
 | [Lillian](https://open.spotify.com/track/6DGMmL7Y0CG0OFEvRepJpq) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Søren Tarding](https://open.spotify.com/artist/1bHfoau7ud3dvN33mMtzuj) | [Lillian](https://open.spotify.com/album/0E6zHfeSuibVbeFZQR5v4A) | 2:07 | 2022-05-27 | 2022-07-29 |
@@ -559,6 +559,7 @@
 | [The Calm I Feel With You](https://open.spotify.com/track/79ipXyEKejaMsqMc3VMwYA) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [The Calm I Feel With You](https://open.spotify.com/album/0XKTyN8365BXT1ONPgtGDZ) | 2:24 | 2022-05-27 | 2022-09-24 |
 | [The County](https://open.spotify.com/track/6eU3N3kZUse3wUbhnrPtsl) | [Denise Santoz](https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp) | [Palette](https://open.spotify.com/album/72ail4RoAjee7GtdCcOOTY) | 2:35 | 2022-05-27 | 2022-09-24 |
 | [The Curtain Rises](https://open.spotify.com/track/3AQim00WRlCfqWgwhSEVXe) | [Casimir Roux](https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW) | [The Curtain Rises](https://open.spotify.com/album/2KvuhRj0uIOlmVZdaiO5lo) | 2:05 | 2023-06-26 |  |
+| [The Destination](https://open.spotify.com/track/2ntaF4Q9b2yePJ3NICBnVs) | [Keane Wang](https://open.spotify.com/artist/03uAZJV3EydDTU5C8fAYfA) | [The Destination](https://open.spotify.com/album/3uqMuVZorKUEnYg8p7VtMH) | 2:02 | 2023-08-07 |  |
 | [The Farewell](https://open.spotify.com/track/0rIILfeK7DEyWgCqUtvH0z) | [Reivaj Ebol](https://open.spotify.com/artist/0qzn5WRrlF1GhZi4Bf95Tz) | [The Farewell](https://open.spotify.com/album/1Ak9Cy3afdJz2itTFxLDWy) | 2:48 | 2022-05-27 | 2023-02-15 |
 | [The Farewell](https://open.spotify.com/track/2Mc7mVrymhooU24Hitf5D7) | [Reivaj Ebol](https://open.spotify.com/artist/0qzn5WRrlF1GhZi4Bf95Tz) | [The Farewell](https://open.spotify.com/album/1G1ATtg73fL1UQnCcGAHg6) | 2:48 | 2023-03-06 |  |
 | [The Fisherman's Daughter](https://open.spotify.com/track/54l2gnlMDdSLTWClTb0ZaQ) | [Alexander Bennet](https://open.spotify.com/artist/5lFnOYOGN0nii1bCJyORgV) | [The Fisherman's Daughter](https://open.spotify.com/album/1ABsnOGYyAVq6xHVhWESiI) | 2:12 | 2022-05-27 | 2022-09-24 |
@@ -657,7 +658,7 @@
 | [Who I Was](https://open.spotify.com/track/0oVnmc2zYZuFxYHs21Q5Me) | [Blissful Radiance](https://open.spotify.com/artist/7hrJrU2yFtaDBuXpKa5CcH) | [Who I Was](https://open.spotify.com/album/7DkxS1r9fYg01oz4kMngbo) | 2:05 | 2022-05-27 |  |
 | [Wide Skies](https://open.spotify.com/track/7dgAZemjrAuLHTOikyWtbA) | [Liona Sand](https://open.spotify.com/artist/1p6pGVY7ZTHr9Lv9DCXQiE) | [Wide Skies](https://open.spotify.com/album/5flaLlq8sLt6VdnPCr5Ast) | 3:22 | 2022-05-27 |  |
 | [Windschatten](https://open.spotify.com/track/2emuUPpnoo2sgpbBfbmkyt) | [Heike Blau](https://open.spotify.com/artist/3dcO6J0QtVq4xwePBwkq3W) | [Windschatten](https://open.spotify.com/album/2gzltlb70rOTWRrj38ROWn) | 2:18 | 2022-05-27 |  |
-| [Winter Blossoms](https://open.spotify.com/track/6q6Isz6kUluHROS0mb9T8P) | [Billy Lipnick](https://open.spotify.com/artist/0JTFRJYspkuP9Pwhbc2b0w) | [Winter Blossoms](https://open.spotify.com/album/1KpNlDkB2vzxGHVVYTB5CU) | 3:00 | 2022-05-27 |  |
+| [Winter Blossoms](https://open.spotify.com/track/6q6Isz6kUluHROS0mb9T8P) | [Billy Lipnick](https://open.spotify.com/artist/0JTFRJYspkuP9Pwhbc2b0w) | [Winter Blossoms](https://open.spotify.com/album/1KpNlDkB2vzxGHVVYTB5CU) | 3:00 | 2022-05-27 | 2023-08-11 |
 | [Winter im Herzen](https://open.spotify.com/track/5mz01kqyV5Q02HRq0ITNQr) | [Sander Berisha](https://open.spotify.com/artist/3ZaOGDVy8OEsLOgdtI0Aay) | [Winter im Herzen](https://open.spotify.com/album/02dj7DzGAXlqxpxm3tIBQx) | 2:56 | 2022-05-27 |  |
 | [Winter Warmth](https://open.spotify.com/track/7i7EzSHTyUnZiSuwkVjnYR) | [Zecil Malka](https://open.spotify.com/artist/4wGDIWQL6UqKjNAoL2kKYp) | [Winter Warmth](https://open.spotify.com/album/5YfDgNzucWkIgaceuAAAmf) | 2:02 | 2023-02-06 |  |
 | [With Ease](https://open.spotify.com/track/66nC6l1EsEIqarOvSwmotT) | [Loumi Des Moines](https://open.spotify.com/artist/5R719xRQhw9JLnHFM3dC1G) | [With Ease](https://open.spotify.com/album/1LCrc34gyc6h3YdC7e7D5c) | 2:39 | 2023-04-18 |  |

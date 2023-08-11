@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 
 > A little alt, folk, and indie rock sprinkled into this delicious melting pot\. Cover: The Revivalists
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,240 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,272 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 34 | [Pretty Pimpin](https://open.spotify.com/track/47cNDW1xyM03mT2kseO41a) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [b'lieve i'm goin down...](https://open.spotify.com/album/07W2z9W0uWJPdG8Po0MDiR) | 4:58 |
 | 35 | [McKenzie](https://open.spotify.com/track/6FLkXWDTvUc36qYYRhm4jg) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Good For You](https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m) | 3:14 |
 | 36 | [I Don't Live Here Anymore \(feat\. Lucius\)](https://open.spotify.com/track/5Uou8idst1XJc0F6MRAk5S) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [I Don’t Live Here Anymore](https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB) | 5:27 |
-| 37 | [Wings Of Time \- From the Motion Picture Dungeons & Dragons: Honor Among Thieves](https://open.spotify.com/track/6FzhHrUtyl7jWFccWxNFSS) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Wings Of Time \(From the Motion Picture Dungeons & Dragons: Honor Among Thieves\)](https://open.spotify.com/album/65pBo4TdEz2AaxENDqw3qZ) | 2:48 |
-| 38 | [Not Dead Yet](https://open.spotify.com/track/6xVd8klTvL6ZRovgIhIs98) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Long Lost](https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD) | 2:57 |
+| 37 | [Not Dead Yet](https://open.spotify.com/track/6xVd8klTvL6ZRovgIhIs98) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Long Lost](https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD) | 2:57 |
+| 38 | [Wings Of Time \- From the Motion Picture Dungeons & Dragons: Honor Among Thieves](https://open.spotify.com/track/6FzhHrUtyl7jWFccWxNFSS) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Wings Of Time \(From the Motion Picture Dungeons & Dragons: Honor Among Thieves\)](https://open.spotify.com/album/65pBo4TdEz2AaxENDqw3qZ) | 2:48 |
 | 39 | [Growing/Dying](https://open.spotify.com/track/5zMxLq47V3Gr0LlFvxiFXS) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 3:32 |
 | 40 | [Body](https://open.spotify.com/track/0ULXAD5RFh0ac0rrIRutLD) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Body](https://open.spotify.com/album/3swueKx3F4dUACphPJOBy3) | 3:20 |
 | 41 | [My Honest Face](https://open.spotify.com/track/3xKsGYkJKy0bbQuUHRYrei) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [It Won't Always Be Like This](https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu) | 4:32 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 97 | [Shotgun](https://open.spotify.com/track/35PUhhwZL4HhmuqgOeFcfg) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Shotgun](https://open.spotify.com/album/0Yej0tiVfjM6odIQpyulOv) | 4:10 |
 | 98 | [Stay Out Of It](https://open.spotify.com/track/1f8G4jvkONnLMxJMx7V2Ck) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Stay Out Of It](https://open.spotify.com/album/2p70Xer2HAT9Ro0qiBVHOc) | 3:05 |
 | 99 | [Deep Stays Down](https://open.spotify.com/track/4ludCkJK1UF7PbxsbQMHDg) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:19 |
-| 100 | [The Hardest Cut](https://open.spotify.com/track/5QUhSXDrrX7euR87oeQevM) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [The Hardest Cut](https://open.spotify.com/album/4unaBMlRBFuOgX4OSXhkG6) | 3:13 |
+| 100 | [Live Like You](https://open.spotify.com/track/68iwvl6HFqLn4BIjdmdwON) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Live Like You](https://open.spotify.com/album/2NieQyyoTfUm1L8ovEaNda) | 3:01 |
 
-Snapshot ID: `MCw1N2QyMDU0N2NlOWRhY2UzMzNkZGZmYzc1MDU2OWJlYjBjNzdlM2Y1`
+Snapshot ID: `MCw5MTliNzBlZGFlNTcwZjkwMTI5NTdiNDkyNTlhOTI0YjE2MDQ0ZTM4`

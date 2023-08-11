@@ -1,12 +1,12 @@
 {
   "description": "Musical songs from Broadway, the West End and beyond. Cover: Funny Girl",
-  "num_followers": 496516,
+  "num_followers": 496523,
   "original_name": "Best of Broadway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjIzMmRiMGVkNjQ3YTdlODYzODA4NDVlNmYwZTk5ZDcxOTZmNWVh",
+  "snapshot_id": "MCwzOTcyMDc5YjFjZDEwZDVhNmY3MWQzZDdhMDJjNWJhZTJmMWEzNDUz",
   "tracks": [
     {
       "added_at": "2023-07-05 14:46:39",
@@ -60,6 +60,14 @@
           "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
         },
         {
+          "name": "Paul-Jordan Jansen",
+          "url": "https://open.spotify.com/artist/6tW34Oiy4OKMEEkYWqOgHR"
+        },
+        {
+          "name": "Daniel Torres",
+          "url": "https://open.spotify.com/artist/5t2EcA6jYfjovECi69B9Ha"
+        },
+        {
           "name": "Jordan Fisher",
           "url": "https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2"
         },
@@ -97,7 +105,7 @@
         }
       ],
       "duration_ms": 178928,
-      "name": "The Ballad of Sweeney Todd (Opening) [2023 Broadway Cast Recording]",
+      "name": "The Ballad of Sweeney Todd",
       "url": "https://open.spotify.com/track/6mWNUGxfHYcLOC02N2GLwX"
     },
     {

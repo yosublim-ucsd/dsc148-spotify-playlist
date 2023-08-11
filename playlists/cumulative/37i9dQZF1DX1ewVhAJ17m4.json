@@ -349,6 +349,24 @@
     },
     {
       "album": {
+        "name": "Anemia",
+        "url": "https://open.spotify.com/album/3EJPukArWrGXomGYPqZFeu"
+      },
+      "artists": [
+        {
+          "name": "Sincere Engineer",
+          "url": "https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236266,
+      "name": "Anemia",
+      "url": "https://open.spotify.com/track/1TfGgQOfUUc0EpRqAkMykU"
+    },
+    {
+      "album": {
         "name": "ATTENTION!",
         "url": "https://open.spotify.com/album/7zM6DDsuOyzy85DMg6Ktfh"
       },
@@ -440,6 +458,24 @@
       "duration_ms": 148753,
       "name": "Best Kept Secret",
       "url": "https://open.spotify.com/track/1t7WwAVnHVfF2jgkTbCiSV"
+    },
+    {
+      "album": {
+        "name": "Big Blind",
+        "url": "https://open.spotify.com/album/1XMyj6Y85Sp1J4y4FHcELm"
+      },
+      "artists": [
+        {
+          "name": "The Story So Far",
+          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144986,
+      "name": "Big Blind",
+      "url": "https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98"
     },
     {
       "album": {
@@ -3451,6 +3487,28 @@
     },
     {
       "album": {
+        "name": "Love Bumps (feat. Pouya)",
+        "url": "https://open.spotify.com/album/10MpTsKSnmXOtQhRRGEyTN"
+      },
+      "artists": [
+        {
+          "name": "Fat Nick",
+          "url": "https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx"
+        },
+        {
+          "name": "Pouya",
+          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167225,
+      "name": "Love Bumps (feat. Pouya)",
+      "url": "https://open.spotify.com/track/3n0JNGdzWj8fPlSV19mFN1"
+    },
+    {
+      "album": {
         "name": "Love It When You Hate Me (feat. blackbear)",
         "url": "https://open.spotify.com/album/3cuSVzKoXVeinRaL2RAXH0"
       },
@@ -4357,6 +4415,24 @@
     },
     {
       "album": {
+        "name": "Resolution/Revolution",
+        "url": "https://open.spotify.com/album/0vevdASAFEvU6TwqXFdZ9m"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202992,
+      "name": "Resolution/Revolution",
+      "url": "https://open.spotify.com/track/4Eu55UEC15GIYXr2CvISI5"
+    },
+    {
+      "album": {
         "name": "Right Now (feat. Travis Barker)",
         "url": "https://open.spotify.com/album/2d28oUb7mIuWnjuZk7TSE2"
       },
@@ -5112,7 +5188,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 142538,
       "name": "Stop Living & Don't Dream",
       "url": "https://open.spotify.com/track/6IoAdJtGzeZc4ulFe1MeUR"
@@ -5224,6 +5300,24 @@
       "duration_ms": 165317,
       "name": "T.M.I",
       "url": "https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt"
+    },
+    {
+      "album": {
+        "name": "Take Me With You",
+        "url": "https://open.spotify.com/album/5nlMjtTBb8QwtiWs7TY8L4"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197320,
+      "name": "Take Me With You",
+      "url": "https://open.spotify.com/track/3GpoRL1PBnTerVSaVG5tGW"
     },
     {
       "album": {
@@ -5766,6 +5860,24 @@
       "duration_ms": 193453,
       "name": "Until Then",
       "url": "https://open.spotify.com/track/1ziXMxdyOXP7rjBmkQrGTM"
+    },
+    {
+      "album": {
+        "name": "Up In Smoke",
+        "url": "https://open.spotify.com/album/72mtL1x8ai5V2A6MqgJ86o"
+      },
+      "artists": [
+        {
+          "name": "Arm's Length",
+          "url": "https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Up In Smoke",
+      "url": "https://open.spotify.com/track/3xmmbIkpcPanFEMBYlPvsf"
     },
     {
       "album": {

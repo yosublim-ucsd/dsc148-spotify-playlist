@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULEW2RfoSCi.md) - [plain]
 
 > A collection of the biggest soul tracks from the 1970s\. Cover: Roberta Flack
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,456,322 likes - 75 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,456,852 likes - 75 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULEW2RfoSCi.md) - [plain]
 | 74 | [You're A Big Girl Now](https://open.spotify.com/track/5C7WGqaFxmYsWi0OpV6blr) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [The Stylistics \- The Original Debut Album](https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ) | 3:18 |
 | 75 | [Don't Let the Green Grass Fool You](https://open.spotify.com/track/79krwDoFzJ6dbNRwceAwgH) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [In Philadelphia](https://open.spotify.com/album/1PhXZOVQd8gzmFYGHgOase) | 2:49 |
 
-Snapshot ID: `MCw4ZmY1MzkyNDRjNjQ0YzgzY2RlMTQ5ODcyNDU4ZDQ2ODI1ZTY5YzQ1`
+Snapshot ID: `MCwzYThkNjYwMDk3ZTFmOTdiZTMxMDViOWJjMzM4MTNlYTc0YjQ3ZWNi`

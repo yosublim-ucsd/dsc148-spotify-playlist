@@ -4,7 +4,7 @@
 
 > Questionable in both morals and taste.
 
-69 songs - 3 hr 56 min
+72 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Comics](https://open.spotify.com/track/6mW6lEKUw4or42IEwBCXJe) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [<\|º\_º\|>](https://open.spotify.com/album/4DrZfbV5FB2Hwzpq6rwArp) | 3:32 | 2023-06-03 |  |
 | [Diggin' Up Hatchets](https://open.spotify.com/track/22Qce4LVRx6PqsVhOXuaWs) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Counterfeit Arcade](https://open.spotify.com/album/3OdykG7E7VoQwsG38E2Bux) | 3:58 | 2023-03-23 |  |
 | [Do It All The Time](https://open.spotify.com/track/14ny3vlL25p6Vix2Sb8k1b) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [Do It All The Time](https://open.spotify.com/album/7JvM9qMW23SCkpfz4ZrLsS) | 2:47 | 2022-09-07 |  |
+| [Dotab](https://open.spotify.com/track/4ODJ8ptwnVtxXs4d71eHNJ) | [Bear Ghost](https://open.spotify.com/artist/1N1JZ3SRv6PSzAsOEW2aZp) | [Your Parents Are Only Marginally Disappointed in Your Musical Taste](https://open.spotify.com/album/15b8BZbbE9M7Dx2twH81p0) | 4:34 | 2023-08-10 |  |
 | [Ferryman](https://open.spotify.com/track/492qQwagrn1noBTHRYKsvJ) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G), [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [Ferryman](https://open.spotify.com/album/1dDe20iAvQfwOMbvLfXetm) | 3:04 | 2023-03-23 |  |
 | [Fictional Aisle](https://open.spotify.com/track/1qnELnw7Cw9Vdjj2p97YpC) | [Tall Boy Special](https://open.spotify.com/artist/2GAKJjxl7sHzVi5VTh2taZ) | [Fictional Aisle](https://open.spotify.com/album/6U35jxzTEJUMcAtsfp4206) | 3:18 | 2022-05-27 |  |
 | [For the Departed](https://open.spotify.com/track/5BZp6bbnf3BQ2s9YGkQMpV) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Counterfeit Arcade](https://open.spotify.com/album/3OdykG7E7VoQwsG38E2Bux) | 3:40 | 2023-03-23 |  |
@@ -29,6 +30,7 @@
 | [Goodnight Socialite](https://open.spotify.com/track/3lWU0u5AZTmr0vm3m8VV2R) | [The Brobecks](https://open.spotify.com/artist/29TCgxO6qzQx4O3pjUIMzn) | [Violent Things](https://open.spotify.com/album/1KLBdhphdiK82hYpAiw8DR) | 3:19 | 2023-01-07 |  |
 | [Hardware Store](https://open.spotify.com/track/1m6LYAWyCdRjpIr3ttANsr) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [The Essential "Weird Al" Yankovic](https://open.spotify.com/album/2WMY5Qm6ztMQsAubpumeb4) | 3:44 | 2023-04-25 |  |
 | [Hate the Villanelle](https://open.spotify.com/track/3lFVypGtmGTyjNFxunEqme) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Glean](https://open.spotify.com/album/6FvZjncN6KWxadSUOd8hpw) | 1:52 | 2023-03-25 |  |
+| [Haunt, The Cartoon Heart](https://open.spotify.com/track/07wdHt1i1Mhba54cjKvDM1) | [Bear Ghost](https://open.spotify.com/artist/1N1JZ3SRv6PSzAsOEW2aZp) | [Haunt, The Cartoon Heart](https://open.spotify.com/album/5Auri0aA3uPJJWVFvqK07e) | 3:38 | 2023-08-10 |  |
 | [Hey I Don't Work Here](https://open.spotify.com/track/3OUaTEgKLHVIb0ZMavyPY7) | [Tom Cardy](https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw) | [Big Dumb Idiot](https://open.spotify.com/album/0bh9TnPCRsV5oJYb5K8Ytp) | 4:55 | 2023-01-04 |  |
 | [Insanity \- Live](https://open.spotify.com/track/6oLNowpcdWveCBm5l52Wwj) | [Oingo Boingo](https://open.spotify.com/artist/5LXEAEGrpKQtpyCu2sZuWu) | [Farewell: Live From The Universal Amphitheatre\-Halloween 1995](https://open.spotify.com/album/1wqqDRJCbYsK9QSjNR55e5) | 7:42 | 2023-07-31 |  |
 | [Istanbul \(Not Constantinople\)](https://open.spotify.com/track/63vL5oxWrlvaJ0ayNaQnbX) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Flood](https://open.spotify.com/album/7FwAtuhhWivxvK4aPgyyUD) | 2:33 | 2022-05-06 |  |
@@ -53,6 +55,7 @@
 | [Sex with a Ghost](https://open.spotify.com/track/1Y2583xYzwiEXDetAB7H1Q) | [Teddy Hyde](https://open.spotify.com/artist/62DKpfVgNt372d3Zz6TRc7) | [Sock\-Footed](https://open.spotify.com/album/3LRcVZVluaa0kIqcDjEuv7) | 4:00 | 2022-05-06 |  |
 | [Sovietoblaster](https://open.spotify.com/track/2t8d5f6cR7QY8XrdRy1lsB) | [Rotfront](https://open.spotify.com/artist/4aY5KQo2g0QxZJA5djS0Jz) | [Emigrantski Raggamuffin](https://open.spotify.com/album/1Zw5RQlTFL520baBQt5FDT) | 3:09 | 2022-05-06 |  |
 | [Spider](https://open.spotify.com/track/0TIkZpO9NBw8WYYRTDnHv5) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Apollo 18](https://open.spotify.com/album/5HswYyErxPHfQtHhNlzhnR) | 0:50 | 2022-05-06 |  |
+| [Starkiller](https://open.spotify.com/track/7azVZvIvANuD4sLlwqs2g2) | [Bear Ghost](https://open.spotify.com/artist/1N1JZ3SRv6PSzAsOEW2aZp) | [Blasterpiece](https://open.spotify.com/album/1QGh29u6gecFcSXOVloWEX) | 3:49 | 2023-08-10 |  |
 | [Stayin' Alive](https://open.spotify.com/track/4Yrp0XlskLPSDStBxXIrKx) | [Brian David Gilbert](https://open.spotify.com/artist/2kHRbJk5oBq8T5fWYLFzpm) | [Bee Dee Gee's Hee Bee Bee Gees](https://open.spotify.com/album/0GOWf73AODnueap6qkvsOJ) | 4:15 | 2023-03-28 |  |
 | [Stop Being Poor](https://open.spotify.com/track/2n0OJhTkQBLw3mJyUbXI7D) | [ziwe](https://open.spotify.com/artist/4MPEpqfNghhc9u2QZhveib), [Patti Harrison](https://open.spotify.com/artist/3BNcOjxzqOP2N71Ygdw0Bk) | [Ziwe: a Famously Iconic Soundtrack \- EP](https://open.spotify.com/album/1gBsz23p2pNQJYyudz3cmm) | 2:14 | 2023-07-23 |  |
 | [Synopsis for Latecomers](https://open.spotify.com/track/6DhYcsWKfeCygCSX8Q7tmL) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [BOOK](https://open.spotify.com/album/5QbnWsYJtws83X3yXSOKkH) | 2:25 | 2023-03-26 |  |

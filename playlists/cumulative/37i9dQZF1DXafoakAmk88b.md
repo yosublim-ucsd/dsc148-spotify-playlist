@@ -4,7 +4,7 @@
 
 > New indie driving the current\. Cover: Joy Oladokun
 
-351 songs - 18 hr 29 min
+352 songs - 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,7 +233,8 @@
 | [NOT ALONE](https://open.spotify.com/track/42RpLZC6rKzQZyLMaJMsDJ) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [NOT ALONE](https://open.spotify.com/album/06osQucbdoBctWgXgdFblC) | 3:03 | 2023-06-07 |  |
 | [NW3](https://open.spotify.com/track/06mXSNndoxDKhzwFqt1GP6) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [NW3](https://open.spotify.com/album/16Z9PQxHXHZA2naPJsjbff) | 3:53 | 2022-02-18 | 2022-02-26 |
 | [NYC](https://open.spotify.com/track/5SfOaWCMXCR2b01GJqXLOr) | [Romeo + Juliet](https://open.spotify.com/artist/7FZu3dX3gmWstmpFvfpUo2) | [Raging Bull](https://open.spotify.com/album/7ALsOonjasgDlpU4OkXSyo) | 2:26 | 2023-01-18 | 2023-06-08 |
-| [Oatmeal Pancakes](https://open.spotify.com/track/3Qazns0pMnqN6cbDJTxj9a) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Oatmeal Pancakes](https://open.spotify.com/album/68pGqsjvG8r4vvLBljvPuQ) | 3:06 | 2023-04-21 |  |
+| [Oatmeal Pancakes](https://open.spotify.com/track/2WrVNmuf8cLlLE58Q5UweA) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Boy Toy](https://open.spotify.com/album/1wBk0x6HFBHRvIH42qyhBE) | 3:06 | 2023-04-21 |  |
+| [Oatmeal Pancakes](https://open.spotify.com/track/3Qazns0pMnqN6cbDJTxj9a) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Oatmeal Pancakes](https://open.spotify.com/album/68pGqsjvG8r4vvLBljvPuQ) | 3:06 | 2023-04-21 | 2023-08-11 |
 | [oh my love](https://open.spotify.com/track/5dEJc0rHuTVxtl1xljDbRv) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:45 | 2022-02-18 | 2022-11-12 |
 | [Ohio](https://open.spotify.com/track/0GgYACtOE5GNVjwAZmBr1p) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Joshua Karpeh](https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF) | [Ohio](https://open.spotify.com/album/4ZGtU7OLGX2SwD7QxcGwLI) | 2:50 | 2023-06-07 |  |
 | [old place](https://open.spotify.com/track/4Jh96C8DDxAJFCrECbFvxP) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [old place](https://open.spotify.com/album/0qhRp8kqjoIolrs3ic469T) | 1:38 | 2023-03-06 | 2023-06-08 |

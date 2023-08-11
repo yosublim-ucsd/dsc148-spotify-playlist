@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuJfJUfXtde.md) - [plain]
 
 > éxitos de regreso
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,424 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,494 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuJfJUfXtde.md) - [plain]
 | 73 | [Life Goes On](https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 2:41 |
 | 74 | [El Color de Tus Ojos](https://open.spotify.com/track/1l77YWrGUp3qX3NS1rz7lq) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Mejor Versión De Mí](https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1) | 3:22 |
 | 75 | [Don](https://open.spotify.com/track/0WajUW5XINeraP2w0F3F8E) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [El Templo del Pop](https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY) | 3:03 |
-| 76 | [Get Lucky \(feat\. Pharrell Williams and Nile Rodgers\)](https://open.spotify.com/track/69kOkLUCkxIZYexIgSG8rq) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 6:09 |
-| 77 | [Nothing](https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 2:42 |
+| 76 | [Nothing](https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 2:42 |
+| 77 | [Get Lucky \(feat\. Pharrell Williams and Nile Rodgers\)](https://open.spotify.com/track/69kOkLUCkxIZYexIgSG8rq) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 6:09 |
 | 78 | [Savage Love \(Laxed \- Siren Beat\)](https://open.spotify.com/track/1xQ6trAsedVPCdbtDAmk0c) | [Jawsh 685](https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Savage Love \(Laxed \- Siren Beat\)](https://open.spotify.com/album/1XMw3pBrYeXzNXZXc84DNw) | 2:51 |
 | 79 | [September](https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Best Of Earth, Wind & Fire Vol\. 1](https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7) | 3:35 |
 | 80 | [Tom's Diner](https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m), [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Tom's Diner](https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg) | 4:29 |
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuJfJUfXtde.md) - [plain]
 | 86 | [Swing Lynn](https://open.spotify.com/track/3VCXx37jNGNOMns6z2OnvJ) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [I'm Sure](https://open.spotify.com/album/6KXHP4v4hYN887RGeQwc8b) | 5:21 |
 | 87 | [Hooka](https://open.spotify.com/track/0BenZn1xELuxhb7Pjwyjxv) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Meet The Orphans](https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm) | 3:57 |
 | 88 | [You Are Enough](https://open.spotify.com/track/1Wdj4wRDYS7aT4CoPS0mAH) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Atlas: I](https://open.spotify.com/album/1E9iqjfSf5I5hPNfI1DRIh) | 3:00 |
-| 89 | [More Than A Woman](https://open.spotify.com/track/2cX2coZS1PYBfPs8wgbdWE) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [How Can You Mend A Broken Heart](https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx) | 3:16 |
-| 90 | [Chandelier](https://open.spotify.com/track/1cwqP7Tyxu5z8XDYoPkNte) | [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [Chandelier](https://open.spotify.com/album/1VC4P7rm1o3aYlYVYFkpGF) | 2:07 |
+| 89 | [Chandelier](https://open.spotify.com/track/1cwqP7Tyxu5z8XDYoPkNte) | [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [Chandelier](https://open.spotify.com/album/1VC4P7rm1o3aYlYVYFkpGF) | 2:07 |
+| 90 | [More Than A Woman](https://open.spotify.com/track/2cX2coZS1PYBfPs8wgbdWE) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [How Can You Mend A Broken Heart](https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx) | 3:16 |
 | 91 | [Ocean](https://open.spotify.com/track/6qoIFQfdmaQF9A1gb67tR7) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [OCEAN](https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK) | 2:35 |
-| 92 | [Build a Bitch](https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Build a Bitch](https://open.spotify.com/album/5YKqfiQdPYWJ0kZ5pttY5o) | 2:02 |
-| 93 | [Therefore I Am](https://open.spotify.com/track/54bFM56PmE4YLRnqpW6Tha) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Therefore I Am](https://open.spotify.com/album/5G58VVE9ub1KE01Mvbd8XM) | 2:54 |
+| 92 | [Therefore I Am](https://open.spotify.com/track/54bFM56PmE4YLRnqpW6Tha) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Therefore I Am](https://open.spotify.com/album/5G58VVE9ub1KE01Mvbd8XM) | 2:54 |
+| 93 | [Build a Bitch](https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Build a Bitch](https://open.spotify.com/album/5YKqfiQdPYWJ0kZ5pttY5o) | 2:02 |
 | 94 | [Éxtasis](https://open.spotify.com/track/3NqbKUOgaU2LgIFRbu4B12) | [Millonario & W\. Corona](https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ), [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Así Soy Yo](https://open.spotify.com/album/7I1mThh5NCgS2BqrAWcMdi) | 4:49 |
-| 95 | [En El Radio Un Cochinero](https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [En El Radio Un Cochinero](https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy) | 3:43 |
-| 96 | [Un Sueño](https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG) | [Los Angeles De Charly](https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR) | [Un Sueño](https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp) | 3:45 |
+| 95 | [Un Sueño](https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG) | [Los Angeles De Charly](https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR) | [Un Sueño](https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp) | 3:45 |
+| 96 | [En El Radio Un Cochinero](https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [En El Radio Un Cochinero](https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy) | 3:43 |
 | 97 | [Ramito De Violetas](https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Mexico Querido](https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1) | 3:32 |
 | 98 | [GIRL LIKE ME](https://open.spotify.com/track/1zLBsSVxETQOfINOLYvT5m) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:42 |
 | 99 | [California Gurls](https://open.spotify.com/track/6KOEK6SeCEZOQkLj5M1PxH) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:54 |
 | 100 | [Piel Canela](https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Piel Canela](https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t) | 1:42 |
 
-Snapshot ID: `MCwzOWIzODk0YTgzM2IwMTRmZDIzOTE5NzlmYjhiZWNlYWRhZjg0ZGY2`
+Snapshot ID: `MCxmZDk2Y2NmY2NkZTk5Zjk5NzVkMmM3MGM3MjNlNGY4MWYzOGY0MmQ3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX47rExFRJv8.md) - [plain]
 
 > The biggest songs in Latin America in 2018\. Cover: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,394 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,500 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX47rExFRJv8.md) - [plain]
 | 40 | [Ibiza](https://open.spotify.com/track/1h9P5WJwyvK8OB7O2YiXgp) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 3:20 |
 | 41 | [Culpables](https://open.spotify.com/track/6q8Lb50EtqNeeJXXe8mMAH) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Culpables](https://open.spotify.com/album/0WmqKVGQgIYleOI8gtWP1w) | 3:46 |
 | 42 | [Clandestino](https://open.spotify.com/track/7DrluKkTviBwCc8AV3VGmf) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Clandestino](https://open.spotify.com/album/1h1hnfRyc45IIDnxUCaGIf) | 3:51 |
-| 43 | [Lençol Dobrado](https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY) | [João Gustavo e Murilo](https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl), [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v) | [Lençol Dobrado](https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY) | 2:59 |
-| 44 | [Vuelve](https://open.spotify.com/track/3wGRfBDRNQb0nFDFrUPvq6) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [FANTASÍA](https://open.spotify.com/album/5Zyj0zwOksGYLbLAZOaC31) | 3:45 |
+| 43 | [Vuelve](https://open.spotify.com/track/3wGRfBDRNQb0nFDFrUPvq6) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [FANTASÍA](https://open.spotify.com/album/5Zyj0zwOksGYLbLAZOaC31) | 3:45 |
+| 44 | [Lençol Dobrado](https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY) | [João Gustavo e Murilo](https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl), [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v) | [Lençol Dobrado](https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY) | 2:59 |
 | 45 | [Cuando Te Besé](https://open.spotify.com/track/2XXMDz7SPZ4mSFN1PXfHUy) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Cuando Te Besé](https://open.spotify.com/album/1rNj1DvnXIH5irucrzT4zo) | 4:14 |
 | 46 | [No Me Acuerdo](https://open.spotify.com/track/1G586ld1gbaECg4Bc6w40O) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Valiente](https://open.spotify.com/album/2vcyOtFtWOYuQ6j4AH2FIG) | 3:37 |
 | 47 | [Mala Mía](https://open.spotify.com/track/62o8KoI44JfN7aYxgTnPvh) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Mala Mía](https://open.spotify.com/album/3Bj8Yd9ANO4KufZkqOmG0W) | 3:03 |
-| 48 | [Reggaeton](https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Reggaeton](https://open.spotify.com/album/5FMJB2xKTMGdM3w6DmC6L5) | 2:38 |
-| 49 | [Celoso](https://open.spotify.com/track/33zcmmElV1YbRZe57biUjg) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [Celoso](https://open.spotify.com/album/0gXUZc4bTQzNqLvIyeObHm) | 2:59 |
+| 48 | [Celoso](https://open.spotify.com/track/33zcmmElV1YbRZe57biUjg) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [Celoso](https://open.spotify.com/album/0gXUZc4bTQzNqLvIyeObHm) | 2:59 |
+| 49 | [Reggaeton](https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Reggaeton](https://open.spotify.com/album/5FMJB2xKTMGdM3w6DmC6L5) | 2:38 |
 | 50 | [La Cintura](https://open.spotify.com/track/6VUJQqyeQhAZHkQbSDqLtI) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Mar De Colores \(Versión Extendida\)](https://open.spotify.com/album/66IXFg1AukADK41CP0xANr) | 3:24 |
 
-Snapshot ID: `MCw5ZTJmOWUyY2I4YWJmODllNjE3NjI2NmIzMWUxNzVkMmMxYmViZTE0`
+Snapshot ID: `MCwwYjYyNGVhNmJiNDYyODkwMjJiMjkyN2FiZjRkYmQ0MjBiMmQwOTY0`

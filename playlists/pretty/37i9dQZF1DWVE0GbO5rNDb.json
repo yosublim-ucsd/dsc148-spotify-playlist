@@ -1,12 +1,12 @@
 {
   "description": "Hit dance per l'estate 2023! \u2600\ufe0f\ud83c\udf79\ud83c\udfdd\ufe0f",
-  "num_followers": 97675,
+  "num_followers": 97762,
   "original_name": "Estate Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZTcyYjkxNmRkYzY5MDA4M2Y5ZjA3YjExYzM3MGYxNTM4NWZkYmE2",
+  "snapshot_id": "MCxhNjM0ZTEzNTY2OTAxYTk4ZWY4ZjY2NGJiMWRkMjJlZDhiOTI5ZDEy",
   "tracks": [
     {
       "added_at": "2023-08-09 09:20:27",
@@ -1079,30 +1079,6 @@
     {
       "added_at": "2023-08-09 09:20:27",
       "album": {
-        "name": "All You Need Is Love",
-        "url": "https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Nico Santos",
-          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
-        }
-      ],
-      "duration_ms": 139927,
-      "name": "All You Need Is Love",
-      "url": "https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE"
-    },
-    {
-      "added_at": "2023-08-09 09:20:27",
-      "album": {
         "name": "Sun Will Shine",
         "url": "https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W"
       },
@@ -1139,6 +1115,30 @@
       "duration_ms": 188731,
       "name": "Run",
       "url": "https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ"
+    },
+    {
+      "added_at": "2023-08-09 09:20:27",
+      "album": {
+        "name": "All You Need Is Love",
+        "url": "https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Nico Santos",
+          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
+        }
+      ],
+      "duration_ms": 139927,
+      "name": "All You Need Is Love",
+      "url": "https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE"
     },
     {
       "added_at": "2023-08-09 09:20:27",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2023-08-09 09:20:27",
       "album": {
-        "name": "Take Me Back",
-        "url": "https://open.spotify.com/album/3KEQLt8OBP8Y3VbKKQoIiI"
-      },
-      "artists": [
-        {
-          "name": "Lewis Thompson",
-          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 129479,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/2oGzHeApGhjANPNWYQNRQw"
-    },
-    {
-      "added_at": "2023-08-09 09:20:27",
-      "album": {
         "name": "Good Feeling (feat. Rhys Lewis)",
         "url": "https://open.spotify.com/album/4Jx380oGmnaf6mbEgH4rSu"
       },
@@ -1351,6 +1331,26 @@
       "duration_ms": 214942,
       "name": "Good Feeling (feat. Rhys Lewis)",
       "url": "https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO"
+    },
+    {
+      "added_at": "2023-08-09 09:20:27",
+      "album": {
+        "name": "Take Me Back",
+        "url": "https://open.spotify.com/album/3KEQLt8OBP8Y3VbKKQoIiI"
+      },
+      "artists": [
+        {
+          "name": "Lewis Thompson",
+          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 129479,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/2oGzHeApGhjANPNWYQNRQw"
     },
     {
       "added_at": "2023-08-09 09:20:27",
@@ -1615,26 +1615,6 @@
     {
       "added_at": "2023-08-09 09:20:27",
       "album": {
-        "name": "Dandelion",
-        "url": "https://open.spotify.com/album/6YPTwr9e07jNzBJgXbmoQZ"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 140011,
-      "name": "Dandelion",
-      "url": "https://open.spotify.com/track/4NexTaCZZ7Ehnf03A6SVjt"
-    },
-    {
-      "added_at": "2023-08-09 09:20:27",
-      "album": {
         "name": "Freak Me Now (with R\u00f3is\u00edn Murphy)",
         "url": "https://open.spotify.com/album/5C9mU8kbHika6CeQfTcePJ"
       },
@@ -1655,6 +1635,26 @@
     {
       "added_at": "2023-08-09 09:20:27",
       "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/6YPTwr9e07jNzBJgXbmoQZ"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 140011,
+      "name": "Dandelion",
+      "url": "https://open.spotify.com/track/4NexTaCZZ7Ehnf03A6SVjt"
+    },
+    {
+      "added_at": "2023-08-09 09:20:27",
+      "album": {
         "name": "Leave A Little Love",
         "url": "https://open.spotify.com/album/7x6hV80YBk3pWE4of9Q23y"
       },
@@ -1671,6 +1671,22 @@
       "duration_ms": 187029,
       "name": "Leave A Little Love",
       "url": "https://open.spotify.com/track/5pmbZWt1lYVMvZ12MSdtqF"
+    },
+    {
+      "added_at": "2023-08-09 09:20:27",
+      "album": {
+        "name": "Sunrise (Club Mix)",
+        "url": "https://open.spotify.com/album/6KN6uHKN0og1gY1uaowVAm"
+      },
+      "artists": [
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        }
+      ],
+      "duration_ms": 138240,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/4ViSS2rvk9hFbmyFg3s33k"
     },
     {
       "added_at": "2023-08-09 09:20:27",
@@ -1719,62 +1735,6 @@
     {
       "added_at": "2023-08-09 09:20:27",
       "album": {
-        "name": "Fool 4 U (feat. Enisa)",
-        "url": "https://open.spotify.com/album/0ClMJUgs13v8GUyc40tpqT"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        },
-        {
-          "name": "Enisa",
-          "url": "https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6"
-        }
-      ],
-      "duration_ms": 146076,
-      "name": "Fool 4 U (feat. Enisa)",
-      "url": "https://open.spotify.com/track/41aBRoaTTz9qq8UGIlykiZ"
-    },
-    {
-      "added_at": "2023-08-09 09:20:27",
-      "album": {
-        "name": "Sunrise (Club Mix)",
-        "url": "https://open.spotify.com/album/6KN6uHKN0og1gY1uaowVAm"
-      },
-      "artists": [
-        {
-          "name": "Tungevaag",
-          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
-        }
-      ],
-      "duration_ms": 138240,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/4ViSS2rvk9hFbmyFg3s33k"
-    },
-    {
-      "added_at": "2023-08-09 09:20:27",
-      "album": {
-        "name": "Madan (King)",
-        "url": "https://open.spotify.com/album/17nQWgqiyuKwi5Oku7BDAl"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        }
-      ],
-      "duration_ms": 183609,
-      "name": "Madan (King)",
-      "url": "https://open.spotify.com/track/5EGAY1Txvi5A3hFkYYGsXx"
-    },
-    {
-      "added_at": "2023-08-09 09:20:27",
-      "album": {
         "name": "World, Hold On (FISHER Rework)",
         "url": "https://open.spotify.com/album/5a5yqCyb7xF3Hklvlwc3t3"
       },
@@ -1799,22 +1759,42 @@
     {
       "added_at": "2023-08-09 09:20:27",
       "album": {
-        "name": "Euphoric Sad Songs",
-        "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
+        "name": "Madan (King)",
+        "url": "https://open.spotify.com/album/17nQWgqiyuKwi5Oku7BDAl"
       },
       "artists": [
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
         }
       ],
-      "duration_ms": 197573,
-      "name": "Regardless",
-      "url": "https://open.spotify.com/track/3DTqHfTGj1c6y2gDXsTez4"
+      "duration_ms": 183609,
+      "name": "Madan (King)",
+      "url": "https://open.spotify.com/track/5EGAY1Txvi5A3hFkYYGsXx"
+    },
+    {
+      "added_at": "2023-08-09 09:20:27",
+      "album": {
+        "name": "Fool 4 U (feat. Enisa)",
+        "url": "https://open.spotify.com/album/0ClMJUgs13v8GUyc40tpqT"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "Enisa",
+          "url": "https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6"
+        }
+      ],
+      "duration_ms": 146076,
+      "name": "Fool 4 U (feat. Enisa)",
+      "url": "https://open.spotify.com/track/41aBRoaTTz9qq8UGIlykiZ"
     },
     {
       "added_at": "2023-08-09 09:20:27",
@@ -1835,6 +1815,26 @@
       "duration_ms": 165483,
       "name": "Ritmo - HUGEL Edit",
       "url": "https://open.spotify.com/track/6U0NVioYt4nZARPNOKhExY"
+    },
+    {
+      "added_at": "2023-08-09 09:20:27",
+      "album": {
+        "name": "Euphoric Sad Songs",
+        "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        }
+      ],
+      "duration_ms": 197573,
+      "name": "Regardless",
+      "url": "https://open.spotify.com/track/3DTqHfTGj1c6y2gDXsTez4"
     },
     {
       "added_at": "2023-08-09 09:20:27",

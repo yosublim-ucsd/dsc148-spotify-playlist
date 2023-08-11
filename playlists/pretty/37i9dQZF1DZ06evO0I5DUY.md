@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I5DUY.md) - [plain]
 
 > This is Los Cadetes De Linares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,669 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,759 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I5DUY.md) - [plain]
 | 38 | [Por Ser Tan Pobre](https://open.spotify.com/track/73BHd7jJqU2JrPXoWLyMK8) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Mis Recuerdos Adios Amigo Del Alma](https://open.spotify.com/album/66lB6Ab3RKhrlQ29sxWvRx) | 2:20 |
 | 39 | [Mi Amigo](https://open.spotify.com/track/2L1Z29nDdQdU85JVMqUI96) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Tu Nombre](https://open.spotify.com/album/1FzXwwlNhKek0tZxui3Upm) | 2:43 |
 | 40 | [Lamberto Quintero](https://open.spotify.com/track/3HwEFluOmMF1B01vhothH1) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Despedida con Mariachi](https://open.spotify.com/album/2RzkJJUOCi1wSU9nHDcTMH) | 3:07 |
-| 41 | [Lucio Pena](https://open.spotify.com/track/3RXctOwDn8rJi5ScVtI8sJ) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pistoleros Famosos](https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI) | 2:57 |
-| 42 | [El Chubasco](https://open.spotify.com/track/5kPj6zUqnP5PwxDxQNr99U) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [El Chubasco](https://open.spotify.com/album/1oQhHSiiwH70dTxyBWvUa1) | 2:40 |
-| 43 | [Pescadores de Ensenada](https://open.spotify.com/track/2QLYBaZhH2uCkxTfGgG0u7) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pescadores de Ensenada](https://open.spotify.com/album/5yPptrMx2qRG9dweqE7aD1) | 2:54 |
-| 44 | [Menos Que Nada](https://open.spotify.com/track/46mK5SstpnGYBhwSrWf0re) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6) | 2:45 |
-| 45 | [Jose Lopez](https://open.spotify.com/track/6DJrx5bu28lb4kBuus1oUI) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pistoleros Famosos](https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI) | 2:20 |
-| 46 | [Mandato Divino](https://open.spotify.com/track/6aAz6vKrqgnakvmzhwjQ6C) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Explosion Norteña](https://open.spotify.com/album/2R6VICqmXcj45VuwQ6G5Hr) | 3:01 |
-| 47 | [Cielo Azul Cielo Nublado](https://open.spotify.com/track/3mCxVaN4vyX2eb82BSvQPi) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [30 Cadetazos](https://open.spotify.com/album/1tWA7Iz5dN9OyMKsrMq4c8) | 2:00 |
-| 48 | [Sinceramente](https://open.spotify.com/track/7xwt2lHkykYzAYH6GPNyaf) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6) | 2:55 |
-| 49 | [Ezequiel Rodriguez](https://open.spotify.com/track/49HTMbHr98K8GDok9CHHDR) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pistoleros Famosos](https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI) | 3:02 |
-| 50 | [La Discusion Fue Una Yegua](https://open.spotify.com/track/0Z0luHjkzAAX9d4OkpcmAq) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas 20 Corridos](https://open.spotify.com/album/3zmF2n8AJ7gTBpUDiGrJMD) | 2:47 |
+| 41 | [El Chubasco](https://open.spotify.com/track/5kPj6zUqnP5PwxDxQNr99U) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [El Chubasco](https://open.spotify.com/album/1oQhHSiiwH70dTxyBWvUa1) | 2:40 |
+| 42 | [Lucio Pena](https://open.spotify.com/track/3RXctOwDn8rJi5ScVtI8sJ) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pistoleros Famosos](https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI) | 2:57 |
+| 43 | [Menos Que Nada](https://open.spotify.com/track/46mK5SstpnGYBhwSrWf0re) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6) | 2:45 |
+| 44 | [Pescadores de Ensenada](https://open.spotify.com/track/2QLYBaZhH2uCkxTfGgG0u7) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pescadores de Ensenada](https://open.spotify.com/album/5yPptrMx2qRG9dweqE7aD1) | 2:54 |
+| 45 | [Cielo Azul Cielo Nublado](https://open.spotify.com/track/3mCxVaN4vyX2eb82BSvQPi) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [30 Cadetazos](https://open.spotify.com/album/1tWA7Iz5dN9OyMKsrMq4c8) | 2:00 |
+| 46 | [Jose Lopez](https://open.spotify.com/track/6DJrx5bu28lb4kBuus1oUI) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pistoleros Famosos](https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI) | 2:20 |
+| 47 | [Sinceramente](https://open.spotify.com/track/7xwt2lHkykYzAYH6GPNyaf) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6) | 2:55 |
+| 48 | [Mandato Divino](https://open.spotify.com/track/6aAz6vKrqgnakvmzhwjQ6C) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Explosion Norteña](https://open.spotify.com/album/2R6VICqmXcj45VuwQ6G5Hr) | 3:01 |
+| 49 | [La Discusion Fue Una Yegua](https://open.spotify.com/track/0Z0luHjkzAAX9d4OkpcmAq) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas 20 Corridos](https://open.spotify.com/album/3zmF2n8AJ7gTBpUDiGrJMD) | 2:47 |
+| 50 | [Ezequiel Rodriguez](https://open.spotify.com/track/49HTMbHr98K8GDok9CHHDR) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pistoleros Famosos](https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI) | 3:02 |
 
-Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDA0YjQxNWYzMGNlYmVkYzE1MWNjMmEyMjJmMGRkYjQwYw==`
+Snapshot ID: `MjgxOTQ1NjMsMDAwMDAwMDBlNDIxZWM0ZGVjOTE0OGEwNDY2NjRmOTliMTI4YjFkZA==`

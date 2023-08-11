@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-850 songs - 2 day 5 hr 41 min
+851 songs - 2 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,7 +326,7 @@
 | [Numbness like a ginger](https://open.spotify.com/track/6WmH150zngZw8mNenyWY5o) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [Ninth Peel](https://open.spotify.com/album/7LJTvMEZzwp3MgG78n8eZR) | 3:34 | 2023-04-11 | 2023-07-12 |
 | [Nyamboree de Moffy!!](https://open.spotify.com/track/1NYDPB36pncEVVndu7vbcI) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [Nyamboree de Moffy!!](https://open.spotify.com/album/3gvmGoa0ePBbM7EdF0p7io) | 3:03 | 2023-04-08 | 2023-07-19 |
 | [odd:I](https://open.spotify.com/track/1MnJPiY2LT0noxGco8UsRC) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Akihito Okano](https://open.spotify.com/artist/1ioDAlx6i5snCxm2z9ZnUD) | [odd:I](https://open.spotify.com/album/0QoFTpJ94Rz6PaHsdPj5zl) | 2:57 | 2023-08-08 |  |
-| [One Room Adventure](https://open.spotify.com/track/3aNuaXYvHbzke2iYmzLlF6) | [MADKID](https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB) | [One Room Adventure](https://open.spotify.com/album/5Ots8MVbrOlpOvB5ww1Drv) | 3:49 | 2023-07-04 |  |
+| [One Room Adventure](https://open.spotify.com/track/3aNuaXYvHbzke2iYmzLlF6) | [MADKID](https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB) | [One Room Adventure](https://open.spotify.com/album/5Ots8MVbrOlpOvB5ww1Drv) | 3:49 | 2023-07-04 | 2023-08-11 |
 | [Onegai Muscle \- from CrosSing](https://open.spotify.com/track/4mqOfJPqfhkznL4UZuEiOj) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Onegai Muscle \- from CrosSing](https://open.spotify.com/album/5Bt7BoV1R7s5Ihkv5D7Cf5) | 3:42 | 2022-08-16 | 2022-09-09 |
 | [Only](https://open.spotify.com/track/5kFMZ6Gp58RSxlKpiJ0s58) | [GARNiDELiA](https://open.spotify.com/artist/7MIbdLkqD1qQE35LSISIM6) | [Only](https://open.spotify.com/album/37I1ix9wcndJwxwjvLkyMP) | 4:22 | 2023-04-20 | 2023-06-14 |
 | [OUTSIDERS](https://open.spotify.com/track/2p8RSh9uibR5I17T6z5XGY) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [河野純喜 \(JO1\)](https://open.spotify.com/artist/0a8JF5VNmJZhkLmSbfCFnQ), [與那城奨 \(JO1\)](https://open.spotify.com/artist/2iqvC0dewDnljdNTF4sSSp) | [OUTSIDERS](https://open.spotify.com/album/3kdvGxfmWPU7OV8qPhbbmI) | 2:51 | 2022-05-28 | 2022-07-06 |
@@ -376,6 +376,7 @@
 | [RVR～ライジングボルテッカーズラップ～ \- モリーVer.](https://open.spotify.com/track/17DKh6A3l3WlRSBy10TGf9) | [リコ\(CV:鈴木みのり\)](https://open.spotify.com/artist/41iMg7aLYR9zoeTg3YG83s), [ロイ\(CV:寺崎裕香\)](https://open.spotify.com/artist/7KHjxPdqQu8j5gigNdrZEi), [モリ―\(CV:真堂圭\)](https://open.spotify.com/artist/0EYCrd7ZzqVl5vGOJ4Ols9) | [RVR～ライジングボルテッカーズラップ～ \(モリーVer.\)](https://open.spotify.com/album/5g4zaYfnYIuN5uXSJVDrI2) | 1:29 | 2023-07-27 |  |
 | [RVR～ライジングボルテッカーズラップ～ \- ランドウVer.](https://open.spotify.com/track/0bSBXopHoBy11bJCdIAOQU) | [リコ\(CV:鈴木みのり\)](https://open.spotify.com/artist/41iMg7aLYR9zoeTg3YG83s), [ロイ\(CV:寺崎裕香\)](https://open.spotify.com/artist/7KHjxPdqQu8j5gigNdrZEi), [ランドウ\(CV:塾一久\)](https://open.spotify.com/artist/2STQX1HWU0pb0ceNCgmhqQ) | [RVR～ライジングボルテッカーズラップ～ \(ランドウVer.\)](https://open.spotify.com/album/7LdJcx81WCtyPxNNrIjsUV) | 1:29 | 2023-07-27 | 2023-07-29 |
 | [Salt & Sugar](https://open.spotify.com/track/2X0wvwTrhRC9oDdCa48DPR) | [内田雄馬](https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF) | [Salt & Sugar](https://open.spotify.com/album/3VFrgDd3xHNejGad8vyBh3) | 3:51 | 2023-04-11 | 2023-04-26 |
+| [Sarracenia \- Anime Size](https://open.spotify.com/track/5KtPFNqzEMHzFpqRF9EhmP) | [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2) | [Sarracenia \-Anime Size\-](https://open.spotify.com/album/3SZRbGsCc48IW8WKSDkqYM) | 1:28 | 2023-08-10 |  |
 | [Secret Base \~Kimi ga Kureta Mono\~ \- From CrosSing](https://open.spotify.com/track/6wH9VrMaadUjcAVZp4G5Ss) | [Suzuko Mimori](https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY) | [Secret Base \~Kimi ga Kureta Mono\~ \- From CrosSing](https://open.spotify.com/album/0K16qvRY8hUyyQysEvzyFG) | 5:12 | 2023-02-14 | 2023-03-08 |
 | [secret base \~君がくれたもの\~ \- from CrosSing](https://open.spotify.com/track/7v0MgRpifpHrQXvR5vdJlX) | [三森すずこ](https://open.spotify.com/artist/4qpFBSWs6WGn1o5lyWgqdX) | [secret base \~君がくれたもの\~ \- from CrosSing](https://open.spotify.com/album/0do7Fq6G1u8xZvtQYwLU3U) | 5:12 | 2023-02-14 | 2023-02-16 |
 | [Secret Ceremony](https://open.spotify.com/track/4H0jA4BmoPsR1g0YojlYKV) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [Secret Ceremony](https://open.spotify.com/album/79uzDTAtLl2kp5bskMLgtQ) | 3:40 | 2022-05-28 | 2022-06-10 |

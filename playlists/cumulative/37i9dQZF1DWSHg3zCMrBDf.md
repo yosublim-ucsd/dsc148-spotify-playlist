@@ -2,9 +2,9 @@
 
 ### [Hot Hits Ghana](https://open.spotify.com/playlist/37i9dQZF1DWSHg3zCMrBDf)
 
-> The hottest tracks in Ghana\. Cover: <a href="https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8?si=4ZJhAtbIRrG2s6c9hZLXDg">Sarkodie</a>
+> The hottest tracks in Ghana\. Cover: <a href="https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=jXNWckaQRSmpHG2OxBB\_5Q">Black Sherif </a>
 
-183 songs - 9 hr 19 min
+184 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Beautiful](https://open.spotify.com/track/4ccPHOzBCiCoBxilT5b00V) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Beautiful](https://open.spotify.com/album/3CkYnVyY3U8ALa3aBUtNST) | 3:07 | 2023-03-03 | 2023-03-25 |
 | [Behind the Scenes](https://open.spotify.com/track/26CXC5USNjWcsam70B416i) | [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm) | [Behind the Scenes](https://open.spotify.com/album/7aJ26nwOsFaLVBiZRjmGmV) | 4:03 | 2021-10-15 | 2023-01-17 |
 | [Believe Me](https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Believe Me](https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F) | 3:31 | 2023-05-26 | 2023-06-23 |
-| [Big 7](https://open.spotify.com/track/1OgoyOlrMJFqjE1eqQiCUc) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Big 7](https://open.spotify.com/album/75AHV3X6Pcy1aHJZabAwib) | 2:23 | 2023-08-07 |  |
+| [Big 7](https://open.spotify.com/track/1OgoyOlrMJFqjE1eqQiCUc) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Big 7](https://open.spotify.com/album/75AHV3X6Pcy1aHJZabAwib) | 2:23 | 2023-08-07 | 2023-08-11 |
 | [Body & Soul](https://open.spotify.com/track/2AaZJAh9FifPCQdba87Hzr) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body & Soul](https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW) | 2:34 | 2023-05-26 |  |
 | [Brown Skin Girl](https://open.spotify.com/track/1MnLtHUkNjywtD2kyCiXXn) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [L.I.T.A](https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463) | 3:08 | 2023-06-02 |  |
 | [Buga \(Lo Lo Lo\)](https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Buga \(Lo Lo Lo\)](https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h) | 3:03 | 2022-07-07 | 2023-05-05 |
@@ -190,6 +190,7 @@
 | [Won Da Mo](https://open.spotify.com/track/0xPz8qjfchKRCAmABJH65Z) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Won Da Mo](https://open.spotify.com/album/6QwF6NbMHG9BWKNctTw2pC) | 4:07 | 2023-01-16 | 2023-05-27 |
 | [Xtra Cool](https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Xtra Cool](https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL) | 2:30 | 2023-01-16 |  |
 | [Y3 Y3 DOM \(feat\. Skyface SDW, Reggie, Kwaku DMC, City Boy, Kawabanga & O'Kenneth\)](https://open.spotify.com/track/07bE9klPJH5xfXyj5hNlq8) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr), [Kawabanga](https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Y3 Y3 DOM \(feat\. Skyface SDW, Reggie, Kwaku DMC, City Boy, Kawabanga & O'Kenneth\)](https://open.spotify.com/album/3onPRPaXRaC4d7y2sqXgX4) | 4:23 | 2021-06-11 | 2023-02-24 |
+| [YAYA](https://open.spotify.com/track/0xAwmnpzW0AOF6Dzk6UZXP) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Take Care of Yourself Blacko](https://open.spotify.com/album/1rUsK77wSF6p2cw1FnCTZg) | 3:13 | 2023-08-10 |  |
 | [You Dey Feel The Vibe \(Live\)](https://open.spotify.com/track/3jDxl1SAnCCZ6TIod7uD7n) | [FRA!](https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN), [Nana Yaw Ofori\-Atta](https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL) | [You Dey Feel The Vibe \(Live\)](https://open.spotify.com/album/3MdmMxsZPo4hSM0XvOx6PN) | 5:03 | 2023-07-07 |  |
 
 \*This playlist was first scraped on 2022-12-01. Prior content cannot be recovered.

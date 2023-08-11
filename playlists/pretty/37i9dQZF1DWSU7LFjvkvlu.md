@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSU7LFjvkvlu.md) - [plain]
 
 > Throwbacks for that emo kid in all of us\. Cover: Paramore
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,786 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,905 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSU7LFjvkvlu.md) - [plain]
 | 49 | [Flavor Of The Weak](https://open.spotify.com/track/5wjQihzWIKgBc1hzf5work) | [American Hi\-Fi](https://open.spotify.com/artist/4XlcLj6bxCnpBIOHmBpIWP) | [American Hi\-Fi](https://open.spotify.com/album/418rqqXvvFf4XXlU2cQWck) | 3:08 |
 | 50 | [Streetcar](https://open.spotify.com/track/3QvcNLv6ljvuU1KD7dSINg) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours](https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7) | 3:36 |
 
-Snapshot ID: `MCxkMmM0NjEwN2VkNjA3NWEzNDkxN2NkOTdhNjY3Zjc2MGM0MGEwOTdh`
+Snapshot ID: `MCw4YWY0NTQzNGYyMjkzMzExMDc3MmYzNzQyODIzZjIyN2Y4MzNlODM0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: 愛美 \(Aimi\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,540 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,539 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 49 | [Secret Base \~Kimi ga Kureta Mono\~ \- From CrosSing](https://open.spotify.com/track/6wH9VrMaadUjcAVZp4G5Ss) | [Suzuko Mimori](https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY) | [Secret Base \~Kimi ga Kureta Mono\~ \- From CrosSing](https://open.spotify.com/album/0K16qvRY8hUyyQysEvzyFG) | 5:12 |
 | 50 | [元生徒](https://open.spotify.com/track/5EC2eub889hm884w6jAU3u) | [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd), [明智咲（CV：緑川光）](https://open.spotify.com/artist/62qcOgQ26tKLe09rvPNSfB) | [元生徒](https://open.spotify.com/album/0zxl4uSQakAnfNUSAcE5cB) | 3:57 |
 
-Snapshot ID: `MCxmNGM4MGQ4ZGUyYmEyODJlMzBjMjUyZTEzNWE4Mzk3M2JkZmIyNzZk`
+Snapshot ID: `MCw3Zjc3Y2ZmNWM4Y2Y2NzNhYzRiZWNiOWI4OWNiZWUyZjUxMGY4N2M4`

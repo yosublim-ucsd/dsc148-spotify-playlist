@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 
 > Pronto pra pool party? Vem com a gente!
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,501 likes - 70 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,493 likes - 70 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,15 +60,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 | 50 | [Deixa Ela Beijar](https://open.spotify.com/track/2KxHe4qxNgeFcKpE2r2aBt) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Deixa Ela Beijar](https://open.spotify.com/album/0cRh2xyjTOdUSVBNk84nd4) | 2:46 |
 | 51 | [Rabiola](https://open.spotify.com/track/4ElQE5JDPUuESlyHCHNOXA) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Rabiola](https://open.spotify.com/album/4bOxfdAsnDjUy0sAqjqKyk) | 2:55 |
 | 52 | [Agora Vai Sentar](https://open.spotify.com/track/0pDaqgIForVNO4jrtTxcWT) | [MC's Jhowzinho & Kadinho](https://open.spotify.com/artist/2Q4r4Epfaaho06ONTHx7OS) | [Agora Vai Sentar](https://open.spotify.com/album/39HSKuqaxE7NH3ZeJoKqdh) | 3:48 |
-| 53 | [Posto 24h \(feat\. Wesley Safadão\) \- Ao Vivo](https://open.spotify.com/track/3mNmUjoDHYDYj08IaRPtg0) | [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [A Origem \(Ao Vivo\)](https://open.spotify.com/album/3Epj5Yu1oKT74AocfDrAOn) | 2:33 |
-| 54 | [Só Quer Vrau](https://open.spotify.com/track/0DbNuTBlJ5ixoDdHZ523DT) | [MC MM](https://open.spotify.com/artist/3a5ydeAaojKa3CHWe5PVWK), [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb) | [Só Quer Vrau](https://open.spotify.com/album/3A3GhqfZV2xJ7qXOox8a1C) | 2:40 |
+| 53 | [Só Quer Vrau](https://open.spotify.com/track/0DbNuTBlJ5ixoDdHZ523DT) | [MC MM](https://open.spotify.com/artist/3a5ydeAaojKa3CHWe5PVWK), [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb) | [Só Quer Vrau](https://open.spotify.com/album/3A3GhqfZV2xJ7qXOox8a1C) | 2:40 |
+| 54 | [Posto 24h \(feat\. Wesley Safadão\) \- Ao Vivo](https://open.spotify.com/track/3mNmUjoDHYDYj08IaRPtg0) | [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [A Origem \(Ao Vivo\)](https://open.spotify.com/album/3Epj5Yu1oKT74AocfDrAOn) | 2:33 |
 | 55 | [Never Let Me Go](https://open.spotify.com/track/1Sm14ee7LxZN2H9nafPupr) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Never Let Me Go](https://open.spotify.com/album/1QNNJE8gwsx6LTakTjNk9K) | 3:03 |
 | 56 | [12 Horas \(Ao Vivo\)](https://open.spotify.com/track/7B826fTyDa3DkjnKpOgXFo) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [12 Horas \(Ao Vivo\)](https://open.spotify.com/album/2ook1jniY6KP7rr7xmgpcW) | 4:00 |
 | 57 | [Quem Me Dera](https://open.spotify.com/track/29dRTbLTxRaSl63DIzbjvl) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Quem Me Dera](https://open.spotify.com/album/4dnvHZqul9z0csYtnHcHw7) | 2:27 |
 | 58 | [O Bebê](https://open.spotify.com/track/15YEYgT0kDso9gwOcJFAmV) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi), [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf) | [O Bebê](https://open.spotify.com/album/7J4vpR8Rl5sB7GqBIk8A8h) | 2:58 |
 | 59 | [E Essa Boca Aí? \- Ao Vivo](https://open.spotify.com/track/6vve9WKW5I7fQzkU8dNsUE) | [Bruninho & Davi](https://open.spotify.com/artist/5exy2LREZrJ6aRzj1SwXQX) | [Bruninho & Davi ao Vivo no Ibirapuera \(Deluxe\)](https://open.spotify.com/album/0N5TZp53t8eSWzmeHqr1tA) | 3:01 |
-| 60 | [Inquilina \- Ao Vivo](https://open.spotify.com/track/0XwpOHWnRid52uc7IHSAot) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Xperience Na Praia \(ao Vivo\)](https://open.spotify.com/album/04wtAfOnYEQvi7i6Iu9tA5) | 4:05 |
-| 61 | [Jogo do Amor](https://open.spotify.com/track/3MxbRHE1u74SoMNR9iURIZ) | [MC Bruninho](https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB) | [Jogo do Amor](https://open.spotify.com/album/4njG3ASiYdSUc60uDTvDDS) | 2:24 |
+| 60 | [Jogo do Amor](https://open.spotify.com/track/3MxbRHE1u74SoMNR9iURIZ) | [MC Bruninho](https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB) | [Jogo do Amor](https://open.spotify.com/album/4njG3ASiYdSUc60uDTvDDS) | 2:24 |
+| 61 | [Inquilina \- Ao Vivo](https://open.spotify.com/track/0XwpOHWnRid52uc7IHSAot) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Xperience Na Praia \(ao Vivo\)](https://open.spotify.com/album/04wtAfOnYEQvi7i6Iu9tA5) | 4:05 |
 | 62 | [Um Brinde \(feat\. Marília Mendonça & Maiara & Maraisa\)](https://open.spotify.com/track/6aIrHPvM3l16MeS7iOQRYO) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Um Brinde \(feat\. Marília Mendonça & Maiara & Maraisa\)](https://open.spotify.com/album/5teU2mGfU2Qe5Lqj0skN5i) | 2:58 |
 | 63 | [Devagarinho](https://open.spotify.com/track/0aZfIiaO3b2HTNxZ3sv1cg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Devagarinho](https://open.spotify.com/album/4gdw60lOahihgNIvaiH1mr) | 2:17 |
 | 64 | [Disk Me](https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:53 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 | 69 | [Sapequinha](https://open.spotify.com/track/7LPR6AdkOQR9WpEixCGNCk) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [MC Lan](https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR) | [Sapequinha](https://open.spotify.com/album/0flHUcoTFiyujvz0JpfBja) | 2:14 |
 | 70 | [Tudo Ok](https://open.spotify.com/track/4HUZBG98TYbxSR9V1V2DWS) | [Thiaguinho MT](https://open.spotify.com/artist/0yApzRdrUqTGqX9MULdnmV), [Mila](https://open.spotify.com/artist/606eWexxNhc6Mj0RuCxMA9), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [Tudo Ok](https://open.spotify.com/album/33h1DnrztGgynGDWwzQEiA) | 2:58 |
 
-Snapshot ID: `MCw5Y2M4ODQzNzUwNDUwNGI4YzExMmRlYzc4MDU2OGU2N2ExMmRkMmI4`
+Snapshot ID: `MCxiYzk0OTRkMGE5ZDhiMTUyOGYxZTBmMjdjODBmZWIzNmFkNzJlYTVm`

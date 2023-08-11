@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 
 > Tu lista favorita de Bachata ❤️ Cover: Johnny Sky
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,914,909 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,915,046 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 99 | [Quien de los Dos](https://open.spotify.com/track/3aDfR3NtB95RB5E5SVX2CU) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Devuélveme Mi Libertad](https://open.spotify.com/album/2fde5WKTf4YilScZxEdd07) | 3:36 |
 | 100 | [Tatuaje](https://open.spotify.com/track/5XROtPy6KF9m2y4yX3dHmF) | [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Lost in the Music](https://open.spotify.com/album/0DelqlcfTa9sEm4BL5Jjtf) | 3:51 |
 
-Snapshot ID: `MCxkZTNkZjkzY2ZhODBkNDRlNjZmZWU0OGM3NjUzMGY1ZGYyOTUzMjA3`
+Snapshot ID: `MCw4NjBjNzdhZTczNzQ4NGU4ZTVlODQyMzQ3OWM0OTQ3MzE1YWMwOTU4`

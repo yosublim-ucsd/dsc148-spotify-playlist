@@ -494,7 +494,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 223878,
       "name": "All My Life (feat. J. Cole)",
       "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
@@ -1985,6 +1985,24 @@
     },
     {
       "album": {
+        "name": "Cap 2 da Side",
+        "url": "https://open.spotify.com/album/5YS7zT4TXxqj2VGRlYe7dN"
+      },
+      "artists": [
+        {
+          "name": "MoStack",
+          "url": "https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156952,
+      "name": "Cap 2 da Side",
+      "url": "https://open.spotify.com/track/4O6uoBjLCGRqSTopXl9x8x"
+    },
+    {
+      "album": {
         "name": "Captain",
         "url": "https://open.spotify.com/album/1FaRi2v5fyJPdrwi2PfdAN"
       },
@@ -3111,6 +3129,24 @@
     },
     {
       "album": {
+        "name": "Derby Day",
+        "url": "https://open.spotify.com/album/3ByrdC0Y3r0Is6P0ETdA9z"
+      },
+      "artists": [
+        {
+          "name": "Dide",
+          "url": "https://open.spotify.com/artist/29ifbSKLZbyWgfRoduS7S4"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189295,
+      "name": "Derby Day",
+      "url": "https://open.spotify.com/track/47ljZvDes8HaEWYGd9RDhh"
+    },
+    {
+      "album": {
         "name": "Deserve It",
         "url": "https://open.spotify.com/album/3nWY1AeTNK5WvAhVcQYvSO"
       },
@@ -4022,6 +4058,28 @@
       "duration_ms": 215342,
       "name": "Extra Sleeve",
       "url": "https://open.spotify.com/track/4m9JJpWpijDvgVWcRrkgSB"
+    },
+    {
+      "album": {
+        "name": "Facade",
+        "url": "https://open.spotify.com/album/0Y938j5d5KXfJFfSirRXRx"
+      },
+      "artists": [
+        {
+          "name": "Digga D",
+          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
+        },
+        {
+          "name": "Potter Payper",
+          "url": "https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Facade",
+      "url": "https://open.spotify.com/track/48i8sfmvRIQpWv7gCqacLO"
     },
     {
       "album": {
@@ -6310,7 +6368,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 147641,
       "name": "Jah",
       "url": "https://open.spotify.com/track/5em888nSVKmO5gWLR3vFb6"
@@ -6376,7 +6434,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 174466,
       "name": "JEALOUSY (feat. Cardi B)",
       "url": "https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj"
@@ -8045,6 +8103,24 @@
     },
     {
       "album": {
+        "name": "More Money More Problems",
+        "url": "https://open.spotify.com/album/01EayXsvhd2wpvIcryfkEO"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177103,
+      "name": "More Money More Problems",
+      "url": "https://open.spotify.com/track/0VC8IBllrQImnLk0TCJmKH"
+    },
+    {
+      "album": {
         "name": "More Vibes More Money",
         "url": "https://open.spotify.com/album/1v8aC5jKBuDCmkZ9XUn3Z7"
       },
@@ -9066,7 +9142,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 136480,
       "name": "Ooh La La",
       "url": "https://open.spotify.com/track/3WPGHDCDGohWrIjYJ2RqDQ"
@@ -10233,6 +10309,28 @@
     },
     {
       "album": {
+        "name": "Quarter Past 3",
+        "url": "https://open.spotify.com/album/1SoQjAypvaAqJnnahGAM2j"
+      },
+      "artists": [
+        {
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
+        },
+        {
+          "name": "Eric IV",
+          "url": "https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175600,
+      "name": "Quarter Past 3",
+      "url": "https://open.spotify.com/track/6xMkGgRgCPXAH7gnwEXCSL"
+    },
+    {
+      "album": {
         "name": "Que Sera",
         "url": "https://open.spotify.com/album/5oDbdz6fS5XuevhOe0Hn5C"
       },
@@ -10462,7 +10560,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 144000,
       "name": "Reverse",
       "url": "https://open.spotify.com/track/63dHAaPXAVXnRS9f1wzKbj"
@@ -12250,7 +12348,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-09",
+      "date_removed": null,
       "duration_ms": 234024,
       "name": "Terminator",
       "url": "https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG"
@@ -13476,6 +13574,24 @@
       "duration_ms": 181115,
       "name": "Whap Whap (feat. F.S.)",
       "url": "https://open.spotify.com/track/47MwPx7nbFUD5IGVhL38Zr"
+    },
+    {
+      "album": {
+        "name": "What It Is (Versions)",
+        "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189824,
+      "name": "What It Is (Solo Version)",
+      "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
     },
     {
       "album": {

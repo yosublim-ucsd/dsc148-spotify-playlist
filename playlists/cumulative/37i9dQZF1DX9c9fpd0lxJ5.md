@@ -4,7 +4,7 @@
 
 > indie tunes to make you shine bby :\)
 
-195 songs - 10 hr 56 min
+196 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [El Momento Perfecto](https://open.spotify.com/track/7LUepo06YjPnIoDVmiwYlJ) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [RIO HOTEL](https://open.spotify.com/album/39X3Jhsy9oT9XzgoUDs5P9) | 3:21 | 2023-02-02 |  |
 | [El Ride](https://open.spotify.com/track/6QZCS1tO3dL3gm9ZHWL4d0) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [Carlos Macca](https://open.spotify.com/artist/5iDuCXfKMjYai2qvft7KcS) | [El Ride](https://open.spotify.com/album/2gn2Y3RAxuMjGvbQNl9IKw) | 2:44 | 2023-04-21 |  |
 | [En el 2000](https://open.spotify.com/track/2cVJwPD5CaTx2kBZyomzGN) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Natalia Lafourcade](https://open.spotify.com/album/2NHUkx5kUzp2r2laL2fonJ) | 3:35 | 2021-12-29 | 2022-12-03 |
+| [Enloqueciendo](https://open.spotify.com/track/7DjgJCvcx22XyZ5ounl1ml) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx), [Esteban Sterling](https://open.spotify.com/artist/2I6Q1wQDqpRXkLeLR8w9oe) | [Enloqueciendo](https://open.spotify.com/album/0RlEealRuqOhv0HvnAryUF) | 4:05 | 2023-08-04 |  |
 | [Eres](https://open.spotify.com/track/2qKb3jyXEb4yqeZHlJaS3M) | [Planeta Tres](https://open.spotify.com/artist/2eATLFTN3YsqxXMa13faPq) | [Eres](https://open.spotify.com/album/5X4LwzmV4YI6ZgUSTrLzNs) | 3:24 | 2023-04-07 |  |
 | [Eres para Mí \(with Anita Tijoux\)](https://open.spotify.com/track/4m3vLNZkFAjm30XxPXf7E3) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:12 | 2021-12-29 | 2022-12-03 |
 | [Eso Que Me Das](https://open.spotify.com/track/76Xv0phxmn6MyCxY3K00Wa) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Eso Que Me Das](https://open.spotify.com/album/0WQ1ixBjLMPw4uK0vZnIh3) | 3:47 | 2021-12-29 |  |
@@ -158,7 +159,7 @@
 | [Rompecabezas](https://open.spotify.com/track/3Y5l5pPl8dsQa302fZYf5z) | [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [Multicolor](https://open.spotify.com/album/2STyrwQukQzXgPvu3uuFUN) | 5:32 | 2021-12-29 | 2022-12-11 |
 | [Rompecabezas](https://open.spotify.com/track/5KPVawlzPpOuQ3qqvny35p) | [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [Multicolor](https://open.spotify.com/album/2czVuP4m56SE64ctzcXclC) | 5:32 | 2022-12-06 | 2023-04-15 |
 | [s a l u d o s](https://open.spotify.com/track/1gEBRuOemkKubufvFmF0pE) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Mal Hecha \(Deluxe\)](https://open.spotify.com/album/6n2KkPuOhM14eWLPuUipwP) | 3:17 | 2021-12-29 | 2023-01-13 |
-| [Sad Lullaby](https://open.spotify.com/track/61dXVEGgk0YrSX0lDH9qfY) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Sad Lullaby](https://open.spotify.com/album/0mhQlc6V2rX86ocFqHpgTd) | 3:25 | 2021-12-29 |  |
+| [Sad Lullaby](https://open.spotify.com/track/61dXVEGgk0YrSX0lDH9qfY) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Sad Lullaby](https://open.spotify.com/album/0mhQlc6V2rX86ocFqHpgTd) | 3:25 | 2021-12-29 | 2023-08-11 |
 | [Santo Domingo](https://open.spotify.com/track/0iLN9FL8qQNsd13N5TVPAX) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Santo Domingo](https://open.spotify.com/album/7MHtcxNInflrOkle3BVSSI) | 2:36 | 2022-12-06 |  |
 | [Si Hay Algo](https://open.spotify.com/track/4RBCEwBRA0oHa49UwmhT98) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [El Tiempo Locura Todo](https://open.spotify.com/album/2dlQczNA78nEuIY8KOWfrp) | 4:04 | 2021-12-29 |  |
 | [Si Me Voy \(with The Marías\)](https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Si Me Voy \(with The Marías\)](https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq) | 3:23 | 2023-03-17 |  |

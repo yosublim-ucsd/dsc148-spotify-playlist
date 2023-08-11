@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: David Guetta, Bebe Rexha
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,984 likes - 74 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,038 likes - 74 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 73 | [I like u](https://open.spotify.com/track/7H6TvLL3dyoY2XtrUKp3wK) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [I like u](https://open.spotify.com/album/4CD20ta8qwSZV5iqSDzo7w) | 3:10 |
 | 74 | [Big Boom](https://open.spotify.com/track/38zUB1OyaTn98q8caO1MWt) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Big Boom](https://open.spotify.com/album/6KBWwX5kdgbmGe5ElXQXfz) | 2:14 |
 
-Snapshot ID: `MCw1MjIwMTM4OGFiMGIwMGMzZDI3NTFiZGMwOGI1ZWUwYjM0OWY0ZGQw`
+Snapshot ID: `MCw0YzhmNjI3YTQwYWMwNWYzOTBkYzIzNDA2MjM3M2I5NzY3MDk1Njk4`

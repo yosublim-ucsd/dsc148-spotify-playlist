@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BIvvE.md) - [plain]
 
 > This is Billy Paul\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,521 likes - 50 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,526 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BIvvE.md) - [plain]
 | 43 | [Ebony Woman](https://open.spotify.com/track/1QjYM7bjbF0fwPDJMIs8z9) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Ebony Woman](https://open.spotify.com/album/7ynT3ZWytYl31uW2Atscdc) | 3:52 |
 | 44 | [Everybody's Breakin' Up](https://open.spotify.com/track/5ouaur1lUArHSyi9QMa58j) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Only The Strong Survive](https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd) | 5:02 |
 | 45 | [Malorie](https://open.spotify.com/track/4smJDFiteu2hZOW9oFlCzt) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [When Love Is New](https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS) | 3:47 |
-| 46 | [When Will I See You Again / Love Train \- Live Medley](https://open.spotify.com/track/6s59Mq2boCny0IIFPinPxT) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa), [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [T.S.O.P\. The Sound of Philadelphia \(Live in Concert\)](https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr) | 8:01 |
-| 47 | [Compared to What](https://open.spotify.com/track/6DNKhb6QCGppmSz1AP423W) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Going East](https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf) | 5:19 |
-| 48 | [Let's Fall In Love All Over Again](https://open.spotify.com/track/2uXNAf7DPYZPgizWmlacBQ) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Ebony Woman](https://open.spotify.com/album/7ynT3ZWytYl31uW2Atscdc) | 3:50 |
-| 49 | [I See the Light](https://open.spotify.com/track/3aq0mO4ZQN2VQuHDq5OUNj) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [War of the Gods \(Expanded Edition\)](https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw) | 6:12 |
-| 50 | [So Glad To See You Again](https://open.spotify.com/track/62GCvbMTDVwEdJ6W5T1ubs) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [First Class](https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168) | 4:43 |
+| 46 | [Compared to What](https://open.spotify.com/track/6DNKhb6QCGppmSz1AP423W) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Going East](https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf) | 5:19 |
+| 47 | [Let's Fall In Love All Over Again](https://open.spotify.com/track/2uXNAf7DPYZPgizWmlacBQ) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Ebony Woman](https://open.spotify.com/album/7ynT3ZWytYl31uW2Atscdc) | 3:50 |
+| 48 | [I See the Light](https://open.spotify.com/track/3aq0mO4ZQN2VQuHDq5OUNj) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [War of the Gods \(Expanded Edition\)](https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw) | 6:12 |
+| 49 | [So Glad To See You Again](https://open.spotify.com/track/62GCvbMTDVwEdJ6W5T1ubs) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [First Class](https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168) | 4:43 |
+| 50 | [Magic Carpet Ride](https://open.spotify.com/track/160J6uDzOUJpDRGWUgHhsm) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Going East](https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf) | 5:19 |
 
-Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDBiOTExYjhjNmZkMGFkMTFjYzRkNWUxZmU5OGFkYTU0OA==`
+Snapshot ID: `MjgxOTQ1NjMsMDAwMDAwMDBmMWI0ZDg3MzBiY2NmMzdhZGJmN2NmYTBhZmUxYmNmMA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 
 > Discover the multifaceted creativity of the black queer community\. Cover: Doechii
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,705 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,708 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 | 46 | [Camille](https://open.spotify.com/track/6OqDwiemWUNCb2yRzWNoza) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [Camille](https://open.spotify.com/album/34IwZWZlJYs7D3cEiJdYLE) | 2:16 |
 | 47 | [Heaven \(feat\. Tinashe\)](https://open.spotify.com/track/2DocffKfDso8efpWPOYTvI) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Heaven \(feat\. Tinashe\)](https://open.spotify.com/album/6KgSP1vLwIc3xBI7hUTrly) | 2:18 |
 | 48 | [Washed Away](https://open.spotify.com/track/1o6heh4aefLv3GJYjtfLa6) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 3:36 |
-| 49 | [Body Move](https://open.spotify.com/track/7f8ikUEaa2glQLszmOh7aN) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Body Move](https://open.spotify.com/album/20v7NPIDPBIRXIBEnJdoQg) | 2:56 |
-| 50 | [Human](https://open.spotify.com/track/3U6yomdo8N6SwTQeCpOLUN) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [Thicker Than Water](https://open.spotify.com/album/6DQn1eHIKyRGNiDbAYnUo5) | 4:07 |
+| 49 | [Human](https://open.spotify.com/track/3U6yomdo8N6SwTQeCpOLUN) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [Thicker Than Water](https://open.spotify.com/album/6DQn1eHIKyRGNiDbAYnUo5) | 4:07 |
+| 50 | [Body Move](https://open.spotify.com/track/7f8ikUEaa2glQLszmOh7aN) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Body Move](https://open.spotify.com/album/20v7NPIDPBIRXIBEnJdoQg) | 2:56 |
 
-Snapshot ID: `MCwwNjA3NmE3NmZiOTExOTUzNTU0YTA3NzhjNTVhMjMwODQ1YTg2YWJh`
+Snapshot ID: `MCxhNDUwYWRhMzY0ZWU5NmE5ODUyODY4ZWMxNTM1OTUxMjFiY2U5ZWE3`

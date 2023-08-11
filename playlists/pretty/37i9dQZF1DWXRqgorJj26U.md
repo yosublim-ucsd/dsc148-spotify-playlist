@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRqgorJj26U.md) - [plain]
 
 > Rock legends & epic songs that continue to inspire generations\. Cover: Queen
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,722,956 likes - 200 songs - 14 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,725,422 likes - 200 songs - 14 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,7 +117,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRqgorJj26U.md) - [plain]
 | 107 | [She Sells Sanctuary](https://open.spotify.com/track/3qLZ866ZfaK0B0R5FIqXLG) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Love](https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko) | 4:12 |
 | 108 | [Honky Tonk Women \- Mono Version](https://open.spotify.com/track/3RZMzCvYsmJ0u2ioKTOsmJ) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hot Rocks \(1964\-1971\)](https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp) | 2:59 |
 | 109 | [Wonderwall \- Remastered](https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:18 |
-| 110 | [Rock You Like A Hurricane](https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C) | 4:12 |
+| 110 | [Rock You Like a Hurricane \- 2015 \- Remaster](https://open.spotify.com/track/2fICdpdRotwfmGYzvs8Ngf) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting \(Deluxe Edition\)](https://open.spotify.com/album/14kTyafNZvlbn586zryGww) | 4:13 |
 | 111 | [Dust in the Wind](https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI) | [Kansas](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) | [Point Of Know Return \(Expanded Edition\)](https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA) | 3:26 |
 | 112 | [Surrender](https://open.spotify.com/track/669cOBjpY4Y5O98Nmk6139) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [The Essential Cheap Trick](https://open.spotify.com/album/37P9MBdJRekfOIbPSX9alR) | 4:13 |
 | 113 | [Long Train Runnin'](https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [The Captain and Me](https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt) | 3:27 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRqgorJj26U.md) - [plain]
 | 199 | [You Shook Me All Night Long](https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 3:30 |
 | 200 | [Everywhere \- 2017 Remaster](https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:46 |
 
-Snapshot ID: `MCwxZTE1NzY2ZjkzNTRiMDBlNDY5YWU0ZjJmNzZhZTJmM2NiYjI4ZmE3`
+Snapshot ID: `MCwzOWNjZjA3MjhkZmIyMTcxNzE2NjFmNjcxNGI1Yzg5NmJkN2RjM2U2`

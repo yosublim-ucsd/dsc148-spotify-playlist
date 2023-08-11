@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 
 > This is El de La Guitarra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,156 likes - 51 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,174 likes - 51 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,14 +23,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 | 13 | [No Andamos Solos](https://open.spotify.com/track/0RFLlf7uUUUCgDUT6sJsBQ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Con Los Pies En La Tierra Y La Mirada En El Cielo](https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T) | 2:37 |
 | 14 | [Lo Que Me Distingue](https://open.spotify.com/track/2evqVdCxI2wKa5G0fjnEgB) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.2](https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS) | 3:16 |
 | 15 | [No Quiero Agarrar El Rollo](https://open.spotify.com/track/5cM3YFGrnT7EdFNW4kPWv6) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [No Quiero Agarrar El Rollo](https://open.spotify.com/album/46KXJipvIK5dbK6PyltADi) | 2:01 |
-| 16 | [No Somos Magos \(En Vivo\)](https://open.spotify.com/track/40zjogs2ktlvHxAUFbxboV) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [No Somos Magos \(En Vivo\)](https://open.spotify.com/album/7DBlyphKV6gb24sWIvtxbM) | 3:32 |
-| 17 | [Va Por Todos](https://open.spotify.com/track/4u0L6n0eSV5gTBvAYglqTB) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Va Por Todos](https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA) | 2:58 |
+| 16 | [Va Por Todos](https://open.spotify.com/track/4u0L6n0eSV5gTBvAYglqTB) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Va Por Todos](https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA) | 2:58 |
+| 17 | [No Somos Magos \(En Vivo\)](https://open.spotify.com/track/40zjogs2ktlvHxAUFbxboV) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [No Somos Magos \(En Vivo\)](https://open.spotify.com/album/7DBlyphKV6gb24sWIvtxbM) | 3:32 |
 | 18 | [El Del Jolly Rancher](https://open.spotify.com/track/6x8tNMBrOiFAvA2WoqYKgU) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.2](https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS) | 4:01 |
 | 19 | [Estilo Militar](https://open.spotify.com/track/5YzIk26HIxTcchwGwWQ5p9) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Los De La Villa](https://open.spotify.com/artist/4k0T7XGZDSFv5fnAnZUNHl) | [Estilo Militar](https://open.spotify.com/album/5e51uEalSKB8Rb6PChOkCQ) | 2:55 |
 | 20 | [Ya La Conecte](https://open.spotify.com/track/24WJmf2sL7u9iyeuGHV6Vy) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Con Los Pies En La Tierra Y La Mirada En El Cielo](https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T) | 2:46 |
 | 21 | [El Mismo Morro](https://open.spotify.com/track/2LJC71XUvul0dUcGy41neC) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Clave 210](https://open.spotify.com/artist/3WJpNFakTQrmngFia1tX7Y) | [El Mismo Morro](https://open.spotify.com/album/159mfKivxJG6O33wzaMVCI) | 2:20 |
-| 22 | [Para Ser Respetado](https://open.spotify.com/track/3OtWHaaJVAQpEpaiUhWO4K) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Va Por Todos](https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA) | 2:54 |
-| 23 | [De Aquí Para Allá](https://open.spotify.com/track/5e71bYvDvHQNHCWwqslKfV) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [De Aquí Para Allá](https://open.spotify.com/album/6GXtWhkWY6KQ7xBn3Ici8Q) | 3:36 |
+| 22 | [De Aquí Para Allá](https://open.spotify.com/track/5e71bYvDvHQNHCWwqslKfV) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [De Aquí Para Allá](https://open.spotify.com/album/6GXtWhkWY6KQ7xBn3Ici8Q) | 3:36 |
+| 23 | [Para Ser Respetado](https://open.spotify.com/track/3OtWHaaJVAQpEpaiUhWO4K) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Va Por Todos](https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA) | 2:54 |
 | 24 | [Peligro](https://open.spotify.com/track/3cMC0cscoByKmZ4jY1spXs) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Peligro](https://open.spotify.com/album/4YViCFmwpHIMQVm2Opv1u3) | 2:00 |
 | 25 | [Loco Malandro](https://open.spotify.com/track/0idKybdhXgh5O94UhJCufA) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Loco Malandro](https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ) | 2:41 |
 | 26 | [Cuartitos De Libra](https://open.spotify.com/track/0rewTyKwnWKLcHKbt1XM42) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Con Los Pies En La Tierra Y La Mirada En El Cielo](https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T) | 3:04 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 | 50 | [Sueños y Metas](https://open.spotify.com/track/2IAz40IUjp8A2OdtOo9DUO) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Rubén Miranda Y Los De La J](https://open.spotify.com/artist/4A6lttDRrPRN2lb5SvyI9t) | [Sueños y Metas](https://open.spotify.com/album/5xznQhaDmG3QocS1i5KfUE) | 2:45 |
 | 51 | [La Moneda Vueltas Dio](https://open.spotify.com/track/7aMuodDbZvgLOPk3zRReqJ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1) | 3:29 |
 
-Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDBhODcwYjE2YWI1YzNjYWYyOWJiMTQ0ZmRlZDk4NzA2ZA==`
+Snapshot ID: `MjgxOTQ1NjMsMDAwMDAwMDA1OGVmOWU4NDUxOGQ1M2E5ZDJiZDE3ODMzMTgzYmJlZg==`

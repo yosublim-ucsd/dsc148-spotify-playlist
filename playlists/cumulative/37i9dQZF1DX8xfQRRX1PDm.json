@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-01-29",
-  "description": "Party-ready, biggest Bollywood dance tracks of last 10 years. Cover - Mimi",
+  "description": "Party-ready, biggest Bollywood dance tracks of last 10 years. Cover - Satyameva Jayate",
   "name": "Bollywood Dance Music",
   "tracks": [
     {
@@ -788,7 +788,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 174000,
       "name": "Bijli",
       "url": "https://open.spotify.com/track/3hts3cIWNG8A2063si9GLP"
@@ -1402,6 +1402,36 @@
       "duration_ms": 177382,
       "name": "Dheeme Dheeme",
       "url": "https://open.spotify.com/track/6K9H6SxVbG46qvlqmdNTIX"
+    },
+    {
+      "album": {
+        "name": "Dhindhora Baje Re (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+        "url": "https://open.spotify.com/album/0wOX2manxi6bi9lD4pNfBf"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        },
+        {
+          "name": "Bhoomi Trivedi",
+          "url": "https://open.spotify.com/artist/16IWQKGP5XiiKxalXZuIMZ"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253599,
+      "name": "Dhindhora Baje Re (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+      "url": "https://open.spotify.com/track/60u29xfTGpUMpeE7SvFc3C"
     },
     {
       "album": {
@@ -5224,7 +5254,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 213611,
       "name": "What Jhumka ?",
       "url": "https://open.spotify.com/track/16n0AKZ6D5ZhIECp9Chbgb"
@@ -5262,7 +5292,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-02",
+      "date_removed": null,
       "duration_ms": 213611,
       "name": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
       "url": "https://open.spotify.com/track/4QyX8CBSjcoq4iMZuvifyF"

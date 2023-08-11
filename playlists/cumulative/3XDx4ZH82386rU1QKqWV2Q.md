@@ -4,7 +4,7 @@
 
 > Brazilian Phonk FOCUS ON YOU!  crdrecordsofficial@gmail.com This account is not associated with any social media account!
 
-286 songs - 12 hr 37 min
+287 songs - 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Casualties](https://open.spotify.com/track/3j7X2wLlmTpM6xaY2kplUA) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Casualties](https://open.spotify.com/album/1ZlJVi4isUQZH65pD7ryVd) | 2:03 | 2023-06-12 | 2023-08-06 |
 | [CATACLYSM](https://open.spotify.com/track/0rDoIX84nNoFgYwJOY1rem) | [bckrøøm$](https://open.spotify.com/artist/5umOc7U00gyTlobZXuQe0o), [Ploragé](https://open.spotify.com/artist/0h9fLPM2Nz1ZShCD6IHa7w) | [CATACLYSM](https://open.spotify.com/album/2V1LeQpf1yWZmP0jx921fI) | 1:30 | 2023-07-24 |  |
 | [Champione](https://open.spotify.com/track/15vyWTQp2jXmsK5AAfTd78) | [A!MS](https://open.spotify.com/artist/4kRfa7RBzBu7mxeWo3FkOe), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [Ramz](https://open.spotify.com/artist/6ywXRaHY7m2DJ0dd7CsLAB) | [Champione](https://open.spotify.com/album/50lpPl3PK2P5Nq3qwNQdU7) | 3:19 | 2023-06-12 | 2023-08-03 |
+| [Cinema](https://open.spotify.com/track/6ZCAoPaurm8pUPDj6bODf2) | [JKRS](https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv) | [Cinema](https://open.spotify.com/album/1fMxTQ3HXmiIiCmsdjcLjv) | 1:54 | 2023-08-10 |  |
 | [Classicore](https://open.spotify.com/track/2ppnnVPKPAnFQ5fW3aQIpA) | [Romantekker](https://open.spotify.com/artist/6D5xS19kvP9v5ZbrviJEFr) | [Classicore](https://open.spotify.com/album/286hhJXW53YZ0ucrec4qnM) | 4:49 | 2023-06-12 | 2023-06-19 |
 | [Clinical Comfort \- Sentinel Complex Remix](https://open.spotify.com/track/7Kmi3PJB8Pg6V39lijR4Xd) | [Noveaux](https://open.spotify.com/artist/2fsPGGcZFhul4aCRKUO3NJ), [Sentinel Complex](https://open.spotify.com/artist/31K3DcAhtW5bcuFOcNumWK) | [Clinical Comfort \(Sentinel Complex Remix\)](https://open.spotify.com/album/4MOLt933QvXBQYs3IHMRBk) | 3:32 | 2023-08-02 |  |
 | [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 | 2023-06-12 |  |

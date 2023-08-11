@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 ### [Rock Italia](https://open.spotify.com/playlist/37i9dQZF1DWViUlcvfltyZ)
 
-> La playlist che è come andare ai concerti\. CASX in cover questa settimana!
+> La playlist che è come andare ai concerti\. Lamante in cover questa settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,233 likes - 53 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,246 likes - 53 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Verdena](https://open.spotify.com/track/3LTOhf5vn7ORLNvnPm72nU) | [CASX](https://open.spotify.com/artist/2J1ivtTZT4Trce2QNrgnUU) | [Nessuno vuole essere mio amico](https://open.spotify.com/album/1slYL7JoFfTB9OcBFK65hE) | 3:07 |
 | 2 | [Quando Il Sogno Si Avvera](https://open.spotify.com/track/53hS7kYfegowstBCu9P0fl) | [Øjne](https://open.spotify.com/artist/0zZRbZrBprUwWRKnbaIEXq) | [Sogno \#3](https://open.spotify.com/album/2ZGKnFkK7En0LSTCNGsaCn) | 4:05 |
-| 3 | [Sei in un paese meraviglioso](https://open.spotify.com/track/0BaYBfrLf4IwcRQInvXOkF) | [Giancane](https://open.spotify.com/artist/5SHRnc9Tl14jqVV0CTr49B) | [Sei in un paese meraviglioso](https://open.spotify.com/album/1xKqyu6wKTq616wD3zxLuW) | 3:20 |
-| 4 | [Come volevi essere](https://open.spotify.com/track/6Cvod0V1TVofdbAUyNLhYb) | [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [Come volevi essere](https://open.spotify.com/album/16bYjHqs1R2worFGdbzSWi) | 3:40 |
+| 3 | [Come volevi essere](https://open.spotify.com/track/6Cvod0V1TVofdbAUyNLhYb) | [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [Come volevi essere](https://open.spotify.com/album/16bYjHqs1R2worFGdbzSWi) | 3:40 |
+| 4 | [Sei in un paese meraviglioso](https://open.spotify.com/track/0BaYBfrLf4IwcRQInvXOkF) | [Giancane](https://open.spotify.com/artist/5SHRnc9Tl14jqVV0CTr49B) | [Sei in un paese meraviglioso](https://open.spotify.com/album/1xKqyu6wKTq616wD3zxLuW) | 3:20 |
 | 5 | [Giro Classico](https://open.spotify.com/track/0nXaOtKNdmdsTcIY7Z9UQ1) | [SPEAKEASY](https://open.spotify.com/artist/3LsUtrsqgBVVNELtKFZALx) | [Giro Classico](https://open.spotify.com/album/6u0UqTIYgswW7qdhockYF3) | 3:24 |
 | 6 | [Io Non Sono Come Te](https://open.spotify.com/track/6OB6vU6UMCYTeJ3GNGAEga) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [Io Non Sono Come Te](https://open.spotify.com/album/4H5jHZrJZmKGA1mKgUgnwb) | 3:06 |
 | 7 | [Il Ritorno \(feat\. Meganoidi\)](https://open.spotify.com/track/3wyr7X4CkSiOzwM1UZlPe5) | [dellarabbia](https://open.spotify.com/artist/6Ny93gwcAU5e2da6CzrmRp), [Meganoidi](https://open.spotify.com/artist/0hE20Z0HAEHnVHM0v84MVR) | [Lunganotte](https://open.spotify.com/album/26GDVWVImp4k4bbBuZKZFc) | 3:42 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 52 | [Giovane Distratta](https://open.spotify.com/track/5HVNmsurfkqtCs6Wkj2TEQ) | [MILLE](https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj) | [Quanti Me Ne Dai](https://open.spotify.com/album/7CixYqA6aKwMXEGcaHq3Lr) | 3:08 |
 | 53 | [Radio](https://open.spotify.com/track/3gPJiyqsPT0VeMSxoDtA0j) | [Leanò](https://open.spotify.com/artist/0pb0sehd5pPALyoCt8B4MV) | [Radio](https://open.spotify.com/album/2JDZQBDwn6sQ5QMLolMR9o) | 2:44 |
 
-Snapshot ID: `MCxmYjc1NzQ3ZjFiN2FhMmNjNmU0ZDI3ZTYyMDJhMWFiZmMyNDYyYjA5`
+Snapshot ID: `MCw0Y2FiMzhiYmU1ZWEzNjE3ZmIxYmM2MmJhYTUxMWJmYzk4Yzk3ZDMw`

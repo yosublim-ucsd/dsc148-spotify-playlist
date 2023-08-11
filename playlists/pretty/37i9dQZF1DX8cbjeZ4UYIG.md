@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 
 > Classic tunes that shaped and defined the 90s rave scene \- a unique era for dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,209 likes - 50 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,384 likes - 50 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 9 | [Move Your Body](https://open.spotify.com/track/1VLEbclmTbYS9Rdp1b90Yf) | [Xpansions](https://open.spotify.com/artist/2oSihaE9ObkcZVx2LAxySj) | [Move Your Body \(Elevation\) \- EP](https://open.spotify.com/album/1lzDLTMaIPXUVoVfaADink) | 3:51 |
 | 10 | [Let Me Be Your Fantasy](https://open.spotify.com/track/1rQMmMklXi7k1HreHdD9Tj) | [Baby D](https://open.spotify.com/artist/33ZOI0WTjYkLh5WuwucLhc) | [Deliverance](https://open.spotify.com/album/4IWn4hJRmgNCv1wY8JGBrS) | 7:50 |
 | 11 | [On a Ragga Tip '97 \- Original Mix](https://open.spotify.com/track/7gX6Y2jhsrVqu9qIrxpPof) | [SL2](https://open.spotify.com/artist/30TgkkBf0juP46UUwEYawn) | [On a Ragga Tip '97](https://open.spotify.com/album/6HuS4ewokxN2PuHtyKsaPI) | 5:09 |
-| 12 | [Something Good](https://open.spotify.com/track/22AvpWbOtNTiem8jKDk8QO) | [Utah Saints](https://open.spotify.com/artist/2KB6LGMBaOYYYdvvgyptFH) | [Utah Saints](https://open.spotify.com/album/75Nl51OzRYnIsJEYcY10Bz) | 5:55 |
-| 13 | [Chime \- Edit](https://open.spotify.com/track/5LOKOBboMIbi4moxpjuFL5) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Chime](https://open.spotify.com/album/5Q5TZTTdvn7njWWGNjlJdm) | 3:14 |
+| 12 | [Chime \- Edit](https://open.spotify.com/track/5LOKOBboMIbi4moxpjuFL5) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Chime](https://open.spotify.com/album/5Q5TZTTdvn7njWWGNjlJdm) | 3:14 |
+| 13 | [Something Good](https://open.spotify.com/track/22AvpWbOtNTiem8jKDk8QO) | [Utah Saints](https://open.spotify.com/artist/2KB6LGMBaOYYYdvvgyptFH) | [Utah Saints](https://open.spotify.com/album/75Nl51OzRYnIsJEYcY10Bz) | 5:55 |
 | 14 | [Anthem](https://open.spotify.com/track/5czNuIU6g7l5jpefJRcPR4) | [N Joi](https://open.spotify.com/artist/0hcjDfqTgMJdAY7e83gSxs) | [Anthem](https://open.spotify.com/album/3SFsRy1gfOGmcCpGkPrUSc) | 4:03 |
 | 15 | [It's a Fine Day](https://open.spotify.com/track/67Hp634KZbo9B5WMsJOalE) | [Opus III](https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z) | [Mind Fruit](https://open.spotify.com/album/5qPIkrDnqxksLOFpFYqvEz) | 5:30 |
 | 16 | [Valley of the Shadows](https://open.spotify.com/track/6fzwardfFs6sVfNA5R1ypt) | [Origin Unknown](https://open.spotify.com/artist/6kvXn2MzCLCtsAqf5nbmho) | [Valley of the Shadows](https://open.spotify.com/album/5fWVvxaSJgpESrUvNIk9PF) | 4:40 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 24 | [Energy Flash](https://open.spotify.com/track/46ddej1ibGIgs58H0wakoK) | [Joey Beltram](https://open.spotify.com/artist/4OW0w5K2UNaWtbpRqzWqI0) | [Classics](https://open.spotify.com/album/28lpBShPdRMmQxT2kEAKMq) | 5:50 |
 | 25 | [Maximum Style \(Lover To Lover\)](https://open.spotify.com/track/5aqLROQOpWX2H8Q3b0IB6b) | [Tom & Jerry](https://open.spotify.com/artist/11XdPK1p3uSxX0qiBy5WBZ) | [Jungle Hits, Vol\. 1](https://open.spotify.com/album/6ajFWIR0zVPWu3cBj68B4z) | 4:05 |
 | 26 | [Sweet Love](https://open.spotify.com/track/2XdL95Ifg9gysRDpFWNYWt) | [M\-Beat](https://open.spotify.com/artist/42tN6kVgx34E0Oqk2nef4g), [Nazlin](https://open.spotify.com/artist/7EHyk9B3KdWJFIbMpte5GL) | [Jungle Hits, Vol\. 1](https://open.spotify.com/album/6ajFWIR0zVPWu3cBj68B4z) | 3:58 |
-| 27 | [Such A Good Feeling \- Radio Edit](https://open.spotify.com/track/6eKyW6xYhzQQLq1Rff5uh2) | [Brothers In Rhythm](https://open.spotify.com/artist/0f2HTJx4jowMoiHBH4GzdU) | [Such A Good Feeling](https://open.spotify.com/album/76IesqEEpKbaN6zDzJVhXp) | 3:46 |
-| 28 | [Your Love \- Remix](https://open.spotify.com/track/6vsy0Bg3BeAyq7INPGEA2o) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Experience](https://open.spotify.com/album/7uSC6NXKlE3zGo0mu8Ik5r) | 5:31 |
+| 27 | [Your Love \- Remix](https://open.spotify.com/track/6vsy0Bg3BeAyq7INPGEA2o) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Experience](https://open.spotify.com/album/7uSC6NXKlE3zGo0mu8Ik5r) | 5:31 |
+| 28 | [Such A Good Feeling \- Radio Edit](https://open.spotify.com/track/6eKyW6xYhzQQLq1Rff5uh2) | [Brothers In Rhythm](https://open.spotify.com/artist/0f2HTJx4jowMoiHBH4GzdU) | [Such A Good Feeling](https://open.spotify.com/album/76IesqEEpKbaN6zDzJVhXp) | 3:46 |
 | 29 | [Everybody's Free \(To Feel Good\)](https://open.spotify.com/track/4rkiST7hsHEuU5EMvApemD) | [Rozalla](https://open.spotify.com/artist/2wnJCxpnKAagrdBJAvaDrQ) | [The Very Best of Rozalla](https://open.spotify.com/album/2xLMSSS0oFoJshrOIrvK7b) | 3:31 |
 | 30 | [Injected with a Poison](https://open.spotify.com/track/6pjNPFhhzSho4EYffiV8Pa) | [Praga Khan](https://open.spotify.com/artist/571MZ41OAhLQwOHzW6XfRb) | [Conquers Your Love \(Remastered\)](https://open.spotify.com/album/1TvcBifosVJDio8eHJjuoz) | 5:03 |
 | 31 | [Ain't Talkin' 'Bout Dub](https://open.spotify.com/track/0lk1zdGFPEv6U7omOAqhSs) | [Apollo 440](https://open.spotify.com/artist/37f9cjf8Ic4t7vYNRYAzI7) | [Electro Glide In Blue](https://open.spotify.com/album/5SBkxQjY7zgrKDrpz6vcV8) | 4:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 49 | [It's a Jazz Thing \- Utah Jazz Remix](https://open.spotify.com/track/5eoOlqmQgdThwZolUnW6OH) | [Roni Size](https://open.spotify.com/artist/5UjqeSp9dX6Nrge7WdDukr), [Utah Jazz](https://open.spotify.com/artist/1qDIEHxFTJPRYmLO40RL5e) | [It's a Jazz Thing / It's a Big up Thing \(Remixes\)](https://open.spotify.com/album/2IeYXZiKQaxmd5xXeQm8db) | 6:00 |
 | 50 | [Breaking Free](https://open.spotify.com/track/6oIszilcTZK9FI82NtFxtm) | [Slipmatt](https://open.spotify.com/artist/0F71ra6iKMvn6ndmnaM2Lr) | [We Love Drum & Bass](https://open.spotify.com/album/3etkNXAfN4VUWFfOjC7KNp) | 5:42 |
 
-Snapshot ID: `MCxjMzFkY2QyZDFlMjNmZTNhMTkwNWY5YzBhN2JhYjZjZDY5OTkxMjgz`
+Snapshot ID: `MCw4MGQwMTIwMjQ2MjFmZTJkZTY5NTJlZWE2ZTU5NDc0OTM0ZjI0ZGJi`

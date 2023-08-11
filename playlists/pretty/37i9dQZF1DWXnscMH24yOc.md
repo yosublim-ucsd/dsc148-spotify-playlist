@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,636 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,720 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,12 +79,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 69 | [I Know \(feat\. Fiona Apple\) \- RISE Recording](https://open.spotify.com/track/3SO5iPrvbgXz2XUwjOExDs) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C), [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [I Know \(feat\. Fiona Apple\) \[RISE Recording\]](https://open.spotify.com/album/476o5Va5ObJpc2u0Jwn19z) | 4:59 |
 | 70 | [Nothing Else Matters](https://open.spotify.com/track/1guCON9841cQwAlbNplLsY) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Nothing Else Matters](https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41) | 4:34 |
 | 71 | [Bang Bang \(My Baby Shot Me Down\)](https://open.spotify.com/track/7nghYGsh54yEir2qzPxqyk) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Bang Bang \(My Baby Shot Me Down\)](https://open.spotify.com/album/2U3XfU54vAKKyJUgmnk2sf) | 2:33 |
-| 72 | [Always Be My Baby](https://open.spotify.com/track/5dYs9IhYDPUqlYKILmRXt5) | [Mathew V](https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS) | [The Fifth](https://open.spotify.com/album/40h5bhuUo7CJVtySM2tm2l) | 3:56 |
-| 73 | [Passionfruit](https://open.spotify.com/track/0q9VKvpCJhGEMKRJAdaV9w) | [Wyvern Lingo](https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Passionfruit](https://open.spotify.com/album/5PHrxqS8w1HqoGut9zrW5A) | 3:32 |
+| 72 | [Passionfruit](https://open.spotify.com/track/0q9VKvpCJhGEMKRJAdaV9w) | [Wyvern Lingo](https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Passionfruit](https://open.spotify.com/album/5PHrxqS8w1HqoGut9zrW5A) | 3:32 |
+| 73 | [Always Be My Baby](https://open.spotify.com/track/5dYs9IhYDPUqlYKILmRXt5) | [Mathew V](https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS) | [The Fifth](https://open.spotify.com/album/40h5bhuUo7CJVtySM2tm2l) | 3:56 |
 | 74 | [Love You Like a Love Song](https://open.spotify.com/track/0JnadInlpLB7yLuxyPvSBR) | [Cats On Trees](https://open.spotify.com/artist/3Dcckn2A8PXmu8zLpMuO3B) | [Cats On Trees \(Deluxe Edition\)](https://open.spotify.com/album/490jDU3N2lYBkXm6Ag5A5y) | 3:01 |
 | 75 | [1979](https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [1979](https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg) | 4:50 |
-| 76 | [Waterfalls](https://open.spotify.com/track/4WFdNbQtBQxY9rM7d3E6XC) | [Ten Fé](https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT) | [Waterfalls](https://open.spotify.com/album/3a6JKnmVgeGdxebVWOXGOw) | 4:26 |
-| 77 | [K.](https://open.spotify.com/track/6vG1pcmNGdG6Vu62I9nLGL) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [K.](https://open.spotify.com/album/5zm06yB6kALQUeaUxc8NCO) | 4:29 |
+| 76 | [K.](https://open.spotify.com/track/6vG1pcmNGdG6Vu62I9nLGL) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [K.](https://open.spotify.com/album/5zm06yB6kALQUeaUxc8NCO) | 4:29 |
+| 77 | [Waterfalls](https://open.spotify.com/track/4WFdNbQtBQxY9rM7d3E6XC) | [Ten Fé](https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT) | [Waterfalls](https://open.spotify.com/album/3a6JKnmVgeGdxebVWOXGOw) | 4:26 |
 | 78 | [Zombie](https://open.spotify.com/track/1oPMTvVb57KNBV354DxsX9) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [The City Holds My Heart](https://open.spotify.com/album/0YCSQTk2QkPkHVHeGo1Pbu) | 3:24 |
 | 79 | [It Must Have Been Love](https://open.spotify.com/track/7fQ9Yffz8VAT0rVvo0h98b) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [It Must Have Been Love](https://open.spotify.com/album/7D04exNEkGPr1ciErDGijB) | 4:07 |
 | 80 | [About You Now](https://open.spotify.com/track/0z4eTq4BtDiNN5IFQSUBau) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs) | [Nocturnes](https://open.spotify.com/album/6Jzq1Fi63BPj4aMhXLQ5yH) | 3:47 |
@@ -93,15 +93,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 83 | [Friday I'm in Love](https://open.spotify.com/track/0Mmwl88NJOfr7hSqNWXuwX) | [Oselie](https://open.spotify.com/artist/2WFpP5JesWt9H0zqKesrCJ) | [Friday I'm in Love](https://open.spotify.com/album/3SslCuIYB5WJZnBKYrMmEA) | 2:53 |
 | 84 | [Young & Sad](https://open.spotify.com/track/26BQhYYkG1B8xxbVV423PY) | [Tom Boy](https://open.spotify.com/artist/1fqwhBnYqhrXIHVKkowZrt) | [Young & Sad](https://open.spotify.com/album/6dFIDWKAfp4MGFZlsecOPA) | 3:02 |
 | 85 | [No One's Gonna Love You](https://open.spotify.com/track/6ZwkeOSGSNHvBfkIacgSX3) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [No One's Gonna Love You](https://open.spotify.com/album/7dizp1YraSwZHHbLCGKIz4) | 3:52 |
-| 86 | [In Your Eyes \(Acoustic\)](https://open.spotify.com/track/5dQTVqWnlRhNgGUDbYOf8e) | [Gavin Mikhail](https://open.spotify.com/artist/364ovD0MRp9ezaNTkRoLeA) | [In Your Eyes \(Acoustic\)](https://open.spotify.com/album/4wjW8JiSJksjix88SEnRTQ) | 4:33 |
-| 87 | [My City of Ruins](https://open.spotify.com/track/0F8Ec2ppXwQxDEdMRWEVaX) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Vignettes](https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M) | 4:16 |
+| 86 | [My City of Ruins](https://open.spotify.com/track/0F8Ec2ppXwQxDEdMRWEVaX) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Vignettes](https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M) | 4:16 |
+| 87 | [In Your Eyes \(Acoustic\)](https://open.spotify.com/track/5dQTVqWnlRhNgGUDbYOf8e) | [Gavin Mikhail](https://open.spotify.com/artist/364ovD0MRp9ezaNTkRoLeA) | [In Your Eyes \(Acoustic\)](https://open.spotify.com/album/4wjW8JiSJksjix88SEnRTQ) | 4:33 |
 | 88 | [Love on Top](https://open.spotify.com/track/3enRbi2fzng1duViiUH9rh) | [Sophie Rose](https://open.spotify.com/artist/7zVoS1SW2Btj5qRbtlKuyp) | [Love on Top](https://open.spotify.com/album/1uknqwvaj1ghvDnv9ic8Uv) | 3:48 |
 | 89 | [The Scientist](https://open.spotify.com/track/5aynOMgD0cXpcq8MJXkWjH) | [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [The Scientist](https://open.spotify.com/album/2kcP8pCXX2MiXTN2SmBKCo) | 4:42 |
 | 90 | [Feel Good Inc.](https://open.spotify.com/track/5qeuUnuxiYzdkXZkcWD5gb) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Feel Good Inc.](https://open.spotify.com/album/4FjHmmKcMhmwZJkUWnbSje) | 3:56 |
 | 91 | [Every Breath You Take \(Re:Imagined\)](https://open.spotify.com/track/1sz0fuWEAcPkCfG5o7D9KP) | [Denmark + Winter](https://open.spotify.com/artist/3iieFb3WOWJ8tW57Gixt8y) | [Every Breath You Take \(Re:Imagined\)](https://open.spotify.com/album/3SwpbUHJxGoZQnUCtBltcN) | 3:42 |
 | 92 | [How Deep is Your Love](https://open.spotify.com/track/1JPgqiQrBREyuJTnbL7ON0) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL) | [Undercover Bros.](https://open.spotify.com/album/4EjpYG3pot0QPqjxx1BVRT) | 4:08 |
-| 93 | [I'm On Fire \- From "Fifty Shades Of Grey" Soundtrack](https://open.spotify.com/track/5mOmBubZnYIy9EgMZFlDlZ) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Fifty Shades Of Grey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7cY6OtWTUsLxuSnl8balDe) | 2:34 |
-| 94 | [Higher Love](https://open.spotify.com/track/3NiHRFN1Wvx9c2IYRPD1Zf) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn) | [Higher Love](https://open.spotify.com/album/0qpOhvO4u3yCRQbtrGiHMG) | 3:15 |
+| 93 | [Higher Love](https://open.spotify.com/track/3NiHRFN1Wvx9c2IYRPD1Zf) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn) | [Higher Love](https://open.spotify.com/album/0qpOhvO4u3yCRQbtrGiHMG) | 3:15 |
+| 94 | [I'm On Fire \- From "Fifty Shades Of Grey" Soundtrack](https://open.spotify.com/track/5mOmBubZnYIy9EgMZFlDlZ) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Fifty Shades Of Grey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7cY6OtWTUsLxuSnl8balDe) | 2:34 |
 | 95 | [Nothing's Gonna Hurt You Baby \- From "Promising Young Woman" Soundtrack](https://open.spotify.com/track/0DNJCBqcgQaBndHYHbx57y) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Nothing's Gonna Hurt You Baby \(From "Promising Young Woman" Soundtrack\)](https://open.spotify.com/album/60H1ATlKVSVErAcZtr9rkY) | 3:17 |
 | 96 | [Avant Gardener](https://open.spotify.com/track/6JZH57Qi4g0DgdB8wTeDGS) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Avant Gardener](https://open.spotify.com/album/6pGyMnVTSLITj39L7zDqj4) | 4:19 |
 | 97 | [Hammond Song](https://open.spotify.com/track/4CQ7wd8WopTHgKGr3vVPiJ) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Candid](https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2) | 5:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 99 | [Private Eyes](https://open.spotify.com/track/1xhM41HO1R4okfIi4iKp8o) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Covers, Vol\. 1](https://open.spotify.com/album/3y3pxFKLvqdAyL9RA4Hd3o) | 3:26 |
 | 100 | [Show Me The Meaning Of Being Lonely](https://open.spotify.com/track/4AxIU7R7grPIgl8m6xhvke) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308) | [For The Young](https://open.spotify.com/album/6qd53x1EBxp5wSlmqv9R7B) | 4:09 |
 
-Snapshot ID: `MCwxOTNlZTY5MjIxYWM0YjY5Yjc3ZmZjNmNiMDRjM2VhNDRlMWJkZmYy`
+Snapshot ID: `MCxhMGU0NTg0NDMzM2E1YTAwY2I2NGY0NjgwODQ5MzAwMmMwNDRjMjFj`

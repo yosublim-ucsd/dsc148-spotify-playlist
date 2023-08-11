@@ -1,13 +1,45 @@
 {
   "description": "Listen to the surprise songs from each night of Taylor Swift | The Eras tour",
-  "num_followers": 121985,
+  "num_followers": 122508,
   "original_name": "Surprise Song Era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzRjZGRkMDFlZjgzMWNiOGFjMWE4MDEzMjdkYmM0OGU3NmNiYjlm",
+  "snapshot_id": "MCw5ODk0ODBhNGI4OTNmOWUwN2U0MzRhYjkzZWYxZWViNWNiOWY0YTkw",
   "tracks": [
+    {
+      "added_at": "2023-08-10 20:32:25",
+      "album": {
+        "name": "1989 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/34OkZVpuzBa9y40DCy0LPR"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 230466,
+      "name": "New Romantics",
+      "url": "https://open.spotify.com/track/6rZVy6FIG7lSJQMFXHo12z"
+    },
+    {
+      "added_at": "2023-08-10 20:32:25",
+      "album": {
+        "name": "reputation",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 235466,
+      "name": "New Year\u2019s Day",
+      "url": "https://open.spotify.com/track/7F5oktn5YOsR9eR5YsFtqb"
+    },
     {
       "added_at": "2023-08-09 20:11:08",
       "album": {

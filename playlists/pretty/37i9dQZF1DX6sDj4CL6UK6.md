@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > Top English songs from Asia\. Cover\- Taba Chake
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,367 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,379 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,14 +45,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 35 | [sushi song](https://open.spotify.com/track/5scUVb02Ea6aph7XAb2I7X) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [sushi song](https://open.spotify.com/album/1qByDrxTPVZoultbc0HNyp) | 2:34 |
 | 36 | [Find You](https://open.spotify.com/track/0fxrvyjyQ8Eht15dSh6wa5) | [Pineapple Express](https://open.spotify.com/artist/68l0QuZV2CAaQqXP4o75fn) | [Deja Vu](https://open.spotify.com/album/2I7m8ajkcmyuaYWdVG2VoC) | 4:44 |
 | 37 | [Tangerine Dream](https://open.spotify.com/track/0l466Sdh5FNmn8kSYzSO0E) | [Everydaze](https://open.spotify.com/artist/3zl0vHEKbb53bbQg9ZaN3g) | [Room247](https://open.spotify.com/album/5o3vb0aBtrdSm9JzRHywoD) | 3:49 |
-| 38 | [Walk Away](https://open.spotify.com/track/1gY0QBMjHNX8z8b324VQI9) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Walk Away](https://open.spotify.com/album/0wBxQTwnPhw1HgGkaI4Op0) | 4:32 |
-| 39 | [TATTOO](https://open.spotify.com/track/1LAUJwiUaYOQnwx1u8Q8fQ) | [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks), [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J) | [We Were So Young](https://open.spotify.com/album/6GYty2L58da7ERYD04QGLc) | 3:01 |
+| 38 | [TATTOO](https://open.spotify.com/track/1LAUJwiUaYOQnwx1u8Q8fQ) | [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks), [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J) | [We Were So Young](https://open.spotify.com/album/6GYty2L58da7ERYD04QGLc) | 3:01 |
+| 39 | [Walk Away](https://open.spotify.com/track/1gY0QBMjHNX8z8b324VQI9) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Walk Away](https://open.spotify.com/album/0wBxQTwnPhw1HgGkaI4Op0) | 4:32 |
 | 40 | [Pause](https://open.spotify.com/track/5h1L6nOR9QYXeeNW14aeus) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Pause](https://open.spotify.com/album/3vKSAwLbfwXygEiGH1vpvs) | 2:51 |
 | 41 | [Cool Kids](https://open.spotify.com/track/4EARhoKrvwopHfqiEd4xSo) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [Cool Kids](https://open.spotify.com/album/2nFDQjOYZqRB7THcM5eEqs) | 2:52 |
 | 42 | [so beautiful, with you](https://open.spotify.com/track/30amHpRQprKxYbVh7bVWfl) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [so beautiful, with you](https://open.spotify.com/album/3YLzhNKScvqk93VMMTqYMf) | 3:38 |
 | 43 | [Caught Up](https://open.spotify.com/track/7nVOpausgMrJCk0DXZSTs0) | [Ananya Birla](https://open.spotify.com/artist/7snhzmuew8iLEDxMIhOU1P) | [Caught Up](https://open.spotify.com/album/5cDE0asojLGw60slwj5BED) | 3:27 |
-| 44 | [Love Is Love](https://open.spotify.com/track/6WOsXP6xYpm6KI1oHGiFo0) | [Mismatched \- Cast](https://open.spotify.com/artist/0NbgKDsEHiPzZBZkqZGkXm), [Anoushka Maskey](https://open.spotify.com/artist/2nDgCBr8jDMiGFjTkwR6ph), [Cosmic Grooves](https://open.spotify.com/artist/3dhy3RnTmsYSl0kZwIPOpn) | [Mismatched: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0bPV8j4jfsKeoW5P3YQInX) | 2:52 |
-| 45 | [love is growing](https://open.spotify.com/track/1xzKJE6Q1fOhXLzYOCXXQg) | [Plastic Plastic](https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd) | [love is growing](https://open.spotify.com/album/422FUc3Fc4UG1Cn9CeeOAQ) | 2:58 |
+| 44 | [love is growing](https://open.spotify.com/track/1xzKJE6Q1fOhXLzYOCXXQg) | [Plastic Plastic](https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd) | [love is growing](https://open.spotify.com/album/422FUc3Fc4UG1Cn9CeeOAQ) | 2:58 |
+| 45 | [Love Is Love](https://open.spotify.com/track/6WOsXP6xYpm6KI1oHGiFo0) | [Mismatched \- Cast](https://open.spotify.com/artist/0NbgKDsEHiPzZBZkqZGkXm), [Anoushka Maskey](https://open.spotify.com/artist/2nDgCBr8jDMiGFjTkwR6ph), [Cosmic Grooves](https://open.spotify.com/artist/3dhy3RnTmsYSl0kZwIPOpn) | [Mismatched: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0bPV8j4jfsKeoW5P3YQInX) | 2:52 |
 | 46 | [Am I Overthinking This?](https://open.spotify.com/track/0nHm0hPOwDYwwCbZUs0XKv) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Am I Overthinking This?](https://open.spotify.com/album/54UsiUkSKRfIkSc7qPAhn1) | 2:47 |
 | 47 | [Settle Down](https://open.spotify.com/track/57mB16Xs06a7xpmtazYuLi) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ), [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [Settle Down](https://open.spotify.com/album/56gEUYYtzrS7DHlsF5q7k5) | 2:58 |
 | 48 | [Hopelessly](https://open.spotify.com/track/6HtxhZWccYHCxJrItfrglg) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Hopelessly](https://open.spotify.com/album/7aceEsnN7sznnw0R39Lvfe) | 3:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 74 | [Have You Been Told](https://open.spotify.com/track/5Lz6NqjGEBDNsDDxnygkUJ) | [Edwin Raphael](https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB) | [Have You Been Told](https://open.spotify.com/album/5pHcP8GHanM9jb6k9sDris) | 3:01 |
 | 75 | [Dear Us](https://open.spotify.com/track/1Yt5Jo4jR1eLpxAj05vCvN) | [Jeremiah de Rozario](https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna) | [Dear Us](https://open.spotify.com/album/3cauT2XM9GVuKgnv0uUEtm) | 3:06 |
 
-Snapshot ID: `MCwwMDBiNzgwMDg0Mzg4YzE5OWRiNWRiNDYwNjYwMTllMTcyZGRkNjgx`
+Snapshot ID: `MCw1NjVjZDQ1N2M1NmJhYTQ4ZjhiMDJmNGExYTliZjllMTQ3NTJmNmEy`

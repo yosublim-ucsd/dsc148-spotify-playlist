@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 
 > Blues \- new and old \- to accompany your drive\. Cover: B.B\. King
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,749 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,838 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 | 8 | [Boom Boom](https://open.spotify.com/track/2Mr1bGI2E10K7Mt1UJZ6Mw) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Burnin'](https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz) | 2:32 |
 | 9 | [Blue on Black](https://open.spotify.com/track/7GRq9NUgqhxPGUUksX02fk) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Trouble Is...](https://open.spotify.com/album/1ODpJWe2bymqj4DyJfuBE9) | 5:33 |
 | 10 | [Black Magic Woman](https://open.spotify.com/track/4nmne9J3YCEdhvjTzwiAgu) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Ultimate Santana](https://open.spotify.com/album/6FbFvnlSfEoNhwz5MdK0Dx) | 3:15 |
-| 11 | [Right Place Wrong Time](https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [In The Right Place](https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq) | 2:55 |
-| 12 | [Going Down](https://open.spotify.com/track/2wnjZXcAT3rCjjqxLeHjv7) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Getting Ready..\. \(World\)](https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI) | 3:24 |
+| 11 | [Going Down](https://open.spotify.com/track/2wnjZXcAT3rCjjqxLeHjv7) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Getting Ready..\. \(World\)](https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI) | 3:24 |
+| 12 | [Right Place Wrong Time](https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [In The Right Place](https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq) | 2:55 |
 | 13 | [Route 66](https://open.spotify.com/track/6TXnGAr6DLVYshIrMeP0lZ) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [New Juke Box Hits](https://open.spotify.com/album/66vytUOJAN0XG0AomrREtH) | 2:51 |
 | 14 | [Goodbye Carolina](https://open.spotify.com/track/6lNGQqEos6i2KxISBn24Xc) | [The Marcus King Band](https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9) | [Goodbye Carolina](https://open.spotify.com/album/0YQSSpPZgvUvGWJCKZbYj7) | 4:01 |
 | 15 | [Spoonful](https://open.spotify.com/track/7j02rdE5RVtNcNMuLGY5SS) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf](https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl) | 2:50 |
@@ -51,16 +51,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 | 41 | [I'd Rather Go Blind](https://open.spotify.com/track/3BF9J3DjZuNKcfiAwkTsWK) | [Beth Hart, Joe Bonamassa](https://open.spotify.com/artist/5n1XQGBfQhNsALjJs0APL5) | [Don't Explain](https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT) | 8:06 |
 | 42 | [Nick Of Time](https://open.spotify.com/track/1gqk2dawfdLdn4XamF27cx) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Nick Of Time](https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln) | 3:52 |
 | 43 | [Cold Shot](https://open.spotify.com/track/3QwDN08fGnGfRrsn5wLTej) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Couldn't Stand The Weather \(Legacy Edition\)](https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ) | 4:00 |
-| 44 | [I Ain't Drunk \- Remastered](https://open.spotify.com/track/1pPrO5Lcx9UXNebcloGeHE) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Cold Snap \(Remastered\)](https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9) | 4:07 |
-| 45 | [Working Man](https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Mourning In The Morning](https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe) | 2:27 |
+| 44 | [Working Man](https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Mourning In The Morning](https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe) | 2:27 |
+| 45 | [I Ain't Drunk \- Remastered](https://open.spotify.com/track/1pPrO5Lcx9UXNebcloGeHE) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Cold Snap \(Remastered\)](https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9) | 4:07 |
 | 46 | [The Sky Is Crying](https://open.spotify.com/track/1cRTAPP2FG9h2WiYMOIVIK) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:46 |
 | 47 | [Take It All](https://open.spotify.com/track/2H0s28N3rendfnepsj48C6) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [Wolf Den](https://open.spotify.com/album/72iUWLyrZgp7WUAIaqX0Np) | 2:57 |
 | 48 | [Three O'Clock Blues](https://open.spotify.com/track/6lWxIJH0CyUtmFaIAeVmTQ) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding With The King](https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c) | 8:36 |
 | 49 | [Outside Of This Town](https://open.spotify.com/track/1huWqmpiYksaPppQHLDhZP) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 4:08 |
 | 50 | [Don't Owe You a Thang](https://open.spotify.com/track/4iu49FeQQGiUh2Dn1A8qCl) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [The Bright Lights EP](https://open.spotify.com/album/4KTVPkJdjNjQtP8J6S67sG) | 3:35 |
 | 51 | [Wang Dang Doodle](https://open.spotify.com/track/1cXc92MX9kFjMrrDsvdf9w) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Koko Taylor](https://open.spotify.com/album/4kUcacQmakJzzQ0UppaBTy) | 3:02 |
-| 52 | [Life Is Beautiful](https://open.spotify.com/track/3mtUR8aNUoMblqX49YzVF3) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Suitcase](https://open.spotify.com/album/39Sd7IZSx6vUejzS14bLV7) | 4:16 |
-| 53 | [Just a Game](https://open.spotify.com/track/2HCG5XvSejkjtGnUx0A8Sb) | [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [Baby, Please Come Home \(Bonus Version\)](https://open.spotify.com/album/4dcO5CmDykJdNP9CTOPKYD) | 2:57 |
+| 52 | [Just a Game](https://open.spotify.com/track/2HCG5XvSejkjtGnUx0A8Sb) | [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [Baby, Please Come Home \(Bonus Version\)](https://open.spotify.com/album/4dcO5CmDykJdNP9CTOPKYD) | 2:57 |
+| 53 | [Life Is Beautiful](https://open.spotify.com/track/3mtUR8aNUoMblqX49YzVF3) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Suitcase](https://open.spotify.com/album/39Sd7IZSx6vUejzS14bLV7) | 4:16 |
 | 54 | [Voodoo Child \(Slight Return\)](https://open.spotify.com/track/1kY6OOTBmRNzhYmu9xSH3a) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Couldn't Stand The Weather \(Legacy Edition\)](https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ) | 7:58 |
 | 55 | [Hold Me](https://open.spotify.com/track/4QlhhWO6nq5BzSpfU4nJs0) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 3:07 |
 | 56 | [Bad News Is Coming](https://open.spotify.com/track/1TRIYxcVJYPki5AX2hZzZT) | [Luther Allison](https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv) | [Bad News Is Coming](https://open.spotify.com/album/7wTiVd5wU0aFVXxceOsvHT) | 7:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 | 99 | [Hungry Heart](https://open.spotify.com/track/540DkRIAjWwRwON3v9ll6M) | [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd), [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Push The Blues Away](https://open.spotify.com/album/3JwlzjuJ47e8tx2Y7AbKfl) | 3:21 |
 | 100 | [Fresh Out](https://open.spotify.com/track/0hLEks6H1dPXioRyyHWCBz) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 3:48 |
 
-Snapshot ID: `MCw1MjE0Mzg4OGY2MDhiYTNhZDBlNzI3M2E5MTkzNGMwY2I1NDUxYWU1`
+Snapshot ID: `MCxiMDYxNzg0M2MwODRkNzAwYWFkZmI0M2Y0NTkxOWVmMzFhYmU0ZjEy`

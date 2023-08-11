@@ -1,12 +1,12 @@
 {
   "description": "Eagles, The Byrds and all your favorite country rock",
-  "num_followers": 143907,
+  "num_followers": 143973,
   "original_name": "Country Rock Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZGU4ZjM2Y2ExMmFiYzk0ZDRmYzA1NzU1NGVhODVlOTZhNjk1ZmQ5",
+  "snapshot_id": "MCw4YWZkN2MzOWJkY2EyYWU5YzM1OGEzM2M1NTA3MzdhNzM2M2U2Njhm",
   "tracks": [
     {
       "added_at": "2020-08-05 15:52:11",
@@ -123,22 +123,6 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Sweetheart Of The Rodeo",
-        "url": "https://open.spotify.com/album/02XyFDfvHfIwtqOC3o0PcK"
-      },
-      "artists": [
-        {
-          "name": "The Byrds",
-          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
-        }
-      ],
-      "duration_ms": 153466,
-      "name": "You Ain't Goin' Nowhere",
-      "url": "https://open.spotify.com/track/6kPxXhjSvy8RsmZBAJUiFs"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
         "name": "The Distance",
         "url": "https://open.spotify.com/album/0uaavZx8ako3Kb6GFpb1G1"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 295053,
       "name": "Shame On The Moon",
       "url": "https://open.spotify.com/track/1Gxaks4MTbjMCAQ20rx4Iy"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Sweetheart Of The Rodeo",
+        "url": "https://open.spotify.com/album/02XyFDfvHfIwtqOC3o0PcK"
+      },
+      "artists": [
+        {
+          "name": "The Byrds",
+          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+        }
+      ],
+      "duration_ms": 153466,
+      "name": "You Ain't Goin' Nowhere",
+      "url": "https://open.spotify.com/track/6kPxXhjSvy8RsmZBAJUiFs"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -397,20 +397,20 @@
       "url": "https://open.spotify.com/track/6vOV8fmbk16LYgL2CQ64ih"
     },
     {
-      "added_at": "2022-06-01 14:18:36",
+      "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Song for Juli",
-        "url": "https://open.spotify.com/album/16oYFyuJ9DClLnPsH4I5qW"
+        "name": "Manassas",
+        "url": "https://open.spotify.com/album/427BvOYZQRjTHODnreiZCo"
       },
       "artists": [
         {
-          "name": "Jesse Colin Young",
-          "url": "https://open.spotify.com/artist/2pJn4djuWrNQbNfrxHB13M"
+          "name": "Stephen Stills",
+          "url": "https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX"
         }
       ],
-      "duration_ms": 244133,
-      "name": "Morning Sun",
-      "url": "https://open.spotify.com/track/2XI5jIhGo6Mx455FUGm8Sb"
+      "duration_ms": 172533,
+      "name": "Colorado",
+      "url": "https://open.spotify.com/track/6VyuVYEJnZmlEQ5GT9LQvT"
     },
     {
       "added_at": "2022-06-01 14:20:20",
@@ -429,20 +429,20 @@
       "url": "https://open.spotify.com/track/5ro7xAxDVbtabTl8t3MzHz"
     },
     {
-      "added_at": "2020-08-05 15:52:11",
+      "added_at": "2022-06-01 14:18:36",
       "album": {
-        "name": "Manassas",
-        "url": "https://open.spotify.com/album/427BvOYZQRjTHODnreiZCo"
+        "name": "Song for Juli",
+        "url": "https://open.spotify.com/album/16oYFyuJ9DClLnPsH4I5qW"
       },
       "artists": [
         {
-          "name": "Stephen Stills",
-          "url": "https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX"
+          "name": "Jesse Colin Young",
+          "url": "https://open.spotify.com/artist/2pJn4djuWrNQbNfrxHB13M"
         }
       ],
-      "duration_ms": 172533,
-      "name": "Colorado",
-      "url": "https://open.spotify.com/track/6VyuVYEJnZmlEQ5GT9LQvT"
+      "duration_ms": 244133,
+      "name": "Morning Sun",
+      "url": "https://open.spotify.com/track/2XI5jIhGo6Mx455FUGm8Sb"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -839,18 +839,18 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Ton-Ton Macoute!",
-        "url": "https://open.spotify.com/album/5PCm5Bvheyg4QeuF5lfkum"
+        "name": "Dance A Little Light",
+        "url": "https://open.spotify.com/album/0TuDxWKVA21dJJtM14Ghfs"
       },
       "artists": [
         {
-          "name": "Johnny Jenkins",
-          "url": "https://open.spotify.com/artist/3ghDyCR4DJVjwfcjNHUD27"
+          "name": "Richie Furay",
+          "url": "https://open.spotify.com/artist/2KpCZazKx8c2qBDtNXvmvf"
         }
       ],
-      "duration_ms": 205093,
-      "name": "Down Along The Cove",
-      "url": "https://open.spotify.com/track/2jigzHqXdUlpAlmSeaVSeU"
+      "duration_ms": 233066,
+      "name": "Someone Who Cares",
+      "url": "https://open.spotify.com/track/2eSySlmf3c5114MaxAVaAS"
     }
   ],
   "unique_name": "Country Rock Classics",

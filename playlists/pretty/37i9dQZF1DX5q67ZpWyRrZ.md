@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q67ZpWyRrZ.md) - [plain]
 
 > Best of the Indian Indie scene\. Cover \- Shreya Jain
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,579 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,193 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q67ZpWyRrZ.md) - [plain]
 | 10 | [Narazi](https://open.spotify.com/track/0Dea6lSNStSGx3XiLqXIT9) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe) | [Narazi](https://open.spotify.com/album/4QsYPssQ2NAtPdM3sEQGbq) | 2:48 |
 | 11 | [Aisi Woh Baarish](https://open.spotify.com/track/3XjjpMYeKHGiiI9oM8rwSF) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Aisi Woh Baarish](https://open.spotify.com/album/0XCgG0d1PVfqfGd0k4ryWG) | 3:07 |
 | 12 | [Antariksh](https://open.spotify.com/track/3JJtci5fSMdxYCVoHRHX2h) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Antariksh](https://open.spotify.com/album/41c3IoL1qIAvR38l2kB7Zj) | 2:45 |
-| 13 | [Junoon](https://open.spotify.com/track/6RhlD5GzvU7ldIZuJjUpYu) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Junoon](https://open.spotify.com/album/4KA5BoR2KMS1r1sAeboAtB) | 3:11 |
+| 13 | [Junoon](https://open.spotify.com/track/1orJGWzbhRYpd44WHJ6gMX) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Junoon](https://open.spotify.com/album/2gHK3nRcJproG8BJnGXBRp) | 3:13 |
 | 14 | [Mera Safar](https://open.spotify.com/track/2AB7fsbG0eZJjDGile69CQ) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Mera Safar](https://open.spotify.com/album/5MaDDfFcO8Eao37Crt324Q) | 3:10 |
 | 15 | [Heer Ranjha](https://open.spotify.com/track/3wwLWFRLiReDf5AqgmAJwT) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Rana Sotal](https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y) | [Heer Ranjha](https://open.spotify.com/album/5jZOJxJvZj63YKrPEWPy63) | 3:43 |
 | 16 | [Khwaab](https://open.spotify.com/track/0iEdt7cayQ2XbicDeWFztj) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khwaab](https://open.spotify.com/album/2kNkewZHbS6gbDlDoIqFy4) | 2:58 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q67ZpWyRrZ.md) - [plain]
 | 74 | [Saal](https://open.spotify.com/track/2S3erlZaNr7EGakVORv619) | [Ishpreet Singh](https://open.spotify.com/artist/0uYkdsYTX52nJ3iiER4rg9), [Khushraj Hussain](https://open.spotify.com/artist/2F4iyLhAJANxKrKl3Iw9Dh) | [Saal](https://open.spotify.com/album/5WZa0b0DV0zS6K3sEWAuKP) | 3:08 |
 | 75 | [Noor](https://open.spotify.com/track/3p2WQ8mlRhETkOxcn8tVDc) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [Noor](https://open.spotify.com/album/6FsuMwzuqjWhy9OIA3pY5R) | 2:38 |
 
-Snapshot ID: `MCxiNWE5MjQ0NWNlMTBlZmVjNzM0N2FkMzY0ZTQzN2Q5ODYwYmFmNWJl`
+Snapshot ID: `MCwxOWU3MzA1ZDI2ODAzNjAyYmZmYmJhNTFiZTg2NDc2OWIxMDEyZjQw`

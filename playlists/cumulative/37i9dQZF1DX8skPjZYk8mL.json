@@ -88,7 +88,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 104500,
       "name": "A House on the Prairie",
       "url": "https://open.spotify.com/track/0d9XVdHfqT8HDxK1dVK4yy"
@@ -272,6 +272,24 @@
       "duration_ms": 69189,
       "name": "A Tall Tale",
       "url": "https://open.spotify.com/track/6P14smwG7qUke1fmruPLY2"
+    },
+    {
+      "album": {
+        "name": "A Whole New World",
+        "url": "https://open.spotify.com/album/5Gj1oFZH9TMinqRYlBZamz"
+      },
+      "artists": [
+        {
+          "name": "Roly-Poly",
+          "url": "https://open.spotify.com/artist/5a9O7IJkApBb6B35ldcalw"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130332,
+      "name": "A Whole New World",
+      "url": "https://open.spotify.com/track/70XfRqJlXeFz9xHsfvN6Ti"
     },
     {
       "album": {
@@ -560,6 +578,24 @@
       "duration_ms": 114374,
       "name": "Always beside you",
       "url": "https://open.spotify.com/track/4clLkBuNnbkzVT0i0kbYlH"
+    },
+    {
+      "album": {
+        "name": "Always By Your Side",
+        "url": "https://open.spotify.com/album/3I3tkEV6bQHjeibbURN1IO"
+      },
+      "artists": [
+        {
+          "name": "Eijah Nilson",
+          "url": "https://open.spotify.com/artist/4ve0embkjqNplBGRueIkHs"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97363,
+      "name": "Always By your Side",
+      "url": "https://open.spotify.com/track/633Ncfz9y69Or7MGorp4KT"
     },
     {
       "album": {
@@ -862,7 +898,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 117902,
       "name": "Babblarnas vaggvisa",
       "url": "https://open.spotify.com/track/5uUBBxRCra5nkzhMDumebO"
@@ -1481,6 +1517,24 @@
     },
     {
       "album": {
+        "name": "Blissful Reverie",
+        "url": "https://open.spotify.com/album/4iCzQCuhn1EkYKNkYe0n8H"
+      },
+      "artists": [
+        {
+          "name": "Alex Dawa",
+          "url": "https://open.spotify.com/artist/6btZeIxzYQSnzutRBcyUlV"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161216,
+      "name": "Blissful Reverie",
+      "url": "https://open.spotify.com/track/1NdUEVPr0YTCLEBLIbPXP6"
+    },
+    {
+      "album": {
         "name": "Blossom",
         "url": "https://open.spotify.com/album/3wln5OEsdxPWHVaFl9EhEz"
       },
@@ -1582,10 +1636,46 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 106092,
       "name": "Brahms Lullaby",
       "url": "https://open.spotify.com/track/2VZF8Q8GoTGQPSOZikEAZl"
+    },
+    {
+      "album": {
+        "name": "My Guitar Lullabies",
+        "url": "https://open.spotify.com/album/2SY1QZEXNnESmB8KeRgvN8"
+      },
+      "artists": [
+        {
+          "name": "Mino Lawrence",
+          "url": "https://open.spotify.com/artist/7HHsz4iMR3pWHCusoe8Yyb"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "Brahms Lullaby",
+      "url": "https://open.spotify.com/track/7ikUx1ac0iqOSvjvROKX8L"
+    },
+    {
+      "album": {
+        "name": "Breathing",
+        "url": "https://open.spotify.com/album/4O1Q00FDVBKrb7Gw9sbmWe"
+      },
+      "artists": [
+        {
+          "name": "Sandra Forster",
+          "url": "https://open.spotify.com/artist/3TLHL40IaEycdPNoxTqK3a"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94750,
+      "name": "Breathing",
+      "url": "https://open.spotify.com/track/4QCKiWC9Q2IMiASCzlAXPv"
     },
     {
       "album": {
@@ -2129,6 +2219,24 @@
     },
     {
       "album": {
+        "name": "Clouds In The Sky",
+        "url": "https://open.spotify.com/album/6JjW4ufwIc7DJjDKrPzvhs"
+      },
+      "artists": [
+        {
+          "name": "Ebbe & Lilly",
+          "url": "https://open.spotify.com/artist/26zaS9jwYG7PxrixBvYXGA"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "Clouds In The Sky",
+      "url": "https://open.spotify.com/track/2sQx2mxgTBjIthJ1ZTlJFX"
+    },
+    {
+      "album": {
         "name": "Colorful Cradle",
         "url": "https://open.spotify.com/album/5hUrWZiRNULGZ4W8tXKSNg"
       },
@@ -2633,6 +2741,24 @@
     },
     {
       "album": {
+        "name": "Dear teddy",
+        "url": "https://open.spotify.com/album/3ZbPpGwQi06bp9PofzISBF"
+      },
+      "artists": [
+        {
+          "name": "Karl Schintz",
+          "url": "https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97000,
+      "name": "Dear teddy",
+      "url": "https://open.spotify.com/track/4McgjQHfTD9NkXCOOKhIcn"
+    },
+    {
+      "album": {
         "name": "Deep Sleep Lullaby",
         "url": "https://open.spotify.com/album/1PjWDhPpPkli4PX0npleRO"
       },
@@ -2788,7 +2914,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 80540,
       "name": "Don\u2019t Be Afraid",
       "url": "https://open.spotify.com/track/4e2Nt0Vn5yV1RC7jTEyHNQ"
@@ -3026,6 +3152,24 @@
       "duration_ms": 133965,
       "name": "Dreamland Serenade",
       "url": "https://open.spotify.com/track/6Uj1Q4hlJkzYj2ecO7Z84i"
+    },
+    {
+      "album": {
+        "name": "Dreamland's Song",
+        "url": "https://open.spotify.com/album/6jKdF5s4iemCCfwaGA1AT5"
+      },
+      "artists": [
+        {
+          "name": "Becca Lopez",
+          "url": "https://open.spotify.com/artist/2mRiC2nopm5eEUJASCovKj"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91061,
+      "name": "Dreamland's Song",
+      "url": "https://open.spotify.com/track/6ruIhWb5MUGmahxV1fa4wY"
     },
     {
       "album": {
@@ -4127,6 +4271,24 @@
     },
     {
       "album": {
+        "name": "Frog On A Leaf",
+        "url": "https://open.spotify.com/album/4NrH1RwY1aQWPxBMrqHxI5"
+      },
+      "artists": [
+        {
+          "name": "Anita Nightingale",
+          "url": "https://open.spotify.com/artist/2k7EJjhofUBtbOosFYuiCQ"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65737,
+      "name": "Frog On A Leaf",
+      "url": "https://open.spotify.com/track/1ljnxWnU5FnfBGS7JNtRut"
+    },
+    {
+      "album": {
         "name": "From My Heart",
         "url": "https://open.spotify.com/album/1908AsfmF9uDmDobFgTqkT"
       },
@@ -4138,7 +4300,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 99500,
       "name": "From My Heart",
       "url": "https://open.spotify.com/track/2tFIVTK6HMxsqW9wDMn6fG"
@@ -5186,6 +5348,24 @@
       "duration_ms": 127200,
       "name": "How I Miss You-MusicBox",
       "url": "https://open.spotify.com/track/1e8qUb4z8NujcZQGXPctVq"
+    },
+    {
+      "album": {
+        "name": "Hug me",
+        "url": "https://open.spotify.com/album/65Z43jJ1uuaE88S0tNs2Zu"
+      },
+      "artists": [
+        {
+          "name": "Vinga",
+          "url": "https://open.spotify.com/artist/0tUQaRAVEBx927JquVwztK"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95930,
+      "name": "Hug me",
+      "url": "https://open.spotify.com/track/6rCfYvkE9unP7z2ARBaJZ3"
     },
     {
       "album": {
@@ -6917,6 +7097,24 @@
     },
     {
       "album": {
+        "name": "Lottie, My Friend",
+        "url": "https://open.spotify.com/album/0nUfTXSW8LFlefjQALTeuJ"
+      },
+      "artists": [
+        {
+          "name": "Alice Greye",
+          "url": "https://open.spotify.com/artist/4RdZNnJK1W6fJNOr9KrKpn"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93224,
+      "name": "Lottie, My Friend",
+      "url": "https://open.spotify.com/track/6bZSpPlfY3GUzhl4c6H1CG"
+    },
+    {
+      "album": {
         "name": "Love Me Tender",
         "url": "https://open.spotify.com/album/4W6fKBHwkPIHwCrKaQq3qo"
       },
@@ -7277,6 +7475,24 @@
     },
     {
       "album": {
+        "name": "Meadow",
+        "url": "https://open.spotify.com/album/261uRNYbDr1XvPJrOdHtVS"
+      },
+      "artists": [
+        {
+          "name": "Selma June",
+          "url": "https://open.spotify.com/artist/2f08UC5AufQFaVZi8r6V91"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137322,
+      "name": "Meadow",
+      "url": "https://open.spotify.com/track/4Jdbwh9Zpxt2NDdtP386ys"
+    },
+    {
+      "album": {
         "name": "Merrily We Roll Along",
         "url": "https://open.spotify.com/album/0hlAAwwQ8rOTvDt78fZzCW"
       },
@@ -7490,6 +7706,24 @@
       "duration_ms": 82010,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/3J6dgORs9qkS4nJwctiMdp"
+    },
+    {
+      "album": {
+        "name": "Moonflight",
+        "url": "https://open.spotify.com/album/1vjAiGVrTiGoYUNbhBMoi2"
+      },
+      "artists": [
+        {
+          "name": "Georgia Faingold",
+          "url": "https://open.spotify.com/artist/2OynITaK8BC9oXr5Q7vd7V"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100461,
+      "name": "Moonflight",
+      "url": "https://open.spotify.com/track/3s9zIXife8Pdx8SjMg07Ju"
     },
     {
       "album": {
@@ -7889,6 +8123,24 @@
     },
     {
       "album": {
+        "name": "My Deer Friend",
+        "url": "https://open.spotify.com/album/41qgkgJTMGPgJsSGfKQWOE"
+      },
+      "artists": [
+        {
+          "name": "Ani Ander",
+          "url": "https://open.spotify.com/artist/4tgweMpFuTmUl1mXLTgb4W"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113500,
+      "name": "My Deer Friend",
+      "url": "https://open.spotify.com/track/49EEQXTPYcKUeoBbXXCtcd"
+    },
+    {
+      "album": {
         "name": "My Dolly and Me",
         "url": "https://open.spotify.com/album/7eL1oomj56CxC23VsjeYf4"
       },
@@ -8246,6 +8498,24 @@
       "duration_ms": 90750,
       "name": "My Snoring Grandpa",
       "url": "https://open.spotify.com/track/5pkG46lDxh0izZfuwqL6Xl"
+    },
+    {
+      "album": {
+        "name": "My sun",
+        "url": "https://open.spotify.com/album/2gXWh2QeeX0AkgLUQpgN5T"
+      },
+      "artists": [
+        {
+          "name": "Juno Yang",
+          "url": "https://open.spotify.com/artist/56eIS6isBmK4l3hoJlzCxP"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92741,
+      "name": "My sun",
+      "url": "https://open.spotify.com/track/1nU4KLmkano6ebuD6ruzwU"
     },
     {
       "album": {
@@ -9016,7 +9286,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 78065,
       "name": "Pop Goes the Weasel",
       "url": "https://open.spotify.com/track/4EsbzD1hbc4Kk7utFWGwIV"
@@ -9092,6 +9362,24 @@
       "duration_ms": 114744,
       "name": "Que Linda Manita",
       "url": "https://open.spotify.com/track/3hkWnZsvoijkchr5KMxTXG"
+    },
+    {
+      "album": {
+        "name": "Baby Lullabies",
+        "url": "https://open.spotify.com/album/0h1oogrKRSjdKbigLoQFwj"
+      },
+      "artists": [
+        {
+          "name": "Zuri\u00f1e Ilaria",
+          "url": "https://open.spotify.com/artist/3nuIaWShg2iLdwSq2cSqGx"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112267,
+      "name": "Quiet Night",
+      "url": "https://open.spotify.com/track/5LYbJfH5SvlAxAgQKrv2wu"
     },
     {
       "album": {
@@ -10096,7 +10384,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 92608,
       "name": "Sleeping Bird",
       "url": "https://open.spotify.com/track/2Sb2fYbyyLWEGvh4xxfKvs"
@@ -10406,6 +10694,24 @@
       "duration_ms": 73170,
       "name": "Sleepy times",
       "url": "https://open.spotify.com/track/4e1OHtiK4WiYF3P4yIqWye"
+    },
+    {
+      "album": {
+        "name": "Sleepyhead",
+        "url": "https://open.spotify.com/album/44iewUj5sVYuiyr5odeCkL"
+      },
+      "artists": [
+        {
+          "name": "Emelie Strand",
+          "url": "https://open.spotify.com/artist/5uPtjigxXY6RYZAdvxAT96"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87000,
+      "name": "Sleepyhead",
+      "url": "https://open.spotify.com/track/7xVQL5SFh8o3k3IIvpKuxV"
     },
     {
       "album": {
@@ -10978,10 +11284,28 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 76903,
       "name": "Stars At Night",
       "url": "https://open.spotify.com/track/04V70vnq3Nzdsm2EBEVG2Q"
+    },
+    {
+      "album": {
+        "name": "Cozy Evening",
+        "url": "https://open.spotify.com/album/1QfZNlNZN8UIaervJMkTlp"
+      },
+      "artists": [
+        {
+          "name": "Paige Rosen",
+          "url": "https://open.spotify.com/artist/5Tx246eTkaAi5ZzjBNyNmn"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168824,
+      "name": "Stars From Afar",
+      "url": "https://open.spotify.com/track/6xO6mruU9Ptgfm6VjA2cSa"
     },
     {
       "album": {
@@ -11374,7 +11698,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 127136,
       "name": "Sweetest Dreams",
       "url": "https://open.spotify.com/track/0cymBq49LPSc0tyWDLJ997"
@@ -11486,6 +11810,24 @@
       "duration_ms": 83828,
       "name": "Takk for i dag",
       "url": "https://open.spotify.com/track/3HER5Z79EqP5jrbAhnpFRm"
+    },
+    {
+      "album": {
+        "name": "Teddy Bear",
+        "url": "https://open.spotify.com/album/1LVv9eTEFERZ7aN28air3G"
+      },
+      "artists": [
+        {
+          "name": "Rennie Stoltz",
+          "url": "https://open.spotify.com/artist/0rQJK4fjWXU3Rk9Oee6GQc"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99609,
+      "name": "Teddy Bear",
+      "url": "https://open.spotify.com/track/5VZ6CpuKkrgVfQ65i2963o"
     },
     {
       "album": {
@@ -11774,6 +12116,24 @@
       "duration_ms": 119752,
       "name": "The Magic Boat Ride",
       "url": "https://open.spotify.com/track/4rPGjWNP1zmUlBWdi86CK1"
+    },
+    {
+      "album": {
+        "name": "The Moon and Me",
+        "url": "https://open.spotify.com/album/1yi1eGXZv5lVIfSoq6a5lu"
+      },
+      "artists": [
+        {
+          "name": "Na\u00e9li Gosally",
+          "url": "https://open.spotify.com/artist/3USC0JkWo1du1xVV3AuVyh"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94494,
+      "name": "The Moon and Me",
+      "url": "https://open.spotify.com/track/28PZHFYICfuG2LvyfTH3NB"
     },
     {
       "album": {
@@ -12742,7 +13102,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 81702,
       "name": "Twinkle",
       "url": "https://open.spotify.com/track/3p8jIuNsUTVG5PHyyr0G6W"
@@ -12760,7 +13120,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 80155,
       "name": "Twinkle",
       "url": "https://open.spotify.com/track/74GGiDx1ffmes4p506vhnT"
@@ -12800,6 +13160,24 @@
       "duration_ms": 91500,
       "name": "Two Thumbs Up",
       "url": "https://open.spotify.com/track/4ZMewuctVgUDOar3FNNgjC"
+    },
+    {
+      "album": {
+        "name": "Under The Stars",
+        "url": "https://open.spotify.com/album/0fVdJEnEH3YXxuhUW44FMH"
+      },
+      "artists": [
+        {
+          "name": "Dore Mi",
+          "url": "https://open.spotify.com/artist/4njrMBDibPhATgAffWWFZM"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126820,
+      "name": "Under The Stars",
+      "url": "https://open.spotify.com/track/0UrLq7AAYYmqPV2E1pvivm"
     },
     {
       "album": {

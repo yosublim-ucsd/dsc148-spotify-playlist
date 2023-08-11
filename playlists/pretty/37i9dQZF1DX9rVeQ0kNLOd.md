@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,058 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,077 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 44 | [アルジャーノン](https://open.spotify.com/track/0L1E2JmrZk6QU9261PtJWQ) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [アルジャーノン](https://open.spotify.com/album/38aExI5zPQwJBbcLX200A4) | 4:14 |
 | 45 | [Yoidoreshirazu](https://open.spotify.com/track/26zbAdTJC4vqqpGwSzvh8Q) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Yoidoreshirazu](https://open.spotify.com/album/32sf8CyAb7MtRbVTDJrWQA) | 2:14 |
 | 46 | [Wonderland](https://open.spotify.com/track/3DMz5XiVasCKSHXgYrSc9i) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Shade](https://open.spotify.com/album/54Xk8agoEmBJtxl0qMwixB) | 3:44 |
-| 47 | [カタコト](https://open.spotify.com/track/1uYDXSXxBBZSNUs2dfbTxT) | [sloppy dim](https://open.spotify.com/artist/6uMBnBtHeJmhc2tx1vDCae) | [カタコト](https://open.spotify.com/album/0YhpfFtWqIZxnHLgnURBA7) | 2:38 |
-| 48 | [W / X / Y](https://open.spotify.com/track/3cBghvTcQNDNkW98Y4eGaP) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [Memories](https://open.spotify.com/album/1aYWdnbKO3asqDUruOl2cY) | 4:38 |
+| 47 | [W / X / Y](https://open.spotify.com/track/3cBghvTcQNDNkW98Y4eGaP) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [Memories](https://open.spotify.com/album/1aYWdnbKO3asqDUruOl2cY) | 4:38 |
+| 48 | [カタコト](https://open.spotify.com/track/1uYDXSXxBBZSNUs2dfbTxT) | [sloppy dim](https://open.spotify.com/artist/6uMBnBtHeJmhc2tx1vDCae) | [カタコト](https://open.spotify.com/album/0YhpfFtWqIZxnHLgnURBA7) | 2:38 |
 | 49 | [The Flame of Love](https://open.spotify.com/track/2oev55FkAarRLdWfxIn3jw) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [The Flame of Love](https://open.spotify.com/album/3JsRRbjskRuX0R91h5baYz) | 3:19 |
 | 50 | [ひとつのいのち \(feat\. BIM\)](https://open.spotify.com/track/4AbZgR1V8c4zE63y51GXOL) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [ひとつのいのち \(feat\. BIM\)](https://open.spotify.com/album/2Ch3x7EBMLRxBq9RWOzyQv) | 2:57 |
 
-Snapshot ID: `MCw1NTMzNTRmZGVhNThlMTU1ODNkMDAzNWZmODJmZjAwNzdlNGMzNjAy`
+Snapshot ID: `MCwxNjZmNTdiNzYyZjRiOWZlODk4YWQwZjIwZWRlOTYyOThjYTYxYzkx`

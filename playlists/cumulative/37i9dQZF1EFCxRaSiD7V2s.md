@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/71L6ZAisLtzcDO2PVDXkCl">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-306 songs - 15 hr 41 min
+308 songs - 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Anne](https://open.spotify.com/track/5v1ZICg4PMxuUhre8bJluB) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Three](https://open.spotify.com/album/2CxpXm2MBLegKCUjpp0aPK) | 3:15 | 2021-12-27 |  |
 | [Another Castle](https://open.spotify.com/track/1HFIrt2wIRGBgxsiznHu8v) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [It's Dangerous To Go Alone](https://open.spotify.com/album/5c8RBZDglyFmPmQQl0QXDv) | 2:44 | 2022-07-13 |  |
 | [As You Were](https://open.spotify.com/track/2tZU6gIgbJB1Ko4jEetbrj) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Songs From Season Six](https://open.spotify.com/album/1rO8TFG6L5LXXyyKhwJmh2) | 3:05 | 2021-12-27 |  |
+| [Avalanche](https://open.spotify.com/track/12BkgWX0kPSwyyEQDEnWln) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Avalanche](https://open.spotify.com/album/3NPBjEU53oc6A3eFfJQnLa) | 4:18 | 2023-08-10 |  |
 | [Baby Let's Pretend](https://open.spotify.com/track/1BmaIHgkvLvZWv1kPmH0mb) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/3GcRpPbUITV69vTolwRDsp) | 2:31 | 2021-12-27 | 2022-09-05 |
 | [Baby Let's Pretend](https://open.spotify.com/track/2O2pPeNQdCHaPdz7UftiOS) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Baby Let's Pretend](https://open.spotify.com/album/67UuJkEAEiaI5SozGf2SFO) | 2:31 | 2022-09-04 | 2022-09-06 |
 | [Baby Let's Pretend](https://open.spotify.com/track/5hu33JrzI9xBnjNwoGCV0o) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/4ij4VMWlPhY62tfGIjeqEZ) | 2:31 | 2022-09-05 |  |
@@ -157,6 +158,7 @@
 | [KILLA KILLA](https://open.spotify.com/track/3PcpDQwqxPcm3AvZJGg4Lt) | [GALXARA](https://open.spotify.com/artist/0tu3jGW89NZZ8qrpd8c7xC) | [KILLA KILLA](https://open.spotify.com/album/5bLFyyKx0j9E5W7n35ZNiv) | 2:32 | 2021-12-27 |  |
 | [Killed by Death](https://open.spotify.com/track/2mnb8s87G241uXAiGL79KP) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Two](https://open.spotify.com/album/5r0Xn9uTzTulJLEjY0WCSd) | 2:18 | 2021-12-27 |  |
 | [King Size Bed](https://open.spotify.com/track/078pXymemqeV5DH00w6cBa) | [Katie Wighton](https://open.spotify.com/artist/41CNj1cWdeOjG7M5m8bTut) | [King Size Bed](https://open.spotify.com/album/0Dwo0yFwvBovZSJvQGGkbt) | 2:58 | 2021-12-27 |  |
+| [Knife Went In](https://open.spotify.com/track/1zjcpWgj97g2QggKaLbHkl) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Knife Went In](https://open.spotify.com/album/3NkrN8x8bqnsv82BejvpoR) | 3:39 | 2023-08-10 |  |
 | [Know U Anymore \(feat\. Sarah Hyland\)](https://open.spotify.com/track/6Ufv48wYcNp822At8Q4k7w) | [BoTalks](https://open.spotify.com/artist/3wjluyWXDHiiMKxkhaW1em), [Sarah Hyland](https://open.spotify.com/artist/7icfzHg2AhHxy65PU58rCP) | [Know U Anymore](https://open.spotify.com/album/73JMf3o63Tvh9CKx5yrr7N) | 3:11 | 2021-12-27 |  |
 | [Last Person](https://open.spotify.com/track/32HZuMuyydgpFqbuu8omR0) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure](https://open.spotify.com/album/1T8PdV0KCGPIATvOyYJ66c) | 3:15 | 2021-12-27 | 2022-08-19 |
 | [Last Person](https://open.spotify.com/track/3uVH59Q8AF1nB7P6D7H6ZJ) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure \(Bonus Track Version\)](https://open.spotify.com/album/66BFEncEfO6c8zgKXWKBrZ) | 3:15 | 2022-08-18 |  |

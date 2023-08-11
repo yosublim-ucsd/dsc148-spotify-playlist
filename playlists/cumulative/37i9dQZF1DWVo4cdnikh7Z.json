@@ -647,6 +647,32 @@
     },
     {
       "album": {
+        "name": "Adiyae (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2nS0NA74i5nkBPleJxyOh6"
+      },
+      "artists": [
+        {
+          "name": "Justin Prabhakaran",
+          "url": "https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr"
+        },
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/2oCdQD2ATgodmpYChR6vto"
+        },
+        {
+          "name": "Padmaja Sreenivasan",
+          "url": "https://open.spotify.com/artist/5B9cyUBFtZz1XNbG2Kym1P"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211510,
+      "name": "Adiyae",
+      "url": "https://open.spotify.com/track/3EmeTewbTQ9IRlSpBBHInm"
+    },
+    {
+      "album": {
         "name": "Adiyae Adiyae (From \"Nandhivarman\") - Single",
         "url": "https://open.spotify.com/album/4zNA1MZoBvWulVG9xklJef"
       },
@@ -2886,7 +2912,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 146451,
       "name": "Chinnanchiru Manasukulla (From \"Parivarthanai\")",
       "url": "https://open.spotify.com/track/4y3U8xAJqPahCgIyby5L1Q"
@@ -3792,7 +3818,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 243913,
       "name": "Eer Uravugal (From \"LGM\")",
       "url": "https://open.spotify.com/track/0depHQU3XmxAEB4qbEEcF4"
@@ -4410,7 +4436,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 258367,
       "name": "Erimalayin Magale",
       "url": "https://open.spotify.com/track/7GVTu3LkZIOVrAAm8wCrj5"
@@ -10217,6 +10243,28 @@
     },
     {
       "album": {
+        "name": "Adiyae (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2nS0NA74i5nkBPleJxyOh6"
+      },
+      "artists": [
+        {
+          "name": "Justin Prabhakaran",
+          "url": "https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr"
+        },
+        {
+          "name": "Anthony Daasan",
+          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269096,
+      "name": "Muttaa Cutie",
+      "url": "https://open.spotify.com/track/7fmAdHvPU2Lkt7TN68zsoU"
+    },
+    {
+      "album": {
         "name": "Myna Myna (From \"Janakiram\") (Tamil)",
         "url": "https://open.spotify.com/album/2HMzB2R2Y2PVmvapgfLXOl"
       },
@@ -10874,7 +10922,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 249000,
       "name": "Nee Chuttu Chuttu (From \"Skanda\")",
       "url": "https://open.spotify.com/track/2sYhYrHPNU8v5EjSqIqDXm"
@@ -18794,7 +18842,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 59845,
       "name": "Vibe of NOVP - From \"Nanban Oruvan Vandha Piragu\"",
       "url": "https://open.spotify.com/track/5KynY4TX1XvNQiq2wze33Q"

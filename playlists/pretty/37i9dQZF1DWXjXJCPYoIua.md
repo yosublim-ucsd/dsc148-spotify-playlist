@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjXJCPYoIua.md) - [plain]
 
 > Rimas finas para inspirarte en el jale.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,058 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,164 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjXJCPYoIua.md) - [plain]
 | 50 | [Ojos Tumbados](https://open.spotify.com/track/7uYFOLEhhmojSLTyVZ8r4O) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx) | [Ojos Tumbados](https://open.spotify.com/album/5bVfYgtEBKQDayvcxkyYq9) | 4:22 |
 | 51 | [Dirt Off Your Shoulder](https://open.spotify.com/track/3IrkbGQCoEPAkzJ0Tkv8nm) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Black Album](https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO) | 4:05 |
 | 52 | [Bombos y Tarolas](https://open.spotify.com/track/5HxcRTUT0X0X7WzwPoj0cm) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Sincopa](https://open.spotify.com/album/4u16vv7jUXm8XTdvd2szGH) | 4:52 |
-| 53 | [Si Señor](https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Artilleria Pesada, Presenta:](https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v) | 4:13 |
-| 54 | [No Hay Manera](https://open.spotify.com/track/5dFaYG4WClIHhbHSe0m3FO) | [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG) | [Proyecto Akwid](https://open.spotify.com/album/7IIVtFcrNzU7PV8gBqq6oM) | 4:03 |
+| 53 | [No Hay Manera](https://open.spotify.com/track/5dFaYG4WClIHhbHSe0m3FO) | [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG) | [Proyecto Akwid](https://open.spotify.com/album/7IIVtFcrNzU7PV8gBqq6oM) | 4:03 |
+| 54 | [Si Señor](https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Artilleria Pesada, Presenta:](https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v) | 4:13 |
 | 55 | [El Sobrino](https://open.spotify.com/track/4ThT8JzNJtbSkq5LqpxcCS) | [El Makabelico](https://open.spotify.com/artist/0rJ0xlAQI0wLRucDRoQQbO) | [El Cuadro del Terror](https://open.spotify.com/album/7paQhjni7vgcDvOOPNHQqH) | 5:19 |
 | 56 | [No Que No Eras Fan](https://open.spotify.com/track/72KBDC6feOjHbiQ3x1jJ2N) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Eirian Music](https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4) | [Canciones Mamalonas 2](https://open.spotify.com/album/5sXSM6uf1gKQa1VzLtKWlO) | 3:22 |
 | 57 | [Jump Around](https://open.spotify.com/track/6JymsaWDHk2Yj4e0yNBIFH) | [House Of Pain](https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV) | [House of Pain \(Fine Malt Lyrics\)](https://open.spotify.com/album/0hWY4eSi2bZ8tWplgjO0ph) | 3:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjXJCPYoIua.md) - [plain]
 | 99 | [Suena En Mi Barrio](https://open.spotify.com/track/74yqnVCGQpA9zGTTmBJe6C) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Suena En Mi Barrio](https://open.spotify.com/album/5CI5uDMVwq1peqgm0nAO5c) | 3:53 |
 | 100 | [Hecho En Mexico](https://open.spotify.com/track/7kCp04jo6XWGVC3ZENX1vI) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu) | [Hecho En Mexico](https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir) | 4:22 |
 
-Snapshot ID: `MCw2ZWI0ODM5ZDlhZWRiMzBjMGNjNTBjZWZjMGZjYmU3N2IwNzY2M2Q2`
+Snapshot ID: `MCw2MzdmZDc2MTJjZGRjNTEyOThlNzlkM2JhZGYyNzVmOWEyODI5Yjhl`

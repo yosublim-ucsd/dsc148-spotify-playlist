@@ -1,12 +1,12 @@
 {
   "description": "Un perreito en la pared...",
-  "num_followers": 870989,
+  "num_followers": 871109,
   "original_name": "La Casa del Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTY0ZTVjODljYjM5YzBlOGEwNDRkOGJmMDBmOTljNDA0Yzg4ODdm",
+  "snapshot_id": "MCw1Y2VjNTNmMWQyYjMyZmZmNDM3ZmZhOWFkNWEyMDVjNjFjMTgzMjgz",
   "tracks": [
     {
       "added_at": "2023-08-04 06:00:00",
@@ -387,26 +387,6 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Podemos Repetirlo",
-        "url": "https://open.spotify.com/album/6FRoZB7Ppyz9EVph8nQoJX"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 211707,
-      "name": "Podemos Repetirlo",
-      "url": "https://open.spotify.com/track/0If7xxzqs7Dv1SSO2MFKXF"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
         "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
         "url": "https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 207301,
       "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
       "url": "https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Podemos Repetirlo",
+        "url": "https://open.spotify.com/album/6FRoZB7Ppyz9EVph8nQoJX"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 211707,
+      "name": "Podemos Repetirlo",
+      "url": "https://open.spotify.com/track/0If7xxzqs7Dv1SSO2MFKXF"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -527,58 +527,6 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "En To Lao",
-        "url": "https://open.spotify.com/album/6vbpPVgsQJgXyfXc6q6CPl"
-      },
-      "artists": [
-        {
-          "name": "Haze",
-          "url": "https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE"
-        },
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 195033,
-      "name": "En To Lao",
-      "url": "https://open.spotify.com/track/2zUEnw6wWrWaPcF15F76OA"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 171986,
-      "name": "Normal",
-      "url": "https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "Holanda",
-        "url": "https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 231693,
-      "name": "Holanda",
-      "url": "https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
         "name": "Adicto (with Anuel AA & Ozuna)",
         "url": "https://open.spotify.com/album/7nqA49hzXJWPH4cnM8nk6x"
       },
@@ -603,6 +551,58 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
+        "name": "Holanda",
+        "url": "https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 231693,
+      "name": "Holanda",
+      "url": "https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 171986,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "En To Lao",
+        "url": "https://open.spotify.com/album/6vbpPVgsQJgXyfXc6q6CPl"
+      },
+      "artists": [
+        {
+          "name": "Haze",
+          "url": "https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 195033,
+      "name": "En To Lao",
+      "url": "https://open.spotify.com/track/2zUEnw6wWrWaPcF15F76OA"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
         "name": "M\u00e1s Negro Que Rojo",
         "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
       },
@@ -615,6 +615,22 @@
       "duration_ms": 186133,
       "name": "Hecha Pa' Mi",
       "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "The Last Don II",
+        "url": "https://open.spotify.com/album/57mWSm5UtRGT08KeJuyZqu"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 193613,
+      "name": "Guaya Guaya",
+      "url": "https://open.spotify.com/track/79zvVrn65ksbiGQxrtV4I5"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -639,22 +655,6 @@
       "duration_ms": 242696,
       "name": "Mejor Que Yo",
       "url": "https://open.spotify.com/track/1VsHc0qIeyjYOyvN5HIEQG"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "The Last Don II",
-        "url": "https://open.spotify.com/album/57mWSm5UtRGT08KeJuyZqu"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        }
-      ],
-      "duration_ms": 193613,
-      "name": "Guaya Guaya",
-      "url": "https://open.spotify.com/track/79zvVrn65ksbiGQxrtV4I5"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -731,26 +731,6 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "CAIRO",
-        "url": "https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 201280,
-      "name": "CAIRO",
-      "url": "https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
         "name": "Hecho En Medell\u00edn",
         "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
       },
@@ -775,6 +755,26 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
+        "name": "CAIRO",
+        "url": "https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 201280,
+      "name": "CAIRO",
+      "url": "https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
         "name": "Timelezz",
         "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
       },
@@ -795,26 +795,6 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "DATA",
-        "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 203529,
-      "name": "Todav\u00eda",
-      "url": "https://open.spotify.com/track/5kvMHWJfoIgKTpP5HzpG25"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
         "name": "Bandido",
         "url": "https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 232853,
       "name": "Bandido",
       "url": "https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 203529,
+      "name": "Todav\u00eda",
+      "url": "https://open.spotify.com/track/5kvMHWJfoIgKTpP5HzpG25"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -971,38 +971,18 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Verte Ir",
-        "url": "https://open.spotify.com/album/76XsfdI0kGODDdhHAJKZi3"
+        "name": "LA VIDA ES UNA",
+        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
       },
       "artists": [
         {
-          "name": "DJ Luian",
-          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
-        },
-        {
-          "name": "Mambo Kingz",
-          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 267500,
-      "name": "Verte Ir",
-      "url": "https://open.spotify.com/track/4lzxJ4jCuFDXXGkE1LmpKR"
+      "duration_ms": 167175,
+      "name": "AGUARDIENTE",
+      "url": "https://open.spotify.com/track/3Z0l8qwMuC376pcutLVsY8"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1035,18 +1015,38 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "LA VIDA ES UNA",
-        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
+        "name": "Verte Ir",
+        "url": "https://open.spotify.com/album/76XsfdI0kGODDdhHAJKZi3"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
         }
       ],
-      "duration_ms": 167175,
-      "name": "AGUARDIENTE",
-      "url": "https://open.spotify.com/track/3Z0l8qwMuC376pcutLVsY8"
+      "duration_ms": 267500,
+      "name": "Verte Ir",
+      "url": "https://open.spotify.com/track/4lzxJ4jCuFDXXGkE1LmpKR"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1359,6 +1359,26 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
+        "name": "El Androide",
+        "url": "https://open.spotify.com/album/7haP1A1a1ssJKXBKskVLvG"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+        }
+      ],
+      "duration_ms": 178407,
+      "name": "Singapur",
+      "url": "https://open.spotify.com/track/5q7icrT1Wn8PHaePIjYYyg"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
         "name": "G Low Kitty",
         "url": "https://open.spotify.com/album/6IvwdLnra2eCGtQnCYIXTN"
       },
@@ -1383,26 +1403,6 @@
       "duration_ms": 214897,
       "name": "G Low Kitty",
       "url": "https://open.spotify.com/track/7z6DZLcw8FFKR0j16gich8"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "El Androide",
-        "url": "https://open.spotify.com/album/7haP1A1a1ssJKXBKskVLvG"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Chael Produciendo",
-          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
-        }
-      ],
-      "duration_ms": 178407,
-      "name": "Singapur",
-      "url": "https://open.spotify.com/track/5q7icrT1Wn8PHaePIjYYyg"
     },
     {
       "added_at": "2023-08-04 06:00:00",

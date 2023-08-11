@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 
 > It's just us—and this awesome alt soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,127,066 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,127,054 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 | 73 | [Adore](https://open.spotify.com/track/1rPCgtaIF0CyKRgAwhtpbF) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Adore](https://open.spotify.com/album/4XW4uoRtDulaUs4Qb81UDx) | 3:04 |
 | 74 | [Astronaut \(Something About Your Love\)](https://open.spotify.com/track/61c96X4Th7oYdSDxIOEV3k) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Shadowboxer](https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV) | 3:22 |
 | 75 | [Our Love](https://open.spotify.com/track/2WCCyU7CazujWXYOqNjsLW) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 3:52 |
-| 76 | [Cherry](https://open.spotify.com/track/2HQY0sXTrBJCuxqJxbeMWB) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [I'll Keep You In Mind, From Time to Time](https://open.spotify.com/album/7aMvv0lYIhPyudfM1TmItV) | 2:39 |
-| 77 | [Kiss City](https://open.spotify.com/track/3BnAP43rJ04D2iAgTon1ji) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y) | 2:23 |
+| 76 | [Kiss City](https://open.spotify.com/track/3BnAP43rJ04D2iAgTon1ji) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y) | 2:23 |
+| 77 | [Cherry](https://open.spotify.com/track/2HQY0sXTrBJCuxqJxbeMWB) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [I'll Keep You In Mind, From Time to Time](https://open.spotify.com/album/7aMvv0lYIhPyudfM1TmItV) | 2:39 |
 | 78 | [The Wilhelm Scream](https://open.spotify.com/track/688DZF6e1MH5Uf409dwaHm) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [James Blake](https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX) | 4:33 |
 | 79 | [Want You Like That](https://open.spotify.com/track/0aKWr5K7ydkegVoxd3dBeM) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/5l7whBWhClQiC0pFLpPcRi) | 2:54 |
 | 80 | [She's Casual](https://open.spotify.com/track/3WLwkFXJpZ1VpDxAh0DXzz) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [100](https://open.spotify.com/album/4JqtQJR0R6xSJqlmGH31X3) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 | 99 | [Born To Die](https://open.spotify.com/track/54F7uOTyfsusa19TjEcHW9) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6), [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Born To Die](https://open.spotify.com/album/4P19H9TULgF2zUxNGPkBoK) | 2:52 |
 | 100 | [There's No Other Place](https://open.spotify.com/track/2pFPvMME9cynR1dokBTHJJ) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [My Honest Face](https://open.spotify.com/album/52fKsRuzOum7y9iGC67GSn) | 7:33 |
 
-Snapshot ID: `MCxlODI5ODhhNDBmMGM5ZTc3MDBiNzNhNzljMWVmMTc2YTZmODRmODdi`
+Snapshot ID: `MCwwOGMzNDk4MzhhMmFiYWMwMTU4YTY5NWE5NWY3YWMwYWQyMmY3NDVl`

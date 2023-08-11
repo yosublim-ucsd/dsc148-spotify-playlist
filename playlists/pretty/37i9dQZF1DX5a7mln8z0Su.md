@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a7mln8z0Su.md) - [plain]
 
 > 무언가 이상한 마음 속 일렁임을 노래로 느껴보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,950 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,952 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a7mln8z0Su.md) - [plain]
 | 10 | [Upside Down](https://open.spotify.com/track/41KiFWhvIgjdVura4h93Zh) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [The Story](https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg) | 3:15 |
 | 11 | [Empty Cup](https://open.spotify.com/track/4YnVz2QRU6OnoJ8lt23QHM) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 2:19 |
 | 12 | [Syndrome](https://open.spotify.com/track/1hZ2dSvv2O6HQo6p3gDtVO) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [Syndrome](https://open.spotify.com/album/4YDtoADrhBQr4Epq57JRKX) | 3:41 |
-| 13 | [Childhood](https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:15 |
-| 14 | [Thief \(Feat\. MINNIE of \(G\)I\-DLE\)](https://open.spotify.com/track/7jSs3iUhwTbo03BTuzmdvY) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:33 |
+| 13 | [Thief \(Feat\. MINNIE of \(G\)I\-DLE\)](https://open.spotify.com/track/7jSs3iUhwTbo03BTuzmdvY) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:33 |
+| 14 | [Childhood](https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:15 |
 | 15 | [Vancouver](https://open.spotify.com/track/0gFCY62s8BCy6x0Q3gxczc) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 3:36 |
 | 16 | [Cookie](https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:55 |
 | 17 | [Tictoc Tictoc Tictoc \(with Beenzino\)](https://open.spotify.com/track/69XHRP8AyobIbFELKSdOHp) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a7mln8z0Su.md) - [plain]
 | 49 | [Then](https://open.spotify.com/track/5HjDMN3cGXdyyO2bY6DWBZ) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [WATERFALL](https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu) | 3:11 |
 | 50 | [Space science](https://open.spotify.com/track/3RbCeYBZsEoMJX9ePu3vtd) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Space science](https://open.spotify.com/album/4NcJaCZiWEYMJZRLAM3JHM) | 3:53 |
 
-Snapshot ID: `MCxjMjMyMjE4NWE3ZDExYTRlZmI0NjAxNjQ4N2IyY2I0MmQwYzY5Nzlm`
+Snapshot ID: `MCw3M2EzYjhiZjA1YzNkNzcxZWFiYzQ1ZmY5ZjliYmZmYjk4OTFlM2Iz`

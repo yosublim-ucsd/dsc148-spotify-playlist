@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04adET.md) - [plain]
 
 > This is Natanael Cano\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,747 likes - 51 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,450 likes - 51 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04adET.md) - [plain]
 | 50 | [El De Los Lentes Gucci](https://open.spotify.com/track/3TgelNfEK1DnYrsHOBxaVJ) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [El De Los Lentes Gucci](https://open.spotify.com/album/5mqw31hLMPNEyWN5FYMKGW) | 2:05 |
 | 51 | [Gracias](https://open.spotify.com/track/4lkl1CC0Py1pLOuQ4h2KuV) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Gracias](https://open.spotify.com/album/1nT3wVcqO8lnYICj8jkLiY) | 2:28 |
 
-Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDBmZTgyZGU0ZjFmMzU0YjNjOTlmZGQxMmJlMGI3ZTAyMA==`
+Snapshot ID: `MjgxOTQ1NjMsMDAwMDAwMDBiN2JlOTQyNzc2MjBlMWUyMGY4NzgwZjdmNGU4NTYxYw==`

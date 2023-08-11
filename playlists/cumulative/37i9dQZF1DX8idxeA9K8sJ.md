@@ -4,7 +4,7 @@
 
 > Recuerda los éxitos ochenteros que sonaron en la radio mexicana.
 
-101 songs - 6 hr 31 min
+102 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Hasta Que Amanezca](https://open.spotify.com/track/67mC1sqidIwycByzWmT96o) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [15 Éxitos](https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2) | 3:00 | 2020-06-24 |  |
 | [Hasta Que Te Conocí](https://open.spotify.com/track/6XLobzCdi98lFcxG3eGYNr) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Pensamientos](https://open.spotify.com/album/48zTdk2DxqybNPEJfL6Mnl) | 7:15 | 2020-06-24 |  |
 | [Hijo de la luna](https://open.spotify.com/track/2LmlZvAmT1L0O3iPVSQWOX) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre el Cielo y el Suelo \(Bonus Tracks Edition\)](https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy) | 4:19 | 2020-06-24 |  |
+| [Inocente Pobre Amiga](https://open.spotify.com/track/4LMjkpzj8r4RLXKc3adcYV) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Coleccion de Oro](https://open.spotify.com/album/03qbgosLANCuqg2jUgmI9V) | 3:57 | 2020-06-24 |  |
 | [Insoportablemente Bella](https://open.spotify.com/track/24jLRb0lLtk4U3F2xPh2AH) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Intimamente](https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY) | 3:37 | 2020-06-24 |  |
 | [La Chica de Humo](https://open.spotify.com/track/0GZ8UVlhn2tjHPpngzoLJk) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Quisiera](https://open.spotify.com/album/3v2sq3JspM5Kny8Hz6ElyH) | 5:31 | 2020-06-24 |  |
 | [La Chica De Humo \- MTV Unplugged](https://open.spotify.com/track/4ozSZEX79T7QuDaifobXLO) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [MTV Unplugged: Con El Alma Desnuda](https://open.spotify.com/album/6w9N3RfyhAXpelVnAyrH2J) | 4:58 | 2020-06-24 |  |
@@ -63,7 +64,7 @@
 | [Maquillaje](https://open.spotify.com/track/5OiU5DLjmMBF7ELAjIKxCZ) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Mecano](https://open.spotify.com/album/1OWPlRO2vf9QFXqw4uPy8D) | 2:32 | 2020-06-24 |  |
 | [Maracas](https://open.spotify.com/track/5Cf8MCD6NcYvy8RQL2khAS) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [Grandes Duetos](https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS) | 3:08 | 2020-06-24 |  |
 | [Me cuesta tanto olvidarte](https://open.spotify.com/track/1w2Nnj1HEUgoOglVRWfZj8) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre el Cielo y el Suelo \(Bonus Tracks Edition\)](https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy) | 2:54 | 2020-06-24 |  |
-| [Mentiras](https://open.spotify.com/track/1FkCsyMlPzsIJxqRRHurtT) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Coleccion de Oro](https://open.spotify.com/album/03qbgosLANCuqg2jUgmI9V) | 4:10 | 2020-06-24 |  |
+| [Mentiras](https://open.spotify.com/track/1FkCsyMlPzsIJxqRRHurtT) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Coleccion de Oro](https://open.spotify.com/album/03qbgosLANCuqg2jUgmI9V) | 4:10 | 2020-06-24 | 2023-08-11 |
 | [Mi Agüita Amarilla](https://open.spotify.com/track/2fYRXoal0ysbJJBUddCGDb) | [Los Toreros Muertos](https://open.spotify.com/artist/6o3v1RDHCgICZ7I4y1BtJI) | [30 Años de Éxitos](https://open.spotify.com/album/2LiQiHqbqGuzxXYYnfcySo) | 5:39 | 2020-06-24 |  |
 | [Mi Buen Corazón](https://open.spotify.com/track/5rH8LM84M3eG0ZtzkkYMLD) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [El Sonido Vol\. 1](https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS) | 4:22 | 2020-06-24 |  |
 | [Morir de Amor](https://open.spotify.com/track/6RWXqBgjdLyAVFnJbyPCR8) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | ["Miguel"](https://open.spotify.com/album/6Xo9GlYWbxSTZn0KI7l7Gb) | 4:11 | 2020-06-24 |  |

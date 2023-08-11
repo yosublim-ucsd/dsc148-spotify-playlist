@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Beautiful proudly South African gems. Cover: <a href=\"https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby?si=pSICZ7dxTvWRYkxwudL77Q\">The Joy</a>",
+  "description": "Beautiful proudly South African gems. Cover: <a href=\"https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1?si=izz5CqcHRWmgpG0USL8x9w\">Lwah Ndlunkulu</a>",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -156,6 +156,28 @@
       "duration_ms": 264192,
       "name": "Abelungu",
       "url": "https://open.spotify.com/track/1rN3hYaB9H4UcYOuSep8i7"
+    },
+    {
+      "album": {
+        "name": "Abondaba",
+        "url": "https://open.spotify.com/album/0iLKzBFZd9dqHy6dQNkXZa"
+      },
+      "artists": [
+        {
+          "name": "MusiholiQ",
+          "url": "https://open.spotify.com/artist/7J8TsAqwQVAIOlloWCuW60"
+        },
+        {
+          "name": "Big Zulu",
+          "url": "https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282275,
+      "name": "Abondaba",
+      "url": "https://open.spotify.com/track/64hkawrDFd2UW8wuuf5DGN"
     },
     {
       "album": {
@@ -1094,7 +1116,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 244718,
       "name": "Chelete",
       "url": "https://open.spotify.com/track/25jyOIo2PPpixvetYrb7b3"
@@ -1638,6 +1660,24 @@
       "duration_ms": 220514,
       "name": "Emsebenzini",
       "url": "https://open.spotify.com/track/6goYtFau1jzp7GZAwDQPcu"
+    },
+    {
+      "album": {
+        "name": "eMtunzini",
+        "url": "https://open.spotify.com/album/2TEOzmQFEnzigADnPLoMPm"
+      },
+      "artists": [
+        {
+          "name": "Muzi",
+          "url": "https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239500,
+      "name": "eMtunzini",
+      "url": "https://open.spotify.com/track/2vfYHOPVzeUejsFTPhp226"
     },
     {
       "album": {
@@ -3156,7 +3196,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 278504,
       "name": "Isoka",
       "url": "https://open.spotify.com/track/2gO1rty4jBXQaP7jSuVIh2"
@@ -3232,7 +3272,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 263004,
       "name": "Ithuba",
       "url": "https://open.spotify.com/track/2DTnuVhrGnLcmgutAW4vb1"
@@ -3756,6 +3796,32 @@
       "duration_ms": 253980,
       "name": "Kusaseyimi",
       "url": "https://open.spotify.com/track/2PXg5LhiiT7PW8OIrB1NiH"
+    },
+    {
+      "album": {
+        "name": "Kusina Mai",
+        "url": "https://open.spotify.com/album/5I4qnFcv2Crz5NVCWZ5PJW"
+      },
+      "artists": [
+        {
+          "name": "Wanitwa Mos",
+          "url": "https://open.spotify.com/artist/2iN5MhOgkenO5FtkPtEVAF"
+        },
+        {
+          "name": "Master KG",
+          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
+        },
+        {
+          "name": "Jah Prayzah",
+          "url": "https://open.spotify.com/artist/13JLy7UFJgqRypeQGbucP3"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346205,
+      "name": "Kusina Mai",
+      "url": "https://open.spotify.com/track/6foGZFf5hdViyimMImFv6f"
     },
     {
       "album": {
@@ -4809,6 +4875,36 @@
     },
     {
       "album": {
+        "name": "Movie",
+        "url": "https://open.spotify.com/album/1AI9XEs70EabkDP1riIY9C"
+      },
+      "artists": [
+        {
+          "name": "Makhadzi Entertainment",
+          "url": "https://open.spotify.com/artist/24Hon9044L6JUKWcqQSjma"
+        },
+        {
+          "name": "Ntate Stunna",
+          "url": "https://open.spotify.com/artist/1HKxOYJiTBtSgVTbKHK5XL"
+        },
+        {
+          "name": "Fortunator",
+          "url": "https://open.spotify.com/artist/6StnELGS6xp40SAbMotvwk"
+        },
+        {
+          "name": "DJ Gun Do SA",
+          "url": "https://open.spotify.com/artist/1RL5BtcTKxdM6Kqq4rdFVz"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290612,
+      "name": "Movie",
+      "url": "https://open.spotify.com/track/6w96SS19VqUpo8O9B8Hzzc"
+    },
+    {
+      "album": {
         "name": "Mukhavha",
         "url": "https://open.spotify.com/album/3p0y1rIxgV274BcONXiGZE"
       },
@@ -5701,6 +5797,36 @@
     },
     {
       "album": {
+        "name": "Noma Kanjani",
+        "url": "https://open.spotify.com/album/0hdWi8fYhFfc8XrD4Ifrmp"
+      },
+      "artists": [
+        {
+          "name": "Sino Msolo",
+          "url": "https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        },
+        {
+          "name": "Azana",
+          "url": "https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437198,
+      "name": "Noma Kanjani",
+      "url": "https://open.spotify.com/track/7ra81phD6VfKgcBJolmaP4"
+    },
+    {
+      "album": {
         "name": "Noma Kunzima",
         "url": "https://open.spotify.com/album/25Sl0o4AL4twrO9aRKAvyQ"
       },
@@ -6326,7 +6452,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 270769,
       "name": "Qoma",
       "url": "https://open.spotify.com/track/7tJRECMBZbgGUh83C48NB0"
@@ -7322,7 +7448,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 314341,
       "name": "Stimela",
       "url": "https://open.spotify.com/track/0AY3sNqV7qAdAZ8j6TRVBd"

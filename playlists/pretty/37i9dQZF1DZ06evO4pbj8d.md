@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 
 > This is Joy Oladokun\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,993 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,003 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 | 49 | [Hope](https://open.spotify.com/track/2cid9gPwIOMa4fYTreyLtl) | [Dominic Balli](https://open.spotify.com/artist/2QCtK2hdxxcU1BU5Npa8Zu), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Give Me the Truth](https://open.spotify.com/album/3yOlYe0Rc57s41Te9z1JPY) | 4:03 |
 | 50 | [Who Are You](https://open.spotify.com/track/6hpR4wi9DNXQNSdp63RiiL) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Who Are You](https://open.spotify.com/album/5daVnBVz3xKJCpNdGIbKxa) | 3:52 |
 
-Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDA3OGVjMmUzZTZiNzk1MGRjMmYzZTNkMGJiZGNkODNmMQ==`
+Snapshot ID: `MjgxOTQ1NjMsMDAwMDAwMDA0YTg1NTU1MjBkMGQ2OWQzYWM1OTFhYjQ2ZmRjMTFmMg==`

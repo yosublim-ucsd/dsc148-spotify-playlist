@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DYkVgiO6RF.md) - [plain]
 
 > Sintetizadores fluorescentes para acompañar tu trayecto nocturno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,874 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,074 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DYkVgiO6RF.md) - [plain]
 | 18 | [You Knew \- Edit](https://open.spotify.com/track/72UXdc6vi8bgtJHpTuLjHl) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [You Knew](https://open.spotify.com/album/4n3meu86cgj7FIwe0xvYKc) | 2:55 |
 | 19 | [Time](https://open.spotify.com/track/2Oc5ez4PVPnIWAmYr8i99V) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:19 |
 | 20 | [Moving On](https://open.spotify.com/track/3Jl6WHQ5cXbSM1yZXay6XN) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Roosevelt](https://open.spotify.com/album/21h3nv4SJgMi9SQaFiFUFX) | 4:43 |
-| 21 | [Distorted Light Beam](https://open.spotify.com/track/7bREivF1RTm0vOYB2wi7nE) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Distorted Light Beam](https://open.spotify.com/album/5FnEu6Hpo6dZ8qIp3BX5Bz) | 2:57 |
-| 22 | [Polish Girl](https://open.spotify.com/track/5g3TDpgy1J1woAUVuj21EE) | [Neon Indian](https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er) | [Era Extraña](https://open.spotify.com/album/1S23RKAbHcn3AF2F7ns3sN) | 4:24 |
+| 21 | [Polish Girl](https://open.spotify.com/track/5g3TDpgy1J1woAUVuj21EE) | [Neon Indian](https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er) | [Era Extraña](https://open.spotify.com/album/1S23RKAbHcn3AF2F7ns3sN) | 4:24 |
+| 22 | [Distorted Light Beam](https://open.spotify.com/track/7bREivF1RTm0vOYB2wi7nE) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Distorted Light Beam](https://open.spotify.com/album/5FnEu6Hpo6dZ8qIp3BX5Bz) | 2:57 |
 | 23 | [Delicate Weapon](https://open.spotify.com/track/1hT3eaGzrcFriQtgGdvsZv) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [Lizzy Wizzy](https://open.spotify.com/artist/4n2RbW3dIUzGI089lh9NI0) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 3:50 |
 | 24 | [Áfrika](https://open.spotify.com/track/5cY6iwmzNfroYMCuLOlJio) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Destellos](https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k) | 3:43 |
 | 25 | [Artificial Intelligence](https://open.spotify.com/track/5xXsuyGahaZAbF0bIZARS4) | [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc) | [4:23](https://open.spotify.com/album/0ACtwMaMVewYM4hFu9FXhZ) | 2:54 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DYkVgiO6RF.md) - [plain]
 | 29 | [Otra Era](https://open.spotify.com/track/0D8qIsQZvrXmClkyp19Lsl) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Otra Era](https://open.spotify.com/album/1Ag7xE38iyJ4NzzbRSpvah) | 4:04 |
 | 30 | [Running Up That Hill](https://open.spotify.com/track/20yPPvSSfIomexVwLdgXSo) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Night Drive](https://open.spotify.com/album/6m0UuVV0fOC6m4p8J4ozRy) | 6:06 |
 | 31 | [We Own The Sky](https://open.spotify.com/track/44jJCNW8frQLEWpYuAQz47) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Saturdays = Youth](https://open.spotify.com/album/4HshNHpHWtmaw8sDrOXNuE) | 5:04 |
-| 32 | [Bassically](https://open.spotify.com/track/0jGayco2vDiq3kMpPFN2bI) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Verde](https://open.spotify.com/album/6sUm1weVRMmT05silXrYzR) | 4:51 |
-| 33 | [TRON Legacy \(End Titles\) \- From "TRON: Legacy"/Score](https://open.spotify.com/track/0mHayzmzEB485RkUCETcCL) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [TRON: Legacy](https://open.spotify.com/album/4US3nmuLIKELhVZdBPiKxx) | 3:17 |
+| 32 | [TRON Legacy \(End Titles\) \- From "TRON: Legacy"/Score](https://open.spotify.com/track/0mHayzmzEB485RkUCETcCL) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [TRON: Legacy](https://open.spotify.com/album/4US3nmuLIKELhVZdBPiKxx) | 3:17 |
+| 33 | [Bassically](https://open.spotify.com/track/0jGayco2vDiq3kMpPFN2bI) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Verde](https://open.spotify.com/album/6sUm1weVRMmT05silXrYzR) | 4:51 |
 | 34 | [Digital Versicolor](https://open.spotify.com/track/5WQwLtyRifa7JQdaYHBHBO) | [Glass Candy](https://open.spotify.com/artist/7atGlyFY5574ph1tGMs6gD) | [B/E/A/T/B/O/X](https://open.spotify.com/album/34HdlwbafaANIXhwqNTnlb) | 5:58 |
 | 35 | [IR](https://open.spotify.com/track/1Fcx2n42iUhBad9kxj7g3m) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Mango Negro](https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF) | 4:32 |
 | 36 | [Bennington \(2007\)](https://open.spotify.com/track/2PG26cmJdlT9xNAhdiHaaJ) | [John Maus](https://open.spotify.com/artist/4R073T3AVJKqAsbzLmLW9u) | [A Collection of Rarities and Previously Unreleased Material](https://open.spotify.com/album/3f7Aco3znOBzGY9DfEk9wi) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DYkVgiO6RF.md) - [plain]
 | 49 | [Slumlord](https://open.spotify.com/track/6O1G9pwLEidT5QTjuZw3tL) | [Neon Indian](https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er) | [VEGA INTL\. Night School](https://open.spotify.com/album/5qA9yoz0W5eHKYOr45Rkc4) | 5:15 |
 | 50 | [Los Vampiros](https://open.spotify.com/track/5VB2MeRshgRRsW7S1KgF9I) | [Dënver](https://open.spotify.com/artist/0KPHupxNcc9XMQ0SSn3LKo), [\( Me Llamo \) Sebastián](https://open.spotify.com/artist/5PoJhiT21fXvZitg3guhiJ) | [Sangre Cita](https://open.spotify.com/album/4E9LzQNoHtvUo6LpEsWjVN) | 4:25 |
 
-Snapshot ID: `MCwzZDJiYzAzZjE3MTAxNzQ3ODNlOGU1ZDRiMDkxNDBiMDM0MjNlMzY5`
+Snapshot ID: `MCw1MTZjMjM3N2IwMjk1ZjU3YjA2NmUzNTI0ODU0NjUwZDM4MTZmZTIy`

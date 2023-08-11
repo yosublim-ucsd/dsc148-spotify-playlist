@@ -1,12 +1,12 @@
 {
   "description": "Soak up these laid-back jams. ",
-  "num_followers": 1061101,
+  "num_followers": 1061191,
   "original_name": "Beach Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmFlYWUxM2QzOTY5Yzk5N2M1Y2NjOGMwYTgwNmM3ZDIyOGQxOTll",
+  "snapshot_id": "MCxiYTcxYTMyNDY1ODVkMzFhMzg4ZDlmZjIzYjBhNTVkZjExYjQyMDk2",
   "tracks": [
     {
       "added_at": "2023-07-28 15:11:46",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Gimme Love",
-        "url": "https://open.spotify.com/album/1A1VUJcKkq2zEef0OAuEfm"
-      },
-      "artists": [
-        {
-          "name": "The Elovaters",
-          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
-        }
-      ],
-      "duration_ms": 231976,
-      "name": "Gimme Love",
-      "url": "https://open.spotify.com/track/0xhHR5lWJCxIYGapEskm7C"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
         "name": "The Clarence Greenwood Recordings",
         "url": "https://open.spotify.com/album/4cmqFKgpFzSa6FDR1I3VFr"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 197183,
       "name": "A Thousand Times",
       "url": "https://open.spotify.com/track/05DVJrR6du2E1iU0p6izrC"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
+        "name": "Gimme Love",
+        "url": "https://open.spotify.com/album/1A1VUJcKkq2zEef0OAuEfm"
+      },
+      "artists": [
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+        }
+      ],
+      "duration_ms": 231976,
+      "name": "Gimme Love",
+      "url": "https://open.spotify.com/track/0xhHR5lWJCxIYGapEskm7C"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "All Her Favorite Songs (with Little Stranger)",
-        "url": "https://open.spotify.com/album/3EkYLDuVv4YVW4K3UOFHIG"
-      },
-      "artists": [
-        {
-          "name": "The Elovaters",
-          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
-        },
-        {
-          "name": "Little Stranger",
-          "url": "https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq"
-        }
-      ],
-      "duration_ms": 214753,
-      "name": "All Her Favorite Songs (with Little Stranger)",
-      "url": "https://open.spotify.com/track/26VjX0Mg1DAUTPjfPyhUlm"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
         "name": "Us Against The Crown (Bonus Track Version)",
         "url": "https://open.spotify.com/album/3XOvNcVeUI9AInH5f0i7ou"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 253040,
       "name": "Right Me Up",
       "url": "https://open.spotify.com/track/0mIedzCvGwfq4wIdGiVSut"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
+        "name": "All Her Favorite Songs (with Little Stranger)",
+        "url": "https://open.spotify.com/album/3EkYLDuVv4YVW4K3UOFHIG"
+      },
+      "artists": [
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+        },
+        {
+          "name": "Little Stranger",
+          "url": "https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq"
+        }
+      ],
+      "duration_ms": 214753,
+      "name": "All Her Favorite Songs (with Little Stranger)",
+      "url": "https://open.spotify.com/track/26VjX0Mg1DAUTPjfPyhUlm"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1359,18 +1359,22 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/4pBLC0RkDw24WL5QyDLn6s"
+        "name": "Way of Life (with Slightly Stoopid)",
+        "url": "https://open.spotify.com/album/1bp9MTK6nCCpNEH257yo2t"
       },
       "artists": [
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
         }
       ],
-      "duration_ms": 250397,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/7LYP8spevMtQh0c2lUVxln"
+      "duration_ms": 253794,
+      "name": "Way of Life (with Slightly Stoopid)",
+      "url": "https://open.spotify.com/track/3Ov05KIwJljawDuWbd7oKn"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1547,22 +1551,18 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Way of Life (with Slightly Stoopid)",
-        "url": "https://open.spotify.com/album/1bp9MTK6nCCpNEH257yo2t"
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/4pBLC0RkDw24WL5QyDLn6s"
       },
       "artists": [
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        },
-        {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
         }
       ],
-      "duration_ms": 253794,
-      "name": "Way of Life (with Slightly Stoopid)",
-      "url": "https://open.spotify.com/track/3Ov05KIwJljawDuWbd7oKn"
+      "duration_ms": 250397,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/7LYP8spevMtQh0c2lUVxln"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
+        "name": "Middle Finger",
+        "url": "https://open.spotify.com/album/3mHlnMg1GsCzHy142QBpzH"
+      },
+      "artists": [
+        {
+          "name": "Ballyhoo!",
+          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
+        }
+      ],
+      "duration_ms": 206032,
+      "name": "Middle Finger",
+      "url": "https://open.spotify.com/track/6xt46jtvhOjqf0bbJ3wT3v"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
         "name": "Set In Stone (with Jared Watson of Dirty Heads)",
         "url": "https://open.spotify.com/album/70oH7Gb83EbhoXycxZTcZy"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 192224,
       "name": "Set In Stone (with Jared Watson of Dirty Heads)",
       "url": "https://open.spotify.com/track/3rB4xoMmxuNjaVfC9hU6La"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
-        "name": "Middle Finger",
-        "url": "https://open.spotify.com/album/3mHlnMg1GsCzHy142QBpzH"
-      },
-      "artists": [
-        {
-          "name": "Ballyhoo!",
-          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
-        }
-      ],
-      "duration_ms": 206032,
-      "name": "Middle Finger",
-      "url": "https://open.spotify.com/track/6xt46jtvhOjqf0bbJ3wT3v"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Voyager",
-        "url": "https://open.spotify.com/album/1OB4dJvhPDVtpEsGbUOZHJ"
-      },
-      "artists": [
-        {
-          "name": "311",
-          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
-        }
-      ],
-      "duration_ms": 214480,
-      "name": "Space and Time",
-      "url": "https://open.spotify.com/track/5zQ65ap2xd09FHwdv4oxRf"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
         "name": "Jack Johnson & Friends: Best Of Kokua Festival, A Benefit For The Kokua Hawaii Foundation",
         "url": "https://open.spotify.com/album/1tqFk7TTYICk0Mhk9XUX9L"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 253933,
       "name": "Breakdown",
       "url": "https://open.spotify.com/track/01cbb52SrkVOB8VuFaPoGP"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
+        "name": "Voyager",
+        "url": "https://open.spotify.com/album/1OB4dJvhPDVtpEsGbUOZHJ"
+      },
+      "artists": [
+        {
+          "name": "311",
+          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
+        }
+      ],
+      "duration_ms": 214480,
+      "name": "Space and Time",
+      "url": "https://open.spotify.com/track/5zQ65ap2xd09FHwdv4oxRf"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Prologue",
-        "url": "https://open.spotify.com/album/1mgDzGlXtOLeilxgyaltHo"
-      },
-      "artists": [
-        {
-          "name": "Hearts & Colors",
-          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
-        }
-      ],
-      "duration_ms": 186845,
-      "name": "Love Her Anyways",
-      "url": "https://open.spotify.com/track/3B8TBGV0upObaUd9z4O9W8"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
         "name": "Every Road I'm On",
         "url": "https://open.spotify.com/album/6gX9LgRThXGFkRMA0oCXWK"
       },
@@ -2111,6 +2095,22 @@
       "duration_ms": 229381,
       "name": "Every Road I'm On",
       "url": "https://open.spotify.com/track/4oLX41qPlebhUZdh95O23v"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/1mgDzGlXtOLeilxgyaltHo"
+      },
+      "artists": [
+        {
+          "name": "Hearts & Colors",
+          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
+        }
+      ],
+      "duration_ms": 186845,
+      "name": "Love Her Anyways",
+      "url": "https://open.spotify.com/track/3B8TBGV0upObaUd9z4O9W8"
     },
     {
       "added_at": "2023-07-28 15:11:46",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbttAJcbphz.md) - [plain]
 
 > The most essential R&B songs from the 2010s\. Cover: Summer Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,518,392 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,519,452 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,16 +86,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbttAJcbphz.md) - [plain]
 | 76 | [Post to Be \(feat\. Chris Brown & Jhene Aiko\)](https://open.spotify.com/track/0fgZUSa7D7aVvv3GfO0A1n) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sex Playlist](https://open.spotify.com/album/13QoXGJgs22WiDG1NWT00D) | 3:46 |
 | 77 | [20 Something](https://open.spotify.com/track/4h6ViRoztTBpWcJ1zFT9Zg) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 3:18 |
 | 78 | [Pour It Up](https://open.spotify.com/track/76VtA90NKurNqaQpV126Ue) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2) | 2:41 |
-| 79 | [I Want You Around](https://open.spotify.com/track/2gjidmxtA1pyj2HYrdOTG1) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD) | 3:32 |
+| 79 | [Planez](https://open.spotify.com/track/08zJpaUQVi9FrKv2e32Bah) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Late Nights: The Album](https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96) | 4:00 |
 | 80 | [The Worst](https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sail Out](https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq) | 4:14 |
-| 81 | [Planez](https://open.spotify.com/track/08zJpaUQVi9FrKv2e32Bah) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Late Nights: The Album](https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96) | 4:00 |
+| 81 | [I Want You Around](https://open.spotify.com/track/2gjidmxtA1pyj2HYrdOTG1) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD) | 3:32 |
 | 82 | [PERSIAN RUGS](https://open.spotify.com/track/2SWbnWSe1onmbllRAU46uo) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 2:54 |
 | 83 | [Deuces \(feat\. Tyga & Kevin McCall\)](https://open.spotify.com/track/6wN4nT2qy3MQc098yL3Eu9) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Kevin McCall](https://open.spotify.com/artist/2teIxF2qgr0rYmTTMKiZ7s) | [F.A.M.E\. \(Expanded Edition\)](https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb) | 4:36 |
 | 84 | [What You Need \- Original](https://open.spotify.com/track/4Yw8TyBm9J8cpy2guHUYog) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [House Of Balloons \(Original\)](https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd) | 3:26 |
 | 85 | [Adorn](https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Kaleidoscope Dream](https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD) | 3:13 |
 | 86 | [Slow Motion](https://open.spotify.com/track/4NYwy0R3NdvORX2B6OZXBT) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Trigga Reloaded](https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW) | 3:17 |
-| 87 | [Kickin’ Back](https://open.spotify.com/track/5xjTqz4aYQeBnFhwMPmfx9) | [Mila J](https://open.spotify.com/artist/6cN9XwPMj9bWzJ32GC6V7v) | [213](https://open.spotify.com/album/3wlzfD1t9CCQToaqR0rYFG) | 3:22 |
-| 88 | [She Don't \(feat\. Ty Dolla $Ign\)](https://open.spotify.com/track/01JPQ87UHeGysPVwTqMJHK) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Time](https://open.spotify.com/album/0AoPcGhCHaz9K96DoJoKlu) | 4:24 |
+| 87 | [She Don't \(feat\. Ty Dolla $Ign\)](https://open.spotify.com/track/01JPQ87UHeGysPVwTqMJHK) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Time](https://open.spotify.com/album/0AoPcGhCHaz9K96DoJoKlu) | 4:24 |
+| 88 | [Kickin’ Back](https://open.spotify.com/track/5xjTqz4aYQeBnFhwMPmfx9) | [Mila J](https://open.spotify.com/artist/6cN9XwPMj9bWzJ32GC6V7v) | [213](https://open.spotify.com/album/3wlzfD1t9CCQToaqR0rYFG) | 3:22 |
 | 89 | [Every Kind Of Way](https://open.spotify.com/track/0Aa3g9EQoPNt6PiKjaUeb7) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R.](https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY) | 2:40 |
 | 90 | [It Won't Stop \(feat\. Chris Brown\) \- EP Version](https://open.spotify.com/track/2xRYnHQdLD9ketvC01UYYT) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Call Me Crazy, But...](https://open.spotify.com/album/3QpNG7nH0VRIeKmMz7lEi7) | 4:41 |
 | 91 | [Honesty](https://open.spotify.com/track/4K5d58UkmjqNsA7kY43jgt) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Volume 1](https://open.spotify.com/album/0j7uROzHS1tk3SmgP6zSPi) | 3:11 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbttAJcbphz.md) - [plain]
 | 94 | [You](https://open.spotify.com/track/01jIO8SJFnpSiNLH1JaBZ5) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [4275 \(Bonus Version\)](https://open.spotify.com/album/03AdJ15pTDdmxry6qkKwlO) | 3:37 |
 | 95 | [Blue Lights](https://open.spotify.com/track/1It1TxBK3xIQAB4xJkPevn) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 4:10 |
 | 96 | [Hold Me Down](https://open.spotify.com/track/1Mza2sr6tPhy6jjI3HB9fW) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 3:51 |
-| 97 | [Hold On](https://open.spotify.com/track/5tqZJUHEuqdN12RZVq2l9p) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 6:46 |
-| 98 | [Boo'd Up](https://open.spotify.com/track/0At2qAoaVjIwWNAqrscXli) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [READY](https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi) | 4:16 |
+| 97 | [Boo'd Up](https://open.spotify.com/track/0At2qAoaVjIwWNAqrscXli) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [READY](https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi) | 4:16 |
+| 98 | [Hold On](https://open.spotify.com/track/5tqZJUHEuqdN12RZVq2l9p) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 6:46 |
 | 99 | [Body Party](https://open.spotify.com/track/0rFZaQ4crlGAzuCjWCQ2xu) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Ciara](https://open.spotify.com/album/1ZhBKlFwsI2ppVo8LivPyG) | 3:54 |
 | 100 | [John Redcorn](https://open.spotify.com/track/5ibTi2YwtvbB1bTOv2I93d) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Chasing Summer](https://open.spotify.com/album/5zUDvKAyEKkrhYLWJJWGPQ) | 3:07 |
 
-Snapshot ID: `MCw1OTEwYzMwNjA0NTgyNmQ1MGY4MzMwNDE1ZWNhNDljMWRlOTIyMWU3`
+Snapshot ID: `MCw3ZDUwNTRkYTM4MGMwYmE5ZjI1NGJmOTk5NTlmNjJkZmM4NzAzZjBk`

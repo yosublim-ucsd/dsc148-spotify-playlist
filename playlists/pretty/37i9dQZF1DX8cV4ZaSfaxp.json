@@ -1,12 +1,12 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: aiai) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 44039,
+  "num_followers": 44068,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZmZhZjVmZTg3ZGJhM2VlMmJmNjI4OWU0NGI1MGYyYTY3MDE4MzYx",
+  "snapshot_id": "MCwyZmRkN2NkNDFlNWY3NGU1YmExMmQ1MDM5MmI3OWEwMmJlMzMzYTVh",
   "tracks": [
     {
       "added_at": "2023-07-13 05:23:23",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-07-13 05:23:23",
       "album": {
+        "name": "REBOOT",
+        "url": "https://open.spotify.com/album/3in3RzViPTp3fZo51rmJoB"
+      },
+      "artists": [
+        {
+          "name": "Wonder Girls",
+          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
+        }
+      ],
+      "duration_ms": 213480,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/2YZa0dsV3xXGZ61XFYiRt8"
+    },
+    {
+      "added_at": "2023-07-13 05:23:23",
+      "album": {
         "name": "Seoul Check-in OST Part 5",
         "url": "https://open.spotify.com/album/2deDzuHfGo5kH9tKBvm8jD"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 200460,
       "name": "Beautiful Night",
       "url": "https://open.spotify.com/track/6w5I5eJCuNSNa3FdEq4sfs"
-    },
-    {
-      "added_at": "2023-07-13 05:23:23",
-      "album": {
-        "name": "Red Light - The 3rd Album",
-        "url": "https://open.spotify.com/album/6T9SFwLGHVU75jRAjUJn3W"
-      },
-      "artists": [
-        {
-          "name": "f(x)",
-          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
-        }
-      ],
-      "duration_ms": 210042,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/2YtNFUkfxnYtg6ts8zfq93"
     },
     {
       "added_at": "2023-07-13 05:23:23",
@@ -447,18 +447,18 @@
     {
       "added_at": "2023-07-13 05:23:23",
       "album": {
-        "name": "REBOOT",
-        "url": "https://open.spotify.com/album/3in3RzViPTp3fZo51rmJoB"
+        "name": "Red Light - The 3rd Album",
+        "url": "https://open.spotify.com/album/6T9SFwLGHVU75jRAjUJn3W"
       },
       "artists": [
         {
-          "name": "Wonder Girls",
-          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
+          "name": "f(x)",
+          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
         }
       ],
-      "duration_ms": 213480,
-      "name": "Rewind",
-      "url": "https://open.spotify.com/track/2YZa0dsV3xXGZ61XFYiRt8"
+      "duration_ms": 210042,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/2YtNFUkfxnYtg6ts8zfq93"
     },
     {
       "added_at": "2023-07-13 05:23:23",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-07-13 05:23:23",
       "album": {
+        "name": "Our Love is Great",
+        "url": "https://open.spotify.com/album/5pkSoMZZUsVf0R8Rh68xy3"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 233003,
+      "name": "Maybe It\u2019s Not Our Fault",
+      "url": "https://open.spotify.com/track/5fuOfU241WSA328TgwsFgj"
+    },
+    {
+      "added_at": "2023-07-13 05:23:23",
+      "album": {
         "name": "Lion Heart - The 5th Album",
         "url": "https://open.spotify.com/album/4eKdn0skJCidO2wqIJyCgB"
       },
@@ -695,6 +711,22 @@
     {
       "added_at": "2023-07-13 05:23:23",
       "album": {
+        "name": "SOUL LADY",
+        "url": "https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF"
+      },
+      "artists": [
+        {
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+        }
+      ],
+      "duration_ms": 215693,
+      "name": "SOUL LADY",
+      "url": "https://open.spotify.com/track/6at6MpTibyLqAYnBee95Ev"
+    },
+    {
+      "added_at": "2023-07-13 05:23:23",
+      "album": {
         "name": "Color of Night",
         "url": "https://open.spotify.com/album/36u4F4DHUfQc4Zli7TgHQN"
       },
@@ -715,22 +747,6 @@
     {
       "added_at": "2023-07-13 05:23:23",
       "album": {
-        "name": "SOUL LADY",
-        "url": "https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF"
-      },
-      "artists": [
-        {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
-        }
-      ],
-      "duration_ms": 215693,
-      "name": "SOUL LADY",
-      "url": "https://open.spotify.com/track/6at6MpTibyLqAYnBee95Ev"
-    },
-    {
-      "added_at": "2023-07-13 05:23:23",
-      "album": {
         "name": "\u2018The ReVe Festival\u2019 Day 2",
         "url": "https://open.spotify.com/album/3DXz6ItR9DzIw9S0h3Cxfc"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 236746,
       "name": "Ladies Night",
       "url": "https://open.spotify.com/track/73pkNaWK4N5QfkjabwW40s"
-    },
-    {
-      "added_at": "2023-07-13 05:23:23",
-      "album": {
-        "name": "Our Love is Great",
-        "url": "https://open.spotify.com/album/5pkSoMZZUsVf0R8Rh68xy3"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 233003,
-      "name": "Maybe It\u2019s Not Our Fault",
-      "url": "https://open.spotify.com/track/5fuOfU241WSA328TgwsFgj"
     },
     {
       "added_at": "2023-07-13 05:23:23",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-07-13 05:23:23",
       "album": {
-        "name": "5min to heartbreak",
-        "url": "https://open.spotify.com/album/5Pxpez2LzgGCu3LZTzfxwa"
-      },
-      "artists": [
-        {
-          "name": "Choi HEART",
-          "url": "https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m"
-        }
-      ],
-      "duration_ms": 200053,
-      "name": "5min to heartbreak",
-      "url": "https://open.spotify.com/track/7Ei4gfGU4wrXLTw2xcBcYw"
-    },
-    {
-      "added_at": "2023-07-13 05:23:23",
-      "album": {
         "name": "Onstage Digging Club Seoul THEME 01",
         "url": "https://open.spotify.com/album/45jJuM9HOtrpzx1k3p1bGd"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 252798,
       "name": "Suddenly - Digging Club Seoul Version",
       "url": "https://open.spotify.com/track/7Iae3TKL6i9q1U3I7mS372"
+    },
+    {
+      "added_at": "2023-07-13 05:23:23",
+      "album": {
+        "name": "5min to heartbreak",
+        "url": "https://open.spotify.com/album/5Pxpez2LzgGCu3LZTzfxwa"
+      },
+      "artists": [
+        {
+          "name": "Choi HEART",
+          "url": "https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m"
+        }
+      ],
+      "duration_ms": 200053,
+      "name": "5min to heartbreak",
+      "url": "https://open.spotify.com/track/7Ei4gfGU4wrXLTw2xcBcYw"
     },
     {
       "added_at": "2023-07-13 05:23:23",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-07-13 05:23:23",
       "album": {
-        "name": "Elastic Love",
-        "url": "https://open.spotify.com/album/5SCdzFlU1PZvvWjQiKmDOC"
-      },
-      "artists": [
-        {
-          "name": "Choi HEART",
-          "url": "https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m"
-        }
-      ],
-      "duration_ms": 218880,
-      "name": "Elastic Love",
-      "url": "https://open.spotify.com/track/1M1ra01EyWZXFP1hdvvcPJ"
-    },
-    {
-      "added_at": "2023-07-13 05:23:23",
-      "album": {
         "name": "Aquarium",
         "url": "https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 248078,
       "name": "& New",
       "url": "https://open.spotify.com/track/49U6ijIBwe6XZ2d2H7VDDe"
+    },
+    {
+      "added_at": "2023-07-13 05:23:23",
+      "album": {
+        "name": "Elastic Love",
+        "url": "https://open.spotify.com/album/5SCdzFlU1PZvvWjQiKmDOC"
+      },
+      "artists": [
+        {
+          "name": "Choi HEART",
+          "url": "https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m"
+        }
+      ],
+      "duration_ms": 218880,
+      "name": "Elastic Love",
+      "url": "https://open.spotify.com/track/1M1ra01EyWZXFP1hdvvcPJ"
     },
     {
       "added_at": "2023-07-13 05:23:23",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-07-13 05:23:23",
       "album": {
-        "name": "\uac15\uc218\uc9c0 BEST ALBUM",
-        "url": "https://open.spotify.com/album/1cNgGqmtg1009Ij9opel30"
-      },
-      "artists": [
-        {
-          "name": "\uac15\uc218\uc9c0",
-          "url": "https://open.spotify.com/artist/6yvfQfQ8CS9aXvGlyHEdoi"
-        }
-      ],
-      "duration_ms": 208236,
-      "name": "\ubcf4\ub77c\ube5b \ud5a5\uae30",
-      "url": "https://open.spotify.com/track/0yGkMcsEVqhvL9P8dizVap"
-    },
-    {
-      "added_at": "2023-07-13 05:23:23",
-      "album": {
         "name": "Aquarium",
         "url": "https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 270270,
       "name": "Orange Road (with YUKIKA)",
       "url": "https://open.spotify.com/track/0HITwsLMbMXKmiOyz41OjP"
+    },
+    {
+      "added_at": "2023-07-13 05:23:23",
+      "album": {
+        "name": "\uac15\uc218\uc9c0 BEST ALBUM",
+        "url": "https://open.spotify.com/album/1cNgGqmtg1009Ij9opel30"
+      },
+      "artists": [
+        {
+          "name": "\uac15\uc218\uc9c0",
+          "url": "https://open.spotify.com/artist/6yvfQfQ8CS9aXvGlyHEdoi"
+        }
+      ],
+      "duration_ms": 208236,
+      "name": "\ubcf4\ub77c\ube5b \ud5a5\uae30",
+      "url": "https://open.spotify.com/track/0yGkMcsEVqhvL9P8dizVap"
     },
     {
       "added_at": "2023-07-13 05:23:23",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-07-13 05:23:23",
       "album": {
-        "name": "I Just Wanna Dance - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU"
-      },
-      "artists": [
-        {
-          "name": "TIFFANY",
-          "url": "https://open.spotify.com/artist/1t2HKR34gLWuQyyzLHcSm4"
-        }
-      ],
-      "duration_ms": 214490,
-      "name": "TALK",
-      "url": "https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4"
-    },
-    {
-      "added_at": "2023-07-13 05:23:23",
-      "album": {
         "name": "Aquarium",
         "url": "https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 223351,
       "name": "Haru (with meenoi)",
       "url": "https://open.spotify.com/track/7BQfXOQiDBvDr1tamfYwwT"
+    },
+    {
+      "added_at": "2023-07-13 05:23:23",
+      "album": {
+        "name": "I Just Wanna Dance - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU"
+      },
+      "artists": [
+        {
+          "name": "TIFFANY",
+          "url": "https://open.spotify.com/artist/1t2HKR34gLWuQyyzLHcSm4"
+        }
+      ],
+      "duration_ms": 214490,
+      "name": "TALK",
+      "url": "https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4"
     },
     {
       "added_at": "2023-07-13 05:23:23",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2023-07-13 05:23:23",
       "album": {
+        "name": "REBOOT",
+        "url": "https://open.spotify.com/album/3in3RzViPTp3fZo51rmJoB"
+      },
+      "artists": [
+        {
+          "name": "Wonder Girls",
+          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "I Feel You",
+      "url": "https://open.spotify.com/track/4VDY2adUsc1up1nitWztVg"
+    },
+    {
+      "added_at": "2023-07-13 05:23:23",
+      "album": {
         "name": "Myspace",
         "url": "https://open.spotify.com/album/2MV3aQb0BMMLqaydFaTci7"
       },
@@ -1391,6 +1407,22 @@
       "duration_ms": 213150,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/6HwxnR6UWhMPv5HyWmh3vN"
+    },
+    {
+      "added_at": "2023-07-13 05:23:23",
+      "album": {
+        "name": "\u90fd\u5e02\u5973\u5b50",
+        "url": "https://open.spotify.com/album/3ntOyPFFZxF6iIjXL3E8by"
+      },
+      "artists": [
+        {
+          "name": "Yubin",
+          "url": "https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE"
+        }
+      ],
+      "duration_ms": 197604,
+      "name": "\u90fd\u5e02\u5973\u5b50",
+      "url": "https://open.spotify.com/track/5KBeit6bMhlgfYwZuDTxoH"
     },
     {
       "added_at": "2023-07-13 05:23:23",
@@ -1495,6 +1527,22 @@
     {
       "added_at": "2023-07-13 05:23:23",
       "album": {
+        "name": "REBOOT",
+        "url": "https://open.spotify.com/album/3in3RzViPTp3fZo51rmJoB"
+      },
+      "artists": [
+        {
+          "name": "Wonder Girls",
+          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
+        }
+      ],
+      "duration_ms": 233306,
+      "name": "Faded Love",
+      "url": "https://open.spotify.com/track/0atlweNQsTyvhaXLJZvyba"
+    },
+    {
+      "added_at": "2023-07-13 05:23:23",
+      "album": {
         "name": "\ucf54\ucf54\ub11b \ub7ec\ube0c Coconut Love",
         "url": "https://open.spotify.com/album/2TDl3weGAb7UUd8xf5CyYk"
       },
@@ -1523,22 +1571,6 @@
       "duration_ms": 232906,
       "name": "Wonder Woman",
       "url": "https://open.spotify.com/track/6xvJJyGmKG0oOFcdJ5wF16"
-    },
-    {
-      "added_at": "2023-07-13 05:23:23",
-      "album": {
-        "name": "REBOOT",
-        "url": "https://open.spotify.com/album/3in3RzViPTp3fZo51rmJoB"
-      },
-      "artists": [
-        {
-          "name": "Wonder Girls",
-          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "I Feel You",
-      "url": "https://open.spotify.com/track/4VDY2adUsc1up1nitWztVg"
     },
     {
       "added_at": "2023-07-13 05:23:23",
@@ -1575,22 +1607,6 @@
     {
       "added_at": "2023-07-13 05:23:23",
       "album": {
-        "name": "\u90fd\u5e02\u5973\u5b50",
-        "url": "https://open.spotify.com/album/3ntOyPFFZxF6iIjXL3E8by"
-      },
-      "artists": [
-        {
-          "name": "Yubin",
-          "url": "https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE"
-        }
-      ],
-      "duration_ms": 197604,
-      "name": "\u90fd\u5e02\u5973\u5b50",
-      "url": "https://open.spotify.com/track/5KBeit6bMhlgfYwZuDTxoH"
-    },
-    {
-      "added_at": "2023-07-13 05:23:23",
-      "album": {
         "name": "Starry Night",
         "url": "https://open.spotify.com/album/6dPTCj1x52RQX4ALieYp5N"
       },
@@ -1623,26 +1639,6 @@
     {
       "added_at": "2023-07-13 05:23:23",
       "album": {
-        "name": "AQUA CITY",
-        "url": "https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2"
-      },
-      "artists": [
-        {
-          "name": "Kim Areum",
-          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
-        },
-        {
-          "name": "Muzie",
-          "url": "https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg"
-        }
-      ],
-      "duration_ms": 299500,
-      "name": "Aqua (feat. Muzie)",
-      "url": "https://open.spotify.com/track/2wxvPuX2kCTVBRn42Ez6fC"
-    },
-    {
-      "added_at": "2023-07-13 05:23:23",
-      "album": {
         "name": "GFRIEND The 7th Mini Album `FEVER SEASON`",
         "url": "https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR"
       },
@@ -1659,26 +1655,22 @@
     {
       "added_at": "2023-07-13 05:23:23",
       "album": {
-        "name": "Seoul Vibes, Oceanic",
-        "url": "https://open.spotify.com/album/2gQ2s0q9UDJRYhpAdVCjSs"
+        "name": "AQUA CITY",
+        "url": "https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2"
       },
       "artists": [
         {
-          "name": "KozyPop",
-          "url": "https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi"
+          "name": "KIM A REUM",
+          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
         },
         {
-          "name": "Aden",
-          "url": "https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv"
-        },
-        {
-          "name": "H!",
-          "url": "https://open.spotify.com/artist/3gVpUJcNNDu43pV4xlzmyJ"
+          "name": "Muzie",
+          "url": "https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg"
         }
       ],
-      "duration_ms": 191498,
-      "name": "Come With Me (feat. Aden & H!)",
-      "url": "https://open.spotify.com/track/6QGgZu5a3oDPO2NMrlesCd"
+      "duration_ms": 299500,
+      "name": "Aqua (feat. Muzie)",
+      "url": "https://open.spotify.com/track/2wxvPuX2kCTVBRn42Ez6fC"
     }
   ],
   "unique_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",

@@ -1,12 +1,12 @@
 {
   "description": "Rakkautta, mit\u00e4 muuta ihminen tarvitsee.",
-  "num_followers": 32344,
+  "num_followers": 32343,
   "original_name": "Min\u00e4 sinua vaan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2I3MzFjM2M5YzBmNGMwZTI2YTM1M2Q1ODZkMWQ5NWY3MWYzNjA3",
+  "snapshot_id": "MCwyNWZkOGMyODQzZDI3NDIxMWQwMWJlMTc0MGZlZjBhZjAzZTA0OWU4",
   "tracks": [
     {
       "added_at": "2023-05-23 11:12:31",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-05-23 11:12:31",
       "album": {
-        "name": "The Very Best of Bonnie Tyler",
-        "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Tyler",
-          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
-        }
-      ],
-      "duration_ms": 267360,
-      "name": "Total Eclipse of the Heart",
-      "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
-    },
-    {
-      "added_at": "2023-05-23 11:12:31",
-      "album": {
         "name": "Delirium (Deluxe)",
         "url": "https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 252534,
       "name": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
       "url": "https://open.spotify.com/track/3zHq9ouUJQFQRf3cm1rRLu"
+    },
+    {
+      "added_at": "2023-05-23 11:12:31",
+      "album": {
+        "name": "The Very Best of Bonnie Tyler",
+        "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Tyler",
+          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
+        }
+      ],
+      "duration_ms": 267360,
+      "name": "Total Eclipse of the Heart",
+      "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
     },
     {
       "added_at": "2023-05-23 11:12:31",
@@ -879,22 +879,22 @@
     {
       "added_at": "2023-05-23 11:12:31",
       "album": {
-        "name": "The World We Knew",
-        "url": "https://open.spotify.com/album/67Evm6gPc9wFSUf1aXOrKO"
+        "name": "Is There Anybody Out There?",
+        "url": "https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "A Great Big World",
+          "url": "https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF"
         },
         {
-          "name": "Nancy Sinatra",
-          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 162493,
-      "name": "Somethin' Stupid",
-      "url": "https://open.spotify.com/track/4feXcsElKIVsGwkbnTHAfV"
+      "duration_ms": 229400,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N"
     },
     {
       "added_at": "2023-05-23 11:12:31",
@@ -915,22 +915,22 @@
     {
       "added_at": "2023-05-23 11:12:31",
       "album": {
-        "name": "Is There Anybody Out There?",
-        "url": "https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl"
+        "name": "The World We Knew",
+        "url": "https://open.spotify.com/album/67Evm6gPc9wFSUf1aXOrKO"
       },
       "artists": [
         {
-          "name": "A Great Big World",
-          "url": "https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         },
         {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
         }
       ],
-      "duration_ms": 229400,
-      "name": "Say Something",
-      "url": "https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N"
+      "duration_ms": 162493,
+      "name": "Somethin' Stupid",
+      "url": "https://open.spotify.com/track/4feXcsElKIVsGwkbnTHAfV"
     },
     {
       "added_at": "2023-05-23 11:12:31",
@@ -1127,6 +1127,26 @@
     {
       "added_at": "2023-05-23 11:12:31",
       "album": {
+        "name": "Perfect Duet (Ed Sheeran & Beyonc\u00e9)",
+        "url": "https://open.spotify.com/album/52kvZcbEDm0v2kWZQXjuuA"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 259550,
+      "name": "Perfect Duet (Ed Sheeran & Beyonc\u00e9)",
+      "url": "https://open.spotify.com/track/1bhUWB0zJMIKr9yVPrkEuI"
+    },
+    {
+      "added_at": "2023-05-23 11:12:31",
+      "album": {
         "name": "All-4-One",
         "url": "https://open.spotify.com/album/4L5ZA0GukWNWjsk9b7HHDy"
       },
@@ -1139,22 +1159,6 @@
       "duration_ms": 259853,
       "name": "I Swear",
       "url": "https://open.spotify.com/track/4WUnM4KNZ0kjp0CUeoyOnS"
-    },
-    {
-      "added_at": "2023-05-23 11:12:31",
-      "album": {
-        "name": "You're The First, The Last, My Everything",
-        "url": "https://open.spotify.com/album/3t2UIcBhhF4x11PFUr5Wbf"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 212906,
-      "name": "You're The First, The Last, My Everything - Single Version",
-      "url": "https://open.spotify.com/track/3ZYO0HGRFFdAGeb8o7F9KC"
     }
   ],
   "unique_name": "Min\u00e4 sinua vaan",

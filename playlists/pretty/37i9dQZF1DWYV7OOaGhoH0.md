@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today\. Cover: Tyler Childers
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,865,541 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,865,666 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 | 99 | [You're Not Alone \[Feat\. Brandi Carlile\]](https://open.spotify.com/track/4ltCYG04Xhzv5cViM6mp16) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [You're Not Alone \[Feat\. Brandi Carlile\]](https://open.spotify.com/album/6uBCu9hARcX7SlAvOD501U) | 5:09 |
 | 100 | [You and Me On The Rock \(In The Canyon Haze\)](https://open.spotify.com/track/1ydzL5SIoSRCpEIYWhsWE5) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days \(Deluxe Edition\) In The Canyon Haze](https://open.spotify.com/album/2FOAtTMAfplWnTKf7rl12Q) | 4:17 |
 
-Snapshot ID: `MCwwMjM5ZDU5ZWZjY2JlYzkzNmUzNWI3M2Q4MTI0NmYyNjg4YzY5ZjI4`
+Snapshot ID: `MCxjNmU4ZjdlNTVlY2QxZTA0MDA1NjY2ZDE2NmUxMmMwOTkxMDg0NjNh`

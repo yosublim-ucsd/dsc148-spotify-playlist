@@ -1,12 +1,12 @@
 {
   "description": "Voc\u00ea n\u00e3o para quando est\u00e1 cansado, s\u00f3 quando terminar!",
-  "num_followers": 413020,
+  "num_followers": 413044,
   "original_name": "Pegando Pesado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTYyYzUzM2FkZWIxNjdmYTdjYmQ3Y2E0ZWMzNGVhNzYwN2FhZDdh",
+  "snapshot_id": "MCw2ZGNkYTJhOTA2MWVlM2NlNzhkYzJjNDU3MGIwNzA0NmFkM2U1MmJj",
   "tracks": [
     {
       "added_at": "2019-06-28 02:33:37",
@@ -267,22 +267,6 @@
     {
       "added_at": "2019-06-28 02:33:37",
       "album": {
-        "name": "Get Born",
-        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
-      },
-      "artists": [
-        {
-          "name": "Jet",
-          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Are You Gonna Be My Girl",
-      "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
-    },
-    {
-      "added_at": "2019-06-28 02:33:37",
-      "album": {
         "name": "Hail to the King",
         "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 305906,
       "name": "Hail to the King",
       "url": "https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo"
+    },
+    {
+      "added_at": "2019-06-28 02:33:37",
+      "album": {
+        "name": "Get Born",
+        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
+      },
+      "artists": [
+        {
+          "name": "Jet",
+          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Are You Gonna Be My Girl",
+      "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
     },
     {
       "added_at": "2019-06-28 02:33:37",
@@ -315,22 +315,6 @@
     {
       "added_at": "2019-06-28 02:33:37",
       "album": {
-        "name": "That's The Spirit",
-        "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 191520,
-      "name": "Throne",
-      "url": "https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H"
-    },
-    {
-      "added_at": "2019-06-28 02:33:37",
-      "album": {
         "name": "Riot!",
         "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 211520,
       "name": "Misery Business",
       "url": "https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU"
+    },
+    {
+      "added_at": "2019-06-28 02:33:37",
+      "album": {
+        "name": "That's The Spirit",
+        "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 191520,
+      "name": "Throne",
+      "url": "https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H"
     },
     {
       "added_at": "2019-06-28 02:33:37",
@@ -635,22 +635,6 @@
     {
       "added_at": "2019-06-28 02:33:37",
       "album": {
-        "name": "The Battle Of Los Angeles",
-        "url": "https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX"
-      },
-      "artists": [
-        {
-          "name": "Rage Against The Machine",
-          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
-        }
-      ],
-      "duration_ms": 206200,
-      "name": "Guerrilla Radio",
-      "url": "https://open.spotify.com/track/1wsRitfRRtWyEapl0q22o8"
-    },
-    {
-      "added_at": "2019-06-28 02:33:37",
-      "album": {
         "name": "Wolfgang Amadeus Phoenix",
         "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 193106,
       "name": "1901",
       "url": "https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta"
+    },
+    {
+      "added_at": "2019-06-28 02:33:37",
+      "album": {
+        "name": "The Battle Of Los Angeles",
+        "url": "https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX"
+      },
+      "artists": [
+        {
+          "name": "Rage Against The Machine",
+          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+        }
+      ],
+      "duration_ms": 206200,
+      "name": "Guerrilla Radio",
+      "url": "https://open.spotify.com/track/1wsRitfRRtWyEapl0q22o8"
     },
     {
       "added_at": "2019-06-28 02:33:37",
@@ -715,22 +715,6 @@
     {
       "added_at": "2019-06-28 02:33:37",
       "album": {
-        "name": "The Colour And The Shape",
-        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 231480,
-      "name": "Monkey Wrench",
-      "url": "https://open.spotify.com/track/44wXefe8WB9Fd6xwtmAwbR"
-    },
-    {
-      "added_at": "2019-06-28 02:33:37",
-      "album": {
         "name": "Swan Songs",
         "url": "https://open.spotify.com/album/2UYxjXHKm1JDT6JA7OSeR6"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 265053,
       "name": "Undead",
       "url": "https://open.spotify.com/track/5wBLDkxVvclanSitx5jq8e"
+    },
+    {
+      "added_at": "2019-06-28 02:33:37",
+      "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 231480,
+      "name": "Monkey Wrench",
+      "url": "https://open.spotify.com/track/44wXefe8WB9Fd6xwtmAwbR"
     },
     {
       "added_at": "2019-06-28 02:33:37",
@@ -779,22 +779,6 @@
     {
       "added_at": "2019-06-28 02:33:37",
       "album": {
-        "name": "Celebrity Skin",
-        "url": "https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId"
-      },
-      "artists": [
-        {
-          "name": "Hole",
-          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "Celebrity Skin",
-      "url": "https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ"
-    },
-    {
-      "added_at": "2019-06-28 02:33:37",
-      "album": {
         "name": "That's The Spirit",
         "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 239386,
       "name": "Happy Song",
       "url": "https://open.spotify.com/track/1yYE8EyuIV0rrvQ1bA2Fyf"
+    },
+    {
+      "added_at": "2019-06-28 02:33:37",
+      "album": {
+        "name": "Celebrity Skin",
+        "url": "https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId"
+      },
+      "artists": [
+        {
+          "name": "Hole",
+          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+        }
+      ],
+      "duration_ms": 162666,
+      "name": "Celebrity Skin",
+      "url": "https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ"
     },
     {
       "added_at": "2019-06-28 02:33:37",
@@ -843,22 +843,6 @@
     {
       "added_at": "2019-06-28 02:33:37",
       "album": {
-        "name": "Human",
-        "url": "https://open.spotify.com/album/0YkHsU3Mblh7jvNngbV20W"
-      },
-      "artists": [
-        {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        }
-      ],
-      "duration_ms": 200146,
-      "name": "I Am Machine",
-      "url": "https://open.spotify.com/track/2UDumaw7osnyjH7RZ2DLpB"
-    },
-    {
-      "added_at": "2019-06-28 02:33:37",
-      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/3q3DB4fElKDIDE2bXTLFlb"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 291426,
       "name": "Your Betrayal",
       "url": "https://open.spotify.com/track/25GC50HslaaruyrKjdu0lP"
+    },
+    {
+      "added_at": "2019-06-28 02:33:37",
+      "album": {
+        "name": "Human",
+        "url": "https://open.spotify.com/album/0YkHsU3Mblh7jvNngbV20W"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "duration_ms": 200146,
+      "name": "I Am Machine",
+      "url": "https://open.spotify.com/track/2UDumaw7osnyjH7RZ2DLpB"
     },
     {
       "added_at": "2019-06-28 02:33:37",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2019-06-28 02:33:37",
       "album": {
-        "name": "Wolfmother",
-        "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
-      },
-      "artists": [
-        {
-          "name": "Wolfmother",
-          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
-        }
-      ],
-      "duration_ms": 280466,
-      "name": "Joker And The Thief",
-      "url": "https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa"
-    },
-    {
-      "added_at": "2019-06-28 02:33:37",
-      "album": {
         "name": "When Legends Rise",
         "url": "https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 193253,
       "name": "HandClap",
       "url": "https://open.spotify.com/track/4qRaZYiaOsSvWC7VgcxrI0"
+    },
+    {
+      "added_at": "2019-06-28 02:33:37",
+      "album": {
+        "name": "Wolfmother",
+        "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
+      },
+      "artists": [
+        {
+          "name": "Wolfmother",
+          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
+        }
+      ],
+      "duration_ms": 280466,
+      "name": "Joker And The Thief",
+      "url": "https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa"
     },
     {
       "added_at": "2019-06-28 02:33:37",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2019-06-28 02:33:37",
       "album": {
-        "name": "Ashes of the Wake (15th Anniversary)",
-        "url": "https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 230127,
-      "name": "Laid to Rest",
-      "url": "https://open.spotify.com/track/1yc53HK08sDab7PDFgnLWk"
-    },
-    {
-      "added_at": "2019-06-28 02:33:37",
-      "album": {
         "name": "Tonight The Stars Revolt",
         "url": "https://open.spotify.com/album/3Z3yndLeHs01iYPSNzTBBk"
       },
@@ -1227,22 +1211,6 @@
     {
       "added_at": "2019-06-28 02:33:37",
       "album": {
-        "name": "Wisconsin Death Trip",
-        "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 154906,
-      "name": "Push It",
-      "url": "https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2"
-    },
-    {
-      "added_at": "2019-06-28 02:33:37",
-      "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/4uNwpYU5QyX2u0kkkEFLR4"
       },
@@ -1255,6 +1223,38 @@
       "duration_ms": 304373,
       "name": "Awake",
       "url": "https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX"
+    },
+    {
+      "added_at": "2019-06-28 02:33:37",
+      "album": {
+        "name": "Ashes of the Wake (15th Anniversary)",
+        "url": "https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 230127,
+      "name": "Laid to Rest",
+      "url": "https://open.spotify.com/track/1yc53HK08sDab7PDFgnLWk"
+    },
+    {
+      "added_at": "2019-06-28 02:33:37",
+      "album": {
+        "name": "Wisconsin Death Trip",
+        "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 154906,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2"
     },
     {
       "added_at": "2019-06-28 02:33:37",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2019-06-28 02:33:37",
       "album": {
+        "name": "The Oracle (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6yOWKkrlpmUWOC5yndULeq"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "Cryin' Like A Bitch!!",
+      "url": "https://open.spotify.com/track/4a9i7rCLfPjbS1sNamZeQN"
+    },
+    {
+      "added_at": "2019-06-28 02:33:37",
+      "album": {
         "name": "Meliora (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 252360,
       "name": "Send the Pain Below",
       "url": "https://open.spotify.com/track/6dRAAG4sB71NAtVCHJep7s"
-    },
-    {
-      "added_at": "2019-06-28 02:33:37",
-      "album": {
-        "name": "The Oracle (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6yOWKkrlpmUWOC5yndULeq"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "Cryin' Like A Bitch!!",
-      "url": "https://open.spotify.com/track/4a9i7rCLfPjbS1sNamZeQN"
     },
     {
       "added_at": "2019-06-28 02:33:37",

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:00CMSJdbf36zOzKB3z8JrR">Victor Cardenas</a>'s favorite tracks\. Updated regularly\. Curated by Victor Cardenas\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-87 songs - 5 hr 14 min
+88 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Forbidden Voices](https://open.spotify.com/track/6EsH66Uto1zwZlDGQ6RokU) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Forbidden Voices](https://open.spotify.com/album/3COyh97TYskmV4cOqPed49) | 3:50 | 2022-06-30 |  |
 | [Get together \(feat\. Devito\) \- Tuborg Open Mix](https://open.spotify.com/track/6km0jEcoy7ab26k4b4ZiWl) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Devito](https://open.spotify.com/artist/0JQ4vokBBqHxHzRb36fSWN) | [Get together \(feat\. Devito\) \[Tuborg Open Mix\]](https://open.spotify.com/album/3c5A4ffJTynPXfws4MHM4M) | 2:11 | 2022-06-30 |  |
 | [Get Up \(Rattle\)](https://open.spotify.com/track/1zYsvExrADZ5L7Epqd5J6D) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq) | [Get Up \(Rattle\)](https://open.spotify.com/album/7atvI5BIhbfq7sGp6jjCz3) | 2:46 | 2022-06-30 | 2023-03-03 |
-| [Get Up \(Rattle\) \[feat\. Far East Movement\] \- Vocal Edit](https://open.spotify.com/track/3bu6Gu2lzm9VEoab1za8BM) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq) | [Get Up \(Rattle\) \[feat\. Far East Movement\]](https://open.spotify.com/album/1qnQH3SVJ19CIO16VW2tes) | 2:46 | 2023-01-09 |  |
+| [Get Up \(Rattle\) \[feat\. Far East Movement\] \- Vocal Edit](https://open.spotify.com/track/3bu6Gu2lzm9VEoab1za8BM) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq) | [Get Up \(Rattle\) \[feat\. Far East Movement\]](https://open.spotify.com/album/1qnQH3SVJ19CIO16VW2tes) | 2:46 | 2023-01-09 | 2023-08-11 |
+| [Get Up \(Rattle\) \[feat\. Far East Movement\] \- Vocal Edit](https://open.spotify.com/track/3wLPRjw2XQpmowqXUXb3UF) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq) | [Get Up \(Rattle\) \[feat\. Far East Movement\]](https://open.spotify.com/album/2i27N4YvO0SHfZtMyBUnj6) | 2:46 | 2023-01-09 |  |
 | [Gitana](https://open.spotify.com/track/6uYPlED0KRKGhRVrOAQfov) | [JC Arcila](https://open.spotify.com/artist/1qW7P4wsDj1nz8SSS99weV), [Kobba](https://open.spotify.com/artist/1dLn9atu3IGUNdCc96zlbU) | [Gitana](https://open.spotify.com/album/7cZqsW8nj6nmgzeqVL5uTk) | 2:38 | 2022-06-30 |  |
 | [HIT IT \(feat\. Saweetie & Lele Pons\)](https://open.spotify.com/track/3F450ZpnsuW5G7YMmjMLmi) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [HIT IT \(feat\. Saweetie & Lele Pons\)](https://open.spotify.com/album/1xSMnmIJ4Eeqo7zTm84OO3) | 3:55 | 2022-06-30 |  |
 | [In My Head](https://open.spotify.com/track/69uxus0d23ZnTHXi1dVldS) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ) | [In My Head](https://open.spotify.com/album/6nCrDS9ApohnfQvXWHLSEu) | 2:51 | 2022-06-30 |  |

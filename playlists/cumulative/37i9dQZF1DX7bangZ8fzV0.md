@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J?si=m5AVXRVKQzGnJmCkSoPmwQ">Snotkop</a>
+> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx?si=vschVYCPThSoXFG9\-NSEFg">Bernice West</a>
 
-162 songs - 9 hr 3 min
+164 songs - 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,12 +14,14 @@
 | [Afrika Son](https://open.spotify.com/track/6AmJU5Rtf7vXcubCYJitGa) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Afrika Son](https://open.spotify.com/album/2AeonSEurMMMp7nfCKoRg2) | 2:50 | 2022-09-01 | 2022-10-21 |
 | [Afrikaans is Alles](https://open.spotify.com/track/3eeGal6kEMlUaPnxY7bTtJ) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Afrikaans is Alles](https://open.spotify.com/album/6L81naBshdxYFpIBllKhGj) | 3:53 | 2023-03-09 | 2023-04-28 |
 | [As die Plaas Byt](https://open.spotify.com/track/3ygtwhrpxC9K6vvzTXVfNK) | [Marissa](https://open.spotify.com/artist/2uFAfVNLrN2ewh731Oc0C6) | [As die Plaas Byt](https://open.spotify.com/album/4PGN89EQTVefM2Gfrq1q9z) | 3:33 | 2022-10-20 |  |
+| [As Hy Weer Kom](https://open.spotify.com/track/5XRiNFuNKfDBUlAIUqmNSm) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [As Hy Weer Kom](https://open.spotify.com/album/7lkDfSy0MUwIp6N8JQCZQF) | 3:07 | 2023-08-10 |  |
 | [ATKV](https://open.spotify.com/track/5pctBxFOGMxzrR7BfVWMoL) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Hittegolf](https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH) | 3:04 | 2022-11-03 |  |
-| [Ballade Vir 'N Enkeling](https://open.spotify.com/track/3AnbHTbNiQuURUxHiiFBtl) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [Ja\. Nee\. Lekker\. \(Deluxe Edition\)](https://open.spotify.com/album/6ntTrtwUni1E0PAlSe61rY) | 3:02 | 2023-03-09 |  |
+| [Ballade Vir 'N Enkeling](https://open.spotify.com/track/3AnbHTbNiQuURUxHiiFBtl) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [Ja\. Nee\. Lekker\. \(Deluxe Edition\)](https://open.spotify.com/album/6ntTrtwUni1E0PAlSe61rY) | 3:02 | 2023-03-09 | 2023-08-11 |
 | [Beheer Verloor](https://open.spotify.com/track/0f875VUlQ6bv1yoma2TYUZ) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Beheer Verloor](https://open.spotify.com/album/3AO17da9Gz9djPWZf8XoJC) | 3:01 | 2022-09-01 | 2022-12-02 |
 | [Bella](https://open.spotify.com/track/2laH6IayV3wrHxjjsFawOK) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Aansteeklik](https://open.spotify.com/album/3dOKf9YXYnPLlRLaCwsL2G) | 4:13 | 2022-10-20 | 2022-11-04 |
 | [Beskerm Jou Hart](https://open.spotify.com/track/6L7t6WouMiMp03T6IocgBQ) | [Deidré Barnard](https://open.spotify.com/artist/4uNWMdfRm0Fd0qbOxBgFPL) | [Beskerm Jou Hart](https://open.spotify.com/album/1ic0wKTlW4AsHzEwfKSIPv) | 3:12 | 2023-01-27 | 2023-05-05 |
 | [Bietjie Benoni](https://open.spotify.com/track/5JGkomhAMrzfikSR4BGuYh) | [Lianie May](https://open.spotify.com/artist/4twrMtMv4MY0x42vuaar9B) | [Bietjie Benoni](https://open.spotify.com/album/2ulADrlXBpiPp6fTeI9pl4) | 3:23 | 2022-04-28 |  |
+| [Boer In My Hart](https://open.spotify.com/track/3O2mkRrUcsxZGETDCWPSjy) | [VAN WEST](https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq) | [Boer In My Hart](https://open.spotify.com/album/4JL1ZXeecKOOsbZFRJnuqj) | 3:50 | 2023-08-10 |  |
 | [Boerepompie \(feat\. Snotkop\)](https://open.spotify.com/track/6bQrPl31SAzC5bepMr7vSp) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg), [Snotkop](https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J) | [Boerepompie \(feat\. Snotkop\)](https://open.spotify.com/album/2Cu7dy6YFbDGrDzJuPzgLN) | 3:42 | 2023-03-09 | 2023-03-18 |
 | [Bokswyn](https://open.spotify.com/track/4ZdEKnyBbsxJf0FRd3rTb5) | [Caroline Grace](https://open.spotify.com/artist/4Nq6DSOfx3sAWV9ED0WtZM) | [Bokswyn](https://open.spotify.com/album/0AUEv3KyWp0AGzlxq0sjud) | 3:09 | 2022-08-18 |  |
 | [Bosveld Vakansie](https://open.spotify.com/track/6LHiWLGfFYRV9iUCrcC2Gf) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [Sing Hoop Weerklink](https://open.spotify.com/album/38dU50ugb1c3kWmrdJqUg8) | 3:32 | 2022-11-10 | 2022-12-09 |
@@ -116,7 +118,7 @@
 | [O My Vy](https://open.spotify.com/track/6UPiIutgybDU0QljOWWUHf) | [FATMAN](https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3) | [O My Vy](https://open.spotify.com/album/0vFiwfmHqB84pPcp6tWcbh) | 3:29 | 2022-10-20 |  |
 | [Oh La La](https://open.spotify.com/track/25P45klCq8CfhgwnQ1i6ts) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl), [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Loufi Flippen Loufi](https://open.spotify.com/album/32nDgPOF75LUn7GoCpewjK) | 3:33 | 2023-06-22 | 2023-07-28 |
 | [Ons Twee Genoeg \(feat\. Marissa\)](https://open.spotify.com/track/6e91EOUzqp7CITax2iB4rd) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG), [Marissa](https://open.spotify.com/artist/2uFAfVNLrN2ewh731Oc0C6) | [Ons Twee Genoeg \(feat\. Marissa\)](https://open.spotify.com/album/6hInSb4NV8bhtdgblONeJG) | 4:02 | 2023-03-16 | 2023-05-05 |
-| [Ontlaai](https://open.spotify.com/track/6v1hZo339lw7OUT5vH66DC) | [Ilán van Staden](https://open.spotify.com/artist/7FUqmUXFmllziX2NgD4Knj) | [Ontlaai](https://open.spotify.com/album/0B1W6DEeGMPMFlg3eREW9b) | 4:03 | 2023-02-02 |  |
+| [Ontlaai](https://open.spotify.com/track/6v1hZo339lw7OUT5vH66DC) | [Ilán van Staden](https://open.spotify.com/artist/7FUqmUXFmllziX2NgD4Knj) | [Ontlaai](https://open.spotify.com/album/0B1W6DEeGMPMFlg3eREW9b) | 4:03 | 2023-02-02 | 2023-08-11 |
 | [Oor te Begin](https://open.spotify.com/track/7fDLyEb8DtTKeKTwu8cmWk) | [Ivan Roux](https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA) | [Opsoek Na Liefde](https://open.spotify.com/album/1quI6r74xYBDLjb3BOy6IX) | 3:16 | 2022-06-09 | 2023-06-30 |
 | [Ophou](https://open.spotify.com/track/2vRJC11heZ6GqkmnqXTnrO) | [Karlien Van Jaarsveld](https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5) | [Ophou](https://open.spotify.com/album/4DgQmYYVWDOszCGW7McXWe) | 3:32 | 2022-09-29 |  |
 | [Opstaan](https://open.spotify.com/track/1n27zP11I3ZAq1ElZYEPtO) | [Karlien Van Jaarsveld](https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5) | [Opstaan](https://open.spotify.com/album/24rkKZ0UUz70PKK0tHvFsu) | 3:32 | 2023-03-09 | 2023-04-07 |

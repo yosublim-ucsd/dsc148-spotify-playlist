@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 
 > The best in Dancehall for the gyaldem\. Cover: Tina \(Hoodcelebrityy\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,912 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,989 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 17 | [Fever](https://open.spotify.com/track/0btB1fHGwvipD4IUmyh1vL) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [King Of The Dancehall](https://open.spotify.com/album/2aekHyNMelpHfvD4p5zlOk) | 3:24 |
 | 18 | [Whine & Kotch](https://open.spotify.com/track/5o5yQsdZblzaqzgBFDVJTv) | [J Capri](https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20), [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Whine & Kotch](https://open.spotify.com/album/6rWFf1oVidy2nKpf1w53bQ) | 3:37 |
 | 19 | [Shen Yeng Anthem](https://open.spotify.com/track/4lqqbSHGGR5BRtnmnky00G) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Shen Yeng Anthem](https://open.spotify.com/album/5ITcrOlnxhUg2uvlGNPJhT) | 2:21 |
-| 20 | [Come Over \(feat\. Popcaan\)](https://open.spotify.com/track/58mtgcQVZ56NgWHKsN94nD) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Come Over \(feat\. Popcaan\)](https://open.spotify.com/album/6sYqQ3Pem0Ml376lKx545S) | 3:28 |
-| 21 | [Crocodile Teeth](https://open.spotify.com/track/2QXv4NKNCuqCDmOTwcOjrN) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Crocodile Teeth](https://open.spotify.com/album/3f1oDLHky5itUghicXgwjg) | 2:46 |
+| 20 | [Crocodile Teeth](https://open.spotify.com/track/2QXv4NKNCuqCDmOTwcOjrN) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Crocodile Teeth](https://open.spotify.com/album/3f1oDLHky5itUghicXgwjg) | 2:46 |
+| 21 | [Come Over \(feat\. Popcaan\)](https://open.spotify.com/track/58mtgcQVZ56NgWHKsN94nD) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Come Over \(feat\. Popcaan\)](https://open.spotify.com/album/6sYqQ3Pem0Ml376lKx545S) | 3:28 |
 | 22 | [W \(feat\. Gunna\)](https://open.spotify.com/track/6xW2g0c5uSoa3S6xk9eI4j) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [W \(feat\. Gunna\)](https://open.spotify.com/album/4CGh0wfCdEh3xZVHx8uJK5) | 3:50 |
 | 23 | [Slow Down](https://open.spotify.com/track/0jPEWByX9DZAQb5zyQ6eng) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 3:14 |
 | 24 | [Foreplay](https://open.spotify.com/track/3QFOdlIjY2EyjLij20OjdB) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Foreplay](https://open.spotify.com/album/7fMMeGFAPp2upuxTKqofYp) | 2:46 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 38 | [Lockdown](https://open.spotify.com/track/0izUjTuDrUy2FgQOSRALSU) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Lockdown](https://open.spotify.com/album/0tJs3Wig9YBdDG8jGKeLq6) | 2:59 |
 | 39 | [Curious](https://open.spotify.com/track/3kH4ElFSbaNiNejXE71dga) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Curious](https://open.spotify.com/album/4v8HOUiwFEMkvYpnlzEsX4) | 2:41 |
 | 40 | [Needle Eye](https://open.spotify.com/track/6gt4crRNZ5Soua4BP52HXv) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Needle Eye \- Single](https://open.spotify.com/album/3xMal1HXLb88nb1EpVi8mv) | 3:05 |
-| 41 | [DUNCE BARBIE](https://open.spotify.com/track/2I1fpOTZmVr6ATXe6fCTXI) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc) | [Dunce Barbie](https://open.spotify.com/album/6jwIFkOJ1blyCR0hzsY0MP) | 2:45 |
-| 42 | [Watch Dem](https://open.spotify.com/track/1zwuv4ff9QdtX4RrN6Q4bU) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Watch Dem](https://open.spotify.com/album/4RDFDKrZfd5LLdINaMEevT) | 2:20 |
+| 41 | [Watch Dem](https://open.spotify.com/track/1zwuv4ff9QdtX4RrN6Q4bU) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Watch Dem](https://open.spotify.com/album/4RDFDKrZfd5LLdINaMEevT) | 2:20 |
+| 42 | [DUNCE BARBIE](https://open.spotify.com/track/2I1fpOTZmVr6ATXe6fCTXI) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc) | [Dunce Barbie](https://open.spotify.com/album/6jwIFkOJ1blyCR0hzsY0MP) | 2:45 |
 | 43 | [50 Bag](https://open.spotify.com/track/2mSDdspei0yKfZTfnbHiAp) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [50 Bag](https://open.spotify.com/album/7wT7EfuPP1WFHI5YEwjw2b) | 3:04 |
 | 44 | [Always](https://open.spotify.com/track/1ge5u2oNzB340gHdMCdTSl) | [Gaza Slim](https://open.spotify.com/artist/7mPRzTE0BI6QMFmWhevSog) | [Girl Boss \- The Realest Girl](https://open.spotify.com/album/3m2CNO9jD3BKz8vusgkDYE) | 3:14 |
 | 45 | [Open The Door](https://open.spotify.com/track/7Ib4HxrkMe8iHweXxMsev5) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Govana](https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39), [Dj Papis](https://open.spotify.com/artist/3a2dlVcm5z0ha2j9ihlQmP) | [Open The Door](https://open.spotify.com/album/26sEQnPSKzyRxk85fvF0ln) | 3:43 |
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 63 | [No Limit](https://open.spotify.com/track/5D8ChOpWBYGR5R1NFDhL1z) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [No Limit](https://open.spotify.com/album/48yig5ryaViHZ3Rh3itItz) | 2:38 |
 | 64 | [Nuh Reason](https://open.spotify.com/track/3AjY1Uq9a0eMmuhLzddY5G) | [Jahvillani](https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK) | [Preserve Mi Life](https://open.spotify.com/album/27zFlK0mhEIf4tkjbVBAMR) | 3:18 |
 | 65 | [Heavy!](https://open.spotify.com/track/6QQb9IsS797WWbHWgsyiQf) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Heavy!](https://open.spotify.com/album/4fkjpMo0MufbdR6YyY4pQ9) | 2:45 |
-| 66 | [Heels On](https://open.spotify.com/track/0NWgQIhsa5Jn9OtmMq56zm) | [Lady Saw](https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK) | [Heels On \- Single](https://open.spotify.com/album/32QwqUCDMihv6W0jcts4oo) | 3:50 |
-| 67 | [Put It On You](https://open.spotify.com/track/7h4h6wl9unB1dIoRsxA1Yw) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [The Red Room Intro \(Yard Gyal Inna Britain\)](https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH) | 3:05 |
-| 68 | [Yamabella](https://open.spotify.com/track/0kXox7KhOnDs62txnUSLF1) | [Shaneil Muir](https://open.spotify.com/artist/6ilIhmo2Ijzq3BnKuxf2KQ) | [Yamabella](https://open.spotify.com/album/1MOESZoQnGJnCwXy6vm1Bs) | 2:54 |
+| 66 | [Yamabella](https://open.spotify.com/track/0kXox7KhOnDs62txnUSLF1) | [Shaneil Muir](https://open.spotify.com/artist/6ilIhmo2Ijzq3BnKuxf2KQ) | [Yamabella](https://open.spotify.com/album/1MOESZoQnGJnCwXy6vm1Bs) | 2:54 |
+| 67 | [Heels On](https://open.spotify.com/track/0NWgQIhsa5Jn9OtmMq56zm) | [Lady Saw](https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK) | [Heels On \- Single](https://open.spotify.com/album/32QwqUCDMihv6W0jcts4oo) | 3:50 |
+| 68 | [Put It On You](https://open.spotify.com/track/7h4h6wl9unB1dIoRsxA1Yw) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [The Red Room Intro \(Yard Gyal Inna Britain\)](https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH) | 3:05 |
 | 69 | [I Dare You](https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [Soca Gold 2007](https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm) | 3:32 |
 | 70 | [Feelings](https://open.spotify.com/track/6qB7EBjM6CTOPPEVsXenQL) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc) | [Feelings](https://open.spotify.com/album/1jtt9i4POLOx0kWuPmhdL5) | 2:35 |
 | 71 | [Tek Weh Yuhself](https://open.spotify.com/track/6PWhaGqUfwAXX7MyRluOAu) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [The Biggest Ragga Dancehall Anthems 2007](https://open.spotify.com/album/7ddsTEh3W8FDNKQx0QJrxx) | 2:56 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 74 | [Banana](https://open.spotify.com/track/7nF0TnQV9RIzn1mIlr5qxC) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Banana](https://open.spotify.com/album/3UeUx9etR6Rg7VeqO8EdPu) | 2:30 |
 | 75 | [Where We Come From](https://open.spotify.com/track/1UXBxulT5ezQKMk99DZ602) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Where We Come From](https://open.spotify.com/album/3iZe5yKemYO68gNG9hQ33C) | 4:02 |
 
-Snapshot ID: `MCxhMzVhMDg4OWE4ZGIwYzVjMGNmNDg5OGQ3NzJmMWRiMzNmN2QyM2Iz`
+Snapshot ID: `MCw3ZTI2YWFmYzA3Zjg4MjY3ZDU5MzlmMzY1ZDA2NWRiOWIxZGMyZDQw`

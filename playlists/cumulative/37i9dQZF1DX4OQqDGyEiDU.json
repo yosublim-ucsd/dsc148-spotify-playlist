@@ -494,7 +494,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 132032,
       "name": "CH4NGE - feat. KAFU",
       "url": "https://open.spotify.com/track/3ipGZWQ7Q64OA7SwFNVfy2"
@@ -2242,7 +2242,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 230040,
       "name": "Rise (feat. Hatsune Miku) - Guiano Vocaloid Remix With \u0394",
       "url": "https://open.spotify.com/track/3TaNfmkBp2woaZ7HyEe0jt"
@@ -7199,6 +7199,24 @@
     },
     {
       "album": {
+        "name": "\u4e07\u7269\u6d41\u8ee2",
+        "url": "https://open.spotify.com/album/25d8d4FfPeE5qwY4ziazKa"
+      },
+      "artists": [
+        {
+          "name": "\u306c\u3086\u308a",
+          "url": "https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229047,
+      "name": "\u4e07\u7269\u6d41\u8ee2",
+      "url": "https://open.spotify.com/track/5b1itBKmlv5u0Ge3PEi1qb"
+    },
+    {
+      "album": {
         "name": "\u4e0b\u524b\u4e0a",
         "url": "https://open.spotify.com/album/0btduDvRtBcOyLGi2zF5z9"
       },
@@ -9510,6 +9528,24 @@
       "duration_ms": 192485,
       "name": "\u9b3c\u306e\u5c45\u306c\u9593\u306b",
       "url": "https://open.spotify.com/track/2IN6XI9EDkeCvYF0NAXu6V"
+    },
+    {
+      "album": {
+        "name": "\u9b54\u5929\u697c",
+        "url": "https://open.spotify.com/album/2vlTk0u2twffIAFYVQDozz"
+      },
+      "artists": [
+        {
+          "name": "\u716e\u30eb\u679c\u5b9f",
+          "url": "https://open.spotify.com/artist/3wG9JLlVmrbpfKcBuQ2xlh"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195600,
+      "name": "\u9b54\u5929\u697c",
+      "url": "https://open.spotify.com/track/3LPkrY0tXzqY9dx7DodNCH"
     },
     {
       "album": {

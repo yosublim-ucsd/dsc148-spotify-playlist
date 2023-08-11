@@ -4,7 +4,7 @@
 
 > Este Flow tiene otro Flow\. Foto: El Jordan 23.
 
-441 songs - 1 day 1 hr 9 min
+442 songs - 1 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -439,6 +439,7 @@
 | [VÁMONOS PA LA EUROPA](https://open.spotify.com/track/2VfBDjJ0tZ9XUi24aQibTM) | [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [VÁMONOS PA LA EUROPA](https://open.spotify.com/album/1wI6Z4ek2MVDY3bKDtuXwe) | 3:12 | 2023-07-21 |  |
 | [Waka Waka](https://open.spotify.com/track/0PKHOIZYG7tszv17tgIZlZ) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Waka Waka](https://open.spotify.com/album/2RhraG6BolsoZb7bw8WuK8) | 3:00 | 2022-05-23 | 2022-08-09 |
 | [Waka Waka](https://open.spotify.com/track/4EsOVRSNYAeBLorDkTvBfE) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Waka Waka](https://open.spotify.com/album/5gL3ppwre9kdeUXHrHxkRT) | 3:00 | 2022-08-05 | 2022-12-10 |
+| [WAXITA](https://open.spotify.com/track/5PLI8xCQguTvnMzY3k07eU) | [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [WAXITA](https://open.spotify.com/album/424QB0Q060FF2jwNR8ZbEc) | 2:24 | 2023-08-04 |  |
 | [Xipetiao](https://open.spotify.com/track/2NjMCSgDnIZw22PUwWg8lV) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Xipetiao](https://open.spotify.com/album/0ke5VtGrdgbivqJJusyK5I) | 4:28 | 2022-05-23 | 2022-12-17 |
 | [XQ TAN SOLA?](https://open.spotify.com/track/5DoGJMtInwrPZrzyKnuqMi) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [XQ TAN SOLA?](https://open.spotify.com/album/3Yd8cEiwelgcJrxPi6YEWE) | 3:20 | 2023-04-07 |  |
 | [YA TO SAEN K ERES MIA](https://open.spotify.com/track/4ZJBWt867WdntFMLIhFuek) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [DONNER](https://open.spotify.com/artist/2agGIdhbRlnsnQVWv6jkA6) | [YA TO SAEN K ERES MIA](https://open.spotify.com/album/6pQFdZXVWMgwHxt4YQzpKS) | 2:58 | 2023-03-03 | 2023-06-10 |

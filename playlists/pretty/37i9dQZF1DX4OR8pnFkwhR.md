@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: First Love is Never Returned
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,011 likes - 70 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,024 likes - 70 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 3 | [灰かぶり](https://open.spotify.com/track/1eHgJysShUOu4p4jnRdoi4) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [灰かぶり](https://open.spotify.com/album/5CltyRkCnztzDYVvi79WDW) | 3:40 |
 | 4 | [fake face dance music](https://open.spotify.com/track/4ayU74yaWEgHHpaf1WJ313) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [fake face dance music](https://open.spotify.com/album/1oSTnI41dwQQbO2GaYEL4I) | 2:31 |
 | 5 | [TOMATO](https://open.spotify.com/track/0GJP5g4CjVWfxdUJ97n5wt) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [TOMATO](https://open.spotify.com/album/3If07ziOsFa5ckwcn86S2H) | 3:12 |
-| 6 | [Pacific Line](https://open.spotify.com/track/0rwbiEv4W9yAgtumneO8OM) | [Kidella](https://open.spotify.com/artist/3eCZ7jkNialvGc9YlHqWnE) | [The Miseducation of Kidella](https://open.spotify.com/album/228W8YwNPHPSnWe4ebP6jr) | 4:14 |
-| 7 | [BASH BASH \- feat\. JP THE WAVY & Awich](https://open.spotify.com/track/3du1NqFvvqJhqzssK5GPAB) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [19](https://open.spotify.com/album/284soVdmAHfn5XhcDqSgbm) | 3:07 |
+| 6 | [BASH BASH \- feat\. JP THE WAVY & Awich](https://open.spotify.com/track/3du1NqFvvqJhqzssK5GPAB) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [19](https://open.spotify.com/album/284soVdmAHfn5XhcDqSgbm) | 3:07 |
+| 7 | [Rich and Famous](https://open.spotify.com/track/009ynJN5ikFFNalJZz4vhT) | [Kidella](https://open.spotify.com/artist/3eCZ7jkNialvGc9YlHqWnE), [ARTRILLA](https://open.spotify.com/artist/4WhRuNkczfkiEL2DqPQ9nm) | [Chillin THAILAND](https://open.spotify.com/album/76aeQ3TfgndxXY3oT4rmUh) | 3:54 |
 | 8 | [scorpion.](https://open.spotify.com/track/3JGeI4YN3Luqsvo0EXjXND) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [scorpion.](https://open.spotify.com/album/572kvsrM2Jb4EmO93m65Om) | 2:43 |
 | 9 | [T・P・P](https://open.spotify.com/track/42UXRtOOMC3NsK0tb6NfsG) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU), [Pecori](https://open.spotify.com/artist/1seX236woEXAlmlfqDLi3t) | [T・P・P](https://open.spotify.com/album/6za2iN5N0S2AFoIh4YMwrv) | 3:14 |
 | 10 | [Raise](https://open.spotify.com/track/5VOPZfKO6Q03IAiVckyAvU) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [for you](https://open.spotify.com/album/0AL3p6UDvVaOrbb1NeYGY9) | 3:34 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 69 | [kaibutsu](https://open.spotify.com/track/0zBaLbvJbcZjErOL8OqdX8) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [kaibutsu](https://open.spotify.com/album/4SwTst06JhUkdd8KtOO6Rj) | 2:35 |
 | 70 | [flowers](https://open.spotify.com/track/7Eg3cExvmyurdw2VZwcOAJ) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [flowers](https://open.spotify.com/album/6dtq4C39es0fbPxv9o0jhY) | 4:20 |
 
-Snapshot ID: `MCxkZDRhM2I5MTgyMTI4ZDM2OTJkN2Q5ZDQ3MmZjOTYwOTlhN2UzOGUw`
+Snapshot ID: `MCwwNTZlNTQyMmM2ZWM1M2ZkMWQ5NzQyODFiM2U0YWQ5ZjU1MGY5NmM0`

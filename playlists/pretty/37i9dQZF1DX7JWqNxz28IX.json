@@ -1,12 +1,12 @@
 {
   "description": "canzoni tristi, rap e indie, per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, sol\u00f8)",
-  "num_followers": 39591,
+  "num_followers": 39610,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWM2M2FkOTExM2QwNjE0ZGE0OTdhZmMxOWU4ZDViNjZjODE2Y2Ix",
+  "snapshot_id": "MCw4NmRmZjNhMjA3NTUwYWM4NTk5ZjNlOWI5NTUzNDFiNTE4YjQyZmJk",
   "tracks": [
     {
       "added_at": "2023-06-29 22:01:00",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
+        "name": "Spazjo",
+        "url": "https://open.spotify.com/album/0SkvATM6H406JvRlnW0CFu"
+      },
+      "artists": [
+        {
+          "name": "Anzj",
+          "url": "https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu"
+        }
+      ],
+      "duration_ms": 158307,
+      "name": "un*cielo*di*stelle",
+      "url": "https://open.spotify.com/track/5QGoerQWihK8qio4ANSkUL"
+    },
+    {
+      "added_at": "2023-06-29 22:01:00",
+      "album": {
         "name": "ALESSIA",
         "url": "https://open.spotify.com/album/2vcA80mMkhOmL3hi2xrMo2"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 144187,
       "name": "ALESSIA",
       "url": "https://open.spotify.com/track/4q0yteddAlr8X9MAv1GDXQ"
-    },
-    {
-      "added_at": "2023-06-29 22:01:00",
-      "album": {
-        "name": "Spazjo",
-        "url": "https://open.spotify.com/album/0SkvATM6H406JvRlnW0CFu"
-      },
-      "artists": [
-        {
-          "name": "Anzj",
-          "url": "https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu"
-        }
-      ],
-      "duration_ms": 158307,
-      "name": "un*cielo*di*stelle",
-      "url": "https://open.spotify.com/track/5QGoerQWihK8qio4ANSkUL"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "Autopsia",
-        "url": "https://open.spotify.com/album/01bwlYW15thIL49JrwibKC"
-      },
-      "artists": [
-        {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
-        }
-      ],
-      "duration_ms": 208504,
-      "name": "Autopsia",
-      "url": "https://open.spotify.com/track/5wEdC22OgyM7umwe6XeCms"
-    },
-    {
-      "added_at": "2023-06-29 22:01:00",
-      "album": {
         "name": "Hasta la Muerte",
         "url": "https://open.spotify.com/album/5NNcyVXkfTUP2Y9ddLfAE0"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 120058,
       "name": "Hasta la Muerte",
       "url": "https://open.spotify.com/track/13ayZLGRDxX85NEG78hIjF"
+    },
+    {
+      "added_at": "2023-06-29 22:01:00",
+      "album": {
+        "name": "Autopsia",
+        "url": "https://open.spotify.com/album/01bwlYW15thIL49JrwibKC"
+      },
+      "artists": [
+        {
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+        }
+      ],
+      "duration_ms": 208504,
+      "name": "Autopsia",
+      "url": "https://open.spotify.com/track/5wEdC22OgyM7umwe6XeCms"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "Campi Elisi",
-        "url": "https://open.spotify.com/album/6InYmFNRQalW1mmaTgq3zT"
+        "name": "Cose stupide",
+        "url": "https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq"
       },
       "artists": [
         {
-          "name": "FRERO",
-          "url": "https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox"
+          "name": "Tenth Sky",
+          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
         }
       ],
-      "duration_ms": 177931,
-      "name": "Campi Elisi",
-      "url": "https://open.spotify.com/track/4odUYVpvAQi8ilcE2BCTnK"
+      "duration_ms": 172216,
+      "name": "Empatia",
+      "url": "https://open.spotify.com/track/43ciZSXCJTd4Is849vdbRC"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "Cose stupide",
-        "url": "https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq"
-      },
-      "artists": [
-        {
-          "name": "Tenth Sky",
-          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
-        }
-      ],
-      "duration_ms": 172216,
-      "name": "Empatia",
-      "url": "https://open.spotify.com/track/43ciZSXCJTd4Is849vdbRC"
-    },
-    {
-      "added_at": "2023-06-29 22:01:00",
-      "album": {
         "name": "Hai fatto tardi",
         "url": "https://open.spotify.com/album/24zYSQ7kCKJix98rGkGn5m"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 172923,
       "name": "Hai fatto tardi",
       "url": "https://open.spotify.com/track/1JcIxBJtgklUN9Sl2Rdla2"
+    },
+    {
+      "added_at": "2023-06-29 22:01:00",
+      "album": {
+        "name": "Campi Elisi",
+        "url": "https://open.spotify.com/album/6InYmFNRQalW1mmaTgq3zT"
+      },
+      "artists": [
+        {
+          "name": "FRERO",
+          "url": "https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox"
+        }
+      ],
+      "duration_ms": 177931,
+      "name": "Campi Elisi",
+      "url": "https://open.spotify.com/track/4odUYVpvAQi8ilcE2BCTnK"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -1023,34 +1023,18 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "Emorragie",
-        "url": "https://open.spotify.com/album/4to4NixKdGXwvE5NupNWkk"
+        "name": "SBAGLI",
+        "url": "https://open.spotify.com/album/2QBjof3TQC9crDTYKzz8dg"
       },
       "artists": [
         {
-          "name": "Samuele CYMA",
-          "url": "https://open.spotify.com/artist/1RXsSSM8C7wdG5FSxDTMFM"
+          "name": "Zeta",
+          "url": "https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP"
         }
       ],
-      "duration_ms": 258028,
-      "name": "Emorragie",
-      "url": "https://open.spotify.com/track/68nozAqBarkGnr37KKfREu"
-    },
-    {
-      "added_at": "2023-06-29 22:01:00",
-      "album": {
-        "name": "Winston Blue",
-        "url": "https://open.spotify.com/album/0M95QrJhwkP2WHdX8ECfHT"
-      },
-      "artists": [
-        {
-          "name": "WECH PUTO",
-          "url": "https://open.spotify.com/artist/6Y9tJfn6ECnWpZngpRIFfK"
-        }
-      ],
-      "duration_ms": 151013,
-      "name": "Winston Blue",
-      "url": "https://open.spotify.com/track/78WU5Aet5mAFziFp8Xtd1i"
+      "duration_ms": 158048,
+      "name": "SBAGLI",
+      "url": "https://open.spotify.com/track/376pQQ2QTVuqOP1HmiKymm"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -1071,18 +1055,34 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "SBAGLI",
-        "url": "https://open.spotify.com/album/2QBjof3TQC9crDTYKzz8dg"
+        "name": "Winston Blue",
+        "url": "https://open.spotify.com/album/0M95QrJhwkP2WHdX8ECfHT"
       },
       "artists": [
         {
-          "name": "Zeta",
-          "url": "https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP"
+          "name": "WECH PUTO",
+          "url": "https://open.spotify.com/artist/6Y9tJfn6ECnWpZngpRIFfK"
         }
       ],
-      "duration_ms": 158048,
-      "name": "SBAGLI",
-      "url": "https://open.spotify.com/track/376pQQ2QTVuqOP1HmiKymm"
+      "duration_ms": 151013,
+      "name": "Winston Blue",
+      "url": "https://open.spotify.com/track/78WU5Aet5mAFziFp8Xtd1i"
+    },
+    {
+      "added_at": "2023-06-29 22:01:00",
+      "album": {
+        "name": "Emorragie",
+        "url": "https://open.spotify.com/album/4to4NixKdGXwvE5NupNWkk"
+      },
+      "artists": [
+        {
+          "name": "Samuele CYMA",
+          "url": "https://open.spotify.com/artist/1RXsSSM8C7wdG5FSxDTMFM"
+        }
+      ],
+      "duration_ms": 258028,
+      "name": "Emorragie",
+      "url": "https://open.spotify.com/track/68nozAqBarkGnr37KKfREu"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "AUTORITRATTO",
-        "url": "https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712"
-      },
-      "artists": [
-        {
-          "name": "Zoda",
-          "url": "https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB"
-        }
-      ],
-      "duration_ms": 133658,
-      "name": "SOGNI",
-      "url": "https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0"
-    },
-    {
-      "added_at": "2023-06-29 22:01:00",
-      "album": {
         "name": "Ceramica",
         "url": "https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 193000,
       "name": "Ceramica",
       "url": "https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9"
+    },
+    {
+      "added_at": "2023-06-29 22:01:00",
+      "album": {
+        "name": "AUTORITRATTO",
+        "url": "https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712"
+      },
+      "artists": [
+        {
+          "name": "Zoda",
+          "url": "https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB"
+        }
+      ],
+      "duration_ms": 133658,
+      "name": "SOGNI",
+      "url": "https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "Non Mi Passa",
-        "url": "https://open.spotify.com/album/4hDPcR2QtJ6o9uAh2UEmxh"
-      },
-      "artists": [
-        {
-          "name": "Zeta",
-          "url": "https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP"
-        }
-      ],
-      "duration_ms": 136265,
-      "name": "Non Mi Passa",
-      "url": "https://open.spotify.com/track/1ZukPve2ImtM1f1ZbD9ATQ"
-    },
-    {
-      "added_at": "2023-06-29 22:01:00",
-      "album": {
         "name": "TAXI DRIVER (MTV Unplugged)",
         "url": "https://open.spotify.com/album/3cZPj6lCLw8aia3nAiNKo8"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 205358,
       "name": "APNEA - MTV Unplugged",
       "url": "https://open.spotify.com/track/3DP8cUzSO9tJx7tGShuS4c"
+    },
+    {
+      "added_at": "2023-06-29 22:01:00",
+      "album": {
+        "name": "Non Mi Passa",
+        "url": "https://open.spotify.com/album/4hDPcR2QtJ6o9uAh2UEmxh"
+      },
+      "artists": [
+        {
+          "name": "Zeta",
+          "url": "https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP"
+        }
+      ],
+      "duration_ms": 136265,
+      "name": "Non Mi Passa",
+      "url": "https://open.spotify.com/track/1ZukPve2ImtM1f1ZbD9ATQ"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -1387,22 +1387,18 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "Shama \u00e8 buono",
-        "url": "https://open.spotify.com/album/4XWdTJr5axPt4DAZRkEpOX"
+        "name": "X4",
+        "url": "https://open.spotify.com/album/49Qeb8YVPKSN3OBkvwXyWl"
       },
       "artists": [
         {
-          "name": "Shama24k",
-          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
-        },
-        {
-          "name": "Mike Defunto",
-          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
+          "name": "Alek",
+          "url": "https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY"
         }
       ],
-      "duration_ms": 144750,
-      "name": "Shama \u00e8 buono",
-      "url": "https://open.spotify.com/track/73sBRhhyCwGx8VtdGHhwcl"
+      "duration_ms": 154390,
+      "name": "X4",
+      "url": "https://open.spotify.com/track/57PzEk2wg7T1JtKwwhBpIT"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -1443,18 +1439,22 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "X4",
-        "url": "https://open.spotify.com/album/49Qeb8YVPKSN3OBkvwXyWl"
+        "name": "Shama \u00e8 buono",
+        "url": "https://open.spotify.com/album/4XWdTJr5axPt4DAZRkEpOX"
       },
       "artists": [
         {
-          "name": "Alek",
-          "url": "https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY"
+          "name": "Shama24k",
+          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
+        },
+        {
+          "name": "Mike Defunto",
+          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
         }
       ],
-      "duration_ms": 154390,
-      "name": "X4",
-      "url": "https://open.spotify.com/track/57PzEk2wg7T1JtKwwhBpIT"
+      "duration_ms": 144750,
+      "name": "Shama \u00e8 buono",
+      "url": "https://open.spotify.com/track/73sBRhhyCwGx8VtdGHhwcl"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
+        "name": "Palude 4",
+        "url": "https://open.spotify.com/album/54in2b7QYjcF5hCOMcZANu"
+      },
+      "artists": [
+        {
+          "name": "Blue Virus",
+          "url": "https://open.spotify.com/artist/7H9TcusDoz60eSTxB0Avxn"
+        }
+      ],
+      "duration_ms": 213818,
+      "name": "Palude 4",
+      "url": "https://open.spotify.com/track/0QKWZgWId3t9aZpcgA3Qr1"
+    },
+    {
+      "added_at": "2023-06-29 22:01:00",
+      "album": {
         "name": "Rottami",
         "url": "https://open.spotify.com/album/5kuJSMOo46VXXSG4DGIT2U"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 199053,
       "name": "Rottami",
       "url": "https://open.spotify.com/track/4LqZES294uk01Y7c6Qyyau"
-    },
-    {
-      "added_at": "2023-06-29 22:01:00",
-      "album": {
-        "name": "Palude 4",
-        "url": "https://open.spotify.com/album/54in2b7QYjcF5hCOMcZANu"
-      },
-      "artists": [
-        {
-          "name": "Blue Virus",
-          "url": "https://open.spotify.com/artist/7H9TcusDoz60eSTxB0Avxn"
-        }
-      ],
-      "duration_ms": 213818,
-      "name": "Palude 4",
-      "url": "https://open.spotify.com/track/0QKWZgWId3t9aZpcgA3Qr1"
     }
   ],
   "unique_name": "ragazzo triste",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmUp1ez7YB.md) - [plain]
 
 > ¡Quiero Salsa, dame Salsa! Foto: Marc Anthony
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,027 likes - 90 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,376 likes - 90 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmUp1ez7YB.md) - [plain]
 | 35 | [El Cantante](https://open.spotify.com/track/5Uve0jm1RgxKWzdSvncBDO) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Comedia](https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6) | 10:26 |
 | 36 | [Pedro Navaja](https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Siembra](https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy) | 7:25 |
 | 37 | [Amor Narcótico](https://open.spotify.com/track/7guVlnmdqpcFjJmwP6RSRr) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou), [Jandy Feliz](https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6) | [Pa' Otro La 'O](https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX) | 5:16 |
-| 38 | [Detalles](https://open.spotify.com/track/4YOz0Fl5q0cXanSCUtsW13) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Llego La Salsa](https://open.spotify.com/album/45Aa2zCt6Y20hqGxVjI0tI) | 4:38 |
-| 39 | [La Agarro Bajando](https://open.spotify.com/track/3GgI4QQWvsqqdKCvnNN0UM) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Intenso](https://open.spotify.com/album/75kOLlIjW99qG0rtOqD3rC) | 4:14 |
+| 38 | [Se Acabó el Amor](https://open.spotify.com/track/7nxoTSiir8y3vF8HPhFmQ9) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Búscame](https://open.spotify.com/album/76GMXDdpCLC8NwXtv37yYj) | 4:01 |
+| 39 | [Casi Te Envidio](https://open.spotify.com/track/3lfWaQLyg71Uar9gAgFVWV) | [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Oro Salsero](https://open.spotify.com/album/4ihlEk0yuvUpKGSX8A9ITz) | 5:21 |
 | 40 | [Ahora Quien \- Salsa Version](https://open.spotify.com/track/5A32KQZznC2HSqr9qzTl2N) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Valio La Pena](https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7) | 5:09 |
-| 41 | [Casi Te Envidio](https://open.spotify.com/track/3lfWaQLyg71Uar9gAgFVWV) | [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Oro Salsero](https://open.spotify.com/album/4ihlEk0yuvUpKGSX8A9ITz) | 5:21 |
-| 42 | [Se Acabó el Amor](https://open.spotify.com/track/7nxoTSiir8y3vF8HPhFmQ9) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Búscame](https://open.spotify.com/album/76GMXDdpCLC8NwXtv37yYj) | 4:01 |
+| 41 | [La Agarro Bajando](https://open.spotify.com/track/3GgI4QQWvsqqdKCvnNN0UM) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Intenso](https://open.spotify.com/album/75kOLlIjW99qG0rtOqD3rC) | 4:14 |
+| 42 | [Detalles](https://open.spotify.com/track/4YOz0Fl5q0cXanSCUtsW13) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Llego La Salsa](https://open.spotify.com/album/45Aa2zCt6Y20hqGxVjI0tI) | 4:38 |
 | 43 | [Tengo Ganas](https://open.spotify.com/track/5nmLj87o23HJrI7GgqXXUw) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Travesia](https://open.spotify.com/album/6wx5HorxwpIFkNXsTJBvE5) | 4:26 |
 | 44 | [Cali Pachanguero](https://open.spotify.com/track/6GsxCYC9UaL0J8b8MVrRqX) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [No Hay Quinto Malo](https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ) | 5:10 |
 | 45 | [Brujeria](https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Aqui No Se Sienta Nadie!](https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg) | 3:25 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmUp1ez7YB.md) - [plain]
 | 52 | [Que Alguien Me Diga](https://open.spotify.com/track/7JElWLgpQ7lxN1JNIYwuVu) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Expresion](https://open.spotify.com/album/4E3uQMm1IyNndidSzcCjg3) | 4:50 |
 | 53 | [La Murga](https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño](https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe) | 5:34 |
 | 54 | [Apiádate de Mi](https://open.spotify.com/track/4ZVgDysve5dcNK6TX84t8e) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Exitos de Victor Manuelle](https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P) | 5:04 |
-| 55 | [Lluvia](https://open.spotify.com/track/5Ba4YFq13YdsTosd7mwqzi) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [De Verdad](https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7) | 4:56 |
-| 56 | [Sin Sentimientos](https://open.spotify.com/track/0oHX2BlLsnbu3nnTeEUIuL) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Una Aventura...La Historia](https://open.spotify.com/album/4at8kygDVfKHWHIXox7uGs) | 4:54 |
+| 55 | [Sin Sentimientos](https://open.spotify.com/track/0oHX2BlLsnbu3nnTeEUIuL) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Una Aventura...La Historia](https://open.spotify.com/album/4at8kygDVfKHWHIXox7uGs) | 4:54 |
+| 56 | [Lluvia](https://open.spotify.com/track/5Ba4YFq13YdsTosd7mwqzi) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [De Verdad](https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7) | 4:56 |
 | 57 | [Me Liberé](https://open.spotify.com/track/1IcnHHfeAkdc88LybFWwb9) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Nuevo Milenio \- El Mismo Sabor](https://open.spotify.com/album/4VjDEGwmMTP7hOn2Afmbkn) | 4:23 |
 | 58 | [Amor y Control](https://open.spotify.com/track/303cDwi274kSEH0NSR73AX) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Amor Y Control](https://open.spotify.com/album/1kPq7UKuMaC8bELSvLgofj) | 5:52 |
 | 59 | [Oye Cómo Va](https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [El Rey Bravo](https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq) | 4:34 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmUp1ez7YB.md) - [plain]
 | 68 | [Pa' Bravo Yo](https://open.spotify.com/track/5kzoRHOhLIGVQGsxi8fWpy) | [Justo Betancourt](https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689) | [Pa' Bravo Yo](https://open.spotify.com/album/0Ggehw0oAdAUNoipqO2Sqh) | 3:44 |
 | 69 | [Mi Mayor Venganza](https://open.spotify.com/track/2NCmyKVXhY4iPBXaRCajoi) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Pura Salsa](https://open.spotify.com/album/6oMeobuIf0Kmqty5A4WBBm) | 5:13 |
 | 70 | [Por Ella](https://open.spotify.com/track/6xggO96o1OD6zNd5wjevhQ) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Inconfundible](https://open.spotify.com/album/1VOFVi0W0TME7lcHaorE5B) | 4:38 |
-| 71 | [El Preso](https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson "Saoko" Manyoma](https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0) | [Fruko el Grande](https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C) | 4:54 |
-| 72 | [Busca Por Dentro](https://open.spotify.com/track/2canuqE41S1yUstx6qnLFc) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Siempre Una Aventura](https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF) | 5:54 |
+| 71 | [Busca Por Dentro](https://open.spotify.com/track/2canuqE41S1yUstx6qnLFc) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Siempre Una Aventura](https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF) | 5:54 |
+| 72 | [El Preso](https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson "Saoko" Manyoma](https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0) | [Fruko el Grande](https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C) | 4:54 |
 | 73 | [En Peligro de Extinción](https://open.spotify.com/track/2zPUGkFAw3gCMcEqWLLWpP) | [Bembe Orquesta](https://open.spotify.com/artist/6fsXrJHIeY3ukc4xVP23cP), [Farik Grippa](https://open.spotify.com/artist/00Xr47kjidyk1Kimx2Ypd2) | [En Peligro de Extinción](https://open.spotify.com/album/7FmHYPGkYb9Ojdfxg5eNRC) | 4:01 |
 | 74 | [Fuego En El 23](https://open.spotify.com/track/5EX3Q9GWGMtvvugQFkNTUb) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa), [Papo Lucca](https://open.spotify.com/artist/1KbyKzIyGQig2K7sP5E7gv), [Luigui Gomez](https://open.spotify.com/artist/7iY8Y06Ta3wYvBpH0fTHVQ), [Tito Gómez](https://open.spotify.com/artist/6d5spDidb3nveGjwpybfdn) | [Fuego en el 23!](https://open.spotify.com/album/0c3F6OlWKJnkRTb78nswUt) | 4:44 |
 | 75 | [Me Vas a Extrañar](https://open.spotify.com/track/10OXEEbtNRaeiHeKHj25XB) | [N'Samble](https://open.spotify.com/artist/7Ksq8BTaGcbM7OgVQi3y8f) | [Me Vas a Extrañar](https://open.spotify.com/album/6KSnZY5Af92l4E1K5XjYL8) | 5:10 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmUp1ez7YB.md) - [plain]
 | 89 | [Dime Por Qué](https://open.spotify.com/track/2sw9MhaAR1tOLIzmMwyU4Y) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Esto Fué Lo Que Trajo El Barco](https://open.spotify.com/album/5EPIgQStd9oMGLf6BIgSEf) | 3:34 |
 | 90 | [La Noche](https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Milenario, Vol\. 3](https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2) | 4:25 |
 
-Snapshot ID: `MCxkY2UyMTQ2YWQzNGM5NjRlZDBmODZlZjczNGVjZTU4MGMxYjY2MmY4`
+Snapshot ID: `MCwwMWIzYWM2ZjI5YmU2ZDNiY2Y5ZDg3YTk3MDA1ZWI2MzBlZjM2YWFl`

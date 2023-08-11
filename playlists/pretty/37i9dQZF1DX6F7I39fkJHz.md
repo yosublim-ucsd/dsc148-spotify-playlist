@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F7I39fkJHz.md) - [plain]
 
 > Las más bichotas de la escena featuring TAICHU.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,669 likes - 85 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,704 likes - 85 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F7I39fkJHz.md) - [plain]
 | 36 | [Glock](https://open.spotify.com/track/1N6VDChBSHkitVoaJlU42T) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Nena Trampa \(Deluxe Edition\)](https://open.spotify.com/album/7ntr88BWCrwZGySZQlHgBM) | 2:58 |
 | 37 | [CAIRO](https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [CAIRO](https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA) | 3:21 |
 | 38 | [DISCOTEKA](https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [DISCOTEKA](https://open.spotify.com/album/0XJBQZQTh3OZCt5ACMtEAs) | 2:54 |
-| 39 | [La Prendo](https://open.spotify.com/track/6t48UVZvQWh5wWfWlCZfzY) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [La Prendo](https://open.spotify.com/album/4eCRi01qxklHWrG0sIra8x) | 3:01 |
+| 39 | [Frío](https://open.spotify.com/track/0df1oUN5ta7FSWwjGvhHa5) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Frío](https://open.spotify.com/album/4ya6dMKyTfwrrcdkoROD8O) | 2:35 |
 | 40 | [CANDY](https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:13 |
-| 41 | [Frío](https://open.spotify.com/track/0df1oUN5ta7FSWwjGvhHa5) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Frío](https://open.spotify.com/album/4ya6dMKyTfwrrcdkoROD8O) | 2:35 |
+| 41 | [La Prendo](https://open.spotify.com/track/6t48UVZvQWh5wWfWlCZfzY) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [La Prendo](https://open.spotify.com/album/4eCRi01qxklHWrG0sIra8x) | 3:01 |
 | 42 | [Tiki Tiki](https://open.spotify.com/track/2J8lIDwvxPZQQ0I0wt1oRO) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Tiki Tiki](https://open.spotify.com/album/27WZ3udXyjazvsInPtfuIQ) | 2:11 |
 | 43 | [la luz\(Fín\)](https://open.spotify.com/track/4a1s8jkTbAoTlvj6x8pHK6) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 3:00 |
 | 44 | [OJALÁ](https://open.spotify.com/track/1uGdRSOpObu3lp0jvrVREl) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [OJALÁ](https://open.spotify.com/album/6LmddIPzdpQYYc13kGzrvS) | 2:40 |
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F7I39fkJHz.md) - [plain]
 | 49 | [fue mejor](https://open.spotify.com/track/2I9t0e3gLAKOi5syoHxP46) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 3:48 |
 | 50 | [Joder](https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Joder](https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml) | 2:29 |
 | 51 | [Felices x Siempre](https://open.spotify.com/track/42Gzfqnfpk7Pp1ydM60eNn) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Felices x Siempre](https://open.spotify.com/album/1DW15sDiWh55xNKb5uqIp2) | 3:19 |
-| 52 | [DELITO](https://open.spotify.com/track/0K3dGPXHVALEqW8EEQGc3T) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Calambre](https://open.spotify.com/album/0HvKhpJzjmC5wloza8MjXF) | 3:23 |
+| 52 | [NO MIENTEN](https://open.spotify.com/track/3zUtuSPwyqKElkqfnJj3X2) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [NO MIENTEN](https://open.spotify.com/album/1g8y7NQOWqijanTecml5zw) | 2:27 |
 | 53 | [Ram Pam Pam](https://open.spotify.com/track/730gfBUwEpyruhbSvDuytR) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [NATTIVIDAD](https://open.spotify.com/album/2ZjmvVKeVy3CgaT2BvsyvM) | 3:20 |
-| 54 | [NO MIENTEN](https://open.spotify.com/track/3zUtuSPwyqKElkqfnJj3X2) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [NO MIENTEN](https://open.spotify.com/album/1g8y7NQOWqijanTecml5zw) | 2:27 |
+| 54 | [DELITO](https://open.spotify.com/track/0K3dGPXHVALEqW8EEQGc3T) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Calambre](https://open.spotify.com/album/0HvKhpJzjmC5wloza8MjXF) | 3:23 |
 | 55 | [cuatro veinte](https://open.spotify.com/track/1TpZKxGnHp37ohJRszTSiq) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [cuatro veinte](https://open.spotify.com/album/2nanRnmnKHM3TsZRGeKidH) | 2:13 |
 | 56 | [Bounce](https://open.spotify.com/track/3EO0tGvdBCw6vdChaNvVlc) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Bonus Trap](https://open.spotify.com/album/7IAJrYDUHZhIGXY6pY1GPX) | 2:13 |
 | 57 | [LA SANTA](https://open.spotify.com/track/3TcSNX1WhlcVAI6fLWt7Qs) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [LA SANTA](https://open.spotify.com/album/7s7TZHak9Chi57TNKIH7T8) | 2:45 |
@@ -84,14 +84,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F7I39fkJHz.md) - [plain]
 | 74 | [Tóxico](https://open.spotify.com/track/42JYxlcwegYRJr4IZ0k0Lm) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [La Carta](https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl) | 3:18 |
 | 75 | [Estoy Soltera](https://open.spotify.com/track/597HxeFN4prkOZml250ZhR) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Estoy Soltera](https://open.spotify.com/album/5WZfuGX8Ca4eaes5LYxk22) | 2:52 |
 | 76 | [La Ducha](https://open.spotify.com/track/6K8b79GjwyTgg0Juafi5v1) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [La Ducha](https://open.spotify.com/album/3cRg2kyX1JIc1bCKnjbdnp) | 3:29 |
-| 77 | [narcisa](https://open.spotify.com/track/4fvIO9UsmmJM2b8gWCzsOg) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [besitos, cuídate](https://open.spotify.com/album/3kfb4ye7atyQ1mEoI5Lecu) | 2:53 |
-| 78 | [Kitty](https://open.spotify.com/track/3ElaFhLinetMp5S6pOWVcy) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Kitty](https://open.spotify.com/album/6C7o5jeXJAAuQJ7RA6SHSi) | 2:09 |
-| 79 | [Bicha](https://open.spotify.com/track/3Xv4C3ZIpd1D0S9lUh4S1b) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Bicha](https://open.spotify.com/album/2LhBFY1mquGDfrsIw0oPaS) | 2:29 |
+| 77 | [Bicha](https://open.spotify.com/track/3Xv4C3ZIpd1D0S9lUh4S1b) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Bicha](https://open.spotify.com/album/2LhBFY1mquGDfrsIw0oPaS) | 2:29 |
+| 78 | [narcisa](https://open.spotify.com/track/4fvIO9UsmmJM2b8gWCzsOg) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [besitos, cuídate](https://open.spotify.com/album/3kfb4ye7atyQ1mEoI5Lecu) | 2:53 |
+| 79 | [Kitty](https://open.spotify.com/track/3ElaFhLinetMp5S6pOWVcy) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Kitty](https://open.spotify.com/album/6C7o5jeXJAAuQJ7RA6SHSi) | 2:09 |
 | 80 | [Ricota](https://open.spotify.com/track/6gQoClTWFGA45WvjJW8XAc) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Ricota](https://open.spotify.com/album/2yM8BVkcqhFiDvM9gBh1Z3) | 2:40 |
-| 81 | [ESTÁS BUENÍSIMO](https://open.spotify.com/track/13MRbFUJGGRKucCMzzdnWF) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [ESTÁS BUENÍSIMO](https://open.spotify.com/album/5whnoCyMbHr7TRFMoSGsM5) | 3:31 |
-| 82 | [FASHION DILLER](https://open.spotify.com/track/7pwuuN72iIc3F671PuxErU) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [FASHION DILLER](https://open.spotify.com/album/3fIMfvmfccA2OxIVNmnyyv) | 2:41 |
+| 81 | [FASHION DILLER](https://open.spotify.com/track/7pwuuN72iIc3F671PuxErU) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [FASHION DILLER](https://open.spotify.com/album/3fIMfvmfccA2OxIVNmnyyv) | 2:41 |
+| 82 | [ESTÁS BUENÍSIMO](https://open.spotify.com/track/13MRbFUJGGRKucCMzzdnWF) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [ESTÁS BUENÍSIMO](https://open.spotify.com/album/5whnoCyMbHr7TRFMoSGsM5) | 3:31 |
 | 83 | [Será Mi Culpa?](https://open.spotify.com/track/0e5wmUTalS4NiyNjMYmBIA) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET) | [Será Mi Culpa?](https://open.spotify.com/album/4A1s03L5Tw52zY0FamWkDW) | 2:19 |
 | 84 | [Ella](https://open.spotify.com/track/6NFlEQvg4h41e08fj70zxd) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [La Piti](https://open.spotify.com/album/1LVYwpAVevauvcv6s8Euh9) | 2:53 |
 | 85 | [Nena Trampa](https://open.spotify.com/track/2wjA6V7u0rLcFehcty11aN) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Nena Trampa](https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48) | 2:27 |
 
-Snapshot ID: `MCwxNTc0YmNiNWVmZjFhNjJkNjY5ZDExYzczZDQ5YTk1YTQzNTc3YzIx`
+Snapshot ID: `MCw0NGY5N2M4NTRkMDE4YWU2ODgwNzg3YTk4OTljMDM0M2JlZjI5ZmY1`

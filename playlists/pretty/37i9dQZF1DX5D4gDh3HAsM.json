@@ -1,17 +1,17 @@
 {
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Samara Joy",
-  "num_followers": 509598,
+  "num_followers": 509565,
   "original_name": "Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OWMyYTJlMTQ2MGU2ZWJhMGU2MzU3MzViM2QyZWNiYmE5MmY5MTBl",
+  "snapshot_id": "MCwyMDMyMTMwNzRkNWU2ZGI4Y2Y1NzI4ODVjMzQ3NDk5MDA1NGUyN2Y4",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "Warm In December",
+        "name": "Warm In December (Edit)",
         "url": "https://open.spotify.com/album/5RYN71suwnCCydI7oVfVYM"
       },
       "artists": [
@@ -21,7 +21,7 @@
         }
       ],
       "duration_ms": 161210,
-      "name": "Warm In December",
+      "name": "Warm In December - Edit",
       "url": "https://open.spotify.com/track/4iZUPqpbdr4cI8OOzlKKqR"
     },
     {
@@ -623,22 +623,6 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "The Pianoman at Christmas",
-        "url": "https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 194706,
-      "name": "It's Christmas",
-      "url": "https://open.spotify.com/track/2zs2Ck470VmBFTwUp4NFdv"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
         "name": "A Sentimental Christmas With Nat King Cole And Friends: Cole Classics Reimagined",
         "url": "https://open.spotify.com/album/0rXnrMJWA2eVoKaEyXQare"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 299040,
       "name": "A Nightingale Sang In Berkeley Square (duet with Gloria Estefan)",
       "url": "https://open.spotify.com/track/3MO6GyDQQ8WGVAJ2uHorbP"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "The Pianoman at Christmas",
+        "url": "https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 194706,
+      "name": "It's Christmas",
+      "url": "https://open.spotify.com/track/2zs2Ck470VmBFTwUp4NFdv"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -777,22 +777,6 @@
       "url": "https://open.spotify.com/track/6yH9KPvWZ0Jnd8qsxj8oxs"
     },
     {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
-        "name": "Show Me The Magic",
-        "url": "https://open.spotify.com/album/7gI7vQXmYWCl2QY7gc8VAq"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 150412,
-      "name": "Show Me The Magic",
-      "url": "https://open.spotify.com/track/7CO9j3NbotOqtajfvM1ilQ"
-    },
-    {
       "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "The Merriest",
@@ -827,6 +811,22 @@
       "duration_ms": 243600,
       "name": "Have a Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/2Lb9nBoZ8V5GNtMOgcaF8o"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "Show Me The Magic",
+        "url": "https://open.spotify.com/album/7gI7vQXmYWCl2QY7gc8VAq"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 150412,
+      "name": "Show Me The Magic",
+      "url": "https://open.spotify.com/track/7CO9j3NbotOqtajfvM1ilQ"
     },
     {
       "added_at": "2021-11-12 15:48:58",

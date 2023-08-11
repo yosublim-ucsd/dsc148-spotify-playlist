@@ -489,6 +489,28 @@
     },
     {
       "album": {
+        "name": "Check My Zingo",
+        "url": "https://open.spotify.com/album/7IlhASuywpVLYMWHvDvCn4"
+      },
+      "artists": [
+        {
+          "name": "DopeNation",
+          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213900,
+      "name": "Check My Zingo",
+      "url": "https://open.spotify.com/track/6FXsUcro2Lcje0JJIzeliz"
+    },
+    {
+      "album": {
         "name": "Chingam (feat. Bisa Kdei)",
         "url": "https://open.spotify.com/album/3STRd9O0d5Q2zs10bEoyJs"
       },
@@ -668,7 +690,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 160000,
       "name": "Deserve My Love",
       "url": "https://open.spotify.com/track/0Z1oJJMRDfZxAi3uvRxQJQ"

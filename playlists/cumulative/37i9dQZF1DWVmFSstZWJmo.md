@@ -4,7 +4,7 @@
 
 > Is "indie sleaze" in the room with us now? ft\. Master Peace
 
-171 songs - 10 hr 48 min
+172 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Dip](https://open.spotify.com/track/29Zj1r8cek15xe08vNUOLy) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Old](https://open.spotify.com/album/5SC0415RIGVX9ZfL0tfbAl) | 3:31 | 2023-04-14 | 2023-04-27 |
 | [Disparate Youth](https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Master of My Make\-Believe](https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr) | 4:44 | 2022-11-10 |  |
 | [Don't Look Back into the Sun](https://open.spotify.com/track/4KspXoCVJXGY1VrvEe1Hdm) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Don't Look Back into the Sun](https://open.spotify.com/album/4p8bvIgDBZ7eLvuflo6YhI) | 3:00 | 2022-11-10 |  |
+| [Drunk & Loud](https://open.spotify.com/track/69WiLaNQxDcf4yjAWcDruZ) | [Bloom Twins](https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt) | [Drunk & Loud](https://open.spotify.com/album/5v9ShaPCZn1arjR9BmkUNy) | 1:54 | 2023-08-10 |  |
 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 | 2022-11-10 |  |
 | [Everything Is Embarrassing](https://open.spotify.com/track/70v5mCvyPRquTyU7qTIU81) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Ghost](https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf) | 4:09 | 2022-11-10 |  |
 | [Feel It All Around](https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Life of Leisure](https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC) | 3:12 | 2022-11-10 |  |
@@ -171,7 +172,7 @@
 | [Where Is My Mind?](https://open.spotify.com/track/0KzAbK6nItSqNh8q70tb0K) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Death to the Pixies](https://open.spotify.com/album/2A4zIVdm7JjHaNo9cop985) | 3:49 | 2022-11-28 |  |
 | [Where's Your Head At](https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ) | [Rooty](https://open.spotify.com/album/6CYhVDuSbAWmy9ku7E2wrP) | 4:45 | 2022-11-10 |  |
 | [White Winter Hymnal](https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 2:27 | 2022-11-10 | 2023-05-24 |
-| [Wildcat](https://open.spotify.com/track/0wP9okoDWmbeC2w9E8ZzPu) | [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [Classics](https://open.spotify.com/album/7cKqnavORKemYZ41wFtx5J) | 4:20 | 2023-05-17 |  |
+| [Wildcat](https://open.spotify.com/track/0wP9okoDWmbeC2w9E8ZzPu) | [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [Classics](https://open.spotify.com/album/7cKqnavORKemYZ41wFtx5J) | 4:20 | 2023-05-17 | 2023-08-11 |
 | [Wolf Like Me](https://open.spotify.com/track/03wKMRNYVvw6s9nm4I4jUS) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Return To Cookie Mountain](https://open.spotify.com/album/7xn8nwwutlJFMb7Zf9NEHi) | 4:39 | 2022-11-10 |  |
 | [WONDERLAND](https://open.spotify.com/track/4RH5H3lx8hNw1JkXMjMqx0) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag), [Blaketheman1000](https://open.spotify.com/artist/0QrLOWMTGOF7Vwb3SAhf3I), [May Rio](https://open.spotify.com/artist/1SlT1K1OULPzNSwmieTA2w) | [SPEED RUN](https://open.spotify.com/album/7qngj2U22AGXVoZB6QsZ51) | 3:32 | 2023-04-14 | 2023-04-27 |
 | [Work It \- Soulwax Remix](https://open.spotify.com/track/6WfL1pwMyFf3IvFWLnre4P) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Work It \(Soulwax Remix\)](https://open.spotify.com/album/074U95kLP3roPuXrpjTYtT) | 4:46 | 2022-11-10 | 2023-04-27 |

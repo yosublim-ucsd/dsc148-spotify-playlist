@@ -2,9 +2,9 @@
 
 ### [Lagi Viral](https://open.spotify.com/playlist/37i9dQZF1DWWhB4HOWKFQc)
 
-> Kumpulan lagu yang sedang menyebar luas\. Cover: Refo Dan Fauna
+> Kumpulan lagu yang sedang menyebar luas\. Cover: Nadin Amizah
 
-199 songs - 12 hr 6 min
+200 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-05-11 | 2023-07-08 |
 | [Daylight](https://open.spotify.com/track/1fzAuUVbzlhZ1lJAx9PtY6) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 4:53 | 2023-05-18 |  |
 | [Delusion](https://open.spotify.com/track/5Jyn7343pwECbPl8df9oBH) | [Manaditara](https://open.spotify.com/artist/35S1sBwXiq6fvWPSemGj2N) | [Delusion](https://open.spotify.com/album/22kagYQ70d21mizj0l6yw6) | 3:37 | 2023-07-07 |  |
-| [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-03-23 |  |
+| [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-03-23 | 2023-08-11 |
 | [Disenchanted](https://open.spotify.com/track/6T7MAQCekVb3UnCykjX3BP) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 4:55 | 2023-05-11 | 2023-07-15 |
 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2023-03-23 | 2023-05-12 |
 | [Dog Days Are Over](https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 4:11 | 2023-05-11 | 2023-06-09 |
@@ -93,7 +93,7 @@
 | [Kembali Pulang](https://open.spotify.com/track/6xeqCawPZngDVqw2W2aGaR) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC), [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Kembali Pulang](https://open.spotify.com/album/3oCPm4IKeaWJy666uZPKih) | 3:27 | 2023-03-23 | 2023-08-04 |
 | [Kepada Hati](https://open.spotify.com/track/69zr3m2IPoMDxlMjxxcNVu) | [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [Kepada Hati](https://open.spotify.com/album/6YmqOFWp7BUDdyKQieqQ71) | 4:24 | 2023-07-21 |  |
 | [Kepada Noor](https://open.spotify.com/track/1rvMhV6FQggO28NYyxfV0G) | [Panji Sakti](https://open.spotify.com/artist/1zJG0BbOnVVijQXfYYibvD) | [Tanpa Aku](https://open.spotify.com/album/1KpqsIwGr9EutOjnJl4HaH) | 4:09 | 2023-05-11 |  |
-| [Kerasnya Kota](https://open.spotify.com/track/6jkMvmZNH8vszD0dLbUMaj) | [Davisiumbing](https://open.spotify.com/artist/6I0a3WIV63MtJskiaXUEYS) | [Kerasnya Kota](https://open.spotify.com/album/4LqMEJvLOpmRqtlyVMozNd) | 4:13 | 2023-05-25 |  |
+| [Kerasnya Kota](https://open.spotify.com/track/6jkMvmZNH8vszD0dLbUMaj) | [Davisiumbing](https://open.spotify.com/artist/6I0a3WIV63MtJskiaXUEYS) | [Kerasnya Kota](https://open.spotify.com/album/4LqMEJvLOpmRqtlyVMozNd) | 4:13 | 2023-05-25 | 2023-08-11 |
 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 | 2023-03-23 | 2023-07-22 |
 | [Kita \(Sheila On 7 Remake \- SMEI 25th Anniversary Version\)](https://open.spotify.com/track/0KfJg43ObMXQTVqOp1RcoZ) | [SMEI Project](https://open.spotify.com/artist/7FqepzNrsPeTnn3RW2nNdW) | [Kita \(Sheila On 7 Remake \- SMEI 25th Anniversary Version\)](https://open.spotify.com/album/1LmLamPHq3N9zU7oPWKBnB) | 4:23 | 2023-07-13 | 2023-07-22 |
 | [Kitsch](https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:15 | 2023-04-20 | 2023-05-12 |
@@ -147,7 +147,7 @@
 | [Right Now \(Na Na Na\)](https://open.spotify.com/track/5Ravsw8TmHN5wBiYPPYUFw) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Freedom](https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg) | 4:00 | 2023-07-27 |  |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2023-03-23 | 2023-05-05 |
 | [Rover](https://open.spotify.com/track/3WUyu94psXrYV6HZbXgcFA) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Rover \- The 3rd Mini Album](https://open.spotify.com/album/5gzd4IZ9KTwW6Hhgll1K7U) | 2:54 | 2023-04-06 | 2023-04-28 |
-| [Saat Kau Telah Mengerti](https://open.spotify.com/track/22k5lgD5F7Pc7BodEMzDrY) | [Virgoun](https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f) | [Saat Kau Telah Mengerti](https://open.spotify.com/album/2KhCqrXaLVeUNuB8FifMJj) | 4:50 | 2023-03-23 | 2023-05-12 |
+| [Saat Kau Telah Mengerti](https://open.spotify.com/track/22k5lgD5F7Pc7BodEMzDrY) | [Virgoun](https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f) | [Saat Kau Telah Mengerti](https://open.spotify.com/album/2KhCqrXaLVeUNuB8FifMJj) | 4:50 | 2023-03-23 |  |
 | [Satu Bulan](https://open.spotify.com/track/7zOVh5fGpEwSbZd0g9z80B) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Terlintas](https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe) | 3:20 | 2023-07-25 |  |
 | [Say My Name](https://open.spotify.com/track/2lDOkJgVMNz4iMmoAHhhqC) | [Say Yes!](https://open.spotify.com/artist/7sPKpBhx7fwPp9wMGYvQJI) | [BOYS PLANET \- ARTIST BATTLE](https://open.spotify.com/album/1rIIbjGYbj2sRxAWZUfeoC) | 3:19 | 2023-05-04 | 2023-06-09 |
 | [Scott Street](https://open.spotify.com/track/21uFPefbgeR3QLVJWATlrr) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 5:05 | 2023-03-23 | 2023-04-14 |
@@ -206,6 +206,7 @@
 | [You & I](https://open.spotify.com/track/0epYQ0yLA5RUYyrhADkF0j) | [Diego Gonzalez](https://open.spotify.com/artist/60uj5nOT1TpQeBRo4ds9fd) | [You & I](https://open.spotify.com/album/3zqHROb3Ja6GiVxbdGQeMu) | 2:31 | 2023-03-23 | 2023-04-17 |
 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 | 2023-05-11 | 2023-06-09 |
 | [ルージュの伝言](https://open.spotify.com/track/1jw992uwXhqJJ0H42ucTRL) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [COBALT HOUR](https://open.spotify.com/album/5q4nqytaxLA99VEVJ6yQRu) | 3:02 | 2023-03-23 | 2023-04-14 |
+| [燈](https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [燈](https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz) | 3:58 | 2023-08-10 |  |
 | [애열 Love Shine](https://open.spotify.com/track/467zSU1hr4OF3Zq5zVX3Dt) | [LEEHEESANG](https://open.spotify.com/artist/6zJiJ82GmaUZF8TwTPktsz) | [WHOEVER](https://open.spotify.com/album/4j878Utyg4KAXw0vAKuaSj) | 4:26 | 2023-03-23 | 2023-04-14 |
 
 \*This playlist was first scraped on 2023-03-26. Prior content cannot be recovered.

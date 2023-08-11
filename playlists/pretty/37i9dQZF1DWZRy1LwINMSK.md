@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del trap chileno\. Foto: King Savagge & Il Nene De Oro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,475 likes - 101 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,590 likes - 101 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 100 | [LA MANTECA \- REMIX](https://open.spotify.com/track/5x1wKXnbhBMDRlzpZ5chUh) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Massi Nada Mas](https://open.spotify.com/artist/5PTf3CTYbKbzH785tmu3WK), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Diamante Ayala](https://open.spotify.com/artist/2a3t7z8U1cpR0PEq1WB68d), [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV), [Papi Trujillo](https://open.spotify.com/artist/7dG3aAHAFVHMyQo9meGLwb), [Cuban Bling](https://open.spotify.com/artist/41nImv0wbNHHsBhbBpwG8S) | [LA MANTECA \(REMIX\)](https://open.spotify.com/album/6HhvKvNTFEgraWt4bLYKZ6) | 5:59 |
 | 101 | [Ring](https://open.spotify.com/track/5mHEyc9rS7Oi4o07yUlOVh) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Ring](https://open.spotify.com/album/2S8NVIzCeTvVRcEPJyhSFk) | 2:29 |
 
-Snapshot ID: `MCw4Y2Q0NGYyZDRlYWYzMGFjYWVjMmZkOGEwNzhiYmVkOGY1ZWM3OWJk`
+Snapshot ID: `MCw1ODljYWRjMDJkMTcxNjZlZjM2NzlmNzQ3OTI4NmQ3NzE5MzdmODMx`

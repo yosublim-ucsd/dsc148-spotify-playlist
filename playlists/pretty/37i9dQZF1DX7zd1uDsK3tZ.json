@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes served over easy for the perfect brunch soundtrack.",
-  "num_followers": 110397,
+  "num_followers": 110519,
   "original_name": "Sunday Brunch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTgyOWE2YjdhODEyYzFmNzU0N2Y4NjBlZGRiZmEyNTI2ZTk3N2Zk",
+  "snapshot_id": "MCwyOTRmZTUwZDkzZjJjNWJmNGY2YjY3OGQxYmEwMTY0MmY1OTA2NDYw",
   "tracks": [
     {
       "added_at": "2023-04-07 19:19:35",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-04-07 19:19:35",
       "album": {
-        "name": "Paul Simon",
-        "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 164813,
-      "name": "Me and Julio Down by the Schoolyard",
-      "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
-    },
-    {
-      "added_at": "2023-04-07 19:19:35",
-      "album": {
         "name": "Mama Said",
         "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 242640,
       "name": "It Ain't Over 'Til It's Over",
       "url": "https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR"
+    },
+    {
+      "added_at": "2023-04-07 19:19:35",
+      "album": {
+        "name": "Paul Simon",
+        "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 164813,
+      "name": "Me and Julio Down by the Schoolyard",
+      "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
     },
     {
       "added_at": "2023-04-07 19:19:35",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-04-07 19:19:35",
       "album": {
-        "name": "Look At Us",
-        "url": "https://open.spotify.com/album/4VFnAIRrYMA3iEHpjNP5cH"
-      },
-      "artists": [
-        {
-          "name": "Sonny & Cher",
-          "url": "https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "I Got You Babe",
-      "url": "https://open.spotify.com/track/4SGBuq37Ol4HJr7pQqFMKa"
-    },
-    {
-      "added_at": "2023-04-07 19:19:35",
-      "album": {
         "name": "What's Going On",
         "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 193573,
       "name": "Mercy Mercy Me (The Ecology)",
       "url": "https://open.spotify.com/track/3IDc87lrpEHWFBASmgTgFV"
+    },
+    {
+      "added_at": "2023-04-07 19:19:35",
+      "album": {
+        "name": "Look At Us",
+        "url": "https://open.spotify.com/album/4VFnAIRrYMA3iEHpjNP5cH"
+      },
+      "artists": [
+        {
+          "name": "Sonny & Cher",
+          "url": "https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "I Got You Babe",
+      "url": "https://open.spotify.com/track/4SGBuq37Ol4HJr7pQqFMKa"
     },
     {
       "added_at": "2023-04-07 19:19:35",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-04-07 19:19:35",
       "album": {
-        "name": "The Spice Of Life",
-        "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
-      },
-      "artists": [
-        {
-          "name": "Marlena Shaw",
-          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
-        }
-      ],
-      "duration_ms": 177226,
-      "name": "California Soul",
-      "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
-    },
-    {
-      "added_at": "2023-04-07 19:19:35",
-      "album": {
         "name": "Innervisions",
         "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 222600,
       "name": "Higher Ground",
       "url": "https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu"
+    },
+    {
+      "added_at": "2023-04-07 19:19:35",
+      "album": {
+        "name": "The Spice Of Life",
+        "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
+      },
+      "artists": [
+        {
+          "name": "Marlena Shaw",
+          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
+        }
+      ],
+      "duration_ms": 177226,
+      "name": "California Soul",
+      "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
     },
     {
       "added_at": "2023-04-07 19:19:35",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-04-07 19:19:35",
       "album": {
-        "name": "Face to Face (Deluxe)",
-        "url": "https://open.spotify.com/album/6nkmtyFpZHm7piIFJgsxxa"
-      },
-      "artists": [
-        {
-          "name": "The Kinks",
-          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
-        }
-      ],
-      "duration_ms": 210525,
-      "name": "Sunny Afternoon",
-      "url": "https://open.spotify.com/track/0DQqzCHlPyKQXfF8uL01SI"
-    },
-    {
-      "added_at": "2023-04-07 19:19:35",
-      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 246133,
       "name": "Slow Burn",
       "url": "https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI"
+    },
+    {
+      "added_at": "2023-04-07 19:19:35",
+      "album": {
+        "name": "Face to Face (Deluxe)",
+        "url": "https://open.spotify.com/album/6nkmtyFpZHm7piIFJgsxxa"
+      },
+      "artists": [
+        {
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+        }
+      ],
+      "duration_ms": 210525,
+      "name": "Sunny Afternoon",
+      "url": "https://open.spotify.com/track/0DQqzCHlPyKQXfF8uL01SI"
     },
     {
       "added_at": "2023-04-07 19:19:35",

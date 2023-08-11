@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbO6rt3GhXDY.md) - [plain]
 
 > You know em, you love em, these are indie pop hits\.  Cover: Steve Lacy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,298 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,478 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbO6rt3GhXDY.md) - [plain]
 | 96 | [Cool](https://open.spotify.com/track/4PevTpnIWy2D1wIQZY3MmX) | [Zack Villere](https://open.spotify.com/artist/5jLbQGcvxehi2Z6qkUP9Rh) | [Little World](https://open.spotify.com/album/6lgoRsGfUzLfxi41XA97C1) | 2:05 |
 | 97 | [Way to be Loved](https://open.spotify.com/track/3wO7lEbQYuxxEXmwfk335E) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Picture You Staring](https://open.spotify.com/album/4z3LIKiUlP8T192JheUI1U) | 4:23 |
 | 98 | [When U Loved Me](https://open.spotify.com/track/7pADtei8K3suMQlLBxR4iw) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [When U Loved Me](https://open.spotify.com/album/6ob1fJyKwsUIIoyjz8PL0w) | 3:11 |
-| 99 | [Social Sites](https://open.spotify.com/track/5N47ugmempxYTC2fVzWRbG) | [Cosmo Pyke](https://open.spotify.com/artist/1RKG6WXRzmTJtbLRZTPU0T) | [Social Sites](https://open.spotify.com/album/5J4MrcoQk7pEe4YW6MfiVY) | 4:49 |
+| 99 | [Social Sites](https://open.spotify.com/track/6Qmqjy6RbsHwc6nZCzJBkj) | [Cosmo Pyke](https://open.spotify.com/artist/1RKG6WXRzmTJtbLRZTPU0T) | [Social Sites](https://open.spotify.com/album/5yV0XjLBcR7uKsGvruSbRm) | 4:49 |
 | 100 | [Chinese New Year](https://open.spotify.com/track/0SIAFU49FFHwR3QnT5Jx0k) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [Chinese New Year](https://open.spotify.com/album/4x41gTsgkdYoEZvBPPeVhi) | 2:40 |
 
-Snapshot ID: `MCwxYWI4ZTRiYWVhZjE3NjIxMTNjMTJjNjMwMTkxZDgwYjlmYTc3MjVj`
+Snapshot ID: `MCxkNWVkOGQzZTAzODk2YzlmYmJmY2MzNGZkZGM4MTFiZjZhZGJiODAy`

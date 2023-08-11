@@ -4,7 +4,7 @@
 
 > This is Grupo Marca Registrada\. The essential tracks, all in one playlist.
 
-51 songs - 2 hr 39 min
+52 songs - 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [El Apache \(En Vivo\)](https://open.spotify.com/track/7htXI3zf9dS7UAWkoYVMqQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [El Apache \(En Vivo\)](https://open.spotify.com/album/5TOmF3KlyehmdJRbkhAsTh) | 2:48 | 2023-08-08 |  |
 | [El Capitán \(En Vivo\)](https://open.spotify.com/track/2mi5L3NLTnllOcr7ylv3xS) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [El Capitán \(En Vivo\)](https://open.spotify.com/album/0CDawQOpw3S5R4btCbDQxd) | 3:54 | 2023-08-08 |  |
 | [El Comerciante](https://open.spotify.com/track/56YZft0whsresPdufFqwwS) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Sigue La Magia Dando](https://open.spotify.com/album/0QUDmu7pfqsOPgc3kGULkZ) | 4:05 | 2023-08-08 |  |
-| [El Consejo](https://open.spotify.com/track/5QXk8ZysSHdCaaIdBTE1F3) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [El Consejo](https://open.spotify.com/album/7o7gY75XEZRXwyrHRtuuYy) | 3:11 | 2023-08-08 |  |
+| [El Consejo](https://open.spotify.com/track/5QXk8ZysSHdCaaIdBTE1F3) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [El Consejo](https://open.spotify.com/album/7o7gY75XEZRXwyrHRtuuYy) | 3:11 | 2023-08-08 | 2023-08-11 |
+| [El Detallazo](https://open.spotify.com/track/66Q2BQ3XkzQRmGhITorJfZ) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Corleone](https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji) | 3:43 | 2023-08-10 |  |
 | [El Doctor](https://open.spotify.com/track/2g12ZAzSIybDe6QC3w9DYl) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Money](https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu) | 3:55 | 2023-08-08 |  |
 | [El Niño](https://open.spotify.com/track/3gEolrSD883RXFsgiruxEm) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [El Niño](https://open.spotify.com/album/752bhrEwJA4s5o39zAACNy) | 3:10 | 2023-08-08 |  |
 | [El Paisa](https://open.spotify.com/track/5bihD1yhbA9NsIQRBxgcl1) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Corleone](https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji) | 2:53 | 2023-08-08 |  |

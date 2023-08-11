@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 
 > Música tranquila para evadirse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,922 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,015 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 80 | [Bizarre Love Triangle \- 2014 Remaster](https://open.spotify.com/track/7sgi66biRYpAXuRZJBDuli) | [Frente!](https://open.spotify.com/artist/2qgHV12WsnwzHZGUB9nd9U) | [Marvin The Album \- 21st Anniversary Edition](https://open.spotify.com/album/6xiH0ZemrUXOxgR7xfLlIQ) | 1:59 |
 | 81 | [Barcelona](https://open.spotify.com/track/4ksOH8hJAZJpqWzOJJ5fCV) | [Pajaro Sunrise](https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq), [Yuri Méndez](https://open.spotify.com/artist/2ymu2JqHgHPUQKj9ZmJW1H) | [Barcelona](https://open.spotify.com/album/6TzswGbJlD3UorEQoST3bc) | 2:35 |
 | 82 | [Soñé Contigo](https://open.spotify.com/track/6VT2jR1Y4KLCXKZVo1JiQU) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Soñé Contigo](https://open.spotify.com/album/2lQYMqZIVFR1DfnF3XKJmZ) | 3:31 |
-| 83 | [Only You](https://open.spotify.com/track/2ZaYFNn1YQuLSVdHhanr4Q) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [We Were Here](https://open.spotify.com/album/3kJxji4lJkuzZJSTWFbNnG) | 2:29 |
-| 84 | [Paint](https://open.spotify.com/track/6OdcsvgPkIFmiyqDPgCaDy) | [Lawson Hull](https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K) | [Paint](https://open.spotify.com/album/6fjWW4BO4crnUA3EqDWEV0) | 4:41 |
+| 83 | [Paint](https://open.spotify.com/track/6OdcsvgPkIFmiyqDPgCaDy) | [Lawson Hull](https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K) | [Paint](https://open.spotify.com/album/6fjWW4BO4crnUA3EqDWEV0) | 4:41 |
+| 84 | [Only You](https://open.spotify.com/track/2ZaYFNn1YQuLSVdHhanr4Q) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [We Were Here](https://open.spotify.com/album/3kJxji4lJkuzZJSTWFbNnG) | 2:29 |
 | 85 | [Trampas](https://open.spotify.com/track/5IxfOWrIQmioHViXiRq6Bv) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 3:08 |
 | 86 | [Slide](https://open.spotify.com/track/5QY4JhMKx4aBAaZcosncqd) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Electric Light](https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R) | 3:23 |
 | 87 | [Hollow \- Acoustic](https://open.spotify.com/track/2K4uwGeeT2AmZgAgdxdDNM) | [Belle Mt.](https://open.spotify.com/artist/6DewGkgNz0j4pO3T2ZMUHS) | [Volume I](https://open.spotify.com/album/7AtPi4pa51OrsqZOVqzS84) | 3:56 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 94 | [Need The Sun To Break](https://open.spotify.com/track/1OwHOfTeJkdRhdqq93y2XV) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 3:44 |
 | 95 | [reverie](https://open.spotify.com/track/56iI6wwW6Lm2DzRxl0TFqH) | [isaac gracie](https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb) | [isaac gracie \(extended edition\)](https://open.spotify.com/album/0WhOJJJZPWfefjJogtinkD) | 5:43 |
 | 96 | [Time](https://open.spotify.com/track/0FjTazWaBSHBVWm2PAGghQ) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 3:56 |
-| 97 | [Imagine](https://open.spotify.com/track/4jS6mCmznV5fjTNLf4h61o) | [Eva Cassidy](https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew) | [Imagine](https://open.spotify.com/album/6vwrKIrmOCl4MN22Xyh0Ro) | 4:36 |
-| 98 | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY) | 3:48 |
+| 97 | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY) | 3:48 |
+| 98 | [Imagine](https://open.spotify.com/track/4jS6mCmznV5fjTNLf4h61o) | [Eva Cassidy](https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew) | [Imagine](https://open.spotify.com/album/6vwrKIrmOCl4MN22Xyh0Ro) | 4:36 |
 | 99 | [Hace Mucho Tiempo](https://open.spotify.com/track/790myZFzSomT1B5MkFhuNT) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Descifrar](https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F) | 4:16 |
 | 100 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
 
-Snapshot ID: `MCwwYjgzNDViNTcwMGExYjQyZDQ4M2MzNjgwNTAyNjIzMzY1ZjcxMjE1`
+Snapshot ID: `MCw2NTA3ZjExMmQ5OWRlNWQ3MGMzZTI5YjAyNzJlZDUyZTY3ZDQxYjg0`

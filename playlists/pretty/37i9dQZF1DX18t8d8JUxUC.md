@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 
 > This is what folk sounds like en español\. Cover: Caloncho
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,373 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,416 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 | 13 | [azul](https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd) | [azul](https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK) | 2:45 |
 | 14 | [Como me encanta](https://open.spotify.com/track/5QLw2hi44Hhc9okMOF4VLT) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 5:21 |
 | 15 | [Café Con Leche](https://open.spotify.com/track/6SfkPzqzG62lkvkyKJGUKY) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Mujer Eléctrica](https://open.spotify.com/album/3sgIcq7sXDaw1patJDSd59) | 1:53 |
-| 16 | [Soñar Contigo](https://open.spotify.com/track/0GYS14rwcsMXhYMP57W164) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Mundo De Dos](https://open.spotify.com/album/2prBuM9hprQROvEI5MDZ5C) | 2:48 |
+| 16 | [Flaco](https://open.spotify.com/track/3HMYsT5mnqQ57tVjvqlETb) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 4:16 |
 | 17 | [Otras Se Pierden](https://open.spotify.com/track/3SvbcJH2seu1zs0PMjPS6F) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Balas Perdidas](https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8) | 3:54 |
-| 18 | [Flaco](https://open.spotify.com/track/3HMYsT5mnqQ57tVjvqlETb) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 4:16 |
+| 18 | [Soñar Contigo](https://open.spotify.com/track/0GYS14rwcsMXhYMP57W164) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Mundo De Dos](https://open.spotify.com/album/2prBuM9hprQROvEI5MDZ5C) | 2:48 |
 | 19 | [las consecuencias](https://open.spotify.com/track/0x3M7EQkASM6NQW53mNK9d) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [las consecuencias](https://open.spotify.com/album/2jcKhSAes8tIw5GXH91Ks9) | 3:11 |
 | 20 | [Conticinio](https://open.spotify.com/track/66V8fWmTWOTcZTo0niDctU) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Conticinio](https://open.spotify.com/album/7iqnQQB4qkSdFGlO0F8MCn) | 3:32 |
 | 21 | [Me Gustas](https://open.spotify.com/track/3MKBzb0FJQB5LOhCe0s8nN) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Me Gustas](https://open.spotify.com/album/0NWOe4cctQ2NxLbXkMiO91) | 2:52 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 | 38 | [Romancera](https://open.spotify.com/track/4HED7T9WqduhZ6TgMl7ugE) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Romancera](https://open.spotify.com/album/427UD26U4IkJqIUicqVMZ9) | 3:52 |
 | 39 | [Love Song \- Helado Negro Remix](https://open.spotify.com/track/2PKJ88Ap4ebLFxJ4lwAGRF) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Love Song \(Helado Negro Remix\)](https://open.spotify.com/album/2p5v0LukKFqgNeLsNPVqYF) | 4:19 |
 | 40 | [Las Vacas](https://open.spotify.com/track/28OcOTibh6MFjwIrdS4eZh) | [Paulino Monroy](https://open.spotify.com/artist/2a15NvJ0ASGPEuWgGCCIJC) | [Larga Duración](https://open.spotify.com/album/4ih5clBRBMTQSMkRgpKf1a) | 3:18 |
-| 41 | [Atardeció sin vos](https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [¿Cómo decir adiós?](https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T) | 2:36 |
-| 42 | [Nada Para Ti](https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nada Para Ti](https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t) | 3:56 |
+| 41 | [Nada Para Ti](https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nada Para Ti](https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t) | 3:56 |
+| 42 | [Atardeció sin vos](https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [¿Cómo decir adiós?](https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T) | 2:36 |
 | 43 | [Ojos Del Sol](https://open.spotify.com/track/2gke8YaJQur5OpkWAeIMdz) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Ojos Del Sol](https://open.spotify.com/album/1bv229IwMr6O2Id5jVZqmc) | 4:05 |
 | 44 | [Luna de Xelajú \(feat\. Oscar Isaac\)](https://open.spotify.com/track/34ajEsNwrD90F2K80UjeLs) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW), [Oscar Isaac](https://open.spotify.com/artist/5opRYqktzpMFqZ7jtnp7yy) | [Luna de Xelajú \(feat\. Oscar Isaac\)](https://open.spotify.com/album/17gVN1sl8a6wg1yBLPyCiE) | 3:18 |
 | 45 | [Found Love](https://open.spotify.com/track/06bP5fBUljQLN6GPEMpiFr) | [We The Lion](https://open.spotify.com/artist/0D8xIv7lt4m33tauA1HP0z) | [Violet](https://open.spotify.com/album/5hUBJd7VEVWEbsugJLTU9G) | 3:16 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 | 64 | [Aguaceros](https://open.spotify.com/track/69dAmQimqO0HFs9AQI0EDX) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Iridiscente](https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB) | 3:38 |
 | 65 | [Extraños](https://open.spotify.com/track/205CEw5i9TT3SFpVChCaNq) | [Ayzak Ewan](https://open.spotify.com/artist/38ClJp3sUSm3Fa0aLbegSl) | [Extraños](https://open.spotify.com/album/1xVFra112Tpaamfi9g1ppn) | 3:51 |
 | 66 | [Perdí](https://open.spotify.com/track/5WGQuK64aA6k2xpjUxAek7) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Perdí](https://open.spotify.com/album/2Q4btBxowoXPwjO0fMiJme) | 2:24 |
-| 67 | [Sagitario](https://open.spotify.com/track/0M8VrzJXhKpzuvXdVdfPlT) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Sagitario](https://open.spotify.com/album/53Q3hajYqzob6vYGPays8E) | 3:21 |
-| 68 | [Café Conmigo](https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Café Conmigo](https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5) | 2:56 |
+| 67 | [Café Conmigo](https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Café Conmigo](https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5) | 2:56 |
+| 68 | [Sagitario](https://open.spotify.com/track/0M8VrzJXhKpzuvXdVdfPlT) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Sagitario](https://open.spotify.com/album/53Q3hajYqzob6vYGPays8E) | 3:21 |
 | 69 | [Mi otra mitad](https://open.spotify.com/track/5fWCQmxJjAcOerUkpDTr1g) | [Gonzalo Ávila](https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6) | [Mi otra mitad](https://open.spotify.com/album/28f6eNKzlSv0UNngwG61AB) | 3:49 |
 | 70 | [Entre Los Dos](https://open.spotify.com/track/4WwstqolWpfzFlfWkijyCL) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Entre Los Dos](https://open.spotify.com/album/5Srz3FfVqMwxs1e84LqVqs) | 3:35 |
 | 71 | [Estrellas En El Mar](https://open.spotify.com/track/6phjeQUN6GnVT7eHPLnb4p) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762), [Angie Vazquez](https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s) | [Estrellas En El Mar](https://open.spotify.com/album/1jhtYcygAtP8nO57swjE4N) | 4:11 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 | 74 | [Alfonsina Y El Mar](https://open.spotify.com/track/2QVKzeaFuSmr6ckZLuKUDB) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Alfonsina Y El Mar](https://open.spotify.com/album/5y1BwfQejuUHwwRCc4f0Eh) | 4:39 |
 | 75 | [El Faro](https://open.spotify.com/track/4noxNHGDOSLnKVxhMoM3Od) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [El Faro](https://open.spotify.com/album/1jQbBLUiMBXbySrYiBPF5p) | 3:08 |
 
-Snapshot ID: `MCw3NjQ4OGQzZGIxZjdmMjAzODFhNzJkZTAxMDcyYjczM2NjNDE2YmI2`
+Snapshot ID: `MCw4MmQwNjQxNDA0MmY1NTBhOTkyZTQ0NTllNTA2NzlkNTA2OGEyMDNm`

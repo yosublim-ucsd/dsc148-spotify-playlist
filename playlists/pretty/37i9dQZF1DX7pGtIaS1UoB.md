@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,687 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,710 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 | 32 | [理想情人](https://open.spotify.com/track/36nY8znTqPiL2MTCLkK0sZ) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [曖昧](https://open.spotify.com/album/2gqDiNvkKI7S4BNsrULQSk) | 4:22 |
 | 33 | [Mojito](https://open.spotify.com/track/2J42jKkwGqiRsxUYh7FMTm) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 3:05 |
 | 34 | [畫沙](https://open.spotify.com/track/7F92rki4H1RZ68OrOZQy4u) | [Cindy Yen](https://open.spotify.com/artist/3IXhSUXNXO7Z6GnYufgpKR), [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [袁詠琳Cindy](https://open.spotify.com/album/78Z0qzLySqPuRvisCrVqhP) | 4:33 |
-| 35 | [Supernova](https://open.spotify.com/track/3MX3siuJV6BYItMyoR050h) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx), [MFMF.](https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR) | [Supernova](https://open.spotify.com/album/3gP71Ti8Dvqt1LWNdkPOqd) | 3:12 |
-| 36 | [想說](https://open.spotify.com/track/5Wisct6F7PgfIyIsosbfhY) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [想說](https://open.spotify.com/album/4N3jk5k52Pql3QuZQv5n5T) | 3:20 |
+| 35 | [想說](https://open.spotify.com/track/5Wisct6F7PgfIyIsosbfhY) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [想說](https://open.spotify.com/album/4N3jk5k52Pql3QuZQv5n5T) | 3:20 |
+| 36 | [Supernova](https://open.spotify.com/track/3MX3siuJV6BYItMyoR050h) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx), [MFMF.](https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR) | [Supernova](https://open.spotify.com/album/3gP71Ti8Dvqt1LWNdkPOqd) | 3:12 |
 | 37 | [小时光](https://open.spotify.com/track/6R3HSoob9oDK60aNFDkOtE) | [胡期皓](https://open.spotify.com/artist/7LWH3zy213l4E37464t1CO) | [小时光](https://open.spotify.com/album/4JNSZfS5N1L2eXSkanU0Cu) | 2:35 |
 | 38 | [左边](https://open.spotify.com/track/16nxkgxMYayeSct6XY4SmW) | [小包](https://open.spotify.com/artist/70GgkbQstBRQJLwJsKADnC) | [左边](https://open.spotify.com/album/3l0aC2xHOJaDF9EWLeJQpx) | 3:02 |
 | 39 | [Let me love u](https://open.spotify.com/track/4CZaAPfc74YaIPBEMFCKXH) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [Take Off \- The 1st Mini Album](https://open.spotify.com/album/7IzPpfu5gInokmyg2rDhRL) | 3:46 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 | 55 | [好像都一樣 \(電視劇《兩個人的小森林》片尾曲\)](https://open.spotify.com/track/7nX4mpxrY71HCtzRa3zmrn) | [虞書欣](https://open.spotify.com/artist/5zPqM8LgROl23YebfY1a7B), [張彬彬](https://open.spotify.com/artist/3mqdyRN0qBJFC2K8QtaOoe) | [好像都一樣 \(電視劇《兩個人的小森林》片尾曲\)](https://open.spotify.com/album/5yMcA6cG26E9Hfgy81EBl6) | 2:57 |
 | 56 | [美丽的妳](https://open.spotify.com/track/2T6AYvsD39QIoIBafh2RHt) | [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D), [Caven Tang](https://open.spotify.com/artist/2r8u5K7CZG6Kz3sDebwwOF) | [美丽的妳](https://open.spotify.com/album/0MRXsldEX64PtfesY4c0JC) | 3:09 |
 | 57 | [心願便利貼](https://open.spotify.com/track/7bC2uZJZichlPr83rAJlKv) | [元若藍](https://open.spotify.com/artist/6ksmwGJ7ECvNHvTGb8uMMK), [Daikyu Wu](https://open.spotify.com/artist/3ossD3v4iNPKU0Cw3JQfDg) | [命中注定我愛你 \(電視原聲帶\)](https://open.spotify.com/album/6ZPU1hsU2POklmDrDiSpem) | 4:15 |
-| 58 | [你還不知道?](https://open.spotify.com/track/4dV0T2JbvRemNAdt2oaOhG) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Tay Kewei](https://open.spotify.com/artist/7CEGCiUDMO8Xr257mqIJl2) | [你還不知道?](https://open.spotify.com/album/64w5Op6YBOQ9AiV76Rvikp) | 3:11 |
-| 59 | [對面的女孩看過來](https://open.spotify.com/track/51vo4MbGHmzEuW5Nrk6flg) | [Richie Jen](https://open.spotify.com/artist/0zjNCSqeDIxn63crtDx7G2) | [滾石香港黃金十年\-任賢齊精選](https://open.spotify.com/album/5oU6DlroxCeM09n1GnoViL) | 3:09 |
+| 58 | [對面的女孩看過來](https://open.spotify.com/track/51vo4MbGHmzEuW5Nrk6flg) | [Richie Jen](https://open.spotify.com/artist/0zjNCSqeDIxn63crtDx7G2) | [滾石香港黃金十年\-任賢齊精選](https://open.spotify.com/album/5oU6DlroxCeM09n1GnoViL) | 3:09 |
+| 59 | [你還不知道?](https://open.spotify.com/track/4dV0T2JbvRemNAdt2oaOhG) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Tay Kewei](https://open.spotify.com/artist/7CEGCiUDMO8Xr257mqIJl2) | [你還不知道?](https://open.spotify.com/album/64w5Op6YBOQ9AiV76Rvikp) | 3:11 |
 | 60 | [心动决定](https://open.spotify.com/track/5HACRqAqNYbtDObqji9H0r) | [叶琼琳](https://open.spotify.com/artist/4FDdIfrqDV9VCZS237ozYz), [黃禮格](https://open.spotify.com/artist/3VTDEKywxLJxC3WXJIGVGu) | [心动决定](https://open.spotify.com/album/2RDmFXCdQh0lJOPh67BzTv) | 3:23 |
 | 61 | [在我們的星球眼淚不超過三秒](https://open.spotify.com/track/37U4HQfGjWZpmXVfSbbgdy) | [鄧福如 AFÜ](https://open.spotify.com/artist/7hJBfmab67blVoqZBIAx13) | [在我們的星球眼淚不超過三秒](https://open.spotify.com/album/5yZZ5qRvkPok40amVzuV2l) | 3:29 |
 | 62 | [突然想見你（《鬼之執行長》電視劇插曲）](https://open.spotify.com/track/0GEoPuKjsC0L0fgCcFPhOh) | [劉奕兒](https://open.spotify.com/artist/1NUGlzcnxDPj8nl9iCuh42), [Marcus Chang](https://open.spotify.com/artist/5GTkwiuc6ayldeGjQVAN4n) | [突然想見你（《鬼之執行長》電視劇插曲）](https://open.spotify.com/album/7EFy9C9dPS2f360H56SX4J) | 3:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 | 74 | [天气预报](https://open.spotify.com/track/50SGE9aLTkKSDrItBB2Ob4) | [Cindy大蟠桃子](https://open.spotify.com/artist/3bdkqX2OKcnxvqnG5DmBSH) | [天气预报](https://open.spotify.com/album/6UusQKiwOoG9pUQZkzUpGA) | 2:51 |
 | 75 | [心跳的证明](https://open.spotify.com/track/6bw3pxp4Pb5LYdRhpVKp6g) | [不是花火呀](https://open.spotify.com/artist/5CxdR3VSEWjiAa5DabdLVd) | [心跳的证明](https://open.spotify.com/album/6dejStq75Dg4p2u1LCQA7o) | 3:48 |
 
-Snapshot ID: `MCwxNGNjNTk4YjVlYmY2M2MwMmZiZWUzNzNhMzQ1YTUyOTdiYmUzOWMx`
+Snapshot ID: `MCxhMjg2NDMzODAzMGZhYzA4MmIyYmJkZDRiZDU4YWFiY2IzY2RmNzI4`

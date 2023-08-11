@@ -1,12 +1,12 @@
 {
   "description": "The summer needs dance hits \ud83d\ude0e\u2600\ufe0f",
-  "num_followers": 268680,
+  "num_followers": 270099,
   "original_name": "Summer Dance Hits 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzY1ODhkMDAxMjE3YWZiOWVlODIwNjAyMWUzMzUzZjEzNTlkNzYx",
+  "snapshot_id": "MCxhYWJhN2Q1YzI1MWY5NjdmZTEwNmYxOGFmYTZjYTc4Y2ZhOTQyY2Nh",
   "tracks": [
     {
       "added_at": "2023-08-04 15:25:50",
@@ -335,6 +335,26 @@
     {
       "added_at": "2023-08-04 15:25:50",
       "album": {
+        "name": "Desire (with Sam Smith)",
+        "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 179161,
+      "name": "Desire (with Sam Smith)",
+      "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
+    },
+    {
+      "added_at": "2023-08-04 15:25:50",
+      "album": {
         "name": "10:35",
         "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
       },
@@ -391,26 +411,6 @@
       "duration_ms": 137419,
       "name": "Rock My Body",
       "url": "https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU"
-    },
-    {
-      "added_at": "2023-08-04 15:25:50",
-      "album": {
-        "name": "Desire (with Sam Smith)",
-        "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 179161,
-      "name": "Desire (with Sam Smith)",
-      "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
     },
     {
       "added_at": "2023-08-04 15:25:50",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-08-04 15:25:50",
       "album": {
+        "name": "The Feeling",
+        "url": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "duration_ms": 153449,
+      "name": "The Feeling",
+      "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
+    },
+    {
+      "added_at": "2023-08-04 15:25:50",
+      "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 160000,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
-    },
-    {
-      "added_at": "2023-08-04 15:25:50",
-      "album": {
-        "name": "The Feeling",
-        "url": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 153449,
-      "name": "The Feeling",
-      "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
     },
     {
       "added_at": "2023-08-04 15:25:50",
@@ -1119,6 +1119,26 @@
     {
       "added_at": "2023-08-04 15:25:50",
       "album": {
+        "name": "One in a Million",
+        "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 160529,
+      "name": "One in a Million",
+      "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
+    },
+    {
+      "added_at": "2023-08-04 15:25:50",
+      "album": {
         "name": "World Hold On (FISHER Rework)",
         "url": "https://open.spotify.com/album/4Z6joMam5q6D8khEfuaCWD"
       },
@@ -1163,18 +1183,22 @@
     {
       "added_at": "2023-08-04 15:25:50",
       "album": {
-        "name": "Maria Maria",
-        "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
+        "name": "TAKE IT OFF",
+        "url": "https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW"
       },
       "artists": [
         {
-          "name": "TECH IT DEEP",
-          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Aatig",
+          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
         }
       ],
-      "duration_ms": 161801,
-      "name": "Maria Maria",
-      "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
+      "duration_ms": 194604,
+      "name": "TAKE IT OFF",
+      "url": "https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB"
     },
     {
       "added_at": "2023-08-04 15:25:50",
@@ -1199,42 +1223,18 @@
     {
       "added_at": "2023-08-04 15:25:50",
       "album": {
-        "name": "TAKE IT OFF",
-        "url": "https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW"
+        "name": "Maria Maria",
+        "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
       },
       "artists": [
         {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Aatig",
-          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
+          "name": "TECH IT DEEP",
+          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
         }
       ],
-      "duration_ms": 194604,
-      "name": "TAKE IT OFF",
-      "url": "https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB"
-    },
-    {
-      "added_at": "2023-08-04 15:25:50",
-      "album": {
-        "name": "One in a Million",
-        "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 160529,
-      "name": "One in a Million",
-      "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
+      "duration_ms": 161801,
+      "name": "Maria Maria",
+      "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
     },
     {
       "added_at": "2023-08-04 15:25:50",
@@ -1283,6 +1283,26 @@
     {
       "added_at": "2023-08-04 15:25:50",
       "album": {
+        "name": "Emorio",
+        "url": "https://open.spotify.com/album/3yP0Nsb8jyXY4HMNb6tkO9"
+      },
+      "artists": [
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        },
+        {
+          "name": "Faf\u00e1 de Bel\u00e9m",
+          "url": "https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d"
+        }
+      ],
+      "duration_ms": 163840,
+      "name": "Emorio",
+      "url": "https://open.spotify.com/track/14VthBnru6kiREQUYAuNSL"
+    },
+    {
+      "added_at": "2023-08-04 15:25:50",
+      "album": {
         "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
         "url": "https://open.spotify.com/album/7rE2qU0GsiIiNd4VPupV3B"
       },
@@ -1303,26 +1323,6 @@
       "duration_ms": 157205,
       "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
       "url": "https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY"
-    },
-    {
-      "added_at": "2023-08-04 15:25:50",
-      "album": {
-        "name": "Emorio",
-        "url": "https://open.spotify.com/album/3yP0Nsb8jyXY4HMNb6tkO9"
-      },
-      "artists": [
-        {
-          "name": "Trinix",
-          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
-        },
-        {
-          "name": "Faf\u00e1 de Bel\u00e9m",
-          "url": "https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d"
-        }
-      ],
-      "duration_ms": 163840,
-      "name": "Emorio",
-      "url": "https://open.spotify.com/track/14VthBnru6kiREQUYAuNSL"
     },
     {
       "added_at": "2023-08-04 15:25:50",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-08-04 15:25:50",
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/32JzuMXyPDs6ihDnRGh8vy"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Voodoo",
-      "url": "https://open.spotify.com/track/3JsH3qnwhYGs20PBMsCgNx"
-    },
-    {
-      "added_at": "2023-08-04 15:25:50",
-      "album": {
         "name": "My Heart Goes (La Di Da)",
         "url": "https://open.spotify.com/album/3xDukGLEHBX2uylxb6S9jc"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 148960,
       "name": "My Heart Goes (La Di Da)",
       "url": "https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p"
+    },
+    {
+      "added_at": "2023-08-04 15:25:50",
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/32JzuMXyPDs6ihDnRGh8vy"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/3JsH3qnwhYGs20PBMsCgNx"
     },
     {
       "added_at": "2023-08-04 15:25:50",
@@ -1727,26 +1727,6 @@
     {
       "added_at": "2023-08-04 15:25:50",
       "album": {
-        "name": "Still (I Got Summer On My Mind) [FORTELLA Remix]",
-        "url": "https://open.spotify.com/album/6mfyxdmji09bDs1pYQADob"
-      },
-      "artists": [
-        {
-          "name": "JJ",
-          "url": "https://open.spotify.com/artist/1bAdBYcsDdsbqmWbAE7qKR"
-        },
-        {
-          "name": "FORTELLA",
-          "url": "https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9"
-        }
-      ],
-      "duration_ms": 193475,
-      "name": "Still (I Got Summer On My Mind) - FORTELLA Remix",
-      "url": "https://open.spotify.com/track/00Nsyeo2kcU4602zMsLWXW"
-    },
-    {
-      "added_at": "2023-08-04 15:25:50",
-      "album": {
         "name": "Miracle Maker",
         "url": "https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU"
       },
@@ -1763,6 +1743,26 @@
       "duration_ms": 188592,
       "name": "Miracle Maker",
       "url": "https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK"
+    },
+    {
+      "added_at": "2023-08-04 15:25:50",
+      "album": {
+        "name": "Still (I Got Summer On My Mind) [FORTELLA Remix]",
+        "url": "https://open.spotify.com/album/6mfyxdmji09bDs1pYQADob"
+      },
+      "artists": [
+        {
+          "name": "JJ",
+          "url": "https://open.spotify.com/artist/1bAdBYcsDdsbqmWbAE7qKR"
+        },
+        {
+          "name": "FORTELLA",
+          "url": "https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9"
+        }
+      ],
+      "duration_ms": 193475,
+      "name": "Still (I Got Summer On My Mind) - FORTELLA Remix",
+      "url": "https://open.spotify.com/track/00Nsyeo2kcU4602zMsLWXW"
     },
     {
       "added_at": "2023-08-04 15:25:50",
@@ -1831,6 +1831,26 @@
     {
       "added_at": "2023-08-04 15:25:50",
       "album": {
+        "name": "Makeba (Ian Asher Remix)",
+        "url": "https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj"
+      },
+      "artists": [
+        {
+          "name": "Jain",
+          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
+        },
+        {
+          "name": "Ian Asher",
+          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
+        }
+      ],
+      "duration_ms": 125178,
+      "name": "Makeba - Ian Asher Remix",
+      "url": "https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L"
+    },
+    {
+      "added_at": "2023-08-04 15:25:50",
+      "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/0lnPUG1O0J3zTNgLa6B5Nj"
       },
@@ -1883,22 +1903,6 @@
     {
       "added_at": "2023-08-04 15:25:50",
       "album": {
-        "name": "Summer 91 (Looking Back)",
-        "url": "https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm"
-      },
-      "artists": [
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Summer 91 (Looking Back)",
-      "url": "https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL"
-    },
-    {
-      "added_at": "2023-08-04 15:25:50",
-      "album": {
         "name": "Sun Will Shine",
         "url": "https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W"
       },
@@ -1919,22 +1923,18 @@
     {
       "added_at": "2023-08-04 15:25:50",
       "album": {
-        "name": "Makeba (Ian Asher Remix)",
-        "url": "https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj"
+        "name": "Summer 91 (Looking Back)",
+        "url": "https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm"
       },
       "artists": [
         {
-          "name": "Jain",
-          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
-        },
-        {
-          "name": "Ian Asher",
-          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
         }
       ],
-      "duration_ms": 125178,
-      "name": "Makeba - Ian Asher Remix",
-      "url": "https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L"
+      "duration_ms": 180000,
+      "name": "Summer 91 (Looking Back)",
+      "url": "https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL"
     },
     {
       "added_at": "2023-08-04 15:25:50",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2023-08-04 15:25:50",
       "album": {
-        "name": "Jacar\u00e9",
-        "url": "https://open.spotify.com/album/6tVrvnbU1sLGGegMIEYexO"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 156620,
-      "name": "Jacar\u00e9",
-      "url": "https://open.spotify.com/track/1WY17VGE4rQjsyWi1Tw3be"
-    },
-    {
-      "added_at": "2023-08-04 15:25:50",
-      "album": {
         "name": "Number 1",
         "url": "https://open.spotify.com/album/0vkYGGLv8iwyQWdccl46j3"
       },
@@ -2111,6 +2095,54 @@
       "duration_ms": 145200,
       "name": "Number 1",
       "url": "https://open.spotify.com/track/5HadIAY3Oray8VKuv3shgQ"
+    },
+    {
+      "added_at": "2023-08-04 15:25:50",
+      "album": {
+        "name": "Jacar\u00e9",
+        "url": "https://open.spotify.com/album/6tVrvnbU1sLGGegMIEYexO"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 156620,
+      "name": "Jacar\u00e9",
+      "url": "https://open.spotify.com/track/1WY17VGE4rQjsyWi1Tw3be"
+    },
+    {
+      "added_at": "2023-08-04 15:25:50",
+      "album": {
+        "name": "Calabria (feat. Fallen Roses, Lujavo & Lunis)",
+        "url": "https://open.spotify.com/album/29lm3KjzCeCV07CHGT8R7n"
+      },
+      "artists": [
+        {
+          "name": "Dance Fruits Music",
+          "url": "https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC"
+        },
+        {
+          "name": "DMNDS",
+          "url": "https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO"
+        },
+        {
+          "name": "Fallen Roses",
+          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
+        },
+        {
+          "name": "Lunis",
+          "url": "https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN"
+        },
+        {
+          "name": "Lujavo",
+          "url": "https://open.spotify.com/artist/5QCGlnijOcNxsXXNzZkcWL"
+        }
+      ],
+      "duration_ms": 128500,
+      "name": "Calabria (feat. Fallen Roses, Lujavo & Lunis)",
+      "url": "https://open.spotify.com/track/3M89zvwwb1jtDUDKYNsdiA"
     },
     {
       "added_at": "2023-08-04 15:25:50",
@@ -2147,38 +2179,6 @@
       "duration_ms": 209032,
       "name": "Adore",
       "url": "https://open.spotify.com/track/0oBUOlD8XPyRNmVOqkv7QA"
-    },
-    {
-      "added_at": "2023-08-04 15:25:50",
-      "album": {
-        "name": "Calabria (feat. Fallen Roses, Lujavo & Lunis)",
-        "url": "https://open.spotify.com/album/29lm3KjzCeCV07CHGT8R7n"
-      },
-      "artists": [
-        {
-          "name": "Dance Fruits Music",
-          "url": "https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC"
-        },
-        {
-          "name": "DMNDS",
-          "url": "https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO"
-        },
-        {
-          "name": "Fallen Roses",
-          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
-        },
-        {
-          "name": "Lunis",
-          "url": "https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN"
-        },
-        {
-          "name": "Lujavo",
-          "url": "https://open.spotify.com/artist/5QCGlnijOcNxsXXNzZkcWL"
-        }
-      ],
-      "duration_ms": 128500,
-      "name": "Calabria (feat. Fallen Roses, Lujavo & Lunis)",
-      "url": "https://open.spotify.com/track/3M89zvwwb1jtDUDKYNsdiA"
     },
     {
       "added_at": "2023-08-04 15:25:50",
@@ -2367,6 +2367,22 @@
     {
       "added_at": "2023-08-04 15:25:50",
       "album": {
+        "name": "Feel It (Club Edit)",
+        "url": "https://open.spotify.com/album/0xa0dJgYKO9keCfgjhuBYH"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 124462,
+      "name": "Feel It - Club Edit",
+      "url": "https://open.spotify.com/track/71xKlOIhZKO55Rt3zSHzQt"
+    },
+    {
+      "added_at": "2023-08-04 15:25:50",
+      "album": {
         "name": "One By One",
         "url": "https://open.spotify.com/album/58AR5fqutmWyadTfOYoYA5"
       },
@@ -2403,22 +2419,6 @@
       "duration_ms": 208544,
       "name": "Coma Cat - Purple Disco Machine Re-Work",
       "url": "https://open.spotify.com/track/1BMFet4vUoOgpLYIl3kVMQ"
-    },
-    {
-      "added_at": "2023-08-04 15:25:50",
-      "album": {
-        "name": "Feel It (Club Edit)",
-        "url": "https://open.spotify.com/album/0xa0dJgYKO9keCfgjhuBYH"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 124462,
-      "name": "Feel It - Club Edit",
-      "url": "https://open.spotify.com/track/71xKlOIhZKO55Rt3zSHzQt"
     },
     {
       "added_at": "2023-08-04 15:25:50",

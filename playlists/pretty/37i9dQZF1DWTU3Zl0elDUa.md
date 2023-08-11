@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 
 > Essential club anthems from the golden era of house music\. Cover: Kenny Dope and Little Louie Vega
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,308 likes - 60 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,740 likes - 60 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 22 | [King of My Castle \- Roy Malone's King Radio Edit](https://open.spotify.com/track/6tMljaV7JPdoPc88Z2dlwu) | [Wamdue Project](https://open.spotify.com/artist/2U33UlGhnPqg3B5xJTn3zm), [Roy Malone](https://open.spotify.com/artist/0Mry1TcXvK97hkYf7F74zn) | [King Of My Castle \(Mixes\)](https://open.spotify.com/album/5B0SFs0tNHlR8pTkedmRgd) | 3:35 |
 | 23 | [Nitelife \- Armand Van Helden Retail Mix](https://open.spotify.com/track/2F5W5f8COoQKpoGqPcZ1EN) | [Kim English](https://open.spotify.com/artist/1Tvhj4mF2pvvAT1InLbRKs) | [Nitelife \- Armand Van Helden Remixes](https://open.spotify.com/album/0ZyL3OOBX6XeFfXMvwrcen) | 6:57 |
 | 24 | [French Kiss \- The Original Underground Mix](https://open.spotify.com/track/7hnqJYCKZFW7vMoykaraZG) | [Lil' Louis](https://open.spotify.com/artist/5A16TE7083RJq3yzpdsQWs), [The World](https://open.spotify.com/artist/62ltJFdLVl9JUrdhzWqp0F) | [Club Epic \- A Collection Of Classic Dance Mixes: Volume 4](https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW) | 9:51 |
-| 25 | [Where Love Lives \(Come On In\) \- Classic Mix](https://open.spotify.com/track/0ilZMeXHPKDPjUc4Neu04f) | [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc), [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts) | [Club Classics](https://open.spotify.com/album/7myZnxCkCwmL67BJ1X6U3m) | 6:56 |
-| 26 | [Deep Inside](https://open.spotify.com/track/6iNncT0HlEZNVoBQbFrdLs) | [Hardrive](https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1) | [Deep Inside](https://open.spotify.com/album/5ZOD5pFIYtgkqzbRegxxHY) | 6:30 |
+| 25 | [Deep Inside](https://open.spotify.com/track/6iNncT0HlEZNVoBQbFrdLs) | [Hardrive](https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1) | [Deep Inside](https://open.spotify.com/album/5ZOD5pFIYtgkqzbRegxxHY) | 6:30 |
+| 26 | [Where Love Lives \(Come On In\) \- Classic Mix](https://open.spotify.com/track/0ilZMeXHPKDPjUc4Neu04f) | [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc), [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts) | [Club Classics](https://open.spotify.com/album/7myZnxCkCwmL67BJ1X6U3m) | 6:56 |
 | 27 | [Everybody Everybody \(Le Freak Mix\)](https://open.spotify.com/track/7uhAqFWN1GDG1IX6m3C0sm) | [Black Box](https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW), [DJ Lelewel](https://open.spotify.com/artist/179i0h3w96DJHXFqELs2KL) | [Everybody Everybody](https://open.spotify.com/album/6xWCKGUnDcZRXQQn1A9e5H) | 5:20 |
 | 28 | [I'm Gonna Get You \- Original Flavour Mix](https://open.spotify.com/track/4EzZPB8OujNAeND6C2SduJ) | [Bizarre Inc](https://open.spotify.com/artist/07lbidCU8ZwtNCUrmaO0QU) | [Energique](https://open.spotify.com/album/00kOiUJakqkClL8Zthwa5W) | 5:19 |
 | 29 | [Follow Me \- Club Mix](https://open.spotify.com/track/547iG5F16pTdim4XlMlGEU) | [Aly\-Us](https://open.spotify.com/artist/4MnBfIdylI5EASiTCsNA7r) | [Follow Me](https://open.spotify.com/album/7lHBZXxijgIaXDpKeDQs9O) | 6:24 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 57 | [Ebeneezar Goode \- Beatmasters Mix](https://open.spotify.com/track/2w6c7A9bfstvqCVOCF6UmV) | [The Shamen](https://open.spotify.com/artist/5E704N5StxMVKpalhaJ5L3) | [Boss Drum](https://open.spotify.com/album/0F9CFeVQEAcmbYNqZzWt9W) | 6:15 |
 | 58 | [Hey Music Lover](https://open.spotify.com/track/5suP41ovdCSHsXZnTFALzX) | [S'Express](https://open.spotify.com/artist/2PvqyOwynRF4BveaU6IA7S) | [Original Soundtrack](https://open.spotify.com/album/760T7VGqZ66wGrRzndpPWc) | 4:30 |
 | 59 | [Everybody \(All over the World\) \- Dance Version](https://open.spotify.com/track/4XbAHiP83NvAj1rW2vIrys) | [FPI Project](https://open.spotify.com/artist/6HNYPrYPF6UzZhVFu2sLeh) | [Everybody \(All Over The World\)](https://open.spotify.com/album/29vo83aZt4XUt2gUSAxzwg) | 5:13 |
-| 60 | [Do You Want Me Baby \- Original Club Mix](https://open.spotify.com/track/7bT6fPUWS7Aaa1yBzV0mc7) | [Cloud 9](https://open.spotify.com/artist/02AM03mK2DQTiDr33b87f6) | [Do You Want Me Baby](https://open.spotify.com/album/1pUavhgKfSopQv4NmpyQGy) | 8:02 |
+| 60 | [Mushrooms \- Salt City Orchestra Out There Mix](https://open.spotify.com/track/2vRbn7ZmxrkEO2SBfxJe3V) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [Noosa Heads](https://open.spotify.com/artist/4qZL2VAnbz5esT94wlilZp), [Salt City Orchestra](https://open.spotify.com/artist/6nHCRufVUGt9HmvAOZXhOi) | [Mushrooms](https://open.spotify.com/album/4UqQPjkCRNr1VDqqHnMTQ5) | 8:12 |
 
-Snapshot ID: `MCw2Yzk4MGJmMjRhOTIwYmM0ZjA0ZjUzNWU5MzQyNThmODczMDk3N2Qw`
+Snapshot ID: `MCxhZmI2MDJmMjM4ZmEzY2I2MTQ1NGY2OGNlMTYwOWZhOTZlYWYyZjg0`

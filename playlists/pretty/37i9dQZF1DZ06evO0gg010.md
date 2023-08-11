@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gg010.md) - [plain]
 
 > This is Fuerza Regida\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,641 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,097 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gg010.md) - [plain]
 | 49 | [Creció La Cuenta](https://open.spotify.com/track/5Fg4huU4W2ByloZXYfaJD4) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Creció La Cuenta](https://open.spotify.com/album/2KK6p9x9C1XbwDrQQXdSZh) | 3:33 |
 | 50 | [Nunca Se Imaginó](https://open.spotify.com/track/6at5CSe9grrC30rQwdI0bQ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 3:38 |
 
-Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDA2OTQ1MmZlMjE2NTBhZDY1YWExNDRjYTZjMjFiNmE1Yw==`
+Snapshot ID: `MjgxOTQ1NjMsMDAwMDAwMDA1NWNiMTM3ZGM1YzgwOTcxYWQ5Mzg4YWQyNmZhNmNiYg==`

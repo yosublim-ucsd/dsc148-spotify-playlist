@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNQEmXRHxVe.md) - [plain]
 
 > Music from the most memorable Super Bowl halftime shows\. Cover: Rihanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,978 likes - 96 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,990 likes - 96 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,21 +65,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNQEmXRHxVe.md) - [plain]
 | 55 | [Ain't Your Mama](https://open.spotify.com/track/2hgzdQdnfWwtdpZbhZlV72) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Ain't Your Mama](https://open.spotify.com/album/5Bd99eGJKXoRMnqgqWlWmp) | 3:38 |
 | 56 | [I Kissed A Girl](https://open.spotify.com/track/005lwxGU1tms6HGELIcUv9) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl) | 2:59 |
 | 57 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 2:58 |
-| 58 | [Work It](https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Under Construction](https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup) | 4:23 |
-| 59 | [House Of Balloons / Glass Table Girls \- Original](https://open.spotify.com/track/2r7BPog74oaTG5shNYiUnV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [House Of Balloons \(Original\)](https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd) | 6:47 |
+| 58 | [House Of Balloons / Glass Table Girls \- Original](https://open.spotify.com/track/2r7BPog74oaTG5shNYiUnV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [House Of Balloons \(Original\)](https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd) | 6:47 |
+| 59 | [Work It](https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Under Construction](https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup) | 4:23 |
 | 60 | [Walk This Way \(feat\. Aerosmith\)](https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA), [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Raising Hell](https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg) | 5:10 |
 | 61 | [Black or White](https://open.spotify.com/track/7EsjkelQuoUlJXEw7SeVV4) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Dangerous](https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg) | 4:14 |
 | 62 | [Let's Get Loud](https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 3:59 |
 | 63 | [m.A.A.d city](https://open.spotify.com/track/439TlnnznSiBbQbgXiBqAd) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [MC Eiht](https://open.spotify.com/artist/4XqfpACObRB5AsBcUYjL8X) | [good kid, m.A.A.d city](https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1) | 5:50 |
 | 64 | [Independent Women, Pt\. 1](https://open.spotify.com/track/69XUpOpjzDKcfdxqZebGiI) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9) | 3:41 |
-| 65 | [Vogue](https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:16 |
-| 66 | [Get Ur Freak On](https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Miss E..\. So Addictive](https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP) | 3:31 |
+| 65 | [Get Ur Freak On](https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Miss E..\. So Addictive](https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP) | 3:31 |
+| 66 | [Vogue](https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:16 |
 | 67 | [Let's Go Crazy](https://open.spotify.com/track/0QeI79sp1vS8L3JgpEO7mD) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 4:40 |
 | 68 | [Beautiful Day](https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g) | 4:06 |
 | 69 | [Bad Boy for Life](https://open.spotify.com/track/2eOuL8KesslTLQERQPu11D) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Black Rob](https://open.spotify.com/artist/1QPZhx0asYTBxD5RDqfU49), [Mark Curry](https://open.spotify.com/artist/20N6dS0vq9kMWXUqEkFrBA) | [The Saga Continues...](https://open.spotify.com/album/28BrFxsnBMjN689hOuf1jv) | 4:13 |
-| 70 | [Who Are You](https://open.spotify.com/track/23IJ5wLRhEZ9DOuia5mPiZ) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who Are You](https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8) | 6:21 |
-| 71 | [Cowboy](https://open.spotify.com/track/19LT4ZUEeoUdimKE04WJJg) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Devil Without a Cause](https://open.spotify.com/album/7nFlAxnXMrQRpM1R80pKQm) | 4:17 |
-| 72 | [Lose Control \(feat\. Ciara & Fat Man Scoop\)](https://open.spotify.com/track/0UaMYEvWZi0ZqiDOoHU3YI) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [The Cookbook](https://open.spotify.com/album/6vV5UrXcfyQD1wu4Qo2I9K) | 3:46 |
+| 70 | [Lose Control \(feat\. Ciara & Fat Man Scoop\)](https://open.spotify.com/track/0UaMYEvWZi0ZqiDOoHU3YI) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [The Cookbook](https://open.spotify.com/album/6vV5UrXcfyQD1wu4Qo2I9K) | 3:46 |
+| 71 | [Who Are You](https://open.spotify.com/track/23IJ5wLRhEZ9DOuia5mPiZ) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who Are You](https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8) | 6:21 |
+| 72 | [Cowboy](https://open.spotify.com/track/19LT4ZUEeoUdimKE04WJJg) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Devil Without a Cause](https://open.spotify.com/album/7nFlAxnXMrQRpM1R80pKQm) | 4:17 |
 | 73 | [\(Love Is Like A\) Heat Wave](https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Heat Wave](https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK) | 2:43 |
 | 74 | [Step by Step](https://open.spotify.com/track/6J6RWKCPN5RFKHUKEUFjxS) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Step By Step](https://open.spotify.com/album/4dCdnfD0shXGuHtyTOtx8q) | 4:27 |
 | 75 | [Motownphilly](https://open.spotify.com/track/4LxIGAVfcQIw0zAQRyFhU8) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Cooleyhighharmony \(Bonus Tracks Version\)](https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO) | 3:55 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNQEmXRHxVe.md) - [plain]
 | 95 | [Release Yourself](https://open.spotify.com/track/24JnivykEgycnelmeyvZNl) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Burnin'](https://open.spotify.com/album/7IAaeP93y9SgYQ6MKWA0hL) | 4:54 |
 | 96 | [Let's Get It Started](https://open.spotify.com/track/50w5mfnGoJMFQwlf3yq98v) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk](https://open.spotify.com/album/0XZkDl6U3R1gdTvTIpZKL7) | 7:32 |
 
-Snapshot ID: `MCw5MThkYTA2Yjg0MTM1ODBhMzIxMmMzYTk0OWNkOTFlNTAzODQ1MDRl`
+Snapshot ID: `MCxiNDZjNjU4NzI2MTBkN2E1NWI1MDM4MjI0ODZjZDEzNWYzYTIzMjE0`

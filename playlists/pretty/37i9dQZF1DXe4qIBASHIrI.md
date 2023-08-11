@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 
 > Los temas esenciales de la escena independiente nacional\. Songs for Eleonor en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,786 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,886 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 75 | [Ella No Me Conoce](https://open.spotify.com/track/5WyAHEuvc2mpHeOJTkzsbS) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [La Última Noche del Mundo](https://open.spotify.com/album/5XYaeuGHi7sVB0L2YKgqAm) | 4:48 |
 | 76 | [Berlín](https://open.spotify.com/track/4z55q1ocJQOiSwkFQAdUFO) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:45 |
 | 77 | [Dulce Mal](https://open.spotify.com/track/4bVaYbaxhHaxeCLGyERNfT) | [The Chamanas](https://open.spotify.com/artist/4QUnWR26plj0oHiQgRyhvk) | [Dulce Mal](https://open.spotify.com/album/7u7PYKzkFojFmGAj0JI37Y) | 4:02 |
-| 78 | [Yepa Yepa Yepa](https://open.spotify.com/track/3uzCrz4OcrdWUOqfOrzDzx) | [Silverio](https://open.spotify.com/artist/1Du4cMgDEKryT08bQdMqpV) | [Silverio](https://open.spotify.com/album/66gu4VLW2XbHzv8RcBZ8sy) | 4:10 |
-| 79 | [Soun Tha Mi Primer Amor \- Mtv Unplugged \(En Vivo\)](https://open.spotify.com/track/1s36ag5aYkHwoiAUGvZDPM) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Mtv Unplugged](https://open.spotify.com/album/21BcXV7FQT8LVbqOpRUHJ8) | 3:50 |
+| 78 | [Soun Tha Mi Primer Amor \- Mtv Unplugged \(En Vivo\)](https://open.spotify.com/track/1s36ag5aYkHwoiAUGvZDPM) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Mtv Unplugged](https://open.spotify.com/album/21BcXV7FQT8LVbqOpRUHJ8) | 3:50 |
+| 79 | [Yepa Yepa Yepa](https://open.spotify.com/track/3uzCrz4OcrdWUOqfOrzDzx) | [Silverio](https://open.spotify.com/artist/1Du4cMgDEKryT08bQdMqpV) | [Silverio](https://open.spotify.com/album/66gu4VLW2XbHzv8RcBZ8sy) | 4:10 |
 | 80 | [Inmóvil \(Wrong I.D.\)](https://open.spotify.com/track/34sDl5mMIrTKf1uQJuqKuU) | [LeBaron](https://open.spotify.com/artist/6mAJLm084B2XPYIqkt1gj1) | [LeBaron](https://open.spotify.com/album/1ZROHNWumhnNlEzo69ubgb) | 3:42 |
 | 81 | [Paso Fino](https://open.spotify.com/track/7wt8zQKmeiRadOqWci0q7p) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [All U Need Is Mosh](https://open.spotify.com/album/4rVRjklAbBsRF2rOJEL8nA) | 6:09 |
 | 82 | [No vuelvo más](https://open.spotify.com/track/2rpLnBl2ktVU7ZtjgCXGVZ) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mediocre](https://open.spotify.com/album/268J4Sl3DpX5l7KrxHRv2g) | 4:13 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 87 | [Azul](https://open.spotify.com/track/04BizsqpIiqNQALwvaPr5a) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [HU HU HU](https://open.spotify.com/album/7wr357GNp9CgeJRUfpX7hf) | 6:33 |
 | 88 | [Si](https://open.spotify.com/track/1LN0Ut0IBHSrx4Urexq8xb) | [Torreblanca](https://open.spotify.com/artist/5sy13x4wGzkhvLeHr4HPEE) | [Bella Época](https://open.spotify.com/album/7HJRr6o6Efu5XJCFNPKtHd) | 3:20 |
 | 89 | [El Ultimo](https://open.spotify.com/track/1LnHgQUu6IBqDLlXH4A3Vq) | [Los Odio!](https://open.spotify.com/artist/0tqpmKIKOBpH3PESt3W93v) | [Los Odio](https://open.spotify.com/album/4jnjFnZIJ7kHm2VIfQwQFC) | 3:35 |
-| 90 | [Dancing In The Dark](https://open.spotify.com/track/2Dsc3Cx6d9qr19aoXi6Fqm) | [Wet Baes](https://open.spotify.com/artist/6mYovveNfg4PF4HnT8Lner) | [Dancing In The Dark](https://open.spotify.com/album/0blCS4K4dzy4hfLa6xOwUb) | 3:27 |
-| 91 | [Pistache](https://open.spotify.com/track/6hNCdAhUeH2JKFfr7lcfkl) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Bosque de San Marcos](https://open.spotify.com/album/4XQnB0Go4T6UunJgPTIaSf) | 4:12 |
+| 90 | [Pistache](https://open.spotify.com/track/6hNCdAhUeH2JKFfr7lcfkl) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Bosque de San Marcos](https://open.spotify.com/album/4XQnB0Go4T6UunJgPTIaSf) | 4:12 |
+| 91 | [Dancing In The Dark](https://open.spotify.com/track/2Dsc3Cx6d9qr19aoXi6Fqm) | [Wet Baes](https://open.spotify.com/artist/6mYovveNfg4PF4HnT8Lner) | [Dancing In The Dark](https://open.spotify.com/album/0blCS4K4dzy4hfLa6xOwUb) | 3:27 |
 | 92 | [Minutos de Aire \(feat\. Jorge Gonzalez\)](https://open.spotify.com/track/6LAYXFQnriD7pZiKcc86dj) | [Quiero Club](https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA) | [Happy\-fi Compilación Vol\. 5 Coyote Nights](https://open.spotify.com/album/6eqwMvTOD5AvY8gnpper2F) | 4:37 |
 | 93 | [Vidas Paralelas](https://open.spotify.com/track/3PLbGRy1TcQJd8AGnw9TdD) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Vidas Paralelas](https://open.spotify.com/album/6Vghn6zs5r9r8XFnxRMPZN) | 3:57 |
 | 94 | [I Count the Ways](https://open.spotify.com/track/37AXEkCvxD0rAUSkmjbem8) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Bulevar 2000 \(Nortec Collective Presents: Bostich+Fussible\)](https://open.spotify.com/album/1CAHCaHt10RshLU6sgDeAH) | 3:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 99 | [Fumemos un cigarrillo \- Soundtrack Original de la Película](https://open.spotify.com/track/4LlUdiN47svvAwEmbFWQN3) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Fumemos un cigarrillo \(Soundtrack Original de la Película\)](https://open.spotify.com/album/1qHG2eqmFWACQnG8ksdeYz) | 4:01 |
 | 100 | [Vámonos](https://open.spotify.com/track/14dxDAiZ1YMfT0s0urR5Zh) | [Súper Tigre](https://open.spotify.com/artist/2k7XXrxlqG3H27BueuiQW3) | [Súper Tigre](https://open.spotify.com/album/6j4jrKSq0iYQ2uhjZGYDs3) | 3:26 |
 
-Snapshot ID: `MCw2MzBiNTc1ZDM4YzAyZDVkMzdmZTJiZWJmY2Q2NmM2ODBmZjdlYWQw`
+Snapshot ID: `MCwwMGE5YjZhNGZjOTI2MDBhZTNmNTNjOWE0ZjgwY2M0MzBmNWNmMDE2`

@@ -1,12 +1,12 @@
 {
   "description": "hop in and take the long way.",
-  "num_followers": 674074,
+  "num_followers": 674177,
   "original_name": "Scenic Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjdkN2IwOWQ0ODVhNjcyNTA0ZGZhYWIzM2IwNWE4ZTI0YWY5NWFj",
+  "snapshot_id": "MCwzYjM0ZmVhZGMwYWQxZDUyZjc5YmUyNzA1ODJkYzNkYTAyNTJlZDAz",
   "tracks": [
     {
       "added_at": "2023-07-28 04:00:00",
@@ -347,18 +347,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Long Blue Light",
-        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
+        "name": "Kindness, A Rebel",
+        "url": "https://open.spotify.com/album/1RNcYrqXqFyb3R6jjQrwT7"
       },
       "artists": [
         {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+          "name": "River Whyless",
+          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
         }
       ],
-      "duration_ms": 200173,
-      "name": "Long Blue Light",
-      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
+      "duration_ms": 195126,
+      "name": "Motel 6",
+      "url": "https://open.spotify.com/track/6hUTzxvNiJ1c0lYqgoOTBW"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "Long Blue Light",
+        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "Long Blue Light",
+      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Reckless",
         "url": "https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 251293,
       "name": "Wilder Days",
       "url": "https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Kindness, A Rebel",
-        "url": "https://open.spotify.com/album/1RNcYrqXqFyb3R6jjQrwT7"
-      },
-      "artists": [
-        {
-          "name": "River Whyless",
-          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
-        }
-      ],
-      "duration_ms": 195126,
-      "name": "Motel 6",
-      "url": "https://open.spotify.com/track/6hUTzxvNiJ1c0lYqgoOTBW"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Shore",
-        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 244186,
-      "name": "Can I Believe You",
-      "url": "https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Don't",
         "url": "https://open.spotify.com/album/0sPcMRaH3i6TO1yvDkOxPS"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 182066,
       "name": "Don't",
       "url": "https://open.spotify.com/track/2q9YHakYN697yPpEitqybk"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Shore",
+        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 244186,
+      "name": "Can I Believe You",
+      "url": "https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "El Dorado",
-        "url": "https://open.spotify.com/album/0twx7uqxPQtmtpeURTlZB0"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 288120,
-      "name": "Wildflowers & Wine",
-      "url": "https://open.spotify.com/track/1l8TpQdbsiQvMB9SuPsaiv"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Designer",
         "url": "https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 299440,
       "name": "The Barrel",
       "url": "https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/0twx7uqxPQtmtpeURTlZB0"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 288120,
+      "name": "Wildflowers & Wine",
+      "url": "https://open.spotify.com/track/1l8TpQdbsiQvMB9SuPsaiv"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "Signal Sender",
+        "url": "https://open.spotify.com/album/4ILDW93NPJE8kEJSrUXuIy"
+      },
+      "artists": [
+        {
+          "name": "Richy Mitch & The Coal Miners",
+          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
+        }
+      ],
+      "duration_ms": 200137,
+      "name": "Signal Sender",
+      "url": "https://open.spotify.com/track/1XHTJ2n4ajw9dDzuPGY4Rm"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "I Need to Start a Garden",
         "url": "https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B"
       },
@@ -1087,6 +1103,22 @@
       "duration_ms": 177339,
       "name": "Oom Sha La La",
       "url": "https://open.spotify.com/track/28kOpVf1aCgL0LSFfuKV4w"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Lemon Tree",
+        "url": "https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 248560,
+      "name": "Lemon Tree",
+      "url": "https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1123,38 +1155,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Lemon Tree",
-        "url": "https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 248560,
-      "name": "Lemon Tree",
-      "url": "https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Signal Sender",
-        "url": "https://open.spotify.com/album/4ILDW93NPJE8kEJSrUXuIy"
-      },
-      "artists": [
-        {
-          "name": "Richy Mitch & The Coal Miners",
-          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
-        }
-      ],
-      "duration_ms": 200137,
-      "name": "Signal Sender",
-      "url": "https://open.spotify.com/track/1XHTJ2n4ajw9dDzuPGY4Rm"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Blue Skies",
         "url": "https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE"
       },
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Blacklisted",
-        "url": "https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU"
-      },
-      "artists": [
-        {
-          "name": "Neko Case",
-          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
-        }
-      ],
-      "duration_ms": 214733,
-      "name": "I Wish I Was the Moon",
-      "url": "https://open.spotify.com/track/4PxzGOH79jcmmldKgoI9sB"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "The Future",
         "url": "https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 279186,
       "name": "Face Down In The Moment",
       "url": "https://open.spotify.com/track/5yTpyXVKcB20zOGXU1ffgf"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Blacklisted",
+        "url": "https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU"
+      },
+      "artists": [
+        {
+          "name": "Neko Case",
+          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
+        }
+      ],
+      "duration_ms": 214733,
+      "name": "I Wish I Was the Moon",
+      "url": "https://open.spotify.com/track/4PxzGOH79jcmmldKgoI9sB"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Not Dead Yet",
-        "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 177366,
-      "name": "Not Dead Yet",
-      "url": "https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Seasons of Change",
         "url": "https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 162106,
       "name": "Grow into Love",
       "url": "https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Not Dead Yet",
+        "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 177366,
+      "name": "Not Dead Yet",
+      "url": "https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Reunions",
-        "url": "https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz"
-      },
-      "artists": [
-        {
-          "name": "Jason Isbell and the 400 Unit",
-          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
-        }
-      ],
-      "duration_ms": 224034,
-      "name": "Dreamsicle",
-      "url": "https://open.spotify.com/track/68wI8QNqMeIraj7Ix16hS3"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Taking Things For Granted",
         "url": "https://open.spotify.com/album/44idK1vYXKaSlCxRugsLrN"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 216167,
       "name": "Taking Things For Granted",
       "url": "https://open.spotify.com/track/2UY1uX2Wt5cj5mUVCa4c3O"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Reunions",
+        "url": "https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "duration_ms": 224034,
+      "name": "Dreamsicle",
+      "url": "https://open.spotify.com/track/68wI8QNqMeIraj7Ix16hS3"
     }
   ],
   "unique_name": "Scenic Route",

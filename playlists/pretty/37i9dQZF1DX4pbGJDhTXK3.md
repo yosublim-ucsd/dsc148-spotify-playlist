@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 
 > A celebration of Norway's dance scene!
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,461 likes - 50 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,490 likes - 50 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 | 17 | [View](https://open.spotify.com/track/0eiVc8xmZgqy2V92ye6eHU) | [Himmel](https://open.spotify.com/artist/2SaSegJV3zAzlLOiQTFXKm) | [View](https://open.spotify.com/album/6U8tCwy6JKrPmBwT4rb2CD) | 4:04 |
 | 18 | [Transit \- Radio Edit](https://open.spotify.com/track/6xX3DLq6CqH54lcNRzCGnu) | [Third Attempt](https://open.spotify.com/artist/1tsNLehJWv67iMipy0WwQR) | [Transit](https://open.spotify.com/album/2xGTUrOe1vH974ZuWfGp54) | 2:30 |
 | 19 | [Breathe \- Qrion Remix](https://open.spotify.com/track/7lZjor53FqYpyJb8Uc0Pve) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Breathe \(Qrion Remix\)](https://open.spotify.com/album/5t0fkdOmBKTj7MzjkTuQHF) | 4:31 |
-| 20 | [how long is..\. cold pizza good for](https://open.spotify.com/track/4xDLHt2Ss3pYDoLCK2uUPB) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [Villa Amorini](https://open.spotify.com/album/5PdhR2YW9IubgKjU9N28RG) | 5:59 |
-| 21 | [Tyrkisk Pepper \- Dolle Jolle Remix](https://open.spotify.com/track/38KKAivesNw1zoh8eshIZX) | [Blackbelt Andersen](https://open.spotify.com/artist/67qty1jpSV57pPDYDTDUgL), [Dølle Jølle](https://open.spotify.com/artist/1UbgLp0E5zKU0BAhpPp59B) | [Tyrkisk Pepper](https://open.spotify.com/album/2KUdBmCPOBpD2YweRXPAMt) | 8:02 |
+| 20 | [Tyrkisk Pepper \- Dolle Jolle Remix](https://open.spotify.com/track/38KKAivesNw1zoh8eshIZX) | [Blackbelt Andersen](https://open.spotify.com/artist/67qty1jpSV57pPDYDTDUgL), [Dølle Jølle](https://open.spotify.com/artist/1UbgLp0E5zKU0BAhpPp59B) | [Tyrkisk Pepper](https://open.spotify.com/album/2KUdBmCPOBpD2YweRXPAMt) | 8:02 |
+| 21 | [how long is..\. cold pizza good for](https://open.spotify.com/track/4xDLHt2Ss3pYDoLCK2uUPB) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [Villa Amorini](https://open.spotify.com/album/5PdhR2YW9IubgKjU9N28RG) | 5:59 |
 | 22 | [Be A Man You Ant \- Original Mix](https://open.spotify.com/track/380B4H9JdSzDqjdJFtTykb) | [André Bratten](https://open.spotify.com/artist/4JumlwBeaIE16moHUv3xzZ) | [Be A Man You Ant](https://open.spotify.com/album/5PNdVI9kYjjyda8J7fuxig) | 6:24 |
 | 23 | [A Man Called Anthony](https://open.spotify.com/track/2C2vLPP0C619yxaEsE6OVv) | [Magnus International](https://open.spotify.com/artist/7LAZbZOoUvDR4hgHkMRPSE) | [Echo to Echo](https://open.spotify.com/album/63wGONylhY5SRDvmjKDCec) | 4:15 |
 | 24 | [Hard Trafikk](https://open.spotify.com/track/5jJuwmQ8Jdfx08F9hAx5tg) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68) | [Trøbbel](https://open.spotify.com/album/1Es585IxIHauFNjCaRoRyU) | 4:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 | 49 | [Bommelom](https://open.spotify.com/track/1Xi4PSk3kXmv5iXort9Jaa) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68) | [Ramma EP](https://open.spotify.com/album/4UiQU657e5Uirz7XD6sTMG) | 7:06 |
 | 50 | [Tea In The Desert](https://open.spotify.com/track/6ZtUV3S8sjh0OUaUBZZ9Ae) | [Bonada](https://open.spotify.com/artist/6sBWpQ5pWojqFXt62W1FwZ) | [Tea In The Desert](https://open.spotify.com/album/6MuABW95Vkd0xkyuan13lQ) | 3:30 |
 
-Snapshot ID: `MCxkYzMzMzYzZjM0YjVjNjdkYWJiZTgzYzQ5NWYyNWEwOWE4MmU0NDZj`
+Snapshot ID: `MCxhYTdmMGJlMmQxMTQwYmVhNWQ0NTU3YTM2ZmFiM2Y1YWFiNjc4YmVk`

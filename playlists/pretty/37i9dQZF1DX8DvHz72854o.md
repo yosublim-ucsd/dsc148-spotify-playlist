@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvHz72854o.md) - [plain]
 
 > Soothing sounds and vibrations to settle in...
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,999 likes - 68 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,079 likes - 68 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvHz72854o.md) - [plain]
 | 67 | [340 Hz Crystal Bowl \(Sound Bath\)](https://open.spotify.com/track/5trb6HdVFr7zQ2FieN1tSo) | [Aum Pro](https://open.spotify.com/artist/6sxGvi2ZDbc3zzQGr0u3Bu) | [340 Hz Crystal Bowl \(Sound Bath\)](https://open.spotify.com/album/7ovrUCBeHq6AZm9QROOVQn) | 2:16 |
 | 68 | [Crystal Bowl Hit & Swell](https://open.spotify.com/track/79Jb022JAy6zMD52EIgwO9) | [iD8](https://open.spotify.com/artist/3DjpvRyhGuXg5ICJqwng4z) | [Crystal Bowl Hit & Swell](https://open.spotify.com/album/7CU51tL2ui1Q1rBUL55q7F) | 3:02 |
 
-Snapshot ID: `MCw4MDJiMTU2MjY2ZTIzN2E0YWJjMjBlMGJjNmViYjU0ZDZlNzc1ZDMy`
+Snapshot ID: `MCxhOWMwNzQyZTE2YjJkMWM1MzNkNWZiYWNmMDBjOGU4NTcyNDkxZjFm`

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 370922,
+  "num_followers": 371015,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjgzNDViNTcwMGExYjQyZDQ4M2MzNjgwNTAyNjIzMzY1ZjcxMjE1",
+  "snapshot_id": "MCw2NTA3ZjExMmQ5OWRlNWQ3MGMzZTI5YjAyNzJlZDUyZTY3ZDQxYjg0",
   "tracks": [
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "We Were Here",
-        "url": "https://open.spotify.com/album/3kJxji4lJkuzZJSTWFbNnG"
-      },
-      "artists": [
-        {
-          "name": "Joshua Radin",
-          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
-        }
-      ],
-      "duration_ms": 149013,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/2ZaYFNn1YQuLSVdHhanr4Q"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "Paint",
         "url": "https://open.spotify.com/album/6fjWW4BO4crnUA3EqDWEV0"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 281332,
       "name": "Paint",
       "url": "https://open.spotify.com/track/6OdcsvgPkIFmiyqDPgCaDy"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "We Were Here",
+        "url": "https://open.spotify.com/album/3kJxji4lJkuzZJSTWFbNnG"
+      },
+      "artists": [
+        {
+          "name": "Joshua Radin",
+          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
+        }
+      ],
+      "duration_ms": 149013,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/2ZaYFNn1YQuLSVdHhanr4Q"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/6vwrKIrmOCl4MN22Xyh0Ro"
-      },
-      "artists": [
-        {
-          "name": "Eva Cassidy",
-          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
-        }
-      ],
-      "duration_ms": 276426,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/4jS6mCmznV5fjTNLf4h61o"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "No One's Gonna Love You (Stockholm Version)",
         "url": "https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 228646,
       "name": "No One's Gonna Love You (Stockholm Version)",
       "url": "https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/6vwrKIrmOCl4MN22Xyh0Ro"
+      },
+      "artists": [
+        {
+          "name": "Eva Cassidy",
+          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
+        }
+      ],
+      "duration_ms": 276426,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/4jS6mCmznV5fjTNLf4h61o"
     },
     {
       "added_at": "2023-07-06 22:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Quiero comerte yo todos los d\u00edas... Fuerza Regida & Grupo Frontera en portada. ",
-  "num_followers": 168214,
+  "num_followers": 168341,
   "original_name": "Karaoke M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDY5MzJlNGNiMTEzYWNhNWMxNTgzMTM4MTIyYzM5OWI5NmIxNTUx",
+  "snapshot_id": "MCw0NzJjNzEzNTBiZmYwODA3YWQzYzg3NmYzZTA0YjgwNGE4MTU3Njdk",
   "tracks": [
     {
       "added_at": "2023-07-04 19:30:33",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-07-04 19:30:33",
       "album": {
-        "name": "Me Dej\u00e9 Llevar",
-        "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 199320,
-      "name": "Adi\u00f3s Amor",
-      "url": "https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y"
-    },
-    {
-      "added_at": "2023-07-04 19:30:33",
-      "album": {
         "name": "Vicente Fernandez Para Siempre",
         "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 173080,
       "name": "Un Mill\u00f3n de Primaveras",
       "url": "https://open.spotify.com/track/6j5LtifAnuTjTYvml61yFZ"
+    },
+    {
+      "added_at": "2023-07-04 19:30:33",
+      "album": {
+        "name": "Me Dej\u00e9 Llevar",
+        "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 199320,
+      "name": "Adi\u00f3s Amor",
+      "url": "https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y"
     },
     {
       "added_at": "2023-07-04 19:30:33",
@@ -887,22 +887,6 @@
       "duration_ms": 239310,
       "name": "Dame un Beso y Dime Adios - En Vivo",
       "url": "https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP"
-    },
-    {
-      "added_at": "2023-07-04 19:30:33",
-      "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 167373,
-      "name": "De Los Besos Que Te Di",
-      "url": "https://open.spotify.com/track/1qfoq1qvZT7VwDVeekCJ97"
     },
     {
       "added_at": "2023-07-04 19:30:33",
@@ -983,22 +967,18 @@
     {
       "added_at": "2023-07-04 19:30:33",
       "album": {
-        "name": "La Sinverg\u00fcenza",
-        "url": "https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc"
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
       },
       "artists": [
         {
           "name": "Christian Nodal",
           "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 198529,
-      "name": "La Sinverg\u00fcenza",
-      "url": "https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V"
+      "duration_ms": 167373,
+      "name": "De Los Besos Que Te Di",
+      "url": "https://open.spotify.com/track/1qfoq1qvZT7VwDVeekCJ97"
     },
     {
       "added_at": "2023-07-04 19:30:33",
@@ -1131,6 +1111,26 @@
     {
       "added_at": "2023-07-04 19:30:33",
       "album": {
+        "name": "La Sinverg\u00fcenza",
+        "url": "https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 198529,
+      "name": "La Sinverg\u00fcenza",
+      "url": "https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V"
+    },
+    {
+      "added_at": "2023-07-04 19:30:33",
+      "album": {
         "name": "Puerta Abierta, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg"
       },
@@ -1147,22 +1147,6 @@
       "duration_ms": 142064,
       "name": "Cabr\u00f3n y Vago - En Vivo",
       "url": "https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU"
-    },
-    {
-      "added_at": "2023-07-04 19:30:33",
-      "album": {
-        "name": "AYAYAY! (Deluxe)",
-        "url": "https://open.spotify.com/album/6JsZWQ0iaOn0GbirYWqwCi"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 143933,
-      "name": "Aqu\u00ed Abajo",
-      "url": "https://open.spotify.com/track/16ONd70tvWAaLIc6hcLzaG"
     },
     {
       "added_at": "2023-07-04 19:30:33",
@@ -1247,6 +1231,22 @@
       "duration_ms": 177062,
       "name": "Como Lo Hice Yo",
       "url": "https://open.spotify.com/track/64JzNzcoSZOh3RWeoghVfk"
+    },
+    {
+      "added_at": "2023-07-04 19:30:33",
+      "album": {
+        "name": "AYAYAY! (Deluxe)",
+        "url": "https://open.spotify.com/album/6JsZWQ0iaOn0GbirYWqwCi"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 143933,
+      "name": "Aqu\u00ed Abajo",
+      "url": "https://open.spotify.com/track/16ONd70tvWAaLIc6hcLzaG"
     },
     {
       "added_at": "2023-07-04 19:30:33",
@@ -1567,18 +1567,22 @@
     {
       "added_at": "2023-07-04 19:30:33",
       "album": {
-        "name": "Por Mujeres Como T\u00fa",
-        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
+        "name": "El Amor De Tu Vida",
+        "url": "https://open.spotify.com/album/5ZgM7Cd76zsjHVZuqESNj9"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Tony Melendez",
+          "url": "https://open.spotify.com/artist/2xtVF7p8OnfvOmTExIoknF"
         }
       ],
-      "duration_ms": 263133,
-      "name": "Por Mujeres Como T\u00fa",
-      "url": "https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD"
+      "duration_ms": 163223,
+      "name": "El Amor De Tu Vida",
+      "url": "https://open.spotify.com/track/7AWgHNS16hOhmiyPIRRcmC"
     },
     {
       "added_at": "2023-07-04 19:30:33",
@@ -1615,6 +1619,22 @@
     {
       "added_at": "2023-07-04 19:30:33",
       "album": {
+        "name": "Por Mujeres Como T\u00fa",
+        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 263133,
+      "name": "Por Mujeres Como T\u00fa",
+      "url": "https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD"
+    },
+    {
+      "added_at": "2023-07-04 19:30:33",
+      "album": {
         "name": "Las Pacas",
         "url": "https://open.spotify.com/album/4yMC2UNgGrcWdnMpdQ6noX"
       },
@@ -1631,22 +1651,18 @@
     {
       "added_at": "2023-07-04 19:30:33",
       "album": {
-        "name": "Haciendo Magia",
-        "url": "https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy"
+        "name": "Calidad Y Cantidad",
+        "url": "https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl"
       },
       "artists": [
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 155818,
-      "name": "Y Sigues Siendo T\u00fa",
-      "url": "https://open.spotify.com/track/4AGPU9325LRTIBsBSJ5v75"
+      "duration_ms": 182306,
+      "name": "Entre Beso Y Beso",
+      "url": "https://open.spotify.com/track/7uL1ZsdxI8l4sgEsgCmTlG"
     },
     {
       "added_at": "2023-07-04 19:30:33",
@@ -1671,18 +1687,22 @@
     {
       "added_at": "2023-07-04 19:30:33",
       "album": {
-        "name": "Calidad Y Cantidad",
-        "url": "https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl"
+        "name": "Haciendo Magia",
+        "url": "https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy"
       },
       "artists": [
         {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 182306,
-      "name": "Entre Beso Y Beso",
-      "url": "https://open.spotify.com/track/7uL1ZsdxI8l4sgEsgCmTlG"
+      "duration_ms": 155818,
+      "name": "Y Sigues Siendo T\u00fa",
+      "url": "https://open.spotify.com/track/4AGPU9325LRTIBsBSJ5v75"
     },
     {
       "added_at": "2023-07-04 19:30:33",
@@ -1699,26 +1719,6 @@
       "duration_ms": 183373,
       "name": "No Hay Novedad",
       "url": "https://open.spotify.com/track/5LhkCuUvJeMj308m4vlB8z"
-    },
-    {
-      "added_at": "2023-07-04 19:30:33",
-      "album": {
-        "name": "El Amor De Tu Vida",
-        "url": "https://open.spotify.com/album/5ZgM7Cd76zsjHVZuqESNj9"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Tony Melendez",
-          "url": "https://open.spotify.com/artist/2xtVF7p8OnfvOmTExIoknF"
-        }
-      ],
-      "duration_ms": 163223,
-      "name": "El Amor De Tu Vida",
-      "url": "https://open.spotify.com/track/7AWgHNS16hOhmiyPIRRcmC"
     },
     {
       "added_at": "2023-07-04 19:30:33",
@@ -1895,6 +1895,22 @@
     {
       "added_at": "2023-07-04 19:30:33",
       "album": {
+        "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 193816,
+      "name": "NO SE VA - EN VIVO",
+      "url": "https://open.spotify.com/track/0Y1lSCcxjfyyvmfgMJ1ukA"
+    },
+    {
+      "added_at": "2023-07-04 19:30:33",
+      "album": {
         "name": "El Amor No Fue Pa\u00b4 M\u00ed (En Vivo)",
         "url": "https://open.spotify.com/album/2GmxvaOlvl9OSOW3FnVcbX"
       },
@@ -1915,22 +1931,6 @@
     {
       "added_at": "2023-07-04 19:30:33",
       "album": {
-        "name": "Por Mujeres Como T\u00fa",
-        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "Directo Al Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB"
-    },
-    {
-      "added_at": "2023-07-04 19:30:33",
-      "album": {
         "name": "De Lo Bueno, Lo Mejor",
         "url": "https://open.spotify.com/album/6fg7ANywTbldJWzw8y1p4F"
       },
@@ -1943,6 +1943,22 @@
       "duration_ms": 176546,
       "name": "El Bueno y el Malo",
       "url": "https://open.spotify.com/track/0sGZWfVTPWIv6qbWZZ7cdT"
+    },
+    {
+      "added_at": "2023-07-04 19:30:33",
+      "album": {
+        "name": "Por Mujeres Como T\u00fa",
+        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "Directo Al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB"
     },
     {
       "added_at": "2023-07-04 19:30:33",
@@ -2047,22 +2063,6 @@
       "duration_ms": 179320,
       "name": "Inolvidable",
       "url": "https://open.spotify.com/track/7bEZbS1gadU29L5eIwM2gM"
-    },
-    {
-      "added_at": "2023-07-04 19:30:33",
-      "album": {
-        "name": "El Comienzo",
-        "url": "https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 193816,
-      "name": "NO SE VA - EN VIVO",
-      "url": "https://open.spotify.com/track/0Y1lSCcxjfyyvmfgMJ1ukA"
     },
     {
       "added_at": "2023-07-04 19:30:33",

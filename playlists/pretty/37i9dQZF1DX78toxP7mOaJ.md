@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Winona Fighter \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,629 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,708 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 99 | [A Track In Orbit](https://open.spotify.com/track/33byUHbCWRpbgo6sd8dVro) | [Humane The Moon](https://open.spotify.com/artist/0Xto4nOxUoniMdqKhyVJ2m) | [A Track In Orbit](https://open.spotify.com/album/6z9DSUTU2QjEX91HR0R0Te) | 2:31 |
 | 100 | [Hometown](https://open.spotify.com/track/6ZSL0bZxgGLsygQLQptyH3) | [Babytooth](https://open.spotify.com/artist/1qOs0GjofPiGwLs3hOFR4M) | [Hometown](https://open.spotify.com/album/4V7eZToUT2CCrwxHlwzizF) | 2:37 |
 
-Snapshot ID: `MCwyM2I3MzM5NjYxZTI4YzVlZTU5YzU1NDVjYWI2MTc4ZWE4NDg2M2Mx`
+Snapshot ID: `MCw4MTk3YWIzN2M5MGU5MTRjMDZkNTk0YTc0NTIzOWUxMWFlOTE4MjRj`

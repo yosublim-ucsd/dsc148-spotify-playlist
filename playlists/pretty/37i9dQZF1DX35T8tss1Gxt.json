@@ -1,12 +1,12 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover:  <a href=\"https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz?si=e38a49f3f17a4147\">Dante Bowe</a>",
-  "num_followers": 207761,
+  "num_followers": 207899,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTlkY2RhODA3NTBiNzEzYWIyZDk2YzU5MjY5YjYzYzAwOTU0YWQx",
+  "snapshot_id": "MCxmNWNiYjFiZjM5YmIzZGUxNTI1NTg0NjgwYWM1ZGJlNWVhOTljNDMx",
   "tracks": [
     {
       "added_at": "2023-07-21 11:58:05",
@@ -431,6 +431,22 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
+        "name": "Get to Me",
+        "url": "https://open.spotify.com/album/56aVzknaQ0OunipgBpWn4y"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Get to Me",
+      "url": "https://open.spotify.com/track/2LRIT8uc9Xj6qZDGwAXFhT"
+    },
+    {
+      "added_at": "2023-07-21 11:58:05",
+      "album": {
         "name": "Hearts in Pain",
         "url": "https://open.spotify.com/album/1aXo94Pxz8t8fGbvaZ81Sj"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 172113,
       "name": "Hold On Me",
       "url": "https://open.spotify.com/track/0iYrbOzpIwEnKeRBHlB5tH"
-    },
-    {
-      "added_at": "2023-07-21 11:58:05",
-      "album": {
-        "name": "Get to Me",
-        "url": "https://open.spotify.com/album/56aVzknaQ0OunipgBpWn4y"
-      },
-      "artists": [
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Get to Me",
-      "url": "https://open.spotify.com/track/2LRIT8uc9Xj6qZDGwAXFhT"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "Way Home",
-        "url": "https://open.spotify.com/album/79EFevRLW7KIOovxgi5jTm"
-      },
-      "artists": [
-        {
-          "name": "Grace Tena",
-          "url": "https://open.spotify.com/artist/1W2fPbaUIDHflSKOe4S8QT"
-        }
-      ],
-      "duration_ms": 284800,
-      "name": "Way Home",
-      "url": "https://open.spotify.com/track/2ZKXBim3pDX8WTHmyFFUO6"
-    },
-    {
-      "added_at": "2023-07-21 11:58:05",
-      "album": {
         "name": "Miracles (feat. Pastor Mike Jr.)",
         "url": "https://open.spotify.com/album/33sy8ZsbmMJYER9v5Yw3xD"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 358885,
       "name": "Miracles (feat. Pastor Mike Jr.)",
       "url": "https://open.spotify.com/track/5fATOdcoblNwc2cW4DTUok"
+    },
+    {
+      "added_at": "2023-07-21 11:58:05",
+      "album": {
+        "name": "Way Home",
+        "url": "https://open.spotify.com/album/79EFevRLW7KIOovxgi5jTm"
+      },
+      "artists": [
+        {
+          "name": "Grace Tena",
+          "url": "https://open.spotify.com/artist/1W2fPbaUIDHflSKOe4S8QT"
+        }
+      ],
+      "duration_ms": 284800,
+      "name": "Way Home",
+      "url": "https://open.spotify.com/track/2ZKXBim3pDX8WTHmyFFUO6"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
+        "name": "Mr. McClure",
+        "url": "https://open.spotify.com/album/0q9anux1BAeqdaulGxibU7"
+      },
+      "artists": [
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        }
+      ],
+      "duration_ms": 197254,
+      "name": "Mr. McClure",
+      "url": "https://open.spotify.com/track/32FopMR4tx27RZMkXmkyvV"
+    },
+    {
+      "added_at": "2023-07-21 11:58:05",
+      "album": {
         "name": "Satisfy",
         "url": "https://open.spotify.com/album/6drp9uGaG3IygzSir4EKpr"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 184000,
       "name": "Satisfy",
       "url": "https://open.spotify.com/track/4asSIgSVXvZejEJ9B3yvIg"
-    },
-    {
-      "added_at": "2023-07-21 11:58:05",
-      "album": {
-        "name": "Mr. McClure",
-        "url": "https://open.spotify.com/album/0q9anux1BAeqdaulGxibU7"
-      },
-      "artists": [
-        {
-          "name": "Pastor Mike Jr.",
-          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
-        }
-      ],
-      "duration_ms": 197254,
-      "name": "Mr. McClure",
-      "url": "https://open.spotify.com/track/32FopMR4tx27RZMkXmkyvV"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "Amidst",
-        "url": "https://open.spotify.com/album/6RJVSX0w6mWKY5V3mEZzZL"
-      },
-      "artists": [
-        {
-          "name": "Jonny Henninger",
-          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
-        },
-        {
-          "name": "Erica Bostick",
-          "url": "https://open.spotify.com/artist/4nd82r9V5SLx3xQTuwSwLn"
-        }
-      ],
-      "duration_ms": 240500,
-      "name": "Grounded",
-      "url": "https://open.spotify.com/track/5Xr1ZmaHuUxp7cIuIK9Aly"
-    },
-    {
-      "added_at": "2023-07-21 11:58:05",
-      "album": {
         "name": "Gotta Be God",
         "url": "https://open.spotify.com/album/5QoG06Wf5RiAb3Vf6i1gkv"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 168000,
       "name": "Gotta Be God",
       "url": "https://open.spotify.com/track/66dKe5hsyrNInqBpnxPTPL"
+    },
+    {
+      "added_at": "2023-07-21 11:58:05",
+      "album": {
+        "name": "Amidst",
+        "url": "https://open.spotify.com/album/6RJVSX0w6mWKY5V3mEZzZL"
+      },
+      "artists": [
+        {
+          "name": "Jonny Henninger",
+          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
+        },
+        {
+          "name": "Erica Bostick",
+          "url": "https://open.spotify.com/artist/4nd82r9V5SLx3xQTuwSwLn"
+        }
+      ],
+      "duration_ms": 240500,
+      "name": "Grounded",
+      "url": "https://open.spotify.com/track/5Xr1ZmaHuUxp7cIuIK9Aly"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/1AMyeFXfU67wKsGzdnNkpE"
+      },
+      "artists": [
+        {
+          "name": "Daphne Richardson",
+          "url": "https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/5hJLoLdTvr2IhKkJpDnVJp"
+    },
+    {
+      "added_at": "2023-07-21 11:58:05",
+      "album": {
         "name": "polaroids.",
         "url": "https://open.spotify.com/album/5Prj7tghns9XY626lMR3LL"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 155688,
       "name": "who.",
       "url": "https://open.spotify.com/track/4nz2Tku7f6FyEE0WZfd2mZ"
-    },
-    {
-      "added_at": "2023-07-21 11:58:05",
-      "album": {
-        "name": "Heavy",
-        "url": "https://open.spotify.com/album/1AMyeFXfU67wKsGzdnNkpE"
-      },
-      "artists": [
-        {
-          "name": "Daphne Richardson",
-          "url": "https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/5hJLoLdTvr2IhKkJpDnVJp"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/12nMGGMPL3fpXJ9kWKQEz0"
-      },
-      "artists": [
-        {
-          "name": "Robyn McGhee",
-          "url": "https://open.spotify.com/artist/2cw26vgVspnC3aHeREahM8"
-        }
-      ],
-      "duration_ms": 268625,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/4MecJ3fe9PaGCS6Fd5pnQN"
-    },
-    {
-      "added_at": "2023-07-21 11:58:05",
-      "album": {
         "name": "Simple Ways",
         "url": "https://open.spotify.com/album/7vs8N6AbGXg8i0K4y6aEpc"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 177214,
       "name": "Simple Ways",
       "url": "https://open.spotify.com/track/4pRmJstStQ4d23TUhjDj6a"
+    },
+    {
+      "added_at": "2023-07-21 11:58:05",
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/12nMGGMPL3fpXJ9kWKQEz0"
+      },
+      "artists": [
+        {
+          "name": "Robyn McGhee",
+          "url": "https://open.spotify.com/artist/2cw26vgVspnC3aHeREahM8"
+        }
+      ],
+      "duration_ms": 268625,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/4MecJ3fe9PaGCS6Fd5pnQN"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "Be My Everything (Reimagined)",
-        "url": "https://open.spotify.com/album/3INyxMUu4b0eJMuQ0HkVbB"
-      },
-      "artists": [
-        {
-          "name": "Antoine Bradford",
-          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
-        }
-      ],
-      "duration_ms": 233086,
-      "name": "Be My Everything - Reimagined",
-      "url": "https://open.spotify.com/track/2gOdvR5niu4OsTOd12coeQ"
-    },
-    {
-      "added_at": "2023-07-21 11:58:05",
-      "album": {
         "name": "Let You In",
         "url": "https://open.spotify.com/album/3Cc6mAPJrSzD7jRMmvxudJ"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 203023,
       "name": "Let You In",
       "url": "https://open.spotify.com/track/4DRdaM4ItZyTXVTtJQbsCr"
+    },
+    {
+      "added_at": "2023-07-21 11:58:05",
+      "album": {
+        "name": "Be My Everything (Reimagined)",
+        "url": "https://open.spotify.com/album/3INyxMUu4b0eJMuQ0HkVbB"
+      },
+      "artists": [
+        {
+          "name": "Antoine Bradford",
+          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
+        }
+      ],
+      "duration_ms": 233086,
+      "name": "Be My Everything - Reimagined",
+      "url": "https://open.spotify.com/track/2gOdvR5niu4OsTOd12coeQ"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -1863,18 +1863,18 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "Learning to Forgive",
-        "url": "https://open.spotify.com/album/5EeAaAloApOGtw0Nb2yvoP"
+        "name": "I'll Praise",
+        "url": "https://open.spotify.com/album/3yCYG5wQ1J4tckxRWs8NC4"
       },
       "artists": [
         {
-          "name": "Lloyd Nicks",
-          "url": "https://open.spotify.com/artist/27PNOaBc3uYEgF3rrxeQjh"
+          "name": "Stevie Rizo",
+          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
         }
       ],
-      "duration_ms": 184541,
-      "name": "Learning to Forgive",
-      "url": "https://open.spotify.com/track/5miGv60VQY9otU6fXpKmPw"
+      "duration_ms": 160405,
+      "name": "I'll Praise",
+      "url": "https://open.spotify.com/track/76z0xBhIITVBwHni9PZZ8v"
     }
   ],
   "unique_name": "Rhythm & Praise",

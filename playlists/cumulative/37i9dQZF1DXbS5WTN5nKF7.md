@@ -2,7 +2,7 @@
 
 ### [Hit Radio](https://open.spotify.com/playlist/37i9dQZF1DXbS5WTN5nKF7)
 
-> Le meilleur des hits ! Photo : Loreen
+> Le meilleur des hits ! Photo : Vianney x Kendji Girac
 
 65 songs - 3 hr 23 min
 

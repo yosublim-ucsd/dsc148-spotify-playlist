@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock bands/artists in Japan right now! Cover: Quruli\(くるり\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,521 likes - 60 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,703 likes - 60 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 55 | [アフターダーク](https://open.spotify.com/track/6XsJTpZwPKMcG8QK8k14Z6) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [ワールド ワールド ワールド](https://open.spotify.com/album/6ZcU0MGlWn9oc4dEhY1TEI) | 3:12 |
 | 56 | [新宝島](https://open.spotify.com/track/4a48lWUd64bZgHUDx0GZlj) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [834.194](https://open.spotify.com/album/5pLmzFu2ienSbr1SxBJvwB) | 5:05 |
 | 57 | [Devil in Your Heart](https://open.spotify.com/track/3w8qOAwbHF6zYeYT7pj7DI) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [THANK GOD, THERE ARE HUNDREDS OF WAYS TO KiLL ENEMiES](https://open.spotify.com/album/1NqQpcihfQEtMLJ3pz8Wi3) | 3:06 |
-| 58 | [アゲイン](https://open.spotify.com/track/1TdYXsTtYbud0IieSW5wbh) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [COMINATCHA!!](https://open.spotify.com/album/1R6DH3ahYHOQxqQUBFl3au) | 3:34 |
+| 58 | [ジターバグ](https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [BRING YOUR BOARD!!](https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k) | 3:19 |
 | 59 | [名前を呼ぶよ](https://open.spotify.com/track/5iTyiE1jAfmjorzFLc4Frg) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [名前を呼ぶよ](https://open.spotify.com/album/5UXiAgBDuYMULAVlRNF3it) | 4:37 |
-| 60 | [ジターバグ](https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [BRING YOUR BOARD!!](https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k) | 3:19 |
+| 60 | [アゲイン](https://open.spotify.com/track/1TdYXsTtYbud0IieSW5wbh) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [COMINATCHA!!](https://open.spotify.com/album/1R6DH3ahYHOQxqQUBFl3au) | 3:34 |
 
-Snapshot ID: `MCxiYjM5MzNiZDM2ZDI1ZDg5MzM4MTVjYTAwOTZlM2NmY2FmYWMxNjBl`
+Snapshot ID: `MCw3NjQ0NGQ4MDFmZjkwZGI1NzBhZTFmYmUyYzI4ZDY2ZTEzM2QwYTNi`

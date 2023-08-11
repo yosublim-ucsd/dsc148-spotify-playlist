@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3by276.md) - [plain]
 
 > This is Rihanna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,916,535 likes - 47 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,917,087 likes - 47 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,13 +47,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3by276.md) - [plain]
 | 37 | [What's My Name?](https://open.spotify.com/track/6DkXLzBQT7cwXmTyzAB1DJ) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Loud \(Japan Version\)](https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38) | 4:23 |
 | 38 | [Loveeeeeee Song](https://open.spotify.com/track/5Mk1tgVrSuoWWwPVFNS0jB) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 4:16 |
 | 39 | [You Da One](https://open.spotify.com/track/3Yt9lRtS5V4nbJnwcgFgvC) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Talk That Talk](https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T) | 3:20 |
-| 40 | [Who's That Chick? \(feat\. Rihanna\)](https://open.spotify.com/track/6qUSs4FDzZUdAhY6JDIJfa) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [One More Love](https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW) | 3:21 |
+| 40 | [Shut Up And Drive](https://open.spotify.com/track/4Tn2llBm1g0UlWctmgPL8Z) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:32 |
 | 41 | [California King Bed](https://open.spotify.com/track/1NpDnkQO0yWxTtntrC0UNz) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud \(Japan Version\)](https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38) | 4:11 |
 | 42 | [Pour It Up](https://open.spotify.com/track/5r67bGhYXZNqk2m2Wupfmu) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 2:41 |
-| 43 | [Shut Up And Drive](https://open.spotify.com/track/4Tn2llBm1g0UlWctmgPL8Z) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:32 |
+| 43 | [Who's That Chick? \(feat\. Rihanna\)](https://open.spotify.com/track/6qUSs4FDzZUdAhY6JDIJfa) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [One More Love](https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW) | 3:21 |
 | 44 | [Te Amo](https://open.spotify.com/track/4YYHgF9dWyVSor0GtrBzdf) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Rated R](https://open.spotify.com/album/7uGmyYwDFJbSc1xs4hkEs2) | 3:28 |
 | 45 | [BELIEVE IT](https://open.spotify.com/track/6WHZvtFnceMMv08gUCHR0y) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [PARTYMOBILE](https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a) | 3:03 |
 | 46 | [Man Down](https://open.spotify.com/track/1Bx0zEdVjkFlV27iKaePug) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud](https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp) | 4:27 |
 | 47 | [Dancing In The Dark \- From The "Home" Soundtrack](https://open.spotify.com/track/3nlVjrlLMJHC7Flf9impf9) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Home \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Hc9zEVvu3wOJXI5YVhXe2) | 3:43 |
 
-Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDBiYzA3NTVmODBmN2Y3MTM4YTRmYTAwNzAyNThhNzJmZg==`
+Snapshot ID: `MjgxOTQ1NjQsMDAwMDAwMDAzOTg4MzY2Mjc4ZTk0ZTZiZDUxNmM0N2EwNjUzODRhZQ==`

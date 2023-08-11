@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 
 > Planta de la bugambilia que me cubres y me matas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,519 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,566 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,14 +83,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 | 73 | [Lágrimas Negras](https://open.spotify.com/track/0LBLCeMdb0LeV9ncVdZbwB) | [Las Hermanas García](https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc), [Reynier Limonta](https://open.spotify.com/artist/0pnPRBAqtesmL0XSl6neqy) | [Lágrimas Negras](https://open.spotify.com/album/3j7YBot19H5ochk5dHuwiQ) | 5:18 |
 | 74 | [Bolero Triste](https://open.spotify.com/track/5w7o1kxfOP6SUNhaYRWlE3) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Bolero Triste](https://open.spotify.com/album/4U5TwT71ftkvWS9vJ2bQY0) | 4:00 |
 | 75 | [Still I Wake Up In The Morning Thinking Of You \- demo](https://open.spotify.com/track/2Hp8RvXk33BjydwgJrtb7X) | [Goma](https://open.spotify.com/artist/7fssmrQMryjWNuCLB7f3xg) | [Happy\-fi Compilación Vol\. 2](https://open.spotify.com/album/1SctU0rJACQseZrrc9IEGE) | 4:01 |
-| 76 | [Sauce](https://open.spotify.com/track/0HSJcMdGPoPJ0X8fJ5tEM8) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP) | [Sauce](https://open.spotify.com/album/0J3ZUsihPAvYKEzuOhoVF7) | 2:48 |
-| 77 | [Chéni \(Miedo\)](https://open.spotify.com/track/4spSLPqeKzT5oXPJBTetZt) | [La Bruja de Texcoco](https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu) | [Chéni \(Miedo\)](https://open.spotify.com/album/4flHvkwECB2pulBoyc9DJA) | 3:48 |
-| 78 | [¿Y Cómo?](https://open.spotify.com/track/0LAitaHvVwdyjQcVJYyFAF) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [¿Y Cómo?](https://open.spotify.com/album/65hIp443Zd1Fz3IyL1z8bo) | 3:32 |
+| 76 | [¿Y Cómo?](https://open.spotify.com/track/0LAitaHvVwdyjQcVJYyFAF) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [¿Y Cómo?](https://open.spotify.com/album/65hIp443Zd1Fz3IyL1z8bo) | 3:32 |
+| 77 | [Sauce](https://open.spotify.com/track/0HSJcMdGPoPJ0X8fJ5tEM8) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP) | [Sauce](https://open.spotify.com/album/0J3ZUsihPAvYKEzuOhoVF7) | 2:48 |
+| 78 | [Chéni \(Miedo\)](https://open.spotify.com/track/4spSLPqeKzT5oXPJBTetZt) | [La Bruja de Texcoco](https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu) | [Chéni \(Miedo\)](https://open.spotify.com/album/4flHvkwECB2pulBoyc9DJA) | 3:48 |
 | 79 | [Navegar](https://open.spotify.com/track/1BTzmYpxAtpJ18ql2mP82s) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [Navegar](https://open.spotify.com/album/2nNzpj5R1xuqeu7yLtP4tb) | 3:08 |
 | 80 | [El Andariego](https://open.spotify.com/track/5fST6UaXX0HZb6vw2Wkuk5) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Cuatro Copas Bohemia En La Finca Altozano \(Parte 1\)](https://open.spotify.com/album/3KbLlf8Q7t6kboFlaSML23) | 3:17 |
 | 81 | [La Casita De La Selva](https://open.spotify.com/track/76rE4L1MBuEjiF5hR5vTDE) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [La Casita De La Selva](https://open.spotify.com/album/4Xhraf36zfM780liskyM6d) | 3:22 |
-| 82 | [Eso](https://open.spotify.com/track/5FBiauPqHLjdm4pZLIEOg2) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk), [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Eso](https://open.spotify.com/album/4WV2QblWzbuZhaoI1qeH7W) | 4:02 |
-| 83 | [Caras Lindas](https://open.spotify.com/track/2sh3LZ6VPJSIUUuhbx3P9I) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Susana Baca](https://open.spotify.com/album/5rvmqZXWJaqmZC2FVzz4WS) | 4:58 |
+| 82 | [Caras Lindas](https://open.spotify.com/track/2sh3LZ6VPJSIUUuhbx3P9I) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Susana Baca](https://open.spotify.com/album/5rvmqZXWJaqmZC2FVzz4WS) | 4:58 |
+| 83 | [Eso](https://open.spotify.com/track/5FBiauPqHLjdm4pZLIEOg2) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk), [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Eso](https://open.spotify.com/album/4WV2QblWzbuZhaoI1qeH7W) | 4:02 |
 | 84 | [La Bruja](https://open.spotify.com/track/5NCDaujx0xKLSuGci8qPIV) | [Musas Ensamble de Arpas](https://open.spotify.com/artist/6cHMCy1zPbtTZe62e3nUUg) | [Tierra Latinoamericana](https://open.spotify.com/album/3hdqh8Yu6z74A8SCVR71la) | 3:00 |
 | 85 | [Hace Tiempo](https://open.spotify.com/track/6ogB0aCCl5XVujpCruVvrm) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Hace Tiempo](https://open.spotify.com/album/0MxQ1anNCPBb8nd8rQhe2J) | 4:12 |
 | 86 | [Habrá](https://open.spotify.com/track/5Ne4Y841FWmpmPDGL60FXH) | [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva) | [Habrá](https://open.spotify.com/album/0PYQK8hFeRgTgb0P4GAPZf) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 | 99 | [La Corriente](https://open.spotify.com/track/0nw9LTQoeiFoDFpZUkyW43) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:31 |
 | 100 | [Marchita](https://open.spotify.com/track/2ytk2n3eCn8hsM3leSVqhN) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:46 |
 
-Snapshot ID: `MCxmZDk5ODE0MDNmOGFlODk5Mzg3ODU5M2FiMzA1ZDQ5M2UyOWIwYWY2`
+Snapshot ID: `MCw4N2U2NzZmYzFkOGQ0NGMyYmRhMWM4NGJkNWI0MzlkYmEyYzNiYjli`

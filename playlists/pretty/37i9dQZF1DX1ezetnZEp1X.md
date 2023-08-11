@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ezetnZEp1X.md) - [plain]
 
 > Sinta o clima e faça uma viagem ao passado.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,437 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,462 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ezetnZEp1X.md) - [plain]
 | 21 | [I Heard It Through The Grapevine](https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [In The Groove](https://open.spotify.com/album/36VMWZPLjg9rucvMxdA2Pz) | 3:14 |
 | 22 | [Break on Through \(To the Other Side\)](https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 2:25 |
 | 23 | [Don't Stop 'Til You Get Enough](https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 6:05 |
-| 24 | [In the Summertime](https://open.spotify.com/track/3RNyGLgSvmVRZ7xKUp8Wgd) | [Mungo Jerry](https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb) | [In the Summertime](https://open.spotify.com/album/30UgyUTvmdYXNo7CeMabXY) | 3:35 |
-| 25 | [Summer Nights \- From “Grease”](https://open.spotify.com/track/2AVkArcfALVk2X8sfPRzya) | [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Grease \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq) | 3:36 |
+| 24 | [Summer Nights \- From “Grease”](https://open.spotify.com/track/2AVkArcfALVk2X8sfPRzya) | [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Grease \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq) | 3:36 |
+| 25 | [In the Summertime](https://open.spotify.com/track/3RNyGLgSvmVRZ7xKUp8Wgd) | [Mungo Jerry](https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb) | [In the Summertime](https://open.spotify.com/album/30UgyUTvmdYXNo7CeMabXY) | 3:35 |
 | 26 | [Sunny](https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Take The Heat Off Me](https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4) | 4:02 |
 | 27 | [Just the Way You Are](https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 4:50 |
 | 28 | [Riders on the Storm](https://open.spotify.com/track/14XWXWv5FoCbFzLksawpEe) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 7:14 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ezetnZEp1X.md) - [plain]
 | 35 | [Down Under](https://open.spotify.com/track/46RVKt5Edm1zl0rXhPJZxz) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [The Best Of Men At Work: Contraband](https://open.spotify.com/album/6GYIy1SuhPDrugCZ5yNeQy) | 3:40 |
 | 36 | [Peaceful Easy Feeling \- 2013 Remaster](https://open.spotify.com/track/40h65HAR8COEoqkMwUUQHu) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles \(2013 Remaster\)](https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7) | 4:17 |
 | 37 | [Magic Carpet Ride](https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [The Second](https://open.spotify.com/album/2Y5GORWYwVAZ8msuEuh5FN) | 4:31 |
-| 38 | [Stand by Me](https://open.spotify.com/track/1aj4GXfmEYXfdVZohCpNKu) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Pain in My Heart](https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3) | 2:52 |
-| 39 | [Under the Boardwalk](https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Under the Boardwalk](https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM) | 2:41 |
+| 38 | [Under the Boardwalk](https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Under the Boardwalk](https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM) | 2:41 |
+| 39 | [Stand by Me](https://open.spotify.com/track/1aj4GXfmEYXfdVZohCpNKu) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Pain in My Heart](https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3) | 2:52 |
 | 40 | [American Pie](https://open.spotify.com/track/2QgWuCtBpNIpl5trmKCxRf) | [Don McLean](https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8) | [The Best Of Don McLean](https://open.spotify.com/album/20Y9wHWIxNFvqplgHmqmUl) | 8:35 |
 | 41 | [Let's Get It On](https://open.spotify.com/track/39l1UORIhuHvUWfxG53tRZ) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Let's Get It On \(Deluxe Edition\)](https://open.spotify.com/album/3rDn7vWteVTxTbuLQXb6eC) | 4:50 |
 | 42 | [Hot Stuff](https://open.spotify.com/track/2zMJN9JvDlvGP4jB03l1Bz) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Bad Girls](https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg) | 5:14 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ezetnZEp1X.md) - [plain]
 | 44 | [Summer Breeze](https://open.spotify.com/track/01UYpHuzHi4eB9PAbDoPY2) | [Seals and Crofts](https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj) | [Seals & Crofts' Greatest Hits](https://open.spotify.com/album/4dkdQY484elFRfcVNY6uzj) | 3:25 |
 | 45 | [Sunny Afternoon](https://open.spotify.com/track/0DQqzCHlPyKQXfF8uL01SI) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Face to Face \(Deluxe\)](https://open.spotify.com/album/6nkmtyFpZHm7piIFJgsxxa) | 3:30 |
 | 46 | [Sun Is Shining](https://open.spotify.com/track/2pZJhvpin385eqAFRp3ASJ) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 4:58 |
-| 47 | [Isn't She Lovely](https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 6:34 |
-| 48 | [Shining Star](https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [That's The Way Of The World](https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL) | 2:50 |
+| 47 | [Shining Star](https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [That's The Way Of The World](https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL) | 2:50 |
+| 48 | [Isn't She Lovely](https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 6:34 |
 | 49 | [The Heat Is On \- From "Beverly Hills Cop" Soundtrack](https://open.spotify.com/track/0PXw9NKvolWTo7U9JkNzmc) | [Glenn Frey](https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ) | [Above The Clouds \- The Collection \(Deluxe\)](https://open.spotify.com/album/6ABjDcLOPzXG9RR6wD9MwZ) | 3:47 |
 | 50 | [867\-5309 / Jenny](https://open.spotify.com/track/6iX1f3r7oUJnMbGgQ2gx1j) | [Tommy Tutone](https://open.spotify.com/artist/1n2LWYgwtGp7EzDapUoniE) | [Tommy Tutone \- 2](https://open.spotify.com/album/7aks5lgwJAdiZLN51UjkU1) | 3:46 |
 
-Snapshot ID: `MCxiM2FlMzZjYWZjYjMwOTQ0YWU1NmQ0ODgyNDdmY2I2YTgxNmZiYzcw`
+Snapshot ID: `MCw2NDUwNDYzYTM4NGExYzU1YjhjMTRiZjEwMTk4MmIzZDljOTg2Yzdh`

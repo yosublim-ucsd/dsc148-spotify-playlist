@@ -1867,6 +1867,24 @@
     },
     {
       "album": {
+        "name": "Horizon - NCT LAB",
+        "url": "https://open.spotify.com/album/6zArn0lGt7ZZTCRYvbNcFf"
+      },
+      "artists": [
+        {
+          "name": "JAEHYUN",
+          "url": "https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222706,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/2HfAb3qB9w3t9x5e7ZjX5T"
+    },
+    {
+      "album": {
         "name": "Seoul Check-in OST Part 9",
         "url": "https://open.spotify.com/album/5NLLw4yV1Du4PiekameabR"
       },

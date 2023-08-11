@@ -4,7 +4,7 @@
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-423 songs - 1 day 5 hr 24 min
+424 songs - 1 day 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Dusk](https://open.spotify.com/track/7lM2CmKUPA0jhkcZkwrp0Z) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Dusk](https://open.spotify.com/album/5puGQvvBklPaRgbr6sqd9J) | 2:20 | 2023-05-05 | 2023-06-03 |
 | [Dvergmál \(with Steindór Andersen, Hilmar Örn Hilmarsson and María Huld Markan Sigfúsdóttir\)](https://open.spotify.com/track/0ziXftS3A7jAVobpKVKwg9) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy), [Hilmar Örn Hilmarsson](https://open.spotify.com/artist/3p5cqyRrl8N8aYx2yMKBB1), [Maria Huld Markan Sigfúsdóttir](https://open.spotify.com/artist/5av1vXlTFqanXU3g9k4tlQ), [Steindór Andersen](https://open.spotify.com/artist/1q1JhA8NmMYJhIPHKtlFwg) | [Dvergmál](https://open.spotify.com/album/3sEsQzwdu8GATbacKJfDBw) | 7:37 | 2020-10-23 | 2022-04-17 |
 | [Earnest Leslye](https://open.spotify.com/track/0jvRgeODIdcvsr1X9AeKSD) | [Peter Broderick](https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv) | [Earnest Leslye](https://open.spotify.com/album/5srfaoIk7kp5n2anvqsWo3) | 3:49 | 2020-10-20\* | 2022-07-29 |
+| [Earnest Leslye](https://open.spotify.com/track/1Hc6eaCHZXbtUl8V8sVUre) | [Peter Broderick](https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv) | [Earnest Leslye](https://open.spotify.com/album/1A76Rz2tsAds0OQCYYrsAY) | 3:49 | 2023-08-04 |  |
 | [Earnest Leslye](https://open.spotify.com/track/5RJNXi1qzxp01mX7V1IrvG) | [Peter Broderick](https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv) | [Earnest Leslye](https://open.spotify.com/album/4ofVz6Wz5SqA1aMixm6JVK) | 3:49 | 2023-03-03 | 2023-05-01 |
 | [Earthly Heaven](https://open.spotify.com/track/4Lq20e4GB0sJABMHhMrgJR) | [Rachel Grimes](https://open.spotify.com/artist/3NkEUEwXXgy5IQixHpsHQ9) | [Marion County 1938](https://open.spotify.com/album/5xIzBaxrFEAabBKp9PbVlM) | 6:34 | 2021-02-06 | 2021-02-12 |
 | [East London Street \- Edit](https://open.spotify.com/track/5j7CNRmC6Rx6bCW8a55kr2) | [Hidden Orchestra](https://open.spotify.com/artist/4Rj2COYs5hQsw8rYIxSviz) | [East London Street \(Edit\)](https://open.spotify.com/album/5Q5j2jlwAKTOvWmOtRqW2d) | 3:58 | 2021-02-23 | 2022-04-18 |
@@ -411,7 +412,7 @@
 | [Wandering II](https://open.spotify.com/track/57YoIlL4U1khGfYI5JEBEk) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx) | [Wandering II](https://open.spotify.com/album/1R1FEi0CAGPN0cnSDQ6O6R) | 2:39 | 2021-02-19 |  |
 | [Watching As She Reels](https://open.spotify.com/track/5uPhPEFdF9sKEvD7XO0jIw) | [Rafael Anton Irisarri](https://open.spotify.com/artist/6AdRO941ZEDh4GHcCUdEs4) | [Hopes And Past Desires](https://open.spotify.com/album/0KoD6w5htgUapyTqRGeqT5) | 7:07 | 2021-02-06 | 2021-02-12 |
 | [Water from the Same Source](https://open.spotify.com/track/27u4kp7Ra7J18Jmpc6MkWs) | [Christian Erik Frederickson](https://open.spotify.com/artist/2Gl0BI6yJTFHtkSBdDV4Dn), [Jason Bingham Noble](https://open.spotify.com/artist/37icBaQPxG3PZU6h5pTQMK), [Rachel Grimes](https://open.spotify.com/artist/3NkEUEwXXgy5IQixHpsHQ9), [Rachel's](https://open.spotify.com/artist/0sXLPUQAB1hir58hoQnxZa) | [Systems / Layers](https://open.spotify.com/album/1r59HmRjb5ixCXI0TtF1RK) | 6:18 | 2021-02-06 | 2021-02-12 |
-| [Waterfelt](https://open.spotify.com/track/0lWBHo6UlkykeDpwAiwOv4) | [Joel Christian Goffin](https://open.spotify.com/artist/658h552Ad4Rs9s9jwcWVuF) | [Waterfelt](https://open.spotify.com/album/6H5PZmSZzvTXLlt07qzNZk) | 3:43 | 2020-10-20\* |  |
+| [Waterfelt](https://open.spotify.com/track/0lWBHo6UlkykeDpwAiwOv4) | [Joel Christian Goffin](https://open.spotify.com/artist/658h552Ad4Rs9s9jwcWVuF) | [Waterfelt](https://open.spotify.com/album/6H5PZmSZzvTXLlt07qzNZk) | 3:43 | 2020-10-20\* | 2023-08-11 |
 | [Waves](https://open.spotify.com/track/3p6PUYuD5JbhR33oukJBzB) | [Vetle Nærø](https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf) | [Waves](https://open.spotify.com/album/3Bvfvwrb3Kid38Bp8ELuhL) | 4:36 | 2020-12-18 | 2022-07-29 |
 | [Wayfare](https://open.spotify.com/track/4d6uIeiv5alKW5I0vb72uT) | [Variant Sea](https://open.spotify.com/artist/6ye2pfPUpBi6b3mnalp9uH) | [Wayfare](https://open.spotify.com/album/1RvcDkk20RZH6DnMV7X7pj) | 4:48 | 2020-10-20\* | 2022-04-20 |
 | [What Gently Flutters](https://open.spotify.com/track/7z8IVlpwHziC0bFq4gZMxT) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq), [Bryan Senti](https://open.spotify.com/artist/4QSmk1Bll3nbQfsjTe7vIR) | [What Gently Flutters](https://open.spotify.com/album/3iMEn4oNhkAj70YRaJGMWJ) | 2:08 | 2021-10-19 | 2023-01-11 |

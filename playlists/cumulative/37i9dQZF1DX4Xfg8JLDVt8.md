@@ -4,7 +4,7 @@
 
 > Modo cursi: ON \#RelationshipGoals
 
-115 songs - 6 hr 50 min
+116 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Perfect](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:23 | 2021-11-09 |  |
 | [Photograph](https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:18 | 2021-11-09 |  |
 | [pov](https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 3:21 | 2021-11-09 |  |
-| [Purple](https://open.spotify.com/track/5zzbToGMuEli0E7RVFIhDA) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Purple](https://open.spotify.com/album/2tsB8pb7S525A50GUVL1IE) | 4:25 | 2022-05-27 |  |
+| [Purple](https://open.spotify.com/track/5zzbToGMuEli0E7RVFIhDA) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Purple](https://open.spotify.com/album/2tsB8pb7S525A50GUVL1IE) | 4:25 | 2022-05-27 | 2023-08-11 |
 | [Purple](https://open.spotify.com/track/7bwqzQSHl3GE0qA4owWOzG) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Purple](https://open.spotify.com/album/4V1aYX6FrcKWr2rBuIIlOM) | 4:25 | 2022-02-04 | 2022-07-29 |
 | [reckless driving](https://open.spotify.com/track/5GpEHUNI0T7L7H3DnAaBXh) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:09 | 2022-05-27 | 2023-02-28 |
 | [reckless driving \(feat\. Ben Kessler\)](https://open.spotify.com/track/14NUzP69qYaAdkU0fUGwD5) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [five seconds flat](https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N) | 3:09 | 2022-05-27 | 2022-10-13 |
@@ -118,6 +118,7 @@
 | [this is what falling in love feels like](https://open.spotify.com/track/2PWTZV5znjLtZC5T1EVJvL) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 2:00 | 2022-05-27 |  |
 | [this is what falling in love feels like](https://open.spotify.com/track/4UG2Fm0E98LhE2dlNxiAXx) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what falling in love feels like](https://open.spotify.com/album/61haUqRaA5Et20JVbArrmU) | 2:00 | 2021-11-09 | 2022-10-13 |
 | [Till Forever Falls Apart](https://open.spotify.com/track/2769RhOZs0ezRncRW1vryp) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Till Forever Falls Apart](https://open.spotify.com/album/6hjheUnJ3Gp8ll5DuE1VUz) | 3:42 | 2021-11-09 | 2022-04-06 |
+| [ur so pretty](https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [how can i pretend?](https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0) | 2:12 | 2023-08-10 |  |
 | [Want You Like That](https://open.spotify.com/track/4VhiUBbGZd374klScom1cp) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/2Ae1hm2uugZMTBV9jZSuT9) | 2:54 | 2022-02-04 | 2022-04-06 |
 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:54 | 2021-11-09 |  |
 | [We Found Love](https://open.spotify.com/track/3t4HeVfURZ5DuqMWz0Cmqg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Talk That Talk \(Deluxe\)](https://open.spotify.com/album/3sW7wD2qdMjs7KncaOoIJ5) | 3:35 | 2023-02-27 |  |

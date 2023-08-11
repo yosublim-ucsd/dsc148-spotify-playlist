@@ -4,7 +4,7 @@
 
 > Dos estilos, dos sonidos, un mismo origen: El Barrio\. Herencia de Patrones, Gera MX & Peso Pluma en portada.
 
-331 songs - 18 hr 17 min
+332 songs - 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,8 @@
 | [K\-POP](https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [K\-POP](https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb) | 3:05 | 2023-08-04 |  |
 | [Kódigos](https://open.spotify.com/track/4UmrVmSgfJPsYPqUdVxeYJ) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V) | [Kódigos](https://open.spotify.com/album/3UPYvtNRePhVMLVrxR5a8i) | 3:47 | 2022-06-01 | 2022-09-01 |
 | [L\-Gante: RKT SESSIONS \#1](https://open.spotify.com/track/4A9u8OrzFYbxdjiydkNdUi) | [Papu DJ](https://open.spotify.com/artist/1Z7q2glJYLsPpPoPIgBjdE), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [L\-Gante: RKT SESSIONS \#1](https://open.spotify.com/album/530tno9W2FoIzPffRMOyGG) | 3:01 | 2022-06-01 | 2022-09-01 |
-| [La 701](https://open.spotify.com/track/6NKkscuqh2UWR4gzXIF84G) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [La 701](https://open.spotify.com/album/5dJtr2DikQCxBRGlKKdRPI) | 3:00 | 2023-07-14 |  |
+| [La 701](https://open.spotify.com/track/1K8RQPB2y9Y0FF5dAjuy7Y) | [5 Music MX](https://open.spotify.com/artist/0ZptoanpAurqsvPl5tHKSH), [La Fresada Music](https://open.spotify.com/artist/2EMMZtzNBUVJAPy0l4w4A1) | [La 701](https://open.spotify.com/album/38bBLMpOx4xEUw4XEq9YeO) | 3:03 | 2023-08-08 |  |
+| [La 701](https://open.spotify.com/track/6NKkscuqh2UWR4gzXIF84G) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [La 701](https://open.spotify.com/album/5dJtr2DikQCxBRGlKKdRPI) | 3:00 | 2023-07-14 | 2023-08-11 |
 | [LA 701](https://open.spotify.com/track/62vhlXTC4rrb13dVUlyYpO) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [LA 701](https://open.spotify.com/album/1olJpo7uMM41kxy7MTrBd3) | 2:44 | 2023-08-04 |  |
 | [La 701 \- Panter Belico](https://open.spotify.com/track/4C1Nffkw1W8ecBjNLJRgAS) | [5 Music MX](https://open.spotify.com/artist/0ZptoanpAurqsvPl5tHKSH), [La Fresada Music](https://open.spotify.com/artist/2EMMZtzNBUVJAPy0l4w4A1) | [La 701 \- Panter Belico](https://open.spotify.com/album/1U8AwjMc0FdRXtjAP1wIFt) | 3:03 | 2023-07-14 | 2023-08-06 |
 | [La 701 \- Panter Belico](https://open.spotify.com/track/5yPJK5jRsaeIoNo0rcFkgP) | [5 Music MX](https://open.spotify.com/artist/0ZptoanpAurqsvPl5tHKSH), [La Fresada Music](https://open.spotify.com/artist/2EMMZtzNBUVJAPy0l4w4A1) | [La 701 \- Panter Belico](https://open.spotify.com/album/0SwvlaDXZ02ru0A2F8F0PG) | 3:03 | 2023-07-14 | 2023-07-31 |

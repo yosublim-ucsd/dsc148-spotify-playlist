@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 
 > Detroit <a href="spotify:genre:techno">Techno</a> Essentials\. Cover: DJ Minx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,441 likes - 50 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,476 likes - 50 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 49 | [Savage & Beyond](https://open.spotify.com/track/0lkJ2mQVyImdu1qXDvKF6j) | [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [e\-Dancer](https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ) | [Heavenly Revisited Album](https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs) | 3:29 |
 | 50 | [On A Journey](https://open.spotify.com/track/1DzZRyXgpD3IlRqsC7fqzD) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [On A Journey](https://open.spotify.com/album/1qg6gKQtN4rOrHQp1qv412) | 4:31 |
 
-Snapshot ID: `MCxlNTA0MWI4YjIyZTY4ODhhNDIwNjZjOWJjYzc1MDM1NDAxYjIyYjc5`
+Snapshot ID: `MCxhMDEwYzE5MzExNzRiMzdlZDI3Nzc5YzIxNjFlNjM1ZDZmMDg1NGE0`

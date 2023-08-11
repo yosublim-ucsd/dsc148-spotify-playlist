@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: All Time Low
 
-387 songs - 23 hr 3 min
+388 songs - 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [Not the One](https://open.spotify.com/track/5jpqyokFLz5Atb9Ve6f0FH) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Not the One](https://open.spotify.com/album/6zBLkJVa4eSXgP7o7ta7IO) | 4:26 | 2022-03-24 |  |
 | [Not Without My Ghosts \(feat\. phem\)](https://open.spotify.com/track/2rlkdPZr9BmPEMC7wlg11e) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK), [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [Not Without My Ghosts \(feat\. phem\)](https://open.spotify.com/album/62RMowdYBDDnzabAVX5Ifu) | 3:30 | 2023-04-21 |  |
 | [Notion](https://open.spotify.com/track/4cHKd6qPMR1TMx55KHlida) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Futureproof](https://open.spotify.com/album/3SmiRZtLKHDHk5bmLpOvtg) | 3:15 | 2021-11-30 |  |
+| [Novocaine](https://open.spotify.com/track/561WtF4saXolXokGjeVPYJ) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [The Dark](https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou) | 2:54 | 2023-08-11 |  |
 | [Now That I've Found You](https://open.spotify.com/track/4QSxcUAwEx5sFitOKZfQDN) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Why Me? Why Not\. \(Deluxe Edition\)](https://open.spotify.com/album/6iInyjotj1rYpx3vbX0MxX) | 3:20 | 2020-10-10\* | 2021-02-25 |
 | [Oblivion](https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 2:41 | 2021-05-03 |  |
 | [Oceans of Darkness](https://open.spotify.com/track/5vORDyXwEqms2j4jQ8Qx17) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [I Don’t Live Here Anymore \(Deluxe Edition\)](https://open.spotify.com/album/4xYRRdTJEO6tyUkycKuaWR) | 3:35 | 2022-09-29 |  |

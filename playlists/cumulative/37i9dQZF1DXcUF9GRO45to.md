@@ -4,7 +4,7 @@
 
 > French scene makes some noise!
 
-273 songs - 17 hr 29 min
+274 songs - 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Cristaux liquides](https://open.spotify.com/track/34oTtDnMwgAbmZd9J6XAKt) | [Pogo Car Crash Control](https://open.spotify.com/artist/5wPxorJlp9dg5u4l3L3ITD) | [Fréquence violence](https://open.spotify.com/album/3UZqjG3zx72rh6lnzOrJg3) | 2:50 | 2022-11-28 | 2023-07-28 |
 | [Crystal Glass](https://open.spotify.com/track/6g6kaanB0CkHwZVizWUaGj) | [Mad Foxes](https://open.spotify.com/artist/0DNV4wMtnm1dZG7VLwdjCC) | [Ashamed](https://open.spotify.com/album/2AVURS4qCdrIZkqriAelGo) | 2:59 | 2021-12-15 |  |
 | [Daddy Is Drunk Again](https://open.spotify.com/track/5LsRmuc3NJgGEsJSNY6dgf) | [Cheap Teen](https://open.spotify.com/artist/0X6Rbb4fyZbLfdz3oNhnOX) | [Daddy Is Drunk Again](https://open.spotify.com/album/5jmkzwcqR2q6gqbsfOvC8R) | 2:56 | 2022-06-30 | 2022-07-23 |
+| [Daddy Issues](https://open.spotify.com/track/2IQq6WSFeAeQIdarYvlGxP) | [Grandma's Ashes](https://open.spotify.com/artist/3njH8IdvpiDn8UIV0BoYoY) | [Daddy Issues](https://open.spotify.com/album/31gjmH07EByb5lpua6I4G8) | 4:49 | 2023-07-23 |  |
 | [Damn Cool](https://open.spotify.com/track/4QjK0ypdnS8svTlDQEbnGy) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB) | [Past & Future](https://open.spotify.com/album/49zarwVKLAbwUXnbHtgHxc) | 3:23 | 2021-12-31 | 2022-04-18 |
 | [Daydreaming](https://open.spotify.com/track/1m4ZGzVWW9Z6J96THHBJMj) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Daydreaming](https://open.spotify.com/album/1Q8BDjqStLsJa9fhlp5yjv) | 3:35 | 2023-07-18 |  |
 | [Death Sound](https://open.spotify.com/track/3jcqQv97hJOLA9CaHyEMBZ) | [Headcharger](https://open.spotify.com/artist/34M4LcAKFb4852Iigq7BNv) | [Rise from the Ashes](https://open.spotify.com/album/1esrQ31gmJpt7c1I4inyFn) | 4:03 | 2023-03-30 | 2023-05-04 |
@@ -136,7 +137,7 @@
 | [Isolation](https://open.spotify.com/track/49Mg47fyRNRHP1pt8EIw9B) | [Bryan's Magic Tears](https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST) | [Vacuum Sealed](https://open.spotify.com/album/1h6Mngi160e472DTepN8qD) | 3:54 | 2021-12-15 | 2022-07-29 |
 | [It's About Time !](https://open.spotify.com/track/741CQNrA1mkBvzqPKKbw9F) | [Iron Lizards](https://open.spotify.com/artist/5M3OioPh7JR2rfVOCFyDRY) | [Hungry for Action](https://open.spotify.com/album/6joG9m7o9GNL1cePZEn3YC) | 2:44 | 2021-12-15 | 2022-07-24 |
 | [It's Gone](https://open.spotify.com/track/26cUvSqatbmZQ4hlp75E4M) | [The Psychotic Monks](https://open.spotify.com/artist/7GB1a2GjXTCbTtdSv3NTPy) | [Silence Slowly And Madly Shines](https://open.spotify.com/album/6z5nHHrbow0HdyZLcBqWfA) | 5:43 | 2021-12-15 |  |
-| [Italia](https://open.spotify.com/track/6Kw6I8YLJadN5HPUHhp1XL) | [Luje](https://open.spotify.com/artist/6ytlQp07reEmExW6EeeLFD) | [Raving Track](https://open.spotify.com/album/32b7pGGSU86sMYGutnARZr) | 4:35 | 2023-02-02 |  |
+| [Italia](https://open.spotify.com/track/6Kw6I8YLJadN5HPUHhp1XL) | [Luje](https://open.spotify.com/artist/6ytlQp07reEmExW6EeeLFD) | [Raving Track](https://open.spotify.com/album/32b7pGGSU86sMYGutnARZr) | 4:35 | 2023-02-02 | 2023-08-11 |
 | [Jocelyne](https://open.spotify.com/track/5G9yfOMJgjzdsgeb61RoG9) | [JIVRE](https://open.spotify.com/artist/0guPFpmvHHxsjqhwxoXmOA) | [No Beach](https://open.spotify.com/album/2zWFIy0MCyzlPd9KJHnDRw) | 3:24 | 2021-12-15 | 2022-07-29 |
 | [Joy](https://open.spotify.com/track/6q3L0PXHNHM2wLRkpxINmH) | [Sympathies](https://open.spotify.com/artist/4ivXcuZRP6CfR9gVdmE2yb) | [Reconnect with Me](https://open.spotify.com/album/0DSfvoJLR6f9MzwlFutcqy) | 3:00 | 2021-12-15 | 2022-07-21 |
 | [Jumping Fences](https://open.spotify.com/track/5jPVbOtH88Sa97kifoLYi9) | [Back Garden Light](https://open.spotify.com/artist/7bLrwX8HkyBWahu7yvw7bJ) | [Back Garden Light](https://open.spotify.com/album/70fiQZH8ZbN3WF6KvLSwLT) | 4:44 | 2022-03-24 | 2023-02-28 |

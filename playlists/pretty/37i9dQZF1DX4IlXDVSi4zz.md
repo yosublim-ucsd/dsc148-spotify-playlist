@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 
 > Dance the night away and just blame it on Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,035 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,323 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 | 49 | [Bum Bum Tam Tam](https://open.spotify.com/track/5XQE6aJrjtzjQCfEhJ4NuL) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW) | [Bum Bum Tam Tam](https://open.spotify.com/album/22u9woa4SQXXsnyZhZAXM0) | 2:50 |
 | 50 | [Louna](https://open.spotify.com/track/2Ms9rXvqIqCzn9BYkhVoYA) | [Sam Shure](https://open.spotify.com/artist/51YmUpitluHsvMTXJ2rsiN) | [Laconia](https://open.spotify.com/album/5KzPSUu9nrd53wZqESbx6w) | 8:35 |
 
-Snapshot ID: `MCw2MTFlNjdkYmIyY2QwNWM1OWVjYzdlZjk5NGI0NGU2ZjhiNDg4Zjc1`
+Snapshot ID: `MCw4YmY3OTBiZDFjZjQ4MWY3MTkwNDMyZmIwMzZlYmNmNzlkZjA0Y2Jj`

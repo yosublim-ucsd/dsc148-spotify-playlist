@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-576 songs - 1 day 8 hr 34 min
+577 songs - 1 day 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,7 +354,7 @@
 | [Needle and Thread](https://open.spotify.com/track/2aq5ASfM6GbR5Rw3bhl6Nu) | [Ages and Ages](https://open.spotify.com/artist/3DozezNrsIE37kJJfHhS9M) | [Needle and Thread](https://open.spotify.com/album/17jwcTGGRRcdJa9vdoybK3) | 3:02 | 2021-05-01 | 2022-04-13 |
 | [Never Felt This Way Before](https://open.spotify.com/track/78Vx4LhX1Y85ck0GyfRyno) | [Wasuremono](https://open.spotify.com/artist/1i9EknSbxjunq52yyxl8ig) | [Are You OK?](https://open.spotify.com/album/6xkwDIfgHnNz5SRL16PlFc) | 4:19 | 2021-05-01 | 2022-04-13 |
 | [Never Go](https://open.spotify.com/track/374rtbOx5NrgRFC9811Ghf) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO) | [Hawaii](https://open.spotify.com/album/5IBX9xg8sHWHf3L5a3QvrE) | 2:36 | 2022-06-17 | 2022-07-29 |
-| [Never Going Under](https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Never Going Under](https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj) | 2:14 | 2023-05-26 |  |
+| [Never Going Under](https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Never Going Under](https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj) | 2:14 | 2023-05-26 | 2023-08-11 |
 | [Never Thought I'd Feel Again](https://open.spotify.com/track/5a9zYyW6Mc4TBWyNU0uRBY) | [The Cribs](https://open.spotify.com/artist/51Eq6WMVEOjjx9KQMAnneG) | [Never Thought I'd Feel Again](https://open.spotify.com/album/5U8tkmKXbI8FocdmVlQl4D) | 4:09 | 2021-05-01 | 2022-04-14 |
 | [Nevermind](https://open.spotify.com/track/16cfhCwNCVTmmSoLYxb2z3) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Nevermind](https://open.spotify.com/album/4rqjnLn0qJ57y4WIc5aBWb) | 2:21 | 2021-05-01 | 2022-03-06 |
 | [New Flesh](https://open.spotify.com/track/6HJxxqHWMdidwTVZmZWeHU) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Wild Heart](https://open.spotify.com/album/3vYaHUkO7laqYdwUQbnsIP) | 2:47 | 2022-07-22 | 2023-02-14 |
@@ -569,6 +569,7 @@
 | [Where'd All the Time Go?](https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Shame, Shame \(Deluxe Edition\)](https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl) | 3:54 | 2022-04-13 | 2023-06-17 |
 | [Why You Gotta Do It](https://open.spotify.com/track/4gH3bjEbVBaWOJVikk7JPv) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [Why You Gotta Do It](https://open.spotify.com/album/07eI2xGfn3TmIZTYY0UkQd) | 3:38 | 2021-05-01 | 2022-04-13 |
 | [Winona](https://open.spotify.com/track/72svIlAUCr5gbM591DQkdJ) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Winona](https://open.spotify.com/album/2cwVHZrQ0eaaiUhCxW7glA) | 4:35 | 2023-05-26 | 2023-06-18 |
+| [Wish We Could Be Friends](https://open.spotify.com/track/70f0GBfQ0y6DZvC3jytr5R) | [Krooked Kings](https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE) | [All Out of Good Days](https://open.spotify.com/album/1SS5zZzp492w5EhFuYzVVl) | 2:31 | 2023-05-26 |  |
 | [Wonderful Life \- Edit](https://open.spotify.com/track/1UW4ovo5jTxYnmbTw89BpJ) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Wonderful Life](https://open.spotify.com/album/22fUT9dL0jQhBB5c05h4pj) | 3:05 | 2022-07-22 | 2022-07-28 |
 | [Yeah](https://open.spotify.com/track/6WtYaLMrdr2CKmUL59IRcz) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [YEAH YEAH YEAH YEAH YEAH YEAH YEAH YEAH](https://open.spotify.com/album/4Dgtsf0LqQz9YO5Yxm8qlk) | 2:55 | 2021-05-01 | 2022-04-13 |
 | [Yeah Yeah Yeah](https://open.spotify.com/track/32giR6EjJXyPBPS83p3o48) | [Cayucas](https://open.spotify.com/artist/7LLcRttKjV6PeJOlCNCYon) | [Yeah Yeah Yeah](https://open.spotify.com/album/4GqoyJCF14Wb3OjUBy3HOD) | 3:25 | 2021-05-01 | 2022-07-29 |

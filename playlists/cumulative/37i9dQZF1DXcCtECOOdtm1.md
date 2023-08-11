@@ -4,7 +4,7 @@
 
 > Get fascinated by Japanese City Pop from the ‘90s with Shibuya\-kei flavor./ シティポップの発展が渋谷系へと向かう。多幸感に溢れる時代の空気と共に、モードな再構築が新たなカルチャーを生んだ。
 
-78 songs - 6 hr 23 min
+79 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [ENDLESS SUMMER NUDE](https://open.spotify.com/track/0QeQUNszvuv1lyIFgpd5XA) | [Magokoro Brothers](https://open.spotify.com/artist/7vDBc24PdLxDQEF6tGHnzM) | [I will Survive](https://open.spotify.com/album/7GFX6rzvQeZQkrildFNh7V) | 5:16 | 2021-04-15 | 2022-07-29 |
 | [ENDLESS SUMMER NUDE](https://open.spotify.com/track/1sfrk3nOYwWCEjS9iMbTzC) | [Magokoro Brothers](https://open.spotify.com/artist/7vDBc24PdLxDQEF6tGHnzM) | [I will Survive](https://open.spotify.com/album/3zHBk88iuV6Jl9WJrxqAVA) | 5:16 | 2021-04-15 | 2022-11-13 |
 | [Girl Talk \~never fall in love again\~](https://open.spotify.com/track/2D2Z9gHas01CpA2ciEfDru) | [COSA NOSTRA](https://open.spotify.com/artist/3XTQoYcUS34mM1jloWW85u) | [SEVEN](https://open.spotify.com/album/6KPK1tNvB5qZTJeTBrji7X) | 4:20 | 2021-04-15 |  |
-| [Happy\-Go\-Lucky](https://open.spotify.com/track/2nPddaj5ME4Vm11jvKEkSe) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [LUCY](https://open.spotify.com/album/0N1zL99Endak0l1KFoWT18) | 4:26 | 2021-04-15 |  |
+| [Happy\-Go\-Lucky](https://open.spotify.com/track/2WOB3RH7MLpaNFjkIGVn1B) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [City Pop Essentials \- Drive \-](https://open.spotify.com/album/6Z4Ojg2KQEMblEKke3seBH) | 4:26 | 2021-04-15 |  |
+| [Happy\-Go\-Lucky](https://open.spotify.com/track/2nPddaj5ME4Vm11jvKEkSe) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [LUCY](https://open.spotify.com/album/0N1zL99Endak0l1KFoWT18) | 4:26 | 2021-04-15 | 2023-08-11 |
 | [HORIZON](https://open.spotify.com/track/782gyHAHXhoTQ1pcjEksD9) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [Illuminate\~the very best songs\~](https://open.spotify.com/album/6IZB1TIO4uGrQfXNzOblGn) | 4:53 | 2021-04-15 |  |
 | [HORIZON](https://open.spotify.com/track/3Ge54kJCBs3OkZZWaFOB4b) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [PETIT](https://open.spotify.com/album/1D6uibmGUV7WE8NQMF2hJH) | 4:55 | 2021-04-15 | 2022-07-29 |
 | [It's a Beautiful Day](https://open.spotify.com/track/62bLC5IoSiLW7T33u5h4Yw) | [Carnation](https://open.spotify.com/artist/5NvPLoJWfBHkEvTsiwmEog) | [a Beautiful Day](https://open.spotify.com/album/47rfXgKpkpIEcNLBWHdsnR) | 6:36 | 2021-04-15 |  |

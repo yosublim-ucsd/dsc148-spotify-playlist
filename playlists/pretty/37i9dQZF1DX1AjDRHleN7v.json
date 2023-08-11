@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 276802,
+  "num_followers": 276849,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzU2OGExYzU2Y2ViYTk2NDdhNGJjMDhhM2MxMmQwNzk3YThmZDQw",
+  "snapshot_id": "MCw1MzhjZGI5OGNkMGZkNTk1MTliY2U0ZmJhODdlYjJiYjRjNjI1NzNm",
   "tracks": [
     {
       "added_at": "2023-08-04 03:01:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "O Que te Faz Viver",
-        "url": "https://open.spotify.com/album/0ejMTMDQ4kWbJDimnXPNIr"
-      },
-      "artists": [
-        {
-          "name": "Kallibre",
-          "url": "https://open.spotify.com/artist/6ko7vi5bpxvolJ9g47pve7"
-        }
-      ],
-      "duration_ms": 230967,
-      "name": "O Que te Faz Viver",
-      "url": "https://open.spotify.com/track/29MSWdwb1Z6s74JIT7FyzS"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "sei l\u00e1",
         "url": "https://open.spotify.com/album/3RIB8BEpinwrq093EmVt8h"
       },
@@ -931,18 +915,18 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Lua Crescente",
-        "url": "https://open.spotify.com/album/4Fa9dI4joZ8SYsXOSKIlEu"
+        "name": "O Que te Faz Viver",
+        "url": "https://open.spotify.com/album/0ejMTMDQ4kWbJDimnXPNIr"
       },
       "artists": [
         {
-          "name": "Calbertini",
-          "url": "https://open.spotify.com/artist/1D8wO50htejQzCFByxytKH"
+          "name": "Kallibre",
+          "url": "https://open.spotify.com/artist/6ko7vi5bpxvolJ9g47pve7"
         }
       ],
-      "duration_ms": 201538,
-      "name": "Lua Crescente",
-      "url": "https://open.spotify.com/track/3pxlJ6ekcf3e5AIwbU9Wzt"
+      "duration_ms": 230967,
+      "name": "O Que te Faz Viver",
+      "url": "https://open.spotify.com/track/29MSWdwb1Z6s74JIT7FyzS"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -967,6 +951,22 @@
       "duration_ms": 186909,
       "name": "40 Graus",
       "url": "https://open.spotify.com/track/1XHJzC9TKXgbrMk3KFc9tj"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Lua Crescente",
+        "url": "https://open.spotify.com/album/4Fa9dI4joZ8SYsXOSKIlEu"
+      },
+      "artists": [
+        {
+          "name": "Calbertini",
+          "url": "https://open.spotify.com/artist/1D8wO50htejQzCFByxytKH"
+        }
+      ],
+      "duration_ms": 201538,
+      "name": "Lua Crescente",
+      "url": "https://open.spotify.com/track/3pxlJ6ekcf3e5AIwbU9Wzt"
     },
     {
       "added_at": "2023-08-04 03:01:00",

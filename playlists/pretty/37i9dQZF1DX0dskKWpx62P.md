@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 
 > ¡Con todo el sentimiento andino! Foto: William Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,693 likes - 60 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,723 likes - 60 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 32 | [Valicha](https://open.spotify.com/track/1RxVbw47XHuwtibKprzX3I) | [Sentimiento Andino](https://open.spotify.com/artist/24ekejeYKRsI7YE26PczBs) | [Caminando Y Cantando](https://open.spotify.com/album/5qiNMwmbj1mzo925QVkHGI) | 3:35 |
 | 33 | [Amor Te Has Marchado Lejos](https://open.spotify.com/track/5jseVt76rTtOqTL7WxcO2m) | [Abencia Meza](https://open.spotify.com/artist/4zCJHsmMfINEFpnFz1DkZt) | [La Reina de las Parranditas](https://open.spotify.com/album/4ilEmL4SZbMRFZl5apcr3F) | 2:50 |
 | 34 | [Después de Mi Qué Importa](https://open.spotify.com/track/0kGI5wzDxnh8sz42sb9H7g) | [Raúl Arquínigo](https://open.spotify.com/artist/0Fai0nBdLeTWPHpSMeVzfO) | [Bodas de Plata: Concierto en Vivo](https://open.spotify.com/album/0PpRiM2ur6dZKZ48z5e5te) | 3:57 |
-| 35 | [Challwaschallay](https://open.spotify.com/track/2n7NBbbEIyUo9tNZ963ivB) | [Los Apus](https://open.spotify.com/artist/0AFZV1o9URU4250NqeLuvf) | [El Imperio de los Apus](https://open.spotify.com/album/0rrBats1rpEHyynw5YETSH) | 4:14 |
-| 36 | [Cerveza, Cerveza](https://open.spotify.com/track/2OqmtWMjw5Jm3BQxtzvMmu) | [Wendy Sulca](https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2) | [Papito Por Qué Me Dejaste..!](https://open.spotify.com/album/210Yb6y0gEDDRZd8EM3pAc) | 4:34 |
+| 35 | [Cerveza, Cerveza](https://open.spotify.com/track/2OqmtWMjw5Jm3BQxtzvMmu) | [Wendy Sulca](https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2) | [Papito Por Qué Me Dejaste..!](https://open.spotify.com/album/210Yb6y0gEDDRZd8EM3pAc) | 4:34 |
+| 36 | [Challwaschallay](https://open.spotify.com/track/2n7NBbbEIyUo9tNZ963ivB) | [Los Apus](https://open.spotify.com/artist/0AFZV1o9URU4250NqeLuvf) | [El Imperio de los Apus](https://open.spotify.com/album/0rrBats1rpEHyynw5YETSH) | 4:14 |
 | 37 | [Río Mantaro](https://open.spotify.com/track/3IOnWo0h8Vl0VrQKhOQmLj) | [Los Pacharacos](https://open.spotify.com/artist/1zo4zNnsG4FZjK7OFqvDLW) | [Los Pacharacos](https://open.spotify.com/album/5r2IZe4Ce9ozJ1lcBU9iAZ) | 2:57 |
 | 38 | [El Pio, Pio](https://open.spotify.com/track/2r9yZQgAutifXWUfefnUnz) | [Eusebio "Chato" Grados](https://open.spotify.com/artist/6zgB4oxPALPaoxlCPkvj32) | [Huaylash Pio Pio](https://open.spotify.com/album/2baljY40vl4lfiDbQ3e7OO) | 3:39 |
 | 39 | [Chall Huaschallay](https://open.spotify.com/track/756FMK950mmLA7hFN05QT2) | [Conjunto Condemayta de Acomayo](https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD) | [Huayno, Vol\. 1](https://open.spotify.com/album/5kHgLSrmQKlEAqY2jYz14P) | 2:39 |
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 51 | [Dónde Está tu Dinero](https://open.spotify.com/track/6i1F5QTSueIXqY0lkmkjEo) | [Alicia Delgado](https://open.spotify.com/artist/0rNV2u9J1LiJ2BRtN3oOtW) | [La princesa del Folklore](https://open.spotify.com/album/45hG14f1YCGyg1ezB97HlR) | 4:30 |
 | 52 | [Adiós Pueblo De Ayacucho](https://open.spotify.com/track/3HmLLvBwJhsYChABzWH9Of) | [Edwin Montoya](https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb) | [Mis Éxitos Eternos Vol\. 2](https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2) | 3:30 |
 | 53 | [Tomando Cerveza](https://open.spotify.com/track/2zkjU1FIQ35rpmDHK2C9fy) | [Mario Mendoza](https://open.spotify.com/artist/16wOUZsJRt4lH9cM9Js3VQ) | [Lo Mejor del Incomparable...Mario Mendoza](https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw) | 3:00 |
-| 54 | [Granadita](https://open.spotify.com/track/7KU47DKSR3mZVPCHYoQnQw) | [Tupay](https://open.spotify.com/artist/0AMd5Lv1a9CTAdLfbIkf8F) | [Folklore](https://open.spotify.com/album/1muX3zfFprVt4WLCxrXF0h) | 3:48 |
-| 55 | [Chinita Ingrata](https://open.spotify.com/track/5Zg2sTf0f476qo0u9h0wOB) | [Los Pacharacos](https://open.spotify.com/artist/1zo4zNnsG4FZjK7OFqvDLW) | [Los Pacharacos](https://open.spotify.com/album/5r2IZe4Ce9ozJ1lcBU9iAZ) | 2:49 |
+| 54 | [Chinita Ingrata](https://open.spotify.com/track/5Zg2sTf0f476qo0u9h0wOB) | [Los Pacharacos](https://open.spotify.com/artist/1zo4zNnsG4FZjK7OFqvDLW) | [Los Pacharacos](https://open.spotify.com/album/5r2IZe4Ce9ozJ1lcBU9iAZ) | 2:49 |
+| 55 | [Granadita](https://open.spotify.com/track/7KU47DKSR3mZVPCHYoQnQw) | [Tupay](https://open.spotify.com/artist/0AMd5Lv1a9CTAdLfbIkf8F) | [Folklore](https://open.spotify.com/album/1muX3zfFprVt4WLCxrXF0h) | 3:48 |
 | 56 | [La Cornuda](https://open.spotify.com/track/6OzTUt05pxFJAFJjGPxqU5) | [Pumita Cazador](https://open.spotify.com/artist/09c8HpNqJEMBl1bopgRqks) | [Soy Provinciano](https://open.spotify.com/album/1Ry5eqjZbUnnqgsEsUCQjt) | 5:40 |
 | 57 | [Cuanto Tiempo Sin Verte](https://open.spotify.com/track/7GlMO54HvIzDc6E7vWw7W9) | [Abencia Meza](https://open.spotify.com/artist/4zCJHsmMfINEFpnFz1DkZt) | [La Reina de las Parranditas](https://open.spotify.com/album/4ilEmL4SZbMRFZl5apcr3F) | 3:40 |
 | 58 | [Dejame Asi](https://open.spotify.com/track/5xa252VDy3F7yeulREj06Z) | [Luis Mendoza](https://open.spotify.com/artist/4MmslUYXQXsZjNAXrgyYA2) | [Calaveras Serranas](https://open.spotify.com/album/4BpC4Ap05hVHTqZf91YwY2) | 2:51 |
-| 59 | [Carrito del Gobierno](https://open.spotify.com/track/1Net8ueUaiGDbFvokcINq7) | [Jilguero Del Huascarán](https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx) | [Cantares Huaracinos](https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK) | 2:40 |
-| 60 | [Sihuarsito](https://open.spotify.com/track/1SE8uvi7ORh3Q9qFR91yWN) | [Los Puquiales](https://open.spotify.com/artist/56BGpfV7llrp7rvvseEaPn) | [Huayno, Vol\. 2](https://open.spotify.com/album/5ruEdZJIr4XPSlNvCrnrU4) | 2:47 |
+| 59 | [Sihuarsito](https://open.spotify.com/track/1SE8uvi7ORh3Q9qFR91yWN) | [Los Puquiales](https://open.spotify.com/artist/56BGpfV7llrp7rvvseEaPn) | [Huayno, Vol\. 2](https://open.spotify.com/album/5ruEdZJIr4XPSlNvCrnrU4) | 2:47 |
+| 60 | [Carrito del Gobierno](https://open.spotify.com/track/1Net8ueUaiGDbFvokcINq7) | [Jilguero Del Huascarán](https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx) | [Cantares Huaracinos](https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK) | 2:40 |
 
-Snapshot ID: `MCw0MmQ0MjE2ODUzMTA0MjAwYWRiNjNkYzYwOTM0NTFhY2ZjMzY5YThk`
+Snapshot ID: `MCwxOTRmYmVhMjA2NDNhY2M2NTRiM2Y5MjJhOTBmOTRkZDcyMWZkNTY1`

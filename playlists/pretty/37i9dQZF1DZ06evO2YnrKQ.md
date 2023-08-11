@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 
 > This is Alexisonfire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,552 likes - 38 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,562 likes - 38 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 | 37 | [Season of the Flood](https://open.spotify.com/track/1Loys2CB8Gwa0VKH6ywoNc) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Season of the Flood](https://open.spotify.com/album/0vwBGkJ4skQD7lAq9P7NBm) | 6:54 |
 | 38 | [Polaroids of Polar Bears](https://open.spotify.com/track/6PXHIf7p7t4BaTD1j5jy1U) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Alexisonfire](https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC) | 5:08 |
 
-Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDA1NGU5NDU0ZTg0ZjA1MDZhMGY1ZGYxNWJiMGNjMTE2Mw==`
+Snapshot ID: `MjgxOTQ1NjMsMDAwMDAwMDA5MWQzYjU4ZDFlMWJlYjFhODQ0NjYwZmY1ZjhlYzFmYw==`

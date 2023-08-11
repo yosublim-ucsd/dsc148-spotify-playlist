@@ -1,12 +1,12 @@
 {
   "description": "Get your creative juices flowing with these instrumental masterpieces.",
-  "num_followers": 173981,
+  "num_followers": 174082,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxM2FkM2MyNmIzZjA1MDlkNGVmOWQwZGYyYmJkOGQ2YWFmYmNiYWQ4",
+  "snapshot_id": "MCw0ZWFlNGM1MzU5ZTZlNmMyNTdmM2ZkNzRkMDFlNDgwMzNlNTM3MjIz",
   "tracks": [
     {
       "added_at": "2023-02-09 09:05:31",
@@ -339,26 +339,6 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
-        "name": "Baroque Conversations",
-        "url": "https://open.spotify.com/album/1GeySkyBOkMq1yWbRZW1CV"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "David Greilsammer",
-          "url": "https://open.spotify.com/artist/03DDDfXOjkqWelBJntrTpX"
-        }
-      ],
-      "duration_ms": 96293,
-      "name": "Suite in D Minor, HWV 447: Allemande",
-      "url": "https://open.spotify.com/track/6k0PPC5BDLBvkBcikB3BBv"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
         "name": "Field: Complete Nocturnes",
         "url": "https://open.spotify.com/album/0I3BvDSNoPQnI8Fsr60Cub"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 221731,
       "name": "Nocturne No. 1 in E Flat Major, H.24",
       "url": "https://open.spotify.com/track/4h4py9AzEuUGBTJZO4ifnm"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
+        "name": "Baroque Conversations",
+        "url": "https://open.spotify.com/album/1GeySkyBOkMq1yWbRZW1CV"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "David Greilsammer",
+          "url": "https://open.spotify.com/artist/03DDDfXOjkqWelBJntrTpX"
+        }
+      ],
+      "duration_ms": 96293,
+      "name": "Suite in D Minor, HWV 447: Allemande",
+      "url": "https://open.spotify.com/track/6k0PPC5BDLBvkBcikB3BBv"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
-        "name": "Blind Film",
-        "url": "https://open.spotify.com/album/7DTb6225JKPofMAZgIAmUC"
-      },
-      "artists": [
-        {
-          "name": "Yiruma",
-          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
-        }
-      ],
-      "duration_ms": 228293,
-      "name": "Waltz in C Minor (Only for Piano)",
-      "url": "https://open.spotify.com/track/6L6TuOAEZHf93tJULIjQrj"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
         "name": "Lake Reflections - Music for Flute & Harp",
         "url": "https://open.spotify.com/album/0bvSoJHPw1wfCLd2u4L5VV"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 150413,
       "name": "Schwanenlied",
       "url": "https://open.spotify.com/track/58I1vBvQyCzucuxkMl9Pwc"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
+        "name": "Blind Film",
+        "url": "https://open.spotify.com/album/7DTb6225JKPofMAZgIAmUC"
+      },
+      "artists": [
+        {
+          "name": "Yiruma",
+          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
+        }
+      ],
+      "duration_ms": 228293,
+      "name": "Waltz in C Minor (Only for Piano)",
+      "url": "https://open.spotify.com/track/6L6TuOAEZHf93tJULIjQrj"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -851,6 +851,26 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
+        "name": "Field: Complete Nocturnes",
+        "url": "https://open.spotify.com/album/0I3BvDSNoPQnI8Fsr60Cub"
+      },
+      "artists": [
+        {
+          "name": "John Field",
+          "url": "https://open.spotify.com/artist/7vDYlejWEU6Yuw4MxTiv56"
+        },
+        {
+          "name": "Elizabeth Joy Roe",
+          "url": "https://open.spotify.com/artist/5vJAuQf7YI4bRYev7UfZDs"
+        }
+      ],
+      "duration_ms": 191853,
+      "name": "Nocturne No. 2 in C Minor, H.25",
+      "url": "https://open.spotify.com/track/0r4MwV7YMWcQQdWgWIn9c9"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
         "name": "Bizet: Carmen Suites 1 & 2; L'Arl\u00e9sienne Suites 1 & 2",
         "url": "https://open.spotify.com/album/3MHXMoe8tGfheDCfH6lUFn"
       },
@@ -871,26 +891,6 @@
       "duration_ms": 155826,
       "name": "Carmen Suite No. 1: Intermezzo",
       "url": "https://open.spotify.com/track/7bf93oDYxqU36lyBhEa3mB"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
-        "name": "Field: Complete Nocturnes",
-        "url": "https://open.spotify.com/album/0I3BvDSNoPQnI8Fsr60Cub"
-      },
-      "artists": [
-        {
-          "name": "John Field",
-          "url": "https://open.spotify.com/artist/7vDYlejWEU6Yuw4MxTiv56"
-        },
-        {
-          "name": "Elizabeth Joy Roe",
-          "url": "https://open.spotify.com/artist/5vJAuQf7YI4bRYev7UfZDs"
-        }
-      ],
-      "duration_ms": 191853,
-      "name": "Nocturne No. 2 in C Minor, H.25",
-      "url": "https://open.spotify.com/track/0r4MwV7YMWcQQdWgWIn9c9"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
-        "name": "Beethoven: The Complete Piano Sonatas",
-        "url": "https://open.spotify.com/album/014wV6KWcsn01SiYIYVJeg"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Igor Levit",
-          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
-        }
-      ],
-      "duration_ms": 602746,
-      "name": "Piano Sonata No. 21 in C Major, Op. 53, \"Waldstein\": I. Allegro con brio",
-      "url": "https://open.spotify.com/track/3WFTQHUd4DBoEucAWxaPDm"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
         "name": "Bruch, Brahms & Schubert: Chamber Works",
         "url": "https://open.spotify.com/album/7opugbzWAHbl5FKUZGjzgz"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 159010,
       "name": "8 Pieces, Op. 83 (Arr. for Violin, Viola & Piano): No. 2, Allegro con moto",
       "url": "https://open.spotify.com/track/1xWTaBLkw6T758GCLXNubf"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
+        "name": "Beethoven: The Complete Piano Sonatas",
+        "url": "https://open.spotify.com/album/014wV6KWcsn01SiYIYVJeg"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Igor Levit",
+          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
+        }
+      ],
+      "duration_ms": 602746,
+      "name": "Piano Sonata No. 21 in C Major, Op. 53, \"Waldstein\": I. Allegro con brio",
+      "url": "https://open.spotify.com/track/3WFTQHUd4DBoEucAWxaPDm"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
+        "name": "Mendelssohn",
+        "url": "https://open.spotify.com/album/06wVu1cPM1WzE5V2uyK8cj"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Philippe Cassard",
+          "url": "https://open.spotify.com/artist/5uYFQGCwvdTgxXz9IgZ64h"
+        }
+      ],
+      "duration_ms": 169653,
+      "name": "Songs without Words, Op. 67, No. 3 in B-Flat Major: Andante tranquillo",
+      "url": "https://open.spotify.com/track/0QgKSCaOjfBkMLxNlI2VpB"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
         "name": "Haydn: Cello Concertos (Remastered)",
         "url": "https://open.spotify.com/album/7M3Q7tG8qbEjk91laYhHIA"
       },
@@ -1239,26 +1259,6 @@
       "duration_ms": 493800,
       "name": "Cello Concerto No. 1 in C Major, Hob. VIIb:1: II. Adagio",
       "url": "https://open.spotify.com/track/3cc1BpGtocKOEnROApTv8M"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
-        "name": "Mendelssohn",
-        "url": "https://open.spotify.com/album/06wVu1cPM1WzE5V2uyK8cj"
-      },
-      "artists": [
-        {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
-        },
-        {
-          "name": "Philippe Cassard",
-          "url": "https://open.spotify.com/artist/5uYFQGCwvdTgxXz9IgZ64h"
-        }
-      ],
-      "duration_ms": 169653,
-      "name": "Songs without Words, Op. 67, No. 3 in B-Flat Major: Andante tranquillo",
-      "url": "https://open.spotify.com/track/0QgKSCaOjfBkMLxNlI2VpB"
     },
     {
       "added_at": "2023-02-09 09:05:31",

@@ -4,7 +4,7 @@
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Joaquín Sabina.
 
-245 songs - 15 hr 46 min
+246 songs - 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Agua](https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Agua](https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu) | 4:00 | 2022-06-09 |  |
 | [Ahora Que Te Encuentro](https://open.spotify.com/track/6hCgPpGpAgV6ExrOj9MGXH) | [Ismael Serrano](https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34) | [La Llamada](https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21) | 7:22 | 2022-08-11 |  |
 | [Al alba](https://open.spotify.com/track/2g1oUOP1r8DpzXvd1PMafY) | [Jose Merce](https://open.spotify.com/artist/7p5J8SfKU9Rulp7tcA53G8) | [Aire](https://open.spotify.com/album/7F7AQLPetH2wvAUtJAP5Xk) | 4:16 | 2022-06-09 |  |
-| [Al Alba](https://open.spotify.com/track/5zftYFI80oeA7UKfisvRUt) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Albanta](https://open.spotify.com/album/71bflvCi5VkZBS5IV81b8M) | 4:57 | 2022-06-09 |  |
+| [Al Alba](https://open.spotify.com/track/5zftYFI80oeA7UKfisvRUt) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Albanta](https://open.spotify.com/album/71bflvCi5VkZBS5IV81b8M) | 4:57 | 2022-06-09 | 2023-08-11 |
 | [al llegar \(feat\. Jorge Drexler\)](https://open.spotify.com/track/1BHvRyi5xRpGV2AJkwaLO1) | [Salvador Sobral](https://open.spotify.com/artist/0GfYO21pue5u0sVEYk9HZO), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [al llegar \(feat\. Jorge Drexler\)](https://open.spotify.com/album/7mMDhocLaic7E94svff9JM) | 3:35 | 2023-04-13 | 2023-06-23 |
 | [Alacena de las Monjas](https://open.spotify.com/track/6s60h2vLt1dHWBao0i9vSf) | [Carlos Cano](https://open.spotify.com/artist/3DmpE6oHcvPFhtMTSlLMFB) | [Mis 30 Grandes Canciones](https://open.spotify.com/album/3nh8HgQfEGkdBNc17NblF6) | 4:11 | 2022-06-09 | 2022-07-14 |
 | [Alfonsina Y El Mar](https://open.spotify.com/track/1fsNhKJoPB4sHd3bVL1bcw) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Ariel Ramírez](https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW), [Hector Zeoli](https://open.spotify.com/artist/2yAbebpFzH9GhCLeCwKwtN) | [Amigos Míos](https://open.spotify.com/album/1fnfqWQnHLlWKSLmuf8eAn) | 4:38 | 2022-06-09 | 2022-07-29 |
@@ -107,6 +107,7 @@
 | [Honrar la Vida](https://open.spotify.com/track/5qAYAoahHsmbH8l1BhIoQ6) | [Sole Gimenez](https://open.spotify.com/artist/56FObtReljLqgs2bgQ0kZS), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Honrar la Vida](https://open.spotify.com/album/4cLGB4NfJG9nll9zTPPSb4) | 3:49 | 2022-06-09 | 2022-07-29 |
 | [Hoy Ten Miedo De Mi](https://open.spotify.com/track/4gXv9Rw5aLPkgzdhKFBCir) | [Fernando Delgadillo](https://open.spotify.com/artist/3dzMXO1RxEyQnFemhMIvnc) | [Con Cierto Aire a Ti](https://open.spotify.com/album/3sE2cw64lJ7L5jqbBkDcBA) | 2:58 | 2022-08-11 |  |
 | [Humo](https://open.spotify.com/track/64b4H2swBOouj8J0AZ4buE) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [50 Palos](https://open.spotify.com/album/0U70gjCcYSvuBtgRbHAXnB) | 3:05 | 2022-06-09 |  |
+| [Interludio para mi Julita](https://open.spotify.com/track/7HStg28f1GBPvMY1WkPVTY) | [Rupatrupa](https://open.spotify.com/artist/4NMzrymQlZzpXs0LT3Arei) | [Interludio para mi Julita](https://open.spotify.com/album/3C6poAVbvKcs2CY8P2SzwH) | 1:29 | 2023-08-10 |  |
 | [Isla Mujeres](https://open.spotify.com/track/18uARsQnALp0MbkEXbR99v) | [Javier Ruibal](https://open.spotify.com/artist/2BGKgfF1cNY6KyfTfS3sVE) | [Las Damas Primero](https://open.spotify.com/album/4kg5YpAPT65X9ci6QVQl5t) | 4:46 | 2022-06-09 | 2022-07-28 |
 | [Jugar a Vivir](https://open.spotify.com/track/1QlZUoChINBN5BMRmZF0sS) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Camino al Sol](https://open.spotify.com/album/1XuG26LABHJVOLlf8VqkSN) | 3:45 | 2022-06-30 | 2022-09-15 |
 | [La Belleza](https://open.spotify.com/track/5oMnRH2HJ3N3leLRh3AWCw) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Auterretratos](https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv) | 3:53 | 2022-06-09 | 2022-07-29 |

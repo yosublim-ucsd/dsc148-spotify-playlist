@@ -2,9 +2,9 @@
 
 ### [Top Maghreb Pop](https://open.spotify.com/playlist/37i9dQZF1DX5KSzehSFkvg)
 
-> Les meilleurs Pop Hits Maghrébins sont ici\. Cover: Zouhair Bahaoui & Hind Ziadi
+> Les meilleurs Pop Hits Maghrébins sont ici\. Cover: L7or
 
-65 songs - 3 hr 38 min
+66 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Jayeb Khbari](https://open.spotify.com/track/7g6MW822UoLSQCFrSXUZCI) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Jayeb Khbari](https://open.spotify.com/album/0RFcMf8UFXmaltJ8mk2oV6) | 3:08 | 2023-07-07 |  |
 | [JRO7I](https://open.spotify.com/track/7syDtybPIIxoR1jvz6w8nI) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [JRO7I](https://open.spotify.com/album/6FeVXC1Ihjhl7x1l1d6PqA) | 3:12 | 2023-07-07 |  |
 | [Jro7i \- Li Kanet Omri](https://open.spotify.com/track/3bZvwCGEHeoLXEyrbFjGUm) | [Rajaa Belmir](https://open.spotify.com/artist/6Ap4eCAS7mQixYK8mbbYAp) | [Jro7i \- Li Kanet Omri](https://open.spotify.com/album/1KRlyoERWrjrZXJ3sAxylo) | 3:39 | 2023-07-07 |  |
-| [Khalass](https://open.spotify.com/track/1YAcYC4yCkdBkgSczACr7C) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Tiempo](https://open.spotify.com/album/5OaMylPTG87Y9JrqIH7Vp3) | 3:20 | 2023-07-07 |  |
+| [Khalass](https://open.spotify.com/track/1YAcYC4yCkdBkgSczACr7C) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Tiempo](https://open.spotify.com/album/5OaMylPTG87Y9JrqIH7Vp3) | 3:20 | 2023-07-07 | 2023-08-11 |
 | [kho khwatato](https://open.spotify.com/track/0Zc1kECFQAoJQDMKKsxDLr) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk), [hind ziadi](https://open.spotify.com/artist/4swfRw8HS51lw8HsO2VXVP) | [kho khwatato](https://open.spotify.com/album/03u30VQhTn0dWfMBIld2IV) | 3:43 | 2023-07-07 |  |
 | [La Grinta](https://open.spotify.com/track/0GZ5TN2SnpfUyx4nkaXT0o) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [La Grinta](https://open.spotify.com/album/10wrdFXjPKazGA8wnjPujS) | 2:40 | 2023-07-07 |  |
 | [Lberra7](https://open.spotify.com/track/1d96Lyf6HTHDXTifQSYkqN) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Lberra7](https://open.spotify.com/album/3RYCCI7kZ8UxGmul4sockq) | 3:16 | 2023-07-07 | 2023-08-06 |
@@ -59,6 +59,7 @@
 | [Rouhani](https://open.spotify.com/track/2417U3M1EmTIU34xpBEfA0) | [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg) | [Rouhani](https://open.spotify.com/album/0557ejgFhXB7KOb4K2ryt0) | 3:01 | 2023-07-07 |  |
 | [SBABO NTI](https://open.spotify.com/track/1SxcIBOelPOILwkCRw42Zi) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [SBABO NTI](https://open.spotify.com/album/7GwYS8AurmMvmGKrh0j7ZG) | 4:13 | 2023-07-07 |  |
 | [Seddit Lbibane](https://open.spotify.com/track/19qSodZXmR2GqMwzLvLYlJ) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Seddit Lbibane](https://open.spotify.com/album/60T0APAz9FUAKMJcpfpxjt) | 3:08 | 2023-07-07 |  |
+| [Sharara](https://open.spotify.com/track/5ZYEXWjn0u2W0r9KxjgOjJ) | [Jamila](https://open.spotify.com/artist/7K0Se2JHfaWPp6OUS2gvgI) | [Sharara](https://open.spotify.com/album/4g58khCt50ohrpG1G10fzR) | 2:41 | 2023-08-10 |  |
 | [Talet Lghiba](https://open.spotify.com/track/6vEtT2Vu5MprdI69pATbLm) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Talet Lghiba](https://open.spotify.com/album/27Kol8rD0EJsQsrkE7A0mJ) | 3:31 | 2023-07-07 |  |
 | [Toi & moi](https://open.spotify.com/track/4C9bUSwqwVZ8eu2jsnctm6) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [Toi & moi](https://open.spotify.com/album/4qAOLbreEqTtzFgcGePfZL) | 3:10 | 2023-07-07 | 2023-08-01 |
 | [WAJAHNI](https://open.spotify.com/track/74ej9D4v1lsgepeEetuB0J) | [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [WAJAHNI](https://open.spotify.com/album/0sx8JWJDbiT3oUuusuU5ZV) | 3:26 | 2023-07-07 |  |

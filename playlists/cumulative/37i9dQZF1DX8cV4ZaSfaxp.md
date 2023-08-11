@@ -4,7 +4,7 @@
 
 > A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers\. \(Cover: aiai\) \(찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요.\)
 
-304 songs - 18 hr 54 min
+305 songs - 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [All Night](https://open.spotify.com/track/1UwERmn5UogyCz6qo21BmA) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Holiday Night \- The 6th Album](https://open.spotify.com/album/5MQM8Jw1FvT21Dny8cOXjF) | 3:42 | 2022-06-18 |  |
 | [Any Call \(Call Me Any Time\)](https://open.spotify.com/track/2pDBR4VKRNFmwUCj7zQmC8) | [uju](https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92) | [Any Call \(Call Me Any Time\)](https://open.spotify.com/album/2XuLnqS5yuSXq0tydgUD2u) | 3:28 | 2022-05-11 | 2022-07-26 |
 | [Apologize](https://open.spotify.com/track/5a8Cw8cj9j3lSIQ21i72p0) | [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg) | [COSMOS](https://open.spotify.com/album/6z8ufyHFN5J1EKG6wiAMLu) | 4:12 | 2022-05-11 | 2022-07-29 |
-| [Aqua \(feat\. Muzie\)](https://open.spotify.com/track/2wxvPuX2kCTVBRn42Ez6fC) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp), [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg) | [AQUA CITY](https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2) | 4:59 | 2022-05-11 |  |
+| [Aqua \(feat\. Muzie\)](https://open.spotify.com/track/2wxvPuX2kCTVBRn42Ez6fC) | [KIM A REUM](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp), [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg) | [AQUA CITY](https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2) | 4:59 | 2022-05-11 |  |
 | [Asteroid 소행성](https://open.spotify.com/track/4vODFC2HQEVCJABkba6eKM) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Asteroid 소행성](https://open.spotify.com/album/7ytsVClk3q5bbVFVM5hyBM) | 3:35 | 2022-05-11 | 2022-07-27 |
 | [Awake But Dreaming \(Feat\. KIMMUSEUM\)](https://open.spotify.com/track/0fWD1NsspeuahId2EktTBG) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [New Edition 27](https://open.spotify.com/album/7mE6Va4hXeo6UNPn01tu19) | 3:23 | 2022-05-11 | 2022-07-28 |
 | [Baby Don't Play](https://open.spotify.com/track/3UAvQZ4pM9mXKfZBv8Go1g) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [REBOOT](https://open.spotify.com/album/6uZUsBaw4hH7TPa60A1W3a) | 3:31 | 2022-05-11 | 2023-08-06 |
@@ -70,7 +70,7 @@
 | [Coconut Love 코코넛 러브](https://open.spotify.com/track/6ZhbadBT9PnNEuDjW4YV3M) | [Seoulmoon](https://open.spotify.com/artist/0xsCXMIcnrXhRiNL11HlxP) | [Coconut Love 코코넛 러브](https://open.spotify.com/album/3mo2rZgIxhEpNa0cIlkAY9) | 3:14 | 2022-05-11 | 2022-07-29 |
 | [Color Me](https://open.spotify.com/track/0PjVjxtWhAUnaRYBWHWdFa) | [Weki Meki](https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx) | [Lucky](https://open.spotify.com/album/6sky0eX7g7zrikM2zPqf7h) | 3:40 | 2022-05-11 | 2022-07-03 |
 | [Come With Me \(feat\. Aden & H!\)](https://open.spotify.com/track/5cyfnscoiwhmGnOZYvR9QJ) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [Aden](https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls), [H!](https://open.spotify.com/artist/0VwH1YpRJDhqULKTKjPWX0) | [Seoul Vibes, Oceanic](https://open.spotify.com/album/4DqKZBow5uuKTQQiDoSjTF) | 3:11 | 2022-05-11 | 2022-12-16 |
-| [Come With Me \(feat\. Aden & H!\)](https://open.spotify.com/track/6QGgZu5a3oDPO2NMrlesCd) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv), [H!](https://open.spotify.com/artist/3gVpUJcNNDu43pV4xlzmyJ) | [Seoul Vibes, Oceanic](https://open.spotify.com/album/2gQ2s0q9UDJRYhpAdVCjSs) | 3:11 | 2023-07-13 |  |
+| [Come With Me \(feat\. Aden & H!\)](https://open.spotify.com/track/6QGgZu5a3oDPO2NMrlesCd) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv), [H!](https://open.spotify.com/artist/3gVpUJcNNDu43pV4xlzmyJ) | [Seoul Vibes, Oceanic](https://open.spotify.com/album/2gQ2s0q9UDJRYhpAdVCjSs) | 3:11 | 2023-07-13 | 2023-08-11 |
 | [Cream Dream](https://open.spotify.com/track/3zwMPISRsuNGPyxARsLHkj) | [TrophyCat](https://open.spotify.com/artist/09s92QI9omMEfLrS2TcCKK) | [Cream Dream](https://open.spotify.com/album/7821Pdd8Mo29Hcf8eBGPBj) | 3:16 | 2022-05-11 |  |
 | [Cristal Love](https://open.spotify.com/track/056ve9qgYBqfAadX29x9ds) | [En Sokum](https://open.spotify.com/artist/3RjGXbgDR40y0ZzZhCACfF) | [Cristal Love](https://open.spotify.com/album/5sIhEUT8XBrUpdIsFkXkjK) | 3:37 | 2022-12-21 | 2023-04-16 |
 | [Dawn](https://open.spotify.com/track/7mE4LGndCfJwJLAzd6KU5M) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Dawn](https://open.spotify.com/album/3vFZZ2VReaSF8S1IaoyYZA) | 4:01 | 2022-07-04 | 2022-09-16 |
@@ -93,6 +93,7 @@
 | [Embracing](https://open.spotify.com/track/5Waqzt9QtbAh7MzuZOC01q) | [The Stray](https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6) | [Embracing](https://open.spotify.com/album/7Bkkj3Tj5I2fGHH0KgwXYD) | 3:22 | 2022-07-22 | 2022-07-29 |
 | [Empty](https://open.spotify.com/track/1hdknqjkAXjoS7q7ArEGqr) | [sucozy](https://open.spotify.com/artist/0UJT6CvlHhWZbgnV1wGakZ), [subin](https://open.spotify.com/artist/1l9uUtOGIbKxJEPEPwiR55) | [Empty](https://open.spotify.com/album/1PXidTC6ygrMxPUuMch2Tm) | 3:34 | 2022-10-04 | 2023-04-05 |
 | [Even Though A City Full Of Ugly People 미운 사람만 가득한 이 도시에도](https://open.spotify.com/track/7rUCWYEk4xYGqgzSZoCfrJ) | [uju](https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92) | [Sunday Seoul 선데이서울 Ep.3](https://open.spotify.com/album/2qyuesnAj6Re9a6sy8eA4N) | 3:10 | 2022-05-11 | 2022-07-27 |
+| [Faded Love](https://open.spotify.com/track/0atlweNQsTyvhaXLJZvyba) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [REBOOT](https://open.spotify.com/album/3in3RzViPTp3fZo51rmJoB) | 3:53 | 2023-07-13 |  |
 | [Fairy of Shampoo](https://open.spotify.com/track/5IFCL8jUbhv1nP3cPuda7n) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: ETERNITY](https://open.spotify.com/album/2fL64wNyyZ4BwwRImYeora) | 4:27 | 2022-05-11 | 2022-07-29 |
 | [Fairy of Shampoo](https://open.spotify.com/track/5JXpZcc3CeQaC6vAF1iaV5) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: ETERNITY](https://open.spotify.com/album/4jTVGyo4fSSFniFPbfr0bW) | 4:27 | 2022-07-22 |  |
 | [Fantasy](https://open.spotify.com/track/6dCukzSNFujNeSHe8KnKnV) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Fantasy](https://open.spotify.com/album/4Kek3o8zZRFpaNXyIMwJWp) | 3:30 | 2022-07-22 | 2022-11-03 |

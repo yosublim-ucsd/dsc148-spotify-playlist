@@ -1,12 +1,12 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 42217,
+  "num_followers": 42250,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2RjMmY5YWY1YzUwNWNhN2RhZDM0MmU3MjEyNzgyYThlOTczOTky",
+  "snapshot_id": "MCw1YjA1Y2Y4MTE5MTgxYjNiMTc3YTdiODg2YTIxOGYyNzFiNWU3Yzk5",
   "tracks": [
     {
       "added_at": "2022-08-19 10:45:11",
@@ -243,26 +243,6 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
-        "name": "Johann Sebastian Bach",
-        "url": "https://open.spotify.com/album/55XdhiY6nd3iij8msqiagR"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
-        }
-      ],
-      "duration_ms": 211320,
-      "name": "Concerto in D Minor, BWV 974: III. Presto",
-      "url": "https://open.spotify.com/track/0ClrgVLLJTLbu58EaTxZ1U"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
         "name": "Bach",
         "url": "https://open.spotify.com/album/5kKkGS4pzAehXKcvrZEF9M"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 453880,
       "name": "Concerto for 2 Harpsichords, Strings & Continuo in C Major, BWV 1061: 1. [No Tempo Indication]",
       "url": "https://open.spotify.com/track/6XRjvKXktFulH9foC7teqH"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
+        "name": "Johann Sebastian Bach",
+        "url": "https://open.spotify.com/album/55XdhiY6nd3iij8msqiagR"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "duration_ms": 211320,
+      "name": "Concerto in D Minor, BWV 974: III. Presto",
+      "url": "https://open.spotify.com/track/0ClrgVLLJTLbu58EaTxZ1U"
     },
     {
       "added_at": "2022-08-19 10:45:11",
@@ -903,6 +903,26 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
+        "name": "Bach: Partitas, BWV 825-826 - Capriccio on the Departure of his Most Beloved Brother - Prelude and Fughetta in G major, BWV 902",
+        "url": "https://open.spotify.com/album/6rCzsHurqAHPhijo22SDSY"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Wolfgang R\u00fcbsam",
+          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
+        }
+      ],
+      "duration_ms": 342040,
+      "name": "Partita No. 1 in B-Flat Major, BWV 825: IV. Sarabande",
+      "url": "https://open.spotify.com/track/7Ja4zr92OkUWRAHAtkhIxi"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
         "name": "Bach: Keyboard Concertos & Italian Concerto",
         "url": "https://open.spotify.com/album/3hBLPwnpfzfkNmXvVTknmy"
       },
@@ -923,26 +943,6 @@
       "duration_ms": 278400,
       "name": "Concerto No. 4 in A Major, BWV 1055: II. Larghetto",
       "url": "https://open.spotify.com/track/6pGymrl8bVVIrK5WpLQObw"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
-        "name": "Bach: Partitas, BWV 825-826 - Capriccio on the Departure of his Most Beloved Brother - Prelude and Fughetta in G major, BWV 902",
-        "url": "https://open.spotify.com/album/6rCzsHurqAHPhijo22SDSY"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Wolfgang R\u00fcbsam",
-          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
-        }
-      ],
-      "duration_ms": 342040,
-      "name": "Partita No. 1 in B-Flat Major, BWV 825: IV. Sarabande",
-      "url": "https://open.spotify.com/track/7Ja4zr92OkUWRAHAtkhIxi"
     },
     {
       "added_at": "2022-08-19 10:45:11",

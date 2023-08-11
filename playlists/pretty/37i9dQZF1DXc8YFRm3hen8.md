@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 
 > La banda de sonido de tu día.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,809 likes - 80 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,859 likes - 80 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 | 41 | [Será](https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Esperando el Milagro](https://open.spotify.com/album/7nXlmH0p6PfgKTsxy3DzCT) | 3:01 |
 | 42 | [Cae el Sol](https://open.spotify.com/track/2nBOPYRoAYOwv6go12SQDs) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Voragine](https://open.spotify.com/album/7IlDM4DB3KkquIIQh0KDOb) | 4:41 |
 | 43 | [Un Ángel para Tu Soledad](https://open.spotify.com/track/7fbuABzGfagLWkI54bxL6c) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Lobo Suelto](https://open.spotify.com/album/6JrFFJuOdqxp1lOMTuOrlF) | 3:51 |
-| 44 | [Juntos a la Par](https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2) | [Buscando un Amor](https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw) | 2:41 |
-| 45 | [Yendo a la Casa de Damián](https://open.spotify.com/track/3tUk2PzTp8KCIU4cxstJq1) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Raro](https://open.spotify.com/album/6evTdl2CjuBbkiCaXOKUKW) | 4:14 |
+| 44 | [Yendo a la Casa de Damián](https://open.spotify.com/track/3tUk2PzTp8KCIU4cxstJq1) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Raro](https://open.spotify.com/album/6evTdl2CjuBbkiCaXOKUKW) | 4:14 |
+| 45 | [Juntos a la Par](https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2) | [Buscando un Amor](https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw) | 2:41 |
 | 46 | [Creo](https://open.spotify.com/track/5Bi9Cq5oVFy1OtUgecbegZ) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Señales](https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy) | 4:49 |
 | 47 | [Loco](https://open.spotify.com/track/0jePqZlutXGa8xz6NNyKAy) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Alta Suciedad](https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6) | 3:37 |
 | 48 | [Madrugada](https://open.spotify.com/track/4SGCn3ZVXa7bepHuAdQvC9) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Historias](https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og) | 4:41 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 | 67 | [La Bestia Pop](https://open.spotify.com/track/5WeBnrDPyLhxruxVryHCkn) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Gulp!](https://open.spotify.com/album/5UATn22oJa1cBrnbnZ88eA) | 4:07 |
 | 68 | [Va A Escampar](https://open.spotify.com/track/4MPwBYidOWnwpKlqQYJEzX) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 4:41 |
 | 69 | [Magia Blanca](https://open.spotify.com/track/4PfoTZ8nDhWEZNeDpLxy7G) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Para Mi para Vos](https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu) | 4:21 |
-| 70 | [A Veces Vuelvo](https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [El Número Imperfecto](https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn) | 4:26 |
-| 71 | [Antes y Después](https://open.spotify.com/track/3Awr8U97Q3vVR3vWdQv8Ts) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Espejos](https://open.spotify.com/album/6Hg4QuUasAaIbX037jHVg0) | 5:02 |
+| 70 | [Antes y Después](https://open.spotify.com/track/3Awr8U97Q3vVR3vWdQv8Ts) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Espejos](https://open.spotify.com/album/6Hg4QuUasAaIbX037jHVg0) | 5:02 |
+| 71 | [A Veces Vuelvo](https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [El Número Imperfecto](https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn) | 4:26 |
 | 72 | [Los Calientes](https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 4:37 |
 | 73 | [Chino](https://open.spotify.com/track/3i22RR1yUia5ShKujgQcX3) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Espíritu](https://open.spotify.com/album/2ZG0Q9JOUIcQGyDOFTAKYm) | 3:22 |
 | 74 | [Ojos de Dragón!](https://open.spotify.com/track/1wLYrmTo3HtsoTzfQnRZUY) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Desafíos](https://open.spotify.com/album/07xfOC49t79t2o7HzauVK6) | 4:17 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 | 79 | [Magia Veneno](https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [El Número Imperfecto](https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn) | 3:58 |
 | 80 | [El trato](https://open.spotify.com/track/4jsWMUBxGEKn6usvMIO1R8) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Cicatrices](https://open.spotify.com/album/0B8RpNMbnIrTB8Q9Si7gYY) | 3:28 |
 
-Snapshot ID: `MCxjYWJmMWMzZWM4OTEwOWEzZDg2NGYzM2IyMGUzZTI1ZGJlMTcxZGI2`
+Snapshot ID: `MCwyMTNjNWY2Nzc5MGVkMGRkMzk2MGYyZWUzNWQxYjg1ZWNlZTVmYTM3`

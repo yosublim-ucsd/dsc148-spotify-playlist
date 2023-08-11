@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Dark, hard hitting pop\. Cover: SNOW WIFE
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,095 likes - 80 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,298 likes - 80 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 44 | [Boy Of The Month](https://open.spotify.com/track/4RSIROjp4W39qUAyMHjf13) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Boy Of The Month](https://open.spotify.com/album/2GyPTomdJSp77TGz658Ziu) | 1:46 |
 | 45 | [Haunt Your Dreams](https://open.spotify.com/track/4UuCqDO4FGdM3ZTJuN3pSW) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Haunt Your Dreams](https://open.spotify.com/album/1vYOBi8w3jO0JDaX8yexVJ) | 2:51 |
 | 46 | [Irresponsible](https://open.spotify.com/track/60SugyNV4FdewZfktXfXte) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Irresponsible](https://open.spotify.com/album/59S6Jtnow51dgkKl1pKBKd) | 2:04 |
-| 47 | [red flag collector](https://open.spotify.com/track/2RLHAs40VeEWznm3ugthJ7) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [red flag collector](https://open.spotify.com/album/29nqXCfWwutCC9ZWnNZKHU) | 2:58 |
+| 47 | [red flag collector](https://open.spotify.com/track/6a0x5MhnYdjxaotPNKXUvW) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [chemistry](https://open.spotify.com/album/5c56JYNgc48iDnwHHlOcye) | 2:58 |
 | 48 | [Popstar](https://open.spotify.com/track/5ByUAdEmfy6MpmUIHCo2Em) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Hey dad, I tried to be nice](https://open.spotify.com/album/5zHY14j7ZRWNgkMlkX4fTH) | 3:33 |
 | 49 | [Lights Out](https://open.spotify.com/track/3I7i0kt5EcuVdYWfSu2LSm) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Lights Out](https://open.spotify.com/album/0EQff5ZxaJGqXNJMZIADyt) | 2:23 |
 | 50 | [EXPECTATIONS](https://open.spotify.com/track/5iZNagyVCvgTBRlxhvvyfD) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [EXPECTATIONS](https://open.spotify.com/album/4JVdNocE2EKTKdAHpc3wed) | 2:58 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 79 | [Vigilante Shit](https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 2:44 |
 | 80 | [W.I.T.C.H.](https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [W.I.T.C.H.](https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b) | 2:12 |
 
-Snapshot ID: `MCw5YjM5OTFmOTY1NGIwZTcwMTYxNjgzMTNkZWU5MDA0YTdkZTZlMmI5`
+Snapshot ID: `MCw2YTFhZjZhNWM4YTRlOWZlZTYzZWNmNDZjODdlMjFjOTlhMjU4ZTlh`

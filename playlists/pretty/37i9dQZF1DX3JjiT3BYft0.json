@@ -1,12 +1,12 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! \u6b21\u4e16\u4ee3\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u300eBanG Dream!\uff08\u30d0\u30f3\u30c9\u30ea\uff01\uff09\u300f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002",
-  "num_followers": 59418,
+  "num_followers": 59438,
   "original_name": "BanG Dream! \u30d0\u30f3\u30c9\u30ea\uff01\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWVlMjQ4YjI1YTkzNDRjYjg4YmY0MThiYmY4NDYwYThiNzUzOGMz",
+  "snapshot_id": "MCwyM2JlMzQ5YzRmYTU2ZjI5MGIwNDc1ZmRhY2ZlZTkyNjM0NzJmYTU5",
   "tracks": [
     {
       "added_at": "2023-07-27 15:00:00",
@@ -475,8 +475,8 @@
     {
       "added_at": "2023-07-27 15:00:00",
       "album": {
-        "name": "ONE OF US",
-        "url": "https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6"
+        "name": "STAY GLOW",
+        "url": "https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
         }
       ],
-      "duration_ms": 270868,
-      "name": "Y.O.L.O!!!!!",
-      "url": "https://open.spotify.com/track/4sHH1pvgANEqAWt2zpQKSQ"
+      "duration_ms": 244200,
+      "name": "Crow Song",
+      "url": "https://open.spotify.com/track/15rV2JsUB8w2QQP2ys5MCc"
     },
     {
       "added_at": "2023-07-27 15:00:00",
@@ -651,8 +651,8 @@
     {
       "added_at": "2023-07-27 15:00:00",
       "album": {
-        "name": "STAY GLOW",
-        "url": "https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV"
+        "name": "ONE OF US",
+        "url": "https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
         }
       ],
-      "duration_ms": 244200,
-      "name": "Crow Song",
-      "url": "https://open.spotify.com/track/15rV2JsUB8w2QQP2ys5MCc"
+      "duration_ms": 270868,
+      "name": "Y.O.L.O!!!!!",
+      "url": "https://open.spotify.com/track/4sHH1pvgANEqAWt2zpQKSQ"
     },
     {
       "added_at": "2023-07-27 15:00:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-07-27 15:00:00",
       "album": {
+        "name": "\u8ff7\u661f\u53eb",
+        "url": "https://open.spotify.com/album/0RJxReQpSLRaXxHBVD8zCG"
+      },
+      "artists": [
+        {
+          "name": "MyGO!!!!!",
+          "url": "https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq"
+        }
+      ],
+      "duration_ms": 271653,
+      "name": "\u540d\u7121\u58f0",
+      "url": "https://open.spotify.com/track/5Sy6e7DWNRJ8CH2UiY9p4Q"
+    },
+    {
+      "added_at": "2023-07-27 15:00:00",
+      "album": {
         "name": "Wahl",
         "url": "https://open.spotify.com/album/0QFCJnuyWXGoVD6MgOYLGz"
       },
@@ -1167,18 +1183,18 @@
     {
       "added_at": "2023-07-27 15:00:00",
       "album": {
-        "name": "\u8ff7\u661f\u53eb",
-        "url": "https://open.spotify.com/album/0RJxReQpSLRaXxHBVD8zCG"
+        "name": "THRONE OF ROSE",
+        "url": "https://open.spotify.com/album/5T9zAW5eBxScqxJAp12b4S"
       },
       "artists": [
         {
-          "name": "MyGO!!!!!",
-          "url": "https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq"
+          "name": "Roselia",
+          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
         }
       ],
-      "duration_ms": 271653,
-      "name": "\u540d\u7121\u58f0",
-      "url": "https://open.spotify.com/track/5Sy6e7DWNRJ8CH2UiY9p4Q"
+      "duration_ms": 232433,
+      "name": "\u4e00\u9022\u306eFull Glory",
+      "url": "https://open.spotify.com/track/7fdvlp4OsE80nmu6zE17UV"
     },
     {
       "added_at": "2023-07-27 15:00:00",
@@ -1211,22 +1227,6 @@
       "duration_ms": 230500,
       "name": "UNSTOPPABLE",
       "url": "https://open.spotify.com/track/4ESSZqnHF1VDK3zsqk2vvM"
-    },
-    {
-      "added_at": "2023-07-27 15:00:00",
-      "album": {
-        "name": "THRONE OF ROSE",
-        "url": "https://open.spotify.com/album/5T9zAW5eBxScqxJAp12b4S"
-      },
-      "artists": [
-        {
-          "name": "Roselia",
-          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
-        }
-      ],
-      "duration_ms": 232433,
-      "name": "\u4e00\u9022\u306eFull Glory",
-      "url": "https://open.spotify.com/track/7fdvlp4OsE80nmu6zE17UV"
     },
     {
       "added_at": "2023-07-27 15:00:00",

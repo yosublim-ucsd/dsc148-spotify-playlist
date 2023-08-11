@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 
 > Folk tan dulce como la miel\. Agris en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,454 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,445 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,17 +50,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 | 40 | [Ni Modo](https://open.spotify.com/track/3qyeBuydjVtFbuJA0EAjC4) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Ni Modo](https://open.spotify.com/album/5YZRghq9Z477w06ZTlxCeX) | 3:05 |
 | 41 | [ojalá </3](https://open.spotify.com/track/2Gf3SCoQqgRbxUdjsP3IP4) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [ojalá </3](https://open.spotify.com/album/0dZbJuwWFwFqXSq6BC1xes) | 2:51 |
 | 42 | [Aférrate a la Vida](https://open.spotify.com/track/68MygQgC9byQcYbfL1c62L) | [Andreu](https://open.spotify.com/artist/49pN3mdjxaRuzkwGWb8AHj), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Aférrate a la Vida](https://open.spotify.com/album/2CihWNIsCMahuxYTFt3zRx) | 3:29 |
-| 43 | [Tristeza](https://open.spotify.com/track/1MulQvxfRRNds6QE3rgaHT) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:01 |
-| 44 | [Luces De Ti](https://open.spotify.com/track/4L8Cl4jcsIgJp9rSFOHYDx) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ), [Caro Valenzuela](https://open.spotify.com/artist/1FnofQUJuuKmigKaan0XT3) | [Aroma A Nostalgia](https://open.spotify.com/album/6cneFPJP1wgyZ26tjiOeJL) | 8:34 |
+| 43 | [Luces De Ti](https://open.spotify.com/track/4L8Cl4jcsIgJp9rSFOHYDx) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ), [Caro Valenzuela](https://open.spotify.com/artist/1FnofQUJuuKmigKaan0XT3) | [Aroma A Nostalgia](https://open.spotify.com/album/6cneFPJP1wgyZ26tjiOeJL) | 8:34 |
+| 44 | [Tristeza](https://open.spotify.com/track/1MulQvxfRRNds6QE3rgaHT) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:01 |
 | 45 | [Cuánto Tiempo sin Verte](https://open.spotify.com/track/0mGQOqZlkZg5gYvIe1oAW2) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [HSN](https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam) | 2:58 |
 | 46 | [Contigo Va a Estar Bien](https://open.spotify.com/track/7DiCHaaxbePL2uUa5pNoX1) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [contigo va a estar bien](https://open.spotify.com/album/50fd7WdvrpQbSqiUqndCr9) | 3:05 |
 | 47 | [No Soy Yo](https://open.spotify.com/track/2WsqNbvR2Ej6e6ae5t62eX) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [No Soy Yo](https://open.spotify.com/album/0PVjH55QwxgCjcOxqavV09) | 3:13 |
 | 48 | [Te había contao](https://open.spotify.com/track/00pEWo382r8gERWquqG1wS) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb), [Pororó](https://open.spotify.com/artist/37rFJ6EXmC8mPSiLUS3sW3) | [Perla Rosa](https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf) | 3:38 |
-| 49 | [Clandestina \- Spotify Singles](https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl) | 3:29 |
+| 49 | [Tan Bien Que Estaba](https://open.spotify.com/track/3ozEF7ejFaLouclqb7khai) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [Tan Bien Que Estaba](https://open.spotify.com/album/6agvAr3BILtwOWJfO6i2gg) | 3:34 |
 | 50 | [Hierbas](https://open.spotify.com/track/5sero0jyQpKivJPdul9dl9) | [Amapola](https://open.spotify.com/artist/6KbbMdTNtlT7RRM81IvLr5) | [Hierbas Para la Tristeza](https://open.spotify.com/album/5ImwTLryEGcXAZ5XTKu7kK) | 2:46 |
 | 51 | [SIN TI](https://open.spotify.com/track/2Bvi1KTSvX2OlfUBbOhu1e) | [Costa de Ámbar](https://open.spotify.com/artist/4K41ddEQfjQ0XGZPA6ErMg) | [SIN TI](https://open.spotify.com/album/1Ze1iSoCDbhaRMqfuRnoMG) | 2:48 |
 | 52 | [Pasado y Olvido](https://open.spotify.com/track/6Ri2uwJoxSyRTjRipledb7) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk) | [Pasado y Olvido](https://open.spotify.com/album/3oEUqfDFc1M0ODEUmb1nhs) | 4:15 |
-| 53 | [Tan Bien Que Estaba](https://open.spotify.com/track/3ozEF7ejFaLouclqb7khai) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [Tan Bien Que Estaba](https://open.spotify.com/album/6agvAr3BILtwOWJfO6i2gg) | 3:34 |
+| 53 | [Clandestina \- Spotify Singles](https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl) | 3:29 |
 | 54 | [La Vida Nos Hizo En Pares](https://open.spotify.com/track/3gXaySyXvlEfzUNgiJJgE7) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [La Vida Nos Hizo En Pares](https://open.spotify.com/album/5K2ZzoGMtuuml2Bg2ueaZQ) | 2:57 |
 | 55 | [Te Rendiste en Mi](https://open.spotify.com/track/0avJUBhRYnqhqDWb9kBCy6) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [Te Rendiste en Mi](https://open.spotify.com/album/4KnN1SFJS4nOuyJrq76IAK) | 2:28 |
 | 56 | [Juntos](https://open.spotify.com/track/6DnmHa24M6jVBisjhyHcIs) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [HSN](https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam) | 2:40 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 | 67 | [Déjame de Matar](https://open.spotify.com/track/2fAGXnJeAgNXRzdHbEArIS) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Déjame de Matar](https://open.spotify.com/album/7q70Mz0YbW2oxJZVqSUEXK) | 3:10 |
 | 68 | [Herido :\(](https://open.spotify.com/track/3nOVioPlgs8GxvCVQJ0jKV) | [SHAO](https://open.spotify.com/artist/6rGxc2bEuNfj8aNtGh7TQS) | [Terciopelo](https://open.spotify.com/album/0uOOazj0IXyUab4OVT9rIz) | 3:43 |
 | 69 | [La Balada de Sarah Lynn](https://open.spotify.com/track/358ITOTwU2zByvL2YftgGn) | [Un León Marinero](https://open.spotify.com/artist/3r55sOwTNOxG0GIM3VAyE7) | [La Balada de Sarah Lynn](https://open.spotify.com/album/04SGJp6OGTuWtAycY4oOtY) | 2:34 |
-| 70 | [Problema](https://open.spotify.com/track/2mfLPOkmweLLN4ip9qo5lT) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Problema](https://open.spotify.com/album/6cN6qegRWQu7PVi7cY3NCV) | 2:44 |
-| 71 | [Dulce Veneno \- Sigues Aquí](https://open.spotify.com/track/2u0bUWgV8Ac8O3gnnA5xI0) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3), [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [De Todo un Poco](https://open.spotify.com/album/28FDFSEkA2zhVB5q6GL6CS) | 4:18 |
+| 70 | [Dulce Veneno \- Sigues Aquí](https://open.spotify.com/track/2u0bUWgV8Ac8O3gnnA5xI0) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3), [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [De Todo un Poco](https://open.spotify.com/album/28FDFSEkA2zhVB5q6GL6CS) | 4:18 |
+| 71 | [Problema](https://open.spotify.com/track/2mfLPOkmweLLN4ip9qo5lT) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Problema](https://open.spotify.com/album/6cN6qegRWQu7PVi7cY3NCV) | 2:44 |
 | 72 | [mejor me voy](https://open.spotify.com/track/7A57VR1nMMqRXP0BDw8JUG) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz) | [mejor me voy](https://open.spotify.com/album/2sFJkOdy6a4nA68qu3cGld) | 3:17 |
 | 73 | [Místico Desierto](https://open.spotify.com/track/5AnG5RoXwxs16RlIprIzHA) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Místico Desierto](https://open.spotify.com/album/4OUAnAu3mmXKsMSD7X0sCa) | 3:45 |
 | 74 | [Siente Lo Que Siento](https://open.spotify.com/track/1R8V7nKleObC1wq6Mf8qGc) | [Carolina en Llamas](https://open.spotify.com/artist/39SU99Gsy3k5IYpA9gXYXo) | [Siente Lo Que Siento](https://open.spotify.com/album/2ANMr0EkMlQJrwqLkBae7h) | 4:04 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 | 79 | [El Fin](https://open.spotify.com/track/0tMZaa09HA20lbBvKEkd8N) | [Karla Cruise](https://open.spotify.com/artist/1lDvMKVfuYM3tO8iAIlYrs) | [El Fin](https://open.spotify.com/album/36zytWk6zIaTL5hcrPplY8) | 2:57 |
 | 80 | [La Triste Historia de un Cazafantasmas Retirado](https://open.spotify.com/track/66upbgKkgfSxMmIWMCvL8p) | [Sad Saturno](https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d) | [La Triste Historia de un Cazafantasmas Retirado](https://open.spotify.com/album/7EoVqsPnTl7mEj3p1wMZus) | 3:34 |
 
-Snapshot ID: `MCw4NTJjOTg3YzVkZjI2MWI5Zjg5ZjJlOTMwNDEwMTJjZTE4Mjk2NDYx`
+Snapshot ID: `MCwyMjk5Yjg0MjNmYTlkOWNhYWFhOGE1YzM1MTE0NjE2NDk5Mzk4NGUz`

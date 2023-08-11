@@ -1,12 +1,12 @@
 {
   "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: MOONY(\ubb34\ub2c8)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 450044,
+  "num_followers": 450163,
   "original_name": "In The K-Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTVlMjljMjAwNTJjYjJjODVlMGRmM2Q1ZGMxYWU0NWUwZGI5MjQz",
+  "snapshot_id": "MCxiMzgyZjEyZDA4ODc5ODJkZTRiN2EzYzczYTk5YzcxMmI5Y2ZhNzk2",
   "tracks": [
     {
       "added_at": "2023-08-01 04:46:36",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-08-01 04:46:36",
       "album": {
-        "name": "5.3 (Gradation)",
-        "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 201280,
-      "name": "Gradation",
-      "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
-    },
-    {
-      "added_at": "2023-08-01 04:46:36",
-      "album": {
         "name": "GAUSSIAN",
         "url": "https://open.spotify.com/album/3z5HAU2kKo9TJFCxnj7Vw4"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 207413,
       "name": "MIMI",
       "url": "https://open.spotify.com/track/2c51tgfKYA5CLBzKZjqGA5"
+    },
+    {
+      "added_at": "2023-08-01 04:46:36",
+      "album": {
+        "name": "5.3 (Gradation)",
+        "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 201280,
+      "name": "Gradation",
+      "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
     },
     {
       "added_at": "2023-08-01 04:46:36",
@@ -375,18 +375,22 @@
     {
       "added_at": "2023-08-01 04:46:36",
       "album": {
-        "name": "Rawww",
-        "url": "https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem"
+        "name": "5.2 (Feat. LEE SUHYUN)",
+        "url": "https://open.spotify.com/album/30RJMNXikhoIuTMEqdESS0"
       },
       "artists": [
         {
-          "name": "youra",
-          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        },
+        {
+          "name": "LEE SUHYUN",
+          "url": "https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN"
         }
       ],
-      "duration_ms": 160466,
-      "name": "Rawww",
-      "url": "https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K"
+      "duration_ms": 257453,
+      "name": "Sleepless in Seoul (Feat. LEE SUHYUN)",
+      "url": "https://open.spotify.com/track/2bPHxBNkKpnehnmEBYuW9n"
     },
     {
       "added_at": "2023-08-01 04:46:36",
@@ -407,22 +411,18 @@
     {
       "added_at": "2023-08-01 04:46:36",
       "album": {
-        "name": "5.2 (Feat. LEE SUHYUN)",
-        "url": "https://open.spotify.com/album/30RJMNXikhoIuTMEqdESS0"
+        "name": "Rawww",
+        "url": "https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem"
       },
       "artists": [
         {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        },
-        {
-          "name": "LEE SUHYUN",
-          "url": "https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN"
+          "name": "youra",
+          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
         }
       ],
-      "duration_ms": 257453,
-      "name": "Sleepless in Seoul (Feat. LEE SUHYUN)",
-      "url": "https://open.spotify.com/track/2bPHxBNkKpnehnmEBYuW9n"
+      "duration_ms": 160466,
+      "name": "Rawww",
+      "url": "https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K"
     },
     {
       "added_at": "2023-08-01 04:46:36",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-08-01 04:46:36",
       "album": {
+        "name": "The Land of Fantasy",
+        "url": "https://open.spotify.com/album/3AqaCmFab2u1su982CnoQE"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "duration_ms": 222999,
+      "name": "I Know Where The Rainbow has Fallen",
+      "url": "https://open.spotify.com/track/3N0gL4EypJfzJ6txDnIrDS"
+    },
+    {
+      "added_at": "2023-08-01 04:46:36",
+      "album": {
         "name": "- x - = +",
         "url": "https://open.spotify.com/album/29UkENf2I78Np78nSQoKY7"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 181946,
       "name": "- x - = + (feat. CHOILB)",
       "url": "https://open.spotify.com/track/4LX2qcAZ2fYIYIBovSSM9U"
-    },
-    {
-      "added_at": "2023-08-01 04:46:36",
-      "album": {
-        "name": "The Land of Fantasy",
-        "url": "https://open.spotify.com/album/3AqaCmFab2u1su982CnoQE"
-      },
-      "artists": [
-        {
-          "name": "JANNABI",
-          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
-        }
-      ],
-      "duration_ms": 222999,
-      "name": "I Know Where The Rainbow has Fallen",
-      "url": "https://open.spotify.com/track/3N0gL4EypJfzJ6txDnIrDS"
     }
   ],
   "unique_name": "In The K-Indie",

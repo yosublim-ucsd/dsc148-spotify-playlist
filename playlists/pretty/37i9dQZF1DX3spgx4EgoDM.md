@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3spgx4EgoDM.md) - [plain]
 
 > ¡El mejor condimento para tus comidas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,685 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,751 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3spgx4EgoDM.md) - [plain]
 | 59 | [Me Gusta Todo De Ti](https://open.spotify.com/track/2SEYkDv8jqEVMpppKoG3mY) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [Me Gusta Todo De Ti](https://open.spotify.com/album/3kvLgFBMMD55vLEuBjJUpU) | 4:08 |
 | 60 | [Sopa de Caracol](https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Lo Mejor de Banda Blanca \- 16 Exitos](https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20) | 4:53 |
 | 61 | [Se Parece Más A Ti](https://open.spotify.com/track/4bWdlExSeKAotB6uJwxFlf) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Separece A Ti](https://open.spotify.com/album/5Bdfuz8R1s29LQyU0UOyuw) | 4:08 |
-| 62 | [Te Vas a Arrepentir](https://open.spotify.com/track/5XjusjnRecmB48YdD9BEIJ) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Los Más Queridos](https://open.spotify.com/album/6I4Hfrp7oGAXRmPjcfCAW4) | 3:23 |
-| 63 | [Corazón Solitario](https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guarachando](https://open.spotify.com/album/5uHNavgy4yM4orwoEBWMjO) | 4:04 |
+| 62 | [Corazón Solitario](https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guarachando](https://open.spotify.com/album/5uHNavgy4yM4orwoEBWMjO) | 4:04 |
+| 63 | [Te Vas a Arrepentir](https://open.spotify.com/track/5XjusjnRecmB48YdD9BEIJ) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Los Más Queridos](https://open.spotify.com/album/6I4Hfrp7oGAXRmPjcfCAW4) | 3:23 |
 | 64 | [EL Gil De Tu Ex](https://open.spotify.com/track/5hMadRUTp4S3ewaJIaI7Qo) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [En El Ojo Del Huracán](https://open.spotify.com/album/6BvsB3GWe7LlRBZyK5nBAQ) | 3:13 |
 | 65 | [No Te Contaron Mal](https://open.spotify.com/track/3kTbCMCftDxUscAi7VO4nA) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ), [Kekelandia](https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy) | [No Te Contaron Mal](https://open.spotify.com/album/1SA0I1FbYvDLQ4KJ3KORMl) | 2:56 |
 | 66 | [Llorarás Más de Diez Veces](https://open.spotify.com/track/46kxzCwAMxrneUFJJT1njt) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA), [Carolina Antiman](https://open.spotify.com/artist/290gGqoqPQYcOCD3mvL76T) | [Aún Sigue La Lección](https://open.spotify.com/album/1DJVooNQQTQFyPMJIMQxtG) | 3:31 |
@@ -84,12 +84,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3spgx4EgoDM.md) - [plain]
 | 74 | [Una Ráfaga De Amor](https://open.spotify.com/track/5C9UraxYO3LXkq7Py5NKcN) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Soplando Fuerte / Un Fenómeno Natural](https://open.spotify.com/album/2heClZNeae75Z0bcYKSKZC) | 3:02 |
 | 75 | [Cumbia Francesa](https://open.spotify.com/track/6gcI2byXyIPQM2tFybviuo) | [Grupo Saya](https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP) | [Sólo Éxitos](https://open.spotify.com/album/5hfRoSTXSY1sISkQTVc0nn) | 3:40 |
 | 76 | [Eres](https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Amor pirata](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:16 |
-| 77 | [La Cumbita](https://open.spotify.com/track/23ADuBlydh01tBQhJgMgIV) | [Tambó Tambó](https://open.spotify.com/artist/6wAk3K9nxqR0pTLGLctzQu) | [De Enero a Enero](https://open.spotify.com/album/459Jy3R3Jhm4GdpVWKGM0g) | 3:14 |
-| 78 | [Su Florcita](https://open.spotify.com/track/558S2P5A4Ku4bnXheLaXeG) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Historias](https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm) | 3:44 |
-| 79 | [Escápate Conmigo](https://open.spotify.com/track/408q39K0rnY815TF5x52tb) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [No Está en la Flecha Sino en el Indio](https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA) | 3:05 |
+| 77 | [Escápate Conmigo](https://open.spotify.com/track/408q39K0rnY815TF5x52tb) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [No Está en la Flecha Sino en el Indio](https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA) | 3:05 |
+| 78 | [La Cumbita](https://open.spotify.com/track/23ADuBlydh01tBQhJgMgIV) | [Tambó Tambó](https://open.spotify.com/artist/6wAk3K9nxqR0pTLGLctzQu) | [De Enero a Enero](https://open.spotify.com/album/459Jy3R3Jhm4GdpVWKGM0g) | 3:14 |
+| 79 | [Su Florcita](https://open.spotify.com/track/558S2P5A4Ku4bnXheLaXeG) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Historias](https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm) | 3:44 |
 | 80 | [No Podre Olvidarme](https://open.spotify.com/track/3tl8h7FZbALLLTGk5MPeHL) | [Grupo Red](https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz) | [El Color De Tu Corazón](https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv) | 3:15 |
-| 81 | [Tonta](https://open.spotify.com/track/1A1yn53ZypVPUcV4W54j8A) | [Grupo Mojado](https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7) | [25 Exitos Vol\. 1 \(USA\)](https://open.spotify.com/album/0dgNt6D4pz86nn0ZTRYoVQ) | 3:10 |
-| 82 | [Bésame](https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi) | [Bésame](https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6) | 2:22 |
+| 81 | [Bésame](https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi) | [Bésame](https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6) | 2:22 |
+| 82 | [Tonta](https://open.spotify.com/track/1A1yn53ZypVPUcV4W54j8A) | [Grupo Mojado](https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7) | [25 Exitos Vol\. 1 \(USA\)](https://open.spotify.com/album/0dgNt6D4pz86nn0ZTRYoVQ) | 3:10 |
 | 83 | [Flasheaste Amor](https://open.spotify.com/track/2ACgvo2Kx4LgWqQ2amvM5C) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1), [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt), [Lauro](https://open.spotify.com/artist/6jf90HKr9vgFgKaQ2iHGHJ) | [Flasheaste Amor](https://open.spotify.com/album/34AlPTtBDL5H8B1Dl2DgoO) | 2:55 |
 | 84 | [Porque te amo](https://open.spotify.com/track/3G26H8W47acDASCgaKQjR5) | [La Cumbia](https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev) | [Sa, Za...Sabor](https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06) | 3:53 |
 | 85 | [Fuiste](https://open.spotify.com/track/4fLd1pIpGwV4IEbQNyQMLh) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Corazón Valiente](https://open.spotify.com/album/1qeqv8V5qkNHRmhcBD5QnD) | 3:04 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3spgx4EgoDM.md) - [plain]
 | 93 | [Nunca me faltes](https://open.spotify.com/track/5XzVdBQbbexpDXQbwzxADj) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [El Maestro](https://open.spotify.com/album/4YZVnqO9i0znF8nk7DI8zK) | 4:13 |
 | 94 | [Con la Misma Moneda](https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc) | 4:26 |
 | 95 | [Vienes y Te Vas \- En Vivo](https://open.spotify.com/track/6TjT0xHmKOq0ucSuh96SKa) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Inimitable](https://open.spotify.com/album/5EzSSOaUdXxqsf4iniszNU) | 4:14 |
-| 96 | [La Ventanita](https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2) | [Grupo Sombras](https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae) | [Boquita de Caramelo](https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm) | 4:03 |
+| 96 | [Si Te Marchas, No Hay Manera](https://open.spotify.com/track/1Au0sqaCTdSjHdGkQdwQw8) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Illapu](https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx) | [En El Ojo Del Huracán](https://open.spotify.com/album/6BvsB3GWe7LlRBZyK5nBAQ) | 3:40 |
 | 97 | [La Cumbia De La Cerveza](https://open.spotify.com/track/2J0QDG9aKp41dl3nT9d9IQ) | [Grupo Sonador](https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF) | [Lo Nuevo Y…Lo Mejor](https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ) | 2:49 |
 | 98 | [Entre el Cielo Vos y Yo](https://open.spotify.com/track/1xOHKgqHqUJJSoLVqNu8OR) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [A 30 Años de una Pasión Inexplicable..\. Solo He Nacido para Amarte](https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l) | 3:17 |
-| 99 | [Si Te Marchas, No Hay Manera](https://open.spotify.com/track/1Au0sqaCTdSjHdGkQdwQw8) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Illapu](https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx) | [En El Ojo Del Huracán](https://open.spotify.com/album/6BvsB3GWe7LlRBZyK5nBAQ) | 3:40 |
+| 99 | [La Ventanita](https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2) | [Grupo Sombras](https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae) | [Boquita de Caramelo](https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm) | 4:03 |
 | 100 | [Iluminará](https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Grandes Éxitos Regrabados](https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr) | 4:02 |
 
-Snapshot ID: `MCw3ZDgxNzE3NDBiYTY1M2VjNDYxMjdhZGJiN2NhMGJkYWI1ZjQyMjAx`
+Snapshot ID: `MCw0MDUxMzhlMDBkZDZmMDU2MTFkNWY4N2Q2ZTU3YjM3NzM0MmE5NWEz`

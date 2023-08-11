@@ -599,6 +599,24 @@
     },
     {
       "album": {
+        "name": "Anti-Hero",
+        "url": "https://open.spotify.com/album/4frVM4kdubuOKtEozblrcY"
+      },
+      "artists": [
+        {
+          "name": "Korina Bedoya",
+          "url": "https://open.spotify.com/artist/4NGAeafqorkBEwYlBZHnpt"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183375,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/3RxfF2edq7exdBu3qJMsRX"
+    },
+    {
+      "album": {
         "name": "Anti-Hero & Lavender Haze (Piano)",
         "url": "https://open.spotify.com/album/7yVTF1IUDLKSsNioDAZrzW"
       },
@@ -905,6 +923,24 @@
     },
     {
       "album": {
+        "name": "Beautiful day",
+        "url": "https://open.spotify.com/album/0RlsiytRwYEp3gu4R7AgzN"
+      },
+      "artists": [
+        {
+          "name": "Heather Riley",
+          "url": "https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182270,
+      "name": "Beautiful day",
+      "url": "https://open.spotify.com/track/7tvFtyI2LhuDAWWJA4mVqr"
+    },
+    {
+      "album": {
         "name": "Beauty And The Beast",
         "url": "https://open.spotify.com/album/3P5y0GZyb6kp6GCJDqjtLm"
       },
@@ -1024,7 +1060,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 178156,
       "name": "Blank Space",
       "url": "https://open.spotify.com/track/5G8tm3mLG5XqhcVbdpft3A"
@@ -1366,7 +1402,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 192312,
       "name": "Careless Whisper",
       "url": "https://open.spotify.com/track/3WpgHSVHeSPJXRLSYDJ2kW"
@@ -1640,6 +1676,24 @@
       "duration_ms": 257890,
       "name": "Danny Boy",
       "url": "https://open.spotify.com/track/5iX5XoYIjAtD4oLlfQlSuw"
+    },
+    {
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/1bM7suwHGrwnaYMfVz1r6J"
+      },
+      "artists": [
+        {
+          "name": "Alexander Gresham",
+          "url": "https://open.spotify.com/artist/3oF3p8Hna0Ly0WWrnseRNN"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194124,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/5rBKVZEtA8PK6nTQ3O0DlN"
     },
     {
       "album": {
@@ -2896,7 +2950,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 111250,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/4XEUSUpttuCvxb7GRjJ25m"
@@ -3170,6 +3224,24 @@
       "duration_ms": 213489,
       "name": "Here comes the sun",
       "url": "https://open.spotify.com/track/4pEQKbooMLwdyqQ13gTQfx"
+    },
+    {
+      "album": {
+        "name": "Here, There And Everywhere",
+        "url": "https://open.spotify.com/album/7vmJ347oe0AC58vdpX58WP"
+      },
+      "artists": [
+        {
+          "name": "Lo Larsen",
+          "url": "https://open.spotify.com/artist/1RsZrWsACeuDkqAISdeFDi"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174824,
+      "name": "Here, There And Everywhere",
+      "url": "https://open.spotify.com/track/4PNvy26PrRrzBp2W8CfI4f"
     },
     {
       "album": {
@@ -4408,7 +4480,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 195624,
       "name": "La Isla Bonita",
       "url": "https://open.spotify.com/track/1tBe56PF0tk8GsNkMMWZqN"
@@ -5794,7 +5866,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 220696,
       "name": "Purple Rain - Piano Version",
       "url": "https://open.spotify.com/track/1ty7L5N7si6ly9YQLZpD8J"
@@ -6676,7 +6748,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 121000,
       "name": "Stay Awake - from Mary Poppins",
       "url": "https://open.spotify.com/track/1Iv7MmldOIPHZS3DuOtv6E"
@@ -7342,7 +7414,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 153443,
       "name": "The Sound of Silence",
       "url": "https://open.spotify.com/track/6LwO9pzd8TTZ5SIUnmG5N9"
@@ -7566,6 +7638,24 @@
     {
       "album": {
         "name": "Time After Time",
+        "url": "https://open.spotify.com/album/23WDOySnRgaPm2bSVL1TQE"
+      },
+      "artists": [
+        {
+          "name": "Brennan Lynch",
+          "url": "https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137233,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/65zEpvMz472JlzqnskNhn1"
+    },
+    {
+      "album": {
+        "name": "Time After Time",
         "url": "https://open.spotify.com/album/6cjrLvyi1OzHrgioiMY3IN"
       },
       "artists": [
@@ -7738,7 +7828,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 175118,
       "name": "True Colors - Piano Version",
       "url": "https://open.spotify.com/track/047B5xypjW3iozKNgJgHMK"
@@ -8062,7 +8152,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 194136,
       "name": "What A Wonderful World",
       "url": "https://open.spotify.com/track/69bWzUfWI7uL17QFyrqkGN"

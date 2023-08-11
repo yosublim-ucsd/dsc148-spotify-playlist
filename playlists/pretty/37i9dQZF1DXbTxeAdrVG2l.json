@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs of the 1990s. Cover: Sheryl Crow.",
-  "num_followers": 7865965,
+  "num_followers": 7867034,
   "original_name": "All Out 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZWI3NmQ0NDBhMTc5ZGViNzg2YTM3ZmZhMmM5NzIwZjYzMWJiNjY3",
+  "snapshot_id": "MCxhODJmMjcyOTgzNzQyOTFmZDMyMzkxMGQ3MDM0YzdhYzIxNmJhMzdm",
   "tracks": [
     {
       "added_at": "2022-12-22 14:12:20",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
-        "name": "August And Everything After",
-        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
-      },
-      "artists": [
-        {
-          "name": "Counting Crows",
-          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
-        }
-      ],
-      "duration_ms": 272293,
-      "name": "Mr. Jones",
-      "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
-    },
-    {
-      "added_at": "2022-12-22 14:12:20",
-      "album": {
         "name": "First Band On The Moon (Remastered)",
         "url": "https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 193953,
       "name": "Lovefool",
       "url": "https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD"
+    },
+    {
+      "added_at": "2022-12-22 14:12:20",
+      "album": {
+        "name": "August And Everything After",
+        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
+      },
+      "artists": [
+        {
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+        }
+      ],
+      "duration_ms": 272293,
+      "name": "Mr. Jones",
+      "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
     },
     {
       "added_at": "2022-12-22 14:12:20",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
-        "name": "Who Needs Guitars Anyway?",
-        "url": "https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU"
-      },
-      "artists": [
-        {
-          "name": "Alice Deejay",
-          "url": "https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED"
-        }
-      ],
-      "duration_ms": 214883,
-      "name": "Better Off Alone",
-      "url": "https://open.spotify.com/track/5XVjNRubJUW0iPhhSWpLCj"
-    },
-    {
-      "added_at": "2022-12-22 14:12:20",
-      "album": {
         "name": "Nevermind (Remastered)",
         "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 218920,
       "name": "Come As You Are",
       "url": "https://open.spotify.com/track/4P5KoWXOxwuobLmHXLMobV"
+    },
+    {
+      "added_at": "2022-12-22 14:12:20",
+      "album": {
+        "name": "Who Needs Guitars Anyway?",
+        "url": "https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU"
+      },
+      "artists": [
+        {
+          "name": "Alice Deejay",
+          "url": "https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED"
+        }
+      ],
+      "duration_ms": 214883,
+      "name": "Better Off Alone",
+      "url": "https://open.spotify.com/track/5XVjNRubJUW0iPhhSWpLCj"
     },
     {
       "added_at": "2022-12-22 14:12:20",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
-        "name": "Seal",
-        "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
-      },
-      "artists": [
-        {
-          "name": "Seal",
-          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
-        }
-      ],
-      "duration_ms": 288426,
-      "name": "Kiss from a Rose",
-      "url": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"
-    },
-    {
-      "added_at": "2022-12-22 14:12:20",
-      "album": {
         "name": "Life Thru A Lens",
         "url": "https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 265000,
       "name": "Angels",
       "url": "https://open.spotify.com/track/1M2nd8jNUkkwrc1dgBPTJz"
+    },
+    {
+      "added_at": "2022-12-22 14:12:20",
+      "album": {
+        "name": "Seal",
+        "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
+      },
+      "artists": [
+        {
+          "name": "Seal",
+          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
+        }
+      ],
+      "duration_ms": 288426,
+      "name": "Kiss from a Rose",
+      "url": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"
     },
     {
       "added_at": "2022-12-22 14:12:20",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
-        "name": "Blazzin' Fire",
-        "url": "https://open.spotify.com/album/0zLd8jpRt4m6FWCu81Fb9n"
-      },
-      "artists": [
-        {
-          "name": "Inner Circle",
-          "url": "https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx"
-        }
-      ],
-      "duration_ms": 227067,
-      "name": "Sweat (A La La La La Long)",
-      "url": "https://open.spotify.com/track/1SssFw74DdHVjRa6ADggdD"
-    },
-    {
-      "added_at": "2022-12-22 14:12:20",
-      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of Semisonic",
         "url": "https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 218546,
       "name": "Jump Around - 30 Years Remaster",
       "url": "https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq"
+    },
+    {
+      "added_at": "2022-12-22 14:12:20",
+      "album": {
+        "name": "Blazzin' Fire",
+        "url": "https://open.spotify.com/album/0zLd8jpRt4m6FWCu81Fb9n"
+      },
+      "artists": [
+        {
+          "name": "Inner Circle",
+          "url": "https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx"
+        }
+      ],
+      "duration_ms": 227067,
+      "name": "Sweat (A La La La La Long)",
+      "url": "https://open.spotify.com/track/1SssFw74DdHVjRa6ADggdD"
     },
     {
       "added_at": "2022-12-22 14:12:20",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
-        "name": "We See The Same Sun",
-        "url": "https://open.spotify.com/album/2aMWSTZkHdS6mR28WtpuxY"
-      },
-      "artists": [
-        {
-          "name": "Mr. President",
-          "url": "https://open.spotify.com/artist/7KBkgunlONG7LPxs93pgpp"
-        }
-      ],
-      "duration_ms": 218733,
-      "name": "Coco Jamboo",
-      "url": "https://open.spotify.com/track/5fRvePkRGdpn2nKacG7I6d"
-    },
-    {
-      "added_at": "2022-12-22 14:12:20",
-      "album": {
         "name": "Please Hammer Don't Hurt 'Em",
         "url": "https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 257359,
       "name": "U Can't Touch This",
       "url": "https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu"
+    },
+    {
+      "added_at": "2022-12-22 14:12:20",
+      "album": {
+        "name": "We See The Same Sun",
+        "url": "https://open.spotify.com/album/2aMWSTZkHdS6mR28WtpuxY"
+      },
+      "artists": [
+        {
+          "name": "Mr. President",
+          "url": "https://open.spotify.com/artist/7KBkgunlONG7LPxs93pgpp"
+        }
+      ],
+      "duration_ms": 218733,
+      "name": "Coco Jamboo",
+      "url": "https://open.spotify.com/track/5fRvePkRGdpn2nKacG7I6d"
     },
     {
       "added_at": "2022-12-22 14:12:20",
@@ -1967,6 +1967,22 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
+        "name": "Falling into You",
+        "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 273666,
+      "name": "Because You Loved Me (Theme from \"Up Close and Personal\")",
+      "url": "https://open.spotify.com/track/28UMiBhn383n9S7GL4tsxD"
+    },
+    {
+      "added_at": "2022-12-22 14:12:20",
+      "album": {
         "name": "Never Say Never",
         "url": "https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi"
       },
@@ -1983,22 +1999,6 @@
       "duration_ms": 294786,
       "name": "The Boy Is Mine",
       "url": "https://open.spotify.com/track/6sHsXIJoEN5JpdkGMQDJxt"
-    },
-    {
-      "added_at": "2022-12-22 14:12:20",
-      "album": {
-        "name": "Falling into You",
-        "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 273666,
-      "name": "Because You Loved Me (Theme from \"Up Close and Personal\")",
-      "url": "https://open.spotify.com/track/28UMiBhn383n9S7GL4tsxD"
     },
     {
       "added_at": "2022-12-22 14:12:20",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 195080,
-      "name": "Streets of Philadelphia - Single Edit",
-      "url": "https://open.spotify.com/track/3fbnbn6A5O5RNb08tlUEgd"
-    },
-    {
-      "added_at": "2022-12-22 14:12:20",
-      "album": {
         "name": "The Score (Expanded Edition)",
         "url": "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 226986,
       "name": "Ready or Not",
       "url": "https://open.spotify.com/track/3vZO25GdYuqFrR1kzZADnp"
+    },
+    {
+      "added_at": "2022-12-22 14:12:20",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 195080,
+      "name": "Streets of Philadelphia - Single Edit",
+      "url": "https://open.spotify.com/track/3fbnbn6A5O5RNb08tlUEgd"
     },
     {
       "added_at": "2022-12-22 14:12:20",
@@ -2111,22 +2111,6 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
-        "name": "Tragic Kingdom",
-        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "Just A Girl",
-      "url": "https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7"
-    },
-    {
-      "added_at": "2022-12-22 14:12:20",
-      "album": {
         "name": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
         "url": "https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 284160,
       "name": "They Don't Care About Us",
       "url": "https://open.spotify.com/track/3wuCCNCnBhJlwkIJTBZFiv"
+    },
+    {
+      "added_at": "2022-12-22 14:12:20",
+      "album": {
+        "name": "Tragic Kingdom",
+        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "Just A Girl",
+      "url": "https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7"
     },
     {
       "added_at": "2022-12-22 14:12:20",
@@ -2207,22 +2207,6 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
-        "name": "Tal Bachman",
-        "url": "https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD"
-      },
-      "artists": [
-        {
-          "name": "Tal Bachman",
-          "url": "https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW"
-        }
-      ],
-      "duration_ms": 224693,
-      "name": "She's so High",
-      "url": "https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR"
-    },
-    {
-      "added_at": "2022-12-22 14:12:20",
-      "album": {
         "name": "Use Your Illusion I",
         "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
       },
@@ -2235,6 +2219,22 @@
       "duration_ms": 182733,
       "name": "Live And Let Die",
       "url": "https://open.spotify.com/track/0rFWuqFgHAfuzE8uSB9TWR"
+    },
+    {
+      "added_at": "2022-12-22 14:12:20",
+      "album": {
+        "name": "Tal Bachman",
+        "url": "https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD"
+      },
+      "artists": [
+        {
+          "name": "Tal Bachman",
+          "url": "https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW"
+        }
+      ],
+      "duration_ms": 224693,
+      "name": "She's so High",
+      "url": "https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR"
     },
     {
       "added_at": "2022-12-22 14:12:20",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
-        "name": "Cracked Rear View",
-        "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
-      },
-      "artists": [
-        {
-          "name": "Hootie & The Blowfish",
-          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
-        }
-      ],
-      "duration_ms": 229586,
-      "name": "Only Wanna Be With You",
-      "url": "https://open.spotify.com/track/1OFKUn2VLafrHj7ybnap0Q"
-    },
-    {
-      "added_at": "2022-12-22 14:12:20",
-      "album": {
         "name": "Falling into You",
         "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
       },
@@ -2287,18 +2271,18 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
-        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
-        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
+        "name": "Cracked Rear View",
+        "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
       },
       "artists": [
         {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+          "name": "Hootie & The Blowfish",
+          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
         }
       ],
-      "duration_ms": 289560,
-      "name": "Don't Look Back In Anger - Remastered",
-      "url": "https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl"
+      "duration_ms": 229586,
+      "name": "Only Wanna Be With You",
+      "url": "https://open.spotify.com/track/1OFKUn2VLafrHj7ybnap0Q"
     },
     {
       "added_at": "2022-12-22 14:12:20",
@@ -2315,6 +2299,22 @@
       "duration_ms": 242266,
       "name": "Back for Good - Radio Mix",
       "url": "https://open.spotify.com/track/6vcdzohhBSbNdsZBh5IRpQ"
+    },
+    {
+      "added_at": "2022-12-22 14:12:20",
+      "album": {
+        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 289560,
+      "name": "Don't Look Back In Anger - Remastered",
+      "url": "https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl"
     },
     {
       "added_at": "2022-12-22 14:12:20",

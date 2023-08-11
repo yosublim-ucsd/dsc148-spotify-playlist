@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYY963019MQr.md) - [plain]
 
 > Relaxing Jazz guitar for focus, study or unwinding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,874 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,924 likes - 79 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,18 +41,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYY963019MQr.md) - [plain]
 | 31 | [When It's Sleepy Time Down South](https://open.spotify.com/track/6AyUZf6QlPpOJLETzK9wkr) | [Howard Alden](https://open.spotify.com/artist/7sgBK9xjqtnAFTfm2SvWMR), [Helmut Nieberle](https://open.spotify.com/artist/7xDNjmM5Q34OUfblDBD1EO) | [Timelines](https://open.spotify.com/album/7rjsl9oej89UpkhFciGwFY) | 3:20 |
 | 32 | [Just Friends](https://open.spotify.com/track/3tHg7ih7aOsHUSMEImsLhU) | [Jim Stolar](https://open.spotify.com/artist/5hWUYUBGBKYhVolIy0DC5O) | [Just Friends](https://open.spotify.com/album/7HTSR4JClDS0r16RrLpmKE) | 2:26 |
 | 33 | [This World](https://open.spotify.com/track/2hUILUOnp0zo8II8TcawL0) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [This World](https://open.spotify.com/album/17liHgNayApFU9mD9uLKyX) | 4:19 |
-| 34 | [Pretty Stars](https://open.spotify.com/track/4iEj3gYqRBz4mSpVGEj0fY) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Music IS](https://open.spotify.com/album/5ngpdhJLdTnAPBV03GgOLb) | 3:57 |
-| 35 | [From Now On](https://open.spotify.com/track/1Qu7rDnLl6yAIQy4c9cJoO) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [This Is Jazz \#9](https://open.spotify.com/album/2D2myh79CK6dKYUEIfMVsB) | 2:20 |
-| 36 | [Floating Upstreams](https://open.spotify.com/track/5vhAoUrsxJZfiHQK8Tpx1y) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Autumn Skies](https://open.spotify.com/album/1kgfE8meNls51OZ8Tmv602) | 2:51 |
-| 37 | [Lament](https://open.spotify.com/track/4vZhchoL2XrWUwROtCLygh) | [Pat Martino](https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz) | [We'll Be Together Again](https://open.spotify.com/album/0ucCtWHiorF9dyVIt9FxNL) | 5:01 |
-| 38 | [Smoke Gets in Your Eyes](https://open.spotify.com/track/36tUJgvDYEJtpgYs1roAVm) | [Höper & Lundgren](https://open.spotify.com/artist/5zdwXdtL9IXBWVVthJvHjE) | [Smoke Gets in Your Eyes](https://open.spotify.com/album/17gnlKQo8B8l1FIMSMWt6q) | 2:30 |
-| 39 | [Stella By Starlight](https://open.spotify.com/track/1odlIHMNi8SojfmRu1Pnj6) | [Layton Rooney](https://open.spotify.com/artist/37m6uzbF7zcPAeVlD9bNy9) | [Stella By Starlight](https://open.spotify.com/album/3MHrBUtYPA1pzK9pW2InrB) | 2:51 |
+| 34 | [From Now On](https://open.spotify.com/track/1Qu7rDnLl6yAIQy4c9cJoO) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [This Is Jazz \#9](https://open.spotify.com/album/2D2myh79CK6dKYUEIfMVsB) | 2:20 |
+| 35 | [Floating Upstreams](https://open.spotify.com/track/5vhAoUrsxJZfiHQK8Tpx1y) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Autumn Skies](https://open.spotify.com/album/1kgfE8meNls51OZ8Tmv602) | 2:51 |
+| 36 | [Lament](https://open.spotify.com/track/4vZhchoL2XrWUwROtCLygh) | [Pat Martino](https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz) | [We'll Be Together Again](https://open.spotify.com/album/0ucCtWHiorF9dyVIt9FxNL) | 5:01 |
+| 37 | [Smoke Gets in Your Eyes](https://open.spotify.com/track/36tUJgvDYEJtpgYs1roAVm) | [Höper & Lundgren](https://open.spotify.com/artist/5zdwXdtL9IXBWVVthJvHjE) | [Smoke Gets in Your Eyes](https://open.spotify.com/album/17gnlKQo8B8l1FIMSMWt6q) | 2:30 |
+| 38 | [Stella By Starlight](https://open.spotify.com/track/1odlIHMNi8SojfmRu1Pnj6) | [Layton Rooney](https://open.spotify.com/artist/37m6uzbF7zcPAeVlD9bNy9) | [Stella By Starlight](https://open.spotify.com/album/3MHrBUtYPA1pzK9pW2InrB) | 2:51 |
+| 39 | [Pretty Stars](https://open.spotify.com/track/4iEj3gYqRBz4mSpVGEj0fY) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Music IS](https://open.spotify.com/album/5ngpdhJLdTnAPBV03GgOLb) | 3:57 |
 | 40 | [Danny Boy \(Londonderry Air\)](https://open.spotify.com/track/1vhdWXJNjlsgaSRdSpqsYh) | [Ted Greene](https://open.spotify.com/artist/5GPOtnbe7RBHBUur5OzpO3) | [Solo Guitar](https://open.spotify.com/album/7fSp1R10Hsbtcfa3tvRdDX) | 4:51 |
 | 41 | [Ask Me Now](https://open.spotify.com/track/1JRBmuvgDW9rcoJst2oJre) | [Teemu Viinikainen](https://open.spotify.com/artist/0OgaFFwXXVXsIpAaPS2EBR) | [Ask Me Now](https://open.spotify.com/album/0DBEAQOu9OhVK4BUE3tiJf) | 2:30 |
-| 42 | [Autumn Leaves](https://open.spotify.com/track/609aYx7tX9W22UwKaH7CRK) | [Erik Faelt](https://open.spotify.com/artist/1ML8LCQGl0s8S4IECHztk1) | [My Romance](https://open.spotify.com/album/08n5jSurl6yZPKmPlwr5Ru) | 2:49 |
-| 43 | [Have You Met Miss Jones?](https://open.spotify.com/track/0FzscnPl4utP0vONzitk5J) | [Kevin Richard](https://open.spotify.com/artist/0rH3yL76S15p46AsE3jQL8) | [Have You Met Miss Jones?](https://open.spotify.com/album/6xpcssp9Q6hcgyC7upWVFo) | 2:24 |
-| 44 | [Candlelight](https://open.spotify.com/track/1C57YMNutdZLFayXh2ZXHG) | [Samio](https://open.spotify.com/artist/0kYSqcF80y3iL7leXg9Gt7) | [Candlelight](https://open.spotify.com/album/3tsZCGdzSDK4ertVgrndhh) | 3:23 |
-| 45 | [Mellow D](https://open.spotify.com/track/3pjT3Pa3yTlouX3VhkmC5z) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Berlin Baritone](https://open.spotify.com/album/20SPYDVOBZtlUWqzKXUUuv) | 3:56 |
+| 42 | [Have You Met Miss Jones?](https://open.spotify.com/track/0FzscnPl4utP0vONzitk5J) | [Kevin Richard](https://open.spotify.com/artist/0rH3yL76S15p46AsE3jQL8) | [Have You Met Miss Jones?](https://open.spotify.com/album/6xpcssp9Q6hcgyC7upWVFo) | 2:24 |
+| 43 | [Candlelight](https://open.spotify.com/track/1C57YMNutdZLFayXh2ZXHG) | [Samio](https://open.spotify.com/artist/0kYSqcF80y3iL7leXg9Gt7) | [Candlelight](https://open.spotify.com/album/3tsZCGdzSDK4ertVgrndhh) | 3:23 |
+| 44 | [Mellow D](https://open.spotify.com/track/3pjT3Pa3yTlouX3VhkmC5z) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Berlin Baritone](https://open.spotify.com/album/20SPYDVOBZtlUWqzKXUUuv) | 3:56 |
+| 45 | [Autumn Leaves](https://open.spotify.com/track/609aYx7tX9W22UwKaH7CRK) | [Erik Faelt](https://open.spotify.com/artist/1ML8LCQGl0s8S4IECHztk1) | [My Romance](https://open.spotify.com/album/08n5jSurl6yZPKmPlwr5Ru) | 2:49 |
 | 46 | [My Foolish Heart](https://open.spotify.com/track/3zsM3SaQiMxd3IEUeQ1L5n) | [Ralph Towner](https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535) | [My Foolish Heart](https://open.spotify.com/album/1E2MNk4Xg8YA7EBlYsuTQQ) | 3:51 |
 | 47 | [Afternoon In Berlin](https://open.spotify.com/track/2kjYRFfJ5Cv2nmT2YZCano) | [The Cloud](https://open.spotify.com/artist/5XxGygPJsu9sVpxe4R97k9) | [Afternoon In Berlin](https://open.spotify.com/album/3utbeoogeyZcYP90jozKRb) | 2:43 |
 | 48 | [Lullaby](https://open.spotify.com/track/7HScvgX9U8pdX3fD1J6HYs) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [World's Fair](https://open.spotify.com/album/1YlIUjf2RiZfLzvK7Db7mi) | 3:00 |
@@ -86,7 +86,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYY963019MQr.md) - [plain]
 | 76 | [Bali](https://open.spotify.com/track/0gIQviarG5RlZbvCxfpHKL) | [Isato Nakagawa](https://open.spotify.com/artist/7H7kbnGiqnG8GYDtDALthl) | [Tree Circle](https://open.spotify.com/album/6scj26E3tVRTzcBkkx5qRB) | 5:48 |
 | 77 | [Long Ago And Far Away](https://open.spotify.com/track/2GN0YOypfok9DMvcLVsS4Z) | [Jay Peters](https://open.spotify.com/artist/4TSsVmOkMQ992fO3eHBdBd) | [Long Ago And Far Away](https://open.spotify.com/album/7aEPMdry8sK5XdfhLXdy10) | 2:11 |
 | 78 | [London Plane](https://open.spotify.com/track/38OyAHWRjAiges8oGXng5c) | [Samio](https://open.spotify.com/artist/0kYSqcF80y3iL7leXg9Gt7) | [Candlelight](https://open.spotify.com/album/3tsZCGdzSDK4ertVgrndhh) | 3:09 |
-| 79 | [My Favorite Things](https://open.spotify.com/track/1lPh8cvsT4TaRZxtJ7Mcfb) | [Kevin Richard](https://open.spotify.com/artist/0rH3yL76S15p46AsE3jQL8) | [My Favorite Things](https://open.spotify.com/album/7ezSR5lXvnK7H6na0exbbt) | 3:26 |
-| 80 | [Waltz for Debbie](https://open.spotify.com/track/51Nyi9QizVyl5W9WViPPBp) | [CJ Smalls](https://open.spotify.com/artist/1kU7znDIPF92VLFCg7VAq1) | [Waltz for Debbie](https://open.spotify.com/album/11Ejo3kH23ajb1h4PFsXga) | 3:04 |
+| 79 | [Waltz for Debbie](https://open.spotify.com/track/51Nyi9QizVyl5W9WViPPBp) | [CJ Smalls](https://open.spotify.com/artist/1kU7znDIPF92VLFCg7VAq1) | [Waltz for Debbie](https://open.spotify.com/album/11Ejo3kH23ajb1h4PFsXga) | 3:04 |
 
-Snapshot ID: `MCw4ZDM0NzYwZjljNWU0ZmJiMTVmNDBkNDQ3NTc2ODI3YTRhYjdkZGMx`
+Snapshot ID: `MCxkN2VmNTIzMjg5ZWNhNTlhMTQ2ZDUwMzJiNGRmZTYyOWJiNzIyNDBk`

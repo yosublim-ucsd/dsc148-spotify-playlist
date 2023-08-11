@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 
 > Músicas calminhas pra começar o dia bem relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,455 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,929 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 | 11 | [Quando Bate Aquela Saudade](https://open.spotify.com/track/76bcaYeKOKTrj9lEc9BZFU) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Pearl](https://open.spotify.com/album/25fli8PlxpP10WpirvDpMT) | 6:34 |
 | 12 | [A noite](https://open.spotify.com/track/06XSmh92M0FIYNGC4Ss0CX) | [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7) | [Esmeraldas \(Álbum Comentado\)](https://open.spotify.com/album/6EtAuxIwZCEuUZEqn2DwII) | 3:38 |
 | 13 | [4 da manhã](https://open.spotify.com/track/5xVJU6DJHnmHnbbKS56yCC) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2) | [4 da manhã](https://open.spotify.com/album/4pbbrNIhUdWxLYmd46lhVl) | 3:36 |
-| 14 | [Vilarejo](https://open.spotify.com/track/4qvUtYRNwmFzfJ2loWkQCH) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Infinito Particular](https://open.spotify.com/album/4vJUBwgIaG2AD5rP32O730) | 3:29 |
-| 15 | [TE AMO \(em caixa alta\)](https://open.spotify.com/track/2rvcLxmsRZG3jQQPyW3yvu) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Melhor Agora](https://open.spotify.com/album/71GFZXdtEJiLy3KH4GfLOi) | 2:32 |
+| 14 | [TE AMO \(em caixa alta\)](https://open.spotify.com/track/2rvcLxmsRZG3jQQPyW3yvu) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Melhor Agora](https://open.spotify.com/album/71GFZXdtEJiLy3KH4GfLOi) | 2:32 |
+| 15 | [Vilarejo](https://open.spotify.com/track/4qvUtYRNwmFzfJ2loWkQCH) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Infinito Particular](https://open.spotify.com/album/4vJUBwgIaG2AD5rP32O730) | 3:29 |
 | 16 | [Céu Azul](https://open.spotify.com/track/2GvbK34eLArbttr0bXRu4l) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Céu Azul](https://open.spotify.com/album/6h1YceFakmfDMsTqVDNp1N) | 3:28 |
 | 17 | [Partilhar](https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Partilhar](https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN) | 4:22 |
 | 18 | [Pra Sonhar](https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe) | [Marcelo Jeneci](https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE), [Laura Lavieri](https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za) | [Feito Pra Acabar](https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO) | 4:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 | 49 | [Amado](https://open.spotify.com/track/1UehyRYWHQxfj52XJbswIv) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Sim](https://open.spotify.com/album/36fWvul2SzklDegMxkLRyC) | 4:09 |
 | 50 | [Zero](https://open.spotify.com/track/7Jl757vT5eNqemc6PtY2dA) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n) | [Cru](https://open.spotify.com/album/7wYN6lMpcVx2maHSGc2yQb) | 6:04 |
 
-Snapshot ID: `MCw5MmFkMjUwZjk3MTQ2MjZjNDM3MDI3NTgyNzE1N2RjMGEwNzY2MzUw`
+Snapshot ID: `MCxlMjA5YzI1MWVlZWY1ZmVkOWM2YzA1NWIxNDNiNmFjZjQ0NjQwNGQw`

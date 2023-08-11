@@ -1,12 +1,12 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o.",
-  "num_followers": 118950,
+  "num_followers": 119015,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjRmNmE1NTc1N2EzZmVkZGUwYjc4ZDVlMjRiNmFhOTZjNDZkMjFj",
+  "snapshot_id": "MCwyMWYxYTUyY2EzM2FlMDA0OWUxYzgxN2Y2NDA3ZWNhNTFjN2M3YTc4",
   "tracks": [
     {
       "added_at": "2023-07-28 03:01:00",
@@ -831,26 +831,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "LONGE DEMAIS",
-        "url": "https://open.spotify.com/album/388OrmfCf6uH9hlLRxovk0"
-      },
-      "artists": [
-        {
-          "name": "Mateca",
-          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 181875,
-      "name": "LONGE DEMAIS",
-      "url": "https://open.spotify.com/track/7GojLrZd9lFGVWawPwj4t0"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "Bail\u00e3o",
         "url": "https://open.spotify.com/album/6Y0lWZcXvfvSHkJwsNFLwp"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 210616,
       "name": "Bail\u00e3o",
       "url": "https://open.spotify.com/track/5dpFeWLyIjhJupWAG7U5PX"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "LONGE DEMAIS",
+        "url": "https://open.spotify.com/album/388OrmfCf6uH9hlLRxovk0"
+      },
+      "artists": [
+        {
+          "name": "Mateca",
+          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 181875,
+      "name": "LONGE DEMAIS",
+      "url": "https://open.spotify.com/track/7GojLrZd9lFGVWawPwj4t0"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
+        "name": "Ok Baby",
+        "url": "https://open.spotify.com/album/0N8j8hvyEfBrQbBPMhNGD9"
+      },
+      "artists": [
+        {
+          "name": "Japa",
+          "url": "https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "Ok Baby",
+      "url": "https://open.spotify.com/track/6EHSC5FGDVtL3LPcHkZQCi"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
         "name": "Menino Ney",
         "url": "https://open.spotify.com/album/3IWRs9fZhKc4i7lCkqNPHU"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 139636,
       "name": "Menino Ney",
       "url": "https://open.spotify.com/track/3n7ASTQanOp5milmESBqlt"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
-        "name": "Ok Baby",
-        "url": "https://open.spotify.com/album/0N8j8hvyEfBrQbBPMhNGD9"
-      },
-      "artists": [
-        {
-          "name": "Japa",
-          "url": "https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "Ok Baby",
-      "url": "https://open.spotify.com/track/6EHSC5FGDVtL3LPcHkZQCi"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1795,26 +1795,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Apoteose",
-        "url": "https://open.spotify.com/album/5zLYG5pdbwVyQD96FYgGdQ"
-      },
-      "artists": [
-        {
-          "name": "Mateca",
-          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
-        },
-        {
-          "name": "MC Caverinha",
-          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
-        }
-      ],
-      "duration_ms": 176888,
-      "name": "Probleminha",
-      "url": "https://open.spotify.com/track/1zCJZUgIsBrs1wlKTm52oo"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "De Novo",
         "url": "https://open.spotify.com/album/0pEgo6T1sl8cNedAREKVS7"
       },
@@ -1839,54 +1819,22 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Modo Trapa\u00e7a",
-        "url": "https://open.spotify.com/album/4zKBStIg0K3ZoPDQHq1IIQ"
+        "name": "Apoteose",
+        "url": "https://open.spotify.com/album/5zLYG5pdbwVyQD96FYgGdQ"
       },
       "artists": [
         {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+          "name": "Mateca",
+          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
         },
         {
-          "name": "Original Quality",
-          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
-        },
-        {
-          "name": "Cita",
-          "url": "https://open.spotify.com/artist/3SJnySPOzMoVzk9R59d8Vv"
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Modo Trapa\u00e7a",
-      "url": "https://open.spotify.com/track/3OAOGZwWMzP24qefZmPYWR"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/0ujQ7p7VDbqL9YpAhIb4dO"
-      },
-      "artists": [
-        {
-          "name": "UCL\u00c3",
-          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
-        },
-        {
-          "name": "Sueth",
-          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
-        },
-        {
-          "name": "Sos",
-          "url": "https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK"
-        },
-        {
-          "name": "Sobs",
-          "url": "https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9"
-        }
-      ],
-      "duration_ms": 215160,
-      "name": "21",
-      "url": "https://open.spotify.com/track/2lLygaAejjDX1yMt5XuMGG"
+      "duration_ms": 176888,
+      "name": "Probleminha",
+      "url": "https://open.spotify.com/track/1zCJZUgIsBrs1wlKTm52oo"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1919,6 +1867,58 @@
       "duration_ms": 165600,
       "name": "Drink Azul",
       "url": "https://open.spotify.com/track/2rIUgXHdMeQb6i8TFKrGOK"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/0ujQ7p7VDbqL9YpAhIb4dO"
+      },
+      "artists": [
+        {
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        },
+        {
+          "name": "Sueth",
+          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
+        },
+        {
+          "name": "Sos",
+          "url": "https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK"
+        },
+        {
+          "name": "Sobs",
+          "url": "https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9"
+        }
+      ],
+      "duration_ms": 215160,
+      "name": "21",
+      "url": "https://open.spotify.com/track/2lLygaAejjDX1yMt5XuMGG"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Modo Trapa\u00e7a",
+        "url": "https://open.spotify.com/album/4zKBStIg0K3ZoPDQHq1IIQ"
+      },
+      "artists": [
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+        },
+        {
+          "name": "Cita",
+          "url": "https://open.spotify.com/artist/3SJnySPOzMoVzk9R59d8Vv"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Modo Trapa\u00e7a",
+      "url": "https://open.spotify.com/track/3OAOGZwWMzP24qefZmPYWR"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -2095,26 +2095,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Intoc\u00e1vel",
-        "url": "https://open.spotify.com/album/0tPRn8Y8Xmj6xErQPnuExw"
-      },
-      "artists": [
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        }
-      ],
-      "duration_ms": 155355,
-      "name": "Preto de Gueto",
-      "url": "https://open.spotify.com/track/2YHdQVG5x6XI8HmdcqGJnn"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "Chefin",
         "url": "https://open.spotify.com/album/6z7TV8IZMGmMkVzg2c6dVt"
       },
@@ -2135,6 +2115,26 @@
       "duration_ms": 186674,
       "name": "Chefin",
       "url": "https://open.spotify.com/track/30g0zKIzhdwdJBSgiBA9gg"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Intoc\u00e1vel",
+        "url": "https://open.spotify.com/album/0tPRn8Y8Xmj6xErQPnuExw"
+      },
+      "artists": [
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "duration_ms": 155355,
+      "name": "Preto de Gueto",
+      "url": "https://open.spotify.com/track/2YHdQVG5x6XI8HmdcqGJnn"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -2235,26 +2235,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Uo*L",
-        "url": "https://open.spotify.com/album/4UgjKTwjLKEs8VqFZvqckb"
-      },
-      "artists": [
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "BlakkClout",
-          "url": "https://open.spotify.com/artist/4pZ2z5NE2z1vvdRqf7q0Gq"
-        }
-      ],
-      "duration_ms": 133668,
-      "name": "Uo*L",
-      "url": "https://open.spotify.com/track/4hVSWdyWtnowu9MWLPa0KF"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "Disfarce",
         "url": "https://open.spotify.com/album/6tMKjaduCP1Xts8Norkiy6"
       },
@@ -2291,6 +2271,26 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
+        "name": "Suco de Fruta",
+        "url": "https://open.spotify.com/album/5RzwJ40yPtUgANPoEmP7wr"
+      },
+      "artists": [
+        {
+          "name": "Mikezin",
+          "url": "https://open.spotify.com/artist/4LnQWC7U1XWXpcgoZN3D3Q"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 140487,
+      "name": "Suco de Fruta",
+      "url": "https://open.spotify.com/track/4sbR19WEgjJUfRsU1z2DY2"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
         "name": "OUTRO PATAMAR",
         "url": "https://open.spotify.com/album/1nb3EIZXO75bxWDz0Agxfo"
       },
@@ -2311,22 +2311,22 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Suco de Fruta",
-        "url": "https://open.spotify.com/album/5RzwJ40yPtUgANPoEmP7wr"
+        "name": "Uo*L",
+        "url": "https://open.spotify.com/album/4UgjKTwjLKEs8VqFZvqckb"
       },
       "artists": [
         {
-          "name": "Mikezin",
-          "url": "https://open.spotify.com/artist/4LnQWC7U1XWXpcgoZN3D3Q"
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
         },
         {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+          "name": "BlakkClout",
+          "url": "https://open.spotify.com/artist/4pZ2z5NE2z1vvdRqf7q0Gq"
         }
       ],
-      "duration_ms": 140487,
-      "name": "Suco de Fruta",
-      "url": "https://open.spotify.com/track/4sbR19WEgjJUfRsU1z2DY2"
+      "duration_ms": 133668,
+      "name": "Uo*L",
+      "url": "https://open.spotify.com/track/4hVSWdyWtnowu9MWLPa0KF"
     }
   ],
   "unique_name": "Trap Classe",

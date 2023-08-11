@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "Xpressions",
+        "url": "https://open.spotify.com/album/1FR2FWDJuZunI2wWH14lHD"
+      },
+      "artists": [
+        {
+          "name": "Geoxpress",
+          "url": "https://open.spotify.com/artist/2te0zfHOaOT11OYBSwBzVV"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175408,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/7sbjQGLQdhcMzah7MLWxRn"
+    },
+    {
+      "album": {
         "name": "Bad Boy (feat. Mayorkun)",
         "url": "https://open.spotify.com/album/4vrb4l5CjEYXkCTsZkP2go"
       },
@@ -594,7 +612,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 165454,
       "name": "Bank Alert",
       "url": "https://open.spotify.com/track/70WgWpbCRbDAsOCHiDL9ve"
@@ -3007,6 +3025,24 @@
     },
     {
       "album": {
+        "name": "IF AT ALL",
+        "url": "https://open.spotify.com/album/2z46rTAuklQeMKgH1x7QiD"
+      },
+      "artists": [
+        {
+          "name": "Oladapo",
+          "url": "https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169871,
+      "name": "IF AT ALL",
+      "url": "https://open.spotify.com/track/1tgt9Xud4ShwiJP4UExdRM"
+    },
+    {
+      "album": {
         "name": "If Money No Dey (Imnd)",
         "url": "https://open.spotify.com/album/62u4Fe8LEjEqcROkzzL4mY"
       },
@@ -3557,6 +3593,28 @@
     },
     {
       "album": {
+        "name": "Level Up",
+        "url": "https://open.spotify.com/album/4HRPdNNrlFdvye0nyGEfBK"
+      },
+      "artists": [
+        {
+          "name": "Tha Boy Myles",
+          "url": "https://open.spotify.com/artist/0kBkGmd0pKKvVpPXBRR5v5"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163111,
+      "name": "Level Up",
+      "url": "https://open.spotify.com/track/13C83mBRF1HW2cQ1ThDn9q"
+    },
+    {
+      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/6sP1bUcEMPD5EjUT90xpKU"
       },
@@ -3958,7 +4016,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 160615,
       "name": "Money Chop",
       "url": "https://open.spotify.com/track/2ddctHqfc2lA2QSIdDUUxh"
@@ -6048,7 +6106,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 132039,
       "name": "Vawulence",
       "url": "https://open.spotify.com/track/0tu7UAep0cBH35Lzln2Fjw"

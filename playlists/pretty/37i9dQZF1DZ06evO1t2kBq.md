@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t2kBq.md) - [plain]
 
 > This is Bad Religion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,640 likes - 50 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,681 likes - 50 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t2kBq.md) - [plain]
 | 43 | [God Song](https://open.spotify.com/track/0EhzHcEryTCWHaL98TdzIA) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Against The Grain](https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97) | 1:37 |
 | 44 | [Incomplete](https://open.spotify.com/track/3cZxrIwGDz6lKi2S1XMgmA) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Stranger Than Fiction](https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N) | 2:29 |
 | 45 | [The Approach](https://open.spotify.com/track/5Oyt7rwRrplyyNyRSRjVc8) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Age Of Unreason](https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz) | 2:25 |
-| 46 | [Kerosene](https://open.spotify.com/track/29UzZipBctdph1OIIGVzrS) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Recipe For Hate](https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l) | 2:41 |
+| 46 | [Atheist Peace](https://open.spotify.com/track/72VqIWmCDS423j8TglfMWK) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Empire Strikes First](https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE) | 1:57 |
 | 47 | [Flat Earth Society](https://open.spotify.com/track/1Oi1eyyLNTEj7nkWNlW898) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Against The Grain](https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97) | 2:21 |
-| 48 | [Atheist Peace](https://open.spotify.com/track/72VqIWmCDS423j8TglfMWK) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Empire Strikes First](https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE) | 1:57 |
+| 48 | [Kerosene](https://open.spotify.com/track/29UzZipBctdph1OIIGVzrS) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Recipe For Hate](https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l) | 2:41 |
 | 49 | [Epiphany](https://open.spotify.com/track/7AXcgpdL2oJWnI1BCLLeWI) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Process Of Belief](https://open.spotify.com/album/0t2Xi8RYL4d7iEuIbUE4zI) | 3:59 |
 | 50 | [Man With A Mission](https://open.spotify.com/track/7tnwvZYg7YCwyYFl0xYddO) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Recipe For Hate](https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l) | 3:11 |
 
-Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDAwM2VhZjgxNTkyMDk2NjI3NmZmODdhMTRjYmE1YjdlMw==`
+Snapshot ID: `MjgxOTQ1NjMsMDAwMDAwMDAwNWZkNGM3ZGY5ZTcwN2RhNjgwNDUxZTQzN2JlODA5Yw==`

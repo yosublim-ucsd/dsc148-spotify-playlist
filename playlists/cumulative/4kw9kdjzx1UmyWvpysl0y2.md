@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-538 songs - 1 day 7 hr 23 min
+539 songs - 1 day 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,7 +324,7 @@
 | [My Mind \- Badjokes Remix](https://open.spotify.com/track/7uF9c7MgOQryPCXa7We2xM) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5), [Karina Ramage](https://open.spotify.com/artist/08lRbqt7evEbYvgUlbSgYb), [Badjokes](https://open.spotify.com/artist/4zE0NW3CyaxTBIulekUFMD) | [My Mind \(Badjokes Remix\)](https://open.spotify.com/album/2ddkGLWOrggjL1zFn2pXZL) | 4:11 | 2022-11-25 | 2023-02-22 |
 | [My Wicked](https://open.spotify.com/track/6H8qW0UoLvVWFaE0sms6NK) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [My Wicked](https://open.spotify.com/album/7skCuoEmOR3b0sMdWbKkVq) | 3:53 | 2022-02-17 | 2022-04-29 |
 | [Nara](https://open.spotify.com/track/3RGmpu3LDxFSMRhrvZsIXV) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Nara](https://open.spotify.com/album/4oBuSG29ld0L27Mz7jHHBN) | 4:09 | 2022-10-19 | 2023-01-06 |
-| [Narcissist](https://open.spotify.com/track/2eex5KqwwPLtPJY8mxeSxd) | [Mr FijiWiji](https://open.spotify.com/artist/2uEo8Rajpdz1AqineCVLHq) | [Narcissist](https://open.spotify.com/album/4M5eI9WILJTXNeAxhdsgqZ) | 3:12 | 2023-05-17 |  |
+| [Narcissist](https://open.spotify.com/track/2eex5KqwwPLtPJY8mxeSxd) | [Mr FijiWiji](https://open.spotify.com/artist/2uEo8Rajpdz1AqineCVLHq) | [Narcissist](https://open.spotify.com/album/4M5eI9WILJTXNeAxhdsgqZ) | 3:12 | 2023-05-17 | 2023-08-11 |
 | [Neck Snap](https://open.spotify.com/track/5cz9A9XWyLJ6lISe5EYkRK) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Neck Snap](https://open.spotify.com/album/4H37lVlKGjTCzusxKyXrlo) | 2:54 | 2023-05-25 |  |
 | [Nevada \- Vicetone Lofi Mix](https://open.spotify.com/track/0ueILWV4Pvzx5hJCMCn975) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Cozi Zuehlsdorff](https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa) | [Nevada \(Vicetone Lofi Mix\)](https://open.spotify.com/album/5S69WMh7mRHeLb8BQrq9sA) | 2:27 | 2022-02-18 | 2022-04-29 |
 | [Never Cared](https://open.spotify.com/track/1eFlpHjgc4OCRMo4TgAh5g) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [Never Cared](https://open.spotify.com/album/1P1wiF5kauftUiGBrZCs3Y) | 3:39 | 2022-02-14 | 2022-04-23 |
@@ -459,6 +459,7 @@
 | [Sugar](https://open.spotify.com/track/0rHT3KSdQn3JvGPwe5EH2Y) | [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur), [Weird Genius](https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ) | [Sugar](https://open.spotify.com/album/31hnvDgjFArB8Xbntl48ou) | 2:42 | 2023-03-01 | 2023-05-30 |
 | [Sunflowers](https://open.spotify.com/track/5R5oXUlnzXfQZUnbNZz2Dm) | [Seawayz](https://open.spotify.com/artist/1kDtzWANi4LOiGt0uM5Wjr) | [Sunflowers](https://open.spotify.com/album/5Fv4WJupGWoHOMEJZddOR4) | 3:32 | 2023-02-24 | 2023-05-18 |
 | [Sunlight](https://open.spotify.com/track/4ii7MVY3GCm4vQZM6uMDDx) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K), [Etza](https://open.spotify.com/artist/5XCGOe3YCAhxsfQIUb5xGe) | [Sunlight](https://open.spotify.com/album/7qPdbWFcEIHUkVMdRdP6kJ) | 3:50 | 2022-02-23 | 2022-05-06 |
+| [SURRENDER PEACE!](https://open.spotify.com/track/0ldscHfsL63wYqrhx6Micd) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Let Them Only See Butterflies](https://open.spotify.com/album/4pf4QaR2yjTPk1Two2HPOQ) | 3:14 | 2023-08-10 |  |
 | [Take It Away](https://open.spotify.com/track/4yJmqZJmrXOiY3i8eWoxxq) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Take It Away](https://open.spotify.com/album/1JSiNOEHf9NjVGxQqsTM71) | 3:46 | 2022-05-05 | 2022-07-16 |
 | [Take Me](https://open.spotify.com/track/3bhhWM9zuWeUDyR4ODiaaD) | [Elypsis](https://open.spotify.com/artist/6ECqUbMiv22cNYmeBIOoPL) | [Fine Lines](https://open.spotify.com/album/13YQu9MLG4xy8vBI4OrSnA) | 3:16 | 2022-11-25 | 2022-11-29 |
 | [Take Me Away](https://open.spotify.com/track/3AqelM2KUTUGUOgqPIpegG) | [Eminence](https://open.spotify.com/artist/1hHhlYmo4C03IoCJ7RnpS2), [Weston & Teston](https://open.spotify.com/artist/29Ao31axAkL4n3L5OEbFpA), [Meredith Bull](https://open.spotify.com/artist/7qZdPKLV8xVaqsV98Dz9or) | [Take Me Away](https://open.spotify.com/album/5w1SO7iTkO8XjBhwUOi68j) | 3:37 | 2022-06-29 | 2022-09-10 |

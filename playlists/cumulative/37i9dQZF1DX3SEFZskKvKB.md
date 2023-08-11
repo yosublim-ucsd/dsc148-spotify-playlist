@@ -4,7 +4,7 @@
 
 > Ambient and percussion to move the body and heal the soul.
 
-119 songs - 6 hr 45 min
+120 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Soft Mind](https://open.spotify.com/track/3cEkQ0eJVAGNEHpppeR7a8) | [Salif Makeba](https://open.spotify.com/artist/3yN2hSwWFUFf6KmlgWvraC) | [Traditional African Music \- Tribal Music, Drums & Percussion](https://open.spotify.com/album/3hUi0rgOYx2dQyHjJLK36B) | 5:50 | 2022-05-26 |  |
 | [Song of Peace](https://open.spotify.com/track/4XxhiwOmf12vK6iRcmDlXE) | [Jonathan Mantras](https://open.spotify.com/artist/2yppMEsQtj8KqFq1EBiNz7) | [Shamanic Drums \(Meditation & Sacred Dance\)](https://open.spotify.com/album/1XS9JY9mSUo78ellvdiQo5) | 3:26 | 2022-05-26 |  |
 | [Soul Temple](https://open.spotify.com/track/6bfArGOr96N9kVviRvdjgV) | [Christoffer Moe Ditlevsen](https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S) | [Inner Sanctum](https://open.spotify.com/album/0plusPTJbziOVYoqGEHQV7) | 3:42 | 2022-05-26 |  |
+| [Spadina Ave](https://open.spotify.com/track/1zQZnHwMSlP1eov6Lr4fTM) | [Vacant Cities](https://open.spotify.com/artist/4ln07OZWdNaIm0qb1fVOQ7) | [Spadina Ave](https://open.spotify.com/album/0AYKKATiUEWrX0mPzXZF8U) | 3:09 | 2023-08-10 |  |
 | [Spiritual Path](https://open.spotify.com/track/1KNdr7UncDZWfiKA9R5Udt) | [Tribal Drums Ambient](https://open.spotify.com/artist/43sPSu5S998ea5L4wtaZCV) | [African Zen \- Spiritual Experience, Harmony & Balance, Healing Meditation, Tribal Soul, Relaxing Ethnic Music](https://open.spotify.com/album/69dYZP5IHROiw5tAhxMOzs) | 3:17 | 2022-05-26 |  |
 | [Spring](https://open.spotify.com/track/6YQhvOxkbiEyfQ8HJOGcUA) | [Sonic Ark](https://open.spotify.com/artist/64yr5oBBkL3KiDfT9eexN1) | [Spring](https://open.spotify.com/album/0VFBbJdgBmDMSVrs94cPSq) | 2:50 | 2022-05-26 |  |
 | [Sundran Outdoor](https://open.spotify.com/track/5Mm6wKongnMc6ruflc3KyB) | [Maximikiz](https://open.spotify.com/artist/0YlEZ0L8FwH6HMXW5jf4JC) | [Sundran Outdoor](https://open.spotify.com/album/5zqIbFcQtKwaiZCGaZMqWD) | 2:58 | 2022-05-26 |  |

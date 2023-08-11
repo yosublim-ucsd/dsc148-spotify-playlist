@@ -1,12 +1,12 @@
 {
   "description": "Just try not to move to this mix of recent hits. Cover: Kx5",
-  "num_followers": 76318,
+  "num_followers": 76345,
   "original_name": "Dance Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjcwNzE5OTY3NGU4MDU1Y2E1YWQwOTFjZDA0ZmIzNTVlOTZhOWYw",
+  "snapshot_id": "MCw0YTAzZDIyYzJmMjlhMGFmNTg1MTA5M2MwYzZhOTg4NmY4ODRmMTdi",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -787,26 +787,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Goosebumps (Remix)",
-        "url": "https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "HVME",
-          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
-        }
-      ],
-      "duration_ms": 162802,
-      "name": "Goosebumps - Remix",
-      "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "21 Reasons (feat. Ella Henderson)",
         "url": "https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 155253,
       "name": "21 Reasons (feat. Ella Henderson)",
       "url": "https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Goosebumps (Remix)",
+        "url": "https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+        }
+      ],
+      "duration_ms": 162802,
+      "name": "Goosebumps - Remix",
+      "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "The Business",
-        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "The Business",
-      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Good Love",
         "url": "https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 169534,
       "name": "Good Love",
       "url": "https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "The Business",
+        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "The Business",
+      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Where You Are",
-        "url": "https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Hayla",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Where You Are",
-      "url": "https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 167903,
       "name": "Paradise (feat. Dermot Kennedy)",
       "url": "https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Where You Are",
+        "url": "https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Where You Are",
+      "url": "https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Ascend",
+        "url": "https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk"
+      },
+      "artists": [
+        {
+          "name": "Dezko",
+          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
+        }
+      ],
+      "duration_ms": 200156,
+      "name": "Ascend",
+      "url": "https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "All By Myself",
         "url": "https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 171747,
       "name": "All By Myself",
       "url": "https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Ascend",
-        "url": "https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk"
-      },
-      "artists": [
-        {
-          "name": "Dezko",
-          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
-        }
-      ],
-      "duration_ms": 200156,
-      "name": "Ascend",
-      "url": "https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "Nate Traveller",
-          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
-        }
-      ],
-      "duration_ms": 158760,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Fine Day Anthem",
         "url": "https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 193690,
       "name": "Fine Day Anthem",
       "url": "https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Nate Traveller",
+          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
+        }
+      ],
+      "duration_ms": 158760,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1395,18 +1395,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Maria Maria",
-        "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
+        "name": "TAKE IT OFF",
+        "url": "https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW"
       },
       "artists": [
         {
-          "name": "TECH IT DEEP",
-          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Aatig",
+          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
         }
       ],
-      "duration_ms": 161801,
-      "name": "Maria Maria",
-      "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
+      "duration_ms": 194604,
+      "name": "TAKE IT OFF",
+      "url": "https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1431,22 +1435,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "TAKE IT OFF",
-        "url": "https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW"
+        "name": "Maria Maria",
+        "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
       },
       "artists": [
         {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Aatig",
-          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
+          "name": "TECH IT DEEP",
+          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
         }
       ],
-      "duration_ms": 194604,
-      "name": "TAKE IT OFF",
-      "url": "https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB"
+      "duration_ms": 161801,
+      "name": "Maria Maria",
+      "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Goosebumps",
-        "url": "https://open.spotify.com/album/49HjM8mnjS9PgYjSC03tkS"
-      },
-      "artists": [
-        {
-          "name": "HVME",
-          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
-        }
-      ],
-      "duration_ms": 163208,
-      "name": "Goosebumps",
-      "url": "https://open.spotify.com/track/20McUFi8KCIVdNDLrkTDuZ"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Tell It To My Heart",
         "url": "https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 165524,
       "name": "Tell It To My Heart",
       "url": "https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Goosebumps",
+        "url": "https://open.spotify.com/album/49HjM8mnjS9PgYjSC03tkS"
+      },
+      "artists": [
+        {
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+        }
+      ],
+      "duration_ms": 163208,
+      "name": "Goosebumps",
+      "url": "https://open.spotify.com/track/20McUFi8KCIVdNDLrkTDuZ"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1651,6 +1651,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Emorio",
+        "url": "https://open.spotify.com/album/3yP0Nsb8jyXY4HMNb6tkO9"
+      },
+      "artists": [
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        },
+        {
+          "name": "Faf\u00e1 de Bel\u00e9m",
+          "url": "https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d"
+        }
+      ],
+      "duration_ms": 163840,
+      "name": "Emorio",
+      "url": "https://open.spotify.com/track/14VthBnru6kiREQUYAuNSL"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
         "url": "https://open.spotify.com/album/7rE2qU0GsiIiNd4VPupV3B"
       },
@@ -1671,26 +1691,6 @@
       "duration_ms": 157205,
       "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
       "url": "https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Emorio",
-        "url": "https://open.spotify.com/album/3yP0Nsb8jyXY4HMNb6tkO9"
-      },
-      "artists": [
-        {
-          "name": "Trinix",
-          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
-        },
-        {
-          "name": "Faf\u00e1 de Bel\u00e9m",
-          "url": "https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d"
-        }
-      ],
-      "duration_ms": 163840,
-      "name": "Emorio",
-      "url": "https://open.spotify.com/track/14VthBnru6kiREQUYAuNSL"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/32JzuMXyPDs6ihDnRGh8vy"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Voodoo",
-      "url": "https://open.spotify.com/track/3JsH3qnwhYGs20PBMsCgNx"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "My Heart Goes (La Di Da)",
         "url": "https://open.spotify.com/album/3xDukGLEHBX2uylxb6S9jc"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 148960,
       "name": "My Heart Goes (La Di Da)",
       "url": "https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/32JzuMXyPDs6ihDnRGh8vy"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/3JsH3qnwhYGs20PBMsCgNx"
     },
     {
       "added_at": "2023-08-04 04:00:00",

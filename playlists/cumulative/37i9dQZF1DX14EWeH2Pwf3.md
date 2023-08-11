@@ -2,9 +2,9 @@
 
 ### [Plus Ultra](https://open.spotify.com/playlist/37i9dQZF1DX14EWeH2Pwf3)
 
-> La playlist urban più grande d'Italia 🔥 Cover: Rhove
+> Celebra il 50° anniversario dell'hip hop ascoltando le più grandi hit rap italiane del momento 🔥 Cover: Rhove
 
-336 songs - 16 hr 37 min
+337 songs - 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,6 +329,7 @@
 | [Un Altro Show \(feat\. Geolier\)](https://open.spotify.com/track/0AbDjrdgKTXzGzvQ1drgQl) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 2:51 | 2023-03-23 |  |
 | [Un milione di volte \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/6gs7AIeuNkpktUbwZcES2Y) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Santana Season](https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG) | 3:01 | 2023-06-08 |  |
 | [USCITO DI GALERA](https://open.spotify.com/track/01DXwNf1GzEJkYTbXgL0eb) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:52 | 2022-05-09 | 2023-02-09 |
+| [Vegeta \(feat\. Néza\)](https://open.spotify.com/track/73TYUZ7vZ6hFP0p5NXin0g) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH), [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Vegeta \(feat\. Néza\)](https://open.spotify.com/album/0kqfgJpLsbN2pysxJoNIfg) | 2:28 | 2023-08-10 |  |
 | [Veleno](https://open.spotify.com/track/5b5LAmQZx3mKmhL7PQGegi) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [GVESVS](https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL) | 3:14 | 2022-05-09 | 2022-05-20 |
 | [VETRI NERI](https://open.spotify.com/track/1K9qAxGT4cWUicf2OezSen) | [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [VETRI NERI](https://open.spotify.com/album/1vU1ePx8IOwsYRo5nh63nn) | 2:44 | 2023-05-18 |  |
 | [VIDA LOCA \(feat\. Medy\)](https://open.spotify.com/track/12zyH8VBFJiu3SOR1FMiYv) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0), [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn) | [VIDA LOCA \(feat\. Medy\)](https://open.spotify.com/album/060HF45et7bfm9rkxtLPBP) | 3:02 | 2023-07-06 |  |

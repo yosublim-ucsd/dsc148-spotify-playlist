@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲を週末にまとめてチェック。Cover: 音田雅則
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,777 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,801 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 49 | [sad girl](https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [sad girl](https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN) | 2:28 |
 | 50 | [Hekireki](https://open.spotify.com/track/09FxXfNTQsCgzkPmCeFwlr) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Emi Nishino](https://open.spotify.com/artist/1VozNsgCh7n6FBO285Z1et), [ESME MORI](https://open.spotify.com/artist/76H8LGZ7isj2XG6ZRMYpzK) | [Hekireki](https://open.spotify.com/album/4IoppmDr5YdPSIrEOXUC2B) | 4:16 |
 
-Snapshot ID: `MCw3YzVjMDE4YzUyNzZiYjA5NmViODJhNzgxN2U5ZTc1M2NhYTQxYjhm`
+Snapshot ID: `MCxjOWY5YzRkYWUxNjIxYzUzMWEwMTg4MWJlZmViZmI2NzcwODNmNmM4`

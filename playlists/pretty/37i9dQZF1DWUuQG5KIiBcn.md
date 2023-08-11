@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUuQG5KIiBcn.md) - [plain]
 
 > Corridos viejitos que cuentan los hechos reales de nuestro pueblo\. Chalino Sánchez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,943 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,262 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUuQG5KIiBcn.md) - [plain]
 | 39 | [Catarino y Los Rurales](https://open.spotify.com/track/33JJG2BO1r1u57K2XpwfmK) | [El As De La Sierra](https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl) | [El Heredero Del Cartel](https://open.spotify.com/album/4bq24Gh63VIRn6v41VJVhs) | 2:54 |
 | 40 | [Corrido Del Gallito](https://open.spotify.com/track/3fnAObJdCiCqiSTDgrPzAZ) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El Pela Vacas](https://open.spotify.com/album/6uInLS0vbBQwXiWDirXkOw) | 3:23 |
 | 41 | [El Federal de Caminos](https://open.spotify.com/track/6gff5htL4edefMTcgvIxOi) | [Ramon Ayala](https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL) | [15 Corridos de Matones](https://open.spotify.com/album/3qUj1FW2OLU0Xcm7JDkIKW) | 3:05 |
-| 42 | [El Regio Traficante](https://open.spotify.com/track/55bUQmbL9KBOfjpwqb19nK) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pueblito](https://open.spotify.com/album/3gwXs9usmAvXTMZYbvOZOh) | 3:21 |
-| 43 | [Los Tres Gallos](https://open.spotify.com/track/23i2YYyRUNEGbeJoBWXdUY) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Se Me Canso El Corazon](https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq) | 2:48 |
+| 42 | [Los Tres Gallos](https://open.spotify.com/track/23i2YYyRUNEGbeJoBWXdUY) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Se Me Canso El Corazon](https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq) | 2:48 |
+| 43 | [El Regio Traficante](https://open.spotify.com/track/55bUQmbL9KBOfjpwqb19nK) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pueblito](https://open.spotify.com/album/3gwXs9usmAvXTMZYbvOZOh) | 3:21 |
 | 44 | [Laurita Garza](https://open.spotify.com/track/0j46E9gFXDQND4AY4az8V3) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [20 Corridos Bien Perrones](https://open.spotify.com/album/75Ko8jNzPDAYwY7PPHwjic) | 3:10 |
 | 45 | [Gabino Barrera](https://open.spotify.com/track/5gaKIqxF0RTBgIBswpKVRy) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [20 Exitos de Coleccion](https://open.spotify.com/album/3U8v9XcvNZr51ivvRwnJtX) | 3:27 |
 | 46 | [El Barzon](https://open.spotify.com/track/3WALh4MuKxt00oJO7vSrjk) | [Luis Pérez Meza](https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT) | [Lo Mejor De Rancheras](https://open.spotify.com/album/1byRtvyAmS4gGeTbSRCwv8) | 2:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUuQG5KIiBcn.md) - [plain]
 | 74 | [La Chiva Colgada](https://open.spotify.com/track/5FNHvNI40a4W9iSxTp2zDg) | [Los Tremendos Gavilanes](https://open.spotify.com/artist/61Wbko5X4nwMtHOWOcvWiw) | [Cielo Azul, Cielo Nublado](https://open.spotify.com/album/6N6zMYcJO4fIKeqMqRvuAL) | 3:15 |
 | 75 | [Valente Quintero](https://open.spotify.com/track/4de4ivYcmGbVwkyi8nPdZ8) | [Los Dinamicos Del Norte](https://open.spotify.com/artist/2THFBUqLbOmogiKIQdFCWA) | [10 Aniversario](https://open.spotify.com/album/2P3M1m7lG147D6T1KhRZEV) | 4:47 |
 
-Snapshot ID: `MCw0ZTA0MjdiNWVjNjg2YjE1YTUzNDQxOGE1NTYyYjYwYTUyMDgwOGZj`
+Snapshot ID: `MCwwZGQwYTllNzgzMjAxNTU5NDk2MDNlODRiYTBhNmQxZTc1NTM0Y2Zl`

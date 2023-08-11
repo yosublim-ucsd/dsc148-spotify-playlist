@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Doja Cat, Cordae and more\. Cover: Kalan FrFr & Tyga
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,130 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,210 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Got Yo Wingz](https://open.spotify.com/track/6EqyEmLrxlmEB1iBxRVMjZ) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Got Yo Wingz](https://open.spotify.com/album/4jdQt9s1NisPjtryGLSzqa) | 2:35 |
 | 50 | [Motion](https://open.spotify.com/track/43xk74ljarl0Ac73TxxXFm) | [Yella Beezy](https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS) | [Motion](https://open.spotify.com/album/1qxKTielQitxvspLsPgHuR) | 2:49 |
 
-Snapshot ID: `MCxmNzg2YmY1MjEwNWNmOTJjZDg4NTIzMjljYmE3MTQ4MDI3OTZhYzc0`
+Snapshot ID: `MCxjMzFjYTZkYzI1NWJjZmQxMDFkY2JlY2ZmYzZiZjFjNGIwOTNiMTkx`

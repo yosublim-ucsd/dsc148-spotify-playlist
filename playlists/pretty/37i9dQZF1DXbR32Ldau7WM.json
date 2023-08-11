@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock bands/artists in Japan right now! Cover: Quruli(\u304f\u308b\u308a)",
-  "num_followers": 264521,
+  "num_followers": 264703,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjM5MzNiZDM2ZDI1ZDg5MzM4MTVjYTAwOTZlM2NmY2FmYWMxNjBl",
+  "snapshot_id": "MCw3NjQ0NGQ4MDFmZjkwZGI1NzBhZTFmYmUyYzI4ZDY2ZTEzM2QwYTNi",
   "tracks": [
     {
       "added_at": "2023-08-08 15:00:00",
@@ -939,18 +939,18 @@
     {
       "added_at": "2023-08-08 15:00:00",
       "album": {
-        "name": "COMINATCHA!!",
-        "url": "https://open.spotify.com/album/1R6DH3ahYHOQxqQUBFl3au"
+        "name": "BRING YOUR BOARD!!",
+        "url": "https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k"
       },
       "artists": [
         {
-          "name": "WANIMA",
-          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
         }
       ],
-      "duration_ms": 214088,
-      "name": "\u30a2\u30b2\u30a4\u30f3",
-      "url": "https://open.spotify.com/track/1TdYXsTtYbud0IieSW5wbh"
+      "duration_ms": 199826,
+      "name": "\u30b8\u30bf\u30fc\u30d0\u30b0",
+      "url": "https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg"
     },
     {
       "added_at": "2023-08-08 15:00:00",
@@ -971,18 +971,18 @@
     {
       "added_at": "2023-08-08 15:00:00",
       "album": {
-        "name": "BRING YOUR BOARD!!",
-        "url": "https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k"
+        "name": "COMINATCHA!!",
+        "url": "https://open.spotify.com/album/1R6DH3ahYHOQxqQUBFl3au"
       },
       "artists": [
         {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
         }
       ],
-      "duration_ms": 199826,
-      "name": "\u30b8\u30bf\u30fc\u30d0\u30b0",
-      "url": "https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg"
+      "duration_ms": 214088,
+      "name": "\u30a2\u30b2\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/1TdYXsTtYbud0IieSW5wbh"
     }
   ],
   "unique_name": "Big in Japan",

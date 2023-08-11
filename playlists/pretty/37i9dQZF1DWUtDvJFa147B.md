@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUtDvJFa147B.md) - [plain]
 
 > The official playlist of JTBC Begin Again, which contains the busking live soundtracks of the best musicians in Korea\. \(국내 최정상 뮤지션들의 버스킹 라이브 음원들이 담긴 JTBC 비긴어게인의 공식 플레이리스트입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,244 likes - 113 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,270 likes - 113 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUtDvJFa147B.md) - [plain]
 | 112 | [I bless you – Chamonix Busking ver](https://open.spotify.com/track/5ujO0nDWSnIEYZrH5YLghc) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC), [You Hee Yeol](https://open.spotify.com/artist/74lyHu0f9jhFumU0aEu5mi), [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB), [RO HONG CHUL](https://open.spotify.com/artist/0zcTx4R5R60a41u2jDVQbP) | [Begin Again\-Episode12](https://open.spotify.com/album/6H41cjcgNBY9xBvoF2Ffpb) | 3:57 |
 | 113 | [In Front Of The Autumn Post Office – Chamonix Busking ver](https://open.spotify.com/track/33hWdbayWz9hmNKnqhr7EN) | [You Hee Yeol](https://open.spotify.com/artist/74lyHu0f9jhFumU0aEu5mi), [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [Begin Again\-Episode12](https://open.spotify.com/album/5eWfAwyHVx7TpQ12HTFzwh) | 4:44 |
 
-Snapshot ID: `MCw1MDcyMWZjYzdkNWJlYjEwZWRmY2E0ZGIyYmRiNDRmMTI4ZWI5ZjRj`
+Snapshot ID: `MCwzY2FjMmU2ZDA0MzIzM2RiYTVkYmVhMzhiMjE2ZDgzZDYyMjhlYjI0`

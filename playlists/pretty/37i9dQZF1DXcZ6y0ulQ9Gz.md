@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 
 > An eclectic mix of past & current Indie favourites\. Cover: Lana Del Rey
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,020 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,043 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 | 37 | [Honeypie](https://open.spotify.com/track/6FfLg6FFqhCsrFOaHIGkg0) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [For Abby](https://open.spotify.com/album/7KHTE99FaDr8r7V8BZG7WN) | 2:15 |
 | 38 | [Mary](https://open.spotify.com/track/4p9iQNEmsIGkB6eG8Val8n) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH) | 3:17 |
 | 39 | [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 |
-| 40 | [Wet Dream](https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 2:20 |
-| 41 | [Trouble](https://open.spotify.com/track/5n0CTysih20NYdT2S0Wpe8) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Tell Me I'm Pretty](https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ) | 3:45 |
+| 40 | [Trouble](https://open.spotify.com/track/5n0CTysih20NYdT2S0Wpe8) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Tell Me I'm Pretty](https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ) | 3:45 |
+| 41 | [Wet Dream](https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 2:20 |
 | 42 | [Somebody Else](https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 5:47 |
 | 43 | [Intimidated \(feat\. H.E.R.\)](https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Intimidated](https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g) | 3:27 |
 | 44 | [Kyoto](https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:04 |
@@ -84,16 +84,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 | 74 | [Keep Moving](https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh) | 4:00 |
 | 75 | [Beauty & Essex \(feat\. Daniel Caesar & Unknown Mortal Orchestra\)](https://open.spotify.com/track/0cciBj4236w1xByzZvn92D) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Free Nationals](https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN) | 4:37 |
 | 76 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 |
-| 77 | [Canopée](https://open.spotify.com/track/260V7huyJrXnyYe0dFv2Fa) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Caravelle](https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT) | 4:36 |
-| 78 | [Mile High \(feat\. Travis Scott & Metro Boomin\)](https://open.spotify.com/track/4cQrSREMqBSvJ8ZzBZjVb8) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Assume Form](https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L) | 3:13 |
+| 77 | [Mile High \(feat\. Travis Scott & Metro Boomin\)](https://open.spotify.com/track/4cQrSREMqBSvJ8ZzBZjVb8) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Assume Form](https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L) | 3:13 |
+| 78 | [Canopée](https://open.spotify.com/track/260V7huyJrXnyYe0dFv2Fa) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Caravelle](https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT) | 4:36 |
 | 79 | [Solar Power](https://open.spotify.com/track/7s2kWabRM60W9I61HpKg8C) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:12 |
 | 80 | [Sugar](https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 2:56 |
 | 81 | [Serotonin](https://open.spotify.com/track/7tLTxOJY6cjQz4aJYMs8Nu) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:02 |
 | 82 | [Agitations tropicales](https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Odyssée \- EP](https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA) | 4:08 |
 | 83 | [Cracker Island \(feat\. Thundercat\)](https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Cracker Island \(feat\. Thundercat\)](https://open.spotify.com/album/3488fiYQcGSfkKKpr3ttCD) | 3:33 |
 | 84 | [Andromeda](https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk) | 4:40 |
-| 85 | [The Sun](https://open.spotify.com/track/5UEZzRsrB4FKw1SIMoMD2y) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Born a Loser](https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd) | 3:27 |
-| 86 | [Flight Risk](https://open.spotify.com/track/0kAsY8KaG5sM6uwAEt3qyg) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g) | 0:59 |
+| 85 | [Flight Risk](https://open.spotify.com/track/0kAsY8KaG5sM6uwAEt3qyg) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g) | 0:59 |
+| 86 | [The Sun](https://open.spotify.com/track/5UEZzRsrB4FKw1SIMoMD2y) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Born a Loser](https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd) | 3:27 |
 | 87 | [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:12 |
 | 88 | [Girl \(feat\. KAYTRANADA\)](https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 6:55 |
 | 89 | [Feels Right](https://open.spotify.com/track/0BWBqb5XxraObLopqskk6D) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Feels Right](https://open.spotify.com/album/2p1ShoYCCYtOfyDXRS97Gn) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 | 99 | [Synchronize](https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Synchronize](https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL) | 2:44 |
 | 100 | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS) | 3:08 |
 
-Snapshot ID: `MCw1NzNhMTY2ZTAzNzBjMjc1MWZiNGQxNDIzMGJlNmZkODQzMmYwZTQz`
+Snapshot ID: `MCxhMDdkMzJkMzI0Nzg1NDk0YjgzNWY4ZTBmZDJhYTc0NzMxOWU1MThl`

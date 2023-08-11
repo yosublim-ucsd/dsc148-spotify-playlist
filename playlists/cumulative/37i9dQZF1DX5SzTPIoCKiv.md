@@ -4,7 +4,7 @@
 
 > Recent smashes from your favorite Christian Contemporary artists\.  Cover: Mac Powell
 
-224 songs - 14 hr 41 min
+225 songs - 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Just As I Am](https://open.spotify.com/track/5UtCtph4JPzc4vLUqYf9DT) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Just As I Am](https://open.spotify.com/album/3JLmRNbG0xCjzDI60lfVFB) | 3:29 | 2021-10-15 | 2022-07-29 |
 | [Keep Me In The Moment \- Radio Version](https://open.spotify.com/track/2c87x3mBYuffK4ihylVwAG) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Keep Me In The Moment \(Radio Version\)](https://open.spotify.com/album/3oqTEcAfMzfN861Fearp4G) | 3:27 | 2021-10-15 |  |
 | [King Of Kings](https://open.spotify.com/track/6kmhapLx51lmwhIIDFsUQU) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [King Of Kings](https://open.spotify.com/album/30RfU2mnzbrCsnZA4TSCcY) | 4:25 | 2021-10-15 | 2022-07-22 |
+| [King Of The World](https://open.spotify.com/track/2sHDB7pY43GVTsl0X3ob1B) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Be One \(Deluxe Version\)](https://open.spotify.com/album/1BA61ZwyerWAKW9hsPMAlt) | 3:36 | 2023-02-18 |  |
 | [Let It Rain \(Is There Anybody\)](https://open.spotify.com/track/3Rf7ZckSUqSffVhHmiwOde) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [I Know A Ghost](https://open.spotify.com/album/7JiKelPfVrHUCRNsu6k9lq) | 3:29 | 2021-10-15 |  |
 | [Like A Kid](https://open.spotify.com/track/6GsZ4HTLTKZR9PHLDMJOfO) | [Landry Cantrell](https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6) | [Glasshouse](https://open.spotify.com/album/0Te9CCKeQNk5RfuqFyvt5W) | 3:45 | 2021-10-15 | 2022-07-27 |
 | [Like You Love Me](https://open.spotify.com/track/33bqWsuJvnjTgAYr8DMadN) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Citizen of Heaven](https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us) | 3:30 | 2021-10-15 |  |
@@ -138,7 +139,7 @@
 | [Love Moved First](https://open.spotify.com/track/4vkeAHQBXmUTgMOfaT94CR) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Only Jesus](https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB) | 3:25 | 2021-10-15 |  |
 | [Made to Fly](https://open.spotify.com/track/01ynxhBoTGfbPtsVg2G0Fs) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Made to Fly](https://open.spotify.com/album/16ugRESDhHdmmc3xxakT7c) | 3:44 | 2021-10-15 |  |
 | [Mean Girls](https://open.spotify.com/track/1fgQe9gzO6czUROrxPW7vb) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Mean Girls](https://open.spotify.com/album/7xRfay0VglvLCqud9h6iGb) | 3:13 | 2021-10-15 | 2022-07-19 |
-| [Mercy Is A Song](https://open.spotify.com/track/1yNInj2X42ZqQG6PUE57QV) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [All In](https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g) | 3:45 | 2021-10-15 |  |
+| [Mercy Is A Song](https://open.spotify.com/track/1yNInj2X42ZqQG6PUE57QV) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [All In](https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g) | 3:45 | 2021-10-15 | 2023-08-11 |
 | [Mercy Is A Song](https://open.spotify.com/track/5hEbWH2PJzc19N83i04WyQ) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [All In](https://open.spotify.com/album/5oGhtfRrxbMxbGIfCeOgwW) | 3:45 | 2021-10-15 | 2022-07-29 |
 | [Miracles](https://open.spotify.com/track/7u67t6j872bK1tDbMUjnMz) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Devil Is A Liar](https://open.spotify.com/album/5kT3QNv411H3VlALarhLnC) | 2:54 | 2021-10-15 |  |
 | [Mosaic](https://open.spotify.com/track/0X6TnTL38BfDHGgZUWfRfo) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [Mosaic](https://open.spotify.com/album/6GrkIwOfxUre3FUx2VxC9G) | 3:22 | 2021-10-15 | 2022-07-29 |

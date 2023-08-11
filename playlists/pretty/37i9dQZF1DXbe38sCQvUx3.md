@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbe38sCQvUx3.md) - [plain]
 
 > a la orden pa'l desorden
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,367 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,937 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Perfecta](https://open.spotify.com/track/2pxz6kTVvEUdMwwoeMs70P) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Playball](https://open.spotify.com/album/19Yw9DlcLrityl7uXQDCpU) | 3:34 |
 | 2 | [Se Logró](https://open.spotify.com/track/2Uw0BLEO96u70KQSWOc0XZ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 4:27 |
-| 3 | [La 701](https://open.spotify.com/track/6NKkscuqh2UWR4gzXIF84G) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [La 701](https://open.spotify.com/album/5dJtr2DikQCxBRGlKKdRPI) | 3:00 |
+| 3 | [La 701](https://open.spotify.com/track/1K8RQPB2y9Y0FF5dAjuy7Y) | [5 Music MX](https://open.spotify.com/artist/0ZptoanpAurqsvPl5tHKSH), [La Fresada Music](https://open.spotify.com/artist/2EMMZtzNBUVJAPy0l4w4A1) | [La 701](https://open.spotify.com/album/38bBLMpOx4xEUw4XEq9YeO) | 3:03 |
 | 4 | [Mas Altas Que Bajadas](https://open.spotify.com/track/5PLqXnvHH7Gh6CcfiUEr7e) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Nata Montana](https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7) | 3:13 |
 | 5 | [SABOR FRESA](https://open.spotify.com/track/1UMm1Qs3u59Wvk53zBUE8r) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [SABOR FRESA](https://open.spotify.com/album/1vw6eLxCJRAfD6RMJTiuKZ) | 2:36 |
 | 6 | [Así Lo Quiso Dios](https://open.spotify.com/track/6X5WZbJzXtk6aO03HlxuZ9) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 3:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbe38sCQvUx3.md) - [plain]
 | 99 | [Los Pasajes Del Sera](https://open.spotify.com/track/7fVZVKzWzM7G1Q5jBiMyE5) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 2:43 |
 | 100 | [PRC](https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [PRC](https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI) | 3:04 |
 
-Snapshot ID: `MCw4OGYxZGJmNThhZDMxZjVkMGE2MDU0YTA5ZmFiYzIxZTYzNTZjOTQ5`
+Snapshot ID: `MCwyMjZkYzU4MWJlMjcwMTI1YWE1YTk2YTkxNGRkMTJmODQ4NmE0ZWM0`

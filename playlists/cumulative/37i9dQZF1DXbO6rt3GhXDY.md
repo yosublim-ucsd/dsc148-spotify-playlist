@@ -4,7 +4,7 @@
 
 > You know em, you love em, these are indie pop hits\.  Cover: Steve Lacy.
 
-103 songs - 5 hr 33 min
+104 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [SLOW DANCING IN THE DARK](https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 3:29 | 2023-07-10 |  |
 | [So Good At Being in Trouble](https://open.spotify.com/track/2lwi35A2ym3FAmSlvOGnQp) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [II](https://open.spotify.com/album/2UrexGLK8RBKbv07j7ui19) | 3:50 | 2023-07-10 |  |
 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 | 2023-07-10 |  |
-| [Social Sites](https://open.spotify.com/track/5N47ugmempxYTC2fVzWRbG) | [Cosmo Pyke](https://open.spotify.com/artist/1RKG6WXRzmTJtbLRZTPU0T) | [Social Sites](https://open.spotify.com/album/5J4MrcoQk7pEe4YW6MfiVY) | 4:49 | 2023-07-10 |  |
+| [Social Sites](https://open.spotify.com/track/5N47ugmempxYTC2fVzWRbG) | [Cosmo Pyke](https://open.spotify.com/artist/1RKG6WXRzmTJtbLRZTPU0T) | [Social Sites](https://open.spotify.com/album/5J4MrcoQk7pEe4YW6MfiVY) | 4:49 | 2023-07-10 | 2023-08-11 |
+| [Social Sites](https://open.spotify.com/track/6Qmqjy6RbsHwc6nZCzJBkj) | [Cosmo Pyke](https://open.spotify.com/artist/1RKG6WXRzmTJtbLRZTPU0T) | [Social Sites](https://open.spotify.com/album/5yV0XjLBcR7uKsGvruSbRm) | 4:49 | 2023-07-10 |  |
 | [Sofia](https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:08 | 2023-07-10 |  |
 | [Soft Spot](https://open.spotify.com/track/30bqNfOgcJOw2EWJJl1w5J) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Super Monster](https://open.spotify.com/album/0QPFWBu8oVVNtekmNzlVvW) | 3:08 | 2023-07-10 |  |
 | [Something For Your M.I.N.D.](https://open.spotify.com/track/4rCKRVJZKVysScn2piDuOT) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [Superorganism](https://open.spotify.com/album/15TFB6uLZlb3gnCysRrLix) | 2:45 | 2023-07-10 |  |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,181 songs - 2 day 6 hr 43 min
+1,182 songs - 2 day 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -553,7 +553,7 @@
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2021-09-19 | 2021-10-05 |
 | [The Business](https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [The Business](https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm) | 2:44 | 2021-03-27\* | 2021-08-31 |
 | [THE LONELIEST](https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [THE LONELIEST](https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc) | 4:07 | 2022-10-11 | 2022-10-23 |
-| [The Lost Soul Down](https://open.spotify.com/track/5dPy1CCYQ04xaQHpajf5CY) | [NBSPLV](https://open.spotify.com/artist/61TQfpvTjHYQjPrvtJPwVa) | [The Lost Soul Down](https://open.spotify.com/album/733oNIsRbdeXYvZNoFCHmh) | 3:12 | 2023-06-12 | 2023-08-10 |
+| [The Lost Soul Down](https://open.spotify.com/track/5dPy1CCYQ04xaQHpajf5CY) | [NBSPLV](https://open.spotify.com/artist/61TQfpvTjHYQjPrvtJPwVa) | [The Lost Soul Down](https://open.spotify.com/album/733oNIsRbdeXYvZNoFCHmh) | 3:12 | 2023-06-12 |  |
 | [THE STORY OF ALISHER](https://open.spotify.com/track/7jg52iX5YV4aZSsHu30Mb6) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [THE STORY OF ALISHER](https://open.spotify.com/album/25m9NO6UpyivvEtXRSAuK2) | 7:17 | 2022-12-15 | 2022-12-26 |
 | [Thunderous](https://open.spotify.com/track/3XHJUG5I2zYqOEmEZUX68n) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/5fNA1Hs2ddXrf8CWJk1Ww7) | 3:03 | 2021-08-25 | 2021-08-27 |
 | [Tipok](https://open.spotify.com/track/66P9j5bWiRBotkxJN9ZsyV) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842) | [HOTIN](https://open.spotify.com/album/6onAeeUeEiXf2sReUGAThp) | 2:46 | 2022-07-17 | 2022-07-20 |
@@ -694,7 +694,7 @@
 | [Вина \(feat\. 17 SEVENTEEN\)](https://open.spotify.com/track/1Kp2TF4fFYjJPqEMf1U0RK) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW), [MAYOT](https://open.spotify.com/artist/3KtiWEUyKC5lgHedcN6y6C), [17 SEVENTEEN](https://open.spotify.com/artist/496nklFjflGjJOhhfhH2Nc) | [Вина \(feat\. 17 SEVENTEEN\)](https://open.spotify.com/album/48lVuuPvgKZlT9dTiDkl9D) | 2:46 | 2021-12-18 | 2022-02-13 |
 | [Вишнi](https://open.spotify.com/track/1xHs6PLjlvqihewyitoP3A) | [Wellboy](https://open.spotify.com/artist/6l5IEx62Nsc2k1QyfaWvEz) | [Вишнi](https://open.spotify.com/album/0npmuVcGDzW4y5CS5wnwBV) | 3:03 | 2022-05-02 | 2023-04-25 |
 | [ВЛЮБИЛАСЬ](https://open.spotify.com/track/3bbkkPpf8AdRU6DurnvoC4) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [Молодой Платон](https://open.spotify.com/artist/3yUI9YVLxfPiQHOv07gwAi) | [ВЛЮБИЛАСЬ](https://open.spotify.com/album/3dwpDc8PXNfohyFhYU1xzQ) | 3:36 | 2021-12-18 | 2022-04-03 |
-| [ВМЕСТЕ](https://open.spotify.com/track/04Rp6XjTowBcL7gIbJf7uc) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R) | [ВМЕСТЕ](https://open.spotify.com/album/6ilHfO6yd6iTUrgB0jrmdg) | 2:13 | 2023-07-01 |  |
+| [ВМЕСТЕ](https://open.spotify.com/track/04Rp6XjTowBcL7gIbJf7uc) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R) | [ВМЕСТЕ](https://open.spotify.com/album/6ilHfO6yd6iTUrgB0jrmdg) | 2:13 | 2023-07-01 | 2023-08-11 |
 | [Вова, їбаш їх блять](https://open.spotify.com/track/1K2ORdYBMvi5h4FvQn5hpX) | [Мюслі UA](https://open.spotify.com/artist/2QlTrbyPWbGWNmeDCp7QNR) | [Вова, їбаш їх блять](https://open.spotify.com/album/6dG164KSddFfZI6VirzCjB) | 2:36 | 2022-04-03 | 2022-10-18 |
 | [Вона](https://open.spotify.com/track/1qDqswcqJ7QxtbVlDv5P6W) | [Taras Chubay](https://open.spotify.com/artist/1HjzjHX7WBOg4InnOHCP7z), [Плач Єремії](https://open.spotify.com/artist/7ifsjGOD2trth519JuzcuW) | [Вона](https://open.spotify.com/album/2tAxeyM5Le89eDWQz8TmcB) | 4:35 | 2022-05-28 | 2022-06-29 |
 | [Вопросов нету](https://open.spotify.com/track/2KHs47ickH5oYzTA9qMM4S) | [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh) | [Sosa Muzik](https://open.spotify.com/album/2YAGIocNPp0fc29od97AKh) | 2:08 | 2021-08-15 | 2021-08-16 |
@@ -900,7 +900,7 @@
 | [Москва любит...](https://open.spotify.com/track/41bGn6u78I8eNZg86tx3vp) | [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn) | [2004](https://open.spotify.com/album/2XSjTk1Cs3tpKdYeUktZAt) | 3:25 | 2021-03-27\* | 2021-09-26 |
 | [Мох](https://open.spotify.com/track/5IEPzc47SMqni178gRd0dt) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [miXXXtape III: Смутное Время](https://open.spotify.com/album/0Nz1pnSwMM4FNRtHznneNS) | 2:06 | 2021-11-14 | 2021-11-21 |
 | [Моя голова винтом \(My head is spinning like a screw\)](https://open.spotify.com/track/4KrhaZm4JRkNO4HRdLvJIG) | [kostromin](https://open.spotify.com/artist/3JG79Z23wJN9Q5PTPpDAEV) | [Моя голова винтом \(My head is spinning like a screw\)](https://open.spotify.com/album/3MLrnG2xgu1CIONcpoFHfO) | 2:20 | 2021-03-27\* | 2021-05-15 |
-| [Моя Тень и Я](https://open.spotify.com/track/5VbtwldokIWy266zZqq9Bt) | [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [Gremlin](https://open.spotify.com/album/2uHdy4aBVNDcUzvZ2h8YFy) | 2:49 | 2023-07-29 |  |
+| [Моя Тень и Я](https://open.spotify.com/track/5VbtwldokIWy266zZqq9Bt) | [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [Gremlin](https://open.spotify.com/album/2uHdy4aBVNDcUzvZ2h8YFy) | 2:49 | 2023-07-29 | 2023-08-11 |
 | [Мрійники](https://open.spotify.com/track/1zsOm9hbdt6c3YkPr4ZPn7) | [TVORCHI](https://open.spotify.com/artist/0jWniZlqlLCZY3xSPwPXz5), [The Hardkiss](https://open.spotify.com/artist/4IJcztNtY5L7G3qK4yu1qt) | [Мрійники](https://open.spotify.com/album/3cd57PH8C56TgHcXoJISoC) | 2:58 | 2023-06-10 | 2023-06-30 |
 | [Мы все умрем](https://open.spotify.com/track/0zBQznV5QeLsqPz5sgU2hq) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [Красота и Уродство](https://open.spotify.com/album/37GqOfeuzBtpj32ZG28SqH) | 2:46 | 2021-12-03 | 2021-12-18 |
 | [Мы умрём](https://open.spotify.com/track/12Y7A7iU9azEHgQmBYoF8R) | [Парнишка](https://open.spotify.com/artist/4KWYR8vpnpwnNr5wWicWWo), [ELLA](https://open.spotify.com/artist/3Ppw3oP5nRqYhoGRDvhuUr) | [Мы умрём](https://open.spotify.com/album/2ZSC7Dnp48HeMUCPMu53LY) | 3:14 | 2022-02-26 | 2022-02-28 |
@@ -1176,6 +1176,7 @@
 | [Я НА ТАБЛАХ](https://open.spotify.com/track/4YigzcQjSi7WPgJ34W8orv) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: BUSINESS](https://open.spotify.com/album/04KjJSDImRLbElsI39hPLY) | 2:25 | 2021-05-30 | 2021-06-05 |
 | [Я НЕ ЗНАЮ](https://open.spotify.com/track/76uQsHqCk7tPQPlxdhYpyL) | [SLAVA MARLOW](https://open.spotify.com/artist/55jryyk7RhvMbrvoF0ndBh), [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [Я НЕ ЗНАЮ](https://open.spotify.com/album/33ckKhbxSr5Y5teCgjZUh7) | 2:44 | 2021-09-19 | 2021-10-06 |
 | [Я пиздатый](https://open.spotify.com/track/1MiUVjoHt4jiskDrt2ZHrq) | [LIL MORTY](https://open.spotify.com/artist/09W1Zh2IfOs6YYEiKgYY1K) | [Я пиздатый](https://open.spotify.com/album/36s0UearNIp4CfSPDj7y6C) | 2:28 | 2021-09-25 | 2022-03-10 |
+| [Я поднимаю свою голову вверх](https://open.spotify.com/track/6PLtAhB74CfLT4VwmE5IBM) | [СЕРЕГА ПИРАТ](https://open.spotify.com/artist/5IS4dQ9lDW01IY1buR7bW7) | [Я поднимаю свою голову вверх](https://open.spotify.com/album/075RSBB537dqc2j6A0QDc0) | 2:45 | 2023-08-10 |  |
 | [я понял \- skit](https://open.spotify.com/track/46T22qAGkE8pDG8KBHsr29) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [LAST ONE](https://open.spotify.com/album/3Mp2TOTZpTGvU1cExaHs7w) | 1:20 | 2022-10-22 | 2022-10-24 |
 | [Я уёбываю в джаз](https://open.spotify.com/track/0olubSy8HbZBrCJlSHV7ex) | [Кишлак](https://open.spotify.com/artist/44L2bdEufrpXM5S7yn30JJ) | [Я уёбываю в джаз](https://open.spotify.com/album/2AvnyNwfyaS3qNawe1eqxK) | 2:24 | 2023-02-06 |  |
 | [Я уёбываю в джаз](https://open.spotify.com/track/3VeWIV9WTXUl8PcOusFjYv) | [Кишлак](https://open.spotify.com/artist/44L2bdEufrpXM5S7yn30JJ) | [Я уёбываю в джаз](https://open.spotify.com/album/00lCeyD5dYeohpChwbpueT) | 2:24 | 2022-01-05 | 2022-01-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 
 > sensual roots & indie folk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,931 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,040 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 | 37 | [Burn](https://open.spotify.com/track/3ESjXFvI5GUNFoCCg30u5s) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 2:51 |
 | 38 | [Never Tear Us Apart](https://open.spotify.com/track/5LfyeUdF28bljfTmVmD7gm) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Never Tear Us Apart](https://open.spotify.com/album/7jLRehwciXcJKo5IYeii8k) | 3:50 |
 | 39 | [Craving](https://open.spotify.com/track/2MlzYSDQbg3K2FtfnDI4Nc) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Violence in a Quiet Mind](https://open.spotify.com/album/12p8Tpkhv5tbW99wzGjP4D) | 2:43 |
-| 40 | [Tip of My Tongue \(Live at Eddie's Attic\)](https://open.spotify.com/track/3bGJ53wSgjTPCQIRalZSTd) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Live at Eddie's Attic](https://open.spotify.com/album/40LvDRa8e5cdgUFsKgSUzq) | 3:21 |
-| 41 | [Making Love on the Mountain \- Sexy Mix](https://open.spotify.com/track/7aFHFN6cvjgKEUGF1SMA8I) | [The Woodlands](https://open.spotify.com/artist/3uitNL8cJAFwhKlDO762Gx) | [Parallels, Vol\. I](https://open.spotify.com/album/08u46C6UbLfQYhk1lMWmkf) | 3:58 |
+| 40 | [Making Love on the Mountain \- Sexy Mix](https://open.spotify.com/track/7aFHFN6cvjgKEUGF1SMA8I) | [The Woodlands](https://open.spotify.com/artist/3uitNL8cJAFwhKlDO762Gx) | [Parallels, Vol\. I](https://open.spotify.com/album/08u46C6UbLfQYhk1lMWmkf) | 3:58 |
+| 41 | [Tip of My Tongue \(Live at Eddie's Attic\)](https://open.spotify.com/track/3bGJ53wSgjTPCQIRalZSTd) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Live at Eddie's Attic](https://open.spotify.com/album/40LvDRa8e5cdgUFsKgSUzq) | 3:21 |
 | 42 | [Woman Like a Man \- Live Radio Session](https://open.spotify.com/track/0GpRh3J3gI1esWn9gDWnyY) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [B\-Sides](https://open.spotify.com/album/3nvaY45C0yn3jIZc2W4VoA) | 4:44 |
 | 43 | [Lovers Who Make Love](https://open.spotify.com/track/07TynTJvMsM19UHI121q5l) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Not Nearly Dark](https://open.spotify.com/album/6kUNN69mPV5AxDEyypv6hB) | 3:38 |
 | 44 | [All on My Mind \- Single Version](https://open.spotify.com/track/7LJDzkXrC6bKthURJ1I4pL) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [All on My Mind](https://open.spotify.com/album/6O0hXBm4fljPUez3tFSLJj) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 | 49 | [Song for lovers](https://open.spotify.com/track/6MS1VErb239jImgEbtIMgs) | [The Dø](https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj) | [A Mouthful](https://open.spotify.com/album/3L2s5VsbuOKnIdkfz8vE7J) | 2:24 |
 | 50 | [Torture](https://open.spotify.com/track/55QFFGguYCPpOXQveiaEPA) | [Liz Longley](https://open.spotify.com/artist/1qImAIy1ZVCgR5KD88QXkr) | [Torture](https://open.spotify.com/album/4YINaOhKmkGdBsrod5ipfN) | 3:02 |
 
-Snapshot ID: `MCw4ODcyM2NjMGU1YjU3MWEwNWFkMThkY2MwNTU4YTVlM2Y0ZDNmYTE5`
+Snapshot ID: `MCxjY2EzNjBlZTBjYzQzOWEyYmQxZWEwOTMzN2RiOWE2ZDgwY2M1NTc3`

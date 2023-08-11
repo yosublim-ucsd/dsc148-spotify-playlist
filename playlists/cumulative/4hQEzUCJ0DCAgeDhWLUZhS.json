@@ -4341,6 +4341,24 @@
     },
     {
       "album": {
+        "name": "The Dark",
+        "url": "https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou"
+      },
+      "artists": [
+        {
+          "name": "The Band CAMINO",
+          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174996,
+      "name": "Novocaine",
+      "url": "https://open.spotify.com/track/561WtF4saXolXokGjeVPYJ"
+    },
+    {
+      "album": {
         "name": "Why Me? Why Not. (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6iInyjotj1rYpx3vbX0MxX"
       },

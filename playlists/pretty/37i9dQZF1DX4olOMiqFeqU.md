@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 
 > 100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,432,731 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,433,088 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,12 +43,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 33 | [Nadarang](https://open.spotify.com/track/0GV5o55wGdk8rt0q8cVGVZ) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [Materyal](https://open.spotify.com/album/5PPETYQBNZUJgUzHAVx6gx) | 3:54 |
 | 34 | [Asan Ka Na Ba](https://open.spotify.com/track/5MYPzdIWgx3pMLRGlq2fVq) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Asan Ka Na Ba](https://open.spotify.com/album/0MK93ibEen72O8dosu3WXE) | 4:01 |
 | 35 | [Pasensya Ka Na](https://open.spotify.com/track/5VPxHpJcJEJx9CMMiO7pBE) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Langit\. Luha.](https://open.spotify.com/album/1rBuCNm7bhrcDVMAETBXVA) | 4:01 |
-| 36 | [Harana](https://open.spotify.com/track/6UGrgPcISfwGeDikA4YpEv) | [Parokya Ni Edgar](https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4) | [Buruguduystunstugudunstuy](https://open.spotify.com/album/6BGIBrSqYRLcOEOwz0x19B) | 3:02 |
-| 37 | [Mahika](https://open.spotify.com/track/0Pafr67ogSuAur2L3DxB4b) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Mahika](https://open.spotify.com/album/65PZ3P2MKJuSAVCMM9WWkA) | 3:30 |
+| 36 | [Mahika](https://open.spotify.com/track/0Pafr67ogSuAur2L3DxB4b) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Mahika](https://open.spotify.com/album/65PZ3P2MKJuSAVCMM9WWkA) | 3:30 |
+| 37 | [Harana](https://open.spotify.com/track/6UGrgPcISfwGeDikA4YpEv) | [Parokya Ni Edgar](https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4) | [Buruguduystunstugudunstuy](https://open.spotify.com/album/6BGIBrSqYRLcOEOwz0x19B) | 3:02 |
 | 38 | [Di Na Muli](https://open.spotify.com/track/6JYIB3AEh1VtcqVcDDLC7p) | [The Itchyworms](https://open.spotify.com/artist/5cYJYBMg1n71v7cvthr1SO) | [Sid & Aya \(Not a Love Story\) \[Original Movie Soundtrack\]](https://open.spotify.com/album/3ZHDOgwnd6f26MyLuXCS3U) | 4:20 |
 | 39 | [Before I Let You Go](https://open.spotify.com/track/220IyLzKO1Y0Gxt4pTU5eZ) | [Freestyle](https://open.spotify.com/artist/0jarApAsbmiCkYhz0590mE) | [Freestyle](https://open.spotify.com/album/23urE9jm4wugYqmxANnDut) | 4:49 |
-| 40 | [214](https://open.spotify.com/track/7gZ3kWNtIxFgxjsm5OTVMB) | [Rivermaya](https://open.spotify.com/artist/1ZTdxfZTeztyAgKUJVLxAI) | [Greatest Hits](https://open.spotify.com/album/65GkUxR6lYlCiYP4mqyZl1) | 4:33 |
-| 41 | [I Need You More Today](https://open.spotify.com/track/04qDUASuSfVp6fktfsxVej) | [Caleb Santos](https://open.spotify.com/artist/3XEHRbR9NMWfNzQ6TQMS9M), [Viva Music Publishing Inc.](https://open.spotify.com/artist/1d1BeULLUX4HWNVypEUMfy) | [I Need You More Today](https://open.spotify.com/album/1Le1ykkfNX7dMyUYVOf6jj) | 3:53 |
+| 40 | [I Need You More Today](https://open.spotify.com/track/04qDUASuSfVp6fktfsxVej) | [Caleb Santos](https://open.spotify.com/artist/3XEHRbR9NMWfNzQ6TQMS9M), [Viva Music Publishing Inc.](https://open.spotify.com/artist/1d1BeULLUX4HWNVypEUMfy) | [I Need You More Today](https://open.spotify.com/album/1Le1ykkfNX7dMyUYVOf6jj) | 3:53 |
+| 41 | [214](https://open.spotify.com/track/7gZ3kWNtIxFgxjsm5OTVMB) | [Rivermaya](https://open.spotify.com/artist/1ZTdxfZTeztyAgKUJVLxAI) | [Greatest Hits](https://open.spotify.com/album/65GkUxR6lYlCiYP4mqyZl1) | 4:33 |
 | 42 | [Binibini](https://open.spotify.com/track/2X5AFygz5SDYlXagyPw8kX) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Binibini](https://open.spotify.com/album/0oJLtle44OSumLZj1WDEf0) | 3:41 |
 | 43 | [KLWKN](https://open.spotify.com/track/1pi3VCMlGVaXvrjlVOkBPN) | [Music Hero](https://open.spotify.com/artist/52gTrzyF0DyfkFl1DQz9Oq) | [KLWKN](https://open.spotify.com/album/1TmGJJPRkYoxPEAo0xFnQV) | 4:16 |
 | 44 | [Teka Lang](https://open.spotify.com/track/3CP6W4N2CnsZgejmUprD6v) | [Emman](https://open.spotify.com/artist/3FwNjtXQCdxpDOXmgJQGnG) | [Teka Lang](https://open.spotify.com/album/0QK7IkS5mne9e95ef0BjAE) | 3:16 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 47 | [Hindi Tayo Pwede](https://open.spotify.com/track/47DgfSmVQVwHkJJct5c3sV) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Umaga](https://open.spotify.com/album/5HbJHrOnlSh1DImDXXYW1N) | 5:03 |
 | 48 | [Sa Ngalan Ng Pag\-Ibig](https://open.spotify.com/track/00mBzIWv5gHOYxwuEJXjOG) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Sa Ngalan Ng Pag\-Ibig](https://open.spotify.com/album/7xconhHQKj7Be4P2KvUmFz) | 4:45 |
 | 49 | [12:51](https://open.spotify.com/track/1FHCU1rDAeaPsBW9byjJ0Q) | [krissy & ericka](https://open.spotify.com/artist/09DdQEMQaaq0f99vqqub3V) | [Twelve: Fifty One \(International Version\)](https://open.spotify.com/album/5M4GVkxOl3joHIkvNrAlbJ) | 4:06 |
-| 50 | [Huling Sayaw](https://open.spotify.com/track/20WgDtVSk24lprETchbTt1) | [Kamikazee](https://open.spotify.com/artist/4GBFKKuwmZUnAJt6nBal7A), [Kyla](https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO) | [Romantico](https://open.spotify.com/album/3rx77n7XvlsBj9N2u4pb2r) | 4:55 |
+| 50 | [Kung Alam Mo Lang](https://open.spotify.com/track/2OwTNSBOspDlAWDcv37GIW) | [Bandang Lapis](https://open.spotify.com/artist/4slXciON4jYY6mqE9LjSFx) | [Kung Alam Mo Lang](https://open.spotify.com/album/54hm1RYQZwy4tZokG4YhGf) | 4:16 |
 
-Snapshot ID: `MCxmZDBkYjM5NzhjMDFmYTYxMWZlMjdmMzAyY2Y3NDYyZjIxNTQzNjQ3`
+Snapshot ID: `MCxlMmZmN2Q0MGNhOTQxOGEyODFmNDU3N2Q2ZmY0NTdjZWRjNTQxMzAx`

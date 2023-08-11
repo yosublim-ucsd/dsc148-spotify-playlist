@@ -4,7 +4,7 @@
 
 > what would we do without ethereal cain
 
-520 songs - 1 day 8 hr 29 min
+521 songs - 1 day 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,7 +346,7 @@
 | [Orange Juice](https://open.spotify.com/track/3s4QIE9CMkTRCufw1q0evm) | [Rozie Ramati](https://open.spotify.com/artist/3GzbAOojSz4h2yUjljyg3H), [Alé Araya](https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK) | [Orange Juice](https://open.spotify.com/album/3A4lKPEUMRhl9D2sYFP3Gi) | 2:55 | 2022-04-08 | 2022-04-23 |
 | [Ossature](https://open.spotify.com/track/6wKBs0H45e7YZqXxgYizqv) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Ossature](https://open.spotify.com/album/67pHzx4hDdALeMnatGIowU) | 3:45 | 2021-10-08 | 2022-04-23 |
 | [p i x e l a t e d](https://open.spotify.com/track/1vJcfFEpGBI1l2LNWnTUPJ) | [Luna Shadows](https://open.spotify.com/artist/55SUpsj027epu8yi663EKZ) | [Digital Pacific](https://open.spotify.com/album/6kVa8HTm59PW9Kk60RM7hc) | 0:58 | 2021-06-03 | 2022-07-22 |
-| [Paprika](https://open.spotify.com/track/3zyqphgXvgHe436IMKeey3) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:40 | 2022-06-03 |  |
+| [Paprika](https://open.spotify.com/track/3zyqphgXvgHe436IMKeey3) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:40 | 2022-06-03 | 2023-08-11 |
 | [Paradise Circus](https://open.spotify.com/track/2BndJYJQ17UcEeUFJP5JmY) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Heligoland](https://open.spotify.com/album/1F8y2bg9V9nRoy8zuxo3Jt) | 4:57 | 2021-06-03 |  |
 | [Party's Over](https://open.spotify.com/track/2GpJftoEXefvW1pdRH7iNh) | [Half Waif](https://open.spotify.com/artist/28mCmWkgrWHZ4fm5c3OcIj) | [Party's Over](https://open.spotify.com/album/6f0ynebrefkTEiM8S4akrs) | 3:23 | 2021-06-03 | 2022-07-24 |
 | [Patience Etc..\. \(George Clanton Remix\)](https://open.spotify.com/track/35UpVtlZ5nbxH2nw0of9ST) | [Caroline Loveglow](https://open.spotify.com/artist/3j0n7TWGvwhPBMBWPbuasr), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [Patience Etc..\. \(George Clanton Remix\)](https://open.spotify.com/album/47vZuuUWplGpIYvBZGUj4s) | 4:18 | 2021-08-27 | 2022-04-22 |
@@ -383,6 +383,7 @@
 | [Revolution 0](https://open.spotify.com/track/0FUGzUqkqRktGBvIeM3p2X) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:17 | 2023-03-31 |  |
 | [Ribs](https://open.spotify.com/track/0TEekvXTomKt3hdXDZxxeW) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine \(Extended\)](https://open.spotify.com/album/6rnzvZhe3PA57xKcKLRtJ6) | 4:18 | 2021-06-03 | 2022-07-25 |
 | [Ribs](https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 4:18 | 2021-06-03 |  |
+| [Ride Or Die](https://open.spotify.com/track/3dvVgBNJtYZH58rTpIQLEI) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Ride Or Die](https://open.spotify.com/album/02HrU7Rw0Gnj6mOi0jMBmP) | 3:04 | 2023-08-10 |  |
 | [Ride Or Die \(feat\. Chilly Gonzales\)](https://open.spotify.com/track/6avcTjapRBq4AL6760uUbF) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5), [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83) | [Ride Or Die \(feat\. Chilly Gonzales\)](https://open.spotify.com/album/5Lko5vYjWNMzxyKNz78wWn) | 3:43 | 2021-06-03 | 2022-07-28 |
 | [River](https://open.spotify.com/track/6GIGtQZq4wKWlDM8wUfS6c) | [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [River / Happy Xmas \(War Is Over\)](https://open.spotify.com/album/6pr4v7NJt54lnLjDMwiOy1) | 4:00 | 2022-12-16 | 2023-01-26 |
 | [Romanticist](https://open.spotify.com/track/5YixskhSGNwmqjUrG0DTEY) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW) | 1:46 | 2021-06-03 | 2022-06-04 |

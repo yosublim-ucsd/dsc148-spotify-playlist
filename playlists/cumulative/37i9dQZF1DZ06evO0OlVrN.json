@@ -1075,6 +1075,24 @@
     },
     {
       "album": {
+        "name": "22 Exitos de Oro, vol. 2",
+        "url": "https://open.spotify.com/album/7fdVdewhOZLXhbgilHdNAU"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142226,
+      "name": "Solo quiero",
+      "url": "https://open.spotify.com/track/2TG4wMLLyoGwxBDgE8feJu"
+    },
+    {
+      "album": {
         "name": "20 Exitos Llorar por Amor",
         "url": "https://open.spotify.com/album/14LGdezPXdhHYL7a2CTvlO"
       },

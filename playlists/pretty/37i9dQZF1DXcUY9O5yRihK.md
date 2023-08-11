@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUY9O5yRihK.md) - [plain]
 
 > For the hopeless romantic daydreamers\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,265 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,654 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUY9O5yRihK.md) - [plain]
 | 74 | [Seaside Adventures](https://open.spotify.com/track/3W4aAUuDXMCS6QgZR7cTur) | [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4), [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ) | [Seaside Adventures](https://open.spotify.com/album/090krYhm5bNW0wlujblsjo) | 2:47 |
 | 75 | [When I Look Into Your Eyes](https://open.spotify.com/track/6h0zYPs9wEj3ydlgwpibSL) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c), [Lanie](https://open.spotify.com/artist/1qUDBm1ALFrHogBczA8KIF) | [When I Look Into Your Eyes](https://open.spotify.com/album/6wT9XMbBpXNZTkXGatvKiV) | 2:30 |
 
-Snapshot ID: `MCxlYTQ5ODY4OGE4ZGQ2ZTZkOWQzNDFjZTZjMjFiYTYxMjg5NjZjYjY5`
+Snapshot ID: `MCxhNWM1MTJmODFlZGY5YmRhMzRhNzUxMGIxNDUxYjFmZjE4NWExYjVm`

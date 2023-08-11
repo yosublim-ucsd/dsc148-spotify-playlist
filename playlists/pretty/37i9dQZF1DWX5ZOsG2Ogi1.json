@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Perreo del bueno! Cover: Sech",
-  "num_followers": 1328125,
+  "num_followers": 1328256,
   "original_name": "Puro Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzI2OTViZTFiOGNmZjIxOTk0NjM2N2ZjZmQzMTBiOTEyNWY4ZjZl",
+  "snapshot_id": "MCw4ZjljNTk4ZjNlODNkYmVlYzJkMjY0MDFmMWNlN2M0M2IxZWIxY2Ez",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "DONDE QUIERO ESTAR",
+        "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 160909,
+      "name": "WANDA",
+      "url": "https://open.spotify.com/track/0Iozrbed8spxoBnmtBMshO"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Yandel 150",
         "url": "https://open.spotify.com/album/0T4sp7vn9arhvBUAda3foX"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 216148,
       "name": "Yandel 150",
       "url": "https://open.spotify.com/track/2oiixB9QMIzhWaHGVlQx4g"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "DONDE QUIERO ESTAR",
-        "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 160909,
-      "name": "WANDA",
-      "url": "https://open.spotify.com/track/0Iozrbed8spxoBnmtBMshO"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -671,26 +671,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Podemos Repetirlo",
-        "url": "https://open.spotify.com/album/6FRoZB7Ppyz9EVph8nQoJX"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 211707,
-      "name": "Podemos Repetirlo",
-      "url": "https://open.spotify.com/track/0If7xxzqs7Dv1SSO2MFKXF"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
         "url": "https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 207301,
       "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
       "url": "https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Podemos Repetirlo",
+        "url": "https://open.spotify.com/album/6FRoZB7Ppyz9EVph8nQoJX"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 211707,
+      "name": "Podemos Repetirlo",
+      "url": "https://open.spotify.com/track/0If7xxzqs7Dv1SSO2MFKXF"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Una en un Mill\u00f3n",
-        "url": "https://open.spotify.com/album/297lExWtMv5C7vAlQhJcuC"
-      },
-      "artists": [
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        }
-      ],
-      "duration_ms": 155828,
-      "name": "Una en un Mill\u00f3n",
-      "url": "https://open.spotify.com/track/3jYFhbevv3MUctaEUF68Vf"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "GAT\u00daBELA",
         "url": "https://open.spotify.com/album/5FdSjtKiymlHrdbXDyXcxA"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 209160,
       "name": "GAT\u00daBELA",
       "url": "https://open.spotify.com/track/1ga4PztXOIw1yBbdUt2X8v"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Una en un Mill\u00f3n",
+        "url": "https://open.spotify.com/album/297lExWtMv5C7vAlQhJcuC"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        }
+      ],
+      "duration_ms": 155828,
+      "name": "Una en un Mill\u00f3n",
+      "url": "https://open.spotify.com/track/3jYFhbevv3MUctaEUF68Vf"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Vida Gangster",
-        "url": "https://open.spotify.com/album/0cWDantlEEkAwu9Z0gAiMX"
-      },
-      "artists": [
-        {
-          "name": "Lauty Gram",
-          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
-        }
-      ],
-      "duration_ms": 170058,
-      "name": "Vida Gangster",
-      "url": "https://open.spotify.com/track/4I4FFtKZLtyqw4he9pPtL7"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "The Academy",
         "url": "https://open.spotify.com/album/1faqBAWocW4ZOe0OFjudGw"
       },
@@ -1311,6 +1295,30 @@
       "duration_ms": 216066,
       "name": "Quizas",
       "url": "https://open.spotify.com/track/5Id5B3dxJZhPcV9GzgYZZe"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "AM Remix",
+        "url": "https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 261334,
+      "name": "AM Remix",
+      "url": "https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1359,26 +1367,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "AM Remix",
-        "url": "https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV"
+        "name": "Vida Gangster",
+        "url": "https://open.spotify.com/album/0cWDantlEEkAwu9Z0gAiMX"
       },
       "artists": [
         {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
         }
       ],
-      "duration_ms": 261334,
-      "name": "AM Remix",
-      "url": "https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho"
+      "duration_ms": 170058,
+      "name": "Vida Gangster",
+      "url": "https://open.spotify.com/track/4I4FFtKZLtyqw4he9pPtL7"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2095,22 +2095,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Copas",
-        "url": "https://open.spotify.com/album/3ePBOZm5uPk39Gm1SLAaGs"
+        "name": "NO PARE",
+        "url": "https://open.spotify.com/album/7Cox5cc0YmFSLTMElICoW8"
       },
       "artists": [
         {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
         }
       ],
-      "duration_ms": 237388,
-      "name": "Copas",
-      "url": "https://open.spotify.com/track/0YHmnEkFZMrZgryi6yQfJh"
+      "duration_ms": 155607,
+      "name": "NO PARE",
+      "url": "https://open.spotify.com/track/4cEYQceQjgsi0hZZQQWhXp"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2135,6 +2131,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Copas",
+        "url": "https://open.spotify.com/album/3ePBOZm5uPk39Gm1SLAaGs"
+      },
+      "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 237388,
+      "name": "Copas",
+      "url": "https://open.spotify.com/track/0YHmnEkFZMrZgryi6yQfJh"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Ya Casi Vienen",
         "url": "https://open.spotify.com/album/1yENOcHrdeylQ4Mjy1DQJX"
       },
@@ -2147,22 +2163,6 @@
       "duration_ms": 174946,
       "name": "Foto En Panty",
       "url": "https://open.spotify.com/track/4HehbhlVK81hZT5Yg7QmiR"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "NO PARE",
-        "url": "https://open.spotify.com/album/7Cox5cc0YmFSLTMElICoW8"
-      },
-      "artists": [
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 155607,
-      "name": "NO PARE",
-      "url": "https://open.spotify.com/track/4cEYQceQjgsi0hZZQQWhXp"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2247,30 +2247,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "En Bajita",
-        "url": "https://open.spotify.com/album/77hesD3v2jWR2dnhElz9Yp"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 209302,
-      "name": "En Bajita",
-      "url": "https://open.spotify.com/track/5K9VzfSr7L34rMMJxe8ndg"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Sigues Con El (Remix)",
         "url": "https://open.spotify.com/album/0vPG06qvqmD1XL1uAFysKM"
       },
@@ -2291,6 +2267,30 @@
       "duration_ms": 189566,
       "name": "Sigues Con El - Remix",
       "url": "https://open.spotify.com/track/4Pu0a2TuHOYtI4CCE3HEXI"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "En Bajita",
+        "url": "https://open.spotify.com/album/77hesD3v2jWR2dnhElz9Yp"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 209302,
+      "name": "En Bajita",
+      "url": "https://open.spotify.com/track/5K9VzfSr7L34rMMJxe8ndg"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2323,26 +2323,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "X 1 BESO",
-        "url": "https://open.spotify.com/album/1kUAz9cWiD0B2UOW0lpA6W"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        }
-      ],
-      "duration_ms": 188862,
-      "name": "X 1 BESO",
-      "url": "https://open.spotify.com/track/0aLsiURB2GJoiN0mmtEQ5P"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Now Or Never",
         "url": "https://open.spotify.com/album/1BBjdKgGAqwdEvcvqBOGfT"
       },
@@ -2371,6 +2351,26 @@
       "duration_ms": 345240,
       "name": "La Jeepeta - Remix",
       "url": "https://open.spotify.com/track/6bvfJf4KjonPMuPfGfy3S2"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "X 1 BESO",
+        "url": "https://open.spotify.com/album/1kUAz9cWiD0B2UOW0lpA6W"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "duration_ms": 188862,
+      "name": "X 1 BESO",
+      "url": "https://open.spotify.com/track/0aLsiURB2GJoiN0mmtEQ5P"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2443,46 +2443,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Ghetto Star",
-        "url": "https://open.spotify.com/album/2SjlYKPeAVcfvz7ChGCix4"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "COQE",
-          "url": "https://open.spotify.com/artist/7GAYtrIoXkEFFsSP2nhG0E"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Ghetto Star",
-      "url": "https://open.spotify.com/track/3t6SsMiA1b1Ju0HzKHIDSl"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Resistencia",
-        "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        }
-      ],
-      "duration_ms": 200506,
-      "name": "Te Gusta",
-      "url": "https://open.spotify.com/track/4l4AiTqEyjCAJui6xVREH7"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Luces De Ne\u00f3n",
         "url": "https://open.spotify.com/album/03XRoR4NgKM7VHiXzDW2wS"
       },
@@ -2523,6 +2483,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Resistencia",
+        "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "duration_ms": 200506,
+      "name": "Te Gusta",
+      "url": "https://open.spotify.com/track/4l4AiTqEyjCAJui6xVREH7"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "La Parranda (RMX)",
         "url": "https://open.spotify.com/album/4KJWnsQKwDIbcUAV3i7m5P"
       },
@@ -2547,26 +2527,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Instagram (Remix)",
-        "url": "https://open.spotify.com/album/2VJLr9Szd9xv7Dcrey5oOd"
+        "name": "Ghetto Star",
+        "url": "https://open.spotify.com/album/2SjlYKPeAVcfvz7ChGCix4"
       },
       "artists": [
         {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
         },
         {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+          "name": "COQE",
+          "url": "https://open.spotify.com/artist/7GAYtrIoXkEFFsSP2nhG0E"
         }
       ],
-      "duration_ms": 243622,
-      "name": "Instagram - Remix",
-      "url": "https://open.spotify.com/track/6yMJejrOneyPtkDnrZkEVQ"
+      "duration_ms": 197142,
+      "name": "Ghetto Star",
+      "url": "https://open.spotify.com/track/3t6SsMiA1b1Ju0HzKHIDSl"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2591,26 +2567,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Mi Gata (Remix)",
-        "url": "https://open.spotify.com/album/49nXirxfEoHGlEkrzCp2tE"
+        "name": "Instagram (Remix)",
+        "url": "https://open.spotify.com/album/2VJLr9Szd9xv7Dcrey5oOd"
       },
       "artists": [
         {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        },
-        {
-          "name": "El Barto",
-          "url": "https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP"
-        },
-        {
           "name": "Blessd",
           "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
         }
       ],
-      "duration_ms": 246315,
-      "name": "Mi Gata - Remix",
-      "url": "https://open.spotify.com/track/4llRitxwDsJF4NJbXPfatx"
+      "duration_ms": 243622,
+      "name": "Instagram - Remix",
+      "url": "https://open.spotify.com/track/6yMJejrOneyPtkDnrZkEVQ"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2643,6 +2619,30 @@
       "duration_ms": 211436,
       "name": "Te Olvido",
       "url": "https://open.spotify.com/track/1ycIhjQ4fQp2WqNFpSDEcX"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Mi Gata (Remix)",
+        "url": "https://open.spotify.com/album/49nXirxfEoHGlEkrzCp2tE"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "El Barto",
+          "url": "https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 246315,
+      "name": "Mi Gata - Remix",
+      "url": "https://open.spotify.com/track/4llRitxwDsJF4NJbXPfatx"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2811,26 +2811,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Bandidos",
-        "url": "https://open.spotify.com/album/1ZWbLN7FGdhNwla71leFnt"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
-        }
-      ],
-      "duration_ms": 224194,
-      "name": "Bandidos",
-      "url": "https://open.spotify.com/track/1KEihgohVX0H1R1C6wjYly"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "DYNASTY",
         "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
       },
@@ -2851,6 +2831,26 @@
       "duration_ms": 166929,
       "name": "UNA M\u00c1S",
       "url": "https://open.spotify.com/track/7Hzh5oY6cIitvcK6oJDwTb"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Bandidos",
+        "url": "https://open.spotify.com/album/1ZWbLN7FGdhNwla71leFnt"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        }
+      ],
+      "duration_ms": 224194,
+      "name": "Bandidos",
+      "url": "https://open.spotify.com/track/1KEihgohVX0H1R1C6wjYly"
     },
     {
       "added_at": "2023-08-04 04:00:00",

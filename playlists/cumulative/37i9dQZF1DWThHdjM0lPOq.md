@@ -4,7 +4,7 @@
 
 > Relaxing instrumental piano covers from your favourite movies.
 
-104 songs - 5 hr 38 min
+105 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [The Wonderful World of Color](https://open.spotify.com/track/6pWf0uYhOiZwooT5DGZ7j9) | [Tom Ameen](https://open.spotify.com/artist/1FIjhA2qaTqqmbaa1UgVFF) | [Solo Piano Moments](https://open.spotify.com/album/2zwA0niIsEGgwB950eDiG6) | 3:27 | 2023-03-17 |  |
 | [Theme from Fame](https://open.spotify.com/track/4KWxiel76VGlyz99XKYJXA) | [Sander Bjerke](https://open.spotify.com/artist/5CNvO8oqz1vgXgVLKA4ehv) | [Theme From Fame](https://open.spotify.com/album/6qeq6RLDXVx2nNNII88HMV) | 3:10 | 2023-03-17 |  |
 | [Theme from James Bond \(From "For Your Eyes Only"\)](https://open.spotify.com/track/1eoKe3vyNDx1xGKu6ZWoWn) | [Robbins Island Music Group](https://open.spotify.com/artist/3HGpQkENCx0Yl4vFTPde3t) | [Top 15 Movie Songs: Greatest Movie Instrumentals, Movie Music and Instrumental Movie Soundtracks](https://open.spotify.com/album/4ZciY37yRyZjYKFZn1JPe1) | 5:09 | 2023-03-22 | 2023-06-16 |
+| [Theme From Schindler's List](https://open.spotify.com/track/4ZFWFRN8uxQdg0KoGjMSIC) | [Charlie Miller](https://open.spotify.com/artist/4gedU51ks1jf6BRwzCWosG) | [Theme From Schindler's List](https://open.spotify.com/album/7y9BCGZhs0xITAlFklU4Q5) | 3:16 | 2023-08-10 |  |
 | [Theme From The Deer Hunter](https://open.spotify.com/track/0In8hRbe0nWrlaJuyFtx2Z) | [Anton Byers](https://open.spotify.com/artist/3EXHOUECuF5L9svlzdsnBu) | [Theme From The Deer Hunter](https://open.spotify.com/album/2wvMb6eQTqbWfe15zqwQSR) | 2:50 | 2023-06-08 |  |
 | [Think Of Me](https://open.spotify.com/track/1LPJlWLif9EaYJMZeta4td) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [Think Of Me](https://open.spotify.com/album/01CAZk0M1rPIItbuiBvUsx) | 3:39 | 2023-03-17 |  |
 | [Vincent](https://open.spotify.com/track/3hLwdzukhUxAB8epGFKIkf) | [Ciara Bess](https://open.spotify.com/artist/21mEXcNj7iVlrmlhownRpL) | [Vincent](https://open.spotify.com/album/1paZJP3ZNLhSyDLyoetkIC) | 3:38 | 2023-03-17 |  |

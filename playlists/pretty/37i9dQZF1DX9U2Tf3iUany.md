@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U2Tf3iUany.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/stevenvictor/">Steven Victor</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,052 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,105 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U2Tf3iUany.md) - [plain]
 | 39 | [Through the Storm](https://open.spotify.com/track/7bOlOJHn9IOaXX7IwaK905) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Until Death Call My Name \(Reloaded\)](https://open.spotify.com/album/1xFoRn9DxZXwPjEdGnw800) | 2:43 |
 | 40 | [Mojo So Dope](https://open.spotify.com/track/6hPSal3ragmfUt1I5mKZjn) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon II: The Legend Of Mr\. Rager](https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud) | 3:30 |
 | 41 | [I Got A Shot](https://open.spotify.com/track/5hNsSrWcClSp0tg4Jdd4UY) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:18 |
-| 42 | [Aim For The Moon \(feat\. Quavo\)](https://open.spotify.com/track/6O7fPYTsb2mY0PiFt2ymDB) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 2:55 |
+| 42 | [Christopher Walking](https://open.spotify.com/track/2IT0T0EqPaUxasjl2o8J2G) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo 2](https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5) | 3:10 |
 | 43 | [Saint Pablo](https://open.spotify.com/track/1o0kWPueYo94LIjPYOE5Nf) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 6:12 |
 | 44 | [The Games We Play](https://open.spotify.com/track/7iEoaTyBCqLaAwJnOP1BTn) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [DAYTONA](https://open.spotify.com/album/07bIdDDe3I3hhWpxU6tuBp) | 2:46 |
 | 45 | [Perkys Calling](https://open.spotify.com/track/05nB8pRwwbKA2fsKK1nOyE) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Purple Reign](https://open.spotify.com/album/76G83osdQ4whezYjnYwwq2) | 4:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U2Tf3iUany.md) - [plain]
 | 49 | [TTG \(feat\. Kevin Gates\)](https://open.spotify.com/track/28u9JaFwO7GX2YNARkq37P) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [4Respect 4Freedom 4Loyalty 4WhatImportant](https://open.spotify.com/album/4tCZ22E9RnUz09OaDJfaoO) | 2:52 |
 | 50 | [Karma](https://open.spotify.com/track/25YwwruYRtxe6RQdKtrZFS) | [Lloyd Banks](https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi) | [The Hunger For More](https://open.spotify.com/album/0Nk2ClpAEN3dLyzpKDVE2v) | 4:38 |
 
-Snapshot ID: `MCxhNGIyZDE5MDJkZGYzMDFjNDVlNDkxYjdlYjQwYzEzNGY2ZmRjNjYz`
+Snapshot ID: `MCxmZTgzMmJhZDljZWUzNDE4MzljMGMxODNiYzdhNDVkYzg1MjQ3M2Y1`

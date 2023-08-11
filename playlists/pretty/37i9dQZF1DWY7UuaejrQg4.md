@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 
 > 2018 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,317 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,334 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,15 +66,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 | 56 | [Lover Boy](https://open.spotify.com/track/2rd4FH1cSaWGc0ZiUaMbX9) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Lover Boy](https://open.spotify.com/album/6q6pANmFQbMk7KzlzNeBep) | 3:56 |
 | 57 | [Skin](https://open.spotify.com/track/467t3218y3yihFcyDGWjr0) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Skin](https://open.spotify.com/album/1E3Dc94QXnqiQcGVgij0iW) | 3:50 |
 | 58 | [Feeling Lonely](https://open.spotify.com/track/5uIRujGRZv5t4fGKkUTv4n) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Soy Pablo](https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw) | 3:17 |
-| 59 | [Heavy, California](https://open.spotify.com/track/34wcz4mpAActEc6gtqX3wz) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm) | 3:04 |
-| 60 | [Sesame Syrup](https://open.spotify.com/track/73ROvjXlrsrDcNmCurwWOF) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Crush](https://open.spotify.com/album/5m3edD6VcJ23DxiLPwjDaB) | 5:03 |
+| 59 | [Sesame Syrup](https://open.spotify.com/track/73ROvjXlrsrDcNmCurwWOF) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Crush](https://open.spotify.com/album/5m3edD6VcJ23DxiLPwjDaB) | 5:03 |
+| 60 | [Heavy, California](https://open.spotify.com/track/34wcz4mpAActEc6gtqX3wz) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm) | 3:04 |
 | 61 | [Generation Why](https://open.spotify.com/track/79e2GU4RLPjAqnijfvsXYr) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Sunset Season](https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz) | 3:39 |
 | 62 | [Arms](https://open.spotify.com/track/4EXvl9cypQrKVYwabqd1EY) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [On the Train Ride Home](https://open.spotify.com/album/4amdDYo23aSOrv7hSZrCMT) | 3:23 |
 | 63 | [We're Going Home](https://open.spotify.com/track/5J7zqPpQkN9JZiaELHNKSL) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:26 |
 | 64 | [Lost in Paris](https://open.spotify.com/track/6LxuNFEU3oIZ5ybBdWbZNT) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 3:14 |
 | 65 | [Summer Time High Time](https://open.spotify.com/track/77ZnKnZvitYTwGNWshn53V) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Kwe$t](https://open.spotify.com/artist/7Llo2snfeOZSNoo5508aqk) | [Chiquito](https://open.spotify.com/album/4gjhrTin1WwrEHd8GslZ7O) | 3:28 |
-| 66 | [Give Yourself A Try](https://open.spotify.com/track/4rmIfFUZhhi9sS5IYtpkXw) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 3:16 |
-| 67 | [Say, Can You Hear](https://open.spotify.com/track/7JvjjlZ5R1I1xRDsEkPuJ7) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Say, Can You Hear](https://open.spotify.com/album/6rQixYcPsSviu4PfdprZgK) | 3:09 |
+| 66 | [Say, Can You Hear](https://open.spotify.com/track/7JvjjlZ5R1I1xRDsEkPuJ7) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Say, Can You Hear](https://open.spotify.com/album/6rQixYcPsSviu4PfdprZgK) | 3:09 |
+| 67 | [Give Yourself A Try](https://open.spotify.com/track/4rmIfFUZhhi9sS5IYtpkXw) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 3:16 |
 | 68 | [Talia](https://open.spotify.com/track/53jbdPQBaH6WaQvW0zmGBs) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Talia](https://open.spotify.com/album/5Z9ThGv7MrUjdZJREO9GOF) | 3:27 |
 | 69 | [Greek God](https://open.spotify.com/track/7KJXiuMXQu723ODChoxENp) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Sunset Season](https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz) | 3:56 |
 | 70 | [You & Jennifer](https://open.spotify.com/track/0g21KZ1XJuhwexWPLpuEt1) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Damaged Vol\. 2](https://open.spotify.com/album/1gZ3Wi966cliRIktXiaWij) | 2:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 | 99 | [Miracle](https://open.spotify.com/track/2Kc1WhZsBbR2ZLbSyv83hO) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Love Is Dead](https://open.spotify.com/album/4ePbJdHu99l50AwUnG1baG) | 3:08 |
 | 100 | [Calm](https://open.spotify.com/track/4j7R6F40QS9mlvAOKP8U9G) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Calm](https://open.spotify.com/album/4yuJkYEGuZ5cR5qMtS342L) | 3:28 |
 
-Snapshot ID: `MCxkM2Q4YzIyYmFjZmY3YjBmZDNiMjFmYWQ2NjIwOTExMGMyNmQ1MTVl`
+Snapshot ID: `MCxiNDI5ODJhYWViZWQyMjI1YzBlMTg5NzU0ODc4ZTE3N2NkOGRmMWMx`

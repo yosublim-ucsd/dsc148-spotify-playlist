@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap\. Cover: RL Grime
 
-[Spotify](https://open.spotify.com/user/spotify) - 889,154 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 889,224 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 56 | [SUB ZERO](https://open.spotify.com/track/72VyFG8WRK6CeV3ToXccOm) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [AUTOPILOT](https://open.spotify.com/album/72LShUJi8Na0lmTzni1O6c) | 3:14 |
 | 57 | [Silo \(feat\. fknsyd\)](https://open.spotify.com/track/49Z1VQivkHoY5KGdUwMv5i) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Sable Valley Summer Vol\. 3](https://open.spotify.com/album/2TklWyQdmNHg7d2Xmam8G8) | 4:07 |
 | 58 | [Do or Die \(feat\. Childish Gambino\)](https://open.spotify.com/track/2BTPW7osibjN9gFDRY4mYN) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Blow the Roof](https://open.spotify.com/album/1mpCVicVx2roKL7Bq2i6Vz) | 4:05 |
-| 59 | [Bellz](https://open.spotify.com/track/753DZsGGXlasRCp48FmOhH) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [V!BEZ, Vol\. 4](https://open.spotify.com/album/1FJ7kXrCmyFtR2B1NBpYDu) | 2:40 |
-| 60 | [Came Up](https://open.spotify.com/track/7f4Pjqs3XHSfV1UwX5vjxo) | [Flosstradamus](https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j), [FKi 1st](https://open.spotify.com/artist/53ixqKNKVTgtSx3m3DGMA2), [graves](https://open.spotify.com/artist/4E69riquObrTmBTVuF1b7B), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [KEY!](https://open.spotify.com/artist/2tMOCIpxj6jwM9e6pmwGiP) | [Came Up](https://open.spotify.com/album/1UKFMf12OfFIpeRFLvgfqD) | 3:34 |
+| 59 | [Came Up](https://open.spotify.com/track/7f4Pjqs3XHSfV1UwX5vjxo) | [Flosstradamus](https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j), [FKi 1st](https://open.spotify.com/artist/53ixqKNKVTgtSx3m3DGMA2), [graves](https://open.spotify.com/artist/4E69riquObrTmBTVuF1b7B), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [KEY!](https://open.spotify.com/artist/2tMOCIpxj6jwM9e6pmwGiP) | [Came Up](https://open.spotify.com/album/1UKFMf12OfFIpeRFLvgfqD) | 3:34 |
+| 60 | [Bellz](https://open.spotify.com/track/753DZsGGXlasRCp48FmOhH) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [V!BEZ, Vol\. 4](https://open.spotify.com/album/1FJ7kXrCmyFtR2B1NBpYDu) | 2:40 |
 | 61 | [Braincase](https://open.spotify.com/track/3AawFHorBGEDdM9ngI8ofa) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Braincase](https://open.spotify.com/album/2yTltxoHOTg3reSa6Hll3r) | 3:12 |
 | 62 | [Rail Breaker \(feat\. Rico Act\)](https://open.spotify.com/track/3qhW0ioG27ZRFbZn1diK2m) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Rico Act](https://open.spotify.com/artist/7MHhTZbxn2XRwXK4s2BFO6) | [Rail Breaker \(feat\. Rico Act\)](https://open.spotify.com/album/1mphFKSXZBzN35UF4KrdRc) | 3:45 |
 | 63 | [I Love You.](https://open.spotify.com/track/3TmTEN2zy0cyYMjiviWbMK) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [I Love You.](https://open.spotify.com/album/007IZz4ZFvWVKiFW1bgON9) | 4:06 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 95 | [In Motion \(feat\. Reo Cragun\)](https://open.spotify.com/track/53d5dxYPtRLPmqPe9VpZ67) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy), [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u) | [In Motion](https://open.spotify.com/album/71lqyPEsdWsJhqYhylY1vy) | 3:01 |
 | 96 | [Replay](https://open.spotify.com/track/47dkQqmCfAjtKGofoDyd7x) | [Buku](https://open.spotify.com/artist/0w2QFhEnPG6tLIvkogHbUi), [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [Replay](https://open.spotify.com/album/6R8buPuDpgqL0fgSsdUWXF) | 3:48 |
 | 97 | [Mumbai Mode](https://open.spotify.com/track/2qmbvhG8hWX0FVN87sh3TW) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [OG Maco](https://open.spotify.com/artist/0nvvVQhPQGkYTJlThLbJeu) | [PHASE III](https://open.spotify.com/album/4zY1gyzLYtfBYLHw9pEFzo) | 2:58 |
-| 98 | [Act Like You Know](https://open.spotify.com/track/0WEnWvpmtWqDCuuoxCMH5x) | [Chee](https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA) | [Act Like You Know](https://open.spotify.com/album/3iaRAgVVvXiLaIXpfkPrtj) | 3:48 |
-| 99 | [Twitter](https://open.spotify.com/track/45NRSkN11nKunCO8gwswug) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Syaqish](https://open.spotify.com/artist/0rjNEyvqvYCFdCG2a3Y2yq) | [Twitter](https://open.spotify.com/album/1Wx5ndC4uft7G0V3DwY9Cu) | 2:45 |
+| 98 | [Twitter](https://open.spotify.com/track/45NRSkN11nKunCO8gwswug) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Syaqish](https://open.spotify.com/artist/0rjNEyvqvYCFdCG2a3Y2yq) | [Twitter](https://open.spotify.com/album/1Wx5ndC4uft7G0V3DwY9Cu) | 2:45 |
+| 99 | [Act Like You Know](https://open.spotify.com/track/0WEnWvpmtWqDCuuoxCMH5x) | [Chee](https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA) | [Act Like You Know](https://open.spotify.com/album/3iaRAgVVvXiLaIXpfkPrtj) | 3:48 |
 | 100 | [Blinker](https://open.spotify.com/track/0KrMPgjnEpeV19n7liI59i) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv) | [Moving Points](https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE) | 2:35 |
 
-Snapshot ID: `MCw5YjE5N2U2NDQ1MzI5YzEzMWNjZDlmMTFkYzcyMjRiMjFhMTgxMjgx`
+Snapshot ID: `MCw1ZTQyNzQ4NjAxM2ExMDIxMGI2YTAxNDQwNzVjNjJmNGEwZTFhMDA5`

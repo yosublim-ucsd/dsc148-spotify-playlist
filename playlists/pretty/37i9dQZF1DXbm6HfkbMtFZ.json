@@ -1,12 +1,12 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 678775,
+  "num_followers": 678895,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDI3OGYzODBkZDc2MzcwNTNhZmUzMGI3NmFiYTY3MDg5N2RmYmM5",
+  "snapshot_id": "MCxkZTdiODc2NjI0ODM5ZmUwOGYzYmFkZmRjNWZiYzM4YzY2NWM1YmU2",
   "tracks": [
     {
       "added_at": "2023-07-25 17:32:56",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
+        "name": "Rhymes & Reasons",
+        "url": "https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 147466,
+      "name": "Bitter with the Sweet",
+      "url": "https://open.spotify.com/track/6MBS3ARYYlI4FtYjaTinK5"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
         "name": "Water Your Garden",
         "url": "https://open.spotify.com/album/0r0l3PRmsPwylAZQM16e7a"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 169333,
       "name": "Water Your Garden",
       "url": "https://open.spotify.com/track/0CVaDx0YP1nMwZd1eg88cX"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
-        "name": "Rhymes & Reasons",
-        "url": "https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv"
-      },
-      "artists": [
-        {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        }
-      ],
-      "duration_ms": 147466,
-      "name": "Bitter with the Sweet",
-      "url": "https://open.spotify.com/track/6MBS3ARYYlI4FtYjaTinK5"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -775,6 +775,26 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        },
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 226103,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
         "name": "Today",
         "url": "https://open.spotify.com/album/5e6aNHa0O1MIO79GfIQDW3"
       },
@@ -823,22 +843,6 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "The Information",
-        "url": "https://open.spotify.com/album/4vvGnnUgid9IbTS3sUVYCF"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 199426,
-      "name": "Think I'm In Love",
-      "url": "https://open.spotify.com/track/5r9WJVe1yhJx9ZUg30XEHQ"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
         "name": "Bonnie Raitt (2008 Remaster)",
         "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
       },
@@ -851,6 +855,22 @@
       "duration_ms": 170800,
       "name": "Thank You - 2008 Remaster",
       "url": "https://open.spotify.com/track/2zLIjfjQ8kMy7WSSLmF0I2"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
+        "name": "The Information",
+        "url": "https://open.spotify.com/album/4vvGnnUgid9IbTS3sUVYCF"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 199426,
+      "name": "Think I'm In Love",
+      "url": "https://open.spotify.com/track/5r9WJVe1yhJx9ZUg30XEHQ"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -919,26 +939,6 @@
       "duration_ms": 311880,
       "name": "Let 'Em In - 2014 Remaster",
       "url": "https://open.spotify.com/track/37RqEET1SYQaAcHDxDQLZY"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
-        "name": "Odyssey",
-        "url": "https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        },
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 226103,
-      "name": "Odyssey",
-      "url": "https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "Jaime",
-        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 191395,
-      "name": "Stay High",
-      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
         "name": "You're so Fine",
         "url": "https://open.spotify.com/album/22kWUpDiarfEBR01M9Oei5"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 242773,
       "name": "O.P. Jebediah",
       "url": "https://open.spotify.com/track/2osA04Ftqanbf9P3uJjTJb"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
+        "name": "Jaime",
+        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 191395,
+      "name": "Stay High",
+      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
+        "name": "From Liberty Street",
+        "url": "https://open.spotify.com/album/6edYKJPDkKIJv0mDYpVT0K"
+      },
+      "artists": [
+        {
+          "name": "Mapache",
+          "url": "https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO"
+        }
+      ],
+      "duration_ms": 202120,
+      "name": "Life On Fire",
+      "url": "https://open.spotify.com/track/0kUIRi6z4yfHVG4qoksVxF"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
         "name": "Always Afternoon",
         "url": "https://open.spotify.com/album/5DaHMJFjoslPtN7m9xDNYi"
       },
@@ -1763,6 +1779,22 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
+        "name": "Music and Dreams",
+        "url": "https://open.spotify.com/album/7D9LwyfF1jH5nfSgZDYxRO"
+      },
+      "artists": [
+        {
+          "name": "Robert Lester Folsom",
+          "url": "https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX"
+        }
+      ],
+      "duration_ms": 168173,
+      "name": "My Stove's on Fire",
+      "url": "https://open.spotify.com/track/1rQeb39RWb5BaRqsxTTccU"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
         "name": "Cruisin' To The Parque",
         "url": "https://open.spotify.com/album/4WZY8uTnoLtLPyeROJhAxh"
       },
@@ -1787,22 +1819,6 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "Music and Dreams",
-        "url": "https://open.spotify.com/album/7D9LwyfF1jH5nfSgZDYxRO"
-      },
-      "artists": [
-        {
-          "name": "Robert Lester Folsom",
-          "url": "https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX"
-        }
-      ],
-      "duration_ms": 168173,
-      "name": "My Stove's on Fire",
-      "url": "https://open.spotify.com/track/1rQeb39RWb5BaRqsxTTccU"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
         "name": "Just Like You Used To",
         "url": "https://open.spotify.com/album/1KL7kl1XBGuAd5Z3xij3Mg"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 188155,
       "name": "Just Like You Used To",
       "url": "https://open.spotify.com/track/7muZRuzw9GrlftSblA5Bkf"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
-        "name": "From Liberty Street",
-        "url": "https://open.spotify.com/album/6edYKJPDkKIJv0mDYpVT0K"
-      },
-      "artists": [
-        {
-          "name": "Mapache",
-          "url": "https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO"
-        }
-      ],
-      "duration_ms": 202120,
-      "name": "Life On Fire",
-      "url": "https://open.spotify.com/track/0kUIRi6z4yfHVG4qoksVxF"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "Gold Past Life",
-        "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 209533,
-      "name": "Gold Past Life",
-      "url": "https://open.spotify.com/track/0IN0ST4OUeSCWASMGa8DyP"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
         "name": "Dusk at Cubist Castle",
         "url": "https://open.spotify.com/album/7IBuhzVZPhSqMDMIP60Ehh"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 112066,
       "name": "Jumping Fences",
       "url": "https://open.spotify.com/track/36Us7iQfslxRe1sOqUDmyt"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
+        "name": "Gold Past Life",
+        "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 209533,
+      "name": "Gold Past Life",
+      "url": "https://open.spotify.com/track/0IN0ST4OUeSCWASMGa8DyP"
     }
   ],
   "unique_name": "Feel Good Dinner",

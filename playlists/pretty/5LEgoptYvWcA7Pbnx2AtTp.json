@@ -6,7 +6,7 @@
     "name": "Daniel",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "OTUsNWY1MmVkY2QwYjBlZGE5MmMwYzBlNDExMzk2MWQwMDhlYTQ1NGI3Mw==",
+  "snapshot_id": "OTgsNDc4ZjM4NGU5MzU0YzgzNjU0ZmUwMDM3ZmYzY2ZkNWI4ZDZiZWMyYQ==",
   "tracks": [
     {
       "added_at": "2022-05-06 11:09:16",
@@ -1095,6 +1095,54 @@
       "duration_ms": 462933,
       "name": "Insanity - Live",
       "url": "https://open.spotify.com/track/6oLNowpcdWveCBm5l52Wwj"
+    },
+    {
+      "added_at": "2023-08-10 14:13:13",
+      "album": {
+        "name": "Blasterpiece",
+        "url": "https://open.spotify.com/album/1QGh29u6gecFcSXOVloWEX"
+      },
+      "artists": [
+        {
+          "name": "Bear Ghost",
+          "url": "https://open.spotify.com/artist/1N1JZ3SRv6PSzAsOEW2aZp"
+        }
+      ],
+      "duration_ms": 229970,
+      "name": "Starkiller",
+      "url": "https://open.spotify.com/track/7azVZvIvANuD4sLlwqs2g2"
+    },
+    {
+      "added_at": "2023-08-10 14:28:04",
+      "album": {
+        "name": "Haunt, The Cartoon Heart",
+        "url": "https://open.spotify.com/album/5Auri0aA3uPJJWVFvqK07e"
+      },
+      "artists": [
+        {
+          "name": "Bear Ghost",
+          "url": "https://open.spotify.com/artist/1N1JZ3SRv6PSzAsOEW2aZp"
+        }
+      ],
+      "duration_ms": 218965,
+      "name": "Haunt, The Cartoon Heart",
+      "url": "https://open.spotify.com/track/07wdHt1i1Mhba54cjKvDM1"
+    },
+    {
+      "added_at": "2023-08-10 20:29:58",
+      "album": {
+        "name": "Your Parents Are Only Marginally Disappointed in Your Musical Taste",
+        "url": "https://open.spotify.com/album/15b8BZbbE9M7Dx2twH81p0"
+      },
+      "artists": [
+        {
+          "name": "Bear Ghost",
+          "url": "https://open.spotify.com/artist/1N1JZ3SRv6PSzAsOEW2aZp"
+        }
+      ],
+      "duration_ms": 274200,
+      "name": "Dotab",
+      "url": "https://open.spotify.com/track/4ODJ8ptwnVtxXs4d71eHNJ"
     }
   ],
   "unique_name": "Questionable Bops",

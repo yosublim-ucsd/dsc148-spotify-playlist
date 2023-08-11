@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EM98aZosoy.md) - [plain]
 
 > Feiern mit den größten aktuellen Partyhits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,266,284 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,266,337 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EM98aZosoy.md) - [plain]
 | 49 | [61 Grad \(Deep House RMX\)](https://open.spotify.com/track/5HsrYtb503rCCWyZvGtf4v) | [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7), [TM](https://open.spotify.com/artist/2yh2yg3b2viRskto7M1cx7) | [61 Grad \(Deep House RMX\)](https://open.spotify.com/album/4lT60ivI572gAiaChQ6cCw) | 1:53 |
 | 50 | [Auf die Party](https://open.spotify.com/track/5qDzKUTHCUiKhewBa9STsE) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h), [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Auf die Party](https://open.spotify.com/album/57Mo2UNrJR14lhdZU5WXbt) | 2:44 |
 
-Snapshot ID: `MCxhMjBlNGNmMzE5YzAzZTY2YWQxNjdhYTgzNGYzNDIyYzc0OWExOGE0`
+Snapshot ID: `MCwxNWVhZmY5NzE4ZTY5M2VlZDQ5NDM5MTY3NTMwODQ4NDgxOWU4ZGU4`

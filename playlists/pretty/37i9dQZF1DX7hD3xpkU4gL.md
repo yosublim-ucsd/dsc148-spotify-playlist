@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hD3xpkU4gL.md) - [plain]
 
 > Para cantar muy bajito..\. o a voz en grito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,203 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,386 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hD3xpkU4gL.md) - [plain]
 | 93 | [Eres Mi Religión \- 2020 Remasterizado](https://open.spotify.com/track/2H3kc8vwKWtgaDWs0Xw98Y) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Revolución De Amor \(2020 Remasterizado\)](https://open.spotify.com/album/4bP1H8sP05Bvu4LB2RbyC2) | 5:29 |
 | 94 | [Hoy tengo ganas de ti](https://open.spotify.com/track/17oji5hYaIqOFWFnPPWCeJ) | [Miguel Gallardo](https://open.spotify.com/artist/5imd6MnP4WpDohSwFnO38T) | [2 \(Remasterizado 2017\)](https://open.spotify.com/album/5g5J0Xr0ERqUJXGhEGneOr) | 4:05 |
 | 95 | [Te Amaré](https://open.spotify.com/track/3PFyeq4aBtLfShPJ9oiK4p) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | ["Miguel"](https://open.spotify.com/album/6Xo9GlYWbxSTZn0KI7l7Gb) | 3:31 |
-| 96 | [Hey \- Spanish](https://open.spotify.com/track/3X8buu765D59qlQ6z78I8A) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Begin the Beguine](https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS) | 5:00 |
-| 97 | [A Medio Vivir](https://open.spotify.com/track/4h9WxkuyzScrrPiK9nYtah) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:41 |
+| 96 | [A Medio Vivir](https://open.spotify.com/track/4h9WxkuyzScrrPiK9nYtah) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:41 |
+| 97 | [Hey \- Spanish](https://open.spotify.com/track/3X8buu765D59qlQ6z78I8A) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Begin the Beguine](https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS) | 5:00 |
 | 98 | [Cuando nadie me ve](https://open.spotify.com/track/7sNpt6AvOvXXZVaqTCFVCu) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [El alma al aire](https://open.spotify.com/album/5H3nqNi9L3NaxPG45h3CjJ) | 5:08 |
 | 99 | [\(They Long To Be\) Close To You](https://open.spotify.com/track/50q2aUjWoTn6CJIfSPRJQA) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Close To You](https://open.spotify.com/album/1CsuCA05y9r7ftG9bGGtWV) | 4:36 |
 | 100 | [Contigo Siempre](https://open.spotify.com/track/17LxkTp8UNbPcYrDrI6UOq) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Contigo Siempre](https://open.spotify.com/album/1DuXr4GCQLue0kTKvI6Txa) | 3:21 |
 
-Snapshot ID: `MCw3MGVjZGY5ZTQxZWI0YzU5YzkyY2JjZWI3MjhlMmIxNzQ1NGZlMjI3`
+Snapshot ID: `MCxiNTA1ZWY3YTZhZmQ3NTcyZjMyNDAzZmJiNjZhOThmYTBlNTk0NTY5`

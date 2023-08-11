@@ -4,7 +4,7 @@
 
 > 沒有什麼比感覺好更重要了！這裡的歌曲能大大振奮心情、令你元氣十足！
 
-299 songs - 15 hr 51 min
+300 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [everybody hates me](https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [everybody hates me](https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q) | 2:00 | 2023-03-13 | 2023-03-21 |
 | [Everything Is Nothing](https://open.spotify.com/track/0Uk4Vl90h4B217sWhXJeIf) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Everything Is Nothing](https://open.spotify.com/album/2Gg9al8bC4Je0nmgRAnujj) | 2:01 | 2022-12-06 | 2022-12-13 |
 | [Eyes On You](https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Eyes On You](https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE) | 2:57 | 2022-11-21 | 2023-07-29 |
+| [Eyes On You](https://open.spotify.com/track/6xpAcenBpNYOyljTMLvzVi) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:57 | 2023-08-07 |  |
 | [Eyes Wide Shut](https://open.spotify.com/track/556awMv4WQP0h1VXMU8rSU) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 2:32 | 2023-05-01 |  |
 | [Fall 4 u](https://open.spotify.com/track/6EWUXXPFn2S7FBI0W7cs5l) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Fall 4 u](https://open.spotify.com/album/3tZfjLiISFF10SgVj4nsmw) | 3:33 | 2022-10-31 | 2022-11-08 |
 | [Fall So Hard](https://open.spotify.com/track/07J3p1GchLPc2kAKFgd1TD) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Fall So Hard](https://open.spotify.com/album/3eMGUahL7jCK0PImHwWMnw) | 3:34 | 2022-06-06 | 2022-07-29 |
@@ -224,7 +225,7 @@
 | [Running Out Of Time](https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:12 | 2023-02-13 |  |
 | [Santa's Coming for Us](https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:26 | 2022-11-14 | 2023-02-15 |
 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 | 2022-06-06 |  |
-| [She's So Gone](https://open.spotify.com/track/4DTrKnvkHtwQN6kBu4XXIF) | [Naomi Scott](https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS) | [Lemonade Mouth](https://open.spotify.com/album/6Vsml6sziVKBHxbMEp5wgQ) | 3:06 | 2022-07-25 |  |
+| [She's So Gone](https://open.spotify.com/track/4DTrKnvkHtwQN6kBu4XXIF) | [Naomi Scott](https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS) | [Lemonade Mouth](https://open.spotify.com/album/6Vsml6sziVKBHxbMEp5wgQ) | 3:06 | 2022-07-25 | 2023-08-11 |
 | [Shelter \(feat\. Avril Lavigne\)](https://open.spotify.com/track/62pC4mgtn2CwTxEHVbCCvn) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [God Save The Teen](https://open.spotify.com/album/2nGoq5bReMW1NvKsbjoCBw) | 3:10 | 2023-02-07 | 2023-02-14 |
 | [She’s Nothing](https://open.spotify.com/track/06JZhG8kkmhan3G79nKnFY) | [Zara Leola](https://open.spotify.com/artist/4vaDsig0zUuO0Z91IU2Ky8), [Eka Gustiwana](https://open.spotify.com/artist/0VDaMGtUchXP8EtF1iUVIi), [Enda](https://open.spotify.com/artist/4ERsngIfRMCoYbB2PO59rb), [Achmad Satria](https://open.spotify.com/artist/0LUaCu2nL8WHKvXbbM3mLT) | [She’s Nothing](https://open.spotify.com/album/50VfNalazedQhxpLc9YyRY) | 3:06 | 2022-06-06 | 2022-07-28 |
 | [Shut Me Up](https://open.spotify.com/track/1XuushYZmiAuKpPYTj7p3v) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Shut Me Up](https://open.spotify.com/album/3iggNyh19LyTVYH5SexoYr) | 2:21 | 2023-02-27 | 2023-07-16 |

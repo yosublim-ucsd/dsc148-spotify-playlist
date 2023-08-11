@@ -1,12 +1,12 @@
 {
   "description": "A dose of high-energy rock & alt songs for your workout.",
-  "num_followers": 614868,
+  "num_followers": 614869,
   "original_name": "Rock Me Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NmQ2YWUzNTU1ODI3ZmI3MGExZjY2ZDY5YzdiYjVlNmQyMjNlYmUy",
+  "snapshot_id": "MCwzZTliYmEwNGM5MjYxOGI4MDMwNGViYmE0YzdiZTI4YmJhNGY5YTIy",
   "tracks": [
     {
       "added_at": "2023-06-23 04:00:00",
@@ -367,6 +367,22 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 193106,
+      "name": "1901",
+      "url": "https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "Sick of U",
         "url": "https://open.spotify.com/album/2DA4VGpM7OkPIAiyviDPCl"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 168676,
       "name": "Sick of U (with Oliver Tree)",
       "url": "https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Wolfgang Amadeus Phoenix",
-        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 193106,
-      "name": "1901",
-      "url": "https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta"
     },
     {
       "added_at": "2023-06-23 04:00:00",

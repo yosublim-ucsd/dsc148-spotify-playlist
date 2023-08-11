@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRnup1IgL4a.md) - [plain]
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,252 likes - 151 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,306 likes - 151 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,19 +16,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRnup1IgL4a.md) - [plain]
 | 6 | [A la recherche de l'autre](https://open.spotify.com/track/7tRL2A19PEY7MbLttIL8T8) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [A la recherche de l'autre](https://open.spotify.com/album/17WLl7MsDL25RsYFH0nPvO) | 2:17 |
 | 7 | [Signum](https://open.spotify.com/track/70Z6rUWqzQha0RMFcyJIiJ) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Signum](https://open.spotify.com/album/49dELtri6eKyk7Dq2zIqQB) | 2:35 |
 | 8 | [Inside the stone](https://open.spotify.com/track/1TgZWTvjhmFiHh7A7ld6kl) | [lili may](https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a) | [Inside the stone](https://open.spotify.com/album/2u9U3J5NzpPSPds9VsP5xi) | 2:04 |
-| 9 | [Five Cornered Room](https://open.spotify.com/track/41iPgjTzfG65v54L3pwst9) | [Golden Horses](https://open.spotify.com/artist/5MXNb6vuHgdZalR71LkKgd) | [Five Cornered Room](https://open.spotify.com/album/04AbFpNCNq5Az76OyS0MR1) | 2:46 |
-| 10 | [Sommersby](https://open.spotify.com/track/01n9zpPrEWCKsH6o27WwWR) | [Joseph Cline](https://open.spotify.com/artist/4I9DN3aBJSdzI26IuzVl0h) | [Sommersby](https://open.spotify.com/album/5q7aaYPfvt8uOpaLJudHjH) | 1:48 |
-| 11 | [Slowmood](https://open.spotify.com/track/2uBdx5OBEQmRIBcM7FSnSB) | [Mike Duff](https://open.spotify.com/artist/3CCA4rgJaywSdKgYyuBzQy) | [Slowmood](https://open.spotify.com/album/5E4adlY3rgcjvPrA3jqE0L) | 2:15 |
-| 12 | [Rest Sea](https://open.spotify.com/track/5UcoxNaxIuTV1WQ4eOzvYm) | [Glen Beasley](https://open.spotify.com/artist/46Xi2XceJCdHvaqnh55jyP) | [Rest Sea](https://open.spotify.com/album/1TXSpQbz2TlYhGxfh5eowq) | 2:13 |
-| 13 | [Tintern Abbey](https://open.spotify.com/track/3aWttEx2k00f2UEZDgZBX1) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Tintern Abbey](https://open.spotify.com/album/1z2U5VHq0Zz7pWypdxUjUp) | 2:29 |
-| 14 | [To The Train](https://open.spotify.com/track/1f8zxyXpm6WkSA0az7Wjry) | [Dössell](https://open.spotify.com/artist/4lKCYv9Hojq6QHDMZmW1It) | [Shining in the Shade](https://open.spotify.com/album/02DUOVZpVb47edaTaNTBPT) | 3:20 |
-| 15 | [Keep On Moving](https://open.spotify.com/track/5tJ57yb6Q9PfJI3CBqeKNl) | [Michael Blaese](https://open.spotify.com/artist/338z4B7XseWDX332TXVIsq) | [Keep On Moving](https://open.spotify.com/album/596VrDMDmG48YKdcAnSvm9) | 1:36 |
-| 16 | [Star Light, Star Bright](https://open.spotify.com/track/18NPykyiopBb8OczHCMlOh) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [Star Light, Star Bright](https://open.spotify.com/album/4tAfJtrMopxQiLpPFWEnes) | 1:57 |
-| 17 | [Lovely Secrets](https://open.spotify.com/track/4I7btOSG6pDNBxptBTrKQG) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [Lovely Secrets](https://open.spotify.com/album/7tKiOXcCi7lsyzrdsH56qi) | 2:22 |
-| 18 | [Blush](https://open.spotify.com/track/02lN91c8sceWQBD7JVhYaz) | [K.C Brown](https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa) | [Blush](https://open.spotify.com/album/6Gcvlj6eQHvDSpU9nMM3M2) | 2:29 |
-| 19 | [Revolving Wheel](https://open.spotify.com/track/7Bbk1oFCZwU4k3ODJzNqRH) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [Revolving Wheel](https://open.spotify.com/album/6Q5jVBPXmleh97QRUN5s5N) | 2:14 |
-| 20 | [Passing Through](https://open.spotify.com/track/1y4XIS1dYvAfxjVjYeO7Jt) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Passing Through](https://open.spotify.com/album/2ByVknXLBoYoXVP8hzGQ5s) | 2:06 |
-| 21 | [Ianthe](https://open.spotify.com/track/2ceHVcgNFK0mOTobgkfcKq) | [Iris Dauphin](https://open.spotify.com/artist/0XlymLAYuZ9DubWIEUmFR0) | [Ianthe](https://open.spotify.com/album/6nj0buHhm6cNARNGzSlDeZ) | 2:07 |
+| 9 | [Sommersby](https://open.spotify.com/track/01n9zpPrEWCKsH6o27WwWR) | [Joseph Cline](https://open.spotify.com/artist/4I9DN3aBJSdzI26IuzVl0h) | [Sommersby](https://open.spotify.com/album/5q7aaYPfvt8uOpaLJudHjH) | 1:48 |
+| 10 | [Slowmood](https://open.spotify.com/track/2uBdx5OBEQmRIBcM7FSnSB) | [Mike Duff](https://open.spotify.com/artist/3CCA4rgJaywSdKgYyuBzQy) | [Slowmood](https://open.spotify.com/album/5E4adlY3rgcjvPrA3jqE0L) | 2:15 |
+| 11 | [Rest Sea](https://open.spotify.com/track/5UcoxNaxIuTV1WQ4eOzvYm) | [Glen Beasley](https://open.spotify.com/artist/46Xi2XceJCdHvaqnh55jyP) | [Rest Sea](https://open.spotify.com/album/1TXSpQbz2TlYhGxfh5eowq) | 2:13 |
+| 12 | [Tintern Abbey](https://open.spotify.com/track/3aWttEx2k00f2UEZDgZBX1) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Tintern Abbey](https://open.spotify.com/album/1z2U5VHq0Zz7pWypdxUjUp) | 2:29 |
+| 13 | [To The Train](https://open.spotify.com/track/1f8zxyXpm6WkSA0az7Wjry) | [Dössell](https://open.spotify.com/artist/4lKCYv9Hojq6QHDMZmW1It) | [Shining in the Shade](https://open.spotify.com/album/02DUOVZpVb47edaTaNTBPT) | 3:20 |
+| 14 | [Star Light, Star Bright](https://open.spotify.com/track/18NPykyiopBb8OczHCMlOh) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [Star Light, Star Bright](https://open.spotify.com/album/4tAfJtrMopxQiLpPFWEnes) | 1:57 |
+| 15 | [Five Cornered Room](https://open.spotify.com/track/41iPgjTzfG65v54L3pwst9) | [Golden Horses](https://open.spotify.com/artist/5MXNb6vuHgdZalR71LkKgd) | [Five Cornered Room](https://open.spotify.com/album/04AbFpNCNq5Az76OyS0MR1) | 2:46 |
+| 16 | [Lovely Secrets](https://open.spotify.com/track/4I7btOSG6pDNBxptBTrKQG) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [Lovely Secrets](https://open.spotify.com/album/7tKiOXcCi7lsyzrdsH56qi) | 2:22 |
+| 17 | [Blush](https://open.spotify.com/track/02lN91c8sceWQBD7JVhYaz) | [K.C Brown](https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa) | [Blush](https://open.spotify.com/album/6Gcvlj6eQHvDSpU9nMM3M2) | 2:29 |
+| 18 | [Revolving Wheel](https://open.spotify.com/track/7Bbk1oFCZwU4k3ODJzNqRH) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [Revolving Wheel](https://open.spotify.com/album/6Q5jVBPXmleh97QRUN5s5N) | 2:14 |
+| 19 | [Passing Through](https://open.spotify.com/track/1y4XIS1dYvAfxjVjYeO7Jt) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Passing Through](https://open.spotify.com/album/2ByVknXLBoYoXVP8hzGQ5s) | 2:06 |
+| 20 | [Ianthe](https://open.spotify.com/track/2ceHVcgNFK0mOTobgkfcKq) | [Iris Dauphin](https://open.spotify.com/artist/0XlymLAYuZ9DubWIEUmFR0) | [Ianthe](https://open.spotify.com/album/6nj0buHhm6cNARNGzSlDeZ) | 2:07 |
+| 21 | [Devotion](https://open.spotify.com/track/6jEZ4J76ZXnj49JZrMCTIM) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Devotion](https://open.spotify.com/album/6ygOd5rPLlHFTzQS2CMpmk) | 2:45 |
 | 22 | [Ode Au Chagrin](https://open.spotify.com/track/6AQ6EficiiIlDgIutcH60i) | [Katharina Becquer](https://open.spotify.com/artist/5BT146Y5PHI3f8l5ocNQCC) | [Ode Au Chagrin](https://open.spotify.com/album/7d8e1ke0qGHlRqTLa7PAYN) | 2:11 |
 | 23 | [Inno](https://open.spotify.com/track/2exAKnDc96TYgcySwQe5lY) | [Enzo La Mattina](https://open.spotify.com/artist/6z7U7lNXziQtlaVlWbfJa9) | [Inno](https://open.spotify.com/album/6o8hZNZB0cQKkIqobZWutg) | 2:05 |
 | 24 | [End Of Us](https://open.spotify.com/track/0HzYFF9wRz7CiVfag6yvi2) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [Break Of Day](https://open.spotify.com/album/1izp4JeZb5r3bPSIQVCv0o) | 2:52 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRnup1IgL4a.md) - [plain]
 | 150 | [Rio De La Plata](https://open.spotify.com/track/1H4v0YFVVKN8uU6nxzmfWt) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Rio De La Plata](https://open.spotify.com/album/4WhBZeA6L71Jy9sNXZm0Cd) | 4:06 |
 | 151 | [La Storia D'Amor](https://open.spotify.com/track/2FNvWhfz1C20qwZaADbkcz) | [Indigo Mazati](https://open.spotify.com/artist/4qJEsoXFek6XB6R2GjJzJw) | [La Storia D'amor](https://open.spotify.com/album/1TlO2EbMobeLY5DQncxm1Q) | 2:50 |
 
-Snapshot ID: `MCwyNjNhOGI5NWZkYzNmOGRlMzkzOWY3ODkxZTIxODQwMTljYzIwMGYw`
+Snapshot ID: `MCw1YzliMTdkMDQyM2Q0NDRkZjRkNDg5OWRkMGFiNjgxMWFiOTFmMmNh`

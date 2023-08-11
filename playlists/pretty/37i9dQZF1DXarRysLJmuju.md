@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > Keep up with the latest pop hits\. Cover: Halle
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,792 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,815 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 99 | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4) | 3:06 |
 | 100 | [HAPPY](https://open.spotify.com/track/3ZEno9fORwMA1HPecdLi0R) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [HOPE](https://open.spotify.com/album/6zaisPwfcIAfdUGPj3mmGY) | 4:02 |
 
-Snapshot ID: `MCwyYWM0MTFhOGJmOWZlMTllNGQ5MDhlZTgzNzcyZDNlZDc3OWQwMjY0`
+Snapshot ID: `MCxiZDYzMzQzNjMwMDEzZGNkYWJhZjgyMTMxZDJhOTEwMmIwZmU5MGVi`

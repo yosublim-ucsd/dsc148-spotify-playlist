@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 
 > Texas' own Parker McCollum is taking over to celebrate the release of his new album "Never Enough"!
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,977 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,105 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,17 +41,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 31 | [Settle Me Down](https://open.spotify.com/track/3CYpmhtAu6DCAwfkYB2mQ9) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [The Highway Kind](https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ) | 2:57 |
 | 32 | [Hippies and Cowboys](https://open.spotify.com/track/0G7pjeHX2TDqw6mx14puWg) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Less Wise](https://open.spotify.com/album/4TeULghzyCR6UEe2Y2wgHa) | 5:00 |
 | 33 | [Amarillo By Morning](https://open.spotify.com/track/4TnUKixNWMfajncgdSwFoi) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Strait From The Heart](https://open.spotify.com/album/3NB2cmFq9nyhHSVz0Zv08t) | 2:53 |
-| 34 | ['Til You Can't](https://open.spotify.com/track/13rC4iKtfQocWIfzPOJxaT) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | ['Til You Can’t / Longer Than She Did](https://open.spotify.com/album/5MzgI1Hzjkf1Dj7xW7d1GL) | 3:44 |
-| 35 | [This Damn Song](https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Pecos & the Rooftops](https://open.spotify.com/album/16iK92ILyZrvxH3HuDDgtH) | 4:40 |
+| 34 | [This Damn Song](https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Pecos & the Rooftops](https://open.spotify.com/album/16iK92ILyZrvxH3HuDDgtH) | 4:40 |
+| 35 | ['Til You Can't](https://open.spotify.com/track/13rC4iKtfQocWIfzPOJxaT) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | ['Til You Can’t / Longer Than She Did](https://open.spotify.com/album/5MzgI1Hzjkf1Dj7xW7d1GL) | 3:44 |
 | 36 | [Why](https://open.spotify.com/track/7qoJUjzBMWucLSFvZrDoGG) | [Southall](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [Borrowed Time](https://open.spotify.com/album/0VPpKGgxHcjTuOdsWvvfyR) | 3:17 |
 | 37 | [Mine All Mine](https://open.spotify.com/track/5gCBDJVkU7XHkh4b9i43hn) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Love Me Instead](https://open.spotify.com/album/3wk9iRnqzxQalPBNekk0jR) | 3:01 |
 | 38 | [blood](https://open.spotify.com/track/2YqZCQhkuQpPUb5M9wptBq) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [blood](https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU) | 4:58 |
 | 39 | [Ballad Of A Southern Man](https://open.spotify.com/track/6P7kZB7hSJFyaYJcu3cYQJ) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Firewater](https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5) | 3:40 |
-| 40 | [Must Be The Whiskey](https://open.spotify.com/track/6VChAU4QENeLwf3OaHBJxC) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Lifers](https://open.spotify.com/album/7ATjaMdT66SKP2AjrDvQ1J) | 3:25 |
-| 41 | [Forever](https://open.spotify.com/track/4oCUw978NJjfUIWYtEVaCP) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Harold Saul High](https://open.spotify.com/album/2uYVHiJwrv4qxQg9RhmeOn) | 2:57 |
-| 42 | [Come Back Down](https://open.spotify.com/track/6BCtcTbcAyXRx3AKRgnWEk) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Medicine Man](https://open.spotify.com/album/6nmGkTVbK3Vcq4GFELHynr) | 4:33 |
-| 43 | [I Can't Breathe](https://open.spotify.com/track/3QtCKENdSI3l8xlSULRrK0) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Probably Wrong](https://open.spotify.com/album/4IrKqWfXyJknGVjBGbGX1v) | 4:17 |
-| 44 | [Dance Her Home](https://open.spotify.com/track/2g3vpJiqwswGJbUOSkCWqC) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Cowboy Like Me](https://open.spotify.com/album/0JKpAxkMB9RxA4EqqhLhLj) | 2:54 |
+| 40 | [Dance Her Home](https://open.spotify.com/track/2g3vpJiqwswGJbUOSkCWqC) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Cowboy Like Me](https://open.spotify.com/album/0JKpAxkMB9RxA4EqqhLhLj) | 2:54 |
+| 41 | [Must Be The Whiskey](https://open.spotify.com/track/6VChAU4QENeLwf3OaHBJxC) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Lifers](https://open.spotify.com/album/7ATjaMdT66SKP2AjrDvQ1J) | 3:25 |
+| 42 | [Forever](https://open.spotify.com/track/4oCUw978NJjfUIWYtEVaCP) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Harold Saul High](https://open.spotify.com/album/2uYVHiJwrv4qxQg9RhmeOn) | 2:57 |
+| 43 | [Come Back Down](https://open.spotify.com/track/6BCtcTbcAyXRx3AKRgnWEk) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Medicine Man](https://open.spotify.com/album/6nmGkTVbK3Vcq4GFELHynr) | 4:33 |
+| 44 | [I Can't Breathe](https://open.spotify.com/track/3QtCKENdSI3l8xlSULRrK0) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Probably Wrong](https://open.spotify.com/album/4IrKqWfXyJknGVjBGbGX1v) | 4:17 |
 | 45 | [Me and My Kind](https://open.spotify.com/track/4rW9EUFaMSNVY8JhbqrB6z) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Cowboy Like Me](https://open.spotify.com/album/0JKpAxkMB9RxA4EqqhLhLj) | 2:36 |
 | 46 | [Long Hot Summer Day](https://open.spotify.com/track/0kOG4bwpKgRlcJw1NA6csR) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Diamonds & Gasoline](https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p) | 4:12 |
 | 47 | [Golden Hour](https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:18 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 78 | [Some Things Never Change](https://open.spotify.com/track/7zxsnW2mjKjpkgvfZqQNX4) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Welcome To Countryland](https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX) | 3:20 |
 | 79 | [He Stopped Loving Her Today](https://open.spotify.com/track/4BcrWCZPXuoGU0SnAsJW1s) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [George Jones \- 16 Biggest Hits](https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p) | 3:17 |
 | 80 | [My Hometown](https://open.spotify.com/track/13WxL3gtXqI3CI7TlYDLqP) | [Charlie Robison](https://open.spotify.com/artist/1VGRi6hlsYcOhKut02Tqkt) | [Life Of The Party](https://open.spotify.com/album/5pVPgCe1z46QAgA0vasY7N) | 4:22 |
-| 81 | [Wicked Twisted Road](https://open.spotify.com/track/22HHKW1Z3NhxUFV0tOV6Iv) | [Reckless Kelly](https://open.spotify.com/artist/0jmPjksXqVrO92Urmx58vg) | [Wicked Twisted Road](https://open.spotify.com/album/7GOAyWeR97lIJ5kgHwRWFC) | 3:25 |
-| 82 | [Fall](https://open.spotify.com/track/4tmGCHso6k8srKMSBHmtlt) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Good Ones Never Last \(Deluxe Edition\)](https://open.spotify.com/album/0bP4iNa6xwBAHOmojqDsAy) | 3:26 |
+| 81 | [Fall](https://open.spotify.com/track/4tmGCHso6k8srKMSBHmtlt) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Good Ones Never Last \(Deluxe Edition\)](https://open.spotify.com/album/0bP4iNa6xwBAHOmojqDsAy) | 3:26 |
+| 82 | [Wicked Twisted Road](https://open.spotify.com/track/22HHKW1Z3NhxUFV0tOV6Iv) | [Reckless Kelly](https://open.spotify.com/artist/0jmPjksXqVrO92Urmx58vg) | [Wicked Twisted Road](https://open.spotify.com/album/7GOAyWeR97lIJ5kgHwRWFC) | 3:25 |
 | 83 | [Sunrise Tells The Story](https://open.spotify.com/track/1fCl1BY97PPNnac9oewVBJ) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [The Last Resort: Greetings From](https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag) | 3:27 |
 | 84 | [Ringling Road](https://open.spotify.com/track/2YUm7yXaklDbTvbwGwf9c4) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [Ringling Road](https://open.spotify.com/album/3h5aXIK4YtJ0cRn6aWzN2V) | 4:08 |
 | 85 | [Pretty Things](https://open.spotify.com/track/4629TVxMQhshiEV4D5Uwyy) | [Kat Hasty](https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d) | [Drowning In Dreams](https://open.spotify.com/album/4OgDsTtnYYixZQ7uVMwsAS) | 4:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 99 | [Kiss Me](https://open.spotify.com/track/4l0L2GAwa3Z2MFGQyolVf0) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [All Night Party](https://open.spotify.com/album/6gMltpGfgzDbsbfYUOeXJR) | 3:28 |
 | 100 | [Life Without You](https://open.spotify.com/track/4GH1IMTWa7o2WCsmEOtO6t) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Welcome To Countryland](https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX) | 3:46 |
 
-Snapshot ID: `MCw2ODgzNDY1MjIwYTgwZmJmODcyNWVlMGM3NGY5MjU3ZTUzMDljODUw`
+Snapshot ID: `MCxmZmUzYWQzZmNjNWI4NmJjNmVlYzIzNGZjYWI4OGMxYWMyZjc2MGJk`

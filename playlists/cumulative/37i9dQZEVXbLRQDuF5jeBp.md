@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- USA.
 
-2,864 songs - 6 day 14 hr 25 min
+2,865 songs - 6 day 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -661,6 +661,7 @@
 | [Donda](https://open.spotify.com/track/2TJ1FOCmCBkKm418MjVw5D) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:08 | 2021-08-31 | 2021-09-05 |
 | [Donda Chant](https://open.spotify.com/track/3VlW71ZRJPEjd17W0bW28D) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 0:52 | 2021-08-31 | 2021-09-03 |
 | [DONT WANT IT](https://open.spotify.com/track/4vsJWPwWPS27gRM4oLjBNO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:10 | 2021-09-19 | 2021-09-24 |
+| [Don’t Blame Me](https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:56 | 2023-08-10 |  |
 | [Don’t Break My Heart](https://open.spotify.com/track/0iZ7MgaUedNHqlqg9PMqsY) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 3:25 | 2022-01-08 | 2022-01-10 |
 | [Don’t Break My Heart](https://open.spotify.com/track/6a4GH1gljLL7VvmO9u5O92) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:25 | 2022-01-09 | 2022-01-14 |
 | [Don’t Call Me Angel \(Charlie’s Angels\) \(with Miley Cyrus & Lana Del Rey\)](https://open.spotify.com/track/3NkJNL3WqO1Lqc3uNDxvCN) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Don’t Call Me Angel \(Charlie’s Angels\)](https://open.spotify.com/album/2qWVO5SXPdWAECnwEWYOJH) | 3:10 | 2019-09-15 | 2019-10-13 |
@@ -1606,7 +1607,7 @@
 | [Moon](https://open.spotify.com/track/2Rd4eJ4KwXQQn2sMSToyUM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:36 | 2021-08-31 | 2021-10-06 |
 | [Moon](https://open.spotify.com/track/7CC6UbCs4iGsePSzFxYxNn) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 2:36 | 2021-10-06 | 2021-10-17 |
 | [Moon Relate](https://open.spotify.com/track/4sWGHlZGM1XA7TyWdtBAbA) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake \(Deluxe\) \- LUV vs\. The World 2](https://open.spotify.com/album/0fEO7g2c5onkaXsybEtuD2) | 3:01 | 2020-03-15 | 2020-03-18 |
-| [Moonlight](https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 3:07 | 2023-03-14 |  |
+| [Moonlight](https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 3:07 | 2023-03-14 | 2023-08-11 |
 | [MOONLIGHT SUNRISE](https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE](https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL) | 3:00 | 2023-01-21 | 2023-01-23 |
 | [Moonwalking in Calabasas \(feat\. Blueface\) \- Remix](https://open.spotify.com/track/7o4gBbTM6UBLkOYPw9xMCz) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ) | [Moonwalking in Calabasas \(feat\. Blueface\) \[Remix\]](https://open.spotify.com/album/1z02WpEdAuImwfySk43owY) | 2:50 | 2020-10-25 | 2020-11-14 |
 | [mop \(feat\. Young Thug\)](https://open.spotify.com/track/2ZGEjmwyeZ3rpEezkZwqOP) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DS4EVER](https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW) | 3:05 | 2022-01-08 | 2022-01-12 |

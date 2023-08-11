@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9fZ7amiNVu6.md) - [plain]
 
 > Kick back and enjoy these classic summer songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,436 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,707 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9fZ7amiNVu6.md) - [plain]
 | 44 | [Midnight Rider](https://open.spotify.com/track/1hHGUdFaiJHw9hVZGJWYO2) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Idlewild South \(Deluxe Edition Remastered\)](https://open.spotify.com/album/1K9yhJFW4FR8Rc1VURWA5T) | 3:00 |
 | 45 | [Surfin' U.S.A\. \- Remastered 2001](https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfin' USA \(Remastered\)](https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI) | 2:29 |
 | 46 | [The Weight \- Remastered 2000](https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Remastered\)](https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE) | 4:34 |
-| 47 | [In the Summertime](https://open.spotify.com/track/3RNyGLgSvmVRZ7xKUp8Wgd) | [Mungo Jerry](https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb) | [In the Summertime](https://open.spotify.com/album/30UgyUTvmdYXNo7CeMabXY) | 3:35 |
-| 48 | [Summer Nights \- From “Grease”](https://open.spotify.com/track/2AVkArcfALVk2X8sfPRzya) | [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Grease \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq) | 3:36 |
+| 47 | [Summer Nights \- From “Grease”](https://open.spotify.com/track/2AVkArcfALVk2X8sfPRzya) | [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Grease \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq) | 3:36 |
+| 48 | [In the Summertime](https://open.spotify.com/track/3RNyGLgSvmVRZ7xKUp8Wgd) | [Mungo Jerry](https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb) | [In the Summertime](https://open.spotify.com/album/30UgyUTvmdYXNo7CeMabXY) | 3:35 |
 | 49 | [Somewhere Over The Rainbow\_What A Wonderful World](https://open.spotify.com/track/25U7raB3ZSszayTYClh4hF) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Facing Future](https://open.spotify.com/album/0pquf1NcG9FdiypBPwICu9) | 5:08 |
 | 50 | [Daydream Believer](https://open.spotify.com/track/7uEcCGtM1FBBGIhPozhJjv) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [The Birds, The Bees, & The Monkees](https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2) | 2:59 |
 | 51 | [Sundown](https://open.spotify.com/track/0SjnBEHZVXgCKvOrpvzL2k) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Sundown](https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y) | 3:33 |
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9fZ7amiNVu6.md) - [plain]
 | 61 | [Margaritaville](https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Changes In Latitudes, Changes In Attitudes](https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD) | 4:10 |
 | 62 | [Under the Boardwalk](https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Under the Boardwalk](https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM) | 2:41 |
 | 63 | [Wouldn't It Be Nice](https://open.spotify.com/track/2Gy7qnDwt8Z3MNxqat4CsK) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 2:33 |
-| 64 | [I Got You Babe](https://open.spotify.com/track/4SGBuq37Ol4HJr7pQqFMKa) | [Sonny & Cher](https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO) | [Look At Us](https://open.spotify.com/album/4VFnAIRrYMA3iEHpjNP5cH) | 3:10 |
+| 64 | [Baby Love](https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Where Did Our Love Go](https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV) | 2:38 |
 | 65 | [Sunny](https://open.spotify.com/track/4vju55Ag7apDL2CfotuE7Q) | [Bobby Hebb](https://open.spotify.com/artist/2uNpV18izVIP7DNusoWbT5) | [Sunny](https://open.spotify.com/album/6pJkF95sYsVg3FJtTvTuEG) | 2:45 |
-| 66 | [Baby Love](https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Where Did Our Love Go](https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV) | 2:38 |
+| 66 | [I Got You Babe](https://open.spotify.com/track/4SGBuq37Ol4HJr7pQqFMKa) | [Sonny & Cher](https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO) | [Look At Us](https://open.spotify.com/album/4VFnAIRrYMA3iEHpjNP5cH) | 3:10 |
 | 67 | [Piece of My Heart](https://open.spotify.com/track/1xKQbqQtQWrtQS47fUJBtl) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Cheap Thrills](https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX) | 4:13 |
 | 68 | [Moondance \- 2013 Remaster](https://open.spotify.com/track/683b4ikwa62JevCjwrmfg6) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance \(Deluxe Edition\)](https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK) | 4:34 |
 | 69 | [All I Have to Do Is Dream](https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:23 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9fZ7amiNVu6.md) - [plain]
 | 76 | [Summer Breeze](https://open.spotify.com/track/3B0ms7Xlxl16tRztKHpcu9) | [Seals and Crofts](https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj) | [Summer Breeze](https://open.spotify.com/album/16lsqxMjRUFOBo2jocsy1C) | 3:25 |
 | 77 | [Joy To The World](https://open.spotify.com/track/2ymeOsYijJz09LfKw3yM2x) | [Three Dog Night](https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV) | [Naturally](https://open.spotify.com/album/2v8XEhOPoKX7iVWq5mWWBM) | 3:40 |
 | 78 | [Ain't Too Proud To Beg](https://open.spotify.com/track/4CoGNqLap7UGU5Q3VdKug0) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Gettin' Ready \(Expanded Edition\)](https://open.spotify.com/album/3RE8NUULcBzFvVtCmlI4lb) | 2:36 |
-| 79 | [Dancing In The Street](https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Dance Party](https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ) | 2:45 |
-| 80 | [Summer in the City \- Remastered](https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Hums Of The Lovin' Spoonful](https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY) | 2:40 |
+| 79 | [Summer in the City \- Remastered](https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Hums Of The Lovin' Spoonful](https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY) | 2:40 |
+| 80 | [Dancing In The Street](https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Dance Party](https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ) | 2:45 |
 | 81 | [Saturday in the Park \- 2002 Remaster](https://open.spotify.com/track/4OJFkrRQqol4FsPesF8eu4) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago V \(Expanded & Remastered\)](https://open.spotify.com/album/2oSXXINsWGuEsc4udgWxh8) | 3:55 |
 | 82 | [Everybody Loves The Sunshine](https://open.spotify.com/track/5le4sn0iMcnKU56bdmNzso) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Everybody Loves The Sunshine \(Reissue\)](https://open.spotify.com/album/5JehGpTedBPXzhUcwXoIlf) | 3:59 |
 | 83 | [Jump in the Line](https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [Jump Up Calypso](https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI) | 3:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9fZ7amiNVu6.md) - [plain]
 | 99 | [Our Last Summer](https://open.spotify.com/track/6hHXft1nFyvfVv6UoRToPZ) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Super Trouper](https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf) | 4:19 |
 | 100 | [Hungry Eyes \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/7eafuv44YprITfOdzfVLoU) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [Dirty Dancing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g) | 4:08 |
 
-Snapshot ID: `MCxiYzAyMDk4NjZiZWE2NzhhNDRjN2JhNjg1OWQxODI5ZTQxMjExMzdk`
+Snapshot ID: `MCw3MDEwNWQyOTFiMzgwNDM0MWY3MTA1Mzg5ZDgxZGNhZjZlNGJlYWFk`

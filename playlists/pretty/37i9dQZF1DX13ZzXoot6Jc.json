@@ -1,12 +1,12 @@
 {
   "description": "A collection of country hits that will have you singing every word. Cover: Bailey Zimmerman",
-  "num_followers": 448706,
+  "num_followers": 448736,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjgzM2QwNjc0YTJjMzAyNDQyMWYyNTYwNWIzM2VlYjY5ZWRiNzAw",
+  "snapshot_id": "MCwwNjU0NjI1YzY4NjU3NGY2NGUzOTk2NWQ3OGU1NWM3ZTRiYTkxYTQy",
   "tracks": [
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Life Rolls On",
-        "url": "https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY"
-      },
-      "artists": [
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        }
-      ],
-      "duration_ms": 153253,
-      "name": "Long Live",
-      "url": "https://open.spotify.com/track/0YfRAYTNTNszGg8VARrSIH"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Stereotype",
         "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 176146,
       "name": "Never Say Never (with Lainey Wilson)",
       "url": "https://open.spotify.com/track/3iYEsBl8NBq1o1j5uY2Noe"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Life Rolls On",
+        "url": "https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY"
+      },
+      "artists": [
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        }
+      ],
+      "duration_ms": 153253,
+      "name": "Long Live",
+      "url": "https://open.spotify.com/track/0YfRAYTNTNszGg8VARrSIH"
     },
     {
       "added_at": "2023-08-04 04:01:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Afrobeats' hottest singles. Cover: <a href=\"https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM?si=KpJb69lwQ5GoyzZ-Pjyu1Q\"> Bella Shmurda </a>   ",
+  "description": "Afrobeats' hottest singles. Cover: <a href=\"https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut?si=BGHe2ejMSAi-KZsqtJjIHQ\"> Tekno </a>   ",
   "name": "Gbedu",
   "tracks": [
     {
@@ -174,6 +174,32 @@
       "duration_ms": 165000,
       "name": "Amapiano",
       "url": "https://open.spotify.com/track/3GMdp6clyAh7wZWVYOtoS9"
+    },
+    {
+      "album": {
+        "name": "Anti Social",
+        "url": "https://open.spotify.com/album/25C8gnQsB3VNJgr5ldcNf5"
+      },
+      "artists": [
+        {
+          "name": "Nektunez",
+          "url": "https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156503,
+      "name": "Anti Social",
+      "url": "https://open.spotify.com/track/0UilWRSaAPqnwdUc9HJfxG"
     },
     {
       "album": {
@@ -566,7 +592,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 151548,
       "name": "Bankruptcy",
       "url": "https://open.spotify.com/track/6tbnqrQJWzPPQzlzvoIewt"
@@ -778,7 +804,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 168348,
       "name": "Can't Be Stopped",
       "url": "https://open.spotify.com/track/4odFsG1S8WZzvJHPRU2czt"
@@ -1907,6 +1933,24 @@
     },
     {
       "album": {
+        "name": "Unruly",
+        "url": "https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155019,
+      "name": "Jinja",
+      "url": "https://open.spotify.com/track/5dVJTSZhL2n81ZkT4PZu0x"
+    },
+    {
+      "album": {
         "name": "Mr. Money With The Vibe",
         "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
       },
@@ -2885,6 +2929,24 @@
     },
     {
       "album": {
+        "name": "Operation Sweep",
+        "url": "https://open.spotify.com/album/5Z27393Vx6iqkl1dG6mXyq"
+      },
+      "artists": [
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155636,
+      "name": "Operation Sweep",
+      "url": "https://open.spotify.com/track/2exuZNzNYl96pncjTYokOd"
+    },
+    {
+      "album": {
         "name": "Mr. Money With The Vibe",
         "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
       },
@@ -3074,7 +3136,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 142363,
       "name": "Peppermint",
       "url": "https://open.spotify.com/track/1I4ZQ2KVDziVs6IFBYJFis"
@@ -4062,7 +4124,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 196260,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/7BwkvLDMcBX6cMjvsbjvlQ"
@@ -4222,7 +4284,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 148000,
       "name": "Waka Jeje (feat. Bnxn)",
       "url": "https://open.spotify.com/track/04ISGhuusXAMz3dnXkAdxa"
@@ -4384,7 +4446,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-08",
+      "date_removed": null,
       "duration_ms": 225450,
       "name": "WO WO (Remix)",
       "url": "https://open.spotify.com/track/7v6HbQggLsB2UUCqABkJoX"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor, tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,964 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,050 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 74 | [Bandida](https://open.spotify.com/track/4S5PgR1MoE3nnVJHHtm0GL) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [Sos](https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK), [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz) | [Bandida](https://open.spotify.com/album/0hMR7bGDhFgCLWbUfN4XPD) | 4:32 |
 | 75 | [Abre a porta](https://open.spotify.com/track/4ispiK8sx7pBgNlYjXunZm) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Abre a porta](https://open.spotify.com/album/6gsClmogCvPBWKy5JeaDxd) | 2:22 |
 
-Snapshot ID: `MCwxZGJmMGFmYmFmZTM5YzE2M2M1OGExYzdiOTJjMDdmZTZmOTQ0Mjll`
+Snapshot ID: `MCw5OTNlZjUzZTUzNGVhZWIzYzBlMmE1NTM1OTY1MTU5NjhhZjAyZTc2`

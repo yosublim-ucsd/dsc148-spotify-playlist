@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127264,
+  "num_followers": 127272,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDM0NCw1MDRmOGI3ODE1MzdjNjhlNmRiZjY1MzdhZjg3MmYzM2I0NzBlYzli",
+  "snapshot_id": "NDM0NiwyMjdhYzIzY2Q0YzVkZDk0NTBkZjJmYThkNjBmYWVlYmFlYzJhYmNi",
   "tracks": [
+    {
+      "added_at": "2023-08-10 17:40:00",
+      "album": {
+        "name": "Let Them Only See Butterflies",
+        "url": "https://open.spotify.com/album/4pf4QaR2yjTPk1Two2HPOQ"
+      },
+      "artists": [
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 194906,
+      "name": "SURRENDER PEACE!",
+      "url": "https://open.spotify.com/track/0ldscHfsL63wYqrhx6Micd"
+    },
     {
       "added_at": "2023-08-09 20:08:38",
       "album": {
@@ -1135,22 +1151,6 @@
       "duration_ms": 269538,
       "name": "You Found Me",
       "url": "https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd"
-    },
-    {
-      "added_at": "2023-05-17 16:50:20",
-      "album": {
-        "name": "Narcissist",
-        "url": "https://open.spotify.com/album/4M5eI9WILJTXNeAxhdsgqZ"
-      },
-      "artists": [
-        {
-          "name": "Mr FijiWiji",
-          "url": "https://open.spotify.com/artist/2uEo8Rajpdz1AqineCVLHq"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "Narcissist",
-      "url": "https://open.spotify.com/track/2eex5KqwwPLtPJY8mxeSxd"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

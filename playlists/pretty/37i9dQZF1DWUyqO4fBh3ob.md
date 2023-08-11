@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyqO4fBh3ob.md) - [plain]
 
 > The sweet sounds of Syria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,688 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,716 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyqO4fBh3ob.md) - [plain]
 | 19 | [Bahebak Mn Baad Allah](https://open.spotify.com/track/5oCE5R5foOBwF9B3IxzzQf) | [Anas Kareem](https://open.spotify.com/artist/03IOvKWtAnWAOVf5864dUS) | [Bahebak Mn Baad Allah](https://open.spotify.com/album/6SXj5pyRtUaSUUE1VjBb7w) | 4:17 |
 | 20 | [Alloosh](https://open.spotify.com/track/4SutQpeY0rtwP9XeRfa0hi) | [Ali Al Deek](https://open.spotify.com/artist/4gJE3vuk92stqZIRWieUe8) | [Ali Hits](https://open.spotify.com/album/1RL5PDCpMACLDpuIMTsXeI) | 13:43 |
 | 21 | [Falaytaka Tahlou](https://open.spotify.com/track/2QC2N9Y3qfyeqFqyizohk6) | [Faia Younan](https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi) | [Falaytaka Tahlou](https://open.spotify.com/album/4fRMjvfPoNSVNkJT0E4GFm) | 3:56 |
-| 22 | [Lahn Al Hayat](https://open.spotify.com/track/06Sme47uE8eKah9Nm20EWg) | [Yousef Kekhia](https://open.spotify.com/artist/7EhcVdfydM4Hdfv5usdCRw) | [Lahn Al Hayat](https://open.spotify.com/album/2ZgXApAMMNi9JUmuYPLXpi) | 4:09 |
+| 22 | [Moustahil](https://open.spotify.com/track/6URORXDF7eytWWR07VH6tB) | [Nancy Zaabalawi](https://open.spotify.com/artist/04aGEO8WSIbsk5FEM2BPh5) | [Moustahil](https://open.spotify.com/album/639E6Qim9hlNKHjWvsEqJL) | 4:56 |
 | 23 | [Wallé](https://open.spotify.com/track/5mJbEJTjxwEhhlccQDm5kd) | [Bu Kolthoum](https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B) | [Wallé](https://open.spotify.com/album/0llPrZmYWkRxQnH9o1ERF3) | 2:57 |
 | 24 | [Sallemi](https://open.spotify.com/track/2RTIyzG5nwK06Qwyg75gtW) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Kezbi Wara Kezbi](https://open.spotify.com/album/5IDD7PswwV5qS3u17fIIEG) | 3:12 |
-| 25 | [Moustahil](https://open.spotify.com/track/6URORXDF7eytWWR07VH6tB) | [Nancy Zaabalawi](https://open.spotify.com/artist/04aGEO8WSIbsk5FEM2BPh5) | [Moustahil](https://open.spotify.com/album/639E6Qim9hlNKHjWvsEqJL) | 4:56 |
+| 25 | [Lahn Al Hayat](https://open.spotify.com/track/06Sme47uE8eKah9Nm20EWg) | [Yousef Kekhia](https://open.spotify.com/artist/7EhcVdfydM4Hdfv5usdCRw) | [Lahn Al Hayat](https://open.spotify.com/album/2ZgXApAMMNi9JUmuYPLXpi) | 4:09 |
 | 26 | [El Lela](https://open.spotify.com/track/5mCeOghVDQ36pgq63OcDXc) | [Hadi Aswad](https://open.spotify.com/artist/7cyJ9VJt6xQRFVJmhvbz6Q) | [El Lela](https://open.spotify.com/album/4dpk3etzFX1hpVVCO70LL9) | 2:48 |
 | 27 | [Hasaruha](https://open.spotify.com/track/2NsNFfvEllmWsaUfKUOtTp) | [Taim Saleh](https://open.spotify.com/artist/2jjEtWySkQNPU7K9Luu3q2) | [Hasaruha](https://open.spotify.com/album/6ez20CSvppDM756ZpI7RMa) | 3:24 |
 | 28 | [Ya Qatily](https://open.spotify.com/track/26cKnuGd9jRiywSwFcVDDI) | [Faia Younan](https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi) | [Ya Qatily](https://open.spotify.com/album/5v7NaWPa24ZAh2p2m0rHHJ) | 4:15 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyqO4fBh3ob.md) - [plain]
 | 41 | [Sada Mawalena](https://open.spotify.com/track/6AeXuT4ACtOnqQgvkNOZjj) | [Faia Younan](https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi) | [Sada Mawalena](https://open.spotify.com/album/01tB0ZPHDIz4aQJ6U53BJ7) | 4:20 |
 | 42 | [Abu Dub](https://open.spotify.com/track/6X3XDA36ekI3xQ75QkfKdZ) | [Jamila & The Other Heroes](https://open.spotify.com/artist/4SXSjuoWAU7XTyXF9JZcHe) | [Abu Dub](https://open.spotify.com/album/35zz7cXSUfe67McbGGrRk6) | 4:49 |
 | 43 | [Al Tayr](https://open.spotify.com/track/3KtalxQzxUlkRVeBWsjEii) | [Yousef Kekhia](https://open.spotify.com/artist/7EhcVdfydM4Hdfv5usdCRw) | [Monologue](https://open.spotify.com/album/1tZH9Nv3aLL1AxJTQNwDHr) | 4:47 |
-| 44 | [Masa Shamy](https://open.spotify.com/track/1eUoFO2RVoWogedFcU9xIT) | [Nurulez](https://open.spotify.com/artist/3Tpt01jawwzcAPkrjNLR7g) | [Apachi](https://open.spotify.com/album/5O905UHULciUjek70N7dmW) | 3:08 |
-| 45 | [Hakyatik Tarab](https://open.spotify.com/track/6viPKuCOAcEU0cD88CnCuS) | [Samer Gabro](https://open.spotify.com/artist/2urBIDqLbO2zXPgUAGLrkH) | [Hakyatik Tarab](https://open.spotify.com/album/6n2KNufhAMPBX5mALEEUWb) | 3:32 |
+| 44 | [Hakyatik Tarab](https://open.spotify.com/track/6viPKuCOAcEU0cD88CnCuS) | [Samer Gabro](https://open.spotify.com/artist/2urBIDqLbO2zXPgUAGLrkH) | [Hakyatik Tarab](https://open.spotify.com/album/6n2KNufhAMPBX5mALEEUWb) | 3:32 |
+| 45 | [Masa Shamy](https://open.spotify.com/track/1eUoFO2RVoWogedFcU9xIT) | [Nurulez](https://open.spotify.com/artist/3Tpt01jawwzcAPkrjNLR7g) | [Apachi](https://open.spotify.com/album/5O905UHULciUjek70N7dmW) | 3:08 |
 | 46 | [Swarat](https://open.spotify.com/track/6jWQ9vgd089Ayk1uws9Fb3) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Swarat](https://open.spotify.com/album/2lHuo0CbcdEzTVZNcpk9gE) | 3:26 |
 | 47 | [Alshaela](https://open.spotify.com/track/6tazOzAb4Z0ocUhOhNrNIy) | [Amer Wakka](https://open.spotify.com/artist/3RTvvsSrGsLIpShyrjGrZb) | [Alshaela](https://open.spotify.com/album/7kP3ciU1cgbPbIup4KIqk0) | 3:02 |
 | 48 | [Mktifi Bhali](https://open.spotify.com/track/1AtrStBh3KmG1Uy5tPqXpq) | [Taim Saleh](https://open.spotify.com/artist/2jjEtWySkQNPU7K9Luu3q2) | [Mktifi Bhali](https://open.spotify.com/album/1FeVZ4GMogl4q7NUvZZOVQ) | 4:17 |
 | 49 | [Wala Fuse \- Special Version](https://open.spotify.com/track/1bQEqxv5YcCgXXYVwSa9Us) | [Assasi](https://open.spotify.com/artist/1TuHc6zFa31PJpMpvyKZoz) | [Wala Fuse \(Special Version\)](https://open.spotify.com/album/2MUWf8lrTWfSkyqapMlHfI) | 3:07 |
 | 50 | [You Make Me Laugh](https://open.spotify.com/track/1kTR3L90ODiEPY5cXLvHew) | [Omar Offendum](https://open.spotify.com/artist/5gxANVcKbp8iPNLgAo7DhA), [Thanks Joey](https://open.spotify.com/artist/4fOizZJsCaT3RYpqNdeGKk), [El Bles](https://open.spotify.com/artist/13jGZidP6rRBpqAQUTZLhL) | [You Make Me Laugh](https://open.spotify.com/album/1gHpXCOHGd6Fy59HY5mi6Q) | 2:41 |
 
-Snapshot ID: `MCw2NTgzNDhlOGMwYjU4NWI1ZmZkNTZhMzc4NTJhZWE1MWQ1NzM0Mzli`
+Snapshot ID: `MCwyMmExY2IwNjUyZWM5ZWNjNTIyZjVmNjMxZGRmZWRkYmM0ZmQzMDdk`

@@ -1,12 +1,12 @@
 {
   "description": "Ride the bassline. Cover: Walker & Royce, Glass Petals & Elohim",
-  "num_followers": 221556,
+  "num_followers": 221625,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTQ1ZDU4NjNjNzEzMDkyMGMyNWQxNWYwMThiOGM1ZjIwODNlZmM1",
+  "snapshot_id": "MCxjYzQ3MGNkNmYxNzkyMmRmZTI5N2M3MmQxMGJiOGJmMzRkYjQ1ZDJl",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Maria Maria",
-        "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
-      },
-      "artists": [
-        {
-          "name": "TECH IT DEEP",
-          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
-        }
-      ],
-      "duration_ms": 161801,
-      "name": "Maria Maria",
-      "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "TAKE IT OFF",
         "url": "https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 194604,
       "name": "TAKE IT OFF",
       "url": "https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Maria Maria",
+        "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
+      },
+      "artists": [
+        {
+          "name": "TECH IT DEEP",
+          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
+        }
+      ],
+      "duration_ms": 161801,
+      "name": "Maria Maria",
+      "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "DJ Turn It Up",
+        "url": "https://open.spotify.com/album/1POsjSFSyqW21AEn71tdJn"
+      },
+      "artists": [
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        }
+      ],
+      "duration_ms": 177931,
+      "name": "DJ Turn It Up",
+      "url": "https://open.spotify.com/track/28r1xYNakXXwcQKIXu9Wjw"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Rhyme Dust",
         "url": "https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 181364,
       "name": "Rhyme Dust",
       "url": "https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "DJ Turn It Up",
-        "url": "https://open.spotify.com/album/1POsjSFSyqW21AEn71tdJn"
-      },
-      "artists": [
-        {
-          "name": "Dimension",
-          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
-        }
-      ],
-      "duration_ms": 177931,
-      "name": "DJ Turn It Up",
-      "url": "https://open.spotify.com/track/28r1xYNakXXwcQKIXu9Wjw"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Nightbird",
-        "url": "https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx"
+        "name": "Make U SWEAT!",
+        "url": "https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3"
       },
       "artists": [
         {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
         }
       ],
-      "duration_ms": 156190,
-      "name": "Nightbird",
-      "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
+      "duration_ms": 234285,
+      "name": "Make U SWEAT!",
+      "url": "https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Make U SWEAT!",
-        "url": "https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3"
+        "name": "Nightbird",
+        "url": "https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx"
       },
       "artists": [
         {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
         }
       ],
-      "duration_ms": 234285,
-      "name": "Make U SWEAT!",
-      "url": "https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d"
+      "duration_ms": 156190,
+      "name": "Nightbird",
+      "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Move It (with Luciana)",
-        "url": "https://open.spotify.com/album/7FpUw6piWqVDumd2HjnVT8"
-      },
-      "artists": [
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Luciana",
-          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
-        }
-      ],
-      "duration_ms": 135238,
-      "name": "Move It (with Luciana)",
-      "url": "https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Dream Sequence",
         "url": "https://open.spotify.com/album/2M3r10nJAuWXUoUkZAmvqM"
       },
@@ -1731,6 +1711,26 @@
       "duration_ms": 215111,
       "name": "Dream Sequence",
       "url": "https://open.spotify.com/track/1YrVLt1ET4GzwS3HfOcxWw"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Move It (with Luciana)",
+        "url": "https://open.spotify.com/album/7FpUw6piWqVDumd2HjnVT8"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Luciana",
+          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
+        }
+      ],
+      "duration_ms": 135238,
+      "name": "Move It (with Luciana)",
+      "url": "https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Faster",
-        "url": "https://open.spotify.com/album/4cIrSFEwm1MVc53X9XdACU"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        }
-      ],
-      "duration_ms": 180517,
-      "name": "Faster",
-      "url": "https://open.spotify.com/track/2EZ27G58YiHySXVFR1R14I"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/4RhhoTQSL1nuBWHOuL1Pau"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 190625,
       "name": "Move Your Body (feat. Moxie Knox)",
       "url": "https://open.spotify.com/track/2QUjCgRuF6grKzr4mINjs8"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Faster",
+        "url": "https://open.spotify.com/album/4cIrSFEwm1MVc53X9XdACU"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "duration_ms": 180517,
+      "name": "Faster",
+      "url": "https://open.spotify.com/track/2EZ27G58YiHySXVFR1R14I"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2075,6 +2075,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Fool Me",
+        "url": "https://open.spotify.com/album/3MKJoSKe2eNN8o7bepluyh"
+      },
+      "artists": [
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        }
+      ],
+      "duration_ms": 133600,
+      "name": "Fool Me",
+      "url": "https://open.spotify.com/track/6fviOwXHvwwN7GdAuVaH5v"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Loca People",
         "url": "https://open.spotify.com/album/3cSg8LgwykWmPsL5J6dIzs"
       },
@@ -2103,22 +2119,6 @@
       "duration_ms": 247404,
       "name": "Revolution",
       "url": "https://open.spotify.com/track/1vlnbR9iKNLCAlEDNSBrxj"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Fool Me",
-        "url": "https://open.spotify.com/album/3MKJoSKe2eNN8o7bepluyh"
-      },
-      "artists": [
-        {
-          "name": "CHYL",
-          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
-        }
-      ],
-      "duration_ms": 133600,
-      "name": "Fool Me",
-      "url": "https://open.spotify.com/track/6fviOwXHvwwN7GdAuVaH5v"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2179,6 +2179,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/0IGWaTyOw4z04uUdh38QLf"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 215156,
+      "name": "Night Rider",
+      "url": "https://open.spotify.com/track/4rKQA3rD8ytaoaRABz9CL6"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "SH SH SH (Hit That) (feat. Wiz Khalifa, Urfavxboyfriend & Goldsoul)",
         "url": "https://open.spotify.com/album/1xHwoTd8QTaQyWKlMTdZ6J"
       },
@@ -2207,22 +2227,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/0IGWaTyOw4z04uUdh38QLf"
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/2bBRHynve4mj9EyncJmTie"
       },
       "artists": [
         {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
         },
         {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+          "name": "Roniit",
+          "url": "https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY"
         }
       ],
-      "duration_ms": 215156,
-      "name": "Night Rider",
-      "url": "https://open.spotify.com/track/4rKQA3rD8ytaoaRABz9CL6"
+      "duration_ms": 189230,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/5xmwDU6b2jc80VmbgtpijM"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2243,26 +2263,6 @@
       "duration_ms": 176494,
       "name": "Salty",
       "url": "https://open.spotify.com/track/5lYubOsQ8GlApPS0m5jQLU"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Your Love",
-        "url": "https://open.spotify.com/album/2bBRHynve4mj9EyncJmTie"
-      },
-      "artists": [
-        {
-          "name": "One True God",
-          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
-        },
-        {
-          "name": "Roniit",
-          "url": "https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY"
-        }
-      ],
-      "duration_ms": 189230,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/5xmwDU6b2jc80VmbgtpijM"
     },
     {
       "added_at": "2023-08-04 04:00:00",

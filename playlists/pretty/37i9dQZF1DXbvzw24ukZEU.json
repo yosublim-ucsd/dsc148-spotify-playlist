@@ -1,12 +1,12 @@
 {
   "description": "Relax to the the rhythm of these smooth Latin tunes of the 2010s.\n\n",
-  "num_followers": 77110,
+  "num_followers": 77230,
   "original_name": "Latin Chillout 10s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODdjYTE5OTdiMDJlYWMzZjM5ZGFlY2ExMTI0M2U1OTE3MDkzYmNl",
+  "snapshot_id": "MCw3Y2FkZWNiOTMwYzgxODEyY2EwMjRlNjMwNGU4Y2YxNWI0ZjhjYzU5",
   "tracks": [
     {
       "added_at": "2023-02-17 19:20:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-02-17 19:20:00",
       "album": {
+        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 237093,
+      "name": "Cancioncitas de Amor",
+      "url": "https://open.spotify.com/track/6bcdiJvYNX115yvbh3wASz"
+    },
+    {
+      "added_at": "2023-02-17 19:20:00",
+      "album": {
         "name": "Verte Ir",
         "url": "https://open.spotify.com/album/76XsfdI0kGODDdhHAJKZi3"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 267500,
       "name": "Verte Ir",
       "url": "https://open.spotify.com/track/4lzxJ4jCuFDXXGkE1LmpKR"
-    },
-    {
-      "added_at": "2023-02-17 19:20:00",
-      "album": {
-        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 237093,
-      "name": "Cancioncitas de Amor",
-      "url": "https://open.spotify.com/track/6bcdiJvYNX115yvbh3wASz"
     },
     {
       "added_at": "2023-02-17 19:20:00",
@@ -711,18 +711,22 @@
     {
       "added_at": "2023-02-17 19:20:00",
       "album": {
-        "name": "Odisea",
-        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
+        "name": "FIVE (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         }
       ],
-      "duration_ms": 193226,
-      "name": "T\u00fa Foto",
-      "url": "https://open.spotify.com/track/5zSOVwaY3sVjnmLhuEfsuf"
+      "duration_ms": 196480,
+      "name": "Deja vu",
+      "url": "https://open.spotify.com/track/46HdsiK0uR26B2dY9QPzda"
     },
     {
       "added_at": "2023-02-17 19:20:00",
@@ -763,22 +767,18 @@
     {
       "added_at": "2023-02-17 19:20:00",
       "album": {
-        "name": "FIVE (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P"
+        "name": "Odisea",
+        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
       },
       "artists": [
         {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 196480,
-      "name": "Deja vu",
-      "url": "https://open.spotify.com/track/46HdsiK0uR26B2dY9QPzda"
+      "duration_ms": 193226,
+      "name": "T\u00fa Foto",
+      "url": "https://open.spotify.com/track/5zSOVwaY3sVjnmLhuEfsuf"
     },
     {
       "added_at": "2023-02-17 19:20:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-02-17 19:20:00",
       "album": {
+        "name": "Un Besito M\u00e1s",
+        "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 215112,
+      "name": "Ecos De Amor",
+      "url": "https://open.spotify.com/track/3lI5dscCDez8cF6LF3Me7F"
+    },
+    {
+      "added_at": "2023-02-17 19:20:00",
+      "album": {
         "name": "Deixa (feat. Ana Gabriela)",
         "url": "https://open.spotify.com/album/5y1vdBmkTHZNGCz5qswQzM"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 176025,
       "name": "Deixa (feat. Ana Gabriela)",
       "url": "https://open.spotify.com/track/3fLqmaO4vvZpFZSZy52VMp"
-    },
-    {
-      "added_at": "2023-02-17 19:20:00",
-      "album": {
-        "name": "Un Besito M\u00e1s",
-        "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 215112,
-      "name": "Ecos De Amor",
-      "url": "https://open.spotify.com/track/3lI5dscCDez8cF6LF3Me7F"
     },
     {
       "added_at": "2023-02-17 19:20:00",

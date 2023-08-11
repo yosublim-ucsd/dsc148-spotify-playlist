@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1u2tEI.md) - [plain]
 
 > This is Elliott Smith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,471 likes - 47 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,507 likes - 47 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1u2tEI.md) - [plain]
 | 46 | [St\. Ides Heaven \- 25th Anniversary Remaster](https://open.spotify.com/track/7zOdsysP1duel1IiG0UtWL) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith: Expanded 25th Anniversary Edition](https://open.spotify.com/album/4XFvmYc0AI61WsLCdAnMuT) | 3:00 |
 | 47 | [King's Crossing](https://open.spotify.com/track/0pMazmJOCNRnIWe3I8COVd) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From A Basement On The Hill](https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl) | 4:57 |
 
-Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDA3OGQ4NWQyYzc3NDhmMzgyZDRhMDFkYWQwZjk0MzZjNQ==`
+Snapshot ID: `MjgxOTQ1NjQsMDAwMDAwMDAyZGQwYTliMGUwMDMxMGUxYzFhN2IyM2E0MDMzYWM1MQ==`

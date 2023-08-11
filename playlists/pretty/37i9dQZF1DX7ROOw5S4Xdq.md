@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Gabriel Guedes de Almeida
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,736 likes - 40 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,813 likes - 40 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [De Ti Preciso \- Ao Vivo](https://open.spotify.com/track/3AbOa504l9MHWKjeUkiITQ) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [De Ti Preciso \(Ao Vivo\)](https://open.spotify.com/album/6hwTDPKPjPBcgKfOkCZ2F0) | 5:13 |
 | 2 | [Sonda\-me Usa\-me \- Ao Vivo](https://open.spotify.com/track/0Gw6MjldfM8Yhq6Joxp0o8) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [30 Anos Na Casa \(Ao Vivo\)](https://open.spotify.com/album/15qEQ0gH57j9rh4CfV1aPu) | 6:07 |
 | 3 | [O Sol Já Voltou A Brilhar](https://open.spotify.com/track/6frkp7tsE3EWfKzVZWwNOP) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs) | [O Sol Já Voltou A Brilhar](https://open.spotify.com/album/1KhIfZJXyl3tdkf96zfDY7) | 3:30 |
-| 4 | [Brave Sessions: Leão de Judá \- Ao Vivo](https://open.spotify.com/track/0SL6BVNoPMuccnrVDdGojX) | [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h), [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Brave Sessions: Leão de Judá \(Ao Vivo\)](https://open.spotify.com/album/2KvHxcXLS03Lx9CkisZnQF) | 4:06 |
+| 4 | [Leão de Judá: Brave Sessions \- Ao Vivo](https://open.spotify.com/track/0SL6BVNoPMuccnrVDdGojX) | [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h), [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Leão de Judá: Brave Sessions \(Ao Vivo\)](https://open.spotify.com/album/2KvHxcXLS03Lx9CkisZnQF) | 4:06 |
 | 5 | [O Melhor Lugar \- Ao Vivo](https://open.spotify.com/track/3mwsEBjHLsPhzmu2L2jxcI) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm) | [O Melhor Lugar \(Ao Vivo\)](https://open.spotify.com/album/1ThjrIPMaLcmNUbQMTaQbf) | 5:15 |
 | 6 | [Enquanto a Igreja Ora \(Versão Acústica\)](https://open.spotify.com/track/5PwfEoRObqfeFYMt0gjf1j) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Enquanto a Igreja Ora \(Versão Acústica\)](https://open.spotify.com/album/4xR7lEe74x3j3xuxlOB5BD) | 3:23 |
 | 7 | [Diz](https://open.spotify.com/track/2lPK1yhkmzPAn8LTvKxJcv) | [Jeyzer Maia](https://open.spotify.com/artist/1ibeddC8BqcjmYnfVzjQUh), [Rodolfo Lamarca](https://open.spotify.com/artist/6AtJczwRNCOwoiU1EsSHBx) | [Showcase Deluxe](https://open.spotify.com/album/5GhcUYuWwPHn7ibsK7rZ8R) | 4:22 |
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 12 | [Há um Tempo](https://open.spotify.com/track/5RvAsenLkh1RKEB0bGOUk8) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [Há um Tempo](https://open.spotify.com/album/1qLEpsxs0Ia1oCpu7f52cy) | 4:03 |
 | 13 | [Estou Aberto Para o Novo](https://open.spotify.com/track/1z33YYwOAUPppFAp19bKwu) | [Ministério Sarando a Terra Ferida](https://open.spotify.com/artist/2sv3lMFX1GnZ7AxUFq6oT3) | [Estou Aberto Para o Novo](https://open.spotify.com/album/0t2YaE7jwLoTCdLtiMB8oB) | 4:25 |
 | 14 | [A Alegria Virá](https://open.spotify.com/track/6hlAIjtKuAPFYstOfPenmx) | [Bekah Costa](https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb) | [A Alegria Virá](https://open.spotify.com/album/01v4oN0AZax53lX0mINtTn) | 4:00 |
-| 15 | [Doxologia](https://open.spotify.com/track/5DXFKMcwCf0w2E6sIcfu5a) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi), [AMÉM](https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP) | [Doxologia](https://open.spotify.com/album/5uAYngAUPvd0RDdmnfsjfF) | 5:43 |
+| 15 | [Doxologia \(feat\. AMÉM\)](https://open.spotify.com/track/5DXFKMcwCf0w2E6sIcfu5a) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L), [AMÉM](https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP) | [Doxologia \(feat\. AMÉM\)](https://open.spotify.com/album/5uAYngAUPvd0RDdmnfsjfF) | 5:43 |
 | 16 | [Ah Teu \(Sample: Naquela Mesa\)](https://open.spotify.com/track/3VYaIt0YgMlaTS6QOhNtF8) | [Nesk Only](https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00), [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Ah Teu \(Sample: Naquela Mesa\)](https://open.spotify.com/album/4jUUWhkXEtqTuMp98OThIv) | 2:45 |
 | 17 | [Vivão](https://open.spotify.com/track/06fddvzlWUEew0EGXK7eei) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [Predestinado](https://open.spotify.com/album/4D0hEnelEJSkEplzl3tfh2) | 2:42 |
 | 18 | [Vou Sentir Saudade](https://open.spotify.com/track/1uxMnsZCMbGe6I1WD8GnPo) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Vou Sentir Saudade](https://open.spotify.com/album/1s8PNeUcAwlZkhmNMHvijk) | 2:52 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 39 | [Vai Transbordar \- Ao Vivo](https://open.spotify.com/track/4H6N0bQHdI8XzXFXrx2wXV) | [Sandro Nazireu](https://open.spotify.com/artist/0Dp4MzpjAtMZqP5Dpbf6pV) | [Vai Transbordar \(Ao Vivo\)](https://open.spotify.com/album/6RqeuvTy0ZmRNFQu0zAbMj) | 2:34 |
 | 40 | [Tarde Demais](https://open.spotify.com/track/0MEjtwPxUEAtZJJ4cguIKP) | [Quezia Coutinho](https://open.spotify.com/artist/44fkFuMFocsyvD9myIOPsP), [Tângela Vieira](https://open.spotify.com/artist/3Q93kLhERsBhTewW7iN2Va) | [Tarde Demais](https://open.spotify.com/album/5M8VALCiUYregNQPshSwsj) | 3:54 |
 
-Snapshot ID: `MCw2N2JlNTVhNTQ0NTYyMzQ5NmQ0OTRmMzhkNjM3NGY3YWM1M2QxMTIx`
+Snapshot ID: `MCw0ZWVhODU4MDE5NGNmNTVkMjkzZmRjYTA5ODI3YmU0YzVmMjA2NWQ5`

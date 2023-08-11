@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO473sfm.md) - [plain]
 
 > This is Grupo Frontera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,117 likes - 32 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,091 likes - 32 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO473sfm.md) - [plain]
 | 31 | [Estos Celos \- En Vivo](https://open.spotify.com/track/01VmJGbwBz19j21aYqR6Ju) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [En Vivo, Vol.1](https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM) | 3:41 |
 | 32 | [LAS FLORES](https://open.spotify.com/track/12uSaxjNUs5PJjMDgjdtqk) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [El Comienzo](https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b) | 2:46 |
 
-Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDA5ZDlkZWM4NTQxNWJmZDZjZjAwOGEzMjdmNDhjNTQ2Yw==`
+Snapshot ID: `MjgxOTQ1NjMsMDAwMDAwMDBhYTQ4NzE1MDIzMWZkMWFjYjA3N2Q5ODQyZGY3MjI4ZQ==`

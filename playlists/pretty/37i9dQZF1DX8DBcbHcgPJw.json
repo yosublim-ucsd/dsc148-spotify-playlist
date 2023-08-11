@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: El Villano, BM & Migrantes.",
-  "num_followers": 1211025,
+  "num_followers": 1211237,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDFiYTM1Mjc1YWE3MzgwYzgzOWE3YjgyNjg1MTkwNjMyMjEyMDVj",
+  "snapshot_id": "MCxiYTMyOTViYjA3ZmM5OTBlOTA3NWRlYTE0OTRiZjgxMzgyZjJmNzEx",
   "tracks": [
     {
       "added_at": "2023-08-04 03:00:00",
@@ -435,6 +435,26 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
+        "name": "Todo Comenz\u00f3 Bailando",
+        "url": "https://open.spotify.com/album/0yLhNN1wvArT1xOU9Y8s4S"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        },
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "duration_ms": 178291,
+      "name": "Noche Loca",
+      "url": "https://open.spotify.com/track/0gzcET27nREY6aD8LJU9wD"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
         "name": "Vikingos",
         "url": "https://open.spotify.com/album/50fDCiIhdGoiJLSYXdLbt9"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 166963,
       "name": "Vikingos",
       "url": "https://open.spotify.com/track/6t82eltBDEw70ePnk5GGe4"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
-        "name": "Todo Comenz\u00f3 Bailando",
-        "url": "https://open.spotify.com/album/0yLhNN1wvArT1xOU9Y8s4S"
-      },
-      "artists": [
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        },
-        {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
-        }
-      ],
-      "duration_ms": 178291,
-      "name": "Noche Loca",
-      "url": "https://open.spotify.com/track/0gzcET27nREY6aD8LJU9wD"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
+        "name": "Cumbia Baby!",
+        "url": "https://open.spotify.com/album/6JJ8pGKXBqfuDeYTyEl1kG"
+      },
+      "artists": [
+        {
+          "name": "Mano Arriba",
+          "url": "https://open.spotify.com/artist/4YBAOrBF9vBB9inOLtpRzp"
+        }
+      ],
+      "duration_ms": 185438,
+      "name": "Llamame M\u00e1s Temprano",
+      "url": "https://open.spotify.com/track/6JVZ8mwbwSU8iiJUE2kyql"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
         "name": "Vas a Querer Regresar",
         "url": "https://open.spotify.com/album/1QIgsaiZmZ5cBfkMdc0yW9"
       },
@@ -999,22 +1015,6 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Cumbia Baby!",
-        "url": "https://open.spotify.com/album/6JJ8pGKXBqfuDeYTyEl1kG"
-      },
-      "artists": [
-        {
-          "name": "Mano Arriba",
-          "url": "https://open.spotify.com/artist/4YBAOrBF9vBB9inOLtpRzp"
-        }
-      ],
-      "duration_ms": 185438,
-      "name": "Llamame M\u00e1s Temprano",
-      "url": "https://open.spotify.com/track/6JVZ8mwbwSU8iiJUE2kyql"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
         "name": "El Otro",
         "url": "https://open.spotify.com/album/6swPfLunPCGK1WcmMML99p"
       },
@@ -1031,18 +1031,22 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "S\u00f3lo con un Beso",
-        "url": "https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ"
+        "name": "Pasatiempo",
+        "url": "https://open.spotify.com/album/79S3lGLNc5komX3DBpmleq"
       },
       "artists": [
         {
-          "name": "Los Totora",
-          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+          "name": "La China",
+          "url": "https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO"
+        },
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
         }
       ],
-      "duration_ms": 155878,
-      "name": "S\u00f3lo con un Beso",
-      "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
+      "duration_ms": 197161,
+      "name": "Pasatiempo",
+      "url": "https://open.spotify.com/track/0ZRswNoAS92a45NQjypAxL"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1063,6 +1067,22 @@
       "duration_ms": 194666,
       "name": "La Gira",
       "url": "https://open.spotify.com/track/0okUQOY50Ewk2qFUZM98C6"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "S\u00f3lo con un Beso",
+        "url": "https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ"
+      },
+      "artists": [
+        {
+          "name": "Los Totora",
+          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+        }
+      ],
+      "duration_ms": 155878,
+      "name": "S\u00f3lo con un Beso",
+      "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1119,26 +1139,6 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Pasatiempo",
-        "url": "https://open.spotify.com/album/79S3lGLNc5komX3DBpmleq"
-      },
-      "artists": [
-        {
-          "name": "La China",
-          "url": "https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO"
-        },
-        {
-          "name": "ECKO",
-          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
-        }
-      ],
-      "duration_ms": 197161,
-      "name": "Pasatiempo",
-      "url": "https://open.spotify.com/track/0ZRswNoAS92a45NQjypAxL"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
         "name": "NO ES LO QUE PARECE",
         "url": "https://open.spotify.com/album/1pMv2WnLf6GSiSL3pVki7O"
       },
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "A llorar a otra parte",
-        "url": "https://open.spotify.com/album/3WIlRYCiQJ67h9gkRnAhBH"
-      },
-      "artists": [
-        {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "A llorar a otra parte",
-      "url": "https://open.spotify.com/track/7wB5JU6RIcUZCoymczsCFN"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
         "name": "Sin mirar Atr\u00e1s",
         "url": "https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 234626,
       "name": "M\u00e1rchate ahora",
       "url": "https://open.spotify.com/track/3voxukrHBXctzxdSbCycey"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "A llorar a otra parte",
+        "url": "https://open.spotify.com/album/3WIlRYCiQJ67h9gkRnAhBH"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "A llorar a otra parte",
+      "url": "https://open.spotify.com/track/7wB5JU6RIcUZCoymczsCFN"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Y Si Est\u00e1s Perseguido...!",
-        "url": "https://open.spotify.com/album/4UeRqgzWD9WsGWpbpsiAeq"
-      },
-      "artists": [
-        {
-          "name": "El Perro",
-          "url": "https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM"
-        }
-      ],
-      "duration_ms": 161410,
-      "name": "Te Escapas De Mis Brazos",
-      "url": "https://open.spotify.com/track/2sSWZSjYU38Hmy32P6ECt8"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
         "name": "Cumbia Baby!",
         "url": "https://open.spotify.com/album/6JJ8pGKXBqfuDeYTyEl1kG"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 199495,
       "name": "La Noche No Es para Dormir",
       "url": "https://open.spotify.com/track/07ZHn1csuJvAQAZiYFds12"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "Y Si Est\u00e1s Perseguido...!",
+        "url": "https://open.spotify.com/album/4UeRqgzWD9WsGWpbpsiAeq"
+      },
+      "artists": [
+        {
+          "name": "El Perro",
+          "url": "https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM"
+        }
+      ],
+      "duration_ms": 161410,
+      "name": "Te Escapas De Mis Brazos",
+      "url": "https://open.spotify.com/track/2sSWZSjYU38Hmy32P6ECt8"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
+        "name": "Cumbia Baby!",
+        "url": "https://open.spotify.com/album/6JJ8pGKXBqfuDeYTyEl1kG"
+      },
+      "artists": [
+        {
+          "name": "Mano Arriba",
+          "url": "https://open.spotify.com/artist/4YBAOrBF9vBB9inOLtpRzp"
+        }
+      ],
+      "duration_ms": 164081,
+      "name": "El Equivocado",
+      "url": "https://open.spotify.com/track/4bi9EKw1E7hDldh36dhp1R"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
         "name": "Persia / YO SE QUE TU / Millonario",
         "url": "https://open.spotify.com/album/0cYCBuuYYaZQygefwFGBxs"
       },
@@ -1471,22 +1487,6 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Cumbia Baby!",
-        "url": "https://open.spotify.com/album/6JJ8pGKXBqfuDeYTyEl1kG"
-      },
-      "artists": [
-        {
-          "name": "Mano Arriba",
-          "url": "https://open.spotify.com/artist/4YBAOrBF9vBB9inOLtpRzp"
-        }
-      ],
-      "duration_ms": 164081,
-      "name": "El Equivocado",
-      "url": "https://open.spotify.com/track/4bi9EKw1E7hDldh36dhp1R"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
         "name": "Mix El Polaco - Fer Palacio",
         "url": "https://open.spotify.com/album/3HGJm8M1Qk1svADoSqS4rV"
       },
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
+        "name": "#Tocoparavos",
+        "url": "https://open.spotify.com/album/3cz9fxBXppuImbufikGk2D"
+      },
+      "artists": [
+        {
+          "name": "#TocoParaVos",
+          "url": "https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES"
+        }
+      ],
+      "duration_ms": 149160,
+      "name": "Hasta la luna",
+      "url": "https://open.spotify.com/track/1A3yLIqelu1D7MCtw06Cu7"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
         "name": "Que Rico Baila",
         "url": "https://open.spotify.com/album/3VPmkC5efo6HJDW4oKQhLp"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 205613,
       "name": "Tomate el Palo (feat. Leo Garc\u00eda)",
       "url": "https://open.spotify.com/track/7Geqbi4bkZ6AM9yDeSHr5b"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
-        "name": "#Tocoparavos",
-        "url": "https://open.spotify.com/album/3cz9fxBXppuImbufikGk2D"
-      },
-      "artists": [
-        {
-          "name": "#TocoParaVos",
-          "url": "https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES"
-        }
-      ],
-      "duration_ms": 149160,
-      "name": "Hasta la luna",
-      "url": "https://open.spotify.com/track/1A3yLIqelu1D7MCtw06Cu7"
     },
     {
       "added_at": "2023-08-04 03:00:00",

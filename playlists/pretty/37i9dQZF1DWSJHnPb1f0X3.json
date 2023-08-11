@@ -1,12 +1,12 @@
 {
   "description": "Upbeat dance pop to keep your heart pumping.",
-  "num_followers": 4036636,
+  "num_followers": 4037583,
   "original_name": "Cardio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODdmYTZlOWZhZDFiMzZlY2EzNmZlNzJkNzdiODMxZDRkOGUzNmEw",
+  "snapshot_id": "MCxhYzY1N2RkNGRiMjUwZTAyNzQ0ZjgyMDEwMWY0MTZhNWMzZjQ2M2M2",
   "tracks": [
     {
       "added_at": "2023-08-07 23:16:14",
@@ -383,26 +383,6 @@
     {
       "added_at": "2023-08-07 23:16:14",
       "album": {
-        "name": "La Jumpa",
-        "url": "https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 255693,
-      "name": "La Jumpa",
-      "url": "https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli"
-    },
-    {
-      "added_at": "2023-08-07 23:16:14",
-      "album": {
         "name": "Do It To It",
         "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 157890,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
+    },
+    {
+      "added_at": "2023-08-07 23:16:14",
+      "album": {
+        "name": "La Jumpa",
+        "url": "https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 255693,
+      "name": "La Jumpa",
+      "url": "https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli"
     },
     {
       "added_at": "2023-08-07 23:16:14",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-08-07 23:16:14",
       "album": {
+        "name": "It's Getting Hot",
+        "url": "https://open.spotify.com/album/5c96P3dSu3UIgrGhIaE7RO"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 134424,
+      "name": "It's Getting Hot",
+      "url": "https://open.spotify.com/track/4lMyi03aRk8nPBLLGyqAVz"
+    },
+    {
+      "added_at": "2023-08-07 23:16:14",
+      "album": {
         "name": "Another Love (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/1QltVGlNGbK94CKgUsYZGa"
       },
@@ -911,26 +927,6 @@
       "duration_ms": 185365,
       "name": "Another Love - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/4Et6tUEO7biKxZEfJXpNj1"
-    },
-    {
-      "added_at": "2023-08-07 23:16:14",
-      "album": {
-        "name": "MONEY ON THE DASH",
-        "url": "https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd"
-      },
-      "artists": [
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        },
-        {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
-        }
-      ],
-      "duration_ms": 145666,
-      "name": "MONEY ON THE DASH",
-      "url": "https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE"
     },
     {
       "added_at": "2023-08-07 23:16:14",
@@ -955,22 +951,22 @@
     {
       "added_at": "2023-08-07 23:16:14",
       "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj"
+        "name": "MONEY ON THE DASH",
+        "url": "https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd"
       },
       "artists": [
         {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
         },
         {
-          "name": "Nate Traveller",
-          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
         }
       ],
-      "duration_ms": 158760,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG"
+      "duration_ms": 145666,
+      "name": "MONEY ON THE DASH",
+      "url": "https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE"
     },
     {
       "added_at": "2023-08-07 23:16:14",
@@ -995,18 +991,42 @@
     {
       "added_at": "2023-08-07 23:16:14",
       "album": {
-        "name": "It's Getting Hot",
-        "url": "https://open.spotify.com/album/5c96P3dSu3UIgrGhIaE7RO"
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj"
       },
       "artists": [
         {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Nate Traveller",
+          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
         }
       ],
-      "duration_ms": 134424,
-      "name": "It's Getting Hot",
-      "url": "https://open.spotify.com/track/4lMyi03aRk8nPBLLGyqAVz"
+      "duration_ms": 158760,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG"
+    },
+    {
+      "added_at": "2023-08-07 23:16:14",
+      "album": {
+        "name": "One in a Million",
+        "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 160529,
+      "name": "One in a Million",
+      "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
     },
     {
       "added_at": "2023-08-07 23:16:14",
@@ -1091,46 +1111,6 @@
     {
       "added_at": "2023-08-07 23:16:14",
       "album": {
-        "name": "One in a Million",
-        "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 160529,
-      "name": "One in a Million",
-      "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
-    },
-    {
-      "added_at": "2023-08-07 23:16:14",
-      "album": {
-        "name": "Side Effects",
-        "url": "https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Lewis Thompson",
-          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
-        }
-      ],
-      "duration_ms": 153742,
-      "name": "Side Effects",
-      "url": "https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp"
-    },
-    {
-      "added_at": "2023-08-07 23:16:14",
-      "album": {
         "name": "BED",
         "url": "https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 178087,
       "name": "BED",
       "url": "https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS"
+    },
+    {
+      "added_at": "2023-08-07 23:16:14",
+      "album": {
+        "name": "Side Effects",
+        "url": "https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Lewis Thompson",
+          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
+        }
+      ],
+      "duration_ms": 153742,
+      "name": "Side Effects",
+      "url": "https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp"
     },
     {
       "added_at": "2023-08-07 23:16:14",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2023-08-07 23:16:14",
       "album": {
-        "name": "Self Destruction Mode",
-        "url": "https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 147836,
-      "name": "Self Destruction Mode",
-      "url": "https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ"
-    },
-    {
-      "added_at": "2023-08-07 23:16:14",
-      "album": {
         "name": "Stay the Night",
         "url": "https://open.spotify.com/album/3CwmVVPOCIC3hpWWSEF0xQ"
       },
@@ -1499,6 +1479,26 @@
       "duration_ms": 171954,
       "name": "Stay the Night",
       "url": "https://open.spotify.com/track/4qtdkdTY1t3RmlmSbWykzR"
+    },
+    {
+      "added_at": "2023-08-07 23:16:14",
+      "album": {
+        "name": "Self Destruction Mode",
+        "url": "https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 147836,
+      "name": "Self Destruction Mode",
+      "url": "https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ"
     },
     {
       "added_at": "2023-08-07 23:16:14",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2023-08-07 23:16:14",
       "album": {
-        "name": "Dance Around It",
-        "url": "https://open.spotify.com/album/6vxZwJ7nz8OQ8UbEI4maOt"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "Caity Baser",
-          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
-        }
-      ],
-      "duration_ms": 144983,
-      "name": "Dance Around It",
-      "url": "https://open.spotify.com/track/4ThxV3T887uIHatv3QPMhO"
-    },
-    {
-      "added_at": "2023-08-07 23:16:14",
-      "album": {
         "name": "Call Me (with R3HAB & Timmy Trumpet)",
         "url": "https://open.spotify.com/album/3FPgLHoo4FzTPtY8j2HNeQ"
       },
@@ -1639,6 +1619,26 @@
       "duration_ms": 178309,
       "name": "Call Me (with R3HAB & Timmy Trumpet)",
       "url": "https://open.spotify.com/track/1dt220OBbkTsYz1NLVKIaw"
+    },
+    {
+      "added_at": "2023-08-07 23:16:14",
+      "album": {
+        "name": "Dance Around It",
+        "url": "https://open.spotify.com/album/6vxZwJ7nz8OQ8UbEI4maOt"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Caity Baser",
+          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
+        }
+      ],
+      "duration_ms": 144983,
+      "name": "Dance Around It",
+      "url": "https://open.spotify.com/track/4ThxV3T887uIHatv3QPMhO"
     },
     {
       "added_at": "2023-08-07 23:16:14",
@@ -1943,30 +1943,6 @@
     {
       "added_at": "2023-08-07 23:16:14",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/3L9kENKyJtn4kaPV6zP89y"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Azteck",
-          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
-        },
-        {
-          "name": "Hayley May",
-          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
-        }
-      ],
-      "duration_ms": 178294,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/6p8uRRGziFLcA3QDvWxEPM"
-    },
-    {
-      "added_at": "2023-08-07 23:16:14",
-      "album": {
         "name": "Anywhere With You",
         "url": "https://open.spotify.com/album/6kLYOTLTjIjADp2VfU9qGQ"
       },
@@ -1987,6 +1963,30 @@
       "duration_ms": 158807,
       "name": "Anywhere With You",
       "url": "https://open.spotify.com/track/3wfNiPBrzDwuanE75Ar6pS"
+    },
+    {
+      "added_at": "2023-08-07 23:16:14",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/3L9kENKyJtn4kaPV6zP89y"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Azteck",
+          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
+        },
+        {
+          "name": "Hayley May",
+          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
+        }
+      ],
+      "duration_ms": 178294,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/6p8uRRGziFLcA3QDvWxEPM"
     },
     {
       "added_at": "2023-08-07 23:16:14",

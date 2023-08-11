@@ -1825,6 +1825,24 @@
     },
     {
       "album": {
+        "name": "A1",
+        "url": "https://open.spotify.com/album/4kRHyTMRGhBcDDRHUxQz7p"
+      },
+      "artists": [
+        {
+          "name": "Etta Bond",
+          "url": "https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155131,
+      "name": "A1",
+      "url": "https://open.spotify.com/track/2PLvCLvJWw5WQmrFmtR5Mg"
+    },
+    {
+      "album": {
         "name": "A380",
         "url": "https://open.spotify.com/album/0fmZgp45c7GHciuETUBiEN"
       },
@@ -2154,6 +2172,24 @@
       "duration_ms": 230990,
       "name": "Affair with the Moon",
       "url": "https://open.spotify.com/track/3zHfLa9OyjM2mz3p590sDE"
+    },
+    {
+      "album": {
+        "name": "Affirm Me",
+        "url": "https://open.spotify.com/album/63T7MVZ5c7tS9ZDNB1H6i2"
+      },
+      "artists": [
+        {
+          "name": "Jade Novah",
+          "url": "https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208733,
+      "name": "Affirm Me",
+      "url": "https://open.spotify.com/track/0BxOS9BMSKeRjxhraqlARz"
     },
     {
       "album": {
@@ -3514,6 +3550,24 @@
       "duration_ms": 212830,
       "name": "All Over This Party",
       "url": "https://open.spotify.com/track/4Wbfb7B6ke5nJZUHX0P7mk"
+    },
+    {
+      "album": {
+        "name": "All Roads",
+        "url": "https://open.spotify.com/album/2Ns4jtMLkdHBrQyteocGQ9"
+      },
+      "artists": [
+        {
+          "name": "Lucy Park",
+          "url": "https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197120,
+      "name": "All Roads",
+      "url": "https://open.spotify.com/track/0pvgbTB2y9DNDDXb9T7FJW"
     },
     {
       "album": {
@@ -19829,6 +19883,28 @@
     },
     {
       "album": {
+        "name": "Deserve It",
+        "url": "https://open.spotify.com/album/302gFlqZPYKOag4FTZm5gS"
+      },
+      "artists": [
+        {
+          "name": "TEK.LUN",
+          "url": "https://open.spotify.com/artist/3CE8Ux0j4kdaWpqCssKnVA"
+        },
+        {
+          "name": "April + VISTA",
+          "url": "https://open.spotify.com/artist/5XNCS8lVEpHHbaHv0EabAj"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223107,
+      "name": "Deserve It",
+      "url": "https://open.spotify.com/track/5mxHLRlVKFyrRsNEwkhwWA"
+    },
+    {
+      "album": {
         "name": "Running In Waves",
         "url": "https://open.spotify.com/album/3ihFO9WpTBiCoy2G4IWvgl"
       },
@@ -21213,6 +21289,28 @@
     },
     {
       "album": {
+        "name": "Don't Lose Your Crown",
+        "url": "https://open.spotify.com/album/3Y9zqWlKfJBb8EKIsf5Sts"
+      },
+      "artists": [
+        {
+          "name": "AZA",
+          "url": "https://open.spotify.com/artist/1TuDcLFLVVf4Acp0Ja5O9Z"
+        },
+        {
+          "name": "Diedrick",
+          "url": "https://open.spotify.com/artist/1nC0rPpaZeJc0M6KkTzuDV"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200787,
+      "name": "Don't Lose Your Crown",
+      "url": "https://open.spotify.com/track/0d8bDIV25uFc16k0Vp73BT"
+    },
+    {
+      "album": {
         "name": "Don't Matter",
         "url": "https://open.spotify.com/album/2wwnqGRytuff6IRQcpFuEQ"
       },
@@ -21344,6 +21442,24 @@
       "duration_ms": 198666,
       "name": "Don't Speak",
       "url": "https://open.spotify.com/track/5lH2EChSyHjd8oB5wXIuG6"
+    },
+    {
+      "album": {
+        "name": "Don't Stare Too Long",
+        "url": "https://open.spotify.com/album/1rZ9hqFJSznZlQNMOyPZpP"
+      },
+      "artists": [
+        {
+          "name": "\u00bfT\u00e9o?",
+          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188520,
+      "name": "Don't Stare Too Long",
+      "url": "https://open.spotify.com/track/5MZ46M8kBTyY6BMYFKDVpo"
     },
     {
       "album": {
@@ -36489,6 +36605,28 @@
     },
     {
       "album": {
+        "name": "i can see you're online",
+        "url": "https://open.spotify.com/album/1xh1mtVTSZk9GmJyTGqBZA"
+      },
+      "artists": [
+        {
+          "name": "Indira May",
+          "url": "https://open.spotify.com/artist/4PStVha6j7ZX2DNtWwIR24"
+        },
+        {
+          "name": "Saffron",
+          "url": "https://open.spotify.com/artist/6LyCVkX66F8DdgZBkwxYEl"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149750,
+      "name": "i can see you're online",
+      "url": "https://open.spotify.com/track/5eJAtLcl5sGHf1rs4rB7D1"
+    },
+    {
+      "album": {
         "name": "I Can't Get Over You",
         "url": "https://open.spotify.com/album/3OCO1ebyxBC6CXsF99Xara"
       },
@@ -37532,6 +37670,24 @@
       "duration_ms": 137506,
       "name": "I Saw U",
       "url": "https://open.spotify.com/track/0QpliqisIqld65GlZA1bJ8"
+    },
+    {
+      "album": {
+        "name": "I Saw You in the Blue",
+        "url": "https://open.spotify.com/album/2MBVu7t8kW1tjmDOtM7rgY"
+      },
+      "artists": [
+        {
+          "name": "People in Dreams",
+          "url": "https://open.spotify.com/artist/2NS92kmIbk2cHK4NqhIewu"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342959,
+      "name": "I Saw You in the Blue",
+      "url": "https://open.spotify.com/track/5ub9HfLeox5yJamTvYY1yo"
     },
     {
       "album": {
@@ -42261,6 +42417,24 @@
     },
     {
       "album": {
+        "name": "kleins",
+        "url": "https://open.spotify.com/album/6tVwGSwLilsyLVKR1TV1g8"
+      },
+      "artists": [
+        {
+          "name": "gabby parafina",
+          "url": "https://open.spotify.com/artist/4ek9Knii9JrXc6xSwsjaHP"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252465,
+      "name": "kleins",
+      "url": "https://open.spotify.com/track/0VHDFZLCnMItkz9a5HAi8w"
+    },
+    {
+      "album": {
         "name": "KNOCKED OUT",
         "url": "https://open.spotify.com/album/46aYjAhwqbQjjjqXaQIdnD"
       },
@@ -45227,6 +45401,24 @@
     },
     {
       "album": {
+        "name": "Lock In",
+        "url": "https://open.spotify.com/album/549V5YR9FV43vgGMwVf6iJ"
+      },
+      "artists": [
+        {
+          "name": "Alus",
+          "url": "https://open.spotify.com/artist/3MD55k0EwGeucg8pA4H1dV"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165990,
+      "name": "Lock In",
+      "url": "https://open.spotify.com/track/5Hml3bsM1EGbO9TSAd8DOf"
+    },
+    {
+      "album": {
         "name": "Lock&Key",
         "url": "https://open.spotify.com/album/1lN9DhBjJz4CBLa2vRT3jo"
       },
@@ -47940,6 +48132,24 @@
       "duration_ms": 163909,
       "name": "Make You Scream",
       "url": "https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH"
+    },
+    {
+      "album": {
+        "name": "Make Your Move",
+        "url": "https://open.spotify.com/album/1sd3owtgEdz4FtoCynU6Ev"
+      },
+      "artists": [
+        {
+          "name": "H33RA",
+          "url": "https://open.spotify.com/artist/1NHGoS1F3ejgcKg5sE95LM"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190468,
+      "name": "Make Your Move",
+      "url": "https://open.spotify.com/track/4eNhlwQKsXKDUOJhOOHjJB"
     },
     {
       "album": {
@@ -55933,6 +56143,24 @@
     },
     {
       "album": {
+        "name": "When We Were",
+        "url": "https://open.spotify.com/album/7MHlo3z7I7nWc2eytJUQ56"
+      },
+      "artists": [
+        {
+          "name": "Asiatica",
+          "url": "https://open.spotify.com/artist/2JYlPhGdnbb5UeR8qVToPw"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206225,
+      "name": "Oh Darlin'",
+      "url": "https://open.spotify.com/track/2gg1qS6anzlHRHD40RIbh1"
+    },
+    {
+      "album": {
         "name": "Oh Julia",
         "url": "https://open.spotify.com/album/1uthZEZvFuY2GJqR2HgadG"
       },
@@ -62647,6 +62875,24 @@
     },
     {
       "album": {
+        "name": "Raining Tomorrow",
+        "url": "https://open.spotify.com/album/3bG5fjCjRBLHq0b6p2oGBY"
+      },
+      "artists": [
+        {
+          "name": "Natanya",
+          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228484,
+      "name": "Raining Tomorrow",
+      "url": "https://open.spotify.com/track/6CBBTbmqTTSCzkSyfpUs8n"
+    },
+    {
+      "album": {
         "name": "Raise a Glass",
         "url": "https://open.spotify.com/album/37HQhgUUwSX0eqxQ1E54jD"
       },
@@ -66182,6 +66428,24 @@
       "duration_ms": 208678,
       "name": "Save Your Breath",
       "url": "https://open.spotify.com/track/0OGzDwv3TbIJ9sz90Mmcpa"
+    },
+    {
+      "album": {
+        "name": "Hindsight",
+        "url": "https://open.spotify.com/album/5vNTlYU1zn1rWoAwrpQxso"
+      },
+      "artists": [
+        {
+          "name": "King Sis",
+          "url": "https://open.spotify.com/artist/47jdlqzmvdk0SFUU0gweMz"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188852,
+      "name": "save yourself",
+      "url": "https://open.spotify.com/track/1h2WWba7PtW9uTapvlvtwL"
     },
     {
       "album": {

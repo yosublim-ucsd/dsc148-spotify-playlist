@@ -2,7 +2,7 @@
 
 ### [2010s Country](https://open.spotify.com/playlist/37i9dQZF1DWXdiK4WAVRUW)
 
-> We're celebrating the 5th anniversary of Dan + Shay's self\-titled record on 2010s Country!
+> We're celebrating the 10th anniversary of Luke Bryan's hit album "Crash My Party" on 2010s Country!
 
 244 songs - 14 hr 32 min
 
@@ -62,7 +62,7 @@
 | [Country Girl \(Shake It For Me\)](https://open.spotify.com/track/0yD66650JxhqKbW76C2qCo) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Tailgates & Tanlines](https://open.spotify.com/album/4ybWq0AegFFAvHULAe7q0K) | 3:45 | 2021-05-12 | 2022-07-29 |
 | [Cowboy Casanova](https://open.spotify.com/track/6OqdF0vHI9xkqswI7EK0cD) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Play On](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) | 3:56 | 2021-06-07 |  |
 | [Crash and Burn](https://open.spotify.com/track/2Fk0WwAqTBesLtKg97nojy) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Tangled Up](https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy) | 3:10 | 2021-05-12 |  |
-| [Crash My Party](https://open.spotify.com/track/6GBUsjHfZuweYf5lQEz6mP) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Crash My Party](https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB) | 3:54 | 2021-05-12 | 2022-11-14 |
+| [Crash My Party](https://open.spotify.com/track/6GBUsjHfZuweYf5lQEz6mP) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Crash My Party](https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB) | 3:54 | 2021-05-12 |  |
 | [Craving You](https://open.spotify.com/track/17hd4ptJCbsEeLj0auPcwy) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Life Changes \(Big Machine Radio Release Special\)](https://open.spotify.com/album/6nBXl4WJtnGtcA1QUAC2lM) | 3:43 | 2021-05-12 | 2022-07-29 |
 | [Crazy Girl](https://open.spotify.com/track/1nVLAEzhBXMJLR5zAl90Nl) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Life At Best](https://open.spotify.com/album/7DYy5TiODoqnZbZ2o6KcmV) | 3:20 | 2021-05-12 |  |
 | [Crazy Town](https://open.spotify.com/track/5eH1ktZDHgegpkYJOY7tme) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Wide Open](https://open.spotify.com/album/7k9oif0MqtQ79j8swtZRMS) | 3:03 | 2021-06-07 | 2022-07-27 |
@@ -183,7 +183,7 @@
 | [Play It Again](https://open.spotify.com/track/03fT3OHB9KyMtGMt2zwqCT) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Crash My Party](https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB) | 3:46 | 2021-05-12 |  |
 | [Pontoon](https://open.spotify.com/track/2Gy3XMLbBxACZ4tXdFRGr7) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Tornado](https://open.spotify.com/album/5IIYlM5tjDtW3fIgOIA5TB) | 3:32 | 2021-05-12 |  |
 | [Prayed For You](https://open.spotify.com/track/4j6GMcVcqZf1r0GDqMtYp6) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Everywhere But On](https://open.spotify.com/album/02G55ZxQ3h3cfGQV8RVDEO) | 3:30 | 2021-05-12 |  |
-| [Rain Is A Good Thing](https://open.spotify.com/track/1YhFtqwcN138S6ng3MT1nN) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Doin' My Thing](https://open.spotify.com/album/13pqUKo7eRvMKFGpfCGyEF) | 2:56 | 2021-06-07 |  |
+| [Rain Is A Good Thing](https://open.spotify.com/track/1YhFtqwcN138S6ng3MT1nN) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Doin' My Thing](https://open.spotify.com/album/13pqUKo7eRvMKFGpfCGyEF) | 2:56 | 2021-06-07 | 2023-08-11 |
 | [Red Solo Cup](https://open.spotify.com/track/4YKAOXyqkKZ5gOZR0AmVMN) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Clancy's Tavern](https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C) | 3:43 | 2021-06-07 |  |
 | [Redneck Crazy](https://open.spotify.com/track/4lcXNTm9JrQpJYXqsENmFI) | [Tyler Farr](https://open.spotify.com/artist/3vHV92ecrylnUHDM4d2MtC) | [Redneck Crazy](https://open.spotify.com/album/1xQUjeEsRKo7zLiOPAgTlD) | 3:36 | 2021-05-12 |  |
 | [Remind Me \(with Carrie Underwood\)](https://open.spotify.com/track/4ABua0yuWcpTotImEEJTaw) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [This Is Country Music](https://open.spotify.com/album/3krMgq4qNrE8SvW5rRg50V) | 4:31 | 2021-05-12 |  |

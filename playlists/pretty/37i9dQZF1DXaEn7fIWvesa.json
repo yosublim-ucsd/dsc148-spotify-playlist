@@ -1,12 +1,12 @@
 {
   "description": "A lo cubano \ud83d\udd25 Con El Micha en portada.",
-  "num_followers": 977,
+  "num_followers": 1000,
   "original_name": "Cubat\u00f3n Miami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTMxZmY2N2UwM2Y5YTRmYTdjNDAwNDA0ZGI1NzA4ZTdjMTE4NzQx",
+  "snapshot_id": "MCxlYTE3ZGVjMmNjZTY1ZGEzNjEyZDQwOGM1MzA4ZGE0ODNmY2IxYmFm",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -235,26 +235,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Dime Quien Es Ese",
-        "url": "https://open.spotify.com/album/1GLVlsHoK05Sr8fgfMblJR"
-      },
-      "artists": [
-        {
-          "name": "El Chulo",
-          "url": "https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt"
-        },
-        {
-          "name": "L Kimii",
-          "url": "https://open.spotify.com/artist/1f1ghk6CZMmEuPtjldEDkh"
-        }
-      ],
-      "duration_ms": 196219,
-      "name": "Dime Quien Es Ese",
-      "url": "https://open.spotify.com/track/4FRe7O5vPNSyK91M6Wk84B"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Mi Lugar Favorito (Prod. by Ernesto Losa, Cuban Deejays)",
         "url": "https://open.spotify.com/album/7DV49wDTaPb2EQHV7Vtc0d"
       },
@@ -275,6 +255,26 @@
       "duration_ms": 158484,
       "name": "Mi Lugar Favorito - Prod. by Ernesto Losa, Cuban Deejays",
       "url": "https://open.spotify.com/track/1s1HC6pWnAnD71q7jNVw7w"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Dime Quien Es Ese",
+        "url": "https://open.spotify.com/album/1GLVlsHoK05Sr8fgfMblJR"
+      },
+      "artists": [
+        {
+          "name": "El Chulo",
+          "url": "https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt"
+        },
+        {
+          "name": "L Kimii",
+          "url": "https://open.spotify.com/artist/1f1ghk6CZMmEuPtjldEDkh"
+        }
+      ],
+      "duration_ms": 196219,
+      "name": "Dime Quien Es Ese",
+      "url": "https://open.spotify.com/track/4FRe7O5vPNSyK91M6Wk84B"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -391,6 +391,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Mi Mentirosa",
+        "url": "https://open.spotify.com/album/1R8C5PwffrAxmsv3JkEF8V"
+      },
+      "artists": [
+        {
+          "name": "Charly & Johayron",
+          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
+        },
+        {
+          "name": "Ernesto Losa",
+          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
+        }
+      ],
+      "duration_ms": 177900,
+      "name": "Mi Mentirosa - Prod. by Ernesto Losa",
+      "url": "https://open.spotify.com/track/3hAUj6jPytHP5t8hBT0M9i"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Pornosotros",
         "url": "https://open.spotify.com/album/0VIN822VobCM6QGwNlCRhx"
       },
@@ -435,22 +455,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Todo Est\u00e1 Ok",
-        "url": "https://open.spotify.com/album/6TcAKjAyDTTYFUehxvfJtK"
-      },
-      "artists": [
-        {
-          "name": "Fixty Ordara y Ja Rulay",
-          "url": "https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH"
-        }
-      ],
-      "duration_ms": 214574,
-      "name": "Todo Est\u00e1 Ok",
-      "url": "https://open.spotify.com/track/2Z8rpsOQ64lVimg0eKMRCm"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Lagrimas de Champan",
         "url": "https://open.spotify.com/album/0Todvs4mCXdaRprlytDK7E"
       },
@@ -471,26 +475,6 @@
       "duration_ms": 195986,
       "name": "Lagrimas de Champan",
       "url": "https://open.spotify.com/track/467QxcDwgclgfAyiOoe0sU"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Mi Mentirosa",
-        "url": "https://open.spotify.com/album/1R8C5PwffrAxmsv3JkEF8V"
-      },
-      "artists": [
-        {
-          "name": "Charly & Johayron",
-          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
-        },
-        {
-          "name": "Ernesto Losa",
-          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
-        }
-      ],
-      "duration_ms": 177900,
-      "name": "Mi Mentirosa - Prod. by Ernesto Losa",
-      "url": "https://open.spotify.com/track/3hAUj6jPytHP5t8hBT0M9i"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -519,6 +503,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Todo Est\u00e1 Ok",
+        "url": "https://open.spotify.com/album/6TcAKjAyDTTYFUehxvfJtK"
+      },
+      "artists": [
+        {
+          "name": "Fixty Ordara y Ja Rulay",
+          "url": "https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH"
+        }
+      ],
+      "duration_ms": 214574,
+      "name": "Todo Est\u00e1 Ok",
+      "url": "https://open.spotify.com/track/2Z8rpsOQ64lVimg0eKMRCm"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Agua Noche Remix",
         "url": "https://open.spotify.com/album/0eohrQWmqahDa30v94E0TM"
       },
@@ -535,6 +535,30 @@
       "duration_ms": 238269,
       "name": "Agua Noche Remix",
       "url": "https://open.spotify.com/track/6JC8pg40H9jXRUlt8UGrn9"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Funimate (Prod. by Ernesto Losa)",
+        "url": "https://open.spotify.com/album/2dgkWbSbEGmiOERvceGOu9"
+      },
+      "artists": [
+        {
+          "name": "Charly & Johayron",
+          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
+        },
+        {
+          "name": "Pokercito",
+          "url": "https://open.spotify.com/artist/0HEBlBt0wpPln5krAyG0B4"
+        },
+        {
+          "name": "Ernesto Losa",
+          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
+        }
+      ],
+      "duration_ms": 195918,
+      "name": "Funimate - Prod. by Ernesto Losa",
+      "url": "https://open.spotify.com/track/3yGujUHHB1n3ZZw0VuERiL"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -583,26 +607,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Plan B",
-        "url": "https://open.spotify.com/album/2sQCPEQ0fuyLyCmbBbcaX8"
-      },
-      "artists": [
-        {
-          "name": "Orlenis 22k",
-          "url": "https://open.spotify.com/artist/6ydjOvHh5NpnvDoNUUpj9s"
-        },
-        {
-          "name": "Ernesto Losa",
-          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
-        }
-      ],
-      "duration_ms": 175735,
-      "name": "Plan B",
-      "url": "https://open.spotify.com/track/1E5TcIHAZXbcepOW9T8fy5"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "H\u00e1blame de Miami",
         "url": "https://open.spotify.com/album/4yHi7BzkWVcF7SOIAGhJHE"
       },
@@ -619,6 +623,26 @@
       "duration_ms": 158773,
       "name": "H\u00e1blame de Miami",
       "url": "https://open.spotify.com/track/1dYV5vIMPKqkGKgxlZ5CL0"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Plan B",
+        "url": "https://open.spotify.com/album/2sQCPEQ0fuyLyCmbBbcaX8"
+      },
+      "artists": [
+        {
+          "name": "Orlenis 22k",
+          "url": "https://open.spotify.com/artist/6ydjOvHh5NpnvDoNUUpj9s"
+        },
+        {
+          "name": "Ernesto Losa",
+          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
+        }
+      ],
+      "duration_ms": 175735,
+      "name": "Plan B",
+      "url": "https://open.spotify.com/track/1E5TcIHAZXbcepOW9T8fy5"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -643,30 +667,6 @@
       "duration_ms": 174757,
       "name": "La Diferencia",
       "url": "https://open.spotify.com/track/5dSz3tq9yM9EY8FkT7Kdfp"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Funimate (Prod. by Ernesto Losa)",
-        "url": "https://open.spotify.com/album/2dgkWbSbEGmiOERvceGOu9"
-      },
-      "artists": [
-        {
-          "name": "Charly & Johayron",
-          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
-        },
-        {
-          "name": "Pokercito",
-          "url": "https://open.spotify.com/artist/0HEBlBt0wpPln5krAyG0B4"
-        },
-        {
-          "name": "Ernesto Losa",
-          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
-        }
-      ],
-      "duration_ms": 195918,
-      "name": "Funimate - Prod. by Ernesto Losa",
-      "url": "https://open.spotify.com/track/3yGujUHHB1n3ZZw0VuERiL"
     },
     {
       "added_at": "2023-08-04 04:00:00",

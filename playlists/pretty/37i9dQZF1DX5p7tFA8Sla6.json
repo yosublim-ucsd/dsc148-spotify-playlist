@@ -1,12 +1,12 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 50543,
+  "num_followers": 50585,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGRlY2Y1OTYzMTVjZTc2MjA3Mzk0YTFhNzdhNTRlNjAwYzI2ZTk3",
+  "snapshot_id": "MCwyOTlmOGFjZTdlZGNjYzk1ZmRhMTc1ZWYwNWI0MjEyODkzZjg3NTIy",
   "tracks": [
     {
       "added_at": "2019-08-22 14:26:16",
@@ -195,22 +195,18 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "The Fearless Flyers",
-        "url": "https://open.spotify.com/album/2GEQWuTviG5lXO66aiOYqt"
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
       },
       "artists": [
         {
-          "name": "The Fearless Flyers",
-          "url": "https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh"
-        },
-        {
-          "name": "Vulf",
-          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
         }
       ],
-      "duration_ms": 124565,
-      "name": "Ace of Aces",
-      "url": "https://open.spotify.com/track/1SlkhRMOEJp97Ho0BaIOkj"
+      "duration_ms": 288480,
+      "name": "In the Stone",
+      "url": "https://open.spotify.com/track/3qZHUZTQiTMfJXcUYzY5mT"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -231,18 +227,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "I Am",
-        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
+        "name": "The Fearless Flyers",
+        "url": "https://open.spotify.com/album/2GEQWuTviG5lXO66aiOYqt"
       },
       "artists": [
         {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+          "name": "The Fearless Flyers",
+          "url": "https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh"
+        },
+        {
+          "name": "Vulf",
+          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
         }
       ],
-      "duration_ms": 288480,
-      "name": "In the Stone",
-      "url": "https://open.spotify.com/track/3qZHUZTQiTMfJXcUYzY5mT"
+      "duration_ms": 124565,
+      "name": "Ace of Aces",
+      "url": "https://open.spotify.com/track/1SlkhRMOEJp97Ho0BaIOkj"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -731,22 +731,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Souled Out",
-        "url": "https://open.spotify.com/album/13QSuP63jfv33OqqqnEZyY"
-      },
-      "artists": [
-        {
-          "name": "Tower Of Power",
-          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
-        }
-      ],
-      "duration_ms": 279866,
-      "name": "Diggin' On James Brown",
-      "url": "https://open.spotify.com/track/4Udo45PAGJgTbIWTqFdHKe"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Fly",
         "url": "https://open.spotify.com/album/3xkP2jcNDvuo7ZfNjl22Vy"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 251293,
       "name": "Do It Like You Do",
       "url": "https://open.spotify.com/track/7cnWNeQIQutKJmL3MZSfr6"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Souled Out",
+        "url": "https://open.spotify.com/album/13QSuP63jfv33OqqqnEZyY"
+      },
+      "artists": [
+        {
+          "name": "Tower Of Power",
+          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
+        }
+      ],
+      "duration_ms": 279866,
+      "name": "Diggin' On James Brown",
+      "url": "https://open.spotify.com/track/4Udo45PAGJgTbIWTqFdHKe"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -819,18 +819,18 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Everybody Want Sum",
-        "url": "https://open.spotify.com/album/14D2GvYb7WNfUuVA0nXjUD"
+        "name": "What We Got Together",
+        "url": "https://open.spotify.com/album/5uWedPD8C7hbLJ4iD3aV18"
       },
       "artists": [
         {
-          "name": "Dumpstaphunk",
-          "url": "https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC"
+          "name": "Brother Strut",
+          "url": "https://open.spotify.com/artist/3Z1RXhBBhcyVcry5HAcVRg"
         }
       ],
-      "duration_ms": 288253,
-      "name": "Sheez Music",
-      "url": "https://open.spotify.com/track/6LKRuyVDn74fN6TemK7lyK"
+      "duration_ms": 155933,
+      "name": "Funk That Junk",
+      "url": "https://open.spotify.com/track/5Lto3D5kr8dmalcZ0hRp2G"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -851,18 +851,18 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "What We Got Together",
-        "url": "https://open.spotify.com/album/5uWedPD8C7hbLJ4iD3aV18"
+        "name": "Everybody Want Sum",
+        "url": "https://open.spotify.com/album/14D2GvYb7WNfUuVA0nXjUD"
       },
       "artists": [
         {
-          "name": "Brother Strut",
-          "url": "https://open.spotify.com/artist/3Z1RXhBBhcyVcry5HAcVRg"
+          "name": "Dumpstaphunk",
+          "url": "https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC"
         }
       ],
-      "duration_ms": 155933,
-      "name": "Funk That Junk",
-      "url": "https://open.spotify.com/track/5Lto3D5kr8dmalcZ0hRp2G"
+      "duration_ms": 288253,
+      "name": "Sheez Music",
+      "url": "https://open.spotify.com/track/6LKRuyVDn74fN6TemK7lyK"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Jukestone Paradise",
-        "url": "https://open.spotify.com/album/7iffpPqDJH74f03Eu6HZ2y"
-      },
-      "artists": [
-        {
-          "name": "Pimps of Joytime",
-          "url": "https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4"
-        }
-      ],
-      "duration_ms": 242840,
-      "name": "Body Party",
-      "url": "https://open.spotify.com/track/5H8ClXF0WMHASLLmqMyuLq"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Stay Good",
         "url": "https://open.spotify.com/album/7KFdFOJJF84VbZ5rJjbyK7"
       },
@@ -1515,6 +1499,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Jukestone Paradise",
+        "url": "https://open.spotify.com/album/7iffpPqDJH74f03Eu6HZ2y"
+      },
+      "artists": [
+        {
+          "name": "Pimps of Joytime",
+          "url": "https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4"
+        }
+      ],
+      "duration_ms": 242840,
+      "name": "Body Party",
+      "url": "https://open.spotify.com/track/5H8ClXF0WMHASLLmqMyuLq"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "Afterlife Vol. 2 - EP",
         "url": "https://open.spotify.com/album/6fYiUXcG04ykfJcT9X75Al"
       },
@@ -1527,22 +1527,6 @@
       "duration_ms": 226345,
       "name": "Mister Man",
       "url": "https://open.spotify.com/track/2eoDZsvrMKU7Hh9qZhkpsD"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Gnomes & Badgers",
-        "url": "https://open.spotify.com/album/56MQoYzvGvaaECXTN9rUFY"
-      },
-      "artists": [
-        {
-          "name": "Karl Denson",
-          "url": "https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "I'm Your Biggest Fan",
-      "url": "https://open.spotify.com/track/4IThPVciaEpF0h8rIs1QnV"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1579,26 +1563,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Lab Experiments, Vol. 2",
-        "url": "https://open.spotify.com/album/6j0BOlgrf1L0rBfI6fqxmA"
-      },
-      "artists": [
-        {
-          "name": "Cookin' On 3 Burners",
-          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
-        },
-        {
-          "name": "Kaiit",
-          "url": "https://open.spotify.com/artist/05GTlMes7SkTlE9JcIvYB2"
-        }
-      ],
-      "duration_ms": 211615,
-      "name": "Warning",
-      "url": "https://open.spotify.com/track/3EQOwmp82jHkPtSUnG3aPn"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "In Search Of Better Days",
         "url": "https://open.spotify.com/album/2f83h1GYlE4SrVseNnSvQ4"
       },
@@ -1615,6 +1579,26 @@
       "duration_ms": 281133,
       "name": "Just Say Nothing",
       "url": "https://open.spotify.com/track/6oBOx9S6xhHbAkznP2wiNC"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Lab Experiments, Vol. 2",
+        "url": "https://open.spotify.com/album/6j0BOlgrf1L0rBfI6fqxmA"
+      },
+      "artists": [
+        {
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+        },
+        {
+          "name": "Kaiit",
+          "url": "https://open.spotify.com/artist/05GTlMes7SkTlE9JcIvYB2"
+        }
+      ],
+      "duration_ms": 211615,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/3EQOwmp82jHkPtSUnG3aPn"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1723,6 +1707,22 @@
       "duration_ms": 212252,
       "name": "Wired Up",
       "url": "https://open.spotify.com/track/3y1j3spsGsSWHE2rCOgewx"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Run n' Fly",
+        "url": "https://open.spotify.com/album/6drXWj82IEZkc13NIBtsLw"
+      },
+      "artists": [
+        {
+          "name": "Run N' Fly",
+          "url": "https://open.spotify.com/artist/5KWICgITIWooJ8XteleAS3"
+        }
+      ],
+      "duration_ms": 281200,
+      "name": "Devon",
+      "url": "https://open.spotify.com/track/5AGKCPnzHCxHvdDwqJ03PD"
     }
   ],
   "unique_name": "Funk Drive",

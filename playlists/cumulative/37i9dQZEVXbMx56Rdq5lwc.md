@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Lithuania.
 
-1,266 songs - 2 day 21 hr 5 min
+1,267 songs - 2 day 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -755,6 +755,7 @@
 | [Niagara Falls \(Foot or 2\) \[with Travis Scott & 21 Savage\]](https://open.spotify.com/track/4WuOWVnAqvEQxgSRrspBgt) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:27 | 2022-12-03 | 2022-12-12 |
 | [Niagara Falls \(Foot or 2\) \[with Travis Scott & 21 Savage\]](https://open.spotify.com/track/5XJWEh8huqG0l9RgRyArtv) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:27 | 2022-12-04 | 2022-12-09 |
 | [NICE DAY](https://open.spotify.com/track/76cMNTZem8jrd9m5uVgJpl) | [Sumomo](https://open.spotify.com/artist/6l4bqstldnTeBxn4HHsxlZ) | [NICE DAY](https://open.spotify.com/album/6d4ZWjN1VI72KEzsuOFVIn) | 4:14 | 2021-04-07 | 2021-04-08 |
+| [NIDA](https://open.spotify.com/track/7oEZ0k2MNxPzghYT1XmE9o) | [Rimvis](https://open.spotify.com/artist/5ZKCHJ9N7pXtpLHeLLQyLM) | [NIDA](https://open.spotify.com/album/5Lj13ZDvAco2zYwRWIHw9C) | 3:25 | 2023-08-10 |  |
 | [NIEKAM NESAKYK](https://open.spotify.com/track/5Uql8HVRaJP7ciV5lEz6DB) | [OG Version](https://open.spotify.com/artist/0Y2zzjMum7MSOCvI0GNbv5), [Proflame](https://open.spotify.com/artist/08hlS00IaeGBaRSZtxuwUq) | [NIEKAM NESAKYK](https://open.spotify.com/album/5uf37FJRVEi8ZZxmxUZnhr) | 3:21 | 2021-04-18 | 2021-05-13 |
 | [nieko nebijojo](https://open.spotify.com/track/2Dy6W9uSgMHIPjqkfxPMAk) | [Gabrielė Vilkickytė](https://open.spotify.com/artist/5az2A2xwHne4d9q8kVcgMy) | [nieko nebijojo](https://open.spotify.com/album/2al2JO7btjP5yUT10wR1fy) | 3:49 | 2022-06-18 | 2022-06-24 |
 | [Nieko Nieko](https://open.spotify.com/track/2DAYE1jtbM0UNeYyPCC2z1) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Pasaka](https://open.spotify.com/album/5qNv5pwpkoWahhan3t528U) | 3:08 | 2023-03-11 |  |
@@ -1265,7 +1266,7 @@
 | [ŠVELNUMAS](https://open.spotify.com/track/7hNlUdEK3qwPyEaKnHxYbR) | [Gabrielė Vilkickytė](https://open.spotify.com/artist/5az2A2xwHne4d9q8kVcgMy), [Domantas Starkauskas](https://open.spotify.com/artist/4YfDyfROcSXLSCGpr0w997) | [ŠVELNUMAS](https://open.spotify.com/album/5dJ2lpvqMwH7kcM3rSfcvw) | 4:21 | 2021-05-13 | 2021-05-19 |
 | [ŠVELNUMAS](https://open.spotify.com/track/1nSYbKEsXyHdG3iIn4PbpL) | [Gabrielė Vilkickytė](https://open.spotify.com/artist/5az2A2xwHne4d9q8kVcgMy), [Domantas Starkauskas](https://open.spotify.com/artist/4YfDyfROcSXLSCGpr0w997) | [VILKO ŠVELNUMAS](https://open.spotify.com/album/7mnMiGdr3rZQ1wDlPfXOzd) | 4:22 | 2021-05-19 | 2021-05-23 |
 | [Žiburiai](https://open.spotify.com/track/21QCQXnmSTApn8Tu9a2HO5) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Žiburiai](https://open.spotify.com/album/3oWD61Ux6b1RlFWTa3rgoW) | 3:04 | 2022-11-26 | 2023-03-13 |
-| [Žiburiai](https://open.spotify.com/track/36gyBvEg25CLp96TixmzcS) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Pasaka](https://open.spotify.com/album/5qNv5pwpkoWahhan3t528U) | 3:04 | 2023-03-12 |  |
+| [Žiburiai](https://open.spotify.com/track/36gyBvEg25CLp96TixmzcS) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Pasaka](https://open.spotify.com/album/5qNv5pwpkoWahhan3t528U) | 3:04 | 2023-03-12 | 2023-08-11 |
 | [Žibutė](https://open.spotify.com/track/0nOft3QVjsx8WzE8w21IzH) | [jautì](https://open.spotify.com/artist/1kfCwVVXg1E5gFZQPM152L) | [Žibutė](https://open.spotify.com/album/6SGBOBIwBaS9rkqcwTVEEE) | 2:47 | 2023-01-10 | 2023-01-13 |
 | [Žodžiai](https://open.spotify.com/track/5Kegh74rxTkgd6WSoaP7P5) | [Gintariniai Laikai](https://open.spotify.com/artist/49JoHj1exgBGqL8ARESQ7c), [ba.](https://open.spotify.com/artist/4JgXlDN8sCvwjFeFlWnsuf) | [Žodžiai](https://open.spotify.com/album/5lpArSOx0N0I0HeFFroNCM) | 4:32 | 2023-07-14 | 2023-07-30 |
 | [Žvėrynas](https://open.spotify.com/track/5tfZwNfe7idsZG88eeDmBo) | [FC Baseball](https://open.spotify.com/artist/0C2U98NkIkyePhoocejsCD) | [ŽVĖRYNĖ](https://open.spotify.com/album/0HQUjiRWR7bIQIEiBRYIfr) | 4:32 | 2022-02-02 | 2022-02-06 |

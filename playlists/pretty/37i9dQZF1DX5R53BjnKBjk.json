@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer.  Foto: Dani-Vie / Arte: Isu Kim",
-  "num_followers": 17290,
+  "num_followers": 17295,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDJlNmJlODRkYzIyNzY1ZWQzNjRlNmMyMTFmNWVhN2EyOGRkOWQx",
+  "snapshot_id": "MCwzMTU3ZWFkNGEzZDBkNjI0MDczMDA4MzdmZmJmYmMwMGEyOGJlZGZh",
   "tracks": [
     {
       "added_at": "2023-07-25 14:27:29",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-07-25 14:27:29",
       "album": {
-        "name": "Oxi (Dio Mio!)",
-        "url": "https://open.spotify.com/album/34gsitMxdH7mewppzUB7F6"
-      },
-      "artists": [
-        {
-          "name": "Belita",
-          "url": "https://open.spotify.com/artist/2xlX2xlzRLg1y914U4acVR"
-        }
-      ],
-      "duration_ms": 160413,
-      "name": "Oxi (Dio Mio!)",
-      "url": "https://open.spotify.com/track/7rNs5lk3spufNxHP2C8pjX"
-    },
-    {
-      "added_at": "2023-07-25 14:27:29",
-      "album": {
         "name": "bem vi",
         "url": "https://open.spotify.com/album/7fMdliOcULUtShWJrBD25a"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 197297,
       "name": "bem vi",
       "url": "https://open.spotify.com/track/3RqLIFBLb0UUSMc7QgA3a7"
+    },
+    {
+      "added_at": "2023-07-25 14:27:29",
+      "album": {
+        "name": "Oxi (Dio Mio!)",
+        "url": "https://open.spotify.com/album/34gsitMxdH7mewppzUB7F6"
+      },
+      "artists": [
+        {
+          "name": "Belita",
+          "url": "https://open.spotify.com/artist/2xlX2xlzRLg1y914U4acVR"
+        }
+      ],
+      "duration_ms": 160413,
+      "name": "Oxi (Dio Mio!)",
+      "url": "https://open.spotify.com/track/7rNs5lk3spufNxHP2C8pjX"
     },
     {
       "added_at": "2023-07-25 14:27:29",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-07-25 14:27:29",
       "album": {
-        "name": "Fica Comigo",
-        "url": "https://open.spotify.com/album/6rLTqTd9CpYuWxbVZRGPwS"
-      },
-      "artists": [
-        {
-          "name": "Ana L\u00e9lia",
-          "url": "https://open.spotify.com/artist/450LxlI65tn8OqyNr3XmOm"
-        }
-      ],
-      "duration_ms": 218117,
-      "name": "Fica Comigo",
-      "url": "https://open.spotify.com/track/0ydIAs5h5yOkavyEf9Ewk0"
-    },
-    {
-      "added_at": "2023-07-25 14:27:29",
-      "album": {
         "name": "Voc\u00ea Chegou na Hora Certa",
         "url": "https://open.spotify.com/album/2S6JVRCJQ4Jlg7kesk8cln"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 148484,
       "name": "Voc\u00ea Chegou na Hora Certa",
       "url": "https://open.spotify.com/track/7DgVZXIT4FxG49oHTGNTen"
+    },
+    {
+      "added_at": "2023-07-25 14:27:29",
+      "album": {
+        "name": "Fica Comigo",
+        "url": "https://open.spotify.com/album/6rLTqTd9CpYuWxbVZRGPwS"
+      },
+      "artists": [
+        {
+          "name": "Ana L\u00e9lia",
+          "url": "https://open.spotify.com/artist/450LxlI65tn8OqyNr3XmOm"
+        }
+      ],
+      "duration_ms": 218117,
+      "name": "Fica Comigo",
+      "url": "https://open.spotify.com/track/0ydIAs5h5yOkavyEf9Ewk0"
     },
     {
       "added_at": "2023-07-25 14:27:29",
@@ -991,18 +991,18 @@
     {
       "added_at": "2023-07-25 14:27:29",
       "album": {
-        "name": "Al\u00edvio",
-        "url": "https://open.spotify.com/album/5zyqo7eSAZlcP6ecgZw4Lb"
+        "name": "PSEUDODRAMA",
+        "url": "https://open.spotify.com/album/6M2btYgSEXpV6a8YbqI6zJ"
       },
       "artists": [
         {
-          "name": "Cronistas",
-          "url": "https://open.spotify.com/artist/7L5dmHSm4H8cHne1itDWJq"
+          "name": "Clara Tannure",
+          "url": "https://open.spotify.com/artist/50AlI8ZgZfb8SMTZ0c38mq"
         }
       ],
-      "duration_ms": 191097,
-      "name": "Al\u00edvio",
-      "url": "https://open.spotify.com/track/0KnIk3stzRxOvb5LPLqmVt"
+      "duration_ms": 146605,
+      "name": "T\u00e1 Subindo",
+      "url": "https://open.spotify.com/track/4UUpgJ1TP5IvcYU6YYzJBF"
     },
     {
       "added_at": "2023-07-25 14:27:29",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2023-07-25 14:27:29",
       "album": {
-        "name": "PSEUDODRAMA",
-        "url": "https://open.spotify.com/album/6M2btYgSEXpV6a8YbqI6zJ"
+        "name": "Al\u00edvio",
+        "url": "https://open.spotify.com/album/5zyqo7eSAZlcP6ecgZw4Lb"
       },
       "artists": [
         {
-          "name": "Clara Tannure",
-          "url": "https://open.spotify.com/artist/50AlI8ZgZfb8SMTZ0c38mq"
+          "name": "Cronistas",
+          "url": "https://open.spotify.com/artist/7L5dmHSm4H8cHne1itDWJq"
         }
       ],
-      "duration_ms": 146605,
-      "name": "T\u00e1 Subindo",
-      "url": "https://open.spotify.com/track/4UUpgJ1TP5IvcYU6YYzJBF"
+      "duration_ms": 191097,
+      "name": "Al\u00edvio",
+      "url": "https://open.spotify.com/track/0KnIk3stzRxOvb5LPLqmVt"
     },
     {
       "added_at": "2023-07-25 14:27:29",
@@ -1071,6 +1071,26 @@
     {
       "added_at": "2023-07-25 14:27:29",
       "album": {
+        "name": "Ma\u00e7\u00e3 do Amor",
+        "url": "https://open.spotify.com/album/2b1X7WinJHgCeLO8LihyIa"
+      },
+      "artists": [
+        {
+          "name": "G\u00f3bi",
+          "url": "https://open.spotify.com/artist/19nkGd7GShR772VW7nrhos"
+        },
+        {
+          "name": "Bianca Rhoden",
+          "url": "https://open.spotify.com/artist/4Oi3CXGzhIlrGInMf36RkI"
+        }
+      ],
+      "duration_ms": 275882,
+      "name": "Se Eu Te Ver de Novo",
+      "url": "https://open.spotify.com/track/0MehrXQw4CfMsyy3RPho7c"
+    },
+    {
+      "added_at": "2023-07-25 14:27:29",
+      "album": {
         "name": "Me Liga",
         "url": "https://open.spotify.com/album/1ZqRWkRBnhqLkZyqAd3WiM"
       },
@@ -1099,26 +1119,6 @@
       "duration_ms": 128771,
       "name": "AL\u00d4",
       "url": "https://open.spotify.com/track/1OI0WImoE0AaoWwEr5fD9a"
-    },
-    {
-      "added_at": "2023-07-25 14:27:29",
-      "album": {
-        "name": "Ma\u00e7\u00e3 do Amor",
-        "url": "https://open.spotify.com/album/2b1X7WinJHgCeLO8LihyIa"
-      },
-      "artists": [
-        {
-          "name": "G\u00f3bi",
-          "url": "https://open.spotify.com/artist/19nkGd7GShR772VW7nrhos"
-        },
-        {
-          "name": "Bianca Rhoden",
-          "url": "https://open.spotify.com/artist/4Oi3CXGzhIlrGInMf36RkI"
-        }
-      ],
-      "duration_ms": 275882,
-      "name": "Se Eu Te Ver de Novo",
-      "url": "https://open.spotify.com/track/0MehrXQw4CfMsyy3RPho7c"
     },
     {
       "added_at": "2023-07-25 14:27:29",
@@ -1155,6 +1155,26 @@
     {
       "added_at": "2023-07-25 14:27:29",
       "album": {
+        "name": "Devaneios",
+        "url": "https://open.spotify.com/album/0phS3hYLWXplAnJ6iEqTJh"
+      },
+      "artists": [
+        {
+          "name": "Fraterna Trip",
+          "url": "https://open.spotify.com/artist/2qJbdrwX5dlARkvyea6FfL"
+        },
+        {
+          "name": "John",
+          "url": "https://open.spotify.com/artist/5ZKMbk9PmY14dHKhIViFlF"
+        }
+      ],
+      "duration_ms": 201137,
+      "name": "Devaneios",
+      "url": "https://open.spotify.com/track/1plbDctYNoH59WBmSxgLtL"
+    },
+    {
+      "added_at": "2023-07-25 14:27:29",
+      "album": {
         "name": "Esse Jogo",
         "url": "https://open.spotify.com/album/37SKpaMjIQ218gvKu5LzPt"
       },
@@ -1183,26 +1203,6 @@
       "duration_ms": 171084,
       "name": "vc \u00e9 uma bagun\u00e7a",
       "url": "https://open.spotify.com/track/6vq3BfHL9mx9ksM12cJhq4"
-    },
-    {
-      "added_at": "2023-07-25 14:27:29",
-      "album": {
-        "name": "Devaneios",
-        "url": "https://open.spotify.com/album/0phS3hYLWXplAnJ6iEqTJh"
-      },
-      "artists": [
-        {
-          "name": "Fraterna Trip",
-          "url": "https://open.spotify.com/artist/2qJbdrwX5dlARkvyea6FfL"
-        },
-        {
-          "name": "John",
-          "url": "https://open.spotify.com/artist/5ZKMbk9PmY14dHKhIViFlF"
-        }
-      ],
-      "duration_ms": 201137,
-      "name": "Devaneios",
-      "url": "https://open.spotify.com/track/1plbDctYNoH59WBmSxgLtL"
     },
     {
       "added_at": "2023-07-25 14:27:29",
@@ -1275,18 +1275,22 @@
     {
       "added_at": "2023-07-25 14:27:29",
       "album": {
-        "name": "Disfar\u00e7a",
-        "url": "https://open.spotify.com/album/19Z6YlIy7In820N5JN52EW"
+        "name": "Queda livre",
+        "url": "https://open.spotify.com/album/0XBxBinisK7SboSGUFHZvp"
       },
       "artists": [
         {
-          "name": "Silveri\u00f4",
-          "url": "https://open.spotify.com/artist/2Sj8CPktStO7Fy4Ny2qbyg"
+          "name": "Playmoboys",
+          "url": "https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw"
+        },
+        {
+          "name": "Oh! I Kill",
+          "url": "https://open.spotify.com/artist/0oc4L7WmNWpJmFtKT0RkbI"
         }
       ],
-      "duration_ms": 159736,
-      "name": "Disfar\u00e7a",
-      "url": "https://open.spotify.com/track/15k0GNy0sK5l8W14UGX4dL"
+      "duration_ms": 198000,
+      "name": "Queda livre",
+      "url": "https://open.spotify.com/track/39w1alJZX8NjXmsmeLbjhX"
     },
     {
       "added_at": "2023-07-25 14:27:29",
@@ -1307,22 +1311,18 @@
     {
       "added_at": "2023-07-25 14:27:29",
       "album": {
-        "name": "Queda livre",
-        "url": "https://open.spotify.com/album/0XBxBinisK7SboSGUFHZvp"
+        "name": "Disfar\u00e7a",
+        "url": "https://open.spotify.com/album/19Z6YlIy7In820N5JN52EW"
       },
       "artists": [
         {
-          "name": "Playmoboys",
-          "url": "https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw"
-        },
-        {
-          "name": "Oh! I Kill",
-          "url": "https://open.spotify.com/artist/0oc4L7WmNWpJmFtKT0RkbI"
+          "name": "Silveri\u00f4",
+          "url": "https://open.spotify.com/artist/2Sj8CPktStO7Fy4Ny2qbyg"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Queda livre",
-      "url": "https://open.spotify.com/track/39w1alJZX8NjXmsmeLbjhX"
+      "duration_ms": 159736,
+      "name": "Disfar\u00e7a",
+      "url": "https://open.spotify.com/track/15k0GNy0sK5l8W14UGX4dL"
     },
     {
       "added_at": "2023-07-25 14:27:29",

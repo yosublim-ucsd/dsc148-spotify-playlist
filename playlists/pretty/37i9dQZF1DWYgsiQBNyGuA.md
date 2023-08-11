@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 
 > Soul to brighten up your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,120 likes - 80 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,203 likes - 80 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 26 | [O Me O My](https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 2:52 |
 | 27 | [Ladies](https://open.spotify.com/track/6iNHWlOLt4NuDi9iSvtznO) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [My World](https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc) | 4:17 |
 | 28 | [Hold Me](https://open.spotify.com/track/4QlhhWO6nq5BzSpfU4nJs0) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 3:07 |
-| 29 | [Sun Go Down](https://open.spotify.com/track/6UJThOHpnTSWu583jJ4dbo) | [Fat Night](https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi) | [Lazy Days](https://open.spotify.com/album/3dsG1JN1wE7XL5DLuWNKk5) | 3:42 |
+| 29 | [Stay Together](https://open.spotify.com/track/0Gs5zsjp7Rp2i41yMgNxCf) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3) | [Pieces Of Me](https://open.spotify.com/album/73XPHadCmH3QpfhlMnte0C) | 3:56 |
 | 30 | [Smile](https://open.spotify.com/track/6mUUv0qz4deyMO7jB5drzU) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Durand Jones & The Indications \(Deluxe Edition\)](https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq) | 3:49 |
-| 31 | [Stay Together](https://open.spotify.com/track/0Gs5zsjp7Rp2i41yMgNxCf) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3) | [Pieces Of Me](https://open.spotify.com/album/73XPHadCmH3QpfhlMnte0C) | 3:56 |
+| 31 | [Sun Go Down](https://open.spotify.com/track/6UJThOHpnTSWu583jJ4dbo) | [Fat Night](https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi) | [Lazy Days](https://open.spotify.com/album/3dsG1JN1wE7XL5DLuWNKk5) | 3:42 |
 | 32 | [GotItBad](https://open.spotify.com/track/59s5vTB8LNV4tyZPp9HM3f) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Young Sick Camellia](https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL) | 4:50 |
 | 33 | [Honey Dove](https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [My World](https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc) | 4:06 |
 | 34 | [Let My People Go](https://open.spotify.com/track/260FtPzhpH7A0473nrMZ8R) | [Darondo](https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc) | [Let My People Go](https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA) | 3:58 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 56 | [Can't Change Me](https://open.spotify.com/track/5pPLXjXbpcRH5DNdWrnTo9) | [N'Dambi](https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX) | [A Weird Kinda Wonderful](https://open.spotify.com/album/0ZWWYHFwzCUKnOMatRoBRa) | 5:11 |
 | 57 | [Seven Nation Army \- Remasterisée](https://open.spotify.com/track/4LDNKV0SYy8m9MRyhLkXv7) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Ben L'Oncle Soul](https://open.spotify.com/album/0cf7toJ9xKuKgsaTDwxaCj) | 2:56 |
 | 58 | [Positivity](https://open.spotify.com/track/0wo02vddAWnvU6nJAwv4Wz) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Soul Revolution](https://open.spotify.com/album/4qF4sSfF0dHMUdTkqF5yn8) | 3:19 |
-| 59 | [Home Improvement](https://open.spotify.com/track/17O5F0I7FZJ009c9aKtWRo) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [Rothstein](https://open.spotify.com/artist/0Qta34kIeeonfyC692s5b8) | [Indigo](https://open.spotify.com/album/7hwvmVx9NHOAmRHFgWZpe4) | 1:57 |
-| 60 | [All I Need](https://open.spotify.com/track/2mGWmvIIvs7jKEXxyh7Wfb) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Emma Jean](https://open.spotify.com/album/3u38Zm1pGlCrGZSsUk2396) | 3:34 |
+| 59 | [All I Need](https://open.spotify.com/track/2mGWmvIIvs7jKEXxyh7Wfb) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Emma Jean](https://open.spotify.com/album/3u38Zm1pGlCrGZSsUk2396) | 3:34 |
+| 60 | [Home Improvement](https://open.spotify.com/track/17O5F0I7FZJ009c9aKtWRo) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [Rothstein](https://open.spotify.com/artist/0Qta34kIeeonfyC692s5b8) | [Indigo](https://open.spotify.com/album/7hwvmVx9NHOAmRHFgWZpe4) | 1:57 |
 | 61 | [True](https://open.spotify.com/track/12Coc139hXMlwp2CinTQ2N) | [Darondo](https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc) | [Let My People Go](https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA) | 4:46 |
 | 62 | [Love You All My Lifetime](https://open.spotify.com/track/2yTswsiLkNGzzzX54WroNS) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [The Woman I Am](https://open.spotify.com/album/0xUs1n2GTs34q1JeFfZsDz) | 4:44 |
 | 63 | [Call My Name](https://open.spotify.com/track/2KuATlpFox2DKUkRxViBH3) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [The SunRoom](https://open.spotify.com/album/3XR4GTqZQ1eiVULjHQd38N) | 4:31 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 79 | [I Want](https://open.spotify.com/track/5z5mgD0gIZ5KBCQgyIUR3j) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [The Woman I Am](https://open.spotify.com/album/0xUs1n2GTs34q1JeFfZsDz) | 5:52 |
 | 80 | [My Home \(Love Brings Us Here\)](https://open.spotify.com/track/425RXHH1ByViVaSslgfg0V) | [Jon Mero](https://open.spotify.com/artist/6MuZFI7KLPBjhmgkkX5LPf) | [My Home \(Love Brings Us Here\) \- Single](https://open.spotify.com/album/1qsxuAF1ujU6tjtAIYRpqB) | 3:33 |
 
-Snapshot ID: `MCw1NTc1MWFlNTcyYjVmYzBmNGFkN2M3YjZiYzU2YjY0YTcyYjc2M2Jh`
+Snapshot ID: `MCwxNGFmZjNkZDQ5MTc4M2RmMjk1MGU1YzczNWQzMmY2NGJmOGI1Zjdk`

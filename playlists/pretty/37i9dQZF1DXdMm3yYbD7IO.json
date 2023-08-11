@@ -1,12 +1,12 @@
 {
   "description": "Move your body with your favorite 90s songs.",
-  "num_followers": 246456,
+  "num_followers": 246869,
   "original_name": "90's Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjM5ZjhlNWZlYzc1YmIyMjcyZDJlZmI2NzA0MWU1ZjAxMTE5YWM0",
+  "snapshot_id": "MCwxMjk0N2Y5YjUyNDJiYWExNjIyNWVkM2VhYzQ3YTMwOGY0ZjMyMmFk",
   "tracks": [
     {
       "added_at": "2023-03-10 23:34:06",
@@ -183,22 +183,6 @@
     {
       "added_at": "2023-03-10 23:34:06",
       "album": {
-        "name": "We See The Same Sun",
-        "url": "https://open.spotify.com/album/2aMWSTZkHdS6mR28WtpuxY"
-      },
-      "artists": [
-        {
-          "name": "Mr. President",
-          "url": "https://open.spotify.com/artist/7KBkgunlONG7LPxs93pgpp"
-        }
-      ],
-      "duration_ms": 218733,
-      "name": "Coco Jamboo",
-      "url": "https://open.spotify.com/track/5fRvePkRGdpn2nKacG7I6d"
-    },
-    {
-      "added_at": "2023-03-10 23:34:06",
-      "album": {
         "name": "Please Hammer Don't Hurt 'Em",
         "url": "https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 257359,
       "name": "U Can't Touch This",
       "url": "https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu"
+    },
+    {
+      "added_at": "2023-03-10 23:34:06",
+      "album": {
+        "name": "We See The Same Sun",
+        "url": "https://open.spotify.com/album/2aMWSTZkHdS6mR28WtpuxY"
+      },
+      "artists": [
+        {
+          "name": "Mr. President",
+          "url": "https://open.spotify.com/artist/7KBkgunlONG7LPxs93pgpp"
+        }
+      ],
+      "duration_ms": 218733,
+      "name": "Coco Jamboo",
+      "url": "https://open.spotify.com/track/5fRvePkRGdpn2nKacG7I6d"
     },
     {
       "added_at": "2023-03-10 23:34:06",

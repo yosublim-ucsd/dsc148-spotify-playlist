@@ -2287,6 +2287,28 @@
     },
     {
       "album": {
+        "name": "Concrete Jungle",
+        "url": "https://open.spotify.com/album/148Ov9qRrdiVmW8ZFCkZKl"
+      },
+      "artists": [
+        {
+          "name": "Dengaryu",
+          "url": "https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru"
+        },
+        {
+          "name": "Takuya Kuroda",
+          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197524,
+      "name": "Concrete Jungle",
+      "url": "https://open.spotify.com/track/3x7HRRiUkd3so6DdCuIsrY"
+    },
+    {
+      "album": {
         "name": "artless",
         "url": "https://open.spotify.com/album/5Hz2EK3klZBI9sjh1j65Jx"
       },
@@ -4022,7 +4044,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 191826,
       "name": "Girl in the Mirror",
       "url": "https://open.spotify.com/track/1y0TECYCFAJGMtZByaSviJ"
@@ -5742,6 +5764,32 @@
       "duration_ms": 268213,
       "name": "Intelligent Bad Bwoy",
       "url": "https://open.spotify.com/track/64xG7clESoqVxvxaqVkruy"
+    },
+    {
+      "album": {
+        "name": "Into The Night (feat. ZIN & \u9ed2\u7530\u5353\u4e5f)",
+        "url": "https://open.spotify.com/album/3r1jhjYj8DPOTlawfBTmVP"
+      },
+      "artists": [
+        {
+          "name": "Kei Owada",
+          "url": "https://open.spotify.com/artist/3uxdiisUeUl9eXJ9KfDy4C"
+        },
+        {
+          "name": "ZIN",
+          "url": "https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS"
+        },
+        {
+          "name": "Takuya Kuroda",
+          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287000,
+      "name": "Into The Night (feat. ZIN & \u9ed2\u7530\u5353\u4e5f)",
+      "url": "https://open.spotify.com/track/3bD6V7HK99QSLLmZFlJP3w"
     },
     {
       "album": {
@@ -8154,7 +8202,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 227122,
       "name": "nestling",
       "url": "https://open.spotify.com/track/2eXkWpzzJVQ57l6DOQec7y"
@@ -9796,6 +9844,28 @@
       "duration_ms": 206017,
       "name": "resist",
       "url": "https://open.spotify.com/track/6khuTEUHWdsmBP0mq4OPUK"
+    },
+    {
+      "album": {
+        "name": "Chillin THAILAND",
+        "url": "https://open.spotify.com/album/76aeQ3TfgndxXY3oT4rmUh"
+      },
+      "artists": [
+        {
+          "name": "Kidella",
+          "url": "https://open.spotify.com/artist/3eCZ7jkNialvGc9YlHqWnE"
+        },
+        {
+          "name": "ARTRILLA",
+          "url": "https://open.spotify.com/artist/4WhRuNkczfkiEL2DqPQ9nm"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234125,
+      "name": "Rich and Famous",
+      "url": "https://open.spotify.com/track/009ynJN5ikFFNalJZz4vhT"
     },
     {
       "album": {
@@ -17976,7 +18046,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 209837,
       "name": "\u982c\u306b\u3072\u3068\u53e3",
       "url": "https://open.spotify.com/track/6YEzgjuFl1bmtVUZ04Ozlr"

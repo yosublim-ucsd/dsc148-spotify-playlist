@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-2,109 songs - 5 day 22 hr 16 min
+2,110 songs - 5 day 22 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,7 +373,8 @@
 | [Casbah](https://open.spotify.com/track/262YRlj3R609tpe8uXeo7Z) | [Ahmed Malek](https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB) | [El Fen / Casbah](https://open.spotify.com/album/4FyMIn7x3MvXhS77CU8gOs) | 3:25 | 2022-10-31 |  |
 | [Casbah](https://open.spotify.com/track/6dGcvQyPys3RVB7mE9Tmfk) | [Ahmed Malek](https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Part 2\) \(Habibi Funk 015\)](https://open.spotify.com/album/2QTAwOmV0lj1S1zGTuipFg) | 3:25 | 2022-07-12 | 2022-11-21 |
 | [Cascabel](https://open.spotify.com/track/4P6cCHIky1uKUNjkyr9d0V) | [La Chamba](https://open.spotify.com/artist/0HDNMO4nFZR6IGwqLdBneh) | [Somos](https://open.spotify.com/album/4MoPXiOJYb32vO1JhKBOvw) | 3:29 | 2022-06-09 |  |
-| [Cayetano](https://open.spotify.com/track/7A2oCgCKo2UiQ8ggGsm8GA) | [Antonio Morel](https://open.spotify.com/artist/1wP1FUeZ1k12MrEnYlmugi) | [Dominican Republic Merengue 1949\-1962: Haiti, Cuba, Virgin Islands, Bahamas, New York](https://open.spotify.com/album/2uhU0clRn8qZ2nc2AJ7Ysq) | 2:48 | 2022-06-09 |  |
+| [Cayetano](https://open.spotify.com/track/7A2oCgCKo2UiQ8ggGsm8GA) | [Antonio Morel](https://open.spotify.com/artist/1wP1FUeZ1k12MrEnYlmugi) | [Dominican Republic Merengue 1949\-1962: Haiti, Cuba, Virgin Islands, Bahamas, New York](https://open.spotify.com/album/2uhU0clRn8qZ2nc2AJ7Ysq) | 2:48 | 2022-06-09 | 2023-08-11 |
+| [Cayetano](https://open.spotify.com/track/1BFaDSpomuQfAGhhIn6Oaj) | [Antonio Morel Y Su Orquesta](https://open.spotify.com/artist/7FEKIGHt8kdHx8WjSBJkWj), [Antonio Morel](https://open.spotify.com/artist/1wP1FUeZ1k12MrEnYlmugi) | [Baila Merengue!](https://open.spotify.com/album/4YQhygJml4jAPJr46Nb3I5) | 2:48 | 2023-06-20 |  |
 | [Caçada](https://open.spotify.com/track/6Im08Kf52WrL9bhOZD26xe) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [A Arte De Chico Buarque](https://open.spotify.com/album/6buA4UqZTeUKUG2xRAlOcC) | 2:59 | 2022-06-09 |  |
 | [Ceddo End Title](https://open.spotify.com/track/4adSxPWR2W3AyBnszVHX0G) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [World Psychedelic Classics: Love's A Real Thing](https://open.spotify.com/album/0asepq8bUj1HDuIvLO1Pjz) | 5:09 | 2022-07-12 | 2022-07-29 |
 | [Ceddo End Title](https://open.spotify.com/track/5d00kR2kWPxc1rnKsGh32S) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [World Psychedelic Classics 3: Love's a Real Thing](https://open.spotify.com/album/507y3UUuDaYdeBaQGhqRW6) | 5:09 | 2022-06-09 |  |

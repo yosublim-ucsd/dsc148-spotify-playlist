@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring PLATANOS\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,640 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,676 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 40 | [Temo Todo](https://open.spotify.com/track/5P2MKs2Bm9qw0ub4K7vw6B) | [Los Daddy Issues](https://open.spotify.com/artist/144F3Wur2jXwIqdIwRJKws) | [Temo Todo](https://open.spotify.com/album/20NRKS2DbWMrss8AdTT1NW) | 3:17 |
 | 41 | [Mitad](https://open.spotify.com/track/3NbTN1nYuRe9oJ8AjZGlhG) | [xHEIDIx](https://open.spotify.com/artist/5cZ3ADw8t6lZQSyBXmFe4j) | [xCYBERL0VEx](https://open.spotify.com/album/6DZNTWOYKFz5cEYVMR2BsQ) | 2:38 |
 | 42 | [Tu Calor](https://open.spotify.com/track/7e2qzW5a7WyUlOCoGBjGBj) | [Simon Savi](https://open.spotify.com/artist/1JNrUhhfADUblA8VSbWCl0) | [Tu Calor](https://open.spotify.com/album/5ZfgnIJgOp07g2uy8jTkUY) | 2:27 |
-| 43 | [Algún Día](https://open.spotify.com/track/3dFs0Q4fIVI8Xg4s7g3dRx) | [Sepia Brown](https://open.spotify.com/artist/1M8BeEJhZIq4m5G4vaXs0K) | [Algún Día](https://open.spotify.com/album/4Zw4jjmbIHKVix13PV6VhE) | 2:45 |
-| 44 | [Aurora Boreal](https://open.spotify.com/track/7wmsteFYFc8nXqtc0H6sPG) | [uPSEt](https://open.spotify.com/artist/2xGh1v4U7auVlcWYewwHlI) | [Aurora Boreal](https://open.spotify.com/album/0XmcoS3AURx5gQQpOXdPkN) | 3:03 |
-| 45 | [Me Consumo](https://open.spotify.com/track/7nCC23YdqpqIoJrLQslGMt) | [Despertar Después Del Mediodía](https://open.spotify.com/artist/7A1hjscGBGMWOfVcmCG0sZ) | [Me Consumo](https://open.spotify.com/album/03cMrNhkVToX2jyvacFBQS) | 3:55 |
-| 46 | [Black Mountain](https://open.spotify.com/track/3SiWyC1WB9mG93xFcmodf4) | [Brian Lopez](https://open.spotify.com/artist/76DfVm5okud2I5Az7YWvnV) | [TIDAL](https://open.spotify.com/album/5xrDyLwcef9mwvFRPsBCEL) | 3:33 |
-| 47 | [Introvertida](https://open.spotify.com/track/3BvvWXLMsFfgfT6umRv56H) | [Tomás Lauría](https://open.spotify.com/artist/0neHEgLsKKdPl2izN9qVzY) | [Introvertida](https://open.spotify.com/album/2HrS9hl4wGwTwsVw5f3PYm) | 2:24 |
-| 48 | [Me Tienes Mal](https://open.spotify.com/track/7MPyjCXS1FOA8QeRpPix6a) | [ZERO](https://open.spotify.com/artist/66l0RF4YIJeNNTZzqdP6ew) | [Me Tienes Mal](https://open.spotify.com/album/0zMdWrU4tO0tAv2iJ0ix6b) | 2:49 |
+| 43 | [Me Tienes Mal](https://open.spotify.com/track/7MPyjCXS1FOA8QeRpPix6a) | [ZERO](https://open.spotify.com/artist/66l0RF4YIJeNNTZzqdP6ew) | [Me Tienes Mal](https://open.spotify.com/album/0zMdWrU4tO0tAv2iJ0ix6b) | 2:49 |
+| 44 | [Algún Día](https://open.spotify.com/track/3dFs0Q4fIVI8Xg4s7g3dRx) | [Sepia Brown](https://open.spotify.com/artist/1M8BeEJhZIq4m5G4vaXs0K) | [Algún Día](https://open.spotify.com/album/4Zw4jjmbIHKVix13PV6VhE) | 2:45 |
+| 45 | [Aurora Boreal](https://open.spotify.com/track/7wmsteFYFc8nXqtc0H6sPG) | [uPSEt](https://open.spotify.com/artist/2xGh1v4U7auVlcWYewwHlI) | [Aurora Boreal](https://open.spotify.com/album/0XmcoS3AURx5gQQpOXdPkN) | 3:03 |
+| 46 | [Me Consumo](https://open.spotify.com/track/7nCC23YdqpqIoJrLQslGMt) | [Despertar Después Del Mediodía](https://open.spotify.com/artist/7A1hjscGBGMWOfVcmCG0sZ) | [Me Consumo](https://open.spotify.com/album/03cMrNhkVToX2jyvacFBQS) | 3:55 |
+| 47 | [Black Mountain](https://open.spotify.com/track/3SiWyC1WB9mG93xFcmodf4) | [Brian Lopez](https://open.spotify.com/artist/76DfVm5okud2I5Az7YWvnV) | [TIDAL](https://open.spotify.com/album/5xrDyLwcef9mwvFRPsBCEL) | 3:33 |
+| 48 | [Introvertida](https://open.spotify.com/track/3BvvWXLMsFfgfT6umRv56H) | [Tomás Lauría](https://open.spotify.com/artist/0neHEgLsKKdPl2izN9qVzY) | [Introvertida](https://open.spotify.com/album/2HrS9hl4wGwTwsVw5f3PYm) | 2:24 |
 | 49 | [Roto](https://open.spotify.com/track/2j823TVBnXyLGSQIRcbEME) | [underone mx](https://open.spotify.com/artist/7CZr4o7JvNgDf56kVLbTUv) | [Roto](https://open.spotify.com/album/4KH36DomBkrUJC3MLHkZpw) | 3:39 |
 | 50 | [Limerencia](https://open.spotify.com/track/08JPJmE5uITFazKzf6SwMn) | [URBAN GREEN](https://open.spotify.com/artist/5yLN88Ane1HFWAMuCUODRW) | [Limerencia](https://open.spotify.com/album/6nS10e4Oe3gzpgPS0Ivewf) | 2:25 |
 
-Snapshot ID: `MCxmYTYyZDQ1ZDk3NDgxZmM2MjY3MjNkZjUwOGM5ZGU3NjM2NWM3ZmE1`
+Snapshot ID: `MCw4ZTJhMDE3ZDhmOWFhOWZiZjQ0N2VkNWExNjQ1OTc1NzU5OWVjMzZl`

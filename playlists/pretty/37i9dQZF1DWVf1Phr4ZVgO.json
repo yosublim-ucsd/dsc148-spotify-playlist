@@ -1,12 +1,12 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 1011282,
+  "num_followers": 1011629,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTdiNTgwYjc0NTlkOGYxM2ZiZDViYWE5ZThkNTAyYzJmZGZjMmYy",
+  "snapshot_id": "MCxkYzJmMTIyMGM3M2ZkOGM5MmI0NzQyNWNmZjVlNWRjYzgxYTQzNjE0",
   "tracks": [
     {
       "added_at": "2023-08-08 14:55:18",
@@ -355,6 +355,22 @@
     {
       "added_at": "2023-08-08 14:55:18",
       "album": {
+        "name": "Twentysomething",
+        "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 309693,
+      "name": "What A Difference A Day Made",
+      "url": "https://open.spotify.com/track/5PbSvsljhgxijSYV5cG5xU"
+    },
+    {
+      "added_at": "2023-08-08 14:55:18",
+      "album": {
         "name": "Duets II",
         "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 176013,
       "name": "One for My Baby (And One More for the Road)",
       "url": "https://open.spotify.com/track/1c4oqyJGptLz2Yt7LLheX8"
-    },
-    {
-      "added_at": "2023-08-08 14:55:18",
-      "album": {
-        "name": "Twentysomething",
-        "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 309693,
-      "name": "What A Difference A Day Made",
-      "url": "https://open.spotify.com/track/5PbSvsljhgxijSYV5cG5xU"
     },
     {
       "added_at": "2023-08-08 14:55:18",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-08-08 14:55:18",
       "album": {
-        "name": "I Wanna Be Around",
-        "url": "https://open.spotify.com/album/11KbbI91LeZUkXALWALytD"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 134893,
-      "name": "The Good Life",
-      "url": "https://open.spotify.com/track/4MVvSNPOUd2z70vkkNCbLr"
-    },
-    {
-      "added_at": "2023-08-08 14:55:18",
-      "album": {
         "name": "Dean Martin: The Capitol Recordings, Vol. 5 (1954)",
         "url": "https://open.spotify.com/album/2grxIQsDZK4gZxy0xqpSwM"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 165133,
       "name": "Sway (Quien Sera)",
       "url": "https://open.spotify.com/track/3QyPsavxL681NX7SPVGd5T"
+    },
+    {
+      "added_at": "2023-08-08 14:55:18",
+      "album": {
+        "name": "I Wanna Be Around",
+        "url": "https://open.spotify.com/album/11KbbI91LeZUkXALWALytD"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 134893,
+      "name": "The Good Life",
+      "url": "https://open.spotify.com/track/4MVvSNPOUd2z70vkkNCbLr"
     },
     {
       "added_at": "2023-08-08 14:55:18",
@@ -599,22 +599,18 @@
     {
       "added_at": "2023-08-08 14:55:18",
       "album": {
-        "name": "Love Is Here To Stay",
-        "url": "https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t"
+        "name": "This Time I'm Swingin'",
+        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
       },
       "artists": [
         {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 170186,
-      "name": "'S Wonderful",
-      "url": "https://open.spotify.com/track/4tqGZzY8YmngfaTqUAHENj"
+      "duration_ms": 221413,
+      "name": "On The Street Where You Live - 1998 Remaster",
+      "url": "https://open.spotify.com/track/6qMMQzYTKabamnMPlCmfxb"
     },
     {
       "added_at": "2023-08-08 14:55:18",
@@ -635,18 +631,22 @@
     {
       "added_at": "2023-08-08 14:55:18",
       "album": {
-        "name": "This Time I'm Swingin'",
-        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
+        "name": "Love Is Here To Stay",
+        "url": "https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t"
       },
       "artists": [
         {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
         }
       ],
-      "duration_ms": 221413,
-      "name": "On The Street Where You Live - 1998 Remaster",
-      "url": "https://open.spotify.com/track/6qMMQzYTKabamnMPlCmfxb"
+      "duration_ms": 170186,
+      "name": "'S Wonderful",
+      "url": "https://open.spotify.com/track/4tqGZzY8YmngfaTqUAHENj"
     },
     {
       "added_at": "2023-08-08 14:55:18",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-08-08 14:55:18",
       "album": {
-        "name": "When Harry Met Sally... Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 147066,
-      "name": "I Could Write a Book",
-      "url": "https://open.spotify.com/track/2zSnnXvex1yMcPUn4mg27H"
-    },
-    {
-      "added_at": "2023-08-08 14:55:18",
-      "album": {
         "name": "The Complete Dinah Washington On Mercury Vol. 2 (1950-1952)",
         "url": "https://open.spotify.com/album/2ijZDafBX3xtZSGUkxccZ6"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 182573,
       "name": "Mad About The Boy",
       "url": "https://open.spotify.com/track/1c7ELD4W6VyoKTglc4zzUH"
+    },
+    {
+      "added_at": "2023-08-08 14:55:18",
+      "album": {
+        "name": "When Harry Met Sally... Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 147066,
+      "name": "I Could Write a Book",
+      "url": "https://open.spotify.com/track/2zSnnXvex1yMcPUn4mg27H"
     },
     {
       "added_at": "2023-08-08 14:55:18",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-08-08 14:55:18",
       "album": {
-        "name": "Amore",
-        "url": "https://open.spotify.com/album/4u2mdmf6P2cTE5M2rhbovR"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 195626,
-      "name": "Dream A Little Dream Of Me - 1998 Remaster",
-      "url": "https://open.spotify.com/track/50zTR9gR9NGol94nv0rZXf"
-    },
-    {
-      "added_at": "2023-08-08 14:55:18",
-      "album": {
         "name": "Love, Andy",
         "url": "https://open.spotify.com/album/3KtDJorsycOFXqwQGTzwxe"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 193386,
       "name": "Can't Take My Eyes Off You",
       "url": "https://open.spotify.com/track/1lLRi0LvCwKaKONxzoeJfj"
+    },
+    {
+      "added_at": "2023-08-08 14:55:18",
+      "album": {
+        "name": "Amore",
+        "url": "https://open.spotify.com/album/4u2mdmf6P2cTE5M2rhbovR"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 195626,
+      "name": "Dream A Little Dream Of Me - 1998 Remaster",
+      "url": "https://open.spotify.com/track/50zTR9gR9NGol94nv0rZXf"
     },
     {
       "added_at": "2023-08-08 14:55:18",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-08-08 14:55:18",
       "album": {
-        "name": "The Reprise Years",
-        "url": "https://open.spotify.com/album/6anBFHbt3PaNwDKWbsVkzG"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 185186,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/3Pi8eMeDLEUMH729CyQMP9"
-    },
-    {
-      "added_at": "2023-08-08 14:55:18",
-      "album": {
         "name": "Moonlight Serenade",
         "url": "https://open.spotify.com/album/6fjwirZ5kSFrSBpYter5zO"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 229986,
       "name": "All The Things You Are",
       "url": "https://open.spotify.com/track/1QQDUag0GtYAvifSavCoUy"
+    },
+    {
+      "added_at": "2023-08-08 14:55:18",
+      "album": {
+        "name": "The Reprise Years",
+        "url": "https://open.spotify.com/album/6anBFHbt3PaNwDKWbsVkzG"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 185186,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/3Pi8eMeDLEUMH729CyQMP9"
     },
     {
       "added_at": "2023-08-08 14:55:18",

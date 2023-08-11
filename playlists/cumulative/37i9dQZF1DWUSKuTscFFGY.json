@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s pop. Photo : Doja Cat",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s pop. Photo : Tove Lo",
   "name": "Nouveaut\u00e9s Pop",
   "tracks": [
     {
@@ -90,6 +90,24 @@
       "duration_ms": 200911,
       "name": "Antichrist",
       "url": "https://open.spotify.com/track/2mvNAfnzB2gKVmLmNusrHR"
+    },
+    {
+      "album": {
+        "name": "bad idea right?",
+        "url": "https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184783,
+      "name": "bad idea right?",
+      "url": "https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a"
     },
     {
       "album": {
@@ -241,6 +259,24 @@
     },
     {
       "album": {
+        "name": "DELIRIUM",
+        "url": "https://open.spotify.com/album/5PrrhEOjQwqY1VsVuG4vQZ"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167227,
+      "name": "DELIRIUM",
+      "url": "https://open.spotify.com/track/1UWf4dn9d17amlGBLY4U1I"
+    },
+    {
+      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/1KT4zt8tTkUTQlUWJKLjQW"
       },
@@ -296,6 +332,24 @@
       "duration_ms": 190633,
       "name": "Don't Forget Me",
       "url": "https://open.spotify.com/track/7173t6WyjOaVya4lPFY00a"
+    },
+    {
+      "album": {
+        "name": "Elevator Eyes",
+        "url": "https://open.spotify.com/album/3EV8D8ljJf9bxlWCbpzmTJ"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178352,
+      "name": "Elevator Eyes",
+      "url": "https://open.spotify.com/track/1xaI8BC30DDf9RDQSWyonb"
     },
     {
       "album": {
@@ -390,7 +444,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 175090,
       "name": "Fantasy (with GAYLE & Em Beihold)",
       "url": "https://open.spotify.com/track/5Ldhogrc9RWAjXUQ3tXuUD"
@@ -433,6 +487,28 @@
     },
     {
       "album": {
+        "name": "Give You Love (feat. Jason Derulo)",
+        "url": "https://open.spotify.com/album/19F2dOW0JWTAuK941khqsA"
+      },
+      "artists": [
+        {
+          "name": "Jessica Mauboy",
+          "url": "https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174125,
+      "name": "Give You Love (feat. Jason Derulo)",
+      "url": "https://open.spotify.com/track/672pbi6q4UuyJYIuThNsq3"
+    },
+    {
+      "album": {
         "name": "GO GO GO",
         "url": "https://open.spotify.com/album/0AD4xVslP0qraEZQKQ5O3S"
       },
@@ -469,6 +545,24 @@
     },
     {
       "album": {
+        "name": "Happy Again",
+        "url": "https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154125,
+      "name": "Happy Again",
+      "url": "https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe"
+    },
+    {
+      "album": {
         "name": "Broken By Desire To Be Heavenly Sent",
         "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
       },
@@ -480,7 +574,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 230533,
       "name": "Haven't You Ever Been In Love Before?",
       "url": "https://open.spotify.com/track/7136zBuda3024ZQUTBB1Vg"
@@ -524,7 +618,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 149108,
       "name": "Home To Another One",
       "url": "https://open.spotify.com/track/7culXP38P58h83PXwLQqyg"
@@ -560,10 +654,28 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 190902,
       "name": "I like u",
       "url": "https://open.spotify.com/track/7H6TvLL3dyoY2XtrUKp3wK"
+    },
+    {
+      "album": {
+        "name": "i wish you cheated",
+        "url": "https://open.spotify.com/album/1tf89mHJkN2HVQ4xmdUUqy"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190626,
+      "name": "i wish you cheated",
+      "url": "https://open.spotify.com/track/6ErCfbbI9BG4bK2djjKUvP"
     },
     {
       "album": {
@@ -867,6 +979,24 @@
     },
     {
       "album": {
+        "name": "Next To You \u2013 A COLORS SHOW",
+        "url": "https://open.spotify.com/album/6ImIg9HC8qmRgax2535kO1"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204001,
+      "name": "Next To You \u2013 A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6gkdUB0KajrOiiXkGe2u22"
+    },
+    {
+      "album": {
         "name": "The Fool",
         "url": "https://open.spotify.com/album/7arCig498ft2Kc7pJJFHxw"
       },
@@ -878,10 +1008,28 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 249920,
       "name": "Night Heights",
       "url": "https://open.spotify.com/track/7fPM25Phrs4uJhHyuBbVbU"
+    },
+    {
+      "album": {
+        "name": "No Matter What",
+        "url": "https://open.spotify.com/album/456nxcaYCzETLiEnfwvMID"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182813,
+      "name": "No Matter What",
+      "url": "https://open.spotify.com/track/3LUai3qN5tzG0HpM72IHCy"
     },
     {
       "album": {
@@ -1118,7 +1266,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 142520,
       "name": "The California shine",
       "url": "https://open.spotify.com/track/1lGdoS9AQXZBya8PzOLen9"
@@ -1154,7 +1302,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 191207,
       "name": "The Show",
       "url": "https://open.spotify.com/track/2PrxwMxTSEk4oHbdY8majs"
@@ -1288,7 +1436,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 169645,
       "name": "When Love Sucks (feat. Dido)",
       "url": "https://open.spotify.com/track/59vMO9rkUuefwLMKzohNo5"

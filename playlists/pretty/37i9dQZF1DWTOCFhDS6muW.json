@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto es punta!",
-  "num_followers": 20549,
+  "num_followers": 20568,
   "original_name": "Punta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmMyNTYwODkxZTNiMGRlN2QwMDY5ZTYyZDYyYTUxNzk5OTVhMmEw",
+  "snapshot_id": "MCxiYTY1NTVkNTcxOGVjMDZlZjk1ZTUzYzFhMGIyNDY0ZTgxMmEwMzFj",
   "tracks": [
     {
       "added_at": "2020-05-26 15:53:13",
@@ -423,22 +423,6 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Encarguitos Del Caribe",
-        "url": "https://open.spotify.com/album/2ma5OpIYAH0fZm3H23krvR"
-      },
-      "artists": [
-        {
-          "name": "Guillermo Anderson",
-          "url": "https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy"
-        }
-      ],
-      "duration_ms": 223973,
-      "name": "El Encarguito",
-      "url": "https://open.spotify.com/track/4HVA1hDrurIxBFUShrL4if"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
         "name": "Puros \u00c9xitos",
         "url": "https://open.spotify.com/album/7iI8ptAWVpe9WWhoIlHOZ7"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 192954,
       "name": "La Parranda (Sei Sei Bei)",
       "url": "https://open.spotify.com/track/3llzQNADFAhTK81sdx2rqR"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
+        "name": "Encarguitos Del Caribe",
+        "url": "https://open.spotify.com/album/2ma5OpIYAH0fZm3H23krvR"
+      },
+      "artists": [
+        {
+          "name": "Guillermo Anderson",
+          "url": "https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy"
+        }
+      ],
+      "duration_ms": 223973,
+      "name": "El Encarguito",
+      "url": "https://open.spotify.com/track/4HVA1hDrurIxBFUShrL4if"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -527,6 +527,26 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
+        "name": "Puntas Garifunas Con Cache",
+        "url": "https://open.spotify.com/album/7EYnYfNJDRBLWaos0NGw8l"
+      },
+      "artists": [
+        {
+          "name": "Kazzabe",
+          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
+        },
+        {
+          "name": "MC Productions",
+          "url": "https://open.spotify.com/artist/00d2syfoHzArTNnxKOMav4"
+        }
+      ],
+      "duration_ms": 249666,
+      "name": "Punta Raton Remix",
+      "url": "https://open.spotify.com/track/23rClcdGCsb1hR9ijBPnS1"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
         "name": "L\u00e1ndini",
         "url": "https://open.spotify.com/album/0abBxaGEwuTKkBjTVAysJs"
       },
@@ -539,6 +559,22 @@
       "duration_ms": 205072,
       "name": "Nafagua",
       "url": "https://open.spotify.com/track/5pbizIzZ5pjYbObsSdixW4"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
+        "name": "Hablo Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh"
+      },
+      "artists": [
+        {
+          "name": "Polache",
+          "url": "https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY"
+        }
+      ],
+      "duration_ms": 166557,
+      "name": "Mira Honduras",
+      "url": "https://open.spotify.com/track/0FbnL9EfyZFhJGorVG7GQg"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -563,22 +599,6 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Hablo Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh"
-      },
-      "artists": [
-        {
-          "name": "Polache",
-          "url": "https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY"
-        }
-      ],
-      "duration_ms": 166557,
-      "name": "Mira Honduras",
-      "url": "https://open.spotify.com/track/0FbnL9EfyZFhJGorVG7GQg"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
         "name": "La Ametralladora",
         "url": "https://open.spotify.com/album/5yPuWd7KMAHHLBQREkz4Jv"
       },
@@ -591,26 +611,6 @@
       "duration_ms": 154476,
       "name": "La Ametralladora",
       "url": "https://open.spotify.com/track/5KdTR3wMMQqX37mK0Vzqiz"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
-        "name": "Puntas Garifunas Con Cache",
-        "url": "https://open.spotify.com/album/7EYnYfNJDRBLWaos0NGw8l"
-      },
-      "artists": [
-        {
-          "name": "Kazzabe",
-          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
-        },
-        {
-          "name": "MC Productions",
-          "url": "https://open.spotify.com/artist/00d2syfoHzArTNnxKOMav4"
-        }
-      ],
-      "duration_ms": 249666,
-      "name": "Punta Raton Remix",
-      "url": "https://open.spotify.com/track/23rClcdGCsb1hR9ijBPnS1"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -663,22 +663,22 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Mete Y Saca",
-        "url": "https://open.spotify.com/album/5UPMmxiqYZOmZoy4yAtFXm"
+        "name": "Puros \u00c9xitos",
+        "url": "https://open.spotify.com/album/7iI8ptAWVpe9WWhoIlHOZ7"
       },
       "artists": [
         {
-          "name": "Punta Cartel",
-          "url": "https://open.spotify.com/artist/0WJay6Qc1qWjeppQf2TvyM"
+          "name": "Kazzabe",
+          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
         },
         {
-          "name": "Nuru Ellis",
-          "url": "https://open.spotify.com/artist/294f384g9SS0tGK9OFn4FN"
+          "name": "MC Productions",
+          "url": "https://open.spotify.com/artist/00d2syfoHzArTNnxKOMav4"
         }
       ],
-      "duration_ms": 371135,
-      "name": "Cartel Mix",
-      "url": "https://open.spotify.com/track/6U0LsoVro7tsn4aX00YZhT"
+      "duration_ms": 160160,
+      "name": "Balabaa",
+      "url": "https://open.spotify.com/track/2R5RYvwBKgNubDJf6gQ59S"
     }
   ],
   "unique_name": "Punta",

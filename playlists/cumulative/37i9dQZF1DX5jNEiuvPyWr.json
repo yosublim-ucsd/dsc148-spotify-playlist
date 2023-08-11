@@ -673,6 +673,24 @@
     },
     {
       "album": {
+        "name": "Bonjour quand m\u00eame",
+        "url": "https://open.spotify.com/album/1pLz5qmhYnHt4kUkAW0zfr"
+      },
+      "artists": [
+        {
+          "name": "Tsune",
+          "url": "https://open.spotify.com/artist/3xQSe5wUqOUFcF5GWlziQb"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210178,
+      "name": "Bonjour quand m\u00eame",
+      "url": "https://open.spotify.com/track/1ozKwcj59fq7PYjyi3NWbe"
+    },
+    {
+      "album": {
         "name": "BORDEL",
         "url": "https://open.spotify.com/album/1OYNMkOWvo55wG2Pl39NLh"
       },
@@ -4266,7 +4284,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 146440,
       "name": "Solitaire",
       "url": "https://open.spotify.com/track/4yYpZTbJPa6Uoct89yXdKf"

@@ -4,7 +4,7 @@
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-275 songs - 19 hr 20 min
+276 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [I Wish You Love](https://open.spotify.com/track/5Uc0WlK2e5B5NYvS72fCHp) | [Ann Sally](https://open.spotify.com/artist/1g9zG323vBvafWMplgUEQx) | [Voices Of Love](https://open.spotify.com/album/3vyGVRUQaAS4g2ztBZX9t9) | 4:18 | 2023-01-26 |  |
 | [if you just smile\(もし君が微笑んだら\)](https://open.spotify.com/track/0T68jDr8wpTUtpWoxjX1ue) | [Tavito Nanao](https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a) | [Long Voyage](https://open.spotify.com/album/4VluotpD3vrZglWd2v3qSi) | 6:11 | 2022-10-20 | 2022-11-09 |
 | [intersolid](https://open.spotify.com/track/21gAd3WVNMqP0mSaM04CdZ) | [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [intersolid](https://open.spotify.com/album/31BTiDOOBfmQldZdl6vQgz) | 3:54 | 2022-11-08 | 2023-04-19 |
+| [Into The Night \(feat\. ZIN & 黒田卓也\)](https://open.spotify.com/track/3bD6V7HK99QSLLmZFlJP3w) | [Kei Owada](https://open.spotify.com/artist/3uxdiisUeUl9eXJ9KfDy4C), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [Into The Night \(feat\. ZIN & 黒田卓也\)](https://open.spotify.com/album/3r1jhjYj8DPOTlawfBTmVP) | 4:47 | 2023-08-10 |  |
 | [It's OK](https://open.spotify.com/track/2cLSA6zzwBAkqncRpS3q5A) | [Wuinguin](https://open.spotify.com/artist/00N3aCj3lIPQW8hcPNFjRO) | [It's OK](https://open.spotify.com/album/5bwtyDdH57JJbkD3e8W6eJ) | 4:35 | 2023-06-20 | 2023-07-19 |
 | [Kanashii Uta ga Aru Riyuu \- From THE FIRST TAKE](https://open.spotify.com/track/4nXxL11es8aPtbM04QSzKg) | [Ai Higuchi](https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu) | [Kanashii Uta ga Aru Riyuu \- From THE FIRST TAKE](https://open.spotify.com/album/24CQHbc6MxX248Mo92qqpO) | 5:57 | 2023-01-03 | 2023-05-31 |
 | [Karakai](https://open.spotify.com/track/1DFQpMVMM4esSg02Zj0Gx6) | [Sweet William](https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ), [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Karakai](https://open.spotify.com/album/1Dy0En842kaMayp3M0ZD4w) | 4:02 | 2022-10-20 |  |
@@ -251,7 +252,7 @@
 | [朝日のぬくもり](https://open.spotify.com/track/0945XJg88Eu5VUu7Lchpig) | [江﨑文武](https://open.spotify.com/artist/3AAwWUnp6ZdLgfin1hQYd2), [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF), [木原健児](https://open.spotify.com/artist/6Q1QTDtWjKSeeZ0IqpVdQJ) | [はじまりの夜](https://open.spotify.com/album/2a4fbJxLjZzfTlSloBMJxL) | 4:10 | 2023-05-30 | 2023-07-19 |
 | [此方へ](https://open.spotify.com/track/1B3NvWfqicpcSfN1973izy) | [mol\-74](https://open.spotify.com/artist/7sVShwPweG5PNLgVPdWlbx) | [きおくのすみか](https://open.spotify.com/album/4Z4th95ji6NrTFwdImP1xv) | 3:19 | 2023-07-18 |  |
 | [沈む春](https://open.spotify.com/track/3yfNB07uA5h5pvDp54T8Xm) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [沈む春](https://open.spotify.com/album/6WeLC2BPHsW74aLlN3nixv) | 3:50 | 2023-03-12 | 2023-03-15 |
-| [海にいる](https://open.spotify.com/track/7oDgdiATvjIjqVS6ak2fJz) | [ぎがもえか](https://open.spotify.com/artist/0cT2SUuJQREIkdEyTgDkl2) | [海にいる](https://open.spotify.com/album/3GErNAcHZcwXC6r1fdSSKH) | 3:53 | 2023-07-25 |  |
+| [海にいる](https://open.spotify.com/track/7oDgdiATvjIjqVS6ak2fJz) | [ぎがもえか](https://open.spotify.com/artist/0cT2SUuJQREIkdEyTgDkl2) | [海にいる](https://open.spotify.com/album/3GErNAcHZcwXC6r1fdSSKH) | 3:53 | 2023-07-25 | 2023-08-11 |
 | [深呼吸](https://open.spotify.com/track/67cJ60aXMxPR2e3cjplRAb) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [SHINJITERU](https://open.spotify.com/album/17wK4RXzdKxK13VIyOyQHU) | 3:33 | 2022-10-20 |  |
 | [溶ける](https://open.spotify.com/track/1Q5vLcNPUfuztkCJZM9xy1) | [上兼堅](https://open.spotify.com/artist/63Ie3RIrUJAp3dpcqvhKfb) | [YouSpica Discovered Artists Compilation 202305](https://open.spotify.com/album/7z1QqujIPcHPwbPJw76vLe) | 2:31 | 2023-05-30 | 2023-06-21 |
 | [灯火](https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [灯火](https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM) | 3:39 | 2022-10-20 |  |

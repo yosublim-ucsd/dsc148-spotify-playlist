@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > aquela lá q viralizou na net
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,751 likes - 64 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,218 likes - 64 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Vem Morenin](https://open.spotify.com/track/58KvJ4I2QMhLcRBnkBam2M) | [Neno No beat](https://open.spotify.com/artist/6wPdYcqH47pTiPqsN7SImJ), [MC Rica](https://open.spotify.com/artist/60ArvoSDGNI2WPhezAqz6u) | [Pivete do Arrocha Funk](https://open.spotify.com/album/5k6n5aJv2VjVKXYtpXfWZ9) | 2:39 |
-| 2 | [Eu Vou Cair na Noite](https://open.spotify.com/track/7z2hqtAyf6FR39ZZmVkvcO) | [DJ RENAN DA BL](https://open.spotify.com/artist/13VVAjO14WSrctkGL7U3xc), [Dj Jl Do Tp](https://open.spotify.com/artist/4mBT8Rbk2WUxiVxdRpX5hW), [Mc Pretchako](https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv), [Mc Menor Thalis](https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn) | [Eu Vou Cair na Noite](https://open.spotify.com/album/1sCX9he2eSwF1OcE3wWwOW) | 2:05 |
+| 2 | [Eu Vou Cair na Noite](https://open.spotify.com/track/7z2hqtAyf6FR39ZZmVkvcO) | [DJ RENAN DA BL](https://open.spotify.com/artist/13VVAjO14WSrctkGL7U3xc), [Mc Menor Thalis](https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn), [Mc Pretchako](https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv), [Dj Jl Do Tp](https://open.spotify.com/artist/4mBT8Rbk2WUxiVxdRpX5hW) | [Eu Vou Cair na Noite](https://open.spotify.com/album/1sCX9he2eSwF1OcE3wWwOW) | 2:05 |
 | 3 | [Halls na Língua \- Remix](https://open.spotify.com/track/5uTVtc2Oc93nBVqPPI8Ijj) | [GORDÃO DO PC](https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS), [DJ LUCAS DE PAULA](https://open.spotify.com/artist/48H2LKju3qH1hMJhhnhYvY), [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Halls na Língua](https://open.spotify.com/album/0FiyzguzViQQbVwi9QcgLl) | 2:23 |
 | 4 | [Faz o Teu Nome](https://open.spotify.com/track/2SFc3dFgkPvADsqz84MYi6) | [Os Quebradeiras](https://open.spotify.com/artist/4ttjWi3eElnVE8qPjqhj9x), [DJ Zullu](https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE), [Stefan Baby](https://open.spotify.com/artist/0SmhJO6Nt4XdUaVwycMRn3) | [Faz o Teu Nome](https://open.spotify.com/album/5TW9EKpA3iQoRMy8JdlP5B) | 1:39 |
 | 5 | [Cheiro da Karolina](https://open.spotify.com/track/2M5rKoRbRzzVBSlkDN4MMh) | [Luiz Poderoso Chefão](https://open.spotify.com/artist/6LTXhD91f2rjmAq5f55sns) | [Cheiro da Karolina](https://open.spotify.com/album/4chZNnJM7cWC49zM5Zg0lI) | 2:57 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 63 | [Reverse](https://open.spotify.com/track/5TGkZGCUoV1zvFxQOIQM5O) | [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Reverse](https://open.spotify.com/album/4a4c1QDOCxkOB82wTaVxCJ) | 2:00 |
 | 64 | [Gostosinha é Ela](https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Gostosinha é Ela](https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ) | 2:18 |
 
-Snapshot ID: `MCxkYzU0Y2RjYzFlZmVmMThmZDQ2MGYyM2JlOTYxYjc4ZjY3M2VkOWJh`
+Snapshot ID: `MCw2OTcwMTQ5NDBlYjdkNzMzOGM2ZGU1MmNmMTA0MzM0Yzc5MzJkYTFj`

@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Hodari, Luedji Luna",
-  "num_followers": 282610,
+  "num_followers": 282619,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTU4ZWNlZGUwOWRkNzQxY2I4Y2Y2YjlmMTE5NTA0NDNjZGNhY2U0",
+  "snapshot_id": "MCxhNzM4MDU4MzFkMGRlMjI4Y2E3NGZiZWU3ZjY1NjkwM2UxNDBkMjEx",
   "tracks": [
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Me Diz Se Vem",
-        "url": "https://open.spotify.com/album/2bpBWh3uOTFcjEb5EcPINx"
-      },
-      "artists": [
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        }
-      ],
-      "duration_ms": 177612,
-      "name": "Me Diz Se Vem",
-      "url": "https://open.spotify.com/track/34nTmKkxQhgqqxoqJAMz9l"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
         "name": "Eu vim pra Somar",
         "url": "https://open.spotify.com/album/6x2rSX6jgdCmqhLUi6pVku"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 223448,
       "name": "Eu vim pra Somar",
       "url": "https://open.spotify.com/track/5CZXwIoZKIji8dNP0yy5L0"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "Me Diz Se Vem",
+        "url": "https://open.spotify.com/album/2bpBWh3uOTFcjEb5EcPINx"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "duration_ms": 177612,
+      "name": "Me Diz Se Vem",
+      "url": "https://open.spotify.com/track/34nTmKkxQhgqqxoqJAMz9l"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1191,6 +1191,46 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
+        "name": "Desconectar",
+        "url": "https://open.spotify.com/album/2C5zqpWHoMAxVmZXnfLg2o"
+      },
+      "artists": [
+        {
+          "name": "Gu",
+          "url": "https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS"
+        },
+        {
+          "name": "Bufal\u00f4",
+          "url": "https://open.spotify.com/artist/0wFcHlIKNWSBmSH8nBrpT0"
+        },
+        {
+          "name": "IVYO",
+          "url": "https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Desconectar",
+      "url": "https://open.spotify.com/track/5k7iqWlybTTsHlyy9FbdiA"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "Melhor Que Ontem",
+        "url": "https://open.spotify.com/album/6FMd26Sy35kd9boORkrOnT"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "duration_ms": 180750,
+      "name": "Melhor Que Ontem",
+      "url": "https://open.spotify.com/track/0TpDDNhAvukWiJL9SjEe9O"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
         "name": "Queria Te Ver",
         "url": "https://open.spotify.com/album/7cCWhB0Bl8mVYC89BYyWJ8"
       },
@@ -1211,22 +1251,6 @@
       "duration_ms": 189562,
       "name": "Queria Te Ver",
       "url": "https://open.spotify.com/track/5FLHmx1hk4KpuiuXMz4KJo"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
-        "name": "Melhor Que Ontem",
-        "url": "https://open.spotify.com/album/6FMd26Sy35kd9boORkrOnT"
-      },
-      "artists": [
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        }
-      ],
-      "duration_ms": 180750,
-      "name": "Melhor Que Ontem",
-      "url": "https://open.spotify.com/track/0TpDDNhAvukWiJL9SjEe9O"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1259,30 +1283,6 @@
       "duration_ms": 182933,
       "name": "CULPADO",
       "url": "https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
-        "name": "Desconectar",
-        "url": "https://open.spotify.com/album/2C5zqpWHoMAxVmZXnfLg2o"
-      },
-      "artists": [
-        {
-          "name": "Gu",
-          "url": "https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS"
-        },
-        {
-          "name": "Bufal\u00f4",
-          "url": "https://open.spotify.com/artist/0wFcHlIKNWSBmSH8nBrpT0"
-        },
-        {
-          "name": "IVYO",
-          "url": "https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Desconectar",
-      "url": "https://open.spotify.com/track/5k7iqWlybTTsHlyy9FbdiA"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1375,22 +1375,22 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/28tbU5pXLvIbUqtNme8Wuh"
+        "name": "Seu Z\u00e9",
+        "url": "https://open.spotify.com/album/7s3KnsNmFhgSyUxhfLcS3N"
       },
       "artists": [
         {
-          "name": "LK",
-          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
+          "name": "Gu",
+          "url": "https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS"
         },
         {
-          "name": "NOG",
-          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
+          "name": "IVYO",
+          "url": "https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa"
         }
       ],
-      "duration_ms": 174315,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/4u3oUk2kh8m5Mg08JUfDr1"
+      "duration_ms": 136430,
+      "name": "Seu Z\u00e9",
+      "url": "https://open.spotify.com/track/7uZm4WI4OqH25LFlNobiff"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1415,6 +1415,26 @@
       "duration_ms": 139200,
       "name": "Malandra Treinada",
       "url": "https://open.spotify.com/track/2sPKxr3t0kXHcVvHCfgxoV"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/28tbU5pXLvIbUqtNme8Wuh"
+      },
+      "artists": [
+        {
+          "name": "LK",
+          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
+        },
+        {
+          "name": "NOG",
+          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/4u3oUk2kh8m5Mg08JUfDr1"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1483,26 +1503,6 @@
       "duration_ms": 160967,
       "name": "Ponto de Brasa",
       "url": "https://open.spotify.com/track/6uMrqQArCIGXuvdp9J8ymE"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
-        "name": "Seu Z\u00e9",
-        "url": "https://open.spotify.com/album/7s3KnsNmFhgSyUxhfLcS3N"
-      },
-      "artists": [
-        {
-          "name": "Gu",
-          "url": "https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS"
-        },
-        {
-          "name": "IVYO",
-          "url": "https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa"
-        }
-      ],
-      "duration_ms": 136430,
-      "name": "Seu Z\u00e9",
-      "url": "https://open.spotify.com/track/7uZm4WI4OqH25LFlNobiff"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "O Que Voc\u00ea Quiser",
-        "url": "https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk"
-      },
-      "artists": [
-        {
-          "name": "Pel\u00e9 MilFlows",
-          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
-        },
-        {
-          "name": "Liu Beatz",
-          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "O Que Voc\u00ea Quiser",
-      "url": "https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/2aohzSz5kigRkQZ5lagVaM"
       },
@@ -1631,6 +1611,26 @@
       "duration_ms": 178367,
       "name": "Baby",
       "url": "https://open.spotify.com/track/1R1Og3MKiYJGUFUpudLklx"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
+        "name": "O Que Voc\u00ea Quiser",
+        "url": "https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk"
+      },
+      "artists": [
+        {
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        },
+        {
+          "name": "Liu Beatz",
+          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "O Que Voc\u00ea Quiser",
+      "url": "https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN"
     }
   ],
   "unique_name": "brisa",

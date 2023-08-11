@@ -1,12 +1,12 @@
 {
   "description": "Latest and biggest tracks from Jamaica's Dancehall scene. Cover: Intence ",
-  "num_followers": 50532,
+  "num_followers": 50568,
   "original_name": "Back a Yard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Nzg3MWU3NDk3ODllYjQ4M2Q5NjdiM2M4MzBlMjg5NjIyYThhNDlh",
+  "snapshot_id": "MCxmYjcyOWMzMzhmMzQ1OGM0OTI2MGMwNmJjYjNhYzBmNTJjMDQ2ZDRm",
   "tracks": [
     {
       "added_at": "2023-05-24 08:21:37",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "West Indies",
-        "url": "https://open.spotify.com/album/0JQXq0ZM0Nugq7QISjEDAq"
-      },
-      "artists": [
-        {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        }
-      ],
-      "duration_ms": 237458,
-      "name": "West Indies",
-      "url": "https://open.spotify.com/track/6GbvWYsT5sWXYgo8Bw6HPE"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Roll Deep",
         "url": "https://open.spotify.com/album/0DVnruHgsqHFIoYnmpYlc2"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 207856,
       "name": "Roll Deep",
       "url": "https://open.spotify.com/track/5I55hcZJTmdVtyJC4Sn7ae"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "West Indies",
+        "url": "https://open.spotify.com/album/0JQXq0ZM0Nugq7QISjEDAq"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "duration_ms": 237458,
+      "name": "West Indies",
+      "url": "https://open.spotify.com/track/6GbvWYsT5sWXYgo8Bw6HPE"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -867,22 +867,18 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Dunce Barbie",
-        "url": "https://open.spotify.com/album/6jwIFkOJ1blyCR0hzsY0MP"
+        "name": "Dark Room",
+        "url": "https://open.spotify.com/album/5YIVlPFxJJq4xZhDUzd8Eb"
       },
       "artists": [
         {
-          "name": "Armanii",
-          "url": "https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey"
-        },
-        {
-          "name": "DJ MAC",
-          "url": "https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc"
+          "name": "Shane O",
+          "url": "https://open.spotify.com/artist/3ZOaLn1Bn5j7Cb7fC2BLzF"
         }
       ],
-      "duration_ms": 165564,
-      "name": "DUNCE BARBIE",
-      "url": "https://open.spotify.com/track/2I1fpOTZmVr6ATXe6fCTXI"
+      "duration_ms": 193802,
+      "name": "Dark Room",
+      "url": "https://open.spotify.com/track/5zD3d3m97Ferk4pgkUPEmb"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -903,18 +899,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Dark Room",
-        "url": "https://open.spotify.com/album/5YIVlPFxJJq4xZhDUzd8Eb"
+        "name": "Dunce Barbie",
+        "url": "https://open.spotify.com/album/6jwIFkOJ1blyCR0hzsY0MP"
       },
       "artists": [
         {
-          "name": "Shane O",
-          "url": "https://open.spotify.com/artist/3ZOaLn1Bn5j7Cb7fC2BLzF"
+          "name": "Armanii",
+          "url": "https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey"
+        },
+        {
+          "name": "DJ MAC",
+          "url": "https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc"
         }
       ],
-      "duration_ms": 193802,
-      "name": "Dark Room",
-      "url": "https://open.spotify.com/track/5zD3d3m97Ferk4pgkUPEmb"
+      "duration_ms": 165564,
+      "name": "DUNCE BARBIE",
+      "url": "https://open.spotify.com/track/2I1fpOTZmVr6ATXe6fCTXI"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "WSTRN Season 3",
-        "url": "https://open.spotify.com/album/7stgMji7x8jvLjibOwngE7"
-      },
-      "artists": [
-        {
-          "name": "WSTRN",
-          "url": "https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs"
-        },
-        {
-          "name": "Dexta Daps",
-          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
-        }
-      ],
-      "duration_ms": 233225,
-      "name": "Influence (feat. Dexta Daps)",
-      "url": "https://open.spotify.com/track/6QC19cMrtbLNrZMH2bVl7w"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Glock 40",
         "url": "https://open.spotify.com/album/7y62e7mFSyul2nTJE1swm7"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 136323,
       "name": "Glock 40",
       "url": "https://open.spotify.com/track/5gbt4T7oUtLs2nkDfN0XvZ"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "WSTRN Season 3",
+        "url": "https://open.spotify.com/album/7stgMji7x8jvLjibOwngE7"
+      },
+      "artists": [
+        {
+          "name": "WSTRN",
+          "url": "https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs"
+        },
+        {
+          "name": "Dexta Daps",
+          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
+        }
+      ],
+      "duration_ms": 233225,
+      "name": "Influence (feat. Dexta Daps)",
+      "url": "https://open.spotify.com/track/6QC19cMrtbLNrZMH2bVl7w"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1383,6 +1383,26 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Know Weh Ya Do",
+        "url": "https://open.spotify.com/album/0GFq5vA7xwEDqyiJWprBQz"
+      },
+      "artists": [
+        {
+          "name": "450",
+          "url": "https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL"
+        },
+        {
+          "name": "Weekday",
+          "url": "https://open.spotify.com/artist/2ZoRuY63B7fzl9HaKjlWoF"
+        }
+      ],
+      "duration_ms": 177957,
+      "name": "Know Weh Ya Do",
+      "url": "https://open.spotify.com/track/4Vt1uT3bxlEoMoZ1BDdQWA"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Sell Lie",
         "url": "https://open.spotify.com/album/0zWgUFZyASepcog3tIv36N"
       },
@@ -1399,26 +1419,6 @@
       "duration_ms": 171206,
       "name": "Sell Lie",
       "url": "https://open.spotify.com/track/1HPix6ZDvjjNMo3npaIrIq"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Leggo Mi Ears (Remix)",
-        "url": "https://open.spotify.com/album/7xGJ194K1JhpXgbJNLBrse"
-      },
-      "artists": [
-        {
-          "name": "Tatik",
-          "url": "https://open.spotify.com/artist/2MJT5iXdO2amV4LQ4QYOhQ"
-        },
-        {
-          "name": "Valiant",
-          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
-        }
-      ],
-      "duration_ms": 171200,
-      "name": "Leggo Mi Ears - Remix",
-      "url": "https://open.spotify.com/track/32N0pwVyn0MCtt07r84BAN"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1455,22 +1455,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Know Weh Ya Do",
-        "url": "https://open.spotify.com/album/0GFq5vA7xwEDqyiJWprBQz"
+        "name": "Leggo Mi Ears (Remix)",
+        "url": "https://open.spotify.com/album/7xGJ194K1JhpXgbJNLBrse"
       },
       "artists": [
         {
-          "name": "450",
-          "url": "https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL"
+          "name": "Tatik",
+          "url": "https://open.spotify.com/artist/2MJT5iXdO2amV4LQ4QYOhQ"
         },
         {
-          "name": "Weekday",
-          "url": "https://open.spotify.com/artist/2ZoRuY63B7fzl9HaKjlWoF"
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
         }
       ],
-      "duration_ms": 177957,
-      "name": "Know Weh Ya Do",
-      "url": "https://open.spotify.com/track/4Vt1uT3bxlEoMoZ1BDdQWA"
+      "duration_ms": 171200,
+      "name": "Leggo Mi Ears - Remix",
+      "url": "https://open.spotify.com/track/32N0pwVyn0MCtt07r84BAN"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/1jtt9i4POLOx0kWuPmhdL5"
-      },
-      "artists": [
-        {
-          "name": "Moyann",
-          "url": "https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc"
-        }
-      ],
-      "duration_ms": 155294,
-      "name": "Feelings",
-      "url": "https://open.spotify.com/track/6qB7EBjM6CTOPPEVsXenQL"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Top Coote",
         "url": "https://open.spotify.com/album/7wLLQ7fRiHGEaiYNYrtoPw"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 140400,
       "name": "Top Coote",
       "url": "https://open.spotify.com/track/1fz7vkm6VbYlznJdTc9JOX"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/1jtt9i4POLOx0kWuPmhdL5"
+      },
+      "artists": [
+        {
+          "name": "Moyann",
+          "url": "https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc"
+        }
+      ],
+      "duration_ms": 155294,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/6qB7EBjM6CTOPPEVsXenQL"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Sweepstake Life",
-        "url": "https://open.spotify.com/album/5CgSQKBs32x5ZTOgc7uYSn"
-      },
-      "artists": [
-        {
-          "name": "Squash",
-          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
-        }
-      ],
-      "duration_ms": 180323,
-      "name": "Sweepstake Life",
-      "url": "https://open.spotify.com/track/58NHF2OvW3GG6YPaeJxKHh"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Imperfections",
         "url": "https://open.spotify.com/album/4Y6O56WU1RCfEXPmBnMhFf"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 166687,
       "name": "Imperfections",
       "url": "https://open.spotify.com/track/7Hly3BuOvebTEuRRRKjsGC"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Sweepstake Life",
+        "url": "https://open.spotify.com/album/5CgSQKBs32x5ZTOgc7uYSn"
+      },
+      "artists": [
+        {
+          "name": "Squash",
+          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
+        }
+      ],
+      "duration_ms": 180323,
+      "name": "Sweepstake Life",
+      "url": "https://open.spotify.com/track/58NHF2OvW3GG6YPaeJxKHh"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Perfect Summer",
-        "url": "https://open.spotify.com/album/0pnBHpLJHnVWbR4mviWab6"
-      },
-      "artists": [
-        {
-          "name": "Vybz Kartel",
-          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
-        }
-      ],
-      "duration_ms": 191526,
-      "name": "Perfect Summer",
-      "url": "https://open.spotify.com/track/2pCzjC7lGoH9KCv3ygYva3"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Bun Fi Bun (Fast)",
         "url": "https://open.spotify.com/album/322pCqxSFt8u8938IUrFC3"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 149493,
       "name": "Bun Fi Bun - Fast",
       "url": "https://open.spotify.com/track/4ZpTLINWb1RLoHluCLwkeT"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Perfect Summer",
+        "url": "https://open.spotify.com/album/0pnBHpLJHnVWbR4mviWab6"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "duration_ms": 191526,
+      "name": "Perfect Summer",
+      "url": "https://open.spotify.com/track/2pCzjC7lGoH9KCv3ygYva3"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Crocodile Teeth LP",
-        "url": "https://open.spotify.com/album/6lYAnTu7dtbj0Cb8SDhHDH"
-      },
-      "artists": [
-        {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
-        }
-      ],
-      "duration_ms": 165703,
-      "name": "Beethoven",
-      "url": "https://open.spotify.com/track/3Vxe2Fe84a6M9iUXdtWxsh"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Top Prize",
         "url": "https://open.spotify.com/album/4d6EnDzUrDot75g66ClShl"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 178200,
       "name": "Maniac",
       "url": "https://open.spotify.com/track/7mxpbEr40ApaC4wzKdSkuq"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Crocodile Teeth LP",
+        "url": "https://open.spotify.com/album/6lYAnTu7dtbj0Cb8SDhHDH"
+      },
+      "artists": [
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "duration_ms": 165703,
+      "name": "Beethoven",
+      "url": "https://open.spotify.com/track/3Vxe2Fe84a6M9iUXdtWxsh"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1855,18 +1855,18 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Sidepiece",
-        "url": "https://open.spotify.com/album/77BNOHzrIMr1Mpnq5feG77"
+        "name": "Clip Tall",
+        "url": "https://open.spotify.com/album/000gVvwOj4lYzHP8K3H58c"
       },
       "artists": [
         {
-          "name": "Projexx",
-          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+          "name": "IWaata",
+          "url": "https://open.spotify.com/artist/2xtVXoJRIMnX1UAmOCrHrB"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Sidepiece",
-      "url": "https://open.spotify.com/track/1WO6MRJNAjq4qV65DpAFOg"
+      "duration_ms": 172552,
+      "name": "Clip Tall",
+      "url": "https://open.spotify.com/track/75x8qpBoEV0A6joMaU6jBw"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1887,34 +1887,18 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Clip Tall",
-        "url": "https://open.spotify.com/album/000gVvwOj4lYzHP8K3H58c"
+        "name": "Sidepiece",
+        "url": "https://open.spotify.com/album/77BNOHzrIMr1Mpnq5feG77"
       },
       "artists": [
         {
-          "name": "IWaata",
-          "url": "https://open.spotify.com/artist/2xtVXoJRIMnX1UAmOCrHrB"
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
         }
       ],
-      "duration_ms": 172552,
-      "name": "Clip Tall",
-      "url": "https://open.spotify.com/track/75x8qpBoEV0A6joMaU6jBw"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Crocodile Teeth LP",
-        "url": "https://open.spotify.com/album/6lYAnTu7dtbj0Cb8SDhHDH"
-      },
-      "artists": [
-        {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
-        }
-      ],
-      "duration_ms": 221016,
-      "name": "Piana",
-      "url": "https://open.spotify.com/track/2QT2B9AbK9wQForVGxyP9a"
+      "duration_ms": 186000,
+      "name": "Sidepiece",
+      "url": "https://open.spotify.com/track/1WO6MRJNAjq4qV65DpAFOg"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1975,6 +1959,22 @@
       "duration_ms": 144012,
       "name": "Solid",
       "url": "https://open.spotify.com/track/2VaNkF1sBKCr1G5lKutDnZ"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Crocodile Teeth LP",
+        "url": "https://open.spotify.com/album/6lYAnTu7dtbj0Cb8SDhHDH"
+      },
+      "artists": [
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "duration_ms": 221016,
+      "name": "Piana",
+      "url": "https://open.spotify.com/track/2QT2B9AbK9wQForVGxyP9a"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2179,6 +2179,26 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Condensed Milk",
+        "url": "https://open.spotify.com/album/7lk8DbGwZWNkHcNPg9cFUQ"
+      },
+      "artists": [
+        {
+          "name": "Cham",
+          "url": "https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK"
+        },
+        {
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        }
+      ],
+      "duration_ms": 193469,
+      "name": "Condensed Milk",
+      "url": "https://open.spotify.com/track/0vdsBH9VEZnOaFRzz0wYQP"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Every Gyal Want We",
         "url": "https://open.spotify.com/album/4KpYEYoNTXAlqGhFWbrw55"
       },
@@ -2203,26 +2223,6 @@
       "duration_ms": 163200,
       "name": "Every Gyal Waan We",
       "url": "https://open.spotify.com/track/7wcHrLyVTB0YhwqzRiRn8I"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Condensed Milk",
-        "url": "https://open.spotify.com/album/7lk8DbGwZWNkHcNPg9cFUQ"
-      },
-      "artists": [
-        {
-          "name": "Cham",
-          "url": "https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK"
-        },
-        {
-          "name": "Spice",
-          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
-        }
-      ],
-      "duration_ms": 193469,
-      "name": "Condensed Milk",
-      "url": "https://open.spotify.com/track/0vdsBH9VEZnOaFRzz0wYQP"
     },
     {
       "added_at": "2023-05-24 08:21:37",

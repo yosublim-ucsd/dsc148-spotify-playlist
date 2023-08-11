@@ -1,12 +1,12 @@
 {
   "description": "Come for the stew stay for the craic.",
-  "num_followers": 60411,
+  "num_followers": 60508,
   "original_name": "Irish Tavern",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjJkNDIxNjRlZmU0NWFkNWQ4Y2I3MTkwYmQxZmViZjE5OGY4N2Iw",
+  "snapshot_id": "MCw0YjQ4ZmVhM2IwMTlmN2M3MzAxZTBhMjZhY2Y4N2NlZjY3NGVlMDE0",
   "tracks": [
     {
       "added_at": "2021-04-26 15:38:07",
@@ -75,22 +75,6 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "Planxty",
-        "url": "https://open.spotify.com/album/43TF1LRa7kmO7XzJmWcehP"
-      },
-      "artists": [
-        {
-          "name": "Planxty",
-          "url": "https://open.spotify.com/artist/15EMC4BhBrkCPwIxCfuY9c"
-        }
-      ],
-      "duration_ms": 144720,
-      "name": "Follow Me Up To Carlow",
-      "url": "https://open.spotify.com/track/2b6ulXSZpOwY7kwm6qKzQw"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
         "name": "20 Best Irish Pub Songs",
         "url": "https://open.spotify.com/album/1bse1I86JVJ2edZUa55xXl"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 161666,
       "name": "Botany Bay (arr. N. McLoughlin)",
       "url": "https://open.spotify.com/track/2jn9b9n7pIPCctswaTrvDq"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
+        "name": "Planxty",
+        "url": "https://open.spotify.com/album/43TF1LRa7kmO7XzJmWcehP"
+      },
+      "artists": [
+        {
+          "name": "Planxty",
+          "url": "https://open.spotify.com/artist/15EMC4BhBrkCPwIxCfuY9c"
+        }
+      ],
+      "duration_ms": 144720,
+      "name": "Follow Me Up To Carlow",
+      "url": "https://open.spotify.com/track/2b6ulXSZpOwY7kwm6qKzQw"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -207,22 +207,6 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "The Planxty Collection",
-        "url": "https://open.spotify.com/album/7EBGNTzxA5We3cdWqrj1Mf"
-      },
-      "artists": [
-        {
-          "name": "Planxty",
-          "url": "https://open.spotify.com/artist/15EMC4BhBrkCPwIxCfuY9c"
-        }
-      ],
-      "duration_ms": 159320,
-      "name": "Merrily Kissed The Quaker",
-      "url": "https://open.spotify.com/track/0PSXpbeWUPrxoUfZluO0CM"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
         "name": "The Orchard",
         "url": "https://open.spotify.com/album/7aUKDSAEpvc7b2SEnPAzX7"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 223791,
       "name": "Wild Mountain Thyme",
       "url": "https://open.spotify.com/track/1Kue1YD3a8ANnrcS4o87Cc"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
+        "name": "Canyon Moonrise",
+        "url": "https://open.spotify.com/album/7E003F3IUQEbMqNPs7GVWq"
+      },
+      "artists": [
+        {
+          "name": "Turlough",
+          "url": "https://open.spotify.com/artist/7lGlBusQq3p9LjkdD9iF7R"
+        }
+      ],
+      "duration_ms": 256600,
+      "name": "Smoke and Strong Whiskey",
+      "url": "https://open.spotify.com/track/7ok6fq3vNfyIqjSby1UbpV"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -255,18 +255,18 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "Canyon Moonrise",
-        "url": "https://open.spotify.com/album/7E003F3IUQEbMqNPs7GVWq"
+        "name": "The Planxty Collection",
+        "url": "https://open.spotify.com/album/7EBGNTzxA5We3cdWqrj1Mf"
       },
       "artists": [
         {
-          "name": "Turlough",
-          "url": "https://open.spotify.com/artist/7lGlBusQq3p9LjkdD9iF7R"
+          "name": "Planxty",
+          "url": "https://open.spotify.com/artist/15EMC4BhBrkCPwIxCfuY9c"
         }
       ],
-      "duration_ms": 256600,
-      "name": "Smoke and Strong Whiskey",
-      "url": "https://open.spotify.com/track/7ok6fq3vNfyIqjSby1UbpV"
+      "duration_ms": 159320,
+      "name": "Merrily Kissed The Quaker",
+      "url": "https://open.spotify.com/track/0PSXpbeWUPrxoUfZluO0CM"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -671,26 +671,6 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "Ireland: Tales of Our Land",
-        "url": "https://open.spotify.com/album/0yFRD63u0M2gHXgG7oAfl9"
-      },
-      "artists": [
-        {
-          "name": "Traditional",
-          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
-        },
-        {
-          "name": "Sean Tyrrell",
-          "url": "https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o"
-        }
-      ],
-      "duration_ms": 235026,
-      "name": "Mickey Free / The Mountain Road",
-      "url": "https://open.spotify.com/track/1RTQrYRpSrot2VlSzbdarw"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
         "name": "Flame",
         "url": "https://open.spotify.com/album/73ZcF7Q0qUhj1WQriTv8CC"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 251533,
       "name": "The Blight",
       "url": "https://open.spotify.com/track/2QJUd682LU3QIOYWnBP5gZ"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
+        "name": "Ireland: Tales of Our Land",
+        "url": "https://open.spotify.com/album/0yFRD63u0M2gHXgG7oAfl9"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Janet Sutton",
+          "url": "https://open.spotify.com/artist/2V5kNou7X20lwOxEp42ofy"
+        }
+      ],
+      "duration_ms": 198733,
+      "name": "Road to Granard / Gallagher's Frolics / Out on the Ocean",
+      "url": "https://open.spotify.com/track/7DyemM63ebf7A8Xr1XbDra"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -755,6 +755,26 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
+        "name": "Ireland: Tales of Our Land",
+        "url": "https://open.spotify.com/album/0yFRD63u0M2gHXgG7oAfl9"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Sean Tyrrell",
+          "url": "https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o"
+        }
+      ],
+      "duration_ms": 235026,
+      "name": "Mickey Free / The Mountain Road",
+      "url": "https://open.spotify.com/track/1RTQrYRpSrot2VlSzbdarw"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
         "name": "Irish Folk: Adieu to Old Ireland",
         "url": "https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 222200,
       "name": "The Month of January",
       "url": "https://open.spotify.com/track/5NLhEltFqmzlXx6erUdGyj"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
-        "name": "Ireland: Tales of Our Land",
-        "url": "https://open.spotify.com/album/0yFRD63u0M2gHXgG7oAfl9"
-      },
-      "artists": [
-        {
-          "name": "Traditional",
-          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
-        },
-        {
-          "name": "Janet Sutton",
-          "url": "https://open.spotify.com/artist/2V5kNou7X20lwOxEp42ofy"
-        }
-      ],
-      "duration_ms": 198733,
-      "name": "Road to Granard / Gallagher's Frolics / Out on the Ocean",
-      "url": "https://open.spotify.com/track/7DyemM63ebf7A8Xr1XbDra"
     },
     {
       "added_at": "2021-04-26 15:38:07",

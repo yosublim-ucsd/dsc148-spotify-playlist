@@ -4,7 +4,7 @@
 
 > This is Jonas Blue\. The essential tracks, all in one playlist.
 
-47 songs - 2 hr 33 min
+48 songs - 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [My Life Is Music \- Jonas Blue Remix](https://open.spotify.com/track/2PnEzfFz03XKGU4JqrCw8A) | [Felix Da Housecat](https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI), [The Visionary](https://open.spotify.com/artist/2mjMWOig2tCmJsm198htSs), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [My Life Is Music \(Jonas Blue Remix\)](https://open.spotify.com/album/7beqHc1JyjadCU4lIAWdRG) | 3:15 | 2023-03-19 |  |
 | [Naked](https://open.spotify.com/track/2gGLpMzoo80A7jGEIr4ou8) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Naked](https://open.spotify.com/album/6C8hZT4nmCER89JVbhq9BV) | 3:30 | 2023-03-19 |  |
 | [Needin' U \(Jonas Blue Remix\)](https://open.spotify.com/track/5uRzm9hMLyStgXfiErpJu5) | [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Needin' U \(Jonas Blue Remix\)](https://open.spotify.com/album/4TIJ6LDFzeJwKPjPaeWs95) | 3:16 | 2023-03-19 |  |
+| [Now or Never](https://open.spotify.com/track/48Ow2RXXaLwWVEp2Y4F6DV) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Call My Name](https://open.spotify.com/album/5SBLYLF6v5FafexVCvVh8R) | 3:05 | 2023-08-10 |  |
 | [Perfect Melody](https://open.spotify.com/track/17XwUcwd6SmoypiA3tIwHH) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Perfect Melody](https://open.spotify.com/album/5dnpfIyc6hbO2HO5bIaj6L) | 2:39 | 2023-03-19 |  |
 | [Perfect Strangers](https://open.spotify.com/track/3P3pw6C19j31Rnzgo3JG7o) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:16 | 2023-03-19 |  |
 | [Perfect Strangers \- Acoustic](https://open.spotify.com/track/1UToeULiroxGaVUHyAb7J2) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Perfect Strangers](https://open.spotify.com/album/0qFyB887vUrt0HJPRKsNDW) | 3:11 | 2023-03-19 |  |

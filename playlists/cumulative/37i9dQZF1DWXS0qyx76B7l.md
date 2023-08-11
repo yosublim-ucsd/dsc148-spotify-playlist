@@ -4,7 +4,7 @@
 
 > Songs about the iconic city\. Welcome to the Big Apple!
 
-107 songs - 7 hr 14 min
+108 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [An Open Letter To NYC](https://open.spotify.com/track/5vwudDPhjnuA1KrNsFjAHK) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [To The 5 Boroughs](https://open.spotify.com/album/4nnQZQWLibK1VIhCGDFjk3) | 4:18 | 2020-05-13 |  |
 | [Angel Of Harlem](https://open.spotify.com/track/7iBav4v8maicL8cWKGxFhQ) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Rattle And Hum](https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9) | 3:49 | 2020-05-13 |  |
 | [Autumn In New York](https://open.spotify.com/track/6o5RbQYhmF4yRRw7ZArxGL) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Recital](https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r) | 3:44 | 2022-01-24 |  |
-| [Autumn In New York](https://open.spotify.com/track/0f2489MzoisF9pKduawvce) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella And Louis Again](https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M) | 5:56 | 2020-05-13 |  |
+| [Autumn In New York](https://open.spotify.com/track/0f2489MzoisF9pKduawvce) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella And Louis Again](https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M) | 5:56 | 2020-05-13 | 2023-08-11 |
 | [Avenue B](https://open.spotify.com/track/69KbGS9OVFmCxeR3hEZj1h) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Avenue B](https://open.spotify.com/album/3CVnxmcJy6gCrkh6lFY0fm) | 5:21 | 2022-01-24 | 2022-07-28 |
 | [Back To Manhattan](https://open.spotify.com/track/3G56sKt5UjxO9GhohRQqCW) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [The Fall \(Deluxe Edition\)](https://open.spotify.com/album/0Zk9QQDtNjL1SV8GnA12SR) | 4:07 | 2020-05-13 | 2022-07-29 |
 | [Bleecker Street](https://open.spotify.com/track/4c0ecVwn17owdwpIBL07wC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Wednesday Morning, 3 A.M.](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) | 2:43 | 2022-01-24 |  |
@@ -24,6 +24,7 @@
 | [Brooklyn Girls](https://open.spotify.com/track/3CowsvxR0UrieEHJIlU0Ds) | [Catey Shaw](https://open.spotify.com/artist/5nfow6tv4Dtm6K4WHzczBI) | [The Brooklyn EP](https://open.spotify.com/album/1wHOjPgthvvf35Hne9XCbB) | 3:33 | 2020-05-13 | 2022-07-28 |
 | [Brooklyn In The Summer](https://open.spotify.com/track/5bTysxqGHXdSGiZVgljzCY) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Brooklyn In The Summer](https://open.spotify.com/album/2e2K7qbaFSqnBQWvYmgS4L) | 3:28 | 2020-05-13 |  |
 | [Brooklyn's Finest](https://open.spotify.com/track/68WCiBa9dfDU5PBhTl6MYe) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Reasonable Doubt](https://open.spotify.com/album/3YPK0bNOuayhmSrs0sIIBR) | 4:35 | 2020-05-13 |  |
+| [Chelsea Hotel \#2](https://open.spotify.com/track/4krhCfJg0znykZoyjeMXRe) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [New Skin For The Old Ceremony](https://open.spotify.com/album/6LXadMatlf17dDrWzJO9eL) | 3:06 | 2023-08-10 |  |
 | [Chelsea Morning](https://open.spotify.com/track/5G0q5jtbxFCoqfbIDCIGky) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Clouds](https://open.spotify.com/album/03iFLgmgkLT7X5gnXVPID5) | 2:31 | 2020-05-13 | 2022-05-18 |
 | [City of Blinding Lights](https://open.spotify.com/track/4ItWussj1AjpGcBEwhMLP2) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Devil Wears Prada \(Music from the Motion Picture\)](https://open.spotify.com/album/2JMIfKLVIBC2ecgFhxuT5s) | 5:44 | 2020-05-13 | 2022-05-16 |
 | [City Of Blinding Lights](https://open.spotify.com/track/4ao9bdN6ozxdlQ9j2rGDFy) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/2nPJlUlcyQ24e1VdayD6TT) | 5:47 | 2022-01-24 |  |

@@ -4,7 +4,7 @@
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-334 songs - 1 day 1 hr 37 min
+335 songs - 1 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,7 +260,8 @@
 | [Street Sweeper](https://open.spotify.com/track/6eTrGiHJS6kvmifI3sIkPn) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0) | [Street Sweeper](https://open.spotify.com/album/12zuK73zE5d3pxYoqspSZB) | 3:54 | 2023-03-24 |  |
 | [Strolling](https://open.spotify.com/track/3NHxMMrLCY67QSFpcAHcuc) | [BZSounds](https://open.spotify.com/artist/5sfU8PTosAbplqqVFQGwVH), [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG) | [Strolling](https://open.spotify.com/album/3DVR7jHKPpH5G5d36SI2gP) | 5:02 | 2022-12-02 |  |
 | [Sunray Junonia](https://open.spotify.com/track/10LzsI1oHVeNpplXBE1RY7) | [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [Kosie](https://open.spotify.com/artist/0xRl5ErvGBkJZaOTyOnVEb), [Chino Corvalán](https://open.spotify.com/artist/6kfOGQtwF9oS6rYSdVG4Ol), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Tamuz](https://open.spotify.com/artist/0PeJXwNht5Ty961mmQWJuA) | [Sunray Junonia](https://open.spotify.com/album/6vJzBismVQ09YEfkGQg9k9) | 5:00 | 2021-02-05 | 2023-03-05 |
-| [Sure Shot](https://open.spotify.com/track/1IqZYnJiVCRnu4CC3TXnNb) | [Karl Denson](https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v) | [New Ammo](https://open.spotify.com/album/1qNG0CXSi8vumI662LYg2o) | 4:01 | 2020-10-09 |  |
+| [Sure Shot](https://open.spotify.com/track/1IqZYnJiVCRnu4CC3TXnNb) | [Karl Denson](https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v) | [New Ammo](https://open.spotify.com/album/1qNG0CXSi8vumI662LYg2o) | 4:01 | 2020-10-09 | 2023-08-11 |
+| [Sure Shot](https://open.spotify.com/track/1rnvUkmR2DaxaO9r9dn9b4) | [Karl Denson](https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v) | [New Ammo](https://open.spotify.com/album/38h9lRNaktbPyyd2evaftv) | 4:01 | 2021-04-09 |  |
 | [Sweet Power of Your Embrace](https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M) | [James Mason](https://open.spotify.com/artist/6HC9gScXpsScEq3Cgq5UvZ) | [Rhythm Of Life](https://open.spotify.com/album/2mv1fpeMeseWyD0MIjKxe1) | 5:26 | 2020-10-09 |  |
 | [Sweet Solitude](https://open.spotify.com/track/2WOzxPv4d42g6ZOo3pMLIl) | [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5) | [Et Le Funk Mystique](https://open.spotify.com/album/2woysuZeZvPTqddDPszgBk) | 4:01 | 2022-07-29 |  |
 | [Swing Praxis \- Kaidi Tatham Remix](https://open.spotify.com/track/37jXiMfAujPxIpblIl3EuO) | [Anthony Joseph](https://open.spotify.com/artist/622cbugSJevUkEanSBCab9), [Kaidi Tatham](https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz) | [Swing Praxis \(Kaidi Tatham Remix\)](https://open.spotify.com/album/1yrVoalR2Bk3DSYKJb5gwl) | 5:26 | 2021-11-26 |  |

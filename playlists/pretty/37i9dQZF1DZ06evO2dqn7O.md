@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 
 > This is X Ambassadors\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,899 likes - 52 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,904 likes - 52 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 | 51 | [Love Is Death](https://open.spotify.com/track/67Ih4EE8YDNOXdJxz4NGmT) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [The Beautiful Liar](https://open.spotify.com/album/7mU1N3h6ZVyxpRMTJc7Lg8) | 3:33 |
 | 52 | [JOYFUL](https://open.spotify.com/track/3mau755ebHNf9B0qXAQXF9) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [JOYFUL](https://open.spotify.com/album/0x5Vn7tPWyACi4e02ahWEs) | 3:52 |
 
-Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDBhZjIyY2I2MzQ1OTAwMjgzMGM1NTI5NTJlNmIxYjZhYg==`
+Snapshot ID: `MjgxOTQ1NjMsMDAwMDAwMDA0YThkNGMxYWNlZmI0M2E4MGRkYmY0OGVjNDNmMDhlNQ==`

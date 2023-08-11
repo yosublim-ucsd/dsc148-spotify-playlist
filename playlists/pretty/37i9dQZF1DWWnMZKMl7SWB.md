@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain](/playlists/plain/37i9dQZF1DWWnMZKMl7SWB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWnMZKMl7SWB)
 
-### [Impulso Creativo](https://open.spotify.com/playlist/37i9dQZF1DWWnMZKMl7SWB)
+### [Estudiando + Chilleando](https://open.spotify.com/playlist/37i9dQZF1DWWnMZKMl7SWB)
 
 > Bases suaves para inspirarte mientras trabajas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,768 likes - 225 songs - 13 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,762 likes - 225 songs - 13 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 224 | [Rose's Thorn](https://open.spotify.com/track/0VCUjtHZm8SRvKLWGzQKBf) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s) | 4:24 |
 | 225 | [A Bird's Call](https://open.spotify.com/track/0zDeGbSeyIloTRHQhTXhys) | [Nebulae](https://open.spotify.com/artist/3UKaTOMvInYrOVb2SXiO9v) | [A Bird's Call](https://open.spotify.com/album/3PD5R09YXs4zCo34UoDmP2) | 3:02 |
 
-Snapshot ID: `MCxmZDBhOWM1Y2U3NmQ2OTNmZmRmZGIxMmFiMTA1YTkzMmQzZmFiODRj`
+Snapshot ID: `MCxmOTBhMTFjYzA0OGE3MTZlODQ5OGFiODlkYzY0ODg2YmM4Yzk1OWEx`

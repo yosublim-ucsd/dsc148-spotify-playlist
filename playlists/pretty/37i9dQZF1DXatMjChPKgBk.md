@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatMjChPKgBk.md) - [plain]
 
 > Great food, good company and some soft music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 685,885 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 685,911 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatMjChPKgBk.md) - [plain]
 | 20 | [Tenerife Sea](https://open.spotify.com/track/1HbcclMpw0q2WDWpdGCKdS) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:01 |
 | 21 | [Rainbow](https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:34 |
 | 22 | [Please Keep Loving Me](https://open.spotify.com/track/78zUxUPvONPgMIt46q5be6) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Please Keep Loving Me](https://open.spotify.com/album/53ZfIHyk0AhUHeVRBCIl64) | 3:15 |
-| 23 | [Chasing After You](https://open.spotify.com/track/3MkXV52jXtsG4pvKp4cGE8) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Pelago](https://open.spotify.com/album/0vlxtyaep2FkkVidYC49PA) | 3:27 |
-| 24 | [Gravity](https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 3:52 |
+| 23 | [Gravity](https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 3:52 |
+| 24 | [Chasing After You](https://open.spotify.com/track/3MkXV52jXtsG4pvKp4cGE8) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Pelago](https://open.spotify.com/album/0vlxtyaep2FkkVidYC49PA) | 3:27 |
 | 25 | [Daughters](https://open.spotify.com/track/5FPnjikbwlDMULCCCa6ZCJ) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Heavier Things](https://open.spotify.com/album/6WivmTXugLZLmAWnZhlz7g) | 3:57 |
 | 26 | [Wonderful Life](https://open.spotify.com/track/1C0bWhNWIF3yBdjNh4GlCT) | [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Ultimate Collection](https://open.spotify.com/album/4WQFtE9TndiTti4FJVZ33u) | 4:04 |
 | 27 | [Anywhere Away from Here \(Rag’n’Bone Man & P!nk\)](https://open.spotify.com/track/5gjATWO1EIhrCP1CQ2GWg8) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Life By Misadventure](https://open.spotify.com/album/6TQpPdEdP2YWSYvlcu7STJ) | 3:58 |
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatMjChPKgBk.md) - [plain]
 | 38 | [Breathe \(2 AM\)](https://open.spotify.com/track/5auMzVHFr5Zfw6IbKarZ56) | [Anna Nalick](https://open.spotify.com/artist/4LoM3lMauQ540MW9QiyIcR) | [Wreck of the Day](https://open.spotify.com/album/30y0ZT845hhBoFNRKcZjT9) | 4:39 |
 | 39 | [Sunsets For Somebody Else](https://open.spotify.com/track/41Az1BCotlAUt7Ud8k6H2Y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [All The Light Above It Too](https://open.spotify.com/album/1a15dDOiwz5ebSxk1ZeFB5) | 3:30 |
 | 40 | [Strong Enough](https://open.spotify.com/track/25IRjWUZ60n7KXxcB4DiX9) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Tuesday Night Music Club](https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU) | 3:09 |
-| 41 | [Flicker](https://open.spotify.com/track/5BpmwiKR6ns1EtfCQRpNUc) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 4:18 |
+| 41 | [Worth It](https://open.spotify.com/track/1squCbXxHkHAO0VYRjTl2S) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Worth It](https://open.spotify.com/album/3cA8ijJVzxkCtV9CePO8If) | 3:03 |
 | 42 | [Who Says](https://open.spotify.com/track/0HLWvLKQWpFdPhgk6ym58n) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Battle Studies](https://open.spotify.com/album/1V5vQRMWTNGmqwxY8jMVou) | 2:55 |
-| 43 | [Worth It](https://open.spotify.com/track/1squCbXxHkHAO0VYRjTl2S) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Worth It](https://open.spotify.com/album/3cA8ijJVzxkCtV9CePO8If) | 3:03 |
+| 43 | [Flicker](https://open.spotify.com/track/5BpmwiKR6ns1EtfCQRpNUc) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 4:18 |
 | 44 | [Colors](https://open.spotify.com/track/72SPsHheqN6J3sI520jT9E) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Amos Lee](https://open.spotify.com/album/0hPXaSKyujqCej452raazD) | 2:40 |
 | 45 | [Grow as We Go](https://open.spotify.com/track/6hYvw3LLTViP2mT4MpDNmT) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 4:09 |
 | 46 | [Everybody Needs Someone \(feat\. Vance Joy\)](https://open.spotify.com/track/2TZKvEQyTtcXLBfAk7kt8n) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Everybody Needs Someone \(feat\. Vance Joy\)](https://open.spotify.com/album/5eWIV7Xa9H7aeciqMgMKNZ) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatMjChPKgBk.md) - [plain]
 | 49 | [Hope Is A Heartache](https://open.spotify.com/track/3w1P8nwsVi9vxrGvxYLzAC) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [LÉON](https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe) | 3:21 |
 | 50 | [Love Like This](https://open.spotify.com/track/2lxBZVbkiCXC1soks2RXwV) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [Magic](https://open.spotify.com/album/3Mb8bYV4FKmdnmrlSYqp3j) | 3:34 |
 
-Snapshot ID: `MCxjZmI5YTY4NjlhNTI1MmUzMTljZGQ3YmE2MmQ2YjIzZDYzZGFhNzkw`
+Snapshot ID: `MCw2NDc1ODA2NzFmMGI2OTUwMTkwN2Q2NmI0MTQ5YjcxNzc0MmQwNTA1`

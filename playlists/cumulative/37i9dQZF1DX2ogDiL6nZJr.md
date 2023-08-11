@@ -4,7 +4,7 @@
 
 > Home is where you park it.
 
-288 songs - 17 hr 58 min
+290 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Green Eyes](https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Green Eyes](https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp) | 3:17 | 2021-12-09 |  |
 | [Hammond Song](https://open.spotify.com/track/2DXklyUl8JDO1SM4TONm93) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Strange Overtones](https://open.spotify.com/album/1QcsAQ69J8rw1UuvSMW2pj) | 5:00 | 2021-12-09 | 2022-04-21 |
 | [Head On](https://open.spotify.com/track/2ku71f9zbPxkykS1cySXyL) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Head On](https://open.spotify.com/album/2vAB6q0kGH2OIU2mBaEqPr) | 4:45 | 2021-12-09 | 2022-07-29 |
-| [Here to Stay](https://open.spotify.com/track/301ftxH8HBSL1pDTyTYn8I) | [Ian Hooper](https://open.spotify.com/artist/0auayPc6fVfCbtw5tSQxxG) | [Here to Stay](https://open.spotify.com/album/3gKoctpzCx3hvVR5emq5My) | 3:09 | 2022-11-09 |  |
+| [Here to Stay](https://open.spotify.com/track/301ftxH8HBSL1pDTyTYn8I) | [Ian Hooper](https://open.spotify.com/artist/0auayPc6fVfCbtw5tSQxxG) | [Here to Stay](https://open.spotify.com/album/3gKoctpzCx3hvVR5emq5My) | 3:09 | 2022-11-09 | 2023-08-11 |
 | [Hi Lo](https://open.spotify.com/track/2FucHXR1w9EuvdSPNb32Zv) | [Ro Bergman](https://open.spotify.com/artist/10iARDtBmqUF4X7zCr3rZA) | [HI\-LO](https://open.spotify.com/album/3V1WgUPQ0hq1hws188Z4uA) | 3:45 | 2022-01-21 | 2022-07-29 |
 | [Hole Digger](https://open.spotify.com/track/3UCg61B7K1MYvxhIrR83jf) | [Camel Power Club](https://open.spotify.com/artist/2ziSUHAT6LbHKCJIlwHhDG), [Desingly](https://open.spotify.com/artist/7e75N4iueWn6bCBMR74oWd) | [Hole Digger](https://open.spotify.com/album/0A6bncjAHwmgyeHkmlzvWb) | 3:05 | 2021-12-09 | 2023-07-25 |
 | [Hollowing](https://open.spotify.com/track/4ypi1jbQT4Pyfj9OhGpbdO) | [All The Luck In The World](https://open.spotify.com/artist/60ewzuY3lVH0QElQbFagIS) | [Hollowing](https://open.spotify.com/album/77EqeFoRR8ibGXJtc8vrb0) | 3:31 | 2022-01-21 | 2022-07-10 |
@@ -170,11 +170,12 @@
 | [Moonlight](https://open.spotify.com/track/1qyKIq8hw9yWkuPJ9ZjuvK) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Moonlight](https://open.spotify.com/album/76zQ1pqBzrcTsmYAnLgxiE) | 3:38 | 2021-12-09 | 2022-07-29 |
 | [Moonlight](https://open.spotify.com/track/3RGdTJbr4eWMS0upJntQAn) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [As Long As You Are](https://open.spotify.com/album/0Xb7fY98lbfsGdo9OdbC9W) | 3:38 | 2022-07-21 |  |
 | [Mountain](https://open.spotify.com/track/4TFTlwrYFCLqmJtIgxRVUT) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Mountain](https://open.spotify.com/album/5lLrspzGxZevZkbByj9zwd) | 3:02 | 2021-12-09 | 2022-10-06 |
+| [My Grandma Says We Have No Future](https://open.spotify.com/track/5GnSbcq1asisRkpCTLsQC6) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [My Grandma Says We Have No Future](https://open.spotify.com/album/2sjVhEXzXRUhNwSYjufF2o) | 2:54 | 2023-08-10 |  |
 | [My Guitar is too Loud](https://open.spotify.com/track/0E5eQCAkdX7Mt3sQh2tShz) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [My Guitar is too Loud](https://open.spotify.com/album/7Cf52mLBhP6NdPp1Fj6KBy) | 3:22 | 2022-07-21 |  |
 | [Next Exit](https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Next Exit](https://open.spotify.com/album/4UfayZRNyvNRmayWpf2z7H) | 3:21 | 2023-05-04 | 2023-05-26 |
 | [No Goodbye](https://open.spotify.com/track/3hSWPdtI58IANIOhulRR7v) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [No Goodbye](https://open.spotify.com/album/1w0QlUchdZEiY6NYIrmJf2) | 4:12 | 2021-12-09 | 2023-05-26 |
 | [No Love Go](https://open.spotify.com/track/5zwTjQSmkOURaeY0h1d19x) | [Jesse Mac Cormack](https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C) | [No Love Go](https://open.spotify.com/album/34cE1S1Sccl6KXtCmL5Z57) | 4:02 | 2022-04-14 | 2022-04-21 |
-| [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 | 2023-05-25 |  |
+| [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 | 2023-05-25 | 2023-08-11 |
 | [Oakmoss](https://open.spotify.com/track/7Bfv08ce0ofu4EbYTxomCC) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Oakmoss](https://open.spotify.com/album/4Aa3JGF2lglCgdsmUvmb0F) | 3:41 | 2021-12-09 | 2022-05-01 |
 | [Ocean](https://open.spotify.com/track/1lGASRI2JcaJ166eez49PS) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Ocean](https://open.spotify.com/album/72aOfPivY1vqKo2iIuRw8y) | 3:18 | 2021-12-09 | 2022-07-29 |
 | [Ocean](https://open.spotify.com/track/6maswXqaxmZmrVnr2B82ii) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Gold Past Life](https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp) | 3:18 | 2022-07-21 |  |
@@ -205,6 +206,7 @@
 | [Pretty Lady](https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK) | 4:39 | 2022-07-21 |  |
 | [Price](https://open.spotify.com/track/7LmMQyOx62rbprC2eyPtHO) | [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs), [Sebastian Maschat & Erlend Øye](https://open.spotify.com/artist/7K9jdX7nONxeCCdJ1EaAZK) | [Quarantine at El Ganzo](https://open.spotify.com/album/7vVNYMLmlCfU9o4IHhFWcJ) | 3:48 | 2021-12-09 |  |
 | [Purple](https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:22 | 2023-02-18 |  |
+| [Purple Moon](https://open.spotify.com/track/0O1S4dPj32c91BpyiHdo7L) | [Ilgen\-Nur](https://open.spotify.com/artist/4FjRuMCcbAdiYBr47QE3xX) | [Purple Moon](https://open.spotify.com/album/52aESqgK1s1SwCZ91iA6u4) | 3:17 | 2023-08-10 |  |
 | [quite alright](https://open.spotify.com/track/1LEGkagVxaB3oEjfbhz2a1) | [doppelfinger](https://open.spotify.com/artist/26vQnKIdh6ysJWbcQ6o3P1) | [by design](https://open.spotify.com/album/2iKnUX26YQtb43UgO0yLBr) | 5:15 | 2023-01-12 | 2023-04-20 |
 | [quite alright](https://open.spotify.com/track/3ac7wRpO4zkSxzDDa5kado) | [doppelfinger](https://open.spotify.com/artist/26vQnKIdh6ysJWbcQ6o3P1) | [by design](https://open.spotify.com/album/1IluF9fFD0yPzey3C306zL) | 5:15 | 2022-04-14 | 2022-11-18 |
 | [Rain](https://open.spotify.com/track/64mzbvhWK8BL3IHR4EiqEh) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Rain](https://open.spotify.com/album/4WYlw0E5sJCweed8y3ycpT) | 3:48 | 2022-04-14 | 2022-04-18 |

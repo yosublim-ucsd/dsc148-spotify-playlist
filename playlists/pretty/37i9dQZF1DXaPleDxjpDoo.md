@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 
 > Bathe in Ambient and nature sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,729 likes - 98 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,929 likes - 98 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 | 97 | [Natuurlijk](https://open.spotify.com/track/2BqSwsKNtp7gTAmH479Jmj) | [Ebba Dekker](https://open.spotify.com/artist/1IyHF3iElYVD2QGDF0zZKg) | [Natuurlijk](https://open.spotify.com/album/4NUMUE1zC63L8XIndUip2e) | 2:49 |
 | 98 | [Spiritual Being \- Loopable with No Fade](https://open.spotify.com/track/1NLsqHq8E9ATTvTvrGgLOy) | [Sweet Dreamer](https://open.spotify.com/artist/3zKs9aLmCunDoHMi4y2ld7) | [Atmospheres For Yoga And Meditation](https://open.spotify.com/album/0UzCrJH14dmIujSR2uynv8) | 2:57 |
 
-Snapshot ID: `MCw4NWIzY2YwMGZmMzIzNGMxY2VkZTc0NjZjNWZkY2NkM2VhNzljM2U2`
+Snapshot ID: `MCw2ZjU5NTVjYTFkMWQ0MzliOTYyOWQ2YjE5MjUzNDQ3Zjk3NTUwNjJh`

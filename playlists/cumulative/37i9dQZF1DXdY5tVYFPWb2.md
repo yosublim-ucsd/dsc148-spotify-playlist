@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-621 songs - 1 day 17 hr 10 min
+622 songs - 1 day 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Amai Yume \~Sweet Dreams\~](https://open.spotify.com/track/29k925te93jCuDE5xj0xIV) | [Roomies](https://open.spotify.com/artist/1dVKKYAxprfu4rfeso6wOt) | [Amai Yume \~Sweet Dreams\~](https://open.spotify.com/album/3k9HxwEgXVk4zKyfBlM0rp) | 4:30 | 2023-01-19 | 2023-01-25 |
 | [Amber](https://open.spotify.com/track/39KmklB5budgAsuow00krX) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [ネイルの島](https://open.spotify.com/album/3WcnLCT0xyymYkCANFHo7Z) | 3:21 | 2022-05-24 |  |
 | [Amber Bare Skin](https://open.spotify.com/track/2lvZHA4ic46LLgBJjEClD1) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [tonun 2](https://open.spotify.com/album/0N00X1lERWXeDOcu8Fhid3) | 3:25 | 2022-09-13 |  |
+| [ANIME](https://open.spotify.com/track/0Et5LennQBo7aPBdmAyy4b) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [ANIME](https://open.spotify.com/album/1tLcBZrC5gAmfz5cV2DhZy) | 2:42 | 2023-08-08 |  |
 | [Aoyama Killer Story \(Night Tempo Showa Groove Mix\)](https://open.spotify.com/track/08Q3YDJYVho2ImOhGc2AY5) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [RA MU](https://open.spotify.com/artist/6SDnPouFAKtGxLzdb3cNW5) | [RA MU \- Night Tempo presents The Showa Groove](https://open.spotify.com/album/5RfPeFBeSWOoTWdt4c0McX) | 5:02 | 2022-10-06 | 2023-07-28 |
 | [April is a lie \(feat\. salasa\)](https://open.spotify.com/track/0jxdad1Loq437CrfU4jX59) | [sunny after rain](https://open.spotify.com/artist/0h1BKDiSM47e0dNBoExa5N), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [April is a lie](https://open.spotify.com/album/7qzfjQmPpba2duIBdYu9u0) | 3:39 | 2023-05-16 | 2023-06-04 |
 | [Aquarium Summer](https://open.spotify.com/track/5A4zrqYxmkTCHR4rVecd4w) | [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY), [ヨシカワミノリ](https://open.spotify.com/artist/5JnrRCxGkwDPN8LKxVfn4e) | [Summer Deja Vu](https://open.spotify.com/album/4Vk77i4FhPszz6f2Pf52zq) | 3:16 | 2022-08-02 | 2022-08-10 |
@@ -400,7 +401,7 @@
 | [Tokyo Tower](https://open.spotify.com/track/6HB5itEEkLc2F8vlOTtif3) | [Yoko Kuzuya](https://open.spotify.com/artist/4npBbWR9zhm8hXabjjigvt) | [Tokyo Tower](https://open.spotify.com/album/62I4bwkFoaOvU3cQ2BLT32) | 4:49 | 2022-09-08 | 2022-09-30 |
 | [Tonight is the night](https://open.spotify.com/track/4azggBeTxDaQ5zPU6ihP0V) | [はらかなこ](https://open.spotify.com/artist/5GLpM2YT3pJFvS8Qguzhvj), [Kyoko](https://open.spotify.com/artist/5HRqEGJI62dhk2BuO65mnr) | [Tonight is the night](https://open.spotify.com/album/17uuzHoS8GBOT8JTd3ojUA) | 4:20 | 2023-03-28 | 2023-04-05 |
 | [Too good to be true](https://open.spotify.com/track/7AHjkU1cjgUIV2bxP6Aitm) | [Kiyotaka Sugiyama](https://open.spotify.com/artist/5Zc8dRhik5WK1nxjzcqwfC) | [Too good to be true/Nightmare](https://open.spotify.com/album/1pck3jumTdRmyaoZnvgsKR) | 5:12 | 2023-04-25 | 2023-06-12 |
-| [TRANSIT IN SUMMER](https://open.spotify.com/track/71rNG9Gx5bo66KCDjpkBUQ) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [TRANSIT IN SUMMER](https://open.spotify.com/album/7fr2UWTOYGTMx3cck8GOY1) | 4:25 | 2023-05-23 |  |
+| [TRANSIT IN SUMMER](https://open.spotify.com/track/71rNG9Gx5bo66KCDjpkBUQ) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [TRANSIT IN SUMMER](https://open.spotify.com/album/7fr2UWTOYGTMx3cck8GOY1) | 4:25 | 2023-05-23 | 2023-08-11 |
 | [TRANSIT IN SUMMER](https://open.spotify.com/track/32vDtAPTKgkLDzeRmwnJNQ) | [Kiyotaka Sugiyama](https://open.spotify.com/artist/5Zc8dRhik5WK1nxjzcqwfC), [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [OMEGA TRIBE GROOVE](https://open.spotify.com/album/7o5mbjGsvO2PrDkL1IRPch) | 4:30 | 2022-08-16 | 2022-08-24 |
 | [Treasure](https://open.spotify.com/track/5run1AkGCGYegjLSlsmvZn) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [SEASONS](https://open.spotify.com/album/3Gf0rgu4VC50g4ItRiEtao) | 4:01 | 2022-10-25 | 2023-07-12 |
 | [Twenty\-Twenty](https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Twenty\-Twenty](https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP) | 4:02 | 2023-05-02 |  |

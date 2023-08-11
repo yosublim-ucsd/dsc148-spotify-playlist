@@ -1,12 +1,12 @@
 {
   "description": "Hits zum Tanzen und Mitsingen - von damals bis heute.",
-  "num_followers": 1019935,
+  "num_followers": 1020056,
   "original_name": "Party Deluxe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZmQ5NmMwMjM4ZTczMmY4YjYyZmVhMTE4MGY3ODVhZTE3ZTY4MWJk",
+  "snapshot_id": "MCw3OWFkYjliYjFkMzE0YTYzMzJjNjI2MGE5NzEwNjkwMTA4ZTM0NTIx",
   "tracks": [
     {
       "added_at": "2023-06-30 14:33:23",
@@ -575,30 +575,6 @@
     {
       "added_at": "2023-06-30 14:33:23",
       "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
-      },
-      "artists": [
-        {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
-        },
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        }
-      ],
-      "duration_ms": 250373,
-      "name": "Yeah! (feat. Lil Jon & Ludacris)",
-      "url": "https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX"
-    },
-    {
-      "added_at": "2023-06-30 14:33:23",
-      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
       },
@@ -627,6 +603,30 @@
       "duration_ms": 167066,
       "name": "All The Small Things",
       "url": "https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU"
+    },
+    {
+      "added_at": "2023-06-30 14:33:23",
+      "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "duration_ms": 250373,
+      "name": "Yeah! (feat. Lil Jon & Ludacris)",
+      "url": "https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX"
     },
     {
       "added_at": "2023-06-30 14:33:23",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-06-30 14:33:23",
       "album": {
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 241599,
+      "name": "Jump - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
+    },
+    {
+      "added_at": "2023-06-30 14:33:23",
+      "album": {
         "name": "Heaven & Hell",
         "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
       },
@@ -915,38 +931,18 @@
     {
       "added_at": "2023-06-30 14:33:23",
       "album": {
-        "name": "Talk That Talk",
-        "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
       },
       "artists": [
         {
           "name": "Rihanna",
           "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         }
       ],
-      "duration_ms": 215226,
-      "name": "We Found Love",
-      "url": "https://open.spotify.com/track/0U10zFw4GlBacOy9VDGfGL"
-    },
-    {
-      "added_at": "2023-06-30 14:33:23",
-      "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 241599,
-      "name": "Jump - 2015 Remaster",
-      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
+      "duration_ms": 267080,
+      "name": "Don't Stop The Music",
+      "url": "https://open.spotify.com/track/0ByMNEPAPpOR5H69DVrTNy"
     },
     {
       "added_at": "2023-06-30 14:33:23",
@@ -1027,18 +1023,22 @@
     {
       "added_at": "2023-06-30 14:33:23",
       "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+        "name": "Talk That Talk",
+        "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         }
       ],
-      "duration_ms": 295515,
-      "name": "With Or Without You",
-      "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
+      "duration_ms": 215226,
+      "name": "We Found Love",
+      "url": "https://open.spotify.com/track/0U10zFw4GlBacOy9VDGfGL"
     },
     {
       "added_at": "2023-06-30 14:33:23",
@@ -1055,6 +1055,22 @@
       "duration_ms": 208680,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"
+    },
+    {
+      "added_at": "2023-06-30 14:33:23",
+      "album": {
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 295515,
+      "name": "With Or Without You",
+      "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
     },
     {
       "added_at": "2023-06-30 14:33:23",
@@ -1091,22 +1107,6 @@
       "duration_ms": 236133,
       "name": "Crazy In Love (feat. Jay-Z)",
       "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
-    },
-    {
-      "added_at": "2023-06-30 14:33:23",
-      "album": {
-        "name": "Good Girl Gone Bad: Reloaded",
-        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 267080,
-      "name": "Don't Stop The Music",
-      "url": "https://open.spotify.com/track/0ByMNEPAPpOR5H69DVrTNy"
     },
     {
       "added_at": "2023-06-30 14:33:23",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2023-06-30 14:33:23",
       "album": {
+        "name": "Music Of The Sun",
+        "url": "https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 246960,
+      "name": "Pon de Replay",
+      "url": "https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov"
+    },
+    {
+      "added_at": "2023-06-30 14:33:23",
+      "album": {
         "name": "Cheese",
         "url": "https://open.spotify.com/album/4kEbcH3VT6NYfpv8Wkkk80"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 202066,
       "name": "Party In The U.S.A.",
       "url": "https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1"
-    },
-    {
-      "added_at": "2023-06-30 14:33:23",
-      "album": {
-        "name": "Music Of The Sun",
-        "url": "https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 246960,
-      "name": "Pon de Replay",
-      "url": "https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov"
     },
     {
       "added_at": "2023-06-30 14:33:23",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2023-06-30 14:33:23",
       "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 219200,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH"
+    },
+    {
+      "added_at": "2023-06-30 14:33:23",
+      "album": {
         "name": "Piece Of Your Heart",
         "url": "https://open.spotify.com/album/0cqRGWD3uc5Lggpducn5nD"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 152913,
       "name": "Piece Of Your Heart",
       "url": "https://open.spotify.com/track/1DFD5Fotzgn6yYXkYsKiGs"
-    },
-    {
-      "added_at": "2023-06-30 14:33:23",
-      "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 219200,
-      "name": "Shake It Off",
-      "url": "https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH"
     },
     {
       "added_at": "2023-06-30 14:33:23",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2023-06-30 14:33:23",
       "album": {
-        "name": "Confessions on a Dance Floor",
-        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 337733,
-      "name": "Hung Up",
-      "url": "https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH"
-    },
-    {
-      "added_at": "2023-06-30 14:33:23",
-      "album": {
         "name": "Camino Palmero",
         "url": "https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 208600,
       "name": "Wherever You Will Go",
       "url": "https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz"
+    },
+    {
+      "added_at": "2023-06-30 14:33:23",
+      "album": {
+        "name": "Confessions on a Dance Floor",
+        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 337733,
+      "name": "Hung Up",
+      "url": "https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH"
     },
     {
       "added_at": "2023-06-30 14:33:23",
@@ -2339,22 +2339,6 @@
     {
       "added_at": "2023-06-30 14:33:23",
       "album": {
-        "name": "BREAK MY SOUL",
-        "url": "https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 278281,
-      "name": "BREAK MY SOUL",
-      "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
-    },
-    {
-      "added_at": "2023-06-30 14:33:23",
-      "album": {
         "name": "Fran\u00e7ois",
         "url": "https://open.spotify.com/album/17EANLCoErHdo9FpzMx25q"
       },
@@ -2367,6 +2351,22 @@
       "duration_ms": 266600,
       "name": "Voyage voyage",
       "url": "https://open.spotify.com/track/2d8D7uk3tbAThjRkdfrx9c"
+    },
+    {
+      "added_at": "2023-06-30 14:33:23",
+      "album": {
+        "name": "BREAK MY SOUL",
+        "url": "https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 278281,
+      "name": "BREAK MY SOUL",
+      "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
     },
     {
       "added_at": "2023-06-30 14:33:23",

@@ -1,12 +1,12 @@
 {
   "description": "nothing but bangers to help you with the grind ",
-  "num_followers": 531540,
+  "num_followers": 531635,
   "original_name": "Homework motivation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjE3NmY4YjQ5NzIxYTJiMDhlNGViZjBjMjlhZDJkZGRjNDIwM2Vj",
+  "snapshot_id": "MCwxNzBjYTVjNzk4ZmMwNzZkYWIyOGU3NDE0Nzk2Y2NhNmQyM2Y0YTQ4",
   "tracks": [
     {
       "added_at": "2023-07-28 04:00:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Takin' It Back",
-        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 134256,
-      "name": "Made You Look",
-      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Dial Drunk (with Post Malone)",
         "url": "https://open.spotify.com/album/4XahqkOmEsKLKEhBpX8DAe"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 213817,
       "name": "Dial Drunk (with Post Malone)",
       "url": "https://open.spotify.com/track/22VHOlVYBqytsrAqV8yXBK"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Takin' It Back",
+        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 134256,
+      "name": "Made You Look",
+      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -499,6 +499,26 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "Good Times Go",
+        "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        },
+        {
+          "name": "dazy",
+          "url": "https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x"
+        }
+      ],
+      "duration_ms": 163025,
+      "name": "Sunroof",
+      "url": "https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "BE",
         "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
       },
@@ -527,26 +547,6 @@
       "duration_ms": 217746,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Good Times Go",
-        "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
-      },
-      "artists": [
-        {
-          "name": "Nicky Youre",
-          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
-        },
-        {
-          "name": "dazy",
-          "url": "https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x"
-        }
-      ],
-      "duration_ms": 163025,
-      "name": "Sunroof",
-      "url": "https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -947,26 +947,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Hold Me Closer",
-        "url": "https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 202245,
-      "name": "Hold Me Closer",
-      "url": "https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Heartbroken (feat. Jessie Murph & Polo G)",
         "url": "https://open.spotify.com/album/4cfA6cGpQSXr8jMMxfnNaS"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 204325,
       "name": "Heartbroken (feat. Jessie Murph & Polo G)",
       "url": "https://open.spotify.com/track/6NdnvPwQvZb147DVa4x14h"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Hold Me Closer",
+        "url": "https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 202245,
+      "name": "Hold Me Closer",
+      "url": "https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Praising You (feat. Fatboy Slim)",
-        "url": "https://open.spotify.com/album/2FJeCuU3JcO6EQWsjAGIdu"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        },
-        {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
-        }
-      ],
-      "duration_ms": 164693,
-      "name": "Praising You (feat. Fatboy Slim)",
-      "url": "https://open.spotify.com/track/6jSvgAwRVrJIP0VYz5L2J8"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Levitating (feat. DaBaby)",
         "url": "https://open.spotify.com/album/04m06KhJUuwe1Q487puIud"
       },
@@ -1475,22 +1455,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Lottery (feat. LU KALA)",
-        "url": "https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4"
+        "name": "Praising You (feat. Fatboy Slim)",
+        "url": "https://open.spotify.com/album/2FJeCuU3JcO6EQWsjAGIdu"
       },
       "artists": [
         {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
         },
         {
-          "name": "LU KALA",
-          "url": "https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg"
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
         }
       ],
-      "duration_ms": 186761,
-      "name": "Lottery (feat. LU KALA)",
-      "url": "https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir"
+      "duration_ms": 164693,
+      "name": "Praising You (feat. Fatboy Slim)",
+      "url": "https://open.spotify.com/track/6jSvgAwRVrJIP0VYz5L2J8"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1515,6 +1495,26 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "Lottery (feat. LU KALA)",
+        "url": "https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "LU KALA",
+          "url": "https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg"
+        }
+      ],
+      "duration_ms": 186761,
+      "name": "Lottery (feat. LU KALA)",
+      "url": "https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Sit Still, Look Pretty",
         "url": "https://open.spotify.com/album/3NoYyHEGIa8as1c0cisZAt"
       },
@@ -1527,26 +1527,6 @@
       "duration_ms": 207761,
       "name": "Sit Still, Look Pretty",
       "url": "https://open.spotify.com/track/6ZtiywT2Qm50a1uR0jlY35"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Side Effects",
-        "url": "https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Lewis Thompson",
-          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
-        }
-      ],
-      "duration_ms": 153742,
-      "name": "Side Effects",
-      "url": "https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1571,6 +1551,26 @@
       "duration_ms": 178087,
       "name": "BED",
       "url": "https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Side Effects",
+        "url": "https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Lewis Thompson",
+          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
+        }
+      ],
+      "duration_ms": 153742,
+      "name": "Side Effects",
+      "url": "https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -2091,6 +2091,26 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 188731,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "All You Need Is Love",
         "url": "https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe"
       },
@@ -2111,26 +2131,6 @@
       "duration_ms": 139927,
       "name": "All You Need Is Love",
       "url": "https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 188731,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -2207,6 +2207,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "2ND FULL ALBUM 'REBOOT'",
+        "url": "https://open.spotify.com/album/4gQx8IC4zESV506dgNs0vR"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "duration_ms": 212901,
+      "name": "BONA BONA",
+      "url": "https://open.spotify.com/track/0IkWksfw3Qxob96bjFKhyF"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Magnets EP",
         "url": "https://open.spotify.com/album/41S9bfzXTSGK4HU2mp5qXH"
       },
@@ -2243,22 +2259,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Take My Breath",
-        "url": "https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 220196,
-      "name": "Take My Breath - Single Version",
-      "url": "https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Glad U Came",
         "url": "https://open.spotify.com/album/2H37NHuufU0kkwLhMwhdLj"
       },
@@ -2275,18 +2275,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "2ND FULL ALBUM 'REBOOT'",
-        "url": "https://open.spotify.com/album/4gQx8IC4zESV506dgNs0vR"
+        "name": "Take My Breath",
+        "url": "https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8"
       },
       "artists": [
         {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 212901,
-      "name": "BONA BONA",
-      "url": "https://open.spotify.com/track/0IkWksfw3Qxob96bjFKhyF"
+      "duration_ms": 220196,
+      "name": "Take My Breath - Single Version",
+      "url": "https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -2555,6 +2555,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "The Good Witch",
+        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 189413,
+      "name": "Lost The Breakup",
+      "url": "https://open.spotify.com/track/58VF5ob7qRB3yUzOYEAhyf"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "I Wrote A Song",
         "url": "https://open.spotify.com/album/5qlydNF8Z6kousaKWE5jRB"
       },
@@ -2587,22 +2603,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "The Good Witch",
-        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 189413,
-      "name": "Lost The Breakup",
-      "url": "https://open.spotify.com/track/58VF5ob7qRB3yUzOYEAhyf"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Following the Sun",
         "url": "https://open.spotify.com/album/51SEsgwoNiKu8rcZxQTjo4"
       },
@@ -2623,22 +2623,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "I'll Be There",
-        "url": "https://open.spotify.com/album/7o6j8wph7fvEcAL67jLVGN"
-      },
-      "artists": [
-        {
-          "name": "Jess Glynne",
-          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
-        }
-      ],
-      "duration_ms": 193923,
-      "name": "I'll Be There",
-      "url": "https://open.spotify.com/track/083Qf6hn6sFL6xiOHlZUyn"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Good Times Go",
         "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
       },
@@ -2651,6 +2635,22 @@
       "duration_ms": 141218,
       "name": "Shut Me Up",
       "url": "https://open.spotify.com/track/2uAUSVbBE3wtVEJQXHHVSx"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "I'll Be There",
+        "url": "https://open.spotify.com/album/7o6j8wph7fvEcAL67jLVGN"
+      },
+      "artists": [
+        {
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+        }
+      ],
+      "duration_ms": 193923,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/083Qf6hn6sFL6xiOHlZUyn"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -3091,6 +3091,26 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "In My Head (feat. Travis Barker)",
+        "url": "https://open.spotify.com/album/7CN4YY7AIz6Fh1FYNlRvaS"
+      },
+      "artists": [
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        }
+      ],
+      "duration_ms": 130117,
+      "name": "In My Head (feat. Travis Barker)",
+      "url": "https://open.spotify.com/track/3I3O8aazwBKkXN6RNjY06L"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Static Body",
         "url": "https://open.spotify.com/album/1vjv2EGhYcKReQ749C0fRu"
       },
@@ -3111,26 +3131,6 @@
       "duration_ms": 183439,
       "name": "Static Body",
       "url": "https://open.spotify.com/track/7erZjxEmGAduw6vqJLPBIs"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "In My Head (feat. Travis Barker)",
-        "url": "https://open.spotify.com/album/7CN4YY7AIz6Fh1FYNlRvaS"
-      },
-      "artists": [
-        {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
-        }
-      ],
-      "duration_ms": 130117,
-      "name": "In My Head (feat. Travis Barker)",
-      "url": "https://open.spotify.com/track/3I3O8aazwBKkXN6RNjY06L"
     },
     {
       "added_at": "2023-07-28 04:00:00",

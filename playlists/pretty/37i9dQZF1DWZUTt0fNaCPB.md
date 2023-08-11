@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 
 > No need for a gadget, just play these rock songs to set your pace!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,023,660 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,024,033 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 | 25 | [Sad But True \(Remastered\)](https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 5:24 |
 | 26 | [Indestructible](https://open.spotify.com/track/42ZVk59gT4tMlrZmd8Ijxf) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Indestructible \(Deluxe Edition\)](https://open.spotify.com/album/6hz9f6H7URtoigU517WjD6) | 4:38 |
 | 27 | [Superbeast](https://open.spotify.com/track/4eNnMvUrSu2TRpySjVC0Pv) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 3:40 |
-| 28 | [Stranded](https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Magma](https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w) | 4:29 |
-| 29 | [Thunder Kiss '65](https://open.spotify.com/track/4tvBoSWeIW0bjhKNre5mod) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [La Sexorcisto: Devil Music Volume 1](https://open.spotify.com/album/6Cvv0qNSdZNf9o0j8EohoD) | 3:54 |
+| 28 | [Thunder Kiss '65](https://open.spotify.com/track/4tvBoSWeIW0bjhKNre5mod) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [La Sexorcisto: Devil Music Volume 1](https://open.spotify.com/album/6Cvv0qNSdZNf9o0j8EohoD) | 3:54 |
+| 29 | [Stranded](https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Magma](https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w) | 4:29 |
 | 30 | [You're Going Down](https://open.spotify.com/track/5omWAB5iNMHvbAfBSzkdu8) | [Sick Puppies](https://open.spotify.com/artist/7qAcXJgt1PWnxwUgxMdyuk) | [Tri\-polar](https://open.spotify.com/album/17GBjeSa10SoUukS9lJCTv) | 3:07 |
 | 31 | [Cut the Cord](https://open.spotify.com/track/4LFBVDJV0xpayUvquQVzhS) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Threat to Survival](https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9) | 3:44 |
 | 32 | [Cryin' Like A Bitch!!](https://open.spotify.com/track/4a9i7rCLfPjbS1sNamZeQN) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [The Oracle \(Deluxe Edition\)](https://open.spotify.com/album/6yOWKkrlpmUWOC5yndULeq) | 3:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 | 74 | [Hell to Pay](https://open.spotify.com/track/6J97fOUqgVLcb1eg21QXjg) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six \(Deluxe\)](https://open.spotify.com/album/36S44cV7Qq3EN9dnnZj407) | 3:07 |
 | 75 | [Breathe Again](https://open.spotify.com/track/1NkHDIbGjHqFjZJrdHjQGZ) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Breathe Again](https://open.spotify.com/album/5S9HFBNWUGkRsurXXB6O0m) | 3:11 |
 
-Snapshot ID: `MCw0YTQ4N2ViMTU5ZGEzNWI2MDk0Nzk4NjdiZWMyNjVmNmRkZWNmMzMy`
+Snapshot ID: `MCxlN2M3YTE3N2I1YWEzYzVmYzMyMmRhYWRmY2RmZDRkMzIwYzZhZDdm`

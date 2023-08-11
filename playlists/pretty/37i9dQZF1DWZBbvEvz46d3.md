@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 
 > Nowe przeboje i ponadczasowe klasyki o  miłości\. Tylko po polsku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,215 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,251 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 25 | [Fiołkowe Pole](https://open.spotify.com/track/5bQFAKQF1mhcPPThw97kjw) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Piotrek Lewandowski](https://open.spotify.com/artist/2F9grKyrjes3vaNiPIvyWg) | [Pułapka Na Motyle](https://open.spotify.com/album/5ccwNrkxoiG2WdO5oJ0kbQ) | 2:39 |
 | 26 | [Ostatni \(Rojst '97 \| Netflix\)](https://open.spotify.com/track/2Q9d7ioRLIML42xctLcDgq) | [Tymek](https://open.spotify.com/artist/1silJqJQfrrZNFvWWjAyhh), [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY), [Urbanski](https://open.spotify.com/artist/7Myky2n7ro7FEMaf0HyHtE) | [Ostatni \(Rojst '97 \| Netflix\)](https://open.spotify.com/album/5XALEJKY8XmE190rk2NWgQ) | 3:39 |
 | 27 | [Najnowszy Klip](https://open.spotify.com/track/35UvOH0tRlSCdtWtaXuiWh) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [Małomiasteczkowy](https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX) | 3:49 |
-| 28 | [Lubię wracać tam gdzie byłem](https://open.spotify.com/track/4sHTqR2RQGsH5pSFqtXroU) | [Zbigniew Wodecki](https://open.spotify.com/artist/4WNxiqxAHcXWK9jWdevCIn) | [Zacznij od Bacha \(The Best\)](https://open.spotify.com/album/28orFXW0fOsrXHRnhFyNoo) | 4:22 |
-| 29 | [Nie Płacz Ewka](https://open.spotify.com/track/73YaDW2z8ZXgDvJUoQg9Bm) | [Perfect](https://open.spotify.com/artist/16UXmC2zY5ECiptfegWxFQ) | [Perfect](https://open.spotify.com/album/0Nh6afUMDBSCrWLdd1RuB8) | 5:42 |
+| 28 | [Nie Płacz Ewka](https://open.spotify.com/track/73YaDW2z8ZXgDvJUoQg9Bm) | [Perfect](https://open.spotify.com/artist/16UXmC2zY5ECiptfegWxFQ) | [Perfect](https://open.spotify.com/album/0Nh6afUMDBSCrWLdd1RuB8) | 5:42 |
+| 29 | [Lubię wracać tam gdzie byłem](https://open.spotify.com/track/4sHTqR2RQGsH5pSFqtXroU) | [Zbigniew Wodecki](https://open.spotify.com/artist/4WNxiqxAHcXWK9jWdevCIn) | [Zacznij od Bacha \(The Best\)](https://open.spotify.com/album/28orFXW0fOsrXHRnhFyNoo) | 4:22 |
 | 30 | [Wszystko](https://open.spotify.com/track/2ANM8tbPDekzhNOhJ55bV6) | [Kamil Holden Kryszak](https://open.spotify.com/artist/7pQ9JOUN2x6CCUhAEtCpdj), [Justyna Święs](https://open.spotify.com/artist/3jWejUYPufnWdb1eMRxIUQ) | [Piosenki o miłości \(Muzyka z filmu\)](https://open.spotify.com/album/7qZdfKzSm1AnFHVUJxoJOJ) | 4:32 |
 | 31 | [Safari](https://open.spotify.com/track/6iWe35n6ufDWMQaNUTDXdN) | [Piotr Zioła](https://open.spotify.com/artist/70W7rQt07eDkynzl9JqHAB) | [Revolving Door](https://open.spotify.com/album/5AzZFFyTZnxQ8lqNlTOp88) | 3:36 |
 | 32 | [Melodia](https://open.spotify.com/track/3xlk3SVStmEGEWx5FtqpkW) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Królowa dram](https://open.spotify.com/album/57y8HhpAZJ7SkeetSXvTya) | 3:03 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 48 | [Syreny](https://open.spotify.com/track/5jnPsCxNjmGFmkcWYZ8YCS) | [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH) | [Składam się z ciągłych powtórzeń](https://open.spotify.com/album/6yxLszvctvcxmKlGmMaPY3) | 3:36 |
 | 49 | [Słucham Cię w radiu co tydzień](https://open.spotify.com/track/6h0UXt92WNnRthd0t1AVaq) | [Ania Karwan](https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4) | [Ania Karwan](https://open.spotify.com/album/3tXnKtoEc9lzcWOy5EnkZA) | 3:17 |
 | 50 | [Kazdego dnia](https://open.spotify.com/track/79zCUDHcdzl40CRmIeOLI5) | [Mesajah](https://open.spotify.com/artist/4y484bkOThTJopbKXdp3qC) | [Ludzie prosci](https://open.spotify.com/album/6chn887fKwWnMV4fYifmRv) | 3:50 |
-| 51 | [Będziesz moją panią](https://open.spotify.com/track/34BMY6d2POkFLERCJPOrlS) | [Marek Grechuta](https://open.spotify.com/artist/0MGE7m2KV6Db6jOZFy93aD), [Anawa](https://open.spotify.com/artist/6bbsYS6Md0rRnPuIUCyMZ8) | [Marek Grechuta \- 40 piosenek](https://open.spotify.com/album/08N6LcpBklQjvbUHTghAvR) | 1:44 |
-| 52 | [Zabierz tę miłość \(Storytel "Random"\)](https://open.spotify.com/track/25vX1mMJilMWIc5Ht6hkGj) | [Maciej Musiałowski](https://open.spotify.com/artist/6MlVGjgieHwMJCPBjU41dN), [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD) | [Zabierz tę miłość \(Storytel "Random"\)](https://open.spotify.com/album/0z6QIndzIRBS2pDAL1XECw) | 4:09 |
+| 51 | [Zabierz tę miłość \(Storytel "Random"\)](https://open.spotify.com/track/25vX1mMJilMWIc5Ht6hkGj) | [Maciej Musiałowski](https://open.spotify.com/artist/6MlVGjgieHwMJCPBjU41dN), [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD) | [Zabierz tę miłość \(Storytel "Random"\)](https://open.spotify.com/album/0z6QIndzIRBS2pDAL1XECw) | 4:09 |
+| 52 | [Będziesz moją panią](https://open.spotify.com/track/34BMY6d2POkFLERCJPOrlS) | [Marek Grechuta](https://open.spotify.com/artist/0MGE7m2KV6Db6jOZFy93aD), [Anawa](https://open.spotify.com/artist/6bbsYS6Md0rRnPuIUCyMZ8) | [Marek Grechuta \- 40 piosenek](https://open.spotify.com/album/08N6LcpBklQjvbUHTghAvR) | 1:44 |
 | 53 | [Miales Byc](https://open.spotify.com/track/7aKwFVDQG0MUBX41I5esiU) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY) | [Album](https://open.spotify.com/album/4oZuI7SK8SQekemwxiX71E) | 3:29 |
 | 54 | [Niewiele Ci Mogę Dać](https://open.spotify.com/track/6dcudkZz9XlmfPw0ZHREU1) | [Perfect](https://open.spotify.com/artist/16UXmC2zY5ECiptfegWxFQ) | [Perfect](https://open.spotify.com/album/0Nh6afUMDBSCrWLdd1RuB8) | 3:43 |
 | 55 | [Nikt tak pięknie nie mówił, że się boi miłości](https://open.spotify.com/track/1kNPvVDqN2KZZrOhyqEiux) | [Pidżama Porno](https://open.spotify.com/artist/0qibngGI3EFCen6abY5hqY) | [Bułgarskie centrum](https://open.spotify.com/album/30EQdPcM7Lf3IuKBw2WCau) | 6:14 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 62 | [W Glowie](https://open.spotify.com/track/5xIwk3q4x3ptb6oedWlKf0) | [Ania Dąbrowska](https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO) | [Dla Naiwnych Marzycieli](https://open.spotify.com/album/0oGiggXuV7aZA3omAELhiR) | 3:25 |
 | 63 | [Dmuchawce, Latawce, Wiatr](https://open.spotify.com/track/4itxKC1nLYQ8H4e2ejj1E3) | [Urszula](https://open.spotify.com/artist/6vIPbNGbwdrg7LSpz4V2QX) | [Wielki Odlot 2 \- Najlepsze 80\-te](https://open.spotify.com/album/47q9qzxUVT9p21WJPJicYI) | 5:26 |
 | 64 | [Pomimo Burz](https://open.spotify.com/track/0Xu1HbWgsThPFbZpWs472M) | [Antek Smykiewicz](https://open.spotify.com/artist/6JMMItXorCRjzNQeGDd863) | [Nasz Film \(Deluxe Edition\)](https://open.spotify.com/album/3x8ju0GxwF7NLPgPjAIS4T) | 3:22 |
-| 65 | [Helena](https://open.spotify.com/track/5HoGLRydfDTwIWGrTzJPbQ) | [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [Helena](https://open.spotify.com/album/7HYiz2pwAzXulTpWcL5ZtD) | 3:51 |
-| 66 | [Prawda o nas](https://open.spotify.com/track/5KTFOn80Y1tHAmBBb39sw9) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [Prawda o nas](https://open.spotify.com/album/1x8GzWSyYrqK2HPwSFAYXc) | 3:15 |
+| 65 | [Prawda o nas](https://open.spotify.com/track/5KTFOn80Y1tHAmBBb39sw9) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [Prawda o nas](https://open.spotify.com/album/1x8GzWSyYrqK2HPwSFAYXc) | 3:15 |
+| 66 | [Helena](https://open.spotify.com/track/5HoGLRydfDTwIWGrTzJPbQ) | [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [Helena](https://open.spotify.com/album/7HYiz2pwAzXulTpWcL5ZtD) | 3:51 |
 | 67 | [Bez Ciebie](https://open.spotify.com/track/28rASnN07Gun1cXpOsbCHo) | [Dawid Kwiatkowski](https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC) | [Bez Ciebie](https://open.spotify.com/album/2XX6T9V5MPE35hZRDrBJgR) | 3:18 |
 | 68 | [Nie kłam że mnie kochasz](https://open.spotify.com/track/0Xj3MeniDBK33I1YZcqlqP) | [Ewelina Flinta](https://open.spotify.com/artist/3gd9XZQnyJXTVfLZh1BF6v), [Łukasz Zagrobelny](https://open.spotify.com/artist/1AnN7D0tGyWS5d3l38oqR0) | [Nie kłam że mnie kochasz](https://open.spotify.com/album/4E8A1oe3EKWx8AFeFJ0Fz0) | 3:06 |
 | 69 | [Nie mam dla Ciebie miłości \- Kayax XX Rework](https://open.spotify.com/track/5hOFfDyhM9kSFyMBCmgAk5) | [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD), [Kuba Karaś](https://open.spotify.com/artist/39ycziDyXzRblGDq5L243I) | [Omamy](https://open.spotify.com/album/4izFXcjIxPzX86R1hRAUbD) | 3:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 74 | [Niech no tylko zakwitną jabłonie](https://open.spotify.com/track/4MwftOfY0ufMcOP4rtmtCg) | [Bitamina](https://open.spotify.com/artist/2EJzUdaDAwfqcjpQcRAYdQ) | [Niech no tylko zakwitną jabłonie](https://open.spotify.com/album/6qHFJJQdzanqKZ0jcqx5nb) | 2:37 |
 | 75 | [O Sobie Samym](https://open.spotify.com/track/01FN979nyz1gmdsfWZv5OL) | [Robert Gawlinski](https://open.spotify.com/artist/32qNyW2sjyjjPDQamC2f9O) | [Solo](https://open.spotify.com/album/1UaJL8ydW6w4VL5ECw27ew) | 3:02 |
 
-Snapshot ID: `MCw0MTg5ZDdkNzhlN2YzMGYwYjBiYTU5ZWNkODNmODhjOGY2OWMxZjQ2`
+Snapshot ID: `MCxjYzZlN2UzNjAwYzJkYzYzYjQzNjZjNjk1OTljZmMyZDVmMWFiMGM4`

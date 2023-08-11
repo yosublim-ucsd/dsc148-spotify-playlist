@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3AMXrG.md) - [plain]
 
 > This is Cultura Profética\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,557 likes - 50 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,620 likes - 49 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ilegal](https://open.spotify.com/track/55nSQ0bhYhnN9Gr6yKAF86) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A) | 5:06 |
 | 2 | [Mi Balcon](https://open.spotify.com/track/05SZ279Bnz9Zst21BMoZWg) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Melodrama](https://open.spotify.com/album/6Q5EvqV3Vj9wKee5N2fK6E) | 4:19 |
-| 3 | [Un Deseo](https://open.spotify.com/track/0d70EuIo3ziqTj5LvMYZCl) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [M\. O\. T\. A.](https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7) | 5:22 |
-| 4 | [Saca, Prende y Sorprende](https://open.spotify.com/track/67v6edtYPUYnzaElq4U37Q) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Saca, Prende Y Sorprende](https://open.spotify.com/album/3fxbfhM7Cm7dKdSVvJAv8u) | 5:57 |
+| 3 | [Saca, Prende y Sorprende](https://open.spotify.com/track/67v6edtYPUYnzaElq4U37Q) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Saca, Prende Y Sorprende](https://open.spotify.com/album/3fxbfhM7Cm7dKdSVvJAv8u) | 5:57 |
+| 4 | [Un Deseo](https://open.spotify.com/track/0d70EuIo3ziqTj5LvMYZCl) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [M\. O\. T\. A.](https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7) | 5:22 |
 | 5 | [La Complicidad](https://open.spotify.com/track/0yAc7tMrxA3KwdVpVDe402) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A) | 6:04 |
 | 6 | [Te Creí](https://open.spotify.com/track/60c5SSCLMt13B27d6Df4dP) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Carta](https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl) | 4:02 |
 | 7 | [De Antes](https://open.spotify.com/track/3aZQgYCIcO2OQHU7bPvt5R) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Diario](https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91) | 5:04 |
@@ -52,11 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3AMXrG.md) - [plain]
 | 42 | [La Otra Galaxia](https://open.spotify.com/track/0MHaoEf98Uug7ft75wnsBV) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Ideas Nuevas](https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R) | 2:13 |
 | 43 | [Bocanada \- En Vivo](https://open.spotify.com/track/7sJka3hr6kdXGrxWHIEWUm) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [15 Aniversario en el Luna Park](https://open.spotify.com/album/6g8zQxyKvT4Vus79FtKHnc) | 4:29 |
 | 44 | [La Musica](https://open.spotify.com/track/1UWRoVKwatWvKCMFfn6Z6P) | [Rastrillos](https://open.spotify.com/artist/7oVQXVtyLC8b7pxGefZX50), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Codigos Del Alma](https://open.spotify.com/album/3gpM7IpvTpE1ByLL1aR0lS) | 5:07 |
-| 45 | [Despertar](https://open.spotify.com/track/0JgjwTH0UqqsEtJo6f3rl1) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Canción de Alerta](https://open.spotify.com/album/28PuYwXsKVqszvz05ErQ0q) | 4:06 |
+| 45 | [No Me Busques \- En Vivo](https://open.spotify.com/track/0WNinVHIhlq6UX1Eid5Ule) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Cultura en Vivo](https://open.spotify.com/album/62VgrbgZu3QeB8a3p1yYz8) | 6:25 |
 | 46 | [Ley Natural](https://open.spotify.com/track/2FthRSpEy044BM8QkoqeeP) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Ideas Nuevas](https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R) | 6:22 |
 | 47 | [Population Disorder / Tempestad Tranquila / Ideas Nuevas \- En Vivo](https://open.spotify.com/track/23jnxVzlzYjpX2YZtnrjdA) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [15 Aniversario en el Luna Park](https://open.spotify.com/album/6g8zQxyKvT4Vus79FtKHnc) | 8:44 |
-| 48 | [No Me Busques \- En Vivo](https://open.spotify.com/track/0WNinVHIhlq6UX1Eid5Ule) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Cultura en Vivo](https://open.spotify.com/album/62VgrbgZu3QeB8a3p1yYz8) | 6:25 |
-| 49 | [Pimper's Paradise \- Live](https://open.spotify.com/track/0hN3PFAINvpvhjV4v6CmTu) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Tribute to the Legend Bob Marley \(Live\)](https://open.spotify.com/album/1a13hH48fVZwvpODjcnjoi) | 4:16 |
-| 50 | [Rompiendo el Letargo](https://open.spotify.com/track/3qvrUtUDm9mkXsIB5qK9vL) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Ideas Nuevas](https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R) | 6:58 |
+| 48 | [Rompiendo el Letargo](https://open.spotify.com/track/3qvrUtUDm9mkXsIB5qK9vL) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Ideas Nuevas](https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R) | 6:58 |
+| 49 | [¿Qué Será? / Ritmo Que Pesa / Suelta los Amarres / Revolución en Estéreo / Lo de Más \- En Vivo](https://open.spotify.com/track/09BZvRoyzf58jpjBStkEzg) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [15 Aniversario en el Luna Park](https://open.spotify.com/album/6g8zQxyKvT4Vus79FtKHnc) | 13:54 |
 
-Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDBmZDgyMzc1MWVjODU2ZGQ5M2YwNDZiYjRjNGNmZmZjYg==`
+Snapshot ID: `MjgxOTQ1NjQsMDAwMDAwMDA0MDk5NDEyMWViNjAzNjJjNjUxMTA5ZmNjNThhMDExYw==`

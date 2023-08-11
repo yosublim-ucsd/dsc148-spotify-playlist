@@ -2380,7 +2380,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 200156,
       "name": "Ascend",
       "url": "https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2"
@@ -2492,7 +2492,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
@@ -2514,6 +2514,28 @@
       "duration_ms": 205275,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/20AShtCDWSiJw1jyGLxCYM"
+    },
+    {
+      "album": {
+        "name": "Automotivo Bibi Fogosa",
+        "url": "https://open.spotify.com/album/0Hj2X0CQBjpWapFzNQGbk2"
+      },
+      "artists": [
+        {
+          "name": "Bibi Babydoll",
+          "url": "https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV"
+        },
+        {
+          "name": "Dj Brunin XM",
+          "url": "https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129776,
+      "name": "Automotivo Bibi Fogosa",
+      "url": "https://open.spotify.com/track/4kRLRWnn5u9wO2wOKAAdEN"
     },
     {
       "album": {
@@ -15388,6 +15410,28 @@
       "duration_ms": 158133,
       "name": "Jericho",
       "url": "https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh"
+    },
+    {
+      "album": {
+        "name": "JERK!",
+        "url": "https://open.spotify.com/album/2aN5HgEHkTi0DR0g0AkWHc"
+      },
+      "artists": [
+        {
+          "name": "jnhygs",
+          "url": "https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh"
+        },
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131262,
+      "name": "JERK!",
+      "url": "https://open.spotify.com/track/6FRiFD0r9Mnv9VFnW4A7wB"
     },
     {
       "album": {

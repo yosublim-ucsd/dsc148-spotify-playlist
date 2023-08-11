@@ -1,12 +1,12 @@
 {
   "description": "Easy rock for that peaceful, easy feeling. Cover: U2",
-  "num_followers": 9329,
+  "num_followers": 9421,
   "original_name": "Easy Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDZkMWExYmQ1NGUxN2E0ZjE4MzU5MDJlOGYwNjJlNDgxOTNlOTkw",
+  "snapshot_id": "MCwyNWU1YmJlZDkyYzk5NzNiNTFlMjI4MTVjMDVkYmQ1ZTQyYTRlYmVl",
   "tracks": [
     {
       "added_at": "2023-04-11 13:31:58",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Madman Across The Water",
-        "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 377093,
-      "name": "Tiny Dancer",
-      "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Make Yourself",
         "url": "https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 232453,
       "name": "Drive",
       "url": "https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Madman Across The Water",
+        "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 377093,
+      "name": "Tiny Dancer",
+      "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "The Beatles (Remastered)",
-        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 138386,
-      "name": "Blackbird - Remastered 2009",
-      "url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "All Things Must Pass (2014 Remaster)",
         "url": "https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 281231,
       "name": "My Sweet Lord - 2014 Remaster",
       "url": "https://open.spotify.com/track/6vE90mi4yKsQGY3YD2OOv1"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 138386,
+      "name": "Blackbird - Remastered 2009",
+      "url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Ghost Stories",
-        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 285014,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Greatest Hits Volume One - The Singles",
         "url": "https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 289906,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6vrUTGn5p8IrfTZ0J6sIVM"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Ghost Stories",
+        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 285014,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Parachutes",
-        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 273426,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/0R8P9KfGJCDULmlEoBagcO"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Yourself or Someone Like You",
         "url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 200293,
       "name": "Keep on Loving You",
       "url": "https://open.spotify.com/track/4rcHWl68ai6KvpXlc8vbnE"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Parachutes",
+        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 273426,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/0R8P9KfGJCDULmlEoBagcO"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Wheels Are Turnin'",
-        "url": "https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR"
-      },
-      "artists": [
-        {
-          "name": "REO Speedwagon",
-          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
-        }
-      ],
-      "duration_ms": 294773,
-      "name": "Can't Fight This Feeling",
-      "url": "https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Immortalized",
         "url": "https://open.spotify.com/album/3qFQ4XNQ15alZrAaj5oGJK"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 269760,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/1Qrdlkgg9I4J7r3P4kZNwr"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Wheels Are Turnin'",
+        "url": "https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR"
+      },
+      "artists": [
+        {
+          "name": "REO Speedwagon",
+          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
+        }
+      ],
+      "duration_ms": 294773,
+      "name": "Can't Fight This Feeling",
+      "url": "https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS"
-      },
-      "artists": [
-        {
-          "name": "Jeff Buckley",
-          "url": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
-        }
-      ],
-      "duration_ms": 413826,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Chaos And The Calm",
         "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 260532,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS"
+      },
+      "artists": [
+        {
+          "name": "Jeff Buckley",
+          "url": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+        }
+      ],
+      "duration_ms": 413826,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Misguided Roses",
-        "url": "https://open.spotify.com/album/1JB1Zvcddt81PiipQQC319"
-      },
-      "artists": [
-        {
-          "name": "Edwin McCain",
-          "url": "https://open.spotify.com/artist/0L6Gwm0JDrgIQJfjarWSUR"
-        }
-      ],
-      "duration_ms": 266533,
-      "name": "I'll Be",
-      "url": "https://open.spotify.com/track/5K7AMlpc4796JRWXb26nCV"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "America Town",
         "url": "https://open.spotify.com/album/5MqEXYwwyJYjOb3g7vJ9ZY"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 221693,
       "name": "Superman (It's Not Easy)",
       "url": "https://open.spotify.com/track/3TwtrR1yNLY1PMPsrGQpOp"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Misguided Roses",
+        "url": "https://open.spotify.com/album/1JB1Zvcddt81PiipQQC319"
+      },
+      "artists": [
+        {
+          "name": "Edwin McCain",
+          "url": "https://open.spotify.com/artist/0L6Gwm0JDrgIQJfjarWSUR"
+        }
+      ],
+      "duration_ms": 266533,
+      "name": "I'll Be",
+      "url": "https://open.spotify.com/track/5K7AMlpc4796JRWXb26nCV"
     },
     {
       "added_at": "2023-04-11 13:31:58",

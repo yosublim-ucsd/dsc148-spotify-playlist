@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-1,812 songs - 4 day 1 hr 58 min
+1,814 songs - 4 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,14 +126,15 @@
 | [Arya \(feat\. A$AP Rocky\)](https://open.spotify.com/track/0Rq6JJwpZ9f1SU6Cfhgjv7) | [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Arya](https://open.spotify.com/album/4r58Om6YuN9gjnHim6y6mg) | 2:42 | 2022-02-22 | 2022-03-02 |
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-05-22 | 2022-06-15 |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-26 | 2022-05-23 |
-| [Ascend](https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [Ascend](https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk) | 3:20 | 2023-07-05 |  |
+| [Ascend](https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [Ascend](https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk) | 3:20 | 2023-07-05 | 2023-08-11 |
 | [Ascensionism](https://open.spotify.com/track/2Z1eWq9VOXkCzUmcU6uoNe) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 7:08 | 2023-06-13 | 2023-06-21 |
 | [Así Lo Quiso Dios](https://open.spotify.com/track/6X5WZbJzXtk6aO03HlxuZ9) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 3:25 | 2023-05-24 | 2023-06-14 |
 | [Attack of the Killer Beast \(Phonk\)](https://open.spotify.com/track/1nJOtOQJqzHaxh8kzuudxR) | [SXCREDMANE](https://open.spotify.com/artist/7MLzeghYGtox25YcP078j9) | [Attack of the Killer Beast \(Phonk\)](https://open.spotify.com/album/2Co4pvEvpsBHIGXufGc3p3) | 2:16 | 2023-02-15 | 2023-03-15 |
 | [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 | 2023-07-11 | 2023-07-14 |
 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 | 2022-08-23 | 2022-09-28 |
-| [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2022-08-02 |  |
+| [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2022-08-02 | 2023-08-11 |
 | [Aurora](https://open.spotify.com/track/20AShtCDWSiJw1jyGLxCYM) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [AURORA](https://open.spotify.com/album/4ouqACcnzsOvtUlnj5abyo) | 3:25 | 2023-04-01 | 2023-04-03 |
+| [Automotivo Bibi Fogosa](https://open.spotify.com/track/4kRLRWnn5u9wO2wOKAAdEN) | [Bibi Babydoll](https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV), [Dj Brunin XM](https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3) | [Automotivo Bibi Fogosa](https://open.spotify.com/album/0Hj2X0CQBjpWapFzNQGbk2) | 2:09 | 2023-08-10 |  |
 | [AVA](https://open.spotify.com/track/7bdpStmJdlw9GKBPTOkDwT) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [AVA](https://open.spotify.com/album/63WPi0R6qTveHv31Djy7D1) | 2:39 | 2022-12-13 | 2022-12-20 |
 | [AWKWARD FREESTYLE](https://open.spotify.com/track/2ISyz9DRGEMrJN77ge3hi2) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [AWKWARD FREESTYLE](https://open.spotify.com/album/2NCexUw6m7UA2YitYdirbV) | 2:07 | 2022-07-17 | 2022-09-06 |
 | [ay! \(feat\. Lil Wayne\)](https://open.spotify.com/track/1T4tQ4SSagbhAKpvcWg035) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:04 | 2022-03-29 | 2022-04-05 |
@@ -793,6 +794,7 @@
 | [J.](https://open.spotify.com/track/4lUsBLTAiufWocWtg4H0my) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado](https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh) | 3:54 | 2022-07-08 | 2022-07-15 |
 | [Jaded](https://open.spotify.com/track/3AAY8YicetRPlDAkibHLiS) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:05 | 2023-04-04 | 2023-04-09 |
 | [Jericho](https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh) | [Iniko](https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY) | [Jericho](https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh) | 2:38 | 2023-05-09 | 2023-07-19 |
+| [JERK!](https://open.spotify.com/track/6FRiFD0r9Mnv9VFnW4A7wB) | [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [JERK!](https://open.spotify.com/album/2aN5HgEHkTi0DR0g0AkWHc) | 2:11 | 2023-08-10 |  |
 | [Jersey Giant](https://open.spotify.com/track/35jC1Olo0e03VNmFIs8bqJ) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP), [Julia DiGrazia](https://open.spotify.com/artist/3bz9DtEGIYBic48d2q5m4R) | [Jersey Giant](https://open.spotify.com/album/3BU6LfvwZw8V52rHbXgoSu) | 4:16 | 2023-01-20 | 2023-02-03 |
 | [jersey luv](https://open.spotify.com/track/50kWigrg0O9DFUzzbgJMZO) | [GROOVY](https://open.spotify.com/artist/6Y6qIKwe32BxNflpxbKsJc), [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo) | [jersey luv](https://open.spotify.com/album/6z30pC8bxK3JIWRhLLbXwr) | 3:49 | 2023-08-03 |  |
 | [jersey luv](https://open.spotify.com/track/2Z2MAil7tpZhHOB2noIJUd) | [GROOVY](https://open.spotify.com/artist/6Y6qIKwe32BxNflpxbKsJc), [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo) | [jersey luv](https://open.spotify.com/album/0d6POIYXleUr4Wrh0oRk8U) | 3:51 | 2023-07-01 | 2023-08-04 |

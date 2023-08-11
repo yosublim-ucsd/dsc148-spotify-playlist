@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: Official髭男dism
 
-672 songs - 1 day 17 hr 50 min
+673 songs - 1 day 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [BAN BAN TONIGHT](https://open.spotify.com/track/5aREMg9DtUfZq2tEQly7Bs) | [BRADIO](https://open.spotify.com/artist/4bykb0rz2eT2t2kzihCsne) | [BAN BAN TONIGHT](https://open.spotify.com/album/2hQiOey1PkuuZZMpMEKw4r) | 5:22 | 2023-04-25 | 2023-05-03 |
 | [BANTAM](https://open.spotify.com/track/4JeZNqDNEFkSkdaDp9THEl) | [Koshi Inaba](https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls) | [BANTAM](https://open.spotify.com/album/2nrq0af3Pz9qzYe0zpXteI) | 3:34 | 2023-02-07 | 2023-03-08 |
 | [Be My Baby](https://open.spotify.com/track/0JFVcuL8oIyF0JVm6cTNvx) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [Be My Baby](https://open.spotify.com/album/3aaFwxMjrSsmPWZpJ7Ig0H) | 3:49 | 2023-07-04 | 2023-07-06 |
-| [Be My Baby](https://open.spotify.com/track/7rTDgZStUEXS4suFRnewjl) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [Be My Baby](https://open.spotify.com/album/0iccOoJs0Id7qeP40Wbuch) | 3:49 | 2023-07-04 |  |
+| [Be My Baby](https://open.spotify.com/track/7rTDgZStUEXS4suFRnewjl) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [Be My Baby](https://open.spotify.com/album/0iccOoJs0Id7qeP40Wbuch) | 3:49 | 2023-07-04 | 2023-08-11 |
 | [BeachBoys](https://open.spotify.com/track/2xpf1fRlCbTRf7aLhyt06u) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [BeachBoys](https://open.spotify.com/album/3igMRAOzbW8TJH7xoIaylg) | 2:18 | 2023-02-14 | 2023-03-03 |
 | [Better Left Unsaid](https://open.spotify.com/track/1mBUIIEyK9jRMnY9cGknNH) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Better Left Unsaid](https://open.spotify.com/album/0Bvhx5LTA2K3XWAXqrypCj) | 3:26 | 2023-05-16 | 2023-07-05 |
 | [Big tree song\(Hiroshi Takano remix\)](https://open.spotify.com/track/39Ma2cgdxwlol0dgMaMwII) | [GRAPEVINE](https://open.spotify.com/artist/7LPp4MiQ8yxVUxhxipe0mm), [Hiroshi Takano](https://open.spotify.com/artist/1Z3tfBrHfzbWjvnOQh9GnO) | [Big tree song\(Hiroshi Takano remix\)](https://open.spotify.com/album/0nd4eeZllrxxWNFhrhlaHL) | 4:10 | 2023-06-13 | 2023-06-15 |
@@ -586,6 +586,7 @@
 | [幽霊街と逆説](https://open.spotify.com/track/18cwYEaLXZZqDjZBkBJQgW) | [Hello Sleepwalkers](https://open.spotify.com/artist/12CmFAwzxYnVtJgnzIysvm) | [幽霊街と逆説](https://open.spotify.com/album/1VoEjv46m3RcBz1JGp75Pn) | 3:31 | 2023-08-08 | 2023-08-10 |
 | [彼氏有無](https://open.spotify.com/track/4vNSATS2LiCbgglkCicAuW) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [愛の花](https://open.spotify.com/album/2NmG6Y6VLcADLZ9msKxcve) | 3:35 | 2023-06-06 | 2023-06-10 |
 | [忘れたくない](https://open.spotify.com/track/2GiHqnyIrhF7nTG4eXGiHS) | [mol\-74](https://open.spotify.com/artist/7sVShwPweG5PNLgVPdWlbx) | [きおくのすみか](https://open.spotify.com/album/4Z4th95ji6NrTFwdImP1xv) | 3:18 | 2023-07-18 |  |
+| [忘れっぽいんだ](https://open.spotify.com/track/4CVSEhpfVizwsj6xMJEhwV) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [忘れっぽいんだ](https://open.spotify.com/album/1yxGeNRH02oKEP5IZTxrM7) | 4:17 | 2023-08-10 |  |
 | [応援歌](https://open.spotify.com/track/1I2NbDvy7SNOjB4sGtwpxu) | [南無阿部陀仏](https://open.spotify.com/artist/5d3O7Y0ejEy42d6QJaqCvQ) | [応援歌](https://open.spotify.com/album/5Q8vPSUAVNq7ex26Sh9NXN) | 3:27 | 2023-06-06 | 2023-07-12 |
 | [怪物たちよ](https://open.spotify.com/track/5krBK1TJTetrfDGzVcyq6f) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [怪物たちよ](https://open.spotify.com/album/1ZrTplBiIjywcJJ0xQ2o3D) | 5:20 | 2023-01-31 | 2023-02-02 |
 | [怪獣のサイズ](https://open.spotify.com/track/6RCM11KBFLJUtRcKG8l796) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [怪獣のサイズ](https://open.spotify.com/album/2e12G3Csy88WQeCNXRYVQo) | 3:30 | 2023-08-03 |  |

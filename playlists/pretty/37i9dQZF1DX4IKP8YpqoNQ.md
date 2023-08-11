@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 
 > Experience the best live performances\. Check out live soul albums <a href="spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,669 likes - 100 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,675 likes - 100 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,16 +62,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 | 52 | [Compared to What \- Live](https://open.spotify.com/track/2Qqf36BJKwvvgfShjz5zII) | [Eddie Harris](https://open.spotify.com/artist/0bcDOCWIbvWApEIB7l1uZ4), [Les McCann](https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI) | [Compared to What](https://open.spotify.com/album/693i4e5RnbFRb0j3Y2jky3) | 8:43 |
 | 53 | [Coming Home \- Live at SXSW 2015](https://open.spotify.com/track/6KgfC7SPNby1wdzkB6EgTJ) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Spotify Sessions](https://open.spotify.com/album/0wBCYSK8mkAdwh5JJMe3C2) | 3:48 |
 | 54 | [Ascension \(Don't Ever Wonder\) \- Live from MTV Unplugged, Brooklyn, NY \- May 1997](https://open.spotify.com/track/5GAg6qfapUvyTpu7Zb1EWy) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [MTV Unplugged](https://open.spotify.com/album/5ejwNegV5hPkQRyMi7CiCs) | 5:10 |
-| 55 | [That's Life \- Live At The Apollo Theater, 1967](https://open.spotify.com/track/0jA9aoNAGU3J9YX0fEUZXO) | [James Brown & The Famous Flames](https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr) | ['Live' At The Apollo \(Vol\. II\)](https://open.spotify.com/album/3jbnkGDaYChChu5Cs8LEvD) | 4:07 |
-| 56 | [Claustrophobic \(feat\. Keyon Harrold\) \- Live](https://open.spotify.com/track/6iT6Kah1ZZeCMGxKDmwcZF) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Gumbo Unplugged \(Live\)](https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6) | 5:10 |
+| 55 | [Claustrophobic \(feat\. Keyon Harrold\) \- Live](https://open.spotify.com/track/6iT6Kah1ZZeCMGxKDmwcZF) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Gumbo Unplugged \(Live\)](https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6) | 5:10 |
+| 56 | [That's Life \- Live At The Apollo Theater, 1967](https://open.spotify.com/track/0jA9aoNAGU3J9YX0fEUZXO) | [James Brown & The Famous Flames](https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr) | ['Live' At The Apollo \(Vol\. II\)](https://open.spotify.com/album/3jbnkGDaYChChu5Cs8LEvD) | 4:07 |
 | 57 | [Peg \- Live](https://open.spotify.com/track/4Us2AWyR40tWO9mtJiBx44) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Alive In America](https://open.spotify.com/album/66rBZ848b4aO0hCJQF6GGc) | 4:19 |
 | 58 | [Butterflies \- Live At The House Of Blues, New Orleans / 2003](https://open.spotify.com/track/1jtYZUkR3Zr3jzWPI4skzV) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floacism "Live"](https://open.spotify.com/album/09dDtTXan9iHABpbgea1oa) | 4:29 |
 | 59 | [Never Too Much \- Live at Radio City Music Hall, New York \- Feb\. 12, 2003](https://open.spotify.com/track/13lur7EjGHqLbKCaJRh5aG) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Live Radio City Music Hall 2003](https://open.spotify.com/album/5wq0AUenn2o3RXoBelNsxu) | 4:02 |
 | 60 | [Misty Blue \- Live](https://open.spotify.com/track/7JF7x0QgaE2exhkcAsT1a4) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [The Tour](https://open.spotify.com/album/5V0EoaXr2iR8rWsV0Bbr1S) | 5:08 |
-| 61 | [Street Life \- Live](https://open.spotify.com/track/0SkV3827yvx2i40J2dhYYv) | [Randy Crawford](https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz), [Joe Sample](https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE) | [Live](https://open.spotify.com/album/6IC9CHTyoU1JYkNBScsyAr) | 6:06 |
-| 62 | [I Like That](https://open.spotify.com/track/2GATPLRMzHNwUmkxGgCoEP) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Spotify Singles](https://open.spotify.com/album/3RYb0W35JVOh9GgzdjE9SA) | 3:00 |
-| 63 | [I Wish \- Live/1995](https://open.spotify.com/track/4hBflEfqEBbZyEqR0RKFiT) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Natural Wonder](https://open.spotify.com/album/6hu9W3TWiCF5sETB1pvrHl) | 4:06 |
-| 64 | [First Began \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/58sz5ZEHAajM9Cy9RIZOnG) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Spotify Singles](https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1) | 3:31 |
+| 61 | [First Began \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/58sz5ZEHAajM9Cy9RIZOnG) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Spotify Singles](https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1) | 3:31 |
+| 62 | [Street Life \- Live](https://open.spotify.com/track/0SkV3827yvx2i40J2dhYYv) | [Randy Crawford](https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz), [Joe Sample](https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE) | [Live](https://open.spotify.com/album/6IC9CHTyoU1JYkNBScsyAr) | 6:06 |
+| 63 | [I Like That](https://open.spotify.com/track/2GATPLRMzHNwUmkxGgCoEP) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Spotify Singles](https://open.spotify.com/album/3RYb0W35JVOh9GgzdjE9SA) | 3:00 |
+| 64 | [I Wish \- Live/1995](https://open.spotify.com/track/4hBflEfqEBbZyEqR0RKFiT) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Natural Wonder](https://open.spotify.com/album/6hu9W3TWiCF5sETB1pvrHl) | 4:06 |
 | 65 | [St\. James Infirmary \- Live/Remastered](https://open.spotify.com/track/57X3uXujf41DbutXVqsZQS) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Live](https://open.spotify.com/album/0PXkuzPmkBgVNn26f3Q9gC) | 4:34 |
 | 66 | [Little Ghetto Boy \(Radio Edit\)](https://open.spotify.com/track/6vtr9TyGFmEtooMPRamYWb) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Lalah Hathaway Live!](https://open.spotify.com/album/2g2JY5M0fG0TJeE3Q6iL71) | 3:56 |
 | 67 | [I Got You \(I Feel Good\)](https://open.spotify.com/track/6aFyyr9Xm4zUtrrjlXeILO) | [Maceo Parker](https://open.spotify.com/artist/4RAQZfFgR7NPAWjKwUpEeC) | [Life on Planet Groove](https://open.spotify.com/album/5GlkTpCBgyu1C8K25p9zj7) | 3:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 | 99 | [Nobody Knows You When You're Down And Out \- Live In New York](https://open.spotify.com/track/3fNTedfPQEwQhBNxGHtR3F) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Gold](https://open.spotify.com/album/354Y9yarjWdghXxJVcXZho) | 2:38 |
 | 100 | [Send It On](https://open.spotify.com/track/65sYHQJ9QJTgG5RHZY4gRN) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live In Stockholm](https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT) | 5:41 |
 
-Snapshot ID: `MCw5MWEzZTEyNDRlMjBkNmNiNzQ3MmRlZGRjZDM5YTA3ZWUxZDEwMmRh`
+Snapshot ID: `MCw1ZGM2YzI5YmY4ZDAwMGUyOTIwZDBlNzdiZWMzYjJhMWViMGExMTMx`

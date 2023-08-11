@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Mae Stephens en  Meghan Trainor deze week op de cover van Fresh Pop.",
+  "description": "Alexander Stewart deze week op de cover van Fresh Pop.",
   "name": "Fresh Pop",
   "tracks": [
     {
@@ -252,6 +252,24 @@
       "duration_ms": 157252,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e"
+    },
+    {
+      "album": {
+        "name": "bad idea right?",
+        "url": "https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184783,
+      "name": "bad idea right?",
+      "url": "https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a"
     },
     {
       "album": {
@@ -1037,6 +1055,24 @@
     },
     {
       "album": {
+        "name": "DELIRIUM",
+        "url": "https://open.spotify.com/album/5PrrhEOjQwqY1VsVuG4vQZ"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167227,
+      "name": "DELIRIUM",
+      "url": "https://open.spotify.com/track/1UWf4dn9d17amlGBLY4U1I"
+    },
+    {
+      "album": {
         "name": "Die 4 Me",
         "url": "https://open.spotify.com/album/3j2D3GopiCavuGNJdENOmz"
       },
@@ -1450,7 +1486,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 175090,
       "name": "Fantasy (with GAYLE & Em Beihold)",
       "url": "https://open.spotify.com/track/5Ldhogrc9RWAjXUQ3tXuUD"
@@ -1558,7 +1594,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 208280,
       "name": "Freak Me Now",
       "url": "https://open.spotify.com/track/2WMlWvN0y7xoOEtftxdHvz"
@@ -1745,6 +1781,28 @@
     },
     {
       "album": {
+        "name": "Give You Love (feat. Jason Derulo)",
+        "url": "https://open.spotify.com/album/19F2dOW0JWTAuK941khqsA"
+      },
+      "artists": [
+        {
+          "name": "Jessica Mauboy",
+          "url": "https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174125,
+      "name": "Give You Love (feat. Jason Derulo)",
+      "url": "https://open.spotify.com/track/672pbi6q4UuyJYIuThNsq3"
+    },
+    {
+      "album": {
         "name": "Gone",
         "url": "https://open.spotify.com/album/05hHYbkCCQ4AUKCbja744B"
       },
@@ -1810,7 +1868,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 164466,
       "name": "Happy",
       "url": "https://open.spotify.com/track/6DXI5kHhGs2yrWFPFsecm1"
@@ -1828,10 +1886,28 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 242691,
       "name": "HAPPY",
       "url": "https://open.spotify.com/track/3ZEno9fORwMA1HPecdLi0R"
+    },
+    {
+      "album": {
+        "name": "Happy Again",
+        "url": "https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154125,
+      "name": "Happy Again",
+      "url": "https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe"
     },
     {
       "album": {
@@ -2351,6 +2427,24 @@
     },
     {
       "album": {
+        "name": "i wish you cheated",
+        "url": "https://open.spotify.com/album/1tf89mHJkN2HVQ4xmdUUqy"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190626,
+      "name": "i wish you cheated",
+      "url": "https://open.spotify.com/track/6ErCfbbI9BG4bK2djjKUvP"
+    },
+    {
+      "album": {
         "name": "I'll Be Waiting (Sad At Christmas)",
         "url": "https://open.spotify.com/album/0jC03OijHmOVjS2sc9yUuM"
       },
@@ -2402,7 +2496,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 153787,
       "name": "I'm Her",
       "url": "https://open.spotify.com/track/4C78UNyMsupEMJrEd9xT9w"
@@ -2868,7 +2962,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 195277,
       "name": "Little Runaway",
       "url": "https://open.spotify.com/track/7F9TZ2RT8rdVyzLFmfagiR"
@@ -3235,6 +3329,24 @@
     },
     {
       "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/2EhTv5KlLWkNaoVXZnlzAM"
+      },
+      "artists": [
+        {
+          "name": "Chef'Special",
+          "url": "https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202627,
+      "name": "Miracles",
+      "url": "https://open.spotify.com/track/5acs33Z7tV5aopOM7LClgL"
+    },
+    {
+      "album": {
         "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
         "url": "https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj"
       },
@@ -3546,7 +3658,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 159320,
       "name": "Only Girl",
       "url": "https://open.spotify.com/track/17fL4slDQP8YopAZHWyiR3"

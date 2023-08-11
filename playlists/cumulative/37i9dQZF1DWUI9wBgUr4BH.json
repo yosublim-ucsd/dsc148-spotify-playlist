@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Les hits de demain sont d\u00e9j\u00e0 ici. Photo : David Guetta x Bebe Rexha",
+  "description": "Les hits de demain sont d\u00e9j\u00e0 ici. Photo : Ava Max",
   "name": "Futurs Hits",
   "tracks": [
     {
@@ -42,6 +42,24 @@
       "duration_ms": 223878,
       "name": "All My Life (feat. J. Cole)",
       "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
+    },
+    {
+      "album": {
+        "name": "bad idea right?",
+        "url": "https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184783,
+      "name": "bad idea right?",
+      "url": "https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a"
     },
     {
       "album": {
@@ -282,7 +300,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 179161,
       "name": "Desire (with Sam Smith)",
       "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
@@ -330,6 +348,28 @@
       "duration_ms": 176786,
       "name": "GTB",
       "url": "https://open.spotify.com/track/2t0sbwkCuLSS8LKFanHEZu"
+    },
+    {
+      "album": {
+        "name": "i adore u",
+        "url": "https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220653,
+      "name": "i adore u",
+      "url": "https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ"
     },
     {
       "album": {
@@ -600,7 +640,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 197382,
       "name": "My Baby (feat. Ayra Starr) [Remix]",
       "url": "https://open.spotify.com/track/5eZ0obGIbQMMokxCzBzdMA"
@@ -676,7 +716,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 190763,
       "name": "Notre Danse",
       "url": "https://open.spotify.com/track/0TzADxmieOFMgoizWbla6T"
@@ -738,6 +778,40 @@
       "duration_ms": 231750,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
+    },
+    {
+      "album": {
+        "name": "Petit g\u00e9nie",
+        "url": "https://open.spotify.com/album/2jhcUs6UTxBncqB02VZpyD"
+      },
+      "artists": [
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        },
+        {
+          "name": "Imen Es",
+          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
+        },
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        },
+        {
+          "name": "Abou Debeing",
+          "url": "https://open.spotify.com/artist/2jFnPm8VeSO19i6B8blXB5"
+        },
+        {
+          "name": "Lossa",
+          "url": "https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217142,
+      "name": "Petit g\u00e9nie",
+      "url": "https://open.spotify.com/track/6z0GwK274ToNmvxfyYPuHw"
     },
     {
       "album": {
@@ -1070,7 +1144,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 164776,
       "name": "VETRI NERI",
       "url": "https://open.spotify.com/track/1K9qAxGT4cWUicf2OezSen"

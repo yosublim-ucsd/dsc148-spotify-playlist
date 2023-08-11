@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,650 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,688 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 54 | [White Snow \(feat\. prettyhappy\)](https://open.spotify.com/track/40Qme85r9hwf0NaHUU6wu6) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [prettyhappy](https://open.spotify.com/artist/3doCkojWogBLg7PlYwaiG5) | [White Snow](https://open.spotify.com/album/30nfsEtFfMujcgxWL2ifEV) | 3:04 |
 | 55 | [DADDY](https://open.spotify.com/track/2638VL0O0p4sB7BcQoxC2f) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 2:21 |
 | 56 | [Not Bad \(feat\. Dawon\)](https://open.spotify.com/track/04mktU1pvPJmwtO43xeYmJ) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [Yearbook 2022](https://open.spotify.com/album/7wMpdprIWFdFG1z8vhpOb4) | 3:15 |
-| 57 | [Around \(Feat\. Yonko\)](https://open.spotify.com/track/1qMbjpnSAJQRc4uKuNZKO6) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY), [YONKO](https://open.spotify.com/artist/0rF8f4jHHztZoBPprNVVED) | [\[ Rorschach \] Part 1](https://open.spotify.com/album/4oJZ6lxEkCpw8ESH9NrCdZ) | 3:55 |
-| 58 | [Kurkdjian](https://open.spotify.com/track/6Nk37ODgtd8b4wLzzKNXlU) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Evergray](https://open.spotify.com/album/7DMeNlCClB36augRfjESKN) | 3:30 |
+| 57 | [Kurkdjian](https://open.spotify.com/track/6Nk37ODgtd8b4wLzzKNXlU) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Evergray](https://open.spotify.com/album/7DMeNlCClB36augRfjESKN) | 3:30 |
+| 58 | [Around \(Feat\. Yonko\)](https://open.spotify.com/track/1qMbjpnSAJQRc4uKuNZKO6) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY), [YONKO](https://open.spotify.com/artist/0rF8f4jHHztZoBPprNVVED) | [\[ Rorschach \] Part 1](https://open.spotify.com/album/4oJZ6lxEkCpw8ESH9NrCdZ) | 3:55 |
 | 59 | [Never Let Go](https://open.spotify.com/track/6o5dZWs2C3pZcknbixWMLM) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Agency \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/34ep6aAP7ywitDe7FfZV0E) | 3:16 |
 | 60 | [Harujongil](https://open.spotify.com/track/4Dwsvu6JgyAH78GfdlUxBh) | [Jazzyfact](https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8) | [Waves Like](https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE) | 3:44 |
 
-Snapshot ID: `MCxhYmYxZTkxZmRkYjJjY2FkZTg0NTFmMmQ5MGUzYjJhMjNmODRkMWUy`
+Snapshot ID: `MCw5YTIyOGYxM2Y2OWUzNDc1NWE0MWJiYTE5MmM3OTc1MTVhNzQyOGZj`

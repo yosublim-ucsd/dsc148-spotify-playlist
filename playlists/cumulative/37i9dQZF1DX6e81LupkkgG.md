@@ -4,7 +4,7 @@
 
 > Músicas aconchegantes para aquecer a alma nos dias frios.
 
-231 songs - 13 hr 27 min
+232 songs - 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,8 @@
 | [Lost Without You](https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Freya Ridings](https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd) | 3:45 | 2022-07-22 |  |
 | [Love Is Weird](https://open.spotify.com/track/4vBeG83Hjl2qJspRcTLiz5) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Love Is Weird](https://open.spotify.com/album/1T8KRFCNKdGg1E9BSbBDwq) | 2:30 | 2022-02-18 | 2022-11-13 |
 | [Lover \- Recorded at Air Studios, London](https://open.spotify.com/track/3PgxWUQc4HJoQMj5Kp5Mcd) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Spotify Singles](https://open.spotify.com/album/6qU8mH51eBvwyqYgg2Wsui) | 3:59 | 2022-02-18 |  |
-| [mine](https://open.spotify.com/track/5WVwFPBm6bI9KPRV2AUR2T) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [mine / me](https://open.spotify.com/album/0Y4UzVqYI5o4GBxkQimdL8) | 3:11 | 2023-04-14 |  |
+| [mine](https://open.spotify.com/track/20XB21FHWhdyWTs5z7p9Vl) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [chemistry](https://open.spotify.com/album/5c56JYNgc48iDnwHHlOcye) | 3:11 | 2023-08-04 |  |
+| [mine](https://open.spotify.com/track/5WVwFPBm6bI9KPRV2AUR2T) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [mine / me](https://open.spotify.com/album/0Y4UzVqYI5o4GBxkQimdL8) | 3:11 | 2023-04-14 | 2023-08-11 |
 | [Minefields](https://open.spotify.com/track/1OU4E4HiVjdak0mL4blVWT) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Minefields](https://open.spotify.com/album/6Pp5U1A6z6OogrtQEL5Q89) | 3:10 | 2022-02-18 |  |
 | [mis compas tan aquí](https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [mis compas tan aquí](https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN) | 3:50 | 2023-07-07 |  |
 | [Miserable Man](https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Miserable Man](https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4) | 3:52 | 2022-02-18 | 2022-03-26 |

@@ -254,7 +254,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 274000,
       "name": "Apotheke",
       "url": "https://open.spotify.com/track/4rijFxOY3GvhHopiWwHX71"
@@ -792,7 +792,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 189000,
       "name": "Bloody Samaritan (with Kelly Rowland) - Remix",
       "url": "https://open.spotify.com/track/0RGGAP5gpvToJyUZbiEcXO"
@@ -2084,7 +2084,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 171764,
       "name": "Gimme Love",
       "url": "https://open.spotify.com/track/7eKpBgv8NhnHQe3rRinuyr"
@@ -4591,6 +4591,32 @@
     },
     {
       "album": {
+        "name": "SOLACE",
+        "url": "https://open.spotify.com/album/5Ne85eKSShHPNuoGZCfBik"
+      },
+      "artists": [
+        {
+          "name": "Uncle Waffles",
+          "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
+        },
+        {
+          "name": "Ice Beats Slide",
+          "url": "https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5"
+        },
+        {
+          "name": "Sbuda Maleather",
+          "url": "https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326048,
+      "name": "Peacock Revisit (feat. Ice Beats Slide & Sbuda Maleather)",
+      "url": "https://open.spotify.com/track/1NQCinyxiglxekxXVPEhnC"
+    },
+    {
+      "album": {
         "name": "Personal Baby",
         "url": "https://open.spotify.com/album/61F8DGdLWIG1JP4bm1Rzwd"
       },
@@ -5179,6 +5205,24 @@
     },
     {
       "album": {
+        "name": "Take Care of Yourself Blacko",
+        "url": "https://open.spotify.com/album/1rUsK77wSF6p2cw1FnCTZg"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178340,
+      "name": "SIMMER DOWN",
+      "url": "https://open.spotify.com/track/58PIq4XvTG4bR3IJbE6yX5"
+    },
+    {
+      "album": {
         "name": "Single",
         "url": "https://open.spotify.com/album/1yszAI0O53HKBjyrR8l2fi"
       },
@@ -5736,6 +5780,28 @@
       "duration_ms": 176453,
       "name": "Talibans II",
       "url": "https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB"
+    },
+    {
+      "album": {
+        "name": "Party In The Jungle",
+        "url": "https://open.spotify.com/album/2YLTD3ctvprBZqF3nBspik"
+      },
+      "artists": [
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        },
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135625,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/1wZfdwMq8dgacs2CF1mT7x"
     },
     {
       "album": {
@@ -6324,7 +6390,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 163685,
       "name": "Wrong Person (with ODUMODUBLVCK)",
       "url": "https://open.spotify.com/track/0upnuatnbGnFV7HJgCm9Xj"
@@ -6482,6 +6548,24 @@
       "duration_ms": 175504,
       "name": "you",
       "url": "https://open.spotify.com/track/5Wdl4yFoXOX1xmA53udLyZ"
+    },
+    {
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/2fPnNvgrjv72VfQcW5pTzc"
+      },
+      "artists": [
+        {
+          "name": "Herman Suede",
+          "url": "https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194558,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/1ShiPLLMEUiVQXH7ve6YNd"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8tCg29z8GX8"

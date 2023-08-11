@@ -1,12 +1,12 @@
 {
   "description": "Breeze through your commute with these pop favorites. Cover: P!nk",
-  "num_followers": 264139,
+  "num_followers": 264284,
   "original_name": "Pop Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZWNmYmI3NmU1YmUyN2UwMzI2MDBkYWQ1NGY5NjIzMTc5MDM2YjBm",
+  "snapshot_id": "MCw5NWI4ZTJmMDJlYjA1YWZiN2JjYzgyN2I5ZjNlNDQ3YTUyMjhlYjk3",
   "tracks": [
     {
       "added_at": "2023-08-04 04:01:00",
@@ -127,8 +127,8 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "mine / me",
-        "url": "https://open.spotify.com/album/0Y4UzVqYI5o4GBxkQimdL8"
+        "name": "chemistry",
+        "url": "https://open.spotify.com/album/5c56JYNgc48iDnwHHlOcye"
       },
       "artists": [
         {
@@ -138,7 +138,7 @@
       ],
       "duration_ms": 191007,
       "name": "mine",
-      "url": "https://open.spotify.com/track/5WVwFPBm6bI9KPRV2AUR2T"
+      "url": "https://open.spotify.com/track/20XB21FHWhdyWTs5z7p9Vl"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Gettin' Old",
-        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 265493,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 265493,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -823,6 +823,26 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "Good Times Go",
+        "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        },
+        {
+          "name": "dazy",
+          "url": "https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x"
+        }
+      ],
+      "duration_ms": 163025,
+      "name": "Sunroof",
+      "url": "https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "Hell N Back",
         "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
       },
@@ -883,26 +903,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Good Times Go",
-        "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
-      },
-      "artists": [
-        {
-          "name": "Nicky Youre",
-          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
-        },
-        {
-          "name": "dazy",
-          "url": "https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x"
-        }
-      ],
-      "duration_ms": 163025,
-      "name": "Sunroof",
-      "url": "https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "abcdefu",
         "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
       },
@@ -959,18 +959,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Bad Habit",
-        "url": "https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V"
+        "name": "Youngblood (Deluxe)",
+        "url": "https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu"
       },
       "artists": [
         {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
         }
       ],
-      "duration_ms": 232114,
-      "name": "Bad Habit",
-      "url": "https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK"
+      "duration_ms": 203417,
+      "name": "Youngblood",
+      "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -995,18 +995,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Youngblood (Deluxe)",
-        "url": "https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu"
+        "name": "Bad Habit",
+        "url": "https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V"
       },
       "artists": [
         {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         }
       ],
-      "duration_ms": 203417,
-      "name": "Youngblood",
-      "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"
+      "duration_ms": 232114,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1915,6 +1915,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 175344,
+      "name": "Fingers Crossed",
+      "url": "https://open.spotify.com/track/4wH7ZoqgETaACS9BlUkvuY"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "OK ORCHESTRA",
         "url": "https://open.spotify.com/album/1y2AzG31F4CuCKQ1rpIzaI"
       },
@@ -1943,22 +1959,6 @@
       "duration_ms": 244453,
       "name": "Into You",
       "url": "https://open.spotify.com/track/63y6xWR4gXz7bnUGOk8iI6"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Mirror",
-        "url": "https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 175344,
-      "name": "Fingers Crossed",
-      "url": "https://open.spotify.com/track/4wH7ZoqgETaACS9BlUkvuY"
     },
     {
       "added_at": "2023-08-04 04:01:00",

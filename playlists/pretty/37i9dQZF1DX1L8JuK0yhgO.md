@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,453 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,452 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [JEDEITE](https://open.spotify.com/track/3Mh5xwuuVrNLFZSDvLg2ta) | [HAWLIE](https://open.spotify.com/artist/6oKYZWsxn9On1wLMRJip1w) | [JADEITE / SOLTHEM](https://open.spotify.com/album/4nhyywiZpLWfqEnxzif1EU) | 3:18 |
 | 60 | [Heiwa](https://open.spotify.com/track/6q4ZgpCedbtY0HRdX9G178) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Heiwa](https://open.spotify.com/album/0PaVCQT043VZB8CKdXHPuv) | 3:23 |
 
-Snapshot ID: `MCxjNzFhMWFkNjU2NTE0M2M2OGY3MDY4NGM4Yzk1Mzk0NjRjN2M4ZTU2`
+Snapshot ID: `MCwxNDZiMjY5MDM3OTJjMzczZjc3MDFlZjlmYmQxMjdjYThmZTQyYjQ4`

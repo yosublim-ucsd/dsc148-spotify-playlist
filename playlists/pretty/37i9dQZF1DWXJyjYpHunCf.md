@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,057 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,383 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 | 53 | [My Repair](https://open.spotify.com/track/4dxzf0bWuBb0AYs25VNL3y) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Already Gone](https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE) | 3:05 |
 | 54 | [Waves](https://open.spotify.com/track/5luLMIQajTbWm2Zz4EsO9D) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Waves](https://open.spotify.com/album/5ZO7Yhx5k8r4513DjUb0GO) | 2:16 |
 | 55 | [The Worst Of You](https://open.spotify.com/track/06rX4GEEjsVTSbRBWycs2U) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [People Don't Change](https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ) | 3:29 |
-| 56 | [Our Kingdom](https://open.spotify.com/track/1hmNibuS4toaTijZjDEtNZ) | [Hugo Barriol](https://open.spotify.com/artist/714s2nd4G1chzdguyBIwvk) | [Yellow](https://open.spotify.com/album/0ozIWfcCUNXKl9yNL57Ke0) | 3:06 |
-| 57 | [How Do We Stay In Love?](https://open.spotify.com/track/57C2Jt6xUTlN9QVrWSimBJ) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [How Do We Stay In Love?](https://open.spotify.com/album/4CPmCif9l0FLCp4jRwu8AR) | 2:39 |
-| 58 | [Amadeus](https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S) | [Family and Friends](https://open.spotify.com/artist/2AmW5LU0vqfHoN2qvghRFe) | [XOXO](https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf) | 3:27 |
-| 59 | [Wintergreen](https://open.spotify.com/track/7EL9YtzL4qYOcxYlf4mbVi) | [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [Yours to Break](https://open.spotify.com/album/2zXp7huP6HGVldywEC6arL) | 3:31 |
+| 56 | [How Do We Stay In Love?](https://open.spotify.com/track/57C2Jt6xUTlN9QVrWSimBJ) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [How Do We Stay In Love?](https://open.spotify.com/album/4CPmCif9l0FLCp4jRwu8AR) | 2:39 |
+| 57 | [Our Kingdom](https://open.spotify.com/track/1hmNibuS4toaTijZjDEtNZ) | [Hugo Barriol](https://open.spotify.com/artist/714s2nd4G1chzdguyBIwvk) | [Yellow](https://open.spotify.com/album/0ozIWfcCUNXKl9yNL57Ke0) | 3:06 |
+| 58 | [Wintergreen](https://open.spotify.com/track/7EL9YtzL4qYOcxYlf4mbVi) | [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [Yours to Break](https://open.spotify.com/album/2zXp7huP6HGVldywEC6arL) | 3:31 |
+| 59 | [Amadeus](https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S) | [Family and Friends](https://open.spotify.com/artist/2AmW5LU0vqfHoN2qvghRFe) | [XOXO](https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf) | 3:27 |
 | 60 | [Celeste](https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm) | [Ezra Vine](https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn) | [Celeste EP](https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt) | 3:23 |
 | 61 | [Sword from the Stone](https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted](https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1) | 3:21 |
 | 62 | [I Keep Ticking On](https://open.spotify.com/track/1Etp6DlUsn2P5im8f7J9HP) | [The Harmaleighs](https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN) | [Pretty Picture, Dirty Brush](https://open.spotify.com/album/6gRMw9HleQT2CGc7gIPPdj) | 2:36 |
@@ -88,11 +88,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 | 78 | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC) | 3:08 |
 | 79 | [In This Life](https://open.spotify.com/track/38wSbAmV7zNBhYqfzv1m9x) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [We Still Move on Dance Floors](https://open.spotify.com/album/1sFCdkWltYD4dqN8JxL6tI) | 2:43 |
 | 80 | [Kinda Wild](https://open.spotify.com/track/1ehActP7W2zePSz3aAm8in) | [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Kinda Wild](https://open.spotify.com/album/0JgJBpHVvXiQNlFJP00iAy) | 4:57 |
-| 81 | [See the World](https://open.spotify.com/track/0YPX6ztcWM4QTbR9tpnHNB) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [See the World](https://open.spotify.com/album/4mWXndqtN0KU5ndYussdyK) | 4:17 |
-| 82 | [Better Days](https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Better Days](https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk) | 3:21 |
-| 83 | [The Worth Of The Wait](https://open.spotify.com/track/4ngv7whSPSAwD8ZP3zMHsd) | [Ivan & Alyosha](https://open.spotify.com/artist/3D1IyJznpDnWnnFrzjuWnh) | [The Worth Of The Wait](https://open.spotify.com/album/0jNqBHYpxtWq8CfHQxA7Rd) | 2:51 |
-| 84 | [Keeps Me Coming Back](https://open.spotify.com/track/2oUOH2tCU4kKpooynVfS36) | [WILD](https://open.spotify.com/artist/0jcaMhfyinUx3Pj8w4nmWZ) | [Goin' Back](https://open.spotify.com/album/7v4UurEtaSYhz08qrumP7g) | 2:49 |
-| 85 | [Think I'm Gonna Love You](https://open.spotify.com/track/6BEP2k75mE8u8gHdvxV3mn) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb), [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Think I'm Gonna Love You](https://open.spotify.com/album/0kR1xeEz90V7N6w6R8RxN7) | 2:44 |
+| 81 | [Think I'm Gonna Love You](https://open.spotify.com/track/6BEP2k75mE8u8gHdvxV3mn) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb), [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Think I'm Gonna Love You](https://open.spotify.com/album/0kR1xeEz90V7N6w6R8RxN7) | 2:44 |
+| 82 | [See the World](https://open.spotify.com/track/0YPX6ztcWM4QTbR9tpnHNB) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [See the World](https://open.spotify.com/album/4mWXndqtN0KU5ndYussdyK) | 4:17 |
+| 83 | [Better Days](https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Better Days](https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk) | 3:21 |
+| 84 | [The Worth Of The Wait](https://open.spotify.com/track/4ngv7whSPSAwD8ZP3zMHsd) | [Ivan & Alyosha](https://open.spotify.com/artist/3D1IyJznpDnWnnFrzjuWnh) | [The Worth Of The Wait](https://open.spotify.com/album/0jNqBHYpxtWq8CfHQxA7Rd) | 2:51 |
+| 85 | [Keeps Me Coming Back](https://open.spotify.com/track/2oUOH2tCU4kKpooynVfS36) | [WILD](https://open.spotify.com/artist/0jcaMhfyinUx3Pj8w4nmWZ) | [Goin' Back](https://open.spotify.com/album/7v4UurEtaSYhz08qrumP7g) | 2:49 |
 | 86 | [Valentina](https://open.spotify.com/track/0TD0ydYJuFPEaqshquDEpw) | [The Hunts](https://open.spotify.com/artist/1fFdRZK1GDGXL7vRxxUWLH) | [Those Younger Days](https://open.spotify.com/album/0onnJgma2xAAFMYr3lUZbs) | 3:50 |
 | 87 | [Misnomer](https://open.spotify.com/track/7wy7FXfzZFAbsrpcM924nw) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Misnomer](https://open.spotify.com/album/0aNMzqcyM7xXdSiPGgix7m) | 3:42 |
 | 88 | [I Know the Way Home](https://open.spotify.com/track/7mZedsGVcUJOl6hSy17ykh) | [Andrew Galucki](https://open.spotify.com/artist/0Z00sSHBoJ9wsqTY5hT3mP) | [I Know the Way Home](https://open.spotify.com/album/028PxoVXaGF8zlD3wxfraR) | 3:21 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 | 95 | [Frightening Fishes \- Main Title Theme from "Shrinking"](https://open.spotify.com/track/51RsJySU0hYlm2AGDsnmWZ) | [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL), [Tom Howe](https://open.spotify.com/artist/5784JqAJvI24V2Kr3xhoX6) | [Shrinking: Season 1 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/1IuPUZAYcDdrcDH4kItWjq) | 2:27 |
 | 96 | [Lottery](https://open.spotify.com/track/2P7SSaE99q5MNjVm0Lz7bS) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Jade Bird](https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8) | 2:33 |
 | 97 | [Time](https://open.spotify.com/track/49tW2u59iX2z2thHLkYYo5) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Wildflower](https://open.spotify.com/album/2Re9wrza8ZH46MUah5tILo) | 3:37 |
-| 98 | [Keeping The Light On](https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Keeping The Light On](https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04) | 3:43 |
-| 99 | [Bored](https://open.spotify.com/track/3YQtnh00LIhMqimMUjbS6l) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Bored](https://open.spotify.com/album/4cGUztBrBh5uep9lBJYzP3) | 2:46 |
-| 100 | [Better When We're Falling Apart](https://open.spotify.com/track/4wRJHQ84OhCSGzdmeOEon4) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Sidelines](https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP) | 3:06 |
+| 98 | [Backyard Mafia](https://open.spotify.com/track/2aRYPnIDsVUi4QqK9Ayp7E) | [Oscar Blue](https://open.spotify.com/artist/1LSKJziUwTOlquPaHzHt4Z) | [Backyard Mafia](https://open.spotify.com/album/5nqB1Ti9gY4zym2yDMFyLZ) | 3:35 |
+| 99 | [Keeping The Light On](https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Keeping The Light On](https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04) | 3:43 |
+| 100 | [Bored](https://open.spotify.com/track/3YQtnh00LIhMqimMUjbS6l) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Bored](https://open.spotify.com/album/4cGUztBrBh5uep9lBJYzP3) | 2:46 |
 
-Snapshot ID: `MCw4MGQ4MWU3NmE4OWZlOGZiY2RjODRhNjA2NGFmNDBjZWQxNzhmMDRj`
+Snapshot ID: `MCwyMDJlMDMyMDNkZTgwNWY2MmY0M2JjZGNmODc3YTRmMjQyZmE5ZDM3`

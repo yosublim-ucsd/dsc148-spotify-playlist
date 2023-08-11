@@ -1869,6 +1869,24 @@
     },
     {
       "album": {
+        "name": "MY BLACK CAT",
+        "url": "https://open.spotify.com/album/65rUCgwK0khKnH5uz8ZmvQ"
+      },
+      "artists": [
+        {
+          "name": "Nana Nina",
+          "url": "https://open.spotify.com/artist/51NvNgCzRqXjxfklCa8TVB"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149433,
+      "name": "MY BLACK CAT",
+      "url": "https://open.spotify.com/track/2B5M0GZMNC8Yy33P2N4mxq"
+    },
+    {
+      "album": {
         "name": "M\u00e1scara de Ni\u00f1a",
         "url": "https://open.spotify.com/album/5oYBMmeTlPZcIqwqSL9iEw"
       },
@@ -2360,7 +2378,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 213770,
       "name": "popular",
       "url": "https://open.spotify.com/track/7IpmgwR3K4wFzWTS1ESWZj"

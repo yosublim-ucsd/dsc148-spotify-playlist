@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtHtrp0izBF.md) - [plain]
 
 > 1\-2\-3, 5\-6\-7, now you're dancing salsa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,526 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,596 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtHtrp0izBF.md) - [plain]
 | 5 | [Yo No Sé Mañana](https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Ciclos](https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ) | 4:19 |
 | 6 | [Virgen](https://open.spotify.com/track/1HWbpfmzt1YplLceHgirCv) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [La Historia..\. Los Éxitos](https://open.spotify.com/album/5hVmKtEt52RcmAk6LYB2vJ) | 4:33 |
 | 7 | [Talento De Televisión](https://open.spotify.com/track/3fRIuTih8bzc0vtY9fHhvF) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Mis Favoritas](https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c) | 4:39 |
-| 8 | [Te Va A Doler](https://open.spotify.com/track/2ozSogNm6z9G2Uv6a9iji4) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [En Tiempo De Amor](https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl) | 4:52 |
-| 9 | [Tu Cariñito](https://open.spotify.com/track/5uRd1tmUAvfFGSPR5266Xp) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [Men in Salsa](https://open.spotify.com/album/1yyEE7SQcJDHfFU8LtYfx4) | 4:11 |
+| 8 | [Tu Cariñito](https://open.spotify.com/track/5uRd1tmUAvfFGSPR5266Xp) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [Men in Salsa](https://open.spotify.com/album/1yyEE7SQcJDHfFU8LtYfx4) | 4:11 |
+| 9 | [Te Va A Doler](https://open.spotify.com/track/2ozSogNm6z9G2Uv6a9iji4) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [En Tiempo De Amor](https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl) | 4:52 |
 | 10 | [Conteo Regresivo \- Salsa Version](https://open.spotify.com/track/37nXsqE1XW0cxOQvIMsmFc) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Contraste](https://open.spotify.com/album/00LOUiA5823qxkOcHiio0W) | 4:26 |
 | 11 | [Persona Ideal \- Me Tengo Que Ir](https://open.spotify.com/track/4UHRMwbbiZ7tkeEkhyN7iB) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Persona Ideal](https://open.spotify.com/album/3YuzaY1bX9uhlhWR0f19mP) | 4:39 |
 | 12 | [Flor Pálida](https://open.spotify.com/track/47TyfLrGhYHHyyQWk64d0M) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [3.0](https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R) | 4:40 |
@@ -43,13 +43,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtHtrp0izBF.md) - [plain]
 | 33 | [La Quiero A Morir](https://open.spotify.com/track/3rsVX2Pd8UkjqF2MAZqeif) | [DLG](https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p) | [Lo Esencial](https://open.spotify.com/album/0xgbPkhH5Hvuqa0hBGjpj3) | 5:02 |
 | 34 | [Persona Ideal](https://open.spotify.com/track/5H1mAzh396id1TPT0JaItz) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Millenium Hits](https://open.spotify.com/album/2UW6AewaLPCMOqevOZvHof) | 4:41 |
 | 35 | [Pedro Navaja](https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Siembra](https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy) | 7:25 |
-| 36 | [Pequeñas Cosas](https://open.spotify.com/track/36T4XY4vbxmw40XMJPe3zw) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 5:07 |
+| 36 | [Mía](https://open.spotify.com/track/6HJCGXNww93AIaaxUb7C3O) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [De Verdad \(15 Super Exitos\)](https://open.spotify.com/album/7x4yJrZW7V1XdazGp7owXr) | 4:43 |
 | 37 | [Ahora Quien \- Salsa Version](https://open.spotify.com/track/5A32KQZznC2HSqr9qzTl2N) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Valio La Pena](https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7) | 5:09 |
-| 38 | [Mía](https://open.spotify.com/track/6HJCGXNww93AIaaxUb7C3O) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [De Verdad \(15 Super Exitos\)](https://open.spotify.com/album/7x4yJrZW7V1XdazGp7owXr) | 4:43 |
+| 38 | [Pequeñas Cosas](https://open.spotify.com/track/36T4XY4vbxmw40XMJPe3zw) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 5:07 |
 | 39 | [El Cantante](https://open.spotify.com/track/5Uve0jm1RgxKWzdSvncBDO) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Comedia](https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6) | 10:26 |
 | 40 | [Regálame una Noche](https://open.spotify.com/track/2URe3fGSKuCh8v0d49lsNU) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [Regálame Una Noche](https://open.spotify.com/album/1VXQXHRTUD5kaCQotZhuvW) | 4:36 |
-| 41 | [La Agarro Bajando](https://open.spotify.com/track/3GgI4QQWvsqqdKCvnNN0UM) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Intenso](https://open.spotify.com/album/75kOLlIjW99qG0rtOqD3rC) | 4:14 |
-| 42 | [Casi Te Envidio](https://open.spotify.com/track/3lfWaQLyg71Uar9gAgFVWV) | [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Oro Salsero](https://open.spotify.com/album/4ihlEk0yuvUpKGSX8A9ITz) | 5:21 |
+| 41 | [Casi Te Envidio](https://open.spotify.com/track/3lfWaQLyg71Uar9gAgFVWV) | [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Oro Salsero](https://open.spotify.com/album/4ihlEk0yuvUpKGSX8A9ITz) | 5:21 |
+| 42 | [La Agarro Bajando](https://open.spotify.com/track/3GgI4QQWvsqqdKCvnNN0UM) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Intenso](https://open.spotify.com/album/75kOLlIjW99qG0rtOqD3rC) | 4:14 |
 | 43 | [Cali Pachanguero](https://open.spotify.com/track/6GsxCYC9UaL0J8b8MVrRqX) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [No Hay Quinto Malo](https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ) | 5:10 |
 | 44 | [Brujeria](https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Aqui No Se Sienta Nadie!](https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg) | 3:25 |
 | 45 | [Quimbara](https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 4:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtHtrp0izBF.md) - [plain]
 | 49 | [Qué Hay de Malo](https://open.spotify.com/track/4b55fVKJprjWWj4KhKgxMf) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Oro Salsero](https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA) | 4:58 |
 | 50 | [La Murga](https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño](https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe) | 5:34 |
 
-Snapshot ID: `MCw1YzgwMjc5NjZmNzRiOTU0ZjY0NDIwMjFhOWU4NmNmMzM5NGUzNjFj`
+Snapshot ID: `MCxhYzNiMGQ5MjEzOThkN2VmM2U2NjYxZjA1NDk3NjViYzBiODdiY2Uz`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgxODUzNjAsMDAwMDAwMDBiODgxMWUwZjczNjAxYzViYjg5ZmQ1MTRjMTVmMTgzYQ==",
+  "snapshot_id": "MjgxODUzNjAsMDAwMDAwMDBjNTAxMDU4NTI1MTIyOTY0ZDdiNzg2MmFlNjRjZDg4YQ==",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -47,6 +47,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Float Away",
+        "url": "https://open.spotify.com/album/3ia102yZXVYkbU25GbGxSe"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Float Away",
+      "url": "https://open.spotify.com/track/0BvZVtYs6d7FwMK9JlfXd0"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Supercalifragilisticexpialidocious (Metal Version)",
         "url": "https://open.spotify.com/album/0YXWujoOICErz5tLQUeN66"
       },
@@ -59,30 +79,6 @@
       "duration_ms": 154957,
       "name": "Supercalifragilisticexpialidocious (Metal Version)",
       "url": "https://open.spotify.com/track/0UdRc3ZTTzy5Ys5ujAviuE"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Mu\u00f1ekita (with El Alfa & JT)",
-        "url": "https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "JT",
-          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
-        }
-      ],
-      "duration_ms": 219642,
-      "name": "Mu\u00f1ekita (with El Alfa & JT)",
-      "url": "https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -115,22 +111,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Float Away",
-        "url": "https://open.spotify.com/album/3ia102yZXVYkbU25GbGxSe"
+        "name": "Mu\u00f1ekita (with El Alfa & JT)",
+        "url": "https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4"
       },
       "artists": [
         {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         },
         {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Float Away",
-      "url": "https://open.spotify.com/track/0BvZVtYs6d7FwMK9JlfXd0"
+      "duration_ms": 219642,
+      "name": "Mu\u00f1ekita (with El Alfa & JT)",
+      "url": "https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
         }
       ],
-      "duration_ms": 242248,
-      "name": "Badge Of Honor",
-      "url": "https://open.spotify.com/track/00zTOKDOuVKuwOe7lSBble"
+      "duration_ms": 48306,
+      "name": "Welcome To The P.I.T.S. (Skit)",
+      "url": "https://open.spotify.com/track/7BOMUYPpca6405jjrWTL6N"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -419,6 +419,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Starcatcher",
+        "url": "https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "duration_ms": 272601,
+      "name": "Frozen Light",
+      "url": "https://open.spotify.com/track/1DQddCOVMwcb79NSDpFmcA"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Look At The Birds",
         "url": "https://open.spotify.com/album/4CegdJmZvCgu4zeUjeDqgP"
       },
@@ -435,22 +451,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "You've Got To Learn (Live)",
-        "url": "https://open.spotify.com/album/3QW6R0M33SezTeXgYRs9CX"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 242797,
-      "name": "I Loves You Porgy - Live",
-      "url": "https://open.spotify.com/track/1ojJeJgyAnbOeXnB1II9gO"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Restless Heart",
         "url": "https://open.spotify.com/album/1dlAp4RV1eD55jQdSgyJuH"
       },
@@ -463,6 +463,22 @@
       "duration_ms": 202000,
       "name": "Finding Yourself",
       "url": "https://open.spotify.com/track/0t3YVK70KEmcYnoFj3xGLg"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "You've Got To Learn (Live)",
+        "url": "https://open.spotify.com/album/3QW6R0M33SezTeXgYRs9CX"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 242797,
+      "name": "I Loves You Porgy - Live",
+      "url": "https://open.spotify.com/track/1ojJeJgyAnbOeXnB1II9gO"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -496,25 +512,9 @@
           "url": "https://open.spotify.com/artist/7zM4smYl6oC7yMLzfpK7I4"
         }
       ],
-      "duration_ms": 102536,
-      "name": "The Fraoch Poop Song",
-      "url": "https://open.spotify.com/track/0u7gTrejb9nKFyn4YIAWAH"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Desert Woman",
-        "url": "https://open.spotify.com/album/2xAcvuIfPBODVL1I7FbbBc"
-      },
-      "artists": [
-        {
-          "name": "Paul Cauthen",
-          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
-        }
-      ],
-      "duration_ms": 256402,
-      "name": "Desert Woman",
-      "url": "https://open.spotify.com/track/60YaAz53fBB3CXHPxhlUVu"
+      "duration_ms": 123341,
+      "name": "The Justine Poop Song",
+      "url": "https://open.spotify.com/track/5mr30gHCYSSnxO9gwYuUC0"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -528,9 +528,25 @@
           "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
         }
       ],
-      "duration_ms": 189066,
-      "name": "Dagger",
-      "url": "https://open.spotify.com/track/1hICPeE2RsgszcRY0qMswI"
+      "duration_ms": 233880,
+      "name": "End Of My Rope",
+      "url": "https://open.spotify.com/track/5FFsgaORyRryitLMpgzXW3"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Wax (Live at Sugarshack Sessions)",
+        "url": "https://open.spotify.com/album/0kGqq07OHhebsF8IjQE5Wd"
+      },
+      "artists": [
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        }
+      ],
+      "duration_ms": 253590,
+      "name": "Shoulda Tried Harder - Live at Sugarshack Sessions",
+      "url": "https://open.spotify.com/track/7gYKbMGvplnFClS3fWiTgt"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -548,25 +564,9 @@
           "url": "https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp"
         }
       ],
-      "duration_ms": 1346271,
-      "name": "Africa (feat. Eric Dolphy) - Live",
-      "url": "https://open.spotify.com/track/5V5HRJEn8y0ZcfOmdGMaZj"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Wax (Live at Sugarshack Sessions)",
-        "url": "https://open.spotify.com/album/0kGqq07OHhebsF8IjQE5Wd"
-      },
-      "artists": [
-        {
-          "name": "Wax",
-          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
-        }
-      ],
-      "duration_ms": 227304,
-      "name": "Limousine - Live at Sugarshack Sessions",
-      "url": "https://open.spotify.com/track/2c8pzrb3bCbMERdxjUbKsW"
+      "duration_ms": 962852,
+      "name": "Greensleeves (feat. Eric Dolphy) - Live",
+      "url": "https://open.spotify.com/track/1hTLpqSaXhyJrZZmtaSZU8"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

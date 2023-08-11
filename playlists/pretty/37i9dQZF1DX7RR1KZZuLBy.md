@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,885 likes - 90 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,915 likes - 90 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 65 | [This Is A Move \- Live](https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [This Is A Move \(Live\)](https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF) | 7:25 |
 | 66 | [Look Around](https://open.spotify.com/track/45MwQxfmmHhYFGQuyPOpt3) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [How To Start A Housefire \(Pt\. II\)](https://open.spotify.com/album/00AeTGkKMb4C827JlzT8Uk) | 7:21 |
 | 67 | [Million Little Miracles \(feat\. Joe L Barnes\)](https://open.spotify.com/track/2AX4m5yewzlDmzODLJ8Lcz) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 6:45 |
-| 68 | [Hosanna](https://open.spotify.com/track/2HFkbiZm1jOFG4mBotFZ8X) | [Karabo](https://open.spotify.com/artist/4lVkctc6sd3UNFSUV5m13w) | [Hosanna](https://open.spotify.com/album/7AUWNeNCVeuK8zvK0yy6if) | 4:05 |
+| 68 | [Hosanna](https://open.spotify.com/track/7rvB5RRZFsbj4mjTNJfOG5) | [Karabo](https://open.spotify.com/artist/0mCZlZDqg0tTXWmcjzpI8c) | [Hosanna](https://open.spotify.com/album/2rC7XoJ937wxoDUjfh5Ev7) | 4:05 |
 | 69 | [You Restore](https://open.spotify.com/track/6WNy8lG1fbcsqtutkQj62L) | [CRC Music](https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7) | [You Restore](https://open.spotify.com/album/4qwpP2cLhv5pkPz4MPHQUl) | 4:12 |
 | 70 | [Living Waters](https://open.spotify.com/track/01fqKF13vPT1nnfFtDob60) | [Hlengiwe Mhlaba](https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI) | [Jesu Uyalalela](https://open.spotify.com/album/5TIRsel2yF68JyKn8kTzHP) | 4:52 |
 | 71 | [Talking To Jesus \(feat\. Brandon Lake\)](https://open.spotify.com/track/6O5A41opiGbG2PphOnzZ6b) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Talking To Jesus \(feat\. Brandon Lake\)](https://open.spotify.com/album/7nAIm1hff8dkxmCBDEkzZ0) | 8:29 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 89 | [Graves Into Gardens](https://open.spotify.com/track/4rnoCR7AOaa6RWdyh7JgP0) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [House Of Miracles](https://open.spotify.com/album/0UJqeXmYE9Bs5jxXL0tCtW) | 5:43 |
 | 90 | [I'm Getting Ready](https://open.spotify.com/track/5RjS5iW0FWn1U4ZaWjhLlP) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 8:26 |
 
-Snapshot ID: `MCxkOGExMGI1ZmU4ZDhlOTdlMThhYTEyNWJmZTllYmY2YTM5YzdiMTE1`
+Snapshot ID: `MCw4ZDYxNTQyYTEyNTdjMDA2NTkyZDU3ODE3OGJhMjE5NTMxZWM5MTQw`

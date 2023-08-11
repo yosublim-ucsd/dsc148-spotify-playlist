@@ -1,12 +1,12 @@
 {
   "description": "The hits that keep on rocking your world. Cover: Nickelback",
-  "num_followers": 59733,
+  "num_followers": 59764,
   "original_name": "Rock Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTg1MjI1OTMyNGRjOWMzYzkzMjNiMmJlYmU5N2ZhY2Y5Y2Q1NTA4",
+  "snapshot_id": "MCw0YjljNDcyZGZhOWE3ZDc0ZGQwNTMzMjQ1YWEyNDJlODg3Y2VkMmRk",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Inside (Deluxe)",
-        "url": "https://open.spotify.com/album/03EqExvZuxLK86huLxGIa2"
-      },
-      "artists": [
-        {
-          "name": "Mother Mother",
-          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
-        }
-      ],
-      "duration_ms": 215040,
-      "name": "Hayloft II",
-      "url": "https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Paramore",
         "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 296520,
       "name": "Ain't It Fun",
       "url": "https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Inside (Deluxe)",
+        "url": "https://open.spotify.com/album/03EqExvZuxLK86huLxGIa2"
+      },
+      "artists": [
+        {
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+        }
+      ],
+      "duration_ms": 215040,
+      "name": "Hayloft II",
+      "url": "https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Wake Up Call",
-        "url": "https://open.spotify.com/album/1P2L7DD1DCqb0VfpMyByLl"
-      },
-      "artists": [
-        {
-          "name": "Theory of a Deadman",
-          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
-        }
-      ],
-      "duration_ms": 233173,
-      "name": "Rx (Medicate)",
-      "url": "https://open.spotify.com/track/2UZtI2HUyLRzqBjodvcUmY"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "...Like Clockwork",
         "url": "https://open.spotify.com/album/5T5NM01392dvvd4EhGrCnj"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 235586,
       "name": "I Sat by the Ocean",
       "url": "https://open.spotify.com/track/1D3YGmST01Ba0WRiT7THPG"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Wake Up Call",
+        "url": "https://open.spotify.com/album/1P2L7DD1DCqb0VfpMyByLl"
+      },
+      "artists": [
+        {
+          "name": "Theory of a Deadman",
+          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
+        }
+      ],
+      "duration_ms": 233173,
+      "name": "Rx (Medicate)",
+      "url": "https://open.spotify.com/track/2UZtI2HUyLRzqBjodvcUmY"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Strange Desire",
-        "url": "https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9"
+        "name": "Lunatic",
+        "url": "https://open.spotify.com/album/71C65HI7THrlkpHHa24YJX"
       },
       "artists": [
         {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+          "name": "KONGOS",
+          "url": "https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS"
         }
       ],
-      "duration_ms": 188866,
-      "name": "Rollercoaster",
-      "url": "https://open.spotify.com/track/5L95vS64rG1YMIFm1hLjyZ"
+      "duration_ms": 211960,
+      "name": "Come with Me Now",
+      "url": "https://open.spotify.com/track/2kWowW0k4oFymhkr7LmvzO"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Lunatic",
-        "url": "https://open.spotify.com/album/71C65HI7THrlkpHHa24YJX"
+        "name": "Strange Desire",
+        "url": "https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9"
       },
       "artists": [
         {
-          "name": "KONGOS",
-          "url": "https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS"
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
         }
       ],
-      "duration_ms": 211960,
-      "name": "Come with Me Now",
-      "url": "https://open.spotify.com/track/2kWowW0k4oFymhkr7LmvzO"
+      "duration_ms": 188866,
+      "name": "Rollercoaster",
+      "url": "https://open.spotify.com/track/5L95vS64rG1YMIFm1hLjyZ"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "The 1975 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 254509,
-      "name": "Robbers",
-      "url": "https://open.spotify.com/track/06cCziAHtDg6pcsidZHu03"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Crooked Teeth (Deluxe)",
         "url": "https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 214797,
       "name": "Help",
       "url": "https://open.spotify.com/track/6EaGMOSWL2LndwY6gClBaD"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "The 1975 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 254509,
+      "name": "Robbers",
+      "url": "https://open.spotify.com/track/06cCziAHtDg6pcsidZHu03"
     },
     {
       "added_at": "2023-07-21 04:00:00",

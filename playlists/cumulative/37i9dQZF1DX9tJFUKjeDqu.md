@@ -4,12 +4,13 @@
 
 > Soft, instrumental blues to help you concentrate.
 
-132 songs - 8 hr 22 min
+134 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Blues for the Worried Minds](https://open.spotify.com/track/4epUUIQ8Uf89fzMP9hvjmg) | [Claes Nilsson](https://open.spotify.com/artist/3AdcSxxep8tZESjs9K3mZ9) | [A Blues for the Worried Minds](https://open.spotify.com/album/6j7tExly5611q8eH7ybAKf) | 2:44 | 2022-04-15 |  |
 | [A Foggy Day](https://open.spotify.com/track/4UtGtDJpkscJil25b273Vu) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [A Foggy Day](https://open.spotify.com/album/5kuWXsGJ1R1BNXzUwl6MIS) | 5:03 | 2022-11-18 |  |
+| [After the fact](https://open.spotify.com/track/4pDgXIdlDyZ66aiRq7Zgic) | [Hayden Phoenix](https://open.spotify.com/artist/50RQSrhyCEESbROELBFA3r) | [After the fact](https://open.spotify.com/album/75b9wiTqEG2FdndZM0xyhs) | 1:57 | 2023-08-11 |  |
 | [All Blues](https://open.spotify.com/track/6W5PADiws4J4jNZwr2loyH) | [Zachary Breaux](https://open.spotify.com/artist/2jYHSJBXjusgmYdrNeaRmg) | [Uptown Groove](https://open.spotify.com/album/1b49v9x3oQNtGv3NBI3Rjq) | 6:33 | 2022-04-15 |  |
 | [All Or Nothing](https://open.spotify.com/track/55UZlpa7AQAV4bR7QFfEm6) | [Andie Wiess](https://open.spotify.com/artist/2ftzvO6OIPDrv4Fh7jMNFX) | [The Wanderer](https://open.spotify.com/album/0VKnrYcrai0fJ41eVbBu4r) | 2:15 | 2023-01-06 |  |
 | [Answer to Ronnie](https://open.spotify.com/track/0FEO7enEiq1uVm27W2sjFT) | [Nuno Mindelis](https://open.spotify.com/artist/1bfB77eKjbV64L5M0gqWaP), [The Cream Crackers](https://open.spotify.com/artist/18GocfSfx9JWYMxv4Qh5py) | [Nuno Mindelis & The Cream Crackers](https://open.spotify.com/album/57HFDvunhtwCpfe8pkzUkN) | 4:53 | 2022-04-15 | 2022-07-29 |
@@ -39,6 +40,7 @@
 | [Carrot Blues](https://open.spotify.com/track/258O8WGN7xeiaID4eNESGi) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX) | [Carrot Blues](https://open.spotify.com/album/3smwLdvA2PWj7VYTsA9W8J) | 2:19 | 2023-01-27 |  |
 | [Coffee Break Blues](https://open.spotify.com/track/69xc8xiEWlKE4ughhki1uA) | [Benji Strings](https://open.spotify.com/artist/69rJuPwfPst9467Mm44hHs) | [Coffee Break Blues](https://open.spotify.com/album/4UNwW6wGi9XIKupflS2cnj) | 1:53 | 2023-02-24 |  |
 | [Come Together](https://open.spotify.com/track/5IjmGYvithkZH6tUdrT4h0) | [Brennan Lynch](https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX) | [Come Together](https://open.spotify.com/album/0Lm1xrglN8NbNUQFWaoqdd) | 2:30 | 2023-08-04 |  |
+| [Common People](https://open.spotify.com/track/1ds06xJsMIlhVDrjyiuJUT) | [Hayden Phoenix](https://open.spotify.com/artist/50RQSrhyCEESbROELBFA3r) | [After the fact](https://open.spotify.com/album/75b9wiTqEG2FdndZM0xyhs) | 2:37 | 2023-08-11 |  |
 | [Cristo Redentor](https://open.spotify.com/track/0QZ1JgRuAK83hsqJ8vio04) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [Spread The Love](https://open.spotify.com/album/4RFvY4SxDOjOhoOOrKu2Nz) | 5:12 | 2022-04-15 | 2022-07-29 |
 | [Cristo Redentor](https://open.spotify.com/track/08ubKgFasQsPB2YdmKMW9X) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [Spread The Love](https://open.spotify.com/album/5tV9K29GLvCGljAybCSVht) | 5:12 | 2022-04-15 |  |
 | [Dana's Song](https://open.spotify.com/track/7izyXZtIw69OhbeDb2jkTu) | [Nuno Mindelis](https://open.spotify.com/artist/1bfB77eKjbV64L5M0gqWaP) | [Twelve Hours](https://open.spotify.com/album/5VWXunq9g3JCd2wo3ecpYL) | 6:20 | 2022-04-15 |  |

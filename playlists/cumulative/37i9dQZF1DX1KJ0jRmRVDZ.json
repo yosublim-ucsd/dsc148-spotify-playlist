@@ -2995,6 +2995,24 @@
     },
     {
       "album": {
+        "name": "Mother Drug",
+        "url": "https://open.spotify.com/album/05szkGoDv3RawMUYUEUQ27"
+      },
+      "artists": [
+        {
+          "name": "HIMEHINA",
+          "url": "https://open.spotify.com/artist/5OBmR4AY53SS26qHZ4uwnq"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226533,
+      "name": "Mother Drug",
+      "url": "https://open.spotify.com/track/28tXpSZ6nmsYDtn5sH3ZpS"
+    },
+    {
+      "album": {
         "name": "Move Move Move (feat. 96\u732b)",
         "url": "https://open.spotify.com/album/2IOZVbQkmip8AKOscWiUQm"
       },
@@ -4224,7 +4242,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 180277,
       "name": "SHOCK!",
       "url": "https://open.spotify.com/track/2L1HeoX1m3Zv8KPM6HdfZN"
@@ -9490,7 +9508,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 226043,
       "name": "\u30e1\u30eb\u30c8\u30b7\u30c6\u30a3",
       "url": "https://open.spotify.com/track/0PaphhsiFcynmB2pZEhLlX"
@@ -10384,6 +10402,24 @@
       "duration_ms": 230679,
       "name": "\u516b\u6708\u4e09\u5341\u4e8c\u65e5(\u8449\u6708\u30b1\u30a4\u306e\u5834\u5408 / CV:\u83c5\u539f\u572d)",
       "url": "https://open.spotify.com/track/6WIaqRsMJIL4CShUVuBSaV"
+    },
+    {
+      "album": {
+        "name": "\u5192\u967a\u9332",
+        "url": "https://open.spotify.com/album/2tdDdSjWA3N9l6EYZ0DZg0"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227323,
+      "name": "\u5192\u967a\u9332",
+      "url": "https://open.spotify.com/track/793HiNkAcZTe1hi8rhYXg2"
     },
     {
       "album": {

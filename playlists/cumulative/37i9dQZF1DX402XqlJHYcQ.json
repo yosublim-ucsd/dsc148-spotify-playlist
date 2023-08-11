@@ -160,7 +160,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 240800,
       "name": "All Along the Watchtower",
       "url": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
@@ -2776,6 +2776,24 @@
       "duration_ms": 249306,
       "name": "Loco (Tu Forma de Ser) [Ft. Rub\u00e9n Albarr\u00e1n] - MTV Unplugged",
       "url": "https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu"
+    },
+    {
+      "album": {
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193653,
+      "name": "Lonely Boy",
+      "url": "https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI"
     },
     {
       "album": {

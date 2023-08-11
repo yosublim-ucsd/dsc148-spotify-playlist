@@ -1,12 +1,12 @@
 {
   "description": "The songs of the 1960s that will make you dance all summer long!",
-  "num_followers": 118195,
+  "num_followers": 118419,
   "original_name": "Summer Hits of the 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWE4MjQ3ZGRkMGI4YWQ0YzJiM2ZmNDgxZjc0NzhmN2NkY2QzMmNj",
+  "snapshot_id": "MCw1Mjc2ZTRiOWMwMTFjMTk0YzgzNzcwZDg2YjhlOWIxMDEyODMyZjBl",
   "tracks": [
     {
       "added_at": "2022-04-16 03:31:06",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-04-16 03:31:06",
       "album": {
-        "name": "Bayou Country (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5pCRW9AT4BgoMOS52pRoJq"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 187213,
-      "name": "Proud Mary",
-      "url": "https://open.spotify.com/track/6pxWv6GV35VGmcPf5dh6CH"
-    },
-    {
-      "added_at": "2022-04-16 03:31:06",
-      "album": {
         "name": "More of The Monkees (Deluxe Edition)",
         "url": "https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 167373,
       "name": "I'm a Believer - 2006 Remaster",
       "url": "https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2"
+    },
+    {
+      "added_at": "2022-04-16 03:31:06",
+      "album": {
+        "name": "Bayou Country (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5pCRW9AT4BgoMOS52pRoJq"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 187213,
+      "name": "Proud Mary",
+      "url": "https://open.spotify.com/track/6pxWv6GV35VGmcPf5dh6CH"
     },
     {
       "added_at": "2022-04-16 03:31:06",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-04-16 03:31:06",
       "album": {
-        "name": "The Animals",
-        "url": "https://open.spotify.com/album/0Xwkx2TLFwRcoK0OWQ0Msa"
-      },
-      "artists": [
-        {
-          "name": "The Animals",
-          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
-        }
-      ],
-      "duration_ms": 271280,
-      "name": "House Of The Rising Sun",
-      "url": "https://open.spotify.com/track/7BY005dacJkbO6EPiOh2wb"
-    },
-    {
-      "added_at": "2022-04-16 03:31:06",
-      "album": {
         "name": "The Doors",
         "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 429760,
       "name": "Light My Fire",
       "url": "https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R"
+    },
+    {
+      "added_at": "2022-04-16 03:31:06",
+      "album": {
+        "name": "The Animals",
+        "url": "https://open.spotify.com/album/0Xwkx2TLFwRcoK0OWQ0Msa"
+      },
+      "artists": [
+        {
+          "name": "The Animals",
+          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
+        }
+      ],
+      "duration_ms": 271280,
+      "name": "House Of The Rising Sun",
+      "url": "https://open.spotify.com/track/7BY005dacJkbO6EPiOh2wb"
     },
     {
       "added_at": "2022-04-16 03:31:06",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-04-16 03:31:06",
       "album": {
-        "name": "Pet Sounds (Original Mono & Stereo Mix)",
-        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 153205,
-      "name": "Wouldn't It Be Nice",
-      "url": "https://open.spotify.com/track/2Gy7qnDwt8Z3MNxqat4CsK"
-    },
-    {
-      "added_at": "2022-04-16 03:31:06",
-      "album": {
         "name": "Odessey and Oracle",
         "url": "https://open.spotify.com/album/6XqM4NINcx3oc7NhOUKxXp"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 214026,
       "name": "Time of the Season - Mono Version",
       "url": "https://open.spotify.com/track/6hleUCx3E4gB2urwRvx1QT"
+    },
+    {
+      "added_at": "2022-04-16 03:31:06",
+      "album": {
+        "name": "Pet Sounds (Original Mono & Stereo Mix)",
+        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 153205,
+      "name": "Wouldn't It Be Nice",
+      "url": "https://open.spotify.com/track/2Gy7qnDwt8Z3MNxqat4CsK"
     },
     {
       "added_at": "2022-04-16 03:31:06",
@@ -655,18 +655,18 @@
     {
       "added_at": "2022-04-16 03:31:06",
       "album": {
-        "name": "All Summer Long (Mono & Stereo)",
-        "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
+        "name": "Please Please Me (Remastered)",
+        "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
       },
       "artists": [
         {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 134386,
-      "name": "I Get Around (Mono)",
-      "url": "https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT"
+      "duration_ms": 141693,
+      "name": "Love Me Do - Remastered 2009",
+      "url": "https://open.spotify.com/track/3VbGCXWRiouAq8VyMYN2MI"
     },
     {
       "added_at": "2022-04-16 03:31:06",
@@ -687,34 +687,18 @@
     {
       "added_at": "2022-04-16 03:31:06",
       "album": {
-        "name": "Please Please Me (Remastered)",
-        "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
+        "name": "Hums Of The Lovin' Spoonful",
+        "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
       },
       "artists": [
         {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          "name": "The Lovin' Spoonful",
+          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
         }
       ],
-      "duration_ms": 141693,
-      "name": "Love Me Do - Remastered 2009",
-      "url": "https://open.spotify.com/track/3VbGCXWRiouAq8VyMYN2MI"
-    },
-    {
-      "added_at": "2022-04-16 03:31:06",
-      "album": {
-        "name": "Honky Tonk Women / You Can't Always Get What You Want",
-        "url": "https://open.spotify.com/album/1bp4Aq0SnjhifrYaKbfSdS"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 182706,
-      "name": "Honky Tonk Women",
-      "url": "https://open.spotify.com/track/3fnPv1LRMxENr63afVhaz1"
+      "duration_ms": 160306,
+      "name": "Summer in the City - Remastered",
+      "url": "https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk"
     },
     {
       "added_at": "2022-04-16 03:31:06",
@@ -735,18 +719,50 @@
     {
       "added_at": "2022-04-16 03:31:06",
       "album": {
-        "name": "Hums Of The Lovin' Spoonful",
-        "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
+        "name": "All Summer Long (Mono & Stereo)",
+        "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
       },
       "artists": [
         {
-          "name": "The Lovin' Spoonful",
-          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
         }
       ],
-      "duration_ms": 160306,
-      "name": "Summer in the City - Remastered",
-      "url": "https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk"
+      "duration_ms": 134386,
+      "name": "I Get Around (Mono)",
+      "url": "https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT"
+    },
+    {
+      "added_at": "2022-04-16 03:31:06",
+      "album": {
+        "name": "Let It Be (Remastered)",
+        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 189386,
+      "name": "Get Back - Remastered 2009",
+      "url": "https://open.spotify.com/track/4MLBqAEzNN89o2M9h92Z26"
+    },
+    {
+      "added_at": "2022-04-16 03:31:06",
+      "album": {
+        "name": "Honky Tonk Women / You Can't Always Get What You Want",
+        "url": "https://open.spotify.com/album/1bp4Aq0SnjhifrYaKbfSdS"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 182706,
+      "name": "Honky Tonk Women",
+      "url": "https://open.spotify.com/track/3fnPv1LRMxENr63afVhaz1"
     },
     {
       "added_at": "2022-04-16 03:31:06",
@@ -779,22 +795,6 @@
       "duration_ms": 312173,
       "name": "With A Little Help From My Friends",
       "url": "https://open.spotify.com/track/0YZ3J8xzGwLOg4yEgST1YK"
-    },
-    {
-      "added_at": "2022-04-16 03:31:06",
-      "album": {
-        "name": "Let It Be (Remastered)",
-        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 189386,
-      "name": "Get Back - Remastered 2009",
-      "url": "https://open.spotify.com/track/4MLBqAEzNN89o2M9h92Z26"
     },
     {
       "added_at": "2022-04-16 03:31:06",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2022-04-16 03:31:06",
       "album": {
+        "name": "Llllloco-Motion",
+        "url": "https://open.spotify.com/album/1e6fzvmRJi8r6TInJhimdj"
+      },
+      "artists": [
+        {
+          "name": "Little Eva",
+          "url": "https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8"
+        }
+      ],
+      "duration_ms": 139120,
+      "name": "The Locomotion",
+      "url": "https://open.spotify.com/track/5xzdDMhFYiuUONB0Mha9VS"
+    },
+    {
+      "added_at": "2022-04-16 03:31:06",
+      "album": {
         "name": "The Essential Van Morrison",
         "url": "https://open.spotify.com/album/0RXzDyBEGd2EGQTmv8cxQa"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 156800,
       "name": "Gloria (feat. Van Morrison) - Stereo Version",
       "url": "https://open.spotify.com/track/1DKyFVzIh1oa1fFnEmTkIl"
-    },
-    {
-      "added_at": "2022-04-16 03:31:06",
-      "album": {
-        "name": "Llllloco-Motion",
-        "url": "https://open.spotify.com/album/1e6fzvmRJi8r6TInJhimdj"
-      },
-      "artists": [
-        {
-          "name": "Little Eva",
-          "url": "https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8"
-        }
-      ],
-      "duration_ms": 139120,
-      "name": "The Locomotion",
-      "url": "https://open.spotify.com/track/5xzdDMhFYiuUONB0Mha9VS"
     },
     {
       "added_at": "2022-04-16 03:31:06",

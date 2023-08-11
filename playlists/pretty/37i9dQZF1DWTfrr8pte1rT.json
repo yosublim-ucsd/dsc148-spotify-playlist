@@ -1,12 +1,12 @@
 {
   "description": "Rock with a Drop. Cover: Rezz \\m/",
-  "num_followers": 312689,
+  "num_followers": 312794,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzc4NGRlYWZmZjI5NjQyZWE2ZWY4MjkzZmRlNzI2ZjI0YWUwYTg0",
+  "snapshot_id": "MCwyNzhiYzg3YWI2NWIxNjRhMGI0ZDkwOTRhMGM4YzE4YjcyOTYyOTFm",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "U Neva",
-        "url": "https://open.spotify.com/album/4WP5N8BeLagGceIDMWIR6r"
-      },
-      "artists": [
-        {
-          "name": "Riovaz",
-          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
-        }
-      ],
-      "duration_ms": 142250,
-      "name": "U Neva",
-      "url": "https://open.spotify.com/track/4fE1aDSA7YDRQtOKibkf06"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "DOMINATION",
         "url": "https://open.spotify.com/album/2jTIMYQcx87QLi8eBFmIob"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 168800,
       "name": "DOMINATION",
       "url": "https://open.spotify.com/track/3Co9QY7WBNKoS44Nsk93r6"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "U Neva",
+        "url": "https://open.spotify.com/album/4WP5N8BeLagGceIDMWIR6r"
+      },
+      "artists": [
+        {
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+        }
+      ],
+      "duration_ms": 142250,
+      "name": "U Neva",
+      "url": "https://open.spotify.com/track/4fE1aDSA7YDRQtOKibkf06"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1343,6 +1343,26 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Never Change (Sullivan King Remix)",
+        "url": "https://open.spotify.com/album/7oIr0bLgBlxMScTiaVlU3K"
+      },
+      "artists": [
+        {
+          "name": "Apashe",
+          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "duration_ms": 268915,
+      "name": "Never Change - Sullivan King Remix",
+      "url": "https://open.spotify.com/track/0SmsBon58vD8QskC1l18TQ"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "COMPLICATED (feat. aldn & 8485)",
         "url": "https://open.spotify.com/album/6vS1mEUxsWDsbY0VdgbcBx"
       },
@@ -1363,26 +1383,6 @@
       "duration_ms": 180923,
       "name": "COMPLICATED (feat. aldn & 8485)",
       "url": "https://open.spotify.com/track/3dKd0adfI8l6tKfoLsuaJ1"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Never Change (Sullivan King Remix)",
-        "url": "https://open.spotify.com/album/7oIr0bLgBlxMScTiaVlU3K"
-      },
-      "artists": [
-        {
-          "name": "Apashe",
-          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
-        },
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        }
-      ],
-      "duration_ms": 268915,
-      "name": "Never Change - Sullivan King Remix",
-      "url": "https://open.spotify.com/track/0SmsBon58vD8QskC1l18TQ"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1631,26 +1631,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Better Than Before",
-        "url": "https://open.spotify.com/album/2iIAoh0eHpxToEAWhqT1Up"
-      },
-      "artists": [
-        {
-          "name": "SayWeCanFly",
-          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
-        },
-        {
-          "name": "Vanthe",
-          "url": "https://open.spotify.com/artist/6xfkmjpCqO7BmqQr4n01yE"
-        }
-      ],
-      "duration_ms": 164897,
-      "name": "Better Than Before",
-      "url": "https://open.spotify.com/track/4CGFRDPBkjTjU1eUmMsZDh"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Loving You Kills Me",
         "url": "https://open.spotify.com/album/53r3BRA2TeyJyEtYDBrI60"
       },
@@ -1687,6 +1667,26 @@
       "duration_ms": 257349,
       "name": "11 Minutes (feat. Travis Barker) - Kayzo Remix",
       "url": "https://open.spotify.com/track/0YbKNvAu6wHeM4bfRTZFT3"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Better Than Before",
+        "url": "https://open.spotify.com/album/2iIAoh0eHpxToEAWhqT1Up"
+      },
+      "artists": [
+        {
+          "name": "SayWeCanFly",
+          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
+        },
+        {
+          "name": "Vanthe",
+          "url": "https://open.spotify.com/artist/6xfkmjpCqO7BmqQr4n01yE"
+        }
+      ],
+      "duration_ms": 164897,
+      "name": "Better Than Before",
+      "url": "https://open.spotify.com/track/4CGFRDPBkjTjU1eUmMsZDh"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1831,6 +1831,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "BURNING RUBBER",
+        "url": "https://open.spotify.com/album/2IQbuEqIESTmjTgYctYH8e"
+      },
+      "artists": [
+        {
+          "name": "Jeris Johnson",
+          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
+        }
+      ],
+      "duration_ms": 133888,
+      "name": "BURNING RUBBER",
+      "url": "https://open.spotify.com/track/4LJ6NBnEKhZSBIC3PsBTFA"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Tear You Apart (feat. Aaron Gillespie)",
         "url": "https://open.spotify.com/album/6YkRHSL3FzJR0KRNPMYm2r"
       },
@@ -1851,22 +1867,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "BURNING RUBBER",
-        "url": "https://open.spotify.com/album/2IQbuEqIESTmjTgYctYH8e"
-      },
-      "artists": [
-        {
-          "name": "Jeris Johnson",
-          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
-        }
-      ],
-      "duration_ms": 133888,
-      "name": "BURNING RUBBER",
-      "url": "https://open.spotify.com/track/4LJ6NBnEKhZSBIC3PsBTFA"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Playing Chess",
         "url": "https://open.spotify.com/album/50tXNZuf7nO2A2RvckpFrl"
       },
@@ -1879,6 +1879,26 @@
       "duration_ms": 231739,
       "name": "Playing Chess",
       "url": "https://open.spotify.com/track/2leNp4jIw6UIypwbcIVR3S"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Bad Luck",
+        "url": "https://open.spotify.com/album/3VjDetfhWUDHNNSawdk81Q"
+      },
+      "artists": [
+        {
+          "name": "Pegboard Nerds",
+          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
+        },
+        {
+          "name": "Kiz Keyz",
+          "url": "https://open.spotify.com/artist/7GAnVRGrOJIUhOQKEehgFS"
+        }
+      ],
+      "duration_ms": 171243,
+      "name": "Bad Luck",
+      "url": "https://open.spotify.com/track/2lcapVdJDedPx2GYGtKxwz"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1903,30 +1923,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "demolition (Ruined by Glass Petals)",
-        "url": "https://open.spotify.com/album/5CN8SCIeJGzrG8efIbfjgo"
-      },
-      "artists": [
-        {
-          "name": "L\u016aN",
-          "url": "https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc"
-        },
-        {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
-        },
-        {
-          "name": "Glass Petals",
-          "url": "https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "demolition (Ruined by Glass Petals)",
-      "url": "https://open.spotify.com/track/5ylMA5GG8VDjcYUGts2QNt"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "LOUD",
         "url": "https://open.spotify.com/album/45soPQg7CQgBOWHgTBvIFf"
       },
@@ -1947,22 +1943,26 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Bad Luck",
-        "url": "https://open.spotify.com/album/3VjDetfhWUDHNNSawdk81Q"
+        "name": "demolition (Ruined by Glass Petals)",
+        "url": "https://open.spotify.com/album/5CN8SCIeJGzrG8efIbfjgo"
       },
       "artists": [
         {
-          "name": "Pegboard Nerds",
-          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
+          "name": "L\u016aN",
+          "url": "https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc"
         },
         {
-          "name": "Kiz Keyz",
-          "url": "https://open.spotify.com/artist/7GAnVRGrOJIUhOQKEehgFS"
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        },
+        {
+          "name": "Glass Petals",
+          "url": "https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0"
         }
       ],
-      "duration_ms": 171243,
-      "name": "Bad Luck",
-      "url": "https://open.spotify.com/track/2lcapVdJDedPx2GYGtKxwz"
+      "duration_ms": 226440,
+      "name": "demolition (Ruined by Glass Petals)",
+      "url": "https://open.spotify.com/track/5ylMA5GG8VDjcYUGts2QNt"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2007,26 +2007,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Hearteater",
-        "url": "https://open.spotify.com/album/07nDVEKSCJsJRwnkH86CFa"
-      },
-      "artists": [
-        {
-          "name": "Whales",
-          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
-        },
-        {
-          "name": "Qoiet",
-          "url": "https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo"
-        }
-      ],
-      "duration_ms": 217394,
-      "name": "Hearteater",
-      "url": "https://open.spotify.com/track/6MOxVSR91hsELyBKwJPvPB"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Superstars",
         "url": "https://open.spotify.com/album/0d0hlFmmPN2ez86f5jgzBJ"
       },
@@ -2043,6 +2023,26 @@
       "duration_ms": 269461,
       "name": "Blue Monday",
       "url": "https://open.spotify.com/track/0wR44usvM0qPk1TiLkjovX"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Hearteater",
+        "url": "https://open.spotify.com/album/07nDVEKSCJsJRwnkH86CFa"
+      },
+      "artists": [
+        {
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+        },
+        {
+          "name": "Qoiet",
+          "url": "https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo"
+        }
+      ],
+      "duration_ms": 217394,
+      "name": "Hearteater",
+      "url": "https://open.spotify.com/track/6MOxVSR91hsELyBKwJPvPB"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2239,26 +2239,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "you\u2019ve changed, i\u2019ve changed",
-        "url": "https://open.spotify.com/album/0yQkeAjjUjK8RXDgnzLkOu"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
-        {
-          "name": "Chet Porter",
-          "url": "https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb"
-        }
-      ],
-      "duration_ms": 311625,
-      "name": "you\u2019ve changed, i\u2019ve changed",
-      "url": "https://open.spotify.com/track/5GQpKsz2Gn2PwbPIwHlRqv"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Superhuman (with K.Flay)",
         "url": "https://open.spotify.com/album/45o6MX0tVVTZF8NDko5Hgs"
       },
@@ -2275,6 +2255,26 @@
       "duration_ms": 240044,
       "name": "Superhuman (with K.Flay)",
       "url": "https://open.spotify.com/track/0rWQ4sqTFJoPdIXDahOUPX"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "you\u2019ve changed, i\u2019ve changed",
+        "url": "https://open.spotify.com/album/0yQkeAjjUjK8RXDgnzLkOu"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "Chet Porter",
+          "url": "https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb"
+        }
+      ],
+      "duration_ms": 311625,
+      "name": "you\u2019ve changed, i\u2019ve changed",
+      "url": "https://open.spotify.com/track/5GQpKsz2Gn2PwbPIwHlRqv"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2447,22 +2447,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "i don\u2019t wanna write sad songs anymore (Acoustic)",
-        "url": "https://open.spotify.com/album/3GLUq3a8bnqClIZl32Q7dS"
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/2GKdGnw3Dx57AKowih3rX9"
       },
       "artists": [
         {
-          "name": "Scro",
-          "url": "https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW"
+          "name": "if found",
+          "url": "https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK"
         },
         {
-          "name": "whyislavndr",
-          "url": "https://open.spotify.com/artist/1vat1U9C93HzmZFkUyPB9E"
+          "name": "Becko",
+          "url": "https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU"
         }
       ],
-      "duration_ms": 241475,
-      "name": "i don\u2019t wanna write sad songs anymore",
-      "url": "https://open.spotify.com/track/5lrOg4024hpqo39lVsr2nM"
+      "duration_ms": 252800,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/5DwxMQKq0xc2MdeQOw5fCZ"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2487,22 +2487,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/2GKdGnw3Dx57AKowih3rX9"
+        "name": "i don\u2019t wanna write sad songs anymore (Acoustic)",
+        "url": "https://open.spotify.com/album/3GLUq3a8bnqClIZl32Q7dS"
       },
       "artists": [
         {
-          "name": "if found",
-          "url": "https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK"
+          "name": "Scro",
+          "url": "https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW"
         },
         {
-          "name": "Becko",
-          "url": "https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU"
+          "name": "whyislavndr",
+          "url": "https://open.spotify.com/artist/1vat1U9C93HzmZFkUyPB9E"
         }
       ],
-      "duration_ms": 252800,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/5DwxMQKq0xc2MdeQOw5fCZ"
+      "duration_ms": 241475,
+      "name": "i don\u2019t wanna write sad songs anymore",
+      "url": "https://open.spotify.com/track/5lrOg4024hpqo39lVsr2nM"
     }
   ],
   "unique_name": "Rocktronic",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 
 > Create the new vibe by mixing in the retro sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,221 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,401 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 | 32 | [You Don't Know Me](https://open.spotify.com/track/1rFMYAZxBoAKSzXI54brMu) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [You Don't Know Me](https://open.spotify.com/album/3gdmWRWWJmkp5uMBXf755B) | 3:33 |
 | 33 | [Astronomia \- Never Go Home](https://open.spotify.com/track/5WYB4aZkflwjAApBoDCYkz) | [Tony Igy](https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW) | [Astronomia \(Never Go Home\)](https://open.spotify.com/album/1bJePA8XUWVDi1e0w6FhWq) | 2:36 |
 | 34 | [2 Die 4](https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [2 Die 4](https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t) | 3:05 |
-| 35 | [Used to Know Me](https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:25 |
-| 36 | [Thank You \[Not So Bad\]](https://open.spotify.com/track/4AqN8IdKCfItCSbuaFch81) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Thank You \[Not So Bad\]](https://open.spotify.com/album/6alQudvAYx6VZMye1BFgFK) | 3:17 |
+| 35 | [Thank You \[Not So Bad\]](https://open.spotify.com/track/4AqN8IdKCfItCSbuaFch81) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Thank You \[Not So Bad\]](https://open.spotify.com/album/6alQudvAYx6VZMye1BFgFK) | 3:17 |
+| 36 | [Used to Know Me](https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:25 |
 | 37 | [Hear Me Tonight](https://open.spotify.com/track/0v8OKUrqZGoEbgEUXScRSQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [THRDL!FE](https://open.spotify.com/artist/04O00MEN0lHEKWTwRjb1nS) | [Hear Me Tonight](https://open.spotify.com/album/2kJHrTUZ21XbtKO9fEFzhG) | 3:08 |
 | 38 | [Get Low](https://open.spotify.com/track/3oZoXyU0SkDldgS7AcN4y4) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Money Sucks, Friends Rule](https://open.spotify.com/album/0GJ7jQJRIQNDjz54cPo2XI) | 3:32 |
 | 39 | [Que Calor \(feat\. J Balvin & El Alfa\)](https://open.spotify.com/track/1RKZvaLj3UPhGjZkaIrFm7) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Que Calor \(feat\. J Balvin & El Alfa\)](https://open.spotify.com/album/5AKSUA3pizhoVgfjW1ijVC) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 | 49 | [I Was Made](https://open.spotify.com/track/0ieEZjHQO5eq9Uad7opItK) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Le Pedre](https://open.spotify.com/artist/2nwk9rtXu9sJ4sh8LLyDUE) | [I Was Made](https://open.spotify.com/album/3zHqo2ygJlcfOyzxLyLevV) | 2:35 |
 | 50 | [How You Samba](https://open.spotify.com/track/4uoSxzvEVMcDsIK0aHZFAv) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [How You Samba](https://open.spotify.com/album/12WYrw3Af5ha9SVxHEv7KH) | 2:31 |
 
-Snapshot ID: `MCxlNmFkYTc3OGVhMTJmNDdlNGUyYTg5ODgyMjExNmYwYjkyYmY2YTBk`
+Snapshot ID: `MCw1OTk2ZWE3OGU5ZGUxMjM4Mzg3ZTU4ZmY5ZjU5NDBiMjViZTk5NTkz`

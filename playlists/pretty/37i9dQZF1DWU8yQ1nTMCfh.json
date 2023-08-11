@@ -1,12 +1,12 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Divisi\u00f3n Min\u00fascula",
-  "num_followers": 282136,
+  "num_followers": 282175,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMWNkODk3MWUyYTU4NmJiODZlODNiZDFlZWIxMGU4ZWYwZmU4ZDI1",
+  "snapshot_id": "MCw3MzljMDhkM2RkYzZmOGQ1YTQ2NzdlNTk2NzUxNTY0NWY3N2QyMmJj",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -319,6 +319,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "L\u00c1 L\u00c1",
+        "url": "https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x"
+      },
+      "artists": [
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        }
+      ],
+      "duration_ms": 164095,
+      "name": "L\u00c1 L\u00c1",
+      "url": "https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Llama Gemela",
         "url": "https://open.spotify.com/album/43Qy4AahGmqtaH3166U8lz"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 191725,
       "name": "Si En Tu Mente Estuve",
       "url": "https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "L\u00c1 L\u00c1",
-        "url": "https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x"
-      },
-      "artists": [
-        {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
-        }
-      ],
-      "duration_ms": 164095,
-      "name": "L\u00c1 L\u00c1",
-      "url": "https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "La Trampa",
+        "url": "https://open.spotify.com/album/1LOIcSJvLUkmJlqvxdzVC3"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 216184,
+      "name": "La Trampa",
+      "url": "https://open.spotify.com/track/5uD1CL09esqtKnRx6oZeqm"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Tripolar",
         "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 114000,
       "name": "EL PEOR",
       "url": "https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "La Trampa",
-        "url": "https://open.spotify.com/album/1LOIcSJvLUkmJlqvxdzVC3"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 216184,
-      "name": "La Trampa",
-      "url": "https://open.spotify.com/track/5uD1CL09esqtKnRx6oZeqm"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -735,8 +735,8 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "El Puesto Es M\u00edo",
-        "url": "https://open.spotify.com/album/15aynKBdm3ace4eDb6Znpz"
+        "name": "Dos",
+        "url": "https://open.spotify.com/album/4vsGohmLvbzTjQYfht3bmJ"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
         }
       ],
-      "duration_ms": 179585,
-      "name": "El Puesto Es M\u00edo",
-      "url": "https://open.spotify.com/track/4EXV8TWancvWk4co8l97PP"
+      "duration_ms": 177348,
+      "name": "Dos",
+      "url": "https://open.spotify.com/track/1lDTr8oIKdRPcLsZtlyHXb"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -779,22 +779,6 @@
       "duration_ms": 199000,
       "name": "Toda Mi Fe",
       "url": "https://open.spotify.com/track/4xv8YtHeOHydpg3Y6OYkUQ"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Fallaste",
-        "url": "https://open.spotify.com/album/5v8aMzOfrstHYKBSFp9V5P"
-      },
-      "artists": [
-        {
-          "name": "Comisario Pantera",
-          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
-        }
-      ],
-      "duration_ms": 156698,
-      "name": "Fallaste",
-      "url": "https://open.spotify.com/track/0E6xkmlNQ9GRHyir1tlg6u"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -835,6 +819,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Fallaste",
+        "url": "https://open.spotify.com/album/5v8aMzOfrstHYKBSFp9V5P"
+      },
+      "artists": [
+        {
+          "name": "Comisario Pantera",
+          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
+        }
+      ],
+      "duration_ms": 156698,
+      "name": "Fallaste",
+      "url": "https://open.spotify.com/track/0E6xkmlNQ9GRHyir1tlg6u"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Mundo Extra\u00f1o",
         "url": "https://open.spotify.com/album/11emlvXuZrS8319yl6IW5r"
       },
@@ -867,8 +867,8 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Dos",
-        "url": "https://open.spotify.com/album/4vsGohmLvbzTjQYfht3bmJ"
+        "name": "El Puesto Es M\u00edo",
+        "url": "https://open.spotify.com/album/15aynKBdm3ace4eDb6Znpz"
       },
       "artists": [
         {
@@ -876,9 +876,9 @@
           "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
         }
       ],
-      "duration_ms": 177348,
-      "name": "Dos",
-      "url": "https://open.spotify.com/track/1lDTr8oIKdRPcLsZtlyHXb"
+      "duration_ms": 179585,
+      "name": "El Puesto Es M\u00edo",
+      "url": "https://open.spotify.com/track/4EXV8TWancvWk4co8l97PP"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Querernos De Nuevo",
-        "url": "https://open.spotify.com/album/4KOE4Zl1O25anbQ6EunSSk"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
-        }
-      ],
-      "duration_ms": 231994,
-      "name": "Querernos De Nuevo",
-      "url": "https://open.spotify.com/track/1FfSInK2AKyrvKLjKJNQFe"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "AAAAAA",
         "url": "https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 206615,
       "name": "Plaza En el Cielo",
       "url": "https://open.spotify.com/track/7gaonWEr5gnYx27N3JxZ2o"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Querernos De Nuevo",
+        "url": "https://open.spotify.com/album/4KOE4Zl1O25anbQ6EunSSk"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+        }
+      ],
+      "duration_ms": 231994,
+      "name": "Querernos De Nuevo",
+      "url": "https://open.spotify.com/track/1FfSInK2AKyrvKLjKJNQFe"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Lo Que Hay Dentro de M\u00ed",
-        "url": "https://open.spotify.com/album/316NI8b87YKjLzhbThMcjX"
-      },
-      "artists": [
-        {
-          "name": "Malm\u00f6 040",
-          "url": "https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP"
-        }
-      ],
-      "duration_ms": 190875,
-      "name": "Lo Que Hay Dentro de M\u00ed",
-      "url": "https://open.spotify.com/track/7A06ah5X99giuAenkTYEmB"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Generaci\u00f3n Inmediata",
         "url": "https://open.spotify.com/album/5tNTvuit5SbZJcqpFvRxLB"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 205400,
       "name": "Tu Tiempo",
       "url": "https://open.spotify.com/track/2a09cdduEZrXSIhVo2LPmv"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Lo Que Hay Dentro de M\u00ed",
+        "url": "https://open.spotify.com/album/316NI8b87YKjLzhbThMcjX"
+      },
+      "artists": [
+        {
+          "name": "Malm\u00f6 040",
+          "url": "https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP"
+        }
+      ],
+      "duration_ms": 190875,
+      "name": "Lo Que Hay Dentro de M\u00ed",
+      "url": "https://open.spotify.com/track/7A06ah5X99giuAenkTYEmB"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "AAAAAA",
+        "url": "https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "duration_ms": 193567,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/56f2EfGZQyygTlqfstY7yU"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "UN A\u00d1O DE MIERDA",
         "url": "https://open.spotify.com/album/6FDiDIZgRhpRZcuL7DWQ5O"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 242600,
       "name": "Invulnerables",
       "url": "https://open.spotify.com/track/2cwzPKMXgXkBNF2RMogu4v"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "AAAAAA",
-        "url": "https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi"
-      },
-      "artists": [
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        }
-      ],
-      "duration_ms": 193567,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/56f2EfGZQyygTlqfstY7yU"
     },
     {
       "added_at": "2023-08-04 04:00:00",

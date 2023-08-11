@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 
 > The Country Coffeehouse is open! Grab a cup and lean back to some low\-key country.
 
-[Spotify](https://open.spotify.com/user/spotify) - 719,981 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 720,044 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 47 | [Dreams \- The Campfire Sessions](https://open.spotify.com/track/0dZeiSrApr5SAkrH5rQaRH) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Dreams \(The Campfire Sessions\)](https://open.spotify.com/album/1of3ww3gH47OlImOLsDAgb) | 3:46 |
 | 48 | [The Love That We Need](https://open.spotify.com/track/31dEh1OeZGv61RZzDIixue) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Lovers and Leavers](https://open.spotify.com/album/7z5FvJZESvRTwHTJT2uKc4) | 4:08 |
 | 49 | [Find Me Here \- Broke Down](https://open.spotify.com/track/5gMiQ72iAqzzqWqrKvTWbO) | [Tucker Beathard](https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk) | [KING](https://open.spotify.com/album/6sVIjO1dxKTa9Qet3y92Sj) | 3:54 |
-| 50 | [MARILYN](https://open.spotify.com/track/6XKJyrLsAJh65mQCWttTtg) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 3:26 |
+| 50 | [Wild Honey](https://open.spotify.com/track/2ekYJOliaYZ2zUb3XlLs5V) | [Anna Vaus](https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1) | [Wild Honey](https://open.spotify.com/album/26BCtlHD1X80TZqJ5O2Mrc) | 3:33 |
 | 51 | [hookup scene](https://open.spotify.com/track/59hAttZ1StpkVPD8u2i1MM) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:21 |
-| 52 | [Wild Honey](https://open.spotify.com/track/2ekYJOliaYZ2zUb3XlLs5V) | [Anna Vaus](https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1) | [Wild Honey](https://open.spotify.com/album/26BCtlHD1X80TZqJ5O2Mrc) | 3:33 |
+| 52 | [MARILYN](https://open.spotify.com/track/6XKJyrLsAJh65mQCWttTtg) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 3:26 |
 | 53 | [Breakups \- Acoustic](https://open.spotify.com/track/7BI1SvPvEuxV7JRN2FbErX) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Breakups \(Acoustic\)](https://open.spotify.com/album/4gbjYYWwl4dFlI9Ibjms7i) | 3:47 |
 | 54 | [Bulleit Blues](https://open.spotify.com/track/6tEVS3afsZXcv4Q99aEfN7) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Glasshouse Children](https://open.spotify.com/album/7GfFUxRWaHA2Adj0M8N1kl) | 1:31 |
 | 55 | [Where the Heart Is](https://open.spotify.com/track/4qaBHFw6eN6Oxa7gBXOvxv) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Sunday Drive](https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd) | 4:07 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 74 | [20/10 TN](https://open.spotify.com/track/3lF6cdiWGp8xjoHmL1ChxV) | [Tucker Beathard](https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk) | [KING](https://open.spotify.com/album/6sVIjO1dxKTa9Qet3y92Sj) | 3:25 |
 | 75 | [sunflower.](https://open.spotify.com/track/3jVjq0O6ZpfQVGhRR6JTOZ) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [firstborn](https://open.spotify.com/album/0ELKDJn9moMEzskSNVqeCe) | 3:33 |
 
-Snapshot ID: `MCw5MDU1YzU1NGRkNDQ0YzRhNzRkNGUwZTNiZDJiMmZkMmY5M2VjNTZm`
+Snapshot ID: `MCxlMjFmZDEzNGM4MDlmY2NkOWQzNzIwY2VhZWM5YmI5OTI4NzFjMGE2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcR9zJKQUPAH.md) - [plain]
 
 > 2017 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,215 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,290 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcR9zJKQUPAH.md) - [plain]
 | 69 | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c) | 4:08 |
 | 70 | [So Young](https://open.spotify.com/track/4SNtyKNyYJ8ERT7YLlnFBr) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 4:06 |
 | 71 | [Way It Goes](https://open.spotify.com/track/6CES1554HcWMIVroJfmmBm) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Landmark](https://open.spotify.com/album/0vb1g018puu47StlIi9wxC) | 4:05 |
-| 72 | [Homemade Dynamite](https://open.spotify.com/track/02oAUzv4M0ItuTDy2RT3IT) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 3:09 |
-| 73 | [Like Gold](https://open.spotify.com/track/6Od2OWvoT4embWAgIGeFRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:44 |
+| 72 | [Like Gold](https://open.spotify.com/track/6Od2OWvoT4embWAgIGeFRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:44 |
+| 73 | [Homemade Dynamite](https://open.spotify.com/track/02oAUzv4M0ItuTDy2RT3IT) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 3:09 |
 | 74 | [Lost in You](https://open.spotify.com/track/5BIY4jMiYsp5QKKE05AXUF) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Lost in You](https://open.spotify.com/album/3wTzHcPe5EkkpLiecOj7ZZ) | 1:41 |
 | 75 | [Tailwhip](https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Tailwhip](https://open.spotify.com/album/7eJd4HvbzBoufq7pnKAIiy) | 3:45 |
 | 76 | [In My Head](https://open.spotify.com/track/3bne7Qit5AbHkX6kWDItYP) | [Peter Manos](https://open.spotify.com/artist/4K9aclpXgCPNFGEqRlFPal) | [In My Head](https://open.spotify.com/album/2iPwsfkSPMu1TL3uGF4iNv) | 3:34 |
@@ -89,15 +89,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcR9zJKQUPAH.md) - [plain]
 | 79 | [You're in Love with a Psycho](https://open.spotify.com/track/0AJhcuRl3i1FfPNr88ZScv) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [For Crying Out Loud \(Deluxe\)](https://open.spotify.com/album/0ymsF6XO1mZM1VKqI680jU) | 3:35 |
 | 80 | [Found What I've Been Looking For](https://open.spotify.com/track/4Gw1SXoN1MlAmdM3J1NjmR) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Lighting Matches \(Deluxe\)](https://open.spotify.com/album/3NBXFA91U38BuJt3SlMwlI) | 3:11 |
 | 81 | [Iris](https://open.spotify.com/track/4uM4UARm7GVSyxEoUGijUT) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Iris](https://open.spotify.com/album/42FdghdSW95PPRm2DrQTIz) | 3:01 |
-| 82 | [Something For Your M.I.N.D.](https://open.spotify.com/track/4rCKRVJZKVysScn2piDuOT) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [Superorganism](https://open.spotify.com/album/15TFB6uLZlb3gnCysRrLix) | 2:45 |
-| 83 | [Lay It on Me](https://open.spotify.com/track/7oekneJCJO74ycdLzdk16v) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:35 |
+| 82 | [Lay It on Me](https://open.spotify.com/track/7oekneJCJO74ycdLzdk16v) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:35 |
+| 83 | [Something For Your M.I.N.D.](https://open.spotify.com/track/4rCKRVJZKVysScn2piDuOT) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [Superorganism](https://open.spotify.com/album/15TFB6uLZlb3gnCysRrLix) | 2:45 |
 | 84 | [Die Young](https://open.spotify.com/track/1BRwuvjhkgezmv1gcI6lT6) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [What Now](https://open.spotify.com/album/1BJMCEXQ7JmuVlJ6cYbe3x) | 3:30 |
 | 85 | [Love Is Mystical](https://open.spotify.com/track/12pdXFcruNcPUbZypKUDgz) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [LA DIVINE](https://open.spotify.com/album/7ivgZAxvcUXk33Jk4Hi7On) | 3:34 |
 | 86 | [I Dare You](https://open.spotify.com/track/3pAw0BXL8acShtjUwLosw8) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [I See You](https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU) | 3:53 |
 | 87 | [Chateau](https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL) | 4:33 |
 | 88 | [Thinking of a Place](https://open.spotify.com/track/4Sd5tbNP4q8wS64abqwfkN) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [A Deeper Understanding](https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF) | 11:10 |
-| 89 | [anemone](https://open.spotify.com/track/1MD2yGSeBRALkMui1fZ05P) | [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA) | [fabulist](https://open.spotify.com/album/1vaFEGAj0JSQSM2SlK0B3X) | 3:48 |
-| 90 | [Idle Town](https://open.spotify.com/track/0cXRafInOlc1QH519RXltN) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Sunset Season](https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz) | 3:57 |
+| 89 | [Idle Town](https://open.spotify.com/track/0cXRafInOlc1QH519RXltN) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Sunset Season](https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz) | 3:57 |
+| 90 | [anemone](https://open.spotify.com/track/1MD2yGSeBRALkMui1fZ05P) | [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA) | [fabulist](https://open.spotify.com/album/1vaFEGAj0JSQSM2SlK0B3X) | 3:48 |
 | 91 | [Lovers](https://open.spotify.com/track/6q8onrzcka32nGVrnWYGBQ) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5kopWecrOCWIxpgpukVfct) | 3:35 |
 | 92 | [High](https://open.spotify.com/track/17aDyX39gb1iV1ZWvD1ffE) | [Sir Sly](https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue) | [Don't You Worry, Honey](https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4) | 3:51 |
 | 93 | [oh baby](https://open.spotify.com/track/53PkA8aXiwH4ppa0V0iO7o) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [american dream](https://open.spotify.com/album/4AF1M7bGCFL3LHCtXUUXw5) | 5:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcR9zJKQUPAH.md) - [plain]
 | 99 | [Dreams](https://open.spotify.com/track/14zhqtMI5xHrfCFCLhFcsn) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Colors](https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l) | 5:14 |
 | 100 | [You Say I'm in Love](https://open.spotify.com/track/5Ss6DqCldgTmIo6BekVOJT) | [Banes World](https://open.spotify.com/artist/5BCnLrqpwYtufR1bDWn0hG) | [You Say I'm in Love](https://open.spotify.com/album/7M3ne50fqV9L911ieSAqyN) | 2:56 |
 
-Snapshot ID: `MCxkZGQxOWI4MGYyN2U1YjExZGQ2NTA0NzA4YzA2ZWNhYzBiYWQ1ODFm`
+Snapshot ID: `MCwzOGY4NTBjNDI1OTE2MzJmN2UzN2JiZTUzMGVlMmYzOWJkNTY2YmI3`

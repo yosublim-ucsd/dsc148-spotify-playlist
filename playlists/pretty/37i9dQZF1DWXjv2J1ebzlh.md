@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,647 likes - 1,174 songs - 3 day 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,697 likes - 1,174 songs - 3 day 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -351,7 +351,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 341 | [Cumbia Raja](https://open.spotify.com/track/6zAGE3CqITmtMrDp42NXdh) | [Michi Sarmiento y su Combo Bravo](https://open.spotify.com/artist/4sEESURYY5eLdFEKHCtub0) | [Cum Cumbelé](https://open.spotify.com/album/5QRkRiMAqnsbp4KdEjXKAv) | 3:03 |
 | 342 | [Çilli](https://open.spotify.com/track/0tIUkzQP9STnupIpzcQBt3) | [Lale Belkıs](https://open.spotify.com/artist/6WkIJVBk1eCUTKR0YG0sdK) | [En İyileriyle Lale Belkıs](https://open.spotify.com/album/6ErTNGc6pFgh2P6YfxJsNC) | 3:46 |
 | 343 | [Tulum](https://open.spotify.com/track/7MLkKIlz4sL8oHXWIOUyxv) | [Zafer Dilek](https://open.spotify.com/artist/16haAKwdzQGlVMQJlQydLP) | [Oyun Havaları](https://open.spotify.com/album/0wN0quNipj5RvCif7RDz4V) | 2:29 |
-| 344 | [Cayetano](https://open.spotify.com/track/7A2oCgCKo2UiQ8ggGsm8GA) | [Antonio Morel](https://open.spotify.com/artist/1wP1FUeZ1k12MrEnYlmugi) | [Dominican Republic Merengue 1949\-1962: Haiti, Cuba, Virgin Islands, Bahamas, New York](https://open.spotify.com/album/2uhU0clRn8qZ2nc2AJ7Ysq) | 2:48 |
+| 344 | [Cayetano](https://open.spotify.com/track/1BFaDSpomuQfAGhhIn6Oaj) | [Antonio Morel Y Su Orquesta](https://open.spotify.com/artist/7FEKIGHt8kdHx8WjSBJkWj), [Antonio Morel](https://open.spotify.com/artist/1wP1FUeZ1k12MrEnYlmugi) | [Baila Merengue!](https://open.spotify.com/album/4YQhygJml4jAPJr46Nb3I5) | 2:48 |
 | 345 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/13ZRVSoA9lHGXXHDC5w4gF) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [30 Mejores](https://open.spotify.com/album/7y1ox9IBe1OKHB1q3rjIGB) | 2:42 |
 | 346 | [La Burrita](https://open.spotify.com/track/4MvwPfxA5udOyOLZ6R5DRP) | [Los Diplomaticos](https://open.spotify.com/artist/0iDj3W3Ke2GRU7ojWh4Zkf) | [Narcos, Vol\. 1 \(More Music from the Netflix Original Series\)](https://open.spotify.com/album/68iQWV1oNjvkSqFjab73gZ) | 3:17 |
 | 347 | [Sueño hippie](https://open.spotify.com/track/5WfYFmRD9hdeMmCyf0Mm4J) | [Los Beta 5](https://open.spotify.com/artist/1pdQ0V3hvJIh1GXXUVT06O) | [Cumbia Beat Volume 3](https://open.spotify.com/album/4p7P9jzmYkTbzRFRNcATcd) | 3:19 |
@@ -1183,4 +1183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1173 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1174 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCw2ZmJkNDQzODk0M2MxYTljMWEyZjZhODBlNzA0ZTQ4ZGIyN2ZlMDA5`
+Snapshot ID: `MCxiMjM0YjA4NzAyZjRjZWZhN2JlZGM0MWNhZGY3YTkxNGE0ODY2YzA5`

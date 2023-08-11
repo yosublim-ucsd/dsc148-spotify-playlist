@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 
 > Disfruta de tu velada en la sedosa compañía de las 88 teclas del piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,667 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,678 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,17 +36,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 | 26 | [Señorita](https://open.spotify.com/track/3Tr1go8VXvaqy9FDPyB2CB) | [Tony Soleno](https://open.spotify.com/artist/2jh4IR3Rp6dRMQIpU9gFHd) | [Señorita](https://open.spotify.com/album/44npgAVFU1zNqEEC3iwKpf) | 3:21 |
 | 27 | [Tropicana](https://open.spotify.com/track/4e8rnF7O2uQJOACAwuGKCX) | [Trio From Rio](https://open.spotify.com/artist/4KoFxfBb0kw05Odd05UktH) | [Tropicana](https://open.spotify.com/album/2LyLyjwKUPGxggZ1DMnvAP) | 3:32 |
 | 28 | [Tres Palabras](https://open.spotify.com/track/7iEXtc7ZwixX8IwzwK10qp) | [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj), [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp) | [Juntos para Siempre](https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76) | 4:43 |
-| 29 | [Ventanales](https://open.spotify.com/track/4mXXKiOiWQvdBYf92ufELB) | [Dorantes](https://open.spotify.com/artist/0YlJWz6Mt1zIKdMTxBNzDu) | [Orobroy](https://open.spotify.com/album/4TD9tBWKjRCWa2xZnvG8Wt) | 3:52 |
+| 29 | [Agua De Beber](https://open.spotify.com/track/1t1mrUX3AjtDN0v97U5djG) | [Vinícius](https://open.spotify.com/artist/1k8aIB0NA92A8rVKA4HnaM) | [Bossa Nova EP](https://open.spotify.com/album/0Eb5CwXAUx0p3IkHsWAlBs) | 3:15 |
 | 30 | [Asi Bailaba Cuba \- Instrumental](https://open.spotify.com/track/3waAyPLnhNQRbdh6Pb6mRX) | [Luis Siu Riveron](https://open.spotify.com/artist/6vshvvqO8e8oXHDC0RBXpE) | [Grandes Boleros En Piano Y Ritmo \(Instrumental\)](https://open.spotify.com/album/19D3ge8HWiNwh8jtiydYKp) | 5:33 |
 | 31 | [Suavecito / En Manzanillo Se Baila el Son \(Sones\)](https://open.spotify.com/track/2Fx6r1ALj3nppAog9eJf7w) | [Enrique Chia](https://open.spotify.com/artist/3EQoDMzsInptAXiIs8sVt9), [Cachao](https://open.spotify.com/artist/1Qa5p9ajnRIvq7bfsdtzqQ) | [Sones y Tradiciones \(feat\. Cachao\)](https://open.spotify.com/album/7COrF1dEussKfi9YzTEFte) | 6:18 |
-| 32 | [Desafinado](https://open.spotify.com/track/5ZZt6lI6O7DkJ0QNR9nqS0) | [Pedro Santos](https://open.spotify.com/artist/3iCY5pdGYEDsC7TiZ2Pqy4) | [Manhã de Carnaval](https://open.spotify.com/album/6PmJeevy0quqp79eYVeVXb) | 3:12 |
-| 33 | [Agua De Beber](https://open.spotify.com/track/1t1mrUX3AjtDN0v97U5djG) | [Vinícius](https://open.spotify.com/artist/1k8aIB0NA92A8rVKA4HnaM) | [Bossa Nova EP](https://open.spotify.com/album/0Eb5CwXAUx0p3IkHsWAlBs) | 3:15 |
+| 32 | [Ventanales](https://open.spotify.com/track/4mXXKiOiWQvdBYf92ufELB) | [Dorantes](https://open.spotify.com/artist/0YlJWz6Mt1zIKdMTxBNzDu) | [Orobroy](https://open.spotify.com/album/4TD9tBWKjRCWa2xZnvG8Wt) | 3:52 |
+| 33 | [Desafinado](https://open.spotify.com/track/5ZZt6lI6O7DkJ0QNR9nqS0) | [Pedro Santos](https://open.spotify.com/artist/3iCY5pdGYEDsC7TiZ2Pqy4) | [Manhã de Carnaval](https://open.spotify.com/album/6PmJeevy0quqp79eYVeVXb) | 3:12 |
 | 34 | ['Round Midnight](https://open.spotify.com/track/1OC2r9MhAQgIRgr23ZZTni) | [Clark Younger](https://open.spotify.com/artist/2uxmpv4oWJsk2oITNtAlJe) | [Clark Younger](https://open.spotify.com/album/0TevT7in9JgG2yktoXGH6Y) | 3:16 |
 | 35 | [Son de la Loma](https://open.spotify.com/track/7K9t3K9SLBzV1HhVYhmXuz) | [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj), [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp) | [Juntos para Siempre](https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76) | 3:29 |
 | 36 | [El Llanto de la Lluvia](https://open.spotify.com/track/0vGx46vNX5rySadM42qXmW) | [Diego Amador](https://open.spotify.com/artist/7E17VU9B2y56KC2kRedIZT) | [Piano Jondo](https://open.spotify.com/album/1SsRBNFSz1ediZjZ756qu4) | 4:46 |
-| 37 | [Corcovado \(Quiet Nights Of Quiet Stars\)](https://open.spotify.com/track/0VSzD0w1GEkSBYY0HaknRy) | [Pedro Santos](https://open.spotify.com/artist/3iCY5pdGYEDsC7TiZ2Pqy4) | [Manhã de Carnaval](https://open.spotify.com/album/6PmJeevy0quqp79eYVeVXb) | 4:56 |
-| 38 | [Winnetka](https://open.spotify.com/track/6ST2jppp8qDidqw8iK1txv) | [Joaquin Alejandro](https://open.spotify.com/artist/7iuafbXpI94G92U4vfoH4m) | [Winnetka](https://open.spotify.com/album/0pjkOfoN9u4XkEQAUc9OR5) | 2:12 |
-| 39 | [Luces](https://open.spotify.com/track/4fVzIqfRv3VC1doIk9JLnt) | [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp) | [Jazz Batá 2](https://open.spotify.com/album/2qNItLdcFnSId2094fNe3A) | 4:53 |
+| 37 | [Winnetka](https://open.spotify.com/track/6ST2jppp8qDidqw8iK1txv) | [Joaquin Alejandro](https://open.spotify.com/artist/7iuafbXpI94G92U4vfoH4m) | [Winnetka](https://open.spotify.com/album/0pjkOfoN9u4XkEQAUc9OR5) | 2:12 |
+| 38 | [Luces](https://open.spotify.com/track/4fVzIqfRv3VC1doIk9JLnt) | [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp) | [Jazz Batá 2](https://open.spotify.com/album/2qNItLdcFnSId2094fNe3A) | 4:53 |
+| 39 | [Corcovado \(Quiet Nights Of Quiet Stars\)](https://open.spotify.com/track/0VSzD0w1GEkSBYY0HaknRy) | [Pedro Santos](https://open.spotify.com/artist/3iCY5pdGYEDsC7TiZ2Pqy4) | [Manhã de Carnaval](https://open.spotify.com/album/6PmJeevy0quqp79eYVeVXb) | 4:56 |
 | 40 | [Setembro](https://open.spotify.com/track/0H0bv2u1uWkxHpNxgrNHfD) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Setembro](https://open.spotify.com/album/5ksQoz2k7IcACaWEL5Key6) | 5:32 |
 | 41 | [Palabras De Mujer\-Hojas Secas](https://open.spotify.com/track/6mBClBGac5YzqnVuXe37EN) | [Piano Magico](https://open.spotify.com/artist/0WTPr7HY88nFBbBZ8RiaV6) | [Boleros Inolvidables, Vol\. 1](https://open.spotify.com/album/7M8untsZpxy9aLD2MAq56O) | 2:23 |
 | 42 | [Wave](https://open.spotify.com/track/0kLvYpWHgCozYu6lM95eYk) | [Vinícius](https://open.spotify.com/artist/1k8aIB0NA92A8rVKA4HnaM) | [Bossa Nova EP](https://open.spotify.com/album/0Eb5CwXAUx0p3IkHsWAlBs) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 | 49 | [Ponce: Balada Mexicana](https://open.spotify.com/track/4yzZhD5t7imXg9rYdEr6Vh) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Daniela Liebman](https://open.spotify.com/artist/7MQNyVvd2ZSOEqPNlSgAJ3) | [Daniela Liebman](https://open.spotify.com/album/2eIQ6eOiV3gdXHLiyXIjMl) | 6:58 |
 | 50 | [Acercate Mas\-Nosotros](https://open.spotify.com/track/0buM06RgmgDVQ5kNpCwINq) | [Piano Magico](https://open.spotify.com/artist/0WTPr7HY88nFBbBZ8RiaV6) | [Boleros Inolvidables, Vol\. 1](https://open.spotify.com/album/7M8untsZpxy9aLD2MAq56O) | 2:08 |
 
-Snapshot ID: `MCw1ZTExOTI4YWUzZjAxZWYwYmJiYWJkNGVmNGNkZDMxN2NkMDk2ZmU3`
+Snapshot ID: `MCxlZjBhZDFhMzZlNWRjMTdmMTMwZDQ1YWQxODUxNmZlMGUwMGYyZTg3`

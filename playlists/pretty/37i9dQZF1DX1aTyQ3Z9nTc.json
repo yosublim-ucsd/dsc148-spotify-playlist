@@ -1,12 +1,12 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 126123,
+  "num_followers": 126188,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MWNjZTRlZmU2Y2Q2OGMxOTBhZmJhZTg3OGY2YzhkYzY5OWM1OTY5",
+  "snapshot_id": "MCxkMDAwYzE1NzVhYjUxNmQwMTNkYWY2ZTBkNGU3OWUxZDQ3YmEwNDFk",
   "tracks": [
     {
       "added_at": "2022-07-29 04:11:59",
@@ -797,6 +797,22 @@
       "url": "https://open.spotify.com/track/5suNUnahl3rSictF1dBPei"
     },
     {
+      "added_at": "2023-06-16 06:53:32",
+      "album": {
+        "name": "Bruises",
+        "url": "https://open.spotify.com/album/1xYk6pycBgnLYw4ZXwgldj"
+      },
+      "artists": [
+        {
+          "name": "AUGUST 08",
+          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
+        }
+      ],
+      "duration_ms": 190948,
+      "name": "Bruises",
+      "url": "https://open.spotify.com/track/3pSpLYsOi6fZ6N0P962XaJ"
+    },
+    {
       "added_at": "2023-03-10 05:00:00",
       "album": {
         "name": "Assumptions (Kaytranada Edit)",
@@ -815,22 +831,6 @@
       "duration_ms": 288097,
       "name": "Assumptions - Kaytranada Edit",
       "url": "https://open.spotify.com/track/7lWdyj9RrMsEN6F0Dl0irE"
-    },
-    {
-      "added_at": "2023-06-16 06:53:32",
-      "album": {
-        "name": "Bruises",
-        "url": "https://open.spotify.com/album/1xYk6pycBgnLYw4ZXwgldj"
-      },
-      "artists": [
-        {
-          "name": "AUGUST 08",
-          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
-        }
-      ],
-      "duration_ms": 190948,
-      "name": "Bruises",
-      "url": "https://open.spotify.com/track/3pSpLYsOi6fZ6N0P962XaJ"
     },
     {
       "added_at": "2023-04-07 21:25:17",
@@ -869,22 +869,6 @@
       "url": "https://open.spotify.com/track/2M9AnJN0YIrkWtKXaUj56Q"
     },
     {
-      "added_at": "2023-06-09 05:15:38",
-      "album": {
-        "name": "When I Hear Your Name",
-        "url": "https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM"
-      },
-      "artists": [
-        {
-          "name": "Maeta",
-          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
-        }
-      ],
-      "duration_ms": 193901,
-      "name": "Questions",
-      "url": "https://open.spotify.com/track/2rGAASBrTG770g8wx5NJOV"
-    },
-    {
       "added_at": "2022-05-02 22:05:00",
       "album": {
         "name": "Last Year Was Weird, Vol. 2",
@@ -899,6 +883,22 @@
       "duration_ms": 233537,
       "name": "24k",
       "url": "https://open.spotify.com/track/0F2gXzgbzLvK9LrS7yKS8Q"
+    },
+    {
+      "added_at": "2023-06-09 05:15:38",
+      "album": {
+        "name": "When I Hear Your Name",
+        "url": "https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM"
+      },
+      "artists": [
+        {
+          "name": "Maeta",
+          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+        }
+      ],
+      "duration_ms": 193901,
+      "name": "Questions",
+      "url": "https://open.spotify.com/track/2rGAASBrTG770g8wx5NJOV"
     },
     {
       "added_at": "2022-05-02 22:05:00",
@@ -1205,22 +1205,6 @@
       "url": "https://open.spotify.com/track/6DWsAyAZdQe478O3vQyvmK"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Been Thinking",
-        "url": "https://open.spotify.com/album/3GkG4c6zjKYvyiJA52q0Dn"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 187275,
-      "name": "Been Thinking",
-      "url": "https://open.spotify.com/track/2TDovGBTIpZ6zXKeyhsFzz"
-    },
-    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "EXTC",
@@ -1235,6 +1219,22 @@
       "duration_ms": 235801,
       "name": "hmu",
       "url": "https://open.spotify.com/track/4fC8mW8ZFQanmSHq30mgWz"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Been Thinking",
+        "url": "https://open.spotify.com/album/3GkG4c6zjKYvyiJA52q0Dn"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 187275,
+      "name": "Been Thinking",
+      "url": "https://open.spotify.com/track/2TDovGBTIpZ6zXKeyhsFzz"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1397,6 +1397,22 @@
       "url": "https://open.spotify.com/track/0zPiT8nesNRCXKWvK7ryHh"
     },
     {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Simp",
+        "url": "https://open.spotify.com/album/4P8lTjlKEMjE8uDkJBG2Tr"
+      },
+      "artists": [
+        {
+          "name": "Col3trane",
+          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
+        }
+      ],
+      "duration_ms": 151676,
+      "name": "Simp",
+      "url": "https://open.spotify.com/track/1Blus5ZR4S5vAnLfzwAduY"
+    },
+    {
       "added_at": "2023-01-20 05:00:00",
       "album": {
         "name": "Fever Dreamer (feat. Charlotte Day Wilson & Channel Tres)",
@@ -1419,22 +1435,6 @@
       "duration_ms": 310340,
       "name": "Fever Dreamer (feat. Charlotte Day Wilson & Channel Tres)",
       "url": "https://open.spotify.com/track/4W1VDzvrBBG0lZvC221Qh5"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Simp",
-        "url": "https://open.spotify.com/album/4P8lTjlKEMjE8uDkJBG2Tr"
-      },
-      "artists": [
-        {
-          "name": "Col3trane",
-          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
-        }
-      ],
-      "duration_ms": 151676,
-      "name": "Simp",
-      "url": "https://open.spotify.com/track/1Blus5ZR4S5vAnLfzwAduY"
     },
     {
       "added_at": "2022-07-30 02:24:25",
@@ -1605,22 +1605,6 @@
       "url": "https://open.spotify.com/track/3KtJc97wstkCvrRLs10epl"
     },
     {
-      "added_at": "2023-08-04 15:55:51",
-      "album": {
-        "name": "BACK 2 U",
-        "url": "https://open.spotify.com/album/7bjYLQ5geSdsztH5roji9w"
-      },
-      "artists": [
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        }
-      ],
-      "duration_ms": 160855,
-      "name": "BACK 2 U",
-      "url": "https://open.spotify.com/track/5xihG1vCTRe0kh1Pdacscb"
-    },
-    {
       "added_at": "2022-09-23 04:08:19",
       "album": {
         "name": "CROSSOVER (Deluxe)",
@@ -1635,6 +1619,22 @@
       "duration_ms": 177483,
       "name": "day to day",
       "url": "https://open.spotify.com/track/6PawBhoe8BTRZIu2E7Drv1"
+    },
+    {
+      "added_at": "2023-08-04 15:55:51",
+      "album": {
+        "name": "BACK 2 U",
+        "url": "https://open.spotify.com/album/7bjYLQ5geSdsztH5roji9w"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        }
+      ],
+      "duration_ms": 160855,
+      "name": "BACK 2 U",
+      "url": "https://open.spotify.com/track/5xihG1vCTRe0kh1Pdacscb"
     },
     {
       "added_at": "2022-07-29 04:11:59",
@@ -1837,6 +1837,22 @@
       "url": "https://open.spotify.com/track/3wdHjg6olS8kdwepTW4jJm"
     },
     {
+      "added_at": "2022-07-30 02:24:25",
+      "album": {
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/0cFJfTwmx4KOM9zEy9i2nB"
+      },
+      "artists": [
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "duration_ms": 260551,
+      "name": "Body Pump",
+      "url": "https://open.spotify.com/track/7qxqsahO7eTkJpaJZUNfws"
+    },
+    {
       "added_at": "2023-06-16 06:53:32",
       "album": {
         "name": "crave you",
@@ -1855,22 +1871,6 @@
       "duration_ms": 160863,
       "name": "crave you",
       "url": "https://open.spotify.com/track/37dUHBmNPBtDhoi2HAVrIy"
-    },
-    {
-      "added_at": "2022-07-30 02:24:25",
-      "album": {
-        "name": "Renaissance",
-        "url": "https://open.spotify.com/album/0cFJfTwmx4KOM9zEy9i2nB"
-      },
-      "artists": [
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        }
-      ],
-      "duration_ms": 260551,
-      "name": "Body Pump",
-      "url": "https://open.spotify.com/track/7qxqsahO7eTkJpaJZUNfws"
     },
     {
       "added_at": "2022-07-30 02:24:25",

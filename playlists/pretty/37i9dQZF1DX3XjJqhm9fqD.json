@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Anie Alerte ",
-  "num_followers": 79572,
+  "num_followers": 79583,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNGE3ZGRmNjMzYTg2OTAwODVkYWM2MTBkZmM2YzVhNzFmZWFkY2Y4",
+  "snapshot_id": "MCw4Y2JmZjg1NzQ0ZTExODEyZDcyMTJkYjVkZjI2NDY4OTc2ZTBlMGM5",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -211,7 +211,7 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Strangers (Do You Remember) [feat. Yas Cepeda & EURI]",
+        "name": "Strangers (Do You Remember) [feat. Yas Cepeda]",
         "url": "https://open.spotify.com/album/07q9L0C9VnsMoiS4V0TZxc"
       },
       "artists": [
@@ -230,14 +230,10 @@
         {
           "name": "Yas Cepeda",
           "url": "https://open.spotify.com/artist/0QJLIqgHuWkj89BqRArjRP"
-        },
-        {
-          "name": "EURI",
-          "url": "https://open.spotify.com/artist/0veabgheMC6NnyTEbFUI5u"
         }
       ],
       "duration_ms": 191612,
-      "name": "Strangers (Do You Remember) [feat. Yas Cepeda & EURI]",
+      "name": "Strangers (Do You Remember) [feat. Yas Cepeda]",
       "url": "https://open.spotify.com/track/5OcKFs8X1MDhK6IT3mMIbo"
     },
     {
@@ -1123,6 +1119,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "New Life Livin",
+        "url": "https://open.spotify.com/album/0RzCStjG3EleF3nBseRL5z"
+      },
+      "artists": [
+        {
+          "name": "Kai Alce",
+          "url": "https://open.spotify.com/artist/7rltPaQHdstifwqWcQtSgh"
+        }
+      ],
+      "duration_ms": 311098,
+      "name": "New Life Livin",
+      "url": "https://open.spotify.com/track/5oUSwHrEKXPo8JoEUDWAvY"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Troubadour",
         "url": "https://open.spotify.com/album/13PNOP7VKrtWwQk5EIwU4z"
       },
@@ -1211,6 +1223,38 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/3FfED55YqhQ5YSQpdCs0tv"
+      },
+      "artists": [
+        {
+          "name": "Boukman Eksperyans",
+          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
+        }
+      ],
+      "duration_ms": 102466,
+      "name": "Imamou Lele",
+      "url": "https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Bal Tout",
+        "url": "https://open.spotify.com/album/0SePosVqUHGqxxjG6vMHyn"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 191067,
+      "name": "Bal Tout",
+      "url": "https://open.spotify.com/track/6ZBZ0q3WXLK9VAszMLenAU"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "HaitiaNola",
         "url": "https://open.spotify.com/album/6qyni7DUo0TiA0a7c25i0z"
       },
@@ -1259,54 +1303,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Bal Tout",
-        "url": "https://open.spotify.com/album/0SePosVqUHGqxxjG6vMHyn"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        }
-      ],
-      "duration_ms": 191067,
-      "name": "Bal Tout",
-      "url": "https://open.spotify.com/track/6ZBZ0q3WXLK9VAszMLenAU"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/3FfED55YqhQ5YSQpdCs0tv"
-      },
-      "artists": [
-        {
-          "name": "Boukman Eksperyans",
-          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
-        }
-      ],
-      "duration_ms": 102466,
-      "name": "Imamou Lele",
-      "url": "https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Anthology, Vol. IV",
-        "url": "https://open.spotify.com/album/6fEktCQSKnmBhsYZdZ16Ey"
-      },
-      "artists": [
-        {
-          "name": "Tabou Combo",
-          "url": "https://open.spotify.com/artist/5zOZ2RzZBQkptkPfg9nUoh"
-        }
-      ],
-      "duration_ms": 526373,
-      "name": "New York City",
-      "url": "https://open.spotify.com/track/2cJJoWEccalRGAZO0PqQDi"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Flavors",
         "url": "https://open.spotify.com/album/7gbA1mYGhf6KSQiatLhVxo"
       },
@@ -1327,22 +1323,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Show Me Love (feat. Meer Colon)",
-        "url": "https://open.spotify.com/album/0LWFzHbifhwlQsSj6XxDMJ"
+        "name": "Anthology, Vol. IV",
+        "url": "https://open.spotify.com/album/6fEktCQSKnmBhsYZdZ16Ey"
       },
       "artists": [
         {
-          "name": "TeaMarrr",
-          "url": "https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt"
-        },
-        {
-          "name": "Meer Colon",
-          "url": "https://open.spotify.com/artist/7hAMaYbIrHi6dH64fPNcTP"
+          "name": "Tabou Combo",
+          "url": "https://open.spotify.com/artist/5zOZ2RzZBQkptkPfg9nUoh"
         }
       ],
-      "duration_ms": 168510,
-      "name": "Show Me Love (feat. Meer Colon)",
-      "url": "https://open.spotify.com/track/2ShUIgUNPsamHqdmLDtQ1P"
+      "duration_ms": 526373,
+      "name": "New York City",
+      "url": "https://open.spotify.com/track/2cJJoWEccalRGAZO0PqQDi"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1359,6 +1351,26 @@
       "duration_ms": 200816,
       "name": "Love a Plein Temps",
       "url": "https://open.spotify.com/track/665HvOWV9Uxm40fuXiYI1B"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Show Me Love (feat. Meer Colon)",
+        "url": "https://open.spotify.com/album/0LWFzHbifhwlQsSj6XxDMJ"
+      },
+      "artists": [
+        {
+          "name": "TeaMarrr",
+          "url": "https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt"
+        },
+        {
+          "name": "Meer Colon",
+          "url": "https://open.spotify.com/artist/7hAMaYbIrHi6dH64fPNcTP"
+        }
+      ],
+      "duration_ms": 168510,
+      "name": "Show Me Love (feat. Meer Colon)",
+      "url": "https://open.spotify.com/track/2ShUIgUNPsamHqdmLDtQ1P"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1391,26 +1403,6 @@
       "duration_ms": 198533,
       "name": "Kote moun yo",
       "url": "https://open.spotify.com/track/356kn7ubMjPvMYT7VCYLts"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Ogou (Pran Ka Mwen)",
-        "url": "https://open.spotify.com/album/0pcQNg6r5x7FInniNRjP6y"
-      },
-      "artists": [
-        {
-          "name": "Lakou Mizik",
-          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
-        },
-        {
-          "name": "Joseph Ray",
-          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
-        }
-      ],
-      "duration_ms": 296666,
-      "name": "Ogou (Pran Ka Mwen)",
-      "url": "https://open.spotify.com/track/24w5p9O076nNIdVRkRwhhj"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1451,6 +1443,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Ogou (Pran Ka Mwen)",
+        "url": "https://open.spotify.com/album/0pcQNg6r5x7FInniNRjP6y"
+      },
+      "artists": [
+        {
+          "name": "Lakou Mizik",
+          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
+        },
+        {
+          "name": "Joseph Ray",
+          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
+        }
+      ],
+      "duration_ms": 296666,
+      "name": "Ogou (Pran Ka Mwen)",
+      "url": "https://open.spotify.com/track/24w5p9O076nNIdVRkRwhhj"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Se Ou M Chwazi",
         "url": "https://open.spotify.com/album/2p3uVHyJpc9sxzCTT7YXGx"
       },
@@ -1487,30 +1499,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Down With the Gouyad (Remix)",
-        "url": "https://open.spotify.com/album/6RMyeItHOR2umR7IV8eHjf"
-      },
-      "artists": [
-        {
-          "name": "DJ Magickenny",
-          "url": "https://open.spotify.com/artist/6qHhAzDr7urzQALhBUNh7N"
-        },
-        {
-          "name": "Dee End",
-          "url": "https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f"
-        },
-        {
-          "name": "Yuri Da King",
-          "url": "https://open.spotify.com/artist/49foDeFOFC7AjQSwLmrcqo"
-        }
-      ],
-      "duration_ms": 291157,
-      "name": "Down With the Gouyad (Remix)",
-      "url": "https://open.spotify.com/track/0kRAZ2tbj4WEELuzMrxeX5"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Trap King",
         "url": "https://open.spotify.com/album/5P5jwxaRvA0i64gOJoNpvK"
       },
@@ -1531,18 +1519,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Foli",
-        "url": "https://open.spotify.com/album/4efO7q3PXElITADlJKjjNm"
+        "name": "Down With the Gouyad (Remix)",
+        "url": "https://open.spotify.com/album/6RMyeItHOR2umR7IV8eHjf"
       },
       "artists": [
         {
-          "name": "Prophete",
-          "url": "https://open.spotify.com/artist/4X0h94zhNOynYlY7GOacga"
+          "name": "DJ Magickenny",
+          "url": "https://open.spotify.com/artist/6qHhAzDr7urzQALhBUNh7N"
+        },
+        {
+          "name": "Dee End",
+          "url": "https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f"
+        },
+        {
+          "name": "Yuri Da King",
+          "url": "https://open.spotify.com/artist/49foDeFOFC7AjQSwLmrcqo"
         }
       ],
-      "duration_ms": 177600,
-      "name": "Foli",
-      "url": "https://open.spotify.com/track/4Xn39gVpKmaf9wtjrGq7ol"
+      "duration_ms": 291157,
+      "name": "Down With the Gouyad (Remix)",
+      "url": "https://open.spotify.com/track/0kRAZ2tbj4WEELuzMrxeX5"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1583,6 +1579,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Foli",
+        "url": "https://open.spotify.com/album/4efO7q3PXElITADlJKjjNm"
+      },
+      "artists": [
+        {
+          "name": "Prophete",
+          "url": "https://open.spotify.com/artist/4X0h94zhNOynYlY7GOacga"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Foli",
+      "url": "https://open.spotify.com/track/4Xn39gVpKmaf9wtjrGq7ol"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Sote",
         "url": "https://open.spotify.com/album/2AwY7xfZpyp3VY2udktJXx"
       },
@@ -1595,38 +1607,6 @@
       "duration_ms": 148000,
       "name": "Sote",
       "url": "https://open.spotify.com/track/4J8sOc2MDhfyYfiSMfCHP8"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "New Life Livin",
-        "url": "https://open.spotify.com/album/0RzCStjG3EleF3nBseRL5z"
-      },
-      "artists": [
-        {
-          "name": "Kai Alce",
-          "url": "https://open.spotify.com/artist/7rltPaQHdstifwqWcQtSgh"
-        }
-      ],
-      "duration_ms": 311098,
-      "name": "New Life Livin",
-      "url": "https://open.spotify.com/track/5oUSwHrEKXPo8JoEUDWAvY"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "La Vibe Tropicale EP",
-        "url": "https://open.spotify.com/album/7iPsCx6iGPY9ZUNEA2MuHH"
-      },
-      "artists": [
-        {
-          "name": "DZgot",
-          "url": "https://open.spotify.com/artist/5iBk1Zgk2MpjUKJAZzUala"
-        }
-      ],
-      "duration_ms": 230476,
-      "name": "Bout Konpa - Original Mix",
-      "url": "https://open.spotify.com/track/55PtuQkEHQn7Hv8Eol2s4M"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1647,6 +1627,22 @@
       "duration_ms": 173025,
       "name": "No Regrets",
       "url": "https://open.spotify.com/track/1bHB640sZKz0NAhmTVLRB2"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "La Vibe Tropicale EP",
+        "url": "https://open.spotify.com/album/7iPsCx6iGPY9ZUNEA2MuHH"
+      },
+      "artists": [
+        {
+          "name": "DZgot",
+          "url": "https://open.spotify.com/artist/5iBk1Zgk2MpjUKJAZzUala"
+        }
+      ],
+      "duration_ms": 230476,
+      "name": "Bout Konpa - Original Mix",
+      "url": "https://open.spotify.com/track/55PtuQkEHQn7Hv8Eol2s4M"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1711,22 +1707,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Can't Catch Me",
-        "url": "https://open.spotify.com/album/7IBOw2bmNaBtvrVj23qiOK"
-      },
-      "artists": [
-        {
-          "name": "Jessie Woo",
-          "url": "https://open.spotify.com/artist/2eIEzwxBh1vDSSbUfZkeLL"
-        }
-      ],
-      "duration_ms": 229991,
-      "name": "Can't Catch Me",
-      "url": "https://open.spotify.com/track/4t2gMGEevHHuBmd0rW2R2C"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "U.F.O.",
         "url": "https://open.spotify.com/album/53soDtHypog8Dy2SByOsBu"
       },
@@ -1743,6 +1723,22 @@
       "duration_ms": 210857,
       "name": "U.F.O.",
       "url": "https://open.spotify.com/track/4Uhue4LwvocPIXjknChxBc"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Can't Catch Me",
+        "url": "https://open.spotify.com/album/7IBOw2bmNaBtvrVj23qiOK"
+      },
+      "artists": [
+        {
+          "name": "Jessie Woo",
+          "url": "https://open.spotify.com/artist/2eIEzwxBh1vDSSbUfZkeLL"
+        }
+      ],
+      "duration_ms": 229991,
+      "name": "Can't Catch Me",
+      "url": "https://open.spotify.com/track/4t2gMGEevHHuBmd0rW2R2C"
     },
     {
       "added_at": "2023-08-04 04:00:00",

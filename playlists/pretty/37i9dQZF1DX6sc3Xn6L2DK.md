@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 
 > Explore the stellar corners of the genre's expansive and marvelous universe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,230 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,261 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,22 +51,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 41 | [Los Angeles](https://open.spotify.com/track/5DQFjLWTW7AGqaPLdeXCTz) | [Dougie Poole](https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y) | [The Freelancer's Blues](https://open.spotify.com/album/4UxVJzE5iHPxl2mBWlEqC1) | 4:37 |
 | 42 | [Aw Heck](https://open.spotify.com/track/6AmZ17zWgqFkjD50TnzTvM) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Bruised Orange](https://open.spotify.com/album/1fW0Oyx3p2kVzo2INfW7Lb) | 2:20 |
 | 43 | [Golden](https://open.spotify.com/track/77EOVfDhyUX5nSzzc4ZEGX) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Good Woman](https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR) | 5:13 |
-| 44 | [Wrecking Ball](https://open.spotify.com/track/7AhLSMrjWMULOB9UH7lI7p) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Wrecking Ball](https://open.spotify.com/album/3S2rjqCFfpvZKqGcVkHjDP) | 4:49 |
-| 45 | [We Shouldn't Talk About It \(feat\. Emily Gimble\)](https://open.spotify.com/track/1ZN4HXmebT3dxEfpT83q25) | [Theo Lawrence](https://open.spotify.com/artist/28eXJYBZVGDRy1c7j4dIw2), [Emily Gimble](https://open.spotify.com/artist/5PGUi7TAPu7BpFXoDP6AUK) | [Plus de Sauce](https://open.spotify.com/album/329yK2nEn3owPZOdYcFHvQ) | 2:26 |
+| 44 | [We Shouldn't Talk About It \(feat\. Emily Gimble\)](https://open.spotify.com/track/1ZN4HXmebT3dxEfpT83q25) | [Theo Lawrence](https://open.spotify.com/artist/28eXJYBZVGDRy1c7j4dIw2), [Emily Gimble](https://open.spotify.com/artist/5PGUi7TAPu7BpFXoDP6AUK) | [Plus de Sauce](https://open.spotify.com/album/329yK2nEn3owPZOdYcFHvQ) | 2:26 |
+| 45 | [Wrecking Ball](https://open.spotify.com/track/7AhLSMrjWMULOB9UH7lI7p) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Wrecking Ball](https://open.spotify.com/album/3S2rjqCFfpvZKqGcVkHjDP) | 4:49 |
 | 46 | [Highways](https://open.spotify.com/track/0lv8vzoworXjrezBYz912U) | [Jim Sullivan](https://open.spotify.com/artist/4U4dyH3tMYOQMZYTjsXmeJ) | [U.F.O.](https://open.spotify.com/album/6zaVaNAjvlN583TtOJIpZu) | 2:51 |
 | 47 | [Where I Come From](https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [Patty Griffin](https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0) | 4:44 |
-| 48 | [Dublin, Texas](https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c) | [RF Shannon](https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5) | [Dublin, Texas](https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW) | 4:29 |
-| 49 | [Rendezvous USA](https://open.spotify.com/track/0WDNetEwAsjiavw67F33Mi) | [Terry Allen](https://open.spotify.com/artist/4QonkOS6ybWrJVYFWEHMZY) | [Lubbock \(on everything\)](https://open.spotify.com/album/31gOu9Ke5o3wgx1GyIDNYU) | 2:45 |
+| 48 | [Rendezvous USA](https://open.spotify.com/track/0WDNetEwAsjiavw67F33Mi) | [Terry Allen](https://open.spotify.com/artist/4QonkOS6ybWrJVYFWEHMZY) | [Lubbock \(on everything\)](https://open.spotify.com/album/31gOu9Ke5o3wgx1GyIDNYU) | 2:45 |
+| 49 | [Dublin, Texas](https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c) | [RF Shannon](https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5) | [Dublin, Texas](https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW) | 4:29 |
 | 50 | [America](https://open.spotify.com/track/5GOdN3y1m0pjoMC4OKifIp) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [American Love Song](https://open.spotify.com/album/6MiafQveSkts5v397zarWq) | 3:00 |
 | 51 | [Toshiba Sky](https://open.spotify.com/track/72LxGUlBbiJIAnUGXBPNAv) | [Dougie Poole](https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y) | [Toshiba Sky](https://open.spotify.com/album/1mpy274fg96Cu5cvhNStzh) | 3:16 |
 | 52 | [I’m Gonna Live Forever \(If It Kills Me\)](https://open.spotify.com/track/2aAsLnLdMdHnMi7JvF5NeK) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Modern Country](https://open.spotify.com/album/64esKG7wBOEr573Zp77cUT) | 5:25 |
-| 53 | [Why’d Ya Do It](https://open.spotify.com/track/0PWl6yqk7yuEooaJvrpFsY) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Jeremiah / Why’d Ya Do It](https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ) | 3:37 |
-| 54 | [U Do U](https://open.spotify.com/track/6V1PghqHfdiog7XTmVgaCa) | [The Kernal](https://open.spotify.com/artist/1hiClSI3M2zxypaLJfNYCu) | [U Do U](https://open.spotify.com/album/0GxM59RMcTXOsvp0otXaq0) | 3:54 |
+| 53 | [U Do U](https://open.spotify.com/track/6V1PghqHfdiog7XTmVgaCa) | [The Kernal](https://open.spotify.com/artist/1hiClSI3M2zxypaLJfNYCu) | [U Do U](https://open.spotify.com/album/0GxM59RMcTXOsvp0otXaq0) | 3:54 |
+| 54 | [Why’d Ya Do It](https://open.spotify.com/track/0PWl6yqk7yuEooaJvrpFsY) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Jeremiah / Why’d Ya Do It](https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ) | 3:37 |
 | 55 | [Rivers That You Cannot See](https://open.spotify.com/track/26bA7q3YUyxrGwftjN1Z7K) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S) | [Roped In](https://open.spotify.com/album/2TWvHZBa5cru4yanQijv5I) | 3:55 |
 | 56 | [Letting Go](https://open.spotify.com/track/0g6wylEFEz28As6I6iVmhh) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Letting Go](https://open.spotify.com/album/6kEte3BcsOoAwuGnVTkgME) | 3:24 |
 | 57 | [Wherever You Go](https://open.spotify.com/track/0blkm16pwu9wnnNLoHb3nM) | [Dee White](https://open.spotify.com/artist/44NXXiPYo5zuLYTyMKJBNU) | [Southern Gentleman](https://open.spotify.com/album/6ZRbVOgb2dPQRDCnXNerZp) | 3:20 |
-| 58 | [Strange Fascination](https://open.spotify.com/track/2ygPlZkaKoHXKBZ1LXZkXO) | [Chatham County Line](https://open.spotify.com/artist/3M2LPcqyD4PxbOFvtF05R7), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Strange Fascination](https://open.spotify.com/album/7kXILLnl4TJxQVfxb04wTs) | 4:18 |
-| 59 | [Sweet Tasting Tennessee](https://open.spotify.com/track/3uSD4eEDSHiNaQrWrKiHKm) | [Daniel Donato](https://open.spotify.com/artist/0BPT9SFoQzi6Pfk387jLE8) | [Sweet Tasting Tennessee](https://open.spotify.com/album/2skp8HNem0u215ksPeKI0W) | 3:59 |
+| 58 | [Sweet Tasting Tennessee](https://open.spotify.com/track/3uSD4eEDSHiNaQrWrKiHKm) | [Daniel Donato](https://open.spotify.com/artist/0BPT9SFoQzi6Pfk387jLE8) | [Sweet Tasting Tennessee](https://open.spotify.com/album/2skp8HNem0u215ksPeKI0W) | 3:59 |
+| 59 | [Strange Fascination](https://open.spotify.com/track/2ygPlZkaKoHXKBZ1LXZkXO) | [Chatham County Line](https://open.spotify.com/artist/3M2LPcqyD4PxbOFvtF05R7), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Strange Fascination](https://open.spotify.com/album/7kXILLnl4TJxQVfxb04wTs) | 4:18 |
 | 60 | [Cocaine Country Dancing](https://open.spotify.com/track/16l9NihqKg5PcBbbIi2buW) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Cocaine Country Dancing](https://open.spotify.com/album/2Pex98kXgvEKVRROOTONZL) | 4:16 |
 | 61 | [Stone Me](https://open.spotify.com/track/41G13b0SToDtz6rIENwswT) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [That's How Rumors Get Started](https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL) | 3:09 |
 | 62 | [Sundown \(feat\. Beth Orton\)](https://open.spotify.com/track/0HVVifb5UsoyovICBXwNOf) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4), [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [Sam Amidon](https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m) | 3:33 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 74 | [When A Cowboy Trades His Spurs For Wings](https://open.spotify.com/track/6KXIT7swzbtBjIepVzbarJ) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz), [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [When A Cowboy Trades His Spurs For Wings](https://open.spotify.com/album/12oUJEpXjAjVAgRWtQ50s9) | 3:03 |
 | 75 | [Happy Birthday, Baby](https://open.spotify.com/track/34VFKmBbDY1iKejeoJZHlK) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu) | 3:45 |
 
-Snapshot ID: `MCxmNDAzNzE5NWU3ODNjZmUzM2MwOGRmY2I5ZGYxZjY1YWUyMzZkNTc4`
+Snapshot ID: `MCw1ZDUyNmEwMWFhMWU3ODc1MzY2Yjk3ZjQ4ZThhMTQ0ODJhYmIxMjk3`

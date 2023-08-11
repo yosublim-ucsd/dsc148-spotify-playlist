@@ -1,12 +1,12 @@
 {
   "description": "Los abanderados del rock argentino y sus himnos con Fito Paez.",
-  "num_followers": 1151444,
+  "num_followers": 1151648,
   "original_name": "Iconos del Rock Argentino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWQ0Mjk3YjNhZTI4MTQzYzBhNWU1YjkyNjE5ZTIwZjQ3NzE4ZmEz",
+  "snapshot_id": "MCxhODJmYTkxYTk4MDk4YTU5MWU3OWE2ODQ0ZmRlNWUyYmE5NTc0ODU0",
   "tracks": [
     {
       "added_at": "2023-05-03 13:45:22",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-05-03 13:45:22",
       "album": {
+        "name": "Chac Tu Chac",
+        "url": "https://open.spotify.com/album/5OWKnhm9lqNlQwZRXdzzLK"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "duration_ms": 240013,
+      "name": "Tan Solo",
+      "url": "https://open.spotify.com/track/6Soxxi73U6SO4rOGJwYYxI"
+    },
+    {
+      "added_at": "2023-05-03 13:45:22",
+      "album": {
         "name": "Tango 4",
         "url": "https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 186466,
       "name": "Tu Amor",
       "url": "https://open.spotify.com/track/3obYcaXHdTB1EvZE3PVQhd"
-    },
-    {
-      "added_at": "2023-05-03 13:45:22",
-      "album": {
-        "name": "Chac Tu Chac",
-        "url": "https://open.spotify.com/album/5OWKnhm9lqNlQwZRXdzzLK"
-      },
-      "artists": [
-        {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
-        }
-      ],
-      "duration_ms": 240013,
-      "name": "Tan Solo",
-      "url": "https://open.spotify.com/track/6Soxxi73U6SO4rOGJwYYxI"
     },
     {
       "added_at": "2023-05-03 13:45:22",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-05-03 13:45:22",
       "album": {
-        "name": "Civilizaci\u00f3n",
-        "url": "https://open.spotify.com/album/2UWwSvdLSntNblYm32f6aN"
-      },
-      "artists": [
-        {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
-        }
-      ],
-      "duration_ms": 320760,
-      "name": "Bicho de Ciudad",
-      "url": "https://open.spotify.com/track/1L9ybuuZdLY3biLEgfN4zB"
-    },
-    {
-      "added_at": "2023-05-03 13:45:22",
-      "album": {
         "name": "Los Fabulosos Cadillacs - Vol. V",
         "url": "https://open.spotify.com/album/5yv3ZFKygQ7PtOe91V8H1L"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 252426,
       "name": "Demasiada Presi\u00f3n - Remasterizado 2008",
       "url": "https://open.spotify.com/track/1CwyfupBufLXfYdPr8LhDF"
+    },
+    {
+      "added_at": "2023-05-03 13:45:22",
+      "album": {
+        "name": "Civilizaci\u00f3n",
+        "url": "https://open.spotify.com/album/2UWwSvdLSntNblYm32f6aN"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "duration_ms": 320760,
+      "name": "Bicho de Ciudad",
+      "url": "https://open.spotify.com/track/1L9ybuuZdLY3biLEgfN4zB"
     },
     {
       "added_at": "2023-05-03 13:45:22",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-05-03 13:45:22",
       "album": {
-        "name": "M\u00e1quina de Sangre",
-        "url": "https://open.spotify.com/album/2CzDXrQbEVI5gJq79rvBZx"
-      },
-      "artists": [
-        {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
-        }
-      ],
-      "duration_ms": 211653,
-      "name": "Como Al\u00ed",
-      "url": "https://open.spotify.com/track/7Gjlbz4TEoeBGH43eEd3hs"
-    },
-    {
-      "added_at": "2023-05-03 13:45:22",
-      "album": {
         "name": "El N\u00famero Imperfecto",
         "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
       },
@@ -943,6 +927,22 @@
     {
       "added_at": "2023-05-03 13:45:22",
       "album": {
+        "name": "M\u00e1quina de Sangre",
+        "url": "https://open.spotify.com/album/2CzDXrQbEVI5gJq79rvBZx"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "duration_ms": 211653,
+      "name": "Como Al\u00ed",
+      "url": "https://open.spotify.com/track/7Gjlbz4TEoeBGH43eEd3hs"
+    },
+    {
+      "added_at": "2023-05-03 13:45:22",
+      "album": {
         "name": "Un Bai\u00f3n para el Ojo Idiota",
         "url": "https://open.spotify.com/album/3bSPbmYHqouqpTO2dw0EW5"
       },
@@ -955,54 +955,6 @@
       "duration_ms": 208400,
       "name": "Vencedores Vencidos",
       "url": "https://open.spotify.com/track/7EFMYtN7FFFNLzxOa9OgGC"
-    },
-    {
-      "added_at": "2023-05-03 13:45:22",
-      "album": {
-        "name": "Girando",
-        "url": "https://open.spotify.com/album/5uXPldCWi4gWWQRkbT0m5B"
-      },
-      "artists": [
-        {
-          "name": "Ratones Paranoicos",
-          "url": "https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c"
-        }
-      ],
-      "duration_ms": 238506,
-      "name": "Sigue Girando",
-      "url": "https://open.spotify.com/track/4wjbUTC312rQO7rziAONDa"
-    },
-    {
-      "added_at": "2023-05-03 13:45:22",
-      "album": {
-        "name": "Vol I",
-        "url": "https://open.spotify.com/album/3MMn99oMe2maysD6Vq441s"
-      },
-      "artists": [
-        {
-          "name": "GIT",
-          "url": "https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM"
-        }
-      ],
-      "duration_ms": 266786,
-      "name": "La Calle Es Su Lugar",
-      "url": "https://open.spotify.com/track/0u5w3ehyNtTgSPvKVMU2xv"
-    },
-    {
-      "added_at": "2023-05-03 13:45:22",
-      "album": {
-        "name": "Verde Paisaje del Infierno",
-        "url": "https://open.spotify.com/album/5BXYr7iU56rEX24QQPYcjO"
-      },
-      "artists": [
-        {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
-        }
-      ],
-      "duration_ms": 256386,
-      "name": "Ruleta",
-      "url": "https://open.spotify.com/track/3cTcRPhf3Kal3UOmtVpwKo"
     },
     {
       "added_at": "2023-05-03 13:45:22",
@@ -1031,6 +983,38 @@
     {
       "added_at": "2023-05-03 13:45:22",
       "album": {
+        "name": "Vol I",
+        "url": "https://open.spotify.com/album/3MMn99oMe2maysD6Vq441s"
+      },
+      "artists": [
+        {
+          "name": "GIT",
+          "url": "https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM"
+        }
+      ],
+      "duration_ms": 266786,
+      "name": "La Calle Es Su Lugar",
+      "url": "https://open.spotify.com/track/0u5w3ehyNtTgSPvKVMU2xv"
+    },
+    {
+      "added_at": "2023-05-03 13:45:22",
+      "album": {
+        "name": "Girando",
+        "url": "https://open.spotify.com/album/5uXPldCWi4gWWQRkbT0m5B"
+      },
+      "artists": [
+        {
+          "name": "Ratones Paranoicos",
+          "url": "https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c"
+        }
+      ],
+      "duration_ms": 238506,
+      "name": "Sigue Girando",
+      "url": "https://open.spotify.com/track/4wjbUTC312rQO7rziAONDa"
+    },
+    {
+      "added_at": "2023-05-03 13:45:22",
+      "album": {
         "name": "A Trav\u00e9s del Mar de los Sargazos",
         "url": "https://open.spotify.com/album/3eES9LlGLw5o7ZNbOfmscZ"
       },
@@ -1043,22 +1027,6 @@
       "duration_ms": 272480,
       "name": "Oda a la Sin Nombre",
       "url": "https://open.spotify.com/track/5l6HQ03qnofn7Us7cADWQg"
-    },
-    {
-      "added_at": "2023-05-03 13:45:22",
-      "album": {
-        "name": "La Mosca y la Sopa",
-        "url": "https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 212400,
-      "name": "El Pibe de los Astilleros",
-      "url": "https://open.spotify.com/track/02ZtIbjdZKpvdeUNmY0LWp"
     },
     {
       "added_at": "2023-05-03 13:45:22",
@@ -1079,6 +1047,22 @@
     {
       "added_at": "2023-05-03 13:45:22",
       "album": {
+        "name": "La Mosca y la Sopa",
+        "url": "https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 212400,
+      "name": "El Pibe de los Astilleros",
+      "url": "https://open.spotify.com/track/02ZtIbjdZKpvdeUNmY0LWp"
+    },
+    {
+      "added_at": "2023-05-03 13:45:22",
+      "album": {
         "name": "Vida",
         "url": "https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM"
       },
@@ -1095,8 +1079,8 @@
     {
       "added_at": "2023-05-03 13:45:22",
       "album": {
-        "name": "3er Arco",
-        "url": "https://open.spotify.com/album/2tqxwMkehDRiz4gErUNZ0Q"
+        "name": "Verde Paisaje del Infierno",
+        "url": "https://open.spotify.com/album/5BXYr7iU56rEX24QQPYcjO"
       },
       "artists": [
         {
@@ -1104,9 +1088,9 @@
           "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
         }
       ],
-      "duration_ms": 253933,
-      "name": "El Farolito",
-      "url": "https://open.spotify.com/track/5QpdTr2fHXLF0Oj8TcGHmV"
+      "duration_ms": 256386,
+      "name": "Ruleta",
+      "url": "https://open.spotify.com/track/3cTcRPhf3Kal3UOmtVpwKo"
     },
     {
       "added_at": "2023-05-03 13:45:22",
@@ -1227,6 +1211,22 @@
     {
       "added_at": "2023-05-03 13:45:22",
       "album": {
+        "name": "3er Arco",
+        "url": "https://open.spotify.com/album/2tqxwMkehDRiz4gErUNZ0Q"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "duration_ms": 253933,
+      "name": "El Farolito",
+      "url": "https://open.spotify.com/track/5QpdTr2fHXLF0Oj8TcGHmV"
+    },
+    {
+      "added_at": "2023-05-03 13:45:22",
+      "album": {
         "name": "Kamikaze",
         "url": "https://open.spotify.com/album/3mUwlh7aK2PHj8aUrI9Nyt"
       },
@@ -1291,18 +1291,22 @@
     {
       "added_at": "2023-05-03 13:45:22",
       "album": {
-        "name": "Devorador De Corazones",
-        "url": "https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH"
+        "name": "Porco Rex",
+        "url": "https://open.spotify.com/album/0CJMyEhIr0E4gyiQ3LqVp4"
       },
       "artists": [
         {
-          "name": "La Portuaria",
-          "url": "https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7"
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+        },
+        {
+          "name": "Los Fundamentalistas del Aire Acondicionado",
+          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
         }
       ],
-      "duration_ms": 248706,
-      "name": "Selva",
-      "url": "https://open.spotify.com/track/2En6fFzzlzPLcV8sXwrx7X"
+      "duration_ms": 240800,
+      "name": "Y Mientras Tanto el Sol Se Muere...",
+      "url": "https://open.spotify.com/track/63WYTOfMwaoD1OwsM2fdBg"
     }
   ],
   "unique_name": "Iconos del Rock Argentino",

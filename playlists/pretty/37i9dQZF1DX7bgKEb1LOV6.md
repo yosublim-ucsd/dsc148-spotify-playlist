@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bgKEb1LOV6.md) - [plain]
 
 > To the world, this is NCT!
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,041 likes - 52 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 642,074 likes - 52 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bgKEb1LOV6.md) - [plain]
 | 51 | [Make Your Day](https://open.spotify.com/track/3AHenSAPA6AQZZnyuWHJnz) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone: The Final Round \- The 2nd Album Repackage](https://open.spotify.com/album/64F7bFLt8ULAfBl2L4Pyv4) | 3:35 |
 | 52 | [WITHOUT YOU](https://open.spotify.com/track/78DVHbAahuQF56gOC4GnuN) | [NCT](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG), [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT 2018 EMPATHY](https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX) | 3:25 |
 
-Snapshot ID: `MCxhZmMwNTY5NmUwM2RjMGJiZTI4ZmRmOWJmNzUzYTIxOTQ1YTJiZmU4`
+Snapshot ID: `MCwwNDRmZjgzZDE2MGJiZGE4YmY5YzdkMWIwZmM3ZTM1Mzg3ZTE4MDM0`

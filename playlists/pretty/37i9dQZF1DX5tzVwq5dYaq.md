@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5tzVwq5dYaq.md) - [plain]
 
 > la primavera non è una stagione, è un mood 🌷
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,730 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,736 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,14 +71,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5tzVwq5dYaq.md) - [plain]
 | 61 | [On Top Of The World](https://open.spotify.com/track/6KuHjfXHkfnIjdmcIvt9r0) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions \(Deluxe\)](https://open.spotify.com/album/1rzDtYMpZDhRgKNigB467r) | 3:09 |
 | 62 | [WORTHLESS](https://open.spotify.com/track/26vDr5jgWQoJOTH4Bu3KCQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:43 |
 | 63 | [Up&Up](https://open.spotify.com/track/31L9yLXSj6LpCFupyMV6CR) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams](https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw) | 6:45 |
-| 64 | [The Cave](https://open.spotify.com/track/3vUn7FE3ZaQgJmkhIrIirF) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S) | 3:37 |
-| 65 | [Mess](https://open.spotify.com/track/1BlQWQgGP84r4GYUVty4Ar) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Busyhead](https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd) | 3:33 |
+| 64 | [Mess](https://open.spotify.com/track/1BlQWQgGP84r4GYUVty4Ar) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Busyhead](https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd) | 3:33 |
+| 65 | [The Cave](https://open.spotify.com/track/3vUn7FE3ZaQgJmkhIrIirF) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S) | 3:37 |
 | 66 | [Little Bit of Love](https://open.spotify.com/track/3Iba59sFmGhQ4kbCY5L8AX) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Evering Road \(Deluxe\)](https://open.spotify.com/album/19ftohYqQetn7BoGQXXlSd) | 3:46 |
 | 67 | [Emily I'm Sorry](https://open.spotify.com/track/693xmBAOD4xwkS4W71W1Jn) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:34 |
 | 68 | [Bubbly](https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Coco](https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH) | 3:16 |
 | 69 | [Placebo Effect](https://open.spotify.com/track/6m3T4RHAMaSIKUDsxko43y) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Placebo Effect](https://open.spotify.com/album/3dFr6Li35Nik82qwIMrSYa) | 3:11 |
-| 70 | [It's a Beautiful Day](https://open.spotify.com/track/0mvkwaZMP2gAy2ApQLtZRv) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [To Be Loved](https://open.spotify.com/album/4Yf5LJfqpjgl1a4TBiCi07) | 3:19 |
-| 71 | [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 |
+| 70 | [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 |
+| 71 | [It's a Beautiful Day](https://open.spotify.com/track/0mvkwaZMP2gAy2ApQLtZRv) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [To Be Loved](https://open.spotify.com/album/4Yf5LJfqpjgl1a4TBiCi07) | 3:19 |
 | 72 | [How I'm Feeling Now](https://open.spotify.com/track/5AGS8VxsLyHQOWz0ZTuwIN) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:46 |
 | 73 | [Pistol](https://open.spotify.com/track/5g5XvfePSypMK6eiVL6BI7) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Pistol](https://open.spotify.com/album/681myoJD0vQ3rCpF15ECcP) | 3:54 |
 | 74 | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU) | 2:10 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5tzVwq5dYaq.md) - [plain]
 | 96 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 |
 | 97 | [parachute](https://open.spotify.com/track/3orJ0XpgXRG1LTA521BpDz) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [love + everything else](https://open.spotify.com/album/3viPcBAym7FXyZWuvTM5T7) | 2:36 |
 | 98 | [Love To Lose](https://open.spotify.com/track/11lFSEnkj3810ojPLj53RO) | [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Love To Lose](https://open.spotify.com/album/1K5uj6UM29p2LCqUm0kv1Q) | 2:57 |
-| 99 | [Ice Cream Man.](https://open.spotify.com/track/60KvZItTS7PpROovaNVQcy) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:08 |
-| 100 | [Saw You In A Dream](https://open.spotify.com/track/0U3u0HdRQjD8mAMYBak4Ok) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Saw You In A Dream](https://open.spotify.com/album/1x8SKoPwUTpOfc0w5gBPsk) | 3:28 |
+| 99 | [Saw You In A Dream](https://open.spotify.com/track/0U3u0HdRQjD8mAMYBak4Ok) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Saw You In A Dream](https://open.spotify.com/album/1x8SKoPwUTpOfc0w5gBPsk) | 3:28 |
+| 100 | [Ice Cream Man.](https://open.spotify.com/track/60KvZItTS7PpROovaNVQcy) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:08 |
 
-Snapshot ID: `MCw3ZTE0OTBlNDNiMGJkMDUzZTBhMGQ2ZTkyMDA2MDU3N2YxMjhiYzRj`
+Snapshot ID: `MCxkNzM0MmJkNmJjMGU0ZmRkZTFhNjc4MDAzOWMxY2M3NzhlZmRkN2I1`

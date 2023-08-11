@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AOEo0.md) - [plain]
 
 > This is Shane & Shane\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,315 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,331 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,15 +43,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AOEo0.md) - [plain]
 | 33 | [The Lord Is My Salvation](https://open.spotify.com/track/2hGceYvgFdrhriDL1KKDLF) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns, Vol\. 1](https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF) | 6:11 |
 | 34 | [Breathe](https://open.spotify.com/track/3GrMFCWoIh0YHULGsAuHj0) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Vintage](https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu) | 5:38 |
 | 35 | [Psalm 45 \(Fairest of All\)](https://open.spotify.com/track/3EWCQ11cjcgjKOCJFXTKuz) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Vol\. 2](https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu) | 5:25 |
-| 36 | [Tell the Story \(Psalm 8\) \- Live](https://open.spotify.com/track/1sUB2adev4A2MPZaEFzsUk) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Hymns, and Spiritual Songs \(Live\)](https://open.spotify.com/album/5HQ1DoBSvOsNK0hTw0NvPv) | 4:21 |
-| 37 | [Psalm 8 \(How Majestic Is Your Name\)](https://open.spotify.com/track/4SdrS21OB26xY1hWYTOA4i) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Hymns, and Spiritual Songs, Vol\. 1](https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf) | 5:22 |
+| 36 | [Psalm 8 \(How Majestic Is Your Name\)](https://open.spotify.com/track/4SdrS21OB26xY1hWYTOA4i) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Hymns, and Spiritual Songs, Vol\. 1](https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf) | 5:22 |
+| 37 | [Tell the Story \(Psalm 8\) \- Live](https://open.spotify.com/track/1sUB2adev4A2MPZaEFzsUk) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Hymns, and Spiritual Songs \(Live\)](https://open.spotify.com/album/5HQ1DoBSvOsNK0hTw0NvPv) | 4:21 |
 | 38 | [Our God Is Greater](https://open.spotify.com/track/61jQN64QwaHBfXidHeBU0H) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Dare 2 Share \- Unending Worship](https://open.spotify.com/album/7ijXWwAzI9UQwbUrFv7Dvd) | 4:42 |
-| 39 | [Come As You Are](https://open.spotify.com/track/7bIm0ycdw7tiQEjsKzSTmM) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 12](https://open.spotify.com/album/2vjhzwPDUzGP8Rp2iddddV) | 4:35 |
-| 40 | [Yet Not I but Through Christ in Me](https://open.spotify.com/track/1jGkQvxcRMqQf8VZhGpoNh) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Bethany Barnard](https://open.spotify.com/artist/7Gv0LZfeF8TMugerDVAMDk) | [The Worship Initiative, Vol\. 18](https://open.spotify.com/album/1cNnDUzgbdJG0i4GVrb609) | 5:52 |
+| 39 | [Yet Not I but Through Christ in Me](https://open.spotify.com/track/1jGkQvxcRMqQf8VZhGpoNh) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Bethany Barnard](https://open.spotify.com/artist/7Gv0LZfeF8TMugerDVAMDk) | [The Worship Initiative, Vol\. 18](https://open.spotify.com/album/1cNnDUzgbdJG0i4GVrb609) | 5:52 |
+| 40 | [Come As You Are](https://open.spotify.com/track/7bIm0ycdw7tiQEjsKzSTmM) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 12](https://open.spotify.com/album/2vjhzwPDUzGP8Rp2iddddV) | 4:35 |
 | 41 | [Draw Me Close](https://open.spotify.com/track/4cXn1bMqeZjyE65Ajl3Au8) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Vintage](https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu) | 5:54 |
 | 42 | [O Praise the Name \(Live\)](https://open.spotify.com/track/06JooBbucchucT6w3HaMlR) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms Live](https://open.spotify.com/album/3UzKQzSKz9lo1rGBDm7iFv) | 4:52 |
-| 43 | [Psalm 84 \(I'm Home\)](https://open.spotify.com/track/6BaCssQMVGSLNElXyrmmGF) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Hymns, and Spiritual Songs, Vol\. 1](https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf) | 5:02 |
-| 44 | [Though You Slay Me](https://open.spotify.com/track/2Ujuq5IFtnJJ7b63okoUo6) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Bring Your Nothing](https://open.spotify.com/album/2NsOkopEDusRSAYfXClwBa) | 4:38 |
+| 43 | [Though You Slay Me](https://open.spotify.com/track/2Ujuq5IFtnJJ7b63okoUo6) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Bring Your Nothing](https://open.spotify.com/album/2NsOkopEDusRSAYfXClwBa) | 4:38 |
+| 44 | [Psalm 84 \(I'm Home\)](https://open.spotify.com/track/6BaCssQMVGSLNElXyrmmGF) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Hymns, and Spiritual Songs, Vol\. 1](https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf) | 5:02 |
 | 45 | [Lord I Lift Your Name on High](https://open.spotify.com/track/7GyF1KwnX5YBxPw2gjbfOd) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Vintage](https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu) | 3:16 |
 | 46 | [Be Thou My Vision \(Lord You Are\) \[Acoustic\]](https://open.spotify.com/track/73O5yQB96iucUM1EGwVNhK) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns in the Round](https://open.spotify.com/album/06mNMNp8K3S2YtrAzlacOf) | 4:13 |
 | 47 | [My Portion \- Live](https://open.spotify.com/track/3mwWdYeDIXIN6tSLhU7EOf) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Hymns, and Spiritual Songs \(Live\)](https://open.spotify.com/album/5HQ1DoBSvOsNK0hTw0NvPv) | 5:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AOEo0.md) - [plain]
 | 49 | [Great Things](https://open.spotify.com/track/5BsG3NwkHDcCHtvvBnUmVb) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 18](https://open.spotify.com/album/1cNnDUzgbdJG0i4GVrb609) | 4:49 |
 | 50 | [Turn Your Eyes Upon Jesus \(Acoustic\)](https://open.spotify.com/track/5sM3BfN131EnsfNUxJYIJz) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns in the Round](https://open.spotify.com/album/06mNMNp8K3S2YtrAzlacOf) | 4:50 |
 
-Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDBhZTc0MGMxMGVkM2NlNjZlY2MzMzZmOGUyZDg0ZjE5Ng==`
+Snapshot ID: `MjgxOTQ1NjMsMDAwMDAwMDAzN2M0ZTM4YjAzNzcwMTUyMWQ4OTc1YTk4MmFmMmMxNQ==`

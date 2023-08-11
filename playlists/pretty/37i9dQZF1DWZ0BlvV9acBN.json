@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Fernandinho",
-  "num_followers": 123193,
+  "num_followers": 123313,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjN2IyN2I4NDY4MzEwY2JiMzg4ODU3NWIwMzUxMmI0ZTZkODk3YWMw",
+  "snapshot_id": "MCxmNzY4Y2VhOTRjMDEyNjVhOTYxZDZkNjk2YjVhYTBhMjE3NTFlN2Iz",
   "tracks": [
     {
       "added_at": "2023-08-04 17:53:24",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-08-04 17:53:24",
       "album": {
+        "name": "Nada Vai Me Parar",
+        "url": "https://open.spotify.com/album/3DkwV4LBkLW0vPX9ZOSAMv"
+      },
+      "artists": [
+        {
+          "name": "AtituD",
+          "url": "https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p"
+        }
+      ],
+      "duration_ms": 229320,
+      "name": "Nada Vai Me Parar",
+      "url": "https://open.spotify.com/track/5T5lgvGDNxEAxOHrKNMvTW"
+    },
+    {
+      "added_at": "2023-08-04 17:53:24",
+      "album": {
         "name": "Palavrantiga Ao Vivo (Pt. 4)",
         "url": "https://open.spotify.com/album/0zrjFPCQhd5XKGuQXEKswE"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 322400,
       "name": "Rookmaaker - Ao Vivo",
       "url": "https://open.spotify.com/track/3pnxplHFEuyGnGEHVoKkPo"
-    },
-    {
-      "added_at": "2023-08-04 17:53:24",
-      "album": {
-        "name": "Santo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3ZvYugynlgc6iZbK0esYQP"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 536192,
-      "name": "Santo - Ao Vivo",
-      "url": "https://open.spotify.com/track/7AT3T3FM5Beh4zlD9rVTHQ"
     },
     {
       "added_at": "2023-08-04 17:53:24",
@@ -647,18 +647,18 @@
     {
       "added_at": "2023-08-04 17:53:24",
       "album": {
-        "name": "Nada Vai Me Parar",
-        "url": "https://open.spotify.com/album/3DkwV4LBkLW0vPX9ZOSAMv"
+        "name": "Santo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3ZvYugynlgc6iZbK0esYQP"
       },
       "artists": [
         {
-          "name": "AtituD",
-          "url": "https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p"
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
         }
       ],
-      "duration_ms": 229320,
-      "name": "Nada Vai Me Parar",
-      "url": "https://open.spotify.com/track/5T5lgvGDNxEAxOHrKNMvTW"
+      "duration_ms": 536192,
+      "name": "Santo - Ao Vivo",
+      "url": "https://open.spotify.com/track/7AT3T3FM5Beh4zlD9rVTHQ"
     },
     {
       "added_at": "2023-08-04 17:53:24",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-08-04 17:53:24",
       "album": {
-        "name": "Peregrino",
-        "url": "https://open.spotify.com/album/4dR7tsqUtupAePL6ySYmJG"
-      },
-      "artists": [
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Peregrino",
-      "url": "https://open.spotify.com/track/0FvYGlP6nmNr1SJAABbhEQ"
-    },
-    {
-      "added_at": "2023-08-04 17:53:24",
-      "album": {
         "name": "Estrangeiro",
         "url": "https://open.spotify.com/album/3kI4PndJ7hoyt13PWIICpI"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 226911,
       "name": "Estrangeiro",
       "url": "https://open.spotify.com/track/2HdkGrK8kgT65oTqI2IyWU"
+    },
+    {
+      "added_at": "2023-08-04 17:53:24",
+      "album": {
+        "name": "Peregrino",
+        "url": "https://open.spotify.com/album/4dR7tsqUtupAePL6ySYmJG"
+      },
+      "artists": [
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Peregrino",
+      "url": "https://open.spotify.com/track/0FvYGlP6nmNr1SJAABbhEQ"
     },
     {
       "added_at": "2023-08-04 17:53:24",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-08-04 17:53:24",
       "album": {
-        "name": "Quarantine Session",
-        "url": "https://open.spotify.com/album/6m8Wrjp6evIkYI0fLlH6Uw"
-      },
-      "artists": [
-        {
-          "name": "Judas O Outro",
-          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Socorre-Me",
-      "url": "https://open.spotify.com/track/2cHtur9bWnYwsq6pbuJT1i"
-    },
-    {
-      "added_at": "2023-08-04 17:53:24",
-      "album": {
         "name": "Hoje",
         "url": "https://open.spotify.com/album/2ce7nhONsfJkhYvbdG302z"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 244457,
       "name": "N\u00e1ufrago",
       "url": "https://open.spotify.com/track/4S59qX21KI984gd80DhHCx"
+    },
+    {
+      "added_at": "2023-08-04 17:53:24",
+      "album": {
+        "name": "Quarantine Session",
+        "url": "https://open.spotify.com/album/6m8Wrjp6evIkYI0fLlH6Uw"
+      },
+      "artists": [
+        {
+          "name": "Judas O Outro",
+          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Socorre-Me",
+      "url": "https://open.spotify.com/track/2cHtur9bWnYwsq6pbuJT1i"
     },
     {
       "added_at": "2023-08-04 17:53:24",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-08-04 17:53:24",
       "album": {
+        "name": "Deserto 2.0",
+        "url": "https://open.spotify.com/album/3VGIpZyU0zCngGb8RkwIyR"
+      },
+      "artists": [
+        {
+          "name": "Judas O Outro",
+          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Deserto 2.0",
+      "url": "https://open.spotify.com/track/0rqsRcTKq25Y8nWlq8oeTI"
+    },
+    {
+      "added_at": "2023-08-04 17:53:24",
+      "album": {
         "name": "Trindade",
         "url": "https://open.spotify.com/album/7KRAib9LMy9keCV4YHT3aK"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 769852,
       "name": "Trindade",
       "url": "https://open.spotify.com/track/3rtLD5pPNKASw1t4MRnIW3"
-    },
-    {
-      "added_at": "2023-08-04 17:53:24",
-      "album": {
-        "name": "Deserto 2.0",
-        "url": "https://open.spotify.com/album/3VGIpZyU0zCngGb8RkwIyR"
-      },
-      "artists": [
-        {
-          "name": "Judas O Outro",
-          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Deserto 2.0",
-      "url": "https://open.spotify.com/track/0rqsRcTKq25Y8nWlq8oeTI"
     },
     {
       "added_at": "2023-08-04 17:53:24",

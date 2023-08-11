@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 
 > Dope, Asian, and Femme\. Cover: Bella Poarch
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,780 likes - 90 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,807 likes - 90 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 28 | [Killing Me](https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Killing Me](https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW) | 2:44 |
 | 29 | [Loved By U](https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D) | 3:27 |
 | 30 | [Split](https://open.spotify.com/track/7AE1oyRpPGoSwDs8b9XBO0) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Split](https://open.spotify.com/album/7uAHGGN6s8u1BwkA3uKYiQ) | 3:27 |
-| 31 | [universe](https://open.spotify.com/track/6gSBiIezn6yKhCVhBUOSwB) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [universe](https://open.spotify.com/album/5D6dyK4L4TSJrUtKzfPnma) | 3:06 |
-| 32 | [i'll never fall in love with myself \- demo](https://open.spotify.com/track/7Gkff5r7RcTyfJcDbowVA6) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [goodnight moon \(demos\)](https://open.spotify.com/album/0wuUCdkQxQOKiPabswFCrN) | 1:47 |
+| 31 | [i'll never fall in love with myself \- demo](https://open.spotify.com/track/7Gkff5r7RcTyfJcDbowVA6) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [goodnight moon \(demos\)](https://open.spotify.com/album/0wuUCdkQxQOKiPabswFCrN) | 1:47 |
+| 32 | [universe](https://open.spotify.com/track/6gSBiIezn6yKhCVhBUOSwB) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [universe](https://open.spotify.com/album/5D6dyK4L4TSJrUtKzfPnma) | 3:06 |
 | 33 | [Last Day On Earth](https://open.spotify.com/track/4yc69QtlnLzjcYSMPOtrEo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Last Day On Earth](https://open.spotify.com/album/7DSp5ZTFwHqzpGEMlbkVAj) | 3:42 |
 | 34 | [Lose](https://open.spotify.com/track/7rgjkzZBhBjObaYsvq8Ej0) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Lose](https://open.spotify.com/album/5GW3Hm4C7AkrClwby88sFJ) | 4:16 |
 | 35 | [Shapeshift](https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Shapeshift](https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf) | 2:25 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 70 | [Someone Else](https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Someone Else](https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk) | 3:27 |
 | 71 | [Can you](https://open.spotify.com/track/4fOYETeXvq7Ub4E9FMY3JB) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [Can you \(Galcher Lustwerk Remix\)](https://open.spotify.com/album/3afqWbI8qEdTB2CBDiKAAD) | 3:39 |
 | 72 | [Selfish](https://open.spotify.com/track/4U8z0N3ELIhn9gys3u4ahp) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Selfish](https://open.spotify.com/album/4fGjZLAfNlFz5hoUFuvyil) | 2:26 |
-| 73 | [GORGEOUS](https://open.spotify.com/track/1Pqc2ziy5pDMfZqLiQsOek) | [BODUR](https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU) | [GORGEOUS](https://open.spotify.com/album/7Fd8aPc4CzZVTKEn8ughdc) | 2:29 |
-| 74 | [Dance Like Nobody's Watching](https://open.spotify.com/track/18UGB6MfGfIQ4XevCMq4cK) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Dance Like Nobody's Watching](https://open.spotify.com/album/1KuHFlATr4aoVahHKY3pzU) | 3:45 |
+| 73 | [Dance Like Nobody's Watching](https://open.spotify.com/track/18UGB6MfGfIQ4XevCMq4cK) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Dance Like Nobody's Watching](https://open.spotify.com/album/1KuHFlATr4aoVahHKY3pzU) | 3:45 |
+| 74 | [GORGEOUS](https://open.spotify.com/track/1Pqc2ziy5pDMfZqLiQsOek) | [BODUR](https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU) | [GORGEOUS](https://open.spotify.com/album/7Fd8aPc4CzZVTKEn8ughdc) | 2:29 |
 | 75 | [Rings of Saturn](https://open.spotify.com/track/6B2smPDLlM2Ms59jSB4pVH) | [Alann8h](https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We) | [Apollo 8](https://open.spotify.com/album/6ktVSiT3MwRj9z5CJjC2df) | 2:53 |
 | 76 | [Space](https://open.spotify.com/track/0CtFIDCGTfn34IBYKkApU3) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Space](https://open.spotify.com/album/2wlUiuYslbNLsbsRHy08U9) | 3:13 |
 | 77 | [Seoul](https://open.spotify.com/track/3tezw2TeluZkzOEEztyjSZ) | [Sofia Kay](https://open.spotify.com/artist/3WM4raBaPOxPARlf256t5Q) | [Seoul](https://open.spotify.com/album/60v3Lr2b3Pq5tjTOTzJPpv) | 3:33 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 89 | [Goddess \- Holly T Remix](https://open.spotify.com/track/2AMMUAPPA0pg5nOS90lNIP) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [Holly T](https://open.spotify.com/artist/1r5lkGxVUvzfpxk4iuSYmX) | [Goddess \(Holly T Remix\)](https://open.spotify.com/album/1rayZOYkDr6D7jBCIdVO19) | 2:55 |
 | 90 | [Chatter](https://open.spotify.com/track/6S3B1l2CIGvEo3vLpVfBRQ) | [Jess Connelly](https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN) | [Chatter](https://open.spotify.com/album/0ke6IZ0jAiFuZuOT7Jwr8u) | 2:53 |
 
-Snapshot ID: `MCwzMjhlNzgxNmVjZWJhODVjMWJmNzc2ZWM0ZjRmOWZkM2VhNzMyNDM1`
+Snapshot ID: `MCwwOGJmNDk4OTRlNmE0ZGU3NjcwZTMyY2FlOGY4MzgyNzdiNzlhMGMx`

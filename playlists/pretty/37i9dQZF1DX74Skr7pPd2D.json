@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 40024,
+  "num_followers": 40028,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTQ1NTZiYTU3NzcxOTU5MWU0ZmQ3ZDcwZGFlNDE4OWIxNGE2OWNh",
+  "snapshot_id": "MCw4Y2E3MjIyMmI4YzFiZGY0MjYxYzA1NGJhY2RiZDM0M2NkYTRhNDAz",
   "tracks": [
     {
       "added_at": "2019-10-02 08:54:10",
@@ -693,26 +693,6 @@
       "url": "https://open.spotify.com/track/13JH84neRa4hNDZwrdMGBD"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "The Genius Of Coleman Hawkins (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0Z2OKl1GiVUStRfHyqMZzz"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        },
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 217960,
-      "name": "I Wished On The Moon - Stereo Version",
-      "url": "https://open.spotify.com/track/2dcLrmsyULzRcPH0IHRwVh"
-    },
-    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "River: The Joni Letters (Expanded Edition)",
@@ -731,6 +711,26 @@
       "duration_ms": 324960,
       "name": "River",
       "url": "https://open.spotify.com/track/6pQ7nunBpQc5In5wBl2ZhK"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "The Genius Of Coleman Hawkins (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0Z2OKl1GiVUStRfHyqMZzz"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 217960,
+      "name": "I Wished On The Moon - Stereo Version",
+      "url": "https://open.spotify.com/track/2dcLrmsyULzRcPH0IHRwVh"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -911,18 +911,18 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Soul Sauce",
-        "url": "https://open.spotify.com/album/1F3ZdAeTsfMzczAZnbwvUC"
+        "name": "A Generation Ago Today",
+        "url": "https://open.spotify.com/album/1L4xE6y5n2qKfYqJCoqzLf"
       },
       "artists": [
         {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
         }
       ],
-      "duration_ms": 147266,
-      "name": "Soul Sauce",
-      "url": "https://open.spotify.com/track/7rs02j1JLO1fZgOPrkuy0D"
+      "duration_ms": 368000,
+      "name": "Stompin' At The Savoy",
+      "url": "https://open.spotify.com/track/4Skc87uKf4cHqEYbnr56La"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -943,18 +943,18 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "A Generation Ago Today",
-        "url": "https://open.spotify.com/album/1L4xE6y5n2qKfYqJCoqzLf"
+        "name": "Soul Sauce",
+        "url": "https://open.spotify.com/album/1F3ZdAeTsfMzczAZnbwvUC"
       },
       "artists": [
         {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
         }
       ],
-      "duration_ms": 368000,
-      "name": "Stompin' At The Savoy",
-      "url": "https://open.spotify.com/track/4Skc87uKf4cHqEYbnr56La"
+      "duration_ms": 147266,
+      "name": "Soul Sauce",
+      "url": "https://open.spotify.com/track/7rs02j1JLO1fZgOPrkuy0D"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "You Gotta Pay The Band",
-        "url": "https://open.spotify.com/album/46Nud1h9wn7KUqRKGtI0MP"
-      },
-      "artists": [
-        {
-          "name": "Abbey Lincoln",
-          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
-        }
-      ],
-      "duration_ms": 405226,
-      "name": "Brother? Can You Spare A Dime?",
-      "url": "https://open.spotify.com/track/6Fohf2UjKz9AJOKKw7RN0e"
-    },
-    {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
         "name": "Lester Swings",
         "url": "https://open.spotify.com/album/1YtMIgRjJvAUtbidTuRMAg"
       },
@@ -1197,20 +1181,20 @@
       "url": "https://open.spotify.com/track/2LYklTGasuPu3GbcEDUuNa"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
+      "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "Giblet Gravy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2tqkMzsAAFDhOwjGGCkJZJ"
+        "name": "You Gotta Pay The Band",
+        "url": "https://open.spotify.com/album/46Nud1h9wn7KUqRKGtI0MP"
       },
       "artists": [
         {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+          "name": "Abbey Lincoln",
+          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
         }
       ],
-      "duration_ms": 332733,
-      "name": "What's New?",
-      "url": "https://open.spotify.com/track/6rUJjG9w109kXQywBxfPLV"
+      "duration_ms": 405226,
+      "name": "Brother? Can You Spare A Dime?",
+      "url": "https://open.spotify.com/track/6Fohf2UjKz9AJOKKw7RN0e"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1227,6 +1211,22 @@
       "duration_ms": 338826,
       "name": "Cheek To Cheek",
       "url": "https://open.spotify.com/track/1h3X4QybzSWb7XaokCC6iF"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Giblet Gravy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2tqkMzsAAFDhOwjGGCkJZJ"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 332733,
+      "name": "What's New?",
+      "url": "https://open.spotify.com/track/6rUJjG9w109kXQywBxfPLV"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -1263,22 +1263,6 @@
       "duration_ms": 120813,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/00GTtlXO556jzueCinWmu9"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Wholly Earth",
-        "url": "https://open.spotify.com/album/4eojsgohs6cXhmjtekufUE"
-      },
-      "artists": [
-        {
-          "name": "Abbey Lincoln",
-          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
-        }
-      ],
-      "duration_ms": 397160,
-      "name": "Conversation With A Baby",
-      "url": "https://open.spotify.com/track/0cPMVEgQVpm6m4uinaydQE"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -1363,6 +1347,22 @@
       "duration_ms": 487026,
       "name": "Norwegian Wood",
       "url": "https://open.spotify.com/track/4sHqA2YvJiPsOQbP63LtbW"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Wholly Earth",
+        "url": "https://open.spotify.com/album/4eojsgohs6cXhmjtekufUE"
+      },
+      "artists": [
+        {
+          "name": "Abbey Lincoln",
+          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
+        }
+      ],
+      "duration_ms": 397160,
+      "name": "Conversation With A Baby",
+      "url": "https://open.spotify.com/track/0cPMVEgQVpm6m4uinaydQE"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -1549,20 +1549,20 @@
       "url": "https://open.spotify.com/track/7HkBHqWkeVcm4TKRzo0wjU"
     },
     {
-      "added_at": "2019-10-04 16:01:14",
+      "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Birks Works: The Verve Big-Band Sessions",
-        "url": "https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS"
+        "name": "Gettin' To It",
+        "url": "https://open.spotify.com/album/0sTCOTNTXhgAxUvwCnyIK2"
       },
       "artists": [
         {
-          "name": "Dizzy Gillespie Sextet",
-          "url": "https://open.spotify.com/artist/3LZnEYR8H7Odg793sSJbmU"
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
         }
       ],
-      "duration_ms": 175800,
-      "name": "I Can't Get Started",
-      "url": "https://open.spotify.com/track/24pCNUnKGmlG9MEzYkgBR1"
+      "duration_ms": 323306,
+      "name": "Stars Fell On Alabama",
+      "url": "https://open.spotify.com/track/4ViAydYxcGT7wLuilsvdsc"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -1581,20 +1581,20 @@
       "url": "https://open.spotify.com/track/1tXiZvtgg9XqlB86x4Ukqj"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
+      "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "Gettin' To It",
-        "url": "https://open.spotify.com/album/0sTCOTNTXhgAxUvwCnyIK2"
+        "name": "Birks Works: The Verve Big-Band Sessions",
+        "url": "https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS"
       },
       "artists": [
         {
-          "name": "Christian McBride",
-          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+          "name": "Dizzy Gillespie Sextet",
+          "url": "https://open.spotify.com/artist/3LZnEYR8H7Odg793sSJbmU"
         }
       ],
-      "duration_ms": 323306,
-      "name": "Stars Fell On Alabama",
-      "url": "https://open.spotify.com/track/4ViAydYxcGT7wLuilsvdsc"
+      "duration_ms": 175800,
+      "name": "I Can't Get Started",
+      "url": "https://open.spotify.com/track/24pCNUnKGmlG9MEzYkgBR1"
     },
     {
       "added_at": "2019-10-04 16:01:14",

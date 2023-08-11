@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 
 > Rock that was on repeat during the summers of the 1970s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,208 likes - 100 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,227 likes - 100 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 | 18 | [Breakfast In America \- 2010 Remastered](https://open.spotify.com/track/4a5pNRjwmzYQuEY1E7O6pj) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Breakfast In America \(Deluxe Edition\)](https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna) | 2:39 |
 | 19 | [Don't Stop \- 2004 Remaster](https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:13 |
 | 20 | [Layla](https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz) | [Derek & The Dominos](https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z) | [Layla And Other Assorted Love Songs \(Remastered 2010\)](https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM) | 7:03 |
-| 21 | [Long Train Runnin'](https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [The Captain and Me](https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt) | 3:27 |
-| 22 | [My Sharona](https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj) | [The Knack](https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r) | [Get The Knack](https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi) | 4:55 |
+| 21 | [My Sharona](https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj) | [The Knack](https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r) | [Get The Knack](https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi) | 4:55 |
+| 22 | [Long Train Runnin'](https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [The Captain and Me](https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt) | 3:27 |
 | 23 | [Don't Bring Me Down](https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Discovery](https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem) | 4:03 |
 | 24 | [Cold as Ice](https://open.spotify.com/track/7vidktgNZFQylTgH1GEnMs) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Foreigner \(Expanded\)](https://open.spotify.com/album/1OU7zJvUfgxxPHgkTClt1M) | 3:20 |
 | 25 | [Riders on the Storm](https://open.spotify.com/track/14XWXWv5FoCbFzLksawpEe) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 7:14 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 | 74 | [Let's Stick Together](https://open.spotify.com/track/6y4FVJwf09ssxuRnlEgXkp) | [Bryan Ferry](https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC) | [Let's Stick Together](https://open.spotify.com/album/7q7RBiiadKQR4DCbs7OMbd) | 2:59 |
 | 75 | [Prove It All Night](https://open.spotify.com/track/0Ye9OGxiHF3jylblTCuX7Q) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Darkness On the Edge of Town](https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc) | 3:57 |
 | 76 | [Jet Airliner](https://open.spotify.com/track/4PMx9RSiKlgry322H27rrZ) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Book Of Dreams](https://open.spotify.com/album/36G9sqbDXXbE7Mv9GTDMXd) | 4:25 |
-| 77 | [Cat Scratch Fever](https://open.spotify.com/track/0SvfyHYDp2uIsHt53LDlI9) | [Ted Nugent](https://open.spotify.com/artist/21ysNsPzHdqYN2fQ75ZswG) | [Cat Scratch Fever](https://open.spotify.com/album/5vndJ1bTQkvu3HZaJjgomB) | 3:39 |
-| 78 | [Rikki Don't Lose That Number](https://open.spotify.com/track/0xLrMI4R2xTwRHWV3UQCAZ) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Pretzel Logic](https://open.spotify.com/album/4XfN871nBIz6obaUDEzZXm) | 4:32 |
+| 77 | [Rikki Don't Lose That Number](https://open.spotify.com/track/0xLrMI4R2xTwRHWV3UQCAZ) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Pretzel Logic](https://open.spotify.com/album/4XfN871nBIz6obaUDEzZXm) | 4:32 |
+| 78 | [Cat Scratch Fever](https://open.spotify.com/track/0SvfyHYDp2uIsHt53LDlI9) | [Ted Nugent](https://open.spotify.com/artist/21ysNsPzHdqYN2fQ75ZswG) | [Cat Scratch Fever](https://open.spotify.com/album/5vndJ1bTQkvu3HZaJjgomB) | 3:39 |
 | 79 | [Join Together](https://open.spotify.com/track/6JNVCUi0TUeNFVLvyXFJfN) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [20th Century Masters: The Millennium Collection: Best Of The Who](https://open.spotify.com/album/1SCBhdgoRZDnGNyUafyNJC) | 4:24 |
 | 80 | [Lady Writer](https://open.spotify.com/track/3mwFncaI2HBczQ92GP9MQF) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Communiqué](https://open.spotify.com/album/6HEOoO8aHq5M88OA4teVY1) | 3:49 |
 | 81 | [All Right Now](https://open.spotify.com/track/2ZMEdXxVSRfMshCDBMjt0o) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [20th Century Masters: The Millennium Collection: Best Of Free](https://open.spotify.com/album/0y1k7yzTo230VF9VPZhV1k) | 5:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 | 99 | [Get Down and Get With It](https://open.spotify.com/track/3rEUXKfkeb6kPH6NCxkgCo) | [Slade](https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw) | [Sladest \(Expanded\)](https://open.spotify.com/album/0gAA09tbZAALAGebq8R3mW) | 3:50 |
 | 100 | [Little Willy](https://open.spotify.com/track/5l7WMtIUfX4D2XsHYOp4zV) | [Sweet](https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz) | [Best Of Sweet](https://open.spotify.com/album/7I5IWDrFPKeqhRSnd6QrXG) | 3:15 |
 
-Snapshot ID: `MCw0OTA4NmUxOTUzZjk3NGQwMWIxYmZmNmRhNmYzY2I2YTBkYzM4Y2My`
+Snapshot ID: `MCw5OTc5ZmEwZThjNGQ5ZTUzYmQ4YzEwNmFkYjhmYzJhZTRkMjY5NTIy`

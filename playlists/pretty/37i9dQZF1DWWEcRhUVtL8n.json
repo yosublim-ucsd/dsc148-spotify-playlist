@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: Bennett Coast",
-  "num_followers": 1702001,
+  "num_followers": 1702025,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDU3ZDVlNzNjYWRkNDc3MGQyZmI3NGJhMjhkMTJjYmZhMTRlOTcw",
+  "snapshot_id": "MCwxZmExY2MyY2NiYWE3ZWY1N2Y0Zjk5YjFiODkyYWM2NTRmMzA3YjRl",
   "tracks": [
     {
       "added_at": "2023-07-07 18:51:45",
@@ -489,22 +489,6 @@
       "url": "https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "summer camp",
-        "url": "https://open.spotify.com/album/4mO5hcuCZYh8TyVgUjkIvi"
-      },
-      "artists": [
-        {
-          "name": "anees",
-          "url": "https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h"
-        }
-      ],
-      "duration_ms": 172354,
-      "name": "sunny day",
-      "url": "https://open.spotify.com/track/7dA3NRsBnVKtQZgjR5Lzf8"
-    },
-    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Good Riddance (Deluxe)",
@@ -519,6 +503,22 @@
       "duration_ms": 233499,
       "name": "Best",
       "url": "https://open.spotify.com/track/5HO2RD12vZ5NcIdAULo43M"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "summer camp",
+        "url": "https://open.spotify.com/album/4mO5hcuCZYh8TyVgUjkIvi"
+      },
+      "artists": [
+        {
+          "name": "anees",
+          "url": "https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h"
+        }
+      ],
+      "duration_ms": 172354,
+      "name": "sunny day",
+      "url": "https://open.spotify.com/track/7dA3NRsBnVKtQZgjR5Lzf8"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -629,6 +629,22 @@
       "url": "https://open.spotify.com/track/4E3JYij2hnEDDP0Rgwikq6"
     },
     {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "We Can Be Anything",
+        "url": "https://open.spotify.com/album/0jTdh2q5QfILFuokmCNyHn"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "duration_ms": 201047,
+      "name": "We Can Be Anything",
+      "url": "https://open.spotify.com/track/2Tuaa6mlnDZ7vJhtdQ8ZSw"
+    },
+    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Bloom",
@@ -661,22 +677,6 @@
       "url": "https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "We Can Be Anything",
-        "url": "https://open.spotify.com/album/0jTdh2q5QfILFuokmCNyHn"
-      },
-      "artists": [
-        {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
-        }
-      ],
-      "duration_ms": 201047,
-      "name": "We Can Be Anything",
-      "url": "https://open.spotify.com/track/2Tuaa6mlnDZ7vJhtdQ8ZSw"
-    },
-    {
       "added_at": "2023-04-07 04:00:00",
       "album": {
         "name": "Bruise",
@@ -693,22 +693,6 @@
       "url": "https://open.spotify.com/track/26NhDr8bfNqIkmkFCoFdeI"
     },
     {
-      "added_at": "2023-06-30 04:21:00",
-      "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/7xicDlsWavyUYGNDSemRGG"
-      },
-      "artists": [
-        {
-          "name": "Stephen Dawes",
-          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "19",
-      "url": "https://open.spotify.com/track/7g9V2gcj9evDyeD5qKiM2k"
-    },
-    {
       "added_at": "2023-07-21 04:00:00",
       "album": {
         "name": "Me & Me",
@@ -723,6 +707,22 @@
       "duration_ms": 147596,
       "name": "Me & Me",
       "url": "https://open.spotify.com/track/3VJqv26NK9cCRXsjDKJOGY"
+    },
+    {
+      "added_at": "2023-06-30 04:21:00",
+      "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/7xicDlsWavyUYGNDSemRGG"
+      },
+      "artists": [
+        {
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "19",
+      "url": "https://open.spotify.com/track/7g9V2gcj9evDyeD5qKiM2k"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -825,6 +825,22 @@
       "url": "https://open.spotify.com/track/4OfRg5ofn3dNRFihXb0o7j"
     },
     {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Everything Is Boring",
+        "url": "https://open.spotify.com/album/3IVFpVQvospcyELiYdMlvX"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 176005,
+      "name": "Everything Is Boring",
+      "url": "https://open.spotify.com/track/0dCdc1vL6N9rbyQ89waSCx"
+    },
+    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "James Dean",
@@ -857,6 +873,22 @@
       "url": "https://open.spotify.com/track/2hGchv7KYaINz9Z1qzufNm"
     },
     {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Coping on Unemployment",
+        "url": "https://open.spotify.com/album/5lh7UQoL2Sd9HJv6kFEsTw"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Coping on Unemployment",
+      "url": "https://open.spotify.com/track/1ckD1kD5dXuV0LlbWyYcRU"
+    },
+    {
       "added_at": "2023-04-21 04:19:11",
       "album": {
         "name": "Don't Let Me Down",
@@ -875,22 +907,6 @@
       "duration_ms": 235280,
       "name": "Don't Let Me Down",
       "url": "https://open.spotify.com/track/181PmaC6c39r59gfhDGKdh"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Everything Is Boring",
-        "url": "https://open.spotify.com/album/3IVFpVQvospcyELiYdMlvX"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 176005,
-      "name": "Everything Is Boring",
-      "url": "https://open.spotify.com/track/0dCdc1vL6N9rbyQ89waSCx"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -913,22 +929,6 @@
       "url": "https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Coping on Unemployment",
-        "url": "https://open.spotify.com/album/5lh7UQoL2Sd9HJv6kFEsTw"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Coping on Unemployment",
-      "url": "https://open.spotify.com/track/1ckD1kD5dXuV0LlbWyYcRU"
-    },
-    {
       "added_at": "2023-07-07 18:51:45",
       "album": {
         "name": "palmtreedays_1644.wav",
@@ -943,6 +943,22 @@
       "duration_ms": 248093,
       "name": "palmtreedays_1644.wav",
       "url": "https://open.spotify.com/track/0kB6xwKamm2Fogar9frsAy"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Petals on the Moon",
+        "url": "https://open.spotify.com/album/0o7cc3EnUTcYep5EiFFngs"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "duration_ms": 256945,
+      "name": "Petals on the Moon",
+      "url": "https://open.spotify.com/track/3BmaFHt6q91CmMrA7fLLRC"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -963,18 +979,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Petals on the Moon",
-        "url": "https://open.spotify.com/album/0o7cc3EnUTcYep5EiFFngs"
+        "name": "Think I'm In Love",
+        "url": "https://open.spotify.com/album/6sYZJIIFZK1zVjVGCBM20f"
       },
       "artists": [
         {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+          "name": "Richard Fairlie",
+          "url": "https://open.spotify.com/artist/3LsDFxj4WpnS55c4NW2VOb"
         }
       ],
-      "duration_ms": 256945,
-      "name": "Petals on the Moon",
-      "url": "https://open.spotify.com/track/3BmaFHt6q91CmMrA7fLLRC"
+      "duration_ms": 133000,
+      "name": "Think I'm In Love",
+      "url": "https://open.spotify.com/track/4DdNJPSeSHacmc04nlvwx1"
     },
     {
       "added_at": "2023-07-07 18:51:45",
@@ -991,22 +1007,6 @@
       "duration_ms": 124133,
       "name": "SUNDAY",
       "url": "https://open.spotify.com/track/4StWXtY1kRDuzpl5FZQTae"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Think I'm In Love",
-        "url": "https://open.spotify.com/album/6sYZJIIFZK1zVjVGCBM20f"
-      },
-      "artists": [
-        {
-          "name": "Richard Fairlie",
-          "url": "https://open.spotify.com/artist/3LsDFxj4WpnS55c4NW2VOb"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Think I'm In Love",
-      "url": "https://open.spotify.com/track/4DdNJPSeSHacmc04nlvwx1"
     },
     {
       "added_at": "2023-07-03 15:40:30",
@@ -1061,22 +1061,6 @@
       "url": "https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd"
     },
     {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Moonshine",
-        "url": "https://open.spotify.com/album/7dzmDJVRN97PvAHTQZyYBu"
-      },
-      "artists": [
-        {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Moonshine",
-      "url": "https://open.spotify.com/track/0Mrm083tqUaTGUkiluSORf"
-    },
-    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Harmony House",
@@ -1091,6 +1075,22 @@
       "duration_ms": 151266,
       "name": "Balcony",
       "url": "https://open.spotify.com/track/2JLjlI1OGUSHL32Ex733IB"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Moonshine",
+        "url": "https://open.spotify.com/album/7dzmDJVRN97PvAHTQZyYBu"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Moonshine",
+      "url": "https://open.spotify.com/track/0Mrm083tqUaTGUkiluSORf"
     },
     {
       "added_at": "2023-06-30 04:21:00",
@@ -1173,6 +1173,26 @@
       "url": "https://open.spotify.com/track/0v0yfan1gz6Cznv0BLXp8Z"
     },
     {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Daisy Chain",
+        "url": "https://open.spotify.com/album/2kSOGD37vPRzNroaKKKNxD"
+      },
+      "artists": [
+        {
+          "name": "Pixey",
+          "url": "https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI"
+        },
+        {
+          "name": "Tayo Sound",
+          "url": "https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ"
+        }
+      ],
+      "duration_ms": 166600,
+      "name": "Daisy Chain",
+      "url": "https://open.spotify.com/track/6YDydLu0kWJXAuU6WYcbH2"
+    },
+    {
       "added_at": "2023-04-21 04:19:11",
       "album": {
         "name": "Blades",
@@ -1219,26 +1239,6 @@
       "duration_ms": 199042,
       "name": "Til U Hate Me",
       "url": "https://open.spotify.com/track/3wrgRknQKf58IIEbV4flhx"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Daisy Chain",
-        "url": "https://open.spotify.com/album/2kSOGD37vPRzNroaKKKNxD"
-      },
-      "artists": [
-        {
-          "name": "Pixey",
-          "url": "https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI"
-        },
-        {
-          "name": "Tayo Sound",
-          "url": "https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ"
-        }
-      ],
-      "duration_ms": 166600,
-      "name": "Daisy Chain",
-      "url": "https://open.spotify.com/track/6YDydLu0kWJXAuU6WYcbH2"
     },
     {
       "added_at": "2023-07-14 18:19:08",
@@ -1325,22 +1325,6 @@
       "url": "https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7"
     },
     {
-      "added_at": "2023-07-07 18:51:45",
-      "album": {
-        "name": "Hello Hi / Un Deux Trois",
-        "url": "https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA"
-      },
-      "artists": [
-        {
-          "name": "MUNYA",
-          "url": "https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO"
-        }
-      ],
-      "duration_ms": 210306,
-      "name": "Un Deux Trois",
-      "url": "https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5"
-    },
-    {
       "added_at": "2023-03-31 04:00:00",
       "album": {
         "name": "Horizons",
@@ -1355,6 +1339,22 @@
       "duration_ms": 183852,
       "name": "Horizons",
       "url": "https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr"
+    },
+    {
+      "added_at": "2023-07-07 18:51:45",
+      "album": {
+        "name": "Hello Hi / Un Deux Trois",
+        "url": "https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA"
+      },
+      "artists": [
+        {
+          "name": "MUNYA",
+          "url": "https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO"
+        }
+      ],
+      "duration_ms": 210306,
+      "name": "Un Deux Trois",
+      "url": "https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5"
     },
     {
       "added_at": "2023-07-07 18:51:45",
@@ -1429,22 +1429,6 @@
       "url": "https://open.spotify.com/track/1KbCFCEee8ox0OHFH08nbG"
     },
     {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ"
-      },
-      "artists": [
-        {
-          "name": "Lloyiso",
-          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
-        }
-      ],
-      "duration_ms": 164196,
-      "name": "Give A Little Kindness",
-      "url": "https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj"
-    },
-    {
       "added_at": "2023-06-09 04:00:00",
       "album": {
         "name": "Sunset",
@@ -1461,20 +1445,20 @@
       "url": "https://open.spotify.com/track/2v9t4NAYMv9rQbc70VyIuG"
     },
     {
-      "added_at": "2023-06-16 04:00:00",
+      "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "BLOOM",
-        "url": "https://open.spotify.com/album/15WtmLc4a8HGxHMsLPpHaN"
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ"
       },
       "artists": [
         {
-          "name": "Marc E. Bassy",
-          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
         }
       ],
-      "duration_ms": 206243,
-      "name": "BLOOM",
-      "url": "https://open.spotify.com/track/4UvH9dyjiUBnvC8yb18wik"
+      "duration_ms": 164196,
+      "name": "Give A Little Kindness",
+      "url": "https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1507,6 +1491,22 @@
       "duration_ms": 183114,
       "name": "Eraser",
       "url": "https://open.spotify.com/track/1JNVs1DgzDKcL83wiXjQMv"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "BLOOM",
+        "url": "https://open.spotify.com/album/15WtmLc4a8HGxHMsLPpHaN"
+      },
+      "artists": [
+        {
+          "name": "Marc E. Bassy",
+          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
+        }
+      ],
+      "duration_ms": 206243,
+      "name": "BLOOM",
+      "url": "https://open.spotify.com/track/4UvH9dyjiUBnvC8yb18wik"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1559,6 +1559,22 @@
       "duration_ms": 179080,
       "name": "moving on (feat. Khary)",
       "url": "https://open.spotify.com/track/3YNUrsQihHuKSE1xQs6MdG"
+    },
+    {
+      "added_at": "2023-04-21 04:19:11",
+      "album": {
+        "name": "Monster Brain",
+        "url": "https://open.spotify.com/album/5jU7sB2508KOa1gXnAtA7h"
+      },
+      "artists": [
+        {
+          "name": "Mia Wray",
+          "url": "https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E"
+        }
+      ],
+      "duration_ms": 217737,
+      "name": "Monster Brain",
+      "url": "https://open.spotify.com/track/4TJbCoFd2cF2HOemoZ2WYG"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1623,22 +1639,6 @@
       "duration_ms": 172881,
       "name": "What's up",
       "url": "https://open.spotify.com/track/5mg1creXB9VEPLYQlUpvtH"
-    },
-    {
-      "added_at": "2023-04-21 04:19:11",
-      "album": {
-        "name": "Monster Brain",
-        "url": "https://open.spotify.com/album/5jU7sB2508KOa1gXnAtA7h"
-      },
-      "artists": [
-        {
-          "name": "Mia Wray",
-          "url": "https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E"
-        }
-      ],
-      "duration_ms": 217737,
-      "name": "Monster Brain",
-      "url": "https://open.spotify.com/track/4TJbCoFd2cF2HOemoZ2WYG"
     },
     {
       "added_at": "2023-04-21 04:19:11",

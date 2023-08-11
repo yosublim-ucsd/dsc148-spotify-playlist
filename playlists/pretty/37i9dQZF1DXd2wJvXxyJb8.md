@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > entao qr dizer que vc veio aqui descobrir o q os jovens escutam??? boa viagem
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,129,518 likes - 70 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,130,382 likes - 70 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 9 | [Forte Forte de Lacoste \- Pra Começar o Final de Semana](https://open.spotify.com/track/5vdQUAFncALEH9EQvyAqIX) | [DJ Jeeh FDC](https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp), [MC LCKaiique](https://open.spotify.com/artist/74rzyUJxQzZ7YoSdsuzXvS), [MC Celo BK](https://open.spotify.com/artist/0nppFBXdpNggDY3LdjX29c), [DJ Menezes](https://open.spotify.com/artist/12ayBbABWnctytOKqQwMyr), [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu) | [Forte Forte de Lacoste \- Pra Começar o Final de Semana](https://open.spotify.com/album/3cMus2DPrc3370m8whkCul) | 3:02 |
 | 10 | [Halls na Língua \- Remix](https://open.spotify.com/track/5uTVtc2Oc93nBVqPPI8Ijj) | [GORDÃO DO PC](https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS), [DJ LUCAS DE PAULA](https://open.spotify.com/artist/48H2LKju3qH1hMJhhnhYvY), [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Halls na Língua](https://open.spotify.com/album/0FiyzguzViQQbVwi9QcgLl) | 2:23 |
 | 11 | [MONTAGEM \- PR FUNK](https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id) | [MONTAGEM \- PR FUNK](https://open.spotify.com/album/2HuMAoXpr6HDryNHipbCpB) | 1:01 |
-| 12 | [Eu Vou Cair na Noite](https://open.spotify.com/track/7z2hqtAyf6FR39ZZmVkvcO) | [DJ RENAN DA BL](https://open.spotify.com/artist/13VVAjO14WSrctkGL7U3xc), [Dj Jl Do Tp](https://open.spotify.com/artist/4mBT8Rbk2WUxiVxdRpX5hW), [Mc Pretchako](https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv), [Mc Menor Thalis](https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn) | [Eu Vou Cair na Noite](https://open.spotify.com/album/1sCX9he2eSwF1OcE3wWwOW) | 2:05 |
+| 12 | [Eu Vou Cair na Noite](https://open.spotify.com/track/7z2hqtAyf6FR39ZZmVkvcO) | [DJ RENAN DA BL](https://open.spotify.com/artist/13VVAjO14WSrctkGL7U3xc), [Mc Menor Thalis](https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn), [Mc Pretchako](https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv), [Dj Jl Do Tp](https://open.spotify.com/artist/4mBT8Rbk2WUxiVxdRpX5hW) | [Eu Vou Cair na Noite](https://open.spotify.com/album/1sCX9he2eSwF1OcE3wWwOW) | 2:05 |
 | 13 | [Posturado E Calmo](https://open.spotify.com/track/15nTZqWfpXZk9Xh043Ognh) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Another One](https://open.spotify.com/album/6YUzlok3fkR6EemFvtA3MZ) | 3:07 |
 | 14 | [Não Para](https://open.spotify.com/track/77BR4gaUAp3p0uA8UL6HT9) | [Belle Kaffer](https://open.spotify.com/artist/4N2lyAuQF0kXt3UnsN7XZx), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Charles New](https://open.spotify.com/artist/7CK5FIA9viaFGVnDnfbuw8) | [Não Para](https://open.spotify.com/album/4CijUEw802sAukzjveQ0Re) | 3:00 |
 | 15 | [01 Não É 02](https://open.spotify.com/track/27ECP9NCzTAoTpxXNePZuS) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [DJ Ak beats](https://open.spotify.com/artist/685uhJgfQlrMNuarOzgyea) | [01 Não É 02](https://open.spotify.com/album/2paL9EMEJaM0YAGGHSLvpl) | 2:08 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 69 | [MAMA.CITA \(hasta la vista\)](https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [MAMA.CITA \(hasta la vista\)](https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX) | 2:32 |
 | 70 | [Balanço da Rede](https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Balanço da Rede](https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP) | 2:46 |
 
-Snapshot ID: `MCxjY2FjY2Q5ZTU4YzY1NzlmNjNmMGIzZWUyZTAxYzc3NmYyZTllMTMy`
+Snapshot ID: `MCxjZGE5YWJhMWY1Y2ZlNzU0NDM2NTEzODc0MmU4YWY3ZTI5NWE4Njll`

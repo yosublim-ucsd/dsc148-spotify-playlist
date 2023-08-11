@@ -4,13 +4,14 @@
 
 > Beautiful mandolin music to accompany your Italian supper\. Buon appetito.
 
-72 songs - 3 hr 50 min
+73 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Adagio](https://open.spotify.com/track/7MZE5hpTg0LsnRonlnDPlI) | [Ameritz Sound Effects](https://open.spotify.com/artist/2lQqfjdsGdZ4cUpvHD4ul1) | [O Sole Mio \- Postcards from Italy](https://open.spotify.com/album/7pcFItUc0OIKQTAAyaKkV8) | 2:14 | 2021-08-13 | 2023-05-07 |
 | [Adagio](https://open.spotify.com/track/7s8ZstmS6N1MJO7pdcJ8Si) | [Don Julin](https://open.spotify.com/artist/7fqbIY3YTlJvcXw1jmWb14) | [Don Julin](https://open.spotify.com/album/48RcT7yNHDXSWfZEdhR3dK) | 2:18 | 2021-08-13 |  |
-| [Al di la](https://open.spotify.com/track/6DWU0HQ3O7i3IROJsztChj) | [Jack Jezzro](https://open.spotify.com/artist/7vo2Hl0NDiBr6GcyGDSLFZ) | [Caffé Italiano: Instrumental Italian Favorites](https://open.spotify.com/album/32t5s4ID49x47XgNOHvYqX) | 3:23 | 2021-08-13 |  |
+| [Al Di La](https://open.spotify.com/track/1VwRW1CdaDOEmrHzpwTIUV) | [Jack Jezzro](https://open.spotify.com/artist/7vo2Hl0NDiBr6GcyGDSLFZ) | [Caffé Italiano: Instrumental Italian Favorites](https://open.spotify.com/album/4TRGduyN9BY67tiwArFQ29) | 3:20 | 2021-08-13 |  |
+| [Al di la](https://open.spotify.com/track/6DWU0HQ3O7i3IROJsztChj) | [Jack Jezzro](https://open.spotify.com/artist/7vo2Hl0NDiBr6GcyGDSLFZ) | [Caffé Italiano: Instrumental Italian Favorites](https://open.spotify.com/album/32t5s4ID49x47XgNOHvYqX) | 3:23 | 2021-08-13 | 2023-08-11 |
 | [Anna](https://open.spotify.com/track/4mcLSBFzlsvlolMAqrbV72) | [Giuseppe Caiani](https://open.spotify.com/artist/6grCjLceCOZWUCCndoqkaD) | [Mandolins Italia](https://open.spotify.com/album/6QhuxcVAJVOmBE2VTmNgq9) | 3:36 | 2021-08-13 |  |
 | [Arrivederci Roma](https://open.spotify.com/track/2ifDHe9AIY2c0CwutJtsNI) | [Jack Jezzro](https://open.spotify.com/artist/7vo2Hl0NDiBr6GcyGDSLFZ) | [Italian Dinner Party](https://open.spotify.com/album/6ghbQNSTc4hkm1Kvsj0PDt) | 3:30 | 2021-08-13 | 2022-07-29 |
 | [Arrivederci Roma](https://open.spotify.com/track/2wRvA2LS1apB9MYV2QzA01) | [Jack Jezzro](https://open.spotify.com/artist/7vo2Hl0NDiBr6GcyGDSLFZ) | [Caffé Italiano: Instrumental Italian Favorites](https://open.spotify.com/album/4TRGduyN9BY67tiwArFQ29) | 3:33 | 2021-08-13 |  |

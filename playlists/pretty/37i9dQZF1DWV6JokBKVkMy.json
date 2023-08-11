@@ -1,12 +1,12 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 1148,
+  "num_followers": 1155,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzFiZDY1Nzc1OTIyZWQ4ODlmMDE4ZDhjYTkyNzQ1ZmEwNmY4MmFl",
+  "snapshot_id": "MCwzZTEzNzg3NzNmNGRmNWRkMWVjNWFiMmU5MGVhZjgyYThhNGEyOTc0",
   "tracks": [
     {
       "added_at": "2022-08-11 10:05:16",
@@ -147,6 +147,22 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
+        "name": "Mon univers",
+        "url": "https://open.spotify.com/album/5qQ2QdNViIJp553V4KS86y"
+      },
+      "artists": [
+        {
+          "name": "Clara",
+          "url": "https://open.spotify.com/artist/443OVqDhZDFnORwaL5QRuB"
+        }
+      ],
+      "duration_ms": 220714,
+      "name": "La force l'amour",
+      "url": "https://open.spotify.com/track/0JIvxiw7QnoNeyQSo9PV5D"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
         "name": "Trottinette",
         "url": "https://open.spotify.com/album/5pBlzWYCpI1ftHAEF5IE0Z"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 184800,
       "name": "Trottinette",
       "url": "https://open.spotify.com/track/7wRYnhZoNWtqcFJHAycRiC"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "Mon univers",
-        "url": "https://open.spotify.com/album/5qQ2QdNViIJp553V4KS86y"
-      },
-      "artists": [
-        {
-          "name": "Clara",
-          "url": "https://open.spotify.com/artist/443OVqDhZDFnORwaL5QRuB"
-        }
-      ],
-      "duration_ms": 220714,
-      "name": "La force l'amour",
-      "url": "https://open.spotify.com/track/0JIvxiw7QnoNeyQSo9PV5D"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -419,38 +419,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Music from Mauritius",
-        "url": "https://open.spotify.com/album/1DRPsjliENVvsUKDZ469x3"
-      },
-      "artists": [
-        {
-          "name": "Denis Azor",
-          "url": "https://open.spotify.com/artist/07p5q6fIWYLesAR39CJQDf"
-        }
-      ],
-      "duration_ms": 174497,
-      "name": "Ambalaba",
-      "url": "https://open.spotify.com/track/4gU7d2ZymujNKYeEFsuKaS"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "Sega Ar Pwa",
-        "url": "https://open.spotify.com/album/5m1fAvzB5et9ka6sjSlVSn"
-      },
-      "artists": [
-        {
-          "name": "Sky to Be",
-          "url": "https://open.spotify.com/artist/7uWVHfDA75struQziMT7Ch"
-        }
-      ],
-      "duration_ms": 287316,
-      "name": "Sega Ar Pwa",
-      "url": "https://open.spotify.com/track/2SS0rS7nObBiXaAv7iAoZ2"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "La famille",
         "url": "https://open.spotify.com/album/5SAJBPp2Cny5DAGZjw3Kt7"
       },
@@ -471,6 +439,38 @@
       "duration_ms": 247136,
       "name": "Ingra",
       "url": "https://open.spotify.com/track/2s87WVUExrg6x979SqMdwL"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Sega Ar Pwa",
+        "url": "https://open.spotify.com/album/5m1fAvzB5et9ka6sjSlVSn"
+      },
+      "artists": [
+        {
+          "name": "Sky to Be",
+          "url": "https://open.spotify.com/artist/7uWVHfDA75struQziMT7Ch"
+        }
+      ],
+      "duration_ms": 287316,
+      "name": "Sega Ar Pwa",
+      "url": "https://open.spotify.com/track/2SS0rS7nObBiXaAv7iAoZ2"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Music from Mauritius",
+        "url": "https://open.spotify.com/album/1DRPsjliENVvsUKDZ469x3"
+      },
+      "artists": [
+        {
+          "name": "Denis Azor",
+          "url": "https://open.spotify.com/artist/07p5q6fIWYLesAR39CJQDf"
+        }
+      ],
+      "duration_ms": 174497,
+      "name": "Ambalaba",
+      "url": "https://open.spotify.com/track/4gU7d2ZymujNKYeEFsuKaS"
     },
     {
       "added_at": "2022-08-11 10:05:16",

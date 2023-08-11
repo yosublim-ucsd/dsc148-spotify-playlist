@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 
 > This is the best of ska, new and classic\. Cover: Jeff Rosenstock
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,579 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,667 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 48 | [Different People](https://open.spotify.com/track/6PM8yaNDDfXc0kHIMSuIKR) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 4:35 |
 | 49 | [Wallflower](https://open.spotify.com/track/31RJ1xFMQCGfGniKY4IMdO) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Never Look Back](https://open.spotify.com/album/43YzokVXiyJbfas8y3WSK6) | 2:23 |
 | 50 | [One Step Beyond](https://open.spotify.com/track/2JX6SE1ZsNGWDcb3kDZVfJ) | [Prince Buster](https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB) | [Ska and Rocksteady Collection, Vol\. 1](https://open.spotify.com/album/5q2Knpcgb67Fm9sWM01cX4) | 2:39 |
-| 51 | [Road Rash](https://open.spotify.com/track/7v9tpAyVYvIueLtl82bMIz) | [Mad Caddies](https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6) | [Duck and Cover](https://open.spotify.com/album/1rMKbNGspotPBdyEQYPqA0) | 2:01 |
-| 52 | [Where I'm Going](https://open.spotify.com/track/3MXxV2BQjMEhZmTtLkIOPz) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Trouble Maker \(Deluxe Edition\)](https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY) | 2:23 |
+| 51 | [Where I'm Going](https://open.spotify.com/track/3MXxV2BQjMEhZmTtLkIOPz) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Trouble Maker \(Deluxe Edition\)](https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY) | 2:23 |
+| 52 | [Road Rash](https://open.spotify.com/track/7v9tpAyVYvIueLtl82bMIz) | [Mad Caddies](https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6) | [Duck and Cover](https://open.spotify.com/album/1rMKbNGspotPBdyEQYPqA0) | 2:01 |
 | 53 | [One More Minute](https://open.spotify.com/track/45Q1nT2ec3wXZV3RvS769L) | [Authority Zero](https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz) | [A Passage In Time \(Explicit Version\)](https://open.spotify.com/album/2bEpe22aeh5r5UP0jHeggE) | 6:28 |
 | 54 | [Too Much Pressure](https://open.spotify.com/track/5UwELoOykVTB1WiVknlyh4) | [The Selecter](https://open.spotify.com/artist/3wRksusBxJ6npu0PryYheF) | [Too Much Pressure](https://open.spotify.com/album/5wnNTpK8zZCzbEblOvKmUV) | 3:51 |
 | 55 | [Wake Up](https://open.spotify.com/track/1CnU1qewM7glU79O4VSlWX) | [Tim Armstrong](https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3) | [A Poets Life](https://open.spotify.com/album/2KapAjnwtdsvFWtMwgiWBI) | 3:01 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 72 | [Lost Again](https://open.spotify.com/track/2fCV2Wko0b4ToipDJS6yun) | [Dance Hall Crashers](https://open.spotify.com/artist/7cIsuRDa9Q68n6Ui6GZsVj) | [Honey I'm Homely](https://open.spotify.com/album/1ykysjJVAuKPL3bpTxv6oX) | 3:23 |
 | 73 | [Future Version](https://open.spotify.com/track/5xzf2RsrHJwbrlVUQYE5jr) | [Nana Grizol](https://open.spotify.com/artist/7FPO7WTShHCXnmVv7lhhZM) | [South Somewhere Else](https://open.spotify.com/album/0I2o0Ivz3uo7LxwWdM2AtO) | 1:35 |
 | 74 | [Enjoy Yourself](https://open.spotify.com/track/2gXudOFrHDzj7D2JqbcFWm) | [Prince Buster](https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB) | [Tutti Frutti](https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm) | 3:05 |
-| 75 | [Random I Am](https://open.spotify.com/track/2XvrtH6BIVyCr6tLhOvIAt) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [For Monkeys](https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE) | 2:40 |
-| 76 | [House Of Fun](https://open.spotify.com/track/4SactOQQV5J66VtQRVOBGC) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Madness](https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw) | 3:00 |
+| 75 | [House Of Fun](https://open.spotify.com/track/4SactOQQV5J66VtQRVOBGC) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Madness](https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw) | 3:00 |
+| 76 | [Random I Am](https://open.spotify.com/track/2XvrtH6BIVyCr6tLhOvIAt) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [For Monkeys](https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE) | 2:40 |
 | 77 | [I Don't Love You Anymore](https://open.spotify.com/track/4IhBMMgZkrQybTajYXtmVE) | [Bomb the Music Industry!](https://open.spotify.com/artist/7mmU5GuOoyxoBAgOZkSVj7) | [Get Warmer](https://open.spotify.com/album/2kGge9kVEDKWLMb4YsrmIs) | 4:42 |
 | 78 | [Let's Do Rock Steady](https://open.spotify.com/track/0FkBWszH9H2y7TxH899416) | [The Bodysnatchers](https://open.spotify.com/artist/4A8i0BB8EcWKijB9T54QRV) | [Let's Do Rock Steady](https://open.spotify.com/album/1mnzdkXqugo6pnz3O0GRNO) | 2:54 |
 | 79 | [Wasted Days](https://open.spotify.com/track/5z8lvQDJPOl8A7RkTOdJWQ) | [The Slackers](https://open.spotify.com/artist/2QRPuDfRA9LtoeGFaMikmK) | [Wasted Days](https://open.spotify.com/album/6Gsk2nUl219al8pzo8TNWB) | 4:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 99 | [Wisdom Teeth](https://open.spotify.com/track/01yfHEZFw4VmtehjDTWyht) | [Popes Of Chillitown](https://open.spotify.com/artist/52TSqCyQNF1RMmTzew0soN) | [To the Moon](https://open.spotify.com/album/0SqDdH5Oo9LKquzteXwBXf) | 5:43 |
 | 100 | [When The Wall Falls](https://open.spotify.com/track/2j6BvBYHuvlHHRx33sDG7X) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts) | 2:45 |
 
-Snapshot ID: `MCw0ZGYxYTQyNThmYWM0YjM5Yzg3NDUzNDk4NGMxZDZjNGZiYTg0MGZh`
+Snapshot ID: `MCwyYThmZmJkMTZiMWZmOWQ5ZDZjYTU1NTk2OGM3MDViYmZiYzQxZjAx`

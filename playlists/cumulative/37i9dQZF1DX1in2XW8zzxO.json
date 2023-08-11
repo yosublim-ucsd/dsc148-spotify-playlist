@@ -1403,6 +1403,28 @@
     },
     {
       "album": {
+        "name": "Ka Valungu",
+        "url": "https://open.spotify.com/album/34z8LKlCdoWpkwKLJK5XZU"
+      },
+      "artists": [
+        {
+          "name": "Tebza De DJ",
+          "url": "https://open.spotify.com/artist/6sPahgGNaNy7ZR6cGsdMez"
+        },
+        {
+          "name": "DJ Nomza The King",
+          "url": "https://open.spotify.com/artist/0MyssvvIeY27nMCrwnMmie"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300302,
+      "name": "Ka Valungu",
+      "url": "https://open.spotify.com/track/5Yx3xbh3ob1TzcSkTZRYjT"
+    },
+    {
+      "album": {
         "name": "Kancane",
         "url": "https://open.spotify.com/album/5ai1amA8bctv0ozwOTEncb"
       },
@@ -2140,6 +2162,32 @@
       "duration_ms": 153103,
       "name": "Peace Be Unto You (PBUY)",
       "url": "https://open.spotify.com/track/6ewsOjbC1jWAZcjAhVxDs0"
+    },
+    {
+      "album": {
+        "name": "SOLACE",
+        "url": "https://open.spotify.com/album/5Ne85eKSShHPNuoGZCfBik"
+      },
+      "artists": [
+        {
+          "name": "Uncle Waffles",
+          "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
+        },
+        {
+          "name": "Ice Beats Slide",
+          "url": "https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5"
+        },
+        {
+          "name": "Sbuda Maleather",
+          "url": "https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326048,
+      "name": "Peacock Revisit (feat. Ice Beats Slide & Sbuda Maleather)",
+      "url": "https://open.spotify.com/track/1NQCinyxiglxekxXVPEhnC"
     },
     {
       "album": {
@@ -3184,7 +3232,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 416496,
       "name": "Washaaa",
       "url": "https://open.spotify.com/track/1PN9qUEsfYzf8r9Av4uafK"

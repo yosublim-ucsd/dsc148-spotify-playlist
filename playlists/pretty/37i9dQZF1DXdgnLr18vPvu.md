@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgnLr18vPvu.md) - [plain]
 
 > The right music can make a good tailgate great.
 
-[Spotify](https://open.spotify.com/user/spotify) - 816,733 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 816,802 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgnLr18vPvu.md) - [plain]
 | 24 | [Barefoot Blue Jean Night](https://open.spotify.com/track/3ts6xK5GzfMAAriT9AIBmP) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Barefoot Blue Jean Night](https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ) | 2:47 |
 | 25 | [Fancy Like](https://open.spotify.com/track/58UKC45GPNTflCN6nwCUeF) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff The Album](https://open.spotify.com/album/4sShdTo9jO2RGLgDkZBgN8) | 2:41 |
 | 26 | [Dirt On My Boots](https://open.spotify.com/track/7f08qp3HROTkfrtNpiYGGo) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [California Sunrise](https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ) | 3:21 |
-| 27 | [Chattahoochee](https://open.spotify.com/track/59kHPbwyyCApYA8RQQEuXm) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [A Lot About Livin' \(And A Little 'Bout Love\)](https://open.spotify.com/album/79yCfWigSGt94zi1CIkkJZ) | 2:28 |
-| 28 | [Toes](https://open.spotify.com/track/4S518ci8UY4op0Xyp6Hx6o) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT) | 4:22 |
-| 29 | [I Hope](https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:30 |
+| 27 | [I Hope](https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:30 |
+| 28 | [Chattahoochee](https://open.spotify.com/track/59kHPbwyyCApYA8RQQEuXm) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [A Lot About Livin' \(And A Little 'Bout Love\)](https://open.spotify.com/album/79yCfWigSGt94zi1CIkkJZ) | 2:28 |
+| 29 | [Toes](https://open.spotify.com/track/4S518ci8UY4op0Xyp6Hx6o) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT) | 4:22 |
 | 30 | [Famous Friends](https://open.spotify.com/track/4iXDn9pu5Q9sxv45vE8Lak) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Famous Friends](https://open.spotify.com/album/0CIbEKfFhnHbwJwVHb4KE1) | 2:45 |
 | 31 | [It's A Great Day To Be Alive](https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Down The Road I Go](https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB) | 4:01 |
 | 32 | [Fishing In The Dark](https://open.spotify.com/track/3i5QyEUyXa9Y7lIklr5sWk) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Anthology](https://open.spotify.com/album/3eI6PUZit1cF2ty6l7sXjI) | 3:21 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgnLr18vPvu.md) - [plain]
 | 39 | [Heads Carolina, Tails California](https://open.spotify.com/track/6Lmx6bz3PGYuNSjKMnYBOa) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [JoDee Messina](https://open.spotify.com/album/2Jsqpx8EeRWIjBFhCX4hvn) | 3:29 |
 | 40 | [Take It From Me](https://open.spotify.com/track/3dCZm5HrG0jIXAHfNkg2H0) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 2:54 |
 | 41 | [Look What God Gave Her](https://open.spotify.com/track/2KqJC0koTBUyDlsMt5ok1V) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Center Point Road](https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g) | 2:48 |
-| 42 | [Homegrown](https://open.spotify.com/track/2kR18wsL3gvXRXdNE4dCGc) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [JEKYLL + HYDE](https://open.spotify.com/album/12WhHcWieyHNLP0RGbRtrr) | 3:25 |
-| 43 | [Cold As You](https://open.spotify.com/track/7IWV29mryrqtO0JVgnPtfv) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Ain't Always What You Get \(Deluxe Edition\)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:06 |
+| 42 | [Cold As You](https://open.spotify.com/track/7IWV29mryrqtO0JVgnPtfv) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Ain't Always What You Get \(Deluxe Edition\)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:06 |
+| 43 | [Homegrown](https://open.spotify.com/track/2kR18wsL3gvXRXdNE4dCGc) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [JEKYLL + HYDE](https://open.spotify.com/album/12WhHcWieyHNLP0RGbRtrr) | 3:25 |
 | 44 | [One Of Them Girls](https://open.spotify.com/track/14GwnOeC9qYEKEA6uOZepa) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [One Of Them Girls](https://open.spotify.com/album/42Rl6aaMTG6EgYxzjP41qp) | 3:08 |
 | 45 | [As Good As I Once Was](https://open.spotify.com/track/7G6l2FtQyRhQgYgut2I6i8) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Honkytonk University](https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT) | 3:47 |
 | 46 | [Boot Scootin' Boogie](https://open.spotify.com/track/7Fq9RwQxSn3kW85PrDUf0M) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 3:18 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgnLr18vPvu.md) - [plain]
 | 66 | [Giddy Up!](https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Giddy Up!](https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy) | 2:42 |
 | 67 | [Somethin' 'Bout A Truck](https://open.spotify.com/track/6Ymvlzom4TQeoKqAWsZRD8) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Up All Night](https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu) | 3:33 |
 | 68 | [Hotel Key](https://open.spotify.com/track/33471tzU1VghDg9zNgGRpz) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Happy Endings](https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V) | 2:46 |
-| 69 | [Lil Bit](https://open.spotify.com/track/0NmuYnjETG3u3qx0OmEJev) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Lil Bit](https://open.spotify.com/album/6aw4FMaYoLmhMZEI5dcq8I) | 3:15 |
-| 70 | [Good Vibes](https://open.spotify.com/track/1XVqh0dC0PIl72f2mQhsVt) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Real Friends](https://open.spotify.com/album/2rEH3VUXei9WuwsitItfcv) | 2:45 |
+| 69 | [Good Vibes](https://open.spotify.com/track/1XVqh0dC0PIl72f2mQhsVt) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Real Friends](https://open.spotify.com/album/2rEH3VUXei9WuwsitItfcv) | 2:45 |
+| 70 | [Lil Bit](https://open.spotify.com/track/0NmuYnjETG3u3qx0OmEJev) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Lil Bit](https://open.spotify.com/album/6aw4FMaYoLmhMZEI5dcq8I) | 3:15 |
 | 71 | [Chillin' It](https://open.spotify.com/track/0Utg7sirTPqrs6Cx0FbriQ) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Cole Swindell](https://open.spotify.com/album/2mlPEYhK1KwDD45CCCWxaH) | 3:16 |
 | 72 | [Just the Way](https://open.spotify.com/track/3FE6cfCDhmhOraeSLPe6Vj) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [For You](https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN) | 3:13 |
 | 73 | [Half Of Me](https://open.spotify.com/track/11kskoMyNDumaR30CI6rRv) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:03 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgnLr18vPvu.md) - [plain]
 | 84 | [Like I Love Country Music](https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Like I Love Country Music](https://open.spotify.com/album/6IXSaIsyP9LbtccncAs2Gg) | 3:54 |
 | 85 | [One Too Many](https://open.spotify.com/track/5NUXE8W12lWcUXgJRCjeEw) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [One Too Many](https://open.spotify.com/album/5j5ngp5GBH7zW3RhHljRK9) | 3:23 |
 | 86 | [Somethin' Bad \(with Carrie Underwood\) \- Duet with Carrie Underwood \[Album\]](https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 2:49 |
-| 87 | [Take A Back Road](https://open.spotify.com/track/7B6m8tHAYZsOKOKMU5SR2n) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [Take A Back Road](https://open.spotify.com/album/2qLz69eIC6A7GggjGvxEMp) | 3:29 |
-| 88 | [Fix a Drink](https://open.spotify.com/track/0s6OWiWGuiCcm1Muzch5A8) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [EVERYBODY](https://open.spotify.com/album/6De0uTqKw2KMGDzidbCPhS) | 3:08 |
+| 87 | [Fix a Drink](https://open.spotify.com/track/0s6OWiWGuiCcm1Muzch5A8) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [EVERYBODY](https://open.spotify.com/album/6De0uTqKw2KMGDzidbCPhS) | 3:08 |
+| 88 | [Take A Back Road](https://open.spotify.com/track/7B6m8tHAYZsOKOKMU5SR2n) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [Take A Back Road](https://open.spotify.com/album/2qLz69eIC6A7GggjGvxEMp) | 3:29 |
 | 89 | [I'm Not For Everyone](https://open.spotify.com/track/143YESFOZqxVGrKEWisbid) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Skeletons](https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR) | 2:52 |
 | 90 | [One Margarita](https://open.spotify.com/track/6NhS5LwYbJ6xD7BGvlWRJO) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [One Margarita](https://open.spotify.com/album/6BOJ3r1s8u63at3Ou7HaVw) | 3:13 |
 | 91 | [Round Here](https://open.spotify.com/track/5T6DM9qjjngWnukcw0svkX) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Here's To The Good Times](https://open.spotify.com/album/5MH765pytbQasmDxXArTah) | 3:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgnLr18vPvu.md) - [plain]
 | 99 | [South On Ya](https://open.spotify.com/track/0cvmA0xg8FkzKvBnO8987X) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [South On Ya](https://open.spotify.com/album/2bnuOCorMF9NzCFQegmfnC) | 2:51 |
 | 100 | [Here for the Party](https://open.spotify.com/track/0SuzUhWAgStNIMZR4jEGgk) | [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [Here For The Party](https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap) | 3:16 |
 
-Snapshot ID: `MCwyYWZiOTYyMjdmZmM5MWNkMjI3NDBlNzJiN2UxYjFkYjM5MmFmODAz`
+Snapshot ID: `MCxiNzAzNWNkNDQwYzdiNGY2OGExNWVlZjI5N2JiMjQ3NWJkZGJmZTcz`

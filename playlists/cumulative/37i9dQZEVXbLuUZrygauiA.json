@@ -5082,7 +5082,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 243773,
       "name": "Cupid's Chokehold / Breakfast in America",
       "url": "https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK"
@@ -16295,6 +16295,24 @@
     },
     {
       "album": {
+        "name": "More Than Just a Dream (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3IWUFJCM3CvCCQIHQ4vtRK"
+      },
+      "artists": [
+        {
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209386,
+      "name": "Out of My League",
+      "url": "https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH"
+    },
+    {
+      "album": {
         "name": "Faith In The Future (Deluxe)",
         "url": "https://open.spotify.com/album/1mFBBKRgRpHYJHHlr6wGMj"
       },
@@ -22168,7 +22186,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 192940,
       "name": "The Lost Soul Down",
       "url": "https://open.spotify.com/track/5dPy1CCYQ04xaQHpajf5CY"
@@ -22612,6 +22630,24 @@
       "duration_ms": 233064,
       "name": "Tocame",
       "url": "https://open.spotify.com/track/4dWY6RpM9zmYvwqxrNvwtV"
+    },
+    {
+      "album": {
+        "name": "Todo Todo",
+        "url": "https://open.spotify.com/album/7otDsXrHpPrWZNEWhurGCD"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194066,
+      "name": "Todo Todo",
+      "url": "https://open.spotify.com/track/0KgGExcX5bvGnPEQLGOwTg"
     },
     {
       "album": {

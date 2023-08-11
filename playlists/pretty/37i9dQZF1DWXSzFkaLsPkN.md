@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 
 > Hindi hai, Indie hai! Cover\- Ankur Tewari
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,664 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,717 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,26 +62,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 52 | [Enna Sona](https://open.spotify.com/track/3FZBGD1Dosgw8hsTtrDmTn) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX), [Arooh](https://open.spotify.com/artist/3E9wPDeQ4FoB8okbcGF0Q7) | [Enna Sona](https://open.spotify.com/album/3EScBmh7oNVeBFJwgc3QBp) | 2:36 |
 | 53 | [Noor](https://open.spotify.com/track/36zJvaFktpReO0ZpO7zK7H) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Noor](https://open.spotify.com/album/1C28dscSE3eMMySafwMSmm) | 3:12 |
 | 54 | [Udd Chala](https://open.spotify.com/track/7n6DDEpcqkhkiGhXwexF9I) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Udd Chala](https://open.spotify.com/album/7LT4xezgouCmrPpbqQOwTu) | 4:46 |
-| 55 | [Aise Ho Tum](https://open.spotify.com/track/4wgDpX6DPzCjsAX6XK5KV0) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Aise Ho Tum](https://open.spotify.com/album/5YXNlo7YoApvoyvLDBETlA) | 4:12 |
-| 56 | [Le Chal](https://open.spotify.com/track/7dNQpEI1bOetj5XZqpKU5M) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [Le Chal](https://open.spotify.com/album/3eQWv1miydlthQgTOsgCwn) | 3:16 |
-| 57 | [Hazir Main Rahun](https://open.spotify.com/track/10JqzOpxi2zL4RcuvwBRtW) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Hazir Main Rahun](https://open.spotify.com/album/3JcvdHatu4INAgwuSAPnCr) | 4:07 |
-| 58 | [Tera Nishaan](https://open.spotify.com/track/23gBGYYQcA8ivnVDj2eZxD) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Tera Nishaan](https://open.spotify.com/album/1FsGhpy3Br29xgbS1PJB4I) | 2:47 |
-| 59 | [Khoya Khoya](https://open.spotify.com/track/5N21MtYa2f16k5XrgweCv6) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khoya Khoya](https://open.spotify.com/album/2cOBQYgex5kvjrF1gkSxjb) | 3:31 |
+| 55 | [Khel](https://open.spotify.com/track/20WIpyoAX8iR465ejJlFLT) | [Praagya](https://open.spotify.com/artist/4hO4zxtWs57zrg8B1WkpmP) | [Khel](https://open.spotify.com/album/6HTOdI0GLCGQGkKlAYcUeZ) | 3:05 |
+| 56 | [Aise Ho Tum](https://open.spotify.com/track/4wgDpX6DPzCjsAX6XK5KV0) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Aise Ho Tum](https://open.spotify.com/album/5YXNlo7YoApvoyvLDBETlA) | 4:12 |
+| 57 | [Le Chal](https://open.spotify.com/track/7dNQpEI1bOetj5XZqpKU5M) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [Le Chal](https://open.spotify.com/album/3eQWv1miydlthQgTOsgCwn) | 3:16 |
+| 58 | [Hazir Main Rahun](https://open.spotify.com/track/10JqzOpxi2zL4RcuvwBRtW) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Hazir Main Rahun](https://open.spotify.com/album/3JcvdHatu4INAgwuSAPnCr) | 4:07 |
+| 59 | [Tera Nishaan](https://open.spotify.com/track/23gBGYYQcA8ivnVDj2eZxD) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Tera Nishaan](https://open.spotify.com/album/1FsGhpy3Br29xgbS1PJB4I) | 2:47 |
 | 60 | [jaana](https://open.spotify.com/track/5v5G6frYHlwf6YkhR0cYQN) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [jaana](https://open.spotify.com/album/5bftUl6VwWmOIUdpKret6g) | 3:01 |
-| 61 | [Humara Ho Gaya](https://open.spotify.com/track/7qMCYAkTTbFOw1hUXvAAje) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK), [Sanchi](https://open.spotify.com/artist/6QxNIpuAHE6MqRUCHJdLt0) | [Saar](https://open.spotify.com/album/2leNjXvtxbHDUFiltWZtbQ) | 2:37 |
-| 62 | [Khel](https://open.spotify.com/track/20WIpyoAX8iR465ejJlFLT) | [Praagya](https://open.spotify.com/artist/4hO4zxtWs57zrg8B1WkpmP) | [Khel](https://open.spotify.com/album/6HTOdI0GLCGQGkKlAYcUeZ) | 3:05 |
-| 63 | [Doorie](https://open.spotify.com/track/1Dc4zs4hnrqbz4pV44uT8g) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Doorie](https://open.spotify.com/album/0tExo9nxg65475C6EHR0Pd) | 3:53 |
-| 64 | [Muskan](https://open.spotify.com/track/16ZcfVSuCcBDdlpvmEIA1i) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Muskan](https://open.spotify.com/album/3NLZpWHd23xx5YYveGbNlv) | 3:18 |
+| 61 | [Khoya Khoya](https://open.spotify.com/track/5N21MtYa2f16k5XrgweCv6) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khoya Khoya](https://open.spotify.com/album/2cOBQYgex5kvjrF1gkSxjb) | 3:31 |
+| 62 | [Humara Ho Gaya](https://open.spotify.com/track/7qMCYAkTTbFOw1hUXvAAje) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK), [Sanchi](https://open.spotify.com/artist/6QxNIpuAHE6MqRUCHJdLt0) | [Saar](https://open.spotify.com/album/2leNjXvtxbHDUFiltWZtbQ) | 2:37 |
+| 63 | [Muskan](https://open.spotify.com/track/16ZcfVSuCcBDdlpvmEIA1i) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Muskan](https://open.spotify.com/album/3NLZpWHd23xx5YYveGbNlv) | 3:18 |
+| 64 | [Doorie](https://open.spotify.com/track/1Dc4zs4hnrqbz4pV44uT8g) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Doorie](https://open.spotify.com/album/0tExo9nxg65475C6EHR0Pd) | 3:53 |
 | 65 | [Tera Mera Aasmaan](https://open.spotify.com/track/6mOqFm4X4tdcraFWQibZSA) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Tera Mera Aasmaan](https://open.spotify.com/album/5vbcq7UU1ezZ0uKs7SWXwX) | 2:38 |
 | 66 | [Sha\- Dobara](https://open.spotify.com/track/2ygS9eInDfG5prFbeeiEYC) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Sha\- Dobara](https://open.spotify.com/album/3swccYkoyOPBv0fPMbf6I1) | 3:12 |
 | 67 | [Woh Saat Din](https://open.spotify.com/track/68kyeHa4UBlqTkwoy9tBHV) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN), [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n), [Ashish Zachariah](https://open.spotify.com/artist/51xtFCX1WhS6mMni1EVMGT) | [Woh Saat Din](https://open.spotify.com/album/7e6uxfTigMqsc6SmP8ruUa) | 3:42 |
-| 68 | [Khabar](https://open.spotify.com/track/56dhkwFTzbq3AS54dguEEH) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Khabar](https://open.spotify.com/album/4nPqoBnVFAWcjDcWGpijBq) | 3:38 |
-| 69 | [Meri Baari](https://open.spotify.com/track/0XdDE6lmn5srPDUDBq5xcg) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Meri Baari](https://open.spotify.com/album/6CZIFpN6kaO3BRnlZoACbB) | 3:19 |
-| 70 | [Uljhe Hue \- From "Uljhe Hue"](https://open.spotify.com/track/0tEAGQTo2PXnWFKn99x0a7) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK), [Melissa Srivastava](https://open.spotify.com/artist/6TRkbVu5prWSsBreC4tw4K) | [Uljhe Hue \(From "Uljhe Hue"\)](https://open.spotify.com/album/6VDcItSobKtTHwCIrmYdvx) | 1:52 |
+| 68 | [Meri Baari](https://open.spotify.com/track/0XdDE6lmn5srPDUDBq5xcg) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Meri Baari](https://open.spotify.com/album/6CZIFpN6kaO3BRnlZoACbB) | 3:19 |
+| 69 | [Uljhe Hue \- From "Uljhe Hue"](https://open.spotify.com/track/0tEAGQTo2PXnWFKn99x0a7) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK), [Melissa Srivastava](https://open.spotify.com/artist/6TRkbVu5prWSsBreC4tw4K) | [Uljhe Hue \(From "Uljhe Hue"\)](https://open.spotify.com/album/6VDcItSobKtTHwCIrmYdvx) | 1:52 |
+| 70 | [Khabar](https://open.spotify.com/track/56dhkwFTzbq3AS54dguEEH) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Khabar](https://open.spotify.com/album/4nPqoBnVFAWcjDcWGpijBq) | 3:38 |
 | 71 | [Bewajah](https://open.spotify.com/track/6uJ6KxWCNszP9VDtZm5A0C) | [somanshu](https://open.spotify.com/artist/0q7fw7pC9FcW9AUfIw4H5H), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Bewajah](https://open.spotify.com/album/7pb1utVXS2OS6dfQF0f0cN) | 2:51 |
-| 72 | [Izhaar](https://open.spotify.com/track/4XNsMOPYSEknPsiEzPkZzT) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Izhaar](https://open.spotify.com/album/2OoFPcpsGZCz8e8EHpZZsJ) | 3:52 |
-| 73 | [Tumhare Aane Se](https://open.spotify.com/track/6GvEjUmxUoVOMJMPK0STYZ) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1) | [Tumhare Aane Se](https://open.spotify.com/album/03D2jYzgyCTr5erXY6yc1l) | 3:28 |
-| 74 | [Pukaroge](https://open.spotify.com/track/2fLoGliNPrkYu3538MEXAr) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Pukaroge](https://open.spotify.com/album/6oT1IdHJahyT5GLigdFYyq) | 3:57 |
-| 75 | [Rahguzar](https://open.spotify.com/track/29aAMNNgGe3g5G4CnwlHuL) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Rahguzar](https://open.spotify.com/album/6fsdSpZ9mIXtePUwsNE4v3) | 3:28 |
+| 72 | [Tumhare Aane Se](https://open.spotify.com/track/6GvEjUmxUoVOMJMPK0STYZ) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1) | [Tumhare Aane Se](https://open.spotify.com/album/03D2jYzgyCTr5erXY6yc1l) | 3:28 |
+| 73 | [Izhaar](https://open.spotify.com/track/4XNsMOPYSEknPsiEzPkZzT) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Izhaar](https://open.spotify.com/album/2OoFPcpsGZCz8e8EHpZZsJ) | 3:52 |
+| 74 | [Rahguzar](https://open.spotify.com/track/29aAMNNgGe3g5G4CnwlHuL) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Rahguzar](https://open.spotify.com/album/6fsdSpZ9mIXtePUwsNE4v3) | 3:28 |
+| 75 | [Intezaar](https://open.spotify.com/track/6AlW2ZNQlzIKReQ1CS8J9r) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Intezaar](https://open.spotify.com/album/6Z4DXqYqQJc6XLzvPaSynt) | 3:55 |
 
-Snapshot ID: `MCwxZmU1Zjk2MWNjZDY2YzEwYjc5YjljOTc5NmFkYTY2NmFiNzY0Mjdi`
+Snapshot ID: `MCwyNWM2ZDJhYTI3ZjZiODI3ZDc5NzhkNzdmZmZlMDU4M2JiNzZmMDhi`

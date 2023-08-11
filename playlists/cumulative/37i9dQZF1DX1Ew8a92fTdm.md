@@ -4,7 +4,7 @@
 
 > Peaceful music box tunes for sleepy babies.
 
-219 songs - 5 hr 32 min
+220 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Itsy Bitsy Spider](https://open.spotify.com/track/5GmmttXZcF790b4rf0dbUa) | [Rick Flemm](https://open.spotify.com/artist/3Z7sI9OvtPJDAtjrZQKIAE) | [All Time Favorite Lullabies](https://open.spotify.com/album/0c6lcJKUnuBj8qtwZDgXpw) | 1:10 | 2022-02-10 |  |
 | [John Blund](https://open.spotify.com/track/3YNJRAOhFEQtebjq8j6sWN) | [Mel Rhodes](https://open.spotify.com/artist/4w5EOctmJhCFqHsXJw5nT4) | [John Blund](https://open.spotify.com/album/4mQHKIcKPh6CmIxcpYOuLK) | 1:19 | 2023-04-20 |  |
 | [Joyful Dreams](https://open.spotify.com/track/34vSdcmFgbjKihXgDumzZ2) | [Sarah Deville](https://open.spotify.com/artist/1MD5iwjDr1S6N8y0U81y2l) | [Joyful Dreams](https://open.spotify.com/album/48BRkijGa9KDMkWltUiuTp) | 1:19 | 2022-02-10 | 2023-05-19 |
-| [Klättermusens Vaggvisa](https://open.spotify.com/track/6H0ne2RkpMwJjiGN0jvRS6) | [Mika Nordlind](https://open.spotify.com/artist/6hnc50bJnPjV4YHbpz4ooq) | [Speldosans Vaggvisor 2](https://open.spotify.com/album/6v7RcI1Xqao7xI8xOyIieM) | 1:18 | 2022-02-10 |  |
+| [Klättermusens Vaggvisa](https://open.spotify.com/track/6H0ne2RkpMwJjiGN0jvRS6) | [Mika Nordlind](https://open.spotify.com/artist/6hnc50bJnPjV4YHbpz4ooq) | [Speldosans Vaggvisor 2](https://open.spotify.com/album/6v7RcI1Xqao7xI8xOyIieM) | 1:18 | 2022-02-10 | 2023-08-11 |
 | [Life is but a dream](https://open.spotify.com/track/6XLzwDwQzsX7gmKD6zZdie) | [Dagmar Park](https://open.spotify.com/artist/1FYboM4559UFLCS9IVXxio) | [Life is but a dream](https://open.spotify.com/album/0nnjifaoqsyGVLxbUWK7ey) | 1:20 | 2022-02-10 |  |
 | [Litet bo jag sätta vill](https://open.spotify.com/track/5qEoofV0UUskhni4I1vfn1) | [Beatrice Björkman](https://open.spotify.com/artist/2SdRSEuy0pwKedI6cZyTPI) | [Litet bo jag sätta vill](https://open.spotify.com/album/4E9junRVt6IwKCr8IRH78c) | 1:23 | 2022-12-09 |  |
 | [Little Bo Peep](https://open.spotify.com/track/2up0LGm75ZneCdHr8ngfKa) | [Jackie Leon](https://open.spotify.com/artist/0lnm8ajEZUtfdBN07KPn5b) | [Tommy Thumb](https://open.spotify.com/album/3xy4asbR8bGz43QEiwCYes) | 1:42 | 2022-02-10 | 2023-04-21 |
@@ -139,6 +139,7 @@
 | [New Day](https://open.spotify.com/track/3P4e8Ki7nMUamSdOI4WMCW) | [Violet Lilac](https://open.spotify.com/artist/1ZO5CM8kNuDauWG3I7weEi) | [New Day](https://open.spotify.com/album/4yeppDuc38nL2y8gXmTIep) | 2:14 | 2022-11-25 |  |
 | [No Place Like Home](https://open.spotify.com/track/7EVs1qboR5V7XYt9feFQCv) | [Morris Melba](https://open.spotify.com/artist/2y5YMSg3DW8rwhDygVRwO0) | [No Place Like Home](https://open.spotify.com/album/4G3srlZ80ysqyqK4yvIrwM) | 1:23 | 2023-02-17 |  |
 | [Oh Dear What Can The Matter Be](https://open.spotify.com/track/515HlA9jR6X2deb9ip6C6e) | [Michelle Milton](https://open.spotify.com/artist/26z5Y624zKmNYwvMKTh7Op) | [Oh Dear What Can The Matter Be](https://open.spotify.com/album/5K3M9LU3glsJGEXUsNHDZk) | 1:36 | 2022-02-10 |  |
+| [Oh Susannah](https://open.spotify.com/track/1gc8U1jf7Y8iQXfnnDGgwS) | [Mandy Sol](https://open.spotify.com/artist/135JH3EMElUkfAng9P6ZSZ) | [Oh Susannah](https://open.spotify.com/album/05ofcNrSL2DRLBXCSGuPod) | 1:55 | 2023-08-10 |  |
 | [On The Field Of Dreams](https://open.spotify.com/track/2h4Iktht8vvC9DQDFbHQcV) | [Izabella Kirk](https://open.spotify.com/artist/0PrTw0kgFwYZz0lje9LFED) | [On The Field Of Dreams](https://open.spotify.com/album/3AyzUXZw4EJaFwMOxss7ZY) | 1:11 | 2023-01-20 | 2023-05-19 |
 | [Once Upon A Star](https://open.spotify.com/track/0OYg9WxGtCb046jKfVVM8O) | [Laila Walton](https://open.spotify.com/artist/6JuIEojmY6muknH6pXp4ZR) | [Once Upon A Star](https://open.spotify.com/album/7bbSa0rovJmyJ5Ja5uLHMs) | 1:44 | 2022-02-10 | 2023-04-21 |
 | [One Two Three](https://open.spotify.com/track/6xzTftimykDDWxCKVzICLC) | [Teddy Yawns](https://open.spotify.com/artist/6wWETmvBDGKmiNBypzSLdL) | [One Two Three](https://open.spotify.com/album/1z9BkOTZESIn64PfUqOFRt) | 1:23 | 2023-04-20 |  |

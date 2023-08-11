@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 
 > Indie dance and alternative hip\-hop for a mellow time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 517,433 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 517,547 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 | 29 | [Breathe Deeper](https://open.spotify.com/track/3LbZIhU0smEU5SUnxod4j4) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 6:12 |
 | 30 | [Nanã](https://open.spotify.com/track/0Psz3az3RIYfJpnsajBT8N) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Caravelle](https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT) | 3:10 |
 | 31 | [FAMJAM4000](https://open.spotify.com/track/08vlprFBmwh9TQnjXUtZDG) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [FORWARD](https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL) | 2:38 |
-| 32 | [HIT EM WHERE IT HURTS](https://open.spotify.com/track/7888F1QWPTn4cPbuknNV4T) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [HIT EM WHERE IT HURTS](https://open.spotify.com/album/2w4bxNOt8ZLIBaKH2oi6ij) | 2:45 |
-| 33 | [No L's](https://open.spotify.com/track/12CNybio0Bxean3F3uYugU) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 2:55 |
+| 32 | [No L's](https://open.spotify.com/track/12CNybio0Bxean3F3uYugU) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 2:55 |
+| 33 | [HIT EM WHERE IT HURTS](https://open.spotify.com/track/7888F1QWPTn4cPbuknNV4T) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [HIT EM WHERE IT HURTS](https://open.spotify.com/album/2w4bxNOt8ZLIBaKH2oi6ij) | 2:45 |
 | 34 | [Marcel](https://open.spotify.com/track/5u9cuDcYdOpSRB7fAYXXdp) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 3:07 |
 | 35 | [I Wanna Help Your Mind](https://open.spotify.com/track/08ZZ7SILfKcreLtA3K6Gqr) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [I Wanna Help Your Mind](https://open.spotify.com/album/2G6xRZxWrt9mBXgHclg2i4) | 2:51 |
 | 36 | [Back Pocket](https://open.spotify.com/track/1DrlLvlYd1FIjNavRm6NdX) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [Thrill of the Arts](https://open.spotify.com/album/0LyGgFrZFXpRKpgj664Xu7) | 3:01 |
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 | 79 | [Ferris Wheel](https://open.spotify.com/track/0yiJNNm39cp1T7RnXOMVLX) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Free Love](https://open.spotify.com/album/2KAPJ40On8JY1Yt64JJgTk) | 2:57 |
 | 80 | [Keep On Calling](https://open.spotify.com/track/35nfO92JtV6Nhv3CgHpS7P) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Inside Out](https://open.spotify.com/album/7yf6qu9oeomPuI8p3FHjCP) | 3:50 |
 | 81 | [Garden Party](https://open.spotify.com/track/7166FiVEnGCG27MITo4kXC) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Garden Party](https://open.spotify.com/album/7p0R9IR7TOzFe7rENEKQn9) | 3:49 |
-| 82 | [Rockets \(feat\. Moe Moks\)](https://open.spotify.com/track/5LWKsMeXaYBoKzCHk8syQy) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE), [Moe Moks](https://open.spotify.com/artist/6wwgDxXnmagUtCLbNRFJpF) | [Rockets \(feat\. Moe Moks\)](https://open.spotify.com/album/7ixoMIHFujDeqLmaGLEKqL) | 3:37 |
+| 82 | [Rockets \(feat\. Moe Moks\)](https://open.spotify.com/track/5LWKsMeXaYBoKzCHk8syQy) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE), [Moe Moks](https://open.spotify.com/artist/7DkftpjbqLhwjlCUe567y9) | [Rockets \(feat\. Moe Moks\)](https://open.spotify.com/album/7ixoMIHFujDeqLmaGLEKqL) | 3:37 |
 | 83 | [If You Won't](https://open.spotify.com/track/7omQcQTiUCS1ZTRriyBqBA) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S) | [Love Me Like](https://open.spotify.com/album/4ASozZrX3WMIJplKcfRJYf) | 3:10 |
 | 84 | [Luvaroq](https://open.spotify.com/track/5mlirWXPq6KoroAUgy6Wdq) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Circmvnt](https://open.spotify.com/album/2eR6L5nfTqjp97Kty4fCgs) | 3:40 |
 | 85 | [Movie Screen](https://open.spotify.com/track/1OEEIcF2Q2aK0zZNnFmc05) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Tommy Gun](https://open.spotify.com/album/62A2Ye3DprnbewfUJyPHuh) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 | 99 | [Regrets](https://open.spotify.com/track/2Qbx0BOqQbMLwwrAb50rl0) | [Kevin Holliday](https://open.spotify.com/artist/30VidDqHTbEp8U7CBe1mX0) | [Regrets](https://open.spotify.com/album/5Tzh1u7kniXHj1VucpwMwb) | 2:34 |
 | 100 | [Young](https://open.spotify.com/track/2t9K0Ufe2FttNut9DPCoAW) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Fit Me In](https://open.spotify.com/album/0SANGYNvlcu8lP5DoJG3MZ) | 2:02 |
 
-Snapshot ID: `MCxkZWJkZTMzMjJlNGRlNjNmYTcxNWUzNDMwODA3Yzg4MTE5ZDQyMzc0`
+Snapshot ID: `MCwyZWE5ZjFiYTg2NWJlZmJmMjMwYzFhZjY5NWFiNDIzZWQ1YWNkOWIx`

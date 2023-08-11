@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 
 > The biggest party hits of the 1970s\. Cover: The Jacksons.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,430 likes - 150 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,923 likes - 150 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,13 +105,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 | 95 | [Jungle Boogie](https://open.spotify.com/track/3K0SJUQNbOkUprTFcwwAKN) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Wild And Peaceful](https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI) | 3:06 |
 | 96 | [Please Mr\. Postman](https://open.spotify.com/track/74jZhGv0fdLaf9q8AZZ15k) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Horizon](https://open.spotify.com/album/0ESCnyuOCpztPojn8m0uqi) | 2:52 |
 | 97 | [You Don't Mess Around with Jim](https://open.spotify.com/track/5yrsBzgHkfu2idkl2ILQis) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [You Don't Mess Around With Jim](https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy) | 3:04 |
-| 98 | [Bad Girls](https://open.spotify.com/track/1ibRqifchaAfeNdQGpbRVW) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Bad Girls](https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg) | 4:55 |
-| 99 | [He's the Greatest Dancer \- 1995 Remaster](https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 6:15 |
+| 98 | [He's the Greatest Dancer \- 1995 Remaster](https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 6:15 |
+| 99 | [Bad Girls](https://open.spotify.com/track/1ibRqifchaAfeNdQGpbRVW) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Bad Girls](https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg) | 4:55 |
 | 100 | [I Saw the Light](https://open.spotify.com/track/0B1zVsLqmV9ibIFdNS5tGs) | [Todd Rundgren](https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb) | [Something / Anything?](https://open.spotify.com/album/3fRCOoTbBsOITBWlCRCJQr) | 3:02 |
 | 101 | [Shambala \- Single Version](https://open.spotify.com/track/0P6fEgTn3cxLLyYTJYoYGj) | [Three Dog Night](https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV) | [Cyan](https://open.spotify.com/album/2wrMdtm48tovrqsqbJ2bRK) | 3:24 |
 | 102 | [Lookin' Out My Back Door](https://open.spotify.com/track/3RTUfvRgq3pYTf7XY0FIcS) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Cosmo's Factory \(Expanded Edition\)](https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK) | 2:32 |
-| 103 | [You Make Me Feel \(Mighty Real\)](https://open.spotify.com/track/0RnCUYXa7jhgTXtiMXF2PQ) | [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [Step II](https://open.spotify.com/album/6y64gP67AegGu2rspM2GHo) | 6:40 |
-| 104 | [Shake Your Groove Thing](https://open.spotify.com/track/5o89Bf80t8ko3uNXJkYoVs) | [Peaches & Herb](https://open.spotify.com/artist/6qI4LTzMRpTxRzMZPvv2C6) | [2 Hot!](https://open.spotify.com/album/1MzEdKoD6mxji2q7k3rRcw) | 5:46 |
+| 103 | [Shake Your Groove Thing](https://open.spotify.com/track/5o89Bf80t8ko3uNXJkYoVs) | [Peaches & Herb](https://open.spotify.com/artist/6qI4LTzMRpTxRzMZPvv2C6) | [2 Hot!](https://open.spotify.com/album/1MzEdKoD6mxji2q7k3rRcw) | 5:46 |
+| 104 | [You Make Me Feel \(Mighty Real\)](https://open.spotify.com/track/0RnCUYXa7jhgTXtiMXF2PQ) | [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [Step II](https://open.spotify.com/album/6y64gP67AegGu2rspM2GHo) | 6:40 |
 | 105 | [One Way Ticket](https://open.spotify.com/track/68MSCSP7Y6PnzXcW1IlN7G) | [Eruption](https://open.spotify.com/artist/3R6f1aBWwde7ZqGv7hf4dY) | [4 Hits: Eruption](https://open.spotify.com/album/26BHqKni1MTqwIcdSUFLRm) | 3:33 |
 | 106 | [Rock 'n' Roll \(Part 2\)](https://open.spotify.com/track/5F40csF5DtKOGfEg8vuz1d) | [Gary Glitter](https://open.spotify.com/artist/61zv3hX7l838ZyhaDyAx8S) | [Glitter](https://open.spotify.com/album/6Ck7kqCXreu6gH9CgdsFLO) | 3:13 |
 | 107 | [Grease \- From “Grease”](https://open.spotify.com/track/6X1D6qbVmK48uoOD9nIvVV) | [Frankie Valli](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) | [Grease \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq) | 3:25 |
@@ -132,9 +132,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 | 122 | [Love Is The Drug](https://open.spotify.com/track/3wtMkvedoWMQ3XTKv7tqcZ) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Siren](https://open.spotify.com/album/5Tpor3YZBVEJ9tWD5L31mH) | 4:11 |
 | 123 | [Hollywood Swinging](https://open.spotify.com/track/6igsoAR6Co9u7Rq3U7mlOD) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Wild And Peaceful](https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI) | 4:39 |
 | 124 | [Don't Leave Me This Way \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/4vYauy3ABO65vTXggGYaZg) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0) | 6:03 |
-| 125 | [The Bitch Is Back \- Remastered 1995](https://open.spotify.com/track/40tnCfx2mTtHozyaRDcYC5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou \(Remastered 1995\)](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 3:44 |
+| 125 | [In the Navy \- Original Version 1979](https://open.spotify.com/track/4mjFMScEvHeM72791mXRCW) | [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [Go West In the Navy](https://open.spotify.com/album/3iF4amlNW1yd9DoZ9WOD1i) | 5:39 |
 | 126 | [If You Can't Give Me Love \- 2017 Remaster](https://open.spotify.com/track/45JKOZUyOFoLhmEltJFEeW) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [If You Knew Suzi… \(2017 Remaster\)](https://open.spotify.com/album/3li6vNhRkVvZCAKzlMD0uI) | 3:52 |
-| 127 | [In the Navy \- Original Version 1979](https://open.spotify.com/track/4mjFMScEvHeM72791mXRCW) | [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [Go West In the Navy](https://open.spotify.com/album/3iF4amlNW1yd9DoZ9WOD1i) | 5:39 |
+| 127 | [The Bitch Is Back \- Remastered 1995](https://open.spotify.com/track/40tnCfx2mTtHozyaRDcYC5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou \(Remastered 1995\)](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 3:44 |
 | 128 | [Sing a Song](https://open.spotify.com/track/5W5FVsgGCe3T9nIMkiXqNo) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Gratitude](https://open.spotify.com/album/7AqOsJkpKZdkiap6CmIJ3Z) | 3:23 |
 | 129 | [Boogie Nights](https://open.spotify.com/track/4NTSDu34al733aIuUWVJHo) | [Heatwave](https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY) | [Too Hot to Handle \(Expanded Edition\)](https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8) | 5:03 |
 | 130 | [Heaven Must Be Missing An Angel \- Pt\. 1](https://open.spotify.com/track/7qQzkUWsbvoTDbNpW3FHQu) | [Tavares](https://open.spotify.com/artist/3LfO03nEZMdWNHG2tLpMa0) | [It Only Takes a Minute: A Lifetime with Tavares](https://open.spotify.com/album/1Qe9DoLXWCIwguQieoTcQh) | 6:29 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 | 149 | [Jet Airliner](https://open.spotify.com/track/4PMx9RSiKlgry322H27rrZ) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Book Of Dreams](https://open.spotify.com/album/36G9sqbDXXbE7Mv9GTDMXd) | 4:25 |
 | 150 | [Never Can Say Goodbye \- Single Version](https://open.spotify.com/track/3b9Cpi8jW9jNoyx72QbfRO) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [Never Can Say Goodbye \(Deluxe Edition\)](https://open.spotify.com/album/2Cye7gVcEraUhXVnLEYh5u) | 2:59 |
 
-Snapshot ID: `MCw1YzE1ZDU5NGY2YjlmZTJkZWU2NzRjNTUwY2Q3M2VjN2U0ZjcwN2Qy`
+Snapshot ID: `MCxkYjk4NWU3OTY3ZmJhZTg3MDUyM2UzNTljYjhkM2ZiMzc4NGQ2MDk4`

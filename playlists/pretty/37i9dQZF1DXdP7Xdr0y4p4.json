@@ -1,12 +1,12 @@
 {
   "description": "An essential list of recent hits of SoGo.  Cover:  <a href=\"https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA\">The Browns</a>",
-  "num_followers": 9257,
+  "num_followers": 9272,
   "original_name": "Streets Of Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzVhYjc4ODA2ZWE2ZjQ2OWNjMDFmMjE1ODA5NzI3Y2FkM2E4ZTdm",
+  "snapshot_id": "MCwyNjEzYjQyMzMwMTMzYzIzYjhlY2ZlODI5NjE3YWExYjkzYjAyNTJm",
   "tracks": [
     {
       "added_at": "2023-04-14 06:27:38",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Reckless Love",
-        "url": "https://open.spotify.com/album/3jiITw0HxtYaZAOAuEOQ93"
-      },
-      "artists": [
-        {
-          "name": "Gaither Vocal Band",
-          "url": "https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o"
-        }
-      ],
-      "duration_ms": 316864,
-      "name": "Reckless Love",
-      "url": "https://open.spotify.com/track/6LiW0vJVVrycjGFteSG7qm"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Time Machine",
         "url": "https://open.spotify.com/album/0Sl1oCoNsDtCkSLTaTZzpP"
       },
@@ -587,18 +571,34 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "On Jordan's Stormy Banks",
-        "url": "https://open.spotify.com/album/02nN1t9aMsxqJEa0ZJ4B8E"
+        "name": "Reckless Love",
+        "url": "https://open.spotify.com/album/3jiITw0HxtYaZAOAuEOQ93"
       },
       "artists": [
         {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+          "name": "Gaither Vocal Band",
+          "url": "https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o"
         }
       ],
-      "duration_ms": 276000,
-      "name": "On Jordan's Stormy Banks",
-      "url": "https://open.spotify.com/track/44R3QiC8sInYTpFB9TZegW"
+      "duration_ms": 316864,
+      "name": "Reckless Love",
+      "url": "https://open.spotify.com/track/6LiW0vJVVrycjGFteSG7qm"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/5rI5TQVg0ZKN3bm2yDx2tA"
+      },
+      "artists": [
+        {
+          "name": "Triumphant Quartet",
+          "url": "https://open.spotify.com/artist/60yKIk5WTQfPrkZPcdohVC"
+        }
+      ],
+      "duration_ms": 225773,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/3q0HpebwPnwOXkBJ17n0Fy"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -623,18 +623,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Everyday",
-        "url": "https://open.spotify.com/album/5rI5TQVg0ZKN3bm2yDx2tA"
+        "name": "On Jordan's Stormy Banks",
+        "url": "https://open.spotify.com/album/02nN1t9aMsxqJEa0ZJ4B8E"
       },
       "artists": [
         {
-          "name": "Triumphant Quartet",
-          "url": "https://open.spotify.com/artist/60yKIk5WTQfPrkZPcdohVC"
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
         }
       ],
-      "duration_ms": 225773,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/3q0HpebwPnwOXkBJ17n0Fy"
+      "duration_ms": 276000,
+      "name": "On Jordan's Stormy Banks",
+      "url": "https://open.spotify.com/track/44R3QiC8sInYTpFB9TZegW"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "The Lighthouse (50 Year Celebration)",
+        "url": "https://open.spotify.com/album/7DTKYFvwOP0q9jBz6OtclE"
+      },
+      "artists": [
+        {
+          "name": "Ronny Hinson",
+          "url": "https://open.spotify.com/artist/6b5TbMekdEbb75ItLBOoRs"
+        }
+      ],
+      "duration_ms": 262212,
+      "name": "The Lighthouse - 50 Year Celebration",
+      "url": "https://open.spotify.com/track/2ZGDPgfa0rOiRezBCY56qk"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "How Great Thou Art",
         "url": "https://open.spotify.com/album/4Uok3QayvnnQUB8ob4J95S"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 208010,
       "name": "How Great Thou Art",
       "url": "https://open.spotify.com/track/3otLzyxTwe5JoBKFA5K1r3"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "The Lighthouse (50 Year Celebration)",
-        "url": "https://open.spotify.com/album/7DTKYFvwOP0q9jBz6OtclE"
-      },
-      "artists": [
-        {
-          "name": "Ronny Hinson",
-          "url": "https://open.spotify.com/artist/6b5TbMekdEbb75ItLBOoRs"
-        }
-      ],
-      "duration_ms": 262212,
-      "name": "The Lighthouse - 50 Year Celebration",
-      "url": "https://open.spotify.com/track/2ZGDPgfa0rOiRezBCY56qk"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "In a Moment",
-        "url": "https://open.spotify.com/album/1hXk9gKQzIS6p9lnONUxpe"
-      },
-      "artists": [
-        {
-          "name": "Hebron Road",
-          "url": "https://open.spotify.com/artist/4IPpLxQQLSf3ANpz0Q7Y51"
-        }
-      ],
-      "duration_ms": 306462,
-      "name": "Every Other Throne",
-      "url": "https://open.spotify.com/track/4RLDBwWBB3amq8o48Zycig"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Heritage, Vol. 3",
         "url": "https://open.spotify.com/album/4QmFZIOMbWcg6YEUGKjuQy"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 154932,
       "name": "Praise Medley",
       "url": "https://open.spotify.com/track/01BfVuMUiP1df06GCvRb82"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "In a Moment",
+        "url": "https://open.spotify.com/album/1hXk9gKQzIS6p9lnONUxpe"
+      },
+      "artists": [
+        {
+          "name": "Hebron Road",
+          "url": "https://open.spotify.com/artist/4IPpLxQQLSf3ANpz0Q7Y51"
+        }
+      ],
+      "duration_ms": 306462,
+      "name": "Every Other Throne",
+      "url": "https://open.spotify.com/track/4RLDBwWBB3amq8o48Zycig"
     },
     {
       "added_at": "2023-04-14 06:27:38",

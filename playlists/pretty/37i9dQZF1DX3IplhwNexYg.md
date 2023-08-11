@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 
 > The best in current indie rock\. Cover: The Last Dinner Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,583 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,579 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,11 +31,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 21 | [Punk Rock Loser](https://open.spotify.com/track/2pqoh1jUQoppztoQRRGyKK) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Cave World](https://open.spotify.com/album/2IC2TP7bnwkfl56vjabLQt) | 3:57 |
 | 22 | [Purple](https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:22 |
 | 23 | [strawberry chainsaw](https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [strawberry chainsaw](https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL) | 2:36 |
-| 24 | [Just To Keep You Satisfied](https://open.spotify.com/track/06YDsNc6mrl60G2FZeUOmE) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Cuts & Bruises](https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S) | 3:35 |
-| 25 | [Paradise](https://open.spotify.com/track/1iXtTFvDXtL4sr5GOc2tXx) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Paradise](https://open.spotify.com/album/5wMUl1NuhyxRnRQK6shy9U) | 2:44 |
+| 24 | [Paradise](https://open.spotify.com/track/1iXtTFvDXtL4sr5GOc2tXx) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Paradise](https://open.spotify.com/album/5wMUl1NuhyxRnRQK6shy9U) | 2:44 |
+| 25 | [Just To Keep You Satisfied](https://open.spotify.com/track/06YDsNc6mrl60G2FZeUOmE) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Cuts & Bruises](https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S) | 3:35 |
 | 26 | [Slowing Down](https://open.spotify.com/track/3o1ah1V2PJDtsCyDCpwXe4) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 5:20 |
-| 27 | [Daisy \- Spotify Singles](https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Spotify Singles](https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y) | 2:29 |
-| 28 | [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 |
+| 27 | [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 |
+| 28 | [Daisy \- Spotify Singles](https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Spotify Singles](https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y) | 2:29 |
 | 29 | [Never Going Under](https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Never Going Under](https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj) | 2:14 |
 | 30 | [Easy On Your Own?](https://open.spotify.com/track/42oq4KDYcBwAHpEkV3PuWc) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 2:54 |
 | 31 | [Tropic Morning News](https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Tropic Morning News](https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ) | 5:09 |
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 36 | [dazies](https://open.spotify.com/track/1WucOL2fl6kxq6qz1jIGDM) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [dazies](https://open.spotify.com/album/2FmsHWgWAxpHPztCGn4xip) | 4:24 |
 | 37 | [Hippodrome](https://open.spotify.com/track/3ouStb8Q4Tjgg6SdONuDIr) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Hippodrome](https://open.spotify.com/album/7jasBIPf9Yop4dyY9KOVqc) | 2:41 |
 | 38 | [Teen Mom](https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Teen Mom](https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea) | 3:42 |
-| 39 | [Voice Of The Voiceless](https://open.spotify.com/track/1clBozMcdm8BPjda4Uh3mt) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [Voice Of The Voiceless](https://open.spotify.com/album/4sjD6pJ90VtPPy2lnT6uwU) | 3:13 |
-| 40 | [Knuckles](https://open.spotify.com/track/4Ko3NpExzZe0BBDDV6IZc8) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Burn The Empire](https://open.spotify.com/album/4aufPz4ZGcxWHNt2lp2lTf) | 2:40 |
-| 41 | [Should I](https://open.spotify.com/track/7pB8DoQuLCT6IbgSCXAmhG) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [I Am The Dog](https://open.spotify.com/album/0RjsbmAOQzWOq3fxQ002rX) | 2:28 |
-| 42 | [Since August](https://open.spotify.com/track/3Xd1JtZaloVCfKqMTF5C1Y) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [Since August](https://open.spotify.com/album/4VQYpmg1K5PHZvKnsRGRN9) | 2:55 |
+| 39 | [Knuckles](https://open.spotify.com/track/4Ko3NpExzZe0BBDDV6IZc8) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Burn The Empire](https://open.spotify.com/album/4aufPz4ZGcxWHNt2lp2lTf) | 2:40 |
+| 40 | [Voice Of The Voiceless](https://open.spotify.com/track/1clBozMcdm8BPjda4Uh3mt) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [Voice Of The Voiceless](https://open.spotify.com/album/4sjD6pJ90VtPPy2lnT6uwU) | 3:13 |
+| 41 | [Since August](https://open.spotify.com/track/3Xd1JtZaloVCfKqMTF5C1Y) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [Since August](https://open.spotify.com/album/4VQYpmg1K5PHZvKnsRGRN9) | 2:55 |
+| 42 | [Should I](https://open.spotify.com/track/7pB8DoQuLCT6IbgSCXAmhG) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [I Am The Dog](https://open.spotify.com/album/0RjsbmAOQzWOq3fxQ002rX) | 2:28 |
 | 43 | [Better \- Edit](https://open.spotify.com/track/6NIrjH865NExM8juniJlLY) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Better \(Edit\)](https://open.spotify.com/album/6R34iy63JPKrzmIUxCHnW7) | 3:31 |
 | 44 | [Devotion](https://open.spotify.com/track/6w6gCLDgv4L5AJtVDJNddn) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Devotion](https://open.spotify.com/album/1HEiOzOCnTP6rWQ8i5FskF) | 2:45 |
 | 45 | [Cramps](https://open.spotify.com/track/4mfPMfuy0fq025OaoPBKSL) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Cramps](https://open.spotify.com/album/0MT3P8dKhbeI7XwNi21OHE) | 2:51 |
@@ -66,20 +66,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 56 | [I Was Neon](https://open.spotify.com/track/4PXjrpBSAXim7Zm0W3yVjQ) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5) | 4:02 |
 | 57 | [Lucky Bean](https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [From Nothing To A Little Bit More](https://open.spotify.com/album/285M729So9YyJW5aqmiV3y) | 2:51 |
 | 58 | [Love Will Get You There](https://open.spotify.com/track/0UgCI5TiOQthbrEVSqHC9j) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Love Will Get You There](https://open.spotify.com/album/4WXV0n8Gk8TlNJHyXAhyWq) | 4:10 |
-| 59 | [So Cool](https://open.spotify.com/track/3GcueREEDYp44IT4JoTnY6) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [So Cool](https://open.spotify.com/album/5iUyvTHiC3DsrP7s1INsyY) | 3:05 |
-| 60 | [Borderline Insane](https://open.spotify.com/track/3G48URkjBTbQLTwW8mz1Po) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Borderline Insane](https://open.spotify.com/album/5Qh5HPMvrJfFujCGAV9GDB) | 2:19 |
+| 59 | [Borderline Insane](https://open.spotify.com/track/3G48URkjBTbQLTwW8mz1Po) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Borderline Insane](https://open.spotify.com/album/5Qh5HPMvrJfFujCGAV9GDB) | 2:19 |
+| 60 | [So Cool](https://open.spotify.com/track/3GcueREEDYp44IT4JoTnY6) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [So Cool](https://open.spotify.com/album/5iUyvTHiC3DsrP7s1INsyY) | 3:05 |
 | 61 | [Weeds](https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8) | 3:22 |
 | 62 | [Waste My Life](https://open.spotify.com/track/3jLMVF5HDdh10eAi8DgiHD) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Waste My Life](https://open.spotify.com/album/4Xt5HkbBZXyBGDomKr3gvG) | 2:40 |
 | 63 | [Smile](https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 3:16 |
-| 64 | [Hello Alien](https://open.spotify.com/track/4apqIevNZl1POiQccrGWls) | [Nathan Day](https://open.spotify.com/artist/3kEC0PwfYf8pGHiKFQk8OX) | [Hello Alien](https://open.spotify.com/album/0dZ0p4707siTGOUEvr98D5) | 3:25 |
-| 65 | [The Overload](https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [The Overload](https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu) | 3:16 |
+| 64 | [The Overload](https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [The Overload](https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu) | 3:16 |
+| 65 | [Hello Alien](https://open.spotify.com/track/4apqIevNZl1POiQccrGWls) | [Nathan Day](https://open.spotify.com/artist/3kEC0PwfYf8pGHiKFQk8OX) | [Hello Alien](https://open.spotify.com/album/0dZ0p4707siTGOUEvr98D5) | 3:25 |
 | 66 | [Alright](https://open.spotify.com/track/57BvpyURy7xPYKgbPRaynf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Alright](https://open.spotify.com/album/2rUWCf2wXA1PMK3NUckp2p) | 4:24 |
 | 67 | [Boyfriend](https://open.spotify.com/track/0ty4GQLhjq2lDzV8GpCNCT) | [Hot Freaks](https://open.spotify.com/artist/0wGzciem2JUvglxX6Hr3E9) | [Boyfriend](https://open.spotify.com/album/4JyXpLldphcUiQG9IjLFfs) | 3:22 |
 | 68 | [Kool Aid](https://open.spotify.com/track/4mLGUGw4IWlXs1UbY5QBpP) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Kool Aid](https://open.spotify.com/album/5yBahiPHetqnjC6oKYMJph) | 3:36 |
 | 69 | [Do You Wanna Talk](https://open.spotify.com/track/32SDqcUr2HkSJ20NlHcMBe) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Do You Wanna Talk](https://open.spotify.com/album/1M9rhdjdrp2azAxUtavJuX) | 2:26 |
-| 70 | [Roman Holiday](https://open.spotify.com/track/4IqBIufFMOV1sSYhzIPDoj) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Skinty Fia](https://open.spotify.com/album/1R7vPDuTFeqCGOLj1JwfRH) | 4:28 |
-| 71 | [U SAID!](https://open.spotify.com/track/3S2FcwSlUhob3FAdHgDwWc) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [TEMPTRESS](https://open.spotify.com/album/1M6P5oEDwt2pcnnWVsxGPo) | 2:07 |
-| 72 | [As Good As It Gets](https://open.spotify.com/track/1oSFY7EjYTQGqECkCgX9hF) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [As Good As It Gets](https://open.spotify.com/album/1Nq7X61ErYdrIfN2BDYar0) | 2:44 |
+| 70 | [As Good As It Gets](https://open.spotify.com/track/1oSFY7EjYTQGqECkCgX9hF) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [As Good As It Gets](https://open.spotify.com/album/1Nq7X61ErYdrIfN2BDYar0) | 2:44 |
+| 71 | [Roman Holiday](https://open.spotify.com/track/4IqBIufFMOV1sSYhzIPDoj) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Skinty Fia](https://open.spotify.com/album/1R7vPDuTFeqCGOLj1JwfRH) | 4:28 |
+| 72 | [U SAID!](https://open.spotify.com/track/3S2FcwSlUhob3FAdHgDwWc) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [TEMPTRESS](https://open.spotify.com/album/1M6P5oEDwt2pcnnWVsxGPo) | 2:07 |
 | 73 | [Can't Do Anything](https://open.spotify.com/track/0XhYsNRgZkCDmvdKS5pd5k) | [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [Can't Do Anything](https://open.spotify.com/album/64S1U9gVicwqHcggv5oZJx) | 2:44 |
 | 74 | [Anything](https://open.spotify.com/track/0by0AKBoLYhR8wKd9MkqGq) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Anything](https://open.spotify.com/album/7ubSPKEMVxIUKcPL6I9NV6) | 2:23 |
 | 75 | [Circles](https://open.spotify.com/track/4qPXc1ajqVrsYN4geH1SJp) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Circles](https://open.spotify.com/album/17Ufy7sNjGkWJltsGUTFb7) | 3:33 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 79 | [What's The Point In Life](https://open.spotify.com/track/18BRLFiAfy2GFQlVF62CFg) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [What's The Point In Life](https://open.spotify.com/album/4rUczOIIrnjN06ezLBgt9l) | 2:18 |
 | 80 | [Six\-Pack](https://open.spotify.com/track/1bSJ7EeizSSw8oa6g2qVSi) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Food for Worms](https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW) | 3:51 |
 
-Snapshot ID: `MCxjZWU2NDIyYTUzNjBmN2Q2NTdkYzdjMTg1MThkY2EyYjcyMTkwNzhh`
+Snapshot ID: `MCxlOTAyMDk1NDdjYTE2ZmVkNGM2MDc0MDZhODRkMTE2MmM3OGExOTZk`

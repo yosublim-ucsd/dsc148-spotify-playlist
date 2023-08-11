@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 
 > This is Mon Laferte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 619,734 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 619,937 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,12 +24,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 | 14 | [Flaco](https://open.spotify.com/track/3HMYsT5mnqQ57tVjvqlETb) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 4:16 |
 | 15 | [Tormento](https://open.spotify.com/track/0pR6N68RkIGKxitlTqraZ3) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1\)](https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0) | 4:36 |
 | 16 | [La Mujer](https://open.spotify.com/track/3sQf1MpSqYoqVfdvao8vKt) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 3:09 |
-| 17 | [Sasha, Sissi y el Círculo de Baba \- EADDA9223 \(feat\. Mon Laferte\)](https://open.spotify.com/track/0HdRf23VtIRpUdHH3mZc3L) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [EADDA9223](https://open.spotify.com/album/4VdWh8m5cYm3XI6dhayGIg) | 3:58 |
-| 18 | [Funeral](https://open.spotify.com/track/2ZNYFHhkBoS4KHr5eXnQth) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Norma](https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq) | 4:28 |
+| 17 | [Funeral](https://open.spotify.com/track/2ZNYFHhkBoS4KHr5eXnQth) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Norma](https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq) | 4:28 |
+| 18 | [Sasha, Sissi y el Círculo de Baba \- EADDA9223 \(feat\. Mon Laferte\)](https://open.spotify.com/track/0HdRf23VtIRpUdHH3mZc3L) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [EADDA9223](https://open.spotify.com/album/4VdWh8m5cYm3XI6dhayGIg) | 3:58 |
 | 19 | [Primaveral](https://open.spotify.com/track/1gQxoBZiyLK5hRLLoBg89x) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 3:51 |
 | 20 | [Aunque Te Mueras Por Volver](https://open.spotify.com/track/1eUDEJzgmfNcqXnFz0ObfD) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 4:10 |
-| 21 | [Tu Falta De Querer \- En Vivo](https://open.spotify.com/track/1zBpoBt0ss3onvb5wwFETQ) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1/ Edicion Especial\)](https://open.spotify.com/album/7oSZcpIqBMS86O9C4m82lk) | 4:38 |
-| 22 | [Caderas Blancas](https://open.spotify.com/track/4BMk6XhlXJW7ZgIS8vSBZk) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Norma](https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq) | 3:45 |
+| 21 | [Caderas Blancas](https://open.spotify.com/track/4BMk6XhlXJW7ZgIS8vSBZk) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Norma](https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq) | 3:45 |
+| 22 | [Tu Falta De Querer \- En Vivo](https://open.spotify.com/track/1zBpoBt0ss3onvb5wwFETQ) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1/ Edicion Especial\)](https://open.spotify.com/album/7oSZcpIqBMS86O9C4m82lk) | 4:38 |
 | 23 | [La Danza de las Libélulas](https://open.spotify.com/track/7l62bYBU4F4SiRdGDhnqTn) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Danza de las Libélulas](https://open.spotify.com/album/7mZmCL8uOUXpA2BASkmn5f) | 3:40 |
 | 24 | [Celos](https://open.spotify.com/track/7eihx3GaEiFI3OGhQo6oL2) | [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Vive](https://open.spotify.com/album/0eUyiqzZ7Tlu9G68IFP32G) | 3:20 |
 | 25 | [Hoy No](https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Hoy No](https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A) | 4:02 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 | 45 | [Quédate Esta Noche](https://open.spotify.com/track/14kf1Cdj0sdtKtMY02IBcB) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Norma](https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq) | 3:50 |
 | 46 | [Palabras Tristes](https://open.spotify.com/track/1UX1kt5jsniuhSpjIJTFGI) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Así Te Quiero Yo](https://open.spotify.com/album/3gpg9uMXT5gX6AJkeDH4Ok) | 3:51 |
 | 47 | [Se Me Va A Quemar El Corazón](https://open.spotify.com/track/3bazgu5pF9cKUSLv1QukL7) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 3:58 |
-| 48 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/0A2fcg05Ii6MpFCiuzfNfJ) | [sonoradinamita](https://open.spotify.com/artist/2wesOX1fzorPTtgcuZ0xv2), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Transformando La Cumbia](https://open.spotify.com/album/0oQPPVHlGTrEPptF9mOZeZ) | 4:16 |
+| 48 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/0A2fcg05Ii6MpFCiuzfNfJ) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Transformando La Cumbia](https://open.spotify.com/album/0oQPPVHlGTrEPptF9mOZeZ) | 4:16 |
 | 49 | [El Perdón \(feat\. Mon Laferte\)](https://open.spotify.com/track/70b8lQmciDIfPQNNEpp3Sj) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [El Perdón \(feat\. Mon Laferte\)](https://open.spotify.com/album/6lozW74MS46Wi4TBg8eInD) | 2:49 |
 | 50 | [Plata Ta Tá](https://open.spotify.com/track/0937IXPkSlckRCq1WoHSEl) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Plata Ta Tá](https://open.spotify.com/album/7HVCoZ2c1vfGjRXVPoGnkS) | 4:15 |
 
-Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDA0YmYwZjg5ZDFlYzM3YTEzOTU1NTVkODJiODE4OGE2OA==`
+Snapshot ID: `MjgxOTQ1NjMsMDAwMDAwMDAyNzUyNTZhM2I2ZTczYWRlMmUxMGRjNjU2MWQ5MWZkNQ==`

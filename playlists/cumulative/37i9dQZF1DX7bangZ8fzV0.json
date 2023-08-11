@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J?si=m5AVXRVKQzGnJmCkSoPmwQ\">Snotkop</a> ",
+  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx?si=vschVYCPThSoXFG9-NSEFg\">Bernice West</a> ",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "As Hy Weer Kom",
+        "url": "https://open.spotify.com/album/7lkDfSy0MUwIp6N8JQCZQF"
+      },
+      "artists": [
+        {
+          "name": "Bernice West",
+          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "As Hy Weer Kom",
+      "url": "https://open.spotify.com/track/5XRiNFuNKfDBUlAIUqmNSm"
+    },
+    {
+      "album": {
         "name": "Hittegolf",
         "url": "https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH"
       },
@@ -142,7 +160,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 182602,
       "name": "Ballade Vir 'N Enkeling",
       "url": "https://open.spotify.com/track/3AnbHTbNiQuURUxHiiFBtl"
@@ -218,6 +236,24 @@
       "duration_ms": 203007,
       "name": "Bietjie Benoni",
       "url": "https://open.spotify.com/track/5JGkomhAMrzfikSR4BGuYh"
+    },
+    {
+      "album": {
+        "name": "Boer In My Hart",
+        "url": "https://open.spotify.com/album/4JL1ZXeecKOOsbZFRJnuqj"
+      },
+      "artists": [
+        {
+          "name": "VAN WEST",
+          "url": "https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230163,
+      "name": "Boer In My Hart",
+      "url": "https://open.spotify.com/track/3O2mkRrUcsxZGETDCWPSjy"
     },
     {
       "album": {
@@ -2036,7 +2072,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 243541,
       "name": "Ontlaai",
       "url": "https://open.spotify.com/track/6v1hZo339lw7OUT5vH66DC"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The home for heavy rockers. Cover: WARGASM (UK)",
+  "description": "The home for heavy rockers. Cover: Caskets",
   "name": "The Pit",
   "tracks": [
     {
@@ -320,7 +320,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 251700,
       "name": "Believe",
       "url": "https://open.spotify.com/track/1XckAV94cXSzpKSRjFc6eY"
@@ -1412,7 +1412,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 275774,
       "name": "Gila Monster",
       "url": "https://open.spotify.com/track/7zHiG2FFEpeGvBmJkgZzVv"
@@ -1809,6 +1809,24 @@
     },
     {
       "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/3HmGULnPeH7ZhDkQlDibh3"
+      },
+      "artists": [
+        {
+          "name": "Caskets",
+          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212329,
+      "name": "In The Silence",
+      "url": "https://open.spotify.com/track/1klDKOUmMD566cwy91pqEO"
+    },
+    {
+      "album": {
         "name": "IOU",
         "url": "https://open.spotify.com/album/2vNZBW15QXrMe4ohiuDjZV"
       },
@@ -2182,7 +2200,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 161941,
       "name": "mOmS bAsEmeNt",
       "url": "https://open.spotify.com/track/1UMSXPU4noFMHwvqxXJO8O"
@@ -2638,6 +2656,24 @@
       "duration_ms": 149194,
       "name": "REAL SUPER DARK",
       "url": "https://open.spotify.com/track/6nXtGWUzOGxfI7q5hUa6Jj"
+    },
+    {
+      "album": {
+        "name": "RED",
+        "url": "https://open.spotify.com/album/6jS6EMy8bdawl6dbBzag1X"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234159,
+      "name": "RED",
+      "url": "https://open.spotify.com/track/66Rl6HThnoHCRRVCUbslIG"
     },
     {
       "album": {
@@ -3694,6 +3730,24 @@
       "duration_ms": 348333,
       "name": "Watcher In The Sky",
       "url": "https://open.spotify.com/track/5ZZfo37znoAbkxbrt5YvJD"
+    },
+    {
+      "album": {
+        "name": "Welcome To The Show",
+        "url": "https://open.spotify.com/album/4B5NV5m12cfnBDnPdu0A2u"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216720,
+      "name": "Welcome To The Show",
+      "url": "https://open.spotify.com/track/4nzvHox9PXS9f09PnNdBLj"
     },
     {
       "album": {

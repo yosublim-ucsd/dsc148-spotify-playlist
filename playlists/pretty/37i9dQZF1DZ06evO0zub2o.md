@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zub2o.md) - [plain]
 
 > This is Pantera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,069 likes - 41 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,181 likes - 41 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zub2o.md) - [plain]
 | 40 | [Hostile \- Live](https://open.spotify.com/track/4XDQGvmsZ0I3lANxJuhegH) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Official Live: 101 Proof](https://open.spotify.com/album/5jhAuU3PRZsnck8CHgvqMS) | 3:56 |
 | 41 | [Sandblasted Skin \- Live](https://open.spotify.com/track/7A3ZvT0Pb1ib9w4yVnORNp) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Official Live: 101 Proof](https://open.spotify.com/album/5jhAuU3PRZsnck8CHgvqMS) | 4:29 |
 
-Snapshot ID: `MjgxOTMwNjYsMDAwMDAwMDBiMGMyOGU1YmE1YTExNjllZjk5MzVkNDc4OWFhYWJjNQ==`
+Snapshot ID: `MjgxOTQ1NjMsMDAwMDAwMDAwMjViM2YwYTI2ZDgzMWY2NDZjNTU3NzU3Mzc1OWQ3NA==`

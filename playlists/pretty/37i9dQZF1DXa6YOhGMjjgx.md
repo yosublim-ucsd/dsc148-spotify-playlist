@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 
 > The very best of the alternative rock scene\. Cover: PÆRISH
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,575 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,609 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,14 +71,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 61 | [i heard they found you face down inside your living room](https://open.spotify.com/track/0GBmIoWGlCsBghx7mOE0Ll) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [i heard they found you face down inside your living room](https://open.spotify.com/album/69bjMy1M1LF1IeLraUUY5q) | 3:11 |
 | 62 | [MYSTERY](https://open.spotify.com/track/1QlGmLx0IWNZq8Dm4N94xm) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [MYSTERY](https://open.spotify.com/album/7fESyOnq9rZD3b37TuMXJq) | 2:35 |
 | 63 | [Don't Go Dark](https://open.spotify.com/track/30Yt23yIvh2IuxgjofSDC9) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [IRONTOM](https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q) | [Don't Go Dark](https://open.spotify.com/album/1B4uS47ZUL6Xgye7HQcpex) | 3:11 |
-| 64 | [These Days](https://open.spotify.com/track/5klhOR0OgxOLXlwP3JY7xi) | [Mouth Culture](https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd) | [These Days](https://open.spotify.com/album/65ykYwxWolf3lI0Gua8VRD) | 3:17 |
-| 65 | [Beauty](https://open.spotify.com/track/0j4FFgyRleA5IbWP4BmlIC) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Beauty](https://open.spotify.com/album/2xe0gTFgZok8BDgUlkpRQ6) | 3:40 |
+| 64 | [Beauty](https://open.spotify.com/track/0j4FFgyRleA5IbWP4BmlIC) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Beauty](https://open.spotify.com/album/2xe0gTFgZok8BDgUlkpRQ6) | 3:40 |
+| 65 | [These Days](https://open.spotify.com/track/5klhOR0OgxOLXlwP3JY7xi) | [Mouth Culture](https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd) | [These Days](https://open.spotify.com/album/65ykYwxWolf3lI0Gua8VRD) | 3:17 |
 | 66 | [Gaslight](https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gaslight](https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt) | 2:53 |
 | 67 | [Medication](https://open.spotify.com/track/4WFjp4EEmScRkNSiAsrEj1) | [Webbed Wing](https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI) | [Right After I Smoke This...](https://open.spotify.com/album/2pvRSA7JQIgKa1lAvruUlB) | 2:22 |
 | 68 | [Smile](https://open.spotify.com/track/6aZ4oJHt5zq9dM3Qb9o2Yq) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Smile](https://open.spotify.com/album/2rJ83ZqFCb09JCpa1GnNUQ) | 3:16 |
 | 69 | [Nowhere Generation \[with Meg Myers\]](https://open.spotify.com/track/5KBbOzPYd1lnnWV122qKwY) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O), [MEG MYERS](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Nowhere Generation \[with Meg Myers\]](https://open.spotify.com/album/2g1iPboxaw0IV4zRhA2Scl) | 3:59 |
-| 70 | [How Far Can You Push A Man?](https://open.spotify.com/track/7znL77EO0Ezhze36hnK8uN) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [How Far Can You Push A Man?](https://open.spotify.com/album/1CiNOzyjptv27RvizVglFg) | 4:03 |
-| 71 | [Burn The Empire](https://open.spotify.com/track/48DUNYVEDqSI2hrJtpRnmO) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Burn The Empire](https://open.spotify.com/album/6BgkyzQB8gTalZfDJrxluD) | 3:07 |
+| 70 | [Burn The Empire](https://open.spotify.com/track/48DUNYVEDqSI2hrJtpRnmO) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Burn The Empire](https://open.spotify.com/album/6BgkyzQB8gTalZfDJrxluD) | 3:07 |
+| 71 | [How Far Can You Push A Man?](https://open.spotify.com/track/7znL77EO0Ezhze36hnK8uN) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [How Far Can You Push A Man?](https://open.spotify.com/album/1CiNOzyjptv27RvizVglFg) | 4:03 |
 | 72 | [STATUES \(v2\)](https://open.spotify.com/track/1BVW94mJBunuCOgqqmKDqk) | [George Barnett](https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN) | [STATUES \(v2\)](https://open.spotify.com/album/2PFd9ISLL104rl7oFJtCsH) | 4:53 |
 | 73 | [Hung Up](https://open.spotify.com/track/6BvbBevaIuLHffC5Q09ueO) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Hung Up](https://open.spotify.com/album/2bePAZVJAuY8brSambIIiN) | 3:24 |
 | 74 | [Common Chaos](https://open.spotify.com/track/231wGywsY9is10w83qwrwC) | [IRONTOM](https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q) | [Common Chaos](https://open.spotify.com/album/7pzoanQ2Iwvk9FbJcqtKwo) | 2:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 99 | [Never Enough](https://open.spotify.com/track/06fffo52aqA0mtecLvyE3I) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Never Enough](https://open.spotify.com/album/3R3ALCiU33uYjXqandhEtV) | 2:52 |
 | 100 | [Apologies](https://open.spotify.com/track/5IYHlgFTDYMiXzvYtUxUAK) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [Apologies](https://open.spotify.com/album/1nATWShLPekWv0pH4yKrL6) | 2:53 |
 
-Snapshot ID: `MCw0NGNlMjM5ODljMjVjZjQ1NDMyOGEwMzc2OGI4ODc4NjI1ZjZlNTAx`
+Snapshot ID: `MCwxNzNiYzcwZjZmODYxMmRkYzMzYmM4MDQyYWE5N2U1OGRkN2FhMDRj`

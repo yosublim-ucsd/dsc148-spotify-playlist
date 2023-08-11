@@ -421,6 +421,28 @@
     },
     {
       "album": {
+        "name": "The Forever Story (Extended Version)",
+        "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203377,
+      "name": "Can\u2019t Punk Me (feat. EARTHGANG)",
+      "url": "https://open.spotify.com/track/2H2l7zo9EqtqxFr8R8N8Zg"
+    },
+    {
+      "album": {
         "name": "Caution",
         "url": "https://open.spotify.com/album/4JOlhEazXmlErhrnmABjYZ"
       },

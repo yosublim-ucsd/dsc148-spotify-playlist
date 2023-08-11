@@ -122,7 +122,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 175000,
       "name": "3adi",
       "url": "https://open.spotify.com/track/1lneoS1uCm0X8tcZTpalNa"
@@ -1989,6 +1989,28 @@
     },
     {
       "album": {
+        "name": "Dawsha",
+        "url": "https://open.spotify.com/album/17NRtlUkwb1qBzrhU5py2y"
+      },
+      "artists": [
+        {
+          "name": "Hana Ghoneim",
+          "url": "https://open.spotify.com/artist/6Ob3o641XhD90mvYqSU4Uk"
+        },
+        {
+          "name": "Mina Samy",
+          "url": "https://open.spotify.com/artist/6b2YMk5FFcYt1dVVpjl2oQ"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Dawsha",
+      "url": "https://open.spotify.com/track/213le8JlCRs3Zfbqo6WNvz"
+    },
+    {
+      "album": {
         "name": "Desert",
         "url": "https://open.spotify.com/album/3OdBtnlIzgwXnOHxgOgPOJ"
       },
@@ -2018,7 +2040,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 213600,
       "name": "Dima Lia",
       "url": "https://open.spotify.com/track/3KGOQ5S3QSrOdGK9dFcQrK"
@@ -3242,6 +3264,24 @@
       "duration_ms": 212531,
       "name": "Haja Ma Doum",
       "url": "https://open.spotify.com/track/5mLY8dRJv0jLTTJCJmDu1l"
+    },
+    {
+      "album": {
+        "name": "Hala Nafseya",
+        "url": "https://open.spotify.com/album/6UFbFT90oWax76tyfaV9pk"
+      },
+      "artists": [
+        {
+          "name": "Dalia",
+          "url": "https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180909,
+      "name": "Hala Nafseya",
+      "url": "https://open.spotify.com/track/5SXqHZTMpymarvsycHICkf"
     },
     {
       "album": {
@@ -4554,7 +4594,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 171464,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/5VagjKJG8biWH9OeMEqnBv"
@@ -6296,7 +6336,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 233142,
       "name": "Sfina",
       "url": "https://open.spotify.com/track/0pdfM1coo5llkgIYOhqcQB"
@@ -6754,7 +6794,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-08",
+      "date_removed": null,
       "duration_ms": 183556,
       "name": "Taqa Egabiya",
       "url": "https://open.spotify.com/track/36W3RtxBprZcvw1bcbcQFW"
@@ -6776,6 +6816,24 @@
       "duration_ms": 339502,
       "name": "Tea Song",
       "url": "https://open.spotify.com/track/67rHWWoksclsZD5FbNAqL2"
+    },
+    {
+      "album": {
+        "name": "Tegy Nenbeset",
+        "url": "https://open.spotify.com/album/4Y0PokkjwBKB44WxXwK8I2"
+      },
+      "artists": [
+        {
+          "name": "Nancy Ajram",
+          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198987,
+      "name": "Tegy Nenbeset",
+      "url": "https://open.spotify.com/track/2olgmxnrsz48q2lodyL9YI"
     },
     {
       "album": {
@@ -8960,7 +9018,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 219999,
       "name": "\u0644\u0628\u0639\u064a\u062f",
       "url": "https://open.spotify.com/track/7cdQhv0e9U3fbTDI9BnEQr"
@@ -9032,7 +9090,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-08",
+      "date_removed": null,
       "duration_ms": 147804,
       "name": "\u0645\u0627\u0644\u064a\u0634 \u0641\u064a \u0627\u0644\u0642\u0641\u0634",
       "url": "https://open.spotify.com/track/4nSB4EJoJBdFHVKiZGooa8"

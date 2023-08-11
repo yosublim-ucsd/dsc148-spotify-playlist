@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 
 > This is Lenin Ramírez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,582 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,591 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 3 | [Solita \(En Vivo\)](https://open.spotify.com/track/6ggHV1SCPqLLV5U2kyW9qD) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Solita \(En Vivo\)](https://open.spotify.com/album/50ABTjpmglksLMkTdoo1lP) | 3:35 |
 | 4 | [Se Acabo \- En Vivo](https://open.spotify.com/track/0lyZyn18awzOJuVM7qzCmd) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Se Acabo \(En Vivo\)](https://open.spotify.com/album/24fixrB7tstEtjF9NlbnIR) | 3:50 |
 | 5 | [Recordando a Manuel](https://open.spotify.com/track/3JuPa0jxEAacGtz4mAKVZA) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Jesús Chairez](https://open.spotify.com/artist/49xb55bacoIXahj7bLmfUp) | [Bendecído](https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu) | 3:28 |
-| 6 | [El Famoso Chino Antrax](https://open.spotify.com/track/5JINcxe6jLF09D6RSpHH5p) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Mi Conquista](https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7) | 3:18 |
-| 7 | [La Belikiza](https://open.spotify.com/track/5tSt4evQmEStMoVBsq7mzT) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [La Belikiza](https://open.spotify.com/album/4hxTlTfCesXn8NjNDqr4QA) | 2:09 |
-| 8 | [Pa' Olvidarme de tus Besos](https://open.spotify.com/track/2y0WCy503qjDcbpG1cYRMN) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Pa' Olvidarme de tus Besos](https://open.spotify.com/album/4TNb9dsc51JOXLRXj9D0Uy) | 3:07 |
+| 6 | [Pa' Olvidarme de tus Besos](https://open.spotify.com/track/2y0WCy503qjDcbpG1cYRMN) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Pa' Olvidarme de tus Besos](https://open.spotify.com/album/4TNb9dsc51JOXLRXj9D0Uy) | 3:07 |
+| 7 | [El Famoso Chino Antrax](https://open.spotify.com/track/5JINcxe6jLF09D6RSpHH5p) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Mi Conquista](https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7) | 3:18 |
+| 8 | [La Belikiza](https://open.spotify.com/track/5tSt4evQmEStMoVBsq7mzT) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [La Belikiza](https://open.spotify.com/album/4hxTlTfCesXn8NjNDqr4QA) | 2:09 |
 | 9 | [Soy Mencho](https://open.spotify.com/track/4ievzdqwvvtM1v8WCGtPuI) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Bendecído](https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu) | 3:00 |
 | 10 | [Joaquín](https://open.spotify.com/track/4DnNXHM9LiwuC1jZtXLI0w) | [Revolver Cannabis](https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Joaquín](https://open.spotify.com/album/6QqtIICcsDotbqg5SPWWUi) | 3:29 |
 | 11 | [Otro Perdedor](https://open.spotify.com/track/0cinWAQ7frmYmKWQq2wdKO) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Otro Perdedor](https://open.spotify.com/album/4T7oRpEinTw1MsnO80gToD) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 49 | [Las Hazañas de Mi Vida](https://open.spotify.com/track/7gUcVowWzzVpgemedRbJLI) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Golpe De Guerra](https://open.spotify.com/artist/0QPszxtOMuPoAcAU4yyt2V) | [Con Los Pies en La Tierra](https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r) | 2:47 |
 | 50 | [El Güerito](https://open.spotify.com/track/66FkkxqIBN6So8FLnioADs) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Adrian Chaparro](https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl) | [Seguimos Adelante](https://open.spotify.com/album/0AkCrr3xyED7XE5kt5P8Qt) | 2:50 |
 
-Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDA0Y2FhMjY5N2NkZTY0NWI2NGZhNjYyNTVkN2QyNTQ5Yg==`
+Snapshot ID: `MjgxOTQ1NjMsMDAwMDAwMDBiZGIxZThmNzJmODU0NmNjMjk4YjY2MmFkYWRlODY1YQ==`

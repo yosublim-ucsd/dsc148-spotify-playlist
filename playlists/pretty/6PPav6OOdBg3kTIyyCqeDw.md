@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6PPav6OOdBg3kTIyyCqeDw.md) - [plain]
 
 > A collection of Hip Hop hits and viral trends feat Lil Baby, Migos, GloRilla &amp; more\. Updated weekly!  Cover: Ice Spice
 
-[Digster](https://open.spotify.com/user/digster.fm) - 12,068 likes - 55 songs - 2 hr 51 min
+[Digster](https://open.spotify.com/user/digster.fm) - 12,069 likes - 55 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

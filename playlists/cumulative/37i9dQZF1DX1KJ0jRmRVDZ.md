@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-793 songs - 1 day 21 hr 17 min
+795 songs - 1 day 21 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Mob](https://open.spotify.com/track/18DhxwCxUWbnnqO5IXm2ty) | [TORIENA](https://open.spotify.com/artist/569Tg9s0Rv7EpI7zufTs2i) | [Mob](https://open.spotify.com/album/6CR45VfAP7FqOvCnHGgyDv) | 3:14 | 2022-06-30 | 2022-07-04 |
 | [model room](https://open.spotify.com/track/3ELEwSQF8cdy8cqAPBIwO9) | [春瀬 烈](https://open.spotify.com/artist/6bqf6xtgbyKTaqdYT8NaG3) | [MAGNET](https://open.spotify.com/album/3VDEH2uLJ0QdRD2z6ARnNC) | 4:29 | 2022-07-24 | 2022-07-27 |
 | [MoonWalker](https://open.spotify.com/track/4ELSoW5BZzs7rV8ac0Cpit) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [MoonWalker](https://open.spotify.com/album/088QzeGKVNk68ebMWTeL9q) | 3:34 | 2022-06-09 | 2022-08-31 |
+| [Mother Drug](https://open.spotify.com/track/28tXpSZ6nmsYDtn5sH3ZpS) | [HIMEHINA](https://open.spotify.com/artist/5OBmR4AY53SS26qHZ4uwnq) | [Mother Drug](https://open.spotify.com/album/05szkGoDv3RawMUYUEUQ27) | 3:46 | 2023-08-10 |  |
 | [Move Move Move \- feat\. 96猫](https://open.spotify.com/track/0QaPDcKufzYjm5T5VGja7V) | [Lezel](https://open.spotify.com/artist/6Dt654Ld9lg3i6fjLGClz7), [Kuroneko](https://open.spotify.com/artist/6Tz3nFnN2k3qvsjgJuCO1p) | [Move Move Move \(feat\. 96猫\)](https://open.spotify.com/album/2IOZVbQkmip8AKOscWiUQm) | 3:34 | 2022-09-20 | 2022-10-05 |
 | [Mr.シャーデンフロイデ](https://open.spotify.com/track/501T1i6UuMqL2cpovNqvso) | [青妃らめ](https://open.spotify.com/artist/5Fq1nS6PECzWvpCV0dPUJr), [IZUMI](https://open.spotify.com/artist/3qfHdXDQRGB6kXe2S6WK29), [こまいぬ。](https://open.spotify.com/artist/3OJpVjAtZp3NwWGdsskdLq), [Cereus](https://open.spotify.com/artist/4OUjIjkEBpesalcmLbFLhq), [とうめいのくに](https://open.spotify.com/artist/6VWwyGtRIk0UlmPt21J2ag), [月乃](https://open.spotify.com/artist/0xoQ0Y3rSFP5czBEkGjU6r), [吉乃](https://open.spotify.com/artist/4jxGzNzN68CsE1SnKixpiF), [みょみょ](https://open.spotify.com/artist/4M6qatRgo2hL25svgtKhNe) | [Mr.シャーデンフロイデ](https://open.spotify.com/album/6Wp8GDXubStrb1VwLiSZCl) | 4:07 | 2022-06-09 | 2022-06-14 |
 | [Nakimushi Schrodinger](https://open.spotify.com/track/5zlXoFrESLW2U94AK6fQnu) | [Utrecht](https://open.spotify.com/artist/0y3zz3pSjcGLwxaQvsd7uZ) | [Nakimushi Schrodinger](https://open.spotify.com/album/6fsuQLB9fxWBpGX2nlZXrg) | 3:21 | 2023-06-27 | 2023-07-05 |
@@ -226,7 +227,7 @@
 | [Shinjitsu Tsuka](https://open.spotify.com/track/1FQSzS7okTj6aExWodKXXL) | [終電間際≦オンライン。](https://open.spotify.com/artist/0n0p5irFicl5mYADoRl6Ps) | [Shinjitsu Tsuka](https://open.spotify.com/album/0cLu3Nqq30PGbG47dQ9HHm) | 3:27 | 2022-10-06 | 2022-10-12 |
 | [Shinkirou](https://open.spotify.com/track/2GJ4wf1R6fZaVgkzV3jbdz) | [HIMEGOTO](https://open.spotify.com/artist/7tDvpqwyQJ1HvksTwHaMQ6) | [Shinkirou](https://open.spotify.com/album/75n2DTZV1tfeBoLihLSWY7) | 5:33 | 2022-10-04 | 2022-10-19 |
 | [Shirayuki](https://open.spotify.com/track/1fcbAM10NJDMxShne4Vqjq) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Shirayuki](https://open.spotify.com/album/4CX8RRpkt9EXsC5yUptLHZ) | 3:41 | 2022-12-02 | 2023-01-20 |
-| [SHOCK!](https://open.spotify.com/track/2L1HeoX1m3Zv8KPM6HdfZN) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [SHOCK!](https://open.spotify.com/album/4L33Z8w28HGEwywExm2Z4L) | 3:00 | 2023-01-05 |  |
+| [SHOCK!](https://open.spotify.com/track/2L1HeoX1m3Zv8KPM6HdfZN) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [SHOCK!](https://open.spotify.com/album/4L33Z8w28HGEwywExm2Z4L) | 3:00 | 2023-01-05 | 2023-08-11 |
 | [shower room rendezvous](https://open.spotify.com/track/4656G8EnjFhXdKQDpTnUPg) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [shower room rendezvous](https://open.spotify.com/album/04nZ0av3cPzR8J32FSwjbw) | 3:24 | 2023-05-09 | 2023-05-24 |
 | [SHOWレース](https://open.spotify.com/track/1lzzRoO0fWyrlmwOQ6UztW) | [Nexus\-Cry](https://open.spotify.com/artist/5G8jDBkwGmPXonbtVj8nJX) | [SHOWレース](https://open.spotify.com/album/0cjT5braEI6LZAJSgw2IAV) | 3:17 | 2022-06-30 | 2022-07-24 |
 | [Sign](https://open.spotify.com/track/7lzZQ6lSsWPVrWgaAXX6pP) | [JASPĘR](https://open.spotify.com/artist/1pyg2ihnuRiqlkOxzRTXz7) | [Sign](https://open.spotify.com/album/2ujaRJAKxnDtIjyacSkZcH) | 3:47 | 2022-07-26 | 2022-07-29 |
@@ -501,7 +502,7 @@
 | [ミミクリーマン](https://open.spotify.com/track/2jeJlKMzqrGrCYJZYFL4Pc) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI), [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [ミミクリーマン](https://open.spotify.com/album/3KhJWcKUJrmr9AG9g3iI5I) | 3:55 | 2022-06-09 | 2022-07-28 |
 | [ミラ](https://open.spotify.com/track/3Nh3i6YBmVN9zHGFuMlwd2) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [ミラ](https://open.spotify.com/album/5RLYmHgINEeyKJrWTDZr4c) | 2:56 | 2022-06-09 | 2022-07-29 |
 | [ミラーチューン](https://open.spotify.com/track/0R8JLNP107Hr7V7lL9oh13) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ミラーチューン](https://open.spotify.com/album/6QDBlLAlW5dXvnHuwMjmA8) | 4:09 | 2022-06-09 | 2023-03-10 |
-| [メルトシティ](https://open.spotify.com/track/0PaphhsiFcynmB2pZEhLlX) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [メルトシティ](https://open.spotify.com/album/1pjgrbKpN6raYDVv2UI6sr) | 3:46 | 2023-07-25 |  |
+| [メルトシティ](https://open.spotify.com/track/0PaphhsiFcynmB2pZEhLlX) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [メルトシティ](https://open.spotify.com/album/1pjgrbKpN6raYDVv2UI6sr) | 3:46 | 2023-07-25 | 2023-08-11 |
 | [メロウ](https://open.spotify.com/track/6cGU6sOzRem6E8S7tCme1n) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [メロウ](https://open.spotify.com/album/0jkxbnOM0JnTw4c3Uegf6e) | 4:09 | 2023-04-04 | 2023-08-04 |
 | [モノフォビア](https://open.spotify.com/track/4YT9358e87upxQxIGy2FVo) | [NEW \(te”nC\)^2](https://open.spotify.com/artist/3YzKiDDsf14CuftYBdSULa) | [モノフォビア](https://open.spotify.com/album/6B12Xztii6946TqS3eEvCk) | 2:59 | 2022-07-12 | 2022-07-15 |
 | [モンスター](https://open.spotify.com/track/16oPsrYE8HkBWndxdhiICa) | [肉チョモランマ](https://open.spotify.com/artist/6itRUVO6rDXpVdy7lIy7vu) | [モンスター](https://open.spotify.com/album/3JyS6hoaYJB8sCdGG8h7wD) | 3:09 | 2022-06-14 | 2022-07-01 |
@@ -549,6 +550,7 @@
 | [光ってろ正義](https://open.spotify.com/track/4EjnL3jfg4sLMpp0eHoc8b) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [光ってろ正義](https://open.spotify.com/album/6RBlHo45oMRkzHwBVpBSuw) | 3:38 | 2023-01-17 | 2023-02-03 |
 | [全部が嫌いだ](https://open.spotify.com/track/0BqCPdwMHhfi9EdG784IbR) | [たかやん](https://open.spotify.com/artist/79JgYJHiBUZcvYqOC5Zufn) | [全部が嫌いだ](https://open.spotify.com/album/6bREPUWcely11Lkl5Ey7Wr) | 2:02 | 2022-06-09 | 2022-07-22 |
 | [八月三十二日\(葉月ケイの場合 / CV:菅原圭\)](https://open.spotify.com/track/6WIaqRsMJIL4CShUVuBSaV) | [十五少女](https://open.spotify.com/artist/4QmLN7dXAOKWnZO9efWX5d), [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [八月三十二日\(葉月ケイの場合 / CV:菅原圭\)](https://open.spotify.com/album/6IzGihmL24pqcRVd0vSl4S) | 3:50 | 2022-09-01 | 2022-09-21 |
+| [冒険録](https://open.spotify.com/track/793HiNkAcZTe1hi8rhYXg2) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [冒険録](https://open.spotify.com/album/2tdDdSjWA3N9l6EYZ0DZg0) | 3:47 | 2023-08-10 |  |
 | [冬海 feat\. 須田景凪](https://open.spotify.com/track/6P6PQhUqR6pxq133y0DRPk) | [Lanndo](https://open.spotify.com/artist/1UQu3kQBRro86Vj6naqhQk), [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [冬海 feat\. 須田景凪](https://open.spotify.com/album/2ZpIQ7k0EiYeeYyO9mKUtg) | 4:39 | 2022-11-22 | 2022-11-24 |
 | [凡人様](https://open.spotify.com/track/7HAHK002tQfVc9M8n6C7je) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [Gallery](https://open.spotify.com/album/5hLfzMZGHXrYAHA9UTxi1U) | 4:11 | 2023-05-09 | 2023-07-14 |
 | [分身](https://open.spotify.com/track/3hmCw7M1KL5tXnI0RksmJK) | [Wolpis Carter](https://open.spotify.com/artist/5gBtcJIa6ZLJB1HUwfik4J) | [分身 \-Bunshin\-](https://open.spotify.com/album/3OmklSJp60FTTw1mogR6Yk) | 2:54 | 2022-06-16 | 2022-07-14 |

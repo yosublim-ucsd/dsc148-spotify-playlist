@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 
 > Soul Music daqui e de fora, um toque de sensibilidade\. Foto: Cassiano
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,319 likes - 100 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,412 likes - 100 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 23 | [Kiss and Say Goodbye](https://open.spotify.com/track/0rHiGIRASJq8snJGFJMpnI) | [The Manhattans](https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf) | [The Manhattans \(Expanded Version\)](https://open.spotify.com/album/3FlfDtvO4nTwdfJQRzLgyv) | 4:26 |
 | 24 | [Footsteps in the Dark, Pts\. 1 & 2](https://open.spotify.com/track/1tL5a9jowsWMtn3wkFYsG9) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Go for Your Guns](https://open.spotify.com/album/04nhRulMSOvcRCGRTa7I5l) | 5:06 |
 | 25 | [The Lady in My Life](https://open.spotify.com/track/07L1pzoVerhRSSaDGZHrKy) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 5:00 |
-| 26 | [If You Don't Know Me by Now \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/3NElqDNNnzvWYOwsbxLQKN) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Harold Melvin & The Blue Notes \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef) | 3:25 |
-| 27 | [Rush Rush](https://open.spotify.com/track/015qd1I4v00JIoK7yOUgKC) | [Paula Abdul](https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j) | [Spellbound](https://open.spotify.com/album/6gHhunUztPgpyBmzeie6MH) | 4:52 |
+| 26 | [Rush Rush](https://open.spotify.com/track/015qd1I4v00JIoK7yOUgKC) | [Paula Abdul](https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j) | [Spellbound](https://open.spotify.com/album/6gHhunUztPgpyBmzeie6MH) | 4:52 |
+| 27 | [If You Don't Know Me by Now \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/3NElqDNNnzvWYOwsbxLQKN) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Harold Melvin & The Blue Notes \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef) | 3:25 |
 | 28 | [Love T.K.O.](https://open.spotify.com/track/3IVaPHncIZWWNjfg29HVLq) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [TP \(Expanded Edition\)](https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO) | 4:59 |
 | 29 | [Lovin' You](https://open.spotify.com/track/3ebYtLVuV4HzEZUDcpZB9p) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Perfect Angel](https://open.spotify.com/album/3TFzRE2Mm1uZcJeu91UNs9) | 3:43 |
 | 30 | [I Can't Help It](https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 4:29 |
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 50 | [We're in This Love Together](https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v) | [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe) | [Breakin' Away](https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X) | 3:46 |
 | 51 | [You Are Everything](https://open.spotify.com/track/0TFBANCgctg5hAt9ez2V2g) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [The Stylistics \- The Original Debut Album](https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ) | 2:55 |
 | 52 | [Computer Love](https://open.spotify.com/track/677tTabxmQFZjoNlo2E6JW) | [Zapp](https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi) | [All the Greatest Hits](https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ) | 4:42 |
-| 53 | [Summer In The City](https://open.spotify.com/track/39eFFeKv7QaTBIukk7TYVu) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [You've Got It Bad Girl](https://open.spotify.com/album/4fbKwL6dBzBF07dOkc2yRB) | 4:04 |
-| 54 | [Come Live With Me Angel](https://open.spotify.com/track/7gs18umrgrIpRlDQIzKhpH) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [I Want You \(Deluxe Edition\)](https://open.spotify.com/album/28nUWsyczStUhYKXTY1IoW) | 6:28 |
-| 55 | [Always](https://open.spotify.com/track/5ecomU85GzPgOJZ315oZ88) | [Atlantic Starr](https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm) | [All In The Name Of Love](https://open.spotify.com/album/1ciLacI1DyPsAWFW4fCE15) | 4:46 |
+| 53 | [Come Live With Me Angel](https://open.spotify.com/track/7gs18umrgrIpRlDQIzKhpH) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [I Want You \(Deluxe Edition\)](https://open.spotify.com/album/28nUWsyczStUhYKXTY1IoW) | 6:28 |
+| 54 | [Always](https://open.spotify.com/track/5ecomU85GzPgOJZ315oZ88) | [Atlantic Starr](https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm) | [All In The Name Of Love](https://open.spotify.com/album/1ciLacI1DyPsAWFW4fCE15) | 4:46 |
+| 55 | [Summer In The City](https://open.spotify.com/track/39eFFeKv7QaTBIukk7TYVu) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [You've Got It Bad Girl](https://open.spotify.com/album/4fbKwL6dBzBF07dOkc2yRB) | 4:04 |
 | 56 | [Who Can I Run To](https://open.spotify.com/track/3sFoSCg2KoaCUrOeKYMqvI) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 3:24 |
 | 57 | [Angel](https://open.spotify.com/track/0UwwFTc4nTDEkxSKJBP4xY) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [80s Jazz Hits](https://open.spotify.com/album/6n7M7UplXtgLvMz149cPWS) | 5:00 |
 | 58 | [For the Love of You, Pts\. 1 & 2](https://open.spotify.com/track/6k0GXtn49Ga6kfA8ZvLtVX) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [The Essential Isley Brothers](https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v) | 5:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 99 | [Um dia de domingo](https://open.spotify.com/track/41UtrfZQMk8598NmRIbZlt) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [iCollection](https://open.spotify.com/album/3yFSvoGiwt8MvGIhPvL4Sn) | 5:00 |
 | 100 | [Me dê motivos](https://open.spotify.com/track/30DmZoDNZaaLTWtur7cI66) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [iCollection](https://open.spotify.com/album/3yFSvoGiwt8MvGIhPvL4Sn) | 4:51 |
 
-Snapshot ID: `MCw4MDE0M2FiNTQ1ZThmZTUyYTA5MGU4NzYzNDNkYzE1OTZjZDlhM2Yx`
+Snapshot ID: `MCwwOTViMWU4NGY4YmM4Yjc0OWU1ZDc1Y2EzZDZlYjkzYTk2N2VjMmNh`

@@ -4,7 +4,7 @@
 
 > Catch Suananda's favorite South Asian tracks!
 
-44 songs - 4 hr 1 min
+45 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,12 +31,13 @@
 | [Lagaya Dil](https://open.spotify.com/track/0n8FJ2DDgoBXJjczqYQfMF) | [Sajjad Ali](https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD) | [Lagaya Dil](https://open.spotify.com/album/7uSblQxPUE09Si8F2Dy2c2) | 4:18 | 2023-07-17 |  |
 | [Main Tenu Yaad Awanga](https://open.spotify.com/track/2PgGmZO6NQf3Vn5ptNtWsW) | [Asa Singh Mastana](https://open.spotify.com/artist/5MjQby5pq8m4mANED6jFbA), [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Bemisal Asa Singh Mastana Surinder Kaur 1 And 2](https://open.spotify.com/album/4ructkl3LlPljQXm2hQI3L) | 4:56 | 2023-07-17 |  |
 | [Mazaa Aa Gaya](https://open.spotify.com/track/5OXT6kJkcbxiPjRdV1QXFq) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Shahenshah\-E\-Qawwal \- Greatest and Latest Hits, Vol\. 1](https://open.spotify.com/album/7zsUrcoxb9EMXnbcCtlmjV) | 17:38 | 2023-07-17 |  |
-| [Mere Pas Tum Ho](https://open.spotify.com/track/6qrX5cDMkAQYGmnbdHj3ho) | [chitrali](https://open.spotify.com/artist/3CRJomunqUTFVhIknSGawU) | [Mere Pas Tum Ho](https://open.spotify.com/album/4YChiH2FVicDOHMMvrix1s) | 5:00 | 2023-07-17 |  |
+| [Meray Pass Tum Ho \(Original Motion Picture Soundtrack\)](https://open.spotify.com/track/52eZg09M8KsJ4Cn5KZfUho) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Meray Pass Tum Ho \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1HJmxysmbFccpzlk4Hrf9C) | 5:00 | 2023-07-17 |  |
+| [Mere Pas Tum Ho](https://open.spotify.com/track/6qrX5cDMkAQYGmnbdHj3ho) | [chitrali](https://open.spotify.com/artist/3CRJomunqUTFVhIknSGawU) | [Mere Pas Tum Ho](https://open.spotify.com/album/4YChiH2FVicDOHMMvrix1s) | 5:00 | 2023-07-17 | 2023-08-11 |
 | [Pagal Nahi Hona \(feat\. Sonu Sood\)](https://open.spotify.com/track/1BPnrHYkrXc28xp66lB2CZ) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Sonu Sood](https://open.spotify.com/artist/1RViT01v3KsUvaEQk136nY) | [Pagal Nahi Hona \(feat\. Sonu Sood\)](https://open.spotify.com/album/0JTBanRxutQ7j4bRNgjh40) | 3:46 | 2023-07-17 |  |
 | [Pasoori](https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB) | [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Pasoori](https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h) | 3:44 | 2023-07-17 |  |
 | [Phir Aur Kya Chahiye \(From "Zara Hatke Zara Bachke"\)](https://open.spotify.com/track/7Ky9U9iHjGBiRax3joCRDS) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabha Bhattacharya](https://open.spotify.com/artist/7uw9rkZ9mxuSBuURy86ERR) | [Phir Aur Kya Chahiye \(From "Zara Hatke Zara Bachke"\) \- Single](https://open.spotify.com/album/1skD49xUwXnHLMrlEKTo6j) | 4:26 | 2023-07-17 |  |
 | [Pyar Manga Tha Gham De Gaye Hain](https://open.spotify.com/track/7oOZpsUhFJd99CnI1JLRog) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Afternight Vibes](https://open.spotify.com/artist/2vgPHpzN3vUohpmQS7lNC7) | [Revamped, Vol\. 2 \(Remix\)](https://open.spotify.com/album/5oXGi0znSrqAK44lA34xdY) | 3:54 | 2023-07-17 |  |
-| [Raaz\-e\-Fitna](https://open.spotify.com/track/5XuB6NxRdUqlHl3MjP5TTu) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [Raaz\-e\-Fitna](https://open.spotify.com/album/0QvkhdtDA25dZ6ULww4fZY) | 2:40 | 2023-07-17 |  |
+| [Raaz\-e\-Fitna](https://open.spotify.com/track/5XuB6NxRdUqlHl3MjP5TTu) | [Bayaan](https://open.spotify.com/artist/6SpP0Zx0DkClOvthz6Dc2G) | [Raaz\-e\-Fitna](https://open.spotify.com/album/0QvkhdtDA25dZ6ULww4fZY) | 2:40 | 2023-07-17 |  |
 | [Ravi](https://open.spotify.com/track/0sT56zcByY6pW1EQcNDCla) | [Sajjad Ali](https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD) | [Ravi](https://open.spotify.com/album/3rI0HlLjnNxqywLJsu7VTr) | 3:49 | 2023-07-17 |  |
 | [Saadgi](https://open.spotify.com/track/3sJWoaPT8eE7YTPzpr6Ya9) | [Zeeshan Ali](https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92) | [Saadgi](https://open.spotify.com/album/4nQOjxICR7sBomW0ZJwjqN) | 3:30 | 2023-07-17 |  |
 | [Sandal](https://open.spotify.com/track/1tyQYZuFC6Tp8NZwbcC0xg) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Sandal](https://open.spotify.com/album/761lLL8derD1jl8VJtlgTk) | 2:59 | 2023-07-17 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The songs of the 1970s that will make you dance all summer long!",
-  "num_followers": 162058,
+  "num_followers": 162434,
   "original_name": "Summer Hits of the 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDVlMjAwMzE4MmI1ZjBhNTYzZDQyYjA5ZWMzNmRkNTY2NDc4Nzgw",
+  "snapshot_id": "MCw2OGM2YjRlMDYwY2FkZDBjZWVkZjgzMTI4ODM1NzQwYzhjZmNmOGY4",
   "tracks": [
     {
       "added_at": "2022-04-18 23:11:58",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "The Captain and Me",
-        "url": "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt"
-      },
-      "artists": [
-        {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
-        }
-      ],
-      "duration_ms": 207266,
-      "name": "Long Train Runnin'",
-      "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
         "name": "Get The Knack",
         "url": "https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi"
       },
@@ -623,18 +607,18 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Tom Petty & The Heartbreakers",
-        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
+        "name": "The Captain and Me",
+        "url": "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt"
       },
       "artists": [
         {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
         }
       ],
-      "duration_ms": 214733,
-      "name": "American Girl",
-      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
+      "duration_ms": 207266,
+      "name": "Long Train Runnin'",
+      "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -651,6 +635,22 @@
       "duration_ms": 159172,
       "name": "Up Around The Bend",
       "url": "https://open.spotify.com/track/56dtB7EzO7EneUgYwX8krC"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "Tom Petty & The Heartbreakers",
+        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 214733,
+      "name": "American Girl",
+      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
-      },
-      "artists": [
-        {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        }
-      ],
-      "duration_ms": 233173,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
         "name": "\u30c9\u30e9\u30a4\u30d6\u304c\u697d\u3057\u304f\u306a\u308b\u6d0b\u697d\u30d2\u30c3\u30c4\uff0180\u5e74\u4ee3 HITS",
         "url": "https://open.spotify.com/album/2AUaQkwZyx52vDbynEfWLD"
       },
@@ -1019,6 +1003,22 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 233173,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
         "name": "Rumours (Super Deluxe)",
         "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
       },
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Changes In Latitudes, Changes In Attitudes",
-        "url": "https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 250933,
-      "name": "Margaritaville",
-      "url": "https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
         "name": "In Color",
         "url": "https://open.spotify.com/album/2sXJQdHykPYcRQ7xFhwzMR"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 191226,
       "name": "I Want You to Want Me",
       "url": "https://open.spotify.com/track/1JkZg3eMQTmTn93E8Yd3UL"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "Changes In Latitudes, Changes In Attitudes",
+        "url": "https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "duration_ms": 250933,
+      "name": "Margaritaville",
+      "url": "https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "L.A. Woman",
-        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 198466,
-      "name": "Love Her Madly",
-      "url": "https://open.spotify.com/track/3MFFDRC4wTN9JNGtzXsZlN"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
         "name": "Still Bill",
         "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
       },
@@ -1163,34 +1147,18 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Chaka",
-        "url": "https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC"
+        "name": "L.A. Woman",
+        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
       },
       "artists": [
         {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 249600,
-      "name": "I'm Every Woman",
-      "url": "https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
-        "name": "Mud Slide Slim and the Blue Horizon (2019 Remaster)",
-        "url": "https://open.spotify.com/album/3ahHxtwRwMIdHcAo0MEXxX"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 268866,
-      "name": "You've Got a Friend - 2019 Remaster",
-      "url": "https://open.spotify.com/track/6zV8IpLvw0tkRSVCFQJB1y"
+      "duration_ms": 198466,
+      "name": "Love Her Madly",
+      "url": "https://open.spotify.com/track/3MFFDRC4wTN9JNGtzXsZlN"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -1211,6 +1179,22 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
+        "name": "Mud Slide Slim and the Blue Horizon (2019 Remaster)",
+        "url": "https://open.spotify.com/album/3ahHxtwRwMIdHcAo0MEXxX"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 268866,
+      "name": "You've Got a Friend - 2019 Remaster",
+      "url": "https://open.spotify.com/track/6zV8IpLvw0tkRSVCFQJB1y"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
         "name": "Hooked On A Feeling - 40th Anniversary Collection",
         "url": "https://open.spotify.com/album/12UILuDVbIIjLZhcRBNcOJ"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 172866,
       "name": "Hooked On A Feeling",
       "url": "https://open.spotify.com/track/2Nz6aF1umHh5Et6I5H581L"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "Chaka",
+        "url": "https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "I'm Every Woman",
+      "url": "https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl"
     }
   ],
   "unique_name": "Summer Hits of the 70s",

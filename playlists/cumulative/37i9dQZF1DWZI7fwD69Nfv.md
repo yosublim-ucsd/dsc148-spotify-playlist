@@ -4,7 +4,7 @@
 
 > ¡Ya huele a sopita! Buen provecho.
 
-197 songs - 11 hr 18 min
+198 songs - 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Me Hace Tanto Bien](https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Me Hace Tanto Bien](https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV) | 3:51 | 2022-08-09 |  |
 | [Me La Avente](https://open.spotify.com/track/2QwMXe5zbqymDZGYsMDVqZ) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/7kTcIz6EDhc8G0QCyvpOpH) | 2:35 | 2022-05-23 | 2022-07-29 |
 | [Me La Avente](https://open.spotify.com/track/3ahvKiNH7l6EpnTnzkZpG1) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI) | 2:35 | 2022-05-23 | 2023-08-09 |
+| [Me la Avente](https://open.spotify.com/track/3nQ0FbZL6DTcGnu03Jpgzm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/5We7yGwHCRWuy7T5StvTwS) | 2:35 | 2023-04-10 |  |
 | [Me Vas a Extrañar](https://open.spotify.com/track/2yS8aYWXEWJ1NlZ7VPDroT) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Que Bendición](https://open.spotify.com/album/5VL90afs1EsezktD44XMIN) | 2:56 | 2022-05-23 | 2022-08-10 |
 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/6mzfmqArdNFYG3ZqM8zFC2) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Trozos De Mi Alma](https://open.spotify.com/album/750XK6PDJK3u7ZvIFIajqb) | 3:43 | 2022-05-23 |  |
 | [Mi Mayor Anhelo](https://open.spotify.com/track/0bBvuLFzIjrHm9PPyvohIA) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Mi Mayor Anhelo](https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp) | 3:29 | 2022-08-09 |  |
@@ -147,7 +148,7 @@
 | [Qué Agonía](https://open.spotify.com/track/5WEt9MiZPNmCbhu8GOR9Kk) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Qué Agonía](https://open.spotify.com/album/5OhmDEdu6pM2rTLOpOAk4v) | 2:32 | 2023-02-25 |  |
 | [Ramito De Violetas](https://open.spotify.com/track/5SiAusJizzxkKXy0oowWyK) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Grupo El Mexicano](https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8) | 3:32 | 2022-05-23 | 2022-07-29 |
 | [Ramito De Violetas](https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Mexico Querido](https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1) | 3:32 | 2022-05-23 |  |
-| [Romeo y Julieta](https://open.spotify.com/track/1PD6BmSC7JULxOlJWAI2jJ) | [Jorge Dominguez y su Grupo Super Class](https://open.spotify.com/artist/45qPqiZHXOlAo41ESJc5hh) | [Dueño de tu amor](https://open.spotify.com/album/0kQb2pG5TJxQNecwJMzArN) | 4:13 | 2022-05-23 |  |
+| [Romeo y Julieta](https://open.spotify.com/track/1PD6BmSC7JULxOlJWAI2jJ) | [Jorge Dominguez y su Grupo Super Class](https://open.spotify.com/artist/45qPqiZHXOlAo41ESJc5hh) | [Dueño de tu amor](https://open.spotify.com/album/0kQb2pG5TJxQNecwJMzArN) | 4:13 | 2022-05-23 | 2023-08-11 |
 | [San Lucas](https://open.spotify.com/track/5aZubhYBTy6tWIbRZMxVbF) | [Exceso Norte](https://open.spotify.com/artist/49yiRwnTJyXf41PTI1Rouw) | [San Lucas](https://open.spotify.com/album/78LHb0YpQCcDNxsZ6DdN9I) | 2:48 | 2022-06-08 | 2022-08-10 |
 | [Sangoloteadito](https://open.spotify.com/track/42D6y1VGayuix2t3XRMz1u) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Bandido De Amores](https://open.spotify.com/album/3G7KElUeUivI9GZEPvxKpR) | 3:00 | 2022-05-23 | 2022-07-29 |
 | [Se Acabo \- En Vivo](https://open.spotify.com/track/0lyZyn18awzOJuVM7qzCmd) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Se Acabo \(En Vivo\)](https://open.spotify.com/album/24fixrB7tstEtjF9NlbnIR) | 3:50 | 2022-05-23 |  |

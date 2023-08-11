@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle guitar covers.
 
-244 songs - 12 hr 16 min
+246 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Heaven](https://open.spotify.com/track/7yAhqUJ1LAkEdYnF8XxNN5) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [Dean M Parker](https://open.spotify.com/album/2zNaQCdhfJlWgaYoedd4oP) | 1:39 | 2022-05-20 | 2022-07-02 |
 | [Hello](https://open.spotify.com/track/1d34TcAqhMCMCsS2KEZ22E) | [Noah Walsh](https://open.spotify.com/artist/58pG5qSAHNUCZRBNdNL2PY) | [Hello](https://open.spotify.com/album/07XgGTzEYfa2YMAOZ6tU5a) | 3:23 | 2022-09-30 |  |
 | [Here Comes The Sun](https://open.spotify.com/track/0ioKfrLt4M6pkTmODSORO1) | [Caden Fox](https://open.spotify.com/artist/0OR3tNEJyrFIjuImwG5FI3) | [Here Comes The Sun](https://open.spotify.com/album/2Ji1nVM3CvZKj5mA2bfM7S) | 2:38 | 2022-05-20 |  |
+| [Here, There And Everywhere](https://open.spotify.com/track/4PNvy26PrRrzBp2W8CfI4f) | [Lo Larsen](https://open.spotify.com/artist/1RsZrWsACeuDkqAISdeFDi) | [Here, There And Everywhere](https://open.spotify.com/album/7vmJ347oe0AC58vdpX58WP) | 2:54 | 2023-08-10 |  |
 | [Hey Jude](https://open.spotify.com/track/4oLyZoduYHjLuYgvC9ds07) | [Trevor Potts](https://open.spotify.com/artist/6fTOLvQf6rBdCas2UAAEEa) | [Hey Jude](https://open.spotify.com/album/0moinVUWhkOZmD7JkvlrYh) | 2:09 | 2023-04-14 |  |
 | [Hold Back The River](https://open.spotify.com/track/52X6M2Kp4HvpHup3tafEF5) | [Lucian Byrne](https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C) | [Hold Back The River](https://open.spotify.com/album/4mUjWwSGmnqzhLzTgqa3mH) | 2:28 | 2023-02-10 | 2023-06-03 |
 | [Hold Me Closer](https://open.spotify.com/track/4H0DZdsY2oT23dnD5RYyYP) | [Brandon Taylor Smith](https://open.spotify.com/artist/0CkM1sLkP3yQW8I7ja51am) | [Hold Me Closer](https://open.spotify.com/album/0E4psFtna3BQ3W7CVtKSKr) | 2:27 | 2022-12-23 |  |
@@ -129,7 +130,7 @@
 | [Ironic](https://open.spotify.com/track/3m02CtIYAR53mHl0nhHMfI) | [Troy Mair](https://open.spotify.com/artist/5veMU6D1o2oIb7fOcg5VAZ) | [Ironic](https://open.spotify.com/album/1jpkk29vPtII4h64qz9WRR) | 2:02 | 2023-05-05 |  |
 | [Isn't She Lovely](https://open.spotify.com/track/7uDZCXwbT3t66G8D5g8aRG) | [Jason Lumen](https://open.spotify.com/artist/071OvtGYQ4tEbj8YMxN0du) | [Isn't She Lovely](https://open.spotify.com/album/0H28qHLOBGRbjTJxT0jwuv) | 2:21 | 2023-03-17 | 2023-05-05 |
 | [Isn't She Lovely](https://open.spotify.com/track/7eI6DqHynamtKvtUWOk1Gn) | [Sonia Campra](https://open.spotify.com/artist/6seSt7No9xstCMTTx9GJy4) | [You Are My Sunshine](https://open.spotify.com/album/5lNeXMPn3aRN72aSTmiYZ8) | 1:54 | 2022-05-20 | 2023-05-05 |
-| [James](https://open.spotify.com/track/5SJVQcy3KMrvth7gnE0ffV) | [John Pizzarelli](https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf) | [Better Days Ahead \(Solo Guitar Takes on Pat Metheny\)](https://open.spotify.com/album/1jpZozggQsFGtU7AcRQKjx) | 4:19 | 2022-05-20 |  |
+| [James](https://open.spotify.com/track/5SJVQcy3KMrvth7gnE0ffV) | [John Pizzarelli](https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf) | [Better Days Ahead \(Solo Guitar Takes on Pat Metheny\)](https://open.spotify.com/album/1jpZozggQsFGtU7AcRQKjx) | 4:19 | 2022-05-20 | 2023-08-11 |
 | [Jealous Guy](https://open.spotify.com/track/3SBrKjO3J5hK33LkFUT5qu) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Jealous Guy](https://open.spotify.com/album/204pbznQh5kpkFiY2vVTe6) | 2:07 | 2023-03-17 |  |
 | [Just Like Heaven](https://open.spotify.com/track/3dXrQxEAeL5c0z8k3cLrtL) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Just Like Heaven](https://open.spotify.com/album/2D36TIiniExKk98Srb2XcS) | 3:24 | 2022-05-20 | 2022-07-29 |
 | [Just Like Heaven \- Guitar Solo](https://open.spotify.com/track/7iQMgK17jJNkaPzSWp1CgF) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Guitar Pop Covers, Vol\. 1](https://open.spotify.com/album/7ijQQwrViFIZWVJKor2NWy) | 3:24 | 2022-07-26 |  |
@@ -205,12 +206,13 @@
 | [The Logical Song](https://open.spotify.com/track/512iMWdhSUeNybYdEIP9bt) | [Alan Jameson](https://open.spotify.com/artist/6Bvte6kob0IxSHFkIK3tZw) | [The Logical Song](https://open.spotify.com/album/2hlyrbussE0P3Ocxzu68vC) | 2:58 | 2023-04-14 |  |
 | [The Long And Winding Road](https://open.spotify.com/track/1zfTxwyJW5k3TWVMk9Wkpn) | [Bart Cohen](https://open.spotify.com/artist/0QBLDqfkyZjtQJPlLeLvQh) | [The Long And Winding Road](https://open.spotify.com/album/7wrh0bTtTYQiqYMrnBQKVZ) | 2:29 | 2023-03-17 | 2023-06-03 |
 | [The Scientist](https://open.spotify.com/track/0G5GJAPyg9f1jEn2BYay1r) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Sweather Weather](https://open.spotify.com/album/2aGfO5upajmF21AQ3RCwoH) | 3:07 | 2022-12-02 | 2023-06-03 |
-| [The Sound of Silence](https://open.spotify.com/track/6LwO9pzd8TTZ5SIUnmG5N9) | [Zion Houston](https://open.spotify.com/artist/3RRD1mgaBFYXz3NFGiuDGj) | [The Sound of Silence](https://open.spotify.com/album/3Fa9MpSoql0TJLTYRuNK9p) | 2:33 | 2022-12-23 |  |
+| [The Sound of Silence](https://open.spotify.com/track/6LwO9pzd8TTZ5SIUnmG5N9) | [Zion Houston](https://open.spotify.com/artist/3RRD1mgaBFYXz3NFGiuDGj) | [The Sound of Silence](https://open.spotify.com/album/3Fa9MpSoql0TJLTYRuNK9p) | 2:33 | 2022-12-23 | 2023-08-11 |
 | [The Times They Are a\-Changin’](https://open.spotify.com/track/3Oj3qgVvYddVbPrNBDEWO3) | [Viktor Kvist](https://open.spotify.com/artist/19oyVUF3vGLiYBLewX6mIT) | [The Times They Are a\-Changin’](https://open.spotify.com/album/7DGRIEOrMEK2ntOLJEQ6US) | 2:22 | 2022-05-20 |  |
 | [Theme From Fame](https://open.spotify.com/track/7cPAikRrGu1nu5vNHFHZda) | [Brett Williams](https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN) | [Theme From Fame](https://open.spotify.com/album/1SL6Hdtc3Qqtev8U8wxl8G) | 3:08 | 2022-12-02 |  |
 | [Theme From Forrest Gump](https://open.spotify.com/track/0XfY944ddsSwaGYWhLcMqu) | [Brett Williams](https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN) | [Theme From Forrest Gump](https://open.spotify.com/album/6b4sxLda1Z6RSiy8GPez36) | 3:05 | 2023-04-14 |  |
 | [Theme From Love Story](https://open.spotify.com/track/69u76zurQjRQHJT3RSqxqA) | [Daniel Murphy](https://open.spotify.com/artist/3U09BkBTECPYMhXsbTuVXD) | [Theme From Love Story](https://open.spotify.com/album/6H2J0nVhDlwffDOzcID19m) | 3:23 | 2022-12-02 | 2023-05-05 |
 | [There Will Never Be Another You](https://open.spotify.com/track/5yNwemxmSZtEXdUNDx9ctJ) | [Falcon Days](https://open.spotify.com/artist/2QNZ83aE2z5wtBlOfgeV9o) | [There Will Never Be Another You](https://open.spotify.com/album/5yaNPvhGLhrxwbHlouegLp) | 2:32 | 2022-12-23 | 2023-06-03 |
+| [Time After Time](https://open.spotify.com/track/65zEpvMz472JlzqnskNhn1) | [Brennan Lynch](https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX) | [Time After Time](https://open.spotify.com/album/23WDOySnRgaPm2bSVL1TQE) | 2:17 | 2023-08-10 |  |
 | [Time After Time](https://open.spotify.com/track/1Papec9BTj4JFjMVYGfL2u) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Time After Time](https://open.spotify.com/album/3Z5CeREn2cKKrrCpyHT5nl) | 3:31 | 2022-05-20 | 2022-07-29 |
 | [Time After Time](https://open.spotify.com/track/6Pm1tdfNQdNuWOG0mDXImu) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Time After Time](https://open.spotify.com/album/11IHpdLzDHfHbwgZCxWyoa) | 3:32 | 2022-09-30 | 2022-11-13 |
 | [Time after Time](https://open.spotify.com/track/7cuNUdSbrrFIiqejH4tbsI) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Guitar Pop Covers, Vol\. 2](https://open.spotify.com/album/3vOxhVB13qQHb2IVv2wq6j) | 3:32 | 2022-07-26 | 2023-06-03 |

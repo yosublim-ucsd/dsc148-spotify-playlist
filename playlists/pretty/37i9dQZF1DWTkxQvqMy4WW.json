@@ -1,12 +1,12 @@
 {
   "description": "Country music to get you back to the basics.",
-  "num_followers": 3297326,
+  "num_followers": 3298251,
   "original_name": "Chillin' on a Dirt Road",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDJkZTQ4NWJmYmY3ODU0MWI3MmYzNWFkNGM5ODNiMjIzNjliYTI0",
+  "snapshot_id": "MCwwNWNkZGVmYjgzZGU0ZTUyMWQ2YzYzNmUyMjgwMWY0ZTNlZDFjNDY3",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "SUBJECT TO CHANGE",
-        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 166035,
-      "name": "IF YOU GO DOWN (I'M GOIN' DOWN TOO)",
-      "url": "https://open.spotify.com/track/1jX9wlAgVkAl0fCZqkCI73"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Poets & Old Souls",
         "url": "https://open.spotify.com/album/19X9Ts9AYIRrqthSTf3qss"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 188482,
       "name": "We Ride",
       "url": "https://open.spotify.com/track/72kGuWpRiuA149Bn5lDkIO"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "SUBJECT TO CHANGE",
+        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 166035,
+      "name": "IF YOU GO DOWN (I'M GOIN' DOWN TOO)",
+      "url": "https://open.spotify.com/track/1jX9wlAgVkAl0fCZqkCI73"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "You Proof",
-        "url": "https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 157477,
-      "name": "You Proof",
-      "url": "https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Old Dominion",
         "url": "https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 186240,
       "name": "One Man Band",
       "url": "https://open.spotify.com/track/7cA3PnUQDlUyBBwpRozQeo"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "You Proof",
+        "url": "https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 157477,
+      "name": "You Proof",
+      "url": "https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Girl In Mine",
-        "url": "https://open.spotify.com/album/6R75pGKkSGEsUArsphBZ9W"
-      },
-      "artists": [
-        {
-          "name": "Parmalee",
-          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
-        }
-      ],
-      "duration_ms": 155120,
-      "name": "Girl In Mine",
-      "url": "https://open.spotify.com/track/2DPqR0kuZVjrOF5oxIRYPy"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Kane Brown (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 179506,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Girl In Mine",
+        "url": "https://open.spotify.com/album/6R75pGKkSGEsUArsphBZ9W"
+      },
+      "artists": [
+        {
+          "name": "Parmalee",
+          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
+        }
+      ],
+      "duration_ms": 155120,
+      "name": "Girl In Mine",
+      "url": "https://open.spotify.com/track/2DPqR0kuZVjrOF5oxIRYPy"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1051,6 +1051,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Kane Brown",
+        "url": "https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+        }
+      ],
+      "duration_ms": 188253,
+      "name": "What Ifs (feat. Lauren Alaina)",
+      "url": "https://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Doin' Somethin' Right",
         "url": "https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5"
       },
@@ -1079,26 +1099,6 @@
       "duration_ms": 165386,
       "name": "Body Like A Back Road",
       "url": "https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Kane Brown",
-        "url": "https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
-          "name": "Lauren Alaina",
-          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
-        }
-      ],
-      "duration_ms": 188253,
-      "name": "What Ifs (feat. Lauren Alaina)",
-      "url": "https://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Love You a Little Bit",
-        "url": "https://open.spotify.com/album/5bWiVnH44bQQ4zeN0ozz5W"
-      },
-      "artists": [
-        {
-          "name": "Tanner Adell",
-          "url": "https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8"
-        }
-      ],
-      "duration_ms": 210813,
-      "name": "Love You a Little Bit",
-      "url": "https://open.spotify.com/track/0isqpzdmr2hsKb50uBSCdo"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Man of the Woods",
         "url": "https://open.spotify.com/album/01l3jTY261V3CESZR4dABz"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 183789,
       "name": "Whiskey On You",
       "url": "https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Love You a Little Bit",
+        "url": "https://open.spotify.com/album/5bWiVnH44bQQ4zeN0ozz5W"
+      },
+      "artists": [
+        {
+          "name": "Tanner Adell",
+          "url": "https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8"
+        }
+      ],
+      "duration_ms": 210813,
+      "name": "Love You a Little Bit",
+      "url": "https://open.spotify.com/track/0isqpzdmr2hsKb50uBSCdo"
     },
     {
       "added_at": "2023-08-04 04:00:00",

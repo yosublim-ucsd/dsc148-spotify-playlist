@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Budjerah
 
-709 songs - 1 day 14 hr 12 min
+710 songs - 1 day 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Girl From WS](https://open.spotify.com/track/09aKCLH5Rdipvuq5Fgw1KI) | [MA RATED](https://open.spotify.com/artist/30rb4ntsbRjqjlPquWtskg) | [Girl From WS](https://open.spotify.com/album/4pCF9RhTvMhvdF2FhVblgV) | 3:01 | 2020-01-10 | 2020-03-25 |
 | [Girlfriend](https://open.spotify.com/track/1UNs8AlFM8c0uAkSyjIW3P) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Girlfriend](https://open.spotify.com/album/7AfbvLhUxPt0qOcXB2GTzY) | 2:57 | 2020-07-01 | 2021-05-12 |
 | [Give Me A Reason](https://open.spotify.com/track/5llS7ND05GQQ9jTOzMjXNO) | [BENNETT](https://open.spotify.com/artist/5kI5USw1eQqhK4h3uebeLk) | [Give Me A Reason](https://open.spotify.com/album/0qxZx6OTqHe1UjXECU4tIi) | 3:24 | 2020-02-11 | 2021-05-12 |
+| [Give You Love \(feat\. Jason Derulo\)](https://open.spotify.com/track/672pbi6q4UuyJYIuThNsq3) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Give You Love \(feat\. Jason Derulo\)](https://open.spotify.com/album/19F2dOW0JWTAuK941khqsA) | 2:54 | 2023-08-10 |  |
 | [Glad He's Gone](https://open.spotify.com/track/6aIAuKNU8JlVaTmoCYYN6U) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Glad He's Gone](https://open.spotify.com/album/4XpTyLPAuao2zSsN6WGR94) | 3:16 | 2019-08-27\* | 2019-11-11 |
 | [Glad You Exist](https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Glad You Exist](https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV) | 2:24 | 2021-02-06 |  |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-10 |  |

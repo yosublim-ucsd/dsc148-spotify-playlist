@@ -1,12 +1,12 @@
 {
   "description": "Compare, prenda el carb\u00f3n y saque la bocina que ya se arm\u00f3 la carnita.",
-  "num_followers": 316737,
+  "num_followers": 317017,
   "original_name": "Carnita Asada Estilo Norte\u00f1o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjUyZTc5MGNlNDBkZWExNzcxODI0YTAwYzhhNmFkMzllN2U5NzQz",
+  "snapshot_id": "MCxmMmRmMjEzMDk4Yjg3ZTE1NTgyNDU2MGQzOWRlODIxOTViYzk4OTlh",
   "tracks": [
     {
       "added_at": "2023-08-08 19:31:07",
@@ -687,18 +687,18 @@
     {
       "added_at": "2023-08-08 19:31:07",
       "album": {
-        "name": "Al Derecho Y Al Reverso",
-        "url": "https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN"
+        "name": "Aqu\u00ed Te Espero",
+        "url": "https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE"
       },
       "artists": [
         {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
         }
       ],
-      "duration_ms": 173586,
-      "name": "Eres Ese Algo",
-      "url": "https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC"
+      "duration_ms": 255373,
+      "name": "Aqu\u00ed Te Espero",
+      "url": "https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6"
     },
     {
       "added_at": "2023-08-08 19:31:07",
@@ -723,18 +723,18 @@
     {
       "added_at": "2023-08-08 19:31:07",
       "album": {
-        "name": "Aqu\u00ed Te Espero",
-        "url": "https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE"
+        "name": "Al Derecho Y Al Reverso",
+        "url": "https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN"
       },
       "artists": [
         {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
         }
       ],
-      "duration_ms": 255373,
-      "name": "Aqu\u00ed Te Espero",
-      "url": "https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6"
+      "duration_ms": 173586,
+      "name": "Eres Ese Algo",
+      "url": "https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC"
     },
     {
       "added_at": "2023-08-08 19:31:07",
@@ -767,6 +767,26 @@
       "duration_ms": 221226,
       "name": "Desvelado",
       "url": "https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw"
+    },
+    {
+      "added_at": "2023-08-08 19:31:07",
+      "album": {
+        "name": "LA 701",
+        "url": "https://open.spotify.com/album/1olJpo7uMM41kxy7MTrBd3"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 164482,
+      "name": "LA 701",
+      "url": "https://open.spotify.com/track/62vhlXTC4rrb13dVUlyYpO"
     },
     {
       "added_at": "2023-08-08 19:31:07",
@@ -815,26 +835,6 @@
       "duration_ms": 167692,
       "name": "No Es Por Ac\u00e1",
       "url": "https://open.spotify.com/track/3bvJftZKZe5QKz433NczyV"
-    },
-    {
-      "added_at": "2023-08-08 19:31:07",
-      "album": {
-        "name": "LA 701",
-        "url": "https://open.spotify.com/album/1olJpo7uMM41kxy7MTrBd3"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 164482,
-      "name": "LA 701",
-      "url": "https://open.spotify.com/track/62vhlXTC4rrb13dVUlyYpO"
     },
     {
       "added_at": "2023-08-08 19:31:07",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-08-08 19:31:07",
       "album": {
+        "name": "T\u00fa",
+        "url": "https://open.spotify.com/album/6goSFfGUhQrxImb5hFvQOc"
+      },
+      "artists": [
+        {
+          "name": "Los Elegantes de Jerez",
+          "url": "https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav"
+        }
+      ],
+      "duration_ms": 194266,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/5GkeaIeCEfB0LOqk7sIVHQ"
+    },
+    {
+      "added_at": "2023-08-08 19:31:07",
+      "album": {
         "name": "Libre Por Naturaleza",
         "url": "https://open.spotify.com/album/2XsiX1tRabcnYmJatmnsSK"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 156379,
       "name": "Te Perdonar\u00eda",
       "url": "https://open.spotify.com/track/0fOcoVDRswPO5bIviynzvJ"
-    },
-    {
-      "added_at": "2023-08-08 19:31:07",
-      "album": {
-        "name": "T\u00fa",
-        "url": "https://open.spotify.com/album/6goSFfGUhQrxImb5hFvQOc"
-      },
-      "artists": [
-        {
-          "name": "Los Elegantes de Jerez",
-          "url": "https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav"
-        }
-      ],
-      "duration_ms": 194266,
-      "name": "T\u00fa",
-      "url": "https://open.spotify.com/track/5GkeaIeCEfB0LOqk7sIVHQ"
     },
     {
       "added_at": "2023-08-08 19:31:07",
@@ -1223,6 +1223,46 @@
     {
       "added_at": "2023-08-08 19:31:07",
       "album": {
+        "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 166570,
+      "name": "EN ALTAVOZ",
+      "url": "https://open.spotify.com/track/6L2wWlVVD6R2bczNdnSqKr"
+    },
+    {
+      "added_at": "2023-08-08 19:31:07",
+      "album": {
+        "name": "El Patrocinador",
+        "url": "https://open.spotify.com/album/1FaB00fCiDbBoK7xtaQHne"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 206960,
+      "name": "El Patrocinador",
+      "url": "https://open.spotify.com/track/7IPvreDoOx2OkR3Qu1G9aS"
+    },
+    {
+      "added_at": "2023-08-08 19:31:07",
+      "album": {
         "name": "Ens\u00e9\u00f1ame",
         "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
       },
@@ -1311,26 +1351,6 @@
     {
       "added_at": "2023-08-08 19:31:07",
       "album": {
-        "name": "El Comienzo",
-        "url": "https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 166570,
-      "name": "EN ALTAVOZ",
-      "url": "https://open.spotify.com/track/6L2wWlVVD6R2bczNdnSqKr"
-    },
-    {
-      "added_at": "2023-08-08 19:31:07",
-      "album": {
         "name": "El Trabajo Es La Suerte",
         "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
       },
@@ -1379,26 +1399,6 @@
     {
       "added_at": "2023-08-08 19:31:07",
       "album": {
-        "name": "El Patrocinador",
-        "url": "https://open.spotify.com/album/1FaB00fCiDbBoK7xtaQHne"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 206960,
-      "name": "El Patrocinador",
-      "url": "https://open.spotify.com/track/7IPvreDoOx2OkR3Qu1G9aS"
-    },
-    {
-      "added_at": "2023-08-08 19:31:07",
-      "album": {
         "name": "Corridos B\u00e9licos, Vol. 2",
         "url": "https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS"
       },
@@ -1411,6 +1411,26 @@
       "duration_ms": 174863,
       "name": "Me Met\u00ed En El Ruedo",
       "url": "https://open.spotify.com/track/7KNSQcLwrl3bNEuV1OVHtv"
+    },
+    {
+      "added_at": "2023-08-08 19:31:07",
+      "album": {
+        "name": "Loco Enamorado",
+        "url": "https://open.spotify.com/album/506DULSIp4Bs7qDdUWpq0N"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Loco Enamorado",
+      "url": "https://open.spotify.com/track/0V6NB0qBW7Vvm7RuSoHszG"
     },
     {
       "added_at": "2023-08-08 19:31:07",
@@ -1531,26 +1551,6 @@
     {
       "added_at": "2023-08-08 19:31:07",
       "album": {
-        "name": "Loco Enamorado",
-        "url": "https://open.spotify.com/album/506DULSIp4Bs7qDdUWpq0N"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Loco Enamorado",
-      "url": "https://open.spotify.com/track/0V6NB0qBW7Vvm7RuSoHszG"
-    },
-    {
-      "added_at": "2023-08-08 19:31:07",
-      "album": {
         "name": "Nieves de Enero",
         "url": "https://open.spotify.com/album/69CnGWLFrxlYAl5ku4q5XV"
       },
@@ -1603,22 +1603,18 @@
     {
       "added_at": "2023-08-08 19:31:07",
       "album": {
-        "name": "Haciendo Magia",
-        "url": "https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy"
+        "name": "Situaciones",
+        "url": "https://open.spotify.com/album/5XvNbyN3sB7nEdhw43CPmM"
       },
       "artists": [
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+          "name": "Palomo",
+          "url": "https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj"
         }
       ],
-      "duration_ms": 155818,
-      "name": "Y Sigues Siendo T\u00fa",
-      "url": "https://open.spotify.com/track/4AGPU9325LRTIBsBSJ5v75"
+      "duration_ms": 233706,
+      "name": "De Uno y De Todos Los Modos - Version Bolero",
+      "url": "https://open.spotify.com/track/6DkNnb8nBR1uuqaSVWQgfm"
     },
     {
       "added_at": "2023-08-08 19:31:07",
@@ -1643,18 +1639,22 @@
     {
       "added_at": "2023-08-08 19:31:07",
       "album": {
-        "name": "Situaciones",
-        "url": "https://open.spotify.com/album/5XvNbyN3sB7nEdhw43CPmM"
+        "name": "Haciendo Magia",
+        "url": "https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy"
       },
       "artists": [
         {
-          "name": "Palomo",
-          "url": "https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 233706,
-      "name": "De Uno y De Todos Los Modos - Version Bolero",
-      "url": "https://open.spotify.com/track/6DkNnb8nBR1uuqaSVWQgfm"
+      "duration_ms": 155818,
+      "name": "Y Sigues Siendo T\u00fa",
+      "url": "https://open.spotify.com/track/4AGPU9325LRTIBsBSJ5v75"
     },
     {
       "added_at": "2023-08-08 19:31:07",
@@ -1871,6 +1871,22 @@
     {
       "added_at": "2023-08-08 19:31:07",
       "album": {
+        "name": "Todo tuyo",
+        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        }
+      ],
+      "duration_ms": 235906,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
+    },
+    {
+      "added_at": "2023-08-08 19:31:07",
+      "album": {
         "name": "Nadie Va A Pensar En Ti Mejor Que Yo",
         "url": "https://open.spotify.com/album/1NsJ6u8jcjsyZi9igmkbqw"
       },
@@ -1883,6 +1899,22 @@
       "duration_ms": 172018,
       "name": "Nadie Va A Pensar En Ti Mejor Que Yo",
       "url": "https://open.spotify.com/track/30eHHpkjMNqb2F0V8nXjbJ"
+    },
+    {
+      "added_at": "2023-08-08 19:31:07",
+      "album": {
+        "name": "Somos Arrieros",
+        "url": "https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 156792,
+      "name": "Vida Ventajosa",
+      "url": "https://open.spotify.com/track/72kaj3MRKcGnv2dbukJQRA"
     },
     {
       "added_at": "2023-08-08 19:31:07",
@@ -1903,38 +1935,6 @@
       "duration_ms": 152776,
       "name": "Borracho Enamorado",
       "url": "https://open.spotify.com/track/6VcVBZ2b43kiDO6rQxmsYO"
-    },
-    {
-      "added_at": "2023-08-08 19:31:07",
-      "album": {
-        "name": "Todo tuyo",
-        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        }
-      ],
-      "duration_ms": 235906,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
-    },
-    {
-      "added_at": "2023-08-08 19:31:07",
-      "album": {
-        "name": "Somos Arrieros",
-        "url": "https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 156792,
-      "name": "Vida Ventajosa",
-      "url": "https://open.spotify.com/track/72kaj3MRKcGnv2dbukJQRA"
     },
     {
       "added_at": "2023-08-08 19:31:07",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2023-08-08 19:31:07",
       "album": {
-        "name": "Necesito M\u00e1s De Ti",
-        "url": "https://open.spotify.com/album/2nRHIdZqsgd9ONSzrTKsf9"
-      },
-      "artists": [
-        {
-          "name": "Duelo",
-          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
-        }
-      ],
-      "duration_ms": 183653,
-      "name": "Sentimientos De Cart\u00f3n",
-      "url": "https://open.spotify.com/track/7ctLV5QnYVq3V89EK3XNsa"
-    },
-    {
-      "added_at": "2023-08-08 19:31:07",
-      "album": {
         "name": "Se Acabo (En Vivo)",
         "url": "https://open.spotify.com/album/24fixrB7tstEtjF9NlbnIR"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 230000,
       "name": "Se Acabo - En Vivo",
       "url": "https://open.spotify.com/track/0lyZyn18awzOJuVM7qzCmd"
+    },
+    {
+      "added_at": "2023-08-08 19:31:07",
+      "album": {
+        "name": "Necesito M\u00e1s De Ti",
+        "url": "https://open.spotify.com/album/2nRHIdZqsgd9ONSzrTKsf9"
+      },
+      "artists": [
+        {
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+        }
+      ],
+      "duration_ms": 183653,
+      "name": "Sentimientos De Cart\u00f3n",
+      "url": "https://open.spotify.com/track/7ctLV5QnYVq3V89EK3XNsa"
     },
     {
       "added_at": "2023-08-08 19:31:07",
@@ -2363,22 +2363,6 @@
     {
       "added_at": "2023-08-08 19:31:07",
       "album": {
-        "name": "Si Me Duele Que Duela",
-        "url": "https://open.spotify.com/album/4ZjtIz7v275wgCGtIuSRiY"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 171367,
-      "name": "Si Me Duele Que Duela",
-      "url": "https://open.spotify.com/track/5E74WZEkf6mKyzoQPzPzWO"
-    },
-    {
-      "added_at": "2023-08-08 19:31:07",
-      "album": {
         "name": "El Borracho",
         "url": "https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta"
       },
@@ -2391,6 +2375,22 @@
       "duration_ms": 184199,
       "name": "El Borracho",
       "url": "https://open.spotify.com/track/5rHezo2wXys6LNAKLrghMG"
+    },
+    {
+      "added_at": "2023-08-08 19:31:07",
+      "album": {
+        "name": "Si Me Duele Que Duela",
+        "url": "https://open.spotify.com/album/4ZjtIz7v275wgCGtIuSRiY"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 171367,
+      "name": "Si Me Duele Que Duela",
+      "url": "https://open.spotify.com/track/5E74WZEkf6mKyzoQPzPzWO"
     },
     {
       "added_at": "2023-08-08 19:31:07",

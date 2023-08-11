@@ -2,22 +2,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 
 ### [Hot Hits Ghana](https://open.spotify.com/playlist/37i9dQZF1DWSHg3zCMrBDf)
 
-> The hottest tracks in Ghana\. Cover: <a href="https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8?si=4ZJhAtbIRrG2s6c9hZLXDg">Sarkodie</a>
+> The hottest tracks in Ghana\. Cover: <a href="https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=jXNWckaQRSmpHG2OxBB\_5Q">Black Sherif </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,989 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,053 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Terminator](https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Terminator](https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ) | 3:54 |
 | 2 | [GoodSin](https://open.spotify.com/track/5tlvXfI4aqoSh0oRghr7UT) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana](https://open.spotify.com/album/3axpLgzTEbftwwMXdYX3TK) | 2:20 |
 | 3 | [Butta My Bread](https://open.spotify.com/track/3aJF7HsFOwuUAFOaRMQCxR) | [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Butta My Bread](https://open.spotify.com/album/3WlxlO16ydHEisWjriRpHk) | 2:28 |
-| 4 | [Body & Soul](https://open.spotify.com/track/2AaZJAh9FifPCQdba87Hzr) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body & Soul](https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW) | 2:34 |
-| 5 | [Carry Me Go](https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Carry Me Go](https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do) | 2:16 |
-| 6 | [Likor \(feat\. Stonebwoy\)](https://open.spotify.com/track/0x7K0Gxgm4rNPB5Kx12Bvn) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Likor \(feat\. Stonebwoy\)](https://open.spotify.com/album/7DgfJZxWTpXnUNif7nmgnW) | 2:44 |
-| 7 | [Into The Future](https://open.spotify.com/track/6zF39FfmenMgLFBuzc7Qi1) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [5th Dimension](https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb) | 2:30 |
-| 8 | [Oh Ma Linda](https://open.spotify.com/track/28aDl6G202ZZeynzYIZRDb) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Most High](https://open.spotify.com/album/505XBFuhnlK4GBsGq7old5) | 2:56 |
-| 9 | [Party No Dey Stop](https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Party No Dey Stop](https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq) | 2:48 |
-| 10 | [Big 7](https://open.spotify.com/track/1OgoyOlrMJFqjE1eqQiCUc) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Big 7](https://open.spotify.com/album/75AHV3X6Pcy1aHJZabAwib) | 2:23 |
+| 4 | [YAYA](https://open.spotify.com/track/0xAwmnpzW0AOF6Dzk6UZXP) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Take Care of Yourself Blacko](https://open.spotify.com/album/1rUsK77wSF6p2cw1FnCTZg) | 3:13 |
+| 5 | [Body & Soul](https://open.spotify.com/track/2AaZJAh9FifPCQdba87Hzr) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body & Soul](https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW) | 2:34 |
+| 6 | [Carry Me Go](https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Carry Me Go](https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do) | 2:16 |
+| 7 | [Likor \(feat\. Stonebwoy\)](https://open.spotify.com/track/0x7K0Gxgm4rNPB5Kx12Bvn) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Likor \(feat\. Stonebwoy\)](https://open.spotify.com/album/7DgfJZxWTpXnUNif7nmgnW) | 2:44 |
+| 8 | [Into The Future](https://open.spotify.com/track/6zF39FfmenMgLFBuzc7Qi1) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [5th Dimension](https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb) | 2:30 |
+| 9 | [Oh Ma Linda](https://open.spotify.com/track/28aDl6G202ZZeynzYIZRDb) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Most High](https://open.spotify.com/album/505XBFuhnlK4GBsGq7old5) | 2:56 |
+| 10 | [Party No Dey Stop](https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Party No Dey Stop](https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq) | 2:48 |
 | 11 | [soso](https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 3:03 |
 | 12 | [Freaky & Naughty](https://open.spotify.com/track/3pegFML6cZ9rgDuvLHm7Wj) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Freaky & Naughty](https://open.spotify.com/album/4vjPY3edDk05mtDoQO41oo) | 2:46 |
 | 13 | [Xtra Cool](https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Xtra Cool](https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 | 49 | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A) | 3:43 |
 | 50 | [Duffel Bag](https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Duffel Bag](https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0) | 2:07 |
 
-Snapshot ID: `MCw1YWZjYjlmNTA0ZGJkY2U0MmZjMWVkN2Y0NmI0ZmM2MDljMTM0NjQ5`
+Snapshot ID: `MCw3MThiYmRhYTgzNTYyN2VhODk1MDUzODA3MzJlZThhODVkZDY3OTUy`

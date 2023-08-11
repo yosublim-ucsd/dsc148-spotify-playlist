@@ -2334,7 +2334,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 181880,
       "name": "mein Bestes",
       "url": "https://open.spotify.com/track/1jZRoK2NYNfJ714ZCUejZQ"
@@ -2619,6 +2619,24 @@
     },
     {
       "album": {
+        "name": "The Good Life",
+        "url": "https://open.spotify.com/album/4zDORUOtdnZm1x4IhgMtAD"
+      },
+      "artists": [
+        {
+          "name": "My Ugly Clementine",
+          "url": "https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216790,
+      "name": "No",
+      "url": "https://open.spotify.com/track/7bg9faMjJDmN8VKC9gss9x"
+    },
+    {
+      "album": {
         "name": "No Future? No Thanks!",
         "url": "https://open.spotify.com/album/0p0ZCH8pVZBM0BlcgHJRpv"
       },
@@ -2812,6 +2830,24 @@
       "duration_ms": 137647,
       "name": "Party Sahne",
       "url": "https://open.spotify.com/track/47gFO4wiq9rLJo9vz0DP3q"
+    },
+    {
+      "album": {
+        "name": "Paula",
+        "url": "https://open.spotify.com/album/751dH1KYjFvLpraxTQ64nS"
+      },
+      "artists": [
+        {
+          "name": "Wilhelmine",
+          "url": "https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196721,
+      "name": "Paula",
+      "url": "https://open.spotify.com/track/5WgCx3Lcq48Vj2kJUYmK8I"
     },
     {
       "album": {
@@ -3859,6 +3895,24 @@
     },
     {
       "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/1gr2ElW62Qg00AybMlJdw0"
+      },
+      "artists": [
+        {
+          "name": "Keir",
+          "url": "https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169598,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/31jjzf6a02K6vzE3jvzDer"
+    },
+    {
+      "album": {
         "name": "Voices in the night",
         "url": "https://open.spotify.com/album/2wkJZs5zCPt0PCK7qpowd2"
       },
@@ -3870,7 +3924,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 174818,
       "name": "Voices in the night",
       "url": "https://open.spotify.com/track/2YjKf6uFXGiJMJPpjnAFOd"
@@ -4094,7 +4148,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 186363,
       "name": "Would Do It Again",
       "url": "https://open.spotify.com/track/4DJyKfX1ImzBnINTXUzKkQ"

@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 44433,
+  "num_followers": 44476,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWUzZDdlNzllNTcwYjdhNmZjZDI3OWY4YTY3MTJjNmZhNmE5ZDRh",
+  "snapshot_id": "MCw0MWU4MDFmMjM0NDJlMmE4OTk0MmYyNzM5Zjk5ZjQ5YWRhZjQwYTFm",
   "tracks": [
     {
       "added_at": "2023-06-30 00:01:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Singing In My Soul",
-        "url": "https://open.spotify.com/album/4Si6lSCmJNqUil1buKI4zw"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 224840,
-      "name": "I Shall Know Him",
-      "url": "https://open.spotify.com/track/5sk8dIBrmEJc2YY4lW2LHT"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "Live At The Regal",
         "url": "https://open.spotify.com/album/7njGz7ZeDXL6cH3VnflcQ2"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 158333,
       "name": "Help The Poor",
       "url": "https://open.spotify.com/track/5qcrexsUJ4AYyxw7zn3YKi"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Singing In My Soul",
+        "url": "https://open.spotify.com/album/4Si6lSCmJNqUil1buKI4zw"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 224840,
+      "name": "I Shall Know Him",
+      "url": "https://open.spotify.com/track/5sk8dIBrmEJc2YY4lW2LHT"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Muddy Waters Sings Big Bill Broonzy",
-        "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 183120,
-      "name": "Lonesome Road Blues",
-      "url": "https://open.spotify.com/track/1lp1zm1MSYzwt3vAPhdIMQ"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "Nothing But the Blues (Live)",
         "url": "https://open.spotify.com/album/5PGQW0n8n0JDxmpPkAgwIc"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 430106,
       "name": "Groaning the Blues - Live at the Fillmore, San Francisco, 1994",
       "url": "https://open.spotify.com/track/0cczXxFrHRdrAOymBxEmmF"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Muddy Waters Sings Big Bill Broonzy",
+        "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 183120,
+      "name": "Lonesome Road Blues",
+      "url": "https://open.spotify.com/track/1lp1zm1MSYzwt3vAPhdIMQ"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Next Time You See Me",
-        "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
-      },
-      "artists": [
-        {
-          "name": "Junior Parker",
-          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
-        }
-      ],
-      "duration_ms": 156040,
-      "name": "I Need Love So Bad",
-      "url": "https://open.spotify.com/track/33XNrhJHyTEl38KwTZV0QV"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "Ride",
         "url": "https://open.spotify.com/album/2HVpYOgAdiEYK3yEUkBcDI"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 350520,
       "name": "Waiting For The Dawn",
       "url": "https://open.spotify.com/track/5zi2iVnuW5PEpALVgCypi3"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Next Time You See Me",
+        "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
+      },
+      "artists": [
+        {
+          "name": "Junior Parker",
+          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
+        }
+      ],
+      "duration_ms": 156040,
+      "name": "I Need Love So Bad",
+      "url": "https://open.spotify.com/track/33XNrhJHyTEl38KwTZV0QV"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Roll and Tumble",
-        "url": "https://open.spotify.com/album/7riyFPxbaqIj4h2x9jNzTW"
-      },
-      "artists": [
-        {
-          "name": "R.L. Boyce",
-          "url": "https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2"
-        }
-      ],
-      "duration_ms": 205182,
-      "name": "Sometimes I Worry",
-      "url": "https://open.spotify.com/track/7Aor3Qdz0u8WEqFyCVdiHg"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "Right Kinda Wrong",
         "url": "https://open.spotify.com/album/4lWlaDuS0L3q2qw5TMm81J"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 228746,
       "name": "Love & Gravity",
       "url": "https://open.spotify.com/track/5YU3qtXOLff4lm01iLplgR"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Roll and Tumble",
+        "url": "https://open.spotify.com/album/7riyFPxbaqIj4h2x9jNzTW"
+      },
+      "artists": [
+        {
+          "name": "R.L. Boyce",
+          "url": "https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2"
+        }
+      ],
+      "duration_ms": 205182,
+      "name": "Sometimes I Worry",
+      "url": "https://open.spotify.com/track/7Aor3Qdz0u8WEqFyCVdiHg"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Just The Big Three Trio",
-        "url": "https://open.spotify.com/album/7f1fwQkkUFI7nNeKLEINED"
-      },
-      "artists": [
-        {
-          "name": "The Big Three Trio",
-          "url": "https://open.spotify.com/artist/7EPI9RLrU6kU6ZQLTqB7wY"
-        }
-      ],
-      "duration_ms": 180906,
-      "name": "Since My Baby Gone",
-      "url": "https://open.spotify.com/track/3usW1XSJR0B6t14znEAGJ9"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "Motel Mississippi",
         "url": "https://open.spotify.com/album/3DKmYrQ64bb7NNJd6rZHKx"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 251853,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/7M5GPKEGz1xURn79mqyc34"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Just The Big Three Trio",
+        "url": "https://open.spotify.com/album/7f1fwQkkUFI7nNeKLEINED"
+      },
+      "artists": [
+        {
+          "name": "The Big Three Trio",
+          "url": "https://open.spotify.com/artist/7EPI9RLrU6kU6ZQLTqB7wY"
+        }
+      ],
+      "duration_ms": 180906,
+      "name": "Since My Baby Gone",
+      "url": "https://open.spotify.com/track/3usW1XSJR0B6t14znEAGJ9"
     },
     {
       "added_at": "2023-06-30 00:01:00",

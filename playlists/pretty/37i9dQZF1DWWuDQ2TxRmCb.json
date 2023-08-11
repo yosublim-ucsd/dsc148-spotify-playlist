@@ -1,13 +1,33 @@
 {
   "description": "Best of the modern folk artists! Cover- Indian Ocean\n",
-  "num_followers": 64076,
+  "num_followers": 64123,
   "original_name": "Folk in India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODFlMTNhMDViZTVmZWI1ZjFjMjRhM2E1MjMxNjkzYWM3ZTY1NWEz",
+  "snapshot_id": "MCxkNjRlZmMxNDNiZTQ1ZGEyZTdhNzNhMWUwYjVlNzcxNDNkMjg2NjEy",
   "tracks": [
+    {
+      "added_at": "2023-07-28 05:48:40",
+      "album": {
+        "name": "Moti Veraana (From Songs of Faith)",
+        "url": "https://open.spotify.com/album/0nRRqy5mEGsEudNBHfCXvu"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Osman Mir",
+          "url": "https://open.spotify.com/artist/20w1cujlzVI3LA0dItmMg1"
+        }
+      ],
+      "duration_ms": 256399,
+      "name": "Moti Veraana (From Songs of Faith)",
+      "url": "https://open.spotify.com/track/6qhTVtHIsK8WVf7biagk7O"
+    },
     {
       "added_at": "2023-07-28 05:48:40",
       "album": {
@@ -23,38 +43,6 @@
       "duration_ms": 215632,
       "name": "Latthay Di Chaadar",
       "url": "https://open.spotify.com/track/0QOJABRwcIx5WfzILs47eJ"
-    },
-    {
-      "added_at": "2023-07-28 05:48:40",
-      "album": {
-        "name": "Ae Re Sakhi",
-        "url": "https://open.spotify.com/album/29kxXKLyYDcl0vJvnSLvcI"
-      },
-      "artists": [
-        {
-          "name": "Namita Choudhary",
-          "url": "https://open.spotify.com/artist/3OzUySgSF8QxZScB0RxDCB"
-        }
-      ],
-      "duration_ms": 222123,
-      "name": "Ae Re Sakhi",
-      "url": "https://open.spotify.com/track/7h5jBU18CqXNhDUKRr6y7h"
-    },
-    {
-      "added_at": "2023-07-28 05:48:40",
-      "album": {
-        "name": "Tu Hai",
-        "url": "https://open.spotify.com/album/79RksAuwCLYQdhFnk2HpT6"
-      },
-      "artists": [
-        {
-          "name": "Indian Ocean",
-          "url": "https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy"
-        }
-      ],
-      "duration_ms": 552000,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/4hwKgB4bjYFQ53u1nnTKbJ"
     },
     {
       "added_at": "2023-07-28 05:48:40",
@@ -99,50 +87,6 @@
     {
       "added_at": "2023-07-28 05:48:40",
       "album": {
-        "name": "Mehndi Te Vavi",
-        "url": "https://open.spotify.com/album/5fxKel0n6EsDMfuIkeaw0W"
-      },
-      "artists": [
-        {
-          "name": "Lost Stories",
-          "url": "https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi"
-        },
-        {
-          "name": "Jonita Gandhi",
-          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
-        }
-      ],
-      "duration_ms": 149433,
-      "name": "Mehndi Te Vavi",
-      "url": "https://open.spotify.com/track/1yBbcWXOsl2tCcNg2prkEh"
-    },
-    {
-      "added_at": "2023-07-28 05:48:40",
-      "album": {
-        "name": "Samjhe Na",
-        "url": "https://open.spotify.com/album/16EtpQZlUPuwFN1FC5bGeq"
-      },
-      "artists": [
-        {
-          "name": "Amit Trivedi",
-          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
-        },
-        {
-          "name": "Mame Khan",
-          "url": "https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD"
-        },
-        {
-          "name": "Ruchika Chauhan",
-          "url": "https://open.spotify.com/artist/3k3paMystfZe21Vjgj8bo1"
-        }
-      ],
-      "duration_ms": 197277,
-      "name": "Samjhe Na",
-      "url": "https://open.spotify.com/track/24tI4KfHROiG1cZNPerXWo"
-    },
-    {
-      "added_at": "2023-07-28 05:48:40",
-      "album": {
         "name": "Ram Setu",
         "url": "https://open.spotify.com/album/0SW0gTZGHVkOQI0goJ6sFw"
       },
@@ -155,6 +99,22 @@
       "duration_ms": 309019,
       "name": "Ram Darshan",
       "url": "https://open.spotify.com/track/14zTx6i2o5bB5Re8pS2BMd"
+    },
+    {
+      "added_at": "2023-08-10 07:23:00",
+      "album": {
+        "name": "Aaj Rang Hai",
+        "url": "https://open.spotify.com/album/1BSSoO2kKSgWCUpXuM34tC"
+      },
+      "artists": [
+        {
+          "name": "Aanchal Shrivastava",
+          "url": "https://open.spotify.com/artist/5jQ7dwP6Bg20NgOKozwTI4"
+        }
+      ],
+      "duration_ms": 142250,
+      "name": "Aaj Rang Hai",
+      "url": "https://open.spotify.com/track/2T02TsMZTTEVJeuSwCyD1w"
     },
     {
       "added_at": "2023-07-28 05:48:40",
@@ -175,6 +135,22 @@
       "duration_ms": 287573,
       "name": "Nasha (Equals Sessions)",
       "url": "https://open.spotify.com/track/1rDjwexewf4hrdZT7SRNsH"
+    },
+    {
+      "added_at": "2023-07-28 05:48:40",
+      "album": {
+        "name": "Ae Re Sakhi",
+        "url": "https://open.spotify.com/album/29kxXKLyYDcl0vJvnSLvcI"
+      },
+      "artists": [
+        {
+          "name": "Namita Choudhary",
+          "url": "https://open.spotify.com/artist/3OzUySgSF8QxZScB0RxDCB"
+        }
+      ],
+      "duration_ms": 222123,
+      "name": "Ae Re Sakhi",
+      "url": "https://open.spotify.com/track/7h5jBU18CqXNhDUKRr6y7h"
     },
     {
       "added_at": "2023-07-28 05:48:40",
@@ -207,6 +183,30 @@
       "duration_ms": 238293,
       "name": "Dilruba",
       "url": "https://open.spotify.com/track/3wOKU4CW3SYQkroOkDaYKD"
+    },
+    {
+      "added_at": "2023-07-28 05:48:40",
+      "album": {
+        "name": "Samjhe Na",
+        "url": "https://open.spotify.com/album/16EtpQZlUPuwFN1FC5bGeq"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Mame Khan",
+          "url": "https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD"
+        },
+        {
+          "name": "Ruchika Chauhan",
+          "url": "https://open.spotify.com/artist/3k3paMystfZe21Vjgj8bo1"
+        }
+      ],
+      "duration_ms": 197277,
+      "name": "Samjhe Na",
+      "url": "https://open.spotify.com/track/24tI4KfHROiG1cZNPerXWo"
     },
     {
       "added_at": "2023-07-28 05:48:40",
@@ -247,22 +247,22 @@
     {
       "added_at": "2023-07-28 05:48:40",
       "album": {
-        "name": "Moti Veraana (From Songs of Faith)",
-        "url": "https://open.spotify.com/album/0nRRqy5mEGsEudNBHfCXvu"
+        "name": "Mehndi Te Vavi",
+        "url": "https://open.spotify.com/album/5fxKel0n6EsDMfuIkeaw0W"
       },
       "artists": [
         {
-          "name": "Amit Trivedi",
-          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+          "name": "Lost Stories",
+          "url": "https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi"
         },
         {
-          "name": "Osman Mir",
-          "url": "https://open.spotify.com/artist/20w1cujlzVI3LA0dItmMg1"
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
         }
       ],
-      "duration_ms": 256399,
-      "name": "Moti Veraana (From Songs of Faith)",
-      "url": "https://open.spotify.com/track/6qhTVtHIsK8WVf7biagk7O"
+      "duration_ms": 149433,
+      "name": "Mehndi Te Vavi",
+      "url": "https://open.spotify.com/track/1yBbcWXOsl2tCcNg2prkEh"
     },
     {
       "added_at": "2023-07-28 05:48:40",
@@ -351,6 +351,30 @@
     {
       "added_at": "2023-07-28 05:48:40",
       "album": {
+        "name": "Radhe (From Songs of Faith)",
+        "url": "https://open.spotify.com/album/4RmvdP8tqFsP5cfNXg7mxY"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Neeraj Arya",
+          "url": "https://open.spotify.com/artist/20QVF5WX7muxbyI8JqyRqo"
+        },
+        {
+          "name": "Arunima Bhattacharya",
+          "url": "https://open.spotify.com/artist/3xtandCKqKYKlwl8LQJzm3"
+        }
+      ],
+      "duration_ms": 218307,
+      "name": "Radhe (From Songs of Faith)",
+      "url": "https://open.spotify.com/track/3H1vNEDvVDLEqzLbubsrpL"
+    },
+    {
+      "added_at": "2023-07-28 05:48:40",
+      "album": {
         "name": "Chhaap Tilak",
         "url": "https://open.spotify.com/album/4PxJFikJLP5xm6P2WyWkml"
       },
@@ -395,6 +419,22 @@
     {
       "added_at": "2023-07-28 05:48:40",
       "album": {
+        "name": "Tu Hai",
+        "url": "https://open.spotify.com/album/79RksAuwCLYQdhFnk2HpT6"
+      },
+      "artists": [
+        {
+          "name": "Indian Ocean",
+          "url": "https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy"
+        }
+      ],
+      "duration_ms": 552000,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/4hwKgB4bjYFQ53u1nnTKbJ"
+    },
+    {
+      "added_at": "2023-07-28 05:48:40",
+      "album": {
         "name": "Agnee",
         "url": "https://open.spotify.com/album/4zE9JWKkoH2ezquD54Kwn9"
       },
@@ -407,30 +447,6 @@
       "duration_ms": 251560,
       "name": "Sadho Re",
       "url": "https://open.spotify.com/track/2FSVKGUjxl1b805NESHmOq"
-    },
-    {
-      "added_at": "2023-07-28 05:48:40",
-      "album": {
-        "name": "Radhe (From Songs of Faith)",
-        "url": "https://open.spotify.com/album/4RmvdP8tqFsP5cfNXg7mxY"
-      },
-      "artists": [
-        {
-          "name": "Amit Trivedi",
-          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
-        },
-        {
-          "name": "Neeraj Arya",
-          "url": "https://open.spotify.com/artist/20QVF5WX7muxbyI8JqyRqo"
-        },
-        {
-          "name": "Arunima Bhattacharya",
-          "url": "https://open.spotify.com/artist/3xtandCKqKYKlwl8LQJzm3"
-        }
-      ],
-      "duration_ms": 218307,
-      "name": "Radhe (From Songs of Faith)",
-      "url": "https://open.spotify.com/track/3H1vNEDvVDLEqzLbubsrpL"
     },
     {
       "added_at": "2023-07-28 05:48:40",
@@ -499,26 +515,6 @@
     {
       "added_at": "2023-07-28 05:48:40",
       "album": {
-        "name": "Karam (Equals Sessions) - Single",
-        "url": "https://open.spotify.com/album/6ZeOlXxvWRq3h0inux1YPQ"
-      },
-      "artists": [
-        {
-          "name": "Rangle Sardar",
-          "url": "https://open.spotify.com/artist/3nD9WdGngkUd6WEk1zsZy8"
-        },
-        {
-          "name": "When Chai Met Toast",
-          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
-        }
-      ],
-      "duration_ms": 259500,
-      "name": "Karam (Equals Sessions)",
-      "url": "https://open.spotify.com/track/5zWA0flBrTC3VmhjcJ2MZG"
-    },
-    {
-      "added_at": "2023-07-28 05:48:40",
-      "album": {
         "name": "Saawariyo",
         "url": "https://open.spotify.com/album/3pFlse7FnOVb61rSHrokfB"
       },
@@ -535,6 +531,26 @@
       "duration_ms": 265124,
       "name": "Saawariyo",
       "url": "https://open.spotify.com/track/0c1gm3EA6JkvxcEKr4XEoV"
+    },
+    {
+      "added_at": "2023-07-28 05:48:40",
+      "album": {
+        "name": "Karam (Equals Sessions) - Single",
+        "url": "https://open.spotify.com/album/6ZeOlXxvWRq3h0inux1YPQ"
+      },
+      "artists": [
+        {
+          "name": "Rangle Sardar",
+          "url": "https://open.spotify.com/artist/3nD9WdGngkUd6WEk1zsZy8"
+        },
+        {
+          "name": "When Chai Met Toast",
+          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
+        }
+      ],
+      "duration_ms": 259500,
+      "name": "Karam (Equals Sessions)",
+      "url": "https://open.spotify.com/track/5zWA0flBrTC3VmhjcJ2MZG"
     },
     {
       "added_at": "2023-07-28 05:48:40",
@@ -771,30 +787,6 @@
     {
       "added_at": "2023-07-28 05:48:40",
       "album": {
-        "name": "Mahadeva",
-        "url": "https://open.spotify.com/album/6f9GkFAcMf5wiAOmo1fM2f"
-      },
-      "artists": [
-        {
-          "name": "Nyasa",
-          "url": "https://open.spotify.com/artist/4aUL9eVquuxmpw9zvSWkQM"
-        },
-        {
-          "name": "Gaurav Chati",
-          "url": "https://open.spotify.com/artist/0RRBo2Xi8WkbBkIXwqHmBP"
-        },
-        {
-          "name": "Rstarjazz",
-          "url": "https://open.spotify.com/artist/6Ugqf9crKc2BMTqt0PIrg7"
-        }
-      ],
-      "duration_ms": 210909,
-      "name": "Mahadeva",
-      "url": "https://open.spotify.com/track/0GxjgX5PeDnB2QOygT1Zo1"
-    },
-    {
-      "added_at": "2023-07-28 05:48:40",
-      "album": {
         "name": "Purvayi",
         "url": "https://open.spotify.com/album/1O5bf4Rfj1Yhz2tq6lPmAp"
       },
@@ -831,6 +823,30 @@
       "duration_ms": 255630,
       "name": "Muraliya",
       "url": "https://open.spotify.com/track/66INq9JZJp9MsX05WXGqIN"
+    },
+    {
+      "added_at": "2023-07-28 05:48:40",
+      "album": {
+        "name": "Mahadeva",
+        "url": "https://open.spotify.com/album/6f9GkFAcMf5wiAOmo1fM2f"
+      },
+      "artists": [
+        {
+          "name": "Nyasa",
+          "url": "https://open.spotify.com/artist/4aUL9eVquuxmpw9zvSWkQM"
+        },
+        {
+          "name": "Gaurav Chati",
+          "url": "https://open.spotify.com/artist/0RRBo2Xi8WkbBkIXwqHmBP"
+        },
+        {
+          "name": "Rstarjazz",
+          "url": "https://open.spotify.com/artist/6Ugqf9crKc2BMTqt0PIrg7"
+        }
+      ],
+      "duration_ms": 210909,
+      "name": "Mahadeva",
+      "url": "https://open.spotify.com/track/0GxjgX5PeDnB2QOygT1Zo1"
     },
     {
       "added_at": "2023-07-28 05:48:40",
@@ -904,41 +920,21 @@
           "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
         },
         {
-          "name": "Chotu Khan",
-          "url": "https://open.spotify.com/artist/0dV0HtaKhSbIFeE3izhj4p"
+          "name": "Shreya Jain",
+          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
         },
         {
-          "name": "Salman Khan",
-          "url": "https://open.spotify.com/artist/68ePdYvtRgq9CiPzv6fapI"
+          "name": "Nakul Chugh",
+          "url": "https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V"
         },
         {
-          "name": "Triplicane K. Sekar",
-          "url": "https://open.spotify.com/artist/2OaA4iqVxw33eqX9axg8BK"
+          "name": "Haritha Raj",
+          "url": "https://open.spotify.com/artist/2dVodnLDTczyG2msjEqrqA"
         }
       ],
-      "duration_ms": 184166,
-      "name": "A Life Worth Living (Kesariyo)",
-      "url": "https://open.spotify.com/track/5L8GHat4FQUdZWQRET5PyS"
-    },
-    {
-      "added_at": "2023-07-28 05:48:40",
-      "album": {
-        "name": "Pagdandi",
-        "url": "https://open.spotify.com/album/1d4SyBc282ylobPcMQBPvD"
-      },
-      "artists": [
-        {
-          "name": "Nyasa",
-          "url": "https://open.spotify.com/artist/4aUL9eVquuxmpw9zvSWkQM"
-        },
-        {
-          "name": "Gaurav Chati",
-          "url": "https://open.spotify.com/artist/0RRBo2Xi8WkbBkIXwqHmBP"
-        }
-      ],
-      "duration_ms": 190714,
-      "name": "Pagdandi",
-      "url": "https://open.spotify.com/track/4sVsPVWeoALxXeJ8rof2bN"
+      "duration_ms": 196027,
+      "name": "Rain Dance (Barsan Laagi)",
+      "url": "https://open.spotify.com/track/5tpbNwiHBY3HocFQGLGH7s"
     },
     {
       "added_at": "2023-07-28 05:48:40",
@@ -995,30 +991,22 @@
     {
       "added_at": "2023-07-28 05:48:40",
       "album": {
-        "name": "Shades of Cashmere",
-        "url": "https://open.spotify.com/album/14rJsFPIXADiSOxf9uIrZo"
+        "name": "Ki Jaana",
+        "url": "https://open.spotify.com/album/2w05JOdoxAmsvpPvbeuLtP"
       },
       "artists": [
         {
-          "name": "Shashwat Sachdev",
-          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+          "name": "Kanishk Seth",
+          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
         },
         {
-          "name": "Shreya Jain",
-          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
-        },
-        {
-          "name": "Nakul Chugh",
-          "url": "https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V"
-        },
-        {
-          "name": "Haritha Raj",
-          "url": "https://open.spotify.com/artist/2dVodnLDTczyG2msjEqrqA"
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
         }
       ],
-      "duration_ms": 196027,
-      "name": "Rain Dance (Barsan Laagi)",
-      "url": "https://open.spotify.com/track/5tpbNwiHBY3HocFQGLGH7s"
+      "duration_ms": 277546,
+      "name": "Ki Jaana",
+      "url": "https://open.spotify.com/track/7sCtnlyuxm07ISQg5ErK0Z"
     }
   ],
   "unique_name": "Folk in India",

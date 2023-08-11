@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 
 > A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Jéssica Augusto
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,708 likes - 80 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,774 likes - 80 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,18 +42,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 32 | [Agindo Deus](https://open.spotify.com/track/0Tdr4unuCWQ6DtEOGAQims) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [360 Graus](https://open.spotify.com/album/6i9ALb6S9vy8OAjcbBjDwq) | 3:54 |
 | 33 | [Eu Sou De Jesus](https://open.spotify.com/track/7nMczhGdlDHc4a3CBu6t7N) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq) | [Sarah](https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H) | 3:32 |
 | 34 | [Eu Não Desisto](https://open.spotify.com/track/27ynruXjPgN7YE8dJ4WDiV) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Avante](https://open.spotify.com/album/6ILLqsxadRd8B2BNA0oQk3) | 5:49 |
-| 35 | [Benção em Benção](https://open.spotify.com/track/3YEqc7Y3wQfOEcuGk1UKQb) | [Sérgio Saas](https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH) | [Haja Luz](https://open.spotify.com/album/0visYCj9NZhdxIdxNnOEP2) | 4:06 |
+| 35 | [Vamos Celebrar](https://open.spotify.com/track/0ozg7GYG3shAiJuSzOQYBf) | [Riverson Vianna](https://open.spotify.com/artist/4DYzAMk5cxRH2EkavJqDhN) | [Vamos Celebrar](https://open.spotify.com/album/4ueLg77lcJouxNJkzpJM82) | 3:52 |
 | 36 | [Deus da Minha Vida](https://open.spotify.com/track/0JpSWEkjpNEfnmlPTYw60F) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Saudade, Vol\. 2](https://open.spotify.com/album/2Zg8Q0hCbXr56S86f1C918) | 4:45 |
-| 37 | [Vamos Celebrar](https://open.spotify.com/track/0ozg7GYG3shAiJuSzOQYBf) | [Riverson Vianna](https://open.spotify.com/artist/4DYzAMk5cxRH2EkavJqDhN) | [Vamos Celebrar](https://open.spotify.com/album/4ueLg77lcJouxNJkzpJM82) | 3:52 |
+| 37 | [Benção em Benção](https://open.spotify.com/track/3YEqc7Y3wQfOEcuGk1UKQb) | [Sérgio Saas](https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH) | [Haja Luz](https://open.spotify.com/album/0visYCj9NZhdxIdxNnOEP2) | 4:06 |
 | 38 | [Caixa D'água](https://open.spotify.com/track/5MwN3HUdUymny3aUJPxpkm) | [Templo Soul](https://open.spotify.com/artist/6oMQVHIihBzjKq4FbNRGW9) | [Templo Soul](https://open.spotify.com/album/5DJdyG3nrBGjkEfKSXACBd) | 3:57 |
-| 39 | [O Céu É o Limite](https://open.spotify.com/track/7d3BPwhS1MLufNHPWhM7rD) | [FLG](https://open.spotify.com/artist/7xf7H8QcLCbhkCTBngAhFX), [Binhu](https://open.spotify.com/artist/2nHUTqOWnonUf8hmQBmAgE) | [O Céu É o Limite](https://open.spotify.com/album/4QX2r7tjScwYK7SGdEf1dn) | 4:43 |
+| 39 | [Jesus Cristo Mudou Meu Viver \(What a Difference You've Made in My Life\)](https://open.spotify.com/track/1PwbhJqb9IucLGt7NXF4oo) | [Pablo Simplicio](https://open.spotify.com/artist/6ftRI57Dy5WBwjZb8bk4f5) | [Jesus Cristo Mudou Meu Viver \(What a Difference You've Made in My Life\)](https://open.spotify.com/album/0q1ZWtWIRqQyZfr9RX1Ws4) | 2:49 |
 | 40 | [Frequência \- Ao Vivo](https://open.spotify.com/track/1ZU5h0Sl5LDzoTort3JgC9) | [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp), [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Frequência \(Ao Vivo\)](https://open.spotify.com/album/4KQBubvpjfihdzAkgAq6ma) | 4:15 |
 | 41 | [Tô Com Você](https://open.spotify.com/track/6bPzIPnHfGksLjrXRSJGbo) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Avante](https://open.spotify.com/album/6ILLqsxadRd8B2BNA0oQk3) | 3:48 |
-| 42 | [Jesus Cristo Mudou Meu Viver \(What a Difference You've Made in My Life\)](https://open.spotify.com/track/1PwbhJqb9IucLGt7NXF4oo) | [Pablo Simplicio](https://open.spotify.com/artist/6ftRI57Dy5WBwjZb8bk4f5) | [Jesus Cristo Mudou Meu Viver \(What a Difference You've Made in My Life\)](https://open.spotify.com/album/0q1ZWtWIRqQyZfr9RX1Ws4) | 2:49 |
+| 42 | [O Céu É o Limite](https://open.spotify.com/track/7d3BPwhS1MLufNHPWhM7rD) | [FLG](https://open.spotify.com/artist/7xf7H8QcLCbhkCTBngAhFX), [Binhu](https://open.spotify.com/artist/2nHUTqOWnonUf8hmQBmAgE) | [O Céu É o Limite](https://open.spotify.com/album/4QX2r7tjScwYK7SGdEf1dn) | 4:43 |
 | 43 | [Nada Se Compara](https://open.spotify.com/track/7n7uvCFKSs9bO3Vsf4efTo) | [Coral Unasp](https://open.spotify.com/artist/67cOQCgsrJVge8gh0etuB2), [Garnet Lima](https://open.spotify.com/artist/5nIt3IhM8XjCA7LVFCgp9S) | [Nada Se Compara](https://open.spotify.com/album/3UeS120DmaRg42viHosGU6) | 3:01 |
 | 44 | [É Pra Lá Que Eu Vou](https://open.spotify.com/track/28N7jwq4U6c2pmAbb1AWFS) | [André Valadão](https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq) | [Happy](https://open.spotify.com/album/1T60kQ7lvpdkwcY2jVAAF7) | 3:55 |
-| 45 | [Eu Grito](https://open.spotify.com/track/3lS32PJ4mTSOUbj1VJsxbL) | [Discopraise](https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe) | [Eu Grito](https://open.spotify.com/album/5NLoHON627RjW4wRiha4q1) | 4:33 |
-| 46 | [Brighter Day \- Kirk's Mix](https://open.spotify.com/track/1LM3tWoGx2tRMDKMnEwBjC) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [A Season Of Remixes](https://open.spotify.com/album/7jI7E2aLZZucXkAQQlJMEV) | 4:11 |
+| 45 | [Brighter Day \- Kirk's Mix](https://open.spotify.com/track/1LM3tWoGx2tRMDKMnEwBjC) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [A Season Of Remixes](https://open.spotify.com/album/7jI7E2aLZZucXkAQQlJMEV) | 4:11 |
+| 46 | [Eu Grito](https://open.spotify.com/track/3lS32PJ4mTSOUbj1VJsxbL) | [Discopraise](https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe) | [Eu Grito](https://open.spotify.com/album/5NLoHON627RjW4wRiha4q1) | 4:33 |
 | 47 | [Oh Glória, Aleluia](https://open.spotify.com/track/7awaT6tbK6XztSx1UsAixR) | [Sérgio Saas](https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH) | [Tua Graça Me Basta](https://open.spotify.com/album/6YHWwYgIvDdXEs8x23x9a2) | 3:45 |
 | 48 | [Aleluia](https://open.spotify.com/track/14EMbN1HUrgQsXQInLmn94) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Aleluia](https://open.spotify.com/album/1nT9F98Aluuo222Nbh3ClI) | 2:51 |
 | 49 | [Antes & Depois](https://open.spotify.com/track/1ifn917xmYnwlXsgcs5tMS) | [Robson Nascimento](https://open.spotify.com/artist/3rd7BCaAWyKxJFKiSjlxdd) | [Tome a Decisão](https://open.spotify.com/album/5mE14i5eods7RRbp1tkNza) | 5:10 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 74 | [A Voz do Senhor](https://open.spotify.com/track/1n17nz8qrz1dH44m8oIcvJ) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Em Tua Presença](https://open.spotify.com/album/3VxkndQE4cUUtTXpRMqDPi) | 4:04 |
 | 75 | [Porque Ele Vive](https://open.spotify.com/track/2k4JHKYcUN0CvNTZgrSTI3) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Eli Soares](https://open.spotify.com/album/24rZ2VHWqUT9qd6wsKjnOT) | 3:51 |
 | 76 | [Tudo Passa](https://open.spotify.com/track/4K1VIN5uX9IqfseTbGzsFJ) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Tudo Passa](https://open.spotify.com/album/72dx9PBvtQPfSH876B3Cpc) | 3:56 |
-| 77 | [Eu Sou](https://open.spotify.com/track/3sEcVLYLPMdP2lOhw9aF47) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Eli Soares 10 Anos](https://open.spotify.com/album/2UsWM0txt8jjHSUgEAKcuq) | 3:57 |
-| 78 | [Dele, Com Ele](https://open.spotify.com/track/6cytlMsScIOGrHiqWSeaPX) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Dele, Com Ele](https://open.spotify.com/album/0gV7RyIBPe0RIMo5qjdqHQ) | 2:53 |
+| 77 | [Dele, Com Ele](https://open.spotify.com/track/6cytlMsScIOGrHiqWSeaPX) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Dele, Com Ele](https://open.spotify.com/album/0gV7RyIBPe0RIMo5qjdqHQ) | 2:53 |
+| 78 | [Eu Sou](https://open.spotify.com/track/3sEcVLYLPMdP2lOhw9aF47) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Eli Soares 10 Anos](https://open.spotify.com/album/2UsWM0txt8jjHSUgEAKcuq) | 3:57 |
 | 79 | [Oh Glória](https://open.spotify.com/track/3XXjak71y3Keeg7KPhpO2A) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Aonde Está Deus?](https://open.spotify.com/album/3CXe90GxZOBmxZidCtkwjY) | 3:59 |
 | 80 | [Todos São Iguais \- Ao Vivo](https://open.spotify.com/track/1nvQzQaL7lEOtyGz3W3jgi) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [João Alexandre](https://open.spotify.com/artist/5kgQN9xPuWYGxVzsJb86Hx) | [Todos São Iguais \(Ao Vivo\)](https://open.spotify.com/album/7ejMECw1J8l2h7vv08H1JA) | 4:16 |
 
-Snapshot ID: `MCwyZDI2ZjYzNTAxNTc5NDI1ODNmZmY4OTc1YzVlMTgwNDJkYzdkZTE0`
+Snapshot ID: `MCw0MTkxMGU1ZmZkNzdkZDdlYzUyMTg4MTgzNjRlNjk5NmU4Y2QyNmJl`

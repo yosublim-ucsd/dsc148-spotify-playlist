@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2iBPiw.md) - [plain]
 
 > This is The Beatles\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,232,126 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,232,695 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,16 +28,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2iBPiw.md) - [plain]
 | 18 | [A Hard Day's Night \- Remastered 2009](https://open.spotify.com/track/5J2CHimS7dWYMImCHkEFaJ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [A Hard Day's Night \(Remastered\)](https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV) | 2:34 |
 | 19 | [I Want To Hold Your Hand \- Remastered 2015](https://open.spotify.com/track/4pbG9SUmWIvsROVLF0zF9s) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 2:25 |
 | 20 | [Eleanor Rigby \- Remastered 2009](https://open.spotify.com/track/5GjPQ0eI7AgmOnADn1EO6Q) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Revolver \(Remastered\)](https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR) | 2:06 |
-| 21 | [Love Me Do \- Remastered 2009](https://open.spotify.com/track/3VbGCXWRiouAq8VyMYN2MI) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Please Please Me \(Remastered\)](https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf) | 2:21 |
+| 21 | [Get Back \- Remastered 2009](https://open.spotify.com/track/4MLBqAEzNN89o2M9h92Z26) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 3:09 |
 | 22 | [Can't Buy Me Love \- Remastered 2009](https://open.spotify.com/track/3SdingSsFcZDZAyvcJbgAw) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [A Hard Day's Night \(Remastered\)](https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV) | 2:11 |
 | 23 | [Hey Jude \- Remastered 2015](https://open.spotify.com/track/0aym2LBJBk9DAYuHHutrIl) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 7:05 |
-| 24 | [Get Back \- Remastered 2009](https://open.spotify.com/track/4MLBqAEzNN89o2M9h92Z26) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 3:09 |
-| 25 | [Michelle \- Remastered 2009](https://open.spotify.com/track/5By7Pzgl6TMuVJG168VWzS) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:42 |
-| 26 | [I Will \- Remastered 2009](https://open.spotify.com/track/09x9v1o51dbqi5H0u7UGfp) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 1:45 |
+| 24 | [Michelle \- Remastered 2009](https://open.spotify.com/track/5By7Pzgl6TMuVJG168VWzS) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:42 |
+| 25 | [I Will \- Remastered 2009](https://open.spotify.com/track/09x9v1o51dbqi5H0u7UGfp) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 1:45 |
+| 26 | [Eight Days A Week \- Remastered 2009](https://open.spotify.com/track/1Dg4dFJr3HW7sbA7vPejre) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Beatles For Sale \(Remastered\)](https://open.spotify.com/album/1vANZV20H5B4Fk6yf7Ot9a) | 2:43 |
 | 27 | [With A Little Help From My Friends \- Remastered 2009](https://open.spotify.com/track/2RnPATK99oGOZygnD2GTO6) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Sgt\. Pepper's Lonely Hearts Club Band \(Remastered\)](https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW) | 2:44 |
 | 28 | [Here, There And Everywhere \- Remastered 2009](https://open.spotify.com/track/2B4Y9u4ERAFiMo13XPJyGP) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Revolver \(Remastered\)](https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR) | 2:24 |
-| 29 | [Ticket To Ride \- Remastered 2009](https://open.spotify.com/track/7CZiDzGVjUssMSOXrDNYHL) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Help! \(Remastered\)](https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX) | 3:09 |
-| 30 | [The Long And Winding Road \- Remastered 2009](https://open.spotify.com/track/3mlMpmY8oZIBFc39D9zLbh) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 3:38 |
+| 29 | [The Long And Winding Road \- Remastered 2009](https://open.spotify.com/track/3mlMpmY8oZIBFc39D9zLbh) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 3:38 |
+| 30 | [I Saw Her Standing There \- Remastered 2009](https://open.spotify.com/track/3KiexfmhxHvG5IgAElmTkd) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Please Please Me \(Remastered\)](https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf) | 2:53 |
 | 31 | [When I'm Sixty Four \- Remastered 2009](https://open.spotify.com/track/1NrbnHlR2BFREcyWXHIHip) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Sgt\. Pepper's Lonely Hearts Club Band \(Remastered\)](https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW) | 2:37 |
 | 32 | [Drive My Car \- Remastered 2009](https://open.spotify.com/track/06ypiqmILMdVeaiErMFA91) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:28 |
 | 33 | [For No One \- Remastered 2009](https://open.spotify.com/track/1kDkaFlmkdEZiVUogaP9OZ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Revolver \(Remastered\)](https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR) | 1:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2iBPiw.md) - [plain]
 | 49 | [Strawberry Fields Forever \- Remastered 2009](https://open.spotify.com/track/3Am0IbOxmvlSXro7N5iSfZ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Magical Mystery Tour \(Remastered\)](https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj) | 4:07 |
 | 50 | [She Loves You \- Mono / Remastered](https://open.spotify.com/track/6nEkxYIEnrbYH7h1hJ8Xn6) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 2:20 |
 
-Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDBhNWU5MTBkZGFkMTU4ZmJiMzUxNjMxZGFiOWUzNDZjZQ==`
+Snapshot ID: `MjgxOTQ1NjMsMDAwMDAwMDBlNjkyYTBjZDgyYjRhMzRkZmZiOWI2ZmEwZjVhOWFhMA==`

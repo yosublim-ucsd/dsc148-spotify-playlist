@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 
 > Unearthing up\-and\-coming Korean acts\. Cover: LE SSERAFIM \(르세라핌\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,769 likes - 53 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,766 likes - 53 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 | 2 | [ANTIFRAGILE](https://open.spotify.com/track/0bMoNdAnxNR0OuQbGDovrr) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:04 |
 | 3 | [HDYF \(Feat\. Hash Swan\)](https://open.spotify.com/track/32dRFUzFQND2iuWeCnWdx8) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg) | [Midnight law](https://open.spotify.com/album/0AoUsMZkciETOGsxubJX77) | 3:05 |
 | 4 | [lullaby](https://open.spotify.com/track/5svaQXGGlWWzuJW4eGAN9p) | [Kevin Oh](https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy) | [lullaby](https://open.spotify.com/album/3xrgoW81mLMRai347DLCW2) | 3:14 |
-| 5 | [Something](https://open.spotify.com/track/6hsefiVeZtpyExvPcI1Rt3) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [Something](https://open.spotify.com/album/64hw34kgQuqdjf5NidMHoo) | 4:40 |
+| 5 | [Something](https://open.spotify.com/track/6hsefiVeZtpyExvPcI1Rt3) | [KIM A REUM](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [Something](https://open.spotify.com/album/64hw34kgQuqdjf5NidMHoo) | 4:40 |
 | 6 | [FEARLESS \(2023 Ver.\)](https://open.spotify.com/track/4K8jDTlNhZWEdnzZVGRMtN) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 2:48 |
 | 7 | [Time and Trace](https://open.spotify.com/track/2GFIJKjMe0jqFwFsqZmiHD) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Time and Trace](https://open.spotify.com/album/6g07tWfZcdLirmgq0TFIjY) | 3:54 |
 | 8 | [in my room \(feat\. pH\-1, Marv\) \(prod\. moocean\)](https://open.spotify.com/track/3x3STzbhNeCivtioNh2k2I) | [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Marv](https://open.spotify.com/artist/1V2ep7618bYgCcTVyDKPcW) | [love is](https://open.spotify.com/album/5uivJupx1ZmlrLMIBVbbYy) | 3:57 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 | 52 | [Ransom](https://open.spotify.com/track/4EwJ6dnS6yYNclTI4jEsVL) | [Gwangil Jo](https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW) | [Ransom with KozyPop](https://open.spotify.com/album/5crK00yxvVXOpmkpsxLavI) | 3:01 |
 | 53 | [More](https://open.spotify.com/track/6VacU6Uf16RkcQWUv3Z5Vq) | [Rad Museum](https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [More](https://open.spotify.com/album/5fdVNrQ2PoMTyhFXPPWu7L) | 2:41 |
 
-Snapshot ID: `MCxjZTJhZDk0NTE3M2FmOThkZjExZjdkMThiOGVmYmIyM2Y2ODVlYTI5`
+Snapshot ID: `MCxlOWU4MTAyYzNhMTQ0NjA5MDFjZjY2MjQwMzJmMWIzNzBmMDE2MDNj`

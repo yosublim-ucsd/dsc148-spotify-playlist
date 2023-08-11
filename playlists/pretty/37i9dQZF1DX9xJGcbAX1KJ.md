@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xJGcbAX1KJ.md) - [plain]
 
 > Go ahead, lounge a little longer with a fun mix of your favorite covers...
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,157 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,174 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xJGcbAX1KJ.md) - [plain]
 | 22 | [Mr\. Sandman](https://open.spotify.com/track/6sPpUfwcYBgW3kTXStNsVM) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Mr\. Sandman](https://open.spotify.com/album/4IRbrDOChZMRwzkiGQuJVn) | 3:26 |
 | 23 | [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/track/65YDMuJmyF8cxTrk4Xogy0) | [Aaron Krause](https://open.spotify.com/artist/52MFUXZatn0KsT2bdPQI2a), [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/album/0AQ6evdrI5Nkmp5lDYYCCh) | 3:43 |
 | 24 | [99 Problems](https://open.spotify.com/track/7hN5TKSdRb56uytwIpcUES) | [Hugo](https://open.spotify.com/artist/3VSHFjwG94ubNcoST9hfxX) | [Old Tyme Religion](https://open.spotify.com/album/6Tolvy5sgnENXLNDNwQ9L6) | 2:17 |
-| 25 | [Neon Moon](https://open.spotify.com/track/7laJx5tDtvm3Mkj832oxSb) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Neon Moon](https://open.spotify.com/album/2tjHky2gRChxTuNQpDvKMm) | 3:45 |
-| 26 | [Little Talks](https://open.spotify.com/track/1ulDt6ySVbMbzZCBO6hSfb) | [Julia Sheer](https://open.spotify.com/artist/4jHWpUyRI2rzJVimtasEBF), [Jon D](https://open.spotify.com/artist/5HCypjplgh5uQezvBpOfXN) | [Little Talks](https://open.spotify.com/album/1wAtKYtwQNBHFP1tRKKRBM) | 3:39 |
+| 25 | [Little Talks](https://open.spotify.com/track/1ulDt6ySVbMbzZCBO6hSfb) | [Julia Sheer](https://open.spotify.com/artist/4jHWpUyRI2rzJVimtasEBF), [Jon D](https://open.spotify.com/artist/5HCypjplgh5uQezvBpOfXN) | [Little Talks](https://open.spotify.com/album/1wAtKYtwQNBHFP1tRKKRBM) | 3:39 |
+| 26 | [Neon Moon](https://open.spotify.com/track/7laJx5tDtvm3Mkj832oxSb) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Neon Moon](https://open.spotify.com/album/2tjHky2gRChxTuNQpDvKMm) | 3:45 |
 | 27 | [As Long as You Love Me](https://open.spotify.com/track/2vLHinYk689HDnLkrsCZGF) | [Erato](https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o), [Charlotte Almgren](https://open.spotify.com/artist/0XlZ7ymNRBhsLCUpX8fBua) | [As Long as You Love Me](https://open.spotify.com/album/04rhSa4vZfd4ySpEFVL0l1) | 2:31 |
 | 28 | [Set Fire to the Rain \- Cover](https://open.spotify.com/track/4wnhMXDfs64pcg0jxHscwI) | [Noah Guthrie](https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3) | [The Covers, Vol\. 4](https://open.spotify.com/album/5U6Wjpe4mJO3TofaM9CzFz) | 3:53 |
 | 29 | [Fast Car \(feat\. Tall Heights\)](https://open.spotify.com/track/79ms40oOzof3LMyrrXDXtJ) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc), [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [All or Nothing / Fast Car](https://open.spotify.com/album/0aqbYdpaGt1QhCJDcruuMV) | 4:32 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xJGcbAX1KJ.md) - [plain]
 | 42 | [Don't Dream It's Over \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/4PFnROqBlAVnizUrhF1x7C) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Spotify Singles](https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq) | 4:33 |
 | 43 | [Mr\. Brightside](https://open.spotify.com/track/6Bcsu35LlV2YyUSa1X7Cpf) | [Run River North](https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk) | [Superstition](https://open.spotify.com/album/6cxIb7DQLAhGSZQXYsybPo) | 4:32 |
 | 44 | [Lovesong](https://open.spotify.com/track/7nm6DlSzzJTH1rk2e6EgJz) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 5:16 |
-| 45 | [Stolen Dance](https://open.spotify.com/track/4U97fO94vsHmSmCF7jk5cZ) | [Twin Bandit](https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr), [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Stolen Dance](https://open.spotify.com/album/5LPeL99ZVABKUJgkK0QVk5) | 3:55 |
-| 46 | [Linger](https://open.spotify.com/track/3rcVJVqhuuKbVppaLXrxD5) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Linger](https://open.spotify.com/album/44rvrZI6NG38wyyoXQMsVx) | 3:21 |
+| 45 | [Linger](https://open.spotify.com/track/3rcVJVqhuuKbVppaLXrxD5) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Linger](https://open.spotify.com/album/44rvrZI6NG38wyyoXQMsVx) | 3:21 |
+| 46 | [Stolen Dance](https://open.spotify.com/track/4U97fO94vsHmSmCF7jk5cZ) | [Twin Bandit](https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr), [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Stolen Dance](https://open.spotify.com/album/5LPeL99ZVABKUJgkK0QVk5) | 3:55 |
 | 47 | [Seven Nation Army](https://open.spotify.com/track/7fBRH08A6Fu47GMyFamyoO) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Seven Nation Army](https://open.spotify.com/album/0v1JwHkMxT27evapwgUcvp) | 2:52 |
 | 48 | [Titanium](https://open.spotify.com/track/0knwYd0kPonZMwaNWLLudK) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Cover Sessions, Vol\. 3](https://open.spotify.com/album/1DpZ3jGqyRCTQ8Eoas1MP4) | 3:47 |
 | 49 | [Chasing Cars](https://open.spotify.com/track/5qCAMmVToq2m3snrMX9mKO) | [The Wind and The Wave](https://open.spotify.com/artist/5GMZzcgmUwopsHBB7TyCsy) | [Chasing Cars](https://open.spotify.com/album/3fH0zVDwnb05Uw4XYHacSj) | 4:28 |
 | 50 | [Don't You Want Me](https://open.spotify.com/track/0bmDpMruiJpzV5eQ92W0Lq) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [The Secret Life Of Walter Mitty \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/4zSB5nqKVh9jQcRByMUcMG) | 3:19 |
 
-Snapshot ID: `MCxhOWY1ODNkMWJkYzE4NWY2ZmJmNjA3MzU3MmEwOTZkNTM1NTllMmVi`
+Snapshot ID: `MCxjMjFlNzVlZTlkMjc5Yzg4Y2I4ZGU4MDFjNmRiNDI4N2IwMzMzZjRi`

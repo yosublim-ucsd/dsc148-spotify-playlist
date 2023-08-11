@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 
 > Lagu\-lagu Pop untuk teman bersantai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,164 likes - 80 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,416 likes - 80 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 | 42 | [Zona Nyaman \(From "Filosofi Kopi 2: Ben & Jody"\)](https://open.spotify.com/track/4lfAvFv8roumWVKXhHF8uN) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj) | [Ego & Fungsi Otak](https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz) | 4:03 |
 | 43 | [Garis Terdepan](https://open.spotify.com/track/7vbZI0mSwt6rpsnAoAAUns) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Konspirasi Alam Semesta](https://open.spotify.com/album/5pJVObCUAQ0mcEgV3Rrtji) | 3:33 |
 | 44 | [Dekat Di Hati](https://open.spotify.com/track/0owU9W5gPsJEcwAmMjzomy) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [Hari Baru](https://open.spotify.com/album/7xnqhnEdGGRmEQ6oGDudkr) | 4:28 |
-| 45 | [Losing Us.](https://open.spotify.com/track/6embPWj9qvusLg9JpbAmCQ) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Losing Us.](https://open.spotify.com/album/5rcVsRWjcqRgK91jsNCVWo) | 3:56 |
-| 46 | [Belum Siap Kehilangan](https://open.spotify.com/track/56Uibq6ur2xwUpSd9biBH1) | [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Belum Siap Kehilangan](https://open.spotify.com/album/07GSDlyuAPsCKtqTmyN80x) | 4:48 |
+| 45 | [Belum Siap Kehilangan](https://open.spotify.com/track/56Uibq6ur2xwUpSd9biBH1) | [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Belum Siap Kehilangan](https://open.spotify.com/album/07GSDlyuAPsCKtqTmyN80x) | 4:48 |
+| 46 | [Losing Us.](https://open.spotify.com/track/6embPWj9qvusLg9JpbAmCQ) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Losing Us.](https://open.spotify.com/album/5rcVsRWjcqRgK91jsNCVWo) | 3:56 |
 | 47 | [Labirin](https://open.spotify.com/track/0pDmW5AOpl1Wi58Ob0xXB8) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Labirin](https://open.spotify.com/album/4WGZARQCmhrbxPJajCkkjr) | 3:02 |
 | 48 | [Mata Ke Hati \(Acoustic Version\)](https://open.spotify.com/track/4p5UcsOpnSYwqYnThBpDjD) | [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [Kereta Kencan](https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw) | 3:24 |
 | 49 | [Di Atas Meja](https://open.spotify.com/track/1MDVXlgY8Of2n2otw57hw0) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Ruang Tunggu](https://open.spotify.com/album/1lp7ziYXZH8Z2r28FiUPWX) | 5:29 |
@@ -77,10 +77,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 | 67 | [Dari Mata](https://open.spotify.com/track/4xFM9ET7fPtYgbp9QyzrHl) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Dari Mata](https://open.spotify.com/album/40mpmlGhszXzLDZ9qbyAJh) | 3:43 |
 | 68 | [Dengan Caraku](https://open.spotify.com/track/6zZMfagNj5Nr8rSdJ9KLqq) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb) | [Dengan Caraku](https://open.spotify.com/album/6lfnTiXmRbPWrK40luaKFo) | 4:32 |
 | 69 | [Rayu](https://open.spotify.com/track/4rAWADK2zYdjx2ar2Hp1C8) | [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5), [Laleilmanino](https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm) | [Marion](https://open.spotify.com/album/0YDzTzUpaEBrltZExIKqKz) | 3:41 |
-| 70 | [Itu Aku](https://open.spotify.com/track/5SicKKsUufuzKZASHO9eDE) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Renung Resah](https://open.spotify.com/album/5RmCmfzSDQLUl8YAKO7Akj) | 3:42 |
-| 71 | [Tentang Rindu](https://open.spotify.com/track/0Xu6oMOzyXykITJNfC2dsq) | [Virzha](https://open.spotify.com/artist/5iHfwaDNZ11Y0yAyQVYDmy) | [Kedua](https://open.spotify.com/album/4pvGf4ImdWsNYSLIci5SP7) | 4:01 |
-| 72 | [Kali Kedua](https://open.spotify.com/track/4CvYHgcpBFbefsz6Q55ID1) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Handmade](https://open.spotify.com/album/59KvITHzZaIAfs7lpHSbrY) | 4:17 |
-| 73 | [Menghujam Jantungku](https://open.spotify.com/track/6VmfI8TnfhrFHqImmvubvZ) | [Tompi](https://open.spotify.com/artist/3FxQst3IlItxaNPGzjl17G) | [My Happy Life](https://open.spotify.com/album/26dXMvMY7SSrfGfvMYFmxe) | 3:33 |
+| 70 | [Tentang Rindu](https://open.spotify.com/track/0Xu6oMOzyXykITJNfC2dsq) | [Virzha](https://open.spotify.com/artist/5iHfwaDNZ11Y0yAyQVYDmy) | [Kedua](https://open.spotify.com/album/4pvGf4ImdWsNYSLIci5SP7) | 4:01 |
+| 71 | [Kali Kedua](https://open.spotify.com/track/4CvYHgcpBFbefsz6Q55ID1) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Handmade](https://open.spotify.com/album/59KvITHzZaIAfs7lpHSbrY) | 4:17 |
+| 72 | [Menghujam Jantungku](https://open.spotify.com/track/6VmfI8TnfhrFHqImmvubvZ) | [Tompi](https://open.spotify.com/artist/3FxQst3IlItxaNPGzjl17G) | [My Happy Life](https://open.spotify.com/album/26dXMvMY7SSrfGfvMYFmxe) | 3:33 |
+| 73 | [Itu Aku](https://open.spotify.com/track/5SicKKsUufuzKZASHO9eDE) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Renung Resah](https://open.spotify.com/album/5RmCmfzSDQLUl8YAKO7Akj) | 3:42 |
 | 74 | [11 Januari](https://open.spotify.com/track/2Ev8mNT9YHaUIELEKKf4ld) | [Gigi](https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf) | [Peace, Love And Respect](https://open.spotify.com/album/7DbA8XMgdsnigdg5cfFD1I) | 3:32 |
 | 75 | [Teman Bahagia](https://open.spotify.com/track/0KeK6xqEcTT1VWhHf5iw2d) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Teman Bahagia](https://open.spotify.com/album/4BqJFRg9Id95pDcb8ml84b) | 3:28 |
 | 76 | [Kamulah Satu \- Satunya](https://open.spotify.com/track/6pCfc6xxUXYBWLMQhIWDmh) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d) | [The Best of Dewa 19](https://open.spotify.com/album/2AYCO1vDSYRYnlu7tK6ZcS) | 4:01 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 | 79 | [Keabadian](https://open.spotify.com/track/4fYaJrhUh3ca4SXcgmOtmn) | [Reza Artamevia](https://open.spotify.com/artist/6ZKqWNmLTzV5kMwIh3VeVF) | [Keabadian](https://open.spotify.com/album/0X3OW0qjBDc3I9I52w6cym) | 4:07 |
 | 80 | [Cukup Tau](https://open.spotify.com/track/0EwVncCcoi94Bbp39Kl50L) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Cukup Tau](https://open.spotify.com/album/2HwAarbBMAvhKvBftkoJia) | 3:25 |
 
-Snapshot ID: `MCw4OTE4ZWJmNWIyNmFhZDQ0ZjQ4ZDNjYmJiY2ZkYTFkMTQ3MWM1YTk5`
+Snapshot ID: `MCw1ZWVmNjg5NmMxOGFmODJlNDIyMTQzZmU5MDY4OTkxZWI5MTAwZGU0`

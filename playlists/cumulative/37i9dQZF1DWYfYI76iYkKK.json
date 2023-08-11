@@ -286,7 +286,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 240000,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/6T5q14efHAPW2OmRb5GBGk"
@@ -596,7 +596,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 219406,
       "name": "One Last Try",
       "url": "https://open.spotify.com/track/5EnCnLGT0nBt6tF72tYE2w"
@@ -982,7 +982,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-14",
+      "date_removed": null,
       "duration_ms": 276559,
       "name": "\u4e00\u6a23\u7f8e\u9e97 - \u7c89\u7d05\u7d72\u5e36\u5ba3\u5c0e\u6d3b\u52d5\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/5VuI9PEbkwU2wMD5GAKQLf"
@@ -1202,6 +1202,24 @@
       "duration_ms": 233137,
       "name": "\u4eba\u985e\u5ee2\u54c1(\u96fb\u8996\u5287\u300a\u8ab0\u5728\u4f60\u8eab\u908aWho\u2019s By Your Side\u300b\u7247\u5c3e\u66f2)",
       "url": "https://open.spotify.com/track/61AGtV0vo7qb6kZkHoENlC"
+    },
+    {
+      "album": {
+        "name": "\u4ed6\u7684\u7279\u5225\u662f\u4f60\u7684\u8ce6\u4e88",
+        "url": "https://open.spotify.com/album/7jR2deIwD2p8NYXreyNiSe"
+      },
+      "artists": [
+        {
+          "name": "\u66fe\u5609\u5049",
+          "url": "https://open.spotify.com/artist/6ZgzedIaClSQzNFBoF0Zq7"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272644,
+      "name": "\u4ed6\u7684\u7279\u5225\u662f\u4f60\u7684\u8ce6\u4e88",
+      "url": "https://open.spotify.com/track/3OmKnIwab6oMAbfptUFeKu"
     },
     {
       "album": {
@@ -1450,7 +1468,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-07",
+      "date_removed": null,
       "duration_ms": 266286,
       "name": "\u5047\u7537\u53cb",
       "url": "https://open.spotify.com/track/3EVdjgISSjvMSgPtov1vQX"
@@ -1958,7 +1976,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 207740,
       "name": "\u590f\u81f3\u672a\u81f3",
       "url": "https://open.spotify.com/track/2AuqGByms86Vx5o1inLnXH"
@@ -3158,7 +3176,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 216689,
       "name": "\u6211\u9084\u5728\u4f60\u7684\u5922\u88e1\u55ce",
       "url": "https://open.spotify.com/track/0Py5JGT1RIImdoGkuuX7k0"
@@ -3504,6 +3522,24 @@
       "duration_ms": 235716,
       "name": "\u6700\u597d\u7684\u6642\u5149",
       "url": "https://open.spotify.com/track/3UNnCf5rqnVbWvGDNs2Bup"
+    },
+    {
+      "album": {
+        "name": "\u6700\u597d\u7684",
+        "url": "https://open.spotify.com/album/5rdzNIfW48kmAlfLiSIZj2"
+      },
+      "artists": [
+        {
+          "name": "\u5f90\u4e39",
+          "url": "https://open.spotify.com/artist/6h4pdt9OsFsEsklIS84lUn"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247004,
+      "name": "\u6700\u597d\u7684\uff08\u5f71\u8996\u5287\u300a\u98db\u99b3\u9918\u751f\u300b\u4e3b\u984c\u66f2\uff09",
+      "url": "https://open.spotify.com/track/1j0JJR7z66LFCxEgP7mgO0"
     },
     {
       "album": {
@@ -4384,7 +4420,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 232888,
       "name": "\u7e3d\u6709\u90a3\u9ebc\u4e00\u5929\u6211\u59cb\u7d42\u76f8\u4fe1",
       "url": "https://open.spotify.com/track/1ezKCFxKbN2aoIJj6vLEJL"
@@ -5284,7 +5320,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 225783,
       "name": "\u96d9\u624b\u63e1\u8457\uff0c\u662f\u611b\u60c5\u5fc3\u7684\u5f62\u72c0",
       "url": "https://open.spotify.com/track/0L9CqehTOJWEZGNJzxpKqf"

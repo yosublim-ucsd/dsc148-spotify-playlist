@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Ice Spice
 
-[Spotify](https://open.spotify.com/user/spotify) - 824,753 likes - 78 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 825,363 likes - 78 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 | 77 | [Rules](https://open.spotify.com/track/1TMWcbxL5YF8rKsFHv5hAP) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:07 |
 | 78 | [Big Energy](https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Energy](https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa) | 2:53 |
 
-Snapshot ID: `MCw5YzRlMTcyMjA3NWY1NGRmMzIyOTU2OTU0ZjJiYjA4ZWUxMWYyY2Nl`
+Snapshot ID: `MCxjNzIyZTFhNTc2MGM0ODc1MWQwZjYxYmUzYWIwNjI2NDBmOWFjYWNk`

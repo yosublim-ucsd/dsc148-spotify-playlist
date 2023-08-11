@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u4e16\u754c\u4e2d\u3067\u8a71\u984c\u306e\u30a8\u30ec\u30af\u30c8\u30ea\u30cb\u30c3\u30af\u30fb\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\uff01Cover: Swedish House Mafia",
+  "description": "\u4e16\u754c\u4e2d\u3067\u8a71\u984c\u306e\u30a8\u30ec\u30af\u30c8\u30ea\u30cb\u30c3\u30af\u30fb\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\uff01Cover: Gordo & Maluma ",
   "name": "mint Japan",
   "tracks": [
     {
@@ -509,6 +509,44 @@
     },
     {
       "album": {
+        "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
+        "url": "https://open.spotify.com/album/2xV74PLdZg5gwA65xGF8cF"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        },
+        {
+          "name": "IRAH",
+          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
+        },
+        {
+          "name": "Trigga",
+          "url": "https://open.spotify.com/artist/117Ngy9A9prluWeHKheHwz"
+        },
+        {
+          "name": "Takura",
+          "url": "https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177291,
+      "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
+      "url": "https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg"
+    },
+    {
+      "album": {
         "name": "BANG BANG! (My Neurodivergent Anthem)",
         "url": "https://open.spotify.com/album/1xG4KabXFQ7qPyg90cHSZo"
       },
@@ -840,6 +878,28 @@
       "duration_ms": 149110,
       "name": "Caught A Body (with Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/4JvJj733DNy6nuVcC1NzCq"
+    },
+    {
+      "album": {
+        "name": "The Complete Collection",
+        "url": "https://open.spotify.com/album/2ooyO0Krh2H87j4hJbPQiE"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "Shadow Child",
+          "url": "https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304615,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/0t7ahpke8UKi61ikrSh5sd"
     },
     {
       "album": {
@@ -1374,7 +1434,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 154285,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/0NNSpmyyr0I4lrMaXS8Tba"
@@ -1496,7 +1556,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 158391,
       "name": "Family Affair (Dance For Me)",
       "url": "https://open.spotify.com/track/1dP519dbEob8H6wiouRdaY"
@@ -1930,7 +1990,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 164541,
       "name": "Here We Go Again",
       "url": "https://open.spotify.com/track/3WsbAGQt6HgTj9kg6f466M"
@@ -2062,7 +2122,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 198867,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/5RfVafaeEEiqC0Z3LsBaZw"
@@ -2531,6 +2591,24 @@
     },
     {
       "album": {
+        "name": "Mahoya",
+        "url": "https://open.spotify.com/album/7bLQf71ETdGuL9GgXAyn4u"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216363,
+      "name": "Mahoya",
+      "url": "https://open.spotify.com/track/1s7ZoLVOFhBLXNIBYgavdr"
+    },
+    {
+      "album": {
         "name": "Major Lazer",
         "url": "https://open.spotify.com/album/0lvEoELFjNxivRwSoSBLb3"
       },
@@ -2708,7 +2786,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 159677,
       "name": "Moonlight (feat. Antrex)",
       "url": "https://open.spotify.com/track/08VzBbaIZe2jbB7nqPJWgK"
@@ -2988,6 +3066,28 @@
       "duration_ms": 197640,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx"
+    },
+    {
+      "album": {
+        "name": "Parcera",
+        "url": "https://open.spotify.com/album/1zli9BhqCmdNUeLXd2JFQm"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152343,
+      "name": "Parcera",
+      "url": "https://open.spotify.com/track/56oomeTRgamzypt6iObrvA"
     },
     {
       "album": {
@@ -3286,6 +3386,32 @@
       "duration_ms": 166572,
       "name": "Saturday/Sunday",
       "url": "https://open.spotify.com/track/2tX3PY8eP3h9XaBcLXuRBa"
+    },
+    {
+      "album": {
+        "name": "Genesys",
+        "url": "https://open.spotify.com/album/3uI67VYBj1l3aq2q5Or0NH"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189783,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/367D6p4dHFUXgnvO52jKvP"
     },
     {
       "album": {

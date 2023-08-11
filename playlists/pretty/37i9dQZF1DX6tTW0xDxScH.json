@@ -1,12 +1,12 @@
 {
   "description": "Where everything is lovely and snuggly <3 ",
-  "num_followers": 688848,
+  "num_followers": 688977,
   "original_name": "Stay in Bed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmY2E4OTVkM2Y4NTM1NzhiMTU3OThkM2ZiZmUxYTExMWQ5ZDFhMjNm",
+  "snapshot_id": "MCw2MWQyN2ViMzY4MjNhNGUyOGQzNGViMGM3MDVkZmVmNGFjNDkzMGU4",
   "tracks": [
     {
       "added_at": "2023-04-04 17:18:55",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-04-04 17:18:55",
       "album": {
-        "name": "Let My People Go",
-        "url": "https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA"
-      },
-      "artists": [
-        {
-          "name": "Darondo",
-          "url": "https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc"
-        }
-      ],
-      "duration_ms": 209160,
-      "name": "Didn't I",
-      "url": "https://open.spotify.com/track/6Dq2LzijkY9WNPwBGDah4L"
-    },
-    {
-      "added_at": "2023-04-04 17:18:55",
-      "album": {
         "name": "Rose in the Dark",
         "url": "https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 228990,
       "name": "Why Don't You",
       "url": "https://open.spotify.com/track/6RQ0i7rApnnWSI8uEiGVVF"
+    },
+    {
+      "added_at": "2023-04-04 17:18:55",
+      "album": {
+        "name": "Let My People Go",
+        "url": "https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA"
+      },
+      "artists": [
+        {
+          "name": "Darondo",
+          "url": "https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc"
+        }
+      ],
+      "duration_ms": 209160,
+      "name": "Didn't I",
+      "url": "https://open.spotify.com/track/6Dq2LzijkY9WNPwBGDah4L"
     },
     {
       "added_at": "2023-04-04 17:18:55",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-04-04 17:18:55",
       "album": {
-        "name": "Junkyard Jazz",
-        "url": "https://open.spotify.com/album/1MBaEeGuZFixWVTARJ4amP"
-      },
-      "artists": [
-        {
-          "name": "Trudy and the Romance",
-          "url": "https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou"
-        }
-      ],
-      "duration_ms": 278413,
-      "name": "Is There a Place I Can Go",
-      "url": "https://open.spotify.com/track/1wR6F2NFDjBlDAYEHnAPS9"
-    },
-    {
-      "added_at": "2023-04-04 17:18:55",
-      "album": {
         "name": "Sound & Color (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 268853,
       "name": "This Feeling",
       "url": "https://open.spotify.com/track/7xM33k6Z3ADF8pEmIClcnz"
+    },
+    {
+      "added_at": "2023-04-04 17:18:55",
+      "album": {
+        "name": "Junkyard Jazz",
+        "url": "https://open.spotify.com/album/1MBaEeGuZFixWVTARJ4amP"
+      },
+      "artists": [
+        {
+          "name": "Trudy and the Romance",
+          "url": "https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou"
+        }
+      ],
+      "duration_ms": 278413,
+      "name": "Is There a Place I Can Go",
+      "url": "https://open.spotify.com/track/1wR6F2NFDjBlDAYEHnAPS9"
     },
     {
       "added_at": "2023-04-04 17:18:55",

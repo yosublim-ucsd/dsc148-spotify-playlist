@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KDoWqpOwcW.md) - [plain]
 
 > El soundtrack oficial de la Liga Mexicana de Beisbol ⚾️🏟🧢
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,613 likes - 125 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,634 likes - 125 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KDoWqpOwcW.md) - [plain]
 | 36 | [Sweet Caroline](https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Sweet Caroline](https://open.spotify.com/album/6RfgcwsOUlWkGNAd6zjjYd) | 3:23 |
 | 37 | [CÓMO SE SIENTE \- Remix](https://open.spotify.com/track/2tFwfmceQa1Y6nRPhYbEtC) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [CÓMO SE SIENTE \(Remix\)](https://open.spotify.com/album/0VLl6NV05DjwNE2lZFdCEI) | 3:47 |
 | 38 | [Party](https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:47 |
-| 39 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 |
-| 40 | [Perdóname](https://open.spotify.com/track/6yLqoieklk9gwabLaUDJ4s) | [La Factoria](https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy), [Eddy Lover](https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX) | [Nuevas Metas](https://open.spotify.com/album/3jjhGPZjbKkW8b85zd7vfE) | 4:02 |
+| 39 | [Perdóname](https://open.spotify.com/track/6yLqoieklk9gwabLaUDJ4s) | [La Factoria](https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy), [Eddy Lover](https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX) | [Nuevas Metas](https://open.spotify.com/album/3jjhGPZjbKkW8b85zd7vfE) | 4:02 |
+| 40 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 |
 | 41 | [Me Rehúso](https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Me Rehúso](https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d) | 3:25 |
 | 42 | [Vivir Mi Vida](https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [3.0](https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R) | 4:12 |
 | 43 | [Adiós Amor](https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Me Dejé Llevar](https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv) | 3:19 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KDoWqpOwcW.md) - [plain]
 | 72 | [Gracias \- En Vivo](https://open.spotify.com/track/2XlGKZNMkRKvEJsbwQ6MCl) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [Gracias \(En Vivo\)](https://open.spotify.com/album/1J5sBLRkJnpnXOYK31M2ad) | 3:55 |
 | 73 | [A Través del Vaso](https://open.spotify.com/track/1x5Fqllow3ngr5euK3hXSw) | [Grupo Arranke](https://open.spotify.com/artist/1A773r2lVYAnmt8uwb5BOu) | [A Través del Vaso](https://open.spotify.com/album/7vT5aK4tV66WR8OH16gKjn) | 3:08 |
 | 74 | [Tiburon](https://open.spotify.com/track/2GcjfckZexh9wRRjg9KtQG) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [In Da House](https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe) | 5:03 |
-| 75 | [Suavecito Suavecito](https://open.spotify.com/track/6cKWDVak6o362TElLvwtmU) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [15 Éxitos](https://open.spotify.com/album/48FUru9enVg1NlLrkZyJW6) | 3:45 |
-| 76 | [Spanish Girl](https://open.spotify.com/track/00C0QqlR0vBK05aE1KSRNB) | [Zona Rika](https://open.spotify.com/artist/7pa9Vnkxw228A6QHsj3uGV) | [Pa' Gozar \- Zona Rika](https://open.spotify.com/album/2yAW7Bam9f29xcsxVTg1va) | 3:55 |
+| 75 | [Spanish Girl](https://open.spotify.com/track/00C0QqlR0vBK05aE1KSRNB) | [Zona Rika](https://open.spotify.com/artist/7pa9Vnkxw228A6QHsj3uGV) | [Pa' Gozar \- Zona Rika](https://open.spotify.com/album/2yAW7Bam9f29xcsxVTg1va) | 3:55 |
+| 76 | [Suavecito Suavecito](https://open.spotify.com/track/6cKWDVak6o362TElLvwtmU) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [15 Éxitos](https://open.spotify.com/album/48FUru9enVg1NlLrkZyJW6) | 3:45 |
 | 77 | [Sangoloteadito](https://open.spotify.com/track/6X0EfHtuMNjZXFma8x7uv1) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Bandido de Amores](https://open.spotify.com/album/02hrAwGoK0AxRiQcl4oOST) | 3:02 |
 | 78 | [Qué Maldición](https://open.spotify.com/track/1ovCSSWps8DWQwEDgmGiFp) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Qué Maldición](https://open.spotify.com/album/6oRHxFUQKBLocEBeWw24gb) | 3:23 |
 | 79 | [Si Señor](https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Artilleria Pesada, Presenta:](https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v) | 4:13 |
@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KDoWqpOwcW.md) - [plain]
 | 97 | [Kódigos](https://open.spotify.com/track/6kMOMMTx2xVeL949eA43ld) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V) | [Kódigos](https://open.spotify.com/album/0b5audVuKMeEU2EW1Dl4CS) | 3:47 |
 | 98 | [Pegao / Me Miro y La Mire \- TikTok Hit](https://open.spotify.com/track/4Pzk85DqWoLqptyA5IlhLk) | [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Pegao / Me Miro y La Mire \(TikTok Hit\)](https://open.spotify.com/album/2owNg3nikzMzLuQy9n0Jqz) | 3:36 |
 | 99 | [La Guitarra de Lolo \(Huapango\)](https://open.spotify.com/track/13dUAJU2seBDHy3VVBSO4i) | [La Kumbre Con K](https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3) | [10 Pa' Huapanguear](https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di) | 3:18 |
-| 100 | [Cangrejito Playero](https://open.spotify.com/track/6mitEFB3w4GBe8YDlLfITL) | [Acapulco Tropical](https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV) | [El Soltero](https://open.spotify.com/album/0bjpHFI6ooAjv8ePZj8NsL) | 2:26 |
-| 101 | [Adoro \(with Armando Manzanero\)](https://open.spotify.com/track/0DIDL9wmrSRMViRqsmZfmB) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0), [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [Contigo Aprendí](https://open.spotify.com/album/0FBVWxpOmjm5TnmJRTflyb) | 3:33 |
+| 100 | [Adoro \(with Armando Manzanero\)](https://open.spotify.com/track/0DIDL9wmrSRMViRqsmZfmB) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0), [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [Contigo Aprendí](https://open.spotify.com/album/0FBVWxpOmjm5TnmJRTflyb) | 3:33 |
+| 101 | [Cangrejito Playero](https://open.spotify.com/track/6mitEFB3w4GBe8YDlLfITL) | [Acapulco Tropical](https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV) | [El Soltero](https://open.spotify.com/album/0bjpHFI6ooAjv8ePZj8NsL) | 2:26 |
 | 102 | [Que calor](https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:45 |
 | 103 | [El Coco No](https://open.spotify.com/track/2HAO2lqg5RPEQFXreAJV6T) | [Roberto Junior Y Su Bandeño](https://open.spotify.com/artist/6lcyDWmvYnBiGgHO9knEOb) | [El Coco No](https://open.spotify.com/album/0j01vRLlIWCaQejaz9CwRG) | 2:56 |
 | 104 | [Menea Tu Chapa](https://open.spotify.com/track/7G6dxux3uUjSfQY7MP9J5W) | [Wilo D New](https://open.spotify.com/artist/7Mj6zJyAtVisnooOp1hlWF) | [KlK Llego El Tipo the Album](https://open.spotify.com/album/3XHcqktZHNuuRjdLJqiGs0) | 2:55 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KDoWqpOwcW.md) - [plain]
 | 124 | [El Toro Viejo \- Huapango](https://open.spotify.com/track/62zRGMj7CUz3aN1g3gSev8) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Con Banda](https://open.spotify.com/album/2525QjTlcuO1zaYoBCl1Z9) | 2:52 |
 | 125 | [La Sacamos Del Estadio](https://open.spotify.com/track/4UMEfSlU8YwRDHfXQWDYxc) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Con Todas Las Fuerzas](https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM) | 3:25 |
 
-Snapshot ID: `MCwyYzJjOWNhMDVlNDNhNTE2YzZhNDM0M2RmYTE3YzEzYmMyYThhNDM3`
+Snapshot ID: `MCw5NDI3YzE5MDdkMDAwMWE0NTE4NTc5NWMxZjllZjgyYzA0ZTYwYjgw`

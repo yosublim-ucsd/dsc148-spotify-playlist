@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U5XaCM7ssr.md) - [plain]
 
 > Lagu\-lagu mengsedih yang menyayat hati 😭
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,072,716 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,073,340 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U5XaCM7ssr.md) - [plain]
 | 49 | [Cinta Dan Rahasia](https://open.spotify.com/track/4HXUMRdT6s6Am6YHcWmuib) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio), [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [YURA](https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8) | 4:22 |
 | 50 | [Dan...](https://open.spotify.com/track/1MdjZzEInrmDBXf8zs0nKS) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Sheila On 7](https://open.spotify.com/album/1hrJXgaVEGovpLl9dFdqz7) | 4:48 |
 
-Snapshot ID: `MCw5ZDZlZWQ3ZDlkNzNkY2YzMTU5NDk3YmZmZGJjMzA4MjFmOTIwYTdh`
+Snapshot ID: `MCw4MGE4Y2I1NTBjYjk0YjhhNzZlNjQ3MjdjNmIxMTlhYTdiYTExZjgw`

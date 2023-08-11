@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29tDB6.md) - [plain]
 
 > This is El Tri\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,722 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,776 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29tDB6.md) - [plain]
 | 13 | [El muchacho chicho](https://open.spotify.com/track/2qGjcYq5GlLPdRlQC88q04) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Cuando tú no estás](https://open.spotify.com/album/34ZIg4OKI4iEGPw6OQrQMQ) | 5:10 |
 | 14 | [Todo sea por el rocanrol](https://open.spotify.com/track/4gJuuzk8bZmSpSlTyP6yMI) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Hoyos en la bolsa](https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw) | 4:44 |
 | 15 | [Difícil](https://open.spotify.com/track/3xpjEMrSF5KdHneYqjgvWs) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [21 Años después Alex Lora y El Tri](https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu) | 2:46 |
-| 16 | [Oye cantinero](https://open.spotify.com/track/6G1omxCOzzW0KSTpfnovu7) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [El Tri Sinfónico II](https://open.spotify.com/album/23fQNeHs1eHG2nHqBZbshr) | 5:42 |
-| 17 | [Vicioso](https://open.spotify.com/track/1Dye6w5HIVXAzaECtHMNFo) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Simplemente](https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y) | 2:25 |
+| 16 | [Vicioso](https://open.spotify.com/track/1Dye6w5HIVXAzaECtHMNFo) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Simplemente](https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y) | 2:25 |
+| 17 | [Oye cantinero](https://open.spotify.com/track/6G1omxCOzzW0KSTpfnovu7) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [El Tri Sinfónico II](https://open.spotify.com/album/23fQNeHs1eHG2nHqBZbshr) | 5:42 |
 | 18 | [Virgen morena](https://open.spotify.com/track/7nt6ghHg0orx4dieH5bFHp) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Clasicas para Rockear](https://open.spotify.com/album/1udzt4QE3PY1KvUinZ5xiw) | 4:32 |
 | 19 | [Chilango incomprendido](https://open.spotify.com/track/7AkqlTL6TgMZdYX0w5xuaC) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [20 Grandes Exitos](https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq) | 2:55 |
 | 20 | [Mente roquera](https://open.spotify.com/track/6siM0kfxKHLW5zhM5g80x9) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Sinfónico](https://open.spotify.com/album/2N7qb2uMZLrGRVWnFDwXj8) | 5:47 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29tDB6.md) - [plain]
 | 38 | [Perdedor](https://open.spotify.com/track/0ksTXUvXqsn0ujFwArYWQP) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [El Tri Sinfónico II](https://open.spotify.com/album/23fQNeHs1eHG2nHqBZbshr) | 4:43 |
 | 39 | [Bésame](https://open.spotify.com/track/1Ul3KRSxw5t5pffvUqnL5u) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [A talonear!!](https://open.spotify.com/album/0HRGrsD1AKAqShL4GtOnfp) | 4:03 |
 | 40 | [Solamente Dios](https://open.spotify.com/track/79tDHSRvEZi9KnrSRE8krg) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [No te olvides de la banda](https://open.spotify.com/album/6OYHy1eZOBvS3KnWHwEyIs) | 5:06 |
-| 41 | [Chilangolandia](https://open.spotify.com/track/0mRiKsDhYMprvTDTeXBUvA) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 2](https://open.spotify.com/album/0IbZ0zWLo7N6XKleOHQovV) | 4:19 |
-| 42 | [Mi chava no me comprende](https://open.spotify.com/track/6f9i7QVcRtypJ49wPRGmRg) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [20 Grandes Exitos](https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq) | 4:23 |
+| 41 | [Mi chava no me comprende](https://open.spotify.com/track/6f9i7QVcRtypJ49wPRGmRg) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [20 Grandes Exitos](https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq) | 4:23 |
+| 42 | [Chilangolandia](https://open.spotify.com/track/0mRiKsDhYMprvTDTeXBUvA) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 2](https://open.spotify.com/album/0IbZ0zWLo7N6XKleOHQovV) | 4:19 |
 | 43 | [Chavo de onda \- Live](https://open.spotify.com/track/7haAS6bTEJHz5at86CAG9g) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [MTV Unplugged](https://open.spotify.com/album/1fK1XSbmTDH2UDBTXqj5bE) | 6:03 |
-| 44 | [Pamela](https://open.spotify.com/track/7y9v2r9wF9wd9VE97VFX3z) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Hoyos en la bolsa](https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw) | 4:41 |
-| 45 | [Chavo De Onda](https://open.spotify.com/track/6NGS3TwVPixvTbMALDReaN) | [Juan Hernández y Su Banda de Blues](https://open.spotify.com/artist/1i7IEggecEKBWwXqsiQFqQ), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Chavo De Onda](https://open.spotify.com/album/2TonRm97HlDsH47A2FIlZT) | 3:29 |
-| 46 | [Unos Quieren Subir](https://open.spotify.com/track/0J6vQFjGJH7EANyRL5xjNH) | [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Unos Quieren Subir](https://open.spotify.com/album/2HnLY7Rd7Zd15xQPMwBf5H) | 3:09 |
+| 44 | [Unos Quieren Subir](https://open.spotify.com/track/0J6vQFjGJH7EANyRL5xjNH) | [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Unos Quieren Subir](https://open.spotify.com/album/2HnLY7Rd7Zd15xQPMwBf5H) | 3:09 |
+| 45 | [Pamela](https://open.spotify.com/track/7y9v2r9wF9wd9VE97VFX3z) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Hoyos en la bolsa](https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw) | 4:41 |
+| 46 | [Chavo De Onda](https://open.spotify.com/track/6NGS3TwVPixvTbMALDReaN) | [Juan Hernández y Su Banda de Blues](https://open.spotify.com/artist/1i7IEggecEKBWwXqsiQFqQ), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Chavo De Onda](https://open.spotify.com/album/2TonRm97HlDsH47A2FIlZT) | 3:29 |
 | 47 | [Niño sin amor \- Live](https://open.spotify.com/track/0BiGmkT2G6B1L35BTnnDQc) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [MTV Unplugged](https://open.spotify.com/album/1fK1XSbmTDH2UDBTXqj5bE) | 5:36 |
 | 48 | [Ya estamos hartos](https://open.spotify.com/track/221Kj107g9kqy0bNOk6uKc) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [El Tri Sinfónico II](https://open.spotify.com/album/23fQNeHs1eHG2nHqBZbshr) | 3:41 |
-| 49 | [No Soy Tu Perro](https://open.spotify.com/track/3XVHMzqnE8vhVVGDKPFxR8) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [No Soy Tu Perro](https://open.spotify.com/album/5N04Cpk0KQpwZioDIcvtEw) | 4:27 |
-| 50 | [Santa Martha](https://open.spotify.com/track/38w1ZH0Zoj5Ap1TDluxhLG) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 2](https://open.spotify.com/album/0IbZ0zWLo7N6XKleOHQovV) | 3:52 |
+| 49 | [Santa Martha](https://open.spotify.com/track/38w1ZH0Zoj5Ap1TDluxhLG) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 2](https://open.spotify.com/album/0IbZ0zWLo7N6XKleOHQovV) | 3:52 |
+| 50 | [No Soy Tu Perro](https://open.spotify.com/track/3XVHMzqnE8vhVVGDKPFxR8) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [No Soy Tu Perro](https://open.spotify.com/album/5N04Cpk0KQpwZioDIcvtEw) | 4:27 |
 
-Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDAxMzE1YzU0YWI5YTJiNTViODMxYmViZjc1ZTA2Y2Q3Nw==`
+Snapshot ID: `MjgxOTQ1NjMsMDAwMDAwMDBiZmEyMDBjNTg1OTQ3MWVhNzZlMzcxZWY1NTJkNDBhZA==`

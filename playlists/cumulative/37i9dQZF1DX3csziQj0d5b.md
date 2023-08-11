@@ -4,7 +4,7 @@
 
 > Some bops to take the pain of homework away.
 
-548 songs - 1 day 5 hr 53 min
+549 songs - 1 day 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Afterglow](https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Afterglow](https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV) | 3:05 | 2022-04-14 | 2023-01-04 |
 | [Afterglow](https://open.spotify.com/track/6dHozDVKUUc7fm26EgrP2E) | [HOUNDTRACK](https://open.spotify.com/artist/3nw1z931Oc4JMbF4rGfz6O) | [Afterglow](https://open.spotify.com/album/77uGdp712E0p0nGkrQx35L) | 2:29 | 2022-04-14 | 2022-04-21 |
 | [Against All Odds \(Take a Look at Me Now\) \- 2016 Remaster](https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [The Singles \(Expanded\)](https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah) | 3:26 | 2022-07-08 | 2022-09-17 |
+| [All My Exes' Moms](https://open.spotify.com/track/3ikuDKc66w7CH9hRgc2KfX) | [Brooke Alexx](https://open.spotify.com/artist/76OGIUhWyFyKOvhRuueDa7) | [All My Exes' Moms](https://open.spotify.com/album/7D78EyeNCsv7f8fAlYLrvx) | 2:05 | 2023-08-04 |  |
 | [All Of The Girls You Loved Before](https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [All Of The Girls You Loved Before](https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD) | 3:41 | 2023-03-17 | 2023-07-01 |
 | [all the kids are depressed](https://open.spotify.com/track/75ls0gurX68lUmMjE7QcsE) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [glisten](https://open.spotify.com/album/14lSyFVCuhvEoW7ogOIzD0) | 2:49 | 2022-04-14 |  |
 | [All to Myself](https://open.spotify.com/track/62iRMbIWE6PKfPfETREZ2w) | [Dylan Wright](https://open.spotify.com/artist/0XjUzkpgj8t1MnxhROumUe) | [All to Myself](https://open.spotify.com/album/5qbfmXWPjvi2UFCRi39iMD) | 3:44 | 2022-04-14 | 2022-04-21 |
@@ -399,7 +400,7 @@
 | [Rainy Day but Tuned](https://open.spotify.com/track/5d1597VPvFNUwipnSKGChs) | [Sloani](https://open.spotify.com/artist/19PwAhjMyP5pk3Dlra6wI5) | [can you see the cat](https://open.spotify.com/album/1wXO0d3Uj6tmGgELBmqrrX) | 2:10 | 2022-04-14 | 2022-04-21 |
 | [Ready or Not](https://open.spotify.com/track/5xvUgoVED1F4mBu8FL0HaW) | [Bridgit Mendler](https://open.spotify.com/artist/4VhL8KLjVso4vLfOLVViTb) | [Hello My Name Is...](https://open.spotify.com/album/114sumrk5wTeMWHVin86QC) | 3:20 | 2023-08-03 |  |
 | [Reckless](https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Reckless](https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7) | 3:23 | 2022-04-14 |  |
-| [Red Wine Supernova](https://open.spotify.com/track/0eEXpE2WgW5cjuZVAuvuev) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Red Wine Supernova](https://open.spotify.com/album/4FAby8ROZDZhSoOvsFBGIn) | 3:12 | 2023-08-04 |  |
+| [Red Wine Supernova](https://open.spotify.com/track/0eEXpE2WgW5cjuZVAuvuev) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Red Wine Supernova](https://open.spotify.com/album/4FAby8ROZDZhSoOvsFBGIn) | 3:12 | 2023-08-04 | 2023-08-11 |
 | [Remember That Night?](https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Remember That Night?](https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP) | 3:47 | 2022-12-09 |  |
 | [Reminder](https://open.spotify.com/track/37F0uwRSrdzkBiuj0D5UHI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 3:38 | 2023-01-23 | 2023-07-01 |
 | [Royals](https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 3:10 | 2022-10-07 | 2022-10-29 |

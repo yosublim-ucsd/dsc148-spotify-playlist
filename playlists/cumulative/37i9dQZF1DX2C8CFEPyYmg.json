@@ -700,7 +700,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 117902,
       "name": "Babblarnas vaggvisa",
       "url": "https://open.spotify.com/track/5uUBBxRCra5nkzhMDumebO"
@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 113631,
       "name": "Blanket Snuggles",
       "url": "https://open.spotify.com/track/7qIGCFkrCMnUPUk4dE6FSb"
@@ -1643,6 +1643,24 @@
     },
     {
       "album": {
+        "name": "Dear teddy",
+        "url": "https://open.spotify.com/album/3ZbPpGwQi06bp9PofzISBF"
+      },
+      "artists": [
+        {
+          "name": "Karl Schintz",
+          "url": "https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97000,
+      "name": "Dear teddy",
+      "url": "https://open.spotify.com/track/4McgjQHfTD9NkXCOOKhIcn"
+    },
+    {
+      "album": {
         "name": "Deep Sleep Lullaby",
         "url": "https://open.spotify.com/album/1PjWDhPpPkli4PX0npleRO"
       },
@@ -1690,7 +1708,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 102379,
       "name": "Det g\u00e5tfulla folket",
       "url": "https://open.spotify.com/track/3ysXp3PEaSxrT7ycMPtDlh"
@@ -1913,6 +1931,24 @@
     },
     {
       "album": {
+        "name": "Dreamland's Song",
+        "url": "https://open.spotify.com/album/6jKdF5s4iemCCfwaGA1AT5"
+      },
+      "artists": [
+        {
+          "name": "Becca Lopez",
+          "url": "https://open.spotify.com/artist/2mRiC2nopm5eEUJASCovKj"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91061,
+      "name": "Dreamland's Song",
+      "url": "https://open.spotify.com/track/6ruIhWb5MUGmahxV1fa4wY"
+    },
+    {
+      "album": {
         "name": "Dr\u00f6mmen om Vilma",
         "url": "https://open.spotify.com/album/3QNjK3ORQ4UukYUP8uxfem"
       },
@@ -1996,7 +2032,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 119587,
       "name": "Elvira Fattigans Song",
       "url": "https://open.spotify.com/track/32T5Fnw7yUvCeXzbsGznxB"
@@ -2014,7 +2050,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 105374,
       "name": "Endnu en dag",
       "url": "https://open.spotify.com/track/6fL7itT01Wt99xDdkmkVhC"
@@ -3166,7 +3202,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 149250,
       "name": "Idas sommarvisa",
       "url": "https://open.spotify.com/track/6EtjH6yR0XIHAY0PXRd65U"
@@ -3742,7 +3778,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 86307,
       "name": "Lilla snigel",
       "url": "https://open.spotify.com/track/72RPh1WtQGaABOxox0m6ha"
@@ -5182,7 +5218,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 134409,
       "name": "Ponnien min",
       "url": "https://open.spotify.com/track/1mdc6ZxW3Gtbm4slVI41r8"
@@ -5200,7 +5236,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 78065,
       "name": "Pop Goes the Weasel",
       "url": "https://open.spotify.com/track/4EsbzD1hbc4Kk7utFWGwIV"
@@ -5470,7 +5506,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 132644,
       "name": "Row Row Row Your Boat",
       "url": "https://open.spotify.com/track/47PMzPN17D3fj1V3tAayDD"
@@ -5668,7 +5704,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 161250,
       "name": "Skogen Sover",
       "url": "https://open.spotify.com/track/42EfNrLcYB9vMAnfi928Ci"
@@ -5956,7 +5992,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 175167,
       "name": "So Many Stars",
       "url": "https://open.spotify.com/track/54Mmafmblu61obktO4hibb"
@@ -6136,7 +6172,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 113124,
       "name": "Sov P\u00e5 Min Arm - Guitar Version",
       "url": "https://open.spotify.com/track/49INsxQEM7B4lAHbHXSuxD"
@@ -6287,6 +6323,24 @@
     },
     {
       "album": {
+        "name": "Cozy Evening",
+        "url": "https://open.spotify.com/album/1QfZNlNZN8UIaervJMkTlp"
+      },
+      "artists": [
+        {
+          "name": "Paige Rosen",
+          "url": "https://open.spotify.com/artist/5Tx246eTkaAi5ZzjBNyNmn"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168824,
+      "name": "Stars From Afar",
+      "url": "https://open.spotify.com/track/6xO6mruU9Ptgfm6VjA2cSa"
+    },
+    {
+      "album": {
         "name": "As You Fall Asleep",
         "url": "https://open.spotify.com/album/3Wh3lssmmWfvlTC3xouIXP"
       },
@@ -6424,7 +6478,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 95000,
       "name": "Su\u0308\u00dfe Tra\u0308ume",
       "url": "https://open.spotify.com/track/0K6U4UeGHbYO2lgIvHeHkt"
@@ -6500,6 +6554,24 @@
       "duration_ms": 137102,
       "name": "Take Me Out to the Ballgame",
       "url": "https://open.spotify.com/track/7zg3AH81GeAQWov5dNLTtI"
+    },
+    {
+      "album": {
+        "name": "Teddy Bear",
+        "url": "https://open.spotify.com/album/1LVv9eTEFERZ7aN28air3G"
+      },
+      "artists": [
+        {
+          "name": "Rennie Stoltz",
+          "url": "https://open.spotify.com/artist/0rQJK4fjWXU3Rk9Oee6GQc"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99609,
+      "name": "Teddy Bear",
+      "url": "https://open.spotify.com/track/5VZ6CpuKkrgVfQ65i2963o"
     },
     {
       "album": {
@@ -7216,7 +7288,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 95448,
       "name": "Trollmors vaggs\u00e5ng",
       "url": "https://open.spotify.com/track/10k4mNmHQBM3QIDOBe1QNT"
@@ -7378,7 +7450,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 93804,
       "name": "Ute Bl\u00e5ser Sommarvind (Summer Winds)",
       "url": "https://open.spotify.com/track/562NWFYtbkiYHG1DvUmxeu"
@@ -7414,7 +7486,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 134095,
       "name": "Vaggande Vind",
       "url": "https://open.spotify.com/track/3ius9yqo6NVnklcvkweRo0"
@@ -8044,7 +8116,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 99179,
       "name": "You Are My Sunshine",
       "url": "https://open.spotify.com/track/4jLF2h1ffk7I8y174WEPSU"
@@ -8116,7 +8188,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 154082,
       "name": "\u00c4nglavisan",
       "url": "https://open.spotify.com/track/4SguHSkq2W19T0Boveur1q"

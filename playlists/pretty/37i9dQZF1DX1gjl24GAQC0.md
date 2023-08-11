@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gjl24GAQC0.md) - [plain]
 
 > Is it your favorite oppa or dongsaeng? Cover:INFINITE \(인피니트\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 832,136 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 832,235 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gjl24GAQC0.md) - [plain]
 | 43 | [HALAZIA](https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SPIN OFF : FROM THE WITNESS](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) | 3:17 |
 | 44 | [FAKE LOVE](https://open.spotify.com/track/6m1TWFMeon7ai9XLOzdbiR) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 轉 'Tear'](https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O) | 4:02 |
 | 45 | [Beatbox](https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beatbox \- The 2nd Album Repackage](https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W) | 3:25 |
-| 46 | [Hear Me Out](https://open.spotify.com/track/44EXniDpWap2veS1gH1svO) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Hear Me Out](https://open.spotify.com/album/6CYyZb52ZwPm9wkwpCbMFJ) | 3:24 |
+| 46 | [JIKJIN](https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:04 |
 | 47 | [Given\-Taken](https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : DAY ONE](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) | 3:03 |
 | 48 | [VERY NICE](https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Love&Letter repackage album](https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB) | 3:12 |
-| 49 | [JIKJIN](https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:04 |
+| 49 | [Hear Me Out](https://open.spotify.com/track/44EXniDpWap2veS1gH1svO) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Hear Me Out](https://open.spotify.com/album/6CYyZb52ZwPm9wkwpCbMFJ) | 3:24 |
 | 50 | [Blue Hour](https://open.spotify.com/track/3ObPkJQAgjAhTwYvDhPrAW) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode1 : Blue Hour](https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr) | 3:29 |
 
-Snapshot ID: `MCwxOWQxNTFkN2JmMmQ5Y2UzYWE4OTkwMWVlZmJkZDZkNTFlNjA4NzA3`
+Snapshot ID: `MCw0ZjdlNTc2OTVjZGVmODQyYjA1ZTU3ZWVkMmQwMTc1ZDdiYTE4NTNh`

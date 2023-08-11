@@ -4,7 +4,7 @@
 
 > Time to mend your broken heart with beautiful melodies!
 
-95 songs - 6 hr 59 min
+96 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,8 +48,9 @@
 | [Kannamma](https://open.spotify.com/track/3gJbCMoDT9rUmPS1GPd6kn) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Ananthu](https://open.spotify.com/artist/2UbN2AxPOv8kc1x4J4SGjc) | [Kaala \(Tamil\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ypfdQ9KvJb9NizV0dqh8y) | 4:49 | 2021-09-15 |  |
 | [Kannamma \- Reprise](https://open.spotify.com/track/57C2emenhsov770NmD7Y6R) | [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [KO, 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2GxE0LCLBZx5gmtl4QrWXj) | 4:24 | 2021-09-15 | 2022-10-12 |
 | [Kulirudha Pulla](https://open.spotify.com/track/6Kj9YBTJ7n0JBBZrfoXWeG) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Oththa Seruppu](https://open.spotify.com/album/51VpovLUBjVnUMonbaFNaS) | 4:58 | 2021-09-15 | 2022-07-29 |
+| [Kulirudha Pulla](https://open.spotify.com/track/0PVHvi4FItQa70tXGPlRlf) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Sangeetha Karuppiah](https://open.spotify.com/artist/5P5uQfYGTqVWR3JacJUALa) | [Kulirudha Pulla](https://open.spotify.com/album/5nKopGtjKDctgEKS0jNOgO) | 4:58 | 2021-09-15 |  |
 | [Kulirudha Pulla](https://open.spotify.com/track/3spahFLlYT9DappCXaDdab) | [Sid Sriram,Sangeetha Karuppiah](https://open.spotify.com/artist/2lfF2TUhDa4VUdh005TvFR) | [Kulirudha Pulla \(From 'Oththa Serupu' Original Motion Picture Sound Track\)](https://open.spotify.com/album/0Ml5FUixqqkqbxqlgC3doV) | 4:58 | 2021-09-15 | 2023-08-01 |
-| [Love Polladhadhu](https://open.spotify.com/track/0zRMoH0hVNGD6p7pvIwLAi) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU), [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA) | [Mehandi Circus \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6713tySNYYapt7KIusXtBE) | 2:52 | 2021-09-15 |  |
+| [Love Polladhadhu](https://open.spotify.com/track/0zRMoH0hVNGD6p7pvIwLAi) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU), [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA) | [Mehandi Circus \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6713tySNYYapt7KIusXtBE) | 2:52 | 2021-09-15 | 2023-08-11 |
 | [Mannipaaya](https://open.spotify.com/track/7mMkw0JFKnyMS6oGRT6b3O) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Vinnathaandi Varuvaayaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1VAR4nGvZh6KW3PLioooYM) | 6:56 | 2021-09-15 |  |
 | [Marandhaye \- From "Teddy"](https://open.spotify.com/track/7lBWLsnWYvQOT95UhN7D46) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Marandhaye \(From "Teddy"\)](https://open.spotify.com/album/2s7bo4esKaDtKEKeYQD7st) | 4:59 | 2021-09-15 | 2023-07-31 |
 | [Miss You Papa](https://open.spotify.com/track/3oaJIrjlHgQkXHdIfBS0jg) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Priya Mali](https://open.spotify.com/artist/5PMrnGmlpH0l7Uc9DnnatM) | [Pyaar Prema Kaadhal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4byzDhvVyWc8kakTvxfejQ) | 1:33 | 2021-09-15 | 2022-07-29 |

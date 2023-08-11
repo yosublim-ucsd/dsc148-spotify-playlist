@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 
 > 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: CVLTE
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,060 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,096 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,20 +93,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 83 | [Bloom](https://open.spotify.com/track/360qOFQEAvNatJD65tMehi) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [BLOOMING](https://open.spotify.com/album/2XQmTky0Y8phmyKDurxUDN) | 3:50 |
 | 84 | [Drive Far](https://open.spotify.com/track/3eQEUcSoU3CCQBFa8NOq5X) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Hateful Failures](https://open.spotify.com/album/3wC8Keda4UuvaMsuhhqzdP) | 3:16 |
 | 85 | [living dead!!](https://open.spotify.com/track/3oamfw1nAipiBdqnnaIMHL) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [living dead!!](https://open.spotify.com/album/01wPQIcyuFaHT5OzqKjIVI) | 2:27 |
-| 86 | [Blooming the Tank\-top](https://open.spotify.com/track/2vBvV18PwrlUhTm9jaxhh6) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [Tank\-top Flower for Friends](https://open.spotify.com/album/2Ll3DZYOR4UKeswV5TADhu) | 2:12 |
-| 87 | [RISE](https://open.spotify.com/track/7IOWVbArUAldsxLamaQt8R) | [NEMOPHILA](https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp) | [RISE](https://open.spotify.com/album/6aigT9ZhKsG8bBVEx75JzH) | 3:21 |
-| 88 | [AREA PD](https://open.spotify.com/track/2vdO4HCh3Ya4B6U044UdCh) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [AREA PD](https://open.spotify.com/album/4QC4o5bDLPMDLPk4Hs2M22) | 2:57 |
-| 89 | [hedonist.](https://open.spotify.com/track/1ilxwybAc0Sd3Gwc4oRKgi) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [HEDONIST](https://open.spotify.com/album/2hJqttVXOCMHCGrfqkkuRl) | 2:55 |
+| 86 | [RISE](https://open.spotify.com/track/7IOWVbArUAldsxLamaQt8R) | [NEMOPHILA](https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp) | [RISE](https://open.spotify.com/album/6aigT9ZhKsG8bBVEx75JzH) | 3:21 |
+| 87 | [Blooming the Tank\-top](https://open.spotify.com/track/2vBvV18PwrlUhTm9jaxhh6) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [Tank\-top Flower for Friends](https://open.spotify.com/album/2Ll3DZYOR4UKeswV5TADhu) | 2:12 |
+| 88 | [hedonist.](https://open.spotify.com/track/1ilxwybAc0Sd3Gwc4oRKgi) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [HEDONIST](https://open.spotify.com/album/2hJqttVXOCMHCGrfqkkuRl) | 2:55 |
+| 89 | [AREA PD](https://open.spotify.com/track/2vdO4HCh3Ya4B6U044UdCh) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [AREA PD](https://open.spotify.com/album/4QC4o5bDLPMDLPk4Hs2M22) | 2:57 |
 | 90 | [Drain Water](https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:11 |
 | 91 | [Hunter or Prey](https://open.spotify.com/track/1mSzEhQw7CH50j9e97un0V) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [AXIS](https://open.spotify.com/album/3qKwhlHo13SRpExp9et5eQ) | 3:44 |
 | 92 | [True Self](https://open.spotify.com/track/3x0Uu5KT1NkYa07UpgbS6D) | [WHISPER OUT LOUD](https://open.spotify.com/artist/7594VeFTC59RzlfoXUq8VP) | [True Self](https://open.spotify.com/album/1uiHPKRGpdwSeBjqcBo9Ng) | 2:52 |
-| 93 | [ストラトキャスター シーサイド](https://open.spotify.com/track/49du8muj1Z8rgQ79oSDzE7) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [GIANTSTAMP](https://open.spotify.com/album/1jwFlxQGCk9MjlwTZVwmrj) | 3:12 |
-| 94 | [Party night in summer dream](https://open.spotify.com/track/02GDiKZ3QPc8vsCxQgX2Op) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Party night in summer dream](https://open.spotify.com/album/2qbXXPqL8VMNpVJYkUXEVS) | 3:05 |
+| 93 | [ギミ¥エン\~Give me yen](https://open.spotify.com/track/4DMxsnb7a1AT1j11z8M4rC) | [BACKSHOW](https://open.spotify.com/artist/3mD0HSVVmh2kNCfbdDlF1D) | [ギミ¥エン\~Give me yen](https://open.spotify.com/album/7cO4cBDEdMvJqzk04iye21) | 3:05 |
+| 94 | [ストラトキャスター シーサイド](https://open.spotify.com/track/49du8muj1Z8rgQ79oSDzE7) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [GIANTSTAMP](https://open.spotify.com/album/1jwFlxQGCk9MjlwTZVwmrj) | 3:12 |
 | 95 | [Steady](https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:30 |
-| 96 | [ギミ¥エン\~Give me yen](https://open.spotify.com/track/4DMxsnb7a1AT1j11z8M4rC) | [BACKSHOW](https://open.spotify.com/artist/3mD0HSVVmh2kNCfbdDlF1D) | [ギミ¥エン\~Give me yen](https://open.spotify.com/album/7cO4cBDEdMvJqzk04iye21) | 3:05 |
-| 97 | [Futurism](https://open.spotify.com/track/0JsP5I1JItAZYlOfCXnaax) | [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN) | [Futurism](https://open.spotify.com/album/6xj3q3QLSFJkqaBX3B9CYM) | 3:26 |
+| 96 | [hellsong\. \(let it in\)](https://open.spotify.com/track/44c8cYVjTFqJ5Yj6WyjMSQ) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [hellsong\. \(let it in\)](https://open.spotify.com/album/25BaXSn7LKFdhareEiMpjb) | 3:05 |
+| 97 | [Party night in summer dream](https://open.spotify.com/track/02GDiKZ3QPc8vsCxQgX2Op) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Party night in summer dream](https://open.spotify.com/album/2qbXXPqL8VMNpVJYkUXEVS) | 3:05 |
 | 98 | [NAME](https://open.spotify.com/track/38b2nMKtd1qiVBkULMQti2) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [RARA](https://open.spotify.com/album/6vV4OJGtCjvJD6OdaoCQ9c) | 3:55 |
-| 99 | [hellsong\. \(let it in\)](https://open.spotify.com/track/44c8cYVjTFqJ5Yj6WyjMSQ) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [hellsong\. \(let it in\)](https://open.spotify.com/album/25BaXSn7LKFdhareEiMpjb) | 3:05 |
+| 99 | [Futurism](https://open.spotify.com/track/0JsP5I1JItAZYlOfCXnaax) | [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN) | [Futurism](https://open.spotify.com/album/6xj3q3QLSFJkqaBX3B9CYM) | 3:26 |
 | 100 | [All We Need Is Summer Day](https://open.spotify.com/track/18lXaewmQrOOCMZDAv0QYM) | [9mm Parabellum Bullet](https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu) | [TIGHTROPE](https://open.spotify.com/album/4KpSEm7faORT0XUFZRTAJc) | 2:42 |
 
-Snapshot ID: `MCwzZTMyMWI4NzJkNDFkYjJhN2YxMmI2Mzk2OGE1ZmNiOTkzOTU2YTJm`
+Snapshot ID: `MCxmZGVlZDJmYzUxYTM0YjFiMTZiMmNlNWVlMDdlMjk1MWFlNDU5MGFh`

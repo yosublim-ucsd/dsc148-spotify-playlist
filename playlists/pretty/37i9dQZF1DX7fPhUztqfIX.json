@@ -1,12 +1,12 @@
 {
   "description": "Emerging sounds in worship from everywhere.",
-  "num_followers": 108049,
+  "num_followers": 108087,
   "original_name": "New & Bold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDc4MzlhMjA1ZTk2MzFjYmNkZGJhNzc0MzNhYWVhOWRjODE5ODI3",
+  "snapshot_id": "MCxhNzFkN2NlMTIzYmQ0Y2EyOWNkNGQxMjE1MjY4NTlmNzI5MTdiMzM4",
   "tracks": [
     {
       "added_at": "2021-06-12 04:00:40",
@@ -627,18 +627,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Champion (Studio Version)",
-        "url": "https://open.spotify.com/album/4wrSJzNpNFHcsy4UMw4NIS"
+        "name": "Awe + Wonder (Live)",
+        "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
       },
       "artists": [
         {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
         }
       ],
-      "duration_ms": 237013,
-      "name": "Champion - Studio Version",
-      "url": "https://open.spotify.com/track/6EyT2JF7yHUdAZo1kPHHAW"
+      "duration_ms": 389897,
+      "name": "Hosanna - Live",
+      "url": "https://open.spotify.com/track/3iCyKTgnCYAhYJKaGsBmg8"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -659,6 +663,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Champion (Studio Version)",
+        "url": "https://open.spotify.com/album/4wrSJzNpNFHcsy4UMw4NIS"
+      },
+      "artists": [
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 237013,
+      "name": "Champion - Studio Version",
+      "url": "https://open.spotify.com/track/6EyT2JF7yHUdAZo1kPHHAW"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Holy Water (Church Sessions)",
         "url": "https://open.spotify.com/album/0mV74LpIg6NbMUbAIOolKC"
       },
@@ -675,26 +695,6 @@
       "duration_ms": 464809,
       "name": "Holy Water - Church Sessions",
       "url": "https://open.spotify.com/track/2wkiIDEXYJUels0HbBkpvl"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Awe + Wonder (Live)",
-        "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
-      },
-      "artists": [
-        {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 389897,
-      "name": "Hosanna - Live",
-      "url": "https://open.spotify.com/track/3iCyKTgnCYAhYJKaGsBmg8"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Calm the Storm (Live)",
+        "url": "https://open.spotify.com/album/3jVReSnHC0ZO6JZZRIic1p"
+      },
+      "artists": [
+        {
+          "name": "Union Creative",
+          "url": "https://open.spotify.com/artist/5yU2qZj0bSVbYPXREUulnX"
+        }
+      ],
+      "duration_ms": 311406,
+      "name": "Calm the Storm (Live)",
+      "url": "https://open.spotify.com/track/0YoGf0jNg8nTUuWNKb8Ta9"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "What a Friend We Have in Jesus",
         "url": "https://open.spotify.com/album/5oiCKNE3Bxj6uSQ2LeeLum"
       },
@@ -1051,18 +1067,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Calm the Storm (Live)",
-        "url": "https://open.spotify.com/album/3jVReSnHC0ZO6JZZRIic1p"
+        "name": "The Worship Project, Vol. 2",
+        "url": "https://open.spotify.com/album/0y4vEdjKpRM5oQmLQvmURP"
       },
       "artists": [
         {
-          "name": "Union Creative",
-          "url": "https://open.spotify.com/artist/5yU2qZj0bSVbYPXREUulnX"
+          "name": "The Worship Project",
+          "url": "https://open.spotify.com/artist/1HfLz4ZQ8xPPzPeoS2iKi3"
+        },
+        {
+          "name": "Darrick Tam",
+          "url": "https://open.spotify.com/artist/7yRmKt0F9roUOE8nLsVvbH"
         }
       ],
-      "duration_ms": 311406,
-      "name": "Calm the Storm (Live)",
-      "url": "https://open.spotify.com/track/0YoGf0jNg8nTUuWNKb8Ta9"
+      "duration_ms": 365294,
+      "name": "Nothing Else",
+      "url": "https://open.spotify.com/track/38cEd6plDcyQrNci5QjIsc"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1087,26 +1107,6 @@
       "duration_ms": 241600,
       "name": "Daughters of Zion",
       "url": "https://open.spotify.com/track/1cOGwFxxHG1xtkKN8Eet5I"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "The Worship Project, Vol. 2",
-        "url": "https://open.spotify.com/album/0y4vEdjKpRM5oQmLQvmURP"
-      },
-      "artists": [
-        {
-          "name": "The Worship Project",
-          "url": "https://open.spotify.com/artist/1HfLz4ZQ8xPPzPeoS2iKi3"
-        },
-        {
-          "name": "Darrick Tam",
-          "url": "https://open.spotify.com/artist/7yRmKt0F9roUOE8nLsVvbH"
-        }
-      ],
-      "duration_ms": 365294,
-      "name": "Nothing Else",
-      "url": "https://open.spotify.com/track/38cEd6plDcyQrNci5QjIsc"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "All Of My Best Friends",
+        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 349000,
+      "name": "Uncomplicated - Live",
+      "url": "https://open.spotify.com/track/3ge06lwFn2X4s5UxN5Rj70"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Holy (Song Of The Ages) [Live]",
         "url": "https://open.spotify.com/album/6C9Qq5Z8dYzLayIRc3vPSB"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 381995,
       "name": "Holy (Song Of The Ages) - Live",
       "url": "https://open.spotify.com/track/48AddYWpZJG2ON0wA1Uae2"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "All Of My Best Friends",
-        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 349000,
-      "name": "Uncomplicated - Live",
-      "url": "https://open.spotify.com/track/3ge06lwFn2X4s5UxN5Rj70"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "You Are Fullness",
-        "url": "https://open.spotify.com/album/6eEbe6FfkDdyVfSQzo0lqo"
-      },
-      "artists": [
-        {
-          "name": "Young Oceans",
-          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
-        }
-      ],
-      "duration_ms": 320080,
-      "name": "You Are Fullness",
-      "url": "https://open.spotify.com/track/5iXbWHfGqdP4M2M1QmT73u"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Beyond",
         "url": "https://open.spotify.com/album/145V4EnRdnOBPsRcuDTgrd"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 320867,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/0md6zrFb7nhh9Gxr2hdUuo"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "You Are Fullness",
+        "url": "https://open.spotify.com/album/6eEbe6FfkDdyVfSQzo0lqo"
+      },
+      "artists": [
+        {
+          "name": "Young Oceans",
+          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
+        }
+      ],
+      "duration_ms": 320080,
+      "name": "You Are Fullness",
+      "url": "https://open.spotify.com/track/5iXbWHfGqdP4M2M1QmT73u"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1975,6 +1975,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Grace That Changes Everything",
+        "url": "https://open.spotify.com/album/1Q9VA5LKDn2Il5Q23nqDsS"
+      },
+      "artists": [
+        {
+          "name": "All Things New",
+          "url": "https://open.spotify.com/artist/6kttKGl3kQ86W1gnPBUUyG"
+        }
+      ],
+      "duration_ms": 195986,
+      "name": "Sound of Freedom",
+      "url": "https://open.spotify.com/track/2Ih9DwZ7JwBziNH2U3N0l2"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Never Going Back",
         "url": "https://open.spotify.com/album/4XuXyNQX9VnoxPMjQ0kk6H"
       },
@@ -1995,38 +2011,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Grace That Changes Everything",
-        "url": "https://open.spotify.com/album/1Q9VA5LKDn2Il5Q23nqDsS"
-      },
-      "artists": [
-        {
-          "name": "All Things New",
-          "url": "https://open.spotify.com/artist/6kttKGl3kQ86W1gnPBUUyG"
-        }
-      ],
-      "duration_ms": 195986,
-      "name": "Sound of Freedom",
-      "url": "https://open.spotify.com/track/2Ih9DwZ7JwBziNH2U3N0l2"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Breakthrough",
-        "url": "https://open.spotify.com/album/4CqjRUsp9hg8dNAuTWbbbl"
-      },
-      "artists": [
-        {
-          "name": "Battledrums",
-          "url": "https://open.spotify.com/artist/57a1IPwm1Fgo9aQSLeVyBJ"
-        }
-      ],
-      "duration_ms": 341328,
-      "name": "Edge of Heaven",
-      "url": "https://open.spotify.com/track/1yCXi0IcWoURNKCqGTubQ6"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Kingdom Dreamers",
         "url": "https://open.spotify.com/album/54YU74s9xFDTSHpVWYZud2"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 297070,
       "name": "Kingdom Dreamers",
       "url": "https://open.spotify.com/track/0AMdWRYpnj36Fw7EDtfAId"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/4CqjRUsp9hg8dNAuTWbbbl"
+      },
+      "artists": [
+        {
+          "name": "Battledrums",
+          "url": "https://open.spotify.com/artist/57a1IPwm1Fgo9aQSLeVyBJ"
+        }
+      ],
+      "duration_ms": 341328,
+      "name": "Edge of Heaven",
+      "url": "https://open.spotify.com/track/1yCXi0IcWoURNKCqGTubQ6"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2131,26 +2131,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Never Going Back",
-        "url": "https://open.spotify.com/album/4XuXyNQX9VnoxPMjQ0kk6H"
-      },
-      "artists": [
-        {
-          "name": "Cross Point Music",
-          "url": "https://open.spotify.com/artist/7J5NYM9bwpfxk3hiwQH27P"
-        },
-        {
-          "name": "Setnick Sene",
-          "url": "https://open.spotify.com/artist/1GWPXgfWARCEHj1unNonAE"
-        }
-      ],
-      "duration_ms": 257812,
-      "name": "No One (feat. Setnick Sene)",
-      "url": "https://open.spotify.com/track/3eVFaPhYojbmuqU3XiwjOl"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/4dTADOo6eZ7MztRDwgqHMz"
       },
@@ -2207,18 +2187,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "As For Me & My House (Live)",
-        "url": "https://open.spotify.com/album/7CjoBA22aQrRU51iirDwCJ"
+        "name": "Never Going Back",
+        "url": "https://open.spotify.com/album/4XuXyNQX9VnoxPMjQ0kk6H"
       },
       "artists": [
         {
-          "name": "Austin & Lindsey Adamec",
-          "url": "https://open.spotify.com/artist/4oLDDlPUpiKowrWoJLS94r"
+          "name": "Cross Point Music",
+          "url": "https://open.spotify.com/artist/7J5NYM9bwpfxk3hiwQH27P"
+        },
+        {
+          "name": "Setnick Sene",
+          "url": "https://open.spotify.com/artist/1GWPXgfWARCEHj1unNonAE"
         }
       ],
-      "duration_ms": 321683,
-      "name": "As For Me & My House - Live",
-      "url": "https://open.spotify.com/track/3lE1SQufZYWiTeHjjaOavK"
+      "duration_ms": 257812,
+      "name": "No One (feat. Setnick Sene)",
+      "url": "https://open.spotify.com/track/3eVFaPhYojbmuqU3XiwjOl"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2239,6 +2223,22 @@
       "duration_ms": 279653,
       "name": "Christ is Enough",
       "url": "https://open.spotify.com/track/3UienuMFU5MOlWH4VHs6G3"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "As For Me & My House (Live)",
+        "url": "https://open.spotify.com/album/7CjoBA22aQrRU51iirDwCJ"
+      },
+      "artists": [
+        {
+          "name": "Austin & Lindsey Adamec",
+          "url": "https://open.spotify.com/artist/4oLDDlPUpiKowrWoJLS94r"
+        }
+      ],
+      "duration_ms": 321683,
+      "name": "As For Me & My House - Live",
+      "url": "https://open.spotify.com/track/3lE1SQufZYWiTeHjjaOavK"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Only Name",
-        "url": "https://open.spotify.com/album/6UAzdz88by4X8abruMu5OC"
-      },
-      "artists": [
-        {
-          "name": "Bridge Worship",
-          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
-        }
-      ],
-      "duration_ms": 312132,
-      "name": "Only Name",
-      "url": "https://open.spotify.com/track/33ziB3AK9v2qYG4cw6D9lC"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "The King In All His Beauty",
         "url": "https://open.spotify.com/album/2FNhYGpwU2EXdBaZQ0v6ud"
       },
@@ -2347,18 +2331,34 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "When It Comes to You",
-        "url": "https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV"
+        "name": "Only Name",
+        "url": "https://open.spotify.com/album/6UAzdz88by4X8abruMu5OC"
       },
       "artists": [
         {
-          "name": "RNW Music",
-          "url": "https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi"
+          "name": "Bridge Worship",
+          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
         }
       ],
-      "duration_ms": 288777,
-      "name": "How Deep",
-      "url": "https://open.spotify.com/track/3OLozEYOpwDGOvpbE7LXPT"
+      "duration_ms": 312132,
+      "name": "Only Name",
+      "url": "https://open.spotify.com/track/33ziB3AK9v2qYG4cw6D9lC"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Altars",
+        "url": "https://open.spotify.com/album/3ODMG0dAX0ALnDlU7s7aes"
+      },
+      "artists": [
+        {
+          "name": "River Valley Worship",
+          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
+        }
+      ],
+      "duration_ms": 321533,
+      "name": "Both Sides",
+      "url": "https://open.spotify.com/track/0cLkp9J7Mh6GNUnbiCU1SJ"
     }
   ],
   "unique_name": "New & Bold",

@@ -689,6 +689,24 @@
     },
     {
       "album": {
+        "name": "The Lens",
+        "url": "https://open.spotify.com/album/6036RVl51B5aABchGu7ovm"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224957,
+      "name": "The Lens",
+      "url": "https://open.spotify.com/track/5Jgd7T6LCgGynv0mh6zPSq"
+    },
+    {
+      "album": {
         "name": "The Rat",
         "url": "https://open.spotify.com/album/7xfgBU8oYPEJ3zuyhBmoJ5"
       },

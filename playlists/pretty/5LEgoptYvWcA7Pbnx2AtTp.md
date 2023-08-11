@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 
 > Questionable in both morals and taste.
 
-[Daniel](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 5 likes - 67 songs - 3 hr 54 min
+[Daniel](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 5 likes - 70 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,5 +75,8 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 | 65 | [Stop Being Poor](https://open.spotify.com/track/2n0OJhTkQBLw3mJyUbXI7D) | [ziwe](https://open.spotify.com/artist/4MPEpqfNghhc9u2QZhveib), [Patti Harrison](https://open.spotify.com/artist/3BNcOjxzqOP2N71Ygdw0Bk) | [Ziwe: a Famously Iconic Soundtrack \- EP](https://open.spotify.com/album/1gBsz23p2pNQJYyudz3cmm) | 2:14 |
 | 66 | [No One Lives Forever](https://open.spotify.com/track/3kdSHY9ZQIjyg4Q68YG4Qz) | [Oingo Boingo](https://open.spotify.com/artist/5LXEAEGrpKQtpyCu2sZuWu) | [Dead Man's Party](https://open.spotify.com/album/44Q1H1q6nSnUnjjGPoxAJb) | 4:14 |
 | 67 | [Insanity \- Live](https://open.spotify.com/track/6oLNowpcdWveCBm5l52Wwj) | [Oingo Boingo](https://open.spotify.com/artist/5LXEAEGrpKQtpyCu2sZuWu) | [Farewell: Live From The Universal Amphitheatre\-Halloween 1995](https://open.spotify.com/album/1wqqDRJCbYsK9QSjNR55e5) | 7:42 |
+| 68 | [Starkiller](https://open.spotify.com/track/7azVZvIvANuD4sLlwqs2g2) | [Bear Ghost](https://open.spotify.com/artist/1N1JZ3SRv6PSzAsOEW2aZp) | [Blasterpiece](https://open.spotify.com/album/1QGh29u6gecFcSXOVloWEX) | 3:49 |
+| 69 | [Haunt, The Cartoon Heart](https://open.spotify.com/track/07wdHt1i1Mhba54cjKvDM1) | [Bear Ghost](https://open.spotify.com/artist/1N1JZ3SRv6PSzAsOEW2aZp) | [Haunt, The Cartoon Heart](https://open.spotify.com/album/5Auri0aA3uPJJWVFvqK07e) | 3:38 |
+| 70 | [Dotab](https://open.spotify.com/track/4ODJ8ptwnVtxXs4d71eHNJ) | [Bear Ghost](https://open.spotify.com/artist/1N1JZ3SRv6PSzAsOEW2aZp) | [Your Parents Are Only Marginally Disappointed in Your Musical Taste](https://open.spotify.com/album/15b8BZbbE9M7Dx2twH81p0) | 4:34 |
 
-Snapshot ID: `OTUsNWY1MmVkY2QwYjBlZGE5MmMwYzBlNDExMzk2MWQwMDhlYTQ1NGI3Mw==`
+Snapshot ID: `OTgsNDc4ZjM4NGU5MzU0YzgzNjU0ZmUwMDM3ZmYzY2ZkNWI4ZDZiZWMyYQ==`

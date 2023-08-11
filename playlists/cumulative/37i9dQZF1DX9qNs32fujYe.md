@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Avenged Sevenfold
 
-735 songs - 2 day 6 hr 37 min
+736 songs - 2 day 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,7 +423,8 @@
 | [Night Witches](https://open.spotify.com/track/1xBRGN41DWx2vwNFY5CvGe) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Heroes](https://open.spotify.com/album/5TdhTTvwtD0ekZBYve97r7) | 3:01 | 2021-12-17 | 2022-01-08 |
 | [No More Hollywood Endings](https://open.spotify.com/track/4LlEtj8I2XUhkrXFzBBtFJ) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [No More Hollywood Endings](https://open.spotify.com/album/7H4gPkbdQlDM7jRTRnsnyO) | 3:54 | 2021-12-17 | 2023-03-11 |
 | [No More Tears](https://open.spotify.com/track/7w6PJe5KBPyvuRYxFkPssC) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 7:23 | 2022-07-29 | 2023-04-22 |
-| [No One Like You](https://open.spotify.com/track/26fZwf1ImE4aUJ4XaqOkUg) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr) | 3:57 | 2022-08-19 |  |
+| [No One Like You](https://open.spotify.com/track/26fZwf1ImE4aUJ4XaqOkUg) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr) | 3:57 | 2022-08-19 | 2023-08-11 |
+| [No One Like You \- 2015 Remaster](https://open.spotify.com/track/0hLQWHwB6GZlkASpS7DkdW) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/5FdpusvFzKwUmygqmgDzKG) | 3:58 | 2023-05-26 |  |
 | [No Prayer At Midnight](https://open.spotify.com/track/0VEYwIJluTQyPwq5y86EeZ) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [No Prayer At Midnight](https://open.spotify.com/album/32KYjm5c695xOIy3yL33AT) | 3:41 | 2023-03-10 | 2023-05-23 |
 | [Nobody](https://open.spotify.com/track/4tjTsxTBcacHcx0AvWERLE) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nobody](https://open.spotify.com/album/4SeaFQDKygggRW9lrmwAhy) | 5:53 | 2023-03-22 |  |
 | [Nobody's Fool](https://open.spotify.com/track/01Q4wU19hamqnhNjtuvTyI) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Night Songs](https://open.spotify.com/album/6Af1uU7Di8q9oHyXpgvrmY) | 4:47 | 2022-08-19 |  |

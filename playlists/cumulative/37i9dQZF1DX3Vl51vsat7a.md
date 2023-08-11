@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Dilla
 
-224 songs - 12 hr 5 min
+227 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Make You Scream](https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Make You Scream](https://open.spotify.com/album/6D7tuGipq3Q40SgM47rW46) | 2:43 | 2022-06-02 | 2022-07-08 |
 | [Mandala](https://open.spotify.com/track/3kY3lHSYB7Ow8hJl6whIBu) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Mandala](https://open.spotify.com/album/4dnEXvpTeEzyaN9zrk5hNX) | 2:01 | 2023-03-16 |  |
 | [megapunk \- TSHA Remix](https://open.spotify.com/track/1d87n4WnUawIAyqAEGn6ps) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [megapunk \(remixes\)](https://open.spotify.com/album/5bDFznntVIsvDmvjnzjaEs) | 4:40 | 2021-12-16 | 2022-12-02 |
-| [mein Bestes](https://open.spotify.com/track/1jZRoK2NYNfJ714ZCUejZQ) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [Wind](https://open.spotify.com/album/2y7fLVS5J30B7CxzwDSdDf) | 3:01 | 2022-10-27 |  |
+| [mein Bestes](https://open.spotify.com/track/1jZRoK2NYNfJ714ZCUejZQ) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [Wind](https://open.spotify.com/album/2y7fLVS5J30B7CxzwDSdDf) | 3:01 | 2022-10-27 | 2023-08-11 |
 | [Mercurial Vapor](https://open.spotify.com/track/5hWmJ3vuMbBHdJYpKXGdm3) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Mercurial Vapor](https://open.spotify.com/album/5PlEkgdwrcOFk7n9OPajCZ) | 3:05 | 2022-12-08 | 2023-04-07 |
 | [Mercy Stroke](https://open.spotify.com/track/45Me6oIEz4AlHq7E8cNfcF) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Mercy Stroke](https://open.spotify.com/album/2gIICHzjGClgUbObjPauqK) | 2:45 | 2022-03-17 | 2022-06-10 |
 | [mietfrei](https://open.spotify.com/track/1CknK1sYAhoYxZEs5OfqEq) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA) | [mietfrei](https://open.spotify.com/album/3MWijTaxJrKLKeY1VmcwyH) | 2:21 | 2023-07-20 |  |
@@ -147,6 +147,7 @@
 | [nie wieder wegrennen](https://open.spotify.com/track/1E9inOEvd8MyLeosUaOFNP) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [nie wieder wegrennen](https://open.spotify.com/album/2PuC50H1fnvm82PWEG4sja) | 2:10 | 2023-06-08 |  |
 | [Nirvana](https://open.spotify.com/track/09QQd4SG87DKuel4BVYkfT) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Nirvana](https://open.spotify.com/album/6l917ziBG07nTM0CDjAxwb) | 3:31 | 2022-12-15 | 2023-04-14 |
 | [Nirvana](https://open.spotify.com/track/5xl244VVxvCmvUEAJn40CW) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Nirvana](https://open.spotify.com/album/64l6m4xbHEHyiEeMkHlMk2) | 3:31 | 2022-12-01 | 2022-12-17 |
+| [No](https://open.spotify.com/track/7bg9faMjJDmN8VKC9gss9x) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [The Good Life](https://open.spotify.com/album/4zDORUOtdnZm1x4IhgMtAD) | 3:36 | 2023-08-10 |  |
 | [No Future? No Thanks!](https://open.spotify.com/track/5wljLwi5DUKFyY2ASdvi8A) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [No Future? No Thanks!](https://open.spotify.com/album/0p0ZCH8pVZBM0BlcgHJRpv) | 2:40 | 2022-06-09 | 2022-07-22 |
 | [Nothing to Me](https://open.spotify.com/track/2pVZpUlgPZSSfTP9nFs6kn) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [Nothing to Me](https://open.spotify.com/album/7fiGgJfGWFRGHmNil6Wg7x) | 3:13 | 2022-04-14 | 2023-06-23 |
 | [Novaacation](https://open.spotify.com/track/6TO8fVn8D5jVyGOK7p1kjz) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm), [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [Novaacation](https://open.spotify.com/album/0Z0zEpXCB3RfEDTVQIfWm4) | 3:20 | 2023-07-20 |  |
@@ -157,6 +158,7 @@
 | [Paranoid](https://open.spotify.com/track/0HMqKvy71TIbFMZP573ggQ) | [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [Complex Happenings Reduced To A Simple Design](https://open.spotify.com/album/759AQPUMn36dDf7cRSwsmF) | 3:16 | 2021-12-16 |  |
 | [Paris](https://open.spotify.com/track/7EccqOi4GK8kASKFnZsdla) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Paris](https://open.spotify.com/album/5hlFHVDj6WhfEvqCf50n2V) | 2:40 | 2021-12-16 | 2022-03-04 |
 | [Party Sahne](https://open.spotify.com/track/47gFO4wiq9rLJo9vz0DP3q) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7), [Ericson](https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa) | [Party Sahne](https://open.spotify.com/album/6vcV95HX3EIghNFsoOgbDC) | 2:17 | 2022-12-01 | 2023-01-06 |
+| [Paula](https://open.spotify.com/track/5WgCx3Lcq48Vj2kJUYmK8I) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [Paula](https://open.spotify.com/album/751dH1KYjFvLpraxTQ64nS) | 3:16 | 2023-08-10 |  |
 | [Physical Aspects Of Disco](https://open.spotify.com/track/10UQj7uJ2RPG481QII1xpv) | [Kellerkind](https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA) | [Somebody EP](https://open.spotify.com/album/5pU5K5SdRh93tZ7gOrJ2s7) | 6:26 | 2023-03-16 |  |
 | [pressure & release](https://open.spotify.com/track/6BzTik1v9IdQpXMxsBXAsY) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [pressure & release](https://open.spotify.com/album/2aCwGrHZVzuNtjUlxZY9JU) | 3:20 | 2023-02-02 | 2023-04-14 |
 | [REMIND ME](https://open.spotify.com/track/3sQwXoHktwhzOKT2rFBo9Z) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [REMIND ME](https://open.spotify.com/album/084HROOXCRrykD5zzuGXZ1) | 5:32 | 2022-08-18 | 2022-09-09 |
@@ -211,7 +213,8 @@
 | [Unsinn](https://open.spotify.com/track/13Hjp3sOQxtR0TV0jdaxpM) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [Unsinn](https://open.spotify.com/album/5TmRpfo2XOG8CQZrK0QS68) | 2:55 | 2023-03-23 | 2023-06-30 |
 | [Vitamins](https://open.spotify.com/track/5aLY8E1e60iaI4gVCCD7OK) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [She's A Star](https://open.spotify.com/album/3YDJfL56ce6fcxL4tWxvg6) | 2:59 | 2022-05-26 | 2023-06-16 |
 | [VOICEMAIL](https://open.spotify.com/track/25gIGyYd4Q9kHJ7Fvsa9RP) | [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [VOICEMAIL](https://open.spotify.com/album/0wg7TKWgd0ZdhSif29VuKu) | 4:10 | 2022-07-21 | 2023-07-28 |
-| [Voices in the night](https://open.spotify.com/track/2YjKf6uFXGiJMJPpjnAFOd) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74) | [Voices in the night](https://open.spotify.com/album/2wkJZs5zCPt0PCK7qpowd2) | 2:54 | 2023-06-29 |  |
+| [Voices](https://open.spotify.com/track/31jjzf6a02K6vzE3jvzDer) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74) | [Voices](https://open.spotify.com/album/1gr2ElW62Qg00AybMlJdw0) | 2:49 | 2023-08-10 |  |
+| [Voices in the night](https://open.spotify.com/track/2YjKf6uFXGiJMJPpjnAFOd) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74) | [Voices in the night](https://open.spotify.com/album/2wkJZs5zCPt0PCK7qpowd2) | 2:54 | 2023-06-29 | 2023-08-11 |
 | [Walk Away](https://open.spotify.com/track/3XQDYyBoAeP7Agcx4YCwHS) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Walk Away](https://open.spotify.com/album/2C6u68wrYE0McXsrMRPogc) | 2:49 | 2021-12-16 | 2022-12-02 |
 | [Walls](https://open.spotify.com/track/4cMDIe5aH8h6B8MzF18xty) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [Walls](https://open.spotify.com/album/4baIsWWMXbmfBg8d93VAU1) | 2:59 | 2023-06-22 |  |
 | [Walls Around Me](https://open.spotify.com/track/3kymiOCRjfkuueb0HD2nNX) | [Darksidevinyl](https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0), [Kellerkind](https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA) | [Walls Around Me EP](https://open.spotify.com/album/0MkBm4v1xnbLiD0sh6lAJn) | 6:41 | 2021-12-16 | 2023-03-18 |
@@ -223,7 +226,7 @@
 | [WER, WENN NICHT WIR?](https://open.spotify.com/track/5v0oqncTY2wOweL6unFnbQ) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS) | [WER, WENN NICHT WIR?](https://open.spotify.com/album/4fBtvg2ixMyybD5YB33gn5) | 2:05 | 2022-05-26 | 2022-07-15 |
 | [What If the Dead Dream](https://open.spotify.com/track/748LdQj3Lhiynqf3XdTqlr) | [Agoria](https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [What If the Dead Dream](https://open.spotify.com/album/4DNxWrwCw1MeHxgDLNezGT) | 3:39 | 2021-12-16 | 2022-12-02 |
 | [Wien](https://open.spotify.com/track/65caFJtNCC6xdSBUXZivw2) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [MINI](https://open.spotify.com/album/7w1GycA2X3co1x2JLj1G6e) | 2:16 | 2023-03-02 |  |
-| [Would Do It Again](https://open.spotify.com/track/4DJyKfX1ImzBnINTXUzKkQ) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Would Do It Again](https://open.spotify.com/album/7zy3Gc7G6GoZk8ULpp0kAl) | 3:06 | 2023-06-29 |  |
+| [Would Do It Again](https://open.spotify.com/track/4DJyKfX1ImzBnINTXUzKkQ) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Would Do It Again](https://open.spotify.com/album/7zy3Gc7G6GoZk8ULpp0kAl) | 3:06 | 2023-06-29 | 2023-08-11 |
 | [WOW](https://open.spotify.com/track/1oMc6wSttdm9hUmovca5RJ) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [WOW / OBAMA FREESTYLE](https://open.spotify.com/album/4seApoijgdNaChd2Y2JrDx) | 1:55 | 2023-07-06 |  |
 | [You Problem](https://open.spotify.com/track/4KQODLeXGCDfixEiUX6aDF) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa), [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [You Problem](https://open.spotify.com/album/11Bw22nnuAXof2MQL30MIu) | 3:01 | 2023-02-16 |  |
 | [Zerrissen](https://open.spotify.com/track/3X0nFQWGJw0FQp6A3uVhgl) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Zerrissen](https://open.spotify.com/album/3wWEzUcLrvF0ONRDJh3dur) | 3:24 | 2023-04-20 |  |

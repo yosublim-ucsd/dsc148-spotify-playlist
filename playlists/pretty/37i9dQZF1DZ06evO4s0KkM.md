@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 
 > This is Dropkick Murphys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,149 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,193 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 | 22 | [Cadence To Arms](https://open.spotify.com/track/5YHOnqIrjhRy5ThzFRWONC) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Do Or Die](https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk) | 1:49 |
 | 23 | [Walk Away](https://open.spotify.com/track/2S22odTX2oIV6GxRoRN19h) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Blackout](https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza) | 2:51 |
 | 24 | [Turn Up That Dial](https://open.spotify.com/track/7MrhtohRvCMwPC7VPcNzru) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Version\)](https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd) | 3:42 |
-| 25 | [Rippin Up The Boundary Line \(feat\. Jesse Ahern\)](https://open.spotify.com/track/4MRZXY4jBPHxGJ1nDr7Avi) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx), [Jesse Ahern](https://open.spotify.com/artist/6r0uPWjVNMn86oxk3A2jta) | [Okemah Rising](https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK) | 3:27 |
-| 26 | [The Rocky Road to Dublin](https://open.spotify.com/track/5GVSpPvjk06BPsr8DhwFtM) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Sing Loud, Sing Proud](https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K) | 2:37 |
+| 25 | [The Rocky Road to Dublin](https://open.spotify.com/track/5GVSpPvjk06BPsr8DhwFtM) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Sing Loud, Sing Proud](https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K) | 2:37 |
+| 26 | [Rippin Up The Boundary Line \(feat\. Jesse Ahern\)](https://open.spotify.com/track/4MRZXY4jBPHxGJ1nDr7Avi) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx), [Jesse Ahern](https://open.spotify.com/artist/6r0uPWjVNMn86oxk3A2jta) | [Okemah Rising](https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK) | 3:27 |
 | 27 | [Barroom Hero](https://open.spotify.com/track/0kVyKxg7SMIB3NnduRdo6n) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Do Or Die](https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk) | 2:57 |
 | 28 | [Ten Times More](https://open.spotify.com/track/0t7KczDGPmOyW71qw9xMnh) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [This Machine Still Kills Fascists \(Expanded Edition\)](https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB) | 2:11 |
 | 29 | [Going Out In Style](https://open.spotify.com/track/0I90T32j5YVYMdD4zi2Naf) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Going Out In Style](https://open.spotify.com/album/4Adk6f8Ikbd17xCYWRpE1r) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 | 49 | [Kiss Me I'm \#!@'faced](https://open.spotify.com/track/76JBKwPnXX4SjpTrOMfTNM) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Blackout](https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza) | 5:34 |
 | 50 | [I Know How It Feels](https://open.spotify.com/track/3gd0PGrjI49TL1keClyFBh) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [I Know How It Feels](https://open.spotify.com/album/5yWpmbHjwTVx2sVTkrr8KI) | 2:46 |
 
-Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDAyZGFhMjgwMDcwMDllYTc4ZDQ3MThkNzE4M2I2NjNkNA==`
+Snapshot ID: `MjgxOTQ1NjMsMDAwMDAwMDA1MTQ1MDZlNWRjNjNlYmFiMjZjOGZmNWJhMTJkZmI0MA==`

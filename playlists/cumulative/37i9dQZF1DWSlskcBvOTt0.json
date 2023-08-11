@@ -648,7 +648,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 295360,
       "name": "ARCO",
       "url": "https://open.spotify.com/track/2jmW1L3I4VjAS5wMf1qpug"
@@ -852,7 +852,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 214500,
       "name": "Back to the Days",
       "url": "https://open.spotify.com/track/7DtMXfDUpgXx9PjZrPLaNh"
@@ -1330,6 +1330,24 @@
       "duration_ms": 285853,
       "name": "Body Language",
       "url": "https://open.spotify.com/track/4F37VC3DflPXQcwbrnoi0Y"
+    },
+    {
+      "album": {
+        "name": "Body Test",
+        "url": "https://open.spotify.com/album/3UWe1hWpXDXHLT7h6nTKex"
+      },
+      "artists": [
+        {
+          "name": "Enamour",
+          "url": "https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413046,
+      "name": "Body Test",
+      "url": "https://open.spotify.com/track/0Il22rqYWjY4nDpQp3XpLP"
     },
     {
       "album": {
@@ -2118,7 +2136,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-31",
+      "date_removed": null,
       "duration_ms": 212000,
       "name": "Desert Walk",
       "url": "https://open.spotify.com/track/4iDWPaBVgX8U0Sm7stDHoY"
@@ -7945,7 +7963,7 @@
     },
     {
       "album": {
-        "name": "Strangers (Do You Remember) [feat. Yas Cepeda & EURI]",
+        "name": "Strangers (Do You Remember) [feat. Yas Cepeda]",
         "url": "https://open.spotify.com/album/07q9L0C9VnsMoiS4V0TZxc"
       },
       "artists": [
@@ -7964,17 +7982,13 @@
         {
           "name": "Yas Cepeda",
           "url": "https://open.spotify.com/artist/0QJLIqgHuWkj89BqRArjRP"
-        },
-        {
-          "name": "EURI",
-          "url": "https://open.spotify.com/artist/0veabgheMC6NnyTEbFUI5u"
         }
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 191612,
-      "name": "Strangers (Do You Remember) [feat. Yas Cepeda & EURI]",
+      "name": "Strangers (Do You Remember) [feat. Yas Cepeda]",
       "url": "https://open.spotify.com/track/5OcKFs8X1MDhK6IT3mMIbo"
     },
     {

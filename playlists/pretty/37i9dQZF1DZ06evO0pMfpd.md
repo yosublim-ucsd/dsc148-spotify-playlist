@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0pMfpd.md) - [plain]
 
 > This is Mi Banda El Mexicano\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,546 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,585 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0pMfpd.md) - [plain]
 | 34 | [Mambo Acelerado \(Merengue Acelera'o\)](https://open.spotify.com/track/3szGgpDpvcxXYYP70GA9OP) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [100% Mexicano](https://open.spotify.com/album/17yt3UAKnR8zU02tqgwYdh) | 3:59 |
 | 35 | [Lupe](https://open.spotify.com/track/14bNHkved5kkoPebKfoU9j) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Banda el Mexicano](https://open.spotify.com/album/6XS5KBlreLUQlz9OU8ZzaI) | 3:08 |
 | 36 | [Las Nachas](https://open.spotify.com/track/2LQ4m8ippuDqoUp1xBNEhh) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Pa'que Lo Bailes](https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb) | 2:40 |
-| 37 | [Ramito de Violetas 2.0](https://open.spotify.com/track/7rfgRQJHAaKvMtJJveP8Yv) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5), [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR), [JOS BRAHAM](https://open.spotify.com/artist/1vRhcBEENG0mzx8UzTIH9x), [Banda La Fugitiva De Mike Miramontes](https://open.spotify.com/artist/20lftkHSXXaaNVpe3Y2W2J) | [Ramito de Violetas 2.0](https://open.spotify.com/album/67ANX7NhtANRGsg4iS4cNh) | 4:21 |
-| 38 | [Que Güera](https://open.spotify.com/track/6UlhTa0PQQmZKy4KndGg2A) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Fuera de Serie](https://open.spotify.com/album/6ETwpYUJD00AlKGErRAqEy) | 3:20 |
+| 37 | [Que Güera](https://open.spotify.com/track/6UlhTa0PQQmZKy4KndGg2A) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Fuera de Serie](https://open.spotify.com/album/6ETwpYUJD00AlKGErRAqEy) | 3:20 |
+| 38 | [Ramito de Violetas 2.0](https://open.spotify.com/track/7rfgRQJHAaKvMtJJveP8Yv) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5), [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR), [JOS BRAHAM](https://open.spotify.com/artist/1vRhcBEENG0mzx8UzTIH9x), [Banda La Fugitiva De Mike Miramontes](https://open.spotify.com/artist/20lftkHSXXaaNVpe3Y2W2J) | [Ramito de Violetas 2.0](https://open.spotify.com/album/67ANX7NhtANRGsg4iS4cNh) | 4:21 |
 | 39 | [El Borrachito \- En Vivo](https://open.spotify.com/track/5DtAFHmOdpjwi98AqbtsJa) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5), [Marco Flores Y La Jerez](https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80) | [El Borrachito \- En Vivo](https://open.spotify.com/album/0sIgGD1443PKB9P0gp1Nn2) | 4:22 |
 | 40 | [Mambo No\. 5](https://open.spotify.com/track/7BzDaOzYt5C0rLxRmMIUwz) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [¡Todos a Bailar! Mambos al Estilo de El Mexicano](https://open.spotify.com/album/4N676CqMcjrtodL3i2qyAM) | 3:40 |
 | 41 | [Rabia Y Dolor](https://open.spotify.com/track/1K2Ohi9UBIbuMjBUcwNiu2) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [100% Mexicano](https://open.spotify.com/album/17yt3UAKnR8zU02tqgwYdh) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0pMfpd.md) - [plain]
 | 49 | [Sueño](https://open.spotify.com/track/5wvzzRY88HCuzbNfYJX4Dn) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [100% Mexicano](https://open.spotify.com/album/17yt3UAKnR8zU02tqgwYdh) | 4:37 |
 | 50 | [Tu Y Las Nubes](https://open.spotify.com/track/4PG9xHq6APPuMPcqREe9ql) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [El Hijo Desobediente](https://open.spotify.com/album/7bjdR83yDkSaQXBcqkMI6J) | 2:54 |
 
-Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDA5MWRkYTA0MzdlYzU1MjcxNTcxZGQ5M2E4MzRjNmIyZA==`
+Snapshot ID: `MjgxOTQ1NjQsMDAwMDAwMDBkMDY3MGUxNGQ3YzVmNGE3OGFhNTViYjk4MmRiMTQwYw==`

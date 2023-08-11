@@ -933,6 +933,24 @@
     },
     {
       "album": {
+        "name": "Diggin' it",
+        "url": "https://open.spotify.com/album/2CNL5ENonEzX7k7ClWiqjG"
+      },
+      "artists": [
+        {
+          "name": "Charlie Regan Three",
+          "url": "https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227147,
+      "name": "Diggin' it",
+      "url": "https://open.spotify.com/track/6pnMupVd27afvvGyzo8iRt"
+    },
+    {
+      "album": {
         "name": "Dipping Birds",
         "url": "https://open.spotify.com/album/2HpAQ9RPhao2ErPp3LLlGx"
       },
@@ -948,6 +966,24 @@
       "duration_ms": 194228,
       "name": "Dipping Birds",
       "url": "https://open.spotify.com/track/3JtvojpnCGBLdalXoPpw4l"
+    },
+    {
+      "album": {
+        "name": "Distracting Myself",
+        "url": "https://open.spotify.com/album/0zppZ3MWAJT9FpmfiJuxL0"
+      },
+      "artists": [
+        {
+          "name": "Ben Lively",
+          "url": "https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223363,
+      "name": "Distracting Myself",
+      "url": "https://open.spotify.com/track/5TlNodOiMdtKag4o312jwh"
     },
     {
       "album": {
@@ -2929,6 +2965,24 @@
     },
     {
       "album": {
+        "name": "My Shining Hour",
+        "url": "https://open.spotify.com/album/7uqCrcgqBpD40AI8MrAxh1"
+      },
+      "artists": [
+        {
+          "name": "Avery Miller",
+          "url": "https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143500,
+      "name": "My Shining Hour",
+      "url": "https://open.spotify.com/track/0IBOhB35u9pJLdNSWFuCpM"
+    },
+    {
+      "album": {
         "name": "My Sweetest You",
         "url": "https://open.spotify.com/album/1BxZWb9WVLtpAjSLX25sRq"
       },
@@ -3300,7 +3354,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 287479,
       "name": "Pensativa",
       "url": "https://open.spotify.com/track/1QVNZXoguyS3bBzMldMn7i"
@@ -4003,6 +4057,24 @@
     },
     {
       "album": {
+        "name": "Strawberry Snow Cones For Two",
+        "url": "https://open.spotify.com/album/578scmNeIm4OpGwLnlAd8Q"
+      },
+      "artists": [
+        {
+          "name": "Andy Miller Group",
+          "url": "https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214569,
+      "name": "Strawberry Snow Cones For Two",
+      "url": "https://open.spotify.com/track/1j2stEmsymDnJNi1uPZ1rD"
+    },
+    {
+      "album": {
         "name": "Sunset over Paris",
         "url": "https://open.spotify.com/album/0VBhxJPWzkCEEuRMlOKpTF"
       },
@@ -4277,6 +4349,24 @@
     },
     {
       "album": {
+        "name": "The Fool That Fell For You",
+        "url": "https://open.spotify.com/album/5uY11ROa2tDY8XYnD4cj2R"
+      },
+      "artists": [
+        {
+          "name": "Most Iverson",
+          "url": "https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270976,
+      "name": "The Fool That Fell For You",
+      "url": "https://open.spotify.com/track/6I55pPROwwFjd5rPTwMHlH"
+    },
+    {
+      "album": {
         "name": "The Getaway",
         "url": "https://open.spotify.com/album/140DzepgudObqMe1uv4W1f"
       },
@@ -4364,6 +4454,24 @@
       "duration_ms": 301306,
       "name": "The One I Love Belongs To Somebody Else",
       "url": "https://open.spotify.com/track/5NhuQJvgVRcZ0RgK9G2xoe"
+    },
+    {
+      "album": {
+        "name": "The Only One Was Me",
+        "url": "https://open.spotify.com/album/6AG3KpztkGqP75pX37ph1W"
+      },
+      "artists": [
+        {
+          "name": "The Bob Davis Group",
+          "url": "https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257577,
+      "name": "The Only One Was Me",
+      "url": "https://open.spotify.com/track/5NLi9si71C7qKhksdIJje2"
     },
     {
       "album": {
@@ -4472,6 +4580,24 @@
       "duration_ms": 218799,
       "name": "This sweet pet",
       "url": "https://open.spotify.com/track/2Bv8LgnuZkVg6P6ZPsfuwB"
+    },
+    {
+      "album": {
+        "name": "Till There Was You",
+        "url": "https://open.spotify.com/album/0ab5U3SnyooRTgP2uFXejL"
+      },
+      "artists": [
+        {
+          "name": "Mayfare Trio",
+          "url": "https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155091,
+      "name": "Till There Was You",
+      "url": "https://open.spotify.com/track/3FpMFIImpOZfAXQjsOBmkh"
     },
     {
       "album": {
@@ -4598,6 +4724,24 @@
       "duration_ms": 153060,
       "name": "What A Little Moonlight Can Do",
       "url": "https://open.spotify.com/track/33sW1w6GqKgSolhokSdhpd"
+    },
+    {
+      "album": {
+        "name": "What room you in?",
+        "url": "https://open.spotify.com/album/2pJzyAeVLq0Ms0xA258gHE"
+      },
+      "artists": [
+        {
+          "name": "Ornette Haynes",
+          "url": "https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197484,
+      "name": "What room you in?",
+      "url": "https://open.spotify.com/track/0aq8Ox33II1IE0fubT3YDe"
     },
     {
       "album": {

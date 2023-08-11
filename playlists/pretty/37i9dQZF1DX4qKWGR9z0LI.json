@@ -1,12 +1,12 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Adolescent's Orquestra",
-  "num_followers": 1838587,
+  "num_followers": 1838684,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzE0OTE2MzZjZjFlMmFiODg1YWQ4NGJlMzVmODMxMTA3ZGIyNWRh",
+  "snapshot_id": "MCxmM2UwM2I4ODZjNWQzOWM2MWZkODNlMTYxZmM5OWQwMWE4YzVmNjI3",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -235,18 +235,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Llego La Salsa",
-        "url": "https://open.spotify.com/album/45Aa2zCt6Y20hqGxVjI0tI"
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/4ihlEk0yuvUpKGSX8A9ITz"
       },
       "artists": [
         {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+          "name": "Andy Monta\u00f1ez",
+          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
         }
       ],
-      "duration_ms": 278871,
-      "name": "Detalles",
-      "url": "https://open.spotify.com/track/4YOz0Fl5q0cXanSCUtsW13"
+      "duration_ms": 321200,
+      "name": "Casi Te Envidio",
+      "url": "https://open.spotify.com/track/3lfWaQLyg71Uar9gAgFVWV"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -267,18 +267,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/4ihlEk0yuvUpKGSX8A9ITz"
+        "name": "Llego La Salsa",
+        "url": "https://open.spotify.com/album/45Aa2zCt6Y20hqGxVjI0tI"
       },
       "artists": [
         {
-          "name": "Andy Monta\u00f1ez",
-          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
         }
       ],
-      "duration_ms": 321200,
-      "name": "Casi Te Envidio",
-      "url": "https://open.spotify.com/track/3lfWaQLyg71Uar9gAgFVWV"
+      "duration_ms": 278871,
+      "name": "Detalles",
+      "url": "https://open.spotify.com/track/4YOz0Fl5q0cXanSCUtsW13"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Pare Cochero",
+        "url": "https://open.spotify.com/album/1tABZ6rAzFtf9fizgXslIU"
+      },
+      "artists": [
+        {
+          "name": "La Gloria Matancera",
+          "url": "https://open.spotify.com/artist/4dCNiyQXmtiWA157q3uFyj"
+        }
+      ],
+      "duration_ms": 217773,
+      "name": "Con la Punta del Pie",
+      "url": "https://open.spotify.com/track/4rt2zpNhFBayp948Pi6liZ"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Esta Vida (Salsa Version)",
         "url": "https://open.spotify.com/album/4qGv61V2lP2vTKuWisVcGY"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 223439,
       "name": "Esta Vida (Salsa Version)",
       "url": "https://open.spotify.com/track/0n8VlY0qW2PfB1Zhqzqivv"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Pare Cochero",
-        "url": "https://open.spotify.com/album/1tABZ6rAzFtf9fizgXslIU"
-      },
-      "artists": [
-        {
-          "name": "La Gloria Matancera",
-          "url": "https://open.spotify.com/artist/4dCNiyQXmtiWA157q3uFyj"
-        }
-      ],
-      "duration_ms": 217773,
-      "name": "Con la Punta del Pie",
-      "url": "https://open.spotify.com/track/4rt2zpNhFBayp948Pi6liZ"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "MP 10th Anniversary",
-        "url": "https://open.spotify.com/album/4PLj1LIHYKLMeVfWW0ukJX"
-      },
-      "artists": [
-        {
-          "name": "Tito Rojas",
-          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
-        }
-      ],
-      "duration_ms": 321733,
-      "name": "Siempre Sere",
-      "url": "https://open.spotify.com/track/0ViQHcFsGyynn92NTscTIN"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Enam\u00f3rate Bailando",
         "url": "https://open.spotify.com/album/2uZqdPaPuXHLngIvPGprkV"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 267332,
       "name": "Enam\u00f3rate Bailando",
       "url": "https://open.spotify.com/track/02zyl88XvRAQdwbzLQui8y"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "MP 10th Anniversary",
+        "url": "https://open.spotify.com/album/4PLj1LIHYKLMeVfWW0ukJX"
+      },
+      "artists": [
+        {
+          "name": "Tito Rojas",
+          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
+        }
+      ],
+      "duration_ms": 321733,
+      "name": "Siempre Sere",
+      "url": "https://open.spotify.com/track/0ViQHcFsGyynn92NTscTIN"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Yo",
-        "url": "https://open.spotify.com/album/24QR1IzAVqsPFPeY9je0NY"
+        "name": "Grandes Exitos de Salsa",
+        "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
       },
       "artists": [
         {
-          "name": "Christian Alicea",
-          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
+          "name": "Los Titanes",
+          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
         }
       ],
-      "duration_ms": 204500,
-      "name": "Aroma",
-      "url": "https://open.spotify.com/track/5kS75vYtuoUbTNRnKU8wL2"
+      "duration_ms": 291106,
+      "name": "Por Retenerte",
+      "url": "https://open.spotify.com/track/3Zlp3GGVJwQxpNmUy7TBxS"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Grandes Exitos de Salsa",
-        "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
+        "name": "Todav\u00eda Te Espero",
+        "url": "https://open.spotify.com/album/3dwEfKKT8IzLbeUlYLeND3"
       },
       "artists": [
         {
-          "name": "Los Titanes",
-          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
         }
       ],
-      "duration_ms": 291106,
-      "name": "Por Retenerte",
-      "url": "https://open.spotify.com/track/3Zlp3GGVJwQxpNmUy7TBxS"
+      "duration_ms": 192063,
+      "name": "Todav\u00eda Te Espero",
+      "url": "https://open.spotify.com/track/5N672z43ZiJfvgDwTaCxI0"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Todav\u00eda Te Espero",
-        "url": "https://open.spotify.com/album/3dwEfKKT8IzLbeUlYLeND3"
+        "name": "Yo",
+        "url": "https://open.spotify.com/album/24QR1IzAVqsPFPeY9je0NY"
       },
       "artists": [
         {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+          "name": "Christian Alicea",
+          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
         }
       ],
-      "duration_ms": 192063,
-      "name": "Todav\u00eda Te Espero",
-      "url": "https://open.spotify.com/track/5N672z43ZiJfvgDwTaCxI0"
+      "duration_ms": 204500,
+      "name": "Aroma",
+      "url": "https://open.spotify.com/track/5kS75vYtuoUbTNRnKU8wL2"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1535,30 +1535,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Metamorfosis",
-        "url": "https://open.spotify.com/album/6ddv3GdJS72fE56p3Y2IL6"
-      },
-      "artists": [
-        {
-          "name": "MOLY",
-          "url": "https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc"
-        },
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        },
-        {
-          "name": "Porfi Baloa",
-          "url": "https://open.spotify.com/artist/2SYIF2tMAgLcjtTTeCfjg3"
-        }
-      ],
-      "duration_ms": 258633,
-      "name": "El Tren",
-      "url": "https://open.spotify.com/track/7c1xgHtKieddvGRpgnHFPx"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Mira",
         "url": "https://open.spotify.com/album/2wrbLhESYlyhzIlhJ1Lo8X"
       },
@@ -1579,6 +1555,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Afirmando",
+        "url": "https://open.spotify.com/album/4YrnCdJtjxxZVMNfCsgHpl"
+      },
+      "artists": [
+        {
+          "name": "Grupo Gal\u00e9",
+          "url": "https://open.spotify.com/artist/4152ZUds7gXsqYQexUonDP"
+        }
+      ],
+      "duration_ms": 335360,
+      "name": "Ven a Medell\u00edn",
+      "url": "https://open.spotify.com/track/2BoOKq8gU4QNSRkdSLQXYk"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Luis Figueroa",
         "url": "https://open.spotify.com/album/3k3PwkOP7kThSg2iDxEHhE"
       },
@@ -1595,18 +1587,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Afirmando",
-        "url": "https://open.spotify.com/album/4YrnCdJtjxxZVMNfCsgHpl"
+        "name": "Metamorfosis",
+        "url": "https://open.spotify.com/album/6ddv3GdJS72fE56p3Y2IL6"
       },
       "artists": [
         {
-          "name": "Grupo Gal\u00e9",
-          "url": "https://open.spotify.com/artist/4152ZUds7gXsqYQexUonDP"
+          "name": "MOLY",
+          "url": "https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc"
+        },
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        },
+        {
+          "name": "Porfi Baloa",
+          "url": "https://open.spotify.com/artist/2SYIF2tMAgLcjtTTeCfjg3"
         }
       ],
-      "duration_ms": 335360,
-      "name": "Ven a Medell\u00edn",
-      "url": "https://open.spotify.com/track/2BoOKq8gU4QNSRkdSLQXYk"
+      "duration_ms": 258633,
+      "name": "El Tren",
+      "url": "https://open.spotify.com/track/7c1xgHtKieddvGRpgnHFPx"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Leyendas: Salsa Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X"
+        "name": "Ya No Te Amo",
+        "url": "https://open.spotify.com/album/70clE19xMTQeZRbMx5DIMM"
       },
       "artists": [
         {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
         }
       ],
-      "duration_ms": 304533,
-      "name": "Cuenta Conmigo",
-      "url": "https://open.spotify.com/track/27Xz47Suj0sTwK933U7GdT"
+      "duration_ms": 236257,
+      "name": "Ya No Te Amo",
+      "url": "https://open.spotify.com/track/4oEHUVWr6GnvaszaHqSdoi"
     }
   ],
   "unique_name": "Salsa Nation",

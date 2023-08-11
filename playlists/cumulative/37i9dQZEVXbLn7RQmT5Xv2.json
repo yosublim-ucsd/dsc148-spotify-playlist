@@ -1092,7 +1092,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-09",
+      "date_removed": null,
       "duration_ms": 232500,
       "name": "Baad El Kalam",
       "url": "https://open.spotify.com/track/0Oz1kaka4qeWhjntOZTRFv"
@@ -4666,7 +4666,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 244729,
       "name": "James Dean",
       "url": "https://open.spotify.com/track/1GKqff6G0zabRInKN9Vz1S"
@@ -7220,7 +7220,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 257656,
       "name": "Nefsy Ahbek",
       "url": "https://open.spotify.com/track/7yZc2gKENILqeJWofabYNF"
@@ -10576,6 +10576,24 @@
       "duration_ms": 240500,
       "name": "Yaba",
       "url": "https://open.spotify.com/track/79pLcKb0uJOaROzStukq0f"
+    },
+    {
+      "album": {
+        "name": "Ya Kahera",
+        "url": "https://open.spotify.com/album/3dUTTXt9860nBInTMPkFDm"
+      },
+      "artists": [
+        {
+          "name": "Muhab",
+          "url": "https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196806,
+      "name": "YAZMEELY",
+      "url": "https://open.spotify.com/track/3WOiSsqfXPZAtGTr2PFj6S"
     },
     {
       "album": {

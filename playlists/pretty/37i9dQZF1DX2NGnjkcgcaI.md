@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2NGnjkcgcaI.md) - [plain]
 
 > Deep sounds of minimal dub techno to keep you on track.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,867 likes - 59 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,909 likes - 60 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,9 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2NGnjkcgcaI.md) - [plain]
 | 53 | [Dub Seekers](https://open.spotify.com/track/2M5lNIJiiGskmRelYftHvi) | [Coma conscience](https://open.spotify.com/artist/7tBKvZthaXQCVkOeub7FY4) | [Cascades](https://open.spotify.com/album/0VKu2h9Nmos4NcBJ4Tw4j3) | 6:48 |
 | 54 | [Moonset](https://open.spotify.com/track/1cgpMjmixinncr9eAraY8l) | [Lapien](https://open.spotify.com/artist/4ltbchh24s4TPS7IwZhUEC) | [Brumal EP](https://open.spotify.com/album/2y8PYXClszXn8o82BdnSYG) | 8:05 |
 | 55 | [Yume No Serei](https://open.spotify.com/track/4p4qSjT8ce6IPbtUV5obul) | [Deadbeat](https://open.spotify.com/artist/0rd7M5S6AdFkideaBtseOo), [Sa Pa](https://open.spotify.com/artist/3QvH7p6ECJrZdwFljWr5S0) | [The Mountain](https://open.spotify.com/album/0D06TW5YLar1SylbdM2Wna) | 7:22 |
-| 56 | [Ninsei](https://open.spotify.com/track/6SOyjeedBIFvHanZlyIhZo) | [Andreiclv](https://open.spotify.com/artist/6GdPTOUFnELWOlpcCRvrdZ) | [Cityscapes EP](https://open.spotify.com/album/0RIXGeAUyFNQbGt5w7fROw) | 6:24 |
-| 57 | [Elapse \- Fdf's Espale Mix](https://open.spotify.com/track/75cBW5IXH1DK9Sa8GiiyeZ) | [Sven Weisemann](https://open.spotify.com/artist/1MvenC6senxNCufFqueTlr), [Freund der Familie](https://open.spotify.com/artist/2aqA1rqioB4Fc8Xre931gX) | [Elution](https://open.spotify.com/album/2bybxXP7vMNf3N2KhzSa4W) | 7:26 |
-| 58 | [Dringt](https://open.spotify.com/track/17uP4DeFVGG6naH4NwyZAW) | [Morgen Wurde](https://open.spotify.com/artist/3jAeG5d98YGGGpHGPSurpG), [TIS](https://open.spotify.com/artist/5EKLZKBobC6obEWUk8lcIL) | [Vermacht](https://open.spotify.com/album/1wr7VFcXK0hlVKGf1GPg0j) | 7:11 |
-| 59 | [Junktion](https://open.spotify.com/track/2JirFa98ZLQYZ823lmLWfq) | [Ludowick](https://open.spotify.com/artist/4GGgadGq0wE8XFKrSPVkQE) | [Junktion](https://open.spotify.com/album/4bYJrRbkKVpm29vCax5TjQ) | 8:45 |
+| 56 | [Atlanta](https://open.spotify.com/track/5Mg1nOQU9wPn8uYmjzs3oX) | [Rex](https://open.spotify.com/artist/5tfWbJ8owvlSc1VWKiCMXH) | [Atlanta](https://open.spotify.com/album/3WdYzCX0cGKhOH3A7RFioM) | 4:05 |
+| 57 | [Ninsei](https://open.spotify.com/track/6SOyjeedBIFvHanZlyIhZo) | [Andreiclv](https://open.spotify.com/artist/6GdPTOUFnELWOlpcCRvrdZ) | [Cityscapes EP](https://open.spotify.com/album/0RIXGeAUyFNQbGt5w7fROw) | 6:24 |
+| 58 | [Elapse \- Fdf's Espale Mix](https://open.spotify.com/track/75cBW5IXH1DK9Sa8GiiyeZ) | [Sven Weisemann](https://open.spotify.com/artist/1MvenC6senxNCufFqueTlr), [Freund der Familie](https://open.spotify.com/artist/2aqA1rqioB4Fc8Xre931gX) | [Elution](https://open.spotify.com/album/2bybxXP7vMNf3N2KhzSa4W) | 7:26 |
+| 59 | [Dringt](https://open.spotify.com/track/17uP4DeFVGG6naH4NwyZAW) | [Morgen Wurde](https://open.spotify.com/artist/3jAeG5d98YGGGpHGPSurpG), [TIS](https://open.spotify.com/artist/5EKLZKBobC6obEWUk8lcIL) | [Vermacht](https://open.spotify.com/album/1wr7VFcXK0hlVKGf1GPg0j) | 7:11 |
+| 60 | [Junktion](https://open.spotify.com/track/2JirFa98ZLQYZ823lmLWfq) | [Ludowick](https://open.spotify.com/artist/4GGgadGq0wE8XFKrSPVkQE) | [Junktion](https://open.spotify.com/album/4bYJrRbkKVpm29vCax5TjQ) | 8:45 |
 
-Snapshot ID: `MCw3NjhhMGM1MjRiMjEwZDU2ZGU4NmVkYjUzNTNjMDk4ODFhOGYwNTJh`
+Snapshot ID: `MCw4OTE2N2I4NDc4ZmUxZjAzMjNkYjY5ZjdkZmQyNmM5NjJhNmRiYzdh`

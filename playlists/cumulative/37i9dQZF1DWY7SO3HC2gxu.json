@@ -416,7 +416,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 141904,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/6ydvKfFKCvCHOaSPHIFzGP"
@@ -452,7 +452,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 167627,
       "name": "Hey",
       "url": "https://open.spotify.com/track/5xUqCEP8fRDq1EBJb5IJC6"
@@ -804,6 +804,28 @@
       "duration_ms": 407264,
       "name": "Mahaba",
       "url": "https://open.spotify.com/track/5Nk6J6i8aA7kno0hhtCMCB"
+    },
+    {
+      "album": {
+        "name": "Make Way",
+        "url": "https://open.spotify.com/album/7MVKL0h5yHt8L2VP7W7NgM"
+      },
+      "artists": [
+        {
+          "name": "Motez",
+          "url": "https://open.spotify.com/artist/3SwgftmsT5rVepCSSco3ZR"
+        },
+        {
+          "name": "Elsy Wameyo",
+          "url": "https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197933,
+      "name": "Make Way",
+      "url": "https://open.spotify.com/track/3OJKxDtTQCVCMZ4dCvFcep"
     },
     {
       "album": {
@@ -1192,7 +1214,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 277241,
       "name": "Nzaui",
       "url": "https://open.spotify.com/track/1gVvEiFHMWlG6XJxRmVVz3"
@@ -1222,6 +1244,28 @@
       "duration_ms": 220555,
       "name": "Oriti",
       "url": "https://open.spotify.com/track/6FW8sVbEWMMXcRqw2Q2fKL"
+    },
+    {
+      "album": {
+        "name": "Oroboto",
+        "url": "https://open.spotify.com/album/4yr5dLUribiANAFDzjlUAZ"
+      },
+      "artists": [
+        {
+          "name": "Blaq Jerzee",
+          "url": "https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170407,
+      "name": "Oroboto",
+      "url": "https://open.spotify.com/track/6R6VmDIn0gu32DvwBurW5Z"
     },
     {
       "album": {
@@ -1567,6 +1611,28 @@
     },
     {
       "album": {
+        "name": "Simama",
+        "url": "https://open.spotify.com/album/1vGGNki1oydOSOLeHYqF0b"
+      },
+      "artists": [
+        {
+          "name": "KLAAN",
+          "url": "https://open.spotify.com/artist/3m6BKTRlaOuhaFauW2jRD6"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Simama",
+      "url": "https://open.spotify.com/track/4TqKsQ4KIcjLIRUUHx8izd"
+    },
+    {
+      "album": {
         "name": "Sorcerer",
         "url": "https://open.spotify.com/album/2LaZMF6OYW3equPfzABpXt"
       },
@@ -1734,6 +1800,24 @@
       "duration_ms": 147426,
       "name": "The Fall",
       "url": "https://open.spotify.com/track/0VKmRGnrho53kJpvW5DJHO"
+    },
+    {
+      "album": {
+        "name": "The System",
+        "url": "https://open.spotify.com/album/608IJoZ0bEA3qMyPl2a7gz"
+      },
+      "artists": [
+        {
+          "name": "DJ Fita",
+          "url": "https://open.spotify.com/artist/3JZjnPldr5tbimjkX4kz49"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268534,
+      "name": "The System",
+      "url": "https://open.spotify.com/track/7dfY4o5xu1Okdeu1L4yDTb"
     },
     {
       "album": {
@@ -1976,7 +2060,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 145081,
       "name": "WAPORAMALI - Enzo Siffredi's AQUAGYM Edit",
       "url": "https://open.spotify.com/track/4Bz4Bxk53QDuxvWoHViMjW"

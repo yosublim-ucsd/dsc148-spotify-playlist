@@ -610,7 +610,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 175333,
       "name": "Buenos Aires",
       "url": "https://open.spotify.com/track/1ItVCwBxcwLvQDh4Y2LjVq"
@@ -840,6 +840,24 @@
       "duration_ms": 184013,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/5TOgxgZrIZzvaKg9r2bvc2"
+    },
+    {
+      "album": {
+        "name": "Barbie The Album",
+        "url": "https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137514,
+      "name": "Choose Your Fighter",
+      "url": "https://open.spotify.com/track/7lcuUkp4LjPflvzPjemDzw"
     },
     {
       "album": {
@@ -1073,6 +1091,24 @@
     },
     {
       "album": {
+        "name": "Dating The Devil",
+        "url": "https://open.spotify.com/album/6guX1X73FritPfc4b7Yi7d"
+      },
+      "artists": [
+        {
+          "name": "Davina Michelle",
+          "url": "https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180126,
+      "name": "Dating The Devil",
+      "url": "https://open.spotify.com/track/6Ke5dZvbqRmjTGCZEjFBqB"
+    },
+    {
+      "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
       },
@@ -1274,7 +1310,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 170396,
       "name": "El Que Espera",
       "url": "https://open.spotify.com/track/2oNSHvGBGZIrZouRAA1eaX"
@@ -1438,7 +1474,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 148116,
       "name": "Feel Alive",
       "url": "https://open.spotify.com/track/0tb0RHrF4IpwPJOKYxnxxe"
@@ -2738,7 +2774,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 184294,
       "name": "Million Dollar Baby",
       "url": "https://open.spotify.com/track/3wFM8TWbbkwPuB6TyqpVDv"
@@ -2764,6 +2800,24 @@
       "duration_ms": 186496,
       "name": "Miracle (with Ellie Goulding)",
       "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
+    },
+    {
+      "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/2EhTv5KlLWkNaoVXZnlzAM"
+      },
+      "artists": [
+        {
+          "name": "Chef'Special",
+          "url": "https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202627,
+      "name": "Miracles",
+      "url": "https://open.spotify.com/track/5acs33Z7tV5aopOM7LClgL"
     },
     {
       "album": {
@@ -2927,6 +2981,32 @@
     },
     {
       "album": {
+        "name": "Not Fair",
+        "url": "https://open.spotify.com/album/5PObKgSkHWD1mRNOJWr1cZ"
+      },
+      "artists": [
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "Old Jim",
+          "url": "https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu"
+        },
+        {
+          "name": "Enny-Mae",
+          "url": "https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163034,
+      "name": "Not Fair",
+      "url": "https://open.spotify.com/track/0QlOkt8nkZ8zqu8xb2SHU8"
+    },
+    {
+      "album": {
         "name": "Oceans Of Emotions",
         "url": "https://open.spotify.com/album/6QWKqhxWcYma5iHK9oS4Vq"
       },
@@ -2960,6 +3040,28 @@
       "duration_ms": 179599,
       "name": "OMG It's Happening",
       "url": "https://open.spotify.com/track/3UDWgZznpvkwYx92b0hjJ8"
+    },
+    {
+      "album": {
+        "name": "One in a Million",
+        "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160529,
+      "name": "One in a Million",
+      "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
     },
     {
       "album": {
@@ -3988,7 +4090,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 126206,
       "name": "THIS YEAR (Blessings)",
       "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"

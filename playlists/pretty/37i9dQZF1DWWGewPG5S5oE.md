@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 山中千尋
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,938 likes - 50 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,956 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 41 | [Moonlight Syndrome](https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo) | [トワイライトシンドローム](https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K) | 4:07 |
 | 42 | [Spartacus](https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB) | [Hidefumi Ino](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Satisfaction](https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV) | 4:07 |
 | 43 | [パスワード](https://open.spotify.com/track/58Dl8RRRMlXiXJ3pZzjxGY) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [長岡亮介](https://open.spotify.com/artist/18rZSYLeI8QvUrWsfv5frK) | [M\-P\-C "Mentality, Physicality, Computer"](https://open.spotify.com/album/2k3yTcmXaR1tDH8QUiG3dD) | 4:32 |
-| 44 | [It's just love](https://open.spotify.com/track/4yqpJakTlgryUCYpgkl8qv) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [MISIA SOUL JAZZ SESSION](https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd) | 5:50 |
+| 44 | [eden](https://open.spotify.com/track/2INM5qrVFHkFpfGWQ5FxLB) | [ひかりとだいち love SOIL&"PIMP"SESSIONS](https://open.spotify.com/artist/5kEUSsToZBCBfFr68aT7f9), [Hikari Mitsushima](https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG), [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ), [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [eden](https://open.spotify.com/album/317j5AzcY1fL9NgKAMZIcD) | 3:57 |
 | 45 | [Seeker](https://open.spotify.com/track/51WozCH6KrpMsf6MSsftkD) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Anthony Jackson](https://open.spotify.com/artist/4jSvNq6yedPhkC4p3zlznC), [Simon Phillips](https://open.spotify.com/artist/1OGCS507PQzgLappLg26AK) | [Alive](https://open.spotify.com/album/18L36uUa7xLegzjkvr10ev) | 7:25 |
-| 46 | [eden](https://open.spotify.com/track/2INM5qrVFHkFpfGWQ5FxLB) | [ひかりとだいち love SOIL&"PIMP"SESSIONS](https://open.spotify.com/artist/5kEUSsToZBCBfFr68aT7f9), [Hikari Mitsushima](https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG), [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ), [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [eden](https://open.spotify.com/album/317j5AzcY1fL9NgKAMZIcD) | 3:57 |
+| 46 | [It's just love](https://open.spotify.com/track/4yqpJakTlgryUCYpgkl8qv) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [MISIA SOUL JAZZ SESSION](https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd) | 5:50 |
 | 47 | [Orange Mug](https://open.spotify.com/track/5IpMtUqMWw8ff0Yeq38wqx) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [Orange Mug](https://open.spotify.com/album/7je7p75wCnvd8RnrgsZSVS) | 3:38 |
 | 48 | [regalecus glesne \- feat.元晴 & 柴田亮](https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7) | [BimBomBam Orchestra](https://open.spotify.com/artist/6LglW9con0IEpWmE6XjvT6), [元晴](https://open.spotify.com/artist/4O9JglJVkDAOWTC5kNO04L), [柴田亮](https://open.spotify.com/artist/0sKQ57LUMTe7U2v15D3lXu) | [regalecus glesne \(feat.元晴 & 柴田亮\)](https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ) | 7:07 |
 | 49 | [乙女の祈り](https://open.spotify.com/track/1vdO8aMVXs3OqGkwEmjA2f) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [ユートピア](https://open.spotify.com/album/5dyet4VQmQe4iqoxTqtZT2) | 4:16 |
 | 50 | [Squall](https://open.spotify.com/track/68jH0QV84eVWbqLP2AjAni) | [Hidefumi Ino](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Squall](https://open.spotify.com/album/5MEucUHOxsXdbhzB2Szdyj) | 3:56 |
 
-Snapshot ID: `MCw2NjUyZTE0YTI2MjI4MTlhMDc1MTBlNzQzNjExNWY3NzZjYzc1MjIx`
+Snapshot ID: `MCw5Yzc0ZDBkMGM5MDY2YmNjMzE2ZDg3Y2E1Yzk1YjA5YTczNTExYzU5`

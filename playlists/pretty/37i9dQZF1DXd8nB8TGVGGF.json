@@ -1,12 +1,12 @@
 {
   "description": "The best Blues for a long trip behind the wheel. ",
-  "num_followers": 23438,
+  "num_followers": 23492,
   "original_name": "Blues Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTQyYjM0ZWU0ZWRkMWZlZjNiZDk4ZmYwMGQ0NjgxOTQzMzdkOWQx",
+  "snapshot_id": "MCxkYWYyYzA5MTRiZTdiMWI0YzlhMTJkOGE2MTJkYjljNTkwZDM3OTFm",
   "tracks": [
     {
       "added_at": "2023-01-27 16:34:16",
@@ -655,18 +655,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "A Man And The Blues",
-        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
+        "name": "Blues & Trouble (Blues Reference 1983-1985)",
+        "url": "https://open.spotify.com/album/2k2MADUj4Fd3mhJWQbQoqt"
       },
       "artists": [
         {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+          "name": "Buster Benton",
+          "url": "https://open.spotify.com/artist/3eBGrFX7u2Py7eiwvwosc4"
         }
       ],
-      "duration_ms": 172173,
-      "name": "Jam On A Monday Morning",
-      "url": "https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4"
+      "duration_ms": 211040,
+      "name": "I Must Have A Hole In My Head",
+      "url": "https://open.spotify.com/track/2SG7ES67oTwTNSxsMe3lo1"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -687,18 +687,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Blues & Trouble (Blues Reference 1983-1985)",
-        "url": "https://open.spotify.com/album/2k2MADUj4Fd3mhJWQbQoqt"
+        "name": "A Man And The Blues",
+        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
       },
       "artists": [
         {
-          "name": "Buster Benton",
-          "url": "https://open.spotify.com/artist/3eBGrFX7u2Py7eiwvwosc4"
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 211040,
-      "name": "I Must Have A Hole In My Head",
-      "url": "https://open.spotify.com/track/2SG7ES67oTwTNSxsMe3lo1"
+      "duration_ms": 172173,
+      "name": "Jam On A Monday Morning",
+      "url": "https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -715,6 +715,22 @@
       "duration_ms": 126773,
       "name": "Long Grey Mare",
       "url": "https://open.spotify.com/track/2qVOcQMtxjrY8WHPkygyGc"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Shake Down",
+        "url": "https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb"
+      },
+      "artists": [
+        {
+          "name": "Savoy Brown",
+          "url": "https://open.spotify.com/artist/17obwOahRWI121iMUZznh2"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "Ain't Superstitious",
+      "url": "https://open.spotify.com/track/2z47CyvhUXKg2aE5DVBSeK"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -747,22 +763,6 @@
       "duration_ms": 294426,
       "name": "Checkin' Up On My Baby",
       "url": "https://open.spotify.com/track/02b0vxOu1dFKNoUR58YVnk"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
-        "name": "Shake Down",
-        "url": "https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb"
-      },
-      "artists": [
-        {
-          "name": "Savoy Brown",
-          "url": "https://open.spotify.com/artist/17obwOahRWI121iMUZznh2"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "Ain't Superstitious",
-      "url": "https://open.spotify.com/track/2z47CyvhUXKg2aE5DVBSeK"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "More Real Folk Blues",
-        "url": "https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV"
-      },
-      "artists": [
-        {
-          "name": "Sonny Boy Williamson II",
-          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
-        }
-      ],
-      "duration_ms": 147293,
-      "name": "Stop Right Now - Stereo Version",
-      "url": "https://open.spotify.com/track/4Uo4RCirDyu9P9YaUAFFPV"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Galloping Horses a Lazy Mule / Blues in D Natural",
         "url": "https://open.spotify.com/album/2ueqyjt4N1XoXF1J21zNSQ"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 135640,
       "name": "Blues In D Natural",
       "url": "https://open.spotify.com/track/5h8HrCCGLOmhW3ufkRb2Dv"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "More Real Folk Blues",
+        "url": "https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV"
+      },
+      "artists": [
+        {
+          "name": "Sonny Boy Williamson II",
+          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
+        }
+      ],
+      "duration_ms": 147293,
+      "name": "Stop Right Now - Stereo Version",
+      "url": "https://open.spotify.com/track/4Uo4RCirDyu9P9YaUAFFPV"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "More Real Folk Blues",
-        "url": "https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV"
-      },
-      "artists": [
-        {
-          "name": "Sonny Boy Williamson II",
-          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
-        }
-      ],
-      "duration_ms": 136893,
-      "name": "Somebody Help Me - Mono Version",
-      "url": "https://open.spotify.com/track/1v0D2YFE15WXlxqvoKmCGv"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Goin' To Chicago",
         "url": "https://open.spotify.com/album/4p5MlG351OaQac8CRZsF3K"
       },
@@ -1027,22 +1011,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "In London",
-        "url": "https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 309293,
-      "name": "Blue Shadows",
-      "url": "https://open.spotify.com/track/6rGuOsQMY1UsvyPcpvbE4i"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Men of the World: The Early Years",
         "url": "https://open.spotify.com/album/2K7v8gzTtmyX0fjvAVUkzt"
       },
@@ -1055,6 +1023,38 @@
       "duration_ms": 191266,
       "name": "Like It This Way",
       "url": "https://open.spotify.com/track/0QgKvD2sdIAUGjGJpZzDSX"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "More Real Folk Blues",
+        "url": "https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV"
+      },
+      "artists": [
+        {
+          "name": "Sonny Boy Williamson II",
+          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
+        }
+      ],
+      "duration_ms": 136893,
+      "name": "Somebody Help Me - Mono Version",
+      "url": "https://open.spotify.com/track/1v0D2YFE15WXlxqvoKmCGv"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "In London",
+        "url": "https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 309293,
+      "name": "Blue Shadows",
+      "url": "https://open.spotify.com/track/6rGuOsQMY1UsvyPcpvbE4i"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Blues Helping",
-        "url": "https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB"
-      },
-      "artists": [
-        {
-          "name": "Love Sculpture",
-          "url": "https://open.spotify.com/artist/4D1hYdWKVKyQQQNxNHlYtq"
-        }
-      ],
-      "duration_ms": 224026,
-      "name": "Blues Helping - 1999 RemasterStereo",
-      "url": "https://open.spotify.com/track/2koEUJi9rfisEYUcoCillG"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
       },
@@ -1251,18 +1235,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "A Man And The Blues",
-        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
+        "name": "Blues Helping",
+        "url": "https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB"
       },
       "artists": [
         {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+          "name": "Love Sculpture",
+          "url": "https://open.spotify.com/artist/4D1hYdWKVKyQQQNxNHlYtq"
         }
       ],
-      "duration_ms": 200400,
-      "name": "I Can't Quit The Blues",
-      "url": "https://open.spotify.com/track/7odv5siIsQdOEUmsk7Mjsv"
+      "duration_ms": 224026,
+      "name": "Blues Helping - 1999 RemasterStereo",
+      "url": "https://open.spotify.com/track/2koEUJi9rfisEYUcoCillG"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1279,6 +1263,22 @@
       "duration_ms": 146000,
       "name": "Hound Dog",
       "url": "https://open.spotify.com/track/7dnH4MKOS40E0h0WtWCkYh"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "A Man And The Blues",
+        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "I Can't Quit The Blues",
+      "url": "https://open.spotify.com/track/7odv5siIsQdOEUmsk7Mjsv"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Rockin' At The Hops",
-        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 126226,
-      "name": "Confessin' The Blues",
-      "url": "https://open.spotify.com/track/26VeLcnNOv7iOtzb7VuHZF"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "The Graham Bond Organization - Wade in the Water \u2013 Classics, Origins & Oddities",
         "url": "https://open.spotify.com/album/0qOXanjGd0Yc4MKfqboa9i"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 167693,
       "name": "Hoochie Coochie Man (Version 2) - Remastered",
       "url": "https://open.spotify.com/track/4DSp70TLaYQ0VD2h6F7cD9"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Rockin' At The Hops",
+        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 126226,
+      "name": "Confessin' The Blues",
+      "url": "https://open.spotify.com/track/26VeLcnNOv7iOtzb7VuHZF"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Whose Muddy Shoes",
-        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
-      },
-      "artists": [
-        {
-          "name": "John Brim",
-          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
-        }
-      ],
-      "duration_ms": 175693,
-      "name": "You Got Me",
-      "url": "https://open.spotify.com/track/24m7kDzKRUnYRlz7LWCYnB"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "The Blues Ain't Nothin' (Recorded in France 1971-1973)",
         "url": "https://open.spotify.com/album/3KTnRBMogesNlMGkx4Axb1"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 257000,
       "name": "Goin' to Chicago",
       "url": "https://open.spotify.com/track/2qthiyAT4MJjYuM1q5Qqo1"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Whose Muddy Shoes",
+        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
+      },
+      "artists": [
+        {
+          "name": "John Brim",
+          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
+        }
+      ],
+      "duration_ms": 175693,
+      "name": "You Got Me",
+      "url": "https://open.spotify.com/track/24m7kDzKRUnYRlz7LWCYnB"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1687,6 +1687,26 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
+        "name": "Chicago Blues Session Volume 12",
+        "url": "https://open.spotify.com/album/3aIsNJmW34RBXNoYOTKyOE"
+      },
+      "artists": [
+        {
+          "name": "John Brim",
+          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
+        },
+        {
+          "name": "Pinetop Perkins",
+          "url": "https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55"
+        }
+      ],
+      "duration_ms": 171453,
+      "name": "Movin' Out",
+      "url": "https://open.spotify.com/track/2dY0bMsM7UXFh7Ekl7XSGn"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
         "name": "On The Waterfront",
         "url": "https://open.spotify.com/album/1hxZ6gTtb5P91mZLwD3QvQ"
       },
@@ -1715,26 +1735,6 @@
       "duration_ms": 151560,
       "name": "Billy Boy's Jump",
       "url": "https://open.spotify.com/track/1FdYBTTaSGYMaz1zf42kzJ"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
-        "name": "Chicago Blues Session Volume 12",
-        "url": "https://open.spotify.com/album/3aIsNJmW34RBXNoYOTKyOE"
-      },
-      "artists": [
-        {
-          "name": "John Brim",
-          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
-        },
-        {
-          "name": "Pinetop Perkins",
-          "url": "https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55"
-        }
-      ],
-      "duration_ms": 171453,
-      "name": "Movin' Out",
-      "url": "https://open.spotify.com/track/2dY0bMsM7UXFh7Ekl7XSGn"
     },
     {
       "added_at": "2023-01-27 16:34:16",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2X1bTq.md) - [plain]
 
 > This is U2\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,163,635 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,163,874 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2X1bTq.md) - [plain]
 | 49 | [Stories For Boys \- Songs Of Surrender](https://open.spotify.com/track/5pmrqutc908t5jqcXU6ha6) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Surrender](https://open.spotify.com/album/3fqPfbVHsvdpovpJXOJlvU) | 2:51 |
 | 50 | [Numb](https://open.spotify.com/track/14QtCWJaRgMj6dkUs6dkcT) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Zooropa](https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE) | 4:19 |
 
-Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDA0OGNmNjgxZDcwNjMwNTg1M2Y1OWMyZmZlMjdhZjNkNg==`
+Snapshot ID: `MjgxOTQ1NjMsMDAwMDAwMDAzM2E0NDA0Yjc3OTAxZWFmODRkMmVlODAyNThmZWFkNg==`

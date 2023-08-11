@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3SlD0O.md) - [plain]
 
 > This is Los Traileros Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,839 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,850 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3SlD0O.md) - [plain]
 | 49 | [Voy A Tratar De Olvidarte](https://open.spotify.com/track/47nUD9V3Hlbt3HEAO5rcdQ) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Amor De Los Dos](https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4) | 2:34 |
 | 50 | [Dale Un Cuartazo Al Macho](https://open.spotify.com/track/5CaVmNwvbF9ryrr8RNWr7u) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Atrás Del Escenario](https://open.spotify.com/album/68uz1T0TeyArcH2MMVy6Kl) | 2:39 |
 
-Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDA3YTczYTMzZTg0ZTgxNWI4OTdlMDZjY2E3ODA1MzgxNQ==`
+Snapshot ID: `MjgxOTQ1NjMsMDAwMDAwMDA3YTY3MDZmNTBhZTc5MTNmMDRjM2UyZDIzZWZkNTZjOQ==`

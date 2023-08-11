@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3fHHqLkbnV.md) - [plain]
 
 > The best easy rock from the 1990s\. Cover: Bryan Adams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,536 likes - 80 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,806 likes - 80 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3fHHqLkbnV.md) - [plain]
 | 45 | [Cats In The Cradle](https://open.spotify.com/track/5x9RZg7HfXGY3JayXL3seF) | [Ugly Kid Joe](https://open.spotify.com/artist/3XsgWn63EnA4wYZBjVyxjf) | [America's Least Wanted](https://open.spotify.com/album/0lQjdBr2n0WQg5sjGzLVfR) | 4:01 |
 | 46 | [The Way](https://open.spotify.com/track/7IsEXPk6qqt30FfQv4SZMa) | [Fastball](https://open.spotify.com/artist/7FtVJzRtpQpU61nBwB7cKN) | [All The Pain Money Can Buy](https://open.spotify.com/album/2KVpGKVIzcK9bB13MXJGEb) | 4:17 |
 | 47 | [To Be With You \- 2010 Remastered Version](https://open.spotify.com/track/3Mmt6Xk0H6VR92PEp6x3hP) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \[Expanded\]](https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ) | 3:30 |
-| 48 | [Secret Garden](https://open.spotify.com/track/68uuz61IqrSJjO6ffO3yHc) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Greatest Hits](https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG) | 4:26 |
-| 49 | [I Don't Want to Wait](https://open.spotify.com/track/5MDQNJ7SZTytJwCbWKqJDL) | [Paula Cole](https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1) | [This Fire](https://open.spotify.com/album/5cUiPJUUMfNQr0ELSDGscs) | 5:20 |
+| 48 | [I Don't Want to Wait](https://open.spotify.com/track/5MDQNJ7SZTytJwCbWKqJDL) | [Paula Cole](https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1) | [This Fire](https://open.spotify.com/album/5cUiPJUUMfNQr0ELSDGscs) | 5:20 |
+| 49 | [Secret Garden](https://open.spotify.com/track/68uuz61IqrSJjO6ffO3yHc) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Greatest Hits](https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG) | 4:26 |
 | 50 | [Hey Jealousy](https://open.spotify.com/track/4o7ZPI2fmEi3piRe0Hrfpy) | [Gin Blossoms](https://open.spotify.com/artist/6kXp61QMZFPcKMcRPqoiVj) | [New Miserable Experience](https://open.spotify.com/album/484pzryEPqn6KSMLtP2c4f) | 3:56 |
 | 51 | [Erase / Rewind](https://open.spotify.com/track/3JfkNCiXjHEVkbFfCQ417E) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [Gran Turismo \(Remastered\)](https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc) | 3:38 |
 | 52 | [Let Her Cry](https://open.spotify.com/track/6NGi23FFKq9tH5NR1NcTw2) | [Hootie & The Blowfish](https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof) | [Cracked Rear View](https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K) | 5:18 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3fHHqLkbnV.md) - [plain]
 | 79 | [Come To My Window](https://open.spotify.com/track/4LmlGaGTEbTGE5VngAbpA3) | [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA) | [Yes I Am](https://open.spotify.com/album/1qzfqlEyzPD0VyCcSSQwZD) | 3:56 |
 | 80 | [I Still Do](https://open.spotify.com/track/7EJvwHjf9NKCmYBBGOuwQS) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 3:16 |
 
-Snapshot ID: `MCw5NmNkYWJhY2U2NzMyZTQ4MzUxNjMwMmE3N2Q5NzZjNDEyNTEwMmZh`
+Snapshot ID: `MCwzMDE2OTFlNDIwMWY5Mzc0ODk5ZWJhMzhjMDI1NTg5MTZkM2Y3NGVh`

@@ -4,7 +4,7 @@
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-219 songs - 9 hr 8 min
+220 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Cuando Duermes](https://open.spotify.com/track/0ynAGgB5TLv14W2HdRytzk) | [Juliana Gonsales](https://open.spotify.com/artist/0rASXzSswkFvGnrpmKIR8D) | [Cuando Duermes](https://open.spotify.com/album/14tU3MYJORpXh8IyF5Fe4w) | 1:48 | 2022-09-09 |  |
 | [Daniela's Dance](https://open.spotify.com/track/26ehYEuwv9W8Y2FSy647Ym) | [Somerset Kent](https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw) | [Daniela's Dance](https://open.spotify.com/album/06319WbKFh10PLmLJkbYpW) | 1:55 | 2022-07-22 |  |
 | [Deep Forest](https://open.spotify.com/track/2Sn8YGxZe2K2dM1HBGYoxA) | [Christopher Varela](https://open.spotify.com/artist/2irB8SXzuA2u0rBten7TnK) | [Deep Forest](https://open.spotify.com/album/7AW5VWkIfnIC4iN50cuCmi) | 1:46 | 2021-12-09 | 2023-03-18 |
+| [Devotion](https://open.spotify.com/track/6jEZ4J76ZXnj49JZrMCTIM) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Devotion](https://open.spotify.com/album/6ygOd5rPLlHFTzQS2CMpmk) | 2:45 | 2023-08-10 |  |
 | [Different Ways of Losing You](https://open.spotify.com/track/7kWNxTQ5ZIHhLAkHTllHGO) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Different Ways of Losing You](https://open.spotify.com/album/5uKt8albwbbam6MBWkvhEo) | 2:40 | 2022-10-07 |  |
 | [Doing Better](https://open.spotify.com/track/2pmjcW00KX4kdVeNBoU4wo) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Doing Better](https://open.spotify.com/album/49WR8t6KfjCCxVM8FRLau5) | 1:48 | 2022-07-29 | 2022-09-17 |
 | [Dois Mundos](https://open.spotify.com/track/4Ls25DZAykE5rhatYaFivp) | [Derek Shearer](https://open.spotify.com/artist/3W51gb95wAmpctfOfM9no0) | [Clinton Hill](https://open.spotify.com/album/6TNK5hsPc9fZbRSnAejZeI) | 2:46 | 2021-12-23 |  |
@@ -98,7 +99,7 @@
 | [Into The Blue](https://open.spotify.com/track/6Lar44lBB2POrKh3B58qXl) | [Michael Blaese](https://open.spotify.com/artist/338z4B7XseWDX332TXVIsq) | [Into The Blue](https://open.spotify.com/album/7xjfyKbOPYJeLgCQ2LGTy0) | 3:56 | 2022-10-07 |  |
 | [Introspection](https://open.spotify.com/track/2cZJIUh0N1GkzZr3YjL5zN) | [Ron Well](https://open.spotify.com/artist/3SEmNWyAadupLPO2WOcw0W) | [Introspection](https://open.spotify.com/album/2y68AHyHcrTlqtbsAINzbo) | 2:42 | 2023-01-20 |  |
 | [Kalon](https://open.spotify.com/track/3kVLbsa0LduXAdna4E8VI6) | [Jose Luis Minguez](https://open.spotify.com/artist/6SGQqtwYmt7PRq59A3N0kY) | [Kalon](https://open.spotify.com/album/3lfOzzTyavf27SUAy3zyss) | 2:22 | 2022-09-16 | 2023-03-18 |
-| [Keep On Moving](https://open.spotify.com/track/5tJ57yb6Q9PfJI3CBqeKNl) | [Michael Blaese](https://open.spotify.com/artist/338z4B7XseWDX332TXVIsq) | [Keep On Moving](https://open.spotify.com/album/596VrDMDmG48YKdcAnSvm9) | 1:36 | 2023-03-17 |  |
+| [Keep On Moving](https://open.spotify.com/track/5tJ57yb6Q9PfJI3CBqeKNl) | [Michael Blaese](https://open.spotify.com/artist/338z4B7XseWDX332TXVIsq) | [Keep On Moving](https://open.spotify.com/album/596VrDMDmG48YKdcAnSvm9) | 1:36 | 2023-03-17 | 2023-08-11 |
 | [Kinderszenen, Op\. 15: No\. 7, Träumerei \(Arr\. for Guitar Solo\)](https://open.spotify.com/track/1JiY9LLalnplQAxweTXTUt) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Luise Walker](https://open.spotify.com/artist/3AYcgtMYsOooZwBF6vI4XI) | [Segovia & Contemporaries, Vol\. 3: Luise Walker](https://open.spotify.com/album/2O9whRvwQ5Mdq0T3q2lMP3) | 2:51 | 2021-12-09 |  |
 | [La Storia D'Amor](https://open.spotify.com/track/2FNvWhfz1C20qwZaADbkcz) | [Indigo Mazati](https://open.spotify.com/artist/4qJEsoXFek6XB6R2GjJzJw) | [La Storia D'amor](https://open.spotify.com/album/1TlO2EbMobeLY5DQncxm1Q) | 2:50 | 2021-12-09 |  |
 | [La vie sans tempête](https://open.spotify.com/track/443UYWttxhi3XVPHaD261k) | [Thaisa Deboys](https://open.spotify.com/artist/1mIbAzEXDPLycJNcDcck5B) | [La vie sans tempête](https://open.spotify.com/album/013YBPhL4svBS05w8IEoNK) | 2:17 | 2021-12-09 |  |

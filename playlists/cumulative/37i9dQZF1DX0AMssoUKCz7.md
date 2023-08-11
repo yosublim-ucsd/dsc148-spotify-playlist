@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-631 songs - 1 day 8 hr 13 min
+632 songs - 1 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -436,6 +436,7 @@
 | [Perfect Strangers](https://open.spotify.com/track/1Te8WIfLudxjHTr66BL0JK) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Perfect Strangers](https://open.spotify.com/album/3unvtEoEI6Ga2FMKotI20p) | 3:16 | 2022-04-01 | 2022-04-19 |
 | [Photograph](https://open.spotify.com/track/2bq2Ipl9FvcHHoQlPBPFPw) | [Kid On The Block](https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH), [Fini](https://open.spotify.com/artist/6ar3PBCFiFgb4aBlFqUZyx) | [Photograph](https://open.spotify.com/album/67NJrGFImrOr9joaz0GZXG) | 2:54 | 2022-09-23 | 2023-01-14 |
 | [Place to Go](https://open.spotify.com/track/65yDkqOYwfkeIQYl8ayAGE) | [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu), [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio) | [Place to Go](https://open.spotify.com/album/2GPq2njeplRF9QnuASHO98) | 3:03 | 2022-05-13 | 2023-08-10 |
+| [Pocketful of Sunshine](https://open.spotify.com/track/4wY5xcMsdYBGphuO4vEao1) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [LAST CALL](https://open.spotify.com/artist/2LoibTtixf5tjTYORAxbtN) | [Pocketful of Sunshine](https://open.spotify.com/album/5M5dIzCCOQI84JA5ONuIRN) | 2:29 | 2023-08-04 |  |
 | [Praise You \(Chill Mix\) \- Extended Mix](https://open.spotify.com/track/4MQH3f29tWW0P0DE6SgOlb) | [King Topher](https://open.spotify.com/artist/2qPxiZiD34NtmokWN6RoP2), [Michael Meaco](https://open.spotify.com/artist/3k9TFkTMa17cpLQLGKxQXV) | [Praise You](https://open.spotify.com/album/0bbF23nbT2Dexsuiok1Yro) | 3:21 | 2022-01-14 | 2022-05-29 |
 | [Probably Paradise](https://open.spotify.com/track/3ASJqw6Ih1vz1s44j7cPyS) | [Luvine](https://open.spotify.com/artist/4mxVvkFC2mmOJ5QXBdRSDy), [Lisa Rowe](https://open.spotify.com/artist/4WCciDwAfaLXtcH4yjfaDq) | [Probably Paradise](https://open.spotify.com/album/1XPGR76SriABi9I1b794RV) | 2:03 | 2022-06-17 |  |
 | [Problems](https://open.spotify.com/track/3GlJE0D0d8TsmcDLaCpVCq) | [Guille Alvarez](https://open.spotify.com/artist/4fe5ql9g8VB9jiBy37SuLY) | [Problems](https://open.spotify.com/album/1tPnmiEsktiEAVMjruALtI) | 2:37 | 2022-08-12 | 2023-06-17 |
@@ -598,7 +599,7 @@
 | [Wasted Youth](https://open.spotify.com/track/4bQf5CaoiYJY1PEAa6zhba) | [Myrrhe](https://open.spotify.com/artist/3SQOJGwgR1PKCa52M1W6EV), [Jethro](https://open.spotify.com/artist/15oiQRdZa4LrpfMbJ2dwzK) | [Wasted Youth](https://open.spotify.com/album/76n6X6309k6mGKEgX6aC6C) | 2:29 | 2022-07-22 | 2022-07-28 |
 | [Wave Goodbye \(feat\. Jeffrey Jey\)](https://open.spotify.com/track/115ndcAyWMabNy7WgUzP7t) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq), [Jeffrey Jey](https://open.spotify.com/artist/2mwT6u3QUHIlTHGzDRCnrk) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:15 | 2022-02-18 | 2022-04-15 |
 | [Waves](https://open.spotify.com/track/6OzvLRbIvjLPJs5lN7MeaM) | [Gabriel Morais Jr](https://open.spotify.com/artist/3jTAleOz2QG9rgNrkjcEKb), [Ayla Nova](https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ) | [Waves](https://open.spotify.com/album/3jInq6xu9DvJHP3e7KUL8Z) | 2:31 | 2022-04-01 |  |
-| [We Are Good](https://open.spotify.com/track/5VSiXBaSNxajxU4eF4Zl5b) | [James Stefano](https://open.spotify.com/artist/38Hlo0i9xWEI6JCe28nlzf), [HeɅven](https://open.spotify.com/artist/12PufqR6w54uHrEiOkJnzU), [John Skyfield](https://open.spotify.com/artist/6G8Vv979uOK1e7ZBIX2rzp) | [We Are Good](https://open.spotify.com/album/0u9oBG4dkgrtdlawZ4QB0W) | 2:47 | 2022-07-01 |  |
+| [We Are Good](https://open.spotify.com/track/5VSiXBaSNxajxU4eF4Zl5b) | [James Stefano](https://open.spotify.com/artist/38Hlo0i9xWEI6JCe28nlzf), [HeɅven](https://open.spotify.com/artist/12PufqR6w54uHrEiOkJnzU), [John Skyfield](https://open.spotify.com/artist/6G8Vv979uOK1e7ZBIX2rzp) | [We Are Good](https://open.spotify.com/album/0u9oBG4dkgrtdlawZ4QB0W) | 2:47 | 2022-07-01 | 2023-08-11 |
 | [We Come \- Radio Edit](https://open.spotify.com/track/4yRuPrh3Zf5NFJjbC6NvKp) | [Boehm](https://open.spotify.com/artist/08p782h5VznNEQMM4wAEp9) | [We Come \(Radio Edit\)](https://open.spotify.com/album/72p0UKXpd4XMwuNB896Nee) | 3:36 | 2022-01-14 | 2022-04-20 |
 | [We Start Fires](https://open.spotify.com/track/0hsMhZA3gguNuHOcDsGmOf) | [Little Giants](https://open.spotify.com/artist/37X06XsrLg91pJf5y9kb8A) | [We Start Fires](https://open.spotify.com/album/4exjA36NpcCqgSejlIVkaL) | 3:48 | 2022-01-14 |  |
 | [We Turn The World Around](https://open.spotify.com/track/33uV0G85zoAlzHYTJyaGRl) | [Tanja La Croix](https://open.spotify.com/artist/2Zduc37bY0HSMP8bzy9JWw) | [We Turn The World Around](https://open.spotify.com/album/3hFyywIKZuimer96xaXMud) | 3:18 | 2022-01-14 | 2022-07-29 |

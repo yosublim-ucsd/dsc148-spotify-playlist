@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack to lazing around.",
-  "num_followers": 49650,
+  "num_followers": 49739,
   "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDRhMzkwNDk1M2UzYTg2N2ZiYTQ2NmExOTNiMWNmNTYxNWE5MWMz",
+  "snapshot_id": "MCw2YTQzYTI1NDdhM2ViM2VlYjk0YzRkYjIzZDI1ZDI2NDZiMTU1OGI4",
   "tracks": [
     {
       "added_at": "2023-08-08 19:42:35",
@@ -667,26 +667,6 @@
     {
       "added_at": "2023-08-08 19:42:35",
       "album": {
-        "name": "Alright",
-        "url": "https://open.spotify.com/album/2GJCsJ8mn64XEQbss1WRMJ"
-      },
-      "artists": [
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        },
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 172536,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/0zhtsgZpLGeBNQ4MvBV5c5"
-    },
-    {
-      "added_at": "2023-08-08 19:42:35",
-      "album": {
         "name": "Thinking 'Bout Love",
         "url": "https://open.spotify.com/album/1L11rcXButW0xA46an3fRP"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 184200,
       "name": "Thinking 'Bout Love",
       "url": "https://open.spotify.com/track/0YHH3qK8Ntqxcc2GFkRrPh"
+    },
+    {
+      "added_at": "2023-08-08 19:42:35",
+      "album": {
+        "name": "Alright",
+        "url": "https://open.spotify.com/album/2GJCsJ8mn64XEQbss1WRMJ"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        },
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 172536,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/0zhtsgZpLGeBNQ4MvBV5c5"
     },
     {
       "added_at": "2023-08-08 19:42:35",

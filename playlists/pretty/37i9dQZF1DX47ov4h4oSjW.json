@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDZiYmEyYjAzNmRiMmVkNzFiZTc0MGU3MTk1MjJhOGFmNDgwMzI2",
+  "snapshot_id": "MCw4NjQxMjM3YTYxY2EyYTA4N2IyZDkzOWY0NzM2MmFhZjhjYTc3MjI5",
   "tracks": [
     {
       "added_at": "2023-03-12 10:18:38",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Reverence",
-        "url": "https://open.spotify.com/album/6qC9QuQTLqaRGlOv9DDNEI"
-      },
-      "artists": [
-        {
-          "name": "Andrea Monet",
-          "url": "https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Reverence",
-      "url": "https://open.spotify.com/track/058YoEqihKwmd8ipTOEWse"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Eyes Closed And Traveling",
         "url": "https://open.spotify.com/album/5Lc2PFEqSXXRAL3swmftRb"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 219549,
       "name": "Eyes Closed And Traveling",
       "url": "https://open.spotify.com/track/6zYHwIlDPraiG9UTg4y0oe"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Reverence",
+        "url": "https://open.spotify.com/album/6qC9QuQTLqaRGlOv9DDNEI"
+      },
+      "artists": [
+        {
+          "name": "Andrea Monet",
+          "url": "https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Reverence",
+      "url": "https://open.spotify.com/track/058YoEqihKwmd8ipTOEWse"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -963,38 +963,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Salamander",
-        "url": "https://open.spotify.com/album/2GfvzDnOw4QdnlgRcQzaLn"
-      },
-      "artists": [
-        {
-          "name": "Ennis Elder",
-          "url": "https://open.spotify.com/artist/1qhYG8GCWDkVJ0M4botQcd"
-        }
-      ],
-      "duration_ms": 185620,
-      "name": "Salamander",
-      "url": "https://open.spotify.com/track/1BshZyebub5iJgEBY26zKl"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Bienveillant",
-        "url": "https://open.spotify.com/album/49FTA4izcTj5bCtLcDg3Cr"
-      },
-      "artists": [
-        {
-          "name": "Edie Chastain",
-          "url": "https://open.spotify.com/artist/1Vzm8Hkynchj9tII4nklKk"
-        }
-      ],
-      "duration_ms": 117472,
-      "name": "Bienveillant",
-      "url": "https://open.spotify.com/track/0RFePvTBDtrlnhopyDRS73"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Dolce",
         "url": "https://open.spotify.com/album/7GKZUq1a6RjmM2SHRqotMv"
       },
@@ -1011,6 +979,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Salamander",
+        "url": "https://open.spotify.com/album/2GfvzDnOw4QdnlgRcQzaLn"
+      },
+      "artists": [
+        {
+          "name": "Ennis Elder",
+          "url": "https://open.spotify.com/artist/1qhYG8GCWDkVJ0M4botQcd"
+        }
+      ],
+      "duration_ms": 185620,
+      "name": "Salamander",
+      "url": "https://open.spotify.com/track/1BshZyebub5iJgEBY26zKl"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Open Window",
         "url": "https://open.spotify.com/album/3Ihliq76Oc21o68PAURoES"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 126000,
       "name": "Open Window",
       "url": "https://open.spotify.com/track/2vRsp5AMbl1bex8OGuT1Ox"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Bienveillant",
+        "url": "https://open.spotify.com/album/49FTA4izcTj5bCtLcDg3Cr"
+      },
+      "artists": [
+        {
+          "name": "Edie Chastain",
+          "url": "https://open.spotify.com/artist/1Vzm8Hkynchj9tII4nklKk"
+        }
+      ],
+      "duration_ms": 117472,
+      "name": "Bienveillant",
+      "url": "https://open.spotify.com/track/0RFePvTBDtrlnhopyDRS73"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/061BZmW8qfNCy5a1VkqRMr"
-      },
-      "artists": [
-        {
-          "name": "Piotr Wiese",
-          "url": "https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA"
-        }
-      ],
-      "duration_ms": 114697,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/4FWHZMgkRqos4JD0Y9UUDb"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Pour Vous",
         "url": "https://open.spotify.com/album/3w7nVmkMcpe9Vqo4BtG5nD"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 211000,
       "name": "Exhibitions",
       "url": "https://open.spotify.com/track/5YyuiRIA1yDtS6ojdUvnUB"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/061BZmW8qfNCy5a1VkqRMr"
+      },
+      "artists": [
+        {
+          "name": "Piotr Wiese",
+          "url": "https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA"
+        }
+      ],
+      "duration_ms": 114697,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/4FWHZMgkRqos4JD0Y9UUDb"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Branches \u00e9toil\u00e9es",
-        "url": "https://open.spotify.com/album/1EpKF5KgUMncRXA0hC4MJj"
-      },
-      "artists": [
-        {
-          "name": "Leonard Czernay",
-          "url": "https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM"
-        }
-      ],
-      "duration_ms": 166795,
-      "name": "Branches \u00e9toil\u00e9es",
-      "url": "https://open.spotify.com/track/4FoP6Z1UO96TSRdjD4aAQq"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Lizards play",
         "url": "https://open.spotify.com/album/5lPrbJLWMohcRtbX1SDn5p"
       },
@@ -1139,18 +1123,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Visionaire",
-        "url": "https://open.spotify.com/album/3kAsZxO4D7aYpaJbcGyfQa"
+        "name": "Branches \u00e9toil\u00e9es",
+        "url": "https://open.spotify.com/album/1EpKF5KgUMncRXA0hC4MJj"
       },
       "artists": [
         {
-          "name": "Anna Goya",
-          "url": "https://open.spotify.com/artist/3T6VP5tdYDJR2H9sc62fMW"
+          "name": "Leonard Czernay",
+          "url": "https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM"
         }
       ],
-      "duration_ms": 103000,
-      "name": "Visionaire",
-      "url": "https://open.spotify.com/track/3XmRYyDspHCnlXkvHAYVLL"
+      "duration_ms": 166795,
+      "name": "Branches \u00e9toil\u00e9es",
+      "url": "https://open.spotify.com/track/4FoP6Z1UO96TSRdjD4aAQq"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1171,6 +1155,22 @@
       "duration_ms": 76933,
       "name": "Variations on a Polish Theme, Op. 10: No. 5 Andantino",
       "url": "https://open.spotify.com/track/3bcdLMrAxrfn5dxInjIdI2"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Visionaire",
+        "url": "https://open.spotify.com/album/3kAsZxO4D7aYpaJbcGyfQa"
+      },
+      "artists": [
+        {
+          "name": "Anna Goya",
+          "url": "https://open.spotify.com/artist/3T6VP5tdYDJR2H9sc62fMW"
+        }
+      ],
+      "duration_ms": 103000,
+      "name": "Visionaire",
+      "url": "https://open.spotify.com/track/3XmRYyDspHCnlXkvHAYVLL"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Feels like home",
-        "url": "https://open.spotify.com/album/5dzG0zwWuSsExLMB8DAnXz"
-      },
-      "artists": [
-        {
-          "name": "Temperance Lloyd",
-          "url": "https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq"
-        }
-      ],
-      "duration_ms": 153902,
-      "name": "Feels like home",
-      "url": "https://open.spotify.com/track/4KM5cQbSeD8xIqohdLkfgP"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Upraise",
         "url": "https://open.spotify.com/album/7CtSyctCEaXNdTv4ZxTGnz"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 147288,
       "name": "Upraise",
       "url": "https://open.spotify.com/track/0TbUBfDnRESf3Z41MajK2D"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Feels like home",
+        "url": "https://open.spotify.com/album/5dzG0zwWuSsExLMB8DAnXz"
+      },
+      "artists": [
+        {
+          "name": "Temperance Lloyd",
+          "url": "https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq"
+        }
+      ],
+      "duration_ms": 153902,
+      "name": "Feels like home",
+      "url": "https://open.spotify.com/track/4KM5cQbSeD8xIqohdLkfgP"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "A Letter Home",
-        "url": "https://open.spotify.com/album/2Qb9ubcV8RtJoyaNGcE4nV"
-      },
-      "artists": [
-        {
-          "name": "Berlioz",
-          "url": "https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar"
-        }
-      ],
-      "duration_ms": 139500,
-      "name": "A Letter Home",
-      "url": "https://open.spotify.com/track/5CG4KWy5qqSnv62DmMjTrH"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Center of Gravity",
         "url": "https://open.spotify.com/album/53A24jAS0pIuBHGINApD71"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 198739,
       "name": "Mantra for Piano",
       "url": "https://open.spotify.com/track/2FifEFnO1xZHMsG8O6Ir6p"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "A Letter Home",
+        "url": "https://open.spotify.com/album/2Qb9ubcV8RtJoyaNGcE4nV"
+      },
+      "artists": [
+        {
+          "name": "Berlioz",
+          "url": "https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar"
+        }
+      ],
+      "duration_ms": 139500,
+      "name": "A Letter Home",
+      "url": "https://open.spotify.com/track/5CG4KWy5qqSnv62DmMjTrH"
     },
     {
       "added_at": "2023-03-12 10:18:38",

@@ -4,7 +4,7 @@
 
 > Music from Travis Scott, Drake and Latto.
 
-1,719 songs - 3 day 16 hr 48 min
+1,720 songs - 3 day 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1410,6 +1410,7 @@
 | [Stop Breathing](https://open.spotify.com/track/6mM8gri8d2abYYomjOV4ut) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Stop Breathing](https://open.spotify.com/album/1nP2b8dTaVUvvAOyRbDoBe) | 1:50 | 2022-09-30 | 2022-12-31 |
 | [Stop Snitchin \(feat\. DaBaby\) \- Remix](https://open.spotify.com/track/4rbYZZkMTz1TTty0if3oRv) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [4REAL 4REAL](https://open.spotify.com/album/5zuM1EG06X1J7VsIF1omRm) | 2:16 | 2019-05-26\* | 2019-08-13 |
 | [Storyteller](https://open.spotify.com/track/3P14DrMQLh1CqKBki4e98s) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Storyteller](https://open.spotify.com/album/28Y1Tj8nZRro47bwhKnOiV) | 2:46 | 2022-06-10 | 2022-06-18 |
+| [Straight Outta Compton](https://open.spotify.com/track/6KIKRz9eSTXdNsGUnomdtW) | [N.W.A.](https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay) | [Straight Outta Compton](https://open.spotify.com/album/0Y7qkJVZ06tS2GUCDptzyW) | 4:18 | 2023-08-10 |  |
 | [Straight To It \(feat\. Fivio Foreign\)](https://open.spotify.com/track/4RaV9tFFV7R04lglRhgg5O) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [What It Means To Be King](https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B) | 2:58 | 2022-03-04 | 2022-03-12 |
 | [Straightenin](https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Straightenin](https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51) | 4:15 | 2021-05-15 | 2021-08-28 |
 | [Street Runner](https://open.spotify.com/track/45kgqMRkC29qjBlzeaJcad) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Street Runner](https://open.spotify.com/album/1aYz6lWTYHwEz9sfA1Cvrw) | 4:12 | 2021-03-14 | 2021-05-22 |

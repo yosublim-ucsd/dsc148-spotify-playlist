@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 
 > Acid blues, psy\-blues and the early pioneers of psychedelic rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,677 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,696 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 | 6 | [Flying High](https://open.spotify.com/track/5v0ibjQegpYdMUGL95dI1a) | [Country Joe & The Fish](https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL) | [Electric Music For The Mind And Body](https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk) | 2:41 |
 | 7 | [Slip Inside This House \- Stereo LP Version](https://open.spotify.com/track/4GVRHAwABAV0v63YX9Go0p) | [13th Floor Elevators](https://open.spotify.com/artist/7xYxgSJaIf7yOFLmknYX38) | [Easter Everywhere](https://open.spotify.com/album/5RQNjPQbqY82MBTwaQp3ik) | 8:02 |
 | 8 | [Baby Please Don't Go](https://open.spotify.com/track/5FDGmW9TgycCTVwPnKZ4xC) | [The Amboy Dukes](https://open.spotify.com/artist/5cVLuEqb7aOHuzwssXHzWI) | [Journey To The Center Of The Mind](https://open.spotify.com/album/1C7Z6X7m9uxVP9Jtaoyvj5) | 5:38 |
-| 9 | [A Child of a Few Hours Is Burning to Death](https://open.spotify.com/track/1U0JgQRSufNmWPvD9aklZt) | [The West Coast Pop Art Experimental Band](https://open.spotify.com/artist/2z4eiJkDaXYCR9kv2UuSgz) | [A Child's Guide To Good And Evil](https://open.spotify.com/album/7wieiJFEfvS2tWCxv8IBhF) | 2:41 |
-| 10 | [Unconscious Power](https://open.spotify.com/track/1nE3arIIBRNwzzbBxhhSC4) | [Iron Butterfly](https://open.spotify.com/artist/3cdvlbCYf4WoBdy89RWkNS) | [Heavy](https://open.spotify.com/album/1J2sJJSNlSoWAT9JWBEBeW) | 2:30 |
+| 9 | [Unconscious Power](https://open.spotify.com/track/1nE3arIIBRNwzzbBxhhSC4) | [Iron Butterfly](https://open.spotify.com/artist/3cdvlbCYf4WoBdy89RWkNS) | [Heavy](https://open.spotify.com/album/1J2sJJSNlSoWAT9JWBEBeW) | 2:30 |
+| 10 | [A Child of a Few Hours Is Burning to Death](https://open.spotify.com/track/1U0JgQRSufNmWPvD9aklZt) | [The West Coast Pop Art Experimental Band](https://open.spotify.com/artist/2z4eiJkDaXYCR9kv2UuSgz) | [A Child's Guide To Good And Evil](https://open.spotify.com/album/7wieiJFEfvS2tWCxv8IBhF) | 2:41 |
 | 11 | [Leavin' Trunk](https://open.spotify.com/track/4SoICrZ3Gf9Dlv8XdJ166H) | [Sleepy John Estes](https://open.spotify.com/artist/00UuF3fAevVz8L0f1WfiQ6), [Keef Hartley Band](https://open.spotify.com/artist/2CPDvRMU1VZcPlwoCyKWZ2) | [Halfbreed](https://open.spotify.com/album/0jB7KRF2763gFcrl11luHi) | 5:56 |
 | 12 | [Baby Blue](https://open.spotify.com/track/4f2kQCUusGjKrUeowAtUOc) | [The Chocolate Watchband](https://open.spotify.com/artist/0BNTrhhkZLsbcWAidMz98A) | [Inner Mystique](https://open.spotify.com/album/59gjybUFPdD8weo8AOFjzd) | 3:12 |
 | 13 | [\(BALLAD OF\) THE HIP DEATH GODDESS](https://open.spotify.com/track/1IQmZ2Hz0HEtb8rwXNci4i) | [Ultimate Spinach](https://open.spotify.com/artist/38ULknnQK6G4oLJtTtPkkM) | [Ultimate Spinach](https://open.spotify.com/album/3g1Dzj83jWRcQMCtmLHTka) | 8:14 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 | 27 | [The World](https://open.spotify.com/track/6URPlvJyBNQfASywtcLKKj) | [Count Five](https://open.spotify.com/artist/57WXdjUf5Vlq3klNZegeTP) | [Psychotic Reaction](https://open.spotify.com/album/7Mccdl5xR9mfqo00lgDVDA) | 2:13 |
 | 28 | [Sally Go 'Round the Roses](https://open.spotify.com/track/1w7Gu4ohc5YLkgJMdRwin1) | [Grace Slick](https://open.spotify.com/artist/3wNX7r7t4Vaahrx9XzyYIY), [The Great Society](https://open.spotify.com/artist/2ukLYCAJW8XDlyobhmWQ8x) | [Grace Slick & The Great Society](https://open.spotify.com/album/74cJP3XQnuylRJDguGCRyY) | 6:32 |
 | 29 | [The World's On Fire](https://open.spotify.com/track/5Osu3BeGYl2t0auN3IXHam) | [Strawberry Alarm Clock](https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI) | [Incense And Peppermints](https://open.spotify.com/album/4NbLTe8YqLFwys4SmkEofd) | 8:25 |
-| 30 | [Fox Is Sick](https://open.spotify.com/track/7uEw55wwByGZnEUTX0MaEI) | [The Savage Resurrection](https://open.spotify.com/artist/16dZsYfKoAqmnt1tyhAPkE) | [The Savage Resurrection](https://open.spotify.com/album/2Tzvkt45C7PLlLICWYNslu) | 2:42 |
-| 31 | [Starvation](https://open.spotify.com/track/77LqKLpqMUiXqqrnrZx7hX) | [The Golden Dawn](https://open.spotify.com/artist/5zATwJgFNdxKRj3xxLtdAx) | [Power Plant](https://open.spotify.com/album/77sNTMqrlhhqfo1fOcbjBb) | 2:52 |
+| 30 | [Starvation](https://open.spotify.com/track/77LqKLpqMUiXqqrnrZx7hX) | [The Golden Dawn](https://open.spotify.com/artist/5zATwJgFNdxKRj3xxLtdAx) | [Power Plant](https://open.spotify.com/album/77sNTMqrlhhqfo1fOcbjBb) | 2:52 |
+| 31 | [Fox Is Sick](https://open.spotify.com/track/7uEw55wwByGZnEUTX0MaEI) | [The Savage Resurrection](https://open.spotify.com/artist/16dZsYfKoAqmnt1tyhAPkE) | [The Savage Resurrection](https://open.spotify.com/album/2Tzvkt45C7PLlLICWYNslu) | 2:42 |
 | 32 | [You Shouldn't Do That \- 1996 Remaster](https://open.spotify.com/track/1yC4zXWJuywuVp5Hm5nobQ) | [Hawkwind](https://open.spotify.com/artist/2jK54ZlZhTF1TxygsVeR05) | [In Search of Space](https://open.spotify.com/album/1cgsYqtDTMTetu7FjEsIhI) | 15:41 |
 | 33 | [a\) Take Me For A Little While b\) RYFI \(Illusions Of My Childhood\-Part Three\)](https://open.spotify.com/track/2AXigUpz4ycfVS550RH8wI) | [Vanilla Fudge](https://open.spotify.com/artist/0vIMq3W8V63uR4Ymgm2pF1) | [Vanilla Fudge](https://open.spotify.com/album/4rvXyAx9phjxiU4cQS1AJh) | 3:55 |
 | 34 | [Good Times Are So Hard To Find](https://open.spotify.com/track/1RCaB8ZclzAsuw9jRi0SIx) | [Blue Cheer](https://open.spotify.com/artist/4PI5IHRvANLL76O5gRmGKL) | [The History Of Blue Cheer: Good Times Are So Hard To Find](https://open.spotify.com/album/7ecNoSQ9aRZnxAHwTCpVt9) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 | 49 | [I Can't Dance](https://open.spotify.com/track/4MT7JJWn6AOcUHvakxSbpN) | [Barry Melton](https://open.spotify.com/artist/1ugWCcIaInMcgJN2ghXfXi) | [Level with Me](https://open.spotify.com/album/0hURuklitZ9QZFg6OBnWCM) | 2:39 |
 | 50 | [Trials of a City](https://open.spotify.com/track/3b5jvjpB3Uf88uilq0aGLF) | [Mighty Baby](https://open.spotify.com/artist/0OCbY2Rzt59ilutteUnG8I) | [Mighty Baby](https://open.spotify.com/album/32ZtQafs8OxDkFTOFvprN7) | 6:01 |
 
-Snapshot ID: `MCwwYTU0YjEzYzYzY2E2M2JmNTczOWIyOGY5NTlhOTczNWU4NGQ0ZmM0`
+Snapshot ID: `MCw4ZjNjYjkzMmEzYjJkNzY3NzE2ZDM4NWVmYWYwZGEyMjAwOTBmMDI0`

@@ -376,7 +376,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 1346271,
       "name": "Africa (feat. Eric Dolphy) - Live",
       "url": "https://open.spotify.com/track/5V5HRJEn8y0ZcfOmdGMaZj"
@@ -888,7 +888,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 242248,
       "name": "Badge Of Honor",
       "url": "https://open.spotify.com/track/00zTOKDOuVKuwOe7lSBble"
@@ -1880,7 +1880,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 189066,
       "name": "Dagger",
       "url": "https://open.spotify.com/track/1hICPeE2RsgszcRY0qMswI"
@@ -2180,7 +2180,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 256402,
       "name": "Desert Woman",
       "url": "https://open.spotify.com/track/60YaAz53fBB3CXHPxhlUVu"
@@ -2954,6 +2954,24 @@
       "duration_ms": 185597,
       "name": "El Ni\u00f1o (feat. Lil Wayne & Boyfriend)",
       "url": "https://open.spotify.com/track/7niCz3hixgqnEBnO2mEHhI"
+    },
+    {
+      "album": {
+        "name": "Nosebleeds",
+        "url": "https://open.spotify.com/album/7EQ6sixCqVYPCPqARdU1Ct"
+      },
+      "artists": [
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233880,
+      "name": "End Of My Rope",
+      "url": "https://open.spotify.com/track/5FFsgaORyRryitLMpgzXW3"
     },
     {
       "album": {
@@ -3731,6 +3749,24 @@
     },
     {
       "album": {
+        "name": "Starcatcher",
+        "url": "https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272601,
+      "name": "Frozen Light",
+      "url": "https://open.spotify.com/track/1DQddCOVMwcb79NSDpFmcA"
+    },
+    {
+      "album": {
         "name": "Fuck Wit Y'All (Chopped & Screwed)",
         "url": "https://open.spotify.com/album/2BR7tCF7MQH9YGkfoSbtoG"
       },
@@ -4020,6 +4056,28 @@
       "duration_ms": 209523,
       "name": "Goodies - Knock2 Remix",
       "url": "https://open.spotify.com/track/11u8UpRXIdNNzJszoskdcb"
+    },
+    {
+      "album": {
+        "name": "Evenings At The Village Gate: John Coltrane with Eric Dolphy (Live)",
+        "url": "https://open.spotify.com/album/7AleWm3WG8Ko8AJjfaa3oW"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Eric Dolphy",
+          "url": "https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 962852,
+      "name": "Greensleeves (feat. Eric Dolphy) - Live",
+      "url": "https://open.spotify.com/track/1hTLpqSaXhyJrZZmtaSZU8"
     },
     {
       "album": {
@@ -5446,7 +5504,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 227304,
       "name": "Limousine - Live at Sugarshack Sessions",
       "url": "https://open.spotify.com/track/2c8pzrb3bCbMERdxjUbKsW"
@@ -7949,6 +8007,24 @@
     },
     {
       "album": {
+        "name": "Wax (Live at Sugarshack Sessions)",
+        "url": "https://open.spotify.com/album/0kGqq07OHhebsF8IjQE5Wd"
+      },
+      "artists": [
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253590,
+      "name": "Shoulda Tried Harder - Live at Sugarshack Sessions",
+      "url": "https://open.spotify.com/track/7gYKbMGvplnFClS3fWiTgt"
+    },
+    {
+      "album": {
         "name": "Show Me How",
         "url": "https://open.spotify.com/album/5apa1NQ3BXK4XlBsbc4MPz"
       },
@@ -9252,7 +9328,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 102536,
       "name": "The Fraoch Poop Song",
       "url": "https://open.spotify.com/track/0u7gTrejb9nKFyn4YIAWAH"
@@ -9406,6 +9482,24 @@
       "duration_ms": 111452,
       "name": "The JoPlaysViolin Poop Song",
       "url": "https://open.spotify.com/track/1KT399H7thJBjZaE5OH9ne"
+    },
+    {
+      "album": {
+        "name": "Superb Name Poop Songs",
+        "url": "https://open.spotify.com/album/3diYB1toXMSCOuKivz7zId"
+      },
+      "artists": [
+        {
+          "name": "The Odd Man Who Sings About Poop, Puke and Pee",
+          "url": "https://open.spotify.com/artist/7zM4smYl6oC7yMLzfpK7I4"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123341,
+      "name": "The Justine Poop Song",
+      "url": "https://open.spotify.com/track/5mr30gHCYSSnxO9gwYuUC0"
     },
     {
       "album": {
@@ -10600,6 +10694,24 @@
       "duration_ms": 227577,
       "name": "Weird Science (Metal Version)",
       "url": "https://open.spotify.com/track/37WT6TjrstrFC9T3To5zWU"
+    },
+    {
+      "album": {
+        "name": "BLISS",
+        "url": "https://open.spotify.com/album/0t10C5PLUXcmqoM9IwtSfL"
+      },
+      "artists": [
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48306,
+      "name": "Welcome To The P.I.T.S. (Skit)",
+      "url": "https://open.spotify.com/track/7BOMUYPpca6405jjrWTL6N"
     },
     {
       "album": {

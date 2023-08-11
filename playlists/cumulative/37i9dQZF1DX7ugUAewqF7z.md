@@ -4,7 +4,7 @@
 
 > ‘Ssuply’ makes our own playlist by listening to various stories from around the world, getting recommendations for music that fits the situation\. \(세상의 다양한 이야기를 듣고, 상황에 딱 맞는 음악을 추천받아, 우리만의 플레이리스트를 만드는 ‘썰플리’입니다.\)
 
-72 songs - 4 hr 8 min
+73 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Perfume](https://open.spotify.com/track/0jd4aa9XgV5eom0ez0WBrD) | [NCT DOJAEJUNG](https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw) | [Perfume \- The 1st Mini Album](https://open.spotify.com/album/3sVBVr420an61GAwib9AYk) | 2:47 | 2023-06-15 |  |
 | [Perhaps Love](https://open.spotify.com/track/73lwJ5P3ehRiqimOgWiwOE) | [HowL](https://open.spotify.com/artist/56bJgGFV3JTVW5hAGEU1ad), [J.ae](https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY) | [Princess Hours \(Original Television Soundtrack\)](https://open.spotify.com/album/0VyUBfpNgMgI3DBQgp4Ogu) | 4:35 | 2023-06-15 |  |
 | [Picnic](https://open.spotify.com/track/1MZ1Y6rIbt008t1TOhHlt5) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅠ Bom](https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg) | 3:04 | 2023-06-15 |  |
-| [Picture of You](https://open.spotify.com/track/1q9CA3YEWtoJniIFzaSkdu) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [Louie](https://open.spotify.com/artist/3swZbFXoZgWR6TCnMDJgCB) | [Picture of You](https://open.spotify.com/album/36svQD3MkJQ9dcCyvB64eL) | 2:58 | 2023-06-15 |  |
+| [Picture of You](https://open.spotify.com/track/4k65QOnSekJUpGuV6dHUHU) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [Hwang Moon Seob](https://open.spotify.com/artist/0a9CLtjf2oj3OooJA0ZbTr) | [Picture of you](https://open.spotify.com/album/3WLs3in6kQskYA2bKsYQa9) | 2:58 | 2023-08-04 |  |
+| [Picture of You](https://open.spotify.com/track/1q9CA3YEWtoJniIFzaSkdu) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [Louie](https://open.spotify.com/artist/3swZbFXoZgWR6TCnMDJgCB) | [Picture of You](https://open.spotify.com/album/36svQD3MkJQ9dcCyvB64eL) | 2:58 | 2023-06-15 | 2023-08-11 |
 | [Planet Girl \(Feat\. pH\-1\)](https://open.spotify.com/track/33G3yRbFmwmYVw0N12v177) | [Jooyoung](https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Fountain](https://open.spotify.com/album/7kfhx5sztT503CUu9I1r8D) | 3:09 | 2023-06-15 |  |
 | [Queencard](https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I feel](https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG) | 2:41 | 2023-07-07 |  |
 | [Shoot Out](https://open.spotify.com/track/55Md5fnLfCpXzUATASy6Rk) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Take.1 Are You There?](https://open.spotify.com/album/1mJf2cC6TfClR8cICGZP7I) | 3:27 | 2023-06-15 |  |

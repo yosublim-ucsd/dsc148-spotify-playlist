@@ -4,7 +4,7 @@
 
 > 理由のない焦り、苛立ち。わけもなく叫びたくなる。思春期を過ごす全てのティーンに贈る、帰り道の応援歌。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-54 songs - 3 hr 25 min
+56 songs - 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Page One](https://open.spotify.com/track/3yWXrzzmQFMxOe9bVcQVJ2) | [reGretGirl](https://open.spotify.com/artist/5uvz2VwV3ubUy1Tm1UOrLs) | [Page One](https://open.spotify.com/album/3w754CuU5wKeIVJSn0IEa8) | 2:58 | 2023-07-25 |  |
 | [Shunrai](https://open.spotify.com/track/6QIyB1933cJ6VBt50bzidT) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 3:39 | 2023-07-25 |  |
 | [Soranji](https://open.spotify.com/track/6O4twzzHHIM6mmTqPpJNYE) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Soranji](https://open.spotify.com/album/62yXiiuhWiIwgurRnXC16V) | 5:41 | 2023-07-25 |  |
-| [spiral](https://open.spotify.com/track/6xAIVrhyFQaHwPVWfUvWvE) | [LONGMAN](https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7) | [spiral](https://open.spotify.com/album/5TcOT3xsaZzNiocd2Faxzs) | 3:51 | 2023-08-08 |  |
+| [spiral](https://open.spotify.com/track/6xAIVrhyFQaHwPVWfUvWvE) | [LONGMAN](https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7) | [spiral](https://open.spotify.com/album/5TcOT3xsaZzNiocd2Faxzs) | 3:51 | 2023-08-08 | 2023-08-11 |
 | [Starting Over](https://open.spotify.com/track/2kuTXMJcOuIgZGc73kP5Is) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [Starting Over](https://open.spotify.com/album/3d4K0E7Jisj18spw1y7rEF) | 3:10 | 2023-07-25 |  |
 | [Tears](https://open.spotify.com/track/5zYWxTEMDeydXj9Q4wZPSf) | [鉄風東京](https://open.spotify.com/artist/2dcQMsKiEfgJ9t7GolC4rn) | [Tears](https://open.spotify.com/album/3zEexxIy2ciEuhNjY0brkb) | 3:06 | 2023-07-25 |  |
 | [TIME](https://open.spotify.com/track/5QxVQtsN36qJXn1Iow3RFc) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [TIME](https://open.spotify.com/album/7CkTwAm1r9QJGYiyqlydlq) | 3:14 | 2023-07-25 |  |
@@ -41,19 +41,21 @@
 | [ケセラセラ](https://open.spotify.com/track/406ZlqOP9nLQxJFBY7d9S4) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ケセラセラ](https://open.spotify.com/album/2Qo9j2bmgZlGOkismqdPpN) | 4:32 | 2023-07-25 |  |
 | [サマータイムシンデレラ](https://open.spotify.com/track/6SwATVDZUy3jha72jDyxe2) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [サマータイムシンデレラ](https://open.spotify.com/album/7hjjJpO7sTSbT90FN9hcZ2) | 3:48 | 2023-08-01 |  |
 | [スパークル](https://open.spotify.com/track/6EuubEs5qOmJdpNhkU47OZ) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [スパークル](https://open.spotify.com/album/0HmvMEiGowPfT2UvYNRDcv) | 3:33 | 2023-07-25 | 2023-08-06 |
+| [ターコイズ](https://open.spotify.com/track/4h0bg0R9tG0OplMXy9SVM2) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [ターコイズ](https://open.spotify.com/album/37SXzOlujwOrbxMDCcFpmY) | 3:19 | 2023-08-10 |  |
 | [ダンスホール](https://open.spotify.com/track/4NaaF28BeO9WzjDrSS71Nz) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ダンスホール](https://open.spotify.com/album/3OyEc77lPQ8QOWMIWvZl08) | 3:23 | 2023-07-25 |  |
 | [ハイキ](https://open.spotify.com/track/571OuDNbmwsysH42KfVp5P) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [ハイキ](https://open.spotify.com/album/4RCWq7krRO3AVFj8fvWhYs) | 3:35 | 2023-07-25 |  |
 | [ブルーアンビエンス](https://open.spotify.com/track/1S1WSh4uCprvucg6Hx57Eh) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [ブルーアンビエンス](https://open.spotify.com/album/4fbghPZI7ZAQIbO4V7yrVj) | 4:10 | 2023-07-25 |  |
 | [ブレーメン feat\. 優里](https://open.spotify.com/track/5zUVDALiILv9EvbvZydVXu) | [BAK](https://open.spotify.com/artist/1WmnQSoQxUa4x14IWgHCiD), [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [ブレーメン feat\. 優里](https://open.spotify.com/album/540MyYAU8u99BcijqR7z65) | 2:54 | 2023-07-25 |  |
 | [ボーイズ ドント クライ](https://open.spotify.com/track/2oZM29QXfk0Oi6d15PjoSp) | [YOAKE](https://open.spotify.com/artist/0psEe4IooMjolOPMrz9A5M) | [ボーイズ ドント クライ](https://open.spotify.com/album/2ukBR6yPc7n60KjGcXxy0V) | 3:01 | 2023-07-25 |  |
 | [ラズベリー](https://open.spotify.com/track/3JLpngLNxVRL6JLaBqqMpo) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [ラズベリー](https://open.spotify.com/album/0hszj3ElKlD0MYdcZg4vrR) | 3:35 | 2023-07-25 |  |
+| [リカ](https://open.spotify.com/track/5iPPyvEn7BcWw34aGKGd6W) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [リカ](https://open.spotify.com/album/5luFrHAHn4fb5r7KhdoYlE) | 3:36 | 2023-08-10 |  |
 | [リンジュー・ラヴ](https://open.spotify.com/track/0NUJhYxwcAAB4UQULseQyX) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [リンジュー・ラヴ](https://open.spotify.com/album/0jH2GxrReBs2SqeVSaM5vU) | 3:05 | 2023-07-25 |  |
 | [何年後も](https://open.spotify.com/track/4QzLOmfT6TzxAGAA7oCfCE) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [何年後も](https://open.spotify.com/album/1wwVLBXwlQ7SpR1ml1tTyt) | 3:23 | 2023-07-25 |  |
 | [僕らはそれを愛と呼んだ](https://open.spotify.com/track/1m4yMmtlUxlmmT4gEzjGSh) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [僕らはそれを愛と呼んだ](https://open.spotify.com/album/6DyaCGI2tKENbFVyTziRcs) | 5:22 | 2023-07-25 |  |
 | [億劫](https://open.spotify.com/track/2w65cyN27BCe45XnwCU30m) | [プランクトン](https://open.spotify.com/artist/4Q8UvCP77UmlQv1oSUMkYF) | [億劫](https://open.spotify.com/album/2CS4CKuvzh2DP5CrIliwXX) | 3:37 | 2023-07-25 |  |
 | [名前は片想い](https://open.spotify.com/track/0o3zVVGJkb1QIOMF9xySiu) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [名前は片想い](https://open.spotify.com/album/6S12v6NjkFLwQwLxxavHY9) | 3:33 | 2023-07-25 |  |
 | [夕方ジェネレーション](https://open.spotify.com/track/2zrkwF6k8fv6BzW5Pg5BS8) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [夕方ジェネレーション](https://open.spotify.com/album/5wRH839yau15M0iWjD8Lsw) | 5:00 | 2023-07-25 |  |
-| [幸せ](https://open.spotify.com/track/3IYDobDC8polFRhtc4ROzA) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幸せ](https://open.spotify.com/album/7EDKJ08ds5T3C7aJZZs6OV) | 4:20 | 2023-07-25 |  |
+| [幸せ](https://open.spotify.com/track/3IYDobDC8polFRhtc4ROzA) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幸せ](https://open.spotify.com/album/7EDKJ08ds5T3C7aJZZs6OV) | 4:20 | 2023-07-25 | 2023-08-11 |
 | [怪獣の花唄](https://open.spotify.com/track/10zz9RZt9DnqcxNWksRNrx) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/2sBQhSi92938W2hCLALSHy) | 3:44 | 2023-07-25 |  |
 | [愛してみてよ減るもんじゃないし](https://open.spotify.com/track/4sCiH4LCVfHsMUmiK6GNGS) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [愛してみてよ減るもんじゃないし](https://open.spotify.com/album/19I3Qy0znrTCbXxoJLGOGH) | 3:18 | 2023-07-25 |  |
 | [斜陽](https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [斜陽](https://open.spotify.com/album/4FGNOtaosV0RFQZohUbGHj) | 3:20 | 2023-07-25 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: Quavo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,182,622 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,182,792 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 49 | [Gunsmoke Town](https://open.spotify.com/track/4286sbHO5syVcp8BrFO2dI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Pistolz & Pearlz](https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b) | 2:54 |
 | 50 | [Kreepin \(feat\. Denzel Curry\)](https://open.spotify.com/track/2nFrlrdIJG0mRi1rTWTLIx) | [Danny Towers](https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu), [DJ Scheme](https://open.spotify.com/artist/1m7LSAMIB1BErIHYSOn32W), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Safe House](https://open.spotify.com/album/20ZYCQ7oh70khsqTG33rRm) | 2:40 |
 
-Snapshot ID: `MCw2NmJhY2RhZGJiNDAzNDYwNDdiOTViZjdmNTY5MGY3ZmIzYjFiYjRm`
+Snapshot ID: `MCw0NTk4YTI2ODVmN2Y5MjYyYWRhZjlkN2VhNjkyODUyMzJlMGZhZjA3`

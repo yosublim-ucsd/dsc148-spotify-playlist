@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moqgdeY56a.md) - [plain]
 
 > Antonio, Pepe, Ángela, Majo & Leonardo..\. Los Aguilar a través de las generaciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,486 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,516 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moqgdeY56a.md) - [plain]
 | 30 | [Cien Años](https://open.spotify.com/track/4SL8wbnGRP0nkIYyjeIKRU) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Un Canto por México, Vol\. II](https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0) | 3:42 |
 | 31 | [Que Me Entierren Con La Banda](https://open.spotify.com/track/4bLdt7O8QjS9XyktGWR8hl) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Tambora, Vol\. 3](https://open.spotify.com/album/1AVjRVIlWr2zzdc8xrm5Mx) | 3:07 |
 | 32 | [Amor Ilegal](https://open.spotify.com/track/4RBH4sNzQen0YqoIhqw7Eg) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Amor Ilegal](https://open.spotify.com/album/65WCj2K3NGk7Qe63CKlvUW) | 2:50 |
-| 33 | [Me Vale](https://open.spotify.com/track/0JVgORYQZm05UVmrHs4DXN) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Me Vale](https://open.spotify.com/album/65gyP6lTxC1JcRWQSiX7nj) | 3:01 |
+| 33 | [Triste Recuerdo](https://open.spotify.com/track/7cE2WMUfKOaU0U7HMUdNaW) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Triste Recuerdo](https://open.spotify.com/album/5uR5QUOgcN5N7UcTbF6L7O) | 3:28 |
 | 34 | [Navajas En El Viento](https://open.spotify.com/track/6EhatS1CYbGwgn1Sip0nG7) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Navajas En El Viento](https://open.spotify.com/album/2yGAqrfzTvChwWsB10c5Nj) | 3:45 |
-| 35 | [Triste Recuerdo](https://open.spotify.com/track/7cE2WMUfKOaU0U7HMUdNaW) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Triste Recuerdo](https://open.spotify.com/album/5uR5QUOgcN5N7UcTbF6L7O) | 3:28 |
+| 35 | [Me Vale](https://open.spotify.com/track/0JVgORYQZm05UVmrHs4DXN) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Me Vale](https://open.spotify.com/album/65gyP6lTxC1JcRWQSiX7nj) | 3:01 |
 | 36 | [Cielo Rojo](https://open.spotify.com/track/34FglmHyQxeya2ZUpsOMvm) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Cielo Rojo](https://open.spotify.com/album/70DsT4xiJHLaWo1plNuB2G) | 4:18 |
 | 37 | [Ni Contigo, Ni Sin Ti](https://open.spotify.com/track/4AH5SY6g1lITqkLwntQV75) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Pepe Aguilar te Acompaña en Navidad](https://open.spotify.com/album/5ecA4SaKr8pKR1tPHw2j3S) | 4:31 |
 | 38 | [Me Vas A Extrañar](https://open.spotify.com/track/47UjuR24Bp3LgCTHNTynXu) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Lo Mejor De Nosotros](https://open.spotify.com/album/6DKj6CdMCUYRYJ4BnJnjd0) | 4:20 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moqgdeY56a.md) - [plain]
 | 44 | [Busca Otro Amor](https://open.spotify.com/track/0d70DBNHHVgJC0GQ90BIrY) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora](https://open.spotify.com/album/32INMqlpUFKi3ve7m9H7nM) | 3:15 |
 | 45 | [Ella Qué Te Dio](https://open.spotify.com/track/6NodQbrmNRrp768y8PG1zl) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 3:48 |
 | 46 | [Qué Falta Me Hace Mi Padre](https://open.spotify.com/track/6jkq3KyVOBcep5HKRHTvOB) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Éxitos Con Banda, Vol\. 4](https://open.spotify.com/album/2ji1g39cwZ9RNtYKC0t4c4) | 3:01 |
-| 47 | [El Moro De Cumpas](https://open.spotify.com/track/7saMayhJnkuIf0dosuuWH4) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Éxitos: Corridos de Caballos Famosos](https://open.spotify.com/album/3WUnXpC1xyvjORAFOym30X) | 3:15 |
-| 48 | [Me Estoy Acostumbrando A Ti](https://open.spotify.com/track/5oZa1smfDqlY8E2rfUgUEl) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por El Amor De Siempre](https://open.spotify.com/album/3anZPZONnJphGTJxmFCfPC) | 3:46 |
+| 47 | [Me Estoy Acostumbrando A Ti](https://open.spotify.com/track/5oZa1smfDqlY8E2rfUgUEl) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por El Amor De Siempre](https://open.spotify.com/album/3anZPZONnJphGTJxmFCfPC) | 3:46 |
+| 48 | [El Moro De Cumpas](https://open.spotify.com/track/7saMayhJnkuIf0dosuuWH4) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Éxitos: Corridos de Caballos Famosos](https://open.spotify.com/album/3WUnXpC1xyvjORAFOym30X) | 3:15 |
 | 49 | [La Chancla](https://open.spotify.com/track/312yuF1Zl8N7M2RuuJ4MUi) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Rancheras de Relajo](https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N) | 3:44 |
 | 50 | [Ando Que Me Lleva](https://open.spotify.com/track/5g3gJFLrcIpVW1G1JfO0uZ) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora, Vol\. 2](https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd) | 3:22 |
 
-Snapshot ID: `MCwzMGVkMDI3NjRhZjkzYmExZmFkOWZiNDhmODM4OGFkMzVkODUxYjBl`
+Snapshot ID: `MCxkY2JjZjI3ZTE4MjU0ZGJjNTFiNjkyZmE5ZDlmMjE2YWMyNDRkYzRj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 
 > Mellow songs from the 1960s\. Cover: Etta James.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,304 likes - 125 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,486 likes - 125 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,13 +76,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 | 66 | [This Magic Moment](https://open.spotify.com/track/4vBDAxKllafwCMDWD76atv) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [All\-Time Greatest Hits & More 1959\-1965](https://open.spotify.com/album/4Pazwl8nUfQj49K6xyADQ7) | 2:31 |
 | 67 | [Blue Velvet](https://open.spotify.com/track/4QelFzhVgLomeQhvKrwM1S) | [Bobby Vinton](https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK) | [The Best Of Bobby Vinton](https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA) | 2:48 |
 | 68 | [Ain't Nothing Like The Real Thing](https://open.spotify.com/track/37soQoNhEEIrhhYgHWK1xU) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [You're All I Need](https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd) | 2:18 |
-| 69 | [Are You Lonesome Tonight?](https://open.spotify.com/track/4xUqqie4bBKufHtlMuZS3k) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Platinum \- A Life In Music](https://open.spotify.com/album/0gv5aiVS1WBUZOKeb7YawE) | 3:06 |
-| 70 | [Till There Was You \- Remastered](https://open.spotify.com/track/0CczH75yFBo53bVqLRvYn4) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Latin Ala Lee](https://open.spotify.com/album/5A7sAUKBDHvRyA5AxkeKAK) | 2:31 |
+| 69 | [Till There Was You \- Remastered](https://open.spotify.com/track/0CczH75yFBo53bVqLRvYn4) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Latin Ala Lee](https://open.spotify.com/album/5A7sAUKBDHvRyA5AxkeKAK) | 2:31 |
+| 70 | [Are You Lonesome Tonight?](https://open.spotify.com/track/4xUqqie4bBKufHtlMuZS3k) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Platinum \- A Life In Music](https://open.spotify.com/album/0gv5aiVS1WBUZOKeb7YawE) | 3:06 |
 | 71 | [Sealed With A Kiss](https://open.spotify.com/track/6oM4ryXpuZmbFfBv2sEe7v) | [Brian Hyland](https://open.spotify.com/artist/6YROFUbu5zRCHi2xkir5pk) | [Chronology](https://open.spotify.com/album/5LUcaJu2OGKCCABM4kgSMj) | 2:42 |
 | 72 | [Piece of My Heart](https://open.spotify.com/track/2GbePPrWWSRxcmW6QRSPae) | [Erma Franklin](https://open.spotify.com/artist/1CzJJJb6hnx84VNhgaJmFG) | [Erma Franklin: Piece Of Her Heart \- The Epic And Shout Years](https://open.spotify.com/album/3GykoJmCI2qmvrgi8zQ7XW) | 2:37 |
 | 73 | [I Wish It Would Rain](https://open.spotify.com/track/1tjpccwiGZTMDfHr5VGCmT) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Wish It Would Rain](https://open.spotify.com/album/5tFgvH6VNLadFVjFfo0F7l) | 2:42 |
-| 74 | [Someday We'll Be Together](https://open.spotify.com/track/79Yk6AlSKi5dxDFINID2hS) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [Cream Of The Crop](https://open.spotify.com/album/44oDkaH8gO3ZvvxKE8lG4I) | 3:31 |
-| 75 | [Trust In Me](https://open.spotify.com/track/5Zu9mG353GB3p26t7M5AmR) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:58 |
+| 74 | [Trust In Me](https://open.spotify.com/track/5Zu9mG353GB3p26t7M5AmR) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:58 |
+| 75 | [Someday We'll Be Together](https://open.spotify.com/track/79Yk6AlSKi5dxDFINID2hS) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [Cream Of The Crop](https://open.spotify.com/album/44oDkaH8gO3ZvvxKE8lG4I) | 3:31 |
 | 76 | [California Dreamin'](https://open.spotify.com/track/63rva3TBizr6x1Yp5uwKfD) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes And Ears](https://open.spotify.com/album/6zK7GV2JCqLknAdTeIhooB) | 2:37 |
 | 77 | [What Becomes Of The Brokenhearted](https://open.spotify.com/track/0wBaPbJ2qsbGqgnGbqBDgP) | [Jimmy Ruffin](https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy) | [Sings Top Ten](https://open.spotify.com/album/5zRvMt37YxCPddq09ivuPV) | 2:58 |
 | 78 | [Spanish Harlem](https://open.spotify.com/track/3UCmuRdeTriWgOZMEJsfqZ) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Spanish Harlem](https://open.spotify.com/album/2WcVleVG28RWzWLDLZnVgp) | 2:54 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 | 124 | [Do Right Woman, Do Right Man](https://open.spotify.com/track/2mVp83pLkWJN03Ha8Txydf) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Heart & Soul: A Retrospective](https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH) | 2:58 |
 | 125 | [All I Could Do Was Cry](https://open.spotify.com/track/7Ca3Zb8wejNYCoei3tlJ9e) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:55 |
 
-Snapshot ID: `MCwxOTI1MjRmODQxYjJmODI1MWUxYmUxNTVjZmM0MjA4ZjViMTAwYjcw`
+Snapshot ID: `MCxiMDBjNDE5ZDg5MWIyNzE3ODc5NjMxY2UyOGU5MmJhMjIzMDMzOGNm`

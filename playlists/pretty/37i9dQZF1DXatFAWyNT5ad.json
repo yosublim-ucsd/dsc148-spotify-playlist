@@ -1,12 +1,12 @@
 {
   "description": "Let's mix it. Cover: Imagine Dragons",
-  "num_followers": 107314,
+  "num_followers": 119735,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGM0NzFhOTYwZDgyN2I2NGJlZTdhMzk0ZDFkYTMyNjdmM2ZlYzNm",
+  "snapshot_id": "MCxjZGFlMjZmNjE5M2QwOTFiZGM1Nzc0NmEyODBlN2Q1YzA3NTMwMTEw",
   "tracks": [
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1129,20 +1129,20 @@
       "url": "https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-09 00:19:30",
       "album": {
-        "name": "I Hope I'm Not Sick",
-        "url": "https://open.spotify.com/album/6bCQByW20neZO3EAjsTU1D"
+        "name": "XXL",
+        "url": "https://open.spotify.com/album/0s4zD8vllWCAJkZ3elBFuf"
       },
       "artists": [
         {
-          "name": "Loveless",
-          "url": "https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ"
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
         }
       ],
-      "duration_ms": 151502,
-      "name": "I Hope I'm Not Sick",
-      "url": "https://open.spotify.com/track/6VhW4SEd95xRlRKZbkQRGh"
+      "duration_ms": 206706,
+      "name": "XXL",
+      "url": "https://open.spotify.com/track/4Sw0OHJKURVnTMui1YuDc0"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1183,34 +1183,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Where The Light Goes",
-        "url": "https://open.spotify.com/album/2pEYh3VNKgM40c6UMiLhbV"
+        "name": "I Hope I'm Not Sick",
+        "url": "https://open.spotify.com/album/6bCQByW20neZO3EAjsTU1D"
       },
       "artists": [
         {
-          "name": "Matchbox Twenty",
-          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
+          "name": "Loveless",
+          "url": "https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ"
         }
       ],
-      "duration_ms": 212649,
-      "name": "Queen of New York City",
-      "url": "https://open.spotify.com/track/6GN1unKvg3uyOBj2dCV41D"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "FUNERAL",
-        "url": "https://open.spotify.com/album/1KQLkCFFcvA9BT0aGsmejd"
-      },
-      "artists": [
-        {
-          "name": "Neoni",
-          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
-        }
-      ],
-      "duration_ms": 181923,
-      "name": "FUNERAL",
-      "url": "https://open.spotify.com/track/3UG2MvL1KiIgY9FjFvOYrv"
+      "duration_ms": 151502,
+      "name": "I Hope I'm Not Sick",
+      "url": "https://open.spotify.com/track/6VhW4SEd95xRlRKZbkQRGh"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1231,6 +1215,38 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "FUNERAL",
+        "url": "https://open.spotify.com/album/1KQLkCFFcvA9BT0aGsmejd"
+      },
+      "artists": [
+        {
+          "name": "Neoni",
+          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
+        }
+      ],
+      "duration_ms": 181923,
+      "name": "FUNERAL",
+      "url": "https://open.spotify.com/track/3UG2MvL1KiIgY9FjFvOYrv"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Where The Light Goes",
+        "url": "https://open.spotify.com/album/2pEYh3VNKgM40c6UMiLhbV"
+      },
+      "artists": [
+        {
+          "name": "Matchbox Twenty",
+          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
+        }
+      ],
+      "duration_ms": 212649,
+      "name": "Queen of New York City",
+      "url": "https://open.spotify.com/track/6GN1unKvg3uyOBj2dCV41D"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "BANG BANG!",
         "url": "https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 136387,
       "name": "BANG BANG!",
       "url": "https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA"
-    },
-    {
-      "added_at": "2023-08-09 00:19:30",
-      "album": {
-        "name": "XXL",
-        "url": "https://open.spotify.com/album/0s4zD8vllWCAJkZ3elBFuf"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 206706,
-      "name": "XXL",
-      "url": "https://open.spotify.com/track/4Sw0OHJKURVnTMui1YuDc0"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "eighteen",
-        "url": "https://open.spotify.com/album/5X37ePjevJgwrKDzk9S3mY"
-      },
-      "artists": [
-        {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
-        }
-      ],
-      "duration_ms": 189179,
-      "name": "eighteen",
-      "url": "https://open.spotify.com/track/37ZOqyxz7B7bmIa2sq5odC"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Further Joy",
         "url": "https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 197040,
       "name": "Barely on My Mind",
       "url": "https://open.spotify.com/track/7LigIDzs63Y4uFlZvNzCZq"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "eighteen",
+        "url": "https://open.spotify.com/album/5X37ePjevJgwrKDzk9S3mY"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "duration_ms": 189179,
+      "name": "eighteen",
+      "url": "https://open.spotify.com/track/37ZOqyxz7B7bmIa2sq5odC"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "I Love You, I\u2019m Trying",
-        "url": "https://open.spotify.com/album/2BTddi3XyqAcset5mAYl2n"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 164899,
-      "name": "Half My Heart",
-      "url": "https://open.spotify.com/track/3EMVljpsr9TPKYScAFQNJh"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Love Of Mine (Night Visions Demo)",
         "url": "https://open.spotify.com/album/3BAUn8SPQORLl49pDhR30l"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 249995,
       "name": "Love Of Mine - Night Visions Demo",
       "url": "https://open.spotify.com/track/4C20SN2nzLbsZbS6A4idoA"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "I Love You, I\u2019m Trying",
+        "url": "https://open.spotify.com/album/2BTddi3XyqAcset5mAYl2n"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 164899,
+      "name": "Half My Heart",
+      "url": "https://open.spotify.com/track/3EMVljpsr9TPKYScAFQNJh"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1803,18 +1803,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Don't Get Me Wrong",
-        "url": "https://open.spotify.com/album/4uPRhzjEpqcKAHCFMW3YSm"
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/1GpKwtg3FhxOAWQtfVERxv"
       },
       "artists": [
         {
-          "name": "Matchbox Twenty",
-          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
+          "name": "The Scarlet Opera",
+          "url": "https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix"
         }
       ],
-      "duration_ms": 173132,
-      "name": "Don't Get Me Wrong",
-      "url": "https://open.spotify.com/track/386DEQx94L5LVXKw4HtSdN"
+      "duration_ms": 192748,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/2KoE7jhmorIAAqxBh3K7FI"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1835,18 +1835,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/1GpKwtg3FhxOAWQtfVERxv"
+        "name": "Don't Get Me Wrong",
+        "url": "https://open.spotify.com/album/4uPRhzjEpqcKAHCFMW3YSm"
       },
       "artists": [
         {
-          "name": "The Scarlet Opera",
-          "url": "https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix"
+          "name": "Matchbox Twenty",
+          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
         }
       ],
-      "duration_ms": 192748,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/2KoE7jhmorIAAqxBh3K7FI"
+      "duration_ms": 173132,
+      "name": "Don't Get Me Wrong",
+      "url": "https://open.spotify.com/track/386DEQx94L5LVXKw4HtSdN"
     },
     {
       "added_at": "2023-07-28 04:00:00",

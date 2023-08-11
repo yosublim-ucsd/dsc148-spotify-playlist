@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Backstreet Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,854 likes - 166 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,839 likes - 166 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 73 | [All Together For Christmas](https://open.spotify.com/track/3YMMOyhpzFsinzVW3y0O9r) | [Emi Jeen](https://open.spotify.com/artist/5DqyShofFQi6ZEkHEMFLXf) | [All Together For Christmas](https://open.spotify.com/album/2LYEIFEikRasmPpiluVZjJ) | 2:57 |
 | 74 | [After LIKE \- Holiday Remix](https://open.spotify.com/track/7DMsSbvw9BOp4BpxraTtNX) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Spotify Singles \- Holiday](https://open.spotify.com/album/6LNdcxlSXwXv2UFKQ3pvMk) | 2:52 |
 | 75 | [25 de Diciembre](https://open.spotify.com/track/7m1nnKjSVpGUiJPw2WNqxW) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV) | [25 de Diciembre](https://open.spotify.com/album/08OQekJroE9E8h0wqerUWY) | 2:58 |
-| 76 | [Warm In December](https://open.spotify.com/track/4iZUPqpbdr4cI8OOzlKKqR) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Warm In December](https://open.spotify.com/album/5RYN71suwnCCydI7oVfVYM) | 2:41 |
+| 76 | [Warm In December \- Edit](https://open.spotify.com/track/4iZUPqpbdr4cI8OOzlKKqR) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Warm In December \(Edit\)](https://open.spotify.com/album/5RYN71suwnCCydI7oVfVYM) | 2:41 |
 | 77 | [So Much Wine](https://open.spotify.com/track/4ZPNGLtydYARKP681L3TAF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [So Much Wine](https://open.spotify.com/album/42iPQ0sFMyNdjTTPsEbjEC) | 4:03 |
 | 78 | [Hallelujah](https://open.spotify.com/track/5XJDLmBGgralQiFdxkBhVN) | [Mila Jam](https://open.spotify.com/artist/6m7wJXzvVyE0j6eef6pj1a), [Trans Chorus of Los Angeles](https://open.spotify.com/artist/4TtD6XNkJlufh7J0quit2c) | [Hallelujah](https://open.spotify.com/album/2nxxZBXTbqXCZActyVloGW) | 3:33 |
 | 79 | [We Should Be Together](https://open.spotify.com/track/3g1IxL6vroDetpftnWWHwZ) | [Rosie Thomas](https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [We Should Be Together](https://open.spotify.com/album/2Gs5dXDWwUC8MayKa0gYQ2) | 3:31 |
@@ -175,4 +175,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 165 | [Last Christmas](https://open.spotify.com/track/2ADlV7RigsZc3Lo6kzGczk) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [Last Christmas](https://open.spotify.com/album/6gWCpXtACkNTSchRJtD3oo) | 2:48 |
 | 166 | [Just Me This Year](https://open.spotify.com/track/03nVaudcIV9z2XjgB6PlHa) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [Just Me This Year](https://open.spotify.com/album/41LqeaMFiSUUY9IygGpmTr) | 3:07 |
 
-Snapshot ID: `MCxkODAzZDc5NmJiMDg4ZWQ1NTMzYmYyYmIzMDYzYjQ2YmE1ZjM3NmQw`
+Snapshot ID: `MCxlNTA5Y2QwYTQ1ZjhjOGY3ZjVkN2ExNGI2NmI5YmI5ZjE4NTYxOGVl`

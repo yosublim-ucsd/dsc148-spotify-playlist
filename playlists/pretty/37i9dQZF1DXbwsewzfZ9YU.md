@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 
 > open the pit\. cover: Scowl
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,364 likes - 93 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,519 likes - 93 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 | 92 | [The Portrait, Now Perceived](https://open.spotify.com/track/1gx45zvC0tdRawEPVIT8W7) | [Excide](https://open.spotify.com/artist/340j9YEGnVocbAAgrtiBUh) | [Deliberate Revolver](https://open.spotify.com/album/29pnd8Su99YAqNbXzk2bdg) | 3:51 |
 | 93 | [Sterilized](https://open.spotify.com/track/0csFnIwyqcxQCwDGKWQLB2) | [Lethal](https://open.spotify.com/artist/1PUkdBCElxs4Lwc48Kamsz) | [Lethal's Hardcore Hit Parade](https://open.spotify.com/album/57Ij7pxjA9shumvHtfWqpK) | 1:24 |
 
-Snapshot ID: `MCw5NjBiNTJkOTkzMzVjMWViNDEzZTljNGMwZWIwYTZkNWU0MjU4ZWIz`
+Snapshot ID: `MCw4NjY4MDYwOTg2YzA4NTIyNTEwYzU2ZjUwYTVmNjdkZTEyMzZlNDFm`

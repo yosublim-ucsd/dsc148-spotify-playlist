@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTE5ZDBhOGJhOWU5ZTU1NjQzZWFmNTFjOThkYTdiMWQ4YWY4MDAy",
+  "snapshot_id": "MCxkYzk3ZjgzMDkwMjAwNGNjZDA2MTVhNzIxODgyNjIzZmI0YjFkMDIx",
   "tracks": [
     {
       "added_at": "2022-12-22 07:43:51",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-12-22 07:43:51",
       "album": {
-        "name": "Billy Eckstine Sings",
-        "url": "https://open.spotify.com/album/75Xfs589ceaAnTYsOvHKqC"
-      },
-      "artists": [
-        {
-          "name": "Billy Eckstine",
-          "url": "https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt"
-        }
-      ],
-      "duration_ms": 185293,
-      "name": "Christmas Eve",
-      "url": "https://open.spotify.com/track/57vYmspSByGGELFVb4e8Tz"
-    },
-    {
-      "added_at": "2022-12-22 07:43:51",
-      "album": {
         "name": "Greatest Christmas Songs",
         "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 121573,
       "name": "Love Is a Christmas Rose",
       "url": "https://open.spotify.com/track/2dqvqJetgd4UUVAHsheS9J"
+    },
+    {
+      "added_at": "2022-12-22 07:43:51",
+      "album": {
+        "name": "Billy Eckstine Sings",
+        "url": "https://open.spotify.com/album/75Xfs589ceaAnTYsOvHKqC"
+      },
+      "artists": [
+        {
+          "name": "Billy Eckstine",
+          "url": "https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt"
+        }
+      ],
+      "duration_ms": 185293,
+      "name": "Christmas Eve",
+      "url": "https://open.spotify.com/track/57vYmspSByGGELFVb4e8Tz"
     },
     {
       "added_at": "2022-12-22 07:43:51",
@@ -515,18 +515,18 @@
     {
       "added_at": "2022-12-22 07:43:51",
       "album": {
-        "name": "Songs of December (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6mJY98zjTLSZm9wOL0Tmjk"
+        "name": "Season's Greetings",
+        "url": "https://open.spotify.com/album/62nWLvkugm41tvnzjMw7a9"
       },
       "artists": [
         {
-          "name": "Paul Anka",
-          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
         }
       ],
-      "duration_ms": 289786,
-      "name": "It's The Most Wonderful Time Of The Year",
-      "url": "https://open.spotify.com/track/4Bj8bQZcjuPEABckmO6wrA"
+      "duration_ms": 206026,
+      "name": "Winter Wonderland - 1959 Version",
+      "url": "https://open.spotify.com/track/4519fZrw2YqSdPOkzPkYYX"
     },
     {
       "added_at": "2022-12-22 07:43:51",
@@ -547,18 +547,18 @@
     {
       "added_at": "2022-12-22 07:43:51",
       "album": {
-        "name": "Season's Greetings",
-        "url": "https://open.spotify.com/album/62nWLvkugm41tvnzjMw7a9"
+        "name": "Songs of December (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6mJY98zjTLSZm9wOL0Tmjk"
       },
       "artists": [
         {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
         }
       ],
-      "duration_ms": 206026,
-      "name": "Winter Wonderland - 1959 Version",
-      "url": "https://open.spotify.com/track/4519fZrw2YqSdPOkzPkYYX"
+      "duration_ms": 289786,
+      "name": "It's The Most Wonderful Time Of The Year",
+      "url": "https://open.spotify.com/track/4Bj8bQZcjuPEABckmO6wrA"
     },
     {
       "added_at": "2022-12-22 07:43:51",
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX"
         }
       ],
-      "duration_ms": 220000,
-      "name": "If We Make It Through December - 2022 Remastered",
-      "url": "https://open.spotify.com/track/2hZ9HmWOmA20tDlHC2vrMz"
+      "duration_ms": 101426,
+      "name": "What About Me - 2022 Remastered",
+      "url": "https://open.spotify.com/track/5VzZdotPQ5TXZgaZXDyWNv"
     },
     {
       "added_at": "2022-12-22 07:43:51",
@@ -731,26 +731,6 @@
     {
       "added_at": "2022-12-22 07:43:51",
       "album": {
-        "name": "Merry Christmas Darling",
-        "url": "https://open.spotify.com/album/1tHctD2yAOz3P7fxWCj5aF"
-      },
-      "artists": [
-        {
-          "name": "James Lanman",
-          "url": "https://open.spotify.com/artist/1AdskP8cgmAIqfRQkDTJ36"
-        },
-        {
-          "name": "Alanna Vicente",
-          "url": "https://open.spotify.com/artist/7q8ZRdJqcvmbwKBoJCiufK"
-        }
-      ],
-      "duration_ms": 155641,
-      "name": "Merry Christmas Darling",
-      "url": "https://open.spotify.com/track/6yO8zPQZFMT2u4VUUZ1AO3"
-    },
-    {
-      "added_at": "2022-12-22 07:43:51",
-      "album": {
         "name": "Pretty Swingin' Christmas",
         "url": "https://open.spotify.com/album/6gC08N6tOwaZutYVa1okgU"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 129042,
       "name": "Auld Lang Syne",
       "url": "https://open.spotify.com/track/2rQ9JzgsnYrY4mmlMaSDUH"
+    },
+    {
+      "added_at": "2022-12-22 07:43:51",
+      "album": {
+        "name": "Merry Christmas Darling",
+        "url": "https://open.spotify.com/album/1tHctD2yAOz3P7fxWCj5aF"
+      },
+      "artists": [
+        {
+          "name": "James Lanman",
+          "url": "https://open.spotify.com/artist/1AdskP8cgmAIqfRQkDTJ36"
+        },
+        {
+          "name": "Alanna Vicente",
+          "url": "https://open.spotify.com/artist/7q8ZRdJqcvmbwKBoJCiufK"
+        }
+      ],
+      "duration_ms": 155641,
+      "name": "Merry Christmas Darling",
+      "url": "https://open.spotify.com/track/6yO8zPQZFMT2u4VUUZ1AO3"
     },
     {
       "added_at": "2022-12-22 07:43:51",
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX"
         }
       ],
-      "duration_ms": 101426,
-      "name": "What About Me - 2022 Remastered",
-      "url": "https://open.spotify.com/track/5VzZdotPQ5TXZgaZXDyWNv"
+      "duration_ms": 220000,
+      "name": "If We Make It Through December - 2022 Remastered",
+      "url": "https://open.spotify.com/track/2hZ9HmWOmA20tDlHC2vrMz"
     },
     {
       "added_at": "2022-12-22 07:43:51",

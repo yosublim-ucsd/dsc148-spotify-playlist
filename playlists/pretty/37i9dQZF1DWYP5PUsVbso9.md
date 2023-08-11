@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 
 > The decade of the Outlaws of Country Music \- where traditional and crossover country collided\. Cover: Charley Pride
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,579 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,766 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,9 +86,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 76 | [Stranger](https://open.spotify.com/track/3OBmAls7qBqUb6A9kZimw3) | [Johnny Duncan](https://open.spotify.com/artist/2ahMUMyJ2xTC1Qaneot7Sm), [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [The Essential Johnny Duncan](https://open.spotify.com/album/3BagFmNBhlXOOtCoaZ4iMk) | 3:09 |
 | 77 | [For the Good Times](https://open.spotify.com/track/4cIGNFaKpoVuJfVvixS0mU) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [The Essential Ray Price](https://open.spotify.com/album/5ficfpIRTeXi6BRePNGQCQ) | 3:47 |
 | 78 | [Let Me Be There](https://open.spotify.com/track/0E4HRDc8ReRr7Fy59eW2bX) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Let Me Be There](https://open.spotify.com/album/6WXUSQLuAYtoVRSWOFCBnx) | 3:01 |
-| 79 | [Tulsa Time](https://open.spotify.com/track/5BTUfUNq9sa7OUbles1qvS) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [20 Greatest Hits](https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9) | 3:12 |
+| 79 | [Two More Bottles of Wine \- 2003 Remaster](https://open.spotify.com/track/62buMnGJ9bLrZAV03fGjYc) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Quarter Moon in a Ten Cent Town \(Expanded & Remastered\)](https://open.spotify.com/album/0kwZMM8Nj0a4dPvVPUiN2y) | 3:06 |
 | 80 | [I'll Get Over You \- Remastered](https://open.spotify.com/track/0jtLwaA1Y2Da0xrNSJEgs0) | [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [Certified Hits](https://open.spotify.com/album/0SqgAUdIDTesLUoLn3sTn2) | 3:31 |
-| 81 | [Two More Bottles of Wine \- 2003 Remaster](https://open.spotify.com/track/62buMnGJ9bLrZAV03fGjYc) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Quarter Moon in a Ten Cent Town \(Expanded & Remastered\)](https://open.spotify.com/album/0kwZMM8Nj0a4dPvVPUiN2y) | 3:06 |
+| 81 | [Tulsa Time](https://open.spotify.com/track/5BTUfUNq9sa7OUbles1qvS) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [20 Greatest Hits](https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9) | 3:12 |
 | 82 | [Amos Moses](https://open.spotify.com/track/1lfVeoMZZimh0jf8rYUeJU) | [Jerry Reed](https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF) | [The Essential Jerry Reed](https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O) | 2:19 |
 | 83 | [The Fightin' Side Of Me](https://open.spotify.com/track/7tvnZH4Db2zylKHo7ojKH1) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [HAG: The Hits Volume 2](https://open.spotify.com/album/5JpPv6eZYKMXdBTFc41wsC) | 2:49 |
 | 84 | [Out Of My Head And Back In My Bed](https://open.spotify.com/track/2cLb9n7u5iJTXNOrrJI1F1) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [The Definitive Collection](https://open.spotify.com/album/7hdLJRd4vHkHbMzaGgQsJ2) | 2:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 99 | [Some Broken Hearts Never Mend \- Single Version](https://open.spotify.com/track/6OREPdoHWU3IehSiZA6rcw) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [20 Greatest Hits](https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9) | 2:48 |
 | 100 | [If I Said You Had A Beautiful Body Would You Hold It Against Me](https://open.spotify.com/track/7pRKbx3PYJmz36cp92hDIE) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Best Of The Bellamy Brothers](https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf) | 3:12 |
 
-Snapshot ID: `MCxjNzZhYTJhODg2ZDcxZmE4MTZiNzI5MGQ4MDlhYjQ3YTYwZWU1MTk0`
+Snapshot ID: `MCw2ZmIzMDZjOGMzNWVjZDI0ZGM3YjJhOTEzODkwYmUzNDdhYjJlZTFl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ow6ru.md) - [plain]
 
 > This is All Time Low\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,908 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,924 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ow6ru.md) - [plain]
 | 14 | [Something's Gotta Give](https://open.spotify.com/track/1SeefzwSDiFCjRWaBslRIj) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Future Hearts](https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I) | 3:09 |
 | 15 | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/track/52BHuLFKoBemaQ1oOPFhFZ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/album/2Q6u1VzybZKzXfPMPQkyuz) | 3:11 |
 | 16 | [The Sound of Letting Go](https://open.spotify.com/track/5ogBIlFs1oBHuBxOeTmnoH) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 2:39 |
-| 17 | [Umbrella](https://open.spotify.com/track/6ZUQhRkFJqiPsOucrXZwS6) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Umbrella](https://open.spotify.com/album/1CFjrFSA35xbgP134I8Xtq) | 3:49 |
-| 18 | [Backseat Serenade](https://open.spotify.com/track/47eL0bckn5g3k5VBwgu969) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Don't Panic](https://open.spotify.com/album/78ZshSpqcIXyrYBJGgiPK0) | 3:21 |
+| 17 | [Backseat Serenade](https://open.spotify.com/track/47eL0bckn5g3k5VBwgu969) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Don't Panic](https://open.spotify.com/album/78ZshSpqcIXyrYBJGgiPK0) | 3:21 |
+| 18 | [Umbrella](https://open.spotify.com/track/6ZUQhRkFJqiPsOucrXZwS6) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Umbrella](https://open.spotify.com/album/1CFjrFSA35xbgP134I8Xtq) | 3:49 |
 | 19 | [Damned If I Do Ya \(Damned If I Don't\)](https://open.spotify.com/track/4CDlYQu16nUtVGwgwqj3I3) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Nothing Personal \(Deluxe Version\)](https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I) | 3:07 |
 | 20 | [Modern Love](https://open.spotify.com/track/6MzsfRoYing0YOe9LhBVen) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 3:14 |
 | 21 | [Once In A Lifetime](https://open.spotify.com/track/2Qjkvp4GLlL60lFXtEte0X) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Once In A Lifetime](https://open.spotify.com/album/4IV3UUGKbd9bZeRZlZDNJd) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ow6ru.md) - [plain]
 | 49 | [The Reckless And The Brave](https://open.spotify.com/track/2oiPju78ZfnBRePyM95iq6) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Don't Panic](https://open.spotify.com/album/78ZshSpqcIXyrYBJGgiPK0) | 3:19 |
 | 50 | [Life of the Party](https://open.spotify.com/track/4pcyWJiAvOwdVxn7xjhR0N) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Last Young Renegade](https://open.spotify.com/album/0gpNGTVNivS2wB32tzV3OH) | 3:25 |
 
-Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDBiM2E5NzFhNmZjNTc2NTBkZmE3YmFlYWRkNzM5MTNjMg==`
+Snapshot ID: `MjgxOTQ1NjMsMDAwMDAwMDA0M2M4Nzk0MGI4NThlNTgxYWY0NjZhNjU0ZDc0YTNmOA==`

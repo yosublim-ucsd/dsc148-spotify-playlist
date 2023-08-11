@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 
 > アイドリッシュセブンの煌びやかな物語を彩る楽曲たちを1つのプレイリストに。Enjoy Music from the game & anime series of “IDOLiSH 7”!  ©アイドリッシュセブン
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,746 likes - 70 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,764 likes - 70 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 | 47 | [フォトフレーム](https://open.spotify.com/track/39c2UO7sELrK6HYcp0L9u2) | [MEZZO”](https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0) | [キズナ](https://open.spotify.com/album/2T1yRJR4WYq1ZLQI5Em94B) | 5:10 |
 | 48 | [June is Natural](https://open.spotify.com/track/4xFYYIWrWIZ0pTSQaTSopH) | [六弥ナギ \(CV.江口拓也\)](https://open.spotify.com/artist/3iY2wSNXnl4HozD3jUxo4a) | [June is Natural](https://open.spotify.com/album/5bLKKcHymzP2IS0dSeweTh) | 4:02 |
 | 49 | [Fly away!](https://open.spotify.com/track/2OAEvzy1GXV40vszTJQtu4) | [和泉一織 \(CV.増田俊樹\)](https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj), [七瀬 陸 \(CV.小野賢章\)](https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H) | [i7](https://open.spotify.com/album/2oQz7bh0sPXcx92C1TKV05) | 4:29 |
-| 50 | [my 10plate](https://open.spotify.com/track/2kte2hCFMQSmYNkVXW78bn) | [十 龍之介 \(CV.佐藤拓也\)](https://open.spotify.com/artist/4QPLEBNjogoJQeF9dlHM82) | [my 10plate](https://open.spotify.com/album/2uRJHQyUej7qF3bh1xvfJ8) | 4:28 |
-| 51 | [千年先もずっと...](https://open.spotify.com/track/2lwmzAiCtQdHthgZeNUtFD) | [千 \(CV.立花慎之介\)](https://open.spotify.com/artist/1NdIK6Dn8ZcyiYtP9JcmWh) | [千年先もずっと...](https://open.spotify.com/album/7qaq2mi6O8fycroKkea5P1) | 5:21 |
+| 50 | [千年先もずっと...](https://open.spotify.com/track/2lwmzAiCtQdHthgZeNUtFD) | [千 \(CV.立花慎之介\)](https://open.spotify.com/artist/1NdIK6Dn8ZcyiYtP9JcmWh) | [千年先もずっと...](https://open.spotify.com/album/7qaq2mi6O8fycroKkea5P1) | 5:21 |
+| 51 | [my 10plate](https://open.spotify.com/track/2kte2hCFMQSmYNkVXW78bn) | [十 龍之介 \(CV.佐藤拓也\)](https://open.spotify.com/artist/4QPLEBNjogoJQeF9dlHM82) | [my 10plate](https://open.spotify.com/album/2uRJHQyUej7qF3bh1xvfJ8) | 4:28 |
 | 52 | [午前4時のDusty Love](https://open.spotify.com/track/4VpQnA8PUQGJlSREzEjf2u) | [御堂虎於 \(CV.近藤 隆\)](https://open.spotify.com/artist/4NuxWb2eGVkzb6AsN2sv8H) | [午前4時のDusty Love](https://open.spotify.com/album/5ELinRPiJCLrmCCKsOTAvd) | 4:34 |
 | 53 | [Dejavu](https://open.spotify.com/track/2x96Uek1encMpPxzZfRixB) | [棗 巳波 \(CV.西山宏太朗\)](https://open.spotify.com/artist/2ClkCmN3ssmdtBGuDYmutj) | [Dejavu](https://open.spotify.com/album/2sxCRIMhFNNPInRgTdOmM5) | 3:55 |
 | 54 | [恋のかけら](https://open.spotify.com/track/7jA6MKXhfBa6bwe9kJrBNT) | [MEZZO”](https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0) | [恋のかけら](https://open.spotify.com/album/2jBadSUvZhUnY53uaeeTK0) | 4:39 |
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 | 62 | [HELLO CALLiNG](https://open.spotify.com/track/5IKm7gw6w52KFtkDrGpaqw) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [HELLO CALLiNG](https://open.spotify.com/album/361T1tBWo3v5WzvZ5PDgme) | 4:02 |
 | 63 | [Survivor](https://open.spotify.com/track/1De2w9pZlAt2mKEm0F7NK5) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [Survivor](https://open.spotify.com/album/7oF2ENI6Jr9g9Rmi3zHcLX) | 3:37 |
 | 64 | [4\-ROAR](https://open.spotify.com/track/4yAb7ilxkakHlpVv6Orxxd) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [einsatZ](https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph) | 3:57 |
-| 65 | [NEVER LOSE, MY RULE](https://open.spotify.com/track/6ppmAfQF2yqhBEksloIB07) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [NEVER LOSE, MY RULE](https://open.spotify.com/album/5vNWgs4IRclxjr6vj64jgm) | 4:42 |
-| 66 | [YOUR RHAPSODY](https://open.spotify.com/track/7CHlI1L51UCziupZC3BzfD) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [BLACK or WHITE 2022](https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB) | 4:07 |
+| 65 | [YOUR RHAPSODY](https://open.spotify.com/track/7CHlI1L51UCziupZC3BzfD) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [BLACK or WHITE 2022](https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB) | 4:07 |
+| 66 | [NEVER LOSE, MY RULE](https://open.spotify.com/track/6ppmAfQF2yqhBEksloIB07) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [NEVER LOSE, MY RULE](https://open.spotify.com/album/5vNWgs4IRclxjr6vj64jgm) | 4:42 |
 | 67 | [WiSH VOYAGE](https://open.spotify.com/track/4s2JomRrcKgVLt2lrX0tvm) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [WiSH VOYAGE / Dancing∞BEAT!!](https://open.spotify.com/album/0a7rV1GSIXyArrLon0kuhD) | 4:07 |
 | 68 | [SUISAI](https://open.spotify.com/track/7n8DHAHozfOs0BVTuLz6yf) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [SUISAI](https://open.spotify.com/album/2UyYOPqetfV1dB9MfImIol) | 4:59 |
 | 69 | [Happy Days Creation!](https://open.spotify.com/track/1UBgvGnsffYyMD9UTkXkvq) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU), [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [アイドリッシュセブン Collection Album \(vol.2\)](https://open.spotify.com/album/1nYJRCCv6TEbY7KDEFraiN) | 5:04 |
 | 70 | [In the meantime](https://open.spotify.com/track/6n1zhNf9zUqffLObNEDRUH) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 4:03 |
 
-Snapshot ID: `MCw5MWM1MzA2NzEyN2MzNTVjNzhjMDIwMzA0NjI4M2NjMGJhYjA2ZTZj`
+Snapshot ID: `MCwyMGUwNmMwYzdhNWM0NzZiODk0MWZhNzQxMTBmNTQ2YWRkNzM2MDM2`

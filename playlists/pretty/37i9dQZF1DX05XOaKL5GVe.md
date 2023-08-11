@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05XOaKL5GVe.md) - [plain]
 
 > Tesoros musicales del ayer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 682,199 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 682,754 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05XOaKL5GVe.md) - [plain]
 | 3 | [Garabato Colorado](https://open.spotify.com/track/1XddjFsSL7rpNLcr7FSop7) | [Chabelo](https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM) | [Tesoros De Coleccion \- Chabelo](https://open.spotify.com/album/1fJmN6Pwa2nIeX0GnXbW4b) | 3:13 |
 | 4 | [Me cuesta tanto olvidarte](https://open.spotify.com/track/1w2Nnj1HEUgoOglVRWfZj8) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre el Cielo y el Suelo \(Bonus Tracks Edition\)](https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy) | 2:54 |
 | 5 | [¿Y cómo es él?](https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Entre El Agua Y El Fuego](https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI) | 4:08 |
-| 6 | [Como Tu Mujer](https://open.spotify.com/track/6ljWmeDCoqgIFOVKVmKEmu) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Como Tu Mujer](https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt) | 4:22 |
-| 7 | [Tu Dama de Hierro](https://open.spotify.com/track/0PanjuWPniwRZpU2SkMDtF) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [15 Éxitos de Marisela Vol\. 2](https://open.spotify.com/album/4fNcKuACla3rJrdwA5s2hn) | 3:15 |
+| 6 | [Tu Dama de Hierro](https://open.spotify.com/track/0PanjuWPniwRZpU2SkMDtF) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [15 Éxitos de Marisela Vol\. 2](https://open.spotify.com/album/4fNcKuACla3rJrdwA5s2hn) | 3:15 |
+| 7 | [Como Tu Mujer](https://open.spotify.com/track/6ljWmeDCoqgIFOVKVmKEmu) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Como Tu Mujer](https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt) | 4:22 |
 | 8 | [Usted](https://open.spotify.com/track/0MHSnVk2CrGP8hIkxpxwMJ) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:43 |
 | 9 | [¿Quieres Ser Mi Amante?](https://open.spotify.com/track/1Y7q2zwCBjt9zgIHZ0Ku7J) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Camilo](https://open.spotify.com/album/4AxRFDkSlRWzCpyaO107UJ) | 4:09 |
 | 10 | [Si los Niños Gobernaran al Mundo](https://open.spotify.com/track/0wtGpgsKB13jYY3QMYvt77) | [Chabelo](https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM) | [Para los Peques](https://open.spotify.com/album/2G7iskbrJp8fEzGIRrf06o) | 2:11 |
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05XOaKL5GVe.md) - [plain]
 | 13 | [¡Ay Amor!](https://open.spotify.com/track/0fC6Szw2CX8XZYsydOLmVC) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Pecado Original](https://open.spotify.com/album/5JRGlJtz53p6P1qlfrcPxe) | 3:21 |
 | 14 | [Amarte es un placer](https://open.spotify.com/track/4lQWZGUrquRfH9se6nlmp3) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Amarte Es Un Placer](https://open.spotify.com/album/59hPa94rgOLoOBKHz98i7n) | 3:31 |
 | 15 | [Caminito de la Escuela](https://open.spotify.com/track/3fgoXYhJ1nvW4dGfGHTIPt) | [Chabelo](https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM) | [Cri\-Cri en los sueños de Chabelo](https://open.spotify.com/album/06uAZy4nle5YxJNnihm8Tf) | 2:11 |
-| 16 | [¿Porqué te vas?](https://open.spotify.com/track/11rsK9GDZ9UdWsxtDqnMmN) | [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [Porque Te Vas](https://open.spotify.com/album/1qCaXMufzGyuuhkwvl2TYy) | 3:21 |
-| 17 | [Sin Él](https://open.spotify.com/track/4vwNVm3Jrdj7G9w5XJX4x3) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [15 Éxitos de Marisela Vol\. 2](https://open.spotify.com/album/4fNcKuACla3rJrdwA5s2hn) | 3:35 |
+| 16 | [Sin Él](https://open.spotify.com/track/4vwNVm3Jrdj7G9w5XJX4x3) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [15 Éxitos de Marisela Vol\. 2](https://open.spotify.com/album/4fNcKuACla3rJrdwA5s2hn) | 3:35 |
+| 17 | [¿Porqué te vas?](https://open.spotify.com/track/11rsK9GDZ9UdWsxtDqnMmN) | [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [Porque Te Vas](https://open.spotify.com/album/1qCaXMufzGyuuhkwvl2TYy) | 3:21 |
 | 18 | [Nuestro Juramento](https://open.spotify.com/track/4F6Ne3xyctrytvYm9W68ll) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [El Ruiseñor de America](https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r) | 3:15 |
 | 19 | [Ya Lo Sé Que Tú Te Vas](https://open.spotify.com/track/5KSwwf96ITyukZpWfazLzS) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Cosas De Enamorados](https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG) | 3:42 |
 | 20 | [Cómo Te Va Mi Amor](https://open.spotify.com/track/6Vy53iriyX8Vqx0V68Jzn2) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Locas Por La Música](https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5) | 3:42 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05XOaKL5GVe.md) - [plain]
 | 89 | [Maracas](https://open.spotify.com/track/1OVUW7Ube0RTZIFoRRCsPE) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [Baladas](https://open.spotify.com/album/55vtZQyrfCGjZBeoHLtT6o) | 3:08 |
 | 90 | [No Se Ha Dado Cuenta](https://open.spotify.com/track/3lzkOHkG5yH3xj40sY4nVI) | [Roberto Jordan](https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx) | [RCA 100 Años De Musica](https://open.spotify.com/album/7vMnaKzlmBN2GRVYCMOMqc) | 2:38 |
 | 91 | [De Mi Enamórate](https://open.spotify.com/track/5UXgeLTzAyhgfRJubZRemE) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Original Masters](https://open.spotify.com/album/4CxnKxTQuQKXWrWHAVtaMO) | 3:30 |
-| 92 | [Llamarada](https://open.spotify.com/track/0q8Ibx0l0varKmNQnlWTLZ) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Rock, Balada y Sentimiento, Vol\. I](https://open.spotify.com/album/1RlQD9D7ejT2KkSpGxJT9C) | 3:19 |
-| 93 | [Quien](https://open.spotify.com/track/3gcDZpRcPnRgmP3EguPv6K) | [Los Strwck](https://open.spotify.com/artist/6ZzvGogdwGvqkTeDX1RDKL) | [Solo Para Ti](https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk) | 3:01 |
+| 92 | [Quien](https://open.spotify.com/track/3gcDZpRcPnRgmP3EguPv6K) | [Los Strwck](https://open.spotify.com/artist/6ZzvGogdwGvqkTeDX1RDKL) | [Solo Para Ti](https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk) | 3:01 |
+| 93 | [Llamarada](https://open.spotify.com/track/0q8Ibx0l0varKmNQnlWTLZ) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Rock, Balada y Sentimiento, Vol\. I](https://open.spotify.com/album/1RlQD9D7ejT2KkSpGxJT9C) | 3:19 |
 | 94 | [Hipocresía](https://open.spotify.com/track/5Cf4aRX1Kr6Y0DMb18zaqi) | [Los Pasteles Verdes](https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y) | [Éxitos Eternos](https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon) | 4:19 |
 | 95 | [Te He Prometido](https://open.spotify.com/track/15vvGrycJyA5tMb6PXdQYO) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Roma \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3fbJSth7xYdLAphGOSqJl5) | 3:07 |
 | 96 | [Cien años](https://open.spotify.com/track/1Ag6NwYwfBxZuNixLMT5a8) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Cien años..\. pensando en ti](https://open.spotify.com/album/5K5BgnDkPONrnmL35nHrFc) | 3:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05XOaKL5GVe.md) - [plain]
 | 99 | [Cenizas](https://open.spotify.com/track/3Zv4Z2YsgVoLoKKMahdDAN) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/3IqPx1fXB2GeEPcvT9RKn7) | 3:12 |
 | 100 | [Oiga](https://open.spotify.com/track/1vJOhtqk2fjKHi7vVToylw) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Prisma](https://open.spotify.com/artist/1TyHjg9GOQ8b2oFSRAQhf3) | [Disco De Oro: Baladas, Vol\. 1](https://open.spotify.com/album/4BqbJnEBxaFr21syHgr6bc) | 3:29 |
 
-Snapshot ID: `MCxmNTY5M2MxNWY5MDE4YTg1MTEyMzRkMmNmZDI1OTRhMmE2N2NmNGVk`
+Snapshot ID: `MCw3YmE1YzI2OTE1M2EyYTQ3Y2I1YmQ4OGQwYmNmMjBmZjc4YzBjYjU1`

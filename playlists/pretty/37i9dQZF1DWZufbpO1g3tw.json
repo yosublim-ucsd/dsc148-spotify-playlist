@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Picositos y con mucho sabor! ",
-  "num_followers": 43244,
+  "num_followers": 43272,
   "original_name": "Los Chilaquiles",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2YzODBkMzUxNjFmZDM2OTg0N2ViZGU2MDE0ZDdjZWI2ODZkNmVl",
+  "snapshot_id": "MCxiMmY0NWU5MTgxZWI4OTNiMDA5N2NmYjIxM2M1MTdkNjk4NGRlZTQw",
   "tracks": [
     {
       "added_at": "2023-05-09 16:27:14",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
+        "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 193816,
+      "name": "NO SE VA - EN VIVO",
+      "url": "https://open.spotify.com/track/0Y1lSCcxjfyyvmfgMJ1ukA"
+    },
+    {
+      "added_at": "2023-05-09 16:27:14",
+      "album": {
         "name": "El Botecito",
         "url": "https://open.spotify.com/album/3F17x1qqSjZBxMCwxbnupP"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 174160,
       "name": "El Tucanazo",
       "url": "https://open.spotify.com/track/07Ag8vm1pW409NrhpPokFg"
-    },
-    {
-      "added_at": "2023-05-09 16:27:14",
-      "album": {
-        "name": "Acu\u00e9rdate de Mi",
-        "url": "https://open.spotify.com/album/0PcL1sQMunNBJB1hCbj1zY"
-      },
-      "artists": [
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        }
-      ],
-      "duration_ms": 184743,
-      "name": "Ya No Me Mires As\u00ed",
-      "url": "https://open.spotify.com/track/300QUH7Q7FncaEo8Fcvwgp"
     },
     {
       "added_at": "2023-05-09 16:27:14",
@@ -351,6 +351,22 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
+        "name": "Acu\u00e9rdate de Mi",
+        "url": "https://open.spotify.com/album/0PcL1sQMunNBJB1hCbj1zY"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "duration_ms": 184743,
+      "name": "Ya No Me Mires As\u00ed",
+      "url": "https://open.spotify.com/track/300QUH7Q7FncaEo8Fcvwgp"
+    },
+    {
+      "added_at": "2023-05-09 16:27:14",
+      "album": {
         "name": "Guaracha Sabrosona",
         "url": "https://open.spotify.com/album/0UZNJ0LcKDFyozURk4DUKJ"
       },
@@ -363,6 +379,22 @@
       "duration_ms": 219026,
       "name": "Guaracha Sabrosona",
       "url": "https://open.spotify.com/track/0p88CmD2dgRH9Y52unhHi3"
+    },
+    {
+      "added_at": "2023-05-09 16:27:14",
+      "album": {
+        "name": "Bandido de Amores",
+        "url": "https://open.spotify.com/album/02hrAwGoK0AxRiQcl4oOST"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 182559,
+      "name": "Sangoloteadito",
+      "url": "https://open.spotify.com/track/6X0EfHtuMNjZXFma8x7uv1"
     },
     {
       "added_at": "2023-05-09 16:27:14",
@@ -383,22 +415,6 @@
       "duration_ms": 254339,
       "name": "La Pareja Ideal - En Vivo",
       "url": "https://open.spotify.com/track/2gpgzhumYabZNyrsyvdAat"
-    },
-    {
-      "added_at": "2023-05-09 16:27:14",
-      "album": {
-        "name": "Bandido de Amores",
-        "url": "https://open.spotify.com/album/02hrAwGoK0AxRiQcl4oOST"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 182559,
-      "name": "Sangoloteadito",
-      "url": "https://open.spotify.com/track/6X0EfHtuMNjZXFma8x7uv1"
     },
     {
       "added_at": "2023-05-09 16:27:14",
@@ -531,18 +547,18 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
-        "name": "El Comienzo",
-        "url": "https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b"
+        "name": "Guarachando",
+        "url": "https://open.spotify.com/album/5uHNavgy4yM4orwoEBWMjO"
       },
       "artists": [
         {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "Alberto Pedraza",
+          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
         }
       ],
-      "duration_ms": 193816,
-      "name": "NO SE VA - EN VIVO",
-      "url": "https://open.spotify.com/track/0Y1lSCcxjfyyvmfgMJ1ukA"
+      "duration_ms": 244413,
+      "name": "Coraz\u00f3n Solitario",
+      "url": "https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP"
     },
     {
       "added_at": "2023-05-09 16:27:14",
@@ -559,22 +575,6 @@
       "duration_ms": 172706,
       "name": "Tao, Tao",
       "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
-    },
-    {
-      "added_at": "2023-05-09 16:27:14",
-      "album": {
-        "name": "Guarachando",
-        "url": "https://open.spotify.com/album/5uHNavgy4yM4orwoEBWMjO"
-      },
-      "artists": [
-        {
-          "name": "Alberto Pedraza",
-          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
-        }
-      ],
-      "duration_ms": 244413,
-      "name": "Coraz\u00f3n Solitario",
-      "url": "https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP"
     },
     {
       "added_at": "2023-05-09 16:27:14",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
-        "name": "Cumbia Amazonica",
-        "url": "https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL"
-      },
-      "artists": [
-        {
-          "name": "Los Mirlos",
-          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "La Danza de los Mirlos (Cumbia de los Pajaritos)",
-      "url": "https://open.spotify.com/track/0AnwIwxt96ERVRohy7hcnU"
-    },
-    {
-      "added_at": "2023-05-09 16:27:14",
-      "album": {
         "name": "A La Caza",
         "url": "https://open.spotify.com/album/5B0wpHiMb1YSmiC4TGwbb4"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 173480,
       "name": "La \u00c9tica",
       "url": "https://open.spotify.com/track/5lme9vHMk1a85L6bEUvp6G"
+    },
+    {
+      "added_at": "2023-05-09 16:27:14",
+      "album": {
+        "name": "Cumbia Amazonica",
+        "url": "https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL"
+      },
+      "artists": [
+        {
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+        }
+      ],
+      "duration_ms": 169600,
+      "name": "La Danza de los Mirlos (Cumbia de los Pajaritos)",
+      "url": "https://open.spotify.com/track/0AnwIwxt96ERVRohy7hcnU"
     },
     {
       "added_at": "2023-05-09 16:27:14",
@@ -871,6 +871,22 @@
       "duration_ms": 181968,
       "name": "Sal con Lim\u00f3n",
       "url": "https://open.spotify.com/track/6arEdpIPcdyAPtvPcwZ9YD"
+    },
+    {
+      "added_at": "2023-05-09 16:27:14",
+      "album": {
+        "name": "Borrachera Con los Honorables (En Vivo)",
+        "url": "https://open.spotify.com/album/5Js6rpaXDIBbdJA5Xn8AYd"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 188429,
+      "name": "La Boda del Huitlacoche - En Vivo",
+      "url": "https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs"
     },
     {
       "added_at": "2023-05-09 16:27:14",
@@ -1099,22 +1115,6 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
-        "name": "Borrachera Con los Honorables (En Vivo)",
-        "url": "https://open.spotify.com/album/5Js6rpaXDIBbdJA5Xn8AYd"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 188429,
-      "name": "La Boda del Huitlacoche - En Vivo",
-      "url": "https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs"
-    },
-    {
-      "added_at": "2023-05-09 16:27:14",
-      "album": {
         "name": "Sigueme",
         "url": "https://open.spotify.com/album/1gWllGhiiVZRYJ3OXqMrOw"
       },
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
-        "name": "Disco De Oro - Cumbia",
-        "url": "https://open.spotify.com/album/6uHRsIS95PzYt0ajDqtGCU"
-      },
-      "artists": [
-        {
-          "name": "Los Dinamiteros de Colombia",
-          "url": "https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW"
-        },
-        {
-          "name": "Aniceto Molina",
-          "url": "https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S"
-        }
-      ],
-      "duration_ms": 180012,
-      "name": "Cumbia Barulera",
-      "url": "https://open.spotify.com/track/2CR5YD5yF77bSxV7qXrSTG"
-    },
-    {
-      "added_at": "2023-05-09 16:27:14",
-      "album": {
         "name": "\u00c9xitos de la Sonora Matancera: Pa' la Paloma",
         "url": "https://open.spotify.com/album/5556xQBMMaLxeXEflSM9qZ"
       },
@@ -1203,6 +1183,42 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
+        "name": "Disco De Oro - Cumbia",
+        "url": "https://open.spotify.com/album/6uHRsIS95PzYt0ajDqtGCU"
+      },
+      "artists": [
+        {
+          "name": "Los Dinamiteros de Colombia",
+          "url": "https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW"
+        },
+        {
+          "name": "Aniceto Molina",
+          "url": "https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S"
+        }
+      ],
+      "duration_ms": 180012,
+      "name": "Cumbia Barulera",
+      "url": "https://open.spotify.com/track/2CR5YD5yF77bSxV7qXrSTG"
+    },
+    {
+      "added_at": "2023-05-09 16:27:14",
+      "album": {
+        "name": "Chico de Oro",
+        "url": "https://open.spotify.com/album/3zqIOlC6FwNKRCE7gUpcmr"
+      },
+      "artists": [
+        {
+          "name": "Chico Trujillo",
+          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
+        }
+      ],
+      "duration_ms": 171880,
+      "name": "Conductor",
+      "url": "https://open.spotify.com/track/5DrsyiBfSuIHS015buu06S"
+    },
+    {
+      "added_at": "2023-05-09 16:27:14",
+      "album": {
         "name": "De Parranda Lives Vol. 2/3",
         "url": "https://open.spotify.com/album/2qI4lRalMMAEAY7vOkd9Q1"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 245280,
       "name": "Cumbia Espacial",
       "url": "https://open.spotify.com/track/73eru5GrzWOgmjjdcI8WGg"
-    },
-    {
-      "added_at": "2023-05-09 16:27:14",
-      "album": {
-        "name": "Chico de Oro",
-        "url": "https://open.spotify.com/album/3zqIOlC6FwNKRCE7gUpcmr"
-      },
-      "artists": [
-        {
-          "name": "Chico Trujillo",
-          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
-        }
-      ],
-      "duration_ms": 171880,
-      "name": "Conductor",
-      "url": "https://open.spotify.com/track/5DrsyiBfSuIHS015buu06S"
     },
     {
       "added_at": "2023-05-09 16:27:14",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
-        "name": "Jungle Fire",
-        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
-      },
-      "artists": [
-        {
-          "name": "Jungle Fire",
-          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "At\u00f3mico",
-      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
-    },
-    {
-      "added_at": "2023-05-09 16:27:14",
-      "album": {
         "name": "Las Clasicas Con Los Yes Yes",
         "url": "https://open.spotify.com/album/0n8IqXoFifn6WsBu9OGLiv"
       },
@@ -1339,18 +1323,18 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
-        "name": "Super Grupo Colombia",
-        "url": "https://open.spotify.com/album/3w4lqqVH06rYt8Z3EjC92s"
+        "name": "Jungle Fire",
+        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
       },
       "artists": [
         {
-          "name": "Super Grupo Colombia",
-          "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
+          "name": "Jungle Fire",
+          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
         }
       ],
-      "duration_ms": 202200,
-      "name": "Cumbia de las Flores",
-      "url": "https://open.spotify.com/track/0hDRyG9zE0K2aoEjPXapeQ"
+      "duration_ms": 229080,
+      "name": "At\u00f3mico",
+      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
     },
     {
       "added_at": "2023-05-09 16:27:14",
@@ -1383,6 +1367,22 @@
       "duration_ms": 208875,
       "name": "La Mujer del Pelotero",
       "url": "https://open.spotify.com/track/75gBqTszkdNkKdw3V9O6n1"
+    },
+    {
+      "added_at": "2023-05-09 16:27:14",
+      "album": {
+        "name": "Super Grupo Colombia",
+        "url": "https://open.spotify.com/album/3w4lqqVH06rYt8Z3EjC92s"
+      },
+      "artists": [
+        {
+          "name": "Super Grupo Colombia",
+          "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
+        }
+      ],
+      "duration_ms": 202200,
+      "name": "Cumbia de las Flores",
+      "url": "https://open.spotify.com/track/0hDRyG9zE0K2aoEjPXapeQ"
     },
     {
       "added_at": "2023-05-09 16:27:14",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
-        "name": "Visit Malphino",
-        "url": "https://open.spotify.com/album/2OA05pERt66hYi51jeM2oa"
-      },
-      "artists": [
-        {
-          "name": "Malphino",
-          "url": "https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij"
-        }
-      ],
-      "duration_ms": 185640,
-      "name": "Molienda",
-      "url": "https://open.spotify.com/track/6Wnxsx8Q43Ng0GYl8SCHUH"
-    },
-    {
-      "added_at": "2023-05-09 16:27:14",
-      "album": {
         "name": "El Mundo de los Pobres",
         "url": "https://open.spotify.com/album/66TOc56eMrDa7l7kgec8Ms"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 234010,
       "name": "El Aguajal",
       "url": "https://open.spotify.com/track/1RKFSzNHUjnsbVlM0r397p"
+    },
+    {
+      "added_at": "2023-05-09 16:27:14",
+      "album": {
+        "name": "Visit Malphino",
+        "url": "https://open.spotify.com/album/2OA05pERt66hYi51jeM2oa"
+      },
+      "artists": [
+        {
+          "name": "Malphino",
+          "url": "https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij"
+        }
+      ],
+      "duration_ms": 185640,
+      "name": "Molienda",
+      "url": "https://open.spotify.com/track/6Wnxsx8Q43Ng0GYl8SCHUH"
     },
     {
       "added_at": "2023-05-09 16:27:14",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
-        "name": "En Orbita",
-        "url": "https://open.spotify.com/album/0jzpJgWjBGLxQsGbwKT7TB"
-      },
-      "artists": [
-        {
-          "name": "Los Destellos",
-          "url": "https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Para Elisa",
-      "url": "https://open.spotify.com/track/6t6QEaiKAXtVOORoNbGR9O"
-    },
-    {
-      "added_at": "2023-05-09 16:27:14",
-      "album": {
         "name": "Historia natural",
         "url": "https://open.spotify.com/album/6R4jGvcdmRiF8wL6yqp34N"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 223488,
       "name": "Todos tenemos hogar",
       "url": "https://open.spotify.com/track/0TS5b5bVfUtGi2VOimdjIH"
+    },
+    {
+      "added_at": "2023-05-09 16:27:14",
+      "album": {
+        "name": "En Orbita",
+        "url": "https://open.spotify.com/album/0jzpJgWjBGLxQsGbwKT7TB"
+      },
+      "artists": [
+        {
+          "name": "Los Destellos",
+          "url": "https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "Para Elisa",
+      "url": "https://open.spotify.com/track/6t6QEaiKAXtVOORoNbGR9O"
     },
     {
       "added_at": "2023-05-09 16:27:14",

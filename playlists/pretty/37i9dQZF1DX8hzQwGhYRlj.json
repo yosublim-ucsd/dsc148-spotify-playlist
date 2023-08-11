@@ -1,12 +1,12 @@
 {
   "description": "A collection of Grieg's finest songs, symphonies and suites.",
-  "num_followers": 32306,
+  "num_followers": 32333,
   "original_name": "This Is Grieg",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDNiZWYyM2Y4MTAwZjU1NTNhYjliMTczOWYzMGU1ODM4NTQ4OWIw",
+  "snapshot_id": "MCw0M2NiNTQxMzYxMjdjMzllYzI1NDNiMmQyZWFhMGFmN2JlZTgyZjQy",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -547,26 +547,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Grieg: Piano Concerto; Lyric Pieces",
-        "url": "https://open.spotify.com/album/5HokgmfmgFExUbbVgkvz3n"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Javier Perianes",
-          "url": "https://open.spotify.com/artist/5sYNU2X0Fvw3iAqWTqwWjz"
-        }
-      ],
-      "duration_ms": 300560,
-      "name": "Lyric Pieces, Op. 38, Book II: VIII. Kanon (Allegretto con moto)",
-      "url": "https://open.spotify.com/track/2EBUOAXr3ViEWUXLlEvTFT"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Grieg: Lyric Pieces; Sonata; Fugues",
         "url": "https://open.spotify.com/album/17YxMaI0YHCEWsmoslhZt8"
       },
@@ -587,8 +567,8 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Grieg : Peer Gynt Suites 1, 2 & Symphonic Dances",
-        "url": "https://open.spotify.com/album/0jDwimSa57C39bletgnvSa"
+        "name": "Grieg: Piano Concerto; Lyric Pieces",
+        "url": "https://open.spotify.com/album/5HokgmfmgFExUbbVgkvz3n"
       },
       "artists": [
         {
@@ -596,17 +576,13 @@
           "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
         },
         {
-          "name": "Sakari Oramo",
-          "url": "https://open.spotify.com/artist/71dLaXD8sd1tV1LzFqUj3q"
-        },
-        {
-          "name": "City Of Birmingham Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
+          "name": "Javier Perianes",
+          "url": "https://open.spotify.com/artist/5sYNU2X0Fvw3iAqWTqwWjz"
         }
       ],
-      "duration_ms": 381466,
-      "name": "Grieg: 4 Symphonic Dances, Op. 64: II. Allegretto grazioso",
-      "url": "https://open.spotify.com/track/1PoCyU52VuLjnBiUCkWljx"
+      "duration_ms": 300560,
+      "name": "Lyric Pieces, Op. 38, Book II: VIII. Kanon (Allegretto con moto)",
+      "url": "https://open.spotify.com/track/2EBUOAXr3ViEWUXLlEvTFT"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -635,8 +611,8 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Wonderland - Edvard Grieg: Piano Concerto, Lyric Pieces",
-        "url": "https://open.spotify.com/album/675zFvCNg3trc61Wm3YRW1"
+        "name": "Grieg : Peer Gynt Suites 1, 2 & Symphonic Dances",
+        "url": "https://open.spotify.com/album/0jDwimSa57C39bletgnvSa"
       },
       "artists": [
         {
@@ -644,13 +620,17 @@
           "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
         },
         {
-          "name": "Alice Sara Ott",
-          "url": "https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q"
+          "name": "Sakari Oramo",
+          "url": "https://open.spotify.com/artist/71dLaXD8sd1tV1LzFqUj3q"
+        },
+        {
+          "name": "City Of Birmingham Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
         }
       ],
-      "duration_ms": 209520,
-      "name": "Lyric Pieces Book VIII, Op. 65: No. 5 Ballad",
-      "url": "https://open.spotify.com/track/77v5gEBdiW29He3ey69tls"
+      "duration_ms": 381466,
+      "name": "Grieg: 4 Symphonic Dances, Op. 64: II. Allegretto grazioso",
+      "url": "https://open.spotify.com/track/1PoCyU52VuLjnBiUCkWljx"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -675,8 +655,8 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Grieg : Peer Gynt Suites 1, 2 & Symphonic Dances",
-        "url": "https://open.spotify.com/album/0jDwimSa57C39bletgnvSa"
+        "name": "Wonderland - Edvard Grieg: Piano Concerto, Lyric Pieces",
+        "url": "https://open.spotify.com/album/675zFvCNg3trc61Wm3YRW1"
       },
       "artists": [
         {
@@ -684,17 +664,13 @@
           "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
         },
         {
-          "name": "Sakari Oramo",
-          "url": "https://open.spotify.com/artist/71dLaXD8sd1tV1LzFqUj3q"
-        },
-        {
-          "name": "City Of Birmingham Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
+          "name": "Alice Sara Ott",
+          "url": "https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q"
         }
       ],
-      "duration_ms": 429933,
-      "name": "Grieg: 4 Symphonic Dances, Op. 64: I. Allegro moderato e marcato",
-      "url": "https://open.spotify.com/track/3DFnOHuNdGaLRFDtbAhfGZ"
+      "duration_ms": 209520,
+      "name": "Lyric Pieces Book VIII, Op. 65: No. 5 Ballad",
+      "url": "https://open.spotify.com/track/77v5gEBdiW29He3ey69tls"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -739,6 +715,30 @@
       "duration_ms": 406666,
       "name": "Holberg Suite, Op. 40: 4. Air (Andante religioso)",
       "url": "https://open.spotify.com/track/00shcLNgwxFoIWDCCiQB6i"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Grieg : Peer Gynt Suites 1, 2 & Symphonic Dances",
+        "url": "https://open.spotify.com/album/0jDwimSa57C39bletgnvSa"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Sakari Oramo",
+          "url": "https://open.spotify.com/artist/71dLaXD8sd1tV1LzFqUj3q"
+        },
+        {
+          "name": "City Of Birmingham Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
+        }
+      ],
+      "duration_ms": 429933,
+      "name": "Grieg: 4 Symphonic Dances, Op. 64: I. Allegro moderato e marcato",
+      "url": "https://open.spotify.com/track/3DFnOHuNdGaLRFDtbAhfGZ"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -971,30 +971,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Grieg: Songs",
-        "url": "https://open.spotify.com/album/3IDSSBfofnbrAPkNcusD6x"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Anne Sofie von Otter",
-          "url": "https://open.spotify.com/artist/4pFlv4QVInj7bAo0MqHpwW"
-        },
-        {
-          "name": "Bengt Forsberg",
-          "url": "https://open.spotify.com/artist/2GoPcJyOyFijJa1tbuOx5N"
-        }
-      ],
-      "duration_ms": 377000,
-      "name": "Haugtussa - Song Cycle, Op. 67: Ved gjaetle - bekken",
-      "url": "https://open.spotify.com/track/3vMgfdV9xU8UzyivVYDyzc"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Grieg: Orchestral Music, Vol. 4: Peer Gynt Suites - Orchestral Songs",
         "url": "https://open.spotify.com/album/0bY9XRCl9JwYFNbsdFk8Nj"
       },
@@ -1023,6 +999,30 @@
       "duration_ms": 255733,
       "name": "6 Orchestral Songs, EG 177: No. 5, Last Spring",
       "url": "https://open.spotify.com/track/5VWwF1Hj8tILTyituClVM2"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Grieg: Songs",
+        "url": "https://open.spotify.com/album/3IDSSBfofnbrAPkNcusD6x"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Anne Sofie von Otter",
+          "url": "https://open.spotify.com/artist/4pFlv4QVInj7bAo0MqHpwW"
+        },
+        {
+          "name": "Bengt Forsberg",
+          "url": "https://open.spotify.com/artist/2GoPcJyOyFijJa1tbuOx5N"
+        }
+      ],
+      "duration_ms": 377000,
+      "name": "Haugtussa - Song Cycle, Op. 67: Ved gjaetle - bekken",
+      "url": "https://open.spotify.com/track/3vMgfdV9xU8UzyivVYDyzc"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Edvard Grieg in Hardanger",
-        "url": "https://open.spotify.com/album/7mHOWB6fyTsStgN8GIOrys"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Geir Botnen",
-          "url": "https://open.spotify.com/artist/6YcsDA7VnJvOKg6VLxwrKa"
-        }
-      ],
-      "duration_ms": 285226,
-      "name": "Andantino Serioso, No 4 Of Four Album Leaves, Op.28",
-      "url": "https://open.spotify.com/track/17FXboBi0kYCoiGOnpku9I"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Grieg: Songs",
         "url": "https://open.spotify.com/album/77ECwA3RIFptg5sTjz21Sb"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 379693,
       "name": "The Mountain Thrall, Op. 32",
       "url": "https://open.spotify.com/track/5fBUHjqqtBwX36qabYf8Ep"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Edvard Grieg in Hardanger",
+        "url": "https://open.spotify.com/album/7mHOWB6fyTsStgN8GIOrys"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Geir Botnen",
+          "url": "https://open.spotify.com/artist/6YcsDA7VnJvOKg6VLxwrKa"
+        }
+      ],
+      "duration_ms": 285226,
+      "name": "Andantino Serioso, No 4 Of Four Album Leaves, Op.28",
+      "url": "https://open.spotify.com/track/17FXboBi0kYCoiGOnpku9I"
     },
     {
       "added_at": "2022-09-30 04:01:00",

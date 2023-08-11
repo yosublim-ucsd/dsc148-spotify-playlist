@@ -4,7 +4,7 @@
 
 > A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Michaël Brun and Joeboy
 
-415 songs - 20 hr 54 min
+417 songs - 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,7 @@
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-06-16 | 2022-12-19 |
 | [La La La](https://open.spotify.com/track/4y8n03rgMS0rc7NoEA0bA8) | [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf), [Boye 'The Genius'](https://open.spotify.com/artist/1gnXGsyZpqJahesflvZkfy) | [Commercial Break](https://open.spotify.com/album/5zScQCMZkHOAdf6Pg6hhpW) | 2:49 | 2022-08-12 | 2022-09-10 |
 | [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 | 2022-05-12 | 2022-12-19 |
-| [Last Name](https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Last Name](https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR) | 2:01 | 2022-07-28 |  |
+| [Last Name](https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Last Name](https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR) | 2:01 | 2022-07-28 | 2023-08-11 |
 | [Lay Low](https://open.spotify.com/track/1QrRuByqSfCxYS0JdZMlIf) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Lay Low](https://open.spotify.com/album/1khrykFtUgs38Ba0QA0Lq4) | 2:19 | 2022-12-09 | 2022-12-19 |
 | [Lay Low](https://open.spotify.com/track/0ysuf6je8hskFtsHob6KQI) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [Lay Low](https://open.spotify.com/album/45lbj08eBm9ZOnlGzBToEd) | 2:54 | 2022-03-24 | 2022-04-21 |
 | [Lekki Love](https://open.spotify.com/track/096tJduQNOLh98cgCDxKXH) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Buju](https://open.spotify.com/artist/52m72UOOSfJmiCC8UkrNZw), [Fresh L.](https://open.spotify.com/artist/5Req3092u4LKlAcv6kZALj) | [Gbagada Express](https://open.spotify.com/album/71t8ET4M40jagPMwWtGDAd) | 3:15 | 2022-04-21 | 2022-07-20 |
@@ -246,7 +246,8 @@
 | [Money For Hand](https://open.spotify.com/track/0vmB4AeK2fdL0kRnCfB0O3) | [Ade James](https://open.spotify.com/artist/39EFuDa5XKCmoh09xK0687), [Liya](https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0) | [Money For Hand](https://open.spotify.com/album/2CVxaCbqnviwpLhqw0w4Pl) | 2:54 | 2022-01-13 | 2022-03-01 |
 | [More Of You](https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [More Of You](https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic) | 3:00 | 2023-02-03 | 2023-03-31 |
 | [Morning Stress](https://open.spotify.com/track/7b1g8V4WA0BEnWBkHv85RW) | [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs) | [Morning Stress](https://open.spotify.com/album/35ymxF17RFfoEdQ4KqlBzc) | 3:28 | 2023-01-27 | 2023-02-04 |
-| [MOTO](https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [MOTO](https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg) | 2:58 | 2023-02-03 |  |
+| [MOTO](https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [MOTO](https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg) | 2:58 | 2023-02-03 | 2023-08-11 |
+| [Mukulu](https://open.spotify.com/track/5kYxdQaX15bCWOltfEUmvM) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 3:47 | 2023-08-10 |  |
 | [My Baby](https://open.spotify.com/track/4QI32cLrF64ZTPfIHwIH5w) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [My Baby](https://open.spotify.com/album/19gij56nUFKFWEffBT4hy2) | 3:10 | 2023-02-16 |  |
 | [My Only Baby](https://open.spotify.com/track/6ZF8NhfpndsCZeCW20i3AH) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [My Only Baby](https://open.spotify.com/album/0eWaXC5Yxcwjf4ieDMFUI9) | 2:38 | 2023-01-12 | 2023-03-11 |
 | [Naked Wire](https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Naked Wire](https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG) | 2:42 | 2022-05-19 | 2022-07-30 |
@@ -398,6 +399,7 @@
 | [Weird Space](https://open.spotify.com/track/0ZahurG13submevaayPoLL) | [Boyd](https://open.spotify.com/artist/0cNLx90Z8YDY4hPxLrHESJ) | [Weird Space](https://open.spotify.com/album/3OoNywIFSlXdYHDwANiVHk) | 2:46 | 2022-03-03 | 2022-07-27 |
 | [Wetin](https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [Wetin](https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb) | 1:18 | 2023-01-29 |  |
 | [What Have You Done?](https://open.spotify.com/track/5xvRXXVYOketwpYA39Dfrm) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [What Have You Done?](https://open.spotify.com/album/3G7drc03HfTHoIVCUJ8m11) | 3:28 | 2023-05-26 | 2023-06-03 |
+| [What's Poppin](https://open.spotify.com/track/2j6nG1yvvf7qK2HxmckQFu) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [What's Poppin](https://open.spotify.com/album/2ks56eA68StdI7n3qlaSam) | 3:15 | 2023-08-10 |  |
 | [Whenever](https://open.spotify.com/track/2EB8dy6UjaMrNofI6fe0Ml) | [Jamopyper](https://open.spotify.com/artist/7InYF1yp4vtlnMr1U4D3KZ), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Whenever](https://open.spotify.com/album/307CWBEY8Lz0bV7xmqLWew) | 2:35 | 2023-06-02 |  |
 | [Whine for Your Life](https://open.spotify.com/track/1zgiwJc3BUVKscDkMexe6C) | [SuperSmashBroz](https://open.spotify.com/artist/4o05vkR7aQMnPRbAqVk13x), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0) | [Miles Away](https://open.spotify.com/album/33l7tBdwY7wEnVPG2kyekw) | 2:48 | 2022-02-03 | 2022-02-10 |
 | [Why](https://open.spotify.com/track/5RnAlrUxLZmBGhgICz5ggZ) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Why](https://open.spotify.com/album/7fkJBL9ScE5npaKTjOTkWm) | 2:45 | 2023-03-16 | 2023-04-15 |

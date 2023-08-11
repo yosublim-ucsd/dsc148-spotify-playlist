@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ebqev5IkYU.md) - [plain]
 
 > Schlechte Laune? Drück den Play Button!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,967,505 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,967,802 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ebqev5IkYU.md) - [plain]
 | 13 | [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 |
 | 14 | [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj) | 3:01 |
 | 15 | [Call It Love](https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Call It Love](https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn) | 2:34 |
-| 16 | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6) | 2:22 |
+| 16 | [RUNAWAY](https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [RUNAWAY](https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe) | 2:23 |
 | 17 | [Bad Habits](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:50 |
-| 18 | [RUNAWAY](https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [RUNAWAY](https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe) | 2:23 |
+| 18 | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6) | 2:22 |
 | 19 | [TRUSTFALL](https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt) | 3:57 |
 | 20 | [Forget Me](https://open.spotify.com/track/3iHzKA9HlXf5wsGdsrsnSA) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:23 |
 | 21 | [The Motto](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto](https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV) | 2:44 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ebqev5IkYU.md) - [plain]
 | 34 | [Forget You](https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Forget You](https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6) | 2:27 |
 | 35 | [Weekends](https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Weekends](https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh) | 2:07 |
 | 36 | [Celestial](https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Celestial](https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29) | 3:29 |
-| 37 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 |
-| 38 | [Waterfall](https://open.spotify.com/track/7aJgh6LCvhXJfD7PHjhG70) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Waterfall](https://open.spotify.com/album/11tmmS5xSi2aa7VNokfYCD) | 2:17 |
+| 37 | [Waterfall](https://open.spotify.com/track/7aJgh6LCvhXJfD7PHjhG70) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Waterfall](https://open.spotify.com/album/11tmmS5xSi2aa7VNokfYCD) | 2:17 |
+| 38 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 |
 | 39 | [Living In A Haze](https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze](https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ) | 2:53 |
 | 40 | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/track/5902W4uHWzhtOff1UK7the) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9) | 2:41 |
 | 41 | [The Ballet Girl](https://open.spotify.com/track/3aiOu3VFNOD9omIGG7nSq1) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl](https://open.spotify.com/album/0oHwFrjiH6pkhFp8C4LWa3) | 3:21 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ebqev5IkYU.md) - [plain]
 | 59 | [Do It Again](https://open.spotify.com/track/1IeQnQxCs2YJN6u3wQbUyX) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Do It Again](https://open.spotify.com/album/2CVUrzo4yImrsDLT3v1jTZ) | 2:55 |
 | 60 | [Samba](https://open.spotify.com/track/0skgJbXMM4sPRwSKXvO2id) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Louis III](https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr) | [Samba](https://open.spotify.com/album/2XNZaIXWrcFCxoc7xJACTt) | 2:27 |
 
-Snapshot ID: `MCxlZjFiMTg2OWZkNTMzZjVmODVmNjk1ZWY1ZDYyMGM1MTkzODNhY2Ew`
+Snapshot ID: `MCwxOTc3ZDdhOWY1MWQxOWY0YWIyNGNjNTg2MWRmMWE2NTc5YWYxMWIx`

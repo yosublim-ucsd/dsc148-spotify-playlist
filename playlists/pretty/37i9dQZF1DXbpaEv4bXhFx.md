@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 
 > 빗방울대신 감성을 맞는 시간.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,136 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,182 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 | 28 | [Kiss The Rain](https://open.spotify.com/track/00ZvMUjMundVCBeCGqhSf7) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Tale of the Nine Tailed 1938, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5PYf2CJFr5WIatS4GQ2kmd) | 2:32 |
 | 29 | [Childhood](https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:15 |
 | 30 | [Cape](https://open.spotify.com/track/6NpTVrEK8x4oNLiaUartCK) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [Cape](https://open.spotify.com/album/4FptBJzdZO2HUTvSF9UrFu) | 4:24 |
-| 31 | [Sun Shower](https://open.spotify.com/track/4dGJC7qU8dGOE00P5SgJWL) | [MOVNING](https://open.spotify.com/artist/6tuZdsQHRegQDPlRdcMjbn) | [Sun Shower \(A Business Proposal OST Part.3\)](https://open.spotify.com/album/27s8y4T4C2XIP9y4Rv5AO2) | 4:16 |
+| 31 | [Gray So Gray \(Feat\. Younha\)](https://open.spotify.com/track/6A4iYPzPVM4OSjIMgxMYnY) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 4:12 |
 | 32 | [overdose](https://open.spotify.com/track/3B4Rxj4UItYuHyppE8S0gU) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [overdose](https://open.spotify.com/album/7gWO40G0L1xaZ0wEmiLmr8) | 4:15 |
-| 33 | [Gray So Gray \(Feat\. Younha\)](https://open.spotify.com/track/6A4iYPzPVM4OSjIMgxMYnY) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 4:12 |
-| 34 | [Will spring come?](https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [Will spring come?](https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83) | 3:18 |
+| 33 | [Will spring come?](https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [Will spring come?](https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83) | 3:18 |
+| 34 | [Sun Shower](https://open.spotify.com/track/4dGJC7qU8dGOE00P5SgJWL) | [MOVNING](https://open.spotify.com/artist/6tuZdsQHRegQDPlRdcMjbn) | [Sun Shower \(A Business Proposal OST Part.3\)](https://open.spotify.com/album/27s8y4T4C2XIP9y4Rv5AO2) | 4:16 |
 | 35 | [On A Rainy Day](https://open.spotify.com/track/3KhDf9MJlPpodahS4OwrMF) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [STABLE MINDSET](https://open.spotify.com/album/4ZCXsCHvaZ9r5skMrC4B9h) | 3:32 |
 | 36 | [A Call from My Dream](https://open.spotify.com/track/23YwgEnMllsZl0POeWiOzR) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [A Call from My Dream](https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M) | 4:15 |
 | 37 | [My Day Is Full Of You](https://open.spotify.com/track/2QWa5RjnIGFwraHDPqlhFh) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 10](https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5) | 3:40 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 | 43 | [Distance \(Feat\. I.M of MONSTA X\)](https://open.spotify.com/track/2bfagt2SWQiC0IHhZgMSS7) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:11 |
 | 44 | [tokki](https://open.spotify.com/track/2865p4BUG6BH7v5WIjfGWN) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [tokki](https://open.spotify.com/album/73CjMy4n5mnulB7w3PFXI0) | 3:30 |
 | 45 | [Can We Talk Again](https://open.spotify.com/track/0zuOKdFHYFIOTyJi0aOIuo) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Can We Talk Again](https://open.spotify.com/album/7upDgBOqXuwU72JPeBLIzA) | 3:04 |
-| 46 | [Hug me tight](https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Hug me tight](https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF) | 3:47 |
+| 46 | [Fall in Love Again](https://open.spotify.com/track/623MRGJs27mi0ne71LEqGa) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Fall in Love Again](https://open.spotify.com/album/7kzTCmJ9VqRDAsoLAwaFvd) | 3:38 |
 | 47 | [Still Wonder](https://open.spotify.com/track/1hD35Fj6NBNm2CEOn3QLCE) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [You Are My Spring OST Part 3](https://open.spotify.com/album/3XRvOMIh5LEfdSu1q69U96) | 2:41 |
-| 48 | [Fall in Love Again](https://open.spotify.com/track/623MRGJs27mi0ne71LEqGa) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Fall in Love Again](https://open.spotify.com/album/7kzTCmJ9VqRDAsoLAwaFvd) | 3:38 |
+| 48 | [Hug me tight](https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Hug me tight](https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF) | 3:47 |
 | 49 | [babyblue](https://open.spotify.com/track/0n4dgPfvfdqrt2LwDytMrD) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [babyblue](https://open.spotify.com/album/76GB3RzVtNrBANCl9Cici4) | 3:48 |
 | 50 | [Airplane Mode](https://open.spotify.com/track/4gKR1sPHFoHfHMescK6axE) | [KLANG](https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF) | [Track 03](https://open.spotify.com/album/6wM6tfBfVgG1eLDlDXw5Fg) | 2:51 |
 
-Snapshot ID: `MCw3YThmNjIzY2E5NTQwYTcyZmFmZWZlZTQwYjZlYmExY2VlMmFlNDc1`
+Snapshot ID: `MCw0OTllYTJmZWRlZjc4YmU1MTdkNDQ5NDU4Mzg1ZGY0YzNiZjEwMDYz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MhmggNjVD1.md) - [plain]
 
 > Featuring Jay Wheeler, Anuel AA, Ryan Castro & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,738 likes - 25 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,746 likes - 25 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MhmggNjVD1.md) - [plain]
 | 9 | [Mi Luz \(ft\. Rels B\)](https://open.spotify.com/track/0TkIQ2I48rz4kpk1XpfyHq) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [NASTU](https://open.spotify.com/album/6wl31M47YdcV6eNyfXCjCk) | 2:48 |
 | 10 | [MERCHO](https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue) | [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [MERCHO](https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj) | 2:41 |
 | 11 | [Cada Noche](https://open.spotify.com/track/0Rj2gmEcyAOSxYMh2YGxR7) | [Jauria Santa](https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV) | [Cada Noche](https://open.spotify.com/album/4HAKbXAdUnsyRNtW3dZdGW) | 3:25 |
-| 12 | [Felicidades](https://open.spotify.com/track/1HMs2s2cawWk3ce1aeKsZn) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Felicidades](https://open.spotify.com/album/4MehKWkRVXk8Rx4237Ypdr) | 2:45 |
+| 12 | [FELICIDADES](https://open.spotify.com/track/1HMs2s2cawWk3ce1aeKsZn) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [FELICIDADES](https://open.spotify.com/album/4MehKWkRVXk8Rx4237Ypdr) | 2:45 |
 | 13 | [GHOST](https://open.spotify.com/track/39T1OfxotN8MovPkGRseMh) | [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [ANKHALINO](https://open.spotify.com/album/45jdyAEuBmMpTbwRrZqhK6) | 2:48 |
 | 14 | [GATO MALO](https://open.spotify.com/track/7wy5kv4fYAsR9qFxKKZC5E) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:45 |
 | 15 | [Que Hay](https://open.spotify.com/track/2TK4Oy3iu4AdCaD8HXqBQf) | [Papi Sousa](https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7) | [Free Sousa](https://open.spotify.com/album/2OtdBqjS6xw3V7DVi6nsqh) | 2:15 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MhmggNjVD1.md) - [plain]
 | 24 | [Prohibidox](https://open.spotify.com/track/3PpWCS95gDUDRPko3u1MZ9) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:46 |
 | 25 | [UZI](https://open.spotify.com/track/3lDKFNhgDpu7W7UEQ6ix3O) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [UZI](https://open.spotify.com/album/6iLDAXWCP3IU4FvAa4egO4) | 2:06 |
 
-Snapshot ID: `MCw5OTY2YTJlZTA2ZmE0MDA2YWE5NjRkNmFkZDQ4YmMyYTdjZTE1YjJj`
+Snapshot ID: `MCxmZjY0ZTlkZWMyMjNkZWEwZGUxNDJmNzE3NjNlNzQ0MzRkOGIzZDRk`

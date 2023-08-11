@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 
 > ¡Feliz Navidad! Celebra los días festivos con estas canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,237 likes - 61 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,222 likes - 61 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 30 | [Feliz Navidad \(with The Simpsons\)](https://open.spotify.com/track/4xBS1p60I9p8TxbBVcTrOQ) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [Virginia Bocelli](https://open.spotify.com/artist/5zF9MgOi02PuW8KAH9VtyX), [The Simpsons](https://open.spotify.com/artist/7r0Otd9dEStSVIxJ02ml5a) | [Feliz Navidad \(with The Simpsons\)](https://open.spotify.com/album/0ZcvS854Zujt3tuVmKzEUY) | 2:02 |
 | 31 | [Duende](https://open.spotify.com/track/4YOZ3RFiqr4SiPpQ3MMBot) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE) | [Duende](https://open.spotify.com/album/2w5Retn8950UJiwf09tFJq) | 2:46 |
 | 32 | [Santa Quiero](https://open.spotify.com/track/6Vb7wm8QDYJaLe6nTfDaK4) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Amor Navideño](https://open.spotify.com/album/3FkNGhWudLC6Io9nz1D705) | 3:45 |
-| 33 | [We're The Lucky Ones](https://open.spotify.com/track/0NrucXAEaaZB48N2vIDrjT) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [We're The Lucky Ones](https://open.spotify.com/album/12USXSqjhL8yMhajTI8fD8) | 3:35 |
+| 33 | [We're the Lucky Ones](https://open.spotify.com/track/0NrucXAEaaZB48N2vIDrjT) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [We're The Lucky Ones](https://open.spotify.com/album/12USXSqjhL8yMhajTI8fD8) | 3:35 |
 | 34 | [Te Regalo](https://open.spotify.com/track/2h8ifm4ZdUjRMAMVjYYcQk) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Te Regalo](https://open.spotify.com/album/6WG0yEtxedxIVbpakcqKSl) | 3:01 |
 | 35 | [Solo En Navidad](https://open.spotify.com/track/1mUWJgTCug0Fq1vLtdqUjl) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [Solo En Navidad](https://open.spotify.com/album/3d9VV0ryiHnQKcBYPCzCGs) | 3:11 |
 | 36 | [25 de Diciembre](https://open.spotify.com/track/7m1nnKjSVpGUiJPw2WNqxW) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV) | [25 de Diciembre](https://open.spotify.com/album/08OQekJroE9E8h0wqerUWY) | 2:58 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 60 | [Mix Navideño](https://open.spotify.com/track/59UYBKR8C6O8aW4bB34JzL) | [Maxi Brito](https://open.spotify.com/artist/1gAwItzJvuDNCkLBeksvqk), [E Negrito](https://open.spotify.com/artist/3cbXGLH5iFcHdxHjoetzuB), [CDI RECORDS S.A.](https://open.spotify.com/artist/6RYcrTuVVfidFKu0WKNc5k) | [Mix Navideño](https://open.spotify.com/album/4vrnz7ohoGvbtiBT8cYflV) | 3:19 |
 | 61 | [Nuestra Canción De Navidad](https://open.spotify.com/track/2LTlzcu4WICKICBeOlbVV0) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Nuestra Navidad](https://open.spotify.com/album/3nIu3AmwoEy4RlBJGd6rlG) | 3:36 |
 
-Snapshot ID: `MCw0NGU4NTNiMDE4N2I4Yjg3YzFhNmQzMjU5ZTQ5NzdiYzFjYmUxZTgy`
+Snapshot ID: `MCxhNzJiMGRiZmM0ODcyNDYxNjA3ODhkZjFhYWUxN2I3OTBmNWI5ODNk`

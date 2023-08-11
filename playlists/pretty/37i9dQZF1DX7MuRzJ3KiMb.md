@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 
 > el amor es <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,763 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,822 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 45 | [Florecer](https://open.spotify.com/track/0uEwlYeHAiVNUCcXbx6ntR) | [valeria dávila](https://open.spotify.com/artist/2CoZrPsp90NW3x0jvWKmbj) | [Florecer](https://open.spotify.com/album/3KvbOKpjZB95IwRwnW0TZk) | 3:34 |
 | 46 | [Flecha](https://open.spotify.com/track/6XtOM0xVBmhjX8mRkrWo9z) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Flecha](https://open.spotify.com/album/6ppWzVBtrtH6Pfzkz1gx9V) | 3:53 |
 | 47 | [Timidez \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/6JMp6i9OZ70VwsC2MbgX5n) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [ULYSE](https://open.spotify.com/album/6vIeyrxfW5aoC4mRhB95VD) | 3:34 |
-| 48 | [Bonita](https://open.spotify.com/track/0XYn21VZfgYoFMI4l9cE6U) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF) | [Bonita](https://open.spotify.com/album/1NM35ebOcjBJsY0SYIezku) | 2:56 |
-| 49 | [Curvas](https://open.spotify.com/track/6TO05VYYHCkZpy0V1XVOdI) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Claruz](https://open.spotify.com/artist/5NtQw3vT27cspk8K7krlJv), [Floyd](https://open.spotify.com/artist/4yURrK9HEczFPGPya2yBu2) | [Curvas](https://open.spotify.com/album/4epp2PoR2TdOkYN90EG1MT) | 2:48 |
+| 48 | [Curvas](https://open.spotify.com/track/6TO05VYYHCkZpy0V1XVOdI) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Claruz](https://open.spotify.com/artist/5NtQw3vT27cspk8K7krlJv), [Floyd](https://open.spotify.com/artist/4yURrK9HEczFPGPya2yBu2) | [Curvas](https://open.spotify.com/album/4epp2PoR2TdOkYN90EG1MT) | 2:48 |
+| 49 | [Bonita](https://open.spotify.com/track/0XYn21VZfgYoFMI4l9cE6U) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF) | [Bonita](https://open.spotify.com/album/1NM35ebOcjBJsY0SYIezku) | 2:56 |
 | 50 | [Te Encontré](https://open.spotify.com/track/7jcOfJG3z9Bt543UQSg72w) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Tu Historia](https://open.spotify.com/album/5e3dSyeSBjthMeTcNJ6VBF) | 3:32 |
 | 51 | [Tenemos que hablar](https://open.spotify.com/track/1pSwtcaRE3LbpKiOK00l4N) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Tenemos que hablar](https://open.spotify.com/album/4bza078y7xvT1KpPoVzbx2) | 3:33 |
 | 52 | [Tengo Algo Que Decirte](https://open.spotify.com/track/5Ntox2jSrDcVUKOoW0TYHG) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Tengo Algo Que Decirte](https://open.spotify.com/album/58XueoPsoMzd3nzH2s8B9A) | 3:26 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 74 | [capturas de pantalla](https://open.spotify.com/track/6HnW2csrZ7MKRoqnVJpjHR) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [capturas de pantalla](https://open.spotify.com/album/0Tq8ZFYOAcHmAnnKn3kBNL) | 3:26 |
 | 75 | [Automático](https://open.spotify.com/track/6Yr96hQHVxOsysOEiAxaUl) | [Juan Solo](https://open.spotify.com/artist/033ki1tu7MbVUn1nhuD2yV) | [Automático](https://open.spotify.com/album/6MQEA52oQyxgPLiZ0B3lDI) | 3:06 |
 
-Snapshot ID: `MCwwZDZjZDY2NjA4YzczNmVjZGIyMmU0MTFjNmIxZDI1ZjZkYTg5YjMz`
+Snapshot ID: `MCw2NWY4NzRiZWVhZWNiMTA2Nzg1Yjk1MDI2ODg1NTIyZmU0MjIwNmIz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b1hHYQtJjp.md) - [plain]
 
 > Recent hits and new songs from your fave artists\. Cover: Lauv
 
-[Spotify](https://open.spotify.com/user/spotify) - 849,156 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 849,319 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b1hHYQtJjp.md) - [plain]
 | 14 | [TRUSTFALL](https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt) | 3:57 |
 | 15 | [Save Me The Trouble](https://open.spotify.com/track/7hZTywPKMdVjJzwdWu11BK) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Save Me The Trouble, Heartbreak On The Map, Bigger Houses](https://open.spotify.com/album/0k3Twwed7AzLrgaKywvQWF) | 3:20 |
 | 16 | [I Know \(feat\. Tenille Townes & Bryce Vine\)](https://open.spotify.com/track/5DU3wahsCBJ6kkyDBYpIRN) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [I Know \(feat\. Tenille Townes & Bryce Vine\)](https://open.spotify.com/album/67YRdAiqz6kybb31VrYo58) | 3:03 |
-| 17 | [mine](https://open.spotify.com/track/5WVwFPBm6bI9KPRV2AUR2T) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [mine / me](https://open.spotify.com/album/0Y4UzVqYI5o4GBxkQimdL8) | 3:11 |
+| 17 | [mine](https://open.spotify.com/track/20XB21FHWhdyWTs5z7p9Vl) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [chemistry](https://open.spotify.com/album/5c56JYNgc48iDnwHHlOcye) | 3:11 |
 | 18 | [Angel](https://open.spotify.com/track/2soZTM1x1GBiQGMAsXKXpd) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [Angel](https://open.spotify.com/album/0VsjdPYUzQti57JmByRQvz) | 3:39 |
 | 19 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 |
 | 20 | [Heartbroken \(feat\. Jessie Murph & Polo G\)](https://open.spotify.com/track/6NdnvPwQvZb147DVa4x14h) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Heartbroken \(feat\. Jessie Murph & Polo G\)](https://open.spotify.com/album/4cfA6cGpQSXr8jMMxfnNaS) | 3:24 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b1hHYQtJjp.md) - [plain]
 | 59 | [Stronger \(Grey's Anatomy Version\)](https://open.spotify.com/track/2h444Cn1pbZjKPD4jbjY3E) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Stronger](https://open.spotify.com/album/4KrEjdnGDVtiRyZ4poxNTk) | 2:59 |
 | 60 | [Girls](https://open.spotify.com/track/7EjL6DoRMa601VXjoyyBSE) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Girls](https://open.spotify.com/album/7y0Rp3VEX8Ix9g9uZp2LAG) | 2:51 |
 
-Snapshot ID: `MCwzZWRjMGE3N2M1ZGYwMGRjNzFjYjM0MGZlMzQzOTBjOTJjYTJiMWI2`
+Snapshot ID: `MCxhZjhjODAxMjE0YTQ3ZjQwOGIyZWMwOWIwMzBkYjMxYjE3ZjE0YzE4`

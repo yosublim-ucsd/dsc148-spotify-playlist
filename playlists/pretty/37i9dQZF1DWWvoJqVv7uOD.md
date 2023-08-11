@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvoJqVv7uOD.md) - [plain]
 
 > Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Cian Durcot
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,018 likes - 86 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,254 likes - 86 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvoJqVv7uOD.md) - [plain]
 | 68 | [Dial Drunk](https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:33 |
 | 69 | [If You Were Mine](https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [If You Were Mine](https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ) | 3:39 |
 | 70 | [Happy People \(with Teddy Swims & Jac Ross\)](https://open.spotify.com/track/5lujBnGhaV4zgazZ6A8S5g) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Jac Ross](https://open.spotify.com/artist/172Nbc7kz4JhcCor54l9Sr) | [Happy People \(with Teddy Swims & Jac Ross\)](https://open.spotify.com/album/7w5T80ALRyJXKj0TbQ03Mw) | 4:55 |
-| 71 | [favorite kind of high](https://open.spotify.com/track/3lxias37bJGSqIOLkQBJF9) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [favorite kind of high](https://open.spotify.com/album/0ovV62VKM8ADN9BZIlrQMn) | 2:55 |
+| 71 | [favorite kind of high](https://open.spotify.com/track/63ZSZznbGQhzJhOHPZ6WkT) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [chemistry](https://open.spotify.com/album/5c56JYNgc48iDnwHHlOcye) | 2:55 |
 | 72 | [Seasons](https://open.spotify.com/track/6sbqpXpDBb6MNv93lhqKvl) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Bebe](https://open.spotify.com/album/0FWLTTcCKsd3b1PiW9GTEN) | 3:23 |
 | 73 | [Queen of New York City](https://open.spotify.com/track/6GN1unKvg3uyOBj2dCV41D) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Where The Light Goes](https://open.spotify.com/album/2pEYh3VNKgM40c6UMiLhbV) | 3:32 |
 | 74 | [How Does It Feel](https://open.spotify.com/track/1KNYCbS2hGara6pzGCa2Ui) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [How Does It Feel](https://open.spotify.com/album/7oEIRmKyqKCbWQO7LAgvrU) | 2:23 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvoJqVv7uOD.md) - [plain]
 | 85 | [Stronger \(Grey's Anatomy Version\)](https://open.spotify.com/track/2h444Cn1pbZjKPD4jbjY3E) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Stronger](https://open.spotify.com/album/4KrEjdnGDVtiRyZ4poxNTk) | 2:59 |
 | 86 | [Green Green Grass](https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 2:47 |
 
-Snapshot ID: `MCw2Njg0YzFiZjJhZjZiZGNkODJhYTE5NjI3MThkNWEzZTY0YzkxZDIy`
+Snapshot ID: `MCxiMDEwYTk1NDllMzcxYjU0NWIzM2UyZmIyN2M3MmY5ZmNmYmUzYTZi`

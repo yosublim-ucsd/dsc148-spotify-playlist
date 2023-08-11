@@ -1,12 +1,12 @@
 {
   "description": "Let the songs speak. Cover: Dee Gatti",
-  "num_followers": 42360,
+  "num_followers": 42361,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODU0MjQyNDUxZjg0MDZiZmY4YzM3NGU4YWRjOGI4Yjk1YTcyZDgw",
+  "snapshot_id": "MCxkZDI2YmUxNGJjYjVjZjU3N2FjYWYyYjE0ZTRjNWEyNmZjMjc0OWQ0",
   "tracks": [
     {
       "added_at": "2023-07-14 17:29:23",
@@ -429,24 +429,28 @@
       "url": "https://open.spotify.com/track/57tg0m3Iu8YzWyaDfFfDtR"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Used To Me (feat. Ty Dolla $ign)",
-        "url": "https://open.spotify.com/album/1lPazDBnJg0TB7bR6qYpqf"
+        "name": "Tell Me It's Over",
+        "url": "https://open.spotify.com/album/2VgQZ6hNhTXWaZdNbuULe3"
       },
       "artists": [
         {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
         },
         {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
         }
       ],
-      "duration_ms": 167591,
-      "name": "Used To Me (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/1muiS9jrDUTADqIE7yKuYV"
+      "duration_ms": 281013,
+      "name": "Tell Me It's Over (feat. Summer Walker & 6LACK)",
+      "url": "https://open.spotify.com/track/47ssddfj7Ug6hO9Ol2AXGu"
     },
     {
       "added_at": "2022-10-28 04:22:42",
@@ -497,28 +501,24 @@
       "url": "https://open.spotify.com/track/3yPFUHziBrM1ab7oeiPhWH"
     },
     {
-      "added_at": "2022-12-16 05:00:00",
+      "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Tell Me It's Over",
-        "url": "https://open.spotify.com/album/2VgQZ6hNhTXWaZdNbuULe3"
+        "name": "Used To Me (feat. Ty Dolla $ign)",
+        "url": "https://open.spotify.com/album/1lPazDBnJg0TB7bR6qYpqf"
       },
       "artists": [
         {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
         },
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 281013,
-      "name": "Tell Me It's Over (feat. Summer Walker & 6LACK)",
-      "url": "https://open.spotify.com/track/47ssddfj7Ug6hO9Ol2AXGu"
+      "duration_ms": 167591,
+      "name": "Used To Me (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/1muiS9jrDUTADqIE7yKuYV"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -877,26 +877,6 @@
       "url": "https://open.spotify.com/track/0tkJrvooVHw5r7MrUaCWjh"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Presence",
-        "url": "https://open.spotify.com/album/7qLaG83ajGXlT4qwVwZNXs"
-      },
-      "artists": [
-        {
-          "name": "Gemaine",
-          "url": "https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03"
-        },
-        {
-          "name": "Jacob Latimore",
-          "url": "https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69"
-        }
-      ],
-      "duration_ms": 184736,
-      "name": "Presence",
-      "url": "https://open.spotify.com/track/2Yld53VYV6QE7Dy7uqYHHD"
-    },
-    {
       "added_at": "2022-10-14 05:33:57",
       "album": {
         "name": "Love Jones (feat. Ty Dolla $ign)",
@@ -915,6 +895,26 @@
       "duration_ms": 183589,
       "name": "Love Jones (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/1X2Ec2pLTtapRlpECgnGdN"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Presence",
+        "url": "https://open.spotify.com/album/7qLaG83ajGXlT4qwVwZNXs"
+      },
+      "artists": [
+        {
+          "name": "Gemaine",
+          "url": "https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03"
+        },
+        {
+          "name": "Jacob Latimore",
+          "url": "https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69"
+        }
+      ],
+      "duration_ms": 184736,
+      "name": "Presence",
+      "url": "https://open.spotify.com/track/2Yld53VYV6QE7Dy7uqYHHD"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -949,22 +949,6 @@
       "url": "https://open.spotify.com/track/4O8LjiiXtsL0Jnb5xK4VxZ"
     },
     {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Songs for Women, Free Game for Niggas - EP",
-        "url": "https://open.spotify.com/album/64iyjndrqCyY9dbldsSZx1"
-      },
-      "artists": [
-        {
-          "name": "Jozzy",
-          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
-        }
-      ],
-      "duration_ms": 181911,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/0UqV4f9Uyp1EwM5jxXex36"
-    },
-    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "Still Work (feat. Ty Dolla $ign & Muni Long)",
@@ -987,6 +971,22 @@
       "duration_ms": 154552,
       "name": "Still Work (feat. Ty Dolla $ign & Muni Long)",
       "url": "https://open.spotify.com/track/0teFeL0RvDeDbpmi1YZlFt"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Songs for Women, Free Game for Niggas - EP",
+        "url": "https://open.spotify.com/album/64iyjndrqCyY9dbldsSZx1"
+      },
+      "artists": [
+        {
+          "name": "Jozzy",
+          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
+        }
+      ],
+      "duration_ms": 181911,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0UqV4f9Uyp1EwM5jxXex36"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1077,22 +1077,6 @@
       "url": "https://open.spotify.com/track/5jI8xKMCIEToPXuXdFCoFJ"
     },
     {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Toxic",
-        "url": "https://open.spotify.com/album/2ZibN1oYDxhohvvdKuhb93"
-      },
-      "artists": [
-        {
-          "name": "Liyah Katana",
-          "url": "https://open.spotify.com/artist/4NoMOvHrwo6D39dNV6ntzu"
-        }
-      ],
-      "duration_ms": 153386,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/2KbtgZpqmeAbjBDuW5HtDM"
-    },
-    {
       "added_at": "2023-04-14 04:01:00",
       "album": {
         "name": "Love Scars II",
@@ -1113,20 +1097,36 @@
       "url": "https://open.spotify.com/track/24KsIgn3IsG6N5e43XQvvx"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Runner Up",
-        "url": "https://open.spotify.com/album/4XjO7PZoSXkaAQ5rbDVOMg"
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/2ZibN1oYDxhohvvdKuhb93"
       },
       "artists": [
         {
-          "name": "Tejy",
-          "url": "https://open.spotify.com/artist/4mOvX6YYTQ1qdtNWPS6rmk"
+          "name": "Liyah Katana",
+          "url": "https://open.spotify.com/artist/4NoMOvHrwo6D39dNV6ntzu"
         }
       ],
-      "duration_ms": 172275,
-      "name": "Runner Up",
-      "url": "https://open.spotify.com/track/7H3gmddv7d0bP846jgHu62"
+      "duration_ms": 153386,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/2KbtgZpqmeAbjBDuW5HtDM"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "More Than Anything",
+        "url": "https://open.spotify.com/album/45QF4GlX92MJyo1I53mqRI"
+      },
+      "artists": [
+        {
+          "name": "JAHKOY",
+          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
+        }
+      ],
+      "duration_ms": 140474,
+      "name": "More Than Anything",
+      "url": "https://open.spotify.com/track/0i5YwyUVsFOsCdiGBryhqj"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1145,20 +1145,20 @@
       "url": "https://open.spotify.com/track/0p2Rhf58T7JgvwYqF0DXl1"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "More Than Anything",
-        "url": "https://open.spotify.com/album/45QF4GlX92MJyo1I53mqRI"
+        "name": "Runner Up",
+        "url": "https://open.spotify.com/album/4XjO7PZoSXkaAQ5rbDVOMg"
       },
       "artists": [
         {
-          "name": "JAHKOY",
-          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
+          "name": "Tejy",
+          "url": "https://open.spotify.com/artist/4mOvX6YYTQ1qdtNWPS6rmk"
         }
       ],
-      "duration_ms": 140474,
-      "name": "More Than Anything",
-      "url": "https://open.spotify.com/track/0i5YwyUVsFOsCdiGBryhqj"
+      "duration_ms": 172275,
+      "name": "Runner Up",
+      "url": "https://open.spotify.com/track/7H3gmddv7d0bP846jgHu62"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1213,22 +1213,6 @@
       "url": "https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW"
     },
     {
-      "added_at": "2023-06-16 05:24:07",
-      "album": {
-        "name": "who's loving you?",
-        "url": "https://open.spotify.com/album/36SXVRBEeY8Zr46Jdo6YkR"
-      },
-      "artists": [
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        }
-      ],
-      "duration_ms": 219662,
-      "name": "PT. II (DRAKE & DRIVE)",
-      "url": "https://open.spotify.com/track/56QSbiHEHJ55wewvQ3JXMZ"
-    },
-    {
       "added_at": "2022-08-05 04:11:54",
       "album": {
         "name": "Sock It 2 Me",
@@ -1243,6 +1227,22 @@
       "duration_ms": 201802,
       "name": "Sock It 2 Me",
       "url": "https://open.spotify.com/track/50djZgba5gDPdYp7aJG57w"
+    },
+    {
+      "added_at": "2023-06-16 05:24:07",
+      "album": {
+        "name": "who's loving you?",
+        "url": "https://open.spotify.com/album/36SXVRBEeY8Zr46Jdo6YkR"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "duration_ms": 219662,
+      "name": "PT. II (DRAKE & DRIVE)",
+      "url": "https://open.spotify.com/track/56QSbiHEHJ55wewvQ3JXMZ"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1581,6 +1581,42 @@
       "url": "https://open.spotify.com/track/03sBdwtbA0t5mGOcqHxBXB"
     },
     {
+      "added_at": "2023-07-28 08:00:10",
+      "album": {
+        "name": "Come See Me (Pt. 2)",
+        "url": "https://open.spotify.com/album/4Y9NqP8D2qLqmnv584hzyM"
+      },
+      "artists": [
+        {
+          "name": "Teenear",
+          "url": "https://open.spotify.com/artist/05F7ymnYcv8JdwxtDnmFO0"
+        },
+        {
+          "name": "K CAMP",
+          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
+        }
+      ],
+      "duration_ms": 180932,
+      "name": "Come See Me - Pt. 2",
+      "url": "https://open.spotify.com/track/1KqT67yoCwR71L3kp777Gk"
+    },
+    {
+      "added_at": "2023-06-16 06:01:57",
+      "album": {
+        "name": "DO BAD",
+        "url": "https://open.spotify.com/album/4jZ3g9IaxnPQEaiBmlHzZh"
+      },
+      "artists": [
+        {
+          "name": "Asiahn",
+          "url": "https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs"
+        }
+      ],
+      "duration_ms": 239230,
+      "name": "DO BAD",
+      "url": "https://open.spotify.com/track/56yqjeadB7CbECmSXWIXKw"
+    },
+    {
       "added_at": "2023-05-12 04:01:00",
       "album": {
         "name": "Big Boss",
@@ -1601,40 +1637,24 @@
       "url": "https://open.spotify.com/track/0YWmIEuPAIp8vezxX1m1Z3"
     },
     {
-      "added_at": "2023-06-16 06:01:57",
+      "added_at": "2023-05-05 04:18:58",
       "album": {
-        "name": "DO BAD",
-        "url": "https://open.spotify.com/album/4jZ3g9IaxnPQEaiBmlHzZh"
+        "name": "Take II",
+        "url": "https://open.spotify.com/album/5k2IeNsyEskyhJMbN5CAYf"
       },
       "artists": [
         {
-          "name": "Asiahn",
-          "url": "https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs"
-        }
-      ],
-      "duration_ms": 239230,
-      "name": "DO BAD",
-      "url": "https://open.spotify.com/track/56yqjeadB7CbECmSXWIXKw"
-    },
-    {
-      "added_at": "2023-07-28 08:00:10",
-      "album": {
-        "name": "Come See Me (Pt. 2)",
-        "url": "https://open.spotify.com/album/4Y9NqP8D2qLqmnv584hzyM"
-      },
-      "artists": [
-        {
-          "name": "Teenear",
-          "url": "https://open.spotify.com/artist/05F7ymnYcv8JdwxtDnmFO0"
+          "name": "Amari Noelle",
+          "url": "https://open.spotify.com/artist/0oOSUbpeJXzsaPm0x7wBF7"
         },
         {
-          "name": "K CAMP",
-          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
+          "name": "Kodie Shane",
+          "url": "https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4"
         }
       ],
-      "duration_ms": 180932,
-      "name": "Come See Me - Pt. 2",
-      "url": "https://open.spotify.com/track/1KqT67yoCwR71L3kp777Gk"
+      "duration_ms": 128506,
+      "name": "For The Girls",
+      "url": "https://open.spotify.com/track/0qgoLkX5xaPFimxtXYNJ1e"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1689,24 +1709,36 @@
       "url": "https://open.spotify.com/track/7a1ICdYKiQPHYmxH740gfM"
     },
     {
-      "added_at": "2023-05-05 04:18:58",
+      "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Take II",
-        "url": "https://open.spotify.com/album/5k2IeNsyEskyhJMbN5CAYf"
+        "name": "Life",
+        "url": "https://open.spotify.com/album/78caTHJtZQmmxYWS6xRyzi"
       },
       "artists": [
         {
-          "name": "Amari Noelle",
-          "url": "https://open.spotify.com/artist/0oOSUbpeJXzsaPm0x7wBF7"
-        },
-        {
-          "name": "Kodie Shane",
-          "url": "https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4"
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
         }
       ],
-      "duration_ms": 128506,
-      "name": "For The Girls",
-      "url": "https://open.spotify.com/track/0qgoLkX5xaPFimxtXYNJ1e"
+      "duration_ms": 175999,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/74cfwBYBzG8QOvxcBZBeKE"
+    },
+    {
+      "added_at": "2022-09-30 04:04:59",
+      "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON"
+      },
+      "artists": [
+        {
+          "name": "Chxrry22",
+          "url": "https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro"
+        }
+      ],
+      "duration_ms": 147792,
+      "name": "Wasteland",
+      "url": "https://open.spotify.com/track/3Pf6GfPT5emtTRghA3u7HC"
     },
     {
       "added_at": "2023-05-05 04:18:58",
@@ -1727,38 +1759,6 @@
       "duration_ms": 154105,
       "name": "Maddest Hoes",
       "url": "https://open.spotify.com/track/2JOAClTouRjLpemnmAutOV"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "About You",
-        "url": "https://open.spotify.com/album/4LLnPRmrfGfHRCkXzsWDJL"
-      },
-      "artists": [
-        {
-          "name": "Buto",
-          "url": "https://open.spotify.com/artist/4xRMrvQ4gCKJYl2nR2shal"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/7buqGYXBMa9fO7st8ITboc"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/78caTHJtZQmmxYWS6xRyzi"
-      },
-      "artists": [
-        {
-          "name": "Reggie Becton",
-          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
-        }
-      ],
-      "duration_ms": 175999,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/74cfwBYBzG8QOvxcBZBeKE"
     }
   ],
   "unique_name": "Some Kinda Way",

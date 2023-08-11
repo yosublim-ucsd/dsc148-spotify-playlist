@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos in Hip-Hop from the U.S.",
-  "num_followers": 23419,
+  "num_followers": 23440,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYmZlY2EzNjBmMjgwNDA5ZmVlMDdhYzc5Yjk5MWE1YTk4ZmIxMDU3",
+  "snapshot_id": "MCwyMTQ5NGNjMDA4M2Q4MGFhNGY5OGZjYTgxZGNlMTM1NmFkNmRlYmQ0",
   "tracks": [
     {
       "added_at": "2023-07-28 04:05:08",
@@ -471,22 +471,18 @@
     {
       "added_at": "2023-07-28 04:05:08",
       "album": {
-        "name": "Rich Remedy",
-        "url": "https://open.spotify.com/album/7uLICnkfGRS9rAKzUI1ROv"
+        "name": "Vivid Dreams",
+        "url": "https://open.spotify.com/album/3iQ7hzgHsPdk6u6aIGpJtK"
       },
       "artists": [
         {
-          "name": "Kap G",
-          "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
-        },
-        {
-          "name": "Tweak on the Beat",
-          "url": "https://open.spotify.com/artist/3sc3m3F7H6qszH8neM4r6B"
+          "name": "Young Drummer Boy",
+          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
         }
       ],
-      "duration_ms": 115356,
-      "name": "Rich Remedy",
-      "url": "https://open.spotify.com/track/6CRGFL8UgsWCLidRWTvcgw"
+      "duration_ms": 176506,
+      "name": "Vivid Dreams",
+      "url": "https://open.spotify.com/track/4vCPmZ6DG3g5ain2NnleN4"
     },
     {
       "added_at": "2023-07-28 04:05:08",
@@ -511,18 +507,22 @@
     {
       "added_at": "2023-07-28 04:05:08",
       "album": {
-        "name": "Vivid Dreams",
-        "url": "https://open.spotify.com/album/3iQ7hzgHsPdk6u6aIGpJtK"
+        "name": "Rich Remedy",
+        "url": "https://open.spotify.com/album/7uLICnkfGRS9rAKzUI1ROv"
       },
       "artists": [
         {
-          "name": "Young Drummer Boy",
-          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
+          "name": "Kap G",
+          "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
+        },
+        {
+          "name": "Tweak on the Beat",
+          "url": "https://open.spotify.com/artist/3sc3m3F7H6qszH8neM4r6B"
         }
       ],
-      "duration_ms": 176506,
-      "name": "Vivid Dreams",
-      "url": "https://open.spotify.com/track/4vCPmZ6DG3g5ain2NnleN4"
+      "duration_ms": 115356,
+      "name": "Rich Remedy",
+      "url": "https://open.spotify.com/track/6CRGFL8UgsWCLidRWTvcgw"
     },
     {
       "added_at": "2023-07-28 04:05:08",

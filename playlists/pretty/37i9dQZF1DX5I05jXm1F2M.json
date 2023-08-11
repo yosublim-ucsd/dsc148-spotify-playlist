@@ -1,12 +1,12 @@
 {
   "description": "Turn anywhere into a sing-along party. ",
-  "num_followers": 108655,
+  "num_followers": 108742,
   "original_name": "Karaoke Hits ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDg0MTE3N2UyMDc1ZDY4MzlmOTIzMzUzMjkxOTg4NmM5NTI5NWY4",
+  "snapshot_id": "MCw5YzA4ZmZjMDlkNmE2MGQxMWQyMmQxNmJjNzNkYTI2YjQxYWM3ZDlh",
   "tracks": [
     {
       "added_at": "2023-07-25 17:27:40",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-07-25 17:27:40",
       "album": {
-        "name": "Hunting High and Low",
-        "url": "https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf"
-      },
-      "artists": [
-        {
-          "name": "a-ha",
-          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
-        }
-      ],
-      "duration_ms": 225280,
-      "name": "Take on Me",
-      "url": "https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L"
-    },
-    {
-      "added_at": "2023-07-25 17:27:40",
-      "album": {
         "name": "Pablo Honey",
         "url": "https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 238640,
       "name": "Creep",
       "url": "https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r"
+    },
+    {
+      "added_at": "2023-07-25 17:27:40",
+      "album": {
+        "name": "Hunting High and Low",
+        "url": "https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf"
+      },
+      "artists": [
+        {
+          "name": "a-ha",
+          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
+        }
+      ],
+      "duration_ms": 225280,
+      "name": "Take on Me",
+      "url": "https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L"
     },
     {
       "added_at": "2023-07-25 17:27:40",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-07-25 17:27:40",
       "album": {
-        "name": "Toto IV",
-        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        }
-      ],
-      "duration_ms": 295893,
-      "name": "Africa",
-      "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
-    },
-    {
-      "added_at": "2023-07-25 17:27:40",
-      "album": {
         "name": "Elephant",
         "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 232106,
       "name": "Seven Nation Army",
       "url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR"
+    },
+    {
+      "added_at": "2023-07-25 17:27:40",
+      "album": {
+        "name": "Toto IV",
+        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 295893,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
     },
     {
       "added_at": "2023-07-25 17:27:40",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-07-25 17:27:40",
       "album": {
-        "name": "Outlandos D'Amour (Remastered 2003)",
-        "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 191946,
-      "name": "Roxanne",
-      "url": "https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo"
-    },
-    {
-      "added_at": "2023-07-25 17:27:40",
-      "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 231826,
       "name": "Blank Space",
       "url": "https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky"
+    },
+    {
+      "added_at": "2023-07-25 17:27:40",
+      "album": {
+        "name": "Outlandos D'Amour (Remastered 2003)",
+        "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 191946,
+      "name": "Roxanne",
+      "url": "https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo"
     },
     {
       "added_at": "2023-07-25 17:27:40",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-07-25 17:27:40",
       "album": {
-        "name": "Leftoverture (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR"
-      },
-      "artists": [
-        {
-          "name": "Kansas",
-          "url": "https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1"
-        }
-      ],
-      "duration_ms": 323000,
-      "name": "Carry on Wayward Son",
-      "url": "https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw"
-    },
-    {
-      "added_at": "2023-07-25 17:27:40",
-      "album": {
         "name": "Greatest",
         "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 245200,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP"
+    },
+    {
+      "added_at": "2023-07-25 17:27:40",
+      "album": {
+        "name": "Leftoverture (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR"
+      },
+      "artists": [
+        {
+          "name": "Kansas",
+          "url": "https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1"
+        }
+      ],
+      "duration_ms": 323000,
+      "name": "Carry on Wayward Son",
+      "url": "https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw"
     },
     {
       "added_at": "2023-07-25 17:27:40",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-07-25 17:27:40",
       "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 278680,
-      "name": "Born in the U.S.A.",
-      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
-    },
-    {
-      "added_at": "2023-07-25 17:27:40",
-      "album": {
         "name": "Americana",
         "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 188666,
       "name": "Pretty Fly (For A White Guy)",
       "url": "https://open.spotify.com/track/3SFXsFpeGmBTtQvKiwYMDA"
+    },
+    {
+      "added_at": "2023-07-25 17:27:40",
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 278680,
+      "name": "Born in the U.S.A.",
+      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
     },
     {
       "added_at": "2023-07-25 17:27:40",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana! Cover- Aditya Rikhari",
+  "description": "Naye Indie gaano ka khazana! Cover- Abhijay Sharma",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -111,6 +111,24 @@
     },
     {
       "album": {
+        "name": "Aaj Rang Hai",
+        "url": "https://open.spotify.com/album/1BSSoO2kKSgWCUpXuM34tC"
+      },
+      "artists": [
+        {
+          "name": "Aanchal Shrivastava",
+          "url": "https://open.spotify.com/artist/5jQ7dwP6Bg20NgOKozwTI4"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142250,
+      "name": "Aaj Rang Hai",
+      "url": "https://open.spotify.com/track/2T02TsMZTTEVJeuSwCyD1w"
+    },
+    {
+      "album": {
         "name": "Aaja",
         "url": "https://open.spotify.com/album/15oUhgmxpbbIVt3M2t3tAP"
       },
@@ -192,7 +210,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 164506,
       "name": "Aarzoo",
       "url": "https://open.spotify.com/track/6JojggN2GAcUg4fvNROB1s"
@@ -479,6 +497,28 @@
     },
     {
       "album": {
+        "name": "Behka",
+        "url": "https://open.spotify.com/album/2oP0TSCDUZabQVVsCijinv"
+      },
+      "artists": [
+        {
+          "name": "Saudur",
+          "url": "https://open.spotify.com/artist/2mg1YLOST3mNhhkP60Ni4I"
+        },
+        {
+          "name": "Akanksha Sethi",
+          "url": "https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141428,
+      "name": "Behka",
+      "url": "https://open.spotify.com/track/0d9HLOYkoGEc76tvu7DDB5"
+    },
+    {
+      "album": {
         "name": "Bekhabar",
         "url": "https://open.spotify.com/album/6PiVJRyk0AIMLfZxB7uac0"
       },
@@ -658,6 +698,24 @@
       "duration_ms": 195400,
       "name": "Dastaan-E-Shauq - Acoustic",
       "url": "https://open.spotify.com/track/6nftytNoponXWIYJi3jhYz"
+    },
+    {
+      "album": {
+        "name": "Dastan-E-Dil (Shine Your Light)",
+        "url": "https://open.spotify.com/album/6LFKjm1ZB7fimHjcQ4nmBr"
+      },
+      "artists": [
+        {
+          "name": "Antariksh",
+          "url": "https://open.spotify.com/artist/4RzIOJu74yNYeSHL3ri60l"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238318,
+      "name": "Dastan-E-Dil (Shine Your Light)",
+      "url": "https://open.spotify.com/track/1YQxlAnSeIaKb7POP2y6Vm"
     },
     {
       "album": {
@@ -931,6 +989,24 @@
     },
     {
       "album": {
+        "name": "Gumshuda",
+        "url": "https://open.spotify.com/album/6J4Cv47ly1iUAheQy6yrEW"
+      },
+      "artists": [
+        {
+          "name": "Akshath",
+          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228785,
+      "name": "Gumshuda",
+      "url": "https://open.spotify.com/track/1qChnX5WTdkE2oCCTyFrTu"
+    },
+    {
+      "album": {
         "name": "Akela",
         "url": "https://open.spotify.com/album/2UtPYtrj2QPpvFV4PPwSCw"
       },
@@ -1050,7 +1126,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 232227,
       "name": "Izhaar",
       "url": "https://open.spotify.com/track/4XNsMOPYSEknPsiEzPkZzT"
@@ -1360,7 +1436,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 134857,
       "name": "Kaho na",
       "url": "https://open.spotify.com/track/5znUlfypbCVjEzqGvzy0Xw"
@@ -1474,6 +1550,24 @@
       "duration_ms": 169591,
       "name": "Khamakha",
       "url": "https://open.spotify.com/track/3qW5asPgcMSJkfecq4ktxJ"
+    },
+    {
+      "album": {
+        "name": "Khamakhaa",
+        "url": "https://open.spotify.com/album/45hQlqraN1cORIW26NwPBs"
+      },
+      "artists": [
+        {
+          "name": "Prateeksha Srivastava",
+          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179210,
+      "name": "Khamakhaa",
+      "url": "https://open.spotify.com/track/2xRUa9kABue4LnGZplUtaq"
     },
     {
       "album": {
@@ -1726,7 +1820,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 240144,
       "name": "Labon Se Baat",
       "url": "https://open.spotify.com/track/5xDzqvgJ47x3VDRQFGiVwf"
@@ -1940,7 +2034,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 166047,
       "name": "Mitwa",
       "url": "https://open.spotify.com/track/3qyMijX4qQxxEe8JS7fLj4"
@@ -2096,6 +2190,46 @@
       "duration_ms": 194596,
       "name": "Piya Ki Najariya",
       "url": "https://open.spotify.com/track/7ru5x9KkEvj2OJ6EQUzKbl"
+    },
+    {
+      "album": {
+        "name": "Qareeb",
+        "url": "https://open.spotify.com/album/6mcoV5gev8Ol1wHu6mDO1o"
+      },
+      "artists": [
+        {
+          "name": "Adarsh Rao",
+          "url": "https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II"
+        },
+        {
+          "name": "Shayan Rashid",
+          "url": "https://open.spotify.com/artist/1ikVRNcb5keuzlwiP8mJbb"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150545,
+      "name": "Qareeb",
+      "url": "https://open.spotify.com/track/4x8yhZPbOuqJ2PLg4QmrL0"
+    },
+    {
+      "album": {
+        "name": "Qissa",
+        "url": "https://open.spotify.com/album/0xMq75IL6dwy0eDgUNRlR6"
+      },
+      "artists": [
+        {
+          "name": "Abhijay Sharma",
+          "url": "https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125777,
+      "name": "Qissa",
+      "url": "https://open.spotify.com/track/0It2E7X6pVAGBUllqfsjbp"
     },
     {
       "album": {
@@ -2306,7 +2440,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 182500,
       "name": "Saaye",
       "url": "https://open.spotify.com/track/2ZS8Cl38xfzRoW3Ku1EQji"
@@ -2354,7 +2488,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 256000,
       "name": "SACH HAI NA",
       "url": "https://open.spotify.com/track/2ssugF2K11ALzQ1qMQ5gnC"
@@ -2637,6 +2771,28 @@
     },
     {
       "album": {
+        "name": "Tere Saath",
+        "url": "https://open.spotify.com/album/38b70GkMOWK3d8AYDmVO1Q"
+      },
+      "artists": [
+        {
+          "name": "Rito Riba",
+          "url": "https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1"
+        },
+        {
+          "name": "Rajat Nagpal",
+          "url": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186051,
+      "name": "Tere Saath",
+      "url": "https://open.spotify.com/track/0WhyIEgQhdkZnZou94QK8e"
+    },
+    {
+      "album": {
         "name": "Teri Yaad Mein",
         "url": "https://open.spotify.com/album/3tvaiYj2MUbAcCmgDn6Jku"
       },
@@ -2735,6 +2891,28 @@
     },
     {
       "album": {
+        "name": "Toot Rahi Hoon",
+        "url": "https://open.spotify.com/album/2T7C17uo1db3aCIluvDrfP"
+      },
+      "artists": [
+        {
+          "name": "Shai",
+          "url": "https://open.spotify.com/artist/4fXKzFtrAGS3gGyM0BKoKq"
+        },
+        {
+          "name": "A$AD",
+          "url": "https://open.spotify.com/artist/1iWxOoFaMdE2nyGG4oqcdL"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149166,
+      "name": "Toot Rahi Hoon",
+      "url": "https://open.spotify.com/track/3EkjwOEWuhPWKKg8pzVlow"
+    },
+    {
+      "album": {
         "name": "Toota Tara",
         "url": "https://open.spotify.com/album/5yfTxgoMMRcjf5cbewxavo"
       },
@@ -2746,7 +2924,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 161777,
       "name": "Toota Tara",
       "url": "https://open.spotify.com/track/6GKBRK5qbS5nRg2NDmyU3B"
@@ -2866,7 +3044,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 153593,
       "name": "Tu Mera Ho",
       "url": "https://open.spotify.com/track/2IDTkOf6AodC0R4xIFdrL4"

@@ -1,12 +1,12 @@
 {
   "description": "Canciones tropicales que te transportan a Caleta y Caletilla.",
-  "num_followers": 68693,
+  "num_followers": 68762,
   "original_name": "Acapulco en la Azotea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZmY2MWU3ZWM0YzJhZWUyZWRlYjY2NDc0ZGFhOTBjMDkxNDIxYjlj",
+  "snapshot_id": "MCxhMWZlNWQzNWQ4MjU0OWE2Y2Y0ZDY0YTczMzAxYTY3YjhiMjY0NjE1",
   "tracks": [
     {
       "added_at": "2023-06-16 16:50:57",
@@ -715,18 +715,18 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Bailando Bien Con...",
-        "url": "https://open.spotify.com/album/2M7tRxi6Tev1wi65YlEptV"
+        "name": "Mi Fantasia",
+        "url": "https://open.spotify.com/album/1adsPQiPWD6KU41u114eii"
       },
       "artists": [
         {
-          "name": "Tropical\u00edsimo Apache",
-          "url": "https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO"
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 175093,
-      "name": "Viento",
-      "url": "https://open.spotify.com/track/0Vu0dWhxAoin5w2WgMl01i"
+      "duration_ms": 226160,
+      "name": "Viva El Amor",
+      "url": "https://open.spotify.com/track/588ZtSf0EGxZoMF4AIEtoL"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -747,18 +747,18 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Mi Fantasia",
-        "url": "https://open.spotify.com/album/1adsPQiPWD6KU41u114eii"
+        "name": "Bailando Bien Con...",
+        "url": "https://open.spotify.com/album/2M7tRxi6Tev1wi65YlEptV"
       },
       "artists": [
         {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+          "name": "Tropical\u00edsimo Apache",
+          "url": "https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO"
         }
       ],
-      "duration_ms": 226160,
-      "name": "Viva El Amor",
-      "url": "https://open.spotify.com/track/588ZtSf0EGxZoMF4AIEtoL"
+      "duration_ms": 175093,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/0Vu0dWhxAoin5w2WgMl01i"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -811,18 +811,18 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Exitos Quemantes Vol. IV",
-        "url": "https://open.spotify.com/album/1nYMViSA4UU0LvvWlKrcrC"
+        "name": "Ritmo, Sol y Arena",
+        "url": "https://open.spotify.com/album/6GNCUK92o0O92UgV14oI6H"
       },
       "artists": [
         {
-          "name": "Tropical\u00edsimo Apache",
-          "url": "https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO"
+          "name": "Acapulco Tropical",
+          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
         }
       ],
-      "duration_ms": 183440,
-      "name": "Ojitos Mentirosos",
-      "url": "https://open.spotify.com/track/7DTKpVBKNPsDGKwVTl2Txe"
+      "duration_ms": 147866,
+      "name": "Acapulco Tropical",
+      "url": "https://open.spotify.com/track/3gs1Vacn6b0kc67zLYilY9"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -839,22 +839,6 @@
       "duration_ms": 193146,
       "name": "Juana la Cubana",
       "url": "https://open.spotify.com/track/4QJ3RDrv5WQBDP36IoLqDh"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
-        "name": "Ritmo, Sol y Arena",
-        "url": "https://open.spotify.com/album/6GNCUK92o0O92UgV14oI6H"
-      },
-      "artists": [
-        {
-          "name": "Acapulco Tropical",
-          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
-        }
-      ],
-      "duration_ms": 147866,
-      "name": "Acapulco Tropical",
-      "url": "https://open.spotify.com/track/3gs1Vacn6b0kc67zLYilY9"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -907,6 +891,22 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
+        "name": "Exitos Quemantes Vol. IV",
+        "url": "https://open.spotify.com/album/1nYMViSA4UU0LvvWlKrcrC"
+      },
+      "artists": [
+        {
+          "name": "Tropical\u00edsimo Apache",
+          "url": "https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO"
+        }
+      ],
+      "duration_ms": 183440,
+      "name": "Ojitos Mentirosos",
+      "url": "https://open.spotify.com/track/7DTKpVBKNPsDGKwVTl2Txe"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
         "name": "Rel\u00e1mpago De Coraz\u00f3n",
         "url": "https://open.spotify.com/album/4tZj0CXIlo06ypTyAG1Xpl"
       },
@@ -951,22 +951,6 @@
       "duration_ms": 179762,
       "name": "El Viajecito",
       "url": "https://open.spotify.com/track/5JqBZgb6jGf3QONcEn40bZ"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
-        "name": "Cumbias Cumbias Cumbias",
-        "url": "https://open.spotify.com/album/6pJYj1JmkoLlDFNkF5WpN4"
-      },
-      "artists": [
-        {
-          "name": "Tropical\u00edsimo Apache",
-          "url": "https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO"
-        }
-      ],
-      "duration_ms": 226960,
-      "name": "Sorbito De Champana",
-      "url": "https://open.spotify.com/track/1Oqe4XCDKIRS2eK4g5BQIj"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1047,6 +1031,22 @@
       "duration_ms": 205346,
       "name": "Donde Estas",
       "url": "https://open.spotify.com/track/2zfeUz2xzgrtM2kF5bprCY"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "Cumbias Cumbias Cumbias",
+        "url": "https://open.spotify.com/album/6pJYj1JmkoLlDFNkF5WpN4"
+      },
+      "artists": [
+        {
+          "name": "Tropical\u00edsimo Apache",
+          "url": "https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO"
+        }
+      ],
+      "duration_ms": 226960,
+      "name": "Sorbito De Champana",
+      "url": "https://open.spotify.com/track/1Oqe4XCDKIRS2eK4g5BQIj"
     },
     {
       "added_at": "2023-06-16 16:50:57",

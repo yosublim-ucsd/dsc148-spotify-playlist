@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 
 > Your everyday pick\-me\-up playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,292 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,328 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 39 | [Waves](https://open.spotify.com/track/1cgHWk3kQk8SbvaYHkfTkV) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Critical As Water](https://open.spotify.com/album/1bfxQHvsU6C2tx1vmEL6ll) | 3:00 |
 | 40 | [Frequency](https://open.spotify.com/track/6aZzE6efPCZNzd6eusRFcr) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Frequency](https://open.spotify.com/album/5C7Ov0SDP6goKXrw3CySdQ) | 3:17 |
 | 41 | [Ellie](https://open.spotify.com/track/5KNLAnH7BBtoRxDqYP58h6) | [Regi](https://open.spotify.com/artist/77ehFS1P2bU6Bfcs1qu6Jd), [Jake Reese](https://open.spotify.com/artist/0eBOZ74PcpQb3SisNPgaRQ) | [Vergeet De Tijd](https://open.spotify.com/album/7B8rmxIjhAODSsLOvcJtLM) | 2:44 |
-| 42 | [Stay \(feat\. Dana Williams\)](https://open.spotify.com/track/3ZznDRLojMv5oWkeuvGSFR) | [The Aston Shuffle](https://open.spotify.com/artist/4Jv9I6DAbcjDa8HGFAjv94), [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Stay \(feat\. Dana Williams\)](https://open.spotify.com/album/659fdu0EaiK5Ilsh3dBTQW) | 3:53 |
-| 43 | [I'm With You](https://open.spotify.com/track/5gXjp3ZnKx0UDaXvwXCOgS) | [Matthew Mole](https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86) | [I'm With You](https://open.spotify.com/album/1PHQokRN6Hrh10ZQNjZn6A) | 3:33 |
+| 42 | [I'm With You](https://open.spotify.com/track/5gXjp3ZnKx0UDaXvwXCOgS) | [Matthew Mole](https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86) | [I'm With You](https://open.spotify.com/album/1PHQokRN6Hrh10ZQNjZn6A) | 3:33 |
+| 43 | [Stay \(feat\. Dana Williams\)](https://open.spotify.com/track/3ZznDRLojMv5oWkeuvGSFR) | [The Aston Shuffle](https://open.spotify.com/artist/4Jv9I6DAbcjDa8HGFAjv94), [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Stay \(feat\. Dana Williams\)](https://open.spotify.com/album/659fdu0EaiK5Ilsh3dBTQW) | 3:53 |
 | 44 | [My Tribe](https://open.spotify.com/track/3uBU35tiEfq9nstHLauSHU) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [My Tribe](https://open.spotify.com/album/4PErex6T8qV3kP7cYOQzU0) | 3:03 |
 | 45 | [Mortal Man](https://open.spotify.com/track/1QGac4OblpXqHpk9AubVuo) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Mortal Man](https://open.spotify.com/album/7KiOI9KabLyB8vx5gQTkO2) | 3:55 |
 | 46 | [Rafael](https://open.spotify.com/track/7od1iIHmDdFSeaLvNF6mCM) | [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [The Hanging Gardens Of Beatenberg](https://open.spotify.com/album/1LDSPYtniVN09zmRdd1meQ) | 4:10 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 59 | [OMOGE WA JO](https://open.spotify.com/track/1r2aKropSpSFb37Nmtp8WT) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [L0LA](https://open.spotify.com/artist/5LkJ2e1N1SuXrUIWkw1r0o) | [OMOGE WA JO](https://open.spotify.com/album/6PyyxJkmIZbybiMrOjpPNh) | 2:25 |
 | 60 | [Oh My Soul \(Bloukaas Remix\)](https://open.spotify.com/track/6MpScQlifniy57CFLOxOCC) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Oh My Soul \(Bloukaas Remix\)](https://open.spotify.com/album/0lLLTsyd0ix7BXFJYuhDrs) | 4:20 |
 
-Snapshot ID: `MCwwZDU5ZDZkYTAzZDI3YzA0NDVkOTI0MWE1OTk5YzAzZWQyYzUwN2U1`
+Snapshot ID: `MCwxOGZkZDFiOTI4ZmYyYmFkODU5ZDg3MDEzOWFhYWQ5NTI4NTU2NDU2`

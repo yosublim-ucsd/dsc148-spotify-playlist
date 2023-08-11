@@ -495,6 +495,24 @@
     },
     {
       "album": {
+        "name": "Always With You",
+        "url": "https://open.spotify.com/album/5T3Ix0PNlLeAhemjXwjBH9"
+      },
+      "artists": [
+        {
+          "name": "Maitre",
+          "url": "https://open.spotify.com/artist/4lz66um9dJ0YB7ugJHeoZe"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147328,
+      "name": "Always With You",
+      "url": "https://open.spotify.com/track/5ItGFvCvkLI4wm2dXycCCs"
+    },
+    {
+      "album": {
         "name": "Am ende",
         "url": "https://open.spotify.com/album/2a7ziC6igJV8XCrw9s2yeb"
       },
@@ -1255,6 +1273,24 @@
     },
     {
       "album": {
+        "name": "Bourgogne",
+        "url": "https://open.spotify.com/album/1DUWrx08k0dAUfM2ZwIXuT"
+      },
+      "artists": [
+        {
+          "name": "Maitre",
+          "url": "https://open.spotify.com/artist/4lz66um9dJ0YB7ugJHeoZe"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121290,
+      "name": "Bourgogne",
+      "url": "https://open.spotify.com/track/7o4WGcO36C0d6ouMsJOylY"
+    },
+    {
+      "album": {
         "name": "Break Of Day",
         "url": "https://open.spotify.com/album/45VoYJoivXsCEwOI107vkI"
       },
@@ -1598,6 +1634,24 @@
       "duration_ms": 187041,
       "name": "Carin\u0303o",
       "url": "https://open.spotify.com/track/29LzwygJfEJtzgZlyWPQmB"
+    },
+    {
+      "album": {
+        "name": "Carroll Gardens",
+        "url": "https://open.spotify.com/album/6UTtrPhsCgjxjG24Zfn6jq"
+      },
+      "artists": [
+        {
+          "name": "Las Almas Nuevas",
+          "url": "https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164750,
+      "name": "Carroll Gardens",
+      "url": "https://open.spotify.com/track/3dgAbsq1H5NqLJscYPxurR"
     },
     {
       "album": {
@@ -2412,6 +2466,24 @@
       "duration_ms": 136163,
       "name": "Deep Rivers",
       "url": "https://open.spotify.com/track/68DrdlEmRZrV7XSrGxg4Fc"
+    },
+    {
+      "album": {
+        "name": "Deep Waters",
+        "url": "https://open.spotify.com/album/2jFYCbPkXAN8JrOG93kXmt"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Hugh",
+          "url": "https://open.spotify.com/artist/0N9JbcwE2w3f9Qn6M6F3UP"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139625,
+      "name": "Deep Waters",
+      "url": "https://open.spotify.com/track/2OhWtf18hW60rqXpCxhCLL"
     },
     {
       "album": {
@@ -3283,6 +3355,24 @@
     },
     {
       "album": {
+        "name": "Fairplex",
+        "url": "https://open.spotify.com/album/0sTcJVzGYTd2yH2UVL36Uu"
+      },
+      "artists": [
+        {
+          "name": "Papi\u00f3",
+          "url": "https://open.spotify.com/artist/14ivAwcaq4oDPoupWn8cQU"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127250,
+      "name": "Fairplex",
+      "url": "https://open.spotify.com/track/704snAC50lfAo4qJLfCzDo"
+    },
+    {
+      "album": {
         "name": "Faith Struggle",
         "url": "https://open.spotify.com/album/1nuRmtxWItculC0bP9doH8"
       },
@@ -3805,6 +3895,42 @@
     },
     {
       "album": {
+        "name": "Glencoe",
+        "url": "https://open.spotify.com/album/3RhLZXwcjINem6aSHpokZh"
+      },
+      "artists": [
+        {
+          "name": "Seo Hyun Lee",
+          "url": "https://open.spotify.com/artist/2NdqMdRInEBDZ3CisuV2uu"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133958,
+      "name": "Glencoe",
+      "url": "https://open.spotify.com/track/0OTaXtuwRJbuVFinxBev0B"
+    },
+    {
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/1vDAQZppgz27QWabAWGxzY"
+      },
+      "artists": [
+        {
+          "name": "Carlo Castilla",
+          "url": "https://open.spotify.com/artist/3mI0smMNTM9eIfd4EHXYLR"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165319,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/0MaJRjqtDMKJ7F2ncrByDK"
+    },
+    {
+      "album": {
         "name": "Golden Leaves",
         "url": "https://open.spotify.com/album/5do8dNde8A1Lx6p4AyeW2T"
       },
@@ -4036,6 +4162,24 @@
       "duration_ms": 212897,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/7uhgHXvl8iluHcOm7MoP77"
+    },
+    {
+      "album": {
+        "name": "Harvest",
+        "url": "https://open.spotify.com/album/5b7JGt4Rm4J5OLwg0vN5Mc"
+      },
+      "artists": [
+        {
+          "name": "Esther Lopez",
+          "url": "https://open.spotify.com/artist/0Lt4RoVhvgZx1byuzqMAQc"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139714,
+      "name": "Harvest",
+      "url": "https://open.spotify.com/track/3cx5cOuPaj3Yi0rRA5qSeu"
     },
     {
       "album": {
@@ -5120,6 +5264,24 @@
       "duration_ms": 141309,
       "name": "Keep a light",
       "url": "https://open.spotify.com/track/2HiOk8q1M0bbRr5RNrXeR0"
+    },
+    {
+      "album": {
+        "name": "Kenmore",
+        "url": "https://open.spotify.com/album/1mMxcoGF5nnH8dsecanu0B"
+      },
+      "artists": [
+        {
+          "name": "Dax Warner",
+          "url": "https://open.spotify.com/artist/4IsX7IbImt8clMeZtsIEQ9"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192127,
+      "name": "Kenmore",
+      "url": "https://open.spotify.com/track/4XA5ebDvEQWnJjx8FADGvv"
     },
     {
       "album": {
@@ -6261,6 +6423,42 @@
     },
     {
       "album": {
+        "name": "Maple Street",
+        "url": "https://open.spotify.com/album/2slEEFLv6zCH9BxsZWXNGc"
+      },
+      "artists": [
+        {
+          "name": "Duncan Bowie",
+          "url": "https://open.spotify.com/artist/5q6rc3smUDwHeGbrZqC1mm"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153125,
+      "name": "Maple Street",
+      "url": "https://open.spotify.com/track/5GsNfOialI5ZsqmsuZ57CH"
+    },
+    {
+      "album": {
+        "name": "Matira",
+        "url": "https://open.spotify.com/album/51Hi43BRLetzxLME54vxjN"
+      },
+      "artists": [
+        {
+          "name": "Beau Hayes",
+          "url": "https://open.spotify.com/artist/2iojhDr0D5zVL3xhPb401I"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140373,
+      "name": "Matira",
+      "url": "https://open.spotify.com/track/5DM2p6mxHBAXz9v9C7Or4o"
+    },
+    {
+      "album": {
         "name": "Maybe Tomorrow It Will Change",
         "url": "https://open.spotify.com/album/0GwHdP2HTwPNhgWvTSR24c"
       },
@@ -6726,6 +6924,24 @@
       "duration_ms": 112318,
       "name": "Morning Dew",
       "url": "https://open.spotify.com/track/0dhPf7uQVTl63JOFCaYsJD"
+    },
+    {
+      "album": {
+        "name": "Morongo Basin",
+        "url": "https://open.spotify.com/album/50yIELzJpSucPRD1OEoDbX"
+      },
+      "artists": [
+        {
+          "name": "Carlo Castilla",
+          "url": "https://open.spotify.com/artist/3mI0smMNTM9eIfd4EHXYLR"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157493,
+      "name": "Morongo Basin",
+      "url": "https://open.spotify.com/track/2PDKauWWq2aICXQ4jlzA53"
     },
     {
       "album": {
@@ -8313,6 +8529,24 @@
     },
     {
       "album": {
+        "name": "Rippling River",
+        "url": "https://open.spotify.com/album/3wz1ublUOaW1mFsNM3ACmT"
+      },
+      "artists": [
+        {
+          "name": "Sly Hickman",
+          "url": "https://open.spotify.com/artist/3uoTGpQb6iBXRqVa6O04FQ"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161760,
+      "name": "Rippling River",
+      "url": "https://open.spotify.com/track/6Ls6jVhVg99y1j5qYM3r65"
+    },
+    {
+      "album": {
         "name": "Riso",
         "url": "https://open.spotify.com/album/2VmFSZrAeIXRHOO2oX0flG"
       },
@@ -8760,6 +8994,24 @@
       "duration_ms": 101131,
       "name": "serenades",
       "url": "https://open.spotify.com/track/4QI998cXoXoHhDU2tQx0mB"
+    },
+    {
+      "album": {
+        "name": "Serene Skies",
+        "url": "https://open.spotify.com/album/2u8VTwNX8BXBTGRfAQf2x6"
+      },
+      "artists": [
+        {
+          "name": "Hannah Westman",
+          "url": "https://open.spotify.com/artist/0fRVato4gM8ssGJnXoV6dS"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123146,
+      "name": "Serene Skies",
+      "url": "https://open.spotify.com/track/5rvvtkkXrd8jvosvE0jJj0"
     },
     {
       "album": {
@@ -9447,6 +9699,24 @@
     },
     {
       "album": {
+        "name": "Springwood Ranch",
+        "url": "https://open.spotify.com/album/2phvXSYBb8eODAavj4iplL"
+      },
+      "artists": [
+        {
+          "name": "Damien Adams",
+          "url": "https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174500,
+      "name": "Springwood Ranch",
+      "url": "https://open.spotify.com/track/1LxPHwvy8xUaZUXJoGHiaD"
+    },
+    {
+      "album": {
         "name": "Stairs",
         "url": "https://open.spotify.com/album/2mQcf2bqjYpNPbEfZw1ql5"
       },
@@ -9678,6 +9948,24 @@
       "duration_ms": 169057,
       "name": "Struna",
       "url": "https://open.spotify.com/track/44qYR2lyrw5CLSTVtE5CNR"
+    },
+    {
+      "album": {
+        "name": "Summer Love",
+        "url": "https://open.spotify.com/album/6cY5l2Q1CiRpJm301q756l"
+      },
+      "artists": [
+        {
+          "name": "Maia",
+          "url": "https://open.spotify.com/artist/4RW9d3d203cf98WetcAbIj"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127724,
+      "name": "Summer Love",
+      "url": "https://open.spotify.com/track/7iGZjJTIxc3nU5KQ3LlCdI"
     },
     {
       "album": {
@@ -10405,6 +10693,24 @@
     },
     {
       "album": {
+        "name": "Tranquillit\u00e9",
+        "url": "https://open.spotify.com/album/6gC38WXTRW3FR65ThRvt6p"
+      },
+      "artists": [
+        {
+          "name": "Phil Stent",
+          "url": "https://open.spotify.com/artist/1E1Kt5Hh9SbIGSTb8tyU8G"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155333,
+      "name": "Tranquillit\u00e9",
+      "url": "https://open.spotify.com/track/1IY7Sd93dqmjFu0Kb48Z90"
+    },
+    {
+      "album": {
         "name": "Neo",
         "url": "https://open.spotify.com/album/5iCm1wlgWblxrGuQRmXIr0"
       },
@@ -10672,6 +10978,24 @@
       "duration_ms": 102095,
       "name": "Veracity",
       "url": "https://open.spotify.com/track/49RUCdpg6fvClNHxI6HB3x"
+    },
+    {
+      "album": {
+        "name": "Verano",
+        "url": "https://open.spotify.com/album/0nEzBM5pySgrM3ovEI382k"
+      },
+      "artists": [
+        {
+          "name": "Jo Rochford",
+          "url": "https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214760,
+      "name": "Verano",
+      "url": "https://open.spotify.com/track/1XrG2glXzkEisIbtNIFQq8"
     },
     {
       "album": {
@@ -11014,6 +11338,42 @@
       "duration_ms": 147433,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/0kUvYvrYM7xJnnJJFwNW1r"
+    },
+    {
+      "album": {
+        "name": "Weaving Together",
+        "url": "https://open.spotify.com/album/5N0g78Zo6DEY8V0hnbfE5D"
+      },
+      "artists": [
+        {
+          "name": "Dominic Ruiz",
+          "url": "https://open.spotify.com/artist/4x3JdU2gxNgHzMdY61pCOx"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203711,
+      "name": "Weaving Together",
+      "url": "https://open.spotify.com/track/7F1UIEo3ZOb4hpbysZJM4V"
+    },
+    {
+      "album": {
+        "name": "Wellspring for thought",
+        "url": "https://open.spotify.com/album/7KuVAWo78nXDxG4LS9rXvD"
+      },
+      "artists": [
+        {
+          "name": "Ceriumidis",
+          "url": "https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134920,
+      "name": "Wellspring for thought",
+      "url": "https://open.spotify.com/track/4ZfA8pzOEHovwGTg5wq32Q"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Άκου τις γυναίκες της Ελλάδας στη διαπασών\. Εξώφυλλο: Katerina Liouliou
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,611 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,647 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 49 | [A Summer Love](https://open.spotify.com/track/11Mrfqdy3P8DnkWQI5MRmt) | [Kalliope Pouska](https://open.spotify.com/artist/6Kic93NL5qA2B8yFjBjahX) | [A Summer Love](https://open.spotify.com/album/4jyF5bMu5r0PsUhxDZH6nn) | 3:02 |
 | 50 | [Ah Na M' Agapas](https://open.spotify.com/track/2wUdk0MVlrwsxyG0cnUqpB) | [Valia Tsirgioti](https://open.spotify.com/artist/2zVzPjIdABuyJdUnrHJ7ki), [Thomas Bakalakos](https://open.spotify.com/artist/3umLhHzjiOxomuoqJhA184), [Manos Kitsikopoulos](https://open.spotify.com/artist/7dZs9W0Q2ZImM5CflJxlJp) | [Ah Na M' Agapas](https://open.spotify.com/album/2OHpFr4CSGqbmStbzNosZZ) | 2:43 |
 
-Snapshot ID: `MCxlZGUwMzA3N2YwMmY0ODI3MDY1MzU0NDA3MzgxNGE0OGYyNWM3YTMw`
+Snapshot ID: `MCxmYWUzZmE2MTg4MjdlN2ZhODA2OTI0OTk3MTc4M2VhZmYyNjE2Nzc2`

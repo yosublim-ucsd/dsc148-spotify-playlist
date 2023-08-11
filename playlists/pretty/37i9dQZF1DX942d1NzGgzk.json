@@ -1,12 +1,12 @@
 {
   "description": "100% British - 100% R&B. Cover: Kali Claire",
-  "num_followers": 125075,
+  "num_followers": 125167,
   "original_name": "R&B UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMmRmNGU1NjBiODFhODIzNjg1YzM4ZGVkMTE5YmFmNjhhZTcwODNj",
+  "snapshot_id": "MCw0MTFmMzg4ZGQ1MGYwNDNjNjdhNzU0YzQ2YTRiMjUzNTNmMzRjZmEw",
   "tracks": [
     {
       "added_at": "2023-07-21 12:54:45",
@@ -395,18 +395,22 @@
     {
       "added_at": "2023-07-21 12:54:45",
       "album": {
-        "name": "blue",
-        "url": "https://open.spotify.com/album/3GsV8bdcTiMKRlrRlnnHvo"
+        "name": "IRL",
+        "url": "https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh"
       },
       "artists": [
         {
-          "name": "Kamal.",
-          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        },
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
         }
       ],
-      "duration_ms": 184500,
-      "name": "blue",
-      "url": "https://open.spotify.com/track/7pt64sepCy5QmDrgy9wOJS"
+      "duration_ms": 225533,
+      "name": "It\u2019s Not Me, It\u2019s You (feat. Destin Conrad)",
+      "url": "https://open.spotify.com/track/2N6s3852GdbqhV29or63En"
     },
     {
       "added_at": "2023-07-21 12:54:45",
@@ -427,22 +431,18 @@
     {
       "added_at": "2023-07-21 12:54:45",
       "album": {
-        "name": "IRL",
-        "url": "https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh"
+        "name": "blue",
+        "url": "https://open.spotify.com/album/3GsV8bdcTiMKRlrRlnnHvo"
       },
       "artists": [
         {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        },
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+          "name": "Kamal.",
+          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
         }
       ],
-      "duration_ms": 225533,
-      "name": "It\u2019s Not Me, It\u2019s You (feat. Destin Conrad)",
-      "url": "https://open.spotify.com/track/2N6s3852GdbqhV29or63En"
+      "duration_ms": 184500,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/7pt64sepCy5QmDrgy9wOJS"
     },
     {
       "added_at": "2023-07-21 12:54:45",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-07-21 12:54:45",
       "album": {
-        "name": "IRL",
-        "url": "https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 229040,
-      "name": "In My Bag",
-      "url": "https://open.spotify.com/track/3Hz7mhkeYyAG09l90fVKQo"
-    },
-    {
-      "added_at": "2023-07-21 12:54:45",
-      "album": {
         "name": "Be Right Back",
         "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
       },
@@ -567,22 +551,6 @@
     {
       "added_at": "2023-07-21 12:54:45",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/1NYpfhFgpcoMmADUQsaYQm"
-      },
-      "artists": [
-        {
-          "name": "Wes Nelson",
-          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
-        }
-      ],
-      "duration_ms": 159321,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/64CKrUSNUMzFHziTnJJzNG"
-    },
-    {
-      "added_at": "2023-07-21 12:54:45",
-      "album": {
         "name": "VENOLOGY",
         "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
       },
@@ -599,6 +567,38 @@
       "duration_ms": 252053,
       "name": "Sun, Moon & Herbs",
       "url": "https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2"
+    },
+    {
+      "added_at": "2023-07-21 12:54:45",
+      "album": {
+        "name": "IRL",
+        "url": "https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 229040,
+      "name": "In My Bag",
+      "url": "https://open.spotify.com/track/3Hz7mhkeYyAG09l90fVKQo"
+    },
+    {
+      "added_at": "2023-07-21 12:54:45",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/1NYpfhFgpcoMmADUQsaYQm"
+      },
+      "artists": [
+        {
+          "name": "Wes Nelson",
+          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
+        }
+      ],
+      "duration_ms": 159321,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/64CKrUSNUMzFHziTnJJzNG"
     },
     {
       "added_at": "2023-07-21 12:54:45",
@@ -631,22 +631,6 @@
       "duration_ms": 186130,
       "name": "Strawberry Skies",
       "url": "https://open.spotify.com/track/27qby3flYw8zbknmRAJ6wC"
-    },
-    {
-      "added_at": "2023-07-21 12:54:45",
-      "album": {
-        "name": "Terms and Conditions",
-        "url": "https://open.spotify.com/album/7CJe1NJRPmK5et3uevNQw5"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 209682,
-      "name": "Terms and Conditions",
-      "url": "https://open.spotify.com/track/3vv2KJC3vaWPXXF5Ba7biE"
     },
     {
       "added_at": "2023-07-21 12:54:45",
@@ -703,6 +687,22 @@
     {
       "added_at": "2023-07-21 12:54:45",
       "album": {
+        "name": "Wickedest",
+        "url": "https://open.spotify.com/album/6ksJ2GuWsid065x77nx6Cr"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        }
+      ],
+      "duration_ms": 192880,
+      "name": "Wickedest",
+      "url": "https://open.spotify.com/track/2nAOiwTa3qvuzawrwN7gaA"
+    },
+    {
+      "added_at": "2023-07-21 12:54:45",
+      "album": {
         "name": "IRL",
         "url": "https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh"
       },
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-07-21 12:54:45",
       "album": {
-        "name": "Wickedest",
-        "url": "https://open.spotify.com/album/6ksJ2GuWsid065x77nx6Cr"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        }
-      ],
-      "duration_ms": 192880,
-      "name": "Wickedest",
-      "url": "https://open.spotify.com/track/2nAOiwTa3qvuzawrwN7gaA"
-    },
-    {
-      "added_at": "2023-07-21 12:54:45",
-      "album": {
         "name": "Addicted",
         "url": "https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs"
       },
@@ -751,22 +735,6 @@
       "duration_ms": 204174,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy"
-    },
-    {
-      "added_at": "2023-07-21 12:54:45",
-      "album": {
-        "name": "Signals",
-        "url": "https://open.spotify.com/album/2eKKYq1k31wypkignW6pL7"
-      },
-      "artists": [
-        {
-          "name": "Karl Benjamin",
-          "url": "https://open.spotify.com/artist/1w7NVtwrAk4p50JGIhE9cs"
-        }
-      ],
-      "duration_ms": 164856,
-      "name": "Signals",
-      "url": "https://open.spotify.com/track/3z32rAkX5UzIp9jwoNjcjD"
     },
     {
       "added_at": "2023-07-21 12:54:45",
@@ -787,6 +755,22 @@
     {
       "added_at": "2023-07-21 12:54:45",
       "album": {
+        "name": "Signals",
+        "url": "https://open.spotify.com/album/2eKKYq1k31wypkignW6pL7"
+      },
+      "artists": [
+        {
+          "name": "Karl Benjamin",
+          "url": "https://open.spotify.com/artist/1w7NVtwrAk4p50JGIhE9cs"
+        }
+      ],
+      "duration_ms": 164856,
+      "name": "Signals",
+      "url": "https://open.spotify.com/track/3z32rAkX5UzIp9jwoNjcjD"
+    },
+    {
+      "added_at": "2023-07-21 12:54:45",
+      "album": {
         "name": "EL-MEAN",
         "url": "https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J"
       },
@@ -799,22 +783,6 @@
       "duration_ms": 251501,
       "name": "Choose You",
       "url": "https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ"
-    },
-    {
-      "added_at": "2023-07-21 12:54:45",
-      "album": {
-        "name": "Flexin",
-        "url": "https://open.spotify.com/album/3rOki3JLECyVDkCn6o7XMX"
-      },
-      "artists": [
-        {
-          "name": "Aida Lae",
-          "url": "https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc"
-        }
-      ],
-      "duration_ms": 175453,
-      "name": "Flexin",
-      "url": "https://open.spotify.com/track/1JgDsJQGG9ZPdZaL8Y0Afb"
     },
     {
       "added_at": "2023-07-21 12:54:45",
@@ -835,22 +803,50 @@
     {
       "added_at": "2023-07-21 12:54:45",
       "album": {
-        "name": "Djesse Vol. 3",
-        "url": "https://open.spotify.com/album/33cj3kzLqVOg9zvy69Wrc8"
+        "name": "Flexin",
+        "url": "https://open.spotify.com/album/3rOki3JLECyVDkCn6o7XMX"
       },
       "artists": [
         {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
-        },
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+          "name": "Aida Lae",
+          "url": "https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc"
         }
       ],
-      "duration_ms": 232706,
-      "name": "In Too Deep (feat. Kiana Led\u00e9)",
-      "url": "https://open.spotify.com/track/3nGhp4FuIaitNYn4s7XHaX"
+      "duration_ms": 175453,
+      "name": "Flexin",
+      "url": "https://open.spotify.com/track/1JgDsJQGG9ZPdZaL8Y0Afb"
+    },
+    {
+      "added_at": "2023-07-21 12:54:45",
+      "album": {
+        "name": "Terms and Conditions",
+        "url": "https://open.spotify.com/album/7CJe1NJRPmK5et3uevNQw5"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 209682,
+      "name": "Terms and Conditions",
+      "url": "https://open.spotify.com/track/3vv2KJC3vaWPXXF5Ba7biE"
+    },
+    {
+      "added_at": "2023-07-21 12:54:45",
+      "album": {
+        "name": "Evil Eye",
+        "url": "https://open.spotify.com/album/1yPS6NFaQFhn1syGD8sQil"
+      },
+      "artists": [
+        {
+          "name": "Bellah",
+          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
+        }
+      ],
+      "duration_ms": 175194,
+      "name": "Evil Eye",
+      "url": "https://open.spotify.com/track/4FkAAesNdD4BeTAEHRdswW"
     },
     {
       "added_at": "2023-07-21 12:54:45",
@@ -871,18 +867,22 @@
     {
       "added_at": "2023-07-21 12:54:45",
       "album": {
-        "name": "Evil Eye",
-        "url": "https://open.spotify.com/album/1yPS6NFaQFhn1syGD8sQil"
+        "name": "Djesse Vol. 3",
+        "url": "https://open.spotify.com/album/33cj3kzLqVOg9zvy69Wrc8"
       },
       "artists": [
         {
-          "name": "Bellah",
-          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
         }
       ],
-      "duration_ms": 175194,
-      "name": "Evil Eye",
-      "url": "https://open.spotify.com/track/4FkAAesNdD4BeTAEHRdswW"
+      "duration_ms": 232706,
+      "name": "In Too Deep (feat. Kiana Led\u00e9)",
+      "url": "https://open.spotify.com/track/3nGhp4FuIaitNYn4s7XHaX"
     },
     {
       "added_at": "2023-07-21 12:54:45",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-07-21 12:54:45",
       "album": {
-        "name": "Caught Me Running",
-        "url": "https://open.spotify.com/album/5uWKr1TIWN0m1i3JSDYBGP"
-      },
-      "artists": [
-        {
-          "name": "Ama Lou",
-          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
-        }
-      ],
-      "duration_ms": 194906,
-      "name": "Caught Me Running",
-      "url": "https://open.spotify.com/track/1uEkWNy4InUrjWZaIEJDwT"
-    },
-    {
-      "added_at": "2023-07-21 12:54:45",
-      "album": {
         "name": "BARE SUGAR",
         "url": "https://open.spotify.com/album/1FEv4lzzX2jNBvFpWX8InD"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 155728,
       "name": "long stay (feat. Bakar)",
       "url": "https://open.spotify.com/track/5ie2bMXcmiwk6q8TrP8J1W"
+    },
+    {
+      "added_at": "2023-07-21 12:54:45",
+      "album": {
+        "name": "Caught Me Running",
+        "url": "https://open.spotify.com/album/5uWKr1TIWN0m1i3JSDYBGP"
+      },
+      "artists": [
+        {
+          "name": "Ama Lou",
+          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
+        }
+      ],
+      "duration_ms": 194906,
+      "name": "Caught Me Running",
+      "url": "https://open.spotify.com/track/1uEkWNy4InUrjWZaIEJDwT"
     },
     {
       "added_at": "2023-07-21 12:54:45",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-07-21 12:54:45",
       "album": {
+        "name": "It Only Cost Everything",
+        "url": "https://open.spotify.com/album/0ciuSJpaytL7XoDSyt4jhl"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        }
+      ],
+      "duration_ms": 148146,
+      "name": "It Only Cost Everything",
+      "url": "https://open.spotify.com/track/1kT0mt9AstPDGUJCNiQI0T"
+    },
+    {
+      "added_at": "2023-07-21 12:54:45",
+      "album": {
         "name": "Variables",
         "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 246400,
       "name": "Aged Eyes",
       "url": "https://open.spotify.com/track/0gQbyxRhcMI8SM4eMZpSZF"
-    },
-    {
-      "added_at": "2023-07-21 12:54:45",
-      "album": {
-        "name": "It Only Cost Everything",
-        "url": "https://open.spotify.com/album/0ciuSJpaytL7XoDSyt4jhl"
-      },
-      "artists": [
-        {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
-        }
-      ],
-      "duration_ms": 148146,
-      "name": "It Only Cost Everything",
-      "url": "https://open.spotify.com/track/1kT0mt9AstPDGUJCNiQI0T"
     },
     {
       "added_at": "2023-07-21 12:54:45",

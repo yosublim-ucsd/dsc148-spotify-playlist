@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 
 > This is NOFX\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,961 likes - 50 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,988 likes - 50 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 | 49 | [Johanna Constant Teen](https://open.spotify.com/track/2OhLCVl0dNAo3qhtnXofo1) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Double Album](https://open.spotify.com/album/4mJ4PBk5yHl3xuyHkly85n) | 1:18 |
 | 50 | [See Her Pee](https://open.spotify.com/track/4civZE6DnycEynRO2VeK5u) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [45 or 46 Songs That Weren't Good Enough to Go on Our Other Records](https://open.spotify.com/album/63jEOTmpfVTKYzeJ6hvIAn) | 0:31 |
 
-Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDA3MTUyZmM5MmJjOWRlNGVjNDEzNzM5MDEyZGVhMTg4MQ==`
+Snapshot ID: `MjgxOTQ1NjMsMDAwMDAwMDBkY2MxNjk4ZDk0MzI0ZDJjMjE4MDcwYTZkZDY4OWUwZA==`

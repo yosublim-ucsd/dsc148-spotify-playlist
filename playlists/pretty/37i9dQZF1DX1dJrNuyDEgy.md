@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dJrNuyDEgy.md) - [plain]
 
 > Ay ay ay ay..\. Canta y no llores, porque cantando se alegran, cielito lindo, los corazones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,041 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,098 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,15 +14,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dJrNuyDEgy.md) - [plain]
 | 4 | [Juliantla](https://open.spotify.com/track/7vrIweMapxdothM6NNPYy5) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [15 Éxitos](https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2) | 3:24 |
 | 5 | [Amorcito corazón](https://open.spotify.com/track/73WX2V6JVfyQYYIG3K76i8) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [15 Inmortales de Pedro Infante](https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba) | 3:01 |
 | 6 | [Caminos de Michoacán](https://open.spotify.com/track/2fvisKVcmhGrZdf9FPEhl4) | [Federico Villa](https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u) | [La Coleccion Del Siglo \- Federico Villa](https://open.spotify.com/album/5XyB8cBTMDoLaO2XqVf6BL) | 3:30 |
-| 7 | [La Malagueña](https://open.spotify.com/track/3ffFEGNAioJPjFYAruekiT) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 3:53 |
-| 8 | [El Barzon](https://open.spotify.com/track/3WALh4MuKxt00oJO7vSrjk) | [Luis Pérez Meza](https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT) | [Lo Mejor De Rancheras](https://open.spotify.com/album/1byRtvyAmS4gGeTbSRCwv8) | 2:44 |
-| 9 | [Guadalajara](https://open.spotify.com/track/7bqkK6DMlXwcIHbSzLq1xx) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Música de America](https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR) | 2:56 |
-| 10 | [El Taconazo](https://open.spotify.com/track/1k8LMNtT8hsd4cPVwYchyX) | [El Piporro](https://open.spotify.com/artist/2RDCFdmJvNbGQBILkTvF5q) | [Lo Mejor De El Piporro](https://open.spotify.com/album/7Fk73SIehkIrO2uoo1L643) | 2:15 |
-| 11 | [La Malagueña](https://open.spotify.com/track/5yL9T1WK7fY0SFjnvSfima) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 5:24 |
+| 7 | [La Boda del Huitlacoche \- En Vivo](https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Borrachera Con los Honorables \(En Vivo\)](https://open.spotify.com/album/5Js6rpaXDIBbdJA5Xn8AYd) | 3:08 |
+| 8 | [La Malagueña](https://open.spotify.com/track/3ffFEGNAioJPjFYAruekiT) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 3:53 |
+| 9 | [El Barzon](https://open.spotify.com/track/3WALh4MuKxt00oJO7vSrjk) | [Luis Pérez Meza](https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT) | [Lo Mejor De Rancheras](https://open.spotify.com/album/1byRtvyAmS4gGeTbSRCwv8) | 2:44 |
+| 10 | [Guadalajara](https://open.spotify.com/track/7bqkK6DMlXwcIHbSzLq1xx) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Música de America](https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR) | 2:56 |
+| 11 | [El Taconazo](https://open.spotify.com/track/1k8LMNtT8hsd4cPVwYchyX) | [El Piporro](https://open.spotify.com/artist/2RDCFdmJvNbGQBILkTvF5q) | [Lo Mejor De El Piporro](https://open.spotify.com/album/7Fk73SIehkIrO2uoo1L643) | 2:15 |
 | 12 | [Hasta La Raíz](https://open.spotify.com/track/5OYKJlZTMQvAX8kEJ1R60y) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Maestra Vida](https://open.spotify.com/album/08wJCaKI1iUCFObnucLK25) | 6:20 |
 | 13 | [La fiesta del mariachi](https://open.spotify.com/track/6tiY3rQJZ8m1SYDm2h6bJJ) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [¡MÉXICO Por Siempre!](https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche) | 2:44 |
-| 14 | [Máquina 501](https://open.spotify.com/track/1wRF1D054vNvDga8dRfCdn) | [Francisco "Charro" Avitia](https://open.spotify.com/artist/4avWq3MJ9MS6TiIHrnymok) | [Charro Avitia](https://open.spotify.com/album/1Y848NgqzkOr28SfcBshmV) | 2:54 |
-| 15 | [La Boda del Huitlacoche \- En Vivo](https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Borrachera Con los Honorables \(En Vivo\)](https://open.spotify.com/album/5Js6rpaXDIBbdJA5Xn8AYd) | 3:08 |
+| 14 | [La Malagueña](https://open.spotify.com/track/5yL9T1WK7fY0SFjnvSfima) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 5:24 |
+| 15 | [Máquina 501](https://open.spotify.com/track/1wRF1D054vNvDga8dRfCdn) | [Francisco "Charro" Avitia](https://open.spotify.com/artist/4avWq3MJ9MS6TiIHrnymok) | [Charro Avitia](https://open.spotify.com/album/1Y848NgqzkOr28SfcBshmV) | 2:54 |
 | 16 | [Caminos de Guanajuato](https://open.spotify.com/track/2NYtb44MFHpDadBfNFcQXd) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [El Rey](https://open.spotify.com/album/6ugwfm6B8ToDlJndtQJ7jf) | 3:14 |
 | 17 | [México Lindo Y Querido](https://open.spotify.com/track/2r5HpO5yuhGHR0xDw7FTBr) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez La Leyenda Viviente \(Digi\-Pack\)](https://open.spotify.com/album/4N6NKru01oIgqTQ3MovJXW) | 3:32 |
 | 18 | [Serenata huasteca](https://open.spotify.com/track/2y3C3tWoNictZWuOuUtDuO) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [¡MÉXICO Por Siempre!](https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dJrNuyDEgy.md) - [plain]
 | 49 | [Los machetes](https://open.spotify.com/track/1xSDPL5ae24cnZFDwaIO6z) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Memorias Musicales del Mariachi](https://open.spotify.com/album/6DsXaAZwKKpOP1Lex4jDig) | 2:38 |
 | 50 | [La Cucaracha](https://open.spotify.com/track/4b0FVK3GdHI75vdUm8QrHV) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Aires de Mexico](https://open.spotify.com/album/5fMXK7VoIGri38AtHiTzwi) | 2:28 |
 
-Snapshot ID: `MCw2NWExYjhkYWM5YWU2OGYxYjU5ZmNmOTVjNGE5MzkxMGRlMTljN2Iz`
+Snapshot ID: `MCxjMGM0OTZmMzM2NWU2Nzc0YjNjYTEwYWQ1YzM5NGRjZGYwMjI4MmMz`

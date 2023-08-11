@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Jux & Diamond Platnumz",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Mbosso",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -1183,6 +1183,28 @@
     },
     {
       "album": {
+        "name": "Huruma (feat. Barnaba)",
+        "url": "https://open.spotify.com/album/0nuGzAR8QyueRPg9c26tbg"
+      },
+      "artists": [
+        {
+          "name": "Linex",
+          "url": "https://open.spotify.com/artist/6HhPLV4Jk3jf30sxmRM2rp"
+        },
+        {
+          "name": "Barnaba",
+          "url": "https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225306,
+      "name": "Huruma (feat. Barnaba)",
+      "url": "https://open.spotify.com/track/1Nch97rBUl65eO5HBlZPro"
+    },
+    {
+      "album": {
         "name": "Khan",
         "url": "https://open.spotify.com/album/3U9b6VslZuWzVmpxMLcPYO"
       },
@@ -1980,7 +2002,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 174599,
       "name": "Leo Ni Wewe",
       "url": "https://open.spotify.com/track/38vrGGsODeqxUJzGJEMaKT"
@@ -2604,7 +2626,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 252785,
       "name": "Moyo (feat. Costa Titch & Phantom Steeze)",
       "url": "https://open.spotify.com/track/7ekrjUWevBEalqmms6kM3K"
@@ -3030,7 +3052,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 194000,
       "name": "Nakupenda",
       "url": "https://open.spotify.com/track/3TlutO6C5h7LgLcH0X8GMc"
@@ -3376,7 +3398,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 297857,
       "name": "Nice (Kiss)",
       "url": "https://open.spotify.com/track/2FPOpkUFjQBzJVxK8zF2DA"
@@ -3957,6 +3979,28 @@
     },
     {
       "album": {
+        "name": "Pita Kule",
+        "url": "https://open.spotify.com/album/0NHnGLPDGZKXhtnB6ouLZv"
+      },
+      "artists": [
+        {
+          "name": "Jaivah",
+          "url": "https://open.spotify.com/artist/6MKLtjYnjCD7u87mPsvJo3"
+        },
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "Pita Kule",
+      "url": "https://open.spotify.com/track/45rces9Jy2Oskyl3D3VaFP"
+    },
+    {
+      "album": {
         "name": "Pomp Pomp",
         "url": "https://open.spotify.com/album/2VgxfRdeb2X6nihfFXMhrM"
       },
@@ -4128,6 +4172,28 @@
       "duration_ms": 203541,
       "name": "Sawa",
       "url": "https://open.spotify.com/track/7Brx47p9jy0bF0NoZ6MYdB"
+    },
+    {
+      "album": {
+        "name": "Sele (feat. Chley)",
+        "url": "https://open.spotify.com/album/4KJZg1xvNwfRkbJYDuz4Wc"
+      },
+      "artists": [
+        {
+          "name": "Mbosso",
+          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
+        },
+        {
+          "name": "Chley",
+          "url": "https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252857,
+      "name": "Sele (feat. Chley)",
+      "url": "https://open.spotify.com/track/4fFAGCynCqGDdZg9kdQjX7"
     },
     {
       "album": {
@@ -5200,6 +5266,24 @@
       "duration_ms": 236129,
       "name": "Wasiwasi",
       "url": "https://open.spotify.com/track/5RzxzvDwkaBz3msv2VjSwi"
+    },
+    {
+      "album": {
+        "name": "Watu Feki",
+        "url": "https://open.spotify.com/album/3IQYzBMNVE9pEnZj2SWzKc"
+      },
+      "artists": [
+        {
+          "name": "Appy",
+          "url": "https://open.spotify.com/artist/22CP7pIdG3mGt7AL1Dm4gv"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219900,
+      "name": "Watu Feki",
+      "url": "https://open.spotify.com/track/43EczENfxxOy3nJBqKRcV2"
     },
     {
       "album": {

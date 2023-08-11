@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Start vibing! Musica da ascoltare con uno spritz in mano per questa estate 2023 🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,959 likes - 85 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,050 likes - 85 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 28 | [My Friend](https://open.spotify.com/track/5LRxSyiIRHQD26h1mdM0Ir) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Goodbye Country \(Hello Nightclub\)](https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6) | 5:00 |
 | 29 | [Ask Me](https://open.spotify.com/track/05QGJav2nGJ9qdQ3vG9A9t) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Ask Me / Mesmerize](https://open.spotify.com/album/01n0HtCtQh4ogK1d8hmrws) | 3:13 |
 | 30 | [Amicalement Vôtre](https://open.spotify.com/track/0pl6IKhaBj7hheHHOmEIp6) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Happiness Therapy 06: Allégresse](https://open.spotify.com/album/4HeN8rpI28qPE06m2ZOi2q) | 5:30 |
-| 31 | [It'll All Be Over \- DJ Koze Remix \- Radio Edit](https://open.spotify.com/track/48dojgnBKfp3drKOFdwycc) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [It'll All Be Over \(DJ Koze Remix \- Radio Edit\)](https://open.spotify.com/album/0T4xFSNi3vOmlC4GUXPfIE) | 3:08 |
-| 32 | [Fresh \- House of Prayers Poolside Edit](https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01) | [Crazibiza](https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1), [House of Prayers](https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg) | [Fresh](https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV) | 4:44 |
+| 31 | [Fresh \- House of Prayers Poolside Edit](https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01) | [Crazibiza](https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1), [House of Prayers](https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg) | [Fresh](https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV) | 4:44 |
+| 32 | [It'll All Be Over \- DJ Koze Remix \- Radio Edit](https://open.spotify.com/track/48dojgnBKfp3drKOFdwycc) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [It'll All Be Over \(DJ Koze Remix \- Radio Edit\)](https://open.spotify.com/album/0T4xFSNi3vOmlC4GUXPfIE) | 3:08 |
 | 33 | [Falling for You](https://open.spotify.com/track/7o8VEpWXIvvnDIQaXDHI8S) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Falling for You](https://open.spotify.com/album/0eeBjfwq7PNalu0RBtYKeA) | 3:10 |
 | 34 | [Everything Eventually Ends](https://open.spotify.com/track/5LInOGDHqrgetnMlnvaDNq) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt) | [Everything Eventually Ends](https://open.spotify.com/album/5pk9cqTDktuytdBNidkke4) | 2:57 |
 | 35 | [Minimal \- Dj Koze Remix](https://open.spotify.com/track/7zSDTiE5xmuXlCz7mfYhlE) | [Matias Aguayo](https://open.spotify.com/artist/7daexEpVdKDbvlUHZ2rWbe) | [Minimal](https://open.spotify.com/album/55yKmNclMIb7WaDrT0bqbD) | 6:07 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 84 | [Blackpool Boulevard \- Edit](https://open.spotify.com/track/603pPHCZn9Ng9K9woYdWEd) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8), [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Blackpool Boulevard](https://open.spotify.com/album/3jc8IkDpZ1bGZCNCZOyT3R) | 3:35 |
 | 85 | [The Way You Say \- LP Giobbi Remix](https://open.spotify.com/track/5X3pRJnPw56cEVedjBj81m) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [The Way You Say \(Remixes\)](https://open.spotify.com/album/75joaaxl6qB1zk55F298SJ) | 2:55 |
 
-Snapshot ID: `MCxkYTQ1ZjlkNTQwNzQzMTA0ZjUxYjJhZmJkMjUwZjc5ZjI4ZTRmNmNi`
+Snapshot ID: `MCxjYzE5YTZjY2FjMjdiMmZiN2NiOTI3YjliYjRlYjNmNzk0YjkyOGFi`

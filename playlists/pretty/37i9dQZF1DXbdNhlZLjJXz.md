@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdNhlZLjJXz.md) - [plain]
 
 > leggings, walking pads, water tumblers \- that's hot
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,572 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,768 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdNhlZLjJXz.md) - [plain]
 | 49 | [she's all i wanna be](https://open.spotify.com/track/7l9IqDtVWJurTvkQHq1BGh) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 3:27 |
 | 50 | [Big Energy](https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Energy](https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa) | 2:53 |
 
-Snapshot ID: `MCw5ZDJhZmJmOTQ2MzdiYThhMWU2NGI0MDk0NzNjOTExMmY1MDc3MmU1`
+Snapshot ID: `MCxmYWNmOTU2NThmOTcxMjAzOTA0NzM0ODg0NTI2NDBkYjc0MTA0YmZk`

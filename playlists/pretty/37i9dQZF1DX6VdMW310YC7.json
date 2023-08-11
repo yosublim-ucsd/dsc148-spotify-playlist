@@ -1,12 +1,12 @@
 {
-  "description": "M\u00fasica <a href=\"spotify:genre:edm_dance\">dance</a> suave.",
-  "num_followers": 3652815,
+  "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
+  "num_followers": 3653406,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODFkZmMxM2M5MGMxM2EzZDhmZDUzOTBlMGY2YjU1MDFjNWY5Mzdm",
+  "snapshot_id": "MCw3YTliZGY3NTRkZDIzMWFmNzlhODY2MjMyZDVmYTYwMGFlMGY5YmQw",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Hopeful",
-        "url": "https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        }
-      ],
-      "duration_ms": 248432,
-      "name": "Hopeful",
-      "url": "https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "All I've Ever Known",
         "url": "https://open.spotify.com/album/4hFPQHIvNtt8c9pn1F25uK"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 218000,
       "name": "All I've Ever Known",
       "url": "https://open.spotify.com/track/2uBELhgylBRkmLI5B5yCbe"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Hopeful",
+        "url": "https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        }
+      ],
+      "duration_ms": 248432,
+      "name": "Hopeful",
+      "url": "https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Why Does My Heart",
-        "url": "https://open.spotify.com/album/3OT6KSIetaybJtSKP5tJkd"
-      },
-      "artists": [
-        {
-          "name": "LYOD",
-          "url": "https://open.spotify.com/artist/2a97LenVl6Fez8pkVAcFuq"
-        }
-      ],
-      "duration_ms": 172454,
-      "name": "Why Does My Heart",
-      "url": "https://open.spotify.com/track/4PMb7HNX34bF1Y4i1pgvrR"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Hiding",
         "url": "https://open.spotify.com/album/6s2VNewtJumECtFLbf3iC3"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 220625,
       "name": "Hiding",
       "url": "https://open.spotify.com/track/3hcAYNfSHm1opoJ1Jhkrch"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Why Does My Heart",
+        "url": "https://open.spotify.com/album/3OT6KSIetaybJtSKP5tJkd"
+      },
+      "artists": [
+        {
+          "name": "LYOD",
+          "url": "https://open.spotify.com/artist/2a97LenVl6Fez8pkVAcFuq"
+        }
+      ],
+      "duration_ms": 172454,
+      "name": "Why Does My Heart",
+      "url": "https://open.spotify.com/track/4PMb7HNX34bF1Y4i1pgvrR"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -987,26 +987,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Leave Me Low",
-        "url": "https://open.spotify.com/album/7mXiSzZCJglvzRwmGlG59f"
-      },
-      "artists": [
-        {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
-        },
-        {
-          "name": "Griff Clawson",
-          "url": "https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "Leave Me Low",
-      "url": "https://open.spotify.com/track/1fhFDn9W8ehz6rqomxDUW4"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/5vC7gyO1QMBpkkqkTr6aGu"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 287812,
       "name": "Lost",
       "url": "https://open.spotify.com/track/4HWadIQagwXOjf14aUD6qg"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Leave Me Low",
+        "url": "https://open.spotify.com/album/7mXiSzZCJglvzRwmGlG59f"
+      },
+      "artists": [
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        },
+        {
+          "name": "Griff Clawson",
+          "url": "https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "Leave Me Low",
+      "url": "https://open.spotify.com/track/1fhFDn9W8ehz6rqomxDUW4"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Rave",
-        "url": "https://open.spotify.com/album/3mmQk6NOkaA1dd17JI1BRG"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        }
-      ],
-      "duration_ms": 288387,
-      "name": "Rave",
-      "url": "https://open.spotify.com/track/57KkNRa2cLuqdSVhAcEyi4"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Can't Help But Think About You",
         "url": "https://open.spotify.com/album/4n8C4vGUmvNgpy4DO34Www"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 208185,
       "name": "Can't Help But Think About You",
       "url": "https://open.spotify.com/track/43noj7erQp0en3LWB5pBF4"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Rave",
+        "url": "https://open.spotify.com/album/3mmQk6NOkaA1dd17JI1BRG"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        }
+      ],
+      "duration_ms": 288387,
+      "name": "Rave",
+      "url": "https://open.spotify.com/track/57KkNRa2cLuqdSVhAcEyi4"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "IOU",
-        "url": "https://open.spotify.com/album/2dBJHbZd05aKf9PKaSLIIp"
-      },
-      "artists": [
-        {
-          "name": "EMBRZ",
-          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
-        },
-        {
-          "name": "Lizzy Land",
-          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
-        }
-      ],
-      "duration_ms": 212906,
-      "name": "IOU",
-      "url": "https://open.spotify.com/track/05fPNUOJ5ZwhNBavMU7vIu"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "High On You",
         "url": "https://open.spotify.com/album/0bIGlLKPLcgmEt2YBsL0nt"
       },
@@ -1471,22 +1451,42 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Light Places",
-        "url": "https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku"
+        "name": "IOU",
+        "url": "https://open.spotify.com/album/2dBJHbZd05aKf9PKaSLIIp"
       },
       "artists": [
         {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+          "name": "EMBRZ",
+          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
         },
         {
-          "name": "Caroline Byrne",
-          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
+          "name": "Lizzy Land",
+          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
         }
       ],
-      "duration_ms": 241804,
-      "name": "Feels Just Like It",
-      "url": "https://open.spotify.com/track/1hEnVkgNq0t9WFO5Smzq5Y"
+      "duration_ms": 212906,
+      "name": "IOU",
+      "url": "https://open.spotify.com/track/05fPNUOJ5ZwhNBavMU7vIu"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Another Dawn",
+        "url": "https://open.spotify.com/album/3SNNjZhX66AIm6ZNP7RKRv"
+      },
+      "artists": [
+        {
+          "name": "Massane",
+          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
+        },
+        {
+          "name": "Benjamin Roustaing",
+          "url": "https://open.spotify.com/artist/5soL2yvcsjVjFBaAF4gcdI"
+        }
+      ],
+      "duration_ms": 228447,
+      "name": "Closure",
+      "url": "https://open.spotify.com/track/4fAOR4ky2Rb9mn2uV5Me8O"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1515,26 +1515,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Another Dawn",
-        "url": "https://open.spotify.com/album/3SNNjZhX66AIm6ZNP7RKRv"
-      },
-      "artists": [
-        {
-          "name": "Massane",
-          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
-        },
-        {
-          "name": "Benjamin Roustaing",
-          "url": "https://open.spotify.com/artist/5soL2yvcsjVjFBaAF4gcdI"
-        }
-      ],
-      "duration_ms": 228447,
-      "name": "Closure",
-      "url": "https://open.spotify.com/track/4fAOR4ky2Rb9mn2uV5Me8O"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/5hH8hyj1Jrhi2dYwv9nhDO"
       },
@@ -1547,6 +1527,26 @@
       "duration_ms": 153532,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/7IQgAVMaCu0ImfMnKV7Xik"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Light Places",
+        "url": "https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Caroline Byrne",
+          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
+        }
+      ],
+      "duration_ms": 241804,
+      "name": "Feels Just Like It",
+      "url": "https://open.spotify.com/track/1hEnVkgNq0t9WFO5Smzq5Y"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Keep On",
-        "url": "https://open.spotify.com/album/5MdzjsRffjKUicXibIu9dl"
-      },
-      "artists": [
-        {
-          "name": "Tobias Bergson",
-          "url": "https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3"
-        }
-      ],
-      "duration_ms": 237628,
-      "name": "Keep On",
-      "url": "https://open.spotify.com/track/2sHGfbeO6mKILlgOnBzkru"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Manzanita",
         "url": "https://open.spotify.com/album/2Qidx1pVb6bVpooKf9tiUt"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 194730,
       "name": "Lost",
       "url": "https://open.spotify.com/track/1ludJD4Vbpy7LRrHDStEkB"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Keep On",
+        "url": "https://open.spotify.com/album/5MdzjsRffjKUicXibIu9dl"
+      },
+      "artists": [
+        {
+          "name": "Tobias Bergson",
+          "url": "https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3"
+        }
+      ],
+      "duration_ms": 237628,
+      "name": "Keep On",
+      "url": "https://open.spotify.com/track/2sHGfbeO6mKILlgOnBzkru"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Juno",
-        "url": "https://open.spotify.com/album/1eQxkBCBAwikauTxmYDjB9"
-      },
-      "artists": [
-        {
-          "name": "Parra for Cuva",
-          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
-        }
-      ],
-      "duration_ms": 273679,
-      "name": "Manila Palm",
-      "url": "https://open.spotify.com/track/4AoQ3IvQqXjFhvtVyrGfGn"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Something Was Real",
         "url": "https://open.spotify.com/album/282285H5zzpms9M3Bwg0c1"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 222528,
       "name": "Something Was Real",
       "url": "https://open.spotify.com/track/7HXqYIF5kMN1XY52GWQKrZ"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Juno",
+        "url": "https://open.spotify.com/album/1eQxkBCBAwikauTxmYDjB9"
+      },
+      "artists": [
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        }
+      ],
+      "duration_ms": 273679,
+      "name": "Manila Palm",
+      "url": "https://open.spotify.com/track/4AoQ3IvQqXjFhvtVyrGfGn"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1835,26 +1835,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Into The Sun (Chill Mix)",
-        "url": "https://open.spotify.com/album/7ix2yVIJHAdLNqIbTBeKil"
+        "name": "Into The Night",
+        "url": "https://open.spotify.com/album/4uncxf7qT7yP8ar3O0HPHr"
       },
       "artists": [
         {
-          "name": "Latroit",
-          "url": "https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK"
-        },
-        {
-          "name": "Pretty Garter",
-          "url": "https://open.spotify.com/artist/0ikHknT4cbqziewzUdqn3y"
-        },
-        {
-          "name": "Charlz",
-          "url": "https://open.spotify.com/artist/6HlbdrXWMFHgFdbIDX9Znv"
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
         }
       ],
-      "duration_ms": 164723,
-      "name": "Into The Sun - Chill Mix",
-      "url": "https://open.spotify.com/track/4bXeqbONCSECKqU3XpA5eT"
+      "duration_ms": 423006,
+      "name": "Into The Night",
+      "url": "https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB"
     },
     {
       "added_at": "2023-08-04 04:00:00",

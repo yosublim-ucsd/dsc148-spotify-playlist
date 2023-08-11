@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 
 ### [Hit Radio](https://open.spotify.com/playlist/37i9dQZF1DXbS5WTN5nKF7)
 
-> Le meilleur des hits ! Photo : Loreen
+> Le meilleur des hits ! Photo : Vianney x Kendji Girac
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,621 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,829 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 |
-| 2 | [Mamma Mia](https://open.spotify.com/track/3p26SlvvvwRo3WY9pUTlE0) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [La vingtaine](https://open.spotify.com/album/1xMisloOjQEMQTRte7kkJz) | 2:56 |
+| 1 | [Le feu](https://open.spotify.com/track/7tChNCtleS9bUPD4uDXvJf) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF), [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [L'école de la vie](https://open.spotify.com/album/25snFHoT0AM49Ap6PzVdnq) | 3:57 |
+| 2 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 |
 | 3 | [Waves](https://open.spotify.com/track/0YbFEoJi7Esa7lhIrEpBjl) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 3:45 |
-| 4 | [Le feu](https://open.spotify.com/track/7tChNCtleS9bUPD4uDXvJf) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF), [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [L'école de la vie](https://open.spotify.com/album/25snFHoT0AM49Ap6PzVdnq) | 3:57 |
+| 4 | [Mamma Mia](https://open.spotify.com/track/3p26SlvvvwRo3WY9pUTlE0) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [La vingtaine](https://open.spotify.com/album/1xMisloOjQEMQTRte7kkJz) | 2:56 |
 | 5 | [The Fool](https://open.spotify.com/track/40GNYv0ldvcenD3hxFp1Kn) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [The Fool](https://open.spotify.com/album/1WWlFJw4AvILgammiKMdA0) | 3:26 |
 | 6 | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7) | 3:01 |
 | 7 | [Pardonne\-moi](https://open.spotify.com/track/7e9St8J2mT2Y7peHokbQRY) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Pardonne\-moi](https://open.spotify.com/album/53PJ9MPRmz9TJaVdzUXiO9) | 3:07 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 | 59 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 |
 | 60 | [Tout le monde \(sauf toi\)](https://open.spotify.com/track/4lyIlP2RIrY2dy6U6Xy0qu) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Cœur](https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC) | 2:45 |
 
-Snapshot ID: `MCwzYmM1ZWY3MGQ3M2ZjMTgzYTM5NjFhZjFiZTc4MGI5ODdlODk4NTIw`
+Snapshot ID: `MCwzNTcyZTk2NGI1MTdjYTJlOGQwYzU4ZTcxZGViOTU3MTljNDQ2N2Y5`

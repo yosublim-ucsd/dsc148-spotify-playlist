@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3R7OWWGN4gH.md) - [plain]
 
 > Lately I've been dressing for revenge
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,068,958 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,069,992 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3R7OWWGN4gH.md) - [plain]
 | 68 | [Michelle](https://open.spotify.com/track/6XrTwqp0vMc2Z3m4ttoyRe) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Party Favors](https://open.spotify.com/album/0Vcu9I1RkUF1VYSVeYwLhR) | 3:34 |
 | 69 | [Rät](https://open.spotify.com/track/4blPH3Uy89WnOnYlIv7Ev4) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI) | 3:14 |
 | 70 | [House Of The Rising Sun](https://open.spotify.com/track/7BY005dacJkbO6EPiOh2wb) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [The Animals](https://open.spotify.com/album/0Xwkx2TLFwRcoK0OWQ0Msa) | 4:31 |
-| 71 | [Mad Hatter](https://open.spotify.com/track/5gWtkdgdyt5bZt9i6n3Kqd) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 3:21 |
-| 72 | [Gangsta](https://open.spotify.com/track/1W7zkKgRv9mrLbfdQ8XyH3) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Suicide Squad: The Album](https://open.spotify.com/album/5rOHrnrRomvSJhQLGVtfJ8) | 2:57 |
-| 73 | [If I Killed Someone For You](https://open.spotify.com/track/0WHi11uzahqpEtPGYCW6oQ) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 3:05 |
-| 74 | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/track/7v4pPS4A7NgY7bxFA3Etv3) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/album/5kcBHP5GH7fsOJLwVfXmx3) | 1:36 |
+| 71 | [Gangsta](https://open.spotify.com/track/1W7zkKgRv9mrLbfdQ8XyH3) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Suicide Squad: The Album](https://open.spotify.com/album/5rOHrnrRomvSJhQLGVtfJ8) | 2:57 |
+| 72 | [Mad Hatter](https://open.spotify.com/track/5gWtkdgdyt5bZt9i6n3Kqd) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 3:21 |
+| 73 | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/track/7v4pPS4A7NgY7bxFA3Etv3) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/album/5kcBHP5GH7fsOJLwVfXmx3) | 1:36 |
+| 74 | [If I Killed Someone For You](https://open.spotify.com/track/0WHi11uzahqpEtPGYCW6oQ) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 3:05 |
 | 75 | [Sharks](https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Sharks](https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e) | 3:10 |
 | 76 | [Gasoline](https://open.spotify.com/track/2IO7yf562c1zLzpanal1DT) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [BADLANDS \(Deluxe\)](https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin) | 3:19 |
 | 77 | [Lithium](https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 4:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3R7OWWGN4gH.md) - [plain]
 | 99 | [Wish You the Worst](https://open.spotify.com/track/0cOwPdK6FsqXz967daLc4k) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Wish You the Worst](https://open.spotify.com/album/4JsqUzG5orBKjf3LC0d6We) | 2:23 |
 | 100 | [abcdefu \(angrier\)](https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu \(angrier\)](https://open.spotify.com/album/23M1xUF2RoRSvXtpwQP4rJ) | 2:39 |
 
-Snapshot ID: `MCxhNDE5OWNlY2VmNDJhM2U4ZTcxMjk1ZWExZDMxZDVkMGY2NGQ3NmJh`
+Snapshot ID: `MCxmYjk0YTRhMWRhZDg4Y2UzMDgzYmM5YWM4MDY5OGU0M2RjYTY3ZDYz`

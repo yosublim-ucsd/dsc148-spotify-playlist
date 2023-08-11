@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Junior H en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 614,917 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 619,580 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 27 | [CUANDO LLUEVE](https://open.spotify.com/track/1zGm84bD3EQLq7Iot79U3T) | [Una Canción Bonita](https://open.spotify.com/artist/3hLAnFsw8LnNJ9FDXSCCP7) | [CUANDO LLUEVE](https://open.spotify.com/album/0Me1LJTvDr06VOYB9jfWjq) | 4:18 |
 | 28 | [Pal Amor Soy Malo](https://open.spotify.com/track/7gwKQ5sNGRFZ70o0SK5DTR) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Pal Amor Soy Malo](https://open.spotify.com/album/2oyTXMoyxT2C35oiFrmGbC) | 2:36 |
 | 29 | [Eres](https://open.spotify.com/track/6GM5l4aJ9aOhGStxODvNBm) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Nata Montana](https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7) | 2:52 |
-| 30 | [Te Vas](https://open.spotify.com/track/2WXuY0GXFDwui1mfh9h1BY) | [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD) | [Te Vas](https://open.spotify.com/album/7z3mXFNMoA1GKKtDaPmIQb) | 2:36 |
+| 30 | [Te Vas](https://open.spotify.com/track/2WXuY0GXFDwui1mfh9h1BY) | [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD) | [Te Vas](https://open.spotify.com/album/7z3mXFNMoA1GKKtDaPmIQb) | 2:34 |
 | 31 | [Hermosura de Mujer](https://open.spotify.com/track/19vV1i1AluuK7mQcJmM5GZ) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 3:44 |
 | 32 | [Enamorado](https://open.spotify.com/track/5zC6Pptql0n3P7iAhn3ggg) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Del Corazon](https://open.spotify.com/album/6bO4zC2EXhT7AEFtowvb3C) | 4:05 |
 | 33 | [Tomando Tequila](https://open.spotify.com/track/3yFKnvGcp6DqmXgYR7QW2I) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 49 | [Tu Verano <3](https://open.spotify.com/track/60FS4EkXM2t7odFb69Jfyv) | [Proximo Nivel](https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94) | [Tu Verano <3](https://open.spotify.com/album/0WctAvNJcLBLdQccvPrD1h) | 2:43 |
 | 50 | [Sin Mentiras Ni Reclamos](https://open.spotify.com/track/56FNq9J9SR5GwOcJAc5CRL) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT), [El Proyecto](https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai) | [alivio](https://open.spotify.com/album/2IDSJ1Xw2yNJPkHdWbUvTI) | 3:05 |
 
-Snapshot ID: `MCxiNjY5ZTYyNDg0NWJjOWNmMzVmZGQ2MWMwNWFjZTI1MTIzMjZlNjYx`
+Snapshot ID: `MCw1NTI2MDEzYjVmZWI4YzdhYjQ4OTJkMjdmN2E4ZWE4NWU0YmYyZjg3`

@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Eli Rose",
-  "num_followers": 37455,
+  "num_followers": 37462,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzgxZmRjOTQzYjZhMTgzZjc2NDMxMDgwNjBkZDgyZGFiYWM5ZmEw",
+  "snapshot_id": "MCw4OGM5NzQ1Y2Y2NTYyOTk5MDkyNjJhZGZhNzk1N2M4MWQzYjI0MTQy",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -103,22 +103,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "NI",
-        "url": "https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad"
+        "name": "Shavkat",
+        "url": "https://open.spotify.com/album/1CYQrHXkE52a8tlhiqUR1x"
       },
       "artists": [
         {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+          "name": "Freeze corleone",
+          "url": "https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im"
         }
       ],
-      "duration_ms": 187057,
-      "name": "Eurostar (feat. Central Cee)",
-      "url": "https://open.spotify.com/track/3Iy4j2lCqW8BXGkFk21U6F"
+      "duration_ms": 219865,
+      "name": "Shavkat",
+      "url": "https://open.spotify.com/track/1A3eBtA4ath65H7PFySd6l"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -143,18 +139,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Shavkat",
-        "url": "https://open.spotify.com/album/1CYQrHXkE52a8tlhiqUR1x"
+        "name": "NI",
+        "url": "https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad"
       },
       "artists": [
         {
-          "name": "Freeze corleone",
-          "url": "https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im"
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 219865,
-      "name": "Shavkat",
-      "url": "https://open.spotify.com/track/1A3eBtA4ath65H7PFySd6l"
+      "duration_ms": 187057,
+      "name": "Eurostar (feat. Central Cee)",
+      "url": "https://open.spotify.com/track/3Iy4j2lCqW8BXGkFk21U6F"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -283,26 +283,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "NI",
-        "url": "https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad"
-      },
-      "artists": [
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 202186,
-      "name": "No love",
-      "url": "https://open.spotify.com/track/1JvMPB1mkcrQsnasBGMBYd"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Ouvert tout l'\u00e9t\u00e9",
         "url": "https://open.spotify.com/album/7LfBmtNJPmxMReRrUHPzxB"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 178266,
       "name": "TP",
       "url": "https://open.spotify.com/track/4aslqUfhnz7lYd8mEMIToq"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "NI",
+        "url": "https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 202186,
+      "name": "No love",
+      "url": "https://open.spotify.com/track/1JvMPB1mkcrQsnasBGMBYd"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "C'est toi",
-        "url": "https://open.spotify.com/album/1m9ChT2dnhqqXSdkzsR9P4"
-      },
-      "artists": [
-        {
-          "name": "Ronisia",
-          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
-        }
-      ],
-      "duration_ms": 131480,
-      "name": "C'est toi",
-      "url": "https://open.spotify.com/track/40EplL61w6x2axuhf9WXTT"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Ha ha ha",
         "url": "https://open.spotify.com/album/4n0JjeU4YVH3jAKXHEOh8K"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 257200,
       "name": "Ha ha ha",
       "url": "https://open.spotify.com/track/7zOy88Gz28RDcmjuvYvpww"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "C'est toi",
+        "url": "https://open.spotify.com/album/1m9ChT2dnhqqXSdkzsR9P4"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        }
+      ],
+      "duration_ms": 131480,
+      "name": "C'est toi",
+      "url": "https://open.spotify.com/track/40EplL61w6x2axuhf9WXTT"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -655,22 +655,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "G\u00c9 VOULAIT",
-        "url": "https://open.spotify.com/album/4ANS3cQf0SZux2I7zlkAxC"
+        "name": "Trop parler",
+        "url": "https://open.spotify.com/album/6Qeq7qS0CVx0s81e0eftvY"
       },
       "artists": [
         {
-          "name": "Genezio",
-          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
-        },
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
         }
       ],
-      "duration_ms": 161122,
-      "name": "G\u00c9 VOULAIT",
-      "url": "https://open.spotify.com/track/0zjj6xLdVtzIzkOHEWqbWH"
+      "duration_ms": 183865,
+      "name": "Trop parler",
+      "url": "https://open.spotify.com/track/403UULZfsCNgiCJlf7kii4"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -691,22 +687,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Daddy 9",
-        "url": "https://open.spotify.com/album/7myGxTlSrRIav4gOCybgsa"
+        "name": "G\u00c9 VOULAIT",
+        "url": "https://open.spotify.com/album/4ANS3cQf0SZux2I7zlkAxC"
       },
       "artists": [
         {
-          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
-          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
         },
         {
           "name": "Dadju",
           "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
         }
       ],
-      "duration_ms": 176453,
-      "name": "Molo (feat. Dadju)",
-      "url": "https://open.spotify.com/track/4ZhuivUPhDFWj9rjImvyYM"
+      "duration_ms": 161122,
+      "name": "G\u00c9 VOULAIT",
+      "url": "https://open.spotify.com/track/0zjj6xLdVtzIzkOHEWqbWH"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -727,18 +723,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Trop parler",
-        "url": "https://open.spotify.com/album/6Qeq7qS0CVx0s81e0eftvY"
+        "name": "Daddy 9",
+        "url": "https://open.spotify.com/album/7myGxTlSrRIav4gOCybgsa"
       },
       "artists": [
         {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        },
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
         }
       ],
-      "duration_ms": 183865,
-      "name": "Trop parler",
-      "url": "https://open.spotify.com/track/403UULZfsCNgiCJlf7kii4"
+      "duration_ms": 176453,
+      "name": "Molo (feat. Dadju)",
+      "url": "https://open.spotify.com/track/4ZhuivUPhDFWj9rjImvyYM"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -815,6 +815,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Chef D'orchestre",
+        "url": "https://open.spotify.com/album/10BPtugQncuVXNT8CVu0f1"
+      },
+      "artists": [
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        },
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "duration_ms": 171754,
+      "name": "Localis\u00e9",
+      "url": "https://open.spotify.com/track/1jJHvMdaI0B3tmiCgFNpeK"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "La Centrale",
         "url": "https://open.spotify.com/album/6f8fSoo94Jbu6QBAKkYk1O"
       },
@@ -855,26 +875,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Chef D'orchestre",
-        "url": "https://open.spotify.com/album/10BPtugQncuVXNT8CVu0f1"
-      },
-      "artists": [
-        {
-          "name": "Heuss L'enfoir\u00e9",
-          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
-        },
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "duration_ms": 171754,
-      "name": "Localis\u00e9",
-      "url": "https://open.spotify.com/track/1jJHvMdaI0B3tmiCgFNpeK"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Alabama",
         "url": "https://open.spotify.com/album/0Jhq4X18BLRTmVBSLuKM7b"
       },
@@ -911,18 +911,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "M\u00e9diterran\u00e9e",
-        "url": "https://open.spotify.com/album/57z5mtYpxfIYVsLWMq6nu4"
+        "name": "Au bord de la mer",
+        "url": "https://open.spotify.com/album/68QdmvGYzprjbODlaItocj"
       },
       "artists": [
         {
-          "name": "Bon Entendeur",
-          "url": "https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD"
+          "name": "Chiloo",
+          "url": "https://open.spotify.com/artist/0DjR09NBgtZbkOnBZays9o"
         }
       ],
-      "duration_ms": 183346,
-      "name": "M\u00e9diterran\u00e9e",
-      "url": "https://open.spotify.com/track/1YydAnEuRJGKbFUYEE8HUz"
+      "duration_ms": 193136,
+      "name": "Au bord de la mer",
+      "url": "https://open.spotify.com/track/4JRzne9QPdoRTipanGEqh3"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

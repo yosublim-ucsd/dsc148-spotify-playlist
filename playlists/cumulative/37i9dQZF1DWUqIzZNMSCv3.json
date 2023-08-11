@@ -223,28 +223,6 @@
     },
     {
       "album": {
-        "name": "Love Songs - Piano Transcriptions Without Words",
-        "url": "https://open.spotify.com/album/16zfntcR7VAJWn9Ovooo1w"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Angela Hewitt",
-          "url": "https://open.spotify.com/artist/3KtQFp8FUbQMx3bLNKCw3R"
-        }
-      ],
-      "date_added": "2023-08-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 232526,
-      "name": "4 Lieder, Op. 27, TrV 170: No. 4, Morgen! (Arr. Reger)",
-      "url": "https://open.spotify.com/track/1YHB1xwXPgCkuGjQ0prNdb"
-    },
-    {
-      "album": {
         "name": "Brahms: 4 Piano Pieces, Op. 119: No. 1 in B Minor. Intermezzo. Adagio (Musical Moments)",
         "url": "https://open.spotify.com/album/4vIC0euPV2pHGe1bHjPwze"
       },
@@ -1208,6 +1186,28 @@
       "duration_ms": 301400,
       "name": "Montero: Adagio (After Bach's Violin Concerto No. 2, BWV 1042)",
       "url": "https://open.spotify.com/track/1v3gGmcneK1QzYyBFiBXG0"
+    },
+    {
+      "album": {
+        "name": "Love Songs - Piano Transcriptions Without Words",
+        "url": "https://open.spotify.com/album/16zfntcR7VAJWn9Ovooo1w"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Angela Hewitt",
+          "url": "https://open.spotify.com/artist/3KtQFp8FUbQMx3bLNKCw3R"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232526,
+      "name": "Morgen, Op. 27 No. 4 (Arr. Reger for Piano)",
+      "url": "https://open.spotify.com/track/1YHB1xwXPgCkuGjQ0prNdb"
     },
     {
       "album": {

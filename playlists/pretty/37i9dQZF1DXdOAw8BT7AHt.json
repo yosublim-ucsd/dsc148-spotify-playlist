@@ -1,12 +1,12 @@
 {
   "description": "The best in new punk rock music. Cover: BIG SPECIAL",
-  "num_followers": 49576,
+  "num_followers": 49579,
   "original_name": "The Punk List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWUzZDYwNDY0ZTQ5YjJmMWYwMDM2ODA1YWYyZmU5ZjVlNzlmNjli",
+  "snapshot_id": "MCxlNzYwODc1Yjc4Y2FlMzBhZmNlZjU5YTQ0MDBiNjIxMWQ2NGQyMTll",
   "tracks": [
     {
       "added_at": "2023-07-05 20:38:23",
@@ -271,18 +271,18 @@
     {
       "added_at": "2023-07-05 20:38:23",
       "album": {
-        "name": "It Was Fun While It Lasted",
-        "url": "https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge"
+        "name": "STFU",
+        "url": "https://open.spotify.com/album/0NYz1EimESo3xgx3KMkknf"
       },
       "artists": [
         {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
         }
       ],
-      "duration_ms": 150522,
-      "name": "Drunk Dial",
-      "url": "https://open.spotify.com/track/5W0EeQs0I6luvjUM0ZXAuN"
+      "duration_ms": 172480,
+      "name": "STFU",
+      "url": "https://open.spotify.com/track/3kUOyI09uhyv2hqKgj2o39"
     },
     {
       "added_at": "2023-07-05 20:38:23",
@@ -303,18 +303,18 @@
     {
       "added_at": "2023-07-05 20:38:23",
       "album": {
-        "name": "STFU",
-        "url": "https://open.spotify.com/album/0NYz1EimESo3xgx3KMkknf"
+        "name": "It Was Fun While It Lasted",
+        "url": "https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge"
       },
       "artists": [
         {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
         }
       ],
-      "duration_ms": 172480,
-      "name": "STFU",
-      "url": "https://open.spotify.com/track/3kUOyI09uhyv2hqKgj2o39"
+      "duration_ms": 150522,
+      "name": "Drunk Dial",
+      "url": "https://open.spotify.com/track/5W0EeQs0I6luvjUM0ZXAuN"
     },
     {
       "added_at": "2023-07-05 20:38:23",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-07-05 20:38:23",
       "album": {
-        "name": "UK GRIM",
-        "url": "https://open.spotify.com/album/5CsLGo6H7h3de8VoSCiaD0"
-      },
-      "artists": [
-        {
-          "name": "Sleaford Mods",
-          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
-        }
-      ],
-      "duration_ms": 198542,
-      "name": "UK GRIM",
-      "url": "https://open.spotify.com/track/60wO5lvhLRTJnPfV3r3rMR"
-    },
-    {
-      "added_at": "2023-07-05 20:38:23",
-      "album": {
         "name": "Groundhog Day",
         "url": "https://open.spotify.com/album/415iY0uDENvjox5USnF9uC"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 217989,
       "name": "Groundhog Day",
       "url": "https://open.spotify.com/track/3ji7KFn4mhQ0BGHqFkwRdI"
+    },
+    {
+      "added_at": "2023-07-05 20:38:23",
+      "album": {
+        "name": "UK GRIM",
+        "url": "https://open.spotify.com/album/5CsLGo6H7h3de8VoSCiaD0"
+      },
+      "artists": [
+        {
+          "name": "Sleaford Mods",
+          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
+        }
+      ],
+      "duration_ms": 198542,
+      "name": "UK GRIM",
+      "url": "https://open.spotify.com/track/60wO5lvhLRTJnPfV3r3rMR"
     },
     {
       "added_at": "2023-07-05 20:38:23",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-07-05 20:38:23",
       "album": {
-        "name": "Bob Vylan Presents The Price Of Life",
-        "url": "https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m"
-      },
-      "artists": [
-        {
-          "name": "Bob Vylan",
-          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
-        }
-      ],
-      "duration_ms": 150143,
-      "name": "Wicked & Bad",
-      "url": "https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee"
-    },
-    {
-      "added_at": "2023-07-05 20:38:23",
-      "album": {
         "name": "LIVING PROOF",
         "url": "https://open.spotify.com/album/035ul2Le143j2WBozMShrW"
       },
@@ -615,18 +599,18 @@
     {
       "added_at": "2023-07-05 20:38:23",
       "album": {
-        "name": "I Gotta Feeling",
-        "url": "https://open.spotify.com/album/4Nw0zcHzHZRyWhWZDy6OlZ"
+        "name": "Bob Vylan Presents The Price Of Life",
+        "url": "https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m"
       },
       "artists": [
         {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
         }
       ],
-      "duration_ms": 197648,
-      "name": "I Gotta Feeling",
-      "url": "https://open.spotify.com/track/0LUVOk5bZG7WO7TorwVWCn"
+      "duration_ms": 150143,
+      "name": "Wicked & Bad",
+      "url": "https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee"
     },
     {
       "added_at": "2023-07-05 20:38:23",
@@ -647,6 +631,22 @@
     {
       "added_at": "2023-07-05 20:38:23",
       "album": {
+        "name": "I Gotta Feeling",
+        "url": "https://open.spotify.com/album/4Nw0zcHzHZRyWhWZDy6OlZ"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        }
+      ],
+      "duration_ms": 197648,
+      "name": "I Gotta Feeling",
+      "url": "https://open.spotify.com/track/0LUVOk5bZG7WO7TorwVWCn"
+    },
+    {
+      "added_at": "2023-07-05 20:38:23",
+      "album": {
         "name": "Dandelions",
         "url": "https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc"
       },
@@ -659,6 +659,38 @@
       "duration_ms": 179809,
       "name": "Dandelions",
       "url": "https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA"
+    },
+    {
+      "added_at": "2023-07-05 20:38:23",
+      "album": {
+        "name": "Pah!",
+        "url": "https://open.spotify.com/album/0euY5M3b7Uc4WkG7yGbjNz"
+      },
+      "artists": [
+        {
+          "name": "Los Bitchos",
+          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
+        }
+      ],
+      "duration_ms": 105000,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/3PuPuqIJFkDHskgjzLgjo7"
+    },
+    {
+      "added_at": "2023-07-05 20:38:23",
+      "album": {
+        "name": "Expert In A Dying Field",
+        "url": "https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y"
+      },
+      "artists": [
+        {
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "Knees Deep",
+      "url": "https://open.spotify.com/track/26nKaeICWQGG1EC3cTGliE"
     },
     {
       "added_at": "2023-07-05 20:38:23",
@@ -683,22 +715,6 @@
     {
       "added_at": "2023-07-05 20:38:23",
       "album": {
-        "name": "Expert In A Dying Field",
-        "url": "https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y"
-      },
-      "artists": [
-        {
-          "name": "The Beths",
-          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
-        }
-      ],
-      "duration_ms": 219133,
-      "name": "Knees Deep",
-      "url": "https://open.spotify.com/track/26nKaeICWQGG1EC3cTGliE"
-    },
-    {
-      "added_at": "2023-07-05 20:38:23",
-      "album": {
         "name": "Here's What You Could Have Won",
         "url": "https://open.spotify.com/album/6rLQeykzlWGHn9SkQr85dN"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 163560,
       "name": "I.N.V.U.",
       "url": "https://open.spotify.com/track/5f2d8tMWMoTlFaK9q9lJHO"
-    },
-    {
-      "added_at": "2023-07-05 20:38:23",
-      "album": {
-        "name": "Pah!",
-        "url": "https://open.spotify.com/album/0euY5M3b7Uc4WkG7yGbjNz"
-      },
-      "artists": [
-        {
-          "name": "Los Bitchos",
-          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
-        }
-      ],
-      "duration_ms": 105000,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/3PuPuqIJFkDHskgjzLgjo7"
     },
     {
       "added_at": "2023-07-05 20:38:23",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-07-05 20:38:23",
       "album": {
-        "name": "Food for Worms",
-        "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
-      },
-      "artists": [
-        {
-          "name": "shame",
-          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
-        }
-      ],
-      "duration_ms": 231968,
-      "name": "Six-Pack",
-      "url": "https://open.spotify.com/track/1bSJ7EeizSSw8oa6g2qVSi"
-    },
-    {
-      "added_at": "2023-07-05 20:38:23",
-      "album": {
         "name": "THE UNRAVELING OF PUPTHEBAND",
         "url": "https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 223986,
       "name": "Totally Fine",
       "url": "https://open.spotify.com/track/0kneNB0JvNLyBqkxGdyvna"
+    },
+    {
+      "added_at": "2023-07-05 20:38:23",
+      "album": {
+        "name": "Food for Worms",
+        "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
+      },
+      "artists": [
+        {
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+        }
+      ],
+      "duration_ms": 231968,
+      "name": "Six-Pack",
+      "url": "https://open.spotify.com/track/1bSJ7EeizSSw8oa6g2qVSi"
     },
     {
       "added_at": "2023-07-05 20:38:23",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-07-05 20:38:23",
       "album": {
-        "name": "Daydrinker",
-        "url": "https://open.spotify.com/album/0YDXq4cjU2ygFh6RFBbqhY"
-      },
-      "artists": [
-        {
-          "name": "WALWIN",
-          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
-        }
-      ],
-      "duration_ms": 165758,
-      "name": "Daydrinker",
-      "url": "https://open.spotify.com/track/7FHcWjWcUiVPohKZcC5WTn"
-    },
-    {
-      "added_at": "2023-07-05 20:38:23",
-      "album": {
         "name": "catastrophe",
         "url": "https://open.spotify.com/album/2jEt25RLXZn6gtav3jtven"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 156430,
       "name": "catastrophe",
       "url": "https://open.spotify.com/track/23CIjjRFiqwaAGHmF1p5oX"
+    },
+    {
+      "added_at": "2023-07-05 20:38:23",
+      "album": {
+        "name": "Daydrinker",
+        "url": "https://open.spotify.com/album/0YDXq4cjU2ygFh6RFBbqhY"
+      },
+      "artists": [
+        {
+          "name": "WALWIN",
+          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
+        }
+      ],
+      "duration_ms": 165758,
+      "name": "Daydrinker",
+      "url": "https://open.spotify.com/track/7FHcWjWcUiVPohKZcC5WTn"
     },
     {
       "added_at": "2023-07-05 20:38:23",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-07-05 20:38:23",
       "album": {
-        "name": "'Til the Wheels Fall Off",
-        "url": "https://open.spotify.com/album/02gGvRHn6goKCYrRv7xp1Y"
-      },
-      "artists": [
-        {
-          "name": "WSTR",
-          "url": "https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7"
-        }
-      ],
-      "duration_ms": 213435,
-      "name": "Bricks",
-      "url": "https://open.spotify.com/track/5FJ3tMyMQ1VeRINR2DUIsY"
-    },
-    {
-      "added_at": "2023-07-05 20:38:23",
-      "album": {
         "name": "I WENT TO HELL AND BACK",
         "url": "https://open.spotify.com/album/0C9MH7ojRpjgfFJ5CNiEZu"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 177510,
       "name": "I HATE ME TOO",
       "url": "https://open.spotify.com/track/52K4NbHU3E2KvVxwKpAGUm"
+    },
+    {
+      "added_at": "2023-07-05 20:38:23",
+      "album": {
+        "name": "'Til the Wheels Fall Off",
+        "url": "https://open.spotify.com/album/02gGvRHn6goKCYrRv7xp1Y"
+      },
+      "artists": [
+        {
+          "name": "WSTR",
+          "url": "https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7"
+        }
+      ],
+      "duration_ms": 213435,
+      "name": "Bricks",
+      "url": "https://open.spotify.com/track/5FJ3tMyMQ1VeRINR2DUIsY"
     },
     {
       "added_at": "2023-07-05 20:38:23",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-07-05 20:38:23",
       "album": {
-        "name": "Little Fix",
-        "url": "https://open.spotify.com/album/2Hw3eI5w9JgGXqgnAS0rAi"
-      },
-      "artists": [
-        {
-          "name": "SPRINTS",
-          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Little Fix",
-      "url": "https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd"
-    },
-    {
-      "added_at": "2023-07-05 20:38:23",
-      "album": {
         "name": "Growing Up",
         "url": "https://open.spotify.com/album/6BkAzZNlSz80Iz3oTlKHet"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 142124,
       "name": "Talking To Myself",
       "url": "https://open.spotify.com/track/3hXqsW8leYpzFZ4EBzrO5x"
+    },
+    {
+      "added_at": "2023-07-05 20:38:23",
+      "album": {
+        "name": "Little Fix",
+        "url": "https://open.spotify.com/album/2Hw3eI5w9JgGXqgnAS0rAi"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Little Fix",
+      "url": "https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd"
     },
     {
       "added_at": "2023-07-05 20:38:23",

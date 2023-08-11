@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dTWjpijlub.md) - [plain]
 
 > The champs are here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,394 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,705 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dTWjpijlub.md) - [plain]
 | 25 | [Broke In A Minute](https://open.spotify.com/track/4xqIYGwwZTEem9U8A42SPF) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [The New Toronto 3](https://open.spotify.com/album/2TbrXjwWklhT7JrC5sdUkf) | 2:12 |
 | 26 | [Trophies](https://open.spotify.com/track/6HfOzLLjsaXsehIFEsrxTk) | [Young Money](https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Rise Of An Empire \(Deluxe Edition\)](https://open.spotify.com/album/0UwpSCPnNPksM1meQJnBAF) | 3:08 |
 | 27 | [Go Stupid](https://open.spotify.com/track/4PklAHGXT5ityno3IA8SKd) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [THE GOAT](https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz) | 2:45 |
-| 28 | [Count Me Out](https://open.spotify.com/track/6BU1RZexmvJcBjgagVVt3M) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 4:43 |
-| 29 | [Praise God](https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 3:46 |
+| 28 | [Praise God](https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 3:46 |
+| 29 | [Count Me Out](https://open.spotify.com/track/6BU1RZexmvJcBjgagVVt3M) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 4:43 |
 | 30 | [Dreams and Nightmares](https://open.spotify.com/track/42zd6DYQ4o4SECmTITrM1U) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Dreams and Nightmares \(Deluxe Edition\)](https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7) | 3:50 |
 | 31 | [Motley Crew](https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Motley Crew](https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb) | 3:04 |
 | 32 | [Laugh Now Cry Later \(feat\. Lil Durk\)](https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Laugh Now Cry Later \(feat\. Lil Durk\)](https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43) | 4:21 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dTWjpijlub.md) - [plain]
 | 47 | [Many Men \(Wish Death\)](https://open.spotify.com/track/2I9foKseoFQh07p6sD2voE) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 4:16 |
 | 48 | [Dua Lipa](https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:15 |
 | 49 | [ELEMENT.](https://open.spotify.com/track/1EaKU4dMbesXXd3BrLCtYG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 3:28 |
-| 50 | [Time Today](https://open.spotify.com/track/0YrKSfpvflYnLSBd4Jtu6J) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 2:16 |
+| 50 | [Man Of The Year](https://open.spotify.com/track/5SsR3wtCOafDmZgvIdRhSm) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Oxymoron \(Deluxe\)](https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS) | 3:36 |
 
-Snapshot ID: `MCw4OTAyYmRhYzU3ZjAxMzM0ZmQ1NGNjOGNjMTU5NzRjY2Q5ODJiYjU4`
+Snapshot ID: `MCxkNDgxODcyN2ZjNjdmMmI4NTk3YzdjZjY5YTk2NDYzMmNiMzAxODhk`

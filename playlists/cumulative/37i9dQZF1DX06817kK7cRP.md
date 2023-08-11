@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-131 songs - 6 hr 1 min
+132 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Harvest Time](https://open.spotify.com/track/3ykIHaFm72d2vQJx5PW89z) | [Colombo](https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF), [Massaman](https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9) | [Golden Age](https://open.spotify.com/album/2jieVYlcnZeg15awQMbJS9) | 3:00 | 2023-01-12 |  |
 | [Heatwave](https://open.spotify.com/track/03gunYpOFHu4swpyry4QKX) | [Danny James](https://open.spotify.com/artist/2v04CAaxpr6sSELBPMOkoQ), [Es\-K](https://open.spotify.com/artist/0Ece4RFAFNTEpYaTHZWuhe), [John Culbreth](https://open.spotify.com/artist/1KfQchWVE79W6evo9dDBUN) | [Heatwave](https://open.spotify.com/album/5ifo18NW9f8DwVhvpTNJLg) | 3:11 | 2023-01-12 |  |
 | [Hidden Paradise](https://open.spotify.com/track/3d3Jq8vwoJOrELUtlUhVjp) | [Rudy Raw](https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton) | [Hidden Paradise](https://open.spotify.com/album/0GZnU5oouUt1kK02dzWrwt) | 2:27 | 2023-01-12 |  |
+| [high downforce](https://open.spotify.com/track/6Ybsa98LVmJAr15DwXSbzl) | [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [high downforce](https://open.spotify.com/album/2wVHvyrMgTFW0OazHPe7Zq) | 2:20 | 2023-08-08 |  |
 | [High Expectations](https://open.spotify.com/track/4rn17OCKU2IAPEPVOi8kPy) | [sentiment:lo](https://open.spotify.com/artist/1l0WI0auKXfzkkkk3QQT5g), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [High Expectations](https://open.spotify.com/album/6Or8HJNSBISRJNgukN5tyd) | 2:16 | 2023-04-13 |  |
 | [Howling At The Moon](https://open.spotify.com/track/5IyU0HxuVZzOE21069VnO4) | [Josie Stalilao](https://open.spotify.com/artist/6aqE8FL1Y1WG54YIVoPlXL) | [Howling At The Moon](https://open.spotify.com/album/6LofXWI8NGoRAyIiam9G9y) | 3:35 | 2023-03-02 |  |
 | [I Remember](https://open.spotify.com/track/0uhAmpy7XNbshBNnRXDXAS) | [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [I Remember](https://open.spotify.com/album/20SUhlhJJXqMfNB44TMbgi) | 2:21 | 2023-01-12 |  |
@@ -89,7 +90,7 @@
 | [Nostalgia](https://open.spotify.com/track/21huKjQlBFcumcRIwhFWG1) | [Teau](https://open.spotify.com/artist/6arVgorLsaKvsc3UfABGID), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Nostalgia](https://open.spotify.com/album/4HFk3XAwn2CwQb0i8Dw3xg) | 2:25 | 2023-01-12 |  |
 | [November Mist](https://open.spotify.com/track/1EbeTYCIUUApmpeDMwrqUD) | [LeVirya](https://open.spotify.com/artist/2ZTkcW4qIScKWuYhZlzopf), [gHSTS & gUITARS](https://open.spotify.com/artist/34DHE51D7CmCNvHp9nFTJy) | [November Mist](https://open.spotify.com/album/6wj3M8lH58h6ggzPvMjy7b) | 2:36 | 2023-01-12 | 2023-01-18 |
 | [Obrigado](https://open.spotify.com/track/5TgSbnEEKjhHBNcpMNXsiE) | [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF), [Jonah Brooks](https://open.spotify.com/artist/38Zp3DIfdT9K3kd65Unxfl) | [Obrigado](https://open.spotify.com/album/6iaonLGSDcCXwz4pv7BhXl) | 2:28 | 2023-02-23 |  |
-| [Offshore](https://open.spotify.com/track/4PzbSfedeciLUTHQ4e2xNo) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [Offshore](https://open.spotify.com/album/6EbvFpsiICmHXYTHlHslke) | 2:57 | 2023-01-12 |  |
+| [Offshore](https://open.spotify.com/track/4PzbSfedeciLUTHQ4e2xNo) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [Offshore](https://open.spotify.com/album/6EbvFpsiICmHXYTHlHslke) | 2:57 | 2023-01-12 | 2023-08-11 |
 | [Orange Dawn](https://open.spotify.com/track/5h849dbRZVoyMM4hwKG2Om) | [Second Harbor](https://open.spotify.com/artist/4MjEXq0X0k1Sn1JZNaz3yM), [yani](https://open.spotify.com/artist/6TdK92VfuJbFh7aNmGv6li) | [Orange Dawn](https://open.spotify.com/album/32XqONQww8kzR6E6Of9xXe) | 2:01 | 2023-01-12 |  |
 | [Orilla Del Mar](https://open.spotify.com/track/4sshFtDRFl9ZxlxnJg2IWk) | [Mattari](https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC) | [Orilla Del Mar](https://open.spotify.com/album/6qjFjgMpi6nHlYAWx80XRl) | 2:38 | 2023-01-12 |  |
 | [Passenger](https://open.spotify.com/track/4a1xFaCJZT4HTeu2cW49Wa) | [khoa](https://open.spotify.com/artist/2Sytd0z30yOj3b5IOfOUWj), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [Passenger](https://open.spotify.com/album/4HOcowkkQ2CMEVj13FQdPF) | 2:35 | 2023-02-02 |  |

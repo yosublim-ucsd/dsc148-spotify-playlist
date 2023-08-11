@@ -1,12 +1,12 @@
 {
   "description": "Un surtido rico de canciones con sabor a M\u00e9xico. ",
-  "num_followers": 168632,
+  "num_followers": 168709,
   "original_name": "La Pozoliza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWYyNDE1OWRjYmU4ZjJmMjYzZThjN2Q1OWI5YWY2ZTYyZWEyNzg5",
+  "snapshot_id": "MCwxYzE5NTMzZGE4MzM3NzA5MjE3YTY1NGVhMDdkYThjNDA2OTExMmMw",
   "tracks": [
     {
       "added_at": "2023-08-08 22:27:59",
@@ -159,22 +159,22 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "Botella Tras Botella",
-        "url": "https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB"
+        "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b"
       },
       "artists": [
         {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         },
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         }
       ],
-      "duration_ms": 197333,
-      "name": "Botella Tras Botella",
-      "url": "https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK"
+      "duration_ms": 165848,
+      "name": "EL AMOR DE SU VIDA",
+      "url": "https://open.spotify.com/track/435g6uM0Atz3MyYwafHEss"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -215,6 +215,26 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
+        "name": "Botella Tras Botella",
+        "url": "https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Botella Tras Botella",
+      "url": "https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
         "name": "Chale",
         "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
       },
@@ -227,26 +247,6 @@
       "duration_ms": 170744,
       "name": "Chale",
       "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
-        "name": "El Comienzo",
-        "url": "https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 165848,
-      "name": "EL AMOR DE SU VIDA",
-      "url": "https://open.spotify.com/track/435g6uM0Atz3MyYwafHEss"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "Cabron Yo Puedo",
-        "url": "https://open.spotify.com/album/16fcH6jZ8UIklIhEvKG74x"
-      },
-      "artists": [
-        {
-          "name": "Grupo Origen",
-          "url": "https://open.spotify.com/artist/3Ubb7uWOUwy2ahz3qu21C7"
-        }
-      ],
-      "duration_ms": 195895,
-      "name": "Cabron Yo Puedo",
-      "url": "https://open.spotify.com/track/0mP1c16IbyvTQvNMYKZ3Mx"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
         "name": "Joan Sebastian Con Mariachi",
         "url": "https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 211255,
       "name": "Tatuajes",
       "url": "https://open.spotify.com/track/57dG9il4j7Hi7G8Cqgi0Ts"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
+        "name": "Cabron Yo Puedo",
+        "url": "https://open.spotify.com/album/16fcH6jZ8UIklIhEvKG74x"
+      },
+      "artists": [
+        {
+          "name": "Grupo Origen",
+          "url": "https://open.spotify.com/artist/3Ubb7uWOUwy2ahz3qu21C7"
+        }
+      ],
+      "duration_ms": 195895,
+      "name": "Cabron Yo Puedo",
+      "url": "https://open.spotify.com/track/0mP1c16IbyvTQvNMYKZ3Mx"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "Partido En Dos",
-        "url": "https://open.spotify.com/album/3dWmlJJXZtKofrXUHSkfgw"
-      },
-      "artists": [
-        {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
-        }
-      ],
-      "duration_ms": 226003,
-      "name": "Partido En Dos",
-      "url": "https://open.spotify.com/track/1GBaQ3nnwxO3WVDUzKZ4kX"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
         "name": "Secreto De Amor",
         "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 207586,
       "name": "Me Gustas",
       "url": "https://open.spotify.com/track/7jtbRKtXtGtsJOBMaBo72W"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
+        "name": "Partido En Dos",
+        "url": "https://open.spotify.com/album/3dWmlJJXZtKofrXUHSkfgw"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "duration_ms": 226003,
+      "name": "Partido En Dos",
+      "url": "https://open.spotify.com/track/1GBaQ3nnwxO3WVDUzKZ4kX"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "D\u00e9cimo Aniversario",
-        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 164360,
-      "name": "Tranquilito",
-      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
         "name": "Mexico en la Piel (edicion diamante)",
         "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 200386,
       "name": "Sabes Una Cosa",
       "url": "https://open.spotify.com/track/21Ullb4TU8qMsQd0Iselng"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
+        "name": "D\u00e9cimo Aniversario",
+        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 164360,
+      "name": "Tranquilito",
+      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
+        "name": "Situaciones",
+        "url": "https://open.spotify.com/album/5XvNbyN3sB7nEdhw43CPmM"
+      },
+      "artists": [
+        {
+          "name": "Palomo",
+          "url": "https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj"
+        }
+      ],
+      "duration_ms": 233706,
+      "name": "De Uno y De Todos Los Modos - Version Bolero",
+      "url": "https://open.spotify.com/track/6DkNnb8nBR1uuqaSVWQgfm"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
         "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
         "url": "https://open.spotify.com/album/1un5ATKBBkOD7L9d2e7sUD"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 155818,
       "name": "Y Sigues Siendo T\u00fa",
       "url": "https://open.spotify.com/track/4AGPU9325LRTIBsBSJ5v75"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
-        "name": "Situaciones",
-        "url": "https://open.spotify.com/album/5XvNbyN3sB7nEdhw43CPmM"
-      },
-      "artists": [
-        {
-          "name": "Palomo",
-          "url": "https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj"
-        }
-      ],
-      "duration_ms": 233706,
-      "name": "De Uno y De Todos Los Modos - Version Bolero",
-      "url": "https://open.spotify.com/track/6DkNnb8nBR1uuqaSVWQgfm"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
+        "name": "Todo tuyo",
+        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        }
+      ],
+      "duration_ms": 235906,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
         "name": "T\u00fa (En Vivo)",
         "url": "https://open.spotify.com/album/2HLfld8eQ6u2MvxH80WzBK"
       },
@@ -1175,22 +1191,6 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "Todo tuyo",
-        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        }
-      ],
-      "duration_ms": 235906,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
         "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
         "url": "https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq"
       },
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 182480,
-      "name": "Y Me Da Verg\u00fcenza",
-      "url": "https://open.spotify.com/track/3FR3GIiCGl3NzBYgbbpLJe"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
         "name": "Mejor As\u00ed",
         "url": "https://open.spotify.com/album/0fa1WYDpSKEHiCj3YTtsDq"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 168074,
       "name": "Mejor As\u00ed",
       "url": "https://open.spotify.com/track/0lmmvf2eUzkjNlDWctEibC"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
+        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 182480,
+      "name": "Y Me Da Verg\u00fcenza",
+      "url": "https://open.spotify.com/track/3FR3GIiCGl3NzBYgbbpLJe"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/5TPUAeZb0S1JxxUZeGWbUW"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 151773,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/1kJXYVVUu7o3B9gaJpoxjm"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
         "name": "Cosas De Enamorados",
         "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 222946,
       "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
       "url": "https://open.spotify.com/track/5KSwwf96ITyukZpWfazLzS"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
+        "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 193816,
+      "name": "NO SE VA - EN VIVO",
+      "url": "https://open.spotify.com/track/0Y1lSCcxjfyyvmfgMJ1ukA"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -1371,6 +1371,22 @@
       "duration_ms": 225705,
       "name": "Poco",
       "url": "https://open.spotify.com/track/6VZMIyzOupI4vA68RaUgXb"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/5TPUAeZb0S1JxxUZeGWbUW"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 151773,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/1kJXYVVUu7o3B9gaJpoxjm"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -1431,22 +1447,6 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "Tucanes De Oro ... Secuestro De Amor",
-        "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 174160,
-      "name": "El Tucanazo",
-      "url": "https://open.spotify.com/track/07Ag8vm1pW409NrhpPokFg"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
         "name": "C\u00f3mo Te Voy a Olvidar",
         "url": "https://open.spotify.com/album/3hgqQV4fVY9QfSyJOopuRl"
       },
@@ -1463,6 +1463,38 @@
       "duration_ms": 216986,
       "name": "Mis Sentimientos",
       "url": "https://open.spotify.com/track/2tyEPvpKX4m20YOGo5W6O4"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
+        "name": "Tucanes De Oro ... Secuestro De Amor",
+        "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 174160,
+      "name": "El Tucanazo",
+      "url": "https://open.spotify.com/track/07Ag8vm1pW409NrhpPokFg"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
+        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 166200,
+      "name": "Y As\u00ed Fue",
+      "url": "https://open.spotify.com/track/6rmVv5Nh80OfI8qWxHiyY2"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -1487,22 +1519,6 @@
       "duration_ms": 175172,
       "name": "Alguien Me Espera en Madrid",
       "url": "https://open.spotify.com/track/4EffpCSd0574GIKF9eKOUl"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
-        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 166200,
-      "name": "Y As\u00ed Fue",
-      "url": "https://open.spotify.com/track/6rmVv5Nh80OfI8qWxHiyY2"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -1539,22 +1555,6 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "El Comienzo",
-        "url": "https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 193816,
-      "name": "NO SE VA - EN VIVO",
-      "url": "https://open.spotify.com/track/0Y1lSCcxjfyyvmfgMJ1ukA"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
         "name": "Bandido de Amores",
         "url": "https://open.spotify.com/album/02hrAwGoK0AxRiQcl4oOST"
       },
@@ -1583,26 +1583,6 @@
       "duration_ms": 187400,
       "name": "Te Aprovechas",
       "url": "https://open.spotify.com/track/2gwPSweI4iehGyEkDYYxzF"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
-        "name": "No Me Beses",
-        "url": "https://open.spotify.com/album/5MjWs7elYagIL0FvQA21ic"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        },
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 174173,
-      "name": "No Me Beses",
-      "url": "https://open.spotify.com/track/09XxwOPCRnN7A75z6Z0OqR"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -1639,6 +1619,26 @@
       "duration_ms": 199314,
       "name": "Huapango Amor Ranchero",
       "url": "https://open.spotify.com/track/4h8xnS3HBT19lpOvOfctS5"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
+        "name": "No Me Beses",
+        "url": "https://open.spotify.com/album/5MjWs7elYagIL0FvQA21ic"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        },
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 174173,
+      "name": "No Me Beses",
+      "url": "https://open.spotify.com/track/09XxwOPCRnN7A75z6Z0OqR"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -1999,6 +1999,22 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
+        "name": "Soy Todo Tuyo",
+        "url": "https://open.spotify.com/album/0ExMixEC3UmmcUqajTEGUx"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 187373,
+      "name": "Soy Todo Tuyo",
+      "url": "https://open.spotify.com/track/1qgsZJWKgpVXV1AzOTaKPt"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
         "name": "Me Hace Tanto Bien",
         "url": "https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV"
       },
@@ -2035,22 +2051,6 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "Soy Todo Tuyo",
-        "url": "https://open.spotify.com/album/0ExMixEC3UmmcUqajTEGUx"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 187373,
-      "name": "Soy Todo Tuyo",
-      "url": "https://open.spotify.com/track/1qgsZJWKgpVXV1AzOTaKPt"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
         "name": "Las Compuse para Ti",
         "url": "https://open.spotify.com/album/6MPAzfdQFWe5IadlxhcUNv"
       },
@@ -2063,6 +2063,22 @@
       "duration_ms": 226285,
       "name": "La Mushasha Shula",
       "url": "https://open.spotify.com/track/4H8AfSDk1cWrYiV35VCdyA"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
+        "name": "El Malo",
+        "url": "https://open.spotify.com/album/5We7yGwHCRWuy7T5StvTwS"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 155802,
+      "name": "Me la Avente",
+      "url": "https://open.spotify.com/track/3nQ0FbZL6DTcGnu03Jpgzm"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -2167,22 +2183,6 @@
       "duration_ms": 226146,
       "name": "Me Estoy Acostumbrando A Ti",
       "url": "https://open.spotify.com/track/5oZa1smfDqlY8E2rfUgUEl"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
-        "name": "El Tropezon",
-        "url": "https://open.spotify.com/album/54vZCfkZRmqgXyNmmd0rqB"
-      },
-      "artists": [
-        {
-          "name": "Alame\u00f1os de la Sierra",
-          "url": "https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh"
-        }
-      ],
-      "duration_ms": 260728,
-      "name": "La Picare",
-      "url": "https://open.spotify.com/track/68Ur7kDx0OXW5BH0TxpAPn"
     }
   ],
   "unique_name": "La Pozoliza",

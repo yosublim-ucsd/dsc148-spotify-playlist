@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Nas",
-  "num_followers": 1622380,
+  "num_followers": 1622394,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTIzMjJkMDcxYTBkZWMwNDJmNTI5NmI5NThlZWY3NDkwNDFhNWRl",
+  "snapshot_id": "MCw0ZGZkNjAyY2U0OWM4MGRjMWE4MmQyNmJkOWYzZjdkOGQxNjRhZGM0",
   "tracks": [
     {
       "added_at": "2023-08-04 20:13:14",
@@ -427,26 +427,22 @@
     {
       "added_at": "2023-08-04 20:13:14",
       "album": {
-        "name": "Flying High",
-        "url": "https://open.spotify.com/album/3mn50bgjlejMFXVaOig2Pz"
+        "name": "hue_man nature",
+        "url": "https://open.spotify.com/album/7kVjOwhgEPAapTI57E7y1v"
       },
       "artists": [
         {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
         },
         {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        },
-        {
-          "name": "billy woods",
-          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
+          "name": "No ID",
+          "url": "https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH"
         }
       ],
-      "duration_ms": 218600,
-      "name": "RIP Tracy (feat. Earl Sweatshirt & billy woods)",
-      "url": "https://open.spotify.com/track/2IUJBpKPp9jW3p2d4EbkmB"
+      "duration_ms": 100666,
+      "name": "hue_man nature",
+      "url": "https://open.spotify.com/track/2cVIKCgIfYOYyyXfQEstZN"
     },
     {
       "added_at": "2023-08-04 20:13:14",
@@ -467,22 +463,26 @@
     {
       "added_at": "2023-08-04 20:13:14",
       "album": {
-        "name": "hue_man nature",
-        "url": "https://open.spotify.com/album/7kVjOwhgEPAapTI57E7y1v"
+        "name": "Flying High",
+        "url": "https://open.spotify.com/album/3mn50bgjlejMFXVaOig2Pz"
       },
       "artists": [
         {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         },
         {
-          "name": "No ID",
-          "url": "https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH"
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        },
+        {
+          "name": "billy woods",
+          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
         }
       ],
-      "duration_ms": 100666,
-      "name": "hue_man nature",
-      "url": "https://open.spotify.com/track/2cVIKCgIfYOYyyXfQEstZN"
+      "duration_ms": 218600,
+      "name": "RIP Tracy (feat. Earl Sweatshirt & billy woods)",
+      "url": "https://open.spotify.com/track/2IUJBpKPp9jW3p2d4EbkmB"
     },
     {
       "added_at": "2023-08-04 20:13:14",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-08-04 20:13:14",
       "album": {
-        "name": "TEXAS BOY",
-        "url": "https://open.spotify.com/album/3MtKbdsPYG1uJWwk16qAVH"
-      },
-      "artists": [
-        {
-          "name": "Mike Dimes",
-          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
-        }
-      ],
-      "duration_ms": 174576,
-      "name": "ALL 4 YOU",
-      "url": "https://open.spotify.com/track/6PTEIszOGU733zIulViPjo"
-    },
-    {
-      "added_at": "2023-08-04 20:13:14",
-      "album": {
         "name": "Conway The Machine Presents: Drumwork The Album",
         "url": "https://open.spotify.com/album/23duSQFjfpcwNRHhYJmT2L"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 269439,
       "name": "Andre 3000 (feat. Bangladesh)",
       "url": "https://open.spotify.com/track/1Bm1hJhiao6NAT06jCdEsU"
+    },
+    {
+      "added_at": "2023-08-04 20:13:14",
+      "album": {
+        "name": "TEXAS BOY",
+        "url": "https://open.spotify.com/album/3MtKbdsPYG1uJWwk16qAVH"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        }
+      ],
+      "duration_ms": 174576,
+      "name": "ALL 4 YOU",
+      "url": "https://open.spotify.com/track/6PTEIszOGU733zIulViPjo"
     },
     {
       "added_at": "2023-08-04 20:13:14",

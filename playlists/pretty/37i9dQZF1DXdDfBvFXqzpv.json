@@ -1,12 +1,12 @@
 {
   "description": "Discover your personalized playlist of tracks from FIFA '98 to FIFA '23.",
-  "num_followers": 95564,
+  "num_followers": 95631,
   "original_name": "EA SPORTS FIFA Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTU2ZmVjNzI1ZDExMWQwNDFjYWQxOTIyMTI0NTIyYmJjYjQ1MjQw",
+  "snapshot_id": "MCxiYzJkZDk3YTY0N2RiMDdmN2YwM2JkMDBjNTljNTNiYjY1MjhlNzY3",
   "tracks": [
     {
       "added_at": "2022-11-02 14:00:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "The Slow Rush",
-        "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 239266,
-      "name": "Is It True",
-      "url": "https://open.spotify.com/track/6RZmhpvukfyeSURhf4kZ0d"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Night Visions (Deluxe)",
         "url": "https://open.spotify.com/album/1rzDtYMpZDhRgKNigB467r"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 189840,
       "name": "On Top Of The World",
       "url": "https://open.spotify.com/track/6KuHjfXHkfnIjdmcIvt9r0"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "The Slow Rush",
+        "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 239266,
+      "name": "Is It True",
+      "url": "https://open.spotify.com/track/6RZmhpvukfyeSURhf4kZ0d"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Forbidden Feelingz",
+        "url": "https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 166356,
+      "name": "Forbidden Feelingz",
+      "url": "https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "Waterfall",
         "url": "https://open.spotify.com/album/2GDxorOmiV0k1LnoAoiTIi"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 232120,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/3X2Aw6bQ7TfMMKsTzjTlDg"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Forbidden Feelingz",
-        "url": "https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW"
-      },
-      "artists": [
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        }
-      ],
-      "duration_ms": 166356,
-      "name": "Forbidden Feelingz",
-      "url": "https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Woodstock",
-        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 246786,
-      "name": "Live in the Moment",
-      "url": "https://open.spotify.com/track/60eOMEt3WNVX1m1jmApmnX"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Paradise Again",
         "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 186805,
       "name": "Lifetime (with Ty Dolla $ign & 070 Shake)",
       "url": "https://open.spotify.com/track/3QqHt507QJZCzluEYsnv4u"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Woodstock",
+        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 246786,
+      "name": "Live in the Moment",
+      "url": "https://open.spotify.com/track/60eOMEt3WNVX1m1jmApmnX"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Kasabian",
+        "url": "https://open.spotify.com/album/0VyDvw4MT9XDoSzE24yBCc"
+      },
+      "artists": [
+        {
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+        }
+      ],
+      "duration_ms": 214373,
+      "name": "Club Foot",
+      "url": "https://open.spotify.com/track/6C0xucNj75wRdlejwWIEW1"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "Que Calor (feat. J Balvin & El Alfa)",
         "url": "https://open.spotify.com/album/5AKSUA3pizhoVgfjW1ijVC"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 169997,
       "name": "Que Calor (feat. J Balvin & El Alfa)",
       "url": "https://open.spotify.com/track/1RKZvaLj3UPhGjZkaIrFm7"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Kasabian",
-        "url": "https://open.spotify.com/album/0VyDvw4MT9XDoSzE24yBCc"
-      },
-      "artists": [
-        {
-          "name": "Kasabian",
-          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
-        }
-      ],
-      "duration_ms": 214373,
-      "name": "Club Foot",
-      "url": "https://open.spotify.com/track/6C0xucNj75wRdlejwWIEW1"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "A Grand Don't Come for Free",
-        "url": "https://open.spotify.com/album/365ETCJBUmEWroc4UGBS1u"
-      },
-      "artists": [
-        {
-          "name": "The Streets",
-          "url": "https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi"
-        }
-      ],
-      "duration_ms": 254266,
-      "name": "Fit but You Know It",
-      "url": "https://open.spotify.com/track/312A8WfROSLvZbMDHBUPDp"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "LCD Soundsystem",
         "url": "https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL"
       },
@@ -1323,18 +1307,18 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Sadnecessary (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/3AWjk0oVV9YAY9r9boiffN"
+        "name": "A Grand Don't Come for Free",
+        "url": "https://open.spotify.com/album/365ETCJBUmEWroc4UGBS1u"
       },
       "artists": [
         {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+          "name": "The Streets",
+          "url": "https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi"
         }
       ],
-      "duration_ms": 240973,
-      "name": "Down By The River",
-      "url": "https://open.spotify.com/track/5U0AcKclgf0AbG11AUFLht"
+      "duration_ms": 254266,
+      "name": "Fit but You Know It",
+      "url": "https://open.spotify.com/track/312A8WfROSLvZbMDHBUPDp"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1351,6 +1335,22 @@
       "duration_ms": 219920,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/78twQ5XCFJMTE37ZSU0gsj"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Sadnecessary (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/3AWjk0oVV9YAY9r9boiffN"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 240973,
+      "name": "Down By The River",
+      "url": "https://open.spotify.com/track/5U0AcKclgf0AbG11AUFLht"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Window",
-        "url": "https://open.spotify.com/album/4JxgricHyH0BbMUaefAHfR"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 139293,
-      "name": "Window",
-      "url": "https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Wild World (Complete Edition)",
         "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 200987,
       "name": "Send Them Off!",
       "url": "https://open.spotify.com/track/4Wg7VfvO7NVG57R8cSPDQG"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Window",
+        "url": "https://open.spotify.com/album/4JxgricHyH0BbMUaefAHfR"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 139293,
+      "name": "Window",
+      "url": "https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Welcome To The Monkey House",
+        "url": "https://open.spotify.com/album/2SS8nVmmgJqJhRuYGboIOx"
+      },
+      "artists": [
+        {
+          "name": "The Dandy Warhols",
+          "url": "https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod"
+        }
+      ],
+      "duration_ms": 199960,
+      "name": "We Used To Be Friends",
+      "url": "https://open.spotify.com/track/7hpFYWL3cw5m4y70cce7Zb"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "Youth And Young Manhood",
         "url": "https://open.spotify.com/album/2137zeBGNgOWP4D96q6qxd"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 352003,
       "name": "I Can Change",
       "url": "https://open.spotify.com/track/2073QOEC8rBtSyTsRyaWiP"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Welcome To The Monkey House",
-        "url": "https://open.spotify.com/album/2SS8nVmmgJqJhRuYGboIOx"
-      },
-      "artists": [
-        {
-          "name": "The Dandy Warhols",
-          "url": "https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod"
-        }
-      ],
-      "duration_ms": 199960,
-      "name": "We Used To Be Friends",
-      "url": "https://open.spotify.com/track/7hpFYWL3cw5m4y70cce7Zb"
     },
     {
       "added_at": "2022-11-02 14:00:00",

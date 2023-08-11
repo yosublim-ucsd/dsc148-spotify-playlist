@@ -1,12 +1,12 @@
 {
   "description": "The hip-hop party soundtrack of summer, past and present.",
-  "num_followers": 10558,
+  "num_followers": 10627,
   "original_name": "Dear Summer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjRkOTMwM2Y2NjRlZjYyNzEzZGZiY2I4MjY4ZmZkZWJlNzYwMzMw",
+  "snapshot_id": "MCw1YmY4NzZhNDE4YzQ4YWY1MTQ2MmYyZWQ2OTk1ZTUzYjA5Y2QyMjk1",
   "tracks": [
     {
       "added_at": "2023-07-07 04:00:00",
@@ -45,6 +45,26 @@
       "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
     },
     {
+      "added_at": "2023-08-07 04:00:00",
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 246133,
+      "name": "MELTDOWN (feat. Drake)",
+      "url": "https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb"
+    },
+    {
       "added_at": "2023-07-07 04:00:00",
       "album": {
         "name": "HEROES & VILLAINS",
@@ -67,26 +87,6 @@
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
-    },
-    {
-      "added_at": "2023-08-07 04:00:00",
-      "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 246133,
-      "name": "MELTDOWN (feat. Drake)",
-      "url": "https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -181,24 +181,28 @@
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
     },
     {
-      "added_at": "2023-08-07 04:00:00",
+      "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
       },
       "artists": [
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
         },
         {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 191700,
-      "name": "FE!N (feat. Playboi Carti)",
-      "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
+      "duration_ms": 199920,
+      "name": "Too Many Nights (feat. Don Toliver & with Future)",
+      "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -237,32 +241,24 @@
       "url": "https://open.spotify.com/track/0e7ipj03S05BNilyu5bRzt"
     },
     {
-      "added_at": "2023-07-07 04:00:00",
+      "added_at": "2023-08-07 04:00:00",
       "album": {
-        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
       "artists": [
         {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         },
         {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        },
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
-      "duration_ms": 219453,
-      "name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
-      "url": "https://open.spotify.com/track/5rurggqwwudn9clMdcchxT"
+      "duration_ms": 191700,
+      "name": "FE!N (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -305,20 +301,32 @@
       "url": "https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe"
     },
     {
-      "added_at": "2023-08-07 04:00:00",
+      "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
       },
       "artists": [
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 211582,
-      "name": "I KNOW ?",
-      "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
+      "duration_ms": 219453,
+      "name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/5rurggqwwudn9clMdcchxT"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -337,28 +345,20 @@
       "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
     },
     {
-      "added_at": "2023-07-07 04:00:00",
+      "added_at": "2023-08-07 04:00:00",
       "album": {
-        "name": "HEROES & VILLAINS",
-        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
       "artists": [
         {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 199920,
-      "name": "Too Many Nights (feat. Don Toliver & with Future)",
-      "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g"
+      "duration_ms": 211582,
+      "name": "I KNOW ?",
+      "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -415,18 +415,26 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "ASTROWORLD",
-        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
       },
       "artists": [
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 312820,
-      "name": "SICKO MODE",
-      "url": "https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h"
+      "duration_ms": 182666,
+      "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
+      "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -487,26 +495,18 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "HEROES & VILLAINS",
-        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+        "name": "ASTROWORLD",
+        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
       },
       "artists": [
         {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 182666,
-      "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
-      "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
+      "duration_ms": 312820,
+      "name": "SICKO MODE",
+      "url": "https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -873,20 +873,24 @@
       "url": "https://open.spotify.com/track/15EPc80XuFrb2LmOzGjuRg"
     },
     {
-      "added_at": "2023-07-07 04:00:00",
+      "added_at": "2023-08-07 04:00:00",
       "album": {
-        "name": "Hard To Love",
-        "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
+        "name": "JEALOUSY (feat. Cardi B)",
+        "url": "https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL"
       },
       "artists": [
         {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 164776,
-      "name": "Ocean Spray",
-      "url": "https://open.spotify.com/track/6dNOefmb6Lgl5vNtJsSajt"
+      "duration_ms": 174466,
+      "name": "JEALOUSY (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -915,6 +919,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Hard To Love",
+        "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 164776,
+      "name": "Ocean Spray",
+      "url": "https://open.spotify.com/track/6dNOefmb6Lgl5vNtJsSajt"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
       },
@@ -927,26 +947,6 @@
       "duration_ms": 243227,
       "name": "Sticky",
       "url": "https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa"
-    },
-    {
-      "added_at": "2023-08-07 04:00:00",
-      "album": {
-        "name": "JEALOUSY (feat. Cardi B)",
-        "url": "https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 174466,
-      "name": "JEALOUSY (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj"
     }
   ],
   "unique_name": "Dear Summer",

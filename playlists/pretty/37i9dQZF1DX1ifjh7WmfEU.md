@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ifjh7WmfEU.md) - [plain]
 
 > Affirmations\. Intentions\. Skin Care\. Self Care.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,752 likes - 166 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,785 likes - 166 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -175,4 +175,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ifjh7WmfEU.md) - [plain]
 | 165 | [Santa Cruz](https://open.spotify.com/track/75b0f1695j8tRmXL6cvtmb) | [Mary Steinbrecher](https://open.spotify.com/artist/2SKFOdoUtDTKWiIPfyerTa) | [Santa Cruz](https://open.spotify.com/album/49uampA9yQFlptFHMpghab) | 3:57 |
 | 166 | [Lyra](https://open.spotify.com/track/2SzsBwBFIiPquJXYAjPobX) | [Evening Tales from the Stars](https://open.spotify.com/artist/4VftS6I87aCiaNvLRYhgBM) | [Lyra](https://open.spotify.com/album/5L3UdjWZwLklOtFkA1VDNF) | 2:45 |
 
-Snapshot ID: `MCw4YzI0NDc5N2U5ZGIwZjBmNWIwNzVmNTVlZjgwNmMyMDc3OWYzZTg4`
+Snapshot ID: `MCw3OWVlYjdiNmM0MWJmMDc3ZmU3YjIxYTQwMTFmZTJkMzQ5NjAzN2I3`

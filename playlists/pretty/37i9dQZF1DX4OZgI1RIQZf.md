@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 
 > The best indie songs from all decades for your Halloween party
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,892 likes - 70 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,101 likes - 70 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,16 +67,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 57 | [Zombie Prom](https://open.spotify.com/track/7yMbT5HHdk8NpuchXIL18b) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Zombie Prom \(Hallowe'en At Home Edition\)](https://open.spotify.com/album/6PQJubA12Yap1KhrUruMfW) | 3:38 |
 | 58 | [Halloween](https://open.spotify.com/track/3DN3nPW5VDyGa48ELeXPU0) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Bad Moon Rising](https://open.spotify.com/album/5qZwFWvjfQF6uqrtMaCbO6) | 5:11 |
 | 59 | [Superstition](https://open.spotify.com/track/5Cl0OsI6tM9hakvx0GJMGQ) | [The Kills](https://open.spotify.com/artist/3099LW88NLyVLpaiNK89R8) | [Keep On Your Mean Side](https://open.spotify.com/album/7yosQ283GvPYGzKBjp6gzk) | 4:40 |
-| 60 | [I Died So I Could Haunt You](https://open.spotify.com/track/4KgMpCMGIQYWvCqwRHlwIJ) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [The Five Ghosts](https://open.spotify.com/album/1VNSdysVD6rAJKsW7IInNU) | 3:05 |
-| 61 | [Evil](https://open.spotify.com/track/0Sy6N3rl8dsccN9MwWHoWi) | [Chastity Belt](https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK) | [No Regerts](https://open.spotify.com/album/5psuEv9OT8vMrW9TOiCGVS) | 2:39 |
+| 60 | [Evil](https://open.spotify.com/track/0Sy6N3rl8dsccN9MwWHoWi) | [Chastity Belt](https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK) | [No Regerts](https://open.spotify.com/album/5psuEv9OT8vMrW9TOiCGVS) | 2:39 |
+| 61 | [I Died So I Could Haunt You](https://open.spotify.com/track/4KgMpCMGIQYWvCqwRHlwIJ) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [The Five Ghosts](https://open.spotify.com/album/1VNSdysVD6rAJKsW7IInNU) | 3:05 |
 | 62 | [Witches! Witches! Rest Now in the Fire](https://open.spotify.com/track/7a6SaJ71Kwn1caXPAY3OsB) | [Get Well Soon](https://open.spotify.com/artist/747B3lhFN6MsexRBAdYC9s) | [Rest Now, Weary Head! You Will Get Well Soon](https://open.spotify.com/album/48ypMHut6U8zn4AQlJdtcF) | 3:59 |
 | 63 | [Attack of the Ghost Riders](https://open.spotify.com/track/39us5jxLPBBrBMqCx8crY7) | [The Raveonettes](https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8) | [Whip It On](https://open.spotify.com/album/1beQ4oVlpOV8hr8WIoUouF) | 2:30 |
 | 64 | [Dark and Stormy](https://open.spotify.com/track/5o45wuK2lhBcwR3fSnakXL) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Dark and Stormy](https://open.spotify.com/album/7beMB0mRNOgPfrCyNlhXmk) | 4:55 |
 | 65 | [Skeleton Dance](https://open.spotify.com/track/1w4Nno8lOz0xv8KxvIqghO) | [Teleman](https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV) | [Breakfast](https://open.spotify.com/album/3w4m4CcL9u1R5THKkVFDdl) | 3:37 |
 | 66 | [Found Love in a Graveyard](https://open.spotify.com/track/6o1oknbpGILs6eG8q3j8vV) | [Veronica Falls](https://open.spotify.com/artist/0mgbAj6btHW215UxhLq1AV) | [Veronica Falls](https://open.spotify.com/album/14vFC84BzjOc8Ud9ga0vFi) | 3:59 |
-| 67 | [Pumpkin](https://open.spotify.com/track/0AhZO6ezTf9wIY3SySkqnl) | [Starlight Mints](https://open.spotify.com/artist/1PUcFRu2DyznyQS1nVIcEE) | [Drowaton](https://open.spotify.com/album/2juHcXKlRhdcmu0BrM2eBw) | 2:42 |
-| 68 | [Halloween on the Barbary Coast](https://open.spotify.com/track/7q7nZbhTbQotDE2P5vIJPL) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Hit to Death in the Future Head](https://open.spotify.com/album/1lynS5ouWEeWeMNT0XLqpJ) | 5:42 |
+| 67 | [Halloween on the Barbary Coast](https://open.spotify.com/track/7q7nZbhTbQotDE2P5vIJPL) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Hit to Death in the Future Head](https://open.spotify.com/album/1lynS5ouWEeWeMNT0XLqpJ) | 5:42 |
+| 68 | [Pumpkin](https://open.spotify.com/track/0AhZO6ezTf9wIY3SySkqnl) | [Starlight Mints](https://open.spotify.com/artist/1PUcFRu2DyznyQS1nVIcEE) | [Drowaton](https://open.spotify.com/album/2juHcXKlRhdcmu0BrM2eBw) | 2:42 |
 | 69 | [Skeleton Song](https://open.spotify.com/track/7H4N9ufe5nkeyAYvWg8OwB) | [Bambi L](https://open.spotify.com/artist/2pcRdJu290vEYb27Az15Vh) | [Skeleton Song](https://open.spotify.com/album/5WUaj6nUeHUVPqYnOfUORW) | 2:42 |
 | 70 | [Omen](https://open.spotify.com/track/5q8fHfyTc63KlySBCP8DFH) | [The Dø](https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj) | [Shake, Shook, Shaken](https://open.spotify.com/album/3GGJlh7y7yWax4SY3n9cag) | 2:53 |
 
-Snapshot ID: `MCw1NWVkN2YzOTZkN2QzNzBlYTJlZjc2N2U1NjlmNWFlMDU0N2M4YTlm`
+Snapshot ID: `MCw5ZjlmZDk3Njk1MjAyNDRhMGRjODczNThlYmEwODM1MTQ0NDE1NWY3`

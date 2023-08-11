@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 
 > Silky sounds for the sheets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,076,044 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,076,027 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,16 +72,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 62 | [Nobody Else](https://open.spotify.com/track/6eipQrmTw1N3nUfgLlEa2R) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 3:53 |
 | 63 | [Dream](https://open.spotify.com/track/1mAQAh6yg1dTmnlE84ZvEo) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Breezy](https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM) | 3:10 |
 | 64 | [Calling On You](https://open.spotify.com/track/7wYhcfgPUyML3FKfLwvBwk) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX) | [Pleasures U Like](https://open.spotify.com/album/1uVZharbta7UF0rqb1AU1F) | 4:40 |
-| 65 | [Company Pt\. 3](https://open.spotify.com/track/5KYOcGJM1wQHwrE6rVfg9y) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:00 |
-| 66 | [On It](https://open.spotify.com/track/4Xr6BbSSu5HhImp8vfxMbg) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 3:25 |
+| 65 | [On It](https://open.spotify.com/track/4Xr6BbSSu5HhImp8vfxMbg) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 3:25 |
+| 66 | [Company Pt\. 3](https://open.spotify.com/track/5KYOcGJM1wQHwrE6rVfg9y) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:00 |
 | 67 | [THINGS & SUCH](https://open.spotify.com/track/4Hv8QuMQfG7e6GWOWcXYKk) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 3:57 |
 | 68 | [Say You Want Me \- Single Version](https://open.spotify.com/track/1xTYy3K3hiTcoZfoD7culn) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Say You Want Me](https://open.spotify.com/album/0jKDicrmgUCTSNGRYXffXm) | 3:16 |
 | 69 | [Between Us \(feat\. Snoh Aalegra\)](https://open.spotify.com/track/759KqKQyDmTWJape4odo21) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [A Muse In Her Feelings](https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa) | 3:03 |
-| 70 | [Signs of Love Makin'](https://open.spotify.com/track/6RYynPLHZLnpwjejfGWpQl) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [I Wanna Go There](https://open.spotify.com/album/3skbBjGnAOqfy6ndwwOT4G) | 4:05 |
-| 71 | [Don't Stop](https://open.spotify.com/track/6stmHwlMLQbE8Z2N831ri6) | [GoGo Morrow](https://open.spotify.com/artist/5DdULwXLSGsEN2nMNoeaCO) | [Ready](https://open.spotify.com/album/4iqAFxy3MJKXwo1E0aYoQ7) | 2:31 |
-| 72 | [BPW](https://open.spotify.com/track/6u0JBv5NxVGRrFtJqFLpa7) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales, Mo' Tales: The Deluxe](https://open.spotify.com/album/4cogt2uqKoSyL61tzWaQei) | 3:22 |
-| 73 | [Tasty](https://open.spotify.com/track/6lSwB0f2MN7uhJT7q4dRvS) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [Tasty](https://open.spotify.com/album/44aLFnq6Fjpb3JBPKsEpaK) | 2:30 |
+| 70 | [BPW](https://open.spotify.com/track/6u0JBv5NxVGRrFtJqFLpa7) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales, Mo' Tales: The Deluxe](https://open.spotify.com/album/4cogt2uqKoSyL61tzWaQei) | 3:22 |
+| 71 | [Signs of Love Makin'](https://open.spotify.com/track/6RYynPLHZLnpwjejfGWpQl) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [I Wanna Go There](https://open.spotify.com/album/3skbBjGnAOqfy6ndwwOT4G) | 4:05 |
+| 72 | [Don't Stop](https://open.spotify.com/track/6stmHwlMLQbE8Z2N831ri6) | [GoGo Morrow](https://open.spotify.com/artist/5DdULwXLSGsEN2nMNoeaCO) | [Ready](https://open.spotify.com/album/4iqAFxy3MJKXwo1E0aYoQ7) | 2:31 |
+| 73 | [AMBRÉ'S INTERLUDE](https://open.spotify.com/track/3WwvdFw13kO3JF26XCKsGz) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 1:41 |
 | 74 | [Touch It \(Do It Well Pt\. 4\)](https://open.spotify.com/track/7mWB4XFFEKjysQaQzIg9QR) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Working On My Karma](https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59) | 4:31 |
-| 75 | [AMBRÉ'S INTERLUDE](https://open.spotify.com/track/3WwvdFw13kO3JF26XCKsGz) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 1:41 |
+| 75 | [Tasty](https://open.spotify.com/track/6lSwB0f2MN7uhJT7q4dRvS) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [Tasty](https://open.spotify.com/album/44aLFnq6Fjpb3JBPKsEpaK) | 2:30 |
 
-Snapshot ID: `MCxiYjkwODEwMmUxN2U0ODBiMzk1YWYzNjAyNWQ0OTZmZGYxNmVhNDc2`
+Snapshot ID: `MCw1Mjg1Y2ViZjlkMjE4YTlkNDcyMmU1N2RhZTk1MDBkZDA4YjcwOTYy`

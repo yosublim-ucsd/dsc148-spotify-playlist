@@ -4,7 +4,7 @@
 
 > Get ready for Ibiza season 2023\. See you on the dancefloor.
 
-198 songs - 12 hr 23 min
+199 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Push Up \- Original Mix](https://open.spotify.com/track/43OMUa5jouGCZEz9k9vooo) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Original Mix\)](https://open.spotify.com/album/4OPl8QJEF698sMfW76g5mK) | 4:00 | 2023-04-04 | 2023-07-13 |
 | [Rainfall \(Praise You\)](https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Rainfall \(Praise You\)](https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95) | 2:46 | 2022-08-26 |  |
 | [Rave \- Remix](https://open.spotify.com/track/1kMObCQiYe5opqybH7ZNPD) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl), [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Rave \(Remix\)](https://open.spotify.com/album/5zd1ybE8kkj5OEkfRdHJW6) | 3:59 | 2022-08-26 | 2023-06-08 |
+| [Rave \- Remix](https://open.spotify.com/track/1xcxd5hIP1hkU3IOebJkuo) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl), [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Rave \(Remix\)](https://open.spotify.com/album/6PyxW7J95s2e5ZuzoZcG0H) | 3:59 | 2023-07-26 |  |
 | [Rave Harder Techno Bass](https://open.spotify.com/track/1tkS8yt5NwTZkqFvZMxM0F) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8) | [Rave Harder Techno Bass](https://open.spotify.com/album/0GbjMnAZAeoHabYDB4IMYe) | 6:00 | 2022-08-26 | 2023-06-14 |
 | [Raw \- Tony Romera Remix](https://open.spotify.com/track/7lxbCUxQXJRkPQ1eErYZd3) | [Julio Navas](https://open.spotify.com/artist/1xTuChuImQkqK7A0aGaZqr), [Gustavo Bravetti](https://open.spotify.com/artist/3COgt6jQqmGpT8vM79C7R9), [David Amo](https://open.spotify.com/artist/6hnD17Gw6ohwryCf3D2AwD), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Raw \(Tony Romera Remix\)](https://open.spotify.com/album/05RVsgf3zkK6pcTHFmoNkZ) | 3:37 | 2022-08-26 |  |
 | [Redlight](https://open.spotify.com/track/48Jf12YHPBCAfAzi255Rvr) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 4:02 | 2022-08-26 |  |
@@ -154,7 +155,7 @@
 | [Relax My Eyes](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Relax My Eyes](https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN) | 3:12 | 2023-04-04 |  |
 | [Remember](https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Remember](https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF) | 2:40 | 2022-08-26 | 2023-07-13 |
 | [Rhyme Dust](https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Rhyme Dust](https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG) | 3:01 | 2023-04-04 |  |
-| [Rizzla](https://open.spotify.com/track/3mJyZXpI7SKiOA4l0pSm0v) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rizzla](https://open.spotify.com/album/0gWPTkI4xuHRPDbbHHjfqM) | 3:37 | 2022-08-26 |  |
+| [Rizzla](https://open.spotify.com/track/3mJyZXpI7SKiOA4l0pSm0v) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rizzla](https://open.spotify.com/album/0gWPTkI4xuHRPDbbHHjfqM) | 3:37 | 2022-08-26 | 2023-08-11 |
 | [Save Our Soul \- Rework 2021](https://open.spotify.com/track/2sTEiEN6OTO9Xi7ZE2DFs0) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Save Our Soul \(Rework 2021\)](https://open.spotify.com/album/6nhmbrMX50vf3l0AzOEaTx) | 2:36 | 2022-08-26 |  |
 | [Say It Again](https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Say It Again](https://open.spotify.com/album/6qmP3e4qPHcnj0576IRaV6) | 3:27 | 2022-08-26 |  |
 | [Serotonin Moonbeams](https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Serotonin Moonbeams](https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO) | 4:49 | 2023-04-04 |  |

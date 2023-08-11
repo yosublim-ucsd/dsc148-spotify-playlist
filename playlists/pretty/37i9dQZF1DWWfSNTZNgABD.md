@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfSNTZNgABD.md) - [plain]
 
 > The Latin soundtrack of the 2000s! Cover: Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,921 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,977 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfSNTZNgABD.md) - [plain]
 | 36 | [Espacio sideral](https://open.spotify.com/track/3OIoy3TNU7CL5PTaHOGmbR) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Esta Es Mi Vida](https://open.spotify.com/album/1DqezzIzunjysnTKPtxB98) | 3:42 |
 | 37 | [Sólo Quédate En Silencio](https://open.spotify.com/track/2RJ1fg4qf2vgZKifTa4HgA) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Rebelde](https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj) | 3:39 |
 | 38 | [Fotografía](https://open.spotify.com/track/0dEPlb8waIqRtKpLb3l6So) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 3:58 |
-| 39 | [El Amor](https://open.spotify.com/track/7e6PEtKY008duLXsAJ3TVQ) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh) | [El Patrón \(La Victoria\)](https://open.spotify.com/album/214muZYoc3ewXMXGwQBFVU) | 4:06 |
-| 40 | [Te necesito](https://open.spotify.com/track/0svWUjefj6RBlIQxA3VCvx) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [33](https://open.spotify.com/album/5HooteTWKKPU1GjuOo5Bpf) | 3:14 |
+| 39 | [Te necesito](https://open.spotify.com/track/0svWUjefj6RBlIQxA3VCvx) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [33](https://open.spotify.com/album/5HooteTWKKPU1GjuOo5Bpf) | 3:14 |
+| 40 | [El Amor](https://open.spotify.com/track/7e6PEtKY008duLXsAJ3TVQ) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh) | [El Patrón \(La Victoria\)](https://open.spotify.com/album/214muZYoc3ewXMXGwQBFVU) | 4:06 |
 | 41 | [Color Esperanza](https://open.spotify.com/track/3T07pNAEVr9adeIG9i1ex4) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Un Mundo Diferente](https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf) | 4:27 |
 | 42 | [The Ketchup Song \(Aserejé\) \- Spanglish Version](https://open.spotify.com/track/6UEfyhyfhYQsyipxOd95Ie) | [Las Ketchup](https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe) | [Hijas del Tomate](https://open.spotify.com/album/5Fs94v1xXPl8Q1mTMWMTLO) | 3:33 |
 | 43 | [Bendita Tu Luz](https://open.spotify.com/track/2JBs412fpVUuzIaIp3CyIs) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Amar Es Combatir](https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB) | 4:24 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfSNTZNgABD.md) - [plain]
 | 74 | [A Quien Le Importa](https://open.spotify.com/track/0R5da1qbsZ8juxK3Dm8XCw) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Thalia](https://open.spotify.com/album/5aHuKZqTY34cuOcIFfohrt) | 3:45 |
 | 75 | [Un Siglo Sin Ti](https://open.spotify.com/track/145YOwjGncJQZPKbfol7Xr) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Sincero](https://open.spotify.com/album/03dnIimGspec4sucffQWLO) | 4:40 |
 
-Snapshot ID: `MCw2NGVmYzk2ZmU5MjEzNmI4ODk0ZDg2NjllMzk2YWE4MGVjYWE1YzVj`
+Snapshot ID: `MCxmOTE3MWZjMzY2ZDA4MTAyYzc1MTg1MjFmNzMwNzAzODM0NDg1Yzg0`

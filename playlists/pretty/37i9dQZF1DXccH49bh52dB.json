@@ -1,12 +1,12 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 498852,
+  "num_followers": 499399,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTgzZWQ2MDEwOGRiNzViZmI2MmUwNmJjYTIzOTMyNWYwMjE1YWQ1",
+  "snapshot_id": "MCw3ZTgyNDlkZmVkYzQ0MmJkMzA4OWE4ZGMxZDE5NGUzNGY5YTAxZGU2",
   "tracks": [
     {
       "added_at": "2023-07-14 04:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Food for the Soul",
-        "url": "https://open.spotify.com/album/3U20hCbqPM745vgo0PVcmw"
-      },
-      "artists": [
-        {
-          "name": "it's murph",
-          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
-        }
-      ],
-      "duration_ms": 210562,
-      "name": "Food for the Soul",
-      "url": "https://open.spotify.com/track/7u0fz3V6cYeYTX91DMmIvQ"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Strong",
         "url": "https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 234053,
       "name": "Strong",
       "url": "https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Food for the Soul",
+        "url": "https://open.spotify.com/album/3U20hCbqPM745vgo0PVcmw"
+      },
+      "artists": [
+        {
+          "name": "it's murph",
+          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
+        }
+      ],
+      "duration_ms": 210562,
+      "name": "Food for the Soul",
+      "url": "https://open.spotify.com/track/7u0fz3V6cYeYTX91DMmIvQ"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -867,18 +867,22 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Jacar\u00e9",
-        "url": "https://open.spotify.com/album/6tVrvnbU1sLGGegMIEYexO"
+        "name": "Forever And A Day",
+        "url": "https://open.spotify.com/album/36WARq51pYeQO75a2YNjaj"
       },
       "artists": [
         {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Caroline Byrne",
+          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
         }
       ],
-      "duration_ms": 156620,
-      "name": "Jacar\u00e9",
-      "url": "https://open.spotify.com/track/1WY17VGE4rQjsyWi1Tw3be"
+      "duration_ms": 166230,
+      "name": "Forever And A Day",
+      "url": "https://open.spotify.com/track/5o1mS67lEoLCeFobGIaNb2"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -903,22 +907,18 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Forever And A Day",
-        "url": "https://open.spotify.com/album/36WARq51pYeQO75a2YNjaj"
+        "name": "Jacar\u00e9",
+        "url": "https://open.spotify.com/album/6tVrvnbU1sLGGegMIEYexO"
       },
       "artists": [
         {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Caroline Byrne",
-          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
         }
       ],
-      "duration_ms": 166230,
-      "name": "Forever And A Day",
-      "url": "https://open.spotify.com/track/5o1mS67lEoLCeFobGIaNb2"
+      "duration_ms": 156620,
+      "name": "Jacar\u00e9",
+      "url": "https://open.spotify.com/track/1WY17VGE4rQjsyWi1Tw3be"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Dance Dance (feat. Alessandra)",
-        "url": "https://open.spotify.com/album/0ZG7ELXwpcPfZTZlbBW5TN"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Alessandra",
-          "url": "https://open.spotify.com/artist/5g1AQDQ0LUBpgZBmmuH88c"
-        }
-      ],
-      "duration_ms": 151065,
-      "name": "Dance Dance (feat. Alessandra)",
-      "url": "https://open.spotify.com/track/2UzWIjVXtv8PLa5JRKPYSb"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Caracal (Deluxe)",
         "url": "https://open.spotify.com/album/08ipn1MH7xqgoqhUbtvCTy"
       },
@@ -1063,6 +1043,26 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
+        "name": "Dance Dance (feat. Alessandra)",
+        "url": "https://open.spotify.com/album/0ZG7ELXwpcPfZTZlbBW5TN"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/5g1AQDQ0LUBpgZBmmuH88c"
+        }
+      ],
+      "duration_ms": 151065,
+      "name": "Dance Dance (feat. Alessandra)",
+      "url": "https://open.spotify.com/track/2UzWIjVXtv8PLa5JRKPYSb"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
         "name": "Pacific Standard Time",
         "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
       },
@@ -1075,6 +1075,22 @@
       "duration_ms": 368783,
       "name": "Harvest Moon",
       "url": "https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "SOLACE",
+        "url": "https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 237986,
+      "name": "No Place",
+      "url": "https://open.spotify.com/track/6rLQZW36LaEUGWl3sWTg7v"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1095,22 +1111,6 @@
       "duration_ms": 368316,
       "name": "Sexual Healing - Kygo Remix",
       "url": "https://open.spotify.com/track/7s1upm7yr7ZjrzXMwHawtG"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "SOLACE",
-        "url": "https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 237986,
-      "name": "No Place",
-      "url": "https://open.spotify.com/track/6rLQZW36LaEUGWl3sWTg7v"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1259,30 +1259,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Runaways (feat. Teemu)",
-        "url": "https://open.spotify.com/album/0cvwZJlRI7a6aUY3CB24dj"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
-        },
-        {
-          "name": "Teemu",
-          "url": "https://open.spotify.com/artist/00FaHSRJeGv1dbHhnqhHqz"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Runaways (feat. Teemu)",
-      "url": "https://open.spotify.com/track/7N3KIPb2x4FzKUeonhw9sd"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "A Moment Apart",
         "url": "https://open.spotify.com/album/3VzsvmhnUb9OZ59bq2aoNZ"
       },
@@ -1307,22 +1283,26 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Goodbye (feat. Lyse) [Radio Edit]",
-        "url": "https://open.spotify.com/album/2UGPPuVJHDKLYd9Z2G7zS4"
+        "name": "Runaways (feat. Teemu)",
+        "url": "https://open.spotify.com/album/0cvwZJlRI7a6aUY3CB24dj"
       },
       "artists": [
         {
-          "name": "Feder",
-          "url": "https://open.spotify.com/artist/5KnoVkIUGmK0PiDKMjz2LM"
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
         },
         {
-          "name": "Lyse",
-          "url": "https://open.spotify.com/artist/7K9peN1sknRNqPr9YEYedM"
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        },
+        {
+          "name": "Teemu",
+          "url": "https://open.spotify.com/artist/00FaHSRJeGv1dbHhnqhHqz"
         }
       ],
-      "duration_ms": 201938,
-      "name": "Goodbye (feat. Lyse) - Radio Edit",
-      "url": "https://open.spotify.com/track/3PnOOmkxruDDAiMYZZTgO7"
+      "duration_ms": 182400,
+      "name": "Runaways (feat. Teemu)",
+      "url": "https://open.spotify.com/track/7N3KIPb2x4FzKUeonhw9sd"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1351,26 +1331,22 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "never worry",
-        "url": "https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r"
+        "name": "Goodbye (feat. Lyse) [Radio Edit]",
+        "url": "https://open.spotify.com/album/2UGPPuVJHDKLYd9Z2G7zS4"
       },
       "artists": [
         {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+          "name": "Feder",
+          "url": "https://open.spotify.com/artist/5KnoVkIUGmK0PiDKMjz2LM"
         },
         {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+          "name": "Lyse",
+          "url": "https://open.spotify.com/artist/7K9peN1sknRNqPr9YEYedM"
         }
       ],
-      "duration_ms": 222624,
-      "name": "Sometimes\u2026 (with Daya & Earthgang)",
-      "url": "https://open.spotify.com/track/09MduMD14OZjmAxd6u1Qfi"
+      "duration_ms": 201938,
+      "name": "Goodbye (feat. Lyse) - Radio Edit",
+      "url": "https://open.spotify.com/track/3PnOOmkxruDDAiMYZZTgO7"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1391,6 +1367,30 @@
       "duration_ms": 221986,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/0fTiDOXRNEN0lUeYGoSHml"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "never worry",
+        "url": "https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 222624,
+      "name": "Sometimes\u2026 (with Daya & Earthgang)",
+      "url": "https://open.spotify.com/track/09MduMD14OZjmAxd6u1Qfi"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -2143,6 +2143,22 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
+        "name": "Fire Hell and Holy Water",
+        "url": "https://open.spotify.com/album/0ZTKj2OdsF2gI2npmAADAQ"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        }
+      ],
+      "duration_ms": 221966,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/6MdHVJhh0cQomfFevROFuJ"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
         "name": "Let You Love Me (M\u00f6we Remix)",
         "url": "https://open.spotify.com/album/4OAnWD1IinbLW6ZTKehAh2"
       },
@@ -2159,22 +2175,6 @@
       "duration_ms": 186394,
       "name": "Let You Love Me - M\u00f6we Remix",
       "url": "https://open.spotify.com/track/4M0pT9kNYndhyPw15ZDR8C"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Fire Hell and Holy Water",
-        "url": "https://open.spotify.com/album/0ZTKj2OdsF2gI2npmAADAQ"
-      },
-      "artists": [
-        {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
-        }
-      ],
-      "duration_ms": 221966,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/6MdHVJhh0cQomfFevROFuJ"
     },
     {
       "added_at": "2023-07-14 04:00:00",

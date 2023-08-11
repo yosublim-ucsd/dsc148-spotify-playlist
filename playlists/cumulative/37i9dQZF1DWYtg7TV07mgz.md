@@ -4,7 +4,7 @@
 
 > Floorfillers galore from the 90s and 00s.
 
-66 songs - 4 hr 16 min
+67 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,12 +28,13 @@
 | [Finally](https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv) | [CeCe Peniston](https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD) | [Finally](https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip) | 4:05 | 2022-07-05 | 2023-07-12 |
 | [Freed From Desire](https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ) | [Come Into My Life \(The Album\)](https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe) | 3:33 | 2022-07-05 |  |
 | [Galvanize](https://open.spotify.com/track/4bz7uB4edifWKJXSDxwHcs) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Push The Button](https://open.spotify.com/album/715rku55lldqdw9WiEuPgi) | 6:33 | 2022-07-05 |  |
+| [Get Up \(Rattle\) \[feat\. Far East Movement\] \- Vocal Edit](https://open.spotify.com/track/3wLPRjw2XQpmowqXUXb3UF) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq) | [Get Up \(Rattle\) \[feat\. Far East Movement\]](https://open.spotify.com/album/2i27N4YvO0SHfZtMyBUnj6) | 2:46 | 2022-07-05 |  |
 | [Greyhound](https://open.spotify.com/track/0VffaI2jwQknRrxpECYHsF) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Until Now](https://open.spotify.com/album/4ljisoNarj0BpQSMIEv88L) | 6:50 | 2022-07-05 | 2023-08-03 |
 | [Heaven](https://open.spotify.com/track/72SpPFrMYCXLB3Fbw9tEgf) | [DJ Sammy](https://open.spotify.com/artist/4z4m1P0iX2nRSPDBEZ8LBT), [Yanou](https://open.spotify.com/artist/5SWX583ExJOL7cv8572Crs), [Do](https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg) | [Heaven](https://open.spotify.com/album/7KHjkfgCVwog38yBI0NcmR) | 3:53 | 2022-07-05 |  |
 | [Hey Boy Hey Girl](https://open.spotify.com/track/7kXmJwrZGIhDaLT9sNo3ut) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Surrender](https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3) | 4:50 | 2022-07-05 |  |
 | [Hideaway](https://open.spotify.com/track/51tUT1gHE30GQPhn1agudM) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Sound Of A Woman](https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr) | 4:11 | 2022-07-05 |  |
 | [How Deep Is Your Love](https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB) | [How Deep Is Your Love](https://open.spotify.com/album/3cG32DOXJoYlOHMmJIaQsm) | 3:32 | 2022-07-05 | 2023-07-12 |
-| [I Could Be The One \(Avicii Vs\. Nicky Romero\) \- Radio Edit](https://open.spotify.com/track/591nHHHzZl1NLt9PMKpinM) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [I Could Be The One \[Avicii vs Nicky Romero\]](https://open.spotify.com/album/292ltz2MxXuFZw9FaEbaZ3) | 3:28 | 2022-07-05 |  |
+| [I Could Be The One \(Avicii Vs\. Nicky Romero\) \- Radio Edit](https://open.spotify.com/track/591nHHHzZl1NLt9PMKpinM) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [I Could Be The One \[Avicii vs Nicky Romero\]](https://open.spotify.com/album/292ltz2MxXuFZw9FaEbaZ3) | 3:28 | 2022-07-05 | 2023-08-11 |
 | [Infinity 2008 \- Klaas Vocal Edit](https://open.spotify.com/track/3aQz0z86zrKjd1mcZlonxE) | [Guru Josh Project](https://open.spotify.com/artist/4ME85YvMUi1hdqhbind7gy), [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Infinity 2008](https://open.spotify.com/album/1uyF93NDsuRn4LqZIl3lyY) | 3:12 | 2022-07-05 |  |
 | [It's My Life](https://open.spotify.com/track/4539Tbm6Rt5BaNKXJJj9RH) | [Dr\. Alban](https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8) | [One Love](https://open.spotify.com/album/2f0OIKkTy3gT89i2N7BaHJ) | 3:59 | 2022-07-05 | 2023-07-12 |
 | [Kickstarts](https://open.spotify.com/track/07WEDHF2YwVgYuBugi2ECO) | [Example](https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW) | [Won't Go Quietly](https://open.spotify.com/album/4bwbOwRKR8I4eFPcL4UPuU) | 3:01 | 2022-07-05 |  |

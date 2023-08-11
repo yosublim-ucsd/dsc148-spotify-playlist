@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The Hottest Christian and Gospel music from across the African continent.  Cover:  <a href=\"https://open.spotify.com/artist/78yZ1ji9uBJVuMp8pXKoBK\">Nacee</a>",
+  "description": "The Hottest Christian and Gospel music from across the African continent.  Cover:  <a href=\"https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM?si=S-TAs2uXSRq79Y2n65rDkg\">Moses Bliss</a>",
   "name": "African Gospel Hits",
   "tracks": [
     {
@@ -2322,7 +2322,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 230232,
       "name": "IJO - Remix",
       "url": "https://open.spotify.com/track/25wN3PxCi7kegOz8YEvyhO"
@@ -3098,6 +3098,32 @@
       "duration_ms": 372240,
       "name": "Me Dan Wo (feat. Kweku Teye)",
       "url": "https://open.spotify.com/track/0Dl0uNmmlnO71cIuYX2jhF"
+    },
+    {
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/65dVjDK6IVyThRsk4S6Yxu"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        },
+        {
+          "name": "Pastor Jerry Eze",
+          "url": "https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1005517,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/1n2kZ1iuGpuxj8sr4NY8RL"
     },
     {
       "album": {
@@ -3936,6 +3962,28 @@
       "duration_ms": 552855,
       "name": "Obinigwe",
       "url": "https://open.spotify.com/track/5RvkS0NNUkOoYnDK6xf8xt"
+    },
+    {
+      "album": {
+        "name": "Ogo",
+        "url": "https://open.spotify.com/album/6lCqBg5DySvDfvZXNXSURk"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        },
+        {
+          "name": "Theophilus Sunday",
+          "url": "https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 648460,
+      "name": "Ogo",
+      "url": "https://open.spotify.com/track/2wKX6c2aXplDCJZT301jBM"
     },
     {
       "album": {
@@ -5352,7 +5400,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 252000,
       "name": "Ukholo Lwam (A Song of Hope)",
       "url": "https://open.spotify.com/track/2dKn2FL2h5quCnyE9ccxiy"

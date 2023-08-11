@@ -1,12 +1,12 @@
 {
   "description": "N.I.N.A e mais mulheres para serem ouvidas no volume m\u00e1ximo! ",
-  "num_followers": 149439,
+  "num_followers": 149451,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDhkYmQ0YmY0NzdjNmY5MGZhODUzNTJiNTU1ZmNiN2Y2ODIzNDIz",
+  "snapshot_id": "MCwzNjYzZjc2M2RlMDA2MjQ0YTVlNjRlNzMyNjhkNWYxMjE2N2FiYzdm",
   "tracks": [
     {
       "added_at": "2023-08-02 03:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-08-02 03:00:00",
       "album": {
-        "name": "ARRISCA",
-        "url": "https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc"
-      },
-      "artists": [
-        {
-          "name": "Majur",
-          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
-        }
-      ],
-      "duration_ms": 164819,
-      "name": "Del\u00edrios E Vibes",
-      "url": "https://open.spotify.com/track/5esOsyLikKaUpAUqfeILXC"
-    },
-    {
-      "added_at": "2023-08-02 03:00:00",
-      "album": {
         "name": "Pantera",
         "url": "https://open.spotify.com/album/3NSdLNoPmrSGXbHTiFdXiX"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 246965,
       "name": "Pantera",
       "url": "https://open.spotify.com/track/4MmhgIjjLSo3BdLL9ZIucd"
+    },
+    {
+      "added_at": "2023-08-02 03:00:00",
+      "album": {
+        "name": "ARRISCA",
+        "url": "https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc"
+      },
+      "artists": [
+        {
+          "name": "Majur",
+          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
+        }
+      ],
+      "duration_ms": 164819,
+      "name": "Del\u00edrios E Vibes",
+      "url": "https://open.spotify.com/track/5esOsyLikKaUpAUqfeILXC"
     },
     {
       "added_at": "2023-08-02 03:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-08-02 03:00:00",
       "album": {
-        "name": "Borboleta",
-        "url": "https://open.spotify.com/album/2p52v9xFZiI37yQrMz3To8"
-      },
-      "artists": [
-        {
-          "name": "Boombeat",
-          "url": "https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg"
-        }
-      ],
-      "duration_ms": 138139,
-      "name": "Borboleta",
-      "url": "https://open.spotify.com/track/7M7LwDM76QlNCie8KLG6qf"
-    },
-    {
-      "added_at": "2023-08-02 03:00:00",
-      "album": {
         "name": "Sem T\u00e9dio",
         "url": "https://open.spotify.com/album/1yAh1B0ycaq34ezgRWPIUc"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 180454,
       "name": "Sem T\u00e9dio",
       "url": "https://open.spotify.com/track/66UjpQNSCcrjLEGDFFSCc1"
+    },
+    {
+      "added_at": "2023-08-02 03:00:00",
+      "album": {
+        "name": "Borboleta",
+        "url": "https://open.spotify.com/album/2p52v9xFZiI37yQrMz3To8"
+      },
+      "artists": [
+        {
+          "name": "Boombeat",
+          "url": "https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg"
+        }
+      ],
+      "duration_ms": 138139,
+      "name": "Borboleta",
+      "url": "https://open.spotify.com/track/7M7LwDM76QlNCie8KLG6qf"
     },
     {
       "added_at": "2023-08-02 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6l1fwN15uV5.md) - [plain]
 
 > Take it easy with these laid back tracks from the eighties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,263,591 likes - 80 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,263,866 likes - 80 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6l1fwN15uV5.md) - [plain]
 | 22 | [Every Little Thing She Does Is Magic](https://open.spotify.com/track/44aTAUBF0g6sMkMNE8I5kd) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Ghost In The Machine \(Remastered 2003\)](https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h) | 4:20 |
 | 23 | [Self Control](https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [Self Control](https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D) | 4:06 |
 | 24 | [Don't Dream It's Over](https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Crowded House](https://open.spotify.com/album/1dJpgn1rqvvr4yyNYLEYBG) | 3:56 |
-| 25 | [Baby Can I Hold You](https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 3:13 |
-| 26 | [Another Day in Paradise \- 2016 Remaster](https://open.spotify.com/track/1NCuYqMc8hKMb4cpNTcJbD) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [...But Seriously \(Deluxe Edition\)](https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8) | 5:22 |
+| 25 | [Another Day in Paradise \- 2016 Remaster](https://open.spotify.com/track/1NCuYqMc8hKMb4cpNTcJbD) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [...But Seriously \(Deluxe Edition\)](https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8) | 5:22 |
+| 26 | [Baby Can I Hold You](https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 3:13 |
 | 27 | [I Just Called To Say I Love You](https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [At The Close Of A Century](https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z) | 4:22 |
 | 28 | [Alone](https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Bad Animals](https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e) | 3:38 |
 | 29 | [Hungry Eyes \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/31H6au3jhblhr6MMJiXnCq) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [The Definitive Collection](https://open.spotify.com/album/02CxAhdSRhzcm6XQ8m5RNp) | 4:11 |
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6l1fwN15uV5.md) - [plain]
 | 49 | [It's My Life \- 1997 Remaster](https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [It's My Life](https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf) | 3:52 |
 | 50 | [Easy Lover](https://open.spotify.com/track/5LYJ631w9ps5h9tdvac7yP) | [Philip Bailey](https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u), [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Chinese Wall \(Expanded Edition\)](https://open.spotify.com/album/59RsiGLQVyFHiFn2K5VNvX) | 5:05 |
 | 51 | [Missing You](https://open.spotify.com/track/1Qrdlkgg9I4J7r3P4kZNwr) | [John Waite](https://open.spotify.com/artist/2TPyCsRoh2tjeZLTQ2ojlj) | [No Brakes](https://open.spotify.com/album/65Uo74eW8L3zXUxSOlSm6H) | 4:29 |
-| 52 | [What's Love Got to Do with It](https://open.spotify.com/track/4kOfxxnW1ukZdsNbCKY9br) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [What's Love Got to Do with It?](https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o) | 3:46 |
+| 52 | [Caribbean Queen \(No More Love On the Run\)](https://open.spotify.com/track/4JEylZNW8SbO4zUyfVrpb7) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [The Very Best of Billy Ocean](https://open.spotify.com/album/7n4OT3zEZaEiyKKd6mFAhi) | 4:04 |
 | 53 | [Time After Time](https://open.spotify.com/track/1Jj6MF0xDOMA3Ut2Z368Bx) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual: A 30th Anniversary Celebration \(Deluxe Edition\)](https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX) | 4:03 |
-| 54 | [Caribbean Queen \(No More Love On the Run\)](https://open.spotify.com/track/4JEylZNW8SbO4zUyfVrpb7) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [The Very Best of Billy Ocean](https://open.spotify.com/album/7n4OT3zEZaEiyKKd6mFAhi) | 4:04 |
+| 54 | [What's Love Got to Do with It](https://open.spotify.com/track/4kOfxxnW1ukZdsNbCKY9br) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [What's Love Got to Do with It?](https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o) | 3:46 |
 | 55 | [Slipping Through My Fingers](https://open.spotify.com/track/6TvxPS4fj4LUdjw2es4g21) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [The Visitors \(Deluxe Edition\)](https://open.spotify.com/album/5GByGaws7Cw0t28kjvAOzV) | 3:53 |
 | 56 | [Don't Stand So Close To Me](https://open.spotify.com/track/5veJDT0MLsLbhYsx42GXUD) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Zenyatta Mondatta \(Remastered 2003\)](https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ) | 4:02 |
 | 57 | [Say You, Say Me](https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Dancing On The Ceiling \(Expanded Edition\)](https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf) | 4:01 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6l1fwN15uV5.md) - [plain]
 | 66 | [Hungry Heart](https://open.spotify.com/track/1KsI8NEeAna8ZIdojI3FiT) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The River](https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg) | 3:19 |
 | 67 | [Hard to Say I'm Sorry / Get Away \- 2006 Remaster](https://open.spotify.com/track/07TnWCHrFkvF61GzJuLVt0) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 16 \(Expanded & Remastered\)](https://open.spotify.com/album/4NmlDrnZOd3ejob9PoiOd9) | 5:04 |
 | 68 | [The Way It Is](https://open.spotify.com/track/6V50MyHPGhEmwYu0Wdyf0t) | [Bruce Hornsby](https://open.spotify.com/artist/2iM28IgKg89v1o7BTQAVPo), [The Range](https://open.spotify.com/artist/4374DY0rBAi0pCV6F9i00Y) | [The Way It Is](https://open.spotify.com/album/243jhZJtyIZtEkrD6vhRLn) | 4:57 |
-| 69 | [Holding Back the Years \- 2008 Remaster](https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Picture Book \(Expanded Version\)](https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT) | 4:29 |
-| 70 | [Woman in Love](https://open.spotify.com/track/1pTGc8pwyo6xtgXBKCBcFn) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [Guilty](https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt) | 3:51 |
+| 69 | [Woman in Love](https://open.spotify.com/track/1pTGc8pwyo6xtgXBKCBcFn) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [Guilty](https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt) | 3:51 |
+| 70 | [Holding Back the Years \- 2008 Remaster](https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Picture Book \(Expanded Version\)](https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT) | 4:29 |
 | 71 | [Saving All My Love for You](https://open.spotify.com/track/1lx8ddGT5wCD6W2xmLeRKG) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 3:58 |
 | 72 | [Slave To Love \- Remastered 1999](https://open.spotify.com/track/1c9dnQbOzw01ID7X2IsYOE) | [Bryan Ferry](https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC) | [Boys And Girls](https://open.spotify.com/album/3SsNd5MeJKc1IK3nazaWg2) | 4:26 |
 | 73 | [Nikita](https://open.spotify.com/track/3G0ENKW9vzV0SuYKaWFflI) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ice On Fire](https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24) | 5:43 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6l1fwN15uV5.md) - [plain]
 | 79 | [Drive](https://open.spotify.com/track/3wfujdbamR3Z46F4xav7LM) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Heartbeat City](https://open.spotify.com/album/5ycnwHGkzOlTuMOI3Zh4iO) | 3:54 |
 | 80 | [I Can't Go for That \(No Can Do\)](https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Private Eyes \(Expanded Edition\)](https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0) | 5:07 |
 
-Snapshot ID: `MCxjMWQ0YTQ3NDJmOGMwYjE4OTA3ODRhNDAyYjFiZjA1ODlmYjc2Zjgx`
+Snapshot ID: `MCxlOGIwMDk3MWJkMmYwMmVhYjdkZTM2ODU3OWM2MjZkYmM0Y2M1NjFk`

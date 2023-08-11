@@ -228,7 +228,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 599884,
       "name": "Ascend",
       "url": "https://open.spotify.com/track/1rhgCARqlp1XCrnTz66y6Z"
@@ -424,7 +424,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 824408,
       "name": "BLESSINGS",
       "url": "https://open.spotify.com/track/1vo3XKyNdpYtofLD9CihXP"
@@ -2149,6 +2149,36 @@
     },
     {
       "album": {
+        "name": "Not Afraid",
+        "url": "https://open.spotify.com/album/48WpEGFSh4FomU28kQzpZr"
+      },
+      "artists": [
+        {
+          "name": "Geo Musiwa",
+          "url": "https://open.spotify.com/artist/4LuXTovCGYwbeZQCx15PxW"
+        },
+        {
+          "name": "Abel Chungu Musuka",
+          "url": "https://open.spotify.com/artist/49LXAemdmdSqQ6yCo3UNlt"
+        },
+        {
+          "name": "Native Tribe",
+          "url": "https://open.spotify.com/artist/688LcLc5je2qcDEOfMcmhh"
+        },
+        {
+          "name": "Legend'Son",
+          "url": "https://open.spotify.com/artist/3Ygd1SrMkrt7MXfQekhArV"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Not Afraid",
+      "url": "https://open.spotify.com/track/51pxV69UzKS3P4DwZBg9ab"
+    },
+    {
+      "album": {
         "name": "Nothing",
         "url": "https://open.spotify.com/album/1Jzcc7CoqBP54KjoiRCB8h"
       },
@@ -2492,7 +2522,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-28",
+      "date_removed": null,
       "duration_ms": 630187,
       "name": "Open Up",
       "url": "https://open.spotify.com/track/0vL8wJhWQhHNAJkGurqPF9"

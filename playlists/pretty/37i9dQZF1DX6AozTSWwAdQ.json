@@ -1,12 +1,12 @@
 {
   "description": "\u6c92\u6709\u4ec0\u9ebc\u6bd4\u611f\u89ba\u597d\u66f4\u91cd\u8981\u4e86\uff01\u9019\u88e1\u7684\u6b4c\u66f2\u80fd\u5927\u5927\u632f\u596e\u5fc3\u60c5\u3001\u4ee4\u4f60\u5143\u6c23\u5341\u8db3\uff01",
-  "num_followers": 57463,
+  "num_followers": 57482,
   "original_name": "\u5fc3\u60c5\u5927\u632f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTJmNGQ1MmI1ZTcyZGQ3ZGM3N2M4MTg5ZWM3MzdlMzRhNjk0Nzkx",
+  "snapshot_id": "MCw4OGU5ZWU4YjU4ODJkOTJiMGU5ZjBiMWRhZWNmNzU1YTY3ZDg2ZWVj",
   "tracks": [
     {
       "added_at": "2023-08-07 15:16:28",
@@ -43,18 +43,18 @@
     {
       "added_at": "2023-08-07 15:16:28",
       "album": {
-        "name": "Death of a Bachelor",
-        "url": "https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj"
+        "name": "Happiness Begins",
+        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
       },
       "artists": [
         {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
         }
       ],
-      "duration_ms": 208706,
-      "name": "House of Memories",
-      "url": "https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ"
+      "duration_ms": 181026,
+      "name": "Sucker",
+      "url": "https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD"
     },
     {
       "added_at": "2023-08-07 15:16:28",
@@ -79,18 +79,18 @@
     {
       "added_at": "2023-08-07 15:16:28",
       "album": {
-        "name": "Happiness Begins",
-        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
+        "name": "Death of a Bachelor",
+        "url": "https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj"
       },
       "artists": [
         {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 181026,
-      "name": "Sucker",
-      "url": "https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD"
+      "duration_ms": 208706,
+      "name": "House of Memories",
+      "url": "https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ"
     },
     {
       "added_at": "2023-08-07 15:16:28",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-08-07 15:16:28",
       "album": {
-        "name": "A Brief Inquiry Into Online Relationships",
-        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 248335,
-      "name": "It's Not Living (If It's Not With You)",
-      "url": "https://open.spotify.com/track/3TgMcrV32NUKjEG2ujn9eh"
-    },
-    {
-      "added_at": "2023-08-07 15:16:28",
-      "album": {
         "name": "Back To Me / Alive",
         "url": "https://open.spotify.com/album/7uAydPIaSI5OmH4e8WY0Eo"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 224968,
       "name": "Back To Me",
       "url": "https://open.spotify.com/track/4eZpe6SMJQIqAU9VJI84oD"
+    },
+    {
+      "added_at": "2023-08-07 15:16:28",
+      "album": {
+        "name": "A Brief Inquiry Into Online Relationships",
+        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 248335,
+      "name": "It's Not Living (If It's Not With You)",
+      "url": "https://open.spotify.com/track/3TgMcrV32NUKjEG2ujn9eh"
     },
     {
       "added_at": "2023-08-07 15:16:28",
@@ -655,26 +655,18 @@
     {
       "added_at": "2023-08-07 15:16:28",
       "album": {
-        "name": "ILLENIUM",
-        "url": "https://open.spotify.com/album/0ValflNlWce21wm5PlwV60"
+        "name": "Preacher\u2019s Daughter",
+        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
       },
       "artists": [
         {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
         }
       ],
-      "duration_ms": 152331,
-      "name": "Eyes Wide Shut",
-      "url": "https://open.spotify.com/track/556awMv4WQP0h1VXMU8rSU"
+      "duration_ms": 258418,
+      "name": "American Teenager",
+      "url": "https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg"
     },
     {
       "added_at": "2023-08-07 15:16:28",
@@ -695,18 +687,26 @@
     {
       "added_at": "2023-08-07 15:16:28",
       "album": {
-        "name": "Preacher\u2019s Daughter",
-        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
+        "name": "ILLENIUM",
+        "url": "https://open.spotify.com/album/0ValflNlWce21wm5PlwV60"
       },
       "artists": [
         {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
         }
       ],
-      "duration_ms": 258418,
-      "name": "American Teenager",
-      "url": "https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg"
+      "duration_ms": 152331,
+      "name": "Eyes Wide Shut",
+      "url": "https://open.spotify.com/track/556awMv4WQP0h1VXMU8rSU"
     },
     {
       "added_at": "2023-08-07 15:16:28",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-08-07 15:16:28",
       "album": {
+        "name": "Good Times Go",
+        "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        }
+      ],
+      "duration_ms": 177371,
+      "name": "Eyes On You",
+      "url": "https://open.spotify.com/track/6xpAcenBpNYOyljTMLvzVi"
+    },
+    {
+      "added_at": "2023-08-07 15:16:28",
+      "album": {
         "name": "EDGING",
         "url": "https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 161000,
       "name": "More the Victim",
       "url": "https://open.spotify.com/track/50jyxHSIHAz7N5jIzODvs4"
-    },
-    {
-      "added_at": "2023-08-07 15:16:28",
-      "album": {
-        "name": "Lemonade Mouth",
-        "url": "https://open.spotify.com/album/6Vsml6sziVKBHxbMEp5wgQ"
-      },
-      "artists": [
-        {
-          "name": "Naomi Scott",
-          "url": "https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS"
-        }
-      ],
-      "duration_ms": 186453,
-      "name": "She's So Gone",
-      "url": "https://open.spotify.com/track/4DTrKnvkHtwQN6kBu4XXIF"
     }
   ],
   "unique_name": "\u5fc3\u60c5\u5927\u632f",

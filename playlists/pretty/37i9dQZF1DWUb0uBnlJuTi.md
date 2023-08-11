@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,555 likes - 200 songs - 15 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,790 likes - 200 songs - 15 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -191,7 +191,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 181 | [Banana](https://open.spotify.com/track/35bQsQU2V38JJIIajM2khO) | [Basement Membrane](https://open.spotify.com/artist/269m1rza23RVLQ0ZeQApaL) | [Punk Funk](https://open.spotify.com/album/6YoyiensRcFI8eC9ryDPJE) | 4:06 |
 | 182 | [Chank](https://open.spotify.com/track/0xCGbO3PTLLivhIkt47d0q) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [A Go Go](https://open.spotify.com/album/08JMKtDS0StcwDUgdxKIw3) | 6:46 |
 | 183 | [Life on Mars \- OPOLOPO Extended Remix](https://open.spotify.com/track/4H2LU89UYYHhy5CNkbNaaY) | [Dexter Wansel](https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt), [Opolopo](https://open.spotify.com/artist/5WaobPZaAjGIIlabFX3I94) | [Life on Mars \(OPOLOPO Remix\)](https://open.spotify.com/album/0gu7LOuWpnplQkrYonsNnk) | 10:04 |
-| 184 | [Sure Shot](https://open.spotify.com/track/1IqZYnJiVCRnu4CC3TXnNb) | [Karl Denson](https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v) | [New Ammo](https://open.spotify.com/album/1qNG0CXSi8vumI662LYg2o) | 4:01 |
+| 184 | [Sure Shot](https://open.spotify.com/track/1rnvUkmR2DaxaO9r9dn9b4) | [Karl Denson](https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v) | [New Ammo](https://open.spotify.com/album/38h9lRNaktbPyyd2evaftv) | 4:01 |
 | 185 | [The Message Continues](https://open.spotify.com/track/4cr8FyfxkPatU8ca7cCzmN) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [SOURCE](https://open.spotify.com/album/5iooBeTrG8wPKMgo7OAOX6) | 6:44 |
 | 186 | [Big Building's Walk](https://open.spotify.com/track/0CfoP8Zf68u2E0JegB0S2F) | [Maison Vivante](https://open.spotify.com/artist/5Lz6ExpF0sdy6fn8vMm0rg) | [Big Building's Walk](https://open.spotify.com/album/4730bSWMAEVpVOcbNQwzSO) | 2:56 |
 | 187 | [Back to the Future](https://open.spotify.com/track/2DJRXtc51sD6tC1qOLiQLl) | [Ludivine Issambourg](https://open.spotify.com/artist/7nuphNSch4dZshJyLgNixV), [Antiloops](https://open.spotify.com/artist/7xpNzqZV8QdDRSNA53fUAb) | [Back to the Future](https://open.spotify.com/album/1Prun5wLBaM7tfTEyJe2ap) | 3:24 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 199 | [Capture This](https://open.spotify.com/track/6qGx9ikckPPtDbD9L3gdmq) | [Gianni Brezzo](https://open.spotify.com/artist/3JJR0ExBP5G8uyhcViM14W) | [Tutto Passa](https://open.spotify.com/album/1OGUuP0QHICwXrX8GtNp4y) | 3:45 |
 | 200 | [Green Chimneys \- Juffie \- Instrumental](https://open.spotify.com/track/08eE1HMgTQ5Dsih5xAI43H) | [Sven Hammond](https://open.spotify.com/artist/3zSA1rBeAHp5NFDR4Q9lyn), [Akwasi](https://open.spotify.com/artist/31REX4WGmuDvtihynSCvly) | [Green Chimneys – Juffie](https://open.spotify.com/album/0U4Q2KC5lZA6woOZtzHM6T) | 3:31 |
 
-Snapshot ID: `MCxkZTQ4YjIyMTE2ZGE4MjBlZGE5YWZmNTA1ZTY3NmM2YTc2OWFhN2Jj`
+Snapshot ID: `MCwwNGJhN2E0MDEyNGE5NGFkNjE2ZmM2NTlkZDI4OTU1OTY2OTBiYTM0`

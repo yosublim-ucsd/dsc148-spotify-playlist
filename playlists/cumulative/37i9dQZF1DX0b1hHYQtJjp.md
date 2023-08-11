@@ -4,7 +4,7 @@
 
 > Recent hits and new songs from your fave artists\. Cover: Lauv
 
-1,213 songs - 2 day 18 hr 53 min
+1,214 songs - 2 day 18 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -710,7 +710,8 @@
 | [Middle Of A Breakup](https://open.spotify.com/track/1i6CPLccaipwpW7vqyU6q8) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Middle Of A Breakup](https://open.spotify.com/album/47bNR5XCEgz2RlE2Rx28Si) | 3:20 | 2022-07-22 | 2022-07-30 |
 | [Midnight](https://open.spotify.com/track/3uTdOMyG1ixtUxdtspkngM) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Midnight](https://open.spotify.com/album/4JheIQU7B3Fb8pCld4z5iB) | 3:48 | 2022-09-23 | 2022-12-10 |
 | [Mind Is A Prison](https://open.spotify.com/track/4GGSmoTmc5LClrowB4SmEw) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Mind Is A Prison](https://open.spotify.com/album/3oFteG1YXJg2LS6R7Ge2yB) | 2:42 | 2019-12-13 | 2020-03-06 |
-| [mine](https://open.spotify.com/track/5WVwFPBm6bI9KPRV2AUR2T) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [mine / me](https://open.spotify.com/album/0Y4UzVqYI5o4GBxkQimdL8) | 3:11 | 2023-04-14 |  |
+| [mine](https://open.spotify.com/track/20XB21FHWhdyWTs5z7p9Vl) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [chemistry](https://open.spotify.com/album/5c56JYNgc48iDnwHHlOcye) | 3:11 | 2023-07-28 |  |
+| [mine](https://open.spotify.com/track/5WVwFPBm6bI9KPRV2AUR2T) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [mine / me](https://open.spotify.com/album/0Y4UzVqYI5o4GBxkQimdL8) | 3:11 | 2023-04-14 | 2023-08-11 |
 | [Minefields](https://open.spotify.com/track/1OU4E4HiVjdak0mL4blVWT) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Minefields](https://open.spotify.com/album/6Pp5U1A6z6OogrtQEL5Q89) | 3:10 | 2020-11-10 | 2021-04-30 |
 | [Miss Missing You](https://open.spotify.com/track/3fQuAqrGTT2FDXOLmMEcc6) | [Billy Lockett](https://open.spotify.com/artist/2lKeiALM1T2TZrOiTYlLNA) | [Miss Missing You](https://open.spotify.com/album/1QQBLFMTYNUF3iWIm8elk5) | 3:28 | 2023-01-13 | 2023-02-25 |
 | [Miss You All the Time](https://open.spotify.com/track/4zxBtj8UaieYXPe2JoQETa) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [Miss You All the Time](https://open.spotify.com/album/5bynAsNix2AyyHn0spsSKZ) | 3:13 | 2019-05-26\* | 2019-08-13 |

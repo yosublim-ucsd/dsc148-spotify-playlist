@@ -1,12 +1,12 @@
 {
   "description": "The greatest operatic and orchestral works of Rossini, featuring William Tell, The Barber of Seville and Cinderella.",
-  "num_followers": 32470,
+  "num_followers": 32485,
   "original_name": "This Is Rossini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjA0MjQ1NTQyMjlhNzJmODBlNTk1NTZmM2QyZmU0NGY5MjNiZTEz",
+  "snapshot_id": "MCw5M2YyYmFjMGRkNzVhMDg4MTQxZTkxMGE5ZWQwNzA5MDJhNzAyYmJk",
   "tracks": [
     {
       "added_at": "2022-06-28 08:38:32",
@@ -527,30 +527,6 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
-        "name": "Rossini: Sonatas for Strings Nos. 4-6",
-        "url": "https://open.spotify.com/album/27aPo3i0FEH9zbUdkC2Re4"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Hungarian Virtuosi",
-          "url": "https://open.spotify.com/artist/5n7F8cHDE9RdCmot6yT93t"
-        },
-        {
-          "name": "Tam\u00e1s Benedek",
-          "url": "https://open.spotify.com/artist/22vrIuWtmcAZ88VolfCSIg"
-        }
-      ],
-      "duration_ms": 335946,
-      "name": "Sonata for Strings No. 6 in D Major, \"La tempesta\": III. Tempesta. Allegro",
-      "url": "https://open.spotify.com/track/5x28hgrb0v1oav4D9ZCUiS"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
         "name": "Rossini: Stabat Mater",
         "url": "https://open.spotify.com/album/5nekImhuQccc3AYugTUJfu"
       },
@@ -579,6 +555,30 @@
       "duration_ms": 376626,
       "name": "Stabat Mater: Cujus animam gementem",
       "url": "https://open.spotify.com/track/4caKKEVxLLkYH3XAV2166D"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
+        "name": "Rossini: Sonatas for Strings Nos. 4-6",
+        "url": "https://open.spotify.com/album/27aPo3i0FEH9zbUdkC2Re4"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Hungarian Virtuosi",
+          "url": "https://open.spotify.com/artist/5n7F8cHDE9RdCmot6yT93t"
+        },
+        {
+          "name": "Tam\u00e1s Benedek",
+          "url": "https://open.spotify.com/artist/22vrIuWtmcAZ88VolfCSIg"
+        }
+      ],
+      "duration_ms": 335946,
+      "name": "Sonata for Strings No. 6 in D Major, \"La tempesta\": III. Tempesta. Allegro",
+      "url": "https://open.spotify.com/track/5x28hgrb0v1oav4D9ZCUiS"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -851,66 +851,6 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
-        "name": "Rossini: Semiramide",
-        "url": "https://open.spotify.com/album/63xmfwgcmJYlxTCIHvI2UA"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Alex Penda",
-          "url": "https://open.spotify.com/artist/31V51B9HYR7GJVPlRD5omZ"
-        },
-        {
-          "name": "Marianna Pizzolato",
-          "url": "https://open.spotify.com/artist/0EuRKXjfFpR0g2z4oai0w6"
-        },
-        {
-          "name": "Lorenzo Regazzo",
-          "url": "https://open.spotify.com/artist/2RQSuCED6yaQtWjPJFiWuf"
-        },
-        {
-          "name": "John Osborn",
-          "url": "https://open.spotify.com/artist/0imWm93xrolEIw3Huz20CF"
-        },
-        {
-          "name": "Andrea Mastroni",
-          "url": "https://open.spotify.com/artist/4992ewFJxGptMCN0oGEBcI"
-        },
-        {
-          "name": "Marija Jokovic",
-          "url": "https://open.spotify.com/artist/1C9yyVBqL4lKyCIFiRhyC1"
-        },
-        {
-          "name": "Vassilis Kavayas",
-          "url": "https://open.spotify.com/artist/57x3DtrI4Xmx9flmnYZWZU"
-        },
-        {
-          "name": "Raffaele Facciola",
-          "url": "https://open.spotify.com/artist/1gZW7ewsa2EgoN0vjDpbXO"
-        },
-        {
-          "name": "Poznan Camerata Bach Choir",
-          "url": "https://open.spotify.com/artist/17nUt9GRJ7w3eUaa0PD8fr"
-        },
-        {
-          "name": "Virtuosi Brunensis",
-          "url": "https://open.spotify.com/artist/2431DzejNRA0GjilEHsz8b"
-        },
-        {
-          "name": "Antonino Fogliani",
-          "url": "https://open.spotify.com/artist/0r7PWrlVyLmVXZ3s3l9AQK"
-        }
-      ],
-      "duration_ms": 694493,
-      "name": "Semiramide: Sinfonia",
-      "url": "https://open.spotify.com/track/6k6cdgrBZ9Pf9upS8IMZHS"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
         "name": "Rossini: Otello",
         "url": "https://open.spotify.com/album/0tNEiJodkTVwMo74ggdl27"
       },
@@ -975,6 +915,66 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
+        "name": "Rossini: Semiramide",
+        "url": "https://open.spotify.com/album/63xmfwgcmJYlxTCIHvI2UA"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Alex Penda",
+          "url": "https://open.spotify.com/artist/31V51B9HYR7GJVPlRD5omZ"
+        },
+        {
+          "name": "Marianna Pizzolato",
+          "url": "https://open.spotify.com/artist/0EuRKXjfFpR0g2z4oai0w6"
+        },
+        {
+          "name": "Lorenzo Regazzo",
+          "url": "https://open.spotify.com/artist/2RQSuCED6yaQtWjPJFiWuf"
+        },
+        {
+          "name": "John Osborn",
+          "url": "https://open.spotify.com/artist/0imWm93xrolEIw3Huz20CF"
+        },
+        {
+          "name": "Andrea Mastroni",
+          "url": "https://open.spotify.com/artist/4992ewFJxGptMCN0oGEBcI"
+        },
+        {
+          "name": "Marija Jokovic",
+          "url": "https://open.spotify.com/artist/1C9yyVBqL4lKyCIFiRhyC1"
+        },
+        {
+          "name": "Vassilis Kavayas",
+          "url": "https://open.spotify.com/artist/57x3DtrI4Xmx9flmnYZWZU"
+        },
+        {
+          "name": "Raffaele Facciola",
+          "url": "https://open.spotify.com/artist/1gZW7ewsa2EgoN0vjDpbXO"
+        },
+        {
+          "name": "Poznan Camerata Bach Choir",
+          "url": "https://open.spotify.com/artist/17nUt9GRJ7w3eUaa0PD8fr"
+        },
+        {
+          "name": "Virtuosi Brunensis",
+          "url": "https://open.spotify.com/artist/2431DzejNRA0GjilEHsz8b"
+        },
+        {
+          "name": "Antonino Fogliani",
+          "url": "https://open.spotify.com/artist/0r7PWrlVyLmVXZ3s3l9AQK"
+        }
+      ],
+      "duration_ms": 694493,
+      "name": "Semiramide: Sinfonia",
+      "url": "https://open.spotify.com/track/6k6cdgrBZ9Pf9upS8IMZHS"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
         "name": "Rossini: Stabat Mater - Petite Messe Solennelle",
         "url": "https://open.spotify.com/album/4W7TmgjgzSmLVALqc62GoT"
       },
@@ -995,30 +995,6 @@
       "duration_ms": 358600,
       "name": "Stabat Mater: Amen. In sempiterna saecula",
       "url": "https://open.spotify.com/track/7eoImsitpeAFw4Q9VZ9WS8"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
-        "name": "Rossini: Giovanna d'Arco; 19 songs",
-        "url": "https://open.spotify.com/album/3VVwrNDAiowYFUeK5DSYZQ"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Cecilia Bartoli",
-          "url": "https://open.spotify.com/artist/3uw6GzeL10NfFrcikMo9Na"
-        },
-        {
-          "name": "Charles Spencer",
-          "url": "https://open.spotify.com/artist/1rJfq4FTiCrG734zcybxQN"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "La regata veneziana: 1. Anzoleta avanti la regata",
-      "url": "https://open.spotify.com/track/0Xe9mqXpAHD95aCsCVjloG"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -1047,6 +1023,30 @@
       "duration_ms": 217626,
       "name": "Rossini: Guillaume Tell, Act 4 Scene 11: \"Pourquoi ta presence, \u00f4 mon p\u00e8re! ... Tout change et grandit en ces lieux!\" (Arnold, Guillaume, Hedwige, Jemmy, Mathilde, Gessler, Walter, Chorus)",
       "url": "https://open.spotify.com/track/4UwOQ5TGLU3TpNkWwf664Y"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
+        "name": "Rossini: Giovanna d'Arco; 19 songs",
+        "url": "https://open.spotify.com/album/3VVwrNDAiowYFUeK5DSYZQ"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Cecilia Bartoli",
+          "url": "https://open.spotify.com/artist/3uw6GzeL10NfFrcikMo9Na"
+        },
+        {
+          "name": "Charles Spencer",
+          "url": "https://open.spotify.com/artist/1rJfq4FTiCrG734zcybxQN"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "La regata veneziana: 1. Anzoleta avanti la regata",
+      "url": "https://open.spotify.com/track/0Xe9mqXpAHD95aCsCVjloG"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -1443,30 +1443,6 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
-        "name": "Rossini: Piano Music, Vol. 10",
-        "url": "https://open.spotify.com/album/2jT0pTgizGCywSfSkSA6nV"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Giuseppina Bridelli",
-          "url": "https://open.spotify.com/artist/4n8jCS36j50D3Hm6V75gKl"
-        },
-        {
-          "name": "Alessandro Marangoni",
-          "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
-        }
-      ],
-      "duration_ms": 227813,
-      "name": "2 Nouvelles compositions: No. 1, \u00c0 Grenade",
-      "url": "https://open.spotify.com/track/7iZLJBIdSEj4cCNkIkYDoY"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
         "name": "Rossini: Giovanna d'Arco; 19 songs",
         "url": "https://open.spotify.com/album/3VVwrNDAiowYFUeK5DSYZQ"
       },
@@ -1547,6 +1523,30 @@
       "duration_ms": 458173,
       "name": "Semiramide: Act I Scene 8: Ah dov'e, dov'e il cimento? (Idreno)",
       "url": "https://open.spotify.com/track/56bSi0LsUurOGZZ1SBbmB5"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
+        "name": "Rossini: Piano Music, Vol. 10",
+        "url": "https://open.spotify.com/album/2jT0pTgizGCywSfSkSA6nV"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Giuseppina Bridelli",
+          "url": "https://open.spotify.com/artist/4n8jCS36j50D3Hm6V75gKl"
+        },
+        {
+          "name": "Alessandro Marangoni",
+          "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
+        }
+      ],
+      "duration_ms": 227813,
+      "name": "2 Nouvelles compositions: No. 1, \u00c0 Grenade",
+      "url": "https://open.spotify.com/track/7iZLJBIdSEj4cCNkIkYDoY"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -1691,26 +1691,6 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
-        "name": "Rossini: Stabat Mater",
-        "url": "https://open.spotify.com/album/42HdAA7NqanLwohy5UiUjc"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Howard Arman",
-          "url": "https://open.spotify.com/artist/2cjMb8N7gfa90len54jFre"
-        }
-      ],
-      "duration_ms": 240906,
-      "name": "Stabat Mater: V. Eia, mater (Recitativo and Chorus)",
-      "url": "https://open.spotify.com/track/4Vi8wbc8tu3HDfbjmZqNFk"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
         "name": "Rossini: Semiramide",
         "url": "https://open.spotify.com/album/63xmfwgcmJYlxTCIHvI2UA"
       },
@@ -1771,6 +1751,50 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
+        "name": "Rossini: Stabat Mater",
+        "url": "https://open.spotify.com/album/42HdAA7NqanLwohy5UiUjc"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Howard Arman",
+          "url": "https://open.spotify.com/artist/2cjMb8N7gfa90len54jFre"
+        }
+      ],
+      "duration_ms": 240906,
+      "name": "Stabat Mater: V. Eia, mater (Recitativo and Chorus)",
+      "url": "https://open.spotify.com/track/4Vi8wbc8tu3HDfbjmZqNFk"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
+        "name": "Rossini: Stabat Mater - Petite Messe Solennelle",
+        "url": "https://open.spotify.com/album/4W7TmgjgzSmLVALqc62GoT"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Riccardo Muti",
+          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
+        },
+        {
+          "name": "Orchestra del Maggio Musicale Fiorentino",
+          "url": "https://open.spotify.com/artist/0YfVUjHFL0QWCSFRzliCDk"
+        }
+      ],
+      "duration_ms": 283493,
+      "name": "Stabat Mater: Fac, ut portem Christi mortem",
+      "url": "https://open.spotify.com/track/5ZgFZ6eyspxp3bcAGiQGxw"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
         "name": "Rossini: Il barbiere di Siviglia; La Cenerentola; L'Italiana in Algeri; Il viaggio a Reims",
         "url": "https://open.spotify.com/album/7u9uW03SaWgRSaDEQyWmN8"
       },
@@ -1811,30 +1835,6 @@
       "duration_ms": 670826,
       "name": "La Cenerentola, Act I: Quintet. Signore, una parola - Qui nel mio codice - Nel volto",
       "url": "https://open.spotify.com/track/3yJXZF4JDrUBpiQ8EWr2wP"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
-        "name": "Rossini: Stabat Mater - Petite Messe Solennelle",
-        "url": "https://open.spotify.com/album/4W7TmgjgzSmLVALqc62GoT"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Riccardo Muti",
-          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
-        },
-        {
-          "name": "Orchestra del Maggio Musicale Fiorentino",
-          "url": "https://open.spotify.com/artist/0YfVUjHFL0QWCSFRzliCDk"
-        }
-      ],
-      "duration_ms": 283493,
-      "name": "Stabat Mater: Fac, ut portem Christi mortem",
-      "url": "https://open.spotify.com/track/5ZgFZ6eyspxp3bcAGiQGxw"
     },
     {
       "added_at": "2022-06-28 08:38:32",

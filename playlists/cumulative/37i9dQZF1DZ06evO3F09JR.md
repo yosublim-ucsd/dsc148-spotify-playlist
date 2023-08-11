@@ -4,12 +4,13 @@
 
 > This is Alessandro Cortini\. The essential tracks, all in one playlist.
 
-83 songs - 7 hr 15 min
+84 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [AAMC](https://open.spotify.com/track/3Xa5eV6Ct9fR2e2QXRa3oe) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Merzbow](https://open.spotify.com/artist/5UezsklPScipW64XJm7qql) | [Alessandro Cortini/Merzbow](https://open.spotify.com/album/1SbqO0MvsZVEnT0gVOsryU) | 4:48 | 2022-06-30 | 2022-07-23 |
 | [ACMA](https://open.spotify.com/track/1c7jZViK1RDHr9WOZzIvCV) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Merzbow](https://open.spotify.com/artist/5UezsklPScipW64XJm7qql) | [Alessandro Cortini/Merzbow](https://open.spotify.com/album/1SbqO0MvsZVEnT0gVOsryU) | 22:43 | 2022-05-29 | 2022-10-13 |
+| [AMARO AMORE](https://open.spotify.com/track/1Vs7jfCcvA5KFhbhLyvRYy) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VOLUME MASSIMO](https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK) | 6:00 | 2023-08-10 |  |
 | [AMARO AMORE](https://open.spotify.com/track/34aLJYyLaPXQoQEa2rls0a) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VOLUME MASSIMO](https://open.spotify.com/album/21wC2FR62EbrsmfD1gpmhN) | 6:00 | 2022-06-01 | 2023-07-21 |
 | [AMORE AMARO](https://open.spotify.com/track/2XkS3JibKUeLfIHzZm3ALd) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VOLUME MASSIMO](https://open.spotify.com/album/21wC2FR62EbrsmfD1gpmhN) | 5:02 | 2022-06-06 | 2022-10-13 |
 | [AMORE AMARO](https://open.spotify.com/track/6fiijXOYS8H4e3klBNBVxX) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VOLUME MASSIMO](https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK) | 5:02 | 2022-05-29 |  |
@@ -69,7 +70,7 @@
 | [Perdonare](https://open.spotify.com/track/0VkyEqTvoq7OA0pC4aBSgG) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Perdonare](https://open.spotify.com/album/7m96tEGvDuA7bpuqsLHl1E) | 4:52 | 2022-05-29 |  |
 | [Quantum Impact](https://open.spotify.com/track/66vgYZLhHlqOynKYNTcMQn) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 3:20 | 2022-06-18 | 2023-08-08 |
 | [Resist and Protect](https://open.spotify.com/track/2BQWKfwYxK27HYmmcXQVTf) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 3:39 | 2022-05-29 | 2022-10-09 |
-| [SABBIA](https://open.spotify.com/track/1wUAoagKfjHyDJQVSc799P) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VOLUME MASSIMO](https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK) | 5:43 | 2023-07-31 |  |
+| [SABBIA](https://open.spotify.com/track/1wUAoagKfjHyDJQVSc799P) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VOLUME MASSIMO](https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK) | 5:43 | 2023-07-31 | 2023-08-11 |
 | [SABBIA](https://open.spotify.com/track/7GJpnJs4sEzrEaCWQY90Hs) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VOLUME MASSIMO](https://open.spotify.com/album/21wC2FR62EbrsmfD1gpmhN) | 5:43 | 2022-05-29 | 2023-07-11 |
 | [Secrets of Golem Island](https://open.spotify.com/track/44XbZoz0X4cKAScjpamfTb) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 3:38 | 2022-05-30 | 2023-07-19 |
 | [SEMPRE](https://open.spotify.com/track/1EXGsJtPkiUu90OkRTg4FY) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [SCURO CHIARO](https://open.spotify.com/album/2GPhGDECpXqZfQ7XdVNR6u) | 8:35 | 2022-08-16 | 2023-07-15 |

@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 297430,
+  "num_followers": 297923,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzE1ZDU5NGY2YjlmZTJkZWU2NzRjNTUwY2Q3M2VjN2U0ZjcwN2Qy",
+  "snapshot_id": "MCxkYjk4NWU3OTY3ZmJhZTg3MDUyM2UzNTljYjhkM2ZiMzc4NGQ2MDk4",
   "tracks": [
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Bad Girls",
-        "url": "https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 295106,
-      "name": "Bad Girls",
-      "url": "https://open.spotify.com/track/1ibRqifchaAfeNdQGpbRVW"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "We Are Family (1995 Remaster)",
         "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 375400,
       "name": "He's the Greatest Dancer - 1995 Remaster",
       "url": "https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Bad Girls",
+        "url": "https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 295106,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/1ibRqifchaAfeNdQGpbRVW"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Step II",
-        "url": "https://open.spotify.com/album/6y64gP67AegGu2rspM2GHo"
-      },
-      "artists": [
-        {
-          "name": "Sylvester",
-          "url": "https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y"
-        }
-      ],
-      "duration_ms": 400115,
-      "name": "You Make Me Feel (Mighty Real)",
-      "url": "https://open.spotify.com/track/0RnCUYXa7jhgTXtiMXF2PQ"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "2 Hot!",
         "url": "https://open.spotify.com/album/1MzEdKoD6mxji2q7k3rRcw"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 346133,
       "name": "Shake Your Groove Thing",
       "url": "https://open.spotify.com/track/5o89Bf80t8ko3uNXJkYoVs"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Step II",
+        "url": "https://open.spotify.com/album/6y64gP67AegGu2rspM2GHo"
+      },
+      "artists": [
+        {
+          "name": "Sylvester",
+          "url": "https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y"
+        }
+      ],
+      "duration_ms": 400115,
+      "name": "You Make Me Feel (Mighty Real)",
+      "url": "https://open.spotify.com/track/0RnCUYXa7jhgTXtiMXF2PQ"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2027,18 +2027,18 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Caribou (Remastered 1995)",
-        "url": "https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC"
+        "name": "Go West In the Navy",
+        "url": "https://open.spotify.com/album/3iF4amlNW1yd9DoZ9WOD1i"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Village People",
+          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
         }
       ],
-      "duration_ms": 224933,
-      "name": "The Bitch Is Back - Remastered 1995",
-      "url": "https://open.spotify.com/track/40tnCfx2mTtHozyaRDcYC5"
+      "duration_ms": 339946,
+      "name": "In the Navy - Original Version 1979",
+      "url": "https://open.spotify.com/track/4mjFMScEvHeM72791mXRCW"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -2059,18 +2059,18 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Go West In the Navy",
-        "url": "https://open.spotify.com/album/3iF4amlNW1yd9DoZ9WOD1i"
+        "name": "Caribou (Remastered 1995)",
+        "url": "https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC"
       },
       "artists": [
         {
-          "name": "Village People",
-          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 339946,
-      "name": "In the Navy - Original Version 1979",
-      "url": "https://open.spotify.com/track/4mjFMScEvHeM72791mXRCW"
+      "duration_ms": 224933,
+      "name": "The Bitch Is Back - Remastered 1995",
+      "url": "https://open.spotify.com/track/40tnCfx2mTtHozyaRDcYC5"
     },
     {
       "added_at": "2021-09-08 13:31:49",

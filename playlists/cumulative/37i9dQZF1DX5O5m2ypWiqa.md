@@ -4,7 +4,7 @@
 
 > ¡Y qué retumbe la bandona, pariente! Banda MS en portada
 
-205 songs - 11 hr 23 min
+206 songs - 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@
 | [Relación Clandestina](https://open.spotify.com/track/18O6GQQ8hduBs525KhuFNQ) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Hombre De Rancho](https://open.spotify.com/album/1hU9hxmpX2g09yUFu0Q48L) | 3:36 | 2021-12-09 | 2022-07-29 |
 | [Relación Clandestina](https://open.spotify.com/track/7jmc6mYF2HGjXNCoHx9KbF) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Hombre De Rancho](https://open.spotify.com/album/37vmImrA5Kbl0kPbCN68y1) | 3:36 | 2021-12-09 | 2022-11-14 |
 | [Se Me Sigue Notando](https://open.spotify.com/track/282WLYbREuPDYoaxGVRRmn) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Hombre De Rancho](https://open.spotify.com/album/1hU9hxmpX2g09yUFu0Q48L) | 3:34 | 2021-12-09 | 2022-07-29 |
-| [Se Me Sigue Notando](https://open.spotify.com/track/6CUtPSVBdwRLzSfALQqM4T) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Hombre De Rancho](https://open.spotify.com/album/37vmImrA5Kbl0kPbCN68y1) | 3:34 | 2023-04-27 |  |
+| [Se Me Sigue Notando](https://open.spotify.com/track/6CUtPSVBdwRLzSfALQqM4T) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Hombre De Rancho](https://open.spotify.com/album/37vmImrA5Kbl0kPbCN68y1) | 3:34 | 2023-04-27 | 2023-08-11 |
 | [Se Va Muriendo Mi Alma](https://open.spotify.com/track/089JwgBFzPhW92N7RmUdNq) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Tirando Party](https://open.spotify.com/album/4Abo4Oityt7ycbQwoRmXvC) | 3:56 | 2021-12-09 |  |
 | [Sentimental](https://open.spotify.com/track/3NLJWd1FgZlgBRukNXxEBd) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Afortunado](https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ) | 2:47 | 2021-12-09 |  |
 | [Sentimental](https://open.spotify.com/track/6wrUBvGFZYeOycORjHO0AM) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Afortunado](https://open.spotify.com/album/4nX2YwuCsLZhvaPNaQphFJ) | 2:47 | 2021-12-09 | 2022-07-29 |
@@ -213,5 +213,6 @@
 | [¿Por Qué Terminamos?](https://open.spotify.com/track/1nK0XDR5ZdBfBMfkS5SXRF) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Hoy Más Fuerte](https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46) | 3:01 | 2023-04-27 |  |
 | [¿Que Nos Separa?](https://open.spotify.com/track/4jULFslCeq1Wan6nczXoum) | [Germán Montero](https://open.spotify.com/artist/2mJLFoa2cRqCZHL6MZNaak) | [Pensando En Ti](https://open.spotify.com/album/5jt17hy0CY3U7NuzbXdX4u) | 2:13 | 2022-07-18 |  |
 | [¿Quién Te Dio Permiso?](https://open.spotify.com/track/7Godb4gbezgh5X7KYfajQW) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro) | [El Katch \(Version USA\)](https://open.spotify.com/album/7rbt7zaJgkOlVe0KZbH5tw) | 2:48 | 2022-07-18 |  |
+| [¿Y Qué Ha Sido De Ti?](https://open.spotify.com/track/59tKEqqo6UD8LlMZ9W1rvt) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [No Es Culpa Tuya](https://open.spotify.com/album/4oyXLvtE4i7IdWZ48mtFvE) | 4:00 | 2023-08-08 |  |
 
 \*This playlist was first scraped on 2022-05-23. Prior content cannot be recovered.

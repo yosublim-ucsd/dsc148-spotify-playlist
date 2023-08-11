@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 
 > Estas damas sí que tienen carácter\. Yuridia en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,985 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,087 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 39 | [Cuatro Milpas](https://open.spotify.com/track/20JdUWHwjdTzPRVbZdwWHI) | [Las Jilguerillas](https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV) | [Alborada Ranchera](https://open.spotify.com/album/5rsvm4m7xeVWBjJ5DHVs6p) | 3:22 |
 | 40 | [Mi Ego](https://open.spotify.com/track/07YArNoh8ZeQfnQc4sDXxB) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [México de Mi Corazón, Vol\. 2](https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY) | 3:23 |
 | 41 | [Por Salud Mental](https://open.spotify.com/track/2fHKAwEiIp1ZuRdeAsYKex) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 3:32 |
-| 42 | [Piensa en Mí](https://open.spotify.com/track/79KPSHPdl3HEsYqO8LCLvo) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Piensa en Mí](https://open.spotify.com/album/41oLeM3NG2XwKrPMzB0GTG) | 3:46 |
-| 43 | [Quiero Un Amor](https://open.spotify.com/track/1WMXbzmkyrKPHFQlhtJjoM) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Canta Con El Corazón](https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd) | 3:13 |
+| 42 | [Quiero Un Amor](https://open.spotify.com/track/1WMXbzmkyrKPHFQlhtJjoM) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Canta Con El Corazón](https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd) | 3:13 |
+| 43 | [Piensa en Mí](https://open.spotify.com/track/79KPSHPdl3HEsYqO8LCLvo) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Piensa en Mí](https://open.spotify.com/album/41oLeM3NG2XwKrPMzB0GTG) | 3:46 |
 | 44 | [Adios y Bienvenida](https://open.spotify.com/track/2wAfySktAbT2ho6UTCyv1O) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [¡ Ora pues !](https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA) | 3:10 |
 | 45 | [Fruta Prohibida](https://open.spotify.com/track/0oZYQ8dIQh5EFQwErqDWl6) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Las Que Más Amo](https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3) | 2:45 |
 | 46 | [Cielo Rojo](https://open.spotify.com/track/3lwIGvc3nqAvHeTxFnTU1s) | [Flor Silvestre](https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO) | [15 Éxitos](https://open.spotify.com/album/79F61mmAS90ugXB0J1vQMg) | 3:42 |
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 48 | [Amanecí En Tus Brazos](https://open.spotify.com/track/6Yzyvz6Pujj7a3FgdNlSuD) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Lo Mejor De Lucha Villa](https://open.spotify.com/album/05yE3cp9cIYw1aJjE8ybgs) | 2:58 |
 | 49 | [Pobre Corazón](https://open.spotify.com/track/4pqwjUljhAaxFPW9fmOGLC) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [Pobre Corazón](https://open.spotify.com/album/1wKf4J6fA55pKnRRXHZU9c) | 3:18 |
 | 50 | [Vengo A Verte](https://open.spotify.com/track/6XJ4CQ5l2KJRefAWuVpK6m) | [Mercedes Castro](https://open.spotify.com/artist/0CZHGs5YoJggljCPh3a7bK) | [15 Éxitos 15](https://open.spotify.com/album/6lELXliacixuBW7cvb6ziQ) | 3:28 |
-| 51 | [Te Quiero para Mí](https://open.spotify.com/track/2ftfhExQaYLkbqqhUa5Vwz) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 4:47 |
+| 51 | [No Voy A Llorar](https://open.spotify.com/track/3v6f1Bn9Pyz6NkI2ISINPt) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [No Voy A Llorar](https://open.spotify.com/album/7BP2b79XEPJYHEgChKkiF6) | 3:17 |
 | 52 | [Gaviota Traidora](https://open.spotify.com/track/65DppNriLfxOOM5eCSaKm3) | [Flor Silvestre](https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO) | [15 Éxitos](https://open.spotify.com/album/79F61mmAS90ugXB0J1vQMg) | 2:42 |
-| 53 | [No Voy A Llorar](https://open.spotify.com/track/3v6f1Bn9Pyz6NkI2ISINPt) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [No Voy A Llorar](https://open.spotify.com/album/7BP2b79XEPJYHEgChKkiF6) | 3:17 |
+| 53 | [Te Quiero para Mí](https://open.spotify.com/track/2ftfhExQaYLkbqqhUa5Vwz) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 4:47 |
 | 54 | [No Hay Quinto Malo](https://open.spotify.com/track/7tsW0yrg4oUGtjmg1FWsCl) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [No Hay Quinto Malo](https://open.spotify.com/album/72szrpw0ttfJf0qKhEcPhx) | 2:53 |
 | 55 | [Decide Qué Somos](https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W) | 2:49 |
 | 56 | [No Me Vuelvo a Enamorar](https://open.spotify.com/track/1djvcwusUBPg7c8lGR9htm) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta Once Grandes Exitos De Juan Gabriel](https://open.spotify.com/album/61odYv9kH9Zv4rxDOUwlBl) | 3:24 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 92 | [Que Te Vaya Bonito](https://open.spotify.com/track/4EPxEtHdumGMnUEROmrE3z) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [La Reina de la Canción Mexicana](https://open.spotify.com/album/5Vr2JTbPM5X0OC2k2O3ocd) | 2:58 |
 | 93 | [Qué Ironía](https://open.spotify.com/track/4OBNBGe8w5un8KJbONIhYF) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv), [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [Qué Ironía](https://open.spotify.com/album/0t0aSpLPZ8jaJ498eog6Lr) | 3:49 |
 | 94 | [MALAMANTE \(en carne viva\)](https://open.spotify.com/track/4YQ4KZT0CvKbFJFYPZZedi) | [Veronica Orozco](https://open.spotify.com/artist/1Te0peWkDd6h5Rnd0qjaKm), [Diana Hoyos](https://open.spotify.com/artist/1OfXFUyD2ihq5rMFtWIuJn) | [MALAMANTE \(en carne viva\)](https://open.spotify.com/album/12YgmMbN5H0v4ZXhxrSwpQ) | 3:20 |
-| 95 | [No Me Rebajo](https://open.spotify.com/track/67FAoDXB5Q1bxHLuFe7rIi) | [La Morra De La Vihuela](https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi) | [No Me Rebajo](https://open.spotify.com/album/5A7ZuC4mInd4SS88MUe3DU) | 3:23 |
+| 95 | [Dejémoslo Así](https://open.spotify.com/track/5MKzsXx4mJiVeRoifOyDpg) | [Sherlyn Sánchez](https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl) | [Dejémoslo Así](https://open.spotify.com/album/68uoaAVX3lfeKD2igm1SX1) | 3:29 |
 | 96 | [Quítame Ese Hombre](https://open.spotify.com/track/3bTQCOV78Zy2Rg276elgkM) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Quítame ese Hombre](https://open.spotify.com/album/63wfPXkXzSQXAb413lGXCg) | 3:16 |
 | 97 | [Besos y Copas](https://open.spotify.com/track/2qHHBjkrs2KlzG1mb0A3Qc) | [Guadalupe Pineda](https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii) | [Besos y Copas](https://open.spotify.com/album/5HTIRhX9JAFrHL1LVQK0xI) | 3:01 |
-| 98 | [Dejémoslo Así](https://open.spotify.com/track/5MKzsXx4mJiVeRoifOyDpg) | [Sherlyn Sánchez](https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl) | [Dejémoslo Así](https://open.spotify.com/album/68uoaAVX3lfeKD2igm1SX1) | 3:29 |
+| 98 | [No Me Rebajo](https://open.spotify.com/track/67FAoDXB5Q1bxHLuFe7rIi) | [La Morra De La Vihuela](https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi) | [No Me Rebajo](https://open.spotify.com/album/5A7ZuC4mInd4SS88MUe3DU) | 3:23 |
 | 99 | [Paloma Sin Nido](https://open.spotify.com/track/6u3NpKIbHU7MgFPTIeKGIZ) | [Amalia Mendoza](https://open.spotify.com/artist/3zH5WktZU1xXqBZMsgV0IC) | [La Tariácuri](https://open.spotify.com/album/5p8WmAnz98OGqYig1OB9iU) | 2:56 |
 | 100 | [¿Por Qué Te Vas?](https://open.spotify.com/track/0nDbGRrxLJggLRi5ErHPIK) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31), [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [¿Por Qué Te Vas?](https://open.spotify.com/album/1Wjp0bh15AzLi7JbersDl5) | 3:05 |
 
-Snapshot ID: `MCxlNWJlNzg1ZGNkMzkyN2NhZDhlYzY2MmM1NGYwZDhhYjgzODU2ODdj`
+Snapshot ID: `MCxkNmNhM2I2NDAzYzJkMzA0OGQyMzFlZjc5Zjc3MDMxZjEwOWI0MjZh`

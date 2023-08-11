@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2LPGy4.md) - [plain]
 
 > This is Gerardo Ortiz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,566 likes - 51 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,671 likes - 51 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2LPGy4.md) - [plain]
 | 23 | [Gente del Nini](https://open.spotify.com/track/6pw1JhdFisuezjcr4DwJXY) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Gente del Nini](https://open.spotify.com/album/1LRhDW3RKbXS0jCgl7Y1R8) | 3:31 |
 | 24 | [El Coach \(En Vivo\)](https://open.spotify.com/track/3QS5Z1l9keZLelGpmnsSBl) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Coach \(En Vivo\)](https://open.spotify.com/album/5GrA7aAr5CK4BjIKybsShe) | 3:31 |
 | 25 | [Amor Confuso](https://open.spotify.com/track/4DylHCW46VE8AmQiW1EjUZ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Entre Dios y El Diablo \(Deluxe Version\)](https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN) | 3:01 |
-| 26 | [M En El Radar](https://open.spotify.com/track/0MtDgKq4LQwyQxwTDVhCUw) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [M En El Radar](https://open.spotify.com/album/6WjorFCymLlEUdC1bFs3Nc) | 2:20 |
-| 27 | [El Trokero Lokochon](https://open.spotify.com/track/6wMYwA7VyjkvTFUPj2LgyB) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Ni Hoy Ni Manana](https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL) | 2:34 |
+| 26 | [El Trokero Lokochon](https://open.spotify.com/track/6wMYwA7VyjkvTFUPj2LgyB) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Ni Hoy Ni Manana](https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL) | 2:34 |
+| 27 | [M En El Radar](https://open.spotify.com/track/0MtDgKq4LQwyQxwTDVhCUw) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [M En El Radar](https://open.spotify.com/album/6WjorFCymLlEUdC1bFs3Nc) | 2:20 |
 | 28 | [El Comando del Diablo](https://open.spotify.com/track/3WW63E8a8JLIAHMiatELLb) | [Noel Torres](https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Al Frente y de Frente](https://open.spotify.com/album/3HBCUAU5pi2fQVk9K0zj3c) | 2:30 |
 | 29 | [Regresa Hermosa](https://open.spotify.com/track/13owSDdId4auyDUXxS7H8i) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Comeré Callado, Vol\. 1](https://open.spotify.com/album/4IeW4TAoqfbRYzQNAKxk91) | 2:57 |
 | 30 | [Moneda \(feat\. Gerardo Ortiz\)](https://open.spotify.com/track/6zR3aAwQ7cn2U7F1sBtdj1) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [FIVE \(Deluxe Edition\)](https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P) | 3:06 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2LPGy4.md) - [plain]
 | 40 | [El Cholo](https://open.spotify.com/track/6z4awm3ZfXQjXGF5loOUAi) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Hoy Más Fuerte](https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46) | 2:13 |
 | 41 | [El Muletas \(En Vivo\)](https://open.spotify.com/track/24S2rcxfPv2hWwILSBMF3x) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Morir y Existir En Vivo](https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY) | 2:49 |
 | 42 | [Aquiles Afirmo](https://open.spotify.com/track/5L92JAcxJMVmLlKIWHhLCY) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Entre Dios y El Diablo \(Deluxe Version\)](https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN) | 3:18 |
-| 43 | [El Gabito](https://open.spotify.com/track/4irQHeQLap1F8Roqj3xJXW) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Gabito](https://open.spotify.com/album/1toEeNk0tz2X6J0bVwZGlR) | 2:43 |
-| 44 | [El Comando del Diablo \- En Vivo](https://open.spotify.com/track/4ttaps59yHeuSYKhMitFjJ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Comando del Diablo \(En Vivo\)](https://open.spotify.com/album/7hMQTRIaeXlCAaVxBX4pNx) | 2:53 |
+| 43 | [El Comando del Diablo \- En Vivo](https://open.spotify.com/track/4ttaps59yHeuSYKhMitFjJ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Comando del Diablo \(En Vivo\)](https://open.spotify.com/album/7hMQTRIaeXlCAaVxBX4pNx) | 2:53 |
+| 44 | [El Gabito](https://open.spotify.com/track/4irQHeQLap1F8Roqj3xJXW) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Gabito](https://open.spotify.com/album/1toEeNk0tz2X6J0bVwZGlR) | 2:43 |
 | 45 | [Mi Vicio Más Grande](https://open.spotify.com/track/6c2OfsMKs7pv7qhD0sGGeM) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [80 Años De Música Entre Amigos](https://open.spotify.com/album/1scgYlpUobokSRDYyeAwE3) | 2:17 |
 | 46 | [Polvito de Limón](https://open.spotify.com/track/30NTCvmEfRddA4bsnRZ7U3) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Polvito de Limón](https://open.spotify.com/album/5tlfPbg3TlQkMzCxtFN8we) | 2:41 |
 | 47 | [Estilo Sinaloa](https://open.spotify.com/track/3EtubqAbWJoVFg65iT7HlI) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Estilo Sinaloa](https://open.spotify.com/album/1bN6vo9qSj5Kw4KN0uTYZ3) | 4:28 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2LPGy4.md) - [plain]
 | 50 | [Escuela de rancho \- En Vivo](https://open.spotify.com/track/29CUZN81Hjnn6wf6F6KYQg) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Wil Caro](https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4) | [Escuela de rancho \(En Vivo\)](https://open.spotify.com/album/3PbdSYSoTRS2R0x4NcjgWx) | 3:24 |
 | 51 | [Más Caro, que ayer](https://open.spotify.com/track/62hyMZrYL0AjHgndb9ebZO) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Más Caro, que ayer](https://open.spotify.com/album/1lvumJJFlnydYEOXwdNrnk) | 2:27 |
 
-Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDA1NzgzOGUxMGVmNGIwMTE1YmRkMjAyYjVhODI0NDI3NQ==`
+Snapshot ID: `MjgxOTQ1NjMsMDAwMDAwMDA5YjQ5Y2M1N2QwNTY3ZGEyYjUxMTY2YWI2NjZlOGM4NQ==`

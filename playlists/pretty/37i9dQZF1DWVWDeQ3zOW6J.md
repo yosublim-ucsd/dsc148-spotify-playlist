@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWDeQ3zOW6J.md) - [plain]
 
 > ¡Nada le gana a una comida hecha con buena salsa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,767 likes - 60 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,791 likes - 60 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWDeQ3zOW6J.md) - [plain]
 | 59 | [Salsa Y Sabor](https://open.spotify.com/track/6PK9NhUfcPQL5vfkg44dYE) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Para los Rumberos](https://open.spotify.com/album/0NO0lAOqHxaM5wCdSZ8x8P) | 3:01 |
 | 60 | [Agua Que Va A Caer](https://open.spotify.com/track/417oy2mvDKzeiDFdTORBSJ) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ), [Cortijo Y Su Combo](https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma) | [La Quiniela del Día](https://open.spotify.com/album/6rFq3pKoKjFSkxigEd7Smw) | 5:04 |
 
-Snapshot ID: `MCw5YWRjMTBiOGVlOWYzYmNlYzM3ZTk2ZGNlNDNlNWIxMWRlNTU1OWU3`
+Snapshot ID: `MCw0NDZmNmY2YmM1ZGU5OGUwYzgyNDNlYWE3MGNmMzE4MmM3YTZkYTFh`

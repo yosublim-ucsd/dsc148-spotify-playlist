@@ -4,7 +4,7 @@
 
 > Bring in the new day.
 
-161 songs - 8 hr 42 min
+166 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Deep Meditation](https://open.spotify.com/track/1KkiMB3T1IRvxwP9DCBZWt) | [Tribal Drums Ambient](https://open.spotify.com/artist/43sPSu5S998ea5L4wtaZCV) | [Enter the Spirit World \- Shamanic Drumming Meditation](https://open.spotify.com/album/3qFC7eIbzF9nBD79xX47rH) | 3:09 | 2022-05-17 | 2022-11-26 |
 | [Dreamer Lounge](https://open.spotify.com/track/2cAp2tBDCzIXqiqiKe0IMa) | [Estelle Blanca](https://open.spotify.com/artist/1PoodiuzhtzA3XvvjO0uoM) | [Dreamer Lounge](https://open.spotify.com/album/5tMWJnbD4bwaZYQKq2Chke) | 4:55 | 2022-05-17 | 2022-09-03 |
 | [Drifting](https://open.spotify.com/track/07HyW4lru1xdPooGfX3s6x) | [Vibrational Winds](https://open.spotify.com/artist/3S51HXTFUW0h2esKYpsZ5y) | [Drifting](https://open.spotify.com/album/6TDEdmR4SSC7mUXXU8EdbQ) | 3:13 | 2022-05-17 |  |
-| [Early Bright](https://open.spotify.com/track/0yT6mUjUs7CiFeO3kXDEAB) | [Rhia Medina](https://open.spotify.com/artist/0l1AWcJLnjRdZx1XLVki2p) | [Early Bright](https://open.spotify.com/album/3L7tcCyYDAAVUkcNe9Nl7i) | 4:08 | 2022-06-01 |  |
+| [Early Bright](https://open.spotify.com/track/0yT6mUjUs7CiFeO3kXDEAB) | [Rhia Medina](https://open.spotify.com/artist/0l1AWcJLnjRdZx1XLVki2p) | [Early Bright](https://open.spotify.com/album/3L7tcCyYDAAVUkcNe9Nl7i) | 4:08 | 2022-06-01 | 2023-08-11 |
 | [Edasi](https://open.spotify.com/track/7ytnlVd8PmIQKbIz0xDEls) | [Lõhmus](https://open.spotify.com/artist/3TybHE2vGmjjIgpEpoogjE) | [Edasi](https://open.spotify.com/album/60g34Dm8jNth4tptfiYAr4) | 3:42 | 2022-09-02 |  |
 | [Elephant Trail](https://open.spotify.com/track/5SQga7WH3w5wr1OjaraB6W) | [Dream Of Bhuna](https://open.spotify.com/artist/3ygzTZqJ6VSFGKnzeQr1Rr) | [Morning Mist](https://open.spotify.com/album/0OM5gMRY7eOCCupk3nImmo) | 2:34 | 2022-06-01 | 2023-06-22 |
 | [Empty Nest](https://open.spotify.com/track/7EXaHleHFbECQcHRB4zc5i) | [Nirvana Handpan](https://open.spotify.com/artist/5HGiYfzLihy6ko4T5231Pw) | [Empty Nest](https://open.spotify.com/album/6Sh1KdQm1FyXcGkUfe0Xqn) | 2:50 | 2022-05-17 |  |
@@ -60,6 +60,7 @@
 | [Guardian Spirit](https://open.spotify.com/track/5R3vumaYt5qvKdkV16xC2U) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Guardian Spirit](https://open.spotify.com/album/03VIm7VSJi8xdIdZrhopiE) | 3:23 | 2022-09-02 |  |
 | [Hang Dream](https://open.spotify.com/track/7rssQlMojcRhT7Dd5NNKqF) | [Azure Lilly](https://open.spotify.com/artist/2CQgGsLubijMyj1ANswVeo) | [Hang Drums](https://open.spotify.com/album/7IGTotJEFgwoM5F8zSzBLM) | 3:24 | 2022-05-17 |  |
 | [Happiness \(with drums\)](https://open.spotify.com/track/5uO4ehg7RkW0GNZWVkIuik) | [Nambara Nim](https://open.spotify.com/artist/3At7zeaoPY1lvcdRNioifv) | [Happiness](https://open.spotify.com/album/4yfV7rBQ4zDMOV5cOh9PBd) | 3:20 | 2023-06-21 |  |
+| [Heal Within](https://open.spotify.com/track/1eb7d59xruOhOO88ihuDfA) | [Indra Jamal](https://open.spotify.com/artist/093uaz0ncoUvd9mN3jKF3E) | [Heal Within](https://open.spotify.com/album/2ZTHiYTgXmvdVF6WgwlQqT) | 3:32 | 2023-08-10 |  |
 | [Healing In Motion](https://open.spotify.com/track/07VngjCOcIk1bYIpLhvscU) | [Rag Nally](https://open.spotify.com/artist/2uSPSc1IHPt7fv6ve5jRQK) | [Bright View](https://open.spotify.com/album/5VV9ouPNjWngNXa2tCUKlS) | 2:06 | 2023-06-21 |  |
 | [Healing Stones](https://open.spotify.com/track/3W2j6BipXBlTPfErJTyJWo) | [Solarixo](https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY) | [Healing Stones](https://open.spotify.com/album/0N4dk5ISyVfLM7Es4zEsCr) | 2:37 | 2022-05-17 |  |
 | [Hidden Temple](https://open.spotify.com/track/5txyOQiZCANhBcWt0nVEXm) | [Dream Of Bhuna](https://open.spotify.com/artist/3ygzTZqJ6VSFGKnzeQr1Rr) | [Hidden Temple](https://open.spotify.com/album/4I86wJoOyV4Wtc8k00nvxf) | 2:33 | 2022-05-17 | 2023-06-22 |
@@ -103,8 +104,10 @@
 | [Phanari Sunrise](https://open.spotify.com/track/5kTcSaf7HAHHKAXWDZ4w50) | [Phanari](https://open.spotify.com/artist/4EbKxHUCFQoF8htm8bKXxg) | [A Red Dream](https://open.spotify.com/album/2ZmaiChMVmFhyJshZ4YRzk) | 2:52 | 2023-06-21 |  |
 | [Planets Rise](https://open.spotify.com/track/0Qx2fTCn7wSxeHt3jyI1Jj) | [Northern Path](https://open.spotify.com/artist/2eJKWn5c5wQXokRkT5LF4T) | [Planets Rise](https://open.spotify.com/album/65izdFSoEJds0oVAHgzzVZ) | 3:24 | 2022-12-23 |  |
 | [Prkahm Mindbeats](https://open.spotify.com/track/3Th5MNEqf4f41KT6lEui1h) | [Tribal Tranquility](https://open.spotify.com/artist/3kqCmBNUxv4gydsfojdTgS) | [Prkahm Mindbeats](https://open.spotify.com/album/3s7Gqi15d2IzMh0it9eIci) | 3:15 | 2022-10-25 |  |
+| [Pure Mind](https://open.spotify.com/track/7omXGUcVchArQhNtsxIF5W) | [Goa Gubhar](https://open.spotify.com/artist/6wcKtx6vCZVkuSjR4a7UaB) | [The Stillness](https://open.spotify.com/album/3TTogr8UUEB0gQWQNHPOkE) | 3:02 | 2023-08-10 |  |
 | [Queen West Blues](https://open.spotify.com/track/18Qmzx54JdUyR5jVq4HiUq) | [Vacant Cities](https://open.spotify.com/artist/4ln07OZWdNaIm0qb1fVOQ7) | [Queen West Blues](https://open.spotify.com/album/3AH157ouZcjjDiXQZO3BeW) | 2:21 | 2022-05-17 |  |
 | [Quiet Retreat](https://open.spotify.com/track/6xV3iMl83o73sNyO5dIWh4) | [Dream Of Bhuna](https://open.spotify.com/artist/3ygzTZqJ6VSFGKnzeQr1Rr) | [Quiet Retreat](https://open.spotify.com/album/6HUSaTFofcHdisVtNxt6mi) | 2:51 | 2023-06-21 |  |
+| [Ra](https://open.spotify.com/track/46WdVsTQR8oNSCz9TQTWup) | [Phumos](https://open.spotify.com/artist/4Kbma5Q6AakN90M13bF7mh) | [Ra](https://open.spotify.com/album/5iAKOHMEOZsRCvICTyDVuE) | 2:36 | 2023-08-10 |  |
 | [Rhythm Of My Soul](https://open.spotify.com/track/0azwXTgSFkWTFSRnt6di9r) | [Marolo Ocean](https://open.spotify.com/artist/1BiM1ohqvojfJWUzDwrFpQ) | [Rhythm Of My Soul](https://open.spotify.com/album/6silPFIfr3SUpF5cQNn9tD) | 3:04 | 2022-07-28 |  |
 | [Rhythm River](https://open.spotify.com/track/3Br4ekPWHt39VULZjDvlgt) | [Dream Of Bhuna](https://open.spotify.com/artist/3ygzTZqJ6VSFGKnzeQr1Rr) | [Indian Sunset](https://open.spotify.com/album/5og83tVSEQKGWbBBx1jz6I) | 2:54 | 2022-10-25 |  |
 | [Rhythmic Mantra](https://open.spotify.com/track/3Hh8NEf2zNucgiJ53ULdrb) | [Sonic Ark](https://open.spotify.com/artist/64yr5oBBkL3KiDfT9eexN1) | [Feel The Pulse](https://open.spotify.com/album/7hSVsHawmTtMOxvuJhmUjV) | 2:54 | 2023-06-21 |  |
@@ -127,6 +130,7 @@
 | [Slow Dharma Rhythm](https://open.spotify.com/track/2h8r92cX2vlsbmId8bav3l) | [Prana Collective](https://open.spotify.com/artist/5RfYWT0kGJC1Ag4C605tW2) | [Slow Dharma Rhythm](https://open.spotify.com/album/0BYXB6NTn8RnJSMlWRFunN) | 3:39 | 2023-01-19 |  |
 | [Sol Rythym](https://open.spotify.com/track/1SuOOxR5CYtqp0wUgG6KqK) | [Solarixo](https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY) | [Sol Rhythm](https://open.spotify.com/album/2AJAJVg6ebdW9pY61qeV6x) | 3:04 | 2022-05-17 |  |
 | [Solace](https://open.spotify.com/track/2mlqOfw2So3xzVYI1L4jf2) | [Rex Imaleo](https://open.spotify.com/artist/0tDrVzr4ZyzLf2618Cxp5w) | [Solace](https://open.spotify.com/album/6yqYU5gbSTzyLggppTtgZN) | 3:19 | 2023-06-21 |  |
+| [Soothing Soul](https://open.spotify.com/track/78LapUyXelxYlcvNjSbwsx) | [Sasha Green](https://open.spotify.com/artist/5OnulnqJlxCzWEyq3IfoVt) | [Soothing Soul](https://open.spotify.com/album/5pQPc6Jg2WrpBQjLwFyWQm) | 3:10 | 2023-08-10 |  |
 | [Soothing Waters](https://open.spotify.com/track/3Wn7pLRZ9mhzzNdS3tZKgS) | [AMBIE](https://open.spotify.com/artist/5oo57Q3XAVgiuF4D2BSz6D) | [Soothing Waters](https://open.spotify.com/album/6qHI0UaR18tKB6Og3A2N6V) | 3:20 | 2022-05-17 |  |
 | [Soothing Windfall](https://open.spotify.com/track/0vFm2UWOCZ5YYlC3cINv0I) | [Jolene Cedar](https://open.spotify.com/artist/41pIg33NrVsSkXuvOcG9Vs) | [Soothing Windfall](https://open.spotify.com/album/6osegKU9i4SzHPN7SG6aD3) | 2:17 | 2023-06-21 |  |
 | [Soul](https://open.spotify.com/track/33JL4gOiCqUBBWLhqRuV3R) | [Northern Path](https://open.spotify.com/artist/2eJKWn5c5wQXokRkT5LF4T) | [Bright Sun Mornings](https://open.spotify.com/album/5OUWe0EKkfBDhBLKkXlqzh) | 2:32 | 2022-06-23 |  |
@@ -142,7 +146,7 @@
 | [Sunrise](https://open.spotify.com/track/6xHnVRkHrO6ChjJ57TO6q0) | [Mohimbra](https://open.spotify.com/artist/79wtlzo4TgrC8pTPzHhHfF) | [Rhythms](https://open.spotify.com/album/49WX9FGlbYJlDultUGVEmh) | 3:20 | 2022-05-17 |  |
 | [Sunrise Song](https://open.spotify.com/track/3AkW0CVQ4pXw2D3ri5qfvf) | [John Serrie](https://open.spotify.com/artist/0wa407BBItqXt1SqfyhMEc), [Gary Stroutsos](https://open.spotify.com/artist/6koxUF41S16a1rmvjG44re) | [Hidden World](https://open.spotify.com/album/32RJs9ul4l3ZrfCNKvU8Hl) | 6:12 | 2022-05-17 | 2022-12-24 |
 | [Swahili](https://open.spotify.com/track/03ZYpkbpDoUJproBs64vli) | [Hank Drum](https://open.spotify.com/artist/7kpwgkybkjrBOQybEwDpWI) | [Healing My Soul](https://open.spotify.com/album/0QgeFx2lRMC9OpgeOS7cmo) | 2:31 | 2022-05-17 |  |
-| [Sway](https://open.spotify.com/track/7lxc6ruehlBCTMjCdeCDlf) | [Sounds of Love](https://open.spotify.com/artist/02yy9jEW0aHrT2MIb2IN0h) | [Rest](https://open.spotify.com/album/7gijYHP7M2rWUjC8N8m5Rq) | 2:58 | 2022-05-17 |  |
+| [Sway](https://open.spotify.com/track/7lxc6ruehlBCTMjCdeCDlf) | [Sounds of Love](https://open.spotify.com/artist/02yy9jEW0aHrT2MIb2IN0h) | [Rest](https://open.spotify.com/album/7gijYHP7M2rWUjC8N8m5Rq) | 2:58 | 2022-05-17 | 2023-08-11 |
 | [Sígueme](https://open.spotify.com/track/1PsJNnqXyaufkAJi0a7b4g) | [Zulima Cerda](https://open.spotify.com/artist/3VcUX4dm7OTAx6JlT8x9Tn) | [Sígueme](https://open.spotify.com/album/5ng3WKav3ROU6p0tdQJOyx) | 3:53 | 2022-06-01 |  |
 | [Tangerine Sky](https://open.spotify.com/track/5VG8600Qbb6vcPPO33IvTd) | [Jo Mar Fred](https://open.spotify.com/artist/4qc5t8tVmhwpYYTCcEz8Wz) | [Tangerine Sky](https://open.spotify.com/album/4VZgKvPE7z12njOZhDsrUS) | 3:07 | 2022-11-25 |  |
 | [The Escape](https://open.spotify.com/track/0VJ0mF41QVvhfRSYDHcJTg) | [Shaban Hashmi](https://open.spotify.com/artist/7DNrBvOfstbGggvLlBql7k) | [The Escape](https://open.spotify.com/album/4s1SFohbC9Zw7BYXCC8L3e) | 2:57 | 2022-05-17 | 2022-09-23 |
@@ -160,6 +164,7 @@
 | [Vesuvius](https://open.spotify.com/track/7oWWok4HLj5H1XZ6WWysJ0) | [Dreemy](https://open.spotify.com/artist/7Hh9phP3DEcbwxipzObxum) | [Paradiso](https://open.spotify.com/album/7xjY2vV7TQVf8PBhauR0qZ) | 3:05 | 2022-05-17 | 2023-06-22 |
 | [Vinyasa Rhytm](https://open.spotify.com/track/2LOv8O1P9CdJn3sZkxQbVi) | [Moira Kent](https://open.spotify.com/artist/75XVrjr0r3FvwErC3VDPcl) | [Vinyasa Rhytm](https://open.spotify.com/album/0uw8jZTriHtecSWAq7NrLi) | 2:52 | 2022-10-25 | 2022-11-26 |
 | [Vistaar](https://open.spotify.com/track/27jJ0tpNrZkd9qQrA40xQj) | [Ranjan E](https://open.spotify.com/artist/6cREMEcDlVDzlRcvGzHrQq) | [Vistaar](https://open.spotify.com/album/0IOthohemR6IYskmq3WhJQ) | 3:32 | 2022-10-25 | 2023-06-22 |
+| [Walk of the spirits](https://open.spotify.com/track/4JACIMZAYI7XVct3neUH90) | [Aura Lynx](https://open.spotify.com/artist/44mPTx3kx8S0Qj5SyliYIK) | [Walk of the spirits](https://open.spotify.com/album/5tuWm6iduv819xKUFhPDao) | 2:39 | 2023-08-10 |  |
 | [Well of Hope](https://open.spotify.com/track/1nL2bxBSNHt8tFI9T80XWn) | [KunDharma](https://open.spotify.com/artist/3NhCohtDbc2pjX9myuU2YJ) | [Well Of Hope](https://open.spotify.com/album/53dEbBBAkicA0G4mBDPkxc) | 3:08 | 2022-11-25 |  |
 | [Wild Rhythms](https://open.spotify.com/track/2zpLkW4Qb6mWm2cXErEe6T) | [Mysterious World Music](https://open.spotify.com/artist/1M25cy1w92G4Sf3Xnjogki) | [African Dance: Traditional Drums Music](https://open.spotify.com/album/4iyuNvRNniCwhh3oolXQ31) | 3:48 | 2022-05-17 | 2022-12-24 |
 | [Winds Of Hope](https://open.spotify.com/track/7Fk9G56CT7oAyqPRHCR54V) | [Tech Art](https://open.spotify.com/artist/1DAsNQc739srYx6Go2Evo8) | [Hang Drums](https://open.spotify.com/album/68kllnJ8TPDgacPsapIQBG) | 3:16 | 2022-05-17 |  |

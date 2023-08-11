@@ -2,7 +2,7 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: Yosef
+> Il meglio dell'R&B italiano\. Cover: Ganzo
 
 371 songs - 18 hr 19 min
 

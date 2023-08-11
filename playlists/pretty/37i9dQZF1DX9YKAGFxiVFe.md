@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YKAGFxiVFe.md) - [plain]
 
 > temas que repetirías más que a tu ex\. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,699 likes - 40 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,479 likes - 40 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YKAGFxiVFe.md) - [plain]
 | 10 | [Coco Chanel](https://open.spotify.com/track/0PB0O24JqAuNdOAFVJljMS) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 3:28 |
 | 11 | [Rara Vez](https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR) | [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Rara Vez](https://open.spotify.com/album/26wRfIX4WqKLKHll9O3KnF) | 2:08 |
 | 12 | [CHORRITO PA LAS ANIMAS](https://open.spotify.com/track/0CYTGMBYkwUxrj1MWDLrC5) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SIXDO](https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa) | 2:48 |
-| 13 | [Neverita](https://open.spotify.com/track/31i56LZnwE6uSu3exoHjtB) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:53 |
-| 14 | [Corazón Roto \- Remix](https://open.spotify.com/track/6k5wiT5l9DK8iZmhvEvoqo) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Corazón Roto \(Remix\)](https://open.spotify.com/album/6tt4TtcglWQFVSI0AGUvEF) | 4:35 |
+| 13 | [Corazón Roto \- Remix](https://open.spotify.com/track/6k5wiT5l9DK8iZmhvEvoqo) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Corazón Roto \(Remix\)](https://open.spotify.com/album/6tt4TtcglWQFVSI0AGUvEF) | 4:35 |
+| 14 | [Neverita](https://open.spotify.com/track/31i56LZnwE6uSu3exoHjtB) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:53 |
 | 15 | [Me Enteré](https://open.spotify.com/track/5FWQLEX0lavdxiWGBNkBQ4) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Me Enteré](https://open.spotify.com/album/6KBwgofbUBuXuFTuKmi9Js) | 3:02 |
 | 16 | [Shorty Party](https://open.spotify.com/track/55ZATsjPlTeSTNJOuW90pW) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [La Kelly](https://open.spotify.com/artist/4yEIQ0lJDgUEfsuYx3Gsmr) | [Shorty Party](https://open.spotify.com/album/4eoF8b15EaosNzpn2N3Rt9) | 4:25 |
 | 17 | [Niña Bonita](https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Niña Bonita](https://open.spotify.com/album/3bVdhbdl1XxW7u7A0TffBB) | 3:07 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YKAGFxiVFe.md) - [plain]
 | 34 | [Dile a El](https://open.spotify.com/track/13Tbv4nflNxg9kYBIbJnd9) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Afrodisíaco](https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v) | 3:29 |
 | 35 | [Pacto \(feat\. Luar La L\)](https://open.spotify.com/track/1nrYvSP0xgsD1pBcLju1R0) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Pacto \(feat\. Luar La L\)](https://open.spotify.com/album/74YXkj0wtAt2vIslobYqjt) | 4:44 |
 | 36 | [Donde?](https://open.spotify.com/track/5iaGRmDzm4aPhttaOEK8OD) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [6.5](https://open.spotify.com/album/2ZbIly4Kwg66WvLpagLIc2) | 2:42 |
-| 37 | [Vida Gangster](https://open.spotify.com/track/4I4FFtKZLtyqw4he9pPtL7) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG) | [Vida Gangster](https://open.spotify.com/album/0cWDantlEEkAwu9Z0gAiMX) | 2:50 |
+| 37 | [Venga Pa' Acá](https://open.spotify.com/track/6aiFYVWZZVVckJEfvdmiu8) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [Venga Pa' Acá](https://open.spotify.com/album/7L8D9kACIqQuMZfYRSICLu) | 2:45 |
 | 38 | [Mi Nena Remix](https://open.spotify.com/track/7q1KFoWUNYudhKW8RYJFsZ) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Mi Nena Remix](https://open.spotify.com/album/6N2xUWDyxIusQX9s71HWFW) | 3:40 |
-| 39 | [Venga Pa' Acá](https://open.spotify.com/track/6aiFYVWZZVVckJEfvdmiu8) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [Venga Pa' Acá](https://open.spotify.com/album/7L8D9kACIqQuMZfYRSICLu) | 2:45 |
-| 40 | [Antes](https://open.spotify.com/track/7bfFmlLJ1LKr2E3AUsvq5P) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Edu García](https://open.spotify.com/artist/4Gr4Wo60IdAOBJLYgRZytK) | [Antes](https://open.spotify.com/album/0ISa5lIjmXXaQ9bNQXJe6s) | 2:33 |
+| 39 | [Vida Gangster](https://open.spotify.com/track/4I4FFtKZLtyqw4he9pPtL7) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG) | [Vida Gangster](https://open.spotify.com/album/0cWDantlEEkAwu9Z0gAiMX) | 2:50 |
+| 40 | [Mini Mini](https://open.spotify.com/track/3KI4rfS7kRC58Dd4ToY7P3) | [Punto40](https://open.spotify.com/artist/2C1Pj5TMq8QjqbwQ4tmDtO), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Mini Mini](https://open.spotify.com/album/4zeYzXnl5RwCm4riSOuvOE) | 3:17 |
 
-Snapshot ID: `MCw1YjRkZTI3M2ExNzFjMzdkNDY4YzAyZjlkZDI3MGQ5MjUxZDg4NTEy`
+Snapshot ID: `MCxiNjUxODc1ZGU3Y2E3ZGYzMjA0MTkxNjU5MmYxMDc4YTE2NDJlMzll`

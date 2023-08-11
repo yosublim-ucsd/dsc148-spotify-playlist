@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 
 > Traditional country sounds from artists of yesterday and today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 698,218 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 698,435 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 25 | [Break Down Here](https://open.spotify.com/track/1xsGrsVJwG9zel8pefzVeo) | [Julie Roberts](https://open.spotify.com/artist/5sXhYkm9PpLn5R70U2T6Ba) | [Julie Roberts](https://open.spotify.com/album/6KnZp9UWIWTP6XqANgXaTi) | 4:05 |
 | 26 | [Neon Moon](https://open.spotify.com/track/3EUl8M6SzxZl03NPkB8mUd) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 4:23 |
 | 27 | [Amarillo By Morning](https://open.spotify.com/track/4TnUKixNWMfajncgdSwFoi) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Strait From The Heart](https://open.spotify.com/album/3NB2cmFq9nyhHSVz0Zv08t) | 2:53 |
-| 28 | [Sold \(The Grundy County Auction Incident\)](https://open.spotify.com/track/0NLBwQBYJhEM9t3KAMPFVR) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [John Michael Montgomery](https://open.spotify.com/album/5UPjyfi3zD7Oak7frjH8zk) | 2:32 |
-| 29 | [Should've Been A Cowboy](https://open.spotify.com/track/4TJUS843fKiqqIzycM74Oy) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith](https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA) | 3:31 |
+| 28 | [Flower Shops \(feat\. Morgan Wallen\)](https://open.spotify.com/track/2ccuOtUjIyx3tPcsnpeBzJ) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Flower Shops \(feat\. Morgan Wallen\)](https://open.spotify.com/album/5gdgH8d7W2KwkK03Ea0vpi) | 3:34 |
+| 29 | [Sold \(The Grundy County Auction Incident\)](https://open.spotify.com/track/0NLBwQBYJhEM9t3KAMPFVR) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [John Michael Montgomery](https://open.spotify.com/album/5UPjyfi3zD7Oak7frjH8zk) | 2:32 |
 | 30 | [Lay Down With You](https://open.spotify.com/track/0SLiBF2OKw6F1vjKV2rnt1) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Lay Down With You](https://open.spotify.com/album/1ednonVNc1XyWtfOT3V4In) | 3:02 |
-| 31 | [Flower Shops \(feat\. Morgan Wallen\)](https://open.spotify.com/track/2ccuOtUjIyx3tPcsnpeBzJ) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Flower Shops \(feat\. Morgan Wallen\)](https://open.spotify.com/album/5gdgH8d7W2KwkK03Ea0vpi) | 3:34 |
+| 31 | [Should've Been A Cowboy](https://open.spotify.com/track/4TJUS843fKiqqIzycM74Oy) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith](https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA) | 3:31 |
 | 32 | [What He Didn't Do](https://open.spotify.com/track/5OLaVCAM2pqg7X9mAM2W8M) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [29: Written In Stone](https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a) | 3:11 |
 | 33 | [Carrying Your Love With Me](https://open.spotify.com/track/7puxIVNdj5nsBJk43zM3bH) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Carrying Your Love With Me](https://open.spotify.com/album/3YwF2y9Y3FfEy2NOtDuDZZ) | 3:52 |
 | 34 | [She's In Love With The Boy \- Single Version](https://open.spotify.com/track/2ulBBx6YQ3qY3ci34RadtN) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Trisha Yearwood](https://open.spotify.com/album/6US5XlX7w7nL9pRE0F5jeI) | 4:08 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 94 | [I Think I'll Just Stay Here And Drink](https://open.spotify.com/track/3lX7epJ9xWICkf1YauHYgM) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Back To The Barrooms](https://open.spotify.com/album/3jq2yXUtI6kRQ296YpGFqj) | 4:31 |
 | 95 | [Over Drinkin' Under Thinkin'](https://open.spotify.com/track/31EPUusrydPHvsYNDcdAlJ) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [Dallas/Fort Worth](https://open.spotify.com/album/6JDmMjsVmSWoWJ3yCG2Fq7) | 3:17 |
 | 96 | [Guys Do It All the Time](https://open.spotify.com/track/0uZRJmWi1TH3wrAN7hAbyF) | [Mindy McCready](https://open.spotify.com/artist/2uB5sjjJwj4kB6TrRGLYJO) | [Ten Thousand Angels](https://open.spotify.com/album/52a0Dg2pHH0RbwwVFYcl7F) | 3:11 |
-| 97 | [Then Again](https://open.spotify.com/track/2PoOVPahdBzzlX8B35XflM) | [Mitch Rossell](https://open.spotify.com/artist/0cEVpgfIpUSsUKUMsRrhtZ) | [Then Again](https://open.spotify.com/album/0s0WEmrf0jQ9nUlqmBahLb) | 3:25 |
-| 98 | [Sunrise Tells The Story](https://open.spotify.com/track/1fCl1BY97PPNnac9oewVBJ) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [The Last Resort: Greetings From](https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag) | 3:27 |
+| 97 | [Sunrise Tells The Story](https://open.spotify.com/track/1fCl1BY97PPNnac9oewVBJ) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [The Last Resort: Greetings From](https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag) | 3:27 |
+| 98 | [Then Again](https://open.spotify.com/track/2PoOVPahdBzzlX8B35XflM) | [Mitch Rossell](https://open.spotify.com/artist/0cEVpgfIpUSsUKUMsRrhtZ) | [Then Again](https://open.spotify.com/album/0s0WEmrf0jQ9nUlqmBahLb) | 3:25 |
 | 99 | [Here's a Quarter \(Call Someone Who Cares\)](https://open.spotify.com/track/0RdMBceHhBJLqNjObk1NPP) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Greatest Hits: From the Beginning](https://open.spotify.com/album/5pDzCS2g2oZueNkPr1S1Ey) | 2:32 |
 | 100 | [I May Hate Myself In The Morning](https://open.spotify.com/track/6dWGSm15Vj6m7qLKEO85ZN) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [There's More Where That Came From](https://open.spotify.com/album/7unRtRZHDFAMqVNEAQjlDs) | 4:32 |
 
-Snapshot ID: `MCwyZmM3Mzc2ODA1OTBiZjdhYTNiY2QwOTJkMDFlODE3N2ZlYjZkNWQ5`
+Snapshot ID: `MCxlOTMxNjdjYmRmNWQ3YTIzYmI1M2VmY2IxMzQzZGE0NGI5OGNkODkx`

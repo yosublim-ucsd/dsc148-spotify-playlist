@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai
 
-160 songs - 8 hr 59 min
+161 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Akela](https://open.spotify.com/track/6XJes28674sRmlHAlndb5o) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Akela](https://open.spotify.com/album/2UtPYtrj2QPpvFV4PPwSCw) | 5:01 | 2023-08-04 |  |
 | [Akela Rasta](https://open.spotify.com/track/6s7nj6WHYqpn8Ywm1rqFIx) | [Suraj Nag](https://open.spotify.com/artist/2vX0pNOuin4A2xIM1Uy28d), [Sneha Bhattacharya](https://open.spotify.com/artist/4R3pfd3q5R5aMZcobk8InD), [Varun Chaturvedi](https://open.spotify.com/artist/3ZN07Zfrfk4RxZDmwFlOvL) | [Akela Rasta](https://open.spotify.com/album/0risckpoN86HOTMXh11HdH) | 1:48 | 2023-05-17 | 2023-07-13 |
 | [Alag Aasmaan](https://open.spotify.com/track/74kCarkFBzXYXNkkYJIsG0) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Alag Aasmaan](https://open.spotify.com/album/2WSMj9vMUGTwAMq0fo1vXi) | 3:32 | 2023-05-17 | 2023-06-10 |
-| [Alag Aasmaan \(Acoustic\)](https://open.spotify.com/track/1gxmaTGnxEgZuV8485tevN) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Alag Aasmaan \(Acoustic\)](https://open.spotify.com/album/6o0udgyHVEdegUKzU2sh89) | 3:31 | 2023-05-17 |  |
+| [Alag Aasmaan \(Acoustic\)](https://open.spotify.com/track/1gxmaTGnxEgZuV8485tevN) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Alag Aasmaan \(Acoustic\)](https://open.spotify.com/album/6o0udgyHVEdegUKzU2sh89) | 3:31 | 2023-05-17 | 2023-08-11 |
 | [Alvida \- Unplugged](https://open.spotify.com/track/2MEviVXfyeaCCbro4ewCiJ) | [Dhiren](https://open.spotify.com/artist/1sRgove6hd99H244tmsvxZ) | [Alvida \(Unplugged\)](https://open.spotify.com/album/6HMp56pHJKt4f6q2r2EwD8) | 3:30 | 2023-05-17 | 2023-07-25 |
 | [Aye Ajnabi](https://open.spotify.com/track/2pifOwXzqTdRHnVWXWoozl) | [Azadd](https://open.spotify.com/artist/03iLvvBbav8KGD0s6j8bPA) | [Aye Ajnabi](https://open.spotify.com/album/1n55d51MmvrGDqKba3Fx5W) | 2:56 | 2023-05-31 |  |
 | [Baarish Ki Boondein](https://open.spotify.com/track/18FhNEar51YMYXureTvkIn) | [Vibhas Arora](https://open.spotify.com/artist/5XNdEnoXYNrEm253PGukm3) | [Baarish Ki Boondein](https://open.spotify.com/album/178HTP7ToLI97nK9HySr0m) | 3:28 | 2023-07-07 |  |
@@ -79,6 +79,7 @@
 | [Khaali Panne](https://open.spotify.com/track/0uylAfhVFCGKdq6HkZimDX) | [Meghna Mishra](https://open.spotify.com/artist/3vJxJcGRIPwNnWnZwO4vmq), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Avinash Chouhan](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Milaap](https://open.spotify.com/album/4jDgpwtnRuQ0JEj4pPG5of) | 3:46 | 2023-07-17 |  |
 | [Khaali Panne](https://open.spotify.com/track/5JlDiKV0LaWXl82lKji0oq) | [Meghna Mishra](https://open.spotify.com/artist/3vJxJcGRIPwNnWnZwO4vmq), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Avinash Chouhan](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Khaali Panne](https://open.spotify.com/album/3W61toZhkU8TffnOtZlmBa) | 3:46 | 2023-06-06 | 2023-07-15 |
 | [Khala](https://open.spotify.com/track/5XgB4ThkJOi2dWT1GRSQZ6) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Khala](https://open.spotify.com/album/4d2PsSkEjUENjTiZTJHw9W) | 2:09 | 2023-05-17 |  |
+| [Khamakhaa](https://open.spotify.com/track/2xRUa9kABue4LnGZplUtaq) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Khamakhaa](https://open.spotify.com/album/45hQlqraN1cORIW26NwPBs) | 2:59 | 2023-08-10 |  |
 | [Khamoshiyan](https://open.spotify.com/track/5RNfzomY9DGKDbWg6Su06Q) | [Mahimma Bhardwaj](https://open.spotify.com/artist/6dAjKwptPcekFHZXyPPZ8j), [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Sushant Shankar](https://open.spotify.com/artist/37k8JbB4Ua1Gy8x7MY9xUx) | [Khamoshiyan](https://open.spotify.com/album/10iAmqk2jZP9mzbYlT5xsn) | 3:22 | 2023-06-28 |  |
 | [Khidki \- Acoustic](https://open.spotify.com/track/5PPlJZOvGzyMCNvE7bew43) | [Aditya N.](https://open.spotify.com/artist/4hywkPZjNnWbisCuDpTB5d), [Nayantara Bhatkal](https://open.spotify.com/artist/6tTt2QJN9fk6o0xePqBiIA), [Class](https://open.spotify.com/artist/55QQRSnrc4sTCDqJPLz2w0) | [Class: Season 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3LYcCtX4jQcwUr2q9es85P) | 2:14 | 2023-05-17 | 2023-07-13 |
 | [Kho Gaya Kyun](https://open.spotify.com/track/0IOasZouiW0Zr9osyXhFT0) | [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn) | [Kho Gaya Kyun](https://open.spotify.com/album/4TTaId3wunhM5YlrXLcu55) | 2:40 | 2023-05-17 | 2023-07-15 |

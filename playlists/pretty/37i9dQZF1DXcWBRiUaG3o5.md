@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 
 > Keep your night easy and light with this acoustic mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,324,604 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,324,591 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,15 +61,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 51 | [Woodpecker](https://open.spotify.com/track/0D5YcW57alDCPA6XQwwKcZ) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Big Bend \(An Original Soundtrack for Public Television\)](https://open.spotify.com/album/7w3BcToSqLYL2z3HOgMWwv) | 2:05 |
 | 52 | [By Night](https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob) | [Puzzle Muteson](https://open.spotify.com/artist/3PkGkJmTotXKubtTksWboK) | [Theatrics](https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC) | 3:38 |
 | 53 | [If I Told](https://open.spotify.com/track/2Ckv1DTVTt5UPdnWutOO7h) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Old Flowers](https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI) | 4:58 |
-| 54 | [Cool Girl](https://open.spotify.com/track/51ZW0OUvhcO0uyXR3E68bh) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Build A Problem](https://open.spotify.com/album/2oMbQ7W1QddUdasTYrJdzE) | 3:19 |
-| 55 | [symbol](https://open.spotify.com/track/5UvgTF3oGUxRwi96UZJd4I) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [abysskiss](https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa) | 3:49 |
+| 54 | [symbol](https://open.spotify.com/track/5UvgTF3oGUxRwi96UZJd4I) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [abysskiss](https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa) | 3:49 |
+| 55 | [Cool Girl](https://open.spotify.com/track/51ZW0OUvhcO0uyXR3E68bh) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Build A Problem](https://open.spotify.com/album/2oMbQ7W1QddUdasTYrJdzE) | 3:19 |
 | 56 | [Song For The Thankful](https://open.spotify.com/track/2nYnAcwmnOe4zr4WVmIefC) | [Avi Kaplan](https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p) | [Song For The Thankful](https://open.spotify.com/album/0Q1YKEQ4XgNjQm5B31YjHM) | 3:54 |
 | 57 | [Under Dusk](https://open.spotify.com/track/3TbH823KFCLfwo8elqPtpj) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx), [Enna Blake](https://open.spotify.com/artist/3qIZ7QSE210xVDfAHDpXmb) | [Under Dusk](https://open.spotify.com/album/6P2il2hKvAhUel4zPM0Dpp) | 3:39 |
 | 58 | [La Lune](https://open.spotify.com/track/36DcfX0BSdwNHPqsBPQ1AH) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [La Lune](https://open.spotify.com/album/1q07FQXhMgTtjMqOHXycAA) | 3:08 |
 | 59 | [Nice and Quiet](https://open.spotify.com/track/1BWOUFGSAbPzrhZxDMno2K) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Bedouine \(Deluxe\)](https://open.spotify.com/album/5xkDtosZAm6qiGyRFc6ocB) | 3:51 |
 | 60 | [Golden \(Acoustic\)](https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Golden \(Acoustic\)](https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br) | 5:07 |
-| 61 | [Guiding Light](https://open.spotify.com/track/1rwFqSVH8k9ovPHgAxThkN) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Joy of Nothing](https://open.spotify.com/album/2NvXp1Yq7mslZYfZiRmGUq) | 5:52 |
-| 62 | [Wake Me](https://open.spotify.com/track/6tBTW1d7ikxXEfkhGQjPHi) | [Message To Bears](https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3) | [Folding Leaves](https://open.spotify.com/album/1BL9HsiqZUc4IXFT3LKwzr) | 5:32 |
+| 61 | [Wake Me](https://open.spotify.com/track/6tBTW1d7ikxXEfkhGQjPHi) | [Message To Bears](https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3) | [Folding Leaves](https://open.spotify.com/album/1BL9HsiqZUc4IXFT3LKwzr) | 5:32 |
+| 62 | [Guiding Light](https://open.spotify.com/track/1rwFqSVH8k9ovPHgAxThkN) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Joy of Nothing](https://open.spotify.com/album/2NvXp1Yq7mslZYfZiRmGUq) | 5:52 |
 | 63 | [Witness Trees](https://open.spotify.com/track/5QENB0ad34Y0Fs2j7DoOXI) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Witness Trees](https://open.spotify.com/album/5R2eVRMY8SSRPiq8EV4urI) | 2:40 |
 | 64 | [Fickle Heart](https://open.spotify.com/track/6tQ0NRz73GtyDKklLzgJlD) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [Fickle Heart](https://open.spotify.com/album/1bUQh6ejZ3TWI2uilCJN5Z) | 3:21 |
 | 65 | [I Will Be Blessed](https://open.spotify.com/track/4PFhGZLzpWQk7CumiCyNH7) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom \(Deluxe Version\)](https://open.spotify.com/album/1nJsbWm3Yy2DW1KIc1OKle) | 5:31 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 92 | [Maybe Tomorrow](https://open.spotify.com/track/7xObdqm0oTTUyerRM4EB1N) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Maybe Tomorrow](https://open.spotify.com/album/5UfmWpaxxhLd6f0ZdKnHaT) | 3:45 |
 | 93 | [Waiting for You](https://open.spotify.com/track/09GKItLsZLhzxdz70rKhCt) | [Isobel Anderson](https://open.spotify.com/artist/1tUN2f2byOej4LZdDq1UO9) | [In My Garden](https://open.spotify.com/album/0ECV8Ah8uUGnJxPjCOjDpe) | 3:06 |
 | 94 | [A Sea of Roses](https://open.spotify.com/track/72w7uKE7CkNwpLFUBHqUkC) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [All the Things That I Did and All the Things That I Didn't Do](https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq) | 3:19 |
-| 95 | [Wilderness](https://open.spotify.com/track/2qw3TJxd8Wn2ZVGHkf8YaW) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Adaptations](https://open.spotify.com/album/75KCEmU9IxlwClwPnM4KEC) | 3:26 |
-| 96 | [Stop Your Tears](https://open.spotify.com/track/2zWAa5XkVa1yg756YauQHF) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Aldous Harding](https://open.spotify.com/album/3qNcM4FzzR7pT4JRNDqfyi) | 5:38 |
-| 97 | [Ain't No Grave \(Sparse\)](https://open.spotify.com/track/2aSP07jHAlACdY9tphgkA8) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Ain't No Grave](https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj) | 3:18 |
-| 98 | [Wild Parts](https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Wild Parts](https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam) | 3:59 |
+| 95 | [Wild Parts](https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Wild Parts](https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam) | 3:59 |
+| 96 | [Wilderness](https://open.spotify.com/track/2qw3TJxd8Wn2ZVGHkf8YaW) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Adaptations](https://open.spotify.com/album/75KCEmU9IxlwClwPnM4KEC) | 3:26 |
+| 97 | [Stop Your Tears](https://open.spotify.com/track/2zWAa5XkVa1yg756YauQHF) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Aldous Harding](https://open.spotify.com/album/3qNcM4FzzR7pT4JRNDqfyi) | 5:38 |
+| 98 | [Ain't No Grave \(Sparse\)](https://open.spotify.com/track/2aSP07jHAlACdY9tphgkA8) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Ain't No Grave](https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj) | 3:18 |
 | 99 | [Catacombs](https://open.spotify.com/track/2SE7iLlDGwXFHdIj256n7O) | [Fog Lake](https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H) | [Tragedy Reel](https://open.spotify.com/album/5YYAGPTggoqXxidTTb7AgM) | 3:21 |
 | 100 | [Can't Get My Head Around Loving You](https://open.spotify.com/track/7zZMiYg8kdGBEgXFjdMO6G) | [David Benjamin](https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW) | [EP 3](https://open.spotify.com/album/4h25nu7FiDhAeSWHfOjGE9) | 3:21 |
 
-Snapshot ID: `MCw2NWYxNTM1ZWVjM2QxNDc0N2ZhNWJmNmZlNDYzM2NlZDg5YmVlZGRh`
+Snapshot ID: `MCw2Mjc2YThkYTcxZTQxZDBkMDhjOGVlZWM4YWQ2NWQ5MmVmNDY1NWVj`

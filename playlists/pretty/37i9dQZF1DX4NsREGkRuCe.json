@@ -1,12 +1,12 @@
 {
   "description": "Turn traffic stops into jam sessions.",
-  "num_followers": 45377,
+  "num_followers": 45469,
   "original_name": "Traffic Jams Naija ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDNiNmIzNzliOWZlYTk4ZmY4NTcxZDFiMTVhYWI5MTI0M2U3Njg5",
+  "snapshot_id": "MCwxMDM4OTk5ZmI0ODYyYjhmYjZlZjRlNzlhNjNlMjQ5NzMxM2ZkMjA5",
   "tracks": [
     {
       "added_at": "2023-08-03 23:00:00",
@@ -507,26 +507,6 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Passport Bros (with J. Cole)",
-        "url": "https://open.spotify.com/album/2oTvw7CyNOGw0ie3g6KnKe"
-      },
-      "artists": [
-        {
-          "name": "Bas",
-          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 164551,
-      "name": "Passport Bros (with J. Cole)",
-      "url": "https://open.spotify.com/track/3Owi7BjAeziHBYS0gLvHTQ"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
         "name": "Beautiful And Brutal Yard",
         "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 193600,
       "name": "Militerian (feat. Naira Marley)",
       "url": "https://open.spotify.com/track/0oBDJWGnTJs9C0Ax90tMj0"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "Passport Bros (with J. Cole)",
+        "url": "https://open.spotify.com/album/2oTvw7CyNOGw0ie3g6KnKe"
+      },
+      "artists": [
+        {
+          "name": "Bas",
+          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 164551,
+      "name": "Passport Bros (with J. Cole)",
+      "url": "https://open.spotify.com/track/3Owi7BjAeziHBYS0gLvHTQ"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -807,38 +807,6 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Pick Up",
-        "url": "https://open.spotify.com/album/17Q3HSD6YVtEGWuhN4HrPU"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 156550,
-      "name": "Pick Up",
-      "url": "https://open.spotify.com/track/1deimiQlzca70jziGDtTsm"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
-        "name": "Work Of Art",
-        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 185739,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/3Yr0vIcfXq5MWdSDmZzKgk"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
         "name": "Playboy",
         "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
       },
@@ -859,6 +827,38 @@
       "duration_ms": 232155,
       "name": "Diana",
       "url": "https://open.spotify.com/track/6g8vNyogMW32lhHlNcDiwX"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "Work Of Art",
+        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 185739,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/3Yr0vIcfXq5MWdSDmZzKgk"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "Pick Up",
+        "url": "https://open.spotify.com/album/17Q3HSD6YVtEGWuhN4HrPU"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 156550,
+      "name": "Pick Up",
+      "url": "https://open.spotify.com/track/1deimiQlzca70jziGDtTsm"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1235,6 +1235,26 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
+        "name": "Carry Me Go",
+        "url": "https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        },
+        {
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
+        }
+      ],
+      "duration_ms": 136464,
+      "name": "Carry Me Go",
+      "url": "https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
         "name": "Thy Kingdom Come",
         "url": "https://open.spotify.com/album/1EUh0evo2sfC0Y8T0cnPAd"
       },
@@ -1283,26 +1303,6 @@
       "duration_ms": 205000,
       "name": "Overloading (OVERDOSE)",
       "url": "https://open.spotify.com/track/4lVEVXrlQlXPdYWMGTwrFe"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
-        "name": "Carry Me Go",
-        "url": "https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        },
-        {
-          "name": "Boy Spyce",
-          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
-        }
-      ],
-      "duration_ms": 136464,
-      "name": "Carry Me Go",
-      "url": "https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1495,26 +1495,6 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Loaded",
-        "url": "https://open.spotify.com/album/1bz4MGZBxnYFjmCXf9lm0g"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 155789,
-      "name": "Loaded",
-      "url": "https://open.spotify.com/track/3J5IO8OLj05dRaZjHBHS8D"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
         "name": "Trumpet",
         "url": "https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m"
       },
@@ -1531,6 +1511,26 @@
       "duration_ms": 188656,
       "name": "Trumpet",
       "url": "https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "Loaded",
+        "url": "https://open.spotify.com/album/1bz4MGZBxnYFjmCXf9lm0g"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 155789,
+      "name": "Loaded",
+      "url": "https://open.spotify.com/track/3J5IO8OLj05dRaZjHBHS8D"
     }
   ],
   "unique_name": "Traffic Jams Naija ",

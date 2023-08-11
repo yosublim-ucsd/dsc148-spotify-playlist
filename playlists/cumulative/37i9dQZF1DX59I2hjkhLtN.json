@@ -592,7 +592,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 199471,
       "name": "Alma",
       "url": "https://open.spotify.com/track/0NdpQXyjJScXZ5H4wIEewD"
@@ -912,7 +912,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 238018,
       "name": "Babar os Nike",
       "url": "https://open.spotify.com/track/4xlRH6S6l0oWmSuLNSbolG"
@@ -1238,7 +1238,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 162206,
       "name": "Benzema",
       "url": "https://open.spotify.com/track/4UWIu1zX6REEUEuvOUymUJ"
@@ -1730,6 +1730,24 @@
       "duration_ms": 107027,
       "name": "Cl\u00e1ssico",
       "url": "https://open.spotify.com/track/00FA5qLAduehX0S079Zsd7"
+    },
+    {
+      "album": {
+        "name": "COBRAS & LAGARTOS",
+        "url": "https://open.spotify.com/album/7BmveDTraVGfnbwm7aQotk"
+      },
+      "artists": [
+        {
+          "name": "el Amukinado",
+          "url": "https://open.spotify.com/artist/0OMqwt5uyjQqbh7KL1Wlg2"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305689,
+      "name": "COBRAS & LAGARTOS",
+      "url": "https://open.spotify.com/track/41ijYc73yar9Z195mqGAUr"
     },
     {
       "album": {
@@ -2650,7 +2668,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 192327,
       "name": "duality",
       "url": "https://open.spotify.com/track/7D8Q16EPjM9693MXczL4Nf"
@@ -3058,6 +3076,32 @@
       "duration_ms": 155555,
       "name": "Eu N\u00e3o Dan\u00e7o",
       "url": "https://open.spotify.com/track/62iVeJVooh0zST9H9GQn16"
+    },
+    {
+      "album": {
+        "name": "Eu n\u00e3o sou do tipo",
+        "url": "https://open.spotify.com/album/3GJeRQo0lvE3N6KH9CgSuv"
+      },
+      "artists": [
+        {
+          "name": "Kinzonzy",
+          "url": "https://open.spotify.com/artist/7zyv6qSvmb4uuTAvktW9qB"
+        },
+        {
+          "name": "Music Value",
+          "url": "https://open.spotify.com/artist/0yoDhyNsHOIVMjiqh2uyhO"
+        },
+        {
+          "name": "AET",
+          "url": "https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154514,
+      "name": "Eu n\u00e3o sou do tipo",
+      "url": "https://open.spotify.com/track/5Mrc3IimUxSxhJb12lWR47"
     },
     {
       "album": {
@@ -3483,6 +3527,24 @@
     },
     {
       "album": {
+        "name": "Folhas",
+        "url": "https://open.spotify.com/album/5bVTGRPPJSP8nefRraYIp8"
+      },
+      "artists": [
+        {
+          "name": "C57",
+          "url": "https://open.spotify.com/artist/3A3a9O9OLay8KocxjNKlyP"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214920,
+      "name": "Folhas",
+      "url": "https://open.spotify.com/track/0JUe2TfB22ZCuBTTApHmaJ"
+    },
+    {
+      "album": {
         "name": "Fora Lei",
         "url": "https://open.spotify.com/album/1Zahm2tVQAN0UrF1ByDKTd"
       },
@@ -3498,7 +3560,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 219428,
       "name": "Fora Lei",
       "url": "https://open.spotify.com/track/3WrWXxzV0O0e09BwSvVASn"
@@ -5033,6 +5095,24 @@
     },
     {
       "album": {
+        "name": "Level Up",
+        "url": "https://open.spotify.com/album/1V4NIooFw5D0hbv6oie8RH"
+      },
+      "artists": [
+        {
+          "name": "Hevvy x Fukk",
+          "url": "https://open.spotify.com/artist/4oKS5QR0v9JXTP3oG78WpJ"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173136,
+      "name": "Level Up",
+      "url": "https://open.spotify.com/track/41lbOjJ8ut4YSj1CTdKI40"
+    },
+    {
+      "album": {
         "name": "Lifestyle",
         "url": "https://open.spotify.com/album/0zd9eJgWwIzyjzKRUs5D6n"
       },
@@ -5262,6 +5342,28 @@
       "duration_ms": 131662,
       "name": "Lumi",
       "url": "https://open.spotify.com/track/3T730d6ZWMwVnMXE51v2eY"
+    },
+    {
+      "album": {
+        "name": "Luzes Azuis",
+        "url": "https://open.spotify.com/album/4W7GEex5gMND8QBEc1uZ3S"
+      },
+      "artists": [
+        {
+          "name": "Sch\u00f6n",
+          "url": "https://open.spotify.com/artist/2JzUNduIDFAPI3rYfhuTe1"
+        },
+        {
+          "name": "Hellinger",
+          "url": "https://open.spotify.com/artist/3J9YF2uaw0QUmjsTgwc3ZG"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Luzes Azuis",
+      "url": "https://open.spotify.com/track/7IGimeOgcKTucTxEwsThya"
     },
     {
       "album": {
@@ -7329,6 +7431,28 @@
     },
     {
       "album": {
+        "name": "Ohhh",
+        "url": "https://open.spotify.com/album/3yRusfv9KZ0EFI2HWpO77p"
+      },
+      "artists": [
+        {
+          "name": "JNY",
+          "url": "https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru"
+        },
+        {
+          "name": "DIGGA",
+          "url": "https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "Ohhh",
+      "url": "https://open.spotify.com/track/4eG7PhXsV1S9jW4ENOu1GN"
+    },
+    {
+      "album": {
         "name": "OKAY",
         "url": "https://open.spotify.com/album/3WIUKuEeL3dBx3NkXMfQq9"
       },
@@ -7398,7 +7522,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 160005,
       "name": "Onde Estou a Ir",
       "url": "https://open.spotify.com/track/30nyKvMD2WR8o2hXnEK8ka"
@@ -7597,6 +7721,24 @@
     },
     {
       "album": {
+        "name": "PARIS",
+        "url": "https://open.spotify.com/album/6vOPfB9jESehCOBUHKrNZi"
+      },
+      "artists": [
+        {
+          "name": "Marianne",
+          "url": "https://open.spotify.com/artist/1dGNGqFBACsTB9ctNTUOme"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166666,
+      "name": "PARIS",
+      "url": "https://open.spotify.com/track/3rS6DQZTEpufrgWuWGCejA"
+    },
+    {
+      "album": {
         "name": "Parque",
         "url": "https://open.spotify.com/album/3z2cKr6G3oX1ssqFjgTsLb"
       },
@@ -7782,7 +7924,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 136490,
       "name": "Pen Drive",
       "url": "https://open.spotify.com/track/4NYL7Jh26U03gjXG4p2j4W"
@@ -9494,7 +9636,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 178112,
       "name": "Soldados Ka Podi Recua",
       "url": "https://open.spotify.com/track/1xtPsJOZ4iiVSVZ6IBJfwh"
@@ -10291,6 +10433,24 @@
     },
     {
       "album": {
+        "name": "Tudo Se Repete",
+        "url": "https://open.spotify.com/album/4brC0gox7AtKcndkkHhhpe"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/7a4kyJ95ewEhOmBeDFH5Qz"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186517,
+      "name": "Tudo Se Repete",
+      "url": "https://open.spotify.com/track/2gLijdOpgmEv7K8Ly8y4su"
+    },
+    {
+      "album": {
         "name": "Tundra",
         "url": "https://open.spotify.com/album/3yM8zrPKGaGhxxvnzZEtUZ"
       },
@@ -10858,7 +11018,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 223070,
       "name": "Voando Alto",
       "url": "https://open.spotify.com/track/5AmZiQnTncvC0z060HYRXf"

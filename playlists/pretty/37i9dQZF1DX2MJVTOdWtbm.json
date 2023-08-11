@@ -1,12 +1,12 @@
 {
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Aleesha",
-  "num_followers": 109701,
+  "num_followers": 109735,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2RhYjQ2YmIwNzk4NDFhZTAzZWNmYTlhOWQ2OGNmYjI1ZjEzMzY1",
+  "snapshot_id": "MCw0NThkNWMwMzA4NTg1Yzc5MjRhMmUzMjRlZTdlMjU1YzcyZDhkYzEz",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -367,26 +367,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Hood (Remix)",
-        "url": "https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 176372,
-      "name": "Hood - Remix",
-      "url": "https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 191849,
       "name": "Down With Me",
       "url": "https://open.spotify.com/track/4LLqqvlsks9SQ3exoqhk4h"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Hood (Remix)",
+        "url": "https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 176372,
+      "name": "Hood - Remix",
+      "url": "https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -531,26 +531,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Estetograma",
-        "url": "https://open.spotify.com/album/5g2NbpwACR5K3maWs2uaJu"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Daym\u00e9 Arocena",
-          "url": "https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Estetograma",
-      "url": "https://open.spotify.com/track/5Jhybb3bz6VtMzfgNPGtqN"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Amor En Espa\u00f1ol",
         "url": "https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 192526,
       "name": "Grillz",
       "url": "https://open.spotify.com/track/3NYmQgmnd2nDeRfq5vQbyu"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Estetograma",
+        "url": "https://open.spotify.com/album/5g2NbpwACR5K3maWs2uaJu"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "Daym\u00e9 Arocena",
+          "url": "https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Estetograma",
+      "url": "https://open.spotify.com/track/5Jhybb3bz6VtMzfgNPGtqN"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "T\u00fa All\u00e1 y Yo Ac\u00e1 (Live Session)",
-        "url": "https://open.spotify.com/album/05e8JBi4u19yBCuEEobbm9"
-      },
-      "artists": [
-        {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "T\u00fa All\u00e1 y Yo Ac\u00e1 - Live Session",
-      "url": "https://open.spotify.com/track/7wAybTs5t6QHLGViU5ZtYk"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Amor En Espa\u00f1ol",
         "url": "https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 187440,
       "name": "Monte Carlo",
       "url": "https://open.spotify.com/track/0vV9YneKNzEEsAxQBFfOzp"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "T\u00fa All\u00e1 y Yo Ac\u00e1 (Live Session)",
+        "url": "https://open.spotify.com/album/05e8JBi4u19yBCuEEobbm9"
+      },
+      "artists": [
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "T\u00fa All\u00e1 y Yo Ac\u00e1 - Live Session",
+      "url": "https://open.spotify.com/track/7wAybTs5t6QHLGViU5ZtYk"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -891,18 +891,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "PAPI",
-        "url": "https://open.spotify.com/album/0CYXBRNmeLu4YzSiXhGk8s"
+        "name": "Emociones 1.5",
+        "url": "https://open.spotify.com/album/1iggkqIrsfiO7RtEFGcaGr"
       },
       "artists": [
         {
-          "name": "Itzza Primera",
-          "url": "https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM"
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
         }
       ],
-      "duration_ms": 146666,
-      "name": "PAPI",
-      "url": "https://open.spotify.com/track/1wOar9mXxzn1vF8vuNNRaB"
+      "duration_ms": 231724,
+      "name": "Te La Dedico",
+      "url": "https://open.spotify.com/track/6xAARuLFMtSZhhFERpB7vC"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -927,34 +927,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Emociones 1.5",
-        "url": "https://open.spotify.com/album/1iggkqIrsfiO7RtEFGcaGr"
+        "name": "PAPI",
+        "url": "https://open.spotify.com/album/0CYXBRNmeLu4YzSiXhGk8s"
       },
       "artists": [
         {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+          "name": "Itzza Primera",
+          "url": "https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM"
         }
       ],
-      "duration_ms": 231724,
-      "name": "Te La Dedico",
-      "url": "https://open.spotify.com/track/6xAARuLFMtSZhhFERpB7vC"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Room 302",
-        "url": "https://open.spotify.com/album/2ahKg6oAm6bUCnCaUob2mV"
-      },
-      "artists": [
-        {
-          "name": "Maikel Delacalle",
-          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Room 302",
-      "url": "https://open.spotify.com/track/1CRG6Br8GUtDwpi2l4LuIW"
+      "duration_ms": 146666,
+      "name": "PAPI",
+      "url": "https://open.spotify.com/track/1wOar9mXxzn1vF8vuNNRaB"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -979,18 +963,34 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "LA B\u00daSQUEDA",
-        "url": "https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE"
+        "name": "Room 302",
+        "url": "https://open.spotify.com/album/2ahKg6oAm6bUCnCaUob2mV"
       },
       "artists": [
         {
-          "name": "WANDA ORIGINAL",
-          "url": "https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD"
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
         }
       ],
-      "duration_ms": 93280,
-      "name": "Vamos Pal Espacio",
-      "url": "https://open.spotify.com/track/6VwH4mDDsCaiqVPPm9t0sy"
+      "duration_ms": 182500,
+      "name": "Room 302",
+      "url": "https://open.spotify.com/track/1CRG6Br8GUtDwpi2l4LuIW"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Bonnie and Clyde",
+        "url": "https://open.spotify.com/album/37xfmf71ctyktw4VCiFWc7"
+      },
+      "artists": [
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        }
+      ],
+      "duration_ms": 209192,
+      "name": "Bonnie and Clyde",
+      "url": "https://open.spotify.com/track/06YfgRDoApwaMSQVHSCPMP"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Bonnie and Clyde",
-        "url": "https://open.spotify.com/album/37xfmf71ctyktw4VCiFWc7"
+        "name": "LA B\u00daSQUEDA",
+        "url": "https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE"
       },
       "artists": [
         {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+          "name": "WANDA ORIGINAL",
+          "url": "https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD"
         }
       ],
-      "duration_ms": 209192,
-      "name": "Bonnie and Clyde",
-      "url": "https://open.spotify.com/track/06YfgRDoApwaMSQVHSCPMP"
+      "duration_ms": 93280,
+      "name": "Vamos Pal Espacio",
+      "url": "https://open.spotify.com/track/6VwH4mDDsCaiqVPPm9t0sy"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1379,22 +1379,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Joligud",
-        "url": "https://open.spotify.com/album/5tohi7LtQi206ZtOm7Zr15"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3gmQR1HPjoiANMh9j7arKV"
       },
       "artists": [
         {
-          "name": "YOSHI",
-          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
-        },
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
         }
       ],
-      "duration_ms": 214080,
-      "name": "Joligud",
-      "url": "https://open.spotify.com/track/0Y35Rs7m7s0Ttwn5oi0s14"
+      "duration_ms": 233743,
+      "name": "Horas y Horas - Spotify Singles",
+      "url": "https://open.spotify.com/track/3NaLccB2WOURQgSa3gWdQF"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1411,6 +1407,26 @@
       "duration_ms": 192418,
       "name": "Cada D\u00eda Te Quiero M\u00e1s",
       "url": "https://open.spotify.com/track/3cj60CwhSsrMr0nxMRIGKP"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Joligud",
+        "url": "https://open.spotify.com/album/5tohi7LtQi206ZtOm7Zr15"
+      },
+      "artists": [
+        {
+          "name": "YOSHI",
+          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
+        },
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "duration_ms": 214080,
+      "name": "Joligud",
+      "url": "https://open.spotify.com/track/0Y35Rs7m7s0Ttwn5oi0s14"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1443,6 +1459,30 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Tus Ojos Me Hablaron",
+        "url": "https://open.spotify.com/album/1DB93h9fw0dyrn9LOoYHeM"
+      },
+      "artists": [
+        {
+          "name": "Desert Ni\u00f1os",
+          "url": "https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD"
+        },
+        {
+          "name": "Slim Ans",
+          "url": "https://open.spotify.com/artist/4JFse8c35wKHAuzJO9BTqO"
+        },
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        }
+      ],
+      "duration_ms": 201290,
+      "name": "Tus Ojos Me Hablaron",
+      "url": "https://open.spotify.com/track/2lwPsHNyohO98CZY0ag3YQ"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "RIP",
         "url": "https://open.spotify.com/album/55b2KZglwORMKbL2bW8EhC"
       },
@@ -1471,46 +1511,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Tus Ojos Me Hablaron",
-        "url": "https://open.spotify.com/album/1DB93h9fw0dyrn9LOoYHeM"
-      },
-      "artists": [
-        {
-          "name": "Desert Ni\u00f1os",
-          "url": "https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD"
-        },
-        {
-          "name": "Slim Ans",
-          "url": "https://open.spotify.com/artist/4JFse8c35wKHAuzJO9BTqO"
-        },
-        {
-          "name": "Ms. Ambar",
-          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
-        }
-      ],
-      "duration_ms": 201290,
-      "name": "Tus Ojos Me Hablaron",
-      "url": "https://open.spotify.com/track/2lwPsHNyohO98CZY0ag3YQ"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3gmQR1HPjoiANMh9j7arKV"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 233743,
-      "name": "Horas y Horas - Spotify Singles",
-      "url": "https://open.spotify.com/track/3NaLccB2WOURQgSa3gWdQF"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "como te va?",
         "url": "https://open.spotify.com/album/113FXbf4zKRInNJksj2H8V"
       },
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Los Dos",
-        "url": "https://open.spotify.com/album/5J0ozKBrpKY05AoClZx56R"
-      },
-      "artists": [
-        {
-          "name": "Panther",
-          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
-        }
-      ],
-      "duration_ms": 172235,
-      "name": "Los Dos",
-      "url": "https://open.spotify.com/track/6kn5oUW8uoVIcGjpjbnBlw"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Ketamina",
         "url": "https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 171063,
       "name": "Ketamina",
       "url": "https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Los Dos",
+        "url": "https://open.spotify.com/album/5J0ozKBrpKY05AoClZx56R"
+      },
+      "artists": [
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
+        }
+      ],
+      "duration_ms": 172235,
+      "name": "Los Dos",
+      "url": "https://open.spotify.com/track/6kn5oUW8uoVIcGjpjbnBlw"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/2tw4c2z6HkCKsrIfrhNy86"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "Eres Mi Aire",
+      "url": "https://open.spotify.com/track/1sNoZW9xuJkNPeeBJgqLpG"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Libre",
         "url": "https://open.spotify.com/album/4y1JivHvgNKyLD7Zx7RlHZ"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 233142,
       "name": "Libre",
       "url": "https://open.spotify.com/track/6c0uR67qHuaEm4m7gGlUmw"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/2tw4c2z6HkCKsrIfrhNy86"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "Eres Mi Aire",
-      "url": "https://open.spotify.com/track/1sNoZW9xuJkNPeeBJgqLpG"
     },
     {
       "added_at": "2023-08-04 04:00:00",

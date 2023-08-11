@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57Z5f7AULjf.md) - [plain]
 
 > Making moves all summer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,053 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,055 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57Z5f7AULjf.md) - [plain]
 | 31 | [Talibans](https://open.spotify.com/track/0TTOsyDKykWhCh3qDd9wMY) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [No Love](https://open.spotify.com/album/6Ds8n0PlFxomLOtEHFwBeo) | 3:08 |
 | 32 | [Strike \(Holster\)](https://open.spotify.com/track/7iTTWHbr4tAlsRJN4m4bay) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Strike \(Holster\)](https://open.spotify.com/album/1v3fDc2dJvSEKOd3hOSjAH) | 2:28 |
 | 33 | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 3:29 |
-| 34 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 |
-| 35 | [Pound Town 2 \(feat\. Nicki Minaj & Tay Keith\)](https://open.spotify.com/track/6IEXjer2qbXhRLFv99NQQv) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Pound Town 2 \(feat\. Nicki Minaj & Tay Keith\)](https://open.spotify.com/album/7GfHTwHGoDzOEDInYlnR25) | 3:14 |
+| 34 | [Pound Town 2 \(feat\. Nicki Minaj & Tay Keith\)](https://open.spotify.com/track/6IEXjer2qbXhRLFv99NQQv) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Pound Town 2 \(feat\. Nicki Minaj & Tay Keith\)](https://open.spotify.com/album/7GfHTwHGoDzOEDInYlnR25) | 3:14 |
+| 35 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 |
 | 36 | [Sittin' On Top Of The World](https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sittin' On Top Of The World](https://open.spotify.com/album/3QZxr89jANriqgMK02R9Bn) | 2:39 |
 | 37 | [Little Things](https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things](https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO) | 3:24 |
 | 38 | [Jumbotron Shit Poppin](https://open.spotify.com/track/2ZlABhxMMa43COmZ97kKsJ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57Z5f7AULjf.md) - [plain]
 | 49 | [Bops](https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Bops](https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM) | 2:08 |
 | 50 | [V6](https://open.spotify.com/track/7aBd8qMooFYZtQQwQJFAdX) | [Ireland Boss](https://open.spotify.com/artist/3JoZVMSSVzYhhMQ5dthRuT), [Malie Donn](https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW) | [V6](https://open.spotify.com/album/1VtkkjbqEL8STeBQmpy1Fp) | 2:42 |
 
-Snapshot ID: `MCxlMmVkZTliN2ZlYjJkYWM5ODkwYWQ5OWY3NDg3YjUxMTU1ZTVhNTU0`
+Snapshot ID: `MCxiNDMxYWFmZmVlZGNkOWEwOGEwMDYxZmRiOGYzYjY5YjM3MzQ0Yjk2`

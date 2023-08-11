@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-178 songs - 15 hr 25 min
+179 songs - 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A.M\. Hours](https://open.spotify.com/track/1ODmnwZVm5Ze5Nffqg2AUG) | [Rudy Royston](https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY) | [Day](https://open.spotify.com/album/3PhmbGVWT1R1Ng4uU58EZb) | 4:18 | 2023-05-09 | 2023-05-24 |
 | [Abiyoyo](https://open.spotify.com/track/4uu7myvstHcybO1E2SJOi5) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Homeward Bound](https://open.spotify.com/album/567r4Wqu7u5g1G7Jj3qpBj) | 3:24 | 2021-12-21 |  |
 | [Alfie](https://open.spotify.com/track/1HaqueKZTTNz41osWY2Cey) | [Richard Baratta](https://open.spotify.com/artist/1LxHsIFW4ovnm2kDljMQ6X) | [Alfie](https://open.spotify.com/album/2SdXGtsLhoUQA9QEq8DQ0o) | 6:37 | 2022-02-10 |  |
+| [Amelia](https://open.spotify.com/track/7MfOcicIHjkkm1NPaQDx64) | [Wolfgang Muthspiel](https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ), [Scott Colley](https://open.spotify.com/artist/7AxNB7slEfo3WsWmZf4TSs), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu) | [Amelia](https://open.spotify.com/album/12RPTPkpm9bA9LvN8BOSW3) | 7:02 | 2023-08-08 |  |
 | [Anthem](https://open.spotify.com/track/49GkEXzeU30nUaEussqtUi) | [Espen Eriksen Trio](https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST), [Andy Sheppard](https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD) | [In the Mountains](https://open.spotify.com/album/08ZNmk25bNcrUQ9Yj6VSr4) | 8:16 | 2022-04-28 |  |
 | [Arise](https://open.spotify.com/track/0jCZ4paISCHdIwQxUaLa3L) | [John Helliwell](https://open.spotify.com/artist/6mE9On5hMGVW1j369RtRYZ), [Jasper Somsen](https://open.spotify.com/artist/2lcAR2q7nM4FNKG4SbaKVY), [Hans Vroomans](https://open.spotify.com/artist/2KvJJ4ntMldtYNia7SvlBb), [Marcel Serierse](https://open.spotify.com/artist/6MUwndQ1ENPiNY2I5XfAmX) | [Don't Ever Leave Me](https://open.spotify.com/album/71ic2jDgavFaDCR9dbDcEb) | 7:17 | 2022-11-17 |  |
 | [As if We Were Just Friends](https://open.spotify.com/track/64WTR1Hs1TgzrkewozCTc1) | [Lucas Figueiredo Santana](https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N) | [Reflections](https://open.spotify.com/album/7boA4KYSLA5ZQ7QX3l2GxF) | 6:54 | 2022-02-10 |  |
@@ -32,7 +33,7 @@
 | [Boo's Blues](https://open.spotify.com/track/69eOQr9N0AQm8lGJMBHyAr) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Boo's Blues](https://open.spotify.com/album/7cLgwx3J525qJrIbYOohuU) | 3:25 | 2022-02-10 |  |
 | [Bubbles](https://open.spotify.com/track/3GGslX17J2F3IzVE5yIiRJ) | [Jacob Karlzon](https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM) | [Jacob Karlzon Trio: Today](https://open.spotify.com/album/10ZG1HoTjvzHzq7kvATtMm) | 5:06 | 2022-06-30 |  |
 | [Bubbles](https://open.spotify.com/track/2pRpSND6CcxuZYfBlccZXN) | [Jacob Karlzon Trio](https://open.spotify.com/artist/1ap7d4ByxAHY8C3QnedJH7) | [Jacob Karlzon Trio: Today](https://open.spotify.com/album/30xxXhILNDBzUMneKkd1BA) | 5:06 | 2021-12-21 | 2022-07-29 |
-| [Bye Bye Blackbird \- Live](https://open.spotify.com/track/6uOOsk7EiY6KUPOrrZZ3T1) | [Jim Snidero](https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv) | [Bye Bye Blackbird \(Live\)](https://open.spotify.com/album/7MvX7YVbUIvaIqUJi4wQnE) | 7:02 | 2022-02-10 |  |
+| [Bye Bye Blackbird \- Live](https://open.spotify.com/track/6uOOsk7EiY6KUPOrrZZ3T1) | [Jim Snidero](https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv) | [Bye Bye Blackbird \(Live\)](https://open.spotify.com/album/7MvX7YVbUIvaIqUJi4wQnE) | 7:02 | 2022-02-10 | 2023-08-11 |
 | [Cloudland](https://open.spotify.com/track/32GV4ifruoiDEoLVe0c1k7) | [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Grégory Privat](https://open.spotify.com/artist/0mmRcGkPj9s4Hq0xFrMBPh), [John Parricelli](https://open.spotify.com/artist/55Ib86Ob0dKLELhJ1gvUri), [Magnus Öström](https://open.spotify.com/artist/1ZPtjLlwSZjToQXcq2JVy2), [Arve Henriksen](https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7) | [Cloudland](https://open.spotify.com/album/0fm7uQgAG7FIMzrKZfKMng) | 4:34 | 2022-02-10 |  |
 | [Compromises](https://open.spotify.com/track/6teUPQnEbgYScxhKjVNcOc) | [Arne Torvik Trio](https://open.spotify.com/artist/7wIjlaL576ezBXdBuC3rGZ), [Arne Torvik](https://open.spotify.com/artist/3T69SoM3RxKdkpQd2gn2iv), [Bjørnar Kaldefoss Tveite](https://open.spotify.com/artist/6UlcsS6DYRuJmx1keoSc66), [Øystein Aarnes Vik](https://open.spotify.com/artist/4j7webqY2iLUDsHzMjgd9u) | [Compromises](https://open.spotify.com/album/7MkYND1u4Y9ytafBECXxPM) | 3:05 | 2021-12-21 |  |
 | [Cononbridge](https://open.spotify.com/track/7eTxWRSvauWm5L3FblGk2h) | [Matt Carmichael](https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0) | [Cononbridge](https://open.spotify.com/album/1Hu3K4n6IhaGGqCT5Hf1sj) | 4:58 | 2022-02-10 |  |

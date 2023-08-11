@@ -4,7 +4,7 @@
 
 > This is Rammstein\. The essential tracks, all in one playlist.
 
-53 songs - 3 hr 42 min
+54 songs - 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Dicke Titten](https://open.spotify.com/track/5KTBaWu8IOczQ0sPWzZ7MY) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 3:38 | 2022-05-30 |  |
 | [Du hast](https://open.spotify.com/track/5awDvzxWfd53SSrsRZ8pXO) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag) | 3:54 | 2022-05-30 |  |
 | [Du riechst so gut](https://open.spotify.com/track/4yUcHLkHUwAPpKN0Uvdo8I) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Herzeleid \(XXV Anniversary Edition – Remastered\)](https://open.spotify.com/album/6HlDm9fzYxk4vkkr3YEvSv) | 4:51 | 2022-05-30 |  |
-| [Engel](https://open.spotify.com/track/0xrkyEMkG4dVa5OMLQZOX8) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag) | 4:24 | 2022-05-30 |  |
+| [Engel](https://open.spotify.com/track/0xrkyEMkG4dVa5OMLQZOX8) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag) | 4:24 | 2022-05-30 | 2023-08-11 |
+| [Engel](https://open.spotify.com/track/5Zuboc3Cj9Ldnc8HyUnNUK) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht \(Anniversary Edition \- Remastered\)](https://open.spotify.com/album/6hh5ax5BomINXGoi4q7FDP) | 4:24 | 2023-08-10 |  |
 | [Feuer frei!](https://open.spotify.com/track/5aNH8inF5BsbThDeOLs7zs) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Mutter](https://open.spotify.com/album/1CtTTpKbHU8KbHRB4LmBbv) | 3:08 | 2022-05-30 |  |
 | [Giftig](https://open.spotify.com/track/3Ye7vnZdrO2Gq5IyyH3cOp) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 3:08 | 2022-05-30 |  |
 | [Haifisch](https://open.spotify.com/track/5392GpKmAP3UvIAfHC8LAW) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Liebe ist für alle da \(Special Edition\)](https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa) | 3:44 | 2022-05-30 |  |

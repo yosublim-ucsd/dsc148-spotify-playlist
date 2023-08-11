@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 
 > would you like to save before closing?
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,140 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,415 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [My Ordinary Life](https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [My Ordinary Life](https://open.spotify.com/album/4AmFZET7RGujQAhG80kjwu) | 3:50 |
-| 2 | [paranoia](https://open.spotify.com/track/3EMaNLX6Ho5ouuA0vUDGq6) | [KENTENSHI](https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j) | [paranoia](https://open.spotify.com/album/74Mf6OAdhGDZWegLrJdYh1) | 1:57 |
+| 2 | [paranoia](https://open.spotify.com/track/7w4t6sPVdboBZpa5prmUuj) | [KENTENSHI](https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j) | [paranoia](https://open.spotify.com/album/6jS7gC4DBGC5GLA99RFwEx) | 1:57 |
 | 3 | [Dark Beach](https://open.spotify.com/track/5QmdK8QFbY8TLVKPuJzexD) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Abyss](https://open.spotify.com/album/0RItfbXPf5eDzwdsgK9rKV) | 3:42 |
 | 4 | [BLOOD X](https://open.spotify.com/track/1sSGij1lJnIFyCKrTmys32) | [SAGEISKAMI](https://open.spotify.com/artist/6SGVSqPxYUYa885J3dtXQu) | [ASHES OF GHOST$](https://open.spotify.com/album/3mkXnT18yDAq3eEVzhazC8) | 1:13 |
-| 5 | [if god didnt want us to snort worms he wouldn't have made them cylindrical!](https://open.spotify.com/track/7wtU7N6R49UAbzQcLjRy5q) | [MIMIDEATH](https://open.spotify.com/artist/55VDe291360aWSrwt1U96m) | [effective\. Power](https://open.spotify.com/album/4yyeXDBiKoy8nsBnFBtyIP) | 0:58 |
-| 6 | [JERK!](https://open.spotify.com/track/6FRiFD0r9Mnv9VFnW4A7wB) | [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [JERK!](https://open.spotify.com/album/2aN5HgEHkTi0DR0g0AkWHc) | 2:11 |
+| 5 | [JERK!](https://open.spotify.com/track/6FRiFD0r9Mnv9VFnW4A7wB) | [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [JERK!](https://open.spotify.com/album/2aN5HgEHkTi0DR0g0AkWHc) | 2:11 |
+| 6 | [if god didnt want us to snort worms he wouldn't have made them cylindrical!](https://open.spotify.com/track/7wtU7N6R49UAbzQcLjRy5q) | [MIMIDEATH](https://open.spotify.com/artist/55VDe291360aWSrwt1U96m) | [effective\. Power](https://open.spotify.com/album/4yyeXDBiKoy8nsBnFBtyIP) | 0:58 |
 | 7 | [Numbers](https://open.spotify.com/track/4GuZMzKXJSoWhwHUqRa0fm) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [Numbers](https://open.spotify.com/album/3D2CAIf1A9XlcLUigjsypL) | 2:07 |
 | 8 | [LET ME SEE YA MOVE!](https://open.spotify.com/track/3WZQ5lbOdeXEcspmshc9YS) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm), [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm) | [LET ME SEE YA MOVE!](https://open.spotify.com/album/1qKJSTBYWQMuN4efzNuY2e) | 2:01 |
 | 9 | [Nowhere To Run](https://open.spotify.com/track/2PJhATOD9dWsevezmfjoMA) | [Stegosaurus Rex](https://open.spotify.com/artist/2D5kO95AWEXMHRvqvCKb7K) | [The Dino Soars](https://open.spotify.com/album/78X1D2vooZVMQdPY581dNg) | 5:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 | 49 | [Chiltonwalk.Temp](https://open.spotify.com/track/3TT7noqVKf7mwYs9nuQ3Ei) | [Graham Kartna](https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E) | [.Temp](https://open.spotify.com/album/1xisAx14ZyCGa24ivnuvq3) | 1:56 |
 | 50 | [Avenues](https://open.spotify.com/track/17gGNtZ7CkTCWZyeOXsDFx) | [Drive45](https://open.spotify.com/artist/1aP8KYuP9P8hmIRJqi5NfB) | [Avenues](https://open.spotify.com/album/7HHpP8tAM4kp4lGjO3TT71) | 2:55 |
 
-Snapshot ID: `MCwwYjY2ZmRiY2MyMjcxNWMxYjc0MGU1MGQzZmJiMTEzMTZjOWM0OTRi`
+Snapshot ID: `MCw3NDMxY2EzMmZlNDA3NDkwZGJhMGNmYWJhZWMzNDNkZDJkYThhZTMx`

@@ -4,7 +4,7 @@
 
 > Listen to the surprise songs from each night of Taylor Swift \| The Eras tour
 
-108 songs - 7 hr 19 min
+110 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,8 @@
 | [mirrorball](https://open.spotify.com/track/0ZNU020wNYvgW84iljPkPP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:28 | 2023-06-13 |  |
 | [Mr\. Perfectly Fine \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/7l2tmgUhV7Y2aJHjiszifg) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Mr\. Perfectly Fine \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/album/2MbdQUj7tAaaBBhUwJE3KG) | 4:37 | 2023-06-20 |  |
 | [Never Grow Up \(Taylor's Version\)](https://open.spotify.com/track/2EFZ9emtKWEglWUQGEQ3P9) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 4:52 | 2023-07-09 |  |
+| [New Romantics](https://open.spotify.com/track/6rZVy6FIG7lSJQMFXHo12z) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe Edition\)](https://open.spotify.com/album/34OkZVpuzBa9y40DCy0LPR) | 3:50 | 2023-08-10 |  |
+| [New Year’s Day](https://open.spotify.com/track/7F5oktn5YOsR9eR5YsFtqb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:55 | 2023-08-10 |  |
 | [Our Song](https://open.spotify.com/track/15DeqWWQB4dcEWzJg15VrN) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) | 3:21 | 2023-06-13 |  |
 | [Ours](https://open.spotify.com/track/1EQn3Uc5AyUXoiPLeyCrrg) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Deluxe Edition\)](https://open.spotify.com/album/5EpMjweRD573ASl7uNiHym) | 3:57 | 2023-06-13 | 2023-07-10 |
 | [Ours \(Taylor’s Version\)](https://open.spotify.com/track/3yNJkriPzWjkkDAWHIAVUq) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 3:55 | 2023-07-09 |  |

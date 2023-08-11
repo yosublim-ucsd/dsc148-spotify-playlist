@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: First Love is Never Returned
 
-1,005 songs - 2 day 13 hr 49 min
+1,006 songs - 2 day 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,7 +383,7 @@
 | [Overdose](https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Overdose](https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa) | 3:17 | 2023-01-12 | 2023-02-02 |
 | [oyasumi](https://open.spotify.com/track/1Niskql6jtIvQd1YOT0xS2) | [Takeshi Hamabe](https://open.spotify.com/artist/3q8VJeubJWKiRO0hw9tGhp), [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [oyasumi](https://open.spotify.com/album/2dTrVXQxJUcjV41vUr6xL4) | 3:31 | 2022-08-04 | 2022-10-05 |
 | [PaBodance \- NamitoW Remix](https://open.spotify.com/track/7s8hFtm0Dh6ZsTh4VJrixH) | [Tina Moon](https://open.spotify.com/artist/3I1vLdkE4jPKqsbzkOQOIQ), [NamitoW](https://open.spotify.com/artist/0YFwbBZlDAcYlg2GCVnoZr) | [PaBodance \(NamitoW Remix\)](https://open.spotify.com/album/4ULNHuZbaNW6GRB5PNGTH4) | 3:31 | 2022-02-22 | 2022-03-30 |
-| [Pacific Line](https://open.spotify.com/track/0rwbiEv4W9yAgtumneO8OM) | [Kidella](https://open.spotify.com/artist/3eCZ7jkNialvGc9YlHqWnE) | [The Miseducation of Kidella](https://open.spotify.com/album/228W8YwNPHPSnWe4ebP6jr) | 4:14 | 2023-03-31 |  |
+| [Pacific Line](https://open.spotify.com/track/0rwbiEv4W9yAgtumneO8OM) | [Kidella](https://open.spotify.com/artist/3eCZ7jkNialvGc9YlHqWnE) | [The Miseducation of Kidella](https://open.spotify.com/album/228W8YwNPHPSnWe4ebP6jr) | 4:14 | 2023-03-31 | 2023-08-11 |
 | [Pages \(feat\. Xin\)](https://open.spotify.com/track/29eyvdeqiue1vHQg2uprMB) | [LodiLodi](https://open.spotify.com/artist/2mvDRTAF1tLXniM3L2iwvb), [Xin](https://open.spotify.com/artist/3iMKRpTz1tnL15FaSV5XOd) | [Pages \(feat\. Xin\)](https://open.spotify.com/album/74c2vG8p3OUy9Peyd3V6f8) | 3:06 | 2022-05-31 | 2022-07-27 |
 | [Pale Rain](https://open.spotify.com/track/6YYC9PEH4T4rLTo5EcHgyF) | [imase with PUNPEE & Toby Fox](https://open.spotify.com/artist/0yiiGLiANIkpsBL3gvtqcC), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [Pale Rain](https://open.spotify.com/album/1LtevBef4ZzFe4wYMpRHBm) | 3:41 | 2022-04-05 | 2022-05-11 |
 | [Pale Summer](https://open.spotify.com/track/3u8LTDwcLfCCtu7mTj9eT9) | [THE LOCAL PINTS](https://open.spotify.com/artist/771IcrenZVG0AS8LmOVwa3) | [Pale Summer](https://open.spotify.com/album/2eShlYlfZ4t3hCfOLjKaNN) | 3:29 | 2022-07-24 | 2022-10-12 |
@@ -426,6 +426,7 @@
 | [Rent\-A\-Car](https://open.spotify.com/track/2VvE9W1K2cMPaRsFi7kwLv) | [Yamafutatsu](https://open.spotify.com/artist/75mN0rbQkBImvS8yohWlnP) | [Rent\-A\-Car](https://open.spotify.com/album/3715NHRrk351GtX0NhjkPv) | 3:01 | 2023-08-08 |  |
 | [resist](https://open.spotify.com/track/6khuTEUHWdsmBP0mq4OPUK) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [resist](https://open.spotify.com/album/5Ra8mfJupN7wOuDJaCAdOi) | 3:26 | 2022-12-27 | 2023-03-22 |
 | [Restart?](https://open.spotify.com/track/64INceHue7dl31QMDLLirn) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Restart?](https://open.spotify.com/album/5fdozRgnGyNfx9PQz5wu3h) | 3:24 | 2022-04-14 | 2022-07-27 |
+| [Rich and Famous](https://open.spotify.com/track/009ynJN5ikFFNalJZz4vhT) | [Kidella](https://open.spotify.com/artist/3eCZ7jkNialvGc9YlHqWnE), [ARTRILLA](https://open.spotify.com/artist/4WhRuNkczfkiEL2DqPQ9nm) | [Chillin THAILAND](https://open.spotify.com/album/76aeQ3TfgndxXY3oT4rmUh) | 3:54 | 2023-08-10 |  |
 | [Right or Wrong](https://open.spotify.com/track/21HHgpVHb0ZSWn3lHtcErK) | [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX) | [Right or Wrong](https://open.spotify.com/album/6PobaffeeUAAjz4KJUxsnt) | 2:21 | 2022-08-18 | 2022-08-24 |
 | [ripple](https://open.spotify.com/track/3kQMsWayIAqbgRou15Y9Wy) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [ripple](https://open.spotify.com/album/5yN3BNFVlWJLD6x7xYFUYM) | 2:44 | 2022-07-28 | 2022-08-03 |
 | [Ripple Mark](https://open.spotify.com/track/72r5XknxIgSLqw0DmIzDfz) | [Benlou](https://open.spotify.com/artist/4sECzRxkhQ0LmFaufbgbKj) | [Ripple Mark](https://open.spotify.com/album/0u2Pzi8BJ9yBjY2RUbEmQ8) | 3:57 | 2022-08-02 | 2022-10-05 |

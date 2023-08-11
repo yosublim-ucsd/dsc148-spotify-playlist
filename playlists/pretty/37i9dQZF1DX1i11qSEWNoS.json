@@ -1,12 +1,12 @@
 {
   "description": "und macht laune",
-  "num_followers": 470773,
+  "num_followers": 471544,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjZjNjE5NWI3MTBkMjc5NTE5NTllMDk2ODkxMTQyODM0NTU5YTYw",
+  "snapshot_id": "MCwzM2EzM2MzMWEwMDk1YTgyMjgwNWEyYWEzNTAxYjlmNzIyZWNmZGJi",
   "tracks": [
     {
       "added_at": "2023-07-28 08:50:38",
@@ -335,26 +335,6 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
-        "name": "Because You Move Me",
-        "url": "https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Helsloot",
-          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
-        }
-      ],
-      "duration_ms": 196375,
-      "name": "Because You Move Me",
-      "url": "https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0"
-    },
-    {
-      "added_at": "2023-07-28 08:50:38",
-      "album": {
         "name": "mietfrei",
         "url": "https://open.spotify.com/album/3MWijTaxJrKLKeY1VmcwyH"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 141026,
       "name": "mietfrei",
       "url": "https://open.spotify.com/track/1CknK1sYAhoYxZEs5OfqEq"
+    },
+    {
+      "added_at": "2023-07-28 08:50:38",
+      "album": {
+        "name": "Because You Move Me",
+        "url": "https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        }
+      ],
+      "duration_ms": 196375,
+      "name": "Because You Move Me",
+      "url": "https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0"
     },
     {
       "added_at": "2023-07-28 08:50:38",
@@ -415,26 +415,6 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "Nate Traveller",
-          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
-        }
-      ],
-      "duration_ms": 158760,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG"
-    },
-    {
-      "added_at": "2023-07-28 08:50:38",
-      "album": {
         "name": "Fine Day Anthem",
         "url": "https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 193690,
       "name": "Fine Day Anthem",
       "url": "https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G"
+    },
+    {
+      "added_at": "2023-07-28 08:50:38",
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Nate Traveller",
+          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
+        }
+      ],
+      "duration_ms": 158760,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG"
     },
     {
       "added_at": "2023-07-28 08:50:38",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
-        "name": "Bicep",
-        "url": "https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo"
-      },
-      "artists": [
-        {
-          "name": "Bicep",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        }
-      ],
-      "duration_ms": 269149,
-      "name": "Glue",
-      "url": "https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP"
-    },
-    {
-      "added_at": "2023-07-28 08:50:38",
-      "album": {
         "name": "2022 war film gewesen",
         "url": "https://open.spotify.com/album/4OBzAh7kXYVdeBp1LTrZwZ"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 137847,
       "name": "Party Sahne",
       "url": "https://open.spotify.com/track/2hFOXN8Eq2gXIGGMIdHdWJ"
+    },
+    {
+      "added_at": "2023-07-28 08:50:38",
+      "album": {
+        "name": "Bicep",
+        "url": "https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo"
+      },
+      "artists": [
+        {
+          "name": "Bicep",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "duration_ms": 269149,
+      "name": "Glue",
+      "url": "https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP"
     },
     {
       "added_at": "2023-07-28 08:50:38",
@@ -711,26 +711,6 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/5YX1KuyERTN67FxoqcLUQm"
-      },
-      "artists": [
-        {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
-        },
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        }
-      ],
-      "duration_ms": 153674,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/4taclmQm9wFcK4dKQjR5ny"
-    },
-    {
-      "added_at": "2023-07-28 08:50:38",
-      "album": {
         "name": "ONLY 4 LIFE (Remix)",
         "url": "https://open.spotify.com/album/5u6snJ3UY2taF6tY1WZzQH"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 148800,
       "name": "ONLY 4 LIFE - Remix",
       "url": "https://open.spotify.com/track/7jYwZOptDPesQgzj7vhsEF"
+    },
+    {
+      "added_at": "2023-07-28 08:50:38",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/5YX1KuyERTN67FxoqcLUQm"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "duration_ms": 153674,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/4taclmQm9wFcK4dKQjR5ny"
     },
     {
       "added_at": "2023-07-28 08:50:38",
@@ -939,6 +939,30 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
+        "name": "EWIGKEIT (REMIX)",
+        "url": "https://open.spotify.com/album/7g9MhzAbsC7Z7Orsa0Z7Dz"
+      },
+      "artists": [
+        {
+          "name": "erob\u00e9",
+          "url": "https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn"
+        },
+        {
+          "name": "KXXMA",
+          "url": "https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx"
+        },
+        {
+          "name": "Lyfrix",
+          "url": "https://open.spotify.com/artist/4TSAnyHn47PpS8S9ofOjYU"
+        }
+      ],
+      "duration_ms": 137647,
+      "name": "EWIGKEIT - REMIX",
+      "url": "https://open.spotify.com/track/4kcgrgZhd4h8chSAJ86mIq"
+    },
+    {
+      "added_at": "2023-07-28 08:50:38",
+      "album": {
         "name": "Cooler Than Me",
         "url": "https://open.spotify.com/album/5BmY6ZPLmhyIm9bRdN4mWP"
       },
@@ -1043,26 +1067,6 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
-        "name": "Strada",
-        "url": "https://open.spotify.com/album/28uZiaDg8bnR11Muf7m3xS"
-      },
-      "artists": [
-        {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
-        },
-        {
-          "name": "Ahmad Amin",
-          "url": "https://open.spotify.com/artist/4SZSRsSh4xJx9o5V1uDE1o"
-        }
-      ],
-      "duration_ms": 144400,
-      "name": "Strada",
-      "url": "https://open.spotify.com/track/5X6Ut0DYPzglxDQbh3PZ7h"
-    },
-    {
-      "added_at": "2023-07-28 08:50:38",
-      "album": {
         "name": "LiEBE AUF DER R\u00dcCKBANK",
         "url": "https://open.spotify.com/album/5LVK2zDPtnyTP7Xd5NrwEB"
       },
@@ -1083,26 +1087,22 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
-        "name": "EWIGKEIT (REMIX)",
-        "url": "https://open.spotify.com/album/7g9MhzAbsC7Z7Orsa0Z7Dz"
+        "name": "Strada",
+        "url": "https://open.spotify.com/album/28uZiaDg8bnR11Muf7m3xS"
       },
       "artists": [
         {
-          "name": "erob\u00e9",
-          "url": "https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn"
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
         },
         {
-          "name": "KXXMA",
-          "url": "https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx"
-        },
-        {
-          "name": "Lyfrix",
-          "url": "https://open.spotify.com/artist/4TSAnyHn47PpS8S9ofOjYU"
+          "name": "Ahmad Amin",
+          "url": "https://open.spotify.com/artist/4SZSRsSh4xJx9o5V1uDE1o"
         }
       ],
-      "duration_ms": 137647,
-      "name": "EWIGKEIT - REMIX",
-      "url": "https://open.spotify.com/track/4kcgrgZhd4h8chSAJ86mIq"
+      "duration_ms": 144400,
+      "name": "Strada",
+      "url": "https://open.spotify.com/track/5X6Ut0DYPzglxDQbh3PZ7h"
     },
     {
       "added_at": "2023-07-28 08:50:38",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
+        "name": "CHASE THE SUN",
+        "url": "https://open.spotify.com/album/7aWwnUeQPDuBor9y5h8duc"
+      },
+      "artists": [
+        {
+          "name": "TurboKevin",
+          "url": "https://open.spotify.com/artist/2nxyC1TQywKkvfkvuaiaW6"
+        }
+      ],
+      "duration_ms": 211288,
+      "name": "CHASE THE SUN",
+      "url": "https://open.spotify.com/track/0v9FopnUjdazLkHb2vzcdt"
+    },
+    {
+      "added_at": "2023-07-28 08:50:38",
+      "album": {
         "name": "In Liebe, Ion",
         "url": "https://open.spotify.com/album/4mrRHYvj9Ae90O8gPZLPtE"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 142400,
       "name": "Powerade",
       "url": "https://open.spotify.com/track/35DkXhxqTMiQB582tfjowU"
-    },
-    {
-      "added_at": "2023-07-28 08:50:38",
-      "album": {
-        "name": "CHASE THE SUN",
-        "url": "https://open.spotify.com/album/7aWwnUeQPDuBor9y5h8duc"
-      },
-      "artists": [
-        {
-          "name": "TurboKevin",
-          "url": "https://open.spotify.com/artist/2nxyC1TQywKkvfkvuaiaW6"
-        }
-      ],
-      "duration_ms": 211288,
-      "name": "CHASE THE SUN",
-      "url": "https://open.spotify.com/track/0v9FopnUjdazLkHb2vzcdt"
     },
     {
       "added_at": "2023-07-28 08:50:38",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
+        "name": "Dorfkinder",
+        "url": "https://open.spotify.com/album/1R8ny1P0qJBCTqHeoRwZLV"
+      },
+      "artists": [
+        {
+          "name": "Finnel",
+          "url": "https://open.spotify.com/artist/7C0CBOwkkOMnkehrvdMLrU"
+        }
+      ],
+      "duration_ms": 147844,
+      "name": "Dorfkinder",
+      "url": "https://open.spotify.com/track/6TJJfeL9UUi0xNnYvte2av"
+    },
+    {
+      "added_at": "2023-07-28 08:50:38",
+      "album": {
         "name": "Chill Like That",
         "url": "https://open.spotify.com/album/189CZXjmGJs7PzbQ0S5WVf"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 178908,
       "name": "Chill Like That",
       "url": "https://open.spotify.com/track/2UwgoIMAYT0pDOxUFTjEVJ"
-    },
-    {
-      "added_at": "2023-07-28 08:50:38",
-      "album": {
-        "name": "Dorfkinder",
-        "url": "https://open.spotify.com/album/1R8ny1P0qJBCTqHeoRwZLV"
-      },
-      "artists": [
-        {
-          "name": "Finnel",
-          "url": "https://open.spotify.com/artist/7C0CBOwkkOMnkehrvdMLrU"
-        }
-      ],
-      "duration_ms": 147844,
-      "name": "Dorfkinder",
-      "url": "https://open.spotify.com/track/6TJJfeL9UUi0xNnYvte2av"
     },
     {
       "added_at": "2023-07-28 08:50:38",
@@ -1467,6 +1467,38 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
+        "name": "Turn All The Lights On",
+        "url": "https://open.spotify.com/album/2So8QRALJzGvefJp86htBu"
+      },
+      "artists": [
+        {
+          "name": "Valexus",
+          "url": "https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1"
+        }
+      ],
+      "duration_ms": 137569,
+      "name": "Turn All The Lights On",
+      "url": "https://open.spotify.com/track/3AxoLYBDzx5hTCSJR2W4i9"
+    },
+    {
+      "added_at": "2023-07-28 08:50:38",
+      "album": {
+        "name": "Beat Goes On (Rhythm to the Brain)",
+        "url": "https://open.spotify.com/album/3kzNiWgiBTQMD48QbWYSRn"
+      },
+      "artists": [
+        {
+          "name": "Campbell",
+          "url": "https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK"
+        }
+      ],
+      "duration_ms": 133212,
+      "name": "Beat Goes On (Rhythm to the Brain)",
+      "url": "https://open.spotify.com/track/4iAADGCKIR9GkLGvAHfZUS"
+    },
+    {
+      "added_at": "2023-07-28 08:50:38",
+      "album": {
         "name": "Rapunzel (DJ Robin Remix)",
         "url": "https://open.spotify.com/album/3dr4AKRx355JOuK77zvyvX"
       },
@@ -1491,22 +1523,6 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
-        "name": "Turn All The Lights On",
-        "url": "https://open.spotify.com/album/2So8QRALJzGvefJp86htBu"
-      },
-      "artists": [
-        {
-          "name": "Valexus",
-          "url": "https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1"
-        }
-      ],
-      "duration_ms": 137569,
-      "name": "Turn All The Lights On",
-      "url": "https://open.spotify.com/track/3AxoLYBDzx5hTCSJR2W4i9"
-    },
-    {
-      "added_at": "2023-07-28 08:50:38",
-      "album": {
         "name": "All The Things She Said (Teaboy Flip)",
         "url": "https://open.spotify.com/album/69vWxMtXxJsbB4AXP4NFEe"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 164327,
       "name": "All The Things She Said - Teaboy Flip",
       "url": "https://open.spotify.com/track/4r8vtv55ZqVxRAXdcLGS8J"
-    },
-    {
-      "added_at": "2023-07-28 08:50:38",
-      "album": {
-        "name": "Beat Goes On (Rhythm to the Brain)",
-        "url": "https://open.spotify.com/album/3kzNiWgiBTQMD48QbWYSRn"
-      },
-      "artists": [
-        {
-          "name": "Campbell",
-          "url": "https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK"
-        }
-      ],
-      "duration_ms": 133212,
-      "name": "Beat Goes On (Rhythm to the Brain)",
-      "url": "https://open.spotify.com/track/4iAADGCKIR9GkLGvAHfZUS"
     },
     {
       "added_at": "2023-07-28 08:50:38",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
+        "name": "Get Up Off The Floor",
+        "url": "https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt"
+      },
+      "artists": [
+        {
+          "name": "FORTELLA",
+          "url": "https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Get Up Off The Floor",
+      "url": "https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW"
+    },
+    {
+      "added_at": "2023-07-28 08:50:38",
+      "album": {
         "name": "The Bad Touch 2k20",
         "url": "https://open.spotify.com/album/66mM7VqKVfvV9dhZpj0Hat"
       },
@@ -1591,22 +1607,6 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
-        "name": "Get Up Off The Floor",
-        "url": "https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt"
-      },
-      "artists": [
-        {
-          "name": "FORTELLA",
-          "url": "https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Get Up Off The Floor",
-      "url": "https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW"
-    },
-    {
-      "added_at": "2023-07-28 08:50:38",
-      "album": {
         "name": "How I Fell in Love",
         "url": "https://open.spotify.com/album/461FLD6OW9OextuRH70VKF"
       },
@@ -1619,6 +1619,26 @@
       "duration_ms": 112551,
       "name": "How I Fell in Love",
       "url": "https://open.spotify.com/track/2wUmENDPjBtgNvP2XmnRr7"
+    },
+    {
+      "added_at": "2023-07-28 08:50:38",
+      "album": {
+        "name": "WILDES DING",
+        "url": "https://open.spotify.com/album/6nnBMvIedNf19zjzk2KGhF"
+      },
+      "artists": [
+        {
+          "name": "Valexus",
+          "url": "https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1"
+        },
+        {
+          "name": "Culcha Candela",
+          "url": "https://open.spotify.com/artist/3gemH8D6fpu12DmTmUZYAL"
+        }
+      ],
+      "duration_ms": 136204,
+      "name": "WILDES DING",
+      "url": "https://open.spotify.com/track/2BssmP7ruTX7iZrWLm7EVk"
     },
     {
       "added_at": "2023-07-28 08:50:38",
@@ -1655,26 +1675,6 @@
       "duration_ms": 135551,
       "name": "Einmal um die Welt 2k23",
       "url": "https://open.spotify.com/track/5HSZBIy10tdHp6OuNwEEaU"
-    },
-    {
-      "added_at": "2023-07-28 08:50:38",
-      "album": {
-        "name": "WILDES DING",
-        "url": "https://open.spotify.com/album/6nnBMvIedNf19zjzk2KGhF"
-      },
-      "artists": [
-        {
-          "name": "Valexus",
-          "url": "https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1"
-        },
-        {
-          "name": "Culcha Candela",
-          "url": "https://open.spotify.com/artist/3gemH8D6fpu12DmTmUZYAL"
-        }
-      ],
-      "duration_ms": 136204,
-      "name": "WILDES DING",
-      "url": "https://open.spotify.com/track/2BssmP7ruTX7iZrWLm7EVk"
     },
     {
       "added_at": "2023-07-28 08:50:38",

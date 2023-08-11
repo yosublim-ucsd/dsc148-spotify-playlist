@@ -1763,6 +1763,24 @@
     },
     {
       "album": {
+        "name": "alone",
+        "url": "https://open.spotify.com/album/6io6hr34sIRqIuyqvvO2LT"
+      },
+      "artists": [
+        {
+          "name": "Yotora",
+          "url": "https://open.spotify.com/artist/5zg5lxcOnAhFFwgYmROxJx"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154331,
+      "name": "alone",
+      "url": "https://open.spotify.com/track/4DOQULDZcy6W3mNKtuAZpz"
+    },
+    {
+      "album": {
         "name": "Cry Baby (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY"
       },

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Saudi Arabia.
 
-955 songs - 2 day 7 hr 30 min
+957 songs - 2 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Change pt.2](https://open.spotify.com/track/7vPMugKcYwnX9Dh7SrLFHF) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 1:54 | 2022-12-03 | 2022-12-05 |
 | [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 | 2023-04-16 | 2023-04-18 |
 | [Christmas Love](https://open.spotify.com/track/5oaQsszgxYAdABuXoWEOUe) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Christmas Love](https://open.spotify.com/album/75uqqeXpDMUOpWfrPmCubF) | 3:17 | 2023-03-18 | 2023-03-20 |
-| [Christmas Tree](https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/4210mSQ3r10AsJMZEYAH5l) | 3:29 | 2021-12-25 |  |
+| [Christmas Tree](https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/4210mSQ3r10AsJMZEYAH5l) | 3:29 | 2021-12-25 | 2023-08-11 |
 | [Christmas Tree \- Inst.](https://open.spotify.com/track/37rnSr2ZCkzqmoUqGQtn4q) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/4210mSQ3r10AsJMZEYAH5l) | 3:29 | 2021-12-25 | 2021-12-27 |
 | [Chromosome \- Edit](https://open.spotify.com/track/2QTO7F2Xr7cfAupY2ucqAp) | [Dish Dash](https://open.spotify.com/artist/2C0q6kKsOqXe490AYXubeA) | [Chromosome](https://open.spotify.com/album/4Nfdi4im1O5Hye98NO3DTZ) | 3:17 | 2023-06-30 | 2023-07-13 |
 | [Cinema](https://open.spotify.com/track/35TyJIMR3xRouUuo2sjS6v) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:03 | 2022-05-21 | 2022-05-25 |
@@ -646,7 +646,7 @@
 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2023-05-20 | 2023-08-05 |
 | [SCOOP \(feat\. Doja Cat\)](https://open.spotify.com/track/6bpq1jGkVz66Q3LYeoXdjZ) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:54 | 2021-09-19 | 2021-09-22 |
 | [SDL](https://open.spotify.com/track/2vRoAkwc3UBEPW2udvN0u9) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-DAY](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) | 2:51 | 2023-04-22 | 2023-04-24 |
-| [Sea Of Problems](https://open.spotify.com/track/3VvcKToPY3diGRjERt8NvD) | [glichery](https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks) | [Sea Of Problems](https://open.spotify.com/album/3nofsi0Rt2tnhAuvz8pB95) | 1:50 | 2023-07-22 |  |
+| [Sea Of Problems](https://open.spotify.com/track/3VvcKToPY3diGRjERt8NvD) | [glichery](https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks) | [Sea Of Problems](https://open.spotify.com/album/3nofsi0Rt2tnhAuvz8pB95) | 1:50 | 2023-07-22 | 2023-08-11 |
 | [Search & Rescue](https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW) | 4:32 | 2023-04-08 | 2023-04-17 |
 | [Sequência da Dz7](https://open.spotify.com/track/12FbZlYxIUv2rhB0oCQEhQ) | [TRASHXRL](https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [Sequência da Dz7](https://open.spotify.com/album/0q18FVPvrXw161KvnT4sk7) | 1:59 | 2023-07-20 |  |
 | [Serendipity \- Full Length Edition](https://open.spotify.com/track/1dS4l6xmdgEhCZTAhdOm4N) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 4:36 | 2022-04-25 | 2022-04-27 |
@@ -850,6 +850,7 @@
 | [أشكرهم](https://open.spotify.com/track/1lyfIKSaiuKqY9eFdpx1rH) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [أعلّق الدنيا](https://open.spotify.com/album/5hC3ocqDCseRyFmASvqcUT) | 5:40 | 2022-06-08 | 2022-09-07 |
 | [ابتسم لي](https://open.spotify.com/track/3DnpFp9OniR4U7r7zMKauE) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [ابتسم لي](https://open.spotify.com/album/5qgTLnjcuoiuokQQoAOR06) | 3:24 | 2021-08-29 | 2021-10-21 |
 | [ابتسم لي](https://open.spotify.com/track/2URSYgEsnXj4NfOFUL4xN7) | [عبدالله ال فروان](https://open.spotify.com/artist/7e64FWu6WV3LEno23HDFvL) | [ابتسم لي](https://open.spotify.com/album/1DEfGSIf7FmHiu6QWpgGQD) | 3:24 | 2021-08-30 | 2021-09-18 |
+| [اختياراتي \- من فيلم مستر إكس](https://open.spotify.com/track/3ilp9U50Ak4CKkS7jdCY4L) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [اختياراتي \(من فيلم مستر إكس\)](https://open.spotify.com/album/1RJUtPJMzR9NYADVQwStNT) | 2:50 | 2023-08-10 |  |
 | [اشكر جمالك](https://open.spotify.com/track/2gFZxR3Fur5t6fUzKgo7Y9) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [اشكر جمالك](https://open.spotify.com/album/0CnyoumDAlz7cWYRzWccOa) | 4:54 | 2021-04-08 | 2022-02-13 |
 | [اقدح اقدح](https://open.spotify.com/track/2h8nveBGqqBD8ctxTtm9rs) | [Gaziy Bin Sahab](https://open.spotify.com/artist/6r7ArpYoS3neTbimme5iK0) | [شيلات غزاي بن سحاب](https://open.spotify.com/album/5eajc341Z6V6vZg3OXXaLE) | 3:57 | 2021-07-05 | 2021-07-07 |
 | [الا ياكبر حظي](https://open.spotify.com/track/1C1mHhtTjd84PT1zujIam1) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [الا ياكبر حظي](https://open.spotify.com/album/18lBGe0MHzFRISPPSUkGr8) | 5:31 | 2021-11-21 | 2021-12-19 |
@@ -864,6 +865,7 @@
 | [العاشق الهايم](https://open.spotify.com/track/6C3nzX8ltQ0AlmPVm5HHam) | [علي هشلان](https://open.spotify.com/artist/2K37h6TAEw2KfPBYZZI6hk) | [العاشق الهايم](https://open.spotify.com/album/0hU9fhOsWK9FAHwxpA2X2h) | 4:24 | 2022-08-21 | 2022-08-25 |
 | [الفين باب](https://open.spotify.com/track/3quHorw9IRJWtWaZKpl6I1) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [الفين باب](https://open.spotify.com/album/2dDhZcyv8bmPbpbJlX4QSh) | 4:45 | 2023-02-03 | 2023-06-06 |
 | [الله الله يا منتخبنا](https://open.spotify.com/track/5NbPFNIfQo0zCaNmpLSNSG) | [Talal Salamah](https://open.spotify.com/artist/2yisgYUsuIfLHOcuCnbNu0), [Mohamed Shafiq](https://open.spotify.com/artist/1ZsMBF1VqPmjdYlO6SmYhw), [Adel Nawar](https://open.spotify.com/artist/74UysFNdBPTBRiPE3T5NIj) | [الله الله يا منتخبنا](https://open.spotify.com/album/4oOPWoiLE6n8OBjWLF4PAr) | 4:13 | 2022-11-23 | 2022-11-25 |
+| [الناس انواع](https://open.spotify.com/track/4hXKUpx4Rl5yBNGISoB5UK) | [احميده البرهومي](https://open.spotify.com/artist/6BK22EwL1vXqyk574D48EJ) | [الناس انواع](https://open.spotify.com/album/3yLKiHbpL4RR8uNf9yrf5E) | 1:00 | 2023-08-10 |  |
 | [الهوى يغيب واختنك](https://open.spotify.com/track/61Tia2kBJpTLhTY7XrxlQh) | [@fahad\_alithawi](https://open.spotify.com/artist/5ELdu0whpOUTAnT2DENcMH) | [الهوى يغيب واختنك](https://open.spotify.com/album/6IRzNcILVoHgdnrqrFNDKk) | 3:53 | 2023-04-01 | 2023-04-27 |
 | [الي خفنا منو حصل حصل](https://open.spotify.com/track/08R454zeD4WadhuhepQYqI) | [EsamFM](https://open.spotify.com/artist/26I3ZtnBmrgQJCArjJod8Z) | [الي خفنا منو حصل حصل](https://open.spotify.com/album/4uWGqLjpsQXQGnZ9ztI2N8) | 3:00 | 2022-09-03 | 2022-09-13 |
 | [انا نجم](https://open.spotify.com/track/7Ki9SDxWpUU8aXIX2gq2C2) | [Various Artists](https://open.spotify.com/artist/2mv12nN6hV35GVNKdvyEM9) | [مسلسل ريڤو](https://open.spotify.com/album/6xCkZUQJBH9pEQ1cLO0rGs) | 4:05 | 2022-08-04 | 2022-08-26 |

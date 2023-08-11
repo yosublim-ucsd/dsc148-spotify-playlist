@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Y qu\u00e9 retumbe la bandona, pariente! Banda MS en portada",
-  "num_followers": 1721672,
+  "num_followers": 1722476,
   "original_name": "Cl\u00e1sicas de Banda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjkzZTQ1NGZlOTNmMDFlZTExZDQ4OTM3N2VkYTlkOTFmMDZhOTM1",
+  "snapshot_id": "MCwwN2NjYTZmNDlhY2VhZGVhODg5NWUzMTA4OThhMGU1Yzc2M2VhY2Fh",
   "tracks": [
     {
       "added_at": "2023-08-08 23:26:41",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-08-08 23:26:41",
       "album": {
+        "name": "Calidad Y Cantidad",
+        "url": "https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 182306,
+      "name": "Entre Beso Y Beso",
+      "url": "https://open.spotify.com/track/7uL1ZsdxI8l4sgEsgCmTlG"
+    },
+    {
+      "added_at": "2023-08-08 23:26:41",
+      "album": {
         "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
         "url": "https://open.spotify.com/album/1un5ATKBBkOD7L9d2e7sUD"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 258355,
       "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
       "url": "https://open.spotify.com/track/3D3W7rDsuJIAtjInwh6Moc"
-    },
-    {
-      "added_at": "2023-08-08 23:26:41",
-      "album": {
-        "name": "Calidad Y Cantidad",
-        "url": "https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 182306,
-      "name": "Entre Beso Y Beso",
-      "url": "https://open.spotify.com/track/7uL1ZsdxI8l4sgEsgCmTlG"
     },
     {
       "added_at": "2023-08-08 23:26:41",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-08-08 23:26:41",
       "album": {
-        "name": "Palabra de Hombre",
-        "url": "https://open.spotify.com/album/5EYyJ7ar2hW6Nh1G89wzPb"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 196099,
-      "name": "Palabra de Hombre",
-      "url": "https://open.spotify.com/track/4UiaP0wBuy9N9voD91OZOg"
-    },
-    {
-      "added_at": "2023-08-08 23:26:41",
-      "album": {
         "name": "Cuando Quieras Quiero",
         "url": "https://open.spotify.com/album/7sqfC2rpdO72asrro3cLUm"
       },
@@ -1251,18 +1235,18 @@
     {
       "added_at": "2023-08-08 23:26:41",
       "album": {
-        "name": "Disfrut\u00e9 Enga\u00f1arte",
-        "url": "https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr"
+        "name": "Palabra de Hombre",
+        "url": "https://open.spotify.com/album/5EYyJ7ar2hW6Nh1G89wzPb"
       },
       "artists": [
         {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 234480,
-      "name": "Despu\u00e9s de Ti, \u00bfQui\u00e9n?",
-      "url": "https://open.spotify.com/track/3qGkFQOEJ0w0SqnAXFeG2v"
+      "duration_ms": 196099,
+      "name": "Palabra de Hombre",
+      "url": "https://open.spotify.com/track/4UiaP0wBuy9N9voD91OZOg"
     },
     {
       "added_at": "2023-08-08 23:26:41",
@@ -1283,18 +1267,18 @@
     {
       "added_at": "2023-08-08 23:26:41",
       "album": {
-        "name": "Te Voy A Amar",
-        "url": "https://open.spotify.com/album/64bP2mJ6u20tHxA3EoEbOC"
+        "name": "Disfrut\u00e9 Enga\u00f1arte",
+        "url": "https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr"
       },
       "artists": [
         {
-          "name": "Fidel Rueda",
-          "url": "https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ"
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         }
       ],
-      "duration_ms": 187000,
-      "name": "Me Encantar\u00eda",
-      "url": "https://open.spotify.com/track/2uEqb2TEV29ktnJl8DyObt"
+      "duration_ms": 234480,
+      "name": "Despu\u00e9s de Ti, \u00bfQui\u00e9n?",
+      "url": "https://open.spotify.com/track/3qGkFQOEJ0w0SqnAXFeG2v"
     },
     {
       "added_at": "2023-08-08 23:26:41",
@@ -1315,6 +1299,22 @@
     {
       "added_at": "2023-08-08 23:26:41",
       "album": {
+        "name": "Te Voy A Amar",
+        "url": "https://open.spotify.com/album/64bP2mJ6u20tHxA3EoEbOC"
+      },
+      "artists": [
+        {
+          "name": "Fidel Rueda",
+          "url": "https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Me Encantar\u00eda",
+      "url": "https://open.spotify.com/track/2uEqb2TEV29ktnJl8DyObt"
+    },
+    {
+      "added_at": "2023-08-08 23:26:41",
+      "album": {
         "name": "\u00bfQui\u00e9n Es Usted?",
         "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
       },
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2023-08-08 23:26:41",
       "album": {
-        "name": "El Vagabundo Que Te Ama",
-        "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
+        "name": "Hoy M\u00e1s Fuerte",
+        "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
       },
       "artists": [
         {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 234666,
-      "name": "Mi Enemigo El Amor",
-      "url": "https://open.spotify.com/track/3V5mrjHNr7VFhcUJ5oh45V"
+      "duration_ms": 181680,
+      "name": "\u00bfPor Qu\u00e9 Terminamos?",
+      "url": "https://open.spotify.com/track/1nK0XDR5ZdBfBMfkS5SXRF"
     },
     {
       "added_at": "2023-08-08 23:26:41",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2023-08-08 23:26:41",
       "album": {
-        "name": "Hoy M\u00e1s Fuerte",
-        "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
+        "name": "El Vagabundo Que Te Ama",
+        "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
       },
       "artists": [
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 181680,
-      "name": "\u00bfPor Qu\u00e9 Terminamos?",
-      "url": "https://open.spotify.com/track/1nK0XDR5ZdBfBMfkS5SXRF"
+      "duration_ms": 234666,
+      "name": "Mi Enemigo El Amor",
+      "url": "https://open.spotify.com/track/3V5mrjHNr7VFhcUJ5oh45V"
     },
     {
       "added_at": "2023-08-08 23:26:41",
@@ -1971,8 +1971,8 @@
     {
       "added_at": "2023-08-08 23:26:41",
       "album": {
-        "name": "Hombre De Rancho",
-        "url": "https://open.spotify.com/album/37vmImrA5Kbl0kPbCN68y1"
+        "name": "No Es Culpa Tuya",
+        "url": "https://open.spotify.com/album/4oyXLvtE4i7IdWZ48mtFvE"
       },
       "artists": [
         {
@@ -1980,9 +1980,9 @@
           "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
         }
       ],
-      "duration_ms": 214880,
-      "name": "Se Me Sigue Notando",
-      "url": "https://open.spotify.com/track/6CUtPSVBdwRLzSfALQqM4T"
+      "duration_ms": 240546,
+      "name": "\u00bfY Qu\u00e9 Ha Sido De Ti?",
+      "url": "https://open.spotify.com/track/59tKEqqo6UD8LlMZ9W1rvt"
     },
     {
       "added_at": "2023-08-08 23:26:41",

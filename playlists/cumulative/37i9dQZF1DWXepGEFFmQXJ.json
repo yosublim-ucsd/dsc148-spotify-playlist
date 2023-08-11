@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's Country crop. Cover: Kita Alexander & Morgan Evans",
+  "description": "The cream of today's Country crop. Cover: Luke Combs",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 170682,
       "name": "Bury Me in Georgia - Single Edit",
       "url": "https://open.spotify.com/track/2mltIbKkhQqyh8gCzaqxqA"
@@ -1885,6 +1885,24 @@
     },
     {
       "album": {
+        "name": "Dust",
+        "url": "https://open.spotify.com/album/3k5GlMvgPA41jPz8A9lQqg"
+      },
+      "artists": [
+        {
+          "name": "Melanie Dyer",
+          "url": "https://open.spotify.com/artist/159pZhqLdWf1ttWtw0zBoL"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177453,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/0rlSeqKKb0S2Chu9hOylQM"
+    },
+    {
+      "album": {
         "name": "One Thing At A Time",
         "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
       },
@@ -2401,6 +2419,24 @@
     },
     {
       "album": {
+        "name": "Give Her That",
+        "url": "https://open.spotify.com/album/4JRl2IAzcpYlvjX6DnD4wb"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201800,
+      "name": "Give Her That",
+      "url": "https://open.spotify.com/track/6Shb0psixdhEjdlDkyexeu"
+    },
+    {
+      "album": {
         "name": "Glad It\u2019s Not Me",
         "url": "https://open.spotify.com/album/2doK7K5fVjeTPl2unU6eyS"
       },
@@ -2708,7 +2744,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 182158,
       "name": "Half the Man",
       "url": "https://open.spotify.com/track/16IXpCiQHWKKsTulspUpAF"
@@ -2842,10 +2878,32 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 204325,
       "name": "Heartbroken (feat. Jessie Murph & Polo G)",
       "url": "https://open.spotify.com/track/6NdnvPwQvZb147DVa4x14h"
+    },
+    {
+      "album": {
+        "name": "Diplo Presents Thomas Wesley: Chapter 2 - Swamp Savant",
+        "url": "https://open.spotify.com/album/4T2TQZ3hlWAsCe9PXK3uM9"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197803,
+      "name": "Heartbroken - Jessie Version",
+      "url": "https://open.spotify.com/track/60bbiP93CSxmLibuwvxay9"
     },
     {
       "album": {
@@ -3344,6 +3402,24 @@
       "duration_ms": 225826,
       "name": "In Your Love",
       "url": "https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9"
+    },
+    {
+      "album": {
+        "name": "Rolling Up the Welcome Mat (For Good)",
+        "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139933,
+      "name": "Interlude (Full Length)",
+      "url": "https://open.spotify.com/track/7dSg4FtT2opE2O7O0bYcL2"
     },
     {
       "album": {
@@ -3943,6 +4019,24 @@
     },
     {
       "album": {
+        "name": "Love In A Country Town",
+        "url": "https://open.spotify.com/album/4l7zygarBRjtJrGaE8w04t"
+      },
+      "artists": [
+        {
+          "name": "Lane Pittman",
+          "url": "https://open.spotify.com/artist/4amB7X5ESMq5PB1ve3HmYZ"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188499,
+      "name": "Love in a Country Town",
+      "url": "https://open.spotify.com/track/0CdgXUdmcZ2Tej7Ilv2Hz0"
+    },
+    {
+      "album": {
         "name": "LOVE IS A COWBOY",
         "url": "https://open.spotify.com/album/2DNSEaiDOlocUHvQn37ylQ"
       },
@@ -4372,7 +4466,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 197400,
       "name": "Need A Favor",
       "url": "https://open.spotify.com/track/5twSy6ffBrF03mnNUsUgJZ"
@@ -5412,7 +5506,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 186673,
       "name": "Runnin' The Country",
       "url": "https://open.spotify.com/track/5NNa1fMOhdCJUgCqzFwmkG"
@@ -6686,6 +6780,24 @@
       "duration_ms": 206188,
       "name": "The One",
       "url": "https://open.spotify.com/track/3XmoqtGqwpe674bIT8TM7A"
+    },
+    {
+      "album": {
+        "name": "The Painter",
+        "url": "https://open.spotify.com/album/5KxDhlSxJGEOcaTnqKwdYu"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211413,
+      "name": "The Painter",
+      "url": "https://open.spotify.com/track/6UoKX6uLJwhsnyTp5k5StP"
     },
     {
       "album": {

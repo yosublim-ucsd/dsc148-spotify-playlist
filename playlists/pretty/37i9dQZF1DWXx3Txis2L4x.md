@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 
 > Keep your run going with these upbeat rock tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,990 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,231 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 | 9 | [All My Life](https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [One By One \(Expanded Edition\)](https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx) | 4:23 |
 | 10 | [Wish You Were Here](https://open.spotify.com/track/6KtLECDztnah63TNmV4Plw) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View](https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY) | 3:32 |
 | 11 | [Just like Heaven](https://open.spotify.com/track/76GlO5H5RT6g7y0gev86Nk) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa) | 3:32 |
-| 12 | [Na Na Na \(Na Na Na Na Na Na Na Na Na\)](https://open.spotify.com/track/5BB0Jzw60KyfSTyjJqtely) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Danger Days: The True Lives of the Fabulous Killjoys](https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr) | 3:25 |
-| 13 | [Red Flag](https://open.spotify.com/track/2RZWdE8kYPlCAcRUYDeuLC) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Billy Talent II](https://open.spotify.com/album/0cTOvcvrbNiaiv4WXEUHzT) | 3:18 |
+| 12 | [Red Flag](https://open.spotify.com/track/2RZWdE8kYPlCAcRUYDeuLC) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Billy Talent II](https://open.spotify.com/album/0cTOvcvrbNiaiv4WXEUHzT) | 3:18 |
+| 13 | [Na Na Na \(Na Na Na Na Na Na Na Na Na\)](https://open.spotify.com/track/5BB0Jzw60KyfSTyjJqtely) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Danger Days: The True Lives of the Fabulous Killjoys](https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr) | 3:25 |
 | 14 | [Throne](https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:11 |
 | 15 | [Hash Pipe](https://open.spotify.com/track/2mPMFJvQ0v27gVqe5b6nDn) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:06 |
 | 16 | [Somewhere I Belong](https://open.spotify.com/track/3agtg0x11wPvLIWkYR39nZ) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora](https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3) | 3:33 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 | 74 | [Fireman & Dancer](https://open.spotify.com/track/5Ylm93lRkYCLo6jUeF1VnG) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [Club Majesty](https://open.spotify.com/album/2PzfMWIpq6JKucGhkS1X5M) | 2:48 |
 | 75 | [One Armed Scissor](https://open.spotify.com/track/4QYg0pee8jcGTHC3Uh2Vii) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Relationship Of Command](https://open.spotify.com/album/0Pv5bdtwTTBSHy9GyUe9um) | 4:20 |
 
-Snapshot ID: `MCwzN2JiNmQ0NWQzNDhlMTUyYWI4ODQ5NmUxMTM2YjM3Mjc2YzYxZGMw`
+Snapshot ID: `MCxjMDY2M2YzNGJlY2IxNDYyY2RmN2JiM2VjOTRjMjVjMzc3NmFlYzVj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0aozDLZsk7.md) - [plain]
 
 > Relax\. Abbandonati alla musica e ritrova la tua tranquillità.
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,676 likes - 80 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,692 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,18 +30,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0aozDLZsk7.md) - [plain]
 | 20 | [Be Alright](https://open.spotify.com/track/4r4aTOJc7K3iUIU3MEPw6I) | [Lola Rhodes](https://open.spotify.com/artist/6o0VAgvpfBjrUuDWjjQJ4O) | [Be Alright](https://open.spotify.com/album/58YyhehZ9ErbmrMbzNkPx4) | 3:00 |
 | 21 | [First Day of My Life](https://open.spotify.com/track/0eBryM7ePQH3Klt3jz8xZd) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 3:08 |
 | 22 | [Barcelona](https://open.spotify.com/track/3ieLey98V9mIIh3W9gBlPF) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage \(Expanded Edition\)](https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E) | 3:08 |
-| 23 | [This Year's Love](https://open.spotify.com/track/4X6F9xoYUyJh4OhnXbAZv2) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/27h98zEMf4R8Q25uOkumGe) | 4:05 |
-| 24 | [Stay](https://open.spotify.com/track/0Uon5NsSAkBDx69XYOaQ5P) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Stay](https://open.spotify.com/album/5wjbd3QuTtEVuNRlIY0o4Q) | 2:57 |
+| 23 | [Stay](https://open.spotify.com/track/0Uon5NsSAkBDx69XYOaQ5P) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Stay](https://open.spotify.com/album/5wjbd3QuTtEVuNRlIY0o4Q) | 2:57 |
+| 24 | [This Year's Love](https://open.spotify.com/track/4X6F9xoYUyJh4OhnXbAZv2) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/27h98zEMf4R8Q25uOkumGe) | 4:05 |
 | 25 | [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 |
 | 26 | [Old Pine](https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 5:28 |
 | 27 | [I Guess I Just Feel Like](https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 4:46 |
 | 28 | [To Build A Home](https://open.spotify.com/track/3AqPL1n1wKc5DVFFnYuJhp) | [The Cinematic Orchestra](https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB), [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Ma Fleur](https://open.spotify.com/album/5VrMypyjjBGzObGwnEHIJO) | 6:10 |
 | 29 | [Peer Pressure](https://open.spotify.com/track/4RE3vueod5PL48rvHtuu9C) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Oh My Messy Mind](https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d) | 2:56 |
 | 30 | [Lucky Girl](https://open.spotify.com/track/136QuvKnhCzkiv9dx6AlZe) | [Thony](https://open.spotify.com/artist/23wRPCFyOHaPhUVrsvg9eE) | [Lucky Girl](https://open.spotify.com/album/5nNa2lGhpqMnu0V7753T3u) | 2:31 |
-| 31 | [Minefields](https://open.spotify.com/track/1OU4E4HiVjdak0mL4blVWT) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Minefields](https://open.spotify.com/album/6Pp5U1A6z6OogrtQEL5Q89) | 3:10 |
-| 32 | [Days Like This](https://open.spotify.com/track/0W6vig3DpP1D3R4w72hdWp) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear \(The Complete Edition\)](https://open.spotify.com/album/4Z6CfVlX40xDUq4CTiFpAa) | 2:29 |
-| 33 | [Carry You](https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Bathing Beach](https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN) | 4:33 |
-| 34 | [Visiting Hours](https://open.spotify.com/track/0rt63HYAAIzUZo5O2D0uA6) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:35 |
+| 31 | [Visiting Hours](https://open.spotify.com/track/0rt63HYAAIzUZo5O2D0uA6) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:35 |
+| 32 | [Minefields](https://open.spotify.com/track/1OU4E4HiVjdak0mL4blVWT) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Minefields](https://open.spotify.com/album/6Pp5U1A6z6OogrtQEL5Q89) | 3:10 |
+| 33 | [Days Like This](https://open.spotify.com/track/0W6vig3DpP1D3R4w72hdWp) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear \(The Complete Edition\)](https://open.spotify.com/album/4Z6CfVlX40xDUq4CTiFpAa) | 2:29 |
+| 34 | [Carry You](https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Bathing Beach](https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN) | 4:33 |
 | 35 | [Please Keep Loving Me](https://open.spotify.com/track/78zUxUPvONPgMIt46q5be6) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Please Keep Loving Me](https://open.spotify.com/album/53ZfIHyk0AhUHeVRBCIl64) | 3:15 |
 | 36 | [Dear August](https://open.spotify.com/track/16gW9O8A4rIMx5OOVlzsSn) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Dear August](https://open.spotify.com/album/6gaOMLivdMhiFaTuPqTmgj) | 3:20 |
 | 37 | [Like Strangers Do](https://open.spotify.com/track/0Wc6cbF38a90b8wov9V63F) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Like Strangers Do](https://open.spotify.com/album/3fFTDPRQZRpbH5pgqvepFZ) | 2:40 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0aozDLZsk7.md) - [plain]
 | 42 | [There's No Way \(feat\. Julia Michaels\)](https://open.spotify.com/track/3F7bhRhNpY4YKrwa4kGeUz) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [There's No Way \(feat\. Julia Michaels\)](https://open.spotify.com/album/0fZ8R5krm1zAkzUFjqwtpU) | 2:54 |
 | 43 | [Stay With Me \- Live From Spotify Berlin](https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Spotify Sessions](https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU) | 2:54 |
 | 44 | [Decimal](https://open.spotify.com/track/6eusWfAal7mOOLr0XFLkiY) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Cannot Be, Whatsoever](https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw) | 2:58 |
-| 45 | [WALLS](https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 5:29 |
-| 46 | [Have It All](https://open.spotify.com/track/7BXW1QCg56yzEBV8pW8pah) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Know.](https://open.spotify.com/album/7dwIWyB2jdJgL3P2JEgRKm) | 3:46 |
+| 45 | [Have It All](https://open.spotify.com/track/7BXW1QCg56yzEBV8pW8pah) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Know.](https://open.spotify.com/album/7dwIWyB2jdJgL3P2JEgRKm) | 3:46 |
+| 46 | [WALLS](https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 5:29 |
 | 47 | [Rush \(feat\. Jessie Reyez\)](https://open.spotify.com/track/7tTRP2vA00uScZ4SjB3ZQZ) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Rush \(feat\. Jessie Reyez\)](https://open.spotify.com/album/5uwgv6t86N0WpA0IxtFkFn) | 3:18 |
 | 48 | [Retrograde](https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:43 |
 | 49 | [Feeling You](https://open.spotify.com/track/7xghXOM3CaIK6wmR0xW1XS) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Feeling You](https://open.spotify.com/album/7yVC3GjeYYefCwfsKS3u2H) | 3:21 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0aozDLZsk7.md) - [plain]
 | 61 | [The One](https://open.spotify.com/track/0My8NPmENHrN5W7OfgZnZJ) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Coming Up for Air \(Expanded Edition\)](https://open.spotify.com/album/3IJ5RDbQeiWIf7Fo601JwE) | 3:52 |
 | 62 | [Slow](https://open.spotify.com/track/1Ia95g66IhlAJ3qVI4qI8W) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Slow](https://open.spotify.com/album/6u4ZwK6xSWHhREBVzhjQg6) | 2:43 |
 | 63 | [What They'll Say About Us](https://open.spotify.com/track/4W1gUkq2TAOOFCBet3i3WR) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 3:01 |
-| 64 | [Mood Ring](https://open.spotify.com/track/7rb4dcBfW0m1LQQcDCh4Hv) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:45 |
-| 65 | [Friend](https://open.spotify.com/track/6fGSHpEipD1YjtLLChnBzW) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:56 |
+| 64 | [Friend](https://open.spotify.com/track/6fGSHpEipD1YjtLLChnBzW) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:56 |
+| 65 | [Mood Ring](https://open.spotify.com/track/7rb4dcBfW0m1LQQcDCh4Hv) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:45 |
 | 66 | [September](https://open.spotify.com/track/0exZ0YogJPbjGzblpcZaw7) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [September](https://open.spotify.com/album/1gHwbB7Db9yJ7kASKJFSnc) | 3:40 |
 | 67 | [The Breach](https://open.spotify.com/track/1WXVfFRD89EtVURD4Tbixo) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [The Breach EP](https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR) | 4:13 |
 | 68 | [Grey](https://open.spotify.com/track/2J4DpqJCIuuM9WjtWHbjvd) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [The Good Times and The Bad Ones](https://open.spotify.com/album/0cVSrL39wn0PkBm9PFf6G2) | 4:37 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0aozDLZsk7.md) - [plain]
 | 79 | [Petals](https://open.spotify.com/track/2wQlywnCQG88drPNdEOuRO) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [A Mineral Love](https://open.spotify.com/album/1XyvqZhfSsxO03MesQpaQn) | 2:36 |
 | 80 | [Like To Be You \(feat\. Julia Michaels\)](https://open.spotify.com/track/2IssBpPtHcViZL5vYQNHhA) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 2:39 |
 
-Snapshot ID: `MCxhNGJmOTg5MWZjNjI5YzIzZWRlZDM2MjIwMmFiZTZkOGI2MzIyZTRi`
+Snapshot ID: `MCxhZWI3ZWY0NzBkMWI3YzBlMWRiZDFkOWEwOTkxY2YwYzViMTBhNjQ0`

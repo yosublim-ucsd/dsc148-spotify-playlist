@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Keyon Harrold
 
-[Spotify](https://open.spotify.com/user/spotify) - 894,435 likes - 100 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 894,524 likes - 100 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Don’t Lie \[Feat\. Malaya\]](https://open.spotify.com/track/6xVgDPrFSlBinlx7lRzI1S) | [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA), [Malaya](https://open.spotify.com/artist/0qeCnlpThKmwCQezKhnVQb) | [Don’t Lie \[Feat\. Malaya\]](https://open.spotify.com/album/1JUxXtOkoLUgwHN7dfb2ML) | 4:21 |
 | 2 | [People of The Sun](https://open.spotify.com/track/5yiRpEYb8n6NWuPx3u3EcW) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Jean Carne](https://open.spotify.com/artist/3ejLRcSbNwwvFbVWnStKvB) | [People of The Sun](https://open.spotify.com/album/5d3LrvZRe23YqwU2GJwQ62) | 3:14 |
 | 3 | [Valdez Off Crenshaw \(feat\. Kamasi Washington, Cory Henry & Robert 'Sput' Searight\)](https://open.spotify.com/track/21k7x040W2grne2sr7qIip) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Curly](https://open.spotify.com/artist/5FcFMOPCujvzUitpDwm8dp), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Robert ‘Sput’ Searight](https://open.spotify.com/artist/4RYnjtmOhFE1ok8vBW3yun) | [Curly](https://open.spotify.com/album/2lb3nbgbib5gcK1kPyxXbg) | 7:36 |
-| 4 | [Uncertainties](https://open.spotify.com/track/0UpbT3Joops0jxblkZVhZL) | [Tristan De Liege](https://open.spotify.com/artist/56WzaWPSOfPePuPdfHBYr5), [Jamal](https://open.spotify.com/artist/7wljsIwScBNShUPFULDCB3) | [Uncertainties](https://open.spotify.com/album/0cEakLOQxGGg8ndHljx89z) | 5:01 |
+| 4 | [Uncertainties](https://open.spotify.com/track/0UpbT3Joops0jxblkZVhZL) | [Tristan De Liege](https://open.spotify.com/artist/56WzaWPSOfPePuPdfHBYr5), [Jambal](https://open.spotify.com/artist/4C4DCj8tcxj5RKpo7AVimE) | [Uncertainties](https://open.spotify.com/album/0cEakLOQxGGg8ndHljx89z) | 5:01 |
 | 5 | [Baltimore](https://open.spotify.com/track/1UjY15XsU2SYyaHflOxknJ) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Baltimore](https://open.spotify.com/album/67WZ5gXP82Q1d0XpnE6qZQ) | 5:37 |
 | 6 | [Yesterday's Price](https://open.spotify.com/track/76w0UOermXSeAZIj0HfynR) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Joshua Karpeh](https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF), [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG), [Ambrose Akinmusire](https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF) | [Yesterday's Price](https://open.spotify.com/album/7xPy90fuevpNsr4pSLRSmB) | 5:15 |
 | 7 | [The Dance](https://open.spotify.com/track/5XLM75KbmQZWYxAefKoKgC) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA), [Terreon Gully](https://open.spotify.com/artist/1SqJPsQ1Xl7SqS7bNcea5P), [Dario Chiazzolino](https://open.spotify.com/artist/0FCdAfxz2PRzUfKzzVM5LG), [Jermaine Paul](https://open.spotify.com/artist/302jOsgU7aZW71XhLem57k) | [The Dance](https://open.spotify.com/album/5YogcLfXQCiGSETxFW5Udp) | 4:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [No End](https://open.spotify.com/track/2MJMUvGIN5aidX8rHTsJcH) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [No End](https://open.spotify.com/album/5R1eo5djaopbyuWH3vpJHd) | 2:38 |
 | 100 | [Part VII](https://open.spotify.com/track/6YBlNOhf1CXD3tBS47AgVx) | [Myele Manzanza](https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd), [Lewis Moody](https://open.spotify.com/artist/60ybgvKZRtAZz7WxNMpJaV), [Benjamin Muralt](https://open.spotify.com/artist/5cyLdqGfpPgg8uE1ZiCpwP) | [Focus](https://open.spotify.com/album/4cP6mSCbTaGDtU8Eprv6cm) | 3:12 |
 
-Snapshot ID: `MCwyNDQ2ZDBiOTU5MzEyNmI1NmVkMGI0OWUzNTY3NTVjZTAxYjlhMGE1`
+Snapshot ID: `MCw0NGRkZjU3ZmM2MGQ4OGIzZDZmODA2ZWYxMjRjMjA5YjdkZTI4MDY4`

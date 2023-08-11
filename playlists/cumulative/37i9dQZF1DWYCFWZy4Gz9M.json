@@ -501,6 +501,24 @@
     },
     {
       "album": {
+        "name": "Live in Casablanca",
+        "url": "https://open.spotify.com/album/25DdBbAFYrRhdi0xiYATKR"
+      },
+      "artists": [
+        {
+          "name": "Fehd Benchemsi",
+          "url": "https://open.spotify.com/artist/1Z4qZRTqdRiefiqgbNg2ky"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449975,
+      "name": "Bouderbala",
+      "url": "https://open.spotify.com/track/0Z0siqa5ruMwizCAL6D2gw"
+    },
+    {
+      "album": {
         "name": "Roots & Plugged",
         "url": "https://open.spotify.com/album/16MciLmcGXDmpmZZmlJUNn"
       },
@@ -588,7 +606,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 184000,
       "name": "Chabakro",
       "url": "https://open.spotify.com/track/4f96sQDzteyArqY1bBMCi6"
@@ -700,7 +718,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-08",
+      "date_removed": null,
       "duration_ms": 474333,
       "name": "El Ghaba",
       "url": "https://open.spotify.com/track/7ibGkbXkA1NEUGktfEgdwa"
@@ -852,7 +870,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 356066,
       "name": "Hamdouchi",
       "url": "https://open.spotify.com/track/7pa2MBRVlnvxxuY9DTfYYk"

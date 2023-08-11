@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 881,954 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 881,924 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 86 | [Waile](https://open.spotify.com/track/69V0oOacvu3NKhpuqDhkLk) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM) | [Waile](https://open.spotify.com/album/6bB5RHwyIKq5jUzbVuS63Y) | 5:15 |
 | 87 | [Silent](https://open.spotify.com/track/2S4ktHPpnD2dhC3d2MK1pJ) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [Silent](https://open.spotify.com/album/6vDY0kHBfGrhKi6Of9E3EN) | 4:47 |
 | 88 | [Half Heard Melody](https://open.spotify.com/track/3hsJyYVHF4JASbbmXfh1iF) | [Habe](https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW), [Chris Mazuera](https://open.spotify.com/artist/3Sb3oI3Xw7FcgYS262zXPE) | [Half Heard Melody](https://open.spotify.com/album/6WVwm3Jt13kkBIRUXTHY83) | 3:05 |
-| 89 | [Oatmeal Pancakes](https://open.spotify.com/track/3Qazns0pMnqN6cbDJTxj9a) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Oatmeal Pancakes](https://open.spotify.com/album/68pGqsjvG8r4vvLBljvPuQ) | 3:06 |
+| 89 | [Oatmeal Pancakes](https://open.spotify.com/track/2WrVNmuf8cLlLE58Q5UweA) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Boy Toy](https://open.spotify.com/album/1wBk0x6HFBHRvIH42qyhBE) | 3:06 |
 | 90 | [Petroglyph](https://open.spotify.com/track/2bzAmBp07YEFIxoc202Ug9) | [Vinyl Williams](https://open.spotify.com/artist/7GJ7lI9jmrNOuxBEcNQHPT) | [Petroglyph](https://open.spotify.com/album/1FUdKikHCOSBLxpSlR11nO) | 4:33 |
 | 91 | [Renegade](https://open.spotify.com/track/3SqMnzlS5KPE7wFFF4wBWa) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Renegade](https://open.spotify.com/album/05yGOGCNiN4vhRfOlX50oG) | 2:54 |
 | 92 | [Late Riser](https://open.spotify.com/track/49oTazxdKGoxGTq9ZmqpPV) | [Okey Dokey](https://open.spotify.com/artist/3hSFS64223jyO9Ck66rLOf) | [Late Riser](https://open.spotify.com/album/1vZoAnLWsTLhR6r4sussA0) | 4:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 99 | [Gem](https://open.spotify.com/track/4EWigRsUuQBFO7vCwTFFHW) | [Romeo + Juliet](https://open.spotify.com/artist/7FZu3dX3gmWstmpFvfpUo2) | [Raging Bull](https://open.spotify.com/album/7ALsOonjasgDlpU4OkXSyo) | 4:14 |
 | 100 | [2 Steppin'](https://open.spotify.com/track/4cbV9dRnFNNsfc5B6RAbLX) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [2 Steppin'](https://open.spotify.com/album/7gEURTKTw4fIvmmnSxT16h) | 2:50 |
 
-Snapshot ID: `MCxlYjkwYzFkZGIxYTYwODhkMjA4YWYwN2U5ZjJhMzY2YWRiYjRiMzk1`
+Snapshot ID: `MCxiMzQ4MzhhZmJiNWQwMDI0NmU3ZWFhMzg1ZmY0ZjY5YTJjOWZhMDZi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 
 > Beautifully dark, dramatic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 762,402 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 762,776 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 3 | [Night Shift](https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu) | 6:31 |
 | 4 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 4:58 |
 | 5 | [Devil Like Me](https://open.spotify.com/track/6pSliMukEwAdpMPgCKTKDH) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Seven + Mary](https://open.spotify.com/album/05WJ8XAD4QWV6mrM5NoguG) | 3:08 |
-| 6 | [Garden Song](https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:39 |
+| 6 | [Thunder](https://open.spotify.com/track/4y9vLiQ9mQb6XNEtc4K6ou) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Blue Banisters](https://open.spotify.com/album/2wwCc6fcyhp1tfY3J6Javr) | 4:19 |
 | 7 | [Fake Love](https://open.spotify.com/track/05Z4IreB9RR7ckA77xhoEK) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [Fake Love](https://open.spotify.com/album/7ETHMfLKCuyBc0m0LbkdHT) | 2:28 |
-| 8 | [Thunder](https://open.spotify.com/track/4y9vLiQ9mQb6XNEtc4K6ou) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Blue Banisters](https://open.spotify.com/album/2wwCc6fcyhp1tfY3J6Javr) | 4:19 |
+| 8 | [Garden Song](https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:39 |
 | 9 | [Salt In The Wound](https://open.spotify.com/track/7blNhlXimy77PduXyWtmcI) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 4:11 |
 | 10 | [I Need My Girl](https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL) | 4:05 |
 | 11 | [Take Me to Church](https://open.spotify.com/track/0aOluBqXYd0rFSCsgDyAWX) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 4:01 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 63 | [The Place I Left Behind](https://open.spotify.com/track/7BbAqle8lyB3S56Q9MPTZB) | [The Deep Dark Woods](https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl) | [The Place I Left Behind](https://open.spotify.com/album/7sdf7F7WFPdCZt20wHR9rU) | 4:04 |
 | 64 | [Queen of Disaster](https://open.spotify.com/track/0PyopHInX2qJzsRUKgNnxI) | [LULLANAS](https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd) | [Queen of Disaster](https://open.spotify.com/album/6hsSgsifs7mkMqLNLf5CpI) | 3:41 |
 | 65 | [I Love You, But I Need Another Year](https://open.spotify.com/track/2UQYVFUrqybUciB3ULiysS) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Fine But Dying](https://open.spotify.com/album/6ELuMj5lPWzmvHhi3YeIOp) | 3:42 |
-| 66 | [By Night](https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob) | [Puzzle Muteson](https://open.spotify.com/artist/3PkGkJmTotXKubtTksWboK) | [Theatrics](https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC) | 3:38 |
-| 67 | [Stars](https://open.spotify.com/track/39rXqYJ5vTRmi6kq0JvoiM) | [Sam Airey](https://open.spotify.com/artist/1VTqcwo2gWop75nRqyCGJw) | [In Darkened Rooms](https://open.spotify.com/album/0FBUrWKF7V022FRI1RkfW7) | 5:22 |
+| 66 | [Stars](https://open.spotify.com/track/39rXqYJ5vTRmi6kq0JvoiM) | [Sam Airey](https://open.spotify.com/artist/1VTqcwo2gWop75nRqyCGJw) | [In Darkened Rooms](https://open.spotify.com/album/0FBUrWKF7V022FRI1RkfW7) | 5:22 |
+| 67 | [By Night](https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob) | [Puzzle Muteson](https://open.spotify.com/artist/3PkGkJmTotXKubtTksWboK) | [Theatrics](https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC) | 3:38 |
 | 68 | [Esmerelda](https://open.spotify.com/track/5kFTqniUPljjMVCP37xRyd) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [The Burgh Island EP](https://open.spotify.com/album/0SudjNaf3DuVpZzM7bGNZ5) | 4:44 |
 | 69 | [Deep Green](https://open.spotify.com/track/3y7SaLukj7ONKxdZLAoQtH) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Deaf Heat EP](https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC) | 3:35 |
 | 70 | [Sausalito](https://open.spotify.com/track/7dbkkve2z5PQ0Jy3e1KixE) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Azalea](https://open.spotify.com/album/0b1pEut6nYAQhX6EMzXGGv) | 3:42 |
@@ -85,15 +85,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 75 | [Somebody Desperate \- From ''Cyrano'' Soundtrack](https://open.spotify.com/track/7HYgIW2TK4hPfcC6XaqF2W) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Somebody Desperate \(From ''Cyrano'' Soundtrack\)](https://open.spotify.com/album/1h6dh2TaMHS9uB9uYxJJCv) | 3:55 |
 | 76 | [Dream State...](https://open.spotify.com/track/3gTK6H0XBeViYvo9TGJ5V5) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [No Burden](https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE) | 3:30 |
 | 77 | [Marked for Death](https://open.spotify.com/track/1fLOvLE1XRpvHpLkRHzSym) | [Emma Ruth Rundle](https://open.spotify.com/artist/34gLicNdz493863yZTanvC) | [Marked for Death](https://open.spotify.com/album/6e5Hr71kvlsrTaNoiuqWu4) | 3:39 |
-| 78 | [Don't Know Who I Am](https://open.spotify.com/track/0BlWn4ZadRmT6Ksnvzc7Jp) | [Rebecca Roubion](https://open.spotify.com/artist/1eaYzzk8AQ47QxLjCI3ck2) | [Sleepless Nights](https://open.spotify.com/album/2qnldWV2h89LcrnAeb3X04) | 2:20 |
-| 79 | [I Of The Storm](https://open.spotify.com/track/3z8ypl55NHugzc6EDVVFdF) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Beneath The Skin \(Deluxe\)](https://open.spotify.com/album/1m3D8gkm3nOvIXNR1SvDFA) | 4:36 |
+| 78 | [I Of The Storm](https://open.spotify.com/track/3z8ypl55NHugzc6EDVVFdF) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Beneath The Skin \(Deluxe\)](https://open.spotify.com/album/1m3D8gkm3nOvIXNR1SvDFA) | 4:36 |
+| 79 | [Don't Know Who I Am](https://open.spotify.com/track/0BlWn4ZadRmT6Ksnvzc7Jp) | [Rebecca Roubion](https://open.spotify.com/artist/1eaYzzk8AQ47QxLjCI3ck2) | [Sleepless Nights](https://open.spotify.com/album/2qnldWV2h89LcrnAeb3X04) | 2:20 |
 | 80 | [Hold On](https://open.spotify.com/track/3aHHQ2pQrVCThJCEowJMuP) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [Hold to the Light](https://open.spotify.com/album/7aihuGqvU3NAInaXVDmvST) | 3:49 |
 | 81 | [Goodbye \(with Soap & Skin\)](https://open.spotify.com/track/6BJXuY0lY0EUtSDCgkYnqE) | [Apparat](https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot), [Soap&Skin](https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku) | [The Devil's Walk](https://open.spotify.com/album/5EHvg6pPmS7wBzcCjXZIs3) | 4:29 |
 | 82 | [How Come You Never Go There](https://open.spotify.com/track/1f4YlPYTV3H3Namp0NvVMp) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Metals](https://open.spotify.com/album/16EdRx2P4PVgZFK53UF3JD) | 3:24 |
 | 83 | [Sane](https://open.spotify.com/track/7fW3FdTNVNe5PixRIEQ6Pc) | [Fear of Men](https://open.spotify.com/artist/0CRpYpI1sFle7hwVWdLOEd) | [Fall Forever](https://open.spotify.com/album/7hPVqeniaW7KBITPBam9If) | 4:42 |
 | 84 | [My Love Took Me Down To the River To Silence Me](https://open.spotify.com/track/1Me1LN4tpFc3rCRkmHAu0q) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [Absolute Zero](https://open.spotify.com/album/1kqlpogKhHGn8zJTXUtZbW) | 5:00 |
-| 85 | [Drifting on a Summer's Night](https://open.spotify.com/track/3e3X9Tzj7gHczvldaW4x3u) | [The Deep Dark Woods](https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl) | [Yarrow](https://open.spotify.com/album/7eQA5w0dxrdbTUPjh6L8cH) | 2:54 |
-| 86 | [B a noBody](https://open.spotify.com/track/7uu9k6xfRSn2NjdwJXqWGQ) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Before We Forgot How To Dream](https://open.spotify.com/album/0Z8DuysabM6vo3y7HSlTbA) | 4:48 |
+| 85 | [B a noBody](https://open.spotify.com/track/7uu9k6xfRSn2NjdwJXqWGQ) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Before We Forgot How To Dream](https://open.spotify.com/album/0Z8DuysabM6vo3y7HSlTbA) | 4:48 |
+| 86 | [Drifting on a Summer's Night](https://open.spotify.com/track/3e3X9Tzj7gHczvldaW4x3u) | [The Deep Dark Woods](https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl) | [Yarrow](https://open.spotify.com/album/7eQA5w0dxrdbTUPjh6L8cH) | 2:54 |
 | 87 | [Sleep Baby Sleep](https://open.spotify.com/track/3wTtsqa040vqNP1dw12m4K) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Broods](https://open.spotify.com/album/17vQyc1dhEyxV6q5AxOWh8) | 3:00 |
 | 88 | [Bohemia](https://open.spotify.com/track/3adH7bPUudZAZ3XDRpwJni) | [Mt\. Wolf](https://open.spotify.com/artist/4GLzX588I9R2vs0nTHhD6Z) | [Aetherlight](https://open.spotify.com/album/4qaVL3I4xyHF9qq98dmPHc) | 5:15 |
 | 89 | [Wasted Time](https://open.spotify.com/track/2C10W0lrLhC09g8TLUcRKV) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [One Big Nothing](https://open.spotify.com/album/16OaQjGBTLJy6ZashcbJRm) | 4:04 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 95 | [Distrust](https://open.spotify.com/track/4oxBuMPLQxQYVPYOdCOG77) | [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [Hollowed out Sea](https://open.spotify.com/album/6eiWuJTeAfTTlD6jpd766A) | 3:33 |
 | 96 | [Boris](https://open.spotify.com/track/1rfSdNJodNnBxLlPok0YFB) | [Lo\-Fang](https://open.spotify.com/artist/5EDkJDlRNcMs3ewliB24QA) | [Blue Film](https://open.spotify.com/album/7D8AeZSOdO2eO2Htuyubd8) | 3:37 |
 | 97 | [Big Sky](https://open.spotify.com/track/6CoVyYMT1M7S9DBRYp8HJL) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Pony](https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ) | 3:32 |
-| 98 | [Smile](https://open.spotify.com/track/2hMl41oCsn1JDbUlCRpaRH) | [William Crighton](https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM) | [William Crighton](https://open.spotify.com/album/11iygN0BADQ3dWcAwyp3QV) | 6:02 |
-| 99 | [Stakes](https://open.spotify.com/track/0MrCHY7OM8VjnsfwT3DSsw) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Winter](https://open.spotify.com/album/71K84GjeSWMtFT3sKv3Poz) | 5:11 |
+| 98 | [Stakes](https://open.spotify.com/track/0MrCHY7OM8VjnsfwT3DSsw) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Winter](https://open.spotify.com/album/71K84GjeSWMtFT3sKv3Poz) | 5:11 |
+| 99 | [Smile](https://open.spotify.com/track/2hMl41oCsn1JDbUlCRpaRH) | [William Crighton](https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM) | [William Crighton](https://open.spotify.com/album/11iygN0BADQ3dWcAwyp3QV) | 6:02 |
 | 100 | [Deliverance](https://open.spotify.com/track/0lTmVz7A8YJM2fI9k1iMcV) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv) | 3:50 |
 
-Snapshot ID: `MCxiZjVmNDNlMmUyNGZlYjM3NGY0ZmFmMWM0NmVjNTkxNTQ0OTIwYWUx`
+Snapshot ID: `MCwzOTZmODc0MWJkYmEzNDZiY2ExZWY4ZjcwOTgzNzY3YThjOTA5YTUw`

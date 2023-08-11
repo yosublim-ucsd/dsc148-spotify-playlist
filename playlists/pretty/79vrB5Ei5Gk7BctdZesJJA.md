@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79vrB5Ei5Gk7BctdZesJJA.md) - [plain]
 
 > Official Roadrunner Records Playlist \- Guest curator: Brian Audley from Incendiary! \(New guest curator every 2 weeks\)
 
-[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,531 likes - 28 songs - 1 hr 37 min
+[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,532 likes - 28 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

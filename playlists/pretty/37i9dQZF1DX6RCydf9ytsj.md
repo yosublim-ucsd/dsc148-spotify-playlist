@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 
 > The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene\. Cover: The Judds
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,311 likes - 150 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,610 likes - 150 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 41 | [When You Say Nothing at All](https://open.spotify.com/track/2lCGAGpqgQIolNfpnycIZk) | [Keith Whitley](https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW) | [Greatest Hits](https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo) | 3:42 |
 | 42 | [Mountain Music](https://open.spotify.com/track/7BjmEKAVTnJNkRNaUzBy2K) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [Ultimate Alabama 20 \# 1 Hits](https://open.spotify.com/album/4oFLKch6Zh0YanY9Uj2s8z) | 3:38 |
 | 43 | [Lookin' for Love](https://open.spotify.com/track/5pvNhGuCow3Eq1nWbP3Sco) | [Johnny Lee](https://open.spotify.com/artist/45rAZqRt5nUUMatQzk8qJu) | [Lookin' For Love](https://open.spotify.com/album/6AxUdkfWrqHQxQEHKbqL47) | 3:40 |
-| 44 | [Killin' Time](https://open.spotify.com/track/4H2TRR9FjnnIwxGnIt9stO) | [Clint Black](https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt) | [Ultimate Clint Black](https://open.spotify.com/album/3fsGT85qu4Jhvs9htCgygz) | 2:48 |
-| 45 | [Big City](https://open.spotify.com/track/7MYCBhcWtRSJ7YXTfIHlI8) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [The Essential Merle Haggard: The Epic Years](https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb) | 2:59 |
+| 44 | [Big City](https://open.spotify.com/track/7MYCBhcWtRSJ7YXTfIHlI8) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [The Essential Merle Haggard: The Epic Years](https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb) | 2:59 |
+| 45 | [Killin' Time](https://open.spotify.com/track/4H2TRR9FjnnIwxGnIt9stO) | [Clint Black](https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt) | [Ultimate Clint Black](https://open.spotify.com/album/3fsGT85qu4Jhvs9htCgygz) | 2:48 |
 | 46 | [The One I Loved Back Then \(The Corvette Song\)](https://open.spotify.com/track/0RbaD2rw0HmpfflXFH9DKu) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Who's Gonna Fill Their Shoes](https://open.spotify.com/album/0SRwLRes0ubEsYsjM9F5uL) | 2:30 |
 | 47 | [Rockin' With The Rhythm Of The Rain](https://open.spotify.com/track/0uEuAQ0c5yittMpxJ3l5iR) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Rockin' With The Rhythm](https://open.spotify.com/album/5sUOntUxlMmGEND5wboCTq) | 2:41 |
 | 48 | [Country Club](https://open.spotify.com/track/6o7BCdJjGvHBBPMb4ZrA68) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Country Club](https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo) | 3:10 |
@@ -98,13 +98,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 88 | [Love At The Five & Dime](https://open.spotify.com/track/02WLZdGJfTX1ZgshVkj2aB) | [Kathy Mattea](https://open.spotify.com/artist/7ndzHjxbErIwvwnEUewMWe) | [Walk The Way The Wind Blows](https://open.spotify.com/album/5F5np5Tdq8eWV79SNf8HHv) | 3:38 |
 | 89 | [Everything That Glitters \(Is Not Gold\)](https://open.spotify.com/track/6NaQDBNUP6LcsZklHizAki) | [Dan Seals](https://open.spotify.com/artist/55yEsJBqyn27JPsw5hHzqi) | [Won't Be Blue Anymore](https://open.spotify.com/album/7fAh0pvsmKl2HbkuUmoiMI) | 4:52 |
 | 90 | [Friday Night Blues](https://open.spotify.com/track/5AgHGO8qE6Gf5HFaY1YHg9) | [John Conlee](https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP) | [Friday Night Blues](https://open.spotify.com/album/6ahnIVl7o1IfC6GEOWgafD) | 3:18 |
-| 91 | [Diggin' Up Bones](https://open.spotify.com/track/6stD0CS3QFs2yY3CoBfK8K) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Top 10](https://open.spotify.com/album/3mr4jvGT5p1vw3zxySiCss) | 2:59 |
-| 92 | [Any Day Now](https://open.spotify.com/track/30upl1YT1suEgSDpIopSky) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ) | [Inside](https://open.spotify.com/album/0fwjRFRzp9GeNSBpRzkiOs) | 3:42 |
+| 91 | [Any Day Now](https://open.spotify.com/track/30upl1YT1suEgSDpIopSky) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ) | [Inside](https://open.spotify.com/album/0fwjRFRzp9GeNSBpRzkiOs) | 3:42 |
+| 92 | [Diggin' Up Bones](https://open.spotify.com/track/6stD0CS3QFs2yY3CoBfK8K) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Top 10](https://open.spotify.com/album/3mr4jvGT5p1vw3zxySiCss) | 2:59 |
 | 93 | [To Know Him Is to Love Him \- 2015 Remaster](https://open.spotify.com/track/0gIhlWV243Z1K93QfCeJTM) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Trio \(2016 Remaster\)](https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4) | 3:47 |
 | 94 | [Tennessee Flat Top Box](https://open.spotify.com/track/3zyj0RajXg2w2Bnn773mnW) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [The Very Best Of Rosanne Cash](https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa) | 3:15 |
 | 95 | [I'd Love To Lay You Down](https://open.spotify.com/track/4VF5XIZ7EiMfLElRzYG2E8) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Love Songs](https://open.spotify.com/album/0bP76IDtXusEmR3b1MG3ao) | 3:19 |
-| 96 | [All My Rowdy Friends Are Coming Over Tonight](https://open.spotify.com/track/1yzyhrCfdwPgfWixsCELlH) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Greatest Hits, Vol\. 2](https://open.spotify.com/album/1TRb99NpbCbLBiYnCis1fv) | 2:58 |
-| 97 | [Nobody](https://open.spotify.com/track/1IyktkUQ3ktjlc6eDXG967) | [Sylvia](https://open.spotify.com/artist/4MTyRJuQSGVdZQNUI4xRiR) | [Just Sylvia](https://open.spotify.com/album/2dOjFe0Q4iaGfrB6lQULEV) | 3:19 |
+| 96 | [Nobody](https://open.spotify.com/track/1IyktkUQ3ktjlc6eDXG967) | [Sylvia](https://open.spotify.com/artist/4MTyRJuQSGVdZQNUI4xRiR) | [Just Sylvia](https://open.spotify.com/album/2dOjFe0Q4iaGfrB6lQULEV) | 3:19 |
+| 97 | [All My Rowdy Friends Are Coming Over Tonight](https://open.spotify.com/track/1yzyhrCfdwPgfWixsCELlH) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Greatest Hits, Vol\. 2](https://open.spotify.com/album/1TRb99NpbCbLBiYnCis1fv) | 2:58 |
 | 98 | [My Favorite Memory](https://open.spotify.com/track/7FsM2MPjPCdgYld4NsvO0f) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [The Essential Merle Haggard: The Epic Years](https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb) | 3:05 |
 | 99 | [One Promise Too Late](https://open.spotify.com/track/6BtBykwKhMjp4XDGc1ll1B) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [What Am I Gonna Do About You](https://open.spotify.com/album/52S2Kk2P6hLkOBzncNWDjL) | 3:25 |
 | 100 | [What's Forever For?](https://open.spotify.com/track/5j2yIrnbgDW51GM95ZjqDj) | [Michael Martin Murphey](https://open.spotify.com/artist/4jL1usPiGDK8TD46zJP4gu) | [The Best Of Michael Martin Murphey](https://open.spotify.com/album/4oNkliPdTLg2FHIDp4PgDN) | 2:51 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 149 | [Crackers \- Single Version](https://open.spotify.com/track/3VSkgyqT0jkV68t5QCX8iQ) | [Barbara Mandrell](https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg) | [Love Is Fair](https://open.spotify.com/album/6sVMfY88I8a7xkmSaXCruy) | 2:34 |
 | 150 | [\(That's What You Do\) When You're in Love](https://open.spotify.com/track/0zd4IzrpBnA1giNE6KkYby) | [The Forester Sisters](https://open.spotify.com/artist/27Zy5YAD3Atf56oSRfrfis) | [The Forester Sisters](https://open.spotify.com/album/3LDzLEr1jGClFSMrdwdjcA) | 3:04 |
 
-Snapshot ID: `MCw4NzY0ZmI5NjQxNzkxOWIwZjUzZTQ0N2I2ZWYyYzUyNzlkNjA1YzAy`
+Snapshot ID: `MCw0NjI3NGQxNjAxMjI1NGY5ZmI2ZWY5MTAyMmZiNGY1MTdjOGFjYjBm`

@@ -736,7 +736,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 161960,
       "name": "Buscando El Olvido",
       "url": "https://open.spotify.com/track/6Ot71Is6rWE8KWEbWgxhZr"
@@ -3032,6 +3032,24 @@
       "duration_ms": 155802,
       "name": "Me La Avente",
       "url": "https://open.spotify.com/track/3ahvKiNH7l6EpnTnzkZpG1"
+    },
+    {
+      "album": {
+        "name": "El Malo",
+        "url": "https://open.spotify.com/album/5We7yGwHCRWuy7T5StvTwS"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155802,
+      "name": "Me la Avente",
+      "url": "https://open.spotify.com/track/3nQ0FbZL6DTcGnu03Jpgzm"
     },
     {
       "album": {

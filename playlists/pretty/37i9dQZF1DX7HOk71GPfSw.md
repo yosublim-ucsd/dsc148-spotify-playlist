@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > Cover: A\. G\. Cook
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,512 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,676 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 99 | [Play Poker Remix \- Remix](https://open.spotify.com/track/4HwClUHxzTmCgKkfUFPfxU) | [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo), [Maple](https://open.spotify.com/artist/7FqhC9JMS6bbcfMVKKPHBc) | [Play Poker Remix](https://open.spotify.com/album/6b1r1SaI0XWiMkg5x19LK9) | 2:20 |
 | 100 | [Crimson](https://open.spotify.com/track/5wbJcabQPxly1VtLaJw8xb) | [Hunnygloss](https://open.spotify.com/artist/7onlSHoWhsACf62nMcr780) | [Crimson](https://open.spotify.com/album/3wU9qKcAkD39ocxbb7yd7p) | 3:09 |
 
-Snapshot ID: `MCw1ODE5NmNkNTA5YjgzZTEwMjY5YmQ4YzJlNmU4NGM4NTY5M2E0ZGE1`
+Snapshot ID: `MCw3NDIwODIyODRhYzc1ZGJkMGRkODEyZTljOTcyOGY0MjgwMDc0Y2Zi`

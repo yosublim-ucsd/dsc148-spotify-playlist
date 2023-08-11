@@ -1,12 +1,12 @@
 {
   "description": "New music and timeless tracks from legends only. Cover: Sin\u00e9ad O'Connor",
-  "num_followers": 405321,
+  "num_followers": 405546,
   "original_name": "Legends Only",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZmMzNmMwNzdkMjgwNGI2NWU3M2QzYjU3MWY1YjFmNDE3NzU4ZGE5",
+  "snapshot_id": "MCw1NjIyMzdhM2ZhNjBiMDRkZjFiOWFlNmVmNzQwNDBjMWE2ZTBjNmEz",
   "tracks": [
     {
       "added_at": "2023-07-27 09:26:27",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-06-08 18:20:52",
       "album": {
+        "name": "The Queen Is Dead",
+        "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "duration_ms": 193320,
+      "name": "Bigmouth Strikes Again - 2011 Remaster",
+      "url": "https://open.spotify.com/track/2OErSh4oVVAUll0vHxdr6p"
+    },
+    {
+      "added_at": "2023-06-08 18:20:52",
+      "album": {
         "name": "Hot Space (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 248440,
       "name": "Under Pressure - Remastered 2011",
       "url": "https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw"
-    },
-    {
-      "added_at": "2023-06-08 18:20:52",
-      "album": {
-        "name": "The Queen Is Dead",
-        "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
-      },
-      "artists": [
-        {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        }
-      ],
-      "duration_ms": 193320,
-      "name": "Bigmouth Strikes Again - 2011 Remaster",
-      "url": "https://open.spotify.com/track/2OErSh4oVVAUll0vHxdr6p"
     },
     {
       "added_at": "2023-06-08 18:20:52",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-06-08 18:20:52",
       "album": {
-        "name": "Different Class",
-        "url": "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x"
-      },
-      "artists": [
-        {
-          "name": "Pulp",
-          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
-        }
-      ],
-      "duration_ms": 351626,
-      "name": "Common People - Full Length Version",
-      "url": "https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF"
-    },
-    {
-      "added_at": "2023-06-08 18:20:52",
-      "album": {
         "name": "Easter",
         "url": "https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 204800,
       "name": "Because the Night",
       "url": "https://open.spotify.com/track/0lIoY4ZQsdn5QzhraM9o9u"
+    },
+    {
+      "added_at": "2023-06-08 18:20:52",
+      "album": {
+        "name": "Different Class",
+        "url": "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x"
+      },
+      "artists": [
+        {
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+        }
+      ],
+      "duration_ms": 351626,
+      "name": "Common People - Full Length Version",
+      "url": "https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF"
     },
     {
       "added_at": "2023-06-08 18:20:52",

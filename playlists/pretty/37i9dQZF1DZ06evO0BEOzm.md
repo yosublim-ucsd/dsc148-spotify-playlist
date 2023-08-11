@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 
 > This is Megan Thee Stallion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,575 likes - 53 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,671 likes - 53 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 | 29 | [Ungrateful \(feat\. Key Glock\)](https://open.spotify.com/track/6vA7RdHmU23h3ygUPPFXz5) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:34 |
 | 30 | [Don’t Stop \(feat\. Young Thug\)](https://open.spotify.com/track/3yv7994DWTEk3ihwy75YBQ) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Don’t Stop \(feat\. Young Thug\)](https://open.spotify.com/album/6dm2dXeXB37jhsxKjgKAvw) | 3:07 |
 | 31 | [Cocky Af](https://open.spotify.com/track/7hdR7gLsPQ6EXGeghibSK3) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Tina Snow](https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN) | 2:57 |
-| 32 | [Pressurelicious \(feat\. Future\)](https://open.spotify.com/track/5ZWNnO9MyPfGrUHiGWHESB) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Pressurelicious \(feat\. Future\)](https://open.spotify.com/album/2Wm9AhTq7byuyEIx5QXVWJ) | 2:53 |
+| 32 | [RNB \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/0hng8bySwA3wbhPNeSg7Mo) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Rich Slave](https://open.spotify.com/album/5LURLNXIyqBHpe5vvRTKHY) | 3:31 |
 | 33 | [NDA](https://open.spotify.com/track/7ngabRTwu8a9w3xaCpaAaa) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 3:21 |
-| 34 | [RNB \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/0hng8bySwA3wbhPNeSg7Mo) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Rich Slave](https://open.spotify.com/album/5LURLNXIyqBHpe5vvRTKHY) | 3:31 |
+| 34 | [Pressurelicious \(feat\. Future\)](https://open.spotify.com/track/5ZWNnO9MyPfGrUHiGWHESB) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Pressurelicious \(feat\. Future\)](https://open.spotify.com/album/2Wm9AhTq7byuyEIx5QXVWJ) | 2:53 |
 | 35 | [Hot Girl](https://open.spotify.com/track/2Xc9MR2NMc5IKPFKaEjt1k) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Tina Snow](https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN) | 3:16 |
 | 36 | [Megan Monday Freestyle](https://open.spotify.com/track/0jyOHNhaRUBeFG0U7wNLMp) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 1:53 |
 | 37 | [Gift & A Curse](https://open.spotify.com/track/1U4pYd8XGOYr9GvKqIprCa) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:52 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 | 52 | [Handsome](https://open.spotify.com/track/1xsP6AITcWNigBYBYVnVZw) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [The Big Day](https://open.spotify.com/album/7bgi7zCoDsZdlLKPonHZqP) | 2:53 |
 | 53 | [NASTY \(feat\. Ashanti & Megan Thee Stallion\)](https://open.spotify.com/track/3oHiR89Y8gn6xt3YGAAzFj) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [BLAME IT ON BABY](https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e) | 3:35 |
 
-Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDAxYzIyZjU3Y2M4YTMxYmEyMTFlZjBkMzc4MzMwMTczYQ==`
+Snapshot ID: `MjgxOTQ1NjQsMDAwMDAwMDAwYTRkNzNjMTg5MGVlNzBkYzcxNDBiZWM0YTFlMTk2Yw==`

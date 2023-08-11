@@ -275,6 +275,32 @@
     },
     {
       "album": {
+        "name": "Anti Social",
+        "url": "https://open.spotify.com/album/25C8gnQsB3VNJgr5ldcNf5"
+      },
+      "artists": [
+        {
+          "name": "Nektunez",
+          "url": "https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156503,
+      "name": "Anti Social",
+      "url": "https://open.spotify.com/track/0UilWRSaAPqnwdUc9HJfxG"
+    },
+    {
+      "album": {
         "name": "Asiwaju",
         "url": "https://open.spotify.com/album/5xqEVPQeBA9GUnEFJhyCtt"
       },
@@ -352,6 +378,24 @@
       "duration_ms": 172500,
       "name": "B.O.A (Based On Analysis)",
       "url": "https://open.spotify.com/track/48jL8qMO31Hu6aEczS0CJn"
+    },
+    {
+      "album": {
+        "name": "Freckles",
+        "url": "https://open.spotify.com/album/6z5JNzljLRS4ZULgIrvv24"
+      },
+      "artists": [
+        {
+          "name": "Raytheboffin",
+          "url": "https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113258,
+      "name": "Baaaddie",
+      "url": "https://open.spotify.com/track/5ykOtCwcQkNabqk7jwgebK"
     },
     {
       "album": {
@@ -1252,7 +1296,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 178144,
       "name": "Currency",
       "url": "https://open.spotify.com/track/59VpttBOjuFDpOOdqeTDiI"
@@ -1572,7 +1616,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 156237,
       "name": "ENTA",
       "url": "https://open.spotify.com/track/7DZBsMWWLZizzztPtTGmBC"
@@ -2572,7 +2616,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 138034,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/1IiNgs5RGEYyGQFLXJvte5"
@@ -3040,7 +3084,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 121544,
       "name": "Last Name",
       "url": "https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN"
@@ -3712,10 +3756,32 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 178579,
       "name": "MOTO",
       "url": "https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5"
+    },
+    {
+      "album": {
+        "name": "Unruly",
+        "url": "https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227448,
+      "name": "Mukulu",
+      "url": "https://open.spotify.com/track/5kYxdQaX15bCWOltfEUmvM"
     },
     {
       "album": {
@@ -3828,7 +3894,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 146086,
       "name": "NANA",
       "url": "https://open.spotify.com/track/2pGaQYZIleZVcRLL79zSVf"
@@ -4363,6 +4429,28 @@
     },
     {
       "album": {
+        "name": "Overload",
+        "url": "https://open.spotify.com/album/2JL6c6jajg4jNOJuW9gECJ"
+      },
+      "artists": [
+        {
+          "name": "Dj Voyst",
+          "url": "https://open.spotify.com/artist/7g61HbXl5DD2soIUBikmUA"
+        },
+        {
+          "name": "Dai Verse",
+          "url": "https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149125,
+      "name": "Overload",
+      "url": "https://open.spotify.com/track/7p2dftfOJG94HcOWazbBlx"
+    },
+    {
+      "album": {
         "name": "Overloading (OVERDOSE)",
         "url": "https://open.spotify.com/album/0PhRHHW803w4pHDJR4AUw8"
       },
@@ -4494,6 +4582,24 @@
       "duration_ms": 161739,
       "name": "Peace of Mind - Remix",
       "url": "https://open.spotify.com/track/08raobDIp9txgKq6u9RbCV"
+    },
+    {
+      "album": {
+        "name": "Peppermint",
+        "url": "https://open.spotify.com/album/7H6BmqqRtsDXzdntW3tY7C"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142363,
+      "name": "Peppermint",
+      "url": "https://open.spotify.com/track/1I4ZQ2KVDziVs6IFBYJFis"
     },
     {
       "album": {
@@ -5066,7 +5172,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 174117,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
@@ -5555,6 +5661,32 @@
     },
     {
       "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/1oopAtqogP3gYfkyw9H5L5"
+      },
+      "artists": [
+        {
+          "name": "Chxf Barry",
+          "url": "https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S"
+        },
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        },
+        {
+          "name": "Nick Souza",
+          "url": "https://open.spotify.com/artist/1O8j2yoItrx52KzYSdAlrt"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190144,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G"
+    },
+    {
+      "album": {
         "name": "Ta Ta Ta (with Jason Derulo)",
         "url": "https://open.spotify.com/album/6plZIBIIAhS0URu19s65O1"
       },
@@ -5840,7 +5972,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 224840,
       "name": "Uwa Ni L\u00e9",
       "url": "https://open.spotify.com/track/0x6ynQ608fmoeQJGpecuh5"
@@ -6010,6 +6142,28 @@
       "duration_ms": 208968,
       "name": "What Have You Done?",
       "url": "https://open.spotify.com/track/5xvRXXVYOketwpYA39Dfrm"
+    },
+    {
+      "album": {
+        "name": "What's Poppin",
+        "url": "https://open.spotify.com/album/2ks56eA68StdI7n3qlaSam"
+      },
+      "artists": [
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195426,
+      "name": "What's Poppin",
+      "url": "https://open.spotify.com/track/2j6nG1yvvf7qK2HxmckQFu"
     },
     {
       "album": {
@@ -6294,6 +6448,24 @@
       "duration_ms": 175504,
       "name": "you",
       "url": "https://open.spotify.com/track/5Wdl4yFoXOX1xmA53udLyZ"
+    },
+    {
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/2fPnNvgrjv72VfQcW5pTzc"
+      },
+      "artists": [
+        {
+          "name": "Herman Suede",
+          "url": "https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194558,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/1ShiPLLMEUiVQXH7ve6YNd"
     },
     {
       "album": {

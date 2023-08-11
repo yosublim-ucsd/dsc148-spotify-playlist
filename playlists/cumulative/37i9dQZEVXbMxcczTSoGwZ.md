@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-1,522 songs - 3 day 10 hr 27 min
+1,523 songs - 3 day 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,7 +330,7 @@
 | [Family \(feat\. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie\)](https://open.spotify.com/track/0HLhptvI8NozbOHRLNniFz) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Family \(feat\. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie\)](https://open.spotify.com/album/1O3wGX19uKgXZZuW7uKb9l) | 2:38 | 2021-10-31 | 2021-10-31 |
 | [FAMOUS](https://open.spotify.com/track/4Mg2rAHrqKXQzLRIwr4j9r) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [FAMOUS](https://open.spotify.com/album/1xujzA41aZ1udgc8FY7NIl) | 3:29 | 2022-12-31 |  |
 | [Father Time \(feat\. Sampha\)](https://open.spotify.com/track/4xIhSUJantE6BMl3u8dtCJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:42 | 2022-05-14 | 2022-05-16 |
-| [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 | 2023-07-29 |  |
+| [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 | 2023-07-29 | 2023-08-11 |
 | [Feliz Navidad](https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [My Name Is José Feliciano](https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ) | 3:02 | 2021-12-19 | 2022-12-29 |
 | [Fiilis \(feat\. Fabe & YB026\)](https://open.spotify.com/track/3i8a4bwkI90X6tjWQtcn3B) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq), [Fabe](https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS), [YB026](https://open.spotify.com/artist/4Qe6IKIsL2B1CeJ8q9a6Om) | [Fiilis \(feat\. Fabe & YB026\)](https://open.spotify.com/album/4zHRM6cl2otllJK77LorsC) | 3:19 | 2021-06-13 | 2021-06-27 |
 | [Fingers Crossed](https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ) | 2:55 | 2022-01-08 | 2022-02-06 |
@@ -1207,6 +1207,7 @@
 | [Sori](https://open.spotify.com/track/7tSbasJQ6SYeDwEhyeUYUa) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Sori](https://open.spotify.com/album/59JKgG2HfalOrIOYYLyXdH) | 2:16 | 2023-06-17 | 2023-06-19 |
 | [Souda kesämies \(Vain elämää kausi 12\)](https://open.spotify.com/track/0WJ0KY1f6jptxGyuaXDikU) | [Arttu Wiskari](https://open.spotify.com/artist/3XqH4FcUOrw2gw7L3BBaDn) | [Souda kesämies \(Vain elämää kausi 12\)](https://open.spotify.com/album/4LQhQkRRv63fahyOQvgxmG) | 3:16 | 2021-10-31 | 2021-11-09 |
 | [SPACE MAN](https://open.spotify.com/track/3nhGk6VnrDHy67pXvMhdPa) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [SPACE MAN](https://open.spotify.com/album/7uJgYMaJcQ25PhywdJfrJF) | 3:37 | 2022-05-16 | 2022-05-22 |
+| [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0) | 1:57 | 2023-08-10 |  |
 | [Spillways](https://open.spotify.com/track/0WHtcCpZnoyFlQg3Mf2cdN) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 3:16 | 2022-03-12 | 2022-03-14 |
 | [Spin Bout U](https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:34 | 2022-11-05 | 2022-11-07 |
 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 | 2023-06-06 |  |

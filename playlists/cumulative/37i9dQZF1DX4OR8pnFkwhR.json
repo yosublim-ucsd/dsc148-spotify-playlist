@@ -7038,7 +7038,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 254642,
       "name": "Pacific Line",
       "url": "https://open.spotify.com/track/0rwbiEv4W9yAgtumneO8OM"
@@ -7834,6 +7834,28 @@
       "duration_ms": 204868,
       "name": "Restart?",
       "url": "https://open.spotify.com/track/64INceHue7dl31QMDLLirn"
+    },
+    {
+      "album": {
+        "name": "Chillin THAILAND",
+        "url": "https://open.spotify.com/album/76aeQ3TfgndxXY3oT4rmUh"
+      },
+      "artists": [
+        {
+          "name": "Kidella",
+          "url": "https://open.spotify.com/artist/3eCZ7jkNialvGc9YlHqWnE"
+        },
+        {
+          "name": "ARTRILLA",
+          "url": "https://open.spotify.com/artist/4WhRuNkczfkiEL2DqPQ9nm"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234125,
+      "name": "Rich and Famous",
+      "url": "https://open.spotify.com/track/009ynJN5ikFFNalJZz4vhT"
     },
     {
       "album": {

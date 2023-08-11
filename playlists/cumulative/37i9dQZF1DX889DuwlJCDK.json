@@ -628,7 +628,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 248378,
       "name": "MUSICA",
       "url": "https://open.spotify.com/track/0QxcEG4UlDINiBqHp5rVTa"
@@ -1078,7 +1078,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 315164,
       "name": "\u3042\u3093\u306a\u3064\u3041",
       "url": "https://open.spotify.com/track/4uHm18zMsbT9e8vukQUlEd"
@@ -1312,7 +1312,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 226145,
       "name": "\u30b5\u30a4\u30c0\u30fc",
       "url": "https://open.spotify.com/track/1IQlJLwD6QA5N4yIbDeIxt"
@@ -1424,6 +1424,24 @@
       "duration_ms": 229000,
       "name": "\u30c1\u30eb\u30c1\u30eb\u30af\u30e9\u30d6",
       "url": "https://open.spotify.com/track/3sHny0lv31L1D0EhogKEpt"
+    },
+    {
+      "album": {
+        "name": "\u30ce\u30b9\u30bf\u30eb\u30b8\u30a2",
+        "url": "https://open.spotify.com/album/2d10zH0AGWJj0StVZPpRAS"
+      },
+      "artists": [
+        {
+          "name": "Absolute area",
+          "url": "https://open.spotify.com/artist/2nPbHQW065TWbk7EjsEfiS"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "\u30ce\u30b9\u30bf\u30eb\u30b8\u30a2",
+      "url": "https://open.spotify.com/track/0yRUhx3oxxTNwbg1CDM1kp"
     },
     {
       "album": {
@@ -1643,6 +1661,24 @@
     },
     {
       "album": {
+        "name": "\u5b63\u5104\u306e\u7bb1",
+        "url": "https://open.spotify.com/album/5vBcyTeKwu2h7JBdkjhURs"
+      },
+      "artists": [
+        {
+          "name": "\u3042\u305f\u3089\u3088",
+          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251142,
+      "name": "\u4eca\u591c2\u4eba\u3060\u3051\u306e\u30c0\u30f3\u30b9\u3092",
+      "url": "https://open.spotify.com/track/6ljAfGfbmkBnhEwREQQsAY"
+    },
+    {
+      "album": {
         "name": "\u50d5\u3089\u306f\u305d\u308c\u3092\u611b\u3068\u547c\u3093\u3060",
         "url": "https://open.spotify.com/album/6DyaCGI2tKENbFVyTziRcs"
       },
@@ -1802,6 +1838,24 @@
       "duration_ms": 136693,
       "name": "\u590f\u604b\u30bb\u30f3\u30bb\u30a4\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/4jWIn8qaXFAIBssMhJQMzu"
+    },
+    {
+      "album": {
+        "name": "melt.",
+        "url": "https://open.spotify.com/album/0dTDiz1cvmBfZVCWWQxph3"
+      },
+      "artists": [
+        {
+          "name": "RIP DISHONOR",
+          "url": "https://open.spotify.com/artist/4aDGKnZOq8zStrKXfR3pWu"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267928,
+      "name": "\u591c\u884c\u5217\u8eca",
+      "url": "https://open.spotify.com/track/4YlPOV9LxsRgoAJhGf7Kh5"
     },
     {
       "album": {

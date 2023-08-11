@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 
 > Neighborhood Storytellers\. Cover: Rylo Rodriguez
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,344 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,358 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 | 49 | [Risk It All](https://open.spotify.com/track/0LC77EC3n9274WTLFDtw1v) | [Kevo Muney](https://open.spotify.com/artist/2s1fodCLf7tb0bogSUNBqY) | [Kevo Muney x Lil Muney](https://open.spotify.com/album/05hifYLh6LdKxKcUjobidF) | 2:40 |
 | 50 | [Neighborhood Hero \(feat\. No Cap\)](https://open.spotify.com/track/2Ebn0K5I06J09d9GmzNNkU) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Vultures Don't Kry \(Deluxe\)](https://open.spotify.com/album/0P23gdec7VQ44s1dZaxWLv) | 2:56 |
 
-Snapshot ID: `MCw3MjhiZDczYmJiYWQ4ZTY2YzczMWI3OTRhOTkzMmYxYjVhNjJlMTk0`
+Snapshot ID: `MCw0ZTRiZjYzZTdhNDk5MDNjODJkYzNiMzM3NTE4NzhjYTg2NmMxNGQx`

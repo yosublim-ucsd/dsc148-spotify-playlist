@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 
 > All live, all blues\. Cover: Jackie Venson
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,247 likes - 90 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,289 likes - 90 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 89 | [Gunslinger \- Live](https://open.spotify.com/track/3pU28LbuY6LpaAwHGehN8d) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [Bo Knows Diddley Live](https://open.spotify.com/album/2z1TNVOGgtg69QcZskgSdj) | 4:27 |
 | 90 | [By My Lonesome \- Live](https://open.spotify.com/track/0RtMoXD1q8opjELLbBb45i) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [By My Lonesome \(Live\)](https://open.spotify.com/album/0CFKSo6uPyJ3xoQ2QZTeP7) | 2:32 |
 
-Snapshot ID: `MCxmYzU4MjgwNDgyZWYzN2VjZjhlOTEzZWVmZmFkM2E1MzUwNGY0OTI0`
+Snapshot ID: `MCxiMDZkMTg4OWQwNWZkMDk2Njg5NTczMTVmZGViZTViNzc3NTlhMGY0`

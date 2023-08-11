@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxXtx1tSxF.md) - [plain]
 
 > Un mix de reggae y buena vibra para ver caer el sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,463 likes - 70 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,497 likes - 70 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxXtx1tSxF.md) - [plain]
 | 69 | [Criminal \(feat\. Elsa y Elmar\)](https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Criminal \(feat\. Elsa y Elmar\)](https://open.spotify.com/album/6VHUYwwNx4EubxQsYwXtxU) | 3:41 |
 | 70 | [Ho!](https://open.spotify.com/track/0DAJPhpwTrFE7pgcGJvD9k) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW), [Ramiro Jota](https://open.spotify.com/artist/643hBnrVfRzLm6Kz9YYfga) | [Colectivo Vacio](https://open.spotify.com/album/1BWRMuZHdFBD9QwZWHJ0X9) | 4:22 |
 
-Snapshot ID: `MCw3NmYyMzIzYTcyOTZiODcwN2JhNGU2NGZlMzk5NzFjOGVhMjIxNjQ5`
+Snapshot ID: `MCw2ZTRlMzljYjU4OGY1YTIwZDJlZTQ3YTgxOGYwMjdhYTNlMTRiZWUw`

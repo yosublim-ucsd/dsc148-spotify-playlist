@@ -4,7 +4,7 @@
 
 > Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Cian Durcot
 
-522 songs - 1 day 4 hr 22 min
+523 songs - 1 day 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,8 @@
 | [Falling](https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:00 | 2022-02-04 | 2022-04-23 |
 | [Fancy Like \(feat\. Kesha\)](https://open.spotify.com/track/2GgqnsIe9oNOfXN4YCI2eo) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Fancy Like \(feat\. Kesha\)](https://open.spotify.com/album/2Z6lVnDJpJPmFro7dOziHA) | 2:41 | 2022-02-04 | 2022-10-01 |
 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2023-04-11 |  |
-| [favorite kind of high](https://open.spotify.com/track/3lxias37bJGSqIOLkQBJF9) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [favorite kind of high](https://open.spotify.com/album/0ovV62VKM8ADN9BZIlrQMn) | 2:55 | 2023-05-19 |  |
+| [favorite kind of high](https://open.spotify.com/track/3lxias37bJGSqIOLkQBJF9) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [favorite kind of high](https://open.spotify.com/album/0ovV62VKM8ADN9BZIlrQMn) | 2:55 | 2023-05-19 | 2023-08-11 |
+| [favorite kind of high](https://open.spotify.com/track/63ZSZznbGQhzJhOHPZ6WkT) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [chemistry](https://open.spotify.com/album/5c56JYNgc48iDnwHHlOcye) | 2:55 | 2023-08-04 |  |
 | [Feel Good Too](https://open.spotify.com/track/5QeYUoI9ApfeOVaKhfR4Xg) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/677FkdKRzdnB8tITwciUNP) | 3:59 | 2023-06-23 |  |
 | [feel it now \(alive\)](https://open.spotify.com/track/6gYnclsFwByD1BxL7z44WD) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [chapter of me](https://open.spotify.com/album/0PITbh2NtsYR1BTx0NU4Ol) | 3:31 | 2023-04-21 | 2023-05-06 |
 | [Feelings \(Can I Be Honest?\)](https://open.spotify.com/track/61cNy7Tlepy7oV4u61tlB6) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN), [Loren Gray](https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1) | [Feelings \(Can I Be Honest?\)](https://open.spotify.com/album/0dvEBnI5IzqS8qyhGFU5hT) | 3:04 | 2023-05-26 | 2023-06-10 |

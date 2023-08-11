@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 
 > Clásicos de la bachata\. Timeless bachata hits\. Cover: Aventura
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,228 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 642,542 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 | 84 | [No Le Pare](https://open.spotify.com/track/1zHtVDuBMEhmiJoZKV2E9u) | [Teodoro Reyes](https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy) | [Dobletazo](https://open.spotify.com/album/346bnpF1LN8opnZxH8tALy) | 2:59 |
 | 85 | [Perdóname](https://open.spotify.com/track/1GBbK7hyxKpYGgT8EHKsRI) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Dos X Uno](https://open.spotify.com/album/0LBbTfP8nGZgc2sWVaxMpb) | 4:14 |
 | 86 | [Mi Secreto](https://open.spotify.com/track/1cRhmp3FdWJCO9pwSlhZJM) | [Leonardo Paniagua](https://open.spotify.com/artist/3Kml6GsFtC3qYpQJLOlt1P) | [Mi Historia Musical](https://open.spotify.com/album/6ulNGwJDbhEeSNkC8e8jSZ) | 4:14 |
-| 87 | [Veneno](https://open.spotify.com/track/4RzETuKgwfpRnUoi0TBZOL) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Volvio el Dolor](https://open.spotify.com/album/33deX4or4XvWtR7TDsz1mi) | 4:06 |
+| 87 | [Yo No Muero en Mi Cama](https://open.spotify.com/track/4WMyTanyayUglX70vm5tCl) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Yo No Muero en Mi Cama \- Single](https://open.spotify.com/album/6Gw6y33bYmAck07ZPjOu1z) | 4:07 |
 | 88 | [Morenita Mía](https://open.spotify.com/track/3s9O4ZTmowj202CqFIgRn4) | [Ramon Cordero](https://open.spotify.com/artist/38F8jWI9OYvjRl9LBTVBzF) | [Bachata: Grandes Éxitos](https://open.spotify.com/album/0tNaU8RsRii1XnQTLlBcx6) | 2:59 |
 | 89 | [Enseñame a Olvidar](https://open.spotify.com/track/79MlVxKj43tDISSISiVHJM) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [We Broke The Rules](https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd) | 5:48 |
 | 90 | [Mi Corazoncito](https://open.spotify.com/track/5I76YtdZkFQReVgKppRd78) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [K.O.B\. Live](https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz) | 3:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 | 99 | [Voy Pa 'lla](https://open.spotify.com/track/7ziYzhR5nL81mx1dEUmXEW) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [La Chupadera](https://open.spotify.com/album/3L8jghUhYnZX453oDWD0cW) | 3:41 |
 | 100 | [Vete y Alejate de Mi](https://open.spotify.com/track/66CYjKNVEp21AsDGQkmywV) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Vete](https://open.spotify.com/album/0hGEDazwHxaPUBg0DTB9rY) | 4:36 |
 
-Snapshot ID: `MCw4MThhNjg4NWFkZTZhMWY2YTAwNDM0MzcxNWQ0YWM0NjcyNzE5N2U0`
+Snapshot ID: `MCxjNzY1Y2I2ODRkYjk1ZjExZmExMWYyMzI5OTRmOTYwZjczYzE5YTE3`

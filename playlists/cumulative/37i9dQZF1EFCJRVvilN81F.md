@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZGCSS2mWfQa1SXZ83hZIO">KAYTRANADA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-115 songs - 6 hr 49 min
+116 songs - 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Breathe](https://open.spotify.com/track/6rRCyEuP7uDdX7ste026ky) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 3:06 | 2022-09-08 |  |
 | [BULLETS](https://open.spotify.com/track/54B9SGrQI1Yfu0vuoBZBGy) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 4:59 | 2022-09-08 |  |
 | [BUS RIDE](https://open.spotify.com/track/0p07eXzptON22i7dk4lmP7) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 2:13 | 2022-09-08 |  |
+| [Can’t Punk Me \(feat\. EARTHGANG\)](https://open.spotify.com/track/2H2l7zo9EqtqxFr8R8N8Zg) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:23 | 2023-08-10 |  |
 | [Caution](https://open.spotify.com/track/2mykLbf6YfpFmZwUWowZv3) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Caution](https://open.spotify.com/album/4JOlhEazXmlErhrnmABjYZ) | 2:35 | 2022-09-08 |  |
 | [CHANCES](https://open.spotify.com/track/0XEhhANHRAqXM9c3JSvLfX) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [NOTHIN LIKE U / CHANCES](https://open.spotify.com/album/59Vw8BjAmvGYUsPlesp54V) | 3:38 | 2022-09-08 |  |
 | [Come Inside \(Kaytranada Edit\)](https://open.spotify.com/track/3jQL0t4Jg4EZ77oNEvjEtN) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [002 / LOVE ME](https://open.spotify.com/album/06tuQubTO3GAXGOcMtfHok) | 4:26 | 2022-09-08 |  |

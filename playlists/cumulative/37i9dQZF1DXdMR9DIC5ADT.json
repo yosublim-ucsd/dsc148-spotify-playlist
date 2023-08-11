@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u30d5\u30a7\u30b9\u95a2\u4fc2\u8005\u306e\u7686\u69d8\u3001Let's book them! \u3044\u307e\u8074\u304d\u305f\u3044\u3001\u6ce8\u76ee\u306e\u6d0b\u697d\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\uff01 cover: Mae Stephens, Meghan Trainor",
+  "description": "\u30d5\u30a7\u30b9\u95a2\u4fc2\u8005\u306e\u7686\u69d8\u3001Let's book them! \u3044\u307e\u8074\u304d\u305f\u3044\u3001\u6ce8\u76ee\u306e\u6d0b\u697d\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\uff01 cover: Noname",
   "name": "The WISHLIST",
   "tracks": [
     {
@@ -249,6 +249,32 @@
     },
     {
       "album": {
+        "name": "Sundial",
+        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        },
+        {
+          "name": "Jay Electronica",
+          "url": "https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ"
+        },
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224586,
+      "name": "balloons (feat. Jay Electronica & Eryn Allen Kane)",
+      "url": "https://open.spotify.com/track/31To8W4ERzjzq1Jx5XWSMb"
+    },
+    {
+      "album": {
         "name": "BANG BANG!",
         "url": "https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH"
       },
@@ -474,7 +500,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 184615,
       "name": "Caffeine",
       "url": "https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx"
@@ -554,6 +580,24 @@
       "duration_ms": 161366,
       "name": "Cardboard Box",
       "url": "https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq"
+    },
+    {
+      "album": {
+        "name": "Caught Up On You",
+        "url": "https://open.spotify.com/album/6ICcS5WGbZr33DESzK9Xiq"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206840,
+      "name": "Caught Up On You",
+      "url": "https://open.spotify.com/track/3QjAG3LVB0P5x251vwinVm"
     },
     {
       "album": {
@@ -1070,7 +1114,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 150720,
       "name": "eyes don't lie",
       "url": "https://open.spotify.com/track/2GWCZJWundoYi5IloWIgTX"
@@ -1207,6 +1251,46 @@
     },
     {
       "album": {
+        "name": "ghosts",
+        "url": "https://open.spotify.com/album/4q37Z0rAJjMmxHf3ORQHb8"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220776,
+      "name": "ghosts",
+      "url": "https://open.spotify.com/track/0PQ4VI53cK9ZeKluejZmoC"
+    },
+    {
+      "album": {
+        "name": "Give You Love (feat. Jason Derulo)",
+        "url": "https://open.spotify.com/album/19F2dOW0JWTAuK941khqsA"
+      },
+      "artists": [
+        {
+          "name": "Jessica Mauboy",
+          "url": "https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174125,
+      "name": "Give You Love (feat. Jason Derulo)",
+      "url": "https://open.spotify.com/track/672pbi6q4UuyJYIuThNsq3"
+    },
+    {
+      "album": {
         "name": "SMITHEREENS",
         "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
       },
@@ -1312,7 +1396,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 200656,
       "name": "Grim Generation",
       "url": "https://open.spotify.com/track/4USnWN7PzU3LT04l2qwXpo"
@@ -2275,6 +2359,28 @@
     },
     {
       "album": {
+        "name": "Number 9 (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/0J6bZG0J9hhW3SijDBKw1B"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192058,
+      "name": "Number 9 (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/6cU5urANuL1UYaBg5DNre4"
+    },
+    {
+      "album": {
         "name": "Obvious",
         "url": "https://open.spotify.com/album/3deYGp5829d2XJgXkOpcVP"
       },
@@ -2486,7 +2592,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 172125,
       "name": "Princess Diana (with Nicki Minaj)",
       "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
@@ -2856,7 +2962,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 169386,
       "name": "Some Things You\u2019ll Never Know",
       "url": "https://open.spotify.com/track/4MAay2lkhRjskJuWlEuB5b"
@@ -3080,7 +3186,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 151792,
       "name": "Superbloodmoon (feat. d4vd)",
       "url": "https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl"
@@ -3138,6 +3244,24 @@
       "duration_ms": 181938,
       "name": "The Bridge",
       "url": "https://open.spotify.com/track/7MTHpsxtKVJaBL6e9WXzqD"
+    },
+    {
+      "album": {
+        "name": "THE CHEMICALS",
+        "url": "https://open.spotify.com/album/5SmtHJw6OE9m8oTUdzV03c"
+      },
+      "artists": [
+        {
+          "name": "SIPHO.",
+          "url": "https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244809,
+      "name": "THE CHEMICALS",
+      "url": "https://open.spotify.com/track/4NLvDJiZ1fcOF8eqZRBbxc"
     },
     {
       "album": {

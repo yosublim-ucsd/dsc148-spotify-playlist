@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 
 > 2012 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,670 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,719 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 | 36 | [Angels](https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:51 |
 | 37 | [Mountain Sound](https://open.spotify.com/track/3SPVZJzf1Hs30rB6yXVf2y) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) | 3:31 |
 | 38 | [Ride](https://open.spotify.com/track/0ZyfiFudK9Si2n2G9RkiWj) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die – Paradise Edition \(Special Version\)](https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR) | 4:49 |
-| 39 | [Anna Sun](https://open.spotify.com/track/3e0yTP5trHBBVvV32jwXqF) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [Walk The Moon](https://open.spotify.com/album/1QhonXpNQq8wrGEKX0ofbk) | 5:21 |
-| 40 | [San Francisco](https://open.spotify.com/track/5RRWirYSE08FPKD6Mx4v0V) | [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [Waiting For The Dawn](https://open.spotify.com/album/1sO3d5N07nqu5CeJTLg7PG) | 2:53 |
+| 39 | [San Francisco](https://open.spotify.com/track/5RRWirYSE08FPKD6Mx4v0V) | [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [Waiting For The Dawn](https://open.spotify.com/album/1sO3d5N07nqu5CeJTLg7PG) | 2:53 |
+| 40 | [Anna Sun](https://open.spotify.com/track/3e0yTP5trHBBVvV32jwXqF) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [Walk The Moon](https://open.spotify.com/album/1QhonXpNQq8wrGEKX0ofbk) | 5:21 |
 | 41 | [Hollywood Forever Cemetery Sings](https://open.spotify.com/track/3O30ywyRk6EKT68sBvVqOP) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS) | 3:10 |
 | 42 | [Lightning Bolt](https://open.spotify.com/track/79DO6dBi8936P6EShLB209) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Jake Bugg](https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj) | 2:24 |
 | 43 | [Myth](https://open.spotify.com/track/2NfxtzCIrpCmJX5Z2KMdD5) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp) | 4:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 | 99 | [Rearrange](https://open.spotify.com/track/6f4V3llGPLYgv49ro7vXSE) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Colour Of The Trap](https://open.spotify.com/album/671vYDTGlzYQfsibwLHxNB) | 3:29 |
 | 100 | [California](https://open.spotify.com/track/4Y3gLYlV5rD3fhirhWKtei) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [Delta Spirit](https://open.spotify.com/album/7azn6b0REXVeI7x6I8ebQi) | 3:39 |
 
-Snapshot ID: `MCw2YjU0NDA1NDJjN2NhZDM5YjFiMDYzNWViMDYyMTc2NDA3MTNlMjFh`
+Snapshot ID: `MCxjMzZkMWU2NDMyNWFmNzczMzdkNDZmNGU1MTMxYjc3YzQxNmEwNDBl`

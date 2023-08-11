@@ -1,12 +1,12 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 326600,
+  "num_followers": 326964,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NWY1YjFmNWQ1NDI0YTE4NjE0OWRhNTQ2MjM0OTIxNjQ3ZmY4YzQ4",
+  "snapshot_id": "MCxhNzQ1YWFlNmEzMGI2MDFiZDdmOWY5NTRjZjYwZjFkNTdkYzBkMjVm",
   "tracks": [
     {
       "added_at": "2023-08-08 12:55:13",
@@ -147,18 +147,18 @@
     {
       "added_at": "2023-08-08 12:55:13",
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/4DE9KRgAibQ5ZnmDtuGJNB"
+        "name": "Salle des pas perdus",
+        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
       },
       "artists": [
         {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+          "name": "Coralie Clement",
+          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
         }
       ],
-      "duration_ms": 201200,
-      "name": "La Vie En Rose",
-      "url": "https://open.spotify.com/track/1njxWb5fM5L5eEq9MyWddU"
+      "duration_ms": 233960,
+      "name": "Samba de mon c\u0153ur qui bat",
+      "url": "https://open.spotify.com/track/4zXKbHN9FKRTIirYQdMRqI"
     },
     {
       "added_at": "2023-08-08 12:55:13",
@@ -207,18 +207,18 @@
     {
       "added_at": "2023-08-08 12:55:13",
       "album": {
-        "name": "Salle des pas perdus",
-        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/4DE9KRgAibQ5ZnmDtuGJNB"
       },
       "artists": [
         {
-          "name": "Coralie Clement",
-          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
         }
       ],
-      "duration_ms": 233960,
-      "name": "Samba de mon c\u0153ur qui bat",
-      "url": "https://open.spotify.com/track/4zXKbHN9FKRTIirYQdMRqI"
+      "duration_ms": 201200,
+      "name": "La Vie En Rose",
+      "url": "https://open.spotify.com/track/1njxWb5fM5L5eEq9MyWddU"
     },
     {
       "added_at": "2023-08-08 12:55:13",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-08-08 12:55:13",
       "album": {
-        "name": "Bubble Gum",
-        "url": "https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb"
-      },
-      "artists": [
-        {
-          "name": "Brigitte Bardot",
-          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
-        }
-      ],
-      "duration_ms": 140826,
-      "name": "Un jour comme un autre",
-      "url": "https://open.spotify.com/track/5cMZLL8DVg2TRgdb407LrF"
-    },
-    {
-      "added_at": "2023-08-08 12:55:13",
-      "album": {
         "name": "Salle des pas perdus",
         "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 248373,
       "name": "L'ombre et la lumi\u00e8re",
       "url": "https://open.spotify.com/track/7yzUHiCgF7JOzJOFE0Bnpd"
+    },
+    {
+      "added_at": "2023-08-08 12:55:13",
+      "album": {
+        "name": "Bubble Gum",
+        "url": "https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb"
+      },
+      "artists": [
+        {
+          "name": "Brigitte Bardot",
+          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
+        }
+      ],
+      "duration_ms": 140826,
+      "name": "Un jour comme un autre",
+      "url": "https://open.spotify.com/track/5cMZLL8DVg2TRgdb407LrF"
     },
     {
       "added_at": "2023-08-08 12:55:13",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-08-08 12:55:13",
       "album": {
-        "name": "Amourettes",
-        "url": "https://open.spotify.com/album/44SSBfsX3hTYpc8lpAp8Co"
-      },
-      "artists": [
-        {
-          "name": "Les Chauds Lapins",
-          "url": "https://open.spotify.com/artist/59bbK26UZulXXlScPLSerQ"
-        }
-      ],
-      "duration_ms": 150973,
-      "name": "Cette Nuit l\u00e0",
-      "url": "https://open.spotify.com/track/1VbQ1nbKIEbiR7JL7htId5"
-    },
-    {
-      "added_at": "2023-08-08 12:55:13",
-      "album": {
         "name": "Deux",
         "url": "https://open.spotify.com/album/686Gdb8iAG6Wf1QE98fjlt"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 247333,
       "name": "Juste quelqu'un de bien",
       "url": "https://open.spotify.com/track/6mW4mrJtGsUNWXtO0rzg2i"
+    },
+    {
+      "added_at": "2023-08-08 12:55:13",
+      "album": {
+        "name": "Amourettes",
+        "url": "https://open.spotify.com/album/44SSBfsX3hTYpc8lpAp8Co"
+      },
+      "artists": [
+        {
+          "name": "Les Chauds Lapins",
+          "url": "https://open.spotify.com/artist/59bbK26UZulXXlScPLSerQ"
+        }
+      ],
+      "duration_ms": 150973,
+      "name": "Cette Nuit l\u00e0",
+      "url": "https://open.spotify.com/track/1VbQ1nbKIEbiR7JL7htId5"
     },
     {
       "added_at": "2023-08-08 12:55:13",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-08-08 12:55:13",
       "album": {
-        "name": "Rendez Vous",
-        "url": "https://open.spotify.com/album/5u7sQwDpqDmhOj72qdLi3Y"
-      },
-      "artists": [
-        {
-          "name": "Laura Fygi",
-          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
-        }
-      ],
-      "duration_ms": 217880,
-      "name": "Le Temps Qui Passe",
-      "url": "https://open.spotify.com/track/3FwNKZkn50tXoEaXKtvKXw"
-    },
-    {
-      "added_at": "2023-08-08 12:55:13",
-      "album": {
         "name": "De La Chanson Et Puis C'Est Tout...",
         "url": "https://open.spotify.com/album/2faqVrGpLKSPzqEpSsyxQe"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 150760,
       "name": "Il Faut Du Temps Au Temps",
       "url": "https://open.spotify.com/track/44yjkx2DymNJws5Md5olqD"
+    },
+    {
+      "added_at": "2023-08-08 12:55:13",
+      "album": {
+        "name": "Rendez Vous",
+        "url": "https://open.spotify.com/album/5u7sQwDpqDmhOj72qdLi3Y"
+      },
+      "artists": [
+        {
+          "name": "Laura Fygi",
+          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
+        }
+      ],
+      "duration_ms": 217880,
+      "name": "Le Temps Qui Passe",
+      "url": "https://open.spotify.com/track/3FwNKZkn50tXoEaXKtvKXw"
     },
     {
       "added_at": "2023-08-08 12:55:13",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-08-08 12:55:13",
       "album": {
-        "name": "Chambre avec vue",
-        "url": "https://open.spotify.com/album/1EE8dKVd22YHhZT2LoiEOB"
-      },
-      "artists": [
-        {
-          "name": "Henri Salvador",
-          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
-        }
-      ],
-      "duration_ms": 234066,
-      "name": "Aime moi",
-      "url": "https://open.spotify.com/track/2reLiqBW2EfejTe7OixGmT"
-    },
-    {
-      "added_at": "2023-08-08 12:55:13",
-      "album": {
         "name": "Motifs",
         "url": "https://open.spotify.com/album/6pVrBCOoISxJxv5BQoaYe0"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 271213,
       "name": "Aquarium",
       "url": "https://open.spotify.com/track/6nq8mMlQ2RKpG4SmqziE3j"
+    },
+    {
+      "added_at": "2023-08-08 12:55:13",
+      "album": {
+        "name": "Chambre avec vue",
+        "url": "https://open.spotify.com/album/1EE8dKVd22YHhZT2LoiEOB"
+      },
+      "artists": [
+        {
+          "name": "Henri Salvador",
+          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
+        }
+      ],
+      "duration_ms": 234066,
+      "name": "Aime moi",
+      "url": "https://open.spotify.com/track/2reLiqBW2EfejTe7OixGmT"
     },
     {
       "added_at": "2023-08-08 12:55:13",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2023-08-08 12:55:13",
       "album": {
+        "name": "10 chansons pour l'\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/5KQM6djuZsifJQZY01mtY9"
+      },
+      "artists": [
+        {
+          "name": "Yves Montand",
+          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
+        }
+      ],
+      "duration_ms": 169143,
+      "name": "Quand on s'balade",
+      "url": "https://open.spotify.com/track/0Qo7NdtGc2pEVCmvJWhW9H"
+    },
+    {
+      "added_at": "2023-08-08 12:55:13",
+      "album": {
         "name": "Paris Blues",
         "url": "https://open.spotify.com/album/5ZvFyKwLbAxuwYzbCmswAY"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 190850,
       "name": "La Mer",
       "url": "https://open.spotify.com/track/7GuH04Wu7lD2LOUOOMyO7W"
-    },
-    {
-      "added_at": "2023-08-08 12:55:13",
-      "album": {
-        "name": "10 chansons pour l'\u00e9t\u00e9",
-        "url": "https://open.spotify.com/album/5KQM6djuZsifJQZY01mtY9"
-      },
-      "artists": [
-        {
-          "name": "Yves Montand",
-          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
-        }
-      ],
-      "duration_ms": 169143,
-      "name": "Quand on s'balade",
-      "url": "https://open.spotify.com/track/0Qo7NdtGc2pEVCmvJWhW9H"
     },
     {
       "added_at": "2023-08-08 12:55:13",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2023-08-08 12:55:13",
       "album": {
-        "name": "Mon Amie La Rose",
-        "url": "https://open.spotify.com/album/7qD826VmWYbcFhqQe7Mfzf"
-      },
-      "artists": [
-        {
-          "name": "Livia Blanc",
-          "url": "https://open.spotify.com/artist/4EycIoNxxou5zl2FLMbVuu"
-        }
-      ],
-      "duration_ms": 123078,
-      "name": "Mon Amie La Rose",
-      "url": "https://open.spotify.com/track/7xlRz7HedGgf9G03OiOkj5"
-    },
-    {
-      "added_at": "2023-08-08 12:55:13",
-      "album": {
         "name": "Quelqu'un m'a dit",
         "url": "https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 242120,
       "name": "La noy\u00e9e",
       "url": "https://open.spotify.com/track/0NwrKodXe9xPCFn5wNDene"
+    },
+    {
+      "added_at": "2023-08-08 12:55:13",
+      "album": {
+        "name": "Mon Amie La Rose",
+        "url": "https://open.spotify.com/album/7qD826VmWYbcFhqQe7Mfzf"
+      },
+      "artists": [
+        {
+          "name": "Livia Blanc",
+          "url": "https://open.spotify.com/artist/4EycIoNxxou5zl2FLMbVuu"
+        }
+      ],
+      "duration_ms": 123078,
+      "name": "Mon Amie La Rose",
+      "url": "https://open.spotify.com/track/7xlRz7HedGgf9G03OiOkj5"
     },
     {
       "added_at": "2023-08-08 12:55:13",

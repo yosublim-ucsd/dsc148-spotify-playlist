@@ -1,12 +1,12 @@
 {
   "description": "Life in plastic is fantastic ",
-  "num_followers": 174025,
+  "num_followers": 177163,
   "original_name": "Hot Pink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjZhMzZkYmMyMmE3NGU5NGY4ZmI3MzlkZjgwOWU1NzVmMjk1YzIx",
+  "snapshot_id": "MCxhYTVlOTUyMDIwYmE4ODY5YmJhYzA3NmE1MmMzYmJkMGY0NzNmM2Q1",
   "tracks": [
     {
       "added_at": "2023-07-30 23:02:49",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-07-30 23:02:49",
       "album": {
-        "name": "Something for Thee Hotties",
-        "url": "https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 184634,
-      "name": "Thot Shit",
-      "url": "https://open.spotify.com/track/7FdmHr87G79PDRGy9SPBkZ"
-    },
-    {
-      "added_at": "2023-07-30 23:02:49",
-      "album": {
         "name": "Queen Elizabitch",
         "url": "https://open.spotify.com/album/4nJ65lptuDZXNr0deIWKiU"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 208463,
       "name": "Cpr",
       "url": "https://open.spotify.com/track/35mBYyB61qTcGGj7MXIRM1"
+    },
+    {
+      "added_at": "2023-07-30 23:02:49",
+      "album": {
+        "name": "Something for Thee Hotties",
+        "url": "https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 184634,
+      "name": "Thot Shit",
+      "url": "https://open.spotify.com/track/7FdmHr87G79PDRGy9SPBkZ"
     },
     {
       "added_at": "2023-07-30 23:02:49",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-07-30 23:02:49",
       "album": {
-        "name": "Birds of Prey: The Album",
-        "url": "https://open.spotify.com/album/3wITH77YIxYdtVv1W4W1SI"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 134239,
-      "name": "Boss Bitch",
-      "url": "https://open.spotify.com/track/0kEzNFvi5ZOlwn6ly5DR8i"
-    },
-    {
-      "added_at": "2023-07-30 23:02:49",
-      "album": {
         "name": "Love Angel Music Baby (Deluxe Version)",
         "url": "https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 236213,
       "name": "Rich Girl",
       "url": "https://open.spotify.com/track/2Y2q7PkD7lvuWr8YaZfWuv"
+    },
+    {
+      "added_at": "2023-07-30 23:02:49",
+      "album": {
+        "name": "Birds of Prey: The Album",
+        "url": "https://open.spotify.com/album/3wITH77YIxYdtVv1W4W1SI"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 134239,
+      "name": "Boss Bitch",
+      "url": "https://open.spotify.com/track/0kEzNFvi5ZOlwn6ly5DR8i"
     },
     {
       "added_at": "2023-07-30 23:02:49",

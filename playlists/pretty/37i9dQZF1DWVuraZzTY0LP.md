@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuraZzTY0LP.md) - [plain]
 
 > Lo más alternativo para una mamá muy mo\-der\-na.
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,297 likes - 70 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,369 likes - 70 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuraZzTY0LP.md) - [plain]
 | 63 | [Wolf](https://open.spotify.com/track/4g3alZ0okNvZiOWW4pGUpw) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:13 |
 | 64 | [Right on time](https://open.spotify.com/track/6JJ3UK1YfxO26iEiMWUHHj) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Small World](https://open.spotify.com/album/5CHaXCMeag2aPjo72Ib8Xj) | 3:44 |
 | 65 | [Incendio de Amor/Carmelita](https://open.spotify.com/track/7kSNQV7OsOLVskKKmcXR4I) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [PRISMARAMA](https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst) | 4:47 |
-| 66 | [For Sure](https://open.spotify.com/track/7EtMa8eHEOfvh1ANRHQ9uh) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [As Long As You Are](https://open.spotify.com/album/0Xb7fY98lbfsGdo9OdbC9W) | 3:25 |
+| 66 | [Hey!](https://open.spotify.com/track/4f3M1o9elhV6gma79EoVRp) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [Jaibol](https://open.spotify.com/album/1iLGWwqCD5NVbI81y5xFPM) | 4:17 |
 | 67 | [Sin Señal](https://open.spotify.com/track/4CA5GAc6d6zM2ft0MbQ1BW) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Paranoia Pop](https://open.spotify.com/album/7oKpkZ7JZqjK4GP5cyKCyV) | 3:39 |
-| 68 | [Hey!](https://open.spotify.com/track/4f3M1o9elhV6gma79EoVRp) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [Jaibol](https://open.spotify.com/album/1iLGWwqCD5NVbI81y5xFPM) | 4:17 |
+| 68 | [For Sure](https://open.spotify.com/track/7EtMa8eHEOfvh1ANRHQ9uh) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [As Long As You Are](https://open.spotify.com/album/0Xb7fY98lbfsGdo9OdbC9W) | 3:25 |
 | 69 | [Soun Tha Mi Primer Amor \- Remastered](https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Kinky \(Remastered\)](https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI) | 3:11 |
 | 70 | [Popular](https://open.spotify.com/track/3uEx77R6b16SAltboKfQjh) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Sonidos De Karmática Resonancia](https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO) | 4:30 |
 
-Snapshot ID: `MCw1NjVmZGVlODFkYWIyMWNlYzEwM2E4MzliNTdkYzdkYzJkODIwMmJk`
+Snapshot ID: `MCxjNmIwNTBjZWI5ZGY1NzlmNWViZWM2ZTJjNzczMGVlY2Y3NmVlODc4`

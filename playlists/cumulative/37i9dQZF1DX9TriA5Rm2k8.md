@@ -4,7 +4,7 @@
 
 > Just good energy
 
-111 songs - 5 hr 55 min
+112 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2023-03-30 |  |
 | [Potion \(with Dua Lipa & Young Thug\)](https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Potion \(with Dua Lipa & Young Thug\)](https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc) | 3:34 | 2023-03-30 | 2023-05-19 |
 | [Praising You \(feat\. Fatboy Slim\)](https://open.spotify.com/track/6jSvgAwRVrJIP0VYz5L2J8) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Praising You \(feat\. Fatboy Slim\)](https://open.spotify.com/album/2FJeCuU3JcO6EQWsjAGIdu) | 2:44 | 2023-04-27 |  |
-| [Psychedelic Switch](https://open.spotify.com/track/7zy2kNoeD72x2NEDaAsJOX) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Loveliest Time](https://open.spotify.com/album/4bRYGKmKOkXvKL1QBf0cGk) | 4:32 | 2023-08-03 |  |
+| [Psychedelic Switch](https://open.spotify.com/track/7zy2kNoeD72x2NEDaAsJOX) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Loveliest Time](https://open.spotify.com/album/4bRYGKmKOkXvKL1QBf0cGk) | 4:32 | 2023-08-03 | 2023-08-11 |
+| [Pumped Up Kicks](https://open.spotify.com/track/62KE8L1WM7lNT2cfRf9kiN) | [Teddy Cream](https://open.spotify.com/artist/5piMnm6faQpIVYaFfaZSKf), [CHEDDAR](https://open.spotify.com/artist/2VdXaUtovdv2YLpFlZkYlB) | [Pumped Up Kicks](https://open.spotify.com/album/6aBnY1uwhYWYOls1VJGfvi) | 2:15 | 2023-08-10 |  |
 | [Punkrocker](https://open.spotify.com/track/5IcDrdNSx9SPvM5cdjQKSg) | [Harpoon](https://open.spotify.com/artist/2Orr52OAMzjLNDRjiXomFP), [Sandi Thom](https://open.spotify.com/artist/3xnfpcM4DC9zeHVuDhYICB) | [Punkrocker](https://open.spotify.com/album/3uOz88mNxvGFA6CBrwWIQh) | 2:24 | 2023-06-30 |  |
 | [Punkrocker](https://open.spotify.com/track/7v6wE4wmpMPRzq0QLQUi5U) | [Harpoon](https://open.spotify.com/artist/2Orr52OAMzjLNDRjiXomFP), [Sandi Thom](https://open.spotify.com/artist/3xnfpcM4DC9zeHVuDhYICB) | [Punkrocker](https://open.spotify.com/album/04BARFshyYTNncSibK06s8) | 2:24 | 2023-06-30 | 2023-07-01 |
 | [Rather Be \(feat\. Jess Glynne\)](https://open.spotify.com/track/3s4U7OHV7gnj42VV72eSZ6) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Rather Be \(feat\. Jess Glynne\)](https://open.spotify.com/album/4UB0J5V3JsZZtNR360pZ6r) | 3:47 | 2023-03-30 | 2023-07-22 |

@@ -4,7 +4,7 @@
 
 > Soundtrack your cozy dinner with bossa nova jazz.
 
-149 songs - 9 hr 30 min
+152 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Este Seu Olhar](https://open.spotify.com/track/7lDKmjx051iKv7kU6keNEm) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Pure Bossa Nova](https://open.spotify.com/album/3Ag8PjmVWUSdUt5lbgpPTt) | 2:32 | 2022-04-26 | 2022-05-25 |
 | [Everything I Love](https://open.spotify.com/track/1HmfqLGKxU3pSnhs2n0RDn) | [Tom Rogers Band](https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR) | [Everything I Love](https://open.spotify.com/album/0xEdEQEBbOvXAS640Ii8PP) | 4:31 | 2022-09-29 |  |
 | [Falando de Amor](https://open.spotify.com/track/1JeTY5hPf1lTIVWPWkJXQe) | [Rosa Collins](https://open.spotify.com/artist/3ODYl7kPOjcfxnnjHz2zLe) | [Falando de Amor](https://open.spotify.com/album/4se4CC3WUJQfipHtTYg63y) | 4:16 | 2022-04-26 |  |
+| [Florianópolis](https://open.spotify.com/track/4yjDimLGS5JTXh34bFAiFi) | [Bedford and 7th](https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE) | [Florianópolis](https://open.spotify.com/album/2C33KFJjdDgqabZRiEoiJB) | 3:10 | 2023-08-10 |  |
 | [Fly Me To The Moon](https://open.spotify.com/track/7ilc2TB1RZXbQJyFs5qCiC) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Shadow Of Your Smile](https://open.spotify.com/album/37xKx9ymHBSgYX02zZhwb9) | 2:22 | 2022-04-26 | 2022-05-25 |
 | [Fotografia](https://open.spotify.com/track/6FMo4V8vQU07y1zwBfZrz7) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [Meets Gustav Lundgren](https://open.spotify.com/album/1YxUJdI0JWsXGGq8xa1SLt) | 3:50 | 2022-04-26 |  |
 | [Foz Do Iguaçu](https://open.spotify.com/track/7DH2me3WEWpTNcPqeq6I8w) | [da Suécia](https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse) | [Foz Do Iguaçu](https://open.spotify.com/album/0hlEiLyA2RkFQhTkPu33AW) | 3:26 | 2023-01-03 |  |
@@ -78,7 +79,7 @@
 | [Happy](https://open.spotify.com/track/3VoamGkXelS0NOIVm1BBJg) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Flora](https://open.spotify.com/album/0lVw3DmkHCtxL9iIzWmgOK) | 3:27 | 2022-04-26 | 2022-09-21 |
 | [Hermana](https://open.spotify.com/track/5JR2HVcJoTWsk7ekHMd5RM) | [Burt Mitchell](https://open.spotify.com/artist/5Wj6zFHgENkOCOMh4ZwGX0) | [The Getaway](https://open.spotify.com/album/140DzepgudObqMe1uv4W1f) | 4:33 | 2022-04-26 |  |
 | [how insensitive](https://open.spotify.com/track/3NfjsizJtx8XWnmsZxOohA) | [Clube no norte](https://open.spotify.com/artist/18eKmZOA1BvY1sBLnvKNHH) | [Dindi](https://open.spotify.com/album/4knjVWNKQlrrsXpfPImum0) | 3:50 | 2022-04-26 |  |
-| [How Insensitive](https://open.spotify.com/track/4U8uDeTOVWCNtMLNjrQo6N) | [Ivo Rio Band](https://open.spotify.com/artist/5ZIDWGBTOxrUE0Dd9qiUiv) | [Triste](https://open.spotify.com/album/7vfuRG7S9K0VJczr3L7CNO) | 4:15 | 2022-04-26 |  |
+| [How Insensitive](https://open.spotify.com/track/4U8uDeTOVWCNtMLNjrQo6N) | [Ivo Rio Band](https://open.spotify.com/artist/5ZIDWGBTOxrUE0Dd9qiUiv) | [Triste](https://open.spotify.com/album/7vfuRG7S9K0VJczr3L7CNO) | 4:15 | 2022-04-26 | 2023-08-11 |
 | [I didn't know what time it was](https://open.spotify.com/track/2zAErc7IF0XI38zPfaXipU) | [Clube no norte](https://open.spotify.com/artist/18eKmZOA1BvY1sBLnvKNHH) | [Dindi](https://open.spotify.com/album/4knjVWNKQlrrsXpfPImum0) | 4:10 | 2022-04-26 |  |
 | [I Left My Heart in San Francisco](https://open.spotify.com/track/6p2Qx196CPwdcxKE7eweKi) | [Leandro Amor Trio](https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ) | [I Left My Heart in San Francisco](https://open.spotify.com/album/6ZagCmpNLdmAjSxVOmjLot) | 3:43 | 2023-01-12 |  |
 | [I Should Have Known Better](https://open.spotify.com/track/2ZvXvqnAZeQyCbqVgjfqzW) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Grand Songs](https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv) | 3:26 | 2022-04-26 | 2022-05-25 |
@@ -128,7 +129,7 @@
 | [Rio](https://open.spotify.com/track/5tFmZJH6cznz3n4sSpcPLq) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [Rio](https://open.spotify.com/album/1CZob5T7V1GsgTjMFVY64B) | 3:19 | 2022-04-26 |  |
 | [Rio Lindo](https://open.spotify.com/track/3usSv5DQqZlulKLHRumXGH) | [Tom Rogers Band](https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR) | [Rio Lindo](https://open.spotify.com/album/0aC2r9F9VoEBhYa5MYUVq6) | 3:43 | 2022-08-17 |  |
 | [River of Dreams](https://open.spotify.com/track/303q7nGbVGdxUvbhbEfHzS) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [River of Dreams](https://open.spotify.com/album/7IID5V4pzViAAal8scWxWA) | 3:03 | 2022-10-13 |  |
-| [Sentido](https://open.spotify.com/track/11UuEgcia8bJ4lS1uaFdAE) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Sentido](https://open.spotify.com/album/0jmt8MYM4dZvhJ5sxsCAQa) | 2:28 | 2022-04-26 |  |
+| [Sentido](https://open.spotify.com/track/11UuEgcia8bJ4lS1uaFdAE) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Sentido](https://open.spotify.com/album/0jmt8MYM4dZvhJ5sxsCAQa) | 2:28 | 2022-04-26 | 2023-08-11 |
 | [Serenidad](https://open.spotify.com/track/1AFomBCec7hQLhPhgouIpQ) | [Emma dos Santos](https://open.spotify.com/artist/5BCrXE0QF0mUKYmQTk43gp) | [Serenidad](https://open.spotify.com/album/7aVycit4E2ZeTlVXU9J2xz) | 2:51 | 2022-04-26 |  |
 | [So In Love](https://open.spotify.com/track/2su3D4cHfobQLqFUdYc3xs) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [Every Time We Say Goodbye](https://open.spotify.com/album/40tqbMBeLUEkJsVN6VKJB0) | 3:33 | 2023-04-27 |  |
 | [Something In The Air Between Us](https://open.spotify.com/track/1PMMDeHkTvLZBQiZU860BU) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [Make Someone Happy](https://open.spotify.com/album/4n4OIAks8f10DuIhb4aLlm) | 4:12 | 2022-04-26 | 2022-08-11 |
@@ -136,7 +137,9 @@
 | [Sonhar Acordado](https://open.spotify.com/track/19mMhSofoLJlqIEDy46fZ2) | [Davide Sosa](https://open.spotify.com/artist/6h3NI13Spsuh4zJEuDjeY4) | [Insônia](https://open.spotify.com/album/6HI3NhU2eJR1Ca1M5LEVPZ) | 4:37 | 2022-04-26 |  |
 | [Standing Tall](https://open.spotify.com/track/6zyXnFhbzWquheImVhTyMX) | [Magnus Ringblom](https://open.spotify.com/artist/01s2QB29sjjLunqBoPfgGb) | [Blue Night Bossa](https://open.spotify.com/album/6XmwjVSryg17GrpHl5eVx7) | 3:51 | 2022-04-26 |  |
 | [Strangers in the Night](https://open.spotify.com/track/4oulAJLw1DSMKERkIQDFG8) | [Jade Vieira](https://open.spotify.com/artist/62u2ks7IGeMOqkSLCAaLHK) | [Strangers in the Night](https://open.spotify.com/album/6QGyGBnji7UQ2ZHeV6vZRs) | 2:50 | 2022-04-26 |  |
+| [Sunset over Recife](https://open.spotify.com/track/6DpJVrfkJ72jTE4MlrDObl) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [Sunset over Recife](https://open.spotify.com/album/17O83pna4zn9zjWai235PZ) | 2:45 | 2023-08-10 |  |
 | [Só Tinha de Ser com Você](https://open.spotify.com/track/5KrmPhZXWsrn1xVey30806) | [Joao Silva Oliveira](https://open.spotify.com/artist/2H9tPIniwpdz9EvKYvRKFq) | [Só Tinha de Ser com Você](https://open.spotify.com/album/7nUM7a3z2pGH5pII2MEy8n) | 3:58 | 2022-04-26 |  |
+| [Tangeri](https://open.spotify.com/track/0iBFfy3N8H4vOKXrC85DE9) | [Søren Bebe Trio](https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI), [Søren Bebe](https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh) | [Tangeri](https://open.spotify.com/album/12VCI8zliAWBO1nZNb4KQs) | 4:44 | 2023-08-10 |  |
 | [Tarde em Itapuã](https://open.spotify.com/track/5oILG8hfyokZbO59nOxcnx) | [Frederico Celso Band](https://open.spotify.com/artist/3iw73fZoyRoKWzjQVQ4CXg) | [Influência do Jazz](https://open.spotify.com/album/1kB4apYNRQwemxZWVNCshQ) | 3:48 | 2022-04-26 | 2023-03-03 |
 | [The Dolphin](https://open.spotify.com/track/7gbC3OMRW5bU92Y6cC3D2X) | [A Porta Verde](https://open.spotify.com/artist/27aYrXW0IugIDBHd1Ic652) | [Maçã](https://open.spotify.com/album/3Zvm1Dciwe02rIEqEOf6CZ) | 4:50 | 2022-04-26 |  |
 | [The Look Of Love](https://open.spotify.com/track/3CDHydgW0ssTh59f0jy1y3) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Look Of Love](https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3) | 4:42 | 2022-04-26 | 2022-09-21 |

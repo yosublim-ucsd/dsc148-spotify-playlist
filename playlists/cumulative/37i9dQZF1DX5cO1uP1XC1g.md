@@ -2,9 +2,9 @@
 
 ### [Yalla ](https://open.spotify.com/playlist/37i9dQZF1DX5cO1uP1XC1g)
 
-> The biggest Arabic hits all in one place\. Cover:  <a href="https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65?si=\_2ZjixKkSRiyK\_RwqtvbFA">Nassif Zeytoun</a>
+> The biggest Arabic hits all in one place\. Cover:  <a href="https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX?si=CgnUHgQ\_QeWSlQyEvVLTog">Mohamed Hamaki</a>
 
-323 songs - 19 hr 23 min
+324 songs - 19 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [Mahragan Bent El Geran](https://open.spotify.com/track/2vSLxBSZoK0eha4AuhZlXV) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [Mahragan Bent El Geran](https://open.spotify.com/album/3P8USZdxovfUjGfiP8mzzv) | 3:03 | 2021-12-12 | 2022-02-08 |
 | [Makhelaw magalou](https://open.spotify.com/track/0jqUiExctgLt7bcghvD7Kw) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [Makhelaw magalou](https://open.spotify.com/album/1aiMHJEw75iDP9reYTQ4lO) | 3:00 | 2022-07-07 | 2023-07-05 |
 | [Malak Ghayran](https://open.spotify.com/track/0wwY6AmShdMFvYz8tXVZ54) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Malak Ghayran](https://open.spotify.com/album/680KiP3Mb1AUn9tIJZwSHV) | 3:27 | 2021-12-12 | 2022-02-18 |
-| [Malek El Fabraka](https://open.spotify.com/track/6DdXM6uwl9XuGIVwP7bXOx) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Malek El Fabraka](https://open.spotify.com/album/2T3oPO96g0IUsYb9uD2ULT) | 3:23 | 2021-12-12 |  |
+| [Malek El Fabraka](https://open.spotify.com/track/6DdXM6uwl9XuGIVwP7bXOx) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Malek El Fabraka](https://open.spotify.com/album/2T3oPO96g0IUsYb9uD2ULT) | 3:23 | 2021-12-12 | 2023-08-11 |
 | [Malna haka ?](https://open.spotify.com/track/1oRqzXVdTqofua7MDSmJZn) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Malna haka ?](https://open.spotify.com/album/3kVqflkL3lAXJDjBhuYa7n) | 3:06 | 2021-12-12 | 2022-09-19 |
 | [Masahto Beaastica](https://open.spotify.com/track/0GLr8spyH3DtpfC6HLbktw) | [Ali Kakooli](https://open.spotify.com/artist/44Hq31Jx9di0TFPsmU6et9) | [Masahto Beaastica](https://open.spotify.com/album/411f2qI8Muk2T2PjWpBnoM) | 4:07 | 2023-06-07 | 2023-07-08 |
 | [Matkhafesh Yamma](https://open.spotify.com/track/0johwiyFvPcTbM1miBvaUh) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Ouzzy](https://open.spotify.com/artist/1IRIol7Z2UlCtpj2MYuwU5) | [Matkhafesh Yamma](https://open.spotify.com/album/4r5fdLwRblr3wlbItBYJ75) | 2:43 | 2022-03-09 | 2023-07-08 |
@@ -320,6 +320,7 @@
 | [مخصماك](https://open.spotify.com/track/71lgZsFMawXgnG4vcICNbS) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [مخصماك](https://open.spotify.com/album/1XpmXpnQY5eXMj5OSUicaf) | 3:18 | 2023-07-11 |  |
 | [مسيطره](https://open.spotify.com/track/0ZjojzTQaoz1MZn0hGBaNP) | [Lamis Kan](https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj) | [مسيطره](https://open.spotify.com/album/48KAUO2Q0VsyjXQvDOntn4) | 2:48 | 2022-07-22 | 2022-08-18 |
 | [مسيطره](https://open.spotify.com/track/4hFNqLwpBM1WoaxrgEForT) | [Lamis Kan](https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj) | [مسيطره](https://open.spotify.com/album/5jHYpm290ktqzYSqOwlwLy) | 2:48 | 2021-12-12 | 2022-07-29 |
+| [مش كفاية فراق](https://open.spotify.com/track/75Ca7I3xIHLqG1S0izGV02) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [مش كفاية فراق](https://open.spotify.com/album/6pUq5K38plrNVoJ7shbzb5) | 4:34 | 2023-08-10 |  |
 | [مشتاق](https://open.spotify.com/track/5ZKyKYWEiewaBAGQgiJIu0) | [Elmuanna](https://open.spotify.com/artist/4bzY16GQnsfRHuIzHN4lC7) | [مشتاق](https://open.spotify.com/album/6pXEgoWi9LeJSBDVPR7of6) | 4:43 | 2022-01-24 | 2022-07-28 |
 | [مكانك](https://open.spotify.com/track/3QLwspqylF5pypDsi63F8r) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [مكانك](https://open.spotify.com/album/6shrlkAp819uLJ9WNXT2DN) | 3:48 | 2023-05-03 | 2023-06-02 |
 | [مهرجان اخواتى](https://open.spotify.com/track/44p2pP4M0J6ZlEEyIpQu6R) | [El Sawareekh](https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t), [Zoka](https://open.spotify.com/artist/18foZksTwFHJIDFX9mBO2H), [Shehta Karika](https://open.spotify.com/artist/5D9oikZ4ncJETBXgLhXSdv) | [مهرجان اخواتى](https://open.spotify.com/album/2kUP4HUqHWNslusZ6Ly5w4) | 2:39 | 2021-12-12 | 2022-01-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > All new indie rock\. Featuring new music by spill tab.
 
-[Spotify](https://open.spotify.com/user/spotify) - 848,041 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 848,073 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [Mommy Issues](https://open.spotify.com/track/1TfG5nLrJdIFT1hc3nOzLe) | [Jules Paymer](https://open.spotify.com/artist/5RsYo1rckHPH2ERWm3tGeS) | [Mommy Issues](https://open.spotify.com/album/2wrGVJfp4CGULkSPb4GNEO) | 2:43 |
 | 100 | [6 Pack and Cigarettes](https://open.spotify.com/track/1byxxkw33SsLEYNRKdmaOQ) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [The Gutter](https://open.spotify.com/album/0wjBE0IEyqotyrB9Uk2REe) | 2:54 |
 
-Snapshot ID: `MCw1MDFmNWExYjZjNDc3MTVkMTZhOTZjODkwMzc1ZDE4M2JjZTgxOGEw`
+Snapshot ID: `MCxkMGVjMGFhN2ZjMWM0NjNiMWM0ZmExZDVlMWQwNjA4YzdmYTY5NDVm`

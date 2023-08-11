@@ -322,7 +322,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 231066,
       "name": "spiral",
       "url": "https://open.spotify.com/track/6xAIVrhyFQaHwPVWfUvWvE"
@@ -603,6 +603,24 @@
     },
     {
       "album": {
+        "name": "\u30bf\u30fc\u30b3\u30a4\u30ba",
+        "url": "https://open.spotify.com/album/37SXzOlujwOrbxMDCcFpmY"
+      },
+      "artists": [
+        {
+          "name": "SEKAI NO OWARI",
+          "url": "https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199128,
+      "name": "\u30bf\u30fc\u30b3\u30a4\u30ba",
+      "url": "https://open.spotify.com/track/4h0bg0R9tG0OplMXy9SVM2"
+    },
+    {
+      "album": {
         "name": "\u30c0\u30f3\u30b9\u30db\u30fc\u30eb",
         "url": "https://open.spotify.com/album/3OyEc77lPQ8QOWMIWvZl08"
       },
@@ -716,6 +734,24 @@
       "duration_ms": 215853,
       "name": "\u30e9\u30ba\u30d9\u30ea\u30fc",
       "url": "https://open.spotify.com/track/3JLpngLNxVRL6JLaBqqMpo"
+    },
+    {
+      "album": {
+        "name": "\u30ea\u30ab",
+        "url": "https://open.spotify.com/album/5luFrHAHn4fb5r7KhdoYlE"
+      },
+      "artists": [
+        {
+          "name": "SIX LOUNGE",
+          "url": "https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216366,
+      "name": "\u30ea\u30ab",
+      "url": "https://open.spotify.com/track/5iPPyvEn7BcWw34aGKGd6W"
     },
     {
       "album": {
@@ -838,7 +874,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 260851,
       "name": "\u5e78\u305b",
       "url": "https://open.spotify.com/track/3IYDobDC8polFRhtc4ROzA"

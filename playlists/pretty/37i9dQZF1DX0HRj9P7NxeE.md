@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 
 > Get your body right with this workout twerkout
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,766,678 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,766,738 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 | 28 | [We Not Humping \- Remix](https://open.spotify.com/track/4ue41gFbAjoU0P1EberJWm) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [We Not Humping \(Remix\)](https://open.spotify.com/album/1V9eCkZxExdad79zHEE6Dk) | 2:23 |
 | 29 | [Anything Flows \(feat\. Maiya The Don, 2Rare & Kari Faux\)](https://open.spotify.com/track/5MnqugWyPeiodmvBbFIZ6m) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ), [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB) | [Anything Flows \(feat\. Maiya The Don, 2Rare & Kari Faux\)](https://open.spotify.com/album/60LPFmZ5vcbDBZRexNZ9c1) | 3:18 |
 | 30 | [Throw Dat](https://open.spotify.com/track/19M4JyrblQb7Z57CvCgOsC) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Throw Dat](https://open.spotify.com/album/6jdP3XgIx9qaaB4QVekLpK) | 2:18 |
-| 31 | [Act Bad](https://open.spotify.com/track/1Bgga0poKKUZftx5p8b16y) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Act Bad](https://open.spotify.com/album/7rzfZdTVwlL2gSHPLdizlQ) | 3:12 |
+| 31 | [Booty \(feat\. Latto\)](https://open.spotify.com/track/3Ca24oa8tofPtGYuULHXHI) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Booty \(feat\. Latto\)](https://open.spotify.com/album/3JLGu56kAsK7LO8fZ1vCwF) | 2:26 |
 | 32 | [Budget \(feat\. Latto\)](https://open.spotify.com/track/3BFxkzhkESwALQxjxOVFgJ) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 3:21 |
 | 33 | [FreakyT \(feat\. Latto\) \- Remix](https://open.spotify.com/track/451acSEXA7pfbMKXoC6vJX) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [FreakyT \(feat\. Latto\) \[Remix\]](https://open.spotify.com/album/4itQ4SmVRwjURluBAHnxFx) | 2:29 |
-| 34 | [Booty \(feat\. Latto\)](https://open.spotify.com/track/3Ca24oa8tofPtGYuULHXHI) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Booty \(feat\. Latto\)](https://open.spotify.com/album/3JLGu56kAsK7LO8fZ1vCwF) | 2:26 |
+| 34 | [Act Bad](https://open.spotify.com/track/1Bgga0poKKUZftx5p8b16y) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Act Bad](https://open.spotify.com/album/7rzfZdTVwlL2gSHPLdizlQ) | 3:12 |
 | 35 | [SHOT O' CLOCK](https://open.spotify.com/track/1c99LA5Cf1agM5NMMAzVwc) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [SHOT O' CLOCK](https://open.spotify.com/album/0FGFaLjqjVkavZbKtFTWXJ) | 2:30 |
 | 36 | [Pretty Girls Walk \(with Coi Leray\) \- Remix](https://open.spotify.com/track/2g9dhCaJiK7D0FOgZ9vJlR) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Pretty Girls Walk \(Remix\)](https://open.spotify.com/album/3jmmKIPtYmaC8XsDmVIO1W) | 2:20 |
 | 37 | [Blick Blick \(with Nicki Minaj\)](https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Blick Blick](https://open.spotify.com/album/0UiZQvEgPpnPV6fuvmWTKf) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 | 49 | [I Love A Freak](https://open.spotify.com/track/1X0bnHH8Hv0pMc8LIHivew) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [I Love A Freak](https://open.spotify.com/album/7hUr6M3p6VW66uVNTM1pch) | 2:56 |
 | 50 | [Sneaky Link](https://open.spotify.com/track/4dPaEnjUaBjG3ukUHMeNDl) | [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [NyNy](https://open.spotify.com/artist/37ANmItcvVWbBEROrO5g33) | [Sneaky Link](https://open.spotify.com/album/66q0tnzglsn6fHdeDHF8T8) | 2:26 |
 
-Snapshot ID: `MCxjMzRkYWIxZmY3YzVmYzJjMGFhMTI4MjVkYmU1NmRiMTVjNzhhY2Iz`
+Snapshot ID: `MCxjM2I2NGY4ZGE4MTgyODBlN2IyZTMzZGFjM2Q1ZWMwMGM1NmQ4ZWE5`

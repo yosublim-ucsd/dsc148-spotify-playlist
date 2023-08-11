@@ -4,7 +4,7 @@
 
 > Relax to some gentle percussion from all corners of the globe.
 
-77 songs - 5 hr 7 min
+78 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,12 +38,13 @@
 | [Hang Drum \- Water Sounds](https://open.spotify.com/track/3mGHDE0cYC9NlRk7yTtkQs) | [Izkaya Ten](https://open.spotify.com/artist/1zTZTSgDxQlwEqRwhByiEj) | [Hang Drum \- Water Sounds](https://open.spotify.com/album/3nTXKA7OMc5X732iTGh7bu) | 2:10 | 2022-09-06 |  |
 | [Hangimba](https://open.spotify.com/track/2xG6eMBqaFVHkB0TtS4S4P) | [Hangimba Boy](https://open.spotify.com/artist/1Fv4aj9ojTsR3lz2RwYEKM) | [Hangimba](https://open.spotify.com/album/7CeEZ5Ci3qsveK8YC30orQ) | 2:56 | 2022-05-19 |  |
 | [Hollow Sphere](https://open.spotify.com/track/2QucioZmCDIoiteQwueRoQ) | [Galtritandos](https://open.spotify.com/artist/4QyQTLlakG31IZkXiacgpA) | [Hollow Sphere](https://open.spotify.com/album/3afn9cElA2dCZwhpcdMHP9) | 2:36 | 2022-05-19 |  |
-| [Hypnosis Practice](https://open.spotify.com/track/12pXI6fOqygBSA2YO4SLCH) | [Spiritual Power Control](https://open.spotify.com/artist/0S2L6cMzog6TyuZsNhK20s), [Emotional Healing Intrumental Academy](https://open.spotify.com/artist/62HQ6hBQ9kqrjRyvoGHst6) | [Tongue Drum Healing Sounds \- Calm Your Negative Emotions and Relax with the Gentle Sounds of Instruments, Reiki Music, Meditation, Yoga](https://open.spotify.com/album/3mlaOHaA232Kv4kJD07Btz) | 3:36 | 2022-05-19 |  |
+| [Hypnosis Practice](https://open.spotify.com/track/12pXI6fOqygBSA2YO4SLCH) | [Spiritual Power Control](https://open.spotify.com/artist/0S2L6cMzog6TyuZsNhK20s), [Emotional Healing Intrumental Academy](https://open.spotify.com/artist/62HQ6hBQ9kqrjRyvoGHst6) | [Tongue Drum Healing Sounds \- Calm Your Negative Emotions and Relax with the Gentle Sounds of Instruments, Reiki Music, Meditation, Yoga](https://open.spotify.com/album/3mlaOHaA232Kv4kJD07Btz) | 3:36 | 2022-05-19 | 2023-08-11 |
 | [Increasing Obviousness](https://open.spotify.com/track/0NDw9Cof8cplOb2hsd4IDU) | [Hang Massive](https://open.spotify.com/artist/6bkF6GDcyXZn2T0D5Fwldl) | [Beats for Your Feet](https://open.spotify.com/album/554SueuROwZikUIy6PTVdz) | 4:36 | 2022-05-19 |  |
 | [Indian Trance](https://open.spotify.com/track/29EphovzWC9fG1yzfqCZLp) | [Shamanic Drumming World](https://open.spotify.com/artist/3B6W7sM7HLbRi9Min5tU56) | [The Last Apache: Shamanic Meditation \- Native American Music, Tribal Journey of Indian Spirit](https://open.spotify.com/album/1GFvZKHPeGBbNXhBFQdPHj) | 4:35 | 2022-05-19 | 2023-04-29 |
 | [Indu](https://open.spotify.com/track/4UimAfSmis906EWI5ZrZgz) | [Masood Ali Khan](https://open.spotify.com/artist/30RWmDZkj7S1VSDzmPY6BY) | [The Yoga Sessions](https://open.spotify.com/album/4YTqKMK1dkLaPj6x9Um6BH) | 5:54 | 2022-05-19 | 2022-07-29 |
 | [Indu](https://open.spotify.com/track/4nX7uiHJD6xYxbuOim0w4T) | [Masood Ali Khan](https://open.spotify.com/artist/30RWmDZkj7S1VSDzmPY6BY) | [The Yoga Sessions](https://open.spotify.com/album/7Lhowb40KkVa2g5TK3WNxG) | 5:54 | 2022-06-29 |  |
 | [Intermezzo 1](https://open.spotify.com/track/3iZQ1x0ZCvLRXGMRxKdFss) | [Davide Swarup](https://open.spotify.com/artist/6QOnII7AhBs2LR471krdEM) | [Music for Hang](https://open.spotify.com/album/4wQL5Z7ASoC4ZOgsqEPbfv) | 2:24 | 2022-05-19 |  |
+| [Kaishi](https://open.spotify.com/track/4SBgaMZ0D8zfzE4y4LPuqS) | [Handpanmusic Collective](https://open.spotify.com/artist/044UnoyLTrw05IeHgZE0sa), [Jascha](https://open.spotify.com/artist/03yMPz7wEIn6nk7ZzRKBff) | [the wine cellar tapes part one](https://open.spotify.com/album/0vZFg2R7Ghd1U5vAu5fAwN) | 4:43 | 2023-08-10 |  |
 | [Kaleidoscope: II\. Cafe without Sugar](https://open.spotify.com/track/2XiYlVBHtJTbpr9rYsEeYH) | [Chin Cheng Lin](https://open.spotify.com/artist/69M2aODb7k10CQ3eN3CRXt) | [Lin: Star Splendours](https://open.spotify.com/album/10CGn8DyIsIu3Q45Xt85MY) | 3:12 | 2022-05-19 |  |
 | [Lafa](https://open.spotify.com/track/1yZRu9xNjGNztXRV7wHWg7) | [David Charrier](https://open.spotify.com/artist/52qbMkeZq79cVYB6RqLQ98) | [Ephemeral](https://open.spotify.com/album/5dcZgL9TVeOcyZ0HcafHNU) | 4:55 | 2022-05-19 |  |
 | [Las Campanas](https://open.spotify.com/track/1sPL3D9CRdGjLEy3JEW2Wh) | [Wolfgang Ohmer](https://open.spotify.com/artist/5WqbDL1I1busS5YanO5z0k) | [Sonic Blue \- Ambient Hang Music](https://open.spotify.com/album/45tHjwSf9ctXXrLFdnK4X5) | 6:15 | 2022-05-19 |  |

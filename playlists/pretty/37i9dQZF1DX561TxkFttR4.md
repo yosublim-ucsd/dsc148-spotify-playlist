@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 
 > Soothing, soft piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,868 likes - 80 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,905 likes - 80 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 22 | [Night Solace](https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Night Solace](https://open.spotify.com/album/3XBvc453nHdxoK0PYyOouF) | 2:41 |
 | 23 | [heart pieces](https://open.spotify.com/track/0vQIs6UM5iNmIEtazl28za) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [heart pieces](https://open.spotify.com/album/5HrBAQJ2gvG43Ce8B9zPwj) | 2:29 |
 | 24 | [Finding The Heavens](https://open.spotify.com/track/5iVgHr0hrCFOvem4Yc75Gc) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Finding The Heavens](https://open.spotify.com/album/4GUm4q0aC3WpHFhMc4YZBQ) | 2:47 |
-| 25 | [Chichiro](https://open.spotify.com/track/1RJ5iNyOaBhTHNMVn2HnkH) | [Kye Wood](https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II) | [Chichiro](https://open.spotify.com/album/2AxdaIwqNenrGpogPL4Svx) | 1:49 |
-| 26 | [In The End](https://open.spotify.com/track/23FvAAvnx3NzbTmMiod5nf) | [Regnør](https://open.spotify.com/artist/2bmadkijrsqPPsROnqeXIq) | [In The End](https://open.spotify.com/album/0LiQNUF6t6gTO3PTaD7XDb) | 2:46 |
+| 25 | [In The End](https://open.spotify.com/track/23FvAAvnx3NzbTmMiod5nf) | [Regnør](https://open.spotify.com/artist/2bmadkijrsqPPsROnqeXIq) | [In The End](https://open.spotify.com/album/0LiQNUF6t6gTO3PTaD7XDb) | 2:46 |
+| 26 | [Chichiro](https://open.spotify.com/track/1RJ5iNyOaBhTHNMVn2HnkH) | [Kye Wood](https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II) | [Chichiro](https://open.spotify.com/album/2AxdaIwqNenrGpogPL4Svx) | 1:49 |
 | 27 | [The Slow Down](https://open.spotify.com/track/6aJr5IVYDQ7tffAm8MhG7G) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [The Slow Down](https://open.spotify.com/album/1SWBVisYgwJoj0e3Xiu0Db) | 2:09 |
 | 28 | [Azul](https://open.spotify.com/track/1cTCSy4aSPecGDDx3wqUjD) | [Emilio Chiara](https://open.spotify.com/artist/5a48GWM8CpVJtzLvnFn1js) | [Azul](https://open.spotify.com/album/4P344vEqsQXiTwPa7YsFfc) | 2:00 |
 | 29 | [At Dawn](https://open.spotify.com/track/55H4GT7iLma7fJyBhS7o4R) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Venice \- Infinitely Avantgarde \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/45RJUxxh0wvVRUyd1sTjI9) | 3:00 |
@@ -59,34 +59,34 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 49 | [Beneath the Crystal Veil](https://open.spotify.com/track/6BCLePB0VnQFPJzywUI5NA) | [Luke Faulkner](https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3) | [Beneath the Crystal Veil](https://open.spotify.com/album/5I8aud98hM9NxJbHTAp3yB) | 2:33 |
 | 50 | [Fluttering](https://open.spotify.com/track/5w1FbQ4wRjRkzw9IXv30GW) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5), [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Fluttering](https://open.spotify.com/album/3C7JHTWGeiIymEVt17hRYK) | 1:48 |
 | 51 | [Okra](https://open.spotify.com/track/1so7IJIPEpxEFefMYGa0ia) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Okra](https://open.spotify.com/album/0AccCIBENIOeBoUfMioz12) | 3:13 |
-| 52 | [Embrace Me](https://open.spotify.com/track/4XcCAB5G21D6BZzobQBZMw) | [Carin Florie](https://open.spotify.com/artist/3C44BudashQHdoz23fsob9) | [Embrace Me](https://open.spotify.com/album/4YXJXGBIA9TZpMBPgoewGt) | 2:36 |
-| 53 | [Embers](https://open.spotify.com/track/6RjTKFwiZfTrkBJXmCiNym) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [Embers](https://open.spotify.com/album/7qrMjy81QY0mY6lj6jGcbn) | 2:37 |
+| 52 | [Embers](https://open.spotify.com/track/6RjTKFwiZfTrkBJXmCiNym) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [Embers](https://open.spotify.com/album/7qrMjy81QY0mY6lj6jGcbn) | 2:37 |
+| 53 | [Embrace Me](https://open.spotify.com/track/4XcCAB5G21D6BZzobQBZMw) | [Carin Florie](https://open.spotify.com/artist/3C44BudashQHdoz23fsob9) | [Embrace Me](https://open.spotify.com/album/4YXJXGBIA9TZpMBPgoewGt) | 2:36 |
 | 54 | [Clement](https://open.spotify.com/track/7eItBb98RqIZQ8QZPS6GcM) | [Miran](https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q) | [Clement](https://open.spotify.com/album/7w0J5NX4rFSoNXCPAIns2A) | 2:27 |
 | 55 | [Illumination](https://open.spotify.com/track/5VyPybbYHpq8gsqP5ulovn) | [Dmitry Evgrafov](https://open.spotify.com/artist/5gO6Qun6lW2PILwqcvEug8) | [Illumination](https://open.spotify.com/album/5Lx6sbhSHFdBfMmP4JxBmi) | 2:32 |
 | 56 | [Tristes](https://open.spotify.com/track/3mhJ85EkR5J6pf7F4lP4DU) | [Matteo Myderwyk](https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6) | [Veluwe Suite](https://open.spotify.com/album/6tI8scAMHf4Gicv6LWliBB) | 2:44 |
 | 57 | [A brotherly bond](https://open.spotify.com/track/6DReunGeNcEntHHBqFXVK3) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [A brotherly bond](https://open.spotify.com/album/1EO0TG4JY9dnJe7KXi0vL3) | 2:04 |
 | 58 | [Ave](https://open.spotify.com/track/6iqPjDn7pJdccaaFsvTfc2) | [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [Ave](https://open.spotify.com/album/6qxp9RRJ4ja7D94zw3c0mV) | 2:08 |
 | 59 | [Acceptance](https://open.spotify.com/track/4DE4fXnXftKMyl6IQEYWnp) | [Ben Crosland](https://open.spotify.com/artist/5uNm1FvRSh2IcPNDGQChtr) | [Acceptance](https://open.spotify.com/album/0kNSxjrtG1jxZWb0BKfCHo) | 3:15 |
-| 60 | [Fractal](https://open.spotify.com/track/16HiHZl6SX3EY7ULWnCWvy) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Fractal](https://open.spotify.com/album/2cpXYJpQaWwsLKbcDtAJis) | 3:11 |
-| 61 | [Hour Glass](https://open.spotify.com/track/5OU3bBYoT7TqGOlPrZqq7N) | [Felice Manzi](https://open.spotify.com/artist/4zyg7o4zxpSwns0Le3W14e) | [Hour Glass](https://open.spotify.com/album/7om9KUlSTFqdUeQfO9Rm4P) | 2:51 |
+| 60 | [Hour Glass](https://open.spotify.com/track/5OU3bBYoT7TqGOlPrZqq7N) | [Felice Manzi](https://open.spotify.com/artist/4zyg7o4zxpSwns0Le3W14e) | [Hour Glass](https://open.spotify.com/album/7om9KUlSTFqdUeQfO9Rm4P) | 2:51 |
+| 61 | [Fractal](https://open.spotify.com/track/16HiHZl6SX3EY7ULWnCWvy) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Fractal](https://open.spotify.com/album/2cpXYJpQaWwsLKbcDtAJis) | 3:11 |
 | 62 | [Searching for peace](https://open.spotify.com/track/1oTDH6fYxlZT0MitUs0HPb) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [Searching for peace](https://open.spotify.com/album/693uXrfZISnow1uU36mzn6) | 3:05 |
 | 63 | [Ephemera](https://open.spotify.com/track/6xrL9SlFIr2tIuYjRqKSm2) | [Luke Gajdus](https://open.spotify.com/artist/5YaLrJC1QyjP7kUj1w9lsh) | [In Breath](https://open.spotify.com/album/65QYFsOZcqTgiOc1q6G7C6) | 2:54 |
 | 64 | [Numéro 1](https://open.spotify.com/track/4Q4LaLRedI0F02XS2lsYkP) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Numéro 1](https://open.spotify.com/album/2FD6tNq2lHhx57hK0q1X35) | 2:34 |
 | 65 | [Breathe](https://open.spotify.com/track/40DJUBObiPR4yQGuMUqZNQ) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Breathe](https://open.spotify.com/album/19b9C2sQ0WGntW7vFAGrwO) | 2:32 |
 | 66 | [night walk](https://open.spotify.com/track/1oq5u7bxL6yVbHH47HL8L9) | [Vontmer](https://open.spotify.com/artist/14ztiaafrJJeTVbwdzekgI) | [night walk](https://open.spotify.com/album/1WqmYrix98Qy3k6N4IWbDK) | 3:14 |
-| 67 | [poetry in touch](https://open.spotify.com/track/3gkLHysY743R1OUGDVMNsZ) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [how we sleep](https://open.spotify.com/album/4G3pDpj8XGIXV3oDhK4LD8) | 2:10 |
-| 68 | [Bells](https://open.spotify.com/track/698afgx5ev4sqwZBTqHpoW) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Bells](https://open.spotify.com/album/22blhd4TSXEcQCJ13UmToB) | 3:21 |
+| 67 | [Bells](https://open.spotify.com/track/698afgx5ev4sqwZBTqHpoW) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Bells](https://open.spotify.com/album/22blhd4TSXEcQCJ13UmToB) | 3:21 |
+| 68 | [Mirror](https://open.spotify.com/track/4KqlBCbME4kSBDKfogDerG) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Mirror](https://open.spotify.com/album/3dJXtRJiMVUE4kzgAkW7xU) | 3:00 |
 | 69 | [Song For Katie](https://open.spotify.com/track/5Zpsc6bmptDWbiwf4Wsnhb) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Song For Katie](https://open.spotify.com/album/5fJn5QQf4lwwuLubflqLKZ) | 2:26 |
-| 70 | [Mirror](https://open.spotify.com/track/4KqlBCbME4kSBDKfogDerG) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Mirror](https://open.spotify.com/album/3dJXtRJiMVUE4kzgAkW7xU) | 3:00 |
-| 71 | [Sleepwalk](https://open.spotify.com/track/7hvkGZ6j1NyqNp50G6CyQI) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Sleepwalk](https://open.spotify.com/album/3FsV1IdXbwJ5JRMV0Ujron) | 3:54 |
-| 72 | [Entropy](https://open.spotify.com/track/1wnv2eGj9ZcU2sNwf8IAkN) | [Kyūka](https://open.spotify.com/artist/2HcZQwoaSF9tSiQ3zvuqz7) | [Entropy](https://open.spotify.com/album/1ewxVTG5noRgSJwSgWGWqS) | 1:50 |
+| 70 | [poetry in touch](https://open.spotify.com/track/3gkLHysY743R1OUGDVMNsZ) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [how we sleep](https://open.spotify.com/album/4G3pDpj8XGIXV3oDhK4LD8) | 2:10 |
+| 71 | [Entropy](https://open.spotify.com/track/1wnv2eGj9ZcU2sNwf8IAkN) | [Kyūka](https://open.spotify.com/artist/2HcZQwoaSF9tSiQ3zvuqz7) | [Entropy](https://open.spotify.com/album/1ewxVTG5noRgSJwSgWGWqS) | 1:50 |
+| 72 | [Sleepwalk](https://open.spotify.com/track/7hvkGZ6j1NyqNp50G6CyQI) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Sleepwalk](https://open.spotify.com/album/3FsV1IdXbwJ5JRMV0Ujron) | 3:54 |
 | 73 | [Prélude](https://open.spotify.com/track/7dOjUz9bTwzuZkoaiqDoxm) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Prélude](https://open.spotify.com/album/0Zj30tKJ189EKPzg3l5sLe) | 2:51 |
 | 74 | [Across Borders](https://open.spotify.com/track/5oLuC8okxBZVnhwQBtKvKA) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Across Borders](https://open.spotify.com/album/5oPkzRuPTN5DIkX3lYNjpG) | 2:36 |
 | 75 | [Beyond Dreams](https://open.spotify.com/track/2jOaUHiQ0XCpSrlNHGO8Hf) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Beyond Dreams](https://open.spotify.com/album/4kbLlofFWoUBxW101hmayM) | 2:24 |
 | 76 | [Anona](https://open.spotify.com/track/44rpvXgWhgUWmLUH12Nu58) | [Otto A\. Totland](https://open.spotify.com/artist/0Dc8oO0rYX3DgirVK88dcl) | [The Lost](https://open.spotify.com/album/7kC6WXiBzA4Itfbzy9PmkT) | 3:27 |
 | 77 | [Leaves and Light](https://open.spotify.com/track/4mMUP5bUF4hHT3NKYU3cBC) | [Itoko Toma](https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7) | [The Window](https://open.spotify.com/album/2nTATeum0AwsxHcBwMDSqu) | 2:20 |
-| 78 | [I wanted you to know \(on Yamaha Upright, 1981\)](https://open.spotify.com/track/3VhKqW9j29B7IloNSeyHCB) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Correlations \(on 11 pianos\)](https://open.spotify.com/album/27ghrrRiIzYGcnuP86MTdO) | 4:33 |
-| 79 | [Sway](https://open.spotify.com/track/6BHkBgSz4QbqnRnLd77hXy) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Sway](https://open.spotify.com/album/07fyRiDsSsGEsSp446gwXo) | 2:21 |
-| 80 | [how we sleep](https://open.spotify.com/track/6pUNZUVQATDNzGS0fyJL9W) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [how we sleep](https://open.spotify.com/album/4koHpBgZulX1pTaEjm2MuP) | 3:02 |
+| 78 | [Sway](https://open.spotify.com/track/6BHkBgSz4QbqnRnLd77hXy) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Sway](https://open.spotify.com/album/07fyRiDsSsGEsSp446gwXo) | 2:21 |
+| 79 | [I wanted you to know \(on Yamaha Upright, 1981\)](https://open.spotify.com/track/3VhKqW9j29B7IloNSeyHCB) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Correlations \(on 11 pianos\)](https://open.spotify.com/album/27ghrrRiIzYGcnuP86MTdO) | 4:33 |
+| 80 | [Octaves](https://open.spotify.com/track/1F54dSc1rx5kHpMGu3XM9i) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Octaves](https://open.spotify.com/album/1ZoBBGpluc4FcCJOakU0Ir) | 2:12 |
 
-Snapshot ID: `MCw5NWNiOGVjOWQ1ODYwMTI1MjgwMjcwZGIwMDk4NmYxM2E2NGU1ZWE4`
+Snapshot ID: `MCw4YzVhOGVhNTc5MmI5NjRmMDNkMTM4NjQ1YzZhMWQzMTUzMzM4MmNm`

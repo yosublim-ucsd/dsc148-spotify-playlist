@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwne9oedwMj.md) - [plain]
 
 > Suéltala que ella baila sola\. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 618,340 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 617,763 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwne9oedwMj.md) - [plain]
 | 18 | [FRIKI](https://open.spotify.com/track/3No3zHVwKadKDR00kZdmAB) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [FRIKI](https://open.spotify.com/album/7LlTjovytMWtPVHm7cJku2) | 2:24 |
 | 19 | [CAIRO](https://open.spotify.com/track/16dUQ4quIHDe4ZZ0wF1EMN) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:18 |
 | 20 | [Yo Perreo Sola](https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:52 |
-| 21 | [Amanecemos](https://open.spotify.com/track/4L6PEEISI0EWoKh8Wwtvuh) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [Amanecemos](https://open.spotify.com/album/3ybnP0l2GS9XlLOIoYGvPg) | 3:18 |
-| 22 | [Muñecas](https://open.spotify.com/track/4yPmTUkWmUfLPQLCccp0DR) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:36 |
+| 21 | [Muñecas](https://open.spotify.com/track/4yPmTUkWmUfLPQLCccp0DR) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:36 |
+| 22 | [Amanecemos](https://open.spotify.com/track/4L6PEEISI0EWoKh8Wwtvuh) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [Amanecemos](https://open.spotify.com/album/3ybnP0l2GS9XlLOIoYGvPg) | 3:18 |
 | 23 | [En La De Ella](https://open.spotify.com/track/5NxhMcHSVY3Z7ykWxZf3aj) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [En La De Ella](https://open.spotify.com/album/2h9T2SLXRUPyBkzj9qtnVH) | 3:50 |
 | 24 | [LA NENA DE ARGENTINA](https://open.spotify.com/track/0Dl34Kegtc0y0m0oPhQfiI) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 2:31 |
 | 25 | [LA COMBI VERSACE](https://open.spotify.com/track/5gCNf9wMVrYuM2fvfgLTlF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:41 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwne9oedwMj.md) - [plain]
 | 42 | [intoxicao](https://open.spotify.com/track/2Znff2J1fAgQhXXEMW7y5V) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [intoxicao](https://open.spotify.com/album/0Oe35eRgVyLthOLW1vurye) | 2:48 |
 | 43 | [En Bajita](https://open.spotify.com/track/5K9VzfSr7L34rMMJxe8ndg) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [En Bajita](https://open.spotify.com/album/77hesD3v2jWR2dnhElz9Yp) | 3:29 |
 | 44 | [Frío](https://open.spotify.com/track/0df1oUN5ta7FSWwjGvhHa5) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Frío](https://open.spotify.com/album/4ya6dMKyTfwrrcdkoROD8O) | 2:35 |
-| 45 | [Tiki Tiki](https://open.spotify.com/track/2J8lIDwvxPZQQ0I0wt1oRO) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Tiki Tiki](https://open.spotify.com/album/27WZ3udXyjazvsInPtfuIQ) | 2:11 |
-| 46 | [MALA SANTA](https://open.spotify.com/track/5e50NiIlOc2YJIftHzoehd) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 2:53 |
+| 45 | [MALA SANTA](https://open.spotify.com/track/5e50NiIlOc2YJIftHzoehd) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 2:53 |
+| 46 | [Tiki Tiki](https://open.spotify.com/track/2J8lIDwvxPZQQ0I0wt1oRO) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Tiki Tiki](https://open.spotify.com/album/27WZ3udXyjazvsInPtfuIQ) | 2:11 |
 | 47 | [Kitty](https://open.spotify.com/track/7dg1E1QLfNAXDNlKshOTUC) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Kitty](https://open.spotify.com/album/7MTllNrunaSB1GTWkbt9ee) | 3:20 |
 | 48 | [ALGARETE](https://open.spotify.com/track/2ec3eRB4zEYzuBl3cja0qA) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [ALGARETE](https://open.spotify.com/album/7leHFUki2RpwAxMJU6Du3n) | 3:28 |
 | 49 | [Wow Wow \(feat\. Becky G\)](https://open.spotify.com/track/20ChN6ZWJ2yhuXcE6SKHDM) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Wow Wow \(feat\. Becky G\)](https://open.spotify.com/album/7peqMFYmRXaFJ5nXvKtA86) | 3:19 |
 | 50 | [Cazzu: Bzrp Music Sessions, Vol\. 32](https://open.spotify.com/track/1MZqHpFyB4j5tFCFNvURou) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Cazzu: Bzrp Music Sessions, Vol\. 32](https://open.spotify.com/album/0zNLQbLwk1g9C4Ic5hnme2) | 2:26 |
 
-Snapshot ID: `MCxjZjM1NjdlNjExMjM4OGM1ZTdlNTVkMmM5MzhhNTUzYzY3OWJjMTZi`
+Snapshot ID: `MCw4ZmQ2ZGFkMjhjYjhmMDQ3ZGIyN2Y4YzRlMzdjNjRmOTY1NzJkNzdi`

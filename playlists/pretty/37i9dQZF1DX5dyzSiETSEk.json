@@ -1,12 +1,12 @@
 {
   "description": "The whole family will enjoy popular hits from yesterday and today!",
-  "num_followers": 21545,
+  "num_followers": 21627,
   "original_name": "Non-Stop Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDFhNDVlNDA0YjJkNzJmMGIxYzcxZjIyNGVlMzBmNjU2NzQ0YmY5",
+  "snapshot_id": "MCxjOWRmOWEzM2FhYjhmNWQyNTFmMGYyZDQxOGExYWE3MmMzOGRlMTkw",
   "tracks": [
     {
       "added_at": "2023-07-07 11:26:38",
@@ -387,6 +387,22 @@
     {
       "added_at": "2023-07-07 11:26:38",
       "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 211240,
+      "name": "The Archer",
+      "url": "https://open.spotify.com/track/3pHkh7d0lzM2AldUtz2x37"
+    },
+    {
+      "added_at": "2023-07-07 11:26:38",
+      "album": {
         "name": "Purpose (Deluxe)",
         "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 203417,
       "name": "Youngblood",
       "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"
-    },
-    {
-      "added_at": "2023-07-07 11:26:38",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 211240,
-      "name": "The Archer",
-      "url": "https://open.spotify.com/track/3pHkh7d0lzM2AldUtz2x37"
     },
     {
       "added_at": "2023-07-07 11:26:38",

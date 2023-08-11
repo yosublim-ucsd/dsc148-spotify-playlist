@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Quiero Salsa, dame Salsa! Foto: Marc Anthony",
-  "num_followers": 466027,
+  "num_followers": 466376,
   "original_name": "Dame Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2UyMTQ2YWQzNGM5NjRlZDBmODZlZjczNGVjZTU4MGMxYjY2MmY4",
+  "snapshot_id": "MCwwMWIzYWM2ZjI5YmU2ZDNiY2Y5ZDg3YTk3MDA1ZWI2MzBlZjM2YWFl",
   "tracks": [
     {
       "added_at": "2023-01-02 17:05:31",
@@ -623,50 +623,18 @@
     {
       "added_at": "2023-01-02 17:05:31",
       "album": {
-        "name": "Llego La Salsa",
-        "url": "https://open.spotify.com/album/45Aa2zCt6Y20hqGxVjI0tI"
+        "name": "B\u00fascame",
+        "url": "https://open.spotify.com/album/76GMXDdpCLC8NwXtv37yYj"
       },
       "artists": [
         {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+          "name": "Adolescent's Orquesta",
+          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
         }
       ],
-      "duration_ms": 278871,
-      "name": "Detalles",
-      "url": "https://open.spotify.com/track/4YOz0Fl5q0cXanSCUtsW13"
-    },
-    {
-      "added_at": "2023-01-02 17:05:31",
-      "album": {
-        "name": "Intenso",
-        "url": "https://open.spotify.com/album/75kOLlIjW99qG0rtOqD3rC"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 254933,
-      "name": "La Agarro Bajando",
-      "url": "https://open.spotify.com/track/3GgI4QQWvsqqdKCvnNN0UM"
-    },
-    {
-      "added_at": "2023-01-02 17:05:31",
-      "album": {
-        "name": "Valio La Pena",
-        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 309586,
-      "name": "Ahora Quien - Salsa Version",
-      "url": "https://open.spotify.com/track/5A32KQZznC2HSqr9qzTl2N"
+      "duration_ms": 241023,
+      "name": "Se Acab\u00f3 el Amor",
+      "url": "https://open.spotify.com/track/7nxoTSiir8y3vF8HPhFmQ9"
     },
     {
       "added_at": "2023-01-02 17:05:31",
@@ -687,18 +655,50 @@
     {
       "added_at": "2023-01-02 17:05:31",
       "album": {
-        "name": "B\u00fascame",
-        "url": "https://open.spotify.com/album/76GMXDdpCLC8NwXtv37yYj"
+        "name": "Valio La Pena",
+        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
       },
       "artists": [
         {
-          "name": "Adolescent's Orquesta",
-          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 241023,
-      "name": "Se Acab\u00f3 el Amor",
-      "url": "https://open.spotify.com/track/7nxoTSiir8y3vF8HPhFmQ9"
+      "duration_ms": 309586,
+      "name": "Ahora Quien - Salsa Version",
+      "url": "https://open.spotify.com/track/5A32KQZznC2HSqr9qzTl2N"
+    },
+    {
+      "added_at": "2023-01-02 17:05:31",
+      "album": {
+        "name": "Intenso",
+        "url": "https://open.spotify.com/album/75kOLlIjW99qG0rtOqD3rC"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 254933,
+      "name": "La Agarro Bajando",
+      "url": "https://open.spotify.com/track/3GgI4QQWvsqqdKCvnNN0UM"
+    },
+    {
+      "added_at": "2023-01-02 17:05:31",
+      "album": {
+        "name": "Llego La Salsa",
+        "url": "https://open.spotify.com/album/45Aa2zCt6Y20hqGxVjI0tI"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "duration_ms": 278871,
+      "name": "Detalles",
+      "url": "https://open.spotify.com/track/4YOz0Fl5q0cXanSCUtsW13"
     },
     {
       "added_at": "2023-01-02 17:05:31",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-01-02 17:05:31",
       "album": {
-        "name": "De Verdad",
-        "url": "https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7"
-      },
-      "artists": [
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 296920,
-      "name": "Lluvia",
-      "url": "https://open.spotify.com/track/5Ba4YFq13YdsTosd7mwqzi"
-    },
-    {
-      "added_at": "2023-01-02 17:05:31",
-      "album": {
         "name": "Una Aventura...La Historia",
         "url": "https://open.spotify.com/album/4at8kygDVfKHWHIXox7uGs"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 294280,
       "name": "Sin Sentimientos",
       "url": "https://open.spotify.com/track/0oHX2BlLsnbu3nnTeEUIuL"
+    },
+    {
+      "added_at": "2023-01-02 17:05:31",
+      "album": {
+        "name": "De Verdad",
+        "url": "https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 296920,
+      "name": "Lluvia",
+      "url": "https://open.spotify.com/track/5Ba4YFq13YdsTosd7mwqzi"
     },
     {
       "added_at": "2023-01-02 17:05:31",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2023-01-02 17:05:31",
       "album": {
+        "name": "Siempre Una Aventura",
+        "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 354093,
+      "name": "Busca Por Dentro",
+      "url": "https://open.spotify.com/track/2canuqE41S1yUstx6qnLFc"
+    },
+    {
+      "added_at": "2023-01-02 17:05:31",
+      "album": {
         "name": "Fruko el Grande",
         "url": "https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 294000,
       "name": "El Preso",
       "url": "https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q"
-    },
-    {
-      "added_at": "2023-01-02 17:05:31",
-      "album": {
-        "name": "Siempre Una Aventura",
-        "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 354093,
-      "name": "Busca Por Dentro",
-      "url": "https://open.spotify.com/track/2canuqE41S1yUstx6qnLFc"
     },
     {
       "added_at": "2023-01-02 17:05:31",

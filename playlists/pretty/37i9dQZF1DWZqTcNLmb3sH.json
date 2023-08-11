@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Hostel Hudugaru Bekagiddare",
-  "num_followers": 50849,
+  "num_followers": 50871,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDQ2NTkyMDk1ZDYyNGQyNzNjMjRkYjUyZjUxZDk4MTdlMjhiNjE3",
+  "snapshot_id": "MCxmMzI3MTRlOGE2ZDg5MDczNGUxN2IxOTlkZjY2ZTMxZTdlODA1NTIy",
   "tracks": [
     {
       "added_at": "2023-07-27 13:11:20",
@@ -47,6 +47,30 @@
       "duration_ms": 255643,
       "name": "Sapta Sagaradaache Ello - Side A Title Track (From \"Sapta Sagaradaache Ello - Side A\")",
       "url": "https://open.spotify.com/track/4mfrhh7oSf1NAfLHUvQaMU"
+    },
+    {
+      "added_at": "2023-08-10 11:59:55",
+      "album": {
+        "name": "Hukum (From \"Jailer\")",
+        "url": "https://open.spotify.com/album/0n6tCOwzR3R6Ke2OQUVIC1"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Lokeshwar Edara",
+          "url": "https://open.spotify.com/artist/7ag0al5P3y3IzzEh0G7YL8"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+        }
+      ],
+      "duration_ms": 207647,
+      "name": "Hukum (From \"Jailer\")",
+      "url": "https://open.spotify.com/track/1zVpNFaChsxmXEQwAV3mmi"
     },
     {
       "added_at": "2023-08-02 11:54:06",
@@ -145,10 +169,34 @@
       "url": "https://open.spotify.com/track/0ORnNTXGy7dQ4Jt7PBHRu0"
     },
     {
+      "added_at": "2023-08-10 11:59:55",
+      "album": {
+        "name": "Kaavaalaayya (From \"Jailer\")",
+        "url": "https://open.spotify.com/album/6PgDHLkTWqOhovaLo7rNxO"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Sindhuja Srinivasan",
+          "url": "https://open.spotify.com/artist/1vB0Gi450P8znsVn6J5sjm"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+        }
+      ],
+      "duration_ms": 190909,
+      "name": "Kaavaalaayya (From \"Jailer\")",
+      "url": "https://open.spotify.com/track/5AR8sZJpaXmwIGE8r4lnIv"
+    },
+    {
       "added_at": "2023-08-03 09:06:57",
       "album": {
-        "name": "Nee Chuttu Chuttu (From \"Skanda\")",
-        "url": "https://open.spotify.com/album/1JqtlkXasTPfKXGYNT9a7D"
+        "name": "Nin Suttha Suttha (From \"Skanda\") (Kannada)",
+        "url": "https://open.spotify.com/album/2yscYucLN4wg0AWEXGT7c8"
       },
       "artists": [
         {
@@ -156,21 +204,45 @@
           "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
         },
         {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+          "name": "Santhosh Venky",
+          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
         },
         {
-          "name": "Sanjana Kalmanje",
-          "url": "https://open.spotify.com/artist/4zQpCebYLmlfG8Cw43xdtZ"
-        },
-        {
-          "name": "Raghuram",
-          "url": "https://open.spotify.com/artist/7L5VvQ1WinT1TpMqpnfrbv"
+          "name": "Sreenidhi Tirumala",
+          "url": "https://open.spotify.com/artist/3WQP57VLN9YqWay34tiADB"
         }
       ],
-      "duration_ms": 249000,
-      "name": "Nee Chuttu Chuttu (From \"Skanda\")",
-      "url": "https://open.spotify.com/track/2sYhYrHPNU8v5EjSqIqDXm"
+      "duration_ms": 249143,
+      "name": "Nin Suttha Suttha (From \"Skanda\") (Kannada)",
+      "url": "https://open.spotify.com/track/5Dfq2GkOYNglFnS11yL9TN"
+    },
+    {
+      "added_at": "2023-08-10 11:59:55",
+      "album": {
+        "name": "Naanemba Swarthava Bittu (From \"DDD\")",
+        "url": "https://open.spotify.com/album/2d9QbTVcRcIWNRPOLvT7ee"
+      },
+      "artists": [
+        {
+          "name": "Abhishek M R",
+          "url": "https://open.spotify.com/artist/2SXCXOoQxoRfHwtHaRwt97"
+        },
+        {
+          "name": "Darshan Narayan",
+          "url": "https://open.spotify.com/artist/64ZcUIE43WrFrkpbRbzqmD"
+        },
+        {
+          "name": "Suraj Jois",
+          "url": "https://open.spotify.com/artist/27GwuwHp0LlzXjAyZYniSp"
+        },
+        {
+          "name": "Chethan Kumar",
+          "url": "https://open.spotify.com/artist/3zMAaXwoMBtxeIzUQjiXcy"
+        }
+      ],
+      "duration_ms": 235176,
+      "name": "Naanemba Swarthava Bittu (From \"DDD\")",
+      "url": "https://open.spotify.com/track/78LhTKbBXM0MCiEmDorNCI"
     },
     {
       "added_at": "2023-08-09 11:21:33",
@@ -187,6 +259,30 @@
       "duration_ms": 216420,
       "name": "Aata Senasaata",
       "url": "https://open.spotify.com/track/5uAIYmgrhue1lY3VIMcXWW"
+    },
+    {
+      "added_at": "2023-08-10 11:59:55",
+      "album": {
+        "name": "Comedy King (From \"Namo Bhoothathma 2\")",
+        "url": "https://open.spotify.com/album/361D8XECakKxJ6qGjvJfl4"
+      },
+      "artists": [
+        {
+          "name": "Chandan Shetty",
+          "url": "https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk"
+        },
+        {
+          "name": "Arun Andrew",
+          "url": "https://open.spotify.com/artist/3NMg8F6trpYFOtvlt6FTVM"
+        },
+        {
+          "name": "Vishwaji",
+          "url": "https://open.spotify.com/artist/2rkYVUbHuNz9wmqWX8JgJ1"
+        }
+      ],
+      "duration_ms": 247200,
+      "name": "Comedy King - From \"Namo Bhoothathma 2\"",
+      "url": "https://open.spotify.com/track/3Go0RbsqrVCXbGJyp3AZy2"
     },
     {
       "added_at": "2023-08-08 13:36:47",
@@ -311,6 +407,22 @@
       "duration_ms": 237473,
       "name": "Mogadalli - From \"Richie\"",
       "url": "https://open.spotify.com/track/5zJ1a0jHvMEQomiqy9Is0P"
+    },
+    {
+      "added_at": "2023-08-10 11:59:55",
+      "album": {
+        "name": "Partner",
+        "url": "https://open.spotify.com/album/0mvY3Hex1UgwTFpQhOVF9p"
+      },
+      "artists": [
+        {
+          "name": "Mehaboob Saab",
+          "url": "https://open.spotify.com/artist/1pBFn1uxnCrIFkWdljm8tN"
+        }
+      ],
+      "duration_ms": 262368,
+      "name": "Geleya O Geleya",
+      "url": "https://open.spotify.com/track/5PYgMZMicR7zJVidbA0wXw"
     },
     {
       "added_at": "2023-07-24 06:31:36",
@@ -1465,22 +1577,6 @@
       "url": "https://open.spotify.com/track/50UQctDiUySM007YaJDe4g"
     },
     {
-      "added_at": "2023-04-04 12:09:00",
-      "album": {
-        "name": "Byarena Aithi (from Gurudev Hoysala)",
-        "url": "https://open.spotify.com/album/0uhmzvZPNknrJSjsyt7n9S"
-      },
-      "artists": [
-        {
-          "name": "B. Ajaneesh Loknath",
-          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
-        }
-      ],
-      "duration_ms": 143397,
-      "name": "Byarena Aithi (from Gurudev Hoysala)",
-      "url": "https://open.spotify.com/track/067PmjFq5g0v8KCDkzf9dA"
-    },
-    {
       "added_at": "2023-04-13 06:35:39",
       "album": {
         "name": "Maathado Gombe (from \"Shivaji Surathkal 2\")",
@@ -1585,46 +1681,6 @@
       "url": "https://open.spotify.com/track/4dTmUE6VFF5zCZhENDjFcp"
     },
     {
-      "added_at": "2023-04-06 13:20:35",
-      "album": {
-        "name": "E Hrudayada Deguladali (From \"Feel My Love\")",
-        "url": "https://open.spotify.com/album/6E91OM5ykMyeQ9XIMy2Xzt"
-      },
-      "artists": [
-        {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
-        },
-        {
-          "name": "Anjini Kumar M",
-          "url": "https://open.spotify.com/artist/4XjOTkp0KpJmU5WBEWKzOk"
-        },
-        {
-          "name": "Rahul Raj Music",
-          "url": "https://open.spotify.com/artist/6pWY7RG00F76WyWWXshlbV"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "E Hrudayada Deguladali - From \"Feel My Love\"",
-      "url": "https://open.spotify.com/track/66cIa6Cow6a4L5QcdvQ3QH"
-    },
-    {
-      "added_at": "2023-03-28 05:05:16",
-      "album": {
-        "name": "Bad Manners Title Track (from \"Bad Manners\")",
-        "url": "https://open.spotify.com/album/6XyQxP3C4oxWKG6VyQUKIM"
-      },
-      "artists": [
-        {
-          "name": "Usha Uthup",
-          "url": "https://open.spotify.com/artist/63gvl4egwBtz2czz3aENGa"
-        }
-      ],
-      "duration_ms": 198276,
-      "name": "Bad Manners Title Track (from \"Bad Manners\")",
-      "url": "https://open.spotify.com/track/5CmJFan6BVZEJDBIkBbi56"
-    },
-    {
       "added_at": "2023-04-10 07:12:35",
       "album": {
         "name": "Long Drive",
@@ -1645,26 +1701,6 @@
       "url": "https://open.spotify.com/track/0WSTkzo2AxwP6vePkanVJV"
     },
     {
-      "added_at": "2023-03-31 15:38:50",
-      "album": {
-        "name": "Mounave Chenna (from \"Veeram\")",
-        "url": "https://open.spotify.com/album/5tZ7RUfAWQVvGeGtBHRiUO"
-      },
-      "artists": [
-        {
-          "name": "Nihal Tauro",
-          "url": "https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF"
-        },
-        {
-          "name": "J. Anoop Seelin",
-          "url": "https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R"
-        }
-      ],
-      "duration_ms": 216921,
-      "name": "Mounave Chenna (from \"Veeram\")",
-      "url": "https://open.spotify.com/track/5Mpy6UFHledqTFeQ6FqUJT"
-    },
-    {
       "added_at": "2023-04-10 13:39:18",
       "album": {
         "name": "Darbar (Original Motion Picture Soundtrack)",
@@ -1683,22 +1719,6 @@
       "duration_ms": 256674,
       "name": "Enanu Kelade Ninage",
       "url": "https://open.spotify.com/track/2D8JyMvnepQqyOlZHAz2UK"
-    },
-    {
-      "added_at": "2023-04-03 11:46:52",
-      "album": {
-        "name": "Hondisi Bareyiri (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4BnBHZKVKY13aKWcCK3WwZ"
-      },
-      "artists": [
-        {
-          "name": "Joe Costa",
-          "url": "https://open.spotify.com/artist/40u3WdSvVLSyNNPKKb2pRP"
-        }
-      ],
-      "duration_ms": 282333,
-      "name": "Belakali",
-      "url": "https://open.spotify.com/track/5A3ZTKVbNtXemakJjqNbFF"
     }
   ],
   "unique_name": "Latest Kannada",

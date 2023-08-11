@@ -1,12 +1,12 @@
 {
   "description": "Artistas LGBTQIA+ que brillan e inspiran.\nCover: Ana Macho",
-  "num_followers": 132552,
+  "num_followers": 132600,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZTU2YWRkOGVjYzhiOWQ5ZTUzNzA2NzFhNTZmMTljYzA5ZDdmY2Zh",
+  "snapshot_id": "MCw1NmUyMjQxNDM5YjdkZWU1YWVhMDBlMjAxMjkyZmExMzM4NDJjZGIy",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "\u00c1cido Sabor",
+        "url": "https://open.spotify.com/album/6VUd6HAFSkMyUYxe26MOSh"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 210913,
+      "name": "\u00c1cido Sabor",
+      "url": "https://open.spotify.com/track/0a2giOzEw6DnH2V9bt3GP3"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Noitada",
         "url": "https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 166013,
       "name": "AMEIANOITE",
       "url": "https://open.spotify.com/track/0zQhdzUijGmorUhopvtoue"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "\u00c1cido Sabor",
-        "url": "https://open.spotify.com/album/6VUd6HAFSkMyUYxe26MOSh"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 210913,
-      "name": "\u00c1cido Sabor",
-      "url": "https://open.spotify.com/track/0a2giOzEw6DnH2V9bt3GP3"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Miss Colombia",
+        "url": "https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y"
+      },
+      "artists": [
+        {
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+        }
+      ],
+      "duration_ms": 242445,
+      "name": "Te Queria",
+      "url": "https://open.spotify.com/track/10Jr2PJeIMPYYRWsWximsP"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Mi vida en llamas (feat. Buscabulla)",
         "url": "https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 288624,
       "name": "Mi vida en llamas (feat. Buscabulla)",
       "url": "https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Miss Colombia",
-        "url": "https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y"
-      },
-      "artists": [
-        {
-          "name": "Lido Pimienta",
-          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
-        }
-      ],
-      "duration_ms": 242445,
-      "name": "Te Queria",
-      "url": "https://open.spotify.com/track/10Jr2PJeIMPYYRWsWximsP"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -775,26 +775,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "El diablo en el cuerpo",
-        "url": "https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 266875,
-      "name": "Tienes una idea muy antigua del amor (feat. Julieta Venegas)",
-      "url": "https://open.spotify.com/track/1Khmt1sGdFE7hRzKCqC2yS"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "DAMALEONA",
         "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 186773,
       "name": "Y Qu\u00e9?",
       "url": "https://open.spotify.com/track/7IimbpNYdLU9pG366Td4Tm"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "El diablo en el cuerpo",
+        "url": "https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 266875,
+      "name": "Tienes una idea muy antigua del amor (feat. Julieta Venegas)",
+      "url": "https://open.spotify.com/track/1Khmt1sGdFE7hRzKCqC2yS"
     },
     {
       "added_at": "2023-08-04 04:00:00",

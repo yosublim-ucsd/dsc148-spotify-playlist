@@ -1,12 +1,12 @@
 {
   "description": "Is \"indie sleaze\" in the room with us now? ft. Master Peace",
-  "num_followers": 102683,
+  "num_followers": 102815,
   "original_name": "Indie Sleaze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzA2OTBhN2E4OWI2YmQzNmVhM2ViODhkNDc0NjZmMDAwYzg1ZDU1",
+  "snapshot_id": "MCw5YTk5NDZmMjIzNjNmOTQ3MWI2NWUwYmMzZjQwN2M0ZjkzOWM1ZjFj",
   "tracks": [
     {
       "added_at": "2023-08-02 16:36:34",
@@ -205,6 +205,22 @@
       "url": "https://open.spotify.com/track/5f5RzlEgheGXEsYAvmYil8"
     },
     {
+      "added_at": "2023-08-10 17:26:30",
+      "album": {
+        "name": "Drunk & Loud",
+        "url": "https://open.spotify.com/album/5v9ShaPCZn1arjR9BmkUNy"
+      },
+      "artists": [
+        {
+          "name": "Bloom Twins",
+          "url": "https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt"
+        }
+      ],
+      "duration_ms": 114964,
+      "name": "Drunk & Loud",
+      "url": "https://open.spotify.com/track/69WiLaNQxDcf4yjAWcDruZ"
+    },
+    {
       "added_at": "2023-08-02 16:36:34",
       "album": {
         "name": "Oracular Spectacular",
@@ -219,22 +235,6 @@
       "duration_ms": 229640,
       "name": "Electric Feel",
       "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
-    },
-    {
-      "added_at": "2023-08-02 16:36:34",
-      "album": {
-        "name": "Room On Fire",
-        "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 219826,
-      "name": "Reptilia",
-      "url": "https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA"
     },
     {
       "added_at": "2023-08-02 16:36:34",
@@ -255,6 +255,22 @@
     {
       "added_at": "2023-08-02 16:36:34",
       "album": {
+        "name": "Room On Fire",
+        "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 219826,
+      "name": "Reptilia",
+      "url": "https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA"
+    },
+    {
+      "added_at": "2023-08-02 16:36:34",
+      "album": {
         "name": "Writer's Block",
         "url": "https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2"
       },
@@ -267,6 +283,22 @@
       "duration_ms": 276693,
       "name": "Young Folks",
       "url": "https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj"
+    },
+    {
+      "added_at": "2023-08-02 16:36:34",
+      "album": {
+        "name": "Kala",
+        "url": "https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu"
+      },
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "duration_ms": 205200,
+      "name": "Paper Planes",
+      "url": "https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a"
     },
     {
       "added_at": "2023-08-02 16:36:34",
@@ -287,18 +319,18 @@
     {
       "added_at": "2023-08-02 16:36:34",
       "album": {
-        "name": "Kala",
-        "url": "https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu"
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
       },
       "artists": [
         {
-          "name": "M.I.A.",
-          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
         }
       ],
-      "duration_ms": 205200,
-      "name": "Paper Planes",
-      "url": "https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a"
+      "duration_ms": 302840,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"
     },
     {
       "added_at": "2023-08-02 16:36:34",
@@ -363,38 +395,6 @@
     {
       "added_at": "2023-08-02 16:36:34",
       "album": {
-        "name": "First Impressions Of Earth",
-        "url": "https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 189226,
-      "name": "You Only Live Once",
-      "url": "https://open.spotify.com/track/4fPBB44eDH71YohayI4eKV"
-    },
-    {
-      "added_at": "2023-08-02 16:36:34",
-      "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 302840,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"
-    },
-    {
-      "added_at": "2023-08-02 16:36:34",
-      "album": {
         "name": "Hurry Up, We're Dreaming",
         "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
       },
@@ -423,6 +423,22 @@
       "duration_ms": 205733,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/3kMrazSvILsgcwtidZd1Qd"
+    },
+    {
+      "added_at": "2023-08-02 16:36:34",
+      "album": {
+        "name": "First Impressions Of Earth",
+        "url": "https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 189226,
+      "name": "You Only Live Once",
+      "url": "https://open.spotify.com/track/4fPBB44eDH71YohayI4eKV"
     },
     {
       "added_at": "2023-08-02 16:36:34",
@@ -459,6 +475,22 @@
       "duration_ms": 193106,
       "name": "1901",
       "url": "https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta"
+    },
+    {
+      "added_at": "2023-08-02 16:36:34",
+      "album": {
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 261000,
+      "name": "Time to Pretend",
+      "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
     },
     {
       "added_at": "2023-08-02 16:36:34",
@@ -531,22 +563,6 @@
       "duration_ms": 173493,
       "name": "Fluorescent Adolescent",
       "url": "https://open.spotify.com/track/7e8utCy2JlSB8dRHKi49xM"
-    },
-    {
-      "added_at": "2023-08-02 16:36:34",
-      "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "Time to Pretend",
-      "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
     },
     {
       "added_at": "2023-08-02 16:36:34",
@@ -663,22 +679,6 @@
     {
       "added_at": "2023-08-02 16:36:34",
       "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
-      },
-      "artists": [
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 251266,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs"
-    },
-    {
-      "added_at": "2023-08-02 16:36:34",
-      "album": {
         "name": "(III)",
         "url": "https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc"
       },
@@ -707,6 +707,22 @@
       "duration_ms": 165120,
       "name": "Golden Skans",
       "url": "https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG"
+    },
+    {
+      "added_at": "2023-08-02 16:36:34",
+      "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 251266,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs"
     },
     {
       "added_at": "2023-08-02 16:36:34",
@@ -983,22 +999,6 @@
     {
       "added_at": "2023-08-02 16:36:34",
       "album": {
-        "name": "The Libertines",
-        "url": "https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j"
-      },
-      "artists": [
-        {
-          "name": "The Libertines",
-          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
-        }
-      ],
-      "duration_ms": 203733,
-      "name": "Can't Stand Me Now",
-      "url": "https://open.spotify.com/track/2EtZFeLn9msgg4qJzT9Vql"
-    },
-    {
-      "added_at": "2023-08-02 16:36:34",
-      "album": {
         "name": "Return To Cookie Mountain",
         "url": "https://open.spotify.com/album/7xn8nwwutlJFMb7Zf9NEHi"
       },
@@ -1011,6 +1011,22 @@
       "duration_ms": 279293,
       "name": "Wolf Like Me",
       "url": "https://open.spotify.com/track/03wKMRNYVvw6s9nm4I4jUS"
+    },
+    {
+      "added_at": "2023-08-02 16:36:34",
+      "album": {
+        "name": "The Libertines",
+        "url": "https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j"
+      },
+      "artists": [
+        {
+          "name": "The Libertines",
+          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
+        }
+      ],
+      "duration_ms": 203733,
+      "name": "Can't Stand Me Now",
+      "url": "https://open.spotify.com/track/2EtZFeLn9msgg4qJzT9Vql"
     },
     {
       "added_at": "2023-08-02 16:36:34",
@@ -1055,22 +1071,6 @@
     {
       "added_at": "2023-08-02 16:36:34",
       "album": {
-        "name": "Master of My Make-Believe",
-        "url": "https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr"
-      },
-      "artists": [
-        {
-          "name": "Santigold",
-          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
-        }
-      ],
-      "duration_ms": 284400,
-      "name": "Disparate Youth",
-      "url": "https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH"
-    },
-    {
-      "added_at": "2023-08-02 16:36:34",
-      "album": {
         "name": "LCD Soundsystem",
         "url": "https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL"
       },
@@ -1083,6 +1083,22 @@
       "duration_ms": 314556,
       "name": "Daft Punk Is Playing at My House",
       "url": "https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI"
+    },
+    {
+      "added_at": "2023-08-02 16:36:34",
+      "album": {
+        "name": "Master of My Make-Believe",
+        "url": "https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr"
+      },
+      "artists": [
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        }
+      ],
+      "duration_ms": 284400,
+      "name": "Disparate Youth",
+      "url": "https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH"
     },
     {
       "added_at": "2023-08-02 16:36:34",
@@ -1181,22 +1197,6 @@
       "url": "https://open.spotify.com/track/7gsArdm7rk6X6wsMr2QKWS"
     },
     {
-      "added_at": "2023-08-02 18:42:29",
-      "album": {
-        "name": "New York / LA Hex",
-        "url": "https://open.spotify.com/album/1cDeSZLnliZgQ07a6VvDAK"
-      },
-      "artists": [
-        {
-          "name": "The Kills",
-          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
-        }
-      ],
-      "duration_ms": 244444,
-      "name": "New York",
-      "url": "https://open.spotify.com/track/71Ohbh25hv8SzzZCfq8i4B"
-    },
-    {
       "added_at": "2023-08-02 16:36:34",
       "album": {
         "name": "Sound of Silver",
@@ -1245,6 +1245,22 @@
       "url": "https://open.spotify.com/track/6i5tYaGlOFDLILEB6HfJAa"
     },
     {
+      "added_at": "2023-08-02 18:42:29",
+      "album": {
+        "name": "New York / LA Hex",
+        "url": "https://open.spotify.com/album/1cDeSZLnliZgQ07a6VvDAK"
+      },
+      "artists": [
+        {
+          "name": "The Kills",
+          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+        }
+      ],
+      "duration_ms": 244444,
+      "name": "New York",
+      "url": "https://open.spotify.com/track/71Ohbh25hv8SzzZCfq8i4B"
+    },
+    {
       "added_at": "2023-08-02 16:36:34",
       "album": {
         "name": "Treats",
@@ -1275,6 +1291,22 @@
       "duration_ms": 241466,
       "name": "Bruises",
       "url": "https://open.spotify.com/track/4mdyVTV7Tr5YDFnD2kvSM4"
+    },
+    {
+      "added_at": "2023-08-02 16:36:34",
+      "album": {
+        "name": "Made In The Dark",
+        "url": "https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "Ready For The Floor",
+      "url": "https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc"
     },
     {
       "added_at": "2023-08-02 16:36:34",
@@ -1311,22 +1343,6 @@
     {
       "added_at": "2023-08-02 16:36:34",
       "album": {
-        "name": "Made In The Dark",
-        "url": "https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ"
-      },
-      "artists": [
-        {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
-        }
-      ],
-      "duration_ms": 234240,
-      "name": "Ready For The Floor",
-      "url": "https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc"
-    },
-    {
-      "added_at": "2023-08-02 16:36:34",
-      "album": {
         "name": "Room On Fire",
         "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
       },
@@ -1359,22 +1375,6 @@
     {
       "added_at": "2023-08-02 16:36:34",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf"
-      },
-      "artists": [
-        {
-          "name": "Sky Ferreira",
-          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
-        }
-      ],
-      "duration_ms": 249906,
-      "name": "Everything Is Embarrassing",
-      "url": "https://open.spotify.com/track/70v5mCvyPRquTyU7qTIU81"
-    },
-    {
-      "added_at": "2023-08-02 16:36:34",
-      "album": {
         "name": "The Teaches of Peaches",
         "url": "https://open.spotify.com/album/6gFOrIOM2TwzoRvobkpn1a"
       },
@@ -1387,6 +1387,22 @@
       "duration_ms": 250693,
       "name": "Fuck the Pain Away",
       "url": "https://open.spotify.com/track/0NWWDumjD2TCrR6iV6ZFgR"
+    },
+    {
+      "added_at": "2023-08-02 16:36:34",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf"
+      },
+      "artists": [
+        {
+          "name": "Sky Ferreira",
+          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+        }
+      ],
+      "duration_ms": 249906,
+      "name": "Everything Is Embarrassing",
+      "url": "https://open.spotify.com/track/70v5mCvyPRquTyU7qTIU81"
     },
     {
       "added_at": "2023-08-02 16:36:34",
@@ -1571,22 +1587,6 @@
     {
       "added_at": "2023-08-02 16:36:34",
       "album": {
-        "name": "The Virgins",
-        "url": "https://open.spotify.com/album/2u24W1w4uHRgPUka8xhIvj"
-      },
-      "artists": [
-        {
-          "name": "The Virgins",
-          "url": "https://open.spotify.com/artist/6RNuLHIAlLt1FQHm03oEru"
-        }
-      ],
-      "duration_ms": 180120,
-      "name": "Rich Girls",
-      "url": "https://open.spotify.com/track/58F6iKkYdIccktJ8i8BuQQ"
-    },
-    {
-      "added_at": "2023-08-02 16:36:34",
-      "album": {
         "name": "Swim",
         "url": "https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O"
       },
@@ -1599,6 +1599,22 @@
       "duration_ms": 315585,
       "name": "Odessa",
       "url": "https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM"
+    },
+    {
+      "added_at": "2023-08-02 16:36:34",
+      "album": {
+        "name": "The Virgins",
+        "url": "https://open.spotify.com/album/2u24W1w4uHRgPUka8xhIvj"
+      },
+      "artists": [
+        {
+          "name": "The Virgins",
+          "url": "https://open.spotify.com/artist/6RNuLHIAlLt1FQHm03oEru"
+        }
+      ],
+      "duration_ms": 180120,
+      "name": "Rich Girls",
+      "url": "https://open.spotify.com/track/58F6iKkYdIccktJ8i8BuQQ"
     },
     {
       "added_at": "2023-08-02 16:36:34",
@@ -1631,22 +1647,6 @@
       "duration_ms": 192311,
       "name": "Nobody Move, Nobody Get Hurt",
       "url": "https://open.spotify.com/track/0iUano4euaiUETVUd1u0cx"
-    },
-    {
-      "added_at": "2023-08-02 16:36:34",
-      "album": {
-        "name": "Classics",
-        "url": "https://open.spotify.com/album/7cKqnavORKemYZ41wFtx5J"
-      },
-      "artists": [
-        {
-          "name": "Ratatat",
-          "url": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
-        }
-      ],
-      "duration_ms": 260173,
-      "name": "Wildcat",
-      "url": "https://open.spotify.com/track/0wP9okoDWmbeC2w9E8ZzPu"
     }
   ],
   "unique_name": "Indie Sleaze",

@@ -2,7 +2,7 @@
 
 ### [Hot Hits Maghreb](https://open.spotify.com/playlist/37i9dQZF1DWYHO8PTSQ9fM)
 
-> Les hits du moment sont ici\. Cover : Lartiste
+> Les hits du moment sont ici\. Cover : DYSTINCT
 
 200 songs - 10 hr 57 min
 

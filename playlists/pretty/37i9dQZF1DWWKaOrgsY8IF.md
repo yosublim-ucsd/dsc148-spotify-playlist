@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKaOrgsY8IF.md) - [plain]
 
 > Las mejores canciones de pop latino durante el 2020\. En portada: Camilo
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,555 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,574 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKaOrgsY8IF.md) - [plain]
 | 4 | [PORFA](https://open.spotify.com/track/4TOmcZvw0gHa7GiXRbcYAW) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [FERXXO \(VOL 1: M.O.R\)](https://open.spotify.com/album/3js3vnaiDDghVu9ADH93Q5) | 3:52 |
 | 5 | [Ayer Me Llamó Mi Ex](https://open.spotify.com/track/3ef2QlCUWO29UvqJaU3MUi) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Lenny Santos](https://open.spotify.com/artist/4bODqflR0Wo3i3fCwwCIPq) | [Ayer Me Llamó Mi Ex](https://open.spotify.com/album/3ryXum3u0sEV2f6oBHXI22) | 3:26 |
 | 6 | [Cuando Nadie Ve](https://open.spotify.com/track/71iAechwVKGu26pahzFL0k) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Balas Perdidas](https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8) | 3:39 |
-| 7 | [Inolvidable](https://open.spotify.com/track/0OTtnwUO8natNWSwdZvXVF) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Inolvidable](https://open.spotify.com/album/3MdsEVhC9AMtDTXB8n2yXI) | 3:45 |
-| 8 | [Loco](https://open.spotify.com/track/2J9B63FawlTaPdg4eH5X03) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Loco](https://open.spotify.com/album/1uFr2PCsnDVZ71AiJnZYrb) | 3:24 |
+| 7 | [Loco](https://open.spotify.com/track/2J9B63FawlTaPdg4eH5X03) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Loco](https://open.spotify.com/album/1uFr2PCsnDVZ71AiJnZYrb) | 3:24 |
+| 8 | [Inolvidable](https://open.spotify.com/track/0OTtnwUO8natNWSwdZvXVF) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Inolvidable](https://open.spotify.com/album/3MdsEVhC9AMtDTXB8n2yXI) | 3:45 |
 | 9 | [El Mismo Aire \- con Pablo Alborán](https://open.spotify.com/track/5EbtodsuLbxrFDH6j5avVS) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [El Mismo Aire \(con Pablo Alborán\)](https://open.spotify.com/album/3E3coJkwv6rbqUTiw1qLZ6) | 3:08 |
 | 10 | [UN DIA \(ONE DAY\) \(Feat\. Tainy\)](https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [UN DIA \(ONE DAY\) \(Feat\. Tainy\)](https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr) | 3:52 |
 | 11 | [La Bella y la Bestia](https://open.spotify.com/track/0G0p7mc4wEaQTsUpzEmkEs) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [La Bella y la Bestia](https://open.spotify.com/album/71i8oV332P87FwYsKeoAsR) | 3:06 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKaOrgsY8IF.md) - [plain]
 | 59 | [Me Equivocaré](https://open.spotify.com/track/4500Dr4dVfnQiMjaTC4oIq) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [Me Equivocaré](https://open.spotify.com/album/3kJtYTn44STQqsO6A1vF2b) | 2:32 |
 | 60 | [Conocerte](https://open.spotify.com/track/1U4xYstX4dcJbjlGZ3sQy9) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [La Mexicana](https://open.spotify.com/album/3jvseqHtHdkQXMWDjsoT4C) | 2:56 |
 
-Snapshot ID: `MCxkZjBlM2MyNDc3MGE2M2NkMDgyYjZmYWRjODk0MmI5YTJlNGNkOGNh`
+Snapshot ID: `MCwwOWJhYTAxN2NmNWMwZmIyNWYxZDQ2MTZjMTA3M2I5MjE5MjIyZjc4`

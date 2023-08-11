@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoYRQ4LfQJ.md) - [plain]
 
 > The hottest corridos in the US! Bien Al Tiro con Fuerza Regida
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,681 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,857 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoYRQ4LfQJ.md) - [plain]
 | 40 | [Como Es Arriba Es Abajo](https://open.spotify.com/track/0Dn0h4YdPvM4v0HNdgnyeP) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG) | [Como Es Arriba Es Abajo](https://open.spotify.com/album/5AEvjmTHKQsk1uQr2MCreb) | 2:45 |
 | 41 | [El Vago De Los Nike](https://open.spotify.com/track/2nYAQN9ZGvoED0N4er1Lt1) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [Vive Y Dejame Vivir](https://open.spotify.com/album/1MyVogY0FXlgs1qtDGk7OK) | 2:56 |
 | 42 | [El Belicon](https://open.spotify.com/track/5bU6rOWXTwagpjUcGp7I8N) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Raul Vega](https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9) | [El Belicón](https://open.spotify.com/album/6JkrkH0UYCBE6uHrfP2Aur) | 3:34 |
-| 43 | [El Ruddy](https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 3:03 |
-| 44 | [Yo Preferí Chambear](https://open.spotify.com/track/2WtrZ4LQ2DV07LFyuYCZUN) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Yo Preferí Chambear](https://open.spotify.com/album/7bfhhIUTZM28cU5yDbHkeb) | 2:35 |
+| 43 | [Yo Preferí Chambear](https://open.spotify.com/track/2WtrZ4LQ2DV07LFyuYCZUN) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Yo Preferí Chambear](https://open.spotify.com/album/7bfhhIUTZM28cU5yDbHkeb) | 2:35 |
+| 44 | [El Ruddy](https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 3:03 |
 | 45 | [La Escuela No Me Gustó](https://open.spotify.com/track/4qArKIA7dnmdushoBlkV94) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE) | [Señalado por Costumbre](https://open.spotify.com/album/0zwj2mx5EeRPkdU9r9yeXs) | 2:56 |
 | 46 | [Aerolínea Carrillo](https://open.spotify.com/track/0xYTyyfV767E2Vn3hz56kL) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [The Green Trip](https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F) | 2:54 |
 | 47 | [Todos Hablan, Nada Saben](https://open.spotify.com/track/0SIooo95Kba3UwPBRUOcmd) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu) | [Todos Hablan, Nada Saben](https://open.spotify.com/album/1hAHT5gZfRLDYh0sZaTnDK) | 2:43 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoYRQ4LfQJ.md) - [plain]
 | 74 | [El Circo](https://open.spotify.com/track/66SvxvblhUIEL6awyLMGL2) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Circo](https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq) | 2:17 |
 | 75 | [A Lo Lejos Me Veran](https://open.spotify.com/track/3VHtIuKm8MvOTo81Usu2f5) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.1](https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5) | 2:28 |
 | 76 | [Desde Morro](https://open.spotify.com/track/5u6lAvdS8mmHHTHQlC3TtN) | [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO) | [Desde Morro](https://open.spotify.com/album/6ruqxBlrH2BEZKZjgG3hSS) | 2:26 |
-| 77 | [Gracias \- En Vivo](https://open.spotify.com/track/2XlGKZNMkRKvEJsbwQ6MCl) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [Gracias \(En Vivo\)](https://open.spotify.com/album/1J5sBLRkJnpnXOYK31M2ad) | 3:55 |
-| 78 | [Tirando la H](https://open.spotify.com/track/0SLnqaBaYLFH3ncId7ClCU) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Tirando la H](https://open.spotify.com/album/7uyYaGMsVlUEF0Uc10zyod) | 1:59 |
+| 77 | [Tirando la H](https://open.spotify.com/track/0SLnqaBaYLFH3ncId7ClCU) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Tirando la H](https://open.spotify.com/album/7uyYaGMsVlUEF0Uc10zyod) | 1:59 |
+| 78 | [Gracias \- En Vivo](https://open.spotify.com/track/2XlGKZNMkRKvEJsbwQ6MCl) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [Gracias \(En Vivo\)](https://open.spotify.com/album/1J5sBLRkJnpnXOYK31M2ad) | 3:55 |
 | 79 | [Por Si Acaso](https://open.spotify.com/track/0FBQk9b2mveexdjaiZhySz) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Grupo Triple L](https://open.spotify.com/artist/63VkI7oaQL2Ou1KH9FhN3k) | [Por Si Acaso](https://open.spotify.com/album/3bhs4igaxstdRBeZHfahiP) | 3:18 |
 | 80 | [La Chapiza](https://open.spotify.com/track/4cbrG70rLLAnWy0Q86FRgL) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [La Chapiza](https://open.spotify.com/album/7ieAksoGopSGThjXsE6Djr) | 2:32 |
 | 81 | [Fumando Mota](https://open.spotify.com/track/2ytQws1jfyFcY2K2MDUfzd) | [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [Desde la Raíz](https://open.spotify.com/album/0QUTQD8QwyAuI1znIdT02Y) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoYRQ4LfQJ.md) - [plain]
 | 99 | [Tan Solo Morro](https://open.spotify.com/track/5eBzDfTG7m8NUWf14YYQcU) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Tan Solo Morro](https://open.spotify.com/album/1LmawVjg3zfR7kcPZ8SIjG) | 2:24 |
 | 100 | [Jalo y Exhalo](https://open.spotify.com/track/5STfIC4lCW6Q3jYbr6L77n) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [David Bernal](https://open.spotify.com/artist/01PvcAK6gaCKljM22XKxTS), [Ruben Figueroa](https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg) | [Jalo y Exhalo](https://open.spotify.com/album/555L1PT7iC06mQEl8I2vjZ) | 2:33 |
 
-Snapshot ID: `MCw3OTQwYzg1ZTlhMGMwMzQ2MjE2MDE3N2U4M2VlODllMTQ4OGViYWI2`
+Snapshot ID: `MCxhNWM2YjlkNjUwNGE0MWNjMmIyM2ZjOWRmZWM2ZWMyMzY3YzZkOWNk`

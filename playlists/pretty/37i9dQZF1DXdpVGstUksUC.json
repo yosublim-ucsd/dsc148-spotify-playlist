@@ -1,12 +1,12 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 523708,
+  "num_followers": 523980,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDU3ZDI2OWZlOTllNWRhZWIxZDgxZDY0ODE3MTZhOTBlM2U3NTJi",
+  "snapshot_id": "MCxhYjIzMDE5YWMxMTVlMzI1NGY3NGZiNGVhYTJmNTFkZGM0YTMxMzdl",
   "tracks": [
     {
       "added_at": "2023-07-21 04:01:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Gravity X",
-        "url": "https://open.spotify.com/album/7JPXSQ3BJGE67TgYpUQKcV"
-      },
-      "artists": [
-        {
-          "name": "Truckfighters",
-          "url": "https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h"
-        }
-      ],
-      "duration_ms": 449946,
-      "name": "Desert Cruiser",
-      "url": "https://open.spotify.com/track/41cBKTG12qtlYEgQRBqOaq"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
         "name": "Legend",
         "url": "https://open.spotify.com/album/0SarnHDFSff7x2ziE4Ajrp"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 309986,
       "name": "Deconstruction",
       "url": "https://open.spotify.com/track/0IOu6NlseiiSm1VaEEbVOt"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Gravity X",
+        "url": "https://open.spotify.com/album/7JPXSQ3BJGE67TgYpUQKcV"
+      },
+      "artists": [
+        {
+          "name": "Truckfighters",
+          "url": "https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h"
+        }
+      ],
+      "duration_ms": 449946,
+      "name": "Desert Cruiser",
+      "url": "https://open.spotify.com/track/41cBKTG12qtlYEgQRBqOaq"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "The No. 6 Dance",
-        "url": "https://open.spotify.com/album/3V1vwPwJmuY0hJHf8Qac5J"
-      },
-      "artists": [
-        {
-          "name": "Five Horse Johnson",
-          "url": "https://open.spotify.com/artist/4lFmtj9tVIuMIjUllILQPl"
-        }
-      ],
-      "duration_ms": 214600,
-      "name": "Mississippi King",
-      "url": "https://open.spotify.com/track/44MBgTjYSZUIqq6KoBEcsD"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
         "name": "Head Smashed In",
         "url": "https://open.spotify.com/album/0ISNJ9yB6tvbXX995axuv5"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 290949,
       "name": "Heavy Low",
       "url": "https://open.spotify.com/track/1tc9LPy7w9C58Vs4dqgB9T"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "The No. 6 Dance",
+        "url": "https://open.spotify.com/album/3V1vwPwJmuY0hJHf8Qac5J"
+      },
+      "artists": [
+        {
+          "name": "Five Horse Johnson",
+          "url": "https://open.spotify.com/artist/4lFmtj9tVIuMIjUllILQPl"
+        }
+      ],
+      "duration_ms": 214600,
+      "name": "Mississippi King",
+      "url": "https://open.spotify.com/track/44MBgTjYSZUIqq6KoBEcsD"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Vols. 11 & 12",
-        "url": "https://open.spotify.com/album/0uF5YOmnKbNzMgNjn2Rhc3"
-      },
-      "artists": [
-        {
-          "name": "Desert Sessions",
-          "url": "https://open.spotify.com/artist/62cvIQKyg3aHsHNgPxzGPT"
-        }
-      ],
-      "duration_ms": 333859,
-      "name": "Noses in Roses, Forever",
-      "url": "https://open.spotify.com/track/4tPTqcJWt67CGJLro27pwe"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
         "name": "From the Ages",
         "url": "https://open.spotify.com/album/3H0DAHNLi9Jp6fs5YnVPv9"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 848346,
       "name": "Uluru Rock",
       "url": "https://open.spotify.com/track/6NitnfUkmFWyCvvi9zUZmu"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Vols. 11 & 12",
+        "url": "https://open.spotify.com/album/0uF5YOmnKbNzMgNjn2Rhc3"
+      },
+      "artists": [
+        {
+          "name": "Desert Sessions",
+          "url": "https://open.spotify.com/artist/62cvIQKyg3aHsHNgPxzGPT"
+        }
+      ],
+      "duration_ms": 333859,
+      "name": "Noses in Roses, Forever",
+      "url": "https://open.spotify.com/track/4tPTqcJWt67CGJLro27pwe"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Dopethrone",
-        "url": "https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO"
-      },
-      "artists": [
-        {
-          "name": "Electric Wizard",
-          "url": "https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4"
-        }
-      ],
-      "duration_ms": 389466,
-      "name": "Barbarian",
-      "url": "https://open.spotify.com/track/31M6kB16yl4F2Y82M7HrWa"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
         "name": "Only a Suggestion",
         "url": "https://open.spotify.com/album/6g4e3epvCUwb3RZ3cJ3G7O"
       },
@@ -1211,18 +1195,18 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Old Gods",
-        "url": "https://open.spotify.com/album/5cFsLTBGGzrVYtUY89XmQM"
+        "name": "Dopethrone",
+        "url": "https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO"
       },
       "artists": [
         {
-          "name": "Valley of the Sun",
-          "url": "https://open.spotify.com/artist/3OX4skiU9o7fxdi5Li7k5l"
+          "name": "Electric Wizard",
+          "url": "https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4"
         }
       ],
-      "duration_ms": 360800,
-      "name": "Old Gods",
-      "url": "https://open.spotify.com/track/203vkEu6B8lrR1cyLgKp80"
+      "duration_ms": 389466,
+      "name": "Barbarian",
+      "url": "https://open.spotify.com/track/31M6kB16yl4F2Y82M7HrWa"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -1239,6 +1223,22 @@
       "duration_ms": 301973,
       "name": "Moonage Daydream",
       "url": "https://open.spotify.com/track/7cUnYzb4Hf1dg0LmYIY0QG"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Old Gods",
+        "url": "https://open.spotify.com/album/5cFsLTBGGzrVYtUY89XmQM"
+      },
+      "artists": [
+        {
+          "name": "Valley of the Sun",
+          "url": "https://open.spotify.com/artist/3OX4skiU9o7fxdi5Li7k5l"
+        }
+      ],
+      "duration_ms": 360800,
+      "name": "Old Gods",
+      "url": "https://open.spotify.com/track/203vkEu6B8lrR1cyLgKp80"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "High Volume: The Stoner Rock Collection",
-        "url": "https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x"
-      },
-      "artists": [
-        {
-          "name": "Unida",
-          "url": "https://open.spotify.com/artist/3c7hgCjTsDwzaKq0E37EmF"
-        }
-      ],
-      "duration_ms": 346116,
-      "name": "Left Us To Mold",
-      "url": "https://open.spotify.com/track/48RCrsAtJ9HIKu95EwWoOt"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
         "name": "Into Submission",
         "url": "https://open.spotify.com/album/4B9cytDNyVkzr4PFtN1SSq"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 267493,
       "name": "Superhuman God",
       "url": "https://open.spotify.com/track/5LpchRWh4lgFh3uNThdKrh"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "High Volume: The Stoner Rock Collection",
+        "url": "https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x"
+      },
+      "artists": [
+        {
+          "name": "Unida",
+          "url": "https://open.spotify.com/artist/3c7hgCjTsDwzaKq0E37EmF"
+        }
+      ],
+      "duration_ms": 346116,
+      "name": "Left Us To Mold",
+      "url": "https://open.spotify.com/track/48RCrsAtJ9HIKu95EwWoOt"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
+        "name": "A Drug Problem That Never Existed",
+        "url": "https://open.spotify.com/album/4WrxSGxM0V4ZnxPTQzmtJo"
+      },
+      "artists": [
+        {
+          "name": "Mondo Generator",
+          "url": "https://open.spotify.com/artist/5Ug0EkTXplXiip0C2OzVi7"
+        }
+      ],
+      "duration_ms": 155066,
+      "name": "So High, So Low",
+      "url": "https://open.spotify.com/track/0AxthAxmqrWe4OYd3KR0zq"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
         "name": "Buffalo Fuzz",
         "url": "https://open.spotify.com/album/23lj3u3NTE5KgGvPeWPbrW"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 391160,
       "name": "To the Center",
       "url": "https://open.spotify.com/track/4zm12OCIf4V602lohbl6TY"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "A Drug Problem That Never Existed",
-        "url": "https://open.spotify.com/album/4WrxSGxM0V4ZnxPTQzmtJo"
-      },
-      "artists": [
-        {
-          "name": "Mondo Generator",
-          "url": "https://open.spotify.com/artist/5Ug0EkTXplXiip0C2OzVi7"
-        }
-      ],
-      "duration_ms": 155066,
-      "name": "So High, So Low",
-      "url": "https://open.spotify.com/track/0AxthAxmqrWe4OYd3KR0zq"
     },
     {
       "added_at": "2023-07-21 04:01:00",

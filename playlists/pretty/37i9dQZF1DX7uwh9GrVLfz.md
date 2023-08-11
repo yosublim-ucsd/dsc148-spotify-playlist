@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: ハルカミライ \(Haruka Mirai\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,531 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,593 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 68 | [ストラトキャスター・シーサイド](https://open.spotify.com/track/2BSEWKPGXooXHbDDle1noH) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [ストラトキャスター・シーサイド](https://open.spotify.com/album/0QByJcApTQCzRS2EvWy4gx) | 3:17 |
 | 69 | [ハッピーライフ](https://open.spotify.com/track/3IKUuAJghlmAkjBKbXaGjS) | [175R](https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI) | [175R BEST 「ANNIVERSARY 1998\-2018」](https://open.spotify.com/album/6pmrSKNlVCLwIbG8Mi7E4A) | 3:29 |
 | 70 | ["Let it die \-Subete wa isutori game\-" \(Let it die \-All is musical chairs\-\)](https://open.spotify.com/track/2TAxUxm124Yt8hvtUS9oXi) | [PAN](https://open.spotify.com/artist/2YKxuLK7kkCTYnTkX4O17T) | [Goo Goo Goo](https://open.spotify.com/album/7xgE9X3dQw5GBMognMf1oE) | 3:12 |
-| 71 | [The Gift](https://open.spotify.com/track/3fvPawYrM5Mz5lacbZI2US) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [THE GIFT](https://open.spotify.com/album/6tSVeeeeJkdMN6mIV4UqsD) | 2:22 |
-| 72 | [Open Up My Heart](https://open.spotify.com/track/45KpSMzfMaPpCDfS4zMeCV) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [BLOOMING](https://open.spotify.com/album/2XQmTky0Y8phmyKDurxUDN) | 3:41 |
+| 71 | [Open Up My Heart](https://open.spotify.com/track/45KpSMzfMaPpCDfS4zMeCV) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [BLOOMING](https://open.spotify.com/album/2XQmTky0Y8phmyKDurxUDN) | 3:41 |
+| 72 | [The Gift](https://open.spotify.com/track/3fvPawYrM5Mz5lacbZI2US) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [THE GIFT](https://open.spotify.com/album/6tSVeeeeJkdMN6mIV4UqsD) | 2:22 |
 | 73 | [Blooming the Tank\-top](https://open.spotify.com/track/2vBvV18PwrlUhTm9jaxhh6) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [Tank\-top Flower for Friends](https://open.spotify.com/album/2Ll3DZYOR4UKeswV5TADhu) | 2:12 |
 | 74 | [SMOKIN' BILLY](https://open.spotify.com/track/6pjCT2TfxXdoNSMmWIkBA8) | [Thee Michelle Gun Elephant](https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX) | [GEAR BLUES](https://open.spotify.com/album/7gUem4NLZn4NKR0d5IVeOJ) | 3:27 |
 | 75 | [Brand New Day](https://open.spotify.com/track/0b2j6FUGUgMgrdMEDmu0RC) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Fresh Cheese Delivery](https://open.spotify.com/album/04dxT90eA6LOzUjMOxej12) | 1:48 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 77 | [Rain](https://open.spotify.com/track/0oVtFtmOBfVfINJRNHx0h0) | [Pay money To my Pain](https://open.spotify.com/artist/07BBdQ03C1t2EPSQ7AeAJw) | [gene](https://open.spotify.com/album/6jP0ywNIkiQr9IWwZ2Q0A4) | 5:21 |
 | 78 | [NAME](https://open.spotify.com/track/38b2nMKtd1qiVBkULMQti2) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [RARA](https://open.spotify.com/album/6vV4OJGtCjvJD6OdaoCQ9c) | 3:55 |
 | 79 | [PARTY PARTY](https://open.spotify.com/track/1UJ85UjmaZGw1Xolf5mGTS) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [Wicked and Naked](https://open.spotify.com/album/3QQYI3nyuD3vinb0VJetFH) | 3:39 |
-| 80 | [Dance all night my friends](https://open.spotify.com/track/65yT4lhXarJZo0jVLfH8k5) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [EVERYNIGHT](https://open.spotify.com/album/1zkWG461a3ppXEP5hhSGtK) | 2:45 |
-| 81 | [PARDON?](https://open.spotify.com/track/7l6yDpU2vIDXFQpdEYgpNO) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [Super Champon](https://open.spotify.com/album/23oUTiqIPyiA42tXNsIzis) | 1:45 |
+| 80 | [PARDON?](https://open.spotify.com/track/7l6yDpU2vIDXFQpdEYgpNO) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [Super Champon](https://open.spotify.com/album/23oUTiqIPyiA42tXNsIzis) | 1:45 |
+| 81 | [Dance all night my friends](https://open.spotify.com/track/65yT4lhXarJZo0jVLfH8k5) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [EVERYNIGHT](https://open.spotify.com/album/1zkWG461a3ppXEP5hhSGtK) | 2:45 |
 | 82 | [情熱たましい](https://open.spotify.com/track/4HUGJkUteNRGnyr2GVFYRp) | [B\-DASH](https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz) | [ビッグ ブラック ストア\(連絡しろ\)](https://open.spotify.com/album/1f5YEXI4Ezn2NEGOr0LdlU) | 3:07 |
 | 83 | [Steady](https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:30 |
 | 84 | [MIND YOUR STEP!](https://open.spotify.com/track/2knIZVDFSEefwgTzWF4i5T) | [Snail Ramp](https://open.spotify.com/artist/1FXeQKrufIqfjNAPPV4bfx) | [TRACK\~Single Collection&More](https://open.spotify.com/album/5ZHhiDzLxrDeZnRtr5z9Ca) | 3:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 99 | [PLAYBACK](https://open.spotify.com/track/7wjPmEzFs2skCMKaXeYzks) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [PLAY](https://open.spotify.com/album/6qq2rGeaSuxtn4szFhLMVg) | 4:14 |
 | 100 | [Better Left Unsaid](https://open.spotify.com/track/1mBUIIEyK9jRMnY9cGknNH) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Better Left Unsaid](https://open.spotify.com/album/0Bvhx5LTA2K3XWAXqrypCj) | 3:26 |
 
-Snapshot ID: `MCxhYzUyYzczOTIwMjQ0ZGM0YWFlMDc2YWY3Yjg1MTgzMGQ4M2Q1NmRk`
+Snapshot ID: `MCwyNGU1M2QzNmIzNGJkZmVhMDExYzc3ZjdhZTEyYjNjM2U2NjExMzA4`

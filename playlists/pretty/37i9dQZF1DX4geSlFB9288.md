@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4geSlFB9288.md) - [plain]
 
 > Indie music to keep your gaming session properly soundtracked.
 
-[Spotify](https://open.spotify.com/user/spotify) - 660,782 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 661,136 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4geSlFB9288.md) - [plain]
 | 12 | [Daddy Issues](https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Wiped Out!](https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF) | 4:20 |
 | 13 | [SLOW DANCING IN THE DARK](https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 3:29 |
 | 14 | [Borderline](https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:57 |
-| 15 | [Christmas Kids](https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 2:15 |
-| 16 | [Apocalypse](https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 4:50 |
+| 15 | [Apocalypse](https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 4:50 |
+| 16 | [Christmas Kids](https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 2:15 |
 | 17 | [Chamber Of Reflection](https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/2sij95QgjmgrhNv33achzn) | 3:51 |
 | 18 | [YKWIM?](https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/60jUlxAOAcsiQUEW0XLroT) | 3:32 |
 | 19 | [Alien Blues](https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Gawk](https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh) | 2:35 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4geSlFB9288.md) - [plain]
 | 46 | [Chandelier](https://open.spotify.com/track/1cwqP7Tyxu5z8XDYoPkNte) | [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [Chandelier](https://open.spotify.com/album/1VC4P7rm1o3aYlYVYFkpGF) | 2:07 |
 | 47 | [Phone Numbers](https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Phone Numbers](https://open.spotify.com/album/6RhSCF1Z3g95Q1rZWqpUdT) | 2:26 |
 | 48 | [Stargazing](https://open.spotify.com/track/0VF7YLIxSQKyNiFL3X6MmN) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Chip Chrome & The Mono\-Tones \(Deluxe\)](https://open.spotify.com/album/2JyArayVlT6t3MVWLLdSwZ) | 3:37 |
-| 49 | [AMAZING](https://open.spotify.com/track/3OM6qQmdFV6uy61GIqpRtf) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:29 |
-| 50 | [Come a Little Closer](https://open.spotify.com/track/4sebUbjqbcgDSwG6PbSGI0) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:49 |
+| 49 | [Come a Little Closer](https://open.spotify.com/track/4sebUbjqbcgDSwG6PbSGI0) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:49 |
+| 50 | [AMAZING](https://open.spotify.com/track/3OM6qQmdFV6uy61GIqpRtf) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:29 |
 | 51 | [Breezeblocks](https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:47 |
 | 52 | [In My Head](https://open.spotify.com/track/5vwXQUwkpmnkJrfv69L6Mp) | [Bedroom](https://open.spotify.com/artist/7COP1HCvVq1cIpZcLQYoNe) | [In My Head](https://open.spotify.com/album/3okCOhHlfrEPaHZIIUo04l) | 5:54 |
 | 53 | [Cherry Wine](https://open.spotify.com/track/5o5WaO9pzPhXSGIrTIYVce) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Cherry Wine](https://open.spotify.com/album/0m3xqY9mNxOakhzLMipjKl) | 2:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4geSlFB9288.md) - [plain]
 | 99 | [thankful](https://open.spotify.com/track/6DRCs3oOkPYa1NHdgjwHcZ) | [Meltycanon](https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC) | [Old Compilation 3](https://open.spotify.com/album/7CYCQNeHoMWXQXg9NzqTyM) | 2:26 |
 | 100 | [Back to the Start](https://open.spotify.com/track/5TdgnDOtgNJRCxjrTVAwks) | [Superfan](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Back to the Start](https://open.spotify.com/album/7cZsw4SlFBI5SzgaagTQe1) | 3:23 |
 
-Snapshot ID: `MCw3YzU4Zjk5YzBiOTRiMzgyOGQ1MjFmZmY0NTNjZGNkZjk2ZDc0NDdm`
+Snapshot ID: `MCxlNDJlM2VkYmJjZDAyZmI1NDg3MDA5OWZjMWRlZDI5MjBjMDg3ZTFh`

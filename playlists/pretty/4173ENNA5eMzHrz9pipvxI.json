@@ -1,13 +1,61 @@
 {
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Bolier",
-  "num_followers": 121521,
+  "num_followers": 121530,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "Njc0MywzM2YzZjZmMDhjZWU1Y2NlNDVjNDkwYzA0N2JmYjY1MDY3YmQ1MDIw",
+  "snapshot_id": "Njc1NixjNGZkNjkwMDA4ZDZiZThjYjIwZWNlOGY3MmU0NGI4NWIzZjY2Mzky",
   "tracks": [
+    {
+      "added_at": "2023-08-10 22:05:00",
+      "album": {
+        "name": "Eternity",
+        "url": "https://open.spotify.com/album/1JjGogI2XIeKZK0UOSJQaY"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        }
+      ],
+      "duration_ms": 135428,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/3aNxfCcd9EohIxKmcQv1zn"
+    },
+    {
+      "added_at": "2023-08-10 22:05:00",
+      "album": {
+        "name": "The Ones We Lost",
+        "url": "https://open.spotify.com/album/0iXsr7jn8kMxWhZtrrTiU0"
+      },
+      "artists": [
+        {
+          "name": "Brandon Beal",
+          "url": "https://open.spotify.com/artist/7p2aOXY5bfHyjujI3fCWTu"
+        },
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        },
+        {
+          "name": "Lizzy Wang",
+          "url": "https://open.spotify.com/artist/5bqSaq38eVpgUktEQLcPNp"
+        }
+      ],
+      "duration_ms": 177500,
+      "name": "The Ones We Lost",
+      "url": "https://open.spotify.com/track/0mn7ACXua8RURpzTUlejzH"
+    },
     {
       "added_at": "2023-08-03 22:05:00",
       "album": {
@@ -45,6 +93,58 @@
       "url": "https://open.spotify.com/track/6i01aKCm7afBk60sPMiCJW"
     },
     {
+      "added_at": "2023-08-10 22:05:00",
+      "album": {
+        "name": "Magic Dragon",
+        "url": "https://open.spotify.com/album/680RPEG7DPzLUJLaWxLKWH"
+      },
+      "artists": [
+        {
+          "name": "Pickle",
+          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
+        }
+      ],
+      "duration_ms": 174375,
+      "name": "Magic Dragon",
+      "url": "https://open.spotify.com/track/1RnialRqBVTZL6QGDpM5GO"
+    },
+    {
+      "added_at": "2023-08-10 22:05:00",
+      "album": {
+        "name": "Stars Align",
+        "url": "https://open.spotify.com/album/5Sdr1goQQ2FwQDLDTWdlGJ"
+      },
+      "artists": [
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "HEADER",
+          "url": "https://open.spotify.com/artist/7odWcvukhtSCQY2pBN7YT0"
+        }
+      ],
+      "duration_ms": 175238,
+      "name": "Stars Align",
+      "url": "https://open.spotify.com/track/6WmdR2F7np0h1D21IvsLoK"
+    },
+    {
+      "added_at": "2023-08-10 22:05:00",
+      "album": {
+        "name": "Aftershock",
+        "url": "https://open.spotify.com/album/0nYypyR95zK8VjucsAL6h7"
+      },
+      "artists": [
+        {
+          "name": "VIVID",
+          "url": "https://open.spotify.com/artist/3VcAPpkjFtd3Sj5fmqPQd1"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "Aftershock",
+      "url": "https://open.spotify.com/track/2v7HsarFHSkryVbjiWun6s"
+    },
+    {
       "added_at": "2023-08-03 22:05:00",
       "album": {
         "name": "Bad Things (feat. PENELOPE)",
@@ -71,6 +171,22 @@
       "duration_ms": 162187,
       "name": "Bad Things (feat. PENELOPE)",
       "url": "https://open.spotify.com/track/6qJJpMnGoimAmxlHBybGYc"
+    },
+    {
+      "added_at": "2023-08-10 22:05:00",
+      "album": {
+        "name": "I Can Feel It",
+        "url": "https://open.spotify.com/album/6Y80nrIwbNnJKAsRjhe7jV"
+      },
+      "artists": [
+        {
+          "name": "Felguk",
+          "url": "https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf"
+        }
+      ],
+      "duration_ms": 173334,
+      "name": "I Can Feel It",
+      "url": "https://open.spotify.com/track/6gJoL56dfaOwv5nZ8gunrz"
     },
     {
       "added_at": "2023-08-03 22:05:02",
@@ -153,6 +269,26 @@
       "url": "https://open.spotify.com/track/6bY2RDT9xWSfgODfa7Jdm9"
     },
     {
+      "added_at": "2023-08-10 22:05:00",
+      "album": {
+        "name": "Want My Lovin'",
+        "url": "https://open.spotify.com/album/40zBuu0Kq1JiHsnEVFsVbZ"
+      },
+      "artists": [
+        {
+          "name": "Marvel Riot",
+          "url": "https://open.spotify.com/artist/5cI4WAoXtZwW7uz55thjkZ"
+        },
+        {
+          "name": "MOYA",
+          "url": "https://open.spotify.com/artist/7EyM0gQyMeaeQzslOFZaCq"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Want My Lovin'",
+      "url": "https://open.spotify.com/track/1VxzTXiHEBMTOsu72RMsLQ"
+    },
+    {
       "added_at": "2023-08-03 22:05:00",
       "album": {
         "name": "Holland",
@@ -173,6 +309,30 @@
       "url": "https://open.spotify.com/track/431O6PfFp695x3TQqZRiBN"
     },
     {
+      "added_at": "2023-08-10 22:05:00",
+      "album": {
+        "name": "Good Times (feat. Gemaine)",
+        "url": "https://open.spotify.com/album/5Qwq14opkryLpZyATalmrq"
+      },
+      "artists": [
+        {
+          "name": "Bingo Players",
+          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
+        },
+        {
+          "name": "Stadiumx",
+          "url": "https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH"
+        },
+        {
+          "name": "Gemaine",
+          "url": "https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03"
+        }
+      ],
+      "duration_ms": 172191,
+      "name": "Good Times (feat. Gemaine)",
+      "url": "https://open.spotify.com/track/0TJBCAk17WAuJoLfDO7RFL"
+    },
+    {
       "added_at": "2023-08-03 22:05:00",
       "album": {
         "name": "Hold It!",
@@ -187,6 +347,26 @@
       "duration_ms": 198194,
       "name": "Hold It!",
       "url": "https://open.spotify.com/track/3X9SnxN9a2wIngzahD2UWa"
+    },
+    {
+      "added_at": "2023-08-10 22:05:00",
+      "album": {
+        "name": "Mutate",
+        "url": "https://open.spotify.com/album/7kGb7LpCX5jDu1huRIBoYJ"
+      },
+      "artists": [
+        {
+          "name": "SCNDL",
+          "url": "https://open.spotify.com/artist/3Y7sK4nACC8R7WwAUUumCL"
+        },
+        {
+          "name": "Vion Konger",
+          "url": "https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP"
+        }
+      ],
+      "duration_ms": 178235,
+      "name": "Mutate",
+      "url": "https://open.spotify.com/track/0mbvonNwlqWTz8IClUB7vk"
     },
     {
       "added_at": "2023-08-03 22:05:00",
@@ -205,6 +385,22 @@
       "url": "https://open.spotify.com/track/4VERVB0J7bnXu6Xr4SvM2g"
     },
     {
+      "added_at": "2023-08-10 22:05:00",
+      "album": {
+        "name": "Ruffneck Sound",
+        "url": "https://open.spotify.com/album/4yOfxfaE7xQmSaXjfRc2Xz"
+      },
+      "artists": [
+        {
+          "name": "Dr Phunk",
+          "url": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "Ruffneck Sound",
+      "url": "https://open.spotify.com/track/0QVF56A9dHRJh9iB7L5tZ5"
+    },
+    {
       "added_at": "2023-07-27 22:05:01",
       "album": {
         "name": "Still Cutting Shapes",
@@ -219,6 +415,22 @@
       "duration_ms": 148571,
       "name": "Still Cutting Shapes",
       "url": "https://open.spotify.com/track/5dFbW0PcNAm69j8Rnooc2I"
+    },
+    {
+      "added_at": "2023-08-10 22:05:00",
+      "album": {
+        "name": "Out Of Time",
+        "url": "https://open.spotify.com/album/1rGSOS9FOpxdTwYi1Yc4K1"
+      },
+      "artists": [
+        {
+          "name": "Dastic",
+          "url": "https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A"
+        }
+      ],
+      "duration_ms": 158571,
+      "name": "Out Of Time",
+      "url": "https://open.spotify.com/track/7wnpWargY5X5OI3FhBq24V"
     },
     {
       "added_at": "2023-07-27 22:05:00",
@@ -283,6 +495,22 @@
       "duration_ms": 156228,
       "name": "There It Is",
       "url": "https://open.spotify.com/track/4LLhcbeWg2V9ltOtEeaJie"
+    },
+    {
+      "added_at": "2023-08-10 22:05:00",
+      "album": {
+        "name": "Miss Me To Death",
+        "url": "https://open.spotify.com/album/1hv3oGxS5Nh5uNv9ydpHAs"
+      },
+      "artists": [
+        {
+          "name": "Wankelmut",
+          "url": "https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH"
+        }
+      ],
+      "duration_ms": 161165,
+      "name": "Miss Me To Death",
+      "url": "https://open.spotify.com/track/6IDiVnXCVub2SC1PpDKjeB"
     },
     {
       "added_at": "2023-07-28 07:09:56",

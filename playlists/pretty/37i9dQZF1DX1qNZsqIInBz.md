@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 
 > smooth drifting only
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,865 likes - 100 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,397 likes - 100 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 | 9 | [ZEMLYA](https://open.spotify.com/track/6ykmd9ifNFPlKFdjePXLUb) | [EDWXRDX](https://open.spotify.com/artist/7d0TKChRUOvzyn7UGzJR6N) | [ZEMLYA](https://open.spotify.com/album/4Oy3RyBfpG5G13efSVzLHG) | 2:24 |
 | 10 | [Sleepwalker](https://open.spotify.com/track/1IPHnu3hVkawJMzkP97tcm) | [akiaura](https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc), [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw), [STM](https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53) | [Ketamine Girl](https://open.spotify.com/album/6MW6qxThKOfnRVqFkxK0H2) | 3:32 |
 | 11 | [Aria Math](https://open.spotify.com/track/0QeYTfxC3BchP1Hzn5HGPd) | [bxkq](https://open.spotify.com/artist/65lEC99xqy295XmDhg1KtW), [HARDX](https://open.spotify.com/artist/6goAg9k3zJ2edlE7OtIkTn) | [Aria Math](https://open.spotify.com/album/4hIpj10UfZXzkhbocSxDXh) | 4:05 |
-| 12 | [Beat Mágico Que Mexe Com a Sua Mente \- Slowed](https://open.spotify.com/track/2gUNdKtSKZF4JlYvPkwW9Q) | [Ayparia](https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r), [Liodré](https://open.spotify.com/artist/1iFnL18VjckiZ512wVFapI), [unxbected](https://open.spotify.com/artist/5Jv8vC2RoInNR3CsxANXhS) | [Beat Mágico Que Mexe Com a Sua Mente](https://open.spotify.com/album/43zFYKD9jD4bcrPx5NaaBp) | 3:01 |
+| 12 | [Beat Mágico Que Mexe Com a Sua Mente \(Slowed\)](https://open.spotify.com/track/7dDnis2a3lqOXHYuSrdcVL) | [KMJ](https://open.spotify.com/artist/0yuBErKkIfxbvwd7eXaBEI) | [Beat Mágico Que Mexe Com a Sua Mente \(Slowed\)](https://open.spotify.com/album/3FdDZifanuNd6ju9m1zw5V) | 3:02 |
 | 13 | [EASY PEAZY](https://open.spotify.com/track/1e6ZXuLRtWnXhwvJftJYuB) | [ROMANTICA](https://open.spotify.com/artist/3Z2tyxT1pjQnZtkwGQngi6), [Lestmor](https://open.spotify.com/artist/3udoTlgIpeC1VAFeR8BcPK) | [EASY PEAZY](https://open.spotify.com/album/2gcyMDMKwpT4kpZ1HhITH8) | 2:49 |
 | 14 | [NIGHT PHONK](https://open.spotify.com/track/0ze8n8jr6UP7n09NKxWCWn) | [COWBELL DYNASTY](https://open.spotify.com/artist/0uwj2FxW7u0FCZRlB4j37p) | [NIGHT PHONK](https://open.spotify.com/album/0AcaL7E1MdTZsMCwRK4MQz) | 1:22 |
 | 15 | [GET AWAY II](https://open.spotify.com/track/3aI4COsiNptuCDITxvTRCq) | [MXRGX](https://open.spotify.com/artist/6gbsXeoeYTUXGlYlxcKAMP), [NERONUS](https://open.spotify.com/artist/2J5FeaNi5K4F9xml5lWD0L) | [GET AWAY II](https://open.spotify.com/album/7I7F1c3tOML8rUpki5pVfZ) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 | 99 | [Spacewave](https://open.spotify.com/track/2WzK3sBkdRm0VvfSKJjXCu) | [Confirmbackup](https://open.spotify.com/artist/6Da2INMo1oIn9flRNiIZqk) | [Spacewave](https://open.spotify.com/album/5BWydJ3ORPcf5Z7cCmFuyJ) | 3:26 |
 | 100 | [This Feeling](https://open.spotify.com/track/3vefdW0Zsk57Qn0qxXeVCI) | [my!lane](https://open.spotify.com/artist/5AEk8UqmJ2lCUG3xke82Or) | [Sakura's Shadows](https://open.spotify.com/album/2Ve9vOvILPIDomVfrFr4bH) | 2:43 |
 
-Snapshot ID: `MCw0MzFjNWJmOWEyNWVkODg2NmJmYzdmYTJjYjcyZjc2ZGZhZDUxMzAy`
+Snapshot ID: `MCxhOWE5ZjM4Njk1Y2EyMTFiNDkzZGM0YzNlNDk1NjUyMTRkMzU5ODZi`

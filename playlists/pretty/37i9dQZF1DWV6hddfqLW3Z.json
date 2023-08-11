@@ -1,12 +1,12 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 771412,
+  "num_followers": 771684,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjU3OTc2YmZmNjA3MjllZDc5Y2RkYjA0MzIyMDUzZDJhMDc4YTMw",
+  "snapshot_id": "MCwxNDI3NjMxZTg0ZjE4YjY4MWZmOTg4NWVkM2FjNDcxYjliMDdkZGJj",
   "tracks": [
     {
       "added_at": "2023-07-14 17:19:14",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-07-14 17:19:14",
       "album": {
+        "name": "Enciclop\u00e9dia Musical Brasileira",
+        "url": "https://open.spotify.com/album/1RBORtbwQzlPBgcYXErnZz"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 235080,
+      "name": "Brasil pandeiro",
+      "url": "https://open.spotify.com/track/4IIK7KvWCTSkVVRufxyh3d"
+    },
+    {
+      "added_at": "2023-07-14 17:19:14",
+      "album": {
         "name": "Reconstru\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4MaXnFPKQXHK7voqrWGEPn"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 197453,
       "name": "Petrified",
       "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
-    },
-    {
-      "added_at": "2023-07-14 17:19:14",
-      "album": {
-        "name": "Enciclop\u00e9dia Musical Brasileira",
-        "url": "https://open.spotify.com/album/1RBORtbwQzlPBgcYXErnZz"
-      },
-      "artists": [
-        {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
-        }
-      ],
-      "duration_ms": 235080,
-      "name": "Brasil pandeiro",
-      "url": "https://open.spotify.com/track/4IIK7KvWCTSkVVRufxyh3d"
     },
     {
       "added_at": "2023-07-14 17:19:14",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-07-14 17:19:14",
       "album": {
+        "name": "Casas",
+        "url": "https://open.spotify.com/album/37svAARdwTp6vApCWBwoec"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "duration_ms": 337308,
+      "name": "Partilhar",
+      "url": "https://open.spotify.com/track/6O6qYUHbLjT0kGHm5rfp95"
+    },
+    {
+      "added_at": "2023-07-14 17:19:14",
+      "album": {
         "name": "12 Horas (Ao Vivo) (feat. Mar\u00edlia Mendon\u00e7a) [Ac\u00fastico]",
         "url": "https://open.spotify.com/album/2XJWP3wpipPyna8pFX68ZJ"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 202869,
       "name": "12 Horas (Ao Vivo) (feat. Mar\u00edlia Mendon\u00e7a) - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1aYI1bfSzo2M1LjFwZrXLY"
-    },
-    {
-      "added_at": "2023-07-14 17:19:14",
-      "album": {
-        "name": "Casas",
-        "url": "https://open.spotify.com/album/37svAARdwTp6vApCWBwoec"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        }
-      ],
-      "duration_ms": 337308,
-      "name": "Partilhar",
-      "url": "https://open.spotify.com/track/6O6qYUHbLjT0kGHm5rfp95"
     },
     {
       "added_at": "2023-07-14 17:19:14",

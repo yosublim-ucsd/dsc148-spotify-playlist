@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "639 Hz - Open Heart",
+        "url": "https://open.spotify.com/album/5DChQ8UMtdlW9dz9RzHd09"
+      },
+      "artists": [
+        {
+          "name": "Xoj Litran",
+          "url": "https://open.spotify.com/artist/1sEC1KPQBzaV3v3ArtEcOZ"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "639 Hz - Open Heart",
+      "url": "https://open.spotify.com/track/1PjC8mCtmkLFP2Zf8jBzBQ"
+    },
+    {
+      "album": {
         "name": "Alchemy of Peace 528 Hz",
         "url": "https://open.spotify.com/album/55Lus08VvD86i1ju4GWkX9"
       },
@@ -320,7 +338,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 281142,
       "name": "Breathing Beliefs 528 Hz",
       "url": "https://open.spotify.com/track/62KNbFaTQiZLy6uuCv2eqn"
@@ -572,7 +590,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 185478,
       "name": "Future Hologram",
       "url": "https://open.spotify.com/track/1m8293L09imDGdKXpkk1xc"
@@ -814,7 +832,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 215077,
       "name": "Mindful Movement",
       "url": "https://open.spotify.com/track/3GSm1dZSXhgZEl63Xtt9cB"
@@ -1261,6 +1279,24 @@
     },
     {
       "album": {
+        "name": "Silent Solution",
+        "url": "https://open.spotify.com/album/26PXA4uPCpyhdh6lg3zXJO"
+      },
+      "artists": [
+        {
+          "name": "Vibrational Winds",
+          "url": "https://open.spotify.com/artist/3S51HXTFUW0h2esKYpsZ5y"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144265,
+      "name": "Silent Solution",
+      "url": "https://open.spotify.com/track/1ckaT9aUOZbUStGwWLVzQF"
+    },
+    {
+      "album": {
         "name": "Music for Cats Album One",
         "url": "https://open.spotify.com/album/2qgWuthZzRA3fJoecnwzs7"
       },
@@ -1276,6 +1312,24 @@
       "duration_ms": 707600,
       "name": "Simon Says",
       "url": "https://open.spotify.com/track/3eUde69UEDub59LN6d3V0d"
+    },
+    {
+      "album": {
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/3JhefnvfpRy4zkVS0nxzxi"
+      },
+      "artists": [
+        {
+          "name": "Dormina",
+          "url": "https://open.spotify.com/artist/2K0TPnh0rE4LeKbZXD1lG7"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146120,
+      "name": "Skyrmir",
+      "url": "https://open.spotify.com/track/5v7afdYE3EfTf1oze0I68N"
     },
     {
       "album": {
@@ -1432,7 +1486,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 580000,
       "name": "Through the Static",
       "url": "https://open.spotify.com/track/31XvAj1tMWSeckhXF8KtqP"

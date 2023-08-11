@@ -1793,6 +1793,24 @@
     },
     {
       "album": {
+        "name": "EXODUS 7:17",
+        "url": "https://open.spotify.com/album/6n64BIHrTHeqrK53TfTOqt"
+      },
+      "artists": [
+        {
+          "name": "Taste of Plague",
+          "url": "https://open.spotify.com/artist/4Ws0fLZArWYSqTbkN2dXTn"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183076,
+      "name": "Garden Ov Frozen Souls",
+      "url": "https://open.spotify.com/track/25JkKQqXv5afG82YWXUUMN"
+    },
+    {
+      "album": {
         "name": "Generation",
         "url": "https://open.spotify.com/album/6CdRCrpJvWGy0eAOfeXRVO"
       },

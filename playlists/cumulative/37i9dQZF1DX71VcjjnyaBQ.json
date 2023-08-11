@@ -113,6 +113,32 @@
     },
     {
       "album": {
+        "name": "Amelia",
+        "url": "https://open.spotify.com/album/12RPTPkpm9bA9LvN8BOSW3"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Muthspiel",
+          "url": "https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ"
+        },
+        {
+          "name": "Scott Colley",
+          "url": "https://open.spotify.com/artist/7AxNB7slEfo3WsWmZf4TSs"
+        },
+        {
+          "name": "Brian Blade",
+          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422506,
+      "name": "Amelia",
+      "url": "https://open.spotify.com/track/7MfOcicIHjkkm1NPaQDx64"
+    },
+    {
+      "album": {
         "name": "In the Mountains",
         "url": "https://open.spotify.com/album/08ZNmk25bNcrUQ9Yj6VSr4"
       },
@@ -480,7 +506,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 422813,
       "name": "Bye Bye Blackbird - Live",
       "url": "https://open.spotify.com/track/6uOOsk7EiY6KUPOrrZZ3T1"

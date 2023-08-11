@@ -4,7 +4,7 @@
 
 > bringing you all things house!! follow me on tour <a href="http://www.instagram.com/curbi">here</a> and don't forget to <a href="https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT">follow my artist profile</a>..
 
-78 songs - 3 hr 48 min
+79 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Bless Me \(with Discrete\)](https://open.spotify.com/track/4fntxnmBljT1Ve03u0njYg) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [Discrete](https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov) | [Bless Me \(with Discrete\)](https://open.spotify.com/album/5TPcHw0h3ZfXmmtfFYy1gq) | 3:10 | 2023-06-30 | 2023-07-29 |
 | [Body Tingler](https://open.spotify.com/track/4IRpPbNa7D3vfGNguZWcPd) | [Brett Allen](https://open.spotify.com/artist/7p4Qsh7osD5lvfk8X3LRex) | [Body Tingler](https://open.spotify.com/album/28rAbsAWjImoxWVBBafmdH) | 2:35 | 2023-07-21 |  |
 | [Boss Mode](https://open.spotify.com/track/7BNEnYQQdM3kLO1NTvA769) | [Noola](https://open.spotify.com/artist/5K7fwqqwElpjvTGk9rBetG) | [Boss Mode](https://open.spotify.com/album/7n8lBP3L9kerrsHj9riJlg) | 3:02 | 2023-06-26 | 2023-07-14 |
+| [Concentrate](https://open.spotify.com/track/0JPiX5HogKGu1V3OHsawd1) | [Mike Cervello](https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3) | [Concentrate](https://open.spotify.com/album/2Z99oAqoU60ja5PeV1rr8j) | 3:12 | 2023-08-10 |  |
 | [Crave The Bassline](https://open.spotify.com/track/3QzBzeXfDNR15U6X98zz1q) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Crave The Bassline](https://open.spotify.com/album/3magqmwQzm2mdGgI83lC3S) | 2:46 | 2023-06-26 |  |
 | [Do My Ting](https://open.spotify.com/track/7itFDwMmp0bvAUctxRhHkr) | [SLATIN](https://open.spotify.com/artist/2K7Mq9tikWmSfodrb6ZyD3) | [Do My Ting / Booty Duty EP](https://open.spotify.com/album/6oXSrqIUPsBMG2514pxBHT) | 3:43 | 2023-06-26 | 2023-07-22 |
 | [Don't Stop](https://open.spotify.com/track/73Aj6vBOimEVHMMm67YmcU) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Don't Stop](https://open.spotify.com/album/2LeGGDt1Nn31jdCThW1SKW) | 2:50 | 2023-06-26 | 2023-07-14 |
@@ -25,7 +26,7 @@
 | [Find My Way](https://open.spotify.com/track/5H64SFQzPmnqcjzBxKXMqT) | [Joel Macintosh](https://open.spotify.com/artist/6TOiaTqXCHBs1801K5Mqe4) | [Find My Way / Within A Groove EP](https://open.spotify.com/album/69bxaEll6NPgrzE73SCPWC) | 2:12 | 2023-06-26 |  |
 | [Fiya \- Curbi Edit](https://open.spotify.com/track/6hKNTG13AmbPZXy891jAZk) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Fiya \(Curbi Edit\)](https://open.spotify.com/album/296eebCCSymVYHR6fjiISA) | 4:40 | 2023-07-20 |  |
 | [Flying](https://open.spotify.com/track/23tSVCziOnXVAyayQt0Bi7) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Flying](https://open.spotify.com/album/5eSJZsLtK2qQsogB82R2bw) | 3:04 | 2023-06-26 |  |
-| [Freak](https://open.spotify.com/track/1XyAphE6uebTqvrJw174Cp) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Freak](https://open.spotify.com/album/5GbbjwLHtRH8qSB1LfkyVn) | 2:33 | 2023-07-28 |  |
+| [Freak](https://open.spotify.com/track/1XyAphE6uebTqvrJw174Cp) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Freak](https://open.spotify.com/album/5GbbjwLHtRH8qSB1LfkyVn) | 2:33 | 2023-07-28 | 2023-08-11 |
 | [Gibberish](https://open.spotify.com/track/7oxqFjliHMXfcGbezxQaWc) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [Gibberish](https://open.spotify.com/album/1i5z3OweX0CKIJilrAw9Nq) | 2:33 | 2023-06-26 |  |
 | [Gimme Bass](https://open.spotify.com/track/1rkWQHebn0mI7VPDTiIwBP) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Gimme Bass](https://open.spotify.com/album/4oBkrsdifIQQu8woMAEOGE) | 4:36 | 2023-07-20 |  |
 | [Go Hard Go Home](https://open.spotify.com/track/5K5YhUnCuP6okap4eqonKj) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Go Hard Go Home](https://open.spotify.com/album/4Zvmchps5AL554D5Xyn622) | 2:36 | 2023-07-14 |  |
@@ -85,6 +86,6 @@
 | [Wataqui](https://open.spotify.com/track/5FdQkUVpFicMpUv6OLy3wh) | [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF), [Martina Camargo](https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH) | [Wataqui](https://open.spotify.com/album/338oBgeuDJHByptkUWZpbS) | 2:34 | 2023-07-11 | 2023-08-06 |
 | [Watch](https://open.spotify.com/track/1L97rUfj3FJuc4qaHZ1rOW) | [Pietro Giacobbi](https://open.spotify.com/artist/2RVumPcu7wWoI8IbjrRMh7), [STRIKE](https://open.spotify.com/artist/3bhyWD5owEvPViJnjYL34g) | [Watch](https://open.spotify.com/album/0ezqrQoFD5jsCxgWLkIAoD) | 2:36 | 2023-07-28 |  |
 | [Work It Out](https://open.spotify.com/track/0cRO24ZJgiYMLWUs3ClQsA) | [Albert Breaker](https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf), [KiNG RO](https://open.spotify.com/artist/0XEaX97bpyY7SYzRITCai3) | [Work It Out](https://open.spotify.com/album/7moiA42A1tSRCTnk0GSqPE) | 2:09 | 2023-08-04 |  |
-| [Yonkis](https://open.spotify.com/track/4E8yww1JsR3QRK73z58OAd) | [Alvaro Marteen](https://open.spotify.com/artist/6slj5Mjaokbx7kOukYvqDQ) | [Yonkis](https://open.spotify.com/album/0nILwsuqAJl1lwyBKessOX) | 3:18 | 2023-07-14 |  |
+| [Yonkis](https://open.spotify.com/track/4E8yww1JsR3QRK73z58OAd) | [Alvaro Marteen](https://open.spotify.com/artist/6slj5Mjaokbx7kOukYvqDQ) | [Yonkis](https://open.spotify.com/album/0nILwsuqAJl1lwyBKessOX) | 3:18 | 2023-07-14 | 2023-08-11 |
 
 \*This playlist was first scraped on 2023-07-04. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-798 songs - 2 day 4 hr 27 min
+799 songs - 2 day 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Good Morning World!](https://open.spotify.com/track/6bfDSsy4wnpn6B0de8Qrbx) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [BURNOUT SYNDROMEZ](https://open.spotify.com/album/3GIBqRgh0jyw20ZauvXPRa) | 4:09 | 2022-06-07 | 2023-04-12 |
 | [Good Time \- feat\. SKY\-HI](https://open.spotify.com/track/6M116cTbFxwbv7tJcMiv5G) | [cozmez](https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn), [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2) | [Paradox Live Exhibition Show \-cozmez\-](https://open.spotify.com/album/6JQzd5Ef2iKrF1KC758s30) | 2:48 | 2022-06-07 | 2022-07-29 |
 | [Grand Escape \(Movie Edit\) \[feat\. Toko Miura\]](https://open.spotify.com/track/2cE5PbW9PhPmnyETXqH3VE) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [Weathering With You](https://open.spotify.com/album/2BcCxJ3EWhsd4IyN8XJA3q) | 3:08 | 2022-06-07 |  |
-| [Gravity](https://open.spotify.com/track/15WLZS3pvNj1grj8FsI1tv) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [Gravity](https://open.spotify.com/album/2csneKY1Pr4UXxMrG4I5Gr) | 5:08 | 2022-06-07 |  |
+| [Gravity](https://open.spotify.com/track/15WLZS3pvNj1grj8FsI1tv) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [Gravity](https://open.spotify.com/album/2csneKY1Pr4UXxMrG4I5Gr) | 5:08 | 2022-06-07 | 2023-08-11 |
 | [GREEN DIARY](https://open.spotify.com/track/2dMHga3dZjM8njubHtq0cX) | [中島愛](https://open.spotify.com/artist/4S6CGCwYKyStOwGV4IS8mI) | [GREEN DIARY](https://open.spotify.com/album/0jcgaA6W0Whz006JLPe05A) | 3:55 | 2022-06-07 | 2022-07-28 |
 | [Grey](https://open.spotify.com/track/4Ch9TQoFvN7YMb6soOKX71) | [FOMARE](https://open.spotify.com/artist/615ixHXsfFwzxgw3sOPICH) | [Grey](https://open.spotify.com/album/6HHYhpXUe1dd2yyHcs3HLh) | 2:38 | 2022-06-07 | 2022-07-11 |
 | [Guess Who Is Back](https://open.spotify.com/track/4lBliLm5ufCBNPlCzpvrQB) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [DNA](https://open.spotify.com/album/6clP6HKzALC37Aoas4zX8B) | 3:26 | 2022-06-07 |  |
@@ -618,6 +618,7 @@
 | [二千五百万分の一](https://open.spotify.com/track/4DbIulyjvPtJm3PIWafYqI) | [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [二千五百万分の一](https://open.spotify.com/album/6u6KAHO9S197rlYJQu9BxB) | 4:46 | 2022-06-07 | 2022-07-29 |
 | [人生は戦場だ \- Prod.by ats\-](https://open.spotify.com/track/3unpJWhOgxh0ayjWOTnydA) | [安斉かれん](https://open.spotify.com/artist/69hIxBVhw5zdCXv01W3Mbd) | [人生は戦場だ \(Prod.by ats\-\)](https://open.spotify.com/album/3fwXcwPrZVClE3lLXpUBcH) | 4:24 | 2022-06-07 | 2022-07-12 |
 | [人芝居](https://open.spotify.com/track/74sYtRs4LCDIpdBP8xDMSP) | [渕上 舞](https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE) | [人芝居](https://open.spotify.com/album/7vRJFhwnCxhkQnk9SnSg4U) | 4:07 | 2022-08-11 | 2022-10-04 |
+| [今この瞬間を](https://open.spotify.com/track/3Qws2SXBbgEs1TyLoA1XFC) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [今この瞬間を](https://open.spotify.com/album/6cdk5VOBLQ2KpYu8ADzPwq) | 3:29 | 2023-08-04 |  |
 | [僕と君のララバイ](https://open.spotify.com/track/7fJS9uFoBcU7wsxqejHBrD) | [みゆな](https://open.spotify.com/artist/2eg5oiMWKYEJ5vVwW1YFCC) | [僕と君のララバイ](https://open.spotify.com/album/7BZ1l2SpVpRlreZQ5DIoFS) | 4:40 | 2022-06-07 | 2022-07-22 |
 | [優しい彗星](https://open.spotify.com/track/19fhOFi6pNGeZe5uiFlm7c) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [優しい彗星](https://open.spotify.com/album/2JTvRXbEc1JGPrlKC435Jf) | 3:35 | 2022-06-07 |  |
 | [光あれ](https://open.spotify.com/track/32Af51Tolwru7wDH9sgauz) | [Akihito Okano](https://open.spotify.com/artist/1ioDAlx6i5snCxm2z9ZnUD) | [光あれ](https://open.spotify.com/album/68per7qELaTtnUTYjqduRy) | 3:38 | 2022-06-07 | 2022-07-12 |

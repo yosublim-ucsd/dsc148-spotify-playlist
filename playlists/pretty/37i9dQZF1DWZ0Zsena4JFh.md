@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 
 > Un parque de diversiones para gustos inconformes y sofisticados\. TV Girl en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,783 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,799 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,10 +21,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 | 11 | [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 |
 | 12 | [Oysters In My Pocket](https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Oysters In My Pocket](https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES) | 2:42 |
 | 13 | [rats in my walls](https://open.spotify.com/track/518SyWWJhPl7HHUSPfyRjL) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [rats in my walls](https://open.spotify.com/album/0UPov8dU2n2a9XvBrKUmSK) | 5:12 |
-| 14 | [The Narcissist](https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Narcissist](https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz) | 4:05 |
+| 14 | [Pistol](https://open.spotify.com/track/5g5XvfePSypMK6eiVL6BI7) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Pistol](https://open.spotify.com/album/681myoJD0vQ3rCpF15ECcP) | 3:54 |
 | 15 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 |
 | 16 | [I've Been In Love](https://open.spotify.com/track/0lvOUYM0NzbzOI856TUHMM) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [I've Been In Love](https://open.spotify.com/album/0F3os1tiKfDFdJLUo2K1DQ) | 2:49 |
-| 17 | [Pistol](https://open.spotify.com/track/5g5XvfePSypMK6eiVL6BI7) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Pistol](https://open.spotify.com/album/681myoJD0vQ3rCpF15ECcP) | 3:54 |
+| 17 | [The Narcissist](https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Narcissist](https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz) | 4:05 |
 | 18 | [Billie Toppy](https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Billie Toppy](https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN) | 3:15 |
 | 19 | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS) | 3:08 |
 | 20 | [Melody Experiment](https://open.spotify.com/track/3cVEXHZ2G8tJMGoYff4B3q) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Melody Experiment](https://open.spotify.com/album/08WSSXUZVNGgS6yTQ0l4Ho) | 5:10 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 | 40 | [Wolf](https://open.spotify.com/track/4g3alZ0okNvZiOWW4pGUpw) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:13 |
 | 41 | [Black Moon Rising](https://open.spotify.com/track/2LTah3NcoIJI9WHJW3VIlC) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas](https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe) | 3:41 |
 | 42 | [Lose](https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:16 |
-| 43 | [It’s Euphoric](https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [It's Euphoric](https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69) | 3:41 |
-| 44 | [Living Proof](https://open.spotify.com/track/4VhvGhj8pdAqFJBuAfUW38) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [I Don’t Live Here Anymore](https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB) | 4:53 |
+| 43 | [Living Proof](https://open.spotify.com/track/4VhvGhj8pdAqFJBuAfUW38) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [I Don’t Live Here Anymore](https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB) | 4:53 |
+| 44 | [It’s Euphoric](https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [It's Euphoric](https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69) | 3:41 |
 | 45 | [Somethinggreater \- Single Version](https://open.spotify.com/track/1hp7aHiWB6zxcpehJR7xRO) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 3:29 |
 | 46 | [Peach](https://open.spotify.com/track/44Y47AT30lSl5iPMZr6o83) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Peach](https://open.spotify.com/album/31HPnd8Ss99acJ0MrHBQvu) | 3:14 |
 | 47 | [Eucalyptus](https://open.spotify.com/track/4jWYcdqKv3LGrTTaJ8WI16) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Eucalyptus](https://open.spotify.com/album/1X4j5akVUneSAF4ZYuoULl) | 4:24 |
-| 48 | [Wonderful Life \- Edit](https://open.spotify.com/track/3CrDdihSYMmQxSRUuLsPdY) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Wonderful Life](https://open.spotify.com/album/3Ja3WF7ybMFGiRFNZG3Xz7) | 3:05 |
-| 49 | [Love On The Run](https://open.spotify.com/track/66JOl2uj2S6t9h6BxtLhwO) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [INTO THE BLUE](https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0) | 7:03 |
+| 48 | [Love On The Run](https://open.spotify.com/track/66JOl2uj2S6t9h6BxtLhwO) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [INTO THE BLUE](https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0) | 7:03 |
+| 49 | [Wonderful Life \- Edit](https://open.spotify.com/track/3CrDdihSYMmQxSRUuLsPdY) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Wonderful Life](https://open.spotify.com/album/3Ja3WF7ybMFGiRFNZG3Xz7) | 3:05 |
 | 50 | [i wanna be your right hand](https://open.spotify.com/track/68SNAUUgO2XwxykrEboEZN) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [i wanna be your right hand](https://open.spotify.com/album/1Qo5P3fZvirEKp6sKXEoYT) | 2:28 |
 
-Snapshot ID: `MCw3ZDM4MTI3OWNlYTg5NzhkNzZmYTc1NzQ0YTk0NjM2ZmY3ZDgwZDk2`
+Snapshot ID: `MCw3NWZlOThjYzZhM2ViN2ZhMTM3ZjBlOWNjMmUyMjYyNDE5NWM1NjFm`

@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-480 songs - 1 day 4 hr 27 min
+481 songs - 1 day 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,7 @@
 | [Huele amarillo](https://open.spotify.com/track/4NBUs3oAIGAz2ZHTCznjYq) | [Santiago Moraes](https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld) | [Huele amarillo](https://open.spotify.com/album/4XH65quBLvAln0tbp265qx) | 4:34 | 2022-10-12 | 2022-12-02 |
 | [Huracán](https://open.spotify.com/track/1bfVtL4K4hlzxw2enSM40V) | [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [Huracán](https://open.spotify.com/album/5IPTv2WalvKpcLN2Znypzs) | 3:11 | 2023-07-28 |  |
 | [Hábitat](https://open.spotify.com/track/27XZVuWnI6J6xA3QNO2eAp) | [Nadar de Noche](https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Hábitat](https://open.spotify.com/album/4vAkxysCMVfWxB60VQCLFO) | 3:49 | 2022-06-03 | 2022-07-29 |
-| [Ideograma](https://open.spotify.com/track/0h5zsbK2qdJo079qgLtp9q) | [Media Hermana](https://open.spotify.com/artist/0oa0TL1V6tfg7ERfm2sMiE) | [Ideograma](https://open.spotify.com/album/5AZFPqMNLc85eO8FoKGSnY) | 4:22 | 2023-07-24 |  |
+| [Ideograma](https://open.spotify.com/track/0h5zsbK2qdJo079qgLtp9q) | [Media Hermana](https://open.spotify.com/artist/0oa0TL1V6tfg7ERfm2sMiE) | [Ideograma](https://open.spotify.com/album/5AZFPqMNLc85eO8FoKGSnY) | 4:22 | 2023-07-24 | 2023-08-11 |
 | [Igual](https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Igual](https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ) | 4:10 | 2022-11-11 |  |
 | [Incendio](https://open.spotify.com/track/0TJJXZHUu2qqwCCQzgRhHm) | [Surfeadores Rosa](https://open.spotify.com/artist/6BecaP398CIWCEHspNCxQh) | [Incendio](https://open.spotify.com/album/1GD7KnMcyOfA4Dk6OQDDWd) | 2:52 | 2022-07-01 | 2022-07-22 |
 | [Inhumano](https://open.spotify.com/track/2BA2tCyrlMuoyacTadYQa5) | [TELESCOPIOS](https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG) | [Telescopios](https://open.spotify.com/album/71hxwc4qWEP4Sfe5QGYqmV) | 2:19 | 2022-06-03 | 2022-07-28 |
@@ -320,6 +320,7 @@
 | [No Pudiste Verlo](https://open.spotify.com/track/5MqdBOl6tcQuoOCj1fSnGh) | [Camperas](https://open.spotify.com/artist/1NfBsale6A7iXgBf0Ig58w) | [Todo Desliza](https://open.spotify.com/album/4CrOToTHThyWV5nrx3bR1e) | 2:09 | 2022-07-15 | 2022-07-28 |
 | [no sé quién soy](https://open.spotify.com/track/6BUWGhSxHTbOb5lv81O41n) | [K4](https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU) | [no sé quién soy](https://open.spotify.com/album/6bDXLYFW8ZzmYBgAdsJIVw) | 2:08 | 2022-09-09 | 2023-06-17 |
 | [No Ves Tal Vez \- Evlay Remix](https://open.spotify.com/track/6u9UrHLwwM51a69QUN9xcF) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ), [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [No Ves Tal Vez \(Evlay Remix\)](https://open.spotify.com/album/0GHjBHc8ZxFE22P9YATmku) | 5:13 | 2023-03-17 | 2023-08-05 |
+| [Nocturno](https://open.spotify.com/track/7MozRXZtbP7cAy0rRFM2l9) | [Los Látigos](https://open.spotify.com/artist/4gQjSrUccdskocfsE4L1MF) | [Nocturno](https://open.spotify.com/album/31LflZmiS6wi2VDlaHJuGh) | 3:48 | 2023-08-04 |  |
 | [Nota De Voz](https://open.spotify.com/track/07u8rikTmiY64DkJh1WAv9) | [Los Hermanos Laser](https://open.spotify.com/artist/1G3t1G8HB4X8DIAaix8JaX) | [Nota De Voz](https://open.spotify.com/album/4NaeVyU5avNma2tUY41P8s) | 2:50 | 2023-08-04 |  |
 | [NT al sol](https://open.spotify.com/track/7maIZJiVUL5HBOzjFqOwp0) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31), [Paul Higgs](https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V), [El Mundo Limon](https://open.spotify.com/artist/6ewUKYDx23YcomTOQdDvTB) | [NT al sol](https://open.spotify.com/album/1iI0hU3oBxRKRGs6lprkse) | 3:22 | 2023-03-31 |  |
 | [Nube](https://open.spotify.com/track/0ptdCEFJjqE7hJJrUVz29z) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Como Antes](https://open.spotify.com/album/56qAd8JFUBjW7gdAEQinHT) | 1:10 | 2022-07-15 | 2023-03-03 |

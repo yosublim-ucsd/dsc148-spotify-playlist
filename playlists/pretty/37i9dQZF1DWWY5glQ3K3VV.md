@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 
 > Canzoni rap per party fino al mattino! Cover: Tony Effe
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,861 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,949 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 54 | [PLAYA](https://open.spotify.com/track/39ngG6CdkMkBgESiXc0lOx) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH) | [PLAYA](https://open.spotify.com/album/4BooiX3rbdDNh6uzJUMfRE) | 2:34 |
 | 55 | [Bossoli](https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Bossoli](https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq) | 2:58 |
 | 56 | [Blueface \(feat\. Izi, Tedua\)](https://open.spotify.com/track/2Ctj9DfXfh9kW3erTp907i) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p), [Vaz Tè](https://open.spotify.com/artist/65ddsrNChT3wol9kEIJqKY), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Glory Days EP](https://open.spotify.com/album/2rxe8Kwyd417YSYmSXs0CI) | 3:42 |
-| 57 | [TOXIC \- trainspotting](https://open.spotify.com/track/3mrtP5imQ3Mv3OQ0byI4ix) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Effetto notte](https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga) | 3:00 |
-| 58 | [PULL UP \(feat\. Big P\)](https://open.spotify.com/track/5rGNMvZh5oLw20vjMaf8VW) | [Touché](https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb), [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768), [Miller](https://open.spotify.com/artist/5Zac830Rf5D42X4G5lIzqs) | [IL MINORENNE + BASTARDO](https://open.spotify.com/album/3n3PO1QkNmGftt01Cz1LyE) | 2:46 |
+| 57 | [PULL UP \(feat\. Big P\)](https://open.spotify.com/track/5rGNMvZh5oLw20vjMaf8VW) | [Touché](https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb), [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768), [Miller](https://open.spotify.com/artist/5Zac830Rf5D42X4G5lIzqs) | [IL MINORENNE + BASTARDO](https://open.spotify.com/album/3n3PO1QkNmGftt01Cz1LyE) | 2:46 |
+| 58 | [TOXIC \- trainspotting](https://open.spotify.com/track/3mrtP5imQ3Mv3OQ0byI4ix) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Effetto notte](https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga) | 3:00 |
 | 59 | [Fuego Del Calor \(feat\. Ozuna, Tyga & Capo Plaza\)](https://open.spotify.com/track/7FX4EvQht57zUc2P313cEZ) | [Scott Storch](https://open.spotify.com/artist/4hadtPX6kKntrnA87Zdy01), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Fuego Del Calor \(feat\. Ozuna, Tyga & Capo Plaza\)](https://open.spotify.com/album/6O7pWTHLRiNKcHPkonDJWz) | 3:16 |
 | 60 | [La zone \(feat\. Shiva\)](https://open.spotify.com/track/2Q1ICiLBk9lmLQz7GhMoWB) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [La zone \(feat\. Shiva\)](https://open.spotify.com/album/4zZrt7ZP0AmUCdxTJxBN6M) | 2:38 |
 | 61 | [SENZA RUMORE](https://open.spotify.com/track/2Z7sJKCxTH94KCRxJTd4O7) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 3:49 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 79 | [Gli Occhi del Blocco \(feat\. Escomar\)](https://open.spotify.com/track/2dKfIsCs1XhlDZrLjuTbX5) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Escomar](https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw) | [EP1](https://open.spotify.com/album/3bZxXrtUV3uiT3Y3OOAvqP) | 2:55 |
 | 80 | [DREAM TEAM \(feat\. Dylan, Capo Plaza, Tedua & Shiva\)](https://open.spotify.com/track/4IjDcm8qRdRiwrRtpIdpSD) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Dylan](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg) | [X2](https://open.spotify.com/album/6ZVOpNfX2JMfAFDqEfmyQ5) | 2:38 |
 
-Snapshot ID: `MCwzODE2YjZmMDdmZTM0YjVjYzBjODNkZjg0NjhmMGI4Y2VkNTNjYjFm`
+Snapshot ID: `MCxkYzA3NGRkODY2MTJhMGE0MTNkZmMwOTcwODcxNTg4MzNkMGQzMWVl`

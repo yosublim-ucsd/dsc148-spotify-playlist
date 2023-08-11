@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayDMsJG9ZBv.md) - [plain]
 
 > 世界中のトレンドと日本の最新ヒット曲をまとめてお届けします。Cover: Billie Eilish
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,355 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,400 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayDMsJG9ZBv.md) - [plain]
 | 49 | [Do It Like That](https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Do It Like That](https://open.spotify.com/album/0Z1ebaoFTQDDzebTh3fD2P) | 2:25 |
 | 50 | [Rush](https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Rush](https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf) | 2:36 |
 
-Snapshot ID: `MCw3MThmNjAwZWRjMjg4YWRhNmZmZTE1YWIyMGNkZThiMzkxNDllYzQ4`
+Snapshot ID: `MCw2MzU4ODc3ZDkzOTE0Mzc1Mzg3NjkzZTk0ZjAzZTU2ZTAzM2ZkMzhj`

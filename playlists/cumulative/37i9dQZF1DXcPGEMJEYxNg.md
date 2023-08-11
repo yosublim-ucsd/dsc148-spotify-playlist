@@ -4,7 +4,7 @@
 
 > In partnership with <a href="https://goldhouse.org/">Gold House</a>, we are excited to announce our second Gold House Future Music Guild artists: Mad Tsai, Rhea Raj & Alex Porat.
 
-195 songs - 10 hr 32 min
+196 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,8 @@
 | [Silver Into Rain](https://open.spotify.com/track/7IBI2S33PMaIM9pARvpIJY) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Silver Into Rain](https://open.spotify.com/album/6JlD7QPsUqPZQDoiYmENzd) | 3:21 | 2022-07-12 | 2022-10-13 |
 | [Slow \(with Ciara\)](https://open.spotify.com/track/3ZrtBTReHr1xFDglmHwCX5) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Slow \(with Ciara\)](https://open.spotify.com/album/3pVjFaJut000WiN2WZBtKK) | 3:12 | 2023-04-29 |  |
 | [so into you \- Spotify Singles](https://open.spotify.com/track/4TQLfbI12rrIVxOeWIr6gI) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Spotify Singles](https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR) | 2:53 | 2023-04-29 |  |
-| [Someone On The Internet](https://open.spotify.com/track/4uW3eW3YVRqddbMrZf4caM) | [Will Jay](https://open.spotify.com/artist/4lWJityOQkWcLFiboQBvBq) | [Someone On The Internet](https://open.spotify.com/album/7iy5XSdRsFVU2X25eEAhPX) | 3:02 | 2023-04-29 |  |
+| [Someone on the Internet](https://open.spotify.com/track/2iSudjmucrmx3xLZYqNes9) | [Will Jay](https://open.spotify.com/artist/4lWJityOQkWcLFiboQBvBq) | [Someone on the Internet](https://open.spotify.com/album/2qCSzelWEnMoBXPEOrZHds) | 3:02 | 2023-05-31 |  |
+| [Someone On The Internet](https://open.spotify.com/track/4uW3eW3YVRqddbMrZf4caM) | [Will Jay](https://open.spotify.com/artist/4lWJityOQkWcLFiboQBvBq) | [Someone On The Internet](https://open.spotify.com/album/7iy5XSdRsFVU2X25eEAhPX) | 3:02 | 2023-04-29 | 2023-08-11 |
 | [sorry](https://open.spotify.com/track/1Weox7JrxWlozk46HkXHTp) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [sorry](https://open.spotify.com/album/5yYBMehkCVXuFzaVPBBmzB) | 3:40 | 2022-07-12 |  |
 | [Split](https://open.spotify.com/track/7AE1oyRpPGoSwDs8b9XBO0) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Split](https://open.spotify.com/album/7uAHGGN6s8u1BwkA3uKYiQ) | 3:27 | 2022-07-12 |  |
 | [SPOILED BITCH](https://open.spotify.com/track/3agccBcICCxc1WWkG3XuvE) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [SPOILED BITCH](https://open.spotify.com/album/7lxXHaz0xtxwWxMZn0GN53) | 2:20 | 2022-05-18 | 2022-07-13 |

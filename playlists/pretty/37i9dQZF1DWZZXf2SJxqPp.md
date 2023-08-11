@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZXf2SJxqPp.md) - [plain]
 
 > Musiquita riqui para chillear y echarla junto a la piscina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,502 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,537 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZXf2SJxqPp.md) - [plain]
 | 56 | [Mon Cheri](https://open.spotify.com/track/1Fu9QYiYh8izSKG0cqUXxn) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Mon Cheri](https://open.spotify.com/album/6PmUVTmxKzphzJPIqCZbMJ) | 4:08 |
 | 57 | [Can't Stop Your Lovin'](https://open.spotify.com/track/5P1eorfAD2voGnX7ZbuvFz) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Can't Stop Your Lovin'](https://open.spotify.com/album/4wk1q3SvmE08InkoJKodlW) | 3:57 |
 | 58 | [Pays imaginaire](https://open.spotify.com/track/7i5I4h7r2vkI2r9tgKjy0x) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Caravelle](https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT) | 4:49 |
-| 59 | [Sister](https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sister](https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL) | 4:28 |
-| 60 | [Restless](https://open.spotify.com/track/4IFRlX2QFsEYC3mxrZECUd) | [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37) | [Restless](https://open.spotify.com/album/5hJkvGCEQA7dZiroxM43gF) | 3:25 |
+| 59 | [Restless](https://open.spotify.com/track/4IFRlX2QFsEYC3mxrZECUd) | [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37) | [Restless](https://open.spotify.com/album/5hJkvGCEQA7dZiroxM43gF) | 3:25 |
+| 60 | [Sister](https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sister](https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL) | 4:28 |
 | 61 | [Propaganda](https://open.spotify.com/track/5h2Ixexi6IEhlogUtfzD5P) | [Salami Rose Joe Louis](https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX), [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Akousmatikous](https://open.spotify.com/album/2rIjJDL6c2IlN8rrWOhwGD) | 2:32 |
 | 62 | [Burnt Orange \- Edit](https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Burnt Orange](https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4) | 4:31 |
 | 63 | [Like this](https://open.spotify.com/track/7pY3HE16Ir4ZFTEOmosP57) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [How can I](https://open.spotify.com/album/7mUyZcmorwXzHxCJZNxXKD) | 4:05 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZXf2SJxqPp.md) - [plain]
 | 91 | [El Sabor del Viejo Mar](https://open.spotify.com/track/29vzHaxX9UoRuRX1iBSbbl) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [El Sabor del Viejo Mar](https://open.spotify.com/album/3tq5mJs63eWyYYHsv1sdE1) | 4:23 |
 | 92 | [CooCool](https://open.spotify.com/track/6NRNXenSNtuo5vVkuAq7EN) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [The Universe](https://open.spotify.com/album/2JKrj31ZTIjy8voQ7azDzC) | 4:31 |
 | 93 | [Better When We're Close](https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Better When We're Close](https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah) | 3:33 |
-| 94 | [Zenzero](https://open.spotify.com/track/596eSWS6SoVNLoe9h1CMXn) | [Il Mago Del Gelato](https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA) | [Zenzero](https://open.spotify.com/album/5HOmMSauwz1wlsNNtI7RvO) | 4:10 |
-| 95 | [Through The Night](https://open.spotify.com/track/6cC17xWrGqAFqJ3DNBOrqp) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Luminous](https://open.spotify.com/album/2nTexLdtmJEpfFSftYb7C0) | 4:00 |
-| 96 | [Segrados Do Samba](https://open.spotify.com/track/1QXImka15rUVwpakYivJ70) | [Souleance](https://open.spotify.com/artist/0HGVduSq54fO1fazKRZnaD) | [Jogar](https://open.spotify.com/album/3I7vdWnYNdlyvnNnYVQRUJ) | 4:19 |
-| 97 | [Stranded](https://open.spotify.com/track/5Guana9cMolXSB28I8NG7w) | [Art of November](https://open.spotify.com/artist/1jLcY4U2jXPcyzUg6FANBq) | [Stranded](https://open.spotify.com/album/1h2qxdjCHwe1KmiDPOi3CT) | 3:49 |
+| 94 | [Through The Night](https://open.spotify.com/track/6cC17xWrGqAFqJ3DNBOrqp) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Luminous](https://open.spotify.com/album/2nTexLdtmJEpfFSftYb7C0) | 4:00 |
+| 95 | [Zenzero](https://open.spotify.com/track/596eSWS6SoVNLoe9h1CMXn) | [Il Mago Del Gelato](https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA) | [Zenzero](https://open.spotify.com/album/5HOmMSauwz1wlsNNtI7RvO) | 4:10 |
+| 96 | [Stranded](https://open.spotify.com/track/5Guana9cMolXSB28I8NG7w) | [Art of November](https://open.spotify.com/artist/1jLcY4U2jXPcyzUg6FANBq) | [Stranded](https://open.spotify.com/album/1h2qxdjCHwe1KmiDPOi3CT) | 3:49 |
+| 97 | [Segrados Do Samba](https://open.spotify.com/track/1QXImka15rUVwpakYivJ70) | [Souleance](https://open.spotify.com/artist/0HGVduSq54fO1fazKRZnaD) | [Jogar](https://open.spotify.com/album/3I7vdWnYNdlyvnNnYVQRUJ) | 4:19 |
 | 98 | [Mopedbart](https://open.spotify.com/track/4jnguj9VPJuGRfFJyAKUZS) | [Hubbabubbaklubb](https://open.spotify.com/artist/7HgA0wYq2OBe9ac7awv1Jq) | [Mopedbart](https://open.spotify.com/album/1fFDgy6E12ZwqgIa8tgtQh) | 5:12 |
 | 99 | [Samba del Arenal](https://open.spotify.com/track/4etH0m0htL9X8uHEWRIsIx) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Cinemar](https://open.spotify.com/artist/2t96uQP8to5GTqfwPJ9T37) | [Samba del Arenal](https://open.spotify.com/album/6ZCVkOvf6wk9h5KLNs21Fk) | 4:13 |
 | 100 | [Give Me Your Summer](https://open.spotify.com/track/1Q2ca16lCXmdJb2hMiCIiP) | [Color Codes](https://open.spotify.com/artist/0L4swFqe6aAXjmTN3TmO2L) | [Give Me Your Summer](https://open.spotify.com/album/6L3drsVQw2PE1ZPNvAO2MS) | 2:50 |
 
-Snapshot ID: `MCxiNDc0ZjFlOWZiYzQ2YzZmZjNlYTJmMmQ1MTM4YTk2YzZiNDM0N2Rm`
+Snapshot ID: `MCw0ZDdmMzJmYmJhNGI2ZjI0YjEwZDBkMWEwZGIyZTY1MTlmNzJkY2Mz`

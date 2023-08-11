@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSy1uHq5qF1L.md) - [plain]
 
 > Beautiful mandolin music to accompany your Italian supper\. Buon appetito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,481 likes - 53 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,650 likes - 53 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSy1uHq5qF1L.md) - [plain]
 | 40 | [Italian Night](https://open.spotify.com/track/7kQJ5znmZV3jLpcNDQE0xR) | [The New Italian Ensemble](https://open.spotify.com/artist/6dxVfmnDCABARibSSrtqRI) | [Welcome Home](https://open.spotify.com/album/0QsSFqGdbReLFAWwKdQIhS) | 3:33 |
 | 41 | [Arrivederci Roma](https://open.spotify.com/track/2wRvA2LS1apB9MYV2QzA01) | [Jack Jezzro](https://open.spotify.com/artist/7vo2Hl0NDiBr6GcyGDSLFZ) | [Caffé Italiano: Instrumental Italian Favorites](https://open.spotify.com/album/4TRGduyN9BY67tiwArFQ29) | 3:33 |
 | 42 | [Tempo Che Beve \(“Time To Drink”\)](https://open.spotify.com/track/1ONRcgHHhzLVrXtO5XJmYl) | [Rebecca Arons](https://open.spotify.com/artist/5yWsPDJZtUgZrQyVhLTTBt) | [Mangia! Italian Dinner Night](https://open.spotify.com/album/4DgaA9cywJuxbkFcXmLAkx) | 3:56 |
-| 43 | [Al di la](https://open.spotify.com/track/6DWU0HQ3O7i3IROJsztChj) | [Jack Jezzro](https://open.spotify.com/artist/7vo2Hl0NDiBr6GcyGDSLFZ) | [Caffé Italiano: Instrumental Italian Favorites](https://open.spotify.com/album/32t5s4ID49x47XgNOHvYqX) | 3:23 |
+| 43 | [Al Di La](https://open.spotify.com/track/1VwRW1CdaDOEmrHzpwTIUV) | [Jack Jezzro](https://open.spotify.com/artist/7vo2Hl0NDiBr6GcyGDSLFZ) | [Caffé Italiano: Instrumental Italian Favorites](https://open.spotify.com/album/4TRGduyN9BY67tiwArFQ29) | 3:20 |
 | 44 | [Vecchio Pianino](https://open.spotify.com/track/4e3yv5xszSxiS2YKhAqj9n) | [Angelo Petisi And His Mandolin Orchestra](https://open.spotify.com/artist/2bspzpcot2XayxFu3CZG3D) | [O Bella Napoli \- Italia \- Italy](https://open.spotify.com/album/6UmU78EACBey0NoHIqrRKe) | 1:52 |
 | 45 | [Roman Moonlight](https://open.spotify.com/track/696YrAmnNm9wwB4aS14D39) | [Italian Love Song Passione](https://open.spotify.com/artist/30J27cFKb6sD7MfLuaDvCJ) | [That's Amore Italian Love Songs](https://open.spotify.com/album/0wez47X2Aq5WxYY4Wo21OT) | 3:12 |
 | 46 | [E Spingule Francese](https://open.spotify.com/track/2SAzbO5y0kPu5UrZt25Ag6) | [Romano Zanotti](https://open.spotify.com/artist/77jndz0F7PziSYe6POtrAS) | [La chanson napolitaine de 1650 à 1987](https://open.spotify.com/album/1jCSvp59VIQOtsC3Gkc3Nb) | 3:36 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSy1uHq5qF1L.md) - [plain]
 | 52 | [Cinque terre](https://open.spotify.com/track/5tlkjgGNPvGVOSdtlEz03i) | [Riccardo Gioggi](https://open.spotify.com/artist/6xRCOPh9hUpwCgPG4peyZL) | [Traditional music of italy](https://open.spotify.com/album/21lcrjRLEIAxkyQf9Ablgc) | 2:16 |
 | 53 | [Tutta pe' me](https://open.spotify.com/track/1Eq0N8Dobd5zbDwXp4UvRg) | [Mario Maglione](https://open.spotify.com/artist/5vGCZz8J0jZ5URIGoZkC3Y) | [Napoli...in smoking, vol\. 4](https://open.spotify.com/album/6voHe2KKZ6r55r0obEyYvi) | 4:05 |
 
-Snapshot ID: `MCw3NjVjODViYjE4Njg5YjczNWYxMTQzNjE4MDNiNTI2OTZhYjkzZGVk`
+Snapshot ID: `MCxkN2RiMDUzZTZlMTE2YWJlODc4MDc0YjAzOWI3ODg5Mjg1MGYwYmQ0`

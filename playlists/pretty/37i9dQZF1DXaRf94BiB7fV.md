@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Emerging Indie artists on the rise, updated every Wednesday\. Cover: citimall, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,746 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,758 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 7 | [Wrong Number](https://open.spotify.com/track/4q5EoGs7etgBTpCPPJVCUp) | [TARRA](https://open.spotify.com/artist/0zeS3VoQckGiXlZudEnWqx) | [EASY LOVE](https://open.spotify.com/album/5Gg0dXnvYc9s0zyOqI3t8N) | 3:43 |
 | 8 | [Floating](https://open.spotify.com/track/15ucMcZh5GAGcjHxbH3X9S) | [Sparsh Dangwal](https://open.spotify.com/artist/1SClATlfgXE2qlr4FcEhUS) | [Floating](https://open.spotify.com/album/5ODZqLN8RmaQTNskfgHksz) | 2:22 |
 | 9 | [Tu Shaam aur Chai](https://open.spotify.com/track/4qpvCNIUdfT2ND2HEisUcZ) | [Shadaab Hashmi](https://open.spotify.com/artist/6yNEY8VOMEzsD2bQZJdqEl) | [Tu Shaam aur Chai](https://open.spotify.com/album/6ozGN0Q1iT85gOGAUw3jQU) | 2:31 |
-| 10 | [Hometown](https://open.spotify.com/track/6RhEbIMGMfzgP87vVnAwjg) | [George Haokip](https://open.spotify.com/artist/70byiBrJdwpYFKP4zlBCie) | [Hometown](https://open.spotify.com/album/52yNfEQGfv1dBgFGRa9zet) | 2:40 |
+| 10 | [Hometown](https://open.spotify.com/track/6RhEbIMGMfzgP87vVnAwjg) | [George Haokip](https://open.spotify.com/artist/70byiBrJdwpYFKP4zlBCie) | [Hometown](https://open.spotify.com/album/52yNfEQGfv1dBgFGRa9zet) | 2:41 |
 | 11 | [Losing Streak \(Bombs Away\)](https://open.spotify.com/track/1FFBaU01mjDSjLuCQ4IGCp) | [Short Round](https://open.spotify.com/artist/3DpQek7q8k2NE0QHOPwkHq) | [The Heart Of It](https://open.spotify.com/album/3249ITG3Tt0BJmCopi4OXg) | 3:39 |
 | 12 | [Jaane Kyun \(Reimagined\)](https://open.spotify.com/track/55R3B2PsVG3RbDHSNPlVOH) | [Reena Gilbert](https://open.spotify.com/artist/0MTZdlgu4KBHtWotp2ShV0), [Keshuv Huria](https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa) | [Jaane Kyun \(Reimagined\)](https://open.spotify.com/album/3IAapIBUVv73r0oiWzqxwW) | 3:38 |
 | 13 | [Khwahishein](https://open.spotify.com/track/0RZ6TjIvdmsM3vL13Lke2P) | [Dhruv Kapoor](https://open.spotify.com/artist/25RpK0wKK891C05JinG9ii) | [Khwahishein](https://open.spotify.com/album/4OiJwmxyhzKvXnZB4JqB53) | 3:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [Din Dhal Jaayenge](https://open.spotify.com/track/3UggeBH24GT4FQFYNt7b0U) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Din Dhal Jaayenge](https://open.spotify.com/album/6aYYb0j9N9QQObLhVZCPrx) | 3:26 |
 | 100 | [Khud Se Mohabbat](https://open.spotify.com/track/30dqoVyhA6BMfIkq8LM7Ig) | [Navjot Ahuja](https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w) | [Khud Se Mohabbat](https://open.spotify.com/album/2vZNU2mvb3AcSwQUIb9N2O) | 3:23 |
 
-Snapshot ID: `MCwxNTdlYWI3MWJjYWVlMDNmNzg5YTA2ZGUwMmViY2IyOGMwNDFjYzhm`
+Snapshot ID: `MCxmNmJjNjE2N2RkMmEzYmQ5Nzc5OWI2ZTJmODJlZmY2ZDdjZjNmY2U4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UXfvEIZvDK.md) - [plain]
 
 > Even rockers need a break.
 
-[Spotify](https://open.spotify.com/user/spotify) - 691,436 likes - 60 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 691,689 likes - 60 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UXfvEIZvDK.md) - [plain]
 | 34 | [Disarm \- 2011 Remaster](https://open.spotify.com/track/6YIggUJW3ttAAPRdnki8RM) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(Deluxe Edition\)](https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo) | 3:16 |
 | 35 | [Rx \(Medicate\)](https://open.spotify.com/track/2UZtI2HUyLRzqBjodvcUmY) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Wake Up Call](https://open.spotify.com/album/1P2L7DD1DCqb0VfpMyByLl) | 3:53 |
 | 36 | [Big Me](https://open.spotify.com/track/6pb5BBnIM5IM7R1cqag6rE) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Foo Fighters](https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY) | 2:12 |
-| 37 | [Take A Picture](https://open.spotify.com/track/6q4aoWgTQ8td2AvqQXuFqm) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Title Of Record \(Expanded Edition\)](https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu) | 6:03 |
-| 38 | [Outside](https://open.spotify.com/track/50Re2bLgXqG9qN7v2QHNTm) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Break the Cycle](https://open.spotify.com/album/2JHjVEvYNVQ9FUUMB2LcMl) | 4:53 |
+| 37 | [Outside](https://open.spotify.com/track/50Re2bLgXqG9qN7v2QHNTm) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Break the Cycle](https://open.spotify.com/album/2JHjVEvYNVQ9FUUMB2LcMl) | 4:53 |
+| 38 | [Take A Picture](https://open.spotify.com/track/6q4aoWgTQ8td2AvqQXuFqm) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Title Of Record \(Expanded Edition\)](https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu) | 6:03 |
 | 39 | [Elderly Woman Behind the Counter in a Small Town \- Remastered](https://open.spotify.com/track/5lHgBqh9VwAAzQma55gHRY) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vs.](https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV) | 3:16 |
 | 40 | [Look What You've Done](https://open.spotify.com/track/0ZSmRnXnP5fdANtVlCok1g) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:50 |
 | 41 | [WALLS](https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 5:29 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UXfvEIZvDK.md) - [plain]
 | 59 | [Immortality \- Remastered](https://open.spotify.com/track/5TxUedy2CM04QihDdOFnsk) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vitalogy](https://open.spotify.com/album/5pd9B3KQWKshHw4lnsSLNy) | 5:18 |
 | 60 | [Thirty\-Three \- Remastered 2012](https://open.spotify.com/track/1fPKWu8NKS1ZGHjFZ5QCAs) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:10 |
 
-Snapshot ID: `MCwzMWU2MmVmMmE0MjdiZmY5YTg4YWVkZmEwOGU2YzBlMmQyNDRjYzk4`
+Snapshot ID: `MCwyMDM1Nzc1NGI3NGI4ZjIxOWViMTRkMjdiMTE4NzdjNTRhYThkZGNh`

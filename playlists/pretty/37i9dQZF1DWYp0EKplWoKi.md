@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp0EKplWoKi.md) - [plain]
 
 > La esquina donde la Música Mexicana se junta con los ritmos urbanos\. Ramón Vega & Christian Nodal en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,410 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,484 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp0EKplWoKi.md) - [plain]
 | 49 | [Una Vez Más](https://open.spotify.com/track/1AGSmPx8zXH09slCKqHBA3) | [Elias Medina](https://open.spotify.com/artist/7c6AUl38S5Xo8t6fvGKJDJ), [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Una Vez Más](https://open.spotify.com/album/2aZ9dXtMoBGTgJMsDKy0Y5) | 2:51 |
 | 50 | [Ámame](https://open.spotify.com/track/5908gatfcY7nK2xJt75zGx) | [La Inolvidable Banda Agua De La Llave](https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ámame](https://open.spotify.com/album/0U36RN0P9awTfozisaj49A) | 3:19 |
 
-Snapshot ID: `MCw4NTVhMDE2ZmY0ZmRhNDBiODkzMjNhNTdiYTNhZGVjZmQxZmZiMWRk`
+Snapshot ID: `MCxiMWVkYzQ1MTY4MjNjZjlmNzAwNWViNjZmZjk5MGRmMDgzYTk4OTYw`

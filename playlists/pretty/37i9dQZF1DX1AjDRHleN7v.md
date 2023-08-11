@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,802 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,849 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 48 | [Frequência do Amor](https://open.spotify.com/track/5uhttrGCBD63qRmJbQOmM1) | [Vitti Romera](https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk) | [Frequência do Amor](https://open.spotify.com/album/4xDj13FFF1V1qDwnQ8mHie) | 2:41 |
 | 49 | [Minha Ilha](https://open.spotify.com/track/3pqg2vWR8mZ9OGxZ8Kxi8v) | [Gabriel Oliveira](https://open.spotify.com/artist/5tvMRnrx7V0hJc4XhbqEtr) | [Minha Ilha](https://open.spotify.com/album/0sOnQvXTfgv9zyrf1Mi7Zj) | 3:43 |
 | 50 | [Volta pra Casa.](https://open.spotify.com/track/57DFFCpq1UjzTdD0yEOq4I) | [Dom Vinera](https://open.spotify.com/artist/6cbcX5qJMGAjqiQmpoKhhx), [Mariii Batista](https://open.spotify.com/artist/1hpaqFjce9vQVa4Bre9Wve) | [Volta pra Casa.](https://open.spotify.com/album/4LhRECtSYSozf5WQTYTZ8c) | 3:39 |
-| 51 | [O Que te Faz Viver](https://open.spotify.com/track/29MSWdwb1Z6s74JIT7FyzS) | [Kallibre](https://open.spotify.com/artist/6ko7vi5bpxvolJ9g47pve7) | [O Que te Faz Viver](https://open.spotify.com/album/0ejMTMDQ4kWbJDimnXPNIr) | 3:50 |
-| 52 | [sei lá](https://open.spotify.com/track/1qZnStNVnb35sjENUA4G3B) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [sei lá](https://open.spotify.com/album/3RIB8BEpinwrq093EmVt8h) | 3:12 |
-| 53 | [Lua Crescente](https://open.spotify.com/track/3pxlJ6ekcf3e5AIwbU9Wzt) | [Calbertini](https://open.spotify.com/artist/1D8wO50htejQzCFByxytKH) | [Lua Crescente](https://open.spotify.com/album/4Fa9dI4joZ8SYsXOSKIlEu) | 3:21 |
-| 54 | [40 Graus](https://open.spotify.com/track/1XHJzC9TKXgbrMk3KFc9tj) | [Igor Borborema](https://open.spotify.com/artist/1y9uZNOkz8wDHfjCqi22D2), [Khouri](https://open.spotify.com/artist/41gBrGxvxCloe8iijf1iDQ), [Menestrel Republicano](https://open.spotify.com/artist/2chZH9QmVHdoiDyKQSNXZ8) | [40 Graus](https://open.spotify.com/album/423mOe8bfFnYPyoZjyIp56) | 3:06 |
+| 51 | [sei lá](https://open.spotify.com/track/1qZnStNVnb35sjENUA4G3B) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [sei lá](https://open.spotify.com/album/3RIB8BEpinwrq093EmVt8h) | 3:12 |
+| 52 | [O Que te Faz Viver](https://open.spotify.com/track/29MSWdwb1Z6s74JIT7FyzS) | [Kallibre](https://open.spotify.com/artist/6ko7vi5bpxvolJ9g47pve7) | [O Que te Faz Viver](https://open.spotify.com/album/0ejMTMDQ4kWbJDimnXPNIr) | 3:50 |
+| 53 | [40 Graus](https://open.spotify.com/track/1XHJzC9TKXgbrMk3KFc9tj) | [Igor Borborema](https://open.spotify.com/artist/1y9uZNOkz8wDHfjCqi22D2), [Khouri](https://open.spotify.com/artist/41gBrGxvxCloe8iijf1iDQ), [Menestrel Republicano](https://open.spotify.com/artist/2chZH9QmVHdoiDyKQSNXZ8) | [40 Graus](https://open.spotify.com/album/423mOe8bfFnYPyoZjyIp56) | 3:06 |
+| 54 | [Lua Crescente](https://open.spotify.com/track/3pxlJ6ekcf3e5AIwbU9Wzt) | [Calbertini](https://open.spotify.com/artist/1D8wO50htejQzCFByxytKH) | [Lua Crescente](https://open.spotify.com/album/4Fa9dI4joZ8SYsXOSKIlEu) | 3:21 |
 | 55 | [Que Vem do Mar](https://open.spotify.com/track/3XNjsb2GWwT9lU3aT4Bnmj) | [Angatu](https://open.spotify.com/artist/6y4sd9nPIx1gPjsnJDkqym), [Dasplanta](https://open.spotify.com/artist/2I3K4rd8YZHLYk6kXeSkKP), [Krabah](https://open.spotify.com/artist/1hfD9VGvCUYoQiB43vsHZB) | [Que Vem do Mar](https://open.spotify.com/album/2KoifypEyKpsQw7wrOJZph) | 4:00 |
 | 56 | [Flying High](https://open.spotify.com/track/7CJpiMB7cKSuV4BYgtkV6C) | [Solano Jacob](https://open.spotify.com/artist/2Z5qm6vzoFzV2FfdDQ8kKm), [Rafael Senegal](https://open.spotify.com/artist/2H2ov0xQLpg5fg6nCElBCK) | [Flying High](https://open.spotify.com/album/75aD61Mdn46by45roKljUL) | 4:02 |
 | 57 | [Terra do Sol](https://open.spotify.com/track/5DFRBacvE2sPo5XSFCFvZf) | [Calmô](https://open.spotify.com/artist/2UhdhFK77w8HgPFhdPZDWy), [Tupi Machine](https://open.spotify.com/artist/2K7WZmzw0YSyXW1xZE1T4l) | [Terra do Sol](https://open.spotify.com/album/479XhvUfr2RSx6IamTa0L8) | 2:33 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 59 | [Corri Demais](https://open.spotify.com/track/4g1YmClJHZJKdPgZkaXKzo) | [Cauê Castro](https://open.spotify.com/artist/5lAz5CTHn1cuYROHKmoAvB) | [Corri Demais](https://open.spotify.com/album/4Dlj7HusLNSwUWS2URvZIV) | 2:58 |
 | 60 | [Nada É em Vão](https://open.spotify.com/track/3n7MHHJ8KjZ5dX7FMjyVks) | [Unidade Nova Praia](https://open.spotify.com/artist/1Onj9Nq0eoWQ1SOdxFJksp) | [Cardeal](https://open.spotify.com/album/6hqXlThpyF5IUy3PMtPwm3) | 3:50 |
 
-Snapshot ID: `MCwzYzU2OGExYzU2Y2ViYTk2NDdhNGJjMDhhM2MxMmQwNzk3YThmZDQw`
+Snapshot ID: `MCw1MzhjZGI5OGNkMGZkNTk1MTliY2U0ZmJhODdlYjJiYjRjNjI1NzNm`

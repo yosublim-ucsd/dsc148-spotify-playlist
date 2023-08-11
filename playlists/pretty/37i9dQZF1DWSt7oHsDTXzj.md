@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 
 > The ultimate seasonal \(indie\) playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,935 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,918 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 23 | [Ain't Christmas \(with Laufey\)](https://open.spotify.com/track/1ishMaKoZFGrxFdGLa2qZN) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Ain't Christmas \(with Laufey\)](https://open.spotify.com/album/4O0enrkdTf0pNzVAx6QeEL) | 3:09 |
 | 24 | [If We Make It Through December](https://open.spotify.com/track/2vnVkHPckitpXFyC2Q2ULG) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [If We Make It Through December](https://open.spotify.com/album/5c7rZDAKYf6PsA3MUfNZXL) | 2:59 |
 | 25 | [Another Year](https://open.spotify.com/track/1OlYVHLE9GZ32CxmWVC0on) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/3quUqUaNPWnyz8Yzhmz4bn) | 4:16 |
-| 26 | [We're The Lucky Ones](https://open.spotify.com/track/0NrucXAEaaZB48N2vIDrjT) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [We're The Lucky Ones](https://open.spotify.com/album/12USXSqjhL8yMhajTI8fD8) | 3:35 |
+| 26 | [We're the Lucky Ones](https://open.spotify.com/track/0NrucXAEaaZB48N2vIDrjT) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [We're The Lucky Ones](https://open.spotify.com/album/12USXSqjhL8yMhajTI8fD8) | 3:35 |
 | 27 | [Let It Snow](https://open.spotify.com/track/7Al57JVDx4Cgj0KMDxJNKF) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Christmas Party](https://open.spotify.com/album/4s3vR4B3qPc9U5Gs1NPxLR) | 2:12 |
 | 28 | [When Christmas Comes Again](https://open.spotify.com/track/19Gx7n7xkTJ29rA8990QKx) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When Christmas Comes Again](https://open.spotify.com/album/1Vw3Muq7BgvhYF5eLL5fjD) | 3:17 |
 | 29 | [Did I Make You Cry on Christmas Day? \(Well, You Deserved it!\)](https://open.spotify.com/track/6PI9MKx35DG9NTqGeRvoKr) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Did I Make You Cry on Christmas Day? \(Well, You Deserved it!\)](https://open.spotify.com/album/2cj5LCdytWU3gRISpV2EUQ) | 3:42 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 35 | [Winter Song](https://open.spotify.com/track/6bVIzKJOhSTD2Pw1cbLhBr) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Winter Song](https://open.spotify.com/album/7obocQT5bd9ObWl2GiMrBT) | 4:14 |
 | 36 | [till christmas day](https://open.spotify.com/track/608gfFTFTlOFklDgQk0yos) | [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [till christmas day](https://open.spotify.com/album/5c3DibcwuIB94jNACIGEcr) | 2:49 |
 | 37 | [Every Holiday](https://open.spotify.com/track/2vXWJZVMkidqV3MwMpuw7a) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Every Holiday](https://open.spotify.com/album/5AREDLpKoBwu7fTHBmta2B) | 3:44 |
-| 38 | [This Christmas](https://open.spotify.com/track/7FNsGGAGyMoSwjH3ivmcep) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [This Christmas](https://open.spotify.com/album/08zgrixDuu7cQJ5AJO0KHW) | 3:39 |
-| 39 | [Snow Song](https://open.spotify.com/track/0Cb1Ltn7Gc84D8x0SKmAZX) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Hours Were the Birds](https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW) | 3:56 |
+| 38 | [Snow Song](https://open.spotify.com/track/0Cb1Ltn7Gc84D8x0SKmAZX) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Hours Were the Birds](https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW) | 3:56 |
+| 39 | [This Christmas](https://open.spotify.com/track/7FNsGGAGyMoSwjH3ivmcep) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [This Christmas](https://open.spotify.com/album/08zgrixDuu7cQJ5AJO0KHW) | 3:39 |
 | 40 | [A Little Love \- From The John Lewis & Waitrose Christmas Advert 2020](https://open.spotify.com/track/7eTonpb9lXgerPaW6I1VnP) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [A Little Love \(From The John Lewis & Waitrose Christmas Advert 2020\)](https://open.spotify.com/album/6uXCDNLCKMosTnjTrDtkp4) | 2:58 |
 | 41 | [Christmas Treat](https://open.spotify.com/track/4Ie4u5mxn53KoPuEn928Gr) | [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Phrazes For The Young](https://open.spotify.com/album/6IN7WBkcwRA1o87hVFaCa3) | 3:11 |
 | 42 | [Linus n' Lucy \(Theme from Peanuts\)](https://open.spotify.com/track/2TLoim0jaX21JnnnR3Rr7r) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Linus n' Lucy \(Theme from Peanuts\)](https://open.spotify.com/album/6l9FTzWX2NIHWYKeDPvCUc) | 2:52 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 51 | [Lonely Man of Winter](https://open.spotify.com/track/1OxRNKfrUtgaWoyLZye2ZA) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Lonely Man of Winter](https://open.spotify.com/album/16KjliJcOiaG197Hzl9z3s) | 3:11 |
 | 52 | [Tinsel Dresses](https://open.spotify.com/track/7lR2IX1qlDpfGZFmW6c4WZ) | [Charlie Bennett](https://open.spotify.com/artist/0tvXkCpAjbDBWXXnYBE9wG) | [Tinsel Dresses](https://open.spotify.com/album/4wuwHm3hBokarHxJSlYk12) | 2:04 |
 | 53 | [This Year For Christmas](https://open.spotify.com/track/14obvglkz3Fzx46YAcYYwl) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [This Year For Christmas](https://open.spotify.com/album/7otWkigGHFHhUwS1kkXSUo) | 1:52 |
-| 54 | [silver second](https://open.spotify.com/track/30Aa66S7RfoyBnrLXXvsrK) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [thank you wisdom angel i love you](https://open.spotify.com/album/7g2z1mqGxTwBeObnhVWppc) | 3:18 |
-| 55 | [Christmas Special](https://open.spotify.com/track/5WPTYqK4CkaYkBY92WhDHW) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Christmas Special](https://open.spotify.com/album/3fXWnaHfndGSCqwBNMP4yl) | 3:08 |
+| 54 | [Christmas Special](https://open.spotify.com/track/5WPTYqK4CkaYkBY92WhDHW) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Christmas Special](https://open.spotify.com/album/3fXWnaHfndGSCqwBNMP4yl) | 3:08 |
+| 55 | [silver second](https://open.spotify.com/track/30Aa66S7RfoyBnrLXXvsrK) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [thank you wisdom angel i love you](https://open.spotify.com/album/7g2z1mqGxTwBeObnhVWppc) | 3:18 |
 | 56 | [That Was the Worst Christmas Ever!](https://open.spotify.com/track/6iabiOyIuzZ96Tk6KyYCRp) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis) | 3:18 |
 | 57 | [Last Christmas](https://open.spotify.com/track/3SgeZfuLcoSjizulShWC2J) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Last Christmas](https://open.spotify.com/album/6CkoecFP3wz56NCfaroT7R) | 4:40 |
 | 58 | [Andalucia](https://open.spotify.com/track/4TUOVMzSSHZFUO33KDx6EB) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [HARK!](https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad) | 3:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 74 | [Holiday](https://open.spotify.com/track/5o95cqHWLtaHToZnSS8j5Q) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx) | 4:08 |
 | 75 | [Christmas](https://open.spotify.com/track/64a8MVFQa55k07yBAcjsam) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Christmas](https://open.spotify.com/album/0eYhnCjTZA7dv0pfnOSAKq) | 2:29 |
 
-Snapshot ID: `MCw3OWI4M2NhODFhMjI5MGMyODU5MjJhODM0ZjA3MTcyZmRlZDQyODc2`
+Snapshot ID: `MCxhNjdjMDg0NmFkNDI1M2MwOTcyMTdjODk3YWUxMTE1NzZkYjM0Y2Fi`

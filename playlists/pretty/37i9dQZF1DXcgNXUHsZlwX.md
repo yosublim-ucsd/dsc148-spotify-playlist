@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,097 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,120 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 13 | [Ojalá](https://open.spotify.com/track/7vWo3iSvgtpFtuSZeUAK7a) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Ojalá](https://open.spotify.com/album/2imTMz6pOueudBTtYwfjVv) | 5:15 |
 | 14 | [The Pursuit of Happiness](https://open.spotify.com/track/5doM1qJXf7JN6kyGjRDlTq) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Landing](https://open.spotify.com/album/70gMWHmqFhPCpwJmdmTYxo) | 3:15 |
 | 15 | [Me semble que c'est facile](https://open.spotify.com/track/5GnjCmIZZi09KzDsiFHYU4) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Me semble que c'est facile](https://open.spotify.com/album/79oVShReMrIa4ACzMTX990) | 3:23 |
-| 16 | [Its A Winding Road](https://open.spotify.com/track/0NWBuu29pR2wjTOKT23auy) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Oh Brother](https://open.spotify.com/album/3CGoYwEwSQwmL5INCrH6e4) | 4:35 |
+| 16 | [Old Love](https://open.spotify.com/track/3NwrnNYWLgDzNqqPj3HdyH) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Old Love](https://open.spotify.com/album/6mYFCScWWqFGpJAWc6FOxg) | 3:25 |
 | 17 | [Elle vit dans les bois](https://open.spotify.com/track/3Z4t5ksVMY1jpQ0NFGaskn) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [Elle vit dans les bois](https://open.spotify.com/album/7zqogW39G3OCAsmbFXN36I) | 3:29 |
-| 18 | [Old Love](https://open.spotify.com/track/3NwrnNYWLgDzNqqPj3HdyH) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Old Love](https://open.spotify.com/album/6mYFCScWWqFGpJAWc6FOxg) | 3:25 |
+| 18 | [Its A Winding Road](https://open.spotify.com/track/0NWBuu29pR2wjTOKT23auy) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Oh Brother](https://open.spotify.com/album/3CGoYwEwSQwmL5INCrH6e4) | 4:35 |
 | 19 | [Si tu reviens](https://open.spotify.com/track/4jfDgYNK4VcADKD6mSSyFs) | [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [Les grandes artères](https://open.spotify.com/album/2HGCx9cx51b0MlkBdzUiaY) | 3:24 |
 | 20 | [La Fin du Monde](https://open.spotify.com/track/1yvOuYHUOrFWMk3k5dUjvi) | [Joseph Carré](https://open.spotify.com/artist/3UH656Ymcof34g5I9EVZ44) | [La Fin du Monde](https://open.spotify.com/album/1Mftp1y25xbwPnIVumAo6o) | 3:38 |
 | 21 | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD) | 4:33 |
@@ -87,16 +87,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 77 | [Dormir dans l'auto](https://open.spotify.com/track/6YeU90UGMd5pOapVHBXF1Q) | [Daniel Bélanger](https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW) | [Dormir dans l'auto](https://open.spotify.com/album/38XYlSUWPXP5g0YiFqnsEl) | 3:28 |
 | 78 | [Ma chanson Natashquan](https://open.spotify.com/track/5N4W2lUwgTZYrAxduTC2sC) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [Ma chanson Natashquan](https://open.spotify.com/album/7xFdfFJadsGE0tdmbRf1D6) | 3:18 |
 | 79 | [Nos corps](https://open.spotify.com/track/3a2qhSVtcRBha7vJ6KHhyT) | [Jérôme Minière](https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT) | [Dans la forêt numérique](https://open.spotify.com/album/0K5AJ0lFnv7l9fdVvswYcR) | 3:51 |
-| 80 | [Platane](https://open.spotify.com/track/74GGj9rWMmSzJEzn4k0rjs) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [La nuit est une panthère](https://open.spotify.com/album/7eau0t375JHKnxK48tequj) | 2:57 |
+| 80 | [J'aurai les cheveux longs](https://open.spotify.com/track/6WL8nV3YgTlrIIlV5aQGyD) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Notre\-Dame\-des\-Sept\-Douleurs](https://open.spotify.com/album/4kNpkRG2YpK4jV9OoopVNh) | 3:55 |
 | 81 | [Fables \- The Garden Version](https://open.spotify.com/track/3jLVtU8Sm0cyiVHWFENICL) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Fables \(The Garden Version\)](https://open.spotify.com/album/38uDEzlrOXkLtPfRz0zX5s) | 2:56 |
-| 82 | [Mille et un](https://open.spotify.com/track/1BBYJdtHPOhITu6oDZyhHc) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Pourchasser l'aube](https://open.spotify.com/album/3xer7sT9XMC2HV98zIFfJR) | 3:34 |
-| 83 | [Un peu de magie](https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz) | [Philippe Brach](https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt) | [Les gens qu'on aime](https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9) | 3:02 |
-| 84 | [J'aurai les cheveux longs](https://open.spotify.com/track/6WL8nV3YgTlrIIlV5aQGyD) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Notre\-Dame\-des\-Sept\-Douleurs](https://open.spotify.com/album/4kNpkRG2YpK4jV9OoopVNh) | 3:55 |
-| 85 | [Maison ouverte](https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [Maison ouverte](https://open.spotify.com/album/4CBp6ELEy0RCE6J2KjmVgD) | 3:59 |
-| 86 | [Fontaine à vœux](https://open.spotify.com/track/22zJbNjvH4ZFplXfypE9Yo) | [Les Hay Babies](https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx) | [Boîte aux lettres](https://open.spotify.com/album/4Ziyy1jo91GImMnuTHtU19) | 3:30 |
+| 82 | [Platane](https://open.spotify.com/track/74GGj9rWMmSzJEzn4k0rjs) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [La nuit est une panthère](https://open.spotify.com/album/7eau0t375JHKnxK48tequj) | 2:57 |
+| 83 | [Mille et un](https://open.spotify.com/track/1BBYJdtHPOhITu6oDZyhHc) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Pourchasser l'aube](https://open.spotify.com/album/3xer7sT9XMC2HV98zIFfJR) | 3:34 |
+| 84 | [Un peu de magie](https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz) | [Philippe Brach](https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt) | [Les gens qu'on aime](https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9) | 3:02 |
+| 85 | [Fontaine à vœux](https://open.spotify.com/track/22zJbNjvH4ZFplXfypE9Yo) | [Les Hay Babies](https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx) | [Boîte aux lettres](https://open.spotify.com/album/4Ziyy1jo91GImMnuTHtU19) | 3:30 |
+| 86 | [Maison ouverte](https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [Maison ouverte](https://open.spotify.com/album/4CBp6ELEy0RCE6J2KjmVgD) | 3:59 |
 | 87 | [Pleure pas pour moi](https://open.spotify.com/track/3IVgEYBvkSViPI2nq0uoxJ) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 4:17 |
-| 88 | [Le Tour](https://open.spotify.com/track/1pCNb1IlrpyBYCKPZ4v9wU) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Interlude](https://open.spotify.com/album/2ZqA1oNYPM798rTmx0radP) | 3:20 |
-| 89 | [Tu ne seras jamais là](https://open.spotify.com/track/6WNVFXtZyFmfosAxvisgPL) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Tu ne seras jamais là](https://open.spotify.com/album/4fYbZnjvq99Qft84BJepre) | 3:07 |
+| 88 | [Tu ne seras jamais là](https://open.spotify.com/track/6WNVFXtZyFmfosAxvisgPL) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Tu ne seras jamais là](https://open.spotify.com/album/4fYbZnjvq99Qft84BJepre) | 3:07 |
+| 89 | [Le Tour](https://open.spotify.com/track/1pCNb1IlrpyBYCKPZ4v9wU) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Interlude](https://open.spotify.com/album/2ZqA1oNYPM798rTmx0radP) | 3:20 |
 | 90 | [Écoute](https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [Écoute](https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F) | 2:32 |
 | 91 | [Morceaux](https://open.spotify.com/track/5cEjAzmvWIQYF54kUTdRKY) | [Saratoga](https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn) | [Ceci est une espèce aimée](https://open.spotify.com/album/1EFz0WbdlqvV50NkSxJoWq) | 4:59 |
 | 92 | [On brûlera \- Spotify Singles](https://open.spotify.com/track/5yYaqnixSbNmlcYRywbCfm) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [Spotify Singles](https://open.spotify.com/album/3Xj4TtMdMydSBQTjCWobxp) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 99 | [Rendez\-vous \(feat\. Camélia Jordana\)](https://open.spotify.com/track/0ICXb82u1L3CpYvYQI14xz) | [Charlie Winston](https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3), [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Rendez\-vous \(feat\. Camélia Jordana\)](https://open.spotify.com/album/270Bbbh2dJynbVAV9qb3kO) | 3:07 |
 | 100 | [La fumée des bougies](https://open.spotify.com/track/7IsofhSconuBgXO2cvpbVL) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [La fumée des bougies](https://open.spotify.com/album/0s5d7SHgMqa5EJlz24vsLp) | 3:57 |
 
-Snapshot ID: `MCw1YjgwY2Y5ZTFkMzA3ZmUxMTU2NTZmMWE5NzQyNjY3M2JjMzkwNjdh`
+Snapshot ID: `MCxjNTI2NDVkOTU0OWEzY2ExMTA0ZjBmZTJhOGM1ZjBmZjZmMmY3ZjY5`

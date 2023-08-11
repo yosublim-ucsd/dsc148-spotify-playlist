@@ -4,7 +4,7 @@
 
 > Celebrating all the great women of pop music\. Cover: Kelly Clarkson
 
-533 songs - 1 day 8 hr 2 min
+534 songs - 1 day 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,7 +322,8 @@
 | [Miento](https://open.spotify.com/track/5QCMN6OiDlzUU5SUmFlv6n) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Miento](https://open.spotify.com/album/6qwfIS2U7opeY2DeNVPglv) | 3:04 | 2019-06-22 | 2022-04-10 |
 | [Might Not Like Me](https://open.spotify.com/track/2xRViWc1s1vEguSrtHbdun) | [Brynn Elliott](https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz) | [Might Not Like Me](https://open.spotify.com/album/0lvq07hUML50I2zHp1zrua) | 3:52 | 2019-05-26\* | 2022-02-25 |
 | [Million Reasons](https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) | 3:25 | 2019-05-26\* | 2019-08-29 |
-| [mine](https://open.spotify.com/track/5WVwFPBm6bI9KPRV2AUR2T) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [mine / me](https://open.spotify.com/album/0Y4UzVqYI5o4GBxkQimdL8) | 3:11 | 2023-08-04 |  |
+| [mine](https://open.spotify.com/track/20XB21FHWhdyWTs5z7p9Vl) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [chemistry](https://open.spotify.com/album/5c56JYNgc48iDnwHHlOcye) | 3:11 | 2023-08-04 |  |
+| [mine](https://open.spotify.com/track/5WVwFPBm6bI9KPRV2AUR2T) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [mine / me](https://open.spotify.com/album/0Y4UzVqYI5o4GBxkQimdL8) | 3:11 | 2023-08-04 | 2023-08-11 |
 | [Mirror](https://open.spotify.com/track/0hCiUcA4R1IQ1aJTyUkJbb) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [Emotional Education](https://open.spotify.com/album/1hmaSfia4BoTi6fmndmQ2r) | 3:38 | 2019-08-29 | 2022-04-16 |
 | [Miss Independent](https://open.spotify.com/track/0spLdf4QyLsUWalfu8RO16) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Thankful](https://open.spotify.com/album/7pkkMNC7stv9VyAepasZN3) | 3:34 | 2021-03-06 | 2022-04-19 |
 | [Monotonía](https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Monotonía](https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe) | 2:38 | 2022-10-25 |  |

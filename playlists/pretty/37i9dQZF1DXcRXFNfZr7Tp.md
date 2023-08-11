@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 
 > Current favorites and exciting new music\. Cover: Bebe Rexha & David Guetta
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,830,960 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,831,390 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 | 99 | [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 |
 | 100 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 |
 
-Snapshot ID: `MCw4YzA0NWJiNGI4N2M5N2VjMzRlMjBlYmUwMjE0ZGI5MTdmMTE0M2M4`
+Snapshot ID: `MCxhYWUxNDM2MDE5ZjMxY2NmNWNlN2IyNWJhZGM2NTE0NGIwNmZmMTg1`

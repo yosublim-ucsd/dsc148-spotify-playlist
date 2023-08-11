@@ -10566,7 +10566,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-10",
+      "date_removed": null,
       "duration_ms": 192940,
       "name": "The Lost Soul Down",
       "url": "https://open.spotify.com/track/5dPy1CCYQ04xaQHpajf5CY"
@@ -13368,7 +13368,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 133541,
       "name": "\u0412\u041c\u0415\u0421\u0422\u0415",
       "url": "https://open.spotify.com/track/04Rp6XjTowBcL7gIbJf7uc"
@@ -17444,7 +17444,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 169056,
       "name": "\u041c\u043e\u044f \u0422\u0435\u043d\u044c \u0438 \u042f",
       "url": "https://open.spotify.com/track/5VbtwldokIWy266zZqq9Bt"
@@ -22838,6 +22838,24 @@
       "duration_ms": 148609,
       "name": "\u042f \u043f\u0438\u0437\u0434\u0430\u0442\u044b\u0439",
       "url": "https://open.spotify.com/track/1MiUVjoHt4jiskDrt2ZHrq"
+    },
+    {
+      "album": {
+        "name": "\u042f \u043f\u043e\u0434\u043d\u0438\u043c\u0430\u044e \u0441\u0432\u043e\u044e \u0433\u043e\u043b\u043e\u0432\u0443 \u0432\u0432\u0435\u0440\u0445",
+        "url": "https://open.spotify.com/album/075RSBB537dqc2j6A0QDc0"
+      },
+      "artists": [
+        {
+          "name": "\u0421\u0415\u0420\u0415\u0413\u0410 \u041f\u0418\u0420\u0410\u0422",
+          "url": "https://open.spotify.com/artist/5IS4dQ9lDW01IY1buR7bW7"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165683,
+      "name": "\u042f \u043f\u043e\u0434\u043d\u0438\u043c\u0430\u044e \u0441\u0432\u043e\u044e \u0433\u043e\u043b\u043e\u0432\u0443 \u0432\u0432\u0435\u0440\u0445",
+      "url": "https://open.spotify.com/track/6PLtAhB74CfLT4VwmE5IBM"
     },
     {
       "album": {

@@ -1,13 +1,33 @@
 {
   "description": "Down-tempo and easy listening music. Cover: Budjerah",
-  "num_followers": 5871,
+  "num_followers": 5869,
   "original_name": "Low Key Pop",
   "owner": {
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "MTY3MSw5NmNlMmYwNmZmMmIwN2FmOTdhY2U5MDFkOWYzZWE4ZWNmMWE3OWYw",
+  "snapshot_id": "MTY3MiwwMjRkMWQ5ZjFhYmU3NTBlYjhiMDAyYjMzYWE1YjBjNGY3ZjMxNTY1",
   "tracks": [
+    {
+      "added_at": "2023-08-10 23:09:40",
+      "album": {
+        "name": "Give You Love (feat. Jason Derulo)",
+        "url": "https://open.spotify.com/album/19F2dOW0JWTAuK941khqsA"
+      },
+      "artists": [
+        {
+          "name": "Jessica Mauboy",
+          "url": "https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 174125,
+      "name": "Give You Love (feat. Jason Derulo)",
+      "url": "https://open.spotify.com/track/672pbi6q4UuyJYIuThNsq3"
+    },
     {
       "added_at": "2023-05-26 01:57:48",
       "album": {

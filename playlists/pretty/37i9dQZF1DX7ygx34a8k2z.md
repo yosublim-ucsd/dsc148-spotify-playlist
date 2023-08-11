@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 
 > dig through the record bin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,260 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,525 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 22 | [Buddy Holly](https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 2:39 |
 | 23 | [All Apologies](https://open.spotify.com/track/1Ic9pKxGSJGM0LKeqf6lGe) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \- 20th Anniversary Remaster](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 3:53 |
 | 24 | [Loser](https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Mellow Gold](https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8) | 3:55 |
-| 25 | [Teardrop](https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR) | 5:30 |
-| 26 | [In the Meantime](https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC) | [Spacehog](https://open.spotify.com/artist/3NZE8jDD2cCzd4vUyZ5CQQ) | [Resident Alien](https://open.spotify.com/album/6vOmA5zWeFeKvuRBxaO59A) | 4:59 |
+| 25 | [In the Meantime](https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC) | [Spacehog](https://open.spotify.com/artist/3NZE8jDD2cCzd4vUyZ5CQQ) | [Resident Alien](https://open.spotify.com/album/6vOmA5zWeFeKvuRBxaO59A) | 4:59 |
+| 26 | [Teardrop](https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR) | 5:30 |
 | 27 | [Jeremy](https://open.spotify.com/track/62nQ8UZVqR2RMvkJHkcO2o) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 5:18 |
 | 28 | [Cut Your Hair](https://open.spotify.com/track/4tBl1xhBg5PETpBvFnQmGl) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Crooked Rain, Crooked Rain](https://open.spotify.com/album/1XFNz6KIvLyIsLFOiLRKqP) | 3:06 |
 | 29 | [Pictures Of Success](https://open.spotify.com/track/6Qa6soMB9oo7GxtP9bLEzb) | [Rilo Kiley](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) | [Take Offs And Landings](https://open.spotify.com/album/7wCKIseB72EdOAYGJwytBt) | 6:51 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 90 | [Cure for Pain](https://open.spotify.com/track/3hO9gaVixKDoYDrlTBrEWf) | [Morphine](https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5) | [Cure for Pain](https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6) | 3:14 |
 | 91 | [Piano Fire](https://open.spotify.com/track/0N3H8hAe6Lfu2iGSxGVdGQ) | [Sparklehorse](https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE), [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [It's A Wonderful Life](https://open.spotify.com/album/6iP3HGmoRXFUrKiml2QVkz) | 2:43 |
 | 92 | [A.M\. 180](https://open.spotify.com/track/60SskFg8mhPrzBLLZJ1BK7) | [Grandaddy](https://open.spotify.com/artist/3W4xM5XYtUp4ifYYPVKVdk) | [Under the Western Freeway](https://open.spotify.com/album/32xzfjENpVMzOCMAiiY1YA) | 3:20 |
-| 93 | [Sugar Kane](https://open.spotify.com/track/6q03mlzKsM1m3TLpi6T6Cw) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Dirty](https://open.spotify.com/album/05Zo2yt4reflRVNXFOYxDD) | 5:57 |
-| 94 | [What’s The Frequency, Kenneth? \- Remastered](https://open.spotify.com/track/2ElyyOi86SHyMKcUrv2f8e) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Monster \(Remastered\)](https://open.spotify.com/album/17mS71JVgCCYLVdVcG0aUT) | 4:00 |
+| 93 | [What’s The Frequency, Kenneth? \- Remastered](https://open.spotify.com/track/2ElyyOi86SHyMKcUrv2f8e) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Monster \(Remastered\)](https://open.spotify.com/album/17mS71JVgCCYLVdVcG0aUT) | 4:00 |
+| 94 | [Sugar Kane](https://open.spotify.com/track/6q03mlzKsM1m3TLpi6T6Cw) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Dirty](https://open.spotify.com/album/05Zo2yt4reflRVNXFOYxDD) | 5:57 |
 | 95 | [French Disko](https://open.spotify.com/track/4Zb88sF1Qj778KV5lstVxT) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Refried Ectoplasm \[Switched On Volume 2\]](https://open.spotify.com/album/44hyVkJM5NHGkQH48MWkid) | 3:35 |
 | 96 | [Jumping Fences](https://open.spotify.com/track/36Us7iQfslxRe1sOqUDmyt) | [The Olivia Tremor Control](https://open.spotify.com/artist/4a2nAPF15Gv8V65Ba3IJSB) | [Dusk at Cubist Castle](https://open.spotify.com/album/7IBuhzVZPhSqMDMIP60Ehh) | 1:52 |
 | 97 | [Random Rules](https://open.spotify.com/track/6lquLzGE5CRoq2htyr2QGS) | [Silver Jews](https://open.spotify.com/artist/4ePunOqQbOYoQwd1298g3Z) | [American Water](https://open.spotify.com/album/2GbNeQEg5fLtuxjr5nlIpc) | 3:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 99 | [The Boy With The Arab Strap](https://open.spotify.com/track/2PV8oZJo3K3bXENO7FRRtp) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [The Boy With The Arab Strap](https://open.spotify.com/album/4AChnLbiWqxiotXz8kv6D7) | 5:14 |
 | 100 | [Sometimes Always](https://open.spotify.com/track/11sxpJrfYJFxkA77PauDj4) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Stoned and Dethroned](https://open.spotify.com/album/24tOMYmmWLNGiLSBaarqyb) | 2:31 |
 
-Snapshot ID: `MCwzYTc2MDgwZGY4M2JiMGQwZjk0Mjk4ODY3YTFmMDM5N2NhZWNmMDZl`
+Snapshot ID: `MCw0ZmE2OWRlMDI3OTZlZWI4YmI1YzFiZmQ5NTk5OWExYmNkYzU1YjRh`

@@ -4,7 +4,7 @@
 
 > Altijd fris in Fresh Hits\. Cover: Niklas Dee, Old Jim, Enny\-Mae
 
-263 songs - 12 hr 33 min
+264 songs - 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Overdrive](https://open.spotify.com/track/3t0ic4mkhvhamrKDkulB8v) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Overdrive](https://open.spotify.com/album/4zHb7PAazMdVXw2sOCNJ1V) | 2:27 | 2023-07-20 |  |
 | [Padam Padam](https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV) | 2:46 | 2023-06-29 | 2023-08-08 |
 | [Padellen](https://open.spotify.com/track/7vjvSnuolvOBNgJDSodY2B) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Padellen](https://open.spotify.com/album/3q35BTO8rRIOxSPFJgGvh1) | 2:08 | 2023-04-05 | 2023-05-12 |
+| [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-08-10 |  |
 | [PAINTING PICTURES](https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [5LBS OF PRESSURE](https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI) | 2:02 | 2023-03-01 | 2023-03-14 |
 | [pick up the phone](https://open.spotify.com/track/6xtW6EBqnClqaLfsxKyh3u) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [pick up the phone](https://open.spotify.com/album/4bafhNct8QkzoNEye8WFgf) | 2:25 | 2023-06-30 | 2023-07-14 |
 | [Pipe Opzij](https://open.spotify.com/track/4ZeGQlQNEiQSdtn8mV6LHe) | [Cor](https://open.spotify.com/artist/66wqVYADY665LeMxs8nlk3), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Met Liefde Uit De Wijk](https://open.spotify.com/album/0QQhifYaaX5Ca8dYi4qKax) | 2:48 | 2023-06-01 | 2023-06-15 |
@@ -219,7 +220,7 @@
 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 | 2023-06-05 | 2023-08-01 |
 | [Stemgeluid](https://open.spotify.com/track/1HFFfvXM13DA5hYt6SjhZj) | [Vlins](https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5), [Laura Yasmin](https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2) | [Stemgeluid](https://open.spotify.com/album/31q5PSjc9lvGbg6glT3dsk) | 2:55 | 2023-02-23 | 2023-03-18 |
 | [Sukkel](https://open.spotify.com/track/2C8hxULhQWdb6n96fgUMOM) | [Cor](https://open.spotify.com/artist/66wqVYADY665LeMxs8nlk3), [Hef](https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ) | [Sukkel](https://open.spotify.com/album/6ygyoxl3Nhp6X1LrR5gQRf) | 2:47 | 2023-05-25 | 2023-06-02 |
-| [Summer Too Hot](https://open.spotify.com/track/7g6FlLHxbVqMi1s7S8tDTp) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Summer Too Hot](https://open.spotify.com/album/379BJxUOZlfM3UoGjrDpZN) | 3:08 | 2023-06-30 |  |
+| [Summer Too Hot](https://open.spotify.com/track/7g6FlLHxbVqMi1s7S8tDTp) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Summer Too Hot](https://open.spotify.com/album/379BJxUOZlfM3UoGjrDpZN) | 3:08 | 2023-06-30 | 2023-08-11 |
 | [Ta Ta Ta](https://open.spotify.com/track/3rmqNsOiGqqvFNTmGlzl4R) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Bayanni](https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL) | 2:39 | 2023-02-23 | 2023-03-07 |
 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 | 2023-03-07 | 2023-04-28 |
 | [Tek Tek \(feat\. MHD\)](https://open.spotify.com/track/4TBxB7MulrQ1Nb2uxHwJX1) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [Tek Tek \(feat\. MHD\)](https://open.spotify.com/album/7uWbDuFBLAEI68L9U2pJ85) | 2:41 | 2023-05-11 | 2023-06-09 |

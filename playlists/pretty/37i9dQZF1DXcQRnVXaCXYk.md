@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQRnVXaCXYk.md) - [plain]
 
 > Neem plaats in je eigen Pop Lounge, thuis, onderweg of op het werk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,992 likes - 70 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,999 likes - 70 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQRnVXaCXYk.md) - [plain]
 | 51 | [We Could Start a Thing](https://open.spotify.com/track/0EK4qiXLTDv0dq1tIJhUHh) | [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr) | [We Could Start a Thing](https://open.spotify.com/album/55oBheqmFGiAYmFFY0Byyg) | 2:24 |
 | 52 | [I'm Not Going Anywhere](https://open.spotify.com/track/7f59sM8HM55lTngAUMTfMU) | [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [I'm Not Going Anywhere](https://open.spotify.com/album/3Z7B2LaqVhGrl8Rzk1N2AC) | 2:59 |
 | 53 | [Need You Tonight](https://open.spotify.com/track/4HLuopIC1sQIgTAcDwkkqR) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy), [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq) | [Need You Tonight](https://open.spotify.com/album/2vVY1FESWAdXJLyF7vd7w8) | 3:18 |
-| 54 | [In The Middle](https://open.spotify.com/track/7n2tqj3L3fflT1ApcOWWgw) | [Mad3 for M3](https://open.spotify.com/artist/6gkVmcX3QAvhKaS481fpzV), [Cris Cab](https://open.spotify.com/artist/7vWBZm3sQ8yQvfV4nXxHXK) | [In The Middle](https://open.spotify.com/album/3jJe1v9GSpDnow0L8Tw4ZW) | 3:41 |
+| 54 | [Long Run \(feat\. Nina Nesbitt\)](https://open.spotify.com/track/71xLha47XAePi0EbzHAbEW) | [Deacon](https://open.spotify.com/artist/4rK6HLvoZhLFUTcUhG9WfC), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Long Run \(feat\. Nina Nesbitt\)](https://open.spotify.com/album/5D3DPkdMjst8RNJi9LmWm7) | 2:54 |
 | 55 | [hunger](https://open.spotify.com/track/00FRYCC99BHS1ewIqteTwh) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [hunger](https://open.spotify.com/album/0POoxs5GMl3mqyOi7olevg) | 3:11 |
-| 56 | [Long Run \(feat\. Nina Nesbitt\)](https://open.spotify.com/track/71xLha47XAePi0EbzHAbEW) | [Deacon](https://open.spotify.com/artist/4rK6HLvoZhLFUTcUhG9WfC), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Long Run \(feat\. Nina Nesbitt\)](https://open.spotify.com/album/5D3DPkdMjst8RNJi9LmWm7) | 2:54 |
+| 56 | [In The Middle](https://open.spotify.com/track/7n2tqj3L3fflT1ApcOWWgw) | [Mad3 for M3](https://open.spotify.com/artist/6gkVmcX3QAvhKaS481fpzV), [Cris Cab](https://open.spotify.com/artist/7vWBZm3sQ8yQvfV4nXxHXK) | [In The Middle](https://open.spotify.com/album/3jJe1v9GSpDnow0L8Tw4ZW) | 3:41 |
 | 57 | [I Don't Care](https://open.spotify.com/track/2PFhevKRsRROz9DjQWBcYV) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2), [James Droll](https://open.spotify.com/artist/3lPtB78D5puSWQ7ltAafQw) | [I Don't Care](https://open.spotify.com/album/7Fy6WDol97Dr74xDgZxqu1) | 3:45 |
 | 58 | [Learn to Love \- Stripped](https://open.spotify.com/track/3QuArt3TFanlz6XOUiphiE) | [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq), [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Learn to Love \(Stripped\)](https://open.spotify.com/album/5lluwVdUqKhjsby4RLMahS) | 3:32 |
 | 59 | [Love You've Lost](https://open.spotify.com/track/5tf4wfXUBQiYXNARdTA4ti) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [Honeymoon Phase](https://open.spotify.com/album/5Nh3LSPD9v1zdV14xnnPqi) | 3:39 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQRnVXaCXYk.md) - [plain]
 | 69 | [Sorry That I Do That](https://open.spotify.com/track/2WxCovJaXPloCHw0yJ0Z0z) | [Anna Clendening](https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD) | [Evolve EP](https://open.spotify.com/album/4le148qEn3xi1yh9bknqAh) | 2:29 |
 | 70 | [If I Don't Love Me](https://open.spotify.com/track/5SXJLqDXUBoWca08NFyVOd) | [Martin Jasper](https://open.spotify.com/artist/7vcAIkOgnOD1L8aXk7YheZ) | [If I Don't Love Me](https://open.spotify.com/album/2EJdwuhF2RGZ19TRL4amWt) | 2:57 |
 
-Snapshot ID: `MCxmMDE4NGNiOWZjOGE4OWI1ODBjMTJmMDRmYWE4ZDYzMDExODgxYzFh`
+Snapshot ID: `MCw2YTJiMGRkOTI0N2ViZDM0MWI4ZmFiMjJiYmZhYmY3ZmI3ZGU5YWU3`

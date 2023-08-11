@@ -1,12 +1,12 @@
 {
   "description": "Feel on top of the world with these uplifting anthems of the 70s.",
-  "num_followers": 114782,
+  "num_followers": 114856,
   "original_name": "Good Feeling 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzQ5ZmU3MzU2MDNkMjI5M2QxNzBjMmQ3N2JjMDJkOTI5M2MzNDg4",
+  "snapshot_id": "MCxiOTAyNzJkYmZkMmQxMjhmNWMyODAyMDhhZmQxYzE2NzE2NWI5Y2U3",
   "tracks": [
     {
       "added_at": "2022-06-08 06:26:41",
@@ -795,34 +795,38 @@
     {
       "added_at": "2022-06-08 06:26:41",
       "album": {
-        "name": "Cosmo's Factory",
-        "url": "https://open.spotify.com/album/5w2X5ZmdE4u0XGkOU7BiLG"
+        "name": "Not Fragile",
+        "url": "https://open.spotify.com/album/3TtCMt4XLddj9PQeVBfsK1"
       },
       "artists": [
         {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+          "name": "Bachman-Turner Overdrive",
+          "url": "https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5"
         }
       ],
-      "duration_ms": 152466,
-      "name": "Lookin' Out My Back Door",
-      "url": "https://open.spotify.com/track/1YqJSpIxdavjQ8BxAttU0r"
+      "duration_ms": 234866,
+      "name": "You Ain't Seen Nothing Yet",
+      "url": "https://open.spotify.com/track/0HOrDVS349XFcpCYsO2hAP"
     },
     {
       "added_at": "2022-06-08 06:26:41",
       "album": {
-        "name": "In the Summertime",
-        "url": "https://open.spotify.com/album/30UgyUTvmdYXNo7CeMabXY"
+        "name": "Grease (The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
       },
       "artists": [
         {
-          "name": "Mungo Jerry",
-          "url": "https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb"
+          "name": "John Travolta",
+          "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
+        },
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
         }
       ],
-      "duration_ms": 215800,
-      "name": "In the Summertime",
-      "url": "https://open.spotify.com/track/3RNyGLgSvmVRZ7xKUp8Wgd"
+      "duration_ms": 216906,
+      "name": "Summer Nights - From \u201cGrease\u201d",
+      "url": "https://open.spotify.com/track/2AVkArcfALVk2X8sfPRzya"
     }
   ],
   "unique_name": "Good Feeling 70s",

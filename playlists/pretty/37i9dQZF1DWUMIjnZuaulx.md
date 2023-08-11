@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover:  <a href="https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW?si=745abbac4d3a498c">DOE</a>, <a href="https://www.thestellarawards.com/index.html">Stellar Awards'</a> Albertina Walker Female Artist of the Year
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,504 likes - 100 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,653 likes - 100 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 99 | [So Good to Me](https://open.spotify.com/track/7lsHTcbrV6XkSIbTmBCoeN) | [Brent Jones](https://open.spotify.com/artist/2b9paaAwb2Xd3iR1LSnCDN) | [Nothing Else Matters \(Instead of Complaining, Praise Him\)](https://open.spotify.com/album/2gpmw0WN8nQTmDxKfczPEE) | 4:00 |
 | 100 | [Waiting \(Reimagined\)](https://open.spotify.com/track/1eX6ayUcyZbvuQLyqZG6zu) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Waiting \(Reimagined\)](https://open.spotify.com/album/1MD6xmLqXiKeuruRTskDur) | 3:45 |
 
-Snapshot ID: `MCw2MTRmYjBjNTE4NmEzZWI1YzM2NmNkOWM0M2NiMDkyMTNhYTJlNjMx`
+Snapshot ID: `MCw5N2IxMThhZjM2NTM1NTlkMjcxY2JkNjE2YTI3Njg0MDZlODBiYTIx`

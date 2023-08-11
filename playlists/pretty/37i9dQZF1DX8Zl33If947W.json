@@ -1,12 +1,12 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 138746,
+  "num_followers": 138821,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjY0NWYwNzQ1N2ZkMWRhOWE5ZDRjZmNiOTFiN2Y0MDJmNTFiZTcw",
+  "snapshot_id": "MCxjZjI3NTA2NDE5MWE0MjM0NjQxZmM3ZmQwZTE1MDA4OWRiMDg2NzJm",
   "tracks": [
     {
       "added_at": "2023-03-06 08:21:00",
@@ -303,38 +303,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Nador",
-        "url": "https://open.spotify.com/album/2u6q5sBh8VigLzYghKk5r0"
-      },
-      "artists": [
-        {
-          "name": "Namika",
-          "url": "https://open.spotify.com/artist/0HSc7yUdNSosxRb2UJnXlz"
-        }
-      ],
-      "duration_ms": 190186,
-      "name": "Lieblingsmensch",
-      "url": "https://open.spotify.com/track/6oHDvarQSp0mf5AD1SyNH0"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
-        "name": "30-11-80",
-        "url": "https://open.spotify.com/album/5SyLIeBzGDJ4YzGDNqVVB2"
-      },
-      "artists": [
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
-        }
-      ],
-      "duration_ms": 195416,
-      "name": "Liebe",
-      "url": "https://open.spotify.com/track/5cBx2v7XJSErfesDmgNtr2"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Endorphine",
         "url": "https://open.spotify.com/album/6NXTCMg4iFotpfmxp7Cf8S"
       },
@@ -355,6 +323,38 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
+        "name": "30-11-80",
+        "url": "https://open.spotify.com/album/5SyLIeBzGDJ4YzGDNqVVB2"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "duration_ms": 195416,
+      "name": "Liebe",
+      "url": "https://open.spotify.com/track/5cBx2v7XJSErfesDmgNtr2"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Nador",
+        "url": "https://open.spotify.com/album/2u6q5sBh8VigLzYghKk5r0"
+      },
+      "artists": [
+        {
+          "name": "Namika",
+          "url": "https://open.spotify.com/artist/0HSc7yUdNSosxRb2UJnXlz"
+        }
+      ],
+      "duration_ms": 190186,
+      "name": "Lieblingsmensch",
+      "url": "https://open.spotify.com/track/6oHDvarQSp0mf5AD1SyNH0"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
         "name": "Raop",
         "url": "https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV"
       },
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Powerbausa",
-        "url": "https://open.spotify.com/album/5VJCtm8ZQuCiOfiiZqjEJa"
-      },
-      "artists": [
-        {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
-        }
-      ],
-      "duration_ms": 203630,
-      "name": "Was du Liebe nennst",
-      "url": "https://open.spotify.com/track/2hIY4sjfMeKwXXh2LvhrMo"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Reim (Expanded Edition)",
         "url": "https://open.spotify.com/album/5VpPRQ5SHRyTLxBpDupDQg"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 220373,
       "name": "Verdammt, ich lieb Dich - 2020 Remastered",
       "url": "https://open.spotify.com/track/2S3XOnYSBvRPAJukBB9dLt"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Powerbausa",
+        "url": "https://open.spotify.com/album/5VJCtm8ZQuCiOfiiZqjEJa"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+        }
+      ],
+      "duration_ms": 203630,
+      "name": "Was du Liebe nennst",
+      "url": "https://open.spotify.com/track/2hIY4sjfMeKwXXh2LvhrMo"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Nena",
-        "url": "https://open.spotify.com/album/78hVLZZJhaXgrnfXKc6yxF"
-      },
-      "artists": [
-        {
-          "name": "Nena",
-          "url": "https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV"
-        }
-      ],
-      "duration_ms": 220173,
-      "name": "Nur getr\u00e4umt",
-      "url": "https://open.spotify.com/track/27DEhFC0G2olRFgCTksnfw"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Mit K",
         "url": "https://open.spotify.com/album/3f48kV1gGqmwGYae1bYgU9"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 258360,
       "name": "Kein Liebeslied",
       "url": "https://open.spotify.com/track/6yIUWcSPpZX7ftkHqe0Lii"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Nena",
+        "url": "https://open.spotify.com/album/78hVLZZJhaXgrnfXKc6yxF"
+      },
+      "artists": [
+        {
+          "name": "Nena",
+          "url": "https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV"
+        }
+      ],
+      "duration_ms": 220173,
+      "name": "Nur getr\u00e4umt",
+      "url": "https://open.spotify.com/track/27DEhFC0G2olRFgCTksnfw"
     },
     {
       "added_at": "2023-03-06 08:21:00",

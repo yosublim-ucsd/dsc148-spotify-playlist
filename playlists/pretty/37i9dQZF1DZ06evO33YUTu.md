@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 
 > This is Greeicy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,817 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,850 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 | 32 | [Ya Para Qué](https://open.spotify.com/track/5jX5LKsgCcM2GMSLfVYn78) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Baila](https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH) | 3:26 |
 | 33 | [Perfecta](https://open.spotify.com/track/5gH9CSkFW45IjfocI8MPsb) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Perfecta](https://open.spotify.com/album/7qFvB7ZvDIud6x16xMv3Ur) | 3:02 |
 | 34 | [La Ducha Remix \(con Becky G, Tini\)](https://open.spotify.com/track/0044ljTRPPQdAkCUXK6s7A) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La Ducha Remix \(con Becky G, Tini\)](https://open.spotify.com/album/0YsMUawHhH0VNOpVLi85UI) | 4:34 |
-| 35 | [Lokita](https://open.spotify.com/track/6FLuiqBet9aqtsipah7g4T) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA \- Cap.1 \- Que me quiera / Lokita](https://open.spotify.com/album/4DqEPS1D4QsCtL7m0m5DZ1) | 2:06 |
+| 35 | [No Pasa Nada](https://open.spotify.com/track/3Y8xqiwesgj5ytOPpHo6Nx) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [La Piti](https://open.spotify.com/album/1LVYwpAVevauvcv6s8Euh9) | 3:03 |
 | 36 | [Contigo](https://open.spotify.com/track/0o0eubjweqWRrZ4PuW8s3n) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Baila](https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH) | 2:51 |
-| 37 | [No Pasa Nada](https://open.spotify.com/track/3Y8xqiwesgj5ytOPpHo6Nx) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [La Piti](https://open.spotify.com/album/1LVYwpAVevauvcv6s8Euh9) | 3:03 |
+| 37 | [Lokita](https://open.spotify.com/track/6FLuiqBet9aqtsipah7g4T) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA \- Cap.1 \- Que me quiera / Lokita](https://open.spotify.com/album/4DqEPS1D4QsCtL7m0m5DZ1) | 2:06 |
 | 38 | [Error](https://open.spotify.com/track/7eOs4mwrf7rp7lGEF2tjGu) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Error](https://open.spotify.com/album/7eRvVezqELiJfp1vSrDx0u) | 3:29 |
 | 39 | [Jacuzzi](https://open.spotify.com/track/68AFwp0MnkWketMmnfvzR8) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Jacuzzi](https://open.spotify.com/album/6hourrBLixE67puzTocZUh) | 3:04 |
 | 40 | [A Mí No](https://open.spotify.com/track/5UJ0ekAw8exus0fvaUWSZ8) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Baila](https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 | 49 | [Ravin'](https://open.spotify.com/track/0AT08pe7CNV34sDKmTyh5b) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Ravin'](https://open.spotify.com/album/1iB6cyFWWKUTC5c8Fb54kQ) | 3:18 |
 | 50 | [Sólo Mía](https://open.spotify.com/track/3eXD7hq9tUrQ5gmdKNaSKQ) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Sólo Mía](https://open.spotify.com/album/4JhTqi7hgyUVxDzw5nFANE) | 2:59 |
 
-Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDBhM2VmMTllZWI5ZDU4MGNhZGI4ZWM3ZmFiM2Q5NWIwZQ==`
+Snapshot ID: `MjgxOTQ1NjQsMDAwMDAwMDA0OWQ4OGMzZDliYzAwOTlmMWE1OWM4ODJlMmYwNGY2Ng==`

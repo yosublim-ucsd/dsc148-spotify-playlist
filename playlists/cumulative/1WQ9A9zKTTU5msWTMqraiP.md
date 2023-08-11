@@ -4,7 +4,7 @@
 
 > Deathcore Playlist
 
-235 songs - 16 hr 22 min
+236 songs - 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Furtive Monologue](https://open.spotify.com/track/6D6wXQdRpFXhGPnt2b1dmq) | [Despised Icon](https://open.spotify.com/artist/3MjNMjqBpaQ0P8ebfbZjYn) | [The Ills of Modern Man](https://open.spotify.com/album/02s3lQkJWdE5cjrQcpjjXD) | 3:22 | 2018-07-22 |  |
 | [Gaia Weeps](https://open.spotify.com/track/7ldAN05QdnY6iQsSNUkW5s) | [Ocean of Illusions](https://open.spotify.com/artist/5LsXeDuuRHpcFgeYG5SEZa), [Misstiq](https://open.spotify.com/artist/2T56ZlaXC3o801bzHwzJg1) | [Unrecognizable](https://open.spotify.com/album/3eT76zaharA0fmbbMqB7S3) | 3:41 | 2022-07-11 |  |
 | [Gangrene](https://open.spotify.com/track/6JoWh15cNpsYHRMkWmMTFt) | [Kanine](https://open.spotify.com/artist/1u1DkbYSAOpAWeBir7TEUV) | [Karnage](https://open.spotify.com/album/2O8BufDkuHHm1c3kaPmZLv) | 3:27 | 2022-07-11 |  |
+| [Garden Ov Frozen Souls](https://open.spotify.com/track/25JkKQqXv5afG82YWXUUMN) | [Taste of Plague](https://open.spotify.com/artist/4Ws0fLZArWYSqTbkN2dXTn) | [EXODUS 7:17](https://open.spotify.com/album/6n64BIHrTHeqrK53TfTOqt) | 3:03 | 2023-08-10 |  |
 | [Generation](https://open.spotify.com/track/5jsErLcnwDolZ1lkZQCxYA) | [Angry Reacts Only](https://open.spotify.com/artist/46WbLWRwkvZX6V4s0C3cqy) | [Generation](https://open.spotify.com/album/6CdRCrpJvWGy0eAOfeXRVO) | 3:13 | 2021-03-15 |  |
 | [God Will Lose](https://open.spotify.com/track/5eiNXywlgRwZSR4xt58g5C) | [Avocyn](https://open.spotify.com/artist/038ZZdrO6C5hkMk4n2RhVe), [Taylor Barber](https://open.spotify.com/artist/13sCECOFwaranrSOhJkmcs) | [Mortal Coil](https://open.spotify.com/album/4YBx2iYQ1shBi7o6pSu1xQ) | 5:24 | 2022-07-11 |  |
 | [Godfear](https://open.spotify.com/track/4j15X3lPqDts9HuBooD5K9) | [Bound in Fear](https://open.spotify.com/artist/58P2qDnyWpUDoiCtfHvLTL) | [Godfear](https://open.spotify.com/album/0kypvu9U4xUZMnN3Jr0V8Z) | 4:20 | 2018-10-06 |  |

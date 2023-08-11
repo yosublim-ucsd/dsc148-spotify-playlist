@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 
 > Good vibes only! Aquí solo hay buena vibra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,560 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,584 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 | 76 | [Tutu](https://open.spotify.com/track/1nocRtwyNPVtGcIJqfgdzZ) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Tutu](https://open.spotify.com/album/6xu5asYeoMIT5Sa5b1P13q) | 2:58 |
 | 77 | [DESPECHÁ RMX](https://open.spotify.com/track/4CD623yLJVvKJxUyzaTqtC) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [DESPECHÁ RMX](https://open.spotify.com/album/4czxiqSwyeZK7y5r9GNWXP) | 2:50 |
 | 78 | [Felices x Siempre](https://open.spotify.com/track/42Gzfqnfpk7Pp1ydM60eNn) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Felices x Siempre](https://open.spotify.com/album/1DW15sDiWh55xNKb5uqIp2) | 3:19 |
-| 79 | [Binikini](https://open.spotify.com/track/1Iy4dJWborISHY9FHWGKPD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Binikini](https://open.spotify.com/album/7jAzRi4PeWM3E2MJnBmedj) | 3:03 |
-| 80 | [Miel](https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Miel](https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B) | 2:04 |
+| 79 | [Miel](https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Miel](https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B) | 2:04 |
+| 80 | [Binikini](https://open.spotify.com/track/1Iy4dJWborISHY9FHWGKPD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Binikini](https://open.spotify.com/album/7jAzRi4PeWM3E2MJnBmedj) | 3:03 |
 | 81 | [Favorito](https://open.spotify.com/track/0Snbzbd74RLfL0i4nn1vU5) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Favorito](https://open.spotify.com/album/5wb9Mx2yfXZzKYPzHp4fae) | 3:31 |
 | 82 | [Yo Las Pongo](https://open.spotify.com/track/5LPD5HDYyxKdGHvHQ1kef9) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Yo Las Pongo](https://open.spotify.com/album/0unP8lNuU71xBHNlzwo8HF) | 3:11 |
 | 83 | [Real G](https://open.spotify.com/track/6WU2eYUtOL91iROonROPyh) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Real G](https://open.spotify.com/album/4zQmGdxbD2EOKItaKLMnrC) | 3:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 | 99 | [Un Viaje](https://open.spotify.com/track/3huLeBRjZPOzkePH7ph91y) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [Un Viaje](https://open.spotify.com/album/2Hi8ff429tSHmxPK3CzV36) | 4:45 |
 | 100 | [Alejarme de Ti](https://open.spotify.com/track/4YV8COy6CS7PBFHw0AO4pF) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:53 |
 
-Snapshot ID: `MCwwNWRkOTRjMTM5M2JmM2Q3NmQ0NmFkMTI4OGM4OTE3NGYxNzAyODAw`
+Snapshot ID: `MCxhMjc1NzA3ZjFhZmZjNTlkZWE1YjhkOTc2ZGExODc2YjFhZjI4OTYz`

@@ -4,7 +4,7 @@
 
 > This is mxmtoon\. The essential tracks, all in one playlist.
 
-55 songs - 2 hr 51 min
+57 songs - 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [coming of age](https://open.spotify.com/track/44J3plqT5zMSpaa6bkGfhZ) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN) | 2:38 | 2023-05-02 |  |
 | [creep](https://open.spotify.com/track/1CSue9uoEXv1w2YwfSjaCY) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h) | 3:30 | 2023-05-02 |  |
 | [dance \(end of the world\)](https://open.spotify.com/track/4gyCjsvbbt3PBICIiYlTG4) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN) | 2:38 | 2023-05-02 |  |
-| [don't play your card](https://open.spotify.com/track/7LUwvejZpmqTUEQ3sRc8Oe) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [don't play your card](https://open.spotify.com/album/5ZeeomGIek0Bzi8p664jrU) | 3:41 | 2023-05-02 |  |
+| [don't play your card](https://open.spotify.com/track/5wPqSe2jbb9z50bSccR8Vo) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [don't play your card](https://open.spotify.com/album/1TYzvjRwqBNQIy48CDnWRi) | 3:41 | 2023-08-10 |  |
+| [don't play your card](https://open.spotify.com/track/7LUwvejZpmqTUEQ3sRc8Oe) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [don't play your card](https://open.spotify.com/album/5ZeeomGIek0Bzi8p664jrU) | 3:41 | 2023-05-02 | 2023-08-11 |
 | [dream of you](https://open.spotify.com/track/5Ie9fSJ7KYZnauSWBxpdVZ) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade](https://open.spotify.com/album/5mNk0mLiGcJHLGiT0mjHmX) | 3:54 | 2023-05-02 |  |
 | [every wave](https://open.spotify.com/track/0swoGl1Iu00peGZvqkjc8i) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h) | 2:49 | 2023-05-02 |  |
 | [Falling for U](https://open.spotify.com/track/2xhGZ3WzOa3tir28y7Cb88) | [Peachy!](https://open.spotify.com/artist/7gvbCoLA8lJUktp8G2xIRR), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Falling for U](https://open.spotify.com/album/3PUmELve1Jt5EdFU6cv8Hb) | 2:04 | 2023-05-02 |  |
@@ -35,13 +36,14 @@
 | [learn to love you](https://open.spotify.com/track/69QYfqEFEzwFwWMVzXux33) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN) | 2:12 | 2023-08-02 | 2023-08-10 |
 | [Line Without a Hook \(feat\. mxmtoon\)](https://open.spotify.com/track/4dHdqpGaO9km4TEw9nNQSR) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Line Without a Hook \(feat\. mxmtoon\)](https://open.spotify.com/album/6uDkQYNploKRDP7Pu36DNz) | 4:11 | 2023-05-02 |  |
 | [mona lisa](https://open.spotify.com/track/5O7TgofxqSQh31TiRcKXzo) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [mona lisa](https://open.spotify.com/album/3wVcBPUDJrmInLD0G1W1r2) | 3:10 | 2023-05-02 |  |
-| [my way](https://open.spotify.com/track/3ATpkhQnCnkauIjm7WL9Fe) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [my way](https://open.spotify.com/album/19K2ObfI1CbyBijFzB3Ybe) | 3:28 | 2023-05-02 |  |
+| [my way](https://open.spotify.com/track/3ATpkhQnCnkauIjm7WL9Fe) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [my way](https://open.spotify.com/album/19K2ObfI1CbyBijFzB3Ybe) | 3:28 | 2023-05-02 | 2023-08-11 |
 | [myrtle ave.](https://open.spotify.com/track/5bmpuI2QKQm9TQgc4ObqJL) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dusk](https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp) | 2:48 | 2023-05-02 |  |
 | [no faker](https://open.spotify.com/track/0RyLL5AEo53smpSW9bENAt) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dawn](https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy) | 2:49 | 2023-05-02 |  |
 | [Nobody Loves Me](https://open.spotify.com/track/1SYqnlqZyI7dVYDEvdkBau) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1), [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Nobody Loves Me](https://open.spotify.com/album/1ahGUWtnA8tqb4zaKGzCTi) | 3:35 | 2023-06-30 |  |
 | [ok on your own](https://open.spotify.com/track/3B3AzChR44z7JxsiWB47Xw) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [dusk](https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp) | 3:28 | 2023-05-02 |  |
 | [plastic pony](https://open.spotify.com/track/4nx1caorxzv8ItosxZqrfG) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising \(the deluxe\)](https://open.spotify.com/album/3iIQrRl8NG7AgSJlStJdQw) | 2:22 | 2023-05-02 |  |
-| [please don't](https://open.spotify.com/track/1Ve2OCcCtpXYaNDtHS1rgE) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [please don't](https://open.spotify.com/album/0tnXtCDRTRi3qGB72oAGEu) | 4:16 | 2023-05-02 |  |
+| [please don't](https://open.spotify.com/track/13udwRO2lxuI5CQCgQKs0i) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [please don't](https://open.spotify.com/album/0FML2Vg1z5EvafxbbY1PVR) | 4:16 | 2023-08-10 |  |
+| [please don't](https://open.spotify.com/track/1Ve2OCcCtpXYaNDtHS1rgE) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [please don't](https://open.spotify.com/album/0tnXtCDRTRi3qGB72oAGEu) | 4:16 | 2023-05-02 | 2023-08-11 |
 | [porcelain](https://open.spotify.com/track/5v2S0IqMixb6x1fDL93Szr) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom](https://open.spotify.com/album/6awIkxDLnbvhD1Wxrvwvb5) | 4:31 | 2023-05-02 |  |
 | [Prairies \(with mxmtoon\)](https://open.spotify.com/track/7w2iqaRxQgAGnkOdMhsiqu) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Serotonin Dreams](https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73) | 3:11 | 2023-05-02 |  |
 | [Pride \(with mxmtoon\)](https://open.spotify.com/track/708HrtYYClY6j6EOiToEBy) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Pride](https://open.spotify.com/album/3P3zn45t3NEjaFILRIsybN) | 2:49 | 2023-05-02 |  |

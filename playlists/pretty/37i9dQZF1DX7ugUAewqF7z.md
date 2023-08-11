@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ugUAewqF7z.md) - [plain]
 
 > ‘Ssuply’ makes our own playlist by listening to various stories from around the world, getting recommendations for music that fits the situation\. \(세상의 다양한 이야기를 듣고, 상황에 딱 맞는 음악을 추천받아, 우리만의 플레이리스트를 만드는 ‘썰플리’입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,009 likes - 72 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,070 likes - 72 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ugUAewqF7z.md) - [plain]
 | 52 | [Your Knight](https://open.spotify.com/track/4DmNIXSHfiguByW1g7OXcb) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [HEADACHE.](https://open.spotify.com/album/60fWmW12NbcOa8Bpm5F0Rv) | 3:11 |
 | 53 | [Wi Ing Wi Ing](https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [20](https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO) | 3:14 |
 | 54 | [Wish](https://open.spotify.com/track/12n9WBfLII5EdQFzQiQFqv) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Hometown Cha\-Cha\-Cha, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/0I9P3bt2K8NAB97yh7uBPf) | 3:57 |
-| 55 | [Picture of You](https://open.spotify.com/track/1q9CA3YEWtoJniIFzaSkdu) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [Louie](https://open.spotify.com/artist/3swZbFXoZgWR6TCnMDJgCB) | [Picture of You](https://open.spotify.com/album/36svQD3MkJQ9dcCyvB64eL) | 2:58 |
+| 55 | [Picture of You](https://open.spotify.com/track/4k65QOnSekJUpGuV6dHUHU) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [Hwang Moon Seob](https://open.spotify.com/artist/0a9CLtjf2oj3OooJA0ZbTr) | [Picture of you](https://open.spotify.com/album/3WLs3in6kQskYA2bKsYQa9) | 2:58 |
 | 56 | [Lazy Me](https://open.spotify.com/track/7IKiYUKvU394eoRD9TYDfJ) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Lazy Me](https://open.spotify.com/album/6zvdQKxr377crdbVupq7I7) | 3:07 |
 | 57 | [Idle Idle](https://open.spotify.com/track/17I6f6dlUmBQxHCBTWPBxT) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Idle Idle](https://open.spotify.com/album/5oJiWLZ8JGsYPh9Pdq9D2s) | 3:38 |
 | 58 | [Peach](https://open.spotify.com/track/3hbi6hayJ6OibzGe3fWLwf) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [The Spring of Twenty](https://open.spotify.com/album/2DSxe9W0Mv0IU2YMAbljYb) | 3:10 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ugUAewqF7z.md) - [plain]
 | 71 | [Why Not?](https://open.spotify.com/track/7zdzUXDmFWX2fU0lRRjwBS) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2) | [Why Not?](https://open.spotify.com/album/5BPXrF9UC8cckWFWNMcdO6) | 3:28 |
 | 72 | [Beginning of Love](https://open.spotify.com/track/1X4dEyCWKnHS6cMA1n02n7) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [As A Man Rather Than A Friend](https://open.spotify.com/album/1jnSwvqHYKcsx57mOxXt25) | 3:28 |
 
-Snapshot ID: `MCw5ZmQ4NWM3Nzg2NzFmOTUxOWNhM2ZhOTFjYjc0ZDZhMzgyZTNkYWIw`
+Snapshot ID: `MCw5MDRhMDdkMzNjYzE3M2UyNGE2NTc5ZmI3NzQ3OGM5ZmMxZDlkNWI3`

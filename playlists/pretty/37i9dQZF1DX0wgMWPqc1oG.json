@@ -1,12 +1,12 @@
 {
   "description": "The essential recordings from the beginning of the Post Bop era. Cover: Freddie Hubbard",
-  "num_followers": 22833,
+  "num_followers": 22864,
   "original_name": "Post Bop Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjhjNTc3ZTgyN2Y5MjRkYzc2NDIwN2E2OWJkMmJhZWVmMDhjZjJk",
+  "snapshot_id": "MCw5YzM2ZjM5NzA3Y2VkZThjMmI0ZDljMTgzYTJiYWZhNjVmZDY4YjVk",
   "tracks": [
     {
       "added_at": "2023-06-22 07:08:37",
@@ -623,18 +623,18 @@
     {
       "added_at": "2023-06-22 07:08:37",
       "album": {
-        "name": "Life Between The Exit Signs",
-        "url": "https://open.spotify.com/album/1PluOanzqH0rOxjiAJV5Oq"
+        "name": "Mode For Joe (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/5HC9Uo9bCl8uiWuSN3MfbD"
       },
       "artists": [
         {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
         }
       ],
-      "duration_ms": 222013,
-      "name": "Margot",
-      "url": "https://open.spotify.com/track/1tqXFvOa69R2ay434QqLqr"
+      "duration_ms": 480933,
+      "name": "Mode For Joe - Remastered",
+      "url": "https://open.spotify.com/track/3kltDmshkHJ924f2ZL2Qsy"
     },
     {
       "added_at": "2023-06-22 07:08:37",
@@ -655,18 +655,18 @@
     {
       "added_at": "2023-06-22 07:08:37",
       "album": {
-        "name": "Mode For Joe (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/5HC9Uo9bCl8uiWuSN3MfbD"
+        "name": "Life Between The Exit Signs",
+        "url": "https://open.spotify.com/album/1PluOanzqH0rOxjiAJV5Oq"
       },
       "artists": [
         {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
         }
       ],
-      "duration_ms": 480933,
-      "name": "Mode For Joe - Remastered",
-      "url": "https://open.spotify.com/track/3kltDmshkHJ924f2ZL2Qsy"
+      "duration_ms": 222013,
+      "name": "Margot",
+      "url": "https://open.spotify.com/track/1tqXFvOa69R2ay434QqLqr"
     },
     {
       "added_at": "2023-06-22 07:08:37",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-06-22 07:08:37",
       "album": {
-        "name": "In 'N Out (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/4KI0kC5rANmc5YeXyNshDr"
-      },
-      "artists": [
-        {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
-        }
-      ],
-      "duration_ms": 547666,
-      "name": "Punjab - Remastered 2003 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/64EpFQnk4OlbMl3fitdrp6"
-    },
-    {
-      "added_at": "2023-06-22 07:08:37",
-      "album": {
         "name": "Point Of Departure (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/647o8vl4OD1sjvvhql3jFS"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 258320,
       "name": "Flight 19",
       "url": "https://open.spotify.com/track/4Ag0bpdJVnaGU9xOXOSQQ3"
+    },
+    {
+      "added_at": "2023-06-22 07:08:37",
+      "album": {
+        "name": "In 'N Out (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4KI0kC5rANmc5YeXyNshDr"
+      },
+      "artists": [
+        {
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+        }
+      ],
+      "duration_ms": 547666,
+      "name": "Punjab - Remastered 2003 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/64EpFQnk4OlbMl3fitdrp6"
     },
     {
       "added_at": "2023-06-22 07:08:37",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-06-22 07:08:37",
       "album": {
-        "name": "East Broadway Run Down",
-        "url": "https://open.spotify.com/album/6VFSJ5bKlJaZBbJaMPYTXQ"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 742960,
-      "name": "Blessing In Disguise",
-      "url": "https://open.spotify.com/track/6AZl7WAq1CfMTbMfgvZLFn"
-    },
-    {
-      "added_at": "2023-06-22 07:08:37",
-      "album": {
         "name": "The Best Of Art Blakey",
         "url": "https://open.spotify.com/album/1UqQnjYh6B04eH4vDhjlJS"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 669306,
       "name": "Free For All",
       "url": "https://open.spotify.com/track/7vX1ZW62qw7wMEib872JmN"
+    },
+    {
+      "added_at": "2023-06-22 07:08:37",
+      "album": {
+        "name": "East Broadway Run Down",
+        "url": "https://open.spotify.com/album/6VFSJ5bKlJaZBbJaMPYTXQ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 742960,
+      "name": "Blessing In Disguise",
+      "url": "https://open.spotify.com/track/6AZl7WAq1CfMTbMfgvZLFn"
     },
     {
       "added_at": "2023-06-22 07:08:37",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-06-22 07:08:37",
       "album": {
-        "name": "Black Fire",
-        "url": "https://open.spotify.com/album/5eTLd8qlHh0QHW6IF7Bi3J"
-      },
-      "artists": [
-        {
-          "name": "Andrew Hill",
-          "url": "https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy"
-        }
-      ],
-      "duration_ms": 323962,
-      "name": "Pumpkin",
-      "url": "https://open.spotify.com/track/6DLJbVq8dibC5xl46lxmj9"
-    },
-    {
-      "added_at": "2023-06-22 07:08:37",
-      "album": {
         "name": "Happenings",
         "url": "https://open.spotify.com/album/4TbWPn2fJUrQc924iTylFi"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 314026,
       "name": "Head Start - Rudy Van Gelder Edition / 2006 Digital Remaster",
       "url": "https://open.spotify.com/track/0knaLLhdMU69U4byKTIeim"
+    },
+    {
+      "added_at": "2023-06-22 07:08:37",
+      "album": {
+        "name": "Black Fire",
+        "url": "https://open.spotify.com/album/5eTLd8qlHh0QHW6IF7Bi3J"
+      },
+      "artists": [
+        {
+          "name": "Andrew Hill",
+          "url": "https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy"
+        }
+      ],
+      "duration_ms": 323962,
+      "name": "Pumpkin",
+      "url": "https://open.spotify.com/track/6DLJbVq8dibC5xl46lxmj9"
     },
     {
       "added_at": "2023-06-22 07:08:37",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-06-22 07:08:37",
       "album": {
-        "name": "The Max Roach Trio, Featuring The Legendary Hasaan Ibn Ali",
-        "url": "https://open.spotify.com/album/5PRPdUdfuX532COPYP5AUX"
-      },
-      "artists": [
-        {
-          "name": "Max Roach",
-          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
-        }
-      ],
-      "duration_ms": 340840,
-      "name": "Three-Four vs. Six-Eight Four-Four Ways",
-      "url": "https://open.spotify.com/track/0GAVJcVNjYUlQnZ6NWhAxL"
-    },
-    {
-      "added_at": "2023-06-22 07:08:37",
-      "album": {
         "name": "Trompeta Toccata (Remastered 2014)",
         "url": "https://open.spotify.com/album/0MbOmmvDUHC8Y1FBtG3HDl"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 480053,
       "name": "The Fox - Remastered 2014",
       "url": "https://open.spotify.com/track/6kEZ6Xa87zYFDCRX69mxK5"
+    },
+    {
+      "added_at": "2023-06-22 07:08:37",
+      "album": {
+        "name": "The Max Roach Trio, Featuring The Legendary Hasaan Ibn Ali",
+        "url": "https://open.spotify.com/album/5PRPdUdfuX532COPYP5AUX"
+      },
+      "artists": [
+        {
+          "name": "Max Roach",
+          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
+        }
+      ],
+      "duration_ms": 340840,
+      "name": "Three-Four vs. Six-Eight Four-Four Ways",
+      "url": "https://open.spotify.com/track/0GAVJcVNjYUlQnZ6NWhAxL"
     },
     {
       "added_at": "2023-06-22 07:08:37",

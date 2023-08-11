@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXa2ShUct1Fm.md) - [plain]
 
 > Say the name, Seventeen! Carats, get ready to slip into the diamond life with your 13 shining diamonds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 762,015 likes - 154 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 762,457 likes - 154 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,7 +152,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXa2ShUct1Fm.md) - [plain]
 | 142 | [Ah Yeah](https://open.spotify.com/track/6HzEfSRlDNkgmOZBvedvM6) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 1st Mini Album ’17 CARAT’](https://open.spotify.com/album/0H2K2JrzdvJcxBEPyxC2sl) | 3:29 |
 | 143 | [Chocolate \(with Seventeen\) \- Live Version](https://open.spotify.com/track/0leJH6Hql0qhkulb1CbqZS) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw), [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [행보 2016 윤종신 / 작사가 윤종신 Pt\. 2](https://open.spotify.com/album/3G6LnijAay8j0h0C0mwizn) | 4:32 |
 | 144 | [OMG](https://open.spotify.com/track/1DyOe08LQyJhsLDcSXiNxO) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 2nd Mini Album ‘BOYS BE’](https://open.spotify.com/album/18aXrsD7zdPD6NSIfdwExD) | 3:03 |
-| 145 | [Our Vacation](https://open.spotify.com/track/6MxdevePZO8y3Oqy9lkyeR) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi), [Yoo Yeon Seok](https://open.spotify.com/artist/6xPx7ZAh3o3PMkpk8VDeGj), [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln), [Jee Seok Jin](https://open.spotify.com/artist/4T36HjU3Q1n4ICHyiItUTO), [Lee Dong Hwi](https://open.spotify.com/artist/56i2JeqKHimBmdoifQvG46), [조세호](https://open.spotify.com/artist/6QCyIIeOZN7zPgwpWLAiR6), [JOSHUA](https://open.spotify.com/artist/4ZsnF3kaoNUuBhCyYJEJi8), [HOSHI](https://open.spotify.com/artist/1m6CwgW2I5I5M6v7dHqe4t) | [Bro & Marble OST Part.1](https://open.spotify.com/album/1RhC7hil8BAHkPbM5JovfZ) | 3:06 |
+| 145 | [Our Vacation](https://open.spotify.com/track/6MxdevePZO8y3Oqy9lkyeR) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi), [Yoo Yeon Seok](https://open.spotify.com/artist/6xPx7ZAh3o3PMkpk8VDeGj), [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln), [Jee Seok Jin](https://open.spotify.com/artist/4T36HjU3Q1n4ICHyiItUTO), [Lee Dong Hwi](https://open.spotify.com/artist/56i2JeqKHimBmdoifQvG46), [조세호](https://open.spotify.com/artist/6QCyIIeOZN7zPgwpWLAiR6), [JOSHUA](https://open.spotify.com/artist/4ZsnF3kaoNUuBhCyYJEJi8), [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [Bro & Marble OST Part.1](https://open.spotify.com/album/1RhC7hil8BAHkPbM5JovfZ) | 3:06 |
 | 146 | [Cinematic Love](https://open.spotify.com/track/3rB5fYZr3nSD2tBAvfYPb2) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt), [DOKYEOM](https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2) | [Cinematic Love](https://open.spotify.com/album/5fbA8bYGGb7m5h2dQfR7RQ) | 4:29 |
 | 147 | [Kind of Love](https://open.spotify.com/track/5SqEWwdYt55W8Tz7j8WtwQ) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Mother \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/3mY5G2DhIicnES7AVf14Ry) | 3:55 |
 | 148 | [Jam Jam](https://open.spotify.com/track/5o9VWCaFtNsOcaYsiADCgC) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 1st Mini Album ’17 CARAT’](https://open.spotify.com/album/0H2K2JrzdvJcxBEPyxC2sl) | 3:25 |
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXa2ShUct1Fm.md) - [plain]
 | 153 | [Miracle](https://open.spotify.com/track/0YLLRbbpq3Qte4rszcddMk) | [WOOZI](https://open.spotify.com/artist/4TdiASPlU3QdZvGQBothcQ) | [The Tale Of Nokdu \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1ocOn4sgfTUE2QiuPDC2Sm) | 3:38 |
 | 154 | [Lotto \(feat.Don Mills\) \(Prod\. by Gonzo\)](https://open.spotify.com/track/1Jg92FCIcH6fcAl30QZfZi) | [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG), [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn) | [Lotto](https://open.spotify.com/album/2QVaWXBBQMxUQBADLgGLIV) | 3:25 |
 
-Snapshot ID: `MCxlOGFiZGVjNzE5YWQyNjZlMjc3ZmYzZWZhYWE4NmJkMjZjZDNhNGFl`
+Snapshot ID: `MCwwYTRhMjAyN2I0ZGRhNzgyNTk4ZmNjNDgwMjNjMjdmY2JiZjQxNDI3`

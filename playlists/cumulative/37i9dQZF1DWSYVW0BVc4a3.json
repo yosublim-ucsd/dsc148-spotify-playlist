@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-19",
-  "description": "The stomping ground. Cover: Disclosure",
+  "description": "The stomping ground. Cover: Jeremy Olander",
   "name": "Open Air",
   "tracks": [
     {
@@ -2137,6 +2137,24 @@
     },
     {
       "album": {
+        "name": "Coral",
+        "url": "https://open.spotify.com/album/55axvM9kgNwRb0Eo70SymU"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Olander",
+          "url": "https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208571,
+      "name": "Coral",
+      "url": "https://open.spotify.com/track/3xKFeabUGHFTOGi7KMt3eR"
+    },
+    {
+      "album": {
         "name": "Criseide",
         "url": "https://open.spotify.com/album/1ikZIk7lxSnVaa7afrWsbE"
       },
@@ -4100,7 +4118,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 225000,
       "name": "Guru",
       "url": "https://open.spotify.com/track/3h7Puhs0ZRMq470id6WYxo"
@@ -4602,7 +4620,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 256721,
       "name": "Hyperreal",
       "url": "https://open.spotify.com/track/3NxY6I8zzqT2F2Ue2G8BRZ"
@@ -6279,6 +6297,24 @@
     },
     {
       "album": {
+        "name": "Magical Signs / Humans",
+        "url": "https://open.spotify.com/album/7pXHM8pLfASnm2NqIqFaKf"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Magical Signs",
+      "url": "https://open.spotify.com/track/1l7Fu5FoMPqocEO9bO5EiG"
+    },
+    {
+      "album": {
         "name": "Surrender (Remixes)",
         "url": "https://open.spotify.com/album/73TcBRSRsPLKmxnjnVsSV3"
       },
@@ -6772,7 +6808,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 315418,
       "name": "Morning Comes",
       "url": "https://open.spotify.com/track/5zLGsCUdRieydq198vi0q0"
@@ -8617,6 +8653,54 @@
     },
     {
       "album": {
+        "name": "Genesys",
+        "url": "https://open.spotify.com/album/3uI67VYBj1l3aq2q5Or0NH"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189783,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/367D6p4dHFUXgnvO52jKvP"
+    },
+    {
+      "album": {
+        "name": "Save Me (Tal Fussman Remix)",
+        "url": "https://open.spotify.com/album/25RsSA7nAlUb8LGoXB4erC"
+      },
+      "artists": [
+        {
+          "name": "Skatman",
+          "url": "https://open.spotify.com/artist/79K6YRpx6Q5HZJfxxcDq58"
+        },
+        {
+          "name": "Tal Fussman",
+          "url": "https://open.spotify.com/artist/6kZ2X9nu0o6eFilCWtufPb"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362848,
+      "name": "Save Me - Tal Fussman Remix",
+      "url": "https://open.spotify.com/track/6GLghjFnbkMvRKRHLmrA3X"
+    },
+    {
+      "album": {
         "name": "Saviours",
         "url": "https://open.spotify.com/album/1plr1caOwmIHriazUNB9S4"
       },
@@ -8730,7 +8814,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 247873,
       "name": "See the Sun Rising",
       "url": "https://open.spotify.com/track/0wFXUI6pRUNLdhQYwwPykg"

@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "Atlanta",
+        "url": "https://open.spotify.com/album/3WdYzCX0cGKhOH3A7RFioM"
+      },
+      "artists": [
+        {
+          "name": "Rex",
+          "url": "https://open.spotify.com/artist/5tfWbJ8owvlSc1VWKiCMXH"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245806,
+      "name": "Atlanta",
+      "url": "https://open.spotify.com/track/5Mg1nOQU9wPn8uYmjzs3oX"
+    },
+    {
+      "album": {
         "name": "Break Point",
         "url": "https://open.spotify.com/album/6IKvJb2zcNTbqlasbI6aO7"
       },

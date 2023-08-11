@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 
 > the soundtrack for your vitamin d fix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,053,521 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,053,618 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 25 | [I'm In Love With You](https://open.spotify.com/track/12g9IeQzX7xECLNxz8dpb5) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 4:22 |
 | 26 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 |
 | 27 | [Sit Next to Me](https://open.spotify.com/track/4BdGO1CaObRD4La9l5Zanz) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Sacred Hearts Club](https://open.spotify.com/album/5lFvZh6pCTJzr9UStebyCF) | 4:03 |
-| 28 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 |
-| 29 | [A\-Punk](https://open.spotify.com/track/3AydAydLzyyZutA0375XIz) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:17 |
+| 28 | [A\-Punk](https://open.spotify.com/track/3AydAydLzyyZutA0375XIz) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:17 |
+| 29 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 |
 | 30 | [Gooey](https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [ZABA](https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi) | 4:49 |
 | 31 | [Amber](https://open.spotify.com/track/51UtgWS4z1eMPuLQOzPtNH) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Greatest Hits '93 \- '03](https://open.spotify.com/album/0OsjlbBaSZFbZnXGAUysMG) | 3:31 |
 | 32 | [Burn The House Down](https://open.spotify.com/track/0TkJIyL69RAUIbNwGub6uR) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The Click \(Deluxe Edition\)](https://open.spotify.com/album/51iPchT1rPmDNT5FYGoPn5) | 3:32 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 37 | [Sober Up \(feat\. Rivers Cuomo\)](https://open.spotify.com/track/5jiYx70OBzEI99jx1Gn3FN) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v) | [The Click](https://open.spotify.com/album/2LyLlHg03okxUU3UVrKtSC) | 3:38 |
 | 38 | [Black Summer](https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Black Summer](https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH) | 3:52 |
 | 39 | [World on Fire \(feat\. Slightly Stoopid\)](https://open.spotify.com/track/35cWnQKyLjmzkq81M51D9n) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 3:58 |
-| 40 | [Dancing In The Courthouse](https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Dancing In The Courthouse](https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq) | 2:37 |
-| 41 | [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 |
+| 40 | [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 |
+| 41 | [Dancing In The Courthouse](https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Dancing In The Courthouse](https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq) | 2:37 |
 | 42 | [Next Exit](https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Next Exit](https://open.spotify.com/album/4UfayZRNyvNRmayWpf2z7H) | 3:21 |
 | 43 | [Fever](https://open.spotify.com/track/3Hx7RXqCS7Kzjy2ot2q1Gk) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 4:06 |
 | 44 | [The Dumb Song](https://open.spotify.com/track/5udkv8BEG1sAN5ZtR6CAzv) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The Dumb Song](https://open.spotify.com/album/1W2Srir1JwdyDQMrN66CF5) | 3:45 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 64 | [OUT OF MY MIND](https://open.spotify.com/track/5GKdWRbTtj6D6gKM9455j5) | [little image](https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm) | [OUT OF MY MIND](https://open.spotify.com/album/5FpxsZzxLCY08VOZURcr1G) | 2:40 |
 | 65 | [Someday \- Remastered](https://open.spotify.com/track/6NcHJ23mLQKnVxQcOmT7JW) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [The Best Of Sugar Ray](https://open.spotify.com/album/2hjQQj7x2YipViOCw6UX1N) | 4:03 |
 | 66 | [Good Day for a Good Day](https://open.spotify.com/track/0WZ5paMR4zJAdjkBgCVAYN) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Follow Your Heart](https://open.spotify.com/album/5ASwxssTkz7SW7WdaGviYR) | 3:10 |
-| 67 | [James Dean](https://open.spotify.com/track/2MVt6GD9AVbmniOIng0rVz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [James Dean](https://open.spotify.com/album/61YMV5YCWzd4FmQAeBmraP) | 4:26 |
-| 68 | [Talk](https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Talk](https://open.spotify.com/album/2UqdKTiPEdLx7IqEeZ7CWV) | 2:38 |
-| 69 | [Solamente](https://open.spotify.com/track/4BMBpU3AbNPjsHk41S0uSl) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:14 |
-| 70 | [Johnson Song](https://open.spotify.com/track/1g3hJAu22j2gINrSTSpwp0) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV) | 3:43 |
+| 67 | [Johnson Song](https://open.spotify.com/track/1g3hJAu22j2gINrSTSpwp0) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV) | 3:43 |
+| 68 | [James Dean](https://open.spotify.com/track/2MVt6GD9AVbmniOIng0rVz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [James Dean](https://open.spotify.com/album/61YMV5YCWzd4FmQAeBmraP) | 4:26 |
+| 69 | [Talk](https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Talk](https://open.spotify.com/album/2UqdKTiPEdLx7IqEeZ7CWV) | 2:38 |
+| 70 | [Solamente](https://open.spotify.com/track/4BMBpU3AbNPjsHk41S0uSl) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:14 |
 | 71 | [Silent Running \(feat\. Adeleye Omotayo\)](https://open.spotify.com/track/1r3ZtE2w3l6KMEoAVpt6Fn) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Adeleye Omotayo](https://open.spotify.com/artist/1z2GIqUV62qrl1J5sXalOT) | [Cracker Island \(Deluxe\)](https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2) | 4:26 |
-| 72 | [Kid](https://open.spotify.com/track/24TzmWrz2HHWV3UO5PlvNb) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Kid](https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe) | 3:28 |
-| 73 | [Bags](https://open.spotify.com/track/6X3FZtz4cKU2MKSQlGG9ZG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Bags](https://open.spotify.com/album/5YwYhMFzSWG8i7NEuwnIzs) | 4:20 |
+| 72 | [Bags](https://open.spotify.com/track/6X3FZtz4cKU2MKSQlGG9ZG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Bags](https://open.spotify.com/album/5YwYhMFzSWG8i7NEuwnIzs) | 4:20 |
+| 73 | [Kid](https://open.spotify.com/track/24TzmWrz2HHWV3UO5PlvNb) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Kid](https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe) | 3:28 |
 | 74 | [Chapstick](https://open.spotify.com/track/1w91afusaBA7N1Hf6ApAXF) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/0Ysl8PFnCzqyvjbAhaCMvf) | 3:13 |
 | 75 | [Lots of Nothing \(feat\. BENEE\)](https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lots of Nothing \(feat\. BENEE\)](https://open.spotify.com/album/5mndQjQK3k72Mtx9XlDfdI) | 3:13 |
 
-Snapshot ID: `MCwxNDUzNTE4ODgwMmEyNTE2MDhkYjhlZjkzZmQwNTVjNjUyNzk5MTBj`
+Snapshot ID: `MCw2ZjY2ZDc4YzZlMmI5NmIyZDk4MDYzZTg2YThiN2JmNzQwNGRlNzc4`

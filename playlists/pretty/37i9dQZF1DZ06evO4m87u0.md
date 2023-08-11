@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4m87u0.md) - [plain]
 
 > This is The Black Keys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,270 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,323 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4m87u0.md) - [plain]
 | 49 | [Dearest](https://open.spotify.com/track/32lewphnrnKx7lgsanoakd) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Rave On Buddy Holly](https://open.spotify.com/album/6BpXVKdWpGhI4FzHZrZdur) | 2:04 |
 | 50 | [Next Girl](https://open.spotify.com/track/2UE4m8egf0aREmOi47sDOk) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:18 |
 
-Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDAwNGEyNjU3MjI2NTBmM2EzZTM2ZDI5MWVlY2RhOTM4ZA==`
+Snapshot ID: `MjgxOTQ1NjMsMDAwMDAwMDBmZDlhNzUzYjIyZjYwNzYyNzU2MTVhMmVmNzE1NDczMw==`

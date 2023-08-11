@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Jenna Paulette
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,916 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,039 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 5 | [Dust](https://open.spotify.com/track/7mEK8ZfXB69HKYZrOnV9CD) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Dust](https://open.spotify.com/album/23IQqam0aRAKSCLjOv9hlu) | 3:06 |
 | 6 | [Human](https://open.spotify.com/track/5AihIu9yF3flkw1jFMyfwW) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Human The Double Album](https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb) | 3:41 |
 | 7 | [blood](https://open.spotify.com/track/2YqZCQhkuQpPUb5M9wptBq) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [blood](https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU) | 4:58 |
-| 8 | [Mountain Song](https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Mountain Song](https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy) | 4:09 |
-| 9 | [All I See Is You](https://open.spotify.com/track/46fHLVEQBcyC8VjnmdDF3q) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Geronimo](https://open.spotify.com/album/7B2oMtnyw4d5aZOSq2eUhz) | 4:17 |
+| 8 | [All I See Is You](https://open.spotify.com/track/46fHLVEQBcyC8VjnmdDF3q) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Geronimo](https://open.spotify.com/album/7B2oMtnyw4d5aZOSq2eUhz) | 4:17 |
+| 9 | [Mountain Song](https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Mountain Song](https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy) | 4:09 |
 | 10 | [When My Baby’s In Boots](https://open.spotify.com/track/7b9KD6zHFdvaxa8esotppL) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [When My Baby’s In Boots](https://open.spotify.com/album/0E0hnTHYem327caHZmgP1Q) | 3:02 |
 | 11 | [Something's Gonna Kill Me](https://open.spotify.com/track/41cv1emXVm5Su4DWvltXa6) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Something's Gonna Kill Me](https://open.spotify.com/album/1ST1AL02131q4x1nzMO8It) | 3:03 |
 | 12 | [I Just Killed A Man](https://open.spotify.com/track/7D9H7ROCXakc9PDf9PJZwG) | [Catie Offerman](https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT) | [I Just Killed A Man](https://open.spotify.com/album/128clheSrjkaaJLnYe4ykz) | 3:32 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 31 | [Nothing No More](https://open.spotify.com/track/0kLyVOwCvlxsT7Z3dSJpNg) | [JB and the Moonshine Band](https://open.spotify.com/artist/0fY9RWMWc5guge9XOKe4OW) | [Nothing No More](https://open.spotify.com/album/0yJqJ8of9DVX60BsRP1qEf) | 3:12 |
 | 32 | [West Texas Weather](https://open.spotify.com/track/1eXFUXzL0maY3l9frWfnhE) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [West Texas Weather](https://open.spotify.com/album/1tUtPFJsbs48xPkgfjsWsP) | 3:07 |
 | 33 | [Give It Some Time](https://open.spotify.com/track/3EYGT2jL6afEPBohmfnEIE) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Give It Some Time](https://open.spotify.com/album/3dWR1apPIDKdn4iV2uIFGD) | 3:22 |
-| 34 | [Easy on the Eyes](https://open.spotify.com/track/5dE2CsXCL0Nvg8qG7NUKg1) | [Texas Hill](https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq) | [Heaven Down Here](https://open.spotify.com/album/7sabls2pdbgDGN05k9yAIq) | 3:35 |
-| 35 | [Hurt No More](https://open.spotify.com/track/4vdMdvjrwdm3CR5oobcBIS) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Pecos & the Rooftops](https://open.spotify.com/album/16iK92ILyZrvxH3HuDDgtH) | 3:34 |
+| 34 | [Hurt No More](https://open.spotify.com/track/4vdMdvjrwdm3CR5oobcBIS) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Pecos & the Rooftops](https://open.spotify.com/album/16iK92ILyZrvxH3HuDDgtH) | 3:34 |
+| 35 | [Easy on the Eyes](https://open.spotify.com/track/5dE2CsXCL0Nvg8qG7NUKg1) | [Texas Hill](https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq) | [Heaven Down Here](https://open.spotify.com/album/7sabls2pdbgDGN05k9yAIq) | 3:35 |
 | 36 | [All It Cost Me Was Everything](https://open.spotify.com/track/0pE4AMTKXsXRwCJWFLtqx5) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Mercy](https://open.spotify.com/album/3OMTlnEISam5mlHSO9kdxq) | 3:50 |
 | 37 | [April Showers](https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [April Showers](https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX) | 3:02 |
 | 38 | [I Ain't Going Nowhere](https://open.spotify.com/track/0AQ3u9Uzk3IG5r7sjYH0Cu) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [I Ain't Going Nowhere](https://open.spotify.com/album/6Eo6qKbzmF1J5YiiuWzYJV) | 3:24 |
@@ -71,11 +71,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 61 | [Wannabe](https://open.spotify.com/track/22NdTBOE9CgBsMwKlwXJoI) | [Dalton Domino](https://open.spotify.com/artist/2qsLBELO7Pw7Bpffvv9yDT), [Stephanie Lambring](https://open.spotify.com/artist/7chfbqQEd0M1cJPwybXaZD) | [Wannabe](https://open.spotify.com/album/5XrGiVliWSPdiaIySBz5y4) | 4:53 |
 | 62 | [Nothin’s Changed](https://open.spotify.com/track/55Dy9OWWGmV4QQyU9uqjK1) | [Bart Crow](https://open.spotify.com/artist/0Vdv0pEg0SwdqoEbpP3MJ1) | [Nothin’s Changed](https://open.spotify.com/album/1mfsIkwIlh9UJ851daTUt2) | 3:02 |
 | 63 | [The Road](https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Turning Point](https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21) | 2:33 |
-| 64 | [Tennessee Drinkin'](https://open.spotify.com/track/2nUSe14xSG9IrZsmzZrqn3) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Tennessee Drinkin'](https://open.spotify.com/album/3eo8jtVasYNEcqSt48p1UY) | 3:02 |
+| 64 | [Wherever I Am](https://open.spotify.com/track/1mIAWUrotcchpannDztoxM) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Wherever I Am](https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS) | 4:13 |
 | 65 | [Hell of a Life](https://open.spotify.com/track/38TMYBDb24qk23BWV3PJNz) | [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [Hell of a Life](https://open.spotify.com/album/1KJ4BXQeeVzLSYTad2K8dT) | 3:15 |
-| 66 | [Wherever I Am](https://open.spotify.com/track/1mIAWUrotcchpannDztoxM) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Wherever I Am](https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS) | 4:13 |
+| 66 | [Haunted House](https://open.spotify.com/track/1wLfbqkQRZoKuqN0MG4vmX) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Haunted House](https://open.spotify.com/album/6VIrPVixLcKYpMCHXZssKD) | 4:32 |
 | 67 | [Lowdown & Lonesome](https://open.spotify.com/track/4fRtgLI8kltC4EdU37Cahx) | [Creed Fisher](https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu) | [Lowdown & Lonesome](https://open.spotify.com/album/7e8Ka3g62QpJTm23DYLLm5) | 4:31 |
-| 68 | [Haunted House](https://open.spotify.com/track/1wLfbqkQRZoKuqN0MG4vmX) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Haunted House](https://open.spotify.com/album/6VIrPVixLcKYpMCHXZssKD) | 4:32 |
+| 68 | [Tennessee Drinkin'](https://open.spotify.com/track/2nUSe14xSG9IrZsmzZrqn3) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Tennessee Drinkin'](https://open.spotify.com/album/3eo8jtVasYNEcqSt48p1UY) | 3:02 |
 | 69 | [If I Could Build a Bar](https://open.spotify.com/track/6X5N5onLc64czPlaTjJFTN) | [Joey Greer](https://open.spotify.com/artist/0ZvGvF2SeEeUUTV8NlIXn4) | [Side B](https://open.spotify.com/album/3WwGfPHu0IGcPbREt6VZji) | 3:48 |
 | 70 | [Easy as Hello](https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Easy as Hello](https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm) | 4:39 |
 | 71 | [Shines Through](https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI) | [Dylan Wheeler](https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87) | [Times Are Changing](https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw) | 3:39 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 92 | [Goodbye Horses](https://open.spotify.com/track/4dM6n7StQUjohoWk0JFLw4) | [Joshua Ray Walker](https://open.spotify.com/artist/5SlqleEyFgUYZEZCJ5juDr) | [What Is It Even?](https://open.spotify.com/album/7pOByvaZQPALod9AwZJi3j) | 3:41 |
 | 93 | [Cool To Be Country](https://open.spotify.com/track/24vldRj2TiD05ZQ3Som7vi) | [McBride & The Ride](https://open.spotify.com/artist/5frbtLmwyULdCkg8VqcEvV) | [Marlboros & Avon](https://open.spotify.com/album/0LYHmC9s4Xx1LSAKsTWOco) | 2:21 |
 | 94 | [Dancing Shoes](https://open.spotify.com/track/0VsJggPyMWdXSH3FNSKd6e) | [Parker Ryan](https://open.spotify.com/artist/6q8CPuf8PaE5fvf6WMEldG) | [3 Songs](https://open.spotify.com/album/6RaMHT37nsfajFkHLOr38m) | 3:45 |
-| 95 | [My Dad And His Truck](https://open.spotify.com/track/5A0ZaBJiX2I1iWrCl4ThBE) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [My Dad And His Truck](https://open.spotify.com/album/6I1mXDYlhYNobaKVB0qStf) | 3:38 |
+| 95 | [Boy From Anderson County](https://open.spotify.com/track/6H4TyfdTbm1bIaBkXiyvvw) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Boy From Anderson County](https://open.spotify.com/album/2Mo6Xc2RfhJD6QkmRjYdid) | 4:04 |
 | 96 | [See You Again](https://open.spotify.com/track/4Rr95j82AomVqqbAOewgex) | [Mario Flores](https://open.spotify.com/artist/2xUSUDfwQAxQq9WEal8sId) | [See You Again](https://open.spotify.com/album/7MmU8U3Vkjrl2ZAHZ5qvni) | 3:35 |
-| 97 | [Boy From Anderson County](https://open.spotify.com/track/6H4TyfdTbm1bIaBkXiyvvw) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Boy From Anderson County](https://open.spotify.com/album/2Mo6Xc2RfhJD6QkmRjYdid) | 4:04 |
-| 98 | ['Til I See You Again](https://open.spotify.com/track/14NYAu8zKQ8maBfDCA2FAt) | [Catie Offerman](https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT) | ['Til I See You Again](https://open.spotify.com/album/4cEjb8X4fIzfLxVkpsAxYe) | 3:31 |
-| 99 | [State You Left Me In](https://open.spotify.com/track/4wU7mkrYRl8FJe0zsDhS2W) | [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [State You Left Me In](https://open.spotify.com/album/3FWfYCQli8A63gkKDs0wNd) | 5:25 |
+| 97 | [My Dad And His Truck](https://open.spotify.com/track/5A0ZaBJiX2I1iWrCl4ThBE) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [My Dad And His Truck](https://open.spotify.com/album/6I1mXDYlhYNobaKVB0qStf) | 3:38 |
+| 98 | [State You Left Me In](https://open.spotify.com/track/4wU7mkrYRl8FJe0zsDhS2W) | [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [State You Left Me In](https://open.spotify.com/album/3FWfYCQli8A63gkKDs0wNd) | 5:25 |
+| 99 | ['Til I See You Again](https://open.spotify.com/track/14NYAu8zKQ8maBfDCA2FAt) | [Catie Offerman](https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT) | ['Til I See You Again](https://open.spotify.com/album/4cEjb8X4fIzfLxVkpsAxYe) | 3:31 |
 | 100 | [Still Have Some Cowboy Left](https://open.spotify.com/track/7DbQNgkKQobicPa8s0jRT1) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [Still Have Some Cowboy Left](https://open.spotify.com/album/2u9pcE8nJmW73LYV6rYbRG) | 3:21 |
 
-Snapshot ID: `MCw2ZTYzZjEzOTM0NDkwOWM1YTMwZDZjNGFjYzViM2NhM2FhNmFkYWJi`
+Snapshot ID: `MCxmNzFmN2U5MmJlOWY2NGEzYTcxNWFjYjZlOWQyZDM2Njc0M2FlOTQ2`

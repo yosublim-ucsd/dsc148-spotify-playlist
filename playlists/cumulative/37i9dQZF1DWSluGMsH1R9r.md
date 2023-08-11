@@ -4,7 +4,7 @@
 
 > Calm piano music for enhanced concentration.
 
-562 songs - 1 day 0 hr 17 min
+563 songs - 1 day 0 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -420,6 +420,7 @@
 | [Satin Night](https://open.spotify.com/track/6FDLRVWrSK9eHkg1sMF8Hl) | [Monty Reiss](https://open.spotify.com/artist/3Tha6cubSHSaKYITdBFxwQ) | [Light Textures](https://open.spotify.com/album/7KPsPPlXsItGDbkph50uYx) | 2:20 | 2021-12-07 |  |
 | [Saving Daylight \(Revisited\)](https://open.spotify.com/track/0A3qYD4HtfUkL4mMytek2m) | [Lake Isabel](https://open.spotify.com/artist/1O7IHNwUuOSOnMIS1ueGEJ) | [Saving Daylight \(Revisited\)](https://open.spotify.com/album/6iPFhGhZDGywqm8J8jqiXr) | 2:58 | 2021-12-07 |  |
 | [Say Goodbye](https://open.spotify.com/track/1j13HkUceNuucwQjJNIWxe) | [Sigmund Thorne](https://open.spotify.com/artist/5XZMvbqpb45vxwBRHQQ2sR) | [Say Goodbye](https://open.spotify.com/album/5aKjif3nihiPDJ119Bjlzs) | 2:51 | 2021-12-07 |  |
+| [Schatze](https://open.spotify.com/track/21qsu8rj7gvICuv0P6ZzsW) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Schatze](https://open.spotify.com/album/4zXUVmO4tlStaTgMbtYPo4) | 2:35 | 2023-08-07 |  |
 | [schneller als der Wind](https://open.spotify.com/track/4zUEpKgqktHnXBsVraFPK8) | [Jaz Limon](https://open.spotify.com/artist/6xjq4OBddBYJ6OUaEOIyr6) | [schneller als der Wind](https://open.spotify.com/album/7G8SAjdXikta00iYT0unTf) | 2:58 | 2021-12-07 | 2022-07-16 |
 | [Seconda parte](https://open.spotify.com/track/7mHt21QVehLVUZxDAJC9qJ) | [Alexander Descartes](https://open.spotify.com/artist/0eDPH1f3HFDuveG1kKeOKK) | [Seconda parte](https://open.spotify.com/album/0N2JoDGgvu9YfhwHbj9n3x) | 3:21 | 2021-12-07 |  |
 | [Seeds Of Life](https://open.spotify.com/track/5SGDHySVUTpk4fdjRvYGqB) | [Aestivum](https://open.spotify.com/artist/3QHuI31fQbzUBIVq3uxYF8) | [Seeds Of Life](https://open.spotify.com/album/0bT0nOgO2hMsa4smAlxdIu) | 2:07 | 2021-12-07 |  |
@@ -540,7 +541,7 @@
 | [Waiting for You](https://open.spotify.com/track/5ZWodvcCq8kTLjfy821dRO) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [Waiting for You](https://open.spotify.com/album/2bfBDIwzb9EFHIMhINCDLC) | 2:19 | 2021-12-07 |  |
 | [Waltz For Debby](https://open.spotify.com/track/4xyE5M2RHpqjRsn4Ar7JDQ) | [Madelene Olsson](https://open.spotify.com/artist/32zdWfzzE8XBuoOPEzJcS3) | [Waltz For Debby](https://open.spotify.com/album/7CMIowC09m2WbLegNSGBB0) | 3:29 | 2022-09-14 |  |
 | [Waltz in a Dream](https://open.spotify.com/track/7fFC24ppNibtsubi84bSwH) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Waltz in a Dream](https://open.spotify.com/album/2CcupVOPa2cwYlzWWbd4OE) | 2:29 | 2022-04-07 |  |
-| [We Will Last](https://open.spotify.com/track/37lSjTwceAafdpm011tsGb) | [Marta Lien](https://open.spotify.com/artist/0sUO8DtYY1h8PWvc2ymvuY) | [We Will Last](https://open.spotify.com/album/5S6G0M716lcPw7KHAFmUCJ) | 2:28 | 2022-04-07 |  |
+| [We Will Last](https://open.spotify.com/track/37lSjTwceAafdpm011tsGb) | [Marta Lien](https://open.spotify.com/artist/0sUO8DtYY1h8PWvc2ymvuY) | [We Will Last](https://open.spotify.com/album/5S6G0M716lcPw7KHAFmUCJ) | 2:28 | 2022-04-07 | 2023-08-11 |
 | [Westwood](https://open.spotify.com/track/6sfddrMHU0zljVevQLa4dg) | [Peter Bach](https://open.spotify.com/artist/7uOP00uc0fjE4yEFecj0oL) | [Westwood](https://open.spotify.com/album/5G0SwN1Hn8Xz91PcE8UoGy) | 2:42 | 2021-12-07 | 2023-05-20 |
 | [What We Used To Say](https://open.spotify.com/track/43puambWzfUexLaMUVfR4H) | [Debra Goulet](https://open.spotify.com/artist/2S7w1Z4eNOuk8bam4aGJG4) | [What We Used To Say](https://open.spotify.com/album/6O6vtBUInq3QlBYRAK6IWj) | 2:16 | 2021-12-07 |  |
 | [Wheels in Motion](https://open.spotify.com/track/4Uke8Qv2jsLGq2pKSXjSXO) | [Jenny Lange](https://open.spotify.com/artist/0bdXzz2dagVewMxDw4CX4i) | [Spritual](https://open.spotify.com/album/2mYJWYmAlZKGjmlv8d0wR4) | 3:08 | 2021-12-07 | 2022-07-16 |

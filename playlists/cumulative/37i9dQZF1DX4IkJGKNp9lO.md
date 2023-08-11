@@ -4,7 +4,7 @@
 
 > 
 
-238 songs - 11 hr 28 min
+239 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Kaos](https://open.spotify.com/track/7C5vwqLlWULrV4aaigbHKX) | [Norra Hospitalet](https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM) | [Bakom ljuset](https://open.spotify.com/album/08RgYPSeJy5g9JBInnyLei) | 2:16 | 2021-12-14 | 2022-11-14 |
 | [Kollektivt självmord](https://open.spotify.com/track/3SYUN0J0uFPMNT0kRwqGjT) | [Civil Olydnad](https://open.spotify.com/artist/1Ec2RuosR3mXrq6Q6egvUK) | [Kollektivt självmord](https://open.spotify.com/album/4LlnSAm75vQ0hD1PSPLY6L) | 1:43 | 2021-12-14 | 2022-07-27 |
 | [Kom och dansa lite](https://open.spotify.com/track/3ojMPfMkEHaFdMu3C2Olh6) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Tjugo](https://open.spotify.com/album/2IeV0YcZsxVQ4VLnjL1h44) | 3:00 | 2021-12-14 | 2022-07-25 |
-| [Kom och dansa lite](https://open.spotify.com/track/0WJwf0lJbVtS7Qz2gkoaje) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Alderland](https://open.spotify.com/album/4ucaMCI586k92aFtZvLRcG) | 3:00 | 2021-12-14 |  |
+| [Kom och dansa lite](https://open.spotify.com/track/0WJwf0lJbVtS7Qz2gkoaje) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Alderland](https://open.spotify.com/album/4ucaMCI586k92aFtZvLRcG) | 3:00 | 2021-12-14 | 2023-08-11 |
 | [Konflikthantering 101](https://open.spotify.com/track/7hEbGhVukXSnkgd8xt5xFs) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI) | [Konflikthantering 101](https://open.spotify.com/album/7bBKMz9YfJhYIHyxxEdJa4) | 2:45 | 2023-03-30 |  |
 | [Kroatiska Antirassedagen](https://open.spotify.com/track/67G9uMyw6crZQFmXyE8uDc) | [DÖDSÖGONBLICKET](https://open.spotify.com/artist/67xMBkNcA99pxBHDJqfZkU) | [Lördag kan bli farlig](https://open.spotify.com/album/7t5iA3DK0JCoZ1ZZaHQOJs) | 1:40 | 2021-12-14 | 2022-07-07 |
 | [Kungar Och Knektar](https://open.spotify.com/track/0Fz43y3wP1nHXHyjJuK9KM) | [Räserbajs](https://open.spotify.com/artist/1mYHNZqRjNIlWwMgvIVq7X) | [Fina Flickor](https://open.spotify.com/album/19uXwtRZrDLAWIsmhgarLo) | 2:23 | 2021-12-14 | 2022-07-23 |
@@ -155,6 +155,7 @@
 | [Motström](https://open.spotify.com/track/55r75mRCCSue44qYZRQGrB) | [Norra Hospitalet](https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM) | [Motström](https://open.spotify.com/album/2OsxqLjzimMYUCRlud0uPl) | 2:59 | 2021-12-14 | 2022-07-28 |
 | [Ni får aldrig in mig där](https://open.spotify.com/track/2U8CAKuueeE93CnbKBJupc) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Tjugo](https://open.spotify.com/album/2IeV0YcZsxVQ4VLnjL1h44) | 2:59 | 2021-12-14 | 2022-07-24 |
 | [Ni får aldrig in mig där](https://open.spotify.com/track/6SYznjcNBTzWkyfJuolhfa) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Tjugo](https://open.spotify.com/album/1c86hf60yWW0pBqfIHV2Np) | 2:59 | 2021-12-14 | 2023-03-26 |
+| [Nittontusendar](https://open.spotify.com/track/6MQmYny1PX9IBdSfJa1eTk) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [NITTONTUSENDAR](https://open.spotify.com/album/1sWs1yelZK5GawSRuqyGci) | 2:59 | 2023-08-03 |  |
 | [När Världssamvetet Tog Semester](https://open.spotify.com/track/7sB961OKIFLjJpNDPYxlLy) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Tecken I Tiden](https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd) | 3:20 | 2021-12-14 |  |
 | [Någon form av svar](https://open.spotify.com/track/0Pkr9VNDGK0NUsVXJafmv9) | [Crash Nomada](https://open.spotify.com/artist/67jps1aP8vHb99GSaT2Hkh) | [Crash Nomada](https://open.spotify.com/album/09qtUDDsf4gRO4NST7QNkJ) | 3:39 | 2021-12-14 | 2022-07-29 |
 | [Någon form av svar](https://open.spotify.com/track/1stF6GJvw36GjBrVnJmW7t) | [Crash Nomada](https://open.spotify.com/artist/67jps1aP8vHb99GSaT2Hkh) | [Crash Nomada](https://open.spotify.com/album/5JfnRL57adQUcl9XU57tyG) | 3:39 | 2021-12-14 | 2023-05-07 |

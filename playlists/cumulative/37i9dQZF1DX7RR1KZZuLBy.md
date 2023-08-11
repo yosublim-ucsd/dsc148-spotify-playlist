@@ -4,7 +4,7 @@
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-150 songs - 14 hr 1 min
+151 songs - 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Herbou \(Remix\)](https://open.spotify.com/track/4udgmbI0Ol7Nc2XXNzsHFq) | [RICHELLE GRANT](https://open.spotify.com/artist/5ngimDhvnW2WdAOASWoP9H), [Afrikaans Wil Dans](https://open.spotify.com/artist/0izyicZrCh95ouk1VWn59M) | [Herbou \(Remix\)](https://open.spotify.com/album/4Mg6FHKyiU9Esco2tRW7p9) | 4:01 | 2023-06-30 | 2023-08-04 |
 | [Hewale Lala \(Symphonic Version\)](https://open.spotify.com/track/1O2U5uabqVUv1IPC3UVPne) | [Symphonic Music](https://open.spotify.com/artist/1RUlJvmnDSIJLQDOKyzm0y), [Perez Musik](https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI) | [Hewale Lala \(Symphonic Version\)](https://open.spotify.com/album/67FBxB1VchICOf1vU63kql) | 4:48 | 2023-06-16 | 2023-08-04 |
 | [Hold On \(Live\)](https://open.spotify.com/track/3g6sGNlPxe6dPn1jMUQkVO) | [Sibusiso Nzima](https://open.spotify.com/artist/6AtfG1qMpauT1Z4JXcaJ8b), [Bobo Jay Nzima](https://open.spotify.com/artist/02A9pWLktquvrirqhv0jt1) | [Hold On \(Live\)](https://open.spotify.com/album/0vZ05bOnla5UbYCdWAkgmS) | 6:45 | 2023-06-30 |  |
-| [Hosanna](https://open.spotify.com/track/2HFkbiZm1jOFG4mBotFZ8X) | [Karabo](https://open.spotify.com/artist/4lVkctc6sd3UNFSUV5m13w) | [Hosanna](https://open.spotify.com/album/7AUWNeNCVeuK8zvK0yy6if) | 4:05 | 2021-11-18 |  |
+| [Hosanna](https://open.spotify.com/track/2HFkbiZm1jOFG4mBotFZ8X) | [Karabo](https://open.spotify.com/artist/4lVkctc6sd3UNFSUV5m13w) | [Hosanna](https://open.spotify.com/album/7AUWNeNCVeuK8zvK0yy6if) | 4:05 | 2021-11-18 | 2023-08-11 |
+| [Hosanna](https://open.spotify.com/track/7rvB5RRZFsbj4mjTNJfOG5) | [Karabo](https://open.spotify.com/artist/0mCZlZDqg0tTXWmcjzpI8c) | [Hosanna](https://open.spotify.com/album/2rC7XoJ937wxoDUjfh5Ev7) | 4:05 | 2023-02-21 |  |
 | [I'm Getting Ready](https://open.spotify.com/track/1p4M16Qe079LFw4HeobdKk) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Black History Month: Gospel](https://open.spotify.com/album/6skBirPP2i1IJawDIUWcc3) | 8:26 | 2018-09-23 | 2022-11-14 |
 | [I'm Getting Ready](https://open.spotify.com/track/5RjS5iW0FWn1U4ZaWjhLlP) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 8:26 | 2018-09-23 |  |
 | [In the Room \(Edit\)](https://open.spotify.com/track/6l0BLKt7DuLVdWcjwPFRC6) | [Jason Nelson](https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef) | [In the Room \(Edit\)](https://open.spotify.com/album/3nbNxLzlz1CY9FzKJPK1O9) | 4:18 | 2019-03-03 | 2023-06-23 |

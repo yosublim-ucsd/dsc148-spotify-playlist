@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Eq6MmYdni.md) - [plain]
 
 > Everything in Texas is best! Lo que suena in the Lone Star state\. Cover: Grupo Frontera
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,210 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,234 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Eq6MmYdni.md) - [plain]
 | 11 | [El Gordo Trae El Mando](https://open.spotify.com/track/3kf0WdFOalKWBkCCLJo4mA) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [El Gordo Trae El Mando](https://open.spotify.com/album/0DqHNI5QhosQmpQ5Ojzqe6) | 1:52 |
 | 12 | [Fin de Semana](https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Fin de Semana](https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy) | 3:44 |
 | 13 | [No Se Va \- EN VIVO](https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va \(EN VIVO\)](https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3) | 3:14 |
-| 14 | [Bebe Dame](https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Bebe Dame](https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC) | 4:31 |
-| 15 | [En Paris](https://open.spotify.com/track/1Fuc3pBiPFxAeSJoO8tDh5) | [El Chachito](https://open.spotify.com/artist/6OP8Y0UsezppFkU1hZU6EJ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [En Paris](https://open.spotify.com/album/02t065wNWRCc7Yz9jG0ahR) | 2:42 |
+| 14 | [En Paris](https://open.spotify.com/track/1Fuc3pBiPFxAeSJoO8tDh5) | [El Chachito](https://open.spotify.com/artist/6OP8Y0UsezppFkU1hZU6EJ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [En Paris](https://open.spotify.com/album/02t065wNWRCc7Yz9jG0ahR) | 2:42 |
+| 15 | [Bebe Dame](https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Bebe Dame](https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC) | 4:31 |
 | 16 | [JGL](https://open.spotify.com/track/5kpxVMDvYGRmNqawPqDTYR) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [JGL](https://open.spotify.com/album/1VwBEj5qv0cbe78LJmANhW) | 2:38 |
 | 17 | [PRC](https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [PRC](https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI) | 3:04 |
 | 18 | [Dijeron Que No La Iba Lograr](https://open.spotify.com/track/7dR09k1an5JEq7ch0Y5hvV) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dijeron Que No La Iba Lograr](https://open.spotify.com/album/3pyALc28lhIbH4gPXVNb9g) | 1:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Eq6MmYdni.md) - [plain]
 | 49 | [Que Vas a Hacer](https://open.spotify.com/track/2OAKNQl1xx7STmVS1QeUP4) | [Nivel Codiciado](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK), [José Mejía](https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve) | [Nivelado](https://open.spotify.com/album/7wet6Vo8IdfH2gMzp19HBF) | 3:05 |
 | 50 | [Nena Ven](https://open.spotify.com/track/2a9jv3CXsBaW6sZoXEeOrk) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V) | [Nena Ven](https://open.spotify.com/album/0VowgdMO0zg5SAsvTvFTb3) | 3:17 |
 
-Snapshot ID: `MCwxOTdmZjhjZTBmZmIzMjFmOWJiYmI1NDc3N2U3MjYwNzg4NTgyYmZj`
+Snapshot ID: `MCw4YjJjMzlkZWViYjJmYmI0OTQyZWEwZTUyMDA1OGFkYjBlMWQ3ZjQ2`

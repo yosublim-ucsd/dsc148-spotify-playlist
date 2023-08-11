@@ -1,12 +1,12 @@
 {
   "description": "Pop para refrescarte los d\u00edas, featuring LAGOS.",
-  "num_followers": 6534,
+  "num_followers": 6557,
   "original_name": "Crema Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTYwODIyM2Y0OGZiZTk3MDVjNjBiNWJlZDU0ZDljNjhhYTAxNDkw",
+  "snapshot_id": "MCxlNDJkYTlhMDNiNzg4NDZiMTIxODgwYmJiYTJkN2RkMzM5ZDBhM2U1",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "XT4S1S",
-        "url": "https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 219320,
-      "name": "XT4S1S",
-      "url": "https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Santorini",
         "url": "https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z"
       },
@@ -323,22 +307,34 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "tqum",
-        "url": "https://open.spotify.com/album/6ZOjII4udSTX8ooN3BRBjC"
+        "name": "XT4S1S",
+        "url": "https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC"
       },
       "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
         {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 149589,
-      "name": "tqum",
-      "url": "https://open.spotify.com/track/3zR2iyPKGtAVyvAYZH1YUr"
+      "duration_ms": 219320,
+      "name": "XT4S1S",
+      "url": "https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Portales (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 184511,
+      "name": "Que Se Parezca A Ti",
+      "url": "https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -363,18 +359,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Portales (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
+        "name": "tqum",
+        "url": "https://open.spotify.com/album/6ZOjII4udSTX8ooN3BRBjC"
       },
       "artists": [
         {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 184511,
-      "name": "Que Se Parezca A Ti",
-      "url": "https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6"
+      "duration_ms": 149589,
+      "name": "tqum",
+      "url": "https://open.spotify.com/track/3zR2iyPKGtAVyvAYZH1YUr"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Man\u00edaca",
+        "url": "https://open.spotify.com/album/2yMRu2OW5Eidm9XxIi0xye"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        }
+      ],
+      "duration_ms": 175175,
+      "name": "Man\u00edaca",
+      "url": "https://open.spotify.com/track/1sGknF0rpOXOCEeVc93WMR"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Mal De Amores",
         "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 201106,
       "name": "1Trago",
       "url": "https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Man\u00edaca",
-        "url": "https://open.spotify.com/album/2yMRu2OW5Eidm9XxIi0xye"
-      },
-      "artists": [
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        }
-      ],
-      "duration_ms": 175175,
-      "name": "Man\u00edaca",
-      "url": "https://open.spotify.com/track/1sGknF0rpOXOCEeVc93WMR"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "LA FALTA QUE ME HACES",
-        "url": "https://open.spotify.com/album/0aKIRSfDhab4HjgNxNYhcT"
-      },
-      "artists": [
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 180250,
-      "name": "LA FALTA QUE ME HACES",
-      "url": "https://open.spotify.com/track/39U5DHTTvKNX7o9lyJmBpl"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Estemos Donde Estemos",
         "url": "https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 149973,
       "name": "Se Siente As\u00ed",
       "url": "https://open.spotify.com/track/4PqABTCOnE62ncPdwra8rk"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "LA FALTA QUE ME HACES",
+        "url": "https://open.spotify.com/album/0aKIRSfDhab4HjgNxNYhcT"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 180250,
+      "name": "LA FALTA QUE ME HACES",
+      "url": "https://open.spotify.com/track/39U5DHTTvKNX7o9lyJmBpl"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Dementes",
+        "url": "https://open.spotify.com/album/0fsASfqU4Xd5UlCGN7ltTR"
+      },
+      "artists": [
+        {
+          "name": "Alex Hoyer",
+          "url": "https://open.spotify.com/artist/45ztMs8dTg6GRQ41yY4xtr"
+        }
+      ],
+      "duration_ms": 176207,
+      "name": "Dementes",
+      "url": "https://open.spotify.com/track/05T29iTmS1rFDLrF1Qy1JI"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Thalia's Mixtape",
         "url": "https://open.spotify.com/album/6otH0ogeIDBJ3UgpjIpxVf"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 202736,
       "name": "Devu\u00e9lveme a Mi Chica",
       "url": "https://open.spotify.com/track/7sl70g1z4UCKl28PdAG5na"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Dementes",
-        "url": "https://open.spotify.com/album/0fsASfqU4Xd5UlCGN7ltTR"
-      },
-      "artists": [
-        {
-          "name": "Alex Hoyer",
-          "url": "https://open.spotify.com/artist/45ztMs8dTg6GRQ41yY4xtr"
-        }
-      ],
-      "duration_ms": 176207,
-      "name": "Dementes",
-      "url": "https://open.spotify.com/track/05T29iTmS1rFDLrF1Qy1JI"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "2000",
-        "url": "https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 163911,
-      "name": "Int\u00e9ntalo",
-      "url": "https://open.spotify.com/track/2wKCkLD4ZqSA4S7k3MZPLN"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Idiota",
         "url": "https://open.spotify.com/album/37hYVnYv761wHMUHLXuOx0"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 215558,
       "name": "Idiota",
       "url": "https://open.spotify.com/track/1AcRfJPwoBbemOCztsr0rJ"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "2000",
+        "url": "https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 163911,
+      "name": "Int\u00e9ntalo",
+      "url": "https://open.spotify.com/track/2wKCkLD4ZqSA4S7k3MZPLN"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "PILLS",
-        "url": "https://open.spotify.com/album/4JuyjmAq8idnUkKcOIWocf"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 187636,
-      "name": "PILLS",
-      "url": "https://open.spotify.com/track/2pcZheBNDPRyMhKKYLNaTf"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "El Pr\u00edncipe",
         "url": "https://open.spotify.com/album/5XTsSX2OrLqIJHnvkHI3FE"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 199486,
       "name": "Animal distinto",
       "url": "https://open.spotify.com/track/5cb0fWDLdfBcUcYrKGIfQd"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "PILLS",
+        "url": "https://open.spotify.com/album/4JuyjmAq8idnUkKcOIWocf"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 187636,
+      "name": "PILLS",
+      "url": "https://open.spotify.com/track/2pcZheBNDPRyMhKKYLNaTf"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Qu\u00e9 Quer\u00e9s?",
+        "url": "https://open.spotify.com/album/7HcdDDJ5aa4IaONKc02rr0"
+      },
+      "artists": [
+        {
+          "name": "Chule",
+          "url": "https://open.spotify.com/artist/09QoQi6E7GP5AePICzRcZe"
+        }
+      ],
+      "duration_ms": 207656,
+      "name": "Qu\u00e9 Quer\u00e9s?",
+      "url": "https://open.spotify.com/track/21PkuPzobaZcpp1UprW9Q1"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Mi vida en llamas (feat. Buscabulla)",
         "url": "https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 288624,
       "name": "Mi vida en llamas (feat. Buscabulla)",
       "url": "https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Qu\u00e9 Quer\u00e9s?",
-        "url": "https://open.spotify.com/album/7HcdDDJ5aa4IaONKc02rr0"
-      },
-      "artists": [
-        {
-          "name": "Chule",
-          "url": "https://open.spotify.com/artist/09QoQi6E7GP5AePICzRcZe"
-        }
-      ],
-      "duration_ms": 207656,
-      "name": "Qu\u00e9 Quer\u00e9s?",
-      "url": "https://open.spotify.com/track/21PkuPzobaZcpp1UprW9Q1"
     },
     {
       "added_at": "2023-08-04 04:00:00",

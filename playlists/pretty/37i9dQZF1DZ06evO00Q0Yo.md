@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 
 > This is Flo Milli\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,551 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,564 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 | 35 | [Like That Bitch](https://open.spotify.com/track/7zoZd2MuTaQEdF1rlq6Vv1) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ho, why is you here ?](https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P) | 3:23 |
 | 36 | [My Attitude](https://open.spotify.com/track/75nCGDsQW8BQsCXQrhFmoK) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [My Attitude](https://open.spotify.com/album/7Gmi73lktv864xchbOA5PZ) | 2:27 |
 | 37 | [Simon Say \(feat\. Flo Milli\)](https://open.spotify.com/track/2kzEf3Bg7S43YuSFPI3462) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Simon Say \(feat\. Flo Milli\)](https://open.spotify.com/album/3rNyJVQPRgctJUoonHIfNf) | 2:56 |
-| 38 | [Buying All Black \(feat\. Flo Milli & PJ\)](https://open.spotify.com/track/10ObGiDAN6J2k60oeQ0IG8) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [Buying All Black](https://open.spotify.com/album/2kao7DqNu09OPPx0djcVCo) | 2:42 |
-| 39 | [Asthma Pump \(feat\. Flo Milli\)](https://open.spotify.com/track/17WXwXsFVJ66Rnus8DhDfC) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Girls Gone Duh](https://open.spotify.com/album/0H3aviEP5qS8dN3uRLuE2A) | 2:58 |
+| 38 | [Asthma Pump \(feat\. Flo Milli\)](https://open.spotify.com/track/17WXwXsFVJ66Rnus8DhDfC) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Girls Gone Duh](https://open.spotify.com/album/0H3aviEP5qS8dN3uRLuE2A) | 2:58 |
+| 39 | [Buying All Black \(feat\. Flo Milli & PJ\)](https://open.spotify.com/track/10ObGiDAN6J2k60oeQ0IG8) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [Buying All Black](https://open.spotify.com/album/2kao7DqNu09OPPx0djcVCo) | 2:42 |
 | 40 | [HOT \(with Sean Paul & Flo Milli\) \- Remix](https://open.spotify.com/track/2uPfFGg18EsXxWR8m8I7O5) | [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [HOT \(Remix\)](https://open.spotify.com/album/5LEpzGrWKZJDfSDd6Xccfp) | 3:25 |
 | 41 | [Sexy \(Remix\) \- feat\. Flo Milli](https://open.spotify.com/track/2UchverhvMczB8NoXrNWwU) | [JoeVille](https://open.spotify.com/artist/6Rf6w9LrInrRvLTh0sEzVW), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Sexy \(Remix\) \[feat\. Flo Milli\]](https://open.spotify.com/album/4S1It1aTTWaMPblmRNy3DX) | 3:48 |
 | 42 | [Ice Baby](https://open.spotify.com/track/54c4fajLogCgJkKiKztEa2) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ice Baby](https://open.spotify.com/album/47fUhEmt7Ew393CEPo7VhK) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 | 49 | [Toot It Up](https://open.spotify.com/track/654vCNETmkVbg5vpD38OUj) | [Sally Sossa](https://open.spotify.com/artist/58q28H7IgX06YXkPvUtGgR), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [4EVER SOSSA](https://open.spotify.com/album/7DB5LVm0cNsq3fJp6JGWeM) | 2:49 |
 | 50 | [To The Money \(feat\. Flo Milli & 8AE\)](https://open.spotify.com/track/5YSWtx5drmDZHP2weqJtAG) | [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [8AE](https://open.spotify.com/artist/1HX4A36aOWZMFx5eRHKIz1) | [To The Money \(feat\. Flo Milli & 8AE\)](https://open.spotify.com/album/2efMCGuPSpEgLoSPsg5a5e) | 2:54 |
 
-Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDAzYjk4OTQ4MjFmMjVjZTMzNDFlNmIwMTJlZWM4ZTZmOA==`
+Snapshot ID: `MjgxOTQ1NjMsMDAwMDAwMDBmYWQ0ZDI5ZmRmZTY2NWZmMmZiNTc5NDY1ZjA0NDUwYw==`

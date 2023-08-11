@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena!
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,135 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,169 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 | 68 | [Sola Con Mi Soledad / Y Voy a Ser Feliz](https://open.spotify.com/track/7gQ8PK6QcOMrKJn6QCRV2z) | [Los Halcones Negros](https://open.spotify.com/artist/3gKLNRsPFUsiUA1gk9tXyS) | [Alma Enamorada](https://open.spotify.com/album/2BoTjs0a7IgcKXQNQqJgdg) | 4:27 |
 | 69 | [Vuelvo a las Cantinas](https://open.spotify.com/track/1annSFnYdlZ0Q0YA6DWrDn) | [Los Flores de Rucalhue](https://open.spotify.com/artist/6IcXD8DoXOqLkvwpOFTFbf) | [EN HONOR A NUESTRO HERMANO](https://open.spotify.com/album/7puJ6lr1r0uSTF606zE0ZY) | 4:18 |
 | 70 | [La Suegra](https://open.spotify.com/track/0KvdmyWi1v3HaRjSM64tgo) | [Koky y su banda tropical ranchera](https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf) | [La Fiesta de Koky](https://open.spotify.com/album/3ExrYJUNGwdwLIhdexPKvd) | 3:24 |
-| 71 | [Un Lobo Está Llorando](https://open.spotify.com/track/59zQnQvkMLAIe8k2vUCS66) | [Los Lobos del Sur](https://open.spotify.com/artist/3FCBnIlgoRwCdoWpUN85ck) | [Un Lobo Está Llorando](https://open.spotify.com/album/6Geby7blTCI2vcP1Pm2DGR) | 4:25 |
-| 72 | [Con Que Derecho](https://open.spotify.com/track/26iOxv7FyPSfYeV1beFg7j) | [Gran Sismo Tropikal](https://open.spotify.com/artist/2ukK9Jw0F1ZX9NZqx7r8Rs) | [Siempre Arriba](https://open.spotify.com/album/1ZyuRSvEjBg1lbS9tfTNNR) | 4:06 |
-| 73 | [La Chupilca](https://open.spotify.com/track/75N9uODWcbYhwYoayo7879) | [Josepth el Ranchero](https://open.spotify.com/artist/0Sbh70Uh5JuiHCjXXql0nT) | [La Chupilca](https://open.spotify.com/album/5bpY8kbK4mZiosA1UKI8x2) | 2:55 |
+| 71 | [La Chupilca](https://open.spotify.com/track/75N9uODWcbYhwYoayo7879) | [Josepth el Ranchero](https://open.spotify.com/artist/0Sbh70Uh5JuiHCjXXql0nT) | [La Chupilca](https://open.spotify.com/album/5bpY8kbK4mZiosA1UKI8x2) | 2:55 |
+| 72 | [Un Lobo Está Llorando](https://open.spotify.com/track/59zQnQvkMLAIe8k2vUCS66) | [Los Lobos del Sur](https://open.spotify.com/artist/3FCBnIlgoRwCdoWpUN85ck) | [Un Lobo Está Llorando](https://open.spotify.com/album/6Geby7blTCI2vcP1Pm2DGR) | 4:25 |
+| 73 | [Con Que Derecho](https://open.spotify.com/track/26iOxv7FyPSfYeV1beFg7j) | [Gran Sismo Tropikal](https://open.spotify.com/artist/2ukK9Jw0F1ZX9NZqx7r8Rs) | [Siempre Arriba](https://open.spotify.com/album/1ZyuRSvEjBg1lbS9tfTNNR) | 4:06 |
 | 74 | [El Sol No Regresa](https://open.spotify.com/track/2G547gJdbWyrQWqBwPmKpt) | [LOS FLORES DE YUNGAY](https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD) | [El Sol No Regresa](https://open.spotify.com/album/2XMrbnwRqoQDNnBNpINrBH) | 2:54 |
 | 75 | [Sin Coronas Ni Reinas](https://open.spotify.com/track/4lH1QljMIcW8Au5WksCpxP) | [Los tremendos laureles](https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U) | [Para Nuestra Gente](https://open.spotify.com/album/0GrlpcJCnQtifPuKcJaKMK) | 3:20 |
 | 76 | [El Último Trago](https://open.spotify.com/track/3jQOI7vNZXMWy3ETXHVCGR) | [Ramón Rimac](https://open.spotify.com/artist/6d6QJqFsGRZmm8boMVAALN) | [Me Voy a Emborrachar](https://open.spotify.com/album/6TnjtS7lx7GB4Ku22NX8ZW) | 2:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 | 99 | [Mi Decisión](https://open.spotify.com/track/67k7yjg8G46fmLQj19YXc8) | [Los Chacales del Maule](https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN) | [Mi Decisión](https://open.spotify.com/album/6zfpEB0wUGsmsMgsxcPyyd) | 4:14 |
 | 100 | [Tarjetita de Invitacion](https://open.spotify.com/track/07sdL3bIRtYBlkPIvN1OYo) | [Los Infieles de Santa Barbara](https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs) | [Tarjetita de Invitación](https://open.spotify.com/album/3lXii5UGE1r740O1ipWbmU) | 3:44 |
 
-Snapshot ID: `MCw5MGVjYzAzYjdhOWE2NzlkNzUxY2VlMjNiYjJmYzc5MjEwOWU4NzJk`
+Snapshot ID: `MCwxZWJhYWJhODJkYWJkZjM0ZWMzNTQ4ZTliNzk3ZmZkODdhZmI4OWNm`

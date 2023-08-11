@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,376 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,393 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 41 | [creep](https://open.spotify.com/track/1CSue9uoEXv1w2YwfSjaCY) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h) | 3:30 |
 | 42 | [Concrete](https://open.spotify.com/track/7HGwpUzbvszA3q7pnokHkY) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Concrete](https://open.spotify.com/album/4ZdyRUMRbY9plmxLjQtkF1) | 2:32 |
 | 43 | [Lose Your Head](https://open.spotify.com/track/2kU6bMVN21UbJ425q1yIKR) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Californian Soil](https://open.spotify.com/album/3wcC3Rowkgk4CffWv84sJH) | 3:19 |
-| 44 | [Bonafide \(feat\. Chiiild\)](https://open.spotify.com/track/6AwhhAhVLPvaDYmfR4j3bQ) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [The Juicebox](https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1) | 2:57 |
-| 45 | [Silvery](https://open.spotify.com/track/6i8GiLfa1PAwKl4SBfpFVt) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P) | [Heiress](https://open.spotify.com/album/4poxm3vY9nKdqcyeWv5h0a) | 3:52 |
-| 46 | [Miracles](https://open.spotify.com/track/5PZuWw56Wwc9W6nEi3ZcWO) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [God Save The Animals](https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU) | 3:44 |
+| 44 | [Silvery](https://open.spotify.com/track/6i8GiLfa1PAwKl4SBfpFVt) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P) | [Heiress](https://open.spotify.com/album/4poxm3vY9nKdqcyeWv5h0a) | 3:52 |
+| 45 | [Miracles](https://open.spotify.com/track/5PZuWw56Wwc9W6nEi3ZcWO) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [God Save The Animals](https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU) | 3:44 |
+| 46 | [Bonafide \(feat\. Chiiild\)](https://open.spotify.com/track/6AwhhAhVLPvaDYmfR4j3bQ) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [The Juicebox](https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1) | 2:57 |
 | 47 | [Wild Girl](https://open.spotify.com/track/3IqwOIVNLdBs7av6n8Plrt) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Wild Girl](https://open.spotify.com/album/5gjaKIotnXLPTsb9lvp5vT) | 3:14 |
 | 48 | [Oasis](https://open.spotify.com/track/3jlFMDKI3hjKvqzXry1Yq1) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Oasis](https://open.spotify.com/album/7BCdGiEPeZ3ysc0rF8PSsj) | 3:22 |
 | 49 | [Awaken \(Feel Alive\)](https://open.spotify.com/track/1p6AQlMFpnH4hmhrSfoQ3k) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA), [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Awaken \(Feel Alive\)](https://open.spotify.com/album/3G2IDH5CJxDMVaX8mQ9kVp) | 3:00 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 67 | [This World](https://open.spotify.com/track/3C571WNMD9cqzDzeNrqNXE) | [Astral Weeks](https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3) | [This World](https://open.spotify.com/album/0z2OPouev2a1KQ5fA5xbxK) | 3:52 |
 | 68 | [Frail State Of Mind](https://open.spotify.com/track/2i1CnSeLjppv41BTuc7qhY) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Frail State Of Mind](https://open.spotify.com/album/1KAWoDpnecuSNHijVTrWxn) | 3:54 |
 | 69 | [Emotion feat\. Wild Nothing](https://open.spotify.com/track/3pN4bdgaRvc3c61GCkEwDP) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5), [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Romantic Images](https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT) | 4:07 |
-| 70 | [Hunger](https://open.spotify.com/track/4AXc3B0zpchnvWJ17htzeU) | [Sam Sure](https://open.spotify.com/artist/2Axfmy8RlEqUHpK81UUOOd) | [Hunger](https://open.spotify.com/album/4cEDFFpsG4kQYXy81OguGA) | 3:12 |
-| 71 | [Nirvana](https://open.spotify.com/track/11VPN6SfBRRmF2fESXlNep) | [ELLIANA](https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT) | [Nirvana](https://open.spotify.com/album/6HcXFfZ41boaTaIwGa3oPh) | 4:26 |
+| 70 | [Nirvana](https://open.spotify.com/track/11VPN6SfBRRmF2fESXlNep) | [ELLIANA](https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT) | [Nirvana](https://open.spotify.com/album/6HcXFfZ41boaTaIwGa3oPh) | 4:26 |
+| 71 | [Hunger](https://open.spotify.com/track/4AXc3B0zpchnvWJ17htzeU) | [Sam Sure](https://open.spotify.com/artist/2Axfmy8RlEqUHpK81UUOOd) | [Hunger](https://open.spotify.com/album/4cEDFFpsG4kQYXy81OguGA) | 3:12 |
 | 72 | [I'll Be There](https://open.spotify.com/track/17mZZOqfeFSDS4Cu0ggkvW) | [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [I'll Be There](https://open.spotify.com/album/1WrbaQ0Z01VLqkqwspRU5J) | 3:55 |
 | 73 | [No Time](https://open.spotify.com/track/1FG2lH6gxJCX94kOg2Sozp) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [First Contact](https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf) | 3:56 |
 | 74 | [cherry blossom](https://open.spotify.com/track/2pVym24miJgEbF170Is2lO) | [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA) | [are we?](https://open.spotify.com/album/4tl1xL2MeyURq8Vk3enaze) | 2:21 |
@@ -95,9 +95,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 85 | [Fluff](https://open.spotify.com/track/0dIjXvuRcRJKMqiofuFeyc) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [Friend Goals](https://open.spotify.com/album/3lyvbuaHTM8p1xEe9pqdXX) | 3:27 |
 | 86 | [Sweet Summer Sweat](https://open.spotify.com/track/2rF0SIGlQLyU2Vg3Vxlxn5) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [EPHEMERA](https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m) | 3:03 |
 | 87 | [Change Your Mind](https://open.spotify.com/track/0ryVvXd2EzVqNR0yTLCzNT) | [Oceanic](https://open.spotify.com/artist/1HZqEalU7MGNHQvENPJb4J) | [Change Your Mind](https://open.spotify.com/album/4dWcsWKaDx3RO37DTJtwZ0) | 3:08 |
-| 88 | [Arcadia](https://open.spotify.com/track/30AeH6saju8WPJo73cKZyH) | [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Vessel](https://open.spotify.com/album/68yE0tQ8B2LwiIfgF5J8EI) | 3:33 |
+| 88 | [Old T\-Shirt \(feat\. koby\)](https://open.spotify.com/track/2eY9AF1LTqa1rR4MogBEu7) | [Kim Tee](https://open.spotify.com/artist/7DA6NRbeRXME2U3tC5sjtp), [koby](https://open.spotify.com/artist/4Tn608IQ0ZuBKRxV0kDX02) | [Old T\-Shirt \(feat\. koby\)](https://open.spotify.com/album/41v6png8j9Y3dcnnShRtlb) | 3:39 |
 | 89 | [Santa Monica](https://open.spotify.com/track/2oEyCPWce5scvt5k5eBL1M) | [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [Iridescent](https://open.spotify.com/album/7kHDeoEZxg9OfOMr13b2IU) | 3:22 |
-| 90 | [Old T\-Shirt \(feat\. koby\)](https://open.spotify.com/track/2eY9AF1LTqa1rR4MogBEu7) | [Kim Tee](https://open.spotify.com/artist/7DA6NRbeRXME2U3tC5sjtp), [koby](https://open.spotify.com/artist/4Tn608IQ0ZuBKRxV0kDX02) | [Old T\-Shirt \(feat\. koby\)](https://open.spotify.com/album/41v6png8j9Y3dcnnShRtlb) | 3:39 |
+| 90 | [Arcadia](https://open.spotify.com/track/30AeH6saju8WPJo73cKZyH) | [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Vessel](https://open.spotify.com/album/68yE0tQ8B2LwiIfgF5J8EI) | 3:33 |
 | 91 | [Heart \- Alternative Version](https://open.spotify.com/track/44EPCM1s8YWZKGUTTcbxOB) | [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Heart \(Alternative Version\)](https://open.spotify.com/album/3raFKyVQMl05qPHSDUUjcS) | 2:55 |
 | 92 | [Queen of the Valley](https://open.spotify.com/track/164PqKYitMXTrr8nMt7owN) | [Young & Sick](https://open.spotify.com/artist/3pQXFWbvLit77NpvNmOo3k) | [Size of Relief](https://open.spotify.com/album/0DdOMiD6kPE0Kv119dNZCI) | 4:06 |
 | 93 | [On Your Side](https://open.spotify.com/track/1wAclvl2eW3uuTQtWGXP2M) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Letter Blue](https://open.spotify.com/album/73JjCWpjzmp1alhxVtywvF) | 4:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 99 | [Losing Sleep](https://open.spotify.com/track/6NBP6H1F1L5THU7DFoCNgU) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [Losing Sleep](https://open.spotify.com/album/7o8ly8OTyBXGmh050Iu3A4) | 3:42 |
 | 100 | [Trip](https://open.spotify.com/track/53s35uBUa1PpKdwY3L8zxF) | [Vacationer](https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7) | [Gone](https://open.spotify.com/album/18YfZB3sMphELTAkjMjpZk) | 2:53 |
 
-Snapshot ID: `MCw0YzJkNDc0NzQ2NmE1OTg1ZjQ1ZjRhNzk3OWI4MWEzM2UxZTc3MzNi`
+Snapshot ID: `MCwwMzJiOWRmNDY4NzYzMzU4YmJkZWFlYWUyNWJhZjdkYWYyZGIwMDE3`

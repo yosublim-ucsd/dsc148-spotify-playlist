@@ -651,6 +651,24 @@
     },
     {
       "album": {
+        "name": "Caught Up On You",
+        "url": "https://open.spotify.com/album/6ICcS5WGbZr33DESzK9Xiq"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206840,
+      "name": "Caught Up On You",
+      "url": "https://open.spotify.com/track/3QjAG3LVB0P5x251vwinVm"
+    },
+    {
+      "album": {
         "name": "CD",
         "url": "https://open.spotify.com/album/3x4ngwfnySLcB3UBtAID91"
       },
@@ -680,7 +698,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 185715,
       "name": "Charge It",
       "url": "https://open.spotify.com/track/2YIIDMcF9zWJ2xcFSA99lH"
@@ -894,7 +912,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 177520,
       "name": "Dominoes",
       "url": "https://open.spotify.com/track/5EXtmeRbTiNT8UKfIuMez9"
@@ -1017,6 +1035,24 @@
     },
     {
       "album": {
+        "name": "Espera",
+        "url": "https://open.spotify.com/album/7xHKi5y2j7ZwILfbtNj4SQ"
+      },
+      "artists": [
+        {
+          "name": "Helios",
+          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303600,
+      "name": "Fainted Fog",
+      "url": "https://open.spotify.com/track/7ggA26W0ufb2oDrykBM7UZ"
+    },
+    {
+      "album": {
         "name": "Fallin'",
         "url": "https://open.spotify.com/album/3jRxPwXTP8INLOVpmDxDxo"
       },
@@ -1046,7 +1082,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 245840,
       "name": "Falling In Love",
       "url": "https://open.spotify.com/track/4m1jesCFX1gQtIRFirfwCW"
@@ -1318,7 +1354,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 148181,
       "name": "GIVE MINE",
       "url": "https://open.spotify.com/track/6s88qhU19OYs0MXb58LgwQ"
@@ -1416,6 +1452,24 @@
       "duration_ms": 225720,
       "name": "Hadaka no Yume",
       "url": "https://open.spotify.com/track/4hpkSK1MZyzFUlNxN6FN1I"
+    },
+    {
+      "album": {
+        "name": "Heiwa",
+        "url": "https://open.spotify.com/album/0PaVCQT043VZB8CKdXHPuv"
+      },
+      "artists": [
+        {
+          "name": "Meitei",
+          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Heiwa",
+      "url": "https://open.spotify.com/track/6q4ZgpCedbtY0HRdX9G178"
     },
     {
       "album": {
@@ -1692,6 +1746,32 @@
       "duration_ms": 236197,
       "name": "inthemourning",
       "url": "https://open.spotify.com/track/53H91ncq2kL9SReFqTkm5t"
+    },
+    {
+      "album": {
+        "name": "Into The Night (feat. ZIN & \u9ed2\u7530\u5353\u4e5f)",
+        "url": "https://open.spotify.com/album/3r1jhjYj8DPOTlawfBTmVP"
+      },
+      "artists": [
+        {
+          "name": "Kei Owada",
+          "url": "https://open.spotify.com/artist/3uxdiisUeUl9eXJ9KfDy4C"
+        },
+        {
+          "name": "ZIN",
+          "url": "https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS"
+        },
+        {
+          "name": "Takuya Kuroda",
+          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287000,
+      "name": "Into The Night (feat. ZIN & \u9ed2\u7530\u5353\u4e5f)",
+      "url": "https://open.spotify.com/track/3bD6V7HK99QSLLmZFlJP3w"
     },
     {
       "album": {
@@ -2138,6 +2218,24 @@
       "duration_ms": 162875,
       "name": "Love Lost",
       "url": "https://open.spotify.com/track/2z9iuAxKv4TTeCrPAxxKg9"
+    },
+    {
+      "album": {
+        "name": "Statues I",
+        "url": "https://open.spotify.com/album/126uaBLz5spQHGfNcDMIA0"
+      },
+      "artists": [
+        {
+          "name": "Spencer Zahn",
+          "url": "https://open.spotify.com/artist/7Besl9VdibJqiIjJ40fphx"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145058,
+      "name": "Lullaby For My Dog",
+      "url": "https://open.spotify.com/track/7hhyUG0MgHLrtTmt8Hlcog"
     },
     {
       "album": {
@@ -3010,7 +3108,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 192052,
       "name": "Rainbow Light Eyes",
       "url": "https://open.spotify.com/track/13VrYQ0GkLoqcHhLezrKOl"

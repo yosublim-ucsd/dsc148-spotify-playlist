@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-479 songs - 1 day 2 hr 55 min
+480 songs - 1 day 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Hysteria](https://open.spotify.com/track/4O3acCqL5poIvUl1px4WES) | [Rossy](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [Hysteria](https://open.spotify.com/album/3zOh32D5fBrhgPMUnKwyiE) | 3:49 | 2022-02-07 | 2022-03-10 |
 | [I Don't Believe You](https://open.spotify.com/track/212EdVzDMfSoUolXGQ4iTT) | [Jerome Blazé](https://open.spotify.com/artist/4Xugx9BOIAE45eFzvzEN6e) | [I Don't Believe You](https://open.spotify.com/album/4Am00AmCdt7qCMifgAmtcJ) | 3:30 | 2022-02-28 | 2022-03-31 |
 | [I Kill Everything](https://open.spotify.com/track/67yPz95D3cWkA0afvBGgtP) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI), [AWAY](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij) | [I Kill Everything](https://open.spotify.com/album/4Vit7uug9JxFeTKtrO3bWd) | 3:36 | 2022-10-05 | 2023-06-23 |
+| [i luv ur smile](https://open.spotify.com/track/4rX8Np5NElrnKeCd4KDNbD) | [Harrisun](https://open.spotify.com/artist/7Fs3Yj5hp3rvtj9JSXYiSa), [Teddy Roxpin](https://open.spotify.com/artist/0MZ2kdIMm8GrHOzPm1QK1A) | [i luv ur smile](https://open.spotify.com/album/19ADS40GUeLlNCa7Rbk2gP) | 4:07 | 2023-08-11 |  |
 | [I See You \(with Marc E\. Bassy\)](https://open.spotify.com/track/2Z8PrOwTgFVP6kJNtPTkMq) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [I See You \(with Marc E\. Bassy\)](https://open.spotify.com/album/0R5neGxstfsw1hZpjFSHcm) | 2:53 | 2022-03-09 | 2022-03-31 |
 | [I Will](https://open.spotify.com/track/43z2fGPJgfnhOI8w6vofIa) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [I Will / Beloved](https://open.spotify.com/album/6fMuOTyOG2V1gOA9qFo7d8) | 5:08 | 2022-08-12 | 2023-01-30 |
 | [i'll be there](https://open.spotify.com/track/2oRO0TDoMyhowADpRKqexD) | [wilo wilde](https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc) | [i'll be there](https://open.spotify.com/album/591MuZEfnrMQfVtIv270WE) | 2:37 | 2022-12-12 |  |

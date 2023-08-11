@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07DtzR.md) - [plain]
 
 > This is EGOIST\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,285 likes - 49 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,305 likes - 49 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [当事者](https://open.spotify.com/track/69TMjHuBaLNRtMPopKWbdC) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [当事者](https://open.spotify.com/album/4BdgxEZaVzqaJYwYwJeoJn) | 4:01 |
-| 2 | [名前のない怪物](https://open.spotify.com/track/7ebceNRVeFRFpd4qLENYpO) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [名前のない怪物](https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG) | 5:17 |
+| 1 | [名前のない怪物](https://open.spotify.com/track/7ebceNRVeFRFpd4qLENYpO) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [名前のない怪物](https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG) | 5:17 |
+| 2 | [当事者](https://open.spotify.com/track/69TMjHuBaLNRtMPopKWbdC) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [当事者](https://open.spotify.com/album/4BdgxEZaVzqaJYwYwJeoJn) | 4:01 |
 | 3 | [咲かせや咲かせ](https://open.spotify.com/track/6Qn2DEvR2t1iNyLSmghWxr) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [咲かせや咲かせ](https://open.spotify.com/album/7nYDf2MRbrQA6aiyrzPgx7) | 3:24 |
 | 4 | [Gold \- TV Size](https://open.spotify.com/track/3lTlibl9njbYWxB4ta4gE4) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Gold](https://open.spotify.com/album/2eBuJfQEdp3hhFG2ej0sL0) | 1:29 |
 | 5 | [BANG!!!](https://open.spotify.com/track/4o1s691Qn6lUmFh1Bl28NG) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [BANG!!!](https://open.spotify.com/album/7JruDbtqHdtkxzIXBf6gjO) | 3:16 |
@@ -48,14 +48,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07DtzR.md) - [plain]
 | 38 | [キミソラキセキ](https://open.spotify.com/track/1nlcUnsBQP4HB07IYt0Hxn) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [The Everlasting Guilty Crown](https://open.spotify.com/album/4pYCfwpYg7uD3mibYScCb5) | 5:08 |
 | 39 | [カナデナル](https://open.spotify.com/track/6JgfEzVw7KCWzLeE5rRfqC) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [名前のない怪物](https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG) | 4:17 |
 | 40 | [All Alone With You \(TV Edit\) \-Instrumental\-](https://open.spotify.com/track/1NevfY3IplHIbDdiC5lqr4) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [All Alone With You](https://open.spotify.com/album/6jX8qb7jeuhudH40tWG4B7) | 1:31 |
-| 41 | [リローデッド \-Instrumental\-](https://open.spotify.com/track/61j4VXpUIhV2dLUECFAEkO) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [リローデッド](https://open.spotify.com/album/7ISfH1G7GDz5VPAi200l2B) | 5:07 |
-| 42 | [永遠 \-Instrumental\-](https://open.spotify.com/track/0Sv4oWlbeLpEy0aU11gOkx) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [英雄 運命の詩](https://open.spotify.com/album/1FaJ8Zbd4jIC3SK7Hnye9r) | 4:16 |
+| 41 | [永遠 \-Instrumental\-](https://open.spotify.com/track/0Sv4oWlbeLpEy0aU11gOkx) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [英雄 運命の詩](https://open.spotify.com/album/1FaJ8Zbd4jIC3SK7Hnye9r) | 4:16 |
+| 42 | [リローデッド \-Instrumental\-](https://open.spotify.com/track/61j4VXpUIhV2dLUECFAEkO) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [リローデッド](https://open.spotify.com/album/7ISfH1G7GDz5VPAi200l2B) | 5:07 |
 | 43 | [prelude](https://open.spotify.com/track/0TEyUJfLDQs2f3KHsxh4Ue) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [名前のない怪物](https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG) | 0:36 |
 | 44 | [All Alone With You \-Instrumental\-](https://open.spotify.com/track/7elhr7ip89XjzWJS3XiwKk) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [All Alone With You](https://open.spotify.com/album/6jX8qb7jeuhudH40tWG4B7) | 5:50 |
 | 45 | [Fallen \-Instrumental\-](https://open.spotify.com/track/03byyh97Boqpvg7QF6Kwk2) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Fallen](https://open.spotify.com/album/6YHmti57sy3833VRHXR5bI) | 4:30 |
-| 46 | [The Everlasting Guilty Crown BOOM BOOM SATELLITES remix \-The Last Moment Of The Dawn\-](https://open.spotify.com/track/7HkFBmpnbzUPMz3vanDPjO) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [The Everlasting Guilty Crown](https://open.spotify.com/album/2tXcG38XstJAsjlcoDmnxC) | 7:55 |
+| 46 | [Departures 〜あなたにおくるアイの歌〜\(TV Edit\)\-Instrumental\-](https://open.spotify.com/track/4TWjUF3wARx5I0gBMCZIJl) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Departures \- Anata Ni Okuru Ai No Uta](https://open.spotify.com/album/5WlYfrfJKDX3JbZDfQbJgy) | 1:35 |
 | 47 | [名前のない怪物 \-Instrumetal\-](https://open.spotify.com/track/1pNSSNluazasQujT6XiCip) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [名前のない怪物](https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG) | 5:17 |
-| 48 | [Departures 〜あなたにおくるアイの歌〜\(TV Edit\)\-Instrumental\-](https://open.spotify.com/track/4TWjUF3wARx5I0gBMCZIJl) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Departures \- Anata Ni Okuru Ai No Uta](https://open.spotify.com/album/5WlYfrfJKDX3JbZDfQbJgy) | 1:35 |
+| 48 | [The Everlasting Guilty Crown BOOM BOOM SATELLITES remix \-The Last Moment Of The Dawn\-](https://open.spotify.com/track/7HkFBmpnbzUPMz3vanDPjO) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [The Everlasting Guilty Crown](https://open.spotify.com/album/2tXcG38XstJAsjlcoDmnxC) | 7:55 |
 | 49 | [名前のない怪物 \(TV Edit 92s ver\) \-Instrumetal\-](https://open.spotify.com/track/01hMjltcNqB9NweZlSxWvE) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [名前のない怪物](https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG) | 1:40 |
 
-Snapshot ID: `MjgxOTMwNjcsMDAwMDAwMDAyNGY5NjdjOGFjZGYyODA5NmM4NTAzODdhZDYxNDViNw==`
+Snapshot ID: `MjgxOTQ1NjMsMDAwMDAwMDA3YmJkMGY1YzQzZTQxMTZiNmU2NzExOGVlZDM1N2NlYQ==`

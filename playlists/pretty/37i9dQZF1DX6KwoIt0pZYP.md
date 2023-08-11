@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 
 > soft, chewy & good for the soul\. uwu
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,367 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,552 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,10 +69,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 59 | [W.H.U.T](https://open.spotify.com/track/4dtmj7X21gunWoQf98hW5L) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [W.H.U.T \(Wanna Hold U Tight\)](https://open.spotify.com/album/33hKzdCUtE6qkQJrJaDuck) | 2:54 |
 | 60 | [High School in Jakarta](https://open.spotify.com/track/5rbuv6zso7QSaKt265H3M3) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [High School in Jakarta](https://open.spotify.com/album/34zREEtZQOmQbqFU4cIQuT) | 3:39 |
 | 61 | [Call Me](https://open.spotify.com/track/67OZSzWvhMgLzUwYOpt3eY) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Call Me](https://open.spotify.com/album/7kVBQXeu6cfieD0rCWZZCB) | 2:52 |
-| 62 | [Crazier](https://open.spotify.com/track/0PQ84nbR1Owkr7RtGBmZI7) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Crazier](https://open.spotify.com/album/1RKdiat44rgOshOsNdgSXf) | 3:53 |
-| 63 | [Best Lover](https://open.spotify.com/track/0iWFz0Q5Qha9bx325ocFWq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Head In The Clouds Forever](https://open.spotify.com/album/0LxjjZ20pPOakBSYwrmbjv) | 2:32 |
-| 64 | [MAKING MY WAY](https://open.spotify.com/track/6HGOxrNik4iPurqStawTFQ) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [MAKING MY WAY](https://open.spotify.com/album/371NWHWKJxyUYwOywWpTal) | 4:18 |
-| 65 | [Sour](https://open.spotify.com/track/3Jd4JERZ7EP1bdeWRh0rsD) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [HEAL](https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW) | 3:20 |
+| 62 | [Best Lover](https://open.spotify.com/track/0iWFz0Q5Qha9bx325ocFWq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Head In The Clouds Forever](https://open.spotify.com/album/0LxjjZ20pPOakBSYwrmbjv) | 2:32 |
+| 63 | [Crazier](https://open.spotify.com/track/0PQ84nbR1Owkr7RtGBmZI7) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Crazier](https://open.spotify.com/album/1RKdiat44rgOshOsNdgSXf) | 3:53 |
+| 64 | [Sour](https://open.spotify.com/track/3Jd4JERZ7EP1bdeWRh0rsD) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [HEAL](https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW) | 3:20 |
+| 65 | [MAKING MY WAY](https://open.spotify.com/track/6HGOxrNik4iPurqStawTFQ) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [MAKING MY WAY](https://open.spotify.com/album/371NWHWKJxyUYwOywWpTal) | 4:18 |
 | 66 | [Green Tea & Honey](https://open.spotify.com/track/25kxJg4ykcvM1wphY0yIwt) | [Dane Amar](https://open.spotify.com/artist/5S68VYXiXt6oq30pKqQAuV), [Jereena Montemayor](https://open.spotify.com/artist/45iYm4bGYfT8nY4RxNBhlr) | [East Daygo Popstar](https://open.spotify.com/album/6rDWteiCSfMDHms9Rbx0Wi) | 3:42 |
 | 67 | [Toast](https://open.spotify.com/track/0rdkMTuORAVbsxIdiRCu8s) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Toast](https://open.spotify.com/album/6fWQVnWx02ri1fW8vtRaqb) | 2:34 |
 | 68 | [kiss me thru the phone](https://open.spotify.com/track/4KvxaOvVMSNlTO3ZowMm9E) | [CLUB BOYBND](https://open.spotify.com/artist/4xTnRFiv1AYPYLAA2qKuuN) | [kiss me thru the phone](https://open.spotify.com/album/75tK3dOtmchsSaqxVsEq5P) | 1:57 |
@@ -81,14 +81,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 71 | [The Ones We Once Loved](https://open.spotify.com/track/6YjKd9oPXKqjLUVPo4Y0oi) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [The Ones We Once Loved](https://open.spotify.com/album/0276LtRwBrOo2uoRlTOiPX) | 4:33 |
 | 72 | [no more you and i](https://open.spotify.com/track/7H6r6d4vum3mzN47bKG0sN) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [no more you and i](https://open.spotify.com/album/5KIKGZwMCqvxlj29yJ8rSK) | 3:20 |
 | 73 | [THANK YOU 4 LOVIN’ ME](https://open.spotify.com/track/557XVqKgnYAxvvyczr2zDg) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [LOVERs PLAYBOOK](https://open.spotify.com/album/78UznjghWeYXMeN201KLtC) | 4:29 |
-| 74 | [童話](https://open.spotify.com/track/6NCylXeJcHOI908PjZDFcg) | [Michael Wong](https://open.spotify.com/artist/26SQFo2qNNGOxh2PUAsTeO) | [十光年精選輯](https://open.spotify.com/album/36Z2YriYoWjRLZOiklzgSm) | 4:06 |
-| 75 | [confidence in me](https://open.spotify.com/track/5c1tswRpjj7Fyv9xb5a8RJ) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [confidence in me](https://open.spotify.com/album/0UZuzKM4ofQQoQOJdZbjdv) | 2:42 |
+| 74 | [confidence in me](https://open.spotify.com/track/5c1tswRpjj7Fyv9xb5a8RJ) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [confidence in me](https://open.spotify.com/album/0UZuzKM4ofQQoQOJdZbjdv) | 2:42 |
+| 75 | [童話](https://open.spotify.com/track/6NCylXeJcHOI908PjZDFcg) | [Michael Wong](https://open.spotify.com/artist/26SQFo2qNNGOxh2PUAsTeO) | [十光年精選輯](https://open.spotify.com/album/36Z2YriYoWjRLZOiklzgSm) | 4:06 |
 | 76 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 |
-| 77 | [Yesterday](https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:11 |
-| 78 | [Shortcut To Heaven](https://open.spotify.com/track/0zL5fdl4CvAAYUG3dJVMqS) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [Shortcut To Heaven](https://open.spotify.com/album/1LzCyAXs0MWStAaFkFc4QJ) | 3:04 |
+| 77 | [Shortcut To Heaven](https://open.spotify.com/track/0zL5fdl4CvAAYUG3dJVMqS) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [Shortcut To Heaven](https://open.spotify.com/album/1LzCyAXs0MWStAaFkFc4QJ) | 3:04 |
+| 78 | [Yesterday](https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:11 |
 | 79 | [Keeping Tabs](https://open.spotify.com/track/2zz4plJxtgMIsQg5SMl2Bg) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 2:57 |
-| 80 | [Everlasting Dance](https://open.spotify.com/track/7w4iy6gupo2mDSPlnvidGv) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [Everlasting Dance](https://open.spotify.com/album/4lR6iy0jlBIctr2Pwg2Fe1) | 3:23 |
-| 81 | [feelings are fatal](https://open.spotify.com/track/6GGdkwYk4NXuiIcQD16AZg) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom](https://open.spotify.com/album/6awIkxDLnbvhD1Wxrvwvb5) | 2:04 |
+| 80 | [feelings are fatal](https://open.spotify.com/track/6GGdkwYk4NXuiIcQD16AZg) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom](https://open.spotify.com/album/6awIkxDLnbvhD1Wxrvwvb5) | 2:04 |
+| 81 | [Everlasting Dance](https://open.spotify.com/track/7w4iy6gupo2mDSPlnvidGv) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [Everlasting Dance](https://open.spotify.com/album/4lR6iy0jlBIctr2Pwg2Fe1) | 3:23 |
 | 82 | [the alternative](https://open.spotify.com/track/4ylj6KTRlC25nhizGTlFPA) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [to love in the 21st century](https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch) | 3:03 |
 | 83 | [P.S\. I LOVE YOU \(feat\. Yuna\)](https://open.spotify.com/track/2tQztJmzQenj4b3VC3mGAb) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [P.S\. I LOVE YOU](https://open.spotify.com/album/5dZlFvMLz5W3utI0LDRndp) | 4:01 |
 | 84 | [Why Don't You Stay \(WorldTour Ver.\)](https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Why Don't You Stay \(WorldTour Ver.\)](https://open.spotify.com/album/66zUgJ1HeZL7C6ric4SYp0) | 4:16 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 91 | [L7 Blues](https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [L7 Blues](https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg) | 2:21 |
 | 92 | [Dancing with my phone](https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Dancing with my phone](https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH) | 3:23 |
 | 93 | [24](https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [24](https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ) | 2:13 |
-| 94 | [Stuck On You](https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When We Were Younger](https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w) | 2:39 |
-| 95 | [Called it Love](https://open.spotify.com/track/7DGEGsOUG0lbPUlymrH4uJ) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [Called it Love](https://open.spotify.com/album/45EoNsjV157i7KNBUkD69a) | 3:06 |
-| 96 | [Beautiful Day](https://open.spotify.com/track/2gTLLRw4CBl709U3dRICEh) | [Coldiac](https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA) | [Beautiful Day](https://open.spotify.com/album/03ZB5kFwcHIijh2urFzcOV) | 2:55 |
-| 97 | [your love](https://open.spotify.com/track/1BrB7PB1sOwaVZsrLaWInN) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [your love](https://open.spotify.com/album/0TX38oFZa6CT7XjyW9Jgqk) | 2:35 |
+| 94 | [your love](https://open.spotify.com/track/1BrB7PB1sOwaVZsrLaWInN) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [your love](https://open.spotify.com/album/0TX38oFZa6CT7XjyW9Jgqk) | 2:35 |
+| 95 | [Stuck On You](https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When We Were Younger](https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w) | 2:39 |
+| 96 | [Called it Love](https://open.spotify.com/track/7DGEGsOUG0lbPUlymrH4uJ) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [Called it Love](https://open.spotify.com/album/45EoNsjV157i7KNBUkD69a) | 3:06 |
+| 97 | [Beautiful Day](https://open.spotify.com/track/2gTLLRw4CBl709U3dRICEh) | [Coldiac](https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA) | [Beautiful Day](https://open.spotify.com/album/03ZB5kFwcHIijh2urFzcOV) | 2:55 |
 | 98 | [Fantasy](https://open.spotify.com/track/2OqnARPTauGuGFQN1CnEro) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Summer Is Like a Dream](https://open.spotify.com/album/7idmlJAWeoa2hk8pU0CIxg) | 2:50 |
 | 99 | [You](https://open.spotify.com/track/52INmBPUsLUQ6to3WnGWUm) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [You](https://open.spotify.com/album/2jjveyg1Fb0Pf6wfnTOGg4) | 3:14 |
 | 100 | [someone will love you better \- Zack Tabudlo Version](https://open.spotify.com/track/5vYv4cboyu9XJvk2CQPuyh) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW), [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [someone will love you better \(Zack Tabudlo Version\)](https://open.spotify.com/album/2A8Iv2GjSKkotZyH4CHZpE) | 2:48 |
 
-Snapshot ID: `MCxjZDc2MTEyZTEwMTg1MWU4ZjZiZTMzMjMzOGYyYWNlZmEyNTk2MTFi`
+Snapshot ID: `MCwyNzMwNzNhZWU5Y2M4ODk4NmE3MTdkMzM4ZDNiOGU5ZmMzODc3NTcz`

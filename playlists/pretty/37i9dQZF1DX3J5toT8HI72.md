@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 
 > Grandes músicas pra você curtir com seu amorzinho \(ou pensando nele\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 783,908 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 784,044 likes - 60 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 57 | [Feliz e Ponto](https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Júpiter](https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj) | 2:36 |
 | 58 | [Só Sei Dançar Com Você](https://open.spotify.com/track/4IiviKTCCIJSYsWzxCpqsD) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb), [Zé Pi](https://open.spotify.com/artist/1ZLHH9MsBSa70q6KcGzWNM) | [Efêmera](https://open.spotify.com/album/1SYkXi1CqOnutbLombhkrs) | 3:41 |
 | 59 | [Dançando](https://open.spotify.com/track/0QDXiLDkxOPlqwAsCCSggx) | [Agridoce](https://open.spotify.com/artist/4SyWhCnXrV0FDnGw1ISMJI) | [Agridoce](https://open.spotify.com/album/5OLjJ3js2XpdaDGBAk5X5x) | 5:49 |
-| 60 | [Zero](https://open.spotify.com/track/7Jl757vT5eNqemc6PtY2dA) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n) | [Cru](https://open.spotify.com/album/7wYN6lMpcVx2maHSGc2yQb) | 6:04 |
+| 60 | [Medo Bobo](https://open.spotify.com/track/0d3nLIxfrwZu7sHQnOhWJa) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Medo Bobo](https://open.spotify.com/album/7iwR0wOFLOMRDZZNWT4Hrr) | 3:18 |
 
-Snapshot ID: `MCw0MWVmN2U4OGQ4MGYxOGIwZWQ1OGQyMGUwMTkzNTkwMmQ3ODI2MTUz`
+Snapshot ID: `MCw2MjAzMTRmODgzYzI5MTFlYzYxZWY0MzM4MWM5YWYyMzlmZDE1Zjc1`

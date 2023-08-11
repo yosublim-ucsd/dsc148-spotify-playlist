@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvHZA1zLcjW.md) - [plain]
 
 > Chilled classical tunes to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,815 likes - 108 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,978 likes - 108 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvHZA1zLcjW.md) - [plain]
 | 107 | [Melodies of the Upper Worlds \(Arr\. M\. Ayrapetyan for Piano\): XIII\. To Proclaim in the Morning About Your Mercy](https://open.spotify.com/track/7qfUR1g5efZUh7Vf3fY8fh) | [Baal HaSulam](https://open.spotify.com/artist/34xHYsUFQlep5vsB3iWc3r), [Mikael Ayrapetyan](https://open.spotify.com/artist/6MbLMjlPQHSO9u4gKzys4w) | [HaSulam: Melodies of the Upper Worlds \(Arr\. M\. Ayrapetyan for Piano\)](https://open.spotify.com/album/6nybFTSCWQaoxsttSOtfWA) | 2:57 |
 | 108 | [Mercure, Scene 1: La nuit](https://open.spotify.com/track/5TKvSoHEXaCyk2GKM6pC3J) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Orchestre Symphonique et Lyrique de Nancy](https://open.spotify.com/artist/0g4p5Yus79xwJKf9co2RCR), [Jerome Kaltenbach](https://open.spotify.com/artist/3jK1IVWV4t4FTXjCiobeE2) | [Satie: Parade, Gymnopédies, Mercure & Relâche](https://open.spotify.com/album/3IFCqrc4GgSrN50MqNlIpw) | 1:13 |
 
-Snapshot ID: `MCw2M2MwOTg2NDQ1ZGYwM2Q4NDk5YjAwN2E5OWY2Y2M4MmE1YjZlY2Jm`
+Snapshot ID: `MCw1MDMzMTEwNzVmOTYyZjAzMWZjNjJjZGMwNzFkMjU1ZjQ5OWZlZjM3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: 1tbsp\. Artwork by Rewina Beshue\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,184 likes - 101 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,270 likes - 101 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 100 | [Variation](https://open.spotify.com/track/3IROMs4R8cMjdzUmxL5oPi) | [Asida Aya](https://open.spotify.com/artist/3lusHS0CkZEZ8fg7LtdVWo) | [Variation EP](https://open.spotify.com/album/7jNXo2etC3SFnhuwqAhXVE) | 5:58 |
 | 101 | [Come Back To Earth](https://open.spotify.com/track/7H0J2Leg2omZxZFwqkdAML) | [Cosmilk](https://open.spotify.com/artist/2AGrE0gZoxBlRmtwvzLqUP) | [Motion Of Time](https://open.spotify.com/album/1Tk2ZXT28f569UXIPmVG6d) | 5:32 |
 
-Snapshot ID: `MCwyMTI3ZDViZTkxNGZlZjRjMjI3OTU0OTkyMDUyNDk2MzAyNTA4NTM1`
+Snapshot ID: `MCwyNTQzOGI0Njg0MDBkNjRiOGUwM2M4ZGZiNmE3MzRlYWZmZWZmMjMz`

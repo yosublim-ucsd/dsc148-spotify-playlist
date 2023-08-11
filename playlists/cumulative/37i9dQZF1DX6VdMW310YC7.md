@@ -2,9 +2,9 @@
 
 ### [Chill Tracks](https://open.spotify.com/playlist/37i9dQZF1DX6VdMW310YC7)
 
-> Música <a href="spotify:genre:edm\_dance">dance</a> suave.
+> Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,504 songs - 4 day 7 hr 36 min
+1,505 songs - 4 day 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -677,7 +677,8 @@
 | [Interior \- Edit](https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Interior](https://open.spotify.com/album/4xg4jgWhwTgULqHiIdDbML) | 3:48 | 2021-12-10 | 2022-12-29 |
 | [Into \- Mixed](https://open.spotify.com/track/1Z64JbXJY6Ky1RTECjpdF0) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [Colorscapes Volume One](https://open.spotify.com/album/0n2QULhpm9u9GoTSSJja7i) | 1:48 | 2020-03-16 | 2020-07-03 |
 | [Into the Blue \(feat\. Pearl Andersson\)](https://open.spotify.com/track/5LjUA2CYBNR0Rehpv6XryW) | [Jewelz & Sparks](https://open.spotify.com/artist/50kceDjknh0CjwOko7kx7V), [Sarazar](https://open.spotify.com/artist/7fXsYMwApwATorXlTt95LD), [Pearl Andersson](https://open.spotify.com/artist/4EoSEUWlmLpYGHGNBoThiM) | [Into The Blue \(feat\. Pearl Andersson\)](https://open.spotify.com/album/1E5INJCgL6hInOlqqoucWh) | 2:47 | 2020-05-22 | 2020-07-03 |
-| [Into The Sun \- Chill Mix](https://open.spotify.com/track/4bXeqbONCSECKqU3XpA5eT) | [Latroit](https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK), [Pretty Garter](https://open.spotify.com/artist/0ikHknT4cbqziewzUdqn3y), [Charlz](https://open.spotify.com/artist/6HlbdrXWMFHgFdbIDX9Znv) | [Into The Sun \(Chill Mix\)](https://open.spotify.com/album/7ix2yVIJHAdLNqIbTBeKil) | 2:44 | 2023-08-04 |  |
+| [Into The Night](https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [Into The Night](https://open.spotify.com/album/4uncxf7qT7yP8ar3O0HPHr) | 7:03 | 2023-08-04 |  |
+| [Into The Sun \- Chill Mix](https://open.spotify.com/track/4bXeqbONCSECKqU3XpA5eT) | [Latroit](https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK), [Pretty Garter](https://open.spotify.com/artist/0ikHknT4cbqziewzUdqn3y), [Charlz](https://open.spotify.com/artist/6HlbdrXWMFHgFdbIDX9Znv) | [Into The Sun \(Chill Mix\)](https://open.spotify.com/album/7ix2yVIJHAdLNqIbTBeKil) | 2:44 | 2023-08-04 | 2023-08-11 |
 | [Intro](https://open.spotify.com/track/4bjeltvdBsWvyGDsZ0QwvH) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Brainsugar](https://open.spotify.com/album/2kywoxchFPj8Xa5odjG4GV) | 2:21 | 2020-05-18 | 2021-03-06 |
 | [Invisible](https://open.spotify.com/track/3XWz7JB2j55qgzeoU8fUkh) | [Serra 9](https://open.spotify.com/artist/6DxnNS3uxLFe4JquJzNgmc), [Deviu](https://open.spotify.com/artist/7IGIJ4SYJmJVQNuYLy1XyH), [Phoebe Tsen](https://open.spotify.com/artist/06Bshz3mErx5BEZxwd4gPE) | [Invisible / Run Around](https://open.spotify.com/album/6NelCU5oYRijFvrAZrF0AO) | 3:54 | 2022-12-28 | 2023-01-06 |
 | [Invitation \(feat\. Yade Lauren\)](https://open.spotify.com/track/5t5e19EoXJGGt3l6XNnRgx) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [Invitation \(feat\. Yade Lauren\)](https://open.spotify.com/album/6Omn0WS6Cp0XFFeEtCoATT) | 2:32 | 2020-05-18 | 2020-07-03 |

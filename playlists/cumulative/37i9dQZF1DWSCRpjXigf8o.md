@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-353 songs - 21 hr 26 min
+355 songs - 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,11 +60,13 @@
 | [Bside](https://open.spotify.com/track/3t6xEF2uLTz86xQFl0Zbwv) | [生活は忘れて](https://open.spotify.com/artist/59qyNIy8mzA79EEZWMUHve) | [Bside](https://open.spotify.com/album/7Mv2WPzoGjjuqkoWkwDlqc) | 2:34 | 2023-07-11 |  |
 | [Burn Down Babylon](https://open.spotify.com/track/5D4JFXhtwLGVKjj25xba9u) | [Jared Mattson](https://open.spotify.com/artist/1NjJTKQVaLKMTIia96FKaV) | [Burn Down Babylon](https://open.spotify.com/album/2gRXgBIqXnuKaecxRv1z33) | 4:29 | 2023-03-07 | 2023-04-03 |
 | [Burn Down Babylon](https://open.spotify.com/track/6ZvpzgvhPocKMWLB4cNGgs) | [Jared Mattson](https://open.spotify.com/artist/1NjJTKQVaLKMTIia96FKaV) | [Peanut](https://open.spotify.com/album/0M1L4UtFZreB5vKQfQ2WXe) | 4:29 | 2023-03-30 | 2023-04-21 |
+| [butterfly tattoo](https://open.spotify.com/track/3LOglsTDAOClfvfdRy11B9) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0), [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [butterfly tattoo](https://open.spotify.com/album/2bHfsqSlcyQ4j07z5IimKQ) | 2:42 | 2023-08-10 |  |
 | [Can I Be Him](https://open.spotify.com/track/0VhgEqMTNZwYL1ARDLLNCX) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 4:06 | 2022-12-15 |  |
 | [Cardboard Box \- Acoustic](https://open.spotify.com/track/3k7E83vyhWu7UUl9FxPNRn) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box \(Acoustic\)](https://open.spotify.com/album/1DWnard9ZSt1HfKIHJxQRp) | 2:53 | 2023-02-24 | 2023-03-01 |
 | [Carry Me Away](https://open.spotify.com/track/4Szq4dulKN9bOvLRW6uMdZ) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 2:39 | 2022-11-08 | 2023-06-03 |
 | [Carry On](https://open.spotify.com/track/4ZFhVVawR0xMJ5dJFNxFRl) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Day Breaks](https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ) | 2:48 | 2023-03-07 | 2023-05-05 |
 | [Cast Iron Skillet](https://open.spotify.com/track/2VmvnRlD3SaKz5YxabzlZe) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Cast Iron Skillet](https://open.spotify.com/album/0SWyzfjH7D2mXqSr4nBfrQ) | 3:24 | 2023-04-25 | 2023-05-19 |
+| [Caught Up On You](https://open.spotify.com/track/3QjAG3LVB0P5x251vwinVm) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Caught Up On You](https://open.spotify.com/album/6ICcS5WGbZr33DESzK9Xiq) | 3:26 | 2023-08-10 |  |
 | [ceilings \- Spotify Singles](https://open.spotify.com/track/3SQxzzu41bjlCGGDCb83JY) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Spotify Singles](https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1) | 2:44 | 2023-04-04 | 2023-06-09 |
 | [Centre of The Universe](https://open.spotify.com/track/2GUhQOTvUulHaiIXUChVVu) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Corner Of The Sky](https://open.spotify.com/album/6uVYHwWQqyR0Y57oyQ7wSH) | 3:10 | 2023-01-19 | 2023-04-07 |
 | [Change](https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:55 | 2023-02-28 | 2023-07-05 |
@@ -97,7 +99,7 @@
 | [Englishman In New York \- The Ben Liebrand Mix / Edit](https://open.spotify.com/track/1U8XRvf5z5wbnVFQHd14ph) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Ben Liebrand](https://open.spotify.com/artist/00bFgWuCaaFrjC9xylIcMf) | [...Nothing Like The Sun \(Expanded Edition\)](https://open.spotify.com/album/4NulPUAJ3mgNc7A0yohd2z) | 4:31 | 2022-10-20 | 2023-05-13 |
 | [Everglow \- Edit](https://open.spotify.com/track/6aG68QSwv0hgNTq90I2GOE) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everglow](https://open.spotify.com/album/6LRAUvjNMdUieHc8RcpHQU) | 3:47 | 2023-03-07 | 2023-07-07 |
 | [Fairy Falls](https://open.spotify.com/track/402dP9S7AHi88JV7JWjuNF) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [The Summer Isles](https://open.spotify.com/album/05HEBowDsH1MMkERUsn6Tl) | 3:59 | 2023-03-23 | 2023-04-21 |
-| [Falling Like The Stars](https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Falling Like The Stars](https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU) | 3:32 | 2022-10-20 |  |
+| [Falling Like The Stars](https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Falling Like The Stars](https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU) | 3:32 | 2022-10-20 | 2023-08-11 |
 | [Fashion](https://open.spotify.com/track/4qDHWmO7CiHNtX0Y5gk6O9) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd), [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [Fashion](https://open.spotify.com/album/5k6RHg5QRy9E4erIcJgZiC) | 2:15 | 2023-03-07 | 2023-04-21 |
 | [Fast Car](https://open.spotify.com/track/1SN1vSPsr4V4tIUTR3s8YW) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:32 | 2022-12-15 | 2023-02-08 |
 | [Fast Car](https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 4:56 | 2022-12-15 |  |
@@ -159,7 +161,7 @@
 | [I'm Not In Love \- Edit](https://open.spotify.com/track/6AZ4O5q9B4nMQVghTfTBe3) | [Monique Klemann](https://open.spotify.com/artist/4GJnr4GfSEBcsjMiyE67Uf) | [I'm Not In Love \(Edit\)](https://open.spotify.com/album/3CgRVSjpSnD9g08WQCLytz) | 3:25 | 2022-12-06 | 2023-02-22 |
 | [I'm So Happy \(with BENEE\)](https://open.spotify.com/track/16Fxe5DvEXRxQwcorFyaIO) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [I'm So Happy](https://open.spotify.com/album/2n9fao5PGUvIayJehrdHf7) | 2:53 | 2022-10-20 | 2023-03-22 |
 | [If I Was A Painter](https://open.spotify.com/track/6HNRHvqwjiQc0deescr4x6) | [Lisa O'Neill](https://open.spotify.com/artist/3fZ2IQpHixtBtUtDo7MWpV) | [All Of This Is Chance](https://open.spotify.com/album/0efxzMu8bCNeWP2MGltdRE) | 4:07 | 2023-02-09 | 2023-02-17 |
-| [ILYSB](https://open.spotify.com/track/2btKtacOXuMtC9WjcNRvAA) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [LANY](https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK) | 3:31 | 2023-03-07 |  |
+| [ILYSB](https://open.spotify.com/track/2btKtacOXuMtC9WjcNRvAA) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [LANY](https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK) | 3:31 | 2023-03-07 | 2023-08-11 |
 | [Impossible Isle](https://open.spotify.com/track/1tM82FSU8iBUzkbsmoonOc) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Infinity Sunset](https://open.spotify.com/album/44TG59bpLSTuANLGSnhToH) | 3:58 | 2022-11-08 | 2022-11-13 |
 | [Impossible Isle](https://open.spotify.com/track/6Vehur5lQnlJrEV6lAO0AA) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Impossible Isle](https://open.spotify.com/album/02USyfjHAF5ISwxoM1uCgZ) | 3:58 | 2022-11-08 | 2022-11-16 |
 | [It might be right](https://open.spotify.com/track/63VjD0uUhIEAiYRvJwKoAT) | [Looisbos](https://open.spotify.com/artist/4vjWfRqGyeAvJ9LZQPRECH) | [It might be right](https://open.spotify.com/album/5pv3ynvQu5MSo80a2k8Cgl) | 3:05 | 2022-10-20 | 2023-04-21 |

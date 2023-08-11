@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Die varste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq?si=Z1m7gk8jQWuLa1Uov_3KNQ\">VAN WEST</a> ",
+  "description": "Die varste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/0vnlEBfwofHzCHw2sI7VmP?si=cBA7hOhMR9SyDsqhGQHDrQQ\">Wilma Van Heerden</a> ",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -378,6 +378,24 @@
       "duration_ms": 227360,
       "name": "As en Stof",
       "url": "https://open.spotify.com/track/0Ae2cPO8wv6FQneimwNj7v"
+    },
+    {
+      "album": {
+        "name": "As Hy Weer Kom",
+        "url": "https://open.spotify.com/album/7lkDfSy0MUwIp6N8JQCZQF"
+      },
+      "artists": [
+        {
+          "name": "Bernice West",
+          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "As Hy Weer Kom",
+      "url": "https://open.spotify.com/track/5XRiNFuNKfDBUlAIUqmNSm"
     },
     {
       "album": {
@@ -2148,7 +2166,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 258385,
       "name": "Ek Speel Met Vuur Vir Jou",
       "url": "https://open.spotify.com/track/5pBNWt5cGfaoN5t661EDTJ"
@@ -2803,6 +2821,24 @@
     },
     {
       "album": {
+        "name": "Hier",
+        "url": "https://open.spotify.com/album/4kkdagS5B8Ovx6QvOQnHP0"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/2J1JhQzNtZ3RURghA5aF65"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255846,
+      "name": "Hier",
+      "url": "https://open.spotify.com/track/29ljVoGeYTwLcytT8K3aHN"
+    },
+    {
+      "album": {
         "name": "Hier Gaat Ons Alweer",
         "url": "https://open.spotify.com/album/2mpRZxyifeulCZI1lmBBT3"
       },
@@ -3240,6 +3276,24 @@
       "duration_ms": 188833,
       "name": "IN MY DROME",
       "url": "https://open.spotify.com/track/6dCfA2DBPCNRsdSmlTWWRF"
+    },
+    {
+      "album": {
+        "name": "Almal Gly",
+        "url": "https://open.spotify.com/album/4VpAvLR65DT7sUdlS3KgiX"
+      },
+      "artists": [
+        {
+          "name": "Die Piesangskille",
+          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221067,
+      "name": "Inge 2",
+      "url": "https://open.spotify.com/track/3zSm2FYUjpc9egsTA0bJ16"
     },
     {
       "album": {
@@ -3730,7 +3784,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 209284,
       "name": "Klein Botteltjie Groot Gif",
       "url": "https://open.spotify.com/track/5GXXuXipaXZpZxdfieXzSg"
@@ -4544,7 +4598,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 206732,
       "name": "Ligte Af",
       "url": "https://open.spotify.com/track/2ZEYOx3O4BhTOrSZE36k6a"
@@ -4624,6 +4678,24 @@
       "duration_ms": 201269,
       "name": "Maak Wakker",
       "url": "https://open.spotify.com/track/3bemRRClVvTnfpOxIQx88w"
+    },
+    {
+      "album": {
+        "name": "Maklike Wiskunde",
+        "url": "https://open.spotify.com/album/5p9fzbfamUcur56ggADvpM"
+      },
+      "artists": [
+        {
+          "name": "Wilma Van Heerden",
+          "url": "https://open.spotify.com/artist/0vnlEBfwofHzCHw2sI7VmP"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205491,
+      "name": "Maklike Wiskunde",
+      "url": "https://open.spotify.com/track/1TfZmY5zUBADXr4HqvICWQ"
     },
     {
       "album": {
@@ -5627,6 +5699,28 @@
     },
     {
       "album": {
+        "name": "Ons Is Die Vuur",
+        "url": "https://open.spotify.com/album/3YBiwDnBgMk7d31Y815Ili"
+      },
+      "artists": [
+        {
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        },
+        {
+          "name": "Loufi",
+          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178730,
+      "name": "Ons Is Die Vuur",
+      "url": "https://open.spotify.com/track/39qWtrJIMKpKVbAIrbXViw"
+    },
+    {
+      "album": {
         "name": "Ons Trein het vertrek",
         "url": "https://open.spotify.com/album/77d9GpJr99fj5RNnu5mCyf"
       },
@@ -5916,7 +6010,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 169889,
       "name": "Pilanesberg",
       "url": "https://open.spotify.com/track/2XncqXp57eG02KhKMvkW21"
@@ -6422,6 +6516,24 @@
       "duration_ms": 185268,
       "name": "Selfbeheer",
       "url": "https://open.spotify.com/track/0Iv5MLuR8yVpiAXE9BCrKX"
+    },
+    {
+      "album": {
+        "name": "Sewe Somers",
+        "url": "https://open.spotify.com/album/3PPqEBW0kSycIikxqJjrdY"
+      },
+      "artists": [
+        {
+          "name": "RAAF",
+          "url": "https://open.spotify.com/artist/66vg0qEPZEfpw4hZcrzsGi"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213950,
+      "name": "Sewe Somers",
+      "url": "https://open.spotify.com/track/4DNz7CvdwzE1Xnl4HeqOaY"
     },
     {
       "album": {
@@ -6990,7 +7102,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 188442,
       "name": "Stellenpotch",
       "url": "https://open.spotify.com/track/3cCrymy2s0f2cafWtY3O86"
@@ -7210,7 +7322,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 204067,
       "name": "S\u00eara S\u00ea Ja!",
       "url": "https://open.spotify.com/track/2FxVzofHY8UuSUoSC6SS6x"
@@ -7648,6 +7760,24 @@
       "duration_ms": 207991,
       "name": "Vanaand",
       "url": "https://open.spotify.com/track/265KkVKacgXwcrLQuLj9ON"
+    },
+    {
+      "album": {
+        "name": "Net Liefde",
+        "url": "https://open.spotify.com/album/0jGYdco9OrPMuQWRAsS2vp"
+      },
+      "artists": [
+        {
+          "name": "Tino",
+          "url": "https://open.spotify.com/artist/2WPBTmVoNyQTylZiz2zu36"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193759,
+      "name": "Vas En Los",
+      "url": "https://open.spotify.com/track/6fAGOIsKpc7yFpGMwgSRTP"
     },
     {
       "album": {
@@ -8150,7 +8280,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 207818,
       "name": "Waar Is My Maniere?",
       "url": "https://open.spotify.com/track/69BKmIJTufzcPZmnqHTLw7"

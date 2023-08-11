@@ -2,27 +2,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: PROXIE
+> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: Fourth Nattawat
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,665 likes - 65 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,731 likes - 65 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [รักแรก \(First Love\) \- เพลงประกอบภาพยนตร์ รักแรกโคตรลืมยาก My Precious](https://open.spotify.com/track/5Zlwu2g4rzTNfyu28L1bWv) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [เพลงประกอบภาพยนตร์ รักแรกโคตรลืมยาก My Precious](https://open.spotify.com/album/0ekYRFwm00v69rJfTS0W3s) | 4:26 |
 | 2 | [DEJAYOU](https://open.spotify.com/track/1bgLH9NEAFkwnMwDmD8ScN) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [DEJAYOU](https://open.spotify.com/album/6DYhEl80WKxsFyl9sTQMzi) | 3:27 |
-| 3 | [STOP!](https://open.spotify.com/track/6M2KvQJwWr8U7N9OfObbFP) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [Data Storage](https://open.spotify.com/album/2mQYy1FYHUEuQSrJPO6BDI) | 3:51 |
-| 4 | [ปิดทองหลังใจ](https://open.spotify.com/track/2Zt8K9ax9jiyUd0cDFCefJ) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ปิดทองหลังใจ](https://open.spotify.com/album/4COwnk7FKBbscPxGfLRbXy) | 3:11 |
-| 5 | [หมอนอิง \(Anything\)](https://open.spotify.com/track/6qViN8HVfSTzTxcC83ITQn) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [หมอนอิง \(Anything\)](https://open.spotify.com/album/6yh6HALGG7Mib5l0CKBQKL) | 3:38 |
-| 6 | [UMM UMM](https://open.spotify.com/track/2DZDnHMcGd71AuKP4b8OM2) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [UMM UMM](https://open.spotify.com/album/1arBxJSSZSdEPZKIYKAH9O) | 3:07 |
-| 7 | [ใครเพื่อนแก](https://open.spotify.com/track/47WfK6QKlLwIOxJaonJ3bA) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [เศร้าศาสตร์](https://open.spotify.com/album/1C45xLNvMc8HqJD5jHEP4q) | 4:08 |
-| 8 | [Calling you](https://open.spotify.com/track/1KhFybufpQCSAf8FmUsMt2) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [Calling you](https://open.spotify.com/album/4A694nZvddyi49tWXPDikN) | 2:01 |
-| 9 | [Mr\. Everything](https://open.spotify.com/track/4CHnBhfsGuReet1IMOrueC) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Mr\. Everything](https://open.spotify.com/album/51RzDgbBhPdH4MqFCFHJ30) | 3:21 |
-| 10 | [ชน \(Crush\)](https://open.spotify.com/track/1DTRZvmzt6JcspTCeIBJeC) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [Data Storage](https://open.spotify.com/album/2mQYy1FYHUEuQSrJPO6BDI) | 2:45 |
-| 11 | [น่ารักน้อยลงหน่อย \(Cuteless\)](https://open.spotify.com/track/7f1L9GyOgbt3ZguWN7Eog0) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [น่ารักน้อยลงหน่อย \(Cuteless\)](https://open.spotify.com/album/1iDsrhpGyZfAtoDXXgxhxE) | 3:45 |
-| 12 | [จังหวะตกหลุมรัก \- Magic Moment](https://open.spotify.com/track/7KmY6wBpheP60rFEJPJBqN) | [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc) | [จังหวะตกหลุมรัก \(Magic Moment\)](https://open.spotify.com/album/3HQlEa7YeAL1idA9iFHEYx) | 3:08 |
-| 13 | [เป็นไปไม่ได้ \(FORLORN\)](https://open.spotify.com/track/2Z3ltBGdjCtdD9C4Lh1jDW) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [เป็นไปไม่ได้ \(FORLORN\)](https://open.spotify.com/album/3mJk19a7FV8M1SiAG43AAR) | 4:31 |
-| 14 | [รักแท้ \- True Love \(เพลงจากละคร คุณชาย\)](https://open.spotify.com/track/5m9iZ0wLgpbSBwVW62AZvf) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [รักแท้ \- True Love \(เพลงจากละคร คุณชาย\)](https://open.spotify.com/album/6MOTJiGfu8jW9yjSVBcwm3) | 3:35 |
-| 15 | [คนไม่คุย \(Silent Mode\)](https://open.spotify.com/track/4Z64nGulQN49i9D03NcF8a) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [คนไม่คุย \(Silent Mode\)](https://open.spotify.com/album/1K7cv40prwoUAbxCXX1CTh) | 3:50 |
+| 3 | [อยู่เฉย ๆ ก็น่ารัก \(Please Be Mine\)](https://open.spotify.com/track/6lrMGW46YadQYHzD6mzz4E) | [Fourth Nattawat](https://open.spotify.com/artist/1O48F7zasjWhc5GodGPJEO) | [อยู่เฉย ๆ ก็น่ารัก \(Please Be Mine\)](https://open.spotify.com/album/4IJ0gjuhqJoGQlwJiEMHH9) | 2:59 |
+| 4 | [STOP!](https://open.spotify.com/track/6M2KvQJwWr8U7N9OfObbFP) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [Data Storage](https://open.spotify.com/album/2mQYy1FYHUEuQSrJPO6BDI) | 3:51 |
+| 5 | [ปิดทองหลังใจ](https://open.spotify.com/track/2Zt8K9ax9jiyUd0cDFCefJ) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ปิดทองหลังใจ](https://open.spotify.com/album/4COwnk7FKBbscPxGfLRbXy) | 3:11 |
+| 6 | [หมอนอิง \(Anything\)](https://open.spotify.com/track/6qViN8HVfSTzTxcC83ITQn) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [หมอนอิง \(Anything\)](https://open.spotify.com/album/6yh6HALGG7Mib5l0CKBQKL) | 3:38 |
+| 7 | [คนฟังน่ารักจัง \(Song Of The You\)](https://open.spotify.com/track/6gwTcWiHGGR6l1FGMQY8Sd) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK), [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1), [Proo Thunwa](https://open.spotify.com/artist/1P15t4uFsvUZCgkTvQqsaj), [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc), [LIT Artists](https://open.spotify.com/artist/5tP7vyON1ndNJMYFFaOiju) | [คนฟังน่ารักจัง \(Song Of The You\)](https://open.spotify.com/album/3wr631ScZnkq3jhc46CZmW) | 3:39 |
+| 8 | [ใครเพื่อนแก](https://open.spotify.com/track/47WfK6QKlLwIOxJaonJ3bA) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [เศร้าศาสตร์](https://open.spotify.com/album/1C45xLNvMc8HqJD5jHEP4q) | 4:08 |
+| 9 | [UMM UMM](https://open.spotify.com/track/2DZDnHMcGd71AuKP4b8OM2) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [UMM UMM](https://open.spotify.com/album/1arBxJSSZSdEPZKIYKAH9O) | 3:07 |
+| 10 | [Mr\. Everything](https://open.spotify.com/track/4CHnBhfsGuReet1IMOrueC) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Mr\. Everything](https://open.spotify.com/album/51RzDgbBhPdH4MqFCFHJ30) | 3:21 |
+| 11 | [คนไม่คุย \(Silent Mode\)](https://open.spotify.com/track/4Z64nGulQN49i9D03NcF8a) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [คนไม่คุย \(Silent Mode\)](https://open.spotify.com/album/1K7cv40prwoUAbxCXX1CTh) | 3:50 |
+| 12 | [Calling you](https://open.spotify.com/track/1KhFybufpQCSAf8FmUsMt2) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [Calling you](https://open.spotify.com/album/4A694nZvddyi49tWXPDikN) | 2:01 |
+| 13 | [น่ารักน้อยลงหน่อย \(Cuteless\)](https://open.spotify.com/track/7f1L9GyOgbt3ZguWN7Eog0) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [น่ารักน้อยลงหน่อย \(Cuteless\)](https://open.spotify.com/album/1iDsrhpGyZfAtoDXXgxhxE) | 3:45 |
+| 14 | [จังหวะตกหลุมรัก \- Magic Moment](https://open.spotify.com/track/7KmY6wBpheP60rFEJPJBqN) | [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc) | [จังหวะตกหลุมรัก \(Magic Moment\)](https://open.spotify.com/album/3HQlEa7YeAL1idA9iFHEYx) | 3:08 |
+| 15 | [รักแท้ \- True Love \(เพลงจากละคร คุณชาย\)](https://open.spotify.com/track/5m9iZ0wLgpbSBwVW62AZvf) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [รักแท้ \- True Love \(เพลงจากละคร คุณชาย\)](https://open.spotify.com/album/6MOTJiGfu8jW9yjSVBcwm3) | 3:35 |
 | 16 | [FIRE BOY](https://open.spotify.com/track/14XYtNNyCUGtG9quMgazIS) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [FIRE BOY](https://open.spotify.com/album/1bQ6GFjwrIxJngL72GQ5ux) | 2:49 |
 | 17 | [ไม่ได้ก็ไม่เอา](https://open.spotify.com/track/1UxVMaHEm6UJxGOg4ixSZO) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK), [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB) | [BLOOM](https://open.spotify.com/album/4edPsEhpxL35cl5meC5vvJ) | 2:48 |
 | 18 | [หยดน้ำตา \(Tears\)](https://open.spotify.com/track/0mItaHP6FLRrRO6xrWwJc1) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [หยดน้ำตา \(Tears\)](https://open.spotify.com/album/7FroKiN2tQtn7BtmZGhFsm) | 3:24 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 64 | [ชอบคุณนะ \- Unsend](https://open.spotify.com/track/0nKRTd3kTf0xyU9q608e8S) | [Proo Thunwa](https://open.spotify.com/artist/1P15t4uFsvUZCgkTvQqsaj) | [ชอบคุณนะ \(Unsend\)](https://open.spotify.com/album/7GewzqYmhU1NAX5W380oTn) | 2:48 |
 | 65 | [ไม่พิเศษ](https://open.spotify.com/track/0b60FpB5Z8zm829xnET7t3) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [ไม่พิเศษ](https://open.spotify.com/album/5fT12K1hCBKxCxZhqxJAET) | 3:28 |
 
-Snapshot ID: `MCxjNTczMmM5ZmVkOTQ4ODM4NzliMmI0OWZkN2FhMDkwNDhiYzNlN2M3`
+Snapshot ID: `MCxlYmE2OTU5ODM2ZTA3MTA3YjEzOWViMTQ2NWM2NjM0MjI1Y2M1YmNi`

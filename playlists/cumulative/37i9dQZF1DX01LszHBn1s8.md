@@ -4,7 +4,7 @@
 
 > nick and charlie 💛
 
-1,170 songs - 2 day 13 hr 18 min
+1,171 songs - 2 day 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -832,6 +832,7 @@
 | [Popular \(with Playboi Carti & Madonna\) \- The Idol Vol\. 1 \(Music from the HBO Original Series\)](https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \[The Idol Vol\. 1 \(Music from the HBO Original Series\)\]](https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm) | 3:35 | 2023-06-08 | 2023-06-30 |
 | [Possibility \- Slowed Down](https://open.spotify.com/track/03JlIW3RyZdEJBJgfJBWiF) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Possibility](https://open.spotify.com/album/38pk7xhWyZNvTODl9fdSVP) | 6:23 | 2022-12-01 |  |
 | [Power](https://open.spotify.com/track/0lUSd7TCG8srh6HpIAEIWL) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 4:07 | 2022-07-04 |  |
+| [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 | 2023-08-10 |  |
 | [Praise God](https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 3:46 | 2022-05-19 | 2022-10-29 |
 | [Pray](https://open.spotify.com/track/2gbRKKSyW7e7vAkyvrJkte) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Pray](https://open.spotify.com/album/0bIr7aFjLBuAkMbsUsWY3I) | 2:26 | 2022-05-19 | 2023-03-04 |
 | [Pray](https://open.spotify.com/track/7MOCaEUbfGyq1K96umNVwJ) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 2:26 | 2023-02-23 |  |

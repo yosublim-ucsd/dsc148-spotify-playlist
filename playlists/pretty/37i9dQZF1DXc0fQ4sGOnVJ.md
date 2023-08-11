@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 
 > Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,822 likes - 74 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,841 likes - 74 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 34 | [Country Made](https://open.spotify.com/track/0kvkHlDvoALmZU8pzkXTur) | [Lenny Cooper](https://open.spotify.com/artist/4GhUchfx0YFPsDaXZRJp8v), [Young Gunner](https://open.spotify.com/artist/5U4zQH57FFSIBvYigOk7G1), [J Rosevelt](https://open.spotify.com/artist/49o8zl9XztPTeGDc5D0xaj) | [Still The King](https://open.spotify.com/album/203wsuneFV8jM0aYimR0TR) | 3:29 |
 | 35 | [Throwed](https://open.spotify.com/track/2b3ys7QrXvrivhd9BbV3ae) | [Louyah](https://open.spotify.com/artist/4FH6xGueB6CRmiEdtPnu41) | [Throwed](https://open.spotify.com/album/3i9GWnZvyu5d8QZoh3ZEE3) | 3:14 |
 | 36 | [If That Ain't Country](https://open.spotify.com/track/2bWaQyC68Bt7FSXCACY2aN) | [Jessta James](https://open.spotify.com/artist/35Gl3ugDwfqKvwOrlHcQqK) | [Time to Get Right](https://open.spotify.com/album/5DULWTKKsU4R7aXFOfo3OB) | 4:15 |
-| 37 | [Back to Them Backroads](https://open.spotify.com/track/1VGwVRbEfLsVsKxrRK05Xo) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [We The People, Vol\. 1](https://open.spotify.com/album/1GDmEkvh5AFiIVhWPrSuR0) | 3:11 |
+| 37 | [White Trash](https://open.spotify.com/track/4PQywXtsoLDSJQJe8WpIqv) | [Cypress Spring](https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC) | [American White Trash](https://open.spotify.com/album/4qr6adlfQSmnuEksitsIYd) | 2:47 |
 | 38 | [Dirt Road \(Remix\) \(feat\. BRELAND\)](https://open.spotify.com/track/3xGnEIb8czDRlGZjbAITlL) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Dirt Road \(Remix\) \(feat\. BRELAND\)](https://open.spotify.com/album/6yU40tDImCqU2RrXGvh9Fo) | 2:35 |
 | 39 | [Rolex® On A Redneck](https://open.spotify.com/track/2jaNHcSRgPvtMXu5rboE7T) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Rolex® On A Redneck](https://open.spotify.com/album/5EAoOhSEXjwSmnddEIACbH) | 2:59 |
-| 40 | [White Trash](https://open.spotify.com/track/4PQywXtsoLDSJQJe8WpIqv) | [Cypress Spring](https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC) | [American White Trash](https://open.spotify.com/album/4qr6adlfQSmnuEksitsIYd) | 2:47 |
+| 40 | [Back to Them Backroads](https://open.spotify.com/track/1VGwVRbEfLsVsKxrRK05Xo) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [We The People, Vol\. 1](https://open.spotify.com/album/1GDmEkvh5AFiIVhWPrSuR0) | 3:11 |
 | 41 | [Tall Boy](https://open.spotify.com/track/74g98VNWX3HclMI3JfazVn) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Tall Boy](https://open.spotify.com/album/3xiSzk0ObgjDyMpr7SUY4w) | 2:20 |
 | 42 | [If She Ain't Country \- Remix](https://open.spotify.com/track/0eVdLQ7Mt1DQg9P1oMeSN0) | [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [If She Ain't Country \(Remix\)](https://open.spotify.com/album/5ZZBcZVe34bzjqVqnJX2hr) | 2:56 |
 | 43 | [Slow Rollin'](https://open.spotify.com/track/52FOkM2lmc1fXkzj9BULfO) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [COUNTRY FUZZ](https://open.spotify.com/album/3X1vz2Rj2Ld3KibvjaNVjV) | 2:44 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 73 | [Watch This](https://open.spotify.com/track/0q8DxBCyj91Wrh1zlmcx5H) | [Moccasin Creek](https://open.spotify.com/artist/0NbK6zi0udNSXMzL7Ekq5T), [Tommy Chayne](https://open.spotify.com/artist/3EuDaf0CO8MR6eH3ax8EHO), [Hard Target](https://open.spotify.com/artist/2YqvF0mZUjjtRyMP4vyGUf) | [Lethal](https://open.spotify.com/album/0GbkBN6oG4gtSx5JuFQ9Ci) | 3:51 |
 | 74 | [Stomp Them Boots](https://open.spotify.com/track/1x3kToYa48N2Zb0MOc7iiG) | [Young Gunner](https://open.spotify.com/artist/5U4zQH57FFSIBvYigOk7G1), [Twang and Round](https://open.spotify.com/artist/6K01VDVF9BORq58XTAR1aM) | [Stomp Them Boots](https://open.spotify.com/album/2k5eUp67yseXCF3pe4FjMJ) | 3:55 |
 
-Snapshot ID: `MCxjZTYzODFjZDc4ODJhMzlhOGFkYjNlMTBhOTBjMzVmNzIwY2ZiMDUy`
+Snapshot ID: `MCwwOTRkMzk2MTE3N2RkNzE3NWI4ZjIzNWEwNGE0YWRiYzA5NmNjYjQw`

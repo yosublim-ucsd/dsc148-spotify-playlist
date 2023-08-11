@@ -2508,7 +2508,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 262626,
       "name": "Flojos de pantal\u00f3n",
       "url": "https://open.spotify.com/track/5xEQItoulehU1apBfxqkM1"
@@ -2534,6 +2534,24 @@
       "duration_ms": 192693,
       "name": "Flores de esti\u00e9rcol",
       "url": "https://open.spotify.com/track/4C7NxBIpbsLUNZy0lWpGjw"
+    },
+    {
+      "album": {
+        "name": "Frontera",
+        "url": "https://open.spotify.com/album/7dzdulNT3TKEUmkpDZj8vk"
+      },
+      "artists": [
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/4pNlsYEjhnTIVPNZRlRx1h"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213987,
+      "name": "Frontera",
+      "url": "https://open.spotify.com/track/2RuBBTMHOb7qDVir1eDMek"
     },
     {
       "album": {
@@ -2788,7 +2806,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 269080,
       "name": "Infierno Al Rev\u00e9s",
       "url": "https://open.spotify.com/track/4yuPrLyPz9JpPmfRlkozmh"
@@ -5520,7 +5538,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 296400,
       "name": "Todo Tiene Su Fin",
       "url": "https://open.spotify.com/track/3a6PKtYVIowjsac9DAja3T"
@@ -5777,6 +5795,24 @@
     },
     {
       "album": {
+        "name": "Vallecas 1996",
+        "url": "https://open.spotify.com/album/6FUIhvAOaU8Bgycev7scOb"
+      },
+      "artists": [
+        {
+          "name": "Topo",
+          "url": "https://open.spotify.com/artist/6XC3SG7i2Eogjgm9uKPd8a"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360240,
+      "name": "Vallecas 1996",
+      "url": "https://open.spotify.com/track/100JxlaUb7HyA8C43GtxcU"
+    },
+    {
+      "album": {
         "name": "Veneno En La Piel",
         "url": "https://open.spotify.com/album/5494a8BNRIElBxQmoWpo8O"
       },
@@ -5792,6 +5828,24 @@
       "duration_ms": 222013,
       "name": "Veneno en la Piel",
       "url": "https://open.spotify.com/track/4oCGALJSQZxLnsnPPgShln"
+    },
+    {
+      "album": {
+        "name": "Viajero",
+        "url": "https://open.spotify.com/album/7Ah7pupexFSxNlk0CMBoTl"
+      },
+      "artists": [
+        {
+          "name": "Tocando Techo",
+          "url": "https://open.spotify.com/artist/4ZoykgIxJOeaS1uoADIHqo"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255313,
+      "name": "Viajero",
+      "url": "https://open.spotify.com/track/4EZG3Fp8K0YDcoCm6hpQW2"
     },
     {
       "album": {

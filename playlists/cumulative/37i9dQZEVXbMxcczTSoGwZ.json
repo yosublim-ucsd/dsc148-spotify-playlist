@@ -6404,7 +6404,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 191700,
       "name": "FE!N (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
@@ -23764,6 +23764,24 @@
       "duration_ms": 217320,
       "name": "SPACE MAN",
       "url": "https://open.spotify.com/track/3nhGk6VnrDHy67pXvMhdPa"
+    },
+    {
+      "album": {
+        "name": "Speed Drive (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117809,
+      "name": "Speed Drive (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2"
     },
     {
       "album": {

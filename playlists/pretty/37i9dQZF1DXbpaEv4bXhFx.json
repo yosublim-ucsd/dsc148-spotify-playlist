@@ -1,12 +1,12 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04.",
-  "num_followers": 10136,
+  "num_followers": 10182,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YThmNjIzY2E5NTQwYTcyZmFmZWZlZTQwYjZlYmExY2VlMmFlNDc1",
+  "snapshot_id": "MCw0OTllYTJmZWRlZjc4YmU1MTdkNDQ5NDU4Mzg1ZGY0YzNiZjEwMDYz",
   "tracks": [
     {
       "added_at": "2023-08-09 06:44:01",
@@ -531,38 +531,6 @@
     {
       "added_at": "2023-08-09 06:44:01",
       "album": {
-        "name": "Sun Shower (A Business Proposal OST Part.3)",
-        "url": "https://open.spotify.com/album/27s8y4T4C2XIP9y4Rv5AO2"
-      },
-      "artists": [
-        {
-          "name": "MOVNING",
-          "url": "https://open.spotify.com/artist/6tuZdsQHRegQDPlRdcMjbn"
-        }
-      ],
-      "duration_ms": 256959,
-      "name": "Sun Shower",
-      "url": "https://open.spotify.com/track/4dGJC7qU8dGOE00P5SgJWL"
-    },
-    {
-      "added_at": "2023-08-09 06:44:01",
-      "album": {
-        "name": "overdose",
-        "url": "https://open.spotify.com/album/7gWO40G0L1xaZ0wEmiLmr8"
-      },
-      "artists": [
-        {
-          "name": "CIKI",
-          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
-        }
-      ],
-      "duration_ms": 255808,
-      "name": "overdose",
-      "url": "https://open.spotify.com/track/3B4Rxj4UItYuHyppE8S0gU"
-    },
-    {
-      "added_at": "2023-08-09 06:44:01",
-      "album": {
         "name": "Epik High Is Here \u4e0b (Part 2)",
         "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
       },
@@ -583,6 +551,22 @@
     {
       "added_at": "2023-08-09 06:44:01",
       "album": {
+        "name": "overdose",
+        "url": "https://open.spotify.com/album/7gWO40G0L1xaZ0wEmiLmr8"
+      },
+      "artists": [
+        {
+          "name": "CIKI",
+          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
+        }
+      ],
+      "duration_ms": 255808,
+      "name": "overdose",
+      "url": "https://open.spotify.com/track/3B4Rxj4UItYuHyppE8S0gU"
+    },
+    {
+      "added_at": "2023-08-09 06:44:01",
+      "album": {
         "name": "Will spring come?",
         "url": "https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 198698,
       "name": "Will spring come?",
       "url": "https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ"
+    },
+    {
+      "added_at": "2023-08-09 06:44:01",
+      "album": {
+        "name": "Sun Shower (A Business Proposal OST Part.3)",
+        "url": "https://open.spotify.com/album/27s8y4T4C2XIP9y4Rv5AO2"
+      },
+      "artists": [
+        {
+          "name": "MOVNING",
+          "url": "https://open.spotify.com/artist/6tuZdsQHRegQDPlRdcMjbn"
+        }
+      ],
+      "duration_ms": 256959,
+      "name": "Sun Shower",
+      "url": "https://open.spotify.com/track/4dGJC7qU8dGOE00P5SgJWL"
     },
     {
       "added_at": "2023-08-09 06:44:01",
@@ -783,18 +783,18 @@
     {
       "added_at": "2023-08-09 06:44:01",
       "album": {
-        "name": "Hug me tight",
-        "url": "https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF"
+        "name": "Fall in Love Again",
+        "url": "https://open.spotify.com/album/7kzTCmJ9VqRDAsoLAwaFvd"
       },
       "artists": [
         {
-          "name": "Heo Hoy Kyung",
-          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
+          "name": "ALEPH",
+          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
         }
       ],
-      "duration_ms": 227756,
-      "name": "Hug me tight",
-      "url": "https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4"
+      "duration_ms": 218456,
+      "name": "Fall in Love Again",
+      "url": "https://open.spotify.com/track/623MRGJs27mi0ne71LEqGa"
     },
     {
       "added_at": "2023-08-09 06:44:01",
@@ -815,18 +815,18 @@
     {
       "added_at": "2023-08-09 06:44:01",
       "album": {
-        "name": "Fall in Love Again",
-        "url": "https://open.spotify.com/album/7kzTCmJ9VqRDAsoLAwaFvd"
+        "name": "Hug me tight",
+        "url": "https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF"
       },
       "artists": [
         {
-          "name": "ALEPH",
-          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
+          "name": "Heo Hoy Kyung",
+          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
         }
       ],
-      "duration_ms": 218456,
-      "name": "Fall in Love Again",
-      "url": "https://open.spotify.com/track/623MRGJs27mi0ne71LEqGa"
+      "duration_ms": 227756,
+      "name": "Hug me tight",
+      "url": "https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4"
     },
     {
       "added_at": "2023-08-09 06:44:01",

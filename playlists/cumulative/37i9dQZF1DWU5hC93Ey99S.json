@@ -887,6 +887,32 @@
     },
     {
       "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/3oVQAqfrzIg4S5pF74au4x"
+      },
+      "artists": [
+        {
+          "name": "RSCL",
+          "url": "https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3"
+        },
+        {
+          "name": "Repiet",
+          "url": "https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY"
+        },
+        {
+          "name": "Julia Kleijn",
+          "url": "https://open.spotify.com/artist/6iOYJDZYumYVmzxPbyfg5W"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/32fmwlkq7srmOAb5N0vdyj"
+    },
+    {
+      "album": {
         "name": "Electrifying (NO\u00cbP Remix)",
         "url": "https://open.spotify.com/album/6fIr1fb7PSwXyxeCqERso5"
       },
@@ -1603,6 +1629,28 @@
     },
     {
       "album": {
+        "name": "I Just Need (with Lyrah)",
+        "url": "https://open.spotify.com/album/5UhCTYiNNiL26OSebdWUck"
+      },
+      "artists": [
+        {
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        },
+        {
+          "name": "Lyrah",
+          "url": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146165,
+      "name": "I Just Need (with Lyrah)",
+      "url": "https://open.spotify.com/track/6JbeNVHHrvRGY9BjB8hmkR"
+    },
+    {
+      "album": {
         "name": "Rollercoaster",
         "url": "https://open.spotify.com/album/4ePx0TFE05UMh5YCAo8niw"
       },
@@ -1734,6 +1782,24 @@
       "duration_ms": 244673,
       "name": "Isolate - Jacana People Remix",
       "url": "https://open.spotify.com/track/4gaVbud6ZqzIgse5t5kzYw"
+    },
+    {
+      "album": {
+        "name": "it's bad",
+        "url": "https://open.spotify.com/album/4nK7HgYZcuUQMW4pYHXd4q"
+      },
+      "artists": [
+        {
+          "name": "henri",
+          "url": "https://open.spotify.com/artist/7nJ5r6Up446alyOTy7Umsf"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165625,
+      "name": "it's bad",
+      "url": "https://open.spotify.com/track/1iWvI2GvqgKmUC5vCFTX7e"
     },
     {
       "album": {
@@ -2989,6 +3055,28 @@
     },
     {
       "album": {
+        "name": "Same Wave (feat. Salena Mastroianni)",
+        "url": "https://open.spotify.com/album/74hfd8hsX9X95Unoyq1FLm"
+      },
+      "artists": [
+        {
+          "name": "Hogland",
+          "url": "https://open.spotify.com/artist/5s21IKPvmxRf9WxpO8H5UB"
+        },
+        {
+          "name": "Salena Mastroianni",
+          "url": "https://open.spotify.com/artist/0X9HZbVBzUgugjKVgrYk6W"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119229,
+      "name": "Same Wave (feat. Salena Mastroianni)",
+      "url": "https://open.spotify.com/track/0B6YQW5879dzOqOfJKbOWh"
+    },
+    {
+      "album": {
         "name": "Woods",
         "url": "https://open.spotify.com/album/2z3CV9qqCvIYvrM6pcrp1F"
       },
@@ -3495,6 +3583,28 @@
     },
     {
       "album": {
+        "name": "TAKE ME HIGHER (Babsy. Remix)",
+        "url": "https://open.spotify.com/album/2SXI55wSyzBWZXwAKGYIUU"
+      },
+      "artists": [
+        {
+          "name": "Angrybaby",
+          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
+        },
+        {
+          "name": "Babsy.",
+          "url": "https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "TAKE ME HIGHER - Babsy. Remix",
+      "url": "https://open.spotify.com/track/1xbAFtPzXpBMaJfFxqaGyL"
+    },
+    {
+      "album": {
         "name": "talk",
         "url": "https://open.spotify.com/album/6JtweGxznTHck5hZ4MIipF"
       },
@@ -3673,6 +3783,24 @@
     },
     {
       "album": {
+        "name": "This Moment",
+        "url": "https://open.spotify.com/album/0uQwnjpBl807th2SwP8P8F"
+      },
+      "artists": [
+        {
+          "name": "Dizaro",
+          "url": "https://open.spotify.com/artist/2atwG2TdLJ99UpJVxXi3E4"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126190,
+      "name": "This Moment",
+      "url": "https://open.spotify.com/track/0uIJFfYqzgyu5ayMTbP1Y8"
+    },
+    {
+      "album": {
         "name": "tidal wave",
         "url": "https://open.spotify.com/album/6zPPaj58GfZsIOGxeP3qUn"
       },
@@ -3801,6 +3929,24 @@
     },
     {
       "album": {
+        "name": "upside down",
+        "url": "https://open.spotify.com/album/04jPI01JZXu3LTLfJrgyNs"
+      },
+      "artists": [
+        {
+          "name": "it's ung",
+          "url": "https://open.spotify.com/artist/0YIL8hLwkduD4lwsUBRkwa"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264566,
+      "name": "upside down",
+      "url": "https://open.spotify.com/track/66SBGJljItLlEt7p8FFQH8"
+    },
+    {
+      "album": {
         "name": "DnH",
         "url": "https://open.spotify.com/album/4yHqeYqa87qDBBDb0xwDyb"
       },
@@ -3824,6 +3970,24 @@
       "duration_ms": 243555,
       "name": "Very Last Drop",
       "url": "https://open.spotify.com/track/6F9RXfCiIo9TK06dWtSaEQ"
+    },
+    {
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/0Ab0PjaCYh6ioeQBLD3Nkk"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206637,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/5lBKGuWoDoNXd0r4sICyK2"
     },
     {
       "album": {
@@ -4286,6 +4450,28 @@
       "duration_ms": 185054,
       "name": "\u00e9xtasis",
       "url": "https://open.spotify.com/track/79wvg55yhD3jSwA3vrRBUV"
+    },
+    {
+      "album": {
+        "name": "\u042f \u043f\u043e\u043c\u043d\u044e (Woo)",
+        "url": "https://open.spotify.com/album/5oeuRrEAUGgh9BkzEMHBgi"
+      },
+      "artists": [
+        {
+          "name": "FEDUK",
+          "url": "https://open.spotify.com/artist/3EsjO0y0DE1GC453Sgyr7Z"
+        },
+        {
+          "name": "Biicla",
+          "url": "https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "\u042f \u043f\u043e\u043c\u043d\u044e (Woo)",
+      "url": "https://open.spotify.com/track/7o6QMEWHa18PqCruNrKxPa"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWU5hC93Ey99S"

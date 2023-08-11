@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 
 > 50 canciones que llenan tu rutina de pura energía.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,096 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,143 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 | 17 | [I Just Died In Your Arms Tonight \(feat\. Andros\)](https://open.spotify.com/track/0bP88wC19xydrjB4vHe8Be) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Lunis](https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN), [Andros](https://open.spotify.com/artist/6xF1vJVs8eJ04wVjW8zEa7) | [I Just Died In Your Arms Tonight](https://open.spotify.com/album/1CTcktO7RfykLfA52TbuGP) | 2:42 |
 | 18 | [Como Es Posible Que a Mi Lado](https://open.spotify.com/track/4n3z3N2m6zfCJzrAc3ABPi) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Aynes](https://open.spotify.com/artist/0WByZEwRntV98feeVnccWG) | [Como Es Posible Que a Mi Lado](https://open.spotify.com/album/73Q842SM0mDLFtiuryhfRP) | 3:08 |
 | 19 | [Children](https://open.spotify.com/track/6KXxcGWj6KB5GlW1c2dhY5) | [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa), [Kohen](https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB) | [Children](https://open.spotify.com/album/2alDtRinlIXBcb5bf5DHmn) | 3:58 |
-| 20 | [Discoteka](https://open.spotify.com/track/5tCUZYk547DFd01YKdZ36x) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Discoteka](https://open.spotify.com/album/0xBL5r92lV5SZDU8FvrZ1u) | 2:49 |
-| 21 | [Sweet Munchies](https://open.spotify.com/track/6sxPpL5WehUjoxQ0o5hf6w) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1) | [Sweet Munchies](https://open.spotify.com/album/0e3nx8tl0cwLOzEJ6zQ72h) | 2:09 |
+| 20 | [Sweet Munchies](https://open.spotify.com/track/6sxPpL5WehUjoxQ0o5hf6w) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1) | [Sweet Munchies](https://open.spotify.com/album/0e3nx8tl0cwLOzEJ6zQ72h) | 2:09 |
+| 21 | [Discoteka](https://open.spotify.com/track/5tCUZYk547DFd01YKdZ36x) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Discoteka](https://open.spotify.com/album/0xBL5r92lV5SZDU8FvrZ1u) | 2:49 |
 | 22 | [Rapture](https://open.spotify.com/track/0CNxWAkG4ysu9Z3eCfknWK) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Daniel Blume](https://open.spotify.com/artist/7pbay7w0V7OdIr3jzSRkHj) | [Rapture](https://open.spotify.com/album/7Lot6c8rqaZdDeeAIL6KM5) | 2:46 |
 | 23 | [Wake Up With You](https://open.spotify.com/track/543VnS905CHArJ2oFm17p5) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Magnificence](https://open.spotify.com/artist/5zfDGV6C2Xwns1g773GF3N) | [Wake Up With You](https://open.spotify.com/album/0w3pORscruGFSgCQgw8N0E) | 3:03 |
 | 24 | [Las Chicas](https://open.spotify.com/track/7pgPk50uMallAw6rGYlqgp) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Las Chicas](https://open.spotify.com/album/6H7aIWUr3asorKwbRpih3m) | 2:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 | 49 | [Change](https://open.spotify.com/track/7uHh8SlhRmPwxmm2jwu4Ph) | [Lemarroy](https://open.spotify.com/artist/0MbIn3hLqEhgj784ocMT1W), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [Change](https://open.spotify.com/album/4qEQg7gOeQlsp61IjSTQ69) | 2:56 |
 | 50 | [Vampiro \(Pyura Remix\)](https://open.spotify.com/track/4XGyifnRty1FI3qQe8bhet) | [Lucas & The Woods](https://open.spotify.com/artist/4OIDWn0ASVx73rysnf6pqA), [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Vampiro \(Pyura Remix\)](https://open.spotify.com/album/2IcmfBYtzX45pZmlo8yV0q) | 3:40 |
 
-Snapshot ID: `MCw5NzlmYTNhOGE3NjhkMmNjYmM1ZjA4ZjljNTNkNWIwMzNiNzUzY2Y0`
+Snapshot ID: `MCxhZmFlN2NkNzA4MDBiZjlhZDdlMzczYzQ2MzUzYWY2ZDQ4ZWE1ZTBh`

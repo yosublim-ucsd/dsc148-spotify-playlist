@@ -4,7 +4,7 @@
 
 > This is Calibre 50\. The essential tracks, all in one playlist.
 
-50 songs - 2 hr 41 min
+51 songs - 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Las Cuántas Decepciones](https://open.spotify.com/track/3MchT9tQcPTzZWmd1MXgLS) | [Los De La Noria](https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [A Las Cuántas Decepciones](https://open.spotify.com/album/1dc6CGkmzkDo3D3gRtExMj) | 3:16 | 2023-08-08 |  |
 | [Amor Del Bueno](https://open.spotify.com/track/6CmFzaTvg7lRSAWwHmBDfj) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Desde El Rancho](https://open.spotify.com/album/3JGd3lmLv4Z7pQUZPu6EnH) | 3:13 | 2023-08-08 |  |
 | [Aunque Ahora Estés Con Él](https://open.spotify.com/track/49ItgqFP5shdUdK9ggonW0) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Aunque Ahora Estés Con Él](https://open.spotify.com/album/7qS6xf08vzZcHRgwnQsGRP) | 3:34 | 2023-08-08 |  |
+| [Barquillero](https://open.spotify.com/track/7EYCioIJy7PVVryIHjlGRr) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Barquillero](https://open.spotify.com/album/6FrtpkD2DmlpoFh5FAtniX) | 3:20 | 2023-08-10 |  |
 | [Chalito](https://open.spotify.com/track/6Lb8ikDcpKjF3yx2AnlwzG) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Simplemente Gracias](https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq) | 2:20 | 2023-08-08 |  |
 | [Contigo](https://open.spotify.com/track/5TphzFf2iv0l3VrFHN08kN) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Contigo](https://open.spotify.com/album/5t3hXKG2uyhYSlMaRViaEH) | 3:30 | 2023-08-08 |  |
 | [Corrido De Juanito](https://open.spotify.com/track/0ehx1p1HMn7NMKisZaO9oL) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Guerra De Poder](https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc) | 4:21 | 2023-08-08 |  |
@@ -56,7 +57,7 @@
 | [Voy A Ser Breve](https://open.spotify.com/track/1NrkTltXfryaM38xymc3tn) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 3:02 | 2023-08-08 |  |
 | [Y Yo Sin Ti](https://open.spotify.com/track/33mNMJ2UUE9uLPMNabxgGq) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Y Yo Sin Ti](https://open.spotify.com/album/3jCQKwXBTIMy13TfEAxKhl) | 3:18 | 2023-08-08 |  |
 | [¿Por Qué Cambiaste De Opinión?](https://open.spotify.com/track/1j8gLQNfFOI0vs8qcVTWwa) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Mitad Y Mitad](https://open.spotify.com/album/76KrINxApHUqS0GywH3g0R) | 4:01 | 2023-08-08 |  |
-| [¿Quién De Los Dos Será?](https://open.spotify.com/track/4bk3DB7VC88NDLw8Du4IJA) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [¿Quién De Los Dos Será?](https://open.spotify.com/album/61Pq9DBSvk4JJ8s9n72t0G) | 3:01 | 2023-08-08 |  |
+| [¿Quién De Los Dos Será?](https://open.spotify.com/track/4bk3DB7VC88NDLw8Du4IJA) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [¿Quién De Los Dos Será?](https://open.spotify.com/album/61Pq9DBSvk4JJ8s9n72t0G) | 3:01 | 2023-08-08 | 2023-08-11 |
 | [¿Quién Te Crees?](https://open.spotify.com/track/2LXOSAYiSrTfIf8smheLaz) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [¿Quién Te Crees?](https://open.spotify.com/album/2KSCqFRagwcAC4q7mPIxvw) | 3:05 | 2023-08-08 |  |
 
 \*This playlist was first scraped on 2023-08-09. Prior content cannot be recovered.

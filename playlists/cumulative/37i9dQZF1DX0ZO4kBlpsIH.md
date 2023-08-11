@@ -4,7 +4,7 @@
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-181 songs - 8 hr 47 min
+182 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Pour Chopin](https://open.spotify.com/track/6icE3aCpAje1b6BP03Qa7E) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Valse musette de Paris](https://open.spotify.com/album/6DhvEyNar7K1i3gVcS0rGH) | 3:19 | 2022-08-05 | 2022-11-13 |
 | [Pour Michele](https://open.spotify.com/track/74rD7WHLAShBWZaOoajaYZ) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Café Musette](https://open.spotify.com/album/3c2mBv9KMW32g86USHwYwM) | 3:19 | 2022-02-18 |  |
 | [Quai aux Fleurs](https://open.spotify.com/track/3YqdvXCFdN44kattwBSgqn) | [Vincent Carenzi](https://open.spotify.com/artist/34jld7FKHe7h6xc55lJJ0B), [Gilbert Sigrist](https://open.spotify.com/artist/3CKwrrnFs0fv7w7lg4ReIX), [Laurent Sigrist](https://open.spotify.com/artist/7BbLZ7BoH71qnKGhdIwOzX) | [Souvenirs](https://open.spotify.com/album/0bNxItRPphxD07gwBZUZXH) | 3:02 | 2023-03-07 |  |
+| [Quel Mercredi](https://open.spotify.com/track/3ZSWLX4S1mc5yQBAZet5NM) | [Quintet de Jazz Parisien](https://open.spotify.com/artist/5jjAtTkp5UsT9PQyGfFOwO) | [Quel Mercredi](https://open.spotify.com/album/2Zsbl9Pps24ZI475iyz2sC) | 2:38 | 2023-08-10 |  |
 | [Reine de musette](https://open.spotify.com/track/3bBHMiALWgT39xebBnpgJN) | [Baguette Quartette](https://open.spotify.com/artist/777tZTVQGgq94n1KBZf54r) | [Rendez Vous](https://open.spotify.com/album/5f3Gv6mWHhWBCDNoNbsizk) | 2:38 | 2023-03-07 |  |
 | [Reine de musette](https://open.spotify.com/track/2dr7w26T5aMdtgX3RGd7Ez) | [Marcel Azzola](https://open.spotify.com/artist/0c2ZORZQaJWxtkJq4850Wg) | [Et ça tournait \- Anthologie de la chanson musette](https://open.spotify.com/album/67hLFIMVNgg2mDLOXVHwqs) | 2:32 | 2022-02-18 | 2023-06-21 |
 | [Reine De Musette](https://open.spotify.com/track/1i41OjKkEKVL0VHHNMDJUD) | [Max Marino Et Son Accordéon](https://open.spotify.com/artist/1cnJh2kOWm2O6TGzJOOcTY) | [French Musette Accordion](https://open.spotify.com/album/0GZdyMvkWYIxVE9SrfbbhL) | 2:28 | 2022-02-18 |  |

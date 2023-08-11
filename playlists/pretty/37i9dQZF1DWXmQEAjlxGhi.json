@@ -1,12 +1,12 @@
 {
   "description": "Upbeat Latin songs to keep your heart rate up.",
-  "num_followers": 1382386,
+  "num_followers": 1382711,
   "original_name": "Latin Cardio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NmRkNDEwNjZkY2YyNDc2ODFmMDU4Yzg4ZjhjZGM2MDFiZDc2ODk0",
+  "snapshot_id": "MCxmNTY0YTgwMzAxMDE4MjU4MjMwMmFjNjJlNWY0YmNiODRlMzExZmUz",
   "tracks": [
     {
       "added_at": "2023-07-28 03:49:31",
@@ -303,26 +303,6 @@
     {
       "added_at": "2023-07-28 03:49:31",
       "album": {
-        "name": "La Jumpa",
-        "url": "https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 255693,
-      "name": "La Jumpa",
-      "url": "https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli"
-    },
-    {
-      "added_at": "2023-07-28 03:49:31",
-      "album": {
         "name": "Tiroteo (Remix)",
         "url": "https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 321555,
       "name": "Tiroteo - Remix",
       "url": "https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i"
+    },
+    {
+      "added_at": "2023-07-28 03:49:31",
+      "album": {
+        "name": "La Jumpa",
+        "url": "https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 255693,
+      "name": "La Jumpa",
+      "url": "https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli"
     },
     {
       "added_at": "2023-07-28 03:49:31",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-07-28 03:49:31",
       "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 109120,
-      "name": "BIZCOCHITO",
-      "url": "https://open.spotify.com/track/4kXxEhuatrvwrTQycA7s9B"
-    },
-    {
-      "added_at": "2023-07-28 03:49:31",
-      "album": {
         "name": "Junio",
         "url": "https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 168601,
       "name": "Junio",
       "url": "https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc"
+    },
+    {
+      "added_at": "2023-07-28 03:49:31",
+      "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 109120,
+      "name": "BIZCOCHITO",
+      "url": "https://open.spotify.com/track/4kXxEhuatrvwrTQycA7s9B"
     },
     {
       "added_at": "2023-07-28 03:49:31",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-07-28 03:49:31",
       "album": {
+        "name": "DI LETRA",
+        "url": "https://open.spotify.com/album/1NTAPW8MixdsXxAi4v9hBn"
+      },
+      "artists": [
+        {
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+        }
+      ],
+      "duration_ms": 197586,
+      "name": "Mi Cuarto",
+      "url": "https://open.spotify.com/track/6fmQjRuo7XvRFCK2qex5hQ"
+    },
+    {
+      "added_at": "2023-07-28 03:49:31",
+      "album": {
         "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
         "url": "https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 201526,
       "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
       "url": "https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b"
-    },
-    {
-      "added_at": "2023-07-28 03:49:31",
-      "album": {
-        "name": "DI LETRA",
-        "url": "https://open.spotify.com/album/1NTAPW8MixdsXxAi4v9hBn"
-      },
-      "artists": [
-        {
-          "name": "Jerry Di",
-          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
-        }
-      ],
-      "duration_ms": 197586,
-      "name": "Mi Cuarto",
-      "url": "https://open.spotify.com/track/6fmQjRuo7XvRFCK2qex5hQ"
     },
     {
       "added_at": "2023-07-28 03:49:31",
@@ -1247,34 +1247,6 @@
     {
       "added_at": "2023-07-28 03:49:31",
       "album": {
-        "name": "BABY OTAKU",
-        "url": "https://open.spotify.com/album/7HUH0lFoay2KzGEZqGp55G"
-      },
-      "artists": [
-        {
-          "name": "Pablito Pesadilla",
-          "url": "https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox"
-        },
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        },
-        {
-          "name": "Nickoog Clk",
-          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
-        },
-        {
-          "name": "Fran C",
-          "url": "https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8"
-        }
-      ],
-      "duration_ms": 176470,
-      "name": "BABY OTAKU",
-      "url": "https://open.spotify.com/track/0kTMK4gNFfLXaTb62w1UaJ"
-    },
-    {
-      "added_at": "2023-07-28 03:49:31",
-      "album": {
         "name": "Emmanuel",
         "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
       },
@@ -1303,6 +1275,34 @@
       "duration_ms": 301714,
       "name": "China",
       "url": "https://open.spotify.com/track/0KkIkfsLEJbrcIhYsCL7L5"
+    },
+    {
+      "added_at": "2023-07-28 03:49:31",
+      "album": {
+        "name": "BABY OTAKU",
+        "url": "https://open.spotify.com/album/7HUH0lFoay2KzGEZqGp55G"
+      },
+      "artists": [
+        {
+          "name": "Pablito Pesadilla",
+          "url": "https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox"
+        },
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        },
+        {
+          "name": "Fran C",
+          "url": "https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8"
+        }
+      ],
+      "duration_ms": 176470,
+      "name": "BABY OTAKU",
+      "url": "https://open.spotify.com/track/0kTMK4gNFfLXaTb62w1UaJ"
     },
     {
       "added_at": "2023-07-28 03:49:31",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2023-07-28 03:49:31",
       "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/3dGUvydBX9qhg2YBMsVope"
-      },
-      "artists": [
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        },
-        {
-          "name": "Flow La Movie",
-          "url": "https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f"
-        }
-      ],
-      "duration_ms": 182496,
-      "name": "AM",
-      "url": "https://open.spotify.com/track/2dNhNlpZAtV4lwAFW45LIv"
-    },
-    {
-      "added_at": "2023-07-28 03:49:31",
-      "album": {
         "name": "Int\u00e9ntalo (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4ldSAxBxxmdxlfoh81njb4"
       },
@@ -1583,6 +1563,26 @@
       "duration_ms": 193533,
       "name": "Inte\u0301ntalo (feat. Ame\u0301rica Sierra & El Bebeto)",
       "url": "https://open.spotify.com/track/61aPpbJMAD5BjWkiHeX9R6"
+    },
+    {
+      "added_at": "2023-07-28 03:49:31",
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/3dGUvydBX9qhg2YBMsVope"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Flow La Movie",
+          "url": "https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f"
+        }
+      ],
+      "duration_ms": 182496,
+      "name": "AM",
+      "url": "https://open.spotify.com/track/2dNhNlpZAtV4lwAFW45LIv"
     },
     {
       "added_at": "2023-07-28 03:49:31",

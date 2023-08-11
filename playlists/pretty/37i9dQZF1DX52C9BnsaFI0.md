@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52C9BnsaFI0.md) - [plain]
 
 > 70s rock to fuel your ride\. Cover: Aerosmith
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,874 likes - 70 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,071 likes - 70 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52C9BnsaFI0.md) - [plain]
 | 36 | [Refugee](https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Damn The Torpedoes \(Deluxe Edition\)](https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b) | 3:21 |
 | 37 | [I Want You to Want Me](https://open.spotify.com/track/1JkZg3eMQTmTn93E8Yd3UL) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [In Color](https://open.spotify.com/album/2sXJQdHykPYcRQ7xFhwzMR) | 3:11 |
 | 38 | [Black Betty](https://open.spotify.com/track/2ZOTtG7v1OrSNs6EINIGb4) | [Ram Jam](https://open.spotify.com/artist/6FITmSxIMsk6TfulFiCIIz) | [The Very Best Of Ram Jam](https://open.spotify.com/album/6s1bwzTzWK3u9I4YPjp3lr) | 3:57 |
-| 39 | [Takin' Care Of Business](https://open.spotify.com/track/0lzNXoZINVBLHWNIxKxWOo) | [Bachman\-Turner Overdrive](https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5) | [Bachman\-Turner Overdrive II](https://open.spotify.com/album/1p2tbwfEfN8kZNOi4F3bGH) | 4:49 |
-| 40 | [Feel like Makin' Love \- 2015 Remaster](https://open.spotify.com/track/3KPwt1LBpt1jVSHz8GXERo) | [Bad Company](https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84) | [Straight Shooter](https://open.spotify.com/album/1LgPUiosPMevbB4NHxcNiO) | 5:13 |
+| 39 | [Feel like Makin' Love \- 2015 Remaster](https://open.spotify.com/track/3KPwt1LBpt1jVSHz8GXERo) | [Bad Company](https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84) | [Straight Shooter](https://open.spotify.com/album/1LgPUiosPMevbB4NHxcNiO) | 5:13 |
+| 40 | [Takin' Care Of Business](https://open.spotify.com/track/0lzNXoZINVBLHWNIxKxWOo) | [Bachman\-Turner Overdrive](https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5) | [Bachman\-Turner Overdrive II](https://open.spotify.com/album/1p2tbwfEfN8kZNOi4F3bGH) | 4:49 |
 | 41 | [Come Sail Away](https://open.spotify.com/track/0PsbWiVtix5FoTZ1s00mEl) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [The Grand Illusion](https://open.spotify.com/album/6MFIBPVrZjHjP0pPkVF3IU) | 6:07 |
 | 42 | [Show Me The Way](https://open.spotify.com/track/6BD1X1PeV5UzYUdiVaD2yL) | [Peter Frampton](https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W) | [Frampton](https://open.spotify.com/album/0mRXKbepKXO0Il8H1uMaaX) | 4:03 |
 | 43 | [Blinded By The Light](https://open.spotify.com/track/7kNNylJ1kswWbHeRM6UDuE) | [Manfred Mann's Earth Band](https://open.spotify.com/artist/2utNxkLhreF1oIfO8kQT3q) | [The Roaring Silence](https://open.spotify.com/album/1qVP93dewrI7bukJAFPIvV) | 7:08 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52C9BnsaFI0.md) - [plain]
 | 69 | [Jet \- 2010 Remaster](https://open.spotify.com/track/4D40ZlFAWsvX7lua1Kablh) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run \(Standard\)](https://open.spotify.com/album/257oomaawruFknt5wYCPDh) | 4:08 |
 | 70 | [Double Vision](https://open.spotify.com/track/0fsj3HxzBHev6EJ7OLFE3r) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Double Vision \(Expanded\)](https://open.spotify.com/album/6lu6DYE0eHHp1gd3QGUYhu) | 3:44 |
 
-Snapshot ID: `MCxjY2ZjMTExYTZlMTIyZTkzN2Q5YzkzNWQ5YjBmYTkzMmEwYzYzNjk5`
+Snapshot ID: `MCw3ZmYwNTAzNzM1YmRhOGZmMTc1ODJhOTAzNzdhNmMxNWNhMWJiNDQw`

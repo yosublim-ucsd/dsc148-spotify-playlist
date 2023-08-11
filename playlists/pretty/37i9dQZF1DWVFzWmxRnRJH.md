@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFzWmxRnRJH.md) - [plain]
 
 > A fun library of country hits to pass on to the next generation!
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,411 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,540 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFzWmxRnRJH.md) - [plain]
 | 32 | [Love Story \(Taylor’s Version\)](https://open.spotify.com/track/3CeCwYWvdfXbZLXFhBrbnf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Love Story \(Taylor’s Version\)](https://open.spotify.com/album/4j2syEjl3h1To8KbRgvmJn) | 3:55 |
 | 33 | [Would You Go With Me](https://open.spotify.com/track/1KhrAWvLIjRlQIJtSTgvsi) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Your Man](https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO) | 3:48 |
 | 34 | [Jesus, Take the Wheel](https://open.spotify.com/track/3lec3CzDPAxsZokPph5w87) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:46 |
-| 35 | [The Devil Went Down to Georgia](https://open.spotify.com/track/383Xl5QTigwj3QiA3Qc6S7) | [The Charlie Daniels Band](https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca) | [A Decade Of Hits](https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc) | 3:34 |
-| 36 | [What Hurts The Most](https://open.spotify.com/track/4bVuIlGQBMWS7vIhcx8Ae4) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Me And My Gang](https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0) | 3:34 |
+| 35 | [What Hurts The Most](https://open.spotify.com/track/4bVuIlGQBMWS7vIhcx8Ae4) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Me And My Gang](https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0) | 3:34 |
+| 36 | [The Devil Went Down to Georgia](https://open.spotify.com/track/383Xl5QTigwj3QiA3Qc6S7) | [The Charlie Daniels Band](https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca) | [A Decade Of Hits](https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc) | 3:34 |
 | 37 | [Buy Me a Boat](https://open.spotify.com/track/2WKLUgklz0VDX5bKTZ3eYD) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Buy Me a Boat](https://open.spotify.com/album/7BYmCd8JAOHpIiHIDJwDW0) | 2:59 |
 | 38 | [Boondocks](https://open.spotify.com/track/3duP6mBVDsHM8ioN7o7dAK) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Road To Here](https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm) | 4:32 |
 | 39 | [Wide Open Spaces](https://open.spotify.com/track/6cjwec9ii5uLK7CDfPBYt1) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Wide Open Spaces](https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj) | 3:43 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFzWmxRnRJH.md) - [plain]
 | 46 | [Why Don't We Just Dance](https://open.spotify.com/track/2p07VcUwRZ5sru3mJ0JogS) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Haywire](https://open.spotify.com/album/4AwUix40p2isD6wvEBPpQ8) | 3:12 |
 | 47 | [Coat of Many Colors](https://open.spotify.com/track/1l2Xmg54EUr3TDzNIaCr1z) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Coat Of Many Colors](https://open.spotify.com/album/17CT6ru3CyDXAi6xVaSUzg) | 3:03 |
 | 48 | [What Part of No](https://open.spotify.com/track/00klSin5es2cwPgZf103Fz) | [Lorrie Morgan](https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt) | [Greatest Hits](https://open.spotify.com/album/0h4UTgpQYFLzUw0xCtJGNV) | 2:46 |
-| 49 | [Achy Breaky Heart](https://open.spotify.com/track/2EoIt9vdgFRNW03u5IvFsQ) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Some Gave All](https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV) | 3:23 |
-| 50 | [This Kiss](https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Faith](https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5) | 3:14 |
+| 49 | [This Kiss](https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Faith](https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5) | 3:14 |
+| 50 | [Achy Breaky Heart](https://open.spotify.com/track/2EoIt9vdgFRNW03u5IvFsQ) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Some Gave All](https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV) | 3:23 |
 | 51 | [Meet In the Middle](https://open.spotify.com/track/7lUE02KHkZM44BZgjCaWRO) | [Diamond Rio](https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6) | [Diamond Rio](https://open.spotify.com/album/5zpRuHrOSBkOrop2DJvBcr) | 3:18 |
 | 52 | [Strawberry Wine](https://open.spotify.com/track/5Pgwi0iizu96RHxJ4xL3SH) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [Did I Shave My Legs For This?](https://open.spotify.com/album/3rVrwVrTgiFmCBZCmYBryn) | 4:51 |
 | 53 | [Little Bitty](https://open.spotify.com/track/2IY559smG7SXYk229NA2Vl) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Everything I Love](https://open.spotify.com/album/4kZm2gtXOwFsXXQZZaYEhW) | 2:38 |
@@ -85,9 +85,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFzWmxRnRJH.md) - [plain]
 | 75 | [You're Gonna Miss This](https://open.spotify.com/track/7Efs0OIW6zgQyH7ehKZYpN) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [American Man: Greatest Hits Vol\. II](https://open.spotify.com/album/3Ayxk9tKhpAE9gffRUWfDi) | 3:44 |
 | 76 | [Don't It Make My Brown Eyes Blue](https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV) | [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [We Must Believe In Magic](https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8) | 2:37 |
 | 77 | [Independence Day](https://open.spotify.com/track/1nVoLxz8C0uGgMKfywy0vf) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [The Way That I Am](https://open.spotify.com/album/4E9bN3hTA7ZN4ECVfevF7d) | 3:24 |
-| 78 | [If I Could Make a Living](https://open.spotify.com/track/7njoWVpJbAiTkyT6rKwbze) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [If I Could Make a Living](https://open.spotify.com/album/3uO1R11G7IV6Y0FIKqWyTF) | 2:13 |
+| 78 | [King Of The Road](https://open.spotify.com/track/3XG7bMVcMWLIn2k9jLAaAt) | [Roger Miller](https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8) | [Golden Hits](https://open.spotify.com/album/0B4wezbhEPFRVb4feiNBeM) | 2:27 |
 | 79 | [Bye\-Bye](https://open.spotify.com/track/5FxgRnXBHMM0q4stwqrjjM) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [I'm Alright](https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL) | 3:20 |
-| 80 | [King Of The Road](https://open.spotify.com/track/3XG7bMVcMWLIn2k9jLAaAt) | [Roger Miller](https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8) | [Golden Hits](https://open.spotify.com/album/0B4wezbhEPFRVb4feiNBeM) | 2:27 |
+| 80 | [If I Could Make a Living](https://open.spotify.com/track/7njoWVpJbAiTkyT6rKwbze) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [If I Could Make a Living](https://open.spotify.com/album/3uO1R11G7IV6Y0FIKqWyTF) | 2:13 |
 | 81 | [International Harvester](https://open.spotify.com/track/0Ta3jOf8m9yCSWMVwd8Qlf) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [Little Bit Of Life](https://open.spotify.com/album/1xG8gT4MixyJTNlvvXbU4F) | 3:48 |
 | 82 | [Tulsa Time](https://open.spotify.com/track/0cThXovxrvU68JuzYUXhJT) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [Expressions](https://open.spotify.com/album/4cpW1bxbkuQuOmeFZoOd4W) | 3:15 |
 | 83 | [Love Without End, Amen](https://open.spotify.com/track/4pFNWAU8e8F32NQkMyLAZi) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Livin' It Up](https://open.spotify.com/album/56kF3zaRZS3BO1eNiyBLtO) | 3:07 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFzWmxRnRJH.md) - [plain]
 | 87 | [Diggin' Up Bones](https://open.spotify.com/track/6JdbV5DDltMVCyV0twmKwj) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Storms of Life](https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf) | 2:58 |
 | 88 | [A Little Bit Stronger](https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Stronger](https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO) | 5:01 |
 | 89 | [Watching Airplanes](https://open.spotify.com/track/63u5QGp9dKXAoYTVKUKBYn) | [Gary Allan](https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m) | [Living Hard](https://open.spotify.com/album/2iShcXr1PRM3VMF15iHwP8) | 4:02 |
-| 90 | [How Forever Feels](https://open.spotify.com/track/2HmMklpgK8vGCpJmPpz1yG) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Everywhere We Go](https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6) | 3:08 |
-| 91 | [Don't Take The Girl](https://open.spotify.com/track/2wmEryA2YLaFwFvA63n3O2) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Not A Moment Too Soon](https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc) | 4:09 |
+| 90 | [Don't Take The Girl](https://open.spotify.com/track/2wmEryA2YLaFwFvA63n3O2) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Not A Moment Too Soon](https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc) | 4:09 |
+| 91 | [How Forever Feels](https://open.spotify.com/track/2HmMklpgK8vGCpJmPpz1yG) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Everywhere We Go](https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6) | 3:08 |
 | 92 | [Pickup Man](https://open.spotify.com/track/60w5eL1G4Or7LlTSrR5r8a) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Third Rock From The Sun](https://open.spotify.com/album/3DbH9awNYiSTpvyCNqxdkl) | 3:36 |
 | 93 | [Wichita Lineman \- Remastered 2001](https://open.spotify.com/track/6V9VCm1zOY2lGR80RehJ9i) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Wichita Lineman \(Remastered\)](https://open.spotify.com/album/056tSaBR2WyN1nnmfIzkEE) | 3:06 |
 | 94 | [I've Been Everywhere](https://open.spotify.com/track/59J3FhCGYl18G3ouDReUge) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American II: Unchained](https://open.spotify.com/album/59RjxVKpH3c80E4a86yP7b) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFzWmxRnRJH.md) - [plain]
 | 99 | [Convoy](https://open.spotify.com/track/6dGWq08LXuIw6T2oUeHECh) | [C.W\. McCall](https://open.spotify.com/artist/0iTkPxRldzi5lmS6qZ70JV) | [C.W\. McCall's Greatest Hits](https://open.spotify.com/album/6XbZ0Hc2LQaLJuUaFrHfTY) | 3:50 |
 | 100 | [If I Didn't Have You](https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [On the Other Hand \- All the Number Ones](https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3) | 3:06 |
 
-Snapshot ID: `MCwyZGNiZDljOWZhZWZhZWVjODg2ODFkZmZiMTU0Njk0ODFmZjVhYjc2`
+Snapshot ID: `MCxmZGU3OTFhYWIzODg5MTRlNjc2MTlkNGJiMjIyZTUzNzcxOWY4YmMw`

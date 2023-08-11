@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 
 > All the vibes\. All the feels\. 🫠 🙄
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,651,293 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,651,718 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,16 +72,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 62 | [Back to the Streets \(feat\. Jhené Aiko\)](https://open.spotify.com/track/3MEruRteiUZXkStfTlZqRn) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Back to the Streets \(feat\. Jhené Aiko\)](https://open.spotify.com/album/5Qg2XXhV3sxOgfbXtAhU3N) | 3:09 |
 | 63 | [Unloyal \(with Ari Lennox\)](https://open.spotify.com/track/081Shn2hU3YxvQmGaCPegr) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:27 |
 | 64 | [You Can't Save Me](https://open.spotify.com/track/5LKzqs734Xs528hqK8bGS1) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Chasing Summer](https://open.spotify.com/album/5zUDvKAyEKkrhYLWJJWGPQ) | 2:54 |
-| 65 | [Cheat \(feat\. JoJo\)](https://open.spotify.com/track/1mXJlLzoEk3STrioO2ehRE) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Cheat \(feat\. JoJo\)](https://open.spotify.com/album/249LVBE0PeIQJfuUXepYfw) | 3:22 |
-| 66 | [Morning](https://open.spotify.com/track/54Yappwod1fELR5zb2gDBn) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Groovy People](https://open.spotify.com/album/2a8IWtMGQl8oIA3lUtLDQw) | 3:26 |
+| 65 | [Morning](https://open.spotify.com/track/54Yappwod1fELR5zb2gDBn) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Groovy People](https://open.spotify.com/album/2a8IWtMGQl8oIA3lUtLDQw) | 3:26 |
+| 66 | [Cheat \(feat\. JoJo\)](https://open.spotify.com/track/1mXJlLzoEk3STrioO2ehRE) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Cheat \(feat\. JoJo\)](https://open.spotify.com/album/249LVBE0PeIQJfuUXepYfw) | 3:22 |
 | 67 | [Around Me](https://open.spotify.com/track/7dQeS4ErW1iWvnKdrtKwKr) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Lost](https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r) | 3:03 |
 | 68 | [Girl Like Me \(feat\. H.E.R.\)](https://open.spotify.com/track/2sXydP9vPEYUH4uAWotuGu) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 3:44 |
 | 69 | [Hallucinations](https://open.spotify.com/track/3J6I2S9sTNVStKhkrPp3yd) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [SEPT 5TH](https://open.spotify.com/album/2XhC7JL4ULFBP1qlqoR0Vv) | 4:06 |
 | 70 | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/track/5vprsDWNcHMEMH95sbJkH2) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/album/5UKxiuiDgmjI35ZKYbAUPx) | 4:07 |
 | 71 | [My Affection \(with PARTYNEXTDOOR\)](https://open.spotify.com/track/2aSM4sbNN7cSmpYOG0sf46) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:33 |
 | 72 | [Waiting For \(feat\. Jamila Woods\)](https://open.spotify.com/track/02nZeTbm2dRHisH6qsUM5E) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [aiMless](https://open.spotify.com/album/4l165PoCFHBzfg88mpC68n) | 3:20 |
-| 73 | [Time Machine](https://open.spotify.com/track/37S1u9dpiGeBO80Lk9msLy) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:42 |
-| 74 | [Her](https://open.spotify.com/track/4Wfe2jloKo95eFVnJEr5N1) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [A Place Like This](https://open.spotify.com/album/1iMD6TkaGBK3tYuD7hi16A) | 5:00 |
+| 73 | [Her](https://open.spotify.com/track/4Wfe2jloKo95eFVnJEr5N1) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [A Place Like This](https://open.spotify.com/album/1iMD6TkaGBK3tYuD7hi16A) | 5:00 |
+| 74 | [Time Machine](https://open.spotify.com/track/37S1u9dpiGeBO80Lk9msLy) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:42 |
 | 75 | [Can't Be Friends](https://open.spotify.com/track/4iMDkH8t3Sooaj3uCzpYP2) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Passion, Pain & Pleasure \(Deluxe Version\)](https://open.spotify.com/album/3sDoSYf2AKB2IegZmkISGD) | 3:40 |
 | 76 | [Lullaby](https://open.spotify.com/track/1K1b1rPjbbam1NXUPg4VrK) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Lullaby](https://open.spotify.com/album/2cVJ0gO2QyBC5o2A1DVFuk) | 3:20 |
 | 77 | [Immature](https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Immature](https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9) | 2:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 99 | [Whatever](https://open.spotify.com/track/6B31zNJtEG6Pc1Au49bjWN) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Whatever](https://open.spotify.com/album/5mkgf9ydsSSjmowrNO6QBM) | 2:52 |
 | 100 | [235 \(2:35 I Want You\)](https://open.spotify.com/track/5yGAyupR8TXCUq3MPb7xiK) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [235 \(2:35 I Want You\)](https://open.spotify.com/album/22xnoAzJJFvmm1iZJNDNqh) | 3:51 |
 
-Snapshot ID: `MCw0Y2JkM2YyMjU2OWYyN2Q4NzJiZDE2Mjc1NjI4YTBhNjIwY2I0NjQy`
+Snapshot ID: `MCwxOTcxN2RjNDA1MzY1ZGFlNGExNmE4M2YxMzUwYjIyYTZkNDcyNDM2`

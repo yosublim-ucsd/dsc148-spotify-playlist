@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 
 > Mantras for meditation
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,892 likes - 50 songs - 12 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,101 likes - 50 songs - 12 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,12 +14,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 4 | [Aham Brahmasmi](https://open.spotify.com/track/3xVv0QfLmeJt8EkSCUim4M) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Mantras & Chants](https://open.spotify.com/album/0Yr36b0evAmbg8VQVrdSnN) | 11:41 |
 | 5 | [Krishna Chants](https://open.spotify.com/track/2eAQbiQFn6OZ5TxNOC791s) | [Utkarsh Sharma](https://open.spotify.com/artist/3rVL53vjNj2z3QVZLg8mOE), [Rajshree Agarwal](https://open.spotify.com/artist/1xplyUBGhB2VU3bkIWI05C), [Vibhuti Vaity](https://open.spotify.com/artist/2ou5DGQBNMTiks8rkMtowx) | [Krishna Chants](https://open.spotify.com/album/4Xxi2o5Z8g2On0XrNQcSyp) | 3:57 |
 | 6 | [Ramashtakam](https://open.spotify.com/track/0gk5kLComqP0mxgyk26OnL) | [Uthara Unnikrishnan](https://open.spotify.com/artist/1JBngqswTsCSvZ9eFVjnlO) | [Ramashtakam](https://open.spotify.com/album/5eE84N4O5LRLy5su0R74Vp) | 6:02 |
-| 7 | [Vande Gurunam \- Yoga Mantra](https://open.spotify.com/track/2SYlyBEfTfgvnmwiVI49Mi) | [Siddharth Amit Bhavsar](https://open.spotify.com/artist/2DQZm7ErqpqiT4nxF9i4a2), [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5) | [Vande Gurunam \- Yoga Mantra](https://open.spotify.com/album/3s5NlnnwDthLumTVgjiggP) | 10:11 |
-| 8 | [Ram Naam Chanting](https://open.spotify.com/track/0Ardq6W5vPAttUuQR2WGt2) | [Palak Sharma](https://open.spotify.com/artist/4NO7tLuZuP8T3KfvGUYtuG), [JusKeys](https://open.spotify.com/artist/3WOftlTipq4ezwzR72Pkwc), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf) | [Ram Naam Chanting](https://open.spotify.com/album/2a3szoALUteejLabQS39M1) | 18:01 |
-| 9 | [Om Gam Ganapataye](https://open.spotify.com/track/1QI85rkz7xEfSA12pIdvDk) | [Hédi Carlee](https://open.spotify.com/artist/1MhZK1my2DU36E3e1wC6ir) | [Om Gam Ganapataye](https://open.spotify.com/album/2ojL0JmPVeMWS3HSC1zL67) | 10:30 |
-| 10 | [Shiva Chants](https://open.spotify.com/track/4HFFzYAPgabpJI9IiKNDxS) | [Rajshree Agarwal](https://open.spotify.com/artist/1xplyUBGhB2VU3bkIWI05C), [Vibhuti Vaity](https://open.spotify.com/artist/2ou5DGQBNMTiks8rkMtowx), [Abhinay Jain](https://open.spotify.com/artist/76VyCCJKWRtgRk7JSC32bW) | [Shiva Chants](https://open.spotify.com/album/6oVqipIJuVUOx6yUYcLvFh) | 5:03 |
-| 11 | [Mool Mantra](https://open.spotify.com/track/79n8AuJG3hP5DFCQTiB78h) | [Ananya Bhowmick](https://open.spotify.com/artist/74dv0wmBboWMomobcuanhU) | [Mool Mantra \- Single](https://open.spotify.com/album/4Fdr2MRs9AJNLBittLnyYW) | 7:45 |
-| 12 | [Kar Darshanam](https://open.spotify.com/track/46Uvk0oU8R4iQSM8OMCdVv) | [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Morning Mantras](https://open.spotify.com/album/7rZWkCmz3Eli2Q9WkOXV0W) | 1:01 |
+| 7 | [Shiv Tandav Stotra \(Hindi Adaptation\)](https://open.spotify.com/track/77EGwUvKLSsinbBoPtsIPn) | [Om Voices](https://open.spotify.com/artist/35Dv4r2eP3iqNKQTSwaBVK) | [Shiv Tandav Stotra \(Hindi Adaptation\)](https://open.spotify.com/album/7FWuNtoURNJenQNf9j2wwF) | 6:20 |
+| 8 | [Vande Gurunam \- Yoga Mantra](https://open.spotify.com/track/2SYlyBEfTfgvnmwiVI49Mi) | [Siddharth Amit Bhavsar](https://open.spotify.com/artist/2DQZm7ErqpqiT4nxF9i4a2), [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5) | [Vande Gurunam \- Yoga Mantra](https://open.spotify.com/album/3s5NlnnwDthLumTVgjiggP) | 10:11 |
+| 9 | [Ram Naam Chanting](https://open.spotify.com/track/0Ardq6W5vPAttUuQR2WGt2) | [Palak Sharma](https://open.spotify.com/artist/4NO7tLuZuP8T3KfvGUYtuG), [JusKeys](https://open.spotify.com/artist/3WOftlTipq4ezwzR72Pkwc), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf) | [Ram Naam Chanting](https://open.spotify.com/album/2a3szoALUteejLabQS39M1) | 18:01 |
+| 10 | [Om Gam Ganapataye](https://open.spotify.com/track/1QI85rkz7xEfSA12pIdvDk) | [Hédi Carlee](https://open.spotify.com/artist/1MhZK1my2DU36E3e1wC6ir) | [Om Gam Ganapataye](https://open.spotify.com/album/2ojL0JmPVeMWS3HSC1zL67) | 10:30 |
+| 11 | [Shiva Chants](https://open.spotify.com/track/4HFFzYAPgabpJI9IiKNDxS) | [Rajshree Agarwal](https://open.spotify.com/artist/1xplyUBGhB2VU3bkIWI05C), [Vibhuti Vaity](https://open.spotify.com/artist/2ou5DGQBNMTiks8rkMtowx), [Abhinay Jain](https://open.spotify.com/artist/76VyCCJKWRtgRk7JSC32bW) | [Shiva Chants](https://open.spotify.com/album/6oVqipIJuVUOx6yUYcLvFh) | 5:03 |
+| 12 | [Mool Mantra](https://open.spotify.com/track/79n8AuJG3hP5DFCQTiB78h) | [Ananya Bhowmick](https://open.spotify.com/artist/74dv0wmBboWMomobcuanhU) | [Mool Mantra \- Single](https://open.spotify.com/album/4Fdr2MRs9AJNLBittLnyYW) | 7:45 |
 | 13 | [Sarvesham Svastir Bhavtu](https://open.spotify.com/track/0ttVqRISNySDktBhdJsJZv) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Magical Mantras for Meditation \- Volume Two](https://open.spotify.com/album/2SyTtRLOHedCwGOBNiQcU4) | 45:17 |
 | 14 | [Gayatri Mantra](https://open.spotify.com/track/6pgkNVyeOaCUXmzRbXFNSt) | [Chetna Bhardwaj](https://open.spotify.com/artist/4LTxsVoN6Rkd0l5vw8QTYx) | [Gayatri Mantra](https://open.spotify.com/album/06azPdWYhUcCLbgEyEeVdI) | 41:02 |
 | 15 | [Ganesh Mantra](https://open.spotify.com/track/16nKhvMOqdeGrYQF3vurog) | [Raghav Sarangal](https://open.spotify.com/artist/6670l7bZPECHs6RgUhLLu9) | [Ganesh Mantra](https://open.spotify.com/album/5CVVbGzAkku6oG0AI7bE4B) | 26:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 49 | [Hari Om \- Edit](https://open.spotify.com/track/2f15VD8uiJDDEHbM17OmIv) | [Nisha Narsai](https://open.spotify.com/artist/1Ux83LKN1wlXdbKJhcpGEC) | [Om Sound Healing Music: Tibetan & Crystal Bowls with Deep Mantras for Yoga](https://open.spotify.com/album/5HDRlVQWc8iTXqRDlmQ37M) | 8:04 |
 | 50 | [Raghunandan](https://open.spotify.com/track/1QaAXfq7b3p7q8oNC1jtcT) | [Agam Aggarwal](https://open.spotify.com/artist/0ivZyfIHsCjQGS5OqHt3hA), [Siddharth Sharma](https://open.spotify.com/artist/4mzzax24RTTB4kUEHkgaDo), [Narci](https://open.spotify.com/artist/3b9iVRjKkiC4oIHXB7pbzJ) | [Raghunandan](https://open.spotify.com/album/7mNbiAGZySBw1nFFe0bZAi) | 5:24 |
 
-Snapshot ID: `MCxjODJhNWY0ZWQwZmRlYTY0OTM3MGQzMGI0Zjg5ZjlkMzI1MTVjYTQ3`
+Snapshot ID: `MCw2ZTljNzgyY2Y2YWY0YTI0ZmJlNjdjNjJlNjM1M2QxZjRhNDE1MThm`

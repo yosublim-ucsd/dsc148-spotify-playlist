@@ -4,7 +4,7 @@
 
 > Buenas vibras para limpiar la casa! The best vibes to keep the house clean!
 
-219 songs - 13 hr 19 min
+220 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Dos Locos](https://open.spotify.com/track/1ePEbbeWx3scydfir7HBcq) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Exitos Y Mas](https://open.spotify.com/album/6uW6SpZHEJAgu91uiBzdM1) | 4:06 | 2022-02-14 | 2022-07-29 |
 | [Dulcito e Coco](https://open.spotify.com/track/7Li9u5C7CNLvqOqhrhZEML) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [A la Mar](https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE) | 3:09 | 2022-10-03 | 2023-03-26 |
 | [Dímelo](https://open.spotify.com/track/2z0z5ddJS3K7qvhp4PH0Aa) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Insomniac](https://open.spotify.com/album/2MoRlkkEUNMtOGKn6OJTLi) | 3:37 | 2022-02-14 | 2022-07-24 |
+| [El ataque de las chicas cocodrilo](https://open.spotify.com/track/4dy99PdH0CM3dbNUwJRoDw) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [El ataque de las chicas cocodrilo](https://open.spotify.com/album/5VrsIoeYTTupAlat4oNpak) | 2:37 | 2023-08-04 |  |
 | [El Ausente](https://open.spotify.com/track/2yFGylyE6vbZQKXVZcvWFj) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos](https://open.spotify.com/album/3NUMhmhwTK4uatK413RSOd) | 3:26 | 2022-02-14 | 2022-07-22 |
 | [El Camaleón](https://open.spotify.com/track/3a6TQVSXm6zCQzNhTVO2Mo) | [Los Tigrillos](https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf) | [Camaleón](https://open.spotify.com/album/6w20flSfh4CyLpQALjOape) | 3:06 | 2022-02-14 | 2022-07-20 |
 | [El Campanero](https://open.spotify.com/track/0czoaFfypZXBAC9x5Hq8bV) | [Aniceto Molina Y Sus Sabaneros](https://open.spotify.com/artist/6iVSV0qprMzMOK7Rm5nbWU) | [Senor Tabernero](https://open.spotify.com/album/3PHVlncvNCsORxyHUjqJtC) | 3:45 | 2022-02-14 | 2022-07-22 |
@@ -182,7 +183,7 @@
 | [Propuesta Indecente](https://open.spotify.com/track/5PycBIeabfvX3n9ILG7Vrv) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 3:55 | 2022-02-14 |  |
 | [Píntame](https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Pintame](https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB) | 4:19 | 2022-05-06 | 2022-07-04 |
 | [Quimbara](https://open.spotify.com/track/3GDna1GrUkkjZTaoysolGQ) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Celia y Johnny](https://open.spotify.com/album/3ETmy7JfoqlvAwVg1sopmg) | 4:51 | 2022-02-14 | 2022-07-08 |
-| [Quimbara](https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 4:51 | 2022-07-19 |  |
+| [Quimbara](https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 4:51 | 2022-07-19 | 2023-08-11 |
 | [Qué Vida la Mía](https://open.spotify.com/track/3T0OdyDjFtltn1nHH4j06U) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Reik](https://open.spotify.com/album/16QRglfvF1gpz6GLsBC1gU) | 2:51 | 2022-02-14 | 2022-07-29 |
 | [Sabor a Mí](https://open.spotify.com/track/0Hja9zlVQHC768PsPjWscW) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canta En Español Con Los Panchos](https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w) | 2:48 | 2022-02-14 |  |
 | [Safari](https://open.spotify.com/track/456xBIOmLRoLzCvCzZrWge) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW) | [Energía](https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf) | 3:25 | 2022-07-19 | 2022-12-31 |

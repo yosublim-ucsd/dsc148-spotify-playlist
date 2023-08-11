@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: VUKOVI",
+  "description": "The UK's biggest rock playlist. Cover: Jazmin Bean",
   "name": "The Rock List",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 151863,
       "name": "17250",
       "url": "https://open.spotify.com/track/4RRHEpkrrYa0TkTEyTPUv7"
@@ -510,7 +510,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 276783,
       "name": "Better Way Out",
       "url": "https://open.spotify.com/track/2OVvGwLJ9IYY9wxPzissxv"
@@ -1372,6 +1372,24 @@
       "duration_ms": 234713,
       "name": "Famous",
       "url": "https://open.spotify.com/track/1te0wzOWRVnKXF49lAztVq"
+    },
+    {
+      "album": {
+        "name": "Favourite Toy",
+        "url": "https://open.spotify.com/album/6BkAzEqhZ7E9R6QfBJnjha"
+      },
+      "artists": [
+        {
+          "name": "Jazmin Bean",
+          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181847,
+      "name": "Favourite Toy",
+      "url": "https://open.spotify.com/track/7LwtKDNVK0s08ZoNkqlCzP"
     },
     {
       "album": {
@@ -2425,6 +2443,24 @@
     },
     {
       "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/3HmGULnPeH7ZhDkQlDibh3"
+      },
+      "artists": [
+        {
+          "name": "Caskets",
+          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212329,
+      "name": "In The Silence",
+      "url": "https://open.spotify.com/track/1klDKOUmMD566cwy91pqEO"
+    },
+    {
+      "album": {
         "name": "Into the Trap",
         "url": "https://open.spotify.com/album/43ZIULcetVrO3ieqLnrjoE"
       },
@@ -2906,7 +2942,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 223720,
       "name": "Messiah",
       "url": "https://open.spotify.com/track/7g4KHyPt8FZigEgVD3AYvT"
@@ -3104,7 +3140,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 109387,
       "name": "New York Transit Queen",
       "url": "https://open.spotify.com/track/6CjJtGi2x7xiBghJ4E8YIN"
@@ -3418,6 +3454,24 @@
     {
       "album": {
         "name": "Parasite",
+        "url": "https://open.spotify.com/album/7jGfpPmNuDC9ggP7rxCIne"
+      },
+      "artists": [
+        {
+          "name": "Coach Party",
+          "url": "https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97845,
+      "name": "Parasite",
+      "url": "https://open.spotify.com/track/3PjR8wGGGUjxdKFCtoScZP"
+    },
+    {
+      "album": {
+        "name": "Parasite",
         "url": "https://open.spotify.com/album/5fyMxb8ClYRqpiTrzR7xc3"
       },
       "artists": [
@@ -3464,7 +3518,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 178789,
       "name": "Piggie",
       "url": "https://open.spotify.com/track/1DVuD6ZWzdPf9PUeDAsOpS"
@@ -3936,7 +3990,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 218121,
       "name": "Shadow (I'm Breaking Down)",
       "url": "https://open.spotify.com/track/35k8QihhSU5Z7Rqz7FD2nv"
@@ -4134,7 +4188,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 235325,
       "name": "St. Charles Square",
       "url": "https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL"
@@ -4289,6 +4343,24 @@
     },
     {
       "album": {
+        "name": "Take Me With You",
+        "url": "https://open.spotify.com/album/5nlMjtTBb8QwtiWs7TY8L4"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197320,
+      "name": "Take Me With You",
+      "url": "https://open.spotify.com/track/3GpoRL1PBnTerVSaVG5tGW"
+    },
+    {
+      "album": {
         "name": "Target Practice",
         "url": "https://open.spotify.com/album/16J5UoAKGvk7w6gOqNzubI"
       },
@@ -4419,6 +4491,24 @@
     },
     {
       "album": {
+        "name": "The Lens",
+        "url": "https://open.spotify.com/album/6036RVl51B5aABchGu7ovm"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224957,
+      "name": "The Lens",
+      "url": "https://open.spotify.com/track/5Jgd7T6LCgGynv0mh6zPSq"
+    },
+    {
+      "album": {
         "name": "The Narcissist",
         "url": "https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz"
       },
@@ -4448,7 +4538,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 197781,
       "name": "The One",
       "url": "https://open.spotify.com/track/7JmnFOR3DUiRTkEybOlDqh"
@@ -4466,7 +4556,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 244465,
       "name": "THE OUTSIDE",
       "url": "https://open.spotify.com/track/6y8p0dDbtPOfAPoTdNv2xi"
@@ -4938,7 +5028,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 138944,
       "name": "What's The Point In Life",
       "url": "https://open.spotify.com/track/18BRLFiAfy2GFQlVF62CFg"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yaR5d7FkNX.md) - [plain]
 
 > Disfrutemos del amor en los tiempos del rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,793 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,855 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yaR5d7FkNX.md) - [plain]
 | 73 | [Galáctica](https://open.spotify.com/track/3lARK85Nl9QAjH9uqY1XdL) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB), [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Galáctica](https://open.spotify.com/album/7fDeOG3SJLd8kVMwp9J81m) | 3:27 |
 | 74 | [Como Un Sol](https://open.spotify.com/track/3TDJAqSeDZheVTrPU7Ruui) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 4:17 |
 | 75 | [Girl](https://open.spotify.com/track/4zE9ITlebRL6Qx9K729Rkq) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Donde los Ponys Pastan](https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx) | 3:57 |
-| 76 | [Azul Oscuro](https://open.spotify.com/track/2arKxdHBNpI1zwTJDNmjwn) | [Zurdok](https://open.spotify.com/artist/4Yb9v9iTl23ErTTMLEoejP) | [Azul Oscuro](https://open.spotify.com/album/5iYmmcWr3mTo9xzQOXByPe) | 4:21 |
+| 76 | [Azul Oscuro](https://open.spotify.com/track/2arKxdHBNpI1zwTJDNmjwn) | [Zurdok](https://open.spotify.com/artist/2A2x3ZwZEOgWdSmSHZRIok) | [Azul Oscuro](https://open.spotify.com/album/5iYmmcWr3mTo9xzQOXByPe) | 4:21 |
 | 77 | [Hablando Lento](https://open.spotify.com/track/0KdTs8DIDALkkxmbqGJQvr) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Cambio Estacional](https://open.spotify.com/album/4l9pCun5O9jMUUqeJ7LiwU) | 3:36 |
 | 78 | [Monitor](https://open.spotify.com/track/7on4qNO1Iu5EX61mD80Cgv) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Monitor](https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB) | 3:57 |
 | 79 | [Paseo Sideral](https://open.spotify.com/track/5ZdMvKygnT1RRj6Y0pnhAL) | [Costera](https://open.spotify.com/artist/5JpCxwOe867Dbf62kLcQQM), [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Aliados](https://open.spotify.com/album/1LAdrdASbNjQqWPH2TFFJZ) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yaR5d7FkNX.md) - [plain]
 | 99 | [Sabor Cayena](https://open.spotify.com/track/7AeeynF7fkV4aFFwR9KeiA) | [Aceros del Pacífico](https://open.spotify.com/artist/4pF9TANr0OM6Ppf7Ejb91o) | [Sabor Cayena](https://open.spotify.com/album/5LiWn17rIUI0oqxfOyxVaP) | 4:16 |
 | 100 | [Góndola \- Live Session](https://open.spotify.com/track/1dOYmzJmvUTOAShmw6pT7V) | [Aceros del Pacífico](https://open.spotify.com/artist/4pF9TANr0OM6Ppf7Ejb91o), [Ana Rizo](https://open.spotify.com/artist/3jD6zAJRKQkylpOsaAVCiz) | [Góndola](https://open.spotify.com/album/4ETJicMeq2u0te2o6JxBdY) | 5:40 |
 
-Snapshot ID: `MCw1MmM4YjExODIxZWZkODdlYzk5Y2YyOTA4MWJlN2IwYjVlMDBiOTJi`
+Snapshot ID: `MCxhMDhkNWZjYzEyODg2ZDc0N2VlZmYzNWFmMjE3ZWEyZWU3YjhmNDQx`

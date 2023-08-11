@@ -4,7 +4,7 @@
 
 > Clock in from the comfort of your own home and let the music carry you through the day.
 
-636 songs - 1 day 9 hr 52 min
+638 songs - 1 day 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,8 @@
 | [Fancy Like](https://open.spotify.com/track/3ZozFqJJlDBNIm4xqxn2ZD) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff](https://open.spotify.com/album/1Lcuv3HMgEG36SkibQIspv) | 2:41 | 2021-07-23 | 2022-04-12 |
 | [Fancy Like](https://open.spotify.com/track/58UKC45GPNTflCN6nwCUeF) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff The Album](https://open.spotify.com/album/4sShdTo9jO2RGLgDkZBgN8) | 2:41 | 2021-07-23 | 2023-01-28 |
 | [Far Boy \(with Austin Burke\)](https://open.spotify.com/track/72IZFSjcDbtrtqn4sfrIjR) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6), [Austin Burke](https://open.spotify.com/artist/5jfImMkUYyViFJrhdfYt1c) | [Far Boy \(with Austin Burke\)](https://open.spotify.com/album/3pzUW3z7WUMgfLqRwIZY3a) | 3:06 | 2021-07-02 | 2022-04-17 |
-| [favorite kind of high](https://open.spotify.com/track/3lxias37bJGSqIOLkQBJF9) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [favorite kind of high](https://open.spotify.com/album/0ovV62VKM8ADN9BZIlrQMn) | 2:55 | 2023-05-19 |  |
+| [favorite kind of high](https://open.spotify.com/track/3lxias37bJGSqIOLkQBJF9) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [favorite kind of high](https://open.spotify.com/album/0ovV62VKM8ADN9BZIlrQMn) | 2:55 | 2023-05-19 | 2023-08-11 |
+| [favorite kind of high](https://open.spotify.com/track/63ZSZznbGQhzJhOHPZ6WkT) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [chemistry](https://open.spotify.com/album/5c56JYNgc48iDnwHHlOcye) | 2:55 | 2023-05-19 |  |
 | [Feels Like](https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:32 | 2021-10-01 |  |
 | [Feels Like](https://open.spotify.com/track/5AsUMMM0euIPrmRrLfb7ly) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Feels Like](https://open.spotify.com/album/6WzV6DBxklzmYlqELv77Qh) | 2:32 | 2021-10-01 | 2022-07-29 |
 | [Fine Apple](https://open.spotify.com/track/1ts8KebAIm5xCiGInoWiqp) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Fine Apple](https://open.spotify.com/album/3nxwixOHCqSre8Ycbuypqv) | 2:33 | 2021-06-14 | 2023-04-04 |
@@ -387,7 +388,8 @@
 | [Midnight](https://open.spotify.com/track/3uTdOMyG1ixtUxdtspkngM) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Midnight](https://open.spotify.com/album/4JheIQU7B3Fb8pCld4z5iB) | 3:48 | 2022-09-02 | 2023-04-16 |
 | [Midnight Sky](https://open.spotify.com/track/27ycaQnQAxaPiyeg3nr2aB) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Midnight Sky](https://open.spotify.com/album/7z5fmW3FDD6jlpJtwMXV51) | 3:43 | 2021-06-07 | 2022-04-18 |
 | [Midnight Sky](https://open.spotify.com/track/4i2qxFEVVUi8yOYoxB8TCX) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:43 | 2021-06-07 | 2023-01-28 |
-| [mine](https://open.spotify.com/track/5WVwFPBm6bI9KPRV2AUR2T) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [mine / me](https://open.spotify.com/album/0Y4UzVqYI5o4GBxkQimdL8) | 3:11 | 2023-04-14 |  |
+| [mine](https://open.spotify.com/track/20XB21FHWhdyWTs5z7p9Vl) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [chemistry](https://open.spotify.com/album/5c56JYNgc48iDnwHHlOcye) | 3:11 | 2023-04-14 |  |
+| [mine](https://open.spotify.com/track/5WVwFPBm6bI9KPRV2AUR2T) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [mine / me](https://open.spotify.com/album/0Y4UzVqYI5o4GBxkQimdL8) | 3:11 | 2023-04-14 | 2023-08-11 |
 | [Miss You a Little \(feat\. lovelytheband\) \- Carneyval Remix](https://open.spotify.com/track/5DXJM9TC8TXBdapW0t9yev) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I), [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp), [Carneyval](https://open.spotify.com/artist/2L8dsMgFCSOumasWQ4gvwZ) | [Miss You a Little \(feat\. lovelytheband\) \[Carneyval Remix\]](https://open.spotify.com/album/57ZvMkAZ17r0ym3fV7kwAy) | 2:51 | 2021-08-27 | 2022-04-21 |
 | [missin u](https://open.spotify.com/track/4TQCxVR2rmR3ozusDumesX) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [missin u](https://open.spotify.com/album/6ZkHlcIqV4N7cNyqNtvpNk) | 2:57 | 2023-04-07 |  |
 | [Missing Piece](https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Missing Piece](https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3) | 3:37 | 2021-06-07 |  |

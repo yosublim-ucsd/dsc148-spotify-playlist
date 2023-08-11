@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 
 > We're celebrating 30 years of Alan Jackson's classic hit "Chattahoochee" on 90s Country!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,657,993 likes - 150 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,659,123 likes - 150 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 12 | [Any Man Of Mine](https://open.spotify.com/track/0pdfN7nOHMYmKykzu1cyfm) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 4:06 |
 | 13 | [Sold \(The Grundy County Auction Incident\)](https://open.spotify.com/track/0NLBwQBYJhEM9t3KAMPFVR) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [John Michael Montgomery](https://open.spotify.com/album/5UPjyfi3zD7Oak7frjH8zk) | 2:32 |
 | 14 | [Should've Been A Cowboy](https://open.spotify.com/track/4TJUS843fKiqqIzycM74Oy) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith](https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA) | 3:31 |
-| 15 | [I Like It, I Love It](https://open.spotify.com/track/3IvcWWehbBcBR4YZxlGM9R) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [All I Want](https://open.spotify.com/album/6l9E1hjtJqivhVIageAWM8) | 3:25 |
-| 16 | [Amazed](https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [Lonely Grill](https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2) | 4:00 |
+| 15 | [Amazed](https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [Lonely Grill](https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2) | 4:00 |
+| 16 | [I Like It, I Love It](https://open.spotify.com/track/3IvcWWehbBcBR4YZxlGM9R) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [All I Want](https://open.spotify.com/album/6l9E1hjtJqivhVIageAWM8) | 3:25 |
 | 17 | [Fancy](https://open.spotify.com/track/0FtV0YbnnjD7PXpLHFHPhn) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Rumor Has It](https://open.spotify.com/album/5XrjQp24z8Pr5dsB1SnsIQ) | 4:59 |
 | 18 | [Carrying Your Love With Me](https://open.spotify.com/track/7puxIVNdj5nsBJk43zM3bH) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Carrying Your Love With Me](https://open.spotify.com/album/3YwF2y9Y3FfEy2NOtDuDZZ) | 3:52 |
 | 19 | [Cowboy Take Me Away](https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Fly](https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA) | 4:47 |
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 56 | [Whenever You Come Around](https://open.spotify.com/track/3PHLZ5wmtyZha1pp2405OT) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [When Love Finds You](https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB) | 4:19 |
 | 57 | [This Kiss](https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Faith](https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5) | 3:14 |
 | 58 | [How Forever Feels](https://open.spotify.com/track/2HmMklpgK8vGCpJmPpz1yG) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Everywhere We Go](https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6) | 3:08 |
-| 59 | [Straight Tequila Night](https://open.spotify.com/track/5SpoN8sCoc05RfVde4raGN) | [John Anderson](https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv) | [Seminole Wind](https://open.spotify.com/album/23LbFVb9MdJCILkhR5yQ6a) | 2:53 |
+| 59 | [Pickup Man](https://open.spotify.com/track/60w5eL1G4Or7LlTSrR5r8a) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Third Rock From The Sun](https://open.spotify.com/album/3DbH9awNYiSTpvyCNqxdkl) | 3:36 |
 | 60 | [If You See Him, If You See Her](https://open.spotify.com/track/4TxIFLRMUxNh4n9h4RLsaE) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [If You See Him](https://open.spotify.com/album/5CUap1jumnhCkIDCd6DtEc) | 3:55 |
-| 61 | [Pickup Man](https://open.spotify.com/track/60w5eL1G4Or7LlTSrR5r8a) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Third Rock From The Sun](https://open.spotify.com/album/3DbH9awNYiSTpvyCNqxdkl) | 3:36 |
+| 61 | [Straight Tequila Night](https://open.spotify.com/track/5SpoN8sCoc05RfVde4raGN) | [John Anderson](https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv) | [Seminole Wind](https://open.spotify.com/album/23LbFVb9MdJCILkhR5yQ6a) | 2:53 |
 | 62 | [You Win My Love](https://open.spotify.com/track/2lKA9bNdd4kAoeHiufa0aK) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 4:25 |
 | 63 | [I Can Still Make Cheyenne](https://open.spotify.com/track/7yQMZQeiSKnvEgimeGPVhi) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Blue Clear Sky](https://open.spotify.com/album/79adVMcMUNGN9Gw5qJI8JG) | 4:16 |
 | 64 | [I'm Alright](https://open.spotify.com/track/0MjT9xQqJrQlNrkWKZgFbQ) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [I'm Alright](https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL) | 3:19 |
@@ -127,8 +127,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 117 | [I Try to Think About Elvis](https://open.spotify.com/track/121ILFThNZH9Egncny7upu) | [Patty Loveless](https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT) | [When Fallen Angels Fly](https://open.spotify.com/album/3gl2RguatWgKSoCuN1tSw9) | 2:49 |
 | 118 | [Except for Monday](https://open.spotify.com/track/2iCJEYdoYbCxFoUg8759nm) | [Lorrie Morgan](https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt) | [Something In Red](https://open.spotify.com/album/6pTicOdZqzOZgbvdB1AVyq) | 2:56 |
 | 119 | [Love Can Build A Bridge](https://open.spotify.com/track/40XW3d74CGOrWPcNpJDeUi) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Love Can Build A Bridge](https://open.spotify.com/album/53q0MIHCc3NeBt075qOsZO) | 5:21 |
-| 120 | [Whatcha Gonna Do With A Cowboy](https://open.spotify.com/track/6UBvhlms1M16oUYZkEfqpy) | [Chris LeDoux](https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo), [Garth Brooks](https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7) | [Whatcha Gonna Do With A Cowboy](https://open.spotify.com/album/6He4j8heX7l96p8y2FMjbz) | 2:35 |
-| 121 | [A Broken Wing](https://open.spotify.com/track/0nqjaaZQtY9fgl1M9qjssn) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Evolution](https://open.spotify.com/album/5LT49LTUsSmazrZpBV3OPP) | 3:35 |
+| 120 | [A Broken Wing](https://open.spotify.com/track/0nqjaaZQtY9fgl1M9qjssn) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Evolution](https://open.spotify.com/album/5LT49LTUsSmazrZpBV3OPP) | 3:35 |
+| 121 | [Whatcha Gonna Do With A Cowboy](https://open.spotify.com/track/6UBvhlms1M16oUYZkEfqpy) | [Chris LeDoux](https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo), [Garth Brooks](https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7) | [Whatcha Gonna Do With A Cowboy](https://open.spotify.com/album/6He4j8heX7l96p8y2FMjbz) | 2:35 |
 | 122 | [\(This Ain't\) No Thinkin' Thing](https://open.spotify.com/track/44YTMbU3aqvE7q09rjyUb3) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Dreamin' Out Loud](https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc) | 4:02 |
 | 123 | [The Shake](https://open.spotify.com/track/2KZXnN63ae6G6Cai2NhPkG) | [Neal McCoy](https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY) | [Be Good At It](https://open.spotify.com/album/5OcjMDGFwrToI1UXdcMshM) | 3:33 |
 | 124 | [My Maria](https://open.spotify.com/track/3z7aMSuKqrPQluiJro3Gqt) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [Borderline](https://open.spotify.com/album/30DhSd45CPtwx14Kw6SpfL) | 3:30 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 149 | [Why Didn't I Think of That](https://open.spotify.com/track/3w3oF0IAR3A14cnKhecsNV) | [Doug Stone](https://open.spotify.com/artist/4epBFW4UHEmgjIK5xOrBhk) | [From the Heart](https://open.spotify.com/album/36m9tDH81Nn65T9qoGqWdl) | 3:11 |
 | 150 | [455 Rocket](https://open.spotify.com/track/7FtuKCaePFfKqGetBYHxS1) | [Kathy Mattea](https://open.spotify.com/artist/7ndzHjxbErIwvwnEUewMWe) | [Love Travels](https://open.spotify.com/album/0CJHlDOZfCIVARQkcMgQ7m) | 4:09 |
 
-Snapshot ID: `MCxiZTk5OTI5NWEyN2YzZTZkNjlhNTEwMzMxOTdhNWYwMGU0ZDQ3ZGM5`
+Snapshot ID: `MCw2OWE4Yzc4OWExYzNiOTg3NDNjMzM3NTM5ZmE4NGUwZDU1YzBjODY1`

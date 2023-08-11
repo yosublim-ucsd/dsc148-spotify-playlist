@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-321 songs - 23 hr 5 min
+322 songs - 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Seaforth](https://open.spotify.com/track/6RRCXZcBlOrQ4GsKElW0BH) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Space Heavy](https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5) | 4:05 | 2023-04-14 |  |
 | [See Her](https://open.spotify.com/track/1VZyMJPlZ8dUvT8pzgjyXm) | [Julia Romana](https://open.spotify.com/artist/3syw2pWKHP7n8VnXhCFn3d) | [See Her](https://open.spotify.com/album/7qO6m9lcXz50UXj0KCL8ho) | 3:00 | 2022-08-31 | 2023-01-04 |
 | [Sekwar](https://open.spotify.com/track/52OBVPpbLif9YczNqUJUUd) | [Liars](https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z) | [The Apple Drop](https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ) | 4:34 | 2021-10-06 |  |
+| [setar rock](https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [setar rock](https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb) | 4:00 | 2023-08-10 |  |
 | [Setu \(feat\. Gareth Jones\)](https://open.spotify.com/track/1A86VFnly66e3OGEpoNYsL) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV) | [Setu \(feat\. Gareth Jones\)](https://open.spotify.com/album/34AeLleD5JHCTphmCLyCgI) | 4:00 | 2022-01-18 | 2023-01-04 |
 | [Shadow in the Frame](https://open.spotify.com/track/1AB51lhrNtecjP7qrfQ4fI) | [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [You Belong There](https://open.spotify.com/album/1eb8tDRzXuhb3omC50SkHt) | 5:16 | 2022-01-20 | 2023-03-18 |
 | [Shadow in the Frame](https://open.spotify.com/track/4dMsXnqzJgX1eeTu7bG3fN) | [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [Shadow in the Frame](https://open.spotify.com/album/4SIzipBgkpqyvKpGJJkbJ6) | 5:16 | 2022-01-20 | 2023-01-21 |
@@ -281,7 +282,7 @@
 | [The King](https://open.spotify.com/track/6aFYhF9iSJv4OCee099HxM) | [Anjimile](https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp) | [The King](https://open.spotify.com/album/0ouw4GHpv8UexlEOMidhwJ) | 3:44 | 2023-06-02 |  |
 | [The Lava Is Calm](https://open.spotify.com/track/3g1uQN86mg2yLHnJCuN2fR) | [Kassa Overall](https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [The Lava Is Calm](https://open.spotify.com/album/5aHkYVIe5sD87SjN4lmFvg) | 3:06 | 2023-05-12 |  |
 | [The Loop](https://open.spotify.com/track/0IqNIctRdh2N9OecaZTDDd) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [The Loop](https://open.spotify.com/album/2YHQXXuvlQ3AzQOj4NHjgF) | 4:01 | 2022-02-25 | 2022-05-13 |
-| [The Oh Zone](https://open.spotify.com/track/1nyMpGw10guuyKFtxLshVl) | [Django Django](https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab) | [Off Planet](https://open.spotify.com/album/5An8eMki7iyqgQoufrMlI0) | 2:10 | 2023-06-27 |  |
+| [The Oh Zone](https://open.spotify.com/track/1nyMpGw10guuyKFtxLshVl) | [Django Django](https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab) | [Off Planet](https://open.spotify.com/album/5An8eMki7iyqgQoufrMlI0) | 2:10 | 2023-06-27 | 2023-08-11 |
 | [The Order of the Rain](https://open.spotify.com/track/4LCsXtT1cAeERXN0gb0Kbm) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [The Order of the Rain](https://open.spotify.com/album/63gVoVz1raiZGgFldjpNKK) | 5:00 | 2022-09-22 | 2023-04-01 |
 | [The Revolution Of Super Visions](https://open.spotify.com/track/4FBxXwJfqJv5kmeJ4ciAhY) | [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Revolution Of Super Visions](https://open.spotify.com/album/4faN9KeYJRiyylygDmHqbP) | 5:01 | 2021-10-06 | 2023-02-07 |
 | [The Revolution of Super Visions](https://open.spotify.com/track/63QQBvV5qzxQ4jIPg4stP4) | [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [Flock](https://open.spotify.com/album/5akulaga7LWVPkHIqCHEgD) | 5:01 | 2021-10-06 |  |

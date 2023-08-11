@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 
 > På med fjäderboan och de gyllene skorna\. Nu ska vi dansa i neon!
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,549 likes - 52 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,555 likes - 52 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 14 | [Jag ljuger så bra](https://open.spotify.com/track/4IV8dOSLi26stONnuQg8Kf) | [Linda Bengtzing](https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV) | [Ingenting att förlora](https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l) | 3:04 |
 | 15 | [Satellit](https://open.spotify.com/track/10AwlsmVEASSiWORkKcgRo) | [Ted Gärdestad](https://open.spotify.com/artist/6zpub6jbY6CdrcqQsDq8P4) | [Blue Virgin Isles](https://open.spotify.com/album/5xHCzowaod3845uvIfXAkg) | 4:17 |
 | 16 | [Bra vibrationer](https://open.spotify.com/track/0FSlaiuv4eBrrjz05jpxz6) | [Kikki Danielsson](https://open.spotify.com/artist/3ktAhWMnoYiz6UpBEKfv5i) | [Bra vibrationer](https://open.spotify.com/album/6pTczERNVTTxtoFjfOIKWU) | 3:06 |
-| 17 | [\(Du är så\) Yeah Yeah, Wow Wow](https://open.spotify.com/track/7fsWDVy88i6gznoQtlbOio) | [Martin](https://open.spotify.com/artist/4oOULCfbuFxwC1Bv2PSR7F) | [En helt vanlig Svensson](https://open.spotify.com/album/5yFU2tACu1Fp4dwSLY6NAO) | 3:14 |
-| 18 | [Vem e som oss](https://open.spotify.com/track/20052FYa2SF5Lkp9VZTLJX) | [Anis Don Demina](https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P) | [Vem e som oss](https://open.spotify.com/album/2KX1IGf0NJMA3p1wh57Ccb) | 2:55 |
+| 17 | [Vem e som oss](https://open.spotify.com/track/20052FYa2SF5Lkp9VZTLJX) | [Anis Don Demina](https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P) | [Vem e som oss](https://open.spotify.com/album/2KX1IGf0NJMA3p1wh57Ccb) | 2:55 |
+| 18 | [\(Du är så\) Yeah Yeah, Wow Wow](https://open.spotify.com/track/7fsWDVy88i6gznoQtlbOio) | [Martin](https://open.spotify.com/artist/4oOULCfbuFxwC1Bv2PSR7F) | [En helt vanlig Svensson](https://open.spotify.com/album/5yFU2tACu1Fp4dwSLY6NAO) | 3:14 |
 | 19 | [Bada nakna](https://open.spotify.com/track/68jkh9nqSjpmRtkkA9f0ld) | [Samir & Viktor](https://open.spotify.com/artist/4SR9oxWziAoPR4kTrekBi6) | [Bada Nakna](https://open.spotify.com/album/0byn7HEBmRx4OPUYQzbcas) | 3:11 |
 | 20 | [Cara mia](https://open.spotify.com/track/4vxn2p4GbiFhnVsIASACrf) | [Måns Zelmerlöw](https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe) | [Stand By For...](https://open.spotify.com/album/0Bt2FMVJpBg0g0fFiQjqoV) | 3:04 |
 | 21 | [Alla flickor](https://open.spotify.com/track/6YGqMb6MmqcwIHaDSCA7Nq) | [Linda Bengtzing](https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV) | [Ingenting att förlora](https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l) | 2:49 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 30 | [Habibi](https://open.spotify.com/track/0PcnMWhIgWga5G7pck1Fhb) | [Dolly Style](https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs) | [Dolly Styles bästa](https://open.spotify.com/album/4UeSWAPwCYG0PUYXfTRMfE) | 2:51 |
 | 31 | [Diggiloo Diggiley](https://open.spotify.com/track/4NzirQ4BrNkVaPEla2ipG4) | [Herreys](https://open.spotify.com/artist/2uS8ryCr9KuXzh7Y4xowle) | [Diggiloo Diggiley](https://open.spotify.com/album/1aeO2MJZFZhk3E57aaYGlg) | 3:07 |
 | 32 | [As I Lay Me Down](https://open.spotify.com/track/5VIZcrKXPd9wL4hqE4YN8z) | [Wiktoria](https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi) | [As I Lay Me Down](https://open.spotify.com/album/6PaokH8pvKEe116al1OyCT) | 3:09 |
-| 33 | [Lyssna till ditt hjärta](https://open.spotify.com/track/4BhEDrbVxPgu13SQFwoDCV) | [Friends](https://open.spotify.com/artist/5mHoZyR5qy4zrCSAetmwnX) | [Lyssna till ditt hjärta](https://open.spotify.com/album/1jWedFgADqAwwe3nP3RZlA) | 3:05 |
-| 34 | [Kom och ta mig](https://open.spotify.com/track/22T3LCFXjOfxkiq5JgJacE) | [Brandsta City Släckers](https://open.spotify.com/artist/10bzvni38ThO7h6KOaHO9l) | [Rök 'n Roll](https://open.spotify.com/album/3GjCjRj6hI2tzAeKs5nIKD) | 2:57 |
+| 33 | [Kom och ta mig](https://open.spotify.com/track/22T3LCFXjOfxkiq5JgJacE) | [Brandsta City Släckers](https://open.spotify.com/artist/10bzvni38ThO7h6KOaHO9l) | [Rök 'n Roll](https://open.spotify.com/album/3GjCjRj6hI2tzAeKs5nIKD) | 2:57 |
+| 34 | [Lyssna till ditt hjärta](https://open.spotify.com/track/4BhEDrbVxPgu13SQFwoDCV) | [Friends](https://open.spotify.com/artist/5mHoZyR5qy4zrCSAetmwnX) | [Lyssna till ditt hjärta](https://open.spotify.com/album/1jWedFgADqAwwe3nP3RZlA) | 3:05 |
 | 35 | [La det swinge](https://open.spotify.com/track/1D5JiCspnkQx8L57R3qpAb) | [Bobbysocks](https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs) | [Bobbysocks / Let It Swing \- The Best Of Bobbysocks](https://open.spotify.com/album/1Y5N3dPwHgubECWrFqpG5T) | 2:56 |
 | 36 | [90\-talet](https://open.spotify.com/track/6O27WBEqkGeyq3hNYE0BdS) | [WAHL](https://open.spotify.com/artist/5tDnwIxYT1LAYH37yBqg4Z), [SAMI](https://open.spotify.com/artist/0GYJScAPulF6GTFYJOpHVr) | [90\-talet](https://open.spotify.com/album/5xdHq3shCsEXuyt3hTPBvn) | 2:56 |
 | 37 | [Ashes To Ashes](https://open.spotify.com/track/1iqxk51n6yyc6OIXu7dX8o) | [Anna Bergendahl](https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9) | [Ashes To Ashes](https://open.spotify.com/album/3PdI7t8cuGziQ76P2ooFpR) | 3:00 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 51 | [Live Forever](https://open.spotify.com/track/6yk6jU3Ia33ed2XL4V9IeW) | [Magnus Carlsson](https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB) | [Live Forever \- The Album \(Deluxe Edition\)](https://open.spotify.com/album/5g18f9GEyipB2xX2d9xy5x) | 3:02 |
 | 52 | [Michelangelo \(Men så svara då!\)](https://open.spotify.com/track/3qChO81Z9r3KDyIj4w1m4T) | [Björn Skifs](https://open.spotify.com/artist/1Ek3VdZ8EPmcvgRIqnHlrF) | [Skifs Hits!](https://open.spotify.com/album/7eL1KLHKp4jJufO6wG6YsT) | 3:16 |
 
-Snapshot ID: `MCwxNzYxOTM1NjgxNzA3N2ViNmIxZjA5MTY3MzdlYjdmZTE5OWQzNzBi`
+Snapshot ID: `MCwwYTc3NTVkNTllMGE1OGUxMGJlMzdjYjA1MTgzNWRmODdhYmQwMDcz`

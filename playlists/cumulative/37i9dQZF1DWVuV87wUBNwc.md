@@ -2,7 +2,7 @@
 
 ### [Hits du Moment](https://open.spotify.com/playlist/37i9dQZF1DWVuV87wUBNwc)
 
-> Mentissa au sommet de la première playlist de France.
+> Jason Derulo au sommet de la première playlist de France.
 
 54 songs - 2 hr 45 min
 

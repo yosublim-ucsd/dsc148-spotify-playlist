@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 
 > All the classic songs you love—covered\. Cover: Brandi Carlile
 
-[Spotify](https://open.spotify.com/user/spotify) - 685,675 likes - 110 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 685,760 likes - 110 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 35 | [I Can Help](https://open.spotify.com/track/6jA2i54oeB8cq1c3YF2YQG) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [I Can Help](https://open.spotify.com/album/5pDNnHHXe81EWs39cvhSjk) | 3:38 |
 | 36 | [Enjoy The Silence](https://open.spotify.com/track/4PZa10hp40IiPySg7MGYbl) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [French Touch](https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ) | 3:14 |
 | 37 | [I Melt with You](https://open.spotify.com/track/2klm5iA7LfNZBdip5hAeVL) | [Daulton Hopkins](https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS) | [I Melt with You](https://open.spotify.com/album/52bkZUrqk2yqMChTrt7bQS) | 3:37 |
-| 38 | [Wild World \- Acoustic Version](https://open.spotify.com/track/0ZWSpn7UgqAp4exbKEUD5g) | [Joanna Wang](https://open.spotify.com/artist/1km0aro5NJuoX5dE0Mub5C) | [为爱做的一切](https://open.spotify.com/album/019FOSKZXxS56quC2Wmb1K) | 3:45 |
-| 39 | [Here Comes the Sun](https://open.spotify.com/track/6fRGlpbaHqgJpRirqWKif7) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Here Comes the Sun](https://open.spotify.com/album/2GXqBtE35cbS4TKzm5Tlb1) | 2:21 |
+| 38 | [Here Comes the Sun](https://open.spotify.com/track/6fRGlpbaHqgJpRirqWKif7) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Here Comes the Sun](https://open.spotify.com/album/2GXqBtE35cbS4TKzm5Tlb1) | 2:21 |
+| 39 | [Wild World \- Acoustic Version](https://open.spotify.com/track/0ZWSpn7UgqAp4exbKEUD5g) | [Joanna Wang](https://open.spotify.com/artist/1km0aro5NJuoX5dE0Mub5C) | [为爱做的一切](https://open.spotify.com/album/019FOSKZXxS56quC2Wmb1K) | 3:45 |
 | 40 | [In My Life](https://open.spotify.com/track/7Dprt8s1FohodJYtCNcM4a) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 2:57 |
 | 41 | [America](https://open.spotify.com/track/228IDYsx1EAHiuh9xLktmj) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [America](https://open.spotify.com/album/1LbsN7ZwjjnafolKPbnDZK) | 3:38 |
 | 42 | [Somewhere Only We know \- Live from Spotify, London](https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Spotify Sessions](https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z) | 3:47 |
@@ -78,25 +78,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 68 | [\(You Make Me Feel Like\) a Natural Woman \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Spotify Singles](https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr) | 3:02 |
 | 69 | [Always On My Mind](https://open.spotify.com/track/6xgZswMoI5ncV8e5jhiRsC) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Leave Me Breathless](https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy) | 3:26 |
 | 70 | [Helplessly Hoping](https://open.spotify.com/track/3p3wBH07OgxSIxyGUmqNl4) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Helplessly Hoping](https://open.spotify.com/album/3StDwAhArvL2O43axaJCSA) | 2:39 |
-| 71 | [Stranger In A Strange Land](https://open.spotify.com/track/6yGXIjPdJXL0Sj9ZKC1aNN) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Stranger In A Strange Land](https://open.spotify.com/album/2MvZ4DqKXTCpKJxcgbl8SY) | 4:48 |
-| 72 | [Dreams](https://open.spotify.com/track/1K0Shi82LENoyXxAjJj8XG) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Dreams](https://open.spotify.com/album/6wAglOLfrqaHTBY8LmUcUF) | 3:35 |
+| 71 | [Dreams](https://open.spotify.com/track/1K0Shi82LENoyXxAjJj8XG) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Dreams](https://open.spotify.com/album/6wAglOLfrqaHTBY8LmUcUF) | 3:35 |
+| 72 | [Stranger In A Strange Land](https://open.spotify.com/track/6yGXIjPdJXL0Sj9ZKC1aNN) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Stranger In A Strange Land](https://open.spotify.com/album/2MvZ4DqKXTCpKJxcgbl8SY) | 4:48 |
 | 73 | [Love and Happiness](https://open.spotify.com/track/2Q4iDZrwPmn5aEqWFYyPR2) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Sobrevolando](https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli) | 5:08 |
 | 74 | [It's Too Late](https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Again / It's Too Late](https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc) | 3:17 |
 | 75 | [You Never Can Tell](https://open.spotify.com/track/1GLMm7mMGNZznCUDr5JOkX) | [Elise LeGrow](https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8) | [Playing Chess](https://open.spotify.com/album/2Ob030pqqBl9S3DZ6kddLU) | 3:05 |
 | 76 | [Into The Mystic](https://open.spotify.com/track/2pYFL5jaZhhPSAy0sYQ2oj) | [Andy Kong](https://open.spotify.com/artist/0Qrp8cpHBz47dbOyPfzzhP) | [Into The Mystic](https://open.spotify.com/album/6v01VtaOOLotmKhVpje5CX) | 2:48 |
-| 77 | [I Remember Everything](https://open.spotify.com/track/1J6OHcQjnrD0upP4skciHO) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [I Remember Everything](https://open.spotify.com/album/3ei2zsbxwzra1rMmokmYZM) | 2:36 |
-| 78 | [Believe](https://open.spotify.com/track/1ty3N197je3o1dN0F6Fu1G) | [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [Believe](https://open.spotify.com/album/2fEYL3YBVILeEuiKJL7S2n) | 3:56 |
+| 77 | [Believe](https://open.spotify.com/track/1ty3N197je3o1dN0F6Fu1G) | [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [Believe](https://open.spotify.com/album/2fEYL3YBVILeEuiKJL7S2n) | 3:56 |
+| 78 | [I Remember Everything](https://open.spotify.com/track/1J6OHcQjnrD0upP4skciHO) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [I Remember Everything](https://open.spotify.com/album/3ei2zsbxwzra1rMmokmYZM) | 2:36 |
 | 79 | [Norwegian Wood](https://open.spotify.com/track/2EK3UM0CKpjxMVk6JWRONr) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Lennon Bermuda](https://open.spotify.com/album/5oprSAJ9hPKahkUBBSbOQj) | 2:23 |
 | 80 | [Blue Skies](https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Blue Skies](https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR) | 2:34 |
 | 81 | [Let’s Dance](https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Transfiguration of Vincent](https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS) | 5:00 |
 | 82 | [And It Stoned Me \(Cover\)](https://open.spotify.com/track/2sRkcqgxX11ylhpatCauqC) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Sunday Night Sessions](https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs) | 4:56 |
 | 83 | [Eye Of The Tiger](https://open.spotify.com/track/6qNuZL98ZSFOzIuG5zJrAj) | [The Rural Alberta Advantage](https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23) | [Drain The Blood](https://open.spotify.com/album/2IpHSccHdJGTncaiuSKBjI) | 3:00 |
 | 84 | [What's up](https://open.spotify.com/track/7Ie1Iuekjwht6Va8znzBKL) | [Geneviève Leclerc](https://open.spotify.com/artist/7oDXuMYxcBgaOfnuyngHAd) | [Portfolio](https://open.spotify.com/album/3freiCvxkilL9n9VFnFAWx) | 3:27 |
-| 85 | [Home](https://open.spotify.com/track/0xi6e2yX8GxvygU2g4noDc) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Home](https://open.spotify.com/album/7HJujLCjpNW735tY2vhgmc) | 3:32 |
-| 86 | [Hey Jude](https://open.spotify.com/track/3tNyFKxcFszV0TiDDJsYVx) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Now](https://open.spotify.com/album/2x7QaKvvJ45DcYl78JCf25) | 4:31 |
+| 85 | [Hey Jude](https://open.spotify.com/track/3tNyFKxcFszV0TiDDJsYVx) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Now](https://open.spotify.com/album/2x7QaKvvJ45DcYl78JCf25) | 4:31 |
+| 86 | [Home](https://open.spotify.com/track/0xi6e2yX8GxvygU2g4noDc) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Home](https://open.spotify.com/album/7HJujLCjpNW735tY2vhgmc) | 3:32 |
 | 87 | [When a Man Loves a Woman](https://open.spotify.com/track/2kPyPBMVkoAdT5yxgn0u6V) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Covers](https://open.spotify.com/album/6ScyNuk1CrlwG4P3yf5rjo) | 4:08 |
-| 88 | [Man in the Mirror](https://open.spotify.com/track/4XTqOeJ9nLeNCHy2fXYi5T) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Rozzi](https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82) | [Man in the Mirror](https://open.spotify.com/album/5VleQQSPbU6LEzONZK38F5) | 3:30 |
-| 89 | [Eleanor Rigby](https://open.spotify.com/track/0EbFmS2uZycsxJfg6jvlrn) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Greatest Hits And Others](https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj) | 2:20 |
+| 88 | [Eleanor Rigby](https://open.spotify.com/track/0EbFmS2uZycsxJfg6jvlrn) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Greatest Hits And Others](https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj) | 2:20 |
+| 89 | [Man in the Mirror](https://open.spotify.com/track/4XTqOeJ9nLeNCHy2fXYi5T) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Rozzi](https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82) | [Man in the Mirror](https://open.spotify.com/album/5VleQQSPbU6LEzONZK38F5) | 3:30 |
 | 90 | [I Won't Back Down \- Live](https://open.spotify.com/track/0xmbLELG8S9b49SrdnOj7A) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Judah & The Lion \(Live\)](https://open.spotify.com/album/67GBzlYsDzYVJvdQ9l5HXy) | 3:47 |
 | 91 | [Never Surrender](https://open.spotify.com/track/4qdjWOHbHdRxWT3JJ4tpfW) | [Dante Hart](https://open.spotify.com/artist/5ZUAJ4QVAKFlnqGh31i7o6) | [Never Surrender](https://open.spotify.com/album/3fzEZMNKVPO9ty8QPg0cH9) | 3:48 |
 | 92 | [A Case of You](https://open.spotify.com/track/5c6VpFSGVRfe6cNYm85zI0) | [Noah Reid](https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT) | [A Case of You](https://open.spotify.com/album/4Kac74ulpXDAqVyvnyzsna) | 3:10 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 109 | [Didn't Want to Have to Do It](https://open.spotify.com/track/6UdTSQDnAFyvnxMRXBFzlN) | [Lady Apple Tree](https://open.spotify.com/artist/3AZOpYsQ1QPmgaVF2TCVrd) | [Didn't Want to Have to Do It](https://open.spotify.com/album/5vj1DEd1P5FD0BU4ZTaDbr) | 4:24 |
 | 110 | [You'll Never Walk Alone](https://open.spotify.com/track/1x8Wm6urdzbDZcWpjtIUTK) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [You'll Never Walk Alone](https://open.spotify.com/album/7CAxZhdr8hiyDQYJrF8UnM) | 1:58 |
 
-Snapshot ID: `MCw3NGE3YTJhMzA2OWU2OGJjNjA1MTQwNTQzMGQ2NjhhNDE1NjhiOTY1`
+Snapshot ID: `MCw1YThmY2I4NmMxZjA1ODVkZDk3OGU5MWE4MDNjYTA4ZmUwYzU3ZDI0`

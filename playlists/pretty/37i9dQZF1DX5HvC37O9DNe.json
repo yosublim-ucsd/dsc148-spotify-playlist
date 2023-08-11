@@ -1,12 +1,12 @@
 {
   "description": "Semplicemente noi.",
-  "num_followers": 98143,
+  "num_followers": 98196,
   "original_name": "Tra Amiche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2Q2ZDJiYjg1NmI4NGY4NzJjYzcyYjBlNjgwMmYzYmM5NzczZmRh",
+  "snapshot_id": "MCw3NGI5YWVlODg4NThjNWQ5ZThiZWJhYjAyNWFjNDhiMjJmZmUzM2U0",
   "tracks": [
     {
       "added_at": "2023-08-02 15:43:42",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-08-02 15:43:42",
       "album": {
-        "name": "BE",
-        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 199053,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
-    },
-    {
-      "added_at": "2023-08-02 15:43:42",
-      "album": {
         "name": "Good Times Go",
         "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 163025,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA"
+    },
+    {
+      "added_at": "2023-08-02 15:43:42",
+      "album": {
+        "name": "BE",
+        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 199053,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
     },
     {
       "added_at": "2023-08-02 15:43:42",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-08-02 15:43:42",
       "album": {
-        "name": "Envolver",
-        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
-    },
-    {
-      "added_at": "2023-08-02 15:43:42",
-      "album": {
         "name": "~how i'm feeling~",
         "url": "https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 162586,
       "name": "i'm so tired...",
       "url": "https://open.spotify.com/track/7LpMG3AEaIJgs62HQhAa91"
+    },
+    {
+      "added_at": "2023-08-02 15:43:42",
+      "album": {
+        "name": "Envolver",
+        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
     },
     {
       "added_at": "2023-08-02 15:43:42",

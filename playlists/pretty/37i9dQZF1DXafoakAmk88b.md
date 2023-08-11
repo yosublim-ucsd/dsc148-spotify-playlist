@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New indie driving the current\. Cover: Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,914 likes - 130 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,945 likes - 130 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 61 | [where u are \[Feat\. Dreamer Isioma\]](https://open.spotify.com/track/4pGHZRjdm1G7xWYAjgA0m4) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu), [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [where u are \[Feat\. Dreamer Isioma\]](https://open.spotify.com/album/0JJsENkkCm9U2sgfzQIi8o) | 4:31 |
 | 62 | [coogie](https://open.spotify.com/track/3kBWttZ4s6uSErpI0x3qLZ) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [coogie](https://open.spotify.com/album/6O9lTWRoILaLhlq7gSVTyf) | 3:09 |
 | 63 | [Rocket Ship](https://open.spotify.com/track/3PMX4mU6uGEVtdEufrChcQ) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Rocket Ship](https://open.spotify.com/album/7xytf2QWXPKWqI0FhAAUSW) | 1:43 |
-| 64 | [Oatmeal Pancakes](https://open.spotify.com/track/3Qazns0pMnqN6cbDJTxj9a) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Oatmeal Pancakes](https://open.spotify.com/album/68pGqsjvG8r4vvLBljvPuQ) | 3:06 |
+| 64 | [Oatmeal Pancakes](https://open.spotify.com/track/2WrVNmuf8cLlLE58Q5UweA) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Boy Toy](https://open.spotify.com/album/1wBk0x6HFBHRvIH42qyhBE) | 3:06 |
 | 65 | [free flow](https://open.spotify.com/track/1UxiPpx3EC2SqFmGoqlXOy) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [free flow](https://open.spotify.com/album/01Fg6wIgT1NDXys8UPTJsK) | 3:23 |
 | 66 | [I Hope I Packed A Parachute \(feat\. Charlotte Cardin\)](https://open.spotify.com/track/2AB27ZGxzb8z2rwTvdCDif) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Better Luck In The Next Life](https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH) | 3:37 |
 | 67 | [Best One](https://open.spotify.com/track/5ZIpwHR8KLeo6qibMb5nRI) | [Petite Noir](https://open.spotify.com/artist/4dGwtd1FYag1VY1vaR1U8y) | [MotherFather](https://open.spotify.com/album/6G76PblQXf5i8JB7mC0mv3) | 2:31 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 129 | [Postman](https://open.spotify.com/track/0xXuP97Ap5hThLMNjVVRZq) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Postman b/w Magazine](https://open.spotify.com/album/583AzFOPRiKWBTj6Dz0F1Z) | 2:40 |
 | 130 | [Only The Lonely](https://open.spotify.com/track/2vf6KIEKiEEyc1OGr97TII) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Only The Lonely](https://open.spotify.com/album/2r4VTLpIKfKm9tUNIdylPk) | 3:52 |
 
-Snapshot ID: `MCxkNmI2MTUyZmY3OGE5ZGY3YmRhMzcwYjNkNzQ4NGRmZmU3Yjg3YTNi`
+Snapshot ID: `MCwyYTk5YjRkMGE3NTEzNGI1OWY5ZmUyMjEzYzEwMWQxZjY4ODhlZjYw`

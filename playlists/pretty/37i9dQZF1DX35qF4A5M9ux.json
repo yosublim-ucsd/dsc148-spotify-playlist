@@ -1,12 +1,12 @@
 {
   "description": "\u00a1\u00c9xitos salseros para prenderle fuego a la pista de baile!",
-  "num_followers": 240518,
+  "num_followers": 240715,
   "original_name": "Salsa de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDhhMzU3NjVlNDdiZDIyZmUwYWYzMWUxMjk5MzM4NzRjNzRhN2Iw",
+  "snapshot_id": "MCwyMDFjYmVhMjE5MzMwNGU5YmE2MGU4MDA2ZGE3NWZhOTEyYzQwZGU3",
   "tracks": [
     {
       "added_at": "2022-08-04 20:14:51",
@@ -175,22 +175,6 @@
     {
       "added_at": "2022-08-04 20:14:51",
       "album": {
-        "name": "En Tiempo De Amor",
-        "url": "https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl"
-      },
-      "artists": [
-        {
-          "name": "Maelo Ruiz",
-          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
-        }
-      ],
-      "duration_ms": 292920,
-      "name": "Te Va A Doler",
-      "url": "https://open.spotify.com/track/2ozSogNm6z9G2Uv6a9iji4"
-    },
-    {
-      "added_at": "2022-08-04 20:14:51",
-      "album": {
         "name": "Men in Salsa",
         "url": "https://open.spotify.com/album/1yyEE7SQcJDHfFU8LtYfx4"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 251253,
       "name": "Tu Cari\u00f1ito",
       "url": "https://open.spotify.com/track/5uRd1tmUAvfFGSPR5266Xp"
+    },
+    {
+      "added_at": "2022-08-04 20:14:51",
+      "album": {
+        "name": "En Tiempo De Amor",
+        "url": "https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl"
+      },
+      "artists": [
+        {
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+        }
+      ],
+      "duration_ms": 292920,
+      "name": "Te Va A Doler",
+      "url": "https://open.spotify.com/track/2ozSogNm6z9G2Uv6a9iji4"
     },
     {
       "added_at": "2022-08-04 20:14:51",
@@ -515,6 +515,22 @@
     {
       "added_at": "2022-08-04 20:14:51",
       "album": {
+        "name": "De Verdad (15 Super Exitos)",
+        "url": "https://open.spotify.com/album/7x4yJrZW7V1XdazGp7owXr"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 283213,
+      "name": "M\u00eda",
+      "url": "https://open.spotify.com/track/6HJCGXNww93AIaaxUb7C3O"
+    },
+    {
+      "added_at": "2022-08-04 20:14:51",
+      "album": {
         "name": "Amanec\u00ed Contigo Y Sin Tab\u00fa",
         "url": "https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 307200,
       "name": "Peque\u00f1as Cosas",
       "url": "https://open.spotify.com/track/36T4XY4vbxmw40XMJPe3zw"
-    },
-    {
-      "added_at": "2022-08-04 20:14:51",
-      "album": {
-        "name": "De Verdad (15 Super Exitos)",
-        "url": "https://open.spotify.com/album/7x4yJrZW7V1XdazGp7owXr"
-      },
-      "artists": [
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 283213,
-      "name": "M\u00eda",
-      "url": "https://open.spotify.com/track/6HJCGXNww93AIaaxUb7C3O"
     },
     {
       "added_at": "2022-08-04 20:14:51",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-08-04 20:14:51",
       "album": {
-        "name": "Llego La Salsa",
-        "url": "https://open.spotify.com/album/45Aa2zCt6Y20hqGxVjI0tI"
-      },
-      "artists": [
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        }
-      ],
-      "duration_ms": 278871,
-      "name": "Detalles",
-      "url": "https://open.spotify.com/track/4YOz0Fl5q0cXanSCUtsW13"
-    },
-    {
-      "added_at": "2022-08-04 20:14:51",
-      "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/4ihlEk0yuvUpKGSX8A9ITz"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 321200,
       "name": "Casi Te Envidio",
       "url": "https://open.spotify.com/track/3lfWaQLyg71Uar9gAgFVWV"
+    },
+    {
+      "added_at": "2022-08-04 20:14:51",
+      "album": {
+        "name": "Llego La Salsa",
+        "url": "https://open.spotify.com/album/45Aa2zCt6Y20hqGxVjI0tI"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "duration_ms": 278871,
+      "name": "Detalles",
+      "url": "https://open.spotify.com/track/4YOz0Fl5q0cXanSCUtsW13"
     },
     {
       "added_at": "2022-08-04 20:14:51",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-08-04 20:14:51",
       "album": {
-        "name": "Sentimental de Punta a Punta",
-        "url": "https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2"
-      },
-      "artists": [
-        {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
-        }
-      ],
-      "duration_ms": 336640,
-      "name": "Te Amo, Te Extra\u00f1o",
-      "url": "https://open.spotify.com/track/0GHCgZdI5W324Byq24qJdF"
-    },
-    {
-      "added_at": "2022-08-04 20:14:51",
-      "album": {
         "name": "Un Sue\u00f1o Y Nada M\u00e1s",
         "url": "https://open.spotify.com/album/0Be08NMtq8dwdVqLCHJoZ0"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 278613,
       "name": "Un Sue\u00f1o Y Nada Mas",
       "url": "https://open.spotify.com/track/2bVisOYbfWI29XxWEdTKSX"
+    },
+    {
+      "added_at": "2022-08-04 20:14:51",
+      "album": {
+        "name": "Sentimental de Punta a Punta",
+        "url": "https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        }
+      ],
+      "duration_ms": 336640,
+      "name": "Te Amo, Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/0GHCgZdI5W324Byq24qJdF"
     },
     {
       "added_at": "2022-08-04 20:14:51",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2022-08-04 20:14:51",
       "album": {
-        "name": "Descarga Espectacular",
-        "url": "https://open.spotify.com/album/6NK3Dj0pKVYzY7IUsTDsvP"
-      },
-      "artists": [
-        {
-          "name": "Fruko Y Sus Tesos",
-          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
-        }
-      ],
-      "duration_ms": 297386,
-      "name": "Cachondea",
-      "url": "https://open.spotify.com/track/4TedxdAWvmtDCpYY9M6kue"
-    },
-    {
-      "added_at": "2022-08-04 20:14:51",
-      "album": {
         "name": "Nelson D\u00edaz y la Constelaci\u00f3n",
         "url": "https://open.spotify.com/album/09vJMrho92acNaYIBvqcVi"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 261591,
       "name": "Mujer Ara\u00f1a",
       "url": "https://open.spotify.com/track/2fDsUZOpQriPe84trnuwXs"
+    },
+    {
+      "added_at": "2022-08-04 20:14:51",
+      "album": {
+        "name": "Descarga Espectacular",
+        "url": "https://open.spotify.com/album/6NK3Dj0pKVYzY7IUsTDsvP"
+      },
+      "artists": [
+        {
+          "name": "Fruko Y Sus Tesos",
+          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
+        }
+      ],
+      "duration_ms": 297386,
+      "name": "Cachondea",
+      "url": "https://open.spotify.com/track/4TedxdAWvmtDCpYY9M6kue"
     },
     {
       "added_at": "2022-08-04 20:14:51",

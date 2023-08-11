@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan hits in one playlist\. Cover: Victor Ruz & Caspian Marvin
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,717 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,718 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 12 | [SUPAHAWT](https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [From Uganda With Love](https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL) | 1:50 |
 | 13 | [Sembera](https://open.spotify.com/track/7vgMzmsgtspbBfMVpX9JSk) | [Geosteady](https://open.spotify.com/artist/7kam501AHBrZZvvuiku9VG) | [Sembera](https://open.spotify.com/album/5waV4kXwhpQBV4Ws7d2Ppi) | 3:28 |
 | 14 | [One Bite](https://open.spotify.com/track/6OOi3c5ikce6w19EN5Mp1T) | [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES) | [One Bite](https://open.spotify.com/album/5806Vs0UN9KhUaJwKEc7TO) | 2:54 |
-| 15 | [Stuck On You](https://open.spotify.com/track/4N7uZttmsV4uQH7cGLn3z3) | [VineJohn](https://open.spotify.com/artist/3aTAgxC7LcBM44QpNlbazV) | [Stuck On You](https://open.spotify.com/album/5YSGnmVJhAVx1vzbV54Uad) | 3:03 |
-| 16 | [Cinderella](https://open.spotify.com/track/4HUfDL3FITibpGatbGUw6f) | [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM), [An\-Known](https://open.spotify.com/artist/3stZkIKmrZfjDLo1xgadxQ) | [Cinderella](https://open.spotify.com/album/2zWi7EGBKMpwU8VDLib9r2) | 3:47 |
+| 15 | [Cinderella](https://open.spotify.com/track/4HUfDL3FITibpGatbGUw6f) | [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM), [An\-Known](https://open.spotify.com/artist/3stZkIKmrZfjDLo1xgadxQ) | [Cinderella](https://open.spotify.com/album/2zWi7EGBKMpwU8VDLib9r2) | 3:47 |
+| 16 | [Stuck On You](https://open.spotify.com/track/4N7uZttmsV4uQH7cGLn3z3) | [VineJohn](https://open.spotify.com/artist/3aTAgxC7LcBM44QpNlbazV) | [Stuck On You](https://open.spotify.com/album/5YSGnmVJhAVx1vzbV54Uad) | 3:03 |
 | 17 | [Pretty Young Thing](https://open.spotify.com/track/67hRQkotvl3eGiEYD3r8FK) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Pretty Young Thing](https://open.spotify.com/album/7pAqhUVUSXlXl7ANiO8KgF) | 3:10 |
 | 18 | [Nkwata Bulungi \(Bailamos\)](https://open.spotify.com/track/7ov7271CIF8N5V5r6IspKw) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Nkwata Bulungi \(Bailamos\)](https://open.spotify.com/album/5z0xDgKDEnZGSPUxIcikEV) | 3:07 |
 | 19 | [Tutu Mama](https://open.spotify.com/track/3J12BNX50z4OsGpmihm4LG) | [Elijah Kitaka](https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6), [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES) | [Bedroom Essentials](https://open.spotify.com/album/1UNHyhwVrEpDXadpnPQeF4) | 3:06 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 41 | [Best Friend](https://open.spotify.com/track/2gmdaA7MrBs64moq2lJZzg) | [Chwezimadeit](https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm), [Andy Muzic](https://open.spotify.com/artist/79oZcy8wWml3rDoZv8A47z), [Kyvo Bouy](https://open.spotify.com/artist/3DEny7mL5yyeEDPYXdO3ky) | [Best Friend](https://open.spotify.com/album/3TPSJTBY0UhdQNt7NSlYwT) | 2:53 |
 | 42 | [Fertilizer](https://open.spotify.com/track/10JDfsIelDol1IxN2PCEnG) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Fertilizer](https://open.spotify.com/album/6Pz7K5KdsXCbk5CybkwIlp) | 2:55 |
 | 43 | [BESTIE](https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn) | [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [BESTIE](https://open.spotify.com/album/6CgzHPFRksIENlDpsyzXUB) | 2:53 |
-| 44 | [CHERRY SWEET](https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [CHERRY SWEET](https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG) | 2:10 |
+| 44 | [Kyaani](https://open.spotify.com/track/5NvvaLZbvtjpzGBPxOARQd) | [Ykee Benda](https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq) | [Kyaani](https://open.spotify.com/album/7rTJ4wYCUqLnDQN0Wrwdij) | 2:58 |
 | 45 | [Mama I Made It](https://open.spotify.com/track/1S3GfaCHCtLajfFXvmxueH) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124) | [WATERSHED](https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq) | 2:17 |
-| 46 | [Kyaani](https://open.spotify.com/track/5NvvaLZbvtjpzGBPxOARQd) | [Ykee Benda](https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq) | [Kyaani](https://open.spotify.com/album/7rTJ4wYCUqLnDQN0Wrwdij) | 2:58 |
+| 46 | [CHERRY SWEET](https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [CHERRY SWEET](https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG) | 2:10 |
 | 47 | [Bbuba](https://open.spotify.com/track/5QhpJ1fuYEwuUNUeaUPBqz) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [Bbuba](https://open.spotify.com/album/0OtlaMUzvSQHITLDdyEuq3) | 3:24 |
 | 48 | [Nothing \- Remix](https://open.spotify.com/track/3N43i0lIHOir3AiR1ipwxf) | [Elijah Kitaka](https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6), [The Mith](https://open.spotify.com/artist/1xGpeTWvpYbkDTpP5dXyNf), [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1), [Wonder Jr](https://open.spotify.com/artist/4ZVv4tXo58qTVMrmHlvXBs), [TimothyCODE](https://open.spotify.com/artist/60JDOqQkDDSJsJvj5YSGCA), [Vyper Ranking](https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ) | [Nothing \(Remix\)](https://open.spotify.com/album/5HXT6evuxXlZWxtlZfngUl) | 4:50 |
 | 49 | [Wangi](https://open.spotify.com/track/5TXU3a3csDRY2vyqEGItBK) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Wangi](https://open.spotify.com/album/29C4HfzA6cLMNC7mttlUUT) | 2:36 |
 | 50 | [Love Marijuana](https://open.spotify.com/track/7GctU12PSvlJfcBvPAa5wS) | [C\. Wyne Nalukalala](https://open.spotify.com/artist/6GfmHbp4fk5dVif11Efbly), [Mungo's Hi Fi](https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK) | [Love Marijuana](https://open.spotify.com/album/5pj7QvTw5ZgQ9iQtJGOwl1) | 3:48 |
 
-Snapshot ID: `MCw4NTVlNTFkZTRkMjMxYTMxNDcwMjM2M2NjZjMxMjc4YWE2MmViODA3`
+Snapshot ID: `MCw1OTE3OGQ4NGJiNjUzMWY5YWM1ODdjOTAzNjBlNGQ5MGM5NTU2Njcz`

@@ -1,12 +1,12 @@
 {
   "description": "It\u2019s early 2010s, you\u2019ve got sillybandz on your wrist, a mustache tattoo on your finger, and angry birds on your iphone. Cover: LMFAO & Lil Jon ",
-  "num_followers": 23717,
+  "num_followers": 24044,
   "original_name": "Swag ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmIwM2E0ODE5ZTA1ZWZlYzg5NTNlNjlkZTg1MTg3NGQzNjUzZGFm",
+  "snapshot_id": "MCxhMzhiYzE2MTkwOTAzMjFhNmJkZjVmMWNmODk3OGQyNTVmOWEyYzdj",
   "tracks": [
     {
       "added_at": "2023-06-09 22:55:10",
@@ -1371,6 +1371,26 @@
       "duration_ms": 187840,
       "name": "Gucci Gucci",
       "url": "https://open.spotify.com/track/1ea97AUSazu2QZw9BnHJqK"
+    },
+    {
+      "added_at": "2023-06-09 22:55:10",
+      "album": {
+        "name": "Epiphany (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6CrSEKCF4TYrbSIitegb3h"
+      },
+      "artists": [
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        },
+        {
+          "name": "Yung Joc",
+          "url": "https://open.spotify.com/artist/23LbwefIODbyGdRbAz3urj"
+        }
+      ],
+      "duration_ms": 227960,
+      "name": "Buy U a Drank (Shawty Snappin') (feat. Yung Joc)",
+      "url": "https://open.spotify.com/track/1tkMs9wDPknQ3ZHcKDw1ES"
     },
     {
       "added_at": "2023-06-09 22:55:10",

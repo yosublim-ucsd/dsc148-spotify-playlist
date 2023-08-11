@@ -2,9 +2,9 @@
 
 ### [The Locker](https://open.spotify.com/playlist/37i9dQZF1DWYmDNATMglFU)
 
-> it's a generation ⛓ ft\. LØLØ
+> it's a generation ⛓ ft\. neck deep
 
-598 songs - 1 day 5 hr 53 min
+604 songs - 1 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Back and Forth](https://open.spotify.com/track/5dn10JRAyRJQ4CwChvH36u) | [Bronnie](https://open.spotify.com/artist/6xAfmpNG113QC08DHcQgv6) | [Back and Forth](https://open.spotify.com/album/2JZWI0ofeqQi0JNaLIGaW5) | 3:01 | 2022-12-02 | 2023-01-27 |
 | [Backtrack](https://open.spotify.com/track/7HjD2M3aBTFrTOlNsiJUxh) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Backtrack](https://open.spotify.com/album/0GL7rASvtOQDBNTGtbMpS7) | 2:38 | 2023-06-01 | 2023-06-30 |
 | [Backtrack](https://open.spotify.com/track/7qhLm7FPhf7OjuSQoezTgC) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Backtrack](https://open.spotify.com/album/1HhLhDSaSqWGTb9DEkCt68) | 2:38 | 2022-12-02 | 2023-06-02 |
+| [bad idea right?](https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [bad idea right?](https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0) | 3:04 | 2023-08-10 |  |
 | [BANG BANG!](https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [BANG BANG!](https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH) | 2:16 | 2023-02-17 |  |
 | [BARFIGHT!](https://open.spotify.com/track/4ph8md7OYogCINsOtY3YR6) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [Colours \(Deluxe\)](https://open.spotify.com/album/598Wjk55GXjRkPcGYyMDJR) | 3:06 | 2022-11-25 | 2023-05-20 |
 | [Basement Superstar](https://open.spotify.com/track/3zN7XaUqoJcpKk70QdBNiK) | [London Mars](https://open.spotify.com/artist/2R765Ip6o2SEw6HfxkxD2y) | [Basement Superstar](https://open.spotify.com/album/4gR3bkt2iYBDhG4n8xmWwB) | 2:50 | 2022-03-31 | 2022-07-22 |
@@ -71,7 +72,7 @@
 | [Bodys](https://open.spotify.com/track/1Pbs2eCcX9p2onaAvMYvhk) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Twin Fantasy](https://open.spotify.com/album/6gDtROOIYa6OQxwhDNkDRM) | 6:46 | 2022-10-20 | 2022-11-01 |
 | [boohoo](https://open.spotify.com/track/51kJeBoHeHcji1fNsSIHZV) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [debbie downer](https://open.spotify.com/album/0h5j78YPHOMhUD1PNLlmp9) | 3:04 | 2022-09-29 | 2023-05-20 |
 | [Bookie's Dirtbag](https://open.spotify.com/track/4RWbO2RDo6yyA12R3TNVsx) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV), [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Bookie's Dirtbag](https://open.spotify.com/album/5mxfUmBRoMzVoDW8bFeq1K) | 4:00 | 2022-12-02 | 2023-04-28 |
-| [Boomerang](https://open.spotify.com/track/6WAnCthQkSQG17scgIkEhs) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Boomerang](https://open.spotify.com/album/4ASpLHLdbuxlKM4gTaOwlK) | 2:47 | 2023-05-25 |  |
+| [Boomerang](https://open.spotify.com/track/6WAnCthQkSQG17scgIkEhs) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Boomerang](https://open.spotify.com/album/4ASpLHLdbuxlKM4gTaOwlK) | 2:47 | 2023-05-25 | 2023-08-11 |
 | [boyfriend](https://open.spotify.com/track/7I5Nx5XlEAolrnQEnDcblx) | [lleo](https://open.spotify.com/artist/0zXY7bBZFvl0mNxPxzo1e4) | [boyfriend](https://open.spotify.com/album/32IYSWV4RkXN5bqWPS486t) | 2:48 | 2023-04-13 | 2023-06-16 |
 | [boyfriend \(cover\)](https://open.spotify.com/track/7io7wBHscJQPeHOrHr0gFN) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [boyfriend \(cover\)](https://open.spotify.com/album/2RW62PtBacjHBKXif8Nbhk) | 1:42 | 2022-01-07 | 2022-02-04 |
 | [Brackish](https://open.spotify.com/track/6lqwRfIHYRiJ7M9xfLqcRx) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit](https://open.spotify.com/album/1afkQWD3zQlhOQLRRdZrOu) | 3:09 | 2022-10-20 | 2022-11-01 |
@@ -91,6 +92,7 @@
 | [California](https://open.spotify.com/track/5RmGKBLOYl9hbNE7BuDmur) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [girlfriends](https://open.spotify.com/album/3cuyb6sSpCSEc6TLBh1sUQ) | 2:43 | 2021-12-31 | 2022-01-08 |
 | [Call Me Never](https://open.spotify.com/track/4No3g1xYAXAyxYU4LQLZEq) | [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl) | [Call Me Never](https://open.spotify.com/album/0BfKHzKddDMfm0G3Ou3qUS) | 3:02 | 2022-07-14 | 2023-02-03 |
 | [Can't Be Saved](https://open.spotify.com/track/63k8KXOgawK2cNtvm2ZW8y) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/76avO7AfsTAMe4dvVV3Wwj) | 3:07 | 2022-10-20 | 2022-11-01 |
+| [Candy Apple](https://open.spotify.com/track/20uwCFdYyUHOhKZ3xGhrQh) | [Teenage Joans](https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE) | [Candy Apple](https://open.spotify.com/album/1oNoQWHRmr3ADNwAGO9dB6) | 3:46 | 2023-08-10 |  |
 | [Cannonball](https://open.spotify.com/track/6xXzhKhNNmBJ4q0Qzw485o) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:18 | 2022-02-25 | 2022-07-22 |
 | [Car Underwater](https://open.spotify.com/track/4CilIy3dA3P9Tq2NFqKEOX) | [Armor For Sleep](https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H) | [What To Do When You Are Dead](https://open.spotify.com/album/6kYEwpX4miUeuyPLyvq7lK) | 3:48 | 2022-10-20 | 2022-11-01 |
 | [CAROLINE](https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [CAROLINE](https://open.spotify.com/album/7o4LMz7AI7szCT5QJacZ7n) | 3:12 | 2023-01-13 | 2023-02-17 |
@@ -197,6 +199,7 @@
 | [Faded](https://open.spotify.com/track/754aVVHqjB1LywcCLaRoZP) | [happydaze](https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR) | [Faded](https://open.spotify.com/album/37E7LCPfCt35D3pmJzSwIR) | 3:10 | 2023-02-24 | 2023-03-31 |
 | [FALLING FROM MY GRACE](https://open.spotify.com/track/6t3MI9dLi4DJOHz15bE0uJ) | [LESANE](https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L) | [FALLING FROM MY GRACE](https://open.spotify.com/album/1Kt4pp8S77Lkr9fHv5BPfG) | 2:47 | 2022-07-07 | 2022-09-16 |
 | [Famous](https://open.spotify.com/track/1te0wzOWRVnKXF49lAztVq) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG), [LaLotus](https://open.spotify.com/artist/7e5cGwWgUr0VyoaWa2h8XZ) | [Famous](https://open.spotify.com/album/0rfBEU8mBh0Il5Pagpam4e) | 3:54 | 2023-07-27 |  |
+| [Favourite Toy](https://open.spotify.com/track/7LwtKDNVK0s08ZoNkqlCzP) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Favourite Toy](https://open.spotify.com/album/6BkAzEqhZ7E9R6QfBJnjha) | 3:01 | 2023-08-10 |  |
 | [Fcked Up Teeth](https://open.spotify.com/track/3TpGGphdlSMOW7XIjq4hEG) | [Damien Styles](https://open.spotify.com/artist/2WkZEXhzMMa2osE1yKu7SL) | [Fcked Up Teeth](https://open.spotify.com/album/6bsiQWW6O3PBOFYPNXUQFS) | 3:01 | 2022-03-04 | 2022-07-22 |
 | [feel something at all](https://open.spotify.com/track/1QdFmLI6BdG9JVMMfJuWsd) | [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79) | [feel something at all](https://open.spotify.com/album/0hFsv0cHXJTjjXIAxWHVWe) | 2:28 | 2022-12-16 | 2023-06-09 |
 | [Feeling](https://open.spotify.com/track/73tqtULumqSsGZ9wpTDTmK) | [Youv Dee](https://open.spotify.com/artist/5P3mgWx3KvnURMhlVm5pMS) | [Feeling](https://open.spotify.com/album/61yAXlU5EH5wWHZYTBvHnB) | 3:38 | 2023-01-27 | 2023-02-24 |
@@ -503,6 +506,7 @@
 | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/track/1QL7nSDZCwZMnbisV4KOXt) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/album/4ar4zcVlbYDYKgq5wEdq0T) | 2:48 | 2021-12-31 | 2022-01-08 |
 | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/track/5JKnYZOhSP7rOK0jPYcCjV) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [lately I feel EVERYTHING](https://open.spotify.com/album/1dg0gmrCaEbENVXpPIvi1m) | 2:48 | 2022-03-31 | 2023-01-27 |
 | [T.M.I](https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:45 | 2023-03-10 |  |
+| [Take Me With You](https://open.spotify.com/track/3GpoRL1PBnTerVSaVG5tGW) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Take Me With You](https://open.spotify.com/album/5nlMjtTBb8QwtiWs7TY8L4) | 3:17 | 2023-08-10 |  |
 | [TAKE THIS CROWN \(feat\. Good Charlotte\)](https://open.spotify.com/track/2IY9lQ8pD2uVzAoIxJUPK8) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [TAKE THIS CROWN \(feat\. Good Charlotte\)](https://open.spotify.com/album/5A4pLq7sNTS4kdEnd6lN9M) | 3:35 | 2022-09-01 | 2022-11-18 |
 | [Talk](https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Talk](https://open.spotify.com/album/2UqdKTiPEdLx7IqEeZ7CWV) | 2:38 | 2022-03-25 | 2022-05-13 |
 | [Talk to the Manager](https://open.spotify.com/track/6VwYar2bUoqpAACG8v1WTU) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Talk to the Manager](https://open.spotify.com/album/70Xf42Rgn6ia7rjdCjSBGb) | 3:26 | 2022-09-22 | 2022-11-18 |
@@ -550,6 +554,7 @@
 | [Toaster For A Swim](https://open.spotify.com/track/3o5fFjZNcwZnKwF8deFHL0) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [\(e\)motion sickness](https://open.spotify.com/album/19QF8Q16dquh9yICxiJKEf) | 3:14 | 2022-08-27 | 2023-04-21 |
 | [Too Many Things](https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Too Many Things](https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx) | 2:35 | 2023-04-13 |  |
 | [Too Soon](https://open.spotify.com/track/2idpJZnXSvfURT7xk9iYF0) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Loud Without Noise](https://open.spotify.com/album/2dAeC1Va8oTjkXEZ2laVxO) | 3:10 | 2022-11-04 | 2023-02-10 |
+| [too young.](https://open.spotify.com/track/3odZxZFIrKMcYxH86UonVn) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [too young.](https://open.spotify.com/album/6M3vNH4T111GlOh17AYKFB) | 3:19 | 2023-08-10 |  |
 | [TOOTHPASTE](https://open.spotify.com/track/0cMii2XXSNRl7bS2sFJMle) | [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79) | [GOODGRIEF](https://open.spotify.com/album/0iHirYdH4xyeJrdVtXmhUQ) | 2:54 | 2022-07-29 | 2022-09-09 |
 | [Toxic](https://open.spotify.com/track/1X6Hw2IJSdgIqwrhwZ84cZ) | [Boy Bleach](https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V) | [Toxic](https://open.spotify.com/album/6nMAMG5O1iNCQlyBEUeDM8) | 3:15 | 2022-09-29 | 2023-03-31 |
 | [TOXIC \(with POORSTACY\)](https://open.spotify.com/track/75FYDtqlseNpc63QjHazO6) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn), [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [TOXIC \(with POORSTACY\)](https://open.spotify.com/album/0AJOcyb81Xh2KiuCfUQhiI) | 2:28 | 2022-03-31 | 2023-01-13 |
@@ -577,6 +582,7 @@
 | [Video Girl](https://open.spotify.com/track/4TbpDBsU2xVgKOwVBZF3SL) | [Abby Roberts](https://open.spotify.com/artist/11260Smss09lExMicvRPeO) | [Ashes](https://open.spotify.com/album/3EU7HxpevdtN0NC6LOQE0r) | 3:19 | 2022-06-09 | 2022-07-31 |
 | [Viva Las Vengeance](https://open.spotify.com/track/2XRh87n9CQoWkWW94H3Min) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/0pTYrZO3W4KyciXKM2fqei) | 3:26 | 2022-06-02 | 2022-07-22 |
 | [Walk Like A Zombie](https://open.spotify.com/track/0F56U0Bvvjh0QcqG21USyO) | [Horrorpops](https://open.spotify.com/artist/7MvgOAoxA9ZgOxtRBYxLWJ) | [Bring It On!](https://open.spotify.com/album/3erS3yV4uzIgJlJgmQUVJQ) | 4:07 | 2022-10-20 | 2022-11-01 |
+| [wannabe](https://open.spotify.com/track/1B5IGD38RqXXCziBqBQzFS) | [Takayoshi](https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo) | [wannabe](https://open.spotify.com/album/4slAfMqZidrdj7rPjTtEKC) | 1:22 | 2023-08-10 |  |
 | [Want You Like That](https://open.spotify.com/track/4VhiUBbGZd374klScom1cp) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/2Ae1hm2uugZMTBV9jZSuT9) | 2:54 | 2022-01-21 | 2022-07-22 |
 | [wasted](https://open.spotify.com/track/6izAsljZMKSGtLVAk9gWY8) | [BESTIES](https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj), [Yen Strange](https://open.spotify.com/artist/7lSQYcw1enXJdFHw678LAq) | [wasted](https://open.spotify.com/album/5aTiToGyRhE9sgEvhmXvwI) | 2:47 | 2022-11-18 | 2023-03-31 |
 | [We All Float Down Here](https://open.spotify.com/track/44RrOIa9ziCFW9YC6ndAUL) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [Four Year Strong](https://open.spotify.com/album/3vV8Tam4ubcWalQSGZWuC8) | 3:07 | 2022-10-20 | 2022-11-01 |

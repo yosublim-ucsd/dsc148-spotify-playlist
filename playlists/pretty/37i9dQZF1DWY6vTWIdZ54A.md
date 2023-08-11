@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 
 > Rock songs that get down and dirty\. Cover: Dirty Honey
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,564 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,708 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 | 12 | [Fallin' With Me](https://open.spotify.com/track/5n3It3ROR8In19oJkpXeWt) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Fallin' With Me](https://open.spotify.com/album/6zqWA4OhvhQL6qDFutqpw3) | 2:41 |
 | 13 | [Lydia](https://open.spotify.com/track/7yoBjKO6cCnK3zV8gr1k4e) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Mister Asylum](https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM) | 4:02 |
 | 14 | [New Fang](https://open.spotify.com/track/7uJLdyIAaYLGT0oLw7I6b3) | [Them Crooked Vultures](https://open.spotify.com/artist/4zYQWYmtimAEmI6WWEzGfO) | [Them Crooked Vultures](https://open.spotify.com/album/0Z6IBizcq7DLXpenjSHqF3) | 3:48 |
-| 15 | [Mountains At Midnight](https://open.spotify.com/track/5Gd7o89niXpFLpVBvvUPHD) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Mountains At Midnight](https://open.spotify.com/album/5wgGNTxh21tE16K9yPMBIc) | 3:06 |
+| 15 | [Hot Blood](https://open.spotify.com/track/7d9sZF7jmepe2EYdETlNWK) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 3:38 |
 | 16 | [Lo/Hi](https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:57 |
-| 17 | [Hot Blood](https://open.spotify.com/track/7d9sZF7jmepe2EYdETlNWK) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 3:38 |
+| 17 | [Mountains At Midnight](https://open.spotify.com/track/5Gd7o89niXpFLpVBvvUPHD) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Mountains At Midnight](https://open.spotify.com/album/5wgGNTxh21tE16K9yPMBIc) | 3:06 |
 | 18 | [Bad Habit](https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Listen](https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy) | 3:41 |
 | 19 | [Wolf Like Me](https://open.spotify.com/track/03wKMRNYVvw6s9nm4I4jUS) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Return To Cookie Mountain](https://open.spotify.com/album/7xn8nwwutlJFMb7Zf9NEHi) | 4:39 |
 | 20 | [My Name Is Human](https://open.spotify.com/track/1euszbbvkUzQzIhZUWFmXG) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [The Boy Who Died Wolf](https://open.spotify.com/album/3TC40H9dIJArFzy0rWnWCg) | 4:18 |
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 | 22 | [Let Me Live / Let Me Die](https://open.spotify.com/track/0AVIswXP3Q5FnlorjU0DbI) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [Let the Vultures In](https://open.spotify.com/album/0NvZagPSgA7PLFI7yydUTn) | 3:27 |
 | 23 | [Emotion Sickness](https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Emotion Sickness](https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S) | 4:31 |
 | 24 | [Your Touch](https://open.spotify.com/track/5lJUXSjRjevVy7I3P87wuK) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Magic Potion](https://open.spotify.com/album/4jFfuHyKmhGeipjRmKIh8O) | 2:42 |
-| 25 | [Figure It Out](https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG) | 3:03 |
-| 26 | [hometown](https://open.spotify.com/track/6p8DGrcAUBuLUgDIKcUn0P) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [hometown](https://open.spotify.com/album/3vYwarsz5qWMYHL3B9b5ni) | 4:16 |
-| 27 | [Young Lady, You're Scaring Me](https://open.spotify.com/track/6PtIXICwmoxCgLjw2zApDs) | [Ron Gallo](https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg) | [HEAVY META](https://open.spotify.com/album/6w5N3oL83KiitLdFcCrzTj) | 3:40 |
+| 25 | [hometown](https://open.spotify.com/track/6p8DGrcAUBuLUgDIKcUn0P) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [hometown](https://open.spotify.com/album/3vYwarsz5qWMYHL3B9b5ni) | 4:16 |
+| 26 | [Young Lady, You're Scaring Me](https://open.spotify.com/track/6PtIXICwmoxCgLjw2zApDs) | [Ron Gallo](https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg) | [HEAVY META](https://open.spotify.com/album/6w5N3oL83KiitLdFcCrzTj) | 3:40 |
+| 27 | [Figure It Out](https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG) | 3:03 |
 | 28 | [Bury Me Face Down](https://open.spotify.com/track/0LSzBkkQZZkwV656r6etLg) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Bury Me Face Down](https://open.spotify.com/album/79L5Jm5KDfXA19nozVqZcg) | 3:51 |
 | 29 | [Nearly Forgot My Broken Heart](https://open.spotify.com/track/7MjRtWS2teufvOiMM0BARZ) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Higher Truth](https://open.spotify.com/album/0n7hphNFF3s9pov8oaATFl) | 3:54 |
 | 30 | [Natural Born Killer](https://open.spotify.com/track/4nMUPQeTor23d8RxiiJO9W) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [The Midnight Demon Club](https://open.spotify.com/album/0SWbz68LauoDrMdgdNv6gr) | 3:16 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 | 32 | [Suffocation Blues](https://open.spotify.com/track/2WRk6RxETSwdsg2dhtnXxc) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Black Pistol Fire](https://open.spotify.com/album/0EmwFyrOiD5DkGIDzhbOt1) | 2:41 |
 | 33 | [Down To The Bottom](https://open.spotify.com/track/5jddjli3YTIxueb3xFdLaA) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Down To The Bottom](https://open.spotify.com/album/6QRQuIulSyoqOlNGJGLkmG) | 2:32 |
 | 34 | [Typhoons](https://open.spotify.com/track/5aFGo8wHEntVxFI8IF7Wuj) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 3:56 |
-| 35 | [Don't Wanna Fight](https://open.spotify.com/track/6q0lIjDSuZDhrg9GC9yUQO) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color](https://open.spotify.com/album/0GaYG9L1sXHQZZ7BTk0hGY) | 3:52 |
-| 36 | [Wannabe in L.A](https://open.spotify.com/track/3B7mbMbbcuKdfWssAcyvG8) | [Eagles Of Death Metal](https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o) | [Heart On](https://open.spotify.com/album/2WcK8D30CYZQxCUv5mEnMT) | 2:15 |
+| 35 | [Wannabe in L.A](https://open.spotify.com/track/3B7mbMbbcuKdfWssAcyvG8) | [Eagles Of Death Metal](https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o) | [Heart On](https://open.spotify.com/album/2WcK8D30CYZQxCUv5mEnMT) | 2:15 |
+| 36 | [Don't Wanna Fight](https://open.spotify.com/track/6q0lIjDSuZDhrg9GC9yUQO) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color](https://open.spotify.com/album/0GaYG9L1sXHQZZ7BTk0hGY) | 3:52 |
 | 37 | [Eagle Birds](https://open.spotify.com/track/7Dd1v8u05vTL3py8d1a5ZA) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:40 |
 | 38 | [Black and Red](https://open.spotify.com/track/1DJVvKIX6niMWGUitYkM1f) | [Reignwolf](https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK) | [Hear Me Out](https://open.spotify.com/album/6jPxwvFm0kcZzflrloQPuK) | 3:39 |
 | 39 | [When I'm Gone](https://open.spotify.com/track/7mVYYM1jFHP5d5ygTgjrf6) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Dirty Honey](https://open.spotify.com/album/6FEBG6JNlWI3QkY3YlfhO7) | 3:25 |
@@ -51,17 +51,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 | 41 | [Pressure and Time](https://open.spotify.com/track/01qLRZjy5hnWDdqKuM6AJh) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Pressure & Time](https://open.spotify.com/album/7uVg7wY0NO9dtxGQOgxZgA) | 3:16 |
 | 42 | [Death By Rock And Roll](https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 3:54 |
 | 43 | [Highway](https://open.spotify.com/track/7aQT5OB4zEgyyxfRDbOBIt) | [Bleeker](https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv) | [Erase You](https://open.spotify.com/album/40MZW6y8j9zJLyyB946IKH) | 3:21 |
-| 44 | [Skinny](https://open.spotify.com/track/08CVVZ9HYOXzPRAIV0w8nq) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Skinny](https://open.spotify.com/album/4B4UxXtd4JaYNtaAN6ZNEQ) | 3:42 |
-| 45 | [Outta My Mind](https://open.spotify.com/track/7BVo8X0ckrgdSwOwvKEcjh) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8), [The Cobra](https://open.spotify.com/artist/6ljXzPvTDhxrhXTDuz3YEr) | [Martyr Parade](https://open.spotify.com/album/7jDkW8ksFaqsKYxa8TaOUc) | 2:45 |
+| 44 | [Outta My Mind](https://open.spotify.com/track/7BVo8X0ckrgdSwOwvKEcjh) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8), [The Cobra](https://open.spotify.com/artist/6ljXzPvTDhxrhXTDuz3YEr) | [Martyr Parade](https://open.spotify.com/album/7jDkW8ksFaqsKYxa8TaOUc) | 2:45 |
+| 45 | [Skinny](https://open.spotify.com/track/08CVVZ9HYOXzPRAIV0w8nq) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Skinny](https://open.spotify.com/album/4B4UxXtd4JaYNtaAN6ZNEQ) | 3:42 |
 | 46 | [Apple Pie](https://open.spotify.com/track/7x7WyzZjrXd1oruLCcTnhw) | [Rafferty](https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ) | [Apple Pie](https://open.spotify.com/album/56ILDsDKcf17LunTaJFUR2) | 2:59 |
 | 47 | [Pages](https://open.spotify.com/track/2B9sTgrTUR2Cg9o8e1GT9w) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Asking For A Ride](https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK) | 2:34 |
 | 48 | [Tied Up](https://open.spotify.com/track/08yhz3ei8jgCmwcsHZTSAa) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Hollow Bones](https://open.spotify.com/album/7hKJMKE01FvUJEVxY8bBOT) | 3:27 |
 | 49 | [Run On](https://open.spotify.com/track/0pu3kHgI5lFwbPXQFK8CGz) | [Jamie Bower](https://open.spotify.com/artist/7GIZ7nZRCs6XrIsXL2UZO1), [King Sugar](https://open.spotify.com/artist/4bh1NXuxdUD1TV3w3M75aP) | [Run On](https://open.spotify.com/album/3QVFpfKAIEYE0GfSiUqQfk) | 3:32 |
 | 50 | [.CoDA.](https://open.spotify.com/track/1PlzMAYlt0Qziq9Q1AOcv7) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [\-!\- \(Deluxe\)](https://open.spotify.com/album/6tdWQvZKSlDcvEVO7Wtrek) | 3:44 |
 | 51 | [Them Shoes](https://open.spotify.com/track/1oADNvkLEOm7hvyxffDRjn) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Every Hour Is A Dollar Gone](https://open.spotify.com/album/7wFVw2lcWdzLIlNESYUNFX) | 5:48 |
-| 52 | [Alter Ego](https://open.spotify.com/track/2cop97v0W8YcsI7KBvOrUu) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Surface Sounds](https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3) | 4:08 |
+| 52 | [This is Our Life](https://open.spotify.com/track/5PUTXDqo5aGHoGbAhYm5ZT) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [This is Our Life](https://open.spotify.com/album/3ACNAqePBWNG0zC20gRUNs) | 3:44 |
 | 53 | [Raised By Wolves](https://open.spotify.com/track/2dTp74IGy0E8kv1cSWUrAJ) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Wild \(Deluxe Edition\)](https://open.spotify.com/album/32wDabMX1umJAYcEcn8z4i) | 3:01 |
-| 54 | [This is Our Life](https://open.spotify.com/track/5PUTXDqo5aGHoGbAhYm5ZT) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [This is Our Life](https://open.spotify.com/album/3ACNAqePBWNG0zC20gRUNs) | 3:44 |
+| 54 | [Alter Ego](https://open.spotify.com/track/2cop97v0W8YcsI7KBvOrUu) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Surface Sounds](https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3) | 4:08 |
 | 55 | [Oh No](https://open.spotify.com/track/6rF4s1wwsOa2EZF5MF6D3B) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [Magic Valley](https://open.spotify.com/album/4GQp1LbFHcJVkS9M5HUzAL) | 3:41 |
 | 56 | [I'm A King Bee](https://open.spotify.com/track/01RPOnIW38TuFv0CvHdVmz) | [The Stone Foxes](https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t) | [I'm A King Bee](https://open.spotify.com/album/57q06NuEHVw0MAqZT3hEUV) | 3:19 |
 | 57 | [Hard Working Man](https://open.spotify.com/track/3uQFmhiS49mXaEw2DZbZRr) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Young Blood](https://open.spotify.com/album/5F4mBNKs4joGL2cGasbvi7) | 3:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 | 99 | [Kevin](https://open.spotify.com/track/3bTJRzsVHaL4JOmmNX4Cm3) | [Slomosa](https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd) | [Slomosa](https://open.spotify.com/album/4P0wMxlWvsilPWY5tbvVKS) | 2:47 |
 | 100 | [Heartache Melody](https://open.spotify.com/track/38vs4sreYIEWp6niXlaKDA) | [Electric Enemy](https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v) | [Heartache Melody](https://open.spotify.com/album/4tlRcnslK5s2I3Krc6DY2g) | 2:52 |
 
-Snapshot ID: `MCw5MTM5MzY3NzcwOTZlZjQ3NDk0NjIyZjhhNjYzYjQ2NTZlMjhiZmUw`
+Snapshot ID: `MCw4ZTYzN2E5NjdmNTc2OTQyZjY5NmNiYzI2NjU3OTI2ZWNiZTNiNmQ5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: OH MY GIRL\(오마이걸\)\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 939,469 likes - 64 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 939,593 likes - 64 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,17 +36,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 | 26 | [TOMBOY](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:54 |
 | 27 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 |
 | 28 | [Kill This Love](https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [KILL THIS LOVE](https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz) | 3:11 |
-| 29 | [DICE](https://open.spotify.com/track/5aaE27JUylnG7aPtGJPrrC) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz) | 2:45 |
+| 29 | [WANNABE](https://open.spotify.com/track/4pspYVQGFHLPEFgQPD1J7e) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ME](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) | 3:11 |
 | 30 | [Kitsch](https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:15 |
-| 31 | [WANNABE](https://open.spotify.com/track/4pspYVQGFHLPEFgQPD1J7e) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ME](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) | 3:11 |
+| 31 | [DICE](https://open.spotify.com/track/5aaE27JUylnG7aPtGJPrrC) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz) | 2:45 |
 | 32 | [Savage](https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:58 |
 | 33 | [Hate Rodrigo \(Feat\. YUQI\)](https://open.spotify.com/track/5ms7rcVKjBFUtoVh8hE0Y9) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [HATE XX](https://open.spotify.com/album/3aYLtPSWEqmcLTCfM0ZYl7) | 3:01 |
 | 34 | [The Feels](https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:18 |
 | 35 | [WHISTLE](https://open.spotify.com/track/6NEoeBLQbOMw92qMeLfI40) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE ONE](https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ) | 3:31 |
-| 36 | [LILAC](https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:34 |
-| 37 | [On The Ground](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 2:48 |
-| 38 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 |
-| 39 | [LOCO](https://open.spotify.com/track/56Yxkm62GtEpnPyG7TvwLY) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) | 3:11 |
+| 36 | [LOCO](https://open.spotify.com/track/56Yxkm62GtEpnPyG7TvwLY) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) | 3:11 |
+| 37 | [LILAC](https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:34 |
+| 38 | [On The Ground](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 2:48 |
+| 39 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 |
 | 40 | [Feel My Rhythm](https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Feel My Rhythm’](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) | 3:30 |
 | 41 | [Welcome To MY World \(feat\. nævis\)](https://open.spotify.com/track/6qVqWJxIpsabUKBILG7d6N) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [nævis](https://open.spotify.com/artist/2067CjQ2nC56cRZX8goeHg) | [Welcome To MY World \(feat\. nævis\)](https://open.spotify.com/album/2o35lokKrBVG73xWFDEVsX) | 3:26 |
 | 42 | [FANCY](https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF) | 3:33 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 | 63 | [그대라는 시](https://open.spotify.com/track/56Cmy1rCQ35V2Q7groYiHl) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Hotel del Luna \(Original Television Soundtrack\) Pt.3](https://open.spotify.com/album/6nddI94g7zC5bbyNzRBO0Y) | 3:29 |
 | 64 | [SMILEY\(Feat\. BIBI\)](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 2:53 |
 
-Snapshot ID: `MCwwZDY2ZWE3NjE1MTE5MmNmZDFiNWZlNjgwMGE2NDNkOGEyNDBmNmNk`
+Snapshot ID: `MCxjNTU5YWJmZDJjZTc1OTIxYjAzODE1YTgzMjNlNDU4YzY1NjFmZjg1`

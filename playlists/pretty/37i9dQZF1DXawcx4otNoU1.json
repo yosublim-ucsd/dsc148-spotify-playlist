@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 498304,
+  "num_followers": 498443,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjlkMThjOWZlNDYxNTRmODEzNjhhNDQ4MWEwZjFlYWU2Y2EzNWY3",
+  "snapshot_id": "MCxhYzllMTY2NDdiYjQ1Yzg4YWQ2MTFhYTc3YWIxYThlNGQ3ZGMyZDM5",
   "tracks": [
     {
       "added_at": "2023-02-10 11:00:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "To Let A Good Thing Die",
-        "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
-      },
-      "artists": [
-        {
-          "name": "Bruno Major",
-          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
-        }
-      ],
-      "duration_ms": 162797,
-      "name": "Nothing",
-      "url": "https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "E=MC2",
         "url": "https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 204733,
       "name": "Touch My Body",
       "url": "https://open.spotify.com/track/2aEuXA1KswHlCGPOuPmCOW"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "To Let A Good Thing Die",
+        "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
+      },
+      "artists": [
+        {
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+        }
+      ],
+      "duration_ms": 162797,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "I Wish you Roses",
-        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 225947,
-      "name": "I Wish you Roses",
-      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Please Keep Loving Me",
         "url": "https://open.spotify.com/album/53ZfIHyk0AhUHeVRBCIl64"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 195920,
       "name": "Please Keep Loving Me",
       "url": "https://open.spotify.com/track/78zUxUPvONPgMIt46q5be6"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "I Wish you Roses",
+        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 225947,
+      "name": "I Wish you Roses",
+      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Weak",
-        "url": "https://open.spotify.com/album/5iZOesuEQxTbZkvSuyAaK4"
-      },
-      "artists": [
-        {
-          "name": "Larissa Lambert",
-          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
-        }
-      ],
-      "duration_ms": 159375,
-      "name": "Weak",
-      "url": "https://open.spotify.com/track/3UnfOb5hmnf4KF7NIgAj9a"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Let It All Go",
         "url": "https://open.spotify.com/album/70kdvnoDEA1srIsofErTEw"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 280757,
       "name": "Let It All Go",
       "url": "https://open.spotify.com/track/70K0ezmzYEZeqoSaZMyP7o"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Weak",
+        "url": "https://open.spotify.com/album/5iZOesuEQxTbZkvSuyAaK4"
+      },
+      "artists": [
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        }
+      ],
+      "duration_ms": 159375,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/3UnfOb5hmnf4KF7NIgAj9a"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Isaiah",
-        "url": "https://open.spotify.com/album/0Mcl4Qm47aTgoJ35CFGsQv"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Firebrace",
-          "url": "https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn"
-        }
-      ],
-      "duration_ms": 193446,
-      "name": "It's Gotta Be You",
-      "url": "https://open.spotify.com/track/6cAKeFFYW2aClZSUyvqAEW"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "A Place We Knew",
         "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 221706,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/35AG36QH9ytiNtPyx9xwr8"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Isaiah",
+        "url": "https://open.spotify.com/album/0Mcl4Qm47aTgoJ35CFGsQv"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Firebrace",
+          "url": "https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn"
+        }
+      ],
+      "duration_ms": 193446,
+      "name": "It's Gotta Be You",
+      "url": "https://open.spotify.com/track/6cAKeFFYW2aClZSUyvqAEW"
     },
     {
       "added_at": "2023-03-06 12:13:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Surround Me - EP",
-        "url": "https://open.spotify.com/album/3m61NACPLHynQ8JHZpPXd4"
-      },
-      "artists": [
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 202146,
-      "name": "I Believe in Us",
-      "url": "https://open.spotify.com/track/59JtQ8mThUAnRGValaExhc"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Same Kind Of Different (Acoustic)",
         "url": "https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 203262,
       "name": "Need You Now - Acoustic",
       "url": "https://open.spotify.com/track/1MIpU2U1kUInGTpaCYuVKs"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Surround Me - EP",
+        "url": "https://open.spotify.com/album/3m61NACPLHynQ8JHZpPXd4"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 202146,
+      "name": "I Believe in Us",
+      "url": "https://open.spotify.com/track/59JtQ8mThUAnRGValaExhc"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Can You Take It",
-        "url": "https://open.spotify.com/album/1yytMQgi7xHVil98HEX1FG"
-      },
-      "artists": [
-        {
-          "name": "A\u00e1yanna",
-          "url": "https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P"
-        }
-      ],
-      "duration_ms": 181783,
-      "name": "Can You Take It",
-      "url": "https://open.spotify.com/track/0sUY0DLOrt3pNWCkvotmYS"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "So Close To Magic",
         "url": "https://open.spotify.com/album/0U9mWDHfGU2dOySdeHlQh1"
       },
@@ -2047,18 +2031,18 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Bridge Back to Your Heart",
-        "url": "https://open.spotify.com/album/0nB2e6ErWY7Lpyup9izYVA"
+        "name": "Can You Take It",
+        "url": "https://open.spotify.com/album/1yytMQgi7xHVil98HEX1FG"
       },
       "artists": [
         {
-          "name": "The Beach",
-          "url": "https://open.spotify.com/artist/6xqpdCiMM646Q6nAD5n3vO"
+          "name": "A\u00e1yanna",
+          "url": "https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P"
         }
       ],
-      "duration_ms": 261279,
-      "name": "Bridge Back to Your Heart",
-      "url": "https://open.spotify.com/track/6jxSnB1k1naHtdJNCdzZqk"
+      "duration_ms": 181783,
+      "name": "Can You Take It",
+      "url": "https://open.spotify.com/track/0sUY0DLOrt3pNWCkvotmYS"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2075,6 +2059,22 @@
       "duration_ms": 227252,
       "name": "I'm In Love With You",
       "url": "https://open.spotify.com/track/294dYnMUNXBv5oCbDV5Qxh"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Bridge Back to Your Heart",
+        "url": "https://open.spotify.com/album/0nB2e6ErWY7Lpyup9izYVA"
+      },
+      "artists": [
+        {
+          "name": "The Beach",
+          "url": "https://open.spotify.com/artist/6xqpdCiMM646Q6nAD5n3vO"
+        }
+      ],
+      "duration_ms": 261279,
+      "name": "Bridge Back to Your Heart",
+      "url": "https://open.spotify.com/track/6jxSnB1k1naHtdJNCdzZqk"
     },
     {
       "added_at": "2023-02-10 11:00:00",

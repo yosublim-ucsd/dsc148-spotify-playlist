@@ -4,7 +4,7 @@
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: Cầm
 
-69 songs - 4 hr 4 min
+71 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Rót Tiếp](https://open.spotify.com/track/5U61WeETed0vWK3HUf8Xr6) | [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7), [Liu Grace](https://open.spotify.com/artist/5DTQVDm1qjLUoAGC8v85c3), [Steji](https://open.spotify.com/artist/5AnW83Ip0xPJ3Pgn0YWDhd) | [Rót Tiếp](https://open.spotify.com/album/4c4l3zyMSwsDjajgrhJ5dq) | 3:10 | 2022-09-09 |  |
 | [STAY FOR A WHILE](https://open.spotify.com/track/3krMz49aQyQny6U65HNHvA) | [Vxllish](https://open.spotify.com/artist/27RxVUWFswWxJaZzF1R3CT), [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7) | [STAY FOR A WHILE](https://open.spotify.com/album/3kaF1ubPMNkq47EkGptClH) | 3:47 | 2022-09-09 |  |
 | [Summer Night](https://open.spotify.com/track/7k7wieI5FG61ZARVV5OT7z) | [Xuân Nghi](https://open.spotify.com/artist/09TbfG9329V26zqpb7IQT5) | [Summer Night](https://open.spotify.com/album/5Cskl93giLfcuwEJzKlvFw) | 2:51 | 2022-09-09 | 2023-08-02 |
+| [The Sun](https://open.spotify.com/track/3b39uP6KnsHufr698HUL5T) | [hooligan.](https://open.spotify.com/artist/4sDsgLXhS6If9HrV2mwuSx) | [The Sun](https://open.spotify.com/album/1Jvml0dIWxaI2N5CGpQa1G) | 3:53 | 2023-08-10 |  |
 | [Thành Phố Đêm](https://open.spotify.com/track/5DAFdVmVwj2dFddjHSdDQk) | [Khải](https://open.spotify.com/artist/2YJjdbWUlFUPMyveMVft5k), [da/md](https://open.spotify.com/artist/3rfioXxHtUmA66MpuKdozJ) | [Thành Phố Đêm](https://open.spotify.com/album/2IJtIuvzoJdAp45m7oWwUp) | 3:10 | 2022-09-09 |  |
 | [Thế Giới Của Em](https://open.spotify.com/track/24DVKr1495WzRv1lNOlvRz) | [Minh Đinh](https://open.spotify.com/artist/4NfuHLESitkh66LOZeyzsu), [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7) | [Thế Giới Của Em](https://open.spotify.com/album/0SkClw8Gjjd9EotloigIVT) | 3:36 | 2023-04-13 |  |
 | [thế sao?](https://open.spotify.com/track/6eaezsSp9v9kBnOWUssqkC) | [nae & de'lay](https://open.spotify.com/artist/1bweJ8ReP08akfsoW8jiP9), [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [thế sao?](https://open.spotify.com/album/3fY5cRxp5rL2t6HjvYShhh) | 2:47 | 2023-06-22 |  |
@@ -75,6 +76,7 @@
 | [Ánh Đèn Phố](https://open.spotify.com/track/6waGMOhiJ68iq8gpO3dqib) | [The Cassette](https://open.spotify.com/artist/1fQjpmcx8iNIy1gKRelTD2) | [Rừng Đom Đóm](https://open.spotify.com/album/68bMwerbq9axDV5m1wZYAn) | 4:42 | 2023-04-13 |  |
 | [Đường Tôi Chở Em Về](https://open.spotify.com/track/27F22WcGDyl4Z2KylVJkXL) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Đường Tôi Chở Em Về](https://open.spotify.com/album/11usBN9oLbxkDegtx4ilUW) | 4:26 | 2022-09-09 |  |
 | [Đến Đón Em Đi Chơi Đi Anh](https://open.spotify.com/track/489cWPdS6lbpdBHmd9duxp) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj), [Duy Mạnh](https://open.spotify.com/artist/0MDeZ8vIkpFX3QkvY0el6B) | [Đến Đón Em Đi Chơi Đi Anh](https://open.spotify.com/album/0bRkXFokx3dtwJst6rcLCN) | 3:02 | 2023-04-13 |  |
+| [Đố A Bít](https://open.spotify.com/track/1Z6o6fFPifrjcIuTPqpzeB) | [Mai Âm Nhạc](https://open.spotify.com/artist/4cuCzi4VvHHwwowu56Ejm5), [Lazii](https://open.spotify.com/artist/2mrZ4gGfWba9oB1mfm9j90) | [Đố A Bít](https://open.spotify.com/album/22qEQ7XZR1jpulVdJB0Kpw) | 2:15 | 2023-08-10 |  |
 | [Đừng Dắt Em Đi Lòng Vòng](https://open.spotify.com/track/4JwEvm7fK1GxGSkiwzRZc2) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [Đừng Dắt Em Đi Lòng Vòng](https://open.spotify.com/album/3aZXO8RnhN2yWTQh7W8u9s) | 3:25 | 2023-06-29 |  |
 | [Ố 1](https://open.spotify.com/track/3vFYKvXOHHFVD58Bxz98VL) | [Lazii](https://open.spotify.com/artist/2mrZ4gGfWba9oB1mfm9j90), [Sương Sâm](https://open.spotify.com/artist/1CaB0XOnPniIKLI8NjMMQL), [TE](https://open.spotify.com/artist/2GIuF9XgNJthcp0oRA1q3G) | [Ố 1](https://open.spotify.com/album/4pHnmegKPqoNpNstTgk5B6) | 3:20 | 2023-06-22 |  |
 

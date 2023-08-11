@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Nora Kelly Band, Artwork by: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 251 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 258 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 99 | [Guillotine Dreams](https://open.spotify.com/track/25ZH4Gdkv29iuh8E1PlMuQ) | [Super Duty Tough Work](https://open.spotify.com/artist/62C2Sg9LJoWfSw8K8EuX3u) | [Guillotine Dreams](https://open.spotify.com/album/4lKSg25uzvNbyYD9dU3jF1) | 4:18 |
 | 100 | [Still Got Room To Grow](https://open.spotify.com/track/7jBX25iuijm20tOVb0xqCd) | [Jahmal Padmore](https://open.spotify.com/artist/23Bcuvf8yPnEONduRdlIpD) | [One](https://open.spotify.com/album/4W4GRLxZ0ogjo3AonD0bIQ) | 3:56 |
 
-Snapshot ID: `MCxhYjE2Y2IxYzgyYjFhN2NiMDg3NWE0MGJlOWRmZjEyMjgyYTAwNzA0`
+Snapshot ID: `MCxmZmY5NTMxM2Y3NmNiN2RlY2ZkZDE1MTBmNjY0Nzg3ZjY3ZDkzYjVl`

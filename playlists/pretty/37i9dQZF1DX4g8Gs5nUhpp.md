@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: GREY D
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,954 likes - 53 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,025 likes - 53 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 52 | [Bật Tình Yêu Lên](https://open.spotify.com/track/62SFLTN7txImu8pQwBMP6A) | [Tăng Duy Tân](https://open.spotify.com/artist/1n9JKdEdLxrbgJiqz1WZFJ), [Hoà Minzy](https://open.spotify.com/artist/3BWBxpXDxofgji3RKZPIz8) | [Bật Tình Yêu Lên](https://open.spotify.com/album/6jOJUucuzH32n2BdTJ9lOB) | 3:23 |
 | 53 | [đưa em về nhàa](https://open.spotify.com/track/08ULi904W2Po6pVj8nN7KC) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4) | [đưa em về nhàa](https://open.spotify.com/album/5ED6WiHXLHGTBITUv6ayAy) | 4:00 |
 
-Snapshot ID: `MCwyZjk0MTNjNmYyMjA3M2JmMjg4NGI2Y2UwMTJjN2QwN2EwMTc0ZDY3`
+Snapshot ID: `MCwyYWQ2MTA5YjJjM2MzZWUyMDZkZmNkNzAzYjUxZjU2NDJkOTZhZmE3`

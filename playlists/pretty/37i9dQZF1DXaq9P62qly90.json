@@ -1,12 +1,12 @@
 {
   "description": "Conscious songs for everyday reflection.",
-  "num_followers": 12549,
+  "num_followers": 12554,
   "original_name": "Peace Of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDZmMDJlZmFhZWQwYzMyM2U5N2M1OWM1MTg2YzNjMGZlNzM4ODdk",
+  "snapshot_id": "MCwzMTk5NDEzMDc3MmJlNDBjZTc0NDA2OGJjZTgwNmM3ZDM4MDMxM2Yx",
   "tracks": [
     {
       "added_at": "2023-01-03 17:09:40",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
+        "name": "These Are My Roots",
+        "url": "https://open.spotify.com/album/29QwobCCAbSYwuJMXpMYaC"
+      },
+      "artists": [
+        {
+          "name": "Mike Love",
+          "url": "https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC"
+        }
+      ],
+      "duration_ms": 234061,
+      "name": "These Are My Roots",
+      "url": "https://open.spotify.com/track/2n0ORNOlH1ZP3nXp4QEqWO"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
         "name": "Everyday Life, Everyday People",
         "url": "https://open.spotify.com/album/1dPGTztQgIPp0uEuq2773X"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 241306,
       "name": "If You Want It",
       "url": "https://open.spotify.com/track/1uU3I51QM7KKqGkizLYU52"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
-        "name": "These Are My Roots",
-        "url": "https://open.spotify.com/album/29QwobCCAbSYwuJMXpMYaC"
-      },
-      "artists": [
-        {
-          "name": "Mike Love",
-          "url": "https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC"
-        }
-      ],
-      "duration_ms": 234061,
-      "name": "These Are My Roots",
-      "url": "https://open.spotify.com/track/2n0ORNOlH1ZP3nXp4QEqWO"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -855,18 +855,18 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "Heroin and Helicopters",
-        "url": "https://open.spotify.com/album/7k02SLVHPe0zfReerpvyK1"
+        "name": "Kulture",
+        "url": "https://open.spotify.com/album/28BxL4zo6T1mTBLh81TzyT"
       },
       "artists": [
         {
-          "name": "Citizen Cope",
-          "url": "https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F"
+          "name": "Satsang",
+          "url": "https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc"
         }
       ],
-      "duration_ms": 239280,
-      "name": "Caribbean Skies",
-      "url": "https://open.spotify.com/track/3B2Sq2SoDVTFOxcvrQttCI"
+      "duration_ms": 276017,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/38B7DBC5xcEiYRHNfNROoe"
     }
   ],
   "unique_name": "Peace Of Mind",

@@ -916,7 +916,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 169756,
       "name": "Crazy What Love Can Do",
       "url": "https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"
@@ -2294,7 +2294,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 190053,
       "name": "Leaving The Light",
       "url": "https://open.spotify.com/track/27cBRq5YMm5D1B1nygzetD"
@@ -2546,6 +2546,28 @@
       "duration_ms": 190243,
       "name": "Lovefool (feat. Pia Mia)",
       "url": "https://open.spotify.com/track/1Qw4FBX30bGdutJ19HBD7T"
+    },
+    {
+      "album": {
+        "name": "Make Way",
+        "url": "https://open.spotify.com/album/7MVKL0h5yHt8L2VP7W7NgM"
+      },
+      "artists": [
+        {
+          "name": "Motez",
+          "url": "https://open.spotify.com/artist/3SwgftmsT5rVepCSSco3ZR"
+        },
+        {
+          "name": "Elsy Wameyo",
+          "url": "https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197933,
+      "name": "Make Way",
+      "url": "https://open.spotify.com/track/3OJKxDtTQCVCMZ4dCvFcep"
     },
     {
       "album": {

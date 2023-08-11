@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance</a> hits from the 90s and 00s!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,390,840 likes - 120 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,391,412 likes - 120 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,16 +110,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 100 | [Beautiful](https://open.spotify.com/track/3BBioBvGxikn3mVT2hhrEm) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP) | [L.E.F.](https://open.spotify.com/album/3GLtESPuGDtTWoiR6p6K69) | 5:54 |
 | 101 | [Body Language \- Original Mix](https://open.spotify.com/track/52wJfSCcUt8qFkU0KYvQ4S) | [M.A.N.D.Y.](https://open.spotify.com/artist/20O4Ik25BbWfWBz0kZtsxX), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Body Language](https://open.spotify.com/album/6WCgNMIXZ6V0SUMASwL9UV) | 7:18 |
 | 102 | [Faded](https://open.spotify.com/track/6vVBwOqsm2qOhL8ewESBBu) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Perfect Day](https://open.spotify.com/album/33PsrSS1xpCUl1kJy39DZV) | 2:48 |
-| 103 | [Only One \(Radio Edit\)](https://open.spotify.com/track/1Dj7hbBEco5ZT0DqY7Q2IV) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [Nervous Rewind 2008](https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE) | 2:40 |
-| 104 | [Imagination \- Tiësto Radio Edit](https://open.spotify.com/track/091jue13VJFSl0OAJG6BJH) | [JES](https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g) | [Disconnect \(Platinum Edition\)](https://open.spotify.com/album/1tgLUNsCerUQYAXp3DPK4Y) | 3:45 |
+| 103 | [Imagination \- Tiësto Radio Edit](https://open.spotify.com/track/091jue13VJFSl0OAJG6BJH) | [JES](https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g) | [Disconnect \(Platinum Edition\)](https://open.spotify.com/album/1tgLUNsCerUQYAXp3DPK4Y) | 3:45 |
+| 104 | [Only One \(Radio Edit\)](https://open.spotify.com/track/1Dj7hbBEco5ZT0DqY7Q2IV) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [Nervous Rewind 2008](https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE) | 2:40 |
 | 105 | [Toys Are Nuts \- Hardwell & Rehab Remix](https://open.spotify.com/track/7fvkfIQ4AsdNxDd45yR02F) | [Chuckie](https://open.spotify.com/artist/4x7gxsrTH3gThvSKZPPwaQ), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew), [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Rehab](https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS) | [Toys Are Nuts Remixes](https://open.spotify.com/album/5V2OID9LYLcd84BGiCYHhx) | 5:06 |
 | 106 | [Everything](https://open.spotify.com/track/4x5Y9ORUjOQs5JZk2uJ9bN) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Moby](https://open.spotify.com/album/1slROdhMf4S9kwLHGfMrSk) | 4:52 |
 | 107 | [Deep At Night \(Adam K & Soha Radio Mix\)](https://open.spotify.com/track/4ggVmEvo9FzExPonRRqqIS) | [Ercola](https://open.spotify.com/artist/3L3eVOR4ra6ZGpAta7xlGV), [Heikki L](https://open.spotify.com/artist/6H20zr0kwfiOnvem0vxQai) | [Nervous Rewind 2008](https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE) | 3:39 |
 | 108 | [I Found U \- Remode Radio Edit](https://open.spotify.com/track/4brtBQaAKwan97CyLNIG6t) | [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43) | [I Found U](https://open.spotify.com/album/1WoQtItFeo0FGesGkDHDv8) | 2:51 |
 | 109 | [Medicine](https://open.spotify.com/track/7jI6ZgxuIsMniEf31TaeD9) | [Kim Leoni](https://open.spotify.com/artist/5ngBlJ3qFfmBqLm7a9aK8b) | [Medicine](https://open.spotify.com/album/5EsmdhzhjPlDZDtEH2FFey) | 2:49 |
 | 110 | [Make Your Move \- Radio Edit](https://open.spotify.com/track/2Ug4PnkxcwkcL3fhM0B9Xe) | [Dave Armstrong](https://open.spotify.com/artist/4wknbsqzOCI7g8xihM7QP7) | [Make Your Move](https://open.spotify.com/album/3dQXJeWW3lQVy5DiEK3vxV) | 2:51 |
-| 111 | [Baba O'Riley \(Radio Edit\)](https://open.spotify.com/track/31gTL5XTmcI4JCSglW5Sda) | [The Cube Guys](https://open.spotify.com/artist/2orIEMw3OyKWIaZ6CGueGg) | [Nervous Rewind 2008](https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE) | 4:11 |
-| 112 | [Shadows \- Inpetto Edit](https://open.spotify.com/track/2jAbU8zHsqLDxAAgTdDHbE) | [Those Usual Suspects](https://open.spotify.com/artist/2z9nslAMP8sKqqFW9aOMK6), [Inpetto](https://open.spotify.com/artist/0WDjOCmlubUVdRozCz46sM) | [Shadows](https://open.spotify.com/album/09Lz1igaXeJcRnyuV4mBnA) | 3:22 |
+| 111 | [Shadows \- Inpetto Edit](https://open.spotify.com/track/2jAbU8zHsqLDxAAgTdDHbE) | [Those Usual Suspects](https://open.spotify.com/artist/2z9nslAMP8sKqqFW9aOMK6), [Inpetto](https://open.spotify.com/artist/0WDjOCmlubUVdRozCz46sM) | [Shadows](https://open.spotify.com/album/09Lz1igaXeJcRnyuV4mBnA) | 3:22 |
+| 112 | [Baba O'Riley \(Radio Edit\)](https://open.spotify.com/track/31gTL5XTmcI4JCSglW5Sda) | [The Cube Guys](https://open.spotify.com/artist/2orIEMw3OyKWIaZ6CGueGg) | [Nervous Rewind 2008](https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE) | 4:11 |
 | 113 | [The Girl You Lost To Cocaine \- Sander van Doorn Edit](https://open.spotify.com/track/1QSTWEdeiR8UbrMjZVSOq4) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [The Girl You Lost To Cocaine](https://open.spotify.com/album/1DkcApyygjUYE3rHPEsWIg) | 3:00 |
 | 114 | [I Can’t Help Myself \(feat\. Sophia May\) \- Radio Edit](https://open.spotify.com/track/6I9eRIQ8ZCNM3VPAqYMgkx) | [Bellatrax](https://open.spotify.com/artist/0tHbQT6zoj3pYpn5QUJveE), [Sophia May](https://open.spotify.com/artist/5f2X43MBIQUucziUGfZbjg) | [Nervous Rewind 2008](https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE) | 3:28 |
 | 115 | [Crush \(Radio Edit\)](https://open.spotify.com/track/7mafch6fDbXB2on5mxijln) | [M'Black](https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E) | [Crush](https://open.spotify.com/album/6K69QEGsJ0M9KdDaewjDiA) | 3:25 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 119 | [Chemistry \- Radio Edit](https://open.spotify.com/track/6mMeuIonqBIcuzCGY5Soqe) | [Velvet](https://open.spotify.com/artist/5J5a0hqBGCelowVl8EkK7z) | [Chemistry](https://open.spotify.com/album/3Cu39vkUTn1XEqEFRwsk5Q) | 3:44 |
 | 120 | [Awaken \- Ron Reeser & Dan Saenz Radio Edit](https://open.spotify.com/track/6XWIwu69Yu7BwQJzDajYRY) | [JES](https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g), [Ron Reeser](https://open.spotify.com/artist/2dxYclwJqZsLonuWRS5sQY), [Dan Saenz](https://open.spotify.com/artist/7dz7HkYG1BTjGpIkzTR1l8) | [Awaken \(Part 2\)](https://open.spotify.com/album/00CaQlX78h86BkRvuUnAnT) | 3:44 |
 
-Snapshot ID: `MCxlZjgzMjhmNDc3ODI5Nzk3OWE2OTU4OTlhODkyNTFkMGY4MTQxZTM2`
+Snapshot ID: `MCxhMmNiYWQzOTJiNzBmYThiNTYyZmEwODcyN2E4OGYwNjIzMjk2ZGY2`

@@ -1,12 +1,12 @@
 {
   "description": "A salute to all of the women opening up the pit. Cover: Poppy",
-  "num_followers": 636593,
+  "num_followers": 636881,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjN2I2NmViMDYxOGIzOGNlZDYwMjY1MTQ5YTcxM2ZhZjJkYTlhMGM1",
+  "snapshot_id": "MCw5ZWZiNTA4NTA0ZjhiNTRjYjM5OWZjYWMxYTUwYmZkMmVkZWMxYzE5",
   "tracks": [
     {
       "added_at": "2023-08-07 15:18:08",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-08-07 15:18:08",
       "album": {
-        "name": "welcome2paradise",
-        "url": "https://open.spotify.com/album/7rD9PRwfNy614q7bmeX2iq"
-      },
-      "artists": [
-        {
-          "name": "Conquer Divide",
-          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
-        }
-      ],
-      "duration_ms": 286941,
-      "name": "welcome2paradise",
-      "url": "https://open.spotify.com/track/6IVTlj3SmAI2ISpFt0y1xv"
-    },
-    {
-      "added_at": "2023-08-07 15:18:08",
-      "album": {
         "name": "Back From the Dead",
         "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 210304,
       "name": "Back From The Dead",
       "url": "https://open.spotify.com/track/2kxp6iR7nCNGYTx0eNYp2C"
+    },
+    {
+      "added_at": "2023-08-07 15:18:08",
+      "album": {
+        "name": "welcome2paradise",
+        "url": "https://open.spotify.com/album/7rD9PRwfNy614q7bmeX2iq"
+      },
+      "artists": [
+        {
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+        }
+      ],
+      "duration_ms": 286941,
+      "name": "welcome2paradise",
+      "url": "https://open.spotify.com/track/6IVTlj3SmAI2ISpFt0y1xv"
     },
     {
       "added_at": "2023-08-07 15:18:08",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-08-07 15:18:08",
       "album": {
+        "name": "Handshake with Hell",
+        "url": "https://open.spotify.com/album/0NGaiN3rXHa54qJwqzLJLV"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 338960,
+      "name": "Handshake with Hell",
+      "url": "https://open.spotify.com/track/2t5NYzZgq3cf7ck9Eg51ZQ"
+    },
+    {
+      "added_at": "2023-08-07 15:18:08",
+      "album": {
         "name": "Bad Decisions",
         "url": "https://open.spotify.com/album/1BrlrOBkf4gZ8NP3tT2JhB"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 192919,
       "name": "Kamikaze",
       "url": "https://open.spotify.com/track/5ijQMO46fAA1zLF4xVhH4h"
-    },
-    {
-      "added_at": "2023-08-07 15:18:08",
-      "album": {
-        "name": "Handshake with Hell",
-        "url": "https://open.spotify.com/album/0NGaiN3rXHa54qJwqzLJLV"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 338960,
-      "name": "Handshake with Hell",
-      "url": "https://open.spotify.com/track/2t5NYzZgq3cf7ck9Eg51ZQ"
     },
     {
       "added_at": "2023-08-07 15:18:08",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-08-07 15:18:08",
       "album": {
+        "name": "CREEP HEAT",
+        "url": "https://open.spotify.com/album/5mjmBGPfXVVuXbsadrozU5"
+      },
+      "artists": [
+        {
+          "name": "VUKOVI",
+          "url": "https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt"
+        }
+      ],
+      "duration_ms": 205962,
+      "name": "CREEP HEAT",
+      "url": "https://open.spotify.com/track/0fRktuIYjAFoYZ3HIORgkQ"
+    },
+    {
+      "added_at": "2023-08-07 15:18:08",
+      "album": {
         "name": "Bottom of a Bottle",
         "url": "https://open.spotify.com/album/4wDzDgS3DzXNoFnwVy1yD3"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 404093,
       "name": "Abyss",
       "url": "https://open.spotify.com/track/2H6DMvpLd9tmW7kjjZO3Oy"
-    },
-    {
-      "added_at": "2023-08-07 15:18:08",
-      "album": {
-        "name": "CREEP HEAT",
-        "url": "https://open.spotify.com/album/5mjmBGPfXVVuXbsadrozU5"
-      },
-      "artists": [
-        {
-          "name": "VUKOVI",
-          "url": "https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt"
-        }
-      ],
-      "duration_ms": 205962,
-      "name": "CREEP HEAT",
-      "url": "https://open.spotify.com/track/0fRktuIYjAFoYZ3HIORgkQ"
     },
     {
       "added_at": "2023-08-07 15:18:08",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-08-07 15:18:08",
       "album": {
-        "name": "Reeling",
-        "url": "https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh"
-      },
-      "artists": [
-        {
-          "name": "The Mysterines",
-          "url": "https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M"
-        }
-      ],
-      "duration_ms": 170373,
-      "name": "Life's a Bitch (But I Like it So Much)",
-      "url": "https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5"
-    },
-    {
-      "added_at": "2023-08-07 15:18:08",
-      "album": {
         "name": "Chapter I - Monarchy",
         "url": "https://open.spotify.com/album/4oc3Yo2BGbUofcp36YBIzX"
       },
@@ -935,34 +919,18 @@
     {
       "added_at": "2023-08-07 15:18:08",
       "album": {
-        "name": "Flux",
-        "url": "https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC"
+        "name": "Reeling",
+        "url": "https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh"
       },
       "artists": [
         {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+          "name": "The Mysterines",
+          "url": "https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M"
         }
       ],
-      "duration_ms": 300647,
-      "name": "Flux",
-      "url": "https://open.spotify.com/track/39limMlZ5B25XM1FhNqa02"
-    },
-    {
-      "added_at": "2023-08-07 15:18:08",
-      "album": {
-        "name": "Sleeping with the Enemy",
-        "url": "https://open.spotify.com/album/3xGmtGuHsGeKBr9mMvAseA"
-      },
-      "artists": [
-        {
-          "name": "Butcher Babies",
-          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
-        }
-      ],
-      "duration_ms": 212927,
-      "name": "Sleeping with the Enemy",
-      "url": "https://open.spotify.com/track/4vzlN6pMehztFUIdNlei1m"
+      "duration_ms": 170373,
+      "name": "Life's a Bitch (But I Like it So Much)",
+      "url": "https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5"
     },
     {
       "added_at": "2023-08-07 15:18:08",
@@ -983,6 +951,22 @@
     {
       "added_at": "2023-08-07 15:18:08",
       "album": {
+        "name": "Flux",
+        "url": "https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 300647,
+      "name": "Flux",
+      "url": "https://open.spotify.com/track/39limMlZ5B25XM1FhNqa02"
+    },
+    {
+      "added_at": "2023-08-07 15:18:08",
+      "album": {
         "name": "Sad Girl Mixtape",
         "url": "https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 155342,
       "name": "Like That",
       "url": "https://open.spotify.com/track/2SpphQibJfkN9GY5nuzlof"
+    },
+    {
+      "added_at": "2023-08-07 15:18:08",
+      "album": {
+        "name": "Sleeping with the Enemy",
+        "url": "https://open.spotify.com/album/3xGmtGuHsGeKBr9mMvAseA"
+      },
+      "artists": [
+        {
+          "name": "Butcher Babies",
+          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
+        }
+      ],
+      "duration_ms": 212927,
+      "name": "Sleeping with the Enemy",
+      "url": "https://open.spotify.com/track/4vzlN6pMehztFUIdNlei1m"
     },
     {
       "added_at": "2023-08-07 15:18:08",
@@ -1027,6 +1027,22 @@
       "duration_ms": 116750,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/6flXyAriVIl6IcMtkgvb7G"
+    },
+    {
+      "added_at": "2023-08-07 15:18:08",
+      "album": {
+        "name": "The Reckoning",
+        "url": "https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5"
+      },
+      "artists": [
+        {
+          "name": "Icon For Hire",
+          "url": "https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7"
+        }
+      ],
+      "duration_ms": 228626,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/1iFIRC1D9NnxjTwF240jZy"
     },
     {
       "added_at": "2023-08-07 15:18:08",
@@ -1083,18 +1099,18 @@
     {
       "added_at": "2023-08-07 15:18:08",
       "album": {
-        "name": "FYB",
-        "url": "https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG"
+        "name": "Tsunami (11:11)",
+        "url": "https://open.spotify.com/album/1mQwEcEkEfQ5EFW9Q4PpsE"
       },
       "artists": [
         {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+          "name": "Bambie Thug",
+          "url": "https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC"
         }
       ],
-      "duration_ms": 106331,
-      "name": "FYB",
-      "url": "https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu"
+      "duration_ms": 188823,
+      "name": "Tsunami (11:11)",
+      "url": "https://open.spotify.com/track/0u4SRuld2zPAnyImNdfMAo"
     },
     {
       "added_at": "2023-08-07 15:18:08",
@@ -1115,34 +1131,34 @@
     {
       "added_at": "2023-08-07 15:18:08",
       "album": {
-        "name": "The Reckoning",
-        "url": "https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5"
+        "name": "FYB",
+        "url": "https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG"
       },
       "artists": [
         {
-          "name": "Icon For Hire",
-          "url": "https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7"
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
         }
       ],
-      "duration_ms": 228626,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/1iFIRC1D9NnxjTwF240jZy"
+      "duration_ms": 106331,
+      "name": "FYB",
+      "url": "https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu"
     },
     {
       "added_at": "2023-08-07 15:18:08",
       "album": {
-        "name": "Tsunami (11:11)",
-        "url": "https://open.spotify.com/album/1mQwEcEkEfQ5EFW9Q4PpsE"
+        "name": "Faking It",
+        "url": "https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF"
       },
       "artists": [
         {
-          "name": "Bambie Thug",
-          "url": "https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC"
+          "name": "Svalbard",
+          "url": "https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA"
         }
       ],
-      "duration_ms": 188823,
-      "name": "Tsunami (11:11)",
-      "url": "https://open.spotify.com/track/0u4SRuld2zPAnyImNdfMAo"
+      "duration_ms": 328015,
+      "name": "Faking It",
+      "url": "https://open.spotify.com/track/0lP6unRRdWs0cqa6qjsSmn"
     },
     {
       "added_at": "2023-08-07 15:18:08",
@@ -1179,18 +1195,18 @@
     {
       "added_at": "2023-08-07 15:18:08",
       "album": {
-        "name": "Faking It",
-        "url": "https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF"
+        "name": "Noise",
+        "url": "https://open.spotify.com/album/6gOIHf3Y3W7uTe8ERFYzex"
       },
       "artists": [
         {
-          "name": "Svalbard",
-          "url": "https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA"
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 328015,
-      "name": "Faking It",
-      "url": "https://open.spotify.com/track/0lP6unRRdWs0cqa6qjsSmn"
+      "duration_ms": 340281,
+      "name": "Noise",
+      "url": "https://open.spotify.com/track/2a3sZJP4uTrNQbj0EdiUuV"
     },
     {
       "added_at": "2023-08-07 15:18:08",
@@ -1207,22 +1223,6 @@
       "duration_ms": 351354,
       "name": "METAL KINGDOM",
       "url": "https://open.spotify.com/track/5qL6RJj9Nj20DGAajzGAYi"
-    },
-    {
-      "added_at": "2023-08-07 15:18:08",
-      "album": {
-        "name": "Noise",
-        "url": "https://open.spotify.com/album/6gOIHf3Y3W7uTe8ERFYzex"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 340281,
-      "name": "Noise",
-      "url": "https://open.spotify.com/track/2a3sZJP4uTrNQbj0EdiUuV"
     },
     {
       "added_at": "2023-08-07 15:18:08",

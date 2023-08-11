@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYjqIbceAHm0.md) - [plain]
 
 > Meet the soundtrack and exclusive unreleased videos of JTBC's global idol audition 'Peak Time'! \(JTBC의 글로벌 아이돌 오디션 '피크타임'의 사운드 트랙과 독점 미공개 영상들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,853 likes - 49 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,859 likes - 49 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYjqIbceAHm0.md) - [plain]
 | 39 | [Very Good](https://open.spotify.com/track/7JczxlJf6JYDQ8I0W02M0X) | [24K](https://open.spotify.com/artist/5L2m9ywoDOiguu1jG4fnHc) | [PEAK TIME \- 1Round <Rival match>Pt.1](https://open.spotify.com/album/2vKJbVuTNtuPoR8iY323dB) | 2:37 |
 | 40 | [Shine](https://open.spotify.com/track/6LA7jsaedQXehK60jarEuu) | [TEAM 23:00](https://open.spotify.com/artist/3MkfOOCUo4pqJzdZv6YzrN) | [PEAK TIME \- 1Round <Rival match>Pt.1](https://open.spotify.com/album/2vKJbVuTNtuPoR8iY323dB) | 2:48 |
 | 41 | [NO MERCY](https://open.spotify.com/track/0UMtPtJ6SSKbbiYmc8XwKa) | [NTX](https://open.spotify.com/artist/0cjqlZoKVk46DiiM9JdYbH) | [PEAK TIME \- Survival Round](https://open.spotify.com/album/67ty9JxnL34dc5TZdAAsqt) | 2:30 |
-| 42 | [MEOS \(THE REAL\) \- 흥: 興](https://open.spotify.com/track/38UMVwxbkrn2rD9f06d4ws) | [DKB](https://open.spotify.com/artist/4lY8pK8bvznvMR0WphEOK8) | [PEAK TIME \- Survival Round](https://open.spotify.com/album/67ty9JxnL34dc5TZdAAsqt) | 2:34 |
+| 42 | [MEOS \(THE REAL\) \- 흥: 興](https://open.spotify.com/track/38UMVwxbkrn2rD9f06d4ws) | [DKB](https://open.spotify.com/artist/4DoedGw38ubJdAT1edFsIx) | [PEAK TIME \- Survival Round](https://open.spotify.com/album/67ty9JxnL34dc5TZdAAsqt) | 2:34 |
 | 43 | [Hello](https://open.spotify.com/track/7tdDHP7ZyOjbTQuizyHI1c) | [SEVENUS](https://open.spotify.com/artist/4mfjxEJ9EhtCPyMNc8RFCm) | [PEAK TIME \- Survival Round](https://open.spotify.com/album/67ty9JxnL34dc5TZdAAsqt) | 2:29 |
 | 44 | [FEVER](https://open.spotify.com/track/3hTZba78tfUUkLmqznISeP) | [M.O.N.T](https://open.spotify.com/artist/205HvlOEb4EZFrBHXv8kLZ) | [PEAK TIME \- Survival Round](https://open.spotify.com/album/67ty9JxnL34dc5TZdAAsqt) | 2:35 |
 | 45 | [BOOMERANG](https://open.spotify.com/track/2RzArAk9SebsfvGsDYqIbH) | [DIGNITY](https://open.spotify.com/artist/0abB92vuvpYuTLTXFfbHDt) | [PEAK TIME \- Survival Round](https://open.spotify.com/album/67ty9JxnL34dc5TZdAAsqt) | 2:24 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYjqIbceAHm0.md) - [plain]
 | 48 | [Never Ever](https://open.spotify.com/track/54yalx0ONuGj0mMyBNZxhm) | [GHOST9](https://open.spotify.com/artist/0II6bFFAPO59zO8qFSf4Gb) | [PEAK TIME \- Survival Round](https://open.spotify.com/album/67ty9JxnL34dc5TZdAAsqt) | 2:47 |
 | 49 | [Beautiful](https://open.spotify.com/track/3oTqTIaSQw1A7pPabZLwtw) | [TEAM 15:00](https://open.spotify.com/artist/44qUs2UwzLHgKPkC8rsSdn) | [PEAK TIME \- Survival Round](https://open.spotify.com/album/67ty9JxnL34dc5TZdAAsqt) | 2:39 |
 
-Snapshot ID: `MCw5MjEzYTliYWM3NWQ0MWQzZGE5YzAwODI1ZDAxMzljZDlmNTg5ZDg2`
+Snapshot ID: `MCxiNGM5MDIxNDcxMjZjMjlhMTZhMWE0ZjQwNGU3YjE5ZDM5NjgyNDVi`

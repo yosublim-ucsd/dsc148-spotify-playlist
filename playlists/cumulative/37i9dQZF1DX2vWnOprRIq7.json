@@ -38,7 +38,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 225493,
       "name": "@CLOSEFRIENDS",
       "url": "https://open.spotify.com/track/6Fx5kFcfK0ttt4RlN8dJUU"
@@ -1658,7 +1658,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-10",
+      "date_removed": null,
       "duration_ms": 160093,
       "name": "Lineas del Cielo",
       "url": "https://open.spotify.com/track/462HCRcBrPdgOULlkefcmK"
@@ -2036,7 +2036,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 333853,
       "name": "Nana para Mam\u00e1",
       "url": "https://open.spotify.com/track/3cDmq6mlgFWbRybIE3WiSi"
@@ -2988,6 +2988,24 @@
       "duration_ms": 226960,
       "name": "Tu Color",
       "url": "https://open.spotify.com/track/4vaVD9B0RbZ0Puk9ABIGEm"
+    },
+    {
+      "album": {
+        "name": "Tu Color",
+        "url": "https://open.spotify.com/album/38DaQfytg4lkX9qupqzohm"
+      },
+      "artists": [
+        {
+          "name": "BUDAYA",
+          "url": "https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226960,
+      "name": "Tu Color",
+      "url": "https://open.spotify.com/track/51MQDiZAgOyUH8UXD3TTlY"
     },
     {
       "album": {

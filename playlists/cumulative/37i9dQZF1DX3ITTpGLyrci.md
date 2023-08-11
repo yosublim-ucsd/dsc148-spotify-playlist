@@ -4,7 +4,7 @@
 
 > Get the drinks on ice, this one is on us
 
-140 songs - 6 hr 55 min
+141 songs - 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Feel It \- Club Edit](https://open.spotify.com/track/71xKlOIhZKO55Rt3zSHzQt) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Feel It \(Club Edit\)](https://open.spotify.com/album/0xa0dJgYKO9keCfgjhuBYH) | 2:04 | 2023-07-25 |  |
 | [Feel It Deep Inside](https://open.spotify.com/track/1YLMg5pq8Je82sJeTKABM9) | [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Feel It Deep Inside](https://open.spotify.com/album/1i42rsf8yCTWXen3qADibG) | 2:33 | 2023-08-08 |  |
 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl) | 3:35 | 2023-08-08 |  |
-| [Feels So Good](https://open.spotify.com/track/2PzTX0SsojmnZ4ErracpAs) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [ShezAr](https://open.spotify.com/artist/3PPJmIxohGjhNvQIyrksIW) | [Rise](https://open.spotify.com/album/5HueThbkyHjnAA3w4yKCSZ) | 3:34 | 2023-04-18 |  |
+| [Feels So Good](https://open.spotify.com/track/2PzTX0SsojmnZ4ErracpAs) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [ShezAr](https://open.spotify.com/artist/3PPJmIxohGjhNvQIyrksIW) | [Rise](https://open.spotify.com/album/5HueThbkyHjnAA3w4yKCSZ) | 3:34 | 2023-04-18 | 2023-08-11 |
+| [Feels so Good \(feat\. ShezAr\)](https://open.spotify.com/track/35DTgqHC24kSZXim6ZvQGa) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [ShezAr](https://open.spotify.com/artist/3PPJmIxohGjhNvQIyrksIW) | [Rise](https://open.spotify.com/album/0p2QNuTbJb6HXc7WMSszd4) | 3:34 | 2023-08-08 |  |
 | [Ferrari](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8) | 3:06 | 2023-04-18 |  |
 | [For You](https://open.spotify.com/track/4H4O2bVxkax5ZCFiqZyzLZ) | [Bazzyb](https://open.spotify.com/artist/5OWNscJ67NG7PGsYogbQ97) | [For You](https://open.spotify.com/album/1AFhCDtL1DKRhcEGLsimcE) | 2:17 | 2023-04-18 | 2023-06-03 |
 | [For You](https://open.spotify.com/track/4hTFJO0rZrmMSlSivJcSyv) | [Bazzyb](https://open.spotify.com/artist/5OWNscJ67NG7PGsYogbQ97) | [For You \(Extended Mix\)](https://open.spotify.com/album/6hcQbfNP2z6FPGvQX1aKvb) | 2:17 | 2023-05-30 | 2023-06-19 |

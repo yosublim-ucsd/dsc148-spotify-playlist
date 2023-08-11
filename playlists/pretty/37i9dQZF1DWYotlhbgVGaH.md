@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 
 > It’s a swing thing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,896 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,932 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,24 +18,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 | 8 | [Everybody's Talkin' Bout Miss Thing!](https://open.spotify.com/track/7wBss3MP3jfqAwPMT3L75S) | [Lavay Smith & Her Red Hot Skillet Lickers](https://open.spotify.com/artist/4pMt1AgzE3YyjE784QVkr2) | [Everybody's Talkin' Bout Miss Thing!](https://open.spotify.com/album/1dwJAx7zBEoBpR0UiVzSJ9) | 3:11 |
 | 9 | [Zip Gun Bop](https://open.spotify.com/track/4I4jQb4fkv51CLeTYMXGKT) | [Royal Crown Revue](https://open.spotify.com/artist/1xPJUnlSWLJHXch33w1Ljj) | [Mugzy's Move](https://open.spotify.com/album/4G4L75SsXcxNX6UyDtmkSm) | 3:26 |
 | 10 | [The Shim Sham Song](https://open.spotify.com/track/4ayZeCFcpODpQMwz9PRDQN) | [Bill Elliott Swing Orchestra](https://open.spotify.com/artist/47m9IPURs2aBzBDdHGsHIn) | [Swingin' the Century](https://open.spotify.com/album/7rHzE5MqbD44u0IR8iV44R) | 3:00 |
-| 11 | [Got My Own Thing Now \- Remastered 2016](https://open.spotify.com/track/1guXZjrIm5XkzdWM2OAk7p) | [Squirrel Nut Zippers](https://open.spotify.com/artist/0LIll5i3kwo5A3IDpipgkS) | [Hot \(Remastered / 20th Anniversary Edition\)](https://open.spotify.com/album/7dPq7uxh4wGS8EIP2kQNw3) | 2:30 |
+| 11 | [Put A Lid On It](https://open.spotify.com/track/06HM8m5kmKG8AOt7eelGhI) | [Squirrel Nut Zippers](https://open.spotify.com/artist/0LIll5i3kwo5A3IDpipgkS) | [The Best of Squirrel Nut Zippers](https://open.spotify.com/album/1zfRj4Yk4OHWYVgzDD9y01) | 2:37 |
 | 12 | [This Cat's On A Hot Tin Roof](https://open.spotify.com/track/4CAwwZXWojksW05Q2pD840) | [The Brian Setzer Orchestra](https://open.spotify.com/artist/7HQH1SJokcVMdstilKJ2S8) | [The Dirty Boogie](https://open.spotify.com/album/4st9EfeMOnXoxkIPS0fik4) | 2:19 |
 | 13 | [Rhythm](https://open.spotify.com/track/173Qo5lw33RFSTOahpwvtk) | [Casey MacGill & the Spirits of Rhythm](https://open.spotify.com/artist/0zn3Ird4h7BfNbZAycXoMj) | [Jump](https://open.spotify.com/album/4NL6yXTKKyV9da5YPgHAkC) | 2:47 |
-| 14 | [That's Where My Money Goes](https://open.spotify.com/track/5ZX97cAgS6kRjqnudi7Ffq) | [Indigo Swing](https://open.spotify.com/artist/6GazGf0mVldGgYT3fDIQdS) | [All Aboard!](https://open.spotify.com/album/2njHwS9Ic2gVrLrc2bgLwa) | 2:56 |
+| 14 | [Brown Derby Jump](https://open.spotify.com/track/5SEiTOjPOmNHDAyv6dfkDT) | [Cherry Poppin' Daddies](https://open.spotify.com/artist/1stGNsBocVFM9MfQtySETw) | [Zoot Suit Riot](https://open.spotify.com/album/2iVgBMU6oDxmtIljVmJwkz) | 2:59 |
 | 15 | [King Of Swing](https://open.spotify.com/track/7gfvRgIRok1ceh4QmTbBk9) | [Big Bad Voodoo Daddy](https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB) | [Big Bad Voodoo Daddy](https://open.spotify.com/album/2EHcwZqBj63kO2bwGKulBj) | 4:58 |
-| 16 | [Brown Derby Jump](https://open.spotify.com/track/5SEiTOjPOmNHDAyv6dfkDT) | [Cherry Poppin' Daddies](https://open.spotify.com/artist/1stGNsBocVFM9MfQtySETw) | [Zoot Suit Riot](https://open.spotify.com/album/2iVgBMU6oDxmtIljVmJwkz) | 2:59 |
-| 17 | [Put A Lid On It](https://open.spotify.com/track/06HM8m5kmKG8AOt7eelGhI) | [Squirrel Nut Zippers](https://open.spotify.com/artist/0LIll5i3kwo5A3IDpipgkS) | [The Best of Squirrel Nut Zippers](https://open.spotify.com/album/1zfRj4Yk4OHWYVgzDD9y01) | 2:37 |
+| 16 | [That's Where My Money Goes](https://open.spotify.com/track/5ZX97cAgS6kRjqnudi7Ffq) | [Indigo Swing](https://open.spotify.com/artist/6GazGf0mVldGgYT3fDIQdS) | [All Aboard!](https://open.spotify.com/album/2njHwS9Ic2gVrLrc2bgLwa) | 2:56 |
+| 17 | [Got My Own Thing Now \- Remastered 2016](https://open.spotify.com/track/1guXZjrIm5XkzdWM2OAk7p) | [Squirrel Nut Zippers](https://open.spotify.com/artist/0LIll5i3kwo5A3IDpipgkS) | [Hot \(Remastered / 20th Anniversary Edition\)](https://open.spotify.com/album/7dPq7uxh4wGS8EIP2kQNw3) | 2:30 |
 | 18 | [Come On\-A\-My House](https://open.spotify.com/track/6Ts8NAuSSmfaXQyGFovDCe) | [Big Kahuna and the Copa Cat Pack](https://open.spotify.com/artist/3iGq2LBMHaB9XLmPMopIV4) | [Hawaiian Swing](https://open.spotify.com/album/0Zyc4YTwXUZLewbfOYKAcj) | 2:10 |
 | 19 | [Barflies at the Beach](https://open.spotify.com/track/5etDbpznJN71iUKaXUkwf3) | [Royal Crown Revue](https://open.spotify.com/artist/1xPJUnlSWLJHXch33w1Ljj) | [Mugzy's Move](https://open.spotify.com/album/4G4L75SsXcxNX6UyDtmkSm) | 3:01 |
 | 20 | [Hey Señorita](https://open.spotify.com/track/6CMDUEtmE7oMea4hBkk57l) | [Big Sandy](https://open.spotify.com/artist/6dFfHo9uIMufb4PrkOOCsp) | [Dedicated To You](https://open.spotify.com/album/3pZ5E4bGNmkk5o0rX4UJvw) | 2:15 |
 | 21 | [Swing Sweet Pussycat](https://open.spotify.com/track/5EK0gbkVLrLtOvwXy7PWEW) | [The Atomic Fireballs](https://open.spotify.com/artist/3gv1hh37jyGKfyAjFvv7No) | [Torch This Place](https://open.spotify.com/album/6oGSFYCtrg0UYAPx7j5x1L) | 3:09 |
-| 22 | [Pink Cadillac](https://open.spotify.com/track/4mXK4UWo8DTzJvoNsLOAOU) | [Indigo Swing](https://open.spotify.com/artist/6GazGf0mVldGgYT3fDIQdS) | [Indigo Swing](https://open.spotify.com/album/0BHd15407qFmwe0VNGoMQ4) | 2:22 |
+| 22 | [The Ding\-Dong Daddy of the D\-Car Line](https://open.spotify.com/track/6yJif668Hq2RhlTpHpXeMf) | [Cherry Poppin' Daddies](https://open.spotify.com/artist/1stGNsBocVFM9MfQtySETw) | [Rapid City Muscle Car](https://open.spotify.com/album/3xyaJb0xyyQDeAfPPhotOR) | 3:34 |
 | 23 | [Minnie The Moocher](https://open.spotify.com/track/0LFIogdKLhuH3y1Tf78EYW) | [Big Bad Voodoo Daddy](https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB) | [How Big Can You Get?: The Music Of Cab Calloway](https://open.spotify.com/album/5EaHXOzSnLy8aRqD4gaCht) | 4:59 |
 | 24 | [I Dare You Baby](https://open.spotify.com/track/5EnB7dy2Yt1AoNDL9D6aFw) | [Blue Harlem](https://open.spotify.com/artist/0Tlr99AfynQKne0alCDv90) | [I Dare You!](https://open.spotify.com/album/7IbV9UGQrHutw7rb0hggG2) | 2:59 |
 | 25 | [Swing Let's Swing](https://open.spotify.com/track/7dSQJiQTr8WPJWxaplRSEg) | [The Lucky Strikes](https://open.spotify.com/artist/0kZKKhAXEKjfOOMJTiWwyC) | [Song and Dance](https://open.spotify.com/album/1StimveT7gL5I8Rq7bMlSa) | 2:19 |
-| 26 | [The Ding\-Dong Daddy of the D\-Car Line](https://open.spotify.com/track/6yJif668Hq2RhlTpHpXeMf) | [Cherry Poppin' Daddies](https://open.spotify.com/artist/1stGNsBocVFM9MfQtySETw) | [Rapid City Muscle Car](https://open.spotify.com/album/3xyaJb0xyyQDeAfPPhotOR) | 3:34 |
-| 27 | [The Joint is Jumpin'](https://open.spotify.com/track/3LrDcOzd4gpkXanl4Xeqf1) | [Ray Gelato](https://open.spotify.com/artist/5w106KVVwKZfzawD8dCYa3) | [Salutes the Great Entertainers](https://open.spotify.com/album/5j6NI2UTBAJ1NcptiLqI1s) | 2:45 |
-| 28 | [Swing Baby!](https://open.spotify.com/track/19ckX4sy4F87WkxwbKcksC) | [Big Rude Jake](https://open.spotify.com/artist/27A12UIlenEiLoCbYk8KaA) | [Blue Pariah](https://open.spotify.com/album/48gnAQBwCcEqxXj9nfsYpS) | 3:22 |
+| 26 | [Pink Cadillac](https://open.spotify.com/track/4mXK4UWo8DTzJvoNsLOAOU) | [Indigo Swing](https://open.spotify.com/artist/6GazGf0mVldGgYT3fDIQdS) | [Indigo Swing](https://open.spotify.com/album/0BHd15407qFmwe0VNGoMQ4) | 2:22 |
+| 27 | [Swing Baby!](https://open.spotify.com/track/19ckX4sy4F87WkxwbKcksC) | [Big Rude Jake](https://open.spotify.com/artist/27A12UIlenEiLoCbYk8KaA) | [Blue Pariah](https://open.spotify.com/album/48gnAQBwCcEqxXj9nfsYpS) | 3:22 |
+| 28 | [The Joint is Jumpin'](https://open.spotify.com/track/3LrDcOzd4gpkXanl4Xeqf1) | [Ray Gelato](https://open.spotify.com/artist/5w106KVVwKZfzawD8dCYa3) | [Salutes the Great Entertainers](https://open.spotify.com/album/5j6NI2UTBAJ1NcptiLqI1s) | 2:45 |
 | 29 | [Planet Jive](https://open.spotify.com/track/0P5aqi6J8btRUjZQKnVOst) | [The Jive Aces](https://open.spotify.com/artist/3hR8kE1jAgMhut0Daw3EL2) | [Planet Jive](https://open.spotify.com/album/500HHXaBRyYMmNjRJwvZW7) | 3:52 |
 | 30 | [Go Daddy O](https://open.spotify.com/track/2q0gGzRNpYMYjXmMFidK0H) | [Big Bad Voodoo Daddy](https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB) | [Big Bad Voodoo Daddy](https://open.spotify.com/album/2EHcwZqBj63kO2bwGKulBj) | 3:12 |
 | 31 | [Whadaya Want](https://open.spotify.com/track/4HhMriMXwEGE1YE34qFyVZ) | [Casey MacGill & the Spirits of Rhythm](https://open.spotify.com/artist/0zn3Ird4h7BfNbZAycXoMj) | [Jump](https://open.spotify.com/album/4NL6yXTKKyV9da5YPgHAkC) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 | 49 | [Sausage Rock](https://open.spotify.com/track/06v4Mcr5umCoKHSYD5dQ6I) | [Four Charms](https://open.spotify.com/artist/3SQLfVTpkQNXKRueLBRDcs) | [Flatland Boogie](https://open.spotify.com/album/2PzxIMY0LNu6BLbInjjwhV) | 2:28 |
 | 50 | [Jumptown](https://open.spotify.com/track/1czUXM9zdBi7oJWDyy3qsb) | [Steve Lucky & The Rhumba Bums](https://open.spotify.com/artist/5xzQRLHXjWFBLtERMaFBFS) | [Come Out Swingin'](https://open.spotify.com/album/0KrEsS9K8yqU0vpCfLZo7g) | 4:40 |
 
-Snapshot ID: `MCwzNzRlZGUzOTIxNDkyMzBjN2QwNDI4N2E5ZmI2MTYwNTAzNzYxMjNm`
+Snapshot ID: `MCxiOTlkZGZiOTJiYjE5Y2RlOWUzNzQ4N2JhYzhkMzI5NzFlN2I2MThi`

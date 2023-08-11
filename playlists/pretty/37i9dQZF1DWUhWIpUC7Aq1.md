@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 
 > Not your manic pixie dream girl, just twee af\. Cover: Zooey Deschanel
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,240 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,360 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 | 76 | [Elephant Gun](https://open.spotify.com/track/52Nm0n6chJlGJJqhiZ6oMz) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Elephant Gun](https://open.spotify.com/album/6nGeQUOXlKSENB3A9ijD20) | 5:48 |
 | 77 | [Romulus](https://open.spotify.com/track/2woPqHnZek73ZIcozlk0Ig) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Michigan](https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk) | 4:41 |
 | 78 | [Excuses](https://open.spotify.com/track/4Tm2TkKTe23pgMXMzOK4Z2) | [The Morning Benders](https://open.spotify.com/artist/5UqjSHztpMyc0liXncNbGD) | [Big Echo](https://open.spotify.com/album/5UYmZOpjjA5Y7GyZhjI6fy) | 5:17 |
-| 79 | [Foundations](https://open.spotify.com/track/1wi4ti9BYUbwoGJ1EBUVtv) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [Made of Bricks](https://open.spotify.com/album/4KNq0XtAJOTRKIA6W5zRsY) | 4:05 |
-| 80 | [Get Me Away From Here, I'm Dying](https://open.spotify.com/track/0T3j1KHC2U00Gw4gaLQBh9) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [If You're Feeling Sinister](https://open.spotify.com/album/3e9VtbXnl6tqrFKrnNyxaI) | 3:25 |
+| 79 | [Get Me Away From Here, I'm Dying](https://open.spotify.com/track/0T3j1KHC2U00Gw4gaLQBh9) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [If You're Feeling Sinister](https://open.spotify.com/album/3e9VtbXnl6tqrFKrnNyxaI) | 3:25 |
+| 80 | [Foundations](https://open.spotify.com/track/1wi4ti9BYUbwoGJ1EBUVtv) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [Made of Bricks](https://open.spotify.com/album/4KNq0XtAJOTRKIA6W5zRsY) | 4:05 |
 | 81 | [Hotel Song](https://open.spotify.com/track/2AqmtgKAp7scMFisn3j6ma) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Begin to Hope](https://open.spotify.com/album/4L4tcx3itXbtx5kuchKhFE) | 3:27 |
 | 82 | [Your Ex\-Lover Is Dead](https://open.spotify.com/track/6XGKlssGb3oE9IUCvjLthd) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [Set Yourself On Fire](https://open.spotify.com/album/6CYTAXBPYJ43irABGOJmIw) | 4:16 |
 | 83 | [Heart It Races](https://open.spotify.com/track/6SHYWXOqmf0fBWO1k0Zz2k) | [Architecture In Helsinki](https://open.spotify.com/artist/60eT7q88iLWKnuSXed1AGr) | [Places Like This](https://open.spotify.com/album/1b4lom8FxPZKDw21uWK5aM) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 | 99 | [I Was Never Young](https://open.spotify.com/track/4E0aFRH5Nr8cIPm1CnqTvG) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [The Sunlandic Twins](https://open.spotify.com/album/2h79iBNx5cNPafy42aI1NE) | 3:30 |
 | 100 | [I Thought I Saw Your Face Today](https://open.spotify.com/track/4B1cHpLjzKUSm7LYGmxInZ) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume One](https://open.spotify.com/album/2qIu18hUz5c6BzY3Rh6fIJ) | 2:50 |
 
-Snapshot ID: `MCw1ZWU4ZDc3MDBkZGJkMzE2YTdhYmJkMmJlODZjZWQ5OGRhYmU3ZWJi`
+Snapshot ID: `MCxlYWVjNDkyZmMyNWUwOTVmYzQyNmQ5OTczNmI0NzNmNGEwNmUwMDkw`

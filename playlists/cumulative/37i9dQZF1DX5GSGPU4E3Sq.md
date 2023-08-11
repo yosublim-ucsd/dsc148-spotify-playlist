@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5GSGPU4E3Sq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5GSGPU4E3Sq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5GSGPU4E3Sq)
 
-### [Bosque Místico](https://open.spotify.com/playlist/37i9dQZF1DX5GSGPU4E3Sq)
+### [Terapia de Bosque](https://open.spotify.com/playlist/37i9dQZF1DX5GSGPU4E3Sq)
 
 > Piérdete en el misterio del bosque y sus poderes sanadores.
 
@@ -185,7 +185,7 @@
 | [Morning Ambience.](https://open.spotify.com/track/1AlDFB9mILDmXHEtRtlqjv) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Morning Ambience.](https://open.spotify.com/album/1EyGGKIoOyCgPp4wZV9anU) | 2:36 | 2022-06-29 | 2022-07-29 |
 | [Morning Dew](https://open.spotify.com/track/089VNP8Mc6sNi2gGQUCHal) | [Transcendental Youth](https://open.spotify.com/artist/0Wi7kNoJNUp6OyURGJIRIr) | [Morning Dew](https://open.spotify.com/album/3g7MWXqLIH5YCzfbbUfRRE) | 3:04 | 2022-07-19 |  |
 | [Morning Dew](https://open.spotify.com/track/45g3XJXG0ecARqck4cROdS) | [Transcendental Youth](https://open.spotify.com/artist/0Wi7kNoJNUp6OyURGJIRIr) | [Morning Dew](https://open.spotify.com/album/1U6USeQLlQTxjfLbjAOUSp) | 3:04 | 2022-06-29 | 2022-07-29 |
-| [Mountain Fog](https://open.spotify.com/track/3W4XdEp5feFsi9mePm506Q) | [Kalajvi](https://open.spotify.com/artist/2me6X7yihiSqhZTFSLH40V) | [Mountain Fog](https://open.spotify.com/album/2v3Nd2cDsZioTw0N157B3s) | 2:54 | 2022-06-29 |  |
+| [Mountain Fog](https://open.spotify.com/track/3W4XdEp5feFsi9mePm506Q) | [Kalajvi](https://open.spotify.com/artist/2me6X7yihiSqhZTFSLH40V) | [Mountain Fog](https://open.spotify.com/album/2v3Nd2cDsZioTw0N157B3s) | 2:54 | 2022-06-29 | 2023-08-11 |
 | [Mountains](https://open.spotify.com/track/1cOLJIEp1R1L21YwyXTOJC) | [Yorokobi](https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC) | [Mountains](https://open.spotify.com/album/3w5kvLUVWuYi7C5nZcjG1h) | 2:18 | 2023-03-30 |  |
 | [Mountains](https://open.spotify.com/track/6AfCbp1MYafDCjZZnwEaQx) | [Yorokobi](https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC) | [Mountains](https://open.spotify.com/album/2coNnA3QDgoYWqQgK7BDM9) | 2:18 | 2022-06-29 | 2022-07-29 |
 | [Myth](https://open.spotify.com/track/5KZVYoYeck4Hq0wzc7ugZ2) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [All Behind Us](https://open.spotify.com/album/2ti9WM4q1Qst0BcTs4Q8A3) | 2:39 | 2022-07-19 |  |
@@ -194,7 +194,7 @@
 | [Nature's Cradle](https://open.spotify.com/track/4P5BrmxMAJrqenB0L1e5Up) | [Sleepy Night Music](https://open.spotify.com/artist/3o4afy13rKHnQBOvWP1seP) | [Nature's Cradle](https://open.spotify.com/album/4kolQoCPZsE5KrroNfaRNK) | 3:20 | 2022-06-29 | 2022-07-29 |
 | [Ocean Breath](https://open.spotify.com/track/53Pqc0z3W4bJM9eeOO1W3O) | [Najia](https://open.spotify.com/artist/4qgxof0FH2zmybTkwjzuw1) | [Prana](https://open.spotify.com/album/1JKmutcbyJ9nbOAjZIc5nR) | 2:37 | 2022-06-29 |  |
 | [Om mani palme hum](https://open.spotify.com/track/0FtC15WLzcESeYps3uDcpP) | [CRAS](https://open.spotify.com/artist/7xLXfZZ2WhMqupfnyEZprQ), [KLiJN](https://open.spotify.com/artist/2NeBvyUzeaT49yAKHasE06) | [Om mani palme hum](https://open.spotify.com/album/2uiDDNlK6bgzWs1ELV0erj) | 5:00 | 2022-06-29 |  |
-| [Open Glade](https://open.spotify.com/track/1FOoBkU22JS0C6HyTTnyTP) | [Altum Somnum](https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935) | [Inhale Exhale](https://open.spotify.com/album/3CfSVYL9R08NRekGYvzE1W) | 3:29 | 2022-06-29 | 2023-05-25 |
+| [Open Glade](https://open.spotify.com/track/1FOoBkU22JS0C6HyTTnyTP) | [Altum Somnum](https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935) | [Inhale Exhale](https://open.spotify.com/album/3CfSVYL9R08NRekGYvzE1W) | 3:29 | 2022-06-29 |  |
 | [Overture \(For Other Halfs\)](https://open.spotify.com/track/1F7vUCER63VfNzvZKTi2pn) | [Brian McBride](https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs) | [When the Detail Lost Its Freedom](https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs) | 6:38 | 2022-07-19 |  |
 | [Palais Glide](https://open.spotify.com/track/54wW2YP4R8WrwUKW0ZGOgH) | [The Boats](https://open.spotify.com/artist/12LR7O3LG2tezoEBx1yhRa) | [Sleepy Insect Music](https://open.spotify.com/album/1RSl923cV9vOzKkPBzssDt) | 2:26 | 2022-06-29 | 2023-04-21 |
 | [Pampeano](https://open.spotify.com/track/6TZtSaF9XUFlWBoDwYuqmR) | [Osno](https://open.spotify.com/artist/3XqgdBsuoShCOmDjwn5pWq) | [Pampeano](https://open.spotify.com/album/75T7bNuVXxahedg6q9knVS) | 4:27 | 2022-07-19 | 2022-10-12 |

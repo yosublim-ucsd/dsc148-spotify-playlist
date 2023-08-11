@@ -1,12 +1,12 @@
 {
   "description": "Chill out. ",
-  "num_followers": 46942,
+  "num_followers": 46956,
   "original_name": "Chill Lah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTUzYzdlMzBiYmVkMWMxMTkxYzBlNjlmMDMzZDExN2RjNDRiODQx",
+  "snapshot_id": "MCw0OWZiNDc1NDAxNDkxYmQwNDM5MmIzMGMxYjliZWQyNjg1NDE4ZjJj",
   "tracks": [
     {
       "added_at": "2023-04-20 15:55:01",
@@ -1211,22 +1211,18 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "more than friends",
-        "url": "https://open.spotify.com/album/5B7QRaSqhgyNd0u8tKZoEb"
+        "name": "Till The Morning",
+        "url": "https://open.spotify.com/album/6kL09GmdDpKlaM1veyxmZU"
       },
       "artists": [
         {
-          "name": "MFMF.",
-          "url": "https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR"
-        },
-        {
-          "name": "yuji",
-          "url": "https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW"
+          "name": "Gen Neo",
+          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
         }
       ],
-      "duration_ms": 160000,
-      "name": "more than friends",
-      "url": "https://open.spotify.com/track/6UKJSeAwuHJ9nl7vyMeUJX"
+      "duration_ms": 169200,
+      "name": "Till The Morning",
+      "url": "https://open.spotify.com/track/7dyTGeerbfWSCMCfWETZ3K"
     }
   ],
   "unique_name": "Chill Lah",

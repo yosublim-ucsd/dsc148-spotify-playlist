@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 > Country Music that ROCKS! Cover: Chris Stapleton
 
-[Spotify](https://open.spotify.com/user/spotify) - 547,741 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 548,032 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 63 | [Waiting for the Thunder](https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Like an Arrow](https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0) | 4:07 |
 | 64 | [Fire On Wheels](https://open.spotify.com/track/2EuSpBqoWsE5ohMBCXXUHO) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Fire On Wheels](https://open.spotify.com/album/6FaaYVLUK4mAjSqYykdvv7) | 2:36 |
 | 65 | [That's Why We Fight \(feat\. Koe Wetzel\)](https://open.spotify.com/track/33MnBkmn4aV4AbUQS17eYU) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [That's Why We Fight \(feat\. Koe Wetzel\)](https://open.spotify.com/album/5JosqecYhWy8ikWQtYVLel) | 2:43 |
-| 66 | [Between Jennings And Jones](https://open.spotify.com/track/2Jq2KzxOvLrlH16hlcnm7d) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [That Lonesome Song](https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i) | 4:11 |
-| 67 | [I Only Date Cowboys](https://open.spotify.com/track/0Jq7igSKyTZxkvLoqr0bsX) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [I Only Date Cowboys](https://open.spotify.com/album/6haivFChfJxUDTm0DytCpI) | 2:56 |
+| 66 | [I Only Date Cowboys](https://open.spotify.com/track/0Jq7igSKyTZxkvLoqr0bsX) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [I Only Date Cowboys](https://open.spotify.com/album/6haivFChfJxUDTm0DytCpI) | 2:56 |
+| 67 | [Between Jennings And Jones](https://open.spotify.com/track/2Jq2KzxOvLrlH16hlcnm7d) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [That Lonesome Song](https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i) | 4:11 |
 | 68 | [Pain Killer](https://open.spotify.com/track/1Kmx22eXsWnlggH0Aj6wsa) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pain Killer](https://open.spotify.com/album/1lSlga0mS2Ejwon1d6MmuQ) | 2:47 |
 | 69 | [Side Effects Of The Heart](https://open.spotify.com/track/0dQBrRLmcqB19S1X29ZX6Y) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o) | [Side Effects Of The Heart](https://open.spotify.com/album/2gNistjl0EPPCBD9LsjUoN) | 4:08 |
 | 70 | [Long Haired Country Boy \(feat\. The Rockin' CJB\)](https://open.spotify.com/track/4j6mrg4fGP1MVfOPN740VJ) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [The Rockin' CJB](https://open.spotify.com/artist/29MrkEEHOU5icmFXxLe0OV) | [Ain't Nothin' to It](https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob) | 4:17 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 74 | [Six Feet Deep](https://open.spotify.com/track/5oHzaBb8BE88p14nnwLr8z) | [Royale Lynn](https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK) | [Six Feet Deep](https://open.spotify.com/album/38zzUuhTIFY7upxCSABbRt) | 3:10 |
 | 75 | [Looking Back Now](https://open.spotify.com/track/37imLguIvWwDJNT6RGO2Qi) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [Looking Back Now](https://open.spotify.com/album/47MPMs9cQemgI2ek85Rbqd) | 3:29 |
 | 76 | [April Showers](https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [April Showers](https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX) | 3:02 |
-| 77 | [ALL GAS](https://open.spotify.com/track/2THiSfWbMGD9l2g2Ircxga) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [ALL GAS](https://open.spotify.com/album/1seio61icD3MnJLTyeX3Cv) | 2:49 |
-| 78 | [Over Me By Now](https://open.spotify.com/track/2KLAl3FGKwh0jxbxR7jYWI) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Manchester](https://open.spotify.com/album/4u7tys2Fn3FDS5gVUJEJWB) | 2:41 |
+| 77 | [Over Me By Now](https://open.spotify.com/track/2KLAl3FGKwh0jxbxR7jYWI) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Manchester](https://open.spotify.com/album/4u7tys2Fn3FDS5gVUJEJWB) | 2:41 |
+| 78 | [ALL GAS](https://open.spotify.com/track/2THiSfWbMGD9l2g2Ircxga) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [ALL GAS](https://open.spotify.com/album/1seio61icD3MnJLTyeX3Cv) | 2:49 |
 | 79 | [Neon Light](https://open.spotify.com/track/289hx4t6fH2BBe8p6cnXo1) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [BRINGING BACK THE SUNSHINE](https://open.spotify.com/album/0daIqjuhsQqXoeII3pBSeT) | 3:41 |
 | 80 | [World On Fire](https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [World On Fire](https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7) | 4:21 |
 | 81 | [Let the Rain Come Down](https://open.spotify.com/track/7aQWQSrLhPuRbHUewe6HLB) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Straw in the Wind](https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 99 | [Shoot From The Hip](https://open.spotify.com/track/4F880Aeo2WO7N0lULjWgzm) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Brothers Osborne](https://open.spotify.com/album/7xiDBY4VdkEgAp5Ua60MBi) | 3:33 |
 | 100 | [What Do I Know \(feat\. HARDY\)](https://open.spotify.com/track/2SncBUzb3UsejCoo4NHhtk) | [Robert Counts](https://open.spotify.com/artist/5pKy8QL8CUEtkvOI6dpUm9), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [What Do I Know \(feat\. HARDY\)](https://open.spotify.com/album/2hqjCJb0jLGNPyBjBV9WVJ) | 3:28 |
 
-Snapshot ID: `MCxjNjM1ZDVkZDA4NTNkM2QyODgwYmE1M2Q0YmE2MWFmNGRlOWI3ODYy`
+Snapshot ID: `MCwwN2I1YWVlNGIyYzg0NGIyY2RjNTRhZDNkMDgxNmE2MTY5NDU3OGUw`

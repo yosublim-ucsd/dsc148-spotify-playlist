@@ -1040,7 +1040,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 214747,
       "name": "Get It \u2018Fore It\u2019s Gone",
       "url": "https://open.spotify.com/track/6bFQTxFd9QCL8te5fbjt8i"
@@ -2700,6 +2700,24 @@
       "duration_ms": 250426,
       "name": "pop the placebo",
       "url": "https://open.spotify.com/track/0a8eRyWUFB5icN7tNRwgFr"
+    },
+    {
+      "album": {
+        "name": "Pure Serotonin",
+        "url": "https://open.spotify.com/album/7ue0HaSAeeyfcpTBYutsk5"
+      },
+      "artists": [
+        {
+          "name": "The 502s",
+          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271108,
+      "name": "Postcards",
+      "url": "https://open.spotify.com/track/0pqLCQ7tArc5qAH3BnQ9EE"
     },
     {
       "album": {

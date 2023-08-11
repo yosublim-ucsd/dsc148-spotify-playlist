@@ -1,28 +1,28 @@
 {
-  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J?si=m5AVXRVKQzGnJmCkSoPmwQ\">Snotkop</a> ",
-  "num_followers": 77040,
+  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx?si=vschVYCPThSoXFG9-NSEFg\">Bernice West</a> ",
+  "num_followers": 77116,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZThjYmE3ZGY0MTU3MGEwOGQyNTBkOTRjM2Q3MGExMjk3ZTA0YTJk",
+  "snapshot_id": "MCwwNjRkMmY2NmVjNTNmNGNjMzJhOTIyYWJjNDJkYzRkZTIwMjYyMTk5",
   "tracks": [
     {
-      "added_at": "2023-08-03 21:59:00",
+      "added_at": "2023-08-10 21:59:00",
       "album": {
-        "name": "Marakas",
-        "url": "https://open.spotify.com/album/5PW1QI5M5ghXWrnYP9X4bs"
+        "name": "As Hy Weer Kom",
+        "url": "https://open.spotify.com/album/7lkDfSy0MUwIp6N8JQCZQF"
       },
       "artists": [
         {
-          "name": "Snotkop",
-          "url": "https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J"
+          "name": "Bernice West",
+          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
         }
       ],
-      "duration_ms": 241063,
-      "name": "Marakas",
-      "url": "https://open.spotify.com/track/1CZuOrdzTTkkNeTIHU26WF"
+      "duration_ms": 187000,
+      "name": "As Hy Weer Kom",
+      "url": "https://open.spotify.com/track/5XRiNFuNKfDBUlAIUqmNSm"
     },
     {
       "added_at": "2023-06-29 21:59:00",
@@ -39,22 +39,6 @@
       "duration_ms": 202917,
       "name": "Foute",
       "url": "https://open.spotify.com/track/6K6L2DgKgeREDJ8c0HxLZI"
-    },
-    {
-      "added_at": "2023-07-27 21:59:00",
-      "album": {
-        "name": "Toe, Nou en Altyd",
-        "url": "https://open.spotify.com/album/0fv8JKFHUF6o7GuWqPbpyy"
-      },
-      "artists": [
-        {
-          "name": "Bobby Van Jaarsveld",
-          "url": "https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD"
-        }
-      ],
-      "duration_ms": 221463,
-      "name": "Toe, Nou en Altyd",
-      "url": "https://open.spotify.com/track/0rjzroUiVMuRCNzC8iMVkf"
     },
     {
       "added_at": "2023-06-29 21:59:00",
@@ -91,22 +75,6 @@
     {
       "added_at": "2023-06-29 21:59:00",
       "album": {
-        "name": "Khaki",
-        "url": "https://open.spotify.com/album/1FzE8gRBbhOyVULGuxkWQ3"
-      },
-      "artists": [
-        {
-          "name": "Ricus Nel",
-          "url": "https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg"
-        }
-      ],
-      "duration_ms": 186495,
-      "name": "Khaki",
-      "url": "https://open.spotify.com/track/5YtFnh2RwQNFh5G35DntZZ"
-    },
-    {
-      "added_at": "2023-06-29 21:59:00",
-      "album": {
         "name": "Koue Kole",
         "url": "https://open.spotify.com/album/7s3HaB5VNnGEpDMCmRO2UE"
       },
@@ -139,6 +107,38 @@
     {
       "added_at": "2023-06-29 21:59:00",
       "album": {
+        "name": "Khaki",
+        "url": "https://open.spotify.com/album/1FzE8gRBbhOyVULGuxkWQ3"
+      },
+      "artists": [
+        {
+          "name": "Ricus Nel",
+          "url": "https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg"
+        }
+      ],
+      "duration_ms": 186495,
+      "name": "Khaki",
+      "url": "https://open.spotify.com/track/5YtFnh2RwQNFh5G35DntZZ"
+    },
+    {
+      "added_at": "2023-07-27 21:59:00",
+      "album": {
+        "name": "Toe, Nou en Altyd",
+        "url": "https://open.spotify.com/album/0fv8JKFHUF6o7GuWqPbpyy"
+      },
+      "artists": [
+        {
+          "name": "Bobby Van Jaarsveld",
+          "url": "https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD"
+        }
+      ],
+      "duration_ms": 221463,
+      "name": "Toe, Nou en Altyd",
+      "url": "https://open.spotify.com/track/0rjzroUiVMuRCNzC8iMVkf"
+    },
+    {
+      "added_at": "2023-06-29 21:59:00",
+      "album": {
         "name": "Spontaan",
         "url": "https://open.spotify.com/album/25pTHMFYTDNLVnEqRKIVQl"
       },
@@ -167,6 +167,22 @@
       "duration_ms": 205237,
       "name": "Vlam In Die Wind",
       "url": "https://open.spotify.com/track/3CAs3oyxYvbWezkHooI3Kj"
+    },
+    {
+      "added_at": "2023-08-10 21:59:00",
+      "album": {
+        "name": "Boer In My Hart",
+        "url": "https://open.spotify.com/album/4JL1ZXeecKOOsbZFRJnuqj"
+      },
+      "artists": [
+        {
+          "name": "VAN WEST",
+          "url": "https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq"
+        }
+      ],
+      "duration_ms": 230163,
+      "name": "Boer In My Hart",
+      "url": "https://open.spotify.com/track/3O2mkRrUcsxZGETDCWPSjy"
     },
     {
       "added_at": "2023-06-29 21:59:00",
@@ -255,18 +271,18 @@
     {
       "added_at": "2023-08-03 21:59:00",
       "album": {
-        "name": "Hey Jy",
-        "url": "https://open.spotify.com/album/3c1a2CHREGxoqHBU8ml7nC"
+        "name": "Marakas",
+        "url": "https://open.spotify.com/album/5PW1QI5M5ghXWrnYP9X4bs"
       },
       "artists": [
         {
-          "name": "Rooksein",
-          "url": "https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT"
+          "name": "Snotkop",
+          "url": "https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J"
         }
       ],
-      "duration_ms": 200129,
-      "name": "Hey Jy",
-      "url": "https://open.spotify.com/track/0xjkqCaJ1EbdcFUz9rnoCI"
+      "duration_ms": 241063,
+      "name": "Marakas",
+      "url": "https://open.spotify.com/track/1CZuOrdzTTkkNeTIHU26WF"
     },
     {
       "added_at": "2023-06-29 21:59:00",
@@ -333,20 +349,20 @@
       "url": "https://open.spotify.com/track/6qXoZby29Lp0QmA4NsSE0J"
     },
     {
-      "added_at": "2023-07-13 21:59:00",
+      "added_at": "2023-08-03 21:59:00",
       "album": {
-        "name": "Wat nou?",
-        "url": "https://open.spotify.com/album/1Jj5WCIH5SQXLKTfJ3VLwM"
+        "name": "Hey Jy",
+        "url": "https://open.spotify.com/album/3c1a2CHREGxoqHBU8ml7nC"
       },
       "artists": [
         {
-          "name": "Riana Nel",
-          "url": "https://open.spotify.com/artist/6Skl2RueCJYKBBm1Yr6BBQ"
+          "name": "Rooksein",
+          "url": "https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT"
         }
       ],
-      "duration_ms": 158750,
-      "name": "Wat nou?",
-      "url": "https://open.spotify.com/track/736z0fpLePveyPW7cdzCDJ"
+      "duration_ms": 200129,
+      "name": "Hey Jy",
+      "url": "https://open.spotify.com/track/0xjkqCaJ1EbdcFUz9rnoCI"
     },
     {
       "added_at": "2023-06-29 21:59:00",
@@ -469,6 +485,22 @@
       "url": "https://open.spotify.com/track/2NKIqGaDkBuKQLQsGvp2Pq"
     },
     {
+      "added_at": "2023-07-13 21:59:00",
+      "album": {
+        "name": "Wat nou?",
+        "url": "https://open.spotify.com/album/1Jj5WCIH5SQXLKTfJ3VLwM"
+      },
+      "artists": [
+        {
+          "name": "Riana Nel",
+          "url": "https://open.spotify.com/artist/6Skl2RueCJYKBBm1Yr6BBQ"
+        }
+      ],
+      "duration_ms": 158750,
+      "name": "Wat nou?",
+      "url": "https://open.spotify.com/track/736z0fpLePveyPW7cdzCDJ"
+    },
+    {
       "added_at": "2023-06-29 21:59:00",
       "album": {
         "name": "Lawaaiwater",
@@ -547,22 +579,6 @@
       "duration_ms": 167933,
       "name": "Kyk Na My Hart",
       "url": "https://open.spotify.com/track/3ZHlUA6rI4xaljhilmWDtN"
-    },
-    {
-      "added_at": "2023-07-20 21:59:00",
-      "album": {
-        "name": "Ligte Af",
-        "url": "https://open.spotify.com/album/15v3zObf0eumyFqXxEQNFe"
-      },
-      "artists": [
-        {
-          "name": "Ruan Josh",
-          "url": "https://open.spotify.com/artist/0laMRbnKacdf1ueMabXUPO"
-        }
-      ],
-      "duration_ms": 206732,
-      "name": "Ligte Af",
-      "url": "https://open.spotify.com/track/2ZEYOx3O4BhTOrSZE36k6a"
     },
     {
       "added_at": "2023-06-29 21:59:00",
@@ -769,20 +785,20 @@
       "url": "https://open.spotify.com/track/63jjmPri2msVTjuX1Jdwbw"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
+      "added_at": "2023-07-20 21:59:00",
       "album": {
-        "name": "Ontlaai",
-        "url": "https://open.spotify.com/album/0B1W6DEeGMPMFlg3eREW9b"
+        "name": "Ligte Af",
+        "url": "https://open.spotify.com/album/15v3zObf0eumyFqXxEQNFe"
       },
       "artists": [
         {
-          "name": "Il\u00e1n van Staden",
-          "url": "https://open.spotify.com/artist/7FUqmUXFmllziX2NgD4Knj"
+          "name": "Ruan Josh",
+          "url": "https://open.spotify.com/artist/0laMRbnKacdf1ueMabXUPO"
         }
       ],
-      "duration_ms": 243541,
-      "name": "Ontlaai",
-      "url": "https://open.spotify.com/track/6v1hZo339lw7OUT5vH66DC"
+      "duration_ms": 206732,
+      "name": "Ligte Af",
+      "url": "https://open.spotify.com/track/2ZEYOx3O4BhTOrSZE36k6a"
     },
     {
       "added_at": "2023-06-29 21:59:00",
@@ -1143,22 +1159,6 @@
       "duration_ms": 269866,
       "name": "Hardekole",
       "url": "https://open.spotify.com/track/61StNZ96SCYNlM5l0IGdPl"
-    },
-    {
-      "added_at": "2023-06-29 21:59:00",
-      "album": {
-        "name": "Ja. Nee. Lekker. (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6ntTrtwUni1E0PAlSe61rY"
-      },
-      "artists": [
-        {
-          "name": "Die Heuwels Fantasties",
-          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
-        }
-      ],
-      "duration_ms": 182602,
-      "name": "Ballade Vir 'N Enkeling",
-      "url": "https://open.spotify.com/track/3AnbHTbNiQuURUxHiiFBtl"
     },
     {
       "added_at": "2023-06-29 21:59:00",

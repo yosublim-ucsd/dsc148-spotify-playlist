@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "New and emerging R&B and Alternative tracks. Cover: <a href=\"https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc?si=LOLdFQtbQLCmbOCCj1U6-A\"> Dayonthetrack </a> ",
+  "description": "New and emerging R&B, afropop and Alternative tracks. Cover: <a href=\"https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm?si=SZzwfXKMRKekFwGennHvQg\"> Herman Suede</a> ",
   "name": "Sizzlers ",
   "tracks": [
     {
@@ -504,7 +504,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 163266,
       "name": "Alone",
       "url": "https://open.spotify.com/track/1aJb5rl14uELMauKzgjW0v"
@@ -1074,6 +1074,28 @@
       "duration_ms": 234375,
       "name": "Better Than This (feat. Tellaman)",
       "url": "https://open.spotify.com/track/50PMuNQuMKQHCzxonOeDHE"
+    },
+    {
+      "album": {
+        "name": "Biggo",
+        "url": "https://open.spotify.com/album/5MbFksPaxBZuSTvlLeJ1Px"
+      },
+      "artists": [
+        {
+          "name": "95ANTNY",
+          "url": "https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw"
+        },
+        {
+          "name": "\u00d8bed",
+          "url": "https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176065,
+      "name": "Biggo",
+      "url": "https://open.spotify.com/track/3ObgktkhFwYk4HCksIBHRv"
     },
     {
       "album": {
@@ -2451,6 +2473,28 @@
     },
     {
       "album": {
+        "name": "Ecstasy + Casino",
+        "url": "https://open.spotify.com/album/7tOmKPfclJyzGajYhkYhuv"
+      },
+      "artists": [
+        {
+          "name": "Brown Joel",
+          "url": "https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM"
+        },
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202285,
+      "name": "Ecstasy",
+      "url": "https://open.spotify.com/track/1laV1oXXbi0pm99yaH8oG7"
+    },
+    {
+      "album": {
         "name": "Elastic",
         "url": "https://open.spotify.com/album/1pTw4tFwUjDXXZBCLtQ4aS"
       },
@@ -3601,6 +3645,28 @@
     },
     {
       "album": {
+        "name": "Grind",
+        "url": "https://open.spotify.com/album/2VOmtSWn8vejm1OhechcAo"
+      },
+      "artists": [
+        {
+          "name": "WillGell.",
+          "url": "https://open.spotify.com/artist/2PJsZgNY7GJTfj6gK2prHt"
+        },
+        {
+          "name": "Jess ETA",
+          "url": "https://open.spotify.com/artist/0pl5KisZPcKHhrruuvFg3y"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Grind",
+      "url": "https://open.spotify.com/track/0WEv44gRwkWTHC9tftF4S4"
+    },
+    {
+      "album": {
         "name": "Grown Ass Girl.",
         "url": "https://open.spotify.com/album/4KR4FghCCBGvhxvsgnRVe0"
       },
@@ -4072,10 +4138,28 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 190434,
       "name": "Hustle Up",
       "url": "https://open.spotify.com/track/7jAwMp9Wy1P9DL27fEke6Q"
+    },
+    {
+      "album": {
+        "name": "Lifesize Teddy",
+        "url": "https://open.spotify.com/album/2mr8Ja1rmL58whZTfBBPDe"
+      },
+      "artists": [
+        {
+          "name": "Lifesize Teddy",
+          "url": "https://open.spotify.com/artist/7qQNbbOL2eYZYxSGtcDvcR"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187606,
+      "name": "Hypnotic",
+      "url": "https://open.spotify.com/track/34JhQbb9lUXklugrGxG5d4"
     },
     {
       "album": {
@@ -5902,7 +5986,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 142336,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/2SnjbLwsNAyBMisj1ZVGjM"
@@ -6853,6 +6937,28 @@
     },
     {
       "album": {
+        "name": "Overload",
+        "url": "https://open.spotify.com/album/2JL6c6jajg4jNOJuW9gECJ"
+      },
+      "artists": [
+        {
+          "name": "Dj Voyst",
+          "url": "https://open.spotify.com/artist/7g61HbXl5DD2soIUBikmUA"
+        },
+        {
+          "name": "Dai Verse",
+          "url": "https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149125,
+      "name": "Overload",
+      "url": "https://open.spotify.com/track/7p2dftfOJG94HcOWazbBlx"
+    },
+    {
+      "album": {
         "name": "Paa Kwesi",
         "url": "https://open.spotify.com/album/1yU3mb5mTmLjrNpQNj68to"
       },
@@ -7578,7 +7684,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 182400,
       "name": "Reggae & Calypso",
       "url": "https://open.spotify.com/track/4H2xDMnEgjuJv6SkRo3RHj"
@@ -8559,6 +8665,24 @@
     },
     {
       "album": {
+        "name": "Spinning",
+        "url": "https://open.spotify.com/album/1msHJQyjb41fUgKLTtvy1V"
+      },
+      "artists": [
+        {
+          "name": "Lak3side",
+          "url": "https://open.spotify.com/artist/0ytn6ECGnWyNRCPmriBjgQ"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167319,
+      "name": "Spinning",
+      "url": "https://open.spotify.com/track/4FWIITAWPbL9W28tXAf96x"
+    },
+    {
+      "album": {
         "name": "STAR PLAYER",
         "url": "https://open.spotify.com/album/14B8S82MKCRFcA702ontrD"
       },
@@ -8726,6 +8850,32 @@
       "duration_ms": 141172,
       "name": "SUMMER 22 (NOSTALGIA)",
       "url": "https://open.spotify.com/track/0yzBlyGk6EnQiasWgiQsBK"
+    },
+    {
+      "album": {
+        "name": "Sundress",
+        "url": "https://open.spotify.com/album/4l3mnirO3XZxLKHIQ0c3cK"
+      },
+      "artists": [
+        {
+          "name": "Chop Daily",
+          "url": "https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG"
+        },
+        {
+          "name": "Deyon Agoi",
+          "url": "https://open.spotify.com/artist/7eJtF350ch6EJsxAo8uZJT"
+        },
+        {
+          "name": "July 7",
+          "url": "https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132837,
+      "name": "Sundress",
+      "url": "https://open.spotify.com/track/3UoasjQP4cTckRtun7sL3D"
     },
     {
       "album": {
@@ -9339,6 +9489,32 @@
     },
     {
       "album": {
+        "name": "Issues|Tsunami",
+        "url": "https://open.spotify.com/album/04gBoHn7W8BhfcuQYWb8yS"
+      },
+      "artists": [
+        {
+          "name": "Yimeeka",
+          "url": "https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK"
+        },
+        {
+          "name": "Manana",
+          "url": "https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ"
+        },
+        {
+          "name": "Semzi",
+          "url": "https://open.spotify.com/artist/2aWCLZqio9v0uUZEATR1Rv"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143157,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/5aQn07kU8bQFYTLX86jyyQ"
+    },
+    {
+      "album": {
         "name": "Kool Kidz",
         "url": "https://open.spotify.com/album/2NwOhTX9oL0xKai0a9mb2w"
       },
@@ -9859,6 +10035,24 @@
     },
     {
       "album": {
+        "name": "With It",
+        "url": "https://open.spotify.com/album/1n56rqbbcgKP1xGYGv7IJe"
+      },
+      "artists": [
+        {
+          "name": "Jay Moore",
+          "url": "https://open.spotify.com/artist/0xCBpVSxe0bO6Y7u3B3w5P"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "With It",
+      "url": "https://open.spotify.com/track/5kqHkhV1uIOs3tEhwK6HFR"
+    },
+    {
+      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/45i20rWbykJztJLUNDqZSP"
       },
@@ -9870,7 +10064,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 148190,
       "name": "With You",
       "url": "https://open.spotify.com/track/1u6XGybU3ZSyXbJJOfI4xJ"
@@ -10039,6 +10233,24 @@
     },
     {
       "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/6zFeUoGJCEjFgH8pmxtcxm"
+      },
+      "artists": [
+        {
+          "name": "Vondee",
+          "url": "https://open.spotify.com/artist/1uRn6hkZnH984WLeYTSNKR"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171770,
+      "name": "You",
+      "url": "https://open.spotify.com/track/2RVPCblaYQ8YqLvYPaWPDe"
+    },
+    {
+      "album": {
         "name": "You Don't Want Me",
         "url": "https://open.spotify.com/album/6tCFYmrg7RnGvvFG3L9hoL"
       },
@@ -10076,6 +10288,24 @@
       "duration_ms": 178000,
       "name": "You vs You",
       "url": "https://open.spotify.com/track/70KVV8GlgZoBSCls2UcdYG"
+    },
+    {
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/2fPnNvgrjv72VfQcW5pTzc"
+      },
+      "artists": [
+        {
+          "name": "Herman Suede",
+          "url": "https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194558,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/1ShiPLLMEUiVQXH7ve6YNd"
     },
     {
       "album": {

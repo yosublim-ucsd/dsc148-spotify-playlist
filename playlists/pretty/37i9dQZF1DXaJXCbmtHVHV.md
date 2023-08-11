@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 
 > Top country hits you know and love! Cover: Jordan Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 508,958 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,049 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 | 62 | [Take My Name](https://open.spotify.com/track/2afB4eV1KWBqLqFqME6PTh) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [For You](https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN) | 2:37 |
 | 63 | [Every Night Every Morning](https://open.spotify.com/track/4qbibbQ1yK0rPl0JUJS0bz) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Every Night Every Morning](https://open.spotify.com/album/5T5eTFklQfQHczrSfV7qej) | 3:16 |
 | 64 | [Beers On Me](https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Beers On Me](https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM) | 2:54 |
-| 65 | [One Day Tonight](https://open.spotify.com/track/45MQs7EiPglAvyYg9fkjzA) | [Noah Thompson](https://open.spotify.com/artist/38dDBc8guRXP1fjvothwyi) | [One Day Tonight](https://open.spotify.com/album/2MphzYOblUXTBfdWzYxtbl) | 2:45 |
+| 65 | [Mountain With A View](https://open.spotify.com/track/2fBvSCdG3lDjImqJvnYtvq) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 2:57 |
 | 66 | [Dig](https://open.spotify.com/track/5PajfJ1BQwHHHird3li8S4) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [White Buffalo](https://open.spotify.com/album/3fZ3XCeb1byqYJSJrgOAMI) | 3:45 |
-| 67 | [Mountain With A View](https://open.spotify.com/track/2fBvSCdG3lDjImqJvnYtvq) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 2:57 |
+| 67 | [One Day Tonight](https://open.spotify.com/track/45MQs7EiPglAvyYg9fkjzA) | [Noah Thompson](https://open.spotify.com/artist/38dDBc8guRXP1fjvothwyi) | [One Day Tonight](https://open.spotify.com/album/2MphzYOblUXTBfdWzYxtbl) | 2:45 |
 | 68 | [Hell Of A View](https://open.spotify.com/track/4mXGooManGPH6xAWRAtRJU) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Soul](https://open.spotify.com/album/4MRgsu0MBuBHzMhTLBgnNz) | 2:55 |
 | 69 | [All I Need Is You](https://open.spotify.com/track/02FAxAwzApe6pAqfAL3dLr) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [All I Need Is You](https://open.spotify.com/album/1tc6XshhetHi2jagwM3UhS) | 2:42 |
 | 70 | [Watermelon Moonshine](https://open.spotify.com/track/6KaKmX6EIu3x2057HoZwQF) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Watermelon Moonshine](https://open.spotify.com/album/2Vc7PFvxxVOURgA5lILY82) | 3:28 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 | 78 | [Worth A Shot \(feat\. Dierks Bentley\)](https://open.spotify.com/track/16Sdmdt7jpibASwEsO0s9j) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Worth A Shot \(feat\. Dierks Bentley\)](https://open.spotify.com/album/6BkvN6AfqiLF186w0SThQm) | 3:31 |
 | 79 | [Girl In Mine](https://open.spotify.com/track/2DPqR0kuZVjrOF5oxIRYPy) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [Girl In Mine](https://open.spotify.com/album/6R75pGKkSGEsUArsphBZ9W) | 2:35 |
 | 80 | [Somethin' Bout You](https://open.spotify.com/track/2hsarLx1u2OgOmkcJ8ejBm) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Somethin' Bout You](https://open.spotify.com/album/4ejJyrAvRvhVRadKmVPByS) | 2:36 |
-| 81 | [It Matters To Her](https://open.spotify.com/track/4aSRUXfKuBbmje0eXNukuL) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Same Truck](https://open.spotify.com/album/0R9QjGSDl6EX4yWu3Rr1eU) | 2:51 |
-| 82 | [Russell County Line](https://open.spotify.com/track/68i0Y8xMaYxLHSeUu4uWtA) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Fortune Favors the Bold](https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw) | 4:09 |
+| 81 | [Russell County Line](https://open.spotify.com/track/68i0Y8xMaYxLHSeUu4uWtA) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Fortune Favors the Bold](https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw) | 4:09 |
+| 82 | [It Matters To Her](https://open.spotify.com/track/4aSRUXfKuBbmje0eXNukuL) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Same Truck](https://open.spotify.com/album/0R9QjGSDl6EX4yWu3Rr1eU) | 2:51 |
 | 83 | [My Bar](https://open.spotify.com/track/3rvEUrjnl3eXXmKiKLkzRN) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [My Bar](https://open.spotify.com/album/5SaPpj7mUr3Yin6oaBSnEP) | 3:13 |
 | 84 | [Everything She Ain’t](https://open.spotify.com/track/3zAOcNGOFq5Q1OsN0tcxA0) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Everything She Ain’t](https://open.spotify.com/album/761yinsOXW3p74dFBge4c7) | 2:31 |
 | 85 | [Over Now](https://open.spotify.com/track/2JxBHISFV4ISAE8VMngqWS) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [We Were Cowboys](https://open.spotify.com/album/3ZGZNsbL4jY4pnOxxlYOCG) | 3:41 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 | 92 | [A Special Place](https://open.spotify.com/track/1xk2TQgJNtH3FErgICPgmb) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [A Special Place](https://open.spotify.com/album/1C8SRnPi8Fs6Bhdceyiheb) | 2:54 |
 | 93 | [Wilder Days](https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Reckless](https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio) | 4:11 |
 | 94 | [No Hard Feelings](https://open.spotify.com/track/3YaycOQk7PoQpl7YdvmWdX) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Time, Tequila & Therapy](https://open.spotify.com/album/1yjrtwm2ru1qPGBPBUDE0x) | 3:11 |
-| 95 | [Hurt No More](https://open.spotify.com/track/5UDX3jJn9vXGxE5h0sNRCy) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [Hurt No More](https://open.spotify.com/album/0vri0TC8mGVb1EFspFzgJN) | 2:56 |
-| 96 | [Famous Friends](https://open.spotify.com/track/4iXDn9pu5Q9sxv45vE8Lak) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Famous Friends](https://open.spotify.com/album/0CIbEKfFhnHbwJwVHb4KE1) | 2:45 |
+| 95 | [Famous Friends](https://open.spotify.com/track/4iXDn9pu5Q9sxv45vE8Lak) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Famous Friends](https://open.spotify.com/album/0CIbEKfFhnHbwJwVHb4KE1) | 2:45 |
+| 96 | [Hurt No More](https://open.spotify.com/track/5UDX3jJn9vXGxE5h0sNRCy) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [Hurt No More](https://open.spotify.com/album/0vri0TC8mGVb1EFspFzgJN) | 2:56 |
 | 97 | [Brown Eyes Baby](https://open.spotify.com/track/5JLf54f83nJrxD4IhFaLl7) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Brown Eyes Baby](https://open.spotify.com/album/16epea6WNW5vPhusDbw3xp) | 3:44 |
 | 98 | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK) | 3:27 |
 | 99 | [5 Leaf Clover](https://open.spotify.com/track/2RbIoEQeXBoJzWt09eitEI) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [5 Leaf Clover](https://open.spotify.com/album/6Aa81tDuPFATzb61ZQNTmM) | 3:31 |
 | 100 | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/track/6VVqPBFZIbcmv14zNfOc13) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/album/6w0l7fLsiJTgVAgoxMzBIu) | 2:43 |
 
-Snapshot ID: `MCw0NTRlYThmNWE0MjBjYmE1YzNkOGMzNTBhZDEwYmQyOTg3ODY2NDI5`
+Snapshot ID: `MCw0ZWIyMTljMmRkYWE1NmU5ZWNhY2FjYThjNTVlNmM2NzE3ZmRiMmU0`

@@ -4,7 +4,7 @@
 
 > Boss music for boss people\. Cover: Miles Kane
 
-152 songs - 8 hr 51 min
+153 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Out of My Mind](https://open.spotify.com/track/1bQG1BtFDU8ZFGpbyDKxm1) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Out of My Mind](https://open.spotify.com/album/1RVaXdSt6BPNwO9f4BPN33) | 3:32 | 2023-02-24 |  |
 | [Over and over](https://open.spotify.com/track/41mJD5RHlzYqnDLOVhX5f6) | [Brooke Bentham](https://open.spotify.com/artist/6c1CljS2C5YB6k7INEUs0A) | [Over and over](https://open.spotify.com/album/5AfjwhZxK3ERoaEuXsVhzt) | 4:24 | 2023-01-10 | 2023-08-04 |
 | [Patsy Decline](https://open.spotify.com/track/5e0X1BgUtlx8930aZ2QWU0) | [RATS](https://open.spotify.com/artist/0xS02ATWv2azbvKGV4Evc0) | [Jenny / Patsy Decline](https://open.spotify.com/album/7iFb0X7ZlAVkeb917gi2CD) | 2:46 | 2023-01-10 |  |
-| [People Should Know Better](https://open.spotify.com/track/4Bpbxr9vcHMeGli1o6kdfP) | [SPINN](https://open.spotify.com/artist/3VRqGLyj4cnRers46I0Yk4) | [Outside Of The Blue](https://open.spotify.com/album/0FF4blsWcpcL8pnUYimqyf) | 3:15 | 2023-01-10 |  |
+| [People Should Know Better](https://open.spotify.com/track/4Bpbxr9vcHMeGli1o6kdfP) | [SPINN](https://open.spotify.com/artist/3VRqGLyj4cnRers46I0Yk4) | [Outside Of The Blue](https://open.spotify.com/album/0FF4blsWcpcL8pnUYimqyf) | 3:15 | 2023-01-10 | 2023-08-11 |
 | [Pretend](https://open.spotify.com/track/4JyTqHzS1hrQO62v0mGRep) | [Alfie Castley](https://open.spotify.com/artist/4t5uGGNiFjujYEEyVVDEwc) | [Pretend](https://open.spotify.com/album/02h2495vFYmNXvFZlFMavz) | 3:37 | 2023-01-10 | 2023-03-14 |
 | [Propaganda](https://open.spotify.com/track/7ySX1sgdBBCzw7WacxCYiS) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Propaganda](https://open.spotify.com/album/4DypGkmzZGw3chFK6Zh3Pr) | 2:26 | 2023-01-10 |  |
 | [Real Life \- Edit](https://open.spotify.com/track/76S510QtyiUVw0GS7S8AoJ) | [Lanterns on the Lake](https://open.spotify.com/artist/7sx3r4lMo079vO7lIi0fng) | [Real Life](https://open.spotify.com/album/0O7gTxkYxNjD3gw9WSGHhb) | 3:34 | 2023-05-11 |  |
@@ -151,6 +151,7 @@
 | [Wave](https://open.spotify.com/track/5uZrhapaUikHxUibhf5ELe) | [The Covasettes](https://open.spotify.com/artist/5dDVWJvBFaoMJrOfI6xnOt) | [Wave](https://open.spotify.com/album/4FGWWBhvlrqbqQj0Bszc33) | 3:08 | 2023-03-31 | 2023-07-07 |
 | [Wayfinding](https://open.spotify.com/track/1SBkDOflNcFTPGysQJa9gd) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Wayfinding](https://open.spotify.com/album/2uKHnwdrCulGi0RdoaJCMl) | 3:09 | 2023-01-10 | 2023-02-24 |
 | [We'll Be Alreet](https://open.spotify.com/track/5wqlwFwHMCrVo4bKSjM17X) | [Bandit](https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop) | [We'll Be Alreet](https://open.spotify.com/album/2GzKx7KP1WCpmNp59035C6) | 2:57 | 2023-07-28 |  |
+| [Weekend In Paradise](https://open.spotify.com/track/0FDZSqUceUEognaSTGY2P6) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [We Get By](https://open.spotify.com/album/7oxuY6hojOHrp5ID7baSOW) | 3:16 | 2023-07-28 |  |
 | [Weekend In Paradise](https://open.spotify.com/track/3s7m99pSJk34SFIU3oKUAA) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [We Get By](https://open.spotify.com/album/3HP0fAMCGrJOpPfGqRGIDY) | 3:16 | 2023-01-10 | 2023-08-10 |
 | [Wet Dream](https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 2:20 | 2023-01-10 | 2023-02-24 |
 | [What a Shame](https://open.spotify.com/track/1qTV9vY7G87NEC8waJtT0B) | [Dylan John Thomas](https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb) | [What a Shame](https://open.spotify.com/album/6B45cam0D4Uw3NfleBOPrb) | 2:58 | 2023-01-10 |  |

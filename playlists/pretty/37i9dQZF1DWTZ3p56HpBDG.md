@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 
 > Best of South Asian diaspora\. Cover: Joy Crookes
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,312 likes - 41 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,321 likes - 41 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 | 40 | [Feet Don't Fail Me Now](https://open.spotify.com/track/5goqVeMYUQecvpcjNxpadU) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:18 |
 | 41 | [Victoire](https://open.spotify.com/track/2TfhosU0uZ3XRY7b3y4lnC) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV), [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf) | [Cloud](https://open.spotify.com/album/217M10Fi7Xd6PtIYx5cU1Q) | 2:49 |
 
-Snapshot ID: `MCxlOWMwOWM3Mzk0ZDIxNmIwNTA0NWRkNTY4ZmQyMjE3ZjUyY2M4NWMz`
+Snapshot ID: `MCw1NjMwNmNmYTI3Zjk3ZmQ1NTM2Y2UzZDg5YTdiOTgzOGZiNzY3Zjk0`

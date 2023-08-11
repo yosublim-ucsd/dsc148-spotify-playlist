@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance hits\. Cover: Uncle Waffles
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,048,672 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,055,641 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 | 74 | [Relax My Eyes](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Relax My Eyes](https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN) | 3:12 |
 | 75 | [The Rapture Pt.III](https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [The Rapture Pt.III](https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5) | 6:57 |
 
-Snapshot ID: `MCwyNGMwM2VhM2ZlY2U2ZjY0ZGQzMDI3NDc3ZmVmN2Y0Yzc4ZTI5ZjJj`
+Snapshot ID: `MCw2YjEyYjFjYmViMGY0ZDZkYmRiMTI1ZDIyNzIyMmFmMDQ1MTBjY2E4`

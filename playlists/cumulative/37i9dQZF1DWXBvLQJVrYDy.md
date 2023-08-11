@@ -4,7 +4,7 @@
 
 > Smooth and cozy saxophone ballads for relaxing or focus.
 
-179 songs - 11 hr 45 min
+183 songs - 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Time For Love](https://open.spotify.com/track/5hlXjAmHmvbLNR169UW394) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [A Time For Love](https://open.spotify.com/album/5VQ209Y2ATo0ehJJbwpSi5) | 3:48 | 2022-09-29 |  |
 | [Aesthete](https://open.spotify.com/track/0oJWmWozI8Hgn9kxkv6vaL) | [Billy Hicks Quartet](https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5) | [Aesthete](https://open.spotify.com/album/3PJ0KtKGlCir7TYGmQaZ8q) | 3:42 | 2023-01-05 |  |
 | [After Hours](https://open.spotify.com/track/3RoPN08vWMKxViEhdoqeuW) | [Eduard Landings](https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau) | [After Hours](https://open.spotify.com/album/3itxUrPWLTA7nUFpL3LiTS) | 3:32 | 2022-09-01 |  |
+| [After Winter Comes Spring](https://open.spotify.com/track/4Q0cp8Bo5fUe2YKjtyK9S1) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [After Winter Comes Spring](https://open.spotify.com/album/5Mn1kdE6pGip1PyhX1rufH) | 3:31 | 2023-08-10 |  |
 | [All My Love](https://open.spotify.com/track/7ncpKFg4IUzVIjnSPTD98y) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [All My Love](https://open.spotify.com/album/31hSeksEGpMamJ3hUKAmJ1) | 3:58 | 2022-09-29 |  |
 | [All That You Are](https://open.spotify.com/track/6vXRp9QutoS6wyaUO1fB6W) | [Elvin Vanguard](https://open.spotify.com/artist/1VDLEbjtzw7vCwMFlWe7xE) | [All That You Are](https://open.spotify.com/album/2IBRAvkNEKpAeJpnPrO3v2) | 4:00 | 2022-10-06 | 2023-02-17 |
 | [All The Way](https://open.spotify.com/track/1BnYMsR1MIxPmMJe02Lot4) | [Akio](https://open.spotify.com/artist/1Pee2ETMZW5ZH3mVgdrf4A) | [All The Way](https://open.spotify.com/album/44F64JbPVaSOp54y9SBsg4) | 3:21 | 2023-01-12 |  |
@@ -53,6 +54,7 @@
 | [Embraceble You](https://open.spotify.com/track/61qcz5XScc4DubjroIyGsG) | [Mornington](https://open.spotify.com/artist/1oC6eOjjixPdeV0HvUAviS) | [Embraceble You](https://open.spotify.com/album/4GwhE4HL4dbZe9rch6dwAB) | 4:38 | 2022-08-18 |  |
 | [Epilogue](https://open.spotify.com/track/3VyR5Ge6OR28B8sSNlZGxN) | [Baxter Williams](https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg) | [Epilogue](https://open.spotify.com/album/5X29DiYEFR8JLcghhL1fIK) | 3:33 | 2023-04-20 |  |
 | [Evening In Paris](https://open.spotify.com/track/36NzG0ptwi4k798mpIS3Oz) | [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Zoot Sims avec Henri Renaud et son orchestre](https://open.spotify.com/album/1tYXf9tuMLCiUrW18UwlHE) | 3:21 | 2022-08-18 |  |
+| [Five Leaves](https://open.spotify.com/track/2tmAIIkIYNWvp93nMfi8Lw) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Five Leaves](https://open.spotify.com/album/7IfBIe2sTrJvldMPB61w5e) | 4:09 | 2023-08-10 |  |
 | [Flatlands](https://open.spotify.com/track/2zI4BotlVn6HNOmCv3Nf75) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [Flatlands](https://open.spotify.com/album/77J8FVf2roMDpGKHXjKIQC) | 3:14 | 2023-02-02 |  |
 | [Foggy Sunday](https://open.spotify.com/track/331aspu4164ZfUMcaWzc8C) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Foggy Sunday](https://open.spotify.com/album/3U2D6KS4rrUHvaFHY5w9P4) | 3:47 | 2022-08-18 | 2023-02-10 |
 | [For All We Know](https://open.spotify.com/track/59zRrZhGyepFEsydKTFV1M) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [For All We Know](https://open.spotify.com/album/0gs7l1DFGqOOjZgZZC6S1m) | 2:50 | 2023-08-03 |  |
@@ -70,6 +72,7 @@
 | [I Thought About Us](https://open.spotify.com/track/3WuYbFjNzxV1iHsopkRE5v) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [I Thought About Us](https://open.spotify.com/album/0q97p3nKwoNzSsNxtWqFMN) | 3:57 | 2022-08-18 |  |
 | [I Will Wait For You](https://open.spotify.com/track/6oKlgwa71syBWyiFyGdmkR) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Eternal Maze](https://open.spotify.com/album/4C3TtqzLArtYY9CuFGmeWV) | 3:59 | 2022-10-06 |  |
 | [I'll Be Seeing You](https://open.spotify.com/track/48w1IYrxtNKmm0bBMICOdu) | [Jenny Jones](https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X) | [I'll Be Seeing You](https://open.spotify.com/album/2gPUo8oL5vW9LC5o7SnCSU) | 3:33 | 2022-08-18 |  |
+| [I'm Glad There Is Us](https://open.spotify.com/track/0Pvw3low3habLe1L9lM4Vy) | [Archie Taylor](https://open.spotify.com/artist/6p8c1ewQ2thcBnDzhkoZaL) | [I'm Glad There Is Us](https://open.spotify.com/album/4uCtHRBUPa4sxng6Thu10D) | 4:00 | 2023-08-10 |  |
 | [I've Got It Bad And That Ain't Good](https://open.spotify.com/track/5ixYtWDtAaaj89KFMWbgEj) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5), [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Johnny Hodges With Billy Strayhorn And The Orchestra](https://open.spotify.com/album/5CGVW3S012Wp5KteaW61kG) | 3:35 | 2022-08-18 | 2022-11-25 |
 | [I've Grown Accustomed To Your Face](https://open.spotify.com/track/5D9zI5bZ2XgFDEYdqGrHnP) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [I've Grown Accustomed To Your Face](https://open.spotify.com/album/3ecnXHWiMR4xIF94MCd9p2) | 3:13 | 2022-08-18 |  |
 | [In the Street At Night](https://open.spotify.com/track/1eSTYxkIjJzUA6mLIhFZO5) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [In the Street At Night](https://open.spotify.com/album/6yvmjm40lzpupHBaSb1juD) | 3:15 | 2023-05-25 |  |
@@ -153,6 +156,7 @@
 | [Star\-Crossed Lovers](https://open.spotify.com/track/390r0C8H4XIoKtk0kOnbrE) | [Pepper Adams](https://open.spotify.com/artist/7fSCq6nVoFiyBqFD8fQFWR) | [Encounter!](https://open.spotify.com/album/7DkZ2AIH5OifT32a1HLBK5) | 3:55 | 2022-08-18 |  |
 | [Stars Fell On Alabama](https://open.spotify.com/track/4nslzINuZ9ZU5jhIj2xSNO) | [The Cannonball Adderley Quintet](https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7) | [Cannonball Adderley Quintet In Chicago](https://open.spotify.com/album/5XrBfIAn0HPSmeOvcmkNpk) | 6:14 | 2022-08-18 | 2022-11-10 |
 | [Stella by Starlight](https://open.spotify.com/track/3TVpiMoI86chM88b0I712D) | [Sophie Lemon Jazz](https://open.spotify.com/artist/05VVW01ALS5OQsRVeNflON) | [Tea for Two](https://open.spotify.com/album/2ogUu6iYKmNTdddXXHBwp5) | 5:02 | 2022-08-18 |  |
+| [Strawberry Snow Cones For Two](https://open.spotify.com/track/1j2stEmsymDnJNi1uPZ1rD) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [Strawberry Snow Cones For Two](https://open.spotify.com/album/578scmNeIm4OpGwLnlAd8Q) | 3:34 | 2023-08-10 |  |
 | [Tangerine](https://open.spotify.com/track/5EudeHV7lSPc0n0J8C6yhq) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Coleman Hawkins Encounters Ben Webster \(Expanded Edition\)](https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ) | 5:20 | 2022-08-18 | 2023-05-05 |
 | [That's All](https://open.spotify.com/track/7s5Qv1HMy95TX9BtTK0vZ1) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Harry "Sweets" Edison](https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN) | [Pres & Sweets](https://open.spotify.com/album/7KXxTr7CeyLtAnC6CtSNSO) | 4:38 | 2022-08-18 | 2023-06-02 |
 | [The Imager](https://open.spotify.com/track/1mfuqzs480Ey1ia2Y7q7MH) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [The Imager](https://open.spotify.com/album/7y7VoIAYjag9EsvZpz4Dno) | 3:25 | 2022-08-18 |  |

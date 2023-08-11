@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 160574,
+  "num_followers": 160918,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjdjNTA5YjM1MjNhODg5MDMwYmUxMmZhYjAxOTU2MTgxOWRiNzMz",
+  "snapshot_id": "MCwwZmFkN2YxMjQ0NTY4MmQ2NDBjOGFmNjUyYjI2NzQxNDIwMjRmNTkw",
   "tracks": [
     {
       "added_at": "2022-06-15 04:26:09",
@@ -337,6 +337,22 @@
       "url": "https://open.spotify.com/track/3d620Rc8aL3jnmKa9aqa8d"
     },
     {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Sentir",
+        "url": "https://open.spotify.com/album/6JrZVD3zusGjBWMuT37q3z"
+      },
+      "artists": [
+        {
+          "name": "Ilse Hendrix",
+          "url": "https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB"
+        }
+      ],
+      "duration_ms": 228194,
+      "name": "Sentir",
+      "url": "https://open.spotify.com/track/52LzaPKWxeHxGTJq0GkEqx"
+    },
+    {
       "added_at": "2023-05-26 18:32:08",
       "album": {
         "name": "cumbia aesthetic",
@@ -355,22 +371,6 @@
       "duration_ms": 170755,
       "name": "cumbia aesthetic",
       "url": "https://open.spotify.com/track/6iitVWohxBtt0HFopnMIkD"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Sentir",
-        "url": "https://open.spotify.com/album/6JrZVD3zusGjBWMuT37q3z"
-      },
-      "artists": [
-        {
-          "name": "Ilse Hendrix",
-          "url": "https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB"
-        }
-      ],
-      "duration_ms": 228194,
-      "name": "Sentir",
-      "url": "https://open.spotify.com/track/52LzaPKWxeHxGTJq0GkEqx"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -841,26 +841,6 @@
       "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
     },
     {
-      "added_at": "2023-06-01 16:52:29",
-      "album": {
-        "name": "RAMA",
-        "url": "https://open.spotify.com/album/5wC4ACPfltMaoWe9bTwPq5"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Nasta",
-          "url": "https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH"
-        },
-        {
-          "name": "Rodrigo Blanco",
-          "url": "https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK"
-        }
-      ],
-      "duration_ms": 307882,
-      "name": "Rama",
-      "url": "https://open.spotify.com/track/40Qrc6OlhCPokKfigR987S"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Out of This World",
@@ -893,20 +873,44 @@
       "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
+      "added_at": "2023-06-01 16:52:29",
       "album": {
-        "name": "Sonido Amazonico",
-        "url": "https://open.spotify.com/album/0p5Iiuaj58qCxzMYqgP7B1"
+        "name": "RAMA",
+        "url": "https://open.spotify.com/album/5wC4ACPfltMaoWe9bTwPq5"
       },
       "artists": [
         {
-          "name": "Chicha Libre",
-          "url": "https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x"
+          "name": "Mercedes Nasta",
+          "url": "https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH"
+        },
+        {
+          "name": "Rodrigo Blanco",
+          "url": "https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK"
         }
       ],
-      "duration_ms": 257333,
-      "name": "Sonido Amazonico",
-      "url": "https://open.spotify.com/track/30XzPuJXYZrPF2jx89SQG1"
+      "duration_ms": 307882,
+      "name": "Rama",
+      "url": "https://open.spotify.com/track/40Qrc6OlhCPokKfigR987S"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Sano",
+        "url": "https://open.spotify.com/album/4XxbqdjpU5IDVYxHpILsRk"
+      },
+      "artists": [
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        },
+        {
+          "name": "LUVI TORRES",
+          "url": "https://open.spotify.com/artist/0U6e4AWJDteC3blrD46avQ"
+        }
+      ],
+      "duration_ms": 200786,
+      "name": "Sano",
+      "url": "https://open.spotify.com/track/65x71PXeGjlMy5ooVPDVEU"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -935,22 +939,18 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Sano",
-        "url": "https://open.spotify.com/album/4XxbqdjpU5IDVYxHpILsRk"
+        "name": "Sonido Amazonico",
+        "url": "https://open.spotify.com/album/0p5Iiuaj58qCxzMYqgP7B1"
       },
       "artists": [
         {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        },
-        {
-          "name": "LUVI TORRES",
-          "url": "https://open.spotify.com/artist/0U6e4AWJDteC3blrD46avQ"
+          "name": "Chicha Libre",
+          "url": "https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x"
         }
       ],
-      "duration_ms": 200786,
-      "name": "Sano",
-      "url": "https://open.spotify.com/track/65x71PXeGjlMy5ooVPDVEU"
+      "duration_ms": 257333,
+      "name": "Sonido Amazonico",
+      "url": "https://open.spotify.com/track/30XzPuJXYZrPF2jx89SQG1"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1051,22 +1051,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "6",
-        "url": "https://open.spotify.com/album/5T31xBzocjWeu9JDn4Sinj"
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/2PuKW3LCrVlfbIY1u4RoMe"
       },
       "artists": [
         {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
         },
         {
-          "name": "Buendia",
-          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
+          "name": "Winter",
+          "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl"
         }
       ],
-      "duration_ms": 228026,
-      "name": "Relato",
-      "url": "https://open.spotify.com/track/0633GnMObUml98aYLCUmEg"
+      "duration_ms": 260156,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1091,22 +1091,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "All Night Long",
-        "url": "https://open.spotify.com/album/2PuKW3LCrVlfbIY1u4RoMe"
+        "name": "6",
+        "url": "https://open.spotify.com/album/5T31xBzocjWeu9JDn4Sinj"
       },
       "artists": [
         {
-          "name": "Pachyman",
-          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
         },
         {
-          "name": "Winter",
-          "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl"
+          "name": "Buendia",
+          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
         }
       ],
-      "duration_ms": 260156,
-      "name": "All Night Long",
-      "url": "https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho"
+      "duration_ms": 228026,
+      "name": "Relato",
+      "url": "https://open.spotify.com/track/0633GnMObUml98aYLCUmEg"
     },
     {
       "added_at": "2023-03-31 18:14:20",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Daora: Underground Sounds of Urban Brasil- Hip-Hop, Beats, Afro & Dub",
-        "url": "https://open.spotify.com/album/56rh3ctrUlzggBkhccz2s2"
-      },
-      "artists": [
-        {
-          "name": "Abayomy Afrobeat Orquestra",
-          "url": "https://open.spotify.com/artist/4W4o1hLeSM7vPjsZtxkAnv"
-        }
-      ],
-      "duration_ms": 457053,
-      "name": "Malunguinho",
-      "url": "https://open.spotify.com/track/6s15msjreg2553uO47iWz2"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Un Canto",
         "url": "https://open.spotify.com/album/40Rjb6ttHVFGY3mUCYxZ5B"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 228019,
       "name": "Capuchino Pecho Blanco",
       "url": "https://open.spotify.com/track/7xiptPlNZJNAtcbpOErKRp"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Daora: Underground Sounds of Urban Brasil- Hip-Hop, Beats, Afro & Dub",
+        "url": "https://open.spotify.com/album/56rh3ctrUlzggBkhccz2s2"
+      },
+      "artists": [
+        {
+          "name": "Abayomy Afrobeat Orquestra",
+          "url": "https://open.spotify.com/artist/4W4o1hLeSM7vPjsZtxkAnv"
+        }
+      ],
+      "duration_ms": 457053,
+      "name": "Malunguinho",
+      "url": "https://open.spotify.com/track/6s15msjreg2553uO47iWz2"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1261,6 +1261,22 @@
       "url": "https://open.spotify.com/track/5R4VAb4lnEMFtSEmB0wiya"
     },
     {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Na Procura",
+        "url": "https://open.spotify.com/album/4MjVYF2WrA2LxHOekWZREA"
+      },
+      "artists": [
+        {
+          "name": "Yemanjo",
+          "url": "https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N"
+        }
+      ],
+      "duration_ms": 390505,
+      "name": "Na Procura",
+      "url": "https://open.spotify.com/track/5jHL9thvvnkuKPExerUgTg"
+    },
+    {
       "added_at": "2022-09-19 13:45:43",
       "album": {
         "name": "Fiera",
@@ -1283,38 +1299,18 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Na Procura",
-        "url": "https://open.spotify.com/album/4MjVYF2WrA2LxHOekWZREA"
+        "name": "Selva y mar",
+        "url": "https://open.spotify.com/album/79AHYPMxeWRc5NR7WqwUFG"
       },
       "artists": [
         {
-          "name": "Yemanjo",
-          "url": "https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N"
+          "name": "Tati Falco",
+          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
         }
       ],
-      "duration_ms": 390505,
-      "name": "Na Procura",
-      "url": "https://open.spotify.com/track/5jHL9thvvnkuKPExerUgTg"
-    },
-    {
-      "added_at": "2023-04-14 01:21:53",
-      "album": {
-        "name": "Espantap\u00e1jaros",
-        "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "La Perla",
-          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Espantap\u00e1jaros",
-      "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
+      "duration_ms": 248099,
+      "name": "Selva y mar",
+      "url": "https://open.spotify.com/track/2DsUXoqK3HXx2Sat09W7uN"
     }
   ],
   "unique_name": "Tulum Vibes",

@@ -4,7 +4,7 @@
 
 > Un surtido rico de canciones con sabor a México.
 
-261 songs - 14 hr 28 min
+262 songs - 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [La nena](https://open.spotify.com/track/5OwFcVt4icprLmc5bO9ruK) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Bandazos de Pequeños Musical \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x) | 2:54 | 2022-09-12 |  |
 | [La Noche Mas Linda](https://open.spotify.com/track/3scW7pt0vlhkCCgCNv5YR9) | [Adalberto Santiago](https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd) | [Sex Symbol](https://open.spotify.com/album/5tf8kuqoGGyPD6xxhPLlst) | 5:43 | 2022-09-12 |  |
 | [La Picare](https://open.spotify.com/track/3ymkBiqugciORjivytO221) | [Alameños de la Sierra](https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh) | [El Tropezon](https://open.spotify.com/album/3kksc8gfXJXjJ43YGlYwcQ) | 4:20 | 2022-09-12 | 2022-09-18 |
-| [La Picare](https://open.spotify.com/track/68Ur7kDx0OXW5BH0TxpAPn) | [Alameños de la Sierra](https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh) | [El Tropezon](https://open.spotify.com/album/54vZCfkZRmqgXyNmmd0rqB) | 4:20 | 2022-09-12 |  |
+| [La Picare](https://open.spotify.com/track/68Ur7kDx0OXW5BH0TxpAPn) | [Alameños de la Sierra](https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh) | [El Tropezon](https://open.spotify.com/album/54vZCfkZRmqgXyNmmd0rqB) | 4:20 | 2022-09-12 | 2023-08-11 |
 | [La Sinvergüenza](https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Sinvergüenza](https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc) | 3:18 | 2022-09-12 |  |
 | [La Venia Bendita](https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Marco Antonio Solis](https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP) | 3:11 | 2022-05-23 |  |
 | [Lo Que No Es Pa' Uno](https://open.spotify.com/track/4WbJt5AUFbFNGL17gkQR74) | [La Adictiva Banda San José de Mesillas](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Lo Que No Es Pa' Uno](https://open.spotify.com/album/6JNExZulEns34TTlX8jxrz) | 2:54 | 2022-08-31 | 2022-09-13 |
@@ -123,6 +123,7 @@
 | [Me Gustas Mucho](https://open.spotify.com/track/4GTbtRKeOTMoQ1OJyXKQpU) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Primero Soy Mexicana](https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh) | 2:50 | 2022-05-23 | 2022-09-01 |
 | [Me Hace Tanto Bien](https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Me Hace Tanto Bien](https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV) | 3:51 | 2022-08-31 |  |
 | [Me La Avente](https://open.spotify.com/track/3ahvKiNH7l6EpnTnzkZpG1) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI) | 2:35 | 2022-09-12 | 2023-08-09 |
+| [Me la Avente](https://open.spotify.com/track/3nQ0FbZL6DTcGnu03Jpgzm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/5We7yGwHCRWuy7T5StvTwS) | 2:35 | 2023-08-08 |  |
 | [Me Vas A Extrañar](https://open.spotify.com/track/47UjuR24Bp3LgCTHNTynXu) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Lo Mejor De Nosotros](https://open.spotify.com/album/6DKj6CdMCUYRYJ4BnJnjd0) | 4:20 | 2022-05-23 | 2022-09-01 |
 | [Mejor Así](https://open.spotify.com/track/0lmmvf2eUzkjNlDWctEibC) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Mejor Así](https://open.spotify.com/album/0fa1WYDpSKEHiCj3YTtsDq) | 2:48 | 2023-04-21 |  |
 | [Mi Amuleto Eres Tú](https://open.spotify.com/track/3unSYVLOSglxPFNOwYXRA0) | [Vagon Chicano](https://open.spotify.com/artist/2yK0OH7d55O2eZNcBTB19k) | [Mi Amuleto Eres Tu](https://open.spotify.com/album/2V6WGHF2zycmbSwpGaWlJp) | 3:30 | 2022-05-23 | 2022-09-01 |

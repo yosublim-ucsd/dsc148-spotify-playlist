@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 
 > Diese Songs zaubern dir ein Grinsen ins Gesicht.
 
-[Spotify](https://open.spotify.com/user/spotify) - 568,586 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 568,712 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 52 | [My Boy](https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B) | 2:43 |
 | 53 | [Unpack Your Bags \- Radio Edit](https://open.spotify.com/track/5BJClY9W1julZmgjWaNFb3) | [Lemony Rug](https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY) | [Unpack Your Bags \(Radio Edit\)](https://open.spotify.com/album/2oCc55ntQAwff7LHwnBQWU) | 3:04 |
 | 54 | [Walking Like That](https://open.spotify.com/track/63R67smkvrZ1kgo6U0DcIN) | [Color The Night](https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh) | [Walking Like That](https://open.spotify.com/album/5oST3PBg1ogGH5VwBg8Hxh) | 2:29 |
-| 55 | [Mexico](https://open.spotify.com/track/38rsZocqoP4YvSzEtL0kaE) | [Mar Malade](https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw) | [Mexico](https://open.spotify.com/album/0x2WSKc0ZtfwBrPnGPMlPm) | 3:56 |
-| 56 | [Dancing in the City \(Radio Edit\)](https://open.spotify.com/track/12pXH0mid48V0vN0ykfBG5) | [Siamese Elephants](https://open.spotify.com/artist/7bgOhFs7p8ZGBMIIORey80) | [Dancing in the City \(Radio Edit\)](https://open.spotify.com/album/4y2vjGF1u3hhPdyLHiL70o) | 3:21 |
+| 55 | [Dancing in the City \(Radio Edit\)](https://open.spotify.com/track/12pXH0mid48V0vN0ykfBG5) | [Siamese Elephants](https://open.spotify.com/artist/7bgOhFs7p8ZGBMIIORey80) | [Dancing in the City \(Radio Edit\)](https://open.spotify.com/album/4y2vjGF1u3hhPdyLHiL70o) | 3:21 |
+| 56 | [Mexico](https://open.spotify.com/track/38rsZocqoP4YvSzEtL0kaE) | [Mar Malade](https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw) | [Mexico](https://open.spotify.com/album/0x2WSKc0ZtfwBrPnGPMlPm) | 3:56 |
 | 57 | [Drowning](https://open.spotify.com/track/32QjoM6mbNCEFxS8OYiPYB) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Drowning](https://open.spotify.com/album/0U3nZkZJbWCRK71MhORAFt) | 2:54 |
 | 58 | [Dice](https://open.spotify.com/track/1PYXkGTAy509qlSFvwkjTe) | [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [Complex Happenings Reduced To A Simple Design](https://open.spotify.com/album/759AQPUMn36dDf7cRSwsmF) | 3:01 |
 | 59 | [Going with You](https://open.spotify.com/track/6QKC7DcD9RcR3coic9d2oD) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [Here, Right Now](https://open.spotify.com/album/0pz6QxOt98LbnryystoGza) | 2:55 |
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 63 | [Mexico](https://open.spotify.com/track/6HSEHDSU9XmdxheOyQBn1I) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Mexico](https://open.spotify.com/album/0uJ1vzYedMJ8ASp1TFQyEr) | 3:12 |
 | 64 | [Tenderfoot](https://open.spotify.com/track/7gUZ9qbIkjSPsiMKceCt9N) | [The Day](https://open.spotify.com/artist/7tE9qfIbkI2LNvwykjyiDN) | [Tenderfoot](https://open.spotify.com/album/1fFO2iwv5vhJctuGrObKaV) | 2:08 |
 | 65 | [See You Again](https://open.spotify.com/track/09RYDCoPd0hiw5RS1gEK8i) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 4:22 |
-| 66 | [On My Mind](https://open.spotify.com/track/5QMfuFrKuULYDpWJo0bbeo) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Twister](https://open.spotify.com/album/0fjgBCuKoWbHTcKNcr5uYc) | 3:36 |
+| 66 | [Right There](https://open.spotify.com/track/5oXj6bEvSt0piiMFZc8gpE) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [Right There](https://open.spotify.com/album/2oBZsMGLHyBtI7xDnmaunz) | 3:02 |
 | 67 | [ich mags](https://open.spotify.com/track/3S81BVFGfJZ0bpX3Fthr4P) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [ich mags](https://open.spotify.com/album/5PB2mi2e4cq4HdBarm0sPS) | 2:41 |
-| 68 | [Right There](https://open.spotify.com/track/5oXj6bEvSt0piiMFZc8gpE) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [Right There](https://open.spotify.com/album/2oBZsMGLHyBtI7xDnmaunz) | 3:02 |
+| 68 | [On My Mind](https://open.spotify.com/track/5QMfuFrKuULYDpWJo0bbeo) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Twister](https://open.spotify.com/album/0fjgBCuKoWbHTcKNcr5uYc) | 3:36 |
 | 69 | [Small Worlds](https://open.spotify.com/track/1Wi0vXVg2cAXmfkrHwoQx4) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Good Mmornin](https://open.spotify.com/album/3FoDNOhHqVS1c9mw6NJW3T) | 5:36 |
 | 70 | [A\-Train \- Edit](https://open.spotify.com/track/0WeLpRHrzZcmpMrppqPnnp) | [COMA](https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52) | [A\-Train](https://open.spotify.com/album/1b4ZTZJK7Ny6TxPkSUq3u1) | 3:35 |
 | 71 | [2001](https://open.spotify.com/track/6FtfZdMiuUX3CdGMhAZmlJ) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [2001](https://open.spotify.com/album/48v3ESTDn7dBxMMapg7wPX) | 4:26 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 79 | [Apart](https://open.spotify.com/track/2kMLIAMcNDoVLfQj5oDMAQ) | [Seed to Tree](https://open.spotify.com/artist/5eTXENvednmXhr6r5lUWhY) | [Proportions](https://open.spotify.com/album/6lbvRJMvyz5s8iddP3KJLR) | 4:37 |
 | 80 | [Hole Digger](https://open.spotify.com/track/3UCg61B7K1MYvxhIrR83jf) | [Camel Power Club](https://open.spotify.com/artist/2ziSUHAT6LbHKCJIlwHhDG), [Desingly](https://open.spotify.com/artist/7e75N4iueWn6bCBMR74oWd) | [Hole Digger](https://open.spotify.com/album/0A6bncjAHwmgyeHkmlzvWb) | 3:05 |
 | 81 | [beautiful day](https://open.spotify.com/track/0Bp4SOUzsTyk5PNEeu4GWJ) | [Henri Purnell](https://open.spotify.com/artist/7cyJzgiJTXR3hf62l5zLOr) | [beautiful day](https://open.spotify.com/album/01D0gXm8jCoJnVxxuayFCq) | 3:03 |
-| 82 | [Kalif Onya](https://open.spotify.com/track/0mesXBMiwhSsFjUJNe9k1T) | [Al Pride](https://open.spotify.com/artist/2H348ORtPqCyeJllhI8ddB) | [Kalif Onya](https://open.spotify.com/album/0CrAZ1bf2mckuZSGsLckDl) | 3:58 |
-| 83 | [In Plain Sight](https://open.spotify.com/track/4BRx9dbjHmxUGRZAhQta3d) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [IVAR](https://open.spotify.com/artist/78Nkh6ogSZKHX0s3WLU0dk) | [Pleasure Centre](https://open.spotify.com/album/4bL8pnVu9iQILCQlK9L7V4) | 3:48 |
+| 82 | [In Plain Sight](https://open.spotify.com/track/4BRx9dbjHmxUGRZAhQta3d) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [IVAR](https://open.spotify.com/artist/78Nkh6ogSZKHX0s3WLU0dk) | [Pleasure Centre](https://open.spotify.com/album/4bL8pnVu9iQILCQlK9L7V4) | 3:48 |
+| 83 | [Kalif Onya](https://open.spotify.com/track/0mesXBMiwhSsFjUJNe9k1T) | [Al Pride](https://open.spotify.com/artist/2H348ORtPqCyeJllhI8ddB) | [Kalif Onya](https://open.spotify.com/album/0CrAZ1bf2mckuZSGsLckDl) | 3:58 |
 | 84 | [Red & Blue](https://open.spotify.com/track/3bmhQ0lxeJeLDe8ElVLOND) | [Razz](https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu) | [Red & Blue](https://open.spotify.com/album/4LwCWinuYbTmzTBuiXQsU7) | 3:33 |
 | 85 | [Little Lucille](https://open.spotify.com/track/4EZMIxbJgUQnz6ZhW9924G) | [Karmic](https://open.spotify.com/artist/5Yaj43qUur81crYPcORYZr) | [Little Lucille](https://open.spotify.com/album/0zPpywiwsbG0vyJAxchY6A) | 3:18 |
 | 86 | [More Than Happiness](https://open.spotify.com/track/3AosSVnv55KvhcpPaj5IO1) | [Matija](https://open.spotify.com/artist/0AT9xOpJni8J7sM4UNrrt9) | [More Than Happiness](https://open.spotify.com/album/0AEksbW3dMkEn4mjqmITM0) | 3:58 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 89 | [Tides](https://open.spotify.com/track/3Du3efHO9I7VFZHiJ9nPPM) | [Shelter Boy](https://open.spotify.com/artist/0pTrkIFjUhNNHIV3YhtPfV) | [Mirage Morning](https://open.spotify.com/album/6uqxzoRQg50XPMg9Xp3qrJ) | 2:42 |
 | 90 | [Falling Back](https://open.spotify.com/track/4cp190Wab4szwfZKSoZKJJ) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Young Romance \(Deluxe\)](https://open.spotify.com/album/6T80Oi2lqkE0cJb6QKHFvg) | 4:39 |
 | 91 | [Morning Dew](https://open.spotify.com/track/4fBdT1O7ZjTdLmMwAB4rgg) | [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS) | [Morning Dew](https://open.spotify.com/album/5gBPWslCH79q5c6KTDTWyp) | 2:39 |
-| 92 | [Shot Shot Cherry](https://open.spotify.com/track/1gib2zY48RjxVCXcpKuwPW) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Shot Shot Cherry](https://open.spotify.com/album/7cQHL2l6ObMycLqdhifclg) | 2:32 |
-| 93 | [Take Me Home Boy](https://open.spotify.com/track/31hKb1hxqNKGY5JW9yrCxj) | [Color The Night](https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh) | [Road](https://open.spotify.com/album/5wsDrnB9aUVEhvsvgX01KI) | 3:13 |
+| 92 | [Take Me Home Boy](https://open.spotify.com/track/31hKb1hxqNKGY5JW9yrCxj) | [Color The Night](https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh) | [Road](https://open.spotify.com/album/5wsDrnB9aUVEhvsvgX01KI) | 3:13 |
+| 93 | [I Swear It's True](https://open.spotify.com/track/61AYzKQ7kvLJ82IFaIbRWn) | [Mani Orrason](https://open.spotify.com/artist/6Xy8dw47s5ZgDlr0isOLV2) | [I Swear It's True](https://open.spotify.com/album/1amufMJmaSVgIvRujOq5Va) | 3:55 |
 | 94 | [Like You](https://open.spotify.com/track/2xEtiBJ85GNhC3h3JNV4ET) | [Razz](https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu) | [Like You](https://open.spotify.com/album/0Txd0TwGHw0P5yRz55u2u6) | 2:53 |
-| 95 | [I Swear It's True](https://open.spotify.com/track/61AYzKQ7kvLJ82IFaIbRWn) | [Mani Orrason](https://open.spotify.com/artist/6Xy8dw47s5ZgDlr0isOLV2) | [I Swear It's True](https://open.spotify.com/album/1amufMJmaSVgIvRujOq5Va) | 3:55 |
-| 96 | [Aloe Vera \(Clear My Mind\)](https://open.spotify.com/track/0dBDy91oZQOe4fnpQlhgID) | [Some Sprouts](https://open.spotify.com/artist/41g2y82Z8CADYGlzujOzKp) | [Aloe Vera \(Clear My Mind\)](https://open.spotify.com/album/7aSuxssLIMyYXvQYUO9wP5) | 2:43 |
+| 95 | [Aloe Vera \(Clear My Mind\)](https://open.spotify.com/track/0dBDy91oZQOe4fnpQlhgID) | [Some Sprouts](https://open.spotify.com/artist/41g2y82Z8CADYGlzujOzKp) | [Aloe Vera \(Clear My Mind\)](https://open.spotify.com/album/7aSuxssLIMyYXvQYUO9wP5) | 2:43 |
+| 96 | [Shot Shot Cherry](https://open.spotify.com/track/1gib2zY48RjxVCXcpKuwPW) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Shot Shot Cherry](https://open.spotify.com/album/7cQHL2l6ObMycLqdhifclg) | 2:32 |
 | 97 | [hunger](https://open.spotify.com/track/00FRYCC99BHS1ewIqteTwh) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [hunger](https://open.spotify.com/album/0POoxs5GMl3mqyOi7olevg) | 3:11 |
 | 98 | [Falling for You](https://open.spotify.com/track/2mkjdGgwSprfQNVoX7N92q) | [Charlotte OC](https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH) | [Falling for You](https://open.spotify.com/album/3jRlCgPRb4MXYYxa4Y9MCO) | 3:26 |
-| 99 | [Mojito](https://open.spotify.com/track/4RHnFylLAjQXPHIuZZE1bx) | [BILBAO](https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH) | [Mojito](https://open.spotify.com/album/2DBmd6085jcbfKpihaRpax) | 3:04 |
+| 99 | [Get Up!](https://open.spotify.com/track/0weXGUBLk52zIbgMbP043L) | [BILBAO](https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH) | [Get Up!](https://open.spotify.com/album/2maaNCLEe1kl88Fe0Mq9Ao) | 3:15 |
 | 100 | [IknowhowIfeel \- from Hansa Studios, Berlin](https://open.spotify.com/track/4M3MUIXtQLN2qRPcwcpHzW) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Live Vol\. 1](https://open.spotify.com/album/4ckyPfMqe26PrOgEWdjWns) | 2:55 |
 
-Snapshot ID: `MCw1ODkwNDU5Njc0OGNhZTNkYWRjMTU4NTU1MDZlNDZlNTA0NTk3MmYw`
+Snapshot ID: `MCwwZDU5M2QwN2ZkNTQ0MGNiYzhjZDIyYWRiYzQ5MDdjZGU0NDRkMTgz`

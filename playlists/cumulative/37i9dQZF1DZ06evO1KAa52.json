@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "The Wack Album",
+        "url": "https://open.spotify.com/album/46j0zit3m0xk3p96th7pjr"
+      },
+      "artists": [
+        {
+          "name": "The Lonely Island",
+          "url": "https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171026,
+      "name": "3-Way (The Golden Rule)",
+      "url": "https://open.spotify.com/track/5orUhwRVuVCtRYxg3FzidD"
+    },
+    {
+      "album": {
         "name": "Hard Candy",
         "url": "https://open.spotify.com/album/7jgBVzMVZuuhaTG5zQ0Vgk"
       },
@@ -762,7 +788,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 267266,
       "name": "Rock Your Body",
       "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"
@@ -832,7 +858,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 242733,
       "name": "SexyBack (feat. Timbaland)",
       "url": "https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR"
@@ -968,7 +994,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-09",
+      "date_removed": null,
       "duration_ms": 252973,
       "name": "Summer Love",
       "url": "https://open.spotify.com/track/1MBM7CyZbwJpVbbZJnHHRg"

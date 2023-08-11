@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,382 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,448 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 50 | [\(It's Not About\) Running](https://open.spotify.com/track/6yeVAVnUskTNb3TutTaU64) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Unknown / \(It's Not About\) Running](https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC) | 4:06 |
 | 51 | [Oh God](https://open.spotify.com/track/3LHSrehhdEgEvQRpFpc0VC) | [Hello Saferide](https://open.spotify.com/artist/4Qxe8uorrQxMoMkhv0HrK3) | [Dad Told Me](https://open.spotify.com/album/2mboC8ajeSsXhwG4IQMzb2) | 2:35 |
 | 52 | [Halsmandlar](https://open.spotify.com/track/22f4SB1GpL4PCqrwsxHNav) | [Benedikt](https://open.spotify.com/artist/4PctuqqAnmfZRDGZFNSH1Y), [Ævestaden](https://open.spotify.com/artist/7r8pTV56VazgkUAAUW4ucw) | [Jag är sen igen](https://open.spotify.com/album/0UiQGJXyPQz6ZEvl6I2Y5d) | 2:50 |
-| 53 | [The Moon and I](https://open.spotify.com/track/0Yy3ZQjbLJh3KTiODERwQ6) | [Dag Erik Oksvold](https://open.spotify.com/artist/4MtZY6vubmc8vgp1JxlMcs) | [The Moon and I](https://open.spotify.com/album/6rimVXalcENj2nTFRcvPZa) | 3:44 |
-| 54 | [When the Mourning Comes](https://open.spotify.com/track/0EaHuGgiDdWDQi9VsS6Xrv) | [Christian Kjellvander](https://open.spotify.com/artist/2NNMCcN4t0zn04kTzdVAS6) | [I Saw Her from Here / I Saw Here](https://open.spotify.com/album/6VR7bphUiAWAguSNdCxpHI) | 3:44 |
+| 53 | [When the Mourning Comes](https://open.spotify.com/track/0EaHuGgiDdWDQi9VsS6Xrv) | [Christian Kjellvander](https://open.spotify.com/artist/2NNMCcN4t0zn04kTzdVAS6) | [I Saw Her from Here / I Saw Here](https://open.spotify.com/album/6VR7bphUiAWAguSNdCxpHI) | 3:44 |
+| 54 | [The Moon and I](https://open.spotify.com/track/0Yy3ZQjbLJh3KTiODERwQ6) | [Dag Erik Oksvold](https://open.spotify.com/artist/4MtZY6vubmc8vgp1JxlMcs) | [The Moon and I](https://open.spotify.com/album/6rimVXalcENj2nTFRcvPZa) | 3:44 |
 | 55 | [Early Summer Rain](https://open.spotify.com/track/44Weew9zeqTPmGujEIFXnh) | [August Flendahl](https://open.spotify.com/artist/2YdblFMUbUSxdwFNffi7ct) | [Early Summer Rain](https://open.spotify.com/album/41rw0yKJcpUla5orniwd45) | 2:50 |
 | 56 | [Girl](https://open.spotify.com/track/7MxAeo2fTyOaJyRFknwvVY) | [Hajk](https://open.spotify.com/artist/3cBN6cBqKYBdXjENOSeA8z) | [Girl](https://open.spotify.com/album/0y5ESvnTHcaF8McoxWYr3W) | 2:20 |
 | 57 | [Ei ny tid](https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Bråtebrann](https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP) | 2:26 |
 | 58 | [Bluebelle Mountain](https://open.spotify.com/track/02nxCFRn4cmbfKQB4mUFP5) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni Was Right Pt\. II](https://open.spotify.com/album/6wonVPtSuwYgTjn76yMCgE) | 3:20 |
 | 59 | [Something Good](https://open.spotify.com/track/4MIpMHjGu9tBoK065wTu6R) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Something Good](https://open.spotify.com/album/6pYjJFbYrjgxPc6O6ke14G) | 3:45 |
-| 60 | [The Man Who Isn't Here](https://open.spotify.com/track/5e4TjReNPm7FGEdVHGl9GO) | [Frøkedal](https://open.spotify.com/artist/7uTDwdxKfkZtEfjpofiYwr) | [Hold On Dreamer](https://open.spotify.com/album/28d2gIKg6Ma04rKAghPvQA) | 3:50 |
+| 60 | [Hunting Sky](https://open.spotify.com/track/48wE4vYe6iumDianYfUAfO) | [Sumie](https://open.spotify.com/artist/1oEHAWdn0GWyRaL8JGOlan) | [Sumie](https://open.spotify.com/album/3MJtEuh26Rm8p8cdNemiAg) | 3:15 |
 
-Snapshot ID: `MCw3ZWYxYTRjOWUzYzJjZmI5OTQ4Njc1MjliMzc1N2MzMmU0YWExOTBh`
+Snapshot ID: `MCwzMGVmMmVmZjdlOTU1YTY3NWJmYzRlODgyYmJlMTU5YjhhNWYyN2I1`

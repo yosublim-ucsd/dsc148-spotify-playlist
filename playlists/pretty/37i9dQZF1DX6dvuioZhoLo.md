@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 
 > New makes old\. Cover: Sierra Ferrell
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,599 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,705 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 52 | [Fuck Up](https://open.spotify.com/track/1cXUmVaiwY79D1GvUf43QS) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [Sidelong](https://open.spotify.com/album/0QsTiookBuBIsLCdSvlTIa) | 3:21 |
 | 53 | [Happy Man](https://open.spotify.com/track/4CugKRfRaxkEDLMM7yyNfR) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [Happy Man](https://open.spotify.com/album/1WoNRdaTdmRkLAmNk4QGWV) | 2:59 |
 | 54 | [Jeremiah](https://open.spotify.com/track/6DVPXh16r4Bl1V1SINfFeB) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Jeremiah / Why’d Ya Do It](https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ) | 3:04 |
-| 55 | [Earthquake](https://open.spotify.com/track/3tvlD4NK5C1bGjCu6GM76u) | [The Black Lillies](https://open.spotify.com/artist/06Y4yJmsrlzPrwIG46ce7X) | [Stranger to Me](https://open.spotify.com/album/1LKG0NrEfPFaMP05vlwQzn) | 3:21 |
-| 56 | [Companion](https://open.spotify.com/track/3XrXvjH1dMaSzNz5uOKdTS) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Highway Queen](https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW) | 3:08 |
+| 55 | [Companion](https://open.spotify.com/track/3XrXvjH1dMaSzNz5uOKdTS) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Highway Queen](https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW) | 3:08 |
+| 56 | [Earthquake](https://open.spotify.com/track/3tvlD4NK5C1bGjCu6GM76u) | [The Black Lillies](https://open.spotify.com/artist/06Y4yJmsrlzPrwIG46ce7X) | [Stranger to Me](https://open.spotify.com/album/1LKG0NrEfPFaMP05vlwQzn) | 3:21 |
 | 57 | [What's She Crying For](https://open.spotify.com/track/7piSpTyc00ahEUgqBMLYjH) | [Justin Townes Earle](https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq) | [Kids In The Street](https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU) | 3:53 |
 | 58 | [Learning to Lose \(feat\. Willie Nelson\)](https://open.spotify.com/track/7AA9ZppMBiNOGSW0nR6hxc) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [All American Made](https://open.spotify.com/album/5XbPhu08VoGqOT06oLpHhN) | 6:19 |
 | 59 | [Blood on Your Bootheels](https://open.spotify.com/track/5qfPr1jisW3bGULZd5UXtf) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [I Will Not Be Afraid](https://open.spotify.com/album/14tLWuboMq3NyGJV4lXkyk) | 3:15 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 64 | [Dirty Rain](https://open.spotify.com/track/2zRPDVAsXstoRC8pQjf79T) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [Canyons of my Mind](https://open.spotify.com/album/6pV57sA6D7z21yEZPZ7U9g) | 3:12 |
 | 65 | [Good As Gold](https://open.spotify.com/track/4LHvE4PjSvyOE0rInpU9C7) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [Years](https://open.spotify.com/album/11HcrLOFCg1LKkLub2u91X) | 3:13 |
 | 66 | [Fly Away](https://open.spotify.com/track/2xtidTFlCS3gLFnrApMY6A) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Orphan Offering](https://open.spotify.com/album/70LZy0mMgmkaVYvC2F5rPk) | 5:38 |
-| 67 | [Run\-down Neighborhood](https://open.spotify.com/track/5a0zfY27mdOdvjwypqVVhT) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf) | 3:06 |
-| 68 | [Roll On](https://open.spotify.com/track/3i1isbSpcLUVejr3rT9bNT) | [Fanny Lumsden](https://open.spotify.com/artist/4WxHef1Si5yaAaCWUc6Ug2) | [Real Class Act](https://open.spotify.com/album/74DyShEFHHQ6HiwScPSf6e) | 2:57 |
+| 67 | [Roll On](https://open.spotify.com/track/3i1isbSpcLUVejr3rT9bNT) | [Fanny Lumsden](https://open.spotify.com/artist/4WxHef1Si5yaAaCWUc6Ug2) | [Real Class Act](https://open.spotify.com/album/74DyShEFHHQ6HiwScPSf6e) | 2:57 |
+| 68 | [Run\-down Neighborhood](https://open.spotify.com/track/5a0zfY27mdOdvjwypqVVhT) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf) | 3:06 |
 | 69 | [To Learn Her](https://open.spotify.com/track/3l78vP424XB904B5MMmEdN) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 3:47 |
 | 70 | [Goodnight Rhonda Lee](https://open.spotify.com/track/4QtKz1MwAZusR7fqdxov2f) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Goodnight Rhonda Lee](https://open.spotify.com/album/4RcpHyy4rL1RrB89Di3HrJ) | 2:33 |
 | 71 | [Hotel Amarillo](https://open.spotify.com/track/6ErmDvkwkXb00pP6ID9fxw) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Spades & Roses](https://open.spotify.com/album/4kMU5M6qBNCiw8Z5nVY4mq) | 4:00 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 75 | [Four Years of Chances](https://open.spotify.com/track/5NJ0s9f1IbRWJjC15bOEDx) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Midwest Farmer's Daughter](https://open.spotify.com/album/55byaTflUCrOReQQukpctP) | 4:33 |
 | 76 | [Morgan, I Might](https://open.spotify.com/track/546zJv5pyapMZO5O0l0p4x) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni Was Right](https://open.spotify.com/album/4b9Jd0hGddS6xH6zjsCEV7) | 3:17 |
 | 77 | [southwest serenade](https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO) | [Story Slaughter](https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY) | [southwest serenade](https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY) | 1:46 |
-| 78 | [Any Old Time](https://open.spotify.com/track/5u5OHbWaCxcvIoi04HGLy6) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Hell on Church Street](https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA) | 2:58 |
-| 79 | [Memphis Rain](https://open.spotify.com/track/7pwi5x6uNPnOeG8vM9boCo) | [Aaron Lee Tasjan](https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo) | [Silver Tears](https://open.spotify.com/album/2JG1zKeTogtW6HUSJD0K6L) | 3:38 |
+| 78 | [Memphis Rain](https://open.spotify.com/track/7pwi5x6uNPnOeG8vM9boCo) | [Aaron Lee Tasjan](https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo) | [Silver Tears](https://open.spotify.com/album/2JG1zKeTogtW6HUSJD0K6L) | 3:38 |
+| 79 | [Any Old Time](https://open.spotify.com/track/5u5OHbWaCxcvIoi04HGLy6) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Hell on Church Street](https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA) | 2:58 |
 | 80 | [Forever and Then Some](https://open.spotify.com/track/2JCkZhTXY187fNi9aIPzHQ) | [Lillie Mae](https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF) | [Forever and Then Some](https://open.spotify.com/album/6FtDjbQ3un5sAv9VFUFyL0) | 4:49 |
 | 81 | [Femme Fatale](https://open.spotify.com/track/7lXw3aiwRlxwwP9pOcyuZS) | [Skylar Gudasz](https://open.spotify.com/artist/0isq0T851tBgpJagOHHYHQ) | [Cinema](https://open.spotify.com/album/7M4kkfCNjKeppGpX2nKW9w) | 4:46 |
 | 82 | [No Name](https://open.spotify.com/track/4LJ2bh3gZf9rEKQeFeuG3R) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [Sidelong](https://open.spotify.com/album/0QsTiookBuBIsLCdSvlTIa) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 99 | [My Heart Skips A Beat](https://open.spotify.com/track/2M2W0AOYzKABAo1CyfZoCE) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [The Secret Sisters](https://open.spotify.com/album/4xuicwuqEAjIHe2awEubrI) | 2:23 |
 | 100 | [Table for One](https://open.spotify.com/track/6P0g1sD9ewKm7TGonXX2v4) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Honest Life](https://open.spotify.com/album/6goc3U627Ejf2pPYoUH7se) | 3:59 |
 
-Snapshot ID: `MCxjYWRmNzJhYmVlYzhlMTJiNWQxMDU5MTZhYzhlNTRkZjZhMmI3MGVj`
+Snapshot ID: `MCw4Zjk2NTcwMjlmMWY3YjllMWQyOTM3YzAzMDAyMTY0N2M3MjEzNTZi`

@@ -4,7 +4,7 @@
 
 > La casa de los corazones rotos.
 
-302 songs - 16 hr 35 min
+303 songs - 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Borracho de Amor](https://open.spotify.com/track/2xjxGXr3eASzCvo9MUHk0w) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [De Monterrey a Sinaloa](https://open.spotify.com/album/6M9upytZn0KVS3JvlhbSYE) | 3:24 | 2022-01-07 | 2022-07-29 |
 | [Borracho de Amor](https://open.spotify.com/track/4fYNJdS986IYQWxVoZjY3A) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [De Monterrey a Sinaloa](https://open.spotify.com/album/1RVvXaNvZedvPDVQfozH1I) | 3:24 | 2022-05-23 |  |
 | [Botella Tras Botella](https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Botella Tras Botella](https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB) | 3:17 | 2022-01-07 |  |
-| [Buscando El Olvido](https://open.spotify.com/track/6Ot71Is6rWE8KWEbWgxhZr) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Sólo Muere Si Se Olvida](https://open.spotify.com/album/3TIZvT8jpaoMMexlvfvsuu) | 2:41 | 2023-04-28 |  |
+| [Buscando El Olvido](https://open.spotify.com/track/6Ot71Is6rWE8KWEbWgxhZr) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Sólo Muere Si Se Olvida](https://open.spotify.com/album/3TIZvT8jpaoMMexlvfvsuu) | 2:41 | 2023-04-28 | 2023-08-11 |
 | [Bájale](https://open.spotify.com/track/1LOLsJKiqBjgVg0HWAcfpF) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 2:42 | 2022-11-07 | 2023-04-29 |
 | [Cada Vez Te Extraño Más](https://open.spotify.com/track/70w1mwTod6NgCNV6e7ZlIQ) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Cada Vez Te Extraño Más](https://open.spotify.com/album/6VmAsJkmfT8qjXbJH5QOQN) | 4:10 | 2022-01-07 | 2023-04-11 |
 | [Calidad](https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC) | [Calidad](https://open.spotify.com/album/2ZaaYylAxHJ6sPJe9mHwHb) | 2:50 | 2022-09-02 |  |
@@ -167,6 +167,7 @@
 | [Me La Avente](https://open.spotify.com/track/16TbKoGzX5erRUW3L5J0kI) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Me La Avente](https://open.spotify.com/album/2FkDOCRhHBmmuRvVdUlRLh) | 2:35 | 2022-11-07 | 2022-11-13 |
 | [Me La Avente](https://open.spotify.com/track/2QwMXe5zbqymDZGYsMDVqZ) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/7kTcIz6EDhc8G0QCyvpOpH) | 2:35 | 2022-01-07 | 2022-07-29 |
 | [Me La Avente](https://open.spotify.com/track/3ahvKiNH7l6EpnTnzkZpG1) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI) | 2:35 | 2022-05-23 | 2023-08-09 |
+| [Me la Avente](https://open.spotify.com/track/3nQ0FbZL6DTcGnu03Jpgzm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/5We7yGwHCRWuy7T5StvTwS) | 2:35 | 2023-08-08 |  |
 | [Me Rendí](https://open.spotify.com/track/4SdLUkVGNUm2gNF7YQdhY1) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Me Rendí](https://open.spotify.com/album/6hVo9wZ2AAyh9nDnzU86E6) | 3:40 | 2022-09-30 | 2023-07-27 |
 | [Me Sobrabas Tú](https://open.spotify.com/track/33XISWpHJRbAvFSMW1y44A) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Sueño XXX](https://open.spotify.com/album/7G2oZ2GXjtfKdOWmbLcDjR) | 3:01 | 2022-01-07 | 2022-09-03 |
 | [Me Vale Madre](https://open.spotify.com/track/2bgzjBJcfn0r0HkJ0N2Lzx) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Tragedias de Mi Pueblo \(Con Banda\)](https://open.spotify.com/album/4nNePoAqTJ2VRkljtzCcrg) | 4:13 | 2022-05-23 | 2022-10-01 |

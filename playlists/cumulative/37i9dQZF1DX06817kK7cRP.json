@@ -989,6 +989,24 @@
     },
     {
       "album": {
+        "name": "high downforce",
+        "url": "https://open.spotify.com/album/2wVHvyrMgTFW0OazHPe7Zq"
+      },
+      "artists": [
+        {
+          "name": "chill.farm",
+          "url": "https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140750,
+      "name": "high downforce",
+      "url": "https://open.spotify.com/track/6Ybsa98LVmJAr15DwXSbzl"
+    },
+    {
+      "album": {
         "name": "High Expectations",
         "url": "https://open.spotify.com/album/6Or8HJNSBISRJNgukN5tyd"
       },
@@ -1766,7 +1784,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-11",
       "duration_ms": 177142,
       "name": "Offshore",
       "url": "https://open.spotify.com/track/4PzbSfedeciLUTHQ4e2xNo"

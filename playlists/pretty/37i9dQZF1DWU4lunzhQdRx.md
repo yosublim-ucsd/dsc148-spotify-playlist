@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4lunzhQdRx.md) - [plain]
 
 > in our emo cowgirl era
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,188 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,377 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4lunzhQdRx.md) - [plain]
 | 26 | [Back To December](https://open.spotify.com/track/3DrjZArsPsoqbLzUZZV1Id) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) | 4:53 |
 | 27 | [Whiskey And You](https://open.spotify.com/track/5aDK0TurEtiedVdT0a6k9a) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 3:56 |
 | 28 | [Make You Miss Me](https://open.spotify.com/track/0xwPzLmBAYro8BUz7MrtAo) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 3:45 |
-| 29 | [Merry Go 'Round](https://open.spotify.com/track/5UDqWOgDdixYMAgAyNbpgh) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:26 |
-| 30 | [Whiskey Lullaby \(feat\. Alison Krauss\)](https://open.spotify.com/track/4BXkf6yww23Vdju7E1fUrn) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Hits Alive](https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS) | 4:19 |
+| 29 | [Whiskey Lullaby \(feat\. Alison Krauss\)](https://open.spotify.com/track/4BXkf6yww23Vdju7E1fUrn) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Hits Alive](https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS) | 4:19 |
+| 30 | [Merry Go 'Round](https://open.spotify.com/track/5UDqWOgDdixYMAgAyNbpgh) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:26 |
 | 31 | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe) | 3:14 |
 | 32 | [A Little Bit Stronger](https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Stronger](https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO) | 5:01 |
 | 33 | [I Hate This](https://open.spotify.com/track/0VsDzurvIUoRNT4fIactL3) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Love, Heartbreak, & Everything in Between](https://open.spotify.com/album/1H7PmO9d4fsHghlYXDRlWG) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4lunzhQdRx.md) - [plain]
 | 49 | [Wasting All These Tears](https://open.spotify.com/track/25zXRQGuwYZdIp88fVZOPC) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [Frame By Frame](https://open.spotify.com/album/7IoVJIpP7XtjMJkgYxJkrn) | 3:35 |
 | 50 | [homecoming queen?](https://open.spotify.com/track/1ytCra0qH6gcHnCVQwREvu) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 2:47 |
 
-Snapshot ID: `MCxhN2UwNWQ1M2YwNGI3N2I1ZTQwMTRmYzM4MGEwOWFkOTJjZGJiZDJj`
+Snapshot ID: `MCxhMzU5YzQyYjA3YjllNzU0MzgzZWViOWVkZjdiY2M4NzY4N2MxNDFm`

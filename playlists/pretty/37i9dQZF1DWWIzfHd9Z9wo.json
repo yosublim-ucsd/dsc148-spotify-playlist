@@ -1,12 +1,12 @@
 {
   "description": "Catch Suananda's favorite South Asian tracks!",
-  "num_followers": 497,
+  "num_followers": 522,
   "original_name": "Spotlight: Sunanda Sharma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzk5MzdmZTZmYmI3N2JiYjNmNWE2MDIxYzFkMWUzYjdkYjczYjYz",
+  "snapshot_id": "MCw2MmQwM2E1NjRiZjFkZjI3NWE0NzBjMmY4YWJlMTUwYmVmZDUyOGNh",
   "tracks": [
     {
       "added_at": "2023-07-17 07:53:20",
@@ -135,18 +135,18 @@
     {
       "added_at": "2023-07-17 07:53:20",
       "album": {
-        "name": "Mere Pas Tum Ho",
-        "url": "https://open.spotify.com/album/4YChiH2FVicDOHMMvrix1s"
+        "name": "Meray Pass Tum Ho (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1HJmxysmbFccpzlk4Hrf9C"
       },
       "artists": [
         {
-          "name": "chitrali",
-          "url": "https://open.spotify.com/artist/3CRJomunqUTFVhIknSGawU"
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
         }
       ],
-      "duration_ms": 300083,
-      "name": "Mere Pas Tum Ho",
-      "url": "https://open.spotify.com/track/6qrX5cDMkAQYGmnbdHj3ho"
+      "duration_ms": 300000,
+      "name": "Meray Pass Tum Ho (Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/52eZg09M8KsJ4Cn5KZfUho"
     },
     {
       "added_at": "2023-07-17 07:53:20",
@@ -705,7 +705,7 @@
       "artists": [
         {
           "name": "Bayaan",
-          "url": "https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP"
+          "url": "https://open.spotify.com/artist/6SpP0Zx0DkClOvthz6Dc2G"
         }
       ],
       "duration_ms": 160322,

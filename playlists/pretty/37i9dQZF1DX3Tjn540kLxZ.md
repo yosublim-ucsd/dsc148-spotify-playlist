@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 
 > all\-day bops you can always rely on ◡̈
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,490 likes - 107 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,522 likes - 107 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 | 52 | [Runner](https://open.spotify.com/track/5PmvRPR1SedsWA08jDDgF9) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Runner](https://open.spotify.com/album/5jhIfSbDYyInZbF9c4EauX) | 2:36 |
 | 53 | [80's High School](https://open.spotify.com/track/4NnNGFTcMv5OK1LvIA2Wgw) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Melodrama](https://open.spotify.com/album/4VDue6QekQ9iZZpMTLS7ZX) | 3:22 |
 | 54 | [Borderline Insane](https://open.spotify.com/track/3G48URkjBTbQLTwW8mz1Po) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Borderline Insane](https://open.spotify.com/album/5Qh5HPMvrJfFujCGAV9GDB) | 2:19 |
-| 55 | [Selfish Soul](https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Selfish Soul](https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N) | 2:22 |
-| 56 | [Olympus](https://open.spotify.com/track/428djqRa5cPXovbZIYQOIO) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y) | 3:36 |
+| 55 | [Olympus](https://open.spotify.com/track/428djqRa5cPXovbZIYQOIO) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y) | 3:36 |
+| 56 | [Selfish Soul](https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Selfish Soul](https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N) | 2:22 |
 | 57 | [friendship](https://open.spotify.com/track/2W4TrsCzGcCCij6bo7O61m) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [soap water](https://open.spotify.com/album/0Vww6cLGJY85mFnFhRZ8Rv) | 2:52 |
 | 58 | [Soul Smile](https://open.spotify.com/track/2OjiYv6QfrMqQ8uQWrRknk) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Soul Smile](https://open.spotify.com/album/0sRQ2kEsxMeeJ5v9cNUn2N) | 4:09 |
 | 59 | [Hysterical Us](https://open.spotify.com/track/0vMlVGJuREJk3c7vvObE5Z) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 3:55 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 | 64 | [midnight sun](https://open.spotify.com/track/7M3YPejLG9WxQS9i4ZHVXh) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS](https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7) | 4:42 |
 | 65 | [On The Ground](https://open.spotify.com/track/4FHJqPdhIHhHn1JfcdwQOL) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Janky Star](https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl) | 3:25 |
 | 66 | [IDC](https://open.spotify.com/track/43x8gg4AnsyCO5pWmWed1J) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [IDC](https://open.spotify.com/album/5hR9rhURMQx8oewiccoNS8) | 3:45 |
-| 67 | [Ur Mum](https://open.spotify.com/track/7CLIr0lZ4GWeHTaj9lNkXM) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Ur Mum](https://open.spotify.com/album/30Q55cfZGvp8AZJqUM4BzG) | 3:21 |
-| 68 | [How Can I Make It Ok?](https://open.spotify.com/track/4g0yqS7sBgZGA3VWBOj1Kk) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 4:47 |
+| 67 | [How Can I Make It Ok?](https://open.spotify.com/track/4g0yqS7sBgZGA3VWBOj1Kk) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 4:47 |
+| 68 | [Ur Mum](https://open.spotify.com/track/7CLIr0lZ4GWeHTaj9lNkXM) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Ur Mum](https://open.spotify.com/album/30Q55cfZGvp8AZJqUM4BzG) | 3:21 |
 | 69 | [Clay Pigeon](https://open.spotify.com/track/1yZyPhdJF5L60qDUeuwojc) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Clay Pigeon](https://open.spotify.com/album/1ACZGErPeFAM92avUZMvZZ) | 2:29 |
 | 70 | [Freedom](https://open.spotify.com/track/5jqIjKNwbiSPgjyfEzv8bH) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Freedom](https://open.spotify.com/album/4VeaoBmW52Nw0tbazyyFEb) | 4:08 |
 | 71 | [Glitter](https://open.spotify.com/track/6afganegJBNs44tGwIOgYQ) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB) | [Glitter](https://open.spotify.com/album/7lgPMiz220ZdI9hachYEvG) | 3:01 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 | 85 | [Fairytale \(feat\. Rachel Chinouriri\)](https://open.spotify.com/track/0R4MlESQkltkYcFP5XyGPp) | [Mac Wetha](https://open.spotify.com/artist/4q1qItmjb9INKQM0F82StP), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Fairytale \(feat\. Rachel Chinouriri\)](https://open.spotify.com/album/5ve8QzX3p45KF77SiZjrCn) | 2:45 |
 | 86 | [cool guy](https://open.spotify.com/track/5ifM6wdzeM0hLHhqQFea4P) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [cool guy](https://open.spotify.com/album/0llQ8VXp81FgVxnvnyvLIf) | 3:16 |
 | 87 | [IDK About You](https://open.spotify.com/track/7Abvdek4ynLb8dewhwrkqD) | [Nick Mono](https://open.spotify.com/artist/4HyoBuDGnR8bp6TTrrVZ9q) | [The Sun Won't Stay After Summer](https://open.spotify.com/album/4LqvOUjwO0FrMQQSQ8bJmC) | 2:31 |
-| 88 | [Summer Nights](https://open.spotify.com/track/4IjkVrsOEoPYV7FIStLCt7) | [Kean Kavanagh](https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B) | [Summer Nights](https://open.spotify.com/album/4og2scnRvgywQ1B8KpDlpm) | 3:35 |
-| 89 | [slow dance partner](https://open.spotify.com/track/0qkdpmnFRbU1h2CzQewHSR) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [forest avenue](https://open.spotify.com/album/5n1cTgcLYpugGWHNQJqAba) | 2:51 |
+| 88 | [slow dance partner](https://open.spotify.com/track/0qkdpmnFRbU1h2CzQewHSR) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [forest avenue](https://open.spotify.com/album/5n1cTgcLYpugGWHNQJqAba) | 2:51 |
+| 89 | [Summer Nights](https://open.spotify.com/track/4IjkVrsOEoPYV7FIStLCt7) | [Kean Kavanagh](https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B) | [Summer Nights](https://open.spotify.com/album/4og2scnRvgywQ1B8KpDlpm) | 3:35 |
 | 90 | [Crown](https://open.spotify.com/track/0eejiUWdzDJ0dmy5xpzmId) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Crown](https://open.spotify.com/album/3U4yJ1rULRDNhQweRGVs3L) | 3:44 |
 | 91 | [dead end](https://open.spotify.com/track/2KyS4sFuKvNYerKxHPyawL) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [dead end](https://open.spotify.com/album/5KxUsfacO5zoYRfxYFQYGl) | 2:20 |
 | 92 | [Cocoa Beach](https://open.spotify.com/track/1uEuKU2y2rjjjLXgZbReh1) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Cocoa Beach](https://open.spotify.com/album/0UVF9tUiKk0RqzUEr3M3WN) | 3:58 |
@@ -108,12 +108,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 | 98 | [i want, doesn't get](https://open.spotify.com/track/04W4goRWBFhucHH5XmHMvt) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [i want, doesn't get](https://open.spotify.com/album/3uN3Syyka3yAaYdfzDPhoi) | 2:31 |
 | 99 | [Mine](https://open.spotify.com/track/7wJJtzghzNGQiaShvwYgRq) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [Closure & Campari: After Hours](https://open.spotify.com/album/0PO6VGoUkhnPMOcUWT3V2Y) | 3:29 |
 | 100 | [birth by sleep](https://open.spotify.com/track/3iXPcNi7FjEcqkNgaphySr) | [boyband](https://open.spotify.com/artist/4OxvOPeLvZWDxihwqtOC4D) | [never knows best](https://open.spotify.com/album/41akXQXQLDtiEfVg9vmaSY) | 2:42 |
-| 101 | [Coming For Ya](https://open.spotify.com/track/5jAfv9Pn47goB2LD67Yimh) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Coming For Ya](https://open.spotify.com/album/0BwHDNebdYqyqJlz4E5EXj) | 3:13 |
-| 102 | [All Alone](https://open.spotify.com/track/4PDsW99c5cADBvydBuQac7) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [Always Tomorrow \(Deluxe Edition\)](https://open.spotify.com/album/5BA2VC4hcCxvSVWvIOjxou) | 2:56 |
-| 103 | [cowboys don't have friends](https://open.spotify.com/track/4osFqqGrhw1XevbTWAJwnm) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [Birthdays In July](https://open.spotify.com/album/2kpybYnysuEAN1cOgoU9os) | 2:37 |
+| 101 | [cowboys don't have friends](https://open.spotify.com/track/4osFqqGrhw1XevbTWAJwnm) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [Birthdays In July](https://open.spotify.com/album/2kpybYnysuEAN1cOgoU9os) | 2:37 |
+| 102 | [Coming For Ya](https://open.spotify.com/track/5jAfv9Pn47goB2LD67Yimh) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Coming For Ya](https://open.spotify.com/album/0BwHDNebdYqyqJlz4E5EXj) | 3:13 |
+| 103 | [All Alone](https://open.spotify.com/track/4PDsW99c5cADBvydBuQac7) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [Always Tomorrow \(Deluxe Edition\)](https://open.spotify.com/album/5BA2VC4hcCxvSVWvIOjxou) | 2:56 |
 | 104 | [Wayside](https://open.spotify.com/track/2IH2ZVes9PkTRUxlDJj0vm) | [Mac Wetha](https://open.spotify.com/artist/4q1qItmjb9INKQM0F82StP) | [Make It Thru](https://open.spotify.com/album/1VgAvVLtWn1Aoru8eidv5z) | 3:36 |
 | 105 | [Rover](https://open.spotify.com/track/2QMDVQwtZSA4v5oJG7Gg7u) | [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY) | [Town's Dead](https://open.spotify.com/album/6PtpPzTZPYmRQ9EqfGTUYT) | 2:20 |
 | 106 | [Describe Stoke\-on\-Trent](https://open.spotify.com/track/2NfqiJwXzUPUXDCR2IUK2B) | [Jimothy Lacoste](https://open.spotify.com/artist/0sq3OExudqk1vOkbSuc8KW) | [Describe Stoke\-on\-Trent](https://open.spotify.com/album/3Z0LUzNgytpAR3BAJyp2KE) | 3:11 |
 | 107 | [glad ur gone](https://open.spotify.com/track/2CF2KISnfIIOZvzN1xb4VG) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [once the edge has worn off](https://open.spotify.com/album/1UZ0oOTbFYR9DDg0giB1bH) | 4:05 |
 
-Snapshot ID: `MCxiZjg0NTg1NDMxZDRmMDhmNzY1ZDlmNzBmZGQ1Y2JmMjlmZTQxMjc1`
+Snapshot ID: `MCw0NGNkYzYzYzI3YWNiZDVjZjI1MjBiN2IyY2UyN2U1MGM5ZjYyYjYw`

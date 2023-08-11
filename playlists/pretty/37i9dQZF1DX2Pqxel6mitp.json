@@ -1,12 +1,12 @@
 {
   "description": "A cup of Joe and the raw Blues.",
-  "num_followers": 62435,
+  "num_followers": 62522,
   "original_name": "Black Coffee Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDYyZjMzNjAwOTQ4MGFkNTBhNzk0ZTY5NGJlMzY1MmJmYzdjYTVi",
+  "snapshot_id": "MCxjNzg4YTczZmU0ODc2ZjI2MTZkNjFmOWFjMTEyNDY0MmFkOTM0YmMy",
   "tracks": [
     {
       "added_at": "2023-07-21 15:55:32",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
-        "name": "Bonnie Raitt (2008 Remaster)",
-        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 216093,
-      "name": "I Ain't Blue - 2008 Remaster",
-      "url": "https://open.spotify.com/track/54CBPWCAZ37nY94t16ocyL"
-    },
-    {
-      "added_at": "2023-07-21 15:55:32",
-      "album": {
         "name": "Alabama Blues!",
         "url": "https://open.spotify.com/album/04PVRugR8vyIXmXMWE0ZKa"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 194373,
       "name": "Alabama Blues",
       "url": "https://open.spotify.com/track/21EwgINgOx9iiYo7Sj1HCM"
+    },
+    {
+      "added_at": "2023-07-21 15:55:32",
+      "album": {
+        "name": "Bonnie Raitt (2008 Remaster)",
+        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 216093,
+      "name": "I Ain't Blue - 2008 Remaster",
+      "url": "https://open.spotify.com/track/54CBPWCAZ37nY94t16ocyL"
     },
     {
       "added_at": "2023-07-21 15:55:32",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
-        "name": "Blues From The Gutter",
-        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
-      },
-      "artists": [
-        {
-          "name": "Champion Jack Dupree",
-          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
-        }
-      ],
-      "duration_ms": 261092,
-      "name": "Evil Woman",
-      "url": "https://open.spotify.com/track/7lpsRa4kcNoxSHUDNDXpnn"
-    },
-    {
-      "added_at": "2023-07-21 15:55:32",
-      "album": {
         "name": "The King of Chicago Blues Piano",
         "url": "https://open.spotify.com/album/7B0UpbAjvyWdS6ira2Ns5Z"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 175293,
       "name": "Worried Life Blues",
       "url": "https://open.spotify.com/track/77j9SlhRd4MBGU998c7dnw"
+    },
+    {
+      "added_at": "2023-07-21 15:55:32",
+      "album": {
+        "name": "Blues From The Gutter",
+        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
+      },
+      "artists": [
+        {
+          "name": "Champion Jack Dupree",
+          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+        }
+      ],
+      "duration_ms": 261092,
+      "name": "Evil Woman",
+      "url": "https://open.spotify.com/track/7lpsRa4kcNoxSHUDNDXpnn"
     },
     {
       "added_at": "2023-07-21 15:55:32",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
-        "name": "Remastered from the Archives",
-        "url": "https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 145204,
-      "name": "This is Hip - Remastered",
-      "url": "https://open.spotify.com/track/4gUQvpeHV3Itf2WAX0CdjI"
-    },
-    {
-      "added_at": "2023-07-21 15:55:32",
-      "album": {
         "name": "That's All Right (Mama) - the Fire Sessions",
         "url": "https://open.spotify.com/album/0FunGD7FQtlCKOwavfZAbD"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 218864,
       "name": "Low Down Dog",
       "url": "https://open.spotify.com/track/2EonQEVNpFj4DjrBqBghxe"
+    },
+    {
+      "added_at": "2023-07-21 15:55:32",
+      "album": {
+        "name": "Remastered from the Archives",
+        "url": "https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 145204,
+      "name": "This is Hip - Remastered",
+      "url": "https://open.spotify.com/track/4gUQvpeHV3Itf2WAX0CdjI"
     },
     {
       "added_at": "2023-07-21 15:55:32",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
-        "name": "Blue River Rising",
-        "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
-      },
-      "artists": [
-        {
-          "name": "Michael van Merwyk",
-          "url": "https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF"
-        }
-      ],
-      "duration_ms": 360480,
-      "name": "Blue River Rising",
-      "url": "https://open.spotify.com/track/22jAc1VDDfEMZwecjhaKuE"
-    },
-    {
-      "added_at": "2023-07-21 15:55:32",
-      "album": {
         "name": "Man in the Ground",
         "url": "https://open.spotify.com/album/3pSMQQFLcjdQDasxNuGNEF"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 186920,
       "name": "Man in the Ground",
       "url": "https://open.spotify.com/track/58hIcKjEMwvTLGdEsdfRPf"
+    },
+    {
+      "added_at": "2023-07-21 15:55:32",
+      "album": {
+        "name": "Blue River Rising",
+        "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
+      },
+      "artists": [
+        {
+          "name": "Michael van Merwyk",
+          "url": "https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF"
+        }
+      ],
+      "duration_ms": 360480,
+      "name": "Blue River Rising",
+      "url": "https://open.spotify.com/track/22jAc1VDDfEMZwecjhaKuE"
     },
     {
       "added_at": "2023-07-21 15:55:32",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
-        "name": "A Soul to Claim",
-        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
-      },
-      "artists": [
-        {
-          "name": "Doug MacLeod",
-          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
-        }
-      ],
-      "duration_ms": 236182,
-      "name": "Money Talks",
-      "url": "https://open.spotify.com/track/0DXUeXEMIHA4aRI6l2X5yY"
-    },
-    {
-      "added_at": "2023-07-21 15:55:32",
-      "album": {
         "name": "The Future Ain't What It Used to Be",
         "url": "https://open.spotify.com/album/0DW4kByILcJVsYLxbfx035"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 200987,
       "name": "The Future Ain't What It Used to Be",
       "url": "https://open.spotify.com/track/7mNrmOsmZyjJw9FAmrboQO"
+    },
+    {
+      "added_at": "2023-07-21 15:55:32",
+      "album": {
+        "name": "A Soul to Claim",
+        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
+      },
+      "artists": [
+        {
+          "name": "Doug MacLeod",
+          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+        }
+      ],
+      "duration_ms": 236182,
+      "name": "Money Talks",
+      "url": "https://open.spotify.com/track/0DXUeXEMIHA4aRI6l2X5yY"
     },
     {
       "added_at": "2023-07-21 15:55:32",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
-        "name": "Next Time You See Me",
-        "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
-      },
-      "artists": [
-        {
-          "name": "Junior Parker",
-          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "Fussin' and Fightin' (Blues)",
-      "url": "https://open.spotify.com/track/479M29eunSUcosQ608slSc"
-    },
-    {
-      "added_at": "2023-07-21 15:55:32",
-      "album": {
         "name": "Otis Spann Is The Blues (Remastered)",
         "url": "https://open.spotify.com/album/5C85Qbmifxkrb5aPfAMZq2"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 207240,
       "name": "Take A Little Walk With Me - Remastered",
       "url": "https://open.spotify.com/track/6BW7rDbeWvsz7v6kVFvEay"
+    },
+    {
+      "added_at": "2023-07-21 15:55:32",
+      "album": {
+        "name": "Next Time You See Me",
+        "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
+      },
+      "artists": [
+        {
+          "name": "Junior Parker",
+          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
+        }
+      ],
+      "duration_ms": 180066,
+      "name": "Fussin' and Fightin' (Blues)",
+      "url": "https://open.spotify.com/track/479M29eunSUcosQ608slSc"
     },
     {
       "added_at": "2023-07-21 15:55:32",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
+        "name": "Mystery Man",
+        "url": "https://open.spotify.com/album/6Cjm5t6RYzmruGL4OrQDBt"
+      },
+      "artists": [
+        {
+          "name": "Leon Redbone",
+          "url": "https://open.spotify.com/artist/7hYKC5uBED0V5rpKQkqgQ5"
+        }
+      ],
+      "duration_ms": 291295,
+      "name": "T.B. Blues",
+      "url": "https://open.spotify.com/track/6pl6vZWf1SOS46qAwOs5a6"
+    },
+    {
+      "added_at": "2023-07-21 15:55:32",
+      "album": {
         "name": "Strange Time To Be Alive",
         "url": "https://open.spotify.com/album/3HKdMZgD0EQCy9FI0fz9PA"
       },
@@ -1791,18 +1807,22 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
-        "name": "Mystery Man",
-        "url": "https://open.spotify.com/album/6Cjm5t6RYzmruGL4OrQDBt"
+        "name": "Navigation Blues",
+        "url": "https://open.spotify.com/album/291j4jpDLGN5NeGlOyL5Kh"
       },
       "artists": [
         {
-          "name": "Leon Redbone",
-          "url": "https://open.spotify.com/artist/7hYKC5uBED0V5rpKQkqgQ5"
+          "name": "Thorbj\u00f8rn Risager",
+          "url": "https://open.spotify.com/artist/1ZH4VWLaW65KivEJmbhhiT"
+        },
+        {
+          "name": "The Black Tornado",
+          "url": "https://open.spotify.com/artist/5xZXRYnVUXrCglxwVCLAVD"
         }
       ],
-      "duration_ms": 291295,
-      "name": "T.B. Blues",
-      "url": "https://open.spotify.com/track/6pl6vZWf1SOS46qAwOs5a6"
+      "duration_ms": 296466,
+      "name": "Navigation Blues",
+      "url": "https://open.spotify.com/track/1NC7eqWo4K8RaTfpLKWoe0"
     },
     {
       "added_at": "2023-07-21 15:55:32",
@@ -1843,22 +1863,6 @@
     {
       "added_at": "2023-07-21 15:55:32",
       "album": {
-        "name": "Empire State Express",
-        "url": "https://open.spotify.com/album/2DMWrcLl3inqFygxUFnpkh"
-      },
-      "artists": [
-        {
-          "name": "Son House",
-          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
-        }
-      ],
-      "duration_ms": 270706,
-      "name": "Empire State Express",
-      "url": "https://open.spotify.com/track/3eT162kkfyBYC5EjmupvSG"
-    },
-    {
-      "added_at": "2023-07-21 15:55:32",
-      "album": {
         "name": "Vanguard Visionaries",
         "url": "https://open.spotify.com/album/3D71Z5ePVE4f4juXmdutS8"
       },
@@ -1871,6 +1875,22 @@
       "duration_ms": 335880,
       "name": "Stagolee",
       "url": "https://open.spotify.com/track/0INjbPra3ktap3X30Bo7HP"
+    },
+    {
+      "added_at": "2023-07-21 15:55:32",
+      "album": {
+        "name": "Empire State Express",
+        "url": "https://open.spotify.com/album/2DMWrcLl3inqFygxUFnpkh"
+      },
+      "artists": [
+        {
+          "name": "Son House",
+          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
+        }
+      ],
+      "duration_ms": 270706,
+      "name": "Empire State Express",
+      "url": "https://open.spotify.com/track/3eT162kkfyBYC5EjmupvSG"
     },
     {
       "added_at": "2023-07-21 15:55:32",
@@ -1891,6 +1911,26 @@
       "duration_ms": 198000,
       "name": "Newbury",
       "url": "https://open.spotify.com/track/5XM2FOhXcBJQzABOmlQQEl"
+    },
+    {
+      "added_at": "2023-07-21 15:55:32",
+      "album": {
+        "name": "Whose Muddy Shoes",
+        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        },
+        {
+          "name": "John Brim",
+          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
+        }
+      ],
+      "duration_ms": 188306,
+      "name": "Rattlesnake",
+      "url": "https://open.spotify.com/track/6BT4oFPJsrhsaPxNmwJAGK"
     },
     {
       "added_at": "2023-07-21 15:55:32",
@@ -1927,46 +1967,6 @@
       "duration_ms": 247630,
       "name": "Another Weary Soul",
       "url": "https://open.spotify.com/track/7MyvG8lmIMQw0nKFTpCI3x"
-    },
-    {
-      "added_at": "2023-07-21 15:55:32",
-      "album": {
-        "name": "Whose Muddy Shoes",
-        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        },
-        {
-          "name": "John Brim",
-          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
-        }
-      ],
-      "duration_ms": 188306,
-      "name": "Rattlesnake",
-      "url": "https://open.spotify.com/track/6BT4oFPJsrhsaPxNmwJAGK"
-    },
-    {
-      "added_at": "2023-07-21 15:55:32",
-      "album": {
-        "name": "Navigation Blues",
-        "url": "https://open.spotify.com/album/291j4jpDLGN5NeGlOyL5Kh"
-      },
-      "artists": [
-        {
-          "name": "Thorbj\u00f8rn Risager",
-          "url": "https://open.spotify.com/artist/1ZH4VWLaW65KivEJmbhhiT"
-        },
-        {
-          "name": "The Black Tornado",
-          "url": "https://open.spotify.com/artist/5xZXRYnVUXrCglxwVCLAVD"
-        }
-      ],
-      "duration_ms": 296466,
-      "name": "Navigation Blues",
-      "url": "https://open.spotify.com/track/1NC7eqWo4K8RaTfpLKWoe0"
     },
     {
       "added_at": "2023-07-21 15:55:32",

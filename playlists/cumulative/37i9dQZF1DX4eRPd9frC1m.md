@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-279 songs - 15 hr 25 min
+280 songs - 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,8 @@
 | [NGMF](https://open.spotify.com/track/2iOz9TpTJgR3ZBIQ0Pas2g) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY), [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [NGMF](https://open.spotify.com/album/5eOjDPcOskmMG3syjwodSN) | 2:42 | 2021-11-19 | 2022-07-28 |
 | [No Brakes](https://open.spotify.com/track/2rNt0cXjLDLefeCItQrFwG) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [No Brakes](https://open.spotify.com/album/7o60ves6sdc3vr5LuUpK3Y) | 2:41 | 2022-02-11 | 2022-05-10 |
 | [No Doubt](https://open.spotify.com/track/2ov6YP16sLrlIagJdvgKQe) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [Bangers\[6\].Zip](https://open.spotify.com/album/3djSUWm3m92BDIXUxg3Fii) | 3:15 | 2021-11-19 | 2022-01-08 |
-| [No Limit](https://open.spotify.com/track/7IVzMMlDsh4W4mIavGdKi0) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Dirty Audio](https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8), [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [No Limit](https://open.spotify.com/album/1l2gOUOCfG6dQHUjCoopC0) | 3:00 | 2022-01-07 |  |
+| [NO FEAR](https://open.spotify.com/track/0xy1H3TnhU478kNe7E8Wxc) | [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [NO FEAR](https://open.spotify.com/album/36SmlBYQsx9egrbscTMe9D) | 2:54 | 2023-08-04 |  |
+| [No Limit](https://open.spotify.com/track/7IVzMMlDsh4W4mIavGdKi0) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Dirty Audio](https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8), [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [No Limit](https://open.spotify.com/album/1l2gOUOCfG6dQHUjCoopC0) | 3:00 | 2022-01-07 | 2023-08-11 |
 | [NO LOVE](https://open.spotify.com/track/3x9RokAqos6LqGni4E0TyB) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg) | [NO LOVE](https://open.spotify.com/album/5T2DMQH1Ru2R9FMgpklg4h) | 3:22 | 2021-11-19 | 2022-10-09 |
 | [No Stoppin \(feat\. GOLD\)](https://open.spotify.com/track/4ckoZlzQTOTEN8rhfQPbBl) | [Dirty Audio](https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8), [Gold](https://open.spotify.com/artist/6ImUn600ZnHXjWRuYDMh4H) | [No Stoppin \(feat\. GOLD\)](https://open.spotify.com/album/4qSwKluIRxsN75COJJAC7J) | 2:40 | 2021-11-19 | 2022-09-09 |
 | [NOSEBLEED](https://open.spotify.com/track/6qxOL5Opjw8rVp3xMsR9os) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ) | [NOSEBLEED](https://open.spotify.com/album/0Q0mqU937illf7v7rMI8wz) | 3:46 | 2022-01-07 | 2022-08-18 |

@@ -4,7 +4,7 @@
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-506 songs - 1 day 4 hr 58 min
+508 songs - 1 day 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Brand New Day](https://open.spotify.com/track/1rknPfhsPCqHYWEB99H5sZ) | [irucaice](https://open.spotify.com/artist/0giXiUwGnKdrVe96MLkTKX) | [iceQuarium \-Strawberry\-](https://open.spotify.com/album/2aGFMGGOl4we3BJZdEz9FZ) | 4:31 | 2022-06-14 | 2022-07-13 |
 | [BUG](https://open.spotify.com/track/1fqfev7K0mfX7e1W64pDvA) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE) | [BUG](https://open.spotify.com/album/04BZd03CZ9HuiiZBWDcp1J) | 2:51 | 2022-12-13 |  |
 | [Canopus](https://open.spotify.com/track/4LBsz7g9b4zs9EUSgQNo7J) | [Nayutalien](https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c) | [Object N from Star NayutaN](https://open.spotify.com/album/0Tjejk8tpCFquoNqOgXBKm) | 2:56 | 2023-01-03 | 2023-01-20 |
-| [CH4NGE \- feat\. KAFU](https://open.spotify.com/track/3ipGZWQ7Q64OA7SwFNVfy2) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [CH4NGE](https://open.spotify.com/album/192mLC4CmnfqkxQbiPj7AZ) | 2:12 | 2022-07-26 |  |
+| [CH4NGE \- feat\. KAFU](https://open.spotify.com/track/3ipGZWQ7Q64OA7SwFNVfy2) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [CH4NGE](https://open.spotify.com/album/192mLC4CmnfqkxQbiPj7AZ) | 2:12 | 2022-07-26 | 2023-08-11 |
 | [CH4NGE \- feat\. 可不](https://open.spotify.com/track/4qVHEZ8pbcI7EyliSL7AHJ) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [CH4NGE](https://open.spotify.com/album/2c9Bn5UuRZj9YVykyjb0hc) | 2:12 | 2022-06-09 | 2022-07-29 |
 | [CHO \-DARI\-](https://open.spotify.com/track/6yKuRTRiaM1fUmxasPWCUu) | [23.exe](https://open.spotify.com/artist/6ChA8LcoGpOlKZhoOUbRZT) | [LIME](https://open.spotify.com/album/17dYvFTZVCtDhz8LewtGGa) | 2:39 | 2022-06-30 | 2022-07-17 |
 | [Chubyou Gekihatsu Boy](https://open.spotify.com/track/6Lxu9Er4UWqLrYxqQSLJET) | [rerulili](https://open.spotify.com/artist/0pe4oh93288gTffEVZWZ1H) | [Chubyou Gekihatsu Boy](https://open.spotify.com/album/11wsf9YJHLcnpAxUtldSZs) | 3:26 | 2022-06-09 | 2022-07-16 |
@@ -123,7 +123,7 @@
 | [Reincarnation Apple](https://open.spotify.com/track/1O8mA7lbLISvEGUiNFwQnV) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [Reincarnation Apple](https://open.spotify.com/album/5gqdC7ZnKbTJqypdYHr1Kt) | 3:39 | 2022-08-23 | 2022-11-25 |
 | [Requiem](https://open.spotify.com/track/2drddXvwwO2AUR7EooatUy) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Requiem](https://open.spotify.com/album/30eZWuPWgGXb0TYOJht0Qk) | 2:37 | 2023-04-27 | 2023-07-21 |
 | [Rhythm](https://open.spotify.com/track/5fRV7LbEAWHhQip59ay9XS) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [リズム](https://open.spotify.com/album/3mU2xxar81peOVlFgaelzk) | 2:51 | 2022-06-14 | 2022-07-27 |
-| [Rise \(feat\. Hatsune Miku\) \- Guiano Vocaloid Remix With Δ](https://open.spotify.com/track/3TaNfmkBp2woaZ7HyEe0jt) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Guiano](https://open.spotify.com/artist/1gIxoB0mBUoPr7rPyy31xf) | [Rise \(feat\. Hatsune Miku\) \[Guiano Vocaloid Remix With Δ\]](https://open.spotify.com/album/7EbKU7x7HiJDDbAvSw203I) | 3:50 | 2023-07-20 |  |
+| [Rise \(feat\. Hatsune Miku\) \- Guiano Vocaloid Remix With Δ](https://open.spotify.com/track/3TaNfmkBp2woaZ7HyEe0jt) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Guiano](https://open.spotify.com/artist/1gIxoB0mBUoPr7rPyy31xf) | [Rise \(feat\. Hatsune Miku\) \[Guiano Vocaloid Remix With Δ\]](https://open.spotify.com/album/7EbKU7x7HiJDDbAvSw203I) | 3:50 | 2023-07-20 | 2023-08-11 |
 | [Rollin’ Girl](https://open.spotify.com/track/5VJPBUVqxzLWmzzlJZy4r2) | [wowaka](https://open.spotify.com/artist/65MYE6R7PCyVAhHrQploNT) | [Exit Tunes Presents Supernova](https://open.spotify.com/album/1iWiHH4pOLxDCDTN2AJ70X) | 3:14 | 2022-07-26 |  |
 | [Samsa](https://open.spotify.com/track/3Su7tjUw5QbSBD5S3QFrWP) | [Teniwoha](https://open.spotify.com/artist/6agSBzJ9kJnlglVc271CLD) | [Samsa](https://open.spotify.com/album/6JvDXCgjEVlPNA34NlT3oH) | 3:32 | 2023-04-18 |  |
 | [Sayonara Hatsukoi](https://open.spotify.com/track/6UxVkptDWjv9ZUl7UTyh9s) | [crafTUNER](https://open.spotify.com/artist/5Xrr9LNcLrp8ZcXg9ubPNd), [Luka Megurine](https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I) | [Azuressence](https://open.spotify.com/album/1AXpY7QNAb6VIHXPk2DzwG) | 3:23 | 2022-06-23 | 2022-07-18 |
@@ -389,6 +389,7 @@
 | [ヸシュヌ \(feat\. 初音ミク\)](https://open.spotify.com/track/3KNa2aUL6JttpHA7Q6nkDW) | [wotaku](https://open.spotify.com/artist/0685luDRQZRkN4JnhnRSKX) | [ヸシュヌ](https://open.spotify.com/album/2EhvXAkJ79B4AVfrYjHWsj) | 3:37 | 2022-06-28 | 2022-07-01 |
 | [一心不乱](https://open.spotify.com/track/75EGAQg5gJhUz69GSYufBt) | [UMETORA](https://open.spotify.com/artist/5ZjOsH8VbUcUs5LoDjeYOE) | [一心不乱](https://open.spotify.com/album/3A00yiXvch1ZRGBlMfr3hP) | 3:17 | 2022-06-09 | 2022-07-27 |
 | [一角獣](https://open.spotify.com/track/6OcfNne5vPOrkthIvwPe9a) | [Teniwoha](https://open.spotify.com/artist/6agSBzJ9kJnlglVc271CLD) | [一角獣](https://open.spotify.com/album/3JtEzwAfXhTcRr3FbONylo) | 3:37 | 2022-06-09 | 2022-07-28 |
+| [万物流転](https://open.spotify.com/track/5b1itBKmlv5u0Ge3PEi1qb) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [万物流転](https://open.spotify.com/album/25d8d4FfPeE5qwY4ziazKa) | 3:49 | 2023-08-10 |  |
 | [下剋上](https://open.spotify.com/track/4FlY9zsDlg7ZRtOEE0z0RG) | [Misumi](https://open.spotify.com/artist/79WesJjDmCUqObjbE0mNyA) | [下剋上](https://open.spotify.com/album/0btduDvRtBcOyLGi2zF5z9) | 2:34 | 2023-06-20 | 2023-07-28 |
 | [不埒な喝采](https://open.spotify.com/track/1yALlDzyQ4MbzEtMosEJkk) | [音楽的同位体 可不\(KAFU\)](https://open.spotify.com/artist/4nZ9ZaF0eFDMDQKgrJgsqC) | [KAF+YOU KAFU COMPILATION ALBUM](https://open.spotify.com/album/6ljHb4t09MebY2WYuP8iQ1) | 2:24 | 2022-06-09 | 2022-07-23 |
 | [不完全愛情進行中](https://open.spotify.com/track/1kccUSvGvxEt7tccnrfV4y) | [Misumi](https://open.spotify.com/artist/79WesJjDmCUqObjbE0mNyA) | [不完全愛情進行中](https://open.spotify.com/album/1FIf5JBEDDWxaqwvtCiRAM) | 2:41 | 2022-10-27 | 2023-01-06 |
@@ -512,6 +513,7 @@
 | [青く駆けろ!](https://open.spotify.com/track/0QFrVzd6dk4az0TOK5ZtA5) | [Marasy](https://open.spotify.com/artist/3Y2hPbg4GHOheV4Hc9lpXV), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Meiko](https://open.spotify.com/artist/6tW9jWf8lpuzDzAdVMvNMV), [ミライアカリ](https://open.spotify.com/artist/0nQt0sivKt7x5EE1n6nHKt), [YuNi](https://open.spotify.com/artist/6BzlN4V17m7ogeItP4CNN5), [富士葵](https://open.spotify.com/artist/2MpCDbGU66x0pDfCRESqmZ), [星乃一歌](https://open.spotify.com/artist/0gIbpvrqmPtHQ8zyQpBDFt) | [青く駆けろ!](https://open.spotify.com/album/7xVqbJHODRwsHQy5tK3HK3) | 3:47 | 2022-06-28 | 2022-07-28 |
 | [風](https://open.spotify.com/track/0wU8Ejhr1mAA9DdCw1nBcz) | [Guiano](https://open.spotify.com/artist/1gIxoB0mBUoPr7rPyy31xf) | [風](https://open.spotify.com/album/4hqX3NRbqoyxsSvTpkeNIM) | 2:58 | 2022-10-20 | 2022-10-28 |
 | [鬼の居ぬ間に](https://open.spotify.com/track/2IN6XI9EDkeCvYF0NAXu6V) | [Maigo Hanyuu](https://open.spotify.com/artist/1IYW6az2BfL10WNlNlRcRc) | [魔性のカマトト](https://open.spotify.com/album/1fcTlxhOnqhPZFBinHPCCl) | 3:12 | 2022-06-09 | 2022-07-15 |
+| [魔天楼](https://open.spotify.com/track/3LPkrY0tXzqY9dx7DodNCH) | [煮ル果実](https://open.spotify.com/artist/3wG9JLlVmrbpfKcBuQ2xlh) | [魔天楼](https://open.spotify.com/album/2vlTk0u2twffIAFYVQDozz) | 3:15 | 2023-08-10 |  |
 | [魔法みたいなミュージック!](https://open.spotify.com/track/4Cm1crfy5GQw1OiEuFjAXO) | [OSTER project](https://open.spotify.com/artist/4OFuKxuZg7eKcAj9Bg5off) | [魔法みたいなミュージック!](https://open.spotify.com/album/4pgrKtRbknVEqxBTWFZtRX) | 4:25 | 2022-06-23 | 2022-07-02 |
 | [魔法少女とチョコレゐト](https://open.spotify.com/track/77bBbeFxLNNUQK466osDRd) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [魔法少女とチョコレゐト](https://open.spotify.com/album/0el5IznnTWmmoYyjrS9Dwb) | 3:07 | 2022-06-09 | 2022-07-29 |
 

@@ -1,12 +1,12 @@
 {
   "description": "Brazilian Phonk FOCUS ON YOU!  crdrecordsofficial@gmail.com This account is not associated with any social media account!",
-  "num_followers": 976423,
+  "num_followers": 977492,
   "original_name": "SIGMA MALE TIKTOK MUSIC",
   "owner": {
     "name": "CRD",
     "url": "https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u"
   },
-  "snapshot_id": "MjA5Myw3MmJmMjk2YzljYjQzMDEzN2FjZjA3NmI5NDEzODIwNTE4NWNlNWFk",
+  "snapshot_id": "MjA5Nyw2Mjc3M2MxOTFhMmJjZjdkZWI0MDAxNTRjMjc0MWQ3MTczY2ZlYzFl",
   "tracks": [
     {
       "added_at": "2023-06-12 05:59:49",
@@ -613,6 +613,22 @@
       "url": "https://open.spotify.com/track/30w93wLZVn2v1znX5AI40n"
     },
     {
+      "added_at": "2023-06-12 05:59:49",
+      "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/1LTl3mxJfm7flXx9wecciK"
+      },
+      "artists": [
+        {
+          "name": "Bravo 1-2",
+          "url": "https://open.spotify.com/artist/7m1XrFL6HVKlTlJ4R6kUcX"
+        }
+      ],
+      "duration_ms": 90000,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/05QTU0jumc79qqlpAzMEbw"
+    },
+    {
       "added_at": "2023-08-05 10:03:21",
       "album": {
         "name": "Funk of Suffering",
@@ -647,18 +663,34 @@
     {
       "added_at": "2023-06-12 05:59:49",
       "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/1LTl3mxJfm7flXx9wecciK"
+        "name": "Abyss",
+        "url": "https://open.spotify.com/album/0RItfbXPf5eDzwdsgK9rKV"
       },
       "artists": [
         {
-          "name": "Bravo 1-2",
-          "url": "https://open.spotify.com/artist/7m1XrFL6HVKlTlJ4R6kUcX"
+          "name": "Pastel Ghost",
+          "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
         }
       ],
-      "duration_ms": 90000,
-      "name": "Genesis",
-      "url": "https://open.spotify.com/track/05QTU0jumc79qqlpAzMEbw"
+      "duration_ms": 222000,
+      "name": "Dark Beach",
+      "url": "https://open.spotify.com/track/5QmdK8QFbY8TLVKPuJzexD"
+    },
+    {
+      "added_at": "2023-08-10 15:15:48",
+      "album": {
+        "name": "Cinema",
+        "url": "https://open.spotify.com/album/1fMxTQ3HXmiIiCmsdjcLjv"
+      },
+      "artists": [
+        {
+          "name": "JKRS",
+          "url": "https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv"
+        }
+      ],
+      "duration_ms": 114209,
+      "name": "Cinema",
+      "url": "https://open.spotify.com/track/6ZCAoPaurm8pUPDj6bODf2"
     },
     {
       "added_at": "2023-08-05 10:06:35",
@@ -675,22 +707,6 @@
       "duration_ms": 136000,
       "name": "NEFOR BRASILEIRO",
       "url": "https://open.spotify.com/track/4QnvZSnFkxBw6LsJ1sKapC"
-    },
-    {
-      "added_at": "2023-06-12 05:59:49",
-      "album": {
-        "name": "Abyss",
-        "url": "https://open.spotify.com/album/0RItfbXPf5eDzwdsgK9rKV"
-      },
-      "artists": [
-        {
-          "name": "Pastel Ghost",
-          "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Dark Beach",
-      "url": "https://open.spotify.com/track/5QmdK8QFbY8TLVKPuJzexD"
     },
     {
       "added_at": "2023-06-12 05:59:49",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 
 > A playback of <a href="https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624">Mood Ring</a>’s all\-stars\. Cover: Idman
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,848 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,876 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 | 74 | [Don't Take Your Love](https://open.spotify.com/track/1d4srFfqCqXT5EpesRXAkT) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Working On My Karma](https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59) | 3:06 |
 | 75 | [Compassion \(feat\. Chiiild\)](https://open.spotify.com/track/41h9PjfBH6mVDPMkLc6zsg) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 4:22 |
 
-Snapshot ID: `MCw1ZTlmZDdlZWIxYzk4YzVlODE4Y2MwNmM3MjQ5YTI5NzVjMzY2Njc4`
+Snapshot ID: `MCw4MTBiYWFhY2EyZDQ4M2I5YWQyZjc0Mjc4NTRkNjg2YzE1NDY2MWE2`

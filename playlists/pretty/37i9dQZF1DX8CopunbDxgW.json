@@ -1,12 +1,12 @@
 {
   "description": "The best indie dance tracks of the moment. Cover: ODESZA & Yellow House",
-  "num_followers": 861348,
+  "num_followers": 861448,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDRjNGZmYmE5MGYyYmVkZmFhNjcwNmQ3NWNlMTQyYjM1MzMwNjQ2",
+  "snapshot_id": "MCw5MDVkZmJhZDA5NTI5ODI0ZmNlYjdkZDBkMjUxY2ZmMDUxZTE0MWI0",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -493,26 +493,6 @@
       "url": "https://open.spotify.com/track/0lvOUYM0NzbzOI856TUHMM"
     },
     {
-      "added_at": "2023-04-18 16:41:50",
-      "album": {
-        "name": "Selfish Soul (ODESZA Remix)",
-        "url": "https://open.spotify.com/album/4aJcCRF4B3Tjefsu0aZKu2"
-      },
-      "artists": [
-        {
-          "name": "Sudan Archives",
-          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
-        },
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        }
-      ],
-      "duration_ms": 206210,
-      "name": "Selfish Soul - ODESZA Remix",
-      "url": "https://open.spotify.com/track/6N5thJ3UQMpHdf2fYOB3XL"
-    },
-    {
       "added_at": "2023-02-24 05:01:00",
       "album": {
         "name": "You Don't Know Me (feat. Duane Harden)",
@@ -531,6 +511,26 @@
       "duration_ms": 242333,
       "name": "You Don't Know Me (feat. Duane Harden) - Radio Edit",
       "url": "https://open.spotify.com/track/7BpyfQEmvi0sUmOq29plEE"
+    },
+    {
+      "added_at": "2023-04-18 16:41:50",
+      "album": {
+        "name": "Selfish Soul (ODESZA Remix)",
+        "url": "https://open.spotify.com/album/4aJcCRF4B3Tjefsu0aZKu2"
+      },
+      "artists": [
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        },
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        }
+      ],
+      "duration_ms": 206210,
+      "name": "Selfish Soul - ODESZA Remix",
+      "url": "https://open.spotify.com/track/6N5thJ3UQMpHdf2fYOB3XL"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -685,24 +685,24 @@
       "url": "https://open.spotify.com/track/37q95xoPlZZzzymKJmEFIB"
     },
     {
-      "added_at": "2023-03-10 15:28:12",
+      "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Assumptions (Kaytranada Edit)",
-        "url": "https://open.spotify.com/album/5YTiQmOzu1m293UgtWNJSR"
+        "name": "Can't Help But Think About You",
+        "url": "https://open.spotify.com/album/4n8C4vGUmvNgpy4DO34Www"
       },
       "artists": [
         {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+          "name": "Lincoln Jesser",
+          "url": "https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG"
         },
         {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+          "name": "EMME",
+          "url": "https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs"
         }
       ],
-      "duration_ms": 288097,
-      "name": "Assumptions - Kaytranada Edit",
-      "url": "https://open.spotify.com/track/7lWdyj9RrMsEN6F0Dl0irE"
+      "duration_ms": 208185,
+      "name": "Can't Help But Think About You",
+      "url": "https://open.spotify.com/track/43noj7erQp0en3LWB5pBF4"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -725,24 +725,24 @@
       "url": "https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N"
     },
     {
-      "added_at": "2023-02-24 05:01:00",
+      "added_at": "2023-03-10 15:28:12",
       "album": {
-        "name": "Can't Help But Think About You",
-        "url": "https://open.spotify.com/album/4n8C4vGUmvNgpy4DO34Www"
+        "name": "Assumptions (Kaytranada Edit)",
+        "url": "https://open.spotify.com/album/5YTiQmOzu1m293UgtWNJSR"
       },
       "artists": [
         {
-          "name": "Lincoln Jesser",
-          "url": "https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG"
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
         },
         {
-          "name": "EMME",
-          "url": "https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs"
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
         }
       ],
-      "duration_ms": 208185,
-      "name": "Can't Help But Think About You",
-      "url": "https://open.spotify.com/track/43noj7erQp0en3LWB5pBF4"
+      "duration_ms": 288097,
+      "name": "Assumptions - Kaytranada Edit",
+      "url": "https://open.spotify.com/track/7lWdyj9RrMsEN6F0Dl0irE"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -913,26 +913,6 @@
       "url": "https://open.spotify.com/track/1r6wNQnDUbhqXawf0s2Mlz"
     },
     {
-      "added_at": "2023-07-14 14:00:00",
-      "album": {
-        "name": "Dancing By Night",
-        "url": "https://open.spotify.com/album/0HHDMPccnsBnKLjC92kqxp"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        },
-        {
-          "name": "SebastiAn",
-          "url": "https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU"
-        }
-      ],
-      "duration_ms": 220539,
-      "name": "Dancing By Night",
-      "url": "https://open.spotify.com/track/1NqpeHsy3Q5E5yM0dntvBa"
-    },
-    {
       "added_at": "2023-06-05 14:03:29",
       "album": {
         "name": "Head Straight",
@@ -951,6 +931,26 @@
       "duration_ms": 140837,
       "name": "Head Straight",
       "url": "https://open.spotify.com/track/3AX1DcrLUY03ipCMZCkjuL"
+    },
+    {
+      "added_at": "2023-07-14 14:00:00",
+      "album": {
+        "name": "Dancing By Night",
+        "url": "https://open.spotify.com/album/0HHDMPccnsBnKLjC92kqxp"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        },
+        {
+          "name": "SebastiAn",
+          "url": "https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU"
+        }
+      ],
+      "duration_ms": 220539,
+      "name": "Dancing By Night",
+      "url": "https://open.spotify.com/track/1NqpeHsy3Q5E5yM0dntvBa"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1029,22 +1029,6 @@
       "url": "https://open.spotify.com/track/4qeIlzP0Z1JFXh0AckDcX8"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "U Neva",
-        "url": "https://open.spotify.com/album/4WP5N8BeLagGceIDMWIR6r"
-      },
-      "artists": [
-        {
-          "name": "Riovaz",
-          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
-        }
-      ],
-      "duration_ms": 142250,
-      "name": "U Neva",
-      "url": "https://open.spotify.com/track/4fE1aDSA7YDRQtOKibkf06"
-    },
-    {
       "added_at": "2023-02-24 05:01:00",
       "album": {
         "name": "Outer Peace",
@@ -1059,6 +1043,22 @@
       "duration_ms": 169351,
       "name": "Laws of the Universe",
       "url": "https://open.spotify.com/track/4rMWnKX4szJV3k2FATLdnR"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "U Neva",
+        "url": "https://open.spotify.com/album/4WP5N8BeLagGceIDMWIR6r"
+      },
+      "artists": [
+        {
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+        }
+      ],
+      "duration_ms": 142250,
+      "name": "U Neva",
+      "url": "https://open.spotify.com/track/4fE1aDSA7YDRQtOKibkf06"
     },
     {
       "added_at": "2023-04-21 17:35:52",
@@ -1101,26 +1101,6 @@
       "url": "https://open.spotify.com/track/2TfHuXx68GAVR71kUQttvJ"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Can\u2019t Let You Go",
-        "url": "https://open.spotify.com/album/2imS9LbJ227zp5w9I8hgf8"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Little Jet",
-          "url": "https://open.spotify.com/artist/1nviDnP5OhbWuV6jngLYoa"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Can\u2019t Let You Go",
-      "url": "https://open.spotify.com/track/3Mi8teeczekyPhn5lgW8li"
-    },
-    {
       "added_at": "2023-07-21 04:00:00",
       "album": {
         "name": "All the Good Times Never Die",
@@ -1139,6 +1119,26 @@
       "duration_ms": 188800,
       "name": "All the Good Times Never Die",
       "url": "https://open.spotify.com/track/0c8lmplaH3NgXWus2sVnpM"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Can\u2019t Let You Go",
+        "url": "https://open.spotify.com/album/2imS9LbJ227zp5w9I8hgf8"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Little Jet",
+          "url": "https://open.spotify.com/artist/1nviDnP5OhbWuV6jngLYoa"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Can\u2019t Let You Go",
+      "url": "https://open.spotify.com/track/3Mi8teeczekyPhn5lgW8li"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1201,26 +1201,6 @@
       "url": "https://open.spotify.com/track/4w2PIlbpP4jhc1S9MHUHzb"
     },
     {
-      "added_at": "2023-07-14 14:00:00",
-      "album": {
-        "name": "Let's Break It Down",
-        "url": "https://open.spotify.com/album/1rTS8SMvq0BXmgV3dk2rTL"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        },
-        {
-          "name": "St. Panther",
-          "url": "https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "Let's Break It Down",
-      "url": "https://open.spotify.com/track/29HtjUMEeeAS0y2JdsXhO1"
-    },
-    {
       "added_at": "2023-03-10 15:28:12",
       "album": {
         "name": "Move Me",
@@ -1251,6 +1231,26 @@
       "duration_ms": 243759,
       "name": "All My Friends",
       "url": "https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS"
+    },
+    {
+      "added_at": "2023-07-14 14:00:00",
+      "album": {
+        "name": "Let's Break It Down",
+        "url": "https://open.spotify.com/album/1rTS8SMvq0BXmgV3dk2rTL"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        },
+        {
+          "name": "St. Panther",
+          "url": "https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "Let's Break It Down",
+      "url": "https://open.spotify.com/track/29HtjUMEeeAS0y2JdsXhO1"
     },
     {
       "added_at": "2023-06-30 17:41:56",
@@ -1345,22 +1345,6 @@
       "url": "https://open.spotify.com/track/1qx0YqBNlRlqJAB4w3PjQo"
     },
     {
-      "added_at": "2023-07-14 14:00:00",
-      "album": {
-        "name": "Time To Run",
-        "url": "https://open.spotify.com/album/4hDuBgVAlRGJT5Bv1wWeoq"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Time To Run",
-      "url": "https://open.spotify.com/track/7kcGTBLBblNXP2tSs49s5k"
-    },
-    {
       "added_at": "2023-06-30 17:41:56",
       "album": {
         "name": "Talk It Over",
@@ -1379,6 +1363,22 @@
       "duration_ms": 257178,
       "name": "Talk It Over",
       "url": "https://open.spotify.com/track/0XafrYWJ9cIiJW5klEDHAa"
+    },
+    {
+      "added_at": "2023-07-14 14:00:00",
+      "album": {
+        "name": "Time To Run",
+        "url": "https://open.spotify.com/album/4hDuBgVAlRGJT5Bv1wWeoq"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "Time To Run",
+      "url": "https://open.spotify.com/track/7kcGTBLBblNXP2tSs49s5k"
     },
     {
       "added_at": "2023-07-10 13:50:12",
@@ -1417,22 +1417,6 @@
       "url": "https://open.spotify.com/track/3VsuqAQ7XXKsygtCGyPzO1"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Is U",
-        "url": "https://open.spotify.com/album/4jO5B8uUoYusn8Yb8iSoVo"
-      },
-      "artists": [
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        }
-      ],
-      "duration_ms": 228514,
-      "name": "Is U",
-      "url": "https://open.spotify.com/track/4Z3RGx7Be5plLoIw7i83wX"
-    },
-    {
       "added_at": "2023-04-28 05:14:56",
       "album": {
         "name": "& the Charm",
@@ -1447,6 +1431,22 @@
       "duration_ms": 219833,
       "name": "Astrology Poisoning",
       "url": "https://open.spotify.com/track/2vYd15dPYelxBESvyviVbf"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Is U",
+        "url": "https://open.spotify.com/album/4jO5B8uUoYusn8Yb8iSoVo"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "duration_ms": 228514,
+      "name": "Is U",
+      "url": "https://open.spotify.com/track/4Z3RGx7Be5plLoIw7i83wX"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1593,6 +1593,26 @@
       "url": "https://open.spotify.com/track/15wh4sekuZ58WzHW1V33Zi"
     },
     {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Candle Flame (Opolopo Remix)",
+        "url": "https://open.spotify.com/album/1TgevMR4b6rX7wxXI252us"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Opolopo",
+          "url": "https://open.spotify.com/artist/5WaobPZaAjGIIlabFX3I94"
+        }
+      ],
+      "duration_ms": 353164,
+      "name": "Candle Flame - Opolopo Remix",
+      "url": "https://open.spotify.com/track/6rGww3K64vpXmxa0azKA8L"
+    },
+    {
       "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "Palaces : The Remixes, Pt. 3",
@@ -1615,26 +1635,6 @@
       "duration_ms": 277865,
       "name": "Sirens (feat. Caroline Polachek) [Tourist Remix]",
       "url": "https://open.spotify.com/track/6OoLVkHNPsKuPdOBAkhg4r"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Candle Flame (Opolopo Remix)",
-        "url": "https://open.spotify.com/album/1TgevMR4b6rX7wxXI252us"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        },
-        {
-          "name": "Opolopo",
-          "url": "https://open.spotify.com/artist/5WaobPZaAjGIIlabFX3I94"
-        }
-      ],
-      "duration_ms": 353164,
-      "name": "Candle Flame - Opolopo Remix",
-      "url": "https://open.spotify.com/track/6rGww3K64vpXmxa0azKA8L"
     },
     {
       "added_at": "2023-07-10 13:50:12",
@@ -1781,6 +1781,22 @@
       "url": "https://open.spotify.com/track/54rNIPcl3M51J42P1C7NNX"
     },
     {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "The Pool",
+        "url": "https://open.spotify.com/album/6fMCbvSwgHSnB0BcgVB7m8"
+      },
+      "artists": [
+        {
+          "name": "Mayer Hawthorne",
+          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
+        }
+      ],
+      "duration_ms": 215893,
+      "name": "The Pool",
+      "url": "https://open.spotify.com/track/0vrk52MOndmqMjtMNYCApR"
+    },
+    {
       "added_at": "2023-03-10 15:28:12",
       "album": {
         "name": "You Are Everywhere",
@@ -1815,22 +1831,6 @@
       "duration_ms": 199175,
       "name": "Everybody",
       "url": "https://open.spotify.com/track/7rrPANmUDxWbA9e6rtenLa"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "The Pool",
-        "url": "https://open.spotify.com/album/6fMCbvSwgHSnB0BcgVB7m8"
-      },
-      "artists": [
-        {
-          "name": "Mayer Hawthorne",
-          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
-        }
-      ],
-      "duration_ms": 215893,
-      "name": "The Pool",
-      "url": "https://open.spotify.com/track/0vrk52MOndmqMjtMNYCApR"
     }
   ],
   "unique_name": "metropolis",
